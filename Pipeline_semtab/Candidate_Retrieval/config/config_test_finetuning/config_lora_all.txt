@@ -1,0 +1,27 @@
+# Folder
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_lora_fp16_all
+
+# Query
+GENERATOR_ORDER:direct,llm
+USE_DIRECT:true
+USE_LLM:true
+USE_FUZZY:false
+USE_FULLTEXT:false
+USE_MULTILINGUAL:false
+
+# Wikidata
+LANGUAGE:en
+SEARCH_LIMIT:20
+MAX_CANDIDATES_PER_CELL:0
+API_SLEEP:0.1
+ENRICH_CANDIDATES:true
+
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+ADAPTER_PATH:lora-fp16-adapter-all
+LOAD_IN_4BIT:false
+LLM_MAX_SUGGESTIONS:8
+LLM_MAX_NEW_TOKENS:256
+
+# PROMPT: same as training
+PROMPT:You are a candidate generation assistant for entity linking in tabular data. Given a cell value and its table context, generate a list of distinct Wikidata entity names that could match the cell value. Return ONLY the candidate names separated by semicolons, nothing else. Example output: Candidate1; Candidate2; Candidate3

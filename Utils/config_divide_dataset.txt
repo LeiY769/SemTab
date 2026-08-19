@@ -1,0 +1,10 @@
+# Divide dataset  sample a subset of tables for the SemTab evaluation
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Test
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Small_Test
+
+# Sampling
+# N_SMALL tables with at most SMALL_MAX_CEA CEA rows, plus N_RANDOM from the rest
+N_SMALL:250
+SMALL_MAX_CEA:50
+N_RANDOM:250
+SEED:1

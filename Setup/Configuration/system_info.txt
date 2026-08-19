@@ -1,0 +1,16 @@
+# ── Snapshot 2026-07-06 11:49:16 ──
+# Node: compute-11
+# Conda env: myenv
+# Python: Python 3.9.23
+#
+# ── GPU / Driver ──
+# Quadro RTX 6000, 550.90.07, 24576 MiB
+# CUDA driver max: 12.4
+# nvcc toolkit: non installé
+#
+# ── PyTorch ──
+# torch: 2.6.0+cu124
+# torch CUDA: 12.4
+# cuDNN: 90100
+# GPU dispo: True
+# GPU: Quadro RTX 6000

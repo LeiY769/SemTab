@@ -1,0 +1,16 @@
+# Folder
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Training/preprocessing_nollm
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Training/candidate_fuzzy_direct
+
+# Query
+GENERATOR_ORDER:direct,fuzzy
+USE_DIRECT:true
+USE_LLM:false
+USE_FUZZY:true
+
+# Wikidata
+LANGUAGE:en
+SEARCH_LIMIT:10
+MAX_CANDIDATES_PER_CELL:0
+API_SLEEP:0.1
+ENRICH_CANDIDATES:true

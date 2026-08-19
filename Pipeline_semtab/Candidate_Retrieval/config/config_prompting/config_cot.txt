@@ -1,0 +1,23 @@
+# Folder
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_qwen25_3b_10_cot
+
+# Query  (fuzzy removed on purpose: a capable LLM should already cover those surface variants)
+GENERATOR_ORDER:direct,llm
+USE_DIRECT:true
+USE_LLM:true
+USE_FUZZY:false
+
+
+# Wikidata
+LANGUAGE:en
+SEARCH_LIMIT:10
+MAX_CANDIDATES_PER_CELL:0
+API_SLEEP:0.1
+ENRICH_CANDIDATES:true
+
+# LLM (chain-of-thought: reason first, then emit the final list after "FINAL:" which the output parser extracts)
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+LLM_MAX_SUGGESTIONS:8
+LLM_MAX_NEW_TOKENS:1024
+PROMPT:You are a candidate generation assistant for entity linking in tabular data. Given a cell value and its table context, your task is to propose distinct Wikidata entity names that could match the cell value.\n\nThink step by step before answering:\n1. Analyse the cell value: what kind of string is it (person, place, organisation, work, abbreviation, misspelling)?\n2. Analyse the row context: what entity type does the row suggest?\n3. List plausible interpretations of the cell value, including alternative names, full forms and disambiguated variants.\n\nWrite your reasoning briefly, then output the final answer on a single last line starting with "FINAL:" followed by the candidate names separated by semicolons.\nExample of a final line: FINAL: Candidate1; Candidate2; Candidate3

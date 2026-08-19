@@ -1,0 +1,9 @@
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/tables
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_basic_prompt
+TARGET_FOLDER:WikidataTables2024R1/DataSets/Valid/targets
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+NEED_CORRECTTYPO:true
+NUM_GPUS:4
+SYSTEM_PROMPT:Correct the spelling.
+USE_FEWSHOT:false
+FEWSHOT_EXAMPLES: pariss -> paris; United Kngdom -> United Kingdom; 1999 -> 1999; UnipolSai -> UnipolSai

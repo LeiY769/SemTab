@@ -1,0 +1,24 @@
+# Folder
+INPUT_FOLDER:For_Thesis_finetune/preprocessing_nollm
+OUTPUT_FOLDER:For_Thesis_finetune/candidate_glm_9b_10
+
+# Query  (fuzzy removed on purpose: a capable LLM should already cover those surface variants)
+GENERATOR_ORDER:direct,llm
+USE_DIRECT:true
+USE_LLM:true
+USE_FUZZY:false
+USE_FULLTEXT:false
+USE_MULTILINGUAL:false
+
+# Wikidata
+LANGUAGE:en
+SEARCH_LIMIT:10
+MAX_CANDIDATES_PER_CELL:0
+API_SLEEP:0.1
+ENRICH_CANDIDATES:true
+
+
+MODEL_NAME:zai-org/glm-4-9b-chat-hf
+LLM_MAX_SUGGESTIONS:8
+LLM_MAX_NEW_TOKENS:1024
+PROMPT:You are a candidate generation assistant for entity linking in tabular data. Given a cell value and its table context, generate a list of distinct Wikidata entity names that could match the cell value. Return ONLY the candidate names separated by semicolons, nothing else. Example output: Candidate1; Candidate2; Candidate3

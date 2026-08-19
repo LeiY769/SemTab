@@ -1,0 +1,23 @@
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:baseline_direct_output
+TASKS:cea,cta,cpa
+
+# Model
+MODEL_NAME:Qwen/Qwen2.5-7B-Instruct
+ADAPTER_PATH:
+LOAD_IN_4BIT:false
+MAX_CTX:4096
+BATCH_SIZE:16
+MAX_NEW_TOKENS:32
+
+# Prompt context sizes
+MAX_ROWS_CONTEXT:20
+CTA_MAX_VALUES:30
+CPA_MAX_PAIRS:15
+
+# Output format (same as ranking stage, compatible with the evaluators)
+ENTITY_AS_URI:True
+ROW_OFFSET:1
+WRITE_HEADER:False
+
+SYSTEM_PROMPT:You are an expert on the Wikidata knowledge graph. Answer with Wikidata identifiers only.

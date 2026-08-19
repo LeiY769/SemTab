@@ -1,0 +1,12 @@
+# Full pipeline run - stage 1: preprocessing (no-LLM variant, best downstream retrieval)
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/tables
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/full_run_preprocessing
+TARGET_FOLDER:WikidataTables2024R1/DataSets/Valid/targets
+
+# LLM typo correction disabled: noise removal + target marking only
+NEED_CORRECTTYPO:false
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+NUM_GPUS:1
+SYSTEM_PROMPT:You are a spelling corrector. Correct only obvious typos in the text the user sends. Do not translate, do not rephrase, do not change proper nouns, casing, numbers or dates. If the text is already correct, return it unchanged. Reply with the corrected text only, with no explanation, no quotes and no prefixes.
+USE_FEWSHOT:true
+FEWSHOT_EXAMPLES: pariss -> paris; United Kngdom -> United Kingdom; 1999 -> 1999; UnipolSai -> UnipolSai

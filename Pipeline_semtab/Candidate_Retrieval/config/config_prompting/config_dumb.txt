@@ -1,0 +1,23 @@
+# Folder
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_qwen25_3b_10_dumb
+
+# Query  (fuzzy removed on purpose: a capable LLM should already cover those surface variants)
+GENERATOR_ORDER:direct,llm
+USE_DIRECT:true
+USE_LLM:true
+USE_FUZZY:false
+
+
+# Wikidata
+LANGUAGE:en
+SEARCH_LIMIT:10
+MAX_CANDIDATES_PER_CELL:0
+API_SLEEP:0.1
+ENRICH_CANDIDATES:true
+
+# LLM (dumb: naive one-line instruction, no role, no task description, no example; only the separator is kept so the parser still works)
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+LLM_MAX_SUGGESTIONS:8
+LLM_MAX_NEW_TOKENS:1024
+PROMPT:Give names that could match the text. Separate them with semicolons.

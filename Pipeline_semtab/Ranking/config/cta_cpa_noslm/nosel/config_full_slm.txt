@@ -1,0 +1,49 @@
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_lora_fp16
+PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:results/cta_cpa_noslm_nosel/full_slm
+
+# Method: limited_slm (rules + SLM tie-break) | full_slm (debate + verify) | slm_context (gated, table context)
+METHOD:full_slm
+MODEL_NAME:Qwen/Qwen2.5-3B-Instruct
+
+# Which tasks to produce (comma-separated): cea,cta,cpa
+TASKS:cea,cta,cpa
+
+# Small-LM involvement
+CEA_USE_SLM:True
+CTA_USE_SLM:False
+CPA_USE_SLM:False
+CEA_TIEBREAK_MARGIN:0.05
+CEA_CONTEXT_TIEBREAK:False
+CEA_CONTEXT_MARGIN:0.10
+
+# CTA
+CTA_FROM_SELECTION:False
+
+# Method slm_context (gate: uncertain|all)
+LLM_GATE:uncertain
+LLM_CONTEXT_MARGIN:0.10
+LLM_CONTEXT_MAX_ROWS:20
+LLM_ENRICH:False
+CONTEXT_COT:False
+
+# Self-consistency (method slm_context)
+CONTEXT_SELF_CONSISTENCY:False
+SC_SAMPLES:5
+SC_TEMPERATURE:0.7
+SC_TOP_P:0.95
+
+# Method llm (debate + verify)
+LLM_VERIFY:True
+LLM_TOPK:10
+
+# Engine
+DEVICE_ID:0
+MAX_CTX:8192
+LLM_BATCH_SIZE:16
+
+# Output format
+ENTITY_AS_URI:True
+WRITE_HEADER:False
+# +1 for the offset
+ROW_OFFSET:1

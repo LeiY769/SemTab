@@ -1,0 +1,54 @@
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_lora_fp16
+PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:results/tablellama/tablellama_prompts
+
+# Method: limited_slm (rules + SLM tie-break) | full_slm (debate + verify) | slm_context (gated, table context)
+METHOD:slm_context
+MODEL_NAME:osunlp/TableLlama
+
+# Which tasks to produce (comma-separated): cea,cta,cpa
+TASKS:cea,cta,cpa
+
+# Small-LM involvement
+CEA_USE_SLM:True
+CTA_USE_SLM:True
+CPA_USE_SLM:True
+CEA_TIEBREAK_MARGIN:0.05
+CEA_CONTEXT_TIEBREAK:False
+CEA_CONTEXT_MARGIN:0.10
+
+# CTA
+CTA_FROM_SELECTION:True
+
+# Method slm_context (gate: uncertain|all)
+LLM_GATE:uncertain
+LLM_CONTEXT_MARGIN:0.10
+LLM_CONTEXT_MAX_ROWS:20
+LLM_ENRICH:False
+CONTEXT_COT:False
+
+# Self-consistency (method slm_context)
+CONTEXT_SELF_CONSISTENCY:False
+SC_SAMPLES:5
+SC_TEMPERATURE:0.7
+SC_TOP_P:0.95
+
+# Method llm (debate + verify)
+LLM_VERIFY:True
+LLM_TOPK:10
+
+# Engine
+DEVICE_ID:0
+MAX_CTX:8192
+LLM_BATCH_SIZE:16
+
+# Output format
+ENTITY_AS_URI:True
+WRITE_HEADER:False
+# +1 for the offset
+ROW_OFFSET:1
+
+# Prompts rewritten in the TableLlama instruction format
+CONTEXT_PROMPT:Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nThis is an entity linking task. The goal for this task is to link the selected entity mention in the table cell to the entity in the knowledge base. You will be given a list of candidate referent entities, each composed of a QID, an entity name and a description. Please choose the correct one from the candidates. Return only the QID of the correct referent entity.\n\n### Input:\n${table_block}Target cell (${location}) value: ${mention}\n${coltype_block}\n\n### Question:\nThe candidate referent entities are:\n${candidates}\nWhat is the QID of the correct referent entity for the target cell?\n\n### Response:
+CTA_PROMPT:Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nThis is a column type annotation task. The goal for this task is to choose the correct semantic type for the selected column from the given candidate types. Return only the QID of the correct type.\n\n### Input:\n${values_block}\n\n### Question:\nThe candidate types are:\n${candidates}\nWhat is the QID of the type that best describes all the values in this column?\n\n### Response:
+CPA_PROMPT:Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.\n\n### Instruction:\nThis is a relation extraction task. The goal for this task is to choose the property that best links the subject column to the object column from the given candidate properties. Return only the PID of the correct property.\n\n### Input:\n${values_block}\n\n### Question:\nThe candidate properties (subject -> object) are:\n${candidates}\nWhat is the PID of the property that best links the two columns?\n\n### Response:
