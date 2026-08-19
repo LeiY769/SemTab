@@ -1,0 +1,303 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Harris Lake,Harris Lake,Q33259607,0,0,1,"lake in Berrien County, Michigan, United States of America",,Q23397,,"Harris Lake (Berrien County, Michigan)"
+Harris Lake,Harris Lake,Q34889155,0,0,1,,,Q131681,,
+Harris Lake,Harris Lake,Q34679247,0,0,1,lake in United States of America,,Q23397,,
+Harris Lake,Harris Lake,Q1586205,0,0,1,"reservoir lake in Chatham County, North Carolina, USA",,Q131681,,"Harris Lake (New Hill, North Carolina)"
+Harris Lake,Harris Lake,Q22576158,0,0,1,"lake in Unorganized Division No. 22, Manitoba, Canada",,Q23397,,
+Harris Lake,Harris Lake,Q33259614,0,0,1,"lake in Saint Louis County, Minnesota, United States",,Q23397,,
+Harris Lake,Harris Lake,Q22576284,0,0,1,"lake in Parry Sound District, Ontario, Canada (lat 45.48, lon -79.99)",,Q23397,,
+Harris Lake,Harris Lake,Q22576273,0,0,1,"lake in Kenora District, Ontario, Canada",,Q23397,,
+Harris Lake,Harris Lake,Q22576303,0,0,1,"lake in Thunder Bay District, Ontario, Canada (lat 48.80, lon -88.57)",,Q23397,,
+Harris Lake,Harris Lake,Q35705475,0,0,1,"lake in Vilas County, Wisconsin, United States of America",,Q23397,,
+Harris Lake,Lake Harris,Q34898874,0,0,2,reservoir in the USA,,Q131681,,
+Harris Lake,Lake Harris,Q1800942,0,0,2,"lake in Lake County, Florida, United States of America",,Q23397,,Lake Harris (Florida)
+Harris Lake,Lake Harris,Q1800943,0,0,2,lake in New Zealand,,Q23397,,Lake Harris (New Zealand)
+Harris Lake,Lake Harris,Q21891692,0,0,2,lake in South Australia,,Q23397,,Lake Harris (South Australia)
+Harris Lake,Lake Harris,Q28428293,0,0,2,locality in South Australia,"Lake Harris, South Australia",Q3257686,,"Lake Harris, South Australia"
+Harris Lake,Lake Harris,Q35731690,0,0,2,lake of the United States of America,,Q23397,,
+Harris Lake,Lake Harris Dam,Q34868573,0,0,2,"dam in Gregg County, Texas, United States of America",,Q12323,,
+Harris Lake,Lake Harrison Dam,Q34868585,0,0,2,"dam in Montgomery County, Texas, United States of America",,Q12323,,
+Harris Lake,Lake Harris Dam,Q21948371,0,0,2,"dam in South Australia, Australia",,Q12323,,
+Harris Lake,Lake Harrison,Q6476098,0,0,2,Prehistoric lake that covered part of England,,Q211302,,Lake Harrison
+Algona,Algona,Q646484,1,0,1,"city in Iowa, United States","Algona, Iowa|Algona, IA",Q1093829|Q62049,,"Algona, Iowa"
+Algona,Algona,Q514836,1,0,1,"city in King County, Washington, United States","Algona, Washington|Algona, WA",Q1093829,,"Algona, Washington"
+Algona,Algona,Q115260684,1,0,1,"geographic township in Ontario, Canada",,Q96759164,,
+Algona,Algona,Q116696493,1,0,1,"power station with capacity >1MW in Kossuth County, Iowa",,Q261604|Q18206833,,
+Algona,Algonac,Q2731289,1,0,1,"city in St. Clair County, Michigan","Algonac, Michigan|Algonac, MI",Q1093829,,"Algonac, Michigan"
+Algona,Algona Community School District,Q56274427,1,0,1,"public school district in Algona, Iowa, United States",,Q15726209,,Algona Community School District
+Algona,Algona Public Library,Q69471948,1,0,1,"public library system in Iowa, USA",,Q26271642,,
+Algona,Algona Municipal Airport,Q4724319,1,0,1,"airport in Iowa, United States of America",AXG|KAXA,Q1248784,,Algona Municipal Airport
+Algona,Algonac State Park,Q4724317,1,0,1,"park in Michigan, USA",,Q37998944,,Algonac State Park
+Algona,Algona Road,Q4724316,1,0,1,road in Tasmania,,Q34442,,Algona Road
+Belleville,Belleville,Q1060182,2,0,1,"commune in Meurthe-et-Moselle, France",,Q484170,,"Belleville, Meurthe-et-Moselle"
+Belleville,Belleville,Q815946,2,0,1,Paris Métro station,,Q928830|Q22808403,,Belleville station (Paris Metro)
+Belleville,Belleville,Q37316999,2,0,1,family name,,Q101352,,
+Belleville,Belleville,Q34227,2,0,1,"city in Ontario, Canada","Belleville, Ontario|Belleville, ON",Q6593035|Q14762300|Q515,,"Belleville, Ontario"
+Belleville,Belleville,Q79892,2,0,1,"city in and seat of St. Clair County, Illinois, United States","Belleville, Illinois|Belleville, IL",Q1093829|Q62049,,"Belleville, Illinois"
+Belleville,Belleville-et-Châtillon-sur-Bar,Q629442,2,0,1,"commune in Ardennes, France",Belleville-et-Chatillon-sur-Bar|Belleville et Châtillon sur Bar,Q484170,,Belleville-et-Châtillon-sur-Bar
+Belleville,Belleville-sur-Loire,Q1139878,2,0,1,"commune in Cher, France",Belleville sur Loire,Q484170,,Belleville-sur-Loire
+Belleville,Belleville,Q815949,2,0,1,"administrative quarter in Paris, France",Belleville (réunie à Paris)|Mont-Chalier,Q252916|Q123705,,"Belleville, Paris"
+Belleville,Belleville,Q583071,2,0,1,"former commune in Rhône, France",,Q21869758|Q484170,,"Belleville, Rhône"
+Belleville,Belleville-en-Caux,Q1135285,2,0,1,"commune in Seine-Maritime, France",Belleville en Caux,Q484170,,Belleville-en-Caux
+Ogden,Ogden,Q16280349,3,0,1,family name,,Q101352,,Ogden (name)
+Ogden,Ogden,Q3881076,3,0,1,male given name,Ogden (first name)|Ogden (given name),Q12308941,,
+Ogden,Ogden,Q52471,3,0,1,"city in and county seat of Weber County, Utah, United States","Ogden, Utah|Ogden, UT",Q1093829|Q62049,,"Ogden, Utah"
+Ogden,Ogden,Q541950,3,0,1,"municipality in Estrie, Quebec, Canada","Ogden, Quebec|Ogden, QC",Q27676428,,"Ogden, Quebec"
+Ogden,Ogden Nash,Q719228,3,0,1,American poet (1902–1971),,Q5,,Ogden Nash
+Ogden,Ogden L. Mills,Q1370873,3,0,1,American politician (1884-1937),Ogden Livingston Mills,Q5,,Ogden L. Mills
+Ogden,Ogden,Q2496717,3,0,1,"city in Riley County, Kansas, United States","Ogden, Kansas|Ogden, KS",Q1093829,,"Ogden, Kansas"
+Ogden,Ogden,Q1950624,3,0,1,"city in Little River County, Arkansas, United States","Ogden, Arkansas|Ogden, AR",Q1093829,,"Ogden, Arkansas"
+Ogden,Ogden,Q3357955,3,0,1,"town in Monroe County, New York, United States of America","Ogden, New York|Ogden, NY",Q15127012|Q106071004,,"Ogden, New York"
+Ogden,Ogden Tweto,Q19519449,3,0,1,American geologist,Ogden Linne Tweto|O. L. Tweto|O.L. Tweto,Q5,,Ogden Tweto
+Ogden,Ogden City Cemetery,Q63861176,3,0,2,"cemetery in Ogden, Utah, United States",,Q39614,,
+Ogden,Ogden City School District,Q17040840,3,0,2,"school district in Ogden, Utah",,Q398141,,Ogden City School District
+Ogden,Ogden City SC,Q65118860,3,0,2,American soccer club,,Q476028,,Salt City SC
+Ogden,Ogden City v. Armstrong,Q19082851,3,0,2,United States Supreme Court case,,Q19692072|Q2334719,,
+Ogden,Ogden City Plaza Cinemas,Q43262610,3,0,2,"former movie theater in Ogden, Utah, United States",City Square 4,Q41253,,
+Ogden,City of Ogden,Q139386178,3,0,2,"government of Ogden, Utah, United States","City of Ogden, Utah|government of Ogden|government of Ogden, Utah|Ogden City Corporation|City of Ogden Corporation",Q134430903,,
+Moose Lake,Moose Lake,Q22381183,4,0,1,"lake in southwestern Thunder Bay District, Ontario, Canada",,Q23397,,
+Moose Lake,Moose Lake,Q22381163,4,0,1,"lake in Ontario, Canada, and Minnesota, United States",,Q23397,,
+Moose Lake,Moose Lake,Q2229019,4,0,1,"city in Carlton County, Minnesota, United States","Moose Lake, Minnesota|Moose Lake, MN",Q1093829,,"Moose Lake, Minnesota"
+Moose Lake,Lac Nilgaut,Q3215093,4,0,1,"lake in Quebec, Canada",Nilgaut Lake|Moose Lake,Q23397,,
+Moose Lake,Moose Lake,Q6908608,4,0,1,"human settlement in Manitoba, Canada","Moose Lake, MB|Moose Lake, Manitoba",Q956318|Q115662966,,"Moose Lake, Manitoba"
+Moose Lake,Moose Lake,Q30606262,4,0,1,"former name of a lake in Manitoba, Canada",,Q23397,,Moose Lake (Manitoba)
+Moose Lake,Moose Lake,Q22381379,4,0,1,"lake in Yukon, Canada; outflow via Moose River",Moose Lake (Yukon),Q23397,,
+Moose Lake,Moose Lake,Q4308282,4,0,1,"lake in Municipal District of Bonnyville No. 87, Alberta, Canada",,Q23397,,Moose Lake (Alberta)
+Moose Lake,Moose Lake,Q6908609,4,0,1,"lake on Fraser River in British Columbia, Canada",,Q23397,,Moose Lake (British Columbia)
+Moose Lake,Moose Lake,Q22379857,4,0,1,"lake in Stikine Region, British Columbia, Canada (lat 59.60, lon -133.56)",,Q23397,,
+New Lisbon,New Lisbon,Q1569375,5,0,1,"city in Juneau County, Wisconsin, United States","City of New Lisbon|New Lisbon, Wisconsin|New Lisbon, WI",Q15221373,,"New Lisbon, Wisconsin"
+New Lisbon,Lisbon,Q1016603,5,0,1,"village in Columbiana County, Ohio, USA","Lisbon, Ohio|Lisbon, OH|New Lisbon, Ohio|New Lisbon, OH|New Lisbon",Q62049|Q108569739,,"Lisbon, Ohio"
+New Lisbon,New Lisbon,Q3709186,5,0,1,town in New York,"New Lisbon, New York|New Lisbon, NY",Q15127012|Q106071004,,"New Lisbon, New York"
+New Lisbon,New Lisbon,Q7009858,5,0,1,"unincorporated community in Henry County, Indiana","New Lisbon, Indiana|New Lisbon, IN",Q17343829,,"New Lisbon, Indiana"
+New Lisbon,New Lisbon,Q7009859,5,0,1,"human settlement in Pemberton Township, New Jersey, United States of America","New Lisbon, New Jersey",Q486972,,"New Lisbon, New Jersey"
+New Lisbon,New Lisbon,Q30595278,5,0,1,human settlement in United States of America,"New Lisbon, Randolph County, Indiana|New Lisbon, Indiana",Q17343829,,"New Lisbon, Randolph County, Indiana"
+New Lisbon,New Lisbon,Q134996972,5,0,1,,,,,
+New Lisbon,New Lisbon,Q116697397,5,0,1,"power station with capacity >1MW in Juneau County, Wisconsin",,Q261604|Q18206833,,
+New Lisbon,New Lisbon Airport,Q174586,5,0,1,proposed airport in Portugal,aeropuerto propuesto en Portugal,Q44665966,,Lisbon Luís de Camões Airport
+New Lisbon,New Lisbon High School,Q7009861,5,0,1,"high school in New Lisbon, Juneau County, Wisconsin",,Q9826,,New Lisbon High School
+New Lisbon,Lisbon,Q2384470,5,0,2,"town in Maine, USA","Lisbon, Maine|Lisbon, ME",Q15127012,,"Lisbon, Maine"
+New Lisbon,"Lisbon, Ohio",Q79909373,5,0,2,"print by Alfred J. Wands (American, 1904-1998) (1951.475)",,Q11060274,,
+Downtown,Downtown,Q22981642,6,0,1,vocal track by Lloyd Cole; 1990 studio recording,,Q55850593,,
+Downtown,Downtown,Q72960574,6,0,1,vocal track by Petula Clark; 1964 studio recording,,Q55850593,,
+Downtown,Downtown,Q72964096,6,0,1,vocal track by The B-52's; 1979 studio recording; cover version,,Q55850593,,
+Downtown,Downtown,Q88969378,6,0,1,vocal track by Sandie Shaw; 1965 studio recording; cover version,,Q55850593,,
+Downtown,Downtown,Q20686590,6,0,1,1985 studio album by Marshall Crenshaw,,Q482994,,Downtown (Marshall Crenshaw album)
+Downtown,Downtown,Q52158037,6,0,1,"original song written and composed by Stephen Shareaux, Drew Fortier; recorded by ZFM",,Q105543609,,
+Downtown,downtown,Q1050303,6,0,1,"city's core, often synonymous with its central business district (CBD), in North America",,,Q738570|Q123705|Q7830048,Downtown
+Downtown,Downtown Los Angeles,Q995043,6,0,1,"central business district of Los Angeles, California, United States",Downtown|Downtown L.A.|DTLA|Downtown LA,Q738570|Q123705|Q1050303,,Downtown Los Angeles
+Downtown,Downtown Washington,Q5303341,6,0,1,"neighborhood of Washington, D.C.","Downtown Washington, D.C.|Downtown (Washington, D.C.)",Q738570|Q12063697|Q123705,,"Downtown (Washington, D.C.)"
+Downtown,Downtown Miami,Q2215877,6,0,1,"neighborhood of Miami in Miami-Dade County, Florida, United States","Greater Downtown Miami|Downtown Miami|Downtown Miami, Florida",Q738570|Q123705,,Greater Downtown Miami
+Downtown,central business district,Q738570,6,0,2,"commercial and business area of a city; not necessarily synonymous with ""city center""/""downtown""",CBD|business district,,Q123705|Q1133961|Q28692737|Q106860125,Central business district
+Downtown,Downtown Pittsburgh,Q11331506,6,0,2,"central business district of Pittsburgh, Pennsylvania, United States of America",Golden Triangle|Central Business District,Q738570|Q110798863|Q27702623,,Downtown Pittsburgh
+Downtown,Central Business District,Q17153278,6,0,2,"Claremont, New Hampshire historic district",Central Business District Historic District,Q15243209,,"Central Business District (Claremont, New Hampshire)"
+Downtown,Central Business District,Q13682206,6,0,2,"township-level division in Binhai, Tianjin",,Q985488,,
+Downtown,Central Business District,Q5060493,6,0,2,"neighbourhood in Saskatoon, Saskatchewan, Canada","Central Business District, Saskatoon|Downtown Saskatoon",Q738570|Q123705,,"Central Business District, Saskatoon"
+Downtown,Central Business District Station,Q63965820,6,0,2,rapid transit station of Zhengzhou Metro,,Q928830|Q22808403,,Central Business District station (Zhengzhou Metro)
+Downtown,Central Business District,Q23016498,6,0,2,central business district in the United States,,Q1468524,,Central Business District (Miami)
+Downtown,Quartier central des affaires,Q3412297,6,0,2,"human settlement in Paris, France",QCA|central business district,Q123705,,
+Downtown,Central Business District,Q137595605,6,0,2,,,Q928830|Q22808403,,
+Downtown,Central District,Q111664865,6,0,2,"central business district of Abuja, Nigeria","Central Business District|Central District, Abuja|Abuja Central District|Abuja Central Business District",,,
+Downtown,city center,Q1468524,6,0,2,"commercial, cultural and often the historical, political and geographic heart of a city",downtown area|city centre|central city|urban core|city core|town center|town centre|hub|the point,,Q123705|Q738570|Q7830048|Q618123,City centre
+Downtown,City Center,Q135264482,6,0,2,Tony Hawk's Project 8 level,The Capitol|Capitol Building,Q1046315,,
+Downtown,City center,Q3404781,6,0,2,,,Q123705,,
+Downtown,City-Center,Q5122942,6,0,2,"building in Helsinki, Finland",,Q41176,,City-Center
+Downtown,City Center,Q5123060,6,0,2,"light rail station in Downtown Salt Lake City, Utah, United States",City Center Station,Q2175765|Q22808404,,City Center station (Utah Transit Authority)
+Downtown,Delegation of Jendouba City Center,Q3176985,6,0,2,Delegation of Jendouba,city center,Q1184072,,
+Downtown,barrio-pueblo of Puerto Rico,Q110921777,6,0,2,barrio of Puerto Rico that is the seat of a municipality,downtown|city center|muncipal center|municipal seat|pueblos in Puerto Rico|pueblos of Puerto Rico|downtowns in Puerto Rico|downtowns of Puerto Rico,,Q3677932|Q15303838,Pueblos in Puerto Rico
+Downtown,City-Center Görlitz,Q56242628,6,0,2,"shopping centre in Görlitz, Germany",,Q11315,,
+Downtown,New York City Center,Q535631,6,0,2,theater in New York City,City Center of Music and Drama,Q24354|Q163740,,New York City Center
+Downtown,City center,Q792564,6,0,2,,,Q123705,,
+Blewett,Blewett,Q4926416,7,0,1,family name,,Q101352,,Blewett
+Blewett,22927 Blewett,Q2611073,7,0,1,asteroid,Blewett,Q3863,,22927 Blewett
+Blewett,Blewett,Q4926418,7,0,1,"human settlement in Washington, United States of America","Blewett, Washington",Q74047|Q17343829,,"Blewett, Washington"
+Blewett,Blewett,Q116697209,7,0,1,"power station with capacity >1MW in Anson County, North Carolina",,Q15911738|Q261604,,
+Blewett,Blewett,Q115870692,7,0,1,"railway point in Saskatchewan, Canada",,Q88397339,,
+Blewett,Blewett,Q116042951,7,0,1,"human settlement in British Columbia, Canada",,Q486972,,
+Blewett,Blewett,Q115260875,7,0,1,"geographic township in Ontario, Canada",,Q96759164,,
+Blewett,Heather Blewett,Q46119587,7,0,1,Canadian researcher,"Blewett, Heather J.|Heather J. Blewett",Q5,,
+Blewett,Blewett Pass,Q4926421,7,0,1,"mountain pass in the Wenatchee Mountains, Washington, U.S",,Q133056,,Blewett Pass
+Blewett,Blewett Harrison Lee,Q65032806,7,0,1,"American lawyer, 1867-1951",,Q5,,Blewett Harrison Lee
+Blewett,Blewett Cemetery,Q117683858,7,0,2,"cemetery in Chelan County, Washington, United States",Blewett Pass Cemetery,Q39614,,
+Wyandotte,Wyandotte,Q594249,8,0,1,"city in Wayne County, Michigan, United States","Wyandotte, Michigan|Wyandotte, MI",Q1093829,,"Wyandotte, Michigan"
+Wyandotte,Wyandotte,Q947631,8,0,1,"town in Ottawa County, Oklahoma, United States","Wyandotte, Oklahoma|Wyandotte, OK",Q15127012,,"Wyandotte, Oklahoma"
+Wyandotte,Wyandotte,Q1085160,8,0,1,chicken breed,,Q15304943,Q780|Q1385549,Wyandotte chicken
+Wyandotte,Wyandot,Q110736458,8,0,1,Iroquoian language spoken in Oklahoma,Wyandotte,Q34770,Q33623|Q1185119,
+Wyandotte,Wyandotte Nation,Q277271,8,0,1,"federally recognized Native American Nation in Oklahoma, USA",Wyandotte,Q41710|Q7840353,,Wyandotte Nation
+Wyandotte,Wyandotte County,Q375652,8,0,1,"county in Kansas, United States","Wyandotte County, Kansas|Wyandotte County, KS",Q13410444,,"Wyandotte County, Kansas"
+Wyandotte,Wyandotte,Q8039457,8,0,1,"human settlement in Louisville, Kentucky, United States of America","Wyandotte, Louisville",Q123705,,"Wyandotte, Louisville"
+Wyandotte,Wyandotte Airport,Q35323120,8,0,1,"airport in Tippecanoe County, Indiana, United States of America",Wyandotte|6IN3,Q1248784|Q62447,,
+Wyandotte,Wyandotté,Q19239942,8,0,1,novel by James Fenimore Cooper,,Q3331189|Q7725634,,Wyandotté (novel)
+Wyandotte,Wyandotte Caves,Q10843447,8,0,1,park and its caverns in southern Indiana,Wyandotte Cave,Q35509|Q2232001,,Wyandotte Caves
+Wyandotte,Wyandotte County Courthouse,Q55637961,8,0,2,"historic courthouse in Kansas City, Kansas, USA",,Q64037785,,Wyandotte County Courthouse
+Wyandotte,"2020 COVID-19 pandemic in Wyandotte County, Kansas",Q94283202,8,0,2,"pandemic in Wyandotte County, Kansas","2020 coronavirus outbreak in Wyandotte County, Kansas|COVID-19 pandemic in Wyandotte County, Kansas|2020 Wyandotte County, Kansas COVID-19 pandemic|Wyandotte County, Kansas COVID-19 pandemic|2020 COVID pandemic in Wyandotte County, Kansas",Q3241045,,
+Wyandotte,Wyandotte County Kansas Democratic Party,Q99755148,8,0,2,political organization in US state of Kansas,Wyandotte County KS Democrats|wycodemocrats.org|Wyandotte County Democrats|Wyandotte County Democratic Party,Q7210356,,
+Wyandotte,Wyandotte County Park,Q49583310,8,0,2,park in the United States of America,,Q22698,,
+Wyandotte,Wyandotte County Park,Q49583312,8,0,2,"park in Wyandotte County, Kansas, United States of America",,Q22698,,
+Wyandotte,Wyandotte County Gas Company v. Kansas ex rel. Marshall,Q19081477,8,0,2,United States Supreme Court case,,Q19692072|Q2334719,,
+Wyandotte,The Wyandotte County Record,Q100287658,8,0,2,"newspaper published in Kansas City, Kansas",Wyandotte County Record,Q11032,,
+Wyandotte,Wyandotte County Cemetery,Q117537351,8,0,2,"cemetery in Wyandotte County, Kansas, United States",,Q39614,,
+Wyandotte,"Wyandotte County, Kansas, Museum Crawl",Q112028879,8,0,2,scientific article published on 24 April 2013,,Q13442814,,
+Wyandotte,Wyandotte National Wildlife Refuge,Q49583313,8,0,2,,,Q1410668,,
+Lost Nation,Lost Nation,Q990860,9,0,1,"city in Clinton County, Iowa, United States","Lost Nation, Iowa|Lost Nation, IA",Q1093829,,"Lost Nation, Iowa"
+Lost Nation,Lost Nation,Q126086702,9,0,1,film,,Q11424,,Lost Nation (film)
+Lost Nation,Lost Nation,Q116697320,9,0,1,"power station with capacity >1MW in Coos County, New Hampshire",,Q261604|Q1427536,,
+Lost Nation,Lost Nation,Q115225787,9,0,1,"dispersed rural community in Brudenell, Lyndoch and Raglan, Ontario, Canada","Lost Nation, Ontario",Q56885635,,
+Lost Nation,Lost Nationalism,Q139722638,9,0,1,,,Q571,,
+Lost Nation,Lost Lake Community,Q6684163,9,0,1,"human settlement in Illinois, United States of America","Lost Nation, Illinois",Q498162,,"Lost Nation, Illinois"
+Lost Nation,Lost Nation Films,Q87665111,9,0,1,,,Q43229,,
+Lost Nation,Lost Nation Public Library,Q69472489,9,0,1,"public library system in Iowa, USA",,Q26271642,,
+Lost Nation,Lost Nation Public Library,Q69956281,9,0,1,"public library in Lost Nation, Iowa, USA",,Q12317349|Q28564,,
+Lost Nation,Lost Nation Public Hunting Area,Q31817686,9,0,1,"park in Clinton County, Iowa, United States of America",,Q22698,,
+Wilber,Wilber,Q21130117,10,0,1,male given name,Wilber (first name)|Wilber (given name),Q12308941,,Wilber (given name)
+Wilber,Wilber,Q16877079,10,0,1,family name,Wilber (surname),Q101352,,Wilber (surname)
+Wilber,Wilber,Q18051838,10,0,1,official GIMP mascot,GIMP mascot,Q386208,,
+Wilber,Wilbert,Q4019747,10,0,1,male given name,Wilbert (given name)|Wilbert (first name),Q12308941,,
+Wilber,Wilbert Awdry,Q733698,10,0,1,British vicar and author (1911–1997),The Reverend Wilbert Vere Awdry OBE|Wilbert Vere Awdry|W. Awdry|W. V. Awdry|The Rev. W. Awdry,Q5,,Wilbert Awdry
+Wilber,Wilber,Q954094,10,0,1,"city in and county seat of Saline County, Nebraska, United States","Wilber, Nebraska|Wilber, NE",Q1093829|Q62049,,"Wilber, Nebraska"
+Wilber,15109 Wilber,Q303032,10,0,1,asteroid,Wilber,Q3863,,15109 Wilber
+Wilber,Wilber Romero-Fernandez,Q106396580,10,0,1,neurology researcher,,Q5,,
+Wilber,Wilbert S Aronow,Q67208280,10,0,1,researcher,"Wilbert Aronow|Aronow, W. S. (Wilbert S.)",Q5,,
+Wilber,Wilbert Weijer,Q111404378,10,0,1,researcher (ORCID 0000-0002-5654-562X),W. Weijer|W Weijer,Q5,,
+Wilber,Wilbur Smith,Q357970,10,0,2,South African novelist (1933–2021),,Q5,,Wilbur Smith
+Wilber,"Wilbur Smith, Best-Selling Author of Swashbuckling Novels, Dies at 88",Q123521889,10,0,2,"The New York Times article (November 18, 2021)",,Q309481,,
+Wilber,Wilbur Smith,Q106367835,10,0,2,Wikimedia disambiguation page,,Q4167410,,Wilbur Smith (disambiguation)
+Wilber,Wilbur Ross,Q100918390,10,0,2,college basketball player (1974–1977) Detroit Mercy,,Q5,,
+Wilber,Wilbur L. Ross Jr.,Q8000233,10,0,2,United States 39th Secretary of Commerce,Wilbur L. Ross|Wilbur Louis Ross Jr.|Wilbur Ross,Q5,,Wilbur Ross
+St. Joseph Hospital,Saint Joseph Hospital,Q5419994,11,0,1,"hospital in Colorado, United States",St. Joseph Hospital|SCL Health Saint Joseph|National Jewish Health - Saint Joseph Hospital,Q16917,,Saint Joseph Hospital (Denver)
+St. Joseph Hospital,University of Maryland St. Joseph Medical Center,Q7895700,11,0,1,"hospital in Maryland, United States",St. Joseph German Hospital|UM St. Joseph Medical Center|UM SJMC|St. Joseph Medical Center|St. Joseph Hospital|Saint Joseph German Hospital,Q16917,,University of Maryland St. Joseph Medical Center
+St. Joseph Hospital,St. Joseph Hospital,Q7589334,11,0,1,"hospital in Nashua, New Hampshire, United States",,Q16917,,"St. Joseph Hospital (Nashua, New Hampshire)"
+St. Joseph Hospital,Piedmont Augusta Summerville,Q7842850,11,0,1,"hospital in Augusta, Georgia, United States",St. Joseph Hospital|Trinity Hospital|University Hospital Summerville,Q16917,,Piedmont Augusta Summerville Campus
+St. Joseph Hospital,St. Joseph Hospital,Q7589333,11,0,1,"hospital in Fort Wayne, Indiana, United States",St. Joe,Q16917,,"St. Joseph Hospital (Fort Wayne, Indiana)"
+St. Joseph Hospital,St. Joseph Medical Center,Q7589340,11,0,1,"hospital in Washington, United States",St. Joseph Hospital,Q16917,,"St. Joseph Medical Center (Tacoma, Washington)"
+St. Joseph Hospital,St. Joseph Hospital,Q30280972,11,0,1,"healthcare organization in Bangor, Penobscot County, Maine, United States",,Q4287745|Q16917,,
+St. Joseph Hospital,St. Joseph Hospital,Q50039309,11,0,1,"healthcare organization in Eureka, Humboldt County, California, United States",,Q4287745|Q16917,,
+St. Joseph Hospital,St. Joseph Hospital heliport,Q61711883,11,0,1,"heliport in Missouri, United States",,Q502074,,
+St. Joseph Hospital,St. Joseph Hospital,Q116722671,11,0,1,"power station with capacity >1MW in Westchester County, New York",,Q261604|Q18206833,,
+St. Joseph Hospital,St. Joseph's Hospital,Q7589192,11,0,2,"hospital in St. Paul, Minnesota, United States",,Q16917,,"St. Joseph's Hospital (St. Paul, Minnesota)"
+St. Joseph Hospital,"Mid-Western Regional Hospital, Nenagh",Q6840847,11,0,2,hospital in Ireland,Nenagh General Hospital|St. Joseph's Hospital,Q16917,,Nenagh Hospital
+St. Joseph Hospital,"St Joseph's Hospital, Newport",Q21999731,11,0,2,"healthcare organization in Newport, United Kingdom",St. Joseph's Hospital,Q4287745|Q16917,,"St Joseph's Hospital, Newport"
+St. Joseph Hospital,St. Joseph's Hospital,Q84273299,11,0,2,"former hospital in Philadelphia, Pennsylvania",,Q16917|Q64578911,,
+St. Joseph Hospital,St. Joseph's Hospital,Q30280984,11,0,2,"healthcare organization in Milwaukee, United States",,Q4287745|Q16917,,
+St. Joseph Hospital,St. Joseph's Hospital,Q24514783,11,0,2,"hospital in Edmonton, Canada",St Joseph's Hospital|St. Joseph's Auxiliary Hospital|St Joseph's Auxiliary Hospital|The Garneau,Q16917|Q18142,,
+St. Joseph Hospital,St. Joseph's Hospital,Q28225862,11,0,2,"former hospital in Aarhus, Denmark",,Q16917|Q64578911,,St. Joseph's Hospital (Aarhus)
+St. Joseph Hospital,St. Joseph's Hospital,Q7589188,11,0,2,"former hospital in San Francisco, United States",,Q16917|Q64578911,,St. Joseph's Hospital (San Francisco)
+St. Joseph Hospital,St. Joseph's Hospital,Q30280986,11,0,2,"hospital in Tampa, Florida, United States",,Q4287745|Q16917,,"St. Joseph's Hospital (Tampa, Florida)"
+St. Joseph Hospital,St. Joseph's Hospital,Q30280988,11,0,2,"healthcare organization in London, Canada",,Q4287745|Q16917,,
+St. Joseph Hospital,St. Joseph Medical Center,Q16899615,11,0,2,"hospital in Texas, United States",SJMC,Q16917,,St. Joseph Medical Center (Houston)
+St. Joseph Hospital,St. Joseph Medical Center,Q7589338,11,0,2,"Hospital in Kansas City, Missouri, United States",,Q16917,,"St. Joseph Medical Center (Kansas City, Missouri)"
+St. Joseph Hospital,St. Joseph Medical Center,Q102267523,11,0,2,private healthcare provider,,Q16917|Q4260475,,
+St. Joseph Hospital,St. Joseph Medical Center heliport,Q61720525,11,0,2,"heliport in Texas, United States",,Q502074,,
+St. Joseph Hospital,St. Joseph Medical Center heliport,Q61674306,11,0,2,"heliport in Missouri, United States",MO21,Q502074,,
+St. Joseph Hospital,St. Joseph Medical Center heliport,Q61668552,11,0,2,"heliport in Allen County, Indiana, United States",13II,Q502074,,
+St. Joseph Hospital,St. Joseph Medical Center heliport,Q74832891,11,0,2,"heliport in Los Angeles County, California, United States",,Q502074,,
+St. Joseph Hospital,St. Joseph Medical Center gift shop.,Q41658877,11,0,2,scientific article published on February 1989,,Q13442814,,
+Ambler,Ambler,Q30669520,12,0,1,family name,,Q101352,,Ambler (surname)
+Ambler,Ambler,Q113128059,12,0,1,given name,,Q202444,,
+Ambler,Ambler,Q66619522,12,0,1,instrumental recording by Kevin MacLeod,,Q55850643,,
+Ambler,Ambler,Q372248,12,0,1,"borough in Montgomery County, Pennsylvania, United States","Ambler, Pennsylvania|Ambler, PA",Q777120,,"Ambler, Pennsylvania"
+Ambler,Ambler,Q602422,12,0,1,"city in Alaska, USA","Ambler, Alaska",Q1093829,,"Ambler, Alaska"
+Ambler,Ambler,Q54867831,12,0,1,song by Kevin MacLeod,,Q105543609,,
+Ambler,Ambler River,Q457752,12,0,1,river in Alaska,,Q4022,,Ambler River
+Ambler,Ambler station,Q4741530,12,0,1,SEPTA Regional Rail station,,Q55488,,Ambler station
+Ambler,Ambler,Q17144093,12,0,1,human settlement in United States of America,"Ambler, CA",Q17343829,,
+Ambler,Ambler,Q123944175,12,0,1,"unincorporated community in Pennsylvania, United States",,Q56061,,
+Ambler,Ambler Park,Q4741529,12,0,2,unincorporated community in California,"Ambler Park, CA",Q17343829,,"Ambler Park, California"
+Ambler,Ambler Park,Q49472420,12,0,2,"park in Cuyahoga County, Ohio, United States of America",,Q22698,,
+Worthington,Worthington,Q28226864,13,0,1,male given name,,Q12308941,,
+Worthington,Worthington,Q947697,13,0,1,"village in Leicestershire, England, UK","Worthington, Leicestershire",Q532|Q1115575,,"Worthington, Leicestershire"
+Worthington,Worthington,Q1811921,13,0,1,civil parish within the Metropolitan Borough of Wigan,"Worthington (civil parish), Metropolitan Borough of Wigan|Worthington, Metropolitan Borough of Wigan|Worthington, Greater Manchester",Q1115575|Q532,,"Worthington, Greater Manchester"
+Worthington,Worthington,Q17119399,13,0,1,family name,,Q101352,,Worthington (surname)
+Worthington,Worthington,Q1926837,13,0,1,"city in Franklin County, Ohio, United States","Worthington, Ohio|Worthington, OH",Q108569710,,"Worthington, Ohio"
+Worthington,Worthington,Q988914,13,0,1,"city in and county seat of Nobles County, Minnesota, United States","Worthington, Minnesota|Worthington, MN",Q1093829|Q62049,,"Worthington, Minnesota"
+Worthington,Worthington,Q106804753,13,0,1,"American artist, active circa 1812",,Q5,,
+Worthington,Worthington George Smith,Q387724,13,0,1,British botanist (1835-1917),"W.G.Sm.|Worthington G. Smith|Smith, Worthington George|W.G.S.|W. G. Smith",Q5,,Worthington George Smith
+Worthington,Worthington,Q2549311,13,0,1,"town in Massachusetts, United States","Worthington, Massachusetts|Worthington, MA",Q15127012,,"Worthington, Massachusetts"
+Worthington,Worthington,Q1967748,13,0,1,"human settlement in Greene County, Indiana, United States of America","Worthington, Indiana",Q486972,,"Worthington, Indiana"
+Worthington,Worthington Corporation,Q17156973,13,0,2,American company,Worthington Pump and Machinery|Worthington Pump & Machinery Corp.,Q4830453,,Worthington Corporation
+Worthington,Worthington Industries,Q2594130,13,0,2,metals manufacturing company founded in 1955,,Q4830453|Q891723,,Worthington Enterprises
+Jamestown,Jamestown,Q1409532,14,0,1,titular see,,Q15217609,,
+Jamestown,Jamestown,Q2117150,14,0,1,"village in County Leitrim, Ireland",,Q486972,,"Jamestown, County Leitrim"
+Jamestown,Jamestown,Q77505961,14,0,1,painting by Beverly Buchanan,,Q3305213,,
+Jamestown,Jamestown,Q2240713,14,0,1,"human settlement in Highland, Scotland, UK",,Q486972,,"Jamestown, Easter Ross"
+Jamestown,Jamestown,Q6146159,14,0,1,"human settlement in Ontario, Canada",,Q486972,,"Jamestown, Ontario"
+Jamestown,Jamestown,Q983861,14,0,1,"city in Chautauqua County, New York, United States","Jamestown, New York|Jamestown, NY",Q1093829|Q15063611,,"Jamestown, New York"
+Jamestown,Jamestown,Q1052658,14,0,1,"seat of Stutsman County, North Dakota, United States","Jamestown, ND|Jamestown, North Dakota",Q1093829|Q62049,,"Jamestown, North Dakota"
+Jamestown,Jamestown,Q323813,14,0,1,fort and town established in the Virginia Colony,"Jamestown Settlement|Jamestown colony|Jamestown, Virginia|Jamestowne|James His Towne|James Towne|James City|James Cittie",Q17343829,,Jamestown
+Jamestown,Jamestown,Q30970,14,0,1,capital of Saint Helena,"Jamestown, Saint Helena",Q515|Q2264924,,"Jamestown, Saint Helena"
+Jamestown,Jamestown,Q1378580,14,0,1,"town in Rhode Island, United States","Jamestown, Rhode Island|Jamestown, RI",Q131438413,,"Jamestown, Rhode Island"
+Jamestown,Jamestown colonists,Q6146209,14,0,2,Wikimedia list article,"Jamestown, Virginia settlers|Jamestown settlers 1607 to 1611",Q13406463,,List of Jamestown colonists
+Jamestown,"Jamestown, Virginia, 1607: First Southern Surgeons and the First Healthcare Crisis",Q104570172,14,0,2,scientific article published on 23 December 2020,,Q13442814,,
+Jamestown,Jamestown,Q2026580,14,0,2,"town in Guilford County, North Carolina, United States","Jamestown, North Carolina|Jamestown, NC",Q15127012|Q132680629,,"Jamestown, North Carolina"
+Front Street,Business US Highway 41,Q449987,15,0,1,"former highway in Marquette, Michigan","BUS US 41|Washington Street|Front Street|Business US Highway 41 (Marquette, Michigan)",Q34442,,"U.S. Route 41 Business (Marquette, Michigan)"
+Front Street,Front Street,Q1470041,15,0,1,"road in downtown Toronto, Ontario, Canada",,Q79007,,Front Street (Toronto)
+Front Street,Front Street,Q4493022,15,0,1,street in Manhattan,,Q79007,,Front Street (Manhattan)
+Front Street,Front Street,Q60791582,15,0,1,"street in Juneau, Alaska, United States",,Q79007,,"Front Street (Juneau, Alaska)"
+Front Street,Front Street,Q5505838,15,0,1,"road in Philadelphia, Pennsylvania",,Q34442,,Front Street (Philadelphia)
+Front Street,Front Street,Q104540614,15,0,1,"main street in Downtown Natchitoches, Louisiana",,Q34442,,
+Front Street,Front Street,Q136808061,15,0,1,"historic building in Ogallala, Nebraska, United States",,Q41176,,
+Front Street,Front Street,Q116711863,15,0,1,"power station with capacity >1MW in Hampden County, Massachusetts",,Q261604|Q18206833,,
+Front Street,Front Street Historic District,Q28153376,15,0,1,"historic district in Guttenberg, Iowa, USA",River Park Drive Historic District|Front Street (River Park Drive) Historic District|South River Park Drive Historic District,Q15243209,,Front Street (River Park Drive) Historic District
+Front Street,Front Street Historic District,Q5505842,15,0,1,"historic district in Exeter, New Hampshire",,Q15243209,,"Front Street Historic District (Exeter, New Hampshire)"
+Jarvis Street,Jarvis Street,Q6161258,16,0,1,"thoroughfare in Toronto, Ontario",,Q34442,,Jarvis Street
+Jarvis Street,Jarvis Street,Q116696883,16,0,1,"power station with capacity >1MW in Sitka Borough, Alaska",,Q261604|Q18206833,,
+Jarvis Street,Jarvis Street,Q87762773,16,0,1,"street in Cambridge, Massachusetts","Jarvis Street (Cambridge, Massachusetts)|Jarvis Street, Cambridge, Massachusetts|Jarvis St",Q79007,,
+Jarvis Street,Jarvis Street Baptist Church,Q17006515,16,0,1,Baptist church in Toronto,"Jarvis Street Regular Baptist Church (Toronto, Ont.)",Q16970,,Jarvis Street Baptist Church
+Jarvis Street,Jarvis Avenue Park,Q34901869,16,0,2,park in the United States of America,,Q22698,,
+Mitchell Power Plant,Mitchell Power Plant,Q3348669,17,0,1,coal-fired power station in West Virginia,,Q6558431,,Mitchell Power Plant
+Mitchell Power Plant,Mitchell Power Plant,Q19381656,17,0,1,"power station in Dougherty County, Georgia, USA",,Q6558431|Q261604,,
+Shrewsbury,Shrewsbury,Q201970,18,0,1,"county town of Shropshire, England","Shrewsbury, Shropshire",Q1357964|Q18511725|Q1115575,,Shrewsbury
+Shrewsbury,Shrewsbury,Q2559909,18,0,1,"town in Worcester County, Massachusetts, United States","Shrewsbury, Massachusetts|Shrewsbury, MA",Q15127012,,"Shrewsbury, Massachusetts"
+Shrewsbury,Shrewsbury,Q37033152,18,0,1,family name,,Q101352,,
+Shrewsbury,Shrewsbury and Atcham,Q1761365,18,0,1,"former non-metropolitan district in Shropshire, England",Shrewsbury,Q1187580|Q19953632,,Shrewsbury and Atcham
+Shrewsbury,Shrewsbury Town F.C.,Q19626,18,0,1,"association football club in Shrewsbury, England",Shrewsbury Town Football Club|Shrewsbury Town FC|Shrewsbury Town|Shrewsbury|The Shrews|Town|STFC,Q476028,,Shrewsbury Town F.C.
+Shrewsbury,Shrewsbury railway station,Q1911181,18,0,1,"railway station in Shrewsbury, Shropshire, England, UK",Shrewsbury Station|SHR,Q55488,,Shrewsbury railway station
+Shrewsbury,Shrewsbury,Q7503651,18,0,1,"human settlement in Quebec, Canada",,Q74047|Q181307,,"Shrewsbury, Quebec"
+Shrewsbury,Shrewsbury,Q1084814,18,0,1,"borough of Monmouth County, New Jersey, United States","Shrewsbury, New Jersey|Shrewsbury, NJ",Q2911266|Q486972,,"Shrewsbury, New Jersey"
+Shrewsbury,Shrewsbury,Q60576058,18,0,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Shrewsbury,Shrewsbury,Q7503656,18,0,1,"Parliamentary constituency in the United Kingdom, 1885-1983",,Q27971968,,
+Shrewsbury,Shrewsbury School,Q2280221,18,0,2,"school in Shropshire, UK","Shrewsbury Free Grammar School Material relating to (1619), NLW MS 1595E",Q159334|Q2418495|Q3914|Q269770|Q708676,,Shrewsbury School
+Shrewsbury,"Shrewsbury School, Rigg's Hall",Q26561329,18,0,2,"architectural structure in Shrewsbury, Shropshire, England, UK",,Q811979,,
+Shrewsbury,Shrewsbury School Chapel,Q26561328,18,0,2,"chapel in Shrewsbury, Shropshire, England, UK",,Q108325,,
+Shrewsbury,Shrewsbury School Main Building,Q26561322,18,0,2,"building in Shrewsbury, Shropshire, England, UK",,Q41176,,
+Shrewsbury,"Shrewsbury School, Churchill's Hall",Q26561299,18,0,2,"architectural structure in Shrewsbury, Shropshire, England, UK",,Q811979,,
+Shrewsbury,"Shrewsbury School, Oldham's Hall",Q26538863,18,0,2,"architectural structure in Shrewsbury, Shropshire, England, UK",,Q811979,,
+Shrewsbury,"Shrewsbury School, School House",Q26561304,18,0,2,"house in Shrewsbury, Shropshire, England, UK",,Q3947,,
+Shrewsbury,"Shrewsbury School, Moser's Hall",Q26538817,18,0,2,"architectural structure in Shrewsbury, Shropshire, England, UK",,Q811979,,
+Shrewsbury,Shrewsbury School Library,Q58633639,18,0,2,,,Q13442814,,
+Shrewsbury,SHREWSBURY SCHOOL LIBRARY: ITS EARLIER HISTORY AND ORGANIZATION,Q58637298,18,0,2,,,Q13442814,,
+Shrewsbury,Shrewsbury and Atcham,Q1031497,18,0,2,"Parliamentary constituency in the United Kingdom, 1983-2024",Shrewsbury & Atcham,Q27971968,,Shrewsbury and Atcham (UK Parliament constituency)
+Shrewsbury,Shrewsbury and Atcham Borough Council (Frankwell Footbridge) Act 1977,Q110283685,18,0,2,Local Act of Parliament of the United Kingdom,"1977 c. xiii|1977 c xiii|Shrewsbury and Atcham Borough Council (Frankwell Footbridge) Act, 1977|Shrewsbury & Atcham Borough Council (Frankwell Footbridge) Act 1977",Q100165600,,
+Shrewsbury,Shrewsbury and Atcham Borough Council Act 1998,Q100165691,18,0,2,Local Act of Parliament of the United Kingdom,"1998 c. ii|1998 c ii|Shrewsbury and Atcham Borough Council Act, 1998|Shrewsbury & Atcham Borough Council Act 1998",Q100165600,,
+Shrewsbury,Shrewsbury and Atcham Borough Council Act 1984,Q110283908,18,0,2,Local Act of Parliament of the United Kingdom,"1984 c. xvi|1984 c xvi|Shrewsbury and Atcham Borough Council Act, 1984|Shrewsbury & Atcham Borough Council Act 1984",Q100165600,,
+Shrewsbury,Shrewsbury and Atcham Borough Council election,Q7503708,18,0,2,class of UK elections,,Q107359024,Q107358924,Shrewsbury and Atcham Borough Council elections
+Shrewsbury,Shrewsbury and Atcham Borough Council,Q105408956,18,0,2,UK local authority,,Q701632,,
+Shrewsbury,history of Shrewsbury Town F.C.,Q19874232,18,0,2,aspect of history,Shrewsbury Town F.C. history,Q17524420,,History of Shrewsbury Town F.C.
+Tororo Power Station,Tororo Power Station,Q7826695,19,0,1,building in Africa,Electromaxx Power Station|Electro-Maxx Power Station,Q261604,,Tororo Thermal Power Station
+Tororo Power Station,Tororo Power Station,Q47016119,19,0,1,Wikimedia disambiguation page,,Q4167410,,Tororo Power Station
+Northeast Power Plant,Northeast Power Plant,Q11992628,20,0,1,,,Q261604,,
+Northeast Power Plant,Northeast Power Plant,Q11992630,20,0,1,,,Q1427536|Q3498533|Q261604,,
+Northeast Power Plant,Northeast Power Plant,Q11992628,21,0,1,,,Q261604,,
+Northeast Power Plant,Northeast Power Plant,Q11992630,21,0,1,,,Q1427536|Q3498533|Q261604,,
+Cherry Street,Cherry Street,Q87754147,22,0,1,"street in Cambridge, Massachusetts","Cherry Street (Cambridge, Massachusetts)|Cherry Street, Cambridge, Massachusetts|Cherry St",Q79007,,
+Cherry Street,Cherry Street,Q5092480,22,0,1,"thoroughfare in Toronto, Ontario",,Q34442,,Cherry Street (Toronto)
+Cherry Street,Cherry Street,Q11122499,22,0,1,"road in Tai Kok Tsui, Hong Kong",,Q79007|Q1304276|Q1302778|Q83620,,"Cherry Street, Hong Kong"
+Cherry Street,Cherry Street,Q4514584,22,0,1,"street in Manhattan, United States of America",,Q79007,,Cherry Street (Manhattan)
+Cherry Street,Cherry Street,Q19864343,22,0,1,"minor east-west street in Philadelphia, Pennsylvania",,Q34442,,Cherry Street (Philadelphia)
+Cherry Street,Cherry Street,Q116712111,22,0,1,"power station with capacity >1MW in Middlesex County, Massachusetts",,Q3498533|Q18206833|Q261604,,
+Cherry Street,Cherry Street Strauss Trunnion Bascule Bridge,Q5092482,22,0,1,"bascule bridge in Toronto, Canada",,Q911663,,Cherry Street Strauss Trunnion Bascule Bridge
+Cherry Street,Cherry Street station,Q123655316,22,0,1,former railway station in Ohio,,Q55488,,
+Cherry Street,Distillery Loop and Cherry Street branch (Toronto trams),Q5092484,22,0,1,Streetcar loop and branch line in Toronto,Distillery Loop|Cherry Street branch|Cherry Street streetcar line,Q7826676|Q27997185,,Distillery Loop and Cherry Street branch
+Cherry Street,Cherry Street Historic District,Q5092481,22,0,1,"historic district in Arkansas, United States",,Q15243209,,"Cherry Street Historic District (Helena–West Helena, Arkansas)"
+Westover,Westover,Q29167405,23,0,1,"lieu-dit in Sutton, Quebec, Canada",,Q181307,,
+Westover,Westoverledingen,Q559595,23,0,1,municipality of Germany,,Q116457956|Q133997300,,Westoverledingen
+Westover,Westover,Q37539150,23,0,1,family name,,Q101352,,
+Westover,Westover,Q79585,23,0,1,"city in Shelby County, Alabama, United States","Westover, Alabama|Westover, AL",Q1093829,,"Westover, Alabama"
+Westover,Westover,Q1183372,23,0,1,borough of Pennsylvania,"Westover, PA",Q777120,,"Westover, Pennsylvania"
+Westover,Westover,Q7989518,23,0,1,"unincorporated community in Somerset County, Maryland, United States","Westover, Md.|Westover, MD|Westover, Maryland",Q17343829,,"Westover, Maryland"
+Westover,Westover,Q2557713,23,0,1,"human settlement in Monongalia County, West Virginia, United States","Westover, West Virginia|Westover, WV",Q1093829,,"Westover, West Virginia"
+Westover,Westover Cinema,Q31679403,23,0,1,"former cinema in Bournemouth, England",Westover|Westover Super Cinema,Q41253,,
+Westover,Westover,Q107240839,23,0,1,"hamlet / village in Ontario, Canada","Westover, Ontario",Q56885635,,"Westover, Ontario"
+Westover,Westover,Q17036259,23,0,1,building in United States of America,,Q41176,,"Westover (Eastville, Virginia)"
+Westover,Westover Air Force Base Hospital,Q14716016,23,0,2,"former hospital in Massachusetts, United States",,Q16917|Q64578911,,Westover Air Force Base Hospital
+Westover,Westover Air Reserve Base,Q1636887,23,0,2,U.S. Air Force facility in central Massachusetts,CEF|KCEF,Q695850,,Westover Air Reserve Base
+Westover,Westover Air Force Base KC-135 crash,Q120281462,23,0,2,,,Q3002150,,1958 Westover Air Force Base KC-135 crash

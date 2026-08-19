@@ -1,0 +1,120 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Sebnitz,Sebnitz,Q6483,0,0,1,"town in the Sächsische Schweiz-Osterzgebirge district, in the Free State of Saxony, Germany",,Q448801|Q15974307|Q42744322,,Sebnitz
+Sebnitz,Sebnitz,Q159843,0,0,1,river,,Q4022,,Sebnitz (river)
+Sebnitz,Sebnitz,Q15101291,0,0,1,Germany : Landkreis,,Q106658,,
+Sebnitz,Sebnitz,Q19227858,0,0,1,"German folk tale published in ""Was die Heimat erzählt"" (1904)",,Q858157,,
+Sebnitz,Sebnitz,Q32296272,0,0,1,,,Q15303838,,
+Sebnitz,Sebnitz (Sachs) railway station,Q7442789,0,0,1,"railway station in Sebnitz, Germany",Sebnitz railway station,Q27996466|Q1402443,,Sebnitz station
+Sebnitz,Sebnitz Rural District,Q830296,0,0,1,rural district of East Germany,,Q15849374|Q106658,,
+Sebnitz,Sebnitzer Straße,Q66023599,0,0,1,"street in Dresden, Germany",,Q79007,,
+Sebnitz,Sebnitz–Bad Schandau railway line,Q51464700,0,0,1,Wikimedia list article,,Q13406463,,
+Sebnitz,Sebnitz Lower Mill,Q49443868,0,0,1,"Freestanding residential mill building (upper floor with half-timbering and wheel chambers); significant in terms of architectural, local, and technological history",,Q1516079,,
+Ladon,Ladon,Q1391647,1,0,1,"commune in Loiret, France",,Q484170,,"Ladon, Loiret"
+Ladon,Ladon,Q107170637,1,0,1,family name,,Q101352,,
+Ladon,Donna Summer,Q908933,1,0,1,American singer (1948–2012),LaDonna Gaines|Donna Sommer|Donna Gaines|Donna Gains,Q5,,Donna Summer
+Ladon,Ladon,Q274600,1,0,1,Greek mythological serpent,Hesperian Dragon|Drakôn Hesperios,Q16326794|Q22988604,,Ladon (mythology)
+Ladon,Ladon,Q1462727,1,0,1,"river in Peloponnese, Greece",Ladonas,Q4022,,Ladon (river)
+Ladon,Ladon,Q3825406,1,0,1,river god of southern Greece,,Q3027575,,
+Ladon,Ladnun Vidhan Sabha constituency,Q19812090,1,0,1,constituency of the Rajasthan legislative assembly in India,Ladon,Q54375498,,Ladnun Assembly constituency
+Ladon,Ladongi,Q2108092,1,0,1,"district in East Kolaka Regency, Southeast Sulawesi Province, Indonesia",Kecamatan Ladongi|Ladongi District,Q3700011,,
+Ladon,Ladon,Q11931078,1,0,1,"river in Elis, tributary to the Peneus",,Q4022|Q47521,,Ladon (river of Elis)
+Ladon,Ładoń,Q118078410,1,0,1,family name,,Q101352,,
+Plane,asteroid,Q3863,2,0,1,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+Plane,airplane,Q197,2,0,1,powered fixed-wing aircraft,"aeroplane|powered fixed-wing aircraft|plane|fixed-wing aeroplane|fixed-wing airplane|airplane, aeroplane, plane|aeroplanes|airplanes|planes|fixed-wing powered aircraft",Q22676022|Q2424752,Q2875704,Airplane
+Plane,Plane,Q37260031,2,0,1,family name,,Q101352,,
+Plane,Plane,Q108131599,2,0,1,2023 film directed by Jean-François Richet,,Q11424,,Plane (film)
+Plane,planetary nebula,Q13632,2,0,1,emission nebula consisting of a shell of ionized gas ejected from a red giant,,Q17444909,Q202265,Planetary nebula
+Plane,Mars,Q111,2,0,1,"fourth planet from the Solar System, tellurian and orange-red due to iron oxide",Planet Mars|Red Planet,Q3504248|Q844911,,Mars
+Plane,plane,Q17285,2,0,1,"flat, infinite two-dimensional surface",,Q21550639,Q657586|Q211548|Q66539726|Q1541599|Q222032|Q3505239,Euclidean plane
+Plane,Earth,Q2,2,0,1,third planet from the Sun in the Solar System,Planet Earth|World|Mother Earth|The Blue Planet|The Earth,Q3504248|Q2221906|Q82794,,Earth
+Plane,plane,Q204260,2,0,1,"tool for cutting chips of controllable thickness from a material, thereby smoothing a surface or adjusting the thickness of a workpiece",,,Q2578402|Q11789812,Plane (tool)
+Plane,Venus,Q313,2,0,1,"second planet from the Solar System, tellurian and very similar to Earth",♀|Planet Venus,Q3504248|Q3901935,,Venus
+Plane,aircraft,Q11436,2,0,2,machine that is able to fly by gaining support from the air other than the reactions of the air against the earth’s surface,aerial vehicle|individual aircraft,Q334166|Q140424465,Q7194062|Q42889,Aircraft
+Plane,aircraft pilot,Q2095549,2,0,2,person controlling an aircraft in flight,pilot|aviatrix|aviator,Q28640,Q23640580|Q373021,Aircraft pilot
+Plane,aviation accident,Q744913,2,0,2,"aviation occurrence involving serious injury, death, or destruction of aircraft",air accident|aircraft accident|flight accident,Q121551339,Q21152775|Q11822042,Aviation accident
+Plane,aircraft model,Q15056995,2,0,2,"specific aircraft design and specification, differentiated from others of its family",aircraft version|aircraft variant|acmod|model of aircraft|airplane model|plane model,,Q29048322,
+Plane,aircraft engine,Q743004,2,0,2,engine designed for use in powered aircraft,aero engine|aeroplane engine,Q135841150,Q12757|Q16693356,Aircraft engine
+Plane,military aircraft,Q216916,2,0,2,aircraft class designed or used for military duties,"warplane|aircraft, military",Q20027953,Q19403027|Q18643213,Military aircraft
+Plane,aircraft family,Q15056993,2,0,2,group of related aircraft models sharing the same basic design,aircraft series|acfam|airliner family|airliner series|aircraft class,Q140353512,Q22999537,
+Plane,aeronautics,Q8421,2,0,2,"science and art of study, design, manufacturing, and operation of airflight-capable machines",aircraft science|aviation science|aeronautic science,Q2465832,Q2876213,Aeronautics
+Plane,fighter aircraft,Q127771,2,0,2,airplane intended to attack aerial targets,"pursuit aircraft|scout aircraft|hunter aircraft|fighter plane|aircraft, fighter|military aircraft, fighter|fighter airplane|F|fighter",Q20027953,Q64225484,Fighter aircraft
+Plane,aircraft crash,Q3002150,2,0,2,accident involving an aircraft,aircrash|air crash,,Q744913|Q123349687|Q21152775|Q1931388,Aircraft crash
+Plane,Airplane,Q10403873,2,0,2,1998 studio album by Arvingarna,,Q482994,,Airplane (album)
+Plane,Airplane,Q135051554,2,0,2,"2024 video game developed by Sulaiman Jackson, Ryan Leftridge and Austin Morgan",,Q7889,,
+Plane,hangar,Q192375,2,0,2,closed structure to hold aircraft or spacecraft in protective storage,aircraft hangar|aircraft hanger|airplane hangar,,Q41176|Q1433344|Q55697304|Q107708674,Hangar
+Plane,aerial bomb,Q1137468,2,0,2,explosive weapon carried by aircraft for dropping on ground targets,bomb|air-dropped bomb|airplane bomb,Q124078422,Q127197|Q2862189,Aerial bomb
+Plane,Airplane!,Q497256,2,0,2,"1980 film directed by Jim Abrahams, David Zucker and Jerry Zucker",Flying High!,Q11424,,Airplane!
+Plane,aircraft hijacking,Q898712,2,0,2,incident involving unlawful seizure of an aircraft in operation,aircraft piracy|skyjacking|aviation piracy|airliner hijacking|hijacking of an aircraft|hijack|airplane hijacking|aeroplane hijacking|plane hijacking,,Q3149875|Q1933595|Q7674132,Aircraft hijacking
+Plane,Airplane,Q16097523,2,0,2,South Korean boyband,,Q2088357,,
+Plane,✈,Q87527227,2,0,2,Unicode character,AIRPLANE|airplane emoji|airplane symbol emoji|plane emoji,Q29654788|Q1049294,,
+Palnik,Palnik,Q19691111,3,0,1,"human settlement in Perm Krai, Russia",,Q5084,,Palnik
+Palnik,Palnik,Q237515,3,0,1,river in Russia,Palnik-Shor,Q4022,,
+Palnik,Palnikow,Q111843777,3,0,1,family name,,Q101352,,
+Palnik,Palnik rural settlement,Q4342867,3,0,1,"human settlement in Permsky District, Perm Krai, Russia",,Q634099,,
+Palnik,Palnik-Yol,Q4342857,3,0,1,"river in Komi Republic, Russia, flows into the Kipiyevayu",Palnikyol|Palnikyel|Palnik-Yel|Palnik-El,Q4022,,
+Palnik,Palnik-Yol,Q4342855,3,0,1,river in Russia,,Q4022,,
+Palnik,Palnik-Yol,Q4342859,3,0,1,"river in Komi Republic, Russia, flows into the Lysha",Palnikyol|Palnikyel|Palnik-Yel|Palnik-El,Q4022,,
+Palnik,Palniki,Q19691055,3,0,1,"human settlement in Dobryansky District, Perm Krai, Russia",,Q2514025,,Palniki
+Palnik,Palnik-Yol,Q4342858,3,0,1,"river in Komi, Russia, tributary of Lebed",,Q4022,,
+Palnik,Palnikyol,Q4342856,3,0,1,"river in Komi Republic, Russia, flows into the Vadma",Palnik-Yol|Palnikyel|Palnik-Yel|Palnik-El,Q4022,,
+Palnik,stock pot,Q15711817,3,0,2,generic name for one of the most common types of cooking pot used worldwide,cooking pot|cauldron,,Q154038,Stock pot
+Palnik,cooking pot,Q2366864,3,0,2,container used for cooking,pot,,Q12244686|Q154038,Cooking pot
+Palnik,cooking pot,Q118122745,3,0,2,heraldic figure,,,,
+Palnik,Cooking Pot,Q65506874,3,0,2,print in the National Gallery of Art (NGA 48949),,Q11060274,,
+Palnik,Cooking Pot,Q64594274,3,0,2,drawing in the National Gallery of Art (NGA 21573),,Q93184,,
+Palnik,Cooking Pots and Ladle with a White Cloth,Q104774556,3,0,2,painting by Jean-Siméon Chardin,,Q3305213,,
+Palnik,Cooking Pot (La Marmite),Q28128938,3,0,2,painting by Pablo Picasso,,Q3305213,,
+Palnik,Cooking pot uprising,Q47004509,3,0,2,"1846 penal colony riot in Norfolk Island, Australia",Cooking Pot Riot,Q1323212,,Cooking Pot Uprising
+Palnik,Cooking pot with traces of burning on the bottom,Q117233250,3,0,2,"clay bowl of the Egyptian Roman Period, 30 BCE – 395 CE, in the collection of Museo Egizio, Turin, Italy (Provv.7813)",,Q153988|Q10855061,,
+Palnik,Cooking pot with lid that facilitates dynamic venting,Q124649821,3,0,2,US patent 11432679,,Q43305660,,
+Sura,Sura,Q2344251,4,0,1,genus of insects,,Q16521,,Sura (moth)
+Sura,Surabaya,Q11462,4,0,1,"city in East Java Province, Indonesia",Kota Surabaya|Surabaya City|Surabaya Town|Heroes Town,Q3199141|Q137890005|Q19943591,,Surabaya
+Sura,Sura,Q98777270,4,0,1,female given name,,Q11879590,,
+Sura,Sura,Q37304507,4,0,1,family name,,Q101352,,
+Sura,Surakarta,Q4803,4,0,1,"city in Central Java Province, Indonesia",Solo City|Soerakarta|Surakarta City,Q3199141|Q137890005|Q19943591,,Surakarta
+Sura,Sura,Q12158777,4,0,1,"village in Gorj County, Romania",,Q532,,
+Sura,Sura,Q24040573,4,0,1,"village in South Ogan Komering Ulu Regency, South Sumatra, Indonesia",,Q26211545,,
+Sura,surah,Q234262,4,0,1,term for a chapter of the Quran,surat|sura,Q23384401,Q1980247,Surah
+Sura,Ash-Shura,Q230466,4,0,1,42nd chapter of the Qur'an,Surah 42|Sura 42|The Council|Surah of the Council|Surah of the Consulation|The Consultation|The Counsel|Surah of the Counsel,Q234262,,Ash-Shura
+Sura,Sura,Q209891,4,0,1,"river in Russia, tributary of Volga",Sura River,Q4022,,Sura (river)
+Gusika,Gusika,Q238424,5,0,1,"river in Komi and Perm Krai, Russia",,Q4022,,
+Gusika,Gusika,Q5620902,5,0,1,human settlement in Papua New Guinea,,Q486972,,Gusika
+Gusika,Gushikata,Q27181582,5,0,1,Japanese family name (具志堅),Gusikata,Q101352,,
+Gusika,Güshi Khan,Q1333775,5,0,1,Mongolian Qoshot (Khoshut or Khoshuud) prince and Tibet King (1582-1655),Töröbaikhu Nomin|Guush Khaan|Gushri Khan|Toral Behu|Tenzing Choigyal,Q5,,Güshi Khan
+Gusika,Gushikawa,Q1044035,5,0,1,"dissolved municipality in Okinawa prefecture, Japan",,Q18663566,,"Gushikawa, Okinawa"
+Gusika,Gushikawa Island,Q4519060,5,0,1,"island in Okinawa Prefecture, Japan",,Q839954|Q23442,,
+Bezymyannaya,Bezymyanka,Q4081100,6,0,1,"river in Republic of Adygea, Russia",Bezymyannaya,Q4022,,
+Bezymyannaya,Bezymyannaya,Q20624048,6,0,1,"river in Saratov Oblast, Russia",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q4265636,6,0,1,river in Russia,,Q4022,,
+Bezymyannaya,Bezymyannaya,Q1096069,6,0,1,"river in Perm Krai, Russia",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q32486438,6,0,1,"river on Novaya Zemlya, Russia",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q4081111,6,0,1,"human settlement in Verkhovazhsky District, Vologda Oblast, Russia",,Q5084,,"Bezymyannaya, Vologda Oblast"
+Bezymyannaya,Bezymyannaya,Q4081122,6,0,1,"river in Nizhny Novgorod Oblast, Russia",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q11255644,6,0,1,"river in Khakassia, Russia",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q18400353,6,0,1,"river in Buryatia, Russia, tributary of Angarakan",,Q4022,,
+Bezymyannaya,Bezymyannaya,Q4081114,6,0,1,river in Russia,,Q4022,,
+Yazva,Yazva,Q1499030,7,0,1,"river in Perm Krai, Russia",Yaz'va,Q4022|Q1959314,,Yazva
+Yazva,Komi-Yazva,Q2365210,7,0,1,language,Komi-Yodzyak language|Komi-Yodz language|Komi-Yazva language|Komi-Yodzyak|Komi-Yodz|Yazva,Q34770,Q36126|Q56318,Komi-Yazva language
+Yazva,Yazva,Q84936,7,0,1,"river in Ivanovo Oblast, Russia",,Q4022,,
+Yazva,Yazva,Q34960622,7,0,1,"river in Pskov Oblast, Russia",,Q4022,,
+Yazva,Yazvac,Q37081294,7,0,1,family name,,Q101352,,
+Weierbach,Weierbach,Q21039868,8,0,1,human settlement in Germany,,Q486972,,
+Weierbach,Weierbach,Q36879403,8,0,1,family name,,Q101352,,
+Weierbach,Weierbach,Q144214,8,0,1,river in Germany,,Q4022,,Weierbach (Brunsbach)
+Weierbach,Weierbach,Q138795763,8,0,1,watercourse in the canton of Zürich,,Q355304,,
+Weierbach,Weierbach House,Q20012710,8,0,1,historic timber frame construction in Eglisau (Switzerland) housing the local museum,,Q12020836|Q24699794,,
+Weierbach,Weierbacher Straße,Q119772187,8,0,1,"street in Idar-Oberstein, Rhineland-Palatinate, Germany",,Q79007,,
+Weierbach,Weier Bach,Q34851996,8,0,1,river in Germany,,Q4022,,
+Weierbach,Weierbach,Q2555189,8,0,1,Wikimedia disambiguation page,,Q4167410,,Weierbach
+Weierbach,Weierbach (Haigerbach),Q133257853,8,0,1,,,Q63565252,,
+Weierbach,Weierbächli,Q43143113,8,0,1,Wikimedia disambiguation page,,Q4167410,,
+Cheremshanka,Cheremshanka,Q4512785,9,0,1,"river in Orenburg Oblast, Russia",,Q4022,,
+Cheremshanka,Cheremshanka,Q4512794,9,0,1,"river in Omsk Oblast, Russia",,Q4022,,
+Cheremshanka,Cheremshanka,Q13056569,9,0,1,"river in Tyumen Oblast, Russia, tributary of Ik",,Q4022,,
+Cheremshanka,Cheremshanka,Q12569474,9,0,1,"river in Tyumen Oblast, Russia, tributary of Barsuk",,Q4022,,
+Cheremshanka,Cheremshanka,Q13208113,9,0,1,"river in Tyumen Oblast, Russia, tributary of Yemets",,Q4022,,
+Cheremshanka,Cheremshanka,Q4512783,9,0,1,"human settlement in Mayminsky District, Altai Republic, Russia","Cheremshanka, Altai Republic",Q2514025,,"Cheremshanka, Altai Republic"
+Cheremshanka,Cheremshanka,Q4512786,9,0,1,"river in Tomsk Oblast, Russia",,Q4022,,
+Cheremshanka,Cheremshanka,Q4455794,9,0,1,"river in Novosibirsk Oblast, Russia",,Q4022,,
+Cheremshanka,Cheremshanka,Q15255852,9,0,1,"human settlement in Verkhny Ufaley Urban Okrug, Chelyabinsk Oblast, Russia",,Q2514025|Q486972,,
+Cheremshanka,Cheremshanka,Q13208111,9,0,1,"river in Altai Krai, Russia, tributary to the Kulanda",,Q4022,,

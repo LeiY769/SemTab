@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Amadea,Amadea,Q605103,0,0,1,female given name,Amadea (given name),Q11879590,,
+Amadea,Amadea,Q27902672,0,0,1,luxury yacht launched in 2016,,Q21505397,,Amadea (yacht)
+Amadea,"Amadea Isabella, Gräfin von Flodrop",Q112607110,0,0,1,- 28 Jan 1691,,Q5,,
+Amadea,Amadea Emily,Q113612580,0,0,1,Czech pornographic actress (born 1984),Alis Dark,Q5,,
+Amadea,Amadea Palaiologina of Montferrat,Q255199,0,0,1,Queen consort of Cyprus,Medea|Amadea Palaiologina of Monferrato,Q5,,Amadea Palaiologina of Montferrat
+Amadea,AMADEA,Q67809835,0,0,1,Czech company,,Q4830453|Q6881511,,
+Amadea,Amadea Morningstar,Q112517690,0,0,1,,,Q5,,
+Amadea,Amadea Dobovišek,Q114329470,0,0,1,Slovenian researcher,,Q5,,
+Amadea,Amadea Mathieu Anthamatten,Q113795507,0,0,1,,,Q5,,
+Amadea,Amadea Szamosi,Q119542884,0,0,1,Hungarian basketball player (born 1994),Amadea Dóra Szamosi,Q5,,
+Romea,Romea,Q56066795,1,0,1,family name,,Q101352,,
+Romea,Romea,Q28751095,1,0,1,female given name,,Q11879590,,
+Romea,ROMEA,Q12048431,1,0,1,Czech non-profit organization,,Q48204,,
+Romea,Romea,Q56275657,1,0,1,motor yacht built in 2015,,Q21505397,,Romea (yacht)
+Romea,Romea,Q83627637,1,0,1,ship built in 1995,IMO 9107899,Q11446,,
+Romea,Romea Ravazzi,Q113275328,1,0,1,Italian painter (1870-1942),,Q5,,
+Romea,Romean,Q24274147,1,0,1,"village in Tanimbar Islands Regency, Maluku, Indonesia",,Q26211545,,
+Romea,Romea,Q18439655,1,0,1,human settlement in Italy,,Q486972,,
+Romea,Romeas Haek District,Q4929102,1,0,1,district of Cambodia,Romeas Haek,Q14846918,,Romeas Haek District
+Romea,Romeao Ferguson,Q106818152,1,0,1,American basketball player (born 1997),Romeao Venill Ferguson,Q5,,
+Romea,Romania,Q218,1,0,2,country in Southeast Europe,Roumania|Rumania,Q3624078|Q6256|Q179671,,Romania
+Romea,Rome,Q220,1,0,2,capital and largest city of Italy,"The Eternal City|Rome, Italy|City of Seven Hills|Eternal City|The City of Marble|City of Marble|The Capital of the World|Capital of the World",Q902814|Q3685476|Q1200957|Q200250|Q51929311|Q1187811|Q1549591|Q747074|Q108178728,,Rome
+Romea,Roma,Q2063327,1,0,2,"town in Darling Downs, Queensland, Australia","Roma, Queensland|Roma, Queensland, Australia",Q3957,,"Roma, Queensland"
+Romea,Roma,Q37534311,1,0,2,family name,,Q101352,,Roma (surname)
+Romea,Ancient Rome,Q1747689,1,0,2,country that began growing on the Italian Peninsula from the 8th century BC,Roman antiquity|Roman civilization|Roman culture|ancient Roman civilization|ancient Roman culture,Q3024240|Q28171280|Q26907166,Q465299|Q120754777,Ancient Rome
+Romea,Roma,Q3940408,1,0,2,female given name,Roma (first name)|Roma (given name),Q11879590,,Roma (given name)
+Romea,Roma,Q27959455,1,0,2,2018 film directed by Alfonso Cuarón,,Q11424,,Roma (2018 film)
+Romea,Roma,Q18287233,1,0,2,capital city and origin of ancient Rome,Rome (ancient city)|ancient Rome|ancient city of Rome|ancient Roma,Q839954|Q15661340|Q17362920,,
+Romea,Romani people,Q8060,1,0,2,Indo-Aryan ethnic group,Roma|Romany|Rroma|Gipsies|Roma people|Gypsy|Gypsies|Tzigan|Romani|Gipsy|Rromani,Q41710|Q17150753,Q1267849,Romani people
+Romea,Latin script,Q8229,1,0,2,"writing system used to write most Western, Northern and Central European languages",Roman script|Latn,Q29517555|Q8192,Q2182919,Latin script
+Romea,Roman,Q933726,1,0,2,male given name,Roman (given name)|Roman (first name),Q12308941,,Roman (given name)
+Romea,Roman,Q202458,1,0,2,"city in Neamț County, Romania",,Q640364,,"Roman, Romania"
+Romea,Roman,Q16882248,1,0,2,family name,,Q101352,,Roman (surname)
+Romea,Romanian,Q7913,1,0,2,Romance language,Romanian language|Rumanian|Rumanian language|Roumanian|Roumanian language|Moldovan|Moldovan language|Daco-Romanian|Daco-Romanian language|Română|Românește,Q33742|Q1288568,Q147576,Romanian language
+Romea,Roman,Q1115393,1,0,2,"commune in Eure, France",,Q21869758|Q484170,,"Roman, Eure"
+Romea,Román,Q18182624,1,0,2,male given name,Román (given name)|Román (first name),Q12308941,,
+Romea,Catholic Church,Q9592,1,0,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Romea,Catholicism,Q1841,1,0,2,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Romea,Roman Empire,Q2277,1,0,2,Period of ancient Rome following the Republic,Imperium Romanum|Romanum imperium|imperium romanum,Q48349|Q11514315|Q3024240,,Roman Empire
+Romea,Byzantine Empire,Q12544,1,0,2,Roman Empire during Late Antiquity and the Middle Ages,Byzantium|Eastern Roman Empire|Roman Empire|Lower Empire|Romanía|Greek Empire|Empire of the Greeks,Q48349|Q3024240|Q11514315|Q392160|Q56061|Q11042,,Byzantine Empire
+Romea,Western Roman Empire,Q42834,1,0,2,independently administered western provinces of the Roman Empire,Roman Empire,Q48349|Q3024240|Q56061,,Western Roman Empire
+Romea,Roman Empire,Q27856747,1,0,2,American drama series,,Q5398426|Q526877,,Roman Empire (TV series)
+Romea,Roman Empire,Q11351052,1,0,2,horse,,Q726,,
+Romea,Classical Roman Empire,Q14618893,1,0,2,Augustus through Theodosius (27 BC to 395 AD),the Roman Empire from 27 BCE to 395 AD history|Roman Empire from 27 BCE to 395 AD history|history of the Roman Empire from 27 BCE to 395 AD|united Roman Empire|unsplit Roman Empire|Greater Roman Empire|Full Roman Empire|Complete Roman Empire|Classic Roman Empire,Q17524420|Q11514315|Q3024240,Q2277|Q16147990,
+Romea,history of the Roman Empire,Q2671119,1,0,2,occurrences and people in the Roman Empire,the Roman Empire history|Roman Empire history,Q17544377,Q7787,History of the Roman Empire
+Romea,consul of the Roman Empire,Q26203875,1,0,2,an ancient Roman consul during the imperial period,Imperial Roman consul|Roman consul (Empire)|Roman Empire consul,Q17279032,Q40779|Q3277001,
+Romea,"Roman Empire, season 1",Q27857560,1,0,2,season of television series,Roman Empire: Reign of Blood|Reign of Blood,Q3464665,,
+Romea,Roman Empire vs. Barbarians,Q126696076,1,0,2,2023 video game,,Q7889,,
+Titania,titanium dioxide,Q193521,2,0,1,chemical compound,rutile|titanium oxide|titanium peroxide|[TiO2]|TiO2|titania|E171|E-171|TiO₂,Q113145171,Q61670599,Titanium dioxide
+Titania,Titania,Q87278861,2,0,1,genus of plants in the orchid family (Orchidaceae),,Q16521,,
+Titania,Titánia,Q1321807,2,0,1,female given name,,Q11879590,,
+Titania,Titania,Q3322,2,0,1,largest moon of Uranus,Uranus III,Q2152|Q1086783,,Titania (moon)
+Titania,Titania,Q136727195,2,0,1,opera by Georges Hüe,,Q58483083,,
+Titania,Titania,Q2332221,2,0,1,fairy in A Midsummer Night's Dream,Queen Titania|Titania Regina,Q15698310|Q8028|Q4271324|Q3658341|Q50386450|Q1114461|Q3375722,,Titania (A Midsummer Night's Dream)
+Titania,titanium,Q716,2,0,1,chemical element with symbol Ti and atomic number 22,element 22|22Ti,Q11344|Q2512777|Q1130479,Q19588|Q428766,Titanium
+Titania,593 Titania,Q155738,2,0,1,main-belt asteroid,(593) Titania|Titania,Q3863,,593 Titania
+Titania,Erza Scarlet,Q4405800,2,0,1,fictional character from Fairy Tail,"Erza Belserion|Titania|Queen of the Fairies|Scarlet, Erza|Belserion, Erza",Q15632617|Q87576284|Q80447738|Q1569167|Q126398920,,
+Titania,Titania,Q99671622,2,0,1,fictional planet in the Star Fox video game series,,Q2775969|Q1046315,,

@@ -1,0 +1,50 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kozje Castle,Kozje Castle,Q18718850,0,0,1,,,Q17715832,,
+Güntersburg,Güntersburg,Q962369,1,0,1,castle ruin,,Q17715832,,Güntersburg
+Burgruine Poppberg,Burgruine Poppberg,Q1015458,2,0,1,castle ruin in Germany,,Q17715832,,
+Ostrovica Fortress,Ostrovica Fortress,Q17480886,3,0,1,"medieval fortress in Kulen Vakuf, Bosnia and Herzegovina",Ostrovica Castle|Old Town of Ostrovica|Ostrovica Fort|Ostrovica Old Town|Ostrovica,Q23413|Q57831|Q2065736|Q1081138|Q35112127|Q210272|Q811165,,Ostrovica Castle
+Ostrovica Fortress,Ostrovica Fortress,Q14397181,3,0,1,castle in Croatia,,Q595968|Q17715832,,Ostrovica Fortress
+Burgruine Rechenberg,Burgruine Rechenberg,Q1015470,4,0,1,"castle ruin in Rechenberg-Bienenmühle, Saxony, Germany",,Q17715832,,
+Nový Castle,Nový Castle,Q12041429,5,0,1,,,Q23413|Q17715832,,
+Orlík Castle,Orlík Castle,Q1013458,6,0,1,"castle in Písek, Czech Republic",Orlik Castle,Q23413|Q751876,,Orlík Castle
+Orlík Castle,Orlík Castle,Q12042921,6,0,1,"castle in Humpolec, Czechia",Orlík Castle (Humpolec),Q23413|Q17715832,,
+Orlík Castle,Orlik,Q37117233,6,0,2,family name,,Q101352,,Orlik (surname)
+Orlík Castle,Emil Orlík,Q379150,6,0,2,"Czech photographer, graphic, painter, portrait painter and scenographer (1870-1932)",Orlik|e. orlik|emil orlik,Q5,,Emil Orlik
+Orlík Castle,Orlík,Q46199582,6,0,2,"street in Plzeň, Czech Republic",,Q79007,,
+Orlík Castle,Orlík nad Vltavou,Q1641768,6,0,2,village in the South Bohemian Region of the Czech Republic,Orlik nad Vltavou,Q5153359,,Orlík nad Vltavou
+Orlík Castle,Orlik,Q2795812,6,0,2,Buryatia,,Q532|Q192287,,"Orlik, Republic of Buryatia"
+Orlík Castle,Orlik,Q4336546,6,0,2,"village in Kobeliaky Raion, Poltava Oblast, Ukraine",,Q21672098,,
+Orlík Castle,Orlík,Q3564193,6,0,2,Czech musical group,Orlik,Q215380,,Orlík (band)
+Orlík Castle,PZL-130 Orlik,Q544275,6,0,2,Polish trainer aircraft,PZL 130 Orlik|Orlik|Orlik aircraft|PZL Orlik,Q15056993,Q68073115|Q68119792,PZL-130 Orlik
+Orlík Castle,Orlik,Q4336548,6,0,2,"river in Oryol Oblast, Russia, tributary to the Oka",,Q4022,,
+Orlík Castle,Orlik,Q4336547,6,0,2,"river in Belgorod Oblast, Russia, tributary to the Oskol",,Q4022,,
+Glenbuchat Castle,Glenbuchat Castle,Q2068994,7,0,1,"Z-plan castle in Aberdeenshire, Scotland, UK",Glenbucket Castle,Q3662396|Q17715832,,Glenbuchat Castle
+Burgreste Rockenbusch,Burgreste Rockenbusch,Q1015219,8,0,1,castle ruin,,Q17715832,,
+Burg Burkheim,Burg Burkheim,Q2175230,9,0,1,,,Q17715832,,
+Burg Burkheim,Burg Burghausen,Q19962097,9,0,2,,,Q615810,,
+Burg Burkheim,Burg Burghausen/Erster Vorhof,Q41278564,9,0,2,"building in Burghausen, Upper Bavaria, Germany",,Q23413,,
+Burg Burkheim,Vorburg Burg; Nähe Hofberg; Wöhrberg in Burghausen,Q98741440,9,0,2,"cultural heritage monument D-1-71-112-8 (3) in Burghausen, Bavaria",,Q1401281,,
+Burg Burkheim,Pulverturm,Q41278834,9,0,2,,,Q1516079,,
+Burg Burkheim,State Gallery in Burghausen Castle,Q104774222,9,0,2,"picture gallery of the Bavarian State Painting Collections with a collection of predominantly late medieval altarpieces in Burghausen Castle, Bavaria, Germany",Staatsgalerie in der Burg Burghausen,Q740437,,
+Burg Burkheim,Burghausen Castle third courtyard,Q126915637,9,0,2,,,Q23413,,
+Burg Burkheim,Burghausen Castle second courtyard,Q126911550,9,0,2,,,Q23413,,
+Burg Burkheim,Burghausen Castle fifth courtyard,Q126916739,9,0,2,,,Q23413,,
+Burg Burkheim,Burg Burghausen,Q20758429,9,0,2,Wikimedia disambiguation page,,Q4167410,,
+Ossenbroek castle,Ossenbroek castle,Q122916607,10,0,1,"former castle in Bedburg-Hau, Germany",Haus Ossenbruck,Q17715832|Q22969563,,
+Kostomlaty Castle,Kostomlaty Castle,Q1012709,11,0,1,castle,,Q23413|Q17715832,,
+Cultural heritage D-3-6541-0009 in Treffelstein,Cultural heritage D-3-6541-0009 in Treffelstein,Q98279620,12,0,1,"cultural heritage monument in Treffelstein, Cham, Upper Palatinate, Bavaria, Germany",,Q22969563|Q814254|Q17715832,,
+Cultural heritage D-3-6541-0009 in Treffelstein,regional cultural heritage site in Russia,Q105835744,12,0,2,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+Cultural heritage D-3-6541-0009 in Treffelstein,cultural heritage site in Russia,Q8346700,12,0,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+Cultural heritage D-3-6541-0009 in Treffelstein,federal cultural heritage site in Russia,Q23668083,12,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Cultural heritage D-3-6541-0009 in Treffelstein,Cultural Monument of Albania,Q30232537,12,0,2,,cultural heritage site of Albania,,Q358,Cultural Monument of Albania
+Cultural heritage D-3-6541-0009 in Treffelstein,Cultural Heritage Site of National Significance,Q29966257,12,0,2,official Finnish status for cultural heritage,RKY|built cultural environment of national significance,,Q55845509,
+Cultural heritage D-3-6541-0009 in Treffelstein,local cultural heritage site in Russia,Q105835766,12,0,2,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+Cultural heritage D-3-6541-0009 in Treffelstein,cultural heritage site in Slovenia,Q18564289,12,0,2,immovable object or area of cultural significance in Slovenia,heritage site in Slovenia,Q74817647,Q358,
+Cultural heritage D-3-6541-0009 in Treffelstein,Cultural heritage sites in Nuremberg inner city,Q1378183,12,0,2,Wikimedia list article,,Q13406463,,
+Cultural heritage D-3-6541-0009 in Treffelstein,cultural heritage sites of national significance in Finland,Q3485482,12,0,2,,,Q35127|Q7094076|Q15097084,,
+Cultural heritage D-3-6541-0009 in Treffelstein,cultural heritage site in Ukraine,Q10296658,12,0,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Ukraine,Q2065736,Q358,
+Castle Kokšín,Castle Kokšín,Q21587605,13,0,1,,,Q17715832|Q23413,,
+Burg Rheinberg,Burg Rheinberg,Q1013659,14,0,1,,,Q17715832,,
+Burg Rheinberg,Burg Rheinau (Haus Zur Stube),Q29933018,14,0,2,,,Q811979,,
+Ruinen Thernberg,Ruinen Thernberg,Q2175517,15,0,1,"building in Lower Austria, Austria",,Q17715832|Q23413,,
+Hünenberg Castle,Hünenberg Castle,Q1012539,16,0,1,"castle ruin in Hünenberg in the canton of Zug, Switzerland",Burg Hünenberg,Q839954|Q17715832,,

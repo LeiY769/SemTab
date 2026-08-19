@@ -1,0 +1,27 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+National Museum of Costume,National Museum of Costume,Q9047155,0,0,1,"palace in Lisbon, Lisbon District, Portugal",,Q17431399|Q5436782|Q210272|Q16560,,National Museum of Costume (Portugal)
+National Museum of Costume,National Museum of Costume,Q1967480,0,0,1,museum and costume collection in Scotland,Shambellie HouseMuseum of Costume,Q17431399|Q5436782|Q33506,,National Museum of Costume
+National Museum of Costume,fashion museum,Q5436782,0,0,2,"museum specialising in costume, clothing or fashion",costume museum|museum of costume|museum of fashion|museum of clothing|museum of clothes|clothes museum|clothing museum,Q63982911,Q28737012,Fashion museum
+National Museum of Costume,Costume Museum,Q5175221,0,0,2,"costume museum in Kastoria, Greece",Costume Museum of Kastoria,Q5436782,,Costume Museum (Kastoria)
+National Museum of Costume,Costume Museum,Q11665410,0,0,2,"museum in Kyoto, Japan",,Q5436782,,
+National Museum of Costume,costume museum,Q131675382,0,0,2,museum in Kastelruth,Trachtenmuseum Kastelruth,Q5436782|Q12104174,,
+National Museum of Costume,Costume Museum of Canada,Q5175220,0,0,2,fashion museum,,Q5436782,,Costume Museum of Canada
+National Museum of Costume,Costume museum,Q16769856,0,0,2,Wikimedia disambiguation page,,Q4167410,,Costume museum
+Maritime Museum,maritime museum,Q1863818,1,0,1,museum specializing in the display of objects relating to ships and travel on large bodies of water,nautical museum|museum of maritime history|ship museum|museum of shipping|museum of ships,Q63982911,Q2516357,Maritime museum
+Maritime Museum,National Maritime Museum,Q1199924,1,0,1,"museum in London, England, United Kingdom","Maritime Museum, Greenwich|Greenwich Maritime Museum|NMM",Q1863818|Q2772772|Q17431399,,National Maritime Museum
+Maritime Museum,Maritime Museum,Q1647895,1,0,1,"museum in Stockholm, Sweden",The Maritime Museum|Sjöhistoriska museet|Maritime Museum (Stockholm)|Maritime Museum in Stockholm|Maritime Museum Stockholm|Statens Sjöhistoriska Museum Stockholm,Q1863818|Q17431399|Q1497375,,Maritime Museum (Stockholm)
+Maritime Museum,Maritime Museum Rotterdam,Q2755458,1,0,1,"museum in Rotterdam, the Netherlands","Maritiem Museum, Prins Hendrik|Rotterdam Maritiem Museum Prins Hendrik|Maritiem Museum Rotterdam",Q1863818,,Maritime Museum Rotterdam
+Maritime Museum,Maritime Museum,Q3329919,1,0,1,"museum in Marseille, France",Musée de la Marine et de l'Economie de Marseille,Q33506|Q1863818,,
+Maritime Museum,Maritime Museum,Q2030607,1,0,1,"museum in Jakarta, Indonesia",Jakarta Maritime Museum,Q33506,,Maritime Museum (Indonesia)
+Maritime Museum,Varna Naval Museum,Q12275596,1,0,1,"museum in Varna, Bulgaria",maritime museum|Naval Museum Varna,Q33506,,
+Maritime Museum,Lowestoft Maritime Museum,Q24993825,1,0,1,"maritime museum in Lowestoft, United Kingdom",Maritime Museum,Q1863818|Q115154402|Q24699794,,Lowestoft Maritime Museum
+Maritime Museum,Hylkysaari pilot station,Q98412922,1,0,1,"protected and abandoned building in Helsinki, Finland",Hylkysaari|Maritime museum,Q41176|Q16948701,,
+Maritime Museum,"Custom House, Lancaster",Q15212222,1,0,1,"museum building in Lancaster, Lancashire, England, UK",Maritime Museum,Q24699794,,"Custom House, Lancaster"
+Maritime Museum,Mar del Plata Museum of the Sea,Q9047113,1,0,2,"museum of marine biology and aquarium in Mar del Plata, Argentina",Museum of the Sea,Q2281788|Q33506,,Mar del Plata Museum of the Sea
+Maritime Museum,Museum of the Sea,Q16302097,1,0,2,Museum in Uruguay,,Q33506,,Museum of the Sea (Uruguay)
+Maritime Museum,Museum of the Sea,Q6941118,1,0,2,"small museum at Achilleio, Greece",,Q33506,,Museum of the Sea of Volos
+Maritime Museum,Museum of the Sea,Q18542276,1,0,2,"museum in Constanta, Romania",,Q33506,,
+Maritime Museum,"Museum of the Sea, Cascais",Q48816433,1,0,2,maritime and fishing museum in Portugal,,Q33506,,"Museum of the Sea, Cascais"
+Maritime Museum,Museo del Mare,Q119993438,1,0,2,,Sea museum|Sea museum of Tortona,Q33506|Q1863818,,
+Maritime Museum,Sea Museum in Szczecin,Q16978582,1,0,2,building in Poland,,Q33506|Q24354,,
+Maritime Museum,Sea Museum Naples,Q1702378,1,0,2,"museum in Naples, Italy",Museo del Mare|Museo del Mare di Napoli,Q2398990|Q12104174|Q614316,,

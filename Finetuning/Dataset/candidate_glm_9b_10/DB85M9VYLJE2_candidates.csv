@@ -1,0 +1,48 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+St Michael's College,St Michael's College,Q7594800,0,0,1,catholic school,,Q3914|Q163740,,"St Michael's College, Adelaide"
+St Michael's College,St Michael's College,Q108804078,0,0,1,"former theological college in Llandaff, Cardiff, Wales","St Michael's College, Llandaff|St. Michael's College, Llandaff",Q233324,,
+St Michael's College,St Padarn's Institute,Q7590684,0,0,1,"Grade II listed theological college in City and County of Cardiff, Wales, UK","St. Michael's College|St. Michael's College, Llandaff|St Michael's College|St Michael's College, Llandaff",Q233324,,St Padarn's Institute
+St Michael's College,Saint Michaels' College Brasschaat,Q3334193,0,0,1,"school in Brasschaat, Belgium",St Michael's College|St Michael's,Q3914|Q43229,,
+St Michael's College,"St Michael's College, Dublin",Q7594799,0,0,1,"primary and secondary school for boys, Ireland",,Q159334,,"St Michael's College, Dublin"
+St Michael's College,St Michael's College,Q106292839,0,0,1,"independent primary school in Caboolture, QLD, Australia",,Q3914,,
+St Michael's College,St Michael's College,Q105417057,0,0,1,"UK grammar school in Enniskillen, County Fermanagh, Northern Ireland",,Q967098|Q105416221,,
+St Michael's College,St Michael's College,Q106292838,0,0,1,"catholic secondary school in Merrimac, QLD, Australia",,Q3914,,
+St Michael's College,St Michael's College and adjoining cloister,Q17547997,0,0,1,"school building in Tenbury, Malvern Hills, Worcestershire, England, UK",,Q1244442|Q1430154,,
+Calhoun Academy,Calhoun Academy,Q5019755,1,0,1,"k3–12 school in St. Matthews, South Carolina, United States",,Q3914,,Calhoun Academy (South Carolina)
+Calhoun Academy,Calhoun Academy,Q48977004,1,0,1,"private school in Pittsboro, Mississippi, United States",,Q3914,,Calhoun Academy (Mississippi)
+Calhoun Academy,Calhoun Academy,Q43132410,1,0,1,Wikimedia disambiguation page,,Q4167410,,Calhoun Academy
+Bridge House School,Bridge House School,Q4966237,2,0,1,"private, boarding school in Franschhoek, Western Cape, South Africa",,Q3914,,Bridge House School
+Bridge House School,Bridge House School,Q61792386,2,0,1,High School in South Africa,,Q9826|Q159334,,
+Bridge House School,BRIDGE HOUSE SCHOOL FOR DEAF PUPILS WHO ARE ALSO EDUCATIONALLY SUBNORMAL.,Q50683931,2,0,1,scientific article published in September 1964,,Q13442814,,
+Carmel College,Carmel College,Q60556910,3,0,1,"Catholic secondary school, Thornlands, Queensland",,Q3914,,"Carmel College, Thornlands"
+Carmel College,Carmel College,Q5043267,3,0,1,"state-integrated secondary (year 7-15) school in Auckland, New Zealand",,Q159334|Q15134891,,"Carmel College, Auckland"
+Carmel College,Carmel College,Q5043268,3,0,1,"school in St Helens, England",,Q159334|Q1138671|Q21822439,,Carmel College (St Helens)
+Carmel College,Carmel College,Q5043271,3,0,1,"former Jewish boarding school in South Oxfordshire, England",,Q269770,,"Carmel College, Oxfordshire"
+Carmel College,Carmel College,Q5043266,3,0,1,"school in Darlington, UK",,Q159334|Q4671329,,"Carmel College, Darlington"
+Carmel College,Carmel College,Q98945658,3,0,1,,,Q189004,,
+Carmel College,Carmel College Sixth Form,Q5043269,3,0,1,"sixth form college in Darlington, England",,Q7533204,,Carmel College Sixth Form
+Carmel College,"Carmel College, Modankaup",Q85647832,3,0,1,college affiliated to the Mangalore University,,Q189004,,
+Carmel College,Carmel College of Engineering and Technology Alappuzha,Q19457551,3,0,1,Engineering College in Kerala,"Carmel College of Engineering and Technology, Alappuzha|Carmel College of Engineering and Technology",Q1663017|Q189004,,
+Carmel College,"Carmel College, Mala",Q96374487,3,0,1,"College in Kerala, India",,,,"Carmel College, Mala"
+Crossroads Christian Academy,Crossroads Christian Academy,Q5188821,4,0,1,school in Panama,,Q3914,,Crossroads Christian Academy
+Crossroads Christian Academy,Crossroads Christian Academy,Q5188822,4,0,1,Wikimedia disambiguation page,,Q4167410,,Crossroads Christian Academy (disambiguation)
+Crossroads Christian Academy,Christian Academy in Japan,Q5109247,4,0,2,"private school in Higashikurume, Japan",,Q572835,,Christian Academy in Japan
+Crossroads Christian Academy,Christian Academy of Theology in Warsaw Facuty of Social Sciences,Q18431315,4,0,2,,Facuty of Social Sciences of Christian Academy of Theology in Warsaw|Facuty of Social Sciences ChAT|Faculty of Education Christian Academy of Theology in Warsaw|Department of Education Christian Academy of Theology in Warsaw,Q180958,,
+Crossroads Christian Academy,Czech Christian Academy,Q11282181,4,0,2,"civil association for christliche education in Prague, Czech Republic, founded in 1990",Christian Academy Prague|CKA,Q2385804,,
+Crossroads Christian Academy,Christian Academy of Knoxville,Q5109248,4,0,2,"private school in Knoxville, Tennessee, United States",,Q3914,,Christian Academy of Knoxville
+Crossroads Christian Academy,Christian Academy of Lawrenceburg,Q5109251,4,0,2,"school in Kentucky, United States of America",,Q3914,,Christian Academy of Lawrenceburg
+Crossroads Christian Academy,Christian Academy of Louisville,Q5109252,4,0,2,"private school in Louisville, Kentucky",,Q3914,,Christian Academy of Louisville
+Crossroads Christian Academy,Christian Academy of Indiana,Q23016891,4,0,2,"private school in New Albany, Floyd County, Indiana, United States",,Q3914,,Christian Academy of Indiana
+Crossroads Christian Academy,"Christian Academy (Campti, Louisiana)",Q123684620,4,0,2,,,,,
+Crossroads Christian Academy,Christian Academy of Guatemala,Q5109249,4,0,2,school in Guatemala,,Q3914,,Christian Academy of Guatemala
+Crossroads Christian Academy,Christian Academy of Madison,Q5109253,4,0,2,"private school in Madison, Indiana, IN, United States",,Q3914,,Christian Academy of Madison
+St. Patrick's College,St Patrick's College,Q7590939,5,0,1,"state-integrated secondary (year 9-15) school in Upper Hutt, New Zealand","St Patrick's College (Silverstream)|St Patrick's College, Silverstream|St. Patrick's College, Silverstream|St. Patrick's College|St Patricks College Silverstream",Q269770|Q15134891|Q159334|Q163740,,"St Patrick's College, Silverstream"
+St. Patrick's College,St. Patrick's College,Q2974516,5,0,1,school in Ireland,"St. Patrick's College, Cavan",Q3914,,"St Patrick's College, Cavan"
+St. Patrick's College,St. Patrick's College,Q7590944,5,0,1,"education institute in Karachi, Pakistan",,,,St. Patrick's College (Karachi)
+St. Patrick's College,"St. Patrick's College, Jaffna",Q7590937,5,0,1,"private school in Jaffna, Northern Province, Sri Lanka",,Q3914,,"St. Patrick's College, Jaffna"
+St. Patrick's College,"St. Patrick's College, Wellington",Q7590943,5,0,1,"state-integrated secondary (year 9-15) school in Wellington, New Zealand","St Patrick's College, Kilbirnie, Wellington|St Patrick's College, Wellington",Q159334|Q15134891,,"St Patrick's College, Wellington"
+St. Patrick's College,"St. Patrick's College, Thurles",Q7590941,5,0,1,"College in Tiperary, Ireland",,Q3918|Q14911880,,"MIC, St. Patrick's Campus, Thurles"
+St. Patrick's College,"St. Patrick's College, Maghera",Q7590938,5,0,1,"school in Maghera, County Londonderry, Northern Ireland",,Q159334|Q105416219,,"St Patrick's College, Maghera"
+St. Patrick's College,St. Patrick's College Chapel (New),Q108577138,5,0,1,"chapel at St Patrick's College, Drumcondra, Dublin, Ireland",,Q108325,,
+St. Patrick's College,"St. Patrick's College, Tuam",Q7590942,5,0,1,catholic boy's school in Ireland,,Q159334,,"St Patrick's College, Tuam"
+St. Patrick's College,"St. Patrick's College, South Africa",Q17929254,5,0,1,South African boarding school,,Q9826,,"St. Patrick's College, South Africa"

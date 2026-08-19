@@ -1,0 +1,145 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Steinfort,Steinfort,Q985478,0,0,1,"commune in the canton of Capellen, Luxembourg",Commune of Steinfort,Q2919801,,Steinfort
+Steinfort,Steinfort,Q140605196,0,0,1,cadastral commune of Luxembourg,,Q140754208,,
+Steinfort,Steinfort,Q3917008,0,0,1,human settlement in Luxembourg,Stengefort,Q486972|Q15303838,,
+Steinfort,Steinfort,Q36855775,0,0,1,family name,,Q101352,,
+Steinfort,Steinforth,Q130562558,0,0,1,"street in Korschenbroich, North Rhine-Westphalia, Germany",,Q79007,,
+Steinfort,Steinfortsee,Q2340659,0,0,1,lake in Germany,,Q23397,,Steinfortsee
+Steinfort,Steinforth-Rubbelrath,Q2340651,0,0,1,human settlement in Germany,,Q253019,,
+Steinfort,Steinförthsbach,Q61991709,0,0,1,"protected landscape in Lower Saxony, Germany",,Q21503788|Q473972,,
+Steinfort,Steinfort,Q60852877,0,0,1,railway station in Luxembourg,,Q55488,,
+Steinfort,Steinforter Stauweier,Q56241627,0,0,1,lake in Luxembourg,,Q23397,,
+Habscht,Habscht,Q958682,0,2,1,"commune in the canton of Capellen, Luxembourg",Commune of Habscht,Q2919801,,Habscht
+Habscht,Hobscheid,Q13102943,0,2,1,human settlement in Luxembourg,,Q2919801|Q3257686,,Hobscheid
+Habscht,Hobscheid,Q140599981,0,2,1,cadastral commune of Luxembourg,,Q140754208,,
+Habscht,Habschter Tunnel,Q16763661,0,2,1,,,Q1311958,,
+Habscht,Steinfort,Q985478,0,2,2,"commune in the canton of Capellen, Luxembourg",Commune of Steinfort,Q2919801,,Steinfort
+Habscht,Steinfort,Q140605196,0,2,2,cadastral commune of Luxembourg,,Q140754208,,
+Habscht,Steinfort,Q3917008,0,2,2,human settlement in Luxembourg,Stengefort,Q486972|Q15303838,,
+Habscht,Steinfort,Q36855775,0,2,2,family name,,Q101352,,
+Habscht,Steinforth,Q130562558,0,2,2,"street in Korschenbroich, North Rhine-Westphalia, Germany",,Q79007,,
+Habscht,Steinfortsee,Q2340659,0,2,2,lake in Germany,,Q23397,,Steinfortsee
+Habscht,Steinforth-Rubbelrath,Q2340651,0,2,2,human settlement in Germany,,Q253019,,
+Habscht,Steinförthsbach,Q61991709,0,2,2,"protected landscape in Lower Saxony, Germany",,Q21503788|Q473972,,
+Habscht,Steinfort,Q60852877,0,2,2,railway station in Luxembourg,,Q55488,,
+Habscht,Steinforter Stauweier,Q56241627,0,2,2,lake in Luxembourg,,Q23397,,
+Habscht,Luxembourg,Q32,0,2,2,country in Western Europe,Grand Duchy of Luxembourg,Q3624078|Q179164|Q165116|Q123480|Q6256|Q113136497,,Luxembourg
+Habscht,Luxembourg,Q1842,0,2,2,capital and largest city of Luxembourg,Luxembourg City|City of Luxembourg|Luxemburg,Q2919801|Q515|Q1549591|Q51929311|Q5119,,Luxembourg City
+Habscht,Luxembourg,Q83370535,0,2,2,family name,Luxembourg (family name)|Luxembourg (surname),Q101352,,
+Habscht,Luxembourg railway station,Q801140,0,2,2,railway station,,Q55488,,Luxembourg railway station
+Habscht,province of Luxembourg,Q1126,0,2,2,"province in Wallonia, Belgium","Luxembourg, Belgium|Luxembourg Province|Luxemburg|Luxemburg, Belgium|Luxemburg Province|Luxembourg (Belgium)|BE-WLX|Luxembourg",Q83116,,Luxembourg (Belgium)
+Habscht,Luxembourgish,Q9051,0,2,2,Germanic language or language variety spoken in Luxembourg,Luxembourgish language|Lëtzebuergesch|Luxembourg language|Luxemburgish|Luxemburgish language,Q34770|Q1288568,Q98843053,Luxembourgish
+Habscht,Luxembourgish Wikipedia,Q950058,0,2,2,Luxembourgish-language edition of Wikipedia,luxwiki|lbwiki|lbwp|lbwikipedia|lb.wikipedia.org,Q10876391,,
+Habscht,Luxembourg,Q140604829,0,2,2,cadastral commune of Luxembourg,,Q140754208,,
+Habscht,Canton of Luxembourg,Q691741,0,2,2,canton of Luxembourg,,Q1146429,,Canton of Luxembourg
+Habscht,Luxembourg Palace,Q329852,0,2,2,seat of the French Senate,Palais du Luxembourg|Palais du Senat,Q16560,,Luxembourg Palace
+Habscht,Canton of Redange,Q835980,0,2,2,canton of Luxembourg,,Q1146429,,Canton of Redange
+Koerich,Koerich,Q985471,1,0,1,"commune in the canton of Capellen, Luxembourg",Commune of Koerich,Q2919801,,Koerich
+Koerich,Koerich,Q140604619,1,0,1,cadastral commune of Luxembourg,,Q140754208,,
+Koerich,Koerich,Q20969433,1,0,1,,,Q3257686|Q15303838,,
+Koerich,Lojas Koerich,Q129816224,1,0,1,chain of home furniture and electronics stores,Koerich|Koerich Stores,Q507619,,
+Koerich,Koerich Castle,Q1632023,1,0,1,château,,Q751876|Q109607|Q17715832,,Koerich Castle
+Habscht,Habscht,Q958682,1,2,1,"commune in the canton of Capellen, Luxembourg",Commune of Habscht,Q2919801,,Habscht
+Habscht,Hobscheid,Q13102943,1,2,1,human settlement in Luxembourg,,Q2919801|Q3257686,,Hobscheid
+Habscht,Hobscheid,Q140599981,1,2,1,cadastral commune of Luxembourg,,Q140754208,,
+Habscht,Habschter Tunnel,Q16763661,1,2,1,,,Q1311958,,
+Bertrange,Bertrange,Q809603,2,0,1,"commune in the canton of Luxembourg, Luxembourg",Commune of Bertrange,Q2919801,,Bertrange
+Bertrange,Bertrange,Q22440,2,0,1,"commune in Moselle, France",,Q484170,,"Bertrange, Moselle"
+Bertrange,Bertrange,Q140591181,2,0,1,cadastral commune of Luxembourg,,Q140754208,,
+Bertrange,Bertrange,Q13101668,2,0,1,human settlement in Luxembourg,,Q486972,,
+Bertrange,Bertrange-Strassen railway station,Q2299753,2,0,1,railway station in Luxembourg,,Q55488,,Bertrange-Strassen railway station
+Bertrange,"Bertrange, Belle Étoile",Q77334163,2,0,1,,,Q548662|Q618123,,
+Bertrange,Bertrange communal council,Q4895913,2,0,1,,,Q15261456,,
+Bertrange,Bertrange - Greivelserhaff / Bouferterhaff,Q108200051,2,0,1,protected area in Luxembourg (LU0001026),,Q473972,,
+Bertrange,Bertrange - Café Welter-Reuter [Num295895],Q135836194,2,0,1,"Business tokens › Restaurant, bar, cafe and hotel tokens - Milled - Luxembourg",,Q113813711,Q41207,
+Bertrange,Bertrange - Café Welter-Reuter [Num334582],Q135836220,2,0,1,"Business tokens › Restaurant, bar, cafe and hotel tokens - Milled - Luxembourg",,Q113813711,Q41207,
+Bertrange,Mamer,Q921291,2,0,2,"commune in the canton of Capellen, Luxembourg",Commune of Mamer,Q2919801,,Mamer
+Bertrange,Mamer,Q37437177,2,0,2,family name,,Q101352,,
+Bertrange,Mamers,Q645085,2,0,2,"commune in Sarthe, France",,Q484170,,Mamers
+Bertrange,Mamer,Q140604830,2,0,2,cadastral commune of Luxembourg,,Q140754208,,
+Bertrange,Mamer,Q1888207,2,0,2,stream in Luxembourg,,Q47521|Q355304,,Mamer (river)
+Bertrange,Mamer,Q20969453,2,0,2,human settlement in Luxembourg,,Q486972|Q15303838,,
+Bertrange,Mamercus Aemilius Lepidus Livianus,Q721477,2,0,2,Roman consul 77 BC,Gaius Livius Drusus|Livianus,Q5,,Mamercus Aemilius Lepidus Livianus
+Bertrange,Mamerto,Q21011040,2,0,2,male given name,Mamerto (given name)|Mamerto (first name),Q12308941,,
+Bertrange,Mamert Stankiewicz,Q5289389,2,0,2,Polish naval officer (1889–1939),,Q5,,Mamert Stankiewicz
+Bertrange,Mamerthes,Q1944435,2,0,2,genus of insects,,Q16521,,Mamerthes
+Bertrange,Luxembourg,Q1842,2,0,2,capital and largest city of Luxembourg,Luxembourg City|City of Luxembourg|Luxemburg,Q2919801|Q515|Q1549591|Q51929311|Q5119,,Luxembourg City
+Bertrange,Luxembourg City Film Festival,Q16466148,2,0,2,film festival,Lux Film Fest|LuxFilmFest|Discovery Zone|Discovery Zone Film Festival,Q220505,,Luxembourg City Film Festival
+Bertrange,Luxembourg City History Museum,Q2555232,2,0,2,museum in Luxembourg City,,Q33506,,Luxembourg City History Museum
+Bertrange,Luxembourg City Hall,Q6706218,2,0,2,"City hall of Luxembourg City, Luxembourg",,Q543654,,Luxembourg City Hall
+Bertrange,Luxembourg City Hostel,Q13103404,2,0,2,hostel in Luxembourg City,,Q1589077|Q654772,,
+Bertrange,timeline of Luxembourg City history,Q7805807,2,0,2,,Luxembourg City history timeline,Q18340550,,Timeline of Luxembourg City
+Bertrange,Luxembourg City Tourist Office,Q30004713,2,0,2,,,Q1587716,,
+Bertrange,Luxembourg,Q32,2,0,2,country in Western Europe,Grand Duchy of Luxembourg,Q3624078|Q179164|Q165116|Q123480|Q6256|Q113136497,,Luxembourg
+Bertrange,Luxembourg,Q83370535,2,0,2,family name,Luxembourg (family name)|Luxembourg (surname),Q101352,,
+Bertrange,Luxembourg railway station,Q801140,2,0,2,railway station,,Q55488,,Luxembourg railway station
+Bertrange,province of Luxembourg,Q1126,2,0,2,"province in Wallonia, Belgium","Luxembourg, Belgium|Luxembourg Province|Luxemburg|Luxemburg, Belgium|Luxemburg Province|Luxembourg (Belgium)|BE-WLX|Luxembourg",Q83116,,Luxembourg (Belgium)
+Bertrange,Luxembourgish,Q9051,2,0,2,Germanic language or language variety spoken in Luxembourg,Luxembourgish language|Lëtzebuergesch|Luxembourg language|Luxemburgish|Luxemburgish language,Q34770|Q1288568,Q98843053,Luxembourgish
+Bertrange,Luxembourgish Wikipedia,Q950058,2,0,2,Luxembourgish-language edition of Wikipedia,luxwiki|lbwiki|lbwp|lbwikipedia|lb.wikipedia.org,Q10876391,,
+Bertrange,Luxembourg,Q140604829,2,0,2,cadastral commune of Luxembourg,,Q140754208,,
+Bertrange,Canton of Luxembourg,Q691741,2,0,2,canton of Luxembourg,,Q1146429,,Canton of Luxembourg
+Bertrange,Luxembourg Palace,Q329852,2,0,2,seat of the French Senate,Palais du Luxembourg|Palais du Senat,Q16560,,Luxembourg Palace
+Bertrange,Grand Duchy of Luxembourg,Q110712142,2,0,2,"Cosyn gids, s.d., Hedendaagse drukwerken van de Koninklijke Bibliotheek van België (KBR), 5612 R 83",,,,
+Bertrange,Grand Duchy of Luxembourg,Q110712143,2,0,2,"Cosyn gids, s.d., Hedendaagse drukwerken van de Koninklijke Bibliotheek van België (KBR), 5612 R 65",,Q223638,,
+Bertrange,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16277)",Q67692583,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Bertrange,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16276)",Q66352841,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Bertrange,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16278)",Q66352835,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Bertrange,Grand Duchy of Luxembourg: a case study of a national master patient index in production since five years,Q97586651,2,0,2,scientific article published on 17 July 2020,,Q13442814,,
+Bertrange,Grand Duchy of Luxembourg. Country profile.,Q41375790,2,0,2,scientific article published on September 1985,,Q13442814,,
+Mamer,Mamer,Q921291,2,2,1,"commune in the canton of Capellen, Luxembourg",Commune of Mamer,Q2919801,,Mamer
+Mamer,Mamer,Q37437177,2,2,1,family name,,Q101352,,
+Mamer,Mamers,Q645085,2,2,1,"commune in Sarthe, France",,Q484170,,Mamers
+Mamer,Mamer,Q140604830,2,2,1,cadastral commune of Luxembourg,,Q140754208,,
+Mamer,Mamer,Q1888207,2,2,1,stream in Luxembourg,,Q47521|Q355304,,Mamer (river)
+Mamer,Mamer,Q20969453,2,2,1,human settlement in Luxembourg,,Q486972|Q15303838,,
+Mamer,Mamercus Aemilius Lepidus Livianus,Q721477,2,2,1,Roman consul 77 BC,Gaius Livius Drusus|Livianus,Q5,,Mamercus Aemilius Lepidus Livianus
+Mamer,Mamerto,Q21011040,2,2,1,male given name,Mamerto (given name)|Mamerto (first name),Q12308941,,
+Mamer,Mamert Stankiewicz,Q5289389,2,2,1,Polish naval officer (1889–1939),,Q5,,Mamert Stankiewicz
+Mamer,Mamerthes,Q1944435,2,2,1,genus of insects,,Q16521,,Mamerthes
+Wiltz,Wiltz,Q741589,3,0,1,"commune in the canton of Wiltz, Luxembourg",Commune of Wiltz,Q2919801,,Wiltz
+Wiltz,Wiltz,Q140605387,3,0,1,cadastral commune of Luxembourg,,Q140754208,,
+Wiltz,Canton of Wiltz,Q550021,3,0,1,canton of Luxembourg,,Q1146429|Q2311958,,Canton of Wiltz
+Wiltz,Wiltz,Q16765057,3,0,1,town in municipality with the same name in Luxembourg,Wolz,Q515|Q15303838,,
+Wiltz,Wiltz,Q1708483,3,0,1,river in Belgium and Luxembourg,,Q4022,,Wiltz (river)
+Wiltz,Wiltz,Q37432599,3,0,1,family name,,Q101352,,
+Wiltz,Wiltz,Q24065813,3,0,1,crater on Mars,,Q1475691,,Wiltz (crater)
+Wiltz,Wiltzius,Q37269701,3,0,1,family name,,Q101352,,Wiltzius
+Wiltz,Wiltz railway station,Q2317700,3,0,1,railway station in Luxembourg,,Q55485|Q22808404,,Wiltz railway station
+Wiltz,WILTZ,Q127032758,3,0,1,hymn tune,,Q105543609,,
+Wiltz,Clervaux,Q836075,3,0,2,"commune in the canton of Clervaux, Luxembourg",Commune of Clervaux,Q2919801,,Clervaux
+Wiltz,Clervaux,Q140591874,3,0,2,cadastral commune of Luxembourg,,Q140754208,,
+Wiltz,Clervaux,Q116447819,3,0,2,given name,,Q202444,,
+Wiltz,Canton of Clervaux,Q691793,3,0,2,canton of Luxembourg,,Q1146429,,Canton of Clervaux
+Wiltz,Clervaux railway station,Q2542828,3,0,2,railway station in Luxembourg,,Q55488,,Clervaux railway station
+Wiltz,Clervaux,Q12110443,3,0,2,main settlement in the commune of the same name,,Q3257686|Q15303838,,
+Wiltz,Clervaux,Q138647849,3,0,2,painting by Joseph Kutter,,Q3305213,,
+Wiltz,Clervaux,Q110712130,3,0,2,"Cosyn guide, 1934, Printed Books Department of the Royal Library of Belgium (KBR), BR 5612 R 45",,Q223638,,
+Wiltz,Clervaux Auguste,Q12889003,3,0,2,Haitian artist,,Q5,,
+Wiltz,Clervaux Castle,Q5131949,3,0,2,castle in Luxembourg,,Q23413|Q751876,,Clervaux Castle
+Wiltz,Luxembourg,Q32,3,0,2,country in Western Europe,Grand Duchy of Luxembourg,Q3624078|Q179164|Q165116|Q123480|Q6256|Q113136497,,Luxembourg
+Wiltz,Luxembourg,Q1842,3,0,2,capital and largest city of Luxembourg,Luxembourg City|City of Luxembourg|Luxemburg,Q2919801|Q515|Q1549591|Q51929311|Q5119,,Luxembourg City
+Wiltz,Luxembourg,Q83370535,3,0,2,family name,Luxembourg (family name)|Luxembourg (surname),Q101352,,
+Wiltz,Luxembourg railway station,Q801140,3,0,2,railway station,,Q55488,,Luxembourg railway station
+Wiltz,province of Luxembourg,Q1126,3,0,2,"province in Wallonia, Belgium","Luxembourg, Belgium|Luxembourg Province|Luxemburg|Luxemburg, Belgium|Luxemburg Province|Luxembourg (Belgium)|BE-WLX|Luxembourg",Q83116,,Luxembourg (Belgium)
+Wiltz,Luxembourgish,Q9051,3,0,2,Germanic language or language variety spoken in Luxembourg,Luxembourgish language|Lëtzebuergesch|Luxembourg language|Luxemburgish|Luxemburgish language,Q34770|Q1288568,Q98843053,Luxembourgish
+Wiltz,Luxembourgish Wikipedia,Q950058,3,0,2,Luxembourgish-language edition of Wikipedia,luxwiki|lbwiki|lbwp|lbwikipedia|lb.wikipedia.org,Q10876391,,
+Wiltz,Luxembourg,Q140604829,3,0,2,cadastral commune of Luxembourg,,Q140754208,,
+Wiltz,Canton of Luxembourg,Q691741,3,0,2,canton of Luxembourg,,Q1146429,,Canton of Luxembourg
+Wiltz,Luxembourg Palace,Q329852,3,0,2,seat of the French Senate,Palais du Luxembourg|Palais du Senat,Q16560,,Luxembourg Palace
+Wiltz,Grand Duchy of Luxembourg,Q110712142,3,0,2,"Cosyn gids, s.d., Hedendaagse drukwerken van de Koninklijke Bibliotheek van België (KBR), 5612 R 83",,,,
+Wiltz,Grand Duchy of Luxembourg,Q110712143,3,0,2,"Cosyn gids, s.d., Hedendaagse drukwerken van de Koninklijke Bibliotheek van België (KBR), 5612 R 65",,Q223638,,
+Wiltz,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16277)",Q67692583,3,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Wiltz,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16276)",Q66352841,3,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Wiltz,"GRAND DUCHY OF LUXEMBOURG, LEXEMBOURG (NAID 16278)",Q66352835,3,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Wiltz,Grand Duchy of Luxembourg: a case study of a national master patient index in production since five years,Q97586651,3,0,2,scientific article published on 17 July 2020,,Q13442814,,
+Wiltz,Grand Duchy of Luxembourg. Country profile.,Q41375790,3,0,2,scientific article published on September 1985,,Q13442814,,
+Clervaux,Clervaux,Q836075,3,2,1,"commune in the canton of Clervaux, Luxembourg",Commune of Clervaux,Q2919801,,Clervaux
+Clervaux,Clervaux,Q140591874,3,2,1,cadastral commune of Luxembourg,,Q140754208,,
+Clervaux,Clervaux,Q116447819,3,2,1,given name,,Q202444,,
+Clervaux,Canton of Clervaux,Q691793,3,2,1,canton of Luxembourg,,Q1146429,,Canton of Clervaux
+Clervaux,Clervaux railway station,Q2542828,3,2,1,railway station in Luxembourg,,Q55488,,Clervaux railway station
+Clervaux,Clervaux,Q12110443,3,2,1,main settlement in the commune of the same name,,Q3257686|Q15303838,,
+Clervaux,Clervaux,Q138647849,3,2,1,painting by Joseph Kutter,,Q3305213,,
+Clervaux,Clervaux,Q110712130,3,2,1,"Cosyn guide, 1934, Printed Books Department of the Royal Library of Belgium (KBR), BR 5612 R 45",,Q223638,,
+Clervaux,Clervaux Auguste,Q12889003,3,2,1,Haitian artist,,Q5,,
+Clervaux,Clervaux Castle,Q5131949,3,2,1,castle in Luxembourg,,Q23413|Q751876,,Clervaux Castle

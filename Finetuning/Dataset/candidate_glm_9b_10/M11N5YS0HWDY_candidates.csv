@@ -1,0 +1,15 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Abbot,Abbot,Q1158513,0,0,1,family name,,Q101352,,Abbot (surname)
+Abbot,abbot,Q103163,0,0,1,"religious title, superior of a community of monks, often an abbey",,Q3139516,Q733786|Q1776501|Q1638918,Abbot
+Abbot,Abbott,Q306749,0,0,1,family name,,Q101352,,Abbott (surname)
+Abbot,hegumen,Q842781,0,0,1,profession,igumen|Metropolitan and Abbot|abbot,Q91188763|Q3139516,Q19340487|Q91187063|Q1638918,Hegumen
+Abbot,Abbott Laboratories,Q306764,0,0,1,American global health care and medical device products company,"Abbott Labs|Abbott Laboratories, Inc.|Ross Laboratories|Abbott Pharmaceuticals|Abbott Nutrition|I-Stat|I-STAT|Abbott Molecular|Isomil|Abbot Laboratories|Abbott",Q4830453|Q6881511|Q63383584|Q891723,,Abbott Laboratories
+Abbot,abbé,Q3430033,0,0,1,title for lower-ranking Catholic clergymen in France,abbe|abbot,Q28640|Q3320743,Q103163,Abbé
+Abbot,Lemuel Francis Abbott,Q725410,0,0,1,painter,Lemuel Francis Abbot|f.l. abbot|f.l. abbott|Abbott|Lemuel Abbott|Lemeul Francis Abbott|Mr. Abbot|l.f. abbott|Abbot|francis lemuel abbott|abbott f.l.,Q5,,Lemuel Francis Abbott
+Abbot,ritonavir,Q422618,0,0,1,chemical compound,"A-84538|ABBOTT-84538|ABT 538|ABT-538|N-[(1S,3S,4S)-1-benzyl-3-hydroxy-5-phenyl-4-{[(1,3-thiazol-5-ylmethoxy)carbonyl]amino}pentyl]-N~2~-(methyl{[2-(1-methylethyl)-1,3-thiazol-4-yl]methyl}carbamoyl)-L-valinamide",Q113145171,Q193430,Ritonavir
+Abbot,Abbott Handerson Thayer,Q306759,0,0,1,American artist (1849-1921),Abbot Handerson Thayer|Abbot Thayer|Abbot H. Thayer|Abbott Thayer|Abbott H. Thayer|A. H. Thayer|Abbott Henderson Thayer|A.H. Thayer|thayer abbott henderson|Thayer,Q5,,Abbott Handerson Thayer
+Abbot,clarithromycin,Q118551,0,0,1,antibiotic medication,Biaxin Xl|Biaxin|Biaxin Xl Pac|TE-031|Clarithromycin Extended Release|A-56268|Klaricid|Clarithromycine|6-O-Methylerythromycin|Clarithromycinum|CLARITHROMYCIN|Clarithromycina|6-O-Methylerythromycin a|6-O-methyl erythromycin|CLA|ABBOTT-56268|Clarithromycin,Q113145171,Q422687,Clarithromycin
+Abbot,abbot of Cîteaux,Q97010726,0,0,2,superior general of the Cistercian Order,,Q3139516,Q103163|Q1337239|Q98603258|Q1501723,
+Abbot,Abbot of Saint-Victor,Q3245611,0,0,2,"head of Saint-Victor, Paris",,Q3139516,Q103163,
+Mare Vaporum,Mare Vaporum,Q218379,1,0,1,lunar mare,LAC 59,Q180874,,Mare Vaporum
+Mare Vaporum,Mare Vaporum,Q106805072,1,0,1,Lunar astronautical chart,LAC 59,Q4006,,

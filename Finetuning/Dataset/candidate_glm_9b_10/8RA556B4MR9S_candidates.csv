@@ -1,0 +1,1008 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Watertoren,Watertoren,Q132897126,0,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,0,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,0,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Bergambacht,Bergambacht,Q653025,0,1,1,"town in South Holland, the Netherlands",,Q532|Q1852859,,Bergambacht
+Bergambacht,Bergambacht,Q35159872,0,1,1,"former municipality in South Holland, the Netherlands",,Q2039348,,
+Bergambacht,Bergambacht municipal council,Q106212947,0,1,1,,,Q17014622,,
+Bergambacht,coat of arms of Bergambacht,Q16070274,0,1,1,"various coats of arms of former municipality in South Holland, the Netherlands",Bergambacht coat of arms,Q16887380|Q61627811,,
+Bergambacht,flag of Bergambacht,Q64617552,0,1,1,,Bergambacht flag,Q21850100,,
+Bergambacht,Bergambachtstraat,Q18947128,0,1,1,"street in Rotterdam, the Netherlands",,Q79007,,
+Bergambacht,Bergambachterstraat,Q18947123,0,1,1,"street in Schoonhoven, the Netherlands",,Q79007,,
+Netherlands,Netherlands,Q55,0,2,1,one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean,Holland|the Netherlands|Nederland|Nederlanden|de Nederlanden|NL|NLD,Q15304003|Q6256,,Netherlands
+Netherlands,Kingdom of the Netherlands,Q29999,0,2,1,transcontinental sovereign state and constitutional monarchy,Netherlands|the Netherlands|Nederlanden|Kingdom of Netherlands,Q3624078|Q417175|Q20181813|Q1250464|Q6256,,Kingdom of the Netherlands
+Netherlands,Low Countries,Q476033,0,2,1,historical coastal landscape in north western Europe,Low Lands|Netherlands,Q1620908,,Low Countries
+Netherlands,Netherlands,Q16250490,0,2,1,constituency of the European Parliament,,Q2631496,,Netherlands (European Parliament constituency)
+Netherlands,Dutch Republic,Q170072,0,2,1,predecessor state of the Netherlands (1581–1795),Republic of the Seven United Netherlands|Republic of the United Netherlands|Republic of the Seven United Provinces|United Provinces|Federated Dutch Provinces|Dutch Federation|United Provinces of the Netherlands|Netherlands (1581–1795)|Republic of the Netherlands|Republiek der Zeven Verenigde Nederlanden,Q3624078|Q3024240|Q20181813|Q170156,,Dutch Republic
+Netherlands,RKD - Nederlands Instituut voor Kunstgeschiedenis,Q758610,0,2,1,Dutch national documentation centre of art history,RKD-Nederlands Instituut voor Kunstgeschiedenis|rkd.nl|Netherlands Institute for Art History,Q166118|Q4671277|Q2659904,,Netherlands Institute for Art History
+Netherlands,Dutch East Indies,Q188161,0,2,1,Dutch colony in Southeast Asia and Oceania (1800–1949),Netherlands East Indies|Dutch Indies|Nederlands-Indië|Netherlands Indies|Insulinde,Q3024240|Q133156,,Dutch East Indies
+Netherlands,Sovereign Principality of the United Netherlands,Q774783,0,2,1,precursor of the United Kingdom of the Netherlands from 1813 to 1815,Soeverein Vorstendom der Verenigde Nederlanden|Principauté Souveraine des Pays-Bas Unis|Principaute Souveraine des Pays-Bas Unis|Netherlands,Q3024240|Q3624078,,Sovereign Principality of the United Netherlands
+Netherlands,Netherlands Organisation for Applied Scientific Research,Q1867222,0,2,1,Dutch organisation,TNO,Q31855|Q43229,,Netherlands Organisation for Applied Scientific Research
+Netherlands,Netherlands journal of medicine,Q26842171,0,2,1,journal,The Netherlands journal of medicine,Q5633421|Q773668,,
+Netherlands,Kingdom of the Netherlands borders,Q87763073,0,2,2,international border,National border of the Netherlands,Q12413618|Q1292279,,
+Netherlands,tennis in the Kingdom of the Netherlands,Q47500689,0,2,2,overview of tennis in the Kingdom of the Netherlands,Dutch tennis|Kingdom of the Netherlands tennis,Q29791211,,
+Netherlands,Kingdom of the Netherlands-United Arab Emirates Bilateral Investment Treaty,Q136391485,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and United Arab Emirates,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Russia Bilateral Investment Treaty,Q136391498,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Russia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovenia Bilateral Investment Treaty,Q136391494,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovenia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovakia Bilateral Investment Treaty,Q136391495,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovakia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Philippines Bilateral Investment Treaty,Q136391501,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Philippines,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Zimbabwe Bilateral Investment Treaty,Q136391478,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Zimbabwe,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Thailand Bilateral Investment Treaty,Q136391489,0,2,2,bilateral investment treaty between Kingdom of the Netherlands and Thailand,,Q1671773,,
+Netherlands,Holland,Q1624734,0,2,2,family name,,Q101352,,Holland (surname)
+Netherlands,Holland,Q21144565,0,2,2,unisex given name,Holland (given name)|Holland (first name),Q3409032,,
+Netherlands,Holland,Q102911,0,2,2,region and former province in the western Netherlands,"County of Holland|Holland, Netherlands|Province of Holland",Q82794|Q1620908,,Holland
+Netherlands,Hollands Kroon,Q9936,0,2,2,municipality in the Netherlands,,Q2039348,,Hollands Kroon
+Netherlands,Holland,Q105964075,0,2,2,,,Q5,,
+Netherlands,William Jacob Holland,Q1502788,0,2,2,"American zoologist, palaeontologist, and Presbyterian minister (1848–1932)",Holland|William J. Holland|W. J. Holland,Q5,,William Jacob Holland
+Netherlands,Holland,Q1001742,0,2,2,"city in Ottawa and Allegan counties in Michigan, United States","Holland, Michigan|Holland, MI",Q1093829,,"Holland, Michigan"
+Netherlands,Holland Roden,Q1189370,0,2,2,American actress,Holland Marie Roden,Q5,,Holland Roden
+Netherlands,Dutch,Q7411,0,2,2,West Germanic language,Dutch language|Netherlandic|Netherlandic language|Netherlandish|Netherlandish language,Q138638548,Q153050,Dutch language
+Vesilinna,Vesilinna,Q15304480,1,0,1,"water tower in Jyväskylä, Finland",,Q274153|Q1440300,,
+Vesilinna,Vesilinna,Q11901097,1,0,1,"water tower in Turku, Finland",,Q274153,,
+Vesilinna,Vesilinnankatu,Q54820821,1,0,1,"street in Helsinki, Finland",,Q79007,,
+Vesilinna,Kirstinkuja 6 (2594),Q98414152,1,0,1,"building in Helsinki, Finland",Vesilinnankatu 17|Kirstinkuja 6,Q41176,,
+Vesilinna,Kirstinkuja 6 (2593),Q98414148,1,0,1,"building in Helsinki, Finland",Vesilinnankatu 17|Kirstinkuja 6,Q41176,,
+Vesilinna,Kirstinkuja 6 talousrakennus,Q98414155,1,0,1,"building in Helsinki, Finland",Vesilinnankatu 17|Kirstinkuja 6,Q41176,,
+Vesilinna,Kirstinkuja 6 (2595),Q98414153,1,0,1,"building in Helsinki, Finland",Vesilinnankatu 17|Kirstinkuja 6,Q41176,,
+Vesilinna,Vesilinnankatu 21,Q98433482,1,0,1,"building in Helsinki, Finland",,Q41176,,
+Vesilinna,Yliopistonmäki,Q11902872,1,0,1,"hill in Turku, Finland",,Q54050|Q29969011,,
+Vesilinna,Riihimäki water tower,Q64226231,1,0,1,"water tower in Riihimäki, Finland",,Q274153|Q1440300,,
+Vesilinna,University of Helsinki,Q28695,1,0,2,"public university in Helsinki, Finland",Imperial Alexander University in Finland|Helsingin yliopisto|Helsingfors universitet|Keisarillinen Aleksanterin-Yliopisto|Kejserliga Alexander-universitetet|Helsinki University|helsinki.fi|UH|UHEL|UHelsinki|UnivHel|UoH,Q875538|Q43229|Q2668072|Q140232494,,University of Helsinki
+Vesilinna,University of Helsinki metro station,Q2605206,1,0,2,"metro station in Helsinki, Finland",Kaisaniemi metro station,Q928830|Q22808403,,University of Helsinki metro station
+Vesilinna,Viikki Teacher Training School,Q11862179,1,0,2,"comprehensive school and upper secondary school in Helsinki, Finland",Viikin normaalikoulu|Helsingin yliopiston Viikin normaalikoulu|University of Helsinki Viikki Teacher Training School,Q10509147|Q101244523,,
+Vesilinna,University of Helsinki main building,Q1393776,1,0,2,"school building in Helsinki, Finland",Yliopistonkatu 2,Q19844914|Q2385804|Q1244442,,
+Vesilinna,University of Helsinki building,Q55024020,1,0,2,"school building in Helsinki, Finland",Snellmaninkatu 10-12|Snellmaninkatu 12,Q2385804|Q1244442,,
+Vesilinna,University of Helsinki's Department of Chemistry,Q55023284,1,0,2,"office building in Helsinki, Finland",Hallituskatu 5,Q1021645,,
+Vesilinna,University of Helsinki Botanical Garden,Q117797383,1,0,2,"botanical garden in Helsinki, Finland",,Q167346,,University of Helsinki Botanical Garden
+Vesilinna,University of Helsinki open access policy,Q42297348,1,0,2,,,Q2000006,,
+Vesilinna,University of Helsinki Research Portal,Q60026324,1,0,2,"research portal of the University of Helsinki, Finland",researchportal.helsinki.fi,Q1235234|Q3220391|Q7094076,,
+Vesilinna,University of Helsinki Department of Theology,Q131848448,1,0,2,,,Q43229,,
+Vesilinna,Helsinki University of Technology,Q1646874,1,0,2,former technical university in Finland,TKK|Teknillinen korkeakoulu|Aalto University School of Science and Technology|Polyteknillinen opisto,Q3918,,Helsinki University of Technology
+Vesilinna,Helsinki University Hospital,Q246315,1,0,2,"hospital in Helsinki, Finland",Helsingin seudun yliopistollinen keskussairaala|Helsingfors universitets centralsjukhus,Q16917|Q1059324,,Helsinki University Central Hospital
+Vesilinna,Helsinki University Observatory,Q1154923,1,0,2,"observatory in Helsinki, Finland",Helsinki Observatory|Kopernikuksentie 1|Helsingin yliopiston tähtitieteen laitoksen observatorio,Q62832|Q33506|Q41176,,Helsinki University Observatory
+Vesilinna,Helsinki University Library,Q1382220,1,0,2,university library,,Q856234,,Helsinki University Library
+Vesilinna,Helsinki University Topelia,Q1393744,1,0,2,"educational institution in Helsinki, Finland",,Q2385804|Q1348006,,
+Vesilinna,Helsinki University Press,Q97197590,1,0,2,open-access publisher,Helsinki UP,Q45400320,,
+Vesilinna,YL Male Voice Choir,Q6305271,1,0,2,Finnish choir,Ylioppilaskunnan Laulajat|Ylioppilaskunnan Laulajat ry|Helsinki University Male Voice Choir|Helsinki University Male Choir|Helsinki University Choir|Helsinki University Chorus,Q1684352,,YL Male Voice Choir
+Vesilinna,Helsinki University Museum Flame,Q3329065,1,0,2,"museum in Helsinki, Finland",Helsinki University Museum,Q33506|Q1970365,,Helsinki University Museum
+Vesilinna,Helsinki University of Technology Main Building,Q17384311,1,0,2,"building in Otaniemi, Finland",,Q41176,,Aalto University Undergraduate Center
+Vesilinna,Helsinki,Q1757,1,0,2,capital and most populous city of Finland,Helsingia|Helsingin kaupunki|Stadi|Hesa,Q515|Q200250|Q856076|Q1549591|Q2264924,,Helsinki
+Vesilinna,Helsinki,Q10520602,1,0,2,1980 Helsinki-class missile boat,,Q843215,,
+Vesilinna,Helsinki,Q926232,1,0,2,"former municipality of Finland, now part of Raseborg and Hanko",Bromarvi|Bromarf,Q856076|Q17468533,,Bromarv
+Vesilinna,1952 Summer Olympics,Q8407,1,0,2,"Games of the XV Olympiad, in Helsinki, Finland",Games of the XV Olympiad|Helsinki 1952,Q135976384|Q14547231,,1952 Summer Olympics
+Vesilinna,Helsinki,Q3736245,1,0,2,electoral district of Finland,Helsinki (electoral district)|Helsingin vaalipiiri|Helsingin kaupungin vaalipiiri|Helsingfors valkrets|Helsinki constituency,Q28657263,,Helsinki (parliamentary electoral district)
+Vesilinna,Helsinki,Q123947134,1,0,2,square in Sofia (Bulgaria),Helsinki Sq.,Q174782,,
+Vesilinna,Helsinki Airport,Q215327,1,0,2,"international airport serving Helsinki, Finland",Helsinki-Vantaa Airport|Helsinki-Vantaan lentoasema|Helsingfors-Vanda flygplats|Helsinki Vantaa Airport|HEL|EFHK|HELSINKI-VANTAA airport,Q644371|Q1248784|Q94993988,,Helsinki Airport
+Vesilinna,Vantaa,Q127623,1,0,2,city in the region of Uusimaa in Finland,Vanda|Helsingin maalaiskunta|Helsinge kommun|Helsinge|Helsingin pitäjä|Helsinki Rural Municipality|City of Vantaa,Q515|Q856076|Q10571400|Q1549591,,Vantaa
+Vesilinna,1495 Helsinki,Q140003,1,0,2,main-belt asteroid,Helsinki,Q3863,,1495 Helsinki
+Vesilinna,Finland,Q33,1,0,2,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Vesilinna,Grand Duchy of Finland,Q62633,1,0,2,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Vesilinna,Finnish National Gallery,Q2983474,1,0,2,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Vesilinna,Social Democratic Party of Finland,Q499029,1,0,2,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Vesilinna,Finland,Q5450446,1,0,2,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Vesilinna,Finland,Q23045056,1,0,2,1911 documentary film,,Q11424,,
+Vesilinna,Swedish-speaking population of Finland,Q726673,1,0,2,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Vesilinna,Finland,Q135499866,1,0,2,1992 studio album by David Shutrick,,Q482994,,
+Vesilinna,Southwest Finland,Q5712,1,0,2,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Vesilinna,Finland men's national football team,Q186532,1,0,2,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Yliopistonmäki,Yliopistonmäki,Q11902872,1,1,1,"hill in Turku, Finland",,Q54050|Q29969011,,
+Yliopistonmäki,University of Helsinki,Q28695,1,1,2,"public university in Helsinki, Finland",Imperial Alexander University in Finland|Helsingin yliopisto|Helsingfors universitet|Keisarillinen Aleksanterin-Yliopisto|Kejserliga Alexander-universitetet|Helsinki University|helsinki.fi|UH|UHEL|UHelsinki|UnivHel|UoH,Q875538|Q43229|Q2668072|Q140232494,,University of Helsinki
+Yliopistonmäki,University of Helsinki metro station,Q2605206,1,1,2,"metro station in Helsinki, Finland",Kaisaniemi metro station,Q928830|Q22808403,,University of Helsinki metro station
+Yliopistonmäki,Viikki Teacher Training School,Q11862179,1,1,2,"comprehensive school and upper secondary school in Helsinki, Finland",Viikin normaalikoulu|Helsingin yliopiston Viikin normaalikoulu|University of Helsinki Viikki Teacher Training School,Q10509147|Q101244523,,
+Yliopistonmäki,University of Helsinki main building,Q1393776,1,1,2,"school building in Helsinki, Finland",Yliopistonkatu 2,Q19844914|Q2385804|Q1244442,,
+Yliopistonmäki,University of Helsinki building,Q55024020,1,1,2,"school building in Helsinki, Finland",Snellmaninkatu 10-12|Snellmaninkatu 12,Q2385804|Q1244442,,
+Yliopistonmäki,University of Helsinki's Department of Chemistry,Q55023284,1,1,2,"office building in Helsinki, Finland",Hallituskatu 5,Q1021645,,
+Yliopistonmäki,University of Helsinki Botanical Garden,Q117797383,1,1,2,"botanical garden in Helsinki, Finland",,Q167346,,University of Helsinki Botanical Garden
+Yliopistonmäki,University of Helsinki open access policy,Q42297348,1,1,2,,,Q2000006,,
+Yliopistonmäki,University of Helsinki Research Portal,Q60026324,1,1,2,"research portal of the University of Helsinki, Finland",researchportal.helsinki.fi,Q1235234|Q3220391|Q7094076,,
+Yliopistonmäki,University of Helsinki Department of Theology,Q131848448,1,1,2,,,Q43229,,
+Finland,Finland,Q33,1,2,1,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Finland,Grand Duchy of Finland,Q62633,1,2,1,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Finland,Finnish National Gallery,Q2983474,1,2,1,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Finland,Social Democratic Party of Finland,Q499029,1,2,1,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Finland,Finland,Q5450446,1,2,1,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Finland,Finland,Q23045056,1,2,1,1911 documentary film,,Q11424,,
+Finland,Swedish-speaking population of Finland,Q726673,1,2,1,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Finland,Finland,Q135499866,1,2,1,1992 studio album by David Shutrick,,Q482994,,
+Finland,Southwest Finland,Q5712,1,2,1,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Finland,Finland men's national football team,Q186532,1,2,1,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Finland,Finnish,Q1412,1,2,2,Finno-Ugric language mostly spoken in Finland,Suomi|Nuclear Finnish|Nuclear Finnish languages|Finnish language,Q1288568|Q33742,Q33328,Finnish language
+Finland,Suomi,Q11895203,1,2,2,given name,,Q202444,,
+Finland,Suominen,Q21512569,1,2,2,family name,,Q101352,,Suominen
+Finland,Suomi,Q27891247,1,2,2,family name,,Q101352,,Suomi (surname)
+Finland,Finlandia,Q644152,1,2,2,symphonic poem by Jean Sibelius,"Suomi|Finlandia, Op. 26",Q105543609,,Finlandia
+Finland,1656 Suomi,Q141965,1,2,2,asteroid,Suomi,Q3863,,1656 Suomi
+Finland,suomisaundi,Q2497323,1,2,2,style of freeform psychedelic trance originating from Finland,Finnish psy|freeform psytrance|spugedelic trance|suomi|suomi psytrance|suomi-saundi|suomisoundi|suomistyge,Q188451,Q622871,Suomisaundi
+Finland,Suomina,Q18593658,1,2,2,genus of worms,,Q16521,,
+Watertoren,Watertoren,Q132897126,2,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,2,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,2,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Sint-Joris-Weert,Sint-Joris-Weert,Q2997099,2,1,1,"section of Oud-Heverlee, Belgium",,Q2785216,,
+Sint-Joris-Weert,Sint-Joris-Weert railway station,Q2190537,2,1,1,railway station in Belgium,,Q55488,,
+Sint-Joris-Weert,Sint-Joris-Weert depot,Q101627119,2,1,1,"building in Sint-Joris-Weert, Belgium",,Q27028153,,
+Sint-Joris-Weert,Weert,Q12344051,2,1,2,"town in Limburg, the Netherlands",,Q13539802|Q1852859,,
+Sint-Joris-Weert,Weert,Q9774,2,1,2,municipality in the Netherlands,,Q2039348,,Weert
+Sint-Joris-Weert,Weert,Q21145510,2,1,2,male given name,Weert (given name)|Weert (first name),Q12308941,,
+Sint-Joris-Weert,Weert,Q116619630,2,1,2,family name,,Q101352,,
+Sint-Joris-Weert,Weert,Q2799921,2,1,2,"hamlet in Maastricht and Meerssen, Netherlands",,Q1484611,,
+Sint-Joris-Weert,Weert,Q1904383,2,1,2,"section of Bornem, Belgium",,Q2785216|Q532,,"Weert, Antwerp"
+Sint-Joris-Weert,Weert,Q19647717,2,1,2,"street in Meerssen and Maastricht, the Netherlands",,Q79007,,
+Sint-Joris-Weert,Weerth,Q55644588,2,1,2,family name,,Q101352,,Weerth
+Sint-Joris-Weert,Weert,Q18655408,2,1,2,village in Belgium,"Weert, Limburg, Belgium",Q5084|Q532,,"Weert, Belgian Limburg"
+Sint-Joris-Weert,Weert,Q24065345,2,1,2,,,Q1475691,,
+Sint-Joris-Weert,Saint-Georges-sur-l'Aa,Q1160460,2,1,2,"commune in Nord, France",Georges-Libre|Sint-Joris|Sint-Joris-aan-de-Aa|Saint-Georges sur l'Aa,Q484170,,Saint-Georges-sur-l'Aa
+Sint-Joris-Weert,Sint-Joris,Q3181971,2,1,2,"section of Beernem, Belgium",,Q2785216,,"Sint-Joris, Beernem"
+Sint-Joris-Weert,Sint-Joris,Q282762,2,1,2,"section of Nieuwpoort, Belgium",,Q2785216,,
+Sint-Joris-Weert,Sint-Joris,Q2963730,2,1,2,"village in Alken, Belgium",,Q486972,,
+Sint-Joris-Weert,Saint George,Q48438,2,1,2,Christian saint and martyr (died 303),Georgios|Georgius|St. George|St George|Saint Georgios|George of Lydda|George|Red Cross Knight|Saint George,Q21070568|Q5|Q113371917,,Saint George
+Sint-Joris-Weert,Sint Joris op 't Zand,Q4023355,2,1,2,"church building in Amersfoort, the Netherlands",Sint Joriskerk|Heilige Georgiuskerk,Q16970,,
+Sint-Joris-Weert,Sint-Jorishof,Q2939330,2,1,2,"Gothic building in the centre of Ghent, Belgium",,Q41176,,
+Sint-Joris-Weert,Parmant Joris,Q97704887,2,1,2,"school in Eindhoven, the Netherlands",Sint-Joriscollege,Q2385804,,
+Sint-Joris-Weert,Sint-Joris-Winge,Q2310689,2,1,2,"section of Tielt-Winge, Belgium",,Q2785216|Q532,,Sint-Joris-Winge
+Sint-Joris-Weert,Sint Jorisstraat,Q19515913,2,1,2,"street in 's-Hertogenbosch, the Netherlands",,Q79007,,
+Belgium,Belgium,Q31,2,2,1,country in western Europe,Kingdom of Belgium,Q3624078|Q6256|Q20181813|Q1250464,,Belgium
+Belgium,Belgium,Q106879226,2,2,1,family name,,Q101352,,
+Belgium,Belgium,Q138527661,2,2,1,1875 chapter,,Q1980247,,
+Belgium,Belgium men's national football team,Q166776,2,2,1,men's national association football team representing Belgium,Red Devils|Belgian Red Devils|Belgium national football team,Q135408445,Q1194951,Belgium national football team
+Belgium,Belgium,Q2025327,2,2,1,"village in Ozaukee County, Wisconsin","Belgium, WI|Belgium, Wisconsin",Q15221242,,"Belgium, Wisconsin"
+Belgium,Halle,Q210003,2,2,1,"city and municipality in Flemish Brabant, Belgium",Hal|Groot-Halle|Belgium Halle,Q493522|Q15273785,,"Halle, Belgium"
+Belgium,Belgium,Q2281631,2,2,1,"village in Illinois, United States","Belgium, Illinois|Belgium, IL",Q110071217,,"Belgium, Illinois"
+Belgium,Belgium,Q23993525,2,2,1,encyclopedic article,,Q13433827,,
+Belgium,Belgium national under-21 football team,Q815515,2,2,1,national association football team,Belgica,Q6979593,Q1194951,Belgium national under-21 football team
+Belgium,Belgium,Q1658699,2,2,1,"town in Wisconsin, United States",,Q15219655,,"Belgium (town), Wisconsin"
+Belgium,Watertoren,Q132897126,2,2,2,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Belgium,Watertoren,Q2317781,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2243350,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2201776,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2330441,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2384504,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2344410,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q4297615,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q5164572,2,2,2,,,Q274153,,
+Belgium,Watertoren,Q2312600,2,2,2,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Belgium,Sint-Joris-Weert,Q2997099,2,2,2,"section of Oud-Heverlee, Belgium",,Q2785216,,
+Belgium,Sint-Joris-Weert railway station,Q2190537,2,2,2,railway station in Belgium,,Q55488,,
+Belgium,Sint-Joris-Weert depot,Q101627119,2,2,2,"building in Sint-Joris-Weert, Belgium",,Q27028153,,
+Watertoren,Watertoren,Q132897126,3,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,3,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,3,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Reet,Reet,Q3423037,3,1,1,"section of Rumst, Belgium",,Q2785216|Q532,,
+Reet,Reet,Q31280103,3,1,1,female given name,,Q11879590,,Reet (given name)
+Reet,"Reeth, Fremington and Healaugh",Q7307025,3,1,1,"civil parish in North Yorkshire, United Kingdom","Reeth (civil parish), North Yorkshire|Reeth, North Yorkshire",Q1115575,,"Reeth, Fremington and Healaugh"
+Reet,Recz,Q989432,3,1,1,city of Poland,Reetz,Q515,,Recz
+Reet,Reetta,Q11890358,3,1,1,female given name,Reetta (given name),Q11879590,,
+Reet,Reet Valgmaa,Q2136608,3,1,1,Estonian badminton player and educational theorist (born 1952),,Q5,,Reet Valgmaa
+Reet,Reet Mändar,Q24546302,3,1,1,Estonian microbiologist (born 1964),,Q5,,
+Reet,Reeta,Q63428604,3,1,1,female given name,,Q11879590,,
+Reet,Reet,Q10573265,3,1,1,ship built in 1971,IMO 7120811,Q11446,,
+Reet,Reetu R Singh,Q114401147,3,1,1,researcher,Reetu Singh,Q5,,
+Belgium,Belgium,Q31,3,2,1,country in western Europe,Kingdom of Belgium,Q3624078|Q6256|Q20181813|Q1250464,,Belgium
+Belgium,Belgium,Q106879226,3,2,1,family name,,Q101352,,
+Belgium,Belgium,Q138527661,3,2,1,1875 chapter,,Q1980247,,
+Belgium,Belgium men's national football team,Q166776,3,2,1,men's national association football team representing Belgium,Red Devils|Belgian Red Devils|Belgium national football team,Q135408445,Q1194951,Belgium national football team
+Belgium,Belgium,Q2025327,3,2,1,"village in Ozaukee County, Wisconsin","Belgium, WI|Belgium, Wisconsin",Q15221242,,"Belgium, Wisconsin"
+Belgium,Halle,Q210003,3,2,1,"city and municipality in Flemish Brabant, Belgium",Hal|Groot-Halle|Belgium Halle,Q493522|Q15273785,,"Halle, Belgium"
+Belgium,Belgium,Q2281631,3,2,1,"village in Illinois, United States","Belgium, Illinois|Belgium, IL",Q110071217,,"Belgium, Illinois"
+Belgium,Belgium,Q23993525,3,2,1,encyclopedic article,,Q13433827,,
+Belgium,Belgium national under-21 football team,Q815515,3,2,1,national association football team,Belgica,Q6979593,Q1194951,Belgium national under-21 football team
+Belgium,Belgium,Q1658699,3,2,1,"town in Wisconsin, United States",,Q15219655,,"Belgium (town), Wisconsin"
+Wasserturm,Wasserturm,Q877414,4,0,1,Wasserturm im 10. Wiener Gemeindebezirk,,Q274153,,
+Wasserturm,Wasserturm,Q23786629,4,0,1,"cultural heritage monument D-1-62-000-7802 (0) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q65952766,4,0,1,"cultural heritage monument D-1-62-000-7821 (2) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q49364926,4,0,1,"house in Niederwiesa, Germany",,Q3947,,
+Wasserturm,Wasserturm,Q98634198,4,0,1,"cultural heritage monument D-5-71-198-37 (1) in Bronnenhaus (Schillingsfürst), Middle Franconia, Germany",Stilzendorf 25 in Schillingsfürst,Q274153,,
+Wasserturm,Wasserturm,Q2551817,4,0,1,"Historical tower connected to Kapellbrücke, a wooden bridge across the Reuss River in Lucerne (Switzerland)",,Q274153,,
+Wasserturm,Wasserturm (Ismaning),Q1378943,4,0,1,tower,Wasserturm,Q274153|Q1569871,,
+Wasserturm,Wasserturm,Q2551792,4,0,1,"tower in Hannover, Germany",,Q274153|Q18674739,,
+Wasserturm,Munich-Aubing water tower,Q758488,4,0,1,tower,Wasserturm,Q12518|Q274153,,
+Wasserturm,water tower,Q274153,4,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Eschersheim,Frankfurt Eschersheim station,Q13479611,4,1,1,"railway station in Frankfurt, Germany",Eschersheim station,Q55488,,Frankfurt-Eschersheim station
+Eschersheim,Eschersheim,Q450028,4,1,1,"district of Frankfurt, Germany",,Q79416466,,Eschersheim
+Eschersheim,IMO 6516972,Q115631947,4,1,1,scrapped bulk carrier,,Q15276,,
+Eschersheim,Eschersheimer Landstraße,Q1367074,4,1,1,street,,Q79007,,
+Eschersheim,Eschersheimer Linde,Q1367071,4,1,1,,,Q21573182|Q811534,,
+Eschersheim,Eschersheim Cemetery,Q19868464,4,1,1,"cemetery located in Frankfurt-Eschersheim, in Germany",,Q39614,,
+Eschersheim,Eschersheim Bahnhof,Q104716740,4,1,1,"Bus stop ""Eschersheim Bahnhof"" in Frankfurt am Main",,Q953806,,
+Eschersheim,Eschersheim depot,Q124493727,4,1,1,tram depot in Frankfurt,,Q27028153|Q1362225|Q19860854,,
+Eschersheim,Eschersheimer Straße,Q105971146,4,1,1,"street in Berlin-Neukölln, Germany",,Q79007,,
+Eschersheim,Eschersheim tram viaduct,Q124289081,4,1,1,bridge in Frankfurt,,Q1210334|Q3397659,,
+Germany,Germany,Q183,4,2,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,4,2,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,4,2,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,4,2,1,family name,,Q101352,,
+Germany,Germany,Q138527606,4,2,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,4,2,1,,,Q1980247,,
+Germany,Germany,Q133933103,4,2,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,4,2,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,4,2,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,4,2,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,4,2,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,4,2,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,4,2,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,4,2,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,4,2,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,4,2,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,4,2,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,4,2,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,4,2,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,4,2,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,4,2,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,4,2,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,4,2,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,4,2,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,4,2,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,4,2,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,4,2,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,4,2,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,4,2,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,4,2,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,4,2,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,4,2,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,4,2,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,4,2,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,4,2,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,4,2,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,4,2,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,4,2,2,scholarly article,,Q13442814,,
+Water Tower,water tower,Q274153,5,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Water Tower,Water Tower,Q135645852,5,0,1,Water tower,Lunev Tower,Q12518,,
+Water Tower,water tower,Q2289274,5,0,1,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+Water Tower,Water Tower,Q20755335,5,0,1,episode of That '70s Show,,Q21191270,,
+Water Tower,Water tower,Q2527425,5,0,1,,,Q274153,,
+Water Tower,water tower,Q1834120,5,0,1,building in Amstelveen (Ouderkerk),,Q274153,,
+Water Tower,water tower,Q2772333,5,0,1,"water tower in leiden, Netherlands",,Q274153,,
+Water Tower,Water Tower,Q27465520,5,0,1,Liberia,,,,
+Water Tower,Water tower,Q2621420,5,0,1,,,Q274153|Q33506,,
+Water Tower,Water tower,Q2184452,5,0,1,,,Q274153,,
+Southbourne,Southbourne,Q3398386,5,1,1,"village in West Sussex, England, UK","Southbourne, West Sussex|Southbourne, Hampshire",Q532|Q1115575,,"Southbourne, West Sussex"
+Southbourne,Southbourne,Q7569217,5,1,1,"suburb of Bournemouth, Dorset, England, UK","Southbourne, Dorset",Q188509,,"Southbourne, Dorset"
+Southbourne,Southbourne,Q7569218,5,1,1,"electoral ward of Chichester District, in the United Kingdom",,Q1195098,,Southbourne (ward)
+Southbourne,Southbourne railway station,Q2075322,5,1,1,"railway station in Southbourne, West Sussex, England, UK",Southbourne Station|SOB,Q55488,,Southbourne railway station
+Southbourne,Southbourne,Q122592255,5,1,1,"hamlet in Mecklenburg County, North Carolina, United States","Southbourne, NC|Southbourne, North Carolina",Q486972|Q5084,,
+Southbourne,SOUTHBOURNE,Q123619872,5,1,1,"weather station in Western Australia, Australia from 1907 to 2013",010166,Q190107,,
+Southbourne,Southbourne Parish Council,Q104393730,5,1,1,UK local authority for the parish of Southbourne,,Q7137435,,
+Southbourne,Fisherman's Walk Cliff Railway,Q5454905,5,1,1,"lift running from the clifftop to the beach in Southbourne, Bournemouth, Dorset",Southbourne Cliff Railway,Q142031,,Fisherman's Walk Cliff Railway
+Southbourne,Southbourne Rough Marine Conservation Zone,Q104832717,5,1,1,"UK marine area established to protect nationally important, rare or threatened habitats and species",UKMCZ0071|Southbourne Rough MCZ,Q22569549,,
+Southbourne,Southbourne Library,Q55173738,5,1,1,"public library in West Sussex, UK",,Q28564,,
+United Kingdom,United Kingdom,Q145,5,2,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,5,2,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,5,2,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,5,2,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,5,2,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,5,2,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,5,2,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,5,2,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,5,2,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,5,2,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+"Kimmerghame House, Water Tower","Water Tower, Kimmerghame House",Q17853281,6,0,1,"water tower in Scottish Borders, Scotland, UK","Kimmerghame House, Water Tower",Q274153,,
+"Kimmerghame House, Water Tower",Kimmerghame House,Q6410175,6,0,2,"house in Scottish Borders, Scotland, UK",,Q3947,,Kimmerghame House
+"Kimmerghame House, Water Tower","Walled Garden, Kimmerghame House",Q17853262,6,0,2,,"Kimmerghame House, Walled Garden",Q7963015,,
+"Kimmerghame House, Water Tower","Stable Offices with Coach House, Kimmerghame House",Q17852732,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Stable Offices With Coach House",Q214252,,
+"Kimmerghame House, Water Tower","North Lodge, Kimmerghame House",Q17852725,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, North Lodge",Q811979,,
+"Kimmerghame House, Water Tower","Sundial, Walled Garden, Kimmerghame House",Q17852713,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Sundial",Q80793,,
+"Kimmerghame House, Water Tower","Walled Garden, Kimmerghame House",Q17852719,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden",Q7963015,,
+"Kimmerghame House, Water Tower","Greenhouse, Walled Garden, Kimmerghame House",Q17853250,6,0,2,,"Kimmerghame House, Walled Garden, Greenhouse",Q165044,,
+"Kimmerghame House, Water Tower","Greenhouse, Walled Garden, Kimmerghame House",Q17852680,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Greenhouse",Q165044,,
+"Kimmerghame House, Water Tower","Outbuildings, Walled Garden, Kimmerghame House",Q17852703,6,0,2,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Outbuildings",Q42896655,,
+"Kimmerghame House, Water Tower",water tower,Q274153,6,0,2,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+"Kimmerghame House, Water Tower",Water Tower,Q135645852,6,0,2,Water tower,Lunev Tower,Q12518,,
+"Kimmerghame House, Water Tower",water tower,Q2289274,6,0,2,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+"Kimmerghame House, Water Tower",Water Tower,Q20755335,6,0,2,episode of That '70s Show,,Q21191270,,
+"Kimmerghame House, Water Tower",Water tower,Q2527425,6,0,2,,,Q274153,,
+"Kimmerghame House, Water Tower",water tower,Q1834120,6,0,2,building in Amstelveen (Ouderkerk),,Q274153,,
+"Kimmerghame House, Water Tower",water tower,Q2772333,6,0,2,"water tower in leiden, Netherlands",,Q274153,,
+"Kimmerghame House, Water Tower",Water Tower,Q27465520,6,0,2,Liberia,,,,
+"Kimmerghame House, Water Tower",Water tower,Q2621420,6,0,2,,,Q274153|Q33506,,
+"Kimmerghame House, Water Tower",Water tower,Q2184452,6,0,2,,,Q274153,,
+"Kimmerghame House, Water Tower",United Kingdom,Q145,6,0,2,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+"Kimmerghame House, Water Tower",United Kingdom of Great Britain and Ireland,Q174193,6,0,2,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+"Kimmerghame House, Water Tower",Government of the United Kingdom,Q6063,6,0,2,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+"Kimmerghame House, Water Tower",United Kingdom,Q7887906,6,0,2,album by Manny Montes,,Q482994,,
+"Kimmerghame House, Water Tower",British English,Q7979,6,0,2,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+"Kimmerghame House, Water Tower",Kingdom of Great Britain,Q161885,6,0,2,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+"Kimmerghame House, Water Tower",Parliament of the United Kingdom,Q11010,6,0,2,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+"Kimmerghame House, Water Tower",United Kingdom,Q108280869,6,0,2,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+"Kimmerghame House, Water Tower",Conservative Party,Q9626,6,0,2,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+"Kimmerghame House, Water Tower",Public General Act of the Parliament of the United Kingdom,Q105774620,6,0,2,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+Kimmerghame House,Kimmerghame House,Q6410175,6,1,1,"house in Scottish Borders, Scotland, UK",,Q3947,,Kimmerghame House
+Kimmerghame House,"Walled Garden, Kimmerghame House",Q17853262,6,1,1,,"Kimmerghame House, Walled Garden",Q7963015,,
+Kimmerghame House,"Stable Offices with Coach House, Kimmerghame House",Q17852732,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Stable Offices With Coach House",Q214252,,
+Kimmerghame House,"North Lodge, Kimmerghame House",Q17852725,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, North Lodge",Q811979,,
+Kimmerghame House,"Sundial, Walled Garden, Kimmerghame House",Q17852713,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Sundial",Q80793,,
+Kimmerghame House,"Water Tower, Kimmerghame House",Q17853281,6,1,1,"water tower in Scottish Borders, Scotland, UK","Kimmerghame House, Water Tower",Q274153,,
+Kimmerghame House,"Walled Garden, Kimmerghame House",Q17852719,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden",Q7963015,,
+Kimmerghame House,"Greenhouse, Walled Garden, Kimmerghame House",Q17853250,6,1,1,,"Kimmerghame House, Walled Garden, Greenhouse",Q165044,,
+Kimmerghame House,"Greenhouse, Walled Garden, Kimmerghame House",Q17852680,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Greenhouse",Q165044,,
+Kimmerghame House,"Outbuildings, Walled Garden, Kimmerghame House",Q17852703,6,1,1,"architectural structure in Scottish Borders, Scotland, UK","Kimmerghame House, Walled Garden, Outbuildings",Q42896655,,
+Kimmerghame House,water tower,Q274153,6,1,2,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Kimmerghame House,Water Tower,Q135645852,6,1,2,Water tower,Lunev Tower,Q12518,,
+Kimmerghame House,water tower,Q2289274,6,1,2,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+Kimmerghame House,Water Tower,Q20755335,6,1,2,episode of That '70s Show,,Q21191270,,
+Kimmerghame House,Water tower,Q2527425,6,1,2,,,Q274153,,
+Kimmerghame House,water tower,Q1834120,6,1,2,building in Amstelveen (Ouderkerk),,Q274153,,
+Kimmerghame House,water tower,Q2772333,6,1,2,"water tower in leiden, Netherlands",,Q274153,,
+Kimmerghame House,Water Tower,Q27465520,6,1,2,Liberia,,,,
+Kimmerghame House,Water tower,Q2621420,6,1,2,,,Q274153|Q33506,,
+Kimmerghame House,Water tower,Q2184452,6,1,2,,,Q274153,,
+Kimmerghame House,United Kingdom,Q145,6,1,2,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+Kimmerghame House,United Kingdom of Great Britain and Ireland,Q174193,6,1,2,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+Kimmerghame House,Government of the United Kingdom,Q6063,6,1,2,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+Kimmerghame House,United Kingdom,Q7887906,6,1,2,album by Manny Montes,,Q482994,,
+Kimmerghame House,British English,Q7979,6,1,2,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+Kimmerghame House,Kingdom of Great Britain,Q161885,6,1,2,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+Kimmerghame House,Parliament of the United Kingdom,Q11010,6,1,2,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+Kimmerghame House,United Kingdom,Q108280869,6,1,2,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+Kimmerghame House,Conservative Party,Q9626,6,1,2,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+Kimmerghame House,Public General Act of the Parliament of the United Kingdom,Q105774620,6,1,2,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+United Kingdom,United Kingdom,Q145,6,2,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,6,2,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,6,2,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,6,2,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,6,2,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,6,2,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,6,2,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,6,2,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,6,2,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,6,2,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+United Kingdom,Great Britain,Q23666,6,2,2,island in the North Atlantic Ocean off the northwest coast of continental Europe,Gt. Brit|GB|Blighty|Albion|Britannia|GBR|mainland Britain|Britain,Q23442,,Great Britain
+United Kingdom,National Portrait Gallery,Q238587,6,2,2,"art museum in London, England, United Kingdom",National Portrait Gallery (London),Q207694|Q17431399|Q3343298,,"National Portrait Gallery, London"
+United Kingdom,House of Commons,Q11005,6,2,2,lower house in the Parliament of the United Kingdom,British House of Commons|United Kingdom House of Commons|UK House of Commons|The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled|The Commons|Great Britain. Parliament. House of Commons -- Biography|Great Britain. Parliament -- Elections|Great Britain. Parliament -- Records and correspondence|MP,Q9247597,,House of Commons of the United Kingdom
+United Kingdom,Guernsey,Q25230,6,2,2,one of the British Crown Dependencies in the Channel Islands,GB-GSY|Bailliage de Guernesey|XA-GG|GBG|Great Britain Guernsey|Lisia|gg|Giernési|Bailliage dé Guernési|Bailiwick of Guernsey,Q185086|Q4996207,,Bailiwick of Guernsey
+United Kingdom,Great Britain,Q138527639,6,2,2,1875 chapter,,Q1980247,,
+United Kingdom,National Health Service,Q918396,6,2,2,publicly-funded healthcare systems in the United Kingdom,NHS|Great Britain National Health Service|N.H.S.,Q28821169|Q121182|Q210588,,National Health Service
+United Kingdom,Great Britain,Q749109,6,2,2,"sport delegation at the Olympics and Paralympics, grouping the United Kingdom, its overseas territories and the Crown dependancies",Great Britain and Northern Ireland Olympic Team|Team GB|GBR,Q26213387,,Great Britain at the Olympics
+United Kingdom,British Isles,Q38272,6,2,2,group of islands in northwest Europe,Britain and Ireland|Atlantic Archipelago|Great Britain and Ireland|the Britains|The Isles|British Islands,Q33837|Q1402592,,British Isles
+United Kingdom,British Isles,Q105970369,6,2,2,"map by George Lily, 1546",Britanniae insulae quae nunc Angliae et Scotia regna continent cum Hibernia adiacente nova descriptio,Q4006|Q25106976,,
+United Kingdom,British Isles team,Q919609,6,2,2,national sports team at the International Lawn Tennis Challenge (later Davis Cup),British Isles Davis Cup team,Q66817758,,
+United Kingdom,British Isles Congenital Cataract Interest Group,Q114429437,6,2,2,researcher,,Q1241025,,
+United Kingdom,climate of the British Isles,Q3680726,6,2,2,Inglese,the British Isles climate|British Isles climate,Q46997958,,Climate of the British Isles
+United Kingdom,British Isles fixed sea link connections,Q1672812,6,2,2,proposed Great Britain-Ireland tunnels or bridges,Irish Sea fixed crossing,Q27464969,,Proposed British Isles fixed sea link connections
+United Kingdom,rugby union in the British Isles,Q7378499,6,2,2,,British Isles rugby union,Q29791211,,Rugby union in the British Isles
+United Kingdom,Triple Crown Tournament,Q5198008,6,2,2,cricket competition from 1993 to 2001,British Isles Championship,Q13406554,,Triple Crown Tournament
+United Kingdom,British Isles – A Natural History,Q4970173,6,2,2,documentary TV series,,Q5398426,,British Isles – A Natural History
+United Kingdom,British Isles Terminology task force,Q21829010,6,2,2,Wikimedia subject-area collaboration,WikiProject British Isles Terminology|Wikipedia:British Isles Terminology task force|British Isles Terminology task force,Q110059964,,Wikipedia:British Isles Terminology task force
+Water Tower,water tower,Q274153,7,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Water Tower,Water Tower,Q135645852,7,0,1,Water tower,Lunev Tower,Q12518,,
+Water Tower,water tower,Q2289274,7,0,1,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+Water Tower,Water Tower,Q20755335,7,0,1,episode of That '70s Show,,Q21191270,,
+Water Tower,Water tower,Q2527425,7,0,1,,,Q274153,,
+Water Tower,water tower,Q1834120,7,0,1,building in Amstelveen (Ouderkerk),,Q274153,,
+Water Tower,water tower,Q2772333,7,0,1,"water tower in leiden, Netherlands",,Q274153,,
+Water Tower,Water Tower,Q27465520,7,0,1,Liberia,,,,
+Water Tower,Water tower,Q2621420,7,0,1,,,Q274153|Q33506,,
+Water Tower,Water tower,Q2184452,7,0,1,,,Q274153,,
+Boscombe,AFC Bournemouth,Q19568,7,1,1,"association football club in Bournemouth, England",Bournemouth|Bournemouth and Boscombe Athletic F.C.|Boscombe F.C.|Boscombe Football Club|Boscombe FC|Boscombe|Bournemouth and Boscombe Athletic Football Club|Bournemouth and Boscombe Athletic FC|Bournemouth and Boscombe Athletic|The Cherries|A.F.C. Bournemouth|AFCB,Q476028,,AFC Bournemouth
+Boscombe,Boscombe,Q16987752,7,1,1,"village in Wiltshire, UK","Boscombe, Wiltshire",Q532|Q1115575,,"Boscombe, Wiltshire"
+Boscombe,Boscombe,Q608194,7,1,1,"suburb of Bournemouth, Dorset, England, UK","Boscombe, Hampshire|Boscombe, Dorset",Q188509,,Boscombe
+Boscombe,Boscombe railway station,Q4947185,7,1,1,"railway station in Bournemouth, the UK",Boscombe Station,Q55488,,Boscombe railway station
+Boscombe,Boscombe,Q115945512,7,1,1,"railway point in Alberta, Canada",,Q88397339,,
+Boscombe,BOSCOMBE,Q127058120,7,1,1,hymn tune,,Q105543609,,
+Boscombe,MoD Boscombe Down,Q3566434,7,1,1,"Military test & evaluation airfield in Wiltshire, England",EGDM|RAF Boscombe Down|BD|Boscombe Down Airfield,Q1248784|Q695850|Q7373622,,MOD Boscombe Down
+Boscombe,Boscombe Down Aviation Collection,Q113455738,7,1,1,"fast-jet military aviation museum in Old Sarum, Salisbury, Wiltshire, England, UK",Old Sarum Airfield Museum,Q4828724,Q25628807|Q765633,
+Boscombe,Boscombe Community Hospital,Q30265248,7,1,1,"healthcare organization in Bournemouth, United Kingdom",,Q4287745|Q16917,,
+Boscombe,The Boscombe Valley Mystery,Q16028309,7,1,1,1922 film by George Ridgwell,Boscombe Valley Mystery,Q11424,,
+Boscombe,water tower,Q274153,7,1,2,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Boscombe,Water Tower,Q135645852,7,1,2,Water tower,Lunev Tower,Q12518,,
+Boscombe,water tower,Q2289274,7,1,2,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+Boscombe,Water Tower,Q20755335,7,1,2,episode of That '70s Show,,Q21191270,,
+Boscombe,Water tower,Q2527425,7,1,2,,,Q274153,,
+Boscombe,water tower,Q1834120,7,1,2,building in Amstelveen (Ouderkerk),,Q274153,,
+Boscombe,water tower,Q2772333,7,1,2,"water tower in leiden, Netherlands",,Q274153,,
+Boscombe,Water Tower,Q27465520,7,1,2,Liberia,,,,
+Boscombe,Water tower,Q2621420,7,1,2,,,Q274153|Q33506,,
+Boscombe,Water tower,Q2184452,7,1,2,,,Q274153,,
+Boscombe,United Kingdom,Q145,7,1,2,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+Boscombe,United Kingdom of Great Britain and Ireland,Q174193,7,1,2,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+Boscombe,Government of the United Kingdom,Q6063,7,1,2,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+Boscombe,United Kingdom,Q7887906,7,1,2,album by Manny Montes,,Q482994,,
+Boscombe,British English,Q7979,7,1,2,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+Boscombe,Kingdom of Great Britain,Q161885,7,1,2,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+Boscombe,Parliament of the United Kingdom,Q11010,7,1,2,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+Boscombe,United Kingdom,Q108280869,7,1,2,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+Boscombe,Conservative Party,Q9626,7,1,2,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+Boscombe,Public General Act of the Parliament of the United Kingdom,Q105774620,7,1,2,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+United Kingdom,United Kingdom,Q145,7,2,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,7,2,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,7,2,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,7,2,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,7,2,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,7,2,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,7,2,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,7,2,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,7,2,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,7,2,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+Gamla vattentornet,Gamla vattentornet,Q10502495,8,0,1,,,Q274153,,
+Gamla vattentornet,Gamla vattentornet,Q10502494,8,0,1,building in Sweden,,Q41176|Q1497375,,
+Gamla vattentornet,Gamla vattentornet,Q26257001,8,0,1,,,Q274153,,
+Gamla vattentornet,Gamla vattentornet,Q21167249,8,0,1,,,Q274153,,
+Gamla vattentornet,"Gamla vattentornet, Skara",Q26257003,8,0,1,,,Q1497375,,
+Gamla vattentornet,Trelleborg Old Water Tower,Q7838003,8,0,1,history of the Trelleborg Old Water Tower,Trelleborg Water Tower,Q274153,,Trelleborg Old Water Tower
+Gamla vattentornet,Gamla vattentorne,Q1650945,8,0,1,building in Sweden,,Q41176,,
+Gamla vattentornet,Kalmar gamla vattentorn,Q10542839,8,0,1,"residential building in Kalmar Municipality, Kalmar County, Sweden",,Q274153|Q11755880,,
+Gamla vattentornet,"Old city watertower, Mariupol",Q4439835,8,0,1,"Old Water Tower, Mariupol Ukraine",,Q274153,,"Old Tower, Mariupol"
+Gamla vattentornet,Gamla vattentornet,Q10502493,8,0,1,Wikimedia disambiguation page,,Q4167410,,
+Norrköping,Norrköping,Q25724,8,1,1,"urban area in Norrköping Municipality, Sweden",Norrköping (Sweden),Q12813115,,Norrköping
+Norrköping,Norrköping Municipality,Q504676,8,1,1,"municipality in Östergötland County, Sweden",Norrköpings kommun,Q127448,,Norrköping Municipality
+Norrköping,Norrköping,Q10602808,8,1,1,parish of the Church of Sweden,,Q615980,,
+Norrköping,Norrköping Town,Q10602823,8,1,1,urban municipality in Sweden until 1971,Norrköpings stad,Q2261863,,
+Norrköping,Norrköping,Q97966649,8,1,1,motion by Dan Ericsson et al. 1999,,Q452237,,
+Norrköping,Norrköpings Hedvig Parish,Q10602799,8,1,1,"Church of Sweden parish in and around Norrköping, Sweden",Norrköpings Hedvigs församling,Q615980,,
+Norrköping,Norrköping's Östra Eneby parish,Q10602834,8,1,1,,,Q615980,,
+Norrköping,Norrköpings S:t Johannes parish,Q10602807,8,1,1,,,Q615980,,
+Norrköping,Norrköping Matteus church parish,Q10602802,8,1,1,,,Q615980,,
+Norrköping,Idrottsparken,Q571624,8,1,1,Swedish sports ground in Norrköping,Norrköpings idrottspark|PlatinumCars Arena|Nya Parken|Östgötaporten,Q483110,,Idrottsparken (Norrköping)
+Norrköping,Gamla vattentornet,Q10502495,8,1,2,,,Q274153,,
+Norrköping,Gamla vattentornet,Q10502494,8,1,2,building in Sweden,,Q41176|Q1497375,,
+Norrköping,Gamla vattentornet,Q26257001,8,1,2,,,Q274153,,
+Norrköping,Gamla vattentornet,Q21167249,8,1,2,,,Q274153,,
+Norrköping,"Gamla vattentornet, Skara",Q26257003,8,1,2,,,Q1497375,,
+Norrköping,Trelleborg Old Water Tower,Q7838003,8,1,2,history of the Trelleborg Old Water Tower,Trelleborg Water Tower,Q274153,,Trelleborg Old Water Tower
+Norrköping,Gamla vattentorne,Q1650945,8,1,2,building in Sweden,,Q41176,,
+Norrköping,Kalmar gamla vattentorn,Q10542839,8,1,2,"residential building in Kalmar Municipality, Kalmar County, Sweden",,Q274153|Q11755880,,
+Norrköping,"Old city watertower, Mariupol",Q4439835,8,1,2,"Old Water Tower, Mariupol Ukraine",,Q274153,,"Old Tower, Mariupol"
+Norrköping,Gamla vattentornet,Q10502493,8,1,2,Wikimedia disambiguation page,,Q4167410,,
+Norrköping,Sweden,Q34,8,1,2,country in Northern Europe,Kingdom of Sweden|se|Swedish Kingdom,Q3624078|Q6256|Q179164|Q63791824|Q41614,,Sweden
+Norrköping,Sweden,Q37437749,8,1,2,family name,,Q101352,,
+Norrköping,Sweden,Q7654287,8,1,2,constituency of the European Parliament,,Q2631496,,Sweden (European Parliament constituency)
+Norrköping,Sweden,Q118948494,8,1,2,song by C418,calm3.ogg,Q105543609,,Sweden (song)
+Norrköping,Sweden,Q139772871,8,1,2,,,Q1980247,,
+Norrköping,Sweden,Q125765069,8,1,2,instrumental track by C418; 2011 studio recording,,Q55850643,,
+Norrköping,Sweden men's national football team,Q160826,8,1,2,men's national association football team representing Sweden,Sweden national football team|Sweden national association football team|Sweden men's national association football team,Q135408445,Q1194951,Sweden men's national football team
+Norrköping,Swedish Navy,Q1141396,8,1,2,naval branch of the Swedish Armed Forces,Sweden navy,Q781132|Q4508,,Swedish Navy
+Norrköping,Swedish Census 1910,Q48761314,8,1,2,national census of Sweden,Sweden Census 1910|1910 Sweden Census,Q10497456,,
+Norrköping,Sweden,Q99282565,8,1,2,the country of Sweden as depicted in Star Trek,Star Trek Sweden,Q57663042|Q15796005,,
+Sweden,Sweden,Q34,8,2,1,country in Northern Europe,Kingdom of Sweden|se|Swedish Kingdom,Q3624078|Q6256|Q179164|Q63791824|Q41614,,Sweden
+Sweden,Sweden,Q37437749,8,2,1,family name,,Q101352,,
+Sweden,Sweden,Q7654287,8,2,1,constituency of the European Parliament,,Q2631496,,Sweden (European Parliament constituency)
+Sweden,Sweden,Q118948494,8,2,1,song by C418,calm3.ogg,Q105543609,,Sweden (song)
+Sweden,Sweden,Q139772871,8,2,1,,,Q1980247,,
+Sweden,Sweden,Q125765069,8,2,1,instrumental track by C418; 2011 studio recording,,Q55850643,,
+Sweden,Sweden men's national football team,Q160826,8,2,1,men's national association football team representing Sweden,Sweden national football team|Sweden national association football team|Sweden men's national association football team,Q135408445,Q1194951,Sweden men's national football team
+Sweden,Swedish Navy,Q1141396,8,2,1,naval branch of the Swedish Armed Forces,Sweden navy,Q781132|Q4508,,Swedish Navy
+Sweden,Swedish Census 1910,Q48761314,8,2,1,national census of Sweden,Sweden Census 1910|1910 Sweden Census,Q10497456,,
+Sweden,Sweden,Q99282565,8,2,1,the country of Sweden as depicted in Star Trek,Star Trek Sweden,Q57663042|Q15796005,,
+Sweden,Gamla vattentornet,Q10502495,8,2,2,,,Q274153,,
+Sweden,Gamla vattentornet,Q10502494,8,2,2,building in Sweden,,Q41176|Q1497375,,
+Sweden,Gamla vattentornet,Q26257001,8,2,2,,,Q274153,,
+Sweden,Gamla vattentornet,Q21167249,8,2,2,,,Q274153,,
+Sweden,"Gamla vattentornet, Skara",Q26257003,8,2,2,,,Q1497375,,
+Sweden,Trelleborg Old Water Tower,Q7838003,8,2,2,history of the Trelleborg Old Water Tower,Trelleborg Water Tower,Q274153,,Trelleborg Old Water Tower
+Sweden,Gamla vattentorne,Q1650945,8,2,2,building in Sweden,,Q41176,,
+Sweden,Kalmar gamla vattentorn,Q10542839,8,2,2,"residential building in Kalmar Municipality, Kalmar County, Sweden",,Q274153|Q11755880,,
+Sweden,"Old city watertower, Mariupol",Q4439835,8,2,2,"Old Water Tower, Mariupol Ukraine",,Q274153,,"Old Tower, Mariupol"
+Sweden,Gamla vattentornet,Q10502493,8,2,2,Wikimedia disambiguation page,,Q4167410,,
+Sweden,Norrköping,Q25724,8,2,2,"urban area in Norrköping Municipality, Sweden",Norrköping (Sweden),Q12813115,,Norrköping
+Sweden,Norrköping Municipality,Q504676,8,2,2,"municipality in Östergötland County, Sweden",Norrköpings kommun,Q127448,,Norrköping Municipality
+Sweden,Norrköping,Q10602808,8,2,2,parish of the Church of Sweden,,Q615980,,
+Sweden,Norrköping Town,Q10602823,8,2,2,urban municipality in Sweden until 1971,Norrköpings stad,Q2261863,,
+Sweden,Norrköping,Q97966649,8,2,2,motion by Dan Ericsson et al. 1999,,Q452237,,
+Sweden,Norrköpings Hedvig Parish,Q10602799,8,2,2,"Church of Sweden parish in and around Norrköping, Sweden",Norrköpings Hedvigs församling,Q615980,,
+Sweden,Norrköping's Östra Eneby parish,Q10602834,8,2,2,,,Q615980,,
+Sweden,Norrköpings S:t Johannes parish,Q10602807,8,2,2,,,Q615980,,
+Sweden,Norrköping Matteus church parish,Q10602802,8,2,2,,,Q615980,,
+Sweden,Idrottsparken,Q571624,8,2,2,Swedish sports ground in Norrköping,Norrköpings idrottspark|PlatinumCars Arena|Nya Parken|Östgötaporten,Q483110,,Idrottsparken (Norrköping)
+Watertoren,Watertoren,Q132897126,9,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,9,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,9,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Ostend,Ostend,Q12996,9,1,1,"coastal city in West Flanders, Belgium",Ostende|Oostende,Q493522|Q15273785|Q2235075|Q2264924|Q1021711,,Ostend
+Ostend,Ostend,Q563567,9,1,1,city quarter of Frankfurt am Main,,Q79416466,,Ostend (Frankfurt am Main)
+Ostend,Ostend,Q21766156,9,1,1,"city in Ostend municipality, Belgium",Oostende,Q3957,,
+Ostend,Arrondissement of Ostend,Q91427,9,1,1,1 of 43 administrative arrondissements of Belgium,Ostend,Q91028,,Arrondissement of Ostend
+Ostend,9471 Ostend,Q690622,9,1,1,asteroid,Ostend|1998 OU13,Q3863,,9471 Ostend
+Ostend,Ostend,Q30063586,9,1,1,painting by Joseph Mallord William Turner,,Q3305213,,Ostend (painting)
+Ostend,Ostendorff,Q105536759,9,1,1,family name,,Q101352,,
+Ostend,Ostend,Q20540494,9,1,1,painting by Arsène Chabanian,,Q3305213,,
+Ostend,Ostend,Q7107598,9,1,1,"locality on Waiheke Island, New Zealand","Ostend, New Zealand",Q3257686,,"Ostend, New Zealand"
+Ostend,Ostendarp,Q105536758,9,1,1,family name,,Q101352,,
+Ostend,Belgium,Q31,9,1,2,country in western Europe,Kingdom of Belgium,Q3624078|Q6256|Q20181813|Q1250464,,Belgium
+Ostend,Belgium,Q106879226,9,1,2,family name,,Q101352,,
+Ostend,Belgium,Q138527661,9,1,2,1875 chapter,,Q1980247,,
+Ostend,Belgium men's national football team,Q166776,9,1,2,men's national association football team representing Belgium,Red Devils|Belgian Red Devils|Belgium national football team,Q135408445,Q1194951,Belgium national football team
+Ostend,Belgium,Q2025327,9,1,2,"village in Ozaukee County, Wisconsin","Belgium, WI|Belgium, Wisconsin",Q15221242,,"Belgium, Wisconsin"
+Ostend,Halle,Q210003,9,1,2,"city and municipality in Flemish Brabant, Belgium",Hal|Groot-Halle|Belgium Halle,Q493522|Q15273785,,"Halle, Belgium"
+Ostend,Belgium,Q2281631,9,1,2,"village in Illinois, United States","Belgium, Illinois|Belgium, IL",Q110071217,,"Belgium, Illinois"
+Ostend,Belgium,Q23993525,9,1,2,encyclopedic article,,Q13433827,,
+Ostend,Belgium national under-21 football team,Q815515,9,1,2,national association football team,Belgica,Q6979593,Q1194951,Belgium national under-21 football team
+Ostend,Belgium,Q1658699,9,1,2,"town in Wisconsin, United States",,Q15219655,,"Belgium (town), Wisconsin"
+Ostend,Watertoren,Q132897126,9,1,2,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Ostend,Watertoren,Q2317781,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2243350,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2201776,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2330441,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2384504,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2344410,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q4297615,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q5164572,9,1,2,,,Q274153,,
+Ostend,Watertoren,Q2312600,9,1,2,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Belgium,Belgium,Q31,9,2,1,country in western Europe,Kingdom of Belgium,Q3624078|Q6256|Q20181813|Q1250464,,Belgium
+Belgium,Belgium,Q106879226,9,2,1,family name,,Q101352,,
+Belgium,Belgium,Q138527661,9,2,1,1875 chapter,,Q1980247,,
+Belgium,Belgium men's national football team,Q166776,9,2,1,men's national association football team representing Belgium,Red Devils|Belgian Red Devils|Belgium national football team,Q135408445,Q1194951,Belgium national football team
+Belgium,Belgium,Q2025327,9,2,1,"village in Ozaukee County, Wisconsin","Belgium, WI|Belgium, Wisconsin",Q15221242,,"Belgium, Wisconsin"
+Belgium,Halle,Q210003,9,2,1,"city and municipality in Flemish Brabant, Belgium",Hal|Groot-Halle|Belgium Halle,Q493522|Q15273785,,"Halle, Belgium"
+Belgium,Belgium,Q2281631,9,2,1,"village in Illinois, United States","Belgium, Illinois|Belgium, IL",Q110071217,,"Belgium, Illinois"
+Belgium,Belgium,Q23993525,9,2,1,encyclopedic article,,Q13433827,,
+Belgium,Belgium national under-21 football team,Q815515,9,2,1,national association football team,Belgica,Q6979593,Q1194951,Belgium national under-21 football team
+Belgium,Belgium,Q1658699,9,2,1,"town in Wisconsin, United States",,Q15219655,,"Belgium (town), Wisconsin"
+Vodojem,Vodojem,Q37424352,10,0,1,,,Q1516537|Q6501028,,
+Vodojem,water tower,Q274153,10,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Vodojem,Vodojem,Q37851671,10,0,1,,,Q274153|Q1516537,,
+Vodojem,Water tanks of Hněvošice,Q114194118,10,0,1,,Vodojem Hněvošice,Q274153|Q6501028,,
+Vodojem,Vodojemská,Q45449646,10,0,1,"street in Prague, Czech Republic",,Q79007,,
+Vodojem,water tank,Q6501028,10,0,1,container for storing water,water container,,Q136933540|Q7973769|Q2551525,Water tank
+Vodojem,Vodojem Mikulovice,Q106436419,10,0,1,,,Q6501028,,
+Vodojem,Vodojem Ládví,Q108333952,10,0,1,,,Q6501028,,
+Vodojem,Vodojem Běchovice,Q111188714,10,0,1,,Běchovice water tower,Q274153,,
+Vodojem,Vodojem Trnava,Q16519983,10,0,1,,,Q274153,,
+Vodojem,Sady S. K. Neumanna,Q89796821,10,0,2,,,Q22746,,
+Vodojem,Czech Republic,Q213,10,0,2,country in Central Europe,Czechia,Q6256|Q3624078|Q123480|Q7270|Q127693126,,Czech Republic
+Vodojem,Czech Republic,Q5201764,10,0,2,constituency of the European Parliament,,Q2631496,,Czech Republic (European Parliament constituency)
+Vodojem,Czech Republic,Q3496079,10,0,2,member state of the Czech and Slovak Federal Republic (1990–1992),,Q56219758,,
+Vodojem,Czechia men's national football team,Q483868,10,0,2,men's national association football team representing Czechia,Czech Republic national football team|Czech national football team|Czechia national team|National team of Czechia|Czechia NT|Czechia N.T.|Czechia national football team,Q135408445,Q1194951,Czech Republic national football team
+Vodojem,Czech Republic national under-21 football team,Q1464421,10,0,2,national under-21 association football team representing Czechia,Czechia national under-21 football team|Czechia national U21 football team,Q6979740,Q1194951,Czech Republic national under-21 football team
+Vodojem,Czechia men's national ice hockey team,Q754410,10,0,2,men's national ice hockey team representing the Czech Republic,Czech Republic men's national ice hockey team|Team Czech Republic,Q135409346,,Czechia men's national ice hockey team
+Vodojem,Czech Republic,Q99288382,10,0,2,the country of the Czech Republic as depicted in Star Trek,Star Trek Czech Republic,Q57663042|Q15796005,,
+Vodojem,2017 Czech legislative election,Q17016895,10,0,2,"All 200 seats of the Chamber of Deputies, lower house of the Parliament, were available for the election.","Election to the Chamber of Deputies of the Parliament of the Czech Republic of 2017|Czech Republic general election of 2017|Czech parliamentary election, 2017|Czech Republic parliamentary election of 2017|Czech legislative election, 2017|Czech general election, 2017|Czech Republic legislative election of 2017|2017 Czech general election",Q14516417,,2017 Czech parliamentary election
+Vodojem,Czech Republic national under-19 football team,Q3873527,10,0,2,national under-19 football team of Czechia,Czechia national under-19 football team|Czechia national U19 football team,Q23901137,,Czech Republic national under-19 football team
+Vodojem,Czech Republic–Poland border,Q1992001,10,0,2,separates the state territories of the two States,border between Czech Republic and Poland|border between Poland and Czech Republic|Czech Republic-Poland border|Poland-Czech Republic border,Q133346|Q15104814|Q12413618,,Czech Republic–Poland border
+Sady S. K. Neumanna,Sady S. K. Neumanna,Q89796821,10,1,1,,,Q22746,,
+Czech Republic,Czech Republic,Q213,10,2,1,country in Central Europe,Czechia,Q6256|Q3624078|Q123480|Q7270|Q127693126,,Czech Republic
+Czech Republic,Czech Republic,Q5201764,10,2,1,constituency of the European Parliament,,Q2631496,,Czech Republic (European Parliament constituency)
+Czech Republic,Czech Republic,Q3496079,10,2,1,member state of the Czech and Slovak Federal Republic (1990–1992),,Q56219758,,
+Czech Republic,Czechia men's national football team,Q483868,10,2,1,men's national association football team representing Czechia,Czech Republic national football team|Czech national football team|Czechia national team|National team of Czechia|Czechia NT|Czechia N.T.|Czechia national football team,Q135408445,Q1194951,Czech Republic national football team
+Czech Republic,Czech Republic national under-21 football team,Q1464421,10,2,1,national under-21 association football team representing Czechia,Czechia national under-21 football team|Czechia national U21 football team,Q6979740,Q1194951,Czech Republic national under-21 football team
+Czech Republic,Czechia men's national ice hockey team,Q754410,10,2,1,men's national ice hockey team representing the Czech Republic,Czech Republic men's national ice hockey team|Team Czech Republic,Q135409346,,Czechia men's national ice hockey team
+Czech Republic,Czech Republic,Q99288382,10,2,1,the country of the Czech Republic as depicted in Star Trek,Star Trek Czech Republic,Q57663042|Q15796005,,
+Czech Republic,2017 Czech legislative election,Q17016895,10,2,1,"All 200 seats of the Chamber of Deputies, lower house of the Parliament, were available for the election.","Election to the Chamber of Deputies of the Parliament of the Czech Republic of 2017|Czech Republic general election of 2017|Czech parliamentary election, 2017|Czech Republic parliamentary election of 2017|Czech legislative election, 2017|Czech general election, 2017|Czech Republic legislative election of 2017|2017 Czech general election",Q14516417,,2017 Czech parliamentary election
+Czech Republic,Czech Republic national under-19 football team,Q3873527,10,2,1,national under-19 football team of Czechia,Czechia national under-19 football team|Czechia national U19 football team,Q23901137,,Czech Republic national under-19 football team
+Czech Republic,Czech Republic–Poland border,Q1992001,10,2,1,separates the state territories of the two States,border between Czech Republic and Poland|border between Poland and Czech Republic|Czech Republic-Poland border|Poland-Czech Republic border,Q133346|Q15104814|Q12413618,,Czech Republic–Poland border
+Czech Republic,Football Association of the Czech Republic,Q337065,10,2,2,governing body of association football in Czechia,Football Association of Czechia|Czechia Football Association|Czechia Football Federation|Czechia FA|Czechia F.A.|Football Federation of Czechia,Q1478443|Q43229|Q2485448,,Football Association of the Czech Republic
+Czech Republic,Czech Republic national under-17 football team,Q3590346,10,2,2,national under-17 football team of Czechia,Czechia national under-17 football team|Czechia national U17 football team,Q6979593,,Czech Republic national under-17 football team
+Czech Republic,Czech Republic national under-18 football team,Q15079182,10,2,2,national U18 association football team of Czechia,Czechia national under-18 football team|Czechia U18 national team,Q6979593,,Czech Republic national under-18 football team
+Czech Republic,Czech Republic national under-20 football team,Q3873547,10,2,2,national under-20 football team of Czechia,Czechia national under-20 football team|Czechia national U20 football team,Q6979593,,
+Czech Republic,Czech Republic women's national football team,Q577077,10,2,2,women's national association football team representing Czechia,Czechia women's national football team|Czechia women's national team|Czechia women's NT|Czechia WNT,Q23905105,Q1194951,Czech Republic women's national football team
+Czech Republic,Office of the Chamber of Deputies,Q14567740,10,2,2,"government organization in Prague, Czechia",Česká republika - Kancelář Poslanecké sněmovny,Q327333,,
+Czech Republic,Česká republika,Q122027795,10,2,2,book edition published in 2018,,Q3331189,,
+Czech Republic,Česká republika,Q122027796,10,2,2,book edition published in 2018,,Q3331189,,
+Czech Republic,Česká republika - architektura XX. století: Morava a Slezsko,Q130321240,10,2,2,2005 Czech book edition,,Q3331189,,
+Czech Republic,"Česká republika: města a obce: tradice, historie, památky, turistika, současnost",Q121982104,10,2,2,book edition published in 2016,,Q3331189,,
+Czech Republic,Česká republika: autoatlas 1:200 000,Q122017265,10,2,2,book edition published in 2017,,Q3331189,,
+Czech Republic,Česká republika: autoatlas 1:200 000,Q122074165,10,2,2,book edition published in 2019,,Q3331189,,
+Czech Republic,Česká republika: interaktivní mluvící kniha,Q121961672,10,2,2,book edition published in 2015,,Q3331189,,
+Czech Republic,Česká republika: atlas rybářských revírů 1:250 000,Q122044312,10,2,2,book edition published in 2019,,Q3331189,,
+water tower,water tower,Q274153,11,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+water tower,Water Tower,Q135645852,11,0,1,Water tower,Lunev Tower,Q12518,,
+water tower,water tower,Q2289274,11,0,1,"water tower in Lippenhuizen, Netherlands",,Q274153,,
+water tower,Water Tower,Q20755335,11,0,1,episode of That '70s Show,,Q21191270,,
+water tower,Water tower,Q2527425,11,0,1,,,Q274153,,
+water tower,water tower,Q1834120,11,0,1,building in Amstelveen (Ouderkerk),,Q274153,,
+water tower,water tower,Q2772333,11,0,1,"water tower in leiden, Netherlands",,Q274153,,
+water tower,Water Tower,Q27465520,11,0,1,Liberia,,,,
+water tower,Water tower,Q2621420,11,0,1,,,Q274153|Q33506,,
+water tower,Water tower,Q2184452,11,0,1,,,Q274153,,
+Klostermansfeld station,,,11,1,0,,,,,
+Germany,Germany,Q183,11,2,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,11,2,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,11,2,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,11,2,1,family name,,Q101352,,
+Germany,Germany,Q138527606,11,2,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,11,2,1,,,Q1980247,,
+Germany,Germany,Q133933103,11,2,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,11,2,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,11,2,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,11,2,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,11,2,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,11,2,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,11,2,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,11,2,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,11,2,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,11,2,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,11,2,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,11,2,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,11,2,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,11,2,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,11,2,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,11,2,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,11,2,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,11,2,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,11,2,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,11,2,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,11,2,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,11,2,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,11,2,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,11,2,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,11,2,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,11,2,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,11,2,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,11,2,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,11,2,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,11,2,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,11,2,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,11,2,2,scholarly article,,Q13442814,,
+Wasserturm,Wasserturm,Q877414,12,0,1,Wasserturm im 10. Wiener Gemeindebezirk,,Q274153,,
+Wasserturm,Wasserturm,Q23786629,12,0,1,"cultural heritage monument D-1-62-000-7802 (0) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q65952766,12,0,1,"cultural heritage monument D-1-62-000-7821 (2) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q49364926,12,0,1,"house in Niederwiesa, Germany",,Q3947,,
+Wasserturm,Wasserturm,Q98634198,12,0,1,"cultural heritage monument D-5-71-198-37 (1) in Bronnenhaus (Schillingsfürst), Middle Franconia, Germany",Stilzendorf 25 in Schillingsfürst,Q274153,,
+Wasserturm,Wasserturm,Q2551817,12,0,1,"Historical tower connected to Kapellbrücke, a wooden bridge across the Reuss River in Lucerne (Switzerland)",,Q274153,,
+Wasserturm,Wasserturm (Ismaning),Q1378943,12,0,1,tower,Wasserturm,Q274153|Q1569871,,
+Wasserturm,Wasserturm,Q2551792,12,0,1,"tower in Hannover, Germany",,Q274153|Q18674739,,
+Wasserturm,Munich-Aubing water tower,Q758488,12,0,1,tower,Wasserturm,Q12518|Q274153,,
+Wasserturm,water tower,Q274153,12,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Reinhardshain,Reinhardshain,Q1447130,12,1,1,district of Grünberg (Hesse),,Q253019,,
+Reinhardshain,Reinhardshainer Straße 6,Q47899922,12,1,1,"cultural heritage monument in Beltershain, Hesse, Germany",,Q811979,,
+Reinhardshain,Reinhardshainer Straße 7,Q47899925,12,1,1,"cultural heritage monument in Beltershain, Hesse, Germany",,Q811979,,
+Reinhardshain,Reinhardshainer Straße 16,Q47899928,12,1,1,"cultural heritage monument in Beltershain, Hesse, Germany",,Q811979,,
+Germany,Germany,Q183,12,2,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,12,2,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,12,2,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,12,2,1,family name,,Q101352,,
+Germany,Germany,Q138527606,12,2,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,12,2,1,,,Q1980247,,
+Germany,Germany,Q133933103,12,2,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,12,2,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,12,2,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,12,2,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,12,2,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,12,2,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,12,2,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,12,2,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,12,2,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,12,2,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,12,2,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,12,2,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,12,2,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,12,2,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,12,2,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,12,2,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,12,2,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,12,2,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,12,2,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,12,2,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,12,2,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,12,2,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,12,2,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,12,2,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,12,2,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,12,2,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,12,2,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,12,2,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,12,2,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,12,2,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,12,2,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,12,2,2,scholarly article,,Q13442814,,
+Watertower,Watertower,Q48792957,13,0,1,public art work by artist Tom Fruin,,Q838948,,Watertower (Fruin)
+Watertower,Watertower,Q2755222,13,0,1,"building in Boskoop, Netherlands",,Q274153,,
+Watertower,WaterTower Music,Q4887811,13,0,1,American record label,,Q18127,,WaterTower Music
+Watertower,Watertower,Q114243464,13,0,1,1988 studio album by Michael Hurley,,Q482994,,Watertower (album)
+Watertower,Watertower,Q28074552,13,0,1,Vroenhoven,,Q274153,,
+Watertower,Watertower,Q29485129,13,0,1,Located at the heart of the Penrhos Coastal Park at the SE end of Holy Island; reached by private driveway N of the A5(T) and c1.25km NNE of the N end of the Stanley Embankment. The Watertower is at SE corner of the walled garden S of Penrhos House.,,Q274153,,
+Watertower,Watertower,Q26346255,13,0,1,"tower in Hunstanton, King's Lynn and West Norfolk, Norfolk, England, UK",,Q12518,,
+Watertower,Watertower San Nicolas,Q18618761,13,0,1,"water tower and museum in San Nicolas, Aruba",,Q274153|Q2065736,,Water Tower San Nicolas
+Watertower,Cuxhaven water tower,Q26869719,13,0,1,"former water tower in Cuxhaven, Germany",Watertower in Cuxhaven,Q274153,,
+Watertower,Watertower Oranjestad,Q18618757,13,0,1,cultural heritage site in Aruba,,Q274153|Q2065736,,
+Holyhead,Holyhead,Q257446,13,1,1,"town in the county of Anglesey in Wales, UK",Caergybi,Q3957,,Holyhead
+Holyhead,Holyhead,Q24674792,13,1,1,"community in Anglesey, in north-west Wales",Holyhead Community,Q2630741,,
+Holyhead,Holyhead,Q23691014,13,1,1,"landscape print; view of the bustling port, including sailing ships, lighthouse and individuals on the quay",,Q11060274,,
+Holyhead,Holyhead,Q110853703,13,1,1,Welsh parish,,Q102496,,
+Holyhead,Holyhead,Q23719763,13,1,1,"landscape print; shows the bustling port, including sailing ships, lighthouse and individuals on the quay",,Q11060274,,
+Holyhead,Holyhead railway station,Q2398052,13,1,1,"railway station in Anglesey, Wales, UK",Holyhead Station|HHD,Q55488|Q1567913|Q55485,,Holyhead railway station
+Holyhead,Holyhead,Q56662698,13,1,1,electoral ward of Birmingham City Council,Holyhead Ward,Q589282,,
+Holyhead,Holyhead,Q78094010,13,1,1,art print,,Q11060274,,
+Holyhead,North Wales Main Line,Q2631964,13,1,1,"railway line in North Wales and Cheshire, England",Holyhead–Crewe line|Holyhead–Crewe railway line|Crewe–Holyhead line|Crewe–Holyhead railway line|North Wales Mainline|North Wales Coast Line,Q3238851,,North Wales Main Line
+Holyhead,Holyhead,Q15224750,13,1,1,former transmitting station,,Q5367899,,Holyhead transmitting station
+United Kingdom,United Kingdom,Q145,13,2,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,13,2,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,13,2,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,13,2,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,13,2,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,13,2,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,13,2,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,13,2,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,13,2,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,13,2,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+Wasserturm,Wasserturm,Q877414,14,0,1,Wasserturm im 10. Wiener Gemeindebezirk,,Q274153,,
+Wasserturm,Wasserturm,Q23786629,14,0,1,"cultural heritage monument D-1-62-000-7802 (0) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q65952766,14,0,1,"cultural heritage monument D-1-62-000-7821 (2) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q49364926,14,0,1,"house in Niederwiesa, Germany",,Q3947,,
+Wasserturm,Wasserturm,Q98634198,14,0,1,"cultural heritage monument D-5-71-198-37 (1) in Bronnenhaus (Schillingsfürst), Middle Franconia, Germany",Stilzendorf 25 in Schillingsfürst,Q274153,,
+Wasserturm,Wasserturm,Q2551817,14,0,1,"Historical tower connected to Kapellbrücke, a wooden bridge across the Reuss River in Lucerne (Switzerland)",,Q274153,,
+Wasserturm,Wasserturm (Ismaning),Q1378943,14,0,1,tower,Wasserturm,Q274153|Q1569871,,
+Wasserturm,Wasserturm,Q2551792,14,0,1,"tower in Hannover, Germany",,Q274153|Q18674739,,
+Wasserturm,Munich-Aubing water tower,Q758488,14,0,1,tower,Wasserturm,Q12518|Q274153,,
+Wasserturm,water tower,Q274153,14,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Freimann,Freimann,Q1454555,14,1,1,quarter of Munich,München-Freimann|Freimanner Heide,Q253019|Q123705,,
+Freimann,Freimann,Q37198735,14,1,1,family name,,Q101352,,
+Freimann,Freimann (Waging am See),Q106618422,14,1,1,human settlement in Germany,,Q123705|Q5084|Q253019,,
+Freimann,Freimann,Q822522,14,1,1,"metro station in Munich, Germany",,Q928830|Q22808404,,Freimann station
+Freimann,Israel Meir Freimann,Q90547,14,1,1,Philosopher and rabbi (1830–1884),"Frayman, Yiśraʾel Meʾir ben Yehudah|Freimann, Israel M.",Q5,,Israel Meir Freimann
+Freimann,Freimann Square,Q33111452,14,1,1,"park in Fort Wayne, Indiana, United States",,,,
+Freimann,Freimann Mosque,Q1454557,14,1,1,architectural structure,,Q32815,,
+Freimann,Freimann House,Q20502434,14,1,1,"house in Rishon LeZion, Israel",,Q3947,,
+Freimann,Freimannsturm,Q37974732,14,1,1,,,Q2065736,,
+Freimann,Freimanner Heide,Q65952826,14,1,1,"park in Schwabing-Freimann, Germany",,Q22698,,
+Germany,Germany,Q183,14,2,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,14,2,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,14,2,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,14,2,1,family name,,Q101352,,
+Germany,Germany,Q138527606,14,2,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,14,2,1,,,Q1980247,,
+Germany,Germany,Q133933103,14,2,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,14,2,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,14,2,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,14,2,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,14,2,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,14,2,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,14,2,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,14,2,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,14,2,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,14,2,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,14,2,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,14,2,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,14,2,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,14,2,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,14,2,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,14,2,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,14,2,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,14,2,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,14,2,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,14,2,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,14,2,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,14,2,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,14,2,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,14,2,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,14,2,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,14,2,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,14,2,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,14,2,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,14,2,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,14,2,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,14,2,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,14,2,2,scholarly article,,Q13442814,,
+Wasserturm,Wasserturm,Q877414,15,0,1,Wasserturm im 10. Wiener Gemeindebezirk,,Q274153,,
+Wasserturm,Wasserturm,Q23786629,15,0,1,"cultural heritage monument D-1-62-000-7802 (0) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q65952766,15,0,1,"cultural heritage monument D-1-62-000-7821 (2) in München, Bavaria",,Q274153,,
+Wasserturm,Wasserturm,Q49364926,15,0,1,"house in Niederwiesa, Germany",,Q3947,,
+Wasserturm,Wasserturm,Q98634198,15,0,1,"cultural heritage monument D-5-71-198-37 (1) in Bronnenhaus (Schillingsfürst), Middle Franconia, Germany",Stilzendorf 25 in Schillingsfürst,Q274153,,
+Wasserturm,Wasserturm,Q2551817,15,0,1,"Historical tower connected to Kapellbrücke, a wooden bridge across the Reuss River in Lucerne (Switzerland)",,Q274153,,
+Wasserturm,Wasserturm (Ismaning),Q1378943,15,0,1,tower,Wasserturm,Q274153|Q1569871,,
+Wasserturm,Wasserturm,Q2551792,15,0,1,"tower in Hannover, Germany",,Q274153|Q18674739,,
+Wasserturm,Munich-Aubing water tower,Q758488,15,0,1,tower,Wasserturm,Q12518|Q274153,,
+Wasserturm,water tower,Q274153,15,0,1,elevated structure supporting a water tank,,,Q12518|Q7973769|Q1516537,Water tower
+Wasserturm,Wasserturm Torgauer Straße,Q49271854,15,0,2,"heritage building in Saxony, Germany",,Q274153,,
+Torgau,Torgau,Q12062,15,1,1,"town in Saxony, Germany",,Q448801|Q1547289,,Torgau
+Torgau,Torgau railway station,Q78768999,15,1,1,railway station in Torgau in Germany,,Q55488|Q1793804,,
+Torgau,Torgau cemetery,Q49593373,15,1,1,cemetery in Torgau (Saxony),,Q39614,,
+Torgau,Torgau bridgehead,Q49593311,15,1,1,bridgehead in Torgau (Saxony),,Q996524|Q1516079,,
+Torgau,Torgau–Belgern railway,Q803327,15,1,1,former railway line in Germany,,Q728937|Q357685,,
+Torgau,Torgauer Straße,Q106838301,15,1,1,"street in Zinna, Saxony, Germany",,Q79007|Q561431,,
+Torgau,Torgauer Straße,Q101092971,15,1,1,"street in Staupitz (Torgau), Saxony, Germany",,Q79007|Q896009,,
+Torgau,Torgau harbour,Q101230751,15,1,1,inland port in Germany,,Q863915,,
+Torgau,Torgau,Q7825702,15,1,1,race horse,,Q726,,Torgau (horse)
+Torgau,Torgauer Artikel,Q1377071,15,1,1,series of theological reports on church ceremonies,,Q855232,,
+Torgau,Wasserturm Torgauer Straße,Q49271854,15,1,2,"heritage building in Saxony, Germany",,Q274153,,
+Germany,Germany,Q183,15,2,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,15,2,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,15,2,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,15,2,1,family name,,Q101352,,
+Germany,Germany,Q138527606,15,2,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,15,2,1,,,Q1980247,,
+Germany,Germany,Q133933103,15,2,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,15,2,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,15,2,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,15,2,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,15,2,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,15,2,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,15,2,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,15,2,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,15,2,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,15,2,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,15,2,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,15,2,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,15,2,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,15,2,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,15,2,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,15,2,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,15,2,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,15,2,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,15,2,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,15,2,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,15,2,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,15,2,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,15,2,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,15,2,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,15,2,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,15,2,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,15,2,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,15,2,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,15,2,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,15,2,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,15,2,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,15,2,2,scholarly article,,Q13442814,,
+Hiekkaharju water tower,Hiekkaharju water tower,Q87412960,16,0,1,water tower in Vantaa,,Q274153,,
+Hiekkaharju water tower,Hiekkaharju water tower,Q65414355,16,0,1,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Simonkylä,Simonkylä,Q10668111,16,1,1,"city district in Vantaa, Finland",,Q28480345,,Simonkylä
+Simonkylä,Simonkyläntie,Q20250130,16,1,1,road in Finland,,Q3445465,,
+Simonkylä,Simonkylä,Q103936816,16,1,1,,,Q103910453,,
+Simonkylä,Simonkylä School,Q5412813,16,1,1,"primary school in Vantaa, Finland",,Q9842|Q10509147,,
+Simonkylä,Simonkylä,Q11893577,16,1,1,,,Q532,,
+Simonkylä,Simonkylän ja Simoniemen kyläasutus,Q30506178,16,1,1,,,Q30445031,,
+Simonkylä,Simonkylä,Q10668105,16,1,1,Wikimedia disambiguation page,,Q4167410,,
+Simonkylä,Simonkylän koulu,Q5409297,16,1,1,Wikimedia disambiguation page,,Q4167410,,
+Simonkylä,Hiekkaharju water tower,Q87412960,16,1,2,water tower in Vantaa,,Q274153,,
+Simonkylä,Hiekkaharju water tower,Q65414355,16,1,2,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Simonkylä,Finland,Q33,16,1,2,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Simonkylä,Grand Duchy of Finland,Q62633,16,1,2,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Simonkylä,Finnish National Gallery,Q2983474,16,1,2,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Simonkylä,Social Democratic Party of Finland,Q499029,16,1,2,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Simonkylä,Finland,Q5450446,16,1,2,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Simonkylä,Finland,Q23045056,16,1,2,1911 documentary film,,Q11424,,
+Simonkylä,Swedish-speaking population of Finland,Q726673,16,1,2,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Simonkylä,Finland,Q135499866,16,1,2,1992 studio album by David Shutrick,,Q482994,,
+Simonkylä,Southwest Finland,Q5712,16,1,2,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Simonkylä,Finland men's national football team,Q186532,16,1,2,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Finland,Finland,Q33,16,2,1,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Finland,Grand Duchy of Finland,Q62633,16,2,1,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Finland,Finnish National Gallery,Q2983474,16,2,1,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Finland,Social Democratic Party of Finland,Q499029,16,2,1,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Finland,Finland,Q5450446,16,2,1,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Finland,Finland,Q23045056,16,2,1,1911 documentary film,,Q11424,,
+Finland,Swedish-speaking population of Finland,Q726673,16,2,1,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Finland,Finland,Q135499866,16,2,1,1992 studio album by David Shutrick,,Q482994,,
+Finland,Southwest Finland,Q5712,16,2,1,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Finland,Finland men's national football team,Q186532,16,2,1,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Finland,Hiekkaharju water tower,Q87412960,16,2,2,water tower in Vantaa,,Q274153,,
+Finland,Hiekkaharju water tower,Q65414355,16,2,2,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Finland,Simonkylä,Q10668111,16,2,2,"city district in Vantaa, Finland",,Q28480345,,Simonkylä
+Finland,Simonkyläntie,Q20250130,16,2,2,road in Finland,,Q3445465,,
+Finland,Simonkylä,Q103936816,16,2,2,,,Q103910453,,
+Finland,Simonkylä School,Q5412813,16,2,2,"primary school in Vantaa, Finland",,Q9842|Q10509147,,
+Finland,Simonkylä,Q11893577,16,2,2,,,Q532,,
+Finland,Simonkylän ja Simoniemen kyläasutus,Q30506178,16,2,2,,,Q30445031,,
+Finland,Simonkylä,Q10668105,16,2,2,Wikimedia disambiguation page,,Q4167410,,
+Finland,Simonkylän koulu,Q5409297,16,2,2,Wikimedia disambiguation page,,Q4167410,,
+Hiekkaharju water tower,Hiekkaharju water tower,Q87412960,17,0,1,water tower in Vantaa,,Q274153,,
+Hiekkaharju water tower,Hiekkaharju water tower,Q65414355,17,0,1,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Hiekkaharju,Hiekkaharju,Q3735539,17,1,1,"city district in Vantaa, Finland",Sandkulla,Q28480345,,Hiekkaharju
+Hiekkaharju,Hiekkaharju railway station,Q4348967,17,1,1,"railway station in Vantaa, Finland",,Q55488|Q22808404|Q2451577,,Hiekkaharju railway station
+Hiekkaharju,Hiekkaharju,Q65109542,17,1,1,,,Q1937879,,
+Hiekkaharju,"Hiekkaharju, outdoorgym",Q112800094,17,1,1,outdoor gym,,Q692630,,
+Hiekkaharju,Hiekkaharju water tower,Q87412960,17,1,1,water tower in Vantaa,,Q274153,,
+Hiekkaharju,Hiekkaharju school,Q25451874,17,1,1,"primary school in Vantaa, Finland",,Q10509147,,
+Hiekkaharju,Hiekkaharju water tower,Q65414355,17,1,1,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Hiekkaharju,Hiekkaharju Library,Q77562815,17,1,1,"Public library in Vantaa, Finland, part of Vantaa City Library",,Q28564,,
+Hiekkaharju,Hiekkaharjun paloasema,Q11862525,17,1,1,,,Q1195942,,
+Finland,Finland,Q33,17,2,1,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Finland,Grand Duchy of Finland,Q62633,17,2,1,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Finland,Finnish National Gallery,Q2983474,17,2,1,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Finland,Social Democratic Party of Finland,Q499029,17,2,1,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Finland,Finland,Q5450446,17,2,1,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Finland,Finland,Q23045056,17,2,1,1911 documentary film,,Q11424,,
+Finland,Swedish-speaking population of Finland,Q726673,17,2,1,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Finland,Finland,Q135499866,17,2,1,1992 studio album by David Shutrick,,Q482994,,
+Finland,Southwest Finland,Q5712,17,2,1,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Finland,Finland men's national football team,Q186532,17,2,1,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Finland,Hiekkaharju,Q3735539,17,2,2,"city district in Vantaa, Finland",Sandkulla,Q28480345,,Hiekkaharju
+Finland,Hiekkaharju railway station,Q4348967,17,2,2,"railway station in Vantaa, Finland",,Q55488|Q22808404|Q2451577,,Hiekkaharju railway station
+Finland,Hiekkaharju,Q65109542,17,2,2,,,Q1937879,,
+Finland,"Hiekkaharju, outdoorgym",Q112800094,17,2,2,outdoor gym,,Q692630,,
+Finland,Hiekkaharju water tower,Q87412960,17,2,2,water tower in Vantaa,,Q274153,,
+Finland,Hiekkaharju school,Q25451874,17,2,2,"primary school in Vantaa, Finland",,Q10509147,,
+Finland,Hiekkaharju water tower,Q65414355,17,2,2,"water tower in Simonkylä, Vantaa",Tikkurila water tower,Q274153,,
+Finland,Hiekkaharju Library,Q77562815,17,2,2,"Public library in Vantaa, Finland, part of Vantaa City Library",,Q28564,,
+Finland,Hiekkaharjun paloasema,Q11862525,17,2,2,,,Q1195942,,
+Watertoren,Watertoren,Q132897126,18,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,18,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,18,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Hoogeveen,Hoogeveen,Q208012,18,1,1,"municipality in Drenthe, the Netherlands",,Q2039348,,Hoogeveen
+Hoogeveen,Hoogeveen,Q18691547,18,1,1,"town in Hoogeveen Municipality, Netherlands",,Q3957|Q1852859,,
+Hoogeveen,Hoogeveen,Q68229203,18,1,1,"former municipality in Delfland, Netherlands",,Q2039348,,
+Hoogeveen,Hoogeveen,Q68229202,18,1,1,"former municipality in Rijnland, Netherlands",,Q2039348,,
+Hoogeveen,Hoogeveen,Q37052445,18,1,1,family name,,Q101352,,
+Hoogeveen,Hoogeveen railway station,Q47337,18,1,1,railway station in the Dutch village of Hoogeveen,,Q55488,,Hoogeveen railway station
+Hoogeveen,"Hoogeveen, Nootdorp",Q2923806,18,1,1,beginning 19th century separate from Nootdorp,,Q486972,,"Hoogeveen, Nootdorp"
+Hoogeveen,Hoogeveen interchange,Q2092158,18,1,1,interchange in the Netherlands,,Q2376564|Q11075207,,
+Hoogeveen,electoral district Hoogeveen,Q107650652,18,1,1,electoral district in the Netherlands (1848-1850),,Q130377399,,
+Hoogeveen,Hoogeveenkanaal,Q32060248,18,1,1,,,Q12284,,
+Netherlands,Netherlands,Q55,18,2,1,one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean,Holland|the Netherlands|Nederland|Nederlanden|de Nederlanden|NL|NLD,Q15304003|Q6256,,Netherlands
+Netherlands,Kingdom of the Netherlands,Q29999,18,2,1,transcontinental sovereign state and constitutional monarchy,Netherlands|the Netherlands|Nederlanden|Kingdom of Netherlands,Q3624078|Q417175|Q20181813|Q1250464|Q6256,,Kingdom of the Netherlands
+Netherlands,Low Countries,Q476033,18,2,1,historical coastal landscape in north western Europe,Low Lands|Netherlands,Q1620908,,Low Countries
+Netherlands,Netherlands,Q16250490,18,2,1,constituency of the European Parliament,,Q2631496,,Netherlands (European Parliament constituency)
+Netherlands,Dutch Republic,Q170072,18,2,1,predecessor state of the Netherlands (1581–1795),Republic of the Seven United Netherlands|Republic of the United Netherlands|Republic of the Seven United Provinces|United Provinces|Federated Dutch Provinces|Dutch Federation|United Provinces of the Netherlands|Netherlands (1581–1795)|Republic of the Netherlands|Republiek der Zeven Verenigde Nederlanden,Q3624078|Q3024240|Q20181813|Q170156,,Dutch Republic
+Netherlands,RKD - Nederlands Instituut voor Kunstgeschiedenis,Q758610,18,2,1,Dutch national documentation centre of art history,RKD-Nederlands Instituut voor Kunstgeschiedenis|rkd.nl|Netherlands Institute for Art History,Q166118|Q4671277|Q2659904,,Netherlands Institute for Art History
+Netherlands,Dutch East Indies,Q188161,18,2,1,Dutch colony in Southeast Asia and Oceania (1800–1949),Netherlands East Indies|Dutch Indies|Nederlands-Indië|Netherlands Indies|Insulinde,Q3024240|Q133156,,Dutch East Indies
+Netherlands,Sovereign Principality of the United Netherlands,Q774783,18,2,1,precursor of the United Kingdom of the Netherlands from 1813 to 1815,Soeverein Vorstendom der Verenigde Nederlanden|Principauté Souveraine des Pays-Bas Unis|Principaute Souveraine des Pays-Bas Unis|Netherlands,Q3024240|Q3624078,,Sovereign Principality of the United Netherlands
+Netherlands,Netherlands Organisation for Applied Scientific Research,Q1867222,18,2,1,Dutch organisation,TNO,Q31855|Q43229,,Netherlands Organisation for Applied Scientific Research
+Netherlands,Netherlands journal of medicine,Q26842171,18,2,1,journal,The Netherlands journal of medicine,Q5633421|Q773668,,
+Netherlands,Kingdom of the Netherlands borders,Q87763073,18,2,2,international border,National border of the Netherlands,Q12413618|Q1292279,,
+Netherlands,tennis in the Kingdom of the Netherlands,Q47500689,18,2,2,overview of tennis in the Kingdom of the Netherlands,Dutch tennis|Kingdom of the Netherlands tennis,Q29791211,,
+Netherlands,Kingdom of the Netherlands-United Arab Emirates Bilateral Investment Treaty,Q136391485,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and United Arab Emirates,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Russia Bilateral Investment Treaty,Q136391498,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Russia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovenia Bilateral Investment Treaty,Q136391494,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovenia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovakia Bilateral Investment Treaty,Q136391495,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovakia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Philippines Bilateral Investment Treaty,Q136391501,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Philippines,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Zimbabwe Bilateral Investment Treaty,Q136391478,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Zimbabwe,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Thailand Bilateral Investment Treaty,Q136391489,18,2,2,bilateral investment treaty between Kingdom of the Netherlands and Thailand,,Q1671773,,
+Netherlands,Holland,Q1624734,18,2,2,family name,,Q101352,,Holland (surname)
+Netherlands,Holland,Q21144565,18,2,2,unisex given name,Holland (given name)|Holland (first name),Q3409032,,
+Netherlands,Holland,Q102911,18,2,2,region and former province in the western Netherlands,"County of Holland|Holland, Netherlands|Province of Holland",Q82794|Q1620908,,Holland
+Netherlands,Hollands Kroon,Q9936,18,2,2,municipality in the Netherlands,,Q2039348,,Hollands Kroon
+Netherlands,Holland,Q105964075,18,2,2,,,Q5,,
+Netherlands,William Jacob Holland,Q1502788,18,2,2,"American zoologist, palaeontologist, and Presbyterian minister (1848–1932)",Holland|William J. Holland|W. J. Holland,Q5,,William Jacob Holland
+Netherlands,Holland,Q1001742,18,2,2,"city in Ottawa and Allegan counties in Michigan, United States","Holland, Michigan|Holland, MI",Q1093829,,"Holland, Michigan"
+Netherlands,Holland Roden,Q1189370,18,2,2,American actress,Holland Marie Roden,Q5,,Holland Roden
+Netherlands,Dutch,Q7411,18,2,2,West Germanic language,Dutch language|Netherlandic|Netherlandic language|Netherlandish|Netherlandish language,Q138638548,Q153050,Dutch language
+Watertoren,Watertoren,Q132897126,19,0,1,"watertower in Sint-Kruis, Bruges, Belgium",Watertower (Sint-Kruis),Q274153,,
+Watertoren,Watertoren,Q2317781,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2243350,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2201776,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2330441,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2384504,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2344410,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q4297615,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q5164572,19,0,1,,,Q274153,,
+Watertoren,Watertoren,Q2312600,19,0,1,"Rijksmonument in Doetinchem, the Netherlands",Watertoren Doetinchem|Watertoren Terborgseweg|rijksmonumentnummer 513133,Q274153,,
+Vught,Vught,Q9876,19,1,1,municipality in the Netherlands,,Q2039348,,Vught
+Vught,Vught,Q12013510,19,1,1,"village in Vught, the Netherlands",,Q532|Q1852859,,
+Vught,Vught,Q104837392,19,1,1,family name,,Q101352,,
+Vught,Vught,Q18773241,19,1,1,Concentration camp,,Q1497375,,
+Vught,Vught railway station,Q1893367,19,1,1,railway station in the Netherlands,,Q55488|Q1339195,,Vught railway station
+Vught,Vught interchange,Q1926020,19,1,1,interchange in the Netherlands,,Q2376564|Q1861288,,
+Vught,Vught,Q110394686,19,1,1,1953 watercolor painting by Cor Dik,Vught,Q18761202,,
+Vught,Herzogenbusch concentration camp,Q153713,19,1,1,"Nazi concentration camp in Vught, Netherlands (1940-1944)",KZ Herzogenbusch,Q328468|Q5996900|Q43229,,Herzogenbusch concentration camp
+Vught,Vughterstraat,Q2348470,19,1,1,"street in 's-Hertogenbosch, the Netherlands",,Q79007,,
+Vught,'s-Hertogenbosch-West junction,Q96578292,19,1,1,,'s-Hertogenbosch-West A65 junction|Vught-Centrum junction,Q2338869,,
+Netherlands,Netherlands,Q55,19,2,1,one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean,Holland|the Netherlands|Nederland|Nederlanden|de Nederlanden|NL|NLD,Q15304003|Q6256,,Netherlands
+Netherlands,Kingdom of the Netherlands,Q29999,19,2,1,transcontinental sovereign state and constitutional monarchy,Netherlands|the Netherlands|Nederlanden|Kingdom of Netherlands,Q3624078|Q417175|Q20181813|Q1250464|Q6256,,Kingdom of the Netherlands
+Netherlands,Low Countries,Q476033,19,2,1,historical coastal landscape in north western Europe,Low Lands|Netherlands,Q1620908,,Low Countries
+Netherlands,Netherlands,Q16250490,19,2,1,constituency of the European Parliament,,Q2631496,,Netherlands (European Parliament constituency)
+Netherlands,Dutch Republic,Q170072,19,2,1,predecessor state of the Netherlands (1581–1795),Republic of the Seven United Netherlands|Republic of the United Netherlands|Republic of the Seven United Provinces|United Provinces|Federated Dutch Provinces|Dutch Federation|United Provinces of the Netherlands|Netherlands (1581–1795)|Republic of the Netherlands|Republiek der Zeven Verenigde Nederlanden,Q3624078|Q3024240|Q20181813|Q170156,,Dutch Republic
+Netherlands,RKD - Nederlands Instituut voor Kunstgeschiedenis,Q758610,19,2,1,Dutch national documentation centre of art history,RKD-Nederlands Instituut voor Kunstgeschiedenis|rkd.nl|Netherlands Institute for Art History,Q166118|Q4671277|Q2659904,,Netherlands Institute for Art History
+Netherlands,Dutch East Indies,Q188161,19,2,1,Dutch colony in Southeast Asia and Oceania (1800–1949),Netherlands East Indies|Dutch Indies|Nederlands-Indië|Netherlands Indies|Insulinde,Q3024240|Q133156,,Dutch East Indies
+Netherlands,Sovereign Principality of the United Netherlands,Q774783,19,2,1,precursor of the United Kingdom of the Netherlands from 1813 to 1815,Soeverein Vorstendom der Verenigde Nederlanden|Principauté Souveraine des Pays-Bas Unis|Principaute Souveraine des Pays-Bas Unis|Netherlands,Q3024240|Q3624078,,Sovereign Principality of the United Netherlands
+Netherlands,Netherlands Organisation for Applied Scientific Research,Q1867222,19,2,1,Dutch organisation,TNO,Q31855|Q43229,,Netherlands Organisation for Applied Scientific Research
+Netherlands,Netherlands journal of medicine,Q26842171,19,2,1,journal,The Netherlands journal of medicine,Q5633421|Q773668,,
+Netherlands,Kingdom of the Netherlands borders,Q87763073,19,2,2,international border,National border of the Netherlands,Q12413618|Q1292279,,
+Netherlands,tennis in the Kingdom of the Netherlands,Q47500689,19,2,2,overview of tennis in the Kingdom of the Netherlands,Dutch tennis|Kingdom of the Netherlands tennis,Q29791211,,
+Netherlands,Kingdom of the Netherlands-United Arab Emirates Bilateral Investment Treaty,Q136391485,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and United Arab Emirates,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Russia Bilateral Investment Treaty,Q136391498,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Russia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovenia Bilateral Investment Treaty,Q136391494,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovenia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovakia Bilateral Investment Treaty,Q136391495,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Slovakia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Philippines Bilateral Investment Treaty,Q136391501,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Philippines,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Zimbabwe Bilateral Investment Treaty,Q136391478,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Zimbabwe,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Thailand Bilateral Investment Treaty,Q136391489,19,2,2,bilateral investment treaty between Kingdom of the Netherlands and Thailand,,Q1671773,,

@@ -1,0 +1,54 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+NGC 1162,NGC 1162,Q1041899,0,0,1,galaxy,,Q318|Q184348,,NGC 1162
+NGC 4829,NGC 4829,Q1114659,1,0,1,elliptical galaxy in the constellation of Virgo,,Q318|Q184348,,
+IC 3303,IC 3303,Q3687177,2,0,1,galaxy,,Q184348|Q67206691|Q67206701|Q71798532,,
+UGC 6300,UGC 6300,Q60225931,3,0,1,galaxy,,Q184348,,
+UGC 6300,NGC 6300,Q1998308,3,0,2,galaxy,,Q213930|Q28738741|Q1931185|Q67206691|Q2154519|Q71965638|Q71962386,,NGC 6300
+NGC 233,NGC 233,Q568599,4,0,1,galaxy,,Q318|Q184348,,NGC 233
+NGC 233,NGC 2335,Q1048293,4,0,1,open cluster,,Q11387,,
+NGC 233,NGC 2337,Q1048316,4,0,1,galaxy,,Q318|Q67206691,,
+NGC 233,NGC 2332,Q1048267,4,0,1,lenticular galaxy in the constellation Lynx,UGC 3699,Q221221|Q192078|Q1931185|Q2154519,,
+NGC 233,NGC 2330,Q1048252,4,0,1,galaxy,,Q318|Q184348,,
+NGC 233,NGC 2333,Q1048273,4,0,1,galaxy,,Q318|Q67206691|Q2488,,
+NGC 233,NGC 2334,Q1048281,4,0,1,galaxy,,Q318|Q192078,,
+NGC 233,NGC 2331,Q1048259,4,0,1,star cluster,,Q168845|Q11387,,
+NGC 233,NGC 2338,Q1048324,4,0,1,star cluster,,Q168845|Q11387,,
+NGC 233,NGC 2336,Q1048302,4,0,1,galaxy,,Q318|Q67206691|Q195577,,NGC 2336
+PGC 64787,PGC 64787,Q60247393,5,0,1,galaxy,,Q184348,,
+PGC 59560,PGC 59560,Q60245825,6,0,1,galaxy,,Q184348|Q1151284,,
+NGC 1957,NGC 1957,Q1046187,7,0,1,galaxy,,Q318|Q184348,,
+UGC 2398,UGC 2398,Q60223611,8,0,1,galaxy,,Q184348,,
+UGC 2398,NGC 2398-1,Q1048903,8,0,2,galaxy,,Q318|Q2488,,
+UGC 2398,NGC 2398,Q2393322,8,0,2,galaxy,,Q318,,
+UGC 2398,NGC 2398-2,Q1048907,8,0,2,galaxy,,Q318|Q2488,,
+NGC 3634,NGC 3634,Q1105685,9,0,1,galaxy,,Q318|Q28738741|Q184348,,
+NGC 4065,NGC 4065,Q3392854,10,0,1,elliptical galaxy in the constellation Coma Berenices,NGC 4057,Q318|Q28738741|Q2154519|Q2557101|Q1151284|Q184348,,NGC 4065
+NGC 4065,NGC 4065 Group,Q65075021,10,0,1,group of Galaxies in the constellation of Coma Berenices,NAME NGC 4065 Group,Q204107|Q1491746,,NGC 4065 Group
+NGC 4065,spiral galaxy,Q2488,10,0,2,galaxy having a number of arms of younger stars that spiral out from the centre containing older ones,spiral-type galaxy,Q17444909,Q1371025,Spiral galaxy
+NGC 4065,Messier 106,Q4658,10,0,2,Spiral galaxy in the constellation Canes Venatici,Spiral Galaxy M106|Messier Object 106,Q213930|Q28738741|Q1931185|Q1341811|Q2154519|Q2488|Q71965638|Q2557101,,Messier 106
+NGC 4065,Spiral Galaxy,Q64513714,10,0,2,painting by Leo Katz,,Q3305213,,
+NGC 4065,Messier 108,Q4751,10,0,2,spiral galaxy in the constellation Ursa Major,Messier Object 108|Surfboard Galaxy|Spiral Galaxy M108|New General Catalogue 3556,Q1284344|Q1931185|Q67206691|Q726611,,Messier 108
+NGC 4065,Sombrero Galaxy,Q91461627,10,0,2,spiral or elliptical galaxy in the constellation Virgo,,Q2014003|Q1284344|Q2557101|Q1931185|Q2154519|Q67201524|Q67206691|Q67201574,,Sombrero Galaxy
+NGC 4065,Messier 109,Q4746,10,0,2,spiral galaxy in the constellation Ursa Major,Messier Object 109|Barred Spiral Galaxy M109|M109 galaxy|Spiral Galaxy M109|Barred Galaxy M109|New General Catalogue 3992,Q2490|Q67206691,,Messier 109
+NGC 4065,Spiral Galaxy,Q55633705,10,0,2,sculpture,,Q860861,,Spiral Galaxy (sculpture)
+NGC 4065,Spiral galaxy distance indicators based on near-infrared photometry,Q56931407,10,0,2,scientific article published on 21 November 1999,,Q13442814,,
+NGC 4065,Spiral galaxy - ICM interactions in the Virgo cluster,Q68355790,10,0,2,scientific article published in January 2004,,Q13442814,,
+NGC 4065,Spiral galaxy rotation curves in the Horava--Lifshitz gravity theory,Q69047829,10,0,2,scientific article published in January 2012,,Q13442814,,
+NGC 5886,NGC 5886,Q1123822,11,0,1,galaxy,,Q184348|Q192078,,NGC 5886
+CGCG 012-029,CGCG 012-029,Q60226112,12,0,1,galaxy,,Q184348,,
+NGC 3159,NGC 3159,Q1103284,13,0,1,galaxy,,Q318|Q1491746|Q184348,,
+IC 3413,IC 3413,Q3686873,14,0,1,galaxy,,Q184348,,
+IC 3413,NGC 3413,Q1104648,14,0,2,galaxy,,Q67206691|Q72802508|Q192078,,
+NGC 4240,NGC 4243,Q4026128,15,0,1,elliptical galaxy in the constellation Virgo,NGC 4240|PGC 39411,Q17362920,,
+NGC 4240,NGC 4240,Q1110112,15,0,1,elliptical galaxy in the constellation Virgo,,Q184348,,
+NGC 4291,NGC 4291,Q1110476,16,0,1,galaxy,,Q318|Q2154519|Q184348,,
+NGC 194,NGC 194,Q1035699,17,0,1,galaxy,"PGC 2362 MCG 00-02-105 UGC 407, CGCG 383-54",Q318|Q184348,,NGC 194
+NGC 194,NGC 1948,Q578053,17,0,1,stellar association,,Q736194|Q9262|Q11282|Q207436,,
+NGC 194,NGC 1942,Q1256257,17,0,1,globular cluster in the constellation Dorado,New General Catalogue 1942,Q11276|Q318,,
+NGC 194,NGC 1947,Q1046153,17,0,1,galaxy,,Q318|Q67206691|Q192078,,NGC 1947
+NGC 194,NGC 1943,Q1046129,17,0,1,star cluster,,Q168845|Q523|Q318,,NGC 1943
+NGC 194,NGC 1946,Q1046148,17,0,1,star cluster,,Q168845|Q318,,
+NGC 194,NGC 1941,Q1046121,17,0,1,star cluster,,Q168845,,
+NGC 194,NGC 1944,Q1046134,17,0,1,star cluster,,Q168845|Q523|Q318,,
+NGC 194,NGC 1940,Q1046114,17,0,1,star cluster,,Q168845|Q318,,
+NGC 194,NGC 1949,Q1046158,17,0,1,star cluster,,Q168845|Q523|Q318|Q11282,,

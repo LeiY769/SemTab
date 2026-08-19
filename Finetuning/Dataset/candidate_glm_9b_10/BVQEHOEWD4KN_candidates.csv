@@ -1,0 +1,42 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Greenland,Greenland,Q223,0,0,1,autonomous territory of the Kingdom of Denmark and world's largest island,Groenland|Kalaallit Nunaat|Greenlandia|GL|GRL,Q66724388|Q192611|Q112099|Q161243|Q6256|Q788176|Q140892892,,Greenland
+Greenland,Greenland,Q4148644,0,0,1,island located between the Arctic Ocean and the North Atlantic Ocean,,Q23442|Q312461,,Greenland (island)
+Greenland,Greenland,Q126694404,0,0,1,2024 video game,,Q7889,,
+Greenland,Greenland,Q140242289,0,0,1,,,Q1980247,,
+Greenland,Greenland,Q2417079,0,0,1,"town in Rockingham County, New Hampshire, United States of America","Greenland, New Hampshire|Greenland NH|Greenland N.H.|Greenland, NH",Q15127012,,"Greenland, New Hampshire"
+Greenland,Greenland,Q73897733,0,0,1,2020 film directed by Ric Roman Waugh,,Q11424,,Greenland (film)
+Greenland,Greenland,Q79241,0,0,1,"city in Arkansas, USA","Greenland, Arkansas|Greenland, AR",Q1093829,,"Greenland, Arkansas"
+Greenland,Greenlandic,Q25355,0,0,1,Eskimo-Aleut language spoken in Greenland,Greenlandic Inuktitut|Kalaallisut|Greenlandic Inuit language|Kalaallisut language|Greenlandic Inuktitut language|Greenlandic Eskimo language|Greenlandic Eskimo|Greenlandic language,Q33742|Q1288568,Q27796|Q51739,Greenlandic language
+Greenland,Greenland,Q3556018,0,0,1,"village in Saint Andrew, Barbados","Greenland, Barbados",Q532,,"Greenland, Barbados"
+Greenland,Greenland,Q5604206,0,0,1,"unincorporated community in Grant County, West Virginia","Greenland, West Virginia|Greenland, WV",Q17343829,,"Greenland, West Virginia"
+Greenland,Kingdom of Denmark,Q756617,0,0,2,transcontinental sovereign state and constitutional monarchy,Realm of Denmark|Denmark|Danmarks Rige|Danmarkar Ríki|Danmarkip Naalagaaffik|Kongeriget Danmark|Kongsríki Danmarkar|Kunngeqarfik Danmarki|Danish Commonwealth|Danish Realm,Q3624078|Q41614|Q417175|Q20181813|Q179164|Q1250464|Q1323642|Q6256,,Danish Realm
+Greenland,Kingdom of Denmark,Q28846511,0,0,2,historical country,,Q6256|Q3024240,,
+Greenland,Canada–Denmark border,Q139677270,0,0,2,international border,border between Canada and Denmark|Border between Denmark and Canada|Canada-Denmark border|Denmark–Canada border|Denmark-Canada border|Canada–Kingdom of Denmark border|Kingdom of Denmark–Canada border|Canada-Kingdom of Denmark border|Kingdom of Denmark-Canada border,Q133346|Q15104814|Q3089219|Q12413618,,
+Greenland,COVID-19 pandemic in Danish Realm,Q104720444,0,0,2,,Danish Realm COVID-19 pandemic|2020 Danish Realm COVID-19 pandemic|COVID pandemic in Danish Realm,Q3241045,,
+Greenland,Greenlandic Norse,Q855236,0,0,2,extinct North Germanic language spoken by Norse settlers in Greenland,Greenlandic Norse language|Greenlandic,Q34770,Q35505|Q2377483,Greenlandic Norse
+Greenland,Greenlandic Football Championship,Q1104981,0,0,2,top football division in Greenland,Coca Cola GM,Q15991303,Q3270632,Greenlandic Football Championship
+Greenland,Greenland Badminton Championships,Q1551671,0,0,2,badminton championships,Greenlandic Badminton Championships,Q18608583,Q3270632|Q13357858,Greenlandic National Badminton Championships
+Greenland,Greenlandic Junior Badminton Championships,Q1551665,0,0,2,badminton championships,,Q18608583,Q13357858,
+Greenland,Greenlandic Inuit people,Q887850,0,0,2,nationals of Greenland,,Q41710,Q189975,Greenlandic Inuit
+Greenland,Greenlandic general election,Q22276331,0,0,2,,,Q107359024,Q2618461,
+Greenland,Greenlandic Wikipedia,Q3568042,0,0,2,"former Greenlandic-language edition of Wikipedia, deleted on 2025-12-02",,Q138580578,,Greenlandic Wikipedia
+Greenland,Greenlanders,Q101444758,0,0,2,citizens or residents of Greenland,Greenlandic people|Greenland residents|Greenland inhabitants,Q33829|Q6266,Q96158230|Q164714|Q22947,Greenlanders
+Greenland,Greenlandic Women's Handball Championship,Q96379919,0,0,2,,,Q18608583,,Greenlandic Women's Handball Championship
+Greenland,Dorset culture,Q603749,0,0,2,Paleo-Eskimo culture (500 BCE–1500 CE) that preceded the Inuit in the Arctic of North America,Dorset Tradition|Kalaallit Nunaat,Q465299,,Dorset culture
+Greenland,Kalaallit Nunaata Radioa,Q1636257,0,0,2,public broadcasting organization of Greenland,Greenlandic Broadcasting Corporation|Greenland Broadcasting Company|Greenland National Broadcasting Company,Q4830453,,Kalaallit Nunaata Radioa
+Greenland,Texoprint,Q127684878,0,0,2,Dutch rock band,Kalaallit Nunaat,Q215380,,
+Greenland,Kalaallit Nunaat high arctic tundra,Q27070747,0,0,2,Ecoregion (WWF),,Q6617741,,Kalaallit Nunaat high arctic tundra
+Greenland,Kalaallit Nunaat Arctic Steppe,Q3532940,0,0,2,Ecoregion (WWF),,Q6617741,,Kalaallit Nunaat Arctic Steppe
+Greenland,Kalaallit Nunaat High Arctic Tundra Ecoregion,Q124402639,0,0,2,One Earth Ecoregion,,Q124221947,,
+Greenland,Kalaallit Nunaat Arctic Steppe Ecoregion,Q124401526,0,0,2,One Earth Ecoregion,,Q124221947,,
+Greenland,Greenland,Q106254662,0,0,2,constituency of the Folketing,,Q192611,,Greenland (Folketing constituency)
+Iceland,Iceland,Q189,1,0,1,Nordic island country in the North Atlantic Ocean,Republic of Iceland|Ysland|Isl.|Icelandic republic,Q112099|Q3624078|Q6256|Q140892892,,Iceland
+Iceland,Icelandic,Q294,1,0,1,North Germanic language mainly spoken in Iceland,Icelandic language|Íslenska|Iſlandic tongue,Q33742|Q1288568,Q1792570|Q106085,Icelandic language
+Iceland,Icelandic Wikipedia,Q718394,1,0,1,Icelandic-language edition of Wikipedia,Wikipedia in Icelandic|Icelandic-language Wikipedia|Islenska Wikipedia,Q10876391,,Icelandic Wikipedia
+Iceland,Iceland,Q3740828,1,0,1,main island of the Republic of Iceland,Iceland island,Q23442,,Iceland (island)
+Iceland,Icelanders,Q191356,1,0,1,ethnic group native to Iceland; citizens or residents of Iceland,Iceland residents|Icelandic people|Icelander,Q33829|Q6266|Q41710,Q394067|Q101094841|Q7429989|Q22947|Q122974170,Icelanders
+Iceland,Iceland men's national football team,Q189198,1,0,1,men's national association football team representing Iceland,Iceland men's national football team|Iceland men's national soccer team|Iceland national soccer team|Iceland soccer team|Iceland football team|Iceland national association football team|Iceland men's national association football team,Q135408445,Q1194951,Iceland national football team
+Iceland,Læknablaðið. The Islandic medical journal,Q26842530,1,0,1,journal,Icelandic Medical Journal|Læknablaðið,Q5633421|Q737498|Q773668,,
+Iceland,Icelandair,Q216645,1,0,1,flag carrier airline of Iceland,Iceland Air|Iceland airlines|Iceland Airways|FI|ICE,Q46970,,Icelandair
+Iceland,Governorate of Iceland,Q3591815,1,0,1,historical administrative territorial entity of Denmark,Governorate-General of Iceland|Iceland,Q19953632|Q11514315|Q782614,,
+Iceland,Iceland,Q721810,1,0,1,British supermarket chain,Iceland Foods Ltd|Iceland Foods|Iceland Supermarket|Iceland LTD|Iceland ltd|Iceland Grocery,Q4830453|Q507619|Q18043413,,Iceland (supermarket)

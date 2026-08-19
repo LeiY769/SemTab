@@ -1,0 +1,95 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Grafskoye,Grafskoye,Q1064673,0,0,1,"human settlement in Kaltasinsky District, Republic of Bashkortostan, Russia",,Q5084,,Grafskoye
+Novaya Starina,Novaya Starina,Q93809,1,0,1,"human settlement in Babayevsky District, Vologda Oblast, Russia",,Q5084,,Novaya Starina
+Novaya Starina,Novaya Zemlya,Q80413,1,0,2,Arctic archipelago in northern Russia,Nova Zembla|New Zemlya|Nova Semlia|Novasemlia|Nova Zemlia,Q1402592,,Novaya Zemlya
+Novaya Starina,Municipal Formation of Novaya Zemlya,Q4307309,1,0,2,"urban okrug in Arkhangelsk Oblast, Russia",Novaya Zemlya District,Q13626398,,Novaya Zemlya District
+Novaya Starina,Novaya Zemlya,Q83638615,1,0,2,bulk carrier built in 2009,IMO 9549281,Q15276,,
+Novaya Starina,Novaya Zemlya,Q2026745,1,0,2,2008 film by Aleksandr Melnik,,Q11424,,Terra Nova (2008 film)
+Novaya Starina,Novaya Zemlya,Q64144284,1,0,2,glacier in Russia,,Q35666,,
+Novaya Starina,Novaya Zemlya,Q124415210,1,0,2,,,Q3331189,,
+Novaya Starina,Novaya Zemlya,Q117103329,1,0,2,fishing vessel built in 2001,IMO 9249922,Q1420024,,
+Novaya Starina,Mount Kruzenshtern,Q31243910,1,0,2,mountain in Russia,Novaya Zemlya High Point|Krusenstern|Mount Krusenstern|Severny Island High Point,Q8502|Q3393392,,Mount Kruzenshtern
+Novaya Starina,Novaya Zemlya effect,Q2066340,1,0,2,polar mirage caused by high refraction of sunlight between atmospheric thermal layers,,Q308762,,Novaya Zemlya effect
+Novaya Starina,Novaya Zemlya Test Site,Q11703929,1,0,2,"Military and nuclear use zone in the Novaya Zemlya region, Russia",,Q53732481,,
+Aygyryal,Aygyryal,Q1055218,2,0,1,"human settlement in Belokataysky District, Republic of Bashkortostan, Russia",,Q5084,,Aygyryal
+Mariysky Bikshik,Mariysky Bikshik,Q1064597,3,0,1,"human settlement in Kaltasinsky District, Republic of Bashkortostan, Russia",,Q5084,,Mariysky Bikshik
+Mariysky Bikshik,Mari,Q3195783,3,0,2,female given name,Mari (given name)|Mari (first name),Q11879590,,Mari (given name)
+Mariysky Bikshik,Maria,Q325872,3,0,2,female given name,,Q11879590,,Maria (given name)
+Mariysky Bikshik,Mari,Q29905304,3,0,2,family name,,Q101352,,Mari (surname)
+Mariysky Bikshik,Mary,Q345,3,0,2,mother of Jesus Christ,"St Mary the Virgin|Madonna|The Blessed Virgin Mary|Queen of the Universe|Saint Mary|God-Bearer|Maria|Miriam|Mother of God|Blessed Virgin|Our Lady|Virgin God-Bearer|Holy Mary|Mary the Virgin|Holy Virgin|Mary, mother of Jesus|Mīryām|Blessed Virgin Mary|Most Blessed|Blessed Mother|Immaculate Mary|The Blessed Virgin|Maryam|Mother of Jesus|The Madonna|Mary, Mother of our Lord|The Blessed Mother|Notre Dame|the Virgin Mary|Theotokos|Virgin Mary",Q20643955|Q5,,"Mary, mother of Jesus"
+Mariysky Bikshik,Mari,Q16421882,3,0,2,male given name,,Q12308941,,
+Mariysky Bikshik,Marie,Q632104,3,0,2,unisex given name,Marie (first name)|Marie (given name),Q3409032,,Marie (given name)
+Mariysky Bikshik,Mario,Q3362622,3,0,2,male given name,Mario (first name)|Mario (given name),Q12308941,,Mario (name)
+Mariysky Bikshik,Mari,Q973685,3,0,2,Uralic language,Mari language|Cheremis language|Cheremis,Q152559|Q34770|Q1288568,Q161236,Mari language
+Mariysky Bikshik,Marine Pollution Bulletin,Q15752858,3,0,2,scientific journal,,Q5633421|Q737498,,
+Mariysky Bikshik,Marina,Q1120708,3,0,2,female given name,Marina (given name)|Marina (first name),Q11879590,,Marina (given name)
+Khirlepposi,Khirlepposi,Q1777537,4,0,1,"human settlement in Tautovskoye Rural Settlement, Alikovsky District, Chuvash Republic, Russia",,Q5084,,Khirlepposi
+Novyye Karamaly,Novyye Karamaly,Q1053449,5,0,1,"human settlement in Aurgazinsky District, Republic of Bashkortostan, Russia",,Q5084,,Novyye Karamaly
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast","Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Q3987703,6,0,1,"human settlement in Ust-Kubinsky District, Vologda Oblast, Russia",,Q5084|Q532,,"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast"
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q19810654,6,0,2,"human settlement in Kortkerossky District, Komi Republic, Russia",Dzhiyan,Q192287|Q5084,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q4196565,6,0,2,"human settlement in Babayevsky District, Vologda Oblast, Russia",,Q5084,,"Ivanovskaya, Babayevsky District, Vologda Oblast"
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q4196564,6,0,2,"human settlement in Vashkinsky District, Vologda Oblast, Russia",,Q5084,,"Ivanovskaya, Vashkinsky District, Vologda Oblast"
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q4196563,6,0,2,"human settlement in Belozersky District, Vologda Oblast, Russia",,Q5084,,"Ivanovskaya, Belozersky District, Vologda Oblast"
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q15261541,6,0,2,"human settlement in Priluzsky District, Komi Republic, Russia",Ivanovsköy,Q5084,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya,Q16654878,6,0,2,"human settlement in Shatursky District, Moscow Oblast, Russia",,Q5084,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ispolkomskaya Street,Q4204182,6,0,2,"street in Saint Petersburg, Russia",Ivanovskaya,Q79007,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya volost,Q4196588,6,0,2,"human settlement in Nevelsky District, Pskov Oblast, Russia",,Q634099,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ivanovskaya railway station,Q2756675,6,0,2,railway station in Leningrad Oblast,,Q55488,,Ivanovskaya railway station
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Socialisticheskaya Street,Q3450079,6,0,2,"thoroughfare in Saint Petersburg, Russia",Ivanovskaya,Q83620,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Ust-Kubinsky District,Q2217917,6,0,2,"administrative division of Vologda Oblast, Russia",,Q2198484,,Ust-Kubinsky District
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",flag of Ust-Kubinsky District,Q4488198,6,0,2,,Ust-Kubinsky District flag,Q21850100,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q2015,6,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q7940642,6,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,6,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,6,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",history of Vologda Oblast,Q4204582,6,0,2,,Vologda Oblast history,Q17524420,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,6,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,6,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,6,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Ivanovskaya, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,6,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Chapel-le-Dale,Chapel-le-Dale,Q3695956,7,0,1,"village in North Yorkshire, England, UK","Chapel-le-Dale, North Yorkshire",Q532|Q5084,,Chapel-le-Dale
+Chapel-le-Dale,Chapel-le-Dale,Q122227275,7,0,1,"valley in the Yorkshire Dales, England",,Q39816,,Chapel-le-Dale (valley)
+Undley,Undley,Q2235968,8,0,1,"hamlet in Suffolk, England, UK",,Q5084,,
+Undley,Undley bracteate,Q3643905,8,0,1,,,Q848960,,Undley bracteate
+Undley,Undley Hall Manor,Q105794368,8,0,1,"former manorial estate in Lakenheath, Suffolk",,Q2116450,,
+Kurmanayevo,Kurmanayevo,Q1052559,9,0,1,"human settlement in Aurgazinsky District, Republic of Bashkortostan, Russia",,Q5084,,Kurmanayevo
+Kurmanayevo,Kurmanayevo,Q4248559,9,0,1,"human settlement in Republic of Bashkortostan, Russia","Kurmanayevo, Mishkinsky District, Republic of Bashkortostan",Q5084|Q192287,,"Kurmanayevo, Mishkinsky District, Republic of Bashkortostan"
+Kurmanayevo,Kurmanayevsky District,Q3817455,9,0,2,human settlement in Russia,,Q2198484,,Kurmanayevsky District
+Kurmanayevo,flag of Kurmanayevsky District,Q4486741,9,0,2,,Kurmanayevsky District flag,Q21850100,,
+Valye,Valye,Q4130402,10,0,1,"human settlement in Chagodoshchensky District, Vologda Oblast, Russia",,Q5084,,Valye
+Valye,Valery,Q19413355,10,0,1,male given name (Валерый),Валерый|Valeryi|Valyery,Q12308941|Q19689753,,
+Valye,Valyeriya Masaylo,Q65640340,10,0,1,badminton player,,Q5,,
+Valye,Valyeriya,Q135645492,10,0,1,female given name,,Q11879590,,
+Valye,Valieŭka,Q6472982,10,0,1,agrotown in Belarus,Valyewka,Q1989945,,
+Valye,Valyery Tsikhinya,Q17115530,10,0,1,Belarusian jurist,Valyery Huryevich Tsikhinya|Valiery Tsikhinia|Valiery Hurievich Tsikhinia|Valery Tsikhinya|Valery Hurevich Tsikhinya|Valery Tsikhinia|Valery Hurevich Tsikhinia|Waleryj Cichinia,Q5,,
+Valye,Valyery Malashka,Q28549217,10,0,1,Belarusian politician,Valyery Anatolyevich Malashka,Q5,,Valery Malashko
+Valye,Valiejniški,Q20189107,10,0,1,village in Belarus,Valyeynishki,Q65661087,,
+Valye,Vallières Arrondissement,Q2032812,10,0,1,arrondissement of Haiti,Vallieres Arrondissement,Q1665357,,Vallières Arrondissement
+Valye,Valyermo,Q7912866,10,0,1,unincorporated community in California,"Valyermo, CA",Q17343829,,"Valyermo, California"
+Valye,Valencia,Q8818,10,0,2,"municipality in Spain, capital city of the Valencian Community","City of Valencia|Valencia, Spain",Q2074737|Q123754112,,Valencia
+Valye,Vale,Q1809806,10,0,2,one of the ten parishes of Guernsey,Le Clos du Valle|Clos du Valle|Le Valle|Lé Vale|Valle|Le Vale,Q3365965,,"Vale, Guernsey"
+Valye,Vale,Q583268,10,0,2,multinational diversified metals and mining corporation,Vale S.A.|CVRD|Doce River Valley Company,Q4830453|Q6881511|Q891723,,Vale S.A.
+Valye,Port Vale F.C.,Q48948,10,0,2,"association football club in Stoke-on-Trent, England",Port Vale Football Club|Port Vale FC|Port Vale|Burslem Port Vale Football Club|Burslem Port Vale FC|Burslem Port Vale|The Valiants|Vale|PVFC|BPVFC,Q476028,,Port Vale F.C.
+Valye,Vale,Q18169155,10,0,2,male given name,,Q12308941,,
+Valye,Catalan,Q7026,10,0,2,Western Romance language,Valencian|Catalan-Valencian-Balearic|Català|Valencià|East Iberian|Catalan language|Algherese|Alguerès|Alguerés,Q34770|Q1288568|Q1322198,Q599958,Catalan language
+Valye,Valentina,Q13589249,10,0,2,female given name,Valentina (first name)|Valentina (given name),Q11879590,,Valentina (given name)
+Valye,Valenciennes,Q163795,10,0,2,"French commune in Nord, Hauts-de-France",Valencyn|Valencijn|Valincyinne,Q484170,,Valenciennes
+Valye,Valerie,Q1068242,10,0,2,female given name,Valerie (given name)|Valerie (first name),Q11879590,,Valerie (given name)
+Valye,Vale,Q1022027,10,0,2,civil parish in Arcos de Valdevez,,Q1131296,,
+Chumalya,Chumalya,Q1053006,11,0,1,"human settlement in Bakalinsky District, Republic of Bashkortostan, Russia",,Q5084,,Chumalya
+Thierbach (Weihenzell),Thierbach (Weihenzell),Q1536920,12,0,1,human settlement in Germany,,Q253019|Q5084,,
+Thierbach (Weihenzell),Thierbach,Q485985,12,0,2,village in Austria,,Q11183787,,
+Thierbach (Weihenzell),Thierbach,Q23640202,12,0,2,family name,,Q101352,,
+Thierbach (Weihenzell),Thierbach,Q248147,12,0,2,river in Germany,,Q4022,,Thierbach
+Thierbach (Weihenzell),Thierbach,Q2803345,12,0,2,"human settlement in Saxony, Germany",,Q253019,,
+Thierbach (Weihenzell),Thierbach,Q110475529,12,0,2,"German article in Album der Rittergüter und Schlösser im Königreiche Sachsen, vol 1, 1860",,Q191067,,
+Thierbach (Weihenzell),Thierbach,Q2420845,12,0,2,settlement in Germany,,Q486972|Q253019,,
+Thierbach (Weihenzell),Thierbach,Q1711397,12,0,2,human settlement in Germany,,Q253019,,
+Thierbach (Weihenzell),Thierbach,Q117822123,12,0,2,"human settlement in Saxony-Anhalt, Germany",,Q253019,,
+Thierbach (Weihenzell),Thierbach,Q130307367,12,0,2,"tributary of the Mettlachbach in Middle Franconia, Germany",,Q63565252,,
+Thierbach (Weihenzell),Thierbach,Q125822038,12,0,2,"cadastral community in Wildschönau, Tyrol, Austria",,Q17376095,,
+Thierbach (Weihenzell),Weihenzell,Q510011,12,0,2,municipality of Germany,,Q116457956,,Weihenzell
+Thierbach (Weihenzell),Weihenzell,Q49292797,12,0,2,,,Q15303838|Q1493533|Q253019,,
+Thierbach (Weihenzell),Weihenzeller Steig,Q111348661,12,0,2,"street in Spandau district, Berlin, Germany",,Q79007,,
+Thierbach (Weihenzell),Weihenzeller Straße,Q100498888,12,0,2,"street in Nürnberg, Bavaria, Germany",,Q79007,,
+Thierbach (Weihenzell),Weihenzell,Q24209102,12,0,2,Wikimedia disambiguation page,,Q4167410,,

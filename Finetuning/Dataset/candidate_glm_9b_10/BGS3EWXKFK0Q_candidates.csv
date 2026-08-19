@@ -1,0 +1,48 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+O Cargadoiro,O Cargadoiro,Q113123040,0,0,1,,"O Cargadoiro, Vilaselán, Ribadeo",Q20541692,,
+O Cargadoiro,O Cargadoiro,Q12398095,0,0,1,beach in Spain,,Q40080|Q28060923|Q24633899,,
+O Cargadoiro,O Cargadoiro,Q113120080,0,0,1,,"O Cargadoiro, Merille, Ourol",Q20541692,,
+O Cargadoiro,O Cargadoiro,Q113120081,0,0,1,,"O Cargadoiro, San Pantaleón de Cabanas, Ourol",Q20541692,,
+O Cargadoiro,O Cargadoiro,Q113120082,0,0,1,,"O Cargadoiro, O Sisto, Ourol",Q20541692,,
+O Cargadoiro,ore dock,Q7100972,0,0,2,transportation construction,,,Q5749174|Q124282|Q1311670,Ore dock
+O Cargadoiro,Minero Siderúrgica de Ponferrada dock,Q28056054,0,0,2,"industrial dock in Rande, Redondela, Spain",,Q7100972,,
+O Cargadoiro,Cargadoiro,Q28803941,0,0,2,Wikimedia disambiguation page,,Q4167410,,
+A Illa,A Illa de Arousa,Q300446,1,0,1,municipality of Spain,Isla de Arosa|Illa de Arousa|Arousa Island|Arosa Island,Q2276925,,A Illa de Arousa
+A Illa,"A Illa, Entrimo",Q25507422,1,0,1,,,Q12397176,,
+A Illa,A Illa (San Lourenzo),Q25507895,1,0,1,,,Q12397176,,
+A Illa,A Illa,Q28121677,1,0,1,beach in Spain,,Q28060923,,
+A Illa,A Illa de Arousa (San Xián),Q14915632,1,0,1,,,Q12397176,,
+A Illa,Illa da Toxa,Q1645423,1,0,1,"island in Pontevedra province, Spain",A Illa da Toxa,Q23442,,A Toxa Island
+A Illa,Ons Island,Q11000239,1,0,1,"civil parish in Galicia, Spain",A Illa de Ons (San Xoaquín),Q12397176,,
+A Illa,The Island,Q224069,1,0,1,2005 film directed by Michael Bay,Island,Q11424,,The Island (2005 film)
+A Illa,"A Illana, Fisteus, Curtis",Q12381180,1,0,1,"human settlement in Curtis, Betanzos Comarca, A Coruña Province, Spain",,Q20541692,,
+A Illa,A Illa de Arousa town hall,Q126717558,1,0,1,"municipal building in A Illa de Arousa, Spain",,Q112793351,,
+A Cruz,A Cruz,Q114092095,2,0,1,,,Q5756064,,
+A Cruz,A Cruz,Q20547140,2,0,1,,"A Cruz, Aguiño, Ribeira",Q20541692,,
+A Cruz,A Cruz,Q98756142,2,0,1,Brazilian newspaper,,Q11032,,
+A Cruz,A Cruz de Juan Hernandez,Q56878484,2,0,1,work at Antonio Parreiras museum collection,,Q3305213,,
+A Cruz,A Cruz,Q12380560,2,0,1,"human settlement in Abegondo, A Coruña Province, Galicia, Spain","A Cruz, Abegondo|A Cruz, Abegondo, Abegondo",Q20541692,,
+A Cruz,A Cruz,Q31282849,2,0,1,,"A Cruz, Vilardá, San Xoán de Río",Q20541692,,
+A Cruz,A Cruz,Q115929939,2,0,1,,"A Cruz, Vilela, Taboada",Q20541692,,
+A Cruz,A Cruz,Q114806639,2,0,1,,"A Cruz, Abuíme, O Saviñao",Q20541692,,
+A Cruz,A Cruz,Q116878643,2,0,1,,"A Cruz, Liñares, As Neves",Q20541692,,
+A Cruz,A Cruz,Q115931108,2,0,1,,"A Cruz, Magazos, Viveiro",Q20541692,,
+A Cruz,"Cruz, Angela de la",Q103982024,2,0,2,encyclopedia article,,Q13433827,,
+A Cruz,António Jorge do Rosário Cruz,Q137184242,2,0,2,,"Cruz, A.J.R",Q5,,
+A Cruz,Antonio Pedro de Mello Cruz,Q95739452,2,0,2,researcher at the University of Brasilia,Antonio P. Mello Cruz|A. P. M. Cruz|A. Cruz|A. Pedro de Mello Cruz|Antonio Pedro Mello Cruz,Q5,,
+Buraco da Londra,Buraco da Londra,Q28119877,3,0,1,beach in Spain,,Q28060923|Q24633899|Q7900097,,
+Area Pequena,Area Pequena,Q28121436,4,0,1,"beach in Arteixo, Spain",,Q28060923,,
+Area Pequena,Area Pequena,Q28119621,4,0,1,"beach in Cervo, Spain",Areosa,Q28060923|Q24633899,,
+Area Pequena,Area Pequena,Q28121436,5,0,1,"beach in Arteixo, Spain",,Q28060923,,
+Area Pequena,Area Pequena,Q28119621,5,0,1,"beach in Cervo, Spain",Areosa,Q28060923|Q24633899,,
+Ximeliño,Ximeliño,Q28122248,6,0,1,beach in Spain,,Q28060923,,
+Ximeliño,Ximénez,Q58337235,6,0,2,family name,,Q101352|Q3342913|Q11455398,,Ximénez
+Ximeliño,Ximenez,Q37485332,6,0,2,family name,,Q101352|Q3342913|Q11455398|Q110874,,
+Ximeliño,Miguel Ximénez,Q922735,6,0,2,"Spanish painter, active 1466, died ca.1505",Miguel Jiménez y Garcia|Miguel Ximenez|Miguel Jiménez|Miquel Ximenes|Miguel Jimenez|Miguel Jimenez y Garcia|Ximenez,Q5,,Miguel Ximénez (artist)
+Ximeliño,Ximénez,Q121771035,6,0,2,Iberian patronymic,,Q130446947,,
+Ximeliño,Ximénez de Urrea,Q45262097,6,0,2,family name,Jiménez de Urrea|Ximénez de Urrea (family name)|Ximénez de Urrea (surname),Q29042997|Q66480858,,
+Ximeliño,Ximénez de Urrea,Q13049350,6,0,2,noble family,,Q13417114,,
+Ximeliño,Ximenez Lecerda,Q114857163,6,0,2,Better Call Saul character,,Q15632617|Q15773317,,Ximenez Lecerda
+Ximeliño,Laurie Ann Ximénez-Fyvie,Q71815090,6,0,2,researcher,Ximénez-Fyvie LA,Q5,,
+Ximeliño,Ximenez Gómez de Manzanedo,Q116004659,6,0,2,Abt 1170 -,,Q5,,
+Ximeliño,Iluminaciones Ximénez,Q60156192,6,0,2,,Ximenez Group,Q6881511,,

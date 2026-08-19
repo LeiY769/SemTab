@@ -1,0 +1,23 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ex,TV Asahi,Q908436,0,0,1,Japanese television network,Tv-asahi|ANB|EX|NET|NET-TV|Nippon Education Television|Televi Asahi,Q1616075|Q11499011|Q11396960,,TV Asahi
+Ex,Extrasolar Planets Encyclopaedia,Q1385430,0,0,1,astronomical database,The Extrasolar Planets Encyclopaedia|Extrasolar Planets Encyclopedia|The Extrasolar Planets Encyclopedia,Q8513|Q35127,,Encyclopaedia of Exoplanetary Systems
+Ex,Exeter,Q134672,0,0,1,"city in Devon, England","Exeter, England|Exeter, Devon",Q515|Q1357964|Q1549591,,Exeter
+Ex,extinct,Q237350,0,0,1,IUCN conservation category,EX|extinct species,Q82673,Q15893266|Q98961713,
+Ex,Ex,Q37546102,0,0,1,family name,,Q101352,,
+Ex,item of collection or exhibition,Q18593264,0,0,1,"defines an item, such as an object or document, that is a member of a collection or part of a repository",have inventory number|number in inventory|inventory number|exhibition item|collection item|holding|museum object|museum piece|object in a museum|museum item|piece in a museum|item in a museum|item in collection or exhibition|item in museum|exhibited item,,Q2342494|Q386724|Q36808958,
+Ex,extended play,Q169930,0,0,1,"group of extended play releases by an artist usually released at the same time with the same title and tracks but in different formats for consumption (digital, CD, LP)",EP|E.P.|EPs,Q106043376,Q108346082|Q354004,Extended play
+Ex,exoplanet,Q44559,0,0,1,any planet beyond the Solar System,extrasolar planet|exosolar planet,Q17444909,Q634|Q5422256,Exoplanet
+Ex,exhibition,Q464980,0,0,1,organized presentation and display of a selection of items or pictures,expositions|expos|presentation|exhibits|exhibit|expo,Q56557118,Q58415929|Q1656682|Q386724,Exhibition
+Ex,Exocentrus,Q4038436,0,0,1,genus of insects,,Q16521,,Exocentrus
+1435 mm track gauge,standard-gauge railway,Q1999572,0,1,1,"rail track gauge – international standard gauge (1435 mm, 4 ft 8 1⁄2 in)","UIC track gauge|International gauge|normal gauge|Stephenson gauge|standard gauge|gauge in Europe|rail gauge 1435 mm|sg|1,435 mm|European gauge|uniform gauge|SGR|Eurogauge|Euro gauge|1435 mm track gauge",Q214519,,Standard-gauge railway
+Ex,TV Asahi,Q908436,1,0,1,Japanese television network,Tv-asahi|ANB|EX|NET|NET-TV|Nippon Education Television|Televi Asahi,Q1616075|Q11499011|Q11396960,,TV Asahi
+Ex,Extrasolar Planets Encyclopaedia,Q1385430,1,0,1,astronomical database,The Extrasolar Planets Encyclopaedia|Extrasolar Planets Encyclopedia|The Extrasolar Planets Encyclopedia,Q8513|Q35127,,Encyclopaedia of Exoplanetary Systems
+Ex,Exeter,Q134672,1,0,1,"city in Devon, England","Exeter, England|Exeter, Devon",Q515|Q1357964|Q1549591,,Exeter
+Ex,extinct,Q237350,1,0,1,IUCN conservation category,EX|extinct species,Q82673,Q15893266|Q98961713,
+Ex,Ex,Q37546102,1,0,1,family name,,Q101352,,
+Ex,item of collection or exhibition,Q18593264,1,0,1,"defines an item, such as an object or document, that is a member of a collection or part of a repository",have inventory number|number in inventory|inventory number|exhibition item|collection item|holding|museum object|museum piece|object in a museum|museum item|piece in a museum|item in a museum|item in collection or exhibition|item in museum|exhibited item,,Q2342494|Q386724|Q36808958,
+Ex,extended play,Q169930,1,0,1,"group of extended play releases by an artist usually released at the same time with the same title and tracks but in different formats for consumption (digital, CD, LP)",EP|E.P.|EPs,Q106043376,Q108346082|Q354004,Extended play
+Ex,exoplanet,Q44559,1,0,1,any planet beyond the Solar System,extrasolar planet|exosolar planet,Q17444909,Q634|Q5422256,Exoplanet
+Ex,exhibition,Q464980,1,0,1,organized presentation and display of a selection of items or pictures,expositions|expos|presentation|exhibits|exhibit|expo,Q56557118,Q58415929|Q1656682|Q386724,Exhibition
+Ex,Exocentrus,Q4038436,1,0,1,genus of insects,,Q16521,,Exocentrus
+1435 mm track gauge,standard-gauge railway,Q1999572,1,1,1,"rail track gauge – international standard gauge (1435 mm, 4 ft 8 1⁄2 in)","UIC track gauge|International gauge|normal gauge|Stephenson gauge|standard gauge|gauge in Europe|rail gauge 1435 mm|sg|1,435 mm|European gauge|uniform gauge|SGR|Eurogauge|Euro gauge|1435 mm track gauge",Q214519,,Standard-gauge railway

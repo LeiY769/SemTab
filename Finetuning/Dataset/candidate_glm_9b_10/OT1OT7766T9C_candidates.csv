@@ -1,0 +1,109 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+OGLE BLG534.13 622,OGLE BLG534.13 101649,Q84482750,0,0,2,,,Q936076,,
+OGLE BLG534.13 622,OGLE BLG534.13 6292,Q84477124,0,0,2,,,Q936076,,
+OGLE BLG534.13 622,OGLE BLG534.13 39565,Q84477171,0,0,2,,,Q936076,,
+JLE BLG103.1 184475,John Libbey Eurotext,Q3181937,1,0,2,publisher,JLE,Q2085381|Q45400320,,
+JLE BLG103.1 184475,Journal of Language and Education,Q50817472,1,0,2,"Academic journal published by National Research University Higher School of Economics , covering the subjects: Education | Language and Literature: Philology. Linguistics",JLE,Q737498|Q773668,,
+JLE BLG103.1 184475,Ngile,Q36329,1,0,2,language,Ngile language|Daloka|Taloka|Darra|Masakin|Mesakin,Q34770|Q1288568,,Ngile language
+JLE BLG103.1 184475,Journal of Legal Education,Q15756831,1,0,2,journal,The Journal of Legal Education|JLE,Q5633421,,
+JLE BLG103.1 184475,Jlegong,Q4186973,1,0,2,"village in Banjarnegara Regency, Central Java, Indonesia",Desa Jlegong,Q26211545,,
+JLE BLG103.1 184475,Jlegiwinangun,Q4269447,1,0,2,"village in Kebumen Regency, Central Java, Indonesia",Desa Jlegiwinangun,Q26211545,,
+JLE BLG103.1 184475,Jleper,Q10983394,1,0,2,"village in Demak Regency, Central Java, Indonesia",Desa Jleper,Q26211545,,
+JLE BLG103.1 184475,Jlegong,Q11218580,1,0,2,"village in Temanggung Regency, Central Java, Indonesia",Desa Jlegong,Q26211545,,
+JLE BLG103.1 184475,Jlegong,Q11058052,1,0,2,"village in Jepara Regency, Central Java, Indonesia",,Q26211545,,
+JLE BLG103.1 184475,Jlenia Toppi,Q57033843,1,0,2,researcher,,Q5,,
+GLEBLG-T2CEP-301,Wikidata property for an identifier,Q19847637,2,0,2,Wikidata property to identify something in an external source,Wikidata properties representing a unique identifier|Wikidata property representing a unique identifier|Wikidata property for a unique identifier|Wikidata property for an external identifier|identifier property|unique identifier|external-id,Q107649491,Q18616576|Q6545185,
+GLEBLG-T2CEP-301,unique identifier,Q6545185,2,0,2,identifier which is unique and permanent within a subset of space and time,unique ID code|identifier|identification number|ID|UID|identifier system,,Q420330,Unique identifier
+GLEBLG-T2CEP-301,address,Q64826646,2,0,2,"locally-unique name that identifies a single element of a system or network, used to direct communication to that element or to know its relative position",address-space identifier|identifier|unique identifier|ID|computing address|number|routing number|code|network address,,Q6545185,
+GLEBLG-T2CEP-301,Unique identifiers for small molecules enable rigorous labeling of their atoms,Q33718167,2,0,2,scientific article,,Q13442814,,
+GLEBLG-T2CEP-301,Unique identifiers for authors.,Q45361602,2,0,2,scientific article published in May 2014,,Q13442814|Q871232,,
+GLEBLG-T2CEP-301,Unique Identifiers for Medical Devices Could Help Payers Determine Value,Q38407884,2,0,2,"scientific article published on June 1, 2015",,Q13442814,,
+GLEBLG-T2CEP-301,UNIQUE IDENTIFIERS FOR SERIALS,Q58498051,2,0,2,,,Q13442814,,
+GLEBLG-T2CEP-301,Unique Identifiers for Digital Objects,Q118794584,2,0,2,,,Q13442814,,
+GLEBLG-T2CEP-301,UNIQUE IDENTIFIERS FOR SERIALS,Q58498600,2,0,2,,,Q13442814,,
+GLEBLG-T2CEP-301,Unique identifiers needed to make national data sets fit for public health purposes: the example of subsequent teenage pregnancy in England and Wales.,Q47941492,2,0,2,scientific article published on 19 September 2017,,Q13442814,,
+GLEBLG-T2CEP-301,manufacturers serial number,Q11626937,2,0,2,unique identification mark for manufactured products,MSN|serial no.|serial number|CN|construction no.|construction number,,Q1198578|Q187939|Q254474,
+GLEBLG-T2CEP-301,serial number,Q1198578,2,0,2,unique code assigned for identification of a single unit,factory number|serial|serial #,,Q6545185,Serial number
+GLEBLG-T2CEP-301,RFC 1982: Serial Number Arithmetic,Q47477363,2,0,2,request for comments publication,RFC1982|Serial Number Arithmetic,Q212971,,
+GLEBLG-T2CEP-301,serial number arithmetic,Q7454695,2,0,2,,,,,Serial number arithmetic
+GLEBLG-T2CEP-301,Serial Number (Specimen Number),Q117315851,2,0,2,Episode 18 of A Certain Magical Index Season 2,Kentai Bangou (Serial Number) (検体番号|A Certain Magical Index Episode 18|A Certain Magical Index ep 18|A Certain Magical Index ep. 18|A Certain Magical Index ep18|A Certain Magical Index Season 2 Episode 18|A Certain Magical Index Season 2 ep 18|A Certain Magical Index Season 2 ep. 18|A Certain Magical Index S 2 ep 18|A Certain Magical Index S 2 ep. 18|A Certain Magical Index S2EP18|A Certain Magical Index S02EP18|A Certain Magical Index S2E18|A Certain Magical Index S02E18,Q102364578,,
+GLEBLG-T2CEP-301,Serial Number Registers (NAID 1652044),Q66281107,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+GLEBLG-T2CEP-301,Serial Numbered Actions Files (NAID 4707537),Q66229548,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+GLEBLG-T2CEP-301,serial number,Q11665535,2,0,2,,,Q742421,,
+GLEBLG-T2CEP-301,Serial number tagging reveals a prominent sequence preference of retrotransposon integration,Q33983578,2,0,2,"scientific article published on June 19, 2014",,Q13442814,,
+GLEBLG-T2CEP-301,Serial number coding and decoding by laser interference direct patterning on the original product surface for anti-counterfeiting,Q53100578,2,0,2,scientific article published in June 2017,,Q13442814,,
+OGLE BLG652.29 87985,OGLE BLG652.29 15089,Q84474659,3,0,2,,,Q936076,,
+OGLE BLG652.29 87985,OGLE BLG652.29 87984,Q84478823,3,0,2,,,Q936076,,
+OGLE BLG652.29 87985,OGLE BLG652.29 14626,Q84478950,3,0,2,,,Q936076,,
+MACHO 496261.9,,,4,0,0,,,,,
+OGLE BLG50.11 151218,,,5,0,0,,,,,
+[G93c] 246,VHL G93C (c.277G>T),Q56240952,6,0,2,genetic variant,G93C (c.277G>T)|C.277G>T|GLY93CYS|RS5030808,Q2656896,,
+[G93c] 246,246,Q912558,6,0,2,natural number,two hundred forty-six|two hundred and forty-six|two hundred forty six|two hundred and forty six,Q16317911|Q13366104|Q1193504|Q18452301|Q50707,,246 (number)
+[G93c] 246,246,Q33855,6,0,2,year,,Q577,,246
+[G93c] 246,2464 Nordenskiöld,Q149113,6,0,2,asteroid,2464 Nordenskiold|Nordenskiöld,Q3863,,2464 Nordenskiöld
+[G93c] 246,24649 Balaklava,Q149119,6,0,2,asteroid,Balaklava,Q3863,,24649 Balaklava
+[G93c] 246,2467,Q19242375,6,0,2,natural number,"2,467",Q16317911|Q49008|Q13366129,,2467 (number)
+[G93c] 246,24648 Evpatoria,Q596791,6,0,2,asteroid,Evpatoria,Q3863,,24648 Evpatoria
+[G93c] 246,2461,Q19242367,6,0,2,natural number,"2,461",Q16317911|Q13366129|Q190890|Q50707,,
+[G93c] 246,2467 Kollontai,Q769538,6,0,2,asteroid,(2467) Kollontai|Kollontai,Q3863,,2467 Kollontai
+[G93c] 246,2465,Q19242372,6,0,2,natural number,"2,465",Q16317911|Q13366129|Q2634498|Q50707|Q375355|Q849530,,
+[G93c] 246,246 BC,Q35526,6,0,2,year,246 BCE,Q29964144,,246 BC
+OGLE BLG173.5 216778,OGLE BLG173.5 216478,Q92768217,7,0,2,,,Q936076|Q6243,,
+OGLE MMC-T2CEP-17,,,8,0,0,,,,,
+OLE LMC130.1 160,,,9,0,0,,,,,
+OGL BLG249.4 70720,Open Government Licence,Q17016921,10,0,2,"copyright licence for works of the Government of the United Kingdom, protected by Crown Copyright, which have been released for free use (subject to terms)",OGL|Open Government Licence for public sector information|OGLv1.0|OGLv2.0|OGLv3.0,Q7257461|Q196294,,Open Government Licence
+OGL BLG249.4 70720,OpenGL,Q178570,10,0,2,cross-platform graphics API,Open GL|Open Graphics Library|OGL|GL,Q165194|Q188860|Q2101564,,OpenGL
+OGL BLG249.4 70720,Open Game License v1.0,Q1752744,10,0,2,public copyright license for tabletop role-playing games of 2000,OGL,Q196294,,Open Game License
+OGL BLG249.4 70720,Oglasa,Q7080085,10,0,2,genus of insects,,Q16521,,Oglasa
+OGL BLG249.4 70720,Ogle,Q16880667,10,0,2,family name,,Q101352,,Ogle (surname)
+OGL BLG249.4 70720,Ogliastro,Q1111250,10,0,2,"commune in Haute-Corse, France",,Q484170,,Ogliastro
+OGL BLG249.4 70720,Oglander,Q7080081,10,0,2,family name,,Q101352,,Oglander
+OGL BLG249.4 70720,OGLE-2005-BLG-390Lb,Q824260,10,0,2,extrasolar planet,NAME EWS 2005-BLG-390b,Q18611609|Q44559,,OGLE-2005-BLG-390Lb
+OGL BLG249.4 70720,Optical Gravitational Lensing Experiment,Q1032158,10,0,2,long-term variability sky survey,OGLE,Q550089,,Optical Gravitational Lensing Experiment
+OGL BLG249.4 70720,OGLE-TR-211,Q1147396,10,0,2,star in the constellation Carina,OGLE-TR 211,Q523|Q67206785,,OGLE-TR-211
+OGL BLG249.4 70720,70720,Q135585622,10,0,2,natural number,,Q16317911|Q50707|Q13366104|Q223722,,
+OGL BLG249.4 70720,70720 Davidskillman,Q15183494,10,0,2,asteroid,Davidskillman,Q3863,,70720 Davidskillman
+OGL BLG249.4 70720,70·720^7091 + 1,Q96792156,10,0,2,prime number,,Q49008,,
+OGE BLG544.21 56636,Old Georgian,Q34834,11,0,2,literary language of Georgian monarchies in the 5th century,Old Georgian language|enay kartuli|ႤႬႠჂ ႵႠႰႧႳႪႨ|oge,Q839470|Q2315359|Q38058796,Q34030,Old Georgian
+OGE BLG544.21 56636,Ogenne-Camptort,Q857616,11,0,2,"commune in Pyrénées-Atlantiques, France",,Q484170,,Ogenne-Camptort
+OGE BLG544.21 56636,Ogeu-les-Bains,Q858915,11,0,2,"commune in Pyrénées-Atlantiques, France",,Q484170,,Ogeu-les-Bains
+OGE BLG544.21 56636,Ogéviller,Q1060586,11,0,2,"commune in Meurthe-et-Moselle, France",,Q484170,,Ogéviller
+OGE BLG544.21 56636,Ogens,Q68908,11,0,2,municipality in the canton of Vaud in Switzerland,Ogens VD,Q70208,,Ogens
+OGE BLG544.21 56636,Open Grid Europe,Q2025693,11,0,2,pipeline operator,Open Grid Europe GmbH|OGE,Q1406985,,
+OGE BLG544.21 56636,Ogeechee River,Q130012,11,0,2,"River in state of Georgia, U.S.",,Q100649,,Ogeechee River
+OGE BLG544.21 56636,Oger,Q37440268,11,0,2,family name,,Q101352,,
+OGE BLG544.21 56636,Ogeria,Q110652352,11,0,2,genus of insects,,Q16521,,
+OGE BLG544.21 56636,Ogemaw County,Q507169,11,0,2,"county in Michigan, United States","Ogemaw County, Michigan|Ogemaw County, MI",Q13410496,,"Ogemaw County, Michigan"
+OGE BLG544.21 56636,56636,Q135565778,11,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+OGE BLG544.21 56636,56636085081·5303# + 1,Q96934149,11,0,2,prime number,,Q49008,,
+RGLE BLG500.7 22106,22106,Q135515096,12,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+RGLE BLG500.7 22106,22106 Tomokoarai,Q5270435,12,0,2,asteroid,,Q3863,,22106 Tomokoarai
+RGLE BLG500.7 22106,2210630^2048 + 1,Q96798835,12,0,2,prime number,,Q49008,,
+RGLE BLG500.7 22106,221061·2^3404 + 1,Q96854397,12,0,2,prime number,,Q49008,,
+[MFK2313] 9,9,Q19108,13,0,2,natural number,nine|Ⅸ|ⅸ|9*1|number 9|the number 9,Q16317911|Q467511|Q50705|Q50707|Q13366129|Q190893|Q1589528|Q2702442|Q96399905|Q375355|Q2915234|Q4357614,,9
+[MFK2313] 9,9,Q63349759,13,0,2,"light rail line in Hanover, Germany",,Q26252263|Q2125658|Q520381,,
+[MFK2313] 9,9,Q2481193,13,0,2,2006 album by Damien Rice,9 (Damien Rice),Q482994,,9 (Damien Rice album)
+[MFK2313] 9,9,Q29338,13,0,2,2003 studio album by Eros Ramazzotti,,Q482994,,9 (Eros Ramazzotti album)
+[MFK2313] 9,9,Q11033689,13,0,2,numerical digit,,Q29961325,,
+[MFK2313] 9,published more than 95 years ago,Q47246828,13,0,2,sufficient condition for a work's copyright to have expired in the United States,PD-1923|PD-US-expired|95 years since publication|published 95 years ago or more|published over 95 years ago,Q61005213,Q5169289,
+[MFK2313] 9,September 11 attacks,Q10806,13,0,2,2001 attacks in the United States,"September 11|11 September|11 September 2001|September 11, 2001|11 September Attacks|September 11th Attacks|9/11 Attacks|September 11, 2001 terrorist attacks|terrorist attacks of September 11, 2001",Q898712|Q750215|Q2223653|Q217327,,September 11 attacks
+[MFK2313] 9,9,Q16525878,13,0,2,2009 album by Ira,,Q482994,,
+[MFK2313] 9,9,Q27643615,13,0,2,2016 studio album by Polina Gagarina,,Q482994,,9 (Polina Gagarina album)
+[MFK2313] 9,9,Q23649982,13,0,2,rating category in the Kijkwijzer system,Kijkwijzer 9,Q23649978,,
+V* V1833 gr,V* V1833 Oph,Q83955034,14,0,2,RR Lyrae variable star in the constellation Ophiuchus,,Q726242,,
+V* V1833 gr,V* V1833 Ori,Q80298450,14,0,2,W Ursae Majoris variable star in the constellation Orion,,Q691269,,
+V* V1833 gr,V* V1833 Sgr,Q88958921,14,0,2,,,Q936076|Q188593|Q523,,
+OGLE BLG68.14 19606,,,15,0,0,,,,,
+OGLE BL633.4 27900,,,16,0,0,,,,,
+OGLE BLG44.9 5619,,,17,0,0,,,,,
+V*#UW For,,,18,0,0,,,,,
+GLE BLG-TCEP-277,Irish,Q9142,19,0,2,language native to Ireland,Irish language|Gaeilge|Gaelic|Irish Gaelic,Q33742|Q1288568,Q56433,Irish language
+GLE BLG-TCEP-277,Global Legal Entity Identifier Foundation,Q90175664,19,0,2,Swiss foundation responsible for the Legal Entity Identifier,GLEIF,Q43229,Q121182,Global Legal Entity Identifier Foundation
+GLE BLG-TCEP-277,Glendale,Q485716,19,0,2,"city in Los Angeles County, California, United States","Glendale, California|Glendale, California, USA|Glendale, Los Angeles County, California|Glendale, CA",Q13218357|Q1549591|Q13218391,,"Glendale, California"
+GLE BLG-TCEP-277,Glenn,Q19802199,19,0,2,male given name,Glenn (given name)|Glenn (first name),Q12308941,,
+GLE BLG-TCEP-277,Glenea,Q3108733,19,0,2,genus of insects,,Q16521,,Glenea
+GLE BLG-TCEP-277,Gle,Q98220212,19,0,2,family name,,Q101352,,
+GLE BLG-TCEP-277,Glen,Q16276007,19,0,2,unisex given name,,Q3409032,,Glen (given name)
+GLE BLG-TCEP-277,Linlithgow,Q1016911,19,0,2,"town and Royal Burgh in West Lothian, Scotland, UK",Gleann Iucha,Q3957|Q7543008,,Linlithgow
+GLE BLG-TCEP-277,Glen Campbell,Q162667,19,0,2,American musician (1936–2017),,Q5,,Glen Campbell
+GLE BLG-TCEP-277,Glenn Theodore Seaborg,Q48973,19,0,2,American chemist (1912–1999),Glenn Seaborg|Glenn T. Seaborg|G. T. Seaborg|G.T. Seaborg|G T Seaborg,Q5,,Glenn T. Seaborg

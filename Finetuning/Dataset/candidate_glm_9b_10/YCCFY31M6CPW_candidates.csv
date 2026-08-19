@@ -1,0 +1,123 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kamisato,Kamisato,Q1345287,0,0,1,"town in Kodama district, Saitama prefecture, Japan",,Q1059478,,"Kamisato, Saitama"
+Kamisato,Toyosato,Q11634273,0,0,1,"dissolved municipality in Tsukuba district, Ibaraki prefecture, Japan",Kamisato,Q18663566,,
+Kamisato,Kamisato,Q6358505,0,0,1,"dissolved municipality in Shimoina district, Nagano prefecture, Japan",,Q18663566,,"Kamisato, Nagano"
+Kamisato,Kamisato,Q11360206,0,0,1,"dissolved municipality in Gunma district, Gunma prefecture, Japan",,Q18663566,,
+Kamisato,Kamisato,Q11590946,0,0,1,"dissolved municipality in Katori district, Chiba prefecture, Japan",,Q18663566,,
+Kamisato,Kamisato,Q17175861,0,0,1,"dissolved municipality in Kamiminochi district, Nagano prefecture, Japan",,Q18663566,,
+Kamisato,Kamisato,Q55522479,0,0,1,"neighborhood in Meito-ku, Japan",,Q5327369,,
+Kamisato,Kamisato,Q11360101,0,0,1,Architectural term in Japan,,Q12812139,,
+Kamisato,Kamisato,Q17226228,0,0,1,,,Q486972,,
+Kamisato,Kamisato,Q123334385,0,0,1,Japanese family name (上里),上里,Q19914123|Q101352,,
+Mihama,Mihama,Q1203828,1,0,1,"town in Chita district, Aichi prefecture, Japan",,Q1059478,,"Mihama, Aichi"
+Mihama,Mihama,Q629384,1,0,1,"town in Mikata district, Fukui prefecture, Japan",,Q1059478,,"Mihama, Fukui"
+Mihama,Mihama,Q1203799,1,0,1,"town in Minamimuro district, Mie prefecture, Japan",,Q1059478,,"Mihama, Mie"
+Mihama,Mihama,Q1203565,1,0,1,"town in Hidaka district, Wakayama prefecture, Japan",,Q1059478,,"Mihama, Wakayama"
+Mihama,Mihama-ku,Q1075859,1,0,1,"one of six wards of the city of Chiba, Japan",Mihama Ward,Q137773|Q1187811|Q11499971,,Mihama-ku
+Mihama,Mihama,Q11356316,1,0,1,"dissolved municipality in Kamo district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11356315,1,0,1,"dissolved municipality in Ogasa district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11609167,1,0,1,"neighborhood in Urayasu city, Chiba prefecture, Japan",,Q486972|Q424857,,
+Mihama,Mihama Station,Q6845246,1,0,1,"railway station in Mihama, Mikatakaminaka district, Fukui prefecture, Japan",,Q55488,,Mihama Station
+Mihama,Chinnai,Q4389111,1,0,1,human settlement in Russia,Mihama,Q18663566,,
+Mihama,Mihama Nuclear Power Plant,Q384685,1,0,2,nuclear power plant,,Q134447,,Mihama Nuclear Power Plant
+Mihama,Mihama,Q1203828,2,0,1,"town in Chita district, Aichi prefecture, Japan",,Q1059478,,"Mihama, Aichi"
+Mihama,Mihama,Q629384,2,0,1,"town in Mikata district, Fukui prefecture, Japan",,Q1059478,,"Mihama, Fukui"
+Mihama,Mihama,Q1203799,2,0,1,"town in Minamimuro district, Mie prefecture, Japan",,Q1059478,,"Mihama, Mie"
+Mihama,Mihama,Q1203565,2,0,1,"town in Hidaka district, Wakayama prefecture, Japan",,Q1059478,,"Mihama, Wakayama"
+Mihama,Mihama-ku,Q1075859,2,0,1,"one of six wards of the city of Chiba, Japan",Mihama Ward,Q137773|Q1187811|Q11499971,,Mihama-ku
+Mihama,Mihama,Q11356316,2,0,1,"dissolved municipality in Kamo district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11356315,2,0,1,"dissolved municipality in Ogasa district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11609167,2,0,1,"neighborhood in Urayasu city, Chiba prefecture, Japan",,Q486972|Q424857,,
+Mihama,Mihama Station,Q6845246,2,0,1,"railway station in Mihama, Mikatakaminaka district, Fukui prefecture, Japan",,Q55488,,Mihama Station
+Mihama,Chinnai,Q4389111,2,0,1,human settlement in Russia,Mihama,Q18663566,,
+Mihama,Mihama Nuclear Power Plant,Q384685,2,0,2,nuclear power plant,,Q134447,,Mihama Nuclear Power Plant
+Mihama,Mihama,Q1203828,3,0,1,"town in Chita district, Aichi prefecture, Japan",,Q1059478,,"Mihama, Aichi"
+Mihama,Mihama,Q629384,3,0,1,"town in Mikata district, Fukui prefecture, Japan",,Q1059478,,"Mihama, Fukui"
+Mihama,Mihama,Q1203799,3,0,1,"town in Minamimuro district, Mie prefecture, Japan",,Q1059478,,"Mihama, Mie"
+Mihama,Mihama,Q1203565,3,0,1,"town in Hidaka district, Wakayama prefecture, Japan",,Q1059478,,"Mihama, Wakayama"
+Mihama,Mihama-ku,Q1075859,3,0,1,"one of six wards of the city of Chiba, Japan",Mihama Ward,Q137773|Q1187811|Q11499971,,Mihama-ku
+Mihama,Mihama,Q11356316,3,0,1,"dissolved municipality in Kamo district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11356315,3,0,1,"dissolved municipality in Ogasa district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11609167,3,0,1,"neighborhood in Urayasu city, Chiba prefecture, Japan",,Q486972|Q424857,,
+Mihama,Mihama Station,Q6845246,3,0,1,"railway station in Mihama, Mikatakaminaka district, Fukui prefecture, Japan",,Q55488,,Mihama Station
+Mihama,Chinnai,Q4389111,3,0,1,human settlement in Russia,Mihama,Q18663566,,
+Mihama,Mihama Nuclear Power Plant,Q384685,3,0,2,nuclear power plant,,Q134447,,Mihama Nuclear Power Plant
+Mihama,Mihama,Q1203828,4,0,1,"town in Chita district, Aichi prefecture, Japan",,Q1059478,,"Mihama, Aichi"
+Mihama,Mihama,Q629384,4,0,1,"town in Mikata district, Fukui prefecture, Japan",,Q1059478,,"Mihama, Fukui"
+Mihama,Mihama,Q1203799,4,0,1,"town in Minamimuro district, Mie prefecture, Japan",,Q1059478,,"Mihama, Mie"
+Mihama,Mihama,Q1203565,4,0,1,"town in Hidaka district, Wakayama prefecture, Japan",,Q1059478,,"Mihama, Wakayama"
+Mihama,Mihama-ku,Q1075859,4,0,1,"one of six wards of the city of Chiba, Japan",Mihama Ward,Q137773|Q1187811|Q11499971,,Mihama-ku
+Mihama,Mihama,Q11356316,4,0,1,"dissolved municipality in Kamo district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11356315,4,0,1,"dissolved municipality in Ogasa district, Shizuoka prefecture, Japan",,Q18663566,,
+Mihama,Mihama,Q11609167,4,0,1,"neighborhood in Urayasu city, Chiba prefecture, Japan",,Q486972|Q424857,,
+Mihama,Mihama Station,Q6845246,4,0,1,"railway station in Mihama, Mikatakaminaka district, Fukui prefecture, Japan",,Q55488,,Mihama Station
+Mihama,Chinnai,Q4389111,4,0,1,human settlement in Russia,Mihama,Q18663566,,
+Mihama,Mihama Nuclear Power Plant,Q384685,4,0,2,nuclear power plant,,Q134447,,Mihama Nuclear Power Plant
+Nanae,Nanae,Q1354276,5,0,1,"town in Kameda district, Hokkaidō, Japan",,Q1059478,,"Nanae, Hokkaido"
+Nanae,Nanae,Q48981900,5,0,1,undifferentiated Japanese kana female given name (ななえ),,Q11879590|Q88865478,,Nanae (given name)
+Nanae,Nanaet Duabesi,Q12500005,5,0,1,"district in Belu Regency, East Nusa Tenggara Province, Indonesia",Nanaet Duabesi District,Q3700011,,
+Nanae,Nanae,Q11353400,5,0,1,"dissolved municipality in Niihari district, Ibaraki prefecture, Japan",,Q18663566,,
+Nanae,Nanae,Q11353719,5,0,1,"dissolved municipality in Sashima district, Ibaraki prefecture, Japan",,Q18663566,,
+Nanae,Nanae Station,Q1049300,5,0,1,"railway station in Nanae, Kameda district, Hokkaido, Japan",,Q55488|Q22808404|Q121844395|Q2451577|Q1147171,,Nanae Station
+Nanae,Nanae Matsuzaka,Q11529493,5,0,1,Japanese AV idol,,Q5,,
+Nanae,Nanae Sakashita,Q11424821,5,0,1,Japanese AV idol,,Q5,,
+Nanae,Nanae Akasaka,Q11635396,5,0,1,Japanese actress,Akasaka Nanae,Q5,,
+Nanae,Nanae Shinozaki,Q114736390,5,0,1,researcher,,Q5,,
+Naoshima,Naoshima,Q1350060,6,0,1,"town in Kagawa district, Kagawa prefecture, Japan",Naoshima-chō,Q1059478,,Naoshima
+Naoshima,Naoshima,Q20267482,6,0,1,"island in the Naoshima Islands in Kagawa, Japan",,Q23442,,
+Naoshima,Naoshima,Q104377973,6,0,1,ship built in 2015,IMO 9792137,Q11446,,
+Naoshima,Naoshima,Q52336149,6,0,1,ro-ro/passenger ship built in 1995,IMO 8890841,Q11446,,
+Naoshima,Naoshima,Q27983108,6,0,1,,,Q11446,,
+Naoshima,Naoshima,Q122787359,6,0,1,ship built in 1965,IMO 7650672,Q11446,,
+Naoshima,Naoshima Islands,Q11581741,6,0,1,island group of Japan,,Q1402592,,
+Naoshima,Naoshima Port Terminal,Q135903985,6,0,1,"Port terminal in Naoshima, Japan",,Q41176,,Naoshima Port Terminal
+Naoshima,Naoshima Pavilion,Q135903989,6,0,1,"installation on Naoshima, Japan",,Q41176,,Naoshima Pavilion
+Naoshima,"Naoshima Bath ""I♥︎湯""",Q11581742,6,0,1,"artistic bathhouse in Naoshima, Japan","Naoshima sentō ""I ♥ yu""|Naoshima Bathhouse ""I ♥ yu""",Q1046648|Q838948,,
+Kyogoku,Kyōgoku-chō,Q1354396,7,0,1,"town in Abuta district, Hokkaido, Japan",Kyogoku-cho|Kyōgoku|Kyogoku,Q1059478,,"Kyōgoku, Hokkaido"
+Kyogoku,4127 Kyogoku,Q152703,7,0,1,asteroid,Kyogoku,Q3863,,4127 Kyogoku
+Kyogoku,Kyōgoku,Q47092562,7,0,1,"Japanese family name (京極, きょうごく)",Kyougoku|Kyohgoku|Kyogoku,Q101352,,
+Kyogoku,Kyōgoku clan,Q2975299,7,0,1,Japanese clan. descend from the Uda Genji through the Sasaki clan,Kyogoku clan,Q211503,,Kyōgoku clan
+Kyogoku,Kyōgoku,Q11374429,7,0,1,"dissolved municipality in Kadono district, Kyōto prefecture, Japan",Kyogoku,Q18663566,,
+Kyogoku,Kyōgoku Takatoshi,Q11374497,7,0,1,Kazoku and author,Kyogoku Takatoshi|Takatoshi Kyogoku|Takatoshi Kyōgoku|Kyougoku Takatoshi,Q5,,
+Kyogoku,Kyōgoku Station,Q11374441,7,0,1,"Defunct railway station in Kyogoku, Hokkaido",Kyogoku Station,Q4663385,,
+Kyogoku,Kyōgoku Kiyō,Q11374432,7,0,1,Kazoku and haiku poet (1908-1981),Kyōgoku Takamitsu|Takamitsu Kyōgoku|Takamitsu Kyogoku|Kyogoku Takamitsu|Kyogoku Kiyo|Kyougoku Kiyou,Q5,,
+Kyogoku,Natsuhiko Kyōgoku,Q835766,7,0,1,novelist,Kyōgoku Natsuhiko|Kyogoku Natsuhiko|Natsuhiko Kyogoku|Natsuhiko Kyougoku,Q5,,Natsuhiko Kyogoku
+Kyogoku,Rosa 'Kyogoku',Q83664602,7,0,1,rose cultivar,Kyogoku,Q26817508,Q279919,
+Kawatana,Kawatana,Q784698,8,0,1,"town in Higashisonogi district, Nagasaki prefecture, Japan",,Q1059478,,"Kawatana, Nagasaki"
+Kawatana,Kawatana,Q35798838,8,0,1,"dissolved municipality in Toyoura district, Yamaguchi prefecture, Japan",,Q18663566,,
+Kawatana,Kawatana Station,Q6379885,8,0,1,"railway station in Kawatana, Higashisonogi district, Nagasaki prefecture, Japan",,Q55488|Q4312270|Q122397434|Q85882206,,Kawatana Station
+Kawatana,Kawatana-Onsen Station,Q3661666,8,0,1,"railway station in Shimonoseki, Yamaguchi prefecture, Japan",,Q55488|Q4312270|Q85882206|Q123094976|Q116259461,,Kawatana-Onsen Station
+Kawatana,Kawatana Onsen,Q11478867,8,0,1,"building in Yamaguchi Prefecture, Japan",,Q655311|Q11428612,,
+Kawatana,Kawatana Gawa,Q11478866,8,0,1,river in Japan,,Q4022|Q47521,,
+Kawatana,Kawatana Gawa,Q35365378,8,0,1,"stream in Yamaguchi Prefecture, Japan",,Q47521,,
+Kawatana,Kawatanachochuokominkantoshoshitsu,Q61900114,8,0,1,"library in Nagasaki Ken, Japan",,Q28564,,
+Samani,Samani,Q123876436,9,0,1,Indonesian politician (born 1965 in Rembang),,Q5,,
+Samani,Samani,Q1208030,9,0,1,"town in Samani district, Hokkaido, Japan",,Q1059478,,"Samani, Hokkaido"
+Samani,Samanid dynasty,Q486181,9,0,1,Iranian dynasty ruling Khorasan and Transoxiana (819–999),Samanids|Samanid Emirate,Q164950,,
+Samani,Samani,Q25209379,9,0,1,monarch of Aššūrāyu,,Q5,,Samani (Assyrian king)
+Samani,Samani,Q37550853,9,0,1,family name,,Q101352,,
+Samani,Samaniego,Q2195228,9,0,1,Colombian municipality of the department of Nariño,,Q2555896,,"Samaniego, Nariño"
+Samani,Samani Station,Q7408595,9,0,1,"railway station in Samani, Samani district, Hokkaido, Japan",,Q55488|Q4663385,,Samani Station
+Samani,Samani,Q16694083,9,0,1,Abolished village in Kostanay region,,Q486972|Q130212458,,
+Samani,Samani,Q6039651,9,0,1,national dance of Azerbaijan,,Q107357104,Q51799726,
+Samani,Samanid Empire,Q12150341,9,0,1,former state in Central Asia,,Q3024240,,Samanid Empire
+Shintomi,Shintomi,Q1206753,10,0,1,"town in Koyu district, Miyazaki prefecture, Japan",,Q1059478,,"Shintomi, Miyazaki"
+Shintomi,Shintomi,Q11501882,10,0,1,"town located in Chūō-ku, Tokyo",Shin-Tomi,Q5327369,,
+Shintomi,Shintomi,Q11501890,10,0,1,"dissolved municipality in Kitakoma district, Yamanashi prefecture, Japan",,Q18663566,,
+Shintomi,Shintomichō Station,Q332002,10,0,1,"metro station in Chuo, Tokyo, Japan",,Q55491|Q928830,,Shintomichō Station
+Shintomi,Shintomichou Station,Q11501896,10,0,1,"tram station in Toyama, Toyama prefecture, Japan",,Q2175765,,
+Shintomi,Xingfu Market,Q30947508,10,0,1,,Hsinfu Market|Sinfu Market|Shintomichō Market,Q268592|Q15894910,,
+Shintomi,Shintomi-chō,Q28683343,10,0,1,"neighborhood in Nakamura-ku, Japan",,Q5327369,,
+Shintomi,Shintomi bypass,Q11501883,10,0,1,road in Japan,,Q34442,,
+Shintomi,Shintomi Town Library,Q61901323,10,0,1,"library in Miyazaki Ken, Japan",,Q28564,,
+Shintomi,Ichigo Miyazaki Shintomi Football Stadium,Q106128932,10,0,1,"football venue in Shintomi, Miyazaki Prefecture, Japan",Shintomi Tegeva Soccer Stadium|Unilever Stadium Shintomi,Q1154710,,Ichigo Miyazaki Shintomi Football Stadium
+Oiso,Oiso,Q385023,11,0,1,"town in Naka District, Kanagawa Prefecture, Japan",Oiso Town|Oiso-machi,Q2264924|Q1059478,,Ōiso
+Oiso,Oison,Q632913,11,0,1,"commune in Loiret, France",,Q484170,,Oison
+Oiso,Zarqan Airport,Q12695657,11,0,1,airport in Iran,OISO|Zarqān,Q1248784,,
+Oiso,Oiso,Q17175289,11,0,1,"dissolved municipality in Gamō district, Shiga prefecture, Japan",,Q18663566,,
+Oiso,Oiso,Q27237616,11,0,1,"Japanese family name (小磯, おいそ)",小磯|おいそ,Q101352,,
+Oiso,Ōiso Station,Q865175,11,0,1,"railway station in Oiso, Naka district, Kanagawa prefecture, Japan",,Q55488|Q4312270|Q2142091|Q121844689|Q123094976,,Ōiso Station
+Oiso,Oiso,Q75090715,11,0,1,part of the series about 53 stations of the Tōkaidō,,Q18219090,,
+Oiso,Oiso,Q79938171,11,0,1,"print by Jun'ichiro Sekino (Japanese, 1914-1988) (1985.583)",,Q11060274,,
+Oiso,Oisocerini,Q21216452,11,0,1,tribe of insects,,Q16521,,
+Oiso,Oisodix,Q116951079,11,0,1,genus of plants,,Q16521,,

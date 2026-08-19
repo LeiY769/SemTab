@@ -1,0 +1,101 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Montcam,Montcamp,Q136829243,0,0,1,,,Q136806666,,
+Prtneuf,,,1,0,0,,,,,
+anicuagap,,,2,0,0,,,,,
+cton,Ctonoxylon,Q14923146,3,0,1,genus of insects,,Q16521,,
+cton,Ctonocryphus,Q14924585,3,0,1,genus of insects,,Q16521,,
+cton,Ctonoxylon festivum,Q124509634,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon uniseriatum,Q124509670,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon kivuensis,Q124509651,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon capensis,Q124509627,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon spathifer,Q124509668,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon fuscum,Q124509637,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon montanum,Q124509660,3,0,1,species of insect,,Q16521,,
+cton,Ctonoxylon griseum,Q124509639,3,0,1,species of insect,,Q16521,,
+Abitlbi,,,4,0,0,,,,,
+Rouxill,,,5,0,0,,,,,
+Kamouraskb,,,6,0,0,,,,,
+Bellechase,,,7,0,0,,,,,
+Charlvoix,Charlesbourg,Q1660491,8,0,2,"borough in Quebec City, Quebec, Canada, former city",,Q19905455|Q27676420|Q27676416|Q27676414|Q27676416|Q19730508|Q532|Q515,,"Charlesbourg, Quebec City"
+Charlvoix,Charlesbourg,Q2960772,8,0,2,"provincial electoral district in Quebec, Canada",,Q2973931,,Charlesbourg (provincial electoral district)
+Charlvoix,Charlesbourg—Haute-Saint-Charles,Q429015,8,0,2,"federal electoral district in Quebec, Canada (Since 2004)",Charlesbourg--Haute-Saint-Charles,Q3248048|Q17202187|Q192611,,Charlesbourg—Haute-Saint-Charles
+Charlvoix,Charlesbourg-Est,Q47462859,8,0,2,"former municipality in Quebec, Canada, merged into Charlesbourg",,Q27676428|Q123705|Q19730508,,
+Charlvoix,Charlesbourg-Ouest,Q48758808,8,0,2,"neighbourhood in Quebec City, Quebec, Canada, former municipality",,Q19730508|Q27676428|Q123705,,
+Charlvoix,Charlesbourg,Q134593553,8,0,2,"former federal electoral district in Quebec, Canada (1979–2000)",,Q17202187|Q3248048,,
+Charlvoix,Charlesbourg,Q134593552,8,0,2,"former federal electoral district in Quebec, Canada (2004–2004)",Charlesbourg,Q17202187|Q3248048,,
+Charlvoix,Charlesbourg,Q113067784,8,0,2,"post office in Quebec City, Quebec, Canada",,Q35054,,
+Charlvoix,Fort Charlesbourg Royal,Q2960771,8,0,2,"fort and National Historic Site in Quebec City, Canada",Charlesbourg-Royal,Q839954|Q350895,,Charlesbourg-Royal
+Charlvoix,Charlesbourg—Jacques-Cartier,Q2960774,8,0,2,"former federal electoral district in Quebec, Canada (2000–2004)",Charlesbourg--Jacques-Cartier,Q17202187|Q3248048,,Charlesbourg-Jacques-Cartier
+Charlvoix,Rivière-du-Loup,Q142024,8,0,2,"town in Quebec, Canada","Riviere-du-Loup|Rivière-du-Loup, Quebec",Q27676416,,Rivière-du-Loup
+Charlvoix,Rivière du Loup,Q3433920,8,0,2,"watercourse in Louiseville, Quebec, Canada",Wolf's River,Q4022,,
+Charlvoix,Rivière du Loup,Q15842620,8,0,2,"watercourse in Saint-Georges, Quebec, Canada",,Q4022,,Rivière du Loup (Chaudière River tributary)
+Charlvoix,Rivière du Loup,Q3433919,8,0,2,"watercourse in Rivière-du-Loup, Quebec, Canada",Riviere du Loup,Q4022,,Rivière du Loup (Bas-Saint-Laurent)
+Charlvoix,Rivière du Loup,Q22417801,8,0,2,"watercourse in Lac-Ashuapmushuan, Quebec, Canada",,Q355304,,
+Charlvoix,Rivière du Loup,Q25397189,8,0,2,"watercourse in Pointe-à-la-Croix, Quebec, Canada",,Q355304,,
+Charlvoix,Rivière-du-Loup,Q1517236,8,0,2,"regional county municipality in Quebec, Canada",Riviere-du-Loup Regional County Municipality|Rivière-du-Loup Regional County Municipality,Q204613,,Rivière-du-Loup Regional County Municipality
+Charlvoix,Rivière-du-Loup,Q3433604,8,0,2,"former provincial electoral district in Quebec, Canada",,Q2973931,,Rivière-du-Loup (electoral district)
+Charlvoix,Rivière du Loup Ouest,Q22417824,8,0,2,"watercourse in Quebec, Canada",,Q355304,,
+Charlvoix,Rivière-du-Loup railway station,Q3097417,8,0,2,"railway station in Rivière-du-Loup, Canada",Riviere-du-Loup railway station,Q55488,,Rivière-du-Loup station
+Avigon,,,9,0,0,,,,,
+bitibi-Ouest,,,10,0,0,,,,,
+Paineau,Paineau,Q63760711,11,0,1,family name,,Q101352,,
+Pntiac,,,12,0,0,,,,,
+Franchevillg,Francheville,Q4054,13,0,2,"commune in the metropolis of Lyon, France",Franche-Commune,Q484170,,"Francheville, Metropolis of Lyon"
+Franchevillg,Francheville,Q930005,13,0,2,"commune in Meurthe-et-Moselle, France",,Q484170,,"Francheville, Meurthe-et-Moselle"
+Franchevillg,Francheville,Q1214891,13,0,2,"commune in Marne, France",,Q484170,,"Francheville, Marne"
+Franchevillg,Francheville,Q89452,13,0,2,"commune in Côte-d'Or, France",,Q484170,,"Francheville, Côte-d'Or"
+Franchevillg,Francheville,Q212385,13,0,2,"commune in Orne, France",,Q484170,,"Francheville, Orne"
+Franchevillg,Francheville,Q288873,13,0,2,"commune in Jura, France",,Q484170,,"Francheville, Jura"
+Franchevillg,La Francheville,Q218732,13,0,2,"commune in Ardennes, France",Francheville,Q484170,,La Francheville
+Franchevillg,Francheville,Q1008333,13,0,2,"former commune in Eure, France",,Q484170|Q21869758,,"Francheville, Eure"
+Franchevillg,Francheville,Q63396365,13,0,2,family name,,Q101352,,
+Franchevillg,Francheville,Q5479753,13,0,2,"census division of Quebec, Canada",,Q18810091,,Francheville (census division)
+Les aurentides,,,14,0,0,,,,,
+Argenteui,Argenteuil,Q181946,15,0,1,"commune in Val-d'Oise, France",,Q484170,,Argenteuil
+Argenteui,Argenteuil-sur-Armançon,Q1151230,15,0,1,"commune in Yonne, France",Argenteuil,Q484170,,Argenteuil-sur-Armançon
+Argenteui,Argenteuil,Q645211,15,0,1,"regional county municipality in Quebec, Canada",Argenteuil Regional County Municipality,Q204613,,Argenteuil Regional County Municipality
+Argenteui,gare d'Argenteuil,Q3095674,15,0,1,"railway station in Argenteuil, France",Argenteuil,Q55488,,Argenteuil station
+Argenteui,Argenteuil (Pauly-Wissowa),Q19991682,15,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Argenteui,Argenteuil—Papineau—Mirabel,Q2860948,15,0,1,"former federal electoral district in Quebec, Canada (2004–2015)",,Q3248048|Q17202187,,Argenteuil—Papineau—Mirabel
+Argenteui,Argenteuil,Q2860941,15,0,1,"provincial electoral district in Quebec, Canada",,Q2973931,,Argenteuil (provincial electoral district)
+Argenteui,Argenteuil Basin with a Single Sailboat,Q19570879,15,0,1,painting by Claude Monet,,Q3305213,,Argenteuil Basin with a Single Sailboat
+Argenteui,Argenteuil—La Petite-Nation,Q16833613,15,0,1,"federal electoral district in Quebec, Canada (Since 2015)",Argenteuil--La Petite-Nation,Q17202187|Q3248048,,Argenteuil—La Petite-Nation
+Argenteui,Argenteuil,Q2860945,15,0,1,"painting by Édouard Manet, 1874",,Q3305213,,Argenteuil (Manet)
+Arthabask,Arthabaska,Q97802822,16,0,1,"administrative sector in Victoriaville, Quebec, Canada, former town",,Q28203007|Q27676416|Q27676420|Q19730508,,
+Arthabask,Arthabaska,Q707993,16,0,1,"regional county municipality of Centre-du-Québec, Quebec, Canada",Arthabaska Regional County Municipality,Q204613|Q18810091,,Arthabaska Regional County Municipality
+Arthabask,Arthabaska,Q2864904,16,0,1,"provincial electoral district in Quebec, Canada",,Q2973931,,Arthabaska (electoral district)
+Arthabask,Arthabaska,Q138108161,16,0,1,"former municipality in Quebec, Canada, divided to create Saint Christophe d'Arthabaska and Saint Norbert d'Arthabaska",,Q27676428|Q19730508,,
+Arthabask,Parish of Saint-Christophe-d'Arthabaska cemetery,Q97729872,16,0,1,"cemetery in Victoriaville, Centre-du-Quebec Region, Quebec, Canada",Saint-Christophe-d'Arthabaska Cemetery|Cimetière Saint-Christophe-d'Arthabaska|Saint Christophe of Arthabaska Cemetery|Arthabaska Cemetery,Q39614,,
+Arthabask,Arthabaska,Q63242328,16,0,1,"township in Quebec, Canada",Arthabaska Township,Q23019040,,
+Arthabask,Arthabaska County,Q2991091,16,0,1,historic county of Quebec in Quebec,,Q2991491,,"Arthabaska County, Quebec"
+Arthabask,Arthabaska,Q61021430,16,0,1,"Meteorological Service of Canada's station for Arthabaska (MSC ID: 7020305), Québec, Canada",,Q190107,,
+Arthabask,Arthabaska Köprüsü,Q97803129,16,0,1,,,Q537127,,
+Arthabask,District judiciaire d'Arthabaska,Q97803124,16,0,1,"judicial district of Quebec, Canada",,Q6302972,,
+Jlievte,,,17,0,0,,,,,
+Deux-Mongnes,Saint-Étienne-du-Rouvray,Q1058186,18,0,2,"commune in Seine-Maritime, France",,Q484170,,Saint-Étienne-du-Rouvray
+Deux-Mongnes,Saint-Étienne-du-Rouvray,Q2581625,18,0,2,"railway station in Saint-Étienne-du-Rouvray, France",Saint-Etienne-du-Rouvray,Q55488,,
+Deux-Mongnes,Saint-Etienne-du-Rouvray parish,Q63987055,18,0,2,"Roman Catholic parish in the Diocese of Rouen, France",Saint Etienne du Rouvray|Saint Étienne de Saint-Étienne-du-Rouvray,Q102496,,
+Deux-Mongnes,Saint-Étienne-du-Rouvray church,Q26086465,18,0,2,"church located in Seine-Maritime, in France",Saint-Étienne church|Saint-Etienne church|Saint-Etienne-du-Rouvray church,Q16970,,
+Deux-Mongnes,canton of Saint-Étienne-du-Rouvray,Q944341,18,0,2,canton of France,canton of Saint-Etienne-du-Rouvray,Q18524218,,Canton of Saint-Étienne-du-Rouvray
+Deux-Mongnes,2016 Saint-Étienne-du-Rouvray church attack,Q26085646,18,0,2,terrorist attack in July 2016,,Q134693479,,2016 Normandy church attack
+Deux-Mongnes,Saint-Étienne-du-Rouvray,Q20853104,18,0,2,Wikimedia disambiguation page,,Q4167410,,
+Deux-Mongnes,Rouen,Q30974,18,0,2,"commune in Seine-Maritime, France",Rotomagus,Q484170|Q1549591,,Rouen
+Deux-Mongnes,Rouen,Q37301308,18,0,2,family name,,Q101352,,
+Deux-Mongnes,FC Rouen,Q867320,18,0,2,association football club in France,F.C. Rouen 1899|Rouen|Football Club de Rouen 1899,Q476028,,FC Rouen
+Deux-Mongnes,Rouen Cathedral,Q476516,18,0,2,"cathedral located in Seine-Maritime, in France",,Q56242215,,Rouen Cathedral
+Deux-Mongnes,Rouen,Q28130742,18,0,2,painting by Paul Signac,,Q3305213,,
+Deux-Mongnes,Rouen,Q110022256,18,0,2,watercolour - attributed to Amelia Long,,Q18761202,,
+Deux-Mongnes,Rouen,Q49194440,18,0,2,painting by Samuel Halpert,,Q3305213,,
+Deux-Mongnes,Rouen,Q110122618,18,0,2,engraving - print made by Albert Henry Payne,,Q11835431|Q11060274,,
+Deux-Mongnes,Rouen,Q59550859,18,0,2,painting by Henri Beau,,Q3305213,,
+Deux-Mongnes,Rouen,Q23641885,18,0,2,"artwork by Jean-Pierre Cortot in Paris, France",,Q179700,,
+Deux-Mongnes,Seine-Maritime,Q12758,18,0,2,French department,Seine-Inférieure|Seine-Inferieure,Q6465,,Seine-Maritime
+Deux-Mongnes,Seine-Maritime's 4th constituency,Q3413588,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 4th constituency
+Deux-Mongnes,Seine-Maritime's 6th constituency,Q3485701,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 6th constituency
+Deux-Mongnes,Seine-Maritime's 9th constituency,Q3338771,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 9th constituency
+Deux-Mongnes,Seine-Maritime's 1st constituency,Q3402098,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 1st constituency
+Deux-Mongnes,Seine-Maritime's 7th constituency,Q3479041,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 7th constituency
+Deux-Mongnes,Seine-Maritime's 5th constituency,Q2972969,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 5th constituency
+Deux-Mongnes,departmental council of Seine-Maritime,Q23782133,18,0,2,departmental legislature in France,Seine-Maritime departmental council|conseil départemental de la Seine-Maritime,Q19758733,,Departmental Council of Seine-Maritime
+Deux-Mongnes,Seine-Maritime's 8th constituency,Q3142942,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 8th constituency
+Deux-Mongnes,Seine-Maritime's 2nd constituency,Q3025228,18,0,2,constituency of the French Fifth Republic,,Q15620943,,Seine-Maritime's 2nd constituency

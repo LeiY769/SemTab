@@ -1,0 +1,22 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Pknacoteca Comunale,,,0,0,0,,,,,
+Quistello,Quistello,Q42210,0,1,1,Italian comune,,Q747074,,Quistello
+Quistello,Quistello,Q30029251,0,1,1,chief town of the homonym municipality,,Q15303838,,
+Quistello,Quistello railway station,Q3970630,0,1,1,railway station in Italy,,Q55488,,
+Quistello,Quistello,Q18505442,0,1,1,human settlement in Italy,,Q1134686,,
+Quistello,Quistello Martiri Di Belfiore,Q52794566,0,1,1,"primary school in Quistello, Mantua, Lombardy, Italy",,Q57775518,,
+Quistello,Quistello IGT,Q139891228,0,1,1,Italian typical geographical indication wine from Lombardy,,Q282,Q1125341|Q4013669,
+Quistello,Bianco di Quistello,Q12955012,0,1,1,wine,,Q282,,
+Quistello,Quistello,Q29991193,0,1,1,Wikimedia disambiguation page,,Q4167410,,
+Neue#Pinakothek,Neue Pinakothek,Q170152,1,0,2,"art museum in Munich, Germany",,Q740437|Q17431399|Q207694,,Neue Pinakothek
+Neue#Pinakothek,Neue Pinakothek,Q104377403,1,0,2,"original building of the Neue Pinakothek in Munich, Germany",,Q207694,,
+Neue#Pinakothek,"Neue Pinakothek, gallery 1",Q20031606,1,0,2,exhibition room in the Neue Pinakothek in Munich,,Q15206795,,
+Neue#Pinakothek,"Neue Pinakothek, gallery 2",Q28114071,1,0,2,,,Q15206795,,
+Neue#Pinakothek,Neue Pinakothek Kabinett 2,Q135575155,1,0,2,,,Q15206795,,
+Neue#Pinakothek,Pinakothek der Moderne,Q250195,1,0,2,"art museum in Munich, Germany",,Q17431399|Q740437,,Pinakothek der Moderne
+Maxvorstadt,Maxvorstadt,Q256012,1,1,1,"borough of Munich, Germany",,Q253270|Q123705,,Maxvorstadt
+Maxvorstadt,Neue Pinakothek,Q170152,1,1,2,"art museum in Munich, Germany",,Q740437|Q17431399|Q207694,,Neue Pinakothek
+Maxvorstadt,Neue Pinakothek,Q104377403,1,1,2,"original building of the Neue Pinakothek in Munich, Germany",,Q207694,,
+Maxvorstadt,"Neue Pinakothek, gallery 1",Q20031606,1,1,2,exhibition room in the Neue Pinakothek in Munich,,Q15206795,,
+Maxvorstadt,"Neue Pinakothek, gallery 2",Q28114071,1,1,2,,,Q15206795,,
+Maxvorstadt,Neue Pinakothek Kabinett 2,Q135575155,1,1,2,,,Q15206795,,

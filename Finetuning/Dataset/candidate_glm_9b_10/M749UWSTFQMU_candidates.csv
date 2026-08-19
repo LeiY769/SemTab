@@ -1,0 +1,188 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kells Canyon Dam,,,0,0,0,,,,,
+Santa Rs Dam,Santa Rosa Dam,Q6085379,1,0,2,Mexican dam,General Manuel M. Dieguez hydroelectric power station,Q12323|Q15911738,,
+Santa Rs Dam,Santa Rosa Dam,Q7419880,1,0,2,"dam in Guadalupe County, New Mexico, United States of America",,Q12323,,Santa Rosa Dam
+Santa Rs Dam,Santa Rosa Dam,Q34918752,1,0,2,"dam in Wilbarger County, Texas, United States of America",,Q12323,,
+Spencer Dao,,,2,0,0,,,,,
+Aswap Dam,Lake Nasser,Q182796,3,0,2,reservoir in Southern Egypt and northern Sudan,Lake Nubia,Q131681,,Lake Nasser
+Aswap Dam,Lake Nassere,Q129642706,3,0,2,lake in the municipality of Scurelle,,Q4735538,,
+Aswap Dam,Aswan Dam,Q38891,3,0,2,"dam in Aswan, Egypt",Aswan High Dam|Aswan elu Dam,Q3497167|Q1244922|Q15911738,,Aswan High Dam
+Lake Nasser,Lake Nasser,Q182796,3,1,1,reservoir in Southern Egypt and northern Sudan,Lake Nubia,Q131681,,Lake Nasser
+Lake Nasser,Lake Nassere,Q129642706,3,1,1,lake in the municipality of Scurelle,,Q4735538,,
+Lake Nasser,Aswan Dam,Q38891,3,1,2,"dam in Aswan, Egypt",Aswan High Dam|Aswan elu Dam,Q3497167|Q1244922|Q15911738,,Aswan High Dam
+L Pouget,,,4,0,0,,,,,
+Eidsfossen power statio,Eidsfossen power station,Q17769289,5,0,1,"hydroelectric power station in Gloppen municipality, Vestland county, Norway",Eidsfossen,Q15911738,,
+Eidsfossen power statio,Eidsfossen power station,Q28720420,5,0,1,"hydroelectric power station in Heim municipality, Trøndelag county, Norway",Eidsfossen,Q15911738,,
+Eidsfossen powerstation,Eidsfossen power station,Q17769289,6,0,2,"hydroelectric power station in Gloppen municipality, Vestland county, Norway",Eidsfossen,Q15911738,,
+Eidsfossen powerstation,Eidsfossen power station,Q28720420,6,0,2,"hydroelectric power station in Heim municipality, Trøndelag county, Norway",Eidsfossen,Q15911738,,
+Eidsfossen powerstation,Eidsfossen Hydroelectric Power Station,Q20753983,6,0,2,"building in Tynset, Hedmark, Norway",,Q15911738,,Eidsfossen Hydroelectric Power Station
+Boundary Da,Boundary Dam,Q3435288,7,0,1,"hydroelectric dam in Washington State, United States",,Q12323|Q15911738,,Boundary Dam
+Boundary Da,Boundary Dam Power Station,Q4949936,7,0,1,"Coal-fired power station near Estevan, Saskatchewan",,Q6558431,,Boundary Dam Power Station
+Boundary Da,Boundary Dam Lake,Q4949933,7,0,1,Lake in Saskatchewan,,Q269528,,Boundary Dam Reservoir
+Boundary Da,Boundary Dam,Q21953970,7,0,1,lake in Australia,,Q23397,,
+Boundary Da,Boundary Dam,Q21942006,7,0,1,"dam in Hale, MacDonnell Shire Council, Northern Territory, Australia; geonames ID = 8185762",,Q12323,,
+Boundary Da,Boundary Dam,Q21944698,7,0,1,"dam in Costello, Barkly Shire Council, Northern Territory, Australia; geonames ID = 8185850",,Q12323,,
+Boundary Da,Boundary Dam,Q21944699,7,0,1,"dam in Anmatjere, Central Desert Shire Council, Northern Territory, Australia",,Q12323,,
+Boundary Da,Boundary Dam,Q21945680,7,0,1,dam in South Australia; geonames ID = 8187075,,Q12323,,
+Boundary Da,Boundary Dam,Q21945124,7,0,1,dam in Western Australia,,Q12323,,
+Boundary Da,Boundary Dam,Q21942005,7,0,1,"dam in Hugh, MacDonnell Shire Council, Northern Territory, Australia",,Q12323,,
+Boundary Da,Boundary Dam,Q21945759,7,0,2,dam in South Australia; geonames ID = 8186998,,Q12323,,
+Boundary Da,Boundary Dam,Q21945545,7,0,2,"dam in South Australia, Australia",,Q12323,,
+Kingsley Dm,Kingsley Dam,Q14704936,8,0,2,"dam in Keith County, Nebraska, United States of America",,Q12323|Q15911738,,Kingsley Dam
+Kingsley Dm,Kingsley Dam,Q34858479,8,0,2,"dam in Nebraska, United States of America, United States of America",,Q12323,,
+Kingsley Dm,Kingsley Dam,Q48991321,8,0,2,"dam in Loudoun County, Virginia, United States of America",,Q12323,,
+Lake McConaughy,Lake McConaughy,Q6476851,8,1,1,body of water,,Q131681,,Lake McConaughy
+Lake McConaughy,Lake McConaughy State Recreation Area,Q49513424,8,1,1,"park in Keith County, Nebraska, United States of America",,Q22698,,
+Lake McConaughy,Lake Mead,Q654515,8,1,2,"reservoir on the Colorado River, Nevada and Arizona in the United States",,Q131681,,Lake Mead
+Lake McConaughy,IMO 8124292,Q52326136,8,1,2,scrapped bulk carrier,,Q15276,,
+Lake McConaughy,Lake Mead National Recreation Area,Q6476864,8,1,2,"protected area in Clark County, Nevada and Mohave County, Arizona in the United States",LAKE,Q1132998|Q30304302,,Lake Mead National Recreation Area
+Lake McConaughy,Lake Mead,Q49303794,8,1,2,"lake in Johnston County, Wyoming, United States",,Q23397,,
+Lake McConaughy,LAKE MEAD,Q127045346,8,1,2,hymn tune,,Q105543609,,
+Lake McConaughy,Nevada State Route 146,Q886687,8,1,2,"state highway in Clark County, Nevada, United States",SR 146|St Rose Parkway|Lake Mead Drive,Q34442,,Nevada State Route 146
+Lake McConaughy,Lake Meade Landing Tennis Complex,Q49513430,8,1,2,park in the United States of America,,Q22698,,
+Lake McConaughy,Lake Mead Dam,Q48991862,8,1,2,"dam in Suffolk, Virginia, United States",,Q12323,,
+Lake McConaughy,Lake Meade,Q1181316,8,1,2,"census designated place in Adams County, Pennsylvania, United States","Lake Meade, PA",Q498162|Q17343829,,"Lake Meade, Pennsylvania"
+Lake McConaughy,Alan Bible Visitor Center,Q1817736,8,1,2,"visitor center and botanical garden in Nevada, USA",Alan Bible Visitor Center|Lake Mead Visitor Center|Alan Bible Botanical Garden,Q167346|Q78458396|Q35989030,,Alan Bible Visitor Center
+Lake McConaughy,Lake Mohave,Q1801012,8,1,2,"reservoir on the Colorado River between the Hoover Dam and Davis Dam in Nevada and Arizona, United States",,Q131681,,Lake Mohave
+Lake McConaughy,Lake Mohave Ranchos Airport,Q49747346,8,1,2,,,Q62447,,
+Lake McConaughy,Lake Mohave Geophysical Survey 2002: GIS Data Release,Q92345871,8,1,2,scientific article published in 2005,,Q13442814,,
+Wlson Dam,Wilson Dam,Q2885002,9,0,2,"dam in Alabama, United States of America, United States of America",,Q12323|Q15911738,,Wilson Dam
+Wlson Dam,Wilson Dam,Q34956899,9,0,2,"dam in Russell County, Kansas, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q33133402,9,0,2,dam in India,,Q12323,,
+Wlson Dam,Wilson Dam,Q49003599,9,0,2,"dam in Moffat County, Colorado, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q49003605,9,0,2,"dam in Monroe County, Pennsylvania, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q34956915,9,0,2,"dam in Callaway County, Missouri, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q31589995,9,0,2,"dam in Grimes County, Texas, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q49003606,9,0,2,"dam in Aurora County, South Dakota, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q34956886,9,0,2,"dam in Ben Hill County, Georgia, United States of America",,Q12323,,
+Wlson Dam,Wilson Dam,Q21950142,9,0,2,dam in South Australia,,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q34957134,9,0,2,"dam in Cumberland County, North Carolina, United States",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q34957000,9,0,2,"dam in Sumter County, Georgia, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q34957011,9,0,2,"dam in Tift County, Georgia, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q34956990,9,0,2,"dam in Morgan County, Georgia, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q31590144,9,0,2,"dam in Henderson County, Texas, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q49003611,9,0,2,"dam in Klamath County, Oregon, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q33133403,9,0,2,"dam in Lake County, Minnesota, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q31590128,9,0,2,"dam in Freestone County, Texas, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q31590176,9,0,2,"dam in Medina County, Texas, United States of America",,Q12323,,
+Wlson Dam,Wilson Lake Dam,Q31590210,9,0,2,"dam in Polk County, Texas, United States of America",,Q12323,,
+Wilson Lake,Wilson Lake,Q7335620,9,1,1,"lake in Alabama, United States on the Tennessee River",,Q131681,,Wilson Lake (Alabama)
+Wilson Lake,Wilson Lake,Q34935756,9,1,1,,,Q131681,,
+Wilson Lake,Wilson Lake,Q1592426,9,1,1,"reservoir in Kansas, United States of America",Wilson Reservoir,Q131681,,Wilson Lake (Kansas)
+Wilson Lake,Wilson Lake,Q22623474,9,1,1,"lake in Yukon, Canada",,Q23397,,
+Wilson Lake,Wilson Lake,Q34935744,9,1,1,,,Q131681,,
+Wilson Lake,Wilson Lake,Q30609969,9,1,1,body of water,,Q23397,,"Wilson Lake (Iron County, Wisconsin)"
+Wilson Lake,Wilson Lake,Q7360633,9,1,1,"lake in Nova Scotia, Canada",,Q23397,,Wilson Lake (Nova Scotia)
+Wilson Lake,Beast Lake,Q19600378,9,1,1,"lake in St. Louis County, Minnesota, United States",Wilson Lake,Q23397,,Beast Lake
+Wilson Lake,Wilson Lake,Q22623176,9,1,1,"lake in the Northwest Territories, Canada",,Q23397,,
+Wilson Lake,Wilson Lake,Q34935778,9,1,1,,,Q131681,,
+Wilson Lake,Wilson Dam,Q2885002,9,1,2,"dam in Alabama, United States of America, United States of America",,Q12323|Q15911738,,Wilson Dam
+Wilson Lake,Wilson Dam,Q34956899,9,1,2,"dam in Russell County, Kansas, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q33133402,9,1,2,dam in India,,Q12323,,
+Wilson Lake,Wilson Dam,Q49003599,9,1,2,"dam in Moffat County, Colorado, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q49003605,9,1,2,"dam in Monroe County, Pennsylvania, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q34956915,9,1,2,"dam in Callaway County, Missouri, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q31589995,9,1,2,"dam in Grimes County, Texas, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q49003606,9,1,2,"dam in Aurora County, South Dakota, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q34956886,9,1,2,"dam in Ben Hill County, Georgia, United States of America",,Q12323,,
+Wilson Lake,Wilson Dam,Q21950142,9,1,2,dam in South Australia,,Q12323,,
+Wilson Lake,Lake Wilson,Q2230409,9,1,2,"human settlement in Murray County, Minnesota, United States of America","Lake Wilson, Minnesota|Lake Wilson, MN",Q1093829,,"Lake Wilson, Minnesota"
+Wilson Lake,Lake Wilson,Q34901944,9,1,2,,,Q131681,,
+Wilson Lake,Lake Wilson,Q21197043,9,1,2,"lake in Murray County, Minnesota, United States of America",,Q23397,,"Lake Wilson (Murray County, Minnesota)"
+Wilson Lake,Lake Wilson,Q85173611,9,1,2,lake in New Zealand,,Q23397,,
+Wilson Lake,Lake Wilson,Q112120517,9,1,2,,Wahiawa Reservoir,Q131681,,
+Wilson Lake,Lake Wilson,Q21474547,9,1,2,lake in Antarctica,Wilson,Q23397,,
+Wilson Lake,Lake Wilson,Q21880850,9,1,2,lake in South Australia,,Q23397,,
+Wilson Lake,Lake Wilson,Q21957344,9,1,2,"lake in Western Australia, Australia",,Q23397,,
+Wilson Lake,Lake Wilson,Q33271160,9,1,2,"lake in Hillsdale County, Michigan, United States of America",,Q23397,,
+Wilson Lake,Lake Wilson,Q35735439,9,1,2,"lake in Columbia County, Florida, United States of America",,Q23397,,
+WolfDreek Dam,Wolf Creek Dam,Q8029823,10,0,2,"dam in Russell County, Kentucky, United States of America",,Q12323|Q15911738,,Wolf Creek Dam
+WolfDreek Dam,Wolf Creek Dam,Q35717344,10,0,2,"dam in Summit County, Ohio, United States of America",,Q12323,,
+WolfDreek Dam,Wolf Creek Dam,Q49003694,10,0,2,"dam in Clearfield County, Pennsylvania, United States of America",,Q12323,,
+WolfDreek Dam,Wolf Creek Dam,Q49003693,10,0,2,"dam in Union County, Oregon, United States of America",,Q12323,,
+WolfDreek Dam,Wolf Creek Dam,Q34958250,10,0,2,"dam in Jackson County, North Carolina, United States of America",,Q12323,,
+WolfDreek Dam,Wolf Creek Dam,Q49003695,10,0,2,"dam in Schuylkill County, Pennsylvania, United States of America",,Q12323,,
+WolfDreek Dam,Wolf Creek Dam,Q49003692,10,0,2,"dam in Rosebud County, Montana, United States of America",,Q12323,,
+Lake Cumberland,Lake Cumberland,Q6475553,10,1,1,"man-made reservoir in Kentucky, United States",,Q131681,,Lake Cumberland
+Lake Cumberland,Lake Cumberland State Resort Park,Q6475556,10,1,1,"State park in Kentucky, United States",Lake Cumberland State Park,Q37988214|Q22698,,Lake Cumberland State Resort Park
+Lake Cumberland,Lake Cumberland Regional Airport,Q10853391,10,1,1,"airport in Kentucky, United States of America",SME|KSME,Q1248784,,Lake Cumberland Regional Airport
+Lake Cumberland,Lake Cumberland West,Q122567586,10,1,1,"hamlet in Columbia County, Georgia, United States","Lake Cumberland West, Georgia|Lake Cumberland West, GA",Q486972|Q5084,,
+Lake Cumberland,Lake Cumberland Regional Hospital heliport,Q61672258,10,1,1,"heliport in Kentucky, United States",39KY,Q502074,,
+Lake Cumberland,Cumberland Lake,Q5193915,10,1,2,"lake in Saskatchewan, Canada",,Q23397,,Cumberland Lake
+Lake Cumberland,Cumberland Lake,Q21953949,10,1,2,lake in Australia,,Q23397,,
+Lake Cumberland,Cumberland Lake,Q22548430,10,1,2,"lake in Manitoba, Canada",,Q23397,,
+Lake Cumberland,Cumberland Lake,Q22829187,10,1,2,Wikimedia disambiguation page,,Q4167410,,
+Espeland power statjon,Espeland power station,Q25435120,11,0,2,"hydroelectric power station in Bergen municipality, Vestland county, Norway",Espeland,Q15911738,,
+Espeland power statjon,Espeland power station,Q28720563,11,0,2,"hydroelectric power station in Hyllestad municipality, Vestland county, Norway",Espeland,Q15911738,,
+Espeland power statin,Osavatnet,Q19384752,12,0,2,"lake in Bergen municipality, Norway",,Q23397,,
+Espeland power statin,Osavatnet power station,Q25435121,12,0,2,"hydroelectric power station in Bergen municipality, Vestland county, Norway",Osavatnet,Q15911738,,
+Espeland power statin,"Osavatnet (lanaw sa Noruwega, Sør-Trøndelag Fylke)",Q49307586,12,0,2,,,Q23397,,
+Espeland power statin,Espeland power station,Q25435120,12,0,2,"hydroelectric power station in Bergen municipality, Vestland county, Norway",Espeland,Q15911738,,
+Espeland power statin,Espeland power station,Q28720563,12,0,2,"hydroelectric power station in Hyllestad municipality, Vestland county, Norway",Espeland,Q15911738,,
+Osavatnet,Osavatnet,Q19384752,12,1,1,"lake in Bergen municipality, Norway",,Q23397,,
+Osavatnet,Osavatnet power station,Q25435121,12,1,1,"hydroelectric power station in Bergen municipality, Vestland county, Norway",Osavatnet,Q15911738,,
+Osavatnet,"Osavatnet (lanaw sa Noruwega, Sør-Trøndelag Fylke)",Q49307586,12,1,1,,,Q23397,,
+Osavatnet,Espeland power station,Q25435120,12,1,2,"hydroelectric power station in Bergen municipality, Vestland county, Norway",Espeland,Q15911738,,
+Osavatnet,Espeland power station,Q28720563,12,1,2,"hydroelectric power station in Hyllestad municipality, Vestland county, Norway",Espeland,Q15911738,,
+Storelv power staion,,,13,0,0,,,,,
+Storelv power station,,,14,0,0,,,,,
+Monticelno Dam,,,15,0,0,,,,,
+Lake Berryessa,Lake Berryessa,Q771189,15,1,1,"reservoir in Napa County, California, United States",,Q131681,,Lake Berryessa
+Lake Berryessa,Lake Berryessa Seaplane Base,Q49747340,15,1,1,"airport in Napa County, California, United States of America",,Q1248784,,
+Lake Berryessa,Lake Berryessa Recreation Area,Q49513015,15,1,1,"park in Napa County, California, United States of America",,Q22698,,
+GrandCoulee Dam,Grand Coulee Dam,Q930391,16,0,2,"concrete hydroelectric gravity dam on the Columbia River in Washington, United States",,Q3497167|Q15911738|Q339353,,Grand Coulee Dam
+GrandCoulee Dam,Grand Coulee Dam,Q5594469,16,0,2,song written and performed by Woody Guthrie,,Q105543609,,Grand Coulee Dam (song)
+GrandCoulee Dam,Grand Coulee Dam,Q79980322,16,0,2,"photograph by Ralston Crawford (American, 1906-1978) (1997.206)",,Q4364339|Q125191,,
+GrandCoulee Dam,Grand Coulee Dam Airport,Q49746533,16,0,2,"airport in Washington, United States of America",,Q1248784,,
+GrandCoulee Dam,Grand Coulee Dam (NAID 49981),Q66328961,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+GrandCoulee Dam,Grand Coulee Dam Construction,Q76457112,16,0,2,print in the National Gallery of Art (NGA 147760),,Q11060274,,
+GrandCoulee Dam,Franklin D. Roosevelt Lake,Q3042661,16,0,2,body of water,,Q131681,,Franklin D. Roosevelt Lake
+GrandCoulee Dam,Coulee Dam,Q1507868,16,0,2,"town in Washington, USA","Coulee Dam, WA",Q15127012,,"Coulee Dam, Washington"
+GrandCoulee Dam,Coulee Dam Staging Area,Q64158902,16,0,2,photograph in the National Gallery of Art (NGA 205405),,Q125191,,
+GrandCoulee Dam,Coulee Dam Seaplane Base,Q49745724,16,0,2,"airport in Okanogan County, Washington, United States of America",,Q1248784,,
+GrandCoulee Dam,Roosevelt Dam,Q48997872,16,0,2,"dam in Tripp County, South Dakota, United States of America",,Q12323,,
+GrandCoulee Dam,Roosevelt Dam Heliport,Q74840895,16,0,2,"heliport in Gila County, Arizona, United States",,Q502074,,
+GrandCoulee Dam,Theodore Roosevelt Lake,Q1426999,16,0,2,"reservoir on the Salt River in Gila County, Arizona, United States",Lake Roosevelt|Roosevelt|Roosevelt Lake|Roosevelt Reservoir,Q131681,,Theodore Roosevelt Lake
+Franklin D. Roosevelt Lake,Franklin D. Roosevelt Lake,Q3042661,16,1,1,body of water,,Q131681,,Franklin D. Roosevelt Lake
+Franklin D. Roosevelt Lake,Grand Coulee Dam,Q930391,16,1,2,"concrete hydroelectric gravity dam on the Columbia River in Washington, United States",,Q3497167|Q15911738|Q339353,,Grand Coulee Dam
+Franklin D. Roosevelt Lake,Grand Coulee Dam,Q5594469,16,1,2,song written and performed by Woody Guthrie,,Q105543609,,Grand Coulee Dam (song)
+Franklin D. Roosevelt Lake,Grand Coulee Dam,Q79980322,16,1,2,"photograph by Ralston Crawford (American, 1906-1978) (1997.206)",,Q4364339|Q125191,,
+Franklin D. Roosevelt Lake,Grand Coulee Dam Airport,Q49746533,16,1,2,"airport in Washington, United States of America",,Q1248784,,
+Franklin D. Roosevelt Lake,Grand Coulee Dam (NAID 49981),Q66328961,16,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Franklin D. Roosevelt Lake,Grand Coulee Dam Construction,Q76457112,16,1,2,print in the National Gallery of Art (NGA 147760),,Q11060274,,
+LayDam,Laydamban,Q26267399,17,0,1,"village in Pegunungan Bintang Regency, Highland Papua, Indonesia",,Q12488913|Q26211545,,
+LayDam,Lay Dam,Q6505339,17,0,2,"dam in Clanton, Alabama",,Q3497167|Q15911738,,Lay Dam
+LayDam,Lay Dam,Q31806474,17,0,2,"dam in Calhoun County, Alabama, United States of America",,Q12323,,
+LayDam,Lay Dam heliport,Q61671474,17,0,2,"heliport in Alabama, United States",8AL4,Q502074,,
+Taluda Dam,Saluda Dam,Q7406279,18,0,2,"dam in South Carolina, United States of America",Lake Murray Dam,Q12323|Q15911738,,Saluda Dam
+Taluda Dam,Lake Murray Dam,Q34871623,18,0,2,"dam in Love County, Oklahoma, United States of America",,Q12323,,
+Taluda Dam,Lake Murray Dam,Q34871612,18,0,2,"dam in Clayton County, Georgia, United States of America",,Q12323,,
+Lake Murray,Lake Murray,Q6477034,18,1,1,body of water,,Q131681,,Lake Murray (South Carolina)
+Lake Murray,Lake Murray,Q1635229,18,1,1,"lake in Western Province, Papua New Guinea",,Q23397,,Lake Murray (Papua New Guinea)
+Lake Murray,Lake Murray,Q6477033,18,1,1,lake of the United States of America,,Q23397,,Lake Murray (Oklahoma)
+Lake Murray,Lake Murray,Q3215076,18,1,1,"lake in California, United States of America",Lake Murray San Diego,Q131681|Q23397,,Lake Murray (California)
+Lake Murray,Lake Murray,Q21953783,18,1,1,lake in Australia,,Q23397,,
+Lake Murray,Boazi,Q48803717,18,1,1,,Boazi languages|Lake Murray,Q25295,Q55603991,Boazi languages
+Lake Murray,Lake Murray,Q22542100,18,1,1,"lake in Nova Scotia, Canada",,Q23397,,
+Lake Murray,Lake Murray,Q85173460,18,1,1,lake in New Zealand,,Q23397,,
+Lake Murray,Lake Murray State Park,Q49513471,18,1,1,"park in Carter County, Oklahoma, United States of America",,Q22698|Q38001307,,
+Lake Murray,Saluda Dam,Q7406279,18,1,1,"dam in South Carolina, United States of America",Lake Murray Dam,Q12323|Q15911738,,Saluda Dam
+Lake Murray,Murray Lake,Q17110285,18,1,2,"lake north of Bakers Narrows, Manitoba, Canada",,Q23397,,Murray Lake (Manitoba)
+Lake Murray,Murray Lake,Q22632835,18,1,2,"lake in Saskatchewan, Canada",,Q23397,,Murray Lake (Saskatchewan)
+Lake Murray,Murray Lake,Q6939344,18,1,2,"lake in Kent County, Michigan, USA",,Q23397,,Murray Lake (Michigan)
+Lake Murray,Murray Lake,Q49306600,18,1,2,"lake in Douglas County, Wisconsin, United States of America",,Q23397,,
+Lake Murray,Murray Lake,Q22632703,18,1,2,"lake in Unorganized Division No. 23, Manitoba, Canada",,Q23397,,
+Lake Murray,Murray Lake,Q22632813,18,1,2,"lake in Sudbury District, Ontario, Canada (lat 46.68, lon -80.42)",,Q23397,,
+Lake Murray,Murray Lake,Q33293449,18,1,2,"lake in Luce County, Michigan, USA",,Q23397,,
+Lake Murray,Murray Lake,Q49306597,18,1,2,"lake in Flathead County, Montana, United States",,Q23397,,
+Lake Murray,Murray Lake,Q22632750,18,1,2,,,Q23397,,
+Lake Murray,Murray Lake,Q22632823,18,1,2,"lake in Thunder Bay District, Ontario, Canada",,Q23397,,
+Salda Dam,,,19,0,0,,,,,
+Hastwell Dao,Hastwell,Q25661161,20,0,2,"locality in Masterton District, Wellington Region, New Zealand",,Q3257686,,
+Hastwell Dao,Hastwell Stables,Q77978800,20,0,2,"stables at the Cobblestones Museum in Greytown, New Zealand",Cobblestone Museum Stables,Q214252,,
+Hastwell Dao,"Hastwell, Philip",Q111652401,20,0,2,"entry in Alumni Oxonienses: the Members of the University of Oxford, 1715-1886",,Q19389637,,
+Hastwell Dao,Hastwell Cemetery,Q105674011,20,0,2,New Zealand cemetery in Tararua District,,Q39614,,
+Lake Hartwell,Lake Hartwell,Q1800945,20,1,1,"lake on the Georgia/South Carolina border, United States",Hartwell Lake,Q131681,,Lake Hartwell
+Lake Hartwell,Lake Hartwell State Park,Q6476103,20,1,1,"state park in South Carolina, United States",,Q37930839,,Lake Hartwell State Park
+Seven Milf Dam,,,21,0,0,,,,,
+Thompson FallsDam,Thompson Falls Dam,Q7795724,22,0,2,"dam on the Clark Fork River in Sanders County, Montana",,Q3497167|Q15911738|Q12323,,Thompson Falls Dam

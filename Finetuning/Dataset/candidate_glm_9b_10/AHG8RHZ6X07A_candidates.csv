@@ -1,0 +1,105 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+EM* LkHA 224,EM* LkHA 224,Q74299296,0,0,1,,,Q1044693|Q72803622|Q1352333,,
+[SVV2002] CH3OH Maser,[SVV2002] CH3OH Maser,Q74227080,1,0,1,,[BK2004] J203958.0+501424|V* V645 Cyg|MSX5C G094.6037-01.7966|[LBR81] B213810.62+500042.7|MSX6C G094.6028-01.7966,Q1341811|Q1044693|Q72803622|Q1352333|Q67206691|Q497654|Q11282|Q12053157|Q50048|Q67206785|Q1931185|Q6243,,
+[SVV2002] CH3OH Maser,Methanol masers: reliable tracers of the early stages of high-mass star formation,Q68543384,1,0,2,scientific article published in January 2006,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers and their environment at high resolution,Q68453058,1,0,2,scientific article published in January 1998,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers at 107.0 and 156.6GHz,Q68962051,1,0,2,scientific article published in January 2000,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers at 12 GHz,Q68361014,1,0,2,scientific article published in January 1993,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers as tracers of circumstellar disks,Q68239804,1,0,2,scientific article published in January 1998,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol maser polarization in W3(OH),Q56004161,1,0,2,article,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers reveal the magnetic field of the high-mass protostar IRAS 18089-1732,Q68671893,1,0,2,scientific article,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol maser emission from Galactic Center sources with excess 4.5 {mu}m emission,Q69006228,1,0,2,scientific article published in January 2011,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol masers: Evolutionary and kinematic tracers of massive star formation,Q127736831,1,0,2,scholarly article,,Q13442814,,
+[SVV2002] CH3OH Maser,Methanol maser groups and class I emission: Flux density distribution,Q68143863,1,0,2,scientific article published in January 2007,,Q13442814,,
+EM* LkHA 194,EM* LkHA 194,Q74191494,2,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 194,entity matching,Q120969779,2,0,2,area of research,,Q11862829|Q1047113|Q2267705,,
+EM* LkHA 194,Entity matching using visual information,Q117964359,2,0,2,US patent 11308133,,Q43305660,,
+EM* LkHA 194,Entity Matching with Quality and Error Guarantees,Q130965685,2,0,2,scientific article published on 05 November 2019,,Q13442814,,
+EM* LkHA 194,Entity matching for semistructured data in the Cloud,Q66710853,2,0,2,scientific article published on 11 June 2012,,Q13442814,,
+EM* LkHA 194,Entity Matching by Pool-Based Active Learning,Q129005160,2,0,2,scholarly article,,Q13442814,,
+EM* LkHA 194,association,Q744778,2,0,2,connection between ideas or mental states due to similarity or proximity in psychology,linking|association of ideas,,Q3968640|Q230629|Q781413,Association (psychology)
+EM* LkHA 194,hyperlinking,Q114785479,2,0,2,act of creating a hyperlink,linking|to link|to hyperlink,Q4026292,Q11398090,Hyperlinking
+EM* LkHA 194,linking,Q11742780,2,0,2,phase of a software build process in which compiled modules are combined into a single unit,link time|link editing,,Q12819913|Q3249551,Link time
+EM* LkHA 194,Linqing,Q11175303,2,0,2,painter (1791-1846),Liubohuaguan|Yunyintang|Ningxiangshi|Ronghucaotang|Foliao|Yongbaozunyizhishi|Shuimuqinghuazhiguan|Zhenxiang|Jinguanglou|Wanyan Qing|Baishixuan|Boyu|Wanyan Linqing|Jianting|Zhizhixuan|Linking|Langhuanmiaojing|Tuisizhai,Q5,,
+EM* LkHA 194,Linking Logic,Q107452192,2,0,2,,,Q7889,,
+EM* LkHA 194,linking,Q60983550,2,0,2,part of the European Train Control System,,,,
+EM* LkHA 194,Linking ISSN,Q24748985,2,0,2,"unique identifier for all versions of the serial containing the same content across different media (different ISSNs), as defined by ISO 3297:2007",ISSN-L,Q36646373,,
+EM* LkHA 194,key col,Q29438920,2,0,2,lowest col on the highest-running ridge path connecting to an even higher point,key saddle|linking col,Q140703522|Q23008367,Q17334923,Key col
+EM* LkHA 194,Linking Arms Together,Q139689038,2,0,2,,,Q571,,
+EM* LkHA 194,Linking the OLAC Video Game Vocabulary with Wikidata,Q71947365,2,0,2,2019 blog post by Tracy Hoffmann and Peter Chan published in the International Videogame Data Network blog,,Q17928402,,
+EM* LkHA 132,EM* LkHA 132,Q74190845,3,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 176,EM* LkHA 176,Q74189876,4,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* AS 441,EM* AS 441,Q74187778,5,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* AS 441,393,Q1069435,5,0,2,natural number,three hundred ninety-three|three hundred and ninety-three|three hundred ninety three|three hundred and ninety three,Q16317911|Q13366129|Q50707|Q754831,,393 (number)
+EM* AS 441,393,Q48123,5,0,2,year,,Q577,,393
+EM* AS 441,393 Lampetia,Q152382,5,0,2,main-belt asteroid,(393) Lampetia|Lampetia,Q3863,,393 Lampetia
+EM* AS 441,3932 Edshay,Q1045840,5,0,2,asteroid,Edshay|(3932) Edshay,Q3863,,3932 Edshay
+EM* AS 441,3931 Batten,Q927004,5,0,2,asteroid,Batten,Q3863,,3931 Batten
+EM* AS 441,3939 Huruhata,Q1046437,5,0,2,asteroid,Huruhata|(3939) Huruhata,Q3863,,3939 Huruhata
+EM* AS 441,3934 Tove,Q639094,5,0,2,asteroid,Tove,Q3863,,3934 Tove
+EM* AS 441,3931,Q19244843,5,0,2,number,"3,931",Q16317911|Q49008|Q13366129,,
+EM* AS 441,3935 Toatenmongakkai,Q918288,5,0,2,asteroid,Toatenmongakkai,Q3863,,3935 Toatenmongakkai
+EM* AS 441,3930 Vasilev,Q776967,5,0,2,asteroid,Vasilev,Q3863,,3930 Vasilev
+EM* AS 442,EM* AS 442,Q74186881,6,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* AS 442,Epsilon Muscae,Q5175563,6,0,2,variable star in the constellation Musca,,Q1153690|Q67206691|Q2247863|Q67206785,,Epsilon Muscae
+EM* LkHA 193,EM* LkHA 193,Q74186452,7,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 193,entity matching,Q120969779,7,0,2,area of research,,Q11862829|Q1047113|Q2267705,,
+EM* LkHA 193,Entity matching using visual information,Q117964359,7,0,2,US patent 11308133,,Q43305660,,
+EM* LkHA 193,Entity Matching with Quality and Error Guarantees,Q130965685,7,0,2,scientific article published on 05 November 2019,,Q13442814,,
+EM* LkHA 193,Entity matching for semistructured data in the Cloud,Q66710853,7,0,2,scientific article published on 11 June 2012,,Q13442814,,
+EM* LkHA 193,Entity Matching by Pool-Based Active Learning,Q129005160,7,0,2,scholarly article,,Q13442814,,
+EM* LkHA 193,relation,Q930933,7,0,2,general relation between different objects or individuals,connection|link|linkage|relationship,Q96253971|Q96251598|Q937228,Q937228,Relation (philosophy)
+EM* LkHA 193,linkage,Q1153014,7,0,2,assembly of bodies connected to manage forces and movement,mechanical linkage|mechanical connection,,Q1454986,Linkage (mechanical)
+EM* LkHA 193,linkage,Q4536545,7,0,2,group of related languages,,,Q17376908,Linkage (linguistics)
+EM* LkHA 193,Linkage,Q3241597,7,0,2,album by Mami Kawada,,Q482994,,Linkage (album)
+EM* LkHA 193,Linkage,Q17015820,7,0,2,American Thoroughbred racehorse,,Q726,,Linkage (horse)
+EM* LkHA 193,Linkage Ring,Q19263771,7,0,2,album by GARNiDELiA,,Q482994,,Linkage Ring
+EM* LkHA 193,Linkage,Q6554340,7,0,2,concept in computer programming,,,,Linkage (software)
+EM* LkHA 193,linkage disequilibrium,Q2064311,7,0,2,The non-random association of alleles at two or more genetic loci,,,,Linkage disequilibrium
+EM* LkHA 193,Linkage,Q6554338,7,0,2,Cold War-era American policy,,,,Linkage (policy)
+EM* LkHA 193,genetic mapping,Q715789,7,0,2,methods used to identify the locus of a gene and the distances between genes,linkage mapping,,Q130471885,Gene mapping
+EM* LkHA 371,EM* LkHA 371,Q74186271,8,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* LkHA 167,EM* LkHA 167,Q74186193,9,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 170,EM* LkHA 170,Q74183914,10,0,1,,,Q1044693|Q9283100|Q72803622|Q1993624|Q72802977,,
+EM* LkHA 170,EQ 201844+411153,Q74305721,10,0,2,,EM* LkHA 225,Q1341811|Q11282|Q67206691|Q1044693|Q66521853|Q6243|Q67201574|Q72803622,,
+EM* LkHA 170,EM* LkHA 321,Q74342133,10,0,2,,,Q6232|Q72803622,,
+EM* LkHA 170,[OSP2002] BRC 31 25,Q74181549,10,0,2,,,Q72803622|Q1352333|Q72802977|Q67206691,,
+EM* LkHA 170,[OSP2002] BRC 31 24,Q74183122,10,0,2,,,Q72803622|Q1352333,,
+EM* LkHA 170,EM* RJHA 23,Q79278902,10,0,2,,,Q72803622|Q1062509,,
+EM* LkHA 170,EQ 2056.2+4341,Q74186255,10,0,2,,EM* LkHA 185,Q285400|Q1352333|Q72803622|Q72802977,,
+EM* LkHA 170,Cl* NGC 2024 HLL 4,Q79285901,10,0,2,star in the constellation Orion,,Q1062509|Q72803622,,
+EM* LkHA 170,EM* LkHA 227,Q74310028,10,0,2,,,Q1352333|Q72803622,,
+EM* LkHA 170,EM* LkHA 267,Q87101360,10,0,2,,V* V710 Tau B,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* LkHA 170,EM* LkHA 266,Q87629535,10,0,2,,V* V710 Tau A,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* AS 444,EM* AS 444,Q74183864,11,0,1,,,Q1044693|Q72803622,,
+EM* LkHA 168,[HH95] V751 Cyg-5,Q74183765,12,0,1,,,Q1044693|Q72803622|Q72802977|Q523,,
+EM* LkHA 168,EQ 201844+411153,Q74305721,12,0,2,,EM* LkHA 225,Q1341811|Q11282|Q67206691|Q1044693|Q66521853|Q6243|Q67201574|Q72803622,,
+EM* LkHA 168,EM* LkHA 321,Q74342133,12,0,2,,,Q6232|Q72803622,,
+EM* LkHA 168,[OSP2002] BRC 31 25,Q74181549,12,0,2,,,Q72803622|Q1352333|Q72802977|Q67206691,,
+EM* LkHA 168,[OSP2002] BRC 31 24,Q74183122,12,0,2,,,Q72803622|Q1352333,,
+EM* LkHA 168,EM* RJHA 23,Q79278902,12,0,2,,,Q72803622|Q1062509,,
+EM* LkHA 168,EQ 2056.2+4341,Q74186255,12,0,2,,EM* LkHA 185,Q285400|Q1352333|Q72803622|Q72802977,,
+EM* LkHA 168,Cl* NGC 2024 HLL 4,Q79285901,12,0,2,star in the constellation Orion,,Q1062509|Q72803622,,
+EM* LkHA 168,EM* LkHA 227,Q74310028,12,0,2,,,Q1352333|Q72803622,,
+EM* LkHA 168,EM* LkHA 267,Q87101360,12,0,2,,V* V710 Tau B,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* LkHA 168,EM* LkHA 266,Q87629535,12,0,2,,V* V710 Tau A,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* LkHA 183,EM* LkHA 183,Q74183471,13,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 169,EM* LkHA 169,Q74183289,14,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* LkHA 169,EQ 201844+411153,Q74305721,14,0,2,,EM* LkHA 225,Q1341811|Q11282|Q67206691|Q1044693|Q66521853|Q6243|Q67201574|Q72803622,,
+EM* LkHA 169,EM* LkHA 321,Q74342133,14,0,2,,,Q6232|Q72803622,,
+EM* LkHA 169,[OSP2002] BRC 31 25,Q74181549,14,0,2,,,Q72803622|Q1352333|Q72802977|Q67206691,,
+EM* LkHA 169,[OSP2002] BRC 31 24,Q74183122,14,0,2,,,Q72803622|Q1352333,,
+EM* LkHA 169,EM* RJHA 23,Q79278902,14,0,2,,,Q72803622|Q1062509,,
+EM* LkHA 169,EQ 2056.2+4341,Q74186255,14,0,2,,EM* LkHA 185,Q285400|Q1352333|Q72803622|Q72802977,,
+EM* LkHA 169,Cl* NGC 2024 HLL 4,Q79285901,14,0,2,star in the constellation Orion,,Q1062509|Q72803622,,
+EM* LkHA 169,EM* LkHA 227,Q74310028,14,0,2,,,Q1352333|Q72803622,,
+EM* LkHA 169,EM* LkHA 267,Q87101360,14,0,2,,V* V710 Tau B,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* LkHA 169,EM* LkHA 266,Q87629535,14,0,2,,V* V710 Tau A,Q6232|Q72803622|Q497654|Q13890|Q67206785|Q6243|Q72802977,,
+EM* AS 443,EM* AS 443,Q74183243,15,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* LkHA 192,EM* LkHA 192,Q74183011,16,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 192,entity2rec: Learning User-Item Relatedness from Knowledge Graphs for Top-N Item Recommendation,Q100888393,16,0,2,scholarly article by Enrico Palumbo et al published 27 August 2017 in Proceedings of the Eleventh ACM Conference on Recommender Systems,,Q13442814,,
+EM* LkHA 192,entity2rec: Property-specific knowledge graph embeddings for item recommendation,Q109383918,16,0,2,scientific article,,Q13442814,,
+EM* LkHA 192,Entity3,Q110829127,16,0,2,video game publisher,Entity3 Limited,Q1137109,,
+EM* LkHA 147,EM* LkHA 147,Q74182728,17,0,1,,,Q1044693|Q72803622|Q72802977,,
+EM* LkHA 131,EM* LkHA 131,Q74182354,18,0,1,,,Q1044693|Q72803622|Q1352333|Q72802977,,
+EM* LkHA 257,EM* LkHA 257,Q74103165,19,0,1,,,Q1044693|Q72803622|Q72802977,,

@@ -1,0 +1,28 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Cine ABC,Cine ABC,Q20102482,0,0,1,"movie theater in Barcelona, Spain",,Q41253,,
+Cine ABC,"Cinema ABC 1, 2, 3, 4",Q35722011,0,0,1,"former cinema in Zurich, Switzerland",Orient Kino|Cine ABC,Q41253,,
+Cine ABC,Cine ABC,Q38262979,0,0,1,"cinema in Buenos Aires, Argentina",,Q41253,,
+Cine ABC,Ciné ABC,Q35719691,0,0,1,"cinema in Bern, Switzerland",Ciné Victoria,Q41253,,
+Cine ABC,Ciné ABC,Q37937550,0,0,1,"cinema in Ostend, Belgium",,Q41253,,
+Cine ABC,Ciné ABC,Q37940451,0,0,1,"cinema in Ghent, Belgium",,Q41253,,
+Cine ABC,Cafe Teatro Macuba,Q36045401,0,0,1,"cinema in Santiago de Cuba, Cuba",Cine Florencia|Cine ABCDEF,Q41253,,
+Cine ABC,O2 ABC Glasgow,Q7072247,0,0,2,"nightclub and music venue in Glasgow, a former circus and cinema","The O2 ABC|Diorama|Panorama|Hubner's Ice-Skating Palace|Hippodrome|Hengler's Circus|Waldorf Palais|ABC Cinema|Ice Skating Palace|Waldorf Dance Palace|Cannon Cinema|MGM Cinema|The O2, Former Abc Regal Cinema, 304-332 (Even Nos) Sauchiehall Street|304-332 Sauchiehall Street",Q3469910|Q8719053|Q622425|Q41253,,O2 ABC Glasgow
+Cine ABC,"Mirth, Marvel and Maud",Q5323389,0,0,2,"pub, cinema and cultural centre in Walthamstow, London","ABC Cinema|EMD Walthamstow|Granada Cinema, Walthamstow|MGM Cinema|Mirth Walthamstow|Granada Theatre|Cannon|Virgin|Mirth, Marvel & Maud|Mirth, Marvel & Maud, Walthamstow",Q2190251|Q41253|Q212198,,Soho Theatre Walthamstow
+Cine ABC,Genesis Cinema,Q32271096,0,0,2,cinema and former theatre in the London Borough of Tower Hamlets,"Empire Mile End Road|Empire Theatre, Mile End Road|Eagle Tavern|Lusby’s Summer & Winter Garden|Lusby’s Music Hall|Paragon Music Hall|ABC Cinema|Coronet Cinema|Empire Cinema|ABC Mile End|Cannon|Paragon Theatre of Varieties",Q41253|Q24354|Q85769249,,
+Cine ABC,"King's Theatre, Kilmarnock",Q33025373,0,0,2,"former theatre and cinema in Kilmarnock, Scotland","King's Theatre|Regal  Cinema|ABC Cinema|Cannon Cinema|Kilmarnock, 24 Titchfield Street, Cinema|ABC Kilmarnock|Regal Cinema|Cannon|MGM",Q24354|Q41253,,
+Cine ABC,Denton Movie Tavern,Q42299080,0,0,2,"movie theater in Denton, Texas, United States",ABC Cinema|Plitt Cinema 5,Q41253,,
+Cine ABC,Everyman Esher,Q26554332,0,0,2,"cinema in Esher, Surrey, England, UK",Embassy Cinema|Cannon Cinema|ABC Cinema|Odeon Cinema,Q41253,,
+Cine ABC,"King's Theatre, Kirkcaldy",Q33025379,0,0,2,"former theatre and cinema in Kirkcaldy, Scotland",King's Theatre|Opera House|ABC Cinema|Cannon Cinema|MGM Cinema|Hippodrome Theatre|Virgin Cinema|Odeon Cinema,Q24354|Q41253,,
+Cine ABC,"ABC Cinema, Wakefield",Q4650140,0,0,2,"former cinema in Wakefield, England",Regal Cinema|ABC Cinema|Cannon Wakefield,Q41253,,"ABC Cinema, Wakefield"
+Cine ABC,Empire Theatre,Q7007107,0,0,2,"former theatre and cinema in Southend-on-Sea, England",ABC Cinema|Cannon|Rivoli Cinema|New Empire Theatre,Q24354|Q19860854|Q41253,,New Empire Theatre
+Cine ABC,ABC Streatham,Q27086831,0,0,2,"former cinema in Streatham, Lambeth, London, England, demolished with facade and foyer remaining as an entrance for an apartment block",ABC Cinema|Regal Cinema|Cannon,Q41253,,
+Agora,Agora SA,Q395389,1,0,1,Polish media company,Agora|Agora Spółka Akcyjna|Agora S.A.,Q1331793|Q6881511|Q891723|Q18127,,Agora (company)
+Agora,AGORA,Q64826735,1,0,1,2016 art video game,,Q7889,,
+Agora,Agora,Q8191631,1,0,1,Mexican progressive metal band,,Q215380,,
+Agora,agora,Q187909,1,0,1,central public space in ancient Greek city-states,,,Q330284|Q6583066,Agora
+Agora,Agora,Q35329827,1,0,1,"wadi in Agadez Region, Niger",,Q187971,,
+Agora,Agora,Q132673660,1,0,1,"organisation for primary education in North Holland, the Netherlands",Stichting Agora,Q138573992|Q188628,,
+Agora,Agora,Q135074767,1,0,1,video game developed by Michael Bedard,,Q7889,,
+Agora,Agora,Q107254669,1,0,1,genus of crustaceans,,Q16521,,
+Agora,Agora,Q122232828,1,0,1,family name,,Q101352,,
+Agora,Agora,Q135022772,1,0,1,video game developed by K.O. Koala Entertainment,,Q7889,,

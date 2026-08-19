@@ -1,0 +1,82 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+S1,S1 (Berlin),Q2579762,0,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,0,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,0,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,0,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,0,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,0,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,0,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,0,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,0,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,0,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+S1,S1 class,Q138653628,0,0,2,submarine,,Q1428357,Q2975986,
+S1,S1-class destroyer,Q138571616,0,0,2,destroyer,,Q559026,Q174736,
+Osterburken,Osterburken,Q32210066,0,1,1,,,Q3957|Q1499928|Q1739536,,
+Osterburken,Osterburken,Q529154,0,1,1,municipality in Germany,,Q42744322|Q3957|Q1499928,,Osterburken
+Osterburken,Osterburken station,Q22691253,0,1,1,"railway station in Osterburken, Germany",Osterburken,Q55488|Q27996466,,Osterburken station
+Osterburken,Osterburken GVV,Q9392570,0,1,1,"municipality administration association in the district Neckar-Odenwald-Kreis, Baden-Württemberg, Germany",,Q41762994,,
+Osterburken,Osterburken (Samian Ware Discovery Site),Q103188540,0,1,1,Osterburken as Samian Ware discovery site,,Q102202066|Q839954,,
+Osterburken,Osterburken Coin Hoard,Q24567648,0,1,1,Roman coin hoard,,Q164099,,
+Osterburken,Osterburken–Gaubüttelbrunn border railway part,Q122169885,0,1,1,section of Baden Odenwald Railway in Germany,,Q122073741,,
+Osterburken,Hemsbach,Q105069862,0,1,1,,,Q532|Q1499928|Q19730508|Q105254117,,
+Osterburken,Osterburkener Friedhof,Q111016077,0,1,1,"cemetery in Osterburken, Germany",,Q39614,,
+Osterburken,Osterburkener Stadtlauf,Q111685623,0,1,1,,,Q2327575|Q18608583,,
+S1,S1 (Berlin),Q2579762,1,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,1,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,1,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,1,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,1,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,1,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,1,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,1,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,1,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,1,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+Garsten railway station,Garsten railway station,Q111167800,1,1,1,"railway station in Garsten, Austria",,Q55488,,
+S1,S1 (Berlin),Q2579762,2,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,2,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,2,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,2,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,2,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,2,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,2,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,2,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,2,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,2,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+Lindau-Insel,Lindau-Insel,Q828172,2,1,1,"railway halt in Lindau, Germany",Lindau Central Station|Lindau-Insel station|Lindau Stadt station|Lindau City station,Q18543139|Q1793804|Q55485|Q22808404|Q1402443,,Lindau-Insel station
+Lindau-Insel,Lindau-Insel,Q108117961,2,1,1,Wikimedia disambiguation page,,Q4167410,,
+Lindau-Insel,EV Lindau,Q1276417,2,1,2,sports club,,Q847017,,
+S1,S1 (Berlin),Q2579762,3,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,3,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,3,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,3,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,3,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,3,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,3,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,3,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,3,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,3,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+Wedel station,Wedel station,Q7979138,3,1,1,"railway station in Wedel, Germany",Wedel (Holst) station,Q55488|Q55485|Q1793804,,Wedel station
+S1,S1 (Berlin),Q2579762,4,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,4,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,4,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,4,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,4,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,4,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,4,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,4,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,4,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,4,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+S1,S1 class,Q138653628,4,0,2,submarine,,Q1428357,Q2975986,
+S1,S1-class destroyer,Q138571616,4,0,2,destroyer,,Q559026,Q174736,
+Lienz railway station,Lienz railway station,Q801093,4,1,1,railway station in Austria,,Q55488,,
+S1,S1 (Berlin),Q2579762,5,0,1,train service of the Berlin S-Bahn,S1,Q50331459|Q520381,,S1 (Berlin)
+S1,S1 (St.Gallen),Q106453739,5,0,1,line of the St. Gallen S-Bahn (Wil – Uzwil – Gossau SG – St. Gallen),S1,Q50331459,,S1 (St. Gallen S-Bahn)
+S1,S1,Q46365,5,0,1,suburban rail service in Milan,linea S1|Line S1|S1,Q124130104,,Line S1 (Milan suburban railway service)
+S1,S1 (Hannover),Q63433445,5,0,1,suburban rail line in Hannover,S1,Q50331459,,
+S1,S1 (Central Germany),Q56600177,5,0,1,S-Bahn line in central Germany,S1,Q50331459,,
+S1,S1 (Mittelelbe),Q63435439,5,0,1,line of the Mittelelbe S-Bahn near Magdeburg,S1,Q50331459,,
+S1,S1 (Rhine-Ruhr),Q7388210,5,0,1,S-Bahn line in the Rhine-Ruhr area,S1,Q50331459,,S1 (Rhine-Ruhr S-Bahn)
+S1,S1,Q2033308,5,0,1,ship,,Q11446,,
+S1,FGC line S1,Q5425454,5,0,1,Suburban rail line operated by FGC.,S1|line S1|FGC S1|Terrassa metro,Q15141321|Q124130104,,FGC line S1
+S1,S1 (Rostock),Q50331474,5,0,1,"S-Bahn line in Rostock, Germany",S 1,Q50331459,,
+Fribourg railway station,Fribourg railway station,Q3067114,5,1,1,railway station in Switzerland,Freiburg railway station,Q55488,,Fribourg/Freiburg railway station

@@ -1,0 +1,18 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Langenseifen,Langenseifen,Q1805104,0,0,1,"municipal district of Bad Schwalbach in Rheingau-Taunus-Kreis, Germany",,Q1499928|Q163301,,
+Kempfenbrunn,Kempfenbrunn,Q1738537,1,0,1,Ortsteil of Flörsbachtal in Germany,,Q253019|Q1499928,,
+UTC+02:00,UTC+02:00,Q6723,1,1,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+UTC+02:00,Eastern European Time,Q190252,1,1,1,time zone,Lebanon Standard Time|Jordan Standard Time|Syria Standard Time|Egypt Standard Time|Cyprus Standard Time,Q12143,,Eastern European Time
+UTC+02:00,Kaliningrad Time,Q2356448,1,1,1,time zone,KALT|MSK–1|Europe/Kaliningrad,Q12143,,Kaliningrad Time
+UTC+02:00,Kempfenbrunn,Q1738537,1,1,2,Ortsteil of Flörsbachtal in Germany,,Q253019|Q1499928,,
+UTC+02:00,GERMAN TOWN,Q123661859,1,1,2,"weather station in Tasmania, Australia from 1929",092014,Q190107,,
+UTC+02:00,German Town Regional Reserve,Q139745911,1,1,2,"regional reserve in Tasmania, Australia",German Town,Q62059246,,
+UTC+02:00,German Township,Q5551268,1,1,2,"township in Fayette County, Pennsylvania",,Q9035798,,"German Township, Fayette County, Pennsylvania"
+UTC+02:00,German Township,Q5551265,1,1,2,"township in Bartholomew County, Indiana",,Q17201685,,"German Township, Bartholomew County, Indiana"
+UTC+02:00,German town at a river,Q112215655,1,1,2,painting by Hermann Gradl (1883 - 1964),,Q3305213,,
+UTC+02:00,German Township,Q5551269,1,1,2,"township in Harrison County, Ohio","German Township,Harrison County, Ohio",Q17198620,,"German Township, Harrison County, Ohio"
+UTC+02:00,German Township,Q9039403,1,1,2,"township in Kossuth County, Iowa","German Township, Kossuth County, Iowa",Q17205621,,"German Township, Kossuth County, Iowa"
+UTC+02:00,German Township,Q2887782,1,1,2,"township in Vanderburgh County, Indiana",,Q17201685,,"German Township, Vanderburgh County, Indiana"
+UTC+02:00,German Township,Q5551278,1,1,2,"township in Marshall County, Indiana",,Q17201685,,"German Township, Marshall County, Indiana"
+UTC+02:00,German Township,Q5551282,1,1,2,"township in St. Joseph County, Indiana",,Q17201685,,"German Township, St. Joseph County, Indiana"
+UTC+02:00,Bavarian town strips Hitler of citizenship,Q59457133,1,1,2,"Event - After initial deadlock, town councillors in Dietramseil voted to revoke Hitler's honorary citizenship, bestowed in 1933",,Q1190554,,

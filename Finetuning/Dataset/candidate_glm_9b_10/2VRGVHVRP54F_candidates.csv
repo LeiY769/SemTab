@@ -1,0 +1,55 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+1853,1853,Q19241485,0,0,1,natural number,"1,853",Q16317911|Q13366129|Q50707|Q375355,,
+1853,1853,Q7666,0,0,1,year,,Q3186692|Q235673,,1853
+1853,18531 Strakonice,Q2472428,0,0,1,asteroid,Strakonice,Q3863,,18531 Strakonice
+1853,185325 Anupabhagwat,Q8326426,0,0,1,asteroid,(185325) 2006 VE14|Anupabhagwat,Q3863,,185325 Anupabhagwat
+1853,185364 Sunweihsin,Q20630386,0,0,1,asteroid,Sunweihsin,Q3863,,185364 Sunweihsin
+1853,185321 Kammerlander,Q30255062,0,0,1,asteroid,Kammerlander,Q3863,,185321 Kammerlander
+1853,1853 Imperial Examination,Q54820069,0,0,1,,,Q7408,,
+1853,1853,Q110232472,0,0,1,board game,,Q131436,,1853 (board game)
+1853,16 & 17 Vic,Q105777712,0,0,1,set of Public Acts of Parliament of the United Kingdom passed in 1853,1853 16 & 17 Vic,Q3511132,,
+1853,1853 Norwegian parliamentary election,Q7061400,0,0,1,,"Norwegian parliamentary election, 1853",Q22276038,,1853 Norwegian parliamentary election
+Eurppa Universalis,Euphrates River,Q5410704,1,0,2,album by The Main Ingredient,,Q482994,,Euphrates River (album)
+Eurppa Universalis,Persian Gulf Basin,Q107998950,1,0,2,drainage basin in Asia,Euphrates River Watershed,Q166620,,
+Eurppa Universalis,Euphrates,Q34589,1,0,2,river in Asia,,Q4022,,Euphrates
+Eurppa Universalis,Euphrates River Valley Settlement: The Carchemish Sector in the Third Millennium BC,Q136112455,1,0,2,book 2007,,Q3331189,,
+Eurppa Universalis,Euphrates river impact on the transformation of Samawah spatial organization,Q120768772,1,0,2,scientific article published in 2022,,Q13442814,,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain",Q24722730,2,0,2,InterPro Domain,GlycerAld_3-P_DH_NAD(P)-bd|IPR020828,Q898273,,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain",Q24779828,2,0,2,InterPro Domain,GlycerAld_3-P_DH_cat|IPR020829,Q898273,,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain, protein family",Q83133880,2,0,2,protein family,IPR020828,Q81505329,Q106952164,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain, protein family",Q83147240,2,0,2,protein family,IPR020829,Q81505329|Q67015883,Q106925550,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, active site",Q24766970,2,0,2,InterPro Active Site,GlycerAld_3-P_DH_AS|IPR020830,Q423026,,
+Glrl alk,"Glyceraldehyde-3-phosphate dehydrogenase, type I",Q24771260,2,0,2,InterPro Family,Glyceraldehyde-3-P_DH_1|IPR006424,Q417841|Q67015883,Q24721828|Q106952168|Q106952164,
+Glrl alk,"Glyceraldehyde 3-phosphate dehydrogenase, active site, protein family",Q95350786,2,0,2,protein family,IPR020830,Q81505329,,
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,Q14890049,2,0,2,Catalysis of the reaction: D-glyceraldehyde 3-phosphate + phosphate + NAD+ = 3-phospho-D-glyceroyl phosphate + NADH + H+.,"GO:0004365|glyceraldehyde phosphate dehydrogenase (NAD)|glyceraldehyde-3-P-dehydrogenase activity|3-phosphoglyceraldehyde dehydrogenase activity|dehydrogenase, glyceraldehyde phosphate|NAD-dependent glyceraldehyde phosphate dehydrogenase activity|NAD-dependent glyceraldehyde-3-phosphate dehydrogenase activity|GAPDH activity|phosphoglyceraldehyde dehydrogenase activity|NADH-glyceraldehyde phosphate dehydrogenase activity|D-glyceraldehyde-3-phosphate:NAD+ oxidoreductase (phosphorylating)",Q14860489,Q22275628,
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenase (NAD+) (non-phosphorylating) activity,Q22316164,2,0,2,Catalysis of the reaction: D-glyceraldehyde 3-phosphate + NAD+ + H2O = 3-phospho-D-glycerate + NADH + H+.,glyceraldehyde-3-phosphate dehydrogenase (NAD) (non-phosphorylating) activity|GO:0043878|non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase (NAD)|NAD+-dependent glyceraldehyde-3-phosphate dehydrogenase activity|glyceraldehyde-3-phosphate dehydrogenase (NAD) activity,Q14860489,Q14911783,
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenases,Q75009903,2,0,2,enzymes that catalyze the dehydrogenation of glyceraldehyde-3-phosphate,glyceraldehyde-3-phosphate dehydrogenase,,Q67123977,
+Glrl alk,3-phosphoglyceraldehyde,Q794810,2,0,2,chemical compound,2-hydroxy-3-(phosphonooxy)propanal|glyceraldehyde 3-(dihydrogen phosphate)|(2-hydroxy-3-oxopropoxy)phosphonic acid|GAP|G3P|PGAL|GALP|glyceraldehyde 3-phosphate|DL-glyceraldehyde 3-phosphate|glyceraldehyde-phosphate|glyceraldehyde-P|glyceraldehyde-3-P|D-glyceraldehyde-3-P|2-hydroxy-3-(phosphonooxy)-Propanal,Q59199015,Q11173,Glyceraldehyde 3-phosphate
+Glrl alk,D-glyceraldehyde-3-phosphate,Q26992303,2,0,2,chemical compound,(2R)-2-Hydroxy-3-(phosphonooxy)-propanal|Glyceraldehyde 3-phosphate,Q113145171,Q794810,
+Glrl alk,glyceraldehyde 3-phosphate(2-),Q27125134,2,0,2,chemical compound,glyceraldehyde 3-phosphate|glyceraldehyde 3-phosphate dianion,Q113145171,Q794810,
+Glrl alk,Glyceraldehyde-3-phosphate dehydrogenase,Q424886,2,0,2,mammalian protein found in Homo sapiens,"glyceraldehyde-3-phosphate dehydrogenase|peptidyl-cysteine S-nitrosylase GAPDH|OCAS, p38 component|epididymis secretory sperm binding protein Li 162eP|2.6.99.-|GAPDH|aging-associated gene 9 protein|Oct1 coactivator in S phase, 38 Kd component",Q8054,,Glyceraldehyde 3-phosphate dehydrogenase
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenase,Q62650016,2,0,2,"protein found in Aspergillus nidulans FGSC A4, encoded by gpdA",,Q8054,Q8054,
+Glrl alk,glyceraldehyde 3-phosphate-dehydrogenase,Q62994377,2,0,2,,NCU01528.1|NCU01528.2|NCU01528.3|NCU01528.4|NCU01528.5|ccg-7,Q8054,Q8054,
+Glrl alk,Glyceraldehyde-3-phosphate dehydrogenase,Q14890093,2,0,2,mammalian protein found in Mus musculus,peptidyl-cysteine S-nitrosylase GAPDH|2.6.99.-|glyceraldehyde-3-phosphate dehydrogenase|Gapdh-ps15|Gapdh,Q8054,Q8054,
+Glrl alk,Gapdh,Q14890086,2,0,2,protein-coding gene in the species Mus musculus,glyceraldehyde-3-phosphate dehydrogenase|Gapd,Q7187,Q20747295,
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenase,Q61557546,2,0,2,"protein found in Aspergillus fumigatus subsp. Af293, encoded by gpdA",,Q8054,Q8054,
+Glrl alk,gapdh,Q29782091,2,0,2,protein-coding gene in the species Danio rerio,glyceraldehyde-3-phosphate dehydrogenase|wu:fb33a10|mg:bb02e05|wu:ft80f05|gapd|cb609|bb02e05,Q7187,,
+Glrl alk,glyceraldehyde-3-phosphate dehydrogenase,Q56596942,2,0,2,"protein found in Plasmodium falciparum 3D7, encoded by GAPDH",PF14_0598,Q8054,Q8054,
+Glrl alk,Gapdh,Q24380685,2,0,2,protein-coding gene in the species Rattus norvegicus,BARS-38|Gapd|glyceraldehyde-3-phosphate dehydrogenase,Q7187,Q20747295,
+Domnation,Domination,Q5290320,3,0,2,2005 video game,,Q7889,,Domination (video game)
+Domnation,Domination,Q55441223,3,0,2,1990 video game,,Q7889,,
+Domnation,Domination,Q136289729,3,0,2,album by Primal Fear,,Q482994,,Domination (Primal Fear album)
+Domnation,Domination,Q118351897,3,0,2,computer board game,,Q7889,,
+Domnation,Domination,Q135452005,3,0,2,2021 video game developed by Christian Ruiz and Christian Ruiz,,Q7889,,
+Domnation,Domination,Q139708246,3,0,2,,,Q571,,
+Domnation,dominance,Q1170080,3,0,2,situation in which a person or group impose ideas or rules to others,domination|dominant,Q33104129|Q1149305|Q96634632,Q3243093|Q25107,
+Domnation,domination,Q3820431,3,0,2,"in chess, a situation in which a piece has a relatively wide choice of destination squares, but nevertheless cannot avoid being captured",,Q66739921|Q3567586,Q54935803,Domination (chess)
+Domnation,DomiNations,Q21775709,3,0,2,2015 mobile game,,Q7889,,DomiNations
+Domnation,Domination,Q301325,3,0,2,album by Morbid Angel,,Q482994,,Domination (Morbid Angel album)
+Warhanmer Quest,Warhammer Quest,Q37791944,4,0,2,2013 video game,,Q7889,,
+Warhanmer Quest,Warhammer Quest 2: The End Times,Q108665916,4,0,2,2017 video game,Warhammer Quest II,Q7889,,
+Warhanmer Quest,Warhammer Quest,Q1082969,4,0,2,board game,,Q131436,,Warhammer Quest
+Warhanmer Quest,Warhammer Quest,Q117168136,4,0,2,video game series,,Q7058673,,Warhammer Quest (video game series)
+Warhanmer Quest,Warhammer Quest: Silver Tower,Q117168246,4,0,2,2020 video game,,Q7889,,
+Mysver Mansion,,,5,0,0,,,,,
+plfndor,,,6,0,0,,,,,

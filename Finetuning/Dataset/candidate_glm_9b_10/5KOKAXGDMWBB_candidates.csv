@@ -1,0 +1,35 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Huan figuse,,,0,0,0,,,,,
+Female Figxe,female,Q6581072,1,0,2,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a female or ""semantic gender"" (P10339) to indicate that a word refers to a female person",woman|human female|female person|lady|female human|fairer sex|female gender|fem|f|women|girl|girls|female character,Q4369513|Q48264,Q99485732,Female (gender)
+Female Figxe,female organism,Q43445,1,0,2,organism of the female sex,sex — female|female|female creature|female animal,Q136772242|Q290,Q19088|Q7239,Female
+Female Figxe,woman,Q467,1,0,2,female adult human,women|lady|adult woman|female adult human|adult human female,,Q9584157|Q84048852,Woman
+Female Figxe,female connector,Q11659367,1,0,2,gender of connectors and fasteners,female fastener|female|female contact,Q5531000,Q18819626,
+Female Figxe,female given name,Q11879590,1,0,2,given name usually meant for girls and women,girl names|women's names|given name with feminine connotations|girls' names|female personal name|feminine given name|fem given name|f given name,,Q202444|Q130409395,Feminine given name
+Female Figxe,nun,Q191808,1,0,2,female member of a monastic order,woman religious|sister|religious sister|female religious|female monk,Q4504549|Q138348066,Q733786,Nun
+Female Figxe,feminine family name,Q18972207,1,0,2,feminine form of family name,female family name|female last name|feminine last name,,Q101352|Q136439688,
+Female Figxe,lesbianism,Q6649,1,0,2,sexual attraction between women,"female homosexuality|sapphism|female gynephilia|female gynophilia|homosexuality, female",Q17888|Q115870510,Q6636|Q25447263|Q135214281,Lesbianism
+Female Figxe,female breast,Q9103,1,0,2,"one of two prominences located on the region of the torso of a female primate, containing the mammary gland",boob|tit|bosom|female breasts,Q103812529|Q112826905|Q1517875,Q139329732|Q189961|Q66557754|Q112826975|Q43022214,Breast
+Female Figxe,girls' school,Q22713629,1,0,2,school only for girls,female school|girls school|girl's college|women's college|school for girls,,Q16547029|Q189004|Q3914,
+Woman'shead,,,2,0,0,,,,,
+Merfure,,,3,0,0,,,,,
+Sleepini Child,child,Q7569,4,0,2,human between birth and puberty,children|kid|human child,Q851990|Q134264207,Q1516282|Q5,Child
+Sleepini Child,Child,Q10954511,4,0,2,family name,Child (surname),Q101352,,Child (surname)
+Sleepini Child,schoolchild,Q48942,4,0,2,child studying in a school,schoolboy|schoolgirl|pupil|school child|school age child|child|school children,Q12737077|Q1914636,Q7569|Q48282|Q11448873,Schoolchild
+Sleepini Child,"Child: Care, Health and Development",Q5097678,4,0,2,peer-reviewed public health journal,Child|Child care health and development,Q737498|Q16024164,,"Child: Care, Health and Development"
+Sleepini Child,autism,Q38404,4,0,2,neurodevelopmental condition,autistic disorder|autistic disorder of childhood onset|childhood autism|infantile autism|early infantile autism|early childhood autism|classic autism|adult autism|ASD|autism spectrum disorder,Q12131|Q140439690,Q1436063|Q12136|Q2915349|Q3450985|Q59344393|Q132757510,Autism
+Sleepini Child,Childe Hassam,Q737635,4,0,2,American painter (1859-1935),Frederick Childs Hassam|F. Childe Hassam|Chide Hassam|Hassam|hassam childe|FCH|F C H,Q5,,Childe Hassam
+Sleepini Child,sibling,Q31184,4,0,2,one of two or more individuals having at least one parent in common,siblings|brother and sister|sister and brother|child of parent|brother or sister|sister or brother,Q171318,Q25098571|Q138717307,Sibling
+Sleepini Child,Christ Child,Q942467,4,0,2,Jesus as a child up to the age of 12,Child Jesus|Santo Niño|Infant Jesus|Baby Jesus|Holy Child|Divine Infant,Q20127274|Q20643955|Q2634521,,Christ Child
+Sleepini Child,children's writer,Q4853732,4,0,2,writer of literature targeted primarily at children,children's literature writer|children's author|children's book writer|children's book author|children literature writer,Q28640|Q12737077,Q36180,Children's writer
+Sleepini Child,child pornography,Q660567,4,0,2,pornography that exploits children,CSAM|kiddie|child sexual abuse material,,Q26553|Q139802009,Child pornography
+Sappjo,Sappho,Q15106192,5,0,2,genus of birds,,Q310890,,
+Sappjo,Sappho,Q17892,5,0,2,ancient Greek poet from Lesbos (c. 630-c. 570 BC),Psappho|Sapphus|Sapho,Q5,,Sappho
+Sappjo,Red-tailed Comet,Q589093,5,0,2,species of bird,Sappho sparganurus,Q16521,,Red-tailed comet
+Sappjo,80 Sappho,Q110031,5,0,2,main-belt asteroid,(80) Sappho|Sappho,Q3863,,80 Sappho
+Sappjo,Sappho,Q19204452,5,0,2,statue by Claude Ramey,Sapho,Q860861,,
+Sappjo,Sappho,Q19061858,5,0,2,sculpture by James Pradier,,Q179700,,
+Sappjo,Sappho,Q1517393,5,0,2,2008 film directed by Robert Crosbie,Summer Lover,Q11424,,
+Sappjo,Sappho,Q1242002,5,0,2,tragedy written by Franz Grillparzer,,Q7725634,,Sappho (play)
+Sappjo,Sappho,Q19231273,5,0,2,novel by Alphonse Daudet,,Q7725634,,Sappho (novel)
+Sappjo,Sappho,Q83559794,5,0,2,"sculpture by Erastus Dow Palmer (MET, 1986.85)",,Q860861,,
+Dancing Jirl,,,6,0,0,,,,,

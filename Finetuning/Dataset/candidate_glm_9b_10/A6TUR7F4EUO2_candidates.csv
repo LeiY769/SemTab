@@ -1,0 +1,659 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Cal Canal,Cal Canal,Q11910540,0,0,1,,,Q4897108,,
+Cal Canal,Cal Canal,Q43061670,0,0,1,"house in Solsona, Spain",,Q3947,,
+Cal Canal,Cal Canal,Q106951172,0,0,1,"masia in Prats de Lluçanès, Lluçanès, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Canal,Cal Canalets,Q125271884,0,0,1,,,Q3947,,
+Cal Canal,Cal Canals,Q107299777,0,0,1,"masia in El Pont de Bar, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Canal,Cal Canalets,Q107306840,0,0,1,"masia in Montferrer i Castellbò, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Canal,Cal Canals Paleta,Q139892864,0,0,1,house in Vallirana (Catalonia),,Q3947,,
+Cal Canal,Cal Canaletes,Q105967032,0,0,1,"masia in Sant Sadurní d'Anoia, Alt Penedès, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Canal,Cal Canals,Q107303172,0,0,1,"masia in Les Valls de Valira, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Canal,Cal Canals,Q126888476,0,0,1,Residential building in El Papiol (Catalonia),,Q11755880,,
+Cal Canal,California Aqueduct,Q3307376,0,0,2,water conveyance infrastructure in California,Governor Edmund G Brown California Aqueduct,Q474|Q12284,,California Aqueduct
+Cal Canal,California Aqueduct Bikeway,Q67193498,0,0,2,,,,,
+Cal Canal,Caloosahatchee Canal,Q34730632,0,0,2,"canal in Glades County, Florida, United States of America",,Q12284,,
+La Riba,La Riba,Q5860955,1,0,1,Burgos,,Q3055118,,
+La Riba,La Riba,Q56043016,1,0,1,"human settlement in San Julián, Bimenes, Asturias, Spain",,Q5084,,
+La Riba,La Riba,Q23996102,1,0,1,human settlement in Spain,,Q3055118|Q121289819|Q130261443,,
+La Riba,La Riba,Q280721,1,0,1,municipality of Spain,,Q33146843,,La Riba
+La Riba,La Riba de Escalote,Q837301,1,0,1,municipality of Spain,Riba de Escalote,Q2074737,,La Riba de Escalote
+La Riba,La Riba,Q20901258,1,0,1,"masia in Santa Margarida i els Monjos (Alt Penedès, Catalonia)",,Q585956,,
+La Riba,La Riba,Q28342237,1,0,1,"masia in la Vall de Bianya (la Garrotxa, Catalonia)",,Q3947|Q585956,,
+La Riba,la Riba,Q73406500,1,0,1,"building in Oristà, Lluçanès, Barcelona, Catalonia, Spain",,Q585956,,
+La Riba,la Riba,Q107093452,1,0,1,"masia in Mieres, Garrotxa, Girona, Catalonia, Spain",,Q585956,,
+La Riba,la Riba,Q107074328,1,0,1,"masia in Sant Feliu de Pallerols, Garrotxa, Girona, Catalonia, Spain",,Q585956,,
+West House,The West House,Q7774275,2,0,1,"restaurant in Biddenden, Ashford, Kent, England",West House|28 High Street,Q11707,,The West House
+West House,West House,Q15979603,2,0,1,"house in Chelsea, London","West House, Chelsea",Q3947,,"West House, Chelsea"
+West House,West House,Q7985420,2,0,1,"historic house in Arkansas, United States",,Q3947,,"West House (Helena-West Helena, Arkansas)"
+West House,The West House,Q80583739,2,0,1,"pub in Bridgend, Wales","West House|The West House, Bridgend",Q212198,,
+West House,West House,Q27085322,2,0,1,"house in the Kensington district of London, England",118 Campden Hill Road,Q3947,,
+West House,West House,Q26646191,2,0,1,"house in Warminster, Wiltshire, England, UK",,Q3947,,
+West House,West House,Q26576031,2,0,1,"house in Symondsbury, West Dorset, England, UK",,Q3947,,
+West House,West House,Q26283579,2,0,1,"house in Walsham-le-Willows, Mid Suffolk, England, UK",,Q3947,,
+West House,West House,Q26599733,2,0,1,"house in Kirklees, West Yorkshire, England, UK",,Q3947,,
+West House,West House,Q26600468,2,0,1,"house in Calderdale, West Yorkshire, England, UK",,Q3947,,
+Chelsea,Chelsea,Q743535,2,2,1,area of London and former civil parish,"Chelsea, London",Q2755753|Q1115575,,"Chelsea, London"
+Chelsea,Chelsea,Q1069106,2,2,1,female given name,,Q11879590,,Chelsea (given name)
+Chelsea,Chelsea,Q2962228,2,2,1,"municipality in Quebec, Canada","Chelsea, Quebec|Chelsea, QC|West Hull",Q27676428|Q27676422|Q27676428,,"Chelsea, Quebec"
+Chelsea,Chelsea,Q2058437,2,2,1,"city in Washtenaw County, Michigan, United States",,Q1093829,,"Chelsea, Michigan"
+Chelsea,Chelsea,Q5090027,2,2,1,"suburb of Melbourne, Victoria, Australia","Chelsea, Victoria|Chelsea, Victoria, Australia",Q188509|Q45242174,,"Chelsea, Victoria"
+Chelsea,Chelsea F.C.,Q9616,2,2,1,"association football club in London, England",Chelsea Football Club|Chelsea FC|Chelsea|The Blues|The Pensioners|CFC,Q103229495,,Chelsea F.C.
+Chelsea,Chelsea,Q15729078,2,2,1,1979 self-titled debut studio album by Chelsea,,Q482994,,Chelsea (album)
+Chelsea,Chelsea,Q54156,2,2,1,"city in Suffolk County, Massachusetts, United States","Chelsea, Massachusetts|Chelsea, MA",Q1093829,,"Chelsea, Massachusetts"
+Chelsea,Chelsea,Q1069129,2,2,1,"neighborhood of Manhattan in New York City, New York, United States","Chelsea, Manhattan|Chelsea, New York City",Q61297932|Q748198|Q15243209,,"Chelsea, Manhattan"
+Chelsea,Chelsea,Q23647040,2,2,1,American web talk show,,Q5398426,,Chelsea (TV series)
+Chelsea,Chelsea F.C. Women,Q2422811,2,2,2,"women's association football club based in Kingston upon Thames, England",Chelsea Ladies Football Club|Chelsea Football Club Women,Q28140340,,Chelsea F.C. Women
+Chelsea,Chelsea F.C. Development Squad and Academy,Q2669653,2,2,2,football club,Chelsea Football Club Youth,Q476028|Q134468886,,Chelsea F.C. Development Squad and Academy
+Chelsea,Chelsea FC,Q122290829,2,2,2,,Chelsea Football Club,Q476028,,
+Chelsea,2016–17 Chelsea F.C. season,Q23809767,2,2,2,season of football team,,Q26887310,,2016–17 Chelsea F.C. season
+Chelsea,2018–19 Chelsea F.C. season,Q53363917,2,2,2,season of football team,,Q26887310,,2018–19 Chelsea F.C. season
+Chelsea,2005–06 Chelsea F.C. season,Q2532672,2,2,2,season of football team,,Q26887310,,2005–06 Chelsea F.C. season
+Chelsea,2015–16 Chelsea F.C. season,Q19840671,2,2,2,season of football team,,Q26887310,,2015–16 Chelsea F.C. season
+Chelsea,2000–01 Chelsea F.C. season,Q3667063,2,2,2,season of football team,,Q26887310,,2000–01 Chelsea F.C. season
+Chelsea,2013–14 Chelsea F.C. season,Q11679585,2,2,2,season of football team,,Q26887310,,2013–14 Chelsea F.C. season
+Chelsea,Chelsea Barracks,Q5090042,2,2,2,military barracks in London,,Q131263,,Chelsea Barracks
+Chelsea,Chelsea Barracks bombing,Q55076493,2,2,2,1981 IRA bomb in London,,Q1190554,,Chelsea Barracks bombing
+Chelsea,Chelsea Harbour,Q5090087,2,2,2,"mixed-use development in Hammersmith and Fulham, London",,Q721207|Q1497364|Q2755753,,Chelsea Harbour
+Chelsea,Chelsea Harbour Hotel,Q8040113,2,2,2,"hotel in London, United Kingdom",The Chelsea Harbour Hotel|Wyndham Grand Chelsea Harbour|The Chelsea Harbour Hotel and Spa London,Q27686,,
+Chelsea,Chelsea Harbour Pier,Q5090088,2,2,2,"a pier on the River Thames, in London",,Q863454|Q16938673,,Chelsea Harbour Pier
+Casa Gasset,Casa Gasset,Q47169735,3,0,1,"house in Vilanova de Meià, Spain",,Q3947,,
+Casa Gasset,Casa Gasset,Q56401094,3,0,1,"building in Tarragona, Spain",,Q3947,,
+Llwyn-cus,Llwyn-Cus,Q14995329,4,0,1,,,,,Llwyn-Cus
+Llwyn-cus,Llwyn-cus,Q20595270,4,0,1,Site of Special Scientific Interest in Wales,,Q422211,,
+Llwyn-cus,Llwyn-cus,Q29501366,4,0,1,"Grade II listed building in Powys. Approximately 1.3km NW of Llanlleonfel church, reached by farm road on the W side of a minor road between Garth and Beulah.",,Q3947,,
+Llwyn-cus,Treflys,Q16548106,4,0,2,"community in the county of Powys, Wales (UK)",,Q2630741,,Treflys
+Llwyn-cus,Treflys,Q110867957,4,0,2,Welsh parish,,Q102496,,
+Llwyn-cus,Treflys Independent Chapel,Q99448144,4,0,2,Independent chapel in Bethesda,,Q108325,,
+Treflys,Treflys,Q16548106,4,2,1,"community in the county of Powys, Wales (UK)",,Q2630741,,Treflys
+Treflys,Treflys,Q110867957,4,2,1,Welsh parish,,Q102496,,
+Treflys,Treflys Independent Chapel,Q99448144,4,2,1,Independent chapel in Bethesda,,Q108325,,
+Treflys,Llwyn-Cus,Q14995329,4,2,2,,,,,Llwyn-Cus
+Treflys,Llwyn-cus,Q20595270,4,2,2,Site of Special Scientific Interest in Wales,,Q422211,,
+Treflys,Llwyn-cus,Q29501366,4,2,2,"Grade II listed building in Powys. Approximately 1.3km NW of Llanlleonfel church, reached by farm road on the W side of a minor road between Garth and Beulah.",,Q3947,,
+Treflys,Seven Network,Q908659,4,2,2,Australian broadcast television network,7|Seven|Channel Seven|Channel 7|Network 7|Network Seven|Australian Television Network|Seven Network Australia,Q1254874,,Seven Network
+Treflys,7,Q23350,4,2,2,natural number,N°7|the number 7|seven|number seven|number 7,Q49008|Q186875|Q16317911|Q13366129|Q190899|Q14390354|Q967999|Q1990975|Q951293|Q1318413|Q12786684|Q10338607|Q973861|Q375355|Q2085786|Q728223|Q135097346,,7
+Treflys,7,Q63348805,4,2,2,"light rail service in Hanover, Germany",,Q26252263,,
+Treflys,7,Q2818327,4,2,2,1981 studio album by Madness,,Q482994,,7 (Madness album)
+Treflys,ytterbium,Q1855,4,2,2,chemical element with symbol Yb and atomic number 70,Yb|element 70|70Yb,Q11344,,Ytterbium
+Treflys,7,Q39074302,4,2,2,2017 studio album by Keen'V,,Q482994,,
+Treflys,July,Q121,4,2,2,seventh month of the year in the Julian and Gregorian calendars,Jul|7. month,Q47018901,Q18602249,July
+Treflys,7,Q269997,4,2,2,2007 studio album by Bushido,,Q482994,,7 (Bushido album)
+Treflys,7,Q10967277,4,2,2,numerical digit,,Q29961325,,
+Treflys,7,Q4643811,4,2,2,2005 studio album by Kotiteollisuus,,Q482994,,
+Cal Llobet,Cal Llobet,Q73260073,5,0,1,"building in El Bruc, Anoia, Catalonia",,Q585956,,
+Cal Llobet,Cal Llobet,Q11910649,5,0,1,"masia in Pinell de Solsonès (Solsonès, Catalonia)",,Q585956,,
+Cal Llobet,Cal Llobet,Q42879523,5,0,1,"house in Cervera, Spain",,Q3947,,
+Cal Llobet,Cal Llobet,Q17588718,5,0,1,"masia in Isona i Conca Dellà (Pallars Jussà, Catalonia)",,Q585956,,
+Cal Llobet,Cal Llobet,Q106116968,5,0,1,"masia in Aguilar de Segarra, Bages, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Llobet,Cal Llobet,Q137754229,5,0,1,Residential building in Sant Quintí de Mediona (Catalonia),,Q3947|Q11755880,,
+Cal Llobet,Cal Llobet,Q106317070,5,0,1,masia in Montmajor (Catalonia),,Q585956,,
+Cal Llobet,Cal Llobet (Florejacs),Q28137715,5,0,1,"house in Florejacs, Catalonia",,Q3947,,
+Cal Llobet,Cal Llobet dels Plans,Q73261712,5,0,1,"building in Pujalt, Anoia, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Llobet,Casa Llobet,Q20901088,5,0,1,"building in Els Prats de Rei, Catalonia, Spain",,Q3947,,
+Casa Roca,Casa Roca,Q47169861,6,0,1,"house in Guàrdia de Noguera, Spain",,Q3947,,
+Casa Roca,Casa Roca,Q17615406,6,0,1,"building in Barcelona Province, Spain",,Q3947,,
+Casa Roca,Casa Roca,Q140193647,6,0,1,Cultural heritage monument in Guils de Cerdanya,,Q41176,,
+Casa Roca,Casa Rocamora,Q125657432,6,0,1,Residential building in Barcelona (Catalonia),,Q11755880,,
+Casa Roca,Casa Roca Oller,Q18003788,6,0,1,"house in Reus, Spain",,Q3947,,
+Casa Roca,Casa Rocamora,Q130225329,6,0,1,house in Barcelona in Ciutat Vella district,,Q3947,,
+Casa Roca,Casa Roca,Q49953984,6,0,1,,,Q486972,,
+Casa Roca,Can Roca,Q114877767,6,0,1,"building in Palma (Mallorca), on Carrer dels Hostals",,Q41176,,
+Casa Roca,Can Bojons de Dalt,Q47180260,6,0,1,"building in Barcelona Province, Spain",,Q585956,,
+Casa Roca,Casa Caçador,Q47186931,6,0,1,"house in Vic, Spain",,Q3947,,
+Dresden House,Dresden House,Q17548361,7,0,1,"house in Evesham, Wychavon, England, UK",,Q3947,,
+Dresden House,Dresden House,Q29506692,7,0,1,Grade II listed building in Monmouth. On the street continuing Church Street east out of the town centre.,,Q3947,,
+Dresden House,Dresden House,Q26565435,7,0,1,"house in Aspatria, Cumberland, Cumbria, England, UK",,Q3947,,
+Dresden House,Dresden Castle,Q167314,7,0,2,"castle in Dresden, Germany",Dresden Residenzschloss|Residenzschloss,Q751876|Q16560|Q41176,,Dresden Castle
+Dresden House,Dresden Castle - history and reconstruction,Q123459885,7,0,2,"German series of creative works issue 38, part of Dresdner Hefte, 1994",,Q7725634|Q1002697,,
+Monmouth,Monmouth,Q156990,7,2,1,"town in Monmouthshire, Wales, UK",Trefynwy,Q3957,,Monmouth
+Monmouth,Monmouth University,Q922647,7,2,1,"private university located in West Long Branch, Monmouth County, New Jersey, United States",,Q902104|Q23002054,,Monmouth University
+Monmouth,Monmouthshire,Q1245075,7,2,1,historic county in Wales,County of Monmouth,Q1857731|Q7925010|Q683738,,Monmouthshire (historic)
+Monmouth,Monmouth,Q33225185,7,2,1,"community of Wales, United Kingdom",,Q2630741,,
+Monmouth,Monmouth County,Q502424,7,2,1,"county in New Jersey, United States","Monmouth County, New Jersey|Monmouth County, NJ",Q13414754,,"Monmouth County, New Jersey"
+Monmouth,Monmouth,Q577638,7,2,1,"city in Warren County, Illinois, United States","Monmouth, Illinois|Monmouth, IL",Q1093829,,"Monmouth, Illinois"
+Monmouth,Monmouth,Q1053353,7,2,1,"Parliamentary constituency in the United Kingdom, 1918-2024",,Q27971968,,Monmouth (UK Parliament constituency)
+Monmouth,Monmouth,Q1650626,7,2,1,"city in Oregon, USA","Monmouth, Oregon|Monmouth, OR",Q63440326,,"Monmouth, Oregon"
+Monmouth,Monmouthshire,Q207176,7,2,1,"principal area in south-east Wales, United Kingdom",Sir Fynwy|County of Monmouthshire|Monmouthshire County|Monmouthshire (principal area),Q15979307,,Monmouthshire
+Monmouth,Monmouth,Q3450325,7,2,1,"town in Kennebec County, Maine, United States","Monmouth, Maine|Monmouth, ME",Q15127012,,"Monmouth, Maine"
+Monmouth,Monmouth County Library,Q69484430,7,2,2,"public library system in New Jersey, USA",,Q26271642,,
+Monmouth,"2020 COVID-19 pandemic in Monmouth County, New Jersey",Q94269180,7,2,2,"pandemic in Monmouth County, New Jersey","COVID-19 pandemic in Monmouth County, New Jersey|2020 coronavirus outbreak in Monmouth County, New Jersey|2020 Monmouth County, New Jersey COVID-19 pandemic|Monmouth County, New Jersey COVID-19 pandemic|2020 COVID pandemic in Monmouth County, New Jersey",Q3241045,,
+Monmouth,Monmouth County Freeholder,Q53945982,7,2,2,,"Monmouth County, New Jersey Freeholder|Monmouth County Commissioner",Q294414,,
+Monmouth,Monmouth County Vocational School District,Q6901080,7,2,2,"vocational school district in Monmouth County, New Jersey, United States",MCVSD,Q398141|Q23002039,,Monmouth County Vocational School District
+Monmouth,Monmouth County Gaol,Q767102,7,2,2,"building in Monmouth, Wales",,Q41176,,Monmouth County Gaol
+Monmouth,member of the Monmouth County Board of Chosen Freeholders,Q49433092,7,2,2,,"Monmouth County, New Jersey Board of Chosen Freeholders",Q4164871,Q4931391,
+Monmouth,Monmouth County Historical Association,Q6901072,7,2,2,organization in New Jersey,The Monmouth County Historical Association,Q5774403|Q163740|Q16735822,,Monmouth County Historical Association
+Monmouth,Monmouth County Moon Tree,Q27057597,7,2,2,"Moon Tree in Monmouth County, New Jersey",,Q6907628,,
+Monmouth,Monmouth County Library,Q69957539,7,2,2,"public library in Manalapan Twp., New Jersey, USA",,Q12317349|Q28564,,
+Monmouth,Western Oregon University,Q1629641,7,2,2,"public university in Monmouth, Oregon, USA",Western Oregon State College|WOU|Oregon College of Education|Oregon Normal School|Oregon State Normal School|Christian College|Monmouth University|wou.edu,Q875538|Q23002039,,Western Oregon University
+Monmouth,Monmouth Hawks,Q16974305,7,2,2,collegiate sports club in the United States,Monmouth University athletics,Q2367225,,Monmouth Hawks
+Monmouth,Kessler Stadium,Q14705686,7,2,2,"football and track stadium at Monmouth University, New Jersey",Monmouth University Stadium|Monmouth University football stadium,Q37985280,,Kessler Stadium
+Monmouth,Monmouth University Leon Hess Business School,Q99288065,7,2,2,campus,,Q1143635,,
+Monmouth,Monmouth University Bookstore,Q99434074,7,2,2,"bookstore in West Long Branch, NJ, United States of America",,Q200764,,
+Monmouth,Monmouth University Department of Art and Design,Q16991683,7,2,2,,,,,Monmouth University Department of Art and Design
+Monmouth,Monmouth University Polling Institute,Q6901132,7,2,2,US public opinion research institute,,,,Monmouth University Polling Institute
+Monmouth,Monmouth University Library,Q124337186,7,2,2,"library at Monmouth University in West Long Branch, Monmouth County, New Jersey, United States",Guggenheim Memorial Library,Q856234,,
+Monmouth,Monmouth University Department of Psychology,Q101030621,7,2,2,academic department,,Q2467461,,
+Tregwynt,Tregwynt,Q17743275,8,0,1,Grade II* listed house in Pembrokeshire,"Tregwynt,tregwynt,granston/treopert|Tregwynt Mansion",Q3947,,Tregwynt Mansion
+Tregwynt,Tregwynt Hoard,Q7837888,8,0,1,hoard found in Wales,,Q220659,,Tregwynt Hoard
+Tregwynt,Tregwynt Estate,Q116800657,8,0,1,estate in Wales,,Q12292478,,
+Tregwynt,Tregwynt and the Harries family,Q113199627,8,0,1,article published in 2001 in the Journal of the Pembrokeshire Historical Society,,Q13442814,,
+Tregwynt,Tregwynt,Q25101342,8,0,1,Wikimedia disambiguation page,,Q4167410,,Tregwynt
+Pencaer,Pencaer,Q16889971,8,2,1,"community in Pembrokeshire, Wales",,Q2630741,,Pencaer
+Pencaer,Pencaer Community Council,Q104598642,8,2,1,"UK local authority for the community of Pencaer, Pembrokeshire, Wales","Pencaer Community Council, Pembrokeshire",Q3403338,,
+Pencaer,Pencaerau Primary school,Q66008694,8,2,1,"school in Cardiff, UK",,Q9842,,
+Pencaer,Pencaerhelem,Q106711018,8,2,1,hill (214m) in Powys,,Q54050|Q207326,,
+Pencaer,Pencaerau-bach,Q31110001,8,2,1,hillfort in Carmarthenshire,,Q92086,,
+Pencaer,Pencaerau,Q125489259,8,2,1,"hillfort in Neath, Neath Port Talbot",,Q744099,,
+Pencaer,Pencaerau,Q107032779,8,2,1,suburb in Neath Port Talbot County Borough,,Q188509,,
+Pencaer,Pencaerau Bach,Q106711020,8,2,1,hill (211m) in Carmarthenshire,,Q54050|Q207326,,
+Pencaer,Pencarnisiog,Q13130663,8,2,1,"village in Anglesey, United Kingdom",,Q532,,Pencarnisiog
+Pencaer,Tregwynt,Q17743275,8,2,2,Grade II* listed house in Pembrokeshire,"Tregwynt,tregwynt,granston/treopert|Tregwynt Mansion",Q3947,,Tregwynt Mansion
+Pencaer,Tregwynt Hoard,Q7837888,8,2,2,hoard found in Wales,,Q220659,,Tregwynt Hoard
+Pencaer,Tregwynt Estate,Q116800657,8,2,2,estate in Wales,,Q12292478,,
+Pencaer,Tregwynt and the Harries family,Q113199627,8,2,2,article published in 2001 in the Journal of the Pembrokeshire Historical Society,,Q13442814,,
+Pencaer,Tregwynt,Q25101342,8,2,2,Wikimedia disambiguation page,,Q4167410,,Tregwynt
+Cal Baldiri,Cal Baldiri,Q83559289,9,0,1,"building in Gelida, Spain",,Q489357,,
+Cal Baldiri,Cal Baldiri,Q47188380,9,0,1,"masia in Sant Pere Sallavinera (Anoia, Catalonia)",,Q585956,,
+Cal Baldiri,Cal Baldiri,Q28053278,9,0,1,"house in Caldes de Montbui, Spain",,Q3947,,
+Cal Baldiri,Cal Baldiri,Q106316433,9,0,1,masia in Saldes (Catalonia),,Q585956,,
+Cal Baldiri,Cal Baldiri,Q105967883,9,0,1,"masia in Font-rubí, Alt Penedès, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Baldiri,Cal Baldiri (Castellterçol),Q11910511,9,0,1,"masia in Castellterçol (Moianès, Catalonia)",,Q585956,,
+Torre Vilardell,Torre Vilardell,Q28711409,10,0,1,"building in Girona Province, Spain",,Q3947,,
+Torre Vilardell,Torre Vilardell,Q30301930,10,0,1,"building in Rubí, Spain",,Q3947,,
+Park House,Park House,Q129674319,11,0,1,"former civil parish in Hampshire, England",,Q1115575,,
+Park House,Park House Museum,Q7137797,11,0,1,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Park House,Castle of Park,Q2339964,11,0,1,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Park House,Park House,Q7137793,11,0,1,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Park House,Castle of Park,Q66364013,11,0,1,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Park House,Park House,Q17571723,11,0,1,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Park House,Park House,Q27080568,11,0,1,"house in Westminster, London, England, UK",,Q3947,,
+Park House,Park House,Q17570402,11,0,1,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Park House,Park House,Q26546508,11,0,1,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Park House,designed landscape at Park House,Q108880271,11,0,1,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Fishguard and Goodwick,Fishguard and Goodwick,Q13125327,11,2,1,"community in Pembrokeshire, Wales",Fishguard & Goodwick,Q2630741,,Fishguard and Goodwick
+Fishguard and Goodwick,Fishguard and Goodwick railway station,Q5454980,11,2,1,"railway station in Pembrokeshire, Wales, UK",Fishguard and Goodwick Station|FGW,Q55488,,Fishguard and Goodwick railway station
+Fishguard and Goodwick,Fishguard & Goodwick Town Council,Q104395812,11,2,1,"UK local authority for the towns of Fishguard and Goodwick, Pembrokeshire, Wales","Fishguard & Goodwick Town Council, Pembrokeshire|Fishguard and Goodwick Town Council",Q3507268,,
+Fishguard and Goodwick,Fishguard and Goodwick Harbour Order 1974,Q110298237,11,2,1,Provisional Order,"Fishguard & Goodwick Harbour Order 1974|Fishguard and Goodwick Harbour Order, 1974",Q7252753,,
+Fishguard and Goodwick,Fishguard and Goodwick RFC,Q5454979,11,2,1,Welsh rugby union football club,,Q14645593,,Fishguard and Goodwick RFC
+Fishguard and Goodwick,Fishguard & Goodwick Marina,Q5454971,11,2,1,"mixed-use development in Pembrokeshire, Wales, UK",Fishguard and Goodwick Marina,Q4298922,,Fishguard & Goodwick Marina
+Fishguard and Goodwick,Park House,Q129674319,11,2,2,"former civil parish in Hampshire, England",,Q1115575,,
+Fishguard and Goodwick,Park House Museum,Q7137797,11,2,2,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Fishguard and Goodwick,Castle of Park,Q2339964,11,2,2,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Fishguard and Goodwick,Park House,Q7137793,11,2,2,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Fishguard and Goodwick,Castle of Park,Q66364013,11,2,2,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Fishguard and Goodwick,Park House,Q17571723,11,2,2,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Fishguard and Goodwick,Park House,Q27080568,11,2,2,"house in Westminster, London, England, UK",,Q3947,,
+Fishguard and Goodwick,Park House,Q17570402,11,2,2,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Fishguard and Goodwick,Park House,Q26546508,11,2,2,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Fishguard and Goodwick,designed landscape at Park House,Q108880271,11,2,2,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Fishguard and Goodwick,Fishguard,Q1018730,11,2,2,"coastal town in Pembrokeshire, south-west Wales",Fishgard|Abergwaun,Q1968403|Q3957,,Fishguard
+Fishguard and Goodwick,Fishguard,Q110420013,11,2,2,Welsh parish,,Q102496,,
+Fishguard and Goodwick,Fishguard,Q25916913,11,2,2,"landscape print; artist sketching, large cannon and a flag, ships, houses",,Q11060274,,
+Fishguard and Goodwick,Fishguard,Q25917063,11,2,2,"print; artist sketching, large cannon and a flag, ships, houses",,Q11060274,,
+Fishguard and Goodwick,Fishguard Harbour railway station,Q2602643,11,2,2,"railway station that serves the port of Fishguard Harbour, Wales, UK",Fishguard Harbour Station|FGH,Q55488|Q1567913|Q55485,,Fishguard Harbour railway station
+Fishguard and Goodwick,Ysgol Bro Gwaun,Q8059708,11,2,2,"school in Pembrokeshire, UK",Fishguard County School,Q23714139,,Ysgol Bro Gwaun
+Fishguard and Goodwick,Fishguard Bay,Q13125686,11,2,2,"bay in Pembrokeshire, United Kingdom",,Q39594,,Fishguard Bay
+Fishguard and Goodwick,Fishguard Volcanic Group,Q5454978,11,2,2,ordovician lithostratigraphic group in west Wales,,Q824979,,Fishguard Volcanic Group
+Fishguard and Goodwick,Goodwick,Q1770495,11,2,2,"town in Pembrokeshire, United Kingdom",Wdig,Q3957,,Goodwick
+Fishguard and Goodwick,Goodwick,Q48795589,11,2,2,"ward or electoral division in Pembrokeshire, Wales",,Q589282,,Goodwick (electoral ward)
+Fishguard and Goodwick,Goodwick sands,Q23983101,11,2,2,"print; ships, large number of troops on shore and the hillsides",,Q11060274,,
+Fishguard and Goodwick,Goodwick Sands,Q23982636,11,2,2,"print; ships, large number of military forces on the shore and hillsides",,Q11060274,,
+Fishguard and Goodwick,Goodwick Wreck 1,Q115711033,11,2,2,"shipwreck, 462 m from Goodwick",,Q852190,,
+Fishguard and Goodwick,"Goodwick Community School, Goodwick, Pembrokeshire : inspection under section 10 of the School Inspections Act 1996 : school number : 668-2212 : date of inspection : 30 October - 2 November 2000",Q70696226,11,2,2,report,,Q10870555|Q47461344,,
+Fishguard and Goodwick,"Goodwick Community School, Goodwick, Pembrokeshire : inspection under section 10 of the School Inspections Act 1996 : school number : 668-2212 : date of inspection : 30 October - 2 November 2000",Q70208059,11,2,2,edition; published in 2001,"Ysgol Gymunedol Wdig, Wdig, Sir Benfro : adroddiad dan adran 10 Deddf Arolygiadau Ysgolion 1996 : rhif yr ysgol : 668-2212 : dyddiad yr arolygiad : 30 Hydref - 2 Tachwedd 2000 = Goodwick Community School, Goodwick, Pembrokeshire : inspection under se|Ysgol Gymunedol Wdig, Wdig, Sir Benfro : adroddiad dan adran 10 Deddf Arolygiadau Ysgolion 1996 : rhif yr ysgol : 668-2212 : dyddiad yr arolygiad : 30 Hydref - 2 Tachwedd 2000",Q3331189,,
+Fishguard and Goodwick,Goodwick United A.F.C.,Q85764048,11,2,2,association football club in Wales,,Q476028,,Goodwick United A.F.C.
+Fishguard and Goodwick,Goodwick Institute,Q29491253,11,2,2,Grade II listed building in Pembrokeshire. Situated some 30m beyond junction with Station Hill.,,Q811979,,
+Fishguard and Goodwick,Goodwick Wreck 2,Q115707976,11,2,2,"shipwreck, 322 m from Goodwick",,Q852190,,
+Park House,Park House,Q129674319,12,0,1,"former civil parish in Hampshire, England",,Q1115575,,
+Park House,Park House Museum,Q7137797,12,0,1,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Park House,Castle of Park,Q2339964,12,0,1,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Park House,Park House,Q7137793,12,0,1,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Park House,Castle of Park,Q66364013,12,0,1,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Park House,Park House,Q17571723,12,0,1,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Park House,Park House,Q27080568,12,0,1,"house in Westminster, London, England, UK",,Q3947,,
+Park House,Park House,Q17570402,12,0,1,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Park House,Park House,Q26546508,12,0,1,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Park House,designed landscape at Park House,Q108880271,12,0,1,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Newtown and Llanllwchaiarn,Newtown and Llanllwchaiarn,Q20601998,12,2,1,"community in Powys, Wales",,Q2630741,,Newtown and Llanllwchaiarn
+Newtown and Llanllwchaiarn,Newtown and Llanllwchaiarn Town Council,Q60740392,12,2,1,"UK local authority for the towns of Newtown and Llanllwchaiarn, Powys, Wales","Newtown and Llanllwchaiarn Town Council, Powys|Newtown Town Council",Q3507268,,Newtown Town Council
+Newtown and Llanllwchaiarn,Newtown,Q669171,12,2,2,"town in Powys, Wales, UK","Y Drenewydd|Newtown, Montgomeryshire",Q3957,,"Newtown, Powys"
+Newtown and Llanllwchaiarn,Newtown,Q738356,12,2,2,"town in Fairfield County, Connecticut, United States","Newtown, Connecticut|Newtown, CT",Q15127012,,"Newtown, Connecticut"
+Newtown and Llanllwchaiarn,Newtown,Q14935255,12,2,2,"suburb of Geelong, Victoria, Australia","Newtown, Victoria|Newtown, Greater Geelong , Victoria, Australia|Newtown, Victoria, Australia",Q188509|Q45242174,,"Newtown, Victoria"
+Newtown and Llanllwchaiarn,Newtown,Q5355774,12,2,2,"state electoral district of New South Wales, Australia",Electoral district of Newtown|Newtown electoral district,Q3032154,,Electoral district of Newtown
+Newtown and Llanllwchaiarn,Newtown,Q11790948,12,2,2,"village and civil parish in Basingstoke and Deane, Hampshire, England","Newtown, Hampshire",Q532|Q1115575,,"Newtown, Hampshire"
+Newtown and Llanllwchaiarn,Newtown,Q37476505,12,2,2,family name,,Q101352,,
+Newtown and Llanllwchaiarn,Newtown Township,Q20695,12,2,2,"township in Delaware County, Pennsylvania, United States","Newtown Township, DE County",Q9035798,,"Newtown Township, Delaware County, Pennsylvania"
+Newtown and Llanllwchaiarn,Newtown,Q1851145,12,2,2,"suburb of Sydney, New South Wales, Australia","Newtown, New South Wales|Newtown, New South Wales, Australia|Newtown, Sydney",Q188509|Q748198,,"Newtown, New South Wales"
+Newtown and Llanllwchaiarn,Newtown,Q1185886,12,2,2,"borough in Bucks County, Pennsylvania","Newtown, Bucks County|Newtown, PA",Q777120,,"Newtown, Bucks County, Pennsylvania"
+Newtown and Llanllwchaiarn,Newtown,Q21469860,12,2,2,"hamlet and former civil parish in Lilburn, Northumberland, England‎","Newtown, Northumberland|Newtown, Berwick-upon-Tweed|Newtown, Lilburn",Q5084|Q1115575,,
+Newtown and Llanllwchaiarn,Llanllwchaiarn,Q24662184,12,2,2,"community in Ceredigion, Wales","Llanllwchaiarn, Ceredigion",Q2630741,,"Llanllwchaiarn, Ceredigion"
+Newtown and Llanllwchaiarn,Llanllwchaiarn,Q13129664,12,2,2,"village in Powys, Wales, United Kingdom",Llanllwchaearn,Q532,,Llanllwchaiarn
+Newtown and Llanllwchaiarn,Llanllwchaiarn,Q110793133,12,2,2,Welsh parish (Powys),,Q102496,,
+Newtown and Llanllwchaiarn,Llanllwchaiarn,Q22340114,12,2,2,watercolour painting by John Ingleby,,Q18761202,,
+Newtown and Llanllwchaiarn,Llanllwchaiarn Church,Q22340113,12,2,2,watercolour painting by John Ingleby,,Q18761202,,
+Newtown and Llanllwchaiarn,Newtown Llanllwchaiarn West,Q60744063,12,2,2,"former electoral ward of Powys, in Wales, UK",Llanllwchaiarn West,Q589282|Q19953632,,Llanllwchaiarn West
+Newtown and Llanllwchaiarn,Llanllwchaearn,Q13129656,12,2,2,Wikimedia disambiguation page,,Q4167410,,
+Newtown and Llanllwchaiarn,Park House,Q129674319,12,2,2,"former civil parish in Hampshire, England",,Q1115575,,
+Newtown and Llanllwchaiarn,Park House Museum,Q7137797,12,2,2,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Newtown and Llanllwchaiarn,Castle of Park,Q2339964,12,2,2,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Newtown and Llanllwchaiarn,Park House,Q7137793,12,2,2,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Newtown and Llanllwchaiarn,Castle of Park,Q66364013,12,2,2,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Newtown and Llanllwchaiarn,Park House,Q17571723,12,2,2,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Newtown and Llanllwchaiarn,Park House,Q27080568,12,2,2,"house in Westminster, London, England, UK",,Q3947,,
+Newtown and Llanllwchaiarn,Park House,Q17570402,12,2,2,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Newtown and Llanllwchaiarn,Park House,Q26546508,12,2,2,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Newtown and Llanllwchaiarn,designed landscape at Park House,Q108880271,12,2,2,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Park House,Park House,Q129674319,13,0,1,"former civil parish in Hampshire, England",,Q1115575,,
+Park House,Park House Museum,Q7137797,13,0,1,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Park House,Castle of Park,Q2339964,13,0,1,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Park House,Park House,Q7137793,13,0,1,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Park House,Castle of Park,Q66364013,13,0,1,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Park House,Park House,Q17571723,13,0,1,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Park House,Park House,Q27080568,13,0,1,"house in Westminster, London, England, UK",,Q3947,,
+Park House,Park House,Q17570402,13,0,1,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Park House,Park House,Q26546508,13,0,1,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Park House,designed landscape at Park House,Q108880271,13,0,1,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Park House,Forden with Leighton and Trelystan,Q24342072,13,0,2,"community in Powys, Wales, UK",,Q2630741,,
+Park House,Leighton,Q16290513,13,0,2,given name,Leighton (given name)|Leighton (first name),Q202444,,Leighton (given name)
+Park House,Leighton,Q8652407,13,0,2,"settlement and civil parish in Cheshire East, UK","Leighton, Cheshire",Q532|Q1115575,,"Leighton, Cheshire"
+Park House,Leighton,Q19835581,13,0,2,"civil parish in Huntingdonshire, Cambridgeshire, England","Leighton (civil parish), Cambridgeshire|Leighton, Cambridgeshire",Q1115575,,
+Park House,Leighton,Q16872027,13,0,2,family name,Leighton (surname),Q101352,,Leighton (surname)
+Park House,Leighton–Linslade,Q2187025,13,0,2,"civil parish in Bedfordshire, England, UK",,Q1115575,,Leighton–Linslade
+Park House,Leighton,Q130014279,13,0,2,"former civil parish, now in Neston, Cheshire West and Chester, Cheshire, England",,Q1115575,,
+Park House,Timothy Leighton,Q17414352,13,0,2,British specialist in ultrasonics and underwater acoustics (born 1963),,Q5,,Timothy Leighton
+Park House,Leighton and Eaton Constantine,Q6519797,13,0,2,"civil parish in Shropshire, UK","Leighton and Eaton Constantine (civil parish), Shropshire|Leighton and Eaton Constantine, Shropshire",Q1115575,,Leighton and Eaton Constantine
+Park House,Leighton,Q66513,13,0,2,town in Alabama,"Leighton, AL|Leighton, Alabama",Q15127012,,"Leighton, Alabama"
+Park House,Leighton Baines,Q187989,13,0,2,English association football player (born 1984),Leighton John Baines,Q5,,Leighton Baines
+Park House,Trelystan,Q18708791,13,0,2,"hamlet in the county of Powys, Wales",,Q532,,Trelystan
+Park House,Trelystan Church House Round Barrows,Q13127559,13,0,2,"round barrows near Leighton, Powys, Wales, UK",,Q2046325,,
+Park House,"Trelystan Church House, Barrow I",Q125484527,13,0,2,"round barrow in Forden, Powys",,Q2046325,,
+Park House,"Trelystan Church House, Barrow II",Q125483575,13,0,2,"round barrow in Forden, Powys",,Q2046325,,
+Park House,Trelystan and Trewern,Q124671532,13,0,2,"ward or electoral division in Powys, Wales",,Q589282,,
+Forden with Leighton and Trelystan,Forden with Leighton and Trelystan,Q24342072,13,2,1,"community in Powys, Wales, UK",,Q2630741,,
+Forden with Leighton and Trelystan,Park House,Q129674319,13,2,2,"former civil parish in Hampshire, England",,Q1115575,,
+Forden with Leighton and Trelystan,Park House Museum,Q7137797,13,2,2,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Forden with Leighton and Trelystan,Castle of Park,Q2339964,13,2,2,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Forden with Leighton and Trelystan,Park House,Q7137793,13,2,2,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Forden with Leighton and Trelystan,Castle of Park,Q66364013,13,2,2,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Forden with Leighton and Trelystan,Park House,Q17571723,13,2,2,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Forden with Leighton and Trelystan,Park House,Q27080568,13,2,2,"house in Westminster, London, England, UK",,Q3947,,
+Forden with Leighton and Trelystan,Park House,Q17570402,13,2,2,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Forden with Leighton and Trelystan,Park House,Q26546508,13,2,2,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Forden with Leighton and Trelystan,designed landscape at Park House,Q108880271,13,2,2,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Forden with Leighton and Trelystan,Leighton,Q16290513,13,2,2,given name,Leighton (given name)|Leighton (first name),Q202444,,Leighton (given name)
+Forden with Leighton and Trelystan,Leighton,Q8652407,13,2,2,"settlement and civil parish in Cheshire East, UK","Leighton, Cheshire",Q532|Q1115575,,"Leighton, Cheshire"
+Forden with Leighton and Trelystan,Leighton,Q19835581,13,2,2,"civil parish in Huntingdonshire, Cambridgeshire, England","Leighton (civil parish), Cambridgeshire|Leighton, Cambridgeshire",Q1115575,,
+Forden with Leighton and Trelystan,Leighton,Q16872027,13,2,2,family name,Leighton (surname),Q101352,,Leighton (surname)
+Forden with Leighton and Trelystan,Leighton–Linslade,Q2187025,13,2,2,"civil parish in Bedfordshire, England, UK",,Q1115575,,Leighton–Linslade
+Forden with Leighton and Trelystan,Leighton,Q130014279,13,2,2,"former civil parish, now in Neston, Cheshire West and Chester, Cheshire, England",,Q1115575,,
+Forden with Leighton and Trelystan,Timothy Leighton,Q17414352,13,2,2,British specialist in ultrasonics and underwater acoustics (born 1963),,Q5,,Timothy Leighton
+Forden with Leighton and Trelystan,Leighton and Eaton Constantine,Q6519797,13,2,2,"civil parish in Shropshire, UK","Leighton and Eaton Constantine (civil parish), Shropshire|Leighton and Eaton Constantine, Shropshire",Q1115575,,Leighton and Eaton Constantine
+Forden with Leighton and Trelystan,Leighton,Q66513,13,2,2,town in Alabama,"Leighton, AL|Leighton, Alabama",Q15127012,,"Leighton, Alabama"
+Forden with Leighton and Trelystan,Leighton Baines,Q187989,13,2,2,English association football player (born 1984),Leighton John Baines,Q5,,Leighton Baines
+Forden with Leighton and Trelystan,Trelystan,Q18708791,13,2,2,"hamlet in the county of Powys, Wales",,Q532,,Trelystan
+Forden with Leighton and Trelystan,Trelystan Church House Round Barrows,Q13127559,13,2,2,"round barrows near Leighton, Powys, Wales, UK",,Q2046325,,
+Forden with Leighton and Trelystan,"Trelystan Church House, Barrow I",Q125484527,13,2,2,"round barrow in Forden, Powys",,Q2046325,,
+Forden with Leighton and Trelystan,"Trelystan Church House, Barrow II",Q125483575,13,2,2,"round barrow in Forden, Powys",,Q2046325,,
+Forden with Leighton and Trelystan,Trelystan and Trewern,Q124671532,13,2,2,"ward or electoral division in Powys, Wales",,Q589282,,
+Park House,Park House,Q129674319,14,0,1,"former civil parish in Hampshire, England",,Q1115575,,
+Park House,Park House Museum,Q7137797,14,0,1,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Park House,Castle of Park,Q2339964,14,0,1,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Park House,Park House,Q7137793,14,0,1,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Park House,Castle of Park,Q66364013,14,0,1,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Park House,Park House,Q17571723,14,0,1,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Park House,Park House,Q27080568,14,0,1,"house in Westminster, London, England, UK",,Q3947,,
+Park House,Park House,Q17570402,14,0,1,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Park House,Park House,Q26546508,14,0,1,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Park House,designed landscape at Park House,Q108880271,14,0,1,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Ynysawdre,Ynysawdre,Q8054072,14,2,1,village in Wales,,Q532|Q2630741,,Ynysawdre
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : a summary report for parents : inspection during the Autumn Term 2002",Q70705804,14,2,1,report,,Q10870555|Q47461344,,
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : Inspection under section 10 of the School Inspections Act 1996, Date of inspection : 30th September - 4th October 2002",Q70692579,14,2,1,report,,Q10870555|Q47461344,,
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : summary report for parents on the inspection under Section 28 of the Education Act 2005 : school number : 672/4074 : date of inspection : 30/11/2008",Q70705808,14,2,1,report,,Q10870555|Q47461344,,
+Ynysawdre,Ynysawdre Swimming Pool Public Conveniences,Q107358251,14,2,1,Public Conveniences in Ynysawdre,,Q813966,,
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : inspection under Section 28 of the Education Act 2005 : school number : 672/4074 : date of inspection : 30/11/2008",Q70692584,14,2,1,report,,Q10870555|Q47461344,,
+Ynysawdre,Ynysawdre Comprehensive School,Q8054073,14,2,1,"school in Tondu, Bridgend County Borough, Wales",,Q3914,,Ynysawdre Comprehensive School
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : summary report for parents on the inspection under Section 28 of the Education Act 2005 : school number : 672/4074 : date of inspection : 30/11/2008",Q70324183,14,2,1,edition; published in 2008,,Q3331189,,
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : Inspection under section 10 of the School Inspections Act 1996, Date of inspection : 30th September - 4th October 2002",Q70135627,14,2,1,edition; published in 2002,,Q3331189,,
+Ynysawdre,"Ynysawdre Comprehensive School, Heol yr Ysgol, Tondu, Bridgend, CF32 9EL : a summary report for parents : inspection during the Autumn Term 2002",Q70324181,14,2,1,edition; published in 2002,,Q3331189,,
+Park House,Park House,Q129674319,15,0,1,"former civil parish in Hampshire, England",,Q1115575,,
+Park House,Park House Museum,Q7137797,15,0,1,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Park House,Castle of Park,Q2339964,15,0,1,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Park House,Park House,Q7137793,15,0,1,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Park House,Castle of Park,Q66364013,15,0,1,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Park House,Park House,Q17571723,15,0,1,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Park House,Park House,Q27080568,15,0,1,"house in Westminster, London, England, UK",,Q3947,,
+Park House,Park House,Q17570402,15,0,1,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Park House,Park House,Q26546508,15,0,1,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Park House,designed landscape at Park House,Q108880271,15,0,1,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Park House,Castlemartin House and Estate,Q5050545,15,0,2,"historic property, Kilcullen, County Kildare, Ireland",,Q5773747,,Castlemartin House and Estate
+Stackpole and Castlemartin,Stackpole and Castlemartin,Q13132524,15,2,1,"community in Pembrokeshire, Wales",,Q2630741,,Stackpole and Castlemartin
+Stackpole and Castlemartin,Park House,Q129674319,15,2,2,"former civil parish in Hampshire, England",,Q1115575,,
+Stackpole and Castlemartin,Park House Museum,Q7137797,15,2,2,"house in Amherstburg, Ontario",Park House,Q3947,,Park House Museum
+Stackpole and Castlemartin,Castle of Park,Q2339964,15,2,2,"tower house in Dumfries and Galloway, Scotland, UK",Park Hay|The Park O' Luce|Park House|Park Castle|House of Park,Q91312,,Castle of Park
+Stackpole and Castlemartin,Park House,Q7137793,15,2,2,"Grade I listed building in Cardiff. Building in Cardiff, Wales","Park House, Cardiff|Burges House|McConnochie House",Q1202402|Q1103285,,"Park House, Cardiff"
+Stackpole and Castlemartin,Castle of Park,Q66364013,15,2,2,"grounds surrounding a tower houses in Dumfries and Galloway, Scotland, UK",Park House,Q1107656,,
+Stackpole and Castlemartin,Park House,Q17571723,15,2,2,"tower house in Ordiquhill, Aberdeenshire, Scotland, UK",Castle of Park,Q91312|Q23413,,Castle of Park (Aberdeenshire)
+Stackpole and Castlemartin,Park House,Q27080568,15,2,2,"house in Westminster, London, England, UK",,Q3947,,
+Stackpole and Castlemartin,Park House,Q17570402,15,2,2,"house in Aberdeenshire, Scotland, UK",,Q3947,,
+Stackpole and Castlemartin,Park House,Q26546508,15,2,2,"house in Didsbury, Manchester, England, UK",813A Wilmslow Road,Q3947,,
+Stackpole and Castlemartin,designed landscape at Park House,Q108880271,15,2,2,"designed landscape in Aberdeenshire, Scotland, UK",Park House,Q5264414,,
+Stackpole and Castlemartin,Stackpole,Q36871701,15,2,2,family name,,Q101352,,
+Stackpole and Castlemartin,Stackpole,Q24662193,15,2,2,"village and former community in Pembrokeshire, Wales",Ystagbwll,Q2630741|Q532,,Stackpole
+Stackpole and Castlemartin,165612 Stackpole,Q771585,15,2,2,asteroid,Stackpole,Q3863,,165612 Stackpole
+Stackpole and Castlemartin,Ralph Stackpole,Q7288111,15,2,2,American artist (1885-1973),Ralph W. Stackpole|Ralph Ward Stackpole|Stackpole,Q5,,Ralph Stackpole
+Stackpole and Castlemartin,Stackpole Estate,Q7595986,15,2,2,site within the Pembrokeshire Coast National Park,Y Stagbwll,Q179049,,Stackpole Estate
+Stackpole and Castlemartin,Stackpole,Q103942408,15,2,2,painting by Leal Mack,,Q3305213,,
+Stackpole and Castlemartin,Stackpole,Q31108706,15,2,2,hillfort in Pembrokeshire,,Q92086,,
+Stackpole and Castlemartin,Stackpole Pery,Q75596915,15,2,2,Peerage person ID=233821,Reverend Stackpole Pery,Q5,,
+Stackpole and Castlemartin,Stackpole Books,Q7595984,15,2,2,publisher,,Q2085381,,Stackpole Books
+Stackpole and Castlemartin,Castlemartin,Q5050548,15,2,2,village,"Castellmartin|Castlemartin, Pembrokeshire",Q532|Q2630741,,"Castlemartin, Pembrokeshire"
+Stackpole and Castlemartin,Castlemartin,Q110226397,15,2,2,Welsh parish,,Q102496,,
+Stackpole and Castlemartin,Castlemartin,Q104263619,15,2,2,"townland in Kilcullen, County Kildare, Ireland",,Q2151232,,
+Stackpole and Castlemartin,Castlemartin,Q104269688,15,2,2,"townland in Martry, County Meath, Ireland",,Q2151232,,
+Stackpole and Castlemartin,Castlemartin House and Estate,Q5050545,15,2,2,"historic property, Kilcullen, County Kildare, Ireland",,Q5773747,,Castlemartin House and Estate
+Stackpole and Castlemartin,Castlemartin Hundred,Q5050544,15,2,2,"hundred in Pembrokeshire, Wales",,Q26678366,,Castlemartin Hundred
+Stackpole and Castlemartin,Castlemartin Castle,Q24659570,15,2,2,hillfort in Pembrokeshire,Martine Castel,Q23413|Q28045079,,
+Stackpole and Castlemartin,Castlemartin Corse,Q16858394,15,2,2,"Site of Special Scientific Interest in Pembrokeshire, Wales, UK",,Q422211|Q170321,,Castlemartin Corse
+Stackpole and Castlemartin,Castlemartin Training Area,Q5050546,15,2,2,"military training area in Pembrokeshire, Wales",,,,Castlemartin Training Area
+Stackpole and Castlemartin,"Castlemartin 2, Incised Stone, Brownslade Barrow, Castemartin",Q125487733,15,2,2,"Cross-Incised Stones in Castlemartin, Pembrokeshire",,Q111457110,,
+Kingsley House,Kingsley House,Q6413317,16,0,1,"historic house in Rehoboth, Massachusetts",,Q3947,,"Kingsley House (Rehoboth, Massachusetts)"
+Kingsley House,Kingsley House,Q26621093,16,0,1,"house in Wickhambreaux, Canterbury, Kent, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q29482362,16,0,1,Grade II listed building in Monmouth. On the principal road which runs north-south on the east side of Monmouth town centre.,,Q3947,,
+Kingsley House,Kingsley House,Q26292923,16,0,1,"house in Harpole, South Northamptonshire, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q26504986,16,0,1,"house in Bideford, Torridge, Devon, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q26458171,16,0,1,"house in Chudleigh, Teignbridge, Devon, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q26561398,16,0,1,"house in Manchester, Greater Manchester, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q26423912,16,0,1,"house in Middleham, Richmondshire, North Yorkshire, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q26419821,16,0,1,"house in Barnack, Peterborough, Cambridgeshire, England, UK",,Q3947,,
+Kingsley House,Kingsley House,Q30287772,16,0,1,"organization in New Orleans, United States",,Q43229,,
+Kingsley House,Monmouth Castle,Q525635,16,0,2,"11th-century castle in Monmouth, Wales",Castell Trefynwy,Q23413,,Monmouth Castle
+Kingsley House,"Castle and Regimental Museum, Monmouth",Q3406059,16,0,2,"military museum in Monmouth, Wales, United Kingdom",Amgueddfa Filwrol Trefynwy|Monmouth Regimental Museum|Monmouth Castle Museum,Q7308408|Q115154402,,Monmouth Regimental Museum
+Kingsley House,"Monmouth Castle, Church, &c: Bridge over the Wye at Monmouth",Q23673870,16,0,2,"print; two images, one showing the church and castle at Monmouth, the other showing boats on the river at the Monnow Bridge",,Q11060274,,
+Kingsley House,Monmouth Castle and Regimental Museum Archives,Q81165462,16,0,2,archival institution in United Kingdom,,Q27030941,,
+Kingsley House,"Monmouth Castle, Henry 5th. Born here Aug.9th. 1587",Q23681811,16,0,2,landscape print; view of castle and other buildings,,Q11060274,,
+Kingsley House,Monmouth Castle - architectural details,Q23703953,16,0,2,print; architectural plan of Monmouth Castle,,Q11060274,,
+Kingsley House,Monmouth Castle and Priory,Q123222911,16,0,2,article published in the Transactions of the Bristol and Gloucestershire Archaeological Society in 1897,,Q13442814,,
+Kingsley House,Monmouth County Courthouse,Q43083556,16,0,2,courthouse in New Jersey,,Q64037785,,Monmouth County Courthouse
+Monmouth,Monmouth,Q156990,16,2,1,"town in Monmouthshire, Wales, UK",Trefynwy,Q3957,,Monmouth
+Monmouth,Monmouth University,Q922647,16,2,1,"private university located in West Long Branch, Monmouth County, New Jersey, United States",,Q902104|Q23002054,,Monmouth University
+Monmouth,Monmouthshire,Q1245075,16,2,1,historic county in Wales,County of Monmouth,Q1857731|Q7925010|Q683738,,Monmouthshire (historic)
+Monmouth,Monmouth,Q33225185,16,2,1,"community of Wales, United Kingdom",,Q2630741,,
+Monmouth,Monmouth County,Q502424,16,2,1,"county in New Jersey, United States","Monmouth County, New Jersey|Monmouth County, NJ",Q13414754,,"Monmouth County, New Jersey"
+Monmouth,Monmouth,Q577638,16,2,1,"city in Warren County, Illinois, United States","Monmouth, Illinois|Monmouth, IL",Q1093829,,"Monmouth, Illinois"
+Monmouth,Monmouth,Q1053353,16,2,1,"Parliamentary constituency in the United Kingdom, 1918-2024",,Q27971968,,Monmouth (UK Parliament constituency)
+Monmouth,Monmouth,Q1650626,16,2,1,"city in Oregon, USA","Monmouth, Oregon|Monmouth, OR",Q63440326,,"Monmouth, Oregon"
+Monmouth,Monmouthshire,Q207176,16,2,1,"principal area in south-east Wales, United Kingdom",Sir Fynwy|County of Monmouthshire|Monmouthshire County|Monmouthshire (principal area),Q15979307,,Monmouthshire
+Monmouth,Monmouth,Q3450325,16,2,1,"town in Kennebec County, Maine, United States","Monmouth, Maine|Monmouth, ME",Q15127012,,"Monmouth, Maine"
+Monmouth,Monmouth County Library,Q69484430,16,2,2,"public library system in New Jersey, USA",,Q26271642,,
+Monmouth,"2020 COVID-19 pandemic in Monmouth County, New Jersey",Q94269180,16,2,2,"pandemic in Monmouth County, New Jersey","COVID-19 pandemic in Monmouth County, New Jersey|2020 coronavirus outbreak in Monmouth County, New Jersey|2020 Monmouth County, New Jersey COVID-19 pandemic|Monmouth County, New Jersey COVID-19 pandemic|2020 COVID pandemic in Monmouth County, New Jersey",Q3241045,,
+Monmouth,Monmouth County Freeholder,Q53945982,16,2,2,,"Monmouth County, New Jersey Freeholder|Monmouth County Commissioner",Q294414,,
+Monmouth,Monmouth County Vocational School District,Q6901080,16,2,2,"vocational school district in Monmouth County, New Jersey, United States",MCVSD,Q398141|Q23002039,,Monmouth County Vocational School District
+Monmouth,Monmouth County Gaol,Q767102,16,2,2,"building in Monmouth, Wales",,Q41176,,Monmouth County Gaol
+Monmouth,member of the Monmouth County Board of Chosen Freeholders,Q49433092,16,2,2,,"Monmouth County, New Jersey Board of Chosen Freeholders",Q4164871,Q4931391,
+Monmouth,Monmouth County Historical Association,Q6901072,16,2,2,organization in New Jersey,The Monmouth County Historical Association,Q5774403|Q163740|Q16735822,,Monmouth County Historical Association
+Monmouth,Monmouth County Moon Tree,Q27057597,16,2,2,"Moon Tree in Monmouth County, New Jersey",,Q6907628,,
+Monmouth,Monmouth County Library,Q69957539,16,2,2,"public library in Manalapan Twp., New Jersey, USA",,Q12317349|Q28564,,
+Monmouth,Western Oregon University,Q1629641,16,2,2,"public university in Monmouth, Oregon, USA",Western Oregon State College|WOU|Oregon College of Education|Oregon Normal School|Oregon State Normal School|Christian College|Monmouth University|wou.edu,Q875538|Q23002039,,Western Oregon University
+Monmouth,Monmouth Hawks,Q16974305,16,2,2,collegiate sports club in the United States,Monmouth University athletics,Q2367225,,Monmouth Hawks
+Monmouth,Kessler Stadium,Q14705686,16,2,2,"football and track stadium at Monmouth University, New Jersey",Monmouth University Stadium|Monmouth University football stadium,Q37985280,,Kessler Stadium
+Monmouth,Monmouth University Leon Hess Business School,Q99288065,16,2,2,campus,,Q1143635,,
+Monmouth,Monmouth University Bookstore,Q99434074,16,2,2,"bookstore in West Long Branch, NJ, United States of America",,Q200764,,
+Monmouth,Monmouth University Department of Art and Design,Q16991683,16,2,2,,,,,Monmouth University Department of Art and Design
+Monmouth,Monmouth University Polling Institute,Q6901132,16,2,2,US public opinion research institute,,,,Monmouth University Polling Institute
+Monmouth,Monmouth University Library,Q124337186,16,2,2,"library at Monmouth University in West Long Branch, Monmouth County, New Jersey, United States",Guggenheim Memorial Library,Q856234,,
+Monmouth,Monmouth University Department of Psychology,Q101030621,16,2,2,academic department,,Q2467461,,
+East House,East House,Q110473026,17,0,1,"building in Amsterdam, Netherlands",,Q41176,,
+East House,East House,Q29491305,17,0,1,Grade II listed building in Vale of Glamorgan. About 40m SE of junction with Croft Terrace.,,Q3947,,
+East House,East House,Q26652146,17,0,1,"house in Ancroft, Northumberland, England, UK",,Q3947,,
+East House,East House,Q26412209,17,0,1,"house in Piddletrenthide, West Dorset, England, UK",,Q3947,,
+East House,East House,Q26665542,17,0,1,"house in Southwark, London, England, UK",,Q3947,,
+East House,East House,Q26316466,17,0,1,"house in Binbrook, East Lindsey, Lincolnshire, England, UK",,Q3947,,
+East House,East House,Q26651101,17,0,1,"house in Adderbury, Cherwell, Oxfordshire, England, UK",,Q3947,,
+East House,East House,Q26443699,17,0,1,"house in Great Smeaton, Hambleton, North Yorkshire, England, UK",,Q3947,,
+East House,East House,Q26325548,17,0,1,"house in Rolvenden, Ashford, Kent, England, UK",,Q3947,,
+East House,East House,Q17533082,17,0,1,"house in Hadleigh, Babergh, England, UK",,Q3947,,
+East House,Cowbridge,Q2145305,17,0,2,"market town in the Vale of Glamorgan, Wales, UK",Y Bont-faen,Q18511725,,Cowbridge
+East House,Cowbridge,Q5179610,17,0,2,Roman town,,Q618123|Q2202509,,Cowbridge (Roman town)
+East House,Cowbridge,Q110282112,17,0,2,chapelry to Llanblethian parish,,Q5073136,,
+East House,Cowbridge with Llanblethian,Q13132451,17,0,2,"community in the Vale of Glamorgan, Wales, UK",,Q2630741,,Cowbridge with Llanblethian
+East House,Cowbridge,Q64832707,17,0,2,"ward or electoral division in Vale of Glamorgan, Wales",,Q589282,,Cowbridge (electoral ward)
+East House,Cowbridge,Q119860258,17,0,2,"painting by British School, National Museum Wales, National Museum Cardiff",,Q3305213,,
+East House,Cowbridge Grammar School,Q5179611,17,0,2,"former school in Cowbridge, Vale of Glamorgan, Wales",Cowbridge Free School|pt,Q967098|Q41176,,Cowbridge Grammar School
+East House,Cowbridge Comprehensive School,Q5179607,17,0,2,secondary school in Wales,Cowbridge School,Q159334,,Cowbridge Comprehensive School
+East House,Cowbridge Road East,Q5179616,17,0,2,"road in Cardiff, Wales",,Q79007,,Cowbridge Road East
+East House,Cowbridge Town Hall,Q15211886,17,0,2,"municipal Building in Cowbridge, Wales",,Q25550691,,Cowbridge Town Hall
+East House,Llanblethian,Q13129633,17,0,2,"village in Vale of Glamorgan, Wales, UK",,Q532,,Llanblethian
+East House,Llanblethian,Q110211164,17,0,2,Welsh parish,,Q102496,,
+East House,St Quintins Castle,Q7595410,17,0,2,"castle in Llanblethian, Vale of Glamorgan, Wales",St Quintin's Castle|Llanblethian Castle|St Quentins Castle|St Quentin's Castle|St Quintin's Castle (Llanblethian Castle),Q23413,,St Quintins Castle
+East House,Llanblethian (ii),Q81394093,17,0,2,photograph by Martin Ridley,,Q125191,,
+East House,Llanblethian (i),Q81394095,17,0,2,photograph by Martin Ridley,,Q125191,,
+East House,Llanblethian village,Q81393081,17,0,2,photograph by Martin Ridley,,Q125191,,
+East House,"Llanblethian House and No2, including Forecourt walls and railings",Q29499540,17,0,2,Grade II listed building in Vale of Glamorgan. About 30m north of road junction and bridge over brook.,,Q3947,,
+Cowbridge with Llanblethian,Cowbridge with Llanblethian,Q13132451,17,2,1,"community in the Vale of Glamorgan, Wales, UK",,Q2630741,,Cowbridge with Llanblethian
+Cowbridge with Llanblethian,Cowbridge with Llanblethian Town Council,Q104395017,17,2,1,"UK local authority for the town of Cowbridge and village of Llanblethian, Vale of Glamorgan, Wales","Cowbridge with Llanblethian Town Council, Vale of Glamorgan|Cowbridge (Ancient Borough) with Llanblethian Town Council",Q3507268,,
+Cowbridge with Llanblethian,Cowbridge,Q2145305,17,2,2,"market town in the Vale of Glamorgan, Wales, UK",Y Bont-faen,Q18511725,,Cowbridge
+Cowbridge with Llanblethian,Cowbridge,Q5179610,17,2,2,Roman town,,Q618123|Q2202509,,Cowbridge (Roman town)
+Cowbridge with Llanblethian,Cowbridge,Q110282112,17,2,2,chapelry to Llanblethian parish,,Q5073136,,
+Cowbridge with Llanblethian,Cowbridge,Q64832707,17,2,2,"ward or electoral division in Vale of Glamorgan, Wales",,Q589282,,Cowbridge (electoral ward)
+Cowbridge with Llanblethian,Cowbridge,Q119860258,17,2,2,"painting by British School, National Museum Wales, National Museum Cardiff",,Q3305213,,
+Cowbridge with Llanblethian,Cowbridge Grammar School,Q5179611,17,2,2,"former school in Cowbridge, Vale of Glamorgan, Wales",Cowbridge Free School|pt,Q967098|Q41176,,Cowbridge Grammar School
+Cowbridge with Llanblethian,Cowbridge Comprehensive School,Q5179607,17,2,2,secondary school in Wales,Cowbridge School,Q159334,,Cowbridge Comprehensive School
+Cowbridge with Llanblethian,Cowbridge Road East,Q5179616,17,2,2,"road in Cardiff, Wales",,Q79007,,Cowbridge Road East
+Cowbridge with Llanblethian,Cowbridge Town Hall,Q15211886,17,2,2,"municipal Building in Cowbridge, Wales",,Q25550691,,Cowbridge Town Hall
+Cowbridge with Llanblethian,Llanblethian,Q13129633,17,2,2,"village in Vale of Glamorgan, Wales, UK",,Q532,,Llanblethian
+Cowbridge with Llanblethian,Llanblethian,Q110211164,17,2,2,Welsh parish,,Q102496,,
+Cowbridge with Llanblethian,St Quintins Castle,Q7595410,17,2,2,"castle in Llanblethian, Vale of Glamorgan, Wales",St Quintin's Castle|Llanblethian Castle|St Quentins Castle|St Quentin's Castle|St Quintin's Castle (Llanblethian Castle),Q23413,,St Quintins Castle
+Cowbridge with Llanblethian,Llanblethian (ii),Q81394093,17,2,2,photograph by Martin Ridley,,Q125191,,
+Cowbridge with Llanblethian,Llanblethian (i),Q81394095,17,2,2,photograph by Martin Ridley,,Q125191,,
+Cowbridge with Llanblethian,Llanblethian village,Q81393081,17,2,2,photograph by Martin Ridley,,Q125191,,
+Cowbridge with Llanblethian,"Llanblethian House and No2, including Forecourt walls and railings",Q29499540,17,2,2,Grade II listed building in Vale of Glamorgan. About 30m north of road junction and bridge over brook.,,Q3947,,
+Cowbridge with Llanblethian,East House,Q110473026,17,2,2,"building in Amsterdam, Netherlands",,Q41176,,
+Cowbridge with Llanblethian,East House,Q29491305,17,2,2,Grade II listed building in Vale of Glamorgan. About 40m SE of junction with Croft Terrace.,,Q3947,,
+Cowbridge with Llanblethian,East House,Q26652146,17,2,2,"house in Ancroft, Northumberland, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26412209,17,2,2,"house in Piddletrenthide, West Dorset, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26665542,17,2,2,"house in Southwark, London, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26316466,17,2,2,"house in Binbrook, East Lindsey, Lincolnshire, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26651101,17,2,2,"house in Adderbury, Cherwell, Oxfordshire, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26443699,17,2,2,"house in Great Smeaton, Hambleton, North Yorkshire, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q26325548,17,2,2,"house in Rolvenden, Ashford, Kent, England, UK",,Q3947,,
+Cowbridge with Llanblethian,East House,Q17533082,17,2,2,"house in Hadleigh, Babergh, England, UK",,Q3947,,
+Can Bou,Can Bou,Q21262869,18,0,1,place in Spain,,Q3055118|Q121289819,,
+Can Bou,Can Bou,Q67150513,18,0,1,Populated place in Piera (Anoia),,Q3055118,,
+Can Bou,Can Bou,Q105967171,18,0,1,"masia in Subirats, Alt Penedès, Barcelona, Catalonia, Spain",,Q585956,,
+Can Bou,Can Bou,Q21262877,18,0,1,"building in Girona Province, Spain",,Q3947,,
+Can Bou,Can Bou,Q17589536,18,0,1,"building in Barcelona Province, Spain",,Q3947,,
+Can Bou,Can Bou,Q99299860,18,0,1,"building in Granollers, Vallès Oriental, Barcelona, Catalonia, Spain",,Q585956,,
+Can Bou,Can Bou,Q107127106,18,0,1,"masia in Sant Gregori, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Bou,Can Bou,Q107209008,18,0,1,"masia in Verges, Baix Empordà, Girona, Catalonia, Spain",,Q585956,,
+Can Bou,Can Bou,Q107141536,18,0,1,"masia in Castell d'Aro, Platja d'Aro i S'Agaró (Catalonia)",,Q585956,,
+Can Bou,Can Bou,Q107208965,18,0,1,"masia in La Tallada d'Empordà, Baix Empordà, Girona, Catalonia, Spain",,Q585956,,
+Bank House,Peckover House and Garden,Q7158762,19,0,1,"historic house museum in Wisbech, Cambridgeshire, England, UK",Peckover House|Bank House,Q2087181,,Peckover House and Garden
+Bank House,Bank House,Q29507776,19,0,1,"Grade II listed building in Montgomery. Situated on steep slope overlooking town, to S of Castle Terrace, but approached by drive from road to the castle.",,Q3947,,
+Bank House,Bank House,Q26560191,19,0,1,"house in Falmouth, Cornwall, England, UK",,Q3947,,
+Bank House,Bank House,Q26499690,19,0,1,"house in Ightham, Tonbridge and Malling, Kent, England, UK",,Q3947,,
+Bank House,Bank House,Q17557511,19,0,1,"house in Uttoxeter, East Staffordshire, England, UK",,Q3947,,
+Bank House,Bank House,Q4855929,19,0,1,"historic home in Milford, Delaware, United States of America",,Q3947,,"Bank House (Milford, Delaware)"
+Bank House,Bank House,Q26676734,19,0,1,"bank building in Leeds, West Yorkshire, England, UK",,Q18761864,,
+Bank House,Bank House,Q136230606,19,0,1,office building in Nairobi,,Q1021645,,
+Bank House,Bank House,Q26309804,19,0,1,"house in Watchet, West Somerset, England, UK",,Q3947,,
+Bank House,Bank House,Q17542603,19,0,1,"house in Westbury, Wiltshire, England, UK",,Q3947,,
+Bank House,Bank of England,Q183231,19,0,2,central bank of the United Kingdom,Governor and Company of the Bank of England,Q66344|Q4830453|Q6500733,,Bank of England
+Bank House,The Old Bank of England,Q26487354,19,0,2,"pub in Fleet Street, London",Bank of England|Old Bank of England,Q212198,,The Old Bank of England
+Bank House,Bank of England building in London,Q63637740,19,0,2,building in London,,Q18761864,,
+Bank House,Former Bank of England,Q5470072,19,0,2,"Grade I listed building in Bristol, England, UK","Former Bank of England, Bristol|Bank of England, Bristol|Bank of England|13 and 14, Broad Street",Q18761864,,"Former Bank of England, Bristol"
+Bank House,Bank of England,Q132011183,19,0,2,"pub in Ancoats, Manchester, Greater Manchester, England",,Q212198,,
+Bank House,Bank Of England,Q123306341,19,0,2,1974 film by John Spencer,,Q24862,,
+Bank House,Bank of England,Q121091028,19,0,2,production company,,Q11396960,,
+Bank House,Bank of England,Q137610138,19,0,2,"building by Sir Basil Spence in Newcastle-upon-Tyne, Great Britain (1968–1971)",,Q18761864,,
+Bank House,Bank of England Act 1998,Q100161233,19,0,2,Public General Act of Parliament of the United Kingdom,1998 c. 11|1998 c11,Q105774620,,
+Bank House,Bank of England and Financial Services Act 2016,Q100161236,19,0,2,Public General Act of Parliament of the United Kingdom,2016 c. 14|2016 c14,Q105774620,,
+Bank House,Bank of Scotland,Q627381,19,0,2,"commercial and clearing bank based in Edinburgh, Scotland",Bank of Scotland plc,Q22687|Q15841019,,Bank of Scotland
+Bank House,Bank of Scotland,Q4856177,19,0,2,,,,,Lloyds Bank (Netherlands)
+Bank House,Bank of Scotland Order Confirmation Act 1970,Q110283321,19,0,2,Local Act of Parliament of the United Kingdom,"1970 c. xxxiv|1970 c xxxiv|Bank of Scotland Order Confirmation Act, 1970",Q100165600|Q110295952,,
+Bank House,Bank of Scotland from Princes Street Gardens,Q27957232,19,0,2,painting by John Duncan Fergusson,,Q3305213,,
+Bank House,Bank of Scotland Order 1970,Q110298184,19,0,2,Provisional Order,"Bank of Scotland Order, 1970",Q7252753,,
+Bank House,"Bank of Scotland, 110, 120 St Vincent Street, Glasgow",Q17568613,19,0,2,"building in Glasgow, Scotland, UK","110–120 St Vincent Street|110, 120 St Vincent Street, Bank Of Scotland",Q41176,,
+Bank House,"Bank of Scotland, 1 High Street, Renfrew",Q15106116,19,0,2,"bank building in Renfrewshire, Scotland, UK","Renfrew, 1 High Street, Bank Of Scotland",Q18761864,,
+Bank House,"Bank of Scotland, 42-46 Court Street, Haddington",Q17569663,19,0,2,"bank building in Haddington, East Lothian, Scotland, UK","42–46 Court Street, Haddington|Haddington, 42-46 Court Street, Bank Of Scotland",Q18761864,,
+Bank House,"Bank of Scotland Building, Broad Street, Peterhead",Q17777222,19,0,2,"building in Peterhead, Aberdeenshire, Scotland, UK","32 Broad Street, Peterhead|Peterhead, Broad Street, Bank Of Scotland Building",Q41176,,"32 Broad Street, Peterhead"
+Bank House,"Bank of Scotland, 32-32A Chambers Street, Edinburgh",Q17796292,19,0,2,"bank building in Edinburgh, Scotland, UK","Edinburgh, 32-32a Chambers Street, Bank Of Scotland",Q18761864,,
+Bank House,Bank of Ireland,Q806689,19,0,2,commercial bank operating in Ireland,Bank of Ireland Group plc,Q4830453|Q6881511|Q730038|Q22687|Q650241|Q891723,,Bank of Ireland
+Bank House,Bank Of Ireland,Q55029512,19,0,2,"bank in Tipperary, County Tipperary, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55055980,19,0,2,"bank in Carrickmacross, County Monaghan, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55029756,19,0,2,"bank in Lismore, County Waterford, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55027686,19,0,2,"bank in Cavan, County Cavan, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55028815,19,0,2,"bank in Rathkeale, County Limerick, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55028199,19,0,2,"bank in Buncrana, County Donegal, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55056120,19,0,2,"bank in Clonmel, County Tipperary, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55029480,19,0,2,"bank in Cashel, County Tipperary, Ireland",,Q18761864,,
+Bank House,Bank of Ireland,Q55029185,19,0,2,"bank in Monaghan, County Monaghan, Ireland",,Q18761864,,
+Montgomery,Montgomery,Q29364,19,2,1,capital city of the U.S. state of Alabama and seat of Montgomery County,"Montgomery, Alabama|Montgomery, AL",Q1093829|Q21518270|Q62049|Q1549591,,"Montgomery, Alabama"
+Montgomery,Montgomery,Q2780561,19,2,1,family name,,Q101352,,Montgomery (name)
+Montgomery,Montgomery,Q1407764,19,2,1,male given name,Montgomery (given name)|Montgomery (first name),Q12308941,,
+Montgomery,Montgomery,Q981955,19,2,1,"city in Montgomery County, Texas, United States","Montgomery, Texas|Montgomery, TX",Q1093829,,"Montgomery, Texas"
+Montgomery,Montgomery County,Q488659,19,2,1,"county in Maryland, United States","Montgomery County, Maryland|MoCo|Montgomery County, MD|Montgomery County, Md.",Q13410464,,"Montgomery County, Maryland"
+Montgomery,Montgomery,Q1311946,19,2,1,"county town of Montgomeryshire, now in Powys, Wales, UK","Montgomery, Montgomeryshire|Montgomery, Powys|Trefaldwyn",Q3957,,"Montgomery, Powys"
+Montgomery,Montgomery,Q42949567,19,2,1,"community in Powys, Wales, UK",,Q2630741,,
+Montgomery,Montgomeryshire,Q38825,19,2,1,historic county of Wales,County of Montgomery|District of Montgomeryshire,Q1857731|Q67376938|Q2249932,,Montgomeryshire
+Montgomery,Montgomery,Q111785531,19,2,1,tram stop in Brussels,,Q2175765,,
+Montgomery,Montgomery Clift,Q193102,19,2,1,American actor (1920–1966),Monty Clift|Edward Montgomery Clift,Q5,,Montgomery Clift
+Montgomery,Montgomery Bank,Q22367524,19,2,2,"ocean bank in British Columbia, Canada",,Q1377943,,
+Montgomery,Montgomery County,Q378527,19,2,2,"county in Pennsylvania, United States","Montgomery County, Pennsylvania|Montgomery County (Pennsylvania)|Montgomery County, PA|Montco",Q13414763,,"Montgomery County, Pennsylvania"
+Montgomery,Montgomery County,Q485600,19,2,2,"county in Ohio, United States","Montgomery County, Ohio|Montgomery County, OH",Q13414759,,"Montgomery County, Ohio"
+Montgomery,Montgomery County,Q26756,19,2,2,"county in Texas, United States","Montgomery County, Texas|Montgomery County, TX",Q11774097,,"Montgomery County, Texas"
+Montgomery,Montgomery County,Q61521,19,2,2,"county in Arkansas, United States","Montgomery County, Arkansas|Montgomery County, AR",Q11774062,,"Montgomery County, Arkansas"
+Montgomery,Montgomery County,Q502784,19,2,2,"county in Alabama, United States","Montgomery County, Alabama|Montgomery County, AL",Q13410400,,"Montgomery County, Alabama"
+Montgomery,Montgomery County,Q490129,19,2,2,"county in Missouri, United States","Montgomery County, Missouri|Montgomery County, MO",Q13410520,,"Montgomery County, Missouri"
+Montgomery,Montgomery County,Q506697,19,2,2,"county in North Carolina, United States","Montgomery County, North Carolina|Montgomery County, NC",Q13414758,,"Montgomery County, North Carolina"
+Montgomery,Montgomery County,Q495120,19,2,2,"county in Virginia, United States","Montgomery County, Virginia|Montgomery County, VA",Q13415368,,"Montgomery County, Virginia"
+Montgomery,Montgomery County,Q502345,19,2,2,"county in Tennessee, United States","Montgomery County, Tennessee|Montgomery County, TN",Q13415366,,"Montgomery County, Tennessee"
+Montgomery,Montgomery Ward,Q3246929,19,2,2,retailer in the United States,Montgomery Ward and Company,Q4830453,,Montgomery Ward
+Montgomery,Aaron Montgomery Ward,Q4662269,19,2,2,American businessman (1843–1913),A. Montgomery Ward|Montgomery Ward,Q5,,Aaron Montgomery Ward
+Montgomery,Montgomery Ward Records,Q1570033,19,2,2,American record label,,Q18127,,Montgomery Ward Records
+Montgomery,Montgomery Ward,Q136744267,19,2,2,"historic building in Missoula, Montana, United States",,Q41176,,
+Montgomery,Garnetts,Q107320361,19,2,2,"building at 3xx N. Oak Mineral Wells, Texas",Montgomery Ward,Q41176,,
+Montgomery,Ward Building,Q106497911,19,2,2,"university building and skyscraper at Northwestern University, Chicago, Illinois",303 E. Chicago Avenue|Montgomery Ward Building|Northwestern University Ward Building|Montgomery Ward Memorial Building|Ward Memorial Building,Q19844914|Q11303,,
+Montgomery,Montgomery Park,Q14692225,19,2,2,"state government office building across from Carroll Park in southwest Baltimore, Maryland, United States","Montgomery Ward Warehouse and Retail Store|Montgomery Park, Baltimore",Q1021645,,Montgomery Ward Warehouse and Retail Store
+Montgomery,Montgomery Ward Company Complex,Q6905828,19,2,2,"national headquarters of Montgomery Ward, the United States' oldest mail order firm in Chicago, Illinois",,Q1497364,,Montgomery Ward Company Complex
+Montgomery,Montgomery Ward Building,Q14684961,19,2,2,"commercial building in Pueblo, Colorado",,Q655686,,"Montgomery Ward Building (Pueblo, Colorado)"
+Montgomery,Montgomery Ward Building,Q6905820,19,2,2,"listed on the National Register of Historic Places in Burlington, Vermont, United States",,Q216107,,"Montgomery Ward Building (Burlington, Vermont)"
+Montgomery,"history of Montgomery, Alabama",Q5865544,19,2,2,aspect of history,"Montgomery, Alabama history",Q17524420,,"History of Montgomery, Alabama"
+Montgomery,"2020 COVID-19 pandemic in Montgomery, Alabama",Q94379969,19,2,2,"pandemic in Montgomery, Alabama","2020 coronavirus outbreak in Montgomery, Alabama|COVID-19 pandemic in Montgomery, Alabama|2020 Montgomery, Alabama COVID-19 pandemic|Montgomery, Alabama COVID-19 pandemic|2020 COVID pandemic in Montgomery, Alabama",Q3241045,,
+Montgomery,Montgomeryans,Q140167215,19,2,2,"residents or natives of Montgomery, Alabama","Montgomery, Alabama, residents|Montgomery residents|Montgomery inhabitants",Q33829,Q22947|Q100699843,
+Bank House,Peckover House and Garden,Q7158762,20,0,1,"historic house museum in Wisbech, Cambridgeshire, England, UK",Peckover House|Bank House,Q2087181,,Peckover House and Garden
+Bank House,Bank House,Q29507776,20,0,1,"Grade II listed building in Montgomery. Situated on steep slope overlooking town, to S of Castle Terrace, but approached by drive from road to the castle.",,Q3947,,
+Bank House,Bank House,Q26560191,20,0,1,"house in Falmouth, Cornwall, England, UK",,Q3947,,
+Bank House,Bank House,Q26499690,20,0,1,"house in Ightham, Tonbridge and Malling, Kent, England, UK",,Q3947,,
+Bank House,Bank House,Q17557511,20,0,1,"house in Uttoxeter, East Staffordshire, England, UK",,Q3947,,
+Bank House,Bank House,Q4855929,20,0,1,"historic home in Milford, Delaware, United States of America",,Q3947,,"Bank House (Milford, Delaware)"
+Bank House,Bank House,Q26676734,20,0,1,"bank building in Leeds, West Yorkshire, England, UK",,Q18761864,,
+Bank House,Bank House,Q136230606,20,0,1,office building in Nairobi,,Q1021645,,
+Bank House,Bank House,Q26309804,20,0,1,"house in Watchet, West Somerset, England, UK",,Q3947,,
+Bank House,Bank House,Q17542603,20,0,1,"house in Westbury, Wiltshire, England, UK",,Q3947,,
+Bank House,Llandeilo,Q2204179,20,0,2,"town in Carmarthenshire, Wales",,Q3957|Q2630741,,Llandeilo
+Bank House,Llandeilo,Q1947006,20,0,2,"geological age, part of the Ordovician",Llandeilo Group,Q824979|Q1123245,,Llandeilo Group
+Bank House,Llantilio Crossenny,Q6661794,20,0,2,"village in Monmouthshire, Wales, United Kingdom",Llandeilo Gresynni,Q532|Q2630741,,Llantilio Crossenny
+Bank House,Llandeilo railway station,Q2063981,20,0,2,"railway station in Carmarthenshire, Wales, UK",Llandeilo Station|LLL,Q55488,,Llandeilo railway station
+Bank House,Llandeilo Fawr,Q110210741,20,0,2,Welsh parish,Llandilo-Fawr|Llandeilo-Fawr|Llandilo-Vawr,Q102496,,
+Bank House,Llantilio Pertholey,Q6661799,20,0,2,"village in Monmouthshire, Wales",Llandeilo Bertholau,Q2630741|Q5084,,Llantilio Pertholey
+Bank House,Llandeilo,Q24664367,20,0,2,,,,,
+Bank House,Llandeilo,Q113468645,20,0,2,"ward or electoral division in Carmarthenshire, Wales",,Q589282,,Llandeilo (electoral ward)
+Bank House,LLANDEILO,Q127046154,20,0,2,hymn tune,,Q105543609,,
+Bank House,Llandeilo,Q119801310,20,0,2,"painting by Anthony Richards (b.1962), Glynn Vivian Art Gallery",,Q3305213,,
+Llandeilo,Llandeilo,Q2204179,20,2,1,"town in Carmarthenshire, Wales",,Q3957|Q2630741,,Llandeilo
+Llandeilo,Llandeilo,Q1947006,20,2,1,"geological age, part of the Ordovician",Llandeilo Group,Q824979|Q1123245,,Llandeilo Group
+Llandeilo,Llantilio Crossenny,Q6661794,20,2,1,"village in Monmouthshire, Wales, United Kingdom",Llandeilo Gresynni,Q532|Q2630741,,Llantilio Crossenny
+Llandeilo,Llandeilo railway station,Q2063981,20,2,1,"railway station in Carmarthenshire, Wales, UK",Llandeilo Station|LLL,Q55488,,Llandeilo railway station
+Llandeilo,Llandeilo Fawr,Q110210741,20,2,1,Welsh parish,Llandilo-Fawr|Llandeilo-Fawr|Llandilo-Vawr,Q102496,,
+Llandeilo,Llantilio Pertholey,Q6661799,20,2,1,"village in Monmouthshire, Wales",Llandeilo Bertholau,Q2630741|Q5084,,Llantilio Pertholey
+Llandeilo,Llandeilo,Q24664367,20,2,1,,,,,
+Llandeilo,Llandeilo,Q113468645,20,2,1,"ward or electoral division in Carmarthenshire, Wales",,Q589282,,Llandeilo (electoral ward)
+Llandeilo,LLANDEILO,Q127046154,20,2,1,hymn tune,,Q105543609,,
+Llandeilo,Llandeilo,Q119801310,20,2,1,"painting by Anthony Richards (b.1962), Glynn Vivian Art Gallery",,Q3305213,,
+Llandeilo,Llandeilo Castle Mound,Q13126898,20,2,2,"motte and bailey castle in Swansea, UK",,Q92062,,
+Llandeilo,Llandeilo Town Council,Q104395233,20,2,2,"UK local authority for the town of Llandeilo, Carmarthenshire, Wales","Llandeilo Town Council, Carmarthenshire",Q3507268,,
+Bank House,Peckover House and Garden,Q7158762,21,0,1,"historic house museum in Wisbech, Cambridgeshire, England, UK",Peckover House|Bank House,Q2087181,,Peckover House and Garden
+Bank House,Bank House,Q29507776,21,0,1,"Grade II listed building in Montgomery. Situated on steep slope overlooking town, to S of Castle Terrace, but approached by drive from road to the castle.",,Q3947,,
+Bank House,Bank House,Q26560191,21,0,1,"house in Falmouth, Cornwall, England, UK",,Q3947,,
+Bank House,Bank House,Q26499690,21,0,1,"house in Ightham, Tonbridge and Malling, Kent, England, UK",,Q3947,,
+Bank House,Bank House,Q17557511,21,0,1,"house in Uttoxeter, East Staffordshire, England, UK",,Q3947,,
+Bank House,Bank House,Q4855929,21,0,1,"historic home in Milford, Delaware, United States of America",,Q3947,,"Bank House (Milford, Delaware)"
+Bank House,Bank House,Q26676734,21,0,1,"bank building in Leeds, West Yorkshire, England, UK",,Q18761864,,
+Bank House,Bank House,Q136230606,21,0,1,office building in Nairobi,,Q1021645,,
+Bank House,Bank House,Q26309804,21,0,1,"house in Watchet, West Somerset, England, UK",,Q3947,,
+Bank House,Bank House,Q17542603,21,0,1,"house in Westbury, Wiltshire, England, UK",,Q3947,,
+Bank House,Bank of England,Q183231,21,0,2,central bank of the United Kingdom,Governor and Company of the Bank of England,Q66344|Q4830453|Q6500733,,Bank of England
+Bank House,The Old Bank of England,Q26487354,21,0,2,"pub in Fleet Street, London",Bank of England|Old Bank of England,Q212198,,The Old Bank of England
+Bank House,Bank of England building in London,Q63637740,21,0,2,building in London,,Q18761864,,
+Bank House,Former Bank of England,Q5470072,21,0,2,"Grade I listed building in Bristol, England, UK","Former Bank of England, Bristol|Bank of England, Bristol|Bank of England|13 and 14, Broad Street",Q18761864,,"Former Bank of England, Bristol"
+Bank House,Bank of England,Q132011183,21,0,2,"pub in Ancoats, Manchester, Greater Manchester, England",,Q212198,,
+Bank House,Bank Of England,Q123306341,21,0,2,1974 film by John Spencer,,Q24862,,
+Bank House,Bank of England,Q121091028,21,0,2,production company,,Q11396960,,
+Bank House,Bank of England,Q137610138,21,0,2,"building by Sir Basil Spence in Newcastle-upon-Tyne, Great Britain (1968–1971)",,Q18761864,,
+Bank House,Bank of England Act 1998,Q100161233,21,0,2,Public General Act of Parliament of the United Kingdom,1998 c. 11|1998 c11,Q105774620,,
+Bank House,Bank of England and Financial Services Act 2016,Q100161236,21,0,2,Public General Act of Parliament of the United Kingdom,2016 c. 14|2016 c14,Q105774620,,
+Abergavenny,Abergavenny,Q609161,21,2,1,"town and community in Monmouthshire, Wales, UK",,Q18511725|Q2630741,,Abergavenny
+Abergavenny,Abergavenny,Q23681672,21,2,1,landscape print; view of town looking across the river Wye towards the Ysgyryd Fawr,,Q11060274,,
+Abergavenny,Abergavenny,Q98148876,21,2,1,painting by William Callow,,Q3305213,,
+Abergavenny,Abergavenny,Q24663377,21,2,1,,,,,
+Abergavenny,Abergavenny,Q114245920,21,2,1,historic church parish in Wales,,Q102496,,
+Abergavenny,Abergavenny railway station,Q1964010,21,2,1,"railway station in Abergavenny, Monmouthshire, Wales, UK",Abergavenny Station|Abergavenny Monmouth Road Station|Abergavenny Monmouth Road|Abergavenny Monmouth Road railway station|AGV,Q55488,,Abergavenny railway station
+Abergavenny,King Henry VIII School Abergavenny,Q6411707,21,2,1,"school in Abergavenny, Monmouthshire, Wales",Ysgol y Brenin Harri VIII|Abergavenny Grammar School|King Henry VIII Comprehensive School,Q159334|Q3914,,"King Henry VIII 3–19 School, Abergavenny"
+Abergavenny,Abergavenny,Q124519315,21,2,1,song by Marty Wilde,,Q105543609,,
+Abergavenny,Abergavenny,Q119115648,21,2,1,"painting by Edmund John Niemann (1813–1876), Calderdale Metropolitan Borough Council",,Q3305213,,
+Abergavenny,Abergavenny,Q119860251,21,2,1,"painting by John Henry Mole (1814–1886), National Museum Wales, National Museum Cardiff",,Q3305213,,
+Abergavenny,Abergavenny Castle,Q4667087,21,2,2,"Grade I listed building in Abergavenny. Ruined castle in the market town of Abergavenny, Monmouthshire, Wales",,Q23413,,Abergavenny Castle
+Abergavenny,Abergavenny Castle,Q23662381,21,2,2,print; view of the ruins of Abergavenny castle with figures standing in front of it,,Q11060274,,
+Abergavenny,Abergavenny Castle,Q24055099,21,2,2,landscape print; view Abergavenny castle with an angler standing in the water in the foreground,,Q11060274,,
+Abergavenny,Abergavenny Castle,Q23690618,21,2,2,landscape print; view of the ruins of Abergavenny Castle,,Q11060274,,
+Abergavenny,"Abergavenny Castle, Monmouthshire, plate I",Q23763121,21,2,2,print; views of the ruins of Abergavenny Castle,,Q11060274,,
+Abergavenny,"Abergavenny Castle, Monmouthshire, Pl.2",Q25917048,21,2,2,landscape print; view of the ruins of Abergavenny Castle with cattle grazing in the foreground,,Q11060274,,
+Abergavenny,"Abergavenny Castle, Monmouthshire",Q23763498,21,2,2,landscape print; view of the ruins of Abergavenny Castle with a man and a horse in the foreground,,Q11060274,,
+Abergavenny,Abergavenny Town Council,Q104394811,21,2,2,"UK local authority for the town of Abergavenny, Monmouthshire, Wales","Abergavenny Town Council, Monmouthshire",Q3507268,,
+Bank House,Peckover House and Garden,Q7158762,22,0,1,"historic house museum in Wisbech, Cambridgeshire, England, UK",Peckover House|Bank House,Q2087181,,Peckover House and Garden
+Bank House,Bank House,Q29507776,22,0,1,"Grade II listed building in Montgomery. Situated on steep slope overlooking town, to S of Castle Terrace, but approached by drive from road to the castle.",,Q3947,,
+Bank House,Bank House,Q26560191,22,0,1,"house in Falmouth, Cornwall, England, UK",,Q3947,,
+Bank House,Bank House,Q26499690,22,0,1,"house in Ightham, Tonbridge and Malling, Kent, England, UK",,Q3947,,
+Bank House,Bank House,Q17557511,22,0,1,"house in Uttoxeter, East Staffordshire, England, UK",,Q3947,,
+Bank House,Bank House,Q4855929,22,0,1,"historic home in Milford, Delaware, United States of America",,Q3947,,"Bank House (Milford, Delaware)"
+Bank House,Bank House,Q26676734,22,0,1,"bank building in Leeds, West Yorkshire, England, UK",,Q18761864,,
+Bank House,Bank House,Q136230606,22,0,1,office building in Nairobi,,Q1021645,,
+Bank House,Bank House,Q26309804,22,0,1,"house in Watchet, West Somerset, England, UK",,Q3947,,
+Bank House,Bank House,Q17542603,22,0,1,"house in Westbury, Wiltshire, England, UK",,Q3947,,
+Llandovery,Llandovery,Q651733,22,2,1,"market town and community in Carmarthenshire, Wales",Llanymddyfri,Q2630741|Q3957,,Llandovery
+Llandovery,Llandovery,Q1187992,22,2,1,first series and epoch of the Silurian system and period,Llandovery Epoch|Llandovery Series,Q312468|Q754897,,Llandovery Epoch
+Llandovery,Llandovery railway station,Q2276109,22,2,1,"railway station in Carmarthenshire, Wales, UK",Llandovery Station|LLV,Q55488,,Llandovery railway station
+Llandovery,Llandovery,Q24663361,22,2,1,,,,,
+Llandovery,Llandovery College,Q6661234,22,2,1,"school in Carmarthenshire, UK","Welsh Institution, Llandovery|Welsh Educational Institution|Coleg Llanymddyfri|Llandovery School|Thomas Phillips Institution|Welsh Collegiate Institution|Welsh College, Llandovery|Collegiate Institute",Q423208|Q708676,,Llandovery College
+Llandovery,Llandovery,Q103913085,22,2,1,shipwreck off the Scottish coast,,Q11446|Q852190,,
+Llandovery,Llandovery,Q124671208,22,2,1,"ward or electoral division in Carmarthenshire, Wales",,Q589282,,
+Llandovery,Llandovery Castle,Q138763212,22,2,1,passenger ship built in 1925,,Q2055880,,
+Llandovery,Llandovery (OSD 190),Q106156142,22,2,1,1819 Ordnance Survey Old Series preparatory drawing,,Q2353983,,
+Llandovery,Llandovery Castle,Q1493071,22,2,1,"castle in Llandovery, Carmarthenshire, Wales",,Q92062|Q23413,,Llandovery Castle
+Llandovery,Llandovery Group,Q6661226,22,2,2,,,Q824979,,Llandovery Group
+Bank House,Peckover House and Garden,Q7158762,23,0,1,"historic house museum in Wisbech, Cambridgeshire, England, UK",Peckover House|Bank House,Q2087181,,Peckover House and Garden
+Bank House,Bank House,Q29507776,23,0,1,"Grade II listed building in Montgomery. Situated on steep slope overlooking town, to S of Castle Terrace, but approached by drive from road to the castle.",,Q3947,,
+Bank House,Bank House,Q26560191,23,0,1,"house in Falmouth, Cornwall, England, UK",,Q3947,,
+Bank House,Bank House,Q26499690,23,0,1,"house in Ightham, Tonbridge and Malling, Kent, England, UK",,Q3947,,
+Bank House,Bank House,Q17557511,23,0,1,"house in Uttoxeter, East Staffordshire, England, UK",,Q3947,,
+Bank House,Bank House,Q4855929,23,0,1,"historic home in Milford, Delaware, United States of America",,Q3947,,"Bank House (Milford, Delaware)"
+Bank House,Bank House,Q26676734,23,0,1,"bank building in Leeds, West Yorkshire, England, UK",,Q18761864,,
+Bank House,Bank House,Q136230606,23,0,1,office building in Nairobi,,Q1021645,,
+Bank House,Bank House,Q26309804,23,0,1,"house in Watchet, West Somerset, England, UK",,Q3947,,
+Bank House,Bank House,Q17542603,23,0,1,"house in Westbury, Wiltshire, England, UK",,Q3947,,
+Carmarthen,Carmarthen,Q835835,23,2,1,"county town and community in Carmarthenshire, Wales",Caerfyrddin,Q18511725|Q2630741,,Carmarthen
+Carmarthen,Carmarthenshire,Q217840,23,2,1,principal area in south-west Wales,Sir Gaerfyrddin|Sir Gâr|Carms|County of Carmarthenshire|Carmarthenshire County|Sir Gar,Q15979307,,Carmarthenshire
+Carmarthen,Carmarthenshire,Q67287054,23,2,1,historic county of Wales,County of Carmarthen|Sir Gaerfyrddin,Q1857731|Q67376938,,
+Carmarthen,Carmarthen,Q672693,23,2,1,"Parliamentary constituency in the United Kingdom, 1801-1997",Caerfyrddin|Carmarthen Boroughs,Q27971968,,
+Carmarthen,Carmarthen,Q60576221,23,2,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Carmarthen,Carmarthen,Q110216391,23,2,1,Welsh parish,Carmarthen (St Peter),Q102496,,
+Carmarthen,Carmarthen,Q24256032,23,2,1,print,,Q11060274,,
+Carmarthen,Carmarthen,Q24666742,23,2,1,,,,,
+Carmarthen,Carmarthen,Q24256051,23,2,1,landscape print,,Q11060274,,
+Carmarthen,Carmarthen Town A.F.C.,Q856468,23,2,1,association football club,Carmarthen Town AFC,Q476028,,Carmarthen Town A.F.C.
+Carmarthen,Carmarthen Castle,Q14906524,23,2,2,"Grade I listed castle in Carmarthen, Wales, UK",,Q23413|Q839954,,Carmarthen Castle
+Carmarthen,"Carmarthen Castle : the archaeology of government : the results of archaeological, historical and architectural investigation, 1993-2006",Q56816409,23,2,2,book; published in 2014,Carmarthen Castle: The Archaeology of Government,Q3331189,,
+Carmarthen,Carmarthen Castle: a Collection of Historical Documents Relating to Carmarthen Castle from the Earliest Times to the Close of the Reign of Henry VIII,Q107745402,23,2,2,chapter published in 1913,,Q21481766,,
+Carmarthen,"Carmarthen Castle : the archaeology of government : the results of archaeological, historical and architectural investigation, 1993-2006",Q60422364,23,2,2,book by Neil Ludlow,,Q7725634,,
+Carmarthen,Carmarthen castle and town engraving,Q77434437,23,2,2,image from a set of 8 extra-illustrated volumes of A tour in Wales by Thomas Pennant,,Q11060274,,
+Carmarthen,Carmarthen Castle: The Archaeology of Government,Q136127641,23,2,2,book 2014,,Q3331189,,

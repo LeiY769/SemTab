@@ -1,0 +1,434 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Peirce,Peirce,Q19798449,0,0,1,family name,,Q101352,,Peirce (surname)
+Peirce,Peirce,Q110968219,0,0,1,male given name,,Q12308941,,Peirce (given name)
+Peirce,Charles Sanders Peirce,Q187520,0,0,1,"American philosopher, logician, mathematician, and scientist (1839-1914)",Charles Sanders Santiago Peirce|CSP,Q5,,Charles Sanders Peirce
+Peirce,Peirce,Q261146,0,0,1,lunar impact crater,,Q55818,,Peirce (crater)
+Peirce,George James Peirce,Q21522774,0,0,1,American botanist (1868-1954),Peirce,Q5,,George James Peirce
+Peirce,Peirce,Q106874475,0,0,1,NASA Lunar topographic orthophotomap,LTO 44D4,Q4006,,
+Peirce,Peirce,Q23863593,0,0,1,article in Otto's encyclopedia,,Q13433827,,
+Peirce,logical NOR,Q574946,0,0,1,binary operation that is true if and only if both operands are false,Peirce's arrow|non-disjunction|NOR operation|↓,Q942353|Q211790|Q164307,,Logical NOR
+Peirce,Peirce’s Theory of Abduction,Q139684506,0,0,1,,,Q571,,
+Peirce,Peirce and the Threat of Nominalism,Q139867322,0,0,1,,,Q193495,,
+Peirce,Charles Sanders Peirce bibliography,Q490299,0,0,2,bibliography,bibliography of Charles Sanders Peirce|Charles Sanders Peirce's bibliography,Q1631107,,Charles Sanders Peirce bibliography
+Peirce,Charles Sanders Peirce's economy of research,Q140121382,0,0,2,"journal article from Journal of Economic Methodology, published in 1994",,Q13442814,,
+Peirce,"Charles Sanders Peirce, historian and semiotician",Q125990497,0,0,2,scientific article published in 1991,,Q13442814,,
+Peirce,Charles Sanders Peirce’s Influence on Roman Jakobson,Q120443164,0,0,2,"scholarly article in Journal of Hunan University (Social Sciences), no. 2, 2007",,Q13442814,,
+Peirce,Charles Sanders Peirce and the Semiotic Foundation of Self and Reason,Q111196206,0,0,2,scientific article published on 30 September 2004,,Q13442814,,
+Peirce,Charles Sanders Peirce and the first absolute measurement standard,Q56040403,0,0,2,,,Q13442814,,
+Peirce,Charles Sanders Peirce and the Social Ontology of the Firm: A Semiotic Perspective on Human Agency,Q128859993,0,0,2,scholarly article,,Q13442814,,
+Peirce,"Charles Sanders Peirce, Lowell Lectures (1903). Kritische Edition des Bandes 25 der Writings of Charles S. Peirce. A Chronological Edition, Indiana UP, Bloomington (ab 1982)",Q116098329,0,0,2,,,Q1298668,,
+Peirce,Charles Mason Peirce,Q107141157,0,0,2,"politician in Massachusetts, US (1823-1875)",Charles M. Peirce|Charles Peirce|C. M. Peirce,Q5,,
+Peirce,Charles Peirce's Theory of Scientific Method,Q136155058,0,0,2,book 1970,,Q3331189,,
+Peirce,Charles Peirce's Limit Concept of Truth,Q59552161,0,0,2,,,Q13442814,,
+Peirce,Charles Peirce's Reading of Richard Whately'sElements of Logic,Q58553746,0,0,2,,,Q13442814,,
+Peirce,Charles Peirce and the Drawings of the Mind,Q57478661,0,0,2,,,Q13442814,,
+Peirce,Charles Peirce's Empiricism. Justus Buchler,Q140820161,0,0,2,"scholarly article published in Isis, vol. 32, no. 2 (1940) (DOI: 10.1086/347732)",,Q13442814,,
+Pitatus,Pitatus,Q1572138,1,0,1,lunar impact crater,,Q55818,,Pitatus (crater)
+Pitatus,Pitatus,Q106806561,1,0,1,Lunar astronautical chart,LAC 94,Q4006|Q25106976,,
+Pitatus,Pitatus,Q2097162,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hill,Hill,Q973239,2,0,1,family name,Hill (surname),Q101352,,Hill (surname)
+Hill,hill,Q54050,2,0,1,"landform that extends above the surrounding terrain in lower mountain ranges, smaller and less steep than a mountain",hills|elevation,,Q271669|Q106589819|Q35145263,Hill
+Hill,The Hill,Q7739683,2,0,1,"newspaper in Washington, D.C.",Hill,Q11032,,The Hill (newspaper)
+Hill,Hill,Q5761944,2,0,1,"village and civil parish in Gloucestershire, UK","Hill, Gloucestershire",Q532|Q1115575,,"Hill, Gloucestershire"
+Hill,Hill,Q30228508,2,0,1,given name,Hill (given name),Q202444,,
+Hill,mountain range,Q46831,2,0,1,geographic area containing several geologically related mountains,mountain belt|mountain barrier|hill range|range|mountains|oceanic range|mountain system,,Q271669|Q82794|Q35145263|Q106589819,Mountain range
+Hill,Hill,Q19884206,2,0,1,painting by Cândido Portinari,,Q3305213,,
+Hill,mountain pass,Q133056,2,0,1,"navigable route, typically through a saddle or its vicinity, to cross a mountain range or a ridge",road mountain pass|hill pass|pass,Q12046615,Q2221906|Q618123|Q16887036|Q136749248,Mountain pass
+Hill,Hillary Clinton,Q6294,2,0,1,American politician and diplomat (born 1947),Hillary Diane Rodham Clinton|Hillary Diane Rodham,Q5,,Hillary Clinton
+Hill,Hill,Q104052623,2,0,1,"academic, member of the Accademia delle Scienze di Torino since 1822",,Q5,,
+Hill,mountain,Q8502,2,0,2,large natural elevation of the Earth's surface,mount|mt.|mtn.,Q12046615|Q618123,Q106589819|Q35145263,Mountain
+Hill,Mountain,Q20997411,2,0,2,family name,,Q101352,,Mountain (surname)
+Hill,Mountain,Q1885759,2,0,2,"civil town in Oconto County, Wisconsin",Town of Mountain,Q15219655,,"Mountain, Wisconsin"
+Hill,Mountain,Q29293936,2,0,2,2014 simulation video game,,Q7889,,Mountain (video game)
+Hill,summit,Q207326,2,0,2,"point on a surface that is higher in elevation than all points immediately adjacent to it, in topography",peak|mountain peak,,Q618123|Q3393392,Summit
+Hill,mountain ridge,Q740445,2,0,2,geological feature consisting of a chain of mountains that form a continuous elevated crest for some distance,ledge|mountain comb|crest|chine|ridge|comb|mountain crest,,Q2624046,Ridge
+Hill,cliff,Q107679,2,0,2,"significant vertical, or near vertical, rock exposure",bluff|mountain rim|precipice|cliff formation|rockface|rock face,,Q271669|Q1174791,Cliff
+Hill,UTC−06:00,Q5385,2,0,2,Identifier for a time offset from UTC of −6,Central Standard Time|Mountain Daylight Time,Q17272482,,UTC−06:00
+Hill,Ridge,Q37464825,2,0,2,family name,,Q101352,,Ridge (surname)
+Hill,Ridge,Q7332666,2,0,2,"village and former civil parish in Hertfordshire, England, UK","Ridge, Hertfordshire",Q532|Q1115575,,"Ridge, Hertfordshire"
+Hill,mid-ocean ridge,Q104698,2,0,2,basaltic underwater mountain system formed by plate tectonic spreading,mid-ocean ridges|ridge|ridges|oceanic ridge,Q11702690,Q11702690,Mid-ocean ridge
+Hill,Ridgefield,Q753930,2,0,2,"town in Fairfield County, Connecticut, United States","Ridgefield, Connecticut|Ridgefield, CT",Q15127012,,"Ridgefield, Connecticut"
+Hill,back of a mountain,Q820144,2,0,2,"from a mountain downsloping edge, frequent landform in lower mountain ranges",ridge|chine,,Q271669|Q35145263,
+Hill,Ridge,Q117322058,2,0,2,"American designer & manufacturer of slim, RFID-blocking metal wallets, watches, and rings.","Ridge Wallet LLC|The Ridge Wallet Company|The Ridge Company|The Ridge Wallet, LLC|The Ridge",Q4830453|Q6881511,,Ridge (company)
+Hill,Ridge,Q120979471,2,0,2,2016 video game,,Q7889,,
+Hill,ridge,Q800093,2,0,2,uppermost horizontal line of a gabled roof and other roof types,roof ridge,Q1969448,Q391414,Ridge (roof)
+Hill,Ridgewell,Q2740852,2,0,2,"village in Essex, England, UK","Ridgewell, Essex",Q532|Q1115575,,Ridgewell
+Hill,hilltop,Q113437382,2,0,2,summit of a hill,hill top|top of the hill|top of a hill,Q186131,Q107425,
+Hill,hilltop site,Q43397044,2,0,2,plateau on which sacrifices were performed,hilltop,,Q54050|Q19847629,
+Hill,Hilltop Airport,Q34966686,2,0,2,"airport in Allen County, Indiana, United States of America",Hilltop|58IN,Q1248784|Q62447,,
+Hill,Hilltop,Q2230839,2,0,2,"city in Minnesota, United States","Hilltop, Minnesota|Hilltop, MN",Q1093829,,"Hilltop, Minnesota"
+Hill,Hilltop,Q5897894,2,0,2,"CDP in Texas, United States","Hilltop, TX",Q498162,,"Hilltop, Starr County, Texas"
+Hill,Hilltop,Q982099,2,0,2,"census designated place in Frio County, Texas, United States","Hilltop, TX",Q498162,,"Hilltop, Texas"
+Hill,Hilltop,Q65045035,2,0,2,"suburb of Taupo, New Zealand",,Q188509,,"Hilltop, New Zealand"
+Hill,hilltop settlement,Q19285917,2,0,2,prehistoric settlement type,,,Q486972,
+Hill,Hilltop,Q101198422,2,0,2,"electoral ward in Morayur Grama panchayat, Kerala, India",Hilltop ward,Q1195098,,
+Hill,Hilltop,Q65430038,2,0,2,"locality in Christchurch City, Canterbury Region, New Zealand",,Q3257686,,
+Rankine,Rankine,Q21492436,3,0,1,family name,,Q101352,,Rankine
+Rankine,Rankine scale,Q207488,3,0,1,absolute temperature scale using Fahrenheit degrees,Rankine|rankine|ºR,Q2394680|Q332729,,Rankine scale
+Rankine,Rankine,Q66587198,3,0,1,given name,,Q202444,,
+Rankine,Rankine,Q2131062,3,0,1,lunar crater,,Q1348589,,Rankine (crater)
+Rankine,Rankine,Q105721387,3,0,1,GPU microarchitecture by Nvidia,,Q259864,,Rankine (microarchitecture)
+Rankine,Rankine cycle,Q215612,3,0,1,model that is used to predict the performance of steam turbine systems,,,Q75920,Rankine cycle
+Rankine,bag,Q1323314,3,0,1,"simple tool used to hold and carry things inside it, made of some flexible material such as paper, fabric, or leather; closed on all sides except the top and easy to handle",sack,,Q987767|Q11326220,Bag
+Rankine,B.C. Rankine,Q36518680,3,0,1,botanist,Rankine,Q5,,
+Rankine,Rankine,Q106874486,3,0,1,NASA Lunar topographic orthophotomap,LTO 81A1,Q4006,,
+Rankine,Rankine Dawson,Q140338593,3,0,1,Canadian physician (1863?–1913),,Q5,,
+Da Vinci,Leonardo da Vinci,Q762,4,0,1,Italian Renaissance polymath (1452−1519),,Q5,,Leonardo da Vinci
+Da Vinci,Da Vinci,Q901033,4,0,1,Norwegian musical group; hard rock band,,Q215380,,
+Da Vinci,da Vinci,Q106449498,4,0,1,family name,,Q66480858,,
+Da Vinci,Da Vinci,Q104269222,4,0,1,male given name,,Q12308941,,
+Da Vinci,Da Vinci,Q901055,4,0,1,television channel,Da Vinci Learning,Q1616075,,
+Da Vinci,Da Vinci,Q1922593,4,0,1,"restaurant in Maasbracht, the Netherlands",,Q11707,,Da Vinci (restaurant)
+Da Vinci,Da Vinci,Q17764323,4,0,1,1987 self-titled debut studio album by Da Vinci,,Q482994,,
+Da Vinci,Da Vinci,Q141007168,4,0,1,"restaurant in Gothenburg, Sweden",,Q11707,,
+Da Vinci,Da Vinci,Q111821293,4,0,1,tram stop in Brussels,,Q2175765,,
+Da Vinci,Da Vinci,Q1112452,4,0,1,lunar crater,,Q1348589,,Da Vinci (lunar crater)
+Da Vinci,Leonardo da Vinci,Q2530641,4,0,2,1911 Conte di Cavour-class battleship,,Q847109|Q182531,,Italian battleship Leonardo da Vinci
+Da Vinci,Leonardo da Vinci,Q55616764,4,0,2,1997 video game,,Q7889,,Leonardo da Vinci (video game)
+Da Vinci,Leonardo Da Vinci,Q2115987,4,0,2,1982 Sauro-class submarine,,Q2811,,Italian submarine Leonardo da Vinci (S 520)
+Da Vinci,Rosa 'Leonardo da Vinci',Q1819112,4,0,2,rose cultivar,Leonardo da Vinci,Q26817508,,
+Da Vinci,Leonardo Da Vinci,Q52798415,4,0,2,"high school in Piazza Armerina, Enna, Sicily, Italy",,Q9826,,
+Da Vinci,Leonardo da Vinci,Q64617327,4,0,2,edition published in 2017,,Q3331189,,
+Da Vinci,Leonardo da Vinci,Q1883635,4,0,2,board game,,Q131436,,
+Da Vinci,Leonardo da Vinci,Q71764264,4,0,2,exhibition at the Louvre in 2019-2020 and catalogue,,Q59861107|Q780605,,
+Da Vinci,Leonardo da Vinci,Q20441576,4,0,2,painting by Dane Chanase,,Q3305213,,
+Delambre,13962 Delambre,Q658259,5,0,1,asteroid,Delambre,Q3863,,13962 Delambre
+Delambre,Delambre,Q58207239,5,0,1,family name,,Q101352,,
+Delambre,Delambre,Q1183857,5,0,1,lunar impact crater,,Q55818|Q1348589,,Delambre (crater)
+Delambre,Rosa 'Delambre',Q83672872,5,0,1,rose cultivar,Delambre,Q26817508,,
+Delambre,Delambre,Q106812679,5,0,1,Apollo intermediate chart,AIC 78A,Q4006,,
+Delambre,3 Parnassiens,Q42296603,5,0,1,"former cinema in Paris, France",Delambre|Trois Panarssiens,Q41253,,
+Delambre,Delambre analogies,Q4491945,5,0,1,,Gauss's formulas,Q65943,Q976981,
+Delambre,Delambre Formation,Q64422576,5,0,1,"stratigraphic layer in WA, Australia",,Q736917,,
+Delambre,Delambre Island,Q21892781,5,0,1,"island in Western Australia, Australia",,Q23442,,
+Delambre,Delambre Reef,Q21895854,5,0,1,reef in Australia,,Q184358,,
+Delambre,Pierre-Simon Laplace,Q44481,5,0,2,French mathematician and astronomer (1749–1827),"Pierre Simon, Marquis de Laplace|Pierre Simon Marquis de Laplace|Pierre-Simon, Marquis de Laplace",Q5,,Pierre-Simon Laplace
+Delambre,"Pierre Simon Laplace, 1749–1827",Q54638936,5,0,2,"Hahn, Roger - 2005","Pierre Simon Laplace, 1749–1827: A Determined Scientist",Q7725634,,
+Delambre,"Pierre Simon Laplace, 1749–1827: A Determined Scientist",Q135405584,5,0,2,2005 hardcover edition (en),,Q3331189,,
+Delambre,Pierre Simon Laplace,Q19484103,5,0,2,,,Q47461344,,
+Delambre,Pierre Simon Laplace (1749–1827),Q60132731,5,0,2,scientific article published in Nature,,Q13442814,,
+Delambre,"Pierre Simon Laplace, 1749-1827: A Determined Scientist (review)",Q132762141,5,0,2,journal article from 'Technology and Culture' published in 2007,,Q13442814,,
+Delambre,Pierre-Simon Laplace et la franc-maçonnerie,Q140928190,5,0,2,"scholarly article published in Archives Internationales d'Histoire des Sciences, vol. 65, no. 174 (2015) (DOI: 10.1484/J.ARIHS.5.109834)",,Q13442814,,
+Delambre,Jean Le Rond d'Alembert,Q153232,5,0,2,"French mathematician, mechanician, physicist, philosopher and music theorist (1717-1783)",Jean Le Rond|Jean Le Rond D'Alembert|Jean Le Rond d' Alembert|D'Alembert|Jean-Baptiste Le Rond d'Alembert|Jean le Rond d'Alembert,Q5,,Jean Le Rond d'Alembert
+Delambre,Jean Le Rond d'Alembert,Q62057768,5,0,2,painting portrait of Quentin de la Tour,,Q12043905,,
+Delambre,Jean Le Rond d'Alembert,Q60291478,5,0,2,"""Histoire de Paris"" panel in Paris 3rd arrondissement",,Q3362192,,
+Delambre,Jean Le Rond d'Alembert [leronjean0002275],Q103880659,5,0,2,article in Electronic Enlightenment,,Q13433827,,
+Delambre,"Jean Le Rond d'Alembert (Physicien, Mathématicien et Philosophe), Membre de l'Académie Française et de celle des Sciences, de l'Académie de Berlin &c. : Né à Paris le 16 Novembre 1717. Mort à Paris le 29 Octobre 1785 BOYER 17",Q108795003,5,0,2,document from the Boyer collection,,Q11060274,,
+Delambre,Portrait of Jean Le Rond d'Alembert,Q97032395,5,0,2,painting by Catherine Lusurier,,Q3305213,,
+Delambre,Jean Le Rond d'Alembert philosophe. Veronique Le Ru,Q140822996,5,0,2,"scholarly article published in Isis, vol. 86, no. 3 (1995) (DOI: 10.1086/357276)",,Q13442814,,
+Delambre,"Jean Le Rond D'alembert, Preliminary Discourse to the Encyclopedia of Diderot, translated by Richard N. Schwab. Chicago: University of Chicago Press, 1995. Pp. 224. ISBN 0-226-13476-8. £8.75.",Q140847382,5,0,2,"scholarly article published in The British Journal for the History of Science, vol. 29, no. 3 (1996) (DOI: 10.1017/S0007087400034567)",,Q13442814,,
+Delambre,chemin Jean Le Rond d'Alembert,Q113413052,5,0,2,"way in Le Blanc-Mesnil, France",,Q5004679,,
+Ensino Superior,Ensino Superior,Q55759836,6,0,1,work by André Libault 2 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213864,6,0,1,work by André Libault 1 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213889,6,0,1,,,Q4006,,
+Ensino Superior,higher education,Q136822,6,0,1,"academic tertiary education, such as from colleges and universities",college education|university education|post-secondary education|tertiary education|third level education|academic learning|academic study,Q18189|Q268592|Q11862829,Q9166713|Q117460485,Higher education
+Ensino Superior,tertiary education,Q9166713,6,0,1,advanced level of education,post-secondary education|third level education|third stage education,Q18189,Q8434,Tertiary education
+Ensino Superior,further education,Q765192,6,0,1,"education beyond secondary schooling, typically used in the UK and Ireland",,,Q1319035,Further education
+Ensino Superior,Ensino Superior Empresarial (Portugal),Q136663564,6,0,1,"company in Porto, Portugal",,Q4830453,,
+Ensino Superior,Ensino superior e desenvolvimento regional: reconfigurando as relações entre as cidades e o campo,Q136043334,6,0,1,,,Q3331189,,
+Ensino Superior,universities and higher education in Brazil,Q7894473,6,0,1,,,Q74817647,Q136822,Universities and higher education in Brazil
+Ensino Superior,higher education in Portugal,Q5758379,6,0,1,,,Q64805944,,Higher education in Portugal
+Ensino Superior,University of Coimbra,Q368643,6,0,2,"public university in Coimbra, Portugal",UC|Universidade dos Estudos Gerais|uc.pt,Q875538|Q45400320|Q43229|Q178706,,University of Coimbra
+Ensino Superior,University of Porto,Q1422903,6,0,2,"public research university in Porto, Portugal",U.Porto|Universidade do Porto,Q62078547|Q45400320|Q27032435|Q43229,,University of Porto
+Ensino Superior,São Paulo State University,Q1817137,6,0,2,public university in São Paulo,Universidade Estadual Paulista Júlio de Mesquita Filho|UNESP|Universidade Estadual Paulista Julio de Mesquita Filho|Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)|Universidade Estadual Paulista,Q875538|Q23002037|Q45400320|Q38723,,São Paulo State University
+Ensino Superior,NOVA University Lisbon,Q1979891,6,0,2,university in Portugal,Universidade Nova de Lisboa|New University of Lisbon|UNL,Q3918|Q45400320|Q43229,,NOVA University of Lisbon
+Ensino Superior,Universidade Federal de São Carlos,Q5440482,6,0,2,"public research university in São Carlos, state of São Paulo, Brazil",UFSCar|Federal University of São Carlos|Federal University of São Carlos (UFSCAR),Q62078547|Q45400320|Q875538,,Federal University of São Carlos
+Ensino Superior,Federal University of Espírito Santo,Q10387830,6,0,2,"Brazilian public university in Vitória, state of Espírito Santo, Brazil",Ufes|Universidade Federal do Espírito Santo|UFES,Q3918|Q23002037|Q45400320,,Federal University of Espírito Santo
+Ensino Superior,University of São Paulo,Q835960,6,0,2,public state university in Brazil,Universidade de São Paulo|University of Sao Paulo|Universidade de Sao Paulo|Universidade de Sâo Paulo|Federal University of Sao Paulo,Q875538|Q31855|Q45400320|Q96888669|Q3918,,University of São Paulo
+Ensino Superior,Catholic University of Portugal,Q970751,6,0,2,Private Portuguese university with four campuses,Universidade Católica Portuguesa|ucp.pt,Q557206,,Catholic University of Portugal
+Ensino Superior,Universidade Lusófona,Q7894386,6,0,2,largest Portuguese private university,Universidade Lusófona de Humanidades e Tecnologias|Lusophone University of Humanities and Technologies,Q902104|Q210272,,Universidade Lusófona
+Ensino Superior,Federal University of Minas Gerais,Q132140,6,0,2,"public, federal university in Belo Horizonte, state of Minas Gerais, Brazil",UFMG|Universidade Federal de Minas Gerais,Q875538|Q45400320,,Federal University of Minas Gerais
+Ensino Superior,Faculdade de Ciências da Universidade de Lisboa,Q20055490,6,0,2,Faculty of the University of Lisbon dedicated to teaching and research in the exact and natural sciences,"FCUL|FC|Universidade de Lisboa Faculdade de Ciencias|Ciências ULisboa|Faculty of Sciences, University of Lisbon|Faculdade de Ciências, Universidade de Lisboa",Q11573537|Q210272|Q31855|Q45400320|Q43229,,
+Ensino Superior,Faculty of Engineering of the University of Porto,Q5428834,6,0,2,Portuguese faculty,"FEUP|Faculty of Engineering of University of Porto|Universidade do Porto, Faculdade de Engenharia (FEUP)|Faculdade de Engenharia da Universidade do Porto",Q137919580|Q45400320|Q43229,,Faculdade de Engenharia da Universidade do Porto
+Ensino Superior,faculty,Q180958,6,0,2,"a principal division of a higher education institution, usually by discipline but sometimes also by level; typically called faculty in Europe and school or college in North America",university faculty|college|school|university school|academic faculty|faculty|college faculty|school within a university|college within a university|school in a university|college in a university|faculty within a university|faculty in a university|school of a university|college of a university|faculty of a university,Q112872396,Q23005223|Q38723|Q334453|Q123349660,Academic division
+Ensino Superior,NOVA School of Science and Technology,Q13428010,6,0,2,faculty of NOVA University Lisbon,"FCT|FCT NOVA|Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa|FCT/UNL|NOVA FCT|Faculty of Science and Technology, NOVA University Lisbon|NOVA University Lisbon Faculty of Science and Technology|New University of Lisbon Faculty of Science and Technology|Faculty of Science and Technology, New University of Lisbon|NOVA School of Science & Technology",Q180958,,NOVA School of Science and Technology
+Ensino Superior,"Law School, University of São Paulo",Q2667184,6,0,2,,Faculdade de Direito da Universidade de São Paulo,Q1321960|Q180958|Q19844914,,"Law School, University of São Paulo"
+Ensino Superior,Faculdade de Medicina da Universidade de Lisboa,Q10279529,6,0,2,faculty of medicine at the University of Lisboa,,Q494230,,
+Ensino Superior,vocational university,Q17028020,6,0,2,"institution of higher education and sometimes research, which provides tertiary and sometimes quaternary education and grants professional academic degrees",UAS|universidade tecnológica aplicada|faculdade de estudos vocacionais superiores|universidade de ciências aplicadas|politécnico|University of Applied Science|University of Applied Sciences,Q130388971,Q38723|Q73768821,Vocational university
+Ensino Superior,Faculdade de Direito do Recife,Q5428830,6,0,2,law school,,Q3918|Q19844914,,Federal University of Pernambuco Recife School of Law
+Ensino Superior,Faculdade de Medicina da Universidade de Coimbra,Q10279530,6,0,2,"building or structure in Coimbra, Portugal",University of Coimbra – Faculty of Medicine|Faculty of Medicine – University of Coimbra|FMUC,Q494230|Q210272|Q19844914,,
+Ensino Superior,School of Arts and Humanities of the University of Lisbon,Q10279510,6,0,2,faculty in Lisbon,FLUL|Faculdade de Letras da Universidade de Lisboa,Q180958,,
+Ensino Superior,Instituto Nacional General José Miguel Carrera,Q2422271,6,0,2,"public school in Santiago, Santiago Metropolitan Region, Chile",,Q9826,,Instituto Nacional General José Miguel Carrera
+Ensino Superior,National Statistics Institute,Q845937,6,0,2,Spain's principal government institution in charge of statistics and census data,INE|National Institute of Statistics|Instituto Nacional de Estadística,Q480242|Q537929|Q36835995,,National Statistics Institute (Spain)
+Ensino Superior,Memórias do Instituto Oswaldo Cruz,Q15760238,6,0,2,scientific journal,"Instituto Oswaldo Cruz, Rio de Janeiro. Memorias|Mem. Inst. Oswaldo Cruz.|Mem. Inst. Oswaldo Cruz|An International Journal of Biological and Biomedical Research|Memórias do Instituto Oswaldo Cruz.",Q5633421|Q737498|Q773668|Q16024164,,Memórias do Instituto Oswaldo Cruz
+Ensino Superior,IES,Q3807410,6,0,2,institution which provides all or part of secondary education in Spain,high school in Spain|instituto de educacion secundaria|Spanish high school|secondary school in Spain|instituto de educación secundaria|Instituto de Educación Secundaria|I.E.S.|institute of secondary education|Spanish secondary school,,Q159334|Q1080794|Q108195555|Q23002037,
+Ensino Superior,Instituto Tecnológico Autónomo de México,Q1665236,6,0,2,private research university in Mexico,Instituto Tecnologico Autonomo de Mexico|Mexico Autonomous Institute of Technology|ITAM,Q902104|Q163740,,Instituto Tecnológico Autónomo de México
+Ensino Superior,Instituto de Astrofísica de Canarias,Q1583495,6,0,2,astrophysical research institute,Observatorio Astronomico de Canarias|Observatorio Astronómico de Canarias|IAC,Q31855|Q96312874,,Instituto de Astrofísica de Canarias
+Ensino Superior,National Institute for Agricultural and Food Research and Technology,Q5669458,6,0,2,organization,Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria|Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria,Q2881199|Q537929|Q45400320|Q96312874,,
+Ensino Superior,Instituto Cardenal Cisneros,Q24685998,6,0,2,Spanish school,,Q3807410,,
+Ensino Superior,Club Sport Emelec,Q1421829,6,0,2,sports club in Ecuador,Instituto de Cordoba|Instituto Atletico Central Cordoba|Instituto (Cba),Q13580678|Q476028,,Instituto Atlético Central Córdoba
+Ensino Superior,Instituto Español de Oceanografía,Q3395117,6,0,2,organization,Spanish Institute of Oceanography|IEO,Q31855|Q96312874,,
+Ensino Superior,Ensino Superior,Q55759836,7,0,1,work by André Libault 2 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213864,7,0,1,work by André Libault 1 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213889,7,0,1,,,Q4006,,
+Ensino Superior,higher education,Q136822,7,0,1,"academic tertiary education, such as from colleges and universities",college education|university education|post-secondary education|tertiary education|third level education|academic learning|academic study,Q18189|Q268592|Q11862829,Q9166713|Q117460485,Higher education
+Ensino Superior,tertiary education,Q9166713,7,0,1,advanced level of education,post-secondary education|third level education|third stage education,Q18189,Q8434,Tertiary education
+Ensino Superior,further education,Q765192,7,0,1,"education beyond secondary schooling, typically used in the UK and Ireland",,,Q1319035,Further education
+Ensino Superior,Ensino Superior Empresarial (Portugal),Q136663564,7,0,1,"company in Porto, Portugal",,Q4830453,,
+Ensino Superior,Ensino superior e desenvolvimento regional: reconfigurando as relações entre as cidades e o campo,Q136043334,7,0,1,,,Q3331189,,
+Ensino Superior,universities and higher education in Brazil,Q7894473,7,0,1,,,Q74817647,Q136822,Universities and higher education in Brazil
+Ensino Superior,higher education in Portugal,Q5758379,7,0,1,,,Q64805944,,Higher education in Portugal
+Ensino Superior,University of Coimbra,Q368643,7,0,2,"public university in Coimbra, Portugal",UC|Universidade dos Estudos Gerais|uc.pt,Q875538|Q45400320|Q43229|Q178706,,University of Coimbra
+Ensino Superior,University of Porto,Q1422903,7,0,2,"public research university in Porto, Portugal",U.Porto|Universidade do Porto,Q62078547|Q45400320|Q27032435|Q43229,,University of Porto
+Ensino Superior,São Paulo State University,Q1817137,7,0,2,public university in São Paulo,Universidade Estadual Paulista Júlio de Mesquita Filho|UNESP|Universidade Estadual Paulista Julio de Mesquita Filho|Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)|Universidade Estadual Paulista,Q875538|Q23002037|Q45400320|Q38723,,São Paulo State University
+Ensino Superior,NOVA University Lisbon,Q1979891,7,0,2,university in Portugal,Universidade Nova de Lisboa|New University of Lisbon|UNL,Q3918|Q45400320|Q43229,,NOVA University of Lisbon
+Ensino Superior,Universidade Federal de São Carlos,Q5440482,7,0,2,"public research university in São Carlos, state of São Paulo, Brazil",UFSCar|Federal University of São Carlos|Federal University of São Carlos (UFSCAR),Q62078547|Q45400320|Q875538,,Federal University of São Carlos
+Ensino Superior,Federal University of Espírito Santo,Q10387830,7,0,2,"Brazilian public university in Vitória, state of Espírito Santo, Brazil",Ufes|Universidade Federal do Espírito Santo|UFES,Q3918|Q23002037|Q45400320,,Federal University of Espírito Santo
+Ensino Superior,University of São Paulo,Q835960,7,0,2,public state university in Brazil,Universidade de São Paulo|University of Sao Paulo|Universidade de Sao Paulo|Universidade de Sâo Paulo|Federal University of Sao Paulo,Q875538|Q31855|Q45400320|Q96888669|Q3918,,University of São Paulo
+Ensino Superior,Catholic University of Portugal,Q970751,7,0,2,Private Portuguese university with four campuses,Universidade Católica Portuguesa|ucp.pt,Q557206,,Catholic University of Portugal
+Ensino Superior,Universidade Lusófona,Q7894386,7,0,2,largest Portuguese private university,Universidade Lusófona de Humanidades e Tecnologias|Lusophone University of Humanities and Technologies,Q902104|Q210272,,Universidade Lusófona
+Ensino Superior,Federal University of Minas Gerais,Q132140,7,0,2,"public, federal university in Belo Horizonte, state of Minas Gerais, Brazil",UFMG|Universidade Federal de Minas Gerais,Q875538|Q45400320,,Federal University of Minas Gerais
+Ensino Superior,Faculdade de Ciências da Universidade de Lisboa,Q20055490,7,0,2,Faculty of the University of Lisbon dedicated to teaching and research in the exact and natural sciences,"FCUL|FC|Universidade de Lisboa Faculdade de Ciencias|Ciências ULisboa|Faculty of Sciences, University of Lisbon|Faculdade de Ciências, Universidade de Lisboa",Q11573537|Q210272|Q31855|Q45400320|Q43229,,
+Ensino Superior,Faculty of Engineering of the University of Porto,Q5428834,7,0,2,Portuguese faculty,"FEUP|Faculty of Engineering of University of Porto|Universidade do Porto, Faculdade de Engenharia (FEUP)|Faculdade de Engenharia da Universidade do Porto",Q137919580|Q45400320|Q43229,,Faculdade de Engenharia da Universidade do Porto
+Ensino Superior,faculty,Q180958,7,0,2,"a principal division of a higher education institution, usually by discipline but sometimes also by level; typically called faculty in Europe and school or college in North America",university faculty|college|school|university school|academic faculty|faculty|college faculty|school within a university|college within a university|school in a university|college in a university|faculty within a university|faculty in a university|school of a university|college of a university|faculty of a university,Q112872396,Q23005223|Q38723|Q334453|Q123349660,Academic division
+Ensino Superior,NOVA School of Science and Technology,Q13428010,7,0,2,faculty of NOVA University Lisbon,"FCT|FCT NOVA|Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa|FCT/UNL|NOVA FCT|Faculty of Science and Technology, NOVA University Lisbon|NOVA University Lisbon Faculty of Science and Technology|New University of Lisbon Faculty of Science and Technology|Faculty of Science and Technology, New University of Lisbon|NOVA School of Science & Technology",Q180958,,NOVA School of Science and Technology
+Ensino Superior,"Law School, University of São Paulo",Q2667184,7,0,2,,Faculdade de Direito da Universidade de São Paulo,Q1321960|Q180958|Q19844914,,"Law School, University of São Paulo"
+Ensino Superior,Faculdade de Medicina da Universidade de Lisboa,Q10279529,7,0,2,faculty of medicine at the University of Lisboa,,Q494230,,
+Ensino Superior,vocational university,Q17028020,7,0,2,"institution of higher education and sometimes research, which provides tertiary and sometimes quaternary education and grants professional academic degrees",UAS|universidade tecnológica aplicada|faculdade de estudos vocacionais superiores|universidade de ciências aplicadas|politécnico|University of Applied Science|University of Applied Sciences,Q130388971,Q38723|Q73768821,Vocational university
+Ensino Superior,Faculdade de Direito do Recife,Q5428830,7,0,2,law school,,Q3918|Q19844914,,Federal University of Pernambuco Recife School of Law
+Ensino Superior,Faculdade de Medicina da Universidade de Coimbra,Q10279530,7,0,2,"building or structure in Coimbra, Portugal",University of Coimbra – Faculty of Medicine|Faculty of Medicine – University of Coimbra|FMUC,Q494230|Q210272|Q19844914,,
+Ensino Superior,School of Arts and Humanities of the University of Lisbon,Q10279510,7,0,2,faculty in Lisbon,FLUL|Faculdade de Letras da Universidade de Lisboa,Q180958,,
+Ensino Superior,Instituto Nacional General José Miguel Carrera,Q2422271,7,0,2,"public school in Santiago, Santiago Metropolitan Region, Chile",,Q9826,,Instituto Nacional General José Miguel Carrera
+Ensino Superior,National Statistics Institute,Q845937,7,0,2,Spain's principal government institution in charge of statistics and census data,INE|National Institute of Statistics|Instituto Nacional de Estadística,Q480242|Q537929|Q36835995,,National Statistics Institute (Spain)
+Ensino Superior,Memórias do Instituto Oswaldo Cruz,Q15760238,7,0,2,scientific journal,"Instituto Oswaldo Cruz, Rio de Janeiro. Memorias|Mem. Inst. Oswaldo Cruz.|Mem. Inst. Oswaldo Cruz|An International Journal of Biological and Biomedical Research|Memórias do Instituto Oswaldo Cruz.",Q5633421|Q737498|Q773668|Q16024164,,Memórias do Instituto Oswaldo Cruz
+Ensino Superior,IES,Q3807410,7,0,2,institution which provides all or part of secondary education in Spain,high school in Spain|instituto de educacion secundaria|Spanish high school|secondary school in Spain|instituto de educación secundaria|Instituto de Educación Secundaria|I.E.S.|institute of secondary education|Spanish secondary school,,Q159334|Q1080794|Q108195555|Q23002037,
+Ensino Superior,Instituto Tecnológico Autónomo de México,Q1665236,7,0,2,private research university in Mexico,Instituto Tecnologico Autonomo de Mexico|Mexico Autonomous Institute of Technology|ITAM,Q902104|Q163740,,Instituto Tecnológico Autónomo de México
+Ensino Superior,Instituto de Astrofísica de Canarias,Q1583495,7,0,2,astrophysical research institute,Observatorio Astronomico de Canarias|Observatorio Astronómico de Canarias|IAC,Q31855|Q96312874,,Instituto de Astrofísica de Canarias
+Ensino Superior,National Institute for Agricultural and Food Research and Technology,Q5669458,7,0,2,organization,Instituto Nacional de Investigacion y Tecnologia Agraria y Alimentaria|Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria,Q2881199|Q537929|Q45400320|Q96312874,,
+Ensino Superior,Instituto Cardenal Cisneros,Q24685998,7,0,2,Spanish school,,Q3807410,,
+Ensino Superior,Club Sport Emelec,Q1421829,7,0,2,sports club in Ecuador,Instituto de Cordoba|Instituto Atletico Central Cordoba|Instituto (Cba),Q13580678|Q476028,,Instituto Atlético Central Córdoba
+Ensino Superior,Instituto Español de Oceanografía,Q3395117,7,0,2,organization,Spanish Institute of Oceanography|IEO,Q31855|Q96312874,,
+Ensino Superior,Ensino Superior,Q55759836,8,0,1,work by André Libault 2 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213864,8,0,1,work by André Libault 1 of 2,,Q4006,,
+Ensino Superior,Ensino Superior,Q55213889,8,0,1,,,Q4006,,
+Ensino Superior,higher education,Q136822,8,0,1,"academic tertiary education, such as from colleges and universities",college education|university education|post-secondary education|tertiary education|third level education|academic learning|academic study,Q18189|Q268592|Q11862829,Q9166713|Q117460485,Higher education
+Ensino Superior,tertiary education,Q9166713,8,0,1,advanced level of education,post-secondary education|third level education|third stage education,Q18189,Q8434,Tertiary education
+Ensino Superior,further education,Q765192,8,0,1,"education beyond secondary schooling, typically used in the UK and Ireland",,,Q1319035,Further education
+Ensino Superior,Ensino Superior Empresarial (Portugal),Q136663564,8,0,1,"company in Porto, Portugal",,Q4830453,,
+Ensino Superior,Ensino superior e desenvolvimento regional: reconfigurando as relações entre as cidades e o campo,Q136043334,8,0,1,,,Q3331189,,
+Ensino Superior,universities and higher education in Brazil,Q7894473,8,0,1,,,Q74817647,Q136822,Universities and higher education in Brazil
+Ensino Superior,higher education in Portugal,Q5758379,8,0,1,,,Q64805944,,Higher education in Portugal
+Ensino Superior,University of Coimbra,Q368643,8,0,2,"public university in Coimbra, Portugal",UC|Universidade dos Estudos Gerais|uc.pt,Q875538|Q45400320|Q43229|Q178706,,University of Coimbra
+Ensino Superior,University of Porto,Q1422903,8,0,2,"public research university in Porto, Portugal",U.Porto|Universidade do Porto,Q62078547|Q45400320|Q27032435|Q43229,,University of Porto
+Ensino Superior,São Paulo State University,Q1817137,8,0,2,public university in São Paulo,Universidade Estadual Paulista Júlio de Mesquita Filho|UNESP|Universidade Estadual Paulista Julio de Mesquita Filho|Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)|Universidade Estadual Paulista,Q875538|Q23002037|Q45400320|Q38723,,São Paulo State University
+Ensino Superior,NOVA University Lisbon,Q1979891,8,0,2,university in Portugal,Universidade Nova de Lisboa|New University of Lisbon|UNL,Q3918|Q45400320|Q43229,,NOVA University of Lisbon
+Ensino Superior,Universidade Federal de São Carlos,Q5440482,8,0,2,"public research university in São Carlos, state of São Paulo, Brazil",UFSCar|Federal University of São Carlos|Federal University of São Carlos (UFSCAR),Q62078547|Q45400320|Q875538,,Federal University of São Carlos
+Ensino Superior,Federal University of Espírito Santo,Q10387830,8,0,2,"Brazilian public university in Vitória, state of Espírito Santo, Brazil",Ufes|Universidade Federal do Espírito Santo|UFES,Q3918|Q23002037|Q45400320,,Federal University of Espírito Santo
+Ensino Superior,University of São Paulo,Q835960,8,0,2,public state university in Brazil,Universidade de São Paulo|University of Sao Paulo|Universidade de Sao Paulo|Universidade de Sâo Paulo|Federal University of Sao Paulo,Q875538|Q31855|Q45400320|Q96888669|Q3918,,University of São Paulo
+Ensino Superior,Catholic University of Portugal,Q970751,8,0,2,Private Portuguese university with four campuses,Universidade Católica Portuguesa|ucp.pt,Q557206,,Catholic University of Portugal
+Ensino Superior,Universidade Lusófona,Q7894386,8,0,2,largest Portuguese private university,Universidade Lusófona de Humanidades e Tecnologias|Lusophone University of Humanities and Technologies,Q902104|Q210272,,Universidade Lusófona
+Ensino Superior,Federal University of Minas Gerais,Q132140,8,0,2,"public, federal university in Belo Horizonte, state of Minas Gerais, Brazil",UFMG|Universidade Federal de Minas Gerais,Q875538|Q45400320,,Federal University of Minas Gerais
+Ensino Superior,Faculdade de Ciências da Universidade de Lisboa,Q20055490,8,0,2,Faculty of the University of Lisbon dedicated to teaching and research in the exact and natural sciences,"FCUL|FC|Universidade de Lisboa Faculdade de Ciencias|Ciências ULisboa|Faculty of Sciences, University of Lisbon|Faculdade de Ciências, Universidade de Lisboa",Q11573537|Q210272|Q31855|Q45400320|Q43229,,
+Ensino Superior,Faculty of Engineering of the University of Porto,Q5428834,8,0,2,Portuguese faculty,"FEUP|Faculty of Engineering of University of Porto|Universidade do Porto, Faculdade de Engenharia (FEUP)|Faculdade de Engenharia da Universidade do Porto",Q137919580|Q45400320|Q43229,,Faculdade de Engenharia da Universidade do Porto
+Ensino Superior,faculty,Q180958,8,0,2,"a principal division of a higher education institution, usually by discipline but sometimes also by level; typically called faculty in Europe and school or college in North America",university faculty|college|school|university school|academic faculty|faculty|college faculty|school within a university|college within a university|school in a university|college in a university|faculty within a university|faculty in a university|school of a university|college of a university|faculty of a university,Q112872396,Q23005223|Q38723|Q334453|Q123349660,Academic division
+Ensino Superior,NOVA School of Science and Technology,Q13428010,8,0,2,faculty of NOVA University Lisbon,"FCT|FCT NOVA|Faculdade de Ciências e Tecnologia da Universidade NOVA de Lisboa|FCT/UNL|NOVA FCT|Faculty of Science and Technology, NOVA University Lisbon|NOVA University Lisbon Faculty of Science and Technology|New University of Lisbon Faculty of Science and Technology|Faculty of Science and Technology, New University of Lisbon|NOVA School of Science & Technology",Q180958,,NOVA School of Science and Technology
+Ensino Superior,"Law School, University of São Paulo",Q2667184,8,0,2,,Faculdade de Direito da Universidade de São Paulo,Q1321960|Q180958|Q19844914,,"Law School, University of São Paulo"
+Ensino Superior,Faculdade de Medicina da Universidade de Lisboa,Q10279529,8,0,2,faculty of medicine at the University of Lisboa,,Q494230,,
+Ensino Superior,vocational university,Q17028020,8,0,2,"institution of higher education and sometimes research, which provides tertiary and sometimes quaternary education and grants professional academic degrees",UAS|universidade tecnológica aplicada|faculdade de estudos vocacionais superiores|universidade de ciências aplicadas|politécnico|University of Applied Science|University of Applied Sciences,Q130388971,Q38723|Q73768821,Vocational university
+Ensino Superior,Faculdade de Direito do Recife,Q5428830,8,0,2,law school,,Q3918|Q19844914,,Federal University of Pernambuco Recife School of Law
+Ensino Superior,Faculdade de Medicina da Universidade de Coimbra,Q10279530,8,0,2,"building or structure in Coimbra, Portugal",University of Coimbra – Faculty of Medicine|Faculty of Medicine – University of Coimbra|FMUC,Q494230|Q210272|Q19844914,,
+Ensino Superior,School of Arts and Humanities of the University of Lisbon,Q10279510,8,0,2,faculty in Lisbon,FLUL|Faculdade de Letras da Universidade de Lisboa,Q180958,,
+Ensino Superior,Instituto de Ensino Superior da Grande Florianópolis,Q56840686,8,0,2,,,Q38723|Q23002042|Q23002054,,
+Ensino Superior,Instituto de Ensino Superior do Sul do Maranhão,Q56841422,8,0,2,,,Q38723|Q23002042,,
+Ensino Superior,Instituto de Ensino Superior de Fortaleza,Q56840652,8,0,2,,,Q38723|Q23002042|Q23002054,,
+Ensino Superior,Instituto de Ensino Superior de Rondônia - Faculdades Associadas de Ariquemes,Q52662211,8,0,2,Academic publisher based in Brazil,,Q45400320,,
+Ensino Superior,Instituto de Ensino Superior de Teresina,Q56840921,8,0,2,,,Q38723|Q23002042|Q23002054,,
+Ensino Superior,Instituto de Ensino Superior Franciscano Iesftec,Q137417735,8,0,2,"rural school in Paço do Lumiar, Maranhão, Brazil",,Q19855165|Q136386339,,
+Ensino Superior,Instituto de Ensino Superior de Rondônia,Q56840842,8,0,2,,,Q38723|Q23002042|Q23002054,,
+Ensino Superior,Instituto de Ensino Superior Presidente Tancredo de Almeida Neves,Q56840875,8,0,2,,,Q38723|Q23002042,,
+Ensino Superior,Instituto de Ensino Superior Materdei,Q56841096,8,0,2,,,Q38723|Q23002042,,
+Ensino Superior,Instituto de Ensino Superior do Acre,Q56840665,8,0,2,,,Q38723|Q23002042,,
+Raspletin,Raspletin,Q10843513,9,0,1,lunar crater,Raspletin (crater),Q1348589,,Raspletin (crater)
+Raspletin,Raspletin,Q106874487,9,0,1,NASA Lunar topographic orthophotomap,LTO 103A4,Q4006,,
+Raspletin,Raspletina street,Q4473773,9,0,1,"street in Shchukino District, Russia","Raspletina street, Moscow",Q79007,,
+Raspletin,"Raspletina street, Moscow 21, Moscow",Q132132303,9,0,1,building in Moscow,,Q13402009,,
+Raspletin,Raspletin,Q106679211,9,0,1,Wikimedia disambiguation page,,Q4167410,,
+Pytheas,Pytheas,Q61480491,10,0,1,subgenus of sponges,Crella (Pytheas),Q16521,,
+Pytheas,Pytheas,Q189971,10,0,1,ancient Greek explorer,Pytheas of Massilia,Q5,,Pytheas
+Pytheas,Pytheas,Q1335700,10,0,1,lunar impact crater,,Q55818,,Pytheas (crater)
+Pytheas,Pytheas of Athens,Q11941751,10,0,1,4th c. orator,Pytheas,Q5,,Pytheas (Athenian)
+Pytheas,22283 Pytheas,Q5332006,10,0,1,asteroid,Pytheas,Q3863,,22283 Pytheas
+Pytheas,Pytheas,Q4363945,10,0,1,Wikimedia human name disambiguation page,,Q22808320,,
+Pytheas,Pytheas,Q32858357,10,0,1,father of Apelles,,Q5,,
+Pytheas,Pytheas,Q11941749,10,0,1,1st century BC Greek smith,,Q5,,
+Pytheas,Pytheas 10 (Pauly-Wissowa),Q34482887,10,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Pytheas,Pytheas 8 (Pauly-Wissowa),Q110485489,10,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Joy,Joy,Q4539731,11,0,1,unisex given name,,Q3409032,,Joy (given name)
+Joy,Joy,Q16871211,11,0,1,family name,Joy (surname),Q101352,,Joy (surname)
+Joy,Joy,Q17484113,11,0,1,"South Korean singer and actress, born 1996",Park Soo-young|Park Sooyoung|Park Soo-yeong|Park Sooyeong|Sooyeong Park,Q5,,Joy (singer)
+Joy,Joyce,Q1089094,11,0,1,unisex given name,,Q3409032,,
+Joy,Joy Phumaphi,Q102136357,11,0,1,Executive Secretary,Joy,Q5,,
+Joy,Joyce,Q18515516,11,0,1,family name,,Q101352,,
+Joy,joy,Q935526,11,0,1,feeling of happiness,,Q16748867|Q1526770,Q60539479,Joy
+Joy,Joyce Carol Oates,Q217557,11,0,1,American author (born 1938),,Q5,,Joyce Carol Oates
+Joy,Jane Seymour,Q123849,11,0,1,British actress,Joyce Penelope Wilhelmina Frankenberg|Jane Seymour OBE,Q5,,Jane Seymour (actress)
+Joy,Jōyō-shi,Q817276,11,0,1,"city in Kyoto Prefecture, Japan",Joyo City|Joyo-shi|Joyo|Jōyō,Q494721,,"Jōyō, Kyoto"
+Joy,happiness,Q8,11,0,2,positive emotional state,happy|gladness|glad,Q331769|Q60539479,Q16748867,Happiness
+Joy,Happiness,Q3783260,11,0,2,1990 studio album by The Beloved,,Q482994,,Happiness (The Beloved album)
+Joy,Happiness,Q16841776,11,0,2,album by Matthew Ryan,,Q482994,,Happiness (Matthew Ryan album)
+Joy,Happiness,Q106311391,11,0,2,1977 studio album by Margo Smith,,Q482994,,Happiness (Margo Smith album)
+Joy,euphoria,Q203994,11,0,2,"mental and emotional condition in which a person experiences intense feelings of well-being, elation, happiness and excitement",happiness|pleasure|contentment,Q60539479|Q331769|Q2996394,Q813912,Euphoria
+Joy,Happiness,Q105073750,11,0,2,2020 song by Taylor Swift,,Q7366,,Happiness (Taylor Swift song)
+Joy,Happiness,Q134489398,11,0,2,"2024 original song written by Paul David Hewson, Adam Clayton, Larry Mullen and Dave Evans, and performed by U2",,Q105543609,,
+Joy,Happiness,Q125921292,11,0,2,2021 studio album by Eva Queen,,Q482994,,
+Joy,Happiness,Q134505159,11,0,2,vocal track by U2; 2004 studio recording,,Q55850593,,
+Joy,Happiness,Q140141399,11,0,2,monograph published by The MIT Press (2008),,Q193495,,
+Descartes,Descartes,Q320299,12,0,1,"commune in Indre-et-Loire, France",La Haye en Touraine|La Haye-Descartes|Haye (La) (devenue Descartes),Q484170,,"Descartes, Indre-et-Loire"
+Descartes,Descartes,Q37009391,12,0,1,family name,,Q101352,,
+Descartes,René Descartes,Q9191,12,0,1,"French philosopher, mathematician, and scientist (1596–1650)",,Q5,,René Descartes
+Descartes,Descartes,Q18760843,12,0,1,1894 Descartes-class protected cruiser,,Q830335,,French cruiser Descartes
+Descartes,3587 Descartes,Q770237,12,0,1,asteroid,Descartes,Q3863,,3587 Descartes
+Descartes,Descartes,Q1200523,12,0,1,lunar impact crater,,Q55818|Q1348589,,Descartes (crater)
+Descartes,Descartes-class protected cruiser,Q2975836,12,0,1,1894 class of French protected cruisers,Descartes,Q559026,Q830335,Descartes-class cruiser
+Descartes,Descartes,Q5803867,12,0,1,1998 studio album by Silvio Rodríguez,,Q482994,,
+Descartes,descartes,Q107383922,12,0,1,Python library,,Q29642950,,
+Descartes,Descartes,Q34801578,12,0,1,human settlement in France,,Q486972,,
+Descartes,René Descartes,Q20635301,12,0,2,entry in Catholic Encyclopedia (1913),,Q19389637|Q13433827,,
+Descartes,René Descartes,Q110527133,12,0,2,"public artwork by Alfred-Emilien comte de Nieuwerkerke in Den Haag, Netherlands",,Q860861,,
+Descartes,René Descartes,Q3426088,12,0,2,French cable layer,Rene Descartes|IMO 9248100,Q348741,,
+Descartes,René Descartes,Q18147349,12,0,2,sculpture by Gabriel Garraud,,Q179700,,
+Descartes,René Descartes,Q65387870,12,0,2,fictional character appearing in the movie « La reine-garçon »,,Q15773347,,
+Descartes,René Descartes,Q75120771,12,0,2,print in the National Gallery of Art (NGA 78578),,Q11060274,,
+Descartes,René Descartes,Q74877327,12,0,2,print in the National Gallery of Art (NGA 70215),,Q11060274,,
+Descartes,René Descartes,Q77016026,12,0,2,print in the National Gallery of Art (NGA 204944),,Q11060274,,
+Descartes,René-Descartes French high school in Kinshasa,Q3269076,12,0,2,school in Democratic Republic of the Congo,,Q2511322,,Lycée Français René Descartes Kinshasa
+Cleomedes,Cleomedes,Q31278,13,0,1,ancient Greek astronomer,Kleomedes,Q5,,Cleomedes
+Cleomedes,Cleomedes,Q1100489,13,0,1,lunar impact crater,,Q55818|Q1348589,,Cleomedes (crater)
+Cleomedes,Cleomedes,Q11914093,13,0,1,"Athenian, member of the Thirty Tyrants",,Q5,,
+Cleomedes,Cleomedes,Q111659781,13,0,1,"Athenian military, son of Lycomedes",,Q5,,
+Cleomedes,Cleomedes,Q103849991,13,0,1,encyclopedia article,,Q13433827,,
+Cleomedes,Cleomedes,Q118406130,13,0,1,male given name,Kleomedes|Κλεομήδης,Q12308941,,
+Cleomedes,Cleomedes,Q106806541,13,0,1,Lunar astronautical chart,LAC 44,Q4006|Q25106976,,
+Cleomedes,Cleomedes of Astypalia,Q1569690,13,0,1,winner in ancient Olympics,Kleomedes of Astypalaia,Q5,,Kleomedes of Astypalaia
+Cleomedes,Cleomedes of Samos,Q91121872,13,0,1,"fought with Lysander at Aegospotami, he was represented in a votive group in Delphi",Kleomedes of Samos,Q5,,
+Cleomedes,Cleomedes' Lectures on Astronomy: A Translation of The Heavens,Q136106053,13,0,1,2004 book,,Q3331189,,
+Chaplygin,Chaplygin,Q197691,14,0,1,"human settlement in Chaplyginsky District, Lipetsk Oblast, Russia",,Q7930989,,"Chaplygin, Lipetsk Oblast"
+Chaplygin,4032 Chaplygin,Q152562,14,0,1,asteroid,Chaplygin,Q3863,,4032 Chaplygin
+Chaplygin,Chaplygin,Q2252382,14,0,1,lunar crater,,Q55818|Q1348589,,Chaplygin (crater)
+Chaplygin,Chaplygin,Q100964911,14,0,1,surname (Чаплыгин),,Q101352,,
+Chaplygin,Nikolay Nikolaevich Chaplygin,Q62600675,14,0,1,Soviet Russian actor (1904-1953),Chaplygin,Q5,,
+Chaplygin,Chaplyginsky District,Q1651493,14,0,1,human settlement in Russia,,Q2198484,,Chaplyginsky District
+Chaplygin,Chaplygin,Q106874322,14,0,1,NASA Lunar topographic orthophotomap,LTO 85A4,Q4006,,
+Chaplygin,Chaplygin Siberian Scientific Research Institute of Aviation,Q4418297,14,0,1,Russian research institute,Chaplygin Siberian Scientific Research Institute Of Aviation (SIBNIA),Q1389604|Q31855,,Siberian Aviation Research Institute
+Chaplygin,Chaplygina,Q19676849,14,0,1,"human settlement in Kursk Oblast, Russia",,Q5084|Q486972,,"Chaplygina, Kursk Oblast"
+Chaplygin,Chaplygin's Theorem,Q16705492,14,0,1,differential comparison theorem,,Q65943,,Chaplygin's Theorem and Method for Solving ODE
+Chaplygin,Sergey Chaplygin,Q983316,14,0,2,Russian mathematician (1869–1942),Sergey Alexeyevich Chaplygin,Q5,,Sergey Chaplygin
+Chaplygin,Sergey Chaplygin,Q91198309,14,0,2,researcher (ORCID 0000-0002-9027-6670),,Q5,,
+Chaplygin,Sergey Chaplygin. On the Occasion of his 150th Birthday,Q123001142,14,0,2,scientific article published in 2019,,Q13442814,,
+Waterman,Waterman,Q16948030,15,0,1,family name,,Q101352,,Waterman (surname)
+Waterman,Aquarius,Q10576,15,0,1,zodiac constellation straddling the celestial equator,Aqr,Q8928|Q4193029,,Aquarius (constellation)
+Waterman,Waterman,Q2438897,15,0,1,"human settlement in DeKalb County, Illinois, United States of America","Waterman, Illinois",Q110071217,,"Waterman, Illinois"
+Waterman,Waterman,Q998257,15,0,1,French manufacturing company of fountain pens and inks,Waterman S.A.|Waterman pens|L.E. Waterman Company|Waterman Pen Company,Q4830453,,Waterman Pen Company
+Waterman,1822 Waterman,Q144299,15,0,1,asteroid,Waterman,Q3863,,1822 Waterman
+Waterman,Waterman,Q96958911,15,0,1,male given name,Waterman (given name),Q12308941,,
+Waterman,waterman,Q30309605,15,0,1,male water spirit,,,Q1936706,
+Waterman,waterist,Q7974325,15,0,1,person who participates in multiple water sports,waterman|waterwoman,,Q2066131,
+Waterman,Waterman,Q4018540,15,0,1,lunar crater,,Q1348589,,Waterman (crater)
+Waterman,Mount Waterman,Q21560408,15,0,1,mountain in Antarctica,Waterman,Q8502,,Mount Waterman (Antarctica)
+Waterman,"Waterman, John",Q95918422,15,0,2,"entry in Alumni Oxonienses: the Members of the University of Oxford, 1715-1886",,Q19389637,,
+Waterman,"Waterman, John (NBD)",Q24024089,15,0,2,entry in the Naval Biographical Dictionary,,Q19389637,,
+Waterman,John Thomas Waterman,Q123052052,15,0,2,,,Q5,,
+Guericke,Guericke,Q1553234,16,0,1,lunar impact crater,,Q55818,,Guericke (crater)
+Guericke,11537 Guericke,Q1097948,16,0,1,asteroid,Guericke,Q3863,,11537 Guericke
+Guericke,Guerickestraße,Q98683312,16,0,1,"street in the city district of Groß-Buchholz in Hanover, Germany",,Q79007,,
+Guericke,Guericke,Q106874383,16,0,1,NASA Lunar topographic orthophotomap,LTO 76C2,Q4006,,
+Guericke,Guerickestraße,Q99730409,16,0,1,"street in Chemnitz, Germany",,Q79007,,
+Guericke,Guerickestraße,Q93489910,16,0,1,"street in Berlin-Charlottenburg, Germany",,Q79007,,
+Guericke,Guerickestraße,Q97253969,16,0,1,"street in Dresden, Germany",,Q79007,,
+Guericke,"Guericke, Heinrich Ernst Ferdinand",Q21255359,16,0,1,encyclopedic article,"Guericke, Heinrich Ernst Ferdinand (ADB)",Q19389637,,
+Guericke,"Guericke, Otto von",Q27580318,16,0,1,entry in the Allgemeine Deutsche Biographie,"Guericke, Otto von (ADB)",Q19389637,,
+Guericke,Guerickestraße,Q93879646,16,0,1,"tram stop in Dresden, Germany",Guerickestrasse,Q2175765,,
+Katchalsky,Katchalsky,Q6375305,17,0,1,lunar crater,,Q1348589,,Katchalsky (crater)
+Katchalsky,Katchalsky,Q106874421,17,0,1,NASA Lunar topographic orthophotomap,LTO 65D2,Q4006,,
+Katchalsky,Katchalsky,Q74195879,17,0,1,"journal article; published in Nature, 1972-10",,Q13442814,,
+Katchalsky,Katchalsky killed in tel aviv,Q81005515,17,0,1,scientific article published on 01 June 1972,,Q13442814,,
+Katchalsky,Katchalsky Memorial Symposium,Q74210570,17,0,1,"journal article; published in Nature, 1972-06",,Q13442814,,
+Katchalsky,Katchalsky Memorial Fund,Q71913589,17,0,1,journal article; published in Nature on 1972-6,,Q13442814,,
+Katchalsky,Katchalsky Memorial,Q74197238,17,0,1,"journal article; published in Nature, 1972-07",,Q13442814,,
+Katchalsky,Katchalsky,Q124655209,17,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hommel,Hommel,Q36942612,18,0,1,family name,,Q101352|Q333021|Q98775491,,Hommel
+Hommel,Hommel,Q1626135,18,0,1,lunar impact crater,,Q55818,,Hommel (crater)
+Hommel,Hommels,Q83496495,18,0,1,family name,,Q101352,,Hommels
+Hommel,Hommelvik IL,Q5890954,18,0,1,"sports club in Malvik, Trøndelag, Norway",Hommelvik Idrettslag,Q13580678|Q847017,,Hommelvik IL
+Hommel,Hommelsheim,Q83358611,18,0,1,family name,,Q101352,,
+Hommel,Humulus lupulus,Q104212,18,0,1,species of plant,hop|common hop,Q16521,Q11992872|Q190903|Q9323487,Humulus lupulus
+Hommel,Hommelbier,Q2296868,18,0,1,,,Q15075508,,
+Hommel,Bombus,Q25407,18,0,1,genus of insects,bumblebee|bumble bee|bumble-bee|humble-bee,Q16521,Q1390,Bumblebee
+Hommel,Hommel,Q123807617,18,0,1,instrument in the collections of the Swedish Museum of Performing Arts (N63098),,Q2094724,,
+Hommel,Hommel,Q123807615,18,0,1,instrument in the collections of the Swedish Museum of Performing Arts (N59919),,Q2094724,,
+Hommel,Hommelia,Q31549251,18,0,2,,,Q54050,,
+Hommel,Hommelia,Q31083805,18,0,2,hill in Norway,,Q54050,,
+Hadley,Hadley,Q16276127,19,0,1,family name,,Q101352,,Hadley (name)
+Hadley,Hadley,Q23895124,19,0,1,"area and former ward in Barnet, Greater London, England","Hadley, London",Q2755753|Q1115575|Q589282,,"Hadley, London"
+Hadley,Hadley,Q5637957,19,0,1,"suburb of Telford, Shropshire, United Kingdom",,Q188509|Q1115575,,"Hadley, Shropshire"
+Hadley,Hadley,Q2302147,19,0,1,"town in Hampshire County, Massachusetts, United States","Hadley, MA|Hadley, Massachusetts",Q15127012,,"Hadley, Massachusetts"
+Hadley,Hadley,Q27897330,19,0,1,unisex given name,,Q3409032,,
+Hadley,Hadley Wickham,Q16251925,19,0,1,New Zealand statistician (born 1979),,Q5,,Hadley Wickham
+Hadley,John Hadley,Q445128,19,0,1,English mathematician and astronomer; (1682-1744),Hadley,Q5,,John Hadley
+Hadley,Hadley Robinson,Q105702550,19,0,1,American actress,,Q5,,Hadley Robinson
+Hadley,Hadley,Q3708474,19,0,1,town in New York,"Hadley, New York|Hadley, NY",Q15127012|Q106071004,,"Hadley, New York"
+Hadley,Hadley and Leegomery,Q20886684,19,0,1,"civil parish in Telford and Wrekin, Shropshire, England","Hadley & Leegomery (civil parish), Shropshire|Hadley & Leegomery, Shropshire|Hadley & Leegomery",Q1115575,,Hadley and Leegomery
+Hadley,Hadley Park,Q49497037,19,0,2,"park in Davidson County, Tennessee, United States of America",,Q22698,,
+Hadley,Hadley Park,Q49497034,19,0,2,"park in Miami-Dade County, Florida, United States of America",,Q22698,,
+Hadley,Hadley Park,Q49591851,19,0,2,,,Q18389975,,
+Hadley,Hadley Park,Q96380217,19,0,2,heritage-listed park,,Q11546861,,Hadley Park
+Hadley,Hadley Park Branch Library,Q69861079,19,0,2,"public library in Nashville, Tennessee, USA",,Q11396180|Q28564,,
+Hadley,Hadley Park Windmill,Q26502523,19,0,2,"windmill in Hadley & Leegomery, Telford and Wrekin, Shropshire, England, UK",,Q38720,,
+Hadley,Hadley Park Lock And Adjoining Bridge  Turnip Lock,Q26568945,19,0,2,"bridge in Hadley & Leegomery, Telford and Wrekin, Shropshire, England, UK",,Q105731|Q12280,,
+Hadley,Hadley Park House,Q26655726,19,0,2,"hotel in Hadley & Leegomery, Shropshire, England, UK",Hadley Park House Hotel,Q3947|Q27686,,
+Dorsum Zirkel,Dorsum Zirkel,Q624517,20,0,1,wrinkle ridge,,Q667575,,Dorsum Zirkel
+Dorsum Zirkel,Dorsum Zirkel,Q106757215,20,0,1,special scale lunar map,,Q4006,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Cebrenia Quadrangle of Mars,Q63802966,21,0,1,,,Q4006,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Cebrenia Quadrangle of Mars,Q63803799,21,0,1,,,Q13442814,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,shaded-relief map,Q107569113,21,0,2,map indicating the shape of terrain using graded shadow effects,,Q41362222,Q2940514,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Caloris Planitia area of Mercury,Q63803042,21,0,2,planetary map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1172,Q107569113|Q124711407,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Lunar far side : L 5M 0/180 R,Q63803180,21,0,2,lunar map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1218-B,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Victoria Quadrangle of Mercury (Aurora Albedo Province),Q63802800,21,0,2,planetary map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1057,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the lunar polar regions,Q63803494,21,0,2,lunar map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1326-A,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Mare Orientale area of the Moon,Q63802849,21,0,2,lunar map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1089,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Discovery Quadrangle of Mercury (Solitudo Hermae Trismegisti Albedo Province),Q63802751,21,0,2,planetary map,Miscellaneous investigations series (Geological Survey (U.S.)) map I-1030,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Beethoven Quadrangle of Mercury (Solitudo Lycaonis Albedo province),Q63802747,21,0,2,planetary map,Miscellaneous investigations series (Geological Survey (U.S.)) map I- 1029,Q4006|Q2940514,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Aeolis Quadrangle of Mars,Q63802707,21,0,2,scholarly article published 1976,,Q4006,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Shaded relief map of the Eridania Quadrangle of Mars,Q63803036,21,0,2,,,Q4006,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Cebrenia quadrangle,Q3055697,21,0,2,,,Q7268308,,Cebrenia quadrangle
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q111,21,0,2,"fourth planet from the Solar System, tellurian and orange-red due to iron oxide",Planet Mars|Red Planet,Q3504248|Q844911,,Mars
+Shaded relief map of the Cebrenia Quadrangle of Mars,Marseille,Q23482,21,0,2,French commune,"Massaliotes|Marsailles|Marsielles|Marsielle|City of Marseille|Marsaille|Marseille, France|Marseille City",Q484170,,Marseille
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q16876471,21,0,2,family name,Mars (last name)|Mars (surname),Q101352,,Mars (surname)
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q1116491,21,0,2,"commune in Loire, France",,Q484170,,"Mars, Loire"
+Shaded relief map of the Cebrenia Quadrangle of Mars,marsh,Q30198,21,0,2,wetland dominated by herbaceous plants,brook|mire|peatland|fen|peatbog,,Q170321,Marsh
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q137393,21,0,2,"commune in Ardèche, France",Mont-Désert|Saint-Romain-le-Désert (devenue Mars en 1909),Q484170,,"Mars, Ardèche"
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q19997428,21,0,2,male given name,Mars (first name)|Mars (given name),Q12308941,,
+Shaded relief map of the Cebrenia Quadrangle of Mars,Mars,Q31348,21,0,2,"commune in Gard, France",,Q21869758|Q484170,,"Mars, Gard"
+Shaded relief map of the Cebrenia Quadrangle of Mars,"Mars, Incorporated",Q695087,21,0,2,American global food company and manufacturer,"Mars, Inc.|Mars|Mars Candy, INC.|Mars Candy Co|Mars Company",Q1252971|Q762548,,Mars Inc.
+Shaded relief map of the Cebrenia Quadrangle of Mars,malaria,Q12156,21,0,2,mosquito-borne infectious disease,Plasmodium infection|induced malaria|ague|marsh fever,Q112193867,Q353172|Q2083837|Q506680,Malaria
+Kapteyn,Kapteyn,Q37519832,22,0,1,family name,,Q101352,,
+Kapteyn,Kapteyn,Q260072,22,0,1,lunar impact crater,,Q55818,,Kapteyn (crater)
+Kapteyn,Kapteyn c,Q17185361,22,0,1,extrasolar planet,HD 33793c|TIC 200385493c,Q44559|Q523|Q18611609,,Kapteyn c
+Kapteyn,Kapteyn's Star,Q1048535,22,0,1,subdwarf star in the constellation Pictor,HD 33793|GJ 191,Q6220|Q2247863|Q6243|Q67206691|Q2168098|Q523|Q67206785,,Kapteyn's Star
+Kapteyn,Kapteyn,Q106874419,22,0,1,NASA Lunar topographic orthophotomap,LTO 81D1,Q4006,,
+Kapteyn,818 Kapteynia,Q157252,22,0,1,main-belt asteroid,(818) Kapteynia|Kapteynia,Q3863,,818 Kapteynia
+Kapteyn,Kapteyn b,Q17128167,22,0,1,extrasolar planet,HD 33793b,Q18611609|Q523,,Kapteyn b
+Kapteyn,Kapteyn Astronomical Institute,Q2474457,22,0,1,astronomical institute at the University of Groningen,,Q31855,,Kapteyn Astronomical Institute
+Kapteyn,Kapteynbrug,Q21384926,22,0,1,bridge in Netherlands,,Q12280,,
+Kapteyn,Kapteyn series,Q105555735,22,0,1,mathematical concept,,Q24034552,,Kapteyn series
+Kapteyn,Kapteyn's Star,Q56158423,22,0,2,,,Q13442814,,
+Zahia,Zahia,Q70119493,23,0,1,female given name,,Q11879590,,Zahia (given name)
+Zahia,Zahia Dahmani,Q140562,23,0,1,French athletics competitor,,Q5,,Zahia Dahmani
+Zahia,Zahia,Q3574602,23,0,1,town and commune in Côte d'Ivoire,,Q486972|Q2679157,,Zahia
+Zahia,Zahia Djouadi,Q114367007,23,0,1,researcher,,Q5,,
+Zahia,Zahia Dehar,Q3574603,23,0,1,French-Algerian fashion and lingerie designer,,Q5,,Zahia Dehar
+Zahia,Zahia,Q107446844,23,0,1,family name,,Q101352,,
+Zahia,Zahia Benarous,Q104176638,23,0,1,Algeria Secretary of State of Culture,,Q5,,Zahia Benarous
+Zahia,Zahia Bacha,Q106232232,23,0,1,Algerian judoka,,Q5,,
+Zahia,Zahia Drici,Q102183654,23,0,1,Ph.D. Florida Institute of Technology 1994,,Q5,,
+Zahia,Zahia,Q106757263,23,0,1,special scale lunar map,,Q4006,,
+Zahia,Zaha Hadid,Q47780,23,0,2,"Iraqi British architect, designer and painter (1950–2016)",Zaha Mohammad Hadid|Dame Zaha Mohammad Hadid|Zaha M. Hadid|Zaha Hadid CBE|Dame Zaha Hadid,Q5,,Zaha Hadid
+Zahia,Zaha Hadid Architects,Q8064602,23,0,2,British architecture and design firm,Zaha Hadid Design,Q4387609|Q43229,,ZHA Architects
+Zahia,Zaha Hadid lecture,Q132132847,23,0,2,public lecture by Zaha Hadid at Harvard Graduate School of Design in 2013,,Q603773|Q1656682,,
+Zahia,Spittelau Viaducts Housing Project,Q140498,23,0,2,architectural structure,Zaha-Hadid-Haus|Apartment complex on the Spittelauer Lände|URBI - Urban Island Spittelau,Q1348006|Q1497375|Q1497364,,
+Zahia,The Zaha Hadid Foundation,Q113330833,23,0,2,"charitable organisation, institution and museum",ZHF|Zaha Hadid Foundation Museum and Research Center|ZH Foundation,Q708676|Q33506|Q7315155,,
+Zahia,Zaha Hadid Kenzō Tange Lecture,Q132132975,23,0,2,public lecture by Zaha Hadid at Harvard Graduate School of Design in 1994,,Q603773|Q1656682,,
+Zahia,Zaha Hadid’s Center for Contemporary Art and the perils of new museum architecture,Q127219347,23,0,2,scholarly article,,Q13442814,,
+Zahia,Zaha Hadid's Arum installation,Q128172825,23,0,2,scholarly article,,Q13442814,,
+Zahia,list of works by Zaha Hadid,Q6645727,23,0,2,Wikimedia list article,,Q13406463,,List of works by Zaha Hadid
+Zahia,Zaha Hadid postaví centrální stanici metra v Rijádu,Q24715238,23,0,2,Wikinews article,,Q17633526,,

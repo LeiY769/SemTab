@@ -1,0 +1,84 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Journal of Landscape Ecology,Journal of Landscape Ecology,Q96328419,0,0,1,,,Q5633421,,
+Journal of Landscape Ecology,Journal of Landscape Ecology,Q50769368,0,0,1,"Academic journal published by De Gruyter Open, covering the subjects: Science: Biology (General): Ecology",,Q737498|Q773668,,
+Provenance,Provenance,Q87749947,1,0,1,original US edition,,Q3331189,,
+Provenance,Provenance,Q87749957,1,0,1,original UK hardcover edition,,Q3331189,,
+Provenance,provenance,Q1773840,1,0,1,"chronology of the ownership, custody or location of a historical object or economic good",,,Q130788|Q788790|Q1318295,Provenance
+Provenance,Provenance,Q140044108,1,0,1,episode of S.W.A.T. (s5 e12),,Q21191270,,
+Provenance,Provenance,Q465512,1,0,1,episode of Supernatural,,Q21191270,,
+Provenance,Provenance,Q7252328,1,0,1,episode of Numbers (S3 E3),,Q21191270,,Provenance (Numbers)
+Provenance,Provenance,Q43336631,1,0,1,2017 novel by Ann Leckie,,Q7725634,,Provenance (novel)
+Provenance,Provenance,Q78162341,1,0,1,episode of NCIS: Los Angeles (S11 E5),,Q21191270,,
+Provenance,Provenance,Q7252330,1,0,1,episode of The X-Files (S9 E9),,Q21191270,,Provenance (The X-Files)
+Provenance,Provenance,Q51236385,1,0,1,episode of Person of Interest (S3 E14),,Q21191270,,Provenance (Person of Interest)
+Provenance,provenance research,Q1678416,1,0,2,academic discipline,provenance studies,Q11862829,Q42240,
+Provenance,provenance researcher,Q106902486,1,0,2,historian or art historian that specializes in provenance research,,Q28640,,
+Provenance,Provenance Research into the Collection of Chinese Art at the Museum Rietberg: Switzerland and the Transnational History of the Art Market and Art Collections,Q104154680,1,0,2,article,,Q191067|Q386724,,
+Provenance,Provenance Research At The Lentos Kunstmuseum Linz Interim Report October 2019,Q109323034,1,0,2,official report on provenance in an art collection,PROVENANCE RESEARCH AT THE LENTOS KUNSTMUSEUM LINZ Interim Report October 2019,Q49848|Q10870555,,
+Provenance,Provenance Research : Museum der Bildenden Künste Leipzig (Leipzig Museum of Fine Arts),Q110063885,1,0,2,news article,Museum der Bildenden Künste Leipzig (Leipzig Museum of Fine Arts),Q191067|Q5707594,,
+Provenance,Provenance Research Exchange Program,Q104020078,1,0,2,German/American Exchange on Nazi-Era Art Provenance Research in Museum,"PREP|GERMAN/AMERICAN PROVENANCE RESEARCH EXCHANGE PROGRAM (PREP) for Museum Professionals, 2017-2019",Q22222786|Q1298668|Q43229,,
+Provenance,Provenance Research Day,Q111083534,1,0,2,Annual event on the second Wednesday of April,,Q15275719,,
+Provenance,Provenance Research and Restitution – Libraries Working Group,Q76888353,1,0,2,Association of German and Austrian Librarians,,Q628235,,
+Provenance,A Just and Fair Solution Reached by Bayerische Staatsgemäldesammlungen and Professor Curt Glaser Heirs,Q117705567,1,0,2,news article/press release,Provenance Research A Just and Fair Solution Reached by Bayerische Staatsgemäldesammlungen and Professor Curt Glaser Heirs,Q5707594,,
+Provenance,"Provenance Research by the Emil Bührle Collection, Zurich, 2002–2021",Q139589412,1,0,2,report by Lukas Gloor,,Q10870555,,
+The Americas,Americas,Q828,2,0,1,North America and South America taken together as a single continent or landmass,"America|North, Central, and South America|the New World|the Americas|American continent|North and South America",Q55833|Q2418896|Q5107,,Americas
+The Americas,The Americas,Q15749777,2,0,1,academic journal,The Americas: A Quarterly Review of Latin American History,Q5633421|Q737498,,The Americas (journal)
+The Americas,history of the Americas,Q690256,2,0,1,"aspect of history, focusing on the America's",American history|the Americas history|Americas history|Hisory of the New World|New World history,Q63313685,Q200325,History of the Americas
+The Americas,prostitution in the Americas,Q19936158,2,0,1,overview about prostitution in the Americas,prostitution of the Americas|the Americas' prostitution,Q7251007,,Prostitution in the Americas
+The Americas,The Americas,Q133089922,2,0,1,American documentary series,,Q5398426,,The Americas (TV series)
+The Americas,music of the Americas,Q3328669,2,0,1,term that groups music from the continents of North America and South America,music in the Americas|music of the American continent|new world music|North & South American music|the Americas music|western hemisphere music|American music,Q75054287|Q188451,Q3328755,Music of the Americas
+The Americas,COVID-19 pandemic in the Americas,Q87406428,2,0,1,,2020 coronavirus outbreak in Americas|2020 Americas COVID-19 pandemic|the Americas COVID-19 pandemic|2020 COVID pandemic in the Americas,Q3241045,,
+The Americas,The Americas in the Spanish World Order,Q139749197,2,0,1,,,Q193495,,
+The Americas,economy of the Americas,Q16246235,2,0,1,economy of the continent,economy (the Americas)|economy (Americas)|the Americas' economy|Americas' economy,Q100773131,Q473750,Economy of the Americas
+The Americas,geography of the Americas,Q3098051,2,0,1,geography of North and South America,geography of America|the Americas geography|Americas geography,Q46865913,,
+The Americas,North America,Q49,2,0,2,continent in the Americas,NA|Turtle Island|North and Central America|N. America|North American continent|North america|North-America|North America (continent)|North America (region)|North America (Americas)|North American Continent|N america|003 (UN M.49 code)|N America|Amérique du Nord|N Am|North Am|NoAm|NOAM|North Amer,Q5107|Q855697|Q2418896,,North America
+The Americas,Eastern Time Zone,Q941023,2,0,2,time zone observing UTC−05:00 during standard time and UTC−04:00 during daylight saving time,EDT|North American Eastern Time Zone|Eastern Standard Time|DC time|D.C. time|NY time|New York Time,Q125359378,,Eastern Time Zone
+The Americas,Central Time Zone,Q2086913,2,0,2,time zone observing UTC−06:00 during standard time and UTC−05:00 during daylight saving time,North American Central Time Zone|Central Standard Time|Central Daylight Time|Central Standard Time Zone|CDT|CST6CDT,Q125359378,,Central Time Zone
+The Americas,North American P-51 Mustang,Q192075,2,0,2,US fighter aircraft,P-51|Mustang fighter|Mustang|North American Mustang|F-51 Mustang|Mustang aircraft|North American Mustang aircraft|Pursuit Design 51|P-51 Mustang,Q15056993,Q18491097|Q385642|Q69129709|Q135214932,North American P-51 Mustang
+The Americas,North America,Q139808347,2,0,2,,,Q1980247,,
+The Americas,Northern America and Mexico,Q19464773,2,0,2,"Canada, USA, Mexico, and Greenland",North America,Q855697,,
+The Americas,blastomycosis,Q627368,2,0,2,"primary systemic mycosis that results in a systemic fungal infection, and has material basis in Blastomyces dermatitidis","Blastomyces Dermatitidis Infection|Blastomycosis (& [Chicago disease] or [Gilchrists disease] or [North American])|Blastomycosis NOS (disorder)|Blastomycosis, unspecified (disorder)|Blastomycotic infection|Chicago disease|Chicago disease (disorder)|Gilchrist's disease (disorder)|Infection by Blastomyces dermatitidis (disorder)|North American blastomycosis|Gilchrist's disease|Infection by Blastomyces dermatitidis",Q112193867,Q18553244|Q18123741,Blastomycosis
+The Americas,North American F-86 Sabre,Q153826,2,0,2,1947 fighter aircraft family by North American Aviation,Sabre|F-86 Sabre,Q15056993,Q69129709|Q782885|Q10331907|Q135214932,North American F-86 Sabre
+The Americas,North American B-25 Mitchell,Q502117,2,0,2,1940 bomber aircraft family,B25|Mitchell bomber|North American Mitchell|Mitchell aircraft,Q15056993,Q18518465|Q70180928,North American B-25 Mitchell
+The Americas,North American T-28 Trojan,Q206084,2,0,2,1949 military trainer aircraft family by North American Aviation,North American T-28|North American NA-159|NA159|NA-159|T28|North American Trojan|Trojan|T-28 Trojan|T-28,Q15056993,Q18536143|Q104884174,North American T-28 Trojan
+The Americas,South America,Q18,2,0,2,continent located mainly in the southwestern quadrant of the Earth,S. America|South American continent|S America,Q5107|Q855697|Q15042037|Q2418896,,South America
+The Americas,Saimiri sciureus,Q476930,2,0,2,species of mammal,South American squirrel monkey|Common squirrel monkey,Q16521,,Guianan squirrel monkey
+The Americas,paracoccidioidomycosis,Q247096,2,0,2,"primary systemic mycosis that results in systemic fungal infection located in mucosa, located in lymph nodes, located in bone, located in skin or located in lungs, has material basis in Paracoccidioides brasiliensis","Mucocutaneous-lymphangitic paracoccidioidomycosis|Mucocutaneous-lymphangitic paracoccidioidomycosis (disorder)|Paracoccidioidomycosis (disorder)|Paracoccidioidomycosis NOS (disorder)|Paracoccidioidomycosis, unspecified (disorder)|paracoccidioidal mycosis|Paracoccidioidomycosis|PCM|Lobo disease|South american blastomycosis|Paracoccidioidal granuloma|Lutz-Splendore-Almeida disease|Paracoccidiomycosis",Q112193867,Q18553244|Q4941552|Q18558262|Q3392853|Q876887|Q464067|Q18123741,Paracoccidioidomycosis
+The Americas,Crotalus durissus,Q854864,2,0,2,species of reptile,South American rattlesnake|tropical rattlesnake,Q16521,,Crotalus durissus
+The Americas,South America,Q99290067,2,0,2,continent of South America as depicted in Star Trek,Star Trek South America,Q17199338|Q15796005,,
+The Americas,South American Journal of Herpetology,Q21385774,2,0,2,journal,ISSN 1808-9798,Q5633421,,
+The Americas,South America,Q20201199,2,0,2,painting by John Wesley,,Q3305213,,
+The Americas,South American Coati,Q148462,2,0,2,species of mammal,Nasua nasua,Q16521,,South American coati
+The Americas,Indigenous peoples of South America,Q1479328,2,0,2,pre-Columbian inhabitants of South America,"Indigenous people of South America|Amerindians of South America|South American Indians|Indigenous South Americans|Indians, South American",Q41710|Q851990|Q103817,Q36747|Q10374742,Indigenous peoples of South America
+The Americas,South America,Q23639894,2,0,2,"artwork by Aimé Millet in Paris, France",,Q179700,,
+Spring,spring,Q124714,3,0,1,terrestrial water source,water spring|waterspring|freshwater spring|natural spring|natural springs|spring (water source)|spring (hydrology),Q12046615,Q35145263|Q10713454|Q15324|Q134301386|Q1049799,Spring (hydrology)
+Spring,Spring,Q37562822,3,0,1,family name,Spring (family name),Q101352,,Spring (surname)
+Spring,Spring Framework,Q720314,3,0,1,application framework for Java platform,Spring|springframework|ac|ApplicationContext,Q1330336|Q271680|Q21127166|Q341,,Spring Framework
+Spring,Springer Science+Business Media,Q176916,3,0,1,global publishing company,Springer|Kluwer Academic Publishers|Springer SBM|Springer-Verlag Berlin Heidelberg|Verlag von Julius Springer|Springer-Verlag,Q2085381|Q1320047|Q96888669,,Springer Science+Business Media
+Spring,spring,Q1312,3,0,1,"one of the Earth's four temperate seasons, occurring between winter and summer; one of the 8 Sámi seasons",springtime|springtime season|spring season,Q15275719,Q24384,Spring (season)
+Spring,Șpring,Q16425367,3,0,1,"commune in Alba County, Romania",Gespreng|Spring,Q659103,,Șpring
+Spring,SciGraph,Q65509402,3,0,1,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+Spring,Spring,Q83627886,3,0,1,ship built in 2005,IMO 9315446,Q11446,,
+Spring,Șpring,Q397068,3,0,1,"village in Alba County, Romania",Spring,Q532|Q34841063,,
+Spring,Lecture Notes in Computer Science,Q924044,3,0,1,book series by Springer publishing,LNCS|0302-9743|Springer Series-ID 558|Springer Series 558|Springer Lecture Notes in Computer Science,Q277759|Q5633421|Q27785883|Q5953270,,Lecture Notes in Computer Science
+Spring,Chinese New Year,Q131772,3,0,2,traditional Chinese celebration of the first day of the lunar calendar,Spring Festival|Lunar New Year|CNY,Q11483816|Q1445650,,Chinese New Year
+Spring,spring festival,Q1472127,3,0,2,festival celebrated just before or during the spring season,,,Q200538|Q132241,
+Spring,SPRING FESTIVAL,Q100367876,3,0,2,painting by Nandalal Bose,,Q3305213,,
+Spring,SPRING FESTIVAL,Q100367599,3,0,2,,,Q3305213,,
+Spring,SPRING FESTIVAL,Q100367611,3,0,2,,,Q3305213,,
+Spring,The Spring Festival,Q16689746,3,0,2,1991 Chinese drama film directed by Huang Jianzhong,Spring Festival,Q11424,,The Spring Festival
+Spring,CMG Spring Festival Gala,Q2748306,3,0,2,yearly televised gala event run by China Central Television,Spring Festival Gala|Chunwan|Chun Wan|CCTV New Year's Gala,Q5398426,,CMG Spring Festival Gala
+Spring,Spring Matsuri,Q11513787,3,0,2,,Spring festivals in Japan|Haru Matsuri|Spring Festival,,Q15974353|Q1472127,
+Spring,Chunyun,Q3275022,3,0,2,period of travel in China with extremely high traffic load around the Chinese New Year,Spring Festival travel season,,Q7590,Chunyun
+Spring,A sacrifice in Roman ruins,Q12901899,3,0,2,painting by Gerard Hoet,Great sacrificial celebration in honour of the god Bacchus|Sacrificial feast among antique ruins|Spring festival in antiquity,Q3305213,,
+Spring,Spring season birth is associated with higher emergency department admission for acute allergic reactions,Q40299483,3,0,2,scientific article published on 12 November 2015,,Q13442814,,
+Spring,Spring Season in Western Nepal Himalaya is not yet Warming: A 400-Year Temperature Reconstruction Based on Tree-Ring Widths of Himalayan Hemlock (Tsuga dumosa),Q112767313,3,0,2,scientific article published on 24 January 2020,,Q13442814,,
+Spring,Spring season forever: the progress in rheumatology in recent 10 years in China,Q46210358,3,0,2,scientific article,,Q13442814,,
+Spring,Spring-season climate variability in the central Canadian Arctic Islands,Q109904773,3,0,2,scientific article,,Q13442814,,
+Spring,Spring-season climate variability in the central Canadian Arctic Islands,Q114038305,3,0,2,scientific article published in 1995,,Q13442814,,
+Spring,Spring-season changes during the Late Pleniglacial and Bølling/Allerød interstadial,Q60569659,3,0,2,scholarly article,,Q13442814,,
+Bulletin of the National Research Centre,Bulletin of the National Research Centre,Q15757736,4,0,1,journal,Bulletin of the National Research Center,Q5633421|Q737498|Q773668,,
+Plant Physiology and Biochemistry,Plant Physiology and Biochemistry,Q15761865,5,0,1,journal,,Q5633421|Q737498|Q73364223,,
+Plant Physiology and Biochemistry,Plant Physiology and Biochemistry,Q96328874,5,0,1,,Plant physiology & biochemistry,Q5633421,,
+Plant Physiology and Biochemistry,Plant Physiology and Biochemistry,Q93610318,5,0,1,scientific article published in 1965,,Q13442814,,
+Plant Physiology and Biochemistry,Plant Physiology and Biochemistry at Newcastle: Prof. S. L. Ranson,Q60087128,5,0,1,scientific article published in Nature,,Q13442814,,

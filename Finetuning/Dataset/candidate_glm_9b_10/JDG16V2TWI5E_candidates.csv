@@ -1,0 +1,66 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kernhem,Kernhem,Q2407479,0,0,1,"estate in Ede, Netherlands",,Q12292478,,
+Kernhem,Kernhem,Q2194695,0,0,1,"neighborhood in Ede, Netherlands",,Q123705,,
+Kernhem,Kernhemseweg,Q19297865,0,0,1,"street in Ede, the Netherlands",,Q79007,,
+Kernhem,"Kernhemseweg 6, Ede",Q17366497,0,0,1,"farmhouse in Ede, Netherlands",,Q489357,,
+Kernhem,Kernhem Castle near Ede,Q116894275,0,0,1,painting by Isaac Ouwater,,Q3305213,,
+Kernhem,kernhem,Q2518010,0,0,1,,,,Q3774485|Q17315183,
+Kernhem,Kernhem,Q13742994,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Warande,Warande,Q1910802,1,0,1,"park in Helmond, the Netherlands",Warandepark,Q12292478|Q22698|Q10594991,,
+Warande,Warande,Q19645351,1,0,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Warande,Warande,Q3121718,1,0,1,"neighborhood in Lelystad, Netherlands",,Q123705,,
+Warande,Warande,Q19645372,1,0,1,"street in Rotterdam, the Netherlands",,Q79007,,
+Warande,Warande,Q19645373,1,0,1,"street in Schiedam, the Netherlands",,Q79007,,
+Warande,Amandete,Q26474685,1,0,1,"village in Konawe Regency, Southeast Sulawesi, Indonesia",Warandete,Q26211545,,
+Warande,Warande,Q19645352,1,0,1,"street in Beverwijk, the Netherlands",,Q79007,,
+Warande,Warande,Q2384115,1,0,1,"natural landscape in Achel, Netherlands",,Q10594991,,
+Warande,Warande,Q2152833,1,0,1,general name for hunting grounds,,,Q14524493,
+Warande,Warande,Q18088292,1,0,1,"neighborhood in Helmond, Netherlands",,Q123705,,
+Warande,Warande Park,Q126372717,1,0,2,"park in Tervuren, Belgium",,Q22698,,
+Woodhouselee,Woodhouselee,Q55442370,2,0,1,"locality in Goulburn Mulwaree, New South Wales, Australia","Woodhouselee, New South Wales|Woodhouselee, New South Wales, Australia",Q3257686,,"Woodhouselee, New South Wales"
+Woodhouselee,Woodhouselee,Q30279317,2,0,1,estate in Midlothian in the parish of Glencorse,,Q12292478,,Woodhouselee
+Woodhouselee,Woodhouselee Hill,Q20797495,2,0,1,"hill in Midlothian, Scotland, UK",,Q54050,,
+Woodhouselee,Woodhouselee railway station,Q8032760,2,0,1,"railway station in New South Wales, Australia",,Q55488,,Woodhouselee railway station
+Woodhouselee,Woodhouselee Hill,Q31096065,2,0,1,"hillfort in Midlothian, Scotland, UK",,Q28045079,,
+Woodhouselee,Woodhouselee Tileworks,Q124514524,2,0,1,tileworks in Scotland,,Q198632,,
+Woodhouselee,WOODHOUSELEE (GNDWRINGA),Q123657612,2,0,1,"weather station in New South Wales, Australia from 1945 to 1974",070136,Q190107,,
+Woodhouselee,"Archway, Woodhouselee Policies",Q17827773,2,0,1,"architectural structure in Midlothian, Scotland, UK","Woodhouselee Policies, Archway",Q180174,,
+Woodhouselee,"Woodhouselee, Camp 2, German Working Camp",Q114076953,2,0,1,"prisoner-of-war camp in Midlothian, Scotland, UK",,Q1070290,,
+Woodhouselee,"Stables, Woodhouselee",Q17827768,2,0,1,"architectural structure in Midlothian, Scotland, UK","Woodhouselee, Stables",Q214252,,
+Kearney Park,Kearney Park,Q2837006,3,0,1,"unincorporated community in Madison County, Mississippi","Kearney Park, MS",Q17343829,,"Kearney Park, Mississippi"
+Kearney Park,Kearney Park,Q49509629,3,0,1,"park in Fresno County, California, United States of America",,Q22698|Q12292478,,Kearney Park (Fresno)
+Kearney Park,Kearney Park,Q49594426,3,0,1,,,Q18389975,,
+Kearney Park,Kearney Park Lake Dam,Q34854274,3,0,1,"dam in Madison County, Mississippi, United States of America",,Q12323,,
+Kearney Park,Kearney Park Renaissance Faire,Q137212647,3,0,1,"annual renaissance faire in Kearney Park in Fresno, CA",,Q673514,,
+Serednikovo,Serednikovo,Q4417517,4,0,1,"human settlement in Solnechnogorsky District, Moscow Oblast, Russia",,Q5084|Q486972,,
+Serednikovo,Serednikovo,Q14621429,4,0,1,"human settlement in Dmitrovskoe Rural Settlement, Shatursky District, Moscow Oblast, Russia",,Q532,,
+Serednikovo,Serednikovo,Q2970685,4,0,1,,,Q12292478|Q2319498|Q64627814,,
+Kairuru,Kairuru,Q31703472,5,0,1,"hill in Canterbury Region, New Zealand",,Q54050,,
+Kairuru,Kairuru,Q31460024,5,0,1,"hill in Waikato Region, New Zealand",,Q54050,,
+Kairuru,Kairuru,Q124505346,5,0,1,"estate on Tākaka Hill, New Zealand",Kairuru Estate,Q12292478,,
+Hempstead House,Hempstead House,Q120165,6,0,1,"Estate in Sands Point, New York, United States",Gould-Guggenheim Estate|Sands Point Preserve,Q12292478,,Hempstead House
+Hempstead House,Hempstead House,Q26295190,6,0,1,"house in Hailsham, Wealden, East Sussex, England, UK",,Q3947,,
+Tusculum,Tusculum,Q16324834,7,0,1,"building in Lyngby-Taarbæk Municipality, Denmark",,Q41176,,"Tusculum, Lyngby-Taarbæk Municipality"
+Tusculum,Tusculum,Q754314,7,0,1,"ancient Latin and Roman city and archeological site in the Alban Hills of Latium, Italy",,Q109607|Q839954|Q2202509,,Tusculum
+Tusculum,Tusculum,Q1389122,7,0,1,"city in Tennessee, United States","Tusculum TN|Tusculum, Tennessee|Tusculum, TN",Q1093829,,"Tusculum, Tennessee"
+Tusculum,TUSCULUM,Q60876880,7,0,1,student house in Dresden,,Q41176|Q18635222|Q264542,,
+Tusculum,Tusculum,Q20011474,7,0,1,"country estate in Princeton, New Jersey, United States",,Q12292478,,"Tusculum (Princeton, New Jersey)"
+Tusculum,Tusculum University,Q4564294,7,0,1,"private university in Tusculum, Tennessee",Tusculum College,Q189004|Q23002054,,Tusculum University
+Tusculum,Tusculum,Q25203240,7,0,1,"historic plantation house located near Arcola, Warren County, North Carolina",,Q1655611,,"Tusculum (Arcola, North Carolina)"
+Tusculum,Tusculum,Q19574740,7,0,1,"street in Herveld, the Netherlands",,Q79007,,
+Tusculum,Tusculum portrait,Q21055402,7,0,1,"Roman bust, only extant portrait of Julius Caesar made during his lifetime",Tusculum bust,Q860861|Q241045,,Tusculum portrait
+Tusculum,Tusculum Pioneers football,Q28444584,7,0,1,football team representing Tusculum College,,Q17156793|Q18558301,,Tusculum Pioneers football
+Tusculum,Tusculum Pioneers,Q104586247,7,0,2,collegiate sports program,Tusculum College athletics,Q2367225,,Tusculum Pioneers
+Tusculum,Tusculum College Historic District,Q49572621,7,0,2,"park in Greene County, Tennessee, United States of America",,Q15243209,,
+Zegenwerp,Zegenwerp,Q1844086,8,0,1,"estate in Sint-Michielsgestel, the Netherlands",,Q12292478|Q1497375|Q10594991,,
+Zegenwerp,Zegenwerp,Q18952702,8,0,1,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Waterland,Waterland,Q37560489,9,0,1,family name,,Q101352,,
+Waterland,Waterland,Q9971,9,0,1,municipality in the Netherlands,,Q2039348,,Waterland
+Waterland,Waterland,Q2376445,9,0,1,country estate in Velsen,,Q12292478|Q1497375,,
+Waterland,Waterland,Q3566682,9,0,1,"region in North Holland, the Netherlands",,Q82794|Q1414991,,
+Waterland,Waterland,Q596844,9,0,1,1992 film by Stephen Gyllenhaal,,Q11424,,Waterland (film)
+Waterland,Waterland,Q3795005,9,0,1,1983 novel by Graham Swift,,Q7725634,,Waterland (novel)
+Waterland,Waterland,Q83631204,9,0,1,tugboat built in 2014,IMO 9548902,Q11446,,
+Waterland,Waterland,Q17203031,9,0,1,"building in Velsen, Netherlands",Waterland main building,Q41176,,
+Waterland,Waterland,Q59134059,9,0,1,plantation in Surinam,,Q188913,,
+Waterland,ENI 02101125,Q108209096,9,0,1,,Waterland|Clemens Joseph|Adriana|Avontuur|Cornelis,Q18916020,,

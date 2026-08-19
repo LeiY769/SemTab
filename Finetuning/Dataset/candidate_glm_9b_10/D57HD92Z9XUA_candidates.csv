@@ -1,0 +1,72 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Nordfjorden,Nordfjord,Q1518524,0,0,1,106 km fjord in Norway,Nordfjorden|Nord Fjord,Q45776,,Nordfjorden (Vestland)
+Nordfjorden,Nordfjorden,Q11209931,0,0,1,fjord in Svalbard,,Q45776,,Nordfjorden (Svalbard)
+Nordfjorden,Nordfjorden,Q11214799,0,0,1,"fjord in Stjernøya, Hasvik, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q3442217,0,0,1,"fjord in Meløy, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11073281,0,0,1,"fjord in Bjugn/Indre Fosen, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11199729,0,0,1,"fjord in Rødøy, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11198011,0,0,1,"fjord in Bodø, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11212730,0,0,1,"fjord in Kvaløya, Troms, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11209262,0,0,1,"fjord in Sørfold, Norway",,Q45776,,
+Nordfjorden,Nordfjorden,Q11215284,0,0,1,"fjord in Båtsfjord, Norway",,Q45776,,
+Nordfjorden,fjord,Q45776,0,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Nordfjorden,Fjord Municipality,Q65230514,0,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Nordfjorden,Fjord,Q123166572,0,0,2,family name,,Q101352,,
+Nordfjorden,lagoon,Q187223,0,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Nordfjorden,Fjord Line,Q1422444,0,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Nordfjorden,IMO 8410316,Q58411518,0,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Nordfjorden,Fjord,Q20635222,0,0,2,painting by John Adams Griefen,,Q3305213,,
+Nordfjorden,Fjord,Q20266504,0,0,2,painting by Mel Bochner,,Q3305213,,
+Nordfjorden,Fjord,Q52333173,0,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Nordfjorden,Tide Bane,Q5456496,0,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Nordfjorden,Aqua Fjord,Q52512359,0,0,2,ship built in 2004,,Q110966816,,
+Nordfjorden,Arctic Fjord,Q124062156,0,0,2,ship built in 1975,IMO 7391305,Q1420024,,
+Nordfjorden,Arctic fjords: a review of the oceanographic environment and dominant physical processes,Q59213827,0,0,2,article,,Q13442814,,
+Penwith,Penwith,Q1212501,1,0,1,"former district in Cornwall, England, UK",Pennwydh,Q1187580|Q19953632,,Penwith
+Penwith,Penwith,Q23701293,1,0,1,painting by Peter Lanyon,,Q3305213,,
+Penwith,Penwith,Q104536319,1,0,1,"Heritage Coast in Cornwall, United Kingdom",,Q1367500|Q13125592,,
+Penwith,Penwith District Council election,Q7165382,1,0,1,class of election in the United Kingdom,,Q107359024,Q107358924,Penwith District Council elections
+Penwith,Penwith Society of Arts,Q7165381,1,0,1,"Art group in Cornwall, England",Penwith Society of Arts in Cornwall,Q4502119,,Penwith Society of Arts
+Penwith,Penwithick,Q7165383,1,0,1,"village in Cornwall, England, United Kingdom","Penwithick, Cornwall",Q532,,Penwithick
+Penwith,Penwith Hundred,Q10964003,1,0,1,"ancient administrative unit of Cornwall, England",,Q26678366,,Penwith Hundred
+Penwith,2003 Penwith District Council election,Q7165374,1,0,1,2003 UK local government election,"Penwith Council election, 2003",Q7165382,,2003 Penwith District Council election
+Penwith,Penwith Radio,Q7165380,1,0,1,radio station,,Q14350,,Coast FM (West Cornwall)
+Penwith,2002 Penwith District Council election,Q7165373,1,0,1,2002 UK local government election,"Penwith Council election, 2002",Q7165382,,2002 Penwith District Council election
+Penwith,Isles of Scilly,Q180209,1,0,2,archipelago and local government district off the south-westernmost point of mainland Britain,Scillonia|Scilly|Scilly Islands|Isles of Scilly Rural District,Q33837|Q1187580|Q1754946|Q1136601,,Isles of Scilly
+Penwith,Isles of Scilly,Q119141220,1,0,2,"painting by David James (1860–1904), Royal Cornwall Museum",,Q3305213,,
+Penwith,Isles of Scilly Steamship Company,Q6084234,1,0,2,Transport company,,Q4830453,,Isles of Scilly Steamship Company
+Penwith,Halangy Down transmitting station,Q42852371,1,0,2,transmitting station,Isles of Scilly transmitting station,Q1068623|Q5367899,,Halangy Down transmitter
+Penwith,Isles of Scilly Skybus,Q1371800,1,0,2,airline,,Q46970,,Isles of Scilly Skybus
+Penwith,Isles of Scilly Guidebook,Q108127675,1,0,2,,,Q571,,
+Penwith,Isles of Scilly: Military Defences 1540-1951: earthworks and minor sites,Q88383301,1,0,2,2011 report,,Q10870555,,
+Penwith,Isles of Scilly Museum,Q44185773,1,0,2,"museum in Isles of Scilly, England, United Kingdom",,Q33506|Q115154402,,Isles of Scilly Museum
+Penwith,Isles of Scilly Wildlife Trust,Q16957059,1,0,2,organization,,Q43229,,Isles of Scilly Wildlife Trust
+Penwith,Isles of Scilly Fire and Rescue Service,Q6084230,1,0,2,fire and rescue service in the UK Isles of Scilly,,Q6498663,,Isles of Scilly Fire and Rescue Service
+Saltstraumen,Saltstraumen,Q1479760,2,0,1,Norwegian sea strait with one of the strongest tidal currents in the world,,Q3262334|Q37901,,Saltstraumen
+Saltstraumen,Saltstraumen,Q107077801,2,0,1,protected area in Norway (Naturbase code: VV00003081),,Q1367500|Q473972,,
+Saltstraumen,Saltstraumen,Q3470260,2,0,1,"settlement in Bodø municipality, Norway",,Q486972|Q15092344,,
+Saltstraumen,Saltstraumen bridge,Q1777338,2,0,1,"road bridge in Bodø, Norway",Saltstraumentbrua,Q2065736|Q537127|Q1429218,,Saltstraumen Bridge
+Saltstraumen,Saltstraumen Church,Q4585766,2,0,1,"church in Bodø, Norway",Saltstraumen kirke,Q2065736|Q16970,,Saltstraumen Church
+Saltstraumen,Saltstraumen Idrettslag,Q140699722,2,0,1,Norwegian sports club,,Q847017,,
+Saltstraumen,Saltstraumen prestegjeld,Q137638134,2,0,1,,,Q1478645,,
+Saltstraumen,Saltstraumen skal vernes,Q19792088,2,0,1,Wikinews article,,Q17633526,,
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q1544205,3,0,1,group of marine protected areas in the Great Australian Bight,Great Australian Bight marine park,Q1367500,,Great Australian Bight Marine Park
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q19873933,3,0,1,marine protected area in the Great Australian Bight off South Australia,Great Australian Bight Marine Park (2017)|Great Australian Bight Commonwealth Marine Reserve,Q1367500,,Great Australian Bight Marine Park (2017)
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q5598675,3,0,1,former marine protected area located in the Great Australian Bight,,Q1367500,,Great Australian Bight Marine Park (Commonwealth waters)
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q55364439,3,0,1,marine park in Australia,Great Australian Bight Commonwealth Marine Reserve,Q30674761|Q55364400,,
+Great Australian Bight Marine Park,Great Australian Bight Marine Park Whale Sanctuary,Q19873936,3,0,1,protected area in South Australia,,Q1367500|Q28942323,,Great Australian Bight Marine Park Whale Sanctuary
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q1544205,4,0,1,group of marine protected areas in the Great Australian Bight,Great Australian Bight marine park,Q1367500,,Great Australian Bight Marine Park
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q19873933,4,0,1,marine protected area in the Great Australian Bight off South Australia,Great Australian Bight Marine Park (2017)|Great Australian Bight Commonwealth Marine Reserve,Q1367500,,Great Australian Bight Marine Park (2017)
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q5598675,4,0,1,former marine protected area located in the Great Australian Bight,,Q1367500,,Great Australian Bight Marine Park (Commonwealth waters)
+Great Australian Bight Marine Park,Great Australian Bight Marine Park,Q55364439,4,0,1,marine park in Australia,Great Australian Bight Commonwealth Marine Reserve,Q30674761|Q55364400,,
+Great Australian Bight Marine Park,Great Australian Bight Marine Park Whale Sanctuary,Q19873936,4,0,1,protected area in South Australia,,Q1367500|Q28942323,,Great Australian Bight Marine Park Whale Sanctuary
+Meloria,Meloria,Q955207,5,0,1,island,Meloria Shoal|Meloria Shoals,Q23442|Q271669|Q1367500,,Meloria
+Meloria,Meloriastacus,Q18595330,5,0,1,genus of crustaceans,,Q16521,,
+Meloria,Meloria,Q117024582,5,0,1,chemical tanker built in 2006,IMO 9292280,Q15254,,
+Meloria,Meloriastacus ctenidis,Q13834648,5,0,1,species of crustacean,,Q16521,,
+Meloria,Meloria North End Lighthouse,Q17630320,5,0,1,lighthouse in Italy,Faro settentrionale della Meloria|Meloria north Lighthouse|Meloria north end Lighthouse,Q39715,,Meloria north end Lighthouse
+Meloria,Meloria south end Lighthouse,Q16555301,5,0,1,lighthouse in Italy,Faro meridionale della Meloria|Meloria south lighthouse|Meloria Shoal South End Lighthosue|Meloria south Lighthouse,Q39715,,Meloria south end Lighthouse
+Meloria,Meloria bronzes,Q3645329,5,0,1,,,Q860861,,
+Meloria,Meloria air crash,Q122878957,5,0,1,"memorial in Livorno, Italy",,Q5003624,,
+Meloria,Meloriac,Q135293701,5,0,1,"extra-heavy unicase display typeface inspired by Avant Garde Gothic, with extremely tight kerning",,Q17451,,
+Meloria,Meloria,Q1919668,5,0,1,,,Q970092,,

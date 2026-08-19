@@ -1,0 +1,24 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Recrd Internacional,Record Internacional,Q10377499,0,0,2,Brazilian international television channel,TV Record Internacional|Record internacional|RecordTV Internacional,Q15265344,,Record Internacional
+TonTpn,Media Prima,Q6805531,1,0,2,Malaysian integrated media company,MEDIA PRIMA BERHAD|Media Prima Berhad|Media Prima Bhd.,Q4830453|Q1916382,,Media Prima
+TonTpn,8TV,Q4645212,1,0,2,Malaysian Chinese-language free-to-air television network,Media Prima TV 8TV,Q1616075,,8TV (Malaysian TV network)
+TonTpn,NTV7,Q307356,1,0,2,Malaysian television channel,TV7 (Malaysian)|RTM TV7|RTM TV 7|RTM7|Media Prima TV7,Q1616075,,NTV7
+TonTpn,Eight WuXian,Q7092623,1,0,2,Malaysian Chinese-language radio station at Balai Berita,Media Prima Audio in radio at Bangsar,Q14350,,Eight FM
+TonTpn,Media Prima Audio,Q108009179,1,0,2,Malaysian radio broadcasting group,,Q783794,,Media Prima Audio
+TonTpn,Rev Asia,Q17139073,1,0,2,company in Malaysia,Rev Asia Berhad|Media Prima Digital,Q4830453,,
+TonTpn,Media Prima Arena,Q110129564,1,0,2,motorcycle speedway stadium,,Q483110,,South Tees Motorsports Park
+Media Prima,Media Prima,Q6805531,1,1,1,Malaysian integrated media company,MEDIA PRIMA BERHAD|Media Prima Berhad|Media Prima Bhd.,Q4830453|Q1916382,,Media Prima
+Media Prima,8TV,Q4645212,1,1,1,Malaysian Chinese-language free-to-air television network,Media Prima TV 8TV,Q1616075,,8TV (Malaysian TV network)
+Media Prima,NTV7,Q307356,1,1,1,Malaysian television channel,TV7 (Malaysian)|RTM TV7|RTM TV 7|RTM7|Media Prima TV7,Q1616075,,NTV7
+Media Prima,Eight WuXian,Q7092623,1,1,1,Malaysian Chinese-language radio station at Balai Berita,Media Prima Audio in radio at Bangsar,Q14350,,Eight FM
+Media Prima,Media Prima Audio,Q108009179,1,1,1,Malaysian radio broadcasting group,,Q783794,,Media Prima Audio
+Media Prima,Rev Asia,Q17139073,1,1,1,company in Malaysia,Rev Asia Berhad|Media Prima Digital,Q4830453,,
+Media Prima,Media Prima Arena,Q110129564,1,1,1,motorcycle speedway stadium,,Q483110,,South Tees Motorsports Park
+TV Lieral,,,2,0,0,,,,,
+CNX-TV,Bell Media,Q815713,3,0,2,Canadian media company,,Q6881511|Q1589009,,Bell Media
+CNX-TV,Bell Media Radio,Q4883204,3,0,2,Canadian radio broadcaster,Bell Média Radio,Q4830453,,Bell Media Radio
+CNX-TV,Bell Media Tower,Q3278595,3,0,2,"Office building in Montreal, Quebec",Place Montreal Trust|Maison Astral,Q11303,,Bell Media Tower
+Bell Media,Bell Media,Q815713,3,1,1,Canadian media company,,Q6881511|Q1589009,,Bell Media
+Bell Media,Bell Media Radio,Q4883204,3,1,1,Canadian radio broadcaster,Bell Média Radio,Q4830453,,Bell Media Radio
+Bell Media,Bell Media Tower,Q3278595,3,1,1,"Office building in Montreal, Quebec",Place Montreal Trust|Maison Astral,Q11303,,Bell Media Tower
+TV Jangadeio,,,4,0,0,,,,,

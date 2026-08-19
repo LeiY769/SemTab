@@ -1,0 +1,20 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+osmium-190,osmium-190,Q18882977,0,0,1,isotope of osmium,Os-190|190Os,Q1190207|Q878130,Q751,Osmium-190
+osmium-190,osmium-190m,Q18882978,0,0,1,isotope of osmium,Os-190m|190mOs,Q1190207|Q846110,Q751,
+osmium-172,osmium-172,Q18882950,1,0,1,isotope of osmium,Os-172|172Os,Q1190207,Q751,Osmium-172
+osmium-190m,osmium-190m,Q18882978,2,0,1,isotope of osmium,Os-190m|190mOs,Q1190207|Q846110,Q751,
+osmium-192m,osmium-192m,Q18882982,3,0,1,isotope of osmium,Os-192m|192mOs,Q1190207|Q846110,Q751,
+osmium-183,osmium-183,Q18882965,4,0,1,isotope of osmium,Os-183|183Os,Q1190207,Q751,Osmium-183
+osmium-183,osmium-183m,Q18882966,4,0,1,isotope of osmium,Os-183m|183mOs,Q1190207|Q846110,Q751,
+osmium-168,osmium-168,Q18882946,5,0,1,isotope of osmium,Os-168|168Os,Q1190207,Q751,Osmium-168
+osmium-164,osmium-164,Q18882942,6,0,1,isotope of osmium,Os-164|164Os,Q1190207,Q751,Osmium-164
+osmium-186,osmium-186,Q18882971,7,0,1,isotope of osmium,Os-186|186Os,Q1190207,Q751,Osmium-186
+osmium-193,osmium-193,Q18882983,8,0,1,isotope of osmium,Os-193|193Os,Q1190207,Q751,Osmium-193
+osmium-193,isotope of osmium,Q1190207,8,0,2,,,,Q25276,Isotopes of osmium
+osmium-171,osmium-171,Q18882949,9,0,1,isotope of osmium,Os-171|171Os,Q1190207,Q751,Osmium-171
+osmium-178,osmium-178,Q18882956,10,0,1,isotope of osmium,Os-178|178Os,Q1190207,Q751,Osmium-178
+osmium-162,osmium-162,Q18882940,11,0,1,isotope of osmium,Os-162|162Os,Q1190207,Q751,Osmium-162
+osmium-167,osmium-167,Q18882945,12,0,1,isotope of osmium,Os-167|167Os,Q1190207,Q751,Osmium-167
+osmium-185,osmium-185,Q18882968,13,0,1,isotope of osmium,Os-185|185Os,Q1190207,Q751,Osmium-185
+osmium-185,osmium-185m1,Q18882969,13,0,1,isotope of osmium,Os-185m1|185m1Os,Q1190207|Q846110,Q751,
+osmium-185,osmium-185m2,Q18882970,13,0,1,isotope of osmium,Os-185m2|185m2Os,Q1190207|Q846110,Q751,

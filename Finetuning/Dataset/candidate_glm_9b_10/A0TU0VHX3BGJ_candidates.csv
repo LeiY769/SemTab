@@ -1,0 +1,218 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Minister of Finance,finance minister,Q7614320,0,0,1,position in a government responsible for economic and financial policies,minister of finance|secretary of the treasury|treasury secretary,,Q83307,Finance minister
+Minister of Finance,Minister of Finance,Q2367542,0,0,1,cabinet minister of Finland,Minister of Finance of Finland|valtiovarainministeri|finansminister|Minister for Finance (Finland),Q4164871,Q7614320,Minister of Finance (Finland)
+Minister of Finance,Minister of Finance,Q20677341,0,0,1,Minister of Finance for the Netherlands,,Q4164871,Q7614320|Q19334526,
+Minister of Finance,Minister of the Treasury of Spain,Q26262735,0,0,1,Minister of the government of Spain,Minister of Finance|Minister of the Treasury|Minister of Economy and Finance,Q294414,Q7614320|Q20899145,
+Minister of Finance,Minister of Finance,Q6500849,0,0,1,Japanese minister,Minister of Finance of Japan,Q4164871,Q10920986|Q7614320,Minister of Finance (Japan)
+Minister of Finance,Minister of Finance,Q1416501,0,0,1,Indian minister,Minister of Finance of India|finance minister in India|finance minister of India,Q4164871,Q7614320,Minister of Finance (India)
+Minister of Finance,Minister of Finance,Q21103025,0,0,1,Estonian finance minister,Estonian Minister of Finance|Minister of Finance of Estonia,Q4164871,Q7614320,Minister of Finance (Estonia)
+Minister of Finance,Minister of Finance,Q21504216,0,0,1,Member of the Government of Romania,,Q4164871,Q7614320,
+Minister of Finance,Minister of Finance,Q6866129,0,0,1,Minister in the Government of New Zealand,Finance minister of New Zealand|MOF,Q4164871,Q7614320,Minister of Finance (New Zealand)
+Minister of Finance,Minister of Finance,Q20675830,0,0,1,cabinet position in Bulgaria,Finance minister of Bulgaria|Bulgarian finance minister,Q4164871,Q7614320,
+Cabinet of Ecuador,Cabinet of Ecuador,Q17005906,0,1,1,Section of the executive branch of Ecuadorian government,,,Q640506,Cabinet of Ecuador
+Cabinet of Ecuador,Ministry of Finance of Ecuador,Q55816299,0,1,2,Old Ecuadorian Ministry,,Q6354349|Q15711797,,
+Minister of Public Works,Minister of Public Works,Q23073852,1,0,1,South Australian cabinet minister,Minister of Works|Commissioner of Public Works,Q294414,Q7258042,Minister of Public Works (South Australia)
+Minister of Public Works,public works minister,Q7258042,1,0,1,minister of a state responsible for public works,minister of public works,Q4164871,Q83307,Public works minister
+Minister of Public Works,Minister of Public Works,Q101070180,1,0,1,cabinet position in Egypt,,Q294414,Q7258042,
+Minister of Public Works,Minister of Public Works,Q19904300,1,0,1,former Greek cabinet position,,Q4164871,Q7258042|Q23636313,
+Minister of Public Works,Minister of Public Works,Q50808592,1,0,1,political position of Spain,,Q4164871,Q7258042|Q20899145,
+Minister of Public Works,Minister of Public Works,Q16744853,1,0,1,South Africa,,Q4164871|Q13406463,Q7258042,Minister of Public Works and Infrastructure
+Minister of Public Works,Minister of Public Works,Q109733748,1,0,1,cabinet position in Timor-Leste,,Q294414|Q13406463,Q135271179|Q7258042,Minister of Public Works (Timor-Leste)
+Minister of Public Works,Minister of Public Works,Q73916350,1,0,1,cabinet position in Algeria,,Q294414,Q7258042,
+Minister of Public Works,Minister of Public Works,Q112221035,1,0,1,cabinet position in Democratic Republic of the Congo,Minister of Public Works of Democratic Republic of the Congo,Q294414,Q83307,
+Minister of Public Works,Minister of Public Works,Q111021205,1,0,1,cabinet position in Equatorial Guinea,,Q294414|Q4164871,Q7258042,
+Ministerial Council of Greece,Ministerial Council of Greece,Q16331915,1,1,1,collective decision-making body of the Hellenic Republic,Cabinet of Greece,Q84062072,Q640506,Cabinet of Greece
+Minister of Foreign Affairs,foreign minister,Q7330070,2,0,1,cabinet minister in charge of a nation's foreign affairs,Minister of Foreign Affairs|minister of foreign relations,Q294414,Q83307,Foreign minister
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20203208,2,0,1,French cabinet minister,French Foreign Minister,Q4164871,Q7330070,Minister of Foreign Affairs (France)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q4294919,2,0,1,Portuguese minister,Portuguese Minister of Foreign Affairs|Minister of State for Foreign Affairs,Q4164871|Q294414,Q7330070,Minister of Foreign Affairs (Portugal)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q15916856,2,0,1,foreign minister,Foreign Minister of Bulgaria,Q4164871,Q7330070,Minister of Foreign Affairs (Bulgaria)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1418873,2,0,1,Minister of Foreign Affairs in Russia,Russian Minister of Foreign Affairs|Foreign Minister of Russia,Q4164871,Q7330070,Minister of Foreign Affairs (Russia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20007045,2,0,1,Minister of Foreign Affairs of the Netherlands,Dutch Minister of Foreign Affairs,Q4164871,Q7330070|Q19334526,
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1760777,2,0,1,Estonian cabinet minister,Estonian Minister of Foreign Affairs|Minister of Foreign Affairs in Estonia|Minister of Foreign Affairs of Estonia,Q4164871,Q7330070,Minister of Foreign Affairs (Estonia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1829509,2,0,1,Minister of Foreign Affairs in Uruguay,Uruguayan Minister of Foreign Affairs|Minister of Foreign Relations of Uruguay|Minister of Foreign Affairs of Uruguay|Foreign Minister of Uruguay,Q4164871,Q7330070,List of ministers of foreign relations of Uruguay
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q3304204,2,0,1,Minister of Foreign Affairs in Albania,Albanian Minister of Foreign Affairs|Ministry for Europe and Foreign Affairs,Q4164871,Q7330070,List of Foreign Ministers of Albania
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20988486,2,0,1,Minister of Foreign Affairs of Turkey,Turkish Minister of Foreign Affairs|Minister of Foreign Affairs of Turkey|Minister of Foreign Affairs for Turkey,Q4164871,Q7330070,Minister of Foreign Affairs (Turkey)
+Cabinet of the Maldives,Cabinet of the Maldives,Q5015583,2,1,1,,,,Q640506,Cabinet of the Maldives
+Minister of Foreign Affairs,foreign minister,Q7330070,3,0,1,cabinet minister in charge of a nation's foreign affairs,Minister of Foreign Affairs|minister of foreign relations,Q294414,Q83307,Foreign minister
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20203208,3,0,1,French cabinet minister,French Foreign Minister,Q4164871,Q7330070,Minister of Foreign Affairs (France)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q4294919,3,0,1,Portuguese minister,Portuguese Minister of Foreign Affairs|Minister of State for Foreign Affairs,Q4164871|Q294414,Q7330070,Minister of Foreign Affairs (Portugal)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q15916856,3,0,1,foreign minister,Foreign Minister of Bulgaria,Q4164871,Q7330070,Minister of Foreign Affairs (Bulgaria)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1418873,3,0,1,Minister of Foreign Affairs in Russia,Russian Minister of Foreign Affairs|Foreign Minister of Russia,Q4164871,Q7330070,Minister of Foreign Affairs (Russia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20007045,3,0,1,Minister of Foreign Affairs of the Netherlands,Dutch Minister of Foreign Affairs,Q4164871,Q7330070|Q19334526,
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1760777,3,0,1,Estonian cabinet minister,Estonian Minister of Foreign Affairs|Minister of Foreign Affairs in Estonia|Minister of Foreign Affairs of Estonia,Q4164871,Q7330070,Minister of Foreign Affairs (Estonia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1829509,3,0,1,Minister of Foreign Affairs in Uruguay,Uruguayan Minister of Foreign Affairs|Minister of Foreign Relations of Uruguay|Minister of Foreign Affairs of Uruguay|Foreign Minister of Uruguay,Q4164871,Q7330070,List of ministers of foreign relations of Uruguay
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q3304204,3,0,1,Minister of Foreign Affairs in Albania,Albanian Minister of Foreign Affairs|Ministry for Europe and Foreign Affairs,Q4164871,Q7330070,List of Foreign Ministers of Albania
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20988486,3,0,1,Minister of Foreign Affairs of Turkey,Turkish Minister of Foreign Affairs|Minister of Foreign Affairs of Turkey|Minister of Foreign Affairs for Turkey,Q4164871,Q7330070,Minister of Foreign Affairs (Turkey)
+Minister of Foreign Affairs,Prime Minister of Antigua and Barbuda,Q20682527,3,0,2,head of government of Antigua and Barbuda,,Q294414,Q14212,Prime Minister of Antigua and Barbuda
+Minister of Foreign Affairs,list of Prime Ministers of Antigua and Barbuda,Q1053406,3,0,2,Wikimedia list article,Prime Minister of Antigua and Barbuda|List of prime ministers of Antigua and Barbuda,Q80096233|Q13406463,,List of prime ministers of Antigua and Barbuda
+Minister of Foreign Affairs,Cabinet of Antigua and Barbuda,Q5015491,3,0,2,executive branch of the government of Antigua and Barbuda,,,Q640506,Cabinet of Antigua and Barbuda
+Cabinet of Antigua and Barbuda,Cabinet of Antigua and Barbuda,Q5015491,3,1,1,executive branch of the government of Antigua and Barbuda,,,Q640506,Cabinet of Antigua and Barbuda
+Minister of Foreign Affairs,foreign minister,Q7330070,4,0,1,cabinet minister in charge of a nation's foreign affairs,Minister of Foreign Affairs|minister of foreign relations,Q294414,Q83307,Foreign minister
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20203208,4,0,1,French cabinet minister,French Foreign Minister,Q4164871,Q7330070,Minister of Foreign Affairs (France)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q4294919,4,0,1,Portuguese minister,Portuguese Minister of Foreign Affairs|Minister of State for Foreign Affairs,Q4164871|Q294414,Q7330070,Minister of Foreign Affairs (Portugal)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q15916856,4,0,1,foreign minister,Foreign Minister of Bulgaria,Q4164871,Q7330070,Minister of Foreign Affairs (Bulgaria)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1418873,4,0,1,Minister of Foreign Affairs in Russia,Russian Minister of Foreign Affairs|Foreign Minister of Russia,Q4164871,Q7330070,Minister of Foreign Affairs (Russia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20007045,4,0,1,Minister of Foreign Affairs of the Netherlands,Dutch Minister of Foreign Affairs,Q4164871,Q7330070|Q19334526,
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1760777,4,0,1,Estonian cabinet minister,Estonian Minister of Foreign Affairs|Minister of Foreign Affairs in Estonia|Minister of Foreign Affairs of Estonia,Q4164871,Q7330070,Minister of Foreign Affairs (Estonia)
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q1829509,4,0,1,Minister of Foreign Affairs in Uruguay,Uruguayan Minister of Foreign Affairs|Minister of Foreign Relations of Uruguay|Minister of Foreign Affairs of Uruguay|Foreign Minister of Uruguay,Q4164871,Q7330070,List of ministers of foreign relations of Uruguay
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q3304204,4,0,1,Minister of Foreign Affairs in Albania,Albanian Minister of Foreign Affairs|Ministry for Europe and Foreign Affairs,Q4164871,Q7330070,List of Foreign Ministers of Albania
+Minister of Foreign Affairs,Minister of Foreign Affairs,Q20988486,4,0,1,Minister of Foreign Affairs of Turkey,Turkish Minister of Foreign Affairs|Minister of Foreign Affairs of Turkey|Minister of Foreign Affairs for Turkey,Q4164871,Q7330070,Minister of Foreign Affairs (Turkey)
+Cabinet of Tonga,Cabinet of Tonga,Q1567190,4,1,1,executive branch of the government of the Kingdom of Tonga,,,Q640506,Cabinet of Tonga
+Minister for Education,education minister,Q4018482,5,0,1,minister in charge of education matters,minister of education|minister for education|Minister of Education|education secretary,Q294414|Q4164871,Q83307,Education minister
+Minister for Education,Secretary of State for Education,Q3477306,5,0,1,United Kingdom government cabinet minister,Education Secretary|Education Minister|Minister for Education|British education minister|UK minister for Education|education minister uk|education minister britain,Q4164871,Q14214|Q4018482,Secretary of State for Education
+Minister for Education,Minister for Education,Q6865795,5,0,1,Cabinet position in New South Wales,"Minister for Education and Early Childhood Learning|Minister of Public Instruction (New South Wales)|Minister for Public Instruction (New South Wales)|Minister for Education (New South Wales)|Minister for Education and Youth Affairs|Minister for Education, Training and Youth Affairs|Minister for Education and Training",Q4164871,Q4018482,Minister for Education and Early Learning
+Minister for Education,Minister for Education and Science,Q10686263,5,0,1,Swedish cabinet minister,Swedish Education Minister|Minister of Education of Sweden|Minister for Education,Q294414,Q4018482|Q10714707,Minister for Education (Sweden)
+Minister for Education,Minister for Education,Q11812510,5,0,1,Ghana education ministers,Minister for Education of Ghana,Q294414|Q4164871,Q4018482,Minister for Education (Ghana)
+Minister for Education,Minister for Education,Q11796967,5,0,1,position in the Australian Government,"Minister for School Education, Early Childhood and Youth",Q4164871,Q4018482,Minister for Education (Australia)
+Minister for Education,Minister for Education,Q33106246,5,0,1,Historic Welsh Cabinet position,Welsh Minister for Education,Q294414,Q4018482,Cabinet Minister for Education and the Welsh Language
+Minister for Education,Minister for Education,Q61961268,5,0,1,cabinet position in Singapore,Minister of Education of SIngapore,Q294414,Q4018482,
+Minister for Education,Minister for Education,Q60370401,5,0,1,Welsh Cabinet position,,Q294414,Q4018482,
+Minister for Education,Minister for Education,Q50826624,5,0,1,South Australian cabinet minister,,Q294414,Q4018482,
+Cabinet of Ghana,Cabinet of Ghana,Q47092681,5,1,1,Executive of the government of Ghana,,Q4383245,Q640506,Cabinet of Ghana
+Cabinet of Ghana,Minister for Education,Q11812510,5,1,2,Ghana education ministers,Minister for Education of Ghana,Q294414|Q4164871,Q4018482,Minister for Education (Ghana)
+Attorney General of Indonesia,Attorney General of Indonesia,Q16184207,6,0,1,cabinet-level official to represent the government at the Supreme Court of Indonesia,,Q4164871,Q1501926,Attorney General of Indonesia
+Attorney General of Indonesia,attorney general,Q1501926,6,0,2,"in common law jurisdictions, main legal advisor to the government",AG|attorney-general,Q4164871,Q3368517,Attorney general
+Attorney General of Indonesia,United States Attorney General,Q636207,6,0,2,head of the United States Department of Justice,Attorney General of the United States,Q4164871,Q1501926,United States Attorney General
+Attorney General of Indonesia,Attorney-General of New Zealand,Q4818600,6,0,2,political office in New Zealand,NZ Attorney General|Attorney-General,Q4164871,Q1501926,Attorney-General (New Zealand)
+Attorney General of Indonesia,Director of Public Prosecutions of Norway,Q19226277,6,0,2,head of the Norwegian Prosecuting Authority,Attorney General,Q4164871|Q4994773|Q480319,,
+Attorney General of Indonesia,Attorney General of Uganda,Q28404009,6,0,2,principal legal adviser of Ugandan government,Attorney General|Attorney General of Uganda,Q4164871,Q1501926,Attorney General of Uganda
+Attorney General of Indonesia,Attorney General for England and Wales,Q2631987,6,0,2,law officer of the Monarch of England and Wales,,Q4164871|Q294414,Q1501926|Q1778154,Attorney General for England and Wales
+Attorney General of Indonesia,Attorney-General's Department,Q3044789,6,0,2,"Australian government department, 1901-","Department of the Attorney-General|Attorney-General's Department, Central Office",Q57605562,,Attorney-General's Department (Australia)
+Attorney General of Indonesia,Attorney General,Q46624583,6,0,2,Cabinet position in the government of Malawi,Attorney General of Malawi,Q294414,Q83307,
+Attorney General of Indonesia,Attorney General of Bangladesh,Q28225319,6,0,2,position in Bangladeshi government,,Q4164871,Q1501926,Attorney General of Bangladesh
+Attorney General of Indonesia,Attorney General,Q50810280,6,0,2,Norwegian military attorney,,Q4994773|Q480319|Q4164871,,
+Cabinet of Indonesia,Cabinet of Indonesia,Q23929770,6,1,1,council of ministers appointed by the president of Indonesia,Indonesian Cabinet,,Q640506,Cabinet of Indonesia
+Cabinet of Indonesia,Attorney General of Indonesia,Q16184207,6,1,2,cabinet-level official to represent the government at the Supreme Court of Indonesia,,Q4164871,Q1501926,Attorney General of Indonesia
+Cabinet of Indonesia,Government of Indonesia,Q20716634,6,1,2,national government of Indonesia,Indonesian Government|Government of the Republic of Indonesia|Indonesia government,Q1320217,,Government of Indonesia
+Cabinet of Indonesia,Government Regulation of the Republic of Indonesia,Q12504877,6,1,2,regulation of the Republic of Indonesia derived from a particular law,Regulation of the Government|Government Regulation|Indonesian Government Regulation,,Q846882|Q12504878,
+Cabinet of Indonesia,Indonesian Government Approaches to Radical Islam Since 1998,Q139712516,6,1,2,,,Q1980247,,
+Cabinet of Indonesia,Indonesian Government Regulation Number 33 of 2003,Q113960976,6,1,2,,PP 33/2003,Q12504877,,
+Cabinet of Indonesia,Indonesian Government Regulation Number 29 of 1974,Q107555325,6,1,2,,PP 29/1974,Q12504877,,
+Cabinet of Indonesia,Indonesian government regulation in lieu of law,Q19752475,6,1,2,,,,Q12504878,
+Cabinet of Indonesia,Indonesian Government Regulation Number 50 of 2002,Q129567168,6,1,2,,PP 50/2002,Q12504877,,
+Cabinet of Indonesia,Indonesian Government Regulation Number 41 of 1999,Q129569263,6,1,2,,PP 41/1999,Q12504877,,
+Cabinet of Indonesia,Indonesian Government Regulation In Lieu of Law Number 3 of 2008,Q129566492,6,1,2,,Perpu 3/2008,Q19752475,,
+Cabinet of Indonesia,Indonesian Government Regulation Number 17 of 2004,Q129567137,6,1,2,,PP 17/2004,Q12504877,,
+Minister for Home Affairs,Minister for Domestic Affairs,Q10686171,7,0,1,Swedish cabinet minister,Minister for Home Affairs,Q294414,Q17578116,Minister of the Interior (Sweden)
+Minister for Home Affairs,Minister for Home Affairs,Q6865868,7,0,1,Australian ministerial position,Australian Federal Minister for Territories,Q4164871,Q17578116,Minister for Home Affairs (Australia)
+Minister for Home Affairs,minister for Home Affairs,Q59875958,7,0,1,,,Q294414,Q17578116,
+Minister for Home Affairs,Minister for Home Affairs,Q11393870,7,0,1,Minister in Singapore,,Q4164871,Q17578116,List of Ministers for Home Affairs (Singapore)
+Minister for Home Affairs,Minister for Home Affairs,Q110594641,7,0,1,cabinet position in Tuvalu,,Q294414,Q83307,
+Minister for Home Affairs,Minister for Home Affairs,Q108266345,7,0,1,cabinet position in Malta,,Q294414,Q83307,
+Minister for Home Affairs,Minister of Home Affairs,Q109747480,7,0,1,cabinet position in Nepal,Minister for Home Affairs,Q294414,Q83307,
+Minister for Home Affairs,Minister for Home Affairs,Q25712496,7,0,1,Ministerial position on the Isle of Man,Minister for Home Affairs of the Isle of Man,,Q17578116,
+Minister for Home Affairs,Minister for Home Affairs,Q107614362,7,0,1,position in the Council of Ministers of Jersey,,Q294414,Q83307,
+Minister for Home Affairs,Minister for Home Affairs,Q109772126,7,0,1,cabinet position in Cayman Islands,,Q294414,Q83307,
+Cabinet of Singapore,Cabinet of Singapore,Q5015558,7,1,1,Executive branch of the Singapore government,,,Q640506,Cabinet of Singapore
+Minister of Information,minister of information,Q13424386,8,0,1,minister in a government responsible for dealing with information matters,information minister,,Q83307,Information minister
+Minister of Information,Minister of Information and Media,Q104127725,8,0,1,Saudi ministerial position,Minister of Information,Q4164871,Q13424386,
+Minister of Information,Minister of Information,Q28492156,8,0,1,Minister of the government of Yemen,,Q4164871,Q83307,
+Minister of Information,Minister of Information,Q112128225,8,0,1,cabinet position in Equatorial Guinea,,Q294414,Q83307,
+Minister of Information,Minister of Information,Q110526654,8,0,1,cabinet position in Kuwait,Kuwaiti Minister of Information|Minister of Information of Kuwait,Q4164871,Q13424386,
+Minister of Information,Minister of Information,Q17098318,8,0,1,cabinet position in Serbia,,Q4164871,Q13424386,Minister of Information (Serbia)
+Minister of Information,Minister of Information,Q12479878,8,0,1,French government minister,,Q4164871,Q13424386,Minister of Information (France)
+Minister of Information,Minister of Information,Q112221010,8,0,1,cabinet position in Democratic Republic of the Congo,Minister of Information of Democratic Republic of the Congo,Q294414,Q83307,
+Minister of Information,Minister of Information,Q112325291,8,0,1,cabinet position in Sudan,,Q294414,Q83307,
+Minister of Information,Minister of Information,Q110535805,8,0,1,cabinet position in Eritrea,,Q294414,Q83307,
+Minister of Information,Minister of Information of Lebanon,Q73432426,8,0,2,,Lebanese Information minister|Information minister of Lebanon,Q294414,Q13424386,
+Minister of Information,Minister of Information of the Republic of Belarus,Q106399613,8,0,2,Belarusian political function,Minister of Information of Belarus|Information Minister of Belarus,Q4164871,Q13424386,
+Minister of Information,Information Minister of Israel,Q12409709,8,0,2,Israeli government position,,Q4164871,Q83307,Ministry of Public Diplomacy (Israel)
+Council of Ministers,Council of Ministers,Q16850120,8,1,1,executive body of the Government of Portugal,Cabinet of Portugal|Council of Ministers of Portugal,,Q640506,Council of Ministers (Portugal)
+Council of Ministers,Council of the European Union,Q8896,8,1,1,institution of the European Union representing the member states' governments bringing together national ministers from each EU country to adopt laws and coordinate policies,Council of Ministers|Council|EU Council,Q748720|Q35798|Q11204|Q637846,,Council of the European Union
+Council of Ministers,Council of Ministers,Q19601543,8,1,1,supreme executive organ of the Federal Government of the Kingdom of Belgium,Council of Ministers of Belgium|Cabinet of Belgium,,Q640506,Council of Ministers (Belgium)
+Council of Ministers,Council of Ministers,Q1338983,8,1,1,executive authority in Poland,Government of Poland|Council of Ministers (Poland)|Cabinet of Poland|Polish Government,Q7188,Q640506,Council of Ministers (Poland)
+Council of Ministers,Cabinet of Algeria,Q5015487,8,1,1,cabinet of Algeria,Council of Ministers,,Q640506,Cabinet of Algeria
+Council of Ministers,Council of Ministers,Q2993836,8,1,1,cabinet of France,cabinet of France,Q1450662,Q640506,
+Council of Ministers,council of ministers,Q15105,8,1,1,name for the supreme executive in some countries or states,c.o.m.|cabinet,,Q938236|Q35798|Q948571|Q4358176,Council of Ministers
+Council of Ministers,Council of Ministers,Q834304,8,1,1,executive body of the Republic of Cuba,Cabinet of Cuba|Council of Ministers (Cuba),Q35798,Q640506,Council of Ministers (Cuba)
+Council of Ministers,Cabinet of Peru,Q2993851,8,1,1,Council of Ministers of the Republic of Peru,Council of Ministers,,Q640506,Cabinet of Peru
+Council of Ministers,Council of Ministers,Q1716757,8,1,1,Cabinet of Ethiopian Government,Council of Ministers of Ethiopia|Cabinet of Ethiopia,,Q640506,Council of Ministers (Ethiopia)
+Council of Ministers,minister of information,Q13424386,8,1,2,minister in a government responsible for dealing with information matters,information minister,,Q83307,Information minister
+Council of Ministers,Minister of Information and Media,Q104127725,8,1,2,Saudi ministerial position,Minister of Information,Q4164871,Q13424386,
+Council of Ministers,Minister of Information,Q28492156,8,1,2,Minister of the government of Yemen,,Q4164871,Q83307,
+Council of Ministers,Minister of Information,Q112128225,8,1,2,cabinet position in Equatorial Guinea,,Q294414,Q83307,
+Council of Ministers,Minister of Information,Q110526654,8,1,2,cabinet position in Kuwait,Kuwaiti Minister of Information|Minister of Information of Kuwait,Q4164871,Q13424386,
+Council of Ministers,Minister of Information,Q17098318,8,1,2,cabinet position in Serbia,,Q4164871,Q13424386,Minister of Information (Serbia)
+Council of Ministers,Minister of Information,Q12479878,8,1,2,French government minister,,Q4164871,Q13424386,Minister of Information (France)
+Council of Ministers,Minister of Information,Q112221010,8,1,2,cabinet position in Democratic Republic of the Congo,Minister of Information of Democratic Republic of the Congo,Q294414,Q83307,
+Council of Ministers,Minister of Information,Q112325291,8,1,2,cabinet position in Sudan,,Q294414,Q83307,
+Council of Ministers,Minister of Information,Q110535805,8,1,2,cabinet position in Eritrea,,Q294414,Q83307,
+Minister of Education,education minister,Q4018482,9,0,1,minister in charge of education matters,minister of education|minister for education|Minister of Education|education secretary,Q294414|Q4164871,Q83307,Education minister
+Minister of Education,Minister of Education,Q23901442,9,0,1,Greek government minister,Minister of Education of Greece|Greek Minister of Education,Q4164871,Q4018482|Q23636313,
+Minister of Education,Minister of Education,Q11895091,9,0,1,member of the government of Finland,opetusministeri|Minister of Education of Finland|Finnish Education Minister|Minister of Education and Communication|Minister of Education and Culture|Minister of Education (Finland),Q4164871,Q4018482|Q2621182,Minister of Education (Finland)
+Minister of Education,Minister of Education,Q14917211,9,0,1,cabinet position in Japan,Minister of Education of Japan|Japanese Minister of Education,Q4164871,Q10920986,
+Minister of Education,Minister of Education,Q50840894,9,0,1,South Australian cabinet minister,Minister of Education of South Australia|South Australian Minister of Education,Q294414,Q4018482,
+Minister of Education,Minister of Education,Q21389881,9,0,1,Romanian government minister responsible for the Ministry of Education,Romanian Minister of Education|Minister of Education of Romania|Minister for Education and Scientific Research of Romania|Romanian Minister of Sport|Romanian Minister of Youth,Q4164871,Q4018482|Q7579929,
+Minister of Education,Minister of Education,Q110463824,9,0,1,Tunisian minister,,Q4164871,Q4018482,
+Minister of Education,Minister of Education,Q5340905,9,0,1,position in the Danish government,Danish Education Minister|Education Minister of Denmark,Q4164871,Q4018482,Minister of Education (Denmark)
+Minister of Education,Minister of Education,Q16422303,9,0,1,Icelandic cabinet position,Minister of Education and Culture,Q294414,Q4018482,
+Minister of Education,Minister of Education,Q3251789,9,0,1,position in the South African government,Minister of Education of South Africa|South African education minister,Q4164871,Q4018482,Minister of Education (South Africa)
+Finnish Government,Finnish Government,Q2366737,9,1,1,executive body that directs the politics of Finland,Valtioneuvosto|Suomen valtioneuvosto|Statsrådet|Cabinet of Finland|Council of State of Finland,Q2659904|Q7188|Q43229,Q7188|Q640506,Finnish Government
+Finnish Government,Government of Finland,Q1408055,9,1,1,executive branch of the Republic of Finland,Finnish government|Finland government,Q7188,,
+Finnish Government,Finnish government agency,Q68312351,9,1,1,state-controlled organization that act independently to carry out the policies of the Government of Finland,,,Q327333|Q25450488,
+Finnish Government,"Finnish government formation, 2011",Q19873377,9,1,1,,,,,2011 Finnish government formation
+Minister for the Environment,Minister for the Environment,Q10686216,10,0,1,Swedish cabinet minister,,Q294414,Q1449973,Minister for the Environment (Sweden)
+Minister for the Environment,Minister for the Environment,Q1311756,10,0,1,Danish cabinet position,,Q4164871,Q1449973,Minister for the Environment (Denmark)
+Minister for the Environment,Minister for the Environment,Q97446369,10,0,1,government position in New Zealand,New Zealand Environment Minister|Environment Minister of New Zealand|New Zealand Minister for the Environment,Q294414,Q1449973,
+Minister for the Environment,Minister for the Environment,Q11796986,10,0,1,Australian ministerial position,"Minister for Sustainability, Environment, Water, Population and Communities",Q4164871,Q1449973,Minister for the Environment and Water
+Minister for the Environment,Minister for the Environment,Q24284762,10,0,1,Western Australian ministerial position,,Q294414,Q1449973,Minister for Environment (Western Australia)
+Minister for the Environment,Minister for the Environment,Q55374747,10,0,1,position in the Cabinet of Iceland,,Q294414,,
+Minister for the Environment,Minister for the Environment,Q17003775,10,0,1,environment minister in New South Wales,,,Q1449973,Minister for the Environment (New South Wales)
+Minister for the Environment,Minister for the Environment,Q107614344,10,0,1,position in the Council of Ministers of Jersey,,Q294414,Q83307,
+Minister for the Environment,Minister for the Environment,Q52685517,10,0,1,South Australian cabinet minister,,Q294414,Q1449973,
+Minister for the Environment,Minister for the Environment,Q139891016,10,0,1,New Zealand minister of the Crown,,Q4164871,,Minister for the Environment (New Zealand)
+Cabinet of Australia,Cabinet of Australia,Q2028178,10,1,1,council of senior federal ministers of Australia,Federal cabinet,Q640506,,Cabinet of Australia
+Cabinet of Australia,Australian cabinet discounted potential security risks with nuclear energy,Q17667842,10,1,2,Wikinews article,,Q17633526,,
+Minister for Sport,sports minister,Q7579929,11,0,1,Minister in a government with responsibility for sport,minister for sport|minister of sport,Q4164871,Q83307,Sports minister
+Minister for Sport,Minister for Sport,Q11796981,11,0,1,Australian cabinet position,,Q4164871,Q7579929,Minister for Sport (Australia)
+Minister for Sport,Minister for Sport,Q55053641,11,0,1,Italian ministerial position,,Q4164871,Q27447034,
+Minister for Sport,Minister for Sport,Q104840604,11,0,1,minister in the Cabinet of Canada,,Q294414,Q7579929,Minister of Sport and Physical Activity
+Minister for Sport,Minister of Sports,Q87748605,11,0,1,Swedish minister,Minister for Sports,Q294414|Q4164871,Q7579929,Minister for Sports (Sweden)
+Minister for Sport,Minister for Sport,Q122955704,11,0,1,former ministry within the Cabinet of Victoria,,Q4164871,,Minister for Sport (Victoria)
+Minister for Sport,Minister for Sport and Civil Society,Q6865965,11,0,1,"junior minister in the Department for Culture, Media and Sport of the United Kingdom government","Minister for Sport, Civil Society and Loneliness|Parliamentary Under-Secretary of State for Sport, Tourism and Civil Society",Q4164871|Q294414,Q7579929,Minister for Sport and Civil Society
+Minister for Sport,"Minister for Sport, Health Improvement and Mental Health",Q18760239,11,0,1,portfolio in the Scottish Government,,Q4164871,Q83307,Minister for Social Care and Mental Wellbeing
+Minister for Sport,Minister for Sport (New South Wales),Q111536911,11,0,1,"former government minister in New South Wales, Australia","Minister for Sport and Recreation (New South Wales)|Minister for Sport, Recreation and Racing (New South Wales)|Minister for Sport, Multiculturalism, Seniors and Veterans",Q294414,Q83307,Minister for Sport (New South Wales)
+Minister for Sport,Minister for Sports and National Gaming,Q114496216,11,0,1,cabinet position in Papua New Guinea,,Q294414,Q83307,
+Minister for Sport,Minister for Sport and Recreation,Q85785660,11,0,2,New Zealand minister of the Crown,,Q294414,Q83307,Minister for Sport and Recreation (New Zealand)
+Minister for Sport,Minister for Sport and Recreation,Q25185015,11,0,2,position in the government of Western Australia,,,,Minister for Sport and Recreation (Western Australia)
+Minister for Sport,Minister for Sport and Recreation,Q139500152,11,0,2,Wikimedia disambiguation page,,Q4167410,,Minister for Sport and Recreation
+Cabinet of Australia,Cabinet of Australia,Q2028178,11,1,1,council of senior federal ministers of Australia,Federal cabinet,Q640506,,Cabinet of Australia
+Cabinet of Australia,Australian cabinet discounted potential security risks with nuclear energy,Q17667842,11,1,2,Wikinews article,,Q17633526,,
+Minister for Education,education minister,Q4018482,12,0,1,minister in charge of education matters,minister of education|minister for education|Minister of Education|education secretary,Q294414|Q4164871,Q83307,Education minister
+Minister for Education,Secretary of State for Education,Q3477306,12,0,1,United Kingdom government cabinet minister,Education Secretary|Education Minister|Minister for Education|British education minister|UK minister for Education|education minister uk|education minister britain,Q4164871,Q14214|Q4018482,Secretary of State for Education
+Minister for Education,Minister for Education,Q6865795,12,0,1,Cabinet position in New South Wales,"Minister for Education and Early Childhood Learning|Minister of Public Instruction (New South Wales)|Minister for Public Instruction (New South Wales)|Minister for Education (New South Wales)|Minister for Education and Youth Affairs|Minister for Education, Training and Youth Affairs|Minister for Education and Training",Q4164871,Q4018482,Minister for Education and Early Learning
+Minister for Education,Minister for Education and Science,Q10686263,12,0,1,Swedish cabinet minister,Swedish Education Minister|Minister of Education of Sweden|Minister for Education,Q294414,Q4018482|Q10714707,Minister for Education (Sweden)
+Minister for Education,Minister for Education,Q11812510,12,0,1,Ghana education ministers,Minister for Education of Ghana,Q294414|Q4164871,Q4018482,Minister for Education (Ghana)
+Minister for Education,Minister for Education,Q11796967,12,0,1,position in the Australian Government,"Minister for School Education, Early Childhood and Youth",Q4164871,Q4018482,Minister for Education (Australia)
+Minister for Education,Minister for Education,Q33106246,12,0,1,Historic Welsh Cabinet position,Welsh Minister for Education,Q294414,Q4018482,Cabinet Minister for Education and the Welsh Language
+Minister for Education,Minister for Education,Q61961268,12,0,1,cabinet position in Singapore,Minister of Education of SIngapore,Q294414,Q4018482,
+Minister for Education,Minister for Education,Q60370401,12,0,1,Welsh Cabinet position,,Q294414,Q4018482,
+Minister for Education,Minister for Education,Q50826624,12,0,1,South Australian cabinet minister,,Q294414,Q4018482,
+Cabinet of Australia,Cabinet of Australia,Q2028178,12,1,1,council of senior federal ministers of Australia,Federal cabinet,Q640506,,Cabinet of Australia
+Cabinet of Australia,education minister,Q4018482,12,1,2,minister in charge of education matters,minister of education|minister for education|Minister of Education|education secretary,Q294414|Q4164871,Q83307,Education minister
+Cabinet of Australia,Secretary of State for Education,Q3477306,12,1,2,United Kingdom government cabinet minister,Education Secretary|Education Minister|Minister for Education|British education minister|UK minister for Education|education minister uk|education minister britain,Q4164871,Q14214|Q4018482,Secretary of State for Education
+Cabinet of Australia,Minister for Education,Q6865795,12,1,2,Cabinet position in New South Wales,"Minister for Education and Early Childhood Learning|Minister of Public Instruction (New South Wales)|Minister for Public Instruction (New South Wales)|Minister for Education (New South Wales)|Minister for Education and Youth Affairs|Minister for Education, Training and Youth Affairs|Minister for Education and Training",Q4164871,Q4018482,Minister for Education and Early Learning
+Cabinet of Australia,Minister for Education and Science,Q10686263,12,1,2,Swedish cabinet minister,Swedish Education Minister|Minister of Education of Sweden|Minister for Education,Q294414,Q4018482|Q10714707,Minister for Education (Sweden)
+Cabinet of Australia,Minister for Education,Q11812510,12,1,2,Ghana education ministers,Minister for Education of Ghana,Q294414|Q4164871,Q4018482,Minister for Education (Ghana)
+Cabinet of Australia,Minister for Education,Q11796967,12,1,2,position in the Australian Government,"Minister for School Education, Early Childhood and Youth",Q4164871,Q4018482,Minister for Education (Australia)
+Cabinet of Australia,Minister for Education,Q33106246,12,1,2,Historic Welsh Cabinet position,Welsh Minister for Education,Q294414,Q4018482,Cabinet Minister for Education and the Welsh Language
+Cabinet of Australia,Minister for Education,Q61961268,12,1,2,cabinet position in Singapore,Minister of Education of SIngapore,Q294414,Q4018482,
+Cabinet of Australia,Minister for Education,Q60370401,12,1,2,Welsh Cabinet position,,Q294414,Q4018482,
+Cabinet of Australia,Minister for Education,Q50826624,12,1,2,South Australian cabinet minister,,Q294414,Q4018482,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q11992117,13,0,1,Norway,,Q4164871,Q10540834|Q59344310,Minister of Agriculture and Food (Norway)
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q61649628,13,0,1,French cabinet position,,Q4164871,Q20202980,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q115645372,13,0,1,former Hungarian cabinet position (1967–1990),,Q294414,Q10540834|Q59344310|Q119013399,
+Minister of Agriculture and Food,Minister of Agriculture,Q107815192,13,0,1,cabinet position in Portugal,Minister of Agriculture and Food,Q294414,Q83307,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q114638423,13,0,1,cabinet position in Gabon,,Q294414,Q83307,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q136666774,13,0,1,position in Tuva,,Q294414,,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q136666497,13,0,1,position in Khakassia,,Q294414,,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q136666145,13,0,1,position in Mari El,,Q294414,,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q136666198,13,0,1,position in Tatarstan,,Q294414,,
+Minister of Agriculture and Food,Minister of Agriculture and Food,Q136665890,13,0,1,position in Dagestan,,Q294414,,
+Government of Norway,Government of Norway,Q1770849,13,1,1,"conducts, directs and supervises the policy of the Kingdom of Norway, both internally and externally",cabinet of Norway|Norwegian Government|Norway government,Q7188|Q126718835|Q43229,Q7188,Government of Norway
+Government of Norway,government agency in Norway,Q7061341,13,1,2,,Norwegian government agency,,Q327333,
+Government of Norway,Norwegian Government Security and Service Organisation,Q5588670,13,1,2,,DSS,Q327333|Q17773527,,Norwegian Government Security and Service Organisation
+Government of Norway,Norwegian Government Building R6,Q62080763,13,1,2,Government building 6,Regjeringsbygg 6|Govern,Q41176,,
+Government of Norway,Norwegian Government-in-exile,Q12716574,13,1,2,Norwegian government established in London after the German invasion (1940–1945),London Cabinet,,,
+Government of Norway,government agencies in Norway,Q99297702,13,1,2,Wikimedia list article,Norwegian government agencies,Q13406463,,Government agencies in Norway
+Government of Norway,Norwegian government considers prosecuting Scientology,Q17656476,13,1,2,Wikinews article,,Q17633526,,

@@ -1,0 +1,10 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Camerupt,Camerupt,Q2251292,0,0,1,Pokémon species,Bakuuda,Q25930490|Q25930733,Q1569167,Camerupt
+Camerupt,Cameruptite,Q56676303,0,0,1,Mega Stone,Bakuudanite,Q56676211,,
+Camerupt,Numel and Camerupt,Q12699003,0,0,1,evolution of a Pokémon species,,Q15795637,,
+Quilava,Quilava,Q2295660,1,0,1,Pokémon species,Magmarashi,Q25930490,Q1569167,Quilava
+Quilava,evolutionary line of Cyndaquil,Q3145024,1,0,1,evolution of a Pokémon species,"Cyndaquil|Quilava|Typhlosion|Cyndaquil, Quilava and Typhlosion",Q15795637,,"Cyndaquil, Quilava, and Typhlosion"
+Quilava,Pidgeotto,Q2090182,1,0,2,Pokémon species,Pigeon,Q25930493|Q25930498,Q1569167,Pidgeotto
+Quilava,evolutionary line of Pidgey,Q12052421,1,0,2,evolution of a Pokémon species,"Pidgey|Pidgeotto|Pidgeot|Pidgey, Pidgeotto and Pidgeot",Q15795637,,"Pidgey, Pidgeotto, and Pidgeot"
+Quilava,Pidgeot,Q2337000,1,0,2,Pokémon species,Pigeot,Q25930493|Q25930498,Q1569167,Pidgeot
+Quilava,Pidgeotite,Q56676336,1,0,2,Mega Stone,Pigeotnite,Q56676211,,

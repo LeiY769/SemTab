@@ -1,0 +1,5 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Frank Carlson Library,Frank Carlson Library,Q5485679,0,0,1,"library in Concordia, Kansas, United States",,Q12317349|Q28564,,Frank Carlson Library
+Frank Carlson Library,Frank Carlson Library,Q69475846,0,0,1,"public library system in Concordia, Kansas, United States",,Q26271642|Q16860836,,
+Placentia Library District,Placentia Library District,Q66364339,1,0,1,"library district of California, USA",,Q16860836,,Placentia Library District
+Placentia Library District,Placentia Library,Q66375430,1,0,1,"public library in Placentia, California, USA",Placentia Library District,Q12317349|Q28564,,

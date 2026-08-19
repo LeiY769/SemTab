@@ -1,0 +1,25 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+TYC 4107-1336-1,TYC 4107-1336-1,Q87797525,0,0,1,possible red giant branch star in the constellation Camelopardalis,,Q72802727,,
+TYC 4107-1336-1,TYC 4107-1476-1,Q83192176,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-409-1,Q83617077,0,0,2,star in the constellation Camelopardalis,,Q523,,
+TYC 4107-1336-1,TYC 4107-839-1,Q87797724,0,0,2,possible red giant branch star in the constellation Camelopardalis,,Q72802727,,
+TYC 4107-1336-1,TYC 4107-836-1,Q88644751,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-1109-1,Q88644544,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-704-1,Q90123861,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-26-1,Q87797712,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-953-1,Q88644710,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,TYC 4107-1456-1,Q87797649,0,0,2,star in the constellation Camelopardalis,,Q523|Q67206691,,
+TYC 4107-1336-1,1336-1337 one-year-period,Q61706505,0,0,2,period of about one year starting in 1336 and ending in 1337,1336/1337 season,Q30227593,,
+2MASS J08423783-4712160,2MASS J08423783-4712160,Q94590704,1,0,1,star,,Q72802727|Q523,,
+2MASS J15092317+6724518,2MASS J15092317+6724518,Q86513292,2,0,1,possible red giant branch star in the constellation Ursa Minor,,Q72802727|Q67206691,,
+BD-15 3163,BD-15 3163,Q90976992,3,0,1,possible red giant branch star in the constellation Crater,,Q72802727,,
+BD-15 3163,Defensin beta 15,Q28556860,3,0,2,mammalian protein found in Rattus norvegicus,beta-defensin 15|Defb15|BD-15|beta-defensin 15-like,Q8054,Q8054,
+BD-15 3163,Defb15,Q18299423,3,0,2,protein-coding gene in the species Mus musculus,BD-15|defensin beta 15,Q7187,Q20747295,
+BD-15 3163,Eta Ophiuchi B,Q66476821,3,0,2,,η Ophiuchi B|η Oph B|BD-15 4467B|ADS 10374 B|IDS 17046-1536 B|WDS J17104-1544B|GJ 656.1 B,Q523|Q50053|Q2247863|Q13890|Q471805,,
+BD-15 3163,Eta Ophiuchi A,Q66477234,3,0,2,,η Oph A|GJ 9587 A|GJ 656.1 A|η Ophiuchi A|ADS 10374 A|BD-15 4467A|Renson 43800|WDS J17104-1544A|TYC 6232-1333-1,Q13890|Q2247863|Q523|Q50053|Q471805|Q1142192,,
+BD-15 3163,Gliese 876,Q740780,3,0,2,star in the constellation Aquarius,IL Aquarii|Ross 780|BD-15 6290,Q523|Q6243|Q797219|Q2247863|Q2168098|Q67206785,,Gliese 876
+BD-15 3163,Gliese 876 d,Q869944,3,0,2,exoplanet,GJ 876 d|BD-15 6290d|TIC 188580272d,Q523|Q18611609|Q44559,,Gliese 876 d
+BD-15 3163,Gliese 876 b,Q1061391,3,0,2,extrasolar planet,BD-15 6290b|GJ 876 b|TIC 188580272b,Q44559|Q18611609|Q523,,Gliese 876 b
+BD-15 3163,Gliese 876 e,Q583903,3,0,2,extrasolar planet,BD-15 6290e|TIC 188580272e,Q44559|Q18611609|Q523,,Gliese 876 e
+BD-15 3163,Gliese 876 c,Q1152531,3,0,2,extrasolar planet,BD-15 6290c|GJ 876 c|TIC 188580272c,Q44559|Q523|Q18611609,,Gliese 876 c
+BD-15 3163,Faridpur District,Q2093552,3,0,2,"district in Dhaka Division, Bangladesh",,Q152732,,Faridpur District

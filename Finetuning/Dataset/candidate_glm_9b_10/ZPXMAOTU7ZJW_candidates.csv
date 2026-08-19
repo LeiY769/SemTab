@@ -1,0 +1,324 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Northside Hospital heliport,Northside Hospital heliport,Q74842681,0,0,1,"heliport in Pinellas County, Florida, United States",,Q502074,,
+Northside Hospital heliport,Northside Hospital heliport,Q61667004,0,0,1,"heliport in Fulton County, Georgia, United States",GA55,Q502074,,
+Northside Hospital heliport,Northside Hospital Atlanta,Q7059745,0,0,2,"hospital in Georgia, United States",Northside Hospital,Q16917|Q163740,,Northside Hospital Atlanta
+Northside Hospital heliport,Northside Hospital System,Q122929247,0,0,2,"Hospital network in Georgia, United States",,Q4287745|Q1774587,,Northside Hospital System
+Northside Hospital heliport,Northside Hospital-Cherokee heliport,Q61667049,0,0,2,"heliport in Cherokee County, Georgia, United States",8GE8,Q502074,,
+Northside Hospital heliport,heliport,Q502074,0,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Northside Hospital heliport,HELIPORT,Q138638828,0,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Northside Hospital heliport,Eliporto di Lierna,Q134386454,0,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Northside Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,0,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Northside Hospital heliport,Heliport in the Banco de La Republica,Q87031659,0,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Northside Hospital heliport,Heliport Rotterdam,Q130534380,0,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Northside Hospital heliport,Monaco Heliport,Q662619,0,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Northside Hospital heliport,Heliport of San Carlos,Q87033631,0,0,2,heliport in Colombia,SQNC,Q502074,,
+Northside Hospital heliport,Héliport Brasserie,Q89431682,0,0,2,restaurant in Belgium,,Q11707,,
+Northside Hospital heliport,Heliport of Banco De Occidente,Q87031829,0,0,2,heliport of Colombia,SQBO,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital heliport,Q61676717,1,0,1,"heliport in Ohio, United States",OH25,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital heliport,Q61667000,1,0,1,"heliport in DeKalb County, Georgia, United States",1GE8,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital,Q5592136,1,0,2,"hospital in Georgia, United States",Grady Hospital|Grady,Q16917,,Grady Memorial Hospital
+Grady Memorial Hospital heliport,Grady Memorial Hospital,Q5592137,1,0,2,"hospital in Ohio, United States",,Q4830453,,OhioHealth Grady Memorial Hospital
+Grady Memorial Hospital heliport,"Grady Memorial Hospital centennial: history and development, 1892-1992",Q39231843,1,0,2,"scientific article published on November 1, 1992",,Q13442814,,
+Bridge Building,Bridge Building,Q114523533,2,0,1,episode of Transformers: Rescue Bots (S4 E2),,Q21191270,,
+Bridge Building,Bridge Building,Q20504788,2,0,1,painting by G. G. Snyder,,Q3305213,,
+Bridge Building,Bridge building,Q106641992,2,0,1,high-rise office building located in the Val de Seine business district near Paris,Bridge,Q18142|Q1021645,,
+Bridge Building,Bridge Building,Q119356204,2,0,1,"painting by Ernest Hood (1932–1988), University of Strathclyde",,Q3305213,,
+Bridge Building,Bridge Building,Q119437125,2,0,1,"painting by Aileen Campbell (b.1968), Art in Healthcare",,Q3305213,,
+Bridge Building,Bridge Building,Q61666995,2,0,1,"heliport in Fulton County, Georgia, United States",GA66,Q502074,,
+Bridge Building,Bridge Builder,Q913601,2,0,1,video game series,Bridge-building simulator,Q7058673,,
+Bridge Building,Bridge-Building Brotherhood,Q138738,2,0,1,religious association,,Q43229,,Bridge-Building Brotherhood
+Bridge Building,Bridge Buildings,Q26501884,2,0,1,"building in Bideford, Torridge, Devon, England, UK",,Q41176,,
+Bridge Building,Bridge-Building: Reinterpreting a Historic Typology,Q112886964,2,0,1,2011 master's thesis by Dagan Lin at University of Auckland,,Q1907875,,
+Virgil,Virgil,Q1398,3,0,1,Roman poet (1st century BC),Publius Vergilius Maro|Vergil|Mantuan Swan|Swan of Mantua,Q5,,Virgil
+Virgil,Virgil,Q17505763,3,0,1,male given name,Virgil (given name)|Virgil (first name),Q12308941,,
+Virgil,V. Craig Jordan,Q7906022,3,0,1,American pharmacologist (1947–2024),V Craig Jordan|Virgil Craig Jordan,Q5,,V. Craig Jordan
+Virgil,Virgilio,Q694010,3,0,1,male given name,Virgilio (first name)|Virgilio (given name),Q12308941,,
+Virgil,Virgil Percec,Q12743550,3,0,1,Romanian chemist,,Q5,,Virgil Percec
+Virgil,Virgil van Dijk,Q133903,3,0,1,Dutch association football player (born 1991),,Q5,,Virgil van Dijk
+Virgil,Virgilia oroboides,Q13035160,3,0,1,species of plant,,Q16521,,
+Virgil,Virgil L. Sharpton,Q7933781,3,0,1,American scientist,Buck Sharpton|V. L. Sharpton|Virgil Sharpton,Q5,,Virgil L. Sharpton
+Virgil,Virgil Snyder,Q7933817,3,0,1,American mathematician (1869-1950),,Q5,,Virgil Snyder
+Virgil,Virgil Solis,Q563366,3,0,1,German printmaker (1514-1562),"Virgilius I Solis|Vergilio Sole|Virgilius Solis|Vergilius Solis|Virgilius Solis the Elder|Virgilius, the elder Solis|Virgilio Sole|Virgilius, I Solis|Virgilius Solis (I)|Virgil Solis (I)|Virgilius Solis (1514)|Virgil: Solis|virgil solls|virgil solis|virgil solis des alteren|solis virgil|V. Solis|Solis",Q5,,Virgil Solis
+Morrison,Morrison,Q374745,4,0,1,"city in Whiteside County, Illinois, United States of America","Morrison, Illinois|Morrison, IL",Q1093829|Q62049,,"Morrison, Illinois"
+Morrison,Morrison,Q2201583,4,0,1,"town in Oklahoma, United States","Morrison, Oklahoma|Morrison, OK",Q15127012,,"Morrison, Oklahoma"
+Morrison,Morrison,Q2780711,4,0,1,family name,,Q101352,,Morrison (surname)
+Morrison,Morrison River,Q22393489,4,0,1,"watercourse in Ontario, Canada",,Q4022,,Morrison River
+Morrison,Morrison,Q2275047,4,0,1,"town in Jefferson County, Colorado, United States","Morrison, CO",Q15127012,,"Morrison, Colorado"
+Morrison,Morrison,Q28944801,4,0,1,male given name,Morrison (given name),Q12308941,,
+Morrison,Alexander Morrison,Q2642700,4,0,1,Scottish botanist (1849-1913),Morrison,Q5,,Alexander Morrison (botanist)
+Morrison,Morrison Hotel,Q214139,4,0,1,1970 studio album by The Doors,,Q482994,,Morrison Hotel
+Morrison,Morrison Waite,Q1349419,4,0,1,American jurist (1816–1888); Chief Justice of the United States Supreme Court from 1874 to 1888,Morrison Remick Waite|Mott Waite|Morrison R. Waite,Q5,,Morrison Waite
+Morrison,2410 Morrison,Q148932,4,0,1,asteroid,Morrison,Q3863,,2410 Morrison
+Morrison,James Morrison,Q451938,4,0,2,US actor and filmmaker (born 1954),JP Morrison|J. P. Morrison,Q5,,James Morrison (actor)
+Morrison,James Morrison,Q316301,4,0,2,British singer,James Morrison Catchpole,Q5,,James Morrison (singer)
+Morrison,James W. Morrison,Q3806685,4,0,2,American actor (1888–1974),James Morrison|James Woods Morrison,Q5,,James W. Morrison
+Morrison,James Morrison,Q74178,4,0,2,association football player,James Clark Morrison,Q5,,James Morrison (footballer)
+Morrison,James Morrison,Q6140042,4,0,2,British politician (1873–1934),James Archibald Morrison,Q5,,James Morrison (British politician)
+Morrison,James Morrison,Q110536173,4,0,2,"oral surgery researcher at St John's Hospital, NHS Lothian",,Q5,,
+Morrison,James Morrison,Q110536239,4,0,2,psychiatry researcher at Oregon Health & Science University,,Q5,,
+Morrison,James Morrison,Q110536313,4,0,2,biomechanics researcher at Simon Fraser University,,Q5,,
+Morrison,James Morrison,Q108828631,4,0,2,chemistry researcher at University of Victoria,,Q5,,
+Morrison,James Morrison,Q6140045,4,0,2,Republican member of the Kansas House of Representatives (1942–2010),"James Frank ""Jim"" Morrison",Q5,,James Morrison (Kansas politician)
+Morrison,Van Morrison,Q272203,4,0,2,Northern Irish musician,George Morrison|George Ivan Morrison|Sir George Morrison|Sir George Ivan Morrison|Van the Man|Ivan Morrison,Q5,,Van Morrison
+Morrison,Van Morrison's albums in chronological order,Q60725533,4,0,2,Wikimedia albums discography,Van Morrison discography - albums|Van Morrison albums discography,Q59191021,,
+Morrison,Van Morrison concert,Q99429611,4,0,2,1980 concert by Van Morrison performed during Montreux Jazz Festival,,Q182832,,
+Morrison,Van Morrison compilation albums discography,Q68556924,4,0,2,Wikimedia compilation albums discography,Van Morrison discography - compilation albums|discography of Van Morrison compilation albums|discography from Van Morrison compilation albums,Q61033736,,
+Morrison,Van Morrison discography,Q4819741,4,0,2,Wikimedia artist discography,discography of Van Morrison|discography from Van Morrison,Q104635718,,Van Morrison discography
+Morrison,Van Morrison singles discography,Q107119016,4,0,2,Wikimedia singles discography,Van Morrison discography - singles|discography of Van Morrison singles|discography from Van Morrison singles,Q59248059,,
+Morrison,Van Morrison: The Concert,Q5675589,4,0,2,1990 concert video by Van Morrison,,Q10590726,,Van Morrison: The Concert
+Morrison,Van Morrison at the Movies – Soundtrack Hits,Q7913535,4,0,2,compilation album by Van Morrison,,Q482994,,Van Morrison at the Movies – Soundtrack Hits
+Morrison,Van Morrison: Too Late to Stop Now,Q7913526,4,0,2,book by Steve Turner,,Q7725634,,Van Morrison: Too Late to Stop Now
+Morrison,Van Morrison: No Surrender,Q7913525,4,0,2,"Biography of musician Van Morrison, written by Johnny Rogan",,Q7725634,,Van Morrison: No Surrender
+Union Hospital heliport,Union Hospital heliport,Q61668895,5,0,1,heliport in Indiana,60II,Q502074,,
+Union Hospital heliport,Union Hospital heliport,Q61676727,5,0,1,"heliport in Ohio, United States",13OI,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital heliport,Q61676717,6,0,1,"heliport in Ohio, United States",OH25,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital heliport,Q61667000,6,0,1,"heliport in DeKalb County, Georgia, United States",1GE8,Q502074,,
+Grady Memorial Hospital heliport,Grady Memorial Hospital,Q5592136,6,0,2,"hospital in Georgia, United States",Grady Hospital|Grady,Q16917,,Grady Memorial Hospital
+Grady Memorial Hospital heliport,Grady Memorial Hospital,Q5592137,6,0,2,"hospital in Ohio, United States",,Q4830453,,OhioHealth Grady Memorial Hospital
+Grady Memorial Hospital heliport,"Grady Memorial Hospital centennial: history and development, 1892-1992",Q39231843,6,0,2,"scientific article published on November 1, 1992",,Q13442814,,
+Good Samaritan Hospital heliport,Good Samaritan Hospital heliport,Q3913698,7,0,1,,,Q502074,,Good Samaritan Hospital Heliport
+Good Samaritan Hospital heliport,Good Samaritan Hospital heliport,Q61668912,7,0,1,"heliport in Knox County, Indiana, United States",24II,Q502074,,
+Good Samaritan Hospital heliport,Good Samaritan Hospital heliport,Q74833739,7,0,1,"heliport in Los Angeles County, California, United States",,Q502074,,
+Good Samaritan Hospital heliport,Good Samaritan Hospital heliport,Q61676646,7,0,1,"heliport in Ohio, United States",92OI,Q502074,,
+Good Samaritan Hospital heliport,Good Samaritan Hospital,Q5582919,7,0,2,"hospital in Los Angeles, California, United States",,Q16917,,Good Samaritan Hospital (Los Angeles)
+Good Samaritan Hospital heliport,Good Samaritan Regional Medical Center,Q5582923,7,0,2,"healthcare organization in Corvallis, United States",Corvallis General Hospital|Good Samaritan Hospital,Q16917|Q4287745,,Good Samaritan Regional Medical Center (Oregon)
+Good Samaritan Hospital heliport,MedStar Good Samaritan Hospital,Q6804940,7,0,2,"hospital in Baltimore, Maryland, United States",Good Samaritan Hospital,Q16917,,MedStar Good Samaritan Hospital
+Good Samaritan Hospital heliport,Legacy Good Samaritan Medical Center,Q6517242,7,0,2,"hospital in Oregon, United States",Good Samaritan Hospital|Good Sam,Q16917,,Legacy Good Samaritan Medical Center
+Good Samaritan Hospital heliport,Good Samaritan Hospital,Q5582912,7,0,2,"private teaching and speciality health care facility in Cincinnati, Ohio, United States",,Q16917,,TriHealth Good Samaritan Hospital
+Good Samaritan Hospital heliport,Good Samaritan Hospital,Q5582914,7,0,2,"acute care hospital in Los Gatos, San Jose, California, United States",,Q16917,,Good Samaritan Hospital (San Jose)
+Good Samaritan Hospital heliport,Good Samaritan Medical Center,Q5582916,7,0,2,"acute care hospital in West Palm Beach, Florida, United States",Good Samaritan Hospital,Q16917,,"Good Samaritan Medical Center (West Palm Beach, Florida)"
+Good Samaritan Hospital heliport,Good Samaritan University Hospital,Q14706292,7,0,2,"hospital in West Islip, New York, United States",,Q16917,,Good Samaritan University Hospital
+Good Samaritan Hospital heliport,Good Samaritan Hospital,Q5582913,7,0,2,"full-service hospital in Dayton, Ohio, United States",,Q16917|Q64578911,,Good Samaritan Hospital (Dayton)
+Good Samaritan Hospital heliport,Good Samaritan Hospital,Q5582915,7,0,2,"hospital in Vincennes, Indiana, United States",,Q16917,,Good Samaritan Hospital (Vincennes)
+Good Samaritan Hospital heliport,heliport,Q502074,7,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Good Samaritan Hospital heliport,HELIPORT,Q138638828,7,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Good Samaritan Hospital heliport,Eliporto di Lierna,Q134386454,7,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Good Samaritan Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,7,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Good Samaritan Hospital heliport,Heliport in the Banco de La Republica,Q87031659,7,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Good Samaritan Hospital heliport,Heliport Rotterdam,Q130534380,7,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Good Samaritan Hospital heliport,Monaco Heliport,Q662619,7,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Good Samaritan Hospital heliport,Heliport of San Carlos,Q87033631,7,0,2,heliport in Colombia,SQNC,Q502074,,
+Good Samaritan Hospital heliport,Héliport Brasserie,Q89431682,7,0,2,restaurant in Belgium,,Q11707,,
+Good Samaritan Hospital heliport,Heliport of Banco De Occidente,Q87031829,7,0,2,heliport of Colombia,SQBO,Q502074,,
+Children's Hospital heliport,Children's Hospital heliport,Q61723778,8,0,1,"heliport in Ohio, United States",,Q502074,,
+Children's Hospital heliport,Children's Hospital heliport,Q61671712,8,0,1,,DC17,Q502074,,
+Children's Hospital heliport,Children's Hospital heliport,Q61723697,8,0,1,"heliport in Louisiana, United States",,Q502074,,
+Children's Hospital heliport,children's hospital,Q644264,8,0,2,hospital which offers its services exclusively to children,"pediatric hospital|paediatric hospital|childrens hospital|children hospital|Hospitals, Pediatric|Children's hospital",,Q1391390,Children's hospital
+Children's Hospital heliport,Childrens Hospital,Q2888585,8,0,2,American television series,Children's Hospital,Q5398426,,Childrens Hospital
+Children's Hospital heliport,Children's Hospital of Philadelphia,Q4569202,8,0,2,"hospital in Pennsylvania, United States",CHOP|The Children's Hospital of Philadelphia,Q644264|Q163740,,Children's Hospital of Philadelphia
+Children's Hospital heliport,Boston Children's Hospital,Q1000479,8,0,2,"children's hospital in Boston, Massachusetts, United States",Children's Hospital Boston|Childrens Hospital Corporation,Q16917|Q163740,,Boston Children's Hospital
+Children's Hospital heliport,Park Hospital,Q11874860,8,0,2,"hospital in Helsinki, Finland",Stenbäckinkatu 11|Children's Hospital,Q644264,,
+Children's Hospital heliport,Béchir Hamza Children's Hospital,Q12242590,8,0,2,hospital in Tunisia,Children's Hospital,Q16917,,
+Children's Hospital heliport,Children's Hospital of Orange County,Q5098129,8,0,2,"hospital in California, United States",Children's Hospital OC|CHOC Children's,Q16917,,Rady Children's Health
+Children's Hospital heliport,Children's Hospital of Eastern Ontario,Q2945735,8,0,2,"major children's hospital and university teaching hospital in Ottawa, Ontario",CHEO,Q16917|Q502074|Q163740|Q708676,,Children's Hospital of Eastern Ontario
+Children's Hospital heliport,UPMC Children's Hospital of Pittsburgh,Q5098130,8,0,2,"hospital in Pennsylvania, United States",Children's Hospital of Pittsburgh of UPMC,Q644264,,UPMC Children's Hospital of Pittsburgh
+Children's Hospital heliport,Children's Hospital of The King's Daughters,Q5098131,8,0,2,"hospital in Virginia, United States",,Q16917,,Children's Hospital of The King's Daughters
+Children's Hospital heliport,heliport,Q502074,8,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Children's Hospital heliport,HELIPORT,Q138638828,8,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Children's Hospital heliport,Eliporto di Lierna,Q134386454,8,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Children's Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,8,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Children's Hospital heliport,Heliport in the Banco de La Republica,Q87031659,8,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Children's Hospital heliport,Heliport Rotterdam,Q130534380,8,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Children's Hospital heliport,Monaco Heliport,Q662619,8,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Children's Hospital heliport,Heliport of San Carlos,Q87033631,8,0,2,heliport in Colombia,SQNC,Q502074,,
+Children's Hospital heliport,Héliport Brasserie,Q89431682,8,0,2,restaurant in Belgium,,Q11707,,
+Children's Hospital heliport,Heliport of Banco De Occidente,Q87031829,8,0,2,heliport of Colombia,SQBO,Q502074,,
+Norden Systems heliport,Norden Systems heliport,Q61723735,9,0,1,"heliport in New Hampshire, United States",,Q502074,,
+Norden Systems heliport,Norden Systems heliport,Q61671675,9,0,1,"heliport in Connecticut, United States",1CT0,Q502074,,
+Norden Systems heliport,Norden Systems,Q107324535,9,0,2,,,Q783794,,Norden Systems
+St. Francis Hospital heliport,St. Francis Hospital heliport,Q61671649,10,0,1,"heliport in Connecticut, United States",0CT5,Q502074,,
+St. Francis Hospital heliport,St. Francis Hospital heliport,Q61711885,10,0,1,"heliport in Missouri, United States",,Q502074,,
+St. Francis Hospital heliport,St. Francis Hospital heliport,Q61724370,10,0,1,"heliport in Oklahoma, United States",,Q502074,,
+St. Francis Hospital heliport,St. Francis Hospital,Q123900550,10,0,2,"former hospital (demolished) in Miami Beach, Florida",,Q64578911,,
+St. Francis Hospital heliport,UCSF Health Saint Francis Hospital,Q7401259,10,0,2,"hospital in California, United States",Saint Francis Memorial Hospital|Saint Francis Hospital|St. Francis Hospital|UCSF Saint Francis Hospital,Q16917|Q94670589,,UCSF Health Hyde Hospital
+St. Francis Hospital heliport,St. Francis Hospital,Q7587970,10,0,2,"hospital in Flower Hill, New York, United States",St. Francis Hospital and Heart Center|St. Francis|SFH|Saint Francis Hospital|St. Francis Sanitorium|St. Francis Home,Q16917,,"St. Francis Hospital (Flower Hill, New York)"
+St. Francis Hospital heliport,St. Francis Hospital,Q7587971,10,0,2,"hospital in Wisconsin, United States",,Q16917,,St. Francis Hospital (Milwaukee)
+St. Francis Hospital heliport,Saint Francis Hospital - Evanston,Q7401257,10,0,2,"Hospital in Evanston, Illinois, United States",St. Francis Hospital,Q16917|Q4287745,,Saint Francis Hospital - Evanston
+St. Francis Hospital heliport,St. Francis Community Health Center,Q100324090,10,0,2,"hospital in Jersey City, New Jersey",Saint Francis Community Health Center|St. Francis Hospital|Saint Francis Hospital,Q16917|Q64578911,,
+St. Francis Hospital heliport,St. Francis Hospital,Q7587967,10,0,2,"hospital in Columbus, Georgia, United States",St. Francis-Emory Healthcare,Q16917,,"St. Francis Hospital (Columbus, Georgia)"
+St. Francis Hospital heliport,St. Francis Medical Center,Q22060915,10,0,2,"hospital in Trenton, New Jersey",Saint Francis Hospital|St. Francis Hospital,Q16917,,"St. Francis Medical Center (Trenton, New Jersey)"
+St. Francis Hospital heliport,St. Francis Hospital,Q30289037,10,0,2,"hospital in Litchfield, Illinois, United States",,Q4287745|Q16917,,
+St. Francis Hospital heliport,St. Francis Hospital,Q25212921,10,0,2,"former hospital in Colorado Springs, Colorado, United States",,Q16917|Q64578911,,"St. Francis Health Center (Colorado Springs, Colorado)"
+Middlesex Hospital heliport,Middlesex Hospital heliport,Q61671636,11,0,1,"heliport in Essex, Middlesex County, Connecticut, United States",CT97,Q502074,,
+Middlesex Hospital heliport,Middlesex Hospital heliport,Q61723674,11,0,1,"heliport in Middletown, Middlesex County, Connecticut, United States",,Q502074,,
+Middlesex Hospital heliport,Middlesex Hospital,Q1431700,11,0,2,"former hospital in London, UK",,Q1813474|Q64578911,,Middlesex Hospital
+Middlesex Hospital heliport,Middlesex Hospital,Q30280541,11,0,2,"healthcare organization in Middletown, United States",,Q4287745|Q16917,,Middlesex Hospital (Connecticut)
+Middlesex Hospital heliport,Middlesex Hospital Medical School,Q24638021,11,0,2,Medical school based at Middlesex Hospital from 1746 until 1987 when it merged with University College Hospital,,Q2385804,,
+Middlesex Hospital heliport,Fitzrovia Chapel,Q17549757,11,0,2,"former chapel of Middlesex Hospital, London",Middlesex Hospital Chapel,Q108325,,Fitzrovia Chapel
+Middlesex Hospital heliport,Middlesex Hospital,Q93359049,11,0,2,scientific article published on 01 November 1829,,Q13442814,,
+Middlesex Hospital heliport,MIDDLESEX Hospital,Q78644129,11,0,2,scientific article published on 01 May 1959,,Q13442814,,
+Middlesex Hospital heliport,Middlesex Hospital,Q58728362,11,0,2,scientific article published on 01 October 1859,,Q13442814,,
+Middlesex Hospital heliport,Middlesex Hospital,Q93361365,11,0,2,scientific article published on 01 August 1830,,Q13442814,,
+Middlesex Hospital heliport,heliport,Q502074,11,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Middlesex Hospital heliport,HELIPORT,Q138638828,11,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Middlesex Hospital heliport,Eliporto di Lierna,Q134386454,11,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Middlesex Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,11,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Middlesex Hospital heliport,Heliport in the Banco de La Republica,Q87031659,11,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Middlesex Hospital heliport,Heliport Rotterdam,Q130534380,11,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Middlesex Hospital heliport,Monaco Heliport,Q662619,11,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Middlesex Hospital heliport,Heliport of San Carlos,Q87033631,11,0,2,heliport in Colombia,SQNC,Q502074,,
+Middlesex Hospital heliport,Héliport Brasserie,Q89431682,11,0,2,restaurant in Belgium,,Q11707,,
+Middlesex Hospital heliport,Heliport of Banco De Occidente,Q87031829,11,0,2,heliport of Colombia,SQBO,Q502074,,
+Medical Center heliport,Medical Center heliport,Q61723755,12,0,1,"heliport in New York, United States",,Q502074,,
+Medical Center heliport,Medical Center heliport,Q61667074,12,0,1,"heliport in Muscogee County, Georgia, USA",01GA,Q502074,,
+Medical Center heliport,Medical Center heliport,Q61671609,12,0,1,"heliport in Connecticut, United States",CT12,Q502074,,
+Community Hospital heliport,Community Hospital heliport,Q61723786,13,0,1,"heliport in Ohio, United States",,Q502074,,
+Community Hospital heliport,Community Hospital heliport,Q61720893,13,0,1,"heliport in Texas, United States",,Q502074,,
+Community Hospital heliport,Community Hospital heliport,Q61671565,13,0,1,heliport in Alabama,AL83,Q502074,,
+Community Hospital heliport,Community Hospital heliport,Q74843709,13,0,1,"heliport in Lake County, Indiana, United States",,Q502074,,
+Community Hospital heliport,Community Hospital heliport,Q61668410,13,0,1,"heliport in Madison County, Indiana, United States",01IN,Q502074,,
+Community Hospital heliport,community hospital,Q5154967,13,0,2,type of hospital,,,Q16917,Community hospital
+Community Hospital heliport,Community Hospital,Q87932270,13,0,2,"hospital in Munster, Indiana, United States",,Q16917,,
+Community Hospital heliport,Community Hospital,Q50039593,13,0,2,"healthcare organization in Grand Junction, United States",,Q4287745|Q16917,,
+Community Hospital heliport,Kenney Memorial Hospital,Q117011282,13,0,2,"former Newark, New Jersey hospital",Community Hospital|New Salem Baptist Church|Booker T. Washington Community Hospital,Q64578911|Q16970,,Kenney Memorial Hospital
+Community Hospital heliport,Community Hospital of Anaconda Ems heliport,Q61674733,13,0,2,"heliport in Montana, United States",3MT5,Q502074,,
+Community Hospital heliport,Community Hospital of De Queen heliport,Q74840299,13,0,2,"heliport in Sevier County, Arkansas, United States",,Q502074,,
+Community Hospital heliport,heliport,Q502074,13,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Community Hospital heliport,HELIPORT,Q138638828,13,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Community Hospital heliport,Eliporto di Lierna,Q134386454,13,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Community Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,13,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Community Hospital heliport,Heliport in the Banco de La Republica,Q87031659,13,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Community Hospital heliport,Heliport Rotterdam,Q130534380,13,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Community Hospital heliport,Monaco Heliport,Q662619,13,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Community Hospital heliport,Heliport of San Carlos,Q87033631,13,0,2,heliport in Colombia,SQNC,Q502074,,
+Community Hospital heliport,Héliport Brasserie,Q89431682,13,0,2,restaurant in Belgium,,Q11707,,
+Community Hospital heliport,Heliport of Banco De Occidente,Q87031829,13,0,2,heliport of Colombia,SQBO,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q7252443,14,0,1,,,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q61724559,14,0,1,"heliport in South Carolina, United States",,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q61711704,14,0,1,"heliport in Michigan, United States",,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q61725928,14,0,1,"heliport in Washington, United States",,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q61670820,14,0,1,"heliport in Alaska, United States",AK38,Q502074,,
+Providence Hospital heliport,Providence Hospital heliport,Q61711428,14,0,1,"heliport in Alabama, United States",,Q502074,,
+Providence Hospital heliport,Providence Hospital,Q30280436,14,0,2,"healthcare organization in Washington D.C., United States",,Q4287745|Q16917,,"Providence Hospital (Washington, D.C.)"
+Providence Hospital heliport,Providence Hospital,Q7252441,14,0,2,"hospital in Columbia, South Carolina, United States",,Q16917,,"Providence Hospital (Columbia, South Carolina)"
+Providence Hospital heliport,Providence Hospital,Q30280416,14,0,2,"healthcare organization in Southfield, United States",,Q4287745|Q16917,,
+Providence Hospital heliport,Providence Hospital,Q135526243,14,0,2,"hospital in Quezon City, Philippines",,Q16917,,
+Providence Hospital heliport,Providence Hospital,Q130551550,14,0,2,"Hospital in Port Harcourt, Rivers State, Nigeria",,Q16917,,
+Emerus,Emerus,Q17425483,15,0,1,genus of plants,,Q16521,,
+Emerus,Emerus,Q15807980,15,0,1,,,Q5,,
+Emerus,Emerus tomentosus,Q15534513,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus procumbens,Q15534994,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus simpliciusculus,Q15534269,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus macropterus,Q15534918,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus sphaerospermus,Q15534361,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus tetrapterus,Q15534431,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus marginatus,Q15534957,15,0,1,species of plant,,Q16521,,
+Emerus,Emerus pubescens,Q15534147,15,0,1,species of plant,,Q16521,,
+Circus Circus,Circus Circus Las Vegas,Q1092961,16,0,1,"casino hotel in Las Vegas, Nevada, USA",,Q133215|Q27686,,Circus Circus Las Vegas
+Circus Circus,Ambury's Dairy (former),Q134815916,16,0,1,"building in Mount Albert, Auckland, New Zealand",Circus Circus,Q18760388|Q35112127,,
+Circus Circus,Circus Circus,Q61670322,16,0,1,"heliport in Clark County, Nevada, United States",NV48,Q502074,,
+Circus Circus,Mandalay Resort Group,Q1152357,16,0,1,company,Circus Circus Enterprises,Q4830453|Q6881511,,Mandalay Resort Group
+Circus Circus,Circus Circus Reno,Q5121802,16,0,1,"hotel and casino located in Reno, Nevada",,Q27686,,Circus Circus Reno
+Circus Circus,Circus Circus Public House  The Jubilee Hotel,Q26547420,16,0,1,"hotel in Leeds, West Yorkshire, England, UK",,Q27686,,
+Circus Circus,CIRCUS CIRCUS,Q11193356,16,0,1,,,Q1555508,,
+Circus Circus,Circus Circus,Q55357880,16,0,1,exhibition,,Q29023906,,
+Circus Circus,Circus Circus,Q2974167,16,0,1,Wikimedia disambiguation page,,Q4167410,,Circus Circus
+Circus Circus,Las Vegas Strip,Q745608,16,0,2,"approximately 4 mile stretch of Las Vegas Boulevard in Paradise, Winchester, and Las Vegas in Nevada, United States, with many resorts, shows, and casinos",The Strip|The Las Vegas Strip|Las Vegas Boulevard South|Vegas Strip|The Vegas Strip,Q79007|Q3055075,,Las Vegas Strip
+Circus Circus,Las Vegas Strip Circuit,Q113112116,16,0,2,"racing circuit in Las Vegas, USA",,Q926439,,Las Vegas Strip Circuit
+Circus Circus,2017 Las Vegas shooting,Q41522095,16,0,2,"mass shooting in the Las Vegas area of Nevada, USA on October 1, 2017",Route 91 Harvest shooting|Las Vegas Massacre|2017 Las Vegas massacre|Mandalay Bay shooting|2017 Las Vegas strip shooting|Route 91 Harvest festival shooting,Q21480300|Q4676786|Q750215|Q3199915,,2017 Las Vegas shooting
+Circus Circus,list of Las Vegas Strip hotels,Q6576426,16,0,2,Wikimedia list article,,Q13406463,,List of Las Vegas Strip hotels
+Action,action film,Q188473,17,0,1,film genre,action movie|film action|movie action|action,Q201658,Q1762165|Q11424,Action film
+Action,action game,Q270948,17,0,1,video game genre,action video game|action,Q659563,Q1762165|Q7889,Action game
+Action,activity,Q1914636,17,0,1,series of actions done by an agent which results in an external change of state,act|action|operation|doing|do,Q116505632,Q3249551|Q67518978,
+Action,Action,Q2634111,17,0,1,Dutch multinational variety store chain,,Q4830453|Q6881511|Q108255949,,Action (store)
+Action,Action,Q66604795,17,0,1,instrumental recording by Kevin MacLeod,,Q55850643,,
+Action,Action,Q15728337,17,0,1,album by Question Mark & the Mysterians,,Q482994,,Action (Question Mark & the Mysterians album)
+Action,Action,Q24838592,17,0,1,album,,Q482994,,
+Action,action,Q4026292,17,0,1,something an agent can do or perform,act,Q33104279,Q1190554,Action (philosophy)
+Action,action fiction,Q1762165,17,0,1,genre of fiction,genre action|action|action genre,Q108465955,Q8253,Action fiction
+Action,action anime and manga,Q15637293,17,0,1,anime and manga genre,action manga and anime,Q4178140,Q10901350|Q1762165,
+Action,action film actor,Q10901338,17,0,2,actor who primarily acts in action films,action star,Q28640,Q10800557,
+Action,Action Films,Q121299538,17,0,2,production company,,Q11396960,,
+Action,"Action Film and War Exhibition, State Library NSW, 2023.jpg",Q123009200,17,0,2,Travelling exhibition organised by he Australian War memorial.,,Q464980,,
+Action,Action film featuring Brymo,Q123857990,17,0,2,2010 single by M.I Abaga,,Q134556|Q7302866,,
+Action,action film character,Q116984649,17,0,2,film character appearing in action films,,,Q15773347,
+Action,Hong Kong action cinema,Q845641,17,0,2,principal source of the Hong Kong film industry's global fame,,,,Hong Kong action cinema
+Action,Action Films in High School Coaching,Q129536566,17,0,2,scholarly article,,Q13442814,,
+Action,Action Films,Q134628026,17,0,2,,,Q43229,,
+Action,Action Hero,Q5656939,17,0,2,2010 film by Brian Thompson,The Extendables|Extendables,Q11424,,The Extendables
+Action,Action Hero,Q4677104,17,0,2,album by Little Nobody,,Q482994,,Action Hero (album)
+Action,action hero,Q4033357,17,0,2,archetypal protagonist of action-genre fiction,,,Q25535646,Action hero
+Action,Action Hero 3D: Wild Dog,Q9581701,17,0,2,video game,,Q7889,,
+Action,Action Heroine Cheer Fruits,Q100390448,17,0,2,Japanese manga series,,Q21198342,,
+Action,Action Heroine Cheer Fruits,Q29169326,17,0,2,Japanese anime television series,,Q63952888,,Action Heroine Cheer Fruits
+Action,Action Hero Biju,Q20026840,17,0,2,2016 film directed by Abrid Shine,,Q11424,,Action Hero Biju
+Action,Action Hero Hall of Fame,Q3604812,17,0,2,hall of fame,,Q1046088,,
+Action,Erik Morales vs. Marcos Maidana,Q5388732,17,0,2,Boxing match,Action Heroes,Q27889498,,Erik Morales vs. Marcos Maidana
+Action,Action héroïque d’une françoise,Q122732419,17,0,2,,,Q3331189,,
+Action,Action Movies,Q18613281,17,0,2,311th strip of the webcomic xkcd,xkcd 311,Q838795,,
+Action,Action Movie Hero Boy,Q123007230,17,0,2,song by Lemon Demon,,Q105543609,,
+Action,Action Movie Hero Boy,Q123007231,17,0,2,2006 vocal track by Lemon Demon,,Q55850593,,
+Action,Action Movie FX,Q140390868,17,0,2,mobile application,,Q620615,,
+Action,"Action Movie Hysteria, or Eastwood Bound",Q140376423,17,0,2,scholarly article published in 1989,,Q13442814,,
+Action,Action movies: global and regional left ventricular function in reperfused acute myocardial infarction,Q84070858,17,0,2,scientific article published on 09 May 2009,,Q13442814|Q871232,,
+Action,"Action Movie as a Genre: Actions, Characters, and Plots",Q119864146,17,0,2,"scholarly article in Film Art no. 6, 2017",,Q13442814,,
+Action,Action Scene,Q107526203,17,0,2,TV show aired since 2020,Die Hart,Q5398426,,Die Hart
+Action,action thriller,Q3990883,17,0,2,fiction genre,,Q20656220,Q182015|Q1762165,Action thriller
+Action,Action Thriller Crime Adventure Film Festival Private Room,Q125610343,17,0,2,,,Q220505,,
+Unifi,University of Florence,Q820887,18,0,1,university in Italy,Università degli studi di Firenze|Universita degli studi di Firenze|UniFI|UNIFI|unifi.it,Q3918|Q166118,,University of Florence
+Unifi,dalton,Q483261,18,0,1,unit of mass defined as ¹⁄₁₂ of the mass of a carbon-12 atom,unified atomic mass unit|Da|amu|atomic mass unit|u,Q3647172|Q106839753|Q3268848,,Dalton (unit)
+Unifi,CJK Unified Ideographs,Q994386,18,0,1,"Unicode block (U+4E00-9FFF), also known as “Unified Repertoire and Ordering” (URO)",U+4E00-9FFF|Unified Repertoire and Ordering|URO,Q3512806,,CJK Unified Ideographs (Unicode block)
+Unifi,United Nations Interim Force in Lebanon,Q160805,18,0,1,United Nations-NATO peacekeeping mission,UNIFIL,Q136762766,,United Nations Interim Force in Lebanon
+Unifi,Unified State Register of Legal Entities,Q27890430,18,0,1,registration authority,,Q1394657|Q166140,,
+Unifi,Unified Extensible Firmware Interface,Q859398,18,0,1,specification that defines a software interface between an operating system and platform firmware,Intel Boot Initiative|Extensible Firmware Interface|EFI|Unified EFI|UEFI|uefi-firmware,Q23808|Q317623,Q102676349,UEFI
+Unifi,Unified Canadian Aboriginal Syllabics,Q2494160,18,0,1,Unicode block (U+1400-167F),U+1400-167F,Q3512806,,Unified Canadian Aboriginal Syllabics
+Unifi,unified secondary school in Japan,Q21655594,18,0,1,school in Japan where lower and upper secondary education are provided,,,Q10947886,
+Unifi,union,Q17853087,18,0,1,entity resulting from the act of combining several entities to form one; effect of the action of joining or uniting,blend|amalgam|combination|fusion|composite|aggregate|join|merge|unification|unifying,,Q35120|Q1190554|Q99527517|Q2995644,
+Unifi,Unified Socialist Party of Catalonia,Q2630934,18,0,1,political party in Spain,,Q7278|Q233591,,Unified Socialist Party of Catalonia
+Raleigh,Raleigh,Q41087,19,0,1,capital city of the U.S. state of North Carolina and seat of Wake County,"Raleigh, North Carolina|Raleigh, NC|Raleigh, N.C.",Q132680629|Q1549591|Q62049,,"Raleigh, North Carolina"
+Raleigh,Raleigh,Q42333765,19,0,1,family name,,Q101352,,
+Raleigh,Raleigh,Q5355883,19,0,1,"state electoral district of New South Wales, Australia",Electoral district of Raleigh|Raleigh electoral district,Q3032154,,Electoral district of Raleigh
+Raleigh,Raleigh,Q44857534,19,0,1,male given name,Raleigh (given name),Q12308941,,
+Raleigh,Raleigh,Q2073563,19,0,1,town in Mississippi,"Raleigh, MS",Q15127012,,"Raleigh, Mississippi"
+Raleigh,Raleigh,Q7286905,19,0,1,"county of New South Wales, Australia","Raleigh County, New South Wales",Q15643578,,"Raleigh County, New South Wales"
+Raleigh,Raleigh County,Q501815,19,0,1,"county in West Virginia, United States","Raleigh County, West Virginia|Raleigh County, Virginia|Raleigh County, WV",Q13415370|Q13415368,,"Raleigh County, West Virginia"
+Raleigh,Gosong Raleigh,Q25022875,19,0,1,,Raleigh Bank,Q28337,,
+Raleigh,Raleigh Bicycle Company,Q2001072,19,0,1,British bicycle manufacturer,Raleigh,Q15081032|Q29044175,,Raleigh Bicycle Company
+Raleigh,Raleigh GAC,Q116224,19,0,1,cycling team,,Q1756006,,Vitus Pro Cycling Team p/b Brother UK
+Raleigh,"list of neighborhoods in Raleigh, North Carolina",Q17109964,19,0,2,Wikimedia list article,"Raleigh, North Carolina neighborhoods|list of neighbourhoods in Raleigh, North Carolina",Q13406463,,"Raleigh, North Carolina neighborhoods"
+Raleigh,"2020 COVID-19 pandemic in Raleigh, North Carolina",Q94380034,19,0,2,"pandemic in Raleigh, North Carolina","2020 coronavirus outbreak in Raleigh, North Carolina|COVID-19 pandemic in Raleigh, North Carolina|2020 Raleigh, North Carolina COVID-19 pandemic|Raleigh, North Carolina COVID-19 pandemic|2020 COVID pandemic in Raleigh, North Carolina",Q3241045,,
+Raleigh,"flag of Raleigh, North Carolina",Q97609960,19,0,2,"official flag of Raleigh, North Carolina","Raleigh, North Carolina flag|Raleigh flag|flag of Raleigh",Q21850100,,"Flag of Raleigh, North Carolina"
+Raleigh,"Raleigh, North Carolina weather",Q22729418,19,0,2,Wikimedia template,,Q11266439,,"Raleigh, North Carolina weather"
+Washington County Hospital heliport,Washington County Hospital heliport,Q61672008,20,0,1,"heliport in Iowa, United States",3IA0,Q502074,,
+Washington County Hospital heliport,Washington County Hospital heliport,Q74843213,20,0,1,"heliport in Washington County, Utah, United States",,Q502074,,
+Washington County Hospital heliport,Washington County Hospital heliport,Q61670155,20,0,1,"heliport in North Carolina, United States",0NC3,Q502074,,
+Washington County Hospital heliport,Washington County Hospital Cemetery,Q117633687,20,0,2,"cemetery in Washington County, Wisconsin, United States",Samaritan Home Cemetery,Q39614,,
+Washington County Hospital heliport,heliport,Q502074,20,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Washington County Hospital heliport,HELIPORT,Q138638828,20,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Washington County Hospital heliport,Eliporto di Lierna,Q134386454,20,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Washington County Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,20,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Washington County Hospital heliport,Heliport in the Banco de La Republica,Q87031659,20,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Washington County Hospital heliport,Heliport Rotterdam,Q130534380,20,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Washington County Hospital heliport,Monaco Heliport,Q662619,20,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Washington County Hospital heliport,Heliport of San Carlos,Q87033631,20,0,2,heliport in Colombia,SQNC,Q502074,,
+Washington County Hospital heliport,Héliport Brasserie,Q89431682,20,0,2,restaurant in Belgium,,Q11707,,
+Washington County Hospital heliport,Heliport of Banco De Occidente,Q87031829,20,0,2,heliport of Colombia,SQBO,Q502074,,
+Washington County Hospital heliport,Washington County,Q507256,20,0,2,"county in Maine, United States","Washington County, Maine|Washington County, ME",Q13410454,,"Washington County, Maine"
+Washington County Hospital heliport,Washington County,Q27240,20,0,2,"county in southwestern Utah, United States","Washington County, Utah|Washington County, UT",Q13415365,,"Washington County, Utah"
+Washington County Hospital heliport,county of Washington,Q13415369,20,0,2,"subdivision of the state of Washington, United States of America",counties of Washington|Washington county|Washington counties|state of Washington county|county of the state of Washington,,Q47168,
+Washington County Hospital heliport,Washington County,Q484538,20,0,2,"county in Oregon, United States","Washington County, Oregon|Washington County, OR",Q13414761,,"Washington County, Oregon"
+Washington County Hospital heliport,Washington County,Q54258,20,0,2,"county in Rhode Island, United States","Washington County, Rhode Island|South County|Washington County, RI",Q13414764,,"Washington County, Rhode Island"
+Washington County Hospital heliport,Washington County,Q61148,20,0,2,"county in Arkansas, United States","Washington County, Arkansas|Washington County, AR",Q11774062,,"Washington County, Arkansas"
+Washington County Hospital heliport,Washington County,Q496486,20,0,2,"county in Missouri, United States","Washington County, Missouri|Washington County, MO",Q13410520,,"Washington County, Missouri"
+Washington County Hospital heliport,Washington County,Q497200,20,0,2,"county in Pennsylvania, United States","Washington County, Pennsylvania|Washington County, PA",Q13414763,,"Washington County, Pennsylvania"
+Washington County Hospital heliport,Washington County,Q489571,20,0,2,"county in Ohio, United States","Washington County, Ohio|Washington County, OH",Q13414759,,"Washington County, Ohio"
+Washington County Hospital heliport,Washington County,Q56149,20,0,2,"county in New York, United States","Washington County, New York|Washington County, NY",Q13414757,,"Washington County, New York"
+Washington County Hospital heliport,Hospital heliport,Q74842934,20,0,2,"heliport in Brevard County, Florida, United States",,Q502074,,
+Washington County Hospital heliport,Hospital heliport,Q61725275,20,0,2,"heliport in Virginia, United States",,Q502074,,
+Carowinds,Carowinds,Q2940113,21,0,1,amusement park in North and South Carolina,,Q194195,,Carowinds
+Carowinds,Carowinds,Q34871320,21,0,1,park in the United States of America,,Q22698,,
+Carowinds,Carowinds,Q61670148,21,0,1,"heliport in Mecklenburg County, North Carolina, United States",NC55,Q502074,,
+Carowinds,Carowinds Monorail,Q5045572,21,0,1,former monorail at Carowinds amusement park,,Q187934|Q15893266,,Carowinds Monorail
+Carowinds,Carowinds Airport,Q34964352,21,0,1,"airport in Mecklenburg County, North Carolina, United States of America",,Q1248784,,
+Streets Ferry,Streets Ferry,Q61670131,22,0,1,"heliport in Craven County, North Carolina, United States",99NC,Q502074,,
+Streets Ferry,Streets Ferry,Q111462835,22,0,1,North Carolina historic marker C-23,C-23,Q721747,,
+Grace Hospital heliport,Grace Hospital heliport,Q61673425,23,0,1,"heliport in Michigan, United States",17MI,Q502074,,
+Grace Hospital heliport,Grace Hospital heliport,Q61670114,23,0,1,"heliport in Burke County, North Carolina, United States",92NC,Q502074,,
+Grace Hospital heliport,Grace Hospital,Q14875031,23,0,2,"hospital in Winnipeg, Manitoba, Canada",,Q16917,,Grace Hospital (Winnipeg)
+Grace Hospital heliport,Grace Hospital,Q5591217,23,0,2,"hospital in Virginia, United States",,Q16917|Q64578911,,"Grace Hospital (Richmond, Virginia)"
+Grace Hospital heliport,Grace Hospital,Q5591216,23,0,2,"hospital in North Carolina, United States",UNC Health Blue Ridge–Morganton|UNC Health Blue Ridge,Q16917,,UNC Health Blue Ridge
+Grace Hospital heliport,Grace Hospital,Q5591218,23,0,2,hospital in the USA,,Q16917|Q64578911,,Grace Hospital (Seattle)
+Grace Hospital heliport,Grace Hospital,Q108682636,23,0,2,"hospital in Tauranga, New Zealand",Tauranga Grace Hospital,Q4284971,,
+Grace Hospital heliport,Grace Hospital Eziama,Q128232005,23,0,2,Healthcare centre in Nigeria,,Q16917,,
+Grace Hospital heliport,"Grace Hospital, 1996–2000",Q61821124,23,0,2,scholarly article,,Q13442814,,
+Grace Hospital heliport,Grace Hospital,Q5591215,23,0,2,Wikimedia disambiguation page,,Q4167410,,Grace Hospital

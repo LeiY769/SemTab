@@ -1,0 +1,86 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+HD 63754,HD 63754,Q10850341,0,0,1,star,,Q50053|Q67206691|Q2247863,,HD 63754
+Kepler-22,Kepler-22 b,Q47304,1,0,1,exoplanet orbiting around Kepler-22,,Q18611609|Q44559,,Kepler-22b
+Kepler-22,Kepler-22,Q47570,1,0,1,star in the constellation Cygnus,,Q5864|Q1362543|Q2168098|Q2247863|Q112881|Q67206785|Q523,,Kepler-22
+Kepler-22,Kepler-223,Q722454,1,0,1,planetary system,,Q523|Q2168098|Q67206785|Q1362543,,Kepler-223
+Kepler-22,Kepler-223 c,Q28503768,1,0,1,extrasolar planet,,Q44559|Q18611609,,Kepler-223c
+Kepler-22,Kepler-220 b,Q28503719,1,0,1,extrasolar planet,KOI-719 b|Kepler-220 b,Q44559|Q18611609,,
+Kepler-22,Kepler-220,Q38394019,1,0,1,star in the constellation Cygnus,"KOI-719, KIC-9950612",Q523|Q2168098|Q67206785|Q1362543,,
+Kepler-22,Kepler-227 c,Q28503781,1,0,1,extrasolar planet,Kepler-227 c|KOI-752 c,Q44559|Q18611609,,
+Kepler-22,Kepler-221 c,Q28503731,1,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-22,Kepler-226 d,Q28503780,1,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-22,Kepler-220 e,Q28503733,1,0,1,extrasolar planet,Kepler-220 e|KOI-719 e,Q44559|Q18611609,,
+Kepler-22,Kepler-22b: A 2.4 EARTH-RADIUS PLANET IN THE HABITABLE ZONE OF A SUN-LIKE STAR,Q56602853,1,0,2,scientific article published in the Astrophysical Journal,,Q13442814,,
+HD 101245,HD 101245,Q12064376,2,0,1,star in the constellation Crater,,Q67206691|Q2247863,,
+HR 6806,HR 6806,Q1070705,3,0,1,star in the constellation Hercules,,Q6243|Q2168098|Q67206691|Q2247863,,HD 166620
+Gliese 412 A,Gliese 412 A,Q1145510,4,0,1,star in the constellation Ursa Major,BD+44 2051,Q13890|Q67206691|Q2247863,,
+Ross 271,Ross 271,Q97500765,5,0,1,High proper-motion Star,,Q2247863,,
+HD 14412,HD 14412,Q1070015,6,0,1,star in the constellation Fornax,,Q67206691|Q2247863,,HD 14412
+HD 14412,HD 144122,Q91401518,6,0,1,star in the constellation Norma,,Q523|Q67206691,,
+HD 14412,HD 144126,Q88801793,6,0,1,star in the constellation Apus,,Q523,,
+HD 14412,HD 144124,Q87472932,6,0,1,star in the constellation Triangulum Australe,,Q523|Q67206691,,
+HD 14412,HD 144121,Q92719116,6,0,1,star in the constellation Norma,,Q523,,
+HD 14412,HD 144129,Q78192419,6,0,1,star in the constellation Hercules,,Q523|Q67206691,,
+HD 14412,HD 144120,Q77362266,6,0,1,star in the constellation Norma,,Q523|Q67206691,,
+HD 14412,HD 144125,Q88801747,6,0,1,star in the constellation Apus,,Q523|Q67206691,,
+HD 14412,HD 144127,Q85491707,6,0,1,high proper-motion star in the constellation Draco,,Q2247863,,
+HD 14412,HD 144128,Q79892739,6,0,1,high proper-motion star in the constellation Hercules,,Q2247863,,
+HD 14412,star,Q523,6,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 14412,Star Trek,Q1092,6,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 14412,Star,Q37529922,6,0,2,family name,,Q101352,,
+HD 14412,Star Wars,Q462,6,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 14412,Star,Q381936,6,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 14412,celebrity,Q211236,6,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 14412,STAR,Q3480422,6,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 14412,Starnberg,Q61936,6,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 14412,Star TV,Q2067812,6,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 14412,Starz Entertainment,Q515869,6,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 14412,planetary system,Q206717,6,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 14412,star system,Q595871,6,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 14412,star system,Q2333293,6,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 14412,STAR System World Kickboxing Ratings,Q7394680,6,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 14412,Star System Tenopia,Q135106451,6,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 14412,Star Systems,Q130379854,6,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 14412,Star system,Q106848031,6,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 14412,STAR,Q7394670,6,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 14412,Star system,Q113173696,6,0,2,,,Q215380,,
+HD 14412,How to Lose Friends & Alienate People,Q770158,6,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+HD 223884,HD 223884,Q3780848,7,0,1,star in the constellation Aquarius,,Q67206691|Q2247863,,
+HD 223884,star,Q523,7,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 223884,Star Trek,Q1092,7,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 223884,Star,Q37529922,7,0,2,family name,,Q101352,,
+HD 223884,Star Wars,Q462,7,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 223884,Star,Q381936,7,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 223884,celebrity,Q211236,7,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 223884,STAR,Q3480422,7,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 223884,Starnberg,Q61936,7,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 223884,Star TV,Q2067812,7,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 223884,Starz Entertainment,Q515869,7,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 223884,planetary system,Q206717,7,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 223884,star system,Q595871,7,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 223884,star system,Q2333293,7,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 223884,STAR System World Kickboxing Ratings,Q7394680,7,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 223884,Star System Tenopia,Q135106451,7,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 223884,Star Systems,Q130379854,7,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 223884,Star system,Q106848031,7,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 223884,STAR,Q7394670,7,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 223884,Star system,Q113173696,7,0,2,,,Q215380,,
+HD 223884,How to Lose Friends & Alienate People,Q770158,7,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+HD 223884,astronomical object,Q6999,7,0,2,"physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",celestial body|celestial object|astronomical body|astronomical objects|celestial bodies|celestial objects|astronomical bodies|object|stellar body|stellar object,Q96251598,Q223557|Q16686022|Q4235019,Astronomical object
+HD 223884,astronomical object type,Q17444909,7,0,2,each instance is a subclass in the hierarchy under <astronomical object>(Q6999); such a subclass's instances in turn are particular identified objects in Our Universe,class of astronomical object|type of astronomical object|object type in astronomy|object type (astronomy)|type of celestial object,Q24017414,Q111360549,
+HD 223884,astronomical object in the Solar System,Q109645909,7,0,2,type of astronomical object within the Solar System,Solar System object,Q17444909,Q6999,
+HD 223884,astronomical object's surface,Q30318034,7,0,2,type of surface,,,Q3783831|Q125176223,
+HD 223884,astronomical object from the Stargate universe,Q108214736,7,0,2,astronomical object appearing in the Stargate universe,,,Q15831598|Q108214806,
+HD 223884,Astronomical objects and features with Romanian names,Q29640773,7,0,2,Wikimedia list article,,Q13406463,,Astronomical objects and features with Romanian names
+HD 223884,astronomical object from the Star Trek universe,Q57083319,7,0,2,astronomical object appearing in the Star Trek franchise,astronomical object from the Star Trek multiverse,,Q15831598|Q15796005,
+HD 223884,astronomical object in a fiction work,Q135456669,7,0,2,"astronomical object, real or imagined, appearing in works of fiction",,,Q15796005,
+HD 223884,astronomical object from the Blinky Bill universe,Q117432201,7,0,2,astronomical object appearing in the Blinky Bill universe,,,Q15831598|Q117432180,
+HD 223884,Astronomical objects,Q81196826,7,0,2,scientific article published on 01 October 1992,,Q13442814,,
+HD 219512,HD 219512,Q12067656,8,0,1,,,Q1142192|Q67206691|Q2247863,,
+Zeta Microscopii,Zeta Microscopii,Q9097663,9,0,1,constellation Microscopium star,,Q67206691|Q2154519|Q2247863|Q67206785|Q71798788,,Zeta Microscopii
+60 Hydrae,60 Hydrae,Q12065304,10,0,1,star in the constellation Hydra,,Q2247863|Q67206785|Q71798788,,
+HD 75001,HD 75001,Q16688127,11,0,1,,,Q1142192|Q67206691|Q2247863,,
+HD 75001,Noquisi,Q1045802,11,0,2,star in the constellation Leo,Gliese 436|GJ 436|LHS 310|Ross 905|HIP 57087|HIC 57087|StKM 2-754|MCC 616|NLTT 28288|GCRV 7104|ASCC 683818|LFT 838|LTT 13213|TIC 138819293|TOI-1796|TYC 1984-2613-1|VVO 171|Zkh 164|UCAC2 41198281|UCAC4 584-046777,Q523|Q2154519|Q2247863|Q67206785|Q5893,,Gliese 436
+HD 75001,Gliese 436 b,Q842110,11,0,2,extrasolar planet,Awohali,Q44559,,Gliese 436 b
+HD 75001,Gliese 436 c,Q2993376,11,0,2,extrasolar planet,GJ 436c,Q18611609|Q523,,
+HD 104817,HD 104817,Q12064493,12,0,1,star,,Q67206691|Q2247863,,

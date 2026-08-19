@@ -1,0 +1,157 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Aars,Aars,Q17378638,0,0,1,family name,Aars (surname),Q101352,,
+Aars,Aarschot,Q273442,0,0,1,"city in Flemish Brabant, Belgium",,Q493522|Q15273785,,Aarschot
+Aars,Aars,Q303066,0,0,1,town in Denmark,Års,Q3957,,Aars
+Aars,AARS1,Q17707208,0,0,1,protein-coding gene in the species Homo sapiens,CMT2N|EIEE29|alanyl-tRNA synthetase|AARS|alanyl-tRNA synthetase 1|DEE29|TTD8|HDLS2,Q7187,Q20747295,AARS1
+Aars,Aars1,Q24370052,0,0,1,protein-coding gene in the species Rattus norvegicus,alanyl-tRNA synthetase|alanyl-tRNA synthetase 1|Aars,Q7187,Q20747295,
+Aars,Aars,Q18298367,0,0,1,protein-coding gene in the species Mus musculus,AI316495|C76919|sti|alanyl-tRNA synthetase|Aars1,Q7187,Q20747295,
+Aars,All-America Rose Selections,Q21083102,0,0,1,American rose award given annually from 1940 to 2013,AARS,Q618779,,All-America Rose Selections
+Aars,Alanyl-tRNA synthetase,Q21991203,0,0,1,mammalian protein found in Mus musculus,"protein sticky|Aars|alanyl-tRNA synthetase, cytoplasmic|alaRS|alanine--tRNA ligase, cytoplasmic",Q8054,Q8054,
+Aars,aars,Q29743965,0,0,1,protein-coding gene in the species Danio rerio,alanyl-tRNA synthetase|wu:fc48h07|zgc:113920|si:ch211-223o1.6|im:7146712,Q7187,,
+Aars,Alanyl-tRNA synthetase 1,Q21135759,0,0,1,mammalian protein found in Homo sapiens,"AARS|alanine--tRNA ligase, cytoplasmic|alaRS|renal carcinoma antigen NY-REN-42|AARS1|alanyl-tRNA synthetase, cytoplasmic|alanine tRNA ligase 1, cytoplasmic",Q8054,,
+Dulveron,,,1,0,0,,,,,
+au,Australia,Q408,2,0,1,country in Oceania,Commonwealth of Australia|Straya|Aussieland|Oz|Stralia|New Holland|New Hollandia|Nova Hollandia|Down Under|Stria|The Commonwealth of Australia|'Straya,Q202686|Q223832|Q3624078|Q43702|Q6256,,Australia
+au,Austria,Q40,2,0,1,country in Central Europe,Republic of Austria,Q3624078|Q4209223|Q123480|Q127693126|Q6256,,Austria
+au,Auburn University,Q540672,2,0,1,"public university in Auburn, Alabama, United States",AU|AUM|Auburn College|Alabama Polytechnic Institute|auburn.edu,Q3918|Q615150|Q23002039,,Auburn University
+au,astronomical unit,Q1811,2,0,1,"mean distance between Earth and the Sun, common length reference in astronomy",AU|astronomic unit|heliocentric distance|au,Q1978718|Q106839753|Q82047057|Q3268848,,Astronomical unit
+au,Auriga,Q10476,2,0,1,constellation in the northern celestial hemisphere,Aur|Aurigae,Q8928,,Auriga
+au,Queensland,Q36074,2,0,1,state of Australia,State of Queensland|QLD|Qld.|AU-QLD,Q5852411|Q133156,,Queensland
+au,South Australia,Q35715,2,0,1,state of Australia,SA|S.A.|AU-SA|S. Aust.|State of South Australia,Q5852411|Q1351282,,South Australia
+au,Au,Q758379,2,0,1,"municipality in Bregenz District, Vorarlberg, Austria",,Q667509|Q1802801,,"Au, Vorarlberg"
+au,gold,Q897,2,0,1,"chemical element with symbol Au and atomic number 79; a dense, malleable, and corrosion-resistant precious metal widely used as currency, in jewelry, electronics, and as a financial reserve asset",element 79,Q11344|Q1924900|Q271449,Q585302,Gold
+au,Auschwitz,Q7341,2,0,1,German network of concentration and extermination camps in occupied Poland during World War II,KZ Auschwitz|Birkenau|Auschwitz death camp|Auschwitz concentration camp|Auschwitz-Birkenau|Au.|Auschwitz Birkenau Concentration and Extermination Camp|Oświęcim,Q328468|Q33506|Q153813|Q1497375,,Auschwitz concentration camp
+au,Aurelia,Q21034949,2,0,2,female given name,,Q11879590,,Aurelia (name)
+au,Aurelia,Q232725,2,0,2,mother of Julius Caesar,Aurelia Cotta,Q5,,Aurelia (mother of Caesar)
+au,Aurelia,Q3235994,2,0,2,genus of cnidarians,,Q16521,,Aurelia (cnidarian)
+au,Aurelia,Q32978881,2,0,2,ancient Roman nomen,,Q140389129,,
+au,Aurelia,Q51156952,2,0,2,genus of plants,,Q16521,,
+au,Aurelia,Q107128136,2,0,2,paternal grandmother of Roman empress Lollia Paulina,Aurelia Cotta,Q5,,
+au,Aurelia,Q37567266,2,0,2,family name,,Q101352,,
+au,Aurelia,Q107128610,2,0,2,mother of Maximus Messalinus,Aurelia Cotta,Q5,,
+au,Aurelia,Q30113529,2,0,2,subgenus of insects,,Q16521,,
+au,Aurélia,Q20024499,2,0,2,female given name,Aurélia (first name)|Aurélia (given name),Q11879590,,Aurélia
+au,Australian continent,Q3960,2,0,2,continent in the Earth's Southern Hemisphere,Sahul|Australinea|Meganesia|Australia (continent)|Australia|New Holland|Nova Hollandia|the Australian continent,Q5107,,Australia (continent)
+au,Australia,Q104269190,2,0,2,unisex given name,,Q3409032,,
+au,Australian Plant Name Index,Q167402,2,0,2,database of Australian plant names,APNI,Q7094076|Q7689673|Q8513,,Australian Plant Name Index
+au,Australian Journal of Chemistry,Q781542,2,0,2,journal,Aust. J. Chem.,Q5633421,,Australian Journal of Chemistry
+au,Australian Archaeology,Q15716632,2,0,2,academic journal,,Q627517|Q21834496,,Australian Archaeology
+au,Australian rules football,Q50776,2,0,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+au,Australian Historical Studies,Q15761696,2,0,2,academic journal,Australian Historical Studies Online,Q5633421|Q737498,,Australian Historical Studies
+au,Seven Network,Q908659,2,0,2,Australian broadcast television network,7|Seven|Channel Seven|Channel 7|Network 7|Network Seven|Australian Television Network|Seven Network Australia,Q1254874,,Seven Network
+au,Australian Broadcasting Corporation,Q781365,2,0,2,state-funded independent national public broadcaster of Australia,ABC|Australian Broadcasting Commission|Australian Broadcasting Company|ABC Australia|ABC (Australia)|ABC AU,Q1254874|Q699386|Q1061197|Q11028|Q1126006|Q43229,,Australian Broadcasting Corporation
+au,Australian Faunal Directory,Q2784883,2,0,2,Australian faunal database of taxon names and bibliographic data,,Q1002697|Q7094076|Q4117139,,Australian Faunal Directory
+au,Australians,Q1318423,2,0,2,citizens or residents of Australia,Australian people|Aussies|Ozzies|Strayans|Aussie|Australian,Q33829|Q231002|Q2472587,Q2065556|Q22947,Australians
+au,Austin,Q16559,2,0,2,capital city of the U.S. state of Texas and seat of Travis County,"Austin, Texas|Austin, TX",Q138010797|Q1549591|Q62049,,"Austin, Texas"
+au,Ústí nad Labem,Q156974,2,0,2,"city in Ústí nad Labem Region, Czech Republic",Aussig an der Elbe|Aussig,Q515|Q257978|Q15978299|Q5153359|Q12031379|Q8452914|Q7841907|Q7819319,,Ústí nad Labem
+au,Aus,Q4822696,2,0,2,family name,,Q101352,,Aus (surname)
+au,Austria–Hungary,Q28513,2,0,2,1867–1918 empire in Central Europe,Austro-Hungarian Empire|Dual Monarchy|Austria Hungary|Austria|Austro-Hungarian Monarchy|Monarchy of Austria-Hungary|The Kingdoms and Lands Represented in the Imperial Council and the Lands of the Holy Hungarian Crown of St. Stephen|Monarchy of Austria–Hungary|Austria-Hungary,Q3624078|Q3024240|Q48349|Q1093720|Q6256,,Austria-Hungary
+Johanoa,"John, marquess of Randazzo",Q557092,3,0,2,"Duke of Athens, regent of the kingdom of Sicily",John of Aragon|John of Athens,Q5,,John of Randazzo
+Johanoa,Juan de Aragón y Anjou,Q2010109,3,0,2,Roman Catholic archbishop,Juan de Aragon y Anjou|Juan de Aragón|John of Aragon,Q5,,John of Aragon (patriarch)
+Johanoa,Giovanni d'Aragona,Q3768409,3,0,2,Wikimedia disambiguation page,John of Aragon,Q22808320,,Giovanni d'Aragona
+Johanoa,"John of Aragon, Prince of Girona",Q774855,3,0,2,"Crown Prince of Aragon, Valencia, Sardinia, Majorca, Sicily and Naples born and died in 1509","John of Trastámara|John of Trastamara|John of Aragon, Prince of Gerona",Q5,,
+Johanoa,"John of Aragon, Baron of Avola",Q774852,3,0,2,"Son of Roland of Sicily, Illegitimate Son of King Frederick II of Sicily","John of Sicily|Gioavanozzo d'Aragona, Conte de Neti, Barone di Avola",Q5,,
+Johanoa,John of Aragon,Q62488249,3,0,2,Wikimedia disambiguation page,,Q4167410,,John of Aragon
+Johanoa,"John of Aragon, Prince of Girona",Q64008600,3,0,2,Wikimedia disambiguation page,"John of Aragon, Prince of Gerona",Q4167410,,
+Rajc,Rajc,Q111770180,4,0,1,family name,Rajc (family name)|Rajc (surname),Q101352,,
+Rajc,Rajčanka,Q1808083,4,0,1,river in Slovakia,,Q4022,,Rajčanka
+Rajc,Rajcaŭski sieĺsaviet,Q4389259,4,0,1,sieĺsaviet of Belarus,,Q15071808,,
+Rajc,Rajchman,Q7285898,4,0,1,family name,,Q101352,,Rajchman
+Rajc,Rajkot,Q11854,4,0,1,"city in Gujarat, India","Rajcote|Rajkot, India|Rajcote, India",Q1549591|Q515,,Rajkot
+Rajc,Rajchel,Q37434366,4,0,1,family name,,Q101352,,
+Rajc,Rajchl,Q111770186,4,0,1,family name,,Q101352,,
+Rajc,Rajca,Q11833647,4,0,1,agrotown in Belarus,,Q1989945,,
+Rajc,Rajcic,Q56145809,4,0,1,family name,,Q101352,,
+Rajc,Rajca,Q37030716,4,0,1,family name,,Q101352,,
+Kalada,Kaladawa,Q11216518,5,0,1,"village in Tegal Regency, Central Java, Indonesia",Desa Kaladawa,Q26211545,,
+Kalada,Kaladan Jaya,Q13093807,5,0,1,"village in Kapuas Regency, Central Kalimantan, Indonesia",,Q26211545,,
+Kalada,Kaladar,Q740478,5,0,1,"town in Addington Highlands, Ontario, Canada","Kaladar, Ontario",Q3957,,Kaladar
+Kalada,Kaladan River,Q3182712,5,0,1,river in India and in Myanmar,Kissapanadi|Boinu|Chhimtuipui,Q4022,,Kaladan River
+Kalada,Kaladan Multi-modal Transit Transport Project,Q6350073,5,0,1,Connection of seaports in India and Myanmar,,Q7834916,,Kaladan Multi-Modal Transit Transport Project
+Kalada,Kaladanga,Q60437744,5,0,1,"human settlement in Berhampore community development block, Berhampur subdivision, Murshidabad district, India",,Q56436498,,
+Kalada,Kaladanga Sub-centre,Q61436838,5,0,1,building in India,,Q61278455,,
+Kalada,Kaladarap Union,Q22347016,5,0,1,union council of Noakhali Sadar Upazila in Noakhali District,,Q3812392,,
+Kalada,Kaladab,Q24892892,5,0,1,subcity in Azad Kashmir,,,,Kaladab
+Kalada,Kaladabar,Q60814362,5,0,1,village in India,,Q56436498,,
+Torremeng,Torremenga,Q24011982,6,0,1,"capital of Torremenga Municipality, Spain",,Q121289819|Q3957,,
+Torremeng,Torremenga,Q1641394,6,0,1,"human settlement in Cáceres Province, Extremadura, Spain",,Q2074737,,Torremenga
+Torremeng,Torremenga town hall,Q126829412,6,0,1,"municipal building in Torremenga, Spain",,Q112793351,,
+Torremeng,Torremenga,Q29973270,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kasunda,Kasunda Junction railway station,Q63370526,7,0,1,"railway station in Jharkhand, India",,Q55488,,
+Kasunda,military,Q8473,7,0,1,organization primarily tasked with preparing for and conducting war,armed forces|military force|army|military affairs|defense forces|defence forces,,Q17149090,Military
+Kasunda,Kasundalo Island,Q31825781,7,0,1,island in the Philippines,,Q23442,,
+Kasunda,army,Q37726,7,0,1,military branch for ground warfare,land army|land force|ground forces|land forces,Q781132,Q8473,Army
+Kasunda,Philippine Army,Q1799545,7,0,1,ground warfare branch of the Armed Forces of the Philippines,,Q37726,,Philippine Army
+Frankenu,Frankenstein,Q37235204,8,0,2,family name,,Q101352,,
+Frankenu,"Frankenstein; or, The Modern Prometheus",Q150827,8,0,2,1818 novel by Mary Shelley,The Modern Prometheus|1818 Frankenstein,Q7725634,,Frankenstein
+Frankenu,Frankenstein,Q5490686,8,0,2,1987 text adventure game,,Q7889,,Frankenstein (video game)
+Frankenu,Frankenstein,Q65718139,8,0,2,1992 video game,,Q7889,,
+Frankenu,Frankenstein,Q102292880,8,0,2,2003 paperback edition by Penguin Classics,,Q3331189,,
+Frankenu,Ząbkowice Śląskie,Q246693,8,0,2,city of Poland,Frankenstein|Ząbkowice,Q515,,Ząbkowice Śląskie
+Frankenu,Frankenstein,Q124393045,8,0,2,2025 film directed by Guillermo del Toro,,Q11424,,Frankenstein (2025 film)
+Frankenu,Frankenstein's monster,Q2021531,8,0,2,1818 fictional character by Mary Shelley,Frankenstein|The Human Experiment|Frankenstein's Monster|The Creature|Adam Frankenstein,Q28020127|Q30017383|Q3658341|Q30061600|Q276453|Q15773347|Q15773317,,Frankenstein's monster
+Frankenu,Victor Frankenstein,Q2320164,8,0,2,"character from Mary Shelley's 1818 novel ""Frankenstein""",Profesor. Frankenstein|Frankenstein,Q3658341|Q15773347|Q15632617,,Victor Frankenstein
+Frankenu,Frankenstein,Q12362707,8,0,2,,,Q123705,,
+Frankenu,Frankenstein's Monster,Q16259544,8,0,2,1983 video game,,Q7889,,Frankenstein's Monster (video game)
+Frankenu,Frankenstein's Monster,Q1131389,8,0,2,fictional character in Marvel Comics,Frank,Q1114461|Q30061600,,Frankenstein's Monster (Marvel Comics)
+Frankenu,Frankenstein's Monster,Q102440966,8,0,2,metafictional character from the 1987–1996 animated Teenage Mutant Ninja Turtles television series,1987 Frankenstein's Monster,Q65924737|Q15773317|Q15711870,,
+Frankenu,Frankenstein's Monster,Q102442594,8,0,2,fictional character in the 2012 animated Teenage Mutant Ninja Turtles television series,2012 Frankenstein's Monster,Q15773317|Q15711870,,
+Frankenu,Frankenstein’s monster,Q56433191,8,0,2,statue in Geneva,,Q179700,,
+Frankenu,Frankenstein,Q137595173,8,0,2,fictional character from Fate/Apocrypha,Berserker of Black|Kuro no Berserker|Frankenstein's monster,Q117848352|Q42090767|Q3658341|Q87576284|Q80447738,,
+Frankenu,Frankenstein's Monster,Q133512690,8,0,2,2010 novel by Susan Heyboer O'Keefe,,Q7725634,,
+Frankenu,"Frankenstein's Monster's Monster, Frankenstein",Q65122485,8,0,2,2019 television special directed by Daniel Gray Longino,,Q1261214|Q506240,,"Frankenstein's Monster's Monster, Frankenstein"
+Frankenu,"Frankenstein's monster, inside our senses and an end to epidemics: Books in brief",Q50093396,8,0,2,scientific article published in January 2018,,Q13442814,,
+Clifton Sprigs,Clifton Sprague,Q347178,9,0,2,United States U.S. Navy Vice admiral (1896–1955),Clifton Albert Frederick Sprague,Q5,,Clifton Sprague
+Byabat,Byabattarhat West Hq Sub-centre,Q61412799,10,0,1,Sub-centre in West Bengal,,Q61278455,,
+Byabat,Byabattarhat East HQ Sub-centre,Q61432955,10,0,1,building in India,,Q61278455,,
+Byabat,Byabattarhatpaschim gram panchayat,Q60926232,10,0,1,,,Q2732840,,
+Byabat,Byabattarhatpurba gram panchayat,Q60926253,10,0,1,,,Q2732840,,
+Byabat,Byabato,Q139226204,10,0,1,"village in Eastern Region, Uganda",,Q486972|Q532,,
+Byabat,Byabattarhat Adarsha High Scho,Q73647404,10,0,1,,,Q64062731|Q19855165|Q11902693,,
+Byabat,Byabattarhat G.B. Vidyalaya,Q73647406,10,0,1,,,Q19855165|Q22713629|Q159334,,
+Byabat,Byabattarhat Sub Post Office,Q69760143,10,0,1,,,Q61443650,,
+Morxnda,,,11,0,0,,,,,
+Katherig,,,12,0,0,,,,,
+Lipny,Lipnya,Q4199926,13,0,1,river in Russia,,Q4022,,
+Lipny,Lipniaki,Q6509038,13,0,1,"village in Lojeŭ district, Belarus",Lipnyaki,Q65661087,,
+Lipny,Lipnya,Q4262685,13,0,1,"river in Pskov Oblast, Russia",,Q4022,,
+Lipny,Lipnya,Q4262686,13,0,1,"river in Moscow Oblast, Russia",,Q4022,,
+Lipny,Lipnievičy,Q16704958,13,0,1,village in Belarus,Lipnyevichy,Q65661087,,
+Lipny,Lipniaki,Q6509047,13,0,1,"settlement in Babrujsk district, Belarus",Lipnyaki,Q65665664,,
+Lipny,Liepna Parish,Q2606978,13,0,1,parish of Latvia in Alūksne Municipality,,Q2577184,,Liepna Parish
+Lipny,Lipnyanka,Q21864393,13,0,1,watercourse in Belarus,,Q355304,,
+Lipny,Lipny Bór,Q110388481,13,0,1,,,,,
+Lipny,Lipnya,Q4262679,13,0,1,Wikimedia disambiguation page,,Q4167410,,
+Dqver,,,14,0,0,,,,,
+over,Over,Q5002826,15,0,1,"village and civil parish in Cambridgeshire, England","Over, Cambridgeshire",Q532|Q1115575,,"Over, Cambridgeshire"
+over,review article,Q7318358,15,0,1,"article that summarizes the current state of understanding on a topic, containing a literature review (Q2412849)",overview article|survey article|scientific review article,Q483394|Q591041,Q13442814|Q905511,Review article
+over,Over,Q7113351,15,0,1,"village in Cheshire, UK","Over, Cheshire",Q532|Q1115575,,"Over, Cheshire"
+over,obesity,Q12174,15,0,1,medical condition in which individuals have an excess of body fat,corpulence|overfatness|fatness|obese|human obesity,Q87075524|Q112193867|Q130753312|Q11862829,Q16956975,Obesity
+over,Over,Q37555889,15,0,1,family name,,Q101352,,
+over,Over,Q76399818,15,0,1,vocal track by Lindsay Lohan; 2004 studio recording,,Q55850593,,
+over,Overbetuwe,Q600871,15,0,1,"municipality in Gelderland, the Netherlands",,Q2039348,,Overbetuwe
+over,Overijssel,Q773,15,0,1,province of the Netherlands,Overissel,Q134390,,Overijssel
+over,up,Q15332375,15,0,1,relative direction,above|over,Q14565197,Q30444261,
+over,overall winner general classification,Q20882667,15,0,1,racing cyclist who won a one-day race or a stage race,,Q131094762,Q33965709,
+over,Above,Q2477452,15,0,2,1995 studio album by Mad Season,,Q482994,,Above (Mad Season album)
+over,Above,Q61467240,15,0,2,video game project,,Q7889,,
+over,Above,Q131298618,15,0,2,2024 video game,,Q7889,,
+over,Above Derwent,Q2402972,15,0,2,"civil parish in Cumbria, UK","Above Derwent (civil parish), Cumbria|Above Derwent, Cumbria",Q1115575,,Above Derwent
+over,Above,Q2821790,15,0,2,2009 music album by Samael,,Q482994,,Above (Samael album)
+over,Above the Law,Q923195,15,0,2,1988 US film by Andrew Davis,,Q11424,,Above the Law (1988 film)
+over,Above the Rim – The Soundtrack,Q588813,15,0,2,1994 compilation soundtrack album; various artists,,Q482994,,Above the Rim (soundtrack)
+over,Above,Q4668627,15,0,2,Music album by Pillar,,Q482994,,Above (Pillar album)
+over,Arctic Boreal and Vulnerability Experiment,Q90917339,15,0,2,,ABoVE,Q101965,,
+Coolc,summer escape,Q175937,16,0,1,summer tourism destination,summer getaway|coolcation,Q3026787|Q12379553,Q1200957,
+Coolc,Coolcraheen,Q59719857,16,0,1,"electoral district in County Kilkenny, Ireland",,Q2500304,,
+Coolc,Coolcraheen,Q59724389,16,0,1,"electoral district in County Cork, Ireland",,Q2500304,,
+Coolc,Coolclogh,Q59724598,16,0,1,"electoral district in County Cork, Ireland",,Q2500304,,
+Coolc,Coolcalwin,Q63520073,16,0,1,"parish of Phillip County, New South Wales, Australia",Coolcalwin Parish|Parish of Coolcalwin,Q28931760,,
+Coolc,Coolcullen Church (Mothel Church),Q55050423,16,0,1,"church in County Kilkenny, Ireland",,Q16970,,
+Coolc,Coolcumba,Q63520075,16,0,1,"parish of Hawes County, New South Wales, Australia",Parish of Coolcumba|Coolcumba Parish,Q28931760,,
+Coolc,Coolcalalaya,Q55448936,16,0,1,"locality in Northampton, Western Australia, Australia","Coolcalalaya, Western Australia|Coolcalalaya, Western Australia, Australia",Q3257686,,
+Coolc,Coolcormuck,Q104319077,16,0,1,"townland in Carriglea, County Waterford, Ireland",,Q2151232,,
+Coolc,Coolclogher,Q104308515,16,0,1,"townland in Killarney Rural, County Kerry, Ireland",,Q2151232,,
+Cape Jeris,,,17,0,0,,,,,
+Inyerness,,,18,0,0,,,,,
+Cnalalava,,,19,0,0,,,,,
+Ierogery,,,20,0,0,,,,,

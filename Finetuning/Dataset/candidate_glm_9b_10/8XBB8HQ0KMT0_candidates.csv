@@ -1,0 +1,21 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+dama,Dama,Q912336,0,0,1,genus of mammals,,Q16521,,Fallow deer
+dama,Dama,Q37308860,0,0,1,family name,,Q101352,,
+dama,Odocoileus virginianus,Q215887,0,0,1,species of mammal,Dama virginiana|Odocoileus spelaeus|white tail deer|white tail|white-tail|whitetail|white-tail deer|whitetail deer|Virginia deer|white-tailed deer,Q16521,,White-tailed deer
+dama,Dama,Q24473412,0,0,1,"village in North Halmahera Regency, North Maluku, Indonesia",,Q26211545,,
+dama,Dama dama,Q159857,0,0,1,species of mammal,fallow deer,Q16521,Q29838690,European fallow deer
+dama,Dama,Q25906101,0,0,1,"village in Yalimo Regency, Highland Papua, Indonesia",,Q12488913|Q26211545,,
+dama,Dama,Q110732152,0,0,1,female given name,,Q11879590,,
+dama,Damascus,Q3766,0,0,1,capital and largest city of Syria,Sham city|Jasmine city|Mint of Damascus,Q515|Q1549591|Q16127605|Q108178728|Q51929311|Q15661340,,Damascus
+dama,conflagration,Q168983,0,0,1,"large and destructive fire that threatens human life, animal life, health, and/or property",blaze|fire|large fire|great fire|firestorm|fire disaster|major fire|damaged fire,Q128650030,Q3196|Q3839081,Conflagration
+dama,female,Q6581072,0,0,1,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a female or ""semantic gender"" (P10339) to indicate that a word refers to a female person",woman|human female|female person|lady|female human|fairer sex|female gender|fem|f|women|girl|girls|female character,Q4369513|Q48264,Q99485732,Female (gender)
+dama,dam,Q12323,0,0,2,barrier that impounds water or underground streams,,Q111360549,Q332907|Q121359|Q264661|Q811979|Q2466889,Dam
+dama,Dam,Q35000019,0,0,2,family name,,Q101352|Q98775491|Q1714800,,Dam (surname)
+dama,Damascus International Airport,Q570873,0,0,2,"international airport serving Damascus, Syria",DAM|OSDI|Damascus Airport,Q644371|Q94993988,,Damascus International Airport
+dama,reservoir,Q131681,0,0,2,artificial lake impounded using a dam or lock to store water,impoundment|impounded lake|barrage lake|dam reservoir|reservoir lake|dam lake,Q9363686,Q3215290|Q2551525|Q11727010,Reservoir
+dama,Dam,Q4036997,0,0,2,1987 computer checkers program,,Q7889,,
+dama,Damien,Q18552173,0,0,2,male given name,Damien (given name)|Damien (first name),Q12308941,,Damien
+dama,Damian,Q15063044,0,0,2,male given name,Damian (given name)|Damian (first name),Q12308941,,Damian (given name)
+dama,Damon,Q3701324,0,0,2,male given name,Damon (given name)|Damon (first name),Q12308941,,Damon (given name)
+Misraq Shewa Zon,Misraq Shewa Zone,Q1109846,1,0,1,subdivision of the Oromia Region of Ethiopia,East Shewa,Q219875,,East Shewa Zone
+Misraq Shewa Zon,Misraq Shewa Zone,Q24032414,1,0,1,zone of Ethiopia,,,,

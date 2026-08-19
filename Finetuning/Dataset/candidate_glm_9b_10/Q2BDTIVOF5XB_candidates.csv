@@ -1,0 +1,24 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ronald McDonald House Charities,Ronald McDonald House Charities,Q1915120,0,0,1,charitable organisation related to McDonalds,,Q708676|Q163740,,Ronald McDonald House
+Ronald McDonald House Charities,Ronald McDonald House Charities of North Carolina,Q54558897,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of New Mexico,Q54558947,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of Southern California,Q54558960,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities Canada,Q7365103,0,0,1,Canadian non-profit organisation,,Q163740,,Ronald McDonald House Charities Canada
+Ronald McDonald House Charities,Ronald McDonald House Charities of Kentuckiana,Q54558877,0,0,1,http://rmhck.org,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of Northwest Florida,Q54558909,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of Charleston,Q54558896,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of Rochester,Q54558849,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,Ronald McDonald House Charities of Eastern Iowa and Western Illinois,Q54558888,0,0,1,American nonprofit organization,,Q163740,,
+Ronald McDonald House Charities,McDonald's,Q38076,0,0,2,American fast food restaurant chain,McDonald's Restaurant|Mickey D's|McDo|Macca's|Maccas,Q18509232|Q4830453|Q167270|Q891723|Q43229,,McDonald's
+Ronald McDonald House Charities,McDonald's Corporation v Steel & Morris,Q948164,0,0,2,legal case,McLibel case,Q2334719,,McLibel case
+Royal Society for the Protection of Birds,Royal Society for the Protection of Birds,Q1892802,1,0,1,wildlife conservation organisation in the United Kingdom,RSPB|Plumage League|Society for the Protection of Birds|RSPB England,Q708676|Q163740,,Royal Society for the Protection of Birds
+Royal Society for the Protection of Birds,Royal Society for the Protection of Birds. Volunteer & Farmer Alliance.,Q140666395,1,0,1,voluntary association in United Kingdom,Cynghrair Gwirfoddolwyr a Ffermwyr yr RSPB|R.S.P.B. Volunteer & Farmer Alliance|RSPB Volunteer & Farmer Alliance|RSPB Volunteer and Farmer Alliance,Q48204,,
+Royal Society for the Protection of Birds,Putative dehydrogenase ECIAI39_1478,Q22136668,1,0,2,microbial protein found in Escherichia coli IAI39,rspB|ECIAI39_1478,Q8054,Q8054,
+Royal Society for the Protection of Birds,Putative zinc-binding dehydrogenase RspB b1580,Q24140122,1,0,2,microbial protein found in Escherichia coli str. K-12 substr. MG1655,rspB|b1580|putative zinc-binding dehydrogenase RspB,Q8054,Q8054,
+Royal Society for the Protection of Birds,Dehydrogenase BPSS1478a,Q23552826,1,0,2,microbial protein found in Burkholderia pseudomallei K96243,rspB|BPSS1478a,Q8054,Q8054,
+Royal Society for the Protection of Birds,putative oxidoreductase ECUMN_1865,Q23148270,1,0,2,microbial gene found in Escherichia coli UMN026,"rspB|ECUMN_1865|putative oxidoreductase, Zn-dependent and NAD(P)-binding|putative oxidoreductase",Q7187,Q7187|Q20747295,
+Royal Society for the Protection of Birds,putative dehydrogenase ECIAI39_1478,Q22224261,1,0,2,microbial gene found in Escherichia coli IAI39,rspB|ECIAI39_1478|putative dehydrogenase,Q7187,Q7187|Q20747295,
+Royal Society for the Protection of Birds,Zn-dependent oxidoreductase STM1506,Q23558701,1,0,2,microbial protein found in Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,rspB|STM1506,Q8054,Q8054,
+Royal Society for the Protection of Birds,dehydrogenase BPSS1478a,Q23240755,1,0,2,microbial gene found in Burkholderia pseudomallei K96243,rspB|BPSS1478a|dehydrogenase,Q7187,Q7187|Q20747295,
+Royal Society for the Protection of Birds,Putative oxidoreductase ECUMN_1865,Q24149385,1,0,2,microbial protein found in Escherichia coli UMN026,rspB|ECUMN_1865,Q8054,Q8054,
+Royal Society for the Protection of Birds,putative zinc-binding dehydrogenase RspB b1580,Q23088829,1,0,2,microbial gene found in Escherichia coli str. K-12 substr. MG1655,rspB|b1580|JW1572|ECK1575|putative Zn-dependent NAD(P)-binding oxidoreductase|putative zinc-binding dehydrogenase RspB,Q7187,Q7187|Q20747295,

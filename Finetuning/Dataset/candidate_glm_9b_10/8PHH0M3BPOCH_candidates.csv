@@ -1,0 +1,197 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+IDW Publishing,IDW Publishing,Q3146596,0,0,1,American comic publisher,"Idea and Design Works, LLC|Idea Design Works",Q1114515,,IDW Publishing
+IDW Publishing,Teenage Mutant Ninja Turtles,Q4350694,0,0,1,"ongoing American comic book series published by IDW Publishing, beginning in August 2011",Teenage Mutant Ninja Turtles (IDW Publishing)|Teenage Mutant Ninja Turtles (IDW)|TMNT (IDW Publishing)|TMNT (IDW)|IDW comics|Teenage Mutant Ninja Turtles IDW comics|Teenage Mutant Ninja Turtles IDW Publishing comics|TMNT IDW Publishing|TMNT IDW comics|TMNT IDW Publishing comics|IDW Teenage Mutant Ninja Turtles|IDW Publishing Teenage Mutant Ninja Turtles|IDW Teenage Mutant Ninja Turtles comics|IDW Publishing Teenage Mutant Ninja Turtles comics|IDW TMNT comics|IDW Publishing TMNT comics|IDW TMNT|IDW Publishing TMNT|TMNT|IDW Publishing Ninja Turtles|IDW Ninja Turtles,Q56028349|Q27477672,,Teenage Mutant Ninja Turtles (IDW Publishing)
+IDW Publishing,private limited company,Q17376040,0,0,2,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+IDW Publishing,limited liability company,Q149789,0,0,2,US form of a private limited company,,Q57653825,Q17376040,Limited liability company
+IDW Publishing,limited liability company,Q60575623,0,0,2,type of business entity in New Zealand,Ltd.|NZ Limited Company,Q60575485|Q10541491,Q17376040|Q155076,
+IDW Publishing,limited liability company,Q104438803,0,0,2,type of legal entity in Latvia,sabiedrība ar ierobežotu atbildību|Sabiedrība ar ierobežotu atbildību (SIA)|SIA|limited liability company (Latvia),Q110857329|Q10541491,Q17376040,
+IDW Publishing,limited liability company,Q97174998,0,0,2,type of business entity in PRC,LLC PRC|Limited PRC|Co. Ltd. PRC|LLC China|Chinese Limited|Ltd PRC,Q130419100|Q155076,Q17376040,
+IDW Publishing,société à responsabilité limitée,Q15091621,0,0,2,legal form in France,SARL|Sarl|limited liability company,Q56427813,Q33134269|Q17376040,Société à responsabilité limitée
+IDW Publishing,limited liability company,Q130192123,0,0,2,legal form on the Cayman Islands,,Q10541491,Q6130988,
+IDW Publishing,limited liability company (with no further details),Q98889979,0,0,2,legal category of France,société à responsabilité limitée (sans autre indication),Q56427813|Q10541491,Q15091621,
+IDW Publishing,limited liability company,Q104156895,0,0,2,type of legal entity in Belarus,LLC,Q104156831|Q10541491,Q17376040,
+IDW Publishing,limited liability company,Q98834261,0,0,2,type of legal entity in Ukraine,,Q1269299,Q17376040,
+IDW Publishing,San Diego,Q16552,0,0,2,"seat of San Diego County, California, United States; second-largest city in California","San Diego, California|SD|America's Finest City|Sandi|the birthplace of California|San Diego, CA|San Diego, Calif.",Q1093829|Q902814|Q1549591|Q13218391|Q62049,,San Diego
+IDW Publishing,San Diego,Q979834,0,0,2,"city in Duval and Jim Wells counties, Texas, United States and county seat of Duval County","San Diego, Texas|San Diego, TX",Q1093829|Q62049,,"San Diego, Texas"
+IDW Publishing,San Diego State University,Q913861,0,0,2,"public research university in San Diego, California, United States",SDSU|San Diego State College|sdsu.edu|California State University at San Diego,Q62078547|Q23002039,,San Diego State University
+IDW Publishing,San Diego,Q1524790,0,0,2,Colombian municipality of the department of Cesar,,Q2555896,,"San Diego, Cesar"
+IDW Publishing,San Diego,Q19758991,0,0,2,"town in Teziutlán Municipality, State of Puebla, Mexico",,Q20202352,,
+IDW Publishing,San Diego,Q20274778,0,0,2,"town in Tlaxiaco Municipality, State of Oaxaca, Mexico",Barrio de San Diego,Q20202352,,
+IDW Publishing,San Diego County,Q108143,0,0,2,"county in California, United States","San Diego County, California|County of San Diego, California|San Diego County, CA",Q13212489|Q131427665,,"San Diego County, California"
+IDW Publishing,San Diego,Q20288632,0,0,2,"town in Benjamín Hill Municipality, State of Sonora, Mexico",,Q20202352,,
+IDW Publishing,San Diego de la Unión Municipality,Q16628318,0,0,2,"municipality in the State of Guanajuato, Mexico",San Diego de la Union Municipality|San Diego Municipality|San Diego de la Unión|San Diego de la Union|San Diego,Q1952852,,
+IDW Publishing,San Diego,Q499961,0,0,2,warship of the Spanish Navy,,Q35872|Q852190,,San Diego (ship)
+IDW Publishing,Kris Oprisko,Q6437264,0,0,2,American writer,,Q5,,Kris Oprisko
+limited liability company,private limited company,Q17376040,0,1,1,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+limited liability company,limited liability company,Q149789,0,1,1,US form of a private limited company,,Q57653825,Q17376040,Limited liability company
+limited liability company,limited liability company,Q60575623,0,1,1,type of business entity in New Zealand,Ltd.|NZ Limited Company,Q60575485|Q10541491,Q17376040|Q155076,
+limited liability company,limited liability company,Q104438803,0,1,1,type of legal entity in Latvia,sabiedrība ar ierobežotu atbildību|Sabiedrība ar ierobežotu atbildību (SIA)|SIA|limited liability company (Latvia),Q110857329|Q10541491,Q17376040,
+limited liability company,limited liability company,Q97174998,0,1,1,type of business entity in PRC,LLC PRC|Limited PRC|Co. Ltd. PRC|LLC China|Chinese Limited|Ltd PRC,Q130419100|Q155076,Q17376040,
+limited liability company,société à responsabilité limitée,Q15091621,0,1,1,legal form in France,SARL|Sarl|limited liability company,Q56427813,Q33134269|Q17376040,Société à responsabilité limitée
+limited liability company,limited liability company,Q130192123,0,1,1,legal form on the Cayman Islands,,Q10541491,Q6130988,
+limited liability company,limited liability company (with no further details),Q98889979,0,1,1,legal category of France,société à responsabilité limitée (sans autre indication),Q56427813|Q10541491,Q15091621,
+limited liability company,limited liability company,Q104156895,0,1,1,type of legal entity in Belarus,LLC,Q104156831|Q10541491,Q17376040,
+limited liability company,limited liability company,Q98834261,0,1,1,type of legal entity in Ukraine,,Q1269299,Q17376040,
+limited liability company,logical link control,Q126998,0,1,2,sublayer of the Open Systems Interconnection model,LLC,,Q15836568,Logical link control
+limited liability company,LL/2 (LLC1),Q54902678,0,1,2,cell line,LL/2 (LLc1)|LL/2(LLc1)|LL/2|LL2|LLC1|LLC|Lewis lung carcinoma line 1|Lewis lung carcinoma|Lewis Lung Cancer|Lewis-Lung|Lewis Lung,Q21014462|Q23058136,,
+limited liability company,3LL,Q54585548,0,1,2,cell line,3-LL|3 LL|LLC,Q21014462|Q23058136,,
+limited liability company,large latent transforming growth factor-beta complex,Q22328528,0,1,2,"protein complex containing latency-associated proteins (LAPs), mature disulphide-linked dimeric TGF-beta, and latent TGF-beta binding proteins (LTBPs). TGF-beta is mostly secreted as part of the large latent complex, and must be subsequently releas",GO:0038045|LLC|large latent complex,Q5058355,Q22325163,
+limited liability company,gōdō gaisha,Q1562410,0,1,2,type of business organization in Japan,GK|Nihon-ban LLC|LLC (Japan)|godo kaisha|godo gaisha,Q57655236|Q10541491,Q1589009|Q6887575,Gōdō gaisha
+limited liability company,Llandecwyn railway station,Q2194269,0,1,2,"railway station in Gwynedd, Wales, UK",Llandecwyn Station|LLC,Q55488,,Llandecwyn railway station
+limited liability company,Latvian Logistics Command,Q18697057,0,1,2,logistics branch of Latvia's military,LLC|LNAF Logistics Command|Logistics Command LNAF,Q2008856,,
+limited liability company,corporation,Q57655560,0,1,2,"in the United States, a business entity incorporated under any state or territorial statute",American corporation|United States corporation|U.S. corporation|Incorporated|Inc.|corporation in the United States|US corporation|Corp.|US Inc.,Q57653825,Q167037|Q7451779,Corp.
+limited liability company,corporation,Q167037,0,1,2,legal entity incorporated through a legislative or registration process,corporated entity|Corp.|Co.,Q10541491,Q155076|Q783794,Corporation
+limited liability company,Corporation,Q2189424,0,1,2,1990 video game,,Q7889,,Corporation (video game)
+limited liability company,Corporation,Q55246708,0,1,2,1988 video game for the Commodore 64,The Corporation,Q7889,,
+limited liability company,corporation,Q1586331,0,1,2,body of municipal self-government in the Prussian provinces,,,Q167037,
+limited liability company,business corporation,Q422074,0,1,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+limited liability company,corporation in Japan,Q48748864,0,1,2,group of persons operating for a certain purpose as established under Japanese law,hojin|hōjin|corporation (Japan)|houjin|corporation,,Q155076|Q167037,
+limited liability company,Corporation Bank,Q2003387,0,1,2,former public sector bank in India,,Q4830453|Q22687|Q650241,,Corporation Bank
+limited liability company,Corporation Bank branch,Q66768699,0,1,2,branch of Corporation Bank,,,Q21073937,
+limited liability company,Corporation for Public Broadcasting,Q2628754,0,1,2,non-profit corporation created by an act of the United States Congress and funded by the United States federal government to promote public broadcasting,CPB,Q4830453|Q163740,,Corporation for Public Broadcasting
+limited liability company,enterprise,Q6881511,0,1,2,"organizational unit producing goods or services, which benefits from a certain degree of autonomy in decision-making, especially for the allocation of its current resources",company|firm|undertaking|business enterprise|enterprises|companies|firms|undertakings|business enterprises,Q3409269|Q17197366,Q43229|Q4830453,Business enterprise
+limited liability company,company,Q783794,0,1,2,"legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective",firm|co.,Q17197366|Q10541491,Q3778211|Q21980538|Q43229,Company
+limited liability company,Company,Q2915810,0,1,2,1970 musical comedy by Stephen Sondheim,,Q58483083,,Company (musical)
+limited liability company,Company,Q37533014,0,1,2,family name,,Q101352,,
+limited liability company,Company,Q868598,0,1,2,magazine,,Q41298,,Company (LGBT magazine)
+limited liability company,company,Q102538,0,1,2,military unit size designation,military company|company (military unit),Q21506450,Q66737643,Company (military unit)
+limited liability company,director,Q1162163,0,1,2,person who leads a particular area of a company or organization,chief|head|corporate director|boss|company director,Q28640|Q4164871|Q12737077|Q1474521,Q25713832|Q20920693,Director (business)
+limited liability company,business executive,Q2961975,0,1,2,"person responsible for running a business, or an aspect of it",business owner|head of a company|company head|company director|corporate executive,Q28640|Q12737077,Q978044|Q107100767|Q832136,Business executive
+limited liability company,kabushiki gaisha,Q1480166,0,1,2,company incorporated with limited liability under Japanese law,"kabushiki kaisha|kabushiki-gaisha|kabushikigaisha|kabushiki-kaisha|K.K.|Co. Ltd.|Company, Limited|Company Limited|Co., Ltd.|K.G.|KK|Japanese corporation",Q57655236|Q10541491,Q134161|Q48748864,Kabushiki gaisha
+limited liability company,limited company,Q33685,0,1,2,"company in which the liability of members or subscribers of the company is limited; affords shareholders of the company with ""limited liability"" if the company is unable to pay liabilities",private limited company|ltd company|limted company|company limited,Q10541491,Q567521,Limited company
+San Diego,San Diego,Q16552,0,2,1,"seat of San Diego County, California, United States; second-largest city in California","San Diego, California|SD|America's Finest City|Sandi|the birthplace of California|San Diego, CA|San Diego, Calif.",Q1093829|Q902814|Q1549591|Q13218391|Q62049,,San Diego
+San Diego,San Diego,Q979834,0,2,1,"city in Duval and Jim Wells counties, Texas, United States and county seat of Duval County","San Diego, Texas|San Diego, TX",Q1093829|Q62049,,"San Diego, Texas"
+San Diego,San Diego State University,Q913861,0,2,1,"public research university in San Diego, California, United States",SDSU|San Diego State College|sdsu.edu|California State University at San Diego,Q62078547|Q23002039,,San Diego State University
+San Diego,San Diego,Q1524790,0,2,1,Colombian municipality of the department of Cesar,,Q2555896,,"San Diego, Cesar"
+San Diego,San Diego,Q19758991,0,2,1,"town in Teziutlán Municipality, State of Puebla, Mexico",,Q20202352,,
+San Diego,San Diego,Q20274778,0,2,1,"town in Tlaxiaco Municipality, State of Oaxaca, Mexico",Barrio de San Diego,Q20202352,,
+San Diego,San Diego County,Q108143,0,2,1,"county in California, United States","San Diego County, California|County of San Diego, California|San Diego County, CA",Q13212489|Q131427665,,"San Diego County, California"
+San Diego,San Diego,Q20288632,0,2,1,"town in Benjamín Hill Municipality, State of Sonora, Mexico",,Q20202352,,
+San Diego,San Diego de la Unión Municipality,Q16628318,0,2,1,"municipality in the State of Guanajuato, Mexico",San Diego de la Union Municipality|San Diego Municipality|San Diego de la Unión|San Diego de la Union|San Diego,Q1952852,,
+San Diego,San Diego,Q499961,0,2,1,warship of the Spanish Navy,,Q35872|Q852190,,San Diego (ship)
+San Diego,San Diego Comic-Con International,Q279385,0,2,2,multi-genre entertainment and comic convention,Comic Con|Comic-Con|Comiccon|Comic-Con International: San Diego|SDCC,Q1129398|Q163740,,San Diego Comic-Con
+San Diego,San Diego Comic-Con 1995,Q135220824,0,2,2,fan convention edition,1995 Comic-Con International|Comic-Con International: San Diego 1995|Comic-Con 1995|SDCC 1995,Q27968055,,
+San Diego,San Diego Comic-Con 2013,Q135220842,0,2,2,fan convention edition,Comic-Con International: San Diego 2013|SDCC 2013|Comic-Con 2013|2013 Comic-Con International,Q27968055,,
+San Diego,San Diego Comic-Con 1998,Q135220827,0,2,2,fan convention edition,1998 Comic-Con International|Comic-Con 1998|Comic-Con International: San Diego 1998|SDCC 1998,Q27968055,,
+San Diego,San Diego Comic-Con 1975,Q135220804,0,2,2,fan convention edition,1975 Comic-Con International|Comic-Con 1975|Comic-Con International: San Diego 1975|SDCC 1975,Q27968055,,
+San Diego,San Diego Comic-Con 2015,Q135220844,0,2,2,fan convention edition,Comic-Con International: San Diego 2015|Comic-Con 2015|SDCC 2015|2015 Comic-Con International,Q27968055,,
+San Diego,San Diego Comic-Con 1996,Q135220825,0,2,2,fan convention edition,Comic-Con 1996|1996 Comic-Con International|SDCC 1996|Comic-Con International: San Diego 1996,Q27968055,,
+San Diego,San Diego Comic-Con 2004,Q135220833,0,2,2,fan convention edition,2004 Comic-Con International|Comic-Con International: San Diego 2004|Comic-Con 2004|SDCC 2004,Q27968055,,
+San Diego,San Diego Comic-Con 1999,Q135220828,0,2,2,fan convention edition,1999 Comic-Con International|Comic-Con 1999|Comic-Con International: San Diego 1999|SDCC 1999,Q27968055,,
+San Diego,San Diego Comic-Con 1997,Q135220826,0,2,2,fan convention edition,Comic-Con 1997|1997 Comic-Con International|Comic-Con International: San Diego 1997|SDCC 1997,Q27968055,,
+San Diego,San Diego Padres,Q721134,0,2,2,"Major League Baseball franchise in San Diego, California, United States",Padres|SDP,Q13027888,,San Diego Padres
+San Diego,San Diego Padres,Q3360389,0,2,2,Minor League Baseball team,,Q13027888,,San Diego Padres (PCL)
+San Diego,San Diego Padres,Q21829551,0,2,2,Sub-project of WikiProject Baseball,Padres,Q16695773,,Wikipedia:WikiProject Baseball/San Diego Padres task force
+San Diego,history of the San Diego Padres,Q17021104,0,2,2,aspect of history,the San Diego Padres history|San Diego Padres history,Q17524420,,History of the San Diego Padres
+San Diego,San Diego Padres award winners and league leaders,Q7413701,0,2,2,,,Q13406463,,San Diego Padres award winners and league leaders
+San Diego,San Diego Padres Hall of Fame,Q18157688,0,2,2,"baseball hall of fame of the local MLB franchise in San Diego, California",,Q1046088,,San Diego Padres Hall of Fame
+San Diego,San Diego Padres retired numbers,Q20685419,0,2,2,,,,,San Diego Padres retired numbers
+San Diego,San Diego Padres at San Francisco Giants 2010-08-15,Q124038732,0,2,2,,,Q27927857,,
+San Diego,"San Diego Padres at Houston Astros (April 19, 1992)",Q123643055,0,2,2,,,Q27927857,,
+San Diego,"San Diego Padres at Washington Nationals (May 28, 2011)",Q124038733,0,2,2,,,Q27927857,,
+San Diego,San Diego Zoo,Q818395,0,2,2,"zoo in Balboa Park, San Diego, California, United States",,Q43501,,San Diego Zoo
+San Diego,San Diego Zoo Safari Park,Q1368242,0,2,2,"zoo in San Pasqual Valley area of San Diego County, California, United States",Wild Animal Park|The Wild Animal Park|San Diego Wild Animal Park,Q43501|Q642682,,San Diego Zoo Safari Park
+San Diego,San Diego Zoo,Q114542225,0,2,2,episode of Cupcake Wars (S7 E12),,Q21191270,,
+San Diego,San Diego Zoo Presents: The Animals!,Q42851576,0,2,2,1994 video game,,Q7889,,The San Diego Zoo Presents: The Animals!
+San Diego,San Diego Zoo,Q116723656,0,2,2,"power station with capacity >1MW in San Diego County, California",,Q810924,,
+San Diego,San Diego Zoo Institute for Conservation Research,Q30296422,0,2,2,"archive organization in Escondido, United States",Center for Reproduction of Endangered Species|CRES,Q3152824,,
+San Diego,Zoological Society of San Diego,Q8074119,0,2,2,non-profit organization in the USA,San Diego Zoo Global|San Diego Zoo Wildlife Alliance,Q4830453|Q163740,,San Diego Zoo Wildlife Alliance
+San Diego,San Diego State Aztecs men's basketball,Q7413724,0,2,2,men's basketball team of San Diego State University,San Diego State basketball|San Diego State men's basketball|SDSU Aztecs men's basketball|SDSU men's basketball|SDSU basketball|San Diego State University Aztecs men's basketball|San Diego State University basketball|San Diego State University Aztecs basketball|San Diego State University men's basketball,Q13393265|Q18558301,,San Diego State Aztecs men's basketball
+San Diego,San Diego State University College of Sciences,Q7413734,0,2,2,school of San Diego State University,,Q4671277|Q180958|Q43229,,San Diego State University College of Sciences
+San Diego,San Diego State University College of Arts & Letters,Q7413726,0,2,2,school of San Diego State University,San Diego State University College of Arts and Letters|SDSU CAL,Q43229|Q180958,,San Diego State University College of Arts & Letters
+San Diego,San Diego State University Men's Lacrosse Team,Q16980604,0,2,2,,San Diego State University,,,San Diego State University men's lacrosse
+San Diego,San Diego State Aztecs,Q2875233,0,2,2,intercollegiate sports teams of San Diego State University,SDSU Aztecs|SDSU|San Diego State University athletics,Q2367225,,San Diego State Aztecs
+San Diego,San Diego State University College of Professional Studies & Fine Arts,Q7413733,0,2,2,academic department of San Diego State University,San Diego State University College of Professional Studies and Fine Arts,Q383092|Q180958|Q43229,,San Diego State University College of Professional Studies & Fine Arts
+San Diego,San Diego State University Fowler College of Business,Q7413727,0,2,2,school of San Diego State University,,Q1143635|Q43229|Q180958,,San Diego State University Fowler College of Business
+San Diego,San Diego State University College of Health & Human Services,Q7413732,0,2,2,school of San Diego State University,San Diego State University College of Health and Human Services,Q180958|Q43229,,San Diego State University College of Health & Human Services
+San Diego,San Diego State University College of Education,Q7413729,0,2,2,school of San Diego State University,"SDSU COE|SDSU College of Education|College of Education, San Diego State University",Q4671277|Q2120173|Q180958|Q43229,,San Diego State University College of Education
+Kris Oprisko,Kris Oprisko,Q6437264,0,3,1,American writer,,Q5,,Kris Oprisko
+Amar Chitra Katha,Amar Chitra Katha,Q3595277,1,0,1,India based comic book series and publisher,Amar Chitra Katha Pvt. Ltd.|Amar Chitra Katha Private Limited|ACK Media|Amar Chitra Katha Pvt Ltd.|Amar Chitra Katha Pvt Ltd,Q1114515|Q2085381|Q1320047|Q14406742,,Amar Chitra Katha
+Amar Chitra Katha,Anant Pai,Q3518958,1,0,2,Indian comics artist (1929–2011),,Q5,,Anant Pai
+Amar Chitra Katha,Anant Paith railway station,Q63354942,1,0,2,"railway station in Madhya Pradesh, India",,Q55488,,
+Amar Chitra Katha,"Anant Pai, 81, Is Dead; Comics Told Indian Children Their Country’s Stories",Q123674186,1,0,2,"The New York Times article (March 1, 2011)",,Q309481,,
+Amar Chitra Katha,limited company,Q33685,1,0,2,"company in which the liability of members or subscribers of the company is limited; affords shareholders of the company with ""limited liability"" if the company is unable to pay liabilities",private limited company|ltd company|limted company|company limited,Q10541491,Q567521,Limited company
+Amar Chitra Katha,osakeyhtiö,Q333920,1,0,2,type of business entity in Finland,aktiebolag|Ab|limited company|limited company (Finland)|aktiebolag (Finland)|Ab (Finland)|Oy,Q55116439|Q10541491,Q134161|Q155076,Osakeyhtiö
+Amar Chitra Katha,Limited Company,Q422069,1,0,2,Legal form in Ireland,Ltd.,Q106730301|Q10541491,Q134161|Q155076|Q33685,
+Amar Chitra Katha,business corporation,Q422074,1,0,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+Amar Chitra Katha,private company limited by shares,Q6832945,1,0,2,"private company limited by private untraded shares, legal formation in England and Wales, UK, overseen by Companies House",Ltd company|private limited company (UK)|Ltd,Q57655433|Q10541491,Q17376040|Q134161|Q155076|Q7897766,Private company limited by shares
+Amar Chitra Katha,Company Limited (Thailand),Q130279147,1,0,2,legal form in Thailand,Limited company,Q10541491,Q33685,
+Amar Chitra Katha,limited company,Q118581545,1,0,2,Icelandic legal entity,hlutafélag,Q1269299|Q10541491,Q134161,
+Amar Chitra Katha,Limited Company Act,Q11516728,1,0,2,Japanese statute,,Q820655,,
+Amar Chitra Katha,limited company (South Korea),Q130278806,1,0,2,legal form in South Korea,,Q10541491,Q17376040,
+Amar Chitra Katha,Limited Company,Q54860206,1,0,2,Dutch organization,,Q43229,,
+Amar Chitra Katha,Mumbai,Q1156,1,0,2,"capital city in Maharashtra, India",Bombay,Q174844|Q11271835|Q515|Q3257686|Q200250|Q745456|Q51929311,,Mumbai
+Amar Chitra Katha,Mumbai City district,Q2341660,1,0,2,district of Maharashtra in Konkan Division,Mumbai district,Q1149652,,Mumbai City district
+Amar Chitra Katha,Mumbai Suburban district,Q2085374,1,0,2,district of Maharashtra in India,Mumbai suburban,Q1149652,,Mumbai Suburban district
+Amar Chitra Katha,Mumbai F.C.,Q1339576,1,0,2,association football club,Mumbai Football Club,Q476028,,Mumbai FC
+Amar Chitra Katha,Mumbai Indians,Q1195237,1,0,2,IPL franchise,MI,Q17376093,,Mumbai Indians
+Amar Chitra Katha,University of Mumbai,Q406402,1,0,2,"state public university in Mumbai, Maharashtra, India",MU|Mumbai University|University of Bombay|Bombay University,Q3918|Q7603893,,University of Mumbai
+Amar Chitra Katha,Mumbai cricket team,Q1378539,1,0,2,cricket team representing the city of Mumbai in Indian domestic cricket,,Q17376093,,Mumbai cricket team
+Amar Chitra Katha,Chhatrapati Shivaji Maharaj International Airport,Q504368,1,0,2,"airport in Mumbai, India",CSIA|Mumbai International Airport|Bombay International Airport|MIAL|Sahar Airport|BOM|VABB|MUMBAI (MIAL)|Chhatrapati Shivaji International Airport|CSMIA,Q644371|Q94993988,,Chhatrapati Shivaji Maharaj International Airport
+Amar Chitra Katha,Chhatrapati Shivaji Maharaj Terminus,Q235884,1,0,2,railway station and UNESCO World Heritage Site in Mumbai,Mumbai CSMT|Victoria Terminus|Bombay VT|Chhatrapati Shivaji Terminus railway station,Q22808404|Q11606300|Q55485,,Chhatrapati Shivaji Terminus
+Amar Chitra Katha,Bombay Presidency,Q891827,1,0,2,administrative unit in British India,Mumbai Presidency|Bombay,Q17319258,,Bombay Presidency
+limited company,limited company,Q33685,1,1,1,"company in which the liability of members or subscribers of the company is limited; affords shareholders of the company with ""limited liability"" if the company is unable to pay liabilities",private limited company|ltd company|limted company|company limited,Q10541491,Q567521,Limited company
+limited company,osakeyhtiö,Q333920,1,1,1,type of business entity in Finland,aktiebolag|Ab|limited company|limited company (Finland)|aktiebolag (Finland)|Ab (Finland)|Oy,Q55116439|Q10541491,Q134161|Q155076,Osakeyhtiö
+limited company,Limited Company,Q422069,1,1,1,Legal form in Ireland,Ltd.,Q106730301|Q10541491,Q134161|Q155076|Q33685,
+limited company,business corporation,Q422074,1,1,1,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+limited company,private company limited by shares,Q6832945,1,1,1,"private company limited by private untraded shares, legal formation in England and Wales, UK, overseen by Companies House",Ltd company|private limited company (UK)|Ltd,Q57655433|Q10541491,Q17376040|Q134161|Q155076|Q7897766,Private company limited by shares
+limited company,Company Limited (Thailand),Q130279147,1,1,1,legal form in Thailand,Limited company,Q10541491,Q33685,
+limited company,limited company,Q118581545,1,1,1,Icelandic legal entity,hlutafélag,Q1269299|Q10541491,Q134161,
+limited company,Limited Company Act,Q11516728,1,1,1,Japanese statute,,Q820655,,
+limited company,limited company (South Korea),Q130278806,1,1,1,legal form in South Korea,,Q10541491,Q17376040,
+limited company,Limited Company,Q54860206,1,1,1,Dutch organization,,Q43229,,
+limited company,corporation,Q57655560,1,1,2,"in the United States, a business entity incorporated under any state or territorial statute",American corporation|United States corporation|U.S. corporation|Incorporated|Inc.|corporation in the United States|US corporation|Corp.|US Inc.,Q57653825,Q167037|Q7451779,Corp.
+limited company,corporation,Q167037,1,1,2,legal entity incorporated through a legislative or registration process,corporated entity|Corp.|Co.,Q10541491,Q155076|Q783794,Corporation
+limited company,Corporation,Q2189424,1,1,2,1990 video game,,Q7889,,Corporation (video game)
+limited company,Corporation,Q55246708,1,1,2,1988 video game for the Commodore 64,The Corporation,Q7889,,
+limited company,corporation,Q1586331,1,1,2,body of municipal self-government in the Prussian provinces,,,Q167037,
+limited company,corporation in Japan,Q48748864,1,1,2,group of persons operating for a certain purpose as established under Japanese law,hojin|hōjin|corporation (Japan)|houjin|corporation,,Q155076|Q167037,
+limited company,Corporation Bank,Q2003387,1,1,2,former public sector bank in India,,Q4830453|Q22687|Q650241,,Corporation Bank
+limited company,Corporation Bank branch,Q66768699,1,1,2,branch of Corporation Bank,,,Q21073937,
+limited company,Corporation for Public Broadcasting,Q2628754,1,1,2,non-profit corporation created by an act of the United States Congress and funded by the United States federal government to promote public broadcasting,CPB,Q4830453|Q163740,,Corporation for Public Broadcasting
+limited company,Business Corporation,Q130264117,1,1,2,"legal form in North Carolina, United States of America",,Q10541491,Q57655560,
+limited company,New York Business Corporation,Q108103696,1,1,2,"legal form used for businesses registered under ""Business Corporation Law"" in the state of New York, USA",BSC|Business Corporation,Q10541491,Q57655560,
+limited company,Domestic BCA,Q118444579,1,1,2,legal form for for-profit corporations incorporated in Illinois under the Business Corporation Act,business corporation|domestic business corporation (Illinois)|DOMESTIC BCA,Q1269299|Q10541491,Q57655560,
+limited company,business corporation,Q129957070,1,1,2,legal form in the U.S. state of Pennsylvania,Pennsylvania business corporation|domestic business corporation,Q10541491,Q5466628,
+limited company,Business Corporation,Q130264111,1,1,2,"legal form in Alaska, United States of America",,Q10541491,Q57655560,
+limited company,Business Corporation,Q130264113,1,1,2,"legal form in Minnesota, United States of America",,Q10541491,Q57655560,
+limited company,Business Corporation,Q130264121,1,1,2,"legal form in South Carolina, United States of America",,Q10541491,Q57655560,
+limited company,Business Corporation,Q130264112,1,1,2,"legal form in Maine, United States of America",,Q10541491,Q57655560,
+limited company,Business Corporation,Q130264114,1,1,2,"legal form in Mississippi, United States of America",,Q10541491,Q57655560,
+limited company,Company Limited by Shares,Q130315892,1,1,2,legal form in the Seychelles,,Q10541491,Q134161,
+limited company,Company Limited by Shares,Q129982414,1,1,2,legal form in Belize,,Q10541491,Q6881511,
+limited company,company limited by shares,Q130285140,1,1,2,legal form in Jamaica,,Q10541491,Q134161,
+limited company,Company Limited By Shares,Q130271628,1,1,2,"legal form in Ras Al Khaimah, United Arab Emirates",,Q10541491,Q33685|Q134161,
+limited company,company limited by shares,Q130271696,1,1,2,"legal form in Guernsey, Bailiwick of Guernsey",,Q10541491,Q134161,
+limited company,company limited by shares,Q130192124,1,1,2,legal form on the Cayman Islands,,Q10541491,Q6130988,
+limited company,company limited by shares,Q130281211,1,1,2,legal form in the Virgin Islands (British),,Q10541491,Q33685,
+limited company,Company Limited by Shares,Q129514778,1,1,2,legal form in the Bahamas,,Q10541491,Q33685,
+limited company,Company Limited by Shares (PRC),Q140206059,1,1,2,legal form in the PRC,"Company Limited by Shares (China)|joint-stock company (PRC)|joint-stock company (China)|Company Limited (China)|Co., Ltd. (China)|Corporation (China)|Corp. (China)|Inc. (China)|Company Limited (PRC)|Co., Ltd. (PRC)|Corporation (PRC)|Corp. (PRC)|Inc. (PRC)",Q130419100,Q134161,
+limited company,Company Limited by Shares (Taiwan),Q130279318,1,1,2,legal form in Taiwan,"Company Limited (Taiwan)|Co., Ltd. (Taiwan)|Corporation (Taiwan)|Corp. (Taiwan)|Inc. (Taiwan)|joint-stock company (Taiwan)",Q130420688,Q134161,
+limited company,Company Limited by Guarantee,Q111103569,1,1,2,Irish legal form mainly used by nonprofits,CLG Ireland|CLG,Q10541491,Q6516200,
+limited company,Company Limited by Guarantee,Q113548336,1,1,2,Malaysian legal form mainly used by nonprofits,CLG Malaysia,Q10541491,Q6516200,
+limited company,Company Limited by Guarantee (Sri Lanka),Q139986962,1,1,2,legal form for companies in Sri Lanka,Company Limited by Guarantee,Q10541491,Q6516200,
+limited company,company limited by guarantee (Nigeria),Q124065439,1,1,2,legal entity for nonprofit organiations in Nigeria,company limited by guarantee,Q1269299,Q6516200,
+limited company,Company Limited by Guarantee,Q131600084,1,1,2,legal form in Uganda,,Q10541491,Q6516200,
+limited company,Company Limited by Guarantee,Q131552985,1,1,2,legal form for non-profit organisations in Singapore,Company Limited by Guarantee (Singapore),Q10541491,Q6516200,
+limited company,company limited by guarantee,Q130271706,1,1,2,"legal form in Alderney, Bailiwick of Guernsey",,Q10541491,,
+limited company,Company Limited By Guarantee,Q130271626,1,1,2,"legal form in Ras Al Khaimah, United Arab Emirates",,Q10541491,Q33685,
+limited company,Company Limited by Guarantee,Q130315896,1,1,2,legal form in the Seychelles,,Q10541491,Q6516200,
+limited company,Company limited by guarantee,Q129999761,1,1,2,legal form in Hong Kong,,Q10541491,Q17376040,
+limited company,corporation sole,Q5172541,1,1,2,"legal entity consisting of a single incorporated office, occupied by a single person",,,Q155076,Corporation sole
+limited company,Corporation Sole,Q130264230,1,1,2,"legal form in Hawaii, United States of America",,Q10541491,Q5172541,
+limited company,Corporation Sole,Q130264229,1,1,2,"legal form in Arizona, United States of America",,Q10541491,Q5172541,
+Mumbai,Mumbai,Q1156,1,2,1,"capital city in Maharashtra, India",Bombay,Q174844|Q11271835|Q515|Q3257686|Q200250|Q745456|Q51929311,,Mumbai
+Mumbai,Mumbai City district,Q2341660,1,2,1,district of Maharashtra in Konkan Division,Mumbai district,Q1149652,,Mumbai City district
+Mumbai,Mumbai Suburban district,Q2085374,1,2,1,district of Maharashtra in India,Mumbai suburban,Q1149652,,Mumbai Suburban district
+Mumbai,Mumbai F.C.,Q1339576,1,2,1,association football club,Mumbai Football Club,Q476028,,Mumbai FC
+Mumbai,Mumbai Indians,Q1195237,1,2,1,IPL franchise,MI,Q17376093,,Mumbai Indians
+Mumbai,University of Mumbai,Q406402,1,2,1,"state public university in Mumbai, Maharashtra, India",MU|Mumbai University|University of Bombay|Bombay University,Q3918|Q7603893,,University of Mumbai
+Mumbai,Mumbai cricket team,Q1378539,1,2,1,cricket team representing the city of Mumbai in Indian domestic cricket,,Q17376093,,Mumbai cricket team
+Mumbai,Chhatrapati Shivaji Maharaj International Airport,Q504368,1,2,1,"airport in Mumbai, India",CSIA|Mumbai International Airport|Bombay International Airport|MIAL|Sahar Airport|BOM|VABB|MUMBAI (MIAL)|Chhatrapati Shivaji International Airport|CSMIA,Q644371|Q94993988,,Chhatrapati Shivaji Maharaj International Airport
+Mumbai,Chhatrapati Shivaji Maharaj Terminus,Q235884,1,2,1,railway station and UNESCO World Heritage Site in Mumbai,Mumbai CSMT|Victoria Terminus|Bombay VT|Chhatrapati Shivaji Terminus railway station,Q22808404|Q11606300|Q55485,,Chhatrapati Shivaji Terminus
+Mumbai,Bombay Presidency,Q891827,1,2,1,administrative unit in British India,Mumbai Presidency|Bombay,Q17319258,,Bombay Presidency
+Anant Pai,Anant Pai,Q3518958,1,3,1,Indian comics artist (1929–2011),,Q5,,Anant Pai
+Anant Pai,Anant Paith railway station,Q63354942,1,3,1,"railway station in Madhya Pradesh, India",,Q55488,,
+Anant Pai,"Anant Pai, 81, Is Dead; Comics Told Indian Children Their Country’s Stories",Q123674186,1,3,1,"The New York Times article (March 1, 2011)",,Q309481,,
+Anant Pai,Amar Chitra Katha,Q3595277,1,3,2,India based comic book series and publisher,Amar Chitra Katha Pvt. Ltd.|Amar Chitra Katha Private Limited|ACK Media|Amar Chitra Katha Pvt Ltd.|Amar Chitra Katha Pvt Ltd,Q1114515|Q2085381|Q1320047|Q14406742,,Amar Chitra Katha

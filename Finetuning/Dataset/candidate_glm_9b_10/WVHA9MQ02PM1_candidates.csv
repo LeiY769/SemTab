@@ -1,0 +1,180 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+ttarakkara,,,0,0,0,,,,,
+Farmgrsville,farm,Q131596,1,0,2,"area of land for farming, or, for aquaculture, lake, river or sea, including various structures",agricultural holding,,Q27096235|Q1497364|Q18247357|Q10480682,Farm
+Farmgrsville,farmer,Q131512,1,0,2,"person engaged in agriculture, raising living organisms for food or raw materials",agriculturist|grower|raiser|cultivator|agriculturer,Q12737077|Q778000,Q19261760|Q108290536|Q126838368,Farmer
+Farmgrsville,Farm,Q19884925,1,0,2,painting by Rafael Moreno,,Q3305213,,
+Farmgrsville,farmhouse,Q489357,1,0,2,chief dwelling-house attached to a farm,farm house|farm-house,,Q3947|Q5784806,Farmhouse
+Farmgrsville,agriculture,Q11451,1,0,2,"practice of cultivating plants and raising animals to produce food, fiber, fuel, and other products; one of humanity's oldest and most widespread activities, forming the foundation of most human civilizations",farming,Q3958441|Q627436,Q1801887|Q357279,Agriculture
+Farmgrsville,Farm,Q114707672,1,0,2,"painting by Floris Verster, Kunstmuseum Den Haag",,Q3305213,,
+Farmgrsville,farmstead,Q72030539,1,0,2,buildings and service areas associated with a farm,,Q1969448,Q131596|Q1497364,Farmstead
+Farmgrsville,Farmington,Q743287,1,0,2,"town in Hartford County, Connecticut, United States","Farmington, Connecticut|Farmington, CT",Q2154459,,"Farmington, Connecticut"
+Farmgrsville,Farmer,Q5435709,1,0,2,family name,,Q101352,,Farmer (surname)
+Farmgrsville,Färm,Q21482589,1,0,2,family name,,Q101352,,
+Farmgrsville,gender-affirming surgery,Q1053501,1,0,2,surgical procedures to alter sexual characteristics to match identified gender,SRS|GAS|GRS|sex change surgery|sex change operation|gender confirmation surgery|gender affirmation surgery|sexual reassignment surgery|sex reassignment surgery|gender reassignment surgery|transgender surgery|gender realignment surgery|gender confirming surgery|gender-confirming surgery|gender affirming surgery,,Q4131496|Q73523825|Q15748953|Q1085588,Gender-affirming surgery
+Farmgrsville,grossular,Q220373,1,0,2,"garnet, nesosilicate mineral",grossularite|Grs|grossular garnet,Q12089225,Q105368,Grossular
+Farmgrsville,Sabah People's Alliance,Q99688630,1,0,2,ruling political coalition of Malaysia,GRS,Q6138528|Q7278,,Gabungan Rakyat Sabah
+Farmgrsville,BCL2A1,Q20969996,1,0,2,protein-coding gene in the species Homo sapiens,ACC-1|ACC-2|ACC1|ACC2|BCL2L5|BFL1|GRS|HBPA1|BCL2 related protein A1,Q7187,Q20747295,BCL2-related protein A1
+Farmgrsville,Grosseto Airport,Q1054219,1,0,2,airport,LIRS|Grosseto Mil Airport|GRS,Q1248784|Q94993988|Q695850,,Grosseto Airport
+Farmgrsville,GlyRS,Q29722648,1,0,2,protein-coding gene in the species Drosophila melanogaster,Dmel_CG6778|Glycyl-tRNA synthetase|Aat-gly|gars|Aats-gly|CG6778|Dmel\CG6778|GRS|team|dGars|aaRS(Gly),Q7187,,
+Farmgrsville,Grand Rapids Symphony,Q5595017,1,0,2,"American community supported orchestra in Grand Rapids, Michigan",GR Symphony|GRS,Q42998|Q163740,,Grand Rapids Symphony
+Farmgrsville,Global Registry of Scientific Collections,Q98594614,1,0,2,database of scientific institutions and collections,GRSciColl|GBIF Registry of Scientific Collections,Q7094076,,
+Farmgrsville,grs,Q28974908,1,0,2,free software,,Q7397,,
+Farmgrsville,Great Smoky Mountains National Park,Q464004,1,0,2,U.S. national park in Tennessee and North Carolina,Great Smoky Mts National Park|Great Smoky Mt National Park|GRSM|GSMNP,Q34918903|Q46169,,Great Smoky Mountains National Park
+Farmgrsville,sill plate,Q2134272,1,0,2,bottom horizontal member of a wall or building to which vertical members are attached,sole plate|sill|Sill plate,,Q391414|Q1370714,Sill plate
+Farmgrsville,Svillemyr,Q34664817,1,0,2,,,Q30198,,
+Farmgrsville,Svillebråta,Q31097983,1,0,2,hill in Norway,,Q54050,,
+Farmgrsville,Svillelvi,Q34868627,1,0,2,river in Norway,,Q4022,,
+Farmgrsville,Neolentinus lepideus,Q1513545,1,0,2,species of fungus,scaly lentinus|train wrecker,Q16521,,Neolentinus lepideus
+Southpor,Southport,Q868647,2,0,1,"town in the Metropolitan Borough of Sefton, England","Southport, Merseyside|Southport, Lancashire",Q3957|Q1115575|Q7897276|Q1021711,,Southport
+Southpor,Southport,Q1002144,2,0,1,"suburb of the Gold Coast in Queensland, Australia","Southport, Queensland|Southport, Queensland, Australia",Q515,,"Southport, Queensland"
+Southpor,Southport,Q7570941,2,0,1,"census-designated place in Fairfield, Connecticut, United States of America","Southport, Connecticut",Q498162|Q17343829,,"Southport, Connecticut"
+Southpor,Southport F.C.,Q18525,2,0,1,"association football club in Southport, England",Southport Football Club|Southport FC|Southport|The Sandgrounders|SFC,Q476028,,Southport F.C.
+Southpor,Southport,Q19879299,2,0,1,"town in Tasmania, Australia","Southport, Tasmania|Southport, Tasmania, Australia",Q3257686|Q98433835,,"Southport, Tasmania"
+Southpor,Southport station,Q7570945,2,0,1,"railway station in Fairfield, Connecticut, United States",Southport,Q55488|Q22808404,,Southport station (Metro-North)
+Southpor,Southport Lagoon,Q55442438,2,0,1,"locality in Huon Valley, Tasmania, Australia","Southport Lagoon, Tasmania, Australia|Southport Lagoon, Tasmania",Q3257686|Q98433835,,Southport Lagoon
+Southpor,Southport,Q629993,2,0,1,"city in North Carolina, United States","Southport, North Carolina|Smithville|Smithville, North Carolina|Southport, NC",Q1093829|Q132680629,,"Southport, North Carolina"
+Southpor,Southport,Q988601,2,0,1,"Parliamentary constituency in the United Kingdom, 1885 onwards",,Q27971968,,Southport (constituency)
+Southpor,The Southport School,Q7765598,2,0,1,"independent primary and secondary school in Southport, QLD, Australia",Southport School|TSS,Q423208|Q9826|Q9842|Q159334,,The Southport School
+Southpor,Southport,Q5355965,2,0,2,"state electoral district of Queensland, Australia",Electoral district of Southport,Q5356184,,Electoral district of Southport
+Southpor,Southport,Q2517335,2,0,2,"town in Marion County, Indiana, United States","Southport, Indiana|Southport, IN",Q1093829,,"Southport, Indiana"
+Hebrn,Hebron,Q2692516,3,0,2,"village and civil parish in Northumberland, England","Hebron, Northumberland",Q532|Q1115575,,"Hebron, Northumberland"
+Hebrn,Hebron,Q168225,3,0,2,Palestian city in the occupied West Bank,H̱evron|Al-Khalil|Al Khalil|AlKhalil,Q515,,Hebron
+Hebrn,Hebron,Q1484910,3,0,2,"town in Connecticut, United States","Hebron, Connecticut|Hebron, CT",Q15127012,,"Hebron, Connecticut"
+Hebrn,Hebron,Q960489,3,0,2,"city in and county seat of Thayer County, Nebraska, United States","Hebron, Nebraska|Hebron, NE",Q1093829|Q62049,,"Hebron, Nebraska"
+Hebrn,Hebron,Q1592833,3,0,2,Catholic titular see,,Q15217609,,
+Hebrn,Hebron Governorate,Q264180,3,0,2,governorate of the Palestinian National Authority,Al Khalil|Muḥāfaẓat al-Ḫalīl,Q50495,,Hebron Governorate
+Hebrn,Hebron,Q586964,3,0,2,"town in Grafton County, New Hampshire, USA","Hebron, New Hampshire|Hebron NH|Hebron N.H.|Hebron, NH",Q2154459,,"Hebron, New Hampshire"
+Hebrn,Hebron,Q3708919,3,0,2,"town in Washington County, New York, United States","Hebron, New York|Hebron, NY",Q15127012|Q106071004,,"Hebron, New York"
+Hebrn,Hebron,Q5695982,3,0,2,"census-designated place in Boone County, Kentucky","Hebron, Kentucky|Hebron, KY",Q498162|Q17343829,,"Hebron, Kentucky"
+Hebrn,Hebron,Q3447361,3,0,2,town in Maine,"Hebron, ME",Q2154459,,"Hebron, Maine"
+os Arabos,,,4,0,0,,,,,
+Lem,Lviv,Q36036,5,0,1,capital city of Lviv Oblast in western Ukraine,Lemberik|L'vov|Leopol,Q12131624|Q163725,,Lviv
+Lem,Lem,Q37566712,5,0,1,family name,,Q101352,,
+Lem,Leyton Midland Road railway station,Q2217020,5,0,1,"railway station in Leyton Midland Road, London Borough of Waltham Forest, England, UK",Leyton Midland Road Station|LEM,Q55488,,Leyton Midland Road railway station
+Lem,Lemna minor,Q26875,5,0,1,species of plant,,Q16521,Q190903|Q1592155,Lemna minor
+Lem,ring-tailed lemur,Q185385,5,0,1,large species of strepsirrhine primate,ringtailed lemur|Lemur catta,Q16521,,Ring-tailed lemur
+Lem,Lempäälä,Q838821,5,0,1,municipality in the region of Pirkanmaa in Finland,Lempaala,Q856076,,Lempäälä
+Lem,Lemland,Q176186,5,0,1,"municipality of Åland, Finland",,Q856076,,Lemland
+Lem,Lemna gibba,Q157897,5,0,1,species of plant,Common duckweed,Q16521,,Lemna gibba
+Lem,Lemi,Q180327,5,0,1,municipality in the region of South Karelia in Finland,Klemis,Q856076,,Lemi
+Lem,Lembosia,Q6521093,5,0,1,genus of fungi,,Q16521,,Lembosia
+Lem,Lemur,Q2340126,5,0,2,"genus of mammals (not the common idea of ""lemurs"", which is Q1192405)",lemur genus,Q16521,,
+Lem,Lemuriformes,Q37212,5,0,2,infraorder of mammals,lemurs|lemur,Q16521,,Lemuriformes
+Lem,Lemuroidea,Q1192405,5,0,2,"superfamily of mammals, informally known as lemurs",lemurs|lemur,Q16521,,Lemur
+Lem,Lemuridae,Q186462,5,0,2,family of primates,,Q16521,,Lemuridae
+Lem,System76 Lemur,Q135667971,5,0,2,series of laptop computer models by System76,System76 Lemur Pro|Lemur|Lemur Pro,Q60484681,Q3962,
+Lem,Lemur fulvus,Q41165599,5,0,2,species of mammal,common brown lemur,Q16521,,
+Lem,Lemurella,Q3906274,5,0,2,genus of plants,,Q16521,,Lemurella
+Lem,Lemurangis,Q5972704,5,0,2,genus of plants,,Q16521,,
+Lem,Lemur macaco,Q41165604,5,0,2,species of mammal,black lemur,Q16521,,
+Lem,Cymbopogon citratus,Q33913,5,0,2,species of plant,lemongrass,Q16521|Q1362373,,Cymbopogon citratus
+Lem,Cymbopogon,Q5727732,5,0,2,genus of plants,lemongrass,Q16521|Q25403900,,Cymbopogon
+Lem,Lemongrass,Q1817099,5,0,2,German music project and record label,,Q2707384,,Lemongrass (music)
+Lem,LemonGrass,Q48965332,5,0,2,Mexican band,,Q215380,,LemonGrass
+Lem,lemongrass oil,Q63346734,5,0,2,essential oil distilled from species of Cymbopogon,,,Q170885,
+Lem,Lemongrass,Q111124852,5,0,2,hostel in Limassol,,Q654772,,
+Lem,nest,Q4785,5,0,2,structure built by animals to hold their young,nests|drey|animal nest,Q111972893,Q56656227,Nest
+Lem,Cymbopogon citratus leaf,Q47010569,5,0,2,leaf,lemongrass leaf,Q25403900,Q33971|Q207123,
+Lem,Lemongrass Park,Q49515845,5,0,2,park in the United States of America,,Q22698,,
+Lem,Lemongrass Park,Q21933909,5,0,2,"park in Western Australia, Australia",,Q22698,,
+Lem,infinity symbol,Q6030066,5,0,2,"mathematical symbol ∞ (U+221E), lemniscate",INFINITY|infinity sign|lemniscate,Q29654788|Q10376408,,Infinity symbol
+Lem,lemniscate,Q10545374,5,0,2,figure-eight-shaped curve,figure-eight curve|figure-eight|figure eight|figure 8|infinity shape,,Q266237|Q1060874,Lemniscate
+Lem,Lemniscate,Q6521245,5,0,2,album by Vinyl Williams,,Q482994,,Lemniscate (album)
+Lem,lemniscate of Bernoulli,Q736896,5,0,2,plane algebraic curve,,Q24034552,Q2064156|Q1205428|Q10545374|Q728699|Q3821128,Lemniscate of Bernoulli
+Lem,Gauss's constant,Q1248689,5,0,2,transcendental number; the reciprocal of the arithmetic–geometric mean of 1 and √2,G|Lemniscate constant,Q173091|Q607728,,Lemniscate constant
+Lem,lemniscate of Gerono,Q2346810,5,0,2,plane algebraic curve,figure-eight curve|Gerono lemniscate,,Q266237|Q1857574|Q10545374,Lemniscate of Gerono
+Lem,lemniscate arcsine,Q105840076,5,0,2,mathematical function,,Q11348,,
+Lem,hippopede,Q1205428,5,0,2,plane curve,,Q24034552,Q266237|Q1627103|Q1857574,Hippopede
+Lem,Lemniscate and exponential starlikeness of regular Coulomb wave functions,Q115513718,5,0,2,scientific article published in 2020,,Q13442814,,
+Lem,Lemniscates and Osculatory Interpolation,Q129990686,5,0,2,scholarly article published in February 1994,,Q13442814,,
+Brackenhhim,,,6,0,0,,,,,
+Hanst,Johannes von Hanstein,Q71063,7,0,1,German botanist (1822-1880),Hanst.|Johannes Ludwig Emil Robert von Hanstein,Q5,,Johannes von Hanstein
+Hanst,Hanstholm,Q1026874,7,0,1,small town on the Danish west coast,,Q3957,,Hanstholm
+Hanst,Hansteinia,Q12175756,7,0,1,genus of plants,,Q16521,,
+Hanst,Hanstad,Q37498865,7,0,1,family name,,Q101352,,
+Hanst,Hanstock,Q100790179,7,0,1,family name,Hanstock (family name)|Hanstock (surname),Q101352,,
+Hanst,Hansteinstraße,Q98582307,7,0,1,"street in the city district of Herrenhausen in Hanover, Germany",Hansteinstraße (Hannover),Q79007,,
+Hanst,Hanstrassia,Q43869284,7,0,1,genus of fungi,,Q16521,,Hanstrassia
+Hanst,Hanstveit,Q16799191,7,0,1,family name,Hanstveit (surname),Q101352,,Hanstveit
+Hanst,Hanstrassia lenae,Q43869838,7,0,1,species of fungus,,Q16521,,Hanstrassia lenae
+Hanst,Hanstruepera,Q27438594,7,0,1,genus of bacteria,,Q16521,,Hanstruepera
+Hanst,Hans Tausen,Q347726,7,0,2,Danish religious reformer,Bishop in Ribe Hans Tausen,Q5,,Hans Tausen
+Hanst,Hans Tausen Olsen,Q113860604,7,0,2,,,Q5,,
+Hanst,Hans Tausen's Church,Q11974133,7,0,2,"church building in Copenhagen Municipality, Denmark",,Q16970,,Hans Tausen's Church
+Hanst,Hans Tausens Parish,Q1582735,7,0,2,subdivision of the Diocese of Funen,,Q814648,,
+Hanst,Hans Tausen Iskappe,Q5650769,7,0,2,ice cap in Greenland,,Q35666,,Hans Tausen Ice Cap
+Hanst,Hans Tausens Church,Q12315565,7,0,2,"church building in Odense Municipality, Denmark",,Q16970,,
+Hanst,Hans Tausenkollegiet,Q12315563,7,0,2,,,Q3661265,,
+Hanst,Hans Tausens Hus,Q56678804,7,0,2,"building in Esbjerg Municipality, Denmark",,Q41176,,
+Hanst,Hans Tausens Hus,Q68666596,7,0,2,,,Q41176,,
+Hanst,Hans Tausendfreund,Q95334471,7,0,2,,,Q5,,
+Ledus,ice,Q23392,8,0,1,water frozen into the solid state,solid water|water ice|water|crystalline water|frozen water|frozen ice,Q111360549,Q283|Q11438,Ice
+Ledus,Ledus Street,Q134474570,8,0,1,"street in Jēkabpils, Latvia",Ledus iela,Q79007,,
+Ledus,Loir,Q376133,8,0,1,river in France,,Q4022,,Loir
+Ledus,ice hockey,Q41466,8,0,1,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+Ledus,Ledusjön,Q17519306,8,0,1,"lake in Nordmaling Municipality, Sweden",,Q23397|Q30092776,,
+Ledus,Ledus Street,Q123850808,8,0,1,"street in Riga, Latvia",Ledus iela,Q79007,,
+Ledus,Ledusha Spinardi,Q28028887,8,0,1,Brazilian translator,,Q5,,
+Ledus,Leduše Pešatová,Q95155059,8,0,1,,,Q5,,
+Ledus,Ledus (Pauly-Wissowa),Q137563538,8,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Ledus,ice hockey team,Q4498974,8,0,1,group of people that play ice hockey,,,Q12973014,
+Farehm,,,9,0,0,,,,,
+Parsboro,Baltimore County,Q488668,10,0,2,"county in Maryland, United States","County of Maryland|Baltimore County, Maryland|Baltimore County, MD",Q13410464,,"Baltimore County, Maryland"
+Parsboro,"2020 COVID-19 pandemic in Baltimore County, Maryland",Q94278105,10,0,2,"pandemic in Baltimore County, Maryland","COVID-19 pandemic in Baltimore County, Maryland|2020 coronavirus outbreak in Baltimore County, Maryland|2020 Baltimore County, Maryland COVID-19 pandemic|Baltimore County, Maryland COVID-19 pandemic|2020 COVID pandemic in Baltimore County, Maryland",Q3241045,,
+Parsboro,Parsippany-Troy Hills,Q532344,10,0,2,"township in Morris County, New Jersey, United States","Parsippany-Troy Hills, New Jersey|Parsippany-Troy Hills Township|Parsippany|Parsippany-Troy Hills, NJ|Parsippany, New Jersey|Parsippany, NJ",Q7830213,,"Parsippany–Troy Hills, New Jersey"
+Parsboro,Parsippany-Troy Hills School District,Q7139990,10,0,2,"school district in Morris County, New Jersey, United States",,Q398141,,Parsippany–Troy Hills School District
+Parsboro,Parsippany-Troy Hills Public Library,Q69484572,10,0,2,"public library system in New Jersey, USA",,Q26271642,,
+Parsboro,Parsippany-Troy Hills Public Library,Q69957747,10,0,2,"public library in Parsippany, New Jersey, USA",,Q12317349|Q28564,,
+Taji,Tajik,Q9260,11,0,1,language spoken in Tajikistan,Tajiki|Tajiki language|Tadjik|Tadjik language|Tadzhik|Tadzhik language|Tajik Persian|Tajiki Persian|Tajik language,Q286576|Q1288568|Q21663239|Q23492|Q33742,Q49478393,Tajik language
+Taji,Taji,Q14750038,11,0,1,"village in Lamongan Regency, East Java, Indonesia",Desa Taji,Q26211545,,
+Taji,Tajik Wikipedia,Q2742472,11,0,1,Tajik-language edition of Wikipedia,,Q10876391|Q36509592,,Tajik Wikipedia
+Taji,Taji,Q13097616,11,0,1,"village in Juwiring District, Klaten Regency, Central Java, Indonesia",Desa Taji,Q26211545,,
+Taji,Taji,Q12518590,11,0,1,"village in Malang Regency, East Java, Indonesia",Desa Taji,Q26211545,,
+Taji,Taji,Q12518595,11,0,1,"village in Prambanan District, Klaten Regency, Central Java, Indonesia",Desa Taji,Q26211545,,
+Taji,Taji,Q12518591,11,0,1,"village in Magetan Regency, East Java, Indonesia",Desa Taji,Q26211545,,
+Taji,Tajikistan,Q863,11,0,1,sovereign state in Central Asia,Republic of Tajikistan|tj,Q3624078|Q123480|Q179164|Q6256,,Tajikistan
+Taji,Taji,Q767525,11,0,1,town,,Q3957,,"Taji, Iraq"
+Taji,Tagi Khatun,Q7076261,11,0,1,mother of Yuan emperors Ayurbarwada Buyantu Khan,Taji|Tagi,Q5,,Dagi Khatun
+Taji,Taji Shrine,Q11430844,11,0,2,"Shinto shrine in Kyoto Prefecture, Japan",Taji-jinja,Q845945|Q134917286|Q135160342,,
+Ulunfi,,,12,0,0,,,,,
+Milfqrd Haven,,,13,0,0,,,,,
+Aradia,Scărișoara,Q16425349,14,0,1,"commune in Alba County, Romania",Aranyosfő|Aradia,Q659103,,"Scărișoara, Alba"
+Aradia,Aradia,Q624739,14,0,1,"character in Leland's 1899 work Aradia, or the Gospel of the Witches",Aradia di Toscano,Q25810847|Q51626,,Aradia
+Aradia,Aradia,Q9627155,14,0,1,Malaysian black metal band,,Q215380,,
+Aradia,Arad,Q173591,14,0,1,"city in Arad County, Romania","Arad, Romania",Q640364|Q34843301|Q1549591,,"Arad, Romania"
+Aradia,"Aradia, or the Gospel of the Witches",Q2577334,14,0,1,book by Charles Godfrey Leland,,Q7725634,,"Aradia, or the Gospel of the Witches"
+Aradia,Aradia gens,Q61728200,14,0,1,Roman gens,Aradii,Q899409,,
+Aradia,Aradia's hive,Q110609963,14,0,1,fictional hive in the Homestuck webcomic created by Andrew Hussie,,Q108117266,,
+Aradia,Aradia Megido,Q99312480,14,0,1,fictional troll from the Homestuck web comic created by Andrew Hussie,apocalypseArisen|Maid of Time|Aradiabot,Q99310637|Q111011320,,Aradia Megido
+Aradia,Aradia Ensemble,Q112849101,14,0,1,Canadian musical ensemble,,Q2088357,,
+Aradia,Aradian House,Q25490643,14,0,1,,Tel Arad Aradian House|Tel Arad House,Q811102,Q35112127,
+Aradia,Ariadne,Q589790,14,0,2,genus of insects,Castor,Q16521,,Ariadne (butterfly)
+Aradia,Ariadne,Q26245229,14,0,2,female given name,,Q11879590,,Ariadne (given name)
+Aradia,Ariadne,Q21443316,14,0,2,genus of plants,,Q16521,,
+Aradia,Ariadne,Q11281569,14,0,2,ship built in 1995,,Q25653,,Ariadne (1996 ship)
+Aradia,Ariadne,Q101904448,14,0,2,ship built in 2008,IMO 9397547,Q11446,,
+Aradia,Ariadne,Q184874,14,0,2,the daughter of Minos in Greek mythology,Ariane,Q22988604,,Ariadne
+Aradia,Ariadne,Q131933575,14,0,2,passenger ship built in 1914,IMO 5023631,Q2055880,,
+Aradia,Ariadne,Q15512476,14,0,2,Russian three-masted sailing ship that joined the Hellenic Navy,,Q170013|Q3539920,,
+Aradia,Ariadne,Q15538366,14,0,2,American warship that joined the Hellenic Navy,,Q11446,,
+Aradia,Ariadne ariadne,Q3380834,14,0,2,species of insect,Angled Castor,Q16521,,Ariadne ariadne
+ensmark,Ensmärkesvägen,Q35004363,15,0,1,"road in Gothenburg, Sweden",,Q34442,,
+ensmark,leading marks,Q106367929,15,0,1,two or more seamarks to show direction of entry/exit by keeping in alignment,,,Q98272210,
+Ikot Ekpne,Ikot Ekpene,Q680926,16,0,2,local government area in Akwa Ibom State of Nigeria,Raffia City,Q1639634|Q3957,,Ikot Ekpene
+Ikot Ekpne,Ikot Ekpene,Q65298155,16,0,2,,,Q515,,
+Ikot Ekpne,Ikot Ekpene/Essien Udim/Obot Akara,Q59680981,16,0,2,federal constituency in Nigeria,FC/022/AK|Ikot Ekpene/Essien Udim/Obot Akara Federal Constituency,Q59680832,,
+Ikot Ekpne,Ikot Ekpene/Obot Akara,Q59818778,16,0,2,constituency of the Akwa-Ibom state house of assembly,SC/60/AK,Q59818519,,
+Ikot Ekpne,Ikot Ekpene Main Market,Q123385321,16,0,2,Market in Nigeria,,Q132510,,
+Ikot Ekpne,"Ikot-Ekpene Post Office, Ikot-Ekpene, Akwa Ibom State",Q113470826,16,0,2,"It is a district Post Office in Nigeria located at HARLEY DRIVE IKOT EKPENE, Akwa Ibom",Headquarters of the Senatorial Distrct,Q486972,,
+Ikot Ekpne,Roman Catholic Diocese of Ikot Ekpene,Q869674,16,0,2,diocese of the Catholic Church,Diocese of Ikot Ekpene,Q3146899,,Diocese of Ikot Ekpene
+Pauga,Pauga,Q115620502,17,0,1,family name,,Q101352,,
+Pauga,Paugam,Q24729670,17,0,1,family name,,Q101352,,
+Pauga,Pauga,Q92577395,17,0,1,human settlement in Südoststeiermark District,,Q486972,,
+Pauga,Paugan Falls,Q112855970,17,0,1,"hamlet in Low, Quebec, Canada",,Q5084,,
+Pauga,Paugain,Q128307307,17,0,1,family name,,Q101352,,
+Pauga,Paugan Generating Station,Q2944487,17,0,1,"building in Quebec, Canada",,Q15911738,,
+Pauga,Pauga Lalau,Q58495266,17,0,1,Samoan boxer,,Q5,,Pauga Lalau
+Pauga,Paugasse,Q127699838,17,0,1,"street in Aachen, Germany","Paugasse, Aachen|Paugasse (Aachen)",Q79007|Q369730,,
+Pauga,Paugan Rapids,Q22501888,17,0,1,"rapids in Ontario, Canada",,Q695793,,
+Pauga,Pauga Talalelei Pauga,Q136054158,17,0,1,Samoan politician,,Q5,,Pauga Talalelei Pauga
+ohonal de!Ibor,,,18,0,0,,,,,

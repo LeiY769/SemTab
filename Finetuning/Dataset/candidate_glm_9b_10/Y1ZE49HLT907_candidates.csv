@@ -1,0 +1,460 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+I-n-Atambay,I-n-Atambay,Q27691887,0,0,1,,,Q25391,,
+Mali,Mali,Q912,0,1,1,country in West Africa,Republic of Mali|ml,Q3624078|Q123480|Q6256,,Mali
+Mali,Mali,Q11987935,0,1,1,female given name,Mali (given name)|Mali (first name),Q11879590,,
+Mali,rheumatoid arthritis,Q187255,0,1,1,autoimmune disease which attacks healthy cells and tissue located in joints,"arthritis or polyarthritis, rheumatic|atrophic arthritis|rheumatoid arthritis with vasculitis|malignant rheumatoid arthritis|arthritis, rheumatoid",Q42303753|Q112193867|Q112965645,Q170990|Q8084905|Q383126|Q1446169|Q1404470|Q18553609,Rheumatoid arthritis
+Mali,Mali,Q6511994,0,1,1,agrotown in Belarus,"Mali, Belarus|Mali (village)|Mali (Belarus)",Q1989945,,
+Mali,ovarian cancer,Q172341,0,1,1,female reproductive organ cancer that is located in the ovary,malignant tumour of ovary|primary ovarian cancer|malignant ovarian tumor|hereditary ovarian cancer|Familial ovarian malignant tumor|cancer of the ovary|cancer of the ovaries,Q112193867,Q18554220|Q11793790|Q7113244|Q18554878|Q55785525|Q55785864,Ovarian cancer
+Mali,hepatocellular carcinoma,Q1148337,0,1,1,liver carcinoma that has material basis in undifferentiated hepatocytes,"malignant hepatoma|HCC|Hepatoma|adult Hepatoma|adult primary hepatocellular carcinoma|Hepatocellular carcinoma, HCC|Adult Primary Liver Cell Carcinoma|Adult HCC|Adult Primary Carcinoma of Liver Cell|Adult Hepatocellular Carcinoma|Adult Primary Carcinoma of the Liver Cell|Hepatocellular Cancer|Adult Primary Hepatoma|Carcinoma, Hepatocellular|carcinoma, hepatocellular, nos",Q112193867,Q18557387,Hepatocellular carcinoma
+Mali,cancer,Q12078,0,1,1,group of diseases involving abnormal cell growth and spread,malignant neoplasm|malignant tumor|primary cancer,Q112193867|Q2057971|Q12136,Q18554796|Q1216998|Q133212|Q3137154|Q140408816,Cancer
+Mali,lung cancer,Q47912,0,1,1,cancer in the lung,malignant lung tumor|malignant neoplasm of lung|bronchial cancer|lung carcinoma,Q112193867,Q7315926|Q3392853|Q15124212,Lung cancer
+Mali,prostate cancer,Q181257,0,1,1,male reproductive organ cancer,"malignant tumor of the prostate|prostatic cancer|tumor of the prostate|malignant neoplasm of the prostate|prostate cancer, familial|hereditary prostate cancer",Q112193867,Q18556093|Q56014511|Q18556445,Prostate cancer
+Mali,pancreatic cancer,Q212961,0,1,1,endocrine gland cancer located in the pancreas,Ca tail of pancreas|Ca head of pancreas|Ca body of pancreas|malignant neoplasm of head of pancreas|malignant neoplasm of tail of pancreas|malignant neoplasm of body of pancreas,Q112193867,Q18554878|Q7130407|Q7130412|Q5526839,Pancreatic cancer
+Mali,"Mali, Republic of",Q103954812,0,1,2,encyclopedia article,,Q13433827,,
+'Elb La'reïg,'Elb La'reïg,Q27693073,1,0,1,,,Q25391,,
+Mali,Mali,Q912,1,1,1,country in West Africa,Republic of Mali|ml,Q3624078|Q123480|Q6256,,Mali
+Mali,Mali,Q11987935,1,1,1,female given name,Mali (given name)|Mali (first name),Q11879590,,
+Mali,rheumatoid arthritis,Q187255,1,1,1,autoimmune disease which attacks healthy cells and tissue located in joints,"arthritis or polyarthritis, rheumatic|atrophic arthritis|rheumatoid arthritis with vasculitis|malignant rheumatoid arthritis|arthritis, rheumatoid",Q42303753|Q112193867|Q112965645,Q170990|Q8084905|Q383126|Q1446169|Q1404470|Q18553609,Rheumatoid arthritis
+Mali,Mali,Q6511994,1,1,1,agrotown in Belarus,"Mali, Belarus|Mali (village)|Mali (Belarus)",Q1989945,,
+Mali,ovarian cancer,Q172341,1,1,1,female reproductive organ cancer that is located in the ovary,malignant tumour of ovary|primary ovarian cancer|malignant ovarian tumor|hereditary ovarian cancer|Familial ovarian malignant tumor|cancer of the ovary|cancer of the ovaries,Q112193867,Q18554220|Q11793790|Q7113244|Q18554878|Q55785525|Q55785864,Ovarian cancer
+Mali,hepatocellular carcinoma,Q1148337,1,1,1,liver carcinoma that has material basis in undifferentiated hepatocytes,"malignant hepatoma|HCC|Hepatoma|adult Hepatoma|adult primary hepatocellular carcinoma|Hepatocellular carcinoma, HCC|Adult Primary Liver Cell Carcinoma|Adult HCC|Adult Primary Carcinoma of Liver Cell|Adult Hepatocellular Carcinoma|Adult Primary Carcinoma of the Liver Cell|Hepatocellular Cancer|Adult Primary Hepatoma|Carcinoma, Hepatocellular|carcinoma, hepatocellular, nos",Q112193867,Q18557387,Hepatocellular carcinoma
+Mali,cancer,Q12078,1,1,1,group of diseases involving abnormal cell growth and spread,malignant neoplasm|malignant tumor|primary cancer,Q112193867|Q2057971|Q12136,Q18554796|Q1216998|Q133212|Q3137154|Q140408816,Cancer
+Mali,lung cancer,Q47912,1,1,1,cancer in the lung,malignant lung tumor|malignant neoplasm of lung|bronchial cancer|lung carcinoma,Q112193867,Q7315926|Q3392853|Q15124212,Lung cancer
+Mali,prostate cancer,Q181257,1,1,1,male reproductive organ cancer,"malignant tumor of the prostate|prostatic cancer|tumor of the prostate|malignant neoplasm of the prostate|prostate cancer, familial|hereditary prostate cancer",Q112193867,Q18556093|Q56014511|Q18556445,Prostate cancer
+Mali,pancreatic cancer,Q212961,1,1,1,endocrine gland cancer located in the pancreas,Ca tail of pancreas|Ca head of pancreas|Ca body of pancreas|malignant neoplasm of head of pancreas|malignant neoplasm of tail of pancreas|malignant neoplasm of body of pancreas,Q112193867,Q18554878|Q7130407|Q7130412|Q5526839,Pancreatic cancer
+Mali,"Mali, Republic of",Q103954812,1,1,2,encyclopedia article,,Q13433827,,
+Timbuktu Region,Timbuktu Region,Q339462,1,2,1,region of Mali,,Q743074,,Tombouctou Region
+Timbuktu Region,Timbuktu,Q15615765,1,2,2,Canadian hip-hop artist,Timothy Wallace,Q5,,Timbuktu (hip-hop artist)
+Timbuktu Region,Timbuktu,Q9427,1,2,2,city in Mali,Tombouctou|Tumbutu|Timbuctoo|Timbuktoo,Q515|Q702492,,Timbuktu
+Timbuktu Region,Timbuktu,Q44828,1,2,2,Swedish rapper,Jason Michael Bosak Diakité,Q5,,Timbuktu (musician)
+Timbuktu Region,Timbuktu,Q16653473,1,2,2,2014 film by Abderrahmane Sissako,,Q11424,,Timbuktu (2014 film)
+Timbuktu Region,Timbuktu,Q492991,1,2,2,novel by Paul Auster,,Q47461344,,Timbuktu (novella)
+Timbuktu Region,Timbuktu,Q15240719,1,2,2,World heritage site,,Q9259,,
+Timbuktu Region,Timbuktu,Q7804763,1,2,2,crater on Mars,,Q1475691,,Timbuktu (crater)
+Timbuktu Region,Timbuktu Cercle,Q174455,1,2,2,cercle of Mali,,Q2115792,,Timbuktu Cercle
+Timbuktu Region,Timbuktu,Q3531190,1,2,2,1959 U.S. black-and-white adventure film directed by Jacques Tourneur,,Q11424,,Timbuktu (1959 film)
+Goueïba el Beïda,Goueïba el Beïda,Q27732934,2,0,1,dune in Mauritania,,Q25391,,
+Mauritania,Mauritania,Q1025,2,1,1,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Mauritania,Mauretania,Q309272,2,1,1,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Mauritania,Mauritania men's national football team,Q477067,2,1,1,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Mauritania,Mauritania,Q106880871,2,1,1,painting by Jean Michel Atlan,,Q3305213,,
+Mauritania,Mauritania,Q100651514,2,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritania,Q100651513,2,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritanian Premier League,Q582860,2,1,1,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Mauritania,Mauritanian ouguiya,Q207024,2,1,1,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Mauritania,Government of Mauritania,Q3112595,2,1,1,Mauritania government,Mauritania government,Q7188,Q640506,
+Mauritania,flag of Mauritania,Q102977,2,1,1,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania
+Mauritania,Islamic Republic of Mauritania: Economic Development Documents,Q129615334,2,1,2,scholarly article published in 2018,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: Third Review Under the Extended Credit Facility Arrangement-Press Release; Staff Report; and Statement by the Executive Director for the Islamic Republic of Mauritania,Q127637208,2,1,2,scholarly article,,Q13442814,,
+Mauritania,"Islamic Republic of Mauritania: Second Review Under the Extended Credit Facility Arrangement, and Request for Modification of Performance Criteria-Press Release; Staff Report; and Statement by the Executive Director for Islamic Republic of Mauritania",Q128639491,2,1,2,scholarly article,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: First Review Under the Extended Credit Facility Arrangement-Press Release; and Staff Report,Q129603163,2,1,2,scholarly article published in 2018,,Q13442814,,
+Assaba Region,Assaba,Q738546,2,2,1,region of Mauritania,Assaba region,Q846327,,Assaba region
+Assaba Region,Goueïba el Beïda,Q27732934,2,2,2,dune in Mauritania,,Q25391,,
+Assaba Region,Mauritania,Q1025,2,2,2,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Assaba Region,Mauretania,Q309272,2,2,2,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Assaba Region,Mauritania men's national football team,Q477067,2,2,2,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Assaba Region,Mauritania,Q106880871,2,2,2,painting by Jean Michel Atlan,,Q3305213,,
+Assaba Region,Mauritania,Q100651514,2,2,2,publication by Ton Dietz,,Q3331189,,
+Assaba Region,Mauritania,Q100651513,2,2,2,publication by Ton Dietz,,Q3331189,,
+Assaba Region,Mauritanian Premier League,Q582860,2,2,2,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Assaba Region,Mauritanian ouguiya,Q207024,2,2,2,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Assaba Region,Government of Mauritania,Q3112595,2,2,2,Mauritania government,Mauritania government,Q7188,Q640506,
+Assaba Region,flag of Mauritania,Q102977,2,2,2,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania
+Nebket en Nouss,Nebket en Nouss,Q27692333,3,0,1,,,Q25391,,
+Mali,Mali,Q912,3,1,1,country in West Africa,Republic of Mali|ml,Q3624078|Q123480|Q6256,,Mali
+Mali,Mali,Q11987935,3,1,1,female given name,Mali (given name)|Mali (first name),Q11879590,,
+Mali,rheumatoid arthritis,Q187255,3,1,1,autoimmune disease which attacks healthy cells and tissue located in joints,"arthritis or polyarthritis, rheumatic|atrophic arthritis|rheumatoid arthritis with vasculitis|malignant rheumatoid arthritis|arthritis, rheumatoid",Q42303753|Q112193867|Q112965645,Q170990|Q8084905|Q383126|Q1446169|Q1404470|Q18553609,Rheumatoid arthritis
+Mali,Mali,Q6511994,3,1,1,agrotown in Belarus,"Mali, Belarus|Mali (village)|Mali (Belarus)",Q1989945,,
+Mali,ovarian cancer,Q172341,3,1,1,female reproductive organ cancer that is located in the ovary,malignant tumour of ovary|primary ovarian cancer|malignant ovarian tumor|hereditary ovarian cancer|Familial ovarian malignant tumor|cancer of the ovary|cancer of the ovaries,Q112193867,Q18554220|Q11793790|Q7113244|Q18554878|Q55785525|Q55785864,Ovarian cancer
+Mali,hepatocellular carcinoma,Q1148337,3,1,1,liver carcinoma that has material basis in undifferentiated hepatocytes,"malignant hepatoma|HCC|Hepatoma|adult Hepatoma|adult primary hepatocellular carcinoma|Hepatocellular carcinoma, HCC|Adult Primary Liver Cell Carcinoma|Adult HCC|Adult Primary Carcinoma of Liver Cell|Adult Hepatocellular Carcinoma|Adult Primary Carcinoma of the Liver Cell|Hepatocellular Cancer|Adult Primary Hepatoma|Carcinoma, Hepatocellular|carcinoma, hepatocellular, nos",Q112193867,Q18557387,Hepatocellular carcinoma
+Mali,cancer,Q12078,3,1,1,group of diseases involving abnormal cell growth and spread,malignant neoplasm|malignant tumor|primary cancer,Q112193867|Q2057971|Q12136,Q18554796|Q1216998|Q133212|Q3137154|Q140408816,Cancer
+Mali,lung cancer,Q47912,3,1,1,cancer in the lung,malignant lung tumor|malignant neoplasm of lung|bronchial cancer|lung carcinoma,Q112193867,Q7315926|Q3392853|Q15124212,Lung cancer
+Mali,prostate cancer,Q181257,3,1,1,male reproductive organ cancer,"malignant tumor of the prostate|prostatic cancer|tumor of the prostate|malignant neoplasm of the prostate|prostate cancer, familial|hereditary prostate cancer",Q112193867,Q18556093|Q56014511|Q18556445,Prostate cancer
+Mali,pancreatic cancer,Q212961,3,1,1,endocrine gland cancer located in the pancreas,Ca tail of pancreas|Ca head of pancreas|Ca body of pancreas|malignant neoplasm of head of pancreas|malignant neoplasm of tail of pancreas|malignant neoplasm of body of pancreas,Q112193867,Q18554878|Q7130407|Q7130412|Q5526839,Pancreatic cancer
+dune 7,dune 7,Q25203443,4,0,1,highest dune in Namibia,,Q25391,,Dune 7 (Namibia)
+dune 7,Dune 7: Cartea Brundurilor,Q74632358,4,0,1,novel by Sebastian A. Corn,,Q7725634,,
+dune 7,Dune 7,Q5314936,4,0,1,Wikimedia disambiguation page,,Q4167410,,Dune 7
+Namibia,Namibia,Q1030,4,1,1,country in Southern Africa,Republic of Namibia|na,Q7270|Q3624078|Q6256,,Namibia
+Namibia,Namibia,Q1964247,4,1,1,genus of plants,,Q16521,,Namibia (plant)
+Namibia,Namibia,Q10594225,4,1,1,genus of insects,,Q16521,,
+Namibia,Namibia men's national football team,Q328687,4,1,1,national association football team,Namibia national football team,Q135408445,Q1194951,Namibia national football team
+Namibia,1718 Namibia,Q142787,4,1,1,asteroid,Namibia,Q3863,,1718 Namibia
+Namibia,Namibiana,Q281947,4,1,1,genus of reptiles,,Q16521,,Namibiana
+Namibia,Namibianira,Q4353474,4,1,1,genus of crustaceans,,Q16521,,
+Namibia,Namibia,Q114493910,4,1,1,episode of Man vs. Wild (S2 E9),,Q21191270,,
+Namibia,"Namibia, Land of the Brave",Q233961,4,1,1,national anthem of Namibia,"Namibia, Land der Mutigen",Q23691,,"Namibia, Land of the Brave"
+Namibia,Namibia pomonae,Q17251529,4,1,1,species of plant,,Q16521,,
+Namibia,dune 7,Q25203443,4,1,2,highest dune in Namibia,,Q25391,,Dune 7 (Namibia)
+Namibia,Dune 7: Cartea Brundurilor,Q74632358,4,1,2,novel by Sebastian A. Corn,,Q7725634,,
+Namibia,Dune 7,Q5314936,4,1,2,Wikimedia disambiguation page,,Q4167410,,Dune 7
+Namibia,Namib,Q131377,4,1,2,desert in southern Africa,Namib Desert,Q8514,,Namib
+Namibia,Namib Desert Horse,Q316038,4,1,2,horse breed,The feral horses of Garub,Q1160573,,Namib Desert Horse
+Namibia,Namib desert ecoregion,Q71184491,4,1,2,Terestrial (WWF) ecoregion that coincides with the Namib Desert,,Q6617741|Q10912364,,
+Namibia,Gobabeb,Q513442,4,1,2,research station in the Namib Desert,Gobabeb Namib Research Institute|Namib Desert Research Station,Q195339,,Gobabeb
+Namibia,Namib Desert beetle,Q18398454,4,1,2,generic name for beetle species endemic to the Namid Desert,,,,
+Namibia,Namib Desert Lodge,Q111413453,4,1,2,hotel in Namibia,,Q27686,,
+Namibia,Namib Desert Ecoregion,Q124327799,4,1,2,One Earth Ecoregion,,Q124221947,,
+Namibia,Namib Desert dune/interdune transects exhibit habitat-specific edaphic bacterial communities.,Q36027749,4,1,2,scientific article,,Q13442814,,
+Namibia,"Namib Desert Soil Microbial Community Diversity, Assembly, and Function Along a Natural Xeric Gradient.",Q39142898,4,1,2,scientific article published on 24 June 2017,,Q13442814,,
+Namibia,"Namib Desert edaphic bacterial, fungal and archaeal communities assemble through deterministic processes but are influenced by different abiotic parameters.",Q36241686,4,1,2,scientific article,,Q13442814,,
+Namibia,Sossusvlei,Q1932730,4,1,2,"salt and clay pan in the Namib Desert, Namibia",Sossus Vlei,Q39816,,Sossusvlei
+Astondoko haremunak,Astondoko haremunak,Q20014627,5,0,1,,,Q25391|Q473972,,
+Astondoko haremunak,Astondoko haremunak / Dunas de Astondo,Q128441854,5,0,1,protected area in Spain,,Q15069452,,
+Biscay,Biscay,Q93366,5,1,1,"province of Basque Country, Spain",Bizkaia|Vizcaya|Province of Biscay,Q162620|Q3179682,,Biscay
+Biscay,Biscay,Q4917218,5,1,1,Congress of Deputies constituency,,Q20220333,,Biscay (Congress of Deputies constituency)
+Biscay,Biscay,Q28452115,5,1,1,Basque Parliament constituency,,Q192611,,Biscay (Basque Parliament constituency)
+Biscay,Balthasar Beschey,Q2881605,5,1,1,Flemish painter (1708-1776),Balthasar Bischey|Balthazar Beschey|Balthasar Bischai|Balthasar Biskay|Beschey of Antwerp|Biscay|Biscaye le vieux|Bischy|Biscaye Levieux|Biskay|B. Bescheij|Besschy|Beschey d'Anvers|Beschehey|Bychy|Bescai|Bescheye|Bischey|Balt. Besschey|Bisschey|Biskau|Beshea|B. Beschey|Beschaij|B. Bisquyen|Bescayen|Biskaie|Bachai|B. Beschay|Biscaye d'Anvers|Balt. Bisschey|balth. besschey|Boschey|Besschey le vieux|Bischai|Biscail|Biscajen|Balthazar Besckey|Bejez|Beschye|Bisschyen|Baschey|Beschey|d'Anvers Beschey|le vieux Besschey|Biscaye|Pechey|Bescay|ein Zögling Rubens Beskaire|B. Bosscheyen|le Vieux Bescheyn|B. Bisschey|Beschei|Beschy le vieux|Balt. Beschey|Beschay|Bescheyn|B. Besschey|B. Beschy|Beshey|Bechey|Biscaie|Biscayer|Besche|Besschey|Beschy|Bechay|B. Bescheyen|Bischeye|Baltasar Beschey|Bisscheyn|Beschai|Bishee|Bescheyen,Q5,,Balthasar Beschey
+Biscay,Biscay Transport Consortium,Q5946888,5,1,1,"public transport planning entity in Biscay, Spain",,Q7834360,,
+Biscay,Andrea del Brescianino,Q2846393,5,1,1,Italian painter (1487–1525),Biscay|Risciano|Andrea Piccinelli|Andrea del Piccinelli|Brescianino|Andrea Brescianino|Piccinelli Brescianino|Brescianni|Bresciano maggiore|Andrea Picinelli gen. Andrea Del Brescianino,Q5,,Andrea del Brescianino
+Biscay,Biscay Bar Association,Q64547479,5,1,1,professional association of lawyers,Bizkaiko Abokatuen Elkargo Ohoretsua|Ilustre Colegio de la Abogacía de Bizkaia|Bizkaia Bar Association,Q1110684|Q43229,Q1865205,Biscay Bar Association
+Biscay,Biscay,Q58214031,5,1,1,Senate constituency in Spain,Biscay (Senate constituency),Q58137389,,Biscay (Senate constituency)
+Biscay,Biscay,Q2231801,5,1,1,"human settlement in McLeod County, Minnesota, United States of America","Biscay, Minnesota|Biscay, MN",Q1093829,,"Biscay, Minnesota"
+Biscay,Biscay,Q2904600,5,1,1,former commune in France,Bizkai,Q484170,,
+Biscay,Bay of Biscay,Q41573,5,1,2,gulf of the northeast Atlantic Ocean located south of the Celtic Sea,,Q39594,,Bay of Biscay
+Biscay,Bay of Biscay basin,Q102560913,5,1,2,,,Q166620,,
+Biscay,Bay of Biscay,Q119081700,5,1,2,,,Q3305213,,
+Biscay,Bay of Biscay,Q131781659,5,1,2,painting by Juan Luna,,Q3305213,,
+Biscay,Bay of Biscay from the 'Umberleigh',Q50873372,5,1,2,painting by John Everett,,Q3305213,,
+Biscay,Bay of Biscay from the 'Ravenspoint',Q50847157,5,1,2,painting by John Everett (RMG BHC0086),,Q3305213,,
+Biscay,Bay of Biscay from the 'Ravenspoint',Q50846772,5,1,2,painting by John Everett,,Q3305213,,
+Biscay,Bay of Biscay Swamp,Q21961955,5,1,2,"swamp in Narromine LGA, New South Wales, Australia",,Q166735,,
+Biscay,Bay of Biscay Hills,Q21893868,5,1,2,mountain in Australia,,Q8502,,
+Biscay,Bay of Biscay soil,Q122637548,5,1,2,,,,,Bay of Biscay soil
+Biscay,Biscay Bay,Q2904597,5,1,2,"human settlement in Newfoundland and Labrador, Canada",,Q486972|Q16466688,,Biscay Bay
+Biscay,Biscay Bay,Q22701887,5,1,2,"bay in Newfoundland and Labrador, Canada",,Q39594,,
+Biscay,Biscay Bay Gut,Q22551402,5,1,2,"bay in Newfoundland and Labrador, Canada",,Q39594,,
+Biscay,Biscay Bay River,Q22551411,5,1,2,watercourse in Canada,,Q355304,,
+Biscay,Biscay Bay Pond,Q112045204,5,1,2,"pond in Newfoundland and Labrador, Canada",,Q12719646,,
+Gorliz,Gorliz,Q763669,5,2,1,municipality of Spain,,Q2074737,,Gorliz
+Gorliz,Gorliz,Q3390854,5,2,1,beach in Spain,,Q40080|Q28060956,,
+Gorliz,Illy Gorlizki,Q7007774,5,2,1,Israeli actor,"Illi Gorlitzky|Gorlizki, Ili|Gorlitzki, Illy|Gōrlīẕqī, ʾĪlī|אילי גורליצקי",Q5,,
+Gorliz,Górliz,Q120171330,5,2,1,"municipal capital of Gorliz, Biscay, Basque Country, Spain",,Q121289819,,
+Gorliz,Gorliz Lighthouse,Q12258672,5,2,1,lighthouse in Spain,Faro de Gorliz,Q39715,,
+Gorliz,Gorliz town hall,Q59143769,5,2,1,"municipal building in Gorliz, Spain",Gorliz Town Hall,Q112793351,,
+Gorliz,mayor of Gorliz,Q26699882,5,2,1,political position in Spain,,Q5663900,,
+Gorliz,Hospital of Gorliz,Q9004939,5,2,1,hospital in Spain,,Q16917|Q7309759,,
+Gorliz,Gorlizko Udala,Q58946503,5,2,1,,,Q22996476,,
+Gorliz,Gorlizko eliza,Q134594991,5,2,1,,,Q16970,,
+Gorliz,Astondoko haremunak,Q20014627,5,2,2,,,Q25391|Q473972,,
+Gorliz,Astondoko hondartza,Q136703645,5,2,2,,,Q24633899,,
+Gorliz,Astondoko haremunak / Dunas de Astondo,Q128441854,5,2,2,protected area in Spain,,Q15069452,,
+Gorliz,Biscay,Q93366,5,2,2,"province of Basque Country, Spain",Bizkaia|Vizcaya|Province of Biscay,Q162620|Q3179682,,Biscay
+Gorliz,Biscay,Q4917218,5,2,2,Congress of Deputies constituency,,Q20220333,,Biscay (Congress of Deputies constituency)
+Gorliz,Biscay,Q28452115,5,2,2,Basque Parliament constituency,,Q192611,,Biscay (Basque Parliament constituency)
+Gorliz,Balthasar Beschey,Q2881605,5,2,2,Flemish painter (1708-1776),Balthasar Bischey|Balthazar Beschey|Balthasar Bischai|Balthasar Biskay|Beschey of Antwerp|Biscay|Biscaye le vieux|Bischy|Biscaye Levieux|Biskay|B. Bescheij|Besschy|Beschey d'Anvers|Beschehey|Bychy|Bescai|Bescheye|Bischey|Balt. Besschey|Bisschey|Biskau|Beshea|B. Beschey|Beschaij|B. Bisquyen|Bescayen|Biskaie|Bachai|B. Beschay|Biscaye d'Anvers|Balt. Bisschey|balth. besschey|Boschey|Besschey le vieux|Bischai|Biscail|Biscajen|Balthazar Besckey|Bejez|Beschye|Bisschyen|Baschey|Beschey|d'Anvers Beschey|le vieux Besschey|Biscaye|Pechey|Bescay|ein Zögling Rubens Beskaire|B. Bosscheyen|le Vieux Bescheyn|B. Bisschey|Beschei|Beschy le vieux|Balt. Beschey|Beschay|Bescheyn|B. Besschey|B. Beschy|Beshey|Bechey|Biscaie|Biscayer|Besche|Besschey|Beschy|Bechay|B. Bescheyen|Bischeye|Baltasar Beschey|Bisscheyn|Beschai|Bishee|Bescheyen,Q5,,Balthasar Beschey
+Gorliz,Biscay Transport Consortium,Q5946888,5,2,2,"public transport planning entity in Biscay, Spain",,Q7834360,,
+Gorliz,Andrea del Brescianino,Q2846393,5,2,2,Italian painter (1487–1525),Biscay|Risciano|Andrea Piccinelli|Andrea del Piccinelli|Brescianino|Andrea Brescianino|Piccinelli Brescianino|Brescianni|Bresciano maggiore|Andrea Picinelli gen. Andrea Del Brescianino,Q5,,Andrea del Brescianino
+Gorliz,Biscay Bar Association,Q64547479,5,2,2,professional association of lawyers,Bizkaiko Abokatuen Elkargo Ohoretsua|Ilustre Colegio de la Abogacía de Bizkaia|Bizkaia Bar Association,Q1110684|Q43229,Q1865205,Biscay Bar Association
+Gorliz,Biscay,Q58214031,5,2,2,Senate constituency in Spain,Biscay (Senate constituency),Q58137389,,Biscay (Senate constituency)
+Gorliz,Biscay,Q2231801,5,2,2,"human settlement in McLeod County, Minnesota, United States of America","Biscay, Minnesota|Biscay, MN",Q1093829,,"Biscay, Minnesota"
+Gorliz,Biscay,Q2904600,5,2,2,former commune in France,Bizkai,Q484170,,
+Muḩammad Khān Sarūnah,Muḩammad Khān Sarūnah,Q21774850,6,0,1,dune in Afghanistan,,Q25391,,
+Muḩammad Khān Sarūnah,Muhammad Khan,Q140461699,6,0,2,entrepreneur,Mohammed Khan|Dr Muhammad Khan,Q5,,
+Muḩammad Khān Sarūnah,Muhammad Khan,Q139954507,6,0,2,badminton player,,Q5,,
+Muḩammad Khān Sarūnah,Muhammad Khan (Khan of Moghulistan),Q6932572,6,0,2,Khan of Moghulistan from 1408 to 1415,,Q5,,Muhammad Khan (Khan of Moghulistan)
+Muḩammad Khān Sarūnah,Muhammad Khan (Ilkhan),Q5964503,6,0,2,Claimant to the throne of the Ilkhanate,Muhammad,Q5,,Muhammad Khan (Ilkhan)
+Muḩammad Khān Sarūnah,Muhammad I Khan,Q84071871,6,0,2,researcher (ORCID 0000-0002-3241-1248),Muhammad Khan,Q5,,
+Muḩammad Khān Sarūnah,Muhammad Khan (athlete),Q47546692,6,0,2,athlete,,Q5,,Muhammad Khan (athlete)
+Muḩammad Khān Sarūnah,Muhammad Khan,Q88168374,6,0,2,researcher (ORCID 0000-0001-5509-3660),,Q5,,
+Muḩammad Khān Sarūnah,Kaan Lativan,Q106252067,6,0,2,Indonesian actor,Muhammad Khan,Q5,,Kaan Lativan
+Muḩammad Khān Sarūnah,Muhammad S Khan,Q57570562,6,0,2,researcher ORCID ID = 0000-0001-9969-4222,Muhammad Khan,Q5,,
+Muḩammad Khān Sarūnah,Muhammad Khan,Q85408020,6,0,2,researcher (ORCID 0000-0001-8807-2970),,Q5,,
+Muḩammad Khān Sarūnah,Khan Sarwar Murshid,Q620076,6,0,2,"Bangladeshi educationist, diplomat (1924–2012)",,Q5,,Khan Sarwar Murshid
+Afghanistan,Afghanistan,Q889,6,1,1,country in Central and South Asia,Affghanistan|Afghania|Affghanisthan|Affghaunistan|Afghanisthan|Afghaunistan|Afghaunistaun,Q3624078|Q123480|Q6256,,Afghanistan
+Afghanistan,Afghanistan,Q27715795,6,1,1,academic journal,,Q5633421,,
+Afghanistan,Kingdom of Afghanistan,Q1138904,6,1,1,kingdom in Central Asia between 1926–1973,Afghan Kingdom|Afghanistan,Q3024240|Q1250464,,Kingdom of Afghanistan
+Afghanistan,Afghanistan,Q140029805,6,1,1,edited book published by Oxford University Press (2020),,Q3331189,,
+Afghanistan,Afghanistan men's national football team,Q192966,6,1,1,men's national association football team representing Afghanistan,Afghanistan national football team,Q135408445,Q1194951,Afghanistan national football team
+Afghanistan,War in Afghanistan (2001–2021),Q182865,6,1,1,armed conflict between NATO countries and Afghanistan from 2001 to 2021,Afghanistan Campaign|Operation Enduring Freedom|OEF|ISAF Operation|Afghan Campaign 2001–2021|War in Afghanistan|Afghan War,Q198,,War in Afghanistan (2001–2021)
+Afghanistan,Afghanistan '11,Q86992888,6,1,1,2017 video game,,Q7889,,Afghanistan '11
+Afghanistan,Afghanistan,Q100256349,6,1,1,episode of Førstegangstjenesten (S1 E12),,Q21191270,,
+Afghanistan,Afghanistan national cricket team,Q86477,6,1,1,national sports team,Afghanistan national cricket club|Afghanistan cricket club|Afghanistan cricket team|Afghan Cricket|Afghan National Cricket Team|Afghan National Cricket Club|Afghan Cricket Team|Afghan Cricket Club,Q86255944,,Afghanistan national cricket team
+Afghanistan,flag of Afghanistan,Q79874,6,1,1,national flag of the Islamic Emirate of Afghanistan,Afghan flag|Afghanistan flag,Q186516,,Flag of Afghanistan
+Afghanistan,Helmand Province,Q173821,6,1,2,province of Afghanistan,Helmand|Hilmand Province|Hillmand Province,Q158683,,Helmand Province
+Afghanistan,Helmand province campaign,Q5709231,6,1,2,2006 series of military operations conducted by the ISAF forces against Taliban insurgents,,Q831663,,Helmand province campaign
+Afghanistan,Islamic Republic of Afghanistan,Q30747910,6,1,2,2004–2021 government of Afghanistan,,Q3624078|Q3024240|Q678116|Q5589178|Q325261,,Islamic Republic of Afghanistan
+Afghanistan,"Islamic Republic of Afghanistan: Technical Assistance Report-Report on the External Sector Statistics Mission (March 12-22, 2018)",Q128732652,6,1,2,scholarly article,,Q13442814,,
+Afghanistan,"Islamic Republic of Afghanistan: Fourth Review Under the Extended Credit Facility Arrangement, Request for Modification of Performance Criteria, and Request for Extension and Rephasing of the Arrangement-Press Release; and Staff Report",Q128715078,6,1,2,scholarly article,,Q13442814,,
+Helmand,Helmand Province,Q173821,6,2,1,province of Afghanistan,Helmand|Hilmand Province|Hillmand Province,Q158683,,Helmand Province
+Helmand,Helmand River,Q8510,6,2,1,river in Afghanistan and Iran,Helmend|Helmund|Hirmand,Q4022,,Helmand River
+Helmand,Helmandollar,Q37507434,6,2,1,family name,,Q101352,,
+Helmand,Helmand,Q133012256,6,2,1,online exhibition from National Army Museum (United Kingdom),,Q3062261,,
+Helmand,Helmand Sistan Project,Q140439954,6,2,1,"Multidisciplinary archaeological and ecological survey in southwestern Afghanistan, conducted between 1971 and 1979 by the Smithsonian Institution and the Afghan Institute of Archaeology",,Q959782,,
+Helmand,Provincial Reconstruction Team Helmand,Q7252671,6,2,1,military unit,Helmand Provincial Reconstruction Team|Helmand PRT|HPRT|PRT Helmand|PRTH,Q1072780,,Provincial Reconstruction Team Helmand
+Helmand,Helmand province campaign,Q5709231,6,2,1,2006 series of military operations conducted by the ISAF forces against Taliban insurgents,,Q831663,,Helmand province campaign
+Helmand,Helmand University,Q20650278,6,2,1,"university of Helmand, Afghanistan",,Q3918,,Helmand University
+Helmand,Helmand culture,Q86663922,6,2,1,Bronze Age culture in current day Iran and Afghanistan,,Q465299,,Helmand culture
+Helmand,Helmand and Arghandab Valley Authority,Q5709216,6,2,1,agency of the Afghan government,,Q327333,,Helmand and Arghandab Valley Authority
+Nāziyat Daghash,Nāziyat Daghash,Q32146934,7,0,1,dune in Saudi Arabia,,Q25391,,
+Saudi Arabia,Saudi Arabia,Q851,7,1,1,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Saudi Arabia,Saudi Arabia men's national football team,Q189723,7,1,1,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Saudi Arabia,Saudis,Q18600381,7,1,1,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Saudi Arabia,Saudi Aramco,Q679322,7,1,1,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Saudi Arabia,Saudi Arabian Armed Forces,Q1063287,7,1,1,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Saudi Arabia,Saudi Arabian Fertilizer Company,Q19720632,7,1,1,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Saudi Arabia,state-affiliated X account,Q111678803,7,1,1,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Saudi Arabia,history of Saudi Arabia,Q559915,7,1,1,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Saudi Arabia,Royal Saudi Air Force,Q1414724,7,1,1,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Saudi Arabia,Royal Saudi Navy,Q2742227,7,1,1,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+Saudi Arabia,Kingdom of Saudi Arabia,Q96246887,7,1,2,including a series of kingdoms that ruled different parts of the Arabian Peninsula (now Saudi Arabia) under different names throughout successive eras and periods,,Q95985724|Q1969448,Q95984719,
+Saudi Arabia,Kingdom of Saudi Arabia Commercial Register,Q107179103,7,1,2,registration authority,,Q166140,,
+Saudi Arabia,"Saudi Arabia, Kingdom of",Q103965505,7,1,2,encyclopedia article,,Q13433827,,
+‘Irq Jahām,‘Irq Jahām,Q32225603,8,0,1,dune in Saudi Arabia,,Q25391,,
+‘Irq Jahām,Saudi Arabia,Q851,8,0,2,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+‘Irq Jahām,Saudi Arabia men's national football team,Q189723,8,0,2,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+‘Irq Jahām,Saudis,Q18600381,8,0,2,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+‘Irq Jahām,Saudi Aramco,Q679322,8,0,2,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+‘Irq Jahām,Saudi Arabian Armed Forces,Q1063287,8,0,2,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+‘Irq Jahām,Saudi Arabian Fertilizer Company,Q19720632,8,0,2,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+‘Irq Jahām,state-affiliated X account,Q111678803,8,0,2,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+‘Irq Jahām,history of Saudi Arabia,Q559915,8,0,2,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+‘Irq Jahām,Royal Saudi Air Force,Q1414724,8,0,2,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+‘Irq Jahām,Royal Saudi Navy,Q2742227,8,0,2,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+‘Irq Jahām,Riyadh Province,Q1249255,8,0,2,province of Saudi Arabia,Riyadh|Riyadh Region|Ar-Riyadh Province|Khāṣirah,Q15728204,,Riyadh Province
+Saudi Arabia,Saudi Arabia,Q851,8,1,1,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Saudi Arabia,Saudi Arabia men's national football team,Q189723,8,1,1,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Saudi Arabia,Saudis,Q18600381,8,1,1,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Saudi Arabia,Saudi Aramco,Q679322,8,1,1,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Saudi Arabia,Saudi Arabian Armed Forces,Q1063287,8,1,1,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Saudi Arabia,Saudi Arabian Fertilizer Company,Q19720632,8,1,1,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Saudi Arabia,state-affiliated X account,Q111678803,8,1,1,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Saudi Arabia,history of Saudi Arabia,Q559915,8,1,1,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Saudi Arabia,Royal Saudi Air Force,Q1414724,8,1,1,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Saudi Arabia,Royal Saudi Navy,Q2742227,8,1,1,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+Saudi Arabia,Kingdom of Saudi Arabia,Q96246887,8,1,2,including a series of kingdoms that ruled different parts of the Arabian Peninsula (now Saudi Arabia) under different names throughout successive eras and periods,,Q95985724|Q1969448,Q95984719,
+Saudi Arabia,Kingdom of Saudi Arabia Commercial Register,Q107179103,8,1,2,registration authority,,Q166140,,
+Saudi Arabia,"Saudi Arabia, Kingdom of",Q103965505,8,1,2,encyclopedia article,,Q13433827,,
+Riyadh Province,Riyadh Province,Q1249255,8,2,1,province of Saudi Arabia,Riyadh|Riyadh Region|Ar-Riyadh Province|Khāṣirah,Q15728204,,Riyadh Province
+Riyadh Province,Saudi Arabia,Q851,8,2,2,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Riyadh Province,Saudi Arabia men's national football team,Q189723,8,2,2,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Riyadh Province,Saudis,Q18600381,8,2,2,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Riyadh Province,Saudi Aramco,Q679322,8,2,2,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Riyadh Province,Saudi Arabian Armed Forces,Q1063287,8,2,2,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Riyadh Province,Saudi Arabian Fertilizer Company,Q19720632,8,2,2,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Riyadh Province,state-affiliated X account,Q111678803,8,2,2,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Riyadh Province,history of Saudi Arabia,Q559915,8,2,2,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Riyadh Province,Royal Saudi Air Force,Q1414724,8,2,2,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Riyadh Province,Royal Saudi Navy,Q2742227,8,2,2,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+El Badia,El Badia Abdellatif,Q102425201,9,0,1,,,Q5,,
+El Badia,El Badia,Q27733530,9,0,1,dune in Mauritania,,Q25391,,
+El Badia,El Badia,Q137470935,9,0,1,private educational institution in Morocco,,Q2385804,,
+El Badia,Tagant,Q843903,9,0,2,region of Mauritania,Tagant region,Q846327,,Tagant region
+El Badia,forest,Q4421,9,0,2,subjective characterization of an area with trees,wood,Q125824188|Q2083910|Q151885|Q137022846,Q101998|Q184806|Q27096220|Q618123|Q37813|Q52105|Q1554231,Forest
+El Badia,Tagante,Q20402193,9,0,2,rural commune in Morocco,,Q17318027,,
+El Badia,Tagantsev conspiracy,Q135583,9,0,2,1921 fabricated Soviet monarchist conspiracy,,,,Tagantsev conspiracy
+El Badia,Tagant Plateau,Q7675161,9,0,2,natural region in Mauritania,,Q1970725,,Tagant Plateau
+El Badia,Tagant Timassinine,Q27512191,9,0,2,mountain in Morocco,,Q8502,,
+El Badia,Tagantane,Q138237396,9,0,2,Mosque in Morocco,,Q32815,,
+El Badia,Tagant No.1,Q122708682,9,0,2,ship built in 1973,IMO 7312206,Q11446,,
+El Badia,hindsight bias,Q1960297,9,0,2,tendency to perceive past events as more predictable than they actually were at the time,,Q1127759,,Hindsight bias
+El Badia,Tahancha,Q4449606,9,0,2,"village in Kaniv Raion, Cherkasy Oblast, Ukraine",Tagancha,Q21672098,,
+Mauritania,Mauritania,Q1025,9,1,1,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Mauritania,Mauretania,Q309272,9,1,1,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Mauritania,Mauritania men's national football team,Q477067,9,1,1,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Mauritania,Mauritania,Q106880871,9,1,1,painting by Jean Michel Atlan,,Q3305213,,
+Mauritania,Mauritania,Q100651514,9,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritania,Q100651513,9,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritanian Premier League,Q582860,9,1,1,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Mauritania,Mauritanian ouguiya,Q207024,9,1,1,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Mauritania,Government of Mauritania,Q3112595,9,1,1,Mauritania government,Mauritania government,Q7188,Q640506,
+Mauritania,flag of Mauritania,Q102977,9,1,1,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania
+Mauritania,Islamic Republic of Mauritania: Economic Development Documents,Q129615334,9,1,2,scholarly article published in 2018,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: Third Review Under the Extended Credit Facility Arrangement-Press Release; Staff Report; and Statement by the Executive Director for the Islamic Republic of Mauritania,Q127637208,9,1,2,scholarly article,,Q13442814,,
+Mauritania,"Islamic Republic of Mauritania: Second Review Under the Extended Credit Facility Arrangement, and Request for Modification of Performance Criteria-Press Release; Staff Report; and Statement by the Executive Director for Islamic Republic of Mauritania",Q128639491,9,1,2,scholarly article,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: First Review Under the Extended Credit Facility Arrangement-Press Release; and Staff Report,Q129603163,9,1,2,scholarly article published in 2018,,Q13442814,,
+Tagant Region,Tagant,Q843903,9,2,1,region of Mauritania,Tagant region,Q846327,,Tagant region
+Tagant Region,El Badia Abdellatif,Q102425201,9,2,2,,,Q5,,
+Tagant Region,El Badia,Q27733530,9,2,2,dune in Mauritania,,Q25391,,
+Tagant Region,El Badia,Q137470935,9,2,2,private educational institution in Morocco,,Q2385804,,
+Tagant Region,Mauritania,Q1025,9,2,2,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Tagant Region,Mauretania,Q309272,9,2,2,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Tagant Region,Mauritania men's national football team,Q477067,9,2,2,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Tagant Region,Mauritania,Q106880871,9,2,2,painting by Jean Michel Atlan,,Q3305213,,
+Tagant Region,Mauritania,Q100651514,9,2,2,publication by Ton Dietz,,Q3331189,,
+Tagant Region,Mauritania,Q100651513,9,2,2,publication by Ton Dietz,,Q3331189,,
+Tagant Region,Mauritanian Premier League,Q582860,9,2,2,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Tagant Region,Mauritanian ouguiya,Q207024,9,2,2,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Tagant Region,Government of Mauritania,Q3112595,9,2,2,Mauritania government,Mauritania government,Q7188,Q640506,
+Tagant Region,flag of Mauritania,Q102977,9,2,2,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania
+‘Aţā Muḩammad Band,‘Aţā Muḩammad Band,Q21765110,10,0,1,dune in Afghanistan,,Q25391,,
+Afghanistan,Afghanistan,Q889,10,1,1,country in Central and South Asia,Affghanistan|Afghania|Affghanisthan|Affghaunistan|Afghanisthan|Afghaunistan|Afghaunistaun,Q3624078|Q123480|Q6256,,Afghanistan
+Afghanistan,Afghanistan,Q27715795,10,1,1,academic journal,,Q5633421,,
+Afghanistan,Kingdom of Afghanistan,Q1138904,10,1,1,kingdom in Central Asia between 1926–1973,Afghan Kingdom|Afghanistan,Q3024240|Q1250464,,Kingdom of Afghanistan
+Afghanistan,Afghanistan,Q140029805,10,1,1,edited book published by Oxford University Press (2020),,Q3331189,,
+Afghanistan,Afghanistan men's national football team,Q192966,10,1,1,men's national association football team representing Afghanistan,Afghanistan national football team,Q135408445,Q1194951,Afghanistan national football team
+Afghanistan,War in Afghanistan (2001–2021),Q182865,10,1,1,armed conflict between NATO countries and Afghanistan from 2001 to 2021,Afghanistan Campaign|Operation Enduring Freedom|OEF|ISAF Operation|Afghan Campaign 2001–2021|War in Afghanistan|Afghan War,Q198,,War in Afghanistan (2001–2021)
+Afghanistan,Afghanistan '11,Q86992888,10,1,1,2017 video game,,Q7889,,Afghanistan '11
+Afghanistan,Afghanistan,Q100256349,10,1,1,episode of Førstegangstjenesten (S1 E12),,Q21191270,,
+Afghanistan,Afghanistan national cricket team,Q86477,10,1,1,national sports team,Afghanistan national cricket club|Afghanistan cricket club|Afghanistan cricket team|Afghan Cricket|Afghan National Cricket Team|Afghan National Cricket Club|Afghan Cricket Team|Afghan Cricket Club,Q86255944,,Afghanistan national cricket team
+Afghanistan,flag of Afghanistan,Q79874,10,1,1,national flag of the Islamic Emirate of Afghanistan,Afghan flag|Afghanistan flag,Q186516,,Flag of Afghanistan
+Afghanistan,Helmand Province,Q173821,10,1,2,province of Afghanistan,Helmand|Hilmand Province|Hillmand Province,Q158683,,Helmand Province
+Afghanistan,Helmand River,Q8510,10,1,2,river in Afghanistan and Iran,Helmend|Helmund|Hirmand,Q4022,,Helmand River
+Afghanistan,Helmandollar,Q37507434,10,1,2,family name,,Q101352,,
+Afghanistan,Helmand,Q133012256,10,1,2,online exhibition from National Army Museum (United Kingdom),,Q3062261,,
+Afghanistan,Helmand Sistan Project,Q140439954,10,1,2,"Multidisciplinary archaeological and ecological survey in southwestern Afghanistan, conducted between 1971 and 1979 by the Smithsonian Institution and the Afghan Institute of Archaeology",,Q959782,,
+Afghanistan,Provincial Reconstruction Team Helmand,Q7252671,10,1,2,military unit,Helmand Provincial Reconstruction Team|Helmand PRT|HPRT|PRT Helmand|PRTH,Q1072780,,Provincial Reconstruction Team Helmand
+Afghanistan,Helmand province campaign,Q5709231,10,1,2,2006 series of military operations conducted by the ISAF forces against Taliban insurgents,,Q831663,,Helmand province campaign
+Afghanistan,Helmand University,Q20650278,10,1,2,"university of Helmand, Afghanistan",,Q3918,,Helmand University
+Afghanistan,Helmand culture,Q86663922,10,1,2,Bronze Age culture in current day Iran and Afghanistan,,Q465299,,Helmand culture
+Afghanistan,Helmand and Arghandab Valley Authority,Q5709216,10,1,2,agency of the Afghan government,,Q327333,,Helmand and Arghandab Valley Authority
+Helmand,Helmand Province,Q173821,10,2,1,province of Afghanistan,Helmand|Hilmand Province|Hillmand Province,Q158683,,Helmand Province
+Helmand,Helmand River,Q8510,10,2,1,river in Afghanistan and Iran,Helmend|Helmund|Hirmand,Q4022,,Helmand River
+Helmand,Helmandollar,Q37507434,10,2,1,family name,,Q101352,,
+Helmand,Helmand,Q133012256,10,2,1,online exhibition from National Army Museum (United Kingdom),,Q3062261,,
+Helmand,Helmand Sistan Project,Q140439954,10,2,1,"Multidisciplinary archaeological and ecological survey in southwestern Afghanistan, conducted between 1971 and 1979 by the Smithsonian Institution and the Afghan Institute of Archaeology",,Q959782,,
+Helmand,Provincial Reconstruction Team Helmand,Q7252671,10,2,1,military unit,Helmand Provincial Reconstruction Team|Helmand PRT|HPRT|PRT Helmand|PRTH,Q1072780,,Provincial Reconstruction Team Helmand
+Helmand,Helmand province campaign,Q5709231,10,2,1,2006 series of military operations conducted by the ISAF forces against Taliban insurgents,,Q831663,,Helmand province campaign
+Helmand,Helmand University,Q20650278,10,2,1,"university of Helmand, Afghanistan",,Q3918,,Helmand University
+Helmand,Helmand culture,Q86663922,10,2,1,Bronze Age culture in current day Iran and Afghanistan,,Q465299,,Helmand culture
+Helmand,Helmand and Arghandab Valley Authority,Q5709216,10,2,1,agency of the Afghan government,,Q327333,,Helmand and Arghandab Valley Authority
+Ţi‘s Dalīl,Ţi‘s Dalīl,Q32220505,11,0,1,dune in Saudi Arabia,,Q25391,,
+Ţi‘s Dalīl,Saudi Arabia,Q851,11,0,2,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Ţi‘s Dalīl,Saudi Arabia men's national football team,Q189723,11,0,2,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Ţi‘s Dalīl,Saudis,Q18600381,11,0,2,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Ţi‘s Dalīl,Saudi Aramco,Q679322,11,0,2,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Ţi‘s Dalīl,Saudi Arabian Armed Forces,Q1063287,11,0,2,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Ţi‘s Dalīl,Saudi Arabian Fertilizer Company,Q19720632,11,0,2,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Ţi‘s Dalīl,state-affiliated X account,Q111678803,11,0,2,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Ţi‘s Dalīl,history of Saudi Arabia,Q559915,11,0,2,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Ţi‘s Dalīl,Royal Saudi Air Force,Q1414724,11,0,2,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Ţi‘s Dalīl,Royal Saudi Navy,Q2742227,11,0,2,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+Ţi‘s Dalīl,Riyadh Province,Q1249255,11,0,2,province of Saudi Arabia,Riyadh|Riyadh Region|Ar-Riyadh Province|Khāṣirah,Q15728204,,Riyadh Province
+Saudi Arabia,Saudi Arabia,Q851,11,1,1,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Saudi Arabia,Saudi Arabia men's national football team,Q189723,11,1,1,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Saudi Arabia,Saudis,Q18600381,11,1,1,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Saudi Arabia,Saudi Aramco,Q679322,11,1,1,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Saudi Arabia,Saudi Arabian Armed Forces,Q1063287,11,1,1,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Saudi Arabia,Saudi Arabian Fertilizer Company,Q19720632,11,1,1,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Saudi Arabia,state-affiliated X account,Q111678803,11,1,1,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Saudi Arabia,history of Saudi Arabia,Q559915,11,1,1,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Saudi Arabia,Royal Saudi Air Force,Q1414724,11,1,1,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Saudi Arabia,Royal Saudi Navy,Q2742227,11,1,1,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+Saudi Arabia,Kingdom of Saudi Arabia,Q96246887,11,1,2,including a series of kingdoms that ruled different parts of the Arabian Peninsula (now Saudi Arabia) under different names throughout successive eras and periods,,Q95985724|Q1969448,Q95984719,
+Saudi Arabia,Kingdom of Saudi Arabia Commercial Register,Q107179103,11,1,2,registration authority,,Q166140,,
+Saudi Arabia,"Saudi Arabia, Kingdom of",Q103965505,11,1,2,encyclopedia article,,Q13433827,,
+Riyadh Province,Riyadh Province,Q1249255,11,2,1,province of Saudi Arabia,Riyadh|Riyadh Region|Ar-Riyadh Province|Khāṣirah,Q15728204,,Riyadh Province
+Riyadh Province,Saudi Arabia,Q851,11,2,2,country in West Asia,Kingdom of Saudi Arabia|Saudi,Q3624078|Q417175|Q6256,,Saudi Arabia
+Riyadh Province,Saudi Arabia men's national football team,Q189723,11,2,2,men's national association football team representing Saudi Arabia,Saudi Arabia national soccer team|Saudi Arabia national team|Saudi national team|Saudi national soccer team|Saudi national football team|Saudi Arabia national football team,Q135408445,,Saudi Arabia national football team
+Riyadh Province,Saudis,Q18600381,11,2,2,citizens of Saudi Arabia,Saudi Arabians|Saudi|Saudi Arabian residents|Saudi Arabia residents|Saudi Arabian people|Saudi people|Saudi'yeen|Saudi'yoon,Q33829,Q100448011|Q4058325|Q22947|Q131174429,Saudis
+Riyadh Province,Saudi Aramco,Q679322,11,2,2,Saudi Arabian state-owned petroleum company,Aramco|Arabian-American Oil Company|Saudi Arabian Oil Company|Saudi Arabian Oil Company (Dhahran)|Saudi Arabian Oil Group,Q4830453|Q6881511|Q891723|Q64027599|Q2990262,,Saudi Aramco
+Riyadh Province,Saudi Arabian Armed Forces,Q1063287,11,2,2,combined military forces of Saudi Arabia,Armed Forces of Saudi Arabia|Saudi Arabia Armed Forces|military of Saudi Arabia|SAAF|KSA Armed Forces,Q772547,,Saudi Arabian Armed Forces
+Riyadh Province,Saudi Arabian Fertilizer Company,Q19720632,11,2,2,the first petrochemical company in Saudi Arabia,SAFCO|Sabic Agri-Nutrients Company|Saudi Arabian Fertilizer Company,Q4830453|Q6881511|Q891723,,Saudi Arabian Fertilizer Company
+Riyadh Province,state-affiliated X account,Q111678803,11,2,2,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Riyadh Province,history of Saudi Arabia,Q559915,11,2,2,aspect of history,Saudi Arabia history,Q17544377|Q11862829,Q627531,History of Saudi Arabia
+Riyadh Province,Royal Saudi Air Force,Q1414724,11,2,2,air warfare branch of Saudi Arabia's military,RSAF|Royal Saudi Air Forces|Saudi Royal Air Force|Saudi Arabian Air Force,Q61883,,Royal Saudi Air Force
+Riyadh Province,Royal Saudi Navy,Q2742227,11,2,2,maritime arm of the Saudi Armed Forces,Royal Saudi Naval Forces|RSNF|Navy of Saudi Arabia|Arabian Navy|KSA Navy|Saudi Arabian Navy,Q4508,,Royal Saudi Naval Forces
+Riyadh Province,Riyadh,Q3692,11,2,2,capital and largest city of Saudi Arabia,Reyadh|AlRiyadh|Al-Riyadh|Al Riyadh|Ar-Riyadh,Q486972|Q110571169|Q108178728,,Riyadh
+Riyadh Province,King Saud University,Q1752043,11,2,2,University in Saudi Arabia,Riyadh University,Q3918|Q41176|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855|Q31855,,King Saud University
+Riyadh Province,Riyadh Gargouri,Q102291168,11,2,2,Tunisian mathematician,,Q5,,
+Riyadh Province,Riyadh Alroomy,Q102130005,11,2,2,researcher,,Q5,,
+Riyadh Province,Riyadh A Alzaheb,Q101227701,11,2,2,researcher,Riyadh Alzaheb,Q5,,
+Riyadh Province,Princess Nora bint Abdul Rahman University,Q4118886,11,2,2,"The largest public women’s university in the world, located in Riyadh, the capital of Saudi Arabia",Princess Nourah Bint Abdulrahman University|PNU|Riyadh University for Women|Princess Noura University,Q3918|Q38723,,Princess Nourah Bint Abdul Rahman University
+Riyadh Province,Riyadh Military Hospital,Q16123520,11,2,2,"hospital in Riyadh, Saudi Arabia",Prince Sultan Military Medical City|RMH|Armed Forces Hospital Riyadh|Riyadh Armed Forces Hospital,Q16917,,Riyadh Military Hospital
+Riyadh Province,Riyadh,Q103963846,11,2,2,encyclopedia article,,Q13433827,,
+Riyadh Province,Riyadh governorate,Q97302281,11,2,2,governorate in Saudi Arabia,,Q66661665,,Riyadh Governorate
+Bossieduin,Bossieduin,Q31882744,12,0,1,,,Q25391,,
+Bossieduin,Northern Cape,Q132418,12,0,2,province of South Africa,Northern Cape Province|province of the Northern Cape|province of Northern Cape,Q191093,,Northern Cape
+Bossieduin,Northern Cape,Q59136542,12,0,2,'at large' constituency for the Northern Cape provincial legislature in South Africa,,Q59136510,,
+Bossieduin,Northern Cape cricket team,Q5609604,12,0,2,cricket team in South Africa,Griqualand West cricket team|Kimberley cricket team,Q17376093,,Northern Cape cricket team
+Bossieduin,Northern Cape,Q107133506,12,0,2,South African multi-member constituency,,Q192611,,Northern Cape (National Assembly of South Africa constituency)
+Bossieduin,Northern Cape Provincial Legislature,Q15262569,12,0,2,legislature of the Northern Cape Province,,Q7252701,,Northern Cape Provincial Legislature
+Bossieduin,Northern Cape Executive Council,Q57283358,12,0,2,executive of the Northern Cape Province,,Q5419808,,
+Bossieduin,Orange River Afrikaans,Q1788838,12,0,2,dialect of the Afrikaans language,Northern Cape Afrikaans,Q33384,Q14196,Afrikaans (Northern Cape dialect)
+Bossieduin,Northern Cape women's cricket team,Q111167878,12,0,2,South African women's cricket team,,,,Northern Cape women's cricket team
+Bossieduin,Northern Cape Passes,Q17080214,12,0,2,Wikimedia list article,,Q13406463,,List of mountain passes of the Northern Cape
+Bossieduin,Northern Cape Department of Social Development,Q96396480,12,0,2,government department in South Africa,,,,Northern Cape Department of Social Development
+Bossieduin,South Africa,Q258,12,0,2,country in southern Africa,Republic of South Africa|RSA|SA|zaf|R.S.A.,Q3624078|Q6256,,South Africa
+Bossieduin,UTC+02:00,Q6723,12,0,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Bossieduin,Union of South Africa,Q193619,12,0,2,"state in southern Africa from 1910 to 1961, predecessor to the Republic of South Africa",South Africa,Q223832|Q3024240,,Union of South Africa
+Bossieduin,South African Archaeological Bulletin,Q15763539,12,0,2,academic journal,,Q5633421|Q21834496,,
+Bossieduin,South African Medical Journal,Q7565732,12,0,2,journal,SAMJ,Q5633421|Q737498|Q773668|Q16024164,,South African Medical Journal
+Bossieduin,Xenopus laevis,Q654718,12,0,2,species of amphibian,xenopus|African clawed toad|African claw-toed frog|platanna|plattie|African clawed frog|South African clawed frog,Q16521|Q213907,,African clawed frog
+Bossieduin,University of Cape Town,Q951305,12,0,2,"public university in Cape Town, South Africa",South African College|uct.ac.za|Cape Town University,Q875538|Q45400320|Q38723|Q3918,,University of Cape Town
+Bossieduin,South Africa,Q140454642,12,0,2,,,Q482994,,
+Bossieduin,South African Historical Journal,Q15761363,12,0,2,academic journal,,Q5633421,,South African Historical Journal
+Bossieduin,Second Boer War,Q215112,12,0,2,war between two Boer Republics (South African Republic and Orange Free State) and the United Kingdom,Boer War|South African War,Q198,,Second Boer War
+South Africa,South Africa,Q258,12,1,1,country in southern Africa,Republic of South Africa|RSA|SA|zaf|R.S.A.,Q3624078|Q6256,,South Africa
+South Africa,UTC+02:00,Q6723,12,1,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+South Africa,Union of South Africa,Q193619,12,1,1,"state in southern Africa from 1910 to 1961, predecessor to the Republic of South Africa",South Africa,Q223832|Q3024240,,Union of South Africa
+South Africa,South African Archaeological Bulletin,Q15763539,12,1,1,academic journal,,Q5633421|Q21834496,,
+South Africa,South African Medical Journal,Q7565732,12,1,1,journal,SAMJ,Q5633421|Q737498|Q773668|Q16024164,,South African Medical Journal
+South Africa,Xenopus laevis,Q654718,12,1,1,species of amphibian,xenopus|African clawed toad|African claw-toed frog|platanna|plattie|African clawed frog|South African clawed frog,Q16521|Q213907,,African clawed frog
+South Africa,University of Cape Town,Q951305,12,1,1,"public university in Cape Town, South Africa",South African College|uct.ac.za|Cape Town University,Q875538|Q45400320|Q38723|Q3918,,University of Cape Town
+South Africa,South Africa,Q140454642,12,1,1,,,Q482994,,
+South Africa,South African Historical Journal,Q15761363,12,1,1,academic journal,,Q5633421,,South African Historical Journal
+South Africa,Second Boer War,Q215112,12,1,1,war between two Boer Republics (South African Republic and Orange Free State) and the United Kingdom,Boer War|South African War,Q198,,Second Boer War
+South Africa,Northern Cape,Q132418,12,1,2,province of South Africa,Northern Cape Province|province of the Northern Cape|province of Northern Cape,Q191093,,Northern Cape
+South Africa,Northern Cape,Q59136542,12,1,2,'at large' constituency for the Northern Cape provincial legislature in South Africa,,Q59136510,,
+South Africa,Northern Cape cricket team,Q5609604,12,1,2,cricket team in South Africa,Griqualand West cricket team|Kimberley cricket team,Q17376093,,Northern Cape cricket team
+South Africa,Northern Cape,Q107133506,12,1,2,South African multi-member constituency,,Q192611,,Northern Cape (National Assembly of South Africa constituency)
+South Africa,Northern Cape Provincial Legislature,Q15262569,12,1,2,legislature of the Northern Cape Province,,Q7252701,,Northern Cape Provincial Legislature
+South Africa,Northern Cape Executive Council,Q57283358,12,1,2,executive of the Northern Cape Province,,Q5419808,,
+South Africa,Orange River Afrikaans,Q1788838,12,1,2,dialect of the Afrikaans language,Northern Cape Afrikaans,Q33384,Q14196,Afrikaans (Northern Cape dialect)
+South Africa,Northern Cape women's cricket team,Q111167878,12,1,2,South African women's cricket team,,,,Northern Cape women's cricket team
+South Africa,Northern Cape Passes,Q17080214,12,1,2,Wikimedia list article,,Q13406463,,List of mountain passes of the Northern Cape
+South Africa,Northern Cape Department of Social Development,Q96396480,12,1,2,government department in South Africa,,,,Northern Cape Department of Social Development
+South Africa,Bossieduin,Q31882744,12,1,2,,,Q25391,,
+Northern Cape,Northern Cape,Q132418,12,2,1,province of South Africa,Northern Cape Province|province of the Northern Cape|province of Northern Cape,Q191093,,Northern Cape
+Northern Cape,Northern Cape,Q59136542,12,2,1,'at large' constituency for the Northern Cape provincial legislature in South Africa,,Q59136510,,
+Northern Cape,Northern Cape cricket team,Q5609604,12,2,1,cricket team in South Africa,Griqualand West cricket team|Kimberley cricket team,Q17376093,,Northern Cape cricket team
+Northern Cape,Northern Cape,Q107133506,12,2,1,South African multi-member constituency,,Q192611,,Northern Cape (National Assembly of South Africa constituency)
+Northern Cape,Northern Cape Provincial Legislature,Q15262569,12,2,1,legislature of the Northern Cape Province,,Q7252701,,Northern Cape Provincial Legislature
+Northern Cape,Northern Cape Executive Council,Q57283358,12,2,1,executive of the Northern Cape Province,,Q5419808,,
+Northern Cape,Orange River Afrikaans,Q1788838,12,2,1,dialect of the Afrikaans language,Northern Cape Afrikaans,Q33384,Q14196,Afrikaans (Northern Cape dialect)
+Northern Cape,Northern Cape women's cricket team,Q111167878,12,2,1,South African women's cricket team,,,,Northern Cape women's cricket team
+Northern Cape,Northern Cape Passes,Q17080214,12,2,1,Wikimedia list article,,Q13406463,,List of mountain passes of the Northern Cape
+Northern Cape,Northern Cape Department of Social Development,Q96396480,12,2,1,government department in South Africa,,,,Northern Cape Department of Social Development
+Northern Cape,province of South Africa,Q191093,12,2,2,first-level administrative division of South Africa,,Q15617994,Q4683555|Q34876|Q1048835|Q10864048|Q192611,Provinces of South Africa
+Aouarach,Aouarach,Q27693781,13,0,1,,,Q25391,,
+Aouarach,Aouarâch,Q27738005,13,0,1,hill in Mauritania,,Q54050,,
+Aouarach,Aouarach,Q29069244,13,0,1,Wikimedia disambiguation page,,Q4167410,,
+Mali,Mali,Q912,13,1,1,country in West Africa,Republic of Mali|ml,Q3624078|Q123480|Q6256,,Mali
+Mali,Mali,Q11987935,13,1,1,female given name,Mali (given name)|Mali (first name),Q11879590,,
+Mali,rheumatoid arthritis,Q187255,13,1,1,autoimmune disease which attacks healthy cells and tissue located in joints,"arthritis or polyarthritis, rheumatic|atrophic arthritis|rheumatoid arthritis with vasculitis|malignant rheumatoid arthritis|arthritis, rheumatoid",Q42303753|Q112193867|Q112965645,Q170990|Q8084905|Q383126|Q1446169|Q1404470|Q18553609,Rheumatoid arthritis
+Mali,Mali,Q6511994,13,1,1,agrotown in Belarus,"Mali, Belarus|Mali (village)|Mali (Belarus)",Q1989945,,
+Mali,ovarian cancer,Q172341,13,1,1,female reproductive organ cancer that is located in the ovary,malignant tumour of ovary|primary ovarian cancer|malignant ovarian tumor|hereditary ovarian cancer|Familial ovarian malignant tumor|cancer of the ovary|cancer of the ovaries,Q112193867,Q18554220|Q11793790|Q7113244|Q18554878|Q55785525|Q55785864,Ovarian cancer
+Mali,hepatocellular carcinoma,Q1148337,13,1,1,liver carcinoma that has material basis in undifferentiated hepatocytes,"malignant hepatoma|HCC|Hepatoma|adult Hepatoma|adult primary hepatocellular carcinoma|Hepatocellular carcinoma, HCC|Adult Primary Liver Cell Carcinoma|Adult HCC|Adult Primary Carcinoma of Liver Cell|Adult Hepatocellular Carcinoma|Adult Primary Carcinoma of the Liver Cell|Hepatocellular Cancer|Adult Primary Hepatoma|Carcinoma, Hepatocellular|carcinoma, hepatocellular, nos",Q112193867,Q18557387,Hepatocellular carcinoma
+Mali,cancer,Q12078,13,1,1,group of diseases involving abnormal cell growth and spread,malignant neoplasm|malignant tumor|primary cancer,Q112193867|Q2057971|Q12136,Q18554796|Q1216998|Q133212|Q3137154|Q140408816,Cancer
+Mali,lung cancer,Q47912,13,1,1,cancer in the lung,malignant lung tumor|malignant neoplasm of lung|bronchial cancer|lung carcinoma,Q112193867,Q7315926|Q3392853|Q15124212,Lung cancer
+Mali,prostate cancer,Q181257,13,1,1,male reproductive organ cancer,"malignant tumor of the prostate|prostatic cancer|tumor of the prostate|malignant neoplasm of the prostate|prostate cancer, familial|hereditary prostate cancer",Q112193867,Q18556093|Q56014511|Q18556445,Prostate cancer
+Mali,pancreatic cancer,Q212961,13,1,1,endocrine gland cancer located in the pancreas,Ca tail of pancreas|Ca head of pancreas|Ca body of pancreas|malignant neoplasm of head of pancreas|malignant neoplasm of tail of pancreas|malignant neoplasm of body of pancreas,Q112193867,Q18554878|Q7130407|Q7130412|Q5526839,Pancreatic cancer
+Mali,"Mali, Republic of",Q103954812,13,1,2,encyclopedia article,,Q13433827,,
+Timbuktu Region,Timbuktu Region,Q339462,13,2,1,region of Mali,,Q743074,,Tombouctou Region
+Timbuktu Region,Timbuktu,Q15615765,13,2,2,Canadian hip-hop artist,Timothy Wallace,Q5,,Timbuktu (hip-hop artist)
+Timbuktu Region,Timbuktu,Q9427,13,2,2,city in Mali,Tombouctou|Tumbutu|Timbuctoo|Timbuktoo,Q515|Q702492,,Timbuktu
+Timbuktu Region,Timbuktu,Q44828,13,2,2,Swedish rapper,Jason Michael Bosak Diakité,Q5,,Timbuktu (musician)
+Timbuktu Region,Timbuktu,Q16653473,13,2,2,2014 film by Abderrahmane Sissako,,Q11424,,Timbuktu (2014 film)
+Timbuktu Region,Timbuktu,Q492991,13,2,2,novel by Paul Auster,,Q47461344,,Timbuktu (novella)
+Timbuktu Region,Timbuktu,Q15240719,13,2,2,World heritage site,,Q9259,,
+Timbuktu Region,Timbuktu,Q7804763,13,2,2,crater on Mars,,Q1475691,,Timbuktu (crater)
+Timbuktu Region,Timbuktu Cercle,Q174455,13,2,2,cercle of Mali,,Q2115792,,Timbuktu Cercle
+Timbuktu Region,Timbuktu,Q3531190,13,2,2,1959 U.S. black-and-white adventure film directed by Jacques Tourneur,,Q11424,,Timbuktu (1959 film)
+Agoualîl,Agoualîl,Q27743690,14,0,1,dune in Mauritania,,Q25391,,
+Agoualîl,Agoualîl,Q29070224,14,0,1,Wikimedia disambiguation page,,Q4167410,,
+Mauritania,Mauritania,Q1025,14,1,1,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Mauritania,Mauretania,Q309272,14,1,1,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Mauritania,Mauritania men's national football team,Q477067,14,1,1,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Mauritania,Mauritania,Q106880871,14,1,1,painting by Jean Michel Atlan,,Q3305213,,
+Mauritania,Mauritania,Q100651514,14,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritania,Q100651513,14,1,1,publication by Ton Dietz,,Q3331189,,
+Mauritania,Mauritanian Premier League,Q582860,14,1,1,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Mauritania,Mauritanian ouguiya,Q207024,14,1,1,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Mauritania,Government of Mauritania,Q3112595,14,1,1,Mauritania government,Mauritania government,Q7188,Q640506,
+Mauritania,flag of Mauritania,Q102977,14,1,1,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania
+Mauritania,Islamic Republic of Mauritania: Economic Development Documents,Q129615334,14,1,2,scholarly article published in 2018,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: Third Review Under the Extended Credit Facility Arrangement-Press Release; Staff Report; and Statement by the Executive Director for the Islamic Republic of Mauritania,Q127637208,14,1,2,scholarly article,,Q13442814,,
+Mauritania,"Islamic Republic of Mauritania: Second Review Under the Extended Credit Facility Arrangement, and Request for Modification of Performance Criteria-Press Release; Staff Report; and Statement by the Executive Director for Islamic Republic of Mauritania",Q128639491,14,1,2,scholarly article,,Q13442814,,
+Mauritania,Islamic Republic of Mauritania: First Review Under the Extended Credit Facility Arrangement-Press Release; and Staff Report,Q129603163,14,1,2,scholarly article published in 2018,,Q13442814,,
+Hodh Ech Chargui Region,Hodh Ech Chargui,Q12621,14,2,1,region of Mauritania,Hodh Ech Chargui region,Q846327,,Hodh Ech Chargui region
+Hodh Ech Chargui Region,Agoualîl,Q27743690,14,2,2,dune in Mauritania,,Q25391,,
+Hodh Ech Chargui Region,Agoualîl,Q29070224,14,2,2,Wikimedia disambiguation page,,Q4167410,,
+Hodh Ech Chargui Region,Mauritania,Q1025,14,2,2,sovereign state in West Africa and North Africa,Islamic Republic of Mauritania|Muritanya|Agawej|Gànnaar|Murutaane|Moritani|mr|Gannaar|Mauretania,Q672729|Q3624078|Q6256,,Mauritania
+Hodh Ech Chargui Region,Mauretania,Q309272,14,2,2,Ancient region in North Africa,Mauritania|Maurusia,Q3024240,,Mauretania
+Hodh Ech Chargui Region,Mauritania men's national football team,Q477067,14,2,2,men's national association football team representing Mauritania,Mauritania national football team,Q135408445,Q1194951,Mauritania national football team
+Hodh Ech Chargui Region,Mauritania,Q106880871,14,2,2,painting by Jean Michel Atlan,,Q3305213,,
+Hodh Ech Chargui Region,Mauritania,Q100651514,14,2,2,publication by Ton Dietz,,Q3331189,,
+Hodh Ech Chargui Region,Mauritania,Q100651513,14,2,2,publication by Ton Dietz,,Q3331189,,
+Hodh Ech Chargui Region,Mauritanian Premier League,Q582860,14,2,2,association football league,Ligue 1 Mauritania,Q15991303,Q3270632,Super D1
+Hodh Ech Chargui Region,Mauritanian ouguiya,Q207024,14,2,2,currency of Mauritania,UM|ouguiya|MRU,Q8142|Q7048891,,Mauritanian ouguiya
+Hodh Ech Chargui Region,Government of Mauritania,Q3112595,14,2,2,Mauritania government,Mauritania government,Q7188,Q640506,
+Hodh Ech Chargui Region,flag of Mauritania,Q102977,14,2,2,national flag of the Islamic Republic of Mauritania,Mauritania flag,Q186516,,Flag of Mauritania

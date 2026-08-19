@@ -1,0 +1,35 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+L'Histoire des larmes,L'Histoire des larmes,Q57509260,0,0,1,performing arts production,,Q43099869|Q7777570,,
+Als/Dan (2002-2003),Als/Dan (2002-2003),Q57509177,1,0,1,performing arts production,,Q43099869,,
+Als/Dan (2002-2003),Danish Superliga,Q204752,1,0,2,Danish association football top league,Superligaen|Danske superliga|Coca Cola Ligaen|SAS Ligaen|Faxe Kondi Superliga|Alka Superliga,Q135641761,Q3270632,Danish Superliga
+Persona,Persona,Q695255,2,0,1,1966 Swedish avant-garde psychological drama film by Ingmar Bergman,,Q11424,,Persona (1966 film)
+Persona,legal person,Q3778211,2,0,1,any entity that is recognised as having privileges and obligations in law,legal subject|legal entity|subject of law|legal personality|law subject|law personality|legal body|persona iuris|artificial person|law figure,Q931483,Q106559804,Legal person
+Persona,human,Q5,2,0,1,"any single member of Homo sapiens, unique extant species of the genus Homo",human being|people|nonfictional human|non-fictional human|individual Homo sapiens|modern human,Q55983715,Q2250224|Q164509|Q154954|Q5891007,Human
+Persona,Persona,Q28724527,2,0,1,2016 studio album by Vidi Aldiano,,Q482994,,
+Persona,personal computer,Q16338,2,0,1,computer intended for use by an individual person,,Q716676,Q68,Personal computer
+Persona,personal pronoun,Q468801,2,0,1,pronoun that is associated with a particular grammatical personality,gender pronoun|independent pronoun,,Q36224,Personal pronoun
+Persona,persona,Q1077857,2,0,1,character assumed by a writer or a performance artist,art persona,Q151885,Q844569|Q1792372,Persona
+Persona,Journal of Personality and Social Psychology,Q1247946,2,0,1,journal,JPSP|Personality & Social Psychology,Q5633421,,Journal of Personality and Social Psychology
+Persona,personal digital assistant,Q162768,2,0,1,multi-purpose mobile device,pda|palmtop,Q63981612,Q155972|Q5082128,Personal digital assistant
+Persona,personal protective equipment,Q1333024,2,0,1,"protective clothing or equipment designed to help protect an individual from injury, Noise, infection, or other hazards",PPE|protective clothing|protective gear|safety gear|masks,Q136770063|Q268592|Q63981612,Q10273457,Personal protective equipment
+Persona,Person,Q16881132,2,0,2,family name,,Q101352,,Person (surname)
+Persona,person,Q215627,2,0,2,"being that has certain capacities or attributes constituting personhood (for humans, use Q5 [human] with P31 [instance of])",persons,,Q795052|Q3778211|Q24229398,Person
+Persona,B,Q47035235,2,0,2,NRHP criterion - person,"person|""B""|(B)|criterion B|criterion ""B""|criterion (B)|NRHP criterion B",Q1789452,,
+Persona,Person,Q94648411,2,0,2,given name,,Q202444,,
+Persona,anonymous,Q4233718,2,0,2,"unknown creator of a work (do not use as value of P50; use ""unknown value"" instead)",unknown|unknown author|unknown artist|anonymous author|anonymous artist|Anon|Anoniem|Anonymous|anoniem|unidentified artist|artist once known|person once known|unidentified human,Q215627|Q134261520,Q24238356|Q215627,
+Persona,Person,Q105964318,2,0,2,,,Q5,,
+Persona,person related to this place,Q19660746,2,0,2,person with relation(s) to a specific geographical place,person(s) related to this place|persons related to this place|person associated with this place|people related to this place|people of this place,Q19478619,Q215627|Q111604130,
+Persona,pregnant person,Q104720811,2,0,2,person in whose womb offspring is developing,expectant mother|expectant person|person who is pregnant|gradiva,Q3505845,Q467|Q84048852,
+Persona,character,Q95074,2,0,2,fictional human or non-human character in a narrative work of art,fictional character,Q6647660,Q14897293|Q115537581|Q24229398,Character (arts)
+Persona,former IMDb character page,Q44374960,2,0,2,"identifier of character page in the old IMDb format. Such identifiers should be set to deprecate rank, not deleted.",ch|character|former Internet Movie Database character page,Q27949697,Q21441764,
+Persona,Unicode character,Q29654788,2,0,2,type of code point used to encode a character in the Universal Character Set (UCS) defined by the Unicode and ISO/IEC 10646 standards,character in Unicode|character (Unicode)|Unicode characters|characters in Unicode|characters (Unicode),Q2352616|Q109613493,Q3241972|Q109615047,
+Persona,character,Q1792372,2,0,2,art figure (for fictional characters use Q95074),,,Q95074,
+Persona,character,Q3241972,2,0,2,symbol or sign (concept unrelated to computing),sign|typographic symbol|typographical mark|symbol|typographical symbol,,Q80071,Character (symbol)
+Persona,part of a work,Q88392887,2,0,2,part that a work consists of (use a more specific object if possible),chapter|verse|stanza|scene|frame|paragraph|section|tome|volume|book|film|word|sign|character|movement|picture|snapshot|song|part|article|number|part of work,,Q13196193|Q17537576|Q47461344,
+Persona,seiyū,Q622807,2,0,2,Japanese voice actor or actress,seiyuu|seiyu|Japanese voice actor/actress|Japanese vocal actor/actress|character voice|CV|voice idol,Q28640,Q2405480,Voice acting in Japan
+Persona,literary character,Q3658341,2,0,2,fictional character appearing in written works,book character|novel character|literature character|character in a book|character in a novel|character in literature|short story character|character in a short story,Q112265308,Q95074,Literary character
+Persona,disposition,Q1149305,2,0,2,tendency of a person to act in a specified way,nature|personage|character|natural inclination,,Q55919789,Disposition
+Persona,character,Q32483,2,0,2,primitive data type,char|rune|Char,Q1188648,Q494756|Q7100787,Character (computing)
+Stéphane Broc,Stéphane Broc,Q52834842,2,1,1,,,Q5,,
+Stéphane Broc,Stephane Brochu,Q139770395,2,1,1,tabletop role-playing game designer,,Q5,,
+Stéphane Broc,Stéphane Brochu,Q6380450,2,1,1,Canadian ice hockey player,Stephane Brochu,Q5,,Stéphane Brochu

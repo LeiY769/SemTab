@@ -1,0 +1,49 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Usmani,Usmani,Q37455227,0,0,1,family name,,Q101352,,
+Usmani,Usmani,Q6008409,0,0,1,Silver currency,Bukşa,Q8142,,
+Usmani,Usmanik Island,Q115419290,0,0,1,"island in Fakfak Regency, West Papua Province, Indonesia",,Q207524,,
+Usmani,Usmani family of Deoband,Q104706458,0,0,1,Usmanis of Deoband,Khānwada-e-Usmāni,Q8436,,Usmani family of Deoband
+Usmani,Muhammad Taqi Usmani,Q1392062,0,0,1,Pakistani judge,,Q5,,Taqi Usmani
+Usmani,Usmania Glass Sheet Factory Limited,Q104848653,0,0,1,company in Bangladesh,,,,Usmania Glass Sheet Factory Limited
+Usmani,Usmania FC,Q138754986,0,0,1,Pakistani football club,,Q476028,,Usmania FC
+Usmani,Usmāni Sar,Q31772507,0,0,1,mountain in Pakistan,,Q8502,,
+Usmani,Usmania Colony,Q18357547,0,0,1,,,,,Usmania Colony
+Usmani,"Usmaniyya Islamiyya Primary School, Sheka",Q116381095,0,0,1,"primary school in Kano State, Nigeria",,Q3914,,
+rand,RAND Corporation,Q861141,1,0,1,American research organization,RAND|escorp.ai,Q155271|Q163740,,RAND Corporation
+rand,Rand,Q16881853,1,0,1,family name,,Q101352,,Rand (surname)
+rand,Randall Munroe,Q285048,1,0,1,"American cartoonist, author and engineer",Randall Patrick Munroe,Q5,,Randall Munroe
+rand,Random House,Q744182,1,0,1,American general-interest trade book publisher,Random Century,Q2085381,,Random House
+rand,Rand,Q2194369,1,0,1,"village and civil parish in Lincolnshire, UK","Rand, Lincolnshire",Q532|Q1115575,,"Rand, Lincolnshire"
+rand,Randy,Q1215702,1,0,1,male given name,Randy (given name)|Randy (first name),Q12308941,,Randy
+rand,Randers,Q27168,1,0,1,city in Denmark,,Q515,,Randers
+rand,Randall,Q16280793,1,0,1,male given name,Randall (given name)|Randall (first name),Q12308941,,Randall (given name)
+rand,Randy Schekman,Q740638,1,0,1,Nobel prize winning American cell biologist,Randy Wayne Schekman|Randy W. Schekman|Randy W Schekman|R. W. Schekman|R W Schekman|R. Schekman|R Schekman|Schekman|Schekman R.|Schekman R. W.|Schekman R|Schekman RW,Q5,,Randy Schekman
+rand,randomized controlled trial,Q1436668,1,0,1,"experimental method designed to reduce bias, typically accomplished by randomly allocating subjects to two or more groups, with one being a control group",RCT|randomized control trial|randomized controlled trials|randomized clinical trial|randomised controlled trials|randomized Controlled Trials as Topic,,Q1231081|Q30612|Q106489573|Q78088984|Q13442814,Randomized controlled trial
+rand,Random,Q12507903,1,0,2,"village in Paser Regency, East Kalimantan, Indonesia",,Q26211545,,
+rand,Random,Q29048755,1,0,2,album by Charly García,,Q482994,,
+rand,Random Lake,Q49308760,1,0,2,"lake within the village of Random Lake in Sheboygan County, Wisconsin, United States",,Q23397,,
+rand,randomized experiment,Q1231081,1,0,2,"experiment using randomness in some aspect, usually to aid in removal of bias",randomized trial|randomised trial,,Q101965|Q46857,Randomized experiment
+rand,random forest,Q245748,1,0,2,statistical algorithm that is used to cluster points of data in functional groups,random forests|randomized trees|RF,Q8366,,Random forest
+rand,Random Access Memories,Q8119033,1,0,2,2013 studio album by Daft Punk,,Q482994,,Random Access Memories
+rand,Random,Q96248746,1,0,2,Italian rapper and singer,Emanuele Caso,Q5,,Random (rapper)
+rand,stochastic process,Q176737,1,0,2,mathematical object usually defined as a collection of random variables,random process|stochastic processes,Q24034552|Q116505632,Q246672|Q856215,Stochastic process
+rand,random variable,Q176623,1,0,2,variable representing a random phenomenon,random quantity|aleatory variable|stochastic variable,,Q166211|Q50701,Random variable
+rand,Random Variable Estimation and Model Calibration in the Presence of Epistemic and Aleatory Uncertainties,Q130045131,1,0,2,scholarly article published on 3 April 2018,,Q13442814,,
+rand,Random Variables and Stable Distributions on Fractal Cantor Sets,Q127711998,1,0,2,scholarly article,,Q13442814,,
+rand,Random variables with maximum sums,Q137670486,1,0,2,Article published in September 1982 Advances in Applied Probability,,Q18918145,,
+rand,Random Variable Generation Using Concavity Properties of Transformed Densities,Q55952604,1,0,2,,,Q13442814,,
+rand,Random variables with moment-matching staircase density functions,Q89867540,1,0,2,scientific article published on 01 July 2018,,Q13442814,,
+rand,Random Variables with Independent Binary Digits,Q138333681,1,0,2,Article published in December 1971 The Annals of Mathematical Statistics,,Q18918145,,
+rand,Random Variables from the Point of View of a General Theory of Variables,Q137779692,1,0,2,Article published in 1956,,Q13442814,,
+rand,Random Variables with Overlapping Number and Weyl Algebras I,Q137301795,1,0,2,scientific article published on 8 March 2023,,Q13442814,,
+rand,Random Variables with Overlapping Number and Weyl Algebras II,Q137362308,1,0,2,scientific article published on 16 June 2023,,Q13442814,,
+rand,random number generator,Q61722412,1,0,2,device that generates a sequence of numbers or symbols that cannot be reasonably predicted better than by a random chance,RNG,,Q1183543,Random number generator
+rand,Random Number Generator Horror Podcast No. 9,Q110581245,1,0,2,podcast,,Q24634210,,
+rand,Random number generator,Q118978398,1,0,2,US patent 11449311,,Q43305660,,
+rand,Random number generator,Q136213383,1,0,2,US patent 11294640,,Q43305660,,
+rand,Random number generator,Q118611573,1,0,2,US patent 11237801,,Q43305660,,
+rand,random seed,Q1886131,1,0,2,value used to initialize a pseudo-random number generator,seed|seed state|random number generator seed|pseudorandom number generator seed|RNG seed|PRNG seed,Q4897819,Q1196827|Q18351510,Random seed
+rand,random number generator attack,Q4071926,1,0,2,class of attack on cryptographic systems,RNG attack,,Q631425,Random number generator attack
+rand,"Random number generator, encryption/decryption secret key generator and method based on characteristics of memory cells",Q140266999,1,0,2,US patent 11449310,,Q43305660,,
+rand,Random number generator with a bistable and ring oscillators,Q125862436,1,0,2,US patent 11366640,,Q43305660,,
+rand,Random number generators: good ones are hard to find,Q56081901,1,0,2,October 1988 scholarly article by Park and Miller in Communications of the ACM,,Q13442814,,

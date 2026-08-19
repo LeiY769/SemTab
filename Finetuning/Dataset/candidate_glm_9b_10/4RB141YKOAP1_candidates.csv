@@ -1,0 +1,71 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Reichsmark,Reichsmark,Q155009,0,0,1,German currency until 1948,RM,Q28783456|Q4281830,,Reichsmark
+Reichsmark,Reichsmark und Ardeywälder am Schorveskopf,Q133897886,0,0,1,protected landscape area in North Rhine-Westphalia,,Q21503788,,
+Reichsmark,Occupation Reichsmark,Q13554334,0,0,1,currency,,Q8142,,
+Reichsmark,Reichsmarkstraße,Q1626674,0,0,1,street,,Q79007,,
+New Brunswick pound,New Brunswick pound,Q17012236,1,0,1,former currency of New Brunswick,,Q28783456|Q63117399,,New Brunswick pound
+RINET Funds Code XRE,RINET Funds Code XRE,Q115210853,2,0,1,ISO defined currency funds code,RINET|RINET funds code|XRE|ZZ02_RINET Funds Code,Q28783456,,
+RINET Funds Code XRE,cross-reference,Q1302249,2,0,2,reference in one place in a book to information at another place in the same work,cross reference|xref,,Q1713|Q49848,Cross-reference
+RINET Funds Code XRE,Crossrail Eastern Section,Q113994602,2,0,2,section of railway line in the UK,XRE,Q113990375,,
+RINET Funds Code XRE,XRE family transcriptional regulator BSU12510,Q23349832,2,0,2,microbial gene found in Bacillus subtilis subsp. subtilis str. 168,xre|BSU12510|XRE family transcriptional regulator,Q7187,Q7187|Q20747295,
+RINET Funds Code XRE,Phage PBSX transcriptional regulator BSU_12510,Q23515272,2,0,2,microbial protein found in Bacillus subtilis subsp. subtilis str. 168,xre|phage PBSX transcriptional regulator|BSU12510,Q8054,Q8054,
+RINET Funds Code XRE,XRey,Q115129990,2,0,2,podcast about the life of former Spanish king Juan Carlos I,,Q24634210,,
+RINET Funds Code XRE,XRey II,Q115130057,2,0,2,podcast about the life of Spanish king Felipe VI,XRey 2,Q24634210,,
+RINET Funds Code XRE,Gergei,Q283968,2,0,2,Italian comune,Grerxèi|Xrexrei|Gerxei,Q747074,,Gergei
+RINET Funds Code XRE,X resources,Q8042786,2,0,2,x Window System parameters,Xresources,,,X resources
+RINET Funds Code XRE,xRed Games,Q130344769,2,0,2,video game developer,xRedGames,Q210167,,
+Brazilian cruzado,Brazilian cruzado,Q926028,3,0,1,Brazilian currency from 1986 to 1989,BRC|Cz$|cruzados,Q28783456|Q116732679|Q8142,,Brazilian cruzado
+Brazilian cruzado,Brazilian cruzado novo,Q1764812,3,0,1,Brazilian currency from 1989 to 1990,BRN|NCz$|cruzados novos,Q28783456|Q8142,Q116732679,Brazilian cruzado novo
+Serbian dinar,Serbian dinar,Q172524,4,0,1,Serbian currency,dinar|RSD|Serbia dinar,Q8142|Q191830,,Serbian dinar
+Serbian dinar,Serbian dinar,Q115207385,4,0,1,former dinar currency or Serbia (–2006),CSD,Q28783456,,
+South Carolina pound,South Carolina pound,Q7566716,5,0,1,currency of South Carolina until 1793; at par with the pound sterling,,Q63117399|Q28783456,,South Carolina pound
+Portuguese escudo,Portuguese escudo,Q468474,6,0,1,former currency of Portugal from 1911 until 1999,PTE,Q28783456|Q745316,,Portuguese escudo
+Portuguese escudo,escudo,Q745316,6,0,2,currency or unit of account in many nations,,,Q8142,Escudo
+Portuguese escudo,Scutum,Q10529,6,0,2,constellation in the southern celestial hemisphere,Scuti|Sct|Scutum Sobiescanum|Sobieski's Shield,Q8928,,Scutum (constellation)
+Portuguese escudo,Spanish escudo,Q1515398,6,0,2,"former Spanish currency (1535–1833, 1864–1869)",escudo,Q8142,Q745316,Spanish escudo
+Portuguese escudo,coat of arms,Q14659,6,0,2,"heraldic design on a shield, surcoat or tabard",armorial bearings|arms|heraldic device,,Q17335294|Q80071|Q391414,Coat of arms
+Portuguese escudo,escudo,Q17093752,6,0,2,,,,Q8142,
+Portuguese escudo,Suzuki Escudo,Q113159378,6,0,2,type of compact SUV manufactured by Suzuki,Suzuki Sidekick|Suzuki Grand Vitara|Escudo|Suzuki Vitara,Q3231690,Q10863152|Q875600,
+Portuguese escudo,Chilean escudo,Q603071,6,0,2,currency,Escudo (1960-1975),Q8142,Q745316,Chilean escudo
+Portuguese escudo,Escudo River,Q11703413,6,0,2,river in Spain,Río Escudo,Q355304,,
+Portuguese escudo,shield,Q131559,6,0,2,item of armor carried to intercept attacks or projectiles,🛡,Q124078422,Q485027|Q1453431,Shield
+Portuguese escudo,Escudo Silesiano,Q1684714,6,0,2,,,Q618779,,
+Malian franc,Malian franc,Q2629054,7,0,1,historical currency of Mali (1962–1984),Mali franc|MLF,Q28783456,,Malian franc
+Malian franc,France,Q142,7,0,2,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",French Republic,Q3624078|Q20181813|Q51576574|Q7270|Q6256,,France
+Malian franc,Franc,Q15303979,7,0,2,male given name,Franc (given name)|Franc (first name),Q12308941,,
+Malian franc,Franc,Q12789022,7,0,2,family name,,Q101352,,
+Malian franc,Francis,Q1441346,7,0,2,male given name,,Q12308941,,Francis (given name)
+Malian franc,Francisco,Q7201446,7,0,2,male given name,Francisco (first name)|Francisco (given name),Q12308941,,Francisco
+Malian franc,François,Q1166840,7,0,2,male given name,François (first name)|François (given name),Q12308941,,François
+Malian franc,Francesco,Q2268455,7,0,2,male given name,Francesco (first name)|Francesco (given name),Q12308941,,Francesco
+Malian franc,Frances,Q1440778,7,0,2,female given name,,Q11879590,,Frances
+Malian franc,Francis Walker,Q2095814,7,0,2,English entomologist (1809–1874),Walker|F.Walker,Q5,,Francis Walker (entomologist)
+Malian franc,Francisco Goya,Q5432,7,0,2,Spanish painter and printmaker (1746–1828),"Francisco Goya Lucientes|Francisco de Goya y Lucientes|Francisco José Goya Lucientes|Francisco José de Goya y Lucientes|Goya|Francisco Goya y Lucientes|Ko-ya|Fransisko Goiia-i-Lusientes|Fransisko Khose de Goiia|Francisco Jose y Lucientes de Goya|Francisco Jose de Goya y Lucientes|Fransisko Khose de Goia|Francisco Jose De Goya y Lucientes|Francisco de Paula Goya y Lucientes|José Goya y Lucientes, Francisco de Paula|Francisco de Gova y Lucientes|José de Goya y Lucientes|Francisco Jose de Goya|Francisco De Goya|Francisco Paula José Goya y Lucientes|Francisko Goja|Francisco Goya Y Lucientes|Louis-Philippe Goya|Francisco de Paula Jose Goya y Lucientes|Francisco José De Goya Y Lucientes|Francisco Jose Goya Lucientes|Jose de Goya y Lucientes|Francisco Paula Jose Goya y Lucientes|francesco goya|goya f.|fr. jose de goya|fr. goya|Francisco de goya|f. de goya|francisco j. goya|Goya y Lucientes|f. j. de goya|franc. jose de goya y lucientes|Francisco Jose de Goya y Luzientes|Francesco Goya|francesco jose goya|j. de goya|francisco goya|francisco jose goya|F. Goya|Don Francesco Goya|Francisco José Goya|francisco jose de goya|j. f. de goya y lucientes|fr. j. de goya y lucientes|de goya y lucientes francisco jose|Francisco de Goya",Q5,,Francisco Goya
+Malian franc,West African CFA franc,Q861690,7,0,2,currency of several West African countries,BCEAO franc,Q8142|Q1403377,,West African CFA franc
+Malian franc,CFA franc,Q191511,7,0,2,two common currencies of 14 African countries,,Q8142,,CFA franc
+Malian franc,Central African CFA franc,Q847739,7,0,2,Currency of several Central African countries,franc CFA,Q8142|Q1403377,,Central African CFA franc
+Malian franc,CFA-Franc,Q12885840,7,0,2,Wikimedia disambiguation page,,Q4167410,,
+real de Valencia,real de Valencia,Q5478507,8,0,1,obsolete currency,,Q8142|Q28783456,Q63349591,
+real de Valencia,Valencia CF,Q10333,8,0,2,"association football club in Valencia, Spain",Valencia Club de Fútbol|Valencia|Valencia Club de Futbol|Valencia Club de Fútbol team|Valencia C.F.|Valencia Football Club|Valencia Club of Football|ValenciaCF|ValenciaC.F.|VCF|V.C.F.,Q476028|Q20639856,,Valencia CF
+real de Valencia,Valencia CF Mestalla,Q918044,8,0,2,association football reserve team of Valencia CF,,Q476028,,Valencia CF Mestalla
+real de Valencia,Valencia CF (youth),Q25238484,8,0,2,"""Juvenil A"", the under-19 team of Valencia CF",,Q476028,,Valencia CF (youth)
+real de Valencia,history of Valencia CF,Q9004290,8,0,2,aspect of history,Valencia CF history,Q17524420,,History of Valencia CF
+real de Valencia,Valencia CF in European football,Q2586492,8,0,2,Wikimedia list article,,Q13406463,,Valencia CF in European football
+real de Valencia,Valencia CF honours,Q7910650,8,0,2,Wikimedia list article,,Q13406463,,Valencia CF honours
+real de Valencia,Valencia CF Foundation,Q23836957,8,0,2,nonprofit organization promoting the historical heritage of the Valencia Football Club,Valencia Football Club Foundation|VCF Foundation,Q43229,,Valencia CF Foundation
+real de Valencia,Valencia CF Femenino B,Q108909195,8,0,2,Association Football Club in Spain,Valencia Femenino B,Q476028|Q51481377,,
+real de Valencia,Valencia Féminas CF,Q7910660,8,0,2,football club,Valencia Feminas CF,Q51481377,,Valencia CF Femenino
+real de Valencia,Valencia CF C,Q111949082,8,0,2,football club,,Q476028,,Valencia CF C
+Austrian schilling,Austrian schilling,Q208730,9,0,1,former currency of Austria until 2002,ÖS|Schilling,Q28783456|Q213142,,Austrian schilling
+Austrian schilling,Second Schilling,Q111080352,9,0,1,currency of Austria from 1945 to 2001,Second Schilling (1945-2001)|Austrian schilling,,Q208730,
+Old Zambia kwacha,Old Zambia kwacha,Q21596813,10,0,1,old currency,زمك,Q28783456,,
+Old Zambia kwacha,Zambian Kwacha,Q73408,10,0,2,official currency of Zambia,ZMW,Q8142,,Zambian kwacha
+Ukrainian People's Republic currency 1917–1920,Ukrainian People's Republic currency 1917–1920,Q104817974,11,0,1,,,Q8142|Q28783456,,
+Ukrainian People's Republic currency 1917–1920,Ukrainian People's Republic,Q243610,11,0,2,country in Eastern Europe (1917–1921); government in exile (1921–1992),,Q3024240|Q788176|Q3624078|Q678116|Q3624078|Q465613|Q10711424,,Ukrainian People's Republic
+Ukrainian People's Republic currency 1917–1920,Ukrainian People's Republic of Soviets,Q2381337,11,0,2,1917–1918 republic of the Russian SFSR,,Q7275|Q3024240,Q465613|Q1075404,Ukrainian People's Republic of Soviets
+Ukrainian People's Republic currency 1917–1920,Government of the Ukrainian People's Republic in exile,Q9325466,11,0,2,government in exile (1921–1992),the Ukrainian People's Republic in exile government|Ukrainian People's Republic in exile government,Q678116,,Government of the Ukrainian People's Republic in exile
+Ukrainian People's Republic currency 1917–1920,Ukrainian People's Republic currency 1918–1924,Q104782079,11,0,2,,,Q8142|Q28783456,,
+Ukrainian People's Republic currency 1917–1920,Ukrainian People's Republic Air Fleet,Q4470478,11,0,2,military unit,Air Forces of the Ukrainian People's Republic,Q61883,,Ukrainian People's Republic Air Fleet
+Ukrainian People's Republic currency 1917–1920,hryvnia,Q81893,11,0,2,currency of Ukraine,UAH|Ukrainian hryvnia|hryvnya,Q8142,Q12098011,Ukrainian hryvnia
+Ukrainian People's Republic currency 1917–1920,₴,Q4419557,11,0,2,hryvnia sign (U+20B4): currency symbol (Ukraine),U+20B4|₴|HRYVNIA SIGN|hryvnia symbol,Q29654788,Q138876000,Hryvnia sign
+Peruvian inti,Peruvian inti,Q1531048,12,0,1,currency of Peru between 1985 and 1991,Inti (1985-1991),Q28783456,,Peruvian inti

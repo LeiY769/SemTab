@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Holzschlag,Holzschlag,Q875238,0,0,1,locality in Oberwart District,Vágod,Q11183787,,
+Holzschlag,Holzschlag,Q21876638,0,0,1,forest in Tyrol,,Q4421,,
+Holzschlag,Holzschlag,Q81923722,0,0,1,human settlement in Gmünd District,,Q486972|Q2168991,,
+Holzschlag,Holzschlag,Q1253674,0,0,1,human settlement in Baden District,"Holzschlag, Austria|Holzschlag, Lower Austria",Q486972|Q11183787,,
+Holzschlag,Holzschlag,Q113283124,0,0,1,"settlement in Klaffer am Hochficht and Schwarzenberg am Böhmerwald, Austria",,Q3257686,,
+Holzschlag,Holzschlag,Q98085965,0,0,1,"locality in Klaffer am Hochficht, Rohrbach District, Upper Austria",,Q11183787,,
+Holzschlag,Holzschlag,Q19963081,0,0,1,"quarter of Bonndorf im Schwarzwald, Baden-Württemberg, Germany",,Q253019,,
+Holzschlag,Holzschlag,Q16874921,0,0,1,"village in the municipality Schwarzenberg am Böhmerwald, Upper Austria",,Q11183787,,"Holzschlag, Austria"
+Holzschlag,Holzschlag,Q112713246,0,0,1,human settlement in Oberwart District,,Q486972,,
+Holzschlag,Holzschlag,Q132125786,0,0,1,family name,,Q101352,,
+Schurwald,Schurwald,Q1267366,1,0,1,mountain range,,Q46831|Q4421,,Schurwald
+Schurwald,Schurwald,Q54824266,1,0,1,"protected area in the European Union defined by the habitats directive in Baden-Württemberg, Germany",,Q1191622,,
+Schurwald,Schurwaldrand bei Ebersbach,Q62069350,1,0,1,"protected landscape area in Baden-Württemberg, Germany",,Q21503788|Q473972,,
+Schurwald,Schurwald und Welzheimer Wald,Q21468410,1,0,1,,,Q1970725,,
+Schurwald,LSG 'Schurwaldrand Altbach-Plochingen-Reichenbach' vom 20.03.1987,Q62069913,1,0,1,"protected landscape area in Baden-Württemberg, Germany",,Q21503788|Q473972,,
+Schurwald,Schurwaldhalle Oberberken,Q126598299,1,0,1,building in Germany,,Q41176,,
+Pindi,Rawalpindi,Q93230,2,0,1,"city in Punjab, Pakistan",Pindi|Rawal Pindi,Q515|Q56061,,Rawalpindi
+Pindi,Pindi,Q130267993,2,0,1,family name,,Q101352,,
+Pindi,yoni,Q1335113,2,0,1,"aniconic representation of the goddess Shakti, the consort of Shiva, also means ""womb, origin, abode, vulva, vagina, uterus, female procreative organs""",pindi|pindika,Q1781039|Q23847174,Q2820111,Yoni
+Pindi,Kathleen Bridle,Q20640622,2,0,1,British painter (1897-1989),Kathleen Mabel Bridle|Pindi,Q5,,Kathleen Bridle
+Pindi,Pende people,Q377119,2,0,1,ethnic group in the Democratic Republic of the Congo,Apende|Aphende|Ba-Pendi|Bampende|Gipende|Kipende|Kasai Pende|Masindju|Phende|Pindi|Pinji|Tupende|Bapende,Q2531956,,Pende people
+Pindi,Pindis,Q7195026,2,0,1,genus of insects,,Q16521,,Pindis
+Pindi,Pindicitora (Pauly-Wissowa),Q34399630,2,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Pindi,Pinding,Q12505593,2,0,1,"village in Southeast Aceh Regency, Aceh, Indonesia",Pinding Village,Q4285979,,
+Pindi,Pindis squamistriga,Q11995710,2,0,1,species of insect,,Q16521,,
+Pindi,Pindis (Pauly-Wissowa),Q34399215,2,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Pindi,Pind Dadan Khan,Q7194979,2,0,2,"town in Punjab, Pakistan",PDK|Pind Dādan Khān,Q3957,,Pind Dadan Khan
+Pindi,Pind Dadan Khan Tehsil,Q3246252,2,0,2,"tehsil in Punjab, Pakistan",,Q18670606,,Pind Dadan Khan Tehsil
+Pindi,Pind Dadan Khan Shuttle,Q123334300,2,0,2,rail line in Pakistan,,Q3565868,,Pind Dadan Khan Shuttle
+Pindi,Pind Dādan Khān Canal,Q34736182,2,0,2,"canal in Punjab, Pakistan",,Q12284,,
+Pindi,Pind Dadn Khan railway station,Q18516143,2,0,2,railway station in Pakistan,,Q55488,,Pind Dadan Khan railway station
+Steinbergwald,Steinbergwald,Q21875350,3,0,1,forest in Lower Austria,,Q4421,,
+Steinbergwald,Steinbergwald,Q108143488,3,0,1,protected area in Austria (3005),,Q473972,,
+Jyderup Skov,Jyderup Skov,Q23746929,4,0,1,,,Q4421,,
+Jyderup Skov,Jyderup Skov,Q30149892,4,0,1,ancient monument in Odsherred Municipality (105820),,Q3395377,,
+Jyderup Skov,Jyderup Skov,Q30149928,4,0,1,ancient monument in Odsherred Municipality (106086),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149929,4,0,1,ancient monument in Odsherred Municipality (106088),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149922,4,0,1,ancient monument in Odsherred Municipality (106069),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30240857,4,0,1,ancient monument in Odsherred Municipality (189296),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149919,4,0,1,ancient monument in Odsherred Municipality (106061),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149916,4,0,1,ancient monument in Odsherred Municipality (106060),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149914,4,0,1,ancient monument in Odsherred Municipality (106054),,Q15120977,,
+Jyderup Skov,Jyderup Skov,Q30149923,4,0,1,ancient monument in Odsherred Municipality (106070),,Q15120977,,
+Jesuitenholz,Jesuitenholz,Q21875638,5,0,1,forest in Lower Austria,,Q4421,,
+Jesuitenholz,Jesuitenholz,Q32063142,5,0,1,,,Q4421,,
+Jesuitenholz,Jesuitenholz,Q32063144,5,0,1,,,Q4421,,
+Jesuitenholz,Jesuitenholz,Q22187310,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+De Smelen,De Smelen,Q21768645,6,0,1,,,Q4421,,
+De Smelen,De Smelen,Q19004471,6,0,1,"street in Maarheeze, the Netherlands",,Q79007,,
+De Smelen,De Smelen,Q19004469,6,0,1,"street in Bladel, the Netherlands",,Q79007,,
+De Smelen,De Smelen,Q19004473,6,0,1,"street in Valkenswaard, the Netherlands",,Q79007,,
+De Smelen,De Smelen,Q22754102,6,0,1,primary school,,Q9842,,
+Sacktannen,Sacktannen,Q1170672,7,0,1,human settlement in Germany,,Q253019|Q4421,,
+Sacktannen,Sacktannen,Q104194688,7,0,1,"street in Schwerin, Mecklenburg-Vorpommern, Germany",,Q79007,,
+Hayden Wood,Hayden Wood,Q57418252,8,0,1,businessman,"Wood, Hayden",Q5,,Hayden Wood
+Hayden Wood,Hayden Wood,Q24679096,8,0,1,"woodland in Lamberhurst, Kent, England, UK",,Q3241565,,
+Hayden Wood,Hayden Wood,Q137891428,8,0,1,college basketball player (2025–202_) Jacksonville,,Q5,,
+Hayden Wood,Hayden Woods,Q49499074,8,0,1,"park in Middlesex County, Massachusetts, United States of America",,Q22698,,

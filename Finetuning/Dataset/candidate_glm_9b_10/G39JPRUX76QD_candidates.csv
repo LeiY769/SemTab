@@ -1,0 +1,329 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Gradnje,Gradnje,Q1898163,0,0,1,"place in Lower Carniola, Slovenia",,Q486972,,"Gradnje, Krško"
+Gradnje,Gradnje,Q553862,0,0,1,human settlement,,Q486972|Q18564289,,"Gradnje, Sežana"
+Gradnje,Gradnje,Q400053,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gradnje,Municipality of Sežana,Q554854,0,0,2,municipality of Slovenia,Sežana Municipality,Q328584,,Municipality of Sežana
+Gradnje,coat of arms of Sežana Municipality,Q12790366,0,0,2,"coat of arms of Sežana municipality, Slovenia",coat of arms of Sežana|Sežana Municipality coat of arms,Q14659,,
+Municipality of Sežana,Municipality of Sežana,Q554854,0,1,1,municipality of Slovenia,Sežana Municipality,Q328584,,Municipality of Sežana
+Municipality of Sežana,coat of arms of Sežana Municipality,Q12790366,0,1,2,"coat of arms of Sežana municipality, Slovenia",coat of arms of Sežana|Sežana Municipality coat of arms,Q14659,,
+Sodji Vrh,Sodji Vrh,Q2262087,1,0,1,"place in Lower Carniola, Slovenia",,Q486972|Q18564289,,Sodji Vrh
+Sodji Vrh,semiconductor,Q11456,1,0,2,material that has electrical conductivity intermediate to that of a conductor and an insulator,semiconductor material|semiconductors,,Q214609|Q124291|Q31450902,Semiconductor
+Sodji Vrh,Semic Press,Q1773154,1,0,2,Swedish publishing company,,Q4830453,,Semic Press
+Sodji Vrh,Story House Egmont,Q3720480,1,0,2,media publishing company in Finland,Egmont Kustannus Oy|Egmont Oy|Semic|Egmont Kustannus,Q2085381,,
+Sodji Vrh,Semić,Q3056960,1,0,2,"settlement in the Municipality of Lupoglav, Istria County, Croatia",,Q4845841,,Semić
+Sodji Vrh,Semicytherura,Q4570510,1,0,2,genus of crustaceans,,Q16521,,
+Sodji Vrh,Semič,Q2674893,1,0,2,town in Slovenia,,Q486972,,Semič
+Sodji Vrh,Semicassis,Q3168696,1,0,2,genus of molluscs,,Q16521,,Semicassis
+Sodji Vrh,Semicosciniidae,Q21293731,1,0,2,family of bryozoans (fossil),,Q23038290,,
+Sodji Vrh,Semiconductor Science and Technology,Q15708713,1,0,2,journal,,Q5633421,,Semiconductor Science and Technology
+Sodji Vrh,Semicossyphus pulcher,Q601000,1,0,2,species of fish,California sheephead,Q16521,,California sheephead
+Sodji Vrh,Municipality of Semič,Q1587704,1,0,2,municipality of Slovenia,,Q328584,,Municipality of Semič
+Municipality of Semič,Municipality of Semič,Q1587704,1,1,1,municipality of Slovenia,,Q328584,,Municipality of Semič
+Municipality of Semič,Sodji Vrh,Q2262087,1,1,2,"place in Lower Carniola, Slovenia",,Q486972|Q18564289,,Sodji Vrh
+Municipality of Semič,semiconductor,Q11456,1,1,2,material that has electrical conductivity intermediate to that of a conductor and an insulator,semiconductor material|semiconductors,,Q214609|Q124291|Q31450902,Semiconductor
+Municipality of Semič,Semic Press,Q1773154,1,1,2,Swedish publishing company,,Q4830453,,Semic Press
+Municipality of Semič,Story House Egmont,Q3720480,1,1,2,media publishing company in Finland,Egmont Kustannus Oy|Egmont Oy|Semic|Egmont Kustannus,Q2085381,,
+Municipality of Semič,Semić,Q3056960,1,1,2,"settlement in the Municipality of Lupoglav, Istria County, Croatia",,Q4845841,,Semić
+Municipality of Semič,Semicytherura,Q4570510,1,1,2,genus of crustaceans,,Q16521,,
+Municipality of Semič,Semič,Q2674893,1,1,2,town in Slovenia,,Q486972,,Semič
+Municipality of Semič,Semicassis,Q3168696,1,1,2,genus of molluscs,,Q16521,,Semicassis
+Municipality of Semič,Semicosciniidae,Q21293731,1,1,2,family of bryozoans (fossil),,Q23038290,,
+Municipality of Semič,Semiconductor Science and Technology,Q15708713,1,1,2,journal,,Q5633421,,Semiconductor Science and Technology
+Municipality of Semič,Semicossyphus pulcher,Q601000,1,1,2,species of fish,California sheephead,Q16521,,California sheephead
+Bač,Bachelor of Arts,Q1765120,2,0,1,type of undergraduate qualification,A. B.|A.B.|AB|Artium Baccalaureatus|B.A.|BA|BA degree|Bachelor's of Arts,Q117146794|Q189533,Q163727,Bachelor of Arts
+Bač,Bacillus subtilis,Q131238,2,0,1,catalase-positive bacterium,bacillus subtilis,Q16521|Q213907,,Bacillus subtilis
+Bač,bacteria,Q10876,2,0,1,domain of micro-organisms,eubacteria|Bacteria,Q16521,Q39833,Bacteria
+Bač,Bacillus thuringiensis,Q310467,2,0,1,species of bacterium,,Q16521,,Bacillus thuringiensis
+Bač,Bacteroides thetaiotaomicron,Q21397543,2,0,1,bacterial taxon,,Q16521,,
+Bač,Bacillus cereus,Q131307,2,0,1,species of bacterium,B. cereus,Q16521|Q213907,,Bacillus cereus
+Bač,Bacillus anthracis,Q614156,2,0,1,"species of bacteria, causes anthrax",,Q16521,Q131345497,Bacillus anthracis
+Bač,Escherichia coli,Q25419,2,0,1,"enteric, rod shaped, gram-negative bacterium",E. coli|E coli|Bacterium coli communis,Q16521|Q213907,,Escherichia coli
+Bač,Bacteroides fragilis,Q221817,2,0,1,species of bacterium,Bacillus fragilis,Q16521,,Bacteroides fragilis
+Bač,Bachelor of Laws,Q798137,2,0,1,undergraduate degree in law,LL.B.|LLB|LL. B.|Legum Baccalaureus,Q189533,Q4115013|Q163727,Bachelor of Laws
+Bač,Ilirska Bistrica,Q15876,2,0,2,city in Slovenia,,Q515,,Ilirska Bistrica
+Bač,Ilirska Bistrica railway station,Q5998405,2,0,2,railway station in Slovenia,Bisterza railway station|Villa del Nevoso railway station,Q55488|Q1402443,,Ilirska Bistrica railway station
+Bač,Municipality of Ilirska Bistrica,Q13377784,2,0,2,municipality of Slovenia,Ilirska Bistrica Municipality,Q328584,,Municipality of Ilirska Bistrica
+Bač,electoral ward of Ilirska Bistrica,Q43396738,2,0,2,,Ilirska Bistrica,Q123466915,,
+Bač,coat of arms of Ilirska Bistrica Municipality,Q19933805,2,0,2,"coat of arms of Ilirska Bistrica municipality, Slovenia",coat of arms of Ilirska Bistrica|Ilirska Bistrica Municipality coat of arms,Q14659,,
+Bač,Ilirska Bistrica fossil landslide,Q12791318,2,0,2,,,Q167903,,
+Bač,Ilirska Bistrica Community Health Centre,Q49139545,2,0,2,,Zdravstveni dom Ilirska Bistrica,Q4260475,,
+Bač,Template:Ilirska Bistrica,Q13518542,2,0,2,Wikimedia template,,Q11266439,,Template:Ilirska Bistrica
+Bač,Ilirska Bistrica,Q12807562,2,0,2,,,Q115110263|Q757292|Q1402443,,
+Bač,Ilirska Bistrica,Q2388010,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Ilirska Bistrica,Municipality of Ilirska Bistrica,Q13377784,2,1,1,municipality of Slovenia,Ilirska Bistrica Municipality,Q328584,,Municipality of Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q15876,2,1,2,city in Slovenia,,Q515,,Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica railway station,Q5998405,2,1,2,railway station in Slovenia,Bisterza railway station|Villa del Nevoso railway station,Q55488|Q1402443,,Ilirska Bistrica railway station
+Municipality of Ilirska Bistrica,electoral ward of Ilirska Bistrica,Q43396738,2,1,2,,Ilirska Bistrica,Q123466915,,
+Municipality of Ilirska Bistrica,coat of arms of Ilirska Bistrica Municipality,Q19933805,2,1,2,"coat of arms of Ilirska Bistrica municipality, Slovenia",coat of arms of Ilirska Bistrica|Ilirska Bistrica Municipality coat of arms,Q14659,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica fossil landslide,Q12791318,2,1,2,,,Q167903,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica Community Health Centre,Q49139545,2,1,2,,Zdravstveni dom Ilirska Bistrica,Q4260475,,
+Municipality of Ilirska Bistrica,Template:Ilirska Bistrica,Q13518542,2,1,2,Wikimedia template,,Q11266439,,Template:Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q12807562,2,1,2,,,Q115110263|Q757292|Q1402443,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q2388010,2,1,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Ilirska Bistrica,Bistrica,Q48647108,2,1,2,"river in northeastern Slovenia, tributary to Drava (Selnica)",Großwalzer Grenzbach,Q47521,,
+Municipality of Ilirska Bistrica,Bistrica,Q804083,2,1,2,"village in Bitola Municipality, North Macedonia",,Q532,,"Bistrica, Bitola"
+Municipality of Ilirska Bistrica,Bistrica,Q2904836,2,1,2,village in North Macedonia,"Bistrica, Čaška",Q532|Q56061,,"Bistrica, Čaška"
+Municipality of Ilirska Bistrica,"Bistrica, Slatina",Q600327,2,1,2,"settlement in the Town of Slatina, Virovitica-Podravina County, Croatia",,Q4845841,,"Bistrica, Croatia"
+Municipality of Ilirska Bistrica,Bistrica,Q2600227,2,1,2,"place in Styria, Slovenia",,Q486972,,"Bistrica, Kozje"
+Municipality of Ilirska Bistrica,Bistrica,Q3396460,2,1,2,"river in Livno, Bosnia and Herzegovina",,Q4022,,Bistrica (Livanjsko Polje)
+Municipality of Ilirska Bistrica,Bistrica,Q2912113,2,1,2,"place in Lower Carniola, Slovenia",,Q486972,,"Bistrica, Šentrupert"
+Municipality of Ilirska Bistrica,Bistrica,Q2904825,2,1,2,village situated in Petrovac na Mlavi municipality in Serbia,,Q532|Q28822032,,Bistrica (Petrovac)
+Municipality of Ilirska Bistrica,Bistrica (Drina),Q2904788,2,1,2,river in Bosnia and Herzegovina,Bistrica|Dobropoljka|Dobropoljska Rijeka,Q4022,,Bistrica (Drina)
+Municipality of Ilirska Bistrica,Bistrica,Q925059,2,1,2,village in Bosnia and Herzegovina,,Q532,,
+Municipality of Ilirska Bistrica,El Nido,Q111483,2,1,2,municipality of the Philippines in the province of Palawan,Municipality of El Nido|Municipality of Bacuit,Q24764,,"El Nido, Palawan"
+Municipality of Ilirska Bistrica,Bacolor,Q55696,2,1,2,municipality of the Philippines in the province of Pampanga,Municipality of Bacolor,Q24764,,Bacolor
+Municipality of Ilirska Bistrica,Bacong,Q194874,2,1,2,municipality of the Philippines in the province of Negros Oriental,Municipality of Bacong,Q24764,,Bacong
+Municipality of Ilirska Bistrica,Bacolod,Q274150,2,1,2,municipality of the Philippines in the province of Lanao del Norte,Municipality of Bacolod,Q24764,,"Bacolod, Lanao del Norte"
+Municipality of Ilirska Bistrica,Leon B. Postigo,Q132540,2,1,2,municipality of the Philippines in the province of Zamboanga del Norte,"Bacungan|Leon Postigo|Municipality of Leon B. Postigo|Leon B. Postigo, Zamboanga del Norte|Municipality of Bacungan|Bacungan, Zamboanga del Norte",Q24764,,Leon B. Postigo
+Municipality of Ilirska Bistrica,Bacolod-Kalawi,Q273657,2,1,2,municipality of the Philippines in the province of Lanao del Sur,"Municipality of Bacolod-Kalawi|Bacolod-Kalawi, Lanao del Sur",Q24764,,Bacolod-Kalawi
+Češenik,Češenik,Q2683764,3,0,1,"place in Upper Carniola, Slovenia",,Q486972|Q18564289,,Češenik
+Češenik,Češenik Mansion,Q66883836,3,0,1,,,Q1802963,,
+Češenik,Češenik-Prevoje-Gmajne,Q124409499,3,0,1,,,Q1803820,,
+Češenik,Domžale,Q15865,3,0,2,city in Slovenia,,Q515,,Domžale
+Češenik,Municipality of Domžale,Q13377763,3,0,2,municipality of Slovenia,Domžale Municipality,Q328584,,Municipality of Domžale
+Češenik,Domžale railway station,Q5291407,3,0,2,"railway station in Domžale, Slovenia",,Q55488,,Domžale railway station
+Češenik,Domžale Sports Park,Q1711712,3,0,2,"stadium in Domzale, Eslovenia",,Q483110,,Domžale Sports Park
+Češenik,Domžale High School,Q48696351,3,0,2,middle school in Slovenia,Srednja šola Domžale|Domžale Middle School,Q9826,,
+Češenik,Domžale Tigers,Q25462205,3,0,2,Slovenian American football team,,Q17156793,,Domžale Tigers
+Češenik,coat of arms of Domžale Municipality,Q20523738,3,0,2,"coat of arms of Domžale municipality, Slovenia",coat of arms of Domžale|Domžale Municipality coat of arms,Q14659,,
+Češenik,KK Domžale,Q648572,3,0,2,basketball club,Helios Suns|KK Kansai Helios Domžale,Q13393265,,KK Kansai Helios Domžale
+Češenik,Domžale radio transmitter,Q5291405,3,0,2,,,Q190157,,Domžale radio transmitter
+Češenik,Domžale Library,Q19934283,3,0,2,library in Slovenia,,Q7075,,
+Češenik,municipality of Slovenia,Q328584,3,0,2,administrative territorial entity of Slovenia,municipalities of Slovenia|občina,,Q572975|Q3356100|Q10864048|Q11618417|Q15284,Municipalities of Slovenia
+Municipality of Domžale,Municipality of Domžale,Q13377763,3,1,1,municipality of Slovenia,Domžale Municipality,Q328584,,Municipality of Domžale
+Municipality of Domžale,Domžale,Q15865,3,1,2,city in Slovenia,,Q515,,Domžale
+Municipality of Domžale,Domžale railway station,Q5291407,3,1,2,"railway station in Domžale, Slovenia",,Q55488,,Domžale railway station
+Municipality of Domžale,Domžale Sports Park,Q1711712,3,1,2,"stadium in Domzale, Eslovenia",,Q483110,,Domžale Sports Park
+Municipality of Domžale,Domžale High School,Q48696351,3,1,2,middle school in Slovenia,Srednja šola Domžale|Domžale Middle School,Q9826,,
+Municipality of Domžale,Domžale Tigers,Q25462205,3,1,2,Slovenian American football team,,Q17156793,,Domžale Tigers
+Municipality of Domžale,coat of arms of Domžale Municipality,Q20523738,3,1,2,"coat of arms of Domžale municipality, Slovenia",coat of arms of Domžale|Domžale Municipality coat of arms,Q14659,,
+Municipality of Domžale,KK Domžale,Q648572,3,1,2,basketball club,Helios Suns|KK Kansai Helios Domžale,Q13393265,,KK Kansai Helios Domžale
+Municipality of Domžale,Domžale radio transmitter,Q5291405,3,1,2,,,Q190157,,Domžale radio transmitter
+Municipality of Domžale,Domžale Library,Q19934283,3,1,2,library in Slovenia,,Q7075,,
+Šentjanž pri Dravogradu,Šentjanž pri Dravogradu,Q2025387,4,0,1,village in northern Slovenia,,Q486972|Q18564289,,Šentjanž pri Dravogradu
+Šentjanž pri Dravogradu,Šentjanž,Q5016846,4,0,2,"village in Sevnica municipality, Slovenia",Šentjanž pri Sevnici,Q486972,,"Šentjanž, Sevnica"
+Šentjanž pri Dravogradu,Šentjanž,Q2464657,4,0,2,"place in Styria, Slovenia",,Q486972,,"Šentjanž, Rečica ob Savinji"
+Šentjanž pri Dravogradu,Šentjanž nad Štorami,Q3438121,4,0,2,"place in Styria, Slovenia",,Q486972,,Šentjanž nad Štorami
+Šentjanž pri Dravogradu,Šentjanž nad Dravčami,Q3406497,4,0,2,"place in Styria, Slovenia",,Q486972,,Šentjanž nad Dravčami
+Šentjanž pri Dravogradu,Hypericum perforatum,Q158289,4,0,2,species of plant,Common St. John's wort|perforate St. Johns-wort|St. John's wort,Q16521,Q11992872|Q157957,Hypericum perforatum
+Šentjanž pri Dravogradu,Milky Way,Q321,4,0,2,galaxy containing our Solar System,The Milky Way|Milky Way Galaxy|The Milky Way Galaxy|Milky Way galaxy|Celestial River|Local Galaxy|The Galaxy,Q2490|Q1519541,,Milky Way
+Šentjanž pri Dravogradu,Midsummer,Q154502,4,0,2,festival associated with the summer solstice in the Northern hemisphere,Midsummer Festival|Saint John's Day|Saint John's Feast|Saint John's Festival|Feast of Saint John the Baptist|Summer Solstice Festival|Midsommar,,Q132241,Midsummer
+Šentjanž pri Dravogradu,St John's Eve,Q10398273,4,0,2,"evening of June 23, celebration",Eve of John the Baptist,Q1445650|Q1238731|Q60075825|Q375011,,Saint John's Eve
+Šentjanž pri Dravogradu,Nativity of St. John the Baptist,Q3870479,4,0,2,Christian feast day celebrating the birth of John the Baptist,Birth of John the Baptist|Nativity of the Forerunner|St John's Day|Nativity of John the Baptist|Macau City Day,Q375011|Q1190554|Q856663|Q34581|Q1406161,,Nativity of John the Baptist
+Šentjanž pri Dravogradu,Dravograd,Q15867,4,0,2,city in Slovenia,,Q515|Q902814,,Dravograd
+Šentjanž pri Dravogradu,Municipality of Dravograd,Q3503123,4,0,2,municipality of Slovenia,Dravograd municipality,Q328584,,Municipality of Dravograd
+Šentjanž pri Dravogradu,Dravograd railway station,Q5305970,4,0,2,railway station in Slovenia,,Q55488,,Dravograd railway station
+Šentjanž pri Dravogradu,Dravograd Sports Centre,Q16632805,4,0,2,"stadium in Dravograd, Slovenia",,Q483110,,Dravograd Sports Centre
+Šentjanž pri Dravogradu,Dravograd–Otiški Vrh railway line,Q12807545,4,0,2,railway line in Slovenia,,Q728937,,
+Šentjanž pri Dravogradu,Dravograd Hydroelectric Power Plant,Q19933913,4,0,2,,,Q15911738,,
+Šentjanž pri Dravogradu,Dravograd Castle,Q12790219,4,0,2,,,Q23413,,
+Šentjanž pri Dravogradu,Dravograd Community Health Centre,Q49138977,4,0,2,,Zdravstveni dom Dravograd,Q4260475,,
+Šentjanž pri Dravogradu,Template:Dravograd,Q13518538,4,0,2,Wikimedia template,,Q11266439,,Template:Dravograd
+Šentjanž pri Dravogradu,Dravograd - Radlje,Q43396807,4,0,2,,,Q43394491,,
+Municipality of Dravograd,Municipality of Dravograd,Q3503123,4,1,1,municipality of Slovenia,Dravograd municipality,Q328584,,Municipality of Dravograd
+Municipality of Dravograd,Dravograd,Q15867,4,1,2,city in Slovenia,,Q515|Q902814,,Dravograd
+Municipality of Dravograd,Dravograd railway station,Q5305970,4,1,2,railway station in Slovenia,,Q55488,,Dravograd railway station
+Municipality of Dravograd,Dravograd Sports Centre,Q16632805,4,1,2,"stadium in Dravograd, Slovenia",,Q483110,,Dravograd Sports Centre
+Municipality of Dravograd,Dravograd–Otiški Vrh railway line,Q12807545,4,1,2,railway line in Slovenia,,Q728937,,
+Municipality of Dravograd,Dravograd Hydroelectric Power Plant,Q19933913,4,1,2,,,Q15911738,,
+Municipality of Dravograd,Dravograd Castle,Q12790219,4,1,2,,,Q23413,,
+Municipality of Dravograd,Dravograd Community Health Centre,Q49138977,4,1,2,,Zdravstveni dom Dravograd,Q4260475,,
+Municipality of Dravograd,Template:Dravograd,Q13518538,4,1,2,Wikimedia template,,Q11266439,,Template:Dravograd
+Municipality of Dravograd,Dravograd - Radlje,Q43396807,4,1,2,,,Q43394491,,
+Municipality of Dravograd,Šentjanž pri Dravogradu,Q2025387,4,1,2,village in northern Slovenia,,Q486972|Q18564289,,Šentjanž pri Dravogradu
+Križe,Križevci,Q5718,5,0,1,"town and settlement in Koprivnica-Križevci County, Croatia",,Q15105893,,Križevci
+Križe,Křížek,Q17542112,5,0,1,family name,,Q101352,,
+Križe,Križe,Q2198804,5,0,1,"place in Upper Carniola, Slovenia",,Q486972|Q18564289,,"Križe, Tržič"
+Križe,Kříženeckého náměstí,Q45389102,5,0,1,"square in Prague, Czech Republic",,Q174782,,
+Križe,Kríže,Q1111015,5,0,1,municipality of Slovakia,,Q6784672,,Kríže
+Križe,Krizek,Q37292451,5,0,1,family name,,Q101352,,
+Križe,Križevac,Q3817081,5,0,1,hill with stations of cross in Međugorje,,Q231685|Q54050|Q15135589,,
+Križe,Municipality of Križevci,Q999563,5,0,1,municipality of Slovenia,Križevci municipality,Q328584,,Municipality of Križevci
+Križe,Krizetič,Q106431109,5,0,1,family name,Krizetič (family name)|Krizetič (surname),Q101352,,
+Križe,Krize evropských věd a transcendentální fenomenologie: úvod do fenomenologické filosofie,Q113854329,5,0,1,1972 Czech book edition,,Q3331189,,
+Križe,Tržič,Q2638131,5,0,2,town in Slovenia,,Q486972,,Tržič
+Križe,Municipality of Tržič,Q15927,5,0,2,municipality of Slovenia,Tržič municipality,Q328584,,Municipality of Tržič
+Križe,Tržič,Q2262145,5,0,2,"place in Lower Carniola, Slovenia","Tržič, Dobrepolje",Q486972,,"Tržič, Dobrepolje"
+Križe,electoral ward of Tržič,Q43396276,5,0,2,,Tržič,Q123466915,,
+Križe,Monfalcone,Q53133,5,0,2,comune of Italy,,Q747074,,Monfalcone
+Križe,Tržický,Q111777366,5,0,2,family name,Tržický (family name)|Tržický (surname),Q101352,,
+Križe,Tržić,Q822813,5,0,2,"settlement in the Municipality of Klinča Sela, Zagreb County, Croatia",,Q4845841,,
+Križe,Tržič Bistrica,Q3135800,5,0,2,river in Slovenia,,Q4022,,Tržič Bistrica
+Križe,Tržič Museum,Q49104717,5,0,2,,,Q33506,,
+Križe,Tržić Tounjski,Q1584664,5,0,2,"settlement in the Municipality of Tounj, Karlovac County, Croatia",,Q4845841,,Tržić Tounjski
+Municipality of Tržič,Municipality of Tržič,Q15927,5,1,1,municipality of Slovenia,Tržič municipality,Q328584,,Municipality of Tržič
+Municipality of Tržič,Tržič,Q2638131,5,1,2,town in Slovenia,,Q486972,,Tržič
+Municipality of Tržič,Tržič,Q2262145,5,1,2,"place in Lower Carniola, Slovenia","Tržič, Dobrepolje",Q486972,,"Tržič, Dobrepolje"
+Municipality of Tržič,electoral ward of Tržič,Q43396276,5,1,2,,Tržič,Q123466915,,
+Municipality of Tržič,Monfalcone,Q53133,5,1,2,comune of Italy,,Q747074,,Monfalcone
+Municipality of Tržič,Tržický,Q111777366,5,1,2,family name,Tržický (family name)|Tržický (surname),Q101352,,
+Municipality of Tržič,Tržić,Q822813,5,1,2,"settlement in the Municipality of Klinča Sela, Zagreb County, Croatia",,Q4845841,,
+Municipality of Tržič,Tržič Bistrica,Q3135800,5,1,2,river in Slovenia,,Q4022,,Tržič Bistrica
+Municipality of Tržič,Tržič Museum,Q49104717,5,1,2,,,Q33506,,
+Municipality of Tržič,Tržić Tounjski,Q1584664,5,1,2,"settlement in the Municipality of Tounj, Karlovac County, Croatia",,Q4845841,,Tržić Tounjski
+Šmihel pod Nanosom,Šmihel pod Nanosom,Q1828242,6,0,1,human settlement,,Q486972|Q18564289,,Šmihel pod Nanosom
+Šmihel pod Nanosom,Municipality of Postojna,Q2242799,6,0,2,municipality of Slovenia,Adelsberg|Postojna,Q328584,,Municipality of Postojna
+Municipality of Postojna,Municipality of Postojna,Q2242799,6,1,1,municipality of Slovenia,Adelsberg|Postojna,Q328584,,Municipality of Postojna
+Municipality of Postojna,Šmihel pod Nanosom,Q1828242,6,1,2,human settlement,,Q486972|Q18564289,,Šmihel pod Nanosom
+Mavčiče,Mavčiče,Q2799861,7,0,1,"place in Upper Carniola, Slovenia",,Q486972|Q18564289,,Mavčiče
+Mavčiče,Mavčiče Hydroelectric Power Plant,Q19933919,7,0,1,,,Q15911738,,
+City Municipality of Kranj,City Municipality of Kranj,Q3441893,7,1,1,city municipality of Slovenia,Kranj City Municipality,Q6960199,,Urban Municipality of Kranj
+City Municipality of Kranj,Kranj,Q1021,7,1,2,city in Slovenia,,Q515,,Kranj
+City Municipality of Kranj,Kranjska Gora,Q2139428,7,1,2,"place in Upper Carniola, Slovenia",,Q486972|Q515,,Kranjska Gora
+City Municipality of Kranj,Kranji,Q7475989,7,1,2,"subdistrict in Banyumas Regency, Central Java, Indonesia",,Q965568,,
+City Municipality of Kranj,Municipality of Kranjska Gora,Q507051,7,1,2,municipality of Slovenia,Kranjska Gora,Q328584|Q515,,Municipality of Kranjska Gora
+City Municipality of Kranj,Kranjingan,Q12492534,7,1,2,"subdistrict in Jember Regency, East Java, Indonesia",,Q965568,,
+City Municipality of Kranj,Kranji,Q12492535,7,1,2,"village in Lamongan Regency, East Java, Indonesia",Desa Kranji,Q26211545,,
+City Municipality of Kranj,Kranjci,Q3199589,7,1,2,"settlement in the Town of Čabar, Primorje-Gorski Kotar County, Croatia",,Q4845841,,
+City Municipality of Kranj,Kranji,Q13475536,7,1,2,"subdistrict in Bekasi City, West Java, Indonesia",,Q965568,,
+City Municipality of Kranj,Kranj railway station,Q6436087,7,1,2,"railway station in City Municipality of Kranj, Slovenia",,Q55488,,Kranj railway station
+City Municipality of Kranj,Kranjska Gora railway station,Q18752049,7,1,2,"railway station in Kranjska Gora, Slovenia",,Q55488,,
+City Municipality of Kranj,Kranjska Gora Ski Resort,Q6436096,7,1,2,Slovenian ski resort,,Q130003,,Kranjska Gora Ski Resort
+City Municipality of Kranj,Kranjska Gora subdialect,Q6436097,7,1,2,subdialect of Slovene,,Q8217193,Q5517168,Kranjska Gora subdialect
+City Municipality of Kranj,Kranjska gora (poleg cerkve) - lipa (T. c.),Q108137320,7,1,2,protected area in Slovenia,,Q473972,,
+City Municipality of Kranj,Kranjska Gora 2004 — 13th EURACT course and 1st Annual Meeting of General/Family Practice Teachers in Europe,Q55082049,7,1,2,scientific article published in June 2004,,Q13442814,,
+City Municipality of Kranj,Kranjska Gora,Q2442884,7,1,2,Wikimedia disambiguation page,,Q4167410,,
+Sts. Peter and Paul Parish Church,Bantayan Church,Q56063677,8,0,1,"Roman Catholic church in Bantayan, Cebu, Philippines",Saints Peter and Paul Parish Church|Saints Peter and Paul Church|Sts. Peter and Paul Parish Church|Sts. Peter and Paul Church,Q55876909,,Bantayan Church
+Sts. Peter and Paul Parish Church,Sts. Peter and Paul Parish Church,Q47488837,8,0,1,"church building in Ptuj, Slovenia",,Q317557,,
+Sts. Peter and Paul Parish Church,Siniloan Church,Q18353509,8,0,1,"Roman Catholic parish church in Siniloan, Laguna, Philippines",Saints Peter and Paul Parish Church|Saints Peter and Paul Church|Sts. Peter and Paul Parish Church|Sts. Peter and Paul Church|Church of Siniloan,Q55876909,,Siniloan Church
+Sts. Peter and Paul Parish Church,Sts. Peter and Paul Parish Church,Q18515923,8,0,1,,,Q18564289|Q317557,,
+Sts. Peter and Paul Parish Church,Sts. Peter and Paul Parish Church (Veliko Tinje),Q23775652,8,0,1,,,Q317557,,
+Sts. Peter and Paul Parish Church,St. Peter und Paul,Q1609658,8,0,2,"church in Weimar, Thuringia, Germany",Herderkirche|Herder Church|St. Peter and Paul Church|Saint Peter and Paul Church,Q16970,,"St. Peter und Paul, Weimar"
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church,Q3246798,8,0,2,"church building in Luxembourg, Luxembourg",,Q16970,,"St. Peter and Paul Church, Luxembourg"
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church,Q2322732,8,0,2,"church in Freienbach, Switzerland",,Q1088552,,
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church,Q24229151,8,0,2,"church building in Kasuta, Belarus",,Q16970,,
+Sts. Peter and Paul Parish Church,St. Peter's Church (Wolfersdorf),Q30311711,8,0,2,Catholic parish church of Wolfersdorf in the district of Freising,St. Peter and Paul Church,Q16970,,
+Sts. Peter and Paul Parish Church,Mindszent Church,Q1177463,8,0,2,"Roman Catholic church in Miskolc, Hungary",St. Peter and Paul Church,Q317557|Q1088552,,Mindszent Church
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church,Q63365843,8,0,2,"Roman Catholic church in Nitra, suburb Janikovce, Slovakia",,Q16970,,
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church,Q97384506,8,0,2,Catholic Church Bermbach,,Q16970,,
+Sts. Peter and Paul Parish Church,Peter and Paul Church,Q16711507,8,0,2,"church building in Chernihiv Oblast, Ukraine",St. Peter and Paul Church|Sviato-Petro-Pavlivska tserkva,Q16970,,
+Sts. Peter and Paul Parish Church,St. Peter and Paul Church (Siversky),Q107136781,8,0,2,"church building in Siversky, Russia",,Q2319498|Q16970,,
+Sts. Peter and Paul Parish Church,Tuguegarao Cathedral,Q18571969,8,0,2,Baroque cathedral in the Philippines,Saints Peter and Paul Metropolitan Cathedral|Saints Peter and Paul Cathedral|Sts. Peter and Paul Metropolitan Cathedral|Sts. Peter and Paul Cathedral,Q56242215,,Tuguegarao Cathedral
+Sts. Peter and Paul Parish Church,"Sts. Peter and Paul Cathedral, Lubumbashi",Q24030834,8,0,2,"church in Lubumbashi, Democratic Republic of the Congo",Sts. Peter and Paul Cathedral|Lubumbashi Cathedral|Cathedral of Lubumbashi,Q56242215,,"Sts. Peter and Paul Cathedral, Lubumbashi"
+Sts. Peter and Paul Parish Church,Sts. Peter and Paul Cathedral,Q121435486,8,0,2,,,Q56242215,,
+Sts. Peter and Paul Parish Church,"Sts. Peter and Paul Cathedral, Kamianets-Podilskyi",Q2502131,8,0,2,"church building in Kamianets-Podilskyi, Ukraine",,Q56242215,,"Sts. Peter and Paul Cathedral, Kamianets-Podilskyi"
+Sts. Peter and Paul Parish Church,"Sts. Peter and Paul Cathedral, Melbourne",Q28519117,8,0,2,"church in Melbourne, Australia",,Q56242215,,"Sts. Peter and Paul Cathedral, Melbourne"
+Sts. Peter and Paul Parish Church,"Sts. Peter and Paul Cathedral, Basankusu",Q18416901,8,0,2,"church in Basankusu, Democratic Republic of the Congo",,Q56242215,,"Sts. Peter and Paul Cathedral, Basankusu"
+Sts. Peter and Paul Parish Church,"Sts. Peter and Paul Cathedral, Parakou",Q24046155,8,0,2,building in Benin,,Q56242215,,"Sts. Peter and Paul Cathedral, Parakou"
+Sts. Peter and Paul Parish Church,St. Peter and Paul's Church,Q2671641,8,0,2,"church in Herne, Belgium",Saint Peter's church (Herne),Q16970,,
+Sts. Peter and Paul Parish Church,St. Peter and Paul's church Eberswalde,Q15129751,8,0,2,"church building in Brandenburg state, Germany",,Q1936626,,
+Sts. Peter and Paul Parish Church,"St. Peter and Paul’s Church, with the cemetery, judicial chairs, courtyard and walls in Ošanići, the historic ensemble",Q43951334,8,0,2,"church building in Stolac, Bosnia and Herzegovina",,Q16970,,
+Municipality of Osilnica,Municipality of Osilnica,Q778147,8,1,1,municipality of Slovenia,Osilnica,Q328584,,Municipality of Osilnica
+Municipality of Osilnica,Bantayan Church,Q56063677,8,1,2,"Roman Catholic church in Bantayan, Cebu, Philippines",Saints Peter and Paul Parish Church|Saints Peter and Paul Church|Sts. Peter and Paul Parish Church|Sts. Peter and Paul Church,Q55876909,,Bantayan Church
+Municipality of Osilnica,Sts. Peter and Paul Parish Church,Q47488837,8,1,2,"church building in Ptuj, Slovenia",,Q317557,,
+Municipality of Osilnica,Sts. Peter and Paul Parish Church (Veliko Tinje),Q23775652,8,1,2,,,Q317557,,
+Municipality of Osilnica,Siniloan Church,Q18353509,8,1,2,"Roman Catholic parish church in Siniloan, Laguna, Philippines",Saints Peter and Paul Parish Church|Saints Peter and Paul Church|Sts. Peter and Paul Parish Church|Sts. Peter and Paul Church|Church of Siniloan,Q55876909,,Siniloan Church
+Municipality of Osilnica,Sts. Peter and Paul Parish Church,Q18515923,8,1,2,,,Q18564289|Q317557,,
+Municipality of Osilnica,Osilnica,Q3503224,8,1,2,village in Slovenia,,Q486972|Q18564289,,Osilnica
+Municipality of Osilnica,coat of arms of Osilnica Municipality,Q12790348,8,1,2,"coat of arms of Osilnica municipality, Slovenia",coat of arms of Osilnica|Osilnica Municipality coat of arms,Q14659,,
+Sts. Simon and Jude Parish Church (Voglje),Sts. Simon and Jude Parish Church (Voglje),Q18515925,9,0,1,,,Q18564289|Q1129743,,
+Sts. Simon and Jude Parish Church (Voglje),Sts. Simon and Jude Parish Church,Q60355753,9,0,2,,,Q317557,,
+Sts. Simon and Jude Parish Church (Voglje),Sts. Simon and Jude Parish Church,Q60352912,9,0,2,,,Q317557,,
+Sts. Simon and Jude Parish Church (Voglje),Sts. Simon and Jude Parish Church in Črnuče,Q66458868,9,0,2,,,Q57644089,,
+Municipality of Šenčur,Municipality of Šenčur,Q2346638,9,1,1,municipality of Slovenia,Šenčur municipality,Q328584,,Municipality of Šenčur
+Municipality of Šenčur,Šenčur,Q1810670,9,1,2,settlement in Slovenia,,Q486972|Q18564289,,Šenčur
+Municipality of Šenčur,Šenčur Sports Park,Q16632820,9,1,2,,,,,Šenčur Sports Park
+Municipality of Šenčur,Sanguarzo,Q18452512,9,1,2,human settlement in Italy,,Q1134686,,
+Municipality of Šenčur,Sencuri,Q31463581,9,1,2,human settlement in Russia,,Q532,,
+Municipality of Šenčur,Šenčur,Q131545081,9,1,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Šenčur,Century,Q412123,9,1,2,Wikimedia disambiguation page,,Q4167410,,Century (disambiguation)
+Municipality of Šenčur,Sts. Simon and Jude Parish Church,Q60355753,9,1,2,,,Q317557,,
+Municipality of Šenčur,Sts. Simon and Jude Parish Church,Q60352912,9,1,2,,,Q317557,,
+Municipality of Šenčur,Sts. Simon and Jude Parish Church in Črnuče,Q66458868,9,1,2,,,Q57644089,,
+Municipality of Šenčur,Sts. Simon and Jude Parish Church (Voglje),Q18515925,9,1,2,,,Q18564289|Q1129743,,
+Municipality of Šenčur,Voglje,Q2793163,9,1,2,"place in Upper Carniola, Slovenia",,Q486972|Q18564289,,"Voglje, Šenčur"
+Municipality of Šenčur,Voglje,Q554926,9,1,2,human settlement,,Q486972,,"Voglje, Sežana"
+Municipality of Šenčur,Winklern,Q133447322,9,1,2,"locality in Völkermarkt District, Austria",,Q11183787,,
+Municipality of Šenčur,Kohldorf,Q133447076,9,1,2,"locality in Völkermarkt District, Austria",,Q11183787,,
+Municipality of Šenčur,Voglje,Q1199467,9,1,2,Wikimedia disambiguation page,,Q4167410,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q11746795,10,0,1,"church building in Torun, Poland",Church of St. James in Toruń,Q16970|Q811165,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q21177405,10,0,1,"church in Popovice, Benešov District",,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q30119264,10,0,1,church in Dolní Lánov,,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q12030749,10,0,1,church in Brno-venkov District of South Moravian region,,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q12030756,10,0,1,church in Kolín District of Central Bohemian region,,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q27902495,10,0,1,"church building in Moravská Nová Ves, Czech Republic",,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q12030750,10,0,1,church in Kutná Hora District of Central Bohemian region,,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q12030765,10,0,1,"church building in Kunratice, Czech Republic",,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q37288848,10,0,1,"church building in Hostivice, Czech Republic",,Q16970,,
+Church of Saint James the Greater,Church of Saint James the Greater,Q27554198,10,0,1,"church building in Jemnice, Czech Republic",,Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q3670235,10,0,2,"church in Brescia, Italy",San Giacomo|James the Less,Q19899465|Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q38150353,10,0,2,"church building in Týn nad Vltavou, Czech Republic",Saint James Church,Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q763785,10,0,2,church in Benavites,Church of Benicalaf,Q16970,,Iglesia de Santiago (Benicalaf)
+Church of Saint James the Greater,Church of Saint James,Q41258447,10,0,2,"church building in Granada, Spain",,Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q19305527,10,0,2,"church building in Mnichovo Hradiště, Czech Republic",,Q16970,,
+Church of Saint James the Greater,"St James Church, Heywood",Q26367921,10,0,2,"Anglican church in Heywood, Greater Manchester, England, UK",St James Church|Church of Saint James,Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q4504964,10,0,2,"church building in Lorca, Spain",,Q16970,,Church of Santiago (Lorca)
+Church of Saint James the Greater,Church of Saint James,Q5912153,10,0,2,"cultural property in Salamanca, Spain",,Q16970|Q4989906,,
+Church of Saint James the Greater,church of Saint James,Q2885978,10,0,2,"church building in Ulldemolins, Spain",,Q16970,,
+Church of Saint James the Greater,Church of Saint James,Q21598556,10,0,2,"church building in Veliká Ves, Czech Republic",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q38046346,10,0,2,"parish church with cemetery in Lassing, Austria",,Q39614|Q317557,,
+Church of Saint James the Greater,Saint James the Greater Church,Q38182541,10,0,2,"church building in Krieglach, Austria",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q25911416,10,0,2,"church building in Loipersdorf-Kitzladen, Austria",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q38043418,10,0,2,"parish church and cemetery in Unzmarkt-Frauenburg, Austria",,Q317557|Q39614,,
+Church of Saint James the Greater,Saint James the Greater church,Q55110134,10,0,2,"church in San Giacomo, Caldes",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater church,Q24232751,10,0,2,"church building in Barbian, Italy",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q15110718,10,0,2,"church building in Deutsch Schützen-Eisenberg, Austria",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q38620096,10,0,2,"church located in Pyrénées-Atlantiques, in France",,Q16970,,
+Church of Saint James the Greater,Saint James the Greater Church,Q21857937,10,0,2,"parish church with cemetery in Grünau im Almtal, Austria",,Q317557|Q39614,,
+Church of Saint James the Greater,Saint James the Greater church,Q78805733,10,0,2,"church building in Vigne, Arco, Italy",,Q16970,,
+Municipality of Brežice,Municipality of Brežice,Q906879,10,1,1,municipality of Slovenia,,Q328584,,Municipality of Brežice
+Municipality of Brežice,Church of Saint James the Greater,Q11746795,10,1,2,"church building in Torun, Poland",Church of St. James in Toruń,Q16970|Q811165,,
+Municipality of Brežice,Church of Saint James the Greater,Q21177405,10,1,2,"church in Popovice, Benešov District",,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q30119264,10,1,2,church in Dolní Lánov,,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q12030749,10,1,2,church in Brno-venkov District of South Moravian region,,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q12030756,10,1,2,church in Kolín District of Central Bohemian region,,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q27902495,10,1,2,"church building in Moravská Nová Ves, Czech Republic",,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q12030750,10,1,2,church in Kutná Hora District of Central Bohemian region,,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q12030765,10,1,2,"church building in Kunratice, Czech Republic",,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q37288848,10,1,2,"church building in Hostivice, Czech Republic",,Q16970,,
+Municipality of Brežice,Church of Saint James the Greater,Q27554198,10,1,2,"church building in Jemnice, Czech Republic",,Q16970,,
+Črni Vrh,Črni Vrh Observatory,Q341666,11,0,1,observatory in Slovenia,Crni Vrh Observatory|Crni Vrh,Q1254933,,Črni Vrh Observatory
+Črni Vrh,Črni Vrh,Q13537104,11,0,1,"place in Littoral, Slovenia",,Q486972|Q18564289,,"Črni Vrh, Idrija"
+Črni Vrh,Crni Vrh,Q3003096,11,0,1,"village in Republika Srpska, Bosnia and Herzegovina",,Q532,,Crni Vrh (Čelinac)
+Črni Vrh,Crni vrh,Q26224723,11,0,1,mountain in the Velebit in Croatia,,Q8502|Q111177881,,
+Črni Vrh,Črni Vrh,Q2200531,11,0,1,"place in Upper Carniola, Slovenia",,Q486972,,"Črni Vrh, Dobrova–Polhov Gradec"
+Črni Vrh,Črni Vrh,Q6959128,11,0,1,"place in Styria, Slovenia",,Q486972,,"Črni Vrh, Tabor"
+Črni Vrh,Bregu i Zi,Q12744985,11,0,1,village in Kosovo,Crni Vrh,Q532|Q28822032,,
+Črni Vrh,Crni Vrh,Q2679892,11,0,1,"village in Pčinja District, Serbia",,Q486972,,"Crni Vrh, Vranje"
+Črni Vrh,"Crni Vrh development, the architectural ensemble",Q43958508,11,0,1,,,Q2065736,,
+Črni Vrh,"Črni Vrh, Idrija",Q935135,11,0,1,geographical object,,Q618123,,
+Črni Vrh,Idrija,Q15875,11,0,2,city in Slovenia,,Q3957,,Idrija
+Črni Vrh,Municipality of Idrija,Q3441842,11,0,2,municipality of Slovenia,Idrija Municipality,Q328584,,Municipality of Idrija
+Črni Vrh,Idrija,Q20522914,11,0,2,"brook in Slovenia, tributary of Soča",,Q47521,,
+Črni Vrh,electoral ward of Idrija,Q43396370,11,0,2,,Idrija,Q43394491,,
+Črni Vrh,Idrija lace,Q7419741,11,0,2,bobbin tape lacemaking tradition and intangible cultural heritage of Slovenia,,Q20091976|Q82821,Q64407093|Q4797251,Idrija lace
+Črni Vrh,Idrija pri Bači,Q1875731,11,0,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Idrija pri Bači
+Črni Vrh,Idrija mine,Q12073970,11,0,2,"mine in Idrija, Slovenia",,Q820477,,
+Črni Vrh,Idrija/Judrio,Q3547682,11,0,2,river in Italy and Slovenia,,Q4022,,Idrija (river)
+Črni Vrh,Idrija Geopark,Q21283542,11,0,2,,,Q1324355,,
+Črni Vrh,Idrija Psychiatric Hospital,Q48767168,11,0,2,,Psihiatrična bolnišnica Idrija,Q210999,,
+Črni Vrh,Veiligheidsregio Haaglanden,Q2407217,11,0,2,safety region in the Netherlands,Haaglanden|VRH,Q2035651,,
+Črni Vrh,Vrh,Q1946418,11,0,2,"settlement in the Town of Buzet, Istria County, Croatia",,Q4845841,,"Vrh, Istria County"
+Črni Vrh,summit,Q207326,11,0,2,"point on a surface that is higher in elevation than all points immediately adjacent to it, in topography",peak|mountain peak,,Q618123|Q3393392,Summit
+Črni Vrh,Monte San Michele,Q3861967,11,0,2,karst mountain in northern Italy,Vrh svetega Mihaela|Vrh,Q8502,,Monte San Michele
+Črni Vrh,"Vrh, Krk",Q3442346,11,0,2,"settlement in the Town of Krk, Primorje-Gorski Kotar County, Croatia",,Q4845841,,"Vrh, Krk"
+Črni Vrh,Vrhovec,Q12806170,11,0,2,family name,,Q101352,,Vrhovec
+Črni Vrh,Vrh,Q114796144,11,0,2,family name,,Q101352,,
+Črni Vrh,Vrhovac,Q56245769,11,0,2,family name,,Q101352,,Vrhovac
+Črni Vrh,Vrh Svetih Treh Kraljev,Q2458805,11,0,2,"settlement in Logatec municipality, Slovenia",Vrh Sv. Treh Kraljev,Q486972,,Vrh Svetih Treh Kraljev
+Črni Vrh,Vrh,Q3499607,11,0,2,"place in Inner Carniola, Slovenia","Vrh, Loška dolina",Q486972,,"Vrh, Loška Dolina"
+Municipality of Idrija,Municipality of Idrija,Q3441842,11,1,1,municipality of Slovenia,Idrija Municipality,Q328584,,Municipality of Idrija
+Municipality of Idrija,Črni Vrh Observatory,Q341666,11,1,2,observatory in Slovenia,Crni Vrh Observatory|Crni Vrh,Q1254933,,Črni Vrh Observatory
+Municipality of Idrija,Črni Vrh,Q13537104,11,1,2,"place in Littoral, Slovenia",,Q486972|Q18564289,,"Črni Vrh, Idrija"
+Municipality of Idrija,Crni Vrh,Q3003096,11,1,2,"village in Republika Srpska, Bosnia and Herzegovina",,Q532,,Crni Vrh (Čelinac)
+Municipality of Idrija,Crni vrh,Q26224723,11,1,2,mountain in the Velebit in Croatia,,Q8502|Q111177881,,
+Municipality of Idrija,Črni Vrh,Q2200531,11,1,2,"place in Upper Carniola, Slovenia",,Q486972,,"Črni Vrh, Dobrova–Polhov Gradec"
+Municipality of Idrija,Črni Vrh,Q6959128,11,1,2,"place in Styria, Slovenia",,Q486972,,"Črni Vrh, Tabor"
+Municipality of Idrija,Bregu i Zi,Q12744985,11,1,2,village in Kosovo,Crni Vrh,Q532|Q28822032,,
+Municipality of Idrija,Crni Vrh,Q2679892,11,1,2,"village in Pčinja District, Serbia",,Q486972,,"Crni Vrh, Vranje"
+Municipality of Idrija,"Crni Vrh development, the architectural ensemble",Q43958508,11,1,2,,,Q2065736,,
+Municipality of Idrija,"Črni Vrh, Idrija",Q935135,11,1,2,geographical object,,Q618123,,
+Municipality of Idrija,Idrija,Q15875,11,1,2,city in Slovenia,,Q3957,,Idrija
+Municipality of Idrija,Idrija,Q20522914,11,1,2,"brook in Slovenia, tributary of Soča",,Q47521,,
+Municipality of Idrija,electoral ward of Idrija,Q43396370,11,1,2,,Idrija,Q43394491,,
+Municipality of Idrija,Idrija lace,Q7419741,11,1,2,bobbin tape lacemaking tradition and intangible cultural heritage of Slovenia,,Q20091976|Q82821,Q64407093|Q4797251,Idrija lace
+Municipality of Idrija,Idrija pri Bači,Q1875731,11,1,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Idrija pri Bači
+Municipality of Idrija,Idrija mine,Q12073970,11,1,2,"mine in Idrija, Slovenia",,Q820477,,
+Municipality of Idrija,Idrija/Judrio,Q3547682,11,1,2,river in Italy and Slovenia,,Q4022,,Idrija (river)
+Municipality of Idrija,Idrija Geopark,Q21283542,11,1,2,,,Q1324355,,
+Municipality of Idrija,Idrija Psychiatric Hospital,Q48767168,11,1,2,,Psihiatrična bolnišnica Idrija,Q210999,,

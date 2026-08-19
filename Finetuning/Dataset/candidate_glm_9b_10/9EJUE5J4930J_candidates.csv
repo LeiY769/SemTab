@@ -1,0 +1,5 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Luka Pona,Luka Pona,Q116187421,0,0,1,minimalist constructed sign language based on Toki Pona,,Q34228|Q33215|Q470775|Q1288568|Q116187610,,
+Solomon Islands Sign Language,Solomon Islands Sign Language,Q26449924,1,0,1,deaf sign language of the Solomon Islands,SISL,Q34228|Q1288568,Q3915038,Solomon Islands Sign Language
+village sign language,village sign language,Q3915038,1,1,1,local indigenous sign language,village sign,Q20829075,Q107866441,Village sign language
+village sign language,Solomon Islands Sign Language,Q26449924,1,1,2,deaf sign language of the Solomon Islands,SISL,Q34228|Q1288568,Q3915038,Solomon Islands Sign Language

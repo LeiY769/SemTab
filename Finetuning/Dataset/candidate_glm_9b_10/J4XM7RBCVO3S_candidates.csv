@@ -1,0 +1,163 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Hufe,Hufe,Q1757518,0,0,1,old German unit of land measurement,Massaricium,Q489357|Q12799250,,
+Hufe,Hufelandia,Q15932923,0,0,1,genus of plants,,Q16521,,
+Hufe,Hufeisensiedlung,Q644490,0,0,1,modernist housing estate in Berlin-Britz,,Q12104567,,Hufeisensiedlung
+Hufe,Hufelandia thyrsiflora,Q15613082,0,0,1,species of plant,,Q16521,,
+Hufe,Hufelandia anay,Q39096957,0,0,1,species of plant,,Q16521,,
+Hufe,Hufelandia rigida,Q39097379,0,0,1,species of plant,,Q16521,,
+Hufe,Hufelandia latifolia,Q39097232,0,0,1,species of plant,,Q16521,,
+Hufe,Hufendick,Q37487832,0,0,1,family name,,Q101352,,
+Hufe,Hufelandia costaricensis,Q39097091,0,0,1,species of plant,,Q16521,,
+Hufe,Hufelandia tovarensis,Q39097509,0,0,1,species of plant,,Q16521,,
+Hufe,horse hoof,Q841290,0,0,2,keratin-based structure covering the toe of a horse limb,equine hoof,,Q128007,Horse hoof
+Hufe,Horse hoof inspired biomimetic structure for improved damage tolerance and crack diversion,Q128101952,0,0,2,scholarly article,,Q13442814,,
+lot,parking area,Q6501349,1,0,1,cleared area that is intended for parking vehicles,car lot|parking facility|lot|car park|parking|parking lot|carpark,Q137393561,Q55697304,Parking lot
+lot,Lot,Q88542272,1,0,1,male given name,,Q12308941,,
+lot,LOT Polish Airlines,Q204268,1,0,1,flag air carrier of Poland and Star Alliance member,LOT|LO,Q46970,,LOT Polish Airlines
+lot,Lot,Q12576,1,0,1,French department,,Q6465,,Lot (department)
+lot,land parcel,Q683595,1,0,1,area of land described by a single entry in a land register,lot|plot|tract of land|parcel of land|real property|real estate|plot of land|land tract|plat|cadastral parcel|land lot,,Q684740,Land lot
+lot,Lothar,Q16278542,1,0,1,male given name,Lothar (given name)|Lothar (first name),Q12308941,,Lothar
+lot,Lotus,Q3645698,1,0,1,genus of flowering plants in the bean family Fabaceae,,Q16521,,Lotus (genus)
+lot,Lotte,Q2352826,1,0,1,female given name,Lotte (given name)|Lotte (first name),Q11879590,,Lotte (name)
+lot,Lotus corniculatus,Q29907,1,0,1,species of flowering plant,Bird's-foot Trefoil|Common Bird's-foot-trefoil,Q16521,Q11992872|Q157957|Q190903,Lotus corniculatus
+lot,Lotus japonicus,Q50844716,1,0,1,species of plant,,Q16521|Q213907,,Lotus japonicus
+lot,Land Lotus 2,Q83561812,1,0,2,painting by Bhutnath Pal,,Q3305213,,
+lot,Land Lotus 1,Q83551029,1,0,2,painting by Bhutnath Pal,,Q3305213,,
+lot,Land Lottery,Q20716534,1,0,2,,,,,Land lottery
+lot,land lot number,Q12043805,1,0,2,,plot number|land lot number|cadastral plot reference,Q853614,Q853614,
+lot,"Land lotteries, long-term wealth, and political selection",Q128918492,1,0,2,scholarly article,,Q13442814,,
+lot,Plot of land in Langres,Q22985231,1,0,2,,,Q91752|Q12518,,
+lot,"Plot of Land Taken by the United States for Fortifications on Nantasket and Cushing Hills in the Town of Hull, Massachusetts (NAID 137929195)",Q67165640,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+ground,soil,Q36133,2,0,1,natural body consisting of layers that are primarily composed of minerals,dirt|ground|earth,,Q1155083|Q11780457|Q106865236|Q1783121|Q206615,Soil
+ground,Ground,Q36999948,2,0,1,family name,,Q101352,,
+ground,cytosol,Q220599,2,0,1,"part of the cytoplasm that does not contain organelles but which does contain other particulate matter, such as protein complexes",cytoplasmic matrix|GO:0005829|intracellular fluid|groundplasm|ICF,Q5058355,Q66562925|Q70551253,Cytosol
+ground,United States Army,Q9212,2,0,1,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+ground,groundwater,Q161598,2,0,1,water located beneath the ground surface,ground water|underground water,,Q863944|Q832131,Groundwater
+ground,Carabidae,Q27046,2,0,1,family of beetles which are almost or completely flightless and usually carnivorous,ground beetle|ground beetles|carabid|carabids|carabid family|ground beetle family,Q16521,,Ground beetle
+ground,Earth's surface,Q1349417,2,0,1,term for the surface of the Earth,ground|surface of the Earth|Earth surface|surface of Earth,Q7201252|Q2627400,,Earth’s surface
+ground,ground,Q6501125,2,0,1,reference point in an electrical circuit from which voltages are measured,earth|electrical ground|electrical earth|0 V|0V|+0 V|+0V|circuit ground|voltage reference|GND|reference node|datum node,Q23008367,Q124291,Ground (electricity)
+ground,army,Q37726,2,0,1,military branch for ground warfare,land army|land force|ground forces|land forces,Q781132,Q8473,Army
+ground,peanut,Q37383,2,0,1,"legume cultivated for use of the underground seedpods as a grain crop, and also processed as peanut oil","Arachis hypogaea|groundnut|earthnut|goober|pindar|monkey nut|peanuts|ground nuts|Peanuts, raw",Q16521|Q186752,Q11992872|Q192691,Peanut
+ground,soil science,Q9161265,2,0,2,study of soil as a natural resource on the surface of the earth,soil sciences,Q11862829,Q8008,Soil science
+ground,land use,Q1165944,2,0,2,characterization of land based on what can be built on it and what the land can be used for,usage of lands|landuse|use of land|soil use,,Q96337207,Land use
+ground,SOIL,Q50810901,2,0,2,academic journal published by Copernicus Publications,,Q737498|Q773668,,
+ground,soil biology,Q12370533,2,0,2,study of microbial and faunal activity and ecology in soil,soil ecology|soil microbes|soil ecosystem|soil zoology,Q2465832,Q420|Q9161265,Soil biology
+ground,soil moisture,Q889507,2,0,2,water content of the soil,,Q937228|Q71550118,,Soil moisture
+ground,Soil Biology and Biochemistry,Q15758593,2,0,2,academic journal,Soil Biology & Biochemistry,Q5633421|Q737498,,Soil Biology and Biochemistry
+ground,Soile Tapio,Q41580938,2,0,2,researcher,,Q5,,
+ground,soil fertility,Q202080,2,0,2,the ability of a soil to sustain agricultural plant growth,soils fertility|soil productivity,Q17004438,,Soil fertility
+ground,soil erosion,Q889503,2,0,2,washing or blowing away of the top layer of soil,,Q745430,Q2045071|Q80026,Soil erosion
+ground,Earth,Q2,2,0,2,third planet from the Sun in the Solar System,Planet Earth|World|Mother Earth|The Blue Planet|The Earth,Q3504248|Q2221906|Q82794,,Earth
+ground,Earth,Q5327042,2,0,2,1978 album by Jefferson Starship,,Q482994,,Earth (Jefferson Starship album)
+ground,"Earth, Wind & Fire",Q28974,2,0,2,american band,"Earth Wind & Fire|Earth, Wind and Fire|Earth Wind and Fire|Earth, Wind, and Fire|Earth, Wind, & Fire|EWF|EW&F",Q215380,,"Earth, Wind & Fire"
+ground,Earth,Q5327043,2,0,2,1989 album by Matthew Sweet,,Q482994,,Earth (Matthew Sweet album)
+ground,Earth,Q24706104,2,0,2,2016 triple live album by Neil Young + Promise of the Real,554514-1,Q482994,,Earth (Neil Young and Promise of the Real album)
+ground,earthquake,Q7944,2,0,2,result of a sudden release of energy in the Earth's crust that creates seismic waves,quake|tremor|temblor|earth quake|earthquakes|earth quakes,,Q8065|Q108156638|Q2692116|Q123349687|Q136927433,Earthquake
+ground,day,Q573,2,0,2,"unit of time lasting 24 hours, derived from the period of Earth's rotation about its axis",days|Earth day,Q1790144|Q106839753|Q82047057|Q3268848,Q2199864|Q78754808|Q186081,Day
+ground,Earth,Q115178805,2,0,2,2022 Sault album,,Q482994,,Earth (Sault album)
+ground,Black Sabbath,Q47670,2,0,2,British heavy metal band,The Polka Tulk Blues Band|Polka Tulk Blues Band|Polka Tulk|Earth,Q56816954,,Black Sabbath
+ground,Terrain,Q3518551,2,0,2,journal in French,,Q1002697|Q5633421|Q5253501,,Terrain (journal)
+ground,terrain,Q186131,2,0,2,vertical and horizontal dimension of land surface,land relief|relief|topographical relief,Q151885,Q7048977,Terrain
+ground,Terrain,Q63761050,2,0,2,family name,,Q101352,,
+ground,terrain,Q14524493,2,0,2,Earth's surface with its elevations and accidents,relief,,Q271669,
+ground,geographical feature,Q618123,2,0,2,components of planets that can be geographically located,geographical object|geographic feature|geographic object|topological feature|topological object|topologic feature|topologic object|terrain feature|terrain object,Q96251598,Q27096213|Q4406616|Q17334923,Geographical feature
+ground,GMC Terrain,Q1485959,2,0,2,American crossover SUV produced by GMC,Terrain,Q3231690,Q192152,GMC Terrain
+ground,Terrain,Q30601839,2,0,2,album by Kids in the Kitchen,,Q482994,,Terrain (Kids in the Kitchen album)
+ground,Terrain,Q20193699,2,0,2,"curtain in ""Terrain"" pattern by George Nelson (MET, 1985.125.2)",,Q22075301|Q49005,,
+ground,Terrain,Q20193521,2,0,2,printed fabric by George Nelson,,Q22075301|Q29639251|Q17126091,,
+ground,Terrain of Magical Expertise,Q112061965,2,0,2,2021 video game,,Q7889,,
+field,Field,Q13560407,3,0,1,family name,,Q101352,,Field (surname)
+field,field,Q188869,3,0,1,area of land used for agricultural purposes,arable field|agricultural field|farmer's field|paddock|field (agriculture),,Q843920|Q3395383,Field (agriculture)
+field,Field,Q54859956,3,0,1,(mostly male) given name,,Q202444|Q12308941,,
+field,field,Q372254,3,0,1,background of a shield or flag,,,Q124624063,Field (heraldry)
+field,mineral deposit,Q15104915,3,0,1,"natural concentration of raw materials in the earth's crust, the mining of which is economically worthwhile",field|deposit,,Q35145263|Q76504028,Field (mineral deposit)
+field,field hockey,Q1455,3,0,1,team sport version of hockey played on grass or artificial turf with sticks and a round ball,hockey|outdoor hockey,Q31629|Q216048|Q47728,Q1622659|Q212434,Field hockey
+field,Wiktionary field category,Q54662266,3,0,1,semantic field aspect of a category for Wiktionary pages,semantheme|topic|semantic category|sema|semantic field|field category,,Q4167836,
+field,leptospirosis,Q155098,3,0,1,human and animal infectious disease,Weil's disease|Rat fever|field fever|rat catcher's yellows|pretibial fever,Q112193867,Q18553247|Q3493588|Q131345497|Q18123741,Leptospirosis
+field,field,Q190109,3,0,1,commutative ring in which every nonzero element is inversible,commutative division ring|algebraic field,,Q18386809|Q867345|Q2326800|Q650741|Q713084|Q125977|Q494141|Q858656|Q21406562,Field (mathematics)
+field,field,Q185674,3,0,1,"physical quantity, represented by a number or tensor, that has a value for each point in space-time",physical field,Q33104303,Q4406616|Q28732711|Q11348,Field (physics)
+field,academic discipline,Q11862829,3,0,2,academic field of study or profession,branch (academic)|discipline|academic field|academic branch|academic specialty|academic specialism|research field|field of research|field of study|sub-discipline,Q110402867,Q1047113,Academic discipline
+field,field of study,Q1047113,3,0,2,field limited to a specific area of ​​knowledge; specialization in an occupation or branch of learning; a specific use,subject area|domain|special field|specialism|subdiscipline|sub-discipline|specialized field of study|specialty,Q110402867,Q105948247|Q110403031|Q9081|Q26256810|Q21040055,
+field,academic major,Q4671286,3,0,2,focus of academic study leading to a degree,main speciality of study|main field of study|speciality of study|field of study|main discipline|major discipline|university discipline|major concentration|major|university major,,Q11862829,Academic major
+field,field of study,Q2267705,3,0,2,field of study leading to a specific degree,field of education|area of study,,Q1047113,
+field,course of study,Q114948502,3,0,2,"German type of ""field of study"" at different universities in Germany",study course|field of study,,Q9347372|Q2267705|Q120334909,
+field,Field of Study in College and Lifetime Earnings in the United States,Q37543766,3,0,2,scientific article published on 04 September 2015,,Q13442814,,
+field,Field of Study and University Graduates' Early Employment Outcomes in Italy during 1995-2004,Q58290251,3,0,2,article,,Q13442814,,
+field,Field of study variation throughout the college pipeline and its effect on the earnings gap: Differences between ethnic and immigrant groups in Israel,Q40907271,3,0,2,"scientific article published on March 28, 2015",,Q13442814,,
+field,Field-of-study mismatch and overqualification: labour market correlates and their wage penalty,Q59523300,3,0,2,,,Q13442814,,
+field,Field-of-Study Choice in Higher Education: Does Distance Matter?,Q110224711,3,0,2,,,Q13442814,,
+field,"Field of activity of a pediatric nurse in mouth, jaw and plastic surgery as illustrated in a West German jaw hospital",Q68958861,3,0,2,scientific article published on 01 March 1973,,Q13442814,,
+field,Field of activity of forensic psychiatry within the scope of measures provided by the new criminal law (author's transl),Q44205370,3,0,2,"scientific article published on May 1, 1977",,Q13442814,,
+hide,Hide,Q44315,4,0,1,Japanese musician (1964–1998),Hideto Matsumoto|松本 秀人 (Matsumoto Hideto),Q5,,Hide (musician)
+hide,Hide,Q18324642,4,0,1,family name,Hide (surname),Q101352,,Hide (surname)
+hide,Hideyuki Okano,Q11473927,4,0,1,physiologist,,Q5,,Hideyuki Okano
+hide,Hideo Hosono,Q1346341,4,0,1,Japanese scientist,,Q5,,Hideo Hosono
+hide,Hideki Saijō,Q3548203,4,0,1,Japanese singer and television celebrity (1955–2018),Saijo Hideki|Hideki Saijô|Hideki Saijyo|Hideki Saijo,Q5,,Hideki Saijo
+hide,hide,Q3291230,4,0,1,animal skin treated for human use,animal hide|skin|animal skin,,Q1074|Q629103|Q31808206,Hide (skin)
+hide,Hidetoshi Ohshita,Q114648496,4,0,1,Japanese particle physicist,,Q5,,
+hide,Hide,Q123817487,4,0,1,,,Q202444,,
+hide,Hideshi Ishii,Q114328213,4,0,1,researcher,,Q5,,
+hide,Hideharu Shichi,Q114339469,4,0,1,Japanese particle physicist,,Q5,,
+hide,Hide and Seek,Q111813502,4,0,2,episode of Star Trek: Picard,,Q21191270|Q61220733,,
+hide,Hide and Seek,Q4115967,4,0,2,2012 studio album by The Birthday Massacre,,Q482994,,Hide and Seek (The Birthday Massacre album)
+hide,hide-and-seek,Q171957,4,0,2,children's game,hide and seek|hide-and-go-seek|hide and go seek|all hid,Q1509934|Q1499881,Q1509934|Q30301727,Hide-and-seek
+hide,Hide and Seek,Q122364891,4,0,2,2021 video game,,Q7889,,
+hide,Hide and Seek,Q122826119,4,0,2,2019 video game,,Q7889,,
+hide,Hide and Seek,Q122826566,4,0,2,2023 early access video game,,Q7889,,
+hide,Hide And Seek,Q135052180,4,0,2,2024 video game developed by IM Games,,Q7889,,
+hide,Hide and Seek,Q1124080,4,0,2,2005 film directed by John Polson,,Q11424,,Hide and Seek (2005 film)
+hide,Hide and Seek,Q55731227,4,0,2,2018 South Korean television series,,Q5398426,,Hide and Seek (TV series)
+hide,Hide and Seek,Q29416155,4,0,2,episode of NCIS (S6 E19),,Q21191270,,Hide and Seek (NCIS)
+hide,HIDEOUT,Q135033358,4,0,2,video game developed by Binary Brain Games,,Q7889,,
+hide,Hideout,Q483360,4,0,2,"town in Wasatch County, Utah, United States","Hideout, Utah|Hideout, UT",Q15127012,,"Hideout, Utah"
+hide,The Hideout Inn,Q25344890,4,0,2,"Chicago music venue, neighborhood bar",Hideout|The Hideout,Q8719053|Q187456|Q622425,,The Hideout Inn
+hide,hideout,Q112633328,4,0,2,a place to hide,hide-out|hiding place,,Q699405|Q131468147,
+hide,Hideout,Q114491182,4,0,2,episode of The Virginian (S3 E18),,Q21191270,,
+hide,Hideout,Q105091856,4,0,2,print by Edan M. Bryant,,Q429785,,
+hide,Hideout,Q20475223,4,0,2,painting by Lena Nyadbi,,Q3305213,,
+hide,Hideout,Q21646488,4,0,2,1949 film by Philip Ford,,Q11424,,Hideout (film)
+hide,Hideout,Q16843447,4,0,2,album by Film School,,Q482994,,Hideout (Film School album)
+hide,Hideout,Q3135274,4,0,2,manga series,,Q2831984,,Hideout (manga)
+Carozzo,Carozzo,Q99907000,5,0,1,family name,,Q101352,,
+Carozzo,Carozzo,Q1044698,5,0,1,unit of area,,Q1371562,,
+Carozzo,Carozzo,Q18460502,5,0,1,"frazione of La Spezia and Vezzanno Ligure, Italy",,Q1134686,,
+Carozzo,Carozzo,Q44061258,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Barony,Barony,Q110680989,6,0,1,2015 video game,,Q7889,,
+Barony,barony,Q853565,6,0,1,historical subdivision of a county of Ireland,,Q313354,Q3356092|Q223573,Barony (Ireland)
+Barony,barony,Q223573,6,0,1,administrative division of a county,geographic barony,Q15617994,Q56061,Barony (county division)
+Barony,Barony,Q65643665,6,0,1,former parish in the city of Glasgow,,Q4976993,,
+Barony,Barony,Q26267980,6,0,1,unit of area,,Q1371562,,
+Barony,Barrymore,Q4863006,6,0,1,"barony in County Cork, Ireland",Barony of Barrymore,Q853565,,Barrymore (barony)
+Barony,Barony of Dublin,Q4863017,6,0,1,former barony in Ireland,,Q853565,,Dublin (barony)
+Barony,Barony of Imokilly,Q6005701,6,0,1,"barony in Cork, Ireland",,Q853565,,Imokilly
+Barony,Barony,Q85745498,6,0,1,tabletop role-playing game,,Q1643932,,Barony (role-playing game)
+Barony,Barony,Q112458109,6,0,1,"human settlement in New Brunswick, Canada",,Q486972,,
+Hond,honorary doctorate,Q11415564,7,0,1,honorary academic degree,honorary doctor|doctor h.c.|doctorate honoris causa|HonD|doctor honoris causa|Doctors Honoris Causa,Q3320743,Q209896|Q4618975,Honorary doctorate
+Hond,Honda,Q9584,7,0,1,"manufacturer of automobiles, motorcycles, and power equipment","Honda Motor Company, Ltd.|Honda Giken Kogyo K.K.|Honda Motor Co., Ltd.|Honda Giken Kōgyō|Honda Motor Co., Ltd. (Tokyo)",Q786820|Q15081030|Q891723,,Honda
+Hond,Honduras,Q783,7,0,1,sovereign state in Central America,hn|Republic of Honduras|Honduran Republic|HON,Q3624078|Q6256,,Honduras
+Hond,Hondarribia,Q492312,7,0,1,municipality of Spain,Fuenterrabia,Q2074737,,Hondarribia
+Hond,Honshu,Q13989,7,0,1,largest island of Japan,Honshū|Big Island|Japan|Meaco|Nipon|Nippon|Niphon|Honshu Island|Honshu I.|Meako|Hondo|Hondo Island|Hondo Is.|Hondo I.|Main Island,Q17308006,,Honshu
+Hond,Hondschoote,Q391344,7,0,1,"commune in Nord, France",Hondschote,Q484170|Q902814,,Hondschoote
+Hond,Honda,Q14497179,7,0,1,family name,,Q101352,,Honda (surname)
+Hond,main hall,Q17051413,7,0,1,main building in Japanese Buddhist temples,kondō|hondō|kondoo|hondoo,,Q11377515|Q240854,Main Hall (Japanese Buddhism)
+Hond,honden,Q2044994,7,0,1,main building of a Shinto shrine,shinden|Honden,,Q29553,Honden
+Hond,Hachiman,Q261637,7,0,1,"Japanese Shinto–Buddhist syncretic deity of archery and war; tutelary god of warriors; protector of Japan, the Japanese people and the Imperial House; the name means ""God of 8 Banners"", after the 8 heavenly banners signaling the birth of Ōjin Tennō",Yahata no Kami|Hondawake no Mikoto,Q41863069|Q524158|Q23925162,,Hachiman
+Hond,Honduras men's national football team,Q180187,7,0,2,men's national association football team representing Honduras,Honduras national soccer team|The Catrachos|The Bicolor|The H|Honduras national football team,Q135408445,Q1194951,Honduras national football team
+Hond,Honduras de la Sierra,Q49978176,7,0,2,"municipal seat of Honduras de la Sierra, State of Chiapas, Mexico",Honduras,Q20202352,,
+Hond,Honduras,Q5901519,7,0,2,1814 schooner,,Q204577,,
+Hond,11055 Honduras,Q1090898,7,0,2,asteroid,Honduras|(11055) Honduras,Q3863,,11055 Honduras
+Hond,Honduras de la Sierra Municipality,Q102426425,7,0,2,"municipality in the State of Chiapas, Mexico",Honduras de la Sierra|Honduras|Honduras Municipality,Q1952852,,Honduras de la Sierra
+Hond,Hong Shengde,Q9306612,7,0,2,Taiwanese actor,Honduras,Q5,,Honduras (actor)
+Hond,Honduras,Q2879306,7,0,2,"barrio in Barranquitas, Puerto Rico","Honduras Barrio|Honduras, Barranquitas|Honduras, Puerto Rico",Q3677932,,"Honduras, Barranquitas, Puerto Rico"
+Hond,Honduras,Q5901523,7,0,2,"barrio in Cidra, Puerto Rico","Honduras Barrio|Honduras, Cidra|Honduras, Puerto Rico",Q3677932,,"Honduras, Cidra, Puerto Rico"
+Hond,Honduras,Q86084231,7,0,2,ship built in 1992,IMO 8906975,Q11446,,
+Rood,Rood,Q16882262,8,0,1,family name,Rood (surname),Q101352,,Rood (surname)
+Rood,ROOD,Q1989560,8,0,1,socialist youth organisation in the Netherlands,"RED, socialist youth",Q2493450,,ROOD
+Rood,Roodepoort,Q2166182,8,0,1,town in South Africa,,Q3957|Q1549591,,Roodepoort
+Rood,triumphal cross,Q449189,8,0,1,large crucifix over the altar of a medieval church,rood|triumph crucifix,,Q20460,Rood
+Rood,red,Q3142,8,0,1,prismatic and primary color with longest visible wavelength in the electromagnetic spectrum,red color|color red,Q376346|Q166902|Q56053097|Q910300|Q137796868,Q9128|Q1075,Red
+Rood,Rood,Q1931844,8,0,1,English unit of length or area,,Q1371562,,Rood (unit)
+Rood,Roode,Q37212499,8,0,1,family name,,Q101352,,
+Rood,Rood Adeo,Q18521469,8,0,1,Dutch musician,Rood|Roderik Adeo. Jansz,Q5,,Rood Adeo
+Rood,Roodebeek metro station,Q2676500,8,0,1,"metro station in Woluwe-Saint-Lambert, Brussels, Belgium",,Q928830|Q22808403,,Roodebeek metro station
+Rood,Rood,Q15881462,8,0,1,2013 film,,Q11424,,

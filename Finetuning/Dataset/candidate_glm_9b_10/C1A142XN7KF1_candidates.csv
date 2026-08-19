@@ -1,0 +1,63 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Clarington,Clarington,Q37038117,0,0,1,family name,,Q101352,,
+Clarington,Clarington,Q4438,0,0,1,"municipality in Durham Region, Ontario, Canada","Clarington, Ontario|Clarington, ON",Q15210668,,Clarington
+Clarington,Clarington,Q2194236,0,0,1,"human settlement in Monroe County, Ohio, United States of America","Clarington, Ohio|Clarington, OH",Q108569739,,"Clarington, Ohio"
+Clarington,Clarington,Q19864862,0,0,1,human settlement in United States of America,"Clarington, Pennsylvania|Clarington, PA",Q17343829,,"Clarington, Pennsylvania"
+Clarington,CLARINGTON,Q127054859,0,0,1,hymn tune,,Q105543609,,
+Clarington,Clarington Transit,Q5127004,0,0,1,,,,,Clarington Transit
+Clarington,Clarington Municipal Council,Q115824013,0,0,1,"governing body of Clarington, Ontario",,Q11204,,Clarington Municipal Council
+Clarington,Clarington Eagles,Q5127001,0,0,1,Canadian junior ice hockey team,,Q4498974,,Clarington Eagles
+Clarington,"Clarington Library, Museums and Archives",Q127696063,0,0,1,"Library, Museums and Archives of Clarington, Ontario",,Q7075|Q33506|Q166118,,
+Clarington,Clarington Central Secondary School,Q5126999,0,0,1,"Secondary School in Bowmanville, Ontario, Canada",,Q9826,,Clarington Central Secondary School
+Sarnia,Sarnia,Q34106,1,0,1,"city in Ontario, Canada","Sarnia, Ontario|Sarnia, ON|The Imperial City",Q515|Q15210668,,Sarnia
+Sarnia,Sarnia,Q18591466,1,0,1,genus of molluscs,,Q16521,,
+Sarnia,Alice Dew-Smith,Q55431873,1,0,1,New Zealand-born UK author (1859–1949),Alice Dew-Smith|Autolycus|Alice Mary Lloyd Dew-Smith|Alice Mary Lloyd|A. M. Dew-Smith|Sarnia,Q5,,Alice Dew-Smith
+Sarnia,Sarnia,Q28453561,1,0,1,"provincial electoral district in Ontario, Canada",,Q6593033,,Sarnia (provincial electoral district)
+Sarnia,Sarnia railway station,Q3097681,1,0,1,"railway station in Sarnia, Canada",,Q55488|Q22808404,,Sarnia station
+Sarnia,Sarnia (Pauly-Wissowa),Q20003124,1,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Sarnia,Sarnia,Q110882256,1,0,1,"group of bus stops in Poznań, Poland",,Q953806|Q813817,,
+Sarnia,Sarnia,Q134593708,1,0,1,"former federal electoral district in Ontario, Canada (1968–1970)",,Q17202187|Q6593031,,
+Sarnia,Sarnia,Q115262762,1,0,1,"geographic township in Ontario, Canada",,Q96759164,,
+Sarnia,Sarnia,Q124416337,1,0,1,,,Q55488,,
+Sarnia,City of Sarnia City Gate,Q104532307,1,0,2,"monument in Sarnia, Ontario, Canada",,Q4989906,,
+Gravenhurst,Gravenhurst,Q727403,2,0,1,"civil parish in Central Bedfordshire, Bedfordshire, England, UK","Gravenhurst, Bedfordshire",Q1115575,,"Gravenhurst, Bedfordshire"
+Gravenhurst,Gravenhurst,Q568953,2,0,1,band,,Q215380,,Gravenhurst (band)
+Gravenhurst,Gravenhurst,Q937901,2,0,1,"town in Ontario, Canada","Gravenhurst, Ontario|Gravenhurst, ON",Q3957|Q15210668,,"Gravenhurst, Ontario"
+Gravenhurst,Gravenhurst Railway Station,Q3096576,2,0,1,"railway station in Gravenhurst, Ontario, Canada",,Q55488,,Gravenhurst station
+Gravenhurst,Gravenhurst,Q61038963,2,0,1,"Meteorological Service of Canada's station for Gravenhurst (MSC ID: 6113000), Ontario, Canada",,Q190107,,
+Gravenhurst,Gravenhurst Parish Council,Q104391659,2,0,1,UK local authority for the parish of Gravenhurst,,Q7137435,,
+Gravenhurst,Gravenhurst Post Office,Q63892571,2,0,1,"post office in Gravenhurst, Ontario, Canada",,Q35054,,
+Gravenhurst,Gravenhurst/Sniders Bay Water Aerodrome,Q55887250,2,0,1,"airport in Pine Lake, Ontario",,Q62447,,Gravenhurst/Sniders Bay Water Aerodrome
+Gravenhurst,Gravenhurst High School,Q5597875,2,0,1,"high school in Gravenhurst, Ontario, Canada",,Q9826,,Gravenhurst High School
+Gravenhurst,Gravenhurst/Muskoka Bay Water Aerodrome,Q55887246,2,0,1,airport in Lake Muskoka,,Q62447,,Gravenhurst/Muskoka Bay Water Aerodrome
+Milton,Milton,Q16290730,3,0,1,male given name,,Q12308941,,Milton (given name)
+Milton,Milton,Q739428,3,0,1,"town in Norfolk County, Massachusetts, United States","Milton, Massachusetts|Milton, MA",Q2154459|Q498162,,"Milton, Massachusetts"
+Milton,Milton,Q425057,3,0,1,"town in Halton Region, Ontario, Canada","Milton, Ontario|Milton, ON",Q3957|Q15210668,,"Milton, Ontario"
+Milton,Milton,Q962936,3,0,1,"city in Florida, United States","Milton, Florida|Milton, FL",Q1093829,,"Milton, Florida"
+Milton,Milton,Q612900,3,0,1,"borough in northwestern Northumberland County, Pennsylvania, United States","Milton, Pennsylvania|Milton, PA",Q777120,,"Milton, Pennsylvania"
+Milton,Milton,Q605450,3,0,1,"village in Cambridgeshire, England","Milton, Cambridgeshire",Q532|Q1115575,,"Milton, Cambridgeshire"
+Milton,Milton,Q1789757,3,0,1,"town in Vermont, United States","Milton, VT|Milton, Vermont",Q2154459|Q486972,,"Milton, Vermont"
+Milton,Milton,Q756111,3,0,1,"town in Delaware, USA","Milton, Delaware|Milton, DE",Q15127012,,"Milton, Delaware"
+Milton,Milton,Q2001929,3,0,1,"town in North Carolina, United States","Milton, North Carolina|Milton, NC",Q15127012|Q132680629,,"Milton, North Carolina"
+Milton,Milton,Q1569325,3,0,1,"city in Rock County, Wisconsin, United States","City of Milton|Milton, Wisconsin|Milton, WI",Q15221373,,"Milton, Wisconsin"
+Milton,Milton Keynes,Q204234,3,0,2,"city in Buckinghamshire, England, United Kingdom","Milton Keynes, Buckinghamshire",Q515|Q1074523|Q10270157|Q1549591|Q660088,,Milton Keynes
+Milton,Milton Keynes,Q19858129,3,0,2,"area in Milton Keynes, Buckinghamshire, England","Milton Keynes (parish)|Milton Keynes (civil parish)|Milton Keynes, Buckinghamshire|Milton Keynes Village",Q1115575|Q486972,,Milton Keynes Village
+Milton,City of Milton Keynes,Q894090,3,0,2,"unitary authority area with city and borough status in Buckinghamshire, England",Borough of Milton Keynes|Milton Keynes,Q1006876|Q1136601|Q21503295|Q1187580|Q769603,,City of Milton Keynes
+Milton,Milton Keynes Dons F.C.,Q248188,3,0,2,"association football club in Milton Keynes, England",Milton Keynes Dons Football Club|Milton Keynes Dons FC|Milton Keynes Dons|MK Dons|MKDFC|MK Dons FC|MK Dons F.C.,Q476028,,Milton Keynes Dons F.C.
+Milton,Milton Keynes,Q6861205,3,0,2,"Parliamentary constituency in the United Kingdom, 1983-1992",,Q27971968,,Milton Keynes (constituency)
+Milton,Middleton,Q2228410,3,0,2,"suburb of Milton Keynes, England","Middleton, Milton Keynes|Middleton, Buckinghamshire|Milton Keynes Village",Q188509,,"Middleton, Milton Keynes"
+Milton,Marshall Arena,Q4788819,3,0,2,event venue in Milton Keynes,Arena:MK|Milton Keynes Arena,Q641226,,Arena MK
+Milton,Milton Keynes North,Q1053398,3,0,2,"Parliamentary constituency in the United Kingdom, 2010 onwards",,Q27971968,,Milton Keynes North
+Milton,Milton Keynes South,Q1053383,3,0,2,"Parliamentary constituency in the United Kingdom, 2010-2024",,Q27971968,,Milton Keynes South
+Milton,Milton Keynes DAB,Q135306212,3,0,2,small-scale DAB multiplex,MiltonKeynes DAB|Milton Keynes,Q5204199,,
+Bracebridge,Bracebridge,Q896553,4,0,1,"town in Muskoka district, Ontario, Canada","Bracebridge, Ontario|Bracebridge, ON",Q15210668,,"Bracebridge, Ontario"
+Bracebridge,Bracebridge Capital,Q29097716,4,0,1,Largest female-managed hedge fund globally,Bracebridge|Bracebridge Capital LLC,Q1589009|Q4830453,,Bracebridge Capital
+Bracebridge,Bracebridge Heath,Q4953229,4,0,1,"village in Lincolnshire, England, UK","Bracebridge Heath, Lincolnshire",Q532|Q1115575,,Bracebridge Heath
+Bracebridge,Bracebridge,Q61337167,4,0,1,family name,,Q101352,,
+Bracebridge,Bracebridge River,Q22582228,4,0,1,"watercourse in Nunavut, Canada",,Q4022,,
+Bracebridge,Bracebridge,Q4953222,4,0,1,"village in Lincolnshire, England, UK","Bracebridge, Lincolnshire",Q532,,"Bracebridge, Lincolnshire"
+Bracebridge,Bracebridge,Q63518968,4,0,1,"parish of Bathurst County, New South Wales, Australia",Parish of Bracebridge|Bracebridge Parish,Q28931760,,
+Bracebridge,Bracebridge Hemyng,Q52150088,4,0,1,English writer; (1841-1901),Samuel Bracebridge Heming,Q5,,Bracebridge Hemyng
+Bracebridge,Bracebridge,Q15204097,4,0,1,"area in Worksop, Nottinghamshire, England, UK",,Q188509,,"Bracebridge, Nottinghamshire"
+Bracebridge,Bracebridge,Q28163670,4,0,1,Canadian aerodrome,,Q62447,,Bracebridge (Stone Wall Farm) Aerodrome
+Bracebridge,"Bracebridge, Ontario railway station",Q2388917,4,0,2,"railway station in Ontario, Canada",,Q55488,,Bracebridge station

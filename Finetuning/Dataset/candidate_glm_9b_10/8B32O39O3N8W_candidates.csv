@@ -1,0 +1,85 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Felsenmeer,Felsenmeer,Q47003806,0,0,1,"nature preserve in Hemer, Germany",,Q759421|Q473972,,
+Felsenmeer,Felsenmeer,Q1404266,0,0,1,"geotope in Hemer, Germany",,Q372363,,
+Felsenmeer,Felsenmeer,Q1404264,0,0,1,"geotope in Hesse, Germany",,Q372363|Q740445,,
+Felsenmeer,Felsenmeer,Q16622634,0,0,1,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Felsenmeer,Der Hansteinsgraben bei Niederofleiden,Q117450642,0,0,1,"natural monument of Hesse, Germany",Der Handsteinsgraben|Felsenmeer,Q21573182|Q2143837,,
+Felsenmeer,Felsenmeer mit Höhlen,Q47003821,0,0,1,"protected area in the European Union defined by the habitats directive in Nordrhein-Westfalen, Germany",,Q796174|Q1191622|Q60534895,,
+Felsenmeer,Felsenmeer (Murrhardt),Q28328850,0,0,1,,,Q21573182|Q372363,,
+Felsenmeer,Felsenmeermuseum,Q1404267,0,0,1,"local museum in Hemer, Germany",,Q1595639,,
+Felsenmeer,blockfield,Q1709247,0,0,1,"a surface covered by angular rocks, a landform result of periglaciation",boulder field|boulders chaos,,Q372363,Blockfield
+Felsenmeer,"Felsenmeer, Russenstein, Naturpark Michelsbrunnen",Q16750809,0,0,1,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Felsenmeer,Felsenmeer,Q47003806,1,0,1,"nature preserve in Hemer, Germany",,Q759421|Q473972,,
+Felsenmeer,Felsenmeer,Q1404266,1,0,1,"geotope in Hemer, Germany",,Q372363,,
+Felsenmeer,Felsenmeer,Q1404264,1,0,1,"geotope in Hesse, Germany",,Q372363|Q740445,,
+Felsenmeer,Felsenmeer,Q16622634,1,0,1,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Felsenmeer,Der Hansteinsgraben bei Niederofleiden,Q117450642,1,0,1,"natural monument of Hesse, Germany",Der Handsteinsgraben|Felsenmeer,Q21573182|Q2143837,,
+Felsenmeer,Felsenmeer mit Höhlen,Q47003821,1,0,1,"protected area in the European Union defined by the habitats directive in Nordrhein-Westfalen, Germany",,Q796174|Q1191622|Q60534895,,
+Felsenmeer,Felsenmeer (Murrhardt),Q28328850,1,0,1,,,Q21573182|Q372363,,
+Felsenmeer,Felsenmeermuseum,Q1404267,1,0,1,"local museum in Hemer, Germany",,Q1595639,,
+Felsenmeer,blockfield,Q1709247,1,0,1,"a surface covered by angular rocks, a landform result of periglaciation",boulder field|boulders chaos,,Q372363,Blockfield
+Felsenmeer,"Felsenmeer, Russenstein, Naturpark Michelsbrunnen",Q16750809,1,0,1,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch,Q108131788,2,0,1,,,Q188040,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch,Q57278621,2,0,1,,,Q188040|Q372363|Q1404150,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch SW von Theisseil,Q58451483,2,0,1,"Geotop in Landkreis Neustadt a. d. Waldnaab, Lkr. (Stadt) in Bavaria, Germany",,Q1404150|Q372363,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch an der Luhe E von Michldorf,Q59244653,2,0,1,"Geotop in Landkreis Neustadt a. d. Waldnaab, Lkr. (Stadt) in Bavaria, Germany",,Q188040|Q372363,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch W von Waldau,Q59244657,2,0,1,"Geotop in Landkreis Neustadt a. d. Waldnaab, Lkr. (Stadt) in Bavaria, Germany",,Q188040|Q372363,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch NW von Leuchtenberg,Q59244656,2,0,1,"Geotop in Landkreis Neustadt a. d. Waldnaab, Lkr. (Stadt) in Bavaria, Germany",,Q188040|Q372363,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch bei Oberschleif,Q59244651,2,0,1,"Geotop in Landkreis Neustadt a. d. Waldnaab, Lkr. (Stadt) in Bavaria, Germany",,Q188040|Q372363,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch am Buchberg bei Münster,Q57278784,2,0,1,,,Q188040|Q372363|Q3350846,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch NW von Kirchgattendorf,Q58461278,2,0,1,"Geotop in Landkreis Hof in Bavaria, Germany",,Q1973416|Q3350846|Q372363|Q21573182,,
+Ehemaliger Steinbruch,Ehemaliger Steinbruch Osseck a. Wald,Q58460035,2,0,1,"Geotop in Landkreis Hof in Bavaria, Germany",,Q3350846|Q1327465|Q372363|Q21573182,,
+Bogenberg,Bogenberg,Q18410858,3,0,1,mountain in Germany,,Q8502|Q372363|Q2107707,,
+Bogenberg,Bogenberg,Q18616787,3,0,1,"settlement in the municipaliyt of Bogen, Germany",,Q486972|Q253019|Q1493533,,
+Bogenberg,Bogenberg,Q58870987,3,0,1,"nature reserve in Bavaria, Germany",,Q759421|Q473972,,
+Bogenberg,Bogenberg,Q121540398,3,0,1,,,Q123705|Q1138414|Q253019,,
+Bogenberg,Bogenberg 10,Q41406254,3,0,1,,,Q1516079,,
+Bogenberg,Pilgrimage Church of the Ascension,Q2542820,3,0,1,"roman catholic church on the Bogenberg, Bavaria, Germany",Bogenberg Pilgrimage Church|Wallfahrtskirche Mariä Himmelfahr|Wallfahrtskirche Bogenberg,Q10631691,,
+Bogenberg,Bogenberg 7,Q41406252,3,0,1,"building in Bogen, Lower Bavaria, Germany",,Q3947,,
+Bogenberg,Bogenberger,Q131125491,3,0,1,family name,,Q101352,,
+Bogenberg,Bogenberg,Q32945300,3,0,1,human settlement in Germany,,Q262166|Q116457956,,
+Bogenberg,Ariela Bogenberger,Q659476,3,0,1,German screenwriter and journalist,,Q5,,Ariela Bogenberger
+Teufelsmauer,Teufelsmauer,Q1494979,4,0,1,extending about 12 miles on Harz mountain range,Teufelsmauer (Harz),Q372363|Q740445,,Teufelsmauer
+Teufelsmauer,Teufelsmauer,Q2407161,4,0,1,rock massif in the valley of the Black Pockau river in eastern Germany,,,,Teufelsmauer (Ore Mountains)
+Teufelsmauer,Teufelsmauer,Q2407167,4,0,1,"Rock in Wachau Valley, Lower Austria",,Q1404150,,
+Teufelsmauer,Teufelsmauer,Q101667840,4,0,1,"street in Blankenburg (Harz), Saxony-Anhalt, Germany",,Q79007,,
+Teufelsmauer,Teufelsmauer und Bode nordöstlich Thale,Q17127666,4,0,1,"nature reserve in Sachsen-Anhalt, Germany",,Q759421|Q473972,,
+Teufelsmauer,Teufelsmauer nördlich Thale,Q60662050,4,0,1,"protected area in the European Union defined by the habitats directive in Sachsen-Anhalt, Germany",,Q1191622,,
+Teufelsmauer,Teufelsmauerweg,Q101987579,4,0,1,"street in Thale, Saxony-Anhalt, Germany",,Q79007,,
+Teufelsmauer,Teufelsmauerstraße,Q101987576,4,0,1,"street in Thale, Saxony-Anhalt, Germany",,Q79007,,
+Teufelsmauer,Teufelsmauer,Q57994665,4,0,1,"natural monument in Murrhardt, Baden-Württemberg, Germany",,Q21573182,,
+Teufelsmauer,Čertova zeď,Q2407174,4,0,1,protected area in Czech Republic,,Q11789735|Q473972,,
+Teufelsmauer,Devil's Wall,Q20499020,4,0,2,,,Q631305|Q164240,,
+Steinernes Meer,Steinernes Meer,Q263635,5,0,1,mountain range in the Berchtesgaden Alps along the border of Austria and Germany,,Q3777462|Q113320279,,Steinernes Meer
+Steinernes Meer,Steinernes Meer,Q1690102,5,0,1,"nature reserve in Lower Saxony, Germany",,Q759421|Q473972,,
+Steinernes Meer,Steinernes Meer,Q31518973,5,0,1,"mountain in Bavaria, Germany",Steinernes Meer am Berghaus Rhön SE von Riedenberg,Q631305|Q1709247|Q372363,,
+Steinernes Meer,Berchtesgaden Alps,Q679384,5,0,1,mountain range of the Northern Limestone Alps,Berchtesgadener Alpen,Q3965305,,Berchtesgaden Alps
+Steinernes Meer,Steinernes Meer am Plöckenstein,Q57262449,5,0,1,,,Q1709247|Q372363,,
+Steinernes Meer,flint fields,Q1409723,5,0,1,"large natural deposit of flint on Rügen, Germany",Feuersteinfelder bei Mukran|flint field,Q56418520,,
+Steinernes Meer,Steinernes Meer,Q1691531,5,0,1,,,Q55471069,,
+Steinernes Meer,Steinernes Meer,Q95987158,5,0,1,,,Q13442814,,
+Steinernes Meer,Steinernes Meer am Großen Berg,Q139695034,5,0,1,"natural monument in Saxony, Germany",,Q372363|Q21573182,,
+Steinernes Meer,Steinernes Meer,Q2340573,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Steinernes Meer,"Stone seated Buddha in Yongjangsagok valley, Namsan Mountain, Gyeongju",Q12583853,5,0,2,,,Q1000809,,
+Steinernes Meer,"Stone Seated Buddha at Ganwolsa Temple Site, Ulju",Q12582561,5,0,2,Korean cultural heritage item,,Q210272|Q179700,,
+Steinernes Meer,Yeongam Dogapsa Stone Seated Buddha Statue,Q12607411,5,0,2,Korean cultural heritage item,Stone Seated Buddha of Dogapsa Temple in Yeongam,Q210272|Q179700,,
+Steinernes Meer,"Stone seated Buddha statue at Bonghaksa Temple site, Goesan",Q12598639,5,0,2,Korean cultural heritage item,,Q210272|Q179700,,
+Steinernes Meer,"Stone seated Buddha statue in Haepyeong-ri, Gumi",Q12585422,5,0,2,Korean cultural heritage item,,Q210272|Q179700,,
+Steinernes Meer,Stone seal,Q103309095,5,0,2,sculpture by Artist Unknown,,Q162919,,
+Steinernes Meer,Gatbawi,Q5526956,5,0,2,statue in South Korea,"Stone Seated Medicine Buddha at Gwan Peak, Mt. Palgong in Gyeongsan",Q179700,,Gatbawi
+Steinernes Meer,stone sealer,Q7619080,5,0,2,methods used to protect natural stone,,,Q1874510,Stone sealer
+Steinernes Meer,"Stone Seated Vairocana Buddha from Yongamsa Temple, Cheongju in South Korea",Q18176084,5,0,2,,,Q11585154,,
+Steinernes Meer,Stone Seated Vairochana Buddha at Biroam Hermitage in Donghwasa Temple,Q16092877,5,0,2,Korean cultural heritage item,,Q210272,,
+Wolfenstein,Wolfenstein,Q4357563,6,0,1,video game series,,Q7058673,,Wolfenstein
+Wolfenstein,Wolfenstein,Q1165728,6,0,1,2009 first-person shooter video game,,Q111223304,,Wolfenstein (2009 video game)
+Wolfenstein,Wolfenstein,Q47462066,6,0,1,family name,,Q101352,,
+Wolfenstein,Wolfenstein,Q321467,6,0,1,"rock formation in Bavaria, Germany",,Q1404150|Q372363|Q729136|Q21573182,,Wolfenstein (rock)
+Wolfenstein,Wolfenstein 3D,Q18940,6,0,1,1992 first-person shooter video game,,Q7889,,Wolfenstein 3D
+Wolfenstein,Wolfenstein II: The New Colossus,Q30276412,6,0,1,2017 video game,Wolfenstein: The New Colossus|Wolfenstein The New Colossus,Q7889,,Wolfenstein II: The New Colossus
+Wolfenstein,Wolfenstein: The New Order,Q12956031,6,0,1,2014 first person shooter video game,Wolfenstein The New Order,Q7889,,Wolfenstein: The New Order
+Wolfenstein,Wolfenstein: Youngblood,Q54913467,6,0,1,2019 first-person shooter video game,Wolfenstein Youngblood|Wolfenstein: Young Blood|Wolfenstein Young Blood,Q7889,,Wolfenstein: Youngblood
+Wolfenstein,Wolfenstein: Enemy Territory,Q873037,6,0,1,2003 video game,,Q7889|Q112144412,,Wolfenstein: Enemy Territory
+Wolfenstein,Wolfenstein: The Old Blood,Q19515406,6,0,1,2015 video game,,Q7889,,Wolfenstein: The Old Blood
+Wolfenstein,Wolfenstein 3D engine,Q4020662,6,0,2,game engine developed by id Software,Wolf3d engine|id Tech 0,Q193564,,Wolfenstein 3D engine
+Wolfenstein,Spear of Destiny,Q921220,6,0,2,1992 video game,,Q7889,,Spear of Destiny (video game)
+Wolfenstein,Wolfenstein: The New Order Original Game Soundtrack,Q17151667,6,0,2,album by Mick Gordon,Wolfenstein: The New Order - Soundtrack,Q482994,,Wolfenstein: The New Order (soundtrack)

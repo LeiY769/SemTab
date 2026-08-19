@@ -1,0 +1,38 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2007nr,SN 2007nr,Q9330664,0,0,1,supernova,,Q3937,,
+SN 2007nr,SN 2006gy,Q644956,0,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2007nr,SN 2006X,Q2659966,0,0,2,supernova,,Q3937,,SN 2006X
+SN 2007nr,SN 2005cs,Q597168,0,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2007nr,SN 2006jc,Q1747732,0,0,2,supernova,,Q3937,,SN 2006jc
+SN 2007nr,SN 2002cx,Q7391949,0,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2007nr,SN 2004et,Q9329248,0,0,2,supernova,,Q3937,,SN 2004et
+SN 2007nr,SN 2006rs,Q9330210,0,0,2,supernova,,Q3937,,
+SN 2007nr,SN 2008cs,Q9330949,0,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2007nr,SN 2002dj,Q9328532,0,0,2,supernova,,Q3937,,
+SN 2007nr,SN 2006td,Q9330246,0,0,2,supernova,,Q3937,,
+SN 2007jt,SN 2007jt,Q9330559,1,0,1,supernova,,Q3937,,
+SN 2007jr,SN 2007jr,Q9330558,2,0,1,supernova,,Q3937,,
+SN 2007jr,SN 2006gy,Q644956,2,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2007jr,SN 2006X,Q2659966,2,0,2,supernova,,Q3937,,SN 2006X
+SN 2007jr,SN 2005cs,Q597168,2,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2007jr,SN 2006jc,Q1747732,2,0,2,supernova,,Q3937,,SN 2006jc
+SN 2007jr,SN 2002cx,Q7391949,2,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2007jr,SN 2004et,Q9329248,2,0,2,supernova,,Q3937,,SN 2004et
+SN 2007jr,SN 2006rs,Q9330210,2,0,2,supernova,,Q3937,,
+SN 2007jr,SN 2008cs,Q9330949,2,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2007jr,SN 2002dj,Q9328532,2,0,2,supernova,,Q3937,,
+SN 2007jr,SN 2006td,Q9330246,2,0,2,supernova,,Q3937,,
+SN 2007js,SN 2007js,Q9330557,3,0,1,supernova,,Q3937|Q67206691,,
+SN 2007js,supernova,Q3937,3,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2007js,Senegal,Q1041,3,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2007js,substantia nigra,Q753278,3,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2007js,tin,Q1096,3,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2007js,Great Norwegian Encyclopedia,Q746368,3,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2007js,snowboarding,Q178131,3,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2007js,SNAC,Q29861311,3,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2007js,Science News,Q2313730,3,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2007js,Shona Wikipedia,Q8571809,3,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2007js,SciGraph,Q65509402,3,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2007jp,SN 2007jp,Q9330556,4,0,1,supernova,,Q3937,,
+SN 2007jq,SN 2007jq,Q9330555,5,0,1,supernova,,Q3937,,
+SN 2007jo,SN 2007jo,Q9330554,6,0,1,supernova,,Q3937,,

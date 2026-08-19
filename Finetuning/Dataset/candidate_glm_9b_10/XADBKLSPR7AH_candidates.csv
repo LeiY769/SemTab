@@ -1,0 +1,485 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+N-S 13,N-S 13,Q62274007,0,0,1,,,Q61826171|Q811683,,
+N-S 13,Fortification subsection Bratislava,Q12046005,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsections 9.–10./V. Deštné,Q61955639,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection 1./XI. Šatov,Q12046000,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection 3./XI. Mikulov,Q12046002,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection 5./XI. Horní Dyje,Q12046004,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsections 11.–12./V. Kunštát,Q61955640,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection 3./IV. Milostovice,Q61957184,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection 2./XI. Hevlín,Q12046001,0,0,2,,,Q61815465,,
+N-S 13,Fortification subsection Vrbno,Q98594647,0,0,2,,,Q61815465,,
+Fortification subsections 11.–12./V. Kunštát,Fortification subsections 11.–12./V. Kunštát,Q61955640,0,1,1,,,Q61815465,,
+Fortification subsections 11.–12./V. Kunštát,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,0,1,2,,,Q61815465,,
+Fortification subsections 11.–12./V. Kunštát,Fortification subsections 9.–10./V. Deštné,Q61955639,0,1,2,,,Q61815465,,
+Fortification subsections 11.–12./V. Kunštát,Kunštát,Q1381784,0,1,2,town in the Czech Republic,,Q5153359|Q15978299,,Kunštát
+Fortification subsections 11.–12./V. Kunštát,Kunštát,Q1792758,0,1,2,,,Q532|Q20871353|Q329245,,
+Fortification subsections 11.–12./V. Kunštát,Kunštát Castle,Q750133,0,1,2,national monument of the Czech Republic,,Q751876,,Kunštát Castle
+Fortification subsections 11.–12./V. Kunštát,Kunštátská,Q45287739,0,1,2,"street in Poděbrady, Czech Republic",,Q79007,,
+Fortification subsections 11.–12./V. Kunštát,Kunštátská,Q44679416,0,1,2,"street in Brno, Czech Republic",,Q79007,,
+Fortification subsections 11.–12./V. Kunštát,Kunštátská,Q45967857,0,1,2,"street in Znojmo, Czech Republic",,Q79007,,
+Fortification subsections 11.–12./V. Kunštát,Kunstat family,Q20825777,0,1,2,Moravian Royals.,,Q13417114,,
+Fortification subsections 11.–12./V. Kunštát,Kunštát Judicial District,Q76656373,0,1,2,,,Q15687338,,
+Fortification subsections 11.–12./V. Kunštát,Kunštátská kaple,Q1792761,0,1,2,chapel in Czech Republic,,Q108325,,
+Fortification subsections 11.–12./V. Kunštát,"Kunstatelier Mariette Teugels ""De Cellekens""",Q33100500,0,1,2,,,Q2190251|Q1329623,,
+Fortification subsections 11.–12./V. Kunštát,N-S 13,Q62274007,0,1,2,,,Q61826171|Q811683,,
+StM-S 19,StM-S 19,Q98605446,1,0,1,,,Q61826171|Q811683,,
+Fortification subsection 4./I. Sušina,Fortification subsection 4./I. Sušina,Q61957938,1,1,1,,,Q61815465,,
+Fortification subsection 4./I. Sušina,StM-S 19,Q98605446,1,1,2,,,Q61826171|Q811683,,
+Fortification subsection 4./I. Sušina,Fortification subsection Bratislava,Q12046005,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsections 9.–10./V. Deštné,Q61955639,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection 1./XI. Šatov,Q12046000,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection 3./XI. Mikulov,Q12046002,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection 5./XI. Horní Dyje,Q12046004,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsections 11.–12./V. Kunštát,Q61955640,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection 3./IV. Milostovice,Q61957184,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection 2./XI. Hevlín,Q12046001,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Fortification subsection Vrbno,Q98594647,1,1,2,,,Q61815465,,
+Fortification subsection 4./I. Sušina,Sušina,Q12057297,1,1,2,mountain in Czech Republic,,Q8502,,
+Fortification subsection 4./I. Sušina,plum,Q12372598,1,1,2,fruit; use Q6401215 for the taxon; Q13223298 for the species,plums,Q25403900,Q14712|Q3314483,Plum
+Fortification subsection 4./I. Sušina,dry matter,Q393855,1,1,2,technique of measuring animal feed contents,dry mass|dry weight,,Q11423,Dry matter
+Fortification subsection 4./I. Sušina,Susina Plantation,Q7649088,1,1,2,"historic plantation house also known as Cedar Grove, near Thomasville, Georgia",,Q41176,,Susina Plantation
+Fortification subsection 4./I. Sušina,Susina Amat,Q66587115,1,1,2,,,Q5,,
+Fortification subsection 4./I. Sušina,Susina della rosa PAT,Q140654829,1,1,2,"traditional Italian fruit, vegetable or cereal product (PAT)",pruna a rosa|pruno rosa|Santa Rosa,Q11827455,,
+Fortification subsection 4./I. Sušina,Susina gialla di Lio Piccolo PAT,Q140659436,1,1,2,"traditional Italian fruit, vegetable or cereal product (PAT)",,Q11827455,,
+Fortification subsection 4./I. Sušina,Susina marmulegna PAT,Q140653784,1,1,2,"traditional Italian fruit, vegetable or cereal product (PAT)",,Q11827455,,
+Fortification subsection 4./I. Sušina,Susina pazza PAT,Q140653786,1,1,2,"traditional Italian fruit, vegetable or cereal product (PAT)",,Q11827455,,
+Fortification subsection 4./I. Sušina,Susina Primary School,Q67494005,1,1,2,"primary school in Paschim Medinipur district, West Bengal, India",,Q19855165|Q9842|Q11902693,,
+Fortification subsection 4./I. Sušina,StM-S 32 Krajní casemate,Q98601579,1,1,2,,,Q61826171,,
+Fortification subsection 4./I. Sušina,StM-S 31a Borek casemate,Q98601494,1,1,2,,,Q61826171,,
+Fortification subsection 4./I. Sušina,StM-S 30 Potok casemate,Q98601492,1,1,2,,,Q61826171,,
+Fortification subsection 4./I. Sušina,StM-S 34 Svah casemate,Q98601581,1,1,2,,,Q61826171,,
+Fortification subsection 4./I. Sušina,StM-S 33 Lesík casemate,Q98601580,1,1,2,,,Q61826171|Q33506,,
+Fortification subsection 4./I. Sušina,StM-S 31b Ozdravovna casemate,Q98601496,1,1,2,,,Q61826171|Q33506,,
+Fortification subsection 4./I. Sušina,StM-S 12,Q98605679,1,1,2,,,Q61826171|Q811683,,
+Fortification subsection 4./I. Sušina,StM-S 7,Q98605676,1,1,2,,,Q61826171|Q811683,,
+Fortification subsection 4./I. Sušina,StM-S 39 Sedlo,Q98601586,1,1,2,,,Q61826171|Q811683,,
+Fortification subsection 4./I. Sušina,StM-S 35,Q98601582,1,1,2,,,Q61826171|Q811683,,
+Li-C-S 2 U pily,Li-C-S 2 U pily,Q61793930,2,0,1,,,Q61826171|Q811683,,
+Li-C-S 2 U pily,fortification,Q57821,2,0,2,military constructions and buildings designed for defense in warfare and military bases,defensive works|military structures|fortifications|military fortification,Q111972893,Q811979|Q6852233|Q97095925,Fortification
+Li-C-S 2 U pily,fortification,Q324326,2,0,2,branch of military science,,Q11862829,Q192386,
+Li-C-S 2 U pily,defense line,Q2973801,2,0,2,"line of troops and armament, fortified and set up to protect a high-value location during an armed conflict",fortification line,,Q57821|Q12057999,Defense line
+Li-C-S 2 U pily,fort,Q58091695,2,0,2,heraldic figure,fortification|fortress,Q43694649,,
+Li-C-S 2 U pily,Fortification,Q114904193,2,0,2,painting by Felix Courché,,Q3305213,,
+Li-C-S 2 U pily,Fortifications Map File Plans of Military Forts (NAID 305749),Q64179436,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Li-C-S 2 U pily,Fortifications of Vauban,Q833781,2,0,2,World Heritage site in France,,Q12057999,,Fortifications of Vauban
+Li-C-S 2 U pily,Fortification section XI. Trmice,Q109590457,2,0,2,system group of Czechoslovak pillboxes,XI. Trmice,Q1497364,,
+Li-C-S 2 U pily,Fortifications of Venlo,Q3393872,2,0,2,,,Q12057999,,
+Li-C-S 2 U pily,Fortification subsection Bratislava,Q12046005,2,0,2,,,Q61815465,,
+Li-C-S 2 U pily,subsection,Q5998839,2,0,2,taxonomic rank in botany,,Q427626|Q3100180|Q4389865,,
+Li-C-S 2 U pily,paragraph,Q194431,2,0,2,portion of text composed of one or more sentences,subsection,,Q234460|Q63872616,Paragraph
+Li-C-S 2 U pily,subsection,Q10861375,2,0,2,"rank in zoology, above superfamily",,Q427626|Q13578154,,
+Li-C-S 2 U pily,subsection,Q11883140,2,0,2,subdivision of a section in a legislative text,sub-section,Q2135465,Q110273170,
+Li-C-S 2 U pily,subsection of list of minor planets,Q1037701,2,0,2,Wikimedia list article,List of minor planets/51501–51600,Q13406463,,List of minor planets/51501–51600
+Li-C-S 2 U pily,Subsection I,Q63823603,2,0,2,scientific article published in 2015,,Q13442814,,
+Li-C-S 2 U pily,Subsection III,Q63823800,2,0,2,scientific article published in 2015,,Q13442814,,
+Li-C-S 2 U pily,SUBSECTION WAVELET TRANSFORMATION METHOD FOR DAMAGE DETECTIONS IN COMPLEX STRUCTURES,Q99407254,2,0,2,article published in 2008,,Q13442814,,
+Li-C-S 2 U pily,Subsection Mean Method for Relation Analysis of the Land Surface Temperature Field and the Fault:A Case Study of the Jiangshan-Shaoxing Fault Between Jinhua and Quzhou of Zhejiang Province,Q98547021,2,0,2,article published in 2009,,Q13442814,,
+Li-C-S 2 U pily,Subsection corrosion inhibition of acidic-oxidized polymer degradant in offshore oil field,Q129447686,2,0,2,scholarly article,,Q13442814,,
+Li-C-S 2 U pily,Polubný,Q12046261,2,0,2,village in Jablonec nad Nisou District of Liberec region,,Q61089180,,
+Li-C-S 2 U pily,Polubny,Q52183719,2,0,2,article in Otto's encyclopedia,,Q13433827,,
+Li-C-S 2 U pily,Polubný,Q110727699,2,0,2,,,Q20871353,,
+Li-C-S 2 U pily,Kořenov,Q1785841,2,0,2,village in Jablonec nad Nisou District of Liberec region,,Q5153359,,Kořenov
+Li-C-S 2 U pily,Kořenov railway station,Q18180335,2,0,2,"railway station in Kořenov, Czech Republic",,Q55488|Q82664802,,
+Li-C-S 2 U pily,Korenovsk,Q16971,2,0,2,"town in Krasnodar Krai, Russia",,Q7930989,,Korenovsk
+Li-C-S 2 U pily,Korenovsky District,Q918606,2,0,2,"municipal district in Krasnodar Krai, Russia",Korenovsky Municipal District,Q2198484,,Korenovsky District
+Li-C-S 2 U pily,Category:Rhizophoraceae,Q7331939,2,0,2,Wikimedia category,kořenová zelenina,Q4167836,,Category:Rhizophoraceae
+Li-C-S 2 U pily,Kořenovská,Q45195108,2,0,2,"street in Liberec, Czech Republic",,Q79007,,
+Li-C-S 2 U pily,Kořenov zastávka,Q18180336,2,0,2,railway stop in the Czech Republic,,Q55678,,
+Li-C-S 2 U pily,Korenovsk railway station,Q4232908,2,0,2,railway station in Russia,,Q55488,,
+Li-C-S 2 U pily,flag of Korenovsk,Q4486553,2,0,2,,Korenovsk flag,Q21850100,,
+Li-C-S 2 U pily,flag of Korenovsky District,Q4486556,2,0,2,,Korenovsky District flag,Q21850100,,
+Li-C-S 2 U pily,Harrachov,Q147816,2,0,2,town in the Czech Republic,,Q5153359|Q15978299,,Harrachov
+Li-C-S 2 U pily,Harrachov,Q12019242,2,0,2,part of Šluknov in Děčín District,,Q61089180,,
+Li-C-S 2 U pily,Harrachov,Q12019241,2,0,2,part of Rýmařov in Bruntál District,Harrachov (Rýmařov),Q61089180,,
+Li-C-S 2 U pily,Harrachovská,Q45423832,2,0,2,"street in Prague, Czech Republic",,Q79007,,
+Li-C-S 2 U pily,Harrachov,Q23858140,2,0,2,article in Otto's encyclopedia,,Q13433827,,
+Li-C-S 2 U pily,Harrachov railway station,Q17462839,2,0,2,"railway station in Harrachov, Czech Republic",,Q55488|Q82664802,,
+Li-C-S 2 U pily,Harrachovská hrobka (Horní Branná),Q1586075,2,0,2,,,Q381885,,
+Li-C-S 2 U pily,Harrachovská,Q46167661,2,0,2,"street in Jablonec nad Nisou, Czech Republic",,Q79007,,
+Li-C-S 2 U pily,Harrachova,Q46219353,2,0,2,"street in Planá nad Lužnicí, Czech Republic",,Q79007,,
+Li-C-S 2 U pily,Harrachovský palác,Q12019245,2,0,2,,,Q16560,,
+"Fortification subsection 1./VII. Polubný, Kořenov, Harrachov","Fortification subsection 1./VII. Polubný, Kořenov, Harrachov",Q61782136,2,1,1,,,Q61815465,,
+OP-S 4,OP-S 4,Q98594547,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 44 U regulace,Q98592032,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 49,Q98593895,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 48a Životice východ,Q98594625,3,0,1,,,Q12022155|Q811683,,
+OP-S 4,OP-S 46,Q98593891,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 43 U borového lesíka,Q98592030,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 45a,Q98592033,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 40 Pod hydrantem,Q98592024,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 41 U Gebaura,Q98592026,3,0,1,,,Q61826171|Q811683,,
+OP-S 4,OP-S 45b,Q98592036,3,0,1,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 7./IV. Štítina,Q61957191,3,1,1,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection Bratislava,Q12046005,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsections 9.–10./V. Deštné,Q61955639,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 1./XI. Šatov,Q12046000,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 3./XI. Mikulov,Q12046002,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 5./XI. Horní Dyje,Q12046004,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsections 11.–12./V. Kunštát,Q61955640,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 3./IV. Milostovice,Q61957184,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection 2./XI. Hevlín,Q12046001,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Fortification subsection Vrbno,Q98594647,3,1,2,,,Q61815465,,
+Fortification subsection 7./IV. Štítina,Štítina,Q392532,3,1,2,village in Opava District of Moravian Silesian region,,Q5153359,,Štítina
+Fortification subsection 7./IV. Štítina,Štítina (train station),Q9397000,3,1,2,"railway station in Štítina, Czech Republic",,Q55488,,
+Fortification subsection 7./IV. Štítina,Štítina,Q110216535,3,1,2,,,Q20871353,,
+Fortification subsection 7./IV. Štítina,Štítina,Q1428074,3,1,2,château in Czech Republic,,Q751876,,
+Fortification subsection 7./IV. Štítina,OP-S 4,Q98594547,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 44 U regulace,Q98592032,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 49,Q98593895,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 48a Životice východ,Q98594625,3,1,2,,,Q12022155|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 46,Q98593891,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 43 U borového lesíka,Q98592030,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 45a,Q98592033,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 40 Pod hydrantem,Q98592024,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 41 U Gebaura,Q98592026,3,1,2,,,Q61826171|Q811683,,
+Fortification subsection 7./IV. Štítina,OP-S 45b,Q98592036,3,1,2,,,Q61826171|Q811683,,
+T-St-S 78 casemate,T-St-S 78 casemate,Q12058115,4,0,1,,,Q11863092|Q811683,,
+T-St-S 78 casemate,Stachelberg,Q12055852,4,0,2,fortress in the Czech Republic,Ježová hora,Q11863091|Q33506,,Stachelberg
+T-St-S 78 casemate,Stachelberg,Q31312234,4,0,2,"hill in Thuringia, Germany",,Q54050,,
+T-St-S 78 casemate,Stachelberg: obr na prahu Krkonoš,Q121963900,4,0,2,book edition published in 2015,,Q3331189,,
+T-St-S 78 casemate,"Stachelberg: pevnost, která vstala z mrtvých",Q122004594,4,0,2,book edition published in 2017,,Q3331189,,
+T-St-S 78 casemate,Stachelberg-Brücke (Durnagelstrasse),Q96146652,4,0,2,"bridge in Linthal (GL), Switzerland",,Q12280,,
+T-St-S 78 casemate,Stachelbergbad,Q99520894,4,0,2,,,Q6882870,,
+T-St-S 78 casemate,Stachel-Berg,Q2325654,4,0,2,mountain in Germany,,Q8502|Q54050,,
+T-St-S 78 casemate,Stachelberg,Q21560611,4,0,2,Wikimedia disambiguation page,,Q4167410,,
+T-St-S 78 casemate,casemate,Q89521,4,0,2,a fortified or armoured gun position - may refer to fortifications on land or to structures on ships or on vehicles,casement,,Q863404|Q7978115|Q391414|Q57821,Casemate
+T-St-S 78 casemate,Casemate,Q15758966,4,0,2,magazine of the Fortress Study Group,,Q41298,,
+T-St-S 78 casemate,Casemate,Q20482307,4,0,2,painting by David II Teniers,,Q3305213,,
+T-St-S 78 casemate,central battery ironclad,Q5062077,4,0,2,"the central (or centre) battery ship, developed as a result of the Battle of Hampton Roads in 1862, during the American Civil War.",casemate ship|central battery ship,Q2235308,Q1410980,Central battery ship
+T-St-S 78 casemate,casemate ironclad,Q2604342,4,0,2,type of steam-powered warship in the 1800s,,Q2235308,Q1410980,Casemate ironclad
+T-St-S 78 casemate,Casemate Publishers,Q5048403,4,0,2,American publishing company,,Q4830453,,Casemate Publishers
+T-St-S 78 casemate,Casemates at Fort bij Vechten,Q18813680,4,0,2,,,Q2743716,,
+T-St-S 78 casemate,casemate K26 of Peel-Raam Line,Q17600520,4,0,2,"monument in Griendtsveen, Netherlands",,Q89521,,
+T-St-S 78 casemate,casemate K27 of Peel-Raam Line,Q17600521,4,0,2,"monument in Griendtsveen, Netherlands",,Q89521,,
+T-St-S 78 casemate,casemate K29 of Peel-Raam Line,Q17600527,4,0,2,"monument in Griendtsveen, Netherlands",,Q89521,,
+Stachelberg,Stachelberg,Q12055852,4,1,1,fortress in the Czech Republic,Ježová hora,Q11863091|Q33506,,Stachelberg
+Stachelberg,Stachelberg,Q31312234,4,1,1,"hill in Thuringia, Germany",,Q54050,,
+Stachelberg,Stachelberg: obr na prahu Krkonoš,Q121963900,4,1,1,book edition published in 2015,,Q3331189,,
+Stachelberg,"Stachelberg: pevnost, která vstala z mrtvých",Q122004594,4,1,1,book edition published in 2017,,Q3331189,,
+Stachelberg,Stachelberg-Brücke (Durnagelstrasse),Q96146652,4,1,1,"bridge in Linthal (GL), Switzerland",,Q12280,,
+Stachelberg,Stachelbergbad,Q99520894,4,1,1,,,Q6882870,,
+Stachelberg,Stachel-Berg,Q2325654,4,1,1,mountain in Germany,,Q8502|Q54050,,
+Stachelberg,Stachelberg,Q21560611,4,1,1,Wikimedia disambiguation page,,Q4167410,,
+T-JH-S 8,T-JH-S 8,Q62663268,5,0,1,,,Q61826172|Q811683,,
+T-JH-S 8,Jírová Hora,Q12027559,5,0,2,,,Q11863091|Q811683,,
+T-JH-S 8,Jírova hora,Q13033786,5,0,2,mountain in Czech Republic,,Q8502|Q54050,,Jírova hora
+Jírová Hora,Jírová Hora,Q12027559,5,1,1,,,Q11863091|Q811683,,
+Jírová Hora,Jírova hora,Q13033786,5,1,1,mountain in Czech Republic,,Q8502|Q54050,,Jírova hora
+Li-G-S 5,Li-G-S 5,Q61786621,6,0,1,,,Q61826171|Q811683,,
+Fortification subsection 2./VII. Mníšek,Fortification subsection 2./VII. Mníšek,Q61782137,6,1,1,,,Q61815465,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q1941300,6,1,2,village in Liberec District of Liberec Region,Einsiedel im Isergebirge|Mníšek u Liberce,Q5153359,,Mníšek
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q2427117,6,1,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Mníšek pod Brdy
+Fortification subsection 2./VII. Mníšek,Mníšek,Q45747476,6,1,2,"street in Vamberk, Czech Republic",,Q79007,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q12038394,6,1,2,village in Jindřichův Hradec District of South Bohemian region,,Q61089180|Q20871353,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q1073009,6,1,2,municipality of Slovakia,,Q6784672,,Mníšek nad Hnilcom
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q18180414,6,1,2,"railway station in Mníšek pod Brdy, Czech Republic",,Q55488,,
+Fortification subsection 2./VII. Mníšek,Mníšek v Krušných horách,Q1941286,6,1,2,village in Most District of Ústí nad Labem region,,Q61089180|Q902814|Q20871353,,Mníšek (Nová Ves v Horách)
+Fortification subsection 2./VII. Mníšek,Mníšek,Q96153065,6,1,2,"pond in Jindřichův Hradec, Czech Republic",,Q3253281,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Popradom,Q268625,6,1,2,municipality of Slovakia,Mníšek nad Popradom (Slovakia),Q6784672,,Mníšek nad Popradom
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q65169148,6,1,2,"railway station in Mníšek nad Hnilcom, Slovakia",,Q55488,,
+Three Small Links,Three Small Links,Q10957641,7,0,1,,,Q3918409|Q1322323|Q18984099,,
+Three Small Links,Three Links,Q3275016,7,0,2,Chinese 1979 foreign policy proposal,,Q3918409|Q29430681,,Three Links
+Three Small Links,Three Links,Q26282829,7,0,2,"building in Ixworth, St. Edmundsbury, Suffolk, England, UK",,Q41176,,
+Three Small Links,Three Links Meadows,Q49610702,7,0,2,,,Q18389975,,
+Three Small Links,Three Links Creek,Q49945001,7,0,2,"natural watercourse in Idaho County, Idaho, United States of America",,Q47521,,
+Three Small Links,Three Links Cattle Company,Q116442410,7,0,2,historical ranch in Arizona,,,,Three Links Cattle Company
+Three Small Links,Three Links Point,Q49471214,7,0,2,"cliff in Idaho County, Idaho, United States of America",,Q107679,,
+Three Small Links,Three Links of a Chain,Q111970351,7,0,2,"an Early Byzantine gold chain links dated to the last quarter of the 6th century, BZ.1955.10.3",,Q2142903,,
+Three Small Links,"Three Links of a Chain from Hagia Sophia, Constantinople",Q111969757,7,0,2,"a Byzantine, iron lamp chain potentially dated to the 14th century",,Q18593264,,
+Three Small Links,Three Links in a Golden Chain,Q134114122,7,0,2,scientific article published on 23 December 2020,,Q13442814,,
+Three Small Links,"Three links in the chain: Hewitt, Yadigaroglu and Sehgal",Q127369297,7,0,2,scholarly article,,Q13442814,,
+Three Links,Three Links,Q3275016,7,1,1,Chinese 1979 foreign policy proposal,,Q3918409|Q29430681,,Three Links
+Three Links,Three Links,Q26282829,7,1,1,"building in Ixworth, St. Edmundsbury, Suffolk, England, UK",,Q41176,,
+Three Links,Three Links Meadows,Q49610702,7,1,1,,,Q18389975,,
+Three Links,Three Links Creek,Q49945001,7,1,1,"natural watercourse in Idaho County, Idaho, United States of America",,Q47521,,
+Three Links,Three Links Cattle Company,Q116442410,7,1,1,historical ranch in Arizona,,,,Three Links Cattle Company
+Three Links,Three Links Point,Q49471214,7,1,1,"cliff in Idaho County, Idaho, United States of America",,Q107679,,
+Three Links,Three Links of a Chain,Q111970351,7,1,1,"an Early Byzantine gold chain links dated to the last quarter of the 6th century, BZ.1955.10.3",,Q2142903,,
+Three Links,"Three Links of a Chain from Hagia Sophia, Constantinople",Q111969757,7,1,1,"a Byzantine, iron lamp chain potentially dated to the 14th century",,Q18593264,,
+Three Links,Three Links in a Golden Chain,Q134114122,7,1,1,scientific article published on 23 December 2020,,Q13442814,,
+Three Links,"Three links in the chain: Hewitt, Yadigaroglu and Sehgal",Q127369297,7,1,1,scholarly article,,Q13442814,,
+Three Links,Three Small Links,Q10957641,7,1,2,,,Q3918409|Q1322323|Q18984099,,
+MD-S 1,MD-S 1,Q62387875,8,0,1,,,Q61826171|Q811683,,
+Fortification subsections 9.–10./V. Deštné,Fortification subsections 9.–10./V. Deštné,Q61955639,8,1,1,,,Q61815465,,
+OP-S 69,OP-S 69,Q98593929,9,0,1,,,Q61826171|Q811683,,
+OP-S 69,Fortification subsection Bratislava,Q12046005,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsections 9.–10./V. Deštné,Q61955639,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection 1./XI. Šatov,Q12046000,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection 3./XI. Mikulov,Q12046002,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection 5./XI. Horní Dyje,Q12046004,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsections 11.–12./V. Kunštát,Q61955640,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection 3./IV. Milostovice,Q61957184,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection 2./XI. Hevlín,Q12046001,9,0,2,,,Q61815465,,
+OP-S 69,Fortification subsection Vrbno,Q98594647,9,0,2,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,9,1,1,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q1628630,9,1,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Horní Benešov
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q97665609,9,1,2,,,Q4663385,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q56415809,9,1,2,,,Q56398194|Q61089180,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q110715613,9,1,2,,,Q20871353,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní benešovský rybník,Q96153360,9,1,2,"pond in Hodětín, Czech Republic",,Q3253281,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov 1253-2003,Q122126919,9,1,2,book edition published in 2003,,Q3331189,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 9.–10./V. Deštné,Q61955639,9,1,2,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 11.–12./V. Kunštát,Q61955640,9,1,2,,,Q61815465,,
+MJ-S 34 Rozcestí,MJ-S 34 Rozcestí,Q27777570,10,0,1,,,Q61826171|Q811683,,
+MJ-S 34 Rozcestí,Rozcestí,Q45923560,10,0,2,"street in Ústí nad Labem, Czech Republic",,Q79007,,
+MJ-S 34 Rozcestí,Rozcestí,Q46022999,10,0,2,"street in Brno, Czech Republic",,Q79007,,
+MJ-S 34 Rozcestí,Rozcestí,Q45316295,10,0,2,"street in Ostrava, Czech Republic",,Q79007,,
+MJ-S 34 Rozcestí,Rozcestí,Q12049936,10,0,2,village in Tachov District of Plzeň region,,Q61089180,,
+MJ-S 34 Rozcestí,Rozcestí,Q122012319,10,0,2,book edition published in 2018,,Q3331189,,
+MJ-S 34 Rozcestí,Rozcestí: básně,Q121938436,10,0,2,book edition published in 1918,,Q3331189,,
+MJ-S 34 Rozcestí,Rozcestí: novelly I,Q121981620,10,0,2,book edition published in 1932,,Q3331189,,
+MJ-S 34 Rozcestí,Rozcestí: jdi za hlasem svého srdce,Q121988312,10,0,2,book edition published in 2016,,Q3331189,,
+MJ-S 34 Rozcestí,3-way road junction,Q4388272,10,0,2,place where three roads go from a point into three directions (may be formed for example as letter T or letter Y),fork in the road,,Q285783|Q2221906,Three-way junction
+MJ-S 34 Rozcestí,Rozcestí Kopisty,Q136646517,10,0,2,,,Q2175765,,
+Fortification subsection 3./XI. Mikulov,Fortification subsection 3./XI. Mikulov,Q12046002,10,1,1,,,Q61815465,,
+Fortification subsection 3./XI. Mikulov,Mikulov,Q682544,10,1,2,town in the Czech Republic,,Q15978299|Q7819319|Q5153359|Q902814|Q7841907,,Mikulov
+Fortification subsection 3./XI. Mikulov,Mikołów,Q659905,10,1,2,"town in Silesian Voivodeship, in southern Poland",Nikolai|Nicolai|Mikulov|Mikołůw,Q2616791|Q515,,Mikołów
+Fortification subsection 3./XI. Mikulov,Mikulov,Q1934144,10,1,2,village in Teplice District of Ústí nad Labem region,,Q5153359,,Mikulov (Teplice District)
+Fortification subsection 3./XI. Mikulov,Mikulovská,Q44739714,10,1,2,"street in Valtice, Czech Republic",,Q79007,,
+Fortification subsection 3./XI. Mikulov,Mikulov,Q27645092,10,1,2,abandoned village in the Czech Republic,,Q350895|Q20871353,,
+Fortification subsection 3./XI. Mikulov,Mikulova,Q43388962,10,1,2,"street in Prague, Czech Republic",Mikulova (Prague),Q79007,,
+Fortification subsection 3./XI. Mikulov,Mikulov v Krušných horách railway stop,Q64566158,10,1,2,"railway stop in Mikulov, Czech Republic",,Q55678,,
+Fortification subsection 3./XI. Mikulov,Mikulov-Nové Město railway stop,Q64566558,10,1,2,"railway stop in Moldava, Czech Republic",,Q55678,,
+Fortification subsection 3./XI. Mikulov,Mikulovská,Q45989551,10,1,2,"street in Březí, Czech Republic",,Q79007,,
+Fortification subsection 3./XI. Mikulov,Mikulovice,Q1019838,10,1,2,village and municipality (obec) in Jeseník District in the Olomouc Region of the Czech Republic,,Q5153359,,Mikulovice (Jeseník District)
+Fortification subsection 3./XI. Mikulov,Rozcestí,Q45923560,10,1,2,"street in Ústí nad Labem, Czech Republic",,Q79007,,
+Fortification subsection 3./XI. Mikulov,Rozcestí,Q46022999,10,1,2,"street in Brno, Czech Republic",,Q79007,,
+Fortification subsection 3./XI. Mikulov,Rozcestí,Q45316295,10,1,2,"street in Ostrava, Czech Republic",,Q79007,,
+Fortification subsection 3./XI. Mikulov,Rozcestí,Q12049936,10,1,2,village in Tachov District of Plzeň region,,Q61089180,,
+Fortification subsection 3./XI. Mikulov,Rozcestí,Q122012319,10,1,2,book edition published in 2018,,Q3331189,,
+Fortification subsection 3./XI. Mikulov,Rozcestí: básně,Q121938436,10,1,2,book edition published in 1918,,Q3331189,,
+Fortification subsection 3./XI. Mikulov,Rozcestí: novelly I,Q121981620,10,1,2,book edition published in 1932,,Q3331189,,
+Fortification subsection 3./XI. Mikulov,Rozcestí: jdi za hlasem svého srdce,Q121988312,10,1,2,book edition published in 2016,,Q3331189,,
+Fortification subsection 3./XI. Mikulov,3-way road junction,Q4388272,10,1,2,place where three roads go from a point into three directions (may be formed for example as letter T or letter Y),fork in the road,,Q285783|Q2221906,Three-way junction
+Fortification subsection 3./XI. Mikulov,Rozcestí Kopisty,Q136646517,10,1,2,,,Q2175765,,
+Fortification subsection 3./XI. Mikulov,MJ-S 34 Rozcestí,Q27777570,10,1,2,,,Q61826171|Q811683,,
+Sterling area hydrogeological evaluation: Project proposal,Sterling area hydrogeological evaluation: Project proposal,Q63248851,11,0,1,,,Q13442814|Q3918409,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposal Files (NAID 1068198),Q66307929,11,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposals (NAID 57229583),Q64209199,11,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Sterling area hydrogeological evaluation: Project proposal,Project proposal of Maybe Long Hair; Maybe Che Guevara to Maybe Kim Chi Ha; Maybe Che Guevara: A proposal for Kwachoen Open Air Festival,Q106972381,11,0,2,(MCY-002241),,Q17524420,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposals and Other Records (NAID 837215),Q66143399,11,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposal Files (NAID 6124530),Q66189794,11,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposals for Burma (NAID 1741996),Q66275441,11,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Sterling area hydrogeological evaluation: Project proposal,Project Proposal,Q61152468,11,0,2,scientific article,,Q13442814,,
+Sterling area hydrogeological evaluation: Project proposal,Project proposal. Evaluating human health risk from low-dose and long-term exposure to polychlorinated biphenyls,Q63352047,11,0,2,scientific article published on 01 September 2000,,Q13442814,,
+Sterling area hydrogeological evaluation: Project proposal,Project proposals: How to assess,Q66946304,11,0,2,scientific article published on 01 March 1975,,Q13442814,,
+Sterling area hydrogeological evaluation: Project proposal,Hydrogeological evaluation of proposed landfill sites in the greater Auckland area (N.Z.) : Mt Wellington and Peach Hill Valley,Q112853293,11,0,2,1996 doctoral thesis by Parviz Namjou at University of Auckland,,Q187685,,
+Sterling area hydrogeological evaluation: Project proposal,Hydrogeological evaluation of managed aquifer recharge in a glacial moraine complex using long-term groundwater data analysis,Q125835813,11,0,2,scientific article published in 2020,,Q13442814,,
+Li-G-S 1,Li-G-S 1,Q61786612,12,0,1,,,Q61826171|Q811683,,
+Fortification subsection 2./VII. Mníšek,Fortification subsection 2./VII. Mníšek,Q61782137,12,1,1,,,Q61815465,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q1941300,12,1,2,village in Liberec District of Liberec Region,Einsiedel im Isergebirge|Mníšek u Liberce,Q5153359,,Mníšek
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q2427117,12,1,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Mníšek pod Brdy
+Fortification subsection 2./VII. Mníšek,Mníšek,Q45747476,12,1,2,"street in Vamberk, Czech Republic",,Q79007,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q12038394,12,1,2,village in Jindřichův Hradec District of South Bohemian region,,Q61089180|Q20871353,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q1073009,12,1,2,municipality of Slovakia,,Q6784672,,Mníšek nad Hnilcom
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q18180414,12,1,2,"railway station in Mníšek pod Brdy, Czech Republic",,Q55488,,
+Fortification subsection 2./VII. Mníšek,Mníšek v Krušných horách,Q1941286,12,1,2,village in Most District of Ústí nad Labem region,,Q61089180|Q902814|Q20871353,,Mníšek (Nová Ves v Horách)
+Fortification subsection 2./VII. Mníšek,Mníšek,Q96153065,12,1,2,"pond in Jindřichův Hradec, Czech Republic",,Q3253281,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Popradom,Q268625,12,1,2,municipality of Slovakia,Mníšek nad Popradom (Slovakia),Q6784672,,Mníšek nad Popradom
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q65169148,12,1,2,"railway station in Mníšek nad Hnilcom, Slovakia",,Q55488,,
+Artificial Intelligence Act,Artificial Intelligence Act,Q108456694,13,0,1,European Union regulation on artificial intelligence,AI Act|AIA|The EU Artificial Intelligence Act|EU AI Act|Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence ...,Q240141,,Artificial Intelligence Act
+Artificial Intelligence Act,Artificial Intelligence Action Summit,Q132201282,13,0,1,2025 international summit in France,AI Action Summit|2025 AI Action Summit|Paris AI summit|AI Action Summit 2025,Q1656682|Q18564543|Q1072326,,AI Action Summit 2025
+Artificial Intelligence Act,regulation of artificial intelligence,Q96482266,13,0,2,"policy, law and regulation on the development and use of artificial intelligence",artificial intelligence law|AI regulation|artificial intelligence regulation|AI laws|AI legal framework|regulation of AI|AI policy,Q96758092,Q428148,Regulation of artificial intelligence
+Artificial Intelligence Act,AI Regulation in the European Union and Trade Law: How Can Accountability of AI and a High Level of Consumer Protection Prevail over a Trade Discipline on Source Code?,Q110511574,13,0,2,scientific article,,Q13442814,,
+Artificial Intelligence Act,AI regulation: maintaining interoperability through value-sensitive standardisation,Q140925190,13,0,2,"scholarly article published in Ethics and Information Technology, vol. 27, no. 2 (2025) (DOI: 10.1007/S10676-025-09832-7)",,Q13442814,,
+T-St-S 71 casemate,T-St-S 71 casemate,Q12058106,14,0,1,,,Q61826172|Q811683,,
+T-St-S 71 casemate,Stachelberg,Q12055852,14,0,2,fortress in the Czech Republic,Ježová hora,Q11863091|Q33506,,Stachelberg
+T-St-S 71 casemate,Stachelberg,Q31312234,14,0,2,"hill in Thuringia, Germany",,Q54050,,
+T-St-S 71 casemate,Stachelberg: obr na prahu Krkonoš,Q121963900,14,0,2,book edition published in 2015,,Q3331189,,
+T-St-S 71 casemate,"Stachelberg: pevnost, která vstala z mrtvých",Q122004594,14,0,2,book edition published in 2017,,Q3331189,,
+T-St-S 71 casemate,Stachelberg-Brücke (Durnagelstrasse),Q96146652,14,0,2,"bridge in Linthal (GL), Switzerland",,Q12280,,
+T-St-S 71 casemate,Stachelbergbad,Q99520894,14,0,2,,,Q6882870,,
+T-St-S 71 casemate,Stachel-Berg,Q2325654,14,0,2,mountain in Germany,,Q8502|Q54050,,
+T-St-S 71 casemate,Stachelberg,Q21560611,14,0,2,Wikimedia disambiguation page,,Q4167410,,
+Stachelberg,Stachelberg,Q12055852,14,1,1,fortress in the Czech Republic,Ježová hora,Q11863091|Q33506,,Stachelberg
+Stachelberg,Stachelberg,Q31312234,14,1,1,"hill in Thuringia, Germany",,Q54050,,
+Stachelberg,Stachelberg: obr na prahu Krkonoš,Q121963900,14,1,1,book edition published in 2015,,Q3331189,,
+Stachelberg,"Stachelberg: pevnost, která vstala z mrtvých",Q122004594,14,1,1,book edition published in 2017,,Q3331189,,
+Stachelberg,Stachelberg-Brücke (Durnagelstrasse),Q96146652,14,1,1,"bridge in Linthal (GL), Switzerland",,Q12280,,
+Stachelberg,Stachelbergbad,Q99520894,14,1,1,,,Q6882870,,
+Stachelberg,Stachel-Berg,Q2325654,14,1,1,mountain in Germany,,Q8502|Q54050,,
+Stachelberg,Stachelberg,Q21560611,14,1,1,Wikimedia disambiguation page,,Q4167410,,
+T-S 92,T-S 92,Q61875880,15,0,1,,,Q61826171|Q811683,,
+Fortification subsection 7./VI. Rýchory,Fortification subsection 7./VI. Rýchory,Q61826955,15,1,1,,,Q61815465,,
+Fortification subsection 7./VI. Rýchory,Rýchory,Q45896120,15,1,2,"street in Žacléř, Czech Republic",,Q79007,,
+Fortification subsection 7./VI. Rýchory,Rýchory,Q12981949,15,1,2,"settlement in Žacléř, Czech Republic",,Q329245|Q20871353,,
+Fortification subsection 7./VI. Rýchory,Rýchory,Q2139018,15,1,2,mountain ridge in the Czech Republic,,Q46831,,Rýchory
+Fortification subsection 7./VI. Rýchory,Rýchory,Q122094562,15,1,2,book edition published in 2020,,Q3331189,,
+Fortification subsection 7./VI. Rýchory,Rýchory,Q12050576,15,1,2,,,Q12018178,,
+Fortification subsection 7./VI. Rýchory,Rýchory (přírodní památka),Q12050577,15,1,2,,,Q21100463|Q27670147,,
+Fortification subsection 7./VI. Rýchory,Rýchory,Q12050574,15,1,2,Wikimedia disambiguation page,,Q4167410,,
+Fortification subsection 7./VI. Rýchory,T-S 92,Q61875880,15,1,2,,,Q61826171|Q811683,,
+OP-Š-S 31 U cesty,OP-Š-S 31 U cesty,Q98593679,16,0,1,,,Q61826172|Q811683,,
+OP-Š-S 31 U cesty,Šibenice,Q10398807,16,0,2,,,Q11863091,,
+OP-Š-S 31 U cesty,Šibenice,Q67130957,16,0,2,,,Q1440300,,
+OP-Š-S 31 U cesty,Šibenice,Q23811891,16,0,2,mountain in Czech Republic,,Q8502,,
+OP-Š-S 31 U cesty,Šibenice,Q23811892,16,0,2,,,Q54050,,
+OP-Š-S 31 U cesty,Šibenice,Q91235721,16,0,2,,,Q54050,,
+OP-Š-S 31 U cesty,gallows,Q243778,16,0,2,structure for execution by hanging,scaffold,,Q811979|Q1183543,Gallows
+OP-Š-S 31 U cesty,Šibeniče,Q140454851,16,0,2,,,Q7366,,
+OP-Š-S 31 U cesty,Šibenice na popravišti,Q32796256,16,0,2,sculpture in Brno,,Q860861|Q575759,,
+OP-Š-S 31 U cesty,hangman,Q460875,16,0,2,word game,,Q15220419|Q2347716|Q2594402,,Hangman (game)
+OP-Š-S 31 U cesty,Šibenice Nové Město na Moravě,Q30622955,16,0,2,hill in the Czech Republic,,Q54050,,
+Šibenice,Šibenice,Q10398807,16,1,1,,,Q11863091,,
+Šibenice,Šibenice,Q67130957,16,1,1,,,Q1440300,,
+Šibenice,Šibenice,Q23811891,16,1,1,mountain in Czech Republic,,Q8502,,
+Šibenice,Šibenice,Q23811892,16,1,1,,,Q54050,,
+Šibenice,Šibenice,Q91235721,16,1,1,,,Q54050,,
+Šibenice,gallows,Q243778,16,1,1,structure for execution by hanging,scaffold,,Q811979|Q1183543,Gallows
+Šibenice,Šibeniče,Q140454851,16,1,1,,,Q7366,,
+Šibenice,Šibenice na popravišti,Q32796256,16,1,1,sculpture in Brno,,Q860861|Q575759,,
+Šibenice,hangman,Q460875,16,1,1,word game,,Q15220419|Q2347716|Q2594402,,Hangman (game)
+Šibenice,Šibenice Nové Město na Moravě,Q30622955,16,1,1,hill in the Czech Republic,,Q54050,,
+Li-G-S 8,Li-G-S 8,Q61786626,17,0,1,,,Q61826171|Q811683,,
+Fortification subsection 2./VII. Mníšek,Fortification subsection 2./VII. Mníšek,Q61782137,17,1,1,,,Q61815465,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q1941300,17,1,2,village in Liberec District of Liberec Region,Einsiedel im Isergebirge|Mníšek u Liberce,Q5153359,,Mníšek
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q2427117,17,1,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Mníšek pod Brdy
+Fortification subsection 2./VII. Mníšek,Mníšek,Q45747476,17,1,2,"street in Vamberk, Czech Republic",,Q79007,,
+Fortification subsection 2./VII. Mníšek,Mníšek,Q12038394,17,1,2,village in Jindřichův Hradec District of South Bohemian region,,Q61089180|Q20871353,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q1073009,17,1,2,municipality of Slovakia,,Q6784672,,Mníšek nad Hnilcom
+Fortification subsection 2./VII. Mníšek,Mníšek pod Brdy,Q18180414,17,1,2,"railway station in Mníšek pod Brdy, Czech Republic",,Q55488,,
+Fortification subsection 2./VII. Mníšek,Mníšek v Krušných horách,Q1941286,17,1,2,village in Most District of Ústí nad Labem region,,Q61089180|Q902814|Q20871353,,Mníšek (Nová Ves v Horách)
+Fortification subsection 2./VII. Mníšek,Mníšek,Q96153065,17,1,2,"pond in Jindřichův Hradec, Czech Republic",,Q3253281,,
+Fortification subsection 2./VII. Mníšek,Mníšek nad Popradom,Q268625,17,1,2,municipality of Slovakia,Mníšek nad Popradom (Slovakia),Q6784672,,Mníšek nad Popradom
+Fortification subsection 2./VII. Mníšek,Mníšek nad Hnilcom,Q65169148,17,1,2,"railway station in Mníšek nad Hnilcom, Slovakia",,Q55488,,
+N-S 38,N-S 38,Q62388172,18,0,1,,,Q61826171|Q811683,,
+N-S 38,fortification,Q57821,18,0,2,military constructions and buildings designed for defense in warfare and military bases,defensive works|military structures|fortifications|military fortification,Q111972893,Q811979|Q6852233|Q97095925,Fortification
+N-S 38,fortification,Q324326,18,0,2,branch of military science,,Q11862829,Q192386,
+N-S 38,defense line,Q2973801,18,0,2,"line of troops and armament, fortified and set up to protect a high-value location during an armed conflict",fortification line,,Q57821|Q12057999,Defense line
+N-S 38,fort,Q58091695,18,0,2,heraldic figure,fortification|fortress,Q43694649,,
+N-S 38,Fortification,Q114904193,18,0,2,painting by Felix Courché,,Q3305213,,
+N-S 38,Fortifications Map File Plans of Military Forts (NAID 305749),Q64179436,18,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+N-S 38,Fortifications of Vauban,Q833781,18,0,2,World Heritage site in France,,Q12057999,,Fortifications of Vauban
+N-S 38,Fortification section XI. Trmice,Q109590457,18,0,2,system group of Czechoslovak pillboxes,XI. Trmice,Q1497364,,
+N-S 38,Fortifications of Venlo,Q3393872,18,0,2,,,Q12057999,,
+N-S 38,Fortification subsection Bratislava,Q12046005,18,0,2,,,Q61815465,,
+N-S 38,Deštné,Q11774713,18,0,2,village in Opava District of Moravian Silesian region,,Q61089180,,
+N-S 38,Deštné v Orlických horách,Q1207487,18,0,2,village in Rychnov nad Kněžnou District of Hradec Králové region,,Q5153359,,Deštné v Orlických horách
+N-S 38,Deštné,Q110537200,18,0,2,article in Otto's encyclopedia,,Q13433827,,
+N-S 38,Jakartovice,Q1678812,18,0,2,village in Opava District of Moravian Silesian region,,Q5153359,,Jakartovice
+N-S 38,Deštné v Orlických horách - bývalá sklárna,Q38488312,18,0,2,,,Q1179791,,
+N-S 38,Deštné v Orlických horách na starých pohlednicích,Q122038105,18,0,2,book edition published in 2017,,Q3331189,,
+N-S 38,Deštné,Q110715377,18,0,2,,,Q20871353,,
+N-S 38,tropical forest,Q199403,18,0,2,specific ecosystem,tropical rainforest,,Q9444,Tropical rainforest
+N-S 38,temperate rainforest,Q845725,18,0,2,forest in the temperate zone with heavy rainfall,temperate rain forest,,Q3079197|Q9444,Temperate rainforest
+N-S 38,Rainforests of the Atsinanana,Q564321,18,0,2,madagascan World Heritage Sitie,,Q9444,,Rainforests of the Atsinanana
+Fortification subsections 9.–10./V. Deštné,Fortification subsections 9.–10./V. Deštné,Q61955639,18,1,1,,,Q61815465,,
+N-S 42,N-S 42,Q62388176,19,0,1,,,Q61826171|Q811683,,
+N-S 42,fortification,Q57821,19,0,2,military constructions and buildings designed for defense in warfare and military bases,defensive works|military structures|fortifications|military fortification,Q111972893,Q811979|Q6852233|Q97095925,Fortification
+N-S 42,fortification,Q324326,19,0,2,branch of military science,,Q11862829,Q192386,
+N-S 42,defense line,Q2973801,19,0,2,"line of troops and armament, fortified and set up to protect a high-value location during an armed conflict",fortification line,,Q57821|Q12057999,Defense line
+N-S 42,fort,Q58091695,19,0,2,heraldic figure,fortification|fortress,Q43694649,,
+N-S 42,Fortification,Q114904193,19,0,2,painting by Felix Courché,,Q3305213,,
+N-S 42,Fortifications Map File Plans of Military Forts (NAID 305749),Q64179436,19,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+N-S 42,Fortifications of Vauban,Q833781,19,0,2,World Heritage site in France,,Q12057999,,Fortifications of Vauban
+N-S 42,Fortification section XI. Trmice,Q109590457,19,0,2,system group of Czechoslovak pillboxes,XI. Trmice,Q1497364,,
+N-S 42,Fortifications of Venlo,Q3393872,19,0,2,,,Q12057999,,
+N-S 42,Fortification subsection Bratislava,Q12046005,19,0,2,,,Q61815465,,
+N-S 42,Deštné,Q11774713,19,0,2,village in Opava District of Moravian Silesian region,,Q61089180,,
+N-S 42,Deštné v Orlických horách,Q1207487,19,0,2,village in Rychnov nad Kněžnou District of Hradec Králové region,,Q5153359,,Deštné v Orlických horách
+N-S 42,Deštné,Q110537200,19,0,2,article in Otto's encyclopedia,,Q13433827,,
+N-S 42,Jakartovice,Q1678812,19,0,2,village in Opava District of Moravian Silesian region,,Q5153359,,Jakartovice
+N-S 42,Deštné v Orlických horách - bývalá sklárna,Q38488312,19,0,2,,,Q1179791,,
+N-S 42,Deštné v Orlických horách na starých pohlednicích,Q122038105,19,0,2,book edition published in 2017,,Q3331189,,
+N-S 42,Deštné,Q110715377,19,0,2,,,Q20871353,,
+N-S 42,tropical forest,Q199403,19,0,2,specific ecosystem,tropical rainforest,,Q9444,Tropical rainforest
+N-S 42,temperate rainforest,Q845725,19,0,2,forest in the temperate zone with heavy rainfall,temperate rain forest,,Q3079197|Q9444,Temperate rainforest
+N-S 42,Rainforests of the Atsinanana,Q564321,19,0,2,madagascan World Heritage Sitie,,Q9444,,Rainforests of the Atsinanana
+Fortification subsections 9.–10./V. Deštné,Fortification subsections 9.–10./V. Deštné,Q61955639,19,1,1,,,Q61815465,,
+OP-S 49,OP-S 49,Q98593895,20,0,1,,,Q61826171|Q811683,,
+OP-S 49,Fortification subsection Bratislava,Q12046005,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsections 9.–10./V. Deštné,Q61955639,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection 1./XI. Šatov,Q12046000,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection 3./XI. Mikulov,Q12046002,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection 5./XI. Horní Dyje,Q12046004,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsections 11.–12./V. Kunštát,Q61955640,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection 3./IV. Milostovice,Q61957184,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection 2./XI. Hevlín,Q12046001,20,0,2,,,Q61815465,,
+OP-S 49,Fortification subsection Vrbno,Q98594647,20,0,2,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 5.-6./IV. Horní Benešov,Q61957188,20,1,1,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q1628630,20,1,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Horní Benešov
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q97665609,20,1,2,,,Q4663385,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q56415809,20,1,2,,,Q56398194|Q61089180,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov,Q110715613,20,1,2,,,Q20871353,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní benešovský rybník,Q96153360,20,1,2,"pond in Hodětín, Czech Republic",,Q3253281,,
+Fortification subsections 5.-6./IV. Horní Benešov,Horní Benešov 1253-2003,Q122126919,20,1,2,book edition published in 2003,,Q3331189,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 9.–10./V. Deštné,Q61955639,20,1,2,,,Q61815465,,
+Fortification subsections 5.-6./IV. Horní Benešov,Fortification subsections 11.–12./V. Kunštát,Q61955640,20,1,2,,,Q61815465,,
+StM-S 39 Sedlo,StM-S 39 Sedlo,Q98601586,21,0,1,,,Q61826171|Q811683,,
+StM-S 39 Sedlo,Kutný vrch,Q23826273,21,0,2,"hill in Šléglov, Czech Republic",,Q54050,,
+StM-S 39 Sedlo,Sedlo,Q8554328,21,0,2,village in České Budějovice District of South Bohemian region,,Q61089180,,
+StM-S 39 Sedlo,Sedlo,Q3483619,21,0,2,"place in Slovenian Littoral, Slovenia",,Q486972,,"Sedlo, Kobarid"
+StM-S 39 Sedlo,col,Q2231510,21,0,2,lowest point on a mountain ridge between two neighboring peaks in one sense or the same as a mountain saddle in the other sense,gap,Q35145263|Q12046615|Q44946|Q11500,Q16887036|Q66747521,Col
+StM-S 39 Sedlo,Sedlo,Q23811879,21,0,2,mountain in the Czech Republic,,Q8502,,
+StM-S 39 Sedlo,Sedlo,Q2264400,21,0,2,protected area in Czech Republic,,Q8545897|Q473972,,
+StM-S 39 Sedlo,Sedlo,Q12051266,21,0,2,village in Jindřichův Hradec District of South Bohemian region,Sedlo u Číměře,Q61089180|Q20871353,,
+StM-S 39 Sedlo,Sedlo,Q1319525,21,0,2,village in Most District of Ústí nad Labem region,,Q61089180,,
+StM-S 39 Sedlo,Sedlo,Q12051263,21,0,2,village in Strakonice District of South Bohemian region,Sedlo u Horažďovic,Q61089180|Q20871353,,
+StM-S 39 Sedlo,Sedlo,Q12641893,21,0,2,,,Q23442,,
+StM-S 39 Sedlo,Sedlo,Q12051267,21,0,2,mountain in Czech Republic,,Q8502,,
+Fortification subsection 2./I. Kutný vrch,Fortification subsection 2./I. Kutný vrch,Q61957936,21,1,1,,,Q61815465,,
+Fortification subsection 2./I. Kutný vrch,Kutný vrch,Q23826273,21,1,2,"hill in Šléglov, Czech Republic",,Q54050,,
+Fortification subsection 2./I. Kutný vrch,StM-S 39 Sedlo,Q98601586,21,1,2,,,Q61826171|Q811683,,
+T-S 23b,T-S 23b,Q61829977,22,0,1,,,Q61826171|Q811683,,
+Fortification subsection 4./VI. Odolov,Fortification subsection 4./VI. Odolov,Q61826951,22,1,1,,,Q61815465,,
+Fortification subsection 4./VI. Odolov,Odolov,Q12042214,22,1,2,"village in Trutnov District, Hradec Králové Region, Czech Republic",,Q61089180|Q20871353,,
+Fortification subsection 4./VI. Odolov,T-S 23b,Q61829977,22,1,2,,,Q61826171|Q811683,,
+MJ-S 3b Havraníky,MJ-S 3b Havraníky,Q27861616,23,0,1,,,Q12022155|Q811683,,
+MJ-S 3b Havraníky,Šatov,Q391317,23,0,2,"městys in South Moravian, Czech Republic",,Q5153359|Q16155707,,Šatov
+MJ-S 3b Havraníky,Šatovská,Q45968914,23,0,2,"street in Znojmo, Czech Republic",,Q79007,,
+MJ-S 3b Havraníky,Šatov station,Q18170832,23,0,2,"railway station in Šatov, Czech Republic",Satov station,Q55488,,
+MJ-S 3b Havraníky,Satovcha,Q2997839,23,0,2,"municipality in Blagoevgrad oblast, Bulgaria",Satovcha municipality|Satovca Municipality|Satovca Opshtina,Q1906268,,Satovcha Municipality
+MJ-S 3b Havraníky,Satovcha,Q2043469,23,0,2,"village in Satovcha municipality, Blagoevgrad oblast, Bulgaria",,Q15630849|Q15303838,,Satovcha
+MJ-S 3b Havraníky,Šatovská,Q45997292,23,0,2,"street in Plzeň, Czech Republic",,Q79007,,
+MJ-S 3b Havraníky,212929 Satovski,Q3305758,23,0,2,asteroid,Satovski,Q3863,,212929 Satovski
+MJ-S 3b Havraníky,Satovcha Peak,Q55096245,23,0,2,"peak on Alexander Island, Antarctica",,Q8502,,Satovcha Peak
+MJ-S 3b Havraníky,Satov House,Q19615108,23,0,2,"building in Saratov, Russia",Satov House in Saratov,Q41176,,
+MJ-S 3b Havraníky,Šatov,Q110214733,23,0,2,,,Q20871353,,
+MJ-S 3b Havraníky,fortification,Q57821,23,0,2,military constructions and buildings designed for defense in warfare and military bases,defensive works|military structures|fortifications|military fortification,Q111972893,Q811979|Q6852233|Q97095925,Fortification
+MJ-S 3b Havraníky,fortification,Q324326,23,0,2,branch of military science,,Q11862829,Q192386,
+MJ-S 3b Havraníky,defense line,Q2973801,23,0,2,"line of troops and armament, fortified and set up to protect a high-value location during an armed conflict",fortification line,,Q57821|Q12057999,Defense line
+MJ-S 3b Havraníky,fort,Q58091695,23,0,2,heraldic figure,fortification|fortress,Q43694649,,
+MJ-S 3b Havraníky,Fortification,Q114904193,23,0,2,painting by Felix Courché,,Q3305213,,
+MJ-S 3b Havraníky,Fortifications Map File Plans of Military Forts (NAID 305749),Q64179436,23,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+MJ-S 3b Havraníky,Fortifications of Vauban,Q833781,23,0,2,World Heritage site in France,,Q12057999,,Fortifications of Vauban
+MJ-S 3b Havraníky,Fortification section XI. Trmice,Q109590457,23,0,2,system group of Czechoslovak pillboxes,XI. Trmice,Q1497364,,
+MJ-S 3b Havraníky,Fortifications of Venlo,Q3393872,23,0,2,,,Q12057999,,
+MJ-S 3b Havraníky,Fortification subsection Bratislava,Q12046005,23,0,2,,,Q61815465,,
+MJ-S 3b Havraníky,Havraníky,Q1352229,23,0,2,village in Znojmo District of South Moravian region,Havraniky,Q5153359,,Havraníky
+MJ-S 3b Havraníky,Havraníky,Q110214546,23,0,2,,,Q20871353,,
+MJ-S 3b Havraníky,Havraníky,Q132969010,23,0,2,,,Q16980762,,
+Fortification subsection 1./XI. Šatov,Fortification subsection 1./XI. Šatov,Q12046000,23,1,1,,,Q61815465,,
+Fortification subsection 1./XI. Šatov,Havraníky,Q1352229,23,1,2,village in Znojmo District of South Moravian region,Havraniky,Q5153359,,Havraníky
+Fortification subsection 1./XI. Šatov,Havraníky,Q110214546,23,1,2,,,Q20871353,,
+Fortification subsection 1./XI. Šatov,Havraníky,Q132969010,23,1,2,,,Q16980762,,
+Fortification subsection 1./XI. Šatov,MJ-S 3b Havraníky,Q27861616,23,1,2,,,Q12022155|Q811683,,
+T-S 69 casemate,T-S 69 casemate,Q12058102,24,0,1,,,Q61826171|Q811683,,
+T-S 69 casemate,Zlatá Olešnice,Q207216,24,0,2,village and municipality in Jablonec nad Nisou District,,Q5153359,,Zlatá Olešnice (Jablonec nad Nisou District)
+T-S 69 casemate,Zlatá Olešnice,Q207210,24,0,2,village and municipality in Trutnov District,,Q5153359,,Zlatá Olešnice (Trutnov District)
+T-S 69 casemate,Zlatá Olešnice,Q43860798,24,0,2,"stream in Trutnov District, Hradec Králové Region, Czech Republic",,Q47521,,
+T-S 69 casemate,Zlatá Olešnice,Q56412535,24,0,2,,,Q56398194|Q61089180,,
+T-S 69 casemate,Zlatá Olešnice,Q110205225,24,0,2,,,Q20871353,,
+T-S 69 casemate,Zlatá Olešnice II,Q29429699,24,0,2,,,Q49833,,
+T-S 69 casemate,Zlatá Olešnice Navarovská,Q110148299,24,0,2,,,Q20871353,,
+T-S 69 casemate,Zlatá Olešnice Semilská,Q110148297,24,0,2,,,Q20871353,,
+T-S 69 casemate,Zlatá Olešnice I,Q29345800,24,0,2,,,Q49833,,
+T-S 69 casemate,Zlatá Olešnice,Q397368,24,0,2,Wikimedia disambiguation page,,Q4167410,,Zlatá Olešnice
+T-S 69 casemate,Fortification subsection 2./VI. Zlatá Olešnice,Q61826949,24,0,2,,,Q61815465,,
+Fortification subsection 2./VI. Zlatá Olešnice,Fortification subsection 2./VI. Zlatá Olešnice,Q61826949,24,1,1,,,Q61815465,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q207216,24,1,2,village and municipality in Jablonec nad Nisou District,,Q5153359,,Zlatá Olešnice (Jablonec nad Nisou District)
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q207210,24,1,2,village and municipality in Trutnov District,,Q5153359,,Zlatá Olešnice (Trutnov District)
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q43860798,24,1,2,"stream in Trutnov District, Hradec Králové Region, Czech Republic",,Q47521,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q56412535,24,1,2,,,Q56398194|Q61089180,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q110205225,24,1,2,,,Q20871353,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice II,Q29429699,24,1,2,,,Q49833,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice Navarovská,Q110148299,24,1,2,,,Q20871353,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice Semilská,Q110148297,24,1,2,,,Q20871353,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice I,Q29345800,24,1,2,,,Q49833,,
+Fortification subsection 2./VI. Zlatá Olešnice,Zlatá Olešnice,Q397368,24,1,2,Wikimedia disambiguation page,,Q4167410,,Zlatá Olešnice
+Fortification subsection 2./VI. Zlatá Olešnice,T-S 69 casemate,Q12058102,24,1,2,,,Q61826171|Q811683,,

@@ -1,0 +1,68 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+N 209fj,,,0,0,0,,,,,
+SN 193C,,,1,0,0,,,,,
+S 1965P,,,2,0,0,,,,,
+N 203fq,,,3,0,0,,,,,
+N 1962N,,,4,0,0,,,,,
+SCP 06H6,,,5,0,0,,,,,
+SN 2009u,SN 2009U,Q9331134,6,0,1,supernova,,Q3937,,
+SN 2003fc,SN 2003fc,Q9328917,7,0,1,supernova,,Q3937,,
+N 2015dt,,,8,0,0,,,,,
+DES16S1aot,,,9,0,0,,,,,
+SN 2008ha,SN 2008ha,Q2743690,10,0,1,supernova,,Q3937,,SN 2008ha
+SN 2008ha,SN 2008ha: Der Himmel ist für alle da,Q70002862,10,0,1,,,Q1980247|Q191067,,
+SN 2008ha,SN 2008ha: AN EXTREMELY LOW LUMINOSITY AND EXCEPTIONALLY LOW ENERGY SUPERNOVA,Q56882073,10,0,1,scientific article published in Astronomical Journal,,Q13442814,,
+N 2016fnb,,,11,0,0,,,,,
+DES14C2p,DES14C2pw,Q75008149,12,0,1,,,Q3937,,
+DES14C2p,DES14C2fkd,Q90428077,12,0,2,supernova in the constellation Fornax,,Q3937,,
+DES14C2p,DES14C2vnf,Q76107862,12,0,2,,,Q3937,,
+DES14C2p,DES14C2kct,Q80468984,12,0,2,supernova in the constellation Fornax,,Q3937,,
+DES14C2p,DES14C2apq,Q75008218,12,0,2,,,Q3937,,
+DES14C2p,DES14C2gwx,Q90428142,12,0,2,supernova in the constellation Fornax,,Q3937,,
+DES14C2p,DES14C2ikn,Q94530799,12,0,2,supernova in the constellation Fornax,,Q3937,,
+DES14C2p,DES14C2fkf,Q90428211,12,0,2,supernova in the constellation Fornax,,Q3937,,
+SN 1<99ay,,,13,0,0,,,,,
+SN 218auf,,,14,0,0,,,,,
+SN 2008jf,minor planet,Q1022867,15,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2008jf,Minor Planet Center database,Q106600690,15,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2008jf,Minor Planet Center,Q522039,15,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2008jf,minor planet moon,Q657829,15,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2008jf,Minor Planet Circulars,Q6382430,15,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2008jf,minor planet group,Q2332332,15,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2008jf,list of minor planets,Q37651,15,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2008jf,Minor planet designation,Q817125,15,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2008jf,Minor Planet Bulletin,Q6869125,15,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2008jf,Minor Planet Catalogue,Q55178248,15,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2008jf,asteroid,Q3863,15,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 2008jf,asteroid belt,Q2179,15,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 2008jf,Asteroid,Q4810751,15,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 2008jf,Asteroid,Q113629153,15,0,2,early access video game,,Q7889,,
+SN 2008jf,starfish,Q25349,15,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 2008jf,Asteroid,Q132852203,15,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 2008jf,Asteroideae,Q21004,15,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 2008jf,Asteroids,Q748890,15,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 2008jf,Asteroid Terrestrial-impact Last Alert System,Q17002475,15,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 2008jf,Vesta,Q3030,15,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 2008jf,(309728) 2008 JF,Q15035598,15,0,2,asteroid,,Q3863|Q265392,,
+SN 2008jf,(257173) 2008 JF13,Q8185342,15,0,2,asteroid,,Q3863,,
+N 2009ga,2009 Garmin-Slipstream,Q1494319,16,0,2,,,Q53534649,,
+N 2009ga,2009 Games of the Small States of Europe,Q605174,16,0,2,international multi-sport event,,Q167170,,2009 Games of the Small States of Europe
+N 2009ga,2009 Gabonese presidential election,Q3031394,16,0,2,,"Gabonese presidential election, 2009",Q858439,,2009 Gabonese presidential election
+N 2009ga,2009 Gastein Ladies,Q700793,16,0,2,tennis tournament edition,,Q668065|Q47345468,,2009 Gastein Ladies
+N 2009ga,2009 Galician Parliment election,Q3045419,16,0,2,election in the Spanish region of Galicia,,Q3586694,,2009 Galician regional election
+N 2009ga,2009 Gastein Ladies – singles,Q3758706,16,0,2,2009 tennis event results,2009 Gastein Ladies - singles,Q46190676,,2009 Gastein Ladies – Singles
+N 2009ga,2009 Gastein Ladies – doubles,Q3758705,16,0,2,2009 tennis event results,2009 Gastein Ladies - doubles,Q46190676,,2009 Gastein Ladies – Doubles
+N 2009ga,2009 Galway United F.C. season,Q4613878,16,0,2,season of football team,,Q26887310,,
+N 2009ga,2009 Gamba Osaka season,Q4613877,16,0,2,season of football team,,Q26887310,,2009 Gamba Osaka season
+N 2009ga,2009 Gastein Ladies – qualification,Q64667792,16,0,2,,2009 Gastein Ladies - qualification,Q2122052,,
+PTF 12jb,Pakistan Tennis Federation,Q7125721,17,0,2,tennis organization in Pakistan,PTF,Q2485448,,Pakistan Tennis Federation
+PTF 12jb,Palomar Transient Factory,Q7128610,17,0,2,astronomical survey program,PTF,Q550089,,Palomar Transient Factory
+PTF 12jb,Pantyffynnon railway station,Q2264567,17,0,2,"railway station in Carmarthenshire, Wales, UK",Pantyffynnon Station|PTF,Q55488,,Pantyffynnon railway station
+PTF 12jb,Portland Thorns FC,Q1446672,17,0,2,"soccer team and National Women's Soccer League franchise in Portland, Oregon, USA",Thorns FC|PTFC|Portland Thorns,Q51481377,,Portland Thorns FC
+PTF 12jb,border checkpoint,Q757292,17,0,2,"place, generally between two countries, where travellers or goods are generally inspected",border inspection station|border station|border post,,Q1220959|Q25296884|Q4231739,Border checkpoint
+PTF 12jb,Poole Town F.C.,Q6418070,17,0,2,"association football club in Poole, England",Poole Town Football Club|Poole Town FC|Poole Town|Poole|Town|PTFC|The Dolphins,Q476028,,Poole Town F.C.
+PTF 12jb,polytetrafluoroethylene,Q143252,17,0,2,polymer,Teflon|Polytef [USAN]|Syncolon|PTFE|polytetrafluoroethene|poly(tetrafluoroethylene)|poly(tetrafluoroethene)|poly(difluoromethylene),Q119896085,Q1818706|Q764561|Q99600509|Q722568,Polytetrafluoroethylene
+PTF 12jb,Palau Track and Field Association,Q17048948,17,0,2,sports governing body in Palau,PTFA,Q2485448,,Palau Track and Field Association
+PTF 12jb,total fertility rate,Q285897,17,0,2,number of children a woman is expected to have barring select circumstances,TFR|fertility rate|absolute/potential natality|PTFR|period total fertility rate|total period fertility rate|TPFR,Q2272475,Q2796622,Total fertility rate
+PTF 12jb,Malolo Lailai Airport,Q6744481,17,0,2,airport in Fiji,PTF|NFFO,Q1248784|Q94993988,,Malolo Lailai Airport
+SN 3010hy,,,18,0,0,,,,,

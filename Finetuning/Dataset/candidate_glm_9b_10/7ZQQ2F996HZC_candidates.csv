@@ -1,0 +1,225 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+eckez,,,0,0,0,,,,,
+ewfae,,,1,0,0,,,,,
+Montevano,,,2,0,0,,,,,
+Kcnab,KCNAB1,Q18032654,3,0,1,protein-coding gene in the species Homo sapiens,AKR6A3|KCNA1B|KV-BETA-1|Kvb1.3|hKvBeta3|hKvb3|potassium voltage-gated channel subfamily A member regulatory beta subunit 1|potassium voltage-gated channel subfamily A regulatory beta subunit 1,Q7187,Q20747295,KCNAB1
+Kcnab,KCNAB2,Q18033049,3,0,1,protein-coding gene in the species Homo sapiens,AKR6A5|HKvbeta2|HKvbeta2.1|HKvbeta2.2|KCNA2B|KV-BETA-2|potassium voltage-gated channel subfamily A regulatory beta subunit 2,Q7187,Q20747295,KCNAB2
+Kcnab,kcnab1a,Q29771958,3,0,1,protein-coding gene in the species Danio rerio,"potassium voltage-gated channel, shaker-related subfamily, beta member 1 a|zgc:113627|kcnab1",Q20747295,,
+Kcnab,Potassium voltage-gated channel subfamily A regulatory beta subunit 2,Q21113517,3,0,1,mammalian protein found in Homo sapiens,"potassium voltage-gated channel, shaker-related subfamily, beta member 2|voltage-gated potassium channel subunit beta-2|Kv-beta-2|potassium channel, voltage gated subfamily A regulatory beta subunit 2|hKvbeta2|KCNAB2|K(+) channel subunit beta-2",Q8054,,
+Kcnab,Kcnab1,Q18251780,3,0,1,protein-coding gene in the species Mus musculus,"Akr8a8|Kvbeta1.1|mKv(beta)1|potassium voltage-gated channel, shaker-related subfamily, beta member 1",Q7187,Q20747295,
+Kcnab,KCNAB3,Q18033905,3,0,1,protein-coding gene in the species Homo sapiens,AKR6A9|KCNA3.1B|KCNA3B|KV-BETA-3|potassium voltage-gated channel subfamily A regulatory beta subunit 3,Q7187,Q20747295,KCNAB3
+Kcnab,Potassium voltage-gated channel subfamily A member regulatory beta subunit 1,Q21107840,3,0,1,mammalian protein found in Homo sapiens,"potassium channel, voltage gated subfamily A regulatory beta subunit 1|K(+) channel subunit beta-1|potassium voltage-gated channel, shaker-related subfamily, beta member 1|potassium channel beta 3 chain|Kv-beta-1|KCNAB1|voltage-gated potassium channel subunit beta-1|potassium channel beta3 subunit|potassium channel shaker chain beta 1a|K+ channel Beta1a chain",Q8054,,
+Kcnab,Kcnab2,Q18251781,3,0,1,protein-coding gene in the species Mus musculus,"F5|I2rf5|Kcnb3|kv-beta-2|potassium voltage-gated channel, shaker-related subfamily, beta member 2",Q7187,Q20747295,
+Kcnab,"Potassium voltage-gated channel, shaker-related subfamily, beta member 2",Q21494633,3,0,1,mammalian protein found in Mus musculus,Kcnab2|K(+) channel subunit beta-2|neuroimmune protein F5|voltage-gated potassium channel subunit beta-2|Kv-beta-2,Q8054,,
+Kcnab,Kcnab3,Q18251782,3,0,1,protein-coding gene in the species Mus musculus,"C330022D06Rik|Kcnab4|mKv(beta)4|potassium voltage-gated channel, shaker-related subfamily, beta member 3",Q7187,Q20747295,
+Kcnab,Kcnab1,Q24383318,3,0,2,protein-coding gene in the species Rattus norvegicus,KvBeta3|potassium voltage-gated channel subfamily A member regulatory beta subunit 1|potassium voltage-gated channel subfamily A regulatory beta subunit 1,Q7187,Q20747295,
+Kcnab,"Potassium voltage-gated channel, shaker-related subfamily, beta member 1",Q21494634,3,0,2,mammalian protein found in Mus musculus,Kcnab1|kv-beta-1|K(+) channel subunit beta-1|voltage-gated potassium channel subunit beta-1,Q8054,,
+Kcnab,Potassium voltage-gated channel subfamily A regulatory beta subunit 1,Q28556584,3,0,2,mammalian protein found in Rattus norvegicus,"voltage-gated potassium channel subunit beta-1|Kvbeta1.1|Kcnab1|kv-beta-1|Kvbeta1.2|Kvbeta1.3|potassium voltage-gated channel, shaker-related subfamily, beta member 1|potassium channel, voltage gated subfamily A regulatory beta subunit 1|voltage-gated potassium channel beta subunit|K(+) channel subunit beta-1|potassium voltage-gated channel subfamily A member regulatory beta subunit 1|potassium channel, voltage-gated shaker related subfamily A regulatory beta subunit 1",Q8054,,
+Kcnab,KCNAB1,Q24612531,3,0,2,gene of the species Macaca nemestrina,,,Q7187|Q20747295,
+Kcnab,kcnab1b,Q29776052,3,0,2,protein-coding gene in the species Danio rerio,"potassium voltage-gated channel, shaker-related subfamily, beta member 1 b|si:dkeyp-94h10.1",Q20747295,,
+Kcnab,KCNAB1-AS2,Q18072510,3,0,2,non-coding RNA in the species Homo sapiens,KCNAB1 antisense RNA 2,Q427087|Q7187,Q427087,
+Kcnab,Kcnab2,Q24395633,3,0,2,protein-coding gene in the species Rattus norvegicus,potassium voltage-gated channel subfamily A regulatory beta subunit 2,Q7187,Q20747295,
+Kcnab,kcnab2a,Q29770400,3,0,2,protein-coding gene in the species Danio rerio,"potassium voltage-gated channel, shaker-related subfamily, beta member 2 a|kcnab2|potassium voltage-gated channel subfamily A regulatory beta subunit 2a",Q7187,,
+Kcnab,Potassium voltage-gated channel subfamily A regulatory beta subunit 2,Q28561951,3,0,2,mammalian protein found in Rattus norvegicus,"potassium channel, voltage gated subfamily A regulatory beta subunit 2|voltage-gated potassium channel subunit beta-2|potassium channel, voltage gated shaker-related subfamily A regulatory beta subunit 2|Kcnab2|K(+) channel subunit beta-2|potassium voltage-gated channel, shaker-related subfamily, beta member 2|kv-beta-2",Q8054,,
+Kcnab,KCNAB2,Q24616333,3,0,2,gene of the species Macaca nemestrina,,,Q7187|Q20747295,
+Kcnab,kcnab2b,Q29752355,3,0,2,protein-coding gene in the species Danio rerio,"potassium voltage-gated channel, shaker-related subfamily, beta member 2 b|zgc:171453",Q20747295,,
+Kcnab,Kcnab3,Q24423242,3,0,2,protein-coding gene in the species Rattus norvegicus,potassium voltage-gated channel subfamily A regulatory beta subunit 3,Q7187,Q20747295,
+Kcnab,Potassium voltage-gated channel subfamily A regulatory beta subunit 3,Q21113502,3,0,2,mammalian protein found in Homo sapiens,"potassium channel, voltage gated subfamily A regulatory beta subunit 3|K(+) channel subunit beta-3|potassium voltage-gated channel, shaker-related subfamily, beta member 3|KCNAB3|Kv-beta-3|voltage-gated potassium channel subunit beta-3|potassium channel, voltage-dependent, beta-3 subunit",Q8054,,
+Kcnab,Potassium voltage-gated channel subfamily A regulatory beta subunit 3,Q28556188,3,0,2,mammalian protein found in Rattus norvegicus,"voltage-gated potassium channel subunit beta-3|kv-beta-3|potassium channel, voltage gated subfamily A regulatory beta subunit 3|RCK beta3|K(+) channel subunit beta-3|potassium channel, voltage gated shaker-related subfamily A regulatory beta subunit 3|Kcnab3|potassium voltage gated channel, shaker related subfamily, beta member 3",Q8054,,
+Kcnab,KCNAB3,Q24590128,3,0,2,protein-coding gene in the species Macaca nemestrina,potassium voltage-gated channel subfamily A regulatory beta subunit 3,Q7187,Q7187|Q20747295,
+La Erosse,La Grosse Équipe,Q20971339,4,0,2,,,Q10689397,,
+La Erosse,La Grosse Décharge Ouest,Q90898284,4,0,2,"creek in Quebec, Canada",,Q355304,,La Grosse Décharge Ouest
+La Erosse,Grosse Isle,Q3117068,4,0,2,"island in Saint-Antoine-de-l'Isle-aux-Grues, Quebec, Canada","Grosse Isle, Quebec|La Grosse Île",Q23442,,Grosse Isle
+La Erosse,La Grosse-Roche,Q112871333,4,0,2,"lieu-dit in Audet, Quebec, Canada",,Q181307,,
+La Erosse,LA GROSSESSE À L’ADOLESCENCE,Q139957826,4,0,2,,,Q1980247,,
+La Erosse,LA GROSSESSE À L’ADOLESCENCE,Q139959500,4,0,2,,,Q1980247,,
+La Erosse,La Grosse Bertha,Q3209616,4,0,2,"""Big Bertha"", a French satirical magazine",,Q11032,,La Grosse Bertha
+La Erosse,New York City,Q60,4,0,2,most populous city in the United States,"the five boroughs|City of New York|NY City|New York City, New York|New York, NY|New York City, NY|Capital of the World|New York City (NYC)|New York (city)|city of New York|Center of the Universe|New York City, USA|New York City, United States of America|New York, New York, USA|New York (NY)|New York, N.Y.|NY, NY|New York City, United States|N. Y., N. Y.|New York City, New York, United States|Empire City",Q208511|Q2264924|Q1093829|Q515|Q1549591|Q51929311|Q15063611|Q200250|Q174844,,New York City
+La Erosse,La Grosse Boule,Q22700550,4,0,2,"island in Quebec, Canada",,Q23442,,
+La Erosse,La Grosse Bite à Dudule,Q3209614,4,0,2,lascivious French song,,Q2544997|Q105543609,,
+La Erosse,La Grossa (Calders),Q17608137,4,0,2,"masia in Calders (Moianès, Catalonia)",,Q585956,,
+La Erosse,La Grossa de Queralt,Q11930543,4,0,2,mountain in Spain,,Q8502,,
+La Erosse,La grossa de Nadal,Q105732321,4,0,2,,,Q3331189,,
+La Erosse,Nuts to You,Q114465933,4,0,2,episode of The Penguins of Madagascar (S3 E17),,Q21191270,,
+La Erosse,Grossa de Cap d'Any,Q15128016,4,0,2,Catalan Christmas Lotery,,Q189409,,
+Millet,Millet,Q16877024,5,0,1,family name,,Q101352,,Millet (surname)
+Millet,Jean-François Millet,Q148458,5,0,1,French painter (1814–1875),Jean François Millet|Jean-Francois Millet|Jean Francois Millet|Mile|Zhan Fransua Mille|Mi-yeh|François genannt Francisque Millet|Jan Francois Millet|jean-francois millet|millet j. f.|millet jean francois|François Millet|Millet|millet j.f.|Jean François Millet.|J. F. Millet|franqois millet|j.f. millet,Q5,,Jean-François Millet
+Millet,Millet,Q104459845,5,0,1,newspaper in Simferopol,ملت,Q1002697|Q11032,,
+Millet,Millet,Q113453755,5,0,1,male given name,,Q12308941,,
+Millet,millet,Q259438,5,0,1,group of small-seeded grasses,millets|minor cereals,,Q12117,Millet
+Millet,Millettia,Q2628493,5,0,1,genus of plants,,Q16521,,Millettia
+Millet,Millettia pinnata,Q1973585,5,0,1,synonym of Pongamia pinnata,Pongamia|Indian beech|Pongame oiltree,Q16521,,Millettia pinnata
+Millet,Francisque Millet,Q3751077,5,0,1,French painter and engraver (1642–1679),"Jean François Millet|Jean Francois I Miley|Jean Francois I Milet|Francesco Mile|Francesco Mille|François Millé|Jean François, I Millet|François Milè|Francisco Mille|François Mille|Jean François Millee|Francesque Millet|Jean Francois, I Millet|Jean-François Millet the Elder|Jean-François Millet|Jean-François, the elder Millet|Jean Francois I Millet|Francisque Miley|Francisque Milet|François Millie|François Milee|François Millet|Jean Francois I Mille|Jean Francois, I Mille|Francisco Mile|François Millee|Francisque, the elder Millet|François Mile|Jean François Mille|Jean François Mile|Francisque Millé|Jean-Francois Millet|Jean Francois Millet|Jean Francois, I Milet|Jean Francois, I Miley|Francisque Mille|Francesco Millé|Jean-François (I (Francisque Millet)) Millet|J. F. Millet Francisque|Jean-François I, see Francisque For Millet|Jean François (I) (Francisque Millet) Millet|Jean-François I For Millet see Francisque|Francesco Milé|F. Meli|Fr. Millé|jean francois millet I|Millê|Millé|Millè|F. Millè|F. Millé|F. Mile|F. Mili|Fra. Milé|Francisque Mile|Fra. Mille|pere Francisque|Francis Milé|François Millet gen. Francisque|Francesco Myleet|Mile|Called, Francisque Francesco Mille|J.-F. Millet|dit Francisque J. Millet|Francisque|Fr. Mille|Fran Mille|Millo|F. Mille|Fr. Milet|Fr. Millet|Mille|Fran. Milet|Jean Milé|Francisque-Milet|F. Milé|F. Milè|Francisque-Millet|Mielé|F. Miellie|Francisque Milé ou Millet|Francisco Melé|F. Meili|Francisque Milé|17. jahrh. jean francois millet|Frans Millé|Frantz Millé|called Françisque Fr. Mile|Francesque|F. Millet|Frans Milet|Francis Mile|Franciso Milé|F. Millee|Milé|genannt Francisque Francois Millet|Francisco Miele|le Milé|Jean François I Millet|François Milet|Johann Franciscus Millet|F. Milee|Fran. Mielle|Milet|F. Milet|Francis Mille|F. Miley|Fran. Mille|Fracisque|gen. francisque francois millet|Fran. Mele|Jean Millet|Francisco Milleé|Melé|Mellie|Fra. Milet|E Mille|Francisco|or Mile, Called, Francisque Francesco Mille|Francisco Milet|gen. francisque j. f. millet|Fran Miele|Frans Millet|Fra. Mile|Jan François Millet genannt Francisque|Francis Millé|Francisco Mele|Melée|Francisque Millft|F. Millie|gen. Francisque Jean François Millet|Millet|Frantz Mille|Franc. Mille|Millee|Jean François Millet I",Q5,,Francisque Millet
+Millet,Millet,Q109384183,5,0,1,"mahalle (administrative quarter) in Yıldırım, Bursa, northwestern Turkey",,Q17051044,,
+Millet,Millet,Q108909435,5,0,1,"mahalle (administrative quarter) in Konak, İzmir, western Turkey","Millet, Konak",Q17051044,,
+Millet,Sorghum,Q12111,5,0,2,genus of plants,,Q16521,,Sorghum (genus)
+Millet,Sorghum bicolor,Q332062,5,0,2,species of plant,Jowar|Sudan Grass|milo,Q16521,Q11992872|Q157957,Sorghum
+Millet,Sorghum halepense,Q858360,5,0,2,species of plant,Johnsongrass|Johnson grass|great millet,Q16521,,Johnson grass
+Millet,Sorghum propinquum,Q11077524,5,0,2,species of plant,,Q16521,,Sorghum propinquum
+Millet,Sorghum ×drummondii,Q747719,5,0,2,"nothospecies of plant, Sudan grass",Sorghum drummondii,Q16521,Q11992872,Sorghum × drummondii
+Millet,Sorghum arundinaceum,Q11704010,5,0,2,species of plant,,Q16521,,Sorghum arundinaceum
+Millet,Sorghum plumosum,Q15522806,5,0,2,species of plant,,Q16521,,
+Millet,Sorghum durra,Q9339670,5,0,2,species of plant,,Q16521,,
+Millet,Sorghum bicolor subsp. bicolor,Q15637225,5,0,2,subspecies of plant,Broom-corn,Q16521,,
+Millet,Sorghum nitidum,Q10890838,5,0,2,species of plant,,Q16521,,
+Millet,Pennisetum glaucum,Q654332,5,0,2,species of plant,bulrush millet|candle millet|dark millet|cattail millet|Bajra|Pearl millet,Q16521,,
+Millet,pearl millet,Q104037539,5,0,2,seed from Pennisetum glaucum,,,Q259438,
+Millet,Pearl millet field Bhagwal باجرے دی فصل  بھگوال,Q123607845,5,0,2,"agriculture field in Punjab, Pakistan",Bhagwal بھگوال,Q11451,,
+Millet,Pearl millet (Pennisetum Glaucum L.) response after ferti-irrigation with sugar mill effluent in two seasons,Q59321506,5,0,2,,,Q13442814,,
+Millet,Pearl millet genome sequence provides a resource to improve agronomic traits in arid environments.,Q43558909,5,0,2,scientific article,,Q13442814,,
+Millet,Pearl millet [Pennisetum glaucum (L.) R. Br.] consensus linkage map constructed using four RIL mapping populations and newly developed EST-SSRs,Q34623421,5,0,2,scientific article,"Millet, Bajra",Q13442814,,
+Millet,Pearl millet transformation system using the positive selectable marker gene phosphomannose isomerase.,Q44731049,5,0,2,scientific article,,Q13442814,,
+Millet,Pearl millet cysteine protease inhibitor. Evidence for the presence of two distinct sites responsible for anti-fungal and anti-feedent activities,Q54077450,5,0,2,scientific article published on 01 October 1999,,Q13442814,,
+Millet,"Pearl millet, a source of alpha amylase production by Bacillus licheniformis",Q51502457,5,0,2,scientific article published in July 2005,,Q13442814,,
+Millet,Pearl Millet Genome: Lessons from a Tough Crop,Q46264229,5,0,2,scientific article,,Q13442814,,
+Gastoia,,,6,0,0,,,,,
+Weaherford,Weatherford,Q970527,7,0,2,"city in and county seat of Parker County, Texas, United States","Weatherford, Texas|Weatherford, TX",Q1093829|Q62049,,"Weatherford, Texas"
+Weaherford,Weatherford,Q37182971,7,0,2,family name,,Q101352,,
+Weaherford,Weatherford,Q2542048,7,0,2,"city in Custer County, Oklahoma, United States of America","Weatherford, Oklahoma|Weatherford, OK",Q1093829,,"Weatherford, Oklahoma"
+Weaherford,Weatherford International,Q621071,7,0,2,oil and natural gas service company,Weatherford|Weatherford International plc,Q4830453|Q6881511|Q94532151|Q891723,,Weatherford International
+Weaherford,Weatherford High School,Q7978285,7,0,2,"public school in Weatherford, Texas, United States",,Q9826,,Weatherford High School (Texas)
+Weaherford,Weatherford College,Q7978277,7,0,2,texan public community college,Weatherford College of the Parker County Junior College District,Q3914|Q23002039,,Weatherford College
+Weaherford,Weatherford Democrat,Q7978280,7,0,2,"newspaper in Weatherford, Texas",,Q11032,,Weatherford Democrat
+Weaherford,Weatherford Independent School District,Q7978287,7,0,2,school district in Texas,,Q398141,,Weatherford Independent School District
+Weaherford,Weatherford Public Schools,Q7978290,7,0,2,school district in Oklahoma,,Q398141,,Weatherford Public Schools
+Weaherford,Weatherford (Switzerland),Q29123565,7,0,2,,Weatherford Oil Tool Company|Weatherford International,Q4830453,,
+ion,Ion,Q1671988,8,0,1,male given name,Ion (first name)|Ion (given name),Q12308941,,Ion (name)
+ion,Ion,Q37569653,8,0,1,family name,,Q101352,,Ion (surname)
+ion,Ion Television,Q210500,8,0,1,American broadcast television network,ION Television|I: Independent Television|Ion|PAX TV,Q2001305|Q1254874,,Ion Television
+ion,ion,Q36496,8,0,1,"atom or molecule in which the total number of electrons is not equal to the total number of protons, giving the atom a net positive or negative electrical charge",,Q72070508,Q587553|Q2393187,Ion
+ion,group of stereoisomers,Q59199015,8,0,1,set of several stereoisomers,pair of cis–trans isomers|pair of E–Z isomeric ions|group of cis–trans isomeric ions|ion with undefined geometry around the double bond|group of E–Z isomeric ions|pair of E–Z isomers|compound with undefined configuration around the double bond|group of cis–trans isomers|group of E–Z isomers|pair of cis–trans isomeric ions|pair of enantiomers|group of enantiomers|compound with undefined stereochemistry|pair of enantiomeric ions|group of enantiomeric ions|ion with undefined stereochemistry,,Q15711994,
+ion,Ion,Q110463864,8,0,1,,,Q5,,
+ion,Ion Izagirre,Q459475,8,0,1,Spanish road cyclist,Jon Insausti|Jon Izagirre Insausti|Ion Izaguirre Insausti|Jon Izaguirre Insausti,Q5,,Ion Izagirre
+ion,Ion Luca Caragiale,Q315132,8,0,1,"Romanian playwright, writer and poet (1852-1912)",Caragiale|Ion Luca Caragiale|Luca Ion Palicar Caragiale,Q5,,Ion Luca Caragiale
+ion,Ionuț,Q1672098,8,0,1,male given name,Ionuț (first name)|Ionuț (given name),Q12308941,,Ionuț
+ion,Ionescu,Q21450293,8,0,1,family name,Ionesco,Q101352|Q11455398,,Ionescu
+ion,iodine,Q1103,8,0,2,chemical element with symbol I and atomic number 53,I|element 53|₅₃I,Q11344|Q1130479,Q244982|Q19600|Q19605|Q19753344,Iodine
+ion,iodine in medicine,Q28196266,8,0,2,used as an antiseptic and a means of treating and preventing iodine deficiency,medical use of iodine|iodine solution,,Q274493,Iodine (medical use)
+ion,diiodine,Q2064483,8,0,2,molecular iodine,I2|I₂|iodine|iodine gas|molecular iodine|Jod|Iodine,Q113145171,Q28057480|Q2512777,Diiodine
+ion,congenital hypothyroidism,Q531012,8,0,2,hypothyroidism that is present at birth,CH|cretinism|Iodine deficiency disorder|fetal iodine syndrome|Endemic Cretinism|FIDD|FETAL IODINE DEFICIENCY DISORDER; FIDD|FETAL IODINE DEFICIENCY DISORDER,Q112193867,Q16501|Q727096|Q472664|Q18556614,Congenital hypothyroidism
+ion,iodine deficiency,Q18377123,8,0,2,human disease,obsolete iodine deficiency,Q44702685,Q16944888,Iodine deficiency
+ion,endemic goiter,Q1455531,8,0,2,human disease,"Endemic goitre|Endemic goiter (disorder)|Goiter, specified as simple|Iodine-deficiency-related (endemic) goiter, unspecified (disorder)|Iodine-deficiency-related (endemic) goitre, unspecified|Iodine-deficiency-related endemic goiter (disorder)|Iodine-deficiency-related endemic goitre|simple Goiter|simple goiter (disorder)|simple goitre",Q112193867,Q165135|Q1890194,Endemic goitre
+ion,iodine radioisotopes,Q74820092,8,0,2,unstable isotopes of iodine,iodine radioisotope,,Q1208453|Q108883098,
+ion,Iodine,Q109328429,8,0,2,vocal track by Leonard Cohen; 1977 studio recording,,Q55850593,,
+ion,Constantine John Philip Ionides,Q25984070,8,0,2,British-born herpetologist and hunter (1901-1968),"C. J. Ionides|C.J. P. Ionides|Bobby|Iodine|C.J.P. Ionides|Constantine John Philip ""Bobby"" Ionides|Constantine J. P. Ionides|C. J. P. Ionides",Q5,,Constantine John Philip Ionides
+ion,Iodine,Q6062237,8,0,2,2009 film by Michael Stasko,,Q11424,,Iodine (film)
+Dixo,Dixon,Q1231746,9,0,1,family name,,Q101352,,Dixon (surname)
+Dixo,Dixon,Q113602,9,0,1,"city and county seat of Lee County, Illinois, United States","Dixon, Illinois|Dixon, IL",Q1093829|Q62049,,"Dixon, Illinois"
+Dixo,Dixon,Q986903,9,0,1,"city in Solano County, California, United States","Dixon, California|Dixon, CA",Q13218357,,"Dixon, California"
+Dixo,Dixonius,Q671516,9,0,1,genus of reptiles,,Q16521,,Dixonius
+Dixo,Dixon Entrance,Q1231779,9,0,1,strait on the Canada–United States border between Alaska and British Columbia,,Q37901,,Dixon Entrance
+Dixo,Dixomyces,Q5284937,9,0,1,genus of fungi,,Q16521,,Dixomyces
+Dixo,Dixon,Q1934000,9,0,1,"city in Scott county, Iowa, USA","Dixon, Iowa|Dixon, IA",Q1093829,,"Dixon, Iowa"
+Dixo,Dixon Hall Lewis,Q586407,9,0,1,American politician (1802-1848),,Q5,,Dixon H. Lewis
+Dixo,Dixoniella grisea,Q3032642,9,0,1,species of alga,,Q16521,,
+Dixo,Dixoniellaceae,Q3032636,9,0,1,family of algae,,Q16521,,
+Acadia,Acadia,Q5014257,10,0,1,museum ship built in 1913,IMO 5001528|CSS Acadia,Q11446|Q130326199,,CSS Acadia
+Acadia,Acadia,Q17126595,10,0,1,genus of insects,,Q16521,,
+Acadia,Acadia,Q207353,10,0,1,colony of New France in northeastern North America,Acadie,Q3920906,,Acadia (region)
+Acadia,Acadia Parish,Q337402,10,0,1,"parish in Louisiana, United States","Acadia Parish, Louisiana|Acadia Parish, LA",Q13410524,,"Acadia Parish, Louisiana"
+Acadia,Lafayette,Q128891,10,0,1,"city in Lafayette Parish, Louisiana, United States","Lafayette, Louisiana|Lafayette, LA|Lafayette Parish, Louisiana|Acadiana|Cajun Country|Cajun and Creole Country|The Tastiest Town of the South|The Happiest City in America|Vermilionville",Q1093829|Q1549591|Q3301053,,"Lafayette, Louisiana"
+Acadia,Acadia University,Q337382,10,0,1,"public university in Wolfville, Nova Scotia, Canada",Queen's College|acadiau.ca,Q3918|Q708676,,Acadia University
+Acadia,Acadia,Q19883851,10,0,1,painting by Maurice Prendergast,,Q3305213,,
+Acadia,Acadia,Q2822228,10,0,1,colony of France,,Q133156,,Acadia
+Acadia,Acadia,Q2822219,10,0,1,"former federal electoral district in Alberta, Canada (1925–1968)",,Q17202187|Q4711849,,Acadia (federal electoral district)
+Acadia,Acadia,Q4671565,10,0,1,"former provincial electoral district in Alberta, Canada",,Q4711861,,Acadia (provincial electoral district)
+Acadia,Acadia National Park,Q337396,10,0,2,national park in the US state of Maine,ACAD,Q34918903,,Acadia National Park
+Acadia,Acadia National Park MPS,Q63586774,10,0,2,multiple listing in the U.S. National Register of Historic Places,Acadia National Park Multiple Property Submission,Q18247357|Q19558910,,
+Acadia,Acadia University Library,Q109450249,10,0,2,academic library in Canada,,Q856234,,
+Acadia,Acadia University Faculty Association,Q4671582,10,0,2,,,,,Acadia University Faculty Association
+Acadia,Acadia University Faculty of Professional Studies,Q101009899,10,0,2,faculty,,Q180958,,
+Acadia,Acadia University Department of Psychology,Q101009897,10,0,2,academic department,,Q2467461,,
+Acadia,Acadia University Department of English and Theatre,Q101009895,10,0,2,academic department,,Q2467461,,
+Acadia,Acadia University Faculty of Arts,Q101009898,10,0,2,faculty,,Q180958,,
+Acadia,Acadia University Faculty of Pure and Applied Sciences,Q101009900,10,0,2,faculty,,Q180958,,
+Acadia,Acadia University Archives,Q116520177,10,0,2,archives located at Acadia University,,Q166118,,
+Acadia,Acadia University Department of History and Classics,Q101009896,10,0,2,academic department,,Q2467461,,
+Acadia,Acadia Parish Library,Q69477223,10,0,2,"public library system in Louisiana, USA",,Q26271642,,
+Acadia,Acadia Parish School Board,Q4671578,10,0,2,"school district in Louisiana, United States",,Q15726209,,Acadia Parish School Board
+Acadia,"2020 COVID-19 pandemic in Acadia Parish, Louisiana",Q94112582,10,0,2,"pandemic in Acadia Parish, Louisiana","2020 coronavirus outbreak in Acadia Parish, Louisiana|COVID-19 pandemic in Acadia Parish, Louisiana|2020 Acadia Parish, Louisiana COVID-19 pandemic|Acadia Parish, Louisiana COVID-19 pandemic|2020 COVID pandemic in Acadia Parish, Louisiana",Q3241045,,
+Acadia,Acadia Parish Library,Q69768532,10,0,2,"public library in Crowley, Louisiana, USA",,Q12317349|Q28564,,
+Acadia,Acadia Parish Louisiana Democrats,Q99755844,10,0,2,political organization in US state of Louisiana,Acadia Parish Democrats,Q7210356,,
+Acadia,Acadia Parish Vocational Technical School,Q96757857,10,0,2,technical school in Louisiana,Louisiana Technical College|LTC,Q322563,,
+Crcadia,"Crcadian patterns of melatonin, corticosterone, and progesterone in male rats subjected to chronic stress: Effect of constant illumination",Q44681996,11,0,1,scientific article published on 01 September 1991,,Q13442814,,
+Crcadia,"Crcadian changes in body temperature and renal excretion of bedouin Arabs, non-bedouin Arabs and Europeans",Q72150593,11,0,1,scientific article published on 01 September 1968,,Q13442814,,
+Crcadia,Crcadian rhythm of hepatocellular structures in rats dosed Phenobarbital,Q66992857,11,0,1,scientific article published on 01 January 1979,,Q13442814,,
+eorgetown,Georgetown University,Q333886,12,0,2,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+eorgetown,Georgetown University Law Center,Q846101,12,0,2,law school of Georgetown University,Georgetown Law|GULC|Georgetown Law School|Georgetown University Law School|Georgetown University Law,Q1321960,,Georgetown University Law Center
+eorgetown,Georgetown University Press,Q5547060,12,0,2,university press,,Q479716|Q2085381,,Georgetown University Press
+eorgetown,Walsh School of Foreign Service,Q128047,12,0,2,school of international affairs at Georgetown University,Edmund A. Walsh School of Foreign Service|School of Foreign Service|SFS|Georgetown University's School of Foreign Service,Q189004|Q122940278,,Walsh School of Foreign Service
+eorgetown,Georgetown Hoyas,Q3141652,12,0,2,intercollegiate sports teams of Georgetown University,Georgetown Stonewalls|Georgetown Hilltoppers|Georgetown University Hoyas|Hoyas,Q2367225,,Georgetown Hoyas
+eorgetown,Georgetown University School of Medicine,Q5547065,12,0,2,medical school of Georgetown University,Georgetown University Medical School|Georgetown Medical School,Q494230,,Georgetown University School of Medicine
+eorgetown,Georgetown University Medical Center,Q5547057,12,0,2,medical campus of Georgetown University,GUMC,Q16917|Q4260475|Q4287745|Q23955632,,Georgetown University Medical Center
+eorgetown,MedStar Georgetown University Hospital,Q5547055,12,0,2,"hospital in Washington, D.C.",Georgetown University Hospital|MedStar Georgetown,Q1059324|Q7048982|Q4284971,,MedStar Georgetown University Hospital
+eorgetown,President of Georgetown University,Q6594667,12,0,2,head of Georgetown University,Georgetown University president,Q4164871,Q212071,
+eorgetown,Georgetown University Jesuit Community Cemetery,Q56724236,12,0,2,historic cemetery at Georgetown University,Georgetown Jesuit Cemetery|Jesuit Community Cemetery|Georgetown University Jesuit Cemetery,Q39614,,Georgetown University Jesuit Community Cemetery
+eorgetown,Georgetown,Q990898,12,0,2,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+eorgetown,Georgetown,Q603389,12,0,2,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+eorgetown,Georgetown,Q695774,12,0,2,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+eorgetown,Georgetown,Q10717,12,0,2,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+eorgetown,Georgetown,Q2495209,12,0,2,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+eorgetown,Georgetown,Q182262,12,0,2,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+eorgetown,George Town,Q172996,12,0,2,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+eorgetown,Georgetown,Q1468648,12,0,2,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+eorgetown,Georgetown,Q877247,12,0,2,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Georgetwn,Georgetown University,Q333886,13,0,2,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+Georgetwn,Georgetown,Q990898,13,0,2,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+Georgetwn,Georgetown,Q603389,13,0,2,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+Georgetwn,Georgetown,Q695774,13,0,2,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+Georgetwn,Georgetown,Q10717,13,0,2,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+Georgetwn,Georgetown,Q2495209,13,0,2,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+Georgetwn,Georgetown,Q182262,13,0,2,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+Georgetwn,George Town,Q172996,13,0,2,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+Georgetwn,Georgetown,Q1468648,13,0,2,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+Georgetwn,Georgetown,Q877247,13,0,2,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Georgetwn,Georgetown University Law Center,Q846101,13,0,2,law school of Georgetown University,Georgetown Law|GULC|Georgetown Law School|Georgetown University Law School|Georgetown University Law,Q1321960,,Georgetown University Law Center
+Georgetwn,Georgetown University Press,Q5547060,13,0,2,university press,,Q479716|Q2085381,,Georgetown University Press
+Georgetwn,Walsh School of Foreign Service,Q128047,13,0,2,school of international affairs at Georgetown University,Edmund A. Walsh School of Foreign Service|School of Foreign Service|SFS|Georgetown University's School of Foreign Service,Q189004|Q122940278,,Walsh School of Foreign Service
+Georgetwn,Georgetown Hoyas,Q3141652,13,0,2,intercollegiate sports teams of Georgetown University,Georgetown Stonewalls|Georgetown Hilltoppers|Georgetown University Hoyas|Hoyas,Q2367225,,Georgetown Hoyas
+Georgetwn,Georgetown University School of Medicine,Q5547065,13,0,2,medical school of Georgetown University,Georgetown University Medical School|Georgetown Medical School,Q494230,,Georgetown University School of Medicine
+Georgetwn,Georgetown University Medical Center,Q5547057,13,0,2,medical campus of Georgetown University,GUMC,Q16917|Q4260475|Q4287745|Q23955632,,Georgetown University Medical Center
+Georgetwn,MedStar Georgetown University Hospital,Q5547055,13,0,2,"hospital in Washington, D.C.",Georgetown University Hospital|MedStar Georgetown,Q1059324|Q7048982|Q4284971,,MedStar Georgetown University Hospital
+Georgetwn,President of Georgetown University,Q6594667,13,0,2,head of Georgetown University,Georgetown University president,Q4164871,Q212071,
+Georgetwn,Georgetown University Jesuit Community Cemetery,Q56724236,13,0,2,historic cemetery at Georgetown University,Georgetown Jesuit Cemetery|Jesuit Community Cemetery|Georgetown University Jesuit Cemetery,Q39614,,Georgetown University Jesuit Community Cemetery
+Geogetown,Georgetown Cinema,Q36155204,14,0,1,"former cinema in Georgetown, Ascension Island",Geogetown Hall,Q41253,,
+Geogetown,Georgetown University,Q333886,14,0,2,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+Geogetown,Georgetown,Q990898,14,0,2,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+Geogetown,Georgetown,Q603389,14,0,2,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+Geogetown,Georgetown,Q695774,14,0,2,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+Geogetown,Georgetown,Q10717,14,0,2,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+Geogetown,Georgetown,Q2495209,14,0,2,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+Geogetown,Georgetown,Q182262,14,0,2,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+Geogetown,George Town,Q172996,14,0,2,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+Geogetown,Georgetown,Q1468648,14,0,2,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+Geogetown,Georgetown,Q877247,14,0,2,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Gorgetown,,,15,0,0,,,,,
+eogetown,,,16,0,0,,,,,
+eorgetown,Georgetown University,Q333886,17,0,2,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+eorgetown,Georgetown University Law Center,Q846101,17,0,2,law school of Georgetown University,Georgetown Law|GULC|Georgetown Law School|Georgetown University Law School|Georgetown University Law,Q1321960,,Georgetown University Law Center
+eorgetown,Georgetown University Press,Q5547060,17,0,2,university press,,Q479716|Q2085381,,Georgetown University Press
+eorgetown,Walsh School of Foreign Service,Q128047,17,0,2,school of international affairs at Georgetown University,Edmund A. Walsh School of Foreign Service|School of Foreign Service|SFS|Georgetown University's School of Foreign Service,Q189004|Q122940278,,Walsh School of Foreign Service
+eorgetown,Georgetown Hoyas,Q3141652,17,0,2,intercollegiate sports teams of Georgetown University,Georgetown Stonewalls|Georgetown Hilltoppers|Georgetown University Hoyas|Hoyas,Q2367225,,Georgetown Hoyas
+eorgetown,Georgetown University School of Medicine,Q5547065,17,0,2,medical school of Georgetown University,Georgetown University Medical School|Georgetown Medical School,Q494230,,Georgetown University School of Medicine
+eorgetown,Georgetown University Medical Center,Q5547057,17,0,2,medical campus of Georgetown University,GUMC,Q16917|Q4260475|Q4287745|Q23955632,,Georgetown University Medical Center
+eorgetown,MedStar Georgetown University Hospital,Q5547055,17,0,2,"hospital in Washington, D.C.",Georgetown University Hospital|MedStar Georgetown,Q1059324|Q7048982|Q4284971,,MedStar Georgetown University Hospital
+eorgetown,President of Georgetown University,Q6594667,17,0,2,head of Georgetown University,Georgetown University president,Q4164871,Q212071,
+eorgetown,Georgetown University Jesuit Community Cemetery,Q56724236,17,0,2,historic cemetery at Georgetown University,Georgetown Jesuit Cemetery|Jesuit Community Cemetery|Georgetown University Jesuit Cemetery,Q39614,,Georgetown University Jesuit Community Cemetery
+eorgetown,Georgetown,Q990898,17,0,2,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+eorgetown,Georgetown,Q603389,17,0,2,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+eorgetown,Georgetown,Q695774,17,0,2,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+eorgetown,Georgetown,Q10717,17,0,2,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+eorgetown,Georgetown,Q2495209,17,0,2,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+eorgetown,Georgetown,Q182262,17,0,2,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+eorgetown,George Town,Q172996,17,0,2,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+eorgetown,Georgetown,Q1468648,17,0,2,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+eorgetown,Georgetown,Q877247,17,0,2,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Rockiord,Rockfield,Q6470937,18,0,2,"village in Monmouthshire, Wales",,Q532,,"Rockfield, Monmouthshire"
+Rockiord,Rockfield,Q112250448,18,0,2,"human settlement in Nova Scotia, Canada","Rockfield, Nova Scotia",Q486972,,
+Rockiord,Rockfield,Q59725138,18,0,2,"electoral district in County Kerry, Ireland",,Q2500304,,
+Rockiord,Rockfield,Q59616427,18,0,2,album by Chinaski,,Q482994,,
+Rockiord,Rockfield,Q7355218,18,0,2,"unincorporated community in Washington County, Wisconsin","Rockfield, Wisconsin|Rockfield, WI",Q17343829,,"Rockfield, Wisconsin"
+Rockiord,Rockfield,Q114246031,18,0,2,historic church parish in Wales,,Q102496,,
+Rockiord,Rockfield,Q104346669,18,0,2,"townland in Kilnaleck, County Cavan, Ireland",,Q2151232,,
+Rockiord,Rockfield,Q104363745,18,0,2,"townland in Fermanagh, Northern Ireland",,Q2151232,,
+Rockiord,Rockfield,Q7355219,18,0,2,"unincorporated community in Carroll County, Indiana","Rockfield, Indiana|Rockfield, IN",Q17343829,,"Rockfield, Indiana"
+Rockiord,Rockfield Studios,Q925637,18,0,2,recording studio in Wales,,Q746369,,Rockfield Studios

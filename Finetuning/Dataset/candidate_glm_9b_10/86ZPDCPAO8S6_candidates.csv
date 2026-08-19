@@ -1,0 +1,73 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2001j,SN 2001J,Q9328114,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jf,Q9328375,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jn,Q9328382,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001ju,Q9328389,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jp,Q9328384,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jw,Q9328391,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jl,Q9328380,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jt,Q9328387,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001jj,Q9328378,0,0,1,supernova,,Q3937,,
+SN 2001j,SN 2001ja,Q9328368,0,0,1,supernova,,Q3937,,
+PS1-1blp,PS1-10ahl,Q86794969,1,0,2,supernova in the constellation Aquarius,,Q3937,,
+PS1-1blp,PS1-10jm,Q78367020,1,0,2,supernova,,Q2680861|Q3937,,
+PS1-1blp,PS1-14jb,Q76093973,1,0,2,,,Q2680861|Q3937,,
+PS1-1blp,PS1-11beu,Q78369573,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-11cs,Q78361999,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-10afy,Q78367884,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-11za,Q78371089,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-12bwe,Q85694620,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-13ess,Q86601344,1,0,2,,,Q2680861,,
+PS1-1blp,PS1-11ada,Q78362191,1,0,2,,,Q2680861,,
+SN 009iu,,,2,0,0,,,,,
+iPWF 14fpb,,,3,0,0,,,,,
+iPF 15doo,idiopathic pulmonary fibrosis,Q2290446,4,0,2,"chronic, irreversible and ultimately fatal disease characterized by a progressive decline in lung function","FIBROCYSTIC PULMONARY DYSPLASIA|IDIOPATHIC PULMONARY FIBROSIS, FAMILIAL|cryptogenic fibrosing alveolitis|IPF",Q112193867,Q1790424|Q32446,Idiopathic pulmonary fibrosis
+iPF 15doo,idiopathic interstitial pneumonia,Q1790424,4,0,2,pneumonia located in the lung parenchyma of unknown cause,Diffuse idiopathic pulmonary fibrosis|Idiopathic Interstitial Pneumonia|Idiopathic fibrosing alveolitis|IPF|noninfectious pneumonia|IIP|Idiopathic interstitial pneumonia|idiopathic interstitial pneumonias,Q42303753|Q112193867,Q12192|Q1153419|Q594841,Idiopathic interstitial pneumonia
+iPF 15doo,Hermann Siegmann,Q94930888,4,0,2,German teacher,Ipf,Q5,,
+iPF 15doo,imperfective,Q371427,4,0,2,grammatical aspect of continuity or repetition,imperfective aspect|imp|ipfv|impv,,Q208084,Imperfective aspect
+iPF 15doo,InterPlanetary File System,Q21422344,4,0,2,"content-addressable, peer-to-peer hypermedia distribution protocol",IPFS,Q15836568,,InterPlanetary File System
+iPF 15doo,Institute of Public Finance,Q30267035,4,0,2,Croatian research institute,IPF,Q13226383|Q45400320|Q31855,,
+iPF 15doo,Sptan1,Q24425321,4,0,2,protein-coding gene in the species Rattus norvegicus,"A2a|IPF|Spna2|spectrin, alpha, non-erythrocytic 1",Q7187,Q20747295,
+iPF 15doo,IPF,Q28757983,4,0,2,binary format for raw hardware flux transition timings,Interchangeable Preservation Format|Interchangeable Preservation Format floppy disk image|.ipf,Q235557,,
+iPF 15doo,IPFilter,Q1654315,4,0,2,free packet filtering and NAT software,IPF,Q341|Q1784206,,IPFilter
+iPF 15doo,Ipf,Q319644,4,0,2,"mountain near Bopfingen, Ostalbkreis, Baden-Württemberg, Germany",,Q8502,,Ipf (mountain)
+CRTS CSS150213 J100134+45335<,Catalina Real-time Transient Survey,Q16918903,5,0,2,sky survey,CRTS,Q550089,,Catalina Real-time Transient Survey
+CRTS CSS150213 J100134+45335<,Royal Centre for Remote Sensing,Q2946015,5,0,2,Moroccan space agency specialized in remote sensing,CRTS,Q43229|Q2385804,,Royal Center for Remote Sensing
+CRTS CSS150213 J100134+45335<,CRTS,Q5013952,5,0,2,,,Q28640,,Certified Relocation and Transition Specialist
+CRTS CSS150213 J100134+45335<,CRTS J052209.7-350530,Q81650960,5,0,2,cataclysmic binary candidate in the constellation Columba,,Q72704237|Q523,,
+CRTS CSS150213 J100134+45335<,CRTS J011159.8+281927,Q80460468,5,0,2,Algol variable in the constellation Pisces,,Q24452,,
+CRTS CSS150213 J100134+45335<,CRTS J224552.8+225140,Q76114992,5,0,2,,,Q691269,,
+CRTS CSS150213 J100134+45335<,CRTS J231126.7-305825,Q82829124,5,0,2,RR Lyrae variable star in the constellation Sculptor,,Q726242,,
+CRTS CSS150213 J100134+45335<,2MASS J22263275-3404084,Q86308487,5,0,2,possible red giant branch star in the constellation Piscis Austrinus,,Q72802727,,
+CRTS CSS150213 J100134+45335<,2MASS J01521234-2252493,Q78971094,5,0,2,horizontal branch star in the constellation Cetus,,Q72803426|Q67206691,,
+CRTS CSS150213 J100134+45335<,[VOB2016] 38.9496,Q77394429,5,0,2,,,Q726242|Q72803426|Q523,,
+SN 1968N,SN 1968N,Q9326574,6,0,1,supernova,,Q3937,,
+SN2009dj,SN 2009dj,Q9331230,7,0,2,supernova,,Q3937,,
+SN 2009i,SN 2009I,Q9331124,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009ip,Q9331367,8,0,1,supernova,,Q3937|Q1048372,,SN 2009ip
+SN 2009i,SN 2009ix,Q11835598,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009in,Q9331365,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009ih,Q9331359,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009iy,Q9331375,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009ia,Q9331352,8,0,1,supernova,,Q3937|Q67206691,,
+SN 2009i,SN 2009ij,Q9331361,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009it,Q9331371,8,0,1,supernova,,Q3937,,
+SN 2009i,SN 2009iv,Q9331373,8,0,1,supernova,,Q3937|Q67206691,,
+SN 2009i,SN 2006gy,Q644956,8,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2009i,SN 2006X,Q2659966,8,0,2,supernova,,Q3937,,SN 2006X
+SN 2009i,SN 2005cs,Q597168,8,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2009i,SN 2006jc,Q1747732,8,0,2,supernova,,Q3937,,SN 2006jc
+SN 2009i,SN 2002cx,Q7391949,8,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2009i,SN 2004et,Q9329248,8,0,2,supernova,,Q3937,,SN 2004et
+SN 2009i,SN 2006rs,Q9330210,8,0,2,supernova,,Q3937,,
+SN 2009i,SN 2008cs,Q9330949,8,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2009i,SN 2002dj,Q9328532,8,0,2,supernova,,Q3937,,
+SN 2009i,SN 2006td,Q9330246,8,0,2,supernova,,Q3937,,
+SN 2012ae,SN 2012ae,Q9332181,9,0,1,supernova,,Q3937,,
+SN 2012ae,Supernova 2012ae = PSN J08585588+2303424,Q66362025,9,0,2,scientific article published in January 2012,,Q13442814,,
+SN 2007ml,SN 2007ml,Q9330630,10,0,1,supernova,,Q3937,,
+N2005dx,,,11,0,0,,,,,
+SN 207to,,,12,0,0,,,,,
+SN 2007co,SN 2007co,Q4048836,13,0,1,supernova,,Q3937,,
+SN 193G,,,14,0,0,,,,,
+N 1996cp,,,15,0,0,,,,,

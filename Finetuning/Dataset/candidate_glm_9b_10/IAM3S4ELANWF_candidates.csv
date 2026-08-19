@@ -1,0 +1,239 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+real estate photographer,real estate photographer,Q123560808,0,0,1,an individual who practices photography as a profession and specializes in photographing real estate property,,Q28640,Q98084799|Q33231,
+real estate photographer,photographer,Q33231,0,0,2,person who takes photographs,photog,Q12737077|Q108300140,Q3391743,Photographer
+real estate photographer,Photographers' Identities Catalog,Q23892012,0,0,2,database on photographers and photography studios,PIC,Q35127|Q8513,,PIC (identifier)
+real estate photographer,Photographers in the Netherlands,Q15880691,0,0,2,book by Steven Wachlin,"Photographers in the Netherlands : a survey of commercial photographers born before 1900 based on data from the Dutch population administration, city directories and newspapers|Wachlin 2011",Q13136,,
+real estate photographer,war photographer,Q11496048,0,0,2,photographer documenting a war,photographer,Q28640,Q164236|Q957729,War photographer
+real estate photographer,amateur photographer,Q21694268,0,0,2,someone who takes photos for passion,photographer,Q12737077,Q33231|Q455595,
+real estate photographer,architectural photographer,Q3381574,0,0,2,photographer specialized on architecture,architecture photographer|photographer,Q28640|Q12737077,Q98084799,Architectural photographers
+real estate photographer,portrait photographer,Q2544530,0,0,2,photographer specializing in portraits,studio photographer|photographer,Q28640,Q98084799|Q21178131,
+real estate photographer,Photographer,Q135451922,0,0,2,2021 video game developed by 中年修仙,,Q7889,,
+real estate photographer,sports photographer,Q51093656,0,0,2,person who takes photographs in the field of sports,photographer,Q28640,Q98084799|Q50995749,Sports photographer
+real estate photographer,nature photographer,Q12368980,0,0,2,profession,photographer,Q28640,Q98084799,Nature photographer
+media industry,media industry,Q56611639,0,2,1,"business model based on communicating information, art and entertainment to a large audience",media industries|mass media industry,Q136653105,Q97466012,
+media industry,media industry studies,Q113128088,0,2,1,field of research,,Q11862829,Q11680831,
+media industry,Media Industry Development Authority of Fiji,Q115517989,0,2,1,independent body that regulates media organizations and services in Fiji,,Q43229,,Media Industry Development Authority of Fiji
+media industry,Media Industry Development Act 2010,Q117661701,0,2,1,Fijian law,,Q820655,,Media Industry Development Act 2010
+media industry,The Media Industry Research Foundation of Finland,Q140351984,0,2,1,"nonprofit organization in Helsinki, Finland",Media Industry Research Foundation of Finland,Q163740,,
+media industry,Media Industry Newsletter,Q108280079,0,2,1,periodical,,Q737498,,
+media industry,Media Industry,Q130590868,0,2,1,,,Q43229,,
+media industry,Media Industry Ownership Convergence and Anti-monopoly Regulation,Q119694829,0,2,1,,,Q13442814,,
+media industry,Media Industry Convergence and Government Regulation Reform,Q119690150,0,2,1,,,Q13442814,,
+media industry,Media Industry Regulation and Its Influence Upon Media Industry in China,Q120625073,0,2,1,"scholarly article in Journal of Northwest A&F University (Social Science Edition), no. 5, 2009",,Q13442814,,
+media industry,real estate photography,Q123560844,0,2,2,photography genre denoting the activity of creating photographs of real estate properties,photography of real estate|real estate photo genre|real estate listing photography|property photography|residential real estate photography,Q3100808,Q12029910|Q1657850|Q2111747|Q635309|Q2029911,
+media industry,Real Estate Photography: A Complete Guide,Q138573354,0,2,2,photography tutorial article by Dave Koch published on PetaPixel,,Q191067,,
+media industry,photo industry,Q1439700,0,2,2,totality of the manufacturing companies and service providers in the field of photography,photography industry|photographic industry,Q268592,,
+audio engineer,audio engineer,Q128124,1,0,1,"engineer who operates recording, mixing, sound reproduction equipment",recording engineer|sound producer|sound director|sound engineer|music engineer|musical engineer|first engineer,Q28640,Q81096,Audio engineer
+audio engineer,audio technician,Q2442329,1,0,1,"technician who operates recording, mixing, sound reproduction equipment",sound technician|sound engineer|audio engineer|recording studio technician,Q28640,Q5352191|Q93922873,
+audio engineer,acoustical engineer,Q48351128,1,0,1,profession,audio engineer|acoustic engineer,Q28640,Q81096|Q2267418,
+audio engineer,sound engineering,Q15280872,1,0,1,"generic term for any technical apparatus of the conversion, editing, recording (storing) and playback of acoustic events (sound)",audio engineering|audio technology|sound technology,Q12015335,Q11023,
+audio engineer,Audio Engineering Society,Q758847,1,0,1,organization of professional audio engineers,AES,Q43229|Q2178147|Q106760956,,Audio Engineering Society
+audio engineer,acoustical engineering,Q859044,1,0,1,branch of engineering dealing with sound and vibration,acoustic engineering|audio engineering,,Q11023,Acoustical engineering
+audio engineer,audio engineering award,Q107494655,1,0,1,type of award,award for audio engineering,Q107467117,Q107494101,
+audio engineer,Simone Torres,Q124399995,1,0,1,"American vocal producer, engineer and artist","audio engineer, artist",Q5,,Simone Torres (music producer)
+audio engineer,"Audio Engineering Society, Coarse-groove Calibration Discs",Q4819827,1,0,1,,,,,AES64
+audio engineer,Audio Engineering,Q110139718,1,0,1,"magazine, 1947-1954",,Q41298,,
+audio engineer,mixing engineer,Q6884071,1,0,2,person responsible for mixing the different sonic elements of a piece of recorded music into a final version of a song,mix engineer|mixer|music mixer|audio mixer,Q28640,Q128124,Mixing engineer
+mixing engineer,mixing engineer,Q6884071,1,1,1,person responsible for mixing the different sonic elements of a piece of recorded music into a final version of a song,mix engineer|mixer|music mixer|audio mixer,Q28640,Q128124,Mixing engineer
+mixing engineer,audio engineer,Q128124,1,1,2,"engineer who operates recording, mixing, sound reproduction equipment",recording engineer|sound producer|sound director|sound engineer|music engineer|musical engineer|first engineer,Q28640,Q81096,Audio engineer
+mixing engineer,audio technician,Q2442329,1,1,2,"technician who operates recording, mixing, sound reproduction equipment",sound technician|sound engineer|audio engineer|recording studio technician,Q28640,Q5352191|Q93922873,
+mixing engineer,acoustical engineer,Q48351128,1,1,2,profession,audio engineer|acoustic engineer,Q28640,Q81096|Q2267418,
+mixing engineer,sound engineering,Q15280872,1,1,2,"generic term for any technical apparatus of the conversion, editing, recording (storing) and playback of acoustic events (sound)",audio engineering|audio technology|sound technology,Q12015335,Q11023,
+mixing engineer,Audio Engineering Society,Q758847,1,1,2,organization of professional audio engineers,AES,Q43229|Q2178147|Q106760956,,Audio Engineering Society
+mixing engineer,acoustical engineering,Q859044,1,1,2,branch of engineering dealing with sound and vibration,acoustic engineering|audio engineering,,Q11023,Acoustical engineering
+mixing engineer,audio engineering award,Q107494655,1,1,2,type of award,award for audio engineering,Q107467117,Q107494101,
+mixing engineer,Simone Torres,Q124399995,1,1,2,"American vocal producer, engineer and artist","audio engineer, artist",Q5,,Simone Torres (music producer)
+mixing engineer,"Audio Engineering Society, Coarse-groove Calibration Discs",Q4819827,1,1,2,,,,,AES64
+mixing engineer,Audio Engineering,Q110139718,1,1,2,"magazine, 1947-1954",,Q41298,,
+insurance manager,insurance manager,Q84959105,2,0,1,manager of an insurance corporation,,Q28640,Q2961975,
+insurance industry,insurance industry,Q2518196,2,2,1,aggregate of insurance supply and demand,,Q268592,Q268592,
+insurance industry,"Insurance Industry, relations to individual countries",Q104710339,2,2,1,subject category of the 20th Century Press Archives,"g4a Sm9 Insurance Industry, relations to individual countries",Q92707903,,
+insurance industry,Insurance industry in China,Q17050915,2,2,1,national industry,,Q74817647,,Insurance industry in China
+insurance industry,Insurance-industry investments in tobacco,Q53102475,2,2,1,scientific article,,Q13442814,,
+insurance industry,Insurance industry’s exemption from the anti-monopoly law in America and its indication to China’s insurance industry,Q120072956,2,2,1,"scholarly article in Insurance Studies, no. 12, 2008",,Q13442814,,
+insurance industry,Insurance industry and HIV/AIDS,Q71768808,2,2,1,scientific article published on 01 December 1994,,Q13442814,,
+insurance industry,Insurance Industry′s Systemic Risk and Its Spillover Effect on Related Sectors,Q120078570,2,2,1,"scholarly article in Insurance Studies, no. 7, 2020",,Q13442814,,
+insurance industry,Insurance Industry Development:Characteristics and Inspirations,Q120620311,2,2,1,"scholarly article in Wuhan University Journal (Social Science), no. 4, 2002",,Q13442814,,
+insurance industry,"Insurance industry troubles put pension, annuity plans at risk; experts urge checkup",Q74712860,2,2,1,scientific article published on 01 August 1991,,Q13442814,,
+insurance industry,Insurance industry listens to physicians,Q85201131,2,2,1,scientific article published on 01 August 2010,,Q13442814,,
+insurance industry,insurance manager,Q84959105,2,2,2,manager of an insurance corporation,,Q28640,Q2961975,
+insurance industry,Insurance-sector tools to combat biodiversity loss,Q113787456,2,2,2,scientific article published in 2022,,Q13442814,,
+insurance industry,Insurance Sector Dynamics and Economic Growth of India,Q126384250,2,2,2,scholarly article,,Q13442814,,
+insurance industry,Insurance sector management of climate change adaptation in three Nordic countries: the influence of policy and market factors,Q112601433,2,2,2,scientific article published on 08 November 2016,,Q13442814,,
+insurance industry,Insurance sector′s risk management in the post-crisis era,Q120076291,2,2,2,"scholarly article in Insurance Studies, no. 7, 2011",,Q13442814,,
+insurance industry,Insurance Sector′s Contribution to Economic Growth in China——A Study Based on Single Equation Estimation and Simultaneous Equation,Q120073416,2,2,2,"scholarly article in Insurance Studies, no. 4, 2012",,Q13442814,,
+insurance industry,Insurance sector dynamics: towards transformation into learning organization,Q123130647,2,2,2,scientific article published in 2007,,Q13442814,,
+insurance industry,Insurance Market,Q21161121,2,2,2,"metro station in Dubai, United Arab Emirates",Sharaf DG|Mashreq,Q928830|Q11670533,,Insurance Market (Dubai Metro)
+insurance industry,insurance market,Q2518157,2,2,2,,,,,
+insurance industry,Insurance Markets and Companies,Q96709647,2,2,2,,,Q5633421|Q73365221|Q773668,,
+insurance industry,insurance market death spiral,Q5247631,2,2,2,condition of the insurance market in which costs rapidly increase as a result of changes in the covered population; result of adverse selection in insurance policies in which lower risk policy holders choose to change policies or be uninsured,death spiral,,Q483247,Death spiral (insurance)
+insurance industry,Insurance Markets and Companies: Analyses and Actuarial Computations,Q15816979,2,2,2,journal,,Q5633421,,
+insurance industry,insurance marketing,Q58037513,2,2,2,,,Q29028649,,
+insurance industry,Insurance Marketing,Q133214613,2,2,2,American trade journal,,Q685935,,
+insurance industry,Insurance Market Development and Income Inequality,Q127171480,2,2,2,scholarly article,,Q13442814,,
+insurance industry,Insurance Marketplace Enrollment and In-Person Assistance Under the Affordable Care Act,Q129548508,2,2,2,scholarly article,,Q13442814,,
+insurance industry,INSURANCE MARKET: PANDEMIC STRATEGY AND FORECAST FOR THE FUTURE,Q119591367,2,2,2,scientific article published in 2021,,Q13442814,,
+pawnbroker,pawnbroker,Q176637,3,0,1,"individual or business that offers loans to people, with items of personal property used as collateral",pawnshop|pawn shop|hockshop|pawn store|pawnbrokers shop,Q28640,Q213441,Pawnbroker
+pawnbroker,The Pawnbroker,Q1196202,3,0,1,1964 film directed by Sidney Lumet,Pawnbroker,Q11424,,The Pawnbroker (film)
+pawnbroker,Pawnbroker,Q42317036,3,0,1,character from 2015 film 'Bad Hair Day',,Q15632617|Q15773347,,
+pawnbroker,Pawnbroker,Q60786185,3,0,1,motor vehicle,,Q3231690,,Pawnbroker (dragster)
+pawnbroker,Pawnbroker Simulator,Q135058494,3,0,1,video game developed by Next Sky Games,,Q7889,,
+pawnbroker,"Pawnbrokers Act, 1964",Q100398144,3,0,1,Act of the Oireachtas No. 31 of 1964,Pawnbrokers Act 1964,Q91586285,,
+pawnbroker,Pawnbrokers Act 1960,Q110266443,3,0,1,Public General Act of Parliament of the United Kingdom,8 & 9 Eliz. 2. c. 24|8&9 Eliz 2 c24,Q105774620,,
+pawnbroker,Pawnbrokers Act 1872,Q106434370,3,0,1,1872 United Kingdom of Great Britain and Ireland Act of Parliament 35 & 36 Vic c. 93,,Q105774620,,Pawnbrokers Act 1872
+pawnbroker,Pawnbrokers Act 1860,Q106372351,3,0,1,1860 United Kingdom of Great Britain and Ireland Act of Parliament 23 & 24 Vic c. 21,,Q105774620,,
+pawnbroker,Pawnbrokers Act 1856,Q106353126,3,0,1,1856 United Kingdom of Great Britain and Ireland Act of Parliament 19 & 20 Vic c. 27,,Q105774620,,
+pawnbroker,CamelPhat,Q21008079,3,0,2,"British DJ and production duo, formed in 2008",Shake N' Jack|The Bassline Hustlers|Whelan & Di Scala|Da Mode|Wheels & Disco|Pawn Shop,Q215380|Q130857,,CamelPhat
+pawnbroker,Pawn Shop,Q21450473,3,0,2,2016 album by Brothers Osborne,,Q482994,,Pawn Shop (album)
+pawnbroker,Pawn Shop,Q103864761,3,0,2,painting by Rose O'Neill,,Q3305213,,
+pawnbroker,Pawn Shop,Q110561193,3,0,2,sketch from Key & Peele,,Q55760865,,
+pawnbroker,Pawn Shop,Q139815263,3,0,2,music track by Sublime,,Q7302866,,
+pawnbroker,Pawn Shop: Simulator,Q135072564,3,0,2,2025 video game developed by ZOJIN,,Q7889,,
+pawnbroker,Pawn Shop Simulator,Q135021239,3,0,2,video game developed by Silent Parrot Studio SRL,,Q7889,,
+pawnbroker,Pawn Shop Chronicles,Q13472766,3,0,2,2013 film by Wayne Kramer,Hustlers,Q11424,,Pawn Shop Chronicles
+pawnbroker,"Pawn shops, lending on goods",Q104711061,3,0,2,subject category of the 20th Century Press Archives,"n24 Sm41 Pawn shops, lending on goods",Q92707903,,
+pawn ticket,pawn ticket,Q88023009,3,1,1,receipt from a pawn shop,,,Q330190,
+pawn ticket,Pawn Ticket 210,Q56452622,3,1,1,1922 film by Scott R. Dunlap,,Q11424,,Pawn Ticket 210
+pawn ticket,Pawn Ticket '913',Q20165229,3,1,1,1914 film by E.A. Martin,,Q24862,,
+Political person,political person,Q123511574,4,0,1,profession,political people|person associated with politics,Q28640,Q112154475,
+Political person,personalismo,Q9058655,4,0,1,a cult of personality built around Latin American and African political leaders,personalism|political personalism,Q66762677,Q192914,Personalismo
+Political person,Political personalization and personalized politics within and beyond the behavioural arena,Q127679180,4,0,1,scholarly article,,Q13442814,,
+Political person,Political Personalization on YouTube and the Future of Party Politics,Q108930959,4,0,1,scientific article,,Q13442814,,
+Political person,Political Personal Branding,Q133462650,4,0,1,,,Q47461344,,
+Political person,politician,Q82955,4,0,2,person who seeks or holds a political office or mandate or is otherwise politically active,political leader|political figure|polit.|pol,Q28640,Q702269,Politician
+Political person,Michel Nadim Kalife,Q135451432,4,0,2,Togolese economist,Political figure,Q5,,
+Political person,Nangolo Mbumba,Q287100,4,0,2,President of Namibia from 2024 to 2025,,Q5,,Nangolo Mbumba
+Political person,Politician,Q64581291,4,0,2,drawing in the National Gallery of Art (NGA 7042),,Q93184,,
+Political person,Politician,Q104854338,4,0,2,1985 novel by Piers Anthony,,Q7725634,,Politician (novel)
+Political person,Politician,Q51556674,4,0,2,song by Cream,,Q105543609,,
+Political person,politician before the emergence of political parties,Q113264255,4,0,2,property value for P102,Pre-Party System|before political parties,Q7210356|Q11744698,Q82955|Q11744698|Q486839,
+Political person,Politician,Q97217684,4,0,2,South Korea's radio channels,Jeongchiinssa,Q1555508,,
+Political person,Politician,Q65022317,4,0,2,print in the National Gallery of Art (NGA 30465),,Q11060274,,
+Political person,Waheed Jurat,Q138501278,4,0,2,politician,Politician,Q5,,
+Political person,Politician,Q76442492,4,0,2,print in the National Gallery of Art (NGA 145696),,Q11060274,,
+Political person,politician,Q140409465,4,0,2,"prototypical agent (PAG) for predicate ""rerun.03"": run for office again",,,Q134480019,
+Political person,political leader,Q20069267,4,0,2,military position in the Soviet Union,politruk,Q56019,,
+Political person,political boss,Q3430775,4,0,2,"person who controls a unit of a political party, although they might not hold political office",political leader,Q12737077|Q4164871,Q82955|Q1251441,Political boss
+Political person,Political Leader,Q2101555,4,0,2,type of Nazi party functionary,,Q4164871,Q599151,
+Political person,political leader,Q98097280,4,0,2,,,Q4164871,,
+Political person,"Political Leadership, Nations and Charisma",Q139734590,4,0,2,,,Q571,,
+Political person,political leadership,Q2101402,4,0,2,,,,Q484275,
+Political person,The Political Leaders’ Affiliation Database,Q110147908,4,0,2,database with information on birthplaces and ethnicities of political leaders,Political Leaders’ Affiliation Database|PLAD,Q8513,,
+Political person,political leadership,Q11499124,4,0,2,,,,,
+Political person,"Political leadership and the struggle for Tibet, 1950-1959",Q136352174,4,0,2,"chapter by Javier Hidalgo published in ""Case Studies in Political Leadership""",,Q21481766,,
+politics,politics,Q7163,4,2,1,"activity of settling collective affairs in organized society through government, lawmaking, negotiation, and exercise of power; practiced across scales from clans and tribes to sovereign states and international relations",,Q11862829,Q3482410|Q4686698|Q1914636,Politics
+politics,Australian Journal of Political Science,Q17332463,4,2,1,Australian academic journal,Politics|Aust. J. Political Sci.,Q737498,,Australian Journal of Political Science
+politics,Politics,Q139711862,4,2,1,,,Q571,,
+politics,Politics,Q15758612,4,2,1,journal,Politics (Oxford),Q737498,,
+politics,Politics,Q69539,4,2,1,work of political philosophy by Aristotle,Aristotle's Politics|Aristot. Pol.,Q7725634,,Politics (Aristotle)
+politics,politics of climate change,Q1774427,4,2,1,policy measures to contain global warming,climate policy|politics of global warming|climate change politics|global warming politics|climate change policy|climate politics,Q96251375,Q919526|Q5381346,Politics of climate change
+politics,politics of the United States,Q330963,4,2,1,overview of political matters in the United States of America,US politics|United States politics|American politics|USA politics|United States political system|U.S. politics|politics in the United States,Q28108|Q12332021|Q11862829,,Politics of the United States
+politics,"Politics, Religion & Ideology",Q7225159,4,2,1,academic journal,,Q737498,,"Politics, Religion & Ideology"
+politics,"Politics (Kensington, N.S.W.)",Q27716248,4,2,1,journal,Politics (Syd)|Politics,Q5633421,,
+politics,Politics,Q3111044,4,2,1,episode of Stargate SG-1 (S1 E21),,Q21191270,,
+politics,political scientist,Q1238570,4,2,2,expert in or student of political science,political scientists|politologist,Q28640,Q15319501,Political scientist
+politics,Political Scientists,Q58984820,4,2,2,scientific article published in Nature,,Q13442814,,
+politics,Political Scientists in the Computing Professions,Q140897554,4,2,2,"scholarly article published in Social Science Computer Review, vol. 8, no. 3 (1990) (DOI: 10.1177/089443939000800307)",,Q13442814,,
+politics,Political Scientists in Polite Company: Talking Politics with Family Members,Q128993722,4,2,2,scholarly article,,Q13442814,,
+politics,Political Scientist as a Historian,Q107649789,4,2,2,scientific article,,Q13442814,,
+politics,Political Scientists and Public Policy Affecting Computer-Based Research,Q113215523,4,2,2,scientific article published on 19 April 2006,,Q13442814,,
+politics,"Political Scientists: More Concern about Political Involvement, Ethics",Q58676110,4,2,2,scientific article published in Science,,Q13442814,,
+politics,Political Scientists,Q131825686,4,2,2,scientific article published on 4 December 2017,,Q13442814,,
+politics,Political Scientists and the Working Politician: Notes on the Campaign and the Take-Over,Q81089837,4,2,2,scientific article published on 01 October 1960,,Q13442814,,
+politics,politician,Q82955,4,2,2,person who seeks or holds a political office or mandate or is otherwise politically active,political leader|political figure|polit.|pol,Q28640,Q702269,Politician
+politics,Politician,Q64581291,4,2,2,drawing in the National Gallery of Art (NGA 7042),,Q93184,,
+politics,Politician,Q104854338,4,2,2,1985 novel by Piers Anthony,,Q7725634,,Politician (novel)
+politics,Politician,Q51556674,4,2,2,song by Cream,,Q105543609,,
+politics,politician before the emergence of political parties,Q113264255,4,2,2,property value for P102,Pre-Party System|before political parties,Q7210356|Q11744698,Q82955|Q11744698|Q486839,
+politics,Politician,Q97217684,4,2,2,South Korea's radio channels,Jeongchiinssa,Q1555508,,
+politics,Politician,Q65022317,4,2,2,print in the National Gallery of Art (NGA 30465),,Q11060274,,
+politics,Waheed Jurat,Q138501278,4,2,2,politician,Politician,Q5,,
+politics,Politician,Q76442492,4,2,2,print in the National Gallery of Art (NGA 145696),,Q11060274,,
+politics,politician,Q140409465,4,2,2,"prototypical agent (PAG) for predicate ""rerun.03"": run for office again",,,Q134480019,
+politics,political activist,Q11499147,4,2,2,activist wanting political change,political organizer|political organiser,Q12737077,Q15253558,Political activist
+politics,Political Activist + Public Servant?,Q126004207,4,2,2,scientific article published in 2019,,Q13442814,,
+appliance repair,appliance repair,Q111630868,5,0,1,fixing small household machines,washing machine repair|dryer repair|stove repair|refrigerator repair|toaster repair|oven repair|heater repair|dishwasher repair|freezer repair|wine cooler repair|washer repair,Q627436|Q1914636|Q28640|Q7406919,Q2144962,
+appliance repair,Appliance Repair,Q66498359,5,0,1,1780th strip of the webcomic xkcd,xkcd 1780,Q838795,,
+appliance repair,Appliance Repair White Plains NY,Q57983605,5,0,1,appliance repair business,Appliance Repair|White Plains NY,Q4830453,,
+appliance repair,Appliance Repair Expert,Q138796947,5,0,1,"appliance repair company in Roseville, CA",,Q4830453,,
+appliance repair,Appliance Repair and Maintenance,Q123132397,5,0,1,NAICS industry classification,,Q123130760,,
+appliance repair,Appliance repair person was electrocuted in a repair shop while diagnosing the problem with a microwave oven - Maryland,Q26353486,5,0,1,field study published in 1999,,Q1402850,,
+appliance repair,Home appliance repairer,Q126208210,5,0,2,,,Q28640|Q12737077,,
+home appliance industry,home appliance industry,Q56604188,5,2,1,economic branch,home appliances industry|household appliance industry|household appliances industry|domestic appliance industry|domestic appliances industry|appliance industry|appliances industry|white good industry|white goods industry,Q268592,Q1326885,Home appliance industry
+salesperson,salesperson,Q685433,6,0,1,person whose job it is to sell things,salesman|saleswoman|sales associate|salespeople|sales personnel|seller|sales agent,Q28640|Q4164871,Q108285748,Salesman
+salesperson,Salesperson specialising in foodstuffs (Bakery),Q1391560,6,0,1,profession,,Q28640,Q129202721|Q1391558,
+salesperson,Salesperson specialising in foodstuffs,Q1391558,6,0,1,profession,,Q778000,Q685433,
+salesperson,Salesperson specialising in foodstuffs (Butcher),Q2693842,6,0,1,profession,,Q28640,Q1391558|Q129202721,
+salesperson,Salesperson specialising in foodstuffs (Pastry),Q65235057,6,0,1,profession,,Q28640,Q129202721|Q1391558,
+salesperson,Salesperson improvisation : an empirical examination of its consequences and boundaries,Q59623638,6,0,1,doctoral thesis by Abena Animwaa Yeboah-Banin,,Q187685,,
+salesperson,Salesperson empowerment in Spanish banks: A performance-driven view,Q57643066,6,0,1,article,,Q13442814,,
+salesperson,Salesperson’s efficiency influences gestures,Q129596576,6,0,1,scholarly article,,Q13442814,,
+salesperson,"Salesperson improvisation: Antecedents, performance outcomes, and boundary conditions. Industrial Marketing Management",Q108289202,6,0,1,research work,,Q13442814,,
+salesperson,SALESPERSON DEVIANT BEHAVIOR IN INDONESIAN RESTAURANT SERVICE ATTENDANTS,Q127454826,6,0,1,scholarly article,,Q13442814,,
+salesperson,property consultant,Q124728671,6,0,2,"person, who is a consultant in selling property like a sales person",Real Estate Consultant,Q28640|Q4164871,Q15978655|Q685433,
+property consultant,property consultant,Q124728671,6,1,1,"person, who is a consultant in selling property like a sales person",Real Estate Consultant,Q28640|Q4164871,Q15978655|Q685433,
+property consultant,sales consultant,Q64153847,6,1,2,,,Q28640,,
+stockbroker,stockbroker,Q4182927,7,0,1,professional who buys and sells shares and other securities for both retail and institutional clients,broker-dealer|financial adviser|investment adviser|investment broker|investment professional|registered investment adviser|regulated broker|share holder registered representative|sharebroker|stock broker|trading representative|wealth manager|investment advisor,Q28640,Q160117|Q1424605|Q106559804,Stockbroker
+stockbroker,Stockbroker,Q110055844,7,0,1,sketch from Saturday Night Live,,Q110039749,,
+stockbroker,Stockbrokers (Ireland) Act 1868,Q106410980,7,0,1,1868 United Kingdom of Great Britain and Ireland Act of Parliament 31 & 32 Vic c. 31,,Q105774620,,
+stockbroker,Stockbroker's Tudor,Q106771064,7,0,1,style of house,Stockbroker Tudor|Stockbrokers Tudor,Q32880,,Stockbroker's Tudor
+stockbroker,The Stockbroker's Clerk,Q16028957,7,0,1,1922 film by George Ridgwell,Stockbroker's Clerk,Q11424,,
+stockbroker,stockbrokers in France,Q30728052,7,0,1,,,,,
+stockbroker,Stockbrokers Are Smashing: But Bankers Are Better,Q124408557,7,0,1,14th episode of the 1st season of Blackmail,,Q21191270,,Stockbrokers Are Smashing: But Bankers Are Better
+stockbroker,Stockbroker Belt,Q97357355,7,0,1,Area of London,,,,Stockbroker Belt
+stockbroker,Stockbrokers (Ireland) Act 1918,Q117799541,7,0,1,Public General Act of the Parliament of the United Kingdom,,Q105774620,,
+stockbroker,`Stockbroker's Knee',Q67671760,7,0,1,scientific article published on 01 September 1977,,Q13442814,,
+stockbroker,Securities Brokerage,Q123152098,7,0,2,superseded NAICS industry classification,,Q123130760,,
+stockbroker,financial broker,Q25399048,7,0,2,,,Q28640,Q160117,
+stockbroker,intermediation,Q1445414,7,0,2,matching of lenders to borrowers by a third party,financial brokerage|brokers|middlemen,Q29028649,Q7406919,Intermediation
+securities industry,securities industry,Q96472438,7,2,1,economic sector,,Q268592,,
+securities industry,Securities Industry and Financial Markets Association,Q7444911,7,2,1,United States industry trade group,,Q1666019,,Securities Industry and Financial Markets Association
+securities industry,Securities Industry Automation Corporation,Q7444912,7,2,1,,,Q4830453,,Securities Industry Automation Corporation
+securities industry,Securities Industry (Fees) Amendment Act 1981,Q56756430,7,2,1,"Act of the Parliament of Australia, currently registered as C2004A02474",,Q56731284,,
+securities industry,Securities Industry Amendment Act (No. 2) 1981,Q56756429,7,2,1,"Act of the Parliament of Australia, currently registered as C2004A02473",,Q56731284,,
+securities industry,Securities Industry Amendment Act 1981,Q56756419,7,2,1,"Act of the Parliament of Australia, currently registered as C2004A02381",,Q56731284,,
+securities industry,Securities Industry Act 1980,Q56749301,7,2,1,"Act of the Parliament of Australia, no longer in force, registered as C2004A02267",,Q56731284,,
+securities industry,Securities Industry (Fees) Act 1980,Q56749300,7,2,1,"Act of the Parliament of Australia, no longer in force, registered as C2004A02268",,Q56731284,,
+securities industry,Securities industry in China,Q7444931,7,2,1,,,Q74817647,,Securities industry in China
+securities industry,Securities Industry Association,Q16961623,7,2,1,organization,,Q43229,,Securities Industry Association
+securities industry,stockbroker,Q4182927,7,2,2,professional who buys and sells shares and other securities for both retail and institutional clients,broker-dealer|financial adviser|investment adviser|investment broker|investment professional|registered investment adviser|regulated broker|share holder registered representative|sharebroker|stock broker|trading representative|wealth manager|investment advisor,Q28640,Q160117|Q1424605|Q106559804,Stockbroker
+securities industry,Stockbroker,Q110055844,7,2,2,sketch from Saturday Night Live,,Q110039749,,
+securities industry,Stockbrokers (Ireland) Act 1868,Q106410980,7,2,2,1868 United Kingdom of Great Britain and Ireland Act of Parliament 31 & 32 Vic c. 31,,Q105774620,,
+securities industry,Stockbroker's Tudor,Q106771064,7,2,2,style of house,Stockbroker Tudor|Stockbrokers Tudor,Q32880,,Stockbroker's Tudor
+securities industry,The Stockbroker's Clerk,Q16028957,7,2,2,1922 film by George Ridgwell,Stockbroker's Clerk,Q11424,,
+securities industry,stockbrokers in France,Q30728052,7,2,2,,,,,
+securities industry,Stockbrokers Are Smashing: But Bankers Are Better,Q124408557,7,2,2,14th episode of the 1st season of Blackmail,,Q21191270,,Stockbrokers Are Smashing: But Bankers Are Better
+securities industry,Stockbroker Belt,Q97357355,7,2,2,Area of London,,,,Stockbroker Belt
+securities industry,Stockbrokers (Ireland) Act 1918,Q117799541,7,2,2,Public General Act of the Parliament of the United Kingdom,,Q105774620,,
+securities industry,`Stockbroker's Knee',Q67671760,7,2,2,scientific article published on 01 September 1977,,Q13442814,,
+securities industry,financial sector,Q57774188,7,2,2,all companies working in financial services,financial industry|financial institutions|financial services sector|financial services industry|finance industry,Q268592,Q43015|Q274490,
+securities industry,financial services industry of the United Kingdom,Q16980748,7,2,2,overview about the financial service industry in the United Kingdom,financial services in the United Kingdom,,,Financial services in the United Kingdom
+securities industry,Financial Services Industry Outsourcing and Enforcement of Privacy Laws,Q59667375,7,2,2,Congressional Research Service report,,Q6451276,,
+securities industry,investment banking,Q11833245,7,2,2,type of banking,,,Q806718,
+securities industry,investment bank,Q319845,7,2,2,type of private company,,Q17197366|Q22687|Q3958441,Q22687,Investment banking
+securities industry,investment banking services,Q115753918,7,2,2,class in the Central Product Classification Version 2.1,,Q63981612,Q115748308,
+securities industry,history of investment banking in the United States,Q5868027,7,2,2,aspect of history,investment banking in the United States history,Q17524420,,History of investment banking in the United States
+securities industry,Investment Banking Exam,Q6060762,7,2,2,examination administered by the U.S. government,,,,Investment Banking Exam
+securities industry,Investment Banking and Securities Intermediation,Q123131652,7,2,2,NAICS industry classification,,Q123130760,,
+securities industry,Investment Banking and Securities Dealing,Q123152097,7,2,2,superseded NAICS industry classification,,Q123130760,,
+securities industry,IBC Tower,Q194871,7,2,2,,,Q11755959|Q11303|Q1021645|Q1497364,,IBC Tower
+securities industry,Investment banking industry beset by uncertainty,Q77610457,7,2,2,scientific article published on 01 January 1988,,Q13442814,,
+securities industry,INVESTMENT BANKING FEES ON SEASONED EQUITY OFFERINGS: EVIDENCE FROM CANADIAN ISSUERS AFTER THE PASSAGE OF CANADIAN SOX,Q130071271,7,2,2,scholarly article published in March 2018,,Q13442814,,
+marketing educator,marketing educator,Q124545535,8,0,1,someone who teaches in the field of marketing,marketing trainer|marketing teacher|marketing scholar|marketing expert|marketing researcher,Q28640,Q1391411|Q974144|Q108289399,
+education industry,education industry,Q11499366,8,2,1,economic branch of learning activites,test prep industry|educational industry|educational sector|school sector,,Q268592|Q17987890,
+education industry,Education Industry News,Q126246678,8,2,1,scientific article published in 1967,,Q13442814,,
+education industry,Education Industry 4.0: Big Data Security,Q113415542,8,2,1,scientific article published on 07 May 2022,,Q13442814,,
+education industry,Education Industry and Higher Educational System Reform,Q120539866,8,2,1,"scholarly article in Journal of Shanxi University (Philosophy and Social Science Edition) no. 1, 2001",,Q13442814,,
+education industry,marketing educator,Q124545535,8,2,2,someone who teaches in the field of marketing,marketing trainer|marketing teacher|marketing scholar|marketing expert|marketing researcher,Q28640,Q1391411|Q974144|Q108289399,
+French Civil Service,French Civil Service,Q1161855,9,0,1,description of the French civil service,civil service in France,Q11771944|Q28640,,French civil service
+French Civil Service,civil service of the State,Q104050270,9,0,2,part of the French state,,Q11771944,,
+civil service of the State,civil service of the State,Q104050270,9,1,1,part of the French state,,Q11771944,,
+civil service of the State,French Civil Service,Q1161855,9,1,2,description of the French civil service,civil service in France,Q11771944|Q28640,,French civil service
+stove grate manufacturer,stove grate manufacturer,Q104661599,10,0,1,person or company making grates for wood or solid fuel burning stoves,,Q28640|Q4830453,,
+ferrous metallurgy,iron and steel industry,Q2285982,10,2,1,heavy industry that deals with the production of steel,iron-and-steel industry|ferrous industry|industry of ferrous metals|ferrous metal industry|ferrous metallurgy|iron-steel industry|steel industry,Q136653105|Q268592,Q1924906|Q622662,Ferrous metallurgy
+ferrous metallurgy,history of ferrous metallurgy,Q983246,10,2,1,evolution of siderurgy,ferrous metallurgy history,Q17524420,Q20073577,
+ferrous metallurgy,ferrous metallurgy in Ukraine,Q6822757,10,2,1,dominant heavy industry in the country,,Q74817647,,
+ferrous metallurgy,Ferrous Metallurgy Bulletin of Scientific Technical and Economic Information,Q96701437,10,2,1,,,Q5633421,,
+ferrous metallurgy,ferrous metallurgy in Belarus,Q61889545,10,2,1,,,Q2285982,,
+ferrous metallurgy,Ferrous metallurgy in the era of trade wars,Q127639844,10,2,1,scholarly article,,Q13442814,,
+ferrous metallurgy,stove grate manufacturer,Q104661599,10,2,2,person or company making grates for wood or solid fuel burning stoves,,Q28640|Q4830453,,

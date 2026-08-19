@@ -1,0 +1,47 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+State Highway 10,State Highway 10,Q7603239,0,0,1,"road in Kerala, India",,Q1788582,,State Highway 10 (Kerala)
+State Highway 10,State Highway 10,Q7603244,0,0,1,"road in Tamil Nadu, India",,Q269949,,State Highway 10 (Tamil Nadu)
+State Highway 10,State Highway 10,Q7603240,0,0,1,"road in Maharashtra‎, India",,Q269949,,State Highway 10 (Maharashtra)
+State Highway 10,State Highway 10,Q7603238,0,0,1,"road in Rajasthan, India",,Q269949,,State Highway 10 (Rajasthan)
+State Highway 10,State Highway 10,Q2175466,0,0,1,"state highway in Karnataka, India",KA SH 10,Q269949,,State Highway 10 (Karnataka)
+State Highway 10,State Highway 10,Q30598257,0,0,1,state highway in India,,Q34442,,State Highway 10 (West Bengal)
+State Highway 10,State Highway 10,Q17083674,0,0,1,"road in Himachal Pradesh, India",,Q34442,,State Highway 10 (Himachal Pradesh)
+State Highway 10,State Highway 10,Q115978632,0,0,1,"state highway in Madhya Pradesh, India",,Q34442,,State Highway 10 (Madhya Pradesh)
+State Highway 10,New Mexico State Road 104,Q30646598,0,0,1,"state highway in San Miguel and Quay counties in New Mexico, United States",Road 104|State Road 104|State Highway 104|NM 104,Q34442,,New Mexico State Road 104
+State Highway 10,Missouri Route 103,Q2485313,0,0,1,"state highway in southeastern Missouri, United States",Route 103|State Route 103|State Highway 103|Highway 103|Rte. 103|Hwy. 103|Rte 103|Hwy 103|MO 103|MO-103,Q119068932,,Missouri Route 103
+State Highway 10,State Route 10,Q17792605,0,0,2,road route in Western Australia,,Q3241753,,
+State Highway 10,Interstate 8,Q19193,0,0,2,Interstate Highway in California and Arizona in the United States,I-8|Pre-1964 Legislative Route 12 (California)|Pre-1964 Legislative Route 27 (California)|Ocean Beach Freeway|Mission Valley Freeway|California State Route 109 (1964)|California State Route 109 (1964-1972)|Alvarado Freeway|State Route 109 (California 1964)|Kumeyaay Highway|Kumeyaay Freeway|I-8 Freeway,Q34442,,Interstate 8
+State Highway 10,Pennsylvania State Route 1002,Q1645945,0,0,2,"highway in Lehigh County, Pennsylvania",State Route 1002|SR 1002|Tilghman Street|Union Boulevard|Main Street,Q34442,,"State Route 1002 (Lehigh County, Pennsylvania)"
+State Highway 10,State Route 102,Q23940993,0,0,2,road route in Western Australia,,Q3241753,,
+State Highway 10,Maine State Route 103,Q2436345,0,0,2,"state highway in York County, Maine, US",SR 103|State Route 103,Q34442,,Maine State Route 103
+State Highway 10,Missouri Route 100,Q1939198,0,0,2,"state highway in eastern Missouri, United States",Route 100|State Highway 100|Highway 100|MO 100|MO-100|Hwy. 100|Hwy 100|Rte. 100|Rte 100|State Route 100,Q119068932,,Missouri Route 100
+State Highway 10,Colorado State Highway 10,Q1111358,0,0,2,"state highway in Colorado, United States",SH 10,Q34442,,Colorado State Highway 10
+State Highway 10,Texas State Highway 10,Q2503641,0,0,2,"state highway in Tarrant County, Texas, United States",SH 10,Q34442,,Texas State Highway 10
+State Highway 10,SH-10-TC,Q54953195,0,0,2,cell line,SH10TC|SH-10,Q21014462|Q23058136,,
+State Highway 10,Sh-102,Q4528295,0,0,2,,,Q4818021,,
+State Highway 10,Sh-104,Q4528297,0,0,2,,,Q4818021,,
+State Highway 10,Sh-103,Q4528296,0,0,2,,,Q4818021,,
+State Highway 10,Sh-108,Q4528302,0,0,2,,,Q4818021,,
+State Highway 10,Sh-107,Q4528301,0,0,2,,,Q4818021,,
+State Highway 10,Sh-105,Q4528298,0,0,2,,,Q4818021,,
+State Highway 10,Sh-109,Q4528304,0,0,2,,,Q4818021,,
+N8,octaazacubane,Q10892263,1,0,1,hypothetical allotrope of nitrogen,cubaazane|nitrogen cubane|N8,Q113145171,Q56271974|Q30126005|Q24885589,Octaazacubane
+N8,N8 road,Q2150997,1,0,1,road in Luxembourg,N8,Q104637874,,
+N8,Route nationale 8,Q1410126,1,0,1,route nationale,N8|N 8|N8 road|National road 8,Q1426271,,Route nationale 8
+N8,Nokia N8,Q727286,1,0,1,2010 smartphone model manufactured by Nokia,,Q19723451,Q755904,Nokia N8
+N8,N8 road,Q2185953,1,0,1,road in Belgium,N8,Q1821082,,N8 road (Belgium)
+N8,kz,Q29715699,1,0,1,protein-coding gene in the species Drosophila melanogaster,kurz|Dmel_CG3228|l67|Dmel\CG3228|CG3228|l(1)N4|EG:30B8.2|N1|N8|l(1)2Eb,Q7187,,
+N8,N8 road,Q1771632,1,0,1,road in trans-European E-road network,E201,Q34442,,N8 road (Ireland)
+N8,N8,Q6952035,1,0,1,National Highway in Bangladesh,,Q34442|Q269949,,N8 (Bangladesh)
+N8,N8,Q74858565,1,0,1,supercomputer,,Q121117,,
+N8,NAMEC8,Q54907468,1,0,1,cell line,NAMEC 8|N8|Naturally Arising MEsenchymal Cells 8,Q21014462|Q27555319,,
+N7,Route nationale 7,Q399668,2,0,1,route nationale,N7|N 7|N7 road|National road 7,Q1426271,,Route nationale 7
+N7,N7 road,Q836277,2,0,1,road in Luxembourg,N7,Q104637874,,
+N7,N7 road,Q2601395,2,0,1,national primary road in Ireland,,Q34442,,N7 road (Ireland)
+N7,N7 road,Q3445303,2,0,1,road in Belgium,N7,Q1821082,,N7 road (Belgium)
+N7,N7,Q111442110,2,0,1,7 nm semiconductor process node by TSMC,TSMC 7nm|TSMC N7|TSMC 7 nanometer|TSMC 7 nanometre|TSMC 7 nm|TSMC 7nm FinFET,Q4643915,,
+N7,Route nationale 7,Q45814966,2,0,1,trunk road in Niger,N7|RN7,Q2145163,,
+N7,N7,Q6952021,2,0,1,road in Bangladesh,,Q34442|Q269949,,N7 (Bangladesh)
+N7,N7,Q1934927,2,0,1,national highway in Ghana,N7 road|Fufulso-Sawla Road|Fufulso-Damongo-Sawla Road,Q34442,,N7 road (Ghana)
+N7,Route nationale 7,Q3445304,2,0,1,road in Réunion,N7 road|National road 7,Q34442,,
+N7,Route nationale 7,Q17638511,2,0,1,road in the Collectivity of Saint Martin,N7 road|National road 7,Q34442,,

@@ -1,0 +1,23 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+[RRB2014] RM J083723.2+012437.7,[RRB2014] RM J083723.2+012437.7,Q67634972,0,0,1,galaxy cluster,,Q204107,,
+Str 0445-610,Str 0445-610,Q78724464,1,0,1,galaxy cluster in the constellation Dorado,,Q204107,,
+Str 0445-610,vehicle registration plate,Q22706,1,0,2,metal or plastic identification plate attached to a motor vehicle or trailer,car number plate|vehicle registration plates|car plate|car registration plates|car license plate|vehicle registration mark|vehicle licence plates|license plates|vehicle license plate|car registration codes|car designation|car tag|registration plate|registration number plate|vehicle sign|car registration plate|vehicle licence plate|car licence plate|vehicle registration number|licence plate|number plates on cars|automobile license plate|car plates|number plate|license plate,Q63981612,Q105449313|Q117209209,Vehicle registration plate
+Str 0445-610,vehicle registration plates of Germany,Q254262,1,0,2,Wikimedia list article,list of vehicle registration plates of Germany|German automobile number plates,,Q17089282,Vehicle registration plates of Germany
+Str 0445-610,vehicle registration plates of Russia,Q929545,1,0,2,Russia vehicle license plates,,Q22706,Q17089282,Vehicle registration plates of Russia
+Str 0445-610,vehicle registration plates of Ohio,Q3391676,1,0,2,vehicle registration plate issued by the US state of Ohio,vehicle registration plate of Ohio|Ohio vehicle license plate,,Q22706,Vehicle registration plates of Ohio
+Str 0445-610,vehicle registration plate design,Q111903073,1,0,2,pattern and layout of a vehicle registration plate,,,Q1462272|Q109772990|Q10929058,
+Str 0445-610,vehicle registration plates of Japan,Q1442604,1,0,2,Japan vehicle license plates,,,Q22706,Vehicle registration plates of Japan
+Str 0445-610,vehicle registration plates of the United Kingdom,Q29025017,1,0,2,one of the UK systems for motor vehicle identification. Current system example; AB12 ABC (12 denoting year of issue).,vehicle registration plates in the United Kingdom|vehicle registration plates (United Kingdom)|United Kingdom's vehicle registration plates,,Q22706,Vehicle registration plates of the United Kingdom
+Str 0445-610,vehicle registration plates of the Netherlands,Q1269379,1,0,2,Netherlands vehicle license plates,Vehicle registration plates of the Netherlands,,Q17089282,Vehicle registration plates of the Netherlands
+Str 0445-610,vehicle registration plates of Ukraine,Q1740449,1,0,2,,Ukrainian automobile number plates,Q22706,Q17089282,Vehicle registration plates of Ukraine
+Str 0445-610,vehicle registration plates of Romania,Q1051573,1,0,2,Wikimedia list article,,Q13406463,Q17089282,Vehicle registration plates of Romania
+Str 0445-610,license plate,Q2594775,1,0,2,,,,Q853614,
+Str 0445-610,License Plate,Q18615042,1,0,2,1105th strip of the webcomic xkcd,xkcd 1105,Q838795,,
+Str 0445-610,license plate recognition,Q112181172,1,0,2,cognitive task,,,Q112181177,
+Str 0445-610,vehicle registration plates of Serbia,Q773286,1,0,2,Serbia vehicle license plates,Serbian license plate|license plates of Serbia,Q22706,Q17089282,Vehicle registration plates of Serbia
+Str 0445-610,vehicle registration plates of the United States,Q1740451,1,0,2,American license plates,license plates of the United States,,Q22706,Vehicle license plates of the United States
+Str 0445-610,License Plate Readers for Law Enforcement : Opportunities and Obstacles,Q60188003,1,0,2,book,,Q3331189,,
+Str 0445-610,"vehicle registration plates of the United Kingdom, Crown Dependencies and British Overseas Territories",Q1740452,1,0,2,mandatory alphanumeric plates used to display the registration mark of a vehicle,license plates,,Q17089282,"Vehicle registration plates of the United Kingdom, Crown Dependencies and British Overseas Territories"
+Str 0445-610,vehicle registration plates of Illinois,Q7918497,1,0,2,license plates issued by the state of Illinois,license plates of Illinois,,,Vehicle registration plates of Illinois
+Str 0445-610,License Plate (NAID 26133718),Q64179214,1,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+ZwCl 1034+6320,ZwCl 1034+6320,Q75411913,2,0,1,,,Q204107,,

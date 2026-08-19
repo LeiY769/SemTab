@@ -1,0 +1,146 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lagoa Branca,Lagoa Branca,Q1800443,0,0,1,crater lake in the Azores,,Q204324,,
+Lagoa Branca,Lagoa Branca,Q48878919,0,0,1,,,Q3624938,,
+Lagoa Branca,Lagoa Branca,Q140133743,0,0,1,"village in Sergipe, Brazil",,,,Lagoa Branca
+Lagoa Branca,Quilombo Lagoa Branca,Q112527583,0,0,1,"quilombo community in Campo Formoso, Bahia, Brazil",,Q1415423,,
+Lagoa do Fogo,Lagoa do Fogo,Q1800480,1,0,1,"crater lake, on the island of São Miguel",,Q204324,,Lagoa do Fogo
+Lagoa do Fogo,Lagoa do Fogo,Q63378556,1,0,1,protected area in Portugal,,Q179049|Q473972,,
+Lagoa do Fogo,Lagoa do Fogo,Q22020218,1,0,1,"lake in Rio Grande do Norte, Brazil",,Q23397,,
+Lagoa do Fogo,Lagoa do Fogo - Ilha de S. Miguel,Q63378512,1,0,1,protected area in Portugal,,Q796174|Q15069452,,
+Lagoa do Fogo,Lagoa do Fogo,Q29064800,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Lagoa do Fogo,Fogo,Q426555,1,0,2,only island of Cape Verde with an active volcano,Fogo Island,Q23442,,"Fogo, Cape Verde"
+Lagoa do Fogo,Fogo Island,Q5464129,1,0,2,"town in Newfoundland and Labrador, Canada",,Q44529188,,
+Lagoa do Fogo,Fogo Island,Q1435159,1,0,2,"island and also town in Newfoundland and Labrador, Canada",,Q23442|Q15284,,"Fogo Island, Newfoundland and Labrador"
+Lagoa do Fogo,Fogo Island League,Q5464131,1,0,2,football league,,Q13406554,,Fogo Premier Division
+Lagoa do Fogo,"Fogo Island, Newfoundland and Labrador",Q106234135,1,0,2,episode of Still Standing (S1 E13),,Q21191270,,
+Lagoa do Fogo,Newfoundland and Labrador Route 333,Q16673336,1,0,2,highway in Newfoundland and Labrador,Fogo Island Road,Q34442,,Newfoundland and Labrador Route 333
+Lagoa do Fogo,Fogo Island-Cape Freels,Q24190870,1,0,2,"provincial electoral district in Newfoundland and Labrador, Canada",,Q47454980,,Fogo Island-Cape Freels
+Lagoa do Fogo,Fogo Island Inn,Q113148621,1,0,2,"inn at Joe Batt's Arm, Newfoundland and Labrador",,Q256020,,
+Lagoa do Fogo,Fogo Island Radar Station,Q116763844,1,0,2,ground Radar Early Warning station,,Q245016,,Fogo Island Radar Station
+Lagoa do Fogo,Fogo Island Inn,Q111946221,1,0,2,"building in Fogo Island, Newfoundland",,,,Fogo Island Inn
+The Crater,The Crater,Q122370712,2,0,1,2019 video game,,Q7889,,
+The Crater,The Crater,Q115767017,2,0,1,megabiome on Planet 4546B,Crater (Planet 4546B)|Crater (4546B)|The Crater (biome)|The Crater (megabiome)|Crater (biome)|Crater (megabiome),Q123598837,,
+The Crater,The Crater,Q512112,2,0,1,Japanese manga,Za kurētā,Q21198342,,The Crater (manga)
+The Crater,The Crater,Q2369326,2,0,1,"fossil site in Queensland, Australia",,Q9096832|Q8502,,
+The Crater,The Crater,Q31450627,2,0,1,"volcanic crater in Dunedin, New Zealand",,Q109391,,
+The Crater,The Crater,Q49004755,2,0,1,"crater in Powell County, Montana",,Q3240715,,
+The Crater,The Crater,Q49004756,2,0,1,"crater in Elko County, Nevada",,Q3240715,,
+The Crater,The Crater,Q49004752,2,0,1,"crater in Clark County, Idaho",,Q3240715,,
+The Crater,The Crater,Q49004753,2,0,1,"volcanic crater in Lincoln County, Idaho, United States",,Q109391,,
+The Crater,The Crater,Q4865365,2,0,1,novel by James Fenimore Cooper,"The Crater, or Vulcan's Peak: a Tale of the Pacific|The Crater of Vulcan Peak|Mark's Reef: or, The Crater. A Tale of the Pacific",Q7725634,,The Crater (novel)
+The Crater,Crater,Q9282,2,0,2,constellation in the southern celestial hemisphere,Crt|Crateris|Crater (constellation),Q8928,,Crater (constellation)
+The Crater,crater,Q3240715,2,0,2,"depression on the Earth or celestial body caused by some form of explosion, including bolide impact, volcanic eruption or chemical/nuclear explosion",,,Q190429,Crater
+The Crater,Crater,Q37487461,2,0,2,family name,,Q101352,,
+The Crater,Craterellus,Q2097845,2,0,2,genus of fungi,,Q16521,,Craterellus
+The Crater,Crater Lake,Q113986846,2,0,2,"lake in King County, Washington, United States",,Q23397,,
+The Crater,lunar crater,Q1348589,2,0,2,impact crater on the surface of Earth's moon,crater on the moon|moon crater,Q751989,Q55818,Lunar craters
+The Crater,Craterostigma,Q5198762,2,0,2,genus of plants,,Q16521,,Craterostigma
+The Crater,cartwtereementas de mitas,Q857903,2,0,2,species of edible fungus,Craterellus cornucopioides|trompeta negra|rebozuelo negro,Q16521|Q11619941,,Craterellus cornucopioides
+The Crater,Craterispermum,Q5182644,2,0,2,genus of plants,,Q16521,,Craterispermum
+The Crater,Craterocephalus,Q1587230,2,0,2,genus of fishes,,Q16521,,Craterocephalus
+The Crater,volcanic crater lake,Q204324,2,0,2,lake formed within a volcanic crater,crater lake|caldera lake,,Q100900880|Q29025902|Q66716634,Volcanic crater lake
+The Crater,Crater Lake,Q329266,2,0,2,caldera lake in south-central Oregon and main feature of Crater Lake National Park,,Q204324|Q23397|Q66716634,,Crater Lake
+The Crater,impact crater lake,Q11726988,2,0,2,lake formed within an impact crater,crater lake|annular lake,,Q100900880|Q13598778,Impact crater lake
+The Crater,crater lake,Q100900880,2,0,2,"lake in a crater, regardless of the type of crater",,,Q11253318,
+The Crater,Mowich Lake,Q3215069,2,0,2,"lake in Pierce County, Washington state, United States of America",Crater Lake,Q23397,,Mowich Lake
+The Crater,Crater Lake,Q15211956,2,0,2,lake of the South Shetland Islands,Jade Crater Lake,Q23397,,Crater Lake (South Shetland Islands)
+The Crater,Crater Lake,Q114275957,2,0,2,lake at the top of Mount Ruapehu in New Zealand,Ruapehu Crater Lake,Q204324|Q23397|Q100900880,,
+The Crater,Crater Lake National Park,Q239304,2,0,2,"national park in Klamath, Douglas, and Jackson counties in Oregon, United States",CRLA,Q34918903,,Crater Lake National Park
+The Crater,Crater Lake Lodge,Q5182624,2,0,2,lodge in Crater Lake National Park,,Q56439882,,Crater Lake Lodge
+Lake Tarawera,Lake Tarawera,Q4284,3,0,1,lake in the North Island of New Zealand,Tarawera Lake,Q204324,,Lake Tarawera
+Lake Tarawera,Lake Tarawera,Q85173074,3,0,1,"locality on the northwestern shores of Lake Tarawera, New Zealand",,Q3257686,,
+Lake Tarawera,Lake Tarawera Historic Reserve,Q32242978,3,0,1,historic reserve in New Zealand,,Q112161119,,
+Lake Tarawera,Lake Tarawera Landing,Q102037391,3,0,1,painting by William Mowbray Barraud,,Q3305213,,
+Lake Tarawera,Lake Tarawera Scenic Reserve,Q106569679,3,0,1,reserve in New Zealand,,Q63248569,,
+East Lake,East Lake,Q35694960,4,0,1,"lake in Tulare County, California, United States of America",,Q23397,,
+East Lake,East Lake,Q845631,4,0,1,lake,,Q23397,,East Lake (Wuhan)
+East Lake,Eastlake,Q2238111,4,0,1,"human settlement in Manistee County, Michigan, United States of America","Eastlake, Michigan|East Lake|Eastlake, MI",Q751708|Q486972,,"Eastlake, Michigan"
+East Lake,East Lake,Q965206,4,0,1,"unincorporated community in Pinellas County, Florida, United States","East Lake, Pinellas County, Florida|East Lake, FL",Q486972|Q498162,,"East Lake, Pinellas County, Florida"
+East Lake,East Lake,Q5328766,4,0,1,MARTA rail station,,Q928830|Q22808404,,East Lake station
+East Lake,East Lake,Q5328767,4,0,1,"human settlement in Nova Scotia, Canada","East Lake, Nova Scotia",Q486972,,"East Lake Ainslie, Nova Scotia"
+East Lake,East Lake,Q5328765,4,0,1,lake of the United States of America,,Q204324,,East Lake (Oregon)
+East Lake,East Lake,Q3215588,4,0,1,"lake on the border of Aroostook County, Maine and Kamouraska Regional County Municipality, Canada",,Q23397,,East Lake (Canada – United States border)
+East Lake,East Lake,Q14686620,4,0,1,"human settlement in Atlanta, Georgia, United States of America","East Lake, Atlanta",Q123705,,"East Lake, Atlanta"
+East Lake,East Lake,Q114427711,4,0,1,"lake in Langlade County, Wisconsin, United States of America",,Q23397,,
+East Lake,East Lake Dam,Q34810211,4,0,2,"dam in Salem County, New Jersey, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q32837919,4,0,2,"dam in Carroll County, Missouri, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q33130402,4,0,2,"dam in Itasca County, Minnesota, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q31574642,4,0,2,"dam in Tuscaloosa County, Alabama, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q34810204,4,0,2,"dam in Morris County, New Jersey, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q21944600,4,0,2,"dam in Northern Territory, Australia",,Q12323,,
+East Lake,East Lake Dam,Q34810196,4,0,2,"dam in Cumberland County, New Jersey, United States of America",,Q12323,,
+East Lake,East Lake Dam,Q21661690,4,0,2,Wikimedia disambiguation page,,Q4167410,,
+Lake Nar,Lake Nar,Q20988477,5,0,1,"maar lake in Niğde, Turkey",Acıgöl,Q204324|Q23397,,Lake Nar
+Lake Nar,Lake Nar,Q34721222,5,0,1,"marsh in Manyara Region, Tanzania",,Q30198,,
+Lake Nar,Lake Naroch Offensive,Q525934,5,0,1,1916 military operation,,Q645883,,Lake Naroch offensive
+Lake Nar,Lake Naramata,Q34910246,5,0,1,,,Q131681,,
+Lake Nar,Lake Narracan,Q1801019,5,0,1,"lake in Victoria, Australia",,Q23397,,Lake Narracan
+Lake Nar,Lake Narie,Q2069528,5,0,1,lake in Poland,Jezioro Narie,Q23397,,Lake Narie
+Lake Nar,Lake Narungazi,Q21333236,5,0,1,lake in Burundi,,Q23397,,Lake Narungazi
+Lake Nar,Lake Naragaga,Q35733737,5,0,1,lake in Uganda,,Q23397,,
+Lake Nar,Lake Naraneka Dam,Q31806355,5,0,1,"dam in Fairfield County, Connecticut, United States of America",,Q12323,,
+Lake Nar,Lake Narcissus,Q35733745,5,0,1,lake of the United States of America,,Q23397,,
+Lake Eacham,Lake Eacham,Q1332881,6,0,1,"crater lake in Queensland, Australia","Lake Eacham, Queensland|Lake Eacham, Queensland, Australia",Q204324,,Lake Eacham (Queensland)
+Lake Eacham,Lake Eacham,Q55819326,6,0,1,"locality in Tablelands, Queensland, Australia","Lake Eacham, Queensland, Australia|Lake Eacham, Queensland",Q3257686,,"Lake Eacham, Queensland"
+Lake Eacham,Lake Eacham rainbowfish,Q3319619,6,0,1,species of fish,Melanotaenia eachamensis,Q16521,,Lake Eacham rainbowfish
+Lake Eacham,Lake Eacham Hotel,Q24894860,6,0,1,historical Australian hotel,,Q27686,,Lake Eacham Hotel
+Lake Eacham,Lake Eacham,Q92779597,6,0,1,Wikimedia disambiguation page,,Q4167410,,Lake Eacham
+Okama,Okama,Q11261399,7,0,1,agfay,,Q2393196,,
+Okama,Okama,Q7081759,7,0,1,Japanese manga artist,Ayana Amako,Q5,,Okama (artist)
+Okama,Okama,Q11489343,7,0,1,Lake in Japan,,Q204324|Q23397,,Okama Crater Lake
+Okama,Ōkama Station,Q8081544,7,0,1,"railway station in Takizawa, Iwate Prefecture, Japan",,Q55488|Q4312270|Q122397434|Q85882206|Q123094976,,Ōkama Station
+Okama,Emporio Ivankov,Q3724859,7,0,1,fictional character from One Piece,Okama King|Miracle Person|Iva,Q15632617|Q87576284|Q80447738|Q1569167,,Emporio Ivankov
+Okama,Okamachi Station,Q3970333,7,0,1,"railway station in Toyonaka, Osaka prefecture, Japan",,Q55488,,Okamachi Station
+Okama,Okamatsu Ōkoku,Q17224054,7,0,1,Japanese Confucian scholar (1820–1895),Okamatsu Yōkoku,Q5,,
+Okama,Okama-ike Pond,Q66089898,7,0,1,part of a World Heritage site in Japan,Okama Pond|Okamaike,Q3253281,,
+Okama,Okamaitachi,Q63437672,7,0,1,"fictional character in the anime and manga franchise ""One Punch-Man""",,Q95074,,
+Okama,Marina Okada,Q29842602,7,0,1,Japanese singer,Okada Marina|Okamari|Malina,Q5,,
+Laacher See,Laacher See,Q549267,8,0,1,volcanic crater lake in Germany,Laach Lake|Lake Laach,Q204324,,Laacher See
+Laacher See,Laacher See Nature Reserve,Q1534041,8,0,1,"nature reserve in Rheinland-Pfalz, Germany",,Q759421|Q473972,,
+Laacher See,Laacher See Tephra,Q1909618,8,0,1,,,Q736917,,
+Laacher See,Laacher See volcanic eruption,Q13103696,8,0,1,major volcanic eruption around 11000 BCE at the Laacher See in Germany,,Q7692360,,
+Laacher See,Laacher See Tephra: A widespread isochronous late Quaternary tephra layer in central and northern Europe,Q107393734,8,0,1,scientific article published in 1985,,Q13442814,,
+Laacher See,Laacher See revisited: High-spatial-resolution zircon dating indicates rapid formation of a zoned magma chamber,Q57964777,8,0,1,scientific article,,Q13442814,,
+Laacher See,"Laacher See tephra discovered in the Bohemian Forest, Germany, east of the eruption",Q108057452,8,0,1,scientific article,,Q13442814,,
+Laacher See,Laach volcano,Q124635096,8,0,1,volcano in the Eifel mountain range,,Q192503|Q8072|Q159954,,
+Lake Barrine,Lake Barrine,Q31107283,9,0,1,"locality in Queensland, Australia","Lake Barrine, Queensland|Lake Barrine, Queensland, Australia",Q3257686,,"Lake Barrine, Queensland"
+Lake Barrine,Lake Barrine,Q1800857,9,0,1,"volcanic crater lake in Queensland, Australia",,Q204324,,Lake Barrine
+Lake Barrine,Lake Barrine to Lake Eacham Rainforest Corridor Nature Refuge,Q139754303,9,0,1,"nature refuge in Queensland, Australia",Lake Barrine to Lake Eacham Rainforest Corridor,Q179049,,
+Heaven Lake,Heaven Lake,Q714023,10,0,1,crater lake in China/North Korea,Tianchi Lake|Cheonji|Ch'ŏnji|Tianchi|T'ien ch'ih|Tamun omo|Tamun juce|Changbaishan Tianchi,Q204324|Q23397,,Heaven Lake
+Heaven Lake,Heaven Lake,Q22612114,10,0,1,"lake in Ontario, Canada",,Q23397,,
+Heaven Lake,Heaven Lake,Q5694707,10,0,1,2004 novel by John Dalton,,Q7725634,,Heaven Lake (novel)
+Heaven Lake,Heaven Lake of Tian Shan,Q965252,10,0,1,lake,,Q23397|Q6838244,,Heavenly Lake of Tian Shan
+Heaven Lake,Heaven Lake Press,Q138660923,10,0,1,"book publisher in Bangkok, Thailand",,Q1320047,,
+Ono,Ōno-shi,Q385684,11,0,1,"city in Fukui Prefecture, Japan",Ono City|Ono-shi|Ōno|Ono,Q494721,,"Ōno, Fukui"
+Ono,Ōno-chō,Q1203308,11,0,1,"town in Ibi District, Gifu Prefecture, Japan",Ono Town|Ono-cho|Ōno|Ono,Q1059478,,"Ōno, Gifu"
+Ono,Ono,Q68518388,11,0,1,family name,,Q101352,,Ono (surname)
+Ono,Tank ONO,Q2392813,11,0,1,company in the Czech Republic,"Tank ONO, s.r.o.|ONO",Q4830453|Q6881511|Q783794|Q64027599,,
+Ono,Yoko Ono,Q117012,11,0,1,Japanese artist and activist based in the United States (born 1933),Yōko Ono|Ono Yōko|Yoko Ono Lennon|Ono Yoko|Ono|Ĭoko Ono,Q5,,Yoko Ono
+Ono,Ono,Q19797955,11,0,1,Japanese family name (小野),,Q101352|Q19914123,,
+Ono,Onobrychis,Q156932,11,0,1,genus of plants,sainfoin,Q16521,Q211439,Onobrychis
+Ono,Ōno district,Q8081656,11,0,1,"former district in Fukui prefecture, Japan",,Q46426234,,"Ōno District, Fukui"
+Ono,Onosma,Q571166,11,0,1,genus of plants,,Q16521,,Onosma
+Ono,Ononis,Q157354,11,0,1,genus of plants,,Q16521,,Ononis
+Ono,Ono Island,Q7094419,11,0,2,"island in Baldwin County, Alabama, United States","Ono Island, Alabama",Q1205140|Q23442,,"Ono Island, Alabama"
+Ono,Ono Island,Q2536909,11,0,2,island in Fiji,,Q23442|Q1161185,,Ono Island (Fiji)
+Ono,Ono Island,Q16462855,11,0,2,Wikimedia disambiguation page,,Q4167410,,Ono Island
+Lagoa Funda,Lagoa Funda,Q1800446,12,0,1,crater lake in the Azores,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q22052277,12,0,1,"lake in Santa Catarina, Brazil",,Q23397,,
+Lagoa Funda,Lagoa Funda,Q1800448,12,0,1,crater lake on Terceira,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q22045404,12,0,1,"lake in São Paulo, Brazil",,Q23397,,
+Lagoa Funda,Lagoa Funda,Q10315694,12,0,1,human settlement in Brazil,,Q123705,,
+Lagoa Funda,Lagoa Funda das Lajes,Q1354682,12,0,1,crater lake,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q1391027,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Lagoa Funda,Lagoa Funda,Q1800446,13,0,1,crater lake in the Azores,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q22052277,13,0,1,"lake in Santa Catarina, Brazil",,Q23397,,
+Lagoa Funda,Lagoa Funda,Q1800448,13,0,1,crater lake on Terceira,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q22045404,13,0,1,"lake in São Paulo, Brazil",,Q23397,,
+Lagoa Funda,Lagoa Funda,Q10315694,13,0,1,human settlement in Brazil,,Q123705,,
+Lagoa Funda,Lagoa Funda das Lajes,Q1354682,13,0,1,crater lake,,Q204324,,
+Lagoa Funda,Lagoa Funda,Q1391027,13,0,1,Wikimedia disambiguation page,,Q4167410,,
+Lagoa Rasa,Lagoa Rasa,Q1800454,14,0,1,crater lake on Flores island,,Q204324,,
+Lagoa Rasa,Lagoa Rasa,Q1800456,14,0,1,"lake in Feteiras, Azores",,Q23397,,
+Lagoa Rasa,Lagoa Rasa,Q1800457,14,0,1,"lake in Sete Cidades, Azores",,Q204324,,
+Lagoa Rasa,Lagoa Rasa (quilombo),Q10315712,14,0,1,"quilombola Community in Paraíba, Brazil",,Q618123,,Lagoa Rasa (quilombo)
+Lagoa Rasa,Lagoa Rasa Eef,Q136899741,14,0,1,"rural school in Viçosa do Ceará, Ceará, Brazil",,Q19855165|Q136386339,,
+Lagoa Rasa,Lagoa Rasa,Q1476078,14,0,1,Wikimedia disambiguation page,,Q4167410,,

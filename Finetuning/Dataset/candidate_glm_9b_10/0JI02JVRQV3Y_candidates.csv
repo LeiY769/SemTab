@@ -1,0 +1,5 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+radon-197,radon-197,Q18888506,0,0,1,isotope of radon,Rn-197|197Rn,Q2334543,Q1133,Radon-197
+radon-197,radon-197m,Q18888509,0,0,1,isotope of radon,Rn-197m|197mRn,Q846110|Q2334543,Q1133,
+radon-217,radon-217,Q18888585,1,0,1,isotope of radon,Rn-217|217Rn,Q2334543,Q1133,Radon-217
+radon-217,isotope of radon,Q2334543,1,0,2,,,,Q25276,Isotopes of radon

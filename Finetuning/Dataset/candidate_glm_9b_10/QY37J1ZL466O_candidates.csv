@@ -1,0 +1,95 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+X Persei,X Persei,Q4597650,0,0,1,binary star system in the constellation Perseus,HD 24534|HR 1209,Q50053|Q812800|Q2154519|Q1993624|Q1044693|Q6243|Q67206691|Q845169|Q4360|Q72803622|Q71962386,,X Persei
+X Persei,X Persei,Q68203436,0,0,1,scientific article published in January 1978,,Q13442814,,
+X Persei,X Persei,Q68621518,0,0,1,scientific article published in January 1991,,Q13442814,,
+X Persei,X Persei,Q68273954,0,0,1,,,Q13442814,,
+X Persei,X Persei,Q68203763,0,0,1,scientific article published in January 1975,,Q13442814,,
+X Persei,X PERSEI AND X-RAY SOURCE 3U0352+30,Q100234882,0,0,1,article published in 1977,,Q13442814,,
+X Persei,X Persei : the light level decreases,Q68225871,0,0,1,scientific article published in 1989,,Q13442814,,
+X Persei,X Persei: optical polarization variation on the 580 day binary-like period,Q68587941,0,0,1,scientific article published in 1983,,Q13442814,,
+X Persei,X Persei : the optical 13.9-minute periodicity,Q68609418,0,0,1,scholarly article,,Q13442814,,
+X Persei,Alpha Persei,Q13790,0,0,2,star in the constellation Perseus,Mirfak|33 Persei|* alf Per,Q523|Q13890|Q6243|Q67206691|Q1547772|Q71798788|Q67206785,,Alpha Persei
+X Persei,Alpha Persei Cluster,Q1072618,0,0,2,open cluster in the constellation Perseus,,Q11387,,Alpha Persei Cluster
+X Persei,Gamma Pegasi,Q954716,0,0,2,variable star in the constellation Pegasus,Algenib|88 Pegasi|γ Peg|88 Peg|γ Pegasi|V* gam Peg|gam Peg|HR 39|HD 886|HIC 1067|HIP 1067|HGAM 5|PHL 734|UBV 128|WEB 185|GC 238|GCRV 105|PLX 33|ALS 15090|ROT 69|Algemo,Q13890|Q6243|Q764463|Q67206691|Q71798532|Q67206785|Q71798788|Q523|Q353834,,Gamma Pegasi
+X Persei,Algenib,Q83631346,0,0,2,ship built in 1960,IMO 5010830,Q11446,,
+X Persei,Algenib,Q117070559,0,0,2,fishing vessel,IMO 7045140,Q1420024,,
+X Persei,Algenib,Q23852575,0,0,2,article in Otto's encyclopedia,,Q13433827,,
+X Persei,Algenib is a spectroscopic binary,Q68275380,0,0,2,,,Q13442814,,
+X Persei,algenib s. m. (supplément),Q56691359,0,0,2,entry in Grand dictionnaire universel du XIXe siècle,,Q3055347|Q1580166,,
+X Persei,algenib s. m.,Q56691358,0,0,2,entry in Grand dictionnaire universel du XIXe siècle,,Q3055347|Q1580166,,
+X Persei,Algenib,Q910725,0,0,2,Wikimedia disambiguation page,,Q4167410,,Algenib
+V4641 Sagittarii,V4641 Sagittarii,Q751252,1,0,1,binary star,,Q50053|Q2154519|Q1457376|Q67206691|Q845169|Q1407562|Q71962386,,V4641 Sagittarii
+V4641 Sagittarii,V4641 Sagittarii,Q68381774,1,0,1,scientific article published in January 2002,,Q13442814,,
+V4641 Sagittarii,V4641 Sagittarii,Q68176901,1,0,1,scientific article published in January 2000,,Q13442814,,
+V4641 Sagittarii,V4641 Sagittarii,Q68176085,1,0,1,scientific article published in January 2003,,Q13442814,,
+V4641 Sagittarii,V4641 Sagittarii and GM Sagittarii,Q68317430,1,0,1,scientific article published in January 1999,,Q13442814,,
+Messier 32,Messier 32,Q13720,2,0,1,elliptical galaxy in the constellation Andromeda,M32|New General Catalogue 221|NGC 221,Q234077|Q67206691|Q2154519|Q644507,,Messier 32
+Messier 32,Messier 32,Q98961064,2,0,1,galaxy Messier 32 as depicted in Star Trek,M32|Star Trek Messier 32,,,
+Messier 32,"4,294,967,295",Q16143324,2,0,2,natural number,2³² − 1|M32|four billion two hundred ninety-four million nine hundred sixty-seven thousand two hundred ninety-five,Q16317911|Q10338607|Q50707|Q3879418|Q1816844,,"4,294,967,295"
+Messier 32,Chromobox protein homolog 3,Q21498057,2,0,2,mouse protein (annotated by UniProtKB/Swiss-Prot P23198),HP1 gamma|Heterochromatin protein 1 homolog gamma|M32|Modifier 2 protein,Q8054,,
+Messier 32,Cbx3,Q18248152,2,0,2,protein-coding gene in the species Mus musculus,HP1g|M32|chromobox 3,Q7187,Q20747295,
+Messier 32,M32 motorway,Q1809340,2,0,2,freeway in South Gloucestershire and Bristol,,Q46622,,M32 motorway
+Messier 32,M3217,Q47107495,2,0,2,Mersenne prime,2^3217-1,Q186875|Q10338607|Q1816844,,
+Messier 32,Kazakhstan Russia border crossing #2670,Q68036963,2,0,2,,M32,Q757292,,
+Messier 32,M32582657,Q47107554,2,0,2,Mersenne prime,2^32582657-1|2^32582657 - 1,Q186875|Q10338607|Q1989350,,
+Messier 32,M32,Q39075976,2,0,2,a class of sailing catamaran,,Q106179098|Q3511280,Q2941651,M32 (catamaran)
+Messier 32,NGC 2070,Q23306973,2,0,2,open cluster in the constellation Dorado,New General Catalogue 2070|Caldwell 103|C 103,Q11387|Q523|Q1931185,,NGC 2070
+Messier 32,Tarantula Nebula,Q224145,2,0,2,H II region in the constellation Dorado,30 Doradus,Q11282|Q27150479|Q1931185,,Tarantula Nebula
+Messier 32,Messier 13,Q11312,2,0,2,Inneragual globular cluster,M13|Great Globular Cluster in Hercules|Hercules Globular Cluster,Q11276,,Messier 13
+NGC 7720,NGC 7720,Q1168908,3,0,1,galaxy,,Q28738741|Q83373|Q1931185|Q2154519|Q71965429|Q1151284,,NGC 7720
+NGC 7720,NGC 7720,Q13089632,3,0,1,,,Q28738741,,
+NGC 7720,NGC 7720-2,Q1168914,3,0,1,astronomical object,,Q318,,
+Hercules X-1,Hercules X-1,Q506178,4,0,1,binary star in the constellation Hercules,HZ Herculis,Q50053|Q2154519|Q1457376|Q1993624|Q1407562|Q71962386|Q4360|Q2979836|Q188593|Q67206785|Q71798788,,Hercules X-1
+Hercules X-1,Hercules X-1,Q68206575,4,0,1,scientific article published in January 1976,,Q13442814,,
+Hercules X-1,Hercules X-1,Q68608855,4,0,1,,,Q13442814,,
+Hercules X-1,Hercules X-1,Q68452570,4,0,1,scientific article published in January 2000,,Q13442814,,
+Hercules X-1,Hercules X-1,Q68608852,4,0,1,scientific article published in 1984,,Q13442814,,
+Hercules X-1,Hercules X-1,Q68452522,4,0,1,scientific article published in January 1983,,Q13442814,,
+Hercules X-1,Hercules X-1,Q68736073,4,0,1,,,Q13442814,,
+Hercules X-1,"Hercules X-1—a 1,000 GeV γ-ray pulsar",Q59075064,4,0,1,scientific article published in Nature,,Q13442814,,
+Hercules X-1,Hercules X-1: a neutron star with a twisted accretion disk ?,Q68582682,4,0,1,scientific article published in January 1975,,Q13442814,,
+Hercules X-1,Hercules X-1 : pulsed gamma rays detected above 250 GeV,Q68828852,4,0,1,,,Q13442814,,
+VW Hydri,VW Hydri,Q14914799,5,0,1,star in the constellation Hydrus,VW Hyi,Q244264|Q66521853|Q67206691|Q2154519|Q2247863|Q72803622|Q71798788,,VW Hydri
+VW Hydri,VW Hydri,Q68614468,5,0,1,scholarly article,,Q13442814,,
+VW Hydri,VW Hydri,Q68206839,5,0,1,scientific article published in January 1984,,Q13442814,,
+VW Hydri,VW Hydri,Q68612493,5,0,1,scientific article published in January 1989,,Q13442814,,
+VW Hydri,VW Hydri revisited : conclusions on dwarf nova outburst models,Q68120063,5,0,1,scientific article published in January 1983,,Q13442814,,
+VW Hydri,VW Hydri - results from another 4000 days of monitoring,Q68238841,5,0,1,scientific article published in January 1990,,Q13442814,,
+VW Hydri,VW Hydrae,Q93585540,5,0,2,Algol variable in the constellation Hydra,HD 72704,Q1457376|Q67206785,,
+VW Hydri,VW Hydrae,Q12778198,5,0,2,variable star in the constellation Hydra,,Q6243,,
+Lambda Eridani,Lambda Eridani,Q4272618,6,0,1,variable star in the constellation Eridanus,69 Eridani|λ Eri|69 Eri|λ Eridani|HD 33328|lam Eri|ROT 734|SACS 111|PPM 187755|PLX 1169|HGAM 370|HR 1679|GC 6304|ALS 16156|GCRV 3059|CEL 549|CSV 100453|HIP 23972|HIC 23972,Q812800|Q6243|Q67206691|Q2154519|Q67206785|Q71798788|Q353834|Q764463|Q4350564,,Lambda Eridani
+Lambda Eridani,Lambda Eridani variable,Q4350564,6,0,1,type of variable star,LERI|λ Eridani variable,Q17444909,Q812800|Q1362543,Lambda Eridani variable
+Lambda Eridani,Lambda Eridani,Q68607768,6,0,1,scientific article published in January 1983,,Q13442814,,
+Lambda Eridani,Lambda Eridani,Q68250752,6,0,1,scientific article published in January 1994,,Q13442814,,
+Lambda Eridani,Ran,Q194394,6,0,2,star in the southern constellation Eridanus,,Q863936|Q2154519|Q50053|Q2168098|Q797219|Q67206691|Q2247863|Q13890|Q67206785|Q71798788,,Epsilon Eridani
+Lambda Eridani,Epsilon Eridani,Q5383959,6,0,2,fictional depictions of Epsilon Eridani,,Q17424291|Q617332,,Epsilon Eridani in fiction
+Lambda Eridani,AEgir,Q867895,6,0,2,exoplanet in the Ran planetary system,,Q44559|Q18611609|Q523,,Epsilon Eridani b
+Lambda Eridani,Epsilon Eridani c,Q847358,6,0,2,exoplanet,eps Eridani c|* eps Eri c,Q18611609|Q523,,
+Lambda Eridani,Epsilon Eridani's planetary debris disk: structure and dynamics based on Spitzer and Caltech submillimeter observatory observations,Q53953327,6,0,2,scientific article published on 22 December 2008,EPSILON ERIDANI'S PLANETARY DEBRIS DISK: STRUCTURE AND DYNAMICS BASED ONSPITZERAND CALTECH SUBMILLIMETER OBSERVATORY OBSERVATIONS,Q13442814,,
+Lambda Eridani,"Epsilon Eridani, upsilon Andromedae, 51 Pegasi, HD 209458, HD 196050",Q68779171,6,0,2,scholarly article,,Q13442814,,
+Lambda Eridani,Epsilon Eridani' planetary companion and circumstellar dust,Q68262453,6,0,2,scholarly article,,Q13442814,,
+Lambda Eridani,Epsilon Eridani's Planetary Companion and Circumstellar Dust,Q126014412,6,0,2,scientific article published in December 1992,,Q13442814,,
+Lambda Eridani,Epsilon Eridani: active chromosphere associated with enhanced microturbulence,Q68554752,6,0,2,scientific article published in January 1981,,Q13442814,,
+Lambda Eridani,Eta Eridani,Q793731,6,0,2,star in the constellation Eridanus,Azha|HD 18322|η Eridani|η Eri|3 Eri|3 Eridani|NSV 988|HR 874|LTT 1404|GC 3539|GCRV 1638|HIP 13701|HIC 13701|CSV 100247|PPM 185202|PLX 611|SACS 62|RAFGL 403|ROT 393|SAO 130197,Q66521853|Q67206691|Q2247863|Q67206785|Q71798788|Q6243|Q523,,Eta Eridani
+Z Camelopardalis,Z Camelopardalis,Q2091184,7,0,1,variable star in the constellation Camelopardalis,Z Cam,Q2154519|Q1993624|Q1059564|Q244264,,Z Camelopardalis
+Z Camelopardalis,eruptive variable star,Q1362543,7,0,1,stars varying in brightness because of violent processes and flares occurring in their chromospheres and coronae,eruptive variable,Q17444909,Q6243,Eruptive variable
+Z Camelopardalis,Z Camelopardalis variable,Q4189419,7,0,1,type of variable star,UGZ,Q17444909,Q244264,
+Z Camelopardalis,Z Camelopardalis,Q68143305,7,0,1,,,Q13442814,,
+Z Camelopardalis,Z Camelopardalis,Q68572761,7,0,1,scientific article published in 1989,,Q13442814,,
+Z Camelopardalis,Z Camelopardalis,Q68610360,7,0,1,scholarly article,,Q13442814,,
+Z Camelopardalis,Z Camelopardalis : outburst P Cygni profiles and quiescent continuum,Q68827243,7,0,1,scientific article published in January 1986,,Q13442814,,
+Z Camelopardalis,Z Camelopardalis at standstill and in eruption,Q68586002,7,0,1,scientific article published in January 1980,,Q13442814,,
+Z Camelopardalis,Z Camelopardalis at standstill,Q68587179,7,0,1,scientific article published in January 1981,,Q13442814,,
+Z Camelopardalis,"Z Camelopardalis - erfolgreich Ausbruch am ""falschen"" stern beobachtet",Q68401687,7,0,1,scientific article published in January 2010,,Q13442814,,
+Lambda Andromedae,Lambda Andromedae,Q749234,8,0,1,star in the constellation Andromeda,λ Andromedae|λ And|HR 8961|HIP 116584|HIC 116584|16 And|16 Andromedae|lam And|ASCC 370402|CABS 204|CCABS 166|ROT 3426|SAO 53204|Udkadua|LTT 16964|GC 32832|GCRV 14808|GJ 9832|PLX 5716|TIC 176788601|TYC 3638-2515-1|PPM 64456|RAFGL 3122|SBC7 963|SBC9 1450|HD 222107,Q1993624|Q6243|Q1392913|Q67206691|Q2154519|Q2247863|Q13890|Q67206785|Q71798788|Q523|Q1362543|Q43185423,,Lambda Andromedae
+Lambda Andromedae,Lambda Andromedae,Q68213560,8,0,1,scholarly article,,Q13442814,,
+Lambda Andromedae,Lambda Andromedae,Q68606438,8,0,1,scientific article published in January 1983,,Q13442814,,
+Lambda Andromedae,Lambda Andromedae - visuelle und lichtelektrische Beobachtung in den Jahren 1978 bis 1984,Q68221935,8,0,1,scientific article published in January 1985,,Q13442814,,
+Lambda Andromedae,Andromeda,Q9256,8,0,2,constellation in the northern celestial hemisphere,And|Andromedae|Andromeda (constellation),Q8928,,Andromeda (constellation)
+Lambda Andromedae,Andromedae (K3 III):an IRAS source with an unusual ultraviolet spectrum*,Q29039127,8,0,2,scientific article (publication date: 1987),,Q13442814,,
+Lambda Andromedae,Andromeda,Q102897,8,0,2,Wikimedia disambiguation page,,Q4167410,,Andromeda
+VY Sculptoris,VY Sculptoris,Q66100123,9,0,1,star in the constellation Sculptor,,Q523|Q1993624|Q67206691|Q2154519|Q9283100|Q6458|Q71798532|Q72704237,,
+VY Sculptoris,VY Sculptoris variable,Q6006618,9,0,1,type of variable star,,,Q1059564,
+VY Sculptoris,VY Sculptoris,Q68223419,9,0,1,scientific article published in January 1983,,Q13442814,,
+VY Sculptoris,VY Sculptoris stars as magnetic cataclysmic variables,Q55968344,9,0,1,scientific article published in Astronomy and Astrophysics,,Q13442814,,
+VY Sculptoris,"VY Sculptoris, a new rapid blue variable",Q68556090,9,0,1,scholarly article,,Q13442814,,

@@ -1,0 +1,91 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Curl Curl,Curl Curl,Q5194814,0,0,1,"suburb of Sydney, New South Wales, Australia","Curl Curl, New South Wales|Curl Curl, New South Wales, Australia",Q188509,,Curl Curl
+Curl Curl,Curl Curl,Q30094648,0,0,1,1928 ferry,,Q25653,,
+Curl Curl,Curl Curl Ward,Q56682630,0,0,1,,,Q56477647,,
+Curl Curl,Curl Curl Lagoon,Q21952700,0,0,1,lake in Australia,Harbord Lagoon,Q23397,,
+Curl Curl,Curl Curl Lagoon,Q21952919,0,0,1,"lake in New South Wales, Australia",,Q23397,,
+Curl Curl,Curl Curl Head,Q21922553,0,0,1,point in Australia,,Q24529780,,
+Curl Curl,Curl Curl Beach,Q21957138,0,0,1,,,Q40080,,
+Curl Curl,Curl Curl North Public School,Q126103037,0,0,1,"government primary school in North Curl Curl, NSW, Australia",,Q9842,,
+Zarifa Aliyeva,Zarifa Aliyeva,Q52351119,1,0,1,crude oil tanker built in 2003,IMO 9234642,Q11446,,
+Zarifa Aliyeva,Zangazur,Q105767472,1,0,1,ship built in 2010,IMO 9420617,Q11446,,
+Zarifa Aliyeva,Zarifa Aliyeva,Q123764635,1,0,1,ferry boat,IMO 9843118,Q25653,,
+Zarifa Aliyeva,Zarifa Alieva,Q4062333,1,0,1,Azerbaijani ophthalmologist (1923–1985),Zarifa Aziz gizi Alieva,Q5,,Zarifa Aliyeva
+Zarifa Aliyeva,Zarifa Aliyeva Lyceum,Q20586376,1,0,1,,Lyceum named after Zarifa Aliyeva,,,
+Regula,Regula,Q2138721,2,0,1,female given name,Regula (first name)|Regula (given name),Q11879590,,
+Regula,Regula,Q19902087,2,0,1,family name,Regula (surname),Q101352,,Regula (name)
+Regula,"regulation of transcription, DNA-templated",Q14633883,2,0,1,"Any process that modulates the frequency, rate or extent of cellular DNA-templated transcription.","GO:0006355|regulation of transcription, DNA-dependent|regulation of DNA-templated transcription|regulation of cellular transcription, DNA-dependent",Q2996394,Q411391|Q21096354,
+Regula,rule,Q1151067,2,0,1,"prescription, including laws, regulations, instructions, guidelines, and social conventions; determinate method for performing any operation",instruction|guideline|regulation|law|human-made rule|rules|requirement|prescription,,Q628523|Q16686448,
+Regula,regulation of gene expression,Q411391,2,0,1,"process that modulates frequency, rate or extent of gene expression",GO:0010468|gene expression regulation|gene regulation,Q2996394|Q96758092,Q22243985|Q22284496|Q29017603,Regulation of gene expression
+Regula,"American Journal of Physiology - Regulatory, Integrative and Comparative Physiology",Q2201819,2,0,1,journal,"American journal of physiology: Regulatory, integrative and comparative physiology|Regulatory, integrative and comparative physiology|AJP: regulatory, integrative and comparative physiology|American journal of physiology. Regulatory, integrative and comparative physiology",Q5633421|Q5953270,,
+Regula,ordinance,Q2703920,2,0,1,type of statute,ordinances|regulation|rule,Q846882,Q820655|Q7748|Q428148|Q694045|Q216200,
+Regula,Regulatory Toxicology and Pharmacology,Q2138805,2,0,1,journal,,Q5633421|Q737498|Q73364223|Q16024164,,Regulatory Toxicology and Pharmacology
+Regula,Reguła,Q112590259,2,0,1,family name,,Q101352,,
+Regula,Regula,Q132234379,2,0,1,,,Q5,,
+Regula,Regula Ritter,Q40035124,2,0,2,actor,,Q5,,
+Fenja,Fenja,Q20000181,3,0,1,female given name,,Q11879590,,
+Fenja,Fenja,Q107273325,3,0,1,genus of cnidarians,,Q16521,,
+Fenja,Fenja,Q24267466,3,0,1,character in Norse mythology,,Q24267081,,Fenja
+Fenja,Fenja,Q12325474,3,0,1,Ferry in Denmark,IMO 9189378,Q25653,,
+Fenja,Fenja,Q52354469,3,0,1,container ship built in 2003,Aura|IMO 9287716,Q353699|Q17210,,
+Fenja,Avrora,Q115860897,3,0,1,ship built in 1985,IMO 8504258|Uwe Kahrs|Gracechurch Gem|Maersk Tinto|Fenja|Sea Vita,Q11446,,
+Fenja,Fenja,Q97988574,3,0,1,ship built in 1961,IMO 5113632,Q11446,,
+Fenja,Fenja R Schoepke,Q114415475,3,0,1,researcher,Fenja Schoepke,Q5,,
+Fenja,Fenja and Menja,Q1404751,3,0,1,pair of characters in Norse mythology,,Q24335536,,
+Fenja,Fenja Rühl,Q1404747,3,0,1,German actress,,Q5,,
+Eurocargo Malta,Eurocargo Malta,Q52379420,4,0,1,ro-ro cargo built in 2010,IMO 9465514,Q473932,,
+Eurocargo Malta,Eurocargo Malta,Q3734743,4,0,1,Wikimedia category,,Q4167836,,
+Aoi,Aoi,Q56669288,5,0,1,family name,,Q101352,,
+Aoi,Aoi,Q2372615,5,0,1,Japanese singer (born 1984),"Aoi, BOUNTY",Q5,,Aoi (Japanese singer)
+Aoi,Aoi,Q113566079,5,0,1,Japanese professional wrestler,,Q5,,Aoi (wrestler)
+Aoi,AOI,Q123005169,5,0,1,Japanese idol,Ao,Q5,,
+Aoi,Aoi,Q126453338,5,0,1,composer,,Q5,,
+Aoi,AOI,Q123403876,5,0,1,2022 early access video game,,Q7889,,
+Aoi,Aoi,Q134527455,5,0,1,Japanese female given name (碧唯),碧唯,Q11879590|Q22812564,,
+Aoi,Aoi,Q134527453,5,0,1,Japanese unisex given name (葵),葵,Q3409032|Q22812564,,
+Aoi,Asarum caulescens,Q2866318,5,0,1,species of plant,aoi,Q16521,,
+Aoi,Aoi-ku,Q1131483,5,0,1,ward of Japan,,Q137773,,"Aoi-ku, Shizuoka"
+Medousa,Medousa,Q3558668,6,0,1,"village in Xanthi Regional Unit, Greece",,Q532,,"Medousa, Xanthi"
+Medousa,Medousa,Q52295927,6,0,1,ro-ro/passenger ship built in 1961,IMO 5196995|Kronprins Harald|Ha Long|Thong Nhat|Al Safa|Panagia,Q25653,,
+Medousa,Medusa,Q28229998,6,0,1,comics character,Medousa,Q1114461|Q15711870,,Medusa (DC Comics)
+Medousa,Medusa,Q91121889,6,0,1,"daughter of Priam, represented in Iliupersis painting at Delphi",Medousa|Medusa daughter of Priam,Q22988604,,
+Medousa,Medusa,Q160730,6,0,1,"in Greek mythology, one of the three Gorgons, described as a woman with snakes in place of hair, beheaded by Perseus",,Q22988604,,Medusa
+Medousa,Amos Daragon,Q2843928,6,0,1,Québécois children's book series,,Q277759,,Amos Daragon
+Medousa,Medousa rock,Q25118739,6,0,1,,,Q207524,,
+Medousa,Medousa Bistrot & Suites,Q112018584,6,0,1,"hotel in Taormina, Italy",,Q27686,,
+Medousa,philtrum piercing,Q2663096,6,0,1,,medusa piercing,,Q1817077,Philtrum piercing
+Medousa,Meduza / Medusa,Q225028,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Medousa,Medusa,Q2006491,6,0,2,1986 studio album by Clan of Xymox,,Q482994,,Medusa (Clan of Xymox album)
+Medousa,Medusa,Q108160181,6,0,2,"genus of plants, synonym of Rinorea",,Q16521,,
+Medousa,Medusa,Q25365386,6,0,2,genus of protists,,Q16521,,
+Medousa,Medusa,Q113000076,6,0,2,1786 ship of the line of the Portuguese Navy,Medusa (1st),Q207452|Q220635,,
+Medousa,HMAS Mercedes,Q5630480,6,0,2,1913 auxiliary mineswwper,HMS Medusa|Merecedes|Medusa,Q202527,,HMAS Mercedes
+Medousa,USS Portunus,Q7873044,6,0,2,1944 LSM-1-class landing ship medium,São Rafael (3rd)|Medusa (2nd),Q325884|Q1286790,,USS Portunus (ARC-1)
+Medousa,Medusa,Q21743202,6,0,2,painting by Hughie O'Donoghue,,Q3305213,,
+Medousa,HMS Mollusc,Q103906119,6,0,2,1906 steam yacht,Medusa,Q4793068|Q852190,,
+Medousa,Medusa,Q134052017,6,0,2,serie de televisión,,Q5398426,,
+Ernest Bevin,Ernest Bevin,Q332365,7,0,1,"British labour leader, politician, and statesman (1881-1951)",,Q5,,Ernest Bevin
+Ernest Bevin,Ernest Bevin,Q47513536,7,0,1,painting by Boris Chaliapin,,Q3305213,,
+Ernest Bevin,Ernest Bevin,Q28051848,7,0,1,painting by Thomas Cantrell Dugdale,,Q3305213,,
+Ernest Bevin,Ernest Bevin,Q97992348,7,0,1,scrapped car ferry,IMO 5426998,Q25653,,
+Ernest Bevin,Ernest Bevin College,Q5392797,7,0,1,"school in Wandsworth, UK",,Q159334|Q5155053|Q1713379,,Ernest Bevin Academy
+Ernest Bevin,Ernest-Bevin-Hof,Q38129163,7,0,1,"building in Hernals, Austria",,Q1498804|Q877290,,
+Ernest Bevin,Bevin Society,Q138568354,7,0,1,political organization in the United Kingdom,Ernest Bevin Society,Q431603,,
+Ernest Bevin,Odos Ernest Bevin,Q124478233,7,0,1,"street in Rhodes, Greece",Οδός Έρνεστ Μπέβιν,Q79007,,
+Mondorf,Mondorf-les-Bains,Q798747,8,0,1,"commune in the canton of Remich, Luxembourg",Commune of Mondorf-les-Bains,Q2919801,,Mondorf-les-Bains
+Mondorf,Mondorff,Q22059,8,0,1,"commune in Moselle, France",,Q484170|Q902814,,Mondorff
+Mondorf,Mondorf,Q1944295,8,0,1,human settlement in Germany,Mondorf (Niederkassel),Q253019,,
+Mondorf,Mondorf-les-Bains,Q3917128,8,0,1,human settlement in Luxembourg,,Q15303838|Q3257686|Q902814,,
+Mondorf,Mondorf,Q104529390,8,0,1,ferry ship used on the route between Bonn and Niederkassel,,Q25653,,
+Mondorf,Mondorf,Q113674988,8,0,1,,,Q253019|Q262166,,
+Mondorf,Mondorf-les-Bains,Q140604906,8,0,1,cadastral commune of Luxembourg,,Q140754208,,
+Mondorf,Mondorf Ferry,Q104529314,8,0,1,"ferry route across the Rhine between Bonn and Niederkassel, Germany",,Q18984099,,
+Mondorf,Mondorff-Moselle-Sarre,Q110757476,8,0,1,"Cosyn guide, s.d., Printed Books Department of the Royal Library of Belgium (KBR), BR 5612 R 47",,Q223638,,
+Mondorf,Mondorf-les-Bains Concours d'Elegance,Q81655504,8,0,1,,,,,
+Mondorf,Mondorf-les-Bains,Q76898886,8,0,2,,,Q7725634,,
+MV Victoria,MV Victoria,Q6720173,9,0,1,Lake Victoria ferry,RMS Victoria,Q25653,,MV Victoria (1959)
+MV Victoria,MV Victoria of Wight,Q56063672,9,0,1,Isle of Wight passenger and vehicle ferry,IMO 9791028,Q11446|Q1229765,,MV Victoria of Wight
+MV Victoria,Victorian Reliance II,Q76575581,9,0,1,roll-on/roll-off ship built in 2019,MV Victorian Reliance II|Victorian Reliance 2|IMO 9812470,Q473932,,Victorian Reliance II
+MV Victoria,MV Victoria,Q6720169,9,0,1,Wikimedia disambiguation page,,Q4167410,,MV Victoria
+MV Victoria,Victoria (ship),Q10715028,9,0,2,Wikimedia disambiguation page,,Q4167410,Q537094,
+MV Victoria,RMS Victorian,Q3557720,9,0,2,1904 liner converted to armed merchant cruiser,HMS Victorian,Q697196|Q131424998,,RMS Victorian

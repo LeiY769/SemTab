@@ -1,0 +1,137 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Hamois,Hamois,Q66312000,0,0,1,"section of Hamois, Belgium",,Q2785216,,
+Hamois,Hamois,Q696133,0,0,1,"municipality in Wallonia, Belgium",,Q493522,,Hamois
+Hamois,Hamois,Q21767671,0,0,1,"town in Hamois municipality, Belgium",,Q532,,
+Hamois,Hamois railway station,Q109662180,0,0,1,"railway station in Hamois, Belgium",,Q55488,,
+Hamois,Hamois,Q29437169,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gesves,Gesves,Q66312008,1,0,1,"section of Gesves, Belgium",,Q2785216,,
+Gesves,Gesves,Q388879,1,0,1,"municipality in Wallonia, Belgium",,Q493522,,Gesves
+Gesves,Gesves,Q21769032,1,0,1,"town in Gesves municipality, Belgium",,Q532,,
+Gesves,Gesves,Q29437218,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gesves,Givry,Q821265,1,0,2,"commune in Saône-et-Loire, France",,Q484170,,"Givry, Saône-et-Loire"
+Gesves,Givry,Q453615,1,0,2,"commune in Ardennes, France",,Q484170,,"Givry, Ardennes"
+Gesves,Givry,Q130239,1,0,2,"commune in Yonne, France",,Q484170,,"Givry, Yonne"
+Gesves,Givry-en-Argonne,Q729333,1,0,2,"commune in Marne, France",Givry,Q484170,,Givry-en-Argonne
+Gesves,Givry-lès-Loisy,Q633330,1,0,2,"commune in Marne, France",Givry,Q484170,,Givry-lès-Loisy
+Gesves,Givry,Q76151684,1,0,2,family name,,Q101352,,
+Gesves,Givry,Q3108212,1,0,2,"section of Quévy, Belgium",,Q2785216|Q532,,"Givry, Quévy"
+Gesves,Givrycourt,Q22347,1,0,2,"commune in Moselle, France",,Q484170,,Givrycourt
+Gesves,Givry,Q1908847,1,0,2,"village in Bastogne, Belgium",,Q532,,
+Gesves,Givry wine,Q3108210,1,0,2,French wine,,,Q630531,Givry wine
+Maasmechelen,Maasmechelen,Q329633,2,0,1,"municipality in Limburg, Belgium",Maosmechele,Q493522,,Maasmechelen
+Maasmechelen,K. Patro Eisden Maasmechelen,Q2308515,2,0,1,Belgian football club,,Q476028,,Patro Eisden Maasmechelen
+Maasmechelen,Maasmechelen Village,Q2681638,2,0,1,"Factory Outlet Center in Maasmechelen, Belgium",,Q11315|Q54927709,,
+Maasmechelen,Maasmechelen,Q22141371,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Zandhoven,Zandhoven,Q146656,3,0,1,"municipality in Antwerp, Belgium",,Q493522,,Zandhoven
+Zandhoven,Zandhoven,Q21760351,3,0,1,"town in Zandhoven municipality, Belgium",,Q532,,
+Zandhoven,Zandhoven,Q66311756,3,0,1,"section of Zandhoven, Belgium",,Q2785216,,
+Zandhoven,coat of arms of Zandhoven,Q15883832,3,0,1,"coat of arms of municipality in the province of Antwerp, Belgium",Zandhoven coat of arms,Q41505469,,
+Zandhoven,Zandhovenstraat,Q18951093,3,0,1,"street in Breda, the Netherlands",,Q79007,,
+Zandhoven,Zandhovenstraat,Q18951095,3,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Zandhoven,Zandhoven,Q29436363,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Malmedy,Malmedy,Q66311939,4,0,1,"section of Malmedy, Wallonia, Belgium",,Q2785216,,
+Malmedy,Malmedy,Q159838,4,0,1,"city in Wallonia, Belgium",,Q493522|Q15273785|Q737681,,Malmedy
+Malmedy,Malmedy,Q31824088,4,0,1,"town in Malmedy municipality, Belgium",,Q3957,,
+Malmedy,Malmedy massacre,Q162228,4,0,1,WWII war crime,,Q135010|Q3199915|Q750215,,Malmedy massacre
+Malmedy,Malmédy,Q107474317,4,0,1,,,Q2031121,,
+Malmedy,Malmédy,Q24524098,4,0,1,artwork BK 5916 of Raoul De Keyser,,Q838948,,
+Malmedy,Malmédy,Q24524126,4,0,1,artwork BK 5915 of Raoul De Keyser,,Q838948,,
+Malmedy,Malmédy,Q24524127,4,0,1,artwork BK 5918 of Raoul De Keyser,,Q838948,,
+Malmedy,Malmédy,Q24524758,4,0,1,artwork BK 5917 of Raoul De Keyser,,Q838948,,
+Malmedy,Malmedy railway station,Q3096961,4,0,1,"railway station in Malmedy, Belgium",,Q55488,,
+Landen,Landen,Q943502,5,0,1,"city in Flemish Brabant, Belgium",,Q493522|Q15273785,,Landen
+Landen,Landen,Q105993095,5,0,1,male given name,,Q12308941,,
+Landen,London,Q84,5,0,1,capital and largest city of England and the United Kingdom,"London, UK|London, United Kingdom|London, England|London UK|London U.K.|Londinium|Loñ|Lundenwic|Londinio|Londini|Londiniensium|Augusta|Trinovantum|Kaerlud|Karelundein|Lunden|Big Smoke|the Big Smoke|Lundenburh|Lundenburgh|Llyn Dain|Llan Dian|Londinion|Loniniensi|Lon.|Loñ.|Lond.|LDN",Q200250|Q1066984|Q515|Q208511|Q174844|Q51929311|Q108178728|Q1048835,,London
+Landen,Landen railway station,Q2251844,5,0,1,railway station in Belgium,Landen,Q55488,,Landen railway station
+Landen,Landen,Q21765449,5,0,1,"town in Landen municipality, Belgium",,Q515,,
+Landen,Landenberger,Q37483698,5,0,1,family name,,Q101352,,
+Landen,Landenne,Q2541119,5,0,1,"section of Andenne, Wallonia, Belgium",,Q2785216,,Landenne
+Landen,Landen,Q37328465,5,0,1,family name,,Q101352,,
+Landen,Landén,Q27887808,5,0,1,family name,,Q101352,,
+Landen,Landen,Q66311822,5,0,1,"section of Landen, Belgium",,Q2785216,,
+Kampenhout,Kampenhout,Q492453,6,0,1,"municipality in Flemish Brabant, Belgium",,Q493522,,Kampenhout
+Kampenhout,Kampenhout,Q31824039,6,0,1,"town in Kampenhout municipality, Belgium",,Q532,,
+Kampenhout,Kampenhout,Q66311794,6,0,1,"section of Kampenhout, Belgium",,Q2785216,,
+Kampenhout,Kampenhout,Q19286617,6,0,1,"street in Vught, the Netherlands",,Q79007,,
+Kampenhout,Kampenhout-Sas,Q3226422,6,0,1,,,Q486972,,
+Kampenhout,Kampenhout SK,Q2447367,6,0,1,,,Q476028,,
+Kampenhout,Kampenhout-Charleroi-Kampenhout,Q118950832,6,0,1,,,Q13406554,,
+Kampenhout,Kampenhout,Q22148491,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kampenhout,Kampenhout (ujednoznacznienie),Q128598486,6,0,1,,,Q4167410,,
+Malle,Malle,Q42371809,7,0,1,female given name,,Q11879590,,Malle (given name)
+Malle,Malle,Q37279685,7,0,1,family name,,Q101352,,
+Malle,Mallé,Q23793499,7,0,1,family name,,Q101352,,
+Malle,Malle,Q917591,7,0,1,"municipality in Antwerp, Belgium",,Q493522,,Malle
+Malle,Mallet,Q16876324,7,0,1,family name,,Q101352,,Mallet (surname)
+Malle,Mallemort,Q640790,7,0,1,"commune in Bouches-du-Rhône, France",Malamòrt,Q484170,,Mallemort
+Malle,Malleco Province,Q721462,7,0,1,province of Chile,,Q1153408,,Malleco Province
+Malle,Malleola,Q1309433,7,0,1,genus of plants,,Q16521,,Malleola
+Malle,Malletia,Q3805235,7,0,1,genus of molluscs,,Q16521,,
+Malle,Malle Leis,Q16407578,7,0,1,Estonian artist (1940-2017),,Q5,,Malle Leis
+Tongeren,Tongeren,Q190113,8,0,1,"former city and municipality in Limburg, Belgium",,Q19730508|Q515,,Tongeren
+Tongeren,Tongeren,Q31558934,8,0,1,"Roman city in Tongeren-Borgloon, Belgium",,Q2202509,,
+Tongeren,Tongeren,Q1948689,8,0,1,"hamlet in Epe, Netherlands",Tongres,Q12292478|Q1484611,,
+Tongeren,Civitas Tungrorum,Q2974908,8,0,1,ancient Roman district,Tungrorum|Tongres|Tongeren,Q213468,,Civitas Tungrorum
+Tongeren,Tongeren,Q100605607,8,0,1,family name,,Q101352,,
+Tongeren,Tongres titular see,Q766165,8,0,1,titular see,Tongeren|Tongeren titular see|Tongres,Q15217609,,
+Tongeren,Tongeren,Q3527726,8,0,1,"hamlet in Boxtel, the Netherlands",,Q1484611,,
+Tongeren,Tongeren railway station,Q681688,8,0,1,railway station in Belgium,,Q55488,,Tongeren railway station
+Tongeren,Tongeren,Q65043072,8,0,1,Belgian political subdivision,,,,Tongeren (Chamber of Representatives constituency)
+Tongeren,Tongeren,Q19568257,8,0,1,"street in Boxtel, the Netherlands",,Q79007,,
+Celles,Celles,Q1012326,9,0,1,"commune in Dordogne, France",,Q484170,,"Celles, Dordogne"
+Celles,Celles,Q370882,9,0,1,"commune in Charente-Maritime, France",,Q484170,,"Celles, Charente-Maritime"
+Celles,Celles,Q1871477,9,0,1,"commune in Ariège, France",,Q484170,,"Celles, Ariège"
+Celles,Celles,Q1072324,9,0,1,"commune in Hérault, France",,Q484170,,"Celles, Hérault"
+Celles,Celles-sur-Belle,Q1087461,9,0,1,"commune in Deux-Sèvres, France",Celles,Q484170,,Celles-sur-Belle
+Celles,Celles-sur-Plaine,Q210727,9,0,1,"commune in Vosges, France",Celles,Q484170,,Celles-sur-Plaine
+Celles,Celles-sur-Ource,Q609526,9,0,1,"commune in Aube, France",Celles,Q484170,,Celles-sur-Ource
+Celles,Celles-sur-Aisne,Q847912,9,0,1,"commune in Aisne, France",Celles,Q484170,,Celles-sur-Aisne
+Celles,Celles-lès-Condé,Q849251,9,0,1,"commune in Aisne, France",Celles-lès-Vallon-Libre|Celles,Q484170,,Celles-lès-Condé
+Celles,Celles-en-Bassigny,Q536602,9,0,1,"commune in Haute-Marne, France",Celles,Q484170,,Celles-en-Bassigny
+Verlaine,Verlaine,Q711292,10,0,1,"municipality in Wallonia, Belgium",,Q493522,,Verlaine
+Verlaine,Verlaine,Q105973880,10,0,1,family name,,Q101352,,
+Verlaine,Verlaine,Q66311926,10,0,1,"section of Verlaine, Belgium",,Q2785216,,
+Verlaine,6871 Verlaine,Q715952,10,0,1,asteroid,Verlaine,Q3863,,6871 Verlaine
+Verlaine,Verlaine,Q21763570,10,0,1,"town in Verlaine municipality, Belgium",,Q532,,
+Verlaine,Verlaine,Q3555894,10,0,1,crater on Mars,,Q55818|Q1475691,,
+Verlaine,Verlaine Faulmann,Q27780756,10,0,1,badminton player,,Q5,,
+Verlaine,Verlaine,Q23941727,10,0,1,painting by Georges Rouault,,Q3305213,,
+Verlaine,Verlaine,Q109613242,10,0,1,,,Q2175765,,
+Verlaine,Paul Verlaine,Q755,10,0,1,French poet (1844-1896),Paul-Marie Verlaine,Q5,,Paul Verlaine
+Verlaine,Paul Verlaine,Q20539411,10,0,2,painting by Eugène Carrière,,Q3305213,,
+Verlaine,Paul Verlaine,Q102969614,10,0,2,print by Anders Leonard Zorn,,Q11060274,,
+Verlaine,Paul Verlaine,Q18191185,10,0,2,sculpture by Auguste de Niederhausern,,Q860861,,
+Verlaine,Paul Verlaine University – Metz,Q1465237,10,0,2,"former French university in Metz, France, founded in 1970, merged (and hence aboliished) in 2012 with Nancy I and Nancy II and National Polytechnic Institute of Lorraine to form University of Lorraine",University of Metz|Metz University|Paul Verlaine University,Q3551775|Q875538,,Paul Verlaine University – Metz
+Verlaine,Paul Verlaine,Q116869851,10,0,2,painting by Félix Vallotton,,Q3305213,,
+Verlaine,Paul Verlaine,Q79907184,10,0,2,"print by Eugène Carrière (French, 1849-1906); Lemercier (1949.82)",,Q11060274,,
+Verlaine,Paul Verlaine,Q137470395,10,0,2,private educational institution in Morocco,,Q2385804,,
+Verlaine,Paul Verlaine,Q64955840,10,0,2,print in the National Gallery of Art (NGA 5909),,Q11060274,,
+Verlaine,Paul Verlaine Gakne,Q96200133,10,0,2,researcher,,Q5,,
+Mesen,Mesen,Q737077,11,0,1,"city in West Flanders, Belgium",Messines,Q493522|Q15273785,,Mesen
+Mesen,mesenchymal stem cell,Q1922379,11,0,1,"multipotent, non-hematopoietic adult stem cells present in multiple tissues",multipotent stromal cells|mesenchymal stromal cells|multipotent stromal cell|mesenchymal stromal cell|multipotent mesenchymal stem/stromal cell|MSC|mesenchymal stem cells,Q189118,Q48196|Q4381253|Q66568500,Mesenchymal stem cell
+Mesen,mesencephalon,Q185080,11,0,1,"Brainstem structure that functions as a relay system, transmitting information necessary for vision and hearing. It also plays an important role in motor movement, pain, and the sleep/wake cycle",midbrain,Q1620186|Q103812529|Q112826905,Q66557994|Q112826975,Midbrain
+Mesen,Ice worm,Q656119,11,0,1,genus of annelids,Mesenchytraeus,Q16521,,Ice worm
+Mesen,Mesene,Q1765512,11,0,1,genus of insects,,Q16521,,Mesene (butterfly)
+Mesen,mesenteric ischemia,Q221463,11,0,1,medical condition,intestinal infarction|mesenteric vascular insufficiency,Q112193867,Q207550|Q4950796,Intestinal ischemia
+Mesen,Mesenteripora,Q4176001,11,0,1,genus of bryozoans,,Q23038290,,
+Mesen,epithelial to mesenchymal transition,Q74419,11,0,1,transition where an epithelial cell becomes a migratory mesenchymal cell,GO:0001837|epithelial-mesenchymal transition|EMT|mesenchymal cell differentiation from epithelial cell,Q2996394,Q14883191,Epithelial–mesenchymal transition
+Mesen,Meșendorf,Q751212,11,0,1,"village in Brașov County, Romania",,Q532,,
+Mesen,Mesenopsis,Q1759834,11,0,1,genus of insects,,Q16521,,
+Mesen,Mesen Castle,Q1818077,11,0,2,"castle in Lede, Belgium",,Q751876,,Mesen Castle
+Avelgem,Avelgem,Q177133,12,0,1,"municipality in West Flanders, Belgium",,Q493522,,Avelgem
+Avelgem,Avelgem,Q21770132,12,0,1,"town in Avelgem municipality, Belgium",,Q532,,
+Avelgem,Avelgem railway station,Q2475484,12,0,1,railway station in Belgium,,Q55488,,
+Avelgem,Avelgem substation,Q52637885,12,0,1,transmission substation in Belgium,,Q174814,,
+Avelgem,Avelgemse Scheldemeersen,Q104528558,12,0,1,"natural area in Avelgem, Belgium",,Q10594991,,
+Avelgem,Rijtgracht,Q21770133,12,0,1,river in Belgium,Avelgembeek,Q4022,,
+Avelgem,Avelgem,Q29437545,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Bierbeek,Bierbeek,Q729929,13,0,1,"municipality in Flemish Brabant, Belgium",,Q493522,,Bierbeek
+Bierbeek,Bierbeek,Q21770318,13,0,1,"town in Bierbeek municipality, Belgium",,Q532|Q2785216,,
+Bierbeek,coat of arms of Bierbeek,Q22350506,13,0,1,coat of arms of municipality in Belgium,Bierbeek coat of arms,Q41505469,,
+Bierbeek,Bierbeekhof,Q116558542,13,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Bierbeek,Bierbeek CVP.,Q123928009,13,0,1,Belgian periodical,,Q1002697,,
+Bierbeek,Bierbeeks erfgoeddepot,Q106556634,13,0,1,,,Q15911314,,
+Bierbeek,Bierbeekse,Q139987975,13,0,1,beer brewed by Brouwerij Van Steenberge,,Q2719638,,
+Bierbeek,Bierbeek (Brabant flamand).Mise en contexte de l’église romane Saint-Hilaire à partir de la datation dendrochronologique de sa charpente,Q81668956,13,0,1,,,Q13442814,,
+Bierbeek,Bierbeekse,Q2782608,13,0,1,,,Q15075508,,
+Bierbeek,Bierbeek: ingang tot het dorp,Q120836157,13,0,1,"painting by Alfred Napoléon Delaunois, M - Museum Leuven",,Q3305213,,

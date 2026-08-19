@@ -1,0 +1,57 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+JCG Kii,JCG Kii,Q104098316,0,0,1,patrol vessel built in 2014,IMO 9749752,Q331795,,
+HMC Nimrod,HMC Nimrod,Q39086912,1,0,1,ship built in 2006,,Q331795,,HMC Nimrod
+USS Yacona,USS Yacona,Q7875683,2,0,1,patrol vessel of the United States Navy,Amélia (4th)|Amélia III,Q7605392|Q1303735|Q2601071|Q331795,,USS Yacona (SP-617)
+USS Yacona,USS Yacona,Q7875682,2,0,1,ship built in 1945,,Q11446,,USS Yacona (AOG-45)
+USS Yacona,USS Yacona,Q7875680,2,0,1,Wikimedia disambiguation page,,Q4167410,,USS Yacona
+Esperance,Esperance,Q37254520,3,0,1,family name,,Q101352,,
+Esperance,Espérance,Q57588556,3,0,1,female given name,,Q11879590,,
+Esperance,Espérance Sportive de Tunis,Q44897,3,0,1,Tunisian association football club,EST|ES Tunis|Espérance Tunis|Espérance de Tunis,Q476028,,Espérance Sportive de Tunis
+Esperance,Esperance,Q1007665,3,0,1,town in Western Australia,"Esperance, Western Australia|Esperance, Western Australia, Australia",Q3957,,"Esperance, Western Australia"
+Esperance,HMS Esperance,Q5632324,3,0,1,1781 sloop-of-war,Clementina|Ellis|Elize|Esperance,Q928235|Q251355,,HMS Esperance (1795)
+Esperance,Esperance,Q26761049,3,0,1,reef in Indonesia,,Q184358,,
+Esperance,Esperance,Q117062560,3,0,1,patrol vessel of the Ivorian Navy,,Q331795,,
+Esperance,Esperance,Q23790269,3,0,1,male given name,,Q12308941,,
+Esperance,Esperance,Q3709164,3,0,1,"town in Schoharie County, New York, United States","Esperance , NY|Esperance, NY|Esperance (town), New York",Q15127012|Q106071004,,"Esperance, New York"
+Esperance,Esperance,Q939042,3,0,1,"village in Schoharie County, New York, United States","Esperance, New York|Esperance, NY",Q751708,,"Esperance (village), New York"
+Esperance,Esperance (suburb),Q131577605,3,0,2,"locality in the Shire of Esperance, Western Australia","Esperance, Western Australia|Esperance CBD",Q33112019,,Esperance (suburb)
+KBV 315,KBV 315,Q84254322,4,0,1,Swedish Coast Guard Patrol Vessel,,Q331795,,
+NRP Santiago,NRP Santiago,Q65245931,5,0,1,1948 patrol boat of the Portuguese Navy,Santiago (2nd)|USS PC-1257,Q331795,,
+NRP Santiago,Santiago de Compostela,Q14314,5,0,2,"municipality of Galicia, Spain",Santiago de Compostella,Q2276925,,Santiago de Compostela
+NRP Santiago,Santiago de Compostela city,Q23992507,5,0,2,city in Spain,Santiago de Compostela,Q515|Q121289819|Q3055118,,
+NRP Santiago,Santiago de Compostela railway station,Q8841900,5,0,2,"railway station in Santiago de Compostela, Spain",,Q55488,,Santiago de Compostela railway station
+NRP Santiago,Santiago de Compostela derailment,Q14246267,5,0,2,24 July 2013 train derailment that killed 79 people,,Q1078765|Q1331380,,Santiago de Compostela derailment
+NRP Santiago,Santiago de Compostela,Q125245636,5,0,2,2012 edition of written work by Jesús García Marín,,Q3331189,,
+NRP Santiago,Santiago de Compostela,Q125735544,5,0,2,2010 edition of written work by Miguel-Anxo Murado,,Q3331189,,
+NRP Santiago,Santiago de Compostela,Q126133740,5,0,2,1988 edition of written work by Carlos Casares,,Q3331189,,
+NRP Santiago,Santiago de Compostela,Q128061270,5,0,2,2014 edition of written work by Xosé Carro Otero,,Q3331189,,
+NRP Santiago,Santiago de Compostela,Q103965357,5,0,2,encyclopedia article,,Q13433827,,
+NRP Santiago,Santiago de Compostela,Q128060867,5,0,2,1997 edition of written work by Xosé Carro Otero,,Q3331189,,
+Y 839 Munster,Y 839 Munster,Q122898597,6,0,1,German range safety craft,,Q331795,,
+Y 839 Munster,Münster,Q2742,6,0,2,"city in North Rhine-Westphalia, Germany",Munster|Muenster,Q707813|Q1549591|Q42744322|Q85635630|Q106517174|Q1392581|Q1187811,,Münster
+Y 839 Munster,Munster,Q149419,6,0,2,"commune in Haut-Rhin, France",Münster,Q484170,,"Munster, Haut-Rhin"
+Y 839 Munster,Munster,Q21729,6,0,2,"commune in Moselle, France",,Q484170,,"Munster, Moselle"
+Y 839 Munster,Münster,Q256895,6,0,2,municipality of Germany,"Münster, Bavaria",Q116457956,,"Münster, Bavaria"
+Y 839 Munster,Munster,Q131438,6,0,2,province in Ireland,Cúige Mumhan|An Mhumhain|Munster Province|Munster Prov.|Munster P.|Province of Munster|Prov. of Munster|P. of Munster,Q202156,,Munster
+Y 839 Munster,Munster Rugby,Q1140373,6,0,2,Irish rugby union football team,Munster,Q63171169,,Munster Rugby
+Y 839 Munster,Münster,Q1959130,6,0,2,quarter of Stuttgart,Stuttgart-Münster,Q2740635,,
+Y 839 Munster,University of Münster,Q168426,6,0,2,German university,University of Munster|University of Muenster|Münster University|Westphalian Wilhelms University|WWU,Q875538|Q641347|Q1767829,,University of Münster
+Y 839 Munster,Münster,Q1959126,6,0,2,"village in the municipality of Steinach, Bavaria, Germany",,Q253019|Q1493533,,
+Y 839 Munster,Münster,Q1666065,6,0,2,"village in the municipality of Mickhausen, Germany",,Q253019|Q532|Q378636|Q19730508,,
+ADV Cape Pillar,HMAS Cape Pillar,Q119758645,7,0,1,Cape-class patrol boat of the Royal Australian Navy,ADV Cape Pillar|IMO 4764123,Q331795,,HMAS Cape Pillar
+ADV Cape Pillar,Cape Pillar,Q21904221,7,0,2,point in Australia,"Cape Pillar, Tasmania|Cape Pillar, Tasmania, Australia",Q24529780|Q98433835,,Cape Pillar
+ADV Cape Pillar,Cape Pillar,Q96755121,7,0,2,"cape on Heard Island, Indian Ocean",,Q185113,,
+ADV Cape Pillar,Cape Pillar,Q2352563,7,0,2,,,Q107679,,
+ADV Cape Pillar,Cape Pillar Rock,Q21895120,7,0,2,mountain in Australia,,Q8502,,
+ADV Cape Pillar,Cape Pillars Boutique Hotel,Q111860359,7,0,2,"hotel in Cape Town, South Africa",,Q27686,,
+ADV Cape Pillar,column,Q4817,7,0,2,structural element sustaining the weight of a building,Y-column|Y-shaped column|structural column|column drum|architectural column|pillar|Column,,Q811979|Q391414,Column
+ADV Cape Pillar,Pillar,Q37117379,7,0,2,family name,,Q101352,,
+ADV Cape Pillar,Pillar,Q19824831,7,0,2,2015 video game,,Q7889,,Pillar (video game)
+ADV Cape Pillar,pier,Q335297,7,0,2,architectural upright support for a structure or superstructure,pillar|square column,,Q1058733|Q811979|Q391414,Pier (architecture)
+ADV Cape Pillar,pillar,Q29052406,7,0,2,"supporting structures, detached vertical members, often rectangular shape",column,,Q811679|Q811979,
+ADV Cape Pillar,harp,Q47369,7,0,2,class of musical instruments,harfa|pillar harp,Q1254773,Q230262|Q19588495|Q220659|Q8205328|Q34379,Harp
+ADV Cape Pillar,pillar,Q2379167,7,0,2,heraldic figure,column,,Q1424805,
+ADV Cape Pillar,Pillar,Q918241,7,0,2,American Christian rock band,,Q215380,,Pillar (band)
+ADV Cape Pillar,Chulalongkorn University,Q855730,7,0,2,"autonomous public research university in Bangkok, Thailand",Chula|CU|ChulalongkornU|Pillar of the Kingdom|The University of Siam|Chamchuri|Sam Yan|Chulangkorn|Chulalongkorn University,Q62078547|Q7950347|Q96888669|Q38723,,Chulalongkorn University
+ADV Cape Pillar,Pillars of Eternity,Q2617930,7,0,2,American role-playing video game,Project Eternity|Pillars of Eternity: Hero Edition,Q7889,,Pillars of Eternity
+JCG Nagura,JCG Nagura,Q52380914,8,0,1,patrol vessel built in 2014,PL82|IMO 9726970,Q331795,,

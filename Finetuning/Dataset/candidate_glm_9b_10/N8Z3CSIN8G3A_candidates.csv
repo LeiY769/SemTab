@@ -1,0 +1,23 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Termocentro,Termocentro,Q113330559,0,0,1,,,Q3498533|Q900729,,
+Termocentro,power station,Q159719,0,0,2,facility generating electric power,generating station|power plant|powerhouse|generating plant|electrical generating station|electric power station|power plants|powerplant,,Q3971388|Q13226383|Q41176,Power station
+Termocentro,Power Plant,Q2473907,0,0,2,Gamma Ray album,,Q482994,,Power Plant (Gamma Ray album)
+Termocentro,Power Plant,Q3664532,0,0,2,Power plant in the Pokémon universe,Abandoned Power Plant|Kanto Power Plant,Q15720793,,
+Termocentro,Power Plant,Q3400934,0,0,2,nightclub in Chicago,,Q622425,,
+Termocentro,Power plant,Q125747743,0,0,2,US patent 11339687,,Q43305660,,
+Termocentro,Power Plant,Q96727447,0,0,2,Indonesian scientific journal,,Q5633421,,
+Termocentro,power plant complex,Q105758208,0,0,2,,,Q134496690,Q16887380|Q1497364,
+Termocentro,ECM,Q12906280,0,0,2,government-owned electricity producing company in North Macedonia,Elektrani na Makedonija|Power plants of Macedonia|ELEM|Elektrani na Severna Makedonija,Q270791,,Elektrani na Severna Makedonija
+Termocentro,power plant technology,Q1786253,0,0,2,"Technology for energy conversion, power generation and energy transmission of a power plant",,Q2695280|Q11016|Q268592,,
+Termocentro,Power Plant I,Q77978978,0,0,2,painting by Arthur Dove,,Q3305213,,
+Termocentro,thermal power station,Q200297,0,0,2,facility where heat is converted to electric power,thermal power plant,,Q159719,Thermal power station
+Termocentro,thermal power stations in Russia and Soviet Union,Q60041243,0,0,2,"types of thermal power stations in the Russian sphere – term originally referring to ownership (state), now usually (but not always) referring to large condensation power stations",SDPP|state district power plant|state-owned district power station,Q159719,Q200297,Thermal power stations in Russia and the Soviet Union
+Termocentro,Thermal Power Station railway station,Q18536694,0,0,2,railway station in Pakistan,,Q55488,,Thermal Power Station railway station
+Termocentro,Jamshoro Power Station,Q16892835,0,0,2,power station in Pakistan,TPS Jamshoro|Thermal Power Station Jamshoro,Q3498533|Q261604,,Jamshoro Power Station
+Termocentro,Thermal power station Regina Margherita,Q24053015,0,0,2,"former power station in Milan, Italy",,Q200297,,Thermal power station Regina Margherita
+Termocentro,"Thermal Power Station Kakanj, Catici",Q17097885,0,0,2,,,Q6558431,,"Thermal Power Station Kakanj, Catici"
+Termocentro,Thermal Power Station Sub Post Office,Q69674759,0,0,2,,,Q61443650,,
+Sarnia Regional Cogeneration Plant,Sarnia Regional Cogeneration Plant,Q7424349,1,0,1,"natural gas-fired power station in Sarnia, Ontario",,Q900729,,Sarnia Regional Cogeneration Plant
+Kassel power station,Kassel power station,Q1601474,2,0,1,,,Q1601458|Q6558431|Q900729,,
+Kassel power station,Kassel waste-to-energy plant,Q1252294,2,0,1,,Kassel power station|Kassel incinerator,Q6558431|Q23583615,,
+Dalahu Combined Cycle Power Plant,Dalahu Combined Cycle Power Plant,Q17994541,3,0,1,,,Q900729|Q3498533,,

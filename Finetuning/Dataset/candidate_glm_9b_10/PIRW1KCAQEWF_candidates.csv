@@ -1,0 +1,48 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kalinin,Tver,Q2288,0,0,1,town and administrative center of Tver region in western Russia,Kalinin,Q7930989|Q1549591|Q97660032,,Tver
+Kalinin,UTC+03:00,Q6760,0,0,1,identifier for a time offset from UTC of +3,Eastern European Summer Time|Further-eastern European Time|Arabia Standard Time|East Africa Time|Kaliningrad Time|Moscow Time|Turkey Time|Turkish Time|TRT,Q17272482,,UTC+03:00
+Kalinin,Admiral Nakhimov,Q504292,0,0,1,1986 Project 1144.2 battlecruiser,Russian battlecruiser Admiral Nakhimov|Soviet battlecruiser Kalinin|Kalinin,Q4072220|Q214190,,Russian battlecruiser Admiral Nakhimov
+Kalinin,Kalinin,Q7571749,0,0,1,1942 Kirov-class cruiser,,Q778129,,Soviet cruiser Kalinin
+Kalinin,Kalinin,Q15546172,0,0,1,"village in Jaiyl District, Kyrgyzstan",,Q532,,"Kalinin, Chuy"
+Kalinin,Kalinin,Q111761571,0,0,1,family name,,Q101352,,
+Kalinin,Kalinin,Q16359870,0,0,1,family name (Калинин),,Q101352,,Kalinin (surname)
+Kalinin,Kaliningrad,Q1829,0,0,1,Russian Baltic city between Poland and Lithuania,Königsberg|Twangste|Tuwangste|Tuwangeste|Twankste|Twongst|Twoyngst,Q12134916|Q7930989|Q1549591|Q56580425|Q138411346,,Kaliningrad
+Kalinin,Kaliningrad Oblast,Q1749,0,0,1,exclave of Russia sandwiched between Poland and Lithuania,,Q933394|Q835714|Q43263,,Kaliningrad Oblast
+Kalinin,laminin-5 complex,Q21104618,0,0,1,"laminin complex composed of alpha3, beta3 and gamma2 polypeptide chains.",laminin-5A complex|laminin-3A32 complex|GO:0005610|Kalinin,Q5058355,Q21418859,
+Kalinin,Kalinin Oblast,Q4209600,0,0,2,,,Q19953632,,
+HMS Southampton,HMS Southampton,Q901580,1,0,1,1912 Chatham-class light cruiser,,Q778129,,HMS Southampton (1912)
+HMS Southampton,HMS Southampton,Q1565378,1,0,1,1757 Southampton-class fifth-rate frigate,,Q892554,,HMS Southampton (1757)
+HMS Southampton,HMS Southampton,Q659894,1,0,1,1936 Southampton-class light cruiser,,Q778129|Q852190,,HMS Southampton (83)
+HMS Southampton,HMS Southampton,Q1565383,1,0,1,1979 Type 42 guided missile destroyer,,Q2607934,,HMS Southampton (D90)
+HMS Southampton,HMS Southampton,Q1452859,1,0,1,1820 Southampton-class fourth-rate frigate,,Q892562,,HMS Southampton (1820)
+HMS Southampton,HMS Southampton,Q2304618,1,0,1,1693 fourth-rate ship of the line,,Q892562,,HMS Southampton (1693)
+HMS Southampton,HMS Southampton,Q1565377,1,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Southampton
+HMS Southampton,HMS Southampton,Q901580,2,0,1,1912 Chatham-class light cruiser,,Q778129,,HMS Southampton (1912)
+HMS Southampton,HMS Southampton,Q1565378,2,0,1,1757 Southampton-class fifth-rate frigate,,Q892554,,HMS Southampton (1757)
+HMS Southampton,HMS Southampton,Q659894,2,0,1,1936 Southampton-class light cruiser,,Q778129|Q852190,,HMS Southampton (83)
+HMS Southampton,HMS Southampton,Q1565383,2,0,1,1979 Type 42 guided missile destroyer,,Q2607934,,HMS Southampton (D90)
+HMS Southampton,HMS Southampton,Q1452859,2,0,1,1820 Southampton-class fourth-rate frigate,,Q892562,,HMS Southampton (1820)
+HMS Southampton,HMS Southampton,Q2304618,2,0,1,1693 fourth-rate ship of the line,,Q892562,,HMS Southampton (1693)
+HMS Southampton,HMS Southampton,Q1565377,2,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Southampton
+USS Houston,USS Houston,Q1890816,3,0,1,1929 Northampton-class cruiser,CA-30,Q898771,,USS Houston (CA-30)
+USS Houston,USS Houston,Q1687136,3,0,1,1981 Los Angeles-class submarine,,Q4818021,,USS Houston (SSN-713)
+USS Houston,USS Houston,Q5232692,3,0,1,1943 Cleveland-class cruiser,,Q778129,,USS Houston (CL-81)
+USS Houston,USS Houston,Q7870262,3,0,1,cargo ship that was acquired by the U.S. Navy for service in World War I,AK-1,Q105999,,USS Houston (AK-1)
+USS Houston,USS Houston,Q119168185,3,0,1,,,,,
+USS Houston,USS Houston,Q2469678,3,0,1,Wikimedia disambiguation page,,Q4167410,,USS Houston
+USS Houston,Houston,Q16555,3,0,2,"seat of Harris County, and largest city in State of Texas, United States","Space City|H-Town|City of Houston|USHOU|Houston, TX|Houston TX|Petro metro",Q1093829|Q1549591|Q62049|Q2264924,,Houston
+HMS Phoebe,HMS Phoebe,Q1112470,4,0,1,1939 Dido-class light cruiser,,Q778129,,HMS Phoebe (43)
+HMS Phoebe,HMS Phoebe,Q1565186,4,0,1,1795 Phoebe-class fifth-rate frigate,,Q892554,,HMS Phoebe (1795)
+HMS Phoebe,HMS Phoebe,Q165748,4,0,1,1890 Pearl-class cruiser,,Q104843,,HMS Phoebe (1890)
+HMS Phoebe,HMS Phoebe,Q5633770,4,0,1,1964 Leander-class frigate,,Q161705,,HMS Phoebe (F42)
+HMS Phoebe,HMS Phoebe,Q5633766,4,0,1,1916 Admiralty M-class destroyer,,Q174736,,HMS Phoebe (1916)
+HMS Phoebe,HMS Phoebe,Q1565183,4,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Phoebe
+HMS Dido,HMS Dido,Q5632144,5,0,1,1896 Eclipse-class cruiser,,Q830335,,HMS Dido (1896)
+HMS Dido,HMS Dido,Q1548116,5,0,1,1939 Dido-class light cruiser,,Q778129,,HMS Dido (37)
+HMS Dido,HMS Dido,Q5632149,5,0,1,1961 Leander-class frigate,HMNZS Southland,Q161705,,HMS Dido (F104)
+HMS Dido,HMS Dido,Q5632142,5,0,1,1869 Eclipse-class screw sloop,,Q7439100,,HMS Dido (1869)
+HMS Dido,HMS Dido,Q5632143,5,0,1,1784 Enterprise-class sixth-rate frigate,,Q892278,,HMS Dido (1784)
+HMS Dido,HMS Dido,Q25171769,5,0,1,1836 Daphne-class corvette,,Q170013,,HMS Dido (1836)
+HMS Dido,HMS Didon,Q5632145,5,0,1,1799 Virginie-class fifth-rate frigate,Didon,Q892554,,HMS Didon
+HMS Dido,"HMS Dido, Ajax and Orion in action off Crete, 21 May 1941",Q50888462,5,0,1,painting by Lieutenant-Commander Rowland John Robb Langmaid,,Q3305213,,
+HMS Dido,HMS Dido,Q1564593,5,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Dido

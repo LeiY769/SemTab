@@ -1,0 +1,181 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+TYC 3551-1307-1,TYC 3551-1307-1,Q89867036,0,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785,,
+KOI-5944,KOI-5944,Q89861069,1,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785,,
+KOI-5944,KOI-5944.01,Q75146325,1,0,1,unconfirmed exoplanet in the constellation Cygnus,K05944.01,Q18611609,,
+Kepler-324,Kepler-324,Q89861030,2,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785|Q2168098,,
+Kepler-324,Kepler-324 b,Q28855294,2,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-324,Kepler-324 c,Q28855295,2,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-324,Kepler-324 d,Q92357224,2,0,1,,K01831.03,Q18611609|Q44559,,
+Kepler-324,Kepler-324 e,Q83087360,2,0,1,,K01831.04,Q18611609|Q44559,,
+KIC 10905824,KIC 10905824,Q89860841,3,0,1,eclipsing binary star,,Q1457376|Q523,,
+KIC 11815158,KIC 11815158,Q89860819,4,0,1,eclipsing binary star,,Q1457376|Q1362543|Q523,,
+KOI-3464,KOI-3464,Q89860772,5,0,1,eclipsing binary star,,Q1457376,,
+KOI-7425,KOI-7425,Q89860682,6,0,1,eclipsing binary star,,Q1457376|Q523,,
+KOI-2813,KOI-2813,Q89860657,7,0,1,eclipsing binary star,,Q1457376|Q2168098|Q523|Q67206785,,
+KOI-2813,KOI-2813.01,Q86455719,7,0,1,unconfirmed exoplanet in the constellation Cygnus,K02813.01,Q18611609,,
+KIC 11774013,KIC 11774013,Q89860615,8,0,1,eclipsing binary star,,Q1457376|Q523,,
+KOI-3419,KOI-3419,Q89860601,9,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785,,
+KOI-3419,KOI-3419.01,Q75146003,9,0,1,unconfirmed exoplanet in the constellation Cygnus,K03419.01,Q18611609,,
+KOI-3471,KOI-3471,Q89860587,10,0,1,eclipsing binary star,,Q1457376|Q523,,
+Kepler-96,Kepler-967 Ac,Q28856536,11,0,1,extrasolar planet,KOI-1830 c|Kepler-967 c,Q44559|Q18611609,,
+Kepler-96,Kepler-962 b,Q28856528,11,0,1,extrasolar planet,Kepler-962 b|KOI-1819 b,Q44559|Q18611609,,
+Kepler-96,Kepler-96 b,Q21042390,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-969 c,Q28856540,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-965 b,Q28856533,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-964 b,Q28856530,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-968 c,Q28856538,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-969 b,Q28856539,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-960 b,Q28856526,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+Kepler-96,Kepler-963 b,Q28856529,11,0,1,extrasolar planet,,Q44559|Q18611609,,
+TYC 3140-482-1,TYC 3140-482-1,Q89821178,12,0,1,eclipsing binary star,,Q1457376|Q1362543,,
+TYC 3140-482-1,TYC 3140-1316-1,Q91158231,12,0,2,star in the constellation Cygnus,,Q523|Q67206691,,
+TYC 3140-482-1,TYC 3140-1691-1,Q90915613,12,0,2,high proper-motion star in the constellation Cygnus,,Q2247863|Q67206785,,
+TYC 3140-482-1,TYC 3140-1766-1,Q89694229,12,0,2,star in the constellation Cygnus,,Q523|Q67206785,,
+TYC 3140-482-1,TYC 3140-883-1,Q88643995,12,0,2,high proper-motion star in the constellation Cygnus,,Q2247863|Q523,,
+TYC 3140-482-1,TYC 3140-2719-1,Q89693987,12,0,2,rotating variable star in the constellation Cygnus,,Q2168098,,
+TYC 3140-482-1,TYC 3140-3-1,Q91158681,12,0,2,star in the constellation Cygnus,,Q523|Q67206691,,
+TYC 3140-482-1,TYC 3140-433-1,Q91158780,12,0,2,star in the constellation Cygnus,,Q523|Q67206691,,
+TYC 3140-482-1,TYC 3140-1421-1,Q91158793,12,0,2,star in the constellation Cygnus,,Q523,,
+TYC 3140-482-1,TYC 3140-29-1,Q91158249,12,0,2,star in the constellation Cygnus,,Q523|Q67206691,,
+TYC 3140-482-1,TYC 3140-521-1,Q89821649,12,0,2,Delta Scuti variable star in the constellation Cygnus,,Q836976|Q1362543,,
+V* AU Men,V* AU Men,Q89747200,13,0,1,eclipsing binary star,,Q1457376|Q2247863|Q67206785,,
+V* AU Men,astronomical unit,Q1811,13,0,2,"mean distance between Earth and the Sun, common length reference in astronomy",AU|astronomic unit|heliocentric distance|au,Q1978718|Q106839753|Q82047057|Q3268848,,Astronomical unit
+V* AU Men,astronomical unit per year,Q60742631,13,0,2,unit of speed,AU/yr,Q15222637,,
+V* AU Men,Astronomical Units to Merge as UK Cows Face Bloody Purge,Q91151364,13,0,2,scientific article published on 20 April 2001,,Q13442814,,
+V* AU Men,Homo sapiens,Q15978631,13,0,2,species of mammal,human being|human|man|men|human beings|humans,Q16521,Q171283,Homo sapiens
+V* AU Men,man,Q8441,13,0,2,male adult human,M.|men|gentleman|adult man,,Q9584157|Q84048850,Man
+V* AU Men,Mensa,Q9289,13,0,2,constellation in the southern celestial hemisphere,Men|Mensae|Mensa (constellation)|the Table Mountain,Q8928,,Mensa (constellation)
+V* AU Men,Men-at-the-Bar,Q19038764,13,0,2,1885 published edition of biographical work of British barristers,Men at the Bar,Q3331189,,
+V* AU Men,Ethnographic Museum of Neuchâtel,Q239080,13,0,2,"museum collection in the city of Neuchâtel, Switzerland",MEN|Musée d’Ethnographie de Neuchâtel,Q12104174|Q1497649,,Musée d'ethnographie de Neuchâtel
+V* AU Men,multiple endocrine neoplasia,Q1553018,13,0,2,human disease,MEA|multiple endocrine adenomas (morphologic abnormality)|multiple endocrine adenomatosis|Multiple Endocrine Neoplasia Syndrome(s)|MEN Syndromes|Multiple Endocrine Neoplasia Syndrome|MEN|Multiple Endocrine Adenomatosis|MEN syndrome|Multiple Endocrine Neoplasia|MEA - Multiple endocrine adenomatosis|Multiple endocrine adenomatosis,Q112193867,Q3542030|Q55785235,Multiple endocrine neoplasia
+V* AU Men,Mendoza Province,Q44797,13,0,2,province of Argentina,Province of Mendoza,Q44753,,Mendoza Province
+V* AU Men,Men,Q19967536,13,0,2,male given name,Men (first name)|Men (given name),Q12308941,,Men (name)
+V* AU Men,Men,Q37018855,13,0,2,family name,,Q101352,,
+V* AU Men,mental health,Q317309,13,0,2,level of psychological well-being,mental wellbeing|psychological health|psychological well-being,Q3968640|Q1207505,Q1403186|Q12147,Mental health
+BD+13 1880,BD+13 1880,Q89720305,14,0,1,star in the constellation Cancer,,Q1993624|Q1457376|Q67206785|Q1142192,,
+V* FX Eri,V* FX Eri,Q89719416,15,0,1,eclipsing binary star,,Q1457376|Q2247863,,
+GM Hydrae,GM Hydrae,Q89704674,16,0,1,Algol variable in the constellation Hydra,,Q1993624|Q1457376|Q67206785,,
+KOI-979,KOI-979,Q89694200,17,0,1,eclipsing binary star,,Q1457376|Q67206691,,
+WASP-91,WASP-91b,Q87881122,18,0,1,exoplanet in the constellation Tucana,TOI-116.01|TIC 238176110b,Q18611609|Q44559,,
+WASP-91,WASP-91,Q89668468,18,0,1,high proper-motion star in the constellation Tucana,,Q2247863|Q67206785|Q1457376,,
+HD 252612,HD 252612,Q89658796,19,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785,,
+HD 252612,star,Q523,19,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 252612,Star Trek,Q1092,19,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 252612,Star,Q37529922,19,0,2,family name,,Q101352,,
+HD 252612,Star Wars,Q462,19,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 252612,Star,Q381936,19,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 252612,celebrity,Q211236,19,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 252612,STAR,Q3480422,19,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 252612,Starnberg,Q61936,19,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 252612,Star TV,Q2067812,19,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 252612,Starz Entertainment,Q515869,19,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 252612,planetary system,Q206717,19,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 252612,star system,Q595871,19,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 252612,star system,Q2333293,19,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 252612,STAR System World Kickboxing Ratings,Q7394680,19,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 252612,Star System Tenopia,Q135106451,19,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 252612,Star Systems,Q130379854,19,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 252612,Star system,Q106848031,19,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 252612,STAR,Q7394670,19,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 252612,Star system,Q113173696,19,0,2,,,Q215380,,
+HD 252612,How to Lose Friends & Alienate People,Q770158,19,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+EPIC 211705654,EPIC 211705654,Q89654433,20,0,1,star in the constellation Cancer,,Q523|Q1457376|Q67206691|Q67206785,,
+EPIC 211705654,EPIC 211705654.01,Q83989393,20,0,1,unconfirmed exoplanet in the constellation Cancer,,Q18611609,,
+EPIC 211705654,planetary system,Q206717,20,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+EPIC 211705654,star system,Q595871,20,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+EPIC 211705654,star system,Q2333293,20,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+EPIC 211705654,STAR System World Kickboxing Ratings,Q7394680,20,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+EPIC 211705654,Star System Tenopia,Q135106451,20,0,2,novel by Richard Brightfield,,Q7725634,,
+EPIC 211705654,Star Systems,Q130379854,20,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+EPIC 211705654,Star system,Q106848031,20,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+EPIC 211705654,STAR,Q7394670,20,0,2,interbank network,,Q4830453,,STAR (interbank network)
+EPIC 211705654,Star system,Q113173696,20,0,2,,,Q215380,,
+EPIC 211705654,How to Lose Friends & Alienate People,Q770158,20,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+EPIC 211705654,Star candidate,Q7601201,20,0,2,high-profile figure recruited by a political party for office,,,,Star candidate
+TYC 6783-842-1,TYC 6783-842-1,Q89642675,21,0,1,eclipsing binary star,,Q1457376|Q523|Q67206785|Q2168098,,
+TYC 6783-842-1,spacecraft,Q40218,21,0,2,vehicle or machine designed to fly in space,spaceship|space ship|space craft|space-ship|space-craft|orbital vehicle|space vessel,Q140424465|Q140172580,Q7194062|Q16391167|Q4235019,Spacecraft
+TYC 6783-842-1,SpaceCraft,Q131398384,21,0,2,video game,,Q7889|Q64170203,,
+TYC 6783-842-1,spacecraft cemetery,Q2031530,21,0,2,area in the southern Pacific Ocean where spacecraft have been routinely deposited,spacecraft graveyard|South Pacific Ocean Uninhabited Area,Q55637013|Q106690126,,Spacecraft cemetery
+TYC 6783-842-1,spacecraft commander,Q11077692,21,0,2,"astronaut/cosmonaut responsible for overall mission success, safety of crew and spacecraft, and maneuvering",commander|command pilot|mission commander|captain|spacecraft captain|space captain|space commander,Q4164871,Q11631|Q1146304|Q110996085,
+TYC 6783-842-1,spacecraft solar array,Q7556726,21,0,2,deployable solar cell panel on a spacecraft operating in the inner Solar System,solar panels on spacecraft|solar arrays on spacecraft|satellite solar panel|satellite solar array|spacecraft solar panel,,Q217941|Q5260670|Q111518433,Solar panels on spacecraft
+TYC 6783-842-1,space instrument,Q100349043,21,0,2,instrument deployed in space,spacecraft instrument|space instrumentation,,Q3099911|Q21211206,
+TYC 6783-842-1,spacecraft bus,Q372881,21,0,2,"general model on which multiple-production spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a spacecraft",satellite platform|satellite bus,,Q15607934|Q111518433,Satellite bus
+TYC 6783-842-1,spacecraft constellation,Q967145,21,0,2,group of spacecraft working together as a system,satellite constellation,Q994895,Q113255208,Satellite constellation
+TYC 6783-842-1,space launch,Q7572593,21,0,2,earliest phase of a flight that reaches space,spacecraft launch|spacelaunch,,Q854248|Q74026067,Space launch
+TYC 6783-842-1,spacecraft propulsion,Q609089,21,0,2,method used to accelerate spacecraft,in-space propulsion,,Q2583685,Spacecraft propulsion
+TYC 6783-842-1,satellite virus,Q611075,21,0,2,subviral agent composed of nucleic acid,satellite,Q16521,Q18576925,Satellite (biology)
+TYC 6783-842-1,Satellite,Q111682272,21,0,2,science fiction convention series held in Glasgow,Satellite (convention),Q15275719,Q1958056,
+TYC 6783-842-1,natural satellite,Q2537,21,0,2,celestial body that orbits a planet or other smaller body in turn directly orbiting a star,moon|satellite|secondary planet,Q17444909,Q1297322|Q3132741,Natural satellite
+TYC 6783-842-1,Satellite,Q156562,21,0,2,"song written and composed by Julie Frost and John Gordon, originally performed by Lena Meyer-Landrut at the 2010 Eurovision Song Contest",,Q105543609,,Satellite (Lena Meyer-Landrut song)
+TYC 6783-842-1,HMS Brave,Q21065336,21,0,2,1943 Algerine-class minesweeper,Satellite,Q202527,,HMS Brave (J305)
+TYC 6783-842-1,Satellite,Q19961373,21,0,2,2014 studio album by Sam Paganini,,Q482994,,Satellite (Sam Paganini album)
+TYC 6783-842-1,satellite,Q1297322,21,0,2,object in orbit around another object,,,Q15731960|Q3132741,
+TYC 6783-842-1,Satellite,Q122311739,21,0,2,2018 video game,,Q7889,,
+TYC 6783-842-1,Satellite,Q28162393,21,0,2,"lieu-dit in L'Île-d'Anticosti, Quebec, Canada",,Q181307,,
+TYC 6783-842-1,satellite imagery,Q725252,21,0,2,imagery of the Earth or another astronomical object taken from an artificial satellite,satellite photography|satellite view|imagery from space|view from space|photography from space|space view|space imagery|imagery from satellite|sat imagery|sat image|satellite image|satellite images|satellite photograph,Q3100808|Q2424752,Q10843872|Q11633,Satellite imagery
+V* V1207 Cen,V* V1207 Cen,Q89638637,22,0,1,Algol variable in the constellation Centaurus,,Q66521853|Q523|Q1457376|Q67206785,,
+V* V1207 Cen,Centaurus,Q8844,22,0,2,stellar constellation in the southern celestial hemisphere,Cen|Centauri|the Centaur,Q8928,,Centaurus
+V* V1207 Cen,UTC+02:00,Q6723,22,0,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+V* V1207 Cen,United States Census Bureau,Q637413,22,0,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+V* V1207 Cen,Central European Time,Q25989,22,0,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+V* V1207 Cen,Central European Summer Time,Q207020,22,0,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+V* V1207 Cen,census-designated place in the United States,Q498162,22,0,2,statistical concentration of population defined by the United States Census Bureau,unincorporated census-designated place|unincorporated CDP,Q137018865|Q56061,Q17343829|Q15042037|Q3389680|Q486972|Q2221906,Census-designated place
+V* V1207 Cen,centimetre,Q174728,22,0,2,SI unit of length equal to one hundredth of a metre,centimetres|cm,Q1978718|Q208469|Q12036470,,Centimetre
+V* V1207 Cen,UTC+08:00,Q6985,22,0,2,identifier for a time offset from UTC of +8,Central Indonesian Time|WITA Time Zone,Q17272482,,UTC+08:00
+V* V1207 Cen,census,Q39825,22,0,2,survey designed to collect data about all members of a population,censuses|censusses|censi,Q15275719|Q1047113|Q2267705,Q3523102|Q29051383|Q1172284|Q4350743,Census
+V* V1207 Cen,National Center for Scientific Research,Q280413,22,0,2,French research organisation,"Scientific Research National Center|Centre national de la recherche scientifique|French National Centre for Scientific Research|CNRS|National Center for Scientific Research, France",Q13582798|Q31855|Q45400320|Q43229,,French National Centre for Scientific Research
+V* V1207 Cen,General Catalogue of Variable Stars,Q222662,22,0,2,astronomical catalogue of variable stars,GCVS|V* Catalogue,Q850950,,General Catalogue of Variable Stars
+V* V1207 Cen,Delta Crucis,Q333243,22,0,2,star in the constellation Crux,Imai|del Cru|V* del Cru|HD 106490|GCRV 7332|HR 4656|HIC 59747|HIP 59747|δ Crucis|δ Cru|ROT 1792|NSV 5510,Q523|Q6243|Q353834|Q764463|Q67206691|Q67206785|Q71798788,,Delta Crucis
+V* V1207 Cen,V624 Herculis,Q6770161,22,0,2,,HD 161321|V624 Her|V* V624 Her|HIP 86809|HIC 86809|HR 6611|Renson 45460|GCRV 10253,Q1993624|Q1457376|Q13890|Q67206785|Q71798788|Q523|Q1142192|Q451152|Q6243,,
+V* V1207 Cen,Proxima Centauri,Q14266,22,0,2,star in Centaurus constellation,α Cen C|Alpha Centauri C|Proxima|α Centauri C|Proxima Cen|GJ 551|LHS 49|NLTT 37460|PLX 3278|LFT 1110|LPM 526|LTT 5721|TIC 388857263|TIC 1019422535|V645 Cen|V645 Centauri|HIC 70890|HIP 70890|CSV 2142,Q285400|Q5893|Q67206691|Q2154519|Q2247863|Q71798788|Q1362543|Q13890|Q67206785|Q2168098|Q6243|Q523|Q878367,,Proxima Centauri
+V* V1207 Cen,V451 Herculis,Q6770252,22,0,2,star,HD 153882|V451 Her|V* V451 Her|HIP 83308|HIC 83308|HR 6326|Renson 43450|DS 10310 A|GC 22960|GCRV 9815,Q6243|Q1141942|Q13890|Q67206785|Q71798788|Q523|Q2168098|Q1142192|Q616386,,
+V* V1207 Cen,Polaris,Q12980,22,0,2,brightest star in the constellation Ursa Minor,Alpha Ursae Minoris|α Ursae Minoris|North Star|North pole star|Pole star|Polestar|Stella Polaris|Pole-star|Northern Star|* alf UMi|α UMi|1 Ursae Minoris|1 UMi|** WRH 39|alf UMi|ROT 3491|SAO 138|V* alf UMi|HIC 11767|HIP 11767|HR 424|PPM 431,Q995268|Q2088753|Q10451997|Q662656|Q1547772|Q67206691|Q67206785|Q71798788|Q523|Q13890|Q1993624|Q6243,,Polaris
+V* V1207 Cen,AB Doradus B,Q89986655,22,0,2,,V* AB Dor B|HBC 434|AB Dor B|** RST 137B|** CLO 10B|CLO 10B|RST 137B,Q13890|Q72803622|Q2247863|Q67206785|Q6243|Q523,,
+V* V1207 Cen,V* V884 Ori,Q79282935,22,0,2,,V* V885 Ori,Q1352333|Q72803622|Q285400,,
+V* V1207 Cen,CW Leonis,Q81641823,22,0,2,star in the constellation Leo,CW Leo|LEDA 1427054|CGCS 2619|Peanut Nebula|Zel 0945+135|TIC 258671744|RAFGL 1381|SCM 50|PN G221.4+45.0|LINEAR 17154286,Q523|Q130019|Q6243|Q1153690|Q744691|Q1931185|Q67201574|Q67206691|Q318|Q67206785|Q13632|Q353834,,CW Leonis
+V* V1207 Cen,V771 Herculis,Q6770123,22,0,2,star in the constellation Hercules,V771 Her|HD 164429|V* V771 Her|HIP 88030|HIC 88030|GCRV 10432|ROT 2522|Renson 46480|NSV 9958,Q523|Q6243|Q1141942|Q67206785|Q71798788|Q2168098|Q1142192|Q616386,,
+V* V1207 Cen,V1207 Herculis,Q90158180,22,0,2,eclipsing binary star,,Q1457376,,
+V* V1207 Cen,V* V1207 Ori,Q84215763,22,0,2,,,Q1352333|Q285400,,
+V* V1207 Cen,V* V1207 Tau,Q92089795,22,0,2,,,Q6232|Q67206785|Q6243|Q2154519|Q72802977,,
+V* V1207 Cen,V* V1207 Sgr,Q87442424,22,0,2,RR Lyrae variable star in the constellation Sagittarius,,Q726242|Q523,,
+V* V1207 Cen,V* V1207 Oph,Q87458438,22,0,2,Mira variable star in the constellation Ophiuchus,,Q744691,,
+V* V1207 Cen,V* V1207 Aql,Q92712346,22,0,2,RR Lyrae variable star in the constellation Aquila,,Q726242|Q6243,,
+V* V1207 Cen,V* V1207 Cas,Q93862221,22,0,2,eclipsing binary star,,Q1457376|Q523|Q67206785,,
+V* V1207 Cen,V* V1207 Cyg,Q88305873,22,0,2,Algol variable in the constellation Cygnus,,Q24452|Q523,,
+HD 226794,HD 226794,Q89627131,23,0,1,eclipsing binary star,,Q1457376,,
+HD 226794,star,Q523,23,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 226794,Star Trek,Q1092,23,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 226794,Star,Q37529922,23,0,2,family name,,Q101352,,
+HD 226794,Star Wars,Q462,23,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 226794,Star,Q381936,23,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 226794,celebrity,Q211236,23,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 226794,STAR,Q3480422,23,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 226794,Starnberg,Q61936,23,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 226794,Star TV,Q2067812,23,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 226794,Starz Entertainment,Q515869,23,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 226794,planetary system,Q206717,23,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 226794,star system,Q595871,23,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 226794,star system,Q2333293,23,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 226794,STAR System World Kickboxing Ratings,Q7394680,23,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 226794,Star System Tenopia,Q135106451,23,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 226794,Star Systems,Q130379854,23,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 226794,Star system,Q106848031,23,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 226794,STAR,Q7394670,23,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 226794,Star system,Q113173696,23,0,2,,,Q215380,,
+HD 226794,How to Lose Friends & Alienate People,Q770158,23,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+HD 226794,astronomical object,Q6999,23,0,2,"physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",celestial body|celestial object|astronomical body|astronomical objects|celestial bodies|celestial objects|astronomical bodies|object|stellar body|stellar object,Q96251598,Q223557|Q16686022|Q4235019,Astronomical object
+HD 226794,astronomical object type,Q17444909,23,0,2,each instance is a subclass in the hierarchy under <astronomical object>(Q6999); such a subclass's instances in turn are particular identified objects in Our Universe,class of astronomical object|type of astronomical object|object type in astronomy|object type (astronomy)|type of celestial object,Q24017414,Q111360549,
+HD 226794,astronomical object in the Solar System,Q109645909,23,0,2,type of astronomical object within the Solar System,Solar System object,Q17444909,Q6999,
+HD 226794,astronomical object's surface,Q30318034,23,0,2,type of surface,,,Q3783831|Q125176223,
+HD 226794,astronomical object from the Stargate universe,Q108214736,23,0,2,astronomical object appearing in the Stargate universe,,,Q15831598|Q108214806,
+HD 226794,Astronomical objects and features with Romanian names,Q29640773,23,0,2,Wikimedia list article,,Q13406463,,Astronomical objects and features with Romanian names
+HD 226794,astronomical object from the Star Trek universe,Q57083319,23,0,2,astronomical object appearing in the Star Trek franchise,astronomical object from the Star Trek multiverse,,Q15831598|Q15796005,
+HD 226794,astronomical object in a fiction work,Q135456669,23,0,2,"astronomical object, real or imagined, appearing in works of fiction",,,Q15796005,
+HD 226794,astronomical object from the Blinky Bill universe,Q117432201,23,0,2,astronomical object appearing in the Blinky Bill universe,,,Q15831598|Q117432180,
+HD 226794,Astronomical objects,Q81196826,23,0,2,scientific article published on 01 October 1992,,Q13442814,,
+HD 226794,celestial body,Q1519541,23,0,2,natural object visible in the sky to the naked eye,,Q17444909,Q6999,
+HD 226794,Celestial Body,Q5057890,23,0,2,2001 Croatian film directed by Lukas Nola,,Q11424,,Celestial Body
+HD 226794,celestial body,Q138702746,23,0,2,,,Q96251598,Q223557,
+HD 226794,celestial body it is nearing,Q140423939,23,0,2,"prototypical patient (PPT) for predicate ""aspect.01"": angle of the planets used in astrology",,,Q134506144,
+HD 226794,Celestial body irradiance determination from an underfilled satellite radiometer: application to albedo and thermal emission measurements of the Moon using CERES.,Q34833283,23,0,2,scientific article,,Q13442814,,
+HD 226794,Celestial body-building,Q59042126,23,0,2,scientific article published in Nature,,Q13442814,,

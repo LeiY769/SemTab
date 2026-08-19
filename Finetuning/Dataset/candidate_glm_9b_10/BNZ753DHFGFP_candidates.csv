@@ -1,0 +1,53 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Phan Thanh,Phan Thanh,Q10805065,0,0,1,,,Q5,,
+Phan Thanh,Phan Thanh,Q10805070,0,0,1,,Xã Phan Thanh,Q2389082,,
+Phan Thanh,Phan Thanh An,Q102402294,0,0,1,Ph.D. Vinh University 1999,,Q5,,
+Phan Thanh,Phan Thanh,Q10805068,0,0,1,,Xã Phan Thanh,Q2389082,,
+Phan Thanh,Phan Thanh,Q10805069,0,0,1,"commune in Luc Yen district, Yen Bai province, Vietnam",,Q2389082,,
+Phan Thanh,Phan Thanh,Q10805067,0,0,1,,Xã Phan Thanh,Q2389082,,
+Phan Thanh,Phan Thanh Toan,Q102426824,0,0,1,Ph.D. Pohang University of Science and Technology 2012,,Q5,,
+Phan Thanh,Phan Thanh An,Q57416997,0,0,1,researcher,,Q5,,
+Phan Thanh,Phan Thanh Nam,Q128231593,0,0,1,,,Q5,,
+Phan Thanh,Phan Thanh Dat,Q140562191,0,0,1,Poet,,Q5,,
+Phan Thanh,Vũ Thành An,Q10833895,0,0,2,Vietnamese songwriter,,Q5,,
+Phan Thanh,Vu Thanh,Q10833893,0,0,2,,,Q5,,
+Phan Thanh,Vu Thanh Loc Mai,Q131128698,0,0,2,researcher,,Q5,,
+Phan Thanh,Vũ Thành An,Q26252600,0,0,2,Vietnamese fencer,,Q5,,Vũ Thành An
+Phan Thanh,Vũ Thạnh,Q10833897,0,0,2,,,Q5,,
+Phan Thanh,Vu Thanh Nguyen,Q87854905,0,0,2,researcher,,Q5,,
+Phan Thanh,Wuqing District,Q708496,0,0,2,"district of Tianjin, China",Wuqing Qu,Q1065118,,"Wuqing, Tianjin"
+Phan Thanh,Yucheng District,Q589493,0,0,2,"district of Sichuan Province, China",,Q1065118,,"Yucheng, Ya'an"
+Phan Thanh,Wucheng District,Q1335063,0,0,2,"district of Zhejiang Province, China",,Q1065118,,"Wucheng, Jinhua"
+Phan Thanh,Yucheng,Q1198528,0,0,2,county-level city,,Q1070990,,"Yucheng, Shandong"
+Phan Thanh,ingredient,Q10675206,0,0,2,"general concept for substances which are parts of a mixture, product, or recipe",,,Q1310239|Q214609,Ingredient
+Phan Thanh,cellular component,Q5058355,0,0,2,component of a cell,subcellular entity|cellular structures|Cell component|cell or subcellular entity|cell component,,Q1310239|Q66557947,Cellular component
+Phan Thanh,Thanh Phan Huu,Q139279215,0,0,2,,,Q5,,
+Phan Thanh,Francis Xavier,Q163900,0,0,2,Spanish Catholic saint and missionary (1506–1552),Saint Francis Xavier|Francisco de Jasso y Azpilicueta|Franciscus Xaverius|Francisco Javier|Franz Xaver|Frantzisko Xabierkoa|Francesco Saverio|François Xavier|St. Francis Xavier,Q5,,Francis Xavier
+Phan Thanh,chemical composition,Q1263816,0,0,2,"concept in chemistry that has different, but similar, meanings if referred to a single pure substance or a mixture",composition|chemical makeup,Q1924249,Q1924249|Q6671777,Chemical composition
+Phan Thanh,physical technological component,Q811909,0,0,2,"fundamental physical component of a machine or a tool, part of the machinery and contributing to the function of the machine, not of the esthetics",functional component|technological component,,Q122853586|Q39546,
+Phan Thanh,elite,Q192797,0,0,2,"group or class of persons enjoying superior intellectual, social or economic status",,,Q187588,Elite
+Phan Thanh,abiotic component,Q461335,0,0,2,non-living chemical and physical parts of the environment that affect living organisms and the functioning of ecosystems,abiotic factor,,Q2142347,Abiotic component
+Phan Thanh,biological component,Q28845870,0,0,2,component of the biological system,biological system component|biological entity,,Q1310239|Q16686022,
+Phan Thanh,biotic component,Q864886,0,0,2,"any living component that affects another organism, i.e. a living thing that help shape an ecosystem",,Q2142347|Q1969448,,Biotic component
+Vũ Nông,Vũ Nông,Q10833865,0,1,1,,Vu Nong|Xã Vũ Nông,Q2389082,,
+Thanh An,Thanh An,Q110157903,1,0,1,"researcher at Australian research centre for sex, health and society",Thanh Ly An,Q5,,
+Thanh An,Thanh An,Q118127917,1,0,1,Vietnamese film director,,Q5,,
+Thanh An,Thanh An,Q118127979,1,0,1,,,Q5,,
+Thanh An,Thanh An,Q10824705,1,0,1,"commune of Dien Bien province, Vietnam",Xã Thanh An,Q2389082,,"Thanh An, Điện Biên"
+Thanh An,Thanh An,Q2501864,1,0,1,commune in Ho Chi Minh City,Thanh An Commune,Q2389082,,"Thanh An, Ho Chi Minh City"
+Thanh An,Thành An,Q10825532,1,0,1,commune in Thạch Thành district,"Thanh An|Thành An commune|Thành An, Thạch Thành",Q2389082,,
+Thanh An,Thanh An,Q10824702,1,0,1,,Xã Thanh An,Q2389082,,
+Thanh An,Thành An,Q10825531,1,0,1,,Thanh An|Xã Thành An,Q2389082,,
+Thanh An,Thanh An,Q10824703,1,0,1,,Xã Thanh An,Q2389082,,
+Thanh An,Thanh An,Q10743985,1,0,1,,Xã Thanh An,Q2389082,,
+Thanh Hà,Thanh Hà,Q847496,1,2,1,"former rural district of Hai Duong, Vietnam","Huyện Thanh Hà|Thanh Hà, Hải Dương",Q2582669,,Thanh Hà district
+Thanh Hà,Thanh Hà,Q7710353,1,2,1,Vietnamese singer (born 1969),Thanh Ha,Q5,,Thanh Hà (singer)
+Thanh Hà,Thanh Hà,Q3918824,1,2,1,,Thanh Ha,Q687188,,
+Thanh Hà,Thanh Hai Ngo,Q7710334,1,2,1,Canadian politician,,Q5,,Thanh Hai Ngo
+Thanh Hà,Thanh Hà,Q10824752,1,2,1,"town, capital of Thanh Hà district, Hải Dương province, Vietnam",Thanh Ha|Thị trấn Thanh Hà,Q1070942,,
+Thanh Hà,Thanh Hà,Q10824746,1,2,1,,Thanh Ha|Xã Thanh Hà,Q2389082,,
+Thanh Hà,Thanh Hà,Q10824750,1,2,1,,Thanh Ha,Q2389082,,
+Thanh Hà,Thanh Hà,Q10824749,1,2,1,,Thanh Ha,Q1070942,,
+Thanh Hà,Thanh-Hai Nguyen,Q130871552,1,2,1,researcher,,Q5,,
+Thanh Hà,Thanh Hai Pham,Q112527128,1,2,1,,,Q5,,
+Thanh Hà,Ba Hàng Đồi,Q10824745,1,2,2,township of Hoa Binh Province,Thanh Ha|Ba Hang Doi,Q1070942,,

@@ -1,0 +1,211 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ingiam,,,0,0,0,,,,,
+BlueJay,Blue Jay,Q199758,1,0,1,species of bird,Cyanocitta cristata|bluejay|jaybird,Q16521,,Blue jay
+BlueJay,Toronto Blue Jays,Q650829,1,0,1,"baseball team and Major League Baseball franchise in Toronto, Ontario, Canada",Blue Jays|TBJ|Jays|Toronto Bluejays|Bluejays|Toronto Jays,Q13027888|Q5420795,,Toronto Blue Jays
+BlueJay,Creighton Bluejays men's basketball,Q5183999,1,0,1,men's college basketball team,Creighton Bluejays|Creighton Bluejays basketball|Bluejays basketball|Creighton University basketball|Creighton basketball|Creighton men's basketball|Creighton University men's basketball,Q13393265|Q18558301,,Creighton Bluejays men's basketball
+BlueJay,Terry Woodrow,Q55582596,1,0,1,US author,Bluejay,Q5,,
+BlueJay,Bluejay Creek,Q4930370,1,0,1,"watercourse in Ontario, Canada",,Q4022,,Bluejay Creek (Pic River tributary)
+BlueJay,Bluejay's Quest,Q135034117,1,0,1,2023 video game developed by Codeloader,,Q7889,,
+BlueJay,Bluejay Spring,Q49708413,1,0,1,,,Q124714,,
+BlueJay,Bluejay Spring,Q49708412,1,0,1,,,Q124714,,
+BlueJay,Bluejay Books,Q62592941,1,0,1,"US publishing house founded by James R Frenkel, who had previously been the editor of Dell's sf line. Bluejay Books began publishing in 1983, its books being distributed by St Martin's Press",,Q2085381,,
+BlueJay,Bluejay Lake,Q22578815,1,0,1,"lake in Nipissing District, Ontario, Canada",,Q23397,,
+BlueJay,Blue Jay,Q15754763,1,0,2,journal,,Q5633421,,
+BlueJay,Blue Jay Creek,Q4929283,1,0,2,"river in Manitoulin, Ontario, Canada",,Q4022,,Blue Jay Creek (Lake Huron tributary)
+BlueJay,Blue Jay,Q27958185,1,0,2,2016 film directed by Alex Lehmann,,Q11424,,Blue Jay (film)
+BlueJay,Blue Jay,Q885742,1,0,2,"town in California, USA","Blue Jay, California|Blue Jay, CA",Q3957|Q17343829,,"Blue Jay, California"
+BlueJay,Blue Jay,Q56479155,1,0,2,poem by Elizabeth Gordon,,Q1980247,,
+BlueJay,Blue Jay,Q78678295,1,0,2,painting by Helen Frankenthaler,,Q3305213,,
+BlueJay,Blue Jay,Q77513542,1,0,2,painting by Lonnie B. Holley,,Q3305213,,
+BlueJay,Blue Jay,Q112417095,1,0,2,character Adventure Time,,Q15711870|Q112632917,,
+Oak Lke,Oak Lake,Q109558264,2,0,2,"lake in Rural Municipality of Sifton, Manitoba, Canada",,Q23397,,Oak Lake (Manitoba)
+Oak Lke,Oak Lake,Q75834,2,0,2,"town in Manitoba, Canada","Oak Lake, Manitoba|Oak Lake, MB",Q3957,,"Oak Lake, Manitoba"
+Oak Lke,Oak Lake,Q25204393,2,0,2,"lake in Brookings County, South Dakota, USA",,Q23397,,Oak Lake (South Dakota)
+Oak Lke,Oak Lake,Q33295703,2,0,2,"lake in Becker County, Minnesota, United States",,Q23397,,
+Oak Lke,Oak Lake,Q21475240,2,0,2,lake in Nova Scotia,,Q23397,,
+Oak Lke,Oak Lake,Q22415487,2,0,2,"lake in Algoma District, Ontario, Canada",,Q23397,,
+Oak Lke,Oak Lake,Q7073615,2,0,2,"ghost town in Minnesota, United States","Oak Lake, Minnesota",Q74047,,"Oak Lake, Minnesota"
+Oak Lke,Oak Lake,Q22415445,2,0,2,,,Q23397,,
+Oak Lke,Oak Lake,Q33295710,2,0,2,"lake in Hubbard County, Minnesota, United States",,Q23397,,
+Oak Lke,Oak Lake,Q49307338,2,0,2,"lake in Mason County, Washington state, United States of America",,Q23397,,
+Winnipeg#Beach,Winnipeg Beach,Q117998,3,0,2,"town in Manitoba, Canada","Winnipeg Beach, Manitoba|Winnipeg Beach, MB",Q3957,,Winnipeg Beach
+Winnipeg#Beach,Winnipeg Beach Breakwater Light,Q115237073,3,0,2,lighthouse in Canada,,Q39715,,
+Winnipeg#Beach,Winnipeg Beach Provincial Park,Q8025730,3,0,2,provincial park in Manitoba,,Q1277221,,Winnipeg Beach Provincial Park
+Winnipeg#Beach,Winnipeg Beach Canadian Pacific Railway Water Tower,Q62080952,3,0,2,"water tower in Winnipeg Beach, Manitoba, Canada",,Q274153,,
+Winnipeg#Beach,Winnipeg Beach,Q97207247,3,0,2,Wikimedia disambiguation page,,Q4167410,,
+Crief,Crieff,Q639666,4,0,1,"town in Perth and Kinross, Scotland, UK",Craoibh,Q7543008|Q3957,,Crieff
+Crief,Crieff,Q68815229,4,0,1,"Scottish parish in Perth and Kinross, Scotland, UK",,Q5124673,,
+Crief,Gleneagles railway station,Q2201588,4,0,1,"railway station in Gleneagles, Perth and Kinross, Scotland, UK",Crief Junction|Crief Junction station|Crief Junction railway station|GLE,Q55488,,Gleneagles railway station
+Crief,Crieff Hydro,Q5185110,4,0,1,"hotel in Crieff, Perth and Kinross, Scotland, UK","Crieff, Ferntower Road, Crieff Hydro|Crieff Hydro, Ferntower Road, Crieff",Q27686,,Crieff Hydro
+Crief,Crieff Community Hospital,Q87677559,4,0,1,"hospital in Perth and Kinross, Scotland, UK",,Q16917,,Crieff Community Hospital
+Crief,"30, 32, 34, 36, 38, 40 High Street, Crieff",Q17568188,4,0,1,"architectural structure in Perth and Kinross, Scotland, UK","High Street, The Bank Restaurant, Former British Linen Bank|Crieff, 30, 32, 34, 36, 38, 40 High Street",Q811979,,"32–34 High Street, Crieff"
+Crief,Crieff Junction Railway,Q5185112,4,0,1,former railway line in Scotland,,Q357685,,Crieff Junction Railway
+Crief,Crieff and Methven Junction Railway,Q5185113,4,0,1,railway line in the UK,,Q728937,,Crieff and Methven Junction Railway
+Crief,"Gate Piers, Gates and Boundary Wall, Morrison's Academy, Ferntower Road, Crieff",Q17837478,4,0,1,"building in Perth and Kinross, Scotland, UK","Crieff, Ferntower Road, Morrison's Academy, Gate Piers, Gates And Boundary Wall|Gates and Boundary Wall, Gate Piers, Morrison's Academy, Ferntower Road, Crieff",Q41176,,
+Crief,"Lodge, Morrison's Academy, Ferntower Road, Crieff",Q17837494,4,0,1,"gatehouse in Crieff, Perth and Kinross, Scotland, UK","Crieff, Ferntower Road, Morrison's Academy, Lodge",Q277760,,
+Awhlop,,,5,0,0,,,,,
+Gssx,,,6,0,0,,,,,
+Brozburn,,,7,0,0,,,,,
+Oegstgeett,Oegstgeest,Q94747,8,0,2,town and municipality in the Netherlands,,Q2039348|Q3957|Q1852859,,Oegstgeest
+Oegstgeett,Oegstgeest municipal council,Q106218045,8,0,2,,,Q17014622,,
+Oegstgeett,Oegstgeest junction,Q35200017,8,0,2,,,Q628131,,
+Oegstgeett,flag of Oegstgeest,Q28109206,8,0,2,,Oegstgeest flag,Q21850100,,
+Oegstgeett,Oegstgeester Courant,Q108094676,8,0,2,"newspaper from Oegstgeest, Netherlands",oegstgeestercourant.nl,Q11032,,
+Oegstgeett,Oegstgeester dakpannen,Q21005626,8,0,2,,,,Q268547,
+Oegstgeett,Oegstgeeststraat,Q19386782,8,0,2,"street in Arnhem, the Netherlands",,Q79007,,
+Oegstgeett,Oegstgeesterweg,Q19386776,8,0,2,"street in Leiden, the Netherlands",,Q79007,,
+Oegstgeett,Oegstgeesterweg,Q19386777,8,0,2,"street in Oegstgeest, the Netherlands",,Q79007,,
+Oegstgeett,Oegstgeestsestraat,Q19386781,8,0,2,"street in Berlicum, the Netherlands",,Q79007,,
+Tardert,TARDIS,Q35684,9,0,2,fictional time-travelling device,Time And Relative Dimension In Space|Time And Relative Dimensions In Space|Blue Box|Time and Relative Dimension in Space|Time and Relative Dimensions in Space|TT type 40 capsule,Q14637321|Q1195697|Q105220680|Q15773317,,TARDIS
+Tardert,3325 TARDIS,Q565483,9,0,2,asteroid,TARDIS,Q3863,,3325 TARDIS
+Tardert,Doctor Who: TARDIS,Q29043590,9,0,2,2010 video game,TARDIS,Q7889,,
+Tardert,traversable acausal retrograde domains in spacetime,Q30897888,9,0,2,proposed solution to the question of the existence of closed timelike curves outside of a black hole,TARDIS,Q1879813|Q386724,,
+Tardert,traversable acausal retrograde domains in spacetime,Q50403238,9,0,2,mathematical model for a feasible time machine,TARDIS,,Q133327,
+Tardert,TARDIS,Q124372683,9,0,2,,,Q7397,,TARDIS (software)
+Tardert,TARDIS,Q57655398,9,0,2,gamma-ray constellation,,Q57653804,,
+Tardert,Tardisode,Q7685721,9,0,2,web series,,Q526877,,Tardisode
+Tardert,Tardis Data Core,Q106601446,9,0,2,,TARDIS Index File,Q106513246,,
+Tardert,Tardisbrücke,Q2394052,9,0,2,,,Q537127,,
+Kirn,Kirn,Q16868216,10,0,1,family name,,Q101352,,Kirn (surname)
+Kirn,Kirn,Q22470,10,0,1,"town in the district of Bad Kreuznach, in Rhineland-Palatinate, Germany",,Q3957|Q42744322,,Kirn
+Kirn,Kirn,Q28102571,10,0,1,"village in the municipality of Ering, Germany",,Q253019|Q1493533,,
+Kirn,Kirnberg an der Mank,Q676841,10,0,1,"municipality in Melk District, Lower Austria, Austria",,Q1802801|Q667509,,Kirnberg an der Mank
+Kirn,Kirner,Q37043205,10,0,1,family name,,Q101352,,Kirner
+Kirn,Kirn,Q6415924,10,0,1,"village in Argyll and Bute, Scotland, UK","Kirn, Argyll|Kirn, Dunoon",Q532,,"Kirn, Dunoon"
+Kirn,KIRN,Q6331065,10,0,1,"Iranian radio station in Simi Valley, California, United States",,Q14350,,KIRN
+Kirn,Kirn,Q32065357,10,0,1,,,Q486972,,
+Kirn,Thomas Kirn,Q64858066,10,0,1,particle physicist at RWTH Aachen University,Kirn T,Q5,,
+Kirn,Kirnbach-Grün railway station,Q110561578,10,0,1,railway halt in Germany,Kirnbach-Grün station,Q27996460|Q813817,,
+Moan,Moan,Q18207096,11,0,1,1999 film,,Q11424,,Moan (film)
+Moan,male,Q6581097,11,0,1,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a male or ""semantic gender"" (P10339) to indicate that a word refers to a male person",male gender|man|male person|male human|guy|sterner sex|masc|boy|male character,Q48264|Q4369513,Q99485732,Male (gender)
+Moan,Moan,Q1880846,11,0,1,Dutch pop group,,Q215380,,
+Moan,man,Q8441,11,0,1,male adult human,M.|men|gentleman|adult man,,Q9584157|Q84048850,Man
+Moan,Moana Pozzi,Q242219,11,0,1,Italian television presenter and pornographic actress,Linda Heveret|Moana|Anna Maria Pozzi|Ana Maria Pozzi,Q5,,Moana Pozzi
+Moan,Wangan Township,Q706727,11,0,1,"A rural township in Penghu County, Taiwan",Wangan|Wang'an|Wang-an|Bāng-uann|Bāng-oaⁿ|Bōan|Mōan|Peh-táu|Hattō|Hattaku,Q2367508,,"Wangan, Penghu"
+Moan,Moana,Q1529838,11,0,1,given name,Moana (first name)|Moana (given name),Q3409032,,
+Moan,Moaning Myrtle,Q3422924,11,0,1,fictional character from the Harry Potter series,Myrtle Elizabeth Warren,Q2087138|Q15298259|Q3658341|Q15773347|Q33295822|Q20529153|Q3375722,,Moaning Myrtle
+Moan,Moan,Q30132190,11,0,1,family name,,Q101352,,
+Moan,Oceania,Q55643,11,0,1,"geographical region comprising Australasia, Melanesia, Micronesia, Polynesia",Oceania and Australia|Australia and Oceania|Moana Oceania,Q82794|Q2418896|Q5107,,Oceania
+Moan,moaning,Q137231003,11,0,2,sound emanating from the throat,moan|groaning|groan,Q4393922,Q1229479,
+Moan,Moaning,Q125510575,11,0,2,2018 studio album by Moaning,,Q482994,,Moaning (album)
+Moan,Moaning,Q104845157,11,0,2,American alternative rock band,,Q215380,,Moaning (band)
+Moan,Moaning Lisa,Q1507895,11,0,2,episode of The Simpsons (S1 E6),7G06,Q21191270,,Moaning Lisa (The Simpsons)
+Moan,Heleioporus eyrei,Q2274911,11,0,2,species of amphibian,Moaning frog,Q16521,,Moaning frog
+Moan,Moaning Stones,Q114488179,11,0,2,episode of The Real Ghostbusters (S2 E55),,Q21191270,,
+Moan,Moaning Lisa,Q85785989,11,0,2,2016 Australian rock band,,Q215380,,Moaning Lisa (band)
+Moan,Moaning Cavern,Q6886428,11,0,2,"solutional cave in the Calaveras County, California",,Q35509|Q2232001,,Moaning Cavern
+Moan,moaning earrape sound effect,Q106545525,11,0,2,,Alexis Texas moaning,Q2927074|Q3302947,Q768807,
+Bellvile,Bellville,Q816070,12,0,2,"Suburb in the Western Cape, South Africa",,Q123705,,"Bellville, South Africa"
+Bellvile,Bellville,Q669178,12,0,2,"city in and county seat of Austin County, Texas, United States","Bellville, Texas|Bellville, TX",Q1093829|Q62049,,"Bellville, Texas"
+Bellvile,Bellville,Q816072,12,0,2,"town in Richland County, Ohio","Bellville, Ohio|Bellville, OH",Q108569739,,"Bellville, Ohio"
+Bellvile,Bellville,Q37521421,12,0,2,family name,,Q101352,,
+Bellvile,Bellville,Q1925700,12,0,2,"human settlement in Evans County, Georgia, United States of America","Bellville, Georgia|Bellville, GA",Q1093829|Q76514543,,"Bellville, Georgia"
+Bellvile,Bellville,Q27985897,12,0,2,"unincorporated community in Marion County, Missouri","Bellville, Missouri|Bellville, MO",Q17343829,,"Bellville, Missouri"
+Bellvile,Bellville,Q104345867,12,0,2,"townland in Bellananagh, County Cavan, Ireland",,Q2151232,,
+Bellvile,Bellville,Q104348114,12,0,2,"townland in Church Hill, County Donegal, Ireland",,Q2151232,,
+Bellvile,Bellville Independent School District,Q4884224,12,0,2,school district in Texas,,Q398141,,Bellville Independent School District
+Bellvile,Bellville High School,Q4884221,12,0,2,"high school in Texas, United States",,Q9826,,Bellville High School
+Mooi Rivgr,,,13,0,0,,,,,
+Bsni,BsnI,Q50137660,14,0,1,restriction enzyme,,Q49695242,Q219715,
+Bsni,BSNI,Q110598558,14,0,1,,,Q548662,,
+Brirfield,Brierfield,Q523025,15,0,2,"town and civil parish in the Borough of Pendle, Lancashire, England","Brierfield, Lancashire",Q3957|Q1115575,,"Brierfield, Lancashire"
+Brirfield,Brierfield,Q4967072,15,0,2,unincorporated community in Alabama,"Brierfield, AL",Q17343829,,"Brierfield, Alabama"
+Brirfield,Brierfield,Q24665591,15,0,2,Wikimedia duplicated page,"Brierfield, Lancashire",Q17362920,,
+Brirfield,Brierfield,Q21914632,15,0,2,"village in New South Wales, Australia","Brierfield, New South Wales|Brierfield, New South Wales, Australia",Q532|Q3257686,,
+Brirfield,Brierfield,Q4967075,15,0,2,"ward of the Borough of Pendle, in Lancashire, UK",,Q589282,,Brierfield (ward)
+Brirfield,Brierfield,Q104322112,15,0,2,"townland in Cooloo, County Galway, Ireland",,Q2151232,,
+Brirfield,Brierfield,Q104337844,15,0,2,"townland in Carrowduff, County Roscommon, Ireland",,Q2151232,,
+Brirfield,Brierfield railway station,Q4367050,15,0,2,"railway station in Lancashire, England, UK",Brierfield Station|BRF|Marsden railway station,Q55488,,Brierfield railway station
+Brirfield,Mansfield High School,Q6751649,15,0,2,"former secondary school in Brierfield, Lancashire, England",Brierfield Mansfield High School,Q159334|Q5155053,,"Mansfield High School, Lancashire"
+Brirfield,Brierfield South,Q104321866,15,0,2,"townland in Derreen, County Galway, Ireland",,Q2151232,,
+Csquith,,,16,0,0,,,,,
+Araic,Aircraft and Railway Accidents Investigation Commission,Q4698537,17,0,1,"former Japanese aircraft and railway accident investigation agency, merged into the Japan Transport Safety Board (JTSB)",航空・鉄道事故調査委員会|ARAIC,Q17456916|Q108841485|Q2928346|Q23465260,,Aircraft and Railway Accidents Investigation Commission
+Araic,Araica,Q37260840,17,0,1,family name,,Q101352,,
+Araic,Araichthys,Q54288082,17,0,1,genus of fishes,,Q16521,,Araichthys
+Araic,Araichthys loro,Q28432680,17,0,1,species of fish,,Q16521,,Araichthys loro
+Araic,Araico,Q12253799,17,0,1,"human settlement in Burgos Province, Castile and León, Spain",Araiko,Q3055118,,
+Araic,Waraikú,Q7968772,17,0,1,language,Waraiku language|Araicu language|Araikú,Q34770,Q7898456,Waraikú language
+Araic,Araichi Gram Panchayat,Q23738779,17,0,1,"panchayat in Tiruchirapalli district, Tamil Nadu",,Q2732840,,
+Araic,Araichanda Adibasipara SSK,Q80401422,17,0,1,"primary school in Paschim Bardhaman district, West Bengal, India",,Q19855165|Q9842|Q11902693,,
+Araic,Arachnida,Q1358,17,0,1,class of arthropods,arachnid|arachnids|Arachnid,Q16521,,Arachnid
+Araic,arachnologist,Q17344952,17,0,1,scientist who studies spiders and other arachnids,,Q28640|Q12737077,Q108614246,Arachnologist
+Araic,Arabic,Q13955,17,0,2,Semitic language and lingua franca of the Arab world,Arabic language|Arabian|Arabian language,Q34770|Q152559|Q1288568|Q20162172|Q1097949|Q399495|Q33742,Q34049,Arabic
+Araic,Arabic literature,Q194380,17,0,2,written literature in Arabic language,Arab literature|Arabic language literature,Q109551565|Q11862829|Q2198855,,Arabic literature
+Araic,Arabic grammar,Q1866303,17,0,2,Grammar of the Arabic language,Nahw|Arabic language Sciences,Q8091,,Arabic grammar
+Araic,varieties of Arabic,Q1422423,17,0,2,family of language varieties,Arabic dialects|Arabic languages|Arabic varieties|dialects of Arabic|Arabic language family,Q1208380|Q215844|Q20162172,Q13955,Varieties of Arabic
+Araic,Arabian,Q164667,17,0,2,language family,Arabic languages|languages of Arabia|classification of Arabic languages,Q25295,Q3433228,Classification of Arabic languages
+Araic,Arabic language,Q122653006,17,0,2,article in Encyclopaedia Iranica,,Q13433827,,
+Araic,dictionary of the Arabic language,Q55758901,17,0,2,language version of dictionary,Arabic dictionary|Arabic language dictionary|dictionary of Arabic,,Q55594385,
+Araic,Arabic teacher,Q101444619,17,0,2,person who teaches the Arabic language,Arabic professor|Arabic instructor|Arabic tutor|Arabic language teacher|Arabic language professor|Arabic language instructor|Arabic language tutor,Q28640,Q30002353,
+Araic,Arabic Language Studies,Q85873793,17,0,2,academic discipline,,Q11862829,Q8162,
+Araic,Arabic Language International Council,Q12192351,17,0,2,,,Q43229|Q2093358|Q37178026,,Arabic Language International Council
+altaire,Altair Campground,Q63640728,18,0,1,campground in Washington,Altaire Campground,Q27108230,,
+altaire,Altaire Gel Forming Solution Versus Refresh Tears for the Treatment of Dry Eye Signs and Symptoms,Q63811826,18,0,1,clinical trial,,Q30612,,
+altaire,Ice Fjord,Q83654776,18,0,1,ship built in 1987,IMO 8615265,Q326561,,
+altaire,Altaire,Q131808969,18,0,1,,,Q43229,,
+Cape Tsibulation,,,19,0,0,,,,,
+Ulerston,,,20,0,0,,,,,
+Otta,Ottawa,Q1930,21,0,1,capital city of Canada,"Ottawa, Ontario|Ottawa, ON|City of Ottawa",Q18810091|Q17457753|Q14762300|Q1549591|Q15840617|Q257391,,Ottawa
+Otta,Otta,Q2037285,21,0,1,female given name,,Q3409032,,
+Otta,Otta,Q37159902,21,0,1,family name,,Q101352,,
+Otta,Ottawa Senators,Q203013,21,0,1,"National Hockey League team in Ottawa, Ontario, Canada",,Q4498974,,Ottawa Senators
+Otta,Ottavio,Q765222,21,0,1,male given name,Ottavio (first name)|Ottavio (given name),Q12308941,,Ottavio
+Otta,Ótta,Q18163010,21,0,1,album by Sólstafir,,Q482994,,Ótta
+Otta,University of Ottawa,Q627969,21,0,1,"public research university in Ottawa, Ontario, Canada",uOttawa|U of O|Ottawa U|uottawa.ca,Q62078547|Q45400320|Q108403040|Q875538|Q15936437|Q708676,,University of Ottawa
+Otta,Ottaviano,Q21400949,21,0,1,male given name,Ottaviano (first name)|Ottaviano (given name),Q12308941,,Ottaviano (name)
+Otta,Otta,Q980616,21,0,1,"settlement in Sel Municipality, Norway",,Q3957|Q15092344,,"Otta, Norway"
+Otta,Ottange,Q22010,21,0,1,"commune in Moselle, France",,Q484170|Q902814,,Ottange
+Otta,Ötztal,Q307456,21,0,2,"valley in Tyrol, Austria",,Q39816,,Ötztal
+Otta,Ötztal Alps,Q307518,21,0,2,mountain range in the Central Eastern Alps,Oetztaler Alps|Otztal Alps|Oetztal Alps|Ötztaler Alpen|Otztal Alpen|Ötztal Alpen|Otztaler Alps|Otztaler Alpen|Oetztal Alpen|Oetztaler Alpen|Alpi Venoste,Q46831,,Ötztal Alps
+Otta,Ötztaler Ache,Q307475,21,0,2,river in Austria,Otztaler Ache|Oetztaler Ache,Q4022,,Ötztaler Ache
+Otta,Ötztal railway station,Q8079090,21,0,2,railway station in Austria,,Q55488,,Ötztal railway station
+Otta,Ötztalstraße,Q307501,21,0,2,road in Austria,,Q34442,,Ötztalstraße
+Otta,Ötztal,Q108144974,21,0,2,protected area in Austria (7122),,Q473972,,
+Otta,Ötztaler Freilichtmuseum,Q42534308,21,0,2,"building in Längenfeld, Austria",,Q756102,,
+Otta,Ötztal-Bahnhof,Q17493220,21,0,2,village in Tyrol,,Q11183787,,
+Otta,Ötztal Glacier Road,Q307481,21,0,2,High-elevation paved road in Austria,Otztal Glacier Road,Q34442,,Ötztal Glacier Road
+Otta,Ötztaler Urkund,Q307493,21,0,2,mountain,,Q8502,,
+Otta,Ötztaler Radmarathon,Q307486,21,0,2,,Ötztaler|maratona ciclistica della valle di Ötztal,Q13406554|Q114608872,,
+Otta,Ötztaler Straße,Q111259875,21,0,2,"street in Pankow district, Berlin, Germany",,Q79007,,
+Otta,Ötztaler Talbrücke,Q37888057,21,0,2,bridge in Austria,,Q12280,,
+Otta,Ötztaler Verkehrsgesellschaft,Q108281190,21,0,2,Tyrolean bus company,ÖTZTALER Verkehrsgesellschaft m.b.H.,Q10438042,,
+Otta,Ötztaler Alpen,Q133864479,21,0,2,"protected area in the European Union defined by the habitats directive south of Sölden in Tyrol, Austria",Europaschutzgebiet Ötztaler Alpen,Q15069452,,
+Otta,Ötztaler Museen,Q108281186,21,0,2,,,Q43229,,
+Gaden Plaio,,,22,0,0,,,,,
+Lami,Lamiaceae,Q53476,23,0,1,family of plants,Labiatae|Hierbabuena,Q16521,,Lamiaceae
+Lami,Lami,Q10316156,23,0,1,,,Q5,,
+Lami,Lamium,Q146675,23,0,1,genus of plants,deadnettle,Q16521,,Lamium
+Lami,Lamiinae,Q2454879,23,0,1,subfamily of insects,flat-faced longhorns,Q16521,,Lamiinae
+Lami,Lamia Benhabib,Q112944082,23,0,1,researcher,,Q5,,
+Lami,Lamiales,Q21742,23,0,1,order of plants,,Q16521,,Lamiales
+Lami,Laminaria digitata,Q1093337,23,0,1,species of alga,oarweed,Q16521,,Laminaria digitata
+Lami,Lamium album,Q157626,23,0,1,species of plant,White dead-nettle,Q16521,Q190903,Lamium album
+Lami,lamivudine,Q422631,23,0,1,chemical compound,"Heptovir|beta-L-2',3'-Dideoxy-3'-thiacytidine|(-)-1-((2R,5S)-2-(Hydroxymethyl)-1,3-oxathiolan-5-yl)cytosine|2',3'-Dideoxy-3'-thiacytidine|3'-Thia-2',3'-dideoxycytidine|beta-L-3'-Thia-2',3'-dideoxycytidine|(-)-2'-Deoxy-3'-thiacytidine|3TC|GR-109714X|Epivir-Hbv|Lamivudin|Lamivudina|Lamivudine|Lamivudinum",Q113145171,Q2689559|Q47069735,Lamivudine
+Lami,Lamium amplexicaule,Q159008,23,0,1,species of plant,Henbit Dead-nettle,Q16521,Q190903,Lamium amplexicaule
+Lami,Lami River,Q6481824,23,0,2,river in Fiji,,Q4022,,Lami River
+Newhnt,New Hampshire,Q759,24,0,2,state of the United States of America,"State of New Hampshire|New Hampshire, United States|The Granite State|N.H.|NH|US-NH|Granite State",Q35657,,New Hampshire
+Newhnt,University of New Hampshire,Q49207,24,0,2,"public research university in New Hampshire, United States",UNH|unh.edu,Q62078547|Q615150|Q23002039,,University of New Hampshire
+Newhnt,Province of New Hampshire,Q1617382,24,0,2,"former colony in North America, part of Great Britain",New Hampshire Colony|Colony of New Hampshire|New Hampshire|N.H.,Q133156,,Province of New Hampshire
+Newhnt,New Hampshire Motor Speedway,Q1815356,24,0,2,"motorsport track in Loudon, New Hampshire, United States",New Hampshire International Speedway|Bryar Motorsport Park|NHMS|NHIS|The Magic Mile|Magic Mile,Q2338524,,New Hampshire Motor Speedway
+Newhnt,New Hampshire Fisher Cats,Q3073031,24,0,2,Minor League Baseball team,,Q13027888,,New Hampshire Fisher Cats
+Newhnt,New Hampshire Red,Q1343076,24,0,2,American breed of chicken,New Hampshire,Q15304943,,New Hampshire Red
+Newhnt,New Hampshire,Q7008086,24,0,2,collection of poems by Robert Frost,,Q7725634,,New Hampshire (poetry collection)
+Newhnt,New Hampshire,Q111905445,24,0,2,episode of Veep,,Q21191270,,
+Newhnt,New Hampshire,Q114538964,24,0,2,episode of Bert the Conqueror (S1 E4),,Q21191270,,
+Newhnt,New Hampshire Wildcats men's basketball,Q7008336,24,0,2,sports team,,Q13393265|Q18558301,,New Hampshire Wildcats men's basketball
+Newhnt,New Haven,Q49145,24,0,2,"city in Connecticut, United States","New Haven, Connecticut|City of New Haven|New Haven, CT",Q1093829|Q1549591,,"New Haven, Connecticut"
+Newhnt,New Haven County,Q54234,24,0,2,"county in Connecticut, United States","New Haven County, Connecticut|New Haven County, CT",Q13414354,,"New Haven County, Connecticut"
+Newhnt,University of New Haven,Q917899,24,0,2,"private university in West Haven, Connecticut, United States",UNH,Q3918|Q23002054,,University of New Haven
+Newhnt,New Haven,Q1893816,24,0,2,town in Vermont,"New Haven, Vermont|New Haven, VT",Q2154459,,"New Haven, Vermont"
+Newhnt,New Haven,Q748020,24,0,2,city in Indiana,"New Haven, Indiana|New Haven, IN",Q1093829,,"New Haven, Indiana"
+Newhnt,New Haven,Q964958,24,0,2,town in Missouri,"New Haven, Missouri|New Haven, MO",Q1093829,,"New Haven, Missouri"
+Newhnt,New Haven State Street station,Q1100201,24,0,2,"railway station in New Haven, Connecticut",New Haven - State Street|State Street station,Q55488,,New Haven State Street station
+Newhnt,New Haven,Q2598370,24,0,2,city in Kentucky,"New Haven, Kentucky|New Haven, KY",Q1093829,,"New Haven, Kentucky"
+Newhnt,New Haven,Q3708222,24,0,2,town in New York,"New Haven, New York|New Haven, NY",Q15127012|Q106071004,,"New Haven, New York"
+Newhnt,New Haven,Q2835695,24,0,2,"village in Macomb County, Michigan","New Haven, Michigan|New Haven, MI",Q751708,,"New Haven, Michigan"
+Newhnt,New Hampshire Route 31,Q999953,24,0,2,"State highway in southern New Hampshire, US",,Q34442,,New Hampshire Route 31
+Newhnt,New Hampshire Route 33,Q999959,24,0,2,"State highway in Rockingham County, New Hampshire, US",,Q34442,,New Hampshire Route 33
+Newhnt,New Hampshire Route 38,Q999969,24,0,2,"State highway in southern New Hampshire, US",,Q34442,,New Hampshire Route 38
+Newhnt,New Hampshire Route 16,Q1000004,24,0,2,"North-south state highway in New Hampshire, US",New Hampshire Route 16A|New Hampshire Route 16B|New England Interstate Highway 16|NH Route 16|NH Route 16B|New England Route 16|New Hampshire Route 302|NH 16A|NH 16B,Q34442,,New Hampshire Route 16
+Newhnt,New Hampshire Route 3A,Q1045064,24,0,2,highway in New Hampshire,NH 3A,Q34442,,New Hampshire Route 3A
+Newhnt,New Hampshire Route 32,Q16970299,24,0,2,"State highway in Cheshire County, New Hampshire, US",,Q34442,,New Hampshire Route 32

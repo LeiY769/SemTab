@@ -1,0 +1,56 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2006dw,SN 2006dw,Q9329843,0,0,1,supernova,,Q3937,,
+SN 2006dy,SN 2006dy,Q9329841,1,0,1,supernova,,Q3937,,
+SN 2006do,SN 2006do,Q9329833,2,0,1,supernova,,Q3937|Q67206691,,
+SN 2006do,SN 2006D,Q9329720,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dm,Q4048834,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dj,Q9329828,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dl,Q9329829,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dz,Q9329846,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dk,Q9329830,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006ds,Q9329837,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006db,Q9329821,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dx,Q9329842,2,0,2,supernova,,Q3937,,
+SN 2006do,SN 2006dh,Q9329826,2,0,2,supernova,,Q3937,,
+SN 2006di,SN 2006di,Q9329827,3,0,1,supernova,,Q3937,,
+SN 2006cs,SN 2006cs,Q9329811,4,0,1,supernova,,Q3937,,
+SN 2006cq,SN 2006cq,Q9329810,5,0,1,supernova,,Q3937,,
+SN 2006cp,SN 2006cp,Q9329807,6,0,1,supernova,,Q3937,,
+SN 2006cj,SN 2006cj,Q9329802,7,0,1,supernova,,Q3937,,
+SN 2006ch,SN 2006ch,Q9329799,8,0,1,supernova,,Q3937,,
+SN 2006ch,SN 2006gy,Q644956,8,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006ch,SN 2006X,Q2659966,8,0,2,supernova,,Q3937,,SN 2006X
+SN 2006ch,SN 2005cs,Q597168,8,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006ch,SN 2006jc,Q1747732,8,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006ch,SN 2002cx,Q7391949,8,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006ch,SN 2004et,Q9329248,8,0,2,supernova,,Q3937,,SN 2004et
+SN 2006ch,SN 2006rs,Q9330210,8,0,2,supernova,,Q3937,,
+SN 2006ch,SN 2008cs,Q9330949,8,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006ch,SN 2002dj,Q9328532,8,0,2,supernova,,Q3937,,
+SN 2006ch,SN 2006td,Q9330246,8,0,2,supernova,,Q3937,,
+SN 2006cg,SN 2006cg,Q9329798,9,0,1,supernova,,Q3937,,
+SN 2006cg,SN 2006gy,Q644956,9,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006cg,SN 2006X,Q2659966,9,0,2,supernova,,Q3937,,SN 2006X
+SN 2006cg,SN 2005cs,Q597168,9,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006cg,SN 2006jc,Q1747732,9,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006cg,SN 2002cx,Q7391949,9,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006cg,SN 2004et,Q9329248,9,0,2,supernova,,Q3937,,SN 2004et
+SN 2006cg,SN 2006rs,Q9330210,9,0,2,supernova,,Q3937,,
+SN 2006cg,SN 2008cs,Q9330949,9,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006cg,SN 2002dj,Q9328532,9,0,2,supernova,,Q3937,,
+SN 2006cg,SN 2006td,Q9330246,9,0,2,supernova,,Q3937,,
+SN 2006ce,SN 2006ce,Q9329797,10,0,1,supernova,,Q3937,,
+SN 2006cf,SN 2006cf,Q9329796,11,0,1,supernova,,Q3937,,
+SN 2006cf,supernova,Q3937,11,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2006cf,Senegal,Q1041,11,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2006cf,substantia nigra,Q753278,11,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2006cf,tin,Q1096,11,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2006cf,Great Norwegian Encyclopedia,Q746368,11,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2006cf,snowboarding,Q178131,11,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2006cf,SNAC,Q29861311,11,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2006cf,Science News,Q2313730,11,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2006cf,Shona Wikipedia,Q8571809,11,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2006cf,SciGraph,Q65509402,11,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2006cc,SN 2006cc,Q9329794,12,0,1,supernova,,Q3937|Q67206691,,
+SN 2006bz,SN 2006bz,Q9329792,13,0,1,supernova,,Q3937,,
+SN 2006bw,SN 2006bw,Q9329788,14,0,1,supernova,,Q3937,,

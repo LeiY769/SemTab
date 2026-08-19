@@ -1,0 +1,132 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Malt House,malt house,Q943876,0,0,1,building where cereal grain is converted into malt,maltings|malthouse,,Q9386255|Q41176|Q122888228,Malt house
+Malt House,Malthouse Exeter,Q26557561,0,0,1,"pub in Exeter, Devon, England, UK",Malt House|The Malt House|Harvester Exeter|Haven Banks Malthouse,Q943876|Q212198,,
+Malt House,Malt House,Q26381621,0,0,1,"Grade II listed house in Coln St. Aldwyns, Cotswold, Gloucestershire, England, UK",,Q3947,,
+Malt House,Malt House,Q26624697,0,0,1,"Grade II listed house in Sheepscombe, Gloucestershire, England, UK",,Q3947,,
+Malt House,Malt House,Q79837544,0,0,1,"pub in Seaton, Devon, UK",,Q212198,,
+Malt House,Malt House,Q17528310,0,0,1,"set of historic buildings in Alcester, Stratford-on-Avon, England",,Q1497364|Q943876,,
+Malt House,Malt House,Q17537439,0,0,1,"Grade II* listed building in Brockweir, in Forest of Dean, Gloucestershire, England, UK",Old Malt House|Malt House and Cross House|Monks Hall,Q3947,,
+Malt House,Malt House,Q26563905,0,0,1,"house in Cainscross, Stroud, Gloucestershire, England, UK",,Q3947|Q943876,,
+Malt House,Malt House,Q26636822,0,0,1,"house in Amberley, Horsham, West Sussex, England, UK",,Q3947|Q943876|Q111792889,,
+Malt House,Malt House,Q26383702,0,0,1,"house in Tirley, Tewkesbury, Gloucestershire, England, UK",,Q3947|Q943876,,
+Montana,Montana,Q1212,1,0,1,state of the United States of America,"MT|State of Montana|Big Sky Country|Montana, United States|Mont.|US-MT|Treasure State",Q35657,,Montana
+Montana,Montana,Q10588738,1,0,1,genus of insects,,Q16521,,Montana (bush cricket)
+Montana,Montana,Q25114614,1,0,1,family name,,Q101352,,Montana (name)
+Montana,Montana,Q33123424,1,0,1,female given name,,Q11879590,,
+Montana,University of Montana,Q2302336,1,0,1,"public research university located in Missoula, Montana",UM|U of M|UMT|University of Montana - Missoula|University of Montana–Missoula|umt.edu,Q875538|Q15936437|Q23002039,,University of Montana
+Montana,Montana State University,Q1861687,1,0,1,"public land-grant research university in Bozeman, Montana, United States",MSU|Agricultural College of the State of Montana|Montana State University - Bozeman|Montana State University – Bozeman|Montana State University-Bozeman|montana.edu|State University of Montana|Help:Navigating Wikidata/User Options/he,Q875538|Q615150|Q23002039,,Montana State University
+Montana,Montana,Q83638579,1,0,1,inland oil tanker built in 2011,,Q14928|Q863970,,
+Montana,Montana: The Magazine of Western History,Q6904208,1,0,1,publication covering the history of Montana and the western United States,Montana The Magazine of Western History|The Montana Magazine of History|Montana,Q41298,,Montana (journal)
+Montana,Montana,Q220121,1,0,1,"city in Montana municipality, Montana oblast, Bulgaria",Kutlovitsa|Ferdinand|Mihaylovgrad,Q15344922|Q15303838|Q89487741,,"Montana, Bulgaria"
+Montana,mountain,Q8502,1,0,1,large natural elevation of the Earth's surface,mount|mt.|mtn.,Q12046615|Q618123,Q106589819|Q35145263,Mountain
+Montana,U.S. state,Q35657,1,0,2,constituent political entity of the United States of America,US state|U.S.A. state|state of America|state of United States|USA state|state of the United States|state of the USA|federated state of the USA|commonwealth (state) of the United States|state of the United States of America|U.S. states|American states (United States)|states of the United States|United States states|United States state,Q28872924|Q135236673,Q852446|Q107390|Q106458883|Q192611|Q10864048|Q155076,U.S. state
+Montana,United States of America state-level electoral district,Q104146934,1,0,2,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+Montana,United States Department of State,Q789915,1,0,2,executive department of the U.S. federal government,State Department|U.S. State Department|U.S. Department of State|DoS|USDoS|United States State Department,Q910252|Q20901295|Q327333,,United States Department of State
+Montana,legislature of a U.S. state,Q3270264,1,0,2,legislature of a U.S. state,legislature of a United States state|U.S. state legislature|US state legislature|state legislature (United States)|United States state legislature|state legislature of the United States|state legislature of the U.S.|state legislature of the US|U.S. state general assembly|US state general assembly|United States state general assembly|U.S. state legislative assembly|US state legislative assembly|United States state legislative assembly|United States state general court|general assembly of a U.S. state|general assembly of a US state|general assembly of a United States state|general court of a U.S. state|U.S. state general court|US state general court,,Q7603708,State legislature (United States)
+Montana,state education agency,Q7603678,1,0,2,state-level government organization within each U.S. state or territory responsible for education,state department of education in the United States|state education agency in the United States|state school system in the United States|United States state education agency|U.S. state education agency|US state education agency|state department of education|state educational agency|U.S. state educational agency|SEA,,Q20857085|Q28599747,State education agency
+Montana,state government of the United States,Q7603694,1,0,2,state-level governments of the 50 states which comprise the United States of America,state governments of the United States|U.S. state government|United States state government|American state government|USA state government,,Q1802419|Q56061,State governments of the United States
+Montana,upper house of U.S. state legislature,Q15891112,1,0,2,chamber of a U.S. state bicameral legislature,upper chamber of U.S. state legislature|U.S. state upper house|US state upper house|United States state upper house|U.S. state senate|US state senate|United States state senate|state upper house in the United States,,Q637846|Q110315658,
+Montana,lower house of U.S. state legislature,Q18608569,1,0,2,chamber of a U.S. state bicameral legislature,U.S. state house of representatives|US state house of representatives|United States state house of representatives|U.S. state house of delegates|US state house of delegates|United States state house of delegates|U.S. state assembly|US state assembly|United States state assembly,,Q375928|Q110315658,
+Montana,state senator,Q7603534,1,0,2,member of an upper house of a U.S. state legislature,US state senator|state senator of the United States|U.S. state senator|United States state senator,Q4164871,Q15686806|Q17279032|Q106088317,State senator
+Montana,member of United States state lower house,Q106079967,1,0,2,member of the lower legislative chamber of a U.S. state,member of US state lower house|member of US state house of representatives|member of the State House of Representatives|member of U.S. state lower house|member of U.S. state house of representatives|member of U.S. house of delegates|member of US house of delegates|U.S. state representative|US state representative|United States state representative|U.S. state delegate|US state delegate|United States state delegate|member of lower house of U.S. state legislature|member of state lower house in the United States,Q4164871,Q486839|Q17279032|Q106088317,
+Montana,Big Sky Country,Q114542994,1,0,2,episode of Man vs. Wild (S4 E10),,Q21191270,,
+Montana,Big Sky Country,Q4906365,1,0,2,1991 single by Chris Whitley,,Q134556,,Big Sky Country (song)
+Montana,Big Sky Country,Q65228866,1,0,2,2014 studio album by Sugarfoot,,Q482994,,
+Montana,Big Sky Country,Q16889710,1,0,2,2005 compilation album by Chris Whitley,Chris Whitley Big Sky Country,Q482994,,Chris Whitley Big Sky Country
+Montana,August,Q127415026,1,0,2,,August: A Novel|Big Sky Country,Q7725634,,
+Montana,Big Sky Country Digital Network,Q83878447,1,0,2,"regional digital library in the United States, and service hub for DPLA",,Q212805,,
+Montana,Big Sky Country Historical Marker,Q49474761,1,0,2,"park in Powder River County, Montana, United States of America",,Q721747,,
+Can Dalmau,Can Dalmau,Q139899123,2,0,1,,,Q585956,,
+Can Dalmau,Can Dalmau,Q20985169,2,0,1,"building in Sant Andreu de Llavaneres, Spain",,Q585956,,
+Can Dalmau,Can Dalmau,Q47185379,2,0,1,"house in La Cellera de Ter, Spain",,Q3947,,
+Can Dalmau,Can Dalmau,Q20985170,2,0,1,"house in Saus, Camallera i Llampaies, Spain",,Q3947,,
+Can Dalmau,Can Dalmau,Q20888258,2,0,1,"building in Barcelona Province, Spain",,Q3947,,
+Can Dalmau,Can Dalmau,Q99097489,2,0,1,"building in Cabrils, Maresme, Barcelona, Catalonia, Spain",,Q585956,,
+Can Dalmau,Can Dalmau,Q60166373,2,0,1,"building in Girona Province, Spain",,Q585956,,
+Can Dalmau,Can Dalmau,Q99300655,2,0,1,"masia in Santa Eulàlia de Ronçana, Vallès Oriental, Barcelona, Catalonia, Spain",,Q585956,,
+Can Dalmau,Can Dalmau,Q107128243,2,0,1,"masia in Vilademuls, Pla de l'Estany, Girona, Catalonia, Spain",,Q585956,,
+Can Dalmau,Can Dalmau,Q136171230,2,0,1,Cultural heritage monument in Calella,,Q41176,,
+Can Dalmau,Juan Dalmau Ramírez,Q6299578,2,0,2,Puerto Rican politician,Juan Dalmau Ramirez,Q5,,Juan Dalmau
+Torre Vilardell,Torre Vilardell,Q28711409,3,0,1,"building in Girona Province, Spain",,Q3947,,
+Torre Vilardell,Torre Vilardell,Q30301930,3,0,1,"building in Rubí, Spain",,Q3947,,
+Cal Coco,Cal Coco,Q17588649,4,0,1,"house in Valls, Spain",,Q3947|Q83405,,
+Cal Coco,Cal Coco,Q104760114,4,0,1,masia in Arbúcies (Catalonia),,Q585956,,
+Cal Coco,Cal Sant Antoni,Q17588913,4,0,1,House in city of El Molar considered as a cultural place,,Q3947,,
+Cal Coco,Coco câline,Q85852991,4,0,2,2017 single by Julien Doré,,Q134556,,
+Pant,Pant,Q2049824,5,0,1,family name,,Q101352,,Pant (surname)
+Pant,trousers,Q39908,5,0,1,clothing for the legs and lower body,pant|pants|slacks,,Q11460|Q814793,Trousers
+Pant,Panthera,Q127960,5,0,1,genus of mammals,panther|panthers,Q16521,,Panthera
+Pant,tiger,Q19939,5,0,1,species of big cat,Panthera tigris|tigress|tigers|P. tigris,Q16521,Q6667323,Tiger
+Pant,leopard,Q34706,5,0,1,species of big cat,panther|Panthera pardus,Q16521,Q6667323,Leopard
+Pant,Pantin,Q209086,5,0,1,"commune in Seine-Saint-Denis, France",,Q484170,,Pantin
+Pant,jaguar,Q35694,5,0,1,species of big cat native to the Americas,Panthera onca|panter,Q16521,Q6667323,Jaguar
+Pant,snow leopard,Q30197,5,0,1,large felid native to the mountains of Central and South Asia,ounce|Uncia uncia|Panthera uncia|P. uncia,Q16521|Q19067|Q1353106,,Snow leopard
+Pant,Pantoea agglomerans,Q6336019,5,0,1,species of bacterium,,Q16521,,Pantoea agglomerans
+Pant,Siberian tiger,Q69581,5,0,1,subspecies of tiger,Panthera tigris altaica|Amur tiger|Korean tiger|Manchurian tiger|Paektusan tiger|Baekdusan tiger|Ussurian tiger|Siberian Tiger|P. tigris altaica|P. t. altaica,Q16521,,Siberian tiger
+Pant,Pantone,Q37529950,5,0,2,family name,,Q101352,,
+Pant,Pantone,Q2050040,5,0,2,color standards company,Pantone Inc.,Q4830453|Q6881511,,Pantone
+Pant,Pantoneura plocamioides,Q41687284,5,0,2,species of alga,,Q16521,,
+Pant,Pantoneura,Q41687282,5,0,2,genus of algae,,Q16521,,
+Pant,Pantone Color Systems,Q749816,5,0,2,"Pantone color systems comprised of the Pantone Matching System and the Pantone Fashion, Home + Interiors System",,Q859170|Q137970806,,Pantone Matching System
+Pant,Pantone color,Q104919542,5,0,2,color of the Pantone Color Systems,Pantone colour,Q1396457,Q1075|Q2424752,
+Pant,Pantone Formula Guide Coated,Q104920272,5,0,2,Pantone color library,,Q104978998,,
+Pant,Pantone color library,Q104978998,5,0,2,a Pantone color library,,,Q3346024,
+Pant,Pantoneura juergensii,Q41687283,5,0,2,species of alga,,Q16521,,
+Pant,Pantone 448 C,Q24885519,5,0,2,colour in the Pantone colour system,drab dark brown|plain tobacco packaging brown|plain cigarette packaging brown,Q104919542,,Pantone 448 C
+Pant,Pantex Plant,Q2049862,5,0,2,U.S. nuclear weapons assembly facility,,Q18691599,,Pantex
+Pant,Pantex,Q116718597,5,0,2,"power station with capacity >1MW in Carson County, Texas",,Q50687555,,
+Pant,Pantex Dam,Q31462580,5,0,2,"dam in Hutchinson County, Texas, United States of America",,Q12323,,
+Pant,Pantex Oil Field,Q31462605,5,0,2,"oil field in Hutchinson County, Texas, United States",,Q211748,,
+Pant,Pantex Lake,Q31462592,5,0,2,"lake in Carson County, Texas, United States of America",,Q23397,,
+Pant,Pantex Armaments Plant,Q107320667,5,0,2,"factory at FM 2372, 6 mi. N Groom, Texas",,Q83405,,
+Pant,Pantex,Q131239022,5,0,2,,,Q43229,,
+Pant,Pantex: safety in nuclear weapons processing,Q73111462,5,0,2,scientific article published on 01 November 2000,,Q13442814,,
+Pant,pantograph,Q657874,5,0,2,power collection apparatus used by trains and most newer trams,,,Q56407698,Pantograph (transport)
+Pant,pantograph,Q722757,5,0,2,drawing tool,,Q114554458,Q39546|Q124100307,Pantograph
+Pant,Pantographa,Q7131876,5,0,2,genus of insects,,Q16521,,Pantographa
+Pant,Armen Akopov,Q52720921,5,0,2,Armenian musician,PantoGraph|Alexander Akopov|Armando Valencia,Q5,,
+Pant,Pantographa limata,Q7131873,5,0,2,species of insect,,Q16521,,Pantographa limata
+Pant,Pantograph,Q7131872,5,0,2,overhead lighting suspension system used in television and photography studios,,,,Pantograph (lighting suspension)
+Pant,Pantograph,Q103960927,5,0,2,encyclopedia article,,Q13433827,,
+Pant,Pantographa scripturalis,Q13997397,5,0,2,species of insect,,Q16521,,Pantographa scripturalis
+Pant,Pantographa acoetesalis,Q19598377,5,0,2,species of insect,,Q16521,,Pantographa acoetesalis
+Pant,Pantographa suffusalis,Q19598383,5,0,2,species of insect,,Q16521,,Pantographa suffusalis
+Ffridd,Ffridd,Q123519719,6,0,1,"farmhouse in Pennal, Gwynedd",,Q489357,,
+Ffridd,Ffridd,Q106709960,6,0,1,hill (329m) in Powys,,Q54050|Q207326,,
+Ffridd,Ffridd,Q123519720,6,0,1,"rural area in Betws Cedewain, Powys",,Q175185,,
+Ffridd,Ffridd,Q29499801,6,0,1,"Grade II listed building in Gwynedd. The small dwelling is uphill sited on the S flank of Foel-y-fridd, some 80m above the valley bottom road along the Afon Angell.",,Q3947,,
+Ffridd,"Ffridd Faldwyn, Montgomery",Q15217642,6,0,1,hillfort in Powys,Ffridd Faldwyn,Q28045079|Q839954,,"Ffridd Faldwyn, Montgomery"
+Ffridd,Ffridd y cythreuliaid,Q20565660,6,0,1,book,,Q47461344,,
+Ffridd,Ffridd Cocyn,Q20595691,6,0,1,hill (312.8m) in Gwynedd,,Q207326|Q54050,,
+Ffridd,Ffridd Pen-y-Graig,Q13128416,6,0,1,hill (297m) in Powys,,Q207326|Q54050,,
+Ffridd,Ffridd Mathrafal,Q13128422,6,0,1,hillfort in Powys,,Q28045079|Q31028314,,
+Ffridd,Ffridd-yr-Ychen,Q13128420,6,0,1,hill (278m) in Gwynedd,,Q207326|Q54050,,
+Cal Doctor,Cal Doctor,Q18003397,7,0,1,"masia in Alella (Maresme, Catalonia)",,Q585956,,
+Cal Doctor,Cal Doctor,Q79440901,7,0,1,,,Q585956,,
+Cal Doctor,Torre modernista,Q23992189,7,0,1,"building in Sant Pol de Mar, Spain",Cal Doctor Roura,Q3947,,
+Cal Doctor,Cal Doctor,Q56402187,7,0,1,"house in Sant Feliu de Codines, Spain",,Q3947,,
+Cal Doctor,Cal Doctor,Q28053846,7,0,1,"house in Caldes de Montbui, Spain",,Q3947,,
+Cal Doctor,Cal Doctor,Q107530382,7,0,1,"masia in Isona i Conca Dellà, Pallars Jussà, Lleida, Catalonia, Spain",,Q585956,,
+Cal Doctor,Cal Doctor,Q139411052,7,0,1,house in Folgueroles (Catalonia),,Q3947,,
+Cal Doctor,Cal Doctor,Q135011953,7,0,1,house in Gurb (Catalonia),,Q3947,,
+Cal Doctor,Cal Doctor Ninbó,Q22809087,7,0,1,"building in Barcelona Province, Spain",,Q3947,,
+Cal Doctor,Cal Doctor Martí,Q61480354,7,0,1,,,Q3947,,
+Cal Doctor,California doctor convicted of murder in overdose deaths is sentenced to 30 years,Q46679696,7,0,2,scientific article published on 10 February 2016,,Q13442814,,
+Cal Doctor,California doctor indicted for 'sub-dosing' AIDS patients,Q56919631,7,0,2,article,,Q13442814,,
+Cal Doctor,California doctors fear that NCQA would be too lenient with plans,Q46750804,7,0,2,scientific article,,Q13442814,,
+Cal Doctor,California doctors' leaders sue health insurers,Q33727948,7,0,2,scientific article,,Q13442814,,
+Cal Doctor,"California doctors up fees, restrict practice to meet increased malpractice rates",Q77675617,7,0,2,scientific article published on 01 April 1977,,Q13442814,,
+Cal Doctor,California doctors under investigation for prescribing practices,Q46529469,7,0,2,"scientific article published on January 29, 2015",,Q13442814,,
+Cal Doctor,California doctors and lawyers eye likely malpractice battle,Q41627384,7,0,2,scientific article published on November 1993,,Q13442814,,
+Cal Doctor,California doctor convicted of murder over deaths of three patients by overdose,Q46960965,7,0,2,"scientific article published on November 3, 2015",,Q13442814,,
+Cal Doctor,CALIFORNIA DOCTORS IN SERVICE,Q81855345,7,0,2,scientific article published on 01 January 1918,,Q13442814,,
+Cal Boada,Cal Boada,Q24035501,8,0,1,"house in La Fuliola, Spain",,Q3947,,
+Cal Boada,Cal Boada,Q73281249,8,0,1,"building in Aiguamúrcia, l'Alt Camp, Tarragona, Catalonia, Spain",,Q585956,,
+Cal Boada,Caseta d'en Tauler,Q23766286,8,0,1,"building in Gelida, Alt Penedès, Catalonia",,Q3947,,
+Traveller's Rest,Traveller's Rest,Q25209576,9,0,1,"historic house in Mississippi, United States",,Q3947,,"Traveller's Rest (Natchez, Mississippi)"
+Traveller's Rest,Traveller's Rest,Q110767427,9,0,1,short story by David I. Masson,,Q7725634,,
+Traveller's Rest,Traveller's Rest,Q7836049,9,0,1,"historic plantation house in Jefferson County, West Virginia, United States",,Q188913,,"Traveller's Rest (Kearneysville, West Virginia)"
+Traveller's Rest,Traveller's Rest,Q135441346,9,0,1,"pub in Portsmouth, Hampshire, England, United Kingdom",,Q212198,,
+Traveller's Rest,"Traveller's Rest, Ardagh",Q31101359,9,0,1,"street bench and shelter in Ardagh, County Longford",,Q989946|Q204776,,
+Traveller's Rest,Traveller's Rest Pit,Q7836050,9,0,1,"geological site in Cambridge, England",,,,Traveller's Rest Pit
+Traveller's Rest,Travelers Rest,Q7835997,9,0,1,Wikimedia disambiguation page,Traveller's Rest,Q4167410,,Travelers Rest

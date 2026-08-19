@@ -1,0 +1,56 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Osha,Occupational Safety and Health Administration,Q746186,0,0,1,United States federal government agency,OSHA|United States Occupational Safety and Health Administration,Q20857065,,Occupational Safety and Health Administration
+Osha,Ligusticum porteri,Q6546914,0,0,1,species of plant,osha|Porter lovage|Porter's lovage|wild celery|oshá,Q16521,,Ligusticum porteri
+Osha,Osha,Q2625817,0,0,1,"river in Omsk Oblast, Russia",Osha River,Q4022,,Osha (river)
+Osha,Oshawa,Q211867,0,0,1,"city in Durham Region, Ontario, Canada","Oshawa, Ontario|Oshawa, ON",Q515|Q15210668|Q1549591,,Oshawa
+Osha,Osha,Q55433838,0,0,1,character in A Song of Ice and Fire,,Q20086260|Q20086263|Q15632617,,Osha (A Song of Ice and Fire)
+Osha,Oshana,Q37469299,0,0,1,family name,,Q101352,,Oshana (surname)
+Osha,Oshay,Q84382729,0,0,1,unisex given name,,Q3409032,,
+Osha,Oshaibahus,Q30090341,0,0,1,genus of insects,,Q16521,,
+Osha,Oshaughnessey,Q37323459,0,0,1,family name,,Q101352|Q56228301,,
+Osha,Oshaughnessy,Q37506527,0,0,1,family name,,Q101352|Q56228301,,
+Natalia Tena,Natalia Tena,Q232163,0,1,1,British-Spanish actress,Natalia Gastiain Tena|Natalie Tena,Q5,,Natalia Tena
+Natalia Tena,Occupational Safety and Health Administration,Q746186,0,1,2,United States federal government agency,OSHA|United States Occupational Safety and Health Administration,Q20857065,,Occupational Safety and Health Administration
+Natalia Tena,Ligusticum porteri,Q6546914,0,1,2,species of plant,osha|Porter lovage|Porter's lovage|wild celery|oshá,Q16521,,Ligusticum porteri
+Natalia Tena,Osha,Q2625817,0,1,2,"river in Omsk Oblast, Russia",Osha River,Q4022,,Osha (river)
+Natalia Tena,Oshawa,Q211867,0,1,2,"city in Durham Region, Ontario, Canada","Oshawa, Ontario|Oshawa, ON",Q515|Q15210668|Q1549591,,Oshawa
+Natalia Tena,Osha,Q55433838,0,1,2,character in A Song of Ice and Fire,,Q20086260|Q20086263|Q15632617,,Osha (A Song of Ice and Fire)
+Natalia Tena,Oshana,Q37469299,0,1,2,family name,,Q101352,,Oshana (surname)
+Natalia Tena,Oshay,Q84382729,0,1,2,unisex given name,,Q3409032,,
+Natalia Tena,Oshaibahus,Q30090341,0,1,2,genus of insects,,Q16521,,
+Natalia Tena,Oshaughnessey,Q37323459,0,1,2,family name,,Q101352|Q56228301,,
+Natalia Tena,Oshaughnessy,Q37506527,0,1,2,family name,,Q101352|Q56228301,,
+Natalia Tena,actor,Q33999,0,1,2,"person who acts in a dramatic or comic production and works in film, television, theatre, or radio",actress|actors|actresses|movie actresses|movie actress,Q28640|Q12737077|Q108300140|Q15839299|Q4220920,Q713200|Q108289408,Actor
+Natalia Tena,television actor,Q10798782,0,1,2,actor who performs on television,TV actor|actor|television actress|actress|TV actress,Q28640,Q33999,Television actor
+Natalia Tena,Actress,Q4677751,0,1,2,British electronic musician,Darren J. Cunningham|Darren Jordan Cunningham|Darren Cunningham,Q5,,Actress (musician)
+Natalia Tena,actress,Q21169216,0,1,2,female actor,,Q138348066|Q28640,Q33999,Actress
+Natalia Tena,The Actress,Q1373591,0,1,2,1953 film by George Cukor,Actress,Q11424,,The Actress
+Natalia Tena,Actress,Q4060139,0,1,2,1943 film by Leonid Trauberg,Aktrisa,Q11424,,Actress (1943 film)
+Natalia Tena,The Actress,Q2559129,0,1,2,1928 film by Sidney Franklin,Actress,Q11424,,The Actress (1928 film)
+Natalia Tena,Actress,Q62508662,0,1,2,video game developer,,Q210167,,
+Natalia Tena,Actress,Q15260681,0,1,2,German band,,Q215380,,
+Natalia Tena,Shivani Sharma,Q111522602,0,1,2,Actress,Actress,Q5,,
+Aegon Targaryen,Jon Snow,Q3183235,1,0,1,character in A Song of Ice and Fire,Lord Snow|King Crow|The White Wolf|998th Lord Commander of the Night's Watch|Aegon Targaryen,Q20086263|Q20086260|Q15632617,,Jon Snow (character)
+Aegon Targaryen,Aegon II Targaryen,Q55452778,1,0,1,character in A Song of Ice and Fire,Aegon Targaryen|Aegon the Elder|Aegon the Usurper,Q20086260|Q15632617|Q15773317,,Aegon II Targaryen
+Aegon Targaryen,Aegon III Targaryen,Q55513155,1,0,1,character in A Song of Ice and Fire,Aegon Targaryen|Aegon the Younger|Aegon the Dragonbane,Q20086260|Q15632617|Q15773317,,
+Aegon Targaryen,Aegon V Targaryen,Q23749763,1,0,1,character in A Song of Ice and Fire,Egg|Aegon the Unlikely|Aegon Targaryen,Q20086260|Q15632617|Q15773317,,
+Aegon Targaryen,Aegon IV Targaryen,Q55451082,1,0,1,character in A Song of Ice and Fire,Aegon Targaryen|Aegon the Unworthy,Q20086260|Q15632617,,
+Aegon Targaryen,Aegon I Targaryen,Q47616729,1,0,1,character in A Song of Ice and Fire,Aegon the Conqueror|Aegon the Dragon|Aegon Targaryen,Q20086260|Q15632617,,
+Aegon Targaryen,Aegon Targaryen,Q23780479,1,0,1,character in A Song of Ice and Fire,,Q20086260|Q19324463,,
+Aegon Targaryen,Young Griff,Q55431714,1,0,1,character in A Song of Ice and Fire,Aegon Targaryen,Q20086260|Q15632617,,
+Aegon Targaryen,Aegon Targaryen,Q139892239,1,0,1,Son of Gaemon Targaryen and Daenys Targaryen,,Q20086260|Q15632617,,
+Aegon Targaryen,Aegon Targaryen,Q139917153,1,0,1,Son of Aenys I Targaryen and Alyssa Velaryon,,Q20086260|Q15632617,,
+Aegon Targaryen,House Targaryen,Q2341521,1,0,2,Song of Ice and Fire noble family,Targaryens,Q19791817|Q29688492,,
+Aegon Targaryen,Targaryendraconidae,Q80417477,1,0,2,,,Q23038290,,Targaryendraconidae
+Aegon Targaryen,Targaryendraco,Q75820174,1,0,2,genus of reptiles (fossil),,Q23038290,,Targaryendraco
+Aegon Targaryen,Targaryendraconia,Q76348820,1,0,2,taxon of reptiles (fossil),,Q23038290,,Targaryendraconia
+Aegon Targaryen,Targaryenella,Q107259273,1,0,2,genus of crustaceans,,Q16521,,
+Aegon Targaryen,Martijn Janssen,Q123919120,1,0,2,Dutch far-right extremist,,Q5,,
+Aegon Targaryen,Aegon,Q291171,1,0,2,"multinational life insurance, pensions and asset management company","Aegon UK Plc|AEGON|Monumental Life Insurance Company|Clark Consulting|Clark, Inc.|Western Reserve Life|Western Reserve Life Assurance Co. of Ohio|Aegon|Aegon N.V.",Q4830453|Q6881511|Q891723,,Aegon
+Aegon Targaryen,Aegonychon,Q5658740,1,0,2,genus of plants,,Q16521,,Aegonychon
+Aegon Targaryen,MAG Seguros,Q112679429,1,0,2,,AEGON|Montepio Geral de Economia dos Servidore,Q6881511|Q2143354,,
+Aegon Targaryen,Aegonethes,Q10401647,1,0,2,genus of crustaceans,,Q16521,,
+Aegon Targaryen,Aegongebouw,Q2250490,1,0,2,"building in The Hague, the Netherlands",,Q1021645,,
+Aegon Targaryen,Aegonplein,Q66426307,1,0,2,"former tram stop in The Hague, the Netherlands",,Q2175765,,
+Aegon Targaryen,Aegoniscus,Q11840724,1,0,2,genus of crustaceans,,Q16521,,
+Aegon Targaryen,Aegonne (Pauly-Wissowa),Q19981071,1,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,

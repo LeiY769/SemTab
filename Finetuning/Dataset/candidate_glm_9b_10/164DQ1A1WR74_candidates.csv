@@ -1,0 +1,626 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Trindade,Trindade,Q985583,0,0,1,"municipality of Goiás state, Brazil",,Q3184121|Q1549591,,"Trindade, Goiás"
+Trindade,Trindade,Q37278123,0,0,1,family name,,Q101352,,
+Trindade,Trindade,Q164171,0,0,1,former civil parish in Portugal,,Q56046844,,Albernoa e Trindade
+Trindade,Trindade,Q921871,0,0,1,civil parish in Vila Flor,,Q1131296,,
+Trindade,Trindade,Q10357764,0,0,1,tugboat,,Q191826,,
+Trindade,Trindade,Q2355756,0,0,1,"municipality of Pernambuco State, Brazil",,Q3184121,,"Trindade, Pernambuco"
+Trindade,Trindade,Q1096095,0,0,1,Brazilian oceanic island,Ilha da Trindade|Island of Trindade|Trindade Island|Trinidada,Q1161185|Q23442,,Trindade (island)
+Trindade,Trindade,Q1635802,0,0,1,town in São Tomé and Príncipe,,Q515,,Trindade (São Tomé and Príncipe)
+Trindade,Holy Trinity,Q37090,0,0,1,"Christian conception of God as consisting of three persons (hypostases) — the Father, the Son, and the Holy Spirit — sharing the same substance (ousia)","Father, Son, Holy Ghost|the Father, the Son, and the Holy Ghost|Father, Son, Holy Spirit|the Father, the Son, and the Holy Spirit|Christian Trinity|Trinitarian God|Trinity",Q3045134|Q4818719|Q39604065|Q29430681,Q3451071,Trinity
+Trindade,Trindade metro station,Q162481,0,0,1,"metro station in Porto, Portugal",Trindade (Porto Metro),Q928830|Q22808403,,Trindade station (Porto Metro)
+Trindade,Trindade Island,Q110028364,0,0,2,,,Q1980247,,
+Trindade,The Trindade Island's UFO,Q3631268,0,0,2,"fraudulent UFO sighting in Brazil, 1958",Trindade Island UFO,Q40728071,,
+Trindade,Trindade and Martin Vaz Islands marine ecoregion,Q107554864,0,0,2,bio-geographic region in MEOW scheme,,Q107539356,,
+Vitoria,Vitória,Q168376,0,2,1,"municipality of Espírito Santo state, Brazil","Vitória, Espírito Santo",Q3184121|Q1549591,,"Vitória, Espírito Santo"
+Vitoria,Vitoria-Gasteiz,Q14318,0,2,1,"municipality of Álava, autonomous community of the Basque Country, Spain",Vitoria-Gasteiz Spain|Vitoria Gasteiz|Vitoria Gasteiz Spain|Vittoria,Q2074737,,Vitoria-Gasteiz
+Vitoria,Vitoria,Q60162245,0,2,1,family name,,Q101352,,
+Vitoria,Vitória,Q56154779,0,2,1,female given name,,Q11879590,,
+Vitoria,Vitória S.C.,Q223450,0,2,1,"professional association football club based in Guimarães, Portugal",Vitoria S.C.|Vitoria de Guimaraes|Vitória Guimarães SC|Vitoria Guimaraes SC|Vitória SC|Vitoria SC|Vitória de Guimarães,Q847017|Q476028,,Vitória S.C.
+Vitoria,Vitória de Santo Antão,Q985685,0,2,1,"municipality of Pernambuco State, Brazil",,Q3184121|Q1549591,,Vitória de Santo Antão
+Vitoria,Freguesia da Vitória,Q1916043,0,2,1,"former civil parish in Porto, Portugal",Vitoria,Q56046844,,Vitória (Porto)
+Vitoria,Vitória,Q111988412,0,2,1,composition by Ernesto Nazareth,,Q105543609,,
+Vitoria,Victoria,Q36687,0,2,1,state of Australia,"VIC|Victoria, Australia|State of Victoria|State of VIC|Vic.|AU-VIC",Q5852411|Q1351282,,Victoria (state)
+Vitoria,Álava,Q81801,0,2,1,"province of Basque Country, Spain",Araba|Álava-Araba|Vitoria-Gasteiz Province|Gasteiz province|Vitoria province|Alava|Province of Alava,Q162620|Q3179682,,Álava
+Brazil,Brazil,Q155,0,3,1,country in South America,Federative Republic of Brazil,Q3624078|Q859563|Q6256,,Brazil
+Brazil,Brazil,Q16860380,0,3,1,family name,,Q101352,,Brazil (surname)
+Brazil,Brazil,Q25094860,0,3,1,1975 debut studio album by The Ritchie Family,Brazil...,Q482994,,Brazil (The Ritchie Family album)
+Brazil,Brazilian Portuguese,Q750553,0,3,1,set of varieties of the Portuguese language spoken in Brazil,Português brasileiro|Brazilian|Português do Brasil|Portugues brasileiro|Portugues do Brasil|Portuguese (Brazil),Q33384,Q5146,Brazilian Portuguese
+Brazil,Brazil,Q96336868,0,3,1,vocal track by Frank Sinatra; 1957 studio recording; cover version,,Q55850593,,
+Brazil,Brazil,Q96336800,0,3,1,vocal track by The Ritchie Family; 1975 studio recording; cover version,,Q55850593,,
+Brazil,Brazilian Journal of Medical and Biological Research,Q2025772,0,3,1,scientific journal,,Q5633421|Q773668|Q737498|Q16024164,,Brazilian Journal of Medical and Biological Research
+Brazil,Brazil,Q1998364,0,3,1,"city in Clay County, Indiana, United States","Brazil, Indiana|Brazil, IN",Q1093829,,"Brazil, Indiana"
+Brazil,Brazilian Social Democracy Party,Q1322897,0,3,1,political party in Brazil,PSDB|Partido da Social Democracia Brasileira,Q7278,,Brazilian Social Democracy Party
+Brazil,Brazilian Advisory Rating System,Q26323090,0,3,1,Content Rating System in Brazil,BARS|ClassInd|DJCTQ,Q14775294|Q3232092|Q1062352|Q130735522,,Brazilian advisory rating system
+Brazil,South America,Q18,0,3,2,continent located mainly in the southwestern quadrant of the Earth,S. America|South American continent|S America,Q5107|Q855697|Q15042037|Q2418896,,South America
+Brazil,Saimiri sciureus,Q476930,0,3,2,species of mammal,South American squirrel monkey|Common squirrel monkey,Q16521,,Guianan squirrel monkey
+Brazil,paracoccidioidomycosis,Q247096,0,3,2,"primary systemic mycosis that results in systemic fungal infection located in mucosa, located in lymph nodes, located in bone, located in skin or located in lungs, has material basis in Paracoccidioides brasiliensis","Mucocutaneous-lymphangitic paracoccidioidomycosis|Mucocutaneous-lymphangitic paracoccidioidomycosis (disorder)|Paracoccidioidomycosis (disorder)|Paracoccidioidomycosis NOS (disorder)|Paracoccidioidomycosis, unspecified (disorder)|paracoccidioidal mycosis|Paracoccidioidomycosis|PCM|Lobo disease|South american blastomycosis|Paracoccidioidal granuloma|Lutz-Splendore-Almeida disease|Paracoccidiomycosis",Q112193867,Q18553244|Q4941552|Q18558262|Q3392853|Q876887|Q464067|Q18123741,Paracoccidioidomycosis
+Brazil,Crotalus durissus,Q854864,0,3,2,species of reptile,South American rattlesnake|tropical rattlesnake,Q16521,,Crotalus durissus
+Brazil,South America,Q99290067,0,3,2,continent of South America as depicted in Star Trek,Star Trek South America,Q17199338|Q15796005,,
+Brazil,South American Journal of Herpetology,Q21385774,0,3,2,journal,ISSN 1808-9798,Q5633421,,
+Brazil,South America,Q20201199,0,3,2,painting by John Wesley,,Q3305213,,
+Brazil,South American Coati,Q148462,0,3,2,species of mammal,Nasua nasua,Q16521,,South American coati
+Brazil,Indigenous peoples of South America,Q1479328,0,3,2,pre-Columbian inhabitants of South America,"Indigenous people of South America|Amerindians of South America|South American Indians|Indigenous South Americans|Indians, South American",Q41710|Q851990|Q103817,Q36747|Q10374742,Indigenous peoples of South America
+Brazil,South America,Q23639894,0,3,2,"artwork by Aimé Millet in Paris, France",,Q179700,,
+Brazil,Latin America,Q12585,0,3,2,region of the Americas where Romance languages are primarily spoken,LatAm|Central and South America|Central & South America|Romance-speaking America|South and Central America,Q137186904|Q3502482,,Latin America
+Brazil,Latin American Antiquity,Q6496198,0,3,2,academic journal,,Q737498|Q21834496,,Latin American Antiquity
+Brazil,Latin America,Q139868100,0,3,2,,,Q571,,
+Brazil,Latin American Spanish,Q56649449,0,3,2,dialects of Spanish spoken in Latin American countries,es-419|es_419|Latam Spanish|Spanish (Latin America)|ES-419|ES_419,Q33384,Q3058369,Latin American Spanish
+Brazil,music of Latin America,Q727781,0,3,2,"collective term for the dances, rhythms and styles of music from Latin America",Latin American music|Latin America music|music in Latin America,Q75054287|Q188451,Q18345375|Q3328669,Music of Latin America
+Brazil,Latin American literature,Q1147454,0,3,2,set of literary works from Latin America,literature of Latin America,Q109551565|Q11862829,,Latin American literature
+Brazil,history of Latin America,Q2365406,0,3,2,history of the Latin American region,Latin American history|Latin America history,Q17524420|Q11862829,Q690256,History of Latin America
+Brazil,Latin American studies,Q28617,0,3,2,academic discipline focused on the analysis of Latin American culture,Latinx studies,Q11862829|Q4671286,Q928786,Latin American studies
+Brazil,Latin American Journal of Content and Language Integrated Learning,Q50806865,0,3,2,"Academic journal published by Universidad de La Sabana, covering the subjects: Education: Special aspects of education",LACLIL|Latin american jorunal of content and language integrated learning,Q737498|Q773668,,
+Brazil,Latin American journal of aquatic research,Q27723975,0,3,2,journal,Lat Am J Aquat Res|LAJAR|Latin American Journal of Aquatic Research,Q5633421|Q737498|Q773668|Q108440863,,
+Balut Island,Balut Island,Q805837,1,0,1,"island in Davao Occidental, Philippines",Balut,Q1161185,,Balut Island
+Balut Island,Balut,Q54625143,1,0,1,"district of Tondo, Manila",Balut Island,Q149621|Q52103661,,
+Balut Island,Balut Island,Q31482352,1,0,1,"island in Lanao del Norte, Philippines",,Q23442,,
+Balut Island,Balut Island,Q31482375,1,0,1,"islet in Cavite, Philippines",Balut,Q207524|Q162602,,
+Balut Island,Balut Island,Q31482396,1,0,1,"island in Manila, Philippines",,Q23442,,
+Balut Island,Sarangani,Q314999,1,0,2,municipality of the Philippines in the province of Davao Occidental,"Municipality of Sarangani|Sarangani, Davao Occidental",Q24764,,"Sarangani, Davao Occidental"
+Balut Island,Sarangani,Q13877,1,0,2,province of the Philippines,Province of Sarangani,Q24746,,Sarangani
+Balut Island,Sarangani,Q7423093,1,0,2,language,Sarangani Manobo|Sarangani language,Q34770|Q1288568,,Sarangani language
+Balut Island,Sarangani Island,Q1407195,1,0,2,island in the Philippines,Sarangani,Q23442,,
+Balut Island,Sarangani,Q111458673,1,0,2,ship launched in 1968,IMO 6918106,Q11446,,
+Balut Island,Sarangani's at-large congressional district,Q66771486,1,0,2,House of Representatives of the Philippines legislative district,Sarangani's lone congressional district,Q96020121,,Sarangani's at-large congressional district
+Balut Island,Sarangani Blaan,Q16117272,1,0,2,language,Sarangani Blaan language,Q34770|Q1288568,Q4920003,
+Balut Island,Sarangani Bay,Q999032,1,0,2,bay in the Philippines,,Q39594,,Sarangani Bay
+Balut Island,Sarangani Islands,Q31810399,1,0,2,group of islands in the Philippines,,Q1402592,,Sarangani Islands
+Balut Island,Sarangani Strait,Q2195381,1,0,2,strait in the Philippines,,Q37901,,
+Balut Island,Philippines,Q928,1,0,2,archipelagic country in Southeast Asia,Republic of the Philippines|The Philippines|Philippine Islands|RP,Q3624078|Q11815167|Q6256|Q112099,,Philippines
+Balut Island,National Historical Commission of the Philippines,Q2652138,1,0,2,Philippine government agency,NHCP|Philippines Historical Research and Markers Committee|PHRMC|Historical Research and Markers Committee|HRMC|Philippines Historical Committee|PHC|National Historical Commission|NHC|National Historical Institute|NHI,Q327333|Q5774403,,National Historical Commission of the Philippines
+Balut Island,National Historical Commission of the Philippines historical marker,Q21562164,1,0,2,commemorative plaque or set of commemorative plaques created by the National Historical Commission of the Philippines or any of its predecessors,NHCP historical marker|National Historical Institute historical marker|NHI historical marker|Philippines Historical Committee historical marker|PHC historical marker|Philippine Historical Research and Markers Committee historical marker|PHRMC historical marker|HRMC historical marker,,Q721747,Historical markers of the Philippines
+Balut Island,Member of the Senate of the Philippines,Q18579098,1,0,2,,Philippine Senator|Philippines Senator|Senator of the Philippines,Q4164871,Q15686806,
+Balut Island,Philippines men's national association football team,Q219854,1,0,2,men's national association football team representing the Philippines,Filipino national football team|Azkals|Philippines national football team|Philippines men's national football team,Q135408445,Q1194951,Philippines national football team
+Balut Island,Captaincy General of the Philippines,Q2721139,1,0,2,1565–1898 territory of the Spanish Empire in Asia,Capitanía General de las Filipinas|Capitania General de las Filipinas|Spanish Philippines|Philippines under Spanish rule,Q5036886|Q133156,,Captaincy General of the Philippines
+Balut Island,2019 Southeast Asian Games,Q3550424,1,0,2,30th Southeast Asian Games held in Philippines,Philippines 2019|2019 SEA Games,Q167170,,2019 SEA Games
+Balut Island,Congress of the Philippines,Q1542985,1,0,2,bicameral legislature of the Republic of the Philippines,Philippine Congress|Philippines Congress|Philippine legislature,Q189445,,Congress of the Philippines
+Balut Island,sports in the Philippines,Q7579511,1,0,2,overview of sports tradition in the Philippines,sport in the Philippines|Philippines sports|sports of the Philippines|sporting in the Philippines,Q29791211,Q166291,Sports in the Philippines
+Balut Island,Philippines women's national football team,Q933074,1,0,2,national association football team,Filipinas|Philippine women's national football team|Filipino women's national football team,Q23905105,Q1194951,Philippines women's national football team
+Sarangani,Sarangani,Q314999,1,2,1,municipality of the Philippines in the province of Davao Occidental,"Municipality of Sarangani|Sarangani, Davao Occidental",Q24764,,"Sarangani, Davao Occidental"
+Sarangani,Sarangani,Q13877,1,2,1,province of the Philippines,Province of Sarangani,Q24746,,Sarangani
+Sarangani,Sarangani,Q7423093,1,2,1,language,Sarangani Manobo|Sarangani language,Q34770|Q1288568,,Sarangani language
+Sarangani,Sarangani Island,Q1407195,1,2,1,island in the Philippines,Sarangani,Q23442,,
+Sarangani,Sarangani,Q111458673,1,2,1,ship launched in 1968,IMO 6918106,Q11446,,
+Sarangani,Sarangani's at-large congressional district,Q66771486,1,2,1,House of Representatives of the Philippines legislative district,Sarangani's lone congressional district,Q96020121,,Sarangani's at-large congressional district
+Sarangani,Sarangani Blaan,Q16117272,1,2,1,language,Sarangani Blaan language,Q34770|Q1288568,Q4920003,
+Sarangani,Sarangani Bay,Q999032,1,2,1,bay in the Philippines,,Q39594,,Sarangani Bay
+Sarangani,Sarangani Islands,Q31810399,1,2,1,group of islands in the Philippines,,Q1402592,,Sarangani Islands
+Sarangani,Sarangani Strait,Q2195381,1,2,1,strait in the Philippines,,Q37901,,
+Philippines,Philippines,Q928,1,3,1,archipelagic country in Southeast Asia,Republic of the Philippines|The Philippines|Philippine Islands|RP,Q3624078|Q11815167|Q6256|Q112099,,Philippines
+Philippines,National Historical Commission of the Philippines,Q2652138,1,3,1,Philippine government agency,NHCP|Philippines Historical Research and Markers Committee|PHRMC|Historical Research and Markers Committee|HRMC|Philippines Historical Committee|PHC|National Historical Commission|NHC|National Historical Institute|NHI,Q327333|Q5774403,,National Historical Commission of the Philippines
+Philippines,National Historical Commission of the Philippines historical marker,Q21562164,1,3,1,commemorative plaque or set of commemorative plaques created by the National Historical Commission of the Philippines or any of its predecessors,NHCP historical marker|National Historical Institute historical marker|NHI historical marker|Philippines Historical Committee historical marker|PHC historical marker|Philippine Historical Research and Markers Committee historical marker|PHRMC historical marker|HRMC historical marker,,Q721747,Historical markers of the Philippines
+Philippines,Member of the Senate of the Philippines,Q18579098,1,3,1,,Philippine Senator|Philippines Senator|Senator of the Philippines,Q4164871,Q15686806,
+Philippines,Philippines men's national association football team,Q219854,1,3,1,men's national association football team representing the Philippines,Filipino national football team|Azkals|Philippines national football team|Philippines men's national football team,Q135408445,Q1194951,Philippines national football team
+Philippines,Captaincy General of the Philippines,Q2721139,1,3,1,1565–1898 territory of the Spanish Empire in Asia,Capitanía General de las Filipinas|Capitania General de las Filipinas|Spanish Philippines|Philippines under Spanish rule,Q5036886|Q133156,,Captaincy General of the Philippines
+Philippines,2019 Southeast Asian Games,Q3550424,1,3,1,30th Southeast Asian Games held in Philippines,Philippines 2019|2019 SEA Games,Q167170,,2019 SEA Games
+Philippines,Congress of the Philippines,Q1542985,1,3,1,bicameral legislature of the Republic of the Philippines,Philippine Congress|Philippines Congress|Philippine legislature,Q189445,,Congress of the Philippines
+Philippines,sports in the Philippines,Q7579511,1,3,1,overview of sports tradition in the Philippines,sport in the Philippines|Philippines sports|sports of the Philippines|sporting in the Philippines,Q29791211,Q166291,Sports in the Philippines
+Philippines,Philippines women's national football team,Q933074,1,3,1,national association football team,Filipinas|Philippine women's national football team|Filipino women's national football team,Q23905105,Q1194951,Philippines women's national football team
+Philippines,Balut Island,Q805837,1,3,2,"island in Davao Occidental, Philippines",Balut,Q1161185,,Balut Island
+Philippines,Balut,Q54625143,1,3,2,"district of Tondo, Manila",Balut Island,Q149621|Q52103661,,
+Philippines,Balut Island,Q31482352,1,3,2,"island in Lanao del Norte, Philippines",,Q23442,,
+Philippines,Balut Island,Q31482375,1,3,2,"islet in Cavite, Philippines",Balut,Q207524|Q162602,,
+Philippines,Balut Island,Q31482396,1,3,2,"island in Manila, Philippines",,Q23442,,
+Philippines,Sarangani,Q314999,1,3,2,municipality of the Philippines in the province of Davao Occidental,"Municipality of Sarangani|Sarangani, Davao Occidental",Q24764,,"Sarangani, Davao Occidental"
+Philippines,Sarangani,Q13877,1,3,2,province of the Philippines,Province of Sarangani,Q24746,,Sarangani
+Philippines,Sarangani,Q7423093,1,3,2,language,Sarangani Manobo|Sarangani language,Q34770|Q1288568,,Sarangani language
+Philippines,Sarangani Island,Q1407195,1,3,2,island in the Philippines,Sarangani,Q23442,,
+Philippines,Sarangani,Q111458673,1,3,2,ship launched in 1968,IMO 6918106,Q11446,,
+Philippines,Sarangani's at-large congressional district,Q66771486,1,3,2,House of Representatives of the Philippines legislative district,Sarangani's lone congressional district,Q96020121,,Sarangani's at-large congressional district
+Philippines,Sarangani Blaan,Q16117272,1,3,2,language,Sarangani Blaan language,Q34770|Q1288568,Q4920003,
+Philippines,Sarangani Bay,Q999032,1,3,2,bay in the Philippines,,Q39594,,Sarangani Bay
+Philippines,Sarangani Islands,Q31810399,1,3,2,group of islands in the Philippines,,Q1402592,,Sarangani Islands
+Philippines,Sarangani Strait,Q2195381,1,3,2,strait in the Philippines,,Q37901,,
+Macauley Island,Macauley Island,Q22616689,2,0,1,"island in Saskatchewan, Canada",,Q23442,,
+Macauley Island,Macauley Island,Q444549,2,0,1,island in New Zealand,,Q1161185,,Macauley Island
+Macauley Island,Macauley Island distant 9 miles,Q28810589,2,0,1,"artwork by Charles Heaphy (Auckland War Memorial Museum, PD-1952-2-1-2 )",,Q18761202,,
+Macauley Island,Macauley Island (pulo sa Sierra Leone),Q49655754,2,0,1,island in Sierra Leone,,Q23442,,
+Macauley Island,Macauley Island,Q22946506,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+New Zealand,New Zealand,Q664,2,3,1,island country in the southwest Pacific Ocean,Dominion of New Zealand|nz|Aotearoa New Zealand,Q202686|Q223832|Q3624078|Q6256|Q112099|Q1351282|Q140892892,,New Zealand
+New Zealand,New Zealand Organisms Register,Q23893915,2,3,1,catalogue of scientific names of New Zealand biota,NZOR,Q7094076|Q4117139,,
+New Zealand,New Zealand Labour Party,Q1048192,2,3,1,centre-left political party in New Zealand,Labour Party of New Zealand|Rōpū Reipa o Aotearoa|NZ Labour|Labour NZ,Q7278,,New Zealand Labour Party
+New Zealand,NZThesisProject,Q111645234,2,3,1,community of editors and project aiming to upload the citation data of New Zealand doctoral and masters theses to Wikidata,New Zealand Thesis Project|Wikiproject NZ Thesis|NZ Thesis Project|NZ Thesis Wikiproject,Q16695773,,Wikipedia:GLAM/NZThesisProject
+New Zealand,Colony of New Zealand,Q5148518,2,3,1,constitutional monarchy in Oceania (1844–1907),Colony of NZ|New Zealand colony|New Zealand,Q1351282,,Colony of New Zealand
+New Zealand,The New Zealand Medical Journal,Q7753855,2,3,1,journal,New Zealand medical journal|NZMJ|N. Z. Med. J.,Q5633421|Q16024164,,The New Zealand Medical Journal
+New Zealand,New Zealand Threat Classification System Database,Q108424413,2,3,1,website and database for the New Zealand Threat Classification System,New Zealand Threat Classification System|NZTCS|NZ Threat Classification System (NZTCS) Database|NZTCS Database,Q35127|Q4117139|Q7094076,,
+New Zealand,New Zealand Gazetteer,Q52087697,2,3,1,place name gazetteer of New Zealand,NZGB Gazetteer|New Zealand Geographic Board Gazetteer|NZ Gazetteer,Q1006160|Q1172284,,
+New Zealand,New Zealand Legislation,Q101073903,2,3,1,"website providing providing access to New Zealand acts, bills, secondary legislation, and supplementary order papers",legislation.govt.nz,Q56679069|Q35127|Q101191533,,
+New Zealand,Heritage New Zealand Category 2 historic place listing,Q28822545,2,3,1,New Zealand heritage designation,NZHPT Category 2 listing|Historic Place Category II|New Zealand Historic Places Trust Category II listing|Heritage New Zealand Category 2 listing|NZHPT Category II listing|Historic Place Category 2,,Q28822537,
+Late,end of,Q40719766,3,0,1,"end of time period, should be used with qualifier P4241 to narrow down the period it describes",late|last years|last days,Q26907166,,
+Late,Late,Q37453388,3,0,1,family name,,Q101352,,
+Late,most recent value,Q71533355,3,0,1,reason for preferred rank based on time,newest value|more recent value|most recent version|latest value|latest version|more recent version,Q71533077,Q1196827,
+Late,late modern period,Q6495391,3,0,1,the era from ca. 1800 until the present,,Q816829|Q6428674|Q4671286,,Late modern period
+Late,LaTeX,Q5310,3,0,1,document markup language,latex-project.org|The LaTeX Project|LᴬTᴇX,Q54277|Q19595415|Q29364197|Q37045|Q52990223|Q235557|Q506883,Q37045,LaTeX
+Late,end time,Q24575125,3,0,1,time that some temporal entity ceases to exist,final time|latest date|ending date|ending time|end of interval|ending of interval,Q215071|Q1199948,Q186408,
+Late,late antiquity,Q217050,3,0,1,period of transition from classical antiquity to the Middle Ages,,Q11514315|Q465299|Q11042,Q41493,Late antiquity
+Late,Lateolabrax japonicus,Q1151311,3,0,1,species of fish,Japanese seabass,Q16521,,Japanese sea bass
+Late,postterm pregnancy,Q3399863,3,0,1,"when a pregnant person has not yet delivered after 42 weeks of gestation, two weeks beyond the typical 40-week duration",late pregnancy|prolonged pregnancy|postmature birth|obsolete prolonged pregnancy|obsolete late pregnancy,Q112193867|Q63345803,Q2916477,Postterm pregnancy
+Late,Late,Q12323990,3,0,1,2012 EP by Florrie,,Q169930,,
+Vava‘u,Vava‘u,Q4102091,3,2,1,division of Tonga,Vavaʻu|Vava'u,Q20740204,,
+Vava‘u,Vavaʻu group,Q859666,3,2,1,island group of Tonga,,Q1402592,,Vavaʻu
+Vava‘u,Vavaʻu,Q20456736,3,2,1,island in Tonga,Vava'u|'Utu Vava'u,Q23442|Q139595932,,
+Vava‘u,Tonga,Q678,3,2,2,"sovereign state in Oceania, situated on an archipelago",to|Kingdom of Tonga|TGA|Friendly Islands|Tonga Islands,Q6256|Q3624078|Q112099|Q918240,,Tonga
+Vava‘u,Tonga,Q10699844,3,2,2,genus of insects,,Q16521,,Tonga (insect)
+Vava‘u,cart,Q234668,3,2,2,"simple vehicle designed for transport, driven by one or more draught animals, mostly uniaxial",tonga,,Q15618781|Q26281580,Cart
+Vava‘u,Tenga Island,Q24829349,3,2,2,"island in Taliabu Island Regency, North Maluku Province, Indonesia",Pulau Tonga|Tonga Island|Tonga,Q207524,,
+Vava‘u,Tangah Island,Q25185463,3,2,2,"island in Mandailing Natal Regency, North Sumatra Province, Indonesia",Tonga Island|Tengah,Q207524,,
+Vava‘u,Tonga,Q25198785,3,2,2,reef in Indonesia,,Q184358,,
+Vava‘u,Tonga,Q34101,3,2,2,Bantu language of Zambia and Zimbabwe,Tonga language|Chitonga|Zambezi,Q34770|Q1288568,Q4948532,Tonga language (Zambia and Zimbabwe)
+Vava‘u,Tonga national rugby union team,Q1134659,3,2,2,rugby union team,,Q58840819,,Tonga national rugby union team
+Vava‘u,Tongan,Q34094,3,2,2,Polynesian language,Tonga (Tonga Islands)|to|Tongan language|Tonga dialect,Q1288568|Q33742,Q3397263,Tongan language
+Vava‘u,Tonga,Q3847648,3,2,2,language of Malawi,Tonga (Nyasa)|Tonga language|Chitonga|Tonga language (Malawi)|Malawi Tonga|Malawian Tonga,Q34770|Q1288568,Q7070921,Tonga language (Malawi)
+Tonga,Tonga,Q678,3,3,1,"sovereign state in Oceania, situated on an archipelago",to|Kingdom of Tonga|TGA|Friendly Islands|Tonga Islands,Q6256|Q3624078|Q112099|Q918240,,Tonga
+Tonga,Tonga,Q10699844,3,3,1,genus of insects,,Q16521,,Tonga (insect)
+Tonga,cart,Q234668,3,3,1,"simple vehicle designed for transport, driven by one or more draught animals, mostly uniaxial",tonga,,Q15618781|Q26281580,Cart
+Tonga,Tenga Island,Q24829349,3,3,1,"island in Taliabu Island Regency, North Maluku Province, Indonesia",Pulau Tonga|Tonga Island|Tonga,Q207524,,
+Tonga,Tangah Island,Q25185463,3,3,1,"island in Mandailing Natal Regency, North Sumatra Province, Indonesia",Tonga Island|Tengah,Q207524,,
+Tonga,Tonga,Q25198785,3,3,1,reef in Indonesia,,Q184358,,
+Tonga,Tonga,Q34101,3,3,1,Bantu language of Zambia and Zimbabwe,Tonga language|Chitonga|Zambezi,Q34770|Q1288568,Q4948532,Tonga language (Zambia and Zimbabwe)
+Tonga,Tonga national rugby union team,Q1134659,3,3,1,rugby union team,,Q58840819,,Tonga national rugby union team
+Tonga,Tongan,Q34094,3,3,1,Polynesian language,Tonga (Tonga Islands)|to|Tongan language|Tonga dialect,Q1288568|Q33742,Q3397263,Tongan language
+Tonga,Tonga,Q3847648,3,3,1,language of Malawi,Tonga (Nyasa)|Tonga language|Chitonga|Tonga language (Malawi)|Malawi Tonga|Malawian Tonga,Q34770|Q1288568,Q7070921,Tonga language (Malawi)
+Tonga,Kingdom of Tonga,Q23022146,3,3,2,protected state of the United Kingdom in Polynesia,,Q3024240|Q1250464|Q21479969,,Kingdom of Tonga (1900–1970)
+St. George Island,St. George Island,Q1412667,4,0,1,"island in Franklin County, Florida, United States",Saint George Island,Q23442|Q498162,,St. George Island (Florida)
+St. George Island,St. George Island,Q1672851,4,0,1,"island in Alaska, United States of America",Saint George Island,Q1161185,,St. George Island (Alaska)
+St. George Island,St. George Island,Q3885764,4,0,1,"census-designated place in Maryland, USA","Saint George Island|St. George Island, MD|St. George's Island|Saint George's Island",Q498162|Q486972,,"St. George Island, Maryland"
+St. George Island,St. George Island,Q22369282,4,0,1,"island in Ontario, Canada",,Q23442,,
+St. George Island,St. George Island,Q22369263,4,0,1,"island in Alberta, Canada",,Q23442,,
+St. George Island,St. George Island Bridge,Q2432710,4,0,1,"bridge in Franklin County, Florida, United States",Bryant Patton Memorial Bridge,Q12280,,St. George Island Bridge
+St. George Island,St. George Island School/Community Library,Q69469146,4,0,1,"public library system in Alaska, USA",,Q26271642,,
+St. George Island,St. George Island School/Community Library,Q69864095,4,0,1,"public library in St. George, Alaska, USA",,Q12317349|Q28564,,
+St. George Island,St. George Island State Park,Q726539,4,0,1,"state park in Florida, United States",,Q37989229,,St. George Island State Park
+St. George Island,St. George Airport,Q4416304,4,0,1,"airport in Alaska, United States of America",STG|PAPB|PBV,Q1248784|Q94993988,,St. George Airport (Alaska)
+Alaska,Alaska,Q797,4,2,1,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Alaska,UTC−08:00,Q2204,4,2,1,identifier for a time offset from UTC of −8,Pacific Standard Time|Alaska Daylight Time|UTC-08:00|UTC-8|U,Q17272482,,UTC−08:00
+Alaska,Alaska,Q23851809,4,2,1,article in Otto's encyclopedia,,Q13433827,,
+Alaska,Alaska,Q117090096,4,2,1,given name,,Q202444,,
+Alaska,Alaska,Q122835287,4,2,1,family name,,Q101352,,
+Alaska,Alaska,Q136048154,4,2,1,"village in Kankaanpää, Finland",,Q532,,
+Alaska,ALASKA,Q122353711,4,2,1,2018 video game,,Q7889,,
+Alaska,Alaska,Q1199942,4,2,1,"Spanish and Mexican singer, songwriter and actress",Olvido Gara|Maria Olvido Gara Jova|Mexican Acid Queen,Q5,,Alaska (singer)
+Alaska,Alaska Range,Q156684,4,2,1,"mountain range in Alaska, United States",,Q1437459,,Alaska Range
+Alaska,Alaska Thunderfuck 5000,Q16029552,4,2,1,American drag queen and recording artist,Justin Andrew Honard|Alaska|Alaska 5000,Q5,,Alaska Thunderfuck
+Alaska,St. George Island,Q1412667,4,2,2,"island in Franklin County, Florida, United States",Saint George Island,Q23442|Q498162,,St. George Island (Florida)
+Alaska,St. George Island,Q1672851,4,2,2,"island in Alaska, United States of America",Saint George Island,Q1161185,,St. George Island (Alaska)
+Alaska,St. George Island,Q3885764,4,2,2,"census-designated place in Maryland, USA","Saint George Island|St. George Island, MD|St. George's Island|Saint George's Island",Q498162|Q486972,,"St. George Island, Maryland"
+Alaska,St. George Island,Q22369282,4,2,2,"island in Ontario, Canada",,Q23442,,
+Alaska,St. George Island,Q22369263,4,2,2,"island in Alberta, Canada",,Q23442,,
+Alaska,St. George Island Bridge,Q2432710,4,2,2,"bridge in Franklin County, Florida, United States",Bryant Patton Memorial Bridge,Q12280,,St. George Island Bridge
+Alaska,St. George Island School/Community Library,Q69469146,4,2,2,"public library system in Alaska, USA",,Q26271642,,
+Alaska,St. George Island School/Community Library,Q69864095,4,2,2,"public library in St. George, Alaska, USA",,Q12317349|Q28564,,
+Alaska,St. George Island State Park,Q726539,4,2,2,"state park in Florida, United States",,Q37989229,,St. George Island State Park
+Alaska,St. George Airport,Q4416304,4,2,2,"airport in Alaska, United States of America",STG|PAPB|PBV,Q1248784|Q94993988,,St. George Airport (Alaska)
+Alaska,United States,Q30,4,2,2,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+Alaska,United States of America,Q105870683,4,2,2,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+Alaska,United States of America,Q99281400,4,2,2,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+Alaska,United States of America state-level electoral district,Q104146934,4,2,2,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+Alaska,USA (United States of America),Q20571325,4,2,2,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+Alaska,American Red Cross,Q470110,4,2,2,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+Alaska,United States of America,Q105870692,4,2,2,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+Alaska,United States of America,Q29045456,4,2,2,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+Alaska,Canada–United States border,Q119515,4,2,2,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+Alaska,United States of America,Q106315054,4,2,2,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States,Q30,4,3,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,4,3,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,4,3,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,4,3,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,4,3,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,4,3,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,4,3,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,4,3,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,4,3,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,4,3,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States Census Bureau,Q637413,4,3,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+United States of America,Mexico,Q96,4,3,2,country in North America,Mexican United States|Mexican Republic|US of M|United States of Mexico|mx|United Mexican States|MXN,Q3624078|Q6256|Q6266,,Mexico
+United States of America,United States dollar,Q4917,4,3,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States of America,National Gallery of Art,Q214867,4,3,2,"national art museum in Washington, D.C.","Mellon Gallery of Art|National Art Gallery (U.S.)|United States. National Gallery of Art|National Gallery|National Gallery of Art (U.S.)|National Gallery of Art (Washington, D.C.)|National Gallery of Art (Washington D.C.)|U.S. National Gallery of Art|US National Gallery of Art|National Gallery of Art",Q3844310|Q2085381|Q163740|Q20857065|Q221096,,National Gallery of Art
+United States of America,Republican Party,Q29468,4,3,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+United States of America,Democratic Party,Q29552,4,3,2,American political party,Democrats|Democrat|Democratic Party (United States)|Dems|Democratic Party of the United States|United States Democratic Party|US Democratic Party|U.S. Democratic Party|The Democrats,Q7278,,Democratic Party (United States)
+United States of America,National Institute for Occupational Safety and Health,Q60346,4,3,2,United States government research agency for preventing work-related health and safety problems,NIOSH|National Institute of Occupational Safety and Health|N.I.O.S.H.|U.S. Bureau of Occupational Safety and Health|United States Bureau of Occupational Safety and Health|Bureau of Occupational Safety and Health,Q20857065,,National Institute for Occupational Safety and Health
+United States of America,Supreme Court of the United States,Q11201,4,3,2,highest court of jurisdiction in the United States of America,SCOTUS|Supreme Court|United States Supreme Court|US Supreme Court|U.S. Supreme Court|Supreme Court of the U.S.|Article 3 Court|Article III Court|Article Three Court|Supreme Court of the United States of America,Q190752|Q119173073|Q4663903,,Supreme Court of the United States
+United States of America,National Register of Historic Places,Q3719,4,3,2,federal list of historic sites in the United States,NRHP|United States National Register of Historic Places|US NRHP|U.S. NRHP|U.S. National Register of Historic Places,Q15097084|Q22222786,,National Register of Historic Places
+United States of America,USA Network,Q248713,4,3,2,American cable television channel,USA,Q5009242,,USA Network
+United States of America,United States Army,Q9212,4,3,2,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+United States of America,USA,Q2195271,4,3,2,1975 live album by King Crimson,,Q482994,,USA (King Crimson album)
+United States of America,Usa,Q6476962,4,3,2,"river in Belarus, upper right-side tributary of the Neman",Уса|Вуса,Q4022,,
+United States of America,Usa,Q12523556,4,3,2,"village in Bone Regency, South Sulawesi, Indonesia",,Q26211545,,
+United States of America,Usa,Q6543186,4,3,2,village in Belarus,,Q65661087,,
+United States of America,Usain Bolt,Q1189,4,3,2,Jamaican sprinter,,Q5,,Usain Bolt
+United States of America,American English,Q7976,4,3,2,set of dialects of the English language spoken in the United States,English (United States)|United States English|U.S. English|US English|AmE|USA English,Q951873|Q33742|Q33384,Q7053766,American English
+Grande Comore,Grande Comore,Q244978,5,0,1,largest island of the Comoros,,Q20732232|Q1161185,,Grande Comore
+Grande Comore,Grande Comore,Q31927628,5,0,1,,,Q17362920,,
+Grande Comore,flag of Grande Comore,Q3562370,5,0,1,,Grande Comore flag,Q22807280,,Flag of Grande Comore
+Grande Comore,Humblot's Sunbird,Q2226478,5,0,1,species of bird,Cinnyris humbloti,Q16521,,Humblot's sunbird
+Grande Comore,Karthala Scops Owl,Q726913,5,0,1,species of bird,Otus pauliani,Q16521|Q763978,,Karthala scops owl
+Grande Comore,Grande Comore and Mayotte gas-geochemistry and evidence of deep fluid migration during the 2018-2020 submarine eruption off Mayotte,Q117885988,5,0,1,scientific article published on 26 February 2023,,Q13442814,,
+Grande Comore,Grand Comoro Bulbul,Q1303375,5,0,1,species of bird,Hypsipetes parvirostris,Q16521,,Grande Comore bulbul
+Grande Comore,Kirk's white-eye,Q3576135,5,0,1,species of bird,Zosterops kirki,Q16521,,Kirk's white-eye
+Grande Comore,Nesillas brevicaudata,Q2668501,5,0,1,species of bird,Grand Comoro Brush Warbler,Q16521,,Grande Comore brush warbler
+Grande Comore,Grande Comore,Q29058519,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Grande Comore,Comoros,Q970,5,0,2,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Grande Comore,Comoros Islands,Q634740,5,0,2,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Grande Comore,Comoros men's national football team,Q497637,5,0,2,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Grande Comore,Comoros,Q12957945,5,0,2,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Grande Comore,Comoros,Q28554201,5,0,2,painting by Fred Wilson,,Q3305213,,
+Grande Comore,Comoros Premier League,Q868588,5,0,2,sports league,,Q623109,Q3270632,Comoros Premier League
+Grande Comore,Comoros at the Olympics,Q435960,5,0,2,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Grande Comore,Comoros Football Federation,Q868584,5,0,2,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Grande Comore,COMOROS: Cabinet Sworn In,Q114566751,5,0,2,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Grande Comore,Geography of the Comoros,Q2088599,5,0,2,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Grande Comore,MinelDine,Q3187403,5,0,2,French Comoriens (1938–2023),Comores,Q5,,
+Grande Comore,Comorian,Q33077,5,0,2,Bantu language group of the Comoro Islands,Comorian language,Q16173659|Q33742|Q1288568,Q2209395,Comorian languages
+Grande Comore,Comores Aviation International,Q2736076,5,0,2,,,Q46970,,Comores Aviation International
+Grande Comore,Comores women's national under-20 football team,Q3590514,5,0,2,national association football team,,Q6979593,,
+Grande Comore,Comores Telecom,Q104653369,5,0,2,Comoros telephone company,,Q1266169,,
+Grande Comore,Comores Air Services,Q2343121,5,0,2,2010s airline in the Comoros,Air Service Comores,Q46970,,Air Service Comores
+Grande Comore,Comores Casino 100,Q131989206,5,0,2,Trade tokens › Casino chips and tokens - Milled - Comoro Islands,,Q113813711,Q41207,
+Grande Comore,French Madagascar,Q5501842,5,0,2,former French colony in Southeast Africa,Colony of Madagascar and Dependencies|Colonie de Madagascar et dépendances|Colonie de Madagascar et dependances|French Comoros,Q133156,,French Madagascar
+Comoros,Comoros,Q970,5,2,1,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Comoros,Comoros Islands,Q634740,5,2,1,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Comoros,Comoros men's national football team,Q497637,5,2,1,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Comoros,Comoros,Q12957945,5,2,1,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Comoros,Comoros,Q28554201,5,2,1,painting by Fred Wilson,,Q3305213,,
+Comoros,Comoros Premier League,Q868588,5,2,1,sports league,,Q623109,Q3270632,Comoros Premier League
+Comoros,Comoros at the Olympics,Q435960,5,2,1,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Comoros,Comoros Football Federation,Q868584,5,2,1,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Comoros,COMOROS: Cabinet Sworn In,Q114566751,5,2,1,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Comoros,Geography of the Comoros,Q2088599,5,2,1,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Comoros,Grande Comore,Q244978,5,2,2,largest island of the Comoros,,Q20732232|Q1161185,,Grande Comore
+Comoros,Grande Comore,Q31927628,5,2,2,,,Q17362920,,
+Comoros,flag of Grande Comore,Q3562370,5,2,2,,Grande Comore flag,Q22807280,,Flag of Grande Comore
+Comoros,Humblot's Sunbird,Q2226478,5,2,2,species of bird,Cinnyris humbloti,Q16521,,Humblot's sunbird
+Comoros,Karthala Scops Owl,Q726913,5,2,2,species of bird,Otus pauliani,Q16521|Q763978,,Karthala scops owl
+Comoros,Grande Comore and Mayotte gas-geochemistry and evidence of deep fluid migration during the 2018-2020 submarine eruption off Mayotte,Q117885988,5,2,2,scientific article published on 26 February 2023,,Q13442814,,
+Comoros,Grand Comoro Bulbul,Q1303375,5,2,2,species of bird,Hypsipetes parvirostris,Q16521,,Grande Comore bulbul
+Comoros,Kirk's white-eye,Q3576135,5,2,2,species of bird,Zosterops kirki,Q16521,,Kirk's white-eye
+Comoros,Nesillas brevicaudata,Q2668501,5,2,2,species of bird,Grand Comoro Brush Warbler,Q16521,,Grande Comore brush warbler
+Comoros,Grande Comore,Q29058519,5,2,2,Wikimedia disambiguation page,,Q4167410,,
+Comoros,Comoros,Q970,5,3,1,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Comoros,Comoros Islands,Q634740,5,3,1,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Comoros,Comoros men's national football team,Q497637,5,3,1,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Comoros,Comoros,Q12957945,5,3,1,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Comoros,Comoros,Q28554201,5,3,1,painting by Fred Wilson,,Q3305213,,
+Comoros,Comoros Premier League,Q868588,5,3,1,sports league,,Q623109,Q3270632,Comoros Premier League
+Comoros,Comoros at the Olympics,Q435960,5,3,1,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Comoros,Comoros Football Federation,Q868584,5,3,1,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Comoros,COMOROS: Cabinet Sworn In,Q114566751,5,3,1,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Comoros,Geography of the Comoros,Q2088599,5,3,1,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Comoros,Grande Comore,Q244978,5,3,2,largest island of the Comoros,,Q20732232|Q1161185,,Grande Comore
+Comoros,Grande Comore,Q31927628,5,3,2,,,Q17362920,,
+Comoros,flag of Grande Comore,Q3562370,5,3,2,,Grande Comore flag,Q22807280,,Flag of Grande Comore
+Comoros,Humblot's Sunbird,Q2226478,5,3,2,species of bird,Cinnyris humbloti,Q16521,,Humblot's sunbird
+Comoros,Karthala Scops Owl,Q726913,5,3,2,species of bird,Otus pauliani,Q16521|Q763978,,Karthala scops owl
+Comoros,Grande Comore and Mayotte gas-geochemistry and evidence of deep fluid migration during the 2018-2020 submarine eruption off Mayotte,Q117885988,5,3,2,scientific article published on 26 February 2023,,Q13442814,,
+Comoros,Grand Comoro Bulbul,Q1303375,5,3,2,species of bird,Hypsipetes parvirostris,Q16521,,Grande Comore bulbul
+Comoros,Kirk's white-eye,Q3576135,5,3,2,species of bird,Zosterops kirki,Q16521,,Kirk's white-eye
+Comoros,Nesillas brevicaudata,Q2668501,5,3,2,species of bird,Grand Comoro Brush Warbler,Q16521,,Grande Comore brush warbler
+Comoros,Grande Comore,Q29058519,5,3,2,Wikimedia disambiguation page,,Q4167410,,
+Heard Island,Heard Island and McDonald Islands,Q131198,6,0,1,Australian external territory and volcanic group of barren Antarctic islands,hm|Territory of Heard Island and McDonald Islands|Heard and McDonald Islands|HIMI|Heard and Macdonald Islands|HMD,Q11687019|Q33837|Q38048753,,Heard Island and McDonald Islands
+Heard Island,Heard Island,Q1592377,6,0,1,island of Heard Island and McDonald Islands,,Q1161185,,Heard Island
+Heard Island,Heard Island,Q22611001,6,0,1,"island in British Columbia, Canada",,Q23442,,
+Heard Island,Heard Island Shag,Q1261443,6,0,1,species of bird,Leucocarbo nivalis,Q16521,,Heard Island shag
+Heard Island,Heard Island and McDonald Islands Marine Reserve,Q1592370,6,0,1,marine reserve of Australia,Heard Island and McDonald Islands Commonwealth Marine Reserve|Heard Island and McDonald Islands Marine Park,Q30674761,,
+Heard Island,Heard Island and McDonald Islands Act 1953,Q56757567,6,0,1,"Act of the Parliament of Australia, currently registered as C2008C00326",,Q56731284,,
+Heard Island,Heard Island and McDonald Islands Act 1963,Q56822602,6,0,1,Act of the Parliament of Australia,,Q56731284,,
+Heard Island,Heard Island and McDonald Islands Act 1957,Q56828853,6,0,1,Act of the Parliament of Australia,,Q56731284,,
+Heard Island,Heard Island Station,Q16357784,6,0,1,,,Q59217270,,
+Heard Island,Heard Island glaciers,Q5691614,6,0,1,glacier in Antarctica,,Q35666,,Heard Island glaciers
+Heard Island,McDonald Islands,Q1915097,6,0,2,subantarctic volcanic peak territories near Heard Island,,Q1402592|Q33837,,McDonald Islands
+Heard Island,McDonald Islands,Q22470168,6,0,2,"island group in Ontario, Canada",,Q1402592,,
+Heard Island,McDonald Islands,Q49657931,6,0,2,"island in Petersburg Census Area, United States of America",,Q23442,,
+Heard Island,McDonald Islands Phonolitic Lavas: Evidence for Zonation of the Kerguelen Plume,Q136237771,6,0,2,,,Q13442814,,
+Heard Island,McDonald Islands,Q22946719,6,0,2,Wikimedia disambiguation page,,Q4167410,,
+Heard Island,territory of Australia,Q14192199,6,0,2,Australian administrative territorial subdivision,Australian territory,,Q178712,
+Heard Island,Australian territory's fertility-treatment law ruled discriminatory,Q74790882,6,0,2,"scientific article published on March 22, 1997",,Q13442814,,
+Heard Island,Australian territory,Q116257176,6,0,2,Wikimedia disambiguation page,,Q4167410,,Australian territory
+Heard Island,1907 Sub-Antarctic Islands Scientific Expedition,Q4558719,6,0,2,"New Zealand scientific expedition organised by the Philosophical Institute of Canterbury to extend the magnetic survey of New Zealand by investigating the Auckland and Campbell Islands and to conduct botanical, biological and zoological surveys",Sub-Antarctic Islands Scientific Expedition,Q366301,,Sub-Antarctic Islands Scientific Expedition
+Heard Island and McDonald Islands,Heard Island and McDonald Islands,Q131198,6,2,1,Australian external territory and volcanic group of barren Antarctic islands,hm|Territory of Heard Island and McDonald Islands|Heard and McDonald Islands|HIMI|Heard and Macdonald Islands|HMD,Q11687019|Q33837|Q38048753,,Heard Island and McDonald Islands
+Heard Island and McDonald Islands,Heard Island and McDonald Islands Marine Reserve,Q1592370,6,2,1,marine reserve of Australia,Heard Island and McDonald Islands Commonwealth Marine Reserve|Heard Island and McDonald Islands Marine Park,Q30674761,,
+Heard Island and McDonald Islands,Heard Island and McDonald Islands Act 1953,Q56757567,6,2,1,"Act of the Parliament of Australia, currently registered as C2008C00326",,Q56731284,,
+Heard Island and McDonald Islands,Heard Island and McDonald Islands Act 1963,Q56822602,6,2,1,Act of the Parliament of Australia,,Q56731284,,
+Heard Island and McDonald Islands,Heard Island and McDonald Islands Act 1957,Q56828853,6,2,1,Act of the Parliament of Australia,,Q56731284,,
+Heard Island and McDonald Islands,Heard Island,Q1592377,6,2,2,island of Heard Island and McDonald Islands,,Q1161185,,Heard Island
+Heard Island and McDonald Islands,Heard Island,Q22611001,6,2,2,"island in British Columbia, Canada",,Q23442,,
+Heard Island and McDonald Islands,Heard Island Shag,Q1261443,6,2,2,species of bird,Leucocarbo nivalis,Q16521,,Heard Island shag
+Heard Island and McDonald Islands,Heard Island Station,Q16357784,6,2,2,,,Q59217270,,
+Heard Island and McDonald Islands,Heard Island glaciers,Q5691614,6,2,2,glacier in Antarctica,,Q35666,,Heard Island glaciers
+Heard Island and McDonald Islands,McDonald Islands,Q1915097,6,2,2,subantarctic volcanic peak territories near Heard Island,,Q1402592|Q33837,,McDonald Islands
+Heard Island and McDonald Islands,McDonald Islands,Q22470168,6,2,2,"island group in Ontario, Canada",,Q1402592,,
+Heard Island and McDonald Islands,McDonald Islands,Q49657931,6,2,2,"island in Petersburg Census Area, United States of America",,Q23442,,
+Heard Island and McDonald Islands,McDonald Islands Phonolitic Lavas: Evidence for Zonation of the Kerguelen Plume,Q136237771,6,2,2,,,Q13442814,,
+Heard Island and McDonald Islands,McDonald Islands,Q22946719,6,2,2,Wikimedia disambiguation page,,Q4167410,,
+Australia,Australia,Q408,6,3,1,country in Oceania,Commonwealth of Australia|Straya|Aussieland|Oz|Stralia|New Holland|New Hollandia|Nova Hollandia|Down Under|Stria|The Commonwealth of Australia|'Straya,Q202686|Q223832|Q3624078|Q43702|Q6256,,Australia
+Australia,Australian continent,Q3960,6,3,1,continent in the Earth's Southern Hemisphere,Sahul|Australinea|Meganesia|Australia (continent)|Australia|New Holland|Nova Hollandia|the Australian continent,Q5107,,Australia (continent)
+Australia,Australia,Q104269190,6,3,1,unisex given name,,Q3409032,,
+Australia,Australian Plant Name Index,Q167402,6,3,1,database of Australian plant names,APNI,Q7094076|Q7689673|Q8513,,Australian Plant Name Index
+Australia,Australian Journal of Chemistry,Q781542,6,3,1,journal,Aust. J. Chem.,Q5633421,,Australian Journal of Chemistry
+Australia,Australian Archaeology,Q15716632,6,3,1,academic journal,,Q627517|Q21834496,,Australian Archaeology
+Australia,Australian rules football,Q50776,6,3,1,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+Australia,Australian Historical Studies,Q15761696,6,3,1,academic journal,Australian Historical Studies Online,Q5633421|Q737498,,Australian Historical Studies
+Australia,Seven Network,Q908659,6,3,1,Australian broadcast television network,7|Seven|Channel Seven|Channel 7|Network 7|Network Seven|Australian Television Network|Seven Network Australia,Q1254874,,Seven Network
+Australia,Australian Broadcasting Corporation,Q781365,6,3,1,state-funded independent national public broadcaster of Australia,ABC|Australian Broadcasting Commission|Australian Broadcasting Company|ABC Australia|ABC (Australia)|ABC AU,Q1254874|Q699386|Q1061197|Q11028|Q1126006|Q43229,,Australian Broadcasting Corporation
+Australia,Heard Island and McDonald Islands,Q131198,6,3,2,Australian external territory and volcanic group of barren Antarctic islands,hm|Territory of Heard Island and McDonald Islands|Heard and McDonald Islands|HIMI|Heard and Macdonald Islands|HMD,Q11687019|Q33837|Q38048753,,Heard Island and McDonald Islands
+Australia,Heard Island and McDonald Islands Marine Reserve,Q1592370,6,3,2,marine reserve of Australia,Heard Island and McDonald Islands Commonwealth Marine Reserve|Heard Island and McDonald Islands Marine Park,Q30674761,,
+Australia,Heard Island and McDonald Islands Act 1953,Q56757567,6,3,2,"Act of the Parliament of Australia, currently registered as C2008C00326",,Q56731284,,
+Australia,Heard Island and McDonald Islands Act 1963,Q56822602,6,3,2,Act of the Parliament of Australia,,Q56731284,,
+Australia,Heard Island and McDonald Islands Act 1957,Q56828853,6,3,2,Act of the Parliament of Australia,,Q56731284,,
+Aogashima,Aogashima,Q1196636,7,0,1,"village in Tokyo, Japan",,Q4174776,,"Aogashima, Tokyo"
+Aogashima,Aogashima,Q615578,7,0,1,"island in Izu Islands, Tokyo, Japan",Aogashima Island,Q1161185,,Aogashima
+Aogashima,Hachijō dialects,Q5637049,7,0,1,Japonic dialects of disputed classification,Hachijō language|Hachijo|Hachijo language|Aogashima|Aogashima language|Hachijō|Aogashima dialects|Hachijo dialects,Q1246128|Q33742,Q5287|Q33612,Hachijō language
+Aogashima,Aogashima,Q27577450,7,0,1,volcano,,Q8072,,
+Aogashima,Aogashima Maru,Q30931800,7,0,1,cargo liner launched in 2014,IMO 9684160,Q1922243,,
+Aogashima,Aogashima Shuzo,Q24865567,7,0,1,,,Q4830453,,
+Aogashima,Aogashimasonritsu Library,Q61887374,7,0,1,"library in Tokyo To, Japan",,Q28564,,
+Aogashima,Aogashima,Q1196636,7,2,1,"village in Tokyo, Japan",,Q4174776,,"Aogashima, Tokyo"
+Aogashima,Aogashima,Q615578,7,2,1,"island in Izu Islands, Tokyo, Japan",Aogashima Island,Q1161185,,Aogashima
+Aogashima,Hachijō dialects,Q5637049,7,2,1,Japonic dialects of disputed classification,Hachijō language|Hachijo|Hachijo language|Aogashima|Aogashima language|Hachijō|Aogashima dialects|Hachijo dialects,Q1246128|Q33742,Q5287|Q33612,Hachijō language
+Aogashima,Aogashima,Q27577450,7,2,1,volcano,,Q8072,,
+Aogashima,Aogashima Maru,Q30931800,7,2,1,cargo liner launched in 2014,IMO 9684160,Q1922243,,
+Aogashima,Aogashima Shuzo,Q24865567,7,2,1,,,Q4830453,,
+Aogashima,Aogashimasonritsu Library,Q61887374,7,2,1,"library in Tokyo To, Japan",,Q28564,,
+Aogashima,island of Japan,Q17308006,7,2,2,one of the islands in Japan,,,Q23442,
+Japan,Japan,Q17,7,3,1,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan,Japanese,Q5287,7,3,1,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan,Empire of Japan,Q188712,7,3,1,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan,Tokugawa shogunate,Q205662,7,3,1,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan,Japanese Wikipedia,Q177837,7,3,1,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan,Japanese encephalitis virus,Q19838331,7,3,1,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan,kanji,Q82772,7,3,1,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan,J-pop,Q131578,7,3,1,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan,Japan,Q11014269,7,3,1,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan,Japan,Q12487377,7,3,1,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan,Japanese people,Q161652,7,3,2,East Asian ethnic group native to Japan,Japanese,Q41710,Q26764649,Japanese people
+Japan,Nippon Rinsho,Q26841908,7,3,2,scientific journal,Japanese Journal of Clinical Medicine,Q5633421,,
+Japan,mangaka,Q191633,7,3,2,person who creates manga,manga artist|Japanese comics artist,Q28640,Q715301,Manga artist
+Japan,Chinese characters,Q8201,7,3,2,"logographic writing system with Han origin used in the Sinosphere for Chinese, Japanese, Korean and traditional Vietnamese languages",Hanzi|Kanji|Hanja|Hán tự|Chữ Hán|Han characters|Chu Han|Han tu|Japanese characters|traditional Vietnamese characters|traditional Korean characters|wenzi|ven-tsee|Chinese script|sinographs|Han ideographs|Chữ Nôm|ideographic characters|sinograms|Hani,Q3953107|Q29517555|Q8192,Q8192|Q3953107,Chinese characters
+Japan,seiyū,Q622807,7,3,2,Japanese voice actor or actress,seiyuu|seiyu|Japanese voice actor/actress|Japanese vocal actor/actress|character voice|CV|voice idol,Q28640,Q2405480,Voice acting in Japan
+Japan,Honshu,Q13989,7,3,2,largest island of Japan,Honshū|Big Island|Japan|Meaco|Nipon|Nippon|Niphon|Honshu Island|Honshu I.|Meako|Hondo|Hondo Island|Hondo Is.|Hondo I.|Main Island,Q17308006,,Honshu
+Japan,Nippon Columbia,Q773717,7,3,2,Japanese record label,,Q4830453|Q2442401|Q18127,,Nippon Columbia
+Japan,Nippon Professional Baseball,Q1146127,7,3,2,baseball league representing the highest level of professional baseball in Japan,NPB|Puro Yakyu|Japanese baseball|Nippon Professional Baseball Organization|Nihon Puro-Yakyuu Kikou,Q6631808|Q15991290|Q4438121,,Nippon Professional Baseball
+Japan,Nippon,Q114926236,7,3,2,Male given name,,Q12308941,,
+Japan,The Journal of the Japanese Society of Internal Medicine,Q27711563,7,3,2,journal,Nihon Naika Gakkai Zasshi|Nippon Naika Gakkai Zasshi,Q5633421,,
+Japan,rhenium,Q737,7,3,2,chemical element with symbol Re and atomic number 75,Re|element 75|75Re|nipponium,Q11344,,Rhenium
+Japan,Nippon Ganka Gakkai zasshi,Q27708808,7,3,2,scientific journal,Nippon Ganka Gakkai Zasshi,Q5633421,,
+Japan,Nihon,Q42933620,7,3,2,genus of plants,,Q16521,,Nihon (plant)
+Japan,Nihon,Q63453905,7,3,2,family name,,Q101352,,
+Japan,Nihon Tarento Meikan,Q11506585,7,3,2,profile index of Japanese entertainment related individuals,,Q1787111|Q35127,,Nihon Tarento Meikan
+Japan,Nihon Shokakibyo Gakkai zasshi,Q26842051,7,3,2,scientific journal,Nihon Shōkakibyō Gakkai zasshi|The Japanese Journal of Gastroenterology,Q5633421,,
+Japan,Nihon University,Q1326230,7,3,2,"private, higher education institution in Japan",Nihon Daigaku,Q902104,,Nihon University
+Japan,Nihon Jibiinkoka Gakkai kaiho,Q27711681,7,3,2,scientific journal,Nihon Jibiinkoka Gakkai Kaiho|Nippon Jibiinkoka Gakkai Kaiho,Q5633421,,
+La Gomera,La Gomera,Q105967,8,0,1,One of the main islands of the Canary archipelago,,Q1161185,,La Gomera
+La Gomera,La Gomera,Q2608473,8,0,1,"municipality of Escuintla Department, Guatemala",,Q1872284,,"La Gomera, Escuintla"
+La Gomera,La Gomera Airport,Q604275,8,0,1,airport,GMZ|GCGM|LA GOMERA,Q1248784|Q94993988,,La Gomera Airport
+La Gomera,La Gomera,Q21480764,8,0,1,Senate constituency in Spain,,Q192611,,La Gomera (Senate constituency)
+La Gomera,La Gomera,Q6462787,8,0,1,"La Gomera is a Spanish Denominación de Origen Protegida (DOP) for wines that covers the entire island of La Gomera (Canary Islands, Spain)",DOP La Gomera,Q3139487|Q158454,,La Gomera (DO)
+La Gomera,La Gomera,Q48851511,8,0,1,,,Q192611,,La Gomera (Parliament of the Canary Islands constituency)
+La Gomera,La Gomera,Q20600940,8,0,1,village in Cuba,,Q486972,,
+La Gomera,SL-A 159,Q108128629,8,0,1,"approved local hiking trail of Andalusia, Spain",La Gomera|SL-A 159 — La Gomera,Q2143825|Q11948177,,
+La Gomera,La Gomera,Q115628231,8,0,1,,,Q115625328,,
+La Gomera,La Gomera giant lizard,Q2309290,8,0,1,species of reptile,Gallotia bravoana,Q16521|Q763978,,La Gomera giant lizard
+La Gomera,Santa Cruz de Tenerife,Q14328,8,0,2,"municipality in Canary Islands, Spain","Santa Cruz, Tenerife|Santa Cruz",Q2074737,,Santa Cruz de Tenerife
+La Gomera,Santa Cruz de Tenerife,Q24014650,8,0,2,"innhabited place in Santa Cruz de Tenerife, Spain",,Q2264924|Q1549591|Q121289819,,
+La Gomera,Santa Cruz de Tenerife Province,Q99976,8,0,2,province of Spain in the Canary Islands,Province of Santa Cruz de Tenerife,Q162620,,Province of Santa Cruz de Tenerife
+La Gomera,Santa Cruz de Tenerife,Q7419451,8,0,2,electoral district of the Spanish Congress of Deputies,,Q20220333,,Santa Cruz de Tenerife (Congress of Deputies constituency)
+La Gomera,Santa Cruz de Tenerife,Q88182628,8,0,2,electoral district of the Second Spanish Republic,,Q32984849,,
+La Gomera,Santa Cruz de Tenerife,Q32979615,8,0,2,former Spanish electoral district in the province of Canary Islands (1876-1923),,Q32963407,,
+La Gomera,Santa Cruz de Tenerife,Q59519193,8,0,2,painting by York Wilson,,Q3305213,,
+La Gomera,Santa Cruz de Tenerife,Q115628286,8,0,2,,,Q115625328,,
+La Gomera,Santa Cruz de Tenerife City Council,Q5714931,8,0,2,,,Q22996476,,
+La Gomera,Port of Santa Cruz de Tenerife,Q668057,8,0,2,"port in Santa Cruz de Tenerife, Canary Islands, Spain",Santa Cruz de Tenerife Port,Q44782,,Port of Santa Cruz de Tenerife
+La Gomera,Tenerife Province,Q7699712,8,0,2,historic province in Colombia,,,,Tenerife Province (Colombia)
+La Gomera,Tenerife Province,Q7699711,8,0,2,Wikimedia disambiguation page,,Q4167410,,Tenerife Province
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife Province,Q99976,8,2,1,province of Spain in the Canary Islands,Province of Santa Cruz de Tenerife,Q162620,,Province of Santa Cruz de Tenerife
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q14328,8,2,2,"municipality in Canary Islands, Spain","Santa Cruz, Tenerife|Santa Cruz",Q2074737,,Santa Cruz de Tenerife
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q24014650,8,2,2,"innhabited place in Santa Cruz de Tenerife, Spain",,Q2264924|Q1549591|Q121289819,,
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q7419451,8,2,2,electoral district of the Spanish Congress of Deputies,,Q20220333,,Santa Cruz de Tenerife (Congress of Deputies constituency)
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q88182628,8,2,2,electoral district of the Second Spanish Republic,,Q32984849,,
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q32979615,8,2,2,former Spanish electoral district in the province of Canary Islands (1876-1923),,Q32963407,,
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q59519193,8,2,2,painting by York Wilson,,Q3305213,,
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife,Q115628286,8,2,2,,,Q115625328,,
+Santa Cruz de Tenerife Province,Santa Cruz de Tenerife City Council,Q5714931,8,2,2,,,Q22996476,,
+Santa Cruz de Tenerife Province,Port of Santa Cruz de Tenerife,Q668057,8,2,2,"port in Santa Cruz de Tenerife, Canary Islands, Spain",Santa Cruz de Tenerife Port,Q44782,,Port of Santa Cruz de Tenerife
+Santa Cruz de Tenerife Province,Tenerife Province,Q7699712,8,2,2,historic province in Colombia,,,,Tenerife Province (Colombia)
+Santa Cruz de Tenerife Province,Tenerife Province,Q7699711,8,2,2,Wikimedia disambiguation page,,Q4167410,,Tenerife Province
+Spain,Spain,Q29,8,3,1,country in southwestern Europe with territories in Africa,Kingdom of Spain,Q3624078|Q1250464|Q6256|Q51576574|Q179671,,Spain
+Spain,Spain,Q16932431,8,3,1,family name,,Q101352,,Spain (surname)
+Spain,Spain men's national football team,Q42267,8,3,1,men's national association football team representing Spain,The Red Fury|The Fury|The Red One|The Spanish Fury|La Furia Roja|La Furia|La Roja|La Furia Española|Spain|Spanish national team|Spain futbol team|Spain national football team|Spanish national association football team|Spain men's national association football team,Q135408445,Q1194951,Spain national football team
+Spain,Second Spanish Republic,Q178038,8,3,1,"political regime established in Spain between April 14, 1931 and April 1, 1939",Spain,Q11514315|Q7270|Q3024240|Q859563,,Second Spanish Republic
+Spain,New Spain,Q170603,8,3,1,viceroyalty of the Spanish Empire (1535-1821),Viceroyalty of New Spain|Nueva España|Nueva Espana|Spanish Mexico|Spanish Central America|Spanish America|Colonial Mexico|Colonial Central America|Mexico under Spain|Central America under Spain|Spain|Kingdom of Mexico,Q20203507,,New Spain
+Spain,Spain under the Restoration,Q1044536,8,3,1,"name given to a period between 1874 (end of First Spanish Republic) and 1931 (start of the Second Spanish Republic), and the state of Spain during that time",Restoration|Bourbon Restoration|Second Bourbon Restoration|Kingdom of Spain|Spain|Restoration (Spain),Q3624078|Q3024240|Q11514315,,Restoration (Spain)
+Spain,Spain,Q16254367,8,3,1,constituency of the European Parliament,,Q2631496,,Spain (European Parliament constituency)
+Spain,Kingdom of Spain,Q3399982,8,3,1,1700–1873 historical period in Spain,Spain|Bourbon Spain,Q11514315|Q3024240,,
+Spain,Hispanic Monarchy,Q766543,8,3,1,"(1479-1716) set of territories distributed throughout the world, which were governed equally by the Spanish monarch and corresponding to the period of the House of Habsburg",Kingdom of the Spains|Spain|Crown of Spain|Hispanic Crown|Spains|Kingdom of Spains,Q3024240|Q59104206|Q4835091,,Hispanic Monarchy (political entity)
+Spain,Spain Rodriguez,Q621791,8,3,1,American comix artist (1940–2012),Manuel Rodriguez,Q5,,Spain Rodriguez
+Spain,Spain under Joseph Bonaparte,Q1709185,8,3,2,Napoleonic client state (1808–1813),Napoleonic Spain|Spain|Kingdom of Spain,Q417175|Q26879763,,Spain under Joseph Bonaparte
+Spain,Kingdom of Spain (1820-1823),Q238809,8,3,2,1820–1823 Spanish political period,Kingdom of Spain|Spain|Trienio Liberal,Q11514315|Q3024240,,Trienio Liberal
+Spain,Kingdom of Spain,Q15238138,8,3,2,from 1814 to 1833,Spain,Q11514315|Q3024240|Q164950,,Reign of Ferdinand VII of Spain
+Spain,Ominous Decade,Q2378204,8,3,2,"period in the history of Spain, corresponding to the second restoration of absolutism at the end of the reign of Fernando VII from August 31, 1823 to September 29, 1833",second restoration of absolutism|Kingdom of Spain|Spain,Q11514315,,Ominous Decade
+Spain,reign of Amadeo I of Spain,Q6104643,8,3,2,(1871-1873),Kingdom of Spain|Spain,Q1250464|Q584683,,
+Spain,Absolutist Sexennium,Q63550523,8,3,2,period of history of Spain (1814-1820),Reino de España|Kingdom of Spain|absolutist sexennium,Q11514315,,
+Volcano Island,Volcano Island,Q3562734,9,0,1,volcanic island of Taal Volcano in the Philippines,Taal Volcano Island,Q1161185|Q1368970,,
+Volcano Island,Ritter Island,Q2065684,9,0,1,volcanic island in Papua New Guinea,Volcano Island,Q1161185,,Ritter Island
+Volcano Island,Volcano Island,Q114540402,9,0,1,episode of The Replacements (S2 E5),,Q21191270,,
+Volcano Island,Volcano Island,Q114549635,9,0,1,episode of Inspector Gadget (S1 E15),,Q21191270,,
+Volcano Island,Volcano Islands,Q1141683,9,0,1,island group,Iwo Islands,Q1402592,,Volcano Islands
+Volcano Island,"VOLCANO ISLANDS, IWO JIMA (NAID 14956)",Q67685079,9,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Volcano Island,"VOLCANO ISLANDS, IWO JIMA (NAID 14957)",Q67685083,9,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Volcano Island,Volcano Island,Q29382301,9,0,1,Wikimedia disambiguation page,Volcanic island,Q4167410,,Volcano Island
+Volcano Island,Taal Volcano,Q818475,9,0,2,active volcano in the Philippines,Mount Taal,Q159954|Q8072,,Taal Volcano
+Volcano Island,Taal Volcano Main Crater Lake,Q85804826,9,0,2,lake inside the main crater of Taal Volcano. The formation of the lake is unknown but possibly filled with rainwater accumulated over the years. The Main Crater Lake had disappeared after the 2020 Taal Volcano eruption,Main Crater Lake|Yellow Lake,Q204324,,Taal Volcano Main Crater Lake
+Batangas,Batangas City,Q1723,9,2,1,city of the Philippines and capital of the province of Batangas,"City of Batangas|Batangas City, Batangas",Q106078286|Q1549591,,Batangas City
+Batangas,Batangas,Q13744,9,2,1,province of the Philippines,Province of Batangas,Q24746,,Batangas
+Batangas,batangas,Q810717,9,2,1,,,Q124078422,Q12791,
+Batangas,Batang Asai,Q12475041,9,2,1,"district in Sarolangun Regency, Jambi Province, Indonesia",Batangasai|Kecamatan Batangasai|Batang Asai District,Q3700011,,
+Batangas,Batangas,Q85745699,9,2,1,type of Sword,,,,Batangas (sword)
+Batangas,Batangas's 3rd congressional district,Q66771387,9,2,1,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 3rd congressional district
+Batangas,Batangas's 1st congressional district,Q66771412,9,2,1,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 1st congressional district
+Batangas,Batangas's 2nd congressional district,Q66771319,9,2,1,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 2nd congressional district
+Batangas,Batangas's 4th congressional district,Q66771362,9,2,1,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 4th congressional district
+Batangas,Batangas Bay,Q810721,9,2,1,bay in the Philippines,,Q39594,,Batangas Bay
+Batangas,Volcano Island,Q3562734,9,2,2,volcanic island of Taal Volcano in the Philippines,Taal Volcano Island,Q1161185|Q1368970,,
+Batangas,Ritter Island,Q2065684,9,2,2,volcanic island in Papua New Guinea,Volcano Island,Q1161185,,Ritter Island
+Batangas,Volcano Island,Q114540402,9,2,2,episode of The Replacements (S2 E5),,Q21191270,,
+Batangas,Volcano Island,Q114549635,9,2,2,episode of Inspector Gadget (S1 E15),,Q21191270,,
+Batangas,Volcano Islands,Q1141683,9,2,2,island group,Iwo Islands,Q1402592,,Volcano Islands
+Batangas,"VOLCANO ISLANDS, IWO JIMA (NAID 14956)",Q67685079,9,2,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Batangas,"VOLCANO ISLANDS, IWO JIMA (NAID 14957)",Q67685083,9,2,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Batangas,Volcano Island,Q29382301,9,2,2,Wikimedia disambiguation page,Volcanic island,Q4167410,,Volcano Island
+Batangas,Philippines,Q928,9,2,2,archipelagic country in Southeast Asia,Republic of the Philippines|The Philippines|Philippine Islands|RP,Q3624078|Q11815167|Q6256|Q112099,,Philippines
+Batangas,National Historical Commission of the Philippines,Q2652138,9,2,2,Philippine government agency,NHCP|Philippines Historical Research and Markers Committee|PHRMC|Historical Research and Markers Committee|HRMC|Philippines Historical Committee|PHC|National Historical Commission|NHC|National Historical Institute|NHI,Q327333|Q5774403,,National Historical Commission of the Philippines
+Batangas,National Historical Commission of the Philippines historical marker,Q21562164,9,2,2,commemorative plaque or set of commemorative plaques created by the National Historical Commission of the Philippines or any of its predecessors,NHCP historical marker|National Historical Institute historical marker|NHI historical marker|Philippines Historical Committee historical marker|PHC historical marker|Philippine Historical Research and Markers Committee historical marker|PHRMC historical marker|HRMC historical marker,,Q721747,Historical markers of the Philippines
+Batangas,Member of the Senate of the Philippines,Q18579098,9,2,2,,Philippine Senator|Philippines Senator|Senator of the Philippines,Q4164871,Q15686806,
+Batangas,Philippines men's national association football team,Q219854,9,2,2,men's national association football team representing the Philippines,Filipino national football team|Azkals|Philippines national football team|Philippines men's national football team,Q135408445,Q1194951,Philippines national football team
+Batangas,Captaincy General of the Philippines,Q2721139,9,2,2,1565–1898 territory of the Spanish Empire in Asia,Capitanía General de las Filipinas|Capitania General de las Filipinas|Spanish Philippines|Philippines under Spanish rule,Q5036886|Q133156,,Captaincy General of the Philippines
+Batangas,2019 Southeast Asian Games,Q3550424,9,2,2,30th Southeast Asian Games held in Philippines,Philippines 2019|2019 SEA Games,Q167170,,2019 SEA Games
+Batangas,Congress of the Philippines,Q1542985,9,2,2,bicameral legislature of the Republic of the Philippines,Philippine Congress|Philippines Congress|Philippine legislature,Q189445,,Congress of the Philippines
+Batangas,sports in the Philippines,Q7579511,9,2,2,overview of sports tradition in the Philippines,sport in the Philippines|Philippines sports|sports of the Philippines|sporting in the Philippines,Q29791211,Q166291,Sports in the Philippines
+Batangas,Philippines women's national football team,Q933074,9,2,2,national association football team,Filipinas|Philippine women's national football team|Filipino women's national football team,Q23905105,Q1194951,Philippines women's national football team
+Philippines,Philippines,Q928,9,3,1,archipelagic country in Southeast Asia,Republic of the Philippines|The Philippines|Philippine Islands|RP,Q3624078|Q11815167|Q6256|Q112099,,Philippines
+Philippines,National Historical Commission of the Philippines,Q2652138,9,3,1,Philippine government agency,NHCP|Philippines Historical Research and Markers Committee|PHRMC|Historical Research and Markers Committee|HRMC|Philippines Historical Committee|PHC|National Historical Commission|NHC|National Historical Institute|NHI,Q327333|Q5774403,,National Historical Commission of the Philippines
+Philippines,National Historical Commission of the Philippines historical marker,Q21562164,9,3,1,commemorative plaque or set of commemorative plaques created by the National Historical Commission of the Philippines or any of its predecessors,NHCP historical marker|National Historical Institute historical marker|NHI historical marker|Philippines Historical Committee historical marker|PHC historical marker|Philippine Historical Research and Markers Committee historical marker|PHRMC historical marker|HRMC historical marker,,Q721747,Historical markers of the Philippines
+Philippines,Member of the Senate of the Philippines,Q18579098,9,3,1,,Philippine Senator|Philippines Senator|Senator of the Philippines,Q4164871,Q15686806,
+Philippines,Philippines men's national association football team,Q219854,9,3,1,men's national association football team representing the Philippines,Filipino national football team|Azkals|Philippines national football team|Philippines men's national football team,Q135408445,Q1194951,Philippines national football team
+Philippines,Captaincy General of the Philippines,Q2721139,9,3,1,1565–1898 territory of the Spanish Empire in Asia,Capitanía General de las Filipinas|Capitania General de las Filipinas|Spanish Philippines|Philippines under Spanish rule,Q5036886|Q133156,,Captaincy General of the Philippines
+Philippines,2019 Southeast Asian Games,Q3550424,9,3,1,30th Southeast Asian Games held in Philippines,Philippines 2019|2019 SEA Games,Q167170,,2019 SEA Games
+Philippines,Congress of the Philippines,Q1542985,9,3,1,bicameral legislature of the Republic of the Philippines,Philippine Congress|Philippines Congress|Philippine legislature,Q189445,,Congress of the Philippines
+Philippines,sports in the Philippines,Q7579511,9,3,1,overview of sports tradition in the Philippines,sport in the Philippines|Philippines sports|sports of the Philippines|sporting in the Philippines,Q29791211,Q166291,Sports in the Philippines
+Philippines,Philippines women's national football team,Q933074,9,3,1,national association football team,Filipinas|Philippine women's national football team|Filipino women's national football team,Q23905105,Q1194951,Philippines women's national football team
+Philippines,Volcano Island,Q3562734,9,3,2,volcanic island of Taal Volcano in the Philippines,Taal Volcano Island,Q1161185|Q1368970,,
+Philippines,Ritter Island,Q2065684,9,3,2,volcanic island in Papua New Guinea,Volcano Island,Q1161185,,Ritter Island
+Philippines,Volcano Island,Q114540402,9,3,2,episode of The Replacements (S2 E5),,Q21191270,,
+Philippines,Volcano Island,Q114549635,9,3,2,episode of Inspector Gadget (S1 E15),,Q21191270,,
+Philippines,Volcano Islands,Q1141683,9,3,2,island group,Iwo Islands,Q1402592,,Volcano Islands
+Philippines,"VOLCANO ISLANDS, IWO JIMA (NAID 14956)",Q67685079,9,3,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Philippines,"VOLCANO ISLANDS, IWO JIMA (NAID 14957)",Q67685083,9,3,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Philippines,Volcano Island,Q29382301,9,3,2,Wikimedia disambiguation page,Volcanic island,Q4167410,,Volcano Island
+Philippines,Batangas City,Q1723,9,3,2,city of the Philippines and capital of the province of Batangas,"City of Batangas|Batangas City, Batangas",Q106078286|Q1549591,,Batangas City
+Philippines,Batangas,Q13744,9,3,2,province of the Philippines,Province of Batangas,Q24746,,Batangas
+Philippines,batangas,Q810717,9,3,2,,,Q124078422,Q12791,
+Philippines,Batang Asai,Q12475041,9,3,2,"district in Sarolangun Regency, Jambi Province, Indonesia",Batangasai|Kecamatan Batangasai|Batang Asai District,Q3700011,,
+Philippines,Batangas,Q85745699,9,3,2,type of Sword,,,,Batangas (sword)
+Philippines,Batangas's 3rd congressional district,Q66771387,9,3,2,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 3rd congressional district
+Philippines,Batangas's 1st congressional district,Q66771412,9,3,2,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 1st congressional district
+Philippines,Batangas's 2nd congressional district,Q66771319,9,3,2,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 2nd congressional district
+Philippines,Batangas's 4th congressional district,Q66771362,9,3,2,House of Representatives of the Philippines legislative district,,Q96020121,,Batangas's 4th congressional district
+Philippines,Batangas Bay,Q810721,9,3,2,bay in the Philippines,,Q39594,,Batangas Bay
+Philippines,Insular Government of the Philippine Islands,Q6042084,9,3,2,1901–1935 US territory of the Philippines,McKinley Islands|Philippine Islands,Q7188|Q1352230|Q19953632,,Insular Government of the Philippine Islands
+Philippines,list of islands of the Philippines,Q2389438,9,3,2,Wikimedia list article,Philippine islands|islands of the Philippines|Islands of the Philippines,Q13406463,,List of islands of the Philippines
+Philippines,Philippines Campaign,Q696462,9,3,2,"Japanese invasion of the Philippines, fought 8 December 1941 – 8 May 1942",Battle of the Philippines|Philippine Islands Campaign|Philippine Campaign|Japanese invasion of the Philippines,Q831663,,Philippines campaign (1941–1942)
+Philippines,Philippine Islands,Q49695034,9,3,2,"hills in Dewey Marsh, Wisconsin",,Q54050,,
+Philippines,"Philippine Islands Council, Boy Scouts of America",Q24534794,9,3,2,local council of Scouting America,,,,Philippine Islands Council (Boy Scouts of America)
+Philippines,Philippine Islands (NAID 542445),Q64331048,9,3,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Philippines,PHILIPPINE ISLANDS ACTIVITIES (NAID 13743),Q67672572,9,3,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Philippines,"PHILIPPINE ISLANDS INVASION, OFF LEYTE GULF (NAID 16420)",Q67693374,9,3,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Philippines,"PHILIPPINE ISLANDS INVASION, LEYTE (NAID 16421)",Q67693380,9,3,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Maui,Maui County,Q111409,10,0,1,"county in Hawaii, United States","Maui County, Hawaii|Maui|County of Maui|Maui County, HI|Maui County, Hawaiʻi",Q13410431,,"Maui County, Hawaii"
+Maui,Maui,Q188705,10,0,1,"second-largest of the Hawaiian Islands, in the United States",Island of Maui,Q1161185|Q23442,,Maui
+Maui,Maui,Q120810567,10,0,1,2016 video game,,Q7889,,
+Maui,Maui,Q122979812,10,0,1,given name,Mauī,Q202444,,
+Maui,Māui,Q1791456,10,0,1,Polynesian mythological hero and trickster,Maui,Q178885|Q466470|Q902180,,Māui
+Maui,Mauidrillia,Q3716815,10,0,1,genus of molluscs,,Q16521,,Mauidrillia
+Maui,Maui Mallard in Cold Shadow,Q2642154,10,0,1,1995 video game,Donald in Maui Mallard,Q7889,,Maui Mallard in Cold Shadow
+Maui,Maui,Q24455661,10,0,1,Disney character from Moana,Maui (Moana),Q64767588|Q15711870|Q30174902,,Maui (Moana)
+Maui,Māui,Q138011118,10,0,1,given name,,Q202444,,
+Maui,Mauisaurus,Q2712887,10,0,1,genus of reptiles (fossil),,Q23038290,,Mauisaurus
+Maui,"2020 COVID-19 pandemic in Maui County, Hawaii",Q94286656,10,0,2,"pandemic in Maui County, Hawaii","2020 coronavirus outbreak in Maui County, Hawaii|COVID-19 pandemic in Maui County, Hawaii|2020 Maui County, Hawaii COVID-19 pandemic|Maui County, Hawaii COVID-19 pandemic|2020 COVID pandemic in Maui County, Hawaii",Q3241045,,
+Maui,Maui Fair,Q112057625,10,0,2,,Maui County Fair,Q13930359,,
+Maui,Maui County Fairgrounds,Q49522786,10,0,2,park in the United States of America,,Q22698,,
+Maui,Maui County Council,Q121536366,10,0,2,,,,,Maui County Council
+Maui,Maui County Police Department,Q6792372,10,0,2,,,Q861951,,
+Maui,Mauians,Q114840442,10,0,2,"natives or inhabitants of Maui, Hawaii","Maui residents|Maui inhabitants|Maui, Hawaii, residents",Q33829,Q100713424|Q22947,
+Maui County,Maui County,Q111409,10,2,1,"county in Hawaii, United States","Maui County, Hawaii|Maui|County of Maui|Maui County, HI|Maui County, Hawaiʻi",Q13410431,,"Maui County, Hawaii"
+Maui County,"2020 COVID-19 pandemic in Maui County, Hawaii",Q94286656,10,2,1,"pandemic in Maui County, Hawaii","2020 coronavirus outbreak in Maui County, Hawaii|COVID-19 pandemic in Maui County, Hawaii|2020 Maui County, Hawaii COVID-19 pandemic|Maui County, Hawaii COVID-19 pandemic|2020 COVID pandemic in Maui County, Hawaii",Q3241045,,
+Maui County,Maui Fair,Q112057625,10,2,1,,Maui County Fair,Q13930359,,
+Maui County,Maui County Fairgrounds,Q49522786,10,2,1,park in the United States of America,,Q22698,,
+Maui County,Maui County Council,Q121536366,10,2,1,,,,,Maui County Council
+Maui County,Maui County Police Department,Q6792372,10,2,1,,,Q861951,,
+United States of America,United States,Q30,10,3,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,10,3,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,10,3,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,10,3,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,10,3,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,10,3,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,10,3,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,10,3,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,10,3,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,10,3,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States Census Bureau,Q637413,10,3,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+United States of America,Mexico,Q96,10,3,2,country in North America,Mexican United States|Mexican Republic|US of M|United States of Mexico|mx|United Mexican States|MXN,Q3624078|Q6256|Q6266,,Mexico
+United States of America,United States dollar,Q4917,10,3,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States of America,National Gallery of Art,Q214867,10,3,2,"national art museum in Washington, D.C.","Mellon Gallery of Art|National Art Gallery (U.S.)|United States. National Gallery of Art|National Gallery|National Gallery of Art (U.S.)|National Gallery of Art (Washington, D.C.)|National Gallery of Art (Washington D.C.)|U.S. National Gallery of Art|US National Gallery of Art|National Gallery of Art",Q3844310|Q2085381|Q163740|Q20857065|Q221096,,National Gallery of Art
+United States of America,Republican Party,Q29468,10,3,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+United States of America,Democratic Party,Q29552,10,3,2,American political party,Democrats|Democrat|Democratic Party (United States)|Dems|Democratic Party of the United States|United States Democratic Party|US Democratic Party|U.S. Democratic Party|The Democrats,Q7278,,Democratic Party (United States)
+United States of America,National Institute for Occupational Safety and Health,Q60346,10,3,2,United States government research agency for preventing work-related health and safety problems,NIOSH|National Institute of Occupational Safety and Health|N.I.O.S.H.|U.S. Bureau of Occupational Safety and Health|United States Bureau of Occupational Safety and Health|Bureau of Occupational Safety and Health,Q20857065,,National Institute for Occupational Safety and Health
+United States of America,Supreme Court of the United States,Q11201,10,3,2,highest court of jurisdiction in the United States of America,SCOTUS|Supreme Court|United States Supreme Court|US Supreme Court|U.S. Supreme Court|Supreme Court of the U.S.|Article 3 Court|Article III Court|Article Three Court|Supreme Court of the United States of America,Q190752|Q119173073|Q4663903,,Supreme Court of the United States
+United States of America,National Register of Historic Places,Q3719,10,3,2,federal list of historic sites in the United States,NRHP|United States National Register of Historic Places|US NRHP|U.S. NRHP|U.S. National Register of Historic Places,Q15097084|Q22222786,,National Register of Historic Places
+United States of America,USA Network,Q248713,10,3,2,American cable television channel,USA,Q5009242,,USA Network
+United States of America,United States Army,Q9212,10,3,2,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+United States of America,USA,Q2195271,10,3,2,1975 live album by King Crimson,,Q482994,,USA (King Crimson album)
+United States of America,Usa,Q6476962,10,3,2,"river in Belarus, upper right-side tributary of the Neman",Уса|Вуса,Q4022,,
+United States of America,Usa,Q12523556,10,3,2,"village in Bone Regency, South Sulawesi, Indonesia",,Q26211545,,
+United States of America,Usa,Q6543186,10,3,2,village in Belarus,,Q65661087,,
+United States of America,Usain Bolt,Q1189,10,3,2,Jamaican sprinter,,Q5,,Usain Bolt
+United States of America,American English,Q7976,10,3,2,set of dialects of the English language spoken in the United States,English (United States)|United States English|U.S. English|US English|AmE|USA English,Q951873|Q33742|Q33384,Q7053766,American English
+Anjouan,Anjouan,Q231324,11,0,1,island and administrative unit in the Comoros,,Q20732232|Q1161185,,Anjouan
+Anjouan,Anjouanella,Q18093072,11,0,1,genus of arachnids,,Q16521,,
+Anjouan,Anjouanella comorensis,Q2109918,11,0,1,species of arachnid,,Q16521,,
+Anjouan,Anjouan Scops Owl,Q551513,11,0,1,species of bird,Otus capnodes,Q16521,,Anjouan scops owl
+Anjouan,Anjouan myotis,Q1834144,11,0,1,species of mammal,Myotis anjouanensis,Q16521,,Anjouan myotis
+Anjouan,Nesillas longicaudata,Q2668509,11,0,1,species of bird,Anjouan Brush Warbler,Q16521,,Anjouan brush warbler
+Anjouan,Anjouan Sunbird,Q1930686,11,0,1,species of bird,Cinnyris comorensis|Necterinia comorensis,Q16521,,Anjouan sunbird
+Anjouan,2008 Anjouan presidential election,Q4765863,11,0,1,,"Anjouan presidential election, 2008",Q858439,,2008 Anjouan presidential election
+Anjouan,flag of Anjouan,Q770667,11,0,1,flag,Anjouan flag,Q22807280,,Flag of Anjouan
+Anjouan,Ellisia longicaudata,Q28866601,11,0,1,species of bird,Anjouan Brush Warbler,Q16521,,
+Anjouan,Comoros,Q970,11,0,2,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Anjouan,Comoros Islands,Q634740,11,0,2,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Anjouan,Comoros men's national football team,Q497637,11,0,2,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Anjouan,Comoros,Q12957945,11,0,2,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Anjouan,Comoros,Q28554201,11,0,2,painting by Fred Wilson,,Q3305213,,
+Anjouan,Comoros Premier League,Q868588,11,0,2,sports league,,Q623109,Q3270632,Comoros Premier League
+Anjouan,Comoros at the Olympics,Q435960,11,0,2,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Anjouan,Comoros Football Federation,Q868584,11,0,2,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Anjouan,COMOROS: Cabinet Sworn In,Q114566751,11,0,2,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Anjouan,Geography of the Comoros,Q2088599,11,0,2,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Anjouan,Union of the Comoros: 2018 Article IV Consultation-Press Release; Staff Report; and Statement by the Executive Director for the Union of the Comoros,Q129429778,11,0,2,scholarly article,,Q13442814,,
+Anjouan,Union of the Comoros: Selected Issues,Q129429963,11,0,2,scholarly article,,Q13442814,,
+Comoros,Comoros,Q970,11,2,1,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Comoros,Comoros Islands,Q634740,11,2,1,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Comoros,Comoros men's national football team,Q497637,11,2,1,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Comoros,Comoros,Q12957945,11,2,1,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Comoros,Comoros,Q28554201,11,2,1,painting by Fred Wilson,,Q3305213,,
+Comoros,Comoros Premier League,Q868588,11,2,1,sports league,,Q623109,Q3270632,Comoros Premier League
+Comoros,Comoros at the Olympics,Q435960,11,2,1,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Comoros,Comoros Football Federation,Q868584,11,2,1,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Comoros,COMOROS: Cabinet Sworn In,Q114566751,11,2,1,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Comoros,Geography of the Comoros,Q2088599,11,2,1,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Comoros,Anjouan,Q231324,11,2,2,island and administrative unit in the Comoros,,Q20732232|Q1161185,,Anjouan
+Comoros,Anjouanella,Q18093072,11,2,2,genus of arachnids,,Q16521,,
+Comoros,Anjouanella comorensis,Q2109918,11,2,2,species of arachnid,,Q16521,,
+Comoros,Anjouan Scops Owl,Q551513,11,2,2,species of bird,Otus capnodes,Q16521,,Anjouan scops owl
+Comoros,Anjouan myotis,Q1834144,11,2,2,species of mammal,Myotis anjouanensis,Q16521,,Anjouan myotis
+Comoros,Nesillas longicaudata,Q2668509,11,2,2,species of bird,Anjouan Brush Warbler,Q16521,,Anjouan brush warbler
+Comoros,Anjouan Sunbird,Q1930686,11,2,2,species of bird,Cinnyris comorensis|Necterinia comorensis,Q16521,,Anjouan sunbird
+Comoros,2008 Anjouan presidential election,Q4765863,11,2,2,,"Anjouan presidential election, 2008",Q858439,,2008 Anjouan presidential election
+Comoros,flag of Anjouan,Q770667,11,2,2,flag,Anjouan flag,Q22807280,,Flag of Anjouan
+Comoros,Ellisia longicaudata,Q28866601,11,2,2,species of bird,Anjouan Brush Warbler,Q16521,,
+Comoros,Comoros,Q970,11,3,1,sovereign state situated on an archipelago in the Indian Ocean off the eastern coast of Africa,Juzur al-Qumur|Juzur al-Qamar|Union of the Comoros|Udzima wa Komori|Union des Comores|al-Ittiḥād al-Qumurī|km|Massiwa ya komori|ouvoimoja wakomori|the Comoros,Q6256|Q3624078|Q112099|Q11815167,,Comoros
+Comoros,Comoros Islands,Q634740,11,3,1,archipelago in the Indian Ocean,Comoro Islands|Comoros,Q33837|Q1402592,,Comoro Islands
+Comoros,Comoros men's national football team,Q497637,11,3,1,national association football team,Comoros national football team|Comoros national association football team|Comoros men's national association football team,Q135408445,Q1194951,Comoros national football team
+Comoros,Comoros,Q12957945,11,3,1,Designation for the inhabitants of the Comoros,,Q1969448,Q33829,
+Comoros,Comoros,Q28554201,11,3,1,painting by Fred Wilson,,Q3305213,,
+Comoros,Comoros Premier League,Q868588,11,3,1,sports league,,Q623109,Q3270632,Comoros Premier League
+Comoros,Comoros at the Olympics,Q435960,11,3,1,country entered in olympic games,,Q26213387,,Comoros at the Olympics
+Comoros,Comoros Football Federation,Q868584,11,3,1,governing body of association football in the Comoros,FFC,Q1478443|Q163740,,Comoros Football Federation
+Comoros,COMOROS: Cabinet Sworn In,Q114566751,11,3,1,"Africa Research Bulletin Article, October 2021",,Q191067,,
+Comoros,Geography of the Comoros,Q2088599,11,3,1,Overview of the Geography of the Comoros,Comoros geography,Q46865913,Q781650,Geography of the Comoros
+Comoros,Anjouan,Q231324,11,3,2,island and administrative unit in the Comoros,,Q20732232|Q1161185,,Anjouan
+Comoros,Anjouanella,Q18093072,11,3,2,genus of arachnids,,Q16521,,
+Comoros,Anjouanella comorensis,Q2109918,11,3,2,species of arachnid,,Q16521,,
+Comoros,Anjouan Scops Owl,Q551513,11,3,2,species of bird,Otus capnodes,Q16521,,Anjouan scops owl
+Comoros,Anjouan myotis,Q1834144,11,3,2,species of mammal,Myotis anjouanensis,Q16521,,Anjouan myotis
+Comoros,Nesillas longicaudata,Q2668509,11,3,2,species of bird,Anjouan Brush Warbler,Q16521,,Anjouan brush warbler
+Comoros,Anjouan Sunbird,Q1930686,11,3,2,species of bird,Cinnyris comorensis|Necterinia comorensis,Q16521,,Anjouan sunbird
+Comoros,2008 Anjouan presidential election,Q4765863,11,3,2,,"Anjouan presidential election, 2008",Q858439,,2008 Anjouan presidential election
+Comoros,flag of Anjouan,Q770667,11,3,2,flag,Anjouan flag,Q22807280,,Flag of Anjouan
+Comoros,Ellisia longicaudata,Q28866601,11,3,2,species of bird,Anjouan Brush Warbler,Q16521,,

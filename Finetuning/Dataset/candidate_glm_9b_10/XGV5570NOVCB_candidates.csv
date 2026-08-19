@@ -1,0 +1,518 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+note,letter,Q133492,0,0,1,written message from one to another,epistle|✉|note|message|mail|written letter|written correspondence|postal mail,Q223393|Q4263830,Q49848|Q2267856|Q47461344|Q2106340,Letter (message)
+note,banknote,Q47433,0,0,1,form of physical currency made of paper or polymer,bill|paper money|note|paper currency|bank note|banknotes|bank notes,Q483394,Q693464|Q11060274|Q114794799|Q838948|Q2342494,Banknote
+note,Note,Q37520494,0,0,1,family name,,Q101352,,
+note,Notes and Records of the Royal Society,Q7062588,0,0,1,academic journal,Royal Society of London. Notes and Records|Notes and records of the Royal Society of London,Q627517,,Notes and Records
+note,note sign,Q263478,0,0,1,sign used in musical notation to describe a pitched sound (frequency + duration),musical note|music note,Q115211517,Q3241972|Q151411,Musical note
+note,annotation,Q857525,0,0,1,piece of metadata attached to a document or other entity,note|markup|annotating,Q11862829|Q1047113|Q2267705,Q180160|Q47461344,Annotation
+note,Notechis scutatus,Q1520949,0,0,1,species of snake,Notechis ater|tiger snake,Q16521,,Tiger snake
+note,Noteridae,Q639601,0,0,1,family of beetles,,Q16521,,Noteridae
+note,NOTE,Q122379579,0,0,1,2019 video game,,Q7889,,
+note,note,Q12823770,0,0,1,text placed at the bottom of a page or at the end of a chapter,footnote or endnote|footnote and endnote,,Q234460|Q857525|Q65769574,Note (typography)
+note,note inc.,Q64357771,0,0,2,Japanese company,,Q1480166|Q4830453,,
+note inc,note inc.,Q64357771,0,1,1,Japanese company,,Q1480166|Q4830453,,
+Discover,Discover Card,Q1228562,1,0,1,credit card,Discover,Q161380,Q161380,Discover Card
+Discover,heuristic,Q201413,1,0,1,"problem-solving method that is sufficient for quick, short-term solutions/approximations",discover|heuristic function|heuristics|heuristic conversation,Q131744452,Q1799072|Q8366|Q131395,Heuristic
+Discover,Discovery Channel,Q43404,1,0,1,American basic cable and satellite television channel,The Discovery Channel|Discovery|Discovery.com,Q1616075|Q5009242,,Discovery Channel
+Discover,European Film Award for European Discovery of the Year,Q1377763,1,0,1,annual European film award,European Film Award for Best Young Film|Fassbinder Award|Prix FIPRESCI|European Discovery|Discovery of the Year,Q96474686|Q223740|Q38033430,,European Film Award for European Discovery of the Year
+Discover,explorer,Q11900058,1,0,1,person who by means of travel searches out new information,discoverer,Q12737077,Q12356615|Q2873500|Q30093123,Explorer
+Discover,"Discovery, Inc.",Q621592,1,0,1,American multinational television company,Discovery Communications|Discovery,Q4830453|Q6881511|Q891723,,"Discovery, Inc."
+Discover,Discover,Q118237175,1,0,1,2021 studio album by Zucchero Fornaciari,,Q482994,,
+Discover,Discover,Q733742,1,0,1,American magazine,Discover Magazine,Q41298|Q1911105,,Discover (magazine)
+Discover,Discovery Family,Q565847,1,0,1,American pay television channel focused towards family audiences,Hub Network|Discovery Kids Channel|The Hub|Discovery Kids|Discovery Family Channel,Q721830|Q561068,,Discovery Family
+Discover,Science Channel,Q845056,1,0,1,American pay television channel owned by Warner Bros. Discovery,Discovery Science Network|Discovery Science Channel|The Science Channel,Q2001305,,Science Channel
+Discover,KDE,Q1431,1,0,2,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+Discover,KDE Gear,Q20712193,1,0,2,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+Discover,Konami Digital Entertainment,Q13403412,1,0,2,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+Discover,Kdenlive,Q572226,1,0,2,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+Discover,kernel density estimation,Q458825,1,0,2,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+Discover,KDE Connect,Q68374789,1,0,2,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+Discover,Dolphin,Q816725,1,0,2,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+Discover,KDE neon,Q52056988,1,0,2,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+Discover,Soprano,Q3110464,1,0,2,free software,KDE,Q166142|Q341,,Soprano (software)
+Discover,KDE Plasma,Q107664269,1,0,2,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+Discover,Discovery,Q1901313,1,0,2,2001 album by Daft Punk,,Q482994,,Discovery (Daft Punk album)
+Discover,Discovery,Q2731518,1,0,2,1979 studio album by Electric Light Orchestra,,Q482994,,Discovery (Electric Light Orchestra album)
+Discover,Discovery,Q2487075,1,0,2,2011 compilation box set by Pink Floyd,,Q482994,,Discovery (Pink Floyd box set)
+Discover,Discovery,Q5281852,1,0,2,1987 debut studio album by Shanice,,Q482994,,Discovery (Shanice album)
+Discover,Discovery,Q50809782,1,0,2,radio program and audio podcast by the BBC World Service,,Q24634210,,
+Discover,DISCOVERY,Q11320028,1,0,2,Japanese adult anime producer,DISCOVERY (Hentai Producer)|DISCOVERY (Japanese Adult Anime Producer)|DISCOVERY (Anime Label)|DISCOVERY (Adult Anime Label)|DISCOVERY (Japanese Adult Animation Producer),Q4830453,,
+Discover,Discovery,Q58373796,1,0,2,1987 video game,,Q7889,,
+Discover,discovery,Q12772819,1,0,2,act of detecting something new,,Q116505632|Q41172303,Q451967|Q37112258,Discovery (observation)
+KDE,KDE,Q1431,1,1,1,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+KDE,KDE Gear,Q20712193,1,1,1,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+KDE,Konami Digital Entertainment,Q13403412,1,1,1,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+KDE,Kdenlive,Q572226,1,1,1,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+KDE,kernel density estimation,Q458825,1,1,1,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+KDE,KDE Connect,Q68374789,1,1,1,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+KDE,Dolphin,Q816725,1,1,1,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+KDE,KDE neon,Q52056988,1,1,1,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+KDE,Soprano,Q3110464,1,1,1,free software,KDE,Q166142|Q341,,Soprano (software)
+KDE,KDE Plasma,Q107664269,1,1,1,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+KDE,K Desktop Environment,Q3241456,1,1,2,free software,,Q205020|Q341,,
+KDE,K Desktop Environment 3,Q3239184,1,1,2,Desktop Environment for Linux,KDE3,Q166142|Q205020,Q1431,K Desktop Environment 3
+KDE,K Desktop Environment 2,Q3241625,1,1,2,Free software,,Q166142|Q205020,,K Desktop Environment 2
+KDE,K Desktop Environment 1,Q116045712,1,1,2,free software,,Q205020|Q341,,K Desktop Environment 1
+KDE,KDE e.V.,Q2655191,1,1,2,Foundation behind the KDE community,,Q708676,,KDE e.V.
+KDE,KDE Projects,Q28126949,1,1,2,individual software projects within the KDE community,,Q341,,KDE Projects
+Reminders,Reminders,Q3699367,2,0,1,Stock iOS task management app,,Q14946528|Q21484471,,Reminders (Apple)
+Reminders,ReminderS,Q64215559,2,0,1,Thai TV miniseries,Reminders (Thai Miniseries),Q1259759,,Reminders (TV series)
+Reminders,Reminders,Q70059010,2,0,1,mobile application developed by Apple,com.apple.reminders,Q620615,,
+Reminders,Reminders,Q70059014,2,0,1,application developed by Apple for OS X,,Q166142,,
+Reminders,Reminders,Q66498695,2,0,1,2093rd strip of the webcomic xkcd,xkcd 2093,Q838795,,
+Reminders,Reminders Day Award,Q2142993,2,0,1,,,Q618779,,
+Reminders,Reminders of Him,Q133886934,2,0,1,2026 film directed by Vanessa Caswill,,Q11424,,Reminders of Him
+Reminders,"Reminders, Cost Sharing, and Healthcare Use",Q113921719,2,0,1,clinical trial,,Q30612,,
+Reminders,Reminders Through Association & Prescription Adherence,Q63598146,2,0,1,clinical trial,,Q30612,,
+Reminders,Reminders of media content referenced in other media content,Q119081378,2,0,1,US patent 11350173,,Q43305660,,
+Reminders,Apple Inc.,Q312,2,0,2,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Reminders,Apple media event,Q62033032,2,0,2,type of periodical livestreamed special event held by Apple Inc.,Apple spring conference|Apple Special Event|Apple spring new conference|Apple Special Events|Apple event|Apple product launch|Apple product reveal|Apple Inc. media event|Apple events,Q15275719|Q124326999,Q1457237|Q112627928|Q1900995,
+Reminders,history of Apple Inc.,Q1048090,2,0,2,aspect of history,"history of Apple|history of Apple Computer, Inc.|history of Apple Computer Inc.|history of Apple Computer|Apple Inc. history",Q140395760,,History of Apple Inc.
+Reminders,Apple Inc. litigation,Q4781184,2,0,2,overview about the litigation of Apple Inc.,Apple litigation|litigation of Apple Inc.|litigation of Apple|litigation (Apple Inc.)|litigation (Apple)|Apple Inc.'s litigation|Apple's litigation,,,Apple litigation
+Reminders,Apple Inc. advertising,Q2935440,2,0,2,overview about the advertising of Apple,,,,Apple Inc. advertising
+Reminders,Apple Inc. co-founder Steve Jobs dies aged 56,Q17601502,2,0,2,Wikinews article,,Q17633526,,
+Reminders,criticism of Apple Inc.,Q3592722,2,0,2,overview of criticism related to Apple Inc.,criticism of Apple|Apple Inc. criticism|Apple criticism,Q72044830,,Criticism of Apple Inc.
+Reminders,Apple Inc. v. Samsung Electronics Co.,Q487819,2,0,2,2016 United States Supreme Court case,,Q697327,,Apple Inc. v. Samsung Electronics Co.
+Reminders,Apple Inc. CEO Steve Jobs on medical leave,Q17712957,2,0,2,Wikinews article,,Q17633526,,
+Reminders,Apple Inc. stickers,Q135916340,2,0,2,sticker sheet of Apple Inc. logos,Apple sticker sheet|Apple logo stickers|Apple stickers,Q811701,Q184303|Q112965678,
+Reminders,Apple Records,Q213710,2,0,2,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Reminders,apple,Q89,2,0,2,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Reminders,Apple Music,Q20056642,2,0,2,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Reminders,Apple,Q26944931,2,0,2,unisex given name,,Q3409032,,
+Reminders,Apple,Q111046003,2,0,2,registered trademark owned by Apple,Apple®,Q111048186,,
+Reminders,Apple,Q1754545,2,0,2,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Reminders,Malus,Q104819,2,0,2,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Reminders,iTunes,Q9589,2,0,2,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Reminders,Malus pumila,Q158657,2,0,2,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Reminders,"Apple Computer, Inc. v. Franklin Computer Corp.",Q4781149,2,0,2,lawsuit,,Q2334719,,"Apple Computer, Inc. v. Franklin Computer Corp."
+Reminders,"Apple Computer, Inc. v. Microsoft Corporation",Q4781151,2,0,2,legal issue,Look and Feel,Q2334719,,"Apple Computer, Inc. v. Microsoft Corp."
+Reminders,"Apple Computer, Inc. v. Mackintosh Computers Ltd.; Apple Computer, Inc. v. 115778 Canada Inc.",Q125277708,2,0,2,case from the Supreme Court of Canada,"Apple Computer, Inc. v. Mackintosh Computers Ltd.",Q19930933,,"Apple Computer, Inc. v Mackintosh Computers Ltd."
+Apple,Apple Inc.,Q312,2,1,1,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Apple,Apple Records,Q213710,2,1,1,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Apple,apple,Q89,2,1,1,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Apple,Apple Music,Q20056642,2,1,1,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Apple,Apple,Q26944931,2,1,1,unisex given name,,Q3409032,,
+Apple,Apple,Q111046003,2,1,1,registered trademark owned by Apple,Apple®,Q111048186,,
+Apple,Apple,Q1754545,2,1,1,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Apple,Malus,Q104819,2,1,1,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Apple,iTunes,Q9589,2,1,1,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Apple,Malus pumila,Q158657,2,1,1,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Apple,Apple media event,Q62033032,2,1,2,type of periodical livestreamed special event held by Apple Inc.,Apple spring conference|Apple Special Event|Apple spring new conference|Apple Special Events|Apple event|Apple product launch|Apple product reveal|Apple Inc. media event|Apple events,Q15275719|Q124326999,Q1457237|Q112627928|Q1900995,
+Apple,history of Apple Inc.,Q1048090,2,1,2,aspect of history,"history of Apple|history of Apple Computer, Inc.|history of Apple Computer Inc.|history of Apple Computer|Apple Inc. history",Q140395760,,History of Apple Inc.
+Apple,Apple Inc. litigation,Q4781184,2,1,2,overview about the litigation of Apple Inc.,Apple litigation|litigation of Apple Inc.|litigation of Apple|litigation (Apple Inc.)|litigation (Apple)|Apple Inc.'s litigation|Apple's litigation,,,Apple litigation
+Apple,Apple Inc. advertising,Q2935440,2,1,2,overview about the advertising of Apple,,,,Apple Inc. advertising
+Apple,Apple Inc. co-founder Steve Jobs dies aged 56,Q17601502,2,1,2,Wikinews article,,Q17633526,,
+Apple,criticism of Apple Inc.,Q3592722,2,1,2,overview of criticism related to Apple Inc.,criticism of Apple|Apple Inc. criticism|Apple criticism,Q72044830,,Criticism of Apple Inc.
+Apple,Apple Inc. v. Samsung Electronics Co.,Q487819,2,1,2,2016 United States Supreme Court case,,Q697327,,Apple Inc. v. Samsung Electronics Co.
+Apple,Apple Inc. CEO Steve Jobs on medical leave,Q17712957,2,1,2,Wikinews article,,Q17633526,,
+Apple,Apple Inc. stickers,Q135916340,2,1,2,sticker sheet of Apple Inc. logos,Apple sticker sheet|Apple logo stickers|Apple stickers,Q811701,Q184303|Q112965678,
+Apple,iPhone,Q2766,2,1,2,line of smartphones developed and marketed by Apple Inc.,iPhone series|iPhone line|iPhone family|IPhone,Q71266741,Q301662|Q22645,IPhone
+Apple,iPhone 6,Q18010890,2,1,2,group of smartphone models produced by Apple Inc.,iPhone Six|iPhone six|Iphone 6|Apple iPhone 6,Q71266741,Q2766,IPhone 6
+Apple,iPhone 5c,Q14883923,2,1,2,"seventh-generation smartphone by Apple Inc., released in 2013",Apple iPhone 5C|Apple iPhone 5c|iPhone 5C,Q71266741,Q2766,IPhone 5c
+Apple,iPhone 6S,Q20962117,2,1,2,group of smartphone models produced by Apple Inc.,iPhone 6s|Apple iPhone 6S|Apple iPhone 6s,Q71266741,Q2766,IPhone 6s
+Apple,iPhone 3GS,Q300859,2,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 3GS,Q19723451,Q2766,IPhone 3GS
+Apple,iPhone 8,Q29480689,2,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 8,Q71266741,Q2766,IPhone 8
+Apple,iPhone 7 Plus,Q26833946,2,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 7 Plus,Q19723451,Q113627571,IPhone 7 Plus
+Apple,iPhone 12 Pro Max,Q100326646,2,1,2,2020 smartphone produced by Apple Inc.,Apple iPhone 12 Pro Max|iPhone 12 PM,Q10929058,Q100319367|Q113627554,IPhone 12 Pro Max
+Apple,iPhone 7,Q26831164,2,1,2,Tenth-generation smartphones by Apple Inc.,,Q19723451,Q2766,IPhone 7
+Apple,iPhone 5S,Q14850354,2,1,2,smartphone from Apple,Apple iPhone 5S,Q71266741,Q2766,IPhone 5s
+Apple,iPad,Q2796,2,1,2,line of tablet computers developed by Apple,,Q113990212,Q155972|Q301662,IPad
+Apple,iPad (7th generation),Q67360444,2,1,2,tablet computer developed and marketed by Apple Inc.,"seventh-generation iPad|iPad Educational|iPad 10.2-inch|iPad 10.2""",Q113990212,Q2796,IPad (7th generation)
+Apple,iPad mini,Q145761,2,1,2,line of mini tablet computers from Apple Inc.,Apple iPad Mini|Apple iPad mini|iPad Mini,Q113990212,Q2796,IPad Mini
+Apple,iPad,Q25721,2,1,2,4th generation of a tablet computer produced and marketed by Apple Inc.,iPad 4|Apple iPad (4th generation)|Apple iPad 4|iPad with Retina display,Q113990212,Q2796,IPad (4th generation)
+Apple,iPad Air,Q15092013,2,1,2,tablet PC by Apple,Apple iPad Air,Q113990212,Q18381177,IPad Air (1st generation)
+Apple,iPad 2,Q150307,2,1,2,Tablet PC by Apple,iPad (2nd generation)|Apple iPad 2|Apple iPad (2nd generation)|iPad2,Q113990168,Q2796,IPad 2
+Apple,iPad (3rd generation),Q150323,2,1,2,series of tablet computers produced by Apple,iPad 3|Apple iPad 3|The new iPad,Q113990212,Q2796,IPad (3rd generation)
+Apple,iPad mini,Q15152948,2,1,2,tablet PC by Apple,iPad Mini 1|Apple iPad Mini|Apple iPad Mini 1|Apple iPad mini|Apple iPad mini 1|iPad Mini,Q113990212,Q145761,IPad Mini (1st generation)
+Apple,iPad Mini 2,Q15093975,2,1,2,tablet PC by Apple,iPad mini 2|Apple iPad Mini 2|Apple iPad mini 2|iPad mini with Retina display|iPad Mini with Retina display,Q113990212,Q145761,IPad Mini 2
+Apple,iPad (5th generation),Q28976355,2,1,2,Tablet PC by Apple,iPad 5|Apple iPad (5th generation)|Apple iPad 5|iPad (2017),Q113990212,Q2796,IPad (5th generation)
+Photo Booth,photo booth,Q494312,3,0,1,"vending machine or modern kiosk that contains an automated, usually coin-operated, camera and film processor",photo booth rental,,Q787116|Q13226383,Photo booth
+Photo Booth,Photo Booth,Q1078773,3,0,1,Apple Inc. software application,,Q14946528|Q21484471,,Photo Booth
+Photo Booth,Photo Booth,Q70058160,3,0,1,application developed by Apple for OS X,,Q166142,,
+Photo Booth,Photo Booth,Q70058192,3,0,1,mobile application developed by Apple,com.apple.Photo-Booth,Q620615,,
+Photo Booth,passport photo,Q904029,3,0,1,photograph of a person's face for identification,photo identification|photo booth photographs|identification photographs|identity photographs|ID photographs|I.D. photographs|mugshots,,Q125191,
+Photo Booth,Photo Booth: A Graphic Novel,Q7187669,3,0,1,2010 graphic novel,,Q725377,,Photo Booth: A Graphic Novel
+Photo Booth,photo booth,Q7187687,3,0,1,Wikimedia disambiguation page,,Q4167410,,Photo booth (disambiguation)
+Photo Booth,Photo Booth Art. The Aesthetics behind the Curtain: From the Surrealists to Rainer and Warhol,Q55356515,3,0,1,exhibition,,Q29023906,,
+Photo Booth,Apple Inc.,Q312,3,0,2,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Photo Booth,Apple media event,Q62033032,3,0,2,type of periodical livestreamed special event held by Apple Inc.,Apple spring conference|Apple Special Event|Apple spring new conference|Apple Special Events|Apple event|Apple product launch|Apple product reveal|Apple Inc. media event|Apple events,Q15275719|Q124326999,Q1457237|Q112627928|Q1900995,
+Photo Booth,history of Apple Inc.,Q1048090,3,0,2,aspect of history,"history of Apple|history of Apple Computer, Inc.|history of Apple Computer Inc.|history of Apple Computer|Apple Inc. history",Q140395760,,History of Apple Inc.
+Photo Booth,Apple Inc. litigation,Q4781184,3,0,2,overview about the litigation of Apple Inc.,Apple litigation|litigation of Apple Inc.|litigation of Apple|litigation (Apple Inc.)|litigation (Apple)|Apple Inc.'s litigation|Apple's litigation,,,Apple litigation
+Photo Booth,Apple Inc. advertising,Q2935440,3,0,2,overview about the advertising of Apple,,,,Apple Inc. advertising
+Photo Booth,Apple Inc. co-founder Steve Jobs dies aged 56,Q17601502,3,0,2,Wikinews article,,Q17633526,,
+Photo Booth,criticism of Apple Inc.,Q3592722,3,0,2,overview of criticism related to Apple Inc.,criticism of Apple|Apple Inc. criticism|Apple criticism,Q72044830,,Criticism of Apple Inc.
+Photo Booth,Apple Inc. v. Samsung Electronics Co.,Q487819,3,0,2,2016 United States Supreme Court case,,Q697327,,Apple Inc. v. Samsung Electronics Co.
+Photo Booth,Apple Inc. CEO Steve Jobs on medical leave,Q17712957,3,0,2,Wikinews article,,Q17633526,,
+Photo Booth,Apple Inc. stickers,Q135916340,3,0,2,sticker sheet of Apple Inc. logos,Apple sticker sheet|Apple logo stickers|Apple stickers,Q811701,Q184303|Q112965678,
+Photo Booth,Apple Records,Q213710,3,0,2,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Photo Booth,apple,Q89,3,0,2,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Photo Booth,Apple Music,Q20056642,3,0,2,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Photo Booth,Apple,Q26944931,3,0,2,unisex given name,,Q3409032,,
+Photo Booth,Apple,Q111046003,3,0,2,registered trademark owned by Apple,Apple®,Q111048186,,
+Photo Booth,Apple,Q1754545,3,0,2,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Photo Booth,Malus,Q104819,3,0,2,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Photo Booth,iTunes,Q9589,3,0,2,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Photo Booth,Malus pumila,Q158657,3,0,2,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Photo Booth,"Apple Computer, Inc. v. Franklin Computer Corp.",Q4781149,3,0,2,lawsuit,,Q2334719,,"Apple Computer, Inc. v. Franklin Computer Corp."
+Photo Booth,"Apple Computer, Inc. v. Microsoft Corporation",Q4781151,3,0,2,legal issue,Look and Feel,Q2334719,,"Apple Computer, Inc. v. Microsoft Corp."
+Photo Booth,"Apple Computer, Inc. v. Mackintosh Computers Ltd.; Apple Computer, Inc. v. 115778 Canada Inc.",Q125277708,3,0,2,case from the Supreme Court of Canada,"Apple Computer, Inc. v. Mackintosh Computers Ltd.",Q19930933,,"Apple Computer, Inc. v Mackintosh Computers Ltd."
+Apple,Apple Inc.,Q312,3,1,1,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Apple,Apple Records,Q213710,3,1,1,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Apple,apple,Q89,3,1,1,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Apple,Apple Music,Q20056642,3,1,1,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Apple,Apple,Q26944931,3,1,1,unisex given name,,Q3409032,,
+Apple,Apple,Q111046003,3,1,1,registered trademark owned by Apple,Apple®,Q111048186,,
+Apple,Apple,Q1754545,3,1,1,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Apple,Malus,Q104819,3,1,1,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Apple,iTunes,Q9589,3,1,1,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Apple,Malus pumila,Q158657,3,1,1,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Apple,Apple media event,Q62033032,3,1,2,type of periodical livestreamed special event held by Apple Inc.,Apple spring conference|Apple Special Event|Apple spring new conference|Apple Special Events|Apple event|Apple product launch|Apple product reveal|Apple Inc. media event|Apple events,Q15275719|Q124326999,Q1457237|Q112627928|Q1900995,
+Apple,history of Apple Inc.,Q1048090,3,1,2,aspect of history,"history of Apple|history of Apple Computer, Inc.|history of Apple Computer Inc.|history of Apple Computer|Apple Inc. history",Q140395760,,History of Apple Inc.
+Apple,Apple Inc. litigation,Q4781184,3,1,2,overview about the litigation of Apple Inc.,Apple litigation|litigation of Apple Inc.|litigation of Apple|litigation (Apple Inc.)|litigation (Apple)|Apple Inc.'s litigation|Apple's litigation,,,Apple litigation
+Apple,Apple Inc. advertising,Q2935440,3,1,2,overview about the advertising of Apple,,,,Apple Inc. advertising
+Apple,Apple Inc. co-founder Steve Jobs dies aged 56,Q17601502,3,1,2,Wikinews article,,Q17633526,,
+Apple,criticism of Apple Inc.,Q3592722,3,1,2,overview of criticism related to Apple Inc.,criticism of Apple|Apple Inc. criticism|Apple criticism,Q72044830,,Criticism of Apple Inc.
+Apple,Apple Inc. v. Samsung Electronics Co.,Q487819,3,1,2,2016 United States Supreme Court case,,Q697327,,Apple Inc. v. Samsung Electronics Co.
+Apple,Apple Inc. CEO Steve Jobs on medical leave,Q17712957,3,1,2,Wikinews article,,Q17633526,,
+Apple,Apple Inc. stickers,Q135916340,3,1,2,sticker sheet of Apple Inc. logos,Apple sticker sheet|Apple logo stickers|Apple stickers,Q811701,Q184303|Q112965678,
+Apple,iPhone,Q2766,3,1,2,line of smartphones developed and marketed by Apple Inc.,iPhone series|iPhone line|iPhone family|IPhone,Q71266741,Q301662|Q22645,IPhone
+Apple,iPhone 6,Q18010890,3,1,2,group of smartphone models produced by Apple Inc.,iPhone Six|iPhone six|Iphone 6|Apple iPhone 6,Q71266741,Q2766,IPhone 6
+Apple,iPhone 5c,Q14883923,3,1,2,"seventh-generation smartphone by Apple Inc., released in 2013",Apple iPhone 5C|Apple iPhone 5c|iPhone 5C,Q71266741,Q2766,IPhone 5c
+Apple,iPhone 6S,Q20962117,3,1,2,group of smartphone models produced by Apple Inc.,iPhone 6s|Apple iPhone 6S|Apple iPhone 6s,Q71266741,Q2766,IPhone 6s
+Apple,iPhone 3GS,Q300859,3,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 3GS,Q19723451,Q2766,IPhone 3GS
+Apple,iPhone 8,Q29480689,3,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 8,Q71266741,Q2766,IPhone 8
+Apple,iPhone 7 Plus,Q26833946,3,1,2,group of smartphone models produced by Apple Inc.,Apple iPhone 7 Plus,Q19723451,Q113627571,IPhone 7 Plus
+Apple,iPhone 12 Pro Max,Q100326646,3,1,2,2020 smartphone produced by Apple Inc.,Apple iPhone 12 Pro Max|iPhone 12 PM,Q10929058,Q100319367|Q113627554,IPhone 12 Pro Max
+Apple,iPhone 7,Q26831164,3,1,2,Tenth-generation smartphones by Apple Inc.,,Q19723451,Q2766,IPhone 7
+Apple,iPhone 5S,Q14850354,3,1,2,smartphone from Apple,Apple iPhone 5S,Q71266741,Q2766,IPhone 5s
+Apple,MacBook,Q3065317,3,1,2,"lines of Apple laptops with the brand name ""MacBook""",Apple MacBook,Q811701|Q431289|Q60484681,Q75687,MacBook
+Apple,MacBook Pro,Q214276,3,1,2,line of Macintosh notebook computers first introduced in 2006,MB Pro|MBP,Q811701|Q60484681,Q3962|Q3065317|Q1183543|Q75687,MacBook Pro
+Apple,MacBook Air,Q488192,3,1,2,line of ultraportable notebook computers by Apple,,Q55990535,Q75687|Q3065317|Q2477770,MacBook Air
+Apple,MacBook,Q486053,3,1,2,brand of notebook computers,Macbook,Q811701,Q3962|Q3065317,MacBook (2006–2012)
+Apple,The Vergecast - Apple Macbook Air with M1 review / Apple will reduce App Store cut to 15 percent / end-to-end encryption for RCS in Android,Q109501146,3,1,2,episode of the Vergecast,Apple Macbook Air with M1 review / Apple will reduce App Store cut to 15 percent / end-to-end encryption for RCS in Android,Q61855877,,
+Music,music,Q638,4,0,1,art using sound,musical art,Q56055944|Q1047113|Q2267705|Q11862829,Q173799|Q114088986,Music
+Music,musician,Q639669,4,0,1,"person who composes, conducts or performs music",musical artist,Q66715801|Q12737077|Q103810966,Q483501,Musician
+Music,Music,Q155358,4,0,1,2000 studio album by Madonna,,Q482994,,Music (Madonna album)
+Music,album,Q482994,4,0,1,"grouping of album releases by an artist usually released at the same time with the same title and tracks but in different formats for consumption (digital, CD, LP)",audio album|music album|record album|full album|full-length album,Q106043376,Q108346082,Album
+Music,Music,Q1921383,4,0,1,original song written and composed by Madonna and Mirwais; first recorded by Madonna,,Q105543609,,Music (Madonna song)
+Music,MusicBrainz,Q14005,4,0,1,online music metadata database,,Q59825643|Q3423635|Q847959,,MusicBrainz
+Music,Music,Q37247614,4,0,1,family name,,Q101352,,Music (surname)
+Music,composer,Q36834,4,0,1,person who is an author of music in any form,music composer|music by|composed by|music composed by,Q66715801|Q12737077,Q639669|Q482980|Q483501,Composer
+Music,Music,Q1437440,4,0,1,John Miles song,,Q134556,,Music (John Miles song)
+Music,single,Q134556,4,0,1,type of music release,music single,Q106043376,Q108346082|Q7302866,Single (music)
+Music,Apple Music,Q20056642,4,0,2,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Music,Apple Music,Q70056606,4,0,2,mobile application developed by Apple,Music|com.apple.android.music,Q620615,,
+Music,Apple Corps,Q621231,4,0,2,company formed by The Beatles,Apple Films|An Apple Film|Apple Corps Limited|Apple Music Limited|The Beatles Limited,Q4830453|Q6881511,,Apple Corps
+Music,Apple Music,Q65043499,4,0,2,media player and library software,,Q166142|Q210337|Q240795,,Music (app)
+Music,Apple Music 1,Q28127039,4,0,2,radio station operated by Apple Inc.,Beats 1,Q14350,,Apple Music 1
+Music,Apple Music Classical,Q124249772,4,0,2,classical music streaming service by Apple,,Q620615|Q15590336,,
+Music,Apple Music Festival,Q3789908,4,0,2,"music concert series held by Apple, Inc.",iTunes Festival,Q868557,,Apple Music Festival
+Music,Apple Music Up Next,Q90135067,4,0,2,monthly promotion program and web series,,Q15416,,Apple Music Up Next
+Music,Apple Music Awards,Q77334513,4,0,2,,,Q1364556,,Apple Music Awards
+Music,Apple Music charts,Q105003149,4,0,2,chart,charts Apple Music,Q373899,,
+Music,music industry,Q746359,4,0,2,companies and individuals that create and sell music and make money off of sales,music business|music trade|recording industry,Q136653105,Q969040|Q19595701,Music industry
+Music,recording industry term,Q59913930,4,0,2,technical term,music industry term,Q137426749,Q20202269,
+Music,Music Industry Awards,Q1954908,4,0,2,Flemish music prizes awarded by the VRT in collaboration with Music Centre Flanders,,Q107655869,Q1364556,Music Industry Awards
+Music,Music Industry 3. Fitness Industry 1.,Q18713735,4,0,2,2014 extended play by Mogwai,,Q169930,,Music Industry 3. Fitness Industry 1.
+Music,Music Industry Awards 2024,Q130789674,4,0,2,,,Q1954908|Q4504495,,
+Music,Music Industry Awards 2025,Q136720307,4,0,2,,,Q1954908|Q4504495,,
+Music,Music Industry Program Entities,Q6941548,4,0,2,"umbrella company owned by Drexel University, run by students and overseen by faculty and staff",MAD Dragon Music Group|MDMG,Q43229,,MAD Dragon Music Group
+Music,music industry degree program,Q106199662,4,0,2,degree program studying the music industry,,,Q98323635,List of music industry degree programs
+Music,MiM,Q6826920,4,0,2,reference manual for the dance music,Music Industry Manual,Q1459574,,
+Music,music industry of East Asia,Q13913749,4,0,2,,,,Q746359,Music industry of East Asia
+Music,music festival,Q868557,4,0,2,"a community event with performances of singing and instrument playing that is often presented with a theme such as musical genre, musical instrument, nationality, locality of musicians, or holiday",musical festival|festival (music)|festival (musical),Q108680062,Q4801521|Q113162275,Music festival
+Music,music festival edition,Q41582469,4,0,2,"specific edition of a music festival, e.g. in a given year of an annual festival",,,Q27968043|Q27968055,
+Music,Music Festival,Q113533580,4,0,2,episode of The Mindy Project,,Q21191270,,
+Music,Music Festival,Q120635984,4,0,2,episode of Miracle Workers (S2 E6),,Q21191270,,
+Music,Donaueschingen Festival,Q690934,4,0,2,"music festival held annually over three days in October in Donaueschingen, Black Forest, Baden-Württemberg, Germany; the oldest festival for contemporary music in the world; founded in 1921",Donaueschingen Music Days|music festival Donaueschingen|music festival in Donaueschingen,Q868557,,Donaueschingen Festival
+Music,music festivals in Poland,Q12020880,4,0,2,,,,,
+Music,MUSIC FESTIVAL Argerich's Meeting Point in Beppu,Q11396691,4,0,2,,Beppu Argerich Music Festival,Q868557,,
+Music,Music Festivals Melbourne,Q6941511,4,0,2,,,,,Music Festivals Melbourne
+Music,Music Festival in Łańcut,Q9259263,4,0,2,,Lancut Music Festival|Łańcut Music Festival|Music Festival in Lancut|Days of Chamber Music,Q868557,,
+Music,women's music festival,Q134530958,4,0,2,organized event typically lasting more than one day that features performances by women’s musical groups and performers,music festival for women|festival of women's music,,Q868557,
+Apple,Apple Inc.,Q312,4,1,1,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Apple,Apple Records,Q213710,4,1,1,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Apple,apple,Q89,4,1,1,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Apple,Apple Music,Q20056642,4,1,1,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Apple,Apple,Q26944931,4,1,1,unisex given name,,Q3409032,,
+Apple,Apple,Q111046003,4,1,1,registered trademark owned by Apple,Apple®,Q111048186,,
+Apple,Apple,Q1754545,4,1,1,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Apple,Malus,Q104819,4,1,1,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Apple,iTunes,Q9589,4,1,1,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Apple,Malus pumila,Q158657,4,1,1,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Apple,The Beatles,Q61295007,4,1,2,1968 UK 2xLP by The Beatles; Apple Records – PMC 7067/8,Apple Records – PMC 7067|Apple Records – PMC 7068,Q108352648,,
+Apple,Apple Records SP catalog,Q66422900,4,1,2,Wikimedia singles discography,Apple Records catalog - singles,Q59248059,,
+Apple,Abbey Road,Q61581314,4,1,2,1969 UK LP by The Beatles; Apple Records – PCS 7088,Apple Records – PCS 7088,Q108352648,,
+Apple,Yellow Submarine,Q61502068,4,1,2,1969 UK LP by The Beatles; Apple Records – PMC 7070; mono,Apple Records – PMC 7070,Q108352648,,
+Apple,Let It Be,Q61583651,4,1,2,1970 UK LP The Beatles; Apple Records – PXS 1,Apple Records – PXS 1,Q108352648,,
+Apple,Apple Records UK albums catalog,Q61296976,4,1,2,albums discography,,Q59191021,,
+Apple,Hey Jude / Revolution,Q60696979,4,1,2,"1968 US 7"" single by The Beatles; Apple Records ‎– 2276",Hey Jude|Revolution|Apple Records ‎– 2276,Q108352496,,
+Apple,Apple Records catalog,Q3438369,4,1,2,recording catalog,Apple Records discography,Q16832380,,Apple Records discography
+Apple,Snookeroo / Oo-Wee,Q110812904,4,1,2,"1975 UK 7"" single by Ringo Starr; Apple Records – R 6004",Apple Records – R 6004|Snookeroo|Oo-Wee,Q6128115,,
+Apple,The Beatles,Q1299,4,1,2,English pop rock band (1960–1970),"The Lads from Liverpool|John, Paul, George, and Ringo|The Beetles|The Silver Beetles|The Silver Beatles|Beatals",Q215380,,The Beatles
+Apple,The Beatles,Q3295515,4,1,2,1968 studio album by the Beatles,The White Album|White Album,Q482994,,The Beatles (album)
+Apple,Apple Corps,Q621231,4,1,2,company formed by The Beatles,Apple Films|An Apple Film|Apple Corps Limited|Apple Music Limited|The Beatles Limited,Q4830453|Q6881511,,Apple Corps
+Apple,The Beatles at the Hollywood Bowl,Q1753511,4,1,2,1977 live album by The Beatles,Live at the Hollywood Bowl|EMTV 4|0C 062-06377,Q482994,,The Beatles at the Hollywood Bowl
+Apple,The Beatles: Rock Band,Q2036806,4,1,2,2009 rhythm video game,Beatles Rock Band,Q7889,,The Beatles: Rock Band
+Apple,Beatles,Q3364405,4,1,2,song written and composed by Sven-Olof Bagge and Claes Bure; originally performed by Forbes at Melodifestivalen 1977 and the 1977 Eurovision Song Contest,The Beatles,Q105543609,,Beatles (song)
+Apple,The Beatles Ballads,Q2505100,4,1,2,1980 compilation album by The Beatles,Beatles Ballads,Q482994,,The Beatles Ballads
+Apple,The Beatles,Q18053804,4,1,2,England band of rock,,Q4456236|Q100148263|Q17127659,,The Beatles (terrorist cell)
+Apple,The Beatles,Q3112872,4,1,2,American animated television music video series,The Beatles Cartoon,Q117467246,,The Beatles (TV series)
+Apple,Apple Music,Q70056606,4,1,2,mobile application developed by Apple,Music|com.apple.android.music,Q620615,,
+Apple,Apple Music,Q65043499,4,1,2,media player and library software,,Q166142|Q210337|Q240795,,Music (app)
+Apple,Apple Music 1,Q28127039,4,1,2,radio station operated by Apple Inc.,Beats 1,Q14350,,Apple Music 1
+Apple,Apple Music Classical,Q124249772,4,1,2,classical music streaming service by Apple,,Q620615|Q15590336,,
+Apple,Apple Music Festival,Q3789908,4,1,2,"music concert series held by Apple, Inc.",iTunes Festival,Q868557,,Apple Music Festival
+Apple,Apple Music Up Next,Q90135067,4,1,2,monthly promotion program and web series,,Q15416,,Apple Music Up Next
+Apple,Apple Music Awards,Q77334513,4,1,2,,,Q1364556,,Apple Music Awards
+Apple,Apple Music charts,Q105003149,4,1,2,chart,charts Apple Music,Q373899,,
+Stockfish,Stockfish,Q37294872,5,0,1,family name,,Q101352,,
+Stockfish,Stockfish,Q1775686,5,0,1,open source chess engine,,Q1248874|Q166142,,Stockfish (chess)
+Stockfish,stockfish,Q213725,5,0,1,unsalted fish preserved by drying in cold air and wind,,,Q5307391,Stockfish
+Stockfish,stockfish,Q55351515,5,0,1,heraldic figure,,Q1419683,,
+Stockfish,Stockfish Film Festival,Q28458426,5,0,1,film festival,,Q220505,,Stockfish Film Festival
+Stockfish,stockfish broth,Q110611133,5,0,1,broth made from stockfish,,Q25403900,Q275068,
+Stockfish,Stockfish international market,Q125510170,5,0,1,an international market located at Onitsha Anambra state,Ogbo Okporoko,Q132510,,
+Stockfish,stockfish skin,Q107246756,5,0,1,filet of stockfish,,Q25403900,Q1074,
+Stockfish,stockfish filet,Q107246754,5,0,1,filet of stockfish,,Q25403900,Q289005,
+Stockfish,stockfish tail,Q107304898,5,0,1,tail of a stockfish,,Q25403900,Q213725|Q60960,
+Stockfish,chess engine,Q1248874,5,0,2,computer program for chess analysis and game,chess program,,Q40056,Chess engine
+Stockfish,Chess Engines Grand Tournament,Q1439853,5,0,2,organization that tests computer chess software by playing chess engines against one another,,Q2210277,,Chess Engines Grand Tournament
+Stockfish,Chess Engine Communication Protocol,Q2413147,5,0,2,,,Q132364,,Chess Engine Communication Protocol
+Marco Costalba,Marco Costalba,Q122873872,5,1,1,,,Q5,,
+Poser,model,Q4610556,6,0,1,"person employed to display, advertise and promote products, or to serve as a visual aid",sitter|poser,Q28640,Q27943370,Model (person)
+Poser,art model,Q1630100,6,0,1,person who poses for any visual artist as part of the creative process,artist's model|artists' model|painter's model|sculptor's model|poser|sitter|model,Q28640|Q12737077,Q4610556,Model (art)
+Poser,Poser,Q33092809,6,0,1,family name,,Q101352,,
+Poser,poseur,Q1690958,6,0,1,someone who poses for effect,poser,Q501390|Q9332,Q1413522,Poseur
+Poser,Poser,Q1604323,6,0,1,3D computer graphics program optimized for modeling of human figures,,Q166142|Q229371,,Poser (software)
+Poser,Poser,Q2105621,6,0,1,noble family,,Q13417114,,
+Poser,Poser,Q108770430,6,0,1,2021 film directed by Noah Dixon and Ori Segev,,Q11424,,Poser (film)
+Poser,Poserina,Q99888206,6,0,1,family name,,Q101352,,
+Poser,Poseritz,Q305455,6,0,1,municipality of Germany,,Q116457956,,Poseritz
+Poser,poser,Q57001084,6,0,1,conjugation table for French verb,,Q66050470,,
+Poser,Smith Micro Software,Q7545224,6,0,2,software company,,Q4830453|Q891723,,Smith Micro Software
+Poser,3D modeling software,Q3653635,6,0,2,type of software which allows a user to develop a mathematical representation of any three-dimensional surface of an object (either inanimate or living),Modeler|3D modeling program|3D Modeling Software,Q17155032|Q229371,Q15548076|Q229371,3D modeling software
+Poser,3D-MODELING SOFTWARE USE IN TEACHING ENGINEERING GRAPHICS,Q123285602,6,0,2,scientific article published in 2018,,Q13442814,,
+Poser,digital sculpting,Q3648955,6,0,2,3D computer graphics,Digital sculpting,,,Digital sculpting
+Poser,Digital sculpting in surgery: a novel approach to depicting mesosigmoid mobilization,Q40169220,6,0,2,"scientific article published on February 6, 2014",,Q13442814,,
+Poser,animation software,Q3257916,6,0,2,type of software,,Q17155032,Q166142,
+Poser,Animation Software For The Teaching Of Electrical Transmission Lines,Q132562707,6,0,2,scientific article published on 03 September 2020,,Q13442814,,
+Poser,Animation Software For Upper Level Dynamics And Vibrations Courses,Q132623357,6,0,2,scientific article published on 03 September 2020,,Q13442814,,
+Smith Micro Software,Smith Micro Software,Q7545224,6,1,1,software company,,Q4830453|Q891723,,Smith Micro Software
+Poppler,Poppler,Q1347022,7,0,1,free software PDF rendering library,,Q188860|Q166142|Q341,,Poppler (software)
+Poppler,Poppler,Q37530994,7,0,1,family name,,Q101352,,
+Poppler,Popplerkogel,Q21864913,7,0,1,mountain in the Koralpe in Carinthia,,Q8502,,
+Poppler,Giffers,Q66476,7,0,1,municipality in the canton of Fribourg in Switzerland,Giffers FR,Q70208,,Giffers
+Poppler,Poppler,Q7229544,7,0,1,Wikimedia disambiguation page,,Q4167410,,Poppler
+freedesktop.org,freedesktop.org,Q310917,7,1,1,open-source desktop environment software project,,Q170584|Q35127|Q2989352,,Freedesktop.org
+freedesktop.org,Freedesktop.org Thumbnail Managing Standard,Q116977219,7,1,1,technical standard for the creation and management of thumbnails,Thumbnail Managing Standard,Q317623,,
+Toad,Toad,Q1061603,8,0,1,"fictional character in Nintendo's ""Mario"" franchise",Kinopio|Mushroom Retainer|Mushroom,Q11296888|Q33093124|Q1569167,,Toad (Mario)
+Toad,common toad,Q146375,8,0,1,species of amphibian,Bufo bufo|European toad|toad,Q16521,,Common toad
+Toad,Toad River,Q2437592,8,0,1,"stream in British Columbia, Canada",,Q4022,,Toad River
+Toad,toad,Q6453151,8,0,1,order of large frogs,,Q55983715,Q10908,Toad
+Toad,Pulau Toad,Q25019477,8,0,1,island in Indonesia,Toad Island|Toad,Q23442,,
+Toad,Toad,Q2377661,8,0,1,fictional character in Marvel Comics,Mortimer Toynbee,Q1094617|Q15711870|Q15773347,,Toad (Marvel Comics)
+Toad,Toad,Q11296888,8,0,1,fictional species,mushroom person,Q15702752,Q88589803|Q33093124,
+Toad,Toader,Q37121595,8,0,1,family name,,Q101352,,
+Toad,Toader,Q104638274,8,0,1,male given name,Toader (given name)|Toader (first name),Q12308941,,
+Toad,Toadette,Q2609744,8,0,1,fictional character from the Super Mario universe,,Q11296888,,Toadette
+Toad,Quest Software,Q282501,8,0,2,privately held software company based in California,,Q4830453,,Quest Software
+Toad,software development,Q638608,8,0,2,creation and maintaining of programs and applications,,Q119143679|Q11862829|Q1047113|Q2267705,Q1395034|Q739302|Q880371,Software development
+Toad,software company,Q1058914,8,0,2,company that develops software,software development company|software house|computer software company|tech company|software enterprise|tech enterprise,,Q4830453|Q783794|Q18388277,
+Toad,software developer,Q183888,8,0,2,person or company concerned with facets of the software development process,software development engineer|software developers|software studio,Q28640|Q4164871|Q108300140|Q12737077,Q1709010|Q108289400,Software developer
+Toad,programming tool,Q1077784,8,0,2,computer program that software developers use to support other programs and applications,software development tool|development tool|computer programming tool|application programming tool|developer tool|programmer tool,Q17155032|Q123588392,Q312466,Programming tool
+Toad,software development kit,Q467707,8,0,2,set of software development tools,SDK|devkit|development toolkit|development kit,Q17155032,Q40056|Q1077784,Software development kit
+Toad,software development process,Q2904257,8,0,2,process by which software is developed,software development model|software development technique|software development life cycle|software development life-cycle|SDLC|software life cycle|software life-cycle|software development lifecycle|software lifecycle,Q116505632,Q500669|Q638608,Software development process
+Toad,fork,Q332903,8,0,2,"new program, and line of software development, derived from an existing one",software fork|project fork|software development fork|software project fork,Q108586636|Q116505632|Q17155032|Q106565791|Q1190554|Q341,Q27908081|Q836950|Q1130645,Fork (software development)
+Toad,software project,Q63437139,8,0,2,project organized for the development of a specific software program,software development project,,Q106777964|Q43229,
+Toad,software development methodology,Q1378470,8,0,2,splitting of software development work into distinct phases (or stages) containing activities with the intent of better planning and management,software development philosophy,,Q185698,Software development methodology
+Toad,software development effort estimation,Q7554284,8,0,2,Process of predicting the amount of effort required to develop or maintain a software,,,Q113716252,Software development effort estimation
+Toad,systems development life-cycle,Q559486,8,0,2,"process for planning, creating, testing, deploying, and maintaining an engineered system",devcycle|SDLC|application development life-cycle,,Q3298282,Systems development life cycle
+Toad,application development,Q120971465,8,0,2,area of research,,Q1047113,,
+Toad,HyperPAD,Q73737542,8,0,2,text-only HyperCard clone for DOS (1989),HyperPad|Application Development Software,Q65966993|Q2463207|Q185534,,
+Toad,Application development support system and application development support method,Q120648967,8,0,2,US patent 11263107,,Q43305660,,
+Toad,"Application development environment providing system, application development environment provision method, terminal device, and application display m",Q123136740,8,0,2,US patent 11281435,,Q43305660,,
+Toad,Application development and extensibility/customization using entity modeling systems and methods,Q123507701,8,0,2,US patent 11294646,,Q43305660,,
+Toad,Application development architecture for mobile applications,Q121726962,8,0,2,US patent 11294648,,Q43305660,,
+Toad,Application development platform and software development kits that provide comprehensive machine learning services,Q119021513,8,0,2,US patent 11410044,,Q43305660,,
+Toad,application developer,Q125251322,8,0,2,group or company that develops applications,application development studio,,Q43229,
+Toad,Application development interface,Q121267893,8,0,2,US patent 11372628,,Q43305660,,
+Quest Software,Quest Software,Q282501,8,1,1,privately held software company based in California,,Q4830453,,Quest Software
+Quest Software,Toad,Q1755829,8,1,2,database management software,,Q166142|Q138079699|Q176165,,Toad (software)
+Derive,inferred from person's given name,Q69652498,9,0,1,estimating information about an individual (typically gender) based on their given name,inferred from name|inferred from first name|deduced from given name|based on given name|inferred from given name|given name based inference|first name based inference|derived from first name|usual gender for first name,Q201413|Q1156402,Q112317557,
+Derive,derived from NACE classification in 20th Century Press Archives,Q107646167,9,0,1,industries category for a company mapped via NACE code (P4496),,Q2695280,,
+Derive,SI derived unit,Q208469,9,0,1,measurement using combination of base units,derived SI unit|SI derived units,,Q61610698|Q3550844,SI derived unit
+Derive,Derive,Q1200212,9,0,1,computer algebra system,,Q830340|Q166142|Q218616,,Derive (computer algebra system)
+Derive,dérive,Q1270688,9,0,1,periodical literature,derive,Q1002697,,Dérive (magazine)
+Derive,derivative,Q898317,9,0,1,compound that is derived from a similar compound by a chemical reaction,chemical derivative|derivative chemical|derivative compound|derived compound|Derivative,Q4897819,Q79529|Q174925|Q542929,Derivative (chemistry)
+Derive,Dérive,Q3045004,9,0,1,urban exploration strategy,Derive,,Q6164861,Dérive
+Derive,conjugation,Q474628,9,0,1,creation of derived forms of a verb from its principal parts by inflection,grammatical conjugation|derived stem,,Q980357|Q207857,Grammatical conjugation
+Derive,The Derive,Q56479285,9,0,1,2017 film directed by Tanin Torabi,Derive,Q11424,,
+Derive,derived public person,Q110857366,9,0,1,type of legal entity in Latvia,atvasināta publiska persona,Q110857329,,
+Texas Instruments,Texas Instruments,Q193412,9,1,1,American multinational semiconductor design and manufacturing company,"Texas Instruments Inc.|TI Inc.|Texas Instruments Incorporated|TEXAS INSTRUMENTS INCORPORATED (Dallas, TX)|TI",Q18388277|Q891723|Q4830453,,Texas Instruments
+Texas Instruments,Texas Instruments TI-99/4A,Q454390,9,1,1,home computer by Texas Instruments,TI-99/4A,Q55990535,Q473708,TI-99/4A
+Texas Instruments,Texas Instruments (France),Q30343791,9,1,1,,,Q4830453,,
+Texas Instruments,AN/APQ-116,Q4652809,9,1,1,radar model series by Texas Instruments,Texas Instruments AN/APQ-116 family|APQ-116|Texas Instruments AN/APQ-116,Q811701,Q1265545,AN/APQ-116 radar family
+Texas Instruments,Texas Instruments TMS9900,Q767710,9,1,1,16-bit microprocessor,TMS9900,Q5297,Q5300,TMS9900
+Texas Instruments,Texas Instruments TMS9918,Q1976230,9,1,1,Video Display Controller manufactured by Texas Instruments,TMS9918,Q115722011,Q1852898,TMS9918
+Texas Instruments,Texas Instruments TMS1000,Q694036,9,1,1,electronic microcontroller,TMS1000|TMS1100,,Q165678,Texas Instruments TMS1000
+Texas Instruments,Texas Instruments picture file,Q28207395,9,1,1,file format,TI picture file|.73i|.82i|.83i|.8xi|.85i|.86i|.89i|.92i|.9xi|.v2i,Q235557,,
+Texas Instruments,Texas Instruments TMS320,Q2745394,9,1,1,series of Digital Signal Processor chips,C6x,,Q106370,TMS320
+Texas Instruments,Texas Instruments SN76477,Q221916,9,1,1,sound generating integrated circuit,SN76477N|SN76477NF,Q115722011,Q1995838,Texas Instruments SN76477
+Kexi,Kexi,Q1537053,10,0,1,visual database applications creator and a free alternative to Microsoft Access,,Q166142|Q176165|Q341,,Kexi
+Kexi,Ebilun,Q1042959,10,0,1,Manchu politician (1619-1673),Niuhulu Ebilong|Kexi,Q5,,Ebilun
+Kexi,Cani,Q24836784,10,0,1,Qing dynasty person CBDB = 57730,Aixinjueluo Chani|Uksun Cani|Fuguokexigong|Kexi,Q5,,
+Kexi,Šucang,Q16921942,10,0,1,Qing dynasty politician,Shumulu Shuchang|Kexi|Shuchang,Q5,,
+Kexi,Kyimxi,Q100888946,10,0,1,"township in Gonggar, Shannan, Tibet, China",Kexi|Khyimzhi,Q1500350,,
+Kexi,Kexi,Q56877954,10,0,1,male given name,,Q12308941,,
+Kexi,Niugulu Sayinga,Q45613469,10,0,1,Qing dynasty person CBDB = 57914,Xianglin|Niuhulusayinga|Xintaipingshi|Kexi|Menghuazhai,Q5,,
+Kexi,Kexin Zhao,Q110870830,10,0,1,"academic, researcher, professor of business information systems & operations management",Katherine Zhao,Q5,,
+Kexi,Kexin Wang,Q102058675,10,0,1,researcher (ORCID 0000-0003-1453-6976),,Q5,,
+Kexi,Kexin Liu,Q114028135,10,0,1,,,Q5,,
+Kexi,KDE,Q1431,10,0,2,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+Kexi,KDE Gear,Q20712193,10,0,2,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+Kexi,Konami Digital Entertainment,Q13403412,10,0,2,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+Kexi,Kdenlive,Q572226,10,0,2,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+Kexi,kernel density estimation,Q458825,10,0,2,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+Kexi,KDE Connect,Q68374789,10,0,2,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+Kexi,Dolphin,Q816725,10,0,2,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+Kexi,KDE neon,Q52056988,10,0,2,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+Kexi,Soprano,Q3110464,10,0,2,free software,KDE,Q166142|Q341,,Soprano (software)
+Kexi,KDE Plasma,Q107664269,10,0,2,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+KDE,KDE,Q1431,10,1,1,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+KDE,KDE Gear,Q20712193,10,1,1,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+KDE,Konami Digital Entertainment,Q13403412,10,1,1,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+KDE,Kdenlive,Q572226,10,1,1,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+KDE,kernel density estimation,Q458825,10,1,1,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+KDE,KDE Connect,Q68374789,10,1,1,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+KDE,Dolphin,Q816725,10,1,1,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+KDE,KDE neon,Q52056988,10,1,1,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+KDE,Soprano,Q3110464,10,1,1,free software,KDE,Q166142|Q341,,Soprano (software)
+KDE,KDE Plasma,Q107664269,10,1,1,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+KDE,Kexi,Q1537053,10,1,2,visual database applications creator and a free alternative to Microsoft Access,,Q166142|Q176165|Q341,,Kexi
+KDE,Ebilun,Q1042959,10,1,2,Manchu politician (1619-1673),Niuhulu Ebilong|Kexi,Q5,,Ebilun
+KDE,Cani,Q24836784,10,1,2,Qing dynasty person CBDB = 57730,Aixinjueluo Chani|Uksun Cani|Fuguokexigong|Kexi,Q5,,
+KDE,Šucang,Q16921942,10,1,2,Qing dynasty politician,Shumulu Shuchang|Kexi|Shuchang,Q5,,
+KDE,Kyimxi,Q100888946,10,1,2,"township in Gonggar, Shannan, Tibet, China",Kexi|Khyimzhi,Q1500350,,
+KDE,Kexi,Q56877954,10,1,2,male given name,,Q12308941,,
+KDE,Niugulu Sayinga,Q45613469,10,1,2,Qing dynasty person CBDB = 57914,Xianglin|Niuhulusayinga|Xintaipingshi|Kexi|Menghuazhai,Q5,,
+KDE,Kexin Zhao,Q110870830,10,1,2,"academic, researcher, professor of business information systems & operations management",Katherine Zhao,Q5,,
+KDE,Kexin Wang,Q102058675,10,1,2,researcher (ORCID 0000-0003-1453-6976),,Q5,,
+KDE,Kexin Liu,Q114028135,10,1,2,,,Q5,,
+KDE,K Desktop Environment,Q3241456,10,1,2,free software,,Q205020|Q341,,
+KDE,K Desktop Environment 3,Q3239184,10,1,2,Desktop Environment for Linux,KDE3,Q166142|Q205020,Q1431,K Desktop Environment 3
+KDE,K Desktop Environment 2,Q3241625,10,1,2,Free software,,Q166142|Q205020,,K Desktop Environment 2
+KDE,K Desktop Environment 1,Q116045712,10,1,2,free software,,Q205020|Q341,,K Desktop Environment 1
+KDE,KDE e.V.,Q2655191,10,1,2,Foundation behind the KDE community,,Q708676,,KDE e.V.
+Metabase,Metabase,Q56556624,11,0,1,database analytics software,,Q166142|Q341,,
+Metabase,MetaBase,Q1322989,11,0,1,MediaWiki website containing a biological database,,Q15633582|Q4117139,,
+Metabase,Metabase,Q56556615,11,0,1,Software enterprise and databank software developer,"Metabase, Inc.",Q6881511,,
+Metabase,Metabase,Q139607954,11,0,1,Wikibase instance in Wikibase Cloud that aims to collect information about the activities and documents of the Wikimedia movement as Linked Open Data,,Q115660447,,
+Metabase,MEOW,Q140562889,11,0,1,A web app for exploring educational resources described in Metabase: a database of resources and events by the Wikimedia Movement.,Metabase Educational Open Works,Q35127,,
+Metabase,MetaBase—the wiki-database of biological databases,Q24621799,11,0,1,scientific article,,Q13442814,,
+Metabase,Metabase,Q56556624,11,1,1,database analytics software,,Q166142|Q341,,
+Metabase,MetaBase,Q1322989,11,1,1,MediaWiki website containing a biological database,,Q15633582|Q4117139,,
+Metabase,Metabase,Q56556615,11,1,1,Software enterprise and databank software developer,"Metabase, Inc.",Q6881511,,
+Metabase,Metabase,Q139607954,11,1,1,Wikibase instance in Wikibase Cloud that aims to collect information about the activities and documents of the Wikimedia movement as Linked Open Data,,Q115660447,,
+Metabase,MEOW,Q140562889,11,1,1,A web app for exploring educational resources described in Metabase: a database of resources and events by the Wikimedia Movement.,Metabase Educational Open Works,Q35127,,
+Metabase,MetaBase—the wiki-database of biological databases,Q24621799,11,1,1,scientific article,,Q13442814,,
+7Geese,7Geese,Q47069776,12,0,1,former Canadian Internet corporation,,Q4830453,,
+7Geese,7Geese,Q55486747,12,0,1,Performance management application,,Q35127|Q166142,,
+7Geese,7Geese,Q47069776,12,1,1,former Canadian Internet corporation,,Q4830453,,
+7Geese,7Geese,Q55486747,12,1,1,Performance management application,,Q35127|Q166142,,
+Pocket,Pocket Books,Q7206385,13,0,1,American publisher founded by Robert de Graff and others as mass market paperback pioneer,,Q2085381|Q2608849,,Pocket Books
+Pocket,paperback,Q193934,13,0,1,book with a paper or paperboard cover,softback|softcover|pocket book|paper back|paper-back|mass-market paperback|paperbound|paper-bound|paper bound|paperback book,Q82046811,Q11396303,Paperback
+Pocket,Pocket PC,Q29758,13,0,1,"personal digital assistant (PDA), that runs the Windows Mobile operating system",P/PC|PPC|Windows Mobile Classic device,Q241317,Q17297961,Pocket PC
+Pocket,pocket,Q321767,13,0,1,small compartment in clothing where minor objects can be carried inside,Pocket,,Q28935403|Q987767,Pocket
+Pocket,Pokémon,Q864,13,0,1,Japanese media franchise,Pokemon|Pocket Monsters,Q196600,,Pokémon
+Pocket,Pocket,Q140898224,13,0,1,fictional character from the video game Deadlock,,Q15632617|Q1569167,,
+Pocket,Presses Pocket,Q2421005,13,0,1,French publisher,Pocket,Q334453,,
+Pocket,Pocket,Q3916680,13,0,1,service for saving web pages and other online media for later consumption,"getpocket.com|Read It Later|Read It Later, Inc.",Q166142|Q35127|Q5583816|Q15008073|Q874411,,Pocket (service)
+Pocket,pool,Q11020,13,0,1,family of cue sports,pocket billiards|pool billiards|Pool (cue sports),Q2312410,Q3341285,Pool (cue sports)
+Pocket,pocket,Q15846662,13,0,1,"flat pouch of fabric with a bound slit in the outer surface, worn suspended from ties which fasten around the waist",hanging pocket|pockets,,Q1323314,
+Pocket,Mozilla Firefox,Q698,13,0,2,free and open source web browser,,Q498267|Q15614021|Q6368|Q3503189|Q845620|Q341,,Firefox
+Pocket,Mozilla Corporation,Q169925,13,0,2,American software company,,Q4830453|Q6881511|Q1058914,,Mozilla Corporation
+Pocket,Mozilla Public License,Q308915,13,0,2,permissive free software license scheme developed by the Mozilla organization,,Q95107111|Q77205602,Q207621,Mozilla Public License
+Pocket,Mozilla Community Space Taipei,Q61752245,13,0,2,community space in Taipei,MozTW Space Taipei|MozSpaceTPE,Q1032372,,
+Pocket,Mozilla,Q9661,13,0,2,open source software developer of Firefox and others,,Q163740|Q1360517,,Mozilla
+Pocket,Mozilla Foundation,Q55672,13,0,2,American non-profit organization,MF,Q163740,,Mozilla Foundation
+Pocket,Mozilla Thunderbird,Q483604,13,0,2,free email client and personal information manager,,Q570871|Q1324042|Q1136404|Q367035|Q28094186|Q1568118|Q11320567|Q620615,,Mozilla Thunderbird
+Pocket,Mozilla Application Suite,Q538588,13,0,2,discontinued Internet suite,Mozilla Suite|Mozilla,Q955452|Q166142|Q341,,Mozilla Application Suite
+Pocket,MDN Web Docs,Q3273508,13,0,2,cross-browser documentation center on web technologies,Mozilla Developer Network|MDN|Mozilla Developer Center|MDC|Devmo,Q788790|Q3133368|Q1293664|Q114955954|Q35127|Q4501235,,MDN Web Docs
+Pocket,Mozilla Messaging,Q1370678,13,0,2,company,MoMo,Q4830453|Q6881511,,Mozilla Messaging
+Pocket,corporation,Q57655560,13,0,2,"in the United States, a business entity incorporated under any state or territorial statute",American corporation|United States corporation|U.S. corporation|Incorporated|Inc.|corporation in the United States|US corporation|Corp.|US Inc.,Q57653825,Q167037|Q7451779,Corp.
+Pocket,corporation,Q167037,13,0,2,legal entity incorporated through a legislative or registration process,corporated entity|Corp.|Co.,Q10541491,Q155076|Q783794,Corporation
+Pocket,Corporation,Q2189424,13,0,2,1990 video game,,Q7889,,Corporation (video game)
+Pocket,Corporation,Q55246708,13,0,2,1988 video game for the Commodore 64,The Corporation,Q7889,,
+Pocket,corporation,Q1586331,13,0,2,body of municipal self-government in the Prussian provinces,,,Q167037,
+Pocket,business corporation,Q422074,13,0,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+Pocket,corporation in Japan,Q48748864,13,0,2,group of persons operating for a certain purpose as established under Japanese law,hojin|hōjin|corporation (Japan)|houjin|corporation,,Q155076|Q167037,
+Pocket,Corporation Bank,Q2003387,13,0,2,former public sector bank in India,,Q4830453|Q22687|Q650241,,Corporation Bank
+Pocket,Corporation Bank branch,Q66768699,13,0,2,branch of Corporation Bank,,,Q21073937,
+Pocket,Corporation for Public Broadcasting,Q2628754,13,0,2,non-profit corporation created by an act of the United States Congress and funded by the United States federal government to promote public broadcasting,CPB,Q4830453|Q163740,,Corporation for Public Broadcasting
+Mozilla Corporation,Mozilla Corporation,Q169925,13,1,1,American software company,,Q4830453|Q6881511|Q1058914,,Mozilla Corporation
+Mozilla Corporation,Mozilla Firefox,Q698,13,1,2,free and open source web browser,,Q498267|Q15614021|Q6368|Q3503189|Q845620|Q341,,Firefox
+Mozilla Corporation,Mozilla Public License,Q308915,13,1,2,permissive free software license scheme developed by the Mozilla organization,,Q95107111|Q77205602,Q207621,Mozilla Public License
+Mozilla Corporation,Mozilla Community Space Taipei,Q61752245,13,1,2,community space in Taipei,MozTW Space Taipei|MozSpaceTPE,Q1032372,,
+Mozilla Corporation,Mozilla,Q9661,13,1,2,open source software developer of Firefox and others,,Q163740|Q1360517,,Mozilla
+Mozilla Corporation,Mozilla Foundation,Q55672,13,1,2,American non-profit organization,MF,Q163740,,Mozilla Foundation
+Mozilla Corporation,Mozilla Thunderbird,Q483604,13,1,2,free email client and personal information manager,,Q570871|Q1324042|Q1136404|Q367035|Q28094186|Q1568118|Q11320567|Q620615,,Mozilla Thunderbird
+Mozilla Corporation,Mozilla Application Suite,Q538588,13,1,2,discontinued Internet suite,Mozilla Suite|Mozilla,Q955452|Q166142|Q341,,Mozilla Application Suite
+Mozilla Corporation,MDN Web Docs,Q3273508,13,1,2,cross-browser documentation center on web technologies,Mozilla Developer Network|MDN|Mozilla Developer Center|MDC|Devmo,Q788790|Q3133368|Q1293664|Q114955954|Q35127|Q4501235,,MDN Web Docs
+Mozilla Corporation,Mozilla Messaging,Q1370678,13,1,2,company,MoMo,Q4830453|Q6881511,,Mozilla Messaging
+Mozilla Corporation,corporation,Q57655560,13,1,2,"in the United States, a business entity incorporated under any state or territorial statute",American corporation|United States corporation|U.S. corporation|Incorporated|Inc.|corporation in the United States|US corporation|Corp.|US Inc.,Q57653825,Q167037|Q7451779,Corp.
+Mozilla Corporation,corporation,Q167037,13,1,2,legal entity incorporated through a legislative or registration process,corporated entity|Corp.|Co.,Q10541491,Q155076|Q783794,Corporation
+Mozilla Corporation,Corporation,Q2189424,13,1,2,1990 video game,,Q7889,,Corporation (video game)
+Mozilla Corporation,Corporation,Q55246708,13,1,2,1988 video game for the Commodore 64,The Corporation,Q7889,,
+Mozilla Corporation,corporation,Q1586331,13,1,2,body of municipal self-government in the Prussian provinces,,,Q167037,
+Mozilla Corporation,business corporation,Q422074,13,1,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+Mozilla Corporation,corporation in Japan,Q48748864,13,1,2,group of persons operating for a certain purpose as established under Japanese law,hojin|hōjin|corporation (Japan)|houjin|corporation,,Q155076|Q167037,
+Mozilla Corporation,Corporation Bank,Q2003387,13,1,2,former public sector bank in India,,Q4830453|Q22687|Q650241,,Corporation Bank
+Mozilla Corporation,Corporation Bank branch,Q66768699,13,1,2,branch of Corporation Bank,,,Q21073937,
+Mozilla Corporation,Corporation for Public Broadcasting,Q2628754,13,1,2,non-profit corporation created by an act of the United States Congress and funded by the United States federal government to promote public broadcasting,CPB,Q4830453|Q163740,,Corporation for Public Broadcasting
+Mozilla Corporation,Pocket Books,Q7206385,13,1,2,American publisher founded by Robert de Graff and others as mass market paperback pioneer,,Q2085381|Q2608849,,Pocket Books
+Mozilla Corporation,paperback,Q193934,13,1,2,book with a paper or paperboard cover,softback|softcover|pocket book|paper back|paper-back|mass-market paperback|paperbound|paper-bound|paper bound|paperback book,Q82046811,Q11396303,Paperback
+Mozilla Corporation,Pocket PC,Q29758,13,1,2,"personal digital assistant (PDA), that runs the Windows Mobile operating system",P/PC|PPC|Windows Mobile Classic device,Q241317,Q17297961,Pocket PC
+Mozilla Corporation,pocket,Q321767,13,1,2,small compartment in clothing where minor objects can be carried inside,Pocket,,Q28935403|Q987767,Pocket
+Mozilla Corporation,Pokémon,Q864,13,1,2,Japanese media franchise,Pokemon|Pocket Monsters,Q196600,,Pokémon
+Mozilla Corporation,Pocket,Q140898224,13,1,2,fictional character from the video game Deadlock,,Q15632617|Q1569167,,
+Mozilla Corporation,Presses Pocket,Q2421005,13,1,2,French publisher,Pocket,Q334453,,
+Mozilla Corporation,Pocket,Q3916680,13,1,2,service for saving web pages and other online media for later consumption,"getpocket.com|Read It Later|Read It Later, Inc.",Q166142|Q35127|Q5583816|Q15008073|Q874411,,Pocket (service)
+Mozilla Corporation,pool,Q11020,13,1,2,family of cue sports,pocket billiards|pool billiards|Pool (cue sports),Q2312410,Q3341285,Pool (cue sports)
+Mozilla Corporation,pocket,Q15846662,13,1,2,"flat pouch of fabric with a bound slit in the outer surface, worn suspended from ties which fasten around the waist",hanging pocket|pockets,,Q1323314,
+Karamba,Karamba,Q19688661,14,0,1,male given name,,Q12308941,,
+Karamba,Karamba,Q116968772,14,0,1,"village in Gouré, Niger",Karama,Q532,,
+Karamba,Karamba Diaby,Q14943496,14,0,1,German politician,,Q5,,Karamba Diaby
+Karamba,Karamba,Q48803532,14,0,1,"Arafundi language of New Guinea, PNG",Karamba language|Awiakay|Kansomai,Q34770,Q4783702,Awiakay language
+Karamba,Karamba,Q3192936,14,0,1,software application,,Q166142,,
+Karamba,Karambakkam Pasupathy Krishna,Q102355415,14,0,1,Ph.D. Yale University 1997,,Q5,,
+Karamba,Karamba,Q31861487,14,0,1,river in Namibia,,Q4022,,
+Karamba,Karamba,Q139202522,14,0,1,"village in Western Region, Uganda",,Q486972,,
+Karamba,Karamba Janneh,Q10557668,14,0,1,footballer,,Q5,,Karamba Janneh
+Karamba,Karamba Trail,Q139213299,14,0,1,hiking trail in Nyungwe Forest National Park in Rwanda,Karamba Birding Trail,Q2143825,,
+Karamba,KDE,Q1431,14,0,2,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+Karamba,KDE Gear,Q20712193,14,0,2,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+Karamba,Konami Digital Entertainment,Q13403412,14,0,2,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+Karamba,Kdenlive,Q572226,14,0,2,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+Karamba,kernel density estimation,Q458825,14,0,2,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+Karamba,KDE Connect,Q68374789,14,0,2,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+Karamba,Dolphin,Q816725,14,0,2,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+Karamba,KDE neon,Q52056988,14,0,2,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+Karamba,Soprano,Q3110464,14,0,2,free software,KDE,Q166142|Q341,,Soprano (software)
+Karamba,KDE Plasma,Q107664269,14,0,2,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+KDE,KDE,Q1431,14,1,1,free software project and community,KDE project|KDE community,Q2989352|Q163740|Q1143070,,KDE
+KDE,KDE Gear,Q20712193,14,1,1,bundle of applications and supporting libraries that are developed by the KDE community and shipped together,KDE Applications|KDE Applications Bundle,Q1229611,Q166142|Q341,KDE Gear
+KDE,Konami Digital Entertainment,Q13403412,14,1,1,Japanese video game publisher,"KDE|Konami Digital Entertainment Co., Ltd.",Q1137109|Q18127,,
+KDE,Kdenlive,Q572226,14,1,1,Non linear video editing software,,Q341|Q1373429,,Kdenlive
+KDE,kernel density estimation,Q458825,14,1,1,estimator,Parzen windows|Parzen–Rosenblatt window method|Parzen window method|KDE,Q12718609,Q1130160,Kernel density estimation
+KDE,KDE Connect,Q68374789,14,1,1,a project that enables all your devices to communicate with each other,KDEConnect,Q506883|Q620615|Q11320567,,KDE Connect
+KDE,Dolphin,Q816725,14,1,1,file manager for KDE desktop environment,KDE Dolphin|Dolphin file manager,Q732970|Q166142|Q341,,Dolphin (file manager)
+KDE,KDE neon,Q52056988,14,1,1,"Linux distribution with KDE Plasma, based on Ubuntu",,Q20983788|Q131669|Q9135,,KDE neon
+KDE,Soprano,Q3110464,14,1,1,free software,KDE,Q166142|Q341,,Soprano (software)
+KDE,KDE Plasma,Q107664269,14,1,1,graphical environments provided by the KDE community,Plasma Desktop|Plasma,Q47146|Q341|Q205020|Q18109,,KDE Plasma
+KDE,K Desktop Environment,Q3241456,14,1,2,free software,,Q205020|Q341,,
+KDE,K Desktop Environment 3,Q3239184,14,1,2,Desktop Environment for Linux,KDE3,Q166142|Q205020,Q1431,K Desktop Environment 3
+KDE,K Desktop Environment 2,Q3241625,14,1,2,Free software,,Q166142|Q205020,,K Desktop Environment 2
+KDE,K Desktop Environment 1,Q116045712,14,1,2,free software,,Q205020|Q341,,K Desktop Environment 1
+KDE,KDE e.V.,Q2655191,14,1,2,Foundation behind the KDE community,,Q708676,,KDE e.V.
+KDE,KDE Projects,Q28126949,14,1,2,individual software projects within the KDE community,,Q341,,KDE Projects

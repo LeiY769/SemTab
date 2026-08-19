@@ -1,0 +1,36 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Sherard Osborn Fjord,Sherard Osborn Fjord,Q24822641,0,0,1,fjord in Greenland,,Q45776,,Sherard Osborn Fjord
+Sherard Osborn Fjord,Northeast Greenland National Park,Q309276,0,0,2,national park in Greenland,Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq,Q46169|Q52994899|Q179049|Q473972|Q158454,,Northeast Greenland National Park
+Sherard Osborn Fjord,Lincoln Sea,Q243125,0,0,2,part of the Arctic Ocean,,Q165,,Lincoln Sea
+Sherard Osborn Fjord,Lincoln Sea,Q117083143,0,0,2,tug boat built in 2000,IMO 9219006,Q191826,,
+Northeast Greenland National Park,Northeast Greenland National Park,Q309276,0,1,1,national park in Greenland,Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq,Q46169|Q52994899|Q179049|Q473972|Q158454,,Northeast Greenland National Park
+Northeast Greenland National Park,Sherard Osborn Fjord,Q24822641,0,1,2,fjord in Greenland,,Q45776,,Sherard Osborn Fjord
+Northeast Greenland National Park,Lincoln Sea,Q243125,0,1,2,part of the Arctic Ocean,,Q165,,Lincoln Sea
+Northeast Greenland National Park,Lincoln Sea,Q117083143,0,1,2,tug boat built in 2000,IMO 9219006,Q191826,,
+Lincoln Sea,Lincoln Sea,Q243125,0,3,1,part of the Arctic Ocean,,Q165,,Lincoln Sea
+Lincoln Sea,Lincoln Sea,Q117083143,0,3,1,tug boat built in 2000,IMO 9219006,Q191826,,
+Lincoln Sea,Northeast Greenland National Park,Q309276,0,3,2,national park in Greenland,Avannaarsuani Tunumilu Nuna Allanngutsaaliugaq,Q46169|Q52994899|Q179049|Q473972|Q158454,,Northeast Greenland National Park
+Aurlandsfjord,Aurlandsfjord,Q776482,1,0,1,"fjord in Vestland, Norway",Aurlandsfjorden,Q45776,,Aurlandsfjord
+Aurlandsfjord,Vik Municipality,Q303521,1,0,2,"municipality in Vestland, Norway",,Q755707,,"Vik, Sogn"
+Vik Municipality,Vik Municipality,Q303521,1,1,1,"municipality in Vestland, Norway",,Q755707,,"Vik, Sogn"
+Vik Municipality,Vik,Q21446378,1,1,2,family name,,Q101352,,Vik (surname)
+Vik Municipality,Viktor,Q16430022,1,1,2,male given name,Viktor (first name)|Viktor (given name),Q12308941,,Viktor (given name)
+Vik Municipality,Serbian Wikipedia,Q200386,1,1,2,Serbian-language edition of Wikipedia,Википедија на српском језику|Vikipedija na srpskom jeziku|SRWP|Serbian-language Wikipedia|Wikipedia in Serbian|Wikipedia (sr)|sr.wp|sr.Wikipedia|:sr|српска Википедија|Википедија на српском|Википедија српског језика,Q10876391|Q36509592|Q21286559,,Serbian Wikipedia
+Vik Municipality,Esperanto Wikipedia,Q190551,1,1,2,Esperanto edition of Wikipedia,eowiki|Vikipedio en Esperanto|Esperanta Vikipedio|Esperantlingva Vikipedio|vikipedio|eowp|eowikipedia|eo.wikipedia.org,Q10876391,,Esperanto Wikipedia
+Vik Municipality,Viktor Veszprémi,Q98511065,1,1,2,particle physicist,,Q5,,
+Vik Municipality,Viking Press,Q921536,1,1,2,American book publisher,Viking Penguin|Viking|The Viking Press,Q2085381|Q1320047|Q2608849,,Viking Press
+Vik Municipality,Viktor A. Kramarenko,Q113016251,1,1,2,Russian particle physicist,,Q5,,
+Vik Municipality,Vikingarna,Q644865,1,1,2,Swedish musical group; dansband,The Vikings|Vikinger,Q215380,,Vikingarna (band)
+Vik Municipality,Viktor Orbán,Q57641,1,1,2,Prime Minister of Hungary (1998–2002; 2010–2026) (born 1963),Victor Orban,Q5,,Viktor Orbán
+Norwegian Sea,Norwegian Sea,Q47545,1,3,1,marginal sea in the North Atlantic Ocean,European Northern Sea|Northern Ocean,Q204894,,Norwegian Sea
+Norwegian Sea,Norwegian Sea,Q111822042,1,3,1,painting by Francis Danby,,Q3305213,,
+Norwegian Sea,SuperStar Libra,Q115502,1,3,1,cruise ship built in 1988,Seaward|Norwegian Sea|IMO 8612134,Q39804,,SuperStar Libra
+Norwegian Sea,Norwegian Sea basin,Q58456151,1,3,1,,,Q82700259,,
+Norwegian Sea,Norwegian Seamen's Church,Q2028427,1,3,1,"church building in Rotterdam, the Netherlands",Norwegian Church Abroad in Rotterdam,Q57303181|Q607241,,
+Norwegian Sea,Norwegian Seafarers' Union,Q4582303,1,3,1,trade union in Norway,,Q163740,,Norwegian Seafarers' Union
+Norwegian Sea,Norwegian Seaman's Church,Q17765644,1,3,1,,,Q57303181,,
+Norwegian Sea,Norwegian Seafood Federation,Q7061253,1,3,1,employer's organization in Norway,Fiskeri- og Havbruksnæringens Landsforening,Q627272,,Norwegian Seafood Federation
+Norwegian Sea,Norwegian Seafood Association,Q11992568,1,3,1,"organization in Trondheim, Norway",Norske Sjømatbedrifters Landsforening|NSL,Q43229,,
+Norwegian Sea,Norwegian Seascape,Q110835685,1,3,1,painting by Peder Balke,,Q3305213,,
+Norwegian Sea,Aurlandsfjord,Q776482,1,3,2,"fjord in Vestland, Norway",Aurlandsfjorden,Q45776,,Aurlandsfjord
+Norwegian Sea,Vik Municipality,Q303521,1,3,2,"municipality in Vestland, Norway",,Q755707,,"Vik, Sogn"

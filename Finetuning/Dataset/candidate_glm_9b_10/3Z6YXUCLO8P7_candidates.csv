@@ -1,0 +1,157 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kobbelskov,Kobbelskov,Q23753315,0,0,1,,,Q4421,,
+Kobbelskov,Skelde Kobbelskov,Q23746155,0,0,1,,,Q4421,,
+Kobbelskov,Kobbelskov,Q30153788,0,0,1,ancient monument in Sønderborg Municipality (120149),,Q34023,,
+Kobbelskov,Kobbelskov,Q30153791,0,0,1,ancient monument in Sønderborg Municipality (120180),,Q3395377,,
+Kobbelskov,Kobbelskov,Q30153792,0,0,1,ancient monument in Sønderborg Municipality (120191),,Q3395377,,
+Kobbelskov,Kobbelskov,Q30153790,0,0,1,ancient monument in Sønderborg Municipality (120152),,Q3395377,,
+Kobbelskov,Kobbelskov,Q30153787,0,0,1,ancient monument in Sønderborg Municipality (120139),,Q3395377,,
+Kobbelskov,Kobbelskov,Q29066844,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+De Moer,De Moer,Q3020223,1,0,1,"village in Loon op Zand, the Netherlands",,Q1852859|Q532,,
+De Moer,De Moeren,Q18775020,1,0,1,"heritage complex in Zundert, the Netherlands",,Q1497375|Q2927789,,
+De Moer,De Moer,Q21768623,1,0,1,forest in Belgium,,Q4421,,
+De Moer,De Moeren,Q2417076,1,0,1,"section of Veurne, Belgium",,Q2785216,,
+De Moer,de Moerloose,Q133839186,1,0,1,family name,,Q101352,,
+De Moer,De Moerbei,Q1823596,1,0,1,information regarding restaurant,,Q11707,,De Moerbei
+De Moer,De Moerberg public library lending point,Q63677414,1,0,1,"Public library in residential care facility De Moerberg in IJmuiden, The Netherlands",,Q28564|Q11396180,,
+De Moer,Rue de Moerkerke - de Moerkerkestraat,Q3450882,1,0,1,"street in Schaerbeek, Belgium",Rue de Moerkerke|de Moerkerkestraat,Q79007,,
+De Moer,De Moeren,Q17605391,1,0,1,"building in Zundert, Netherlands",,Q41176,,
+De Moer,De Moerbleek,Q34931786,1,0,1,heath in the Netherlands,,Q27590,,
+Laaer Wald,Laaer Wald,Q1514987,2,0,1,street in Vienna,,Q79007,,
+Laaer Wald,Laaer Wald,Q21875121,2,0,1,forest in Vienna,Erholungsgebiet Laaer Wald,Q4421,,
+Ursprung,Ursprung,Q7901200,3,0,1,"locality in Melk District, Austria",,Q11183787,,Ursprung
+Ursprung,Ursprung,Q37522976,3,0,1,family name,,Q101352,,
+Ursprung,Ursprung,Q2501486,3,0,1,human settlement in Germany,,Q253019,,
+Ursprung,Ursprung,Q21862253,3,0,1,spring in the Dachstein mountains in Upper Austria,,Q124714,,
+Ursprung,Alfred Ursprung,Q18616128,3,0,1,Swiss botanist (1876-1952),Ursprung,Q5,,
+Ursprung,origin,Q3885844,3,0,1,"place or instant of apparition of something; intellectual reconstruction from the causal event supposed to be founding it, sometimes fixed arbitrarily or defined conventionally instead of by observation",beginning,Q151885,Q35120,
+Ursprung,Ursprung,Q61765959,3,0,1,,,Q486972,,
+Ursprung,Ursprung,Q22399007,3,0,1,,,Q4421,,
+Ursprung,principle,Q211364,3,0,1,"guiding rule or inevitable consequence of something, such as the laws observed in nature",rule,,Q6671777|Q1151067|Q17736,Principle
+Ursprung,Ursprung,Q96182129,3,0,1,"human settlement in Schärding District, Austria",,Q486972,,
+Ursprung,river source,Q7376362,3,0,2,start of a river or stream,source|headwaters|origin of the watercourse|origin|river origin,Q112234259,Q618123|Q57578857|Q124714|Q10713454,River source
+Ursprung,Origin,Q31708,3,0,2,content delivery software by Electronic Arts,EA Origin|EA Desktop|EA Desktop App,Q81989119,,EA (service)
+Ursprung,Origin,Q631351,3,0,2,American technical death metal band,,Q215380,,Origin (band)
+Ursprung,Origin,Q30610044,3,0,2,2017 novel by Dan Brown,,Q7725634,,Origin (Brown novel)
+Ursprung,Origin,Q24877003,3,0,2,2016 album by Kana-Boon,,Q482994,,
+Ursprung,Origin,Q4045979,3,0,2,2006 studio album by Borknager,,Q482994,,Origin (Borknagar album)
+Ursprung,basionym,Q810198,3,0,2,scientific name on which another scientific name is based (ICNafp),original combination (in zoology)|basonym (in BC),,Q1040689,Basionym
+Ursprung,Origin,Q3356324,3,0,2,2000 album by Origin,,Q482994,,Origin (Origin album)
+Ursprung,Origin,Q106899431,3,0,2,2003 studio album by Ding Fei Fei,,Q482994,,
+Ursprung,Source,Q643572,3,0,2,game engine developed by Valve Corporation,Source Engine|VMPI,Q193564,,Source (game engine)
+Ursprung,source entity,Q31464082,3,0,2,"entity (person, place, text, thing, etc.) from which something (information, goods, etc.) comes or is acquired",place of origin|origination location|source material|origin|resource|place of origination|producer|origination place|location of origination|location of origin,Q4897819|Q613930,Q35120,
+Ursprung,source code,Q128751,3,0,2,collection of computer instructions written using some human-readable computer language,source|src|software code|program code|code,Q112234259,Q124590|Q31464082|Q115642239,Source code
+Ursprung,Source,Q106512627,3,0,2,sculpture in downtown Montreal,,Q838948|Q860861,,
+Ursprung,SourceForge,Q165400,3,0,2,web-based source code repository,SF|sf.net|Source Forge|sourceforge.net,Q3077240|Q1343205|Q35127,,SourceForge
+Ursprung,source known to be unreliable,Q22979588,3,0,2,to be used with qualifier P2241,unreliable source|reference known to be unreliable|unreliable reference|no reliable source|not a reliable source,Q27949697|Q21874278,,
+Ursprung,primary source,Q112754,3,0,2,"artifact, document, diary, manuscript, autobiography, a recording, or other source of information that was created at the time under study",source,Q71533077,Q3750478,Primary source
+Ursprung,Source,Q99292197,3,0,2,2020 studio album by Nubya Garcia,,Q482994,,Source (album)
+Ursprung,spring,Q124714,3,0,2,terrestrial water source,water spring|waterspring|freshwater spring|natural spring|natural springs|spring (water source)|spring (hydrology),Q12046615,Q35145263|Q10713454|Q15324|Q134301386|Q1049799,Spring (hydrology)
+Frauenwald,Frauenwald,Q21876657,4,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q21859773,4,0,1,forest in Lower Austria,,Q4421,,
+Frauenwald,Frauenwald,Q818898,4,0,1,"former municipality in Thuringia, Germany",,Q253019|Q116457956,,Frauenwald
+Frauenwald,Frauenwald,Q32016892,4,0,1,,,Q15303838,,
+Frauenwald,Frauenwald,Q21875868,4,0,1,forest in Upper Austria,,Q4421,,
+Frauenwald,Frauenwald,Q32016912,4,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q33378511,4,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q32016905,4,0,1,,,Q4421,,
+Frauenwald,Frauenwälder Straße,Q104095678,4,0,1,"street in Ilmenau, Thuringia, Germany",,Q79007,,
+Frauenwald,Frauenwalder Straße,Q100599039,4,0,1,"street in Suhl, Thuringia, Germany",,Q79007,,
+Frauenwald,Frauenwald,Q21876657,5,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q21859773,5,0,1,forest in Lower Austria,,Q4421,,
+Frauenwald,Frauenwald,Q818898,5,0,1,"former municipality in Thuringia, Germany",,Q253019|Q116457956,,Frauenwald
+Frauenwald,Frauenwald,Q32016892,5,0,1,,,Q15303838,,
+Frauenwald,Frauenwald,Q21875868,5,0,1,forest in Upper Austria,,Q4421,,
+Frauenwald,Frauenwald,Q32016912,5,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q33378511,5,0,1,,,Q4421,,
+Frauenwald,Frauenwald,Q32016905,5,0,1,,,Q4421,,
+Frauenwald,Frauenwälder Straße,Q104095678,5,0,1,"street in Ilmenau, Thuringia, Germany",,Q79007,,
+Frauenwald,Frauenwalder Straße,Q100599039,5,0,1,"street in Suhl, Thuringia, Germany",,Q79007,,
+Tannenwald,Tannenwald,Q106070086,6,0,1,family name,,Q101352,,Tannenwald
+Tannenwald,Tannenwald,Q21861956,6,0,1,forest in Lower Austria,,Q4421,,
+Tannenwald,Tannenwald,Q1331584,6,0,1,forest near Leipzig,,Q4421,,
+Tannenwald,Tannenwald,Q33406429,6,0,1,Wald bei Tauberbischofsheim im Main-Tauber-Kreis,,Q4421,,
+Tannenwald,Tannenwald,Q33406443,6,0,1,forest in Germany,,Q4421,,
+Tannenwald,Tannenwald,Q61437982,6,0,1,"nature reserve in Brandenburg, Germany",,Q759421|Q473972,,
+Tannenwald,Tannenwald concentration camp,Q47515290,6,0,1,,,Q152081,,
+Tannenwald,Tannenwald watchtower,Q104520578,6,0,1,,,Q12433056|Q109607|Q839954,,
+Tannenwald,Fir Wood I,Q19912830,6,0,1,painting by Gustav Klimt,Pine Forest I,Q3305213,,
+Tannenwald,Tannenwäldchen,Q49569118,6,0,1,,,Q4421,,
+Tannenwald,Tannenwald,Q106070086,7,0,1,family name,,Q101352,,Tannenwald
+Tannenwald,Tannenwald,Q21861956,7,0,1,forest in Lower Austria,,Q4421,,
+Tannenwald,Tannenwald,Q1331584,7,0,1,forest near Leipzig,,Q4421,,
+Tannenwald,Tannenwald,Q33406429,7,0,1,Wald bei Tauberbischofsheim im Main-Tauber-Kreis,,Q4421,,
+Tannenwald,Tannenwald,Q33406443,7,0,1,forest in Germany,,Q4421,,
+Tannenwald,Tannenwald,Q61437982,7,0,1,"nature reserve in Brandenburg, Germany",,Q759421|Q473972,,
+Tannenwald,Tannenwald concentration camp,Q47515290,7,0,1,,,Q152081,,
+Tannenwald,Tannenwald watchtower,Q104520578,7,0,1,,,Q12433056|Q109607|Q839954,,
+Tannenwald,Fir Wood I,Q19912830,7,0,1,painting by Gustav Klimt,Pine Forest I,Q3305213,,
+Tannenwald,Tannenwäldchen,Q49569118,7,0,1,,,Q4421,,
+Pioneer Mothers Memorial Forest,Pioneer Mothers Memorial Forest,Q20710596,8,0,1,"Forest in Indiana, United States",,Q4421,,Pioneer Mothers Memorial Forest
+Pioneer Mothers Memorial Forest,Pioneer Mothers Memorial Forest,Q111907573,8,0,1,"protected area in Orange County, Indiana",,Q473972,,
+Duran,Duran,Q3041502,9,0,1,family name,,Q101352,,Duran (surname)
+Duran,Duran,Q733708,9,0,1,"commune in Gers, France",,Q484170,,"Duran, Gers"
+Duran,Duran,Q98651513,9,0,1,male given name,,Q12308941,,
+Duran,Duran,Q10757089,9,0,1,"mahalle (administrative quarter) in Harran, Şanlıurfa, southeastern Turkey",,Q17051044,,
+Duran,Durango,Q79918,9,0,1,state of Mexico,Estado de Durango|Free and Sovereign State of Durango|Tepēhuahcān,Q15149663,,Durango
+Duran,Duran Duran,Q58381,9,0,1,British band,Duran-Duran,Q215380,,Duran Duran
+Duran,Durand,Q3041504,9,0,1,family name,,Q101352,,Durand (surname)
+Duran,Duran,Q107554356,9,0,1,,,Q44696264,,
+Duran,Duranta erecta,Q2732360,9,0,1,species of plant,angel whisper|golden dew drop|golden eardrops|pigeon berry|skyflower|sky flower|Duranta repens|Duranta plumieri|Duranta ellisia,Q16521,,Duranta erecta
+Duran,Duran,Q6771181,9,0,1,"village in Çatalzeytin, Kastamonu, north-central Turkey",,Q1529096,,
+Duran,Duran Duran,Q1933301,9,0,2,1993 studio album by Duran Duran,The Wedding Album,Q482994,,Duran Duran (1993 album)
+Duran,Duran Duran,Q675901,9,0,2,1981 studio album by Duran Duran,,Q482994,,Duran Duran (1981 album)
+Duran,Doctor Durand-Durand,Q22265466,9,0,2,Barbarella villain,Durand-Durand|Duran|Duran Duran|Dr. Durand-Durand,Q15632617|Q1114461,,Durand Durand
+Duran,Duran Duran,Q3716451,9,0,2,2010 song by Jenni Vartiainen,,Q7366|Q134556,,Duran Duran (song)
+Duran,Duran Duran,Q5316176,9,0,2,1983 music video compilation by Duran Duran,Duran Duran: The First 11 Videos,Q10590726,,Duran Duran (1983 video)
+Duran,Duran Duran,Q127600253,9,0,2,1999 Australian film directed by Garnet Mae,,Q11424,,
+Duran,Duran Duran singles discography,Q65015848,9,0,2,Wikimedia singles discography,Duran Duran discography - singles|discography of Duran Duran singles|discography from Duran Duran singles,Q59248059,,
+Duran,Duran Duran's albums in chronological order,Q65015724,9,0,2,Wikimedia albums discography,Duran Duran albums discography|Duran Duran discography - albums,Q59191021,,
+Duran,Duran Duran discography,Q1266730,9,0,2,Wikimedia artist discography,discography of Duran Duran|discography from Duran Duran,Q104635718,,Duran Duran discography
+Mallo,Mallo,Q37444983,10,0,1,family name,,Q101352,,
+Mallo,Mallotus,Q1205104,10,0,1,genus of plants,,Q16521,,Mallotus (plant)
+Mallo,Mallomonas,Q1887561,10,0,1,genus of algae,,Q16521,,Mallomonas
+Mallo,Mallotus japonicus,Q15236078,10,0,1,species of plant,,Q16521,,Mallotus japonicus
+Mallo,Mallophora,Q10323376,10,0,1,genus of insects,,Q16521,,Mallophora
+Mallo,Mallo Island,Q24879497,10,0,1,"island in Talaud Islands Regency, North Sulawesi Province, Indonesia",Malo Island|Malo|Maroe|Mioro,Q23442,,
+Mallo,capelin,Q143359,10,0,1,species of fish,Mallotus villosus|caplin,Q16521|Q2095,,Capelin
+Mallo,MALLO,Q140454405,10,0,1,Spanish music group,,Q215380,,
+Mallo,Mallota,Q1758369,10,0,1,genus of insects,,Q16521,,Mallota
+Mallo,Mallory D. Witt,Q106613440,10,0,1,researcher 0000-0002-6366-4029,Mallory Witt|Mallory D Witt,Q5,,
+Mallo,Mallotus,Q18748434,10,0,2,genus of fishes,,Q16521,,
+Mallo,Mallotus repandus,Q11076094,10,0,2,species of plant,,Q16521,,Mallotus repandus
+Mallo,Mallotus nudiflorus,Q15361640,10,0,2,species of plant,,Q16521,,Mallotus nudiflorus
+Mallo,Mallotus philippensis,Q2510557,10,0,2,species of plant,Mallotus phillipensis (misspelling),Q16521,,Mallotus philippensis
+Mallo,Mallotus apelta,Q15249530,10,0,2,species of plant,,Q16521,,
+Mallo,Mallotus philippinensis,Q104253278,10,0,2,species of plants,,Q16521,,
+Mallo,Mallotus macrostachyus,Q15361343,10,0,2,species of plant,,Q16521,,
+Mallo,Mallophaga,Q919938,10,0,2,suborder of insects,biting lice|chewing lice|bird lice|avian lice,Q16521,,Mallophaga
+Mallo,Mallophaga. Pt. 1. Introduction,Q126489843,10,0,2,book on entomology,,Q732577,,
+Mallo,"Mallophaga from Apteryx, and their Significance; with a Note on the Genus Rallicola",Q55980400,10,0,2,,,Q13442814,,
+Mallo,Mallophaga (Biting Lice) and Anoplura (Sucking Lice) Part I: Austrogoniodes (Mallophaga) Parasitic on Penguins (Sphenisciformes),Q99656140,10,0,2,,,Q13442814,,
+Mallo,"Mallophaga, III. Mallophaga from birds of California",Q56008618,10,0,2,,,Q13442814,,
+Mallo,Mallophaga From Brazilian Birds,Q56163045,10,0,2,article,,Q13442814,,
+Mallo,Mallophaga of Iran: new records,Q70574104,10,0,2,scientific article published on 01 March 1971,,Q13442814,,
+Mallo,"Mallophaga indica I on the status ofEulaemobothrionEwing, with description of a new species from India",Q99974608,10,0,2,scientific article published in December 1967,,Q13442814,,
+Mallo,Mallophaga species on long-legged buzzards (Buteo rufinus) in Turkey.,Q46788240,10,0,2,scientific article published in January 2007,,Q13442814,,
+Mallo,Mallophaga species on long-legged buzzards (Buteo rufinus): new records from Turkey.,Q52675002,10,0,2,scientific article published in January 2006,,Q13442814,,
+Unterholz,Unterholz,Q21861925,11,0,1,forest in Lower Austria,,Q4421,,
+Unterholz,Unterholz,Q135059374,11,0,1,2024 video game developed by The Last Pilot,,Q7889,,
+Unterholz,Unterholzner,Q106890930,11,0,1,family name,,Q101352,,
+Unterholz,Unterholz,Q98149900,11,0,1,locality in Linz-Land District,,Q11183787,,
+Unterholz,Unterholz,Q98109014,11,0,1,locality in Wels-Land District,,Q11183787,,
+Unterholz,understory,Q422666,11,0,1,"plant life growing beneath a forest canopy without penetrating it to any great extent, but above the forest floor",understorey|underbrush,,Q37813,Understory
+Unterholz,Unterholz,Q33410363,11,0,1,,,Q4421,,
+Unterholz,Unterholz,Q33410399,11,0,1,,,Q4421,,
+Unterholz,Unterholz,Q21875254,11,0,1,"forest in Mistelbach District, Lower Austria",,Q4421,,
+Unterholz,Unterholz,Q33410406,11,0,1,,,Q4421,,
+Unterholz,Unterholz,Q21861925,12,0,1,forest in Lower Austria,,Q4421,,
+Unterholz,Unterholz,Q135059374,12,0,1,2024 video game developed by The Last Pilot,,Q7889,,
+Unterholz,Unterholzner,Q106890930,12,0,1,family name,,Q101352,,
+Unterholz,Unterholz,Q98149900,12,0,1,locality in Linz-Land District,,Q11183787,,
+Unterholz,Unterholz,Q98109014,12,0,1,locality in Wels-Land District,,Q11183787,,
+Unterholz,understory,Q422666,12,0,1,"plant life growing beneath a forest canopy without penetrating it to any great extent, but above the forest floor",understorey|underbrush,,Q37813,Understory
+Unterholz,Unterholz,Q33410363,12,0,1,,,Q4421,,
+Unterholz,Unterholz,Q33410399,12,0,1,,,Q4421,,
+Unterholz,Unterholz,Q21875254,12,0,1,"forest in Mistelbach District, Lower Austria",,Q4421,,
+Unterholz,Unterholz,Q33410406,12,0,1,,,Q4421,,

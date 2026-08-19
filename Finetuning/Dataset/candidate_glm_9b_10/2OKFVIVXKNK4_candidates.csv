@@ -1,0 +1,69 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Jiufeng Temple in Nanjing,Jiufeng Temple in Nanjing,Q11174804,0,0,1,building in China,,Q5393308,,
+Jiufeng Temple in Nanjing,Jiufeng Temple,Q11174802,0,0,2,"temple in Yangyuan, Zhangjiakou",Shujiu Temple Pagoda,Q5393308,,
+Gandenji,Ganden Monastery,Q932446,1,0,2,"monastery in Dagzê District, Lhasa, Tibet, China",Gandain Goinba|Gadan Si|Gandan Si,Q44613|Q10300916,,Ganden Monastery
+Gandenji,Tashi Lhunpo Monastery,Q77223675,1,0,2,Tibetan Buddhist monastery in India,Tashilhunpo,Q54074585,,
+Gandenji,Tashi Lhunpo Monastery in Shigatse,Q116445601,1,0,2,"tangka at the Metropolitan Museum of Art (MET, 2021.326.1)",,Q916651,,
+Gandenji,Tashi Lhunpo Monastery in Shigatse,Q126118949,1,0,2,painting by anonymous painter,,Q3305213,,
+Sōkei-ji,Sōkei-ji Temple,Q11451944,2,0,1,"building in Tokyo, Japan",Sōkei-ji,Q5393308,,
+Sōkei-ji,Sōkei-ji Temple,Q111829532,2,0,1,"temple in Taitō-ku, Tokyo",Sōkei-ji,Q5393308,,
+Sōkei-ji,Sōkei-ji Temple,Q11515225,2,0,1,"temple in Minato-ku, Tokyo",Sōkei-ji,Q5393308,,
+Ryōan-ji,Ryōan-ji Temple,Q587371,3,0,1,"temple in Kyoto, Japan",Ryōan-ji,Q5393308,,Ryōan-ji
+Ryōan-ji,"Ryoan-ji, Kyoto",Q79938114,3,0,1,"print by Kiyoshi Saito (Japanese, 1907-1997) (1985.565)",,Q11060274,,
+Neihu Yuanjue Temple,Neihu Yuanjue Temple,Q10270272,4,0,1,,,Q5393308,,
+Tachibana-dera,Tachibana-dera Temple,Q11544260,5,0,1,"Buddhist temple in Asuka, Nara, Japan",Tachibana-dera,Q5393308,,Tachibana-dera
+Kokawa-dera,Kokawa-dera Temple,Q11604460,6,0,1,"former temple in Utsunomiya, Tochigi",Kokawa-dera,Q5393308,,
+Kokawa-dera,Kokawa-dera Temple,Q5358314,6,0,1,"Buddhist temple dedicated to Eleven-Faced Avalokiteśvara in Kinokawa, Japan",Kokawadera,Q5393308,,Kokawa-dera
+Kokawa-dera,Kokawa-dera Engi Emaki,Q595722,6,0,1,Japanese emakimono about the Kokawadera Buddhist temple,Illustrated handscroll of Legends of Kokawa-dera Temple|The Legendary Origins of Kokawadera,Q1190781|Q3305213,,Kokawa-dera Engi Emaki
+Kokawa-dera,Kokawa-dera Temple Garden,Q140366129,6,0,1,"garden in Kinokawa, Wakayama, Japan",,Q140359671,,
+"Nichirin-ji (Daigo, Ibaraki)","Nichirin-ji Temple (Daigo, Ibaraki)",Q11510487,7,0,1,"Buddhist temple in Ibaraki prefecture, Japan","Nichirin-ji (Daigo, Ibaraki)",Q5393308,,Nichirin-ji
+"Nichirin-ji (Daigo, Ibaraki)",Daigo-ji Temple,Q1157535,7,0,2,"Shingon Buddhist temple in Fushimi-ku, Kyoto, Japan",Daigo-ji|Daigo-ji Temple,Q5393308|Q10901138|Q29428403,,Daigo-ji
+"Nichirin-ji (Daigo, Ibaraki)",Daigo-ji Temple,Q134987580,7,0,2,"Buddhist temple in Takamatsu, Japan",,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Daigo-ji Temple,Q118044847,7,0,2,,,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Daigo-ji Temple (Kariya),Q120638044,7,0,2,"temple in Kariya, Aichi, Japan",Daigo-ji Temple (Kariya),Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Nichirin-ji Temple,Q85880771,7,0,2,"Buddhist temple of the Kōyasan Shingon-shū sect dedicated to Vairocana in Kudoyama, Japan",,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Nichirin-ji Temple,Q106836777,7,0,2,"temple in Kohinata, Bunkyō-ku",Nichirin-ji,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Nichirin-ji Temple,Q134892530,7,0,2,"Buddhist temple in Hitachi, Ibaraki prefecture, Japan",,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Nichirin-ji Temple,Q124362841,7,0,2,"Buddhist temple dedicated to Acala in Maebashi, Japan",,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Nichirin-ji Temple,Q135416775,7,0,2,,,Q5393308,,
+"Nichirin-ji (Daigo, Ibaraki)",Ibaraki Prefecture,Q83273,7,0,2,prefecture of Japan,Ibaraki,Q50337,,Ibaraki Prefecture
+"Nichirin-ji (Daigo, Ibaraki)",flag of Ibaraki prefecture,Q10371999,7,0,2,"flag used by Ibaraki prefecture, Japan",Ibaraki prefecture flag,Q22807280,,
+"Nichirin-ji (Daigo, Ibaraki)",Ibaraki Teacher Training Center,Q17193506,7,0,2,"education organization in Kasama, Japan",Ibaraki Prefecture Education Training Center,Q2385804,,
+"Nichirin-ji (Daigo, Ibaraki)",Ibaraki Prefecture Joso City Sugawara Elementary School,Q30266125,7,0,2,"education organization in Mitsukaidō, Japan",,Q5358913,,
+"Nichirin-ji (Daigo, Ibaraki)",Ibaraki Prefecture Ordinance on Access to Information,Q107042333,7,0,2,,,Q679847,,
+"Nichirin-ji (Daigo, Ibaraki)",COVID-19 pandemic in Ibaraki Prefecture,Q104719932,7,0,2,,"Ibaraki Prefecture COVID-19 pandemic|2020 Ibaraki Prefecture COVID-19 pandemic|COVID pandemic in Ibaraki Prefecture|COVID-19 pandemic in Ibaraki Prefecture, Japan",Q3241045,,
+Sennyū-ji,Sennyū-ji Temple,Q1060966,8,0,1,"Buddhist temple in Kyoto, Japan",Mi-tera|Mitera|Sennyū-ji|Sennyū-ji Temple,Q5393308|Q17218816|Q10901138|Q134962447,,Sennyū-ji
+Sennyū-ji,Sennyū-ji Kan'enso,Q107046513,8,0,1,,Sennyū-ji Kan'ensho,Q89298567,,
+Sennyū-ji,Sennyūji-michi,Q20045328,8,0,1,,Sennyū-ji-michi,Q79007,,
+Mitsugon-in,Mitsugon-in Temple,Q11455736,9,0,1,"temple in Kōya, Wakayama",Mitsugon-in,Q5393308|Q11455614,,
+Mitsugon-in,Religious Confession at Mitsugon-in Temple,Q11455737,9,0,1,poem by Kakuban on Shingon Buddhism,The Mitsugonin Confession,Q7725634,,
+Mitsugon-in,Katsura Imperial Villa,Q1736808,9,0,2,"building in Nishikyo-ku, Kyoto Prefecture, Japan",Katsura Rikyū|Katsura Rikyuu,Q11659483|Q53541099|Q134962447,,Katsura Imperial Villa
+Mitsugon-in,Katsura Imperial Villa. Photographs by Ishimoto Yasuhiro,Q55338510,9,0,2,exhibition,,Q29023906,,
+Yokokura-ji,Yokokura-ji Temple,Q11543460,10,0,1,"Buddhist temple dedicated to Bhaiṣajyaguru Buddha in Ibigawa, Japan",,Q5393308,,
+Ganquan Temple,Ganquan Temple,Q10424178,11,0,1,"Taoist Temple in Guanyin District, Taoyuan, Taiwan",,Q5393308,,
+Ganquan Temple,Ganquan Temple,Q21017214,11,0,1,,,Q10300916,,
+Shinkō-ji,Shinkō-ji Temple,Q106836766,12,0,1,"temple in Bunkyō-ku, Tokyo",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582865,12,0,1,"Buddhist temple in Wakaba-ku, Chiba, Chiba prefecture, Japan",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q115282445,12,0,1,"temple in Haginaka, Ōta-ku",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582867,12,0,1,"temple in Sanmu, Chiba",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11385985,12,0,1,"Buddhist temple in Kashihara, Nara prefecture, Japan",Unebi Gobō|Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinko-ji Temple,Q55526545,12,0,1,Buddhist temple in Toyooka city,Shinko-ji,Q5393308,,
+Shinkō-ji,Shinko-ji Temple,Q11582869,12,0,1,"temple in Hyōgo, Kōbe",Shinkoji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q124496419,12,0,1,"temple in Shibukawa, Gunma",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji,Q17217379,12,0,1,,,Q11486287,,
+Shinkō-ji,Shinko-ji,Q24906764,12,0,1,"Buddhist temple in Tokorozawa, Saitama Prefecture, Japan",,Q1370598|Q5393308,,Shinko-ji
+Shinkō-ji,Shinko-ji Temple,Q65267865,12,0,2,"Buddhist temple of the Jōdo-shū sect dedicated to Amitābha Buddha in Tennōji-ku, Japan",,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582863,12,0,2,"Buddhist temple of the Kōyasan Shingon-shū sect dedicated to Amitābha Buddha in Bizen, Japan",,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q106836766,13,0,1,"temple in Bunkyō-ku, Tokyo",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582865,13,0,1,"Buddhist temple in Wakaba-ku, Chiba, Chiba prefecture, Japan",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q115282445,13,0,1,"temple in Haginaka, Ōta-ku",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582867,13,0,1,"temple in Sanmu, Chiba",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11385985,13,0,1,"Buddhist temple in Kashihara, Nara prefecture, Japan",Unebi Gobō|Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinko-ji Temple,Q55526545,13,0,1,Buddhist temple in Toyooka city,Shinko-ji,Q5393308,,
+Shinkō-ji,Shinko-ji Temple,Q11582869,13,0,1,"temple in Hyōgo, Kōbe",Shinkoji,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q124496419,13,0,1,"temple in Shibukawa, Gunma",Shinkō-ji,Q5393308,,
+Shinkō-ji,Shinkō-ji,Q17217379,13,0,1,,,Q11486287,,
+Shinkō-ji,Shinko-ji,Q24906764,13,0,1,"Buddhist temple in Tokorozawa, Saitama Prefecture, Japan",,Q1370598|Q5393308,,Shinko-ji
+Shinkō-ji,Shinko-ji Temple,Q65267865,13,0,2,"Buddhist temple of the Jōdo-shū sect dedicated to Amitābha Buddha in Tennōji-ku, Japan",,Q5393308,,
+Shinkō-ji,Shinkō-ji Temple,Q11582863,13,0,2,"Buddhist temple of the Kōyasan Shingon-shū sect dedicated to Amitābha Buddha in Bizen, Japan",,Q5393308,,
+Temple Ho Sho Ji,Temple Ho Sho Ji,Q3517479,14,0,1,"Buddhist temple located in Dordogne, in France",,Q5393308,,

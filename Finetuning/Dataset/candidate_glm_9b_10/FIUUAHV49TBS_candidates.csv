@@ -1,0 +1,76 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+passage du Monténégro,passage du Monténégro,Q3368160,0,0,1,"thoroughfare in Paris, France",,Q13634881,,
+passage du Retrait,passage du Retrait,Q3368170,1,0,1,"thoroughfare in Paris, France",,Q13634881,,
+passage du Retrait,rue du Retrait,Q3452564,1,0,2,"street in Paris, France",,Q79007,,
+passage du Retrait,Rue du retrait,Q19885909,1,0,2,2001 film by René Féret,,Q11424,,
+passage des Étangs,passage des Étangs,Q116227528,2,0,1,"passageway in Châtillon, dans les Hauts-de-Seine",,Q13634881,,
+passage des Étangs,passage des Étangs-Gobert,Q86665473,2,0,1,,,Q13634881,,
+Passage des Lingères,Passage des Lingères,Q3368117,3,0,1,"thoroughfare in Paris, France",passage des Lingeres,Q13634881,,
+Passage de la Cour Usine,Passage de la Cour Usine,Q100362788,4,0,1,"street in La Trinité, Martinique",,Q13634881,,
+Passage de la Cour Usine,passage de la Cour-des-Fontaines,Q3368072,4,0,2,"thoroughfare in Paris, France",,Q13634881,,
+Passage de la Cour Usine,Passage de la Couronne,Q114158654,4,0,2,,,Q79007,,
+Old Town Passage,Old Town Passage,Q116696139,5,0,1,Underpass with stores (including service and food providers) between Hof's old town and Marienstraße,Old Town Arcade,Q13634881|Q369730,,
+Old Town Passage,Old Town,Q748211,5,0,2,"neighborhood of Prague, Czech Republic","Staré Město|Old Town of Prague|Old Town, Prague",Q20871353|Q15978299|Q61089180|Q1468524|Q702492,,Old Town (Prague)
+Old Town Passage,Old Town,Q591133,5,0,2,name popularly given to the oldest part of Scotland's capital city of Edinburgh,Old Town of Edinburgh,Q123705|Q676050,,"Old Town, Edinburgh"
+Old Town Passage,old town,Q676050,5,0,2,part of a town or city in which the principal public and historic buildings are located,historical city centre|historic centre|historic center,,Q2983893|Q82794|Q1497375,Old town
+Old Town Passage,Old Town,Q1046961,5,0,2,borough in Slovakia,,Q2983893,,"Old Town, Košice"
+Old Town Passage,Stari Grad City Municipality,Q971700,5,0,2,"municipality of Belgrade, Serbia",Old Town|Opština Beograd-Stari Grad,Q783930|Q3976659,,"Stari Grad, Belgrade"
+Old Town Passage,Old Town,Q1642029,5,0,2,"city in Penobscot County, Maine, United States","Old Town, Maine|Old Town, ME",Q1093829,,"Old Town, Maine"
+Old Town Passage,Chokkilissa’,Q135092814,5,0,2,"former village in Mississippi, United States",Chokkilissa|Old Town,Q27554677|Q21507948|Q1081138,,
+Old Town Passage,Old Town,Q11695631,5,0,2,"district in Kraków, Poland","Old Town, Kraków|Old Town, Cracow|Stare Miasto, Kraków|Stare Miasto, Cracow|District I|District 1",Q4286337,,"Stare Miasto, Kraków (district)"
+Old Town Passage,Stare Miasto,Q7601721,5,0,2,"municipal neighborhood in Szczecin, West Pomeranian, Poland","Old Town|Old Town, Szczecin",Q17233249|Q56061,,"Old Town, Szczecin"
+Old Town Passage,Old Town Chinatown,Q7085276,5,0,2,"neighborhood in Portland, Oregon, United States","Old Town Chinatown, Portland, Oregon|Old Town, Portland, Oregon|Old Town",Q123705|Q202509,,Old Town Chinatown
+passage de l'Alma,passage de l'Alma,Q111250577,6,0,1,"passageway in Ormesson-sur-Marne, France",,Q13634881,,
+passage de l'Alma,rue de l'Exposition,Q3451254,6,0,1,"street in Paris, France",passage de l'Alma,Q79007,,
+passage de l'Alma,Passage de l'Alma,Q138424764,6,0,1,painting by Isidore Pils in the Musée des Beaux-Arts de Marseille (inv. 907),,Q3305213,,
+passage des Panoramas,passage des Panoramas,Q3141829,7,0,1,"thoroughfare in Paris, France",,Q13634881|Q2900244,,Passage des Panoramas
+passage des Panoramas,Passage des Panoramas,Q106643532,7,0,1,"passageway in Les Lilas, France",,Q13634881,,
+passage des Panoramas,passage des Panoramas,Q116271557,7,0,1,"passageway in Suresnes, France",,Q13634881,,
+passage des Panoramas,Passage des Panoramas,Q60291423,7,0,1,"""Histoire de Paris"" panel in Paris 2nd arrondissement",,Q3362192,,
+passage des Panoramas,Panthéon,Q3362490,7,0,2,2004 album by Booba,Pantheon,Q482994,,Panthéon (album)
+passage des Panoramas,Panthéon,Q188856,7,0,2,mausoleum in Paris for the most distinguished French people,Panthéon (Paris)|Pantheon (Paris)|Pantheon|Eglise Sainte-Geneviève|Eglise Sainte-Genevieve,Q162875|Q16970,,Panthéon
+passage des Panoramas,Pantheon,Q56342589,7,0,2,Elementary OS desktop environment,,Q205020|Q341,,Pantheon (desktop environment)
+passage des Panoramas,Pantheon Books,Q520387,7,0,2,American book publishing imprint,,Q1320047|Q2608849,,Pantheon Books
+passage des Panoramas,University of Paris 1 Pantheon-Sorbonne,Q999763,7,0,2,"French university located at the heart of the Latin Quarter, in Paris",Paris 1|Paris I Panthéon-Sorbonne|Université Panthéon-Sorbonne|Université Paris1 Panthéon Sorbonne|pantheonsorbonne.fr|University of Paris I|Paris 1 Panthéon-Sorbonne University|University of Paris Panthéon-Sorbonne,Q3551775|Q875538,,Paris 1 Panthéon-Sorbonne University
+passage des Panoramas,Pantheon Verlag,Q111982010,7,0,2,publisher,Pantheon Verlag GmbH|Pantheon,Q2085381,,
+passage des Panoramas,Pantheon,Q99309,7,0,2,"ancient Roman temple in Rome, Italy","Pantheon (Rome, Italy)|Santa Maria ad Martyres|Basilica of Our Lady of the Martyrs|Basilica of Santa Maria ad Martyres|Basilica of Santa Maria|church of Santa Maria ad Martyres",Q867143|Q21752084|Q120560|Q96376684|Q14752696|Q92755865|Q3867560|Q112132548|Q112132522|Q124830411,,"Pantheon, Rome"
+passage des Panoramas,Pantheon,Q1749372,7,0,2,"building in Leipzig, Saxony, Germany",,Q5526694|Q805353|Q41253|Q857909,,
+passage des Panoramas,Panthéon-Assas University Paris,Q662976,7,0,2,"public research university in Paris, France",Assas|Paris II|Pantheon-Assas University|Paris-Panthéon-Assas University|University Paris II|Assas University|Paris 2|University of Paris II,Q3551775|Q875538,,Paris-Panthéon-Assas University
+passage des Panoramas,family grave,Q1348223,7,0,2,Space for which a family has hereditary burial rights for its members,family tomb|mausoleum|pantheon,,Q173387,
+passage des Panoramas,place de la Concorde,Q189503,7,0,2,"square in the 8th arrondissement of Paris, France","Place Louis XV|Place de la Révolution|Place de la Revolution|Place de la Concorde, Paris",Q174782,,Place de la Concorde
+passage des Panoramas,Place de la Concorde,Q18666479,7,0,2,painting by Piet Mondrian,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q7200240,7,0,2,painting by Edgar Degas,Viscount Lepic and his Daughters Crossing the Place de la Concorde|Ludovic Lepic and his Daughters,Q3305213,,Place de la Concorde (Degas)
+passage des Panoramas,Place De La Concorde,Q3906115,7,0,2,concert,,Q482994,,Place De La Concorde (concert)
+passage des Panoramas,Place de la Concorde,Q3390359,7,0,2,1896 film by Georges Méliès,,Q24862,,Place de la Concorde (film)
+passage des Panoramas,Place de la Concorde,Q19018397,7,0,2,painting by Pierre Thévenet,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q20890767,7,0,2,painting by Pierre Antoine de Machy,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q64608293,7,0,2,drawing in the National Gallery of Art (NGA 181043),,Q93184,,
+passage des Panoramas,Place de la Concorde,Q106386057,7,0,2,painting by Hans Ekegårdh,,Q3305213,,
+passage des Panoramas,Place De La Concorde,Q28496987,7,0,2,1939 film by Karel Lamač,,Q11424,,Place de la Concorde (1939 film)
+passage des Panoramas,passage des Panoramas,Q3141829,8,0,1,"thoroughfare in Paris, France",,Q13634881|Q2900244,,Passage des Panoramas
+passage des Panoramas,Passage des Panoramas,Q106643532,8,0,1,"passageway in Les Lilas, France",,Q13634881,,
+passage des Panoramas,passage des Panoramas,Q116271557,8,0,1,"passageway in Suresnes, France",,Q13634881,,
+passage des Panoramas,Passage des Panoramas,Q60291423,8,0,1,"""Histoire de Paris"" panel in Paris 2nd arrondissement",,Q3362192,,
+passage des Panoramas,Panthéon,Q3362490,8,0,2,2004 album by Booba,Pantheon,Q482994,,Panthéon (album)
+passage des Panoramas,Panthéon,Q188856,8,0,2,mausoleum in Paris for the most distinguished French people,Panthéon (Paris)|Pantheon (Paris)|Pantheon|Eglise Sainte-Geneviève|Eglise Sainte-Genevieve,Q162875|Q16970,,Panthéon
+passage des Panoramas,Pantheon,Q56342589,8,0,2,Elementary OS desktop environment,,Q205020|Q341,,Pantheon (desktop environment)
+passage des Panoramas,Pantheon Books,Q520387,8,0,2,American book publishing imprint,,Q1320047|Q2608849,,Pantheon Books
+passage des Panoramas,University of Paris 1 Pantheon-Sorbonne,Q999763,8,0,2,"French university located at the heart of the Latin Quarter, in Paris",Paris 1|Paris I Panthéon-Sorbonne|Université Panthéon-Sorbonne|Université Paris1 Panthéon Sorbonne|pantheonsorbonne.fr|University of Paris I|Paris 1 Panthéon-Sorbonne University|University of Paris Panthéon-Sorbonne,Q3551775|Q875538,,Paris 1 Panthéon-Sorbonne University
+passage des Panoramas,Pantheon Verlag,Q111982010,8,0,2,publisher,Pantheon Verlag GmbH|Pantheon,Q2085381,,
+passage des Panoramas,Pantheon,Q99309,8,0,2,"ancient Roman temple in Rome, Italy","Pantheon (Rome, Italy)|Santa Maria ad Martyres|Basilica of Our Lady of the Martyrs|Basilica of Santa Maria ad Martyres|Basilica of Santa Maria|church of Santa Maria ad Martyres",Q867143|Q21752084|Q120560|Q96376684|Q14752696|Q92755865|Q3867560|Q112132548|Q112132522|Q124830411,,"Pantheon, Rome"
+passage des Panoramas,Pantheon,Q1749372,8,0,2,"building in Leipzig, Saxony, Germany",,Q5526694|Q805353|Q41253|Q857909,,
+passage des Panoramas,Panthéon-Assas University Paris,Q662976,8,0,2,"public research university in Paris, France",Assas|Paris II|Pantheon-Assas University|Paris-Panthéon-Assas University|University Paris II|Assas University|Paris 2|University of Paris II,Q3551775|Q875538,,Paris-Panthéon-Assas University
+passage des Panoramas,family grave,Q1348223,8,0,2,Space for which a family has hereditary burial rights for its members,family tomb|mausoleum|pantheon,,Q173387,
+passage des Panoramas,place de la Concorde,Q189503,8,0,2,"square in the 8th arrondissement of Paris, France","Place Louis XV|Place de la Révolution|Place de la Revolution|Place de la Concorde, Paris",Q174782,,Place de la Concorde
+passage des Panoramas,Place de la Concorde,Q18666479,8,0,2,painting by Piet Mondrian,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q7200240,8,0,2,painting by Edgar Degas,Viscount Lepic and his Daughters Crossing the Place de la Concorde|Ludovic Lepic and his Daughters,Q3305213,,Place de la Concorde (Degas)
+passage des Panoramas,Place De La Concorde,Q3906115,8,0,2,concert,,Q482994,,Place De La Concorde (concert)
+passage des Panoramas,Place de la Concorde,Q3390359,8,0,2,1896 film by Georges Méliès,,Q24862,,Place de la Concorde (film)
+passage des Panoramas,Place de la Concorde,Q19018397,8,0,2,painting by Pierre Thévenet,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q20890767,8,0,2,painting by Pierre Antoine de Machy,,Q3305213,,
+passage des Panoramas,Place de la Concorde,Q64608293,8,0,2,drawing in the National Gallery of Art (NGA 181043),,Q93184,,
+passage des Panoramas,Place de la Concorde,Q106386057,8,0,2,painting by Hans Ekegårdh,,Q3305213,,
+passage des Panoramas,Place De La Concorde,Q28496987,8,0,2,1939 film by Karel Lamač,,Q11424,,Place de la Concorde (1939 film)
+passage de la Moselle,passage de la Moselle,Q3368083,9,0,1,"thoroughfare in Paris, France",,Q13634881,,
+passage Leroy,passage Leroy,Q20682178,10,0,1,"walkway in Nantes, France",,Q13634881,,
+Passatge del Llor,Passatge del Llor,Q28404069,11,0,1,,,Q13634881|Q82117,,

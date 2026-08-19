@@ -1,0 +1,237 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Vanadzor,Vanadzor,Q62337,0,0,1,city in Armenia,,Q20724701|Q56061,,Vanadzor
+Vanadzor,Vanadzor Fine Arts Museum,Q20516874,0,0,1,museum in Armenia,,Q33506,,Vanadzor Fine Arts Museum
+Vanadzor,Vanadzor State University,Q13054964,0,0,1,university in Armenia,VSU,Q3918,,Vanadzor State University
+Vanadzor,Vanadzor station,Q4103274,0,0,1,railway station in Armenia,Vanadzor,Q55488,,
+Vanadzor,Vanadzor Art School,Q16400364,0,0,1,"school in Vanadzor, Armenia",Vanadzor state fine arts school after St. Aghajanyan,Q3914,,
+Vanadzor,Vanadzor Eduard Kzartmyan Music School,Q21703626,0,0,1,"school in Vanadzor, Armenia",,Q3914,,
+Vanadzor,Vanadzor chemical plant,Q16400367,0,0,1,,,Q83405,,
+Vanadzor,Vanadzor River,Q15732500,0,0,1,river in Armenia,,Q4022,,Vanadzor (river)
+Vanadzor,Vanadzor Municipality,Q135677788,0,0,1,"municipality in Lori Province, Armenia",,Q3685430,,
+Vanadzor,Vanadzor Botanical Garden,Q5926580,0,0,1,,,Q167346,,
+Lori Region,Lori Province,Q200350,0,3,1,region of Armenia,,Q514860,,Lori Province
+Lori Region,Lori Regional Library,Q58621649,0,3,1,"library in Vanadzor, Armenia",,Q7075,,
+Lori Region,Lori Regional Branch of the Writers' Union of Armenia,Q58040677,0,3,1,,,Q43229,,
+Lori Region,Vanadzor,Q62337,0,3,2,city in Armenia,,Q20724701|Q56061,,Vanadzor
+Lori Region,Vanadzor Fine Arts Museum,Q20516874,0,3,2,museum in Armenia,,Q33506,,Vanadzor Fine Arts Museum
+Lori Region,Vanadzor State University,Q13054964,0,3,2,university in Armenia,VSU,Q3918,,Vanadzor State University
+Lori Region,Vanadzor station,Q4103274,0,3,2,railway station in Armenia,Vanadzor,Q55488,,
+Lori Region,Vanadzor Art School,Q16400364,0,3,2,"school in Vanadzor, Armenia",Vanadzor state fine arts school after St. Aghajanyan,Q3914,,
+Lori Region,Vanadzor Eduard Kzartmyan Music School,Q21703626,0,3,2,"school in Vanadzor, Armenia",,Q3914,,
+Lori Region,Vanadzor chemical plant,Q16400367,0,3,2,,,Q83405,,
+Lori Region,Vanadzor River,Q15732500,0,3,2,river in Armenia,,Q4022,,Vanadzor (river)
+Lori Region,Vanadzor Municipality,Q135677788,0,3,2,"municipality in Lori Province, Armenia",,Q3685430,,
+Lori Region,Vanadzor Botanical Garden,Q5926580,0,3,2,,,Q167346,,
+Spitak,Spitak,Q280755,1,0,1,town in Armenia,Amamth|Hamamlu,Q20724701,,Spitak
+Spitak,Spitak,Q20515928,1,0,1,river in Armenia,,Q4022,,
+Spitak,Spitak,Q20515939,1,0,1,mountain in Armenia,,Q8502,,
+Spitak,Spitakes 2 (Pauly-Wissowa),Q109480691,1,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Spitak,1988 Spitak earthquake,Q815567,1,0,1,"December 1988 earthquake in Armenian SSR, USSR",Spitak earthquake,Q7944,,1988 Armenian earthquake
+Spitak,Spitak raion,Q4437911,1,0,1,raion of the Soviet Union,,Q20719675,,
+Spitak,Spitak,Q56457407,1,0,1,2018 film by Alexander Kott,,Q11424,,Spitak (film)
+Spitak,Spitak,Q3230250,1,0,1,settlement in Armenia,,Q486972,,
+Spitak,Spitak,Q35333726,1,0,1,"stream in Lori Region, Armenia",,Q47521,,
+Spitak,Spitakavor Monastery,Q2064093,1,0,1,cultural heritage monument of Armenia,,Q44613|Q2065736,,Spitakavor Monastery
+Lori Region,Lori Province,Q200350,1,3,1,region of Armenia,,Q514860,,Lori Province
+Lori Region,Lori Regional Library,Q58621649,1,3,1,"library in Vanadzor, Armenia",,Q7075,,
+Lori Region,Lori Regional Branch of the Writers' Union of Armenia,Q58040677,1,3,1,,,Q43229,,
+Lori Region,Spitak,Q280755,1,3,2,town in Armenia,Amamth|Hamamlu,Q20724701,,Spitak
+Lori Region,Spitak,Q20515928,1,3,2,river in Armenia,,Q4022,,
+Lori Region,Spitak,Q20515939,1,3,2,mountain in Armenia,,Q8502,,
+Lori Region,Spitakes 2 (Pauly-Wissowa),Q109480691,1,3,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Lori Region,1988 Spitak earthquake,Q815567,1,3,2,"December 1988 earthquake in Armenian SSR, USSR",Spitak earthquake,Q7944,,1988 Armenian earthquake
+Lori Region,Spitak raion,Q4437911,1,3,2,raion of the Soviet Union,,Q20719675,,
+Lori Region,Spitak,Q56457407,1,3,2,2018 film by Alexander Kott,,Q11424,,Spitak (film)
+Lori Region,Spitak,Q3230250,1,3,2,settlement in Armenia,,Q486972,,
+Lori Region,Spitak,Q35333726,1,3,2,"stream in Lori Region, Armenia",,Q47521,,
+Lori Region,Spitakavor Monastery,Q2064093,1,3,2,cultural heritage monument of Armenia,,Q44613|Q2065736,,Spitakavor Monastery
+Metsamor,Metsamor,Q1136307,2,0,1,town in the Armavir Province of Armenia,,Q20724701,,Metsamor
+Metsamor,Metsamor,Q1982935,2,0,1,river in Armenia,Sevdzhur,Q4022,,
+Metsamor,Metsamor,Q1828101,2,0,1,village in Armavir Province of Armenia,,Q28328984|Q532,,Metsamor (village)
+Metsamor,Metsamor site,Q11120743,2,0,1,"remains of an old fortress located to the southwest of the Armenian village of Taronik, in the Armavir Province.",,Q839954,,Metsamor site
+Metsamor,Armenian Nuclear Power Plant,Q946058,2,0,1,nuclear power plant in Armenia,Metsamor Nuclear Power Plant,Q134447,,Armenian Nuclear Power Plant
+Metsamor,Metsamor Municipality,Q138689418,2,0,1,"urban municipality in Armavir Province, Armenia",,Q3685430,,
+Metsamor,Metsamor Important Bird Area,Q61281920,2,0,1,region of Armenia designated as worthy of conservation for its avifauna,Metsamor IBA,Q1139892,,Metsamor Important Bird Area
+Metsamor,Metsamor,Q97375208,2,0,1,,,Q839954,,
+Metsamor,"Metsamor (Armenia): preliminary report on the excavations in 2013, 2014 and 2015. Appendix: Anthropological examination of burials from Metsamor in seasons 2013–2015",Q129534419,2,0,1,scholarly article,,Q13442814,,
+Metsamor,"Metsamor: the Early Iron Age/Urartian settlement in the Aras Valley, Armenia",Q138720359,2,0,1,scientific article published in December 2020,,Q13442814,,
+Armavir Region,Armavir Province,Q201147,2,3,1,province of Armenia,,Q514860,,Armavir Province
+Armavir Region,Armavir regional library,Q85985886,2,3,1,library,,Q7075,,
+Armavir Region,Armavir,Q15771,2,3,2,city in Armenia,,Q20724701,,"Armavir, Armenia"
+Alaverdi,Alaverdi,Q39545,3,0,1,city or town in Armenia,,Q3957|Q20724701,,"Alaverdi, Armenia"
+Alaverdi,Alaverdi community,Q137771497,3,0,1,Community in Armenia of Lori District (Marz),Alaverdi|Alaverdi community|Ալավերդի համայնք,Q3685430,,
+Alaverdi,Alaverdi,Q15672568,3,0,1,human settlement in Georgia,,Q486972,,
+Alaverdi,Alaverdi,Q16364579,3,0,1,,,Q486972,,
+Alaverdi,alaverdi,Q60972816,3,0,1,Georgian expression related to toasting,,Q8171,,Alaverdi (expression)
+Alaverdi,Alaverdi,Q23851799,3,0,1,article in Otto's encyclopedia,,Q13433827,,
+Alaverdi,Alaverdi Monastery,Q1749204,3,0,1,"Georgian Eastern Orthodox monastery in the region of Kakheti, Georgia",,Q11784935,,Alaverdi Monastery
+Alaverdi,Alaverdian,Q21496511,3,0,1,Armenian family name,Alahverdian|Alaverdyan,Q124741938,,Alaverdyan
+Alaverdi,Alaverdi Art Gallery,Q20515179,3,0,1,,,Q207694,,
+Alaverdi,Alaverdi Ramazanov,Q83687837,3,0,1,Russian Muay Thai kickboxer,,Q5,,Alaverdi Ramazanov
+Tumanyan District,Tumanyan District,Q4465368,3,3,1,district of Armenia,,Q20719675,,
+Tumanyan District,Tumanyan District,Q116919308,3,3,1,Subdistrict of Avan District of Yerevan,,Q123705,,
+Tumanyan District,Alaverdi,Q39545,3,3,2,city or town in Armenia,,Q3957|Q20724701,,"Alaverdi, Armenia"
+Tumanyan District,Alaverdi community,Q137771497,3,3,2,Community in Armenia of Lori District (Marz),Alaverdi|Alaverdi community|Ալավերդի համայնք,Q3685430,,
+Tumanyan District,Alaverdi,Q15672568,3,3,2,human settlement in Georgia,,Q486972,,
+Tumanyan District,Alaverdi,Q16364579,3,3,2,,,Q486972,,
+Tumanyan District,alaverdi,Q60972816,3,3,2,Georgian expression related to toasting,,Q8171,,Alaverdi (expression)
+Tumanyan District,Alaverdi,Q23851799,3,3,2,article in Otto's encyclopedia,,Q13433827,,
+Tumanyan District,Alaverdi Monastery,Q1749204,3,3,2,"Georgian Eastern Orthodox monastery in the region of Kakheti, Georgia",,Q11784935,,Alaverdi Monastery
+Tumanyan District,Alaverdian,Q21496511,3,3,2,Armenian family name,Alahverdian|Alaverdyan,Q124741938,,Alaverdyan
+Tumanyan District,Alaverdi Art Gallery,Q20515179,3,3,2,,,Q207694,,
+Tumanyan District,Alaverdi Ramazanov,Q83687837,3,3,2,Russian Muay Thai kickboxer,,Q5,,Alaverdi Ramazanov
+Tumanyan District,Lori Province,Q200350,3,3,2,region of Armenia,,Q514860,,Lori Province
+Tumanyan District,Lori Regional Library,Q58621649,3,3,2,"library in Vanadzor, Armenia",,Q7075,,
+Tumanyan District,Lori Regional Branch of the Writers' Union of Armenia,Q58040677,3,3,2,,,Q43229,,
+Meghri,Meghri,Q39549,4,0,1,"town in Syunik, Armenia",,Q20724701,,Meghri
+Meghri,Meghri,Q3304422,4,0,1,river in Armenia,,Q4022,,Meghri (river)
+Meghri,Meghri Region,Q4286664,4,0,1,,,Q20719675,,
+Meghri,Meghri Fortress,Q19559867,4,0,1,Armenian fortress,,Q57831|Q2065736,,Meghri Fortress
+Meghri,Meghri gorge,Q48078455,4,0,1,painting by Eduard Isabekyan,,Q3305213,,
+Meghri,Meghri Dam,Q2081671,4,0,1,dam in Meghri,,Q12323|Q1411996,,Meghri Dam
+Meghri,Meghrig Parikian,Q104911977,4,0,1,Armenian bishop (1968–2021),Meghrik Barikʻean,Q5,,Meghrig Parikian
+Meghri,Meghri Municipality,Q55394256,4,0,1,"urban community in Syunik, Armenia",,Q3685430,,Meghri Municipality
+Meghri,Meghrisar,Q60176601,4,0,1,mountain,,Q8502,,
+Meghri,Meghrie Assadour,Q135354945,4,0,1,Armenian basketball player (born 2007),,Q5,,
+Meghri,Vayots Dzor Province,Q200124,4,0,2,province of Armenia,,Q514860,,Vayots Dzor Province
+Meghri,Vayots Dzor Province Administration,Q16387477,4,0,2,,,Q6501447,,
+Meghri Region,Meghri Region,Q4286664,4,3,1,,,Q20719675,,
+Meghri Region,Vayots Dzor Province,Q200124,4,3,2,province of Armenia,,Q514860,,Vayots Dzor Province
+Meghri Region,Vayots Dzor Province Administration,Q16387477,4,3,2,,,Q6501447,,
+Abovyan,Abovyan,Q31493,5,0,1,"town in the Kotayk Province, Armenia",Abovian,Q20724701|Q532|Q486972|Q18466176|Q515,,Abovyan
+Abovyan,Abovyan,Q2379896,5,0,1,village in Ararat Province of Armenia,"Abovyan, Ararat",Q28328984,,"Abovyan, Ararat"
+Abovyan,Abovyan raion,Q4054812,5,0,1,,,Q20719675,,
+Abovyan,Abovyan,Q135913535,5,0,1,male given name,Abovian,Q12308941,,
+Abovyan,Abovyan Street,Q2742357,5,0,1,street in Yerevan,Khachatur Abovyan Street,Q79007,,Abovyan Street
+Abovyan,Khachatur Abovian house-museum,Q16364608,5,0,1,cultural heritage monument of Armenia,Khachatur Abovyan house-museum|Khachatur Abovian museum|Khachatur Abovyan museum|Abovian house-museum|Abovyan house-museum|Abovian museum|Abovyan museum,Q10624527,,
+Abovyan,Abovyan City Stadium,Q3655326,5,0,1,soccer stadium in Armenia,,Q483110,,Vahagn Tumasyan Stadium
+Abovyan,Gevorg Abovyan,Q13052637,5,0,1,,"Abovyan, Gevorg",Q5,,
+Abovyan,Victoria Abovyan,Q28790227,5,0,1,,"Abovyan, Victoria",Q5,,
+Abovyan,Abovyan mine,Q4054814,5,0,1,mine in Armenia,,Q820477,,Abovyan mine
+Abovyan raion,Abovyan raion,Q4054812,5,3,1,,,Q20719675,,
+Aparan,Aparan,Q39618,6,0,1,town in Armenia,Bash Aparan|Kasagh|Paraznavert|Aparanpol|Aparan Verin,Q20724701,,Aparan
+Aparan,Aparan,Q77339777,6,0,1,painting,,Q3305213,,
+Aparan,Aparan,Q4779127,6,0,1,1988 film by P. Padmarajan,,Q11424,,Aparan (film)
+Aparan,Aparan,Q65225962,6,0,1,municipality of Armenia,,Q3685430,,
+Aparan,Aparan,Q56542383,6,0,1,From the works of Hakob Kojoyan (Machine Graphics),,Q1027879,,
+Aparan,apron,Q273831,6,0,1,outer protective garment,,,Q828980,Apron
+Aparan,Aparan Basilica,Q2664877,6,0,1,cultural heritage monument of Armenia,,Q16970|Q2065736,,Kasagh Basilica
+Aparan,Aparan Reservoir,Q1965391,6,0,1,"reservoir in Aragatsotn Province, Armenia",,Q131681,,
+Aparan,Aparanta,Q4779128,6,0,1,geographical region of ancient India,,,,Aparanta
+Aparan,Apārangi Planitia,Q28950324,6,0,1,geologic basin on Mercury,,Q3391469|Q160091,,Apārangi Planitia
+Aparan,Vagharshapat,Q183394,6,0,2,city in Armenia,Ejmiatsin|Etchmiadzin|Echmiadzin|Ēǰmiajin|Vałaršapat|Echmiatsin|Caenepolis,Q20724701,,Vagharshapat
+Aparan,Echmiadzinsky Uyezd,Q4533366,6,0,2,uyezd in Russia,,Q18867465,,Etchmiadzin uezd
+Aparan,Echmiadzin Gospels,Q5332637,6,0,2,illuminated manuscript,Ēdjmiadzin Gospels,Q690851|Q48498,,Echmiadzin Gospels
+Aparan,Echmiadzin Canal,Q16380918,6,0,2,cultural heritage monument of Armenia,,Q12284|Q2065736,,
+Aparan,Etchmiadzin,Q4533363,6,0,2,Wikimedia disambiguation page,,Q4167410,,Etchmiadzin (disambiguation)
+Echmiadzinsky Uyezd,Echmiadzinsky Uyezd,Q4533366,6,3,1,uyezd in Russia,,Q18867465,,Etchmiadzin uezd
+Echmiadzinsky Uyezd,Vagharshapat,Q183394,6,3,2,city in Armenia,Ejmiatsin|Etchmiadzin|Echmiadzin|Ēǰmiajin|Vałaršapat|Echmiatsin|Caenepolis,Q20724701,,Vagharshapat
+Echmiadzinsky Uyezd,Echmiadzin Gospels,Q5332637,6,3,2,illuminated manuscript,Ēdjmiadzin Gospels,Q690851|Q48498,,Echmiadzin Gospels
+Echmiadzinsky Uyezd,Echmiadzin Canal,Q16380918,6,3,2,cultural heritage monument of Armenia,,Q12284|Q2065736,,
+Echmiadzinsky Uyezd,Etchmiadzin,Q4533363,6,3,2,Wikimedia disambiguation page,,Q4167410,,Etchmiadzin (disambiguation)
+Tsaghkadzor,Tsaghkadzor,Q140342,7,0,1,spa town and urban municipal community in Armenia,Darashishak,Q20724701,,Tsaghkadzor
+Tsaghkadzor,Tsaghkadzor,Q16384060,7,0,1,river in Armenia,,Q4022,,
+Tsaghkadzor,Tsaghkadzor ski resort,Q7849301,7,0,1,ski resort in local municipality Tsaghkadzor in Armenia,,Q130003,,Tsaghkadzor ski resort
+Tsaghkadzor,Tsaghkadzor Olympic Sports Complex,Q30595073,7,0,1,"sports complex in Tsaghkadzor, Armenia",,,,Tsaghkadzor Olympic Sports Complex
+Tsaghkadzor,Tsaghkadzor Municipality,Q138779757,7,0,1,"municipality in Kotayk Province, Armenia",,Q3685430,,
+Tsaghkadzor,Tsaghkadzor,Q12711849,7,0,1,,,,,
+Tsaghkadzor,Cableway in Tsaghkadzor,Q28599444,7,0,1,cableway in Armenia,,Q498002,,
+Tsaghkadzor,Hrazdan,Q31610,7,0,2,"capital and largest city of the Kotayk Province, Armenia",,Q515|Q2989457|Q532,,Hrazdan
+Tsaghkadzor,Hrazdan,Q4388369,7,0,2,region in Armenia,,Q20719675,,
+Tsaghkadzor,Hrazdan River,Q30548,7,0,2,river in Armenia,,Q4022,,Hrazdan (river)
+Tsaghkadzor,Hrazdan Stadium,Q683493,7,0,2,football stadium,,Q1154710,,Hrazdan Stadium
+Tsaghkadzor,Hrazdan station in Armenia,Q4388364,7,0,2,railway station in Armenia,,Q55488,,
+Tsaghkadzor,Hrazdan,Q4388362,7,0,2,Armenian computer model series,,Q60484681,,
+Tsaghkadzor,Hrazdan TV,Q754808,7,0,2,private TV company,,Q1616075,,Hrazdan TV
+Tsaghkadzor,Hrazdan Gorge Aqueduct,Q13054533,7,0,2,cultural heritage monument of Armenia,,Q12280,,Hrazdan Gorge Aqueduct
+Tsaghkadzor,Hrazdan Thermal Power Plant,Q4388366,7,0,2,,Hrazdan TPP,Q1434958,,Hrazdan Thermal Power Plant
+Tsaghkadzor,Hrazdan Hydroelectric Power Plant,Q4072025,7,0,2,,Atarbekyan Hydro Power Plant|Sevan–Hrazdan Cascade,Q15911738,,Atarbekyan Hydro Power Plant
+Tsaghkadzor,Armenian Village,Q56510467,7,0,2,painting by Martiros Saryan,,Q3305213,,
+Tsaghkadzor,Armenian village at sunrise,Q28813368,7,0,2,painting by Gevork Bashindzhagian,,Q3305213,,
+Tsaghkadzor,Armenian Village Life Before 1914,Q130641897,7,0,2,,,Q20540385,,Armenian Village Life Before 1914
+Tsaghkadzor,Armenian Village Life Before 1914. SUSIE HOOGASIAN VILLA and MARY KILBOURNE MATOSSIAN,Q137482061,7,0,2,scholarly article published in American Ethnologist (1985),,Q13442814,,
+Tsaghkadzor,Winter Resort Simulator 2,Q114946104,7,0,2,2020 video game,Winter Resort Simulator Season 2,Q7889,,
+Tsaghkadzor,Winter Resort Simulator,Q122347639,7,0,2,2019 video game,,Q7889,,
+Tsaghkadzor,Winter Resorts: IV.-St. Raphaël. As a Winter Station.-The Ozone Cure,Q54957205,7,0,2,scientific article published on 01 February 1892,,Q13442814,,
+Tsaghkadzor,Winter Resorts: III.--San Remo,Q58742377,7,0,2,scientific article published in the British Medical Journal,,Q13442814,,
+Hrazdan,Hrazdan,Q31610,7,3,1,"capital and largest city of the Kotayk Province, Armenia",,Q515|Q2989457|Q532,,Hrazdan
+Hrazdan,Hrazdan,Q4388369,7,3,1,region in Armenia,,Q20719675,,
+Hrazdan,Hrazdan River,Q30548,7,3,1,river in Armenia,,Q4022,,Hrazdan (river)
+Hrazdan,Hrazdan Stadium,Q683493,7,3,1,football stadium,,Q1154710,,Hrazdan Stadium
+Hrazdan,Hrazdan station in Armenia,Q4388364,7,3,1,railway station in Armenia,,Q55488,,
+Hrazdan,Hrazdan,Q4388362,7,3,1,Armenian computer model series,,Q60484681,,
+Hrazdan,Hrazdan TV,Q754808,7,3,1,private TV company,,Q1616075,,Hrazdan TV
+Hrazdan,Hrazdan Gorge Aqueduct,Q13054533,7,3,1,cultural heritage monument of Armenia,,Q12280,,Hrazdan Gorge Aqueduct
+Hrazdan,Hrazdan Thermal Power Plant,Q4388366,7,3,1,,Hrazdan TPP,Q1434958,,Hrazdan Thermal Power Plant
+Hrazdan,Hrazdan Hydroelectric Power Plant,Q4072025,7,3,1,,Atarbekyan Hydro Power Plant|Sevan–Hrazdan Cascade,Q15911738,,Atarbekyan Hydro Power Plant
+Artik,Artik,Q1155098,8,0,1,"town in Shirak, Armenia",,Q20724701|Q2989457,,Artik
+Artik,Artik,Q83381923,8,0,1,2019 film directed by Tom Botchii Skowronski,,Q11424,,Artik (film)
+Artik,Artik,Q21088025,8,0,1,Ukrainian singer and record producer,Artem Umrykhin,Q5,,Artik (singer)
+Artik,Artik & Asti,Q24287657,8,0,1,Seville-managed Russian music project; former Ukrainian musical duo,,Q9212979|Q177220,,Artik & Asti
+Artik,Artik,Q24065460,8,0,1,crater on Mars,,Q1475691,,
+Artik,Artik,Q109330615,8,0,1,Diocese of the Armenian Apostolic Church,,Q665487,,
+Artik,Artikaulna (Pauly-Wissowa),Q21201346,8,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Artik,Artik Papoyan,Q102358238,8,0,1,"Ph.D. Institute of Mathematics, National Academy of Sciences of Armenia 1986",,Q5,,
+Artik,BIJ1,Q28857892,8,0,1,Dutch political party founded in 2016,Article 1,Q7278,,Bij1
+Artik,Arctic,Q25322,8,0,1,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Aleksandropol County,Aleksandropol County,Q4061566,8,3,1,uyezd in Russian empire,,Q18867465|Q18867064,,Alexandropol uezd
+Aleksandropol County,Artik,Q1155098,8,3,2,"town in Shirak, Armenia",,Q20724701|Q2989457,,Artik
+Aleksandropol County,Artik,Q83381923,8,3,2,2019 film directed by Tom Botchii Skowronski,,Q11424,,Artik (film)
+Aleksandropol County,Artik,Q21088025,8,3,2,Ukrainian singer and record producer,Artem Umrykhin,Q5,,Artik (singer)
+Aleksandropol County,Artik & Asti,Q24287657,8,3,2,Seville-managed Russian music project; former Ukrainian musical duo,,Q9212979|Q177220,,Artik & Asti
+Aleksandropol County,Artik,Q24065460,8,3,2,crater on Mars,,Q1475691,,
+Aleksandropol County,Artik,Q109330615,8,3,2,Diocese of the Armenian Apostolic Church,,Q665487,,
+Aleksandropol County,Artikaulna (Pauly-Wissowa),Q21201346,8,3,2,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Aleksandropol County,Artik Papoyan,Q102358238,8,3,2,"Ph.D. Institute of Mathematics, National Academy of Sciences of Armenia 1986",,Q5,,
+Aleksandropol County,BIJ1,Q28857892,8,3,2,Dutch political party founded in 2016,Article 1,Q7278,,Bij1
+Aleksandropol County,Arctic,Q25322,8,3,2,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Berd,Berd,Q37217143,9,0,1,family name,,Q101352,,
+Berd,Berd,Q1886688,9,0,1,"town in Tavush Province, Armenia",,Q20724701,,Berd
+Berd,Berd,Q818861,9,0,1,"river in Novosibirsk Oblast and Altai Krai, Russia",Berd',Q4022,,Berd (river)
+Berd,Berdorf,Q818891,9,0,1,"commune in the canton of Echternach, Luxembourg",Commune of Berdorf,Q2919801,,Berdorf
+Berd,Berdeniella,Q11909038,9,0,1,genus of insects,,Q16521,,Berdeniella
+Berd,Berdine R. Martin,Q113997896,9,0,1,American nutrition researcher,Berdine Martin,Q5,,
+Berd,Berdoues,Q996946,9,0,1,"commune in Gers, France",,Q484170,,Berdoues
+Berd,Berden,Q59214,9,0,1,"village in Essex, UK","Berden, Essex",Q532|Q1115575,,Berden
+Berd,Berd'huis,Q1095149,9,0,1,"commune in Orne, France",,Q484170,,Berd'huis
+Berd,Berdien Stenberg,Q532845,9,0,1,"Dutch flutist, politician",,Q5,,Berdien Stenberg
+Kazakhsky Uyezd,Kazakhsky Uyezd,Q6380789,9,3,1,"place in Uyezd, Russia",,Q18867064|Q18867465,,Kazakh uezd
+Yeghvard,Yeghvard,Q1649945,10,0,1,"city in Kotayk, Armenia",,Q20724701,,Yeghvard
+Yeghvard,Yeghvard,Q3049186,10,0,1,village in Syunik Province of Armenia,,Q28328984,,"Yeghvard, Syunik"
+Yeghvard,Yeghvard Church,Q3851594,10,0,1,cultural heritage monument of Armenia,Holy Mother of God Church|St. Astvatsatsin Church|Surb Astvatsatsin Church,Q16970,,"Holy Mother of God Church, Yeghvard"
+Yeghvard,Yeghvard reservoir,Q21211416,10,0,1,Water reservoir in Armenia,,Q131681,,
+Yeghvard,Yeghvard sport shoes factory,Q106485566,10,0,1,,,Q491,,
+Yeghvard,Yeghvardi-4,Q135688743,10,0,1,Armenian cultivar of winter wheat,,Q4886,Q6977574,
+Yeghvard,Yeghvard,Q4022650,10,0,1,Wikimedia disambiguation page,,Q4167410,,
+Persian Armenia,Sasanian Armenia,Q2571688,10,3,1,province of the Sasanian Empire,Persarmenia|Sasanian Armenia|Persian Armenia|Armin|Armanestan,Q15649510,,Sasanian Armenia
+Persian Armenia,Armenia,Q399,10,3,2,sovereign state in the South Caucasus region of Eurasia,Hayastan|Republic of Armenia|Hayastani Hanrapetut’yun|Հայաստան,Q3624078|Q123480|Q6256|Q140892892,,Armenia
+Persian Armenia,Armenian,Q8785,10,3,2,Indo-European language,Armenian language|Hayeren,Q1288568|Q33742,Q19860,Armenian language
+Persian Armenia,Armenia,Q934767,10,3,2,Colombian municipality of the department of Antioquia,"Armenia, Antioquia|Antioquia",Q2555896,,"Armenia, Antioquia"
+Persian Armenia,Armenia,Q37182918,10,3,2,family name,,Q101352,,
+Persian Armenia,Armenian Wikipedia,Q1975217,10,3,2,Armenian-language edition of Wikipedia,,Q10876391|Q21286561|Q123407493,,Armenian Wikipedia
+Persian Armenia,Armenians,Q79797,10,3,2,ethnic group native to the Armenian Highlands,Armenian people,Q41710|Q2472587|Q33829,Q475027,Armenians
+Persian Armenia,Armenian Soviet Encyclopedia,Q2657718,10,3,2,first general encyclopedia in Armenian language,ASE,Q1525071|Q1239328,,Armenian Soviet Encyclopedia
+Persian Armenia,First Republic of Armenia,Q139670,10,3,2,Armenian state existing from 1918–1920,Armenia,Q3024240|Q3624078,,First Republic of Armenia
+Persian Armenia,khachkar,Q654476,10,3,2,"carved, memorial stele bearing a cross, Armenian symbol",Armenian stone cross,Q18783400,Q178743|Q245117|Q17156398,Khachkar
+Persian Armenia,Armenia,Q328518,10,3,2,capital of the Colombian department of Quindío,,Q2555896|Q63209072|Q1549591,,"Armenia, Colombia"
+Persian Armenia,Yeghvard,Q1649945,10,3,2,"city in Kotayk, Armenia",,Q20724701,,Yeghvard
+Persian Armenia,Yeghvard,Q3049186,10,3,2,village in Syunik Province of Armenia,,Q28328984,,"Yeghvard, Syunik"
+Persian Armenia,Yeghvard Church,Q3851594,10,3,2,cultural heritage monument of Armenia,Holy Mother of God Church|St. Astvatsatsin Church|Surb Astvatsatsin Church,Q16970,,"Holy Mother of God Church, Yeghvard"
+Persian Armenia,Yeghvard reservoir,Q21211416,10,3,2,Water reservoir in Armenia,,Q131681,,
+Persian Armenia,Yeghvard sport shoes factory,Q106485566,10,3,2,,,Q491,,
+Persian Armenia,Yeghvardi-4,Q135688743,10,3,2,Armenian cultivar of winter wheat,,Q4886,Q6977574,
+Persian Armenia,Yeghvard,Q4022650,10,3,2,Wikimedia disambiguation page,,Q4167410,,
+Persian Armenia,Persian,Q9168,10,3,2,Western Iranian language,Persian language|Farsi language|Iranian language|Iranian|Farsic–Caucasian Tat|Farsic-Caucasian Tat,Q33742|Q1288568|Q152559|Q1047113|Q2267705|Q215844|Q34770|Q25295|Q1208380,Q56356571,Persian language
+Persian Armenia,Persian Wikipedia,Q48952,10,3,2,Persian-language edition of Wikipedia,Farsi Wikipedia,Q10876391,,Persian Wikipedia
+Persian Armenia,Iran,Q794,10,3,2,country in Western Asia,Islamic Republic of Iran|ir|Islamic Rep. Iran|IRI,Q3624078|Q6256|Q127693126,,Iran
+Persian Armenia,Solar Hijri calendar,Q950135,10,3,2,official calendar of Iran,Solar Hejri calendar|Shamsi Hijri calendar|SH|Iranian calendar|Persian calendar|Iranian Hijri calendar|Hijri Shamsi calendar|Solar Hijri Calendar,Q180311,Q210953,Solar Hijri calendar
+Persian Armenia,Persian Gulf,Q34675,10,3,2,extension of the Indian Ocean,Gulf of Iran|Al-Farsi Gulf|The Gulf|Arabian Gulf,Q165|Q1322134,,Persian Gulf
+Persian Armenia,Persian,Q11109038,10,3,2,Pokémon species,,Q25930498,Q1569167,Persian (Pokémon)
+Persian Armenia,Gulf War,Q37643,10,3,2,1990–1991 conflict between Iraq and a 42-country coalition,Kuwait War|Iraq War|First Gulf War|Gulf War I|First Iraq War|Persian Gulf War|Video Game War,Q198,,Gulf War
+Persian Armenia,Persian cat,Q42610,10,3,2,cat breed,Persian,Q43577,Q146,Persian cat
+Persian Armenia,Melia azedarach,Q162171,10,3,2,species of plant,Persian lilac|Cape lilac|China berry|China tree|Chinaberry tree|Indian lilac|seringa|bead tree|berry tree|white cedar|syringa berrytree|Chinaberry|pride of India|Texas umbrella tree|China-berry|lelah|paraiso,Q16521|Q188840,,Melia azedarach
+Persian Armenia,Juglans regia,Q46871,10,3,2,species of plant,common walnut|Old World Walnut|Walnut|Persian Walnut|Juglans fallax,Q16521,Q10884|Q11992872,Juglans regia
+Persian Armenia,Armenian culture,Q20432335,10,3,2,culture of Armenian people,,Q120870093,Q33094180,
+Persian Armenia,Armenian history,Q123663719,10,3,2,"This is the supposed Armenian original of Anonymous, Account of Armenian affairs. Two other texts may be dependent on this lost Armenian text: a letter from Photius of Constantinople to the Armenian Catholicos Zakaria, preserved only in Armenian, and",,Q47461344|Q18706315,,
+Persian Armenia,Armenian History and the Question of Genocide,Q139687223,10,3,2,,,Q571,,
+Persian Armenia,timeline of Armenian history,Q2038742,10,3,2,timeline,Armenian history timeline,Q18043430|Q18340550,,Timeline of Armenian history

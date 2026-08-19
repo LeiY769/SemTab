@@ -1,0 +1,169 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kloosterbos,Kloosterbosch,Q13744287,0,0,1,"forest in Valkenburg aan de Geul, Netherlands",Kloosterbos,Q4421|Q10594991,,
+Kloosterbos,Kloosterbos,Q2601366,0,0,1,"forest in Zottegem, Belgium",,Q4421|Q10594991,,
+Kloosterbos,Kloosterbos,Q2619118,0,0,1,,,Q28853922|Q4421|Q10594991,,
+Kloosterbos,Kloosterbos,Q19304278,0,0,1,"street in Almere, the Netherlands",,Q79007,,
+Kloosterbos,Kloosterbosch,Q19304279,0,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Kloosterbos,Kloosterbosstraat,Q1998394,0,0,1,,,Q54050,,
+Kloosterbos,Kloosterbosch,Q25640956,0,0,1,"former hamlet in Kerkrade, Netherlands",,Q5084,,
+Kloosterbos,Kloosterbosvoetpad,Q19304281,0,0,1,"street in Kerkrade, the Netherlands",,Q79007,,
+Kloosterbos,Kloosterbosstraat,Q19304280,0,0,1,"street in Kerkrade, the Netherlands",,Q79007,,
+Kloosterbos,Kloosterbos,Q2303541,0,0,1,,,Q4421,,
+Kloosterbos,Amsterdamse Bos,Q511560,0,0,2,park in the Netherlands,Amsterdamse Bos,Q338112|Q22698|Q10594991|Q4421,,Amsterdamse Bos
+Kloosterbos,Amsterdamse Bostheater,Q34668801,0,0,2,,,Q336514|Q11183017,,
+Gemeindewald,Gemeindewald,Q21875126,1,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,1,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,1,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,1,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,1,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,1,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,1,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,1,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,1,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,1,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,2,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,2,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,2,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,2,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,2,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,2,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,2,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,2,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,2,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,2,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,3,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,3,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,3,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,3,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,3,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,3,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,3,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,3,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,3,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,3,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,4,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,4,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,4,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,4,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,4,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,4,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,4,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,4,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,4,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,4,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,5,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,5,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,5,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,5,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,5,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,5,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,5,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,5,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,5,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,5,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,6,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,6,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,6,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,6,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,6,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,6,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,6,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,6,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,6,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,6,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,7,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,7,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,7,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,7,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,7,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,7,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,7,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,7,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,7,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,7,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,8,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,8,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,8,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,8,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,8,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,8,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,8,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,8,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,8,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,8,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,9,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,9,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,9,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,9,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,9,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,9,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,9,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,9,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,9,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,9,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Gemeindewald,Gemeindewald,Q21875126,10,0,1,forest in Lower Austria in the municipality Rauchenwarth,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861939,10,0,1,"forest in Lower Austria, municipality Weitersfeld",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875189,10,0,1,"forest in Lower Austria, municipality Ebenthal",,Q4421,,
+Gemeindewald,Gemeindewald,Q21875636,10,0,1,forest in Lower Austria in the municipality Göllersdorf,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861708,10,0,1,"forest in Lower Austria, municipality Heidenreichstein",,Q4421,,
+Gemeindewald,Gemeindewald,Q21861638,10,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Litschau, Eisgarn",,Q4421,,
+Gemeindewald,Gemeindewald,Q21859962,10,0,1,forest in Lower Austria in the municipality Trautmannsdorf an der Leitha,,Q4421,,
+Gemeindewald,Gemeindewald,Q21861630,10,0,1,"forest in Lower Austria, municipalities Heidenreichstein, Schrems, Brand-Nagelberg",,Q4421,,
+Gemeindewald,Maurer Wald,Q21859793,10,0,1,forest in Vienna,Mauerer Wald|Gemeindewald,Q473972|Q4421,,
+Gemeindewald,urban forest,Q1197552,10,0,1,"collection of trees within a city, town or a suburb",urban forests,Q65262710,Q4421|Q22698,Urban forest
+Eggwald,Eggwald,Q97362460,11,0,1,,,Q4421,,
+Eggwald,Eggwald,Q22376595,11,0,1,,,Q4421,,
+Eggwald,Eggwaldried,Q108204666,11,0,1,"fenland of national importance in Dallenwil, canton of Nidwalden, Switzerland",NW-2987,Q473972,,
+Eggwald,Eggwald - Looch,Q108095593,11,0,1,protected area in Switzerland,,Q473972,,
+Eggwald,Eggwaldtanne / Hofbächletanne,Q58014548,11,0,1,"natural monument in Brigachtal, Baden-Württemberg, Germany",,Q21573182,,
+Oderwald,Oderwald,Q117307315,12,0,1,family name,,Q101352,,
+Oderwald,Oderwald,Q516969,12,0,1,Samtgemeinde in Lower Saxony,,Q447523|Q4421,,Oderwald
+Oderwald,Oderwald,Q2014447,12,0,1,mountains in Germany,,Q46831,,
+Oderwald,Oderwald-Lander,Q117307357,12,0,1,family name,,Q101352|Q106319018,,
+Oderwald,Oderwald (Süd),Q61991494,12,0,1,"protected landscape in Lower Saxony, Germany",,Q21503788|Q473972,,
+Oderwald,Oderwald (Nord),Q61991493,12,0,1,"protected landscape in Lower Saxony, Germany",,Q21503788|Q473972,,
+Oderwald,Dziergowice,Q984113,12,0,1,village of Poland,,Q3558970,,Dziergowice
+Oderwald,Oderwald,Q11796085,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Oderwald,Wald,Q67272,12,0,2,"municipality in the canton of Zürich, Switzerland","Wald ZH|Wald, Canton of Zürich, Switzerland",Q70208,,"Wald, Zürich"
+Oderwald,Wald,Q67175,12,0,2,"municipality in the canton Appenzell Ausserrhoden, Switzerland","Wald AR|Wald, Canton of Appenzell Ausserrhoden, Switzerland",Q70208,,"Wald, Appenzell Ausserrhoden"
+Oderwald,Waldemar,Q18609914,12,0,2,male given name,Waldemar (given name)|Waldemar (first name),Q12308941,,Waldemar
+Oderwald,Wald,Q75698854,12,0,2,"village in Dietersburg, Bavaria",,Q253019|Q532,,
+Oderwald,Waldenburg,Q20085,12,0,2,"town in Saxony, Germany",,Q42744322,,"Waldenburg, Saxony"
+Oderwald,Waldshut-Tiengen,Q505433,12,0,2,"municipality in Baden-Württemberg, Germany",Waldshut|Waldshuet-Düenge|Waldshuet,Q42744322|Q902814|Q134626|Q116621859,,Waldshut-Tiengen
+Oderwald,Waldmünchen,Q503213,12,0,2,municipality of Germany,,Q42744322,,Waldmünchen
+Oderwald,Waldsassen,Q241889,12,0,2,Town in Germany,,Q42744322|Q1815926,,Waldsassen
+Oderwald,Waldkirch,Q505447,12,0,2,"urban municipality in the district of Emmendingen, Baden-Württemberg, Germany",,Q2556234|Q42744322|Q116621859,,Waldkirch
+Oderwald,Wald,Q16965278,12,0,2,family name,,Q101352,,Wald (surname)
+Oderwald,Forest,Q72946,12,0,2,"municipality in the Brussels-Capital Region, Belgium",Vorst,Q493522,,"Forest, Belgium"
+Oderwald,forest,Q4421,12,0,2,subjective characterization of an area with trees,wood,Q125824188|Q2083910|Q151885|Q137022846,Q101998|Q184806|Q27096220|Q618123|Q37813|Q52105|Q1554231,Forest
+Oderwald,Forest,Q8564562,12,0,2,family name,Forest family name|Forest surname|Forest given name,Q101352,,Forest (name)
+Oderwald,Forest,Q21129930,12,0,2,male given name,,Q12308941,,
+Oderwald,Nottingham Forest F.C.,Q19490,12,0,2,"association football club in West Bridgford, England",Nottingham Forest Football Club|Nottingham Forest FC|Forest|The Reds|Tricky Trees|Nottingham Forest|NFFC|Nottm Forest,Q476028,,Nottingham Forest F.C.
+Oderwald,Forest,Q2324169,12,0,2,parish in Guernsey,,Q3365965,,"Forest, Guernsey"
+Oderwald,Forest-Montiers,Q117709,12,0,2,"commune in Somme, France",Forest,Q484170,,Forest-Montiers
+Oderwald,Forest,Q599213,12,0,2,Russian band,,Q215380,,
+Oderwald,Forest-l'Abbaye,Q145338,12,0,2,"commune in Somme, France",Forest,Q484170,,Forest-l'Abbaye
+Oderwald,Forest,Q2017551,12,0,2,"section of Frasnes-lez-Anvaing, Belgium",,Q2785216,,
+Oderwald,nature reserve,Q179049,12,0,2,"protected area for flora, fauna or features of geological interest",natural reserve|nature preserve|natural preserve|bioreserve|preserve|preserves|wildlife preserve,,Q473972|Q1286517|Q386426,Nature reserve
+Oderwald,nature area,Q10594991,12,0,2,"general name for all kinds of areas with striking features when it comes to flora, fauna, geological or landscape conditions, protected and not protected",nature reserve|national park|natural landscape|nature park|natural monument,,Q4835091|Q386426,
+Oderwald,nature reserve,Q28055269,12,0,2,type of protected area in Latvia‎,,Q108028209,Q16362115|Q179049,
+Oderwald,nature reserve,Q104804750,12,0,2,type of nature reserve in Quebec (Canada),nature reserve in Quebec,Q108028209,Q179049|Q65498881,
+Oderwald,nature reserve,Q45754521,12,0,2,type of protected area in Estonia,,Q108028209,Q3622110|Q179049,
+Oderwald,Naturschutzgebiet,Q759421,12,0,2,"nature reserve in Germany, category of protected area within German Federal Conservation Law",NSG|DE02|nature reserve (Germany),Q74817647|Q108028209,Q179049|Q20296613|Q386426,Naturschutzgebiet
+Oderwald,nature reserve,Q1627961,12,0,2,nature reserve designation in Austria,naturschutzgebiet,Q108028209,Q473972|Q361733,
+Oderwald,nature reserve in Poland,Q9309832,12,0,2,national designation of Poland for protected areas,nature reserves in Poland,Q108028209,Q179049|Q3564598,Nature reserves in Poland
+Oderwald,nature reserve,Q108059863,12,0,2,national designation of Norway for protected areas,,Q108028209,Q7251280|Q179049,
+Oderwald,nature reserve in the Czech Republic,Q21101734,12,0,2,national designation of Czech Republic for protected areas registered in the CDDA Nationally Designated Areas inventory,CZ02,Q74817647|Q108028209,Q179049,
+Ary-Mas,Ary-Mas,Q3820768,13,0,1,,,Q4421|Q1959314,,Ary-Mas
+Ary-Mas,Ary-Mas,Q32284872,13,0,1,river in Russia,,Q4022,,
+Ary-Mas,Ary-Mastakh,Q32284880,13,0,1,river in Russia,,Q4022,,
+Sauwald,Sauwald,Q2227891,14,0,1,mountains in Austria,,Q46831|Q2133327,,Sauwald
+Sauwald,Sauwald Straße,Q1698537,14,0,1,road in Austria,,Q34442,,
+Sauwald,Sauwald,Q21875888,14,0,1,forest in Upper Austria,,Q4421,,
+Sauwald,Sauwald,Q32281082,14,0,1,,,Q4421,,
+Sauwald,Sauwaldhof,Q2227901,14,0,1,,,Q2330613,,
+Sauwald,Sauwald,Q24207536,14,0,1,Wikimedia disambiguation page,,Q4167410,,
+Sauwald,Saualpe,Q2226949,14,0,2,alpin mountain chain,Saualm,Q3977906,,
+Sauwald,zoisite,Q213544,14,0,2,sorosilicate mineral,Saualpite,Q12089225,Q11607857,Zoisite
+Kaapse Bossen,Kaapse Bossen,Q2123836,15,0,1,,,Q4421|Q10594991,,
+Kaapse Bossen,Kaapse Bossen,Q19283638,15,0,1,"street in Vleuten, the Netherlands",,Q79007,,

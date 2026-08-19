@@ -1,0 +1,134 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Raising of the Cross,Raising of the Cross,Q7759352,0,0,1,biblical episode and artistic theme,The Raising of the Cross|Elevation of the Cross|The Elevation of the Cross,Q1406161|Q106355253,,Raising of the Cross
+The Raising of the Cross,The Raising of the Cross,Q41796334,0,0,1,"painting by Peter Paul Rubens (Louvre, MNR 411)",The Elevation of the Cross,Q3305213|Q79218,,
+The Raising of the Cross,The raising of the cross,Q60618282,0,0,1,painting by Anthony van Dyck,,Q3305213,,
+The Raising of the Cross,The raising of the cross,Q48560098,0,0,1,"lost painting by Peter Paul Rubens, formerly in Santa Croce in Gerusalemme",,Q3305213,,
+The Raising of the Cross,The Raising of the Cross,Q29655273,0,0,1,"painting by Pierre Paul Rubens (Louvre, MI 964)",The Elevation of the Cross,Q3305213,,
+The Raising of the Cross,The Raising of the Cross,Q19858380,0,0,1,painting by James Tissot,,Q18761202,,
+The Raising of the Cross,The Raising of the Cross,Q27964925,0,0,1,painting by Flemish School,,Q3305213,,
+The Raising of the Cross,The raising of the cross,Q48559512,0,0,1,painting by anonymous,,Q3305213,,
+The Raising of the Cross,The Raising of the Cross,Q27967869,0,0,1,painting by Giulio Cesare Procaccini,,Q3305213,,
+The Raising of the Cross,The Raising of the Cross,Q55433878,0,0,1,painting by Ukjent kunstner,,Q3305213,,
+The Raising of the Cross,crucifixion of Jesus,Q51636,0,0,2,Jesus' crucifixion as described in the four canonical gospels,Crucifixion|Crucifixion of Christ|The Crucifixion|Christ on the Cross,Q106355253|Q1406161|Q3235597|Q1855439,,Crucifixion of Jesus
+The Raising of the Cross,The Crucifixion,Q21232677,0,0,2,painting by Andreas Pavias,,Q132137|Q3305213,,The Crucifixion (Pavias)
+The Raising of the Cross,The Crucifixion,Q137752859,0,0,2,Painting by Englebert Fisen (1684),The Crucifixion of Jesus|Golgotha,Q3305213,,
+The Raising of the Cross,The Crucifixion,Q122639907,0,0,2,painting by Bertholet Flémalle (I),Golgotha ​​with donor Dean Pierre de Rosen,Q3305213,,
+The Raising of the Cross,The Crucifixion,Q138529680,0,0,2,painting by Pieter Claeissens the Elder,,Q3305213,,
+The Raising of the Cross,The Crucifixion,Q5966352,0,0,2,painting by El Greco,,Q3305213,,
+The Raising of the Cross,Crucifixion,Q490312,0,0,2,painting by Jacopo Tintoretto in the Scuola Grande di San Rocco,The Crucifixion,Q3305213,,Crucifixion (Tintoretto)
+The Raising of the Cross,Crucifixion of Christ,Q3221342,0,0,2,painting by Francisco de Zurbarán,The Crucifixion|Crucifixion|Christ on the Cross,Q3305213,,Christ on the Cross (Zurbarán)
+The Raising of the Cross,The Crucifixion,Q17335810,0,0,2,painting by Giovanni da Milano,Crucifixion,Q3305213,,
+The Raising of the Cross,The Crucifixion,Q3698190,0,0,2,painting by Mathias Grünewald,Crucifixion,Q3305213,,
+The Stream,The Stream,Q19199201,1,0,1,1929 film by René Hervil,,Q3331189|Q11424,,
+The Stream,The Stream,Q90728699,1,0,1,"painting by Gustave Courbet, Aberdeen",,Q3305213,,
+The Stream,The Stream,Q98143642,1,0,1,painting by James Baylis Allen,,Q3305213,,
+The Stream,The Stream,Q50891289,1,0,1,painting by Edward Arthur Walton,,Q3305213,,
+The Stream,The Stream,Q62591746,1,0,1,painting by Zeng Mi,,Q3305213,,
+The Stream,The Stream,Q28541794,1,0,1,painting by James Clarke Hook,,Q3305213,,
+The Stream,The Stream,Q23941931,1,0,1,painting by Walter Stein,,Q3305213,,
+The Stream,The Stream,Q28443704,1,0,1,2016 Norwegian television series,,Q15416,,The Stream (TV series)
+The Stream,The Stream,Q7766983,1,0,1,daily television programme on Al Jazeera English,,Q5398426,,The Stream (Al Jazeera English)
+The Stream,The Stream,Q107713655,1,0,1,triptych by Léon Frédéric,,Q79218|Q3305213,,
+The Stream,stream,Q47521,1,0,2,natural body of water with current within bed and stream banks,waterway,Q111360549,Q355304|Q15324,Stream
+The Stream,fluid flow,Q12142910,1,0,2,movement of fluid matter,current|flow of fluid|flow|stream|flowing,Q3249551,Q79782,
+The Stream,television program,Q15416,1,0,2,segment of audiovisual content intended for broadcast and streaming on television,television programme|television show|TV program|TV show|TV programme|TV broadcast|television broadcast|T.V. program|T. V. program|T.V. show|T. V. show|T.V. broadcast|T. V. broadcast|television appearance|streaming television,Q110562117,Q11578774|Q2431196|Q10301427|Q7725310,Television show
+The Stream,river mouth,Q1233637,1,0,2,end of a river or stream,mouth|stream mouth,,Q723748|Q15324,River mouth
+The Stream,music streaming,Q15982450,1,0,2,transmission and distribution of music through a data stream,streaming,Q81941037|Q108037652,Q2355087|Q269415,
+The Stream,streaming media,Q220499,1,0,2,continuous multimedia operated and presented to users by a provider,,Q81941037|Q268592,Q1172540,Streaming media
+The Stream,watercourse,Q355304,1,0,2,"path water takes when flowing as a stream, typically encompassing a stream channel;may change seasonally and be devoid of water at times of the year",water course|flowing waters|water movement|water movements|creek,Q12046615,Q863944|Q15324|Q137255322,Watercourse
+The Stream,water pollution,Q183129,1,0,2,contamination of water bodies,stream pollution|aquatic pollution,Q129676813,Q13065634,Water pollution
+The Stream,stream,Q17362054,1,0,2,"basic orientation of an era, for example, in literature or music",,,Q2198855,
+The Stream,streaming channel,Q82014556,1,0,2,type of video stream,live-streaming channel|stream,,Q220499|Q2001305,
+God the Father,God the Father,Q186350,2,0,1,"in Christianity, the first of the three persons of the Trinity, who begets the Son and from whom the Holy Spirit proceeds",The Father|Father|Eternal Father,Q178885|Q12160552,,God the Father
+God the Father,God in Christianity,Q825,2,0,1,Christian conception of God,"Christian God|God|Jehovah|Godhead|God the Father|Trinity|God of the Christians|Yahuwah|Yahawah|God (Christianity)|Yahweh|Creator, Almighty, Alpha and Omega",Q5576009|Q34394|Q30149195|Q595523|Q82799,Q190,God in Christianity
+God the Father,God the father - Arise,Q22674448,2,0,1,stained glass window by Stanisław Wyspiański,Bóg Ojciec - Stań Się|God the Father,Q21061279,,God the Father - Arise
+God the Father,God the Father,Q18572514,2,0,1,painting by Fra Angelico,,Q3305213,,
+God the Father,God the Father,Q19318713,2,0,1,painting by Gerard David,,Q3305213|Q46686,,
+God the Father,God the Father,Q21684028,2,0,1,painting by Master of the Bonn Diptych,,Q3305213,,
+God the Father,God the Father,Q21623517,2,0,1,painting by Goswin van der Weyden,God,Q3305213|Q79218,,
+God the Father,God the Father,Q21614428,2,0,1,painting by Jacob Herreyns I,,Q3305213,,
+God the Father,God the Father,Q3708021,2,0,1,painting by Cima da Conegliano,,Q3305213,,
+God the Father,God the Father,Q26529081,2,0,1,painting by Florentine Italian,God the Father,Q3305213,,
+God the Father,deity,Q178885,2,0,2,"natural or supernatural god or goddess, divine being",god|goddess|God|deities,,Q4271324|Q28855038,Deity
+God the Father,God,Q190,2,0,2,"principal object of faith in monotheistic religions, a divine entity that created and typically supervises all existence",supreme being|G-d|Most High|Almighty|Creator|All-Knowing|The Lord|The One|Allah|Brahman|The All|Creator God|god,Q23847174|Q178885,Q635155|Q215627|Q18563354,God
+God the Father,God,Q106078731,2,0,2,family name,,Q101352,,
+God the Father,Yorkshire,Q163,2,0,2,historic county of England,"County of York|God's Own County|Yorkshire, England",Q1138494|Q1620908,,Yorkshire
+God the Father,Mary,Q345,2,0,2,mother of Jesus Christ,"St Mary the Virgin|Madonna|The Blessed Virgin Mary|Queen of the Universe|Saint Mary|God-Bearer|Maria|Miriam|Mother of God|Blessed Virgin|Our Lady|Virgin God-Bearer|Holy Mary|Mary the Virgin|Holy Virgin|Mary, mother of Jesus|Mīryām|Blessed Virgin Mary|Most Blessed|Blessed Mother|Immaculate Mary|The Blessed Virgin|Maryam|Mother of Jesus|The Madonna|Mary, Mother of our Lord|The Blessed Mother|Notre Dame|the Virgin Mary|Theotokos|Virgin Mary",Q20643955|Q5,,"Mary, mother of Jesus"
+God the Father,kami,Q524158,2,0,2,divine being in Shinto,Japanese deity|Japanese god|Shinto deity|Shinto god|god|deity|spirit|Japanese spirit|Shinto spirit|Kami,,Q178885|Q3032312,Kami
+God the Father,Jesus Christ,Q302,2,0,2,central figure of Christianity (c. 6 or 4 BC – AD 30 or 33),Jesus of Nazareth|Christ|Yehoshua|The Messiah|God the Son|Son of God|Jesus Christ of Nazareth|Yeshua ben-Yosef|Jmmanuel|Yahshua|Yeshua|Christ Jesus|Joshua|Josh|The Saviour|Saviour of the world|King of Kings|Lord of Lords|Son of Man|Yeshu'|Jesus,Q178885|Q20643955|Q4271324|Q18563360|Q5|Q825|Q51625|Q21070568|Q3375731|Q13002315,,Jesus
+God the Father,Godfrey,Q19828531,2,0,2,male given name,Godfrey (given name)|Godfrey (first name),Q12308941,,
+God the Father,Godfried Schalcken,Q874868,2,0,2,painter from the Northern Netherlands (1643–1706),Godefridus Schalcken|Godfried Scalken|Godfried Schalchon|Godfried Scalk|Godfried Sealken|Godfried Scalkin|Godfried Schlaken|Godfried Scalker|Godfrey Skalken|Godfried Scalcken|Godfried Skalken|Godfrey Schalcken|Godfried Scalking|Godfried Schalckens|Godfried Schatcken|Godfried Scalchen|Godfried Schalke|Godfried Skalkein|Godfried Schalken|Godfried Schalkens|Godfried Schaleken|Gottfried Schalcken|Godfried Schelkin|Godfried Shalken|Gotfried Schalcken|Godfried Skalchen|Godfried Schalchen|Godfried Schelcken|Godfried Scalcen|Godefridus Schalcke|Godfrid Schalckius|Godefridus Schalken|Godefroy Schalken|Schalven|Skalkin|Schachen|Schaklen|Skalchen|Gottfrid Schalken|Godofred. Schalken|G. Scalcken|godfr. schalcken|Scalkhen|G. Schlaken|Gottfroi Schalcken|Sckalcken|G. Scalken|Sealken|Skalkens|Schulken|Gottfried Schalken|Godfrid Schalcken|G. Scaalken|Godefroy Scalken|Godfroy Skalken|G. Schalkin|Godf. Schalken|Schlaken|Schelkin|Godfriedt Schalcken|Scalkin|Godefroi|g. schalken|Scalcen|Scalk|Schalkens|Schalkin|Gottfrid Schalcken|Gottfried Schalckens|Scalquen|G. Schalchen|Scalchen|G. Schalck|Salken|Gottfr. Schalck|Schelcken|Scalkins|godfried van schalcken|Godefroy Sckalken|G. Schalke|schalken godfried|God. Schalcken|Godfrid Schalkens|Scolker|Skalque|Godefroi Schallken|G. Scholken|Gotfried Schalken|Godfr. Schalken|Gerhard Schalkke|Scalking|Godefroid Schalkens|Godefroi Schalcken|Schalchon|Gottfried Schalck|G: Schalken|Godefroy Scalcken|gottfried schalken|Skalk|Schalka|Gottf. Schalke|Schalke|God. Scalcken|Scalkens|Gerard Schalke|Sahalken|schalcken godfried|Scalckens|Gerh. Schalke|Godefroi Scalken|Shalken|Godefroid Schalcken|Scalker|Godefroy Scelken|Schalckens|Sckalken|van Schalken|Skalken|Scalken|Schalek|Godefroy Schalcke|G. Schalken|De Skalque|Godefroid Shalcken|Godfrid Schalken|Skalcken|Scalque|gottfr. schalken|Shalcken|Godefried Schalken|Schalchen|Schatcken|Gottf. Schalken|gottfr. schalcken|Godfrey Schulchen|Gotfr. Schalken|Scalcken|Stalking|Schalcke|g. von schalcken|gottfried van schalcken|G. Skalken|Godfrey Schalken|Schellekens|Godefroi Schalken|Godefroy Schalcken|Skalkein|G. Schalcken|Godefroy Skalken|Gottf. Schalck|Godefroy-Schalken|Schalken|Schalcken|Goddefroy Schalcken|Schalck|Schaleken|Scalke,Q5,,Godfried Schalcken
+God the Father,father,Q7565,2,0,2,male parent,dad|daddy|papa|fathers|pop|pa|Ahnentafel 2|old man,Q171318,Q7566|Q138716974,Father
+God the Father,regular priest,Q2029179,2,0,2,religious who is an ordained priest,religious priest|religious cleric|father,Q63188808|Q3562482,Q250867|Q2566598,
+God the Father,Father,Q82752418,2,0,2,American producer and recording artist,Fatheraintshit|F.A.S|Centel Orlando Mangum,Q5,,Father (rapper)
+God the Father,Father,Q12860873,2,0,2,1998 studio album by Nana,,Q482994,,
+God the Father,Holy Trinity,Q37090,2,0,2,"Christian conception of God as consisting of three persons (hypostases) — the Father, the Son, and the Holy Spirit — sharing the same substance (ousia)","Father, Son, Holy Ghost|the Father, the Son, and the Holy Ghost|Father, Son, Holy Spirit|the Father, the Son, and the Holy Spirit|Christian Trinity|Trinitarian God|Trinity",Q3045134|Q4818719|Q39604065|Q29430681,Q3451071,Trinity
+God the Father,Father,Q435940,2,0,2,honorific prefix used by Catholic priests,padre|Fr.,Q5767753|Q115859699,,
+God the Father,Father,Q130739698,2,0,2,2025 film by Tereza Nvotova,,Q11424,,Father (2025 film)
+God the Father,Father,Q138847339,2,0,2,2026 song by Kanye West featuring Travis Scott,Father (Kanye West and Travis Scott song),Q7366,,Father (Kanye West song)
+God the Father,George Washington,Q23,2,0,2,Founding Father and first U.S. president (1732–1799),Father of the United States|American Fabius|American Cincinnatus,Q5,,George Washington
+God the Father,Taiji,Q53685,2,0,2,principle of supreme potential in Chinese philosophy,Tai Chi|Tai-chi|Tai-ki|Tai Ki|Supreme Unity|Supreme Being|Supreme One,Q211364,,Taiji (philosophy)
+God the Father,Supreme Being,Q3851799,2,0,2,,,,Q209295,Supreme Being
+God the Father,Supreme Being,Q140313919,2,0,2,beer brewed by Magnanimous Brewing,,Q131444218,,
+God the Father,Supreme Beings of Leisure,Q3504940,2,0,2,American electronic/trip hop band,"Geri Soriano-Lightwood, Rick Torres, Kiran Shahani & Ramin Sakurai",Q215380,,Supreme Beings of Leisure
+God the Father,Supreme Beings of Leisure,Q7644802,2,0,2,2000 studio album by Supreme Beings of Leisure,,Q482994,,Supreme Beings of Leisure (album)
+God the Father,Ainz Ooal Gown,Q127790188,2,0,2,fictional group from Overlord,Forty-One Supreme Beings|41 Supreme Beings|Supreme Beings,Q14514600|Q14623646,,
+Annunciation Triptych,Mérode Altarpiece,Q285392,3,0,1,15th-century painting by the workshop of Robert Campin,Annunciation Triptych|Merode Altarpiece|The Mérode Altarpiece (The Annunciation Triptych)|The Mérode Altarpiece|The Annunciation Triptych,Q79218|Q46686|Q15711026|Q3305213,,Mérode Altarpiece
+Annunciation Triptych,Annunciation Triptych,Q3999110,3,0,1,painting by Rogier van der Weyden,,Q3305213|Q79218,,Annunciation Triptych (van der Weyden)
+Annunciation Triptych,Annunciation Triptych,Q3999103,3,0,1,painting by Carlo Braccesco,,Q79218|Q3305213,,
+Annunciation Triptych,Annunciation Triptych,Q3539581,3,0,1,painting by Lorenzo Monaco,,Q3305213,,Annunciation Triptych (Lorenzo Monaco)
+Annunciation Triptych,Triptych of the Annunciation,Q16169871,3,0,2,triptych by the Master of the (Bruges) Legend of Saint Ursula,The Annunciation; left and right saints in a landscape,Q79218,,Triptych of the Annunciation
+Annunciation Triptych,Mérode Altarpiece,Q285392,4,0,1,15th-century painting by the workshop of Robert Campin,Annunciation Triptych|Merode Altarpiece|The Mérode Altarpiece (The Annunciation Triptych)|The Mérode Altarpiece|The Annunciation Triptych,Q79218|Q46686|Q15711026|Q3305213,,Mérode Altarpiece
+Annunciation Triptych,Annunciation Triptych,Q3999110,4,0,1,painting by Rogier van der Weyden,,Q3305213|Q79218,,Annunciation Triptych (van der Weyden)
+Annunciation Triptych,Annunciation Triptych,Q3999103,4,0,1,painting by Carlo Braccesco,,Q79218|Q3305213,,
+Annunciation Triptych,Annunciation Triptych,Q3539581,4,0,1,painting by Lorenzo Monaco,,Q3305213,,Annunciation Triptych (Lorenzo Monaco)
+Annunciation Triptych,Triptych of the Annunciation,Q16169871,4,0,2,triptych by the Master of the (Bruges) Legend of Saint Ursula,The Annunciation; left and right saints in a landscape,Q79218,,Triptych of the Annunciation
+Triptych of the Nativity,Triptych of the Nativity,Q47127315,5,0,1,painting by Master of the Female Half-Lengths,,Q3305213|Q79218,,
+Triptych of the Nativity,Triptych of the Nativity,Q28797735,5,0,1,painting by García del Barco,,Q3305213,,
+The flight into Egypt,The Flight into Egypt,Q19859116,6,0,1,painting by José Ferraz de Almeida Júnior,,Q3305213,,
+The flight into Egypt,The Flight into Egypt,Q970808,6,0,1,painting by Nicolas Poussin,,Q3305213,,The Flight into Egypt (Poussin)
+The flight into Egypt,The Flight into Egypt,Q140384910,6,0,1,painting by Denis van Alsloot (1570–1626),,Q3305213,,
+The flight into Egypt,The Flight into Egypt,Q134511676,6,0,1,painting by the workshop of Goswin van der Weyden,,Q3305213,,
+The flight into Egypt,The Flight into Egypt,Q2488726,6,0,1,"painting by Rembrandt, Musée des beaux-arts de Tours",,Q3305213,,The Flight into Egypt (Rembrandt)
+The flight into Egypt,The Flight into Egypt,Q2381716,6,0,1,painting by Adam Elsheimer,,Q3305213,,The Flight into Egypt (Elsheimer)
+The flight into Egypt,Landscape with the Flight into Egypt,Q1803755,6,0,1,"painting by Pieter Brueghel the Elder, Courtauld Gallery",The Flight into Egypt,Q3305213,,Landscape with the Flight into Egypt (Bruegel)
+The flight into Egypt,The Flight into Egypt,Q5967017,6,0,1,painting by El Greco,,Q3305213,,The Flight into Egypt (El Greco)
+The flight into Egypt,The Flight into Egypt,Q1115595,6,0,1,painting by Annibale Carracci,,Q3305213,,Landscape with the Flight into Egypt (Carracci)
+The flight into Egypt,The Flight into Egypt,Q19911686,6,0,1,painting by Cosmè Tura (Cosimo di Domenico di Bonaventura),,Q3305213,,
+Hell,Hell,Q16870676,7,0,1,family name,Hell (surname),Q101352,,Hell (surname)
+Hell,Greece,Q41,7,0,1,country in Southeast Europe,"Hellenic Republic|Hellas|gr|el|Greek Republic|Ellada|Hellas, Greece",Q3624078|Q179164|Q51576574|Q6256|Q619610|Q4209223|Q7275,,Greece
+Hell,Greek,Q9129,7,0,1,Indo-European language,Greek language,Q33742|Q1288568|Q25295,Q2042538|Q85380120,Greek language
+Hell,Hell station,Q1781011,7,0,1,"railway station in Stjørdal, Norway, on the Nordland Line and the Meråker Line",,Q55488,,Hell Station
+Hell,hell,Q564,7,0,1,religious or mythological place of (often eternal) suffering,,Q23847174|Q3238337,Q443814,Hell
+Hell,Hellendoorn,Q10005,7,0,1,municipality in the Netherlands,,Q2039348,,Hellendoorn
+Hell,Hell,Q109465362,7,0,1,photographer,,Q5,,
+Hell,Hell,Q113640128,7,0,1,2014 video game,,Q7889,,
+Hell,Hellmut R. Toelken,Q5893922,7,0,1,Australian botanist (1939 - ),Toelken|Helmut Richard Toelken|Helmut Tölken|Helmut Toelken,Q5,,Hellmut R. Toelken
+Hell,Hellinsia,Q5707609,7,0,1,genus of insects,,Q16521,,Hellinsia
+Hell,Hades,Q2569513,7,0,2,genus of insects,,Q16521,,
+Hell,Hades,Q9284892,7,0,2,Polish rapper,,Q5,,Hades (rapper)
+Hell,Hadès,Q1418963,7,0,2,type of short-range ballistic missile (SRBM),Hades|Hades missile|Hadès missile,Q18487055,Q400704,Hadès
+Hell,Hades,Q41410,7,0,2,god of the underworld in Greek mythology,Pluton|Plouton,Q22989102|Q2803758|Q113103481,,Hades
+Hell,Hades,Q59756366,7,0,2,2020 action role-playing game developed by Supergiant Games,,Q7889,,Hades (video game)
+Hell,Greek underworld,Q1521549,7,0,2,location in Greek mythology,Underworld|Hades,Q154365|Q3238337,,Greek underworld
+Hell,Hades,Q2328889,7,0,2,character from Disney's Hercules,,Q15711870|Q17624054|Q130287298,,Hades (Disney)
+Hell,Hell,Q3798506,7,0,2,fictional location in publications by DC Comics,Gehenna|Hades|Hel|Jahannam|Sheol|Tartarus,Q100706037,,Hell (DC Comics)
+Hell,Hades,Q28602572,7,0,2,sixth chapter of James Joyce's Ulysses,,Q7725634|Q1980247,,
+Hell,Hades II,Q115641620,7,0,2,2024 action role-playing video game,Hades 2,Q7889,,Hades II
+Hell,Helsinki,Q1757,7,0,2,capital and most populous city of Finland,Helsingia|Helsingin kaupunki|Stadi|Hesa,Q515|Q200250|Q856076|Q1549591|Q2264924,,Helsinki
+Hell,Helicobacter pylori,Q180556,7,0,2,species of bacteria,Campylobacter pylori,Q16521,,Helicobacter pylori
+Hell,Helsinki Airport,Q215327,7,0,2,"international airport serving Helsinki, Finland",Helsinki-Vantaa Airport|Helsinki-Vantaan lentoasema|Helsingfors-Vanda flygplats|Helsinki Vantaa Airport|HEL|EFHK|HELSINKI-VANTAA airport,Q644371|Q1248784|Q94993988,,Helsinki Airport
+Hell,Helen,Q13376892,7,0,2,female given name,Helen (given name)|Helen (first name),Q11879590,,Helen (given name)
+Hell,Helena,Q1035239,7,0,2,female given name,Helena (first name)|Helena (given name),Q11879590,,Helena (given name)
+Hell,Helmut,Q18191106,7,0,2,male given name,Helmut (given name)|Helmut (first name),Q12308941,,Helmut
+Hell,common sunflower,Q171497,7,0,2,species of flowering plant in the family of Asteraceae,Helianthus annuus|sunflower,Q16521,Q756|Q11992872|Q192691|Q188840|Q25400,Common sunflower
+Hell,Helmond,Q9844,7,0,2,city and municipality in the Netherlands,Héllimond|Hellimond,Q2039348|Q1852859|Q515|Q13539802,,Helmond
+Hell,Helene,Q971710,7,0,2,female given name,Helene (given name)|Helene (first name),Q11879590,,Helene (name)
+Hell,Niflheim,Q176062,7,0,2,realm of primordial ice and cold in Norse mythology,Misthome,Q24334976,,Niflheim
+Hell,Niflheim,Q130750103,7,0,2,science fiction fanzine,,Q7433680,,
+Hell,Niflheimweg,Q111347461,7,0,2,"street in Pankow district, Berlin, Germany",,Q79007,,
+Hell,Niflheim Glacier,Q22611284,7,0,2,"glacier in Nunavut, Canada",,Q35666,,
+Hell,Niflheim: Blood & Bullets,Q127600136,7,0,2,2010 film,,Q11424,,
+Hell,Niflheim [Timeless. Tanz 24; 3],Q137198111,7,0,2,performing arts production during the season 2016/17,,Q43099500,,
+Hell,Niflheim,Q24828746,7,0,2,mountain in Northeast Greenland National Park' Greenland,,Q8502,,
+Hell,Niflheim,Q29368125,7,0,2,article in Dictionnaire infernal (1863),,Q13433827,,

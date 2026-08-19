@@ -1,0 +1,18 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Boyer Flight Park,Boyer Flight Park,Q14688303,0,0,1,"airport in Carroll County, Indiana",,Q62447,,Boyer Flight Park
+Boyer Flight Park,Boyer Flight Park,Q61668467,0,0,1,,77II,Q2265915,,
+Boyer Flight Park,Boyer Airport,Q49745273,0,0,2,"airport in Berks County, Pennsylvania, United States of America",Boyer Aerodrome,Q1248784|Q62447,,
+Boyer Flight Park,Boyer Airport,Q34959775,0,0,2,"airport in Michigan, United States of America",,Q1248784,,
+Reiselfingen,Reiselfingen,Q47516643,1,0,1,"quarter of Löffingen, Baden-Württemberg, Germany",,Q253019,,
+Reiselfingen,Reiselfingen gliding site,Q2265970,1,0,1,glider airfield in Germany,,Q2265915,,
+Reiselfingen,Löffingen,Q527610,1,0,1,"town in Baden-Württemberg, Germany",,Q42744322,,Löffingen
+Davis Field,Davis Field,Q1708084,2,0,1,"airport in Oklahoma, United States of America",MKO|KMKO,Q1248784,,Davis Field (Oklahoma)
+Davis Field,Bayport Aerodrome,Q2265670,2,0,1,"airport in Suffolk County, New York, United States",23N|Edwards Airport|Davis Field,Q48812846|Q1248784,,Bayport Aerodrome
+Davis Field,Davis Field,Q1708294,2,0,1,"airport in Georgia, United States of America",,Q1248784,,Davis Field (Georgia)
+Davis Field,Davis Field,Q49482095,2,0,1,"park in Darlington County, South Carolina, United States of America",,Q22698,,
+Davis Field,Davis Field,Q49482094,2,0,1,"park in Schofield Barracks, Honolulu County, United States of America",,Q22698,,
+Davis Field,Davis Field,Q34821818,2,0,1,park in the United States of America,,Q22698,,
+Davis Field,Davis Field,Q49482092,2,0,1,"park in Pinellas County, Florida, United States of America",,Q22698,,
+Davis Field,Davis Field,Q125919932,2,0,1,"private use airport in Hillsdale County, Michigan, United States",Davis Fld,Q1248784,,
+Davis Field,Davis Field,Q61668776,2,0,1,airport in Indiana,03II,Q2265915,,
+Davis Field,Davis Field House,Q5241892,2,0,1,"gymnasium in Greenville, South Carolina",,,,Davis Field House

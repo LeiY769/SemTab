@@ -1,0 +1,352 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ganmain,Ganmain,Q2327382,0,0,1,"town in New South Wales, Australia","Ganmain, New South Wales|Ganmain, New South Wales, Australia",Q3957|Q188509,,Ganmain
+Ganmain,Ganmain,Q63520970,0,0,1,"parish of Bourke County, New South Wales, Australia",Parish of Ganmain|Ganmain Parish,Q28931760,,
+Ganmain,Ganmain Hill,Q21964018,0,0,1,mountain in Australia,,Q8502|Q54050,,
+Ganmain,Ganmain Public School,Q99998712,0,0,1,"Ganmain, NSW - Government - Primary - 27",,Q3914,,
+Ganmain,Ganmain GGM Lions,Q112812756,0,0,1,Australian rules football club,Ganmain GGM Lions Football Club,Q17374546,,
+Ganmain,GANMAIN (DULLAH DULLAH),Q123658314,0,0,1,"weather station in New South Wales, Australia from 1896 to 1962",074041,Q190107,,
+Ganmain,GANMAIN POST OFFICE,Q123658317,0,0,1,"weather station in New South Wales, Australia from 1899 to 2010",074044,Q190107,,
+Ganmain,GANMAIN (ROSEDALE),Q123658480,0,0,1,"weather station in New South Wales, Australia from 1968",074202,Q190107,,
+Corindhap,Corindhap,Q2306598,1,0,1,"town in Victoria, Australia","Corindhap, Victoria|Corindhap, Victoria, Australia",Q3957,,Corindhap
+Corindhap,Corindhap,Q28930318,1,0,1,"parish in Golden Plains Shire, Victoria, Australia",,Q28930084,,
+Corindhap,Corindhap N.C.R. Natural Features Reserve,Q139750157,1,0,1,"natural features reserve in Victoria, Australia",Corindhap N.C.R.,Q62059246,,
+Delegate,delegate,Q994779,2,0,1,individual who speaks or acts on behalf of an organization,political representative,Q4164871|Q28640,Q11997597,Delegate (American politics)
+Delegate,National People's Congress deputy,Q10891456,2,0,1,member of Chinese National People's Congress,NPC member|member of the NPC|delegate to the National People's Congress|deputy to the National People's Congress|NPC deputy,Q4164871,Q486839,
+Delegate,delegated commune,Q21869758,2,0,1,,,,Q192498|Q19730508|Q15640612,
+Delegate,French Grand Elector,Q3115299,2,0,1,representative in France responsible for designating senators,delegate|grand elector|grands électeurs français|French Electoral College,Q4164871,Q359322|Q21100253,
+Delegate,Delegate,Q2295730,2,0,1,"town in New South Wales, Australia","Delegate, New South Wales|Delegate, New South Wales, Australia",Q3957|Q3257686,,"Delegate, New South Wales"
+Delegate,delegated legislation,Q694045,2,0,1,law made by someone other than the legislature but with the legislature's authority,regulation|secondary legislation|subordinate legislation|subsidiary legislation,Q110430875,Q1864008|Q49371,Secondary legislation
+Delegate,DeleGate,Q5253575,2,0,1,proxy server software,,Q7397,,
+Delegate,Delegate,Q63520650,2,0,1,"parish of Wellesley County, New South Wales, Australia",Delegate Parish|Parish of Delegate,Q28931760,,
+Delegate,delegate,Q2382794,2,0,1,type-safe function pointer used by the Microsoft Common Language Infrastructure,CLI delegate|.NET delegate,,Q2072111,Delegate (CLI)
+Delegate,Sam,Q52329271,2,0,1,scrapped bulk carrier,,Q15276,,
+Sheffield,Sheffield,Q42448,3,0,1,"city in South Yorkshire, England, United Kingdom","Sheffield, South Yorkshire|Sheffield, England",Q515|Q1549591|Q7897276,,Sheffield
+Sheffield,Sheffield,Q12956644,3,0,1,"district in South Yorkshire, England, United Kingdom",City of Sheffield,Q1002812|Q21503295,,City of Sheffield
+Sheffield,Sheffield,Q16883153,3,0,1,family name,,Q101352,,Sheffield (surname)
+Sheffield,Sheffield,Q79568,3,0,1,"city in Alabama, USA","Sheffield, Alabama|Sheffield, AL",Q1093829,,"Sheffield, Alabama"
+Sheffield,Sheffield,Q2306176,3,0,1,"town in Berkshire County, Massachusetts, United States","Sheffield, Massachusetts|Sheffield, MA",Q15127012,,"Sheffield, Massachusetts"
+Sheffield,Sheffield,Q97461296,3,0,1,given name,,Q202444,,
+Sheffield,Sheffield,Q2277715,3,0,1,"town in Tasmania, Australia","Sheffield, Tasmania|Sheffield, Tasmania, Australia",Q3957|Q98433835,,"Sheffield, Tasmania"
+Sheffield,Sheffield,Q1916592,3,0,1,"city in Franklin County, Iowa, United States","Sheffield, Iowa|Sheffield, IA",Q1093829,,"Sheffield, Iowa"
+Sheffield,Sheffield,Q3365926,3,0,1,"human settlement in New Brunswick, Canada","Sheffield, New Brunswick",Q486972,,"Sheffield, New Brunswick"
+Sheffield,Sheffield F.C.,Q18491,3,0,1,"association football club in Dronfield, England",Sheffield Football Club|Sheffield FC|Sheffield|SFC,Q476028,,Sheffield F.C.
+Sheffield,Sheffield United F.C.,Q19607,3,0,2,"association football club in Sheffield, England",Sheffield United Football Club|Sheffield United FC|Sheffield United|The Blades|SUFC|United|Sheff Utd|Sheff. Utd.,Q476028,,Sheffield United F.C.
+Sheffield,Sheffield United F.C. Academy,Q7492769,3,0,2,football club,,Q476028,,Sheffield United F.C. Academy
+Sheffield,history of Sheffield United F.C.,Q5866459,3,0,2,aspect of history,Sheffield United F.C. history,Q17524420,,History of Sheffield United F.C.
+Sheffield,Sheffield United F.C. league record by opponent,Q7492770,3,0,2,,,,,Sheffield United F.C. league record by opponent
+Sheffield,Sheffield United F.C. Player of the Year,Q7492771,3,0,2,Annual soccer award in United Kingdom,,,,Sheffield United F.C. Player of the Year
+Sheffield,Sheffield Hallam University,Q1752117,3,0,2,"university in Sheffield, United Kingdom",Sheffield City Polytechnic,Q3918|Q38723|Q5341295,,Sheffield Hallam University
+Sheffield,Sheffield Hallam University Psychology,Q101045692,3,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Biosciences,Q101045674,3,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Sports Park,Q24060139,3,0,2,"sports venue in Sheffield, South Yorkshire, England",,Q17350442|Q483110,,Sheffield Hallam University Sports Park
+Sheffield,Sheffield Hallam University Sheffield Business School,Q86019274,3,0,2,academic department in the UK,SBS,Q2467461,,
+Sheffield,Sheffield Hallam University - Collegiate Crescent Campus,Q100993082,3,0,2,campus,,Q209465,,
+Sheffield,Woodbourn Road athletics stadium,Q110102426,3,0,2,"sports ground in Sheffield, England",Sheffield Hallam University City Athletics Stadium,Q483110,,
+Sheffield,Sheffield Hallam University Department of Engineering and Mathematics,Q101012157,3,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Centre for Sports Engineering Research,Q101045685,3,0,2,research centre,,Q7315155,,
+Sheffield,Sheffield Hallam University Centre for Regional Economic and Social Research,Q101045680,3,0,2,research centre,,Q7315155,,
+Sheffield,Sheffield City Hall,Q7492611,3,0,2,"Listed building in Sheffield, England",,Q1060829|Q1763828,,Sheffield City Hall
+Home Hill,Home Hill,Q2272457,4,0,1,"town in Queensland, Australia","Home Hill, Queensland|Home Hill, Queensland, Australia",Q3957,,"Home Hill, Queensland"
+Home Hill,Home Hill railway station,Q5888428,4,0,1,railway station,,Q55488|Q22808404,,Home Hill railway station
+Home Hill,Home Hill,Q31654213,4,0,1,,,Q54050,,
+Home Hill,Home Hill,Q31654512,4,0,1,,,Q54050,,
+Home Hill,Home Hill,Q31653920,4,0,1,"peak in Ailsa Mountains, Otago, New Zealand",,Q54050,,
+Home Hill,Home Hill,Q34824173,4,0,1,mountain in United States of America,,Q8502,,
+Home Hill,Home Hill,Q21966917,4,0,1,mountain in Tasmania' Australia,,Q8502,,
+Home Hill,Home Hill,Q34922898,4,0,1,mountain in the United States of America,,Q8502,,
+Home Hill,Home Hill,Q21966677,4,0,1,"mountain in Tasmania, Australia",,Q8502,,
+Home Hill,Home Hill,Q21966203,4,0,1,mountain in Australia,,Q8502,,
+Kaniva,Kaniva,Q2262320,5,0,1,"town in Victoria, Australia","Kaniva, Victoria|Kaniva, Victoria, Australia",Q3957,,Kaniva
+Kaniva,Kaniva,Q63523390,5,0,1,"parish of Cowper County, New South Wales, Australia",Kaniva Parish|Parish of Kaniva,Q28931760,,
+Kaniva,Kaniva railway station,Q28152236,5,0,1,"closed railway station in Kaniva, Victoria, Australia",,Q4663385,,
+Kaniva,KANIVA,Q123659076,5,0,1,"weather station in Victoria, Australia from 1883",078078,Q190107,,
+Kaniva,Kaniva,Q28930505,5,0,1,"parish in West Wimmera Shire, Victoria, Australia",,Q28930084,,
+Kaniva,Kaniv,Q925340,5,0,1,town and administrative center of Kanivsky District of Cherkasy Oblast in central Ukraine,Kánev|Kaniów,Q5123999|Q2989457,,Kaniv
+Kaniva,Kanivada,Q15691736,5,0,1,"village in Gurtedu mandal, Polavaram district, Andhra Pradesh, India",,Q56436498,,Kanivada
+Kaniva,Kaniva Police Station,Q28926901,5,0,1,"police station in West Wimmera Shire, Victoria, Australia",,Q861951,,
+Kaniva,KANIVA COMPARISON,Q123659070,5,0,1,"weather station in Victoria, Australia from 2021",078073,Q190107,,
+Kaniva,Kaniva Fire Station,Q28926119,5,0,1,"fire station in West Wimmera Shire, Victoria, Australia",,Q1195942,,
+Barmah,Barmah National Park,Q176872,6,0,1,"national park in Victoria, Australia",Barmah N.P.|Barmah|Barmah National Park,Q18618819|Q46169,,Barmah National Park
+Barmah,Barmah,Q2257344,6,0,1,"town in Victoria, Australia","Barmah, Victoria|Barmah, Victoria, Australia",Q3957,,Barmah
+Barmah,Barmah,Q28931139,6,0,1,"parish in Moira Shire, Victoria, Australia",,Q28930084,,
+Barmah,Barmah Forest virus,Q3560914,6,0,1,species of virus,,Q16521,,Barmah Forest virus
+Barmah,Barmah,Q5835528,6,0,1,village in Iran,,Q532,,"Barmah, Iran"
+Barmah,Barmah Forest virus disease,Q18553285,6,0,1,"viral infectious disease that results in infection located in joint, has material basis in Barmah Forest virus, which is transmitted by mosquito bite. The infection has symptom fever, has symptom arthralgia, and has symptom rash",Barmah Forest fever,Q112193867,Q1928978|Q4735280|Q2859732|Q6916469|Q18123741,
+Barmah,Barmah Forest,Q110616960,6,0,1,Ramsar wetland in the Australian state of Vic,Barmah Forest|Barmah Forest Wetland of International Importance (Ramsar Site),Q61457040|Q19683138,,
+Barmah,Barmah Punt,Q56701766,6,0,1,"heritage-listed former cable ferry across the Murray River in Barmah, Victoria, Australia",Barmah Ferry,Q1287097,,
+Barmah,Barmahishda,Q60751874,6,0,1,village in India,,Q56436498,,
+Barmah,Barmah Muster Yards,Q66765708,6,0,1,,,Q358,,
+Barmah,Barmah State Forest,Q109608065,6,0,2,,Barmah Forest,Q2324919,,
+Barmah,"Barmah Forest virus epidemic on the south coast of New South Wales, Australia, 1994-1995: viruses, vectors, human cases, and environmental factors",Q42996414,6,0,2,scientific article published in November 1999,,Q13442814,,
+Barmah,Barmah Forest virus infections in humans in New South Wales,Q45834441,6,0,2,scientific article published on 01 June 1987,,Q13442814,,
+Barmah,Barmah Forest virus serology; implications for diagnosis and public health action,Q37259488,6,0,2,scientific article published on June 2008,,Q13442814,,
+Barmah,Barmah Forest viral exanthems,Q79884168,6,0,2,scientific article published on 01 May 2004,,Q13442814,,
+Barmah,"Barmah Forest virus in the Gippsland Lakes region, Victoria",Q42987951,6,0,2,scientific article published on October 1990,,Q13442814,,
+Barmah,Barmah Forest virus,Q45850412,6,0,2,scientific article published in October 1990,,Q13442814,,
+Acheron,Acheron,Q10399209,7,0,1,genus of insects,,Q16521,,
+Acheron,Acheron,Q2256228,7,0,1,"town in Victoria, Australia","Acheron, Victoria|Ngaragon|Acheron, Victoria, Australia",Q3957,,"Acheron, Victoria"
+Acheron,Acheron,Q9360226,7,0,1,1878 Acheron-class torpedo boat,,Q324233,,
+Acheron,Acheron,Q136526497,7,0,1,playable character in Honkai: Star Rail,Raiden Bosenmori Mei|Acheron (Honkai: Star Rail),Q1569167|Q15632617,,Acheron (Honkai: Star Rail)
+Acheron,ACHERON,Q134994692,7,0,1,video game developed by Nek,,Q7889,,
+Acheron,Acheron,Q117407202,7,0,1,novel by Sherrilyn Kenyon,,Q7725634,,
+Acheron,acheron,Q117452965,7,0,1,American progamer,Jon Church,Q5,,
+Acheron,Acheron,Q191087,7,0,1,river of northwest Greece,,Q4022,,Acheron
+Acheron,Achéron,Q2823172,7,0,1,1987 Vulcain-class minesweeper,A613,Q202527,,
+Acheron,Acherontia atropos,Q41524,7,0,1,species of moth,African Death Head's Hawkmoth|Deaths Head Hawkmoth|Greater Death's Head Hawkmoth,Q16521,,Acherontia atropos
+Acheron,Acheron River,Q2633964,7,0,2,"river in Victoria, Australia",,Q4022,,Acheron River (Victoria)
+Acheron,Acheron River,Q252561,7,0,2,"river in Marlborough District, New Zealand",,Q4022,,Acheron River (Marlborough)
+Acheron,Acheron River,Q1512632,7,0,2,"river in Canterbury Region, New Zealand",,Q4022,,Acheron River (Canterbury)
+Acheron,Acheron River,Q2633961,7,0,2,"river in Tasmania, Australia",,Q4022,,
+Acheron,"Acheron River, Granton SS.R. Natural Features Reserve",Q139749788,7,0,2,"natural features reserve in Victoria, Australia","Acheron River, Granton SS.R.",Q62059246,,
+Acheron,ACHERON RIVER @ TAGGERTY,Q123661067,7,0,2,"weather station in Victoria, Australia from 1945",088119,Q190107,,
+Acheron,"Acheron River, Taggerty SS.R. Natural Features Reserve",Q139749789,7,0,2,"natural features reserve in Victoria, Australia","Acheron River, Taggerty SS.R.",Q62059246,,
+Acheron,"Acheron River, New Zealand",Q4673613,7,0,2,Wikimedia disambiguation page,Acheron River,Q4167410,,
+Acheron,Acheron,Q227363,7,0,2,Wikimedia disambiguation page,,Q4167410,,Acheron (disambiguation)
+Crystal Brook,Crystal Brook,Q2255269,8,0,1,town in South Australia,"Crystal Brook, South Australia|Crystal Brook, South Australia, Australia",Q3957,,"Crystal Brook, South Australia"
+Crystal Brook,Crystal Brook,Q24190510,8,0,1,former local government area of South Australia,District of Crystal Brook,Q64827141,,District Council of Crystal Brook
+Crystal Brook,Crystal Brook,Q5191143,8,0,1,"river in South Australia, Australia",,Q4022,,Crystal Brook (creek)
+Crystal Brook,Crystal Brook,Q39054621,8,0,1,hundred of South Australia,Hundred of Crystal Brook,Q28942331,,Hundred of Crystal Brook
+Crystal Brook,Crystal Brook,Q32170890,8,0,1,"river in Canterbury, New Zealand",,Q4022,,
+Crystal Brook,Crystal Brook,Q30628729,8,0,1,"tributary of the East Brook in Delaware County, New York, United States",,Q4022,,Crystal Brook (East Brook tributary)
+Crystal Brook,Crystal Brook,Q34654507,8,0,1,"tributary of Beaver Kill in Delaware County, New York, United States",,Q4022,,Crystal Brook (Beaver Kill tributary)
+Crystal Brook,Crystal Brook,Q34718560,8,0,1,"river in Aroostook County, Maine, United States of America",,Q4022,,
+Crystal Brook,Crystal Brook,Q34654533,8,0,1,"river in Warren County, New York, United States",,Q4022,,
+Crystal Brook,Crystal Brook,Q134730812,8,0,1,"stream in Orleans County, Vermont, United States",,Q47521,,
+Huskisson,Huskisson,Q37189361,9,0,1,family name,,Q101352,,
+Huskisson,Huskisson,Q2254542,9,0,1,"town in New South Wales, Australia","Huskisson, New South Wales|Huskisson, New South Wales, Australia",Q3957|Q188509,,"Huskisson, New South Wales"
+Huskisson,Huskisson Parish,Q3365771,9,0,1,"parish in New Brunswick, Canada","Huskisson Parish, New Brunswick",Q131822041,,Huskisson Parish
+Huskisson,Huskisson,Q115712751,9,0,1,"shipwreck, 3.40 km from Llansaint",,Q852190,,
+Huskisson,Huskisson River,Q1638969,9,0,1,river in Australia,,Q4022,,
+Huskisson,"Huskisson, Thomas (NBD)",Q24018030,9,0,1,entry in the Naval Biographical Dictionary,,Q19389637,,
+Huskisson,Huskisson railway station,Q5949357,9,0,1,"railway station in Kirkdale, the UK",Huskisson Station,Q55488,,Huskisson railway station
+Huskisson,"Huskisson, Thomas (DNB00)",Q19055121,9,0,1,entry in Dictionary of National Biography,,Q19389637,,
+Huskisson,"Huskisson, William (DNB00)",Q19055131,9,0,1,entry in Dictionary of National Biography,,Q19389637,,
+Huskisson,Huskisson Group,Q64420599,9,0,1,"stratigraphic layer in TAS, Australia",,Q824979,,
+Huskisson,"Sir John Huskisson, 8th Baronet",Q28097924,9,0,2,"English diplomat, 1800-1868","John Huskisson|Sir John Huskisson|John Ralph Milbanke Huskisson|Sir John Ralph Milbanke Huskisson|Sir John Ralph Milbanke Huskisson, 8th Baronet|Sir John Milbanke-Huskisson, 8th Bt.",Q5,,"Sir John Ralph Milbanke Huskisson, 8th Baronet"
+Huskisson,John Huskisson,Q75431857,9,0,2,Peerage person ID=137725,,Q5,,
+Bombala,Bombala Shire,Q752509,10,0,1,"former local government area in New South Wales, Australia",Bombala,Q30129411|Q55558200,,Bombala Shire
+Bombala,Bombala,Q2253650,10,0,1,"town in New South Wales, Australia","Bombala, New South Wales|Bombala, New South Wales, Australia",Q3957|Q3257686,,Bombala
+Bombala,Bombala,Q9661119,10,0,1,crater on Mars,,Q55818|Q1475691,,Bombala (crater)
+Bombala,Bombała,Q118060069,10,0,1,family name,,Q101352,,
+Bombala,Bombala,Q63526263,10,0,1,"parish of Wellesley County, New South Wales, Australia",Bombala Parish|Parish of Bombala,Q28931760,,
+Bombala,Bombala railway station,Q55605717,10,0,1,"railway station in Bombala LGA, New South Wales, Australia",Bombala Railway Station,Q55488,,Bombala railway station
+Bombala,Bombala,Q137412564,10,0,1,,,Q486972,,
+Bombala,HMS Willow Branch,Q110670371,10,0,1,,,Q1550883,,
+Bombala,Bombala railway line,Q4940459,10,0,1,railway line in Australia,,Q728937,,Bombala railway line
+Bombala,Bombala River,Q891763,10,0,1,river,,Q4022,,Bombala River
+Kothagudem,Kothagudem,Q2238988,11,0,1,"town in Kothagudem mandal of Bhadradri Kottagudem district, Telangana, India",,Q3957,,Kothagudem
+Kothagudem,Kothagudem,Q12919930,11,0,1,"village in Chatrai mandal, Eluru district, Andhra Pradesh, India",K Kothagudem,Q56436498,,K Kothagudem
+Kothagudem,Kothagudem,Q30623998,11,0,1,"village in Denduluru mandal, Eluru district, Andhra Pradesh, India",,Q56436498,,"Kothagudem, Eluru district"
+Kothagudem,Kothagudem,Q12994333,11,0,1,"village in Narayanapur mandal, Yadadri Bhuvanagiri district of Telangana, India",,Q56436498,,
+Kothagudem,Kothagudem,Q12994334,11,0,1,"human settlement in Etapaka mandal, Polavaram district, Andhra Pradesh, India",,Q56436498,,
+Kothagudem,Kothagudem,Q12994328,11,0,1,"village in Devipatnam mandal, Polavaram district, Andhra Pradesh, India",,Q56436498,,
+Kothagudem,Kothagudem,Q12994329,11,0,1,"village in Gudem Kotha Veedhi mandal, Alluri Sitharama Raju district, Andhra Pradesh, India",,Q56436498,,
+Kothagudem,Kothagudem Assembly constituency,Q6433974,11,0,1,constituency of the Telangana legislative assembly in India,Kothagudem constituency|Kothagudem Vidhan Sabha constituency,Q54375514,,Kothagudem Assembly constituency
+Kothagudem,Kothagudem mandal,Q59082299,11,0,1,"mandalam in Bhadradri Kottagudem district of Telangana, India",,Q122987738,,
+Kothagudem,National Highway 930P,Q106705735,11,0,1,national highway in India,"Kothagudem-Yelandu-Mahabubabad-Nellikuduru-Thorrur-Peddavangara-Tirumalagiri-Duppelli-Valigonda route has been synchronised with Gourelli junction, Outer Ring Road of Hyderabad and it has been declared as NH 930P.",Q34442,,
+Kothagudem,Kothaguda Mandal,Q65317357,11,0,2,"mandal in Mahabubabad district, Telangana, India",Kothagudem mandal,Q122987738,,
+Bundalong,Bundalong,Q2236907,12,0,1,"town in Victoria, Australia","Bundalong, Victoria|Bundalong, Victoria, Australia",Q3957,,Bundalong
+Bundalong,Bundalong,Q28931268,12,0,1,"parish in Moira Shire, Victoria, Australia",,Q28930084,,
+Bundalong,Bundalong South,Q4997496,12,0,1,"human settlement in Ovens Valley, Victoria, Australia","Bundalong South, Victoria, Australia|Bundalong South, Victoria",Q3257686,,Bundalong South
+Bundalong,BUNDALONG SOUTH,Q123659461,12,0,1,"weather station in Victoria, Australia from 1984 to 1999",081119,Q190107,,
+Cooroy,Cooroy,Q2221520,13,0,1,"town in Queensland, Australia","Cooroy, Queensland|Cooroy, Queensland, Australia|Heart of the Hinterland",Q3957,,"Cooroy, Queensland"
+Cooroy,Cooroy,Q29020043,13,0,1,electrical substation,T70,Q174814,,
+Cooroy,Cooroy railway station,Q5168051,13,0,1,"railway station in Queensland, Australia",,Q55488|Q22808404,,Cooroy railway station
+Cooroy,Cooroy Library,Q85462491,13,0,1,"public library in Cooroy, Queensland, Australia",,Q11396180|Q28564,,
+Cooroy,"Category:Cooroy, Queensland",Q25011486,13,0,1,Wikimedia category,"Cooroy, Queensland",Q4167836,,"Category:Cooroy, Queensland"
+Cooroy,Cooroy Lower Mill Site Kiln,Q23641725,13,0,1,"historic site in Queensland, Australia",,,,Cooroy Lower Mill Site Kiln
+Cooroy,Cooroy Post Office,Q38160363,13,0,1,historic commonwealth heritage site in Cooroy QLD,,Q38048707,,Cooroy Post Office
+Cooroy,Cooroy–Gympie Road,Q123171208,13,0,1,"road route in Queensland, Australia",,,,Cooroy–Gympie Road
+Cooroy,Cooroy–Noosa Road,Q120727639,13,0,1,"road route in Queensland, Australia",,Q34442,,Cooroy–Noosa Road
+Cooroy,Cooroy Mountain,Q5168048,13,0,1,"human settlement in Noosa, Queensland, Australia","Cooroy Mountain, Queensland|Cooroy Mountain, Queensland, Australia",Q188509,,"Cooroy Mountain, Queensland"
+Archies Creek,Archies Creek,Q2220512,14,0,1,"town in Victoria, Australia","Archies Creek, Victoria|Archies Creek, Victoria, Australia",Q3957,,Archies Creek
+Archies Creek,Archies Creek,Q32119749,14,0,1,river in New Zealand,,Q4022,,
+Archies Creek,Archies Creek,Q21895678,14,0,1,river in Australia,,Q4022,,
+Archies Creek,Archies Creek,Q32119771,14,0,1,river in New Zealand; geonames ID = 6206548,,Q4022,,
+Archies Creek,Archies Creek,Q21959660,14,0,1,"river in Northern Territory, Australia",,Q47521,,
+Archies Creek,Archies Creek,Q49841361,14,0,1,"natural watercourse in Patrick County, Virginia, United States of America",,Q47521,,
+Archies Creek,Archies Creek,Q21922884,14,0,1,"river in Victoria, Australia",,Q4022,,
+Archies Creek,Archies Creek,Q22931140,14,0,1,Wikimedia disambiguation page,,Q4167410,,
+Stamford,Stamford,Q49169,15,0,1,"city in Fairfield County, Connecticut, United States","Stamford, Connecticut|Stamford, CT",Q1093829|Q1549591|Q515,,"Stamford, Connecticut"
+Stamford,Stamford,Q20991064,15,0,1,"civil parish in South Kesteven, Lincolnshire, UK","Stamford (civil parish), Lincolnshire|Stamford, Lincolnshire",Q1115575,,
+Stamford,Stamford,Q1000662,15,0,1,"town in Lincolnshire, England",,Q3957|Q18511725,,"Stamford, Lincolnshire"
+Stamford,Stamford Transportation Center,Q7597415,15,0,1,"railway station in Stamford, Connecticut, United States",Stamford station|Stamford|Stewart B. McKinney Transportation Center,Q55488,,Stamford Transportation Center
+Stamford,Stamford,Q91263557,15,0,1,given name,,Q202444,,
+Stamford,Stamford A.F.C.,Q18492,15,0,1,"association football club in Stamford, England",Stamford Association Football Club|Stamford AFC|Stamford|The Daniels|SAFC,Q476028,,Stamford A.F.C.
+Stamford,Stamford,Q23612995,15,0,1,"hamlet and former civil parish in Northumberland, England","Stamford, Northumberland",Q1115575|Q5084,,
+Stamford,Stamford,Q982190,15,0,1,"city in Texas, United States","Stamford, Texas|Stamford, TX",Q1093829,,"Stamford, Texas"
+Stamford,Stamfordham,Q2538081,15,0,1,"village and civil parish in Northumberland, England, UK","Stamfordham, Northumberland",Q532|Q1115575,,Stamfordham
+Stamford,Stamford,Q60576143,15,0,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Stamford,Stamford University,Q106610899,15,0,2,"English university, 1333-35",University of Stamford,Q3918,,University of Stamford
+Stamford,Stamford University Bangladesh,Q7597417,15,0,2,"private university in Dhaka, Bangladesh",,Q902104,,Stamford University Bangladesh
+Stamford,Dr. Ali Ahmed,Q57920947,15,0,2,"researcher, ORCID id # 0000-0003-0826-3350","Stamford University Bangladesh Associate Professor, Department of Civil Engineering",Q5,,
+Stamford,Stamford University,Q7597414,15,0,2,Wikimedia disambiguation page,,Q4167410,,Stamford University
+Stamford,Stamford Bridge,Q171458,15,0,2,"association football stadium in London, England",The Bridge,Q1154710,,Stamford Bridge (stadium)
+Stamford,Stamford Bridge,Q2270867,15,0,2,"village and civil parish in the East Riding of Yorkshire, England, UK","Stamford Bridge, East Riding of Yorkshire|Stamford Bridge York",Q532|Q1115575,,"Stamford Bridge, East Riding of Yorkshire"
+Stamford,Stamford Bridge,Q24667016,15,0,2,,,,,
+Stamford,Stamford Bridge railway station,Q16900637,15,0,2,"railway station in Stamford Bridge, East Riding of Yorkshire, England, UK",Railway Station And Platforms,Q55488,,Stamford Bridge railway station
+Stamford,Stamford Bridge,Q17555297,15,0,2,"bridge in North Yorkshire, England, UK","Bridge over River Derwent|Stamford Bridge (bridge)|River Derwent road bridge, Stamford Bridge",Q537127,,Stamford Bridge (bridge)
+Stamford,Stamford Bridge,Q136460033,15,0,2,"hamlet in Cheshire, England, UK",,Q5084,,
+Stamford,Stamford Bridge,Q7597378,15,0,2,bridge in United States of America,,Q537127,,"Stamford Bridge (Cedar Butte, South Dakota)"
+Stamford,Stamford Bridge,Q119444968,15,0,2,"painting by Steven MacIver (b.1979), Art & Heritage Collections, Robert Gordon University",,Q3305213,,
+Stamford,Stamford Bridge Railway Viaduct,Q17554562,15,0,2,"bridge in Yorkshire, UK",,Q39486269,,
+Stamford,Stamford Bridge Greyhounds,Q60746130,15,0,2,"Greyhound racing operation in London, England, UK",,Q17350442,,Stamford Bridge Greyhounds
+Stamford,"2020 COVID-19 pandemic in Stamford, Connecticut",Q95682017,15,0,2,"pandemic in Stamford, Connecticut","2020 coronavirus outbreak in Stamford, Connecticut|COVID-19 pandemic in Stamford, Connecticut|2020 Stamford, Connecticut COVID-19 pandemic|Stamford, Connecticut COVID-19 pandemic|2020 COVID pandemic in Stamford, Connecticut",Q3241045,,
+Stamford,"history of Stamford, Connecticut",Q5866706,15,0,2,aspect of history,"Stamford, Connecticut history",Q17524420,,"History of Stamford, Connecticut"
+Stamford,"education in Stamford, Connecticut",Q5341149,15,0,2,,"Stamford, Connecticut education|education of Stamford, Connecticut",Q74817647,,"Education in Stamford, Connecticut"
+St Leonards,St Leonards,Q5355974,16,0,1,"former state electoral district of New South Wales, Australia",Electoral district of St Leonards|St Leonards electoral district,Q3032154,,Electoral district of St Leonards
+St Leonards,St Leonards,Q14935644,16,0,1,"suburb of Launceston, Tasmania","St Leonards, Tasmania|St Leonards, Tasmania, Australia",Q188509|Q98433835,,"St Leonards, Tasmania"
+St Leonards,St Leonards,Q3495335,16,0,1,"town in Hastings, East Sussex, England","St. Leonards-on-Sea|St. Leonards, Sussex|St Leonards, East Sussex|St Leonards-on-Sea|Hastings St Leonards|St. Leonards",Q3957,,St Leonards-on-Sea
+St Leonards,St Leonards,Q6272440,16,0,1,"suburb of Sydney, New South Wales, Australia","St Leonards, New South Wales|St Leonards, New South Wales, Australia|St. Leonards, NSW|St Leonards, NSW",Q188509,,"St Leonards, New South Wales"
+St Leonards,Edward Burtenshaw Sugden,Q5345498,16,0,1,"British lawyer, judge, statesman, and writer",Lord St Leonards|Baron St Leonards|1st Baron St Leonards|St Leonards|Edward Sugden|Edw. Sugden|Edward B. Sugden|E. B. Sugden,Q5,,"Edward Sugden, 1st Baron St Leonards"
+St Leonards,St Leonards,Q7594013,16,0,1,"town in Victoria, Australia","St Leonards, Victoria|St Leonards, Victoria, Australia",Q3957,,"St Leonards, Victoria"
+St Leonards,St Leonards,Q66768149,16,0,1,,,Q358,,
+St Leonards,Saint Leonards,Q7594008,16,0,1,suburb of the New Zealand city of Dunedin,"St Leonards, New Zealand|St Leonards",Q188509,,"St Leonards, Dunedin"
+St Leonards,St Leonards,Q7594010,16,0,1,"village in Buckinghamshire, UK",,Q532,,"St Leonards, Buckinghamshire"
+St Leonards,St Leonards,Q7594007,16,0,1,"village in Dorset, England, UK",,Q532,,"St Leonards, Dorset"
+St Leonards,St Leonards-on-Sea United Reformed Church,Q7594015,16,0,2,"Congregational church in Hastings, Sussex, England, UK",Congregational Church of St Leonard|St Leonards-on-Sea Congregational Church,Q16970,,St Leonards-on-Sea Congregational Church
+St Leonards,St Leonards-on-Sea Methodist Church,Q107210993,16,0,2,"church in St Leonards-on-Sea, East Sussex, United Kingdom","Park Road Methodist Church|Park Road Methodist Church, St Leonards-on-Sea",Q56242063,,
+St James,St. James the Elder,Q43999,17,0,1,one of the Twelve Apostles of Jesus,"James, son of Zebedee|St James|Saint James|Jakob|James|James the Major|Saint Jacob|Santiago|Saint Jacques|Saint James the Great|St. James the Great|St James the Great|St. James|James the Great|St. James the Apostle|Big James|Saint James the Greater|St. James the Greater",Q20643955|Q5,,James the Great
+St James,St James,Q7593500,17,0,1,metro station in Tyne & Wear,St James metro station,Q85641138|Q22808403|Q55485|Q11606300,,St James Metro station
+St James,St James,Q6121274,17,0,1,painting by El Greco,Saint James the Great,Q3305213,,Saint James the Great (El Greco)
+St James,Saint James,Q7593480,17,0,1,"suburb of Perth, Western Australia","St James|St. James|St James, Western Australia|St James, Western Australia, Australia",Q23010647,,"St James, Western Australia"
+St James,St James South Elmham,Q2203904,17,0,1,"village in Suffolk, England, UK","South Elmham St James|St James, Suffolk|St James, South Elmham",Q532|Q1115575,,St James South Elmham
+St James,St James,Q7588516,17,0,1,"parish of Cumberland County, New South Wales, Australia",St James Parish|Parish of St James,Q28931760,,Parish of St James
+St James,St James,Q3495331,17,0,1,"seaside village in the Western Cape, South Africa",,Q123705,,"St James, Cape Town"
+St James,St James,Q7593477,17,0,1,"town in Victoria, Australia","St James, Victoria|St James, Victoria, Australia",Q3957,,"St James, Victoria"
+St James,Pecten maximus,Q1249634,17,0,1,"species of mollusc, also called St James shell",king scallop|great scallop|St James shell,Q16521,Q2095,Pecten maximus
+St James,St James Street railway station,Q2084371,17,0,1,"railway station in Walthamstow, London Borough of Waltham Forest, England, UK",St James Street Station|SJS,Q55488,,St. James Street railway station
+St James,St. James,Q19252439,17,0,2,family name,,Q66480858,,
+St James,St. James,Q1823298,17,0,2,"city in and the county seat of Watonwan County, Minnesota, United States","St. James, Minnesota|St. James, MN",Q1093829|Q62049,,"St. James, Minnesota"
+St James,St. James,Q1568157,17,0,2,"hamlet and census-designated place in Suffolk County, New York, United States","St. James, New York|St. James, NY|Saint James, New York",Q498162|Q17343829,,"St. James, New York"
+St James,St. James,Q958737,17,0,2,"city in Phelps County, Missouri, United States","St. James, Missouri|Saint James, Missouri|St. James, MO|Big Prairie",Q1093829,,"St. James, Missouri"
+St James,Saint James,Q7401398,17,0,2,"district of Port of Spain, Trinidad and Tobago","Saint James, Trinidad and Tobago|Saint James, Port of Spain|St. James|St. James, Trinidad and Tobago|St. James, Port of Spain",Q3257686,,"Saint James, Trinidad and Tobago"
+St James,St. James Municipal Airport,Q35305790,17,0,2,"airport in Watonwan County, Minnesota, United States of America",St James Municipal Airport|St. James,Q1248784,,St. James Municipal Airport
+St James,St. James,Q18392657,17,0,2,"census-designated place in Michigan, United States","Saint James|St. James, MI",Q498162,,"St. James, Michigan"
+St James,St. James,Q2027223,17,0,2,"town in Brunswick County, North Carolina, United States","St. James, North Carolina|Saint James, North Carolina|Saint James, NC|St. James, NC",Q15127012|Q132680629,,"St. James, North Carolina"
+St James,St James's,Q124234,17,0,2,"district in the City of Westminster, London, England","St. James's|St James's, London",Q2755753,,St James's
+St James,St James's Palace,Q272162,17,0,2,royal palace in London,"St. James's Palace|Saint James's Palace~St James's Palace, Garden Walls, Marlborough Gate Etc",Q16560,,St James's Palace
+St James,St. James's Place Wealth Management Group,Q7588412,17,0,2,UK-based wealth management business based in Cirencester,St. James's Place plc|St James's Place|St. James's|St James's,Q4830453|Q891723,,St. James's Place plc
+St James,St. James's,Q56295215,17,0,2,electoral ward in the London borough of Westminster,St. James's Ward|St James's,Q589282,,St James's (Westminster ward)
+St James,St James's Hall,Q4416300,17,0,2,former concert hall in London,,Q1060829,,St James's Hall
+St James,St James's Park,Q216914,17,0,2,Royal Park in central London,St James's Park|St. James Park|St. James's Park|Saint James's Park,Q22698,,St James's Park
+St James,St James's University Hospital,Q7593476,17,0,2,"hospital in Leeds, West Yorkshire, England",Jimmy's|Jimmy's Hospital|St. James's Hospital|St James's Hospital,Q16917,,St James's University Hospital
+St Andrews Beach,St Andrews Beach,Q7592432,18,0,1,"town in Victoria, Australia","St Andrews Beach, Victoria|St Andrews Beach, Victoria, Australia|Saint Andrews Beach",Q3957,,St Andrews Beach
+St Andrews Beach,St Andrews Beach,Q21955796,18,0,1,"beach in Victoria, Australia",,Q40080,,
+St Andrews Beach,St Andrews Beach House,Q7592433,18,0,1,"residential in Victoria, Australia",,Q3947,,St Andrews Beach House
+St Andrews Beach,St Andrews,Q207736,18,0,2,"town on the east coast of Fife in Scotland, UK",Saint Andrews,Q3957|Q2928458|Q7543008,,St Andrews
+St Andrews Beach,St Andrews,Q68816539,18,0,2,"Scottish parish in Fife, Scotland, UK",,Q5124673,,
+St Andrews Beach,St Andrews,Q7586923,18,0,2,"human settlement in Nova Scotia, Canada","St Andrews, Nova Scotia|St. Andrews|St Andrew's|St. Andrew's",Q486972,,"St. Andrews, Nova Scotia"
+St Andrews Beach,St Andrews,Q29884211,18,0,2,"civil parish in Swindon, Wiltshire, England","St Andrews, Wiltshire",Q1115575,,"St Andrews, Swindon"
+St Andrews Beach,University of St Andrews,Q216273,18,0,2,"university in St Andrews, Fife, Scotland, UK",St Andrews University|University of Saint Andrews,Q875538|Q3998530|Q45400320|Q163740,,University of St Andrews
+St Andrews Beach,St Andrews,Q7592430,18,0,2,"town in Victoria, Australia","St Andrews, Victoria|Saint Andrews|St Andrews, Victoria, Australia",Q3957,,"St Andrews, Victoria"
+St Andrews Beach,Saint Andrews,Q7400943,18,0,2,"locality in Waimate District, Canterbury Region, New Zealand","Saint Andrews, Canterbury|St Andrews",Q3257686,,"Saint Andrews, Canterbury"
+St Andrews Beach,St Andrews,Q5234088,18,0,2,"suburb of Hamilton, New Zealand",,Q188509,,"St Andrews, Hamilton"
+St Andrews Beach,Ganghwa Onsuri Anglican Church,Q12601867,18,0,2,,St Andrews,Q35112127|Q16970,,
+St Andrews Beach,St Andrews,Q63529504,18,0,2,"parish of Arrawatta County, New South Wales, Australia",St Andrews Parish|Parish of St Andrews,Q28931760,,
+St Andrews Beach,St. Andrews University,Q7586947,18,0,2,"former educational institution in North Carolina, U.S.",St. Andrews Presbyterian College|Saint Andrews University|Saint Andrews Presbyterian College|St. Andrews College|St Andrews university NC,Q123602198|Q23002054,,St. Andrews University (North Carolina)
+St Andrews Beach,St Andrews University Library,Q17570659,18,0,2,"library of the University of St Andrews, Scotland",University of St Andrews Library,Q856234|Q811979|Q7075,,University of St Andrews Library
+St Andrews Beach,"St Andrews University Old Students Union, 77 North Street, St Andrews",Q17800730,18,0,2,"university building in Fife, Scotland, UK","St Andrews, 77 North Street, St Andrews University Old Students Union",Q19844914,,
+St Andrews Beach,St Andrews University Rugby Football Club Stand,Q77780273,18,0,2,"architectural structure in Fife, Scotland, UK",,Q811979,,
+St Andrews Beach,Fife,Q201149,18,0,2,"council area of Scotland, UK",Fìobha|Fifeshire|Fiobha|GB-FIF,Q15060255|Q34763|Q2138167|Q7309443|Q202435,,Fife
+St Andrews Beach,Fife,Q67479974,18,0,2,historic county in Scotland,Fifeshire,Q67376938|Q1350181,,
+St Andrews Beach,Fife,Q20895162,18,0,2,family name,,Q101352,,
+St Andrews Beach,Fife,Q1510211,18,0,2,"city in Pierce County, Washington, United States","Fife, Washington|Fife, WA",Q1093829,,"Fife, Washington"
+St Andrews Beach,Fédération Internationale Féline,Q42584,18,0,2,international federation of national cat registries,Federation Internationale Feline|fife|FIFe|FIFé,Q1156831|Q5051107|Q484652,,Fédération Internationale Féline
+St Andrews Beach,fife,Q2255516,18,0,2,musical instrument,,Q110295396|Q173453,Q16875637,Fife (instrument)
+St Andrews Beach,Allan Fife,Q21339628,18,0,2,botanist in New Zealand (born 1951),Fife|Allan J Fife|Allan J. Fife|A. J. Fife|A.J. Fife|AJ Fife|Allan James Fife,Q5,,
+St Andrews Beach,Fife,Q5447352,18,0,2,"Parliamentary constituency in the United Kingdom, 1801-1885",,Q27971968,,Fife (UK Parliament constituency)
+St Andrews Beach,Fifehead Neville,Q2551316,18,0,2,"village and civil parish in Dorset, United Kingdom","Fifehead Neville, Dorset",Q532|Q1115575,,Fifehead Neville
+St Andrews Beach,piffero,Q1818477,18,0,2,"double reed musical instrument with a conical bore, of the oboe family, traditional in the Quattro Province region",piffaro|fife,,Q42889517|Q540887|Q677921,Piffero
+St Andrews Beach,Scotland,Q22,18,0,2,"country in north-west Europe, part of the United Kingdom","Alba|Scotland, United Kingdom|Caledonia|Scot",Q3336843|Q6266|Q6256,,Scotland
+St Andrews Beach,Kingdom of Scotland,Q230791,18,0,2,historic sovereign kingdom on the British Isles from the 9th century and up to 1707,Scotland|The Kingdom of Scotland,Q3024240|Q3624078|Q417175,,Kingdom of Scotland
+St Andrews Beach,Scotland,Q107636801,18,0,2,given name,,Q202444,,
+St Andrews Beach,Robert W. Scotland,Q22669063,18,0,2,British botanist,Scotland|Robert W Scotland|Robert Scotland|R. W. Scotland,Q5,,
+St Andrews Beach,Scotland men's national football team,Q34044,18,0,2,men's association football team representing Scotland,Scottish National Football Team|Scotland national soccer team|Scotland national team|Scotland national football team,Q135408445,Q1194951,Scotland national football team
+St Andrews Beach,Scotland,Q63462987,18,0,2,Constituency for co-opted members in the 1707-08 Parliament,Scotland (constituency),Q27990943,,
+St Andrews Beach,Scotland,Q7435626,18,0,2,constituency of the European Parliament,,Q2631496,,Scotland (European Parliament constituency)
+St Andrews Beach,Robert Burns,Q81960,18,0,2,Scottish poet and lyricist (1759–1796),Robbie Burns|Rabbie Burns|Scotland's favorite son|Ploughman Poet|Bard of Ayrshire|The Bard|National poet of Scotland|Robden of Solway Firth,Q5,,Robert Burns
+St Andrews Beach,Scotland,Q2578696,18,0,2,"city in South Dakota, United States of America","Scotland, South Dakota|Scotland, SD",Q1093829,,"Scotland, South Dakota"
+St Andrews Beach,Scotland national rugby union team,Q945016,18,0,2,Men’s rugby union team representing Scotland,Scotland rugby team|Scottish national rugby team|Scottish rugby team,Q58840819,,Scotland national rugby union team
+St Andrews,St Andrews,Q207736,19,0,1,"town on the east coast of Fife in Scotland, UK",Saint Andrews,Q3957|Q2928458|Q7543008,,St Andrews
+St Andrews,St Andrews,Q68816539,19,0,1,"Scottish parish in Fife, Scotland, UK",,Q5124673,,
+St Andrews,St Andrews,Q7586923,19,0,1,"human settlement in Nova Scotia, Canada","St Andrews, Nova Scotia|St. Andrews|St Andrew's|St. Andrew's",Q486972,,"St. Andrews, Nova Scotia"
+St Andrews,St Andrews,Q29884211,19,0,1,"civil parish in Swindon, Wiltshire, England","St Andrews, Wiltshire",Q1115575,,"St Andrews, Swindon"
+St Andrews,University of St Andrews,Q216273,19,0,1,"university in St Andrews, Fife, Scotland, UK",St Andrews University|University of Saint Andrews,Q875538|Q3998530|Q45400320|Q163740,,University of St Andrews
+St Andrews,St Andrews,Q7592430,19,0,1,"town in Victoria, Australia","St Andrews, Victoria|Saint Andrews|St Andrews, Victoria, Australia",Q3957,,"St Andrews, Victoria"
+St Andrews,Saint Andrews,Q7400943,19,0,1,"locality in Waimate District, Canterbury Region, New Zealand","Saint Andrews, Canterbury|St Andrews",Q3257686,,"Saint Andrews, Canterbury"
+St Andrews,St Andrews,Q5234088,19,0,1,"suburb of Hamilton, New Zealand",,Q188509,,"St Andrews, Hamilton"
+St Andrews,Ganghwa Onsuri Anglican Church,Q12601867,19,0,1,,St Andrews,Q35112127|Q16970,,
+St Andrews,St Andrews,Q63529504,19,0,1,"parish of Arrawatta County, New South Wales, Australia",St Andrews Parish|Parish of St Andrews,Q28931760,,
+St Andrews,St. Andrews University,Q7586947,19,0,2,"former educational institution in North Carolina, U.S.",St. Andrews Presbyterian College|Saint Andrews University|Saint Andrews Presbyterian College|St. Andrews College|St Andrews university NC,Q123602198|Q23002054,,St. Andrews University (North Carolina)
+St Andrews,St Andrews University Library,Q17570659,19,0,2,"library of the University of St Andrews, Scotland",University of St Andrews Library,Q856234|Q811979|Q7075,,University of St Andrews Library
+St Andrews,"St Andrews University Old Students Union, 77 North Street, St Andrews",Q17800730,19,0,2,"university building in Fife, Scotland, UK","St Andrews, 77 North Street, St Andrews University Old Students Union",Q19844914,,
+St Andrews,St Andrews University Rugby Football Club Stand,Q77780273,19,0,2,"architectural structure in Fife, Scotland, UK",,Q811979,,
+St Andrews,"St Andrews Cathedral, Saint Andrews",Q2361738,19,0,2,"ruined cathedral in Saint Andrews, Scotland","St Andrews Cathedral and Priory and adjacent ecclesiastical remains|St Andrew's Cathedral, St Andrews",Q2977,,St Andrews Cathedral
+St Andrews,St Andrews Cathedral Priory,Q7592435,19,0,2,"priory in Fife, Scotland, UK (1140-17th cent.)",,Q2750108,,St Andrews Cathedral Priory
+St Andrews,"St Andrews Cathedral, Graveyard",Q17570619,19,0,2,"cemetery in Fife, Scotland, UK",,Q39614,,
+St Andrews,"St Andrews Cathedral, Eastern Cemetery, Well House",Q17795988,19,0,2,"well in St Andrews, Fife, Scotland, UK",,Q43483,,
+St Andrews,"St Andrews Cathedral, St Andrews Priory",Q17570616,19,0,2,"priory in St Andrews, Fife, Scotland, UK",,Q2750108,,
+St Andrews,"St Andrews Cathedral, St Andrews Priory, Guest Hall",Q17796027,19,0,2,"architectural structure in Fife, Scotland, UK",,Q811979,,
+St Andrews,St Andrews Cathedral Museum,Q113369731,19,0,2,"museum in St. Andrews, Scotland, UK",,Q33506,,
+St Andrews,St Andrews Castle,Q2287936,19,0,2,"castle in Fife, Scotland, UK",,Q23413,,St Andrews Castle
+St Andrews,St Andrew's Castle,Q16248055,19,0,2,"artillery fort constructed by Henry VIII near Hamble-le-Rice, Hampshire, between 1542 and 1543","St Andrews Castle|St Andrew's Castle, Hamble",Q245016|Q109607|Q23413,,"St Andrew's Castle, Hamble"
+St Andrews,St Andrews Castle,Q108294766,19,0,2,guidebook published in 1992,,Q223638,,
+St Andrews,"St Andrews Castle, Fife",Q119256283,19,0,2,"painting by Charles Gustav Louis Phillips (1863–1944), Verdant Works",,Q3305213,,
+St Andrews,St Andrews Castle,Q108294574,19,0,2,article published in 2013,,Q13442814,,
+Springton,Springton,Q7581207,20,0,1,town in South Australia,"Springton, South Australia|Springton, South Australia, Australia",Q3957,,"Springton, South Australia"
+Springton,Springton,Q22083165,20,0,1,"human settlement in Mercer County, West Virginia, United States of America","Springton, West Virginia|Springton, WV",Q17343829,,"Springton, West Virginia"
+Springton,Springton,Q112084025,20,0,1,"locality in Prince Edward Island, Canada",,Q3257686,,
+Springton,"Springton Lake, Pennsylvania",Q24192722,20,0,1,body of water,Springton Reservoir,Q131681,,Springton Reservoir
+Springton,Springton Lake Middle School,Q7581208,20,0,1,,,Q3914|Q149566,,Springton Lake Middle School
+Springton,Springton Peak,Q137380226,20,0,1,highest point on Prince Edward Island,,Q8502,,Springton Peak
+Springton,Springton Manor Farm,Q7581209,20,0,1,"historic district in Pennsylvania, United States",,Q15243209,,Springton Manor Farm
+Springton,Springton Creek,Q21960289,20,0,1,"river in Queensland, Australia",,Q4022,,
+Springton,Springton Gas Field,Q21960307,20,0,1,,,Q1349255,,
+Springton,Springton Creek,Q21899568,20,0,1,river in Australia,,Q4022,,
+Springbrook,Springbrook National Park,Q1848058,21,0,1,"national park in Queensland, Australia",Springbrook N.P.|Springbrook,Q18618819|Q46169,,Springbrook National Park
+Springbrook,Springbrook,Q7580818,21,0,1,"town in Queensland, Australia","Springbrook, Queensland|Springbrook, Queensland, Australia",Q3957,,"Springbrook, Queensland"
+Springbrook,Springbrook,Q2443011,21,0,1,"city in North Dakota, United States","Springbrook, North Dakota|Springbrook, ND",Q1093829,,"Springbrook, North Dakota"
+Springbrook,Springbrook,Q1886886,21,0,1,"human settlement in Washburn County, Wisconsin, United States of America","Springbrook, WI",Q15219655,,"Springbrook, Wisconsin"
+Springbrook,Springbrook,Q1925631,21,0,1,"human settlement in Jackson County, Iowa, United States of America","Springbrook, Iowa|Springbrook, IA",Q1093829,,"Springbrook, Iowa"
+Springbrook,Springbrook High School,Q7580820,21,0,1,"high school in Montgomery County, Maryland, United States",,Q9826|Q1080794,,Springbrook High School
+Springbrook,Springbrook,Q3474075,21,0,1,unincorporated community in Oregon,"Springbrook, OR",Q123705|Q17343829,,"Springbrook, Oregon"
+Springbrook,Springbrook,Q7580817,21,0,1,"hamlet in Alberta, Canada",,Q17366755,,"Springbrook, Alberta"
+Springbrook,Springbrook,Q7580819,21,0,1,"unincorporated community in Washburn County, Wisconsin","Springbrook, WI|Springbrook, Wisconsin",Q17343829,,"Springbrook (community), Wisconsin"
+Springbrook,Springbrook,Q89581821,21,0,1,"community in Stirling-Rawdon, Ontario, Canada",,Q486972,,
+Spalding,Spalding,Q1185203,22,0,1,"market town in Lincolnshire, England","Spalding, Lincolnshire|Spalding, Lincolnshire, England",Q3957|Q18511725|Q7897276,,"Spalding, Lincolnshire"
+Spalding,Spalding,Q16883643,22,0,1,family name,,Q101352,,Spalding (surname)
+Spalding,Spalding University,Q7572993,22,0,1,"private Catholic university in Louisville, Kentucky, United States",Spalding,Q3918|Q23002054,,Spalding University
+Spalding,Spalding County,Q503486,22,0,1,"county in Georgia, United States","Spalding County, Georgia|Spalding County, GA",Q13410428,,"Spalding County, Georgia"
+Spalding,Spalding Gray,Q321917,22,0,1,"actor, dramatist, playwright, screenwriter (1941–2004)",,Q5,,Spalding Gray
+Spalding,Spalding,Q2674312,22,0,1,"village in Greeley County, Nebraska, United States","Spalding, Nebraska|Spalding, NE",Q751708,,"Spalding, Nebraska"
+Spalding,Spalding,Q2555271,22,0,1,American sporting goods manufacturer,A.G. Spalding & Brothers,Q24928712|Q4830453|Q13235160,,Spalding (company)
+Spalding,William Jeffrey Spalding,Q96691588,22,0,1,particle physicist at Fermilab,Spalding J,Q5,,
+Spalding,Spalding,Q107015152,22,0,1,unisex given name,,Q202444,,
+Spalding,Spalding,Q7572965,22,0,1,"Parliamentary constituency in the United Kingdom, 1885-1918",,Q27971968,,Spalding (constituency)
+Spalding,Spalding Golden Eagles,Q105076902,22,0,2,intercollegiate sports teams of Spalding University,Spalding University athletics,Q2367225,,Spalding Golden Eagles
+Spalding,Spalding University Bookstore,Q99474995,22,0,2,"bookshop in Louisville, KY, United States of America",,Q200764,,
+Spalding,Spalding University School of Professional Psychology,Q101024502,22,0,2,academic department,,Q2467461,,
+Spalding,Spalding University School of Nursing,Q101024500,22,0,2,nursing school,,Q446901,,
+Spalding,"2020 COVID-19 pandemic in Spalding County, Georgia",Q94288882,22,0,2,"pandemic in Spalding County, Georgia","COVID-19 pandemic in Spalding County, Georgia|2020 coronavirus outbreak in Spalding County, Georgia|2020 Spalding County, Georgia COVID-19 pandemic|Spalding County, Georgia COVID-19 pandemic|2020 COVID pandemic in Spalding County, Georgia",Q3241045,,
+Spalding,Spalding County Georgia Democrats,Q99609483,22,0,2,political organization in U.S. state of Georgia,Spalding County Democrats|Spalding County GA Democrats,Q7210356,,
+Southend,Southend United F.C.,Q48951,23,0,1,"association football club in Southend-on-Sea, England",Southend United Football Club|Southend United FC|Southend United|Southend|United|The Shrimpers|SUFC,Q476028,,Southend United F.C.
+Southend,Southend-on-Sea,Q203995,23,0,1,"city in Essex, United Kingdom",Southend on Sea|Southend,Q7897276|Q1115575|Q515,,Southend-on-Sea
+Southend,London Southend Airport,Q1415441,23,0,1,"international airport in Rochford, Essex, England",SEN|EGMC|Southend,Q1248784|Q94993988,,London Southend Airport
+Southend,Southend,Q68816526,23,0,1,"Scottish civil parish covering the south of Kintyre, Argyll and Bute, Scotland, UK","Southend, Kintyre",Q5124673,,
+Southend,Southend,Q63529714,23,0,1,"parish of Cumberland County, New South Wales, Australia",Southend Parish|Parish of Southend,Q28931760,,
+Southend,Southend,Q7569533,23,0,1,"Parliamentary constituency in the United Kingdom, 1918-1950",,Q27971968,,Southend (constituency)
+Southend,Southend,Q7569511,23,0,1,"village on Kintyre, Argyll and Bute, Scotland, UK","Southend, Argyll|Southend, Kintyre|Southend, Argyll and Bute",Q532,,"Southend, Argyll"
+Southend,Southend,Q7569509,23,0,1,village in the west of the civil parish of Bradfield in the English county of Berkshire,"Southend, Berkshire|Bradfield Southend",Q532,,"Southend, Berkshire"
+Southend,Southend-on-Sea,Q21487155,23,0,1,"unitary authority area with city status in Essex, England, UK",Borough of Southend-on-Sea|County Borough of Southend-on-Sea,Q1136601|Q1006876|Q1137272|Q21503295|Q518343|Q1187580,,County Borough of Southend on Sea
+Southend,Southend,Q7569513,23,0,1,town in South Australia,"Southend, South Australia|Southend, South Australia, Australia",Q3957,,"Southend, South Australia"
+Southend,unparished part of Southend-on-Sea,Q105908731,23,0,2,part(s) of Southend-on-Sea local authority that are not covered by civil parishes,Southend-on-Sea (unparished area),Q7897276,,
+Southend,Southend-on-Sea City Council election,Q7569532,23,0,2,class of election,Southend-on-Sea Borough Council election,Q107359024,Q107358924|Q107637253,Southend-on-Sea City Council elections
+Southend,Southend-on-Sea City Council,Q7569516,23,0,2,"Local council (unitary authority) for Southend, Essex",Southend Council|Southend on Sea Borough Council|Southend-on-Sea Borough Council|Southend on Sea City Council,Q21561328,,Southend-on-Sea City Council
+Southend,Southend-on-Sea Corporation Act 1960,Q110282836,23,0,2,Local Act of Parliament of the United Kingdom,"8 & 9 Eliz. 2. c. xliv|8&9 Eliz 2 c xliv|Southend-on-Sea Corporation Act, 1960",Q100165600,,
+Southend,Southend-on-Sea Corporation Act 1970,Q110283367,23,0,2,Local Act of Parliament of the United Kingdom,"1970 c. lxxiv|1970 c lxxiv|Southend-on-Sea Corporation Act, 1970",Q100165600,,
+Southend,Southend-On-Sea (Sutton Road) Cemetery,Q83157515,23,0,2,cemetery in Southend-on-Sea,Sutton Road Cemetery,Q39614,,
+Southend,Southend-on-Sea Corporation Transport,Q7569518,23,0,2,former municipal transport operator in Southend-on-Sea,,Q740752|Q15640053,,Southend-on-Sea Corporation Transport
+Southend,Southend-on-Sea (Samian Ware Discovery Site),Q103196011,23,0,2,Southend-on-Sea as Samian Ware discovery site,,Q102202066|Q839954,,
+Southend,Southend Airport railway station,Q7569535,23,0,2,"railway station in Southend Airport, Rochford, Essex, England, UK",Southend Airport Station|SIA,Q55488|Q1335652,,Southend Airport railway station
+Southend,Southend Aerodrome,Q3914834,23,0,2,"Airport in Saskatchewan, Canada",,Q62447,,Southend/Hans Ulricksen Field Aerodrome

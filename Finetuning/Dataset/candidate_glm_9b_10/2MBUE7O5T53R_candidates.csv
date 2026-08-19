@@ -1,0 +1,36 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2006bh,SN 2006bh,Q9329775,0,0,1,supernova,,Q3937,,
+SN 2006bd,SN 2006bd,Q9329771,1,0,1,supernova,,Q3937,,
+SN 2006bb,SN 2006bb,Q9329769,2,0,1,supernova,,Q3937,,
+SN 2006az,SN 2006az,Q9329766,3,0,1,supernova,,Q3937,,
+SN 2006ay,SN 2006ay,Q9329764,4,0,1,supernova,,Q3937,,
+SN 2006at,SN 2006at,Q9329760,5,0,1,supernova,,Q3937,,
+SN 2006ar,SN 2006ar,Q9329759,6,0,1,supernova,,Q3937|Q67206691,,
+SN 2006ar,SN 2006gy,Q644956,6,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006ar,SN 2006X,Q2659966,6,0,2,supernova,,Q3937,,SN 2006X
+SN 2006ar,SN 2005cs,Q597168,6,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006ar,SN 2006jc,Q1747732,6,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006ar,SN 2002cx,Q7391949,6,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006ar,SN 2004et,Q9329248,6,0,2,supernova,,Q3937,,SN 2004et
+SN 2006ar,SN 2006rs,Q9330210,6,0,2,supernova,,Q3937,,
+SN 2006ar,SN 2008cs,Q9330949,6,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006ar,SN 2002dj,Q9328532,6,0,2,supernova,,Q3937,,
+SN 2006ar,SN 2006td,Q9330246,6,0,2,supernova,,Q3937,,
+SN 2006an,SN 2006an,Q9329755,7,0,1,supernova,,Q3937,,
+SN 2006al,SN 2006al,Q9329753,8,0,1,supernova,,Q3937,,
+SN 2006aj,GRB 060218,Q897401,9,0,1,gamma-ray burst in the constellation Aries,SN 2006aj,Q22247,,GRB 060218
+SN 2006aj,SN 2006aj,Q9329751,9,0,1,supernova,,Q3937|Q22247,,
+SN 2006aj,SN 2006aj and the nature of low-luminosity gamma-ray bursts,Q68810770,9,0,1,scientific article published in January 2006,,Q13442814,,
+SN 2006aj,SN 2006aj associated with XRF 060218 at late phases: nucleosynthesis signature of a neutron star-driven explosion,Q68895816,9,0,1,scholarly article,,Q13442814,,
+SN 2006aj,SN 2006gy,Q644956,9,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006aj,SN 2006X,Q2659966,9,0,2,supernova,,Q3937,,SN 2006X
+SN 2006aj,SN 2005cs,Q597168,9,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006aj,SN 2006jc,Q1747732,9,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006aj,SN 2002cx,Q7391949,9,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006aj,SN 2004et,Q9329248,9,0,2,supernova,,Q3937,,SN 2004et
+SN 2006aj,SN 2006rs,Q9330210,9,0,2,supernova,,Q3937,,
+SN 2006aj,SN 2008cs,Q9330949,9,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006aj,SN 2002dj,Q9328532,9,0,2,supernova,,Q3937,,
+SN 2006aj,SN 2006td,Q9330246,9,0,2,supernova,,Q3937,,
+SN 2006ak,SN 2006ak,Q9329750,10,0,1,supernova,,Q3937,,
+SN 2006ah,SN 2006ah,Q9329748,11,0,1,supernova,,Q3937,,

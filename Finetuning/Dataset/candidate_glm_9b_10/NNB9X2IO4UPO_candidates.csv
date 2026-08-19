@@ -1,0 +1,73 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2007la,SN 2007la,Q9330592,0,0,1,supernova,,Q3937,,
+SN 2007ky,SN 2007ky,Q9330591,1,0,1,supernova,,Q3937,,
+SN 2007kz,SN 2007kz,Q9330590,2,0,1,supernova,,Q3937,,
+SN 2007kx,SN 2007kx,Q9330589,3,0,1,supernova,,Q3937,,
+SN 2007kw,SN 2007kw,Q9330588,4,0,1,supernova,,Q3937,,
+SN 2007kv,SN 2007kv,Q9330587,5,0,1,supernova,,Q3937,,
+SN 2007kt,SN 2007kt,Q9330586,6,0,1,supernova,,Q3937,,
+SN 2007ku,SN 2007ku,Q9330585,7,0,1,supernova,,Q3937,,
+SN 2007ku,Kuiper belt object,Q11290231,7,0,2,type of astronomical object,KBO|Edgeworth-Kuiper Belt Object|EKBO,Q17444909,Q6592,
+SN 2007ku,Kuiper Belt object to become comet in approx. 2 million years,Q18017081,7,0,2,Wikinews article,,Q17633526,,
+SN 2007ku,Kuiper Belt Object 2014 MU69: Correlation Between Albedo and Landforms,Q107332267,7,0,2,conference paper published in 2019,,Q23927052,,
+SN 2007ku,Kuiper Belt Objects: Relics from the Accretion Disk of the Sun,Q56650583,7,0,2,scholarly article,,Q13442814,,
+SN 2007ku,Kuiper belt object sizes and distances from occultation observations,Q68885066,7,0,2,,,Q13442814,,
+SN 2007ku,KUIPER BELT OBJECTS,Q115195646,7,0,2,scientific article published in May 1999,,Q13442814,,
+SN 2007ku,"Kuiper belt object occultations: expected rates, false positives, and survey design",Q68444638,7,0,2,,,Q13442814,,
+SN 2007ku,minor planet,Q1022867,7,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2007ku,Minor Planet Center database,Q106600690,7,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2007ku,Minor Planet Center,Q522039,7,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2007ku,minor planet moon,Q657829,7,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2007ku,Minor Planet Circulars,Q6382430,7,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2007ku,minor planet group,Q2332332,7,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2007ku,list of minor planets,Q37651,7,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2007ku,Minor planet designation,Q817125,7,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2007ku,Minor Planet Bulletin,Q6869125,7,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2007ku,Minor Planet Catalogue,Q55178248,7,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2007ku,91775,Q135608222,7,0,2,natural number,,Q16317911|Q50707|Q13366129|Q467511,,
+SN 2007ks,SN 2007ks,Q9330584,8,0,1,supernova,,Q3937,,
+SN 2007kr,SN 2007kr,Q9330583,9,0,1,supernova,,Q3937,,
+SN 2007kp,SN 2007kp,Q9330582,10,0,1,supernova,,Q3937,,
+SN 2007kq,SN 2007kq,Q9330581,11,0,1,supernova,,Q3937,,
+SN 2007ko,SN 2007ko,Q9330579,12,0,1,supernova,,Q3937,,
+SN 2007kl,SN 2007kl,Q9330578,13,0,1,supernova,,Q3937,,
+SN 2007kk,SN 2007kk,Q9330576,14,0,1,supernova,,Q3937,,
+SN 2007kj,SN 2007kj,Q9330575,15,0,1,supernova,,Q3937,,
+SN 2007kh,SN 2007kh,Q9330573,16,0,1,supernova,,Q3937|Q6243,,
+SN 2007kg,SN 2007kg,Q9330572,17,0,1,supernova,,Q3937,,
+SN 2007kg,SN 2007on,Q4048839,17,0,2,supernova,,Q3937,,SN 2007on
+SN 2007kg,SN 2007af,Q4048837,17,0,2,supernova,,Q3937,,
+SN 2007kg,SN 2007gk,Q4048838,17,0,2,supernova,,Q3937,,
+SN 2007kg,SN 2007co,Q4048836,17,0,2,supernova,,Q3937,,
+SN 2007kg,SN 2007ck,Q4048835,17,0,2,supernova,,Q3937,,
+SN 2007kg,SN 2007uy,Q1064704,17,0,2,supernova,,Q3937,,SN 2007uy
+SN 2007kg,SN 2007sr,Q4816869,17,0,2,supernova,,Q3937,,SN 2007sr
+SN 2007kg,SN 2007rt,Q9330769,17,0,2,supernova,,Q3937,,
+SN 2007kg,SN 2007bi,Q606167,17,0,2,supernova in the constellation Virgo,,Q3937,,SN 2007bi
+SN 2007kg,SN 2007ja,Q9330540,17,0,2,supernova,,Q3937,,
+SN 2007kf,SN 2007kf,Q9330570,18,0,1,supernova,,Q3937,,
+SN 2007kd,SN 2007kd,Q9330568,19,0,1,supernova,,Q3937,,
+SN 2007ka,SN 2007ka,Q9330567,20,0,1,supernova,,Q3937,,
+SN 2007kb,SN 2007kb,Q9330566,21,0,1,supernova,,Q3937,,
+SN 2007jy,SN 2007jy,Q9330565,22,0,1,supernova,,Q3937,,
+SN 2007jy,minor planet,Q1022867,22,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2007jy,Minor Planet Center database,Q106600690,22,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2007jy,Minor Planet Center,Q522039,22,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2007jy,minor planet moon,Q657829,22,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2007jy,Minor Planet Circulars,Q6382430,22,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2007jy,minor planet group,Q2332332,22,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2007jy,list of minor planets,Q37651,22,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2007jy,Minor planet designation,Q817125,22,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2007jy,Minor Planet Bulletin,Q6869125,22,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2007jy,Minor Planet Catalogue,Q55178248,22,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2007jy,asteroid,Q3863,22,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 2007jy,asteroid belt,Q2179,22,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 2007jy,Asteroid,Q4810751,22,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 2007jy,Asteroid,Q113629153,22,0,2,early access video game,,Q7889,,
+SN 2007jy,starfish,Q25349,22,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 2007jy,Asteroid,Q132852203,22,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 2007jy,Asteroideae,Q21004,22,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 2007jy,Asteroids,Q748890,22,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 2007jy,Asteroid Terrestrial-impact Last Alert System,Q17002475,22,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 2007jy,Vesta,Q3030,22,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 2007jz,SN 2007jz,Q9330564,23,0,1,supernova,,Q3937,,

@@ -1,0 +1,464 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Red Piece (2012-2013),The Red Piece (2012-2013),Q57506301,0,0,1,performing arts production,,Q43099869,,
+The Red Piece (2012-2013),Marc Vanrunxt,Q52472513,0,0,2,artist,,Q5,,
+The Red Piece (2012-2013),Marc Vanrunxt / Hyena,Q54804299,0,0,2,Belgian organization,,Q43229,,
+The Red Piece (2012-2013),Dez Mona,Q2341708,0,0,2,Belgian band,,Q215380,,Dez Mona
+Marc Vanrunxt,Marc Vanrunxt,Q52472513,0,2,1,artist,,Q5,,
+Marc Vanrunxt,Marc Vanrunxt / Hyena,Q54804299,0,2,1,Belgian organization,,Q43229,,
+Dez Mona,Dez Mona,Q2341708,0,3,1,Belgian band,,Q215380,,Dez Mona
+After Eden,After Eden,Q735656,1,0,1,album by Kalafina,,Q482994,,After Eden
+After Eden,After Eden,Q55721642,1,0,1,ballet,,Q58483088,,
+After Eden,After Eden,Q57933811,1,0,1,ballet performance by John Butler,,Q43099869,,
+After Eden,After Eden: The Evolution of Human Domination,Q138021796,1,0,1,book published in 2006,,Q3331189,,
+After Eden,After Eden [Ballettabend 1; 3],Q139390756,1,0,1,performing arts production during the season 1989/90,,Q43099500,,
+After Eden,After Eden: The Evolution of Human Domination,Q136132406,1,0,1,2006,,Q3331189,,
+After Eden,"After-Eden: Narratives of Nature, Degradation, and Poverty in Amazonian Discourse",Q108310447,1,0,1,journal article from 'Journal of Latin American Geography' published in 2016,,Q13442814,,
+After Eden,Andrée Marlière,Q4760130,1,0,2,ballet dancer (1934-2008),Andree Marliere,Q5,,Andrée Marlière
+After Eden,Lee Hoiby,Q1811830,1,0,2,American composer (1926-2011),Lee Henry Hoiby,Q5,,Lee Hoiby
+After Eden,"Lee Hoiby, 85; Composed Operas and Songs",Q123674574,1,0,2,"The New York Times article (March 30, 2011)",,Q309481,,
+Andrée Marlière,Andrée Marlière,Q4760130,1,2,1,ballet dancer (1934-2008),Andree Marliere,Q5,,Andrée Marlière
+Lee Hoiby,Lee Hoiby,Q1811830,1,3,1,American composer (1926-2011),Lee Henry Hoiby,Q5,,Lee Hoiby
+Lee Hoiby,"Lee Hoiby, 85; Composed Operas and Songs",Q123674574,1,3,1,"The New York Times article (March 30, 2011)",,Q309481,,
+Lee Hoiby,Andrée Marlière,Q4760130,1,3,2,ballet dancer (1934-2008),Andree Marliere,Q5,,Andrée Marlière
+Fairy Queens (2013-2014),Fairy Queens (2013-2014),Q57509545,2,0,1,performing arts production,,Q43099869,,
+Fairy Queens (2013-2014),Fairy Queens (2012-2013),Q57509929,2,0,2,performing arts production,,Q43099869,,
+Fairy Queens (2013-2014),Henry Purcell,Q9695,2,0,2,English composer (1659–1695),,Q5,,Henry Purcell
+Fairy Queens (2013-2014),Henry Purcell,Q28044818,2,0,2,painting by or after studio of John Closterman,,Q3305213,,
+Fairy Queens (2013-2014),Henry Purcell,Q28044816,2,0,2,painting by anonymous painter,,Q3305213,,
+Fairy Queens (2013-2014),Henry Purcell,Q75482056,2,0,2,(born 1805),,Q5,,
+Fairy Queens (2013-2014),"EB-11 / Purcell, Henry",Q47006421,2,0,2,Encyclopædia Britannica article,Henry Purcell,Q13433827,,
+Fairy Queens (2013-2014),Henry Purcell,Q5727275,2,0,2,"American judge (1844 – January 21, 1931)",,Q5,,Henry Purcell (judge)
+Fairy Queens (2013-2014),"Henry Purcell, 1659-1695: The Glory of the Temple and the Stage",Q124046535,2,0,2,online exhibition from British Library,,Q3062261,,
+Fairy Queens (2013-2014),"Henry Purcell, Musical Composer",Q65366138,2,0,2,print in the National Gallery of Art (NGA 41134),,Q11060274,,
+Fairy Queens (2013-2014),Henry Purcell 1659-1695: an analytical catalogue of his music,Q121825964,2,0,2,bibliography published in 1963 by St. Martin's Press,,Q3331189|Q1631107,,
+Fairy Queens (2013-2014),Henry Purcell 1659-1695: an analytical catalogue of his music,Q121825833,2,0,2,1963 bibliography by Franklin B Zimmerman,,Q1631107,,
+Fairy Queens (2013-2014),Baroque music,Q8361,2,0,2,style of Western classical music,Baroque period|music of the Baroque|Baroque era|baroque,Q188451|Q12020884,Q9730|Q3328676,Baroque music
+Fairy Queens (2013-2014),French baroque music,Q3328590,2,0,2,music of the Baroque era in France,Baroque music in France,Q188451,Q8361,
+Fairy Queens (2013-2014),Baroque music of the British Isles,Q4863051,2,0,2,music scene,,Q28820001,Q8361|Q21971297,Baroque music of the British Isles
+Kris Coussement,Kris Coussement,Q52184500,2,2,1,,,Q5,,
+Henry Purcell,Henry Purcell,Q9695,2,3,1,English composer (1659–1695),,Q5,,Henry Purcell
+Henry Purcell,Henry Purcell,Q28044818,2,3,1,painting by or after studio of John Closterman,,Q3305213,,
+Henry Purcell,Henry Purcell,Q28044816,2,3,1,painting by anonymous painter,,Q3305213,,
+Henry Purcell,Henry Purcell,Q75482056,2,3,1,(born 1805),,Q5,,
+Henry Purcell,"EB-11 / Purcell, Henry",Q47006421,2,3,1,Encyclopædia Britannica article,Henry Purcell,Q13433827,,
+Henry Purcell,Henry Purcell,Q5727275,2,3,1,"American judge (1844 – January 21, 1931)",,Q5,,Henry Purcell (judge)
+Henry Purcell,"Henry Purcell, 1659-1695: The Glory of the Temple and the Stage",Q124046535,2,3,1,online exhibition from British Library,,Q3062261,,
+Henry Purcell,"Henry Purcell, Musical Composer",Q65366138,2,3,1,print in the National Gallery of Art (NGA 41134),,Q11060274,,
+Henry Purcell,Henry Purcell 1659-1695: an analytical catalogue of his music,Q121825964,2,3,1,bibliography published in 1963 by St. Martin's Press,,Q3331189|Q1631107,,
+Henry Purcell,Henry Purcell 1659-1695: an analytical catalogue of his music,Q121825833,2,3,1,1963 bibliography by Franklin B Zimmerman,,Q1631107,,
+Henry Purcell,Fairy Queens (2013-2014),Q57509545,2,3,2,performing arts production,,Q43099869,,
+Henry Purcell,Fairy Queens (2012-2013),Q57509929,2,3,2,performing arts production,,Q43099869,,
+Henry Purcell,Kris Coussement,Q52184500,2,3,2,,,Q5,,
+Nero (2014-2015),Nero (2014-2015),Q57510104,3,0,1,performing arts production,,Q43099869,,
+Nero (2014-2015),Nero,Q1066310,3,0,2,British musical group; electronic music trio,,Q215380,,Nero (band)
+Paul Friedrich,Paul Friedrich August Ascherson,Q61290,3,2,1,German botanist (1834–1913),Asch.|Paul Ascherson|P. Ascherson|Ascherson|P. F. A. Ascherson,Q5,,Paul Friedrich August Ascherson
+Paul Friedrich,Paul Friedrich,Q102241514,3,2,1,Dr. rer. pol. Universität zu Köln 1928,,Q5,,
+Paul Friedrich,"Paul Friedrich I, Grand Duke of Mecklenburg-Schwerin",Q505953,3,2,1,grand duke of Mecklenburg-Schwerin (1800-1842),Paul Friedrich|Paul Friedrich I of Mecklenburg-Schwerin,Q5,,"Paul Frederick, Grand Duke of Mecklenburg-Schwerin"
+Paul Friedrich,Paul Pogge,Q65977,3,2,1,German explorer (1838-1884),Paul Friedrich Johann Moritz Pogge|P. Pogge|P. F. J. M. Pogge,Q5,,Paul Pogge
+Paul Friedrich,Paul Friedrich,Q52889152,3,2,1,,,Q5,,
+Paul Friedrich,Paul Friedrich,Q26828693,3,2,1,"American linguist, poet, anthropologist and educator (1927-2016)",Paul William Friedrich,Q5,,Paul Friedrich (linguist)
+Paul Friedrich,Paul-Friedrich Mahnke,Q100383559,3,2,1,,,Q5,,
+Paul Friedrich,Paul Friedrich von Bornack,Q110151534,3,2,1,Est 1760 - 17 Aug 1823 Breslau,,Q5,,
+Paul Friedrich,Paul Friedrich Scheffler,Q2059660,3,2,1,German politician (1895-1985),Paul Scheffler,Q5,,
+Paul Friedrich,Paul Friedrich Bernhard Geibel,Q2059746,3,2,1,German politician and farmer,,Q5,,
+Paul Friedrich,Friedrich Paul,Q21544164,3,2,2,German classical philologist and teacher (1796-1830),,Q5,,
+Paul Friedrich,Friedrich Paulsen,Q89628057,3,2,2,researcher,,Q5,,
+Paul Friedrich,Friedrich Paul,Q128072729,3,2,2,1836-1876,,Q5,,
+Paul Friedrich,Friedrich Paulus,Q57160,3,2,2,German general (1890–1957),Friedrich Wilhelm Ernst Paulus,Q5,,Friedrich Paulus
+Paul Friedrich,Friedrich Paulsen,Q27913,3,2,2,German philosopher and educator (1846–1908),,Q5,,Friedrich Paulsen
+Paul Friedrich,Friedrich Paulick,Q22666035,3,2,2,Austria-Hungary politician,,Q5,,
+Paul Friedrich,Friedrich Paul,Q98684071,3,2,2,Austrian engineer (1830 - 1900),,Q5,,
+Paul Friedrich,Fritz Schwarzbeck,Q1468364,3,2,2,German sculptor (1902–1989),Friedrich Paul Schwarzbeck,Q5,,
+Paul Friedrich,Friedrich Paul David Bürkli,Q1461444,3,2,2,Swiss publisher (1818-1896),Friedrich Paul David Buerkli,Q5,,
+Paul Friedrich,Friedrich Paul Selbmann,Q1461451,3,2,2,German politician (1878-1954),,Q5,,
+Marin Zivkovic,Marin Zivkovic,Q52914971,3,3,1,,,Q5,,
+Nostalgie,Nostalgie,Q735936,4,0,1,radio station,Radio Nostalgie,Q14350|Q184973,,Nostalgie
+Nostalgie,Rosa 'Nostalgie',Q50943761,4,0,1,rose cultivar,Nostalgie,Q26817508,Q279919,
+Nostalgie,Radio Nostalgie,Q102180301,4,0,1,radio station in Germany,,Q14350,,
+Nostalgie,Nostalgie,Q138221180,4,0,1,Moroccan painter,,Q5,,
+Nostalgie,Nostalgie,Q57933992,4,0,1,performing arts production by the Royal Ballet Flanders,,Q43099869,,
+Nostalgie,Nostalgie,Q139844088,4,0,1,"sport climbing route in Rifle, CO",,Q121695548,,
+Nostalgie,Nostalgie,Q119498663,4,0,1,novel by Grazia Deledda,Nostalgia,Q7725634,,
+Nostalgie,Nostalgie,Q112152360,4,0,1,,,Q11446,,
+Nostalgie,nostalgia,Q12151852,4,0,1,sentimentality for the past,,,Q205555,Nostalgia
+Nostalgie,Nostalgie Wallonie,Q3344373,4,0,1,Walloon (French) Belgian version of Nostalgie,,Q14350,,Nostalgie Wallonie
+Stefan Schuller,Stefan Schuller,Q56507060,4,2,1,professional ballet dancer,,Q5,,
+Stefan Schuller,Stefan Schuller,Q139508960,4,2,1,,,Q5,,
+Franz Schubert,Franz Schubert,Q7312,4,3,1,Austrian composer (1797–1828),Schubert,Q5,,Franz Schubert
+Franz Schubert,Franz Schubert,Q322989,4,3,1,German violinist and composer (1808–1878),François Schubert,Q5,,Franz Schubert (violinist)
+Franz Schubert,Franz Schubert,Q104974,4,3,1,German politician (1905-1992),,Q5,,
+Franz Schubert,Franz Schubert,Q111731902,4,3,1,,,Q5,,
+Franz Schubert,Franz Schubert,Q128240648,4,3,1,1848-,,Q5,,
+Franz Schubert,Franz Schubert,Q121602708,4,3,1,Austrian electrical contractor ; affiant in the Einsatzgruppen Trial (NMT 9),,Q5,,
+Franz Schubert,Franz Schubert,Q137001439,4,3,1,archaeologist,,Q5,,
+Franz Schubert,3917 Franz Schubert,Q152364,4,3,1,asteroid,Franz Schubert,Q3863,,3917 Franz Schubert
+Franz Schubert,Franz Theodor Schubert,Q63210142,4,3,1,"teacher, head teacher and composer from Vienna (1763-1830)",Franz Schubert,Q5,,
+Franz Schubert,Ferdinand Schubert,Q39445751,4,3,1,Austrian painter (1824-1853),f. schubert|Franz Schubert,Q5,,
+Franz Schubert,"Schubert, Franz (Geiger) (ADB)",Q21206362,4,3,2,entry in the Allgemeine Deutsche Biographie,,Q19389637,,
+Franz Schubert,"Schubert, Franz (Bildnißmaler) (BLKÖ)",Q89825323,4,3,2,"cross-reference in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 32, p. 114)",,Q1302249,,
+Franz Schubert,"Schubert, Franz (BLKÖ)",Q89825320,4,3,2,"cross-reference to an entry in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 32, p. 30)",,Q19389637,,
+Franz Schubert,"Schubert, Franz (ADB)",Q27595797,4,3,2,entry in the Allgemeine Deutsche Biographie,,Q19389637,,
+Franz Schubert,"Schubert, Franz Anton (ADB)",Q21260868,4,3,2,entry in the Allgemeine Deutsche Biographie,,Q19389637,,
+Franz Schubert,"Schubert, Franz (Bildnißmaler, Verweis) (BLKÖ)",Q89825321,4,3,2,"cross-reference in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 32, p. 110)",,Q1302249,,
+Franz Schubert,"Sonata for Violin and Piano in A Major D. 574, ""Duo""",Q3490268,4,3,2,composition for violin and piano by Franz Schubert,"Violin Sonata in A Major|Duo in A Major, Op. 162|Schubert, Franz, 1797-1828. Gran duo|Schubert, Franz, 1797-1828. Duets, violin, piano, D. 574, A major|Schubert, Franz, 1797-1828. Duets, violin, piano, op. 162, A major|Schubert, Franz, 1797-1828. Duo|Schubert, Franz, 1797-1828. Duo sonata|Schubert, Franz, 1797-1828. Sonatas, violin, piano, op. 162, A major",Q105543609,,"Violin Sonata in A major, D 574 (Schubert)"
+Franz Schubert,"Schubert, Franz (composer)",Q118882771,4,3,2,"encyclopedic article in Dictionary of Music and Musicians, 1900",,Q19389637,,
+Franz Schubert,"Schubert, Franz (violinist)",Q118879230,4,3,2,"encyclopedic article in Dictionary of Music and Musicians, 1900",,Q19389637,,
+Franz Schubert,"Schubert, Franz August",Q123740806,4,3,2,entry in: Malerwerke des neunzehnten Jahrhunderts,,Q13433827,,
+Opus I,Opus I,Q33556742,5,0,1,1949 film by Jørgen Roos,,Q11424,,
+Opus I,Opus I,Q57933943,5,0,1,John Cranko's choreography,,Q58483088|Q43099869,,
+Opus I,Opus I,Q99779131,5,0,1,,,Q106805967,,
+Opus I,Opus I,Q98131617,5,0,1,1949 film directed by Jørgen Roos and Wilhelm Freddie,,Q11424,,
+Opus I,Opus III,Q7099122,5,0,1,English music group,A.S.K.,Q215380,,Opus III (band)
+Opus I,Opus imperfectum in Matthaeum (Pauly-Wissowa),Q20812667,5,0,1,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Opus I,Opus Iustitiae Pax – Der Friede ist das Werk der Gerechtigkeit,Q136434281,5,0,1,,,Q3331189,,
+Opus I,Opus incertum,Q1326603,5,0,1,ancient Roman construction technique,,Q4787070,,Opus incertum
+Opus I,Opus i turkis? 8 1/2,Q92199151,5,0,1,vocal track by Ole Paus; 1970 studio recording,,Q55850593,,
+Opus I,Opus IV,Q7099124,5,0,1,album by Abigor,,Q482994,,Opus IV (album)
+Opus I,Passacaglia,Q121351275,5,0,2,"cast iron sculpture by Charles Hadcock, Brighton, England",Half Pipe Sculpture,Q860861,,
+Opus I,passacaglia,Q752329,5,0,2,musical form written in triple metre,passacaille,Q188451|Q862597|Q107357104,Q118738876|Q207628,Passacaglia
+Opus I,Passacaglia,Q1140833,5,0,2,composition for orchestra by Anton Webern,"Passacaglia, Op. 1|Passacaglia for orchestra",Q105543609,,Passacaglia (Webern)
+Opus I,"Passacaglia and Fugue in C minor, BWV 582",Q1630265,5,0,2,musical composition,Passacaglia und Fuga c-moll|Passacaglia and Fugue in C minor,Q105543609,,"Passacaglia and Fugue in C minor, BWV 582"
+Opus I,Passacaglia,Q7142443,5,0,2,solo piano composition by Leopold Godowsky,,Q105543609,,Passacaglia (Godowsky)
+Opus I,Passacaglia,Q3367810,5,0,2,2003 musical composition by Arvo Pärt,,Q105543609,,
+Opus I,Passacaglia,Q65234881,5,0,2,orchestral work composed by Ludvig Irgens-Jensen,,Q105543609,,
+Opus I,Passacaglia,Q109002028,5,0,2,"ballet in C minor for pipe organ by J.S. Bach composed by Johan Sebastian Bach. First representation in 1946 at Théâtre des Champs Elysées, Paris",,Q105543609,,
+Opus I,Passacaglia,Q23942013,5,0,2,painting by Augustus Vincent Tack,,Q3305213,,
+Opus I,Passacaglia for Violin and Viola,Q1952174,5,0,2,,,Q105543609,,
+Opus I,Stefan Schuller,Q56507060,5,0,2,professional ballet dancer,,Q5,,
+Opus I,Stefan Schuller,Q139508960,5,0,2,,,Q5,,
+Opus I,Anton Webern,Q190933,5,0,2,Austrian composer and conductor,Webern|Anton Friedrich Wilhelm von Webern,Q5,,Anton Webern
+Opus I,Anton Webern,Q57658404,5,0,2,encyclopedic article; Oxford Bibliographies Online,,Q13433827,,
+Opus I,Anton-Webern-Weg,Q111347002,5,0,2,"street in Pankow district, Berlin, Germany",,Q79007,,
+Opus I,Variations for piano,Q1517224,5,0,2,composition for piano solo by Anton Webern,"Variations for Piano, Op. 27",Q105543609,,Variations for piano (Webern)
+Passacaglia,Passacaglia,Q121351275,5,1,1,"cast iron sculpture by Charles Hadcock, Brighton, England",Half Pipe Sculpture,Q860861,,
+Passacaglia,passacaglia,Q752329,5,1,1,musical form written in triple metre,passacaille,Q188451|Q862597|Q107357104,Q118738876|Q207628,Passacaglia
+Passacaglia,Passacaglia,Q1140833,5,1,1,composition for orchestra by Anton Webern,"Passacaglia, Op. 1|Passacaglia for orchestra",Q105543609,,Passacaglia (Webern)
+Passacaglia,"Passacaglia and Fugue in C minor, BWV 582",Q1630265,5,1,1,musical composition,Passacaglia und Fuga c-moll|Passacaglia and Fugue in C minor,Q105543609,,"Passacaglia and Fugue in C minor, BWV 582"
+Passacaglia,Passacaglia,Q7142443,5,1,1,solo piano composition by Leopold Godowsky,,Q105543609,,Passacaglia (Godowsky)
+Passacaglia,Passacaglia,Q3367810,5,1,1,2003 musical composition by Arvo Pärt,,Q105543609,,
+Passacaglia,Passacaglia,Q65234881,5,1,1,orchestral work composed by Ludvig Irgens-Jensen,,Q105543609,,
+Passacaglia,Passacaglia,Q109002028,5,1,1,"ballet in C minor for pipe organ by J.S. Bach composed by Johan Sebastian Bach. First representation in 1946 at Théâtre des Champs Elysées, Paris",,Q105543609,,
+Passacaglia,Passacaglia,Q23942013,5,1,1,painting by Augustus Vincent Tack,,Q3305213,,
+Passacaglia,Passacaglia for Violin and Viola,Q1952174,5,1,1,,,Q105543609,,
+Passacaglia,Opus I,Q33556742,5,1,2,1949 film by Jørgen Roos,,Q11424,,
+Passacaglia,Opus I,Q57933943,5,1,2,John Cranko's choreography,,Q58483088|Q43099869,,
+Passacaglia,Opus I,Q99779131,5,1,2,,,Q106805967,,
+Passacaglia,Opus I,Q98131617,5,1,2,1949 film directed by Jørgen Roos and Wilhelm Freddie,,Q11424,,
+Passacaglia,Opus III,Q7099122,5,1,2,English music group,A.S.K.,Q215380,,Opus III (band)
+Passacaglia,Opus imperfectum in Matthaeum (Pauly-Wissowa),Q20812667,5,1,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Passacaglia,Opus Iustitiae Pax – Der Friede ist das Werk der Gerechtigkeit,Q136434281,5,1,2,,,Q3331189,,
+Passacaglia,Opus incertum,Q1326603,5,1,2,ancient Roman construction technique,,Q4787070,,Opus incertum
+Passacaglia,Opus i turkis? 8 1/2,Q92199151,5,1,2,vocal track by Ole Paus; 1970 studio recording,,Q55850593,,
+Passacaglia,Opus IV,Q7099124,5,1,2,album by Abigor,,Q482994,,Opus IV (album)
+Passacaglia,Stefan Schuller,Q56507060,5,1,2,professional ballet dancer,,Q5,,
+Passacaglia,Stefan Schuller,Q139508960,5,1,2,,,Q5,,
+Passacaglia,Anton Webern,Q190933,5,1,2,Austrian composer and conductor,Webern|Anton Friedrich Wilhelm von Webern,Q5,,Anton Webern
+Passacaglia,Anton Webern,Q57658404,5,1,2,encyclopedic article; Oxford Bibliographies Online,,Q13433827,,
+Passacaglia,Anton-Webern-Weg,Q111347002,5,1,2,"street in Pankow district, Berlin, Germany",,Q79007,,
+Passacaglia,Variations for piano,Q1517224,5,1,2,composition for piano solo by Anton Webern,"Variations for Piano, Op. 27",Q105543609,,Variations for piano (Webern)
+Stefan Schuller,Stefan Schuller,Q56507060,5,2,1,professional ballet dancer,,Q5,,
+Stefan Schuller,Stefan Schuller,Q139508960,5,2,1,,,Q5,,
+Anton Webern,Anton Webern,Q190933,5,3,1,Austrian composer and conductor,Webern|Anton Friedrich Wilhelm von Webern,Q5,,Anton Webern
+Anton Webern,Anton Webern,Q57658404,5,3,1,encyclopedic article; Oxford Bibliographies Online,,Q13433827,,
+Anton Webern,Anton-Webern-Weg,Q111347002,5,3,1,"street in Pankow district, Berlin, Germany",,Q79007,,
+Anton Webern,Variations for piano,Q1517224,5,3,1,composition for piano solo by Anton Webern,"Variations for Piano, Op. 27",Q105543609,,Variations for piano (Webern)
+Anton Webern,Passacaglia,Q121351275,5,3,2,"cast iron sculpture by Charles Hadcock, Brighton, England",Half Pipe Sculpture,Q860861,,
+Anton Webern,passacaglia,Q752329,5,3,2,musical form written in triple metre,passacaille,Q188451|Q862597|Q107357104,Q118738876|Q207628,Passacaglia
+Anton Webern,Passacaglia,Q1140833,5,3,2,composition for orchestra by Anton Webern,"Passacaglia, Op. 1|Passacaglia for orchestra",Q105543609,,Passacaglia (Webern)
+Anton Webern,"Passacaglia and Fugue in C minor, BWV 582",Q1630265,5,3,2,musical composition,Passacaglia und Fuga c-moll|Passacaglia and Fugue in C minor,Q105543609,,"Passacaglia and Fugue in C minor, BWV 582"
+Anton Webern,Passacaglia,Q7142443,5,3,2,solo piano composition by Leopold Godowsky,,Q105543609,,Passacaglia (Godowsky)
+Anton Webern,Passacaglia,Q3367810,5,3,2,2003 musical composition by Arvo Pärt,,Q105543609,,
+Anton Webern,Passacaglia,Q65234881,5,3,2,orchestral work composed by Ludvig Irgens-Jensen,,Q105543609,,
+Anton Webern,Passacaglia,Q109002028,5,3,2,"ballet in C minor for pipe organ by J.S. Bach composed by Johan Sebastian Bach. First representation in 1946 at Théâtre des Champs Elysées, Paris",,Q105543609,,
+Anton Webern,Passacaglia,Q23942013,5,3,2,painting by Augustus Vincent Tack,,Q3305213,,
+Anton Webern,Passacaglia for Violin and Viola,Q1952174,5,3,2,,,Q105543609,,
+Anton Webern,Stefan Schuller,Q56507060,5,3,2,professional ballet dancer,,Q5,,
+Anton Webern,Stefan Schuller,Q139508960,5,3,2,,,Q5,,
+"Young people, old voices (2002-2003)","Young people, old voices (2002-2003)",Q57508854,6,0,1,performing arts production,,Q43099869,,
+"Young people, old voices (2002-2003)","Young people, old voices (2006-2007)",Q57504162,6,0,2,performing arts production,,Q43099869,,
+"Young people, old voices (2002-2003)",Patrick Buret,Q53450074,6,0,2,,,Q5,,
+"Young people, old voices (2002-2003)",Patsy Cline,Q273080,6,0,2,American country singer (1932–1963),Virginia Patterson Hensley,Q5,,Patsy Cline
+"Young people, old voices (2002-2003)",Patsy Cline,Q7148236,6,0,2,1957 album by Patsy Cline,,Q482994,,Patsy Cline (album)
+"Young people, old voices (2002-2003)",Patsy Cline,Q17063075,6,0,2,1962 extended play by Patsy Cline,,Q169930,,Patsy Cline (1962 EP)
+"Young people, old voices (2002-2003)",Patsy Cline,Q7148234,6,0,2,EP by Patsy Cline,,Q169930,,Patsy Cline (1961 EP)
+"Young people, old voices (2002-2003)",Patsy Cline,Q17063060,6,0,2,1957 extended play by Patsy Cline,,Q169930,,Patsy Cline (1957 EP)
+"Young people, old voices (2002-2003)",Patsy Cline's albums in chronological order,Q108741375,6,0,2,Wikimedia albums discography,Patsy Cline albums discography|Patsy Cline discography - albums,Q59191021,,
+"Young people, old voices (2002-2003)",Patsy Cline discography,Q7148239,6,0,2,Wikimedia artist discography,discography of Patsy Cline,Q104635718,,Patsy Cline discography
+"Young people, old voices (2002-2003)",Patsy Cline EPs discography,Q108742213,6,0,2,Wikimedia EPs discography,Patsy Cline discography - EPs|discography of Patsy Cline EPs|discography from Patsy Cline EPs,Q59248072,,
+"Young people, old voices (2002-2003)",Patsy Cline singles discography,Q108741389,6,0,2,Wikimedia singles discography,Patsy Cline discography - singles|discography of Patsy Cline singles|discography from Patsy Cline singles,Q59248059,,
+"Young people, old voices (2002-2003)",Patsy Cline's Greatest Hits,Q10346216,6,0,2,2003 album,,Q482994,,Patsy Cline's Greatest Hits
+Patrick Buret,Patrick Buret,Q53450074,6,2,1,,,Q5,,
+Patsy Cline,Patsy Cline,Q273080,6,3,1,American country singer (1932–1963),Virginia Patterson Hensley,Q5,,Patsy Cline
+Patsy Cline,Patsy Cline,Q7148236,6,3,1,1957 album by Patsy Cline,,Q482994,,Patsy Cline (album)
+Patsy Cline,Patsy Cline,Q17063075,6,3,1,1962 extended play by Patsy Cline,,Q169930,,Patsy Cline (1962 EP)
+Patsy Cline,Patsy Cline,Q7148234,6,3,1,EP by Patsy Cline,,Q169930,,Patsy Cline (1961 EP)
+Patsy Cline,Patsy Cline,Q17063060,6,3,1,1957 extended play by Patsy Cline,,Q169930,,Patsy Cline (1957 EP)
+Patsy Cline,Patsy Cline's albums in chronological order,Q108741375,6,3,1,Wikimedia albums discography,Patsy Cline albums discography|Patsy Cline discography - albums,Q59191021,,
+Patsy Cline,Patsy Cline discography,Q7148239,6,3,1,Wikimedia artist discography,discography of Patsy Cline,Q104635718,,Patsy Cline discography
+Patsy Cline,Patsy Cline EPs discography,Q108742213,6,3,1,Wikimedia EPs discography,Patsy Cline discography - EPs|discography of Patsy Cline EPs|discography from Patsy Cline EPs,Q59248072,,
+Patsy Cline,Patsy Cline singles discography,Q108741389,6,3,1,Wikimedia singles discography,Patsy Cline discography - singles|discography of Patsy Cline singles|discography from Patsy Cline singles,Q59248059,,
+Patsy Cline,Patsy Cline's Greatest Hits,Q10346216,6,3,1,2003 album,,Q482994,,Patsy Cline's Greatest Hits
+Holeulone (2004-2005),Holeulone (2004-2005),Q57506639,7,0,1,performing arts production,,Q43099869|Q202866,,
+Holeulone (2004-2005),Julie Rousse,Q52617215,7,0,2,,,Q5,,
+Holeulone (2004-2005),Julie Rousseau,Q121127233,7,0,2,U.S. paleontologist,,Q5,,
+Holeulone (2004-2005),Julie Rousseau,Q47091323,7,0,2,WNBA coach,,Q5,,Julie Rousseau
+Holeulone (2004-2005),Julie Roussel,Q127333201,7,0,2,,,Q5,,
+Holeulone (2004-2005),Julie Rousseau,Q120147257,7,0,2,7 Feb 1825 Angerville - 6 Jun 1896 Chevilly,,Q5,,
+Holeulone (2004-2005),Julie Rousseau de Saint-Aignan,Q60612183,7,0,2,,,Q5,,
+Holeulone (2004-2005),Julie Rousseau,Q98618512,7,0,2,researcher,,Q5,,
+Holeulone (2004-2005),Julie Roussel,Q111456259,7,0,2,performing artist in Canada,,Q5,,
+Holeulone (2004-2005),Dominique Pauwels,Q52554366,7,0,2,Belgian composer,,Q5,,
+Julie Rousse,Julie Rousse,Q52617215,7,2,1,,,Q5,,
+Julie Rousse,Julie Rousseau,Q121127233,7,2,1,U.S. paleontologist,,Q5,,
+Julie Rousse,Julie Rousseau,Q47091323,7,2,1,WNBA coach,,Q5,,Julie Rousseau
+Julie Rousse,Julie Roussel,Q127333201,7,2,1,,,Q5,,
+Julie Rousse,Julie Rousseau,Q120147257,7,2,1,7 Feb 1825 Angerville - 6 Jun 1896 Chevilly,,Q5,,
+Julie Rousse,Julie Rousseau de Saint-Aignan,Q60612183,7,2,1,,,Q5,,
+Julie Rousse,Julie Rousseau,Q98618512,7,2,1,researcher,,Q5,,
+Julie Rousse,Julie Roussel,Q111456259,7,2,1,performing artist in Canada,,Q5,,
+Dominique Pauwels,Dominique Pauwels,Q52554366,7,3,1,Belgian composer,,Q5,,
+Nepentha,Nepenthaceae,Q2704296,8,0,1,family of plants,,Q16521,,Nepenthaceae
+Nepentha,Nepenthales,Q2333121,8,0,1,order of plants,,Q16521,,Nepenthales
+Nepentha,Nepentha,Q57933898,8,0,1,Performing arts production by the Royal Ballet Flanders,,Q43099869,,
+Nepentha,Nepenthanae,Q14934150,8,0,1,superorder of plants,,Q16521,,
+Nepentha,Nepenthacarus,Q111797510,8,0,1,"taxon, (Fashing, 2002) genus of histiostomatidae",,Q16521,,
+Nepentha,Nepenthandra,Q87277542,8,0,1,genus of plants,,Q16521,,
+Nepentha,Nepenthandra lanceolata,Q110369758,8,0,1,species of plant,,Q16521,,
+Nepentha,Nepenthaceae 2001 monograph,Q6994624,8,0,1,2001 monograph of family Nepenthaceae,,Q7725634,,Nepenthaceae (2001 monograph)
+Nepentha,Nepenthaceae 1908 monograph,Q6994621,8,0,1,,,Q7725634,,Nepenthaceae (1908 monograph)
+Nepentha,Nepenthaceae 1873 monograph,Q6994619,8,0,1,monograph on plant family Nepenthaceae,Nepenthaceae,Q7725634,,Nepenthaceae (1873 monograph)
+Nepentha,Nepenthes,Q217530,8,0,2,genus of plants,,Q16521,,Nepenthes
+Nepentha,Nepenthes rafflesiana,Q138821,8,0,2,species of plant,,Q16521,,Nepenthes rafflesiana
+Nepentha,Nepenthes alata,Q139643,8,0,2,species of pitcher plant from the Philippines,N. alata,Q16521,,Nepenthes alata
+Nepentha,Nepenthes gracilis,Q150492,8,0,2,species of plant,,Q16521,,Nepenthes gracilis
+Nepentha,Nepenthes mirabilis,Q150525,8,0,2,species of plant,N. mirabilis,Q16521,,Nepenthes mirabilis
+Nepentha,Nepenthes khasiana,Q144311,8,0,2,species of plant,Pitcher plant,Q16521,,Nepenthes khasiana
+Nepentha,Nepenthes ampullaria,Q134453,8,0,2,species of plant,,Q16521,,Nepenthes ampullaria
+Nepentha,Nepenthes thorelii,Q4925451,8,0,2,species of plant,,Q16521,,Nepenthes thorelii
+Nepentha,Nepenthes aristolochioides,Q139559,8,0,2,species of plant,Pitcher plant,Q16521,Q917284,Nepenthes aristolochioides
+Nepentha,Nepenthes bicalcarata,Q139530,8,0,2,species of plant,Fanged pitcher plant,Q16521,Q917284,Nepenthes bicalcarata
+Nepentha,Nepenthes ampullaria var. racemosa,Q111590478,8,0,2,,,Q16521,,
+Nepentha,Nepenthes ampullaria(Nepenthaceae) Pitchers Are Unattractive to GravidAedes aegyptiandAedes albopictus(Diptera: Culicidae),Q40133206,8,0,2,"scientific article published on October 30, 2015",,Q13442814,,
+Nepentha,Nepenthes khasiana mediated synthesis of stabilized gold nanoparticles: Characterization and biocompatibility studies,Q38808039,8,0,2,scientific article published on 9 December 2015,,Q13442814,,
+Nepentha,Nepenthes rajah,Q132973,8,0,2,species of plant,Pitcher plant,Q16521,,Nepenthes rajah
+Shine On Brightly,Shine On Brightly,Q2033382,8,1,1,1968 studio album by Procol Harum,,Q482994,,Shine On Brightly
+Shine On Brightly,Shine on Brightly,Q65561507,8,1,1,original song written and composed by Gary Brooker (music) and Keith Reid (lyrics); performed by Procol Harum,,Q105543609,,
+Shine On Brightly,Shine on Brightly,Q51245949,8,1,1,scientific article published in June 2016,,Q13442814,,
+Shine On Brightly,Concert Classics vol. 5,Q3686053,8,1,1,live album,,Q482994,,
+Shine On Brightly,Shine on Brightly,Q26234582,8,1,1,Wikimedia disambiguation page,,Q4167410,,
+Shine On Brightly,Procol Harum,Q214486,8,1,2,British rock band,,Q215380,,Procol Harum
+Shine On Brightly,14024 Procol Harum,Q645038,8,1,2,asteroid,Procol Harum,Q3863,,14024 Procol Harum
+Shine On Brightly,Procol Harum,Q639929,8,1,2,1967 self-titled debut studio album by Procol Harum,,Q482994,,Procol Harum (album)
+Shine On Brightly,Procol Harum's albums in chronological order,Q101424798,8,1,2,Wikimedia albums discography,Procol Harum albums discography|Procol Harum discography - albums,Q59191021,,
+Shine On Brightly,Procol Harum singles discography,Q110702341,8,1,2,Wikimedia singles discography,Procol Harum discography - singles|discography of Procol Harum singles|discography from Procol Harum singles,Q59248059,,
+Shine On Brightly,Procol Harum Live In Concert with the Edmonton Symphony Orchestra,Q1719074,8,1,2,1972 live album by Procol Harum,Live In Concert with the Edmonton Symphony Orchestra,Q482994,,Procol Harum Live: In Concert with the Edmonton Symphony Orchestra
+Shine On Brightly,Procol Harum discography,Q3511625,8,1,2,Wikimedia band discography,discography of Procol Harum|discography from Procol Harum,Q104635718,,Procol Harum discography
+Shine On Brightly,Procol Harum UK singles discography,Q59461635,8,1,2,singles discography,Procol Harum discography - singles - UK|discography of Procol Harum UK singles|discography from Procol Harum UK singles,Q59248059,,
+Shine On Brightly,Procol Harum – In Concert With the Danish National Concert Orchestra and Choir,Q4844814,8,1,2,live album by Procol Harum,,Q482994,,Procol Harum – In Concert with the Danish National Concert Orchestra and Choir
+Alexander Roy,Alexander Roy,Q57934206,8,2,1,choreographer,,Q5,,
+Alexander Roy,Alexander Roy,Q95265161,8,2,1,,,Q5,,
+Alexander Roy,Alexander Roy,Q76005627,8,2,1,Peerage person ID=462257,,Q5,,
+Alexander Roy,Alex Roy,Q2669079,8,2,1,American racing driver,Alexander Roy,Q5,,Alex Roy
+Alexander Roy,Alex Roy,Q2689174,8,2,1,English darts player,Alexander Roy,Q5,,Alex Roy (darts player)
+Alexander Roy,A.R. Harwood,Q4647281,8,2,1,Film director and producer,Alexander Roy Harwood|A. R. Harwood,Q5,,A. R. Harwood
+Alexander Roy,Alexander Røynstrand,Q120400870,8,2,1,Norwegian fiddler (born 1990),Alexander Aga Røynstrand,Q5,,
+Alexander Roy,Alexander Pryor,Q134481644,8,2,1,Canadian Anglican bishop,Alexander Roy Pryor,Q5,,Alexander Pryor
+Alexander Roy,Alexander Roytblat,Q123740866,8,2,1,,,Q5,,
+Alexander Roy,Alexander Royle,Q122216734,8,2,1,,Alexander John Royle,Q5,,
+Procol Harum,Procol Harum,Q214486,8,3,1,British rock band,,Q215380,,Procol Harum
+Procol Harum,14024 Procol Harum,Q645038,8,3,1,asteroid,Procol Harum,Q3863,,14024 Procol Harum
+Procol Harum,Procol Harum,Q639929,8,3,1,1967 self-titled debut studio album by Procol Harum,,Q482994,,Procol Harum (album)
+Procol Harum,Procol Harum's albums in chronological order,Q101424798,8,3,1,Wikimedia albums discography,Procol Harum albums discography|Procol Harum discography - albums,Q59191021,,
+Procol Harum,Procol Harum singles discography,Q110702341,8,3,1,Wikimedia singles discography,Procol Harum discography - singles|discography of Procol Harum singles|discography from Procol Harum singles,Q59248059,,
+Procol Harum,Procol Harum Live In Concert with the Edmonton Symphony Orchestra,Q1719074,8,3,1,1972 live album by Procol Harum,Live In Concert with the Edmonton Symphony Orchestra,Q482994,,Procol Harum Live: In Concert with the Edmonton Symphony Orchestra
+Procol Harum,Procol Harum discography,Q3511625,8,3,1,Wikimedia band discography,discography of Procol Harum|discography from Procol Harum,Q104635718,,Procol Harum discography
+Procol Harum,Procol Harum UK singles discography,Q59461635,8,3,1,singles discography,Procol Harum discography - singles - UK|discography of Procol Harum UK singles|discography from Procol Harum UK singles,Q59248059,,
+Procol Harum,Procol Harum – In Concert With the Danish National Concert Orchestra and Choir,Q4844814,8,3,1,live album by Procol Harum,,Q482994,,Procol Harum – In Concert with the Danish National Concert Orchestra and Choir
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Q57509320,9,0,1,performing arts production,,Q43099869,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cash,Q52835100,9,0,2,,,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cash,Q122964908,9,0,2,American tennis player (born 2001),,Q5,,Robert Cash
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cashel,Q127361674,9,0,2,"college soccer player (1974–1978), Syracuse",,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cashner,Q7342819,9,0,2,American zoologist,Cashner|Robert C. Cashner,Q5,,Robert Cashner
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cashin,Q30684102,9,0,2,Archdeacon of Limerick,,Q5,,Robert Cashin (senior)
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cashin,Q30614941,9,0,2,Wikimedia disambiguation page,,Q22808320,,Robert Cashin
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Robert Cashin,Q30684096,9,0,2,Archdeacon of Ardfert,,Q5,,Robert Cashin (junior)
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q168015,9,0,2,German composer and musician (1947–2022),Richard Wahnfried|U.S.O.|Schulzendorfer Groove Orchester,Q5,,Klaus Schulze
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q77533081,9,0,2,German water polo player (* 1936),,Q5,,Klaus Schulze (water polo)
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q1745693,9,0,2,German killed at the Berlin Wall (1952-1972),,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q56254100,9,0,2,German rower,,Q5,,Klaus Schulze (rower)
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q32405023,9,0,2,German footballer,,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q139513515,9,0,2,,,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze,Q137139733,9,0,2,,,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze's albums in chronological order,Q100171726,9,0,2,Wikimedia albums discography,Klaus Schulze albums discography|Klaus Schulze discography - albums,Q59191021,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze-Osthoff,Q89179681,9,0,2,researcher,,Q5,,
+Golden living dreams of visions (mystic crystal revelation and the mind's true liberation),Klaus Schulze discography,Q56327183,9,0,2,Wikimedia artist discography,discography of Klaus Schulze|discography from Klaus Schulze,Q104635718,,
+Robert Cash,Robert Cash,Q52835100,9,2,1,,,Q5,,
+Robert Cash,Robert Cash,Q122964908,9,2,1,American tennis player (born 2001),,Q5,,Robert Cash
+Robert Cash,Robert Cashel,Q127361674,9,2,1,"college soccer player (1974–1978), Syracuse",,Q5,,
+Robert Cash,Robert Cashner,Q7342819,9,2,1,American zoologist,Cashner|Robert C. Cashner,Q5,,Robert Cashner
+Robert Cash,Robert Cashin,Q30684102,9,2,1,Archdeacon of Limerick,,Q5,,Robert Cashin (senior)
+Robert Cash,Robert Cashin,Q30614941,9,2,1,Wikimedia disambiguation page,,Q22808320,,Robert Cashin
+Robert Cash,Robert Cashin,Q30684096,9,2,1,Archdeacon of Ardfert,,Q5,,Robert Cashin (junior)
+Robert Cash,Klaus Schulze,Q168015,9,2,2,German composer and musician (1947–2022),Richard Wahnfried|U.S.O.|Schulzendorfer Groove Orchester,Q5,,Klaus Schulze
+Robert Cash,Klaus Schulze,Q77533081,9,2,2,German water polo player (* 1936),,Q5,,Klaus Schulze (water polo)
+Robert Cash,Klaus Schulze,Q1745693,9,2,2,German killed at the Berlin Wall (1952-1972),,Q5,,
+Robert Cash,Klaus Schulze,Q56254100,9,2,2,German rower,,Q5,,Klaus Schulze (rower)
+Robert Cash,Klaus Schulze,Q32405023,9,2,2,German footballer,,Q5,,
+Robert Cash,Klaus Schulze,Q139513515,9,2,2,,,Q5,,
+Robert Cash,Klaus Schulze,Q137139733,9,2,2,,,Q5,,
+Robert Cash,Klaus Schulze's albums in chronological order,Q100171726,9,2,2,Wikimedia albums discography,Klaus Schulze albums discography|Klaus Schulze discography - albums,Q59191021,,
+Robert Cash,Klaus Schulze-Osthoff,Q89179681,9,2,2,researcher,,Q5,,
+Robert Cash,Klaus Schulze discography,Q56327183,9,2,2,Wikimedia artist discography,discography of Klaus Schulze|discography from Klaus Schulze,Q104635718,,
+Klaus Schulze,Klaus Schulze,Q168015,9,3,1,German composer and musician (1947–2022),Richard Wahnfried|U.S.O.|Schulzendorfer Groove Orchester,Q5,,Klaus Schulze
+Klaus Schulze,Klaus Schulze,Q77533081,9,3,1,German water polo player (* 1936),,Q5,,Klaus Schulze (water polo)
+Klaus Schulze,Klaus Schulze,Q1745693,9,3,1,German killed at the Berlin Wall (1952-1972),,Q5,,
+Klaus Schulze,Klaus Schulze,Q56254100,9,3,1,German rower,,Q5,,Klaus Schulze (rower)
+Klaus Schulze,Klaus Schulze,Q32405023,9,3,1,German footballer,,Q5,,
+Klaus Schulze,Klaus Schulze,Q139513515,9,3,1,,,Q5,,
+Klaus Schulze,Klaus Schulze,Q137139733,9,3,1,,,Q5,,
+Klaus Schulze,Klaus Schulze's albums in chronological order,Q100171726,9,3,1,Wikimedia albums discography,Klaus Schulze albums discography|Klaus Schulze discography - albums,Q59191021,,
+Klaus Schulze,Klaus Schulze-Osthoff,Q89179681,9,3,1,researcher,,Q5,,
+Klaus Schulze,Klaus Schulze discography,Q56327183,9,3,1,Wikimedia artist discography,discography of Klaus Schulze|discography from Klaus Schulze,Q104635718,,
+Erwartung/Verklärte Nacht,Erwartung/Verklärte Nacht,Q57500669,10,0,1,performing arts production,,Q43099869,,
+Erwartung/Verklärte Nacht,Erwartung,Q135048751,10,0,2,2024 video game developed by Staatstheater Augsburg and Heimspiel,,Q7889,,
+Erwartung/Verklärte Nacht,Erwartung,Q1362653,10,0,2,monodrama by Arnold Schoenberg,Expectation,Q221290|Q58483083|Q105543609,,Erwartung
+Erwartung/Verklärte Nacht,Erwartung,Q19195196,10,0,2,"German article in Die Gartenlaube, 1897, no. 35",,Q191067,,
+Erwartung/Verklärte Nacht,expectation,Q1362683,10,0,2,future event or consequence that is considered or anticipated to be the most likely to happen,,,Q34394,Expectation (philosophy)
+Erwartung/Verklärte Nacht,anticipation,Q255266,10,0,2,basic emotion,,Q9415|Q16748867,,Anticipation
+Erwartung/Verklärte Nacht,Erwartung. Monodrama (Opus 17) in einem Akt [Drei Operneinakter; 1],Q126491936,10,0,2,performing arts production of the Theater Basel during the season 1963-1964,,Q43099500,,
+Erwartung/Verklärte Nacht,Erwartung. Monodrame en un acte (quatre scènes) op.17,Q137202604,10,0,2,performing arts production during the season 1992/93,,Q43099500,,
+Erwartung/Verklärte Nacht,Erwartung. Monodrama. Dichtung von Marie Pappenheim,Q137200670,10,0,2,performing arts production during the season 1990/91,,Q43099500,,
+Erwartung/Verklärte Nacht,social expectation,Q28600291,10,0,2,"expectation about the behavior or performance of another person, expressed to that person",,,Q1362683,
+Erwartung/Verklärte Nacht,Verklärte Nacht,Q534032,10,0,2,composition for string sextet by Arnold Schoenberg,"Verklarte Nacht, Op. 4",Q105543609|Q17537576,,Verklärte Nacht
+Erwartung/Verklärte Nacht,Verklärte Nacht,Q137039598,10,0,2,performing arts production of Basler Theater during the season 1984-1985,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht [Ballett 1; 2],Q137052049,10,0,2,performing arts production of Stadttheater Bern during the season 1999-2000,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht [Zweiter Ballettabend 2; 2],Q137197991,10,0,2,performing arts production during the season 1986/87,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht. Basler Fassung,Q137201431,10,0,2,performing arts production during the season 2004/05,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht [Ballettabend I; 2],Q137039609,10,0,2,performing arts production of Basler Theater during the season 1982-1983,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht [Ballettabend 1; 4],Q137197791,10,0,2,performing arts production during the season 1998/99,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht (Nuit transfigurée) [Soirée de ballet; 3],Q137202321,10,0,2,performing arts production during the season 1972/73,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht oder ein Ausklang,Q139388687,10,0,2,performing arts production during the season 2005/06,,Q43099500,,
+Erwartung/Verklärte Nacht,Verklärte Nacht. [Ballettabend; 3] Basler Fassung,Q137201193,10,0,2,performing arts production during the season 2004/05,,Q43099500,,
+Vinicio Cheli,Vinicio Cheli,Q53450711,10,2,1,,,Q5,,
+Vinicio Cheli,Arnold Schoenberg,Q154770,10,2,2,Austrian-Jewish American composer (1874-1951),Arnold Schönberg|A. Schenberg|Arnold Franz Walter Schoenberg|Arnold Schonberg|Arnolʹd Shenberg|A. Shenberg,Q5,,Arnold Schoenberg
+Vinicio Cheli,Arnold Schoenberg,Q103844392,10,2,2,painting by Richard Young,,Q3305213,,
+Vinicio Cheli,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q135428247,10,2,2,2014 hardcover edition,,Q3331189,,
+Vinicio Cheli,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q135428254,10,2,2,2014 ebook edition,,Q3331189,,
+Vinicio Cheli,Arnold Schönberg Prize,Q694734,10,2,2,music award,Arnold Schoenberg Prize,Q1364556|Q105494629|Q136443575|Q134054642,,Arnold Schönberg Prize
+Vinicio Cheli,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q106764415,10,2,2,,,Q7725634,,
+Vinicio Cheli,Arnold Schoenberg Chor,Q696135,10,2,2,Austrian choir,,Q131186,,Arnold Schoenberg Choir
+Vinicio Cheli,"Arnold Schoenbergs's Moses und Aron. Music, Language and Representation",Q138254976,10,2,2,dissertation,,Q187685,,
+Vinicio Cheli,Arnold Schoenberg’s Journey,Q54639097,10,2,2,"Shawn, Allen - 2003",,Q7725634,,
+Vinicio Cheli,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q136106403,10,2,2,2014 book,,Q3331189,,
+Arnold Schoenberg,Arnold Schoenberg,Q154770,10,3,1,Austrian-Jewish American composer (1874-1951),Arnold Schönberg|A. Schenberg|Arnold Franz Walter Schoenberg|Arnold Schonberg|Arnolʹd Shenberg|A. Shenberg,Q5,,Arnold Schoenberg
+Arnold Schoenberg,Arnold Schoenberg,Q103844392,10,3,1,painting by Richard Young,,Q3305213,,
+Arnold Schoenberg,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q135428247,10,3,1,2014 hardcover edition,,Q3331189,,
+Arnold Schoenberg,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q135428254,10,3,1,2014 ebook edition,,Q3331189,,
+Arnold Schoenberg,Arnold Schönberg Prize,Q694734,10,3,1,music award,Arnold Schoenberg Prize,Q1364556|Q105494629|Q136443575|Q134054642,,Arnold Schönberg Prize
+Arnold Schoenberg,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q106764415,10,3,1,,,Q7725634,,
+Arnold Schoenberg,Arnold Schoenberg Chor,Q696135,10,3,1,Austrian choir,,Q131186,,Arnold Schoenberg Choir
+Arnold Schoenberg,"Arnold Schoenbergs's Moses und Aron. Music, Language and Representation",Q138254976,10,3,1,dissertation,,Q187685,,
+Arnold Schoenberg,Arnold Schoenberg’s Journey,Q54639097,10,3,1,"Shawn, Allen - 2003",,Q7725634,,
+Arnold Schoenberg,Arnold Schoenberg's A Survivor from Warsaw in Postwar Europe,Q136106403,10,3,1,2014 book,,Q3331189,,
+Arnold Schoenberg,Erwartung,Q135048751,10,3,2,2024 video game developed by Staatstheater Augsburg and Heimspiel,,Q7889,,
+Arnold Schoenberg,Erwartung,Q1362653,10,3,2,monodrama by Arnold Schoenberg,Expectation,Q221290|Q58483083|Q105543609,,Erwartung
+Arnold Schoenberg,Erwartung,Q19195196,10,3,2,"German article in Die Gartenlaube, 1897, no. 35",,Q191067,,
+Arnold Schoenberg,expectation,Q1362683,10,3,2,future event or consequence that is considered or anticipated to be the most likely to happen,,,Q34394,Expectation (philosophy)
+Arnold Schoenberg,Erwartung/Verklärte Nacht,Q57500669,10,3,2,performing arts production,,Q43099869,,
+Arnold Schoenberg,anticipation,Q255266,10,3,2,basic emotion,,Q9415|Q16748867,,Anticipation
+Arnold Schoenberg,Erwartung. Monodrama (Opus 17) in einem Akt [Drei Operneinakter; 1],Q126491936,10,3,2,performing arts production of the Theater Basel during the season 1963-1964,,Q43099500,,
+Arnold Schoenberg,Erwartung. Monodrame en un acte (quatre scènes) op.17,Q137202604,10,3,2,performing arts production during the season 1992/93,,Q43099500,,
+Arnold Schoenberg,Erwartung. Monodrama. Dichtung von Marie Pappenheim,Q137200670,10,3,2,performing arts production during the season 1990/91,,Q43099500,,
+Arnold Schoenberg,social expectation,Q28600291,10,3,2,"expectation about the behavior or performance of another person, expressed to that person",,,Q1362683,
+Arnold Schoenberg,Verklärte Nacht,Q534032,10,3,2,composition for string sextet by Arnold Schoenberg,"Verklarte Nacht, Op. 4",Q105543609|Q17537576,,Verklärte Nacht
+Arnold Schoenberg,Verklärte Nacht,Q137039598,10,3,2,performing arts production of Basler Theater during the season 1984-1985,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht [Ballett 1; 2],Q137052049,10,3,2,performing arts production of Stadttheater Bern during the season 1999-2000,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht [Zweiter Ballettabend 2; 2],Q137197991,10,3,2,performing arts production during the season 1986/87,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht. Basler Fassung,Q137201431,10,3,2,performing arts production during the season 2004/05,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht [Ballettabend I; 2],Q137039609,10,3,2,performing arts production of Basler Theater during the season 1982-1983,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht [Ballettabend 1; 4],Q137197791,10,3,2,performing arts production during the season 1998/99,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht (Nuit transfigurée) [Soirée de ballet; 3],Q137202321,10,3,2,performing arts production during the season 1972/73,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht oder ein Ausklang,Q139388687,10,3,2,performing arts production during the season 2005/06,,Q43099500,,
+Arnold Schoenberg,Verklärte Nacht. [Ballettabend; 3] Basler Fassung,Q137201193,10,3,2,performing arts production during the season 2004/05,,Q43099500,,
+Arnold Schoenberg,Vinicio Cheli,Q53450711,10,3,2,,,Q5,,
+Partita 2,Partita 2,Q57504570,11,0,1,performing arts production,,Q43099869,,
+Partita 2,Partita 2,Q3366956,11,0,1,ballet,,Q15079786,,
+Partita 2,Partita 2 (2015-2016),Q57510076,11,0,1,performing arts production,,Q43099869,,
+Partita 2,Partita 2 (2014-2015),Q57698628,11,0,1,performing arts production,,Q43099869,,
+Partita 2,Partita 2. Sei Solo (2012-2013),Q57502842,11,0,1,performing arts production,,Q43099869,,
+Partita 2,Bert Veris,Q52912754,11,0,2,,,Q5,,
+Partita 2,Johann Sebastian Bach,Q1339,11,0,2,German composer (1685–1750),J S Bach,Q5,,Johann Sebastian Bach
+Partita 2,Johann Sebastian Bach,Q638391,11,0,2,"German painter, grandson of the composer (1748–1778)",Johann Samuel Bach|Sebastian Bach|Johann Sebastian Bach the Younger|J. S. Bach the Younger,Q5,,Johann Sebastian Bach (painter)
+Partita 2,Johann Sebastian Bach,Q121998077,11,0,2,book edition published in 2017,,Q3331189,,
+Partita 2,Johann Sebastian Bach,Q122082225,11,0,2,book edition published in 2020,,Q3331189,,
+Partita 2,Portrait of Johann Sebastian Bach,Q47412928,11,0,2,painting by Haussmann 1748,Johann Sebastian Bach,Q3305213,,
+Partita 2,Portrait of Bach,Q46993637,11,0,2,painting by Haussmann 1746,Johann Sebastian Bach,Q3305213,,
+Partita 2,Johann Sebastian Bach,Q1475491,11,0,2,1985 East German miniseries,,Q506240,,Johann Sebastian Bach (TV series)
+Partita 2,Johann Sebastian Bach The Learned Musician,Q105821980,11,0,2,Biography by Christoph Wolff,,Q571,,
+Partita 2,Johann Sebastian Bach,Q1696201,11,0,2,Wikimedia disambiguation page,,Q22808320,,Johann Sebastian Bach (disambiguation)
+Partita 2,Johann Sebastian Bach,Q56344397,11,0,2,album by Rafał Blechacz,,Q482994,,
+Bert Veris,Bert Veris,Q52912754,11,2,1,,,Q5,,
+Bert Veris,Bach,Q1409748,11,2,2,family name,,Q101352,,Bach (surname)
+Bert Veris,Bachelor of Arts,Q1765120,11,2,2,type of undergraduate qualification,A. B.|A.B.|AB|Artium Baccalaureatus|B.A.|BA|BA degree|Bachelor's of Arts,Q117146794|Q189533,Q163727,Bachelor of Arts
+Bert Veris,Bach,Q936005,11,2,2,"commune in Lot, France",,Q484170,,"Bach, Lot"
+Bert Veris,Johann Sebastian Bach,Q1339,11,2,2,German composer (1685–1750),J S Bach,Q5,,Johann Sebastian Bach
+Bert Veris,Bach,Q1861386,11,2,2,French actor and singer (1882-1953),,Q5,,Bach (actor)
+Bert Veris,Bachelor of Laws,Q798137,11,2,2,undergraduate degree in law,LL.B.|LLB|LL. B.|Legum Baccalaureus,Q189533,Q4115013|Q163727,Bachelor of Laws
+Bert Veris,Bachelor of Science,Q787674,11,2,2,type of bachelor's degree,Bc.|B.S.|BS|B Sc|B.Sc.|BSc|S.B|SB|Sc.B.|Scientiæ Baccalaureus|S.B.|Bachelor's of Science|Bachelor of Science degree|Bachelors of Science|S.I.P.|BSc.,Q1622058,Q163727,Bachelor of Science
+Bert Veris,bachelor's degree,Q163727,11,2,2,undergraduate academic degree lasting from three to seven years,bachelor degree|baccalaureate degree|bachelors degree|BA degree|bachelor|bacc. art.,Q4218455|Q18189|Q11659512|Q189533,Q3529618|Q4218455|Q16628973,Bachelor's degree
+Bert Veris,Bach,Q2744907,11,2,2,"human settlement in Todtenweis, Aichach-Friedberg, Bavaria, Germany",,Q532|Q253019,,
+Bert Veris,Bach,Q77593202,11,2,2,cadastral municipality in St. Johann im Pongau District,,Q17376095,,
+Bert Veris,Johann Sebastian Bach,Q638391,11,2,2,"German painter, grandson of the composer (1748–1778)",Johann Samuel Bach|Sebastian Bach|Johann Sebastian Bach the Younger|J. S. Bach the Younger,Q5,,Johann Sebastian Bach (painter)
+Bert Veris,Johann Sebastian Bach,Q121998077,11,2,2,book edition published in 2017,,Q3331189,,
+Bert Veris,Johann Sebastian Bach,Q122082225,11,2,2,book edition published in 2020,,Q3331189,,
+Bert Veris,Portrait of Johann Sebastian Bach,Q47412928,11,2,2,painting by Haussmann 1748,Johann Sebastian Bach,Q3305213,,
+Bert Veris,Portrait of Bach,Q46993637,11,2,2,painting by Haussmann 1746,Johann Sebastian Bach,Q3305213,,
+Bert Veris,Johann Sebastian Bach,Q1475491,11,2,2,1985 East German miniseries,,Q506240,,Johann Sebastian Bach (TV series)
+Bert Veris,Johann Sebastian Bach The Learned Musician,Q105821980,11,2,2,Biography by Christoph Wolff,,Q571,,
+Bert Veris,Johann Sebastian Bach,Q1696201,11,2,2,Wikimedia disambiguation page,,Q22808320,,Johann Sebastian Bach (disambiguation)
+Bert Veris,Johann Sebastian Bach,Q56344397,11,2,2,album by Rafał Blechacz,,Q482994,,
+Bert Veris,JS Bach Chamber Music Hall,Q24039562,11,2,2,"temporary structure in Manchester, United Kingdom",,,,JS Bach Chamber Music Hall
+Bert Veris,JS-Bach-Stiftung,Q130244900,11,2,2,,,Q157031,,
+Johann Sebastian Bach,Johann Sebastian Bach,Q1339,11,3,1,German composer (1685–1750),J S Bach,Q5,,Johann Sebastian Bach
+Johann Sebastian Bach,Johann Sebastian Bach,Q638391,11,3,1,"German painter, grandson of the composer (1748–1778)",Johann Samuel Bach|Sebastian Bach|Johann Sebastian Bach the Younger|J. S. Bach the Younger,Q5,,Johann Sebastian Bach (painter)
+Johann Sebastian Bach,Johann Sebastian Bach,Q121998077,11,3,1,book edition published in 2017,,Q3331189,,
+Johann Sebastian Bach,Johann Sebastian Bach,Q122082225,11,3,1,book edition published in 2020,,Q3331189,,
+Johann Sebastian Bach,Portrait of Johann Sebastian Bach,Q47412928,11,3,1,painting by Haussmann 1748,Johann Sebastian Bach,Q3305213,,
+Johann Sebastian Bach,Portrait of Bach,Q46993637,11,3,1,painting by Haussmann 1746,Johann Sebastian Bach,Q3305213,,
+Johann Sebastian Bach,Johann Sebastian Bach,Q1475491,11,3,1,1985 East German miniseries,,Q506240,,Johann Sebastian Bach (TV series)
+Johann Sebastian Bach,Johann Sebastian Bach The Learned Musician,Q105821980,11,3,1,Biography by Christoph Wolff,,Q571,,
+Johann Sebastian Bach,Johann Sebastian Bach,Q1696201,11,3,1,Wikimedia disambiguation page,,Q22808320,,Johann Sebastian Bach (disambiguation)
+Johann Sebastian Bach,Johann Sebastian Bach,Q56344397,11,3,1,album by Rafał Blechacz,,Q482994,,
+Johann Sebastian Bach,"Bach, Johann Sebastian",Q28003252,11,3,2,"encyclopedic article in Dictionary of Music and Musicians, 1900","DMM / Bach, Johann Sebastian",Q13433827,,
+Johann Sebastian Bach,"Bach, Johann Sebastian (ADB)",Q23939877,11,3,2,entry in the Allgemeine Deutsche Biographie,,Q19389637,,
+Johann Sebastian Bach,Notebook for Anna Magdalena Bach,Q1341631,11,3,2,"two manuscript notebooks that Johann Sebastian Bach presented to his second wife, Anna Magdalena.","Klavierbüchlein für Anna Magdalena Bach|Bach, Johann Sebastian, 1685-1750. Notenbüchlein für Anna Magdalena Bach (1725)",Q87167|Q17489659|Q105543609,,Notebook for Anna Magdalena Bach
+Johann Sebastian Bach,"Es reißet euch ein schrecklich Ende, BWV 90",Q75278,11,3,2,church cantata by Johann Sebastian Bach,"BWV 90|Es reisset euch ein schrecklich Ende|Bach, Johann Sebastian, 1685-1750. Es reisset euch ein schrecklich Ende",Q105543609,,"Es reißet euch ein schrecklich Ende, BWV 90"
+Johann Sebastian Bach,Sonata in C major for flute or recorder and basso continuo,Q3490100,11,3,2,flute sonata composed by Johann Sebastian Bach,"Sonata for Flute and Continuo in C Major, BWV 1033|Bach, Johann Sebastian, 1685-1750. Sonatas, flute, harpsichord, no. 4, C major|Bach, Johann Sebastian, 1685-1750. Sonatas, flute, guitar, BWV 1033, C major",Q105543609,,"Flute Sonata in C major, BWV 1033"
+Johann Sebastian Bach,Sonata in E major for flute or recorder and basso continuo,Q3490103,11,3,2,flute sonata composed by Johann Sebastian Bach,"Sonata for Flute and Continuo in E Major, BWV 1035|Bach, Johann Sebastian, 1685-1750. Sonata, flute & continuo, S. 1035, E major|Bach, Johann Sebastian, 1685-1750. Sonatas, flute, guitar, BWV 1035, E major",Q105543609,,"Flute Sonata in E major, BWV 1035"
+Johann Sebastian Bach,"Non sa che sia dolore, BWV 209",Q2784522,11,3,2,secular cantata composed by Johann Sebastian Bach,"BWV 209|Bach, Johann Sebastian, 1685-1750. Cantatas, BWV 209|Bach, Johann Sebastian, 1685-1750. Cantatas, no. 209|Bach, Johann Sebastian, 1685-1750. Was Schmerz sei und was Leiden",Q105543609,,"Non sa che sia dolore, BWV 209"
+Johann Sebastian Bach,"Bach, Johann Sebastian",Q106395202,11,3,2,scientific article published in 2001,,Q13442814,,
+Johann Sebastian Bach,"Lute Suite in G minor, BWV 995",Q1054727,11,3,2,suite for solo lute composed by J.S. Bach,"Suite for Lute in G Minor, BWV 995|BWV 995|Bach, Johann Sebastian, 1685-1750. Suites, harpsichord, BWV 995, G minor|Bach, Johann Sebastian, 1685-1750. Suite de Bruxelles|Bach, Johann Sebastian, 1685-1750. Suites, lute, BWV 995, A minor",Q105543609,,"Suite in G minor, BWV 995"
+"Young people, old voices (2006-2007)","Young people, old voices (2006-2007)",Q57504162,12,0,1,performing arts production,,Q43099869,,
+"Young people, old voices (2006-2007)","Young people, old voices (2002-2003)",Q57508854,12,0,2,performing arts production,,Q43099869,,
+"Young people, old voices (2006-2007)",Patrick Buret,Q53450074,12,0,2,,,Q5,,
+"Young people, old voices (2006-2007)",Patsy Cline,Q273080,12,0,2,American country singer (1932–1963),Virginia Patterson Hensley,Q5,,Patsy Cline
+"Young people, old voices (2006-2007)",Patsy Cline,Q7148236,12,0,2,1957 album by Patsy Cline,,Q482994,,Patsy Cline (album)
+"Young people, old voices (2006-2007)",Patsy Cline,Q17063075,12,0,2,1962 extended play by Patsy Cline,,Q169930,,Patsy Cline (1962 EP)
+"Young people, old voices (2006-2007)",Patsy Cline,Q7148234,12,0,2,EP by Patsy Cline,,Q169930,,Patsy Cline (1961 EP)
+"Young people, old voices (2006-2007)",Patsy Cline,Q17063060,12,0,2,1957 extended play by Patsy Cline,,Q169930,,Patsy Cline (1957 EP)
+"Young people, old voices (2006-2007)",Patsy Cline's albums in chronological order,Q108741375,12,0,2,Wikimedia albums discography,Patsy Cline albums discography|Patsy Cline discography - albums,Q59191021,,
+"Young people, old voices (2006-2007)",Patsy Cline discography,Q7148239,12,0,2,Wikimedia artist discography,discography of Patsy Cline,Q104635718,,Patsy Cline discography
+"Young people, old voices (2006-2007)",Patsy Cline EPs discography,Q108742213,12,0,2,Wikimedia EPs discography,Patsy Cline discography - EPs|discography of Patsy Cline EPs|discography from Patsy Cline EPs,Q59248072,,
+"Young people, old voices (2006-2007)",Patsy Cline singles discography,Q108741389,12,0,2,Wikimedia singles discography,Patsy Cline discography - singles|discography of Patsy Cline singles|discography from Patsy Cline singles,Q59248059,,
+"Young people, old voices (2006-2007)",Patsy Cline's Greatest Hits,Q10346216,12,0,2,2003 album,,Q482994,,Patsy Cline's Greatest Hits
+Patrick Buret,Patrick Buret,Q53450074,12,2,1,,,Q5,,
+Patsy Cline,Patsy Cline,Q273080,12,3,1,American country singer (1932–1963),Virginia Patterson Hensley,Q5,,Patsy Cline
+Patsy Cline,Patsy Cline,Q7148236,12,3,1,1957 album by Patsy Cline,,Q482994,,Patsy Cline (album)
+Patsy Cline,Patsy Cline,Q17063075,12,3,1,1962 extended play by Patsy Cline,,Q169930,,Patsy Cline (1962 EP)
+Patsy Cline,Patsy Cline,Q7148234,12,3,1,EP by Patsy Cline,,Q169930,,Patsy Cline (1961 EP)
+Patsy Cline,Patsy Cline,Q17063060,12,3,1,1957 extended play by Patsy Cline,,Q169930,,Patsy Cline (1957 EP)
+Patsy Cline,Patsy Cline's albums in chronological order,Q108741375,12,3,1,Wikimedia albums discography,Patsy Cline albums discography|Patsy Cline discography - albums,Q59191021,,
+Patsy Cline,Patsy Cline discography,Q7148239,12,3,1,Wikimedia artist discography,discography of Patsy Cline,Q104635718,,Patsy Cline discography
+Patsy Cline,Patsy Cline EPs discography,Q108742213,12,3,1,Wikimedia EPs discography,Patsy Cline discography - EPs|discography of Patsy Cline EPs|discography from Patsy Cline EPs,Q59248072,,
+Patsy Cline,Patsy Cline singles discography,Q108741389,12,3,1,Wikimedia singles discography,Patsy Cline discography - singles|discography of Patsy Cline singles|discography from Patsy Cline singles,Q59248059,,
+Patsy Cline,Patsy Cline's Greatest Hits,Q10346216,12,3,1,2003 album,,Q482994,,Patsy Cline's Greatest Hits

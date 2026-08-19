@@ -1,0 +1,28 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2009gh,SN 2009gh,Q9331308,0,0,1,supernova,,Q3937,,
+SN 1977E,SN 1977E,Q9326740,1,0,1,supernova,,Q3937,,
+SN 2008o,SN 2008O,Q9330869,2,0,1,supernova,,Q3937,,
+SN 2008o,minor planet,Q1022867,2,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2008o,Minor Planet Center database,Q106600690,2,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2008o,Minor Planet Center,Q522039,2,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2008o,minor planet moon,Q657829,2,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2008o,Minor Planet Circulars,Q6382430,2,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2008o,minor planet group,Q2332332,2,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2008o,list of minor planets,Q37651,2,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2008o,Minor planet designation,Q817125,2,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2008o,Minor Planet Bulletin,Q6869125,2,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2008o,Minor Planet Catalogue,Q55178248,2,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2008o,asteroid,Q3863,2,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 2008o,asteroid belt,Q2179,2,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 2008o,Asteroid,Q4810751,2,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 2008o,Asteroid,Q113629153,2,0,2,early access video game,,Q7889,,
+SN 2008o,starfish,Q25349,2,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 2008o,Asteroid,Q132852203,2,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 2008o,Asteroideae,Q21004,2,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 2008o,Asteroids,Q748890,2,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 2008o,Asteroid Terrestrial-impact Last Alert System,Q17002475,2,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 2008o,Vesta,Q3030,2,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN2007rd,SN 2007rd,Q9330754,3,0,2,supernova,,Q3937,,
+SN 1986Y,,,4,0,0,,,,,
+SN 202W,,,5,0,0,,,,,
+MEeaCS ZwCl0628-4-13-0 SN,,,6,0,0,,,,,

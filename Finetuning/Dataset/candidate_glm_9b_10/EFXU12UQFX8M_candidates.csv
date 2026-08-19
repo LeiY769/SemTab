@@ -1,0 +1,202 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+R1 road,R1 road,Q1537172,0,0,1,"ring road of Antwerp, Belgium",R1|Antwerp Ring,Q2154027|Q26792858,,R1 ring road (Belgium)
+R1 road,R1 road,Q16068841,0,0,1,road in Azerbaijan,,Q34442,,
+R1 road,R1 road,Q4166711,0,0,1,trunk road in Belarus,,Q34442,,
+R1 road,A14 motorway,Q785084,0,0,2,"motorway in Flanders, Belgium",A14,Q26792858,,A14 motorway (Belgium)
+R1 road,A14 motorway,Q672383,0,0,2,motorway in Switzerland,A14,Q34442|Q693906,,A14 motorway (Switzerland)
+R1 road,A14 autoroute,Q125360,0,0,2,controlled-access highway from La Défense to Orgeval,Autoroute A14|A14|A14 motorway,Q46622,,A14 autoroute
+R1 road,A14 motorway,Q786473,0,0,2,road in Portugal,,Q46622,,A14 motorway (Portugal)
+R1 road,A14 motorway,Q150107,0,0,2,former planned motorway in Greece,A14|A14 (Greece)|A14 motorway (Greece)|Motorway 14|Motorway 14 (Greece),Q57448432|Q34442,,
+A14 motorway,A14 motorway,Q785084,0,1,1,"motorway in Flanders, Belgium",A14,Q26792858,,A14 motorway (Belgium)
+A14 motorway,A14 motorway,Q672383,0,1,1,motorway in Switzerland,A14,Q34442|Q693906,,A14 motorway (Switzerland)
+A14 motorway,A14 autoroute,Q125360,0,1,1,controlled-access highway from La Défense to Orgeval,Autoroute A14|A14|A14 motorway,Q46622,,A14 autoroute
+A14 motorway,A14 motorway,Q786473,0,1,1,road in Portugal,,Q46622,,A14 motorway (Portugal)
+A14 motorway,A14 motorway,Q150107,0,1,1,former planned motorway in Greece,A14|A14 (Greece)|A14 motorway (Greece)|Motorway 14|Motorway 14 (Greece),Q57448432|Q34442,,
+A7 motorway,A7 motorway,Q2152999,1,0,1,motorway in the Netherlands,A7,Q46622|Q2056881|Q159184,,A7 motorway (Netherlands)
+A7 motorway,A7 autoroute,Q788948,1,0,1,controlled-access highway from Lyon to Marseille,A7|A7 motorway|Autoroute du Soleil,Q46622,,A7 autoroute
+A7 motorway,A7 motorway,Q602045,1,0,1,"motorway in Wallonia, Belgium",A7,Q26792858,,
+A7 motorway,A7 motorway,Q788632,1,0,1,highway in Luxembourg,A7,Q34442|Q46622,,A7 motorway (Luxembourg)
+A7 motorway,A7 motorway,Q673344,1,0,1,motorway in Switzerland,A7,Q693906,,
+A7 motorway,A7 motorway,Q786663,1,0,1,road in Portugal,,Q46622,,A7 motorway (Portugal)
+A7 motorway,A7 motorway,Q6911206,1,0,1,motorway in Greece,A7 (Greece)|A7 motorway (Greece)|Motorway 7|Motorway 7 (Greece)|Central Peloponnese Motorway|Moreas Motorway,Q46622|Q34442,,A7 motorway (Greece)
+A7 motorway,A7 motorway,Q26764648,1,0,1,motorway in Romania,Ploiești–Siret Motorway,Q46622,,A7 motorway (Romania)
+A7 motorway,A7 motorway,Q2704682,1,0,1,motorway in Cyprus,,Q34442,,A7 motorway (Cyprus)
+A7 motorway,Ploiești–Siret Motorway,Q65088949,1,0,1,,A7 motorway (Romania),Q34442,,
+A7 motorway,A7 highway,Q1161865,1,0,2,highway in Lithuania,,Q34442,,A7 highway (Lithuania)
+A7 motorway,A7 highway,Q4649620,1,0,2,road in Sri Lanka,A 7 road,Q34442,,A7 road (Sri Lanka)
+A7 motorway,A7 highway,Q4649618,1,0,2,road in Nigeria,,Q34442|Q269949,,A7 highway (Nigeria)
+A7 motorway,A7 road,Q4649619,1,0,2,road in north-west England and southern Scotland,A7,Q18019452,,A7 road (Great Britain)
+A7 motorway,A7 road,Q97253041,1,0,2,road in Tanzania,,Q34442,,
+A7 motorway,A7 road,Q786302,1,0,2,national road in Latvia,,Q34442,,A7 road (Latvia)
+A7 motorway,A7 road,Q4649621,1,0,2,road in Northern Ireland,,Q34442,,A7 road (Northern Ireland)
+A7 motorway,A7 road,Q15410196,1,0,2,road in Kazakhstan,,Q34442,,
+A7 motorway,A7 road,Q25248001,1,0,2,road in Zimbabwe,,Q34442,,A7 road (Zimbabwe)
+A7 motorway,A7 road,Q129820458,1,0,2,road in Ethiopia,,Q34442,,A7 road (Ethiopia)
+A7 motorway,A7 road,Q129408802,1,0,2,road in Kenya,,Q34442,,A7 road (Kenya)
+A7 motorway,A7 road,Q89040607,1,0,2,road on the Isle of Man,,Q34442,,
+A27 motorway,A27 motorway,Q685888,2,0,1,motorway in the Netherlands,A27,Q46622|Q2056881,,A27 motorway (Netherlands)
+A27 motorway,A27 motorway,Q552454,2,0,1,motorway in Belgium,A27,Q26792858,,
+A27 motorway,A27 motorway,Q786551,2,0,1,road in Portugal,,Q46622,,
+A27 motorway,A27 autoroute,Q788710,2,0,1,road in France,A27|A27 motorway,Q46622,,A27 autoroute
+A27 motorway,A27 motorway,Q389386,2,0,1,motorway in Greece,A27 (Greece)|A27 motorway (Greece)|Motorway 27|Motorway 27 (Greece),Q46622|Q34442,,A27 motorway (Greece)
+A27 motorway,A27 road,Q4649079,2,0,2,major road in southern England,A27,Q18019452,,A27 road
+A27 motorway,A27 road,Q1313881,2,0,2,road in Kazakhstan,,Q34442,,A27 highway (Kazakhstan)
+A27 motorway,A27 road,Q89040616,2,0,2,road on the Isle of Man,,Q34442,,
+A27 motorway,A27 road,Q137861534,2,0,2,Road in Northern Ireland,,Q34442,,
+A17 motorway,A17 motorway,Q847531,3,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A17 motorway (Netherlands)
+A17 motorway,A17 motorway,Q785094,3,0,1,motorway in Belgium,A17,Q26792858,,
+A17 motorway,A17 motorway,Q96185109,3,0,1,road in Switzerland,,Q34442,,
+A17 motorway,A17 motorway,Q786493,3,0,1,road in Portugal,,Q46622,,
+A17 motorway,A17 autoroute,Q98783297,3,0,1,motorway in France,A17|A17 motorway,Q57448432|Q46622,,
+A17 motorway,A17 road,Q862436,3,0,2,road in East Midlands and East of England,A17,Q18019452,,A17 road (England)
+A17 motorway,A17 road,Q104880406,3,0,2,"road in Jersey, Channel Islands",,Q34442,,A17 road (Jersey)
+A17 motorway,A17 road,Q1742811,3,0,2,road in Kazakhstan,,Q34442,,
+A17 motorway,A17 road,Q138566746,3,0,2,road on the Isle of Man,,Q34442,,
+A17 motorway,A17 highway,Q12664129,3,0,2,road in Lithuania,,Q34442,,
+A17 motorway,A17 highway,Q4648924,3,0,2,road in Sri Lanka,,Q34442,,A17 road (Sri Lanka)
+A11 motorway,A11 motorway,Q785055,4,0,1,"motorway in Flanders, Belgium",A11|AX,Q26792858,,
+A11 motorway,A11 autoroute,Q788641,4,0,1,controlled-access highway from Paris to Nantes,A11|A11 motorway,Q46622,,A11 autoroute
+A11 motorway,Arad bypass,Q25467153,4,0,1,road in Romania,A11 motorway|A11 motorway (Romania),Q46622,,A11 motorway (Romania)
+A11 motorway,A11 motorway,Q786465,4,0,1,road in Portugal,,Q46622,,
+A11 motorway,A11 motorway,Q389347,4,0,1,motorway in Greece,A11 (Greece)|A11 motorway (Greece)|Motorway 11|Motorway 11 (Greece),Q46622|Q34442,,A11 motorway (Greece)
+A11 motorway,A11 road,Q4648827,4,0,2,major road in England,A11,Q18019452,,A11 road (England)
+A11 motorway,A11 road,Q786245,4,0,2,national road in Latvia,,Q34442,,A11 road (Latvia)
+A11 motorway,A11 road,Q20311575,4,0,2,road in Botswana,,Q34442,,A11 road (Botswana)
+A11 motorway,A11 road,Q15410894,4,0,2,road in Kazakhstan,,Q34442,,
+A11 motorway,A11 road,Q25248034,4,0,2,road in Zimbabwe,,Q34442,,A11 road (Zimbabwe)
+A11 motorway,A11 road,Q89040608,4,0,2,road on the Isle of Man,,Q34442,,
+A11 motorway,A11 road,Q129408890,4,0,2,road in Kenya,,Q34442,,A11 road (Kenya)
+A11 motorway,A11 highway,Q13421213,4,0,2,road in Lithuania,,Q34442,,A11 highway (Lithuania)
+A11 motorway,A11 highway,Q4648829,4,0,2,road in Sri Lanka,,Q34442,,A11 road (Sri Lanka)
+A11 motorway,A11 highway,Q122732190,4,0,2,Road in Nigeria,,Q34442,,A11 highway (Nigeria)
+A2 motorway,A2 motorway,Q1422024,5,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A2 motorway (Netherlands)
+A2 motorway,A2 motorway,Q676104,5,0,1,motorway in Switzerland,A2,Q46622|Q693906,,A2 motorway (Switzerland)
+A2 motorway,A2 motorway,Q785149,5,0,1,motorway in Belgium,A2,Q26792858,,A2 motorway (Belgium)
+A2 motorway,A2 autoroute,Q168759,5,0,1,controlled-access highway from Combles to the Belgian A7,A2|A2 motorway,Q46622,,A2 autoroute
+A2 motorway,A2 motorway,Q429447,5,0,1,freeway in Romania,,Q34442,,A2 motorway (Romania)
+A2 motorway,A2 motorway,Q786510,5,0,1,road in Portugal,,Q46622,,A2 motorway (Portugal)
+A2 motorway,A2 motorway,Q389377,5,0,1,motorway in Greece,A2 (Greece)|A2 motorway (Greece)|Motorway 2|Motorway 2 (Greece)|Egnatia Odos|Egnatia Odos (modern road),Q46622|Q34442,,A2 motorway (Greece)
+A2 motorway,A2 motorway,Q429454,5,0,1,freeway in Slovenia,Avtocesta A2,Q34442,,A2 motorway (Slovenia)
+A2 motorway,A2 motorway,Q15784782,5,0,1,road in Serbia,,Q46622|Q34442,,A2 motorway (Serbia)
+A2 motorway,A2 motorway,Q1296946,5,0,1,road in North Macedonia,M-2 motorway|M-4 expressway,Q34442,,A2 motorway (North Macedonia)
+A2 motorway,A3 motorway,Q606055,5,0,2,motorway in Belgium,A3,Q26792858,,A3 motorway (Belgium)
+A2 motorway,A3 motorway,Q3630864,5,0,2,Swiss road,A3,Q34442|Q693906,,A3 motorway (Switzerland)
+A2 motorway,A3 motorway,Q788627,5,0,2,highway in Luxembourg,A3,Q34442|Q46622,,A3 motorway (Luxembourg)
+A2 motorway,A3 motorway,Q786571,5,0,2,road in Portugal,,Q46622,,A3 motorway (Portugal)
+A2 motorway,A3 autoroute,Q788719,5,0,2,controlled-access highway from Paris to the A1 near Le Bourget Airport,A3|A3 motorway,Q46622,,A3 autoroute
+A2 motorway,A3 motorway,Q429582,5,0,2,highway in Romania,,Q46622,,A3 motorway (Romania)
+A2 motorway,A3 motorway,Q791544,5,0,2,highway in Slovenia,Avtocesta A3,Q34442,,A3 motorway (Slovenia)
+A2 motorway,A3 motorway,Q389393,5,0,2,motorway in Greece,A3 (Greece)|A3 motorway (Greece)|Motorway 3|Motorway 3 (Greece)|E65 (Greece)|E65 motorway|E65 motorway (Greece)|Central Greece Motorway,Q46622|Q34442,,A3 motorway (Greece)
+A2 motorway,A3 motorway,Q788420,5,0,2,road in Serbia,,Q34442,,A3 motorway (Serbia)
+A2 motorway,A3 motorway,Q789118,5,0,2,highway in Albania,,Q34442,,A3 (Albania)
+A3 motorway,A3 motorway,Q606055,5,1,1,motorway in Belgium,A3,Q26792858,,A3 motorway (Belgium)
+A3 motorway,A3 motorway,Q3630864,5,1,1,Swiss road,A3,Q34442|Q693906,,A3 motorway (Switzerland)
+A3 motorway,A3 motorway,Q788627,5,1,1,highway in Luxembourg,A3,Q34442|Q46622,,A3 motorway (Luxembourg)
+A3 motorway,A3 motorway,Q786571,5,1,1,road in Portugal,,Q46622,,A3 motorway (Portugal)
+A3 motorway,A3 autoroute,Q788719,5,1,1,controlled-access highway from Paris to the A1 near Le Bourget Airport,A3|A3 motorway,Q46622,,A3 autoroute
+A3 motorway,A3 motorway,Q429582,5,1,1,highway in Romania,,Q46622,,A3 motorway (Romania)
+A3 motorway,A3 motorway,Q791544,5,1,1,highway in Slovenia,Avtocesta A3,Q34442,,A3 motorway (Slovenia)
+A3 motorway,A3 motorway,Q389393,5,1,1,motorway in Greece,A3 (Greece)|A3 motorway (Greece)|Motorway 3|Motorway 3 (Greece)|E65 (Greece)|E65 motorway|E65 motorway (Greece)|Central Greece Motorway,Q46622|Q34442,,A3 motorway (Greece)
+A3 motorway,A3 motorway,Q788420,5,1,1,road in Serbia,,Q34442,,A3 motorway (Serbia)
+A3 motorway,A3 motorway,Q789118,5,1,1,highway in Albania,,Q34442,,A3 (Albania)
+A3 motorway,A3 highway,Q4649199,5,1,2,road in Lesotho,,Q34442,,A3 highway (Lesotho)
+A3 motorway,A3 highway,Q667003,5,1,2,highway in Lithuania,,Q34442,,A3 highway (Lithuania)
+A3 motorway,A3 highway,Q2872948,5,1,2,Highways in Algeria,A3,Q46622,,A3 motorway (Algeria)
+A3 motorway,A3 highway,Q4649202,5,1,2,road in Sri Lanka,,Q34442,,A3 road (Sri Lanka)
+A3 motorway,A3 highway,Q4649201,5,1,2,road in Nigeria,,Q34442|Q269949,,A3 highway (Nigeria)
+A3 motorway,A3 highway,Q280132,5,1,2,motorway in Bosnia and Herzegovina,,Q34442,,
+A3 motorway,A3 road,Q2577223,5,1,2,major road connecting London and Portsmouth in England,Portsmouth Road|London Road|A3|London—Portsmouth Trunk Road,Q18019452,,A3 road
+A3 motorway,A3 road,Q104855535,5,1,2,road in Jersey,,Q34442,,A3 road (Jersey)
+A3 motorway,A3 road,Q4649206,5,1,2,major road in Northern Ireland,A3,Q34442,,A3 road (Northern Ireland)
+A3 motorway,A3 road,Q786281,5,1,2,road in Latvia,Valmiera Highway,Q34442|Q934713,,A3 road (Latvia)
+A3 motorway,A3 road,Q5128975,5,1,2,road in Jamaica,,Q34442,,
+A3 motorway,A3 road,Q15280689,5,1,2,road in Kazakhstan,,Q34442,,A3 highway (Kazakhstan)
+A3 motorway,A3 road,Q20311593,5,1,2,road in Botswana,,Q34442,,A3 road (Botswana)
+A3 motorway,A3 road,Q65089078,5,1,2,road in Kenya,,Q34442,,A3 road (Kenya)
+A3 motorway,A3 road,Q129744604,5,1,2,road in Ethiopia,,Q34442,,A3 road (Ethiopia)
+A3 motorway,A3 road,Q89040603,5,1,2,road on the Isle of Man,,Q34442,,
+A6 motorway,A6 autoroute,Q1595,6,0,1,controlled-access highway from Paris to Lyon,Motorway of the Sun|A6|A6 motorway,Q46622|Q3456602,,A6 autoroute
+A6 motorway,A6 motorway,Q1666761,6,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A6 motorway (Netherlands)
+A6 motorway,A6 motorway,Q675069,6,0,1,Swiss road,A6,Q34442|Q693906,,A6 motorway (Switzerland)
+A6 motorway,A6 motorway,Q591506,6,0,1,highway in Luxembourg,A6,Q34442|Q46622,,A6 motorway (Luxembourg)
+A6 motorway,A6 motorway,Q15401612,6,0,1,motorway in Romania,,Q46622|Q34442,,A6 motorway (Romania)
+A6 motorway,A6 motorway,Q786659,6,0,1,road in Portugal,A6 (Portugal),Q46622,,A6 motorway (Portugal)
+A6 motorway,A6 motorway,Q2142663,6,0,1,highway in Belgium,A6,Q26792858,,
+A6 motorway,A6 motorway,Q17014445,6,0,1,"motorway in Attiki, Greece",A6 (Greece)|A6 motorway (Greece)|Motorway 6|Motorway 6 (Greece)|Attiki Odos,Q46622|Q34442,,A6 motorway (Greece)
+A6 motorway,A6 motorway,Q2387085,6,0,1,motorway in Cyprus,,Q34442,,A6 motorway (Cyprus)
+A6 motorway,A6 motorway,Q124429791,6,0,1,planned highway in Slovenia,Avtocesta A6,Q170584|Q46622,,
+A6 motorway,A6 highway,Q2949881,6,0,2,highway in Lithuania,,Q34442,,A6 highway (Lithuania)
+A6 motorway,A6 highway,Q4649589,6,0,2,road in Sri Lanka,,Q34442,,A6 road (Sri Lanka)
+A6 motorway,A6 highway,Q122307314,6,0,2,road in Nigeria,,Q34442,,A6 highway (Nigeria)
+A6 motorway,A6 road,Q4649590,6,0,2,north–south road in England,A6,Q18019452,,A6 road (England)
+A6 motorway,A6 road,Q786297,6,0,2,road in Latvia,,Q34442,,A6 road (Latvia)
+A6 motorway,A6 road,Q4649593,6,0,2,road in Northern Ireland,,Q34442,,A6 road (Northern Ireland)
+A6 motorway,A6 road,Q15410137,6,0,2,road in Kazakhstan,,Q34442,,
+A6 motorway,A6 road,Q4649595,6,0,2,road in Zimbabwe,,Q34442,,A6 road (Zimbabwe)
+A6 motorway,A6 road,Q129744655,6,0,2,road in Ethiopia,,Q34442,,A6 road (Ethiopia)
+A6 motorway,A6 road,Q129408794,6,0,2,road in Kenya,,Q34442,,A6 road (Kenya)
+A6 motorway,A6 road,Q138542132,6,0,2,road on the Isle of Man,,Q34442,,
+R9 road,R9 road,Q205017,7,0,1,"small ring road of Charleroi, Belgium",Charleroi Small Ring|R9,Q2154027|Q26792858,,
+R9 road,R9 road,Q4166734,7,0,1,road in Belarus,,Q34442,,
+R9 road,A54 Motorway,Q789138,7,0,2,motorway in Italy,,Q46622|Q510662,,Autostrada A54
+R9 road,A54 motorway,Q785180,7,0,2,motorway in Belgium,A54,Q26792858,,
+R9 road,A54 autoroute,Q1878233,7,0,2,road in France,A54|A54 motorway,Q46622,,A54 autoroute
+A54 motorway,A54 Motorway,Q789138,7,1,1,motorway in Italy,,Q46622|Q510662,,Autostrada A54
+A54 motorway,A54 motorway,Q785180,7,1,1,motorway in Belgium,A54,Q26792858,,
+A54 motorway,A54 autoroute,Q1878233,7,1,1,road in France,A54|A54 motorway,Q46622,,A54 autoroute
+A54 motorway,A54 road,Q4649471,7,1,2,road in England,A54,Q18019452,,A54 road
+A54 motorway,A54 road,Q106574501,7,1,2,road in Northern Ireland,A54,Q34442,,
+R7 road,R7 road,Q2593641,8,0,1,"formerly planned ring road of Liège, Belgium",Liège Ring|R7|Liege Ring,Q2154027|Q26792858|Q57448432,,
+R7 road,R7 road,Q4386418,8,0,1,road in Belarus,,Q34442,,
+R7 road,R7 road,Q25248020,8,0,1,road in Zimbabwe,,Q34442,,R7 road (Zimbabwe)
+R7 road,A26 autoroute,Q788708,8,0,2,road in France,A26|A26 motorway,Q46622,,A26 autoroute
+R7 road,A26 motorway,Q1318650,8,0,2,"motorway in Wallonia, Belgium",A26,Q26792858,,
+R7 road,A26 motorway,Q116689,8,0,2,road in Austria,,Q34442,,
+R7 road,A26 motorway,Q786548,8,0,2,road in Portugal,Motorway of Baixo Alentejo,Q46622,,
+A26 motorway,A26 autoroute,Q788708,8,1,1,road in France,A26|A26 motorway,Q46622,,A26 autoroute
+A26 motorway,A26 motorway,Q1318650,8,1,1,"motorway in Wallonia, Belgium",A26,Q26792858,,
+A26 motorway,A26 motorway,Q116689,8,1,1,road in Austria,,Q34442,,
+A26 motorway,A26 motorway,Q786548,8,1,1,road in Portugal,Motorway of Baixo Alentejo,Q46622,,
+A26 motorway,A26 road,Q4649072,8,1,2,road in England,A26,Q18019452,,A26 road
+A26 motorway,A26 road,Q4649073,8,1,2,road in Northern Ireland,,Q34442,,A26 road (Northern Ireland)
+A26 motorway,A26 road,Q1457605,8,1,2,road in Kazakhstan,,Q34442,,
+A26 motorway,A26 road,Q138567314,8,1,2,road on the Isle of Man,,Q34442,,
+A13 motorway,A13 autoroute,Q788648,9,0,1,controlled-access highway from Paris to Caen,A13|A13 motorway,Q46622|Q17072952,,A13 autoroute
+A13 motorway,A13 motorway,Q671071,9,0,1,motorway in Switzerland,A13,Q34442|Q693906,,A13 motorway (Switzerland)
+A13 motorway,A13 motorway,Q652212,9,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A13 motorway (Netherlands)
+A13 motorway,A13 motorway,Q278069,9,0,1,motorway in Belgium,A13,Q26792858,,
+A13 motorway,A13 motorway,Q788618,9,0,1,highway in Luxembourg,A13,Q34442|Q46622,,A13 motorway (Luxembourg)
+A13 motorway,A13 motorway,Q786479,9,0,1,road in Portugal,,Q46622,,A13 motorway (Portugal)
+A13 motorway,A13 motorway,Q429261,9,0,1,formerly planned motorway in Croatia,,Q34442|Q811683|Q57448432,,A13 (Croatia)
+A13 motorway,A13 motorway,Q150109,9,0,1,planned motorway in Greece,A13 (Greece)|A13 motorway (Greece)|Motorway 13|Motorway 13 (Greece),Q105513065|Q34442,,
+A28 motorway,A28 motorway,Q1512120,10,0,1,"motorway in the Netherlands, connecting Utrecht and Groningen",,Q46622|Q2056881,,A28 motorway (Netherlands)
+A28 motorway,A28 autoroute,Q168746,10,0,1,French road,A28|A28 motorway,Q46622,,A28 autoroute
+A28 motorway,A28 motorway,Q785146,10,0,1,motorway in Belgium,A28,Q26792858,,
+A28 motorway,A28 motorway,Q786564,10,0,1,road in Portugal,,Q46622,,A28 motorway (Portugal)
+A28 motorway,A28 road,Q279963,10,0,2,trunk road in southern England,Sturry Road|A28,Q18019452,,A28 road
+A28 motorway,A28 road,Q1323460,10,0,2,road in Kazakhstan,,Q34442,,
+A28 motorway,A28 road,Q89040644,10,0,2,road in Northern Ireland,,Q34442,,
+A28 motorway,A28 road,Q89040617,10,0,2,road on the Isle of Man,,Q34442,,
+A28 motorway,A28 highway,Q4649081,10,0,2,road in Sri Lanka,,Q34442,,A28 road (Sri Lanka)
+A9 motorway,A9 motorway,Q654031,11,0,1,"highway in the Netherlands, partially motorway",N9 highway,Q46622|Q2056881|Q159184,,A9 motorway (Netherlands)
+A9 motorway,A9 autoroute,Q789003,11,0,1,French controlled-access highway from Orange to Perthus,A9|A9 motorway,Q46622,,A9 autoroute
+A9 motorway,A9 motorway,Q675775,11,0,1,motorway in Switzerland,A9,Q34442|Q693906,,A9 motorway (Switzerland)
+A9 motorway,A9 motorway,Q786683,11,0,1,road in Portugal,,Q46622,,A9 motorway (Portugal)
+A9 motorway,A9 motorway,Q2227181,11,0,1,highway in Belgium,A9,Q26792858,,
+A9 motorway,A9 motorway,Q4649702,11,0,1,motorway in Cyprus,,Q34442,,A9 motorway (Cyprus)
+A9 motorway,Pyhrn Autobahn,Q430066,11,0,1,road in Austria,A9 motorway (Austria),Q34442,,Pyhrn Autobahn
+A9 motorway,A9 motorway,Q61354665,11,0,1,"former motorway in Patras, Greece",A9 (Greece)|A9 motorway (Greece)|Motorway 9|Motorway 9 (Greece),Q46622|Q34442,,
+A9 motorway,A9 road,Q280508,11,0,2,major road in Scotland,A9,Q18019452,,A9 road (Scotland)
+A9 motorway,A9 road,Q786311,11,0,2,national road in Latvia,,Q34442,,A9 road (Latvia)
+A9 motorway,A9 road,Q15410355,11,0,2,road in Kazakhstan,,Q34442,,
+A9 motorway,A9 road,Q25247975,11,0,2,road in Zimbabwe,,Q34442,,A9 road (Zimbabwe)
+A9 motorway,A9 road,Q129408855,11,0,2,road in Kenya,,Q34442,,A9 road (Kenya)
+A9 motorway,A9 road,Q138542329,11,0,2,road on the Isle of Man,,Q34442,,
+A9 motorway,A9 highway,Q9211104,11,0,2,road in Lithuania,,Q34442,,A9 highway (Lithuania)
+A9 motorway,A9 highway,Q4649701,11,0,2,road in Sri Lanka,,Q34442,,A9 road (Sri Lanka)
+A9 motorway,A9 highway,Q4649697,11,0,2,road in Nigeria,,Q34442,,A9 highway (Nigeria)
+A21 motorway,A21 motorway,Q785121,12,0,1,motorway in Belgium,A21,Q26792858,,
+A21 motorway,A21 motorway,Q682853,12,0,1,motorway in Switzerland,A21,Q693906,,
+A21 motorway,A21 autoroute,Q788683,12,0,1,road in France,A21|A21 motorway,Q46622,,A21 autoroute
+A21 motorway,A21 motorway,Q786516,12,0,1,road in Portugal,,Q46622,,
+A21 motorway,A21 motorway,Q389370,12,0,1,former planned motorway in Greece,A21 (Greece)|A21 motorway (Greece)|Motorway 21|Motorway 21 (Greece),Q57448432|Q34442,,

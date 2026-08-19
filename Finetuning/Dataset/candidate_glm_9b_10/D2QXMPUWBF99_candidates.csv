@@ -1,0 +1,121 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 200fr,,,0,0,0,,,,,
+SN 1999el,SN 1999el,Q9327855,1,0,1,supernova,,Q3937|Q6243|Q67206691,,
+SN200:dy,Supernova 2006dy in NGC 5587,Q68772360,2,0,2,scientific article published in January 2006,,Q13442814,,
+SN200:dy,SN 2006dy,Q9329841,2,0,2,supernova,,Q3937,,
+N 2008gh,,,3,0,0,,,,,
+N 1961V,,,4,0,0,,,,,
+N 2016fhr,fetal heart rate,Q5868917,5,0,2,heart rate of fetus,"FHR|Heart Rate, Fetal",,Q1073121|Q886292,
+N 2016fhr,Fraunhofer Institute for High Frequency Physics and Radar Techniques,Q1452011,5,0,2,"research institute in Wachtberg, Germany",Fraunhofer-Institut für Hochfrequenzphysik und Radartechnik|FHR|Fraunhofer FHR,Q20168706,,
+N 2016fhr,CFHR5,Q18047008,5,0,2,protein-coding gene in the species Homo sapiens,CFHL5|CFHR5D|FHR-5|FHR5|complement factor H related 5,Q7187,Q20747295,CFHR5
+N 2016fhr,France,Q142,5,0,2,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",French Republic,Q3624078|Q20181813|Q51576574|Q7270|Q6256,,France
+N 2016fhr,"Farington Curve Junction and Hall Royd (Burnley) Junction Line, Blackburn to Gannow Junction",Q114059664,5,0,2,section of railway line in the UK,FHR5,Q113990375,,
+N 2016fhr,"Farington Curve Junction and Hall Royd (Burnley) Junction Line, Bamber Bridge Junction to Blackburn",Q114059663,5,0,2,section of railway line in the UK,FHR4,Q113990375,,
+N 2016fhr,CFHR3,Q18035911,5,0,2,protein-coding gene in the species Homo sapiens,CFHL3|DOWN16|FHR-3|FHR3|HLF4|complement factor H related 3,Q7187,Q20747295,CFHR3
+N 2016fhr,"Farington Curve Junction and Hall Royd (Burnley) Junction Line, Gannow Junction to Hall Royd Junction",Q114059665,5,0,2,section of railway line in the UK,FHR6,Q113990375,,
+N 2016fhr,CFHR1,Q18026879,5,0,2,protein-coding gene in the species Homo sapiens,CFHL|CFHL1|CFHL1P|CFHR1P|FHR1|H36-1|H36-2|HFL1|HFL2|complement factor H related 1,Q7187,Q20747295,CFHR1
+N 2016fhr,Complement factor H related 1,Q21103074,5,0,2,mammalian protein found in Homo sapiens,complement factor H-related protein 1|h factor-like protein 1|CFHR1|complement factor H-related 1 pseudogene|FHR-1|H factor (complement)-like 1|H-factor-like 1|H36|H factor (complement)-like 2,Q8054,,
+FSSENCE n271,,,6,0,0,,,,,
+PTF 11eif,Protein tyrosine phosphatase 11 acts through RhoA/ROCK to regulate eosinophil accumulation in the allergic airway,Q92287785,7,0,2,scientific article published on 30 July 2019,,Q13442814,,
+SN 2005gq,SN 2005gq,Q9329546,8,0,1,supernova,,Q3937,,
+SN#2003ch,SN 2003ch,Q9328843,9,0,2,supernova,,Q3937,,
+SN 200bz,,,10,0,0,,,,,
+SN2011em,SN 2011em,Q9332001,11,0,2,supernova,,Q3937,,
+SN 2005g,SN 2005G,Q9329356,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gl,Q841354,12,0,1,"supernova within theNGC 266 galaxy, observed in 2005",,Q3937,,SN 2005gl
+SN 2005g,SN 2005gj,Q3277859,12,0,1,supernova observed in September 2005,,Q3937,,SN 2005gj
+SN 2005g,SN 2005gs,Q9329549,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gu,Q9329551,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gx,Q9329553,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gb,Q9329533,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gd,Q9329534,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gz,Q9329555,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005gn,Q9329542,12,0,1,supernova,,Q3937,,
+SN 2005g,SN 2005 gj: evidence for LBV supernovae progenitors?,Q60025308,12,0,2,scientific article published in Astronomy and Astrophysics,,Q13442814,,
+SN 1992,SN 1992ag,Q9327118,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992bd,Q5174868,13,0,1,supernova,,Q3937|Q67206691,,SN 1992bd
+SN 1992,SN 1992F,Q9327092,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992N,Q9327101,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992aw,Q9327134,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992bb,Q9327139,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992ab,Q9327113,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992S,Q9327106,13,0,1,supernova,,Q3937,,
+SN 1992,SN 1992A,Q9327088,13,0,1,supernova,,Q3937|Q6243,,
+SN 1992,SN 1992E,Q9327091,13,0,1,supernova,,Q3937,,
+SN#1999ac,,,14,0,0,,,,,
+SN 2007w,SN 2007W,Q9330299,15,0,1,supernova,,Q3937,,
+UN 1984H,,,16,0,0,,,,,
+SN 1992,SN 1992ag,Q9327118,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992bd,Q5174868,17,0,1,supernova,,Q3937|Q67206691,,SN 1992bd
+SN 1992,SN 1992F,Q9327092,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992N,Q9327101,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992aw,Q9327134,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992bb,Q9327139,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992ab,Q9327113,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992S,Q9327106,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992A,Q9327088,17,0,1,supernova,,Q3937|Q6243,,
+SN 1992,SN 1992E,Q9327091,17,0,1,supernova,,Q3937,,
+SN 1992,SN 1992ax,Q9327135,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992as,Q9327130,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992ac,Q9327114,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992at,Q9327131,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992ak,Q11835522,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992aq,Q9327128,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992B,Q9327087,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992bj,Q9327146,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992bu,Q9327157,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992bs,Q9327154,17,0,2,supernova,,Q3937|Q318,,
+SN 1992,SN 1992bc,Q9327140,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992bl,Q9327149,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992bk,Q9327147,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992ba,Q9327138,17,0,2,supernova,,Q3937|Q6243,,
+SN 1992,SN 1992C,Q9327089,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992D,Q9327090,17,0,2,supernova,,Q3937,,
+SN 1992,SN 1992G,Q9327093,17,0,2,supernova,,Q3937|Q6243,,
+CRTS J094824.<+204333,CRTS J094824.9+204333,Q77992420,18,0,2,supernova in the constellation Leo,,Q3937|Q72704237,,
+SN 1:57D,Obp57d,Q29711889,19,0,2,protein-coding gene in the species Drosophila melanogaster,Odorant-binding protein 57d|Dmel_CG30150|anon-AE003791.1|OBP57d|Obp-g|57d|DmelObp57d|Obp57e|Dmel\Obp57d|CG30150|Dmel\CG30150,Q7187,,
+SN 1:57D,Ray Community Airport,Q35292485,19,0,2,"airport in Michigan, United States of America",,Q1248784,,
+SN 1:57D,57D,Q56728161,19,0,2,work by Militão de Azevedo,,Q125191,,
+[2009]33.650+46.59,,,20,0,0,,,,,
+S 200cw,south,Q667,21,0,2,one of the four cardinal directions,S|southbound|southerly|the south,Q23718|Q11114344,,South
+S 200cw,SIMBAD,Q654724,21,0,2,astronomical database,"Set of Identifications, Measurements, and Bibliography for Astronomical Data",Q605175|Q8513,,SIMBAD
+S 200cw,second,Q11574,21,0,2,"SI unit of time, defined as 9 192 631 770 periods of the ground-state hyperfine transitions of caesium-133",s|seconds|sec.|sec,Q223662|Q1790144|Q82047053|Q68618328,Q186081,Second
+S 200cw,sulfur,Q682,21,0,2,chemical element with symbol S and atomic number 16,element 16|sulphur|brimstone,Q11344|Q1929547,Q19753345|Q104567,Sulfur
+S 200cw,Serbian Wikipedia,Q200386,21,0,2,Serbian-language edition of Wikipedia,Википедија на српском језику|Vikipedija na srpskom jeziku|SRWP|Serbian-language Wikipedia|Wikipedia in Serbian|Wikipedia (sr)|sr.wp|sr.Wikipedia|:sr|српска Википедија|Википедија на српском|Википедија српског језика,Q10876391|Q36509592|Q21286559,,Serbian Wikipedia
+S 200cw,Saturday,Q131,21,0,2,day of the week,Sat|Sa|S,Q41825,Q573,Saturday
+S 200cw,Serbo-Croatian Wikipedia,Q58679,21,0,2,Serbo-Croatian-language edition of Wikipedia,,Q10876391|Q21286559|Q138685553,,Serbo-Croatian Wikipedia
+S 200cw,Stefan,Q4927128,21,0,2,male given name,Stefan (given name)|Stefan (first name),Q12308941,,Stefan (given name)
+S 200cw,Slovak Wikipedia,Q192582,21,0,2,Slovak-language edition of Wikipedia,skwiki|skwp|skwikipedia|sk.wikipedia.org,Q10876391,,Slovak Wikipedia
+S 200cw,Staphylococcus aureus,Q188121,21,0,2,species of bacterium,S. aureus,Q16521,,Staphylococcus aureus
+SN 005cd,,,22,0,0,,,,,
+ANE PS 15dow,Aragonese,Q8765,23,0,2,Romance language,Aragonese language,Q33742|Q1288568,Q133252927,Aragonese language
+ANE PS 15dow,anorexia nervosa,Q131749,23,0,2,type of eating disorder,anorexia nerviosa|AN|anorexia,Q112193867,Q373822|Q12135,Anorexia
+ANE PS 15dow,Antwerp,Q12892,23,0,2,city and municipality in the Flemish Region of Belgium; capital and largest city of Antwerp Province; third-largest municipality in Belgium by area,City of Antwerp|Antwerpen,Q15273785|Q493522|Q2264924,,Antwerp
+ANE PS 15dow,Angewandte Chemie International Edition,Q62023953,23,0,2,English-language scientific journal,,Q5633421|Q5953270|Q35127,,Angewandte Chemie International Edition
+ANE PS 15dow,Andrew,Q18042461,23,0,2,male given name,,Q12308941,,Andrew
+ANE PS 15dow,Antonio,Q7141520,23,0,2,male given name,,Q12308941,,Antonio
+ANE PS 15dow,Anne,Q564684,23,0,2,female given name,Anne (given name)|Anne (first name),Q11879590,,Anne
+ANE PS 15dow,Andreas,Q4926263,23,0,2,male given name,Andreas (given name)|Andreas (first name),Q12308941,,Andreas
+ANE PS 15dow,Annals of Oncology,Q326122,23,0,2,peer-reviewed scientific journal,Ann Oncol|Annals of Oncology (Dordrecht),Q5633421|Q5953270|Q16024164,,Annals of Oncology
+ANE PS 15dow,An,Q20137858,23,0,2,unisex given name,An (first name)|An (given name),Q3409032,,
+SN 1992bm,SN 1992bm,Q9327148,24,0,1,supernova,,Q3937,,
+SN 1992bm,minor planet,Q1022867,24,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1992bm,Minor Planet Center database,Q106600690,24,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1992bm,Minor Planet Center,Q522039,24,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1992bm,minor planet moon,Q657829,24,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1992bm,Minor Planet Circulars,Q6382430,24,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1992bm,minor planet group,Q2332332,24,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1992bm,list of minor planets,Q37651,24,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1992bm,Minor planet designation,Q817125,24,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1992bm,Minor Planet Bulletin,Q6869125,24,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1992bm,Minor Planet Catalogue,Q55178248,24,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1992bm,asteroid,Q3863,24,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1992bm,asteroid belt,Q2179,24,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1992bm,Asteroid,Q4810751,24,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1992bm,Asteroid,Q113629153,24,0,2,early access video game,,Q7889,,
+SN 1992bm,starfish,Q25349,24,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1992bm,Asteroid,Q132852203,24,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1992bm,Asteroideae,Q21004,24,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1992bm,Asteroids,Q748890,24,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1992bm,Asteroid Terrestrial-impact Last Alert System,Q17002475,24,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1992bm,Vesta,Q3030,24,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta

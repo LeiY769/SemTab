@@ -1,0 +1,248 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Stallinon,Sellenbüren,Q687928,0,0,2,"hamlet in the municipality of Stallikon in the canton of Zurich, Switzerland",Sellenburen,Q5084,,
+Stallinon,von Sellenbüren,Q96381694,0,0,2,,"Sellenbüren, von|Sellenbüren",Q8436,,
+Stallinon,"Sellenbüren / Ofengüpf, medieval castle site",Q1013983,0,0,2,"castle ruin in Stallikon in the canton of Zürich, Switzerland",,Q839954|Q17715832|Q15710038,,
+Stallinon,Sellenbüren,Q2268420,0,0,2,family,,Q13417114,,
+Stallinon,Sellenbüren / Rainstrasse-Hofstetterweidweg,Q22560676,0,0,2,,,Q123705,,
+Stallinon,Sellenbüren / Alt-Uetlibergweg,Q22560651,0,0,2,,,Q123705,,
+Stallinon,Sellenbüren / Büel,Q22560669,0,0,2,,,Q123705,,
+Stallinon,Sellenbüren / Weidelacher,Q22560686,0,0,2,,,Q123705,,
+Stallinon,Sellenbüren / Atrium,Q22560661,0,0,2,,,Q123705,,
+Stallinon,Sellenbüren / Zügnis,Q22560696,0,0,2,,,Q123705,,
+Sellenbüren,Sellenbüren,Q687928,0,2,1,"hamlet in the municipality of Stallikon in the canton of Zurich, Switzerland",Sellenburen,Q5084,,
+Sellenbüren,von Sellenbüren,Q96381694,0,2,1,,"Sellenbüren, von|Sellenbüren",Q8436,,
+Sellenbüren,"Sellenbüren / Ofengüpf, medieval castle site",Q1013983,0,2,1,"castle ruin in Stallikon in the canton of Zürich, Switzerland",,Q839954|Q17715832|Q15710038,,
+Sellenbüren,Sellenbüren,Q2268420,0,2,1,family,,Q13417114,,
+Sellenbüren,Sellenbüren / Rainstrasse-Hofstetterweidweg,Q22560676,0,2,1,,,Q123705,,
+Sellenbüren,Sellenbüren / Alt-Uetlibergweg,Q22560651,0,2,1,,,Q123705,,
+Sellenbüren,Sellenbüren / Büel,Q22560669,0,2,1,,,Q123705,,
+Sellenbüren,Sellenbüren / Weidelacher,Q22560686,0,2,1,,,Q123705,,
+Sellenbüren,Sellenbüren / Atrium,Q22560661,0,2,1,,,Q123705,,
+Sellenbüren,Sellenbüren / Zügnis,Q22560696,0,2,1,,,Q123705,,
+Ligfrz,Bipschal,Q56257352,1,0,2,"human settlement in the municipality of Ligerz in the canton of Bern, Switzerland",,Q486972|Q123705,,
+Ligfrz,Ligerz,Q69495,1,0,2,municipality in the canton of Bern in Switzerland,Ligerz BE,Q70208,,Ligerz
+Bipschal,Bipschal,Q56257352,1,2,1,"human settlement in the municipality of Ligerz in the canton of Bern, Switzerland",,Q486972|Q123705,,
+Bipschal,Ligerz,Q69495,1,2,1,municipality in the canton of Bern in Switzerland,Ligerz BE,Q70208,,Ligerz
+hlieren,Schlieren,Q69148,2,0,2,municipality in Switzerland,Schlieren ZH,Q70208|Q54935504,,"Schlieren, Switzerland"
+hlieren,Schlierenwagen,Q2239719,2,0,2,,,Q811704,,
+hlieren,Schlieren railway station,Q1960753,2,0,2,"railway station in Switzerland, situated in the municipality of Schlieren",,Q55488,,Schlieren railway station
+hlieren,schlieren,Q11778649,2,0,2,optical inhomogeneities in transparent material,,Q483247,,Schlieren
+hlieren,Schlieren,Q22544918,2,0,2,mountain in Switzerland,,Q8502,,
+hlieren,Schlieren,Q22544939,2,0,2,Town in Switzerland,,Q486972,,
+hlieren,Schlieren,Q123307052,2,0,2,1960 film by Peter De Normanville,,Q24862,,
+hlieren,schlieren photography,Q521426,2,0,2,process to photograph fluid flow,,Q1439691,,Schlieren photography
+hlieren,Schlieren / Brunnacker,Q22544957,2,0,2,,,Q123705,,
+hlieren,Schlieren / Zentrum,Q22545069,2,0,2,,,Q123705,,
+hlieren,Zentrum,Q1069566,2,0,2,"central quarter of Chemnitz, Saxony, Germany",Chemnitz-Zentrum,Q79424059|Q676050,,
+hlieren,Centre Party,Q157537,2,0,2,catholic political party in Germany,Deutsche Zentrumspartei|Zentrum|ZP,Q2023214|Q354239,,Centre Party (Germany)
+hlieren,Zentrum,Q108769568,2,0,2,locality of Leipzig,Zentrum (Leipzig)|Leipzig-Zentrum,Q110710943,,
+hlieren,Zentrum,Q109567834,2,0,2,"tram stop in Frankfurt (Oder), Germany",,Q2175765,,
+hlieren,zentrum,Q20741837,2,0,2,"installation by Dorit Margreiter, Museum of Modern Art",,Q20437094,,
+hlieren,Zentrum,Q105438267,2,0,2,Union for workers in the automotive industry,Zentrum Automobil,Q178790,,Zentrum (association)
+hlieren,Zentrum danziger50,Q85972061,2,0,2,building in Germany,,Q41176,,
+hlieren,Zentrum Paul Klee,Q191189,2,0,2,"museum collection in the city of Bern, Switzerland",Zentrum Paul Klee - Maurice E. and Martha Müller Foundation|ZPK,Q207694|Q1497649|Q163740|Q33506,,Zentrum Paul Klee
+hlieren,centrism,Q6587194,2,0,2,political outlook or specific position,centre|center|centrist|political center|political centre,Q12909644|Q28819924,Q28819924,Centrism
+hlieren,Zentrum,Q191167,2,0,2,"quarter of Tübingen, Baden-Württemberg, Germany",,Q253019,,
+Schlieren / Zentrum,Schlieren / Zentrum,Q22545069,2,2,1,,,Q123705,,
+Schlieren / Zentrum,Schlieren,Q69148,2,2,2,municipality in Switzerland,Schlieren ZH,Q70208|Q54935504,,"Schlieren, Switzerland"
+Schlieren / Zentrum,Schlierenwagen,Q2239719,2,2,2,,,Q811704,,
+Schlieren / Zentrum,Schlieren railway station,Q1960753,2,2,2,"railway station in Switzerland, situated in the municipality of Schlieren",,Q55488,,Schlieren railway station
+Schlieren / Zentrum,schlieren,Q11778649,2,2,2,optical inhomogeneities in transparent material,,Q483247,,Schlieren
+Schlieren / Zentrum,Schlieren,Q22544918,2,2,2,mountain in Switzerland,,Q8502,,
+Schlieren / Zentrum,Schlieren,Q22544939,2,2,2,Town in Switzerland,,Q486972,,
+Schlieren / Zentrum,Schlieren,Q123307052,2,2,2,1960 film by Peter De Normanville,,Q24862,,
+Schlieren / Zentrum,schlieren photography,Q521426,2,2,2,process to photograph fluid flow,,Q1439691,,Schlieren photography
+Schlieren / Zentrum,Schlieren / Brunnacker,Q22544957,2,2,2,,,Q123705,,
+Schlieren / Zentrum,Zentrum,Q1069566,2,2,2,"central quarter of Chemnitz, Saxony, Germany",Chemnitz-Zentrum,Q79424059|Q676050,,
+Schlieren / Zentrum,Centre Party,Q157537,2,2,2,catholic political party in Germany,Deutsche Zentrumspartei|Zentrum|ZP,Q2023214|Q354239,,Centre Party (Germany)
+Schlieren / Zentrum,Zentrum,Q108769568,2,2,2,locality of Leipzig,Zentrum (Leipzig)|Leipzig-Zentrum,Q110710943,,
+Schlieren / Zentrum,Zentrum,Q109567834,2,2,2,"tram stop in Frankfurt (Oder), Germany",,Q2175765,,
+Schlieren / Zentrum,zentrum,Q20741837,2,2,2,"installation by Dorit Margreiter, Museum of Modern Art",,Q20437094,,
+Schlieren / Zentrum,Zentrum,Q105438267,2,2,2,Union for workers in the automotive industry,Zentrum Automobil,Q178790,,Zentrum (association)
+Schlieren / Zentrum,Zentrum danziger50,Q85972061,2,2,2,building in Germany,,Q41176,,
+Schlieren / Zentrum,Zentrum Paul Klee,Q191189,2,2,2,"museum collection in the city of Bern, Switzerland",Zentrum Paul Klee - Maurice E. and Martha Müller Foundation|ZPK,Q207694|Q1497649|Q163740|Q33506,,Zentrum Paul Klee
+Schlieren / Zentrum,centrism,Q6587194,2,2,2,political outlook or specific position,centre|center|centrist|political center|political centre,Q12909644|Q28819924,Q28819924,Centrism
+Schlieren / Zentrum,Zentrum,Q191167,2,2,2,"quarter of Tübingen, Baden-Württemberg, Germany",,Q253019,,
+Domlgschg,Tomils,Q70693,3,0,2,"village and former municipality in Domleschg in the canton of Grisons, Switzerland",Tomils GR,Q685309|Q532,,Tomils
+Domlgschg,Tomilson,Q36931840,3,0,2,family name,,Q101352,,
+Domlgschg,Tomilsons Hill,Q97334983,3,0,2,"hill in Guyra LGA, New South Wales, Australia",,Q54050,,
+Domlgschg,Tomils,Q1615849,3,0,2,Wikimedia disambiguation page,,Q4167410,,
+Domlgschg,unidentified entity,Q120725535,3,0,2,,,,Q35120,
+Tomils,Tomils,Q70693,3,2,1,"village and former municipality in Domleschg in the canton of Grisons, Switzerland",Tomils GR,Q685309|Q532,,Tomils
+Tomils,Tomilson,Q36931840,3,2,1,family name,,Q101352,,
+Tomils,Tomilsons Hill,Q97334983,3,2,1,"hill in Guyra LGA, New South Wales, Australia",,Q54050,,
+Tomils,Tomils,Q1615849,3,2,1,Wikimedia disambiguation page,,Q4167410,,
+cublens,Ecublens,Q69716,4,0,2,"municipality in the canton of Vaud, Switzerland","Écublens, Vaud|Écublens VD|Ecublens VD|Ecublens (Vaud)|Écublens, Canton of Vaud, Switzerland|Écublens|Ecublens (VD)",Q70208|Q54935504,,"Écublens, Vaud"
+cublens,Ecublens,Q70481,4,0,2,"municipality in the canton of Fribourg, Switzerland","Ecublens FR|Écublens FR|Écublens, Canton of Fribourg, Switzerland|Écublens, Fribourg|Écublens",Q70208|Q685309,,"Écublens, Fribourg"
+cublens,Ecublens,Q1282241,4,0,2,noble family,,Q13417114,,
+cublens,Ecublens,Q22366537,4,0,2,"locality in the canton of Fribourg, Switzerland",,Q486972,,
+cublens,Cemetery of Écublens,Q115681936,4,0,2,"graveyard in the canton of Vaud, Switzerland",Cimetiere d'Écublens|Écublens cemetery,Q39614,,
+cublens,Ecublens-Rue railway station,Q15964106,4,0,2,railway station in Switzerland,,Q55488,,Ecublens-Rue railway station
+cublens,Ecublens,Q22366556,4,0,2,,,Q486972,,
+cublens,Écublens,Q441798,4,0,2,Wikimedia disambiguation page,Ecublens,Q4167410,,Écublens
+cublens,University of Fribourg,Q36188,4,0,2,"university in the city of Fribourg, Switzerland",UNIFR|Université de Fribourg|Universitas Friburgensis|Universite de Fribourg|Uni Fribourg|studies.unifr.ch,Q875538|Q1767829,,University of Fribourg
+cublens,"Department of Mathematics, University of Fribourg",Q131700225,4,0,2,,"University of Fribourg, Department of Mathematics",Q11499626,,
+cublens,FOLIA Fribourg Open Library and Archive,Q131742235,4,0,2,"repository of the University of Fribourg, Switzerland",Folia|Unifr Folia|Folia Unifr|University of Fribourg repository|Fribourg Open Library and Archive,Q7096323|Q1065413,,
+Ecublens,Ecublens,Q69716,4,2,1,"municipality in the canton of Vaud, Switzerland","Écublens, Vaud|Écublens VD|Ecublens VD|Ecublens (Vaud)|Écublens, Canton of Vaud, Switzerland|Écublens|Ecublens (VD)",Q70208|Q54935504,,"Écublens, Vaud"
+Ecublens,Ecublens,Q70481,4,2,1,"municipality in the canton of Fribourg, Switzerland","Ecublens FR|Écublens FR|Écublens, Canton of Fribourg, Switzerland|Écublens, Fribourg|Écublens",Q70208|Q685309,,"Écublens, Fribourg"
+Ecublens,Ecublens,Q1282241,4,2,1,noble family,,Q13417114,,
+Ecublens,Ecublens,Q22366537,4,2,1,"locality in the canton of Fribourg, Switzerland",,Q486972,,
+Ecublens,Cemetery of Écublens,Q115681936,4,2,1,"graveyard in the canton of Vaud, Switzerland",Cimetiere d'Écublens|Écublens cemetery,Q39614,,
+Ecublens,Ecublens-Rue railway station,Q15964106,4,2,1,railway station in Switzerland,,Q55488,,Ecublens-Rue railway station
+Ecublens,Ecublens,Q22366556,4,2,1,,,Q486972,,
+Ecublens,Écublens,Q441798,4,2,1,Wikimedia disambiguation page,Ecublens,Q4167410,,Écublens
+inden,Inden,Q106402919,5,0,1,family name,,Q101352,,
+inden,Inden,Q199977,5,0,1,"municipality in the Düren district, in North Rhine-Westphalia, Germany",,Q116457956,,"Inden, North Rhine-Westphalia"
+inden,Inden,Q67789,5,0,1,"municipality in the canton of Valais, Switzerland","Inden VS|Inden, Switzerland",Q70208,,"Inden, Switzerland"
+inden,Inden,Q10534937,5,0,1,,,,,
+inden,indene,Q421008,5,0,1,chemical compound,Indonaphthene,Q113145171,Q50377151|Q407212,Indene
+inden,indene,Q50377151,5,0,1,any organic compound having a benzene ring fused with a cyclopentadiene ring,indenes,Q47154513,Q426145|Q57842052,
+inden,Inden,Q32062367,5,0,1,,,Q15303838,,
+inden,Indentina,Q61678548,5,0,1,genus of molluscs,,Q16521,,
+inden,Instituto Nacional de la Diabetes,Q50035421,5,0,1,"healthcare organization in Santo Domingo, Dominican Republic",INDEN,Q4287745,,
+inden,Inden surface mine,Q1674024,5,0,1,,,Q113681824,,
+inden,Linden,Q1826011,5,0,2,family name,,Q101352,,Linden (surname)
+inden,Linden,Q982431,5,0,2,"city in and county seat of Cass County, Texas, United States","Linden, Texas|Linden, TX",Q1093829,,"Linden, Texas"
+inden,Linden,Q14627081,5,0,2,male given name,,Q12308941,,Linden (given name)
+inden,Linden,Q284492,5,0,2,municipality of Germany,,Q116457956,,"Linden, Kaiserslautern"
+inden,Lindén,Q4276862,5,0,2,family name,,Q101352,,Lindén
+inden,Linden-Limmer,Q1826001,5,0,2,"district of Hanover, Germany",Hannover-Linden-Limmer,Q15727673,,Linden-Limmer
+inden,Linden,Q69467018,5,0,2,,,Q17376095,,
+inden,Linden,Q114694718,5,0,2,"hamlet in Upper Franconia, district of Selb",,Q5084|Q253019,,
+inden,limewood,Q575018,5,0,2,wood from of any of several trees of the genus Tilia,lime wood|linden|basswood|Tilia (wood)|Tilia,Q1493054,Q2266509,
+inden,Jean Jules Linden,Q781362,5,0,2,Belgian botanist (1817-1898),Linden|J. J. Linden,Q5,,Jean Jules Linden
+Linden,Linden,Q1826011,5,2,1,family name,,Q101352,,Linden (surname)
+Linden,Linden,Q982431,5,2,1,"city in and county seat of Cass County, Texas, United States","Linden, Texas|Linden, TX",Q1093829,,"Linden, Texas"
+Linden,Linden,Q14627081,5,2,1,male given name,,Q12308941,,Linden (given name)
+Linden,Linden,Q284492,5,2,1,municipality of Germany,,Q116457956,,"Linden, Kaiserslautern"
+Linden,Lindén,Q4276862,5,2,1,family name,,Q101352,,Lindén
+Linden,Linden-Limmer,Q1826001,5,2,1,"district of Hanover, Germany",Hannover-Linden-Limmer,Q15727673,,Linden-Limmer
+Linden,Linden,Q69467018,5,2,1,,,Q17376095,,
+Linden,Linden,Q114694718,5,2,1,"hamlet in Upper Franconia, district of Selb",,Q5084|Q253019,,
+Linden,limewood,Q575018,5,2,1,wood from of any of several trees of the genus Tilia,lime wood|linden|basswood|Tilia (wood)|Tilia,Q1493054,Q2266509,
+Linden,Jean Jules Linden,Q781362,5,2,1,Belgian botanist (1817-1898),Linden|J. J. Linden,Q5,,Jean Jules Linden
+Linden,Tilia,Q127849,5,2,2,genus of plants,Basswood genus|Linden genus|Lime genus|lime tree|linden tree,Q16521,Q148993|Q10884,Tilia
+Linden,Tilia,Q20001525,5,2,2,female given name,,Q11879590,,
+Linden,Tiliaceae,Q1929656,5,2,2,family of plants,,Q16521,,Tiliaceae
+Linden,Tilia tomentosa,Q161382,5,2,2,species of plant,Tilia argentea|silver lime|silver linden|white linden,Q16521,Q127849,Tilia tomentosa
+Linden,Tilia cordata,Q158746,5,2,2,species of plant,small-leaved lime|small-leaved linden|little-leaf|littleleaf linden|pry|pry tree,Q16521,Q11992872,Tilia cordata
+Linden,Tiliacora,Q7802150,5,2,2,genus of plants,,Q16521,,Tiliacora
+Linden,Tilia platyphyllos,Q156831,5,2,2,species of tree,large-leaved lime|large-leaved linden|largeleaf linden,Q16521,Q11992872,Tilia platyphyllos
+Linden,Tiliacora triandra,Q368247,5,2,2,species of flowering plant,,Q16521,Q917284,Tiliacora triandra
+Linden,Tiliacora acuminata,Q17808351,5,2,2,species of plant,,Q16521,,Tiliacora acuminata
+Linden,Tilia americana,Q163981,5,2,2,species of plant,American basswood|American linden|basswood|American lime,Q16521,,Tilia americana
+Linden,Tilia americana var. americana,Q22112569,5,2,2,variety of plant,American basswood|American linden|basswood,Q16521,,
+Linden,American Linden,Q124363076,5,2,2,chapter in Flora's Lexicon,,Q1980247,,
+Linden,American Linden in Odesa,Q28706658,5,2,2,"botanical natural monument in Odesa Oblast, Ukraine",,Q20071150,,
+Linden,"American linden, Tilia americana",Q34653874,5,2,2,scientific article,,Q13442814,,
+Geruau,,,6,0,0,,,,,
+Zupikon,Zumikon,Q66898,7,0,2,municipality in Switzerland,Zumikon ZH,Q70208,,Zumikon
+Zupikon,Zumikon,Q22658742,7,0,2,human settlement (Switzerland),,Q486972,,
+Zupikon,Zumikon railway station,Q33455933,7,0,2,train station in Switzerland,,Q55488|Q22808403,,
+Zupikon,Zumikon / Fadacher,Q22658759,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Grund,Q22658779,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Rebhus,Q22658827,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Farlifang,Q22658763,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Unterdorf,Q22658839,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Isleren,Q22658795,7,0,2,,,Q123705,,
+Zupikon,Zumikon / Maiacher,Q22658809,7,0,2,,,Q123705,,
+Zumikon / Fadacher,Zumikon / Fadacher,Q22658759,7,2,1,,,Q123705,,
+chyz,Chyzeriidae,Q10452696,8,0,1,family of arthropods,,Q16521,,
+chyz,Chyżne,Q4176295,8,0,1,"village in Lesser Poland, Poland",Chizsne,Q3558970,,Chyżne
+chyz,Chyzeria,Q18092937,8,0,1,genus of Arachnida,,Q16521,,
+chyz,Chyzeriinae,Q21214135,8,0,1,,,Q16521,,
+chyz,Chyzerioidea,Q21074555,8,0,1,superfamily of arachnids,,Q16521,,
+chyz,Chyzeroidea,Q20056466,8,0,1,,,Q16521,,
+chyz,Chyzowych,Q101014044,8,0,1,family name,,Q101352,,
+chyz,Chyzy,Q111760756,8,0,1,family name,Chyzy (family name)|Chyzy (surname),Q101352,,
+chyz,Čyžoŭskija Cemetery,Q21590725,8,0,1,"cemetery in Minsk, Belarus",Chizhovskoe Cemetery|Chyzhowskiya Cemetery|Chyzhouskiya Cemetery|Chizhovskoye Cemetery,Q39614,,
+chyz,Chyžné,Q578101,8,0,1,municipality of Slovakia,,Q6784672,,Chyžné
+chyz,Schwyz District,Q74818,8,0,2,district of the canton of Schwyz in Switzerland,Bezirk Schwyz,Q3032124,,Schwyz District
+chyz,Schwyz,Q13142902,8,0,2,village in Schwyz SZ in the canton of Schwyz in Switzerland,,Q532,,
+chyz,Schwyz,Q68155,8,0,2,capital of the canton of Schwyz in Switzerland,Schwyz SZ,Q70208|Q14770218|Q54935504,,Schwyz
+chyz,Switzerland,Q39,8,0,2,country in Central Europe,Swiss Confederation|Swiss|Confoederatio Helvetica,Q7275|Q123480|Q170156|Q687554|Q43702|Q206696|Q3624078|Q6256,,Switzerland
+chyz,Schwyz,Q2257950,8,0,2,ship built 1959,,Q402092,,
+chyz,Schwyzer,Q7433303,8,0,2,family name,,Q101352,,Schwyzer
+chyz,Schwyz,Q60349775,8,0,2,,,Q402092,,
+chyz,Canton of Schwyz,Q12433,8,0,2,canton of Switzerland,Schwytz|Kanton Schwyz|Canton of Schwytz|SZ,Q23058,,Canton of Schwyz
+chyz,Schwyz railway station,Q677588,8,0,2,railway station in Switzerland,,Q55488,,Schwyz railway station
+chyz,Schwyzer Voralpen,Q671289,8,0,2,mountain range,Schwyz and Uri Prealps,Q46831,,
+chyz,"Chyże, Lublin Voivodeship",Q5118633,8,0,2,"village in Lublin, Poland",Chyże,Q3558970,,"Chyże, Lublin Voivodeship"
+chyz,"Chyże, West Pomeranian Voivodeship",Q5118635,8,0,2,"settlement in West Pomeranian, Poland",Chyże,Q3558970,,"Chyże, West Pomeranian Voivodeship"
+chyz,"Chyże, Lubusz Voivodeship",Q5118634,8,0,2,"village in Lubusz, Poland",,Q3558970,,"Chyże, Lubusz Voivodeship"
+chyz,Chyzeria novaezealandiae,Q10452695,8,0,2,species of arthropod,,Q16521,,
+chyz,Chyzeria derricki,Q21246888,8,0,2,species of Arachnida,,Q16521,,
+Schwyz,Schwyz District,Q74818,8,2,1,district of the canton of Schwyz in Switzerland,Bezirk Schwyz,Q3032124,,Schwyz District
+Schwyz,Schwyz,Q13142902,8,2,1,village in Schwyz SZ in the canton of Schwyz in Switzerland,,Q532,,
+Schwyz,Schwyz,Q68155,8,2,1,capital of the canton of Schwyz in Switzerland,Schwyz SZ,Q70208|Q14770218|Q54935504,,Schwyz
+Schwyz,Switzerland,Q39,8,2,1,country in Central Europe,Swiss Confederation|Swiss|Confoederatio Helvetica,Q7275|Q123480|Q170156|Q687554|Q43702|Q206696|Q3624078|Q6256,,Switzerland
+Schwyz,Schwyz,Q2257950,8,2,1,ship built 1959,,Q402092,,
+Schwyz,Schwyzer,Q7433303,8,2,1,family name,,Q101352,,Schwyzer
+Schwyz,Schwyz,Q60349775,8,2,1,,,Q402092,,
+Schwyz,Canton of Schwyz,Q12433,8,2,1,canton of Switzerland,Schwytz|Kanton Schwyz|Canton of Schwytz|SZ,Q23058,,Canton of Schwyz
+Schwyz,Schwyz railway station,Q677588,8,2,1,railway station in Switzerland,,Q55488,,Schwyz railway station
+Schwyz,Schwyzer Voralpen,Q671289,8,2,1,mountain range,Schwyz and Uri Prealps,Q46831,,
+Schwyz,Schwyz cantonal archives,Q14848094,8,2,2,cantonal Archives in Schwyz in the Canton of Schwyz in Switzerland,state archives of the canton of Schwyz|cantonal archives Schwyz|Staatsarchiv Schwyz,Q1497649|Q2860410,,
+Schwyz,Schwyz Cantonal Police,Q56705179,8,2,2,cantonal police in the Swiss canton of Schwyz,,Q665913,,
+Radelfinien,Radelfingen,Q22647671,9,0,2,Settlement within the municipality of the same name in Switzerland,,Q486972,,
+Radelfinien,Radelfingen,Q67140,9,0,2,municipality in the canton of Switzerland,Radelfingen BE,Q70208|Q11183787,,Radelfingen
+Radelfinien,Vechigen,Q66852,9,0,2,municipality in the canton of Bern in Switzerland,Vechigen BE,Q70208,,Vechigen
+Radelfinien,Radelfingen,Q12354339,9,0,2,Wikimedia disambiguation page,,Q4167410,,
+Radelfingen,Radelfingen,Q22647671,9,2,1,Settlement within the municipality of the same name in Switzerland,,Q486972,,
+Radelfingen,Radelfingen,Q67140,9,2,1,municipality in the canton of Switzerland,Radelfingen BE,Q70208|Q11183787,,Radelfingen
+Radelfingen,Vechigen,Q66852,9,2,1,municipality in the canton of Bern in Switzerland,Vechigen BE,Q70208,,Vechigen
+Radelfingen,Radelfingen,Q12354339,9,2,1,Wikimedia disambiguation page,,Q4167410,,
+Seuzch,Seuzach Dorf / Kirchgasse,Q22565006,10,0,2,,,Q123705,,
+Seuzch,Seuzach Dorf / Breite-Weid,Q22564982,10,0,2,,,Q123705,,
+Seuzch,Seuzach,Q65805,10,0,2,municipality in the canton of Zürich in Switzerland,Seuzach ZH,Q70208,,Seuzach
+Seuzch,Seuzach Dorf / Pünten-Ifang,Q22565017,10,0,2,,,Q123705,,
+Seuzch,Seuzach Dorf / Hochgrüt-Scheidweg,Q22564997,10,0,2,,,Q123705,,
+Seuzch,Seuzach Dorf / Erdbüel-Halden,Q22564989,10,0,2,,,Q123705,,
+Seuzch,Seuzach Dorf / Brandbüel,Q22564970,10,0,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Kirchgasse,Q22565006,10,2,1,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Breite-Weid,Q22564982,10,2,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach,Q65805,10,2,2,municipality in the canton of Zürich in Switzerland,Seuzach ZH,Q70208,,Seuzach
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Pünten-Ifang,Q22565017,10,2,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Hochgrüt-Scheidweg,Q22564997,10,2,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Erdbüel-Halden,Q22564989,10,2,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Seuzach Dorf / Brandbüel,Q22564970,10,2,2,,,Q123705,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q556115,10,2,2,"thoroughfare in Wiesbaden, Germany",,Q83620,,Kirchgasse
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q101236245,10,2,2,"street in Neschwitz, Saxony, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q100535867,10,2,2,"street in Gotha, Thuringia, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q114437135,10,2,2,"tram stop in Kassel, Germany",,Q2175765,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q130562466,10,2,2,"street in Rommerskirchen, North Rhine-Westphalia, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q1743273,10,2,2,"street in Berlin-Neukölln, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q83182472,10,2,2,"street in Bautzen, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q105924457,10,2,2,"street in Obercunnersdorf, Saxony, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q65768888,10,2,2,"street in Senftenberg, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Kirchgasse,Q101116224,10,2,2,"street in Hirschfelde, Saxony, Germany",,Q79007,,
+Seuzach Dorf / Kirchgasse,Dorf,Q16869635,10,2,2,family name,,Q101352,,Dorf (surname)
+Seuzach Dorf / Kirchgasse,village,Q532,10,2,2,small clustered human settlement smaller than a town,small town,Q98966309,Q10354598,Village
+Seuzach Dorf / Kirchgasse,Tirol,Q504179,10,2,2,"municipality in South Tyrol, Italy","Dorf Tirol|Tirolo|Tirol, South Tyrol",Q747074,,"Tirol, South Tyrol"
+Seuzach Dorf / Kirchgasse,Dorfchemnitz,Q70946,10,2,2,municipality of Germany,,Q116457956,,Dorfchemnitz
+Seuzach Dorf / Kirchgasse,village of the People's Republic of China,Q13100073,10,2,2,type of grassroots mass autonomous organization and the 5th level of administrative divisions in China PRC,villages of the PRC|villages in the PRC|villages of the People's Republic of China|villages in the People's Republic of China|cun|cuns|tsun|tsuns|Chinese village|Chinese villages|villages of China|villages in China|village of China|village in China (PRC)|village of China (PRC)|Chinese village (old entity),Q28872924,Q10930275|Q532|Q16480895|Q15640612,Village (China)
+Seuzach Dorf / Kirchgasse,Dorf,Q82723871,10,2,2,human settlement in Melk district,,Q486972,,
+Seuzach Dorf / Kirchgasse,Dorf,Q134514235,10,2,2,in Austria: a village with 10 or more residential buildings,,,Q15851214|Q532,
+Seuzach Dorf / Kirchgasse,Dorf,Q70283,10,2,2,municipality in Switzerland,Dorf ZH,Q70208,,"Dorf, Switzerland"
+Seuzach Dorf / Kirchgasse,Dörflingen,Q69107,10,2,2,municipality in the canton of Schaffhausen in Switzerland,Dörflingen SH|Dorflingen|Doerflingen,Q70208,,Dörflingen
+Seuzach Dorf / Kirchgasse,Dorfman,Q21491308,10,2,2,family name,,Q101352,,Dorfman
+Seuzach Dorf / Kirchgasse,Kirch,Q21491158,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,kirch,Q1989839,10,2,2,"term for Lutheran church organizations in Russia, Ukraine etc.",church (congregation),,Q2638480|Q20820021,
+Seuzach Dorf / Kirchgasse,Kirchrode-Bemerode-Wülferode,Q1743368,10,2,2,"city district in Hanover, Germany",,Q15727673,,Kirchrode-Bemerode-Wülferode
+Seuzach Dorf / Kirchgasse,church building,Q16970,10,2,2,building for Christian worship,kirk|christian temple|meetinghouse|church meetinghouse|church,Q811102,Q24398318|Q44539|Q17350442,Church (building)
+Seuzach Dorf / Kirchgasse,Kirchzarten,Q528089,10,2,2,"municipality in Baden-Württemberg, Germany",,Q116457956,,Kirchzarten
+Seuzach Dorf / Kirchgasse,Kirchroth,Q179520,10,2,2,German municipality,,Q116457956,,Kirchroth
+Seuzach Dorf / Kirchgasse,Kirchheim,Q527390,10,2,2,"municipality in Würzburg, Lower Franconia, Bavaria, Germany","Kirchheim, Lower Franconia|Kirchheim/Unterfranken",Q116457956,,"Kirchheim, Lower Franconia"
+Seuzach Dorf / Kirchgasse,Kirchberg an der Jagst,Q82372,10,2,2,municipality in Germany,,Q42744322,,Kirchberg an der Jagst
+Seuzach Dorf / Kirchgasse,Kirchanschöring,Q265312,10,2,2,municipality in the Upper Bavarian district of Traunstein in Germany,,Q116457956,,Kirchanschöring
+Seuzach Dorf / Kirchgasse,Kirchberg am Wagram,Q674246,10,2,2,"municipality in Tulln District, Lower Austria, Austria",,Q562061|Q667509,,Kirchberg am Wagram
+Seuzach Dorf / Kirchgasse,Gasse,Q42964857,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,Gaße,Q83495744,10,2,2,family name,Gaße (family name)|Gaße (surname),Q101352,,
+Seuzach Dorf / Kirchgasse,Gasser,Q21506814,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,trigeminal ganglion,Q776972,10,2,2,sensory ganglion of the trigeminal nerve,gasserian ganglion|ganglion semilunare|ganglion Gasseri|ganglion trigemini,Q112826905,Q66501932|Q5182128|Q112826975,Trigeminal ganglion
+Seuzach Dorf / Kirchgasse,Jasień,Q164241,10,2,2,city in the Lubusz Voivodeship in Poland,Gassen,Q3957,,"Jasień, Lubusz Voivodeship"
+Seuzach Dorf / Kirchgasse,Gasset,Q29512084,10,2,2,family name,,Q101352,,Gasset
+Seuzach Dorf / Kirchgasse,Gasselin,Q63760128,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,Gassert,Q37320238,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,Gassen,Q37475964,10,2,2,family name,,Q101352,,
+Seuzach Dorf / Kirchgasse,alley,Q1251403,10,2,2,narrow street,alleyway|laneway|lane|side street|pereulok,Q7860962,Q79007,Alley

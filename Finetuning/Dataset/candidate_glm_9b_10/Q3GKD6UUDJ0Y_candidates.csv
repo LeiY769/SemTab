@@ -1,0 +1,47 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+MENfaCS Abell795-7-13-2 SN,supernova,Q3937,0,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+MENfaCS Abell795-7-13-2 SN,Senegal,Q1041,0,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+MENfaCS Abell795-7-13-2 SN,substantia nigra,Q753278,0,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+MENfaCS Abell795-7-13-2 SN,tin,Q1096,0,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+MENfaCS Abell795-7-13-2 SN,Great Norwegian Encyclopedia,Q746368,0,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+MENfaCS Abell795-7-13-2 SN,snowboarding,Q178131,0,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+MENfaCS Abell795-7-13-2 SN,SNAC,Q29861311,0,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+MENfaCS Abell795-7-13-2 SN,Science News,Q2313730,0,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+MENfaCS Abell795-7-13-2 SN,Shona Wikipedia,Q8571809,0,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+MENfaCS Abell795-7-13-2 SN,SciGraph,Q65509402,0,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+N 1955G,,,1,0,0,,,,,
+SN 1999w,SN 1999W,Q9327737,2,0,1,supernova,,Q3937,,
+SN 1999w,minor planet,Q1022867,2,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1999w,Minor Planet Center database,Q106600690,2,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1999w,Minor Planet Center,Q522039,2,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1999w,minor planet moon,Q657829,2,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1999w,Minor Planet Circulars,Q6382430,2,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1999w,minor planet group,Q2332332,2,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1999w,list of minor planets,Q37651,2,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1999w,Minor planet designation,Q817125,2,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1999w,Minor Planet Bulletin,Q6869125,2,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1999w,Minor Planet Catalogue,Q55178248,2,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1999w,asteroid,Q3863,2,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1999w,asteroid belt,Q2179,2,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1999w,Asteroid,Q4810751,2,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1999w,Asteroid,Q113629153,2,0,2,early access video game,,Q7889,,
+SN 1999w,starfish,Q25349,2,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1999w,Asteroid,Q132852203,2,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1999w,Asteroideae,Q21004,2,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1999w,Asteroids,Q748890,2,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1999w,Asteroid Terrestrial-impact Last Alert System,Q17002475,2,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1999w,Vesta,Q3030,2,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 1998c,SN 1998C,Q9327556,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998cf,Q9327634,3,0,1,supernova,,Q3937|Q67206691,,
+SN 1998c,SN 1998cm,Q9327643,3,0,1,supernova,,Q3937|Q67206691,,
+SN 1998c,SN 1998cu,Q9327651,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998cp,Q9327646,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998cs,Q9327648,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998cj,Q9327638,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998cg,Q9327636,3,0,1,supernova,,Q3937,,
+SN 1998c,SN 1998ck,Q9327641,3,0,1,supernova,,Q3937|Q67206691,,
+SN 1998c,SN 1998cx,Q9327654,3,0,1,supernova,,Q3937,,
+N 1963L,,,4,0,0,,,,,
+O 2002er,,,5,0,0,,,,,
+SN 97,Brollier Airport,Q35247813,6,0,2,"airport in Stevens County, Kansas, United States of America",Brollier|SN97,Q62447,,
+SN 97,SN97,Q111726246,6,0,2,,,Q839954,,

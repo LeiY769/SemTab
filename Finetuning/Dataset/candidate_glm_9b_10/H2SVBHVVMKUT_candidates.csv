@@ -1,0 +1,61 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Southern General Hospital,Southern General Hospital,Q7569946,0,0,1,"former hospital in Glasgow, Scotland, UK",,Q16917|Q64578911,,Southern General Hospital
+Southern General Hospital,"Southern General Hospital, 1345 Govan Road, Glasgow",Q17811132,0,0,1,"hospital in Glasgow, Scotland, UK","1345 Govan Road, Southern General Hospital",Q811979,,
+Southern General Hospital,Southern General Hospital NHS Trust,Q104990025,0,0,1,UK public sector healthcare provider,Southern General Hospital National Health Service Trust,Q6954197,,
+Southern General Hospital,SOUTHERN General Hospital,Q82192816,0,0,1,scientific article published on 01 September 1946,,Q13442814,,
+Southern General Hospital,Southern General Hospital,Q93131937,0,0,1,scientific article published on 01 September 1947,,Q13442814,,
+Groot Schuylenburg,Groot Schuylenburg,Q17466939,1,0,1,,,Q4260475,,
+Groot Schuylenburg,Groot Schuylenburg,Q2159889,1,0,1,former hospital in the Netherlands,,Q64578911,,
+Groot Schuylenburg,Apeldoornsche Bosch,Q2058130,1,0,1,former hospital in the Netherlands,,Q64578911|Q1497375,,
+Hospital de la Santa Caridad,Hospital de la Santa Caridad,Q858907,2,0,1,"church and Hospital baroques in Seville, Spain",Hospital of the Holy Charity,Q4989906|Q64578911|Q16970|Q608152,,Hospital de la Caridad (Seville)
+Hospital de la Santa Caridad,"Hospital de la Caridad, Carmona",Q97639276,2,0,1,"hospital in Carmona, Spain",,Q16917|Q16917,,
+Hospital de la Santa Caridad,Hospital de la Caridad,Q5903140,2,0,1,"former hospital in Cordova, Spain",,Q64578911,,
+Chestnut Lodge,Chestnut Lodge,Q5093965,3,0,1,"former hospital in Maryland, United States",,Q16917|Q64578911,,Chestnut Lodge
+Chestnut Lodge,Chestnut Lodge,Q4853086,3,0,1,"suburb of Widnes, Cheshire, England, UK",,Q188509,,"Chestnut Lodge, Widnes"
+Chestnut Lodge,Chestnut Lodge,Q27085994,3,0,1,"architectural structure in Lambeth, London, England, UK",,Q811979,,
+Chestnut Lodge,Chestnut Lodge,Q26383509,3,0,1,"gatehouse in Chalford, Stroud, Gloucestershire, England, UK",,Q277760,,
+Chestnut Lodge,Chestnut Lodge,Q26281375,3,0,1,"gatehouse in Elmbridge, Surrey, England, UK",,Q277760,,
+Chestnut Lodge,Chestnut Lodge And Squires Mount,Q17548755,3,0,1,"architectural structure in London Borough of Camden, Greater London, England, UK",,Q3947,,
+Chestnut Lodge,Chestnut Lodge  Chestnut Tree Cafe,Q26279652,3,0,1,"building in Wartling, Wealden, East Sussex, England, UK",,Q41176,,
+Chestnut Lodge,Chestnut Lodge: An Unreal Place,Q127797260,3,0,1,scholarly article,,Q13442814,,
+Chestnut Lodge,Chestnut Lodge and the Psychoanalytic Approach to Psychosis,Q48664297,3,0,1,"scientific article published on February 1, 2011",,Q13442814,,
+Chestnut Lodge,"Chestnut Lodge Symposium in memory of Dexter Means Bullard, Sr., 1898-1981.",Q52211743,3,0,1,scientific article published in February 1984,,Q13442814,,
+Liverpool Royal Infirmary,Liverpool Royal Infirmary,Q6658476,4,0,1,"former hospital in Pembroke Place, Liverpool",,Q64578911,,Liverpool Royal Infirmary
+Liverpool Royal Infirmary,Liverpool Royal Infirmary,Q94057343,4,0,1,scholarly article,,Q13442814,,
+Liverpool Royal Infirmary,Liverpool Royal Infirmary,Q55161386,4,0,1,scientific article published on 01 October 1891,,Q13442814,,
+Liverpool Royal Infirmary,Liverpool Royal Infirmary,Q94209873,4,0,1,"scholarly article, 1917",,Q13442814,,
+Liverpool Royal Infirmary,Liverpool Royal Infirmary,Q94191457,4,0,1,,,Q13442814,,
+Liverpool Royal Infirmary,LIVERPOOL ROYAL INFIRMARY: New Out patient Department,Q94260640,4,0,1,,,Q13442814,,
+Liverpool Royal Infirmary,LIVERPOOL ROYAL INFIRMARY: ELECTION OF HONORARY SURGEON.,Q50106920,4,0,1,scientific article published in December 1907,,Q13442814,,
+Liverpool Royal Infirmary,Liverpool Royal Infirmary and the Wounded,Q94201421,4,0,1,,,Q13442814,,
+Repatriation General Hospital,Repatriation General Hospital,Q7313919,5,0,1,"former hospital in Adelaide, South Australia","Repatriation General Hospital, Daw Park|The Repat",Q16917|Q64578911|Q110376455,,"Repatriation General Hospital, Daw Park"
+Repatriation General Hospital,"Repatriation General Hospital, Concord, New South Wales",Q79553167,5,0,1,scientific article published on 01 March 1948,,Q13442814,,
+Repatriation General Hospital,Repatriation General Hospital,Q7313918,5,0,1,Wikimedia disambiguation page,,Q4167410,,Repatriation General Hospital
+Manor Hospital,Manor Hospital,Q6751340,6,0,1,former hospital,,Q64578911,,"Manor Hospital, Epsom"
+Manor Hospital,Manor Hospital,Q56007407,6,0,1,defunct hospital in the garden of Duchcov Castle,Gräfl. Waldstein’sches Schloss-Spital|Gräfl. Waldstein’sches Schloss-Spital und Apotheke,Q180370|Q19860854|Q64578911,,
+Manor Hospital,Manor Hospital,Q113379692,6,0,1,"hospital in Oxford, UK","Nuffield Health Oxford, The Manor Hospital|The Manor Hospital, Oxford|Manor Hospital, Oxford",Q16917,,
+Manor Hospital,Walsall Manor Hospital,Q30280852,6,0,1,"UK public sector hospital in Wallsall, West Midlands, England","Manor Hospital, Walsall",Q4287745|Q16917,,Walsall Manor Hospital
+Manor Hospital,"Manor Hospital, Nuneaton",Q77477970,6,0,1,scientific article published on 01 January 1981,,Q13442814,,
+Manor Hospital,Manor Hospital,Q64358173,6,0,1,Wikimedia disambiguation page,,Q4167410,,Manor Hospital
+Inclusa,Inclusa,Q11930087,7,0,1,mountain in Spain,,Q8502,,
+Inclusa,Inclusa,Q44490214,7,0,1,,,Q192611|Q19953632|Q149621,,
+Inclusa,lock,Q105731,7,0,1,fall structure with a fixed chamber in which the water level changes,lock and dam|canal lock|pound lock|lock (water navigation)|lock (water transport),,Q333170|Q107589046,Lock (water navigation)
+Inclusa,Inclusa,Q5903152,7,0,1,"Madrid, Spain",,Q64578911,,
+Inclusa,Inclusa,Q115504255,7,0,1,"triangulation station in Ferreries, Spain",,Q131862,,
+Inclusa,Inclusa,Q115504254,7,0,1,"triangulation station in Tortosa, Spain",,Q131862,,
+Inclusa,Inclusão digital: polêmica contemporânea,Q67189711,7,0,1,book published in 2011,,Q47461344,,
+Inclusa,foundling hospital,Q5474633,7,0,1,institution where abandoned children were cared for,,Q178706,Q160645|Q1077064,Foundling hospital
+Inclusa,Inclusa Inc,Q131346213,7,0,1,nonprofit organization from Wisconsin,,Q163740,,
+Inclusa,Inclusão escolar de alunos com necessidades especiais,Q136041391,7,0,1,book 2012,,Q3331189,,
+Inclusa,Inclusionary zoning,Q6014890,7,0,2,Laws mandating a share of affordable housing in new projects,inclusionary housing,,,Inclusionary zoning
+Inclusa,Inclusionary standard for determining sexual consent for individuals with developmental disabilities.,Q52014652,7,0,2,scientific article published on 01 August 1995,,Q13442814,,
+Inclusa,Inclusional cellulitis after total hip replacement,Q77399030,7,0,2,scientific article published on 01 September 1998,,Q13442814,,
+Inclusa,Inclusional complex study between 6-p-toluidinylnaphthalene-2-sulfonate and 2-hydroxypropyl-beta-cyclodextrin.,Q44120463,7,0,2,scientific article published in July 2002,,Q13442814,,
+Inclusa,Inclusional cytomegalia,Q43936268,7,0,2,scientific article published in December 1971,,Q13442814,,
+Inclusa,Inclusionary othering: A key threshold concept for healthcare education,Q48247794,7,0,2,scientific article published on 23 November 2017,,Q13442814,,
+Inclusa,Inclusionary Zoning. Market-financed affordable housing - Could Vienna benefit from this American approach?,Q63859376,7,0,2,"scholarly article published in ""Der Öffentliche Sektor"", no. 1/2019, pp. 35-48",,Q13442814,,
+Inclusa,"Inclusionary Rhetoric, Exclusionary Practices: Left‐Wing Politics and Migrants in Italy by Davide Però",Q137481165,7,0,2,scholarly article published in American Ethnologist (2008),,Q13442814,,
+Inclusa,Inclusionary housing in small towns and rural places: the California experience,Q77674256,7,0,2,scholarly article,,Q13442814,,
+Inclusa,"Inclusionary Rhetoric, Exclusionary Practices: Left‐wing Politics and Migrants in Italy. Davide Però",Q137533259,7,0,2,scholarly article published in Journal of the Society for the Anthropology of Europe (2009),,Q13442814,,
+Inclusa,inclusion,Q124461375,7,0,2,"state of inclusion; action of including an physical or abstrat element within a action, group or structure",included,Q151885,Q813912,
+Inclusa,Inclusero,Q60036694,7,0,2,painting by Rafael de la Torre y Estefanía (El Prado P005934),,Q3305213,,

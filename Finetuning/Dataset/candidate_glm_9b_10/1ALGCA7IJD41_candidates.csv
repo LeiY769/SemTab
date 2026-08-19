@@ -1,0 +1,40 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Yeliseyevskaya volost,Yeliseyevskaya Volost,Q4174972,0,0,1,,,Q20732405,,
+Yeliseyevskaya volost,Bryanskiy Uyezd,Q4097557,0,0,2,uyezd of the Russian Empire,,Q18867465,,Bryansky Uyezd
+Bryanskiy Uyezd,Bryanskiy Uyezd,Q4097557,0,1,1,uyezd of the Russian Empire,,Q18867465,,Bryansky Uyezd
+Bryanskiy Uyezd,Yeliseyevskaya Volost,Q4174972,0,1,2,,,Q20732405,,
+Dikanka Volost',Dikanka Volost',Q12101031,1,0,1,administrative subdivision of Poltavsky Uyezd,Dikanka volost'|Dikanska volost|Dikan's'ka volost'|Dikan's'kaya volost'|Dikan's'kaia volost',Q20732405|Q28706608,,
+Poltavsky Uyezd,Poltavsky Uyezd,Q12141928,1,1,1,"administrative subdivision of Yekaterinoslav Viceroyalty, Novorossiysk, Little Russia and Poltava governorates",,Q18867465|Q18867064,,Poltavsky Uyezd
+Poltavsky Uyezd,Dikanka Volost',Q12101031,1,1,2,administrative subdivision of Poltavsky Uyezd,Dikanka volost'|Dikanska volost|Dikan's'ka volost'|Dikan's'kaya volost'|Dikan's'kaia volost',Q20732405|Q28706608,,
+Mokra Kalyhirka Volost,Mokra Kalyhirka Volost,Q16707341,2,0,1,,Mokrokalyhirska volost,Q20732405,,
+Mokra Kalyhirka Volost,Mokra Kalyhirka,Q4300026,2,0,2,"village in Katerynopil Raion, Cherkasy Oblast, Ukraine",Mokra Kaligirka,Q21672098,,
+Mokra Kalyhirka Volost,Mokra Kalyhirka rural hromada,Q21349480,2,0,2,,Mokra Kalyhirka Silska Hromada|Mokrokalyhirska silska hromada,Q4291381|Q104841013,,
+Mokra Kalyhirka Volost,Mokra Kalyhirka Raion,Q12124171,2,0,2,,Mokrokalyhirskyi raion,Q19953632,,
+Mokra Kalyhirka Volost,Mokra Kalyhirka Park,Q30963802,2,0,2,"park-monument of landscape art in Cherkasy Oblast, Ukraine",,Q22698,,
+Zvenigorodka County,Zvenigorodka County,Q11825812,2,1,1,subdivision of the Russian Empire,,Q18867465,,Zvenigorodka uezd
+Zvenigorodka County,Zvenyhorodka Raion,Q103812430,2,1,2,"raion in Cherkasy Oblast, Ukraine (established in 2020)",Zvenyhorodka District|Zvenyhorodskyi Raion|Zvenyhorodskyi District|Zvenigorodsky Raion|Zvenigorodsky District,Q1267632,,Zvenyhorodka Raion
+Zvenigorodka County,Zvenigorodský rajón,Q4189486,2,1,2,,,Q20719675,,
+Tsitvyanskaya Volost,Tsitvyanskaya Volost,Q27832357,3,0,1,subdivision of Igumensky Uyezd,,Q20732405,,
+Tsitvyanskaya Volost,Igumensky Uyezd,Q149223,3,0,2,"subdivision of Minsk Viceroyalty, Minsk Governorate",,Q18867465,,Igumensky Uyezd
+Igumensky Uyezd,Igumensky Uyezd,Q149223,3,1,1,"subdivision of Minsk Viceroyalty, Minsk Governorate",,Q18867465,,Igumensky Uyezd
+Igumensky Uyezd,Tsitvyanskaya Volost,Q27832357,3,1,2,subdivision of Igumensky Uyezd,,Q20732405,,
+Novaya Praga Volost,Novaya Praga Volost,Q12134189,4,0,1,subdivision of the Russian Empire,,Q20732405,,
+Novaya Praga Volost,Aleksandriya Uyezd,Q4060994,4,0,2,"subdivision of the Yekaterinoslav Viceroyalty, Kherson Governorate and Kremenchuk Governorate",Alexandria Uyezd,Q18867465,,Aleksandriya uezd
+Aleksandriya Uyezd,Aleksandriya Uyezd,Q4060994,4,1,1,"subdivision of the Yekaterinoslav Viceroyalty, Kherson Governorate and Kremenchuk Governorate",Alexandria Uyezd,Q18867465,,Aleksandriya uezd
+Aleksandriya Uyezd,Novaya Praga Volost,Q12134189,4,1,2,subdivision of the Russian Empire,,Q20732405,,
+Tolvuiskaya volost,Tolvuiskaya Volost,Q28666386,5,0,1,,,Q20732405,,
+Tolvuiskaya volost,Petrozavodsky Uyezd,Q4361460,5,0,2,administrative division of the Russian Empire and the early Russian SFSR,,Q18867465,,Petrozavodsky Uyezd
+Petrozavodsky Uyezd,Petrozavodsky Uyezd,Q4361460,5,1,1,administrative division of the Russian Empire and the early Russian SFSR,,Q18867465,,Petrozavodsky Uyezd
+Petrozavodsky Uyezd,Tolvuiskaya Volost,Q28666386,5,1,2,,,Q20732405,,
+Novskaya volost,Novskaya Volost,Q107999590,6,0,1,administrative-territorial unit of the Bezhetsk district,,Q20732405,,
+Novskaya volost,Bezhetsky Uyezd,Q4080721,6,0,2,"administrative subdivision of Uglich Province, Tver Viceroyalty and Tver Governorate of Russian Empire and RSFSR",,Q18867465|Q65770082|Q18867064,,Bezhetsky Uyezd
+Bezhetsky Uyezd,Bezhetsky Uyezd,Q4080721,6,1,1,"administrative subdivision of Uglich Province, Tver Viceroyalty and Tver Governorate of Russian Empire and RSFSR",,Q18867465|Q65770082|Q18867064,,Bezhetsky Uyezd
+Bezhetsky Uyezd,Novskaya Volost,Q107999590,6,1,2,administrative-territorial unit of the Bezhetsk district,,Q20732405,,
+Hnivan volost,Hnivan Volost,Q28378784,7,0,1,,,Q20732405,,
+Hnivan volost,Vinnytsia Uyezd,Q11825800,7,0,2,administrative subdivision of Podolia Governorate,Vinnitsa Uyezd,Q18867465|Q18867064,,Vinnitsa uezd
+Vinnytsia Uyezd,Vinnytsia Uyezd,Q11825800,7,1,1,administrative subdivision of Podolia Governorate,Vinnitsa Uyezd,Q18867465|Q18867064,,Vinnitsa uezd
+Vinnytsia Uyezd,Hnivan Volost,Q28378784,7,1,2,,,Q20732405,,
+Vinitskaya volost,Vinitskaya Volost,Q28666533,8,0,1,,,Q20732405,,
+Vinitskaya volost,Lodeynopolsky Uyezd,Q4265250,8,0,2,subdivision of Olonets Governorate and Leningrad Oblast,,Q18867465|Q65770082|Q18867064,,Lodeynopolsky Uyezd
+Lodeynopolsky Uyezd,Lodeynopolsky Uyezd,Q4265250,8,1,1,subdivision of Olonets Governorate and Leningrad Oblast,,Q18867465|Q65770082|Q18867064,,Lodeynopolsky Uyezd
+Lodeynopolsky Uyezd,Vinitskaya Volost,Q28666533,8,1,2,,,Q20732405,,

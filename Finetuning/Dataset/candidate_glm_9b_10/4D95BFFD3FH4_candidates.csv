@@ -1,0 +1,82 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Palakaria,Palakaria,Q11815100,0,0,1,river in Bulgaria,,Q4022,,Palakaria
+Palakaria,Palakaria,Q25356951,0,0,1,protected area in Bulgaria,,Q15069452,,
+Ushakovka,Ushakovka,Q18404609,1,0,1,"village in Atyashevsky District, Russia",,Q532,,
+Ushakovka,Ushakovka,Q4479569,1,0,1,"river in Irkutsk Oblast, Russia",,Q4022,,
+Ushakovka,Ushakovka,Q4479567,1,0,1,"human settlement in Chernoyarsky District, Astrakhan Oblast, Russia",,Q532,,Ushakovka
+Ushakovka,Ushakovka,Q20152135,1,0,1,"human settlement in Ivanovsky District, Ivanovo Oblast, Russia",,Q5084,,"Ushakovka, Ivanovo Oblast"
+Ushakovka,Ushakovka,Q18804910,1,0,1,"human settlement in Nizhny Novgorod Oblast, Russia",,Q5084,,
+Ushakovka,Ushakovka,Q37749812,1,0,1,river in Russia,,Q4022,,
+Gekhi,Gekhi,Q4137814,2,0,1,"village in Urus-Martanovsky District, Russia",,Q532,,
+Gekhi,Gekhi,Q4137823,2,0,1,river in Russia,,Q4022,,
+Gekhi,Gekhi-Chu,Q4137815,2,0,1,"village in Urus-Martanovsky District, Russia",,Q532,,
+Gekhi,Gekhi Mosque,Q97480066,2,0,1,mosque in Russia,,Q32815,,
+Gekhi,Gekhi,Q4137810,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Cicogna,Cicogna,Q37558581,3,0,1,family name,,Q101352,,Cicogna
+Cicogna,Cicogna,Q21016679,3,0,1,,,Q170013,,
+Cicogna,Emmanuele Antonio Cicogna,Q1338457,3,0,1,Italian historian (1789-1868),Emanuele Antonio Cicogna|Emmanuele Cicogna|E. Cicogna|Cicogna,Q5,,Emmanuele Antonio Cicogna
+Cicogna,Fiat BR.20 Cicogna,Q645887,3,0,1,1936 bomber aircraft family by Fiat,"BR.20M, BR.20bis|BR.20 Cicogna|Cicogna|Fiat BR.20|BR.20",Q15056993,Q18518465|Q170877,Fiat BR.20 Cicogna
+Cicogna,Cicognani,Q56245903,3,0,1,family name,Cicognani (family name)|Cicognani (surname),Q101352,,Cicognani
+Cicogna,Cicogna,Q18445963,3,0,1,human settlement in Italy,,Q1134686,,
+Cicogna,Cicogna,Q3676535,3,0,1,river in Italy,,Q4022|Q55659167,,
+Cicogna,Cicogna,Q2972282,3,0,1,,,Q58481200|Q13417114,,
+Cicogna,Cicogna,Q3676534,3,0,1,Italian family,,Q8436,,
+Cicogna,Cicogna,Q52811568,3,0,1,"kindergarten in San Lazzaro di Savena, Bologna, Emilia-Romagna, Italy",,Q126807,,
+Matsesta,Matsesta,Q3331294,4,0,1,"river in Krasnodar Krai, Russia",,Q4022,,Matsesta (river)
+Matsesta,Matsesta,Q4285877,4,0,1,"resort village of Sochi, Russia",,Q1021711|Q6882870,,Matsesta Microdistrict
+Matsesta,Matsesta railway station,Q4285883,4,0,1,railway station in Russia,,Q55488,,Matsesta railway station
+Matsesta,Matsesta,Q117663678,4,0,1,"Sochi stop bus, Krasnodar Krai, Russia",Macesta,Q1946668,,
+Matsesta,Matsesta viaduct,Q4285884,4,0,1,bridge in Russia,,Q12280|Q2319498,,
+Matsesta,Matsesta sea terminal,Q138700795,4,0,1,,,Q2319498|Q41176,,
+Matsesta,Matsesta water inhalation used in complex treatment of patients with cardiovascular diseases at the Sochi health resort,Q68489486,4,0,1,scientific article published on 01 January 1972,,Q13442814,,
+Matsesta,Matsesta,Q15946860,4,0,1,Wikimedia disambiguation page,,Q4167410,,Matsesta
+Vedi,Vedi,Q750689,5,0,1,town in the Ararat Province of Armenia,,Q20724701|Q2989457,,Vedi
+Vedi,Vedi,Q3068286,5,0,1,river in Armenia,,Q4022,,Vedi River
+Vedi,"Baseri Kundal, Rajasthan, India",Q72926832,5,0,1,"village at Chhoti Sadri sector in Pratapgarh district of Rajasthan state, Union Republic of India",Baseri Kundal|Basedi Kundal|Veri|Vedi,Q56436498,,
+Vedi,Ⰲ,Q3594870,5,0,1,letter in the Glagolitic alphabet,vede|vědě|vedi,Q41806741,,
+Vedi,Vedi,Q110917997,5,0,1,"Church Slavonic letter Vede, Vedi",Vede,Q19793988|Q41806741,,
+Vedi,Vedi,Q7917982,5,0,1,Vedic sacrificial altar,,,Q101687,Vedi (altar)
+Vedi,Vedika Pinto,Q103363260,5,0,1,"Indian model, dancer, and actress",,Q5,,Vedika Pinto
+Vedi,Vedia Gedik,Q87383852,5,0,1,Turkish researcher,,Q5,,
+Vedi,Védie,Q105477131,5,0,1,family name,Védie (family name)|Védie (surname),Q101352,,
+Vedi,Vedika Modi,Q106161863,5,0,1,,,Q5,,
+Vedi,Venice,Q773853,5,0,2,"beachfront neighborhood in Los Angeles, California, USA","Venice, Los Angeles|Venice, California|Venice, CA",Q52154375,,"Venice, Los Angeles"
+Vedi,Venice,Q641,5,0,2,"capital city of Veneto, Italy","Serenissima|Venexia|Venetia|Venice, Italy",Q747074|Q581830|Q2264924|Q515|Q1549591|Q4115680,,Venice
+Vedi,Republic of Venice,Q4948,5,0,2,"former state (697–1797) controlling, at various times, parts of northeastern Italy, the Balkans, and Mediterranean islands",The Most Serene Republic of Venice|The Republic of Venice|Repulic of Venice|Venezia Republic|Venetian Republic|Venetian Empire|Republic of Venezia|Most Serene Republic of Venice|Republic Venice|The Serenissima|Venice Republic|Serenissima Repubblica di Venezia|Duchy of Venetia|Republic of Saint Mark|Republic of St. Mark|Venice|Serenìsima Repùblega de Venèsia,Q3624078|Q62825|Q3024240,,Republic of Venice
+Vedi,Venice,Q37556754,5,0,2,family name,,Q101352,,
+Vedi,Venice,Q3555518,5,0,2,1999 video game,Venice: Fortune and Glory in the City of the Doges,Q7889,,
+Vedi,Venice,Q7919972,5,0,2,2007 puzzle video game,,Q7889,,Venice (video game)
+Vedi,Venice,Q109853296,5,0,2,given name,,Q202444,,
+Vedi,Venice,Q57325,5,0,2,"city in Sarasota County, Florida, United States","Venice, Florida|Venice, FL",Q1093829,,"Venice, Florida"
+Vedi,Venice,Q137515560,5,0,2,painting by Luca Carlevarijs,,Q3305213,,
+Vedi,Venice,Q135264475,5,0,2,Tony Hawk's Pro Skater 2 level,Venice Beach,Q1046315,,
+Vedi,Vejovis,Q1058110,5,0,2,Etruscan and Roman deity,Vediovis|Vedius,Q42593818|Q11688446|Q16685255,,Vejovis
+Vedi,Vedius,Q106504625,5,0,2,ancient Roman nomen,,Q3760158,,
+Vedi,Andrew Day,Q116508613,5,0,2,Esports commentator,Vedius|Andy Day,Q5,,
+Vedi,Vedius 5a (Pauly-Wissowa),Q129675383,5,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Vedi,Vedius Pollio,Q950157,5,0,2,Roman equestrian during the reign of Augustus,Publius Vedius Pollio,Q5,,Vedius Pollio
+Vedi,Vedius Gymnasium (Ephesus),Q2511690,5,0,2,bath-gymnasium complex located directly along the city wall in Ephesus,,Q504400|Q6581615|Q14752696|Q839954|Q14092,,
+Vedi,Vedius Aquila,Q3563971,5,0,2,commander of Legio XIII Gemina under Otho in 69 AD,,Q5,,Vedius Aquila
+Vedi,Vedius 5 (Pauly-Wissowa),Q140560201,5,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Vedi,Vedius 4 (Pauly-Wissowa),Q140560202,5,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Vedi,Vedius 6 (Pauly-Wissowa),Q140560199,5,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Aulnois,Aulnois,Q191128,6,0,1,"commune in Vosges, France",,Q484170,,"Aulnois, Vosges"
+Aulnois,Aulnois-sur-Seille,Q21672,6,0,1,"commune in Moselle, France",Aulnois,Q484170,,Aulnois-sur-Seille
+Aulnois,Aulnois-sous-Laon,Q851559,6,0,1,"commune in Aisne, France",Aulnois,Q484170,,Aulnois-sous-Laon
+Aulnois,Aulnois-en-Perthois,Q1021111,6,0,1,"commune in Meuse, France",Aulnois,Q484170,,Aulnois-en-Perthois
+Aulnois,Aulnois,Q2587998,6,0,1,"section of Quévy, Belgium",,Q2785216,,"Aulnois, Belgium"
+Aulnois,Aulnois,Q2741927,6,0,1,river in Belgium and France,Ruisseau de l'Aunois|Ruisseau du Tremble,Q4022|Q47521,,Aulnois (river)
+Aulnois,Aulnois-sous-Vertuzey,Q24928370,6,0,1,former French commune in Meuse,,Q19730508|Q666943,,
+Aulnois,Aulnois-sous-Laon weather station,Q117881568,6,0,1,"weather station located in Aisne, in France",,Q190107,,
+Aulnois,Aulnois-sous-Vertuzey,Q112864317,6,0,1,,,Q43229,,
+Aulnois,Château d'Aulnois d'Aulnois-sur-Seille,Q2633925,6,0,1,,,Q23413,,
+Uza,Uza,Q188581,7,0,1,"commune in Landes, France",Husar,Q484170,,"Uza, Landes"
+Uza,Uza,Q13134215,7,0,1,"village in Buda-Kašaliova district, Belarus",,Q65661087,,
+Uza,Uza,Q28380810,7,0,1,railway station in Belarus,,Q55488,,
+Uza,Uža,Q21634185,7,0,1,village in Belarus,Uzha,Q65661087,,
+Uza,urbanized area,Q104774075,7,0,1,retired statistical geographic entity type defined by the U.S. Census Bureau,Urbanized Area|UA|UZA,,Q5951278,
+Uza,Uzay-le-Venon,Q834785,7,0,1,"commune in Cher, France",Uzay,Q484170,,Uzay-le-Venon
+Uza,north,Q659,7,0,1,one of the four cardinal directions,N|septentrion|northbound|northerly,Q23718|Q11114344,,North
+Uza,Uza,Q2502309,7,0,1,"river in Penza and Saratov Oblasts, Russia",Usa,Q4022,,
+Uza,Uzan,Q198082,7,0,1,"commune in Pyrénées-Atlantiques, France",,Q484170,,"Uzan, Pyrénées-Atlantiques"
+Uza,Uzay Görmüş,Q57339699,7,0,1,Turkish researcher,,Q5,,

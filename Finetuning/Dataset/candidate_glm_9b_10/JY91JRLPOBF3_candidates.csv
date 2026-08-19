@@ -1,0 +1,60 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+V* V592 Vir,V592 Virginis,Q93508066,0,0,1,RR Lyrae variable star in the constellation Virgo,,Q726242|Q523|Q6243,,
+V* V592 Vir,General Catalogue of Variable Stars,Q222662,0,0,2,astronomical catalogue of variable stars,GCVS|V* Catalogue,Q850950,,General Catalogue of Variable Stars
+V* V592 Vir,Delta Crucis,Q333243,0,0,2,star in the constellation Crux,Imai|del Cru|V* del Cru|HD 106490|GCRV 7332|HR 4656|HIC 59747|HIP 59747|δ Crucis|δ Cru|ROT 1792|NSV 5510,Q523|Q6243|Q353834|Q764463|Q67206691|Q67206785|Q71798788,,Delta Crucis
+V* V592 Vir,V624 Herculis,Q6770161,0,0,2,,HD 161321|V624 Her|V* V624 Her|HIP 86809|HIC 86809|HR 6611|Renson 45460|GCRV 10253,Q1993624|Q1457376|Q13890|Q67206785|Q71798788|Q523|Q1142192|Q451152|Q6243,,
+V* V592 Vir,Proxima Centauri,Q14266,0,0,2,star in Centaurus constellation,α Cen C|Alpha Centauri C|Proxima|α Centauri C|Proxima Cen|GJ 551|LHS 49|NLTT 37460|PLX 3278|LFT 1110|LPM 526|LTT 5721|TIC 388857263|TIC 1019422535|V645 Cen|V645 Centauri|HIC 70890|HIP 70890|CSV 2142,Q285400|Q5893|Q67206691|Q2154519|Q2247863|Q71798788|Q1362543|Q13890|Q67206785|Q2168098|Q6243|Q523|Q878367,,Proxima Centauri
+V* V592 Vir,V451 Herculis,Q6770252,0,0,2,star,HD 153882|V451 Her|V* V451 Her|HIP 83308|HIC 83308|HR 6326|Renson 43450|DS 10310 A|GC 22960|GCRV 9815,Q6243|Q1141942|Q13890|Q67206785|Q71798788|Q523|Q2168098|Q1142192|Q616386,,
+V* V592 Vir,Polaris,Q12980,0,0,2,brightest star in the constellation Ursa Minor,Alpha Ursae Minoris|α Ursae Minoris|North Star|North pole star|Pole star|Polestar|Stella Polaris|Pole-star|Northern Star|* alf UMi|α UMi|1 Ursae Minoris|1 UMi|** WRH 39|alf UMi|ROT 3491|SAO 138|V* alf UMi|HIC 11767|HIP 11767|HR 424|PPM 431,Q995268|Q2088753|Q10451997|Q662656|Q1547772|Q67206691|Q67206785|Q71798788|Q523|Q13890|Q1993624|Q6243,,Polaris
+V* V592 Vir,AB Doradus B,Q89986655,0,0,2,,V* AB Dor B|HBC 434|AB Dor B|** RST 137B|** CLO 10B|CLO 10B|RST 137B,Q13890|Q72803622|Q2247863|Q67206785|Q6243|Q523,,
+V* V592 Vir,V* V884 Ori,Q79282935,0,0,2,,V* V885 Ori,Q1352333|Q72803622|Q285400,,
+V* V592 Vir,CW Leonis,Q81641823,0,0,2,star in the constellation Leo,CW Leo|LEDA 1427054|CGCS 2619|Peanut Nebula|Zel 0945+135|TIC 258671744|RAFGL 1381|SCM 50|PN G221.4+45.0|LINEAR 17154286,Q523|Q130019|Q6243|Q1153690|Q744691|Q1931185|Q67201574|Q67206691|Q318|Q67206785|Q13632|Q353834,,CW Leonis
+V* V592 Vir,V771 Herculis,Q6770123,0,0,2,star in the constellation Hercules,V771 Her|HD 164429|V* V771 Her|HIP 88030|HIC 88030|GCRV 10432|ROT 2522|Renson 46480|NSV 9958,Q523|Q6243|Q1141942|Q67206785|Q71798788|Q2168098|Q1142192|Q616386,,
+V* V592 Vir,V592 Monocerotis,Q5175542,0,0,2,star,HIP 32838|HIC 32838|HD 49976|V592 Mon|HR 2534|CSV 6508|GCRV 58087|Renson 13560|GC 8955|PPM 189593|SAO 133761,Q1142192|Q6243|Q1141942|Q67206691|Q2168098|Q523|Q616386,,HD 49976
+V* V592 Vir,V592 road,Q127784347,0,0,2,local road in Latvia,V592,Q34442,,
+V* V592 Vir,Qatar 1,Q4217177,0,0,2,star in the constellation Draco,V592 Draconis,Q2247863|Q67206785,,Qatar-1
+V* V592 Vir,V592 Herculis,Q87878188,0,0,2,,,Q6458|Q523|Q6243,,
+V* V592 Vir,V592 Aurigae,Q85779022,0,0,2,,HD 282589,Q1392913|Q6243|Q2154519|Q523|Q67206785,,
+V* V592 Vir,FLT3 V592_D593INSDFREY,Q32965405,0,0,2,genetic variant,V592_D593INSDFREY,Q15304597,,
+V* V592 Vir,V592 Andromedae,Q86321667,0,0,2,long period variable,,Q1153690|Q67206785,,
+V* V592 Vir,V592 Pup,Q66631036,0,0,2,,,Q1392913|Q67206691|Q2154519,,
+V* V592 Vir,V592 Herculis,Q68265819,0,0,2,scientific article published in January 1998,,Q13442814,,
+V* V592 Vir,Virgo,Q8842,0,0,2,zodiac constellation passing through the celestial equator,Vir|Virginis|Virgo (constellation),Q8928|Q4193029,,Virgo (constellation)
+V* V592 Vir,United States Virgin Islands,Q11703,0,0,2,unincorporated territory of the United States of America,U.S. Virgin Islands|Virgin Islands of the United States|US Virgin Islands|American Virgin Islands|the United States Virgin Islands,Q783733|Q462778|Q1048835|Q3337001|Q1352230,,United States Virgin Islands
+V* V592 Vir,Virginia,Q1370,0,0,2,state of the United States of America,"Commonwealth of Virginia|State of Virginia|VA|Virginia, United States|Old Dominion|Va.|US-VA",Q35657,,Virginia
+V* V592 Vir,virus,Q808,0,0,2,"non-cellular, submicroscopic infectious agent that replicates only inside the living cells of an organism",infectious agent,Q16521,Q39833|Q170065,Virus
+V* V592 Vir,Virgin Atlantic,Q32277,0,0,2,British airline,VS|VIR|Virgin Atlantic Airways Limited|Virgin Atlantic Airline|Virgin Atlantic Airlines|Virgin Atlantic Air|Virgin Airlines,Q46970|Q4830453,,Virgin Atlantic
+V* V592 Vir,Virtual International Authority File,Q54919,0,0,2,OCLC dataset and service that virtually combines multiple name authority files into a single name authority service,viaf.org|VIAF: Virtual International Authority File,Q119509990|Q1172284|Q19967801|Q4182287|Q1988927,,Virtual International Authority File
+V* V592 Vir,Virgin Records,Q203059,0,0,2,British record label,,Q18127|Q4830453|Q6881511|Q21484471,,Virgin Records
+V* V592 Vir,Vir,Q10715928,0,0,2,genus of crustaceans,Vir (genus)|Vir (hayvan),Q16521,,Vir (crustacean)
+V* V592 Vir,Vire,Q220684,0,0,2,"former commune in Calvados, France",,Q484170|Q21869758,,Vire
+V* V592 Vir,Virginia Commonwealth University,Q2303536,0,0,2,"public research university in Richmond, Virginia, United States",VCU|vcu.edu,Q62078547|Q23002039,,Virginia Commonwealth University
+OGLE BLG-RRLYR26018,,,1,0,0,,,,,
+[SHM2017] J292.61625-07052567,,,2,0,0,,,,,
+OGLE BLG-RRLR-26594,,,3,0,0,,,,,
+[DED2013] CSS J123500.1+081207,,,4,0,0,,,,,
+TUUrsae Majoris,Ursa Major,Q8918,5,0,2,constellation visible throughout the year in most of the northern hemisphere,Great Bear|Larger Bear|Charles's Wain|UMa|Ursae Majoris|Arctus|Arktos,Q8928,,Ursa Major
+TUUrsae Majoris,697,Q1414581,5,0,2,natural number,six hundred ninety-seven|six hundred and ninety-seven|six hundred ninety seven|six hundred and ninety seven,Q16317911|Q13366129|Q967999|Q50707,,697 (number)
+TUUrsae Majoris,697,Q23489,5,0,2,year,,Q577,,697
+TUUrsae Majoris,697,Q54604500,5,0,2,cell line,Line 697|EU-3|Emory University-3,Q21014462|Q23058136,,
+TUUrsae Majoris,6976 Kanatsu,Q686506,5,0,2,asteroid,Kanatsu,Q3863,,6976 Kanatsu
+TUUrsae Majoris,697-mel,Q54604501,5,0,2,cell line,697-MEL|697 Mel|697mel|697,Q21014462|Q23058136,,
+TUUrsae Majoris,6977,Q19260013,5,0,2,number,"6,977",Q16317911|Q49008|Q13366129,,
+TUUrsae Majoris,6971,Q19260005,5,0,2,number,"6,971",Q16317911|Q49008|Q13366129,,
+TUUrsae Majoris,69754 Mosesmendel,Q3599640,5,0,2,asteroid,Mosesmendel,Q3863,,69754 Mosesmendel
+TUUrsae Majoris,6975 Hiroaki,Q718910,5,0,2,asteroid,Hiroaki,Q3863,,6975 Hiroaki
+TUUrsae Majoris,6970,Q11188140,5,0,2,number,"6,970",Q16317911|Q13366104|Q50707,,
+TUUrsae Majoris,17666,Q135516025,5,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+TUUrsae Majoris,176660·18^353320 - 1,Q96907459,5,0,2,prime number,,Q49008,,
+SW Boöis,Stadtwerke Bonn,Q152186,6,0,2,public transport and utility company,SWB,Q4830453|Q2326317|Q740752,,
+SW Boöis,Stadtwerke Bielefeld,Q2328433,6,0,2,"municipal utility company in Bielefeld, Germany",SWB,Q4830453|Q2326317,,
+SW Boöis,South-West German Library Network,Q1684093,6,0,2,German library association,SWB|Südwestdeutscher Bibliotheksverbund,Q526334|Q26271642,,
+SW Boöis,Badminton railway line,Q42888026,6,0,2,railway line in the UK,"SWB|South Wales and Bristol Direct Line|South Wales and Bristol Direct Railway|London, Bristol and South Wales Direct Railway",Q728937|Q113990375,,Badminton railway line
+SW Boöis,Boerse Stuttgart,Q558524,6,0,2,"Stock exchange located in Stuttgart, Germany",SWB|XSTU|EUWAX,Q11691|Q475000,,Börse Stuttgart
+SW Boöis,subjective well-being,Q7456400,6,0,2,self-reported measure of well-being,SWB,Q151885|Q1799072,Q7981051,Subjective well-being
+SW Boöis,open water,Q2479431,6,0,2,body of water,surface water body|SWB|WFD Surface water body|surface waters|body of surface water,,Q15324|Q863944|Q1389310,
+SW Boöis,N,Q29712018,6,0,2,protein-coding gene in the species Drosophila melanogaster,Notch|Dmel_CG3936|l(1)3Cb|clone 1.12|dNotch|EG:163A10.2|CT13012|EG:140G11.1|fa|shd|NICD|CG3936|16-55|nd|16-178|1.1|Ax|n[fah]|l(1)Ax|Co|swb|spl|Chp|l(1)N|NECD|Dmel\CG3936|anon-EST:Liang-1.12|RICN,Q7187,,
+SW Boöis,Stockholm–Västerås–Bergslagens Järnvägar,Q10680721,6,0,2,Swedish railway company,SWB,Q249556|Q4830453,,
+SW Boöis,Stadtwerke Brühl,Q1730210,6,0,2,municipal utility and transport company in Germany,Stadtwerke Brühl GmbH|SWB,Q740752|Q1951366|Q2326317,,
+KX Boöts,,,7,0,0,,,,,
+OGOE J052039.40-691709.0,,,8,0,0,,,,,

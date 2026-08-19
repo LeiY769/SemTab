@@ -1,0 +1,14 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Policlinico Umberto I,Policlinico Umberto I,Q500377,0,0,1,"general hospital in Rome, part of the university “La Sapienza”",,Q1059324|Q16917,,Policlinico Umberto I
+Policlinico Umberto I,Policlinico Umberto I,Q52899286,0,0,1,"kindergarten in Rome, Rome, Lazio, Italy",,Q126807,,
+Indiana University Hospital,Indiana University Hospital,Q14688467,1,0,1,"hospital in Indiana, United States",IU Health University Hospital,Q1059324,,Indiana University Health University Hospital
+Indiana University Hospital,Indiana University Hospital,Q71478139,1,0,1,scientific article published on 01 March 1970,,Q13442814,,
+Indiana University Hospital,Indiana University Health,Q6023587,1,0,2,nonprofit healthcare system located in the U.S. state of Indiana,Clarian Health Partners|IU Health|Clarian Health,Q163740|Q1774587,,Indiana University Health
+Indiana University Hospital,Methodist Hospital of Indianapolis,Q6823835,1,0,2,"teaching hospital in Indianapolis, United States",Indiana University Health Methodist Hospital|IU Health Methodist Hospital|IU Health Methodist University Hospital,Q16917,,Indiana University Health Methodist Hospital
+Indiana University Hospital,IU Health Blackford Hospital,Q87931978,1,0,2,"hospital in Hartford City, Indiana, United States",Indiana University Health Blackford Hospital,Q16917,,
+Indiana University Hospital,IU Health North Medical Center,Q5975442,1,0,2,"hospital in Indiana, United States",,Q16917,,IU Health North Medical Center
+Indiana University Hospital,IU Health Morgan,Q87932245,1,0,2,"hospital in Martinsville, Indiana, United States",Indiana University Health Morgan Hospital|IU Health Morgan Hospital,Q16917,,
+Indiana University Hospital,IU Health Tipton Hospital,Q87932298,1,0,2,"hospital in Tipton, Indiana, United States",Indiana University Health Tipton Hospital,Q16917,,
+Indiana University Hospital,IU Health Saxony Hospital,Q101243455,1,0,2,"hospital in Fishers, Indiana, United States",,Q16917,,
+Indiana University Hospital,Indiana University Health Arnett Hospital,Q85769332,1,0,2,"hospital in Indiana, United States",IU Health Arnett Hospital|Arnett-Crockett Clinic,Q16917,,Indiana University Health Arnett Hospital
+Indiana University Hospital,IU Health Krannert Personalized Medicine Study,Q66077950,1,0,2,clinical trial,,Q30612,,

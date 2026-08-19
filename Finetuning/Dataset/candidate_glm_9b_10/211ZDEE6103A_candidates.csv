@@ -1,0 +1,184 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Saint Francis Medical Center Helistop,Saint Francis Medical Center Helistop,Q49750431,0,0,1,,,Q502074,,
+Saint Francis Medical Center Helistop,Saint Francis Medical Center Helistop,Q34962662,0,0,1,"airport in Mercer County, New Jersey, United States of America",,Q1248784,,
+Saint Francis Medical Center Helistop,Saint Francis Medical Center,Q30280952,0,0,2,"healthcare organization in Cape Girardeau, United States",,Q4287745,,
+Saint Francis Medical Center Helistop,Saint Francis Medical Center College of Nursing,Q114339373,0,0,2,"college in Peoria, Illinois, United States",,Q2385804,,Saint Francis Medical Center College of Nursing
+Middlesex Hospital heliport,Middlesex Hospital heliport,Q61671636,1,0,1,"heliport in Essex, Middlesex County, Connecticut, United States",CT97,Q502074,,
+Middlesex Hospital heliport,Middlesex Hospital heliport,Q61723674,1,0,1,"heliport in Middletown, Middlesex County, Connecticut, United States",,Q502074,,
+Middlesex Hospital heliport,Middlesex Hospital,Q1431700,1,0,2,"former hospital in London, UK",,Q1813474|Q64578911,,Middlesex Hospital
+Middlesex Hospital heliport,Middlesex Hospital,Q30280541,1,0,2,"healthcare organization in Middletown, United States",,Q4287745|Q16917,,Middlesex Hospital (Connecticut)
+Middlesex Hospital heliport,Middlesex Hospital Medical School,Q24638021,1,0,2,Medical school based at Middlesex Hospital from 1746 until 1987 when it merged with University College Hospital,,Q2385804,,
+Middlesex Hospital heliport,Fitzrovia Chapel,Q17549757,1,0,2,"former chapel of Middlesex Hospital, London",Middlesex Hospital Chapel,Q108325,,Fitzrovia Chapel
+Middlesex Hospital heliport,Middlesex Hospital,Q93359049,1,0,2,scientific article published on 01 November 1829,,Q13442814,,
+Middlesex Hospital heliport,MIDDLESEX Hospital,Q78644129,1,0,2,scientific article published on 01 May 1959,,Q13442814,,
+Middlesex Hospital heliport,Middlesex Hospital,Q58728362,1,0,2,scientific article published on 01 October 1859,,Q13442814,,
+Middlesex Hospital heliport,Middlesex Hospital,Q93361365,1,0,2,scientific article published on 01 August 1830,,Q13442814,,
+Middlesex Hospital heliport,heliport,Q502074,1,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Middlesex Hospital heliport,HELIPORT,Q138638828,1,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Middlesex Hospital heliport,Eliporto di Lierna,Q134386454,1,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Middlesex Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,1,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Middlesex Hospital heliport,Heliport in the Banco de La Republica,Q87031659,1,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Middlesex Hospital heliport,Heliport Rotterdam,Q130534380,1,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Middlesex Hospital heliport,Monaco Heliport,Q662619,1,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Middlesex Hospital heliport,Heliport of San Carlos,Q87033631,1,0,2,heliport in Colombia,SQNC,Q502074,,
+Middlesex Hospital heliport,Héliport Brasserie,Q89431682,1,0,2,restaurant in Belgium,,Q11707,,
+Middlesex Hospital heliport,Heliport of Banco De Occidente,Q87031829,1,0,2,heliport of Colombia,SQBO,Q502074,,
+Wayne County Hospital heliport,Wayne County Hospital heliport,Q61671817,2,0,1,"heliport in Iowa, United States",IA46,Q502074,,
+Wayne County Hospital heliport,Wayne County Hospital heliport,Q61723679,2,0,1,"heliport in Kentucky, United States",,Q502074,,
+Wayne County Hospital heliport,heliport,Q502074,2,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Wayne County Hospital heliport,HELIPORT,Q138638828,2,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Wayne County Hospital heliport,Eliporto di Lierna,Q134386454,2,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Wayne County Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,2,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Wayne County Hospital heliport,Heliport in the Banco de La Republica,Q87031659,2,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Wayne County Hospital heliport,Heliport Rotterdam,Q130534380,2,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Wayne County Hospital heliport,Monaco Heliport,Q662619,2,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Wayne County Hospital heliport,Heliport of San Carlos,Q87033631,2,0,2,heliport in Colombia,SQNC,Q502074,,
+Wayne County Hospital heliport,Héliport Brasserie,Q89431682,2,0,2,restaurant in Belgium,,Q11707,,
+Wayne County Hospital heliport,Heliport of Banco De Occidente,Q87031829,2,0,2,heliport of Colombia,SQBO,Q502074,,
+Wayne County Hospital heliport,Wayne County Hospital heliport,Q61671817,3,0,1,"heliport in Iowa, United States",IA46,Q502074,,
+Wayne County Hospital heliport,Wayne County Hospital heliport,Q61723679,3,0,1,"heliport in Kentucky, United States",,Q502074,,
+Wayne County Hospital heliport,heliport,Q502074,3,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Wayne County Hospital heliport,HELIPORT,Q138638828,3,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Wayne County Hospital heliport,Eliporto di Lierna,Q134386454,3,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Wayne County Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,3,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Wayne County Hospital heliport,Heliport in the Banco de La Republica,Q87031659,3,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Wayne County Hospital heliport,Heliport Rotterdam,Q130534380,3,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Wayne County Hospital heliport,Monaco Heliport,Q662619,3,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Wayne County Hospital heliport,Heliport of San Carlos,Q87033631,3,0,2,heliport in Colombia,SQNC,Q502074,,
+Wayne County Hospital heliport,Héliport Brasserie,Q89431682,3,0,2,restaurant in Belgium,,Q11707,,
+Wayne County Hospital heliport,Heliport of Banco De Occidente,Q87031829,3,0,2,heliport of Colombia,SQBO,Q502074,,
+Kapooka,Kapooka,Q14934855,4,0,1,"locality in New South Wales, Australia","Kapooka, New South Wales|Kapooka, New South Wales, Australia",Q188509,,"Kapooka, New South Wales"
+Kapooka,Kapooka railway station,Q6366922,4,0,1,"railway station in Wagga Wagga LGA, New South Wales, Australia",Kapooka Railway Station,Q55488,,Kapooka railway station
+Kapooka,Kapooka,Q97701703,4,0,1,helicopter landing site near Wagga Wagga,YKKA,Q502074,,
+Kapooka,Kapooka Public School,Q56854924,4,0,1,public school in Wagga Wagga,,Q1080794,,
+Kapooka,Kapooka Tragedy Memorial,Q107297834,4,0,1,memorial in Wagga Wagga,,Q5003624,,
+Kapooka,Kapooka Creek,Q107347888,4,0,1,small intermittent stream near Wagga Wagga,,Q16465938,,
+Kapooka,Kapooka Bridge,Q107297444,4,0,1,road bridge in Wagga Wagga,,Q537127,,
+Kapooka,Kapooka Bridge,Q107297411,4,0,1,former road bridge in Wagga Wagga,,Q537127,,
+Kapooka,Kapooka Military Area Monument,Q131975960,4,0,1,monument in Wagga Wagga,,Q4989906,,
+Kapooka,KAPOOKA BLAMEY BARRACKS,Q123658522,4,0,1,"weather station in New South Wales, Australia from 1968 to 1973 (074242)",074242,Q190107,,
+Oxbow heliport,Oxbow heliport,Q61724428,5,0,1,"heliport in Oregon, United States",,Q502074,,
+Oxbow heliport,Oxbow heliport,Q61675535,5,0,1,"heliport in New Hampshire, United States",55NH,Q502074,,
+Gottlieb,Gottlieb,Q18020611,6,0,1,male given name,Gottlieb (given name)|Gottlieb (first name),Q12308941,,
+Gottlieb,Gottlieb,Q27651154,6,0,1,family name,,Q101352,,
+Gottlieb,Gottlieb Daimler,Q57098,6,0,1,German engineer and industrialist (1834–1900),,Q5,,Gottlieb Daimler
+Gottlieb,Gottlieb,Q1151411,6,0,1,American pinball manufacturer,Mylstar Technologies|D. Gottlieb and Co.,Q4830453,,Gottlieb
+Gottlieb,MHPArena,Q152349,6,0,1,"football stadium in Stuttgart, Germany",Neckarstadion|Gottlieb-Daimler-Stadion|Mercedes-Benz Arena|MHP-Arena|MHP Arena|Stuttgart Arena,Q483110|Q1154710,,MHPArena
+Gottlieb,Paul Weber,Q1280976,6,0,1,German painter (1823-1916),Paul Webber|Gottlieb Daniel Paul Weber|Weber Paul|prof. paul weber|Weber|Paul Gottlieb Weber,Q5,,Paul Weber (artist)
+Gottlieb,Leslie D. Gottlieb,Q16019400,6,0,1,American biologist (1936-2012),Leslie David Gottlieb|Gottlieb|Leslie Gottlieb|L. D. Gottlieb,Q5,,Leslie D. Gottlieb
+Gottlieb,Gottlieb Jakob Planck,Q88606,6,0,1,Protestant theologian and church historian (1751-1833),Gottlieb Planck|Gottlieb Jacob Planck,Q5,,Gottlieb Jakob Planck
+Gottlieb,Gottlieb Duttweiler,Q116111,6,0,1,Swiss businessman and politician (1888-1962),,Q5,,Gottlieb Duttweiler
+Gottlieb,Gottlieb August Wilhelm Herrich-Schäffer,Q64830,6,0,1,German entomologist and physician (1799–1874),,Q5,,G. A. W. Herrich-Schäffer
+Gottlieb,Gottlieb-Daimler-Straße,Q130563273,6,0,2,"street in Meerbusch, North Rhine-Westphalia, Germany",,Q79007,,
+Gottlieb,"Gottlieb Daimler School 2, Böblingen",Q133955397,6,0,2,"vocational school in Böblingen, Germany",,Q322563,,
+Gottlieb,Gottlieb Daimler School 2,Q134029275,6,0,2,"vocational school in Sindelfingen, Germany",,Q322563,,
+Gottlieb,Gottlieb-Daimler-Schulen,Q1246096,6,0,2,school,,Q1542966|Q2251791,,
+Gottlieb,Gottlieb-Daimler-Straße,Q108909423,6,0,2,,,Q34442,,
+Gottlieb,Gottlieb-Daimler-Gedächtnisstätte,Q26706753,6,0,2,museum in Germany,,Q33506,,
+Gottlieb,Gottlieb-Daimler-Straße 22 (Schorndorf),Q136953997,6,0,2,Building in Schorndorf; Germany,,Q41176,,
+Gottlieb,Gottlieb-Daimler-Straße 18 (Schorndorf),Q136953949,6,0,2,Building in Schorndorf; Germany,,Q41176,,
+Gottlieb,Gottlieb Schick,Q569354,6,0,2,German artist (1776-1812),Christian Gottlieb Schick|schick,Q5,,Gottlieb Schick
+Gottlieb,Gottlieb Schäfer,Q94864148,6,0,2,,,Q5,,
+Channel 13,Reshet 13,Q41520212,7,0,1,Israeli television channel,Arutz Reshet 13|Channel Reshet 13|Reshet Channel 13|Arutz 13|Channel 13,Q2001305|Q43229,,Channel 13 (Israel)
+Channel 13,Channel 13,Q5560605,7,0,1,"television channel from Río Cuarto, province of Córdoba, Argentina","LV 86 TV Channel 13 Río Cuarto, Córdoba",Q1616075,,"Channel 13 (Río Cuarto, Argentina)"
+Channel 13,Channel 13,Q56605385,7,0,1,"television channel from San Luis, Argentina",Channel Trece|LV 90 TV Channel 13 San Luis|San Luis +,Q1616075,,San Luis +
+Channel 13,Channel 13,Q21706006,7,0,1,"television station in Tierra del Fuego, Argentina",Canal 13 (Río Grande),Q1616075,,"Channel 13 (Río Grande, Argentina)"
+Channel 13,Channel 13,Q5746382,7,0,1,"television channel of Corrientes, Argentina",13 Max Televisión|LT 80 TV Channel 13 Corrientes,Q1616075,,13 Max Televisión
+Channel 13,Channel 13,Q61668616,7,0,1,"heliport in Marion County, Indiana, United States",II48,Q502074,,
+Channel 13,Telefe (Santa Fe),Q8261439,7,0,1,"Television channel from Santa Fe, Argentina",LT 82 TV Channel 13 Santa Fe|Channel 13 (Santa Fe),Q15265344,,Telefe Santa Fe
+Channel 13,Channel 13 TV stations in Canada,Q19875856,7,0,1,Wikimedia list article,,Q13406463,,Channel 13 TV stations in Canada
+Channel 13,Channel 13 TV stations in Mexico,Q19869633,7,0,1,Wikimedia list article,,Q13406463,,Channel 13 TV stations in Mexico
+Channel 13,Channel 13 digital TV stations in the United States,Q19865446,7,0,1,Wikimedia list article,,Q13406463,,Channel 13 digital TV stations in the United States
+Franklin County Memorial Hospital heliport,Franklin County Memorial Hospital heliport,Q61675233,8,0,1,"heliport in Nebraska, United States",0NE4,Q502074,,
+Franklin County Memorial Hospital heliport,Franklin County Memorial Hospital heliport,Q61725561,8,0,1,"heliport in Virginia, United States",,Q502074,,
+Franklin County Memorial Hospital heliport,heliport,Q502074,8,0,2,airport designed for helicopter use,helidrome|Rotor station,Q136312010,Q62447,Heliport
+Franklin County Memorial Hospital heliport,HELIPORT,Q138638828,8,0,2,research data management guidance system,Helmholtz Scientific Project Workflow Platform,Q95001953|Q189210,,
+Franklin County Memorial Hospital heliport,Eliporto di Lierna,Q134386454,8,0,2,"heliport in Lombardy, Italy",Héliport de Lierna|eVTOL of Lierna,Q502074|Q94993988|Q534159|Q104036862,,
+Franklin County Memorial Hospital heliport,HELIPORT: A Portable Platform for {FAIR Workflow | Metadata | Scientific Project Lifecycle} Management and Everything,Q138649821,8,0,2,conference paper from 'Proceedings of the 4th International Workshop on Practical Reproducible Evaluation of Computer Systems' published in 2020,,Q23927052,,
+Franklin County Memorial Hospital heliport,Heliport in the Banco de La Republica,Q87031659,8,0,2,"heliport in Giradot, Cundinamarca, Colombia",SKIL,Q502074,,
+Franklin County Memorial Hospital heliport,Heliport Rotterdam,Q130534380,8,0,2,"former heliport in Rotterdam, Netherlands (1953–1965)",,Q1248784|Q502074,,
+Franklin County Memorial Hospital heliport,Monaco Heliport,Q662619,8,0,2,"airport in Fontvieille, Monaco",MCM|Héliport de Monaco,Q502074|Q1248784|Q94993988,,Monaco Heliport
+Franklin County Memorial Hospital heliport,Heliport of San Carlos,Q87033631,8,0,2,heliport in Colombia,SQNC,Q502074,,
+Franklin County Memorial Hospital heliport,Héliport Brasserie,Q89431682,8,0,2,restaurant in Belgium,,Q11707,,
+Franklin County Memorial Hospital heliport,Heliport of Banco De Occidente,Q87031829,8,0,2,heliport of Colombia,SQBO,Q502074,,
+Franklin County Memorial Hospital heliport,Franklin County,Q490383,8,0,2,"county in Missouri, United States","Franklin County, Missouri|Franklin County, MO",Q13410520,,"Franklin County, Missouri"
+Franklin County Memorial Hospital heliport,Franklin County,Q488813,8,0,2,"county in Florida, United States","Franklin County, Florida|Franklin County, FL",Q13410422,,"Franklin County, Florida"
+Franklin County Memorial Hospital heliport,Franklin County,Q385931,8,0,2,"county in Georgia, United States","Franklin County, Georgia|Franklin County, GA",Q13410428,,"Franklin County, Georgia"
+Franklin County Memorial Hospital heliport,Franklin County,Q54163,8,0,2,"county in Massachusetts, United States","Franklin County, Massachusetts|Franklin County, MA",Q13410485,,"Franklin County, Massachusetts"
+Franklin County Memorial Hospital heliport,Franklin County,Q115247,8,0,2,"county in New York, United States","Franklin County, New York|Franklin County, NY",Q13414757,,"Franklin County, New York"
+Franklin County Memorial Hospital heliport,Franklin County,Q506326,8,0,2,"county in Maine, United States","Franklin County, Maine|Franklin County, ME",Q13410454,,"Franklin County, Maine"
+Franklin County Memorial Hospital heliport,Franklin County,Q113237,8,0,2,"county in Ohio, United States","Franklin County, Ohio|Franklin County, OH",Q13414759,,"Franklin County, Ohio"
+Franklin County Memorial Hospital heliport,Franklin County,Q494998,8,0,2,"county in Tennessee, United States","Franklin County, Tennessee|Franklin County, TN",Q13415366,,"Franklin County, Tennessee"
+Franklin County Memorial Hospital heliport,Franklin County,Q488892,8,0,2,"county in Alabama, United States","Franklin County, Alabama|Franklin County, AL",Q13410400,,"Franklin County, Alabama"
+Franklin County Memorial Hospital heliport,Franklin County,Q61084,8,0,2,"county in Arkansas, United States","Franklin County, Arkansas|Franklin County, AR",Q11774062,,"Franklin County, Arkansas"
+Franklin County Memorial Hospital heliport,Memorial Sloan Kettering Cancer Center,Q1808012,8,0,2,"cancer treatment and research institution in New York City, United States",MSKCC|New York Cancer Hospital|Sloan Kettering|Memorial Sloan Kettering Hospital|Sloan Kettering Hospital|sloan.org|Memorial Hospital,Q16917|Q31855|Q163740,,Memorial Sloan Kettering Cancer Center
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q30280427,8,0,2,"healthcare organization in Jacksonville, United States",,Q4287745|Q16917,,
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q6815466,8,0,2,"hospital in Worcester, Massachusetts, United States",UMass Memorial Medical Center Memorial Campus|Worcester Memorial Hospital,Q16917,,Memorial Hospital (Worcester)
+Franklin County Memorial Hospital heliport,"Guthrie Robert Packer Hospital, Towanda Campus",Q64159358,8,0,2,"hospital in Towanda, Pennsylvania, United States",Mills Maternity and Convalescent Home|Memorial Hospital|Mills Community Hospital|Guthrie Towanda Memorial Hospital,Q16917,,"Guthrie Robert Packer Hospital, Towanda Campus"
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q30280417,8,0,2,"healthcare organization in York, Pennsylvania",,Q4287745|Q39364723,,
+Franklin County Memorial Hospital heliport,Charlotte Williams Memorial Hospital,Q16903462,8,0,2,"hospital in Virginia, United States",Memorial Hospital,Q64578911,,Charlotte Williams Memorial Hospital
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q6815465,8,0,2,"train station in Belleville, Illinois",,Q2175765,,Memorial Hospital station
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q6815463,8,0,2,"former hospital in Cumberland, Maryland, United States",,Q16917|Q64578911,,Memorial Hospital (Cumberland)
+Franklin County Memorial Hospital heliport,Memorial Hospital,Q30280422,8,0,2,"healthcare organization in Colorado Springs, United States",,Q4287745|Q16917,,
+Franklin County Memorial Hospital heliport,Memorial Hospital of Rhode Island,Q6815467,8,0,2,"former hospital in Rhode Island, United States",,Q16917|Q64578911,,Memorial Hospital of Rhode Island
+Milton Airport,Milton Airport,Q35280900,9,0,1,"airport in Morgan County, Alabama, United States of America",Milton Aerodrome|4AL8,Q1248784|Q62447,,
+Milton Airport,Milton Airport,Q97702223,9,0,1,,YILT,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61711869,10,0,1,"heliport in Minnesota, United States",,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61672448,10,0,1,"heliport in Louisiana, United States",LA84,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61723773,10,0,1,"heliport in New York, United States",,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Central,Q7587845,10,0,2,"hospital in Lafayette, Indiana, United States",Franciscan Health Lafayette Central|Franciscan Health Lafayette East|St. Elizabeth Hospital,Q16917,,Franciscan Health Lafayette Central
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q30628702,10,0,2,"hospital in Appleton, Wisconsin, United States",,Q16917,,"St. Elizabeth Hospital (Appleton, Wisconsin)"
+St. Elizabeth Hospital heliport,St. Elizabeth Healthcare,Q16979734,10,0,2,"Healthcare organization in Edgewood, Kentucky, USA",St. Elizabeth Medical Center|St. Elizabeth Medical Center South|St. Elizabeth Hospital,Q4287745|Q1774587,,St. Elizabeth Healthcare (Kentucky)
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q7587852,10,0,2,"hospital in Louisiana, United States",,Q16917,,Our Lady of the Lake Ascension
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q7587851,10,0,2,"hospital in Enumclaw, Washington, United States",Enumclaw Regional Hospital,Q16917,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q30598328,10,0,2,"former hospital in Hannibal, Missouri, USA",Saint Elizabeth Hospital,Q39364723|Q64578911,,"St. Elizabeth Hospital (Hannibal, Missouri)"
+St. Elizabeth Hospital heliport,ST. ELIZABETH HOSPITAL. IMO STATE.NIG.,Q137646672,10,0,2,Hospital in Nigeria,,Q16917,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61711869,11,0,1,"heliport in Minnesota, United States",,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61672448,11,0,1,"heliport in Louisiana, United States",LA84,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital heliport,Q61723773,11,0,1,"heliport in New York, United States",,Q502074,,
+St. Elizabeth Hospital heliport,St. Elizabeth Central,Q7587845,11,0,2,"hospital in Lafayette, Indiana, United States",Franciscan Health Lafayette Central|Franciscan Health Lafayette East|St. Elizabeth Hospital,Q16917,,Franciscan Health Lafayette Central
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q30628702,11,0,2,"hospital in Appleton, Wisconsin, United States",,Q16917,,"St. Elizabeth Hospital (Appleton, Wisconsin)"
+St. Elizabeth Hospital heliport,St. Elizabeth Healthcare,Q16979734,11,0,2,"Healthcare organization in Edgewood, Kentucky, USA",St. Elizabeth Medical Center|St. Elizabeth Medical Center South|St. Elizabeth Hospital,Q4287745|Q1774587,,St. Elizabeth Healthcare (Kentucky)
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q7587852,11,0,2,"hospital in Louisiana, United States",,Q16917,,Our Lady of the Lake Ascension
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q7587851,11,0,2,"hospital in Enumclaw, Washington, United States",Enumclaw Regional Hospital,Q16917,,
+St. Elizabeth Hospital heliport,St. Elizabeth Hospital,Q30598328,11,0,2,"former hospital in Hannibal, Missouri, USA",Saint Elizabeth Hospital,Q39364723|Q64578911,,"St. Elizabeth Hospital (Hannibal, Missouri)"
+St. Elizabeth Hospital heliport,ST. ELIZABETH HOSPITAL. IMO STATE.NIG.,Q137646672,11,0,2,Hospital in Nigeria,,Q16917,,
+Baptist Medical Center heliport,Baptist Medical Center Airport,Q34957808,12,0,1,"heliport in Montgomery County, Alabama, USA",Baptist Medical Center heliport|AL11,Q1248784|Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q61721194,12,0,1,"heliport in Texas, United States",,Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q61711881,12,0,1,"heliport in Missouri, United States",,Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q74842115,12,0,1,"heliport in Duval County, Florida, United States",,Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center Airport,Q34957808,13,0,1,"heliport in Montgomery County, Alabama, USA",Baptist Medical Center heliport|AL11,Q1248784|Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q61721194,13,0,1,"heliport in Texas, United States",,Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q61711881,13,0,1,"heliport in Missouri, United States",,Q502074,,
+Baptist Medical Center heliport,Baptist Medical Center heliport,Q74842115,13,0,1,"heliport in Duval County, Florida, United States",,Q502074,,
+Jordan Seaplane Base,Jordan Seaplane Base,Q34967207,14,0,1,"airport in Beltrami County, Minnesota, United States of America",Jordan Water Aerodrome|MN05,Q3143713,,
+Jordan Seaplane Base,Jordan Seaplane Base,Q35269379,14,0,1,"airport in Marion County, Florida, United States of America",Jordan|7FL0,Q3143713|Q502074,,
+Jordan Seaplane Base,Jordan Seaplane Base,Q74841806,14,0,1,,,Q3143713,,
+Pinetree,Colin Meads,Q642380,15,0,1,New Zealand rugby union player (1936-2017),Colin Earl Meads|Sir Colin Meads|Pinetree Meads|Pinetree|Sir Colin Earl Meads,Q5,,Colin Meads
+Pinetree,Pinetree,Q61667102,15,0,1,"heliport in Forsyth County, Georgia, United States",8GA0,Q502074,,
+Pinetree,Pinetree Secondary School,Q7195576,15,0,1,"high school in Coquitlam, British Columbia, Canada",,Q9826,,Pinetree Secondary School
+Pinetree,Pinetree Line,Q774916,15,0,1,Series of radar stations,,Q113514674,,Pinetree Line
+Pinetree,Pinetrees,Q55412658,15,0,1,painting by August Cappelen,,Q3305213,,
+Pinetree,Pinetree Lake,Q22372211,15,0,1,"lake in Haliburton County, Ontario, Canada",,Q23397,,
+Pinetree,Pinetree Lake,Q22372232,15,0,1,"lake in Parry Sound District, Ontario, Canada",,Q23397,,
+Pinetree,Pinetrees Point,Q21904298,15,0,1,point in Australia,,Q24529780,,
+Pinetree,Pinetree Point,Q125703531,15,0,1,point in New Zealand,,Q24529780,,
+Pinetree,Pinetree Point,Q22372274,15,0,1,"peninsula in United Counties of Stormont, Dundas and Glengarry, Ontario, Canada",,Q34763,,
+Pinetree,Pinetree Point,Q22372298,15,0,2,"peninsula in Parry Sound District, Ontario, Canada",,Q34763,,
+Pinetree,Pinetree Point,Q22221850,15,0,2,Wikimedia disambiguation page,,Q4167410,,
+La Plata,La Plata,Q44059,16,0,1,"capital of the Buenos Aires province, Argentina",,Q5770918|Q1549591|Q1074523|Q5119,,La Plata
+La Plata,La Plata,Q593144,16,0,1,Colombian municipality of the department of Huila,,Q2555896,,"La Plata, Huila"
+La Plata,Sucre,Q2907,16,0,1,constitutional capital of Bolivia,Charcas|La Plata|Chuquisaca|The Illustrious and Heroic Sucre,Q1549591|Q515,,Sucre
+La Plata,La Plata,Q20132230,16,0,1,human settlement in Mexico,,Q486972|Q20202352,,
+La Plata,La Plata train station Roca,Q8779035,16,0,1,train station in Argentina,Estacion La Plata Roca|La Plata train station FCR,Q55488|Q55490,,La Plata station (Argentina)
+La Plata,La Plata,Q286925,16,0,1,"town in and seat of Charles County, Maryland, United States","La Plata, Maryland|La Plata, MD",Q139961091|Q62049,,"La Plata, Maryland"
+La Plata,La Plata train station CGBA,Q5842995,16,0,1,former train station in Argentina,Estacion Km 88 La Plata|Estacion La Plata Compañía General|Estacion La Plata CGBA|Km 88 train station|La Plata train station Compañía General,Q4663385,,
+La Plata,La Plata,Q20132223,16,0,1,"human settlement in Tantoyuca, Mexico",,Q486972|Q20202352,,
+La Plata,La Plata,Q114093268,16,0,1,village in Spain,,Q532|Q3055118,,
+La Plata,La Plata,Q120986354,16,0,1,family name,,Q101352,,
+La Plata,La Plata River,Q4251726,16,0,2,"river in La Plata County, Colorado and San Juan County in New Mexico in the United States",Plata River|Rio La Plata|Tsé Dogoi Nlini,Q4022|Q47521,,La Plata River (San Juan River tributary)
+La Plata,Río de la Plata,Q35827,16,0,2,estuary formed by the confluence of the Uruguay River and the Paraná River on the border between Argentina and Uruguay,River Plate|Plata River|La Plata River,Q47053|Q4022|Q573344,,Río de la Plata
+La Plata,Río de la Plata,Q7335384,16,0,2,river in Puerto Rico,La Plata River|Toa River,Q4022,,Río de la Plata (Puerto Rico)
+La Plata,La Plata River,Q35392871,16,0,2,river in Venezuela,,Q4022,,
+La Plata,La Plata River and Cherry Creek Ditch,Q49258563,16,0,2,"canal in La Plata County, Colorado, United States of America",,Q12284,,
+La Plata,La Plata River Dolphin,Q56020937,16,0,2,,,Q13442814,,

@@ -1,0 +1,40 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ponte San Lorenzo,Ponte San Lorenzo,Q3908024,0,0,1,"human settlement in Narni, Province of Terni, Umbria, Italy",,Q1134686,,
+Ponte San Lorenzo,Ponte San Lorenzo,Q2103738,0,0,1,"bridge in Padua, Italy",,Q14276458|Q3397526|Q14752696|Q1223230,,Ponte San Lorenzo
+Ponte San Lorenzo,Ponte San Lorenzo,Q135400015,0,0,1,village in Solagna,,Q486972,,
+Ponte San Lorenzo,Ponte San Lorenzo,Q57030758,0,0,1,,,Q158438,,
+Ponte San Lorenzo,Ponte San Lorenzo,Q111681945,0,0,1,"Road bridge in Trento, Trento, Trentino-Alto Adige, Italy; Trento, Trento, Trentino-Alto Adige, Italy",,Q537127,,
+Ponte San Lorenzo,Ponte Vecchio,Q208633,0,0,2,"bridge in Florence, Italy",Vecchio Bridge,Q14276458|Q3397526|Q3397551|Q1250323|Q1068842,,Ponte Vecchio
+Ponte San Lorenzo,Ponte Azzone Visconti,Q3907952,0,0,2,"bridge on Lake Como, Italy",Ponte Vecchio|Ponte Grande,Q537127,Q57821,Azzone Visconti Bridge
+Ponte San Lorenzo,Ponte Vecchio,Q89591373,0,0,2,"bridge in Ivrea, Italy",,Q1223230|Q158438,,"Ponte Vecchio, Ivrea"
+Ponte San Lorenzo,Ponte Vecchio,Q28128651,0,0,2,painting by Randall Morgan,,Q3305213,,
+Ponte San Lorenzo,Ponte Gobbo,Q844241,0,0,2,"bridge over the Trebbia river at Bobbio, province of Piacenza, Italy",Ponte Vecchio|Ponte del Diavolo,Q3397526|Q158438|Q12280,,
+Ponte San Lorenzo,"Ponte Vecchio, Cesena",Q3397710,0,0,2,"ancient bridge over Savio river in Cesena, Italy",Ponte Vecchio,Q12280,,"Ponte Vecchio, Cesena"
+Ponte San Lorenzo,Ponte Vecchio,Q3908045,0,0,2,"human settlement in Magenta, Italy",,Q1134686,,
+Ponte San Lorenzo,Ponte Vecchio,Q28003374,0,0,2,bridge in Italy,,Q12280,,
+Ponte San Lorenzo,Ponte Vecchio,Q66753822,0,0,2,"bridge in Dicomano, Italy",,Q1223230|Q12280|Q14752696,,
+Ponte San Lorenzo,ponte vecchio,Q28003393,0,0,2,"bridge in Introd, Italy",Old bridge of Introd,Q12280,,
+Ponte San Lorenzo,Ponte alla Carraia,Q1069796,0,0,2,"bridge in Florence, Italy",,Q537127,,Ponte alla Carraia
+Ponte San Lorenzo,"Ponte alla Carraia, Florence",Q119268149,0,0,2,"painting by Carel Victor Morlais Weight (1908–1997), Government Art Collection",,Q3305213,,
+Ponte d'Augusto,Ponte d'Augusto,Q2063557,1,0,1,"Roman bridge in Rimini, Italy built around 20 AD",Ponte di Tiberio,Q14276458|Q3397526|Q1223230,,Ponte di Tiberio (Rimini)
+Ponte d'Augusto,Ponte d'Augusto,Q2103779,1,0,1,"bridge in Umbria, Italy",,Q3397526|Q158438|Q1223230,,Bridge of Augustus (Narni)
+Ponte d'Augusto,Ponte d'Augusto,Q2103772,1,0,1,Wikimedia disambiguation page,,Q4167410,,Ponte d'Augusto
+Ponte d'Augusto,Augustus Bridge,Q450445,1,0,2,bridge over the river Elbe,,Q537127|Q158438|Q79007,,Augustus Bridge
+Ponte d'Augusto,Augustus Bridge of Dresden,Q50911946,1,0,2,painting by Gotthardt Kuehl,,Q3305213,,
+Ponte d'Augusto,Pons Aelius,Q7227963,1,0,2,Roman settlement in northern England,Newcastle Roman Fort,Q88205,,Pons Aelius
+Ponte d'Augusto,Ponte Sant'Angelo,Q870476,1,0,2,bridge in Rome,,Q14276458|Q1068842|Q3397526|Q537127|Q1223230,,Ponte Sant'Angelo
+Ponte d'Augusto,Pons Aelius,Q22226883,1,0,2,Wikimedia disambiguation page,,Q4167410,,
+Ponte d'Augusto,Ponte d'Augusto,Q2063557,2,0,1,"Roman bridge in Rimini, Italy built around 20 AD",Ponte di Tiberio,Q14276458|Q3397526|Q1223230,,Ponte di Tiberio (Rimini)
+Ponte d'Augusto,Ponte d'Augusto,Q2103779,2,0,1,"bridge in Umbria, Italy",,Q3397526|Q158438|Q1223230,,Bridge of Augustus (Narni)
+Ponte d'Augusto,Ponte d'Augusto,Q2103772,2,0,1,Wikimedia disambiguation page,,Q4167410,,Ponte d'Augusto
+Ponte d'Augusto,Augustus Bridge,Q450445,2,0,2,bridge over the river Elbe,,Q537127|Q158438|Q79007,,Augustus Bridge
+Ponte d'Augusto,Augustus Bridge of Dresden,Q50911946,2,0,2,painting by Gotthardt Kuehl,,Q3305213,,
+Ponte d'Augusto,Pons Aelius,Q7227963,2,0,2,Roman settlement in northern England,Newcastle Roman Fort,Q88205,,Pons Aelius
+Ponte d'Augusto,Ponte Sant'Angelo,Q870476,2,0,2,bridge in Rome,,Q14276458|Q1068842|Q3397526|Q537127|Q1223230,,Ponte Sant'Angelo
+Ponte d'Augusto,Pons Aelius,Q22226883,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Ballochmyle Viaduct,Ballochmyle Viaduct,Q4851829,3,0,1,"railway bridge in East Ayrshire, Scotland",,Q3397526|Q39486269|Q158438,,Ballochmyle Viaduct
+Ballochmyle Viaduct,Ballochmyle Viaduct over the River Ayr,Q119078268,3,0,1,"painting by David Octavius Hill (1802–1870), Glasgow Museums Resource Centre (GMRC)",,Q3305213,,
+Ponte del Purgatorio,Ponte del Purgatorio,Q56696460,4,0,1,"bridge in Venice, Italy",,Q3397526,,
+Ponte del Purgatorio,Brig of Dread,Q4967129,4,0,1,Bridge to Purgatory or the afterlife,Bridge of Dread,Q3238337|Q24335742,,Brig of Dread
+Ponte Cappello o dei Garzoti,Ponte Cappello o dei Garzoti,Q56649384,5,0,1,"bridge in Venice, Italy",,Q3397526,,
+Ponte Cappello o dei Garzoti,Ponte Cappello,Q56649375,5,0,2,,,Q3397526,,

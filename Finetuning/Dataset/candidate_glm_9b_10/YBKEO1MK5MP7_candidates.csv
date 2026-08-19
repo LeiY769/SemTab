@@ -1,0 +1,42 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Takagi Station,Takagi Station,Q11670177,0,0,1,"Demolished tram station in Saitama, Japan",,Q4663385|Q106772341|Q4312270,,
+Takagi Station,Takagi Station,Q7677015,0,0,1,"railway station in Nanto, Toyama prefecture, Japan",,Q55488|Q22808404|Q85882206,,Takagi Station (Toyama)
+Takagi Station,Takagi Station,Q7677012,0,0,1,"railway station in Fuchū, Hiroshima prefecture, Japan",,Q55488|Q4312270|Q85882206|Q4346602|Q123094976,,Takagi Station (Hiroshima)
+Takagi Station,Takagi Station,Q7677013,0,0,1,"former railway station in Miki, Hyogo prefecture, Japan",,Q4663385|Q106772341|Q4312270|Q85882206,,Takagi Station (Hyōgo)
+Takagi Station,Takagi Station,Q7677009,0,0,1,Wikimedia disambiguation page,,Q4167410,,Takagi Station
+Kameyama Station,Kameyama Station,Q5358681,1,0,1,"railway station in Kameyama, Mie prefecture, Japan",,Q55488|Q22808404|Q2451577|Q1147171|Q11606300,,Kameyama Station (Mie)
+Kameyama Station,Kazusa-Kameyama Station,Q6381705,1,0,1,"railway station in Kimitsu, Chiba prefecture, Japan",Kameyama Station,Q55488|Q55485|Q4312270|Q85882206|Q11606300|Q123094976,,Kazusa-Kameyama Station
+Kameyama Station,Kameyama Station,Q6357058,1,0,1,"railway station in Himeji, Hyogo prefecture, Japan",,Q55488,,Kameyama Station (Hyōgo)
+Kameyama Station,Kameyama Station,Q11370892,1,0,1,"former railway station in Himeji, Hyogo prefecture, Japan",,Q4663385,,
+Kameyama Station,Kameyama Station,Q22341558,1,0,1,Wikimedia disambiguation page,,Q4167410,,Kameyama Station
+Feldbuschwende,Feldbuschwende,Q97714436,2,0,1,"street in the district of Bemerode in Hanover, Germany",,Q79007,,
+Feldbuschwende,Feldbuschwende,Q63365443,2,0,1,"Light rail stop in Hanover, Germany",,Q22808404|Q2175765,,
+Franklin station,Franklin station,Q5491209,3,0,1,"railway station in Franklin, Massachusetts",Franklin/Dean College station,Q55488,,Franklin station (Massachusetts)
+Franklin station,Franklin station,Q4493163,3,0,1,"railway station in Alberta, Canada",Franklin CTrain Station,Q55488|Q22808404,,Franklin station (Calgary)
+Franklin station,Franklin station,Q57902209,3,0,1,Wikimedia disambiguation page,,Q4167410,,Franklin station
+Farmington,Farmington,Q743287,4,0,1,"town in Hartford County, Connecticut, United States","Farmington, Connecticut|Farmington, CT",Q2154459,,"Farmington, Connecticut"
+Farmington,Farmington,Q1369658,4,0,1,"city in Michigan, United States","Farmington, Michigan|Farmington, MI",Q1093829,,"Farmington, Michigan"
+Farmington,Farmington,Q20081015,4,0,1,"village and civil parish in Cotswold, Gloucestershire, England",,Q532|Q1115575,,"Farmington, Gloucestershire"
+Farmington,Farmington,Q1505702,4,0,1,"town in Whitman County, Washington, United States","Farmington, WA|Town of Farmington",Q15127012,,"Farmington, Washington"
+Farmington,Farmington,Q548424,4,0,1,"census-designated place in southwestern Pennsylvania, USA","Farmington, Pennsylvania|Farmington, PA",Q498162|Q17343829,,"Farmington, Pennsylvania"
+Farmington,Farmington,Q1012695,4,0,1,"city in San Juan County, New Mexico, United States","Farmington, New Mexico|Farmington, NM",Q1093829,,"Farmington, New Mexico"
+Farmington,Farmington,Q483000,4,0,1,"city in and county seat of Davis County, Utah, United States","Farmington, Utah|North Cottonwood|Farmington, UT",Q1093829,,"Farmington, Utah"
+Farmington,Farmington,Q2300469,4,0,1,"county seat of Franklin County, Maine, United States","Farmington, Maine|Farmington, ME",Q62049|Q15127012,,"Farmington, Maine"
+Farmington,Farmington,Q968752,4,0,1,"city in and county seat of St. Francois County, Missouri, United States","Farmington, Missouri|Farmington, MO",Q1093829|Q62049,,"Farmington, Missouri"
+Farmington,Farmington,Q2076191,4,0,1,"town in Strafford County, New Hampshire, United States","Farmington, New Hampshire|Farmington N.H.|Farmington NH|Farmington, NH",Q2154459|Q3957,,"Farmington, New Hampshire"
+Farmington,"Farmington, Connecticut",Q64580689,4,0,2,drawing in the National Gallery of Art (NGA 86085),,Q93184,,
+Majorstuen,Majorstuen,Q19380884,5,0,1,"tram stop in Oslo, Norway",Majorstuen holdeplass,Q2175765,,
+Majorstuen,Majorstuen,Q4129897,5,0,1,"borough in Oslo, Norway",,Q123705,,Majorstuen
+Majorstuen,Majorstuen Metro Station,Q3356829,5,0,1,"metro station in Oslo, Norway",Majorstuen Metro station,Q928830|Q22808404,,Majorstuen station
+Majorstuen,Majorstuen,Q15688945,5,0,1,Norwegian musical group,,Q215380,,
+Majorstuen,Majorstuen,Q18881210,5,0,1,2002 self-titled debut studio album by Majorstuen,,Q482994,,
+Majorstuen,Majorstuen Church,Q10356683,5,0,1,"church in Oslo, Norway",,Q16970|Q358,,
+Majorstuen,Majorstuen skole,Q11987899,5,0,1,,,Q2065736|Q11960248,,
+Majorstuen,Majorstuen Police Station,Q19380885,5,0,1,,,Q861951,,
+Majorstuen,Majorstuen løkke,Q27031870,5,0,1,"painting by Karl Edvard Diriks (Oslo Museum, OB.01089)",,Q3305213,,
+Majorstuen,Majorstuen FK,Q65233488,5,0,1,"football club in Oslo, Norway",Majorstuen Fotballklubb,Q476028,,
+Vila Matilde,Vila Matilde,Q7929998,6,0,1,"metro station in São Paulo, Brazil",,Q928830|Q22808404,,Vila Matilde (São Paulo Metro)
+Vila Matilde,Vila Matilde District,Q10390966,6,0,1,District of São Paulo city,,Q18559008,,Vila Matilde (district of São Paulo)
+Vila Matilde,Vila Matilde Colégio,Q140058872,6,0,1,"school in São Paulo, São Paulo, Brazil",,Q3914,,
+Vila Matilde,Vila Matilde Colégio Adventista De,Q140058065,6,0,1,"school in São Paulo, São Paulo, Brazil",,Q3914,,
+Vila Matilde,Vila Matilde,Q47067240,6,0,1,Wikimedia disambiguation page,,Q4167410,,Vila Matilde

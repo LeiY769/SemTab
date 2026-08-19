@@ -1,0 +1,25 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+IBM-Haus,IBM-Haus,Q58218722,0,0,1,office building in Berlin-Charlottenburg,,Q1021645|Q671224,,
+IBM-Haus,IBM-Haus,Q116415109,0,0,1,,,Q1021645,,
+IBM-Haus,IBM House,Q1653057,0,0,1,"former office building (demolished 2013) in Hanover, Germany",,Q1021645,,
+IBM-Haus,IBM-Haus,Q91025934,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+IBM-Haus,330 North Wabash,Q225731,0,0,2,Skyscraper located in Chicago,AMA Plaza|IBM Building,Q18142,,AMA Plaza
+IBM-Haus,IBM Building,Q26703192,0,0,2,building in Madrid,former IBM Building,Q1021645,,
+IBM-Haus,IBM Building,Q5968781,0,0,2,"building in Seattle, Washington, USA",,Q1021645,,1200 Fifth
+IBM-Haus,United Steelworkers Building,Q106600371,0,0,2,"office in Pennsylvania, United States of America",IBM Building|I.W. Abel Building|Five Gateway Center,Q134570257,,United Steelworkers Building
+IBM-Haus,IBM Building,Q138755412,0,0,2,,,,,IBM Building (Pittsburgh)
+IBM-Haus,IBM Building,Q97013001,0,0,2,"building in South Bank, London, UK","76 Upper Ground|IBM Building, South Bank",Q1021645,,
+IBM-Haus,"IBM Building, Johannesburg",Q5968771,0,0,2,building in South Africa,,Q41176,,
+IBM-Haus,IBM Building (Honolulu),Q111360375,0,0,2,Office building,"1240 Ala Moana Boulevard|IBM Building, Honolulu",Q41176,,"IBM Building, Honolulu"
+IBM-Haus,590 Madison Avenue,Q1642787,0,0,2,skyscraper in New York City,,Q11303,,590 Madison Avenue
+IBM-Haus,IBM Building,Q16785269,0,0,2,Wikimedia disambiguation page,,Q4167410,,IBM Building
+Raffles City Hangzhou,Raffles City Hangzhou,Q11102554,1,0,1,"building in Hangzhou, China",,Q1497364|Q1021645|Q11303,,
+Raffles City Hangzhou,Raffles City Hangzhou,Q111941914,1,0,1,"skyscraper complex in Chongqing, China",,,,Raffles City Hangzhou
+Raffles City Hangzhou,Raffles City,Q5359041,1,0,2,"Hotel, office and shopping complex in Singapore",,Q11315,,Raffles City Singapore
+Raffles City Hangzhou,Raffles City Shanghai,Q2195212,1,0,2,"building in Huangpu District, China",Raffles City,Q11303,,Raffles City Shanghai
+Raffles City Hangzhou,Raffles City Chongqing,Q55908607,1,0,2,building in People's Republic of China,,Q11303|Q1497364|Q31374404,,Raffles City Chongqing
+Raffles City Hangzhou,Raffles City Chengdu,Q63170305,1,0,2,"retail building in Chengdu, Sichuan, China",,Q18760388,,
+Raffles City Hangzhou,"Raffles City, the North Bund",Q114727480,1,0,2,,,,,
+Raffles City Hangzhou,Raffles City Changning,Q109348312,1,0,2,"A mall in Changning, Shanghai, China",,Q11315|Q1021645,,
+Raffles City Hangzhou,OYO 859 Raffles City Hotel,Q111052651,1,0,2,"hotel in Bengkulu, Indonesia",Raffles City Hotel,Q27686,,
+Raffles City Hangzhou,Raffles City,Q61963219,1,0,2,Wikimedia disambiguation page,,Q4167410,,Raffles City (disambiguation)

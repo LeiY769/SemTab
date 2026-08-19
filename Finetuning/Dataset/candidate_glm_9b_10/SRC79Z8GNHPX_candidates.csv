@@ -1,0 +1,70 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+La Rebollera,La Rebollera,Q20106959,0,0,1,,,Q4421,,
+La Rebollera,La Rebollera,Q20106509,0,0,1,,,Q4421,,
+La Rebollera,La Rebollera,Q20103084,0,0,1,,,Q2624046,,
+La Rebollera,La Rebollera (Abella de la Conca),Q11930726,0,0,1,,,Q4421,,
+La Rebollera,La Rebollera (Senyús),Q11930727,0,0,1,,,Q4421,,
+La Rebollera,La Rebollera,Q20106959,1,0,1,,,Q4421,,
+La Rebollera,La Rebollera,Q20106509,1,0,1,,,Q4421,,
+La Rebollera,La Rebollera,Q20103084,1,0,1,,,Q2624046,,
+La Rebollera,La Rebollera (Abella de la Conca),Q11930726,1,0,1,,,Q4421,,
+La Rebollera,La Rebollera (Senyús),Q11930727,1,0,1,,,Q4421,,
+Brandl,Brandl,Q21509059,2,0,1,family name,,Q101352|Q98775491,,
+Brandl,Petr Brandl,Q558499,2,0,1,Czech painter and portrait painter (1668-1735),Peter Brandel|Peter Brandl|Petr Prandl|Johann Peter Brandl|Petr Brandel|Peter Brandt|Peter Jan Brandel|P. Brandel|Petrus Brandel|Brandl|Pet. Brandel|P. J. Brandel|Brandel|Piter Brandel|Brandell|brandel peter|J. P. Brandel|johann peter brandel|Prandel,Q5,,Petr Brandl
+Brandl,Brändl,Q83494319,2,0,1,family name,,Q101352,,
+Brandl,Eisenia fetida,Q1501422,2,0,1,species of annelid,Eisenia foetida|manure worm|redworm|brandling worm,Q16521,,Eisenia fetida
+Brandl,Brändli,Q61067709,2,0,1,family name,Brändli (family name)|Brändli (surname),Q101352,,Brändli
+Brandl,Brändle,Q20995921,2,0,1,family name,,Q101352|Q98775491,,Brändle
+Brandl,Brandler,Q21492086,2,0,1,family name,,Q101352,,Brandler
+Brandl,Brandlova,Q43454096,2,0,1,"street in Kolín, Czech Republic",Brandlova (Kolín),Q79007,,
+Brandl,Brandling,Q19919739,2,0,1,family name,,Q101352,,
+Brandl,Brandlova,Q43402327,2,0,1,"street in Brno, Czech Republic",Brandlova (Brno),Q79007,,
+Brandl,Brandl GmbH,Q19703450,2,0,2,,,Q4830453,,
+Aletschwald,Aletschwald,Q2641176,3,0,1,,,Q473972|Q4421,,
+Aletschwald,Aletschwald,Q108204212,3,0,1,"Raised and Transitional Mire of national importance in Riederalp, canton of Valais, Switzerland",VS-941,Q473972,,
+Aletschwald,Aletschwald,Q108204908,3,0,1,protected area in Switzerland (CH10_32),,Q473972,,
+Aletschwald,Aletschwald,Q108206468,3,0,1,protected area in Switzerland (CH52_01681),,Q473972,,
+Aletschwald,Aletsch Glacier,Q204658,3,0,2,glacier in Switzerland,Great Aletsch Glacier|Grosser Aletsch|the Aletsch Glacier|Aletsch,Q11762356,,Aletsch Glacier
+Aletschwald,Swiss Alps,Q25220,3,0,2,portion of the Alps mountain range that lies within Switzerland,,Q1437459,,Swiss Alps
+Aletschwald,Swiss Alps Jigsaw Puzzles,Q111598295,3,0,2,2021 video game,,Q7889,,
+Aletschwald,Swiss Alps Inn,Q131743588,3,0,2,"motel in Heber City, Utah, United States",,Q216212,,
+Klauswald,Klauswald,Q21868438,4,0,1,forest in Lower Austria,,Q4421,,
+Klauswald,Klauswald,Q32065496,4,0,1,,,Q4421,,
+Klauswald,Klauswald-Nord,Q138058367,4,0,1,,,Q1499928|Q4421,,
+Klauswald,Klauswald-Süd,Q138056438,4,0,1,,,Q1499928|Q4421,,
+Klauswald,Klauswald,Q22172879,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Doolhof,Doolhof,Q19013405,5,0,1,"street in Oudeschild, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q2018125,5,0,1,"forest in Texel, Netherlands",,Q4421,,
+Doolhof,Doolhof,Q122503135,5,0,1,"landscape element on the Kernhem Estate in Ede, the Netherlands",,Q606777|Q1529874|Q839954,,
+Doolhof,Doolhof,Q122711190,5,0,1,"hedge maze in Amstelpark, Amsterdam, Netherlands",Doolhof (Amstelpark),Q13406558|Q207524,,
+Doolhof,Doolhof,Q19013409,5,0,1,"street in Volendam, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q19013394,5,0,1,"street in Enkhuizen, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q19013393,5,0,1,"street in Den Helder, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q19013400,5,0,1,"street in Luyksgestel, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q19013407,5,0,1,"street in Ravenstein, the Netherlands",,Q79007,,
+Doolhof,Doolhof,Q19013391,5,0,1,"street in Den Burg, the Netherlands",,Q79007,,
+Bois d'Amour,Bois d'Amour,Q22579558,6,0,1,,,Q4421,,
+Bois d'Amour,Bois d'Amour,Q105452395,6,0,1,,,Q3241565,,
+Bois d'Amour,bois d'Amour,Q49325766,6,0,1,,,Q4421,,
+Bois d'Amour,Bois d’Amour,Q123707461,6,0,1,,,Q4421,,
+Bois d'Amour,Bois d'Amour (Pont-Aven),Q93732407,6,0,1,,,Q4421,,
+Bois d'Amour,Bois d’Amour,Q22153436,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Maiburg,Maiburg,Q121832550,7,0,1,family name,,Q101352,,
+Maiburg,Maiburg,Q1527744,7,0,1,"nature reserve in Lower Saxony, Germany",,Q759421|Q473972,,
+Maiburg,Maiburg,Q1734449,7,0,1,,,Q4421,,
+Maiburg,Maiburger Straße,Q100419447,7,0,1,"street in Leer (Ostfriesland), Lower Saxony, Germany",,Q79007,,
+Maiburg,Maiburg Jhzn,Q110062572,7,0,1,,,Q4830453,,
+Maiburg,Maiburg,Q1885133,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+Sosebee Cove,Sosebee Cove,Q7563829,8,0,1,"cove forest found in the Chattahoochee National Forest in Union County, Georgia, U.S.",,Q4421,,Sosebee Cove
+Clun Forest,Clun Forest,Q2980385,9,0,1,sheep breed,Clun,Q15622363,Q7368,Clun Forest sheep
+Clun Forest,Clun Forest,Q2021101,9,0,1,"forest on the border of Shropshire, England and Powys, Wales, UK",,Q4421,,Clun Forest
+Clun Forest,Clun Castle,Q5136615,9,0,2,"castle in Clun, Shropshire, England, UK",Clun Castle: a motte and bailey castle and formal garden earthworks,Q92062,,Clun Castle
+Clun Forest,GWR 4073 Class 7029 “Clun Castle”,Q5514963,9,0,2,preserved British 4-6-0 locomotive,"BR 7029 Clun Castle|7029|Clun Castle|7029 ""Clun Castle""",Q20650761,,GWR 4073 Class 7029 Clun Castle
+Clun Forest,Clun castle,Q75598123,9,0,2,photograph by Percy Benzie Abery,,Q125191,,
+Clun Forest,Clun castle,Q75595968,9,0,2,photograph by P B Abery,,Q125191,,
+Clun Forest,Clun castle from the lake,Q75598234,9,0,2,photograph by Percy Benzie Abery,,Q125191,,
+Clun Forest,Clun Castle Reappraised,Q111718787,9,0,2,article published in 1994,,Q13442814,,
+Clun Forest,Clun Valley motor car & garage,Q75598422,9,0,2,photograph by Percy Benzie Abery,,Q125191,,
+Kloosterbosch,Kloosterbosch,Q19304279,10,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Kloosterbosch,Kloosterbosch,Q13744287,10,0,1,"forest in Valkenburg aan de Geul, Netherlands",Kloosterbos,Q4421|Q10594991,,
+Kloosterbosch,Kloosterbosch,Q25640956,10,0,1,"former hamlet in Kerkrade, Netherlands",,Q5084,,

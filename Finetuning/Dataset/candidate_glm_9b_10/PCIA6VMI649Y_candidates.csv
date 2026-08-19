@@ -1,0 +1,31 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+N!2002ag,,,0,0,0,,,,,
+SN 2001f,SN 2001F,Q9328110,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fh,Q9328270,1,0,1,supernova,,Q3937|Q6243,,
+SN 2001f,SN 2001fc,Q9328265,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fm,Q9328275,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fe,Q9328267,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fb,Q9328264,1,0,1,supernova,,Q3937|Q67206691,,
+SN 2001f,SN 2001fv,Q9328284,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fs,Q9328280,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fr,Q9328281,1,0,1,supernova,,Q3937,,
+SN 2001f,SN 2001fo,Q9328276,1,0,1,supernova,,Q3937,,
+QTF 12bmr,,,2,0,0,,,,,
+SN 007g,supernova,Q3937,3,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 007g,Senegal,Q1041,3,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 007g,substantia nigra,Q753278,3,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 007g,tin,Q1096,3,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 007g,Great Norwegian Encyclopedia,Q746368,3,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 007g,snowboarding,Q178131,3,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 007g,SNAC,Q29861311,3,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 007g,Science News,Q2313730,3,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 007g,Shona Wikipedia,Q8571809,3,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 007g,SciGraph,Q65509402,3,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 1<66F,,,4,0,0,,,,,
+SN 1956H,SN 1956H,Q9326403,5,0,1,supernova,,Q3937,,
+SN 953D,,,6,0,0,,,,,
+SN 1962P,SN 1962P,Q9326477,7,0,1,supernova,,Q3937,,
+S 2012an,,,8,0,0,,,,,
+N2004aj,N2004-03: Intravenous Fenretinide in Treating Young Patients With Recurrent or Resistant Neuroblastoma,Q61914360,9,0,2,clinical trial,,Q30612,,
+N2004aj,"N2004-04: Fenretinide LXS in Treating Patients With Recurrent, Refractory, or Persistent Neuroblastoma",Q65538166,9,0,2,clinical trial,,Q30612,,
+N2004aj,N2004-06: Irinotecan and Vincristine With 131I-MIBG Therapy for Resistant/Relapsed High-Risk Neuroblastoma,Q61979436,9,0,2,clinical trial,,Q30612,,

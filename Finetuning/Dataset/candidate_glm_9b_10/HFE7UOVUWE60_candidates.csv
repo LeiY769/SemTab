@@ -1,0 +1,654 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Good Wife,The Good Wife,Q19570,0,0,1,2009 American legal drama television series,Good Wife,Q5398426,,The Good Wife
+The Good Wife,Rose War,Q134954829,0,0,1,Chinese legal drama television series,Rose's Battle|The Good Wife|Good Wife,Q5398426,,
+The Good Wife,"The Good Wife, season 1",Q3465807,0,0,1,season of television series,The Good Wife,Q3464665,,The Good Wife season 1
+The Good Wife,The Good Wife,Q24043019,0,0,1,2016 remake of American TV series,,Q5398426,,The Good Wife (South Korean TV series)
+The Good Wife,The Good Wife,Q115816545,0,0,1,novel by Olalla García (2022),,Q7725634,Q136472,
+The Good Wife,The Good Wife,Q114547902,0,0,1,episode of Mike & Molly (S6 E6),,Q21191270,,
+The Good Wife,The Good Wife,Q110908169,0,0,1,short story by Shirley Jackson,,Q7725634,,
+The Good Wife,The Good Wife,Q60987219,0,0,1,Japanese drama television series,,Q5398426,,The Good Wife (Japanese TV series)
+The Good Wife,The Trial,Q114243465,0,0,1,Indian legal drama web-series,The Good Wife,Q5398426,,The Trial (Indian TV series)
+The Good Wife,The Umbrella Woman,Q7771254,0,0,1,1987 film by Ken Cameron,Umbrella Woman|The Good Wife,Q11424,,The Umbrella Woman
+The Good Wife,A Good Wife,Q21817186,0,0,2,2016 film,Good Wife,Q11424,,A Good Wife
+The Good Wife,Good Wife,Q15912160,0,0,2,,,Q15416,,
+The Good Wife,Good Wife,Q136399484,0,0,2,2025 Indian TV series or programme,,Q5398426,,Good Wife (TV series)
+The Good Wife,"Good Wife, Wise Mother",Q5583058,0,0,2,traditional ideal for womanhood in East Asia,,,,"Good Wife, Wise Mother"
+The Good Wife,Good Wife's Guide,Q1574780,0,0,2,fake magazine article,,Q190084,,Good Wife's Guide
+The Good Wife,Good Wife Firm,Q139840379,0,0,2,,,Q11424,,
+The Good Wife,Good Wife: Wife's Experience,Q139841942,0,0,2,,,Q11424,,
+The Good Wife,"Good Wife, Wise Mother: Educating Han Taiwanese Girls under Japanese Rule",Q136168684,0,0,2,book 2024,,Q3331189,,
+The Good Wife,Shirley Jackson,Q239910,0,0,2,American writer (1916-1965),Shirley Hardie Jackson,Q5,,Shirley Jackson
+The Good Wife,Shirley Jackson Award,Q7498780,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q107655869,,Shirley Jackson Award
+The Good Wife,Shirley Jackson Award for Novel,Q76628689,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q38033430|Q116620926,,
+The Good Wife,Shirley Jackson Award for Single-Author Collection,Q76639029,0,0,2,literary award for works of dark fantasy and psychological suspense,Shirley Jackson Award for Collection,Q378427,,
+The Good Wife,Shirley Jackson Award for Novella,Q76633002,0,0,2,literary award for novella-length of dark fantasy and psychological suspense,Shirley Jackson Award,Q378427|Q38033430|Q136736521,,
+The Good Wife,Shirley Jackson Case,Q41308532,0,0,2,Canadian mathematician and theologian (1872-1947),,Q5,,Shirley Jackson Case
+The Good Wife,Shirley Jackson Award for Best Short Fiction,Q137762618,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Short Fiction
+The Good Wife,Shirley Jackson Award for Best Single-Author Collection,Q137785313,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q139584484,,Shirley Jackson Award for Best Single-Author Collection
+The Good Wife,Shirley Jackson Award for Best Edited Anthology,Q137785544,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427,,Shirley Jackson Award for Best Edited Anthology
+The Good Wife,Shirley Jackson Award for Best Novella,Q137690973,0,0,2,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Novella
+Shirley Jackson,Shirley Jackson,Q239910,0,1,1,American writer (1916-1965),Shirley Hardie Jackson,Q5,,Shirley Jackson
+Shirley Jackson,Shirley Jackson Award,Q7498780,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q107655869,,Shirley Jackson Award
+Shirley Jackson,Shirley Jackson Award for Novel,Q76628689,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q38033430|Q116620926,,
+Shirley Jackson,Shirley Jackson Award for Single-Author Collection,Q76639029,0,1,1,literary award for works of dark fantasy and psychological suspense,Shirley Jackson Award for Collection,Q378427,,
+Shirley Jackson,Shirley Jackson Award for Novella,Q76633002,0,1,1,literary award for novella-length of dark fantasy and psychological suspense,Shirley Jackson Award,Q378427|Q38033430|Q136736521,,
+Shirley Jackson,Shirley Jackson Case,Q41308532,0,1,1,Canadian mathematician and theologian (1872-1947),,Q5,,Shirley Jackson Case
+Shirley Jackson,Shirley Jackson Award for Best Short Fiction,Q137762618,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Short Fiction
+Shirley Jackson,Shirley Jackson Award for Best Single-Author Collection,Q137785313,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q139584484,,Shirley Jackson Award for Best Single-Author Collection
+Shirley Jackson,Shirley Jackson Award for Best Edited Anthology,Q137785544,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427,,Shirley Jackson Award for Best Edited Anthology
+Shirley Jackson,Shirley Jackson Award for Best Novella,Q137690973,0,1,1,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Novella
+Younger,Younger,Q16943567,1,0,1,American television series (2015-2021),,Q5398426,,Younger (TV series)
+Younger,Younger,Q16948732,1,0,1,family name,,Q101352,,Younger (surname)
+Younger,younger brother,Q10291472,1,0,1,male younger sibling,little brother,Q140036799,Q10861465|Q28466210,
+Younger,younger sister,Q10943095,1,0,1,female younger sibling,little sister,Q140036799,Q595094|Q28466210,
+Younger,Younger Dryas,Q944279,1,0,1,"return to glacial conditions after the last glacial maximum, which temporarily reversed the gradual climatic warming",Nahanagan Stadial|Loch Lomond Stadial|Loch Lomond Readvance|Younger Dryas Stadial|YD|Younger Dryas Phase,Q2040803,,Younger Dryas
+Younger,Bernardo Bellotto,Q164688,1,0,1,Italian artist (1722–1780),"Canaletti Jun.|Bernardo Belota|Bernardo Michiel Bellotto|Bernardo Belloto|Bernardo Bellotti|Bernard Belloto|Il Canaletto|Canaletto Belotto|Canaletto|Bernardo, il Canaletto Bellotto|Bernado Bellotto|Belotto Belloto|Bernardo Belotto|Bernardo Beloto|Canaletto (II)|Bernardo Michele Bellotto|Giovanni Antonio Canal|gen. Canaletto Belotto|bernardo canaletto|junior Canaletti|Bernardo Belotto il Canaletto|Canaletto Bellotto|b. b. canaletto|Canaletti Jun|belotto|Fabio Canal|the younger Canaletti|Bernardo Belotto Canaletto|Belota|gen. Canaletto Bernardo Bellotto|Bernardo Bellotto gen. Canaletto|bernardo bellotto|bernardo belotto. canaletto|b. belloto|bellotto b.|Bellotto|The younger Canaletti|bernardo belloto|gen. Canaletto Bernardo Belotto|bernardo, gen. canaletto bellotto|dit Canaletti Bellotty|b. genannt canaletto belotto|Canaletti the younger|Bernardo Belotto gen. Canaletto|genannt canaletto bernardo bellotto|Bernardo Belotto gen Canaletto|Younger Canaletti|Canaletto Bernardo Belotto|élève et neveu de Canaletti Bernardo Belotto|Canaletto eigl. Bernardo Belotto|b. bellotto|bernardo bellotto-canaletto|antonio belotto|dit Canaletto Bellotto|Art des Bellotto|genannt Canaletto Bernando Bellotto|Caneletto|Bernardo, gen. Cannaletto Bellotto|Bernardo gen. Canaletto Belotto|Bellotti veneziano|Canaletti le fils|bernardo belotto-canaletto|Eugenio Bellotto|Bernardo Bellotto Canaletto",Q5,,Bernardo Bellotto
+Younger,Younger Dryas impact hypothesis,Q1092095,1,0,1,hypothesis on what initiated the Younger Dryas geological period,Clovis comet hypothesis|YDIH|Younger Dryas cosmic impact|Younger Dryas impact theory|Younger Dryas impact event|Younger Dryas extraterrestrial impact hypothesis|Younger Dryas boundary strike|YDBS|Younger Dryas impact|Younger Dryas boundary impact|12.9-ka impact|12.9-ka ET Impact Hypothesis|12.9-ka extraterrestrial Impact Hypothesis|YDB-impact hypothesis|YDB impact hypothesis|Younger Dryas boundary impact hypothesis|the Younger Dryas impact hypothesis|Younger Dryas boundary event|YD impact hypothesis|YDB ET impact hypothesis|Younger Dryas boundary impact event,Q41719,,Younger Dryas impact hypothesis
+Younger,Willem van Mieris,Q1348950,1,0,1,Dutch painter (1662–1747),"Willem van Mieris the Younger|G. Mieris|Willem van Meiris|Guillaume Miéris|Wm. Mieris|Willem van Miris|Willem van Mires de Jonge|Willem Van Mieris|William Mieris|Willem Mieris|Willem Mires|Guillaume Mieris|wilhelm von mieris|Willieme Meris|Van W. Rieris|Willem Meiris|Wilhelm von Mieris|Younger Mieris|William Van Mieris|Willem Mieres|mieris willem van|willem mieris|Villem Mieris|G. V. Mieris|G. Mierys|W. van Mieres|W. Meiris|Williem Mieris|Will. Mieris|Willem Van-Mieris|Guillaume Van Mieris|Willem Miris|Willem van Mieres|Will Mieris|Wilhelm Myris|Willem van Mierens|Guil. Mieris|W. Mieris|W Mieris|Wilhelm Mieris|de Jonge Mieres|de Jonge Miris|Wm. Van Mieris|W. v. Mieris|W... Van Mieris|William Mieres|W. Van Mieris|W. Mieres|W. Miris|de jonge Mires|Mieris the younger|Wm Mieris|Willem, van Mieris|van Mieris W|jongen Mieris|Wilhelm van Mieris|Guill. Meiris|Guillaume Miris|Guill. Myris|Guillaume-François Mieris|Guilliaume Miris|Young Mieris|Villem Van Mieris|Willem Mierens|Willem van Mieris the Elder",Q5,,Willem van Mieris
+Younger,Palma il Giovane,Q651795,1,0,1,Venetian painter (1548/50-1628),"Jacopo Negreti|II Jacopo Palma|Jacopo Palma the Younger|Jacopo Negreti Palma Il Giovane|Giacomo, il giovane Palma|Jacopo Palma Gioven|Giovane Palma|Jacopo Nigreti|Palma|Jacopo Palma de Jongh|Jacopo Palma de Jonge|Jacopo Palma Giovane|Giacomo Palma|Iacopo Nigretti|Giacomo Negretti|Jacopo Nigretti|Nigretti Palma Il Giovane|Jacopo, II Palma|Jacopo, il giovane Palma|Jacopo Palma Giovene|Nigreti Palma Il Giovane|Jacopo Palma|Jacopo, the younger Nigreti|Iacopo Palma|Jacopo Nigreti the Younger|Jacopo Negretti|Jacopo Palma (il Giovane)|Jacopo Palma il giovane|de jonge Palma|jacopo palma gen. palma giovine|Palma der junge|Le jeune Palme|jacopo, il giovine palma|jacopo palma d. j.|giacomo palma il giovino|Jeune Palme|Jacopo, d. J. Palma|il Giovane Palma Jacopo|Jacomo Palma Giovanni|Palma il Gioven|Palma Jac. Jun.|the younger Palma|giovanni palma|Jacopo gen. Palma il Giovane Palma|Il Giovanne Jakopo Palma|J. d. J. Palma|den Jonge Palma|Palma Junior|Palma Giovene|Palma giovani|Jacopo Palma il Giovine|giovanni battista palma|Jacopo gennant Palma Giovine Palma Giovine|Jacopo Palma d. J.|jun. Jacob Palma|Palma Il Giovane|Palma Gio:ne|genannt Palma il Giovane Jacopo Palma|giovine palma|Young Palma|the younger jacopo palma|Palma de Jonge|Giacomo Palma Giovine|giacomo palma il giovine|giacomo palma giovane|Jac. Palma Jun.|le jeune Jacques Palma|Palma Il Giovanni|le jeune Jacques Palme|Palma Gioven|Jacopo Palma il Givane|gen. Palma Giovane Jacopo Palma d.J.|G. Palma|Jacopo Palma d. Jüngere|gen. Palma Giovine Jacopo Palma d. J.|Palma Giovine|vermuthlich vom jüngeren Palma|de jongh Palma|P. Giovani|Palma the younger|jun. Palma|Der Jüngere Jacobo Palma|Jacomo, Venet. Palma Giovanni|gen. Giovine Jacopo Palma|The younger Palma|Jacques Palme le Jeune|jacopo palma|Giovanni, Jacomo Palma|Junior Palma|Palma il giovine|jacopo palma giovine|Jacobo Palma d. J.|Jacques Palma dit le jeune|Palma Iacopo Juniore|Palme le jeune|Palme-Le-Jeune|Palma nuovo|jacopo palma der jungere|giovane palma|J. Palma|Palma Gio:|palma giovan|Younger Palma|palma giavone|palmo nuovo|Jacopo Palma Il Giovane|Jacopo Palma il Giovane|Palma Giovane|Iacopo Nigreti|Jacopo (il Giovane) Palma",Q5,,Palma il Giovane
+Younger,Younger,Q17151696,1,0,1,2013 song by Seinabo Sey,,Q105543609,,Younger (Seinabo Sey song)
+Younger,Younger Brother,Q534511,1,0,2,band,,Q215380,,Younger Brother
+Younger,Younger Brother,Q26459185,1,0,2,1953 film by Domingo Viladomat,,Q11424,,Younger Brother (film)
+Younger,father's younger brother,Q10912818,1,0,2,"type of paternal uncle, younger brother of father",younger paternal uncle|younger brother of father,Q171318,Q12158205|Q10291472,
+Younger,The Younger Brothers,Q7776833,1,0,2,1949 film by Edwin L. Marin,Younger Brothers,Q11424,,The Younger Brothers
+Younger,The Younger Brothers,Q15122416,1,0,2,1908 film by E. Lawrence Lee,Younger Brothers,Q24862,,
+Younger,husband's younger brother,Q135641704,1,0,2,,younger brother of husband,Q954007,Q23045425,
+Younger,younger brother given birthright of elder,Q122792681,1,0,2,narrative motif documented in Thompson's Motif-Index of Folk-Literature,L41.,Q1697305|Q2995443,,
+Younger,Otōto,Q4702844,1,0,2,2010 film by Yōji Yamada,About Her Brother,Q11424,,Otōto (2010 film)
+Younger,Her Brother,Q3794027,1,0,2,1960 film,,Q11424,,Her Brother
+Younger,The Younger Generation,Q4332239,1,0,2,1929 film by Frank Capra,Younger Generation,Q11424,,The Younger Generation
+Younger,YOUNGER GENERATION,Q11255182,1,0,2,,,Q215380,,
+Younger,Younger generation of doctors increasingly likely to stay local,Q130083875,1,0,2,scholarly article published on 25 March 2013,,Q13442814,,
+Younger,Younger generation venturing the business under Atma Nirbhar Bharat,Q128773470,1,0,2,scholarly article,,Q13442814,,
+Younger,Younger Generation,Q19929920,1,0,2,Wikimedia disambiguation page,,Q4167410,,Younger Generation
+Brian Evenson,Brian Evenson,Q4963691,1,1,1,American writer,,Q5,,Brian Evenson
+The Spanish Lady,The Spanish Lady,Q60664008,2,0,1,short story by Alice Munro,,Q7725634,,
+The Spanish Lady,The Spanish Lady,Q76563344,2,0,1,pastel by Eva Gonzales,,Q12043905,,
+The Spanish Lady,The Spanish Lady,Q119172182,2,0,1,"painting by Vanessa Bell (1879–1961), Leicester Museum & Art Gallery",,Q3305213,,
+The Spanish Lady,The Spanish lady,Q117216859,2,0,1,painting by John Bagnold Burgess,,Q3305213,,
+The Spanish Lady,The Spanish Lady,Q125547495,2,0,1,painting by Anders Zorn,,Q3305213,,
+The Spanish Lady,The Spanish Lady,Q130287442,2,0,1,painting by Eva Gonzalès,,Q3305213,,
+The Spanish Lady,The Spanish Lady Comes to London: the Influenza Pandemic 1918–1919,Q58526545,2,0,1,article,,Q13442814,,
+The Spanish Lady,The Spanish lady in 425,Q45128259,2,0,1,scientific article published in November 1968,,Q13442814,,
+Alice Munro,Alice Munro,Q234819,2,1,1,Canadian writer (1931–2024),Alice Ann Munro|Alice Ann Laidlaw Munro|Alice Laidlaw|Alice Anne Munro,Q5,,Alice Munro
+Alice Munro,Alice Munro,Q89358670,2,1,1,researcher,,Q5,,
+Alice Munro,Alice Munro: An Annotated Bibliography of Works and Criticism,Q60662899,2,1,1,published bibliography of Alice Munro,,Q1631107|Q7725634,,
+Alice Munro,Alice Munro,Q136162516,2,1,1,book 1998,,Q3331189,,
+Alice Munro,Alice Munro's Best,Q60767689,2,1,1,short story collection by Alice Munro,,Q7725634,,
+Alice Munro,Alice Munroe,Q136377343,2,1,1,,,Q5,,
+Alice Munro,Alice Munroe Brown,Q140799582,2,1,1,(1879-1963),,Q5,,
+Alice Munro,Alice Munroe Burnham,Q130709911,2,1,1,American socialite (1880-1972),Alice Burnham Gray|Alice B. Gray|Alice M. Burnham|Alice Munroe Gray|Alice Munroe Burnham Gray|Alice Munroe Burnham Budd|Alice Burnham|Mrs. Austen Gray,Q5,,
+Alice Munro,Alice Munro Festival of the Short Story,Q140621082,2,1,1,"Annual literary festival in Clinton, Ontario, Canada",Alice Munro Festival|Alice Munro Literary Festival|Festival of the Short Story|Alice Munro Festival Ontario,Q23902005,,
+Alice Munro,Alice Munro’s Miraculous Art: Critical Essays,Q136115782,2,1,1,book 2017,,Q3331189,,
+Myrrha,Myrrha,Q1944420,3,0,1,genus of insects,,Q16521,,Myrrha (beetle)
+Myrrha,Myrrha,Q21440388,3,0,1,subgenus of insects,,Q16521,,
+Myrrha,Myrrha,Q771366,3,0,1,daughter of Cinyras in Greek mythology,Smyrna,Q22988604,,Myrrha
+Myrrha,381 Myrrha,Q152216,3,0,1,outer main-belt asteroid,(381) Myrrha|Myrrha,Q3863,,381 Myrrha
+Myrrha,MYRRHA,Q14906437,3,0,1,research project in nuclear physics,,Q2058283|Q1438105,,MYRRHA
+Myrrha,Myrrha,Q3858928,3,0,1,tragedy of Vittorio Alfieri,,Q7725634,,
+Myrrha,Eighteen-spotted Ladybird,Q341135,3,0,1,species of insect,Myrrha octodecimguttata,Q16521,,Eighteen-spotted ladybird
+Myrrha,Myrrha,Q61994043,3,0,1,horse,,Q726,,
+Myrrha,İzmir,Q35997,3,0,1,"city in İzmir Province, Turkey",Izmir|Smyrna,Q2716259|Q2264924,,İzmir
+Myrrha,Myrrha,Q53964997,3,0,1,"fictional character appearing in ""Sardanapale"" by Byron",,Q3658341,,
+Gary Jennings,Gary Jennings,Q301372,3,1,1,American novelist (1928–1999),,Q5,,Gary Jennings (author)
+Gary Jennings,Gary Jennings,Q42289272,3,1,1,British hurdler,,Q5,,Gary Jennings (athlete)
+Gary Jennings,Gary Jennings Jr.,Q63230198,3,1,1,American football player (born 1997),,Q5,,Gary Jennings Jr.
+Gary Jennings,Gary Jennings,Q104765335,3,1,1,Wikimedia disambiguation page,,Q4167410,,Gary Jennings
+Blood Sacrifice,Blood Sacrifice,Q11855615,4,0,1,1991 film,Curse III: Blood Sacrifice,Q11424,,Curse III: Blood Sacrifice
+Blood Sacrifice,Blood Sacrifice,Q106950064,4,0,1,Short story by Josepha Sherman and Susan Shwartz,,Q7725634,,
+Blood Sacrifice,Blood Sacrifice,Q136404689,4,0,1,2026 Swedish crime drama television series,,Q5398426,,
+Blood Sacrifice,Blood Sacrifice,Q134558545,4,0,1,2011 novel by Maria Lima,,Q7725634,,
+Blood Sacrifice,Blood Sacrifice,Q134560075,4,0,1,1975 novel by Laurence James,,Q7725634,,
+Blood Sacrifice,Blood Sacrifice and the Nation: Revisiting Civil Religion,Q139728135,4,0,1,,,Q13442814,,
+Blood Sacrifice,Blood Sacrifice and the Nation: Totem Rituals and the American Flag,Q137720585,4,0,1,"scholarly article titled \""Blood Sacrifice and the Nation\"" by C. Richard King published in American Ethnologist, vol. 28 no. 1, pp. 223-225 (2001)",,Q13442814,,
+Blood Sacrifice,Susan Shwartz,Q7648387,4,0,2,American author,Susan M. Shwartz,Q5,,Susan Shwartz
+Blood Sacrifice,Blood Ritual,Q2906969,4,0,2,1992 album by Samael,,Q482994,,Blood Ritual (album)
+Blood Sacrifice,Blood ritual,Q4927892,4,0,2,any ritual that involves the intentional release of blood,,,,Blood ritual
+Blood Sacrifice,Blood Ritual,Q135107395,4,0,2,novel by Bridget Wood,,Q7725634,,
+Blood Sacrifice,Blood rituals,Q67270930,4,0,2,scientific article published on 01 November 1973,,Q13442814,,
+Blood Sacrifice,Sacrificial Blood at Bethel?,Q64369527,4,0,2,,,Q13442814,,
+Susan Shwartz,Susan Shwartz,Q7648387,4,1,1,American author,Susan M. Shwartz,Q5,,Susan Shwartz
+Sword Blades and Poppy Seed,Sword Blades and Poppy Seed,Q110975546,5,0,1,short story by Joanna Russ,,Q7725634,,
+Sword Blades and Poppy Seed,Sword Blades and Poppy Seed,Q19072290,5,0,1,,,,,
+Sword Blades and Poppy Seed,Joanna Russ,Q265270,5,0,2,American author (1937-2011),,Q5,,Joanna Russ
+Sword Blades and Poppy Seed,Russ Test,Q105700813,5,0,2,media representation test where at least two women are friendly and remain friends,The Russ Test|Joanna Russ Test,Q102179937,,
+Sword Blades and Poppy Seed,Joanna Russ,Q123900178,5,0,2,non-fiction work by Gwyneth Jones,,Q47461344,,
+Sword Blades and Poppy Seed,Joanna Russell,Q40450551,5,0,2,researcher,,Q5,,
+Sword Blades and Poppy Seed,Joanna Russell,Q76235496,5,0,2,Peerage person ID=626032,Joanna Elizabeth Russell,Q5,,
+Sword Blades and Poppy Seed,Joanna Russell,Q76162688,5,0,2,(born 1977),Joanna Claire Russell,Q5,,
+Sword Blades and Poppy Seed,"Joanna Russ, Who Drew Women to Sci-Fi, Dies at 74",Q123674586,5,0,2,"The New York Times article (May 8, 2011)",,Q309481,,
+Sword Blades and Poppy Seed,Worship God,Q7461368,5,0,2,Workshop Jesus,Joanna Kelly,Q482994,,Worship God
+Sword Blades and Poppy Seed,sword,Q12791,5,0,2,bladed weapon longer than a knife or dagger,swords,Q124078422|Q123035442|Q122853628,Q9180322|Q11897048,Sword
+Sword Blades and Poppy Seed,Sword,Q37497971,5,0,2,family name,,Q101352,,
+Sword Blades and Poppy Seed,sword,Q1382857,5,0,2,heraldic figure,,Q56877007|Q3744866,,
+Sword Blades and Poppy Seed,Sword,Q138364151,5,0,2,episode of Halo (S2 E2),,Q21191270,,
+Sword Blades and Poppy Seed,Sword,Q126184896,5,0,2,1997 video game,,Q7889,,
+Sword Blades and Poppy Seed,The Sword,Q1304600,5,0,2,American musical group,Sword,Q215380,,The Sword
+Sword Blades and Poppy Seed,rostrum,Q2233438,5,0,2,pointed anatomical feature,beak|bill|sword,Q4936952,,Rostrum (anatomy)
+Sword Blades and Poppy Seed,Sword Art Online: Hollow Realization,Q24031919,5,0,2,2016 video game,,Q7889,,Sword Art Online: Hollow Realization
+Sword Blades and Poppy Seed,Sword Art Online: Lost Song,Q21039919,5,0,2,2015 video game,,Q7889,,Sword Art Online: Lost Song
+Sword Blades and Poppy Seed,Sword Art Online: Fatal Bullet,Q56274106,5,0,2,2018 video game,,Q7889,,Sword Art Online: Fatal Bullet
+Sword Blades and Poppy Seed,Blade,Q4923687,5,0,2,2000 video game,,Q7889,,Blade (2000 video game)
+Sword Blades and Poppy Seed,Blade,Q30936020,5,0,2,Japanese animation studio,,Q1107679,,Blade (studio)
+Sword Blades and Poppy Seed,blade,Q330946,5,0,2,sharp part of a weapon or cutting tool,cutting blade|cutting edge,,Q66310125|Q131408,Blade
+Sword Blades and Poppy Seed,BLADe,Q11191341,5,0,2,,,Q5,,
+Sword Blades and Poppy Seed,Breakthrough Laminar Aircraft Demonstrator in Europe,Q55605886,5,0,2,Airbus experimental aircraft design project,BLADE|Airbus BLADE,Q3518197,,Breakthrough Laminar Aircraft Demonstrator in Europe
+Sword Blades and Poppy Seed,Blade,Q123593094,5,0,2,British rapper and producer,,Q5,,Blade (musician)
+Sword Blades and Poppy Seed,Blade,Q123284211,5,0,2,"American graffiti artist, born 1957",Steve Ogburn|Steven Ogburn,Q5,,
+Sword Blades and Poppy Seed,Blade,Q126184199,5,0,2,1997 video game,,Q7889,,
+Sword Blades and Poppy Seed,Blade,Q123945230,5,0,2,2000 handheld video game,,Q7889,,
+Sword Blades and Poppy Seed,Blade,Q881024,5,0,2,fictional character in Marvel Comics,Eric Brooks|Daywalker|Eric Stokes Brooks|Hannibal Francis Blade|Frank Blade,Q89049176|Q1114461|Q15711870|Q15773317|Q15773347,,Blade (character)
+Sword Blades and Poppy Seed,Poppy Montgomery,Q235075,5,0,2,Australian actress (born 1972),Poppy Petal Emma Elizabeth Deveraux Donahue,Q5,,Poppy Montgomery
+Sword Blades and Poppy Seed,Poppy Morgan,Q448365,5,0,2,British pornographic actress,Poppy,Q5,,
+Sword Blades and Poppy Seed,poppy,Q967457,5,0,2,common name for various plant species of the family Papaveraceae,,,Q886167,Poppy
+Sword Blades and Poppy Seed,Poppy,Q131180824,5,0,2,2022 single by STAYC,,Q134556,,
+Sword Blades and Poppy Seed,Poppy,Q135071299,5,0,2,video game developed by Lute Newt Games,,Q7889,,
+Sword Blades and Poppy Seed,Poppy,Q134882389,5,0,2,song by ZFM; 2025 studio recording,,Q55850593,,
+Sword Blades and Poppy Seed,Poppy,Q24852571,5,0,2,American singer,That Poppy|Moriah Rose Pereira|Moriah Pereira,Q5,,Poppy (singer)
+Sword Blades and Poppy Seed,Poppy,Q16290931,5,0,2,female given name,,Q11879590,,Poppy (given name)
+Sword Blades and Poppy Seed,Poppy Playtime,Q109278524,5,0,2,2021 episodic horror video game developed and published by Mob Entertainment,,Q7889|Q2927074,,Poppy Playtime
+Sword Blades and Poppy Seed,Poppy Z. Brite,Q450868,5,0,2,"novelist, short story writer, food writer from the United States",Billy Martin,Q5,,Poppy Z. Brite
+Sword Blades and Poppy Seed,cause,Q2574811,5,0,2,entity which forms causality for an event,reason|trigger|parent|entry|motive|motivation|explanation|seed,Q4897819|Q613930|Q112234259,Q23894381|Q31464082,
+Sword Blades and Poppy Seed,Seed,Q7445620,5,0,2,massively multiplayer online role-playing game,,Q7889,,Seed (2006 video game)
+Sword Blades and Poppy Seed,seed,Q40763,5,0,2,embryonic plant enclosed in a protective outer covering (seed coat),seeds,,Q20011319|Q2095,Seed
+Sword Blades and Poppy Seed,SEED,Q105719257,5,0,2,video game by HumanSoft,THC|T.H.C.|Seed: The Human Condition|The Human Condition,Q7889,,
+Sword Blades and Poppy Seed,Seed,Q48814824,5,0,2,massively multiplayer sandbox simulation video game developed by Klang Games,,Q64170203|Q7889,,Seed (upcoming video game)
+Sword Blades and Poppy Seed,Seediq,Q716686,5,0,2,language,Taroko|Kari Seediq|Seediq language|Kari Seejiq|Kari Sediq|Truku,Q33742|Q1288568,Q716610,Seediq language
+Sword Blades and Poppy Seed,Seed,Q139548586,5,0,2,handbell sheet music composed by Haruto Katayama,,Q105543609,,
+Sword Blades and Poppy Seed,Seed,Q136525078,5,0,2,playable character in Zenless Zone Zero,Flora,Q1569167|Q15632617,,
+Sword Blades and Poppy Seed,Seed,Q139569172,5,0,2,healing piano composition by Haruto Katayama,,Q105543609,,
+Sword Blades and Poppy Seed,seed,Q1762933,5,0,2,"dry, dormant, generative reproductive organs such as seeds, fruits, pseudo-fruits, inflorescences or parts thereof",sowing seed|seed of cultivated plants|seeds|seed stock,,Q40763,
+Joanna Russ,Joanna Russ,Q265270,5,1,1,American author (1937-2011),,Q5,,Joanna Russ
+Joanna Russ,Russ Test,Q105700813,5,1,1,media representation test where at least two women are friendly and remain friends,The Russ Test|Joanna Russ Test,Q102179937,,
+Joanna Russ,Joanna Russ,Q123900178,5,1,1,non-fiction work by Gwyneth Jones,,Q47461344,,
+Joanna Russ,Joanna Russell,Q40450551,5,1,1,researcher,,Q5,,
+Joanna Russ,Joanna Russell,Q76235496,5,1,1,Peerage person ID=626032,Joanna Elizabeth Russell,Q5,,
+Joanna Russ,Joanna Russell,Q76162688,5,1,1,(born 1977),Joanna Claire Russell,Q5,,
+Joanna Russ,"Joanna Russ, Who Drew Women to Sci-Fi, Dies at 74",Q123674586,5,1,1,"The New York Times article (May 8, 2011)",,Q309481,,
+Joanna Russ,Worship God,Q7461368,5,1,1,Workshop Jesus,Joanna Kelly,Q482994,,Worship God
+Joanna Russ,Sword Blades and Poppy Seed,Q110975546,5,1,2,short story by Joanna Russ,,Q7725634,,
+Joanna Russ,Sword Blades and Poppy Seed,Q19072290,5,1,2,,,,,
+Freefall,Freefall,Q28872277,6,0,1,album by Kenny Barron,,Q482994,,Freefall (album)
+Freefall,Freefall,Q124065982,6,0,1,2017 early access video game,,Q7889,,
+Freefall,free fall,Q140028,6,0,1,motion of a body where its weight is the only force acting upon it; any motion of a body where gravity is the only force acting upon it,freefall|state of free fall,,Q376908|Q11620540,Free fall
+Freefall,Freefall,Q3499298,6,0,1,book by Roderick Gordon and Brian Williams,Tunnels 3,Q47461344,,Freefall (novel)
+Freefall,Freefall,Q8962785,6,0,1,science fiction webcomic by Mark Stanley,Freefall (webcomic),Q213369,,
+Freefall,Freefall,Q1453547,6,0,1,band,,Q215380,,
+Freefall,Freefall,Q16069115,6,0,1,episode of ER (S10 E8),,Q21191270,,
+Freefall,Freefall,Q76469262,6,0,1,episode of The Magnus Archives published on 2 June 2016,,Q61855877,,
+Freefall,Freefall,Q4411136,6,0,1,1994 film directed by John Irvin,,Q11424,,Freefall (1994 film)
+Freefall,Freefall,Q3752935,6,0,1,character in Wildstorm Comics,"Roxanne ""Roxy"" Spaulding|Roxanne Spaulding|Roxy Spaulding",Q1114461|Q15711870|Q2248485,,
+Freefall,Eric James Stone,Q3731488,6,0,2,American writer,,Q5,,Eric James Stone
+Eric James Stone,Eric James Stone,Q3731488,6,1,1,American writer,,Q5,,Eric James Stone
+Eric James Stone,Freefall,Q28872277,6,1,2,album by Kenny Barron,,Q482994,,Freefall (album)
+Eric James Stone,Freefall,Q124065982,6,1,2,2017 early access video game,,Q7889,,
+Eric James Stone,free fall,Q140028,6,1,2,motion of a body where its weight is the only force acting upon it; any motion of a body where gravity is the only force acting upon it,freefall|state of free fall,,Q376908|Q11620540,Free fall
+Eric James Stone,Freefall,Q3499298,6,1,2,book by Roderick Gordon and Brian Williams,Tunnels 3,Q47461344,,Freefall (novel)
+Eric James Stone,Freefall,Q8962785,6,1,2,science fiction webcomic by Mark Stanley,Freefall (webcomic),Q213369,,
+Eric James Stone,Freefall,Q1453547,6,1,2,band,,Q215380,,
+Eric James Stone,Freefall,Q16069115,6,1,2,episode of ER (S10 E8),,Q21191270,,
+Eric James Stone,Freefall,Q76469262,6,1,2,episode of The Magnus Archives published on 2 June 2016,,Q61855877,,
+Eric James Stone,Freefall,Q4411136,6,1,2,1994 film directed by John Irvin,,Q11424,,Freefall (1994 film)
+Eric James Stone,Freefall,Q3752935,6,1,2,character in Wildstorm Comics,"Roxanne ""Roxy"" Spaulding|Roxanne Spaulding|Roxy Spaulding",Q1114461|Q15711870|Q2248485,,
+Tourists,Tourists,Q116147824,7,0,1,2019 studio album by Psapp,,Q482994,,Tourists (album)
+Tourists,The Tourists,Q2300672,7,0,1,British musical group; band that played new wave music,Tourists,Q215380,,The Tourists
+Tourists,Tourists,Q6153977,7,0,1,2009 film by Alicia Scherson,,Q11424,,
+Tourists,Tourists,Q106566830,7,0,1,painting by Tinca Stegovec,,Q3305213,,
+Tourists,Tourists,Q110208357,7,0,1,short story by Rammel Chan,,Q7725634,,
+Tourists,Tourists,Q131415998,7,0,1,1989 novel by Lisa Goldstein,,Q7725634,,
+Tourists,Tourists,Q131517899,7,0,1,1985 short story by Lisa Goldstein,,Q7725634,,
+Tourists,Tourists,Q119404029,7,0,1,"painting by Sharon Goodlet (b.1968), Royal Scottish Academy of Art & Architecture",,Q3305213,,
+Tourists,"Tourists of History: Memory, Kitsch, and Consumerism from Oklahoma City to Ground Zero",Q138021987,7,0,1,book published in 2007,,Q3331189,,
+Tourists,Tourists Kidnapped a Little Bear,Q124075132,7,0,1,2017 video game,,Q7889,,
+Tourists,Visitors,Q118270964,7,0,2,2014 compilation box set by Dinosaur Jr.,,Q482994,,
+Tourists,Visitors,Q16622344,7,0,2,1987 live album by Benito Urgu,,Q482994,,
+Tourists,Visitors,Q124075282,7,0,2,2016 video game,,Q7889,,
+Tourists,V,Q1076940,7,0,2,1984-1985 American TV sci-fi series,Visitors|V: The Series,Q5398426,,V (1984 TV series)
+Tourists,The Visitors,Q744658,7,0,2,1972 American film by Elia Kazan,Visitors,Q11424,,The Visitors (1972 film)
+Tourists,Visitors,Q2528360,7,0,2,Swedish pop group,,Q9212979|Q109288825,,
+Tourists,Scrin,Q1068340,7,0,2,faction in Command & Conquer,Visitors,Q104886589|Q99662445,,
+Tourists,Visitors,Q15052361,7,0,2,2013 film by Godfrey Reggio,,Q11424,,Visitors (2013 film)
+Tourists,Visitors,Q7936343,7,0,2,2003 Australian film by Richard Franklin,,Q11424,,Visitors (2003 film)
+Tourists,Visitors,Q7936341,7,0,2,book by Laura Anne Gilman,,Q7725634,,Visitors (Buffy novel)
+Tourists,Travelers,Q24705137,7,0,2,2016 science fiction TV series,,Q5398426,,Travelers (TV series)
+Tourists,Travelers,Q139578905,7,0,2,episode of The Man in the High Castle (s2 e3),,Q21191270,,
+Tourists,The Travelers Companies,Q942471,7,0,2,insurance company,"Travelers Insurance Company|The Travelers Companies, Inc.|Travelers",Q4830453|Q6881511|Q891723,,The Travelers Companies
+Tourists,Arkansas Travelers,Q4791903,7,0,2,"baseball team and Minor League Baseball franchise in Little Rock, Arkansas, USA",Travelers|Travs|The Travs,Q13027888,,Arkansas Travelers
+Tourists,itinerant groups of Europe,Q17150753,7,0,2,traditionally semi-nomadic groups in Europe,itinerant group in Europe|European itinerant groups|Travelers|Travellers|Gypsies|itinerant groups from Europe|itinerant groups in Europe|traditionally itinerant or travelling groups of Europe|traditionally itinerant or travelling groups in Europe,Q279007,Q41710,Itinerant groups in Europe
+Tourists,Romanichal,Q1780828,7,0,2,Romani subgroup in the UK,Travelers|English Travellers,Q41710,Q8060|Q108085600,Romanichal
+Tourists,Travelers,Q3236177,7,0,2,episode of Stargate Atlantis (S4 E5),,Q21191270,,
+Tourists,Project:Village pump,Q16503,7,0,2,"central place for discussions about a wiki; page (usually with subpages) used to discuss technical issues, policies, and operations of a Wikimedia wiki",Travellers' pub|Simple talk|Travelers' pub|Wikipedia:Village pump|Wikiversity:Colloquium|Wikisource:Scriptorium|Wikiquote:Village pump|Wikibooks:Reading room|Wikinews:Water cooler|Wiktionary:Beer parlour|Wikidata:Project chat|Commons:Village pump|Project:Current issues|Meta:Babel|Wikispecies:Village Pump|Village pump|Project:Village pump|Project:VP|Abstract Wikipedia:Project chat|Project:Project chat|Abstract Wikipedia:PC|Abstract Wikipedia:VP|Project:PC,Q14204246|Q168210,,Wikipedia:Village pump
+Tourists,Travelers,Q7835988,7,0,2,episode of The X-Files (S5 E15),,Q21191270,,Travelers (The X-Files)
+Tourists,Travelers,Q59769024,7,0,2,episode of Travelers (S1 E1),Travelers pilot,Q21191270,,
+Rammel Chan,Rammel Chan,Q64736764,7,1,1,Filipino-American writer and actor,,Q5,,
+Hush!,Hush!,Q2967696,8,0,1,short story by Anton Chekhov,,Q7725634,,
+Hush!,Hush!,Q731855,8,0,1,2001 film by Ryōsuke Hashiguchi,,Q11424,,Hush! (film)
+Hush!,Hush!,Q17092093,8,0,1,album by Duke Pearson,,Q482994,,Hush! (Duke Pearson album)
+Hush!,hush！,Q22101410,8,0,1,Taiwanese musical group,,Q215380,,
+Hush!,Hush!,Q87742945,8,0,1,painting by James Joseph Jacques Tissot,The Concert,Q3305213,,
+Hush!,Hush!,Q55649369,8,0,1,2003 film directed by Victor Kossakovsky,Tishe!,Q11424,,
+Hush!,Hush! / One More Rainy Day,Q104205860,8,0,1,1968 debut single by Deep Purple,Hush!|One More Rainy Day,Q134556,,
+Hush!,Hush!,Q28541769,8,0,1,painting by Frank Holl,,Q3305213,,
+Hush!,Hush!,Q60740455,8,0,1,album by Ana Popović,,Q482994,,Hush! (Ana Popović album)
+Hush!,Hush! Girls Don't Scream,Q14755291,8,0,1,2013 film by Pouran Derakhshandeh,,Q11424,,Hush! Girls Don't Scream
+Hush!,Anton Chekhov,Q5685,8,0,2,Russian dramatist and author (1860–1904),Anton Pavlovich Chekhov|Antón Pávlovič Čéhov|Antón Pávlovich Chékhov|Chekhov,Q5,,Anton Chekhov
+Hush!,Anton Chekhov,Q67561343,8,0,2,1898 portrait painting by Osip Braz,Anton Chekhov (Osip Braz painting),Q3305213,,
+Hush!,Anton Chekhov,Q588644,8,0,2,Anton Chekhov-class motorship,,Q18916020,,
+Hush!,Anton Chekhov,Q101986130,8,0,2,,,Q7725634|Q3331189,,
+Hush!,Chekhov Moscow Art Theatre,Q4304021,8,0,2,theatre in Moscow,Moscow Art Theater|Chekhov Art Theatre|Anton Chekhov Art Theatre|Moscow Art Theatre named after A.P. Chekhov,Q742421|Q24354|Q2319498|Q15090615,,Moscow Chekhov Art Theatre
+Hush!,Anton Chekhov Basic School No.55,Q21695438,8,0,2,school in Yerevan,,Q3914,,
+Hush!,Anton Chekhov bibliography,Q842213,8,0,2,list of works,,Q1631107,,Anton Chekhov bibliography
+Hush!,Anton Chekhov-class motorship,Q303762,8,0,2,class of Russian river passenger ships,,Q559026,Q18916020,Anton Chekhov-class motorship
+Hush!,Anton Chekhov museum in Sumy,Q4165230,8,0,2,,,Q33506,,
+Hush!,Anton Chekhov on stamps,Q4515214,8,0,2,postage stamps dedicated to Chekhov,,Q939473,,
+Anton Chekhov,Anton Chekhov,Q5685,8,1,1,Russian dramatist and author (1860–1904),Anton Pavlovich Chekhov|Antón Pávlovič Čéhov|Antón Pávlovich Chékhov|Chekhov,Q5,,Anton Chekhov
+Anton Chekhov,Anton Chekhov,Q67561343,8,1,1,1898 portrait painting by Osip Braz,Anton Chekhov (Osip Braz painting),Q3305213,,
+Anton Chekhov,Anton Chekhov,Q588644,8,1,1,Anton Chekhov-class motorship,,Q18916020,,
+Anton Chekhov,Anton Chekhov,Q101986130,8,1,1,,,Q7725634|Q3331189,,
+Anton Chekhov,Chekhov Moscow Art Theatre,Q4304021,8,1,1,theatre in Moscow,Moscow Art Theater|Chekhov Art Theatre|Anton Chekhov Art Theatre|Moscow Art Theatre named after A.P. Chekhov,Q742421|Q24354|Q2319498|Q15090615,,Moscow Chekhov Art Theatre
+Anton Chekhov,Anton Chekhov Basic School No.55,Q21695438,8,1,1,school in Yerevan,,Q3914,,
+Anton Chekhov,Anton Chekhov bibliography,Q842213,8,1,1,list of works,,Q1631107,,Anton Chekhov bibliography
+Anton Chekhov,Anton Chekhov-class motorship,Q303762,8,1,1,class of Russian river passenger ships,,Q559026,Q18916020,Anton Chekhov-class motorship
+Anton Chekhov,Anton Chekhov museum in Sumy,Q4165230,8,1,1,,,Q33506,,
+Anton Chekhov,Anton Chekhov on stamps,Q4515214,8,1,1,postage stamps dedicated to Chekhov,,Q939473,,
+Anton Chekhov,Hush!,Q2967696,8,1,2,short story by Anton Chekhov,,Q7725634,,
+Anton Chekhov,Hush!,Q731855,8,1,2,2001 film by Ryōsuke Hashiguchi,,Q11424,,Hush! (film)
+Anton Chekhov,Hush!,Q17092093,8,1,2,album by Duke Pearson,,Q482994,,Hush! (Duke Pearson album)
+Anton Chekhov,hush！,Q22101410,8,1,2,Taiwanese musical group,,Q215380,,
+Anton Chekhov,Hush!,Q87742945,8,1,2,painting by James Joseph Jacques Tissot,The Concert,Q3305213,,
+Anton Chekhov,Hush!,Q55649369,8,1,2,2003 film directed by Victor Kossakovsky,Tishe!,Q11424,,
+Anton Chekhov,Hush! / One More Rainy Day,Q104205860,8,1,2,1968 debut single by Deep Purple,Hush!|One More Rainy Day,Q134556,,
+Anton Chekhov,Hush!,Q28541769,8,1,2,painting by Frank Holl,,Q3305213,,
+Anton Chekhov,Hush!,Q60740455,8,1,2,album by Ana Popović,,Q482994,,Hush! (Ana Popović album)
+Anton Chekhov,Hush! Girls Don't Scream,Q14755291,8,1,2,2013 film by Pouran Derakhshandeh,,Q11424,,Hush! Girls Don't Scream
+Anton Chekhov,Anton Pavlovich Chekhov 1860-1904,Q64630651,8,1,2,drawing in the National Gallery of Art (NGA 208729),,Q93184,,
+Anton Chekhov,Anton Pavlovich Chekhov (1860-1904).,Q48612002,8,1,2,scientific article published in December 2005,,Q13442814,,
+Anton Chekhov,Anton Pavlovich Chekhov and the journal Khirurgiia; 50th anniversary A. P. Chekhov's death,Q52509499,8,1,2,scientific article published in August 1954,,Q13442814,,
+Anton Chekhov,"Anton Pavlovich Chekhov in the history of the journal ""Khirurgiia"".",Q79172621,8,1,2,scientific article published on 01 January 1960,,Q13442814,,
+What a Thought,What a Thought,Q111170272,9,0,1,short story by Shirley Jackson,,Q7725634,,What a Thought
+What a Thought,What a Thought,Q110880227,9,0,1,short story by Shirley Jackson,,Q7725634,,
+What a Thought,Shirley Jackson,Q239910,9,0,2,American writer (1916-1965),Shirley Hardie Jackson,Q5,,Shirley Jackson
+What a Thought,Shirley Jackson Award,Q7498780,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q107655869,,Shirley Jackson Award
+What a Thought,Shirley Jackson Award for Novel,Q76628689,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q38033430|Q116620926,,
+What a Thought,Shirley Jackson Award for Single-Author Collection,Q76639029,9,0,2,literary award for works of dark fantasy and psychological suspense,Shirley Jackson Award for Collection,Q378427,,
+What a Thought,Shirley Jackson Award for Novella,Q76633002,9,0,2,literary award for novella-length of dark fantasy and psychological suspense,Shirley Jackson Award,Q378427|Q38033430|Q136736521,,
+What a Thought,Shirley Jackson Case,Q41308532,9,0,2,Canadian mathematician and theologian (1872-1947),,Q5,,Shirley Jackson Case
+What a Thought,Shirley Jackson Award for Best Short Fiction,Q137762618,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Short Fiction
+What a Thought,Shirley Jackson Award for Best Single-Author Collection,Q137785313,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427|Q139584484,,Shirley Jackson Award for Best Single-Author Collection
+What a Thought,Shirley Jackson Award for Best Edited Anthology,Q137785544,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q378427,,Shirley Jackson Award for Best Edited Anthology
+What a Thought,Shirley Jackson Award for Best Novella,Q137690973,9,0,2,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Novella
+Shirley Jackson,Shirley Jackson,Q239910,9,1,1,American writer (1916-1965),Shirley Hardie Jackson,Q5,,Shirley Jackson
+Shirley Jackson,Shirley Jackson Award,Q7498780,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q107655869,,Shirley Jackson Award
+Shirley Jackson,Shirley Jackson Award for Novel,Q76628689,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q38033430|Q116620926,,
+Shirley Jackson,Shirley Jackson Award for Single-Author Collection,Q76639029,9,1,1,literary award for works of dark fantasy and psychological suspense,Shirley Jackson Award for Collection,Q378427,,
+Shirley Jackson,Shirley Jackson Award for Novella,Q76633002,9,1,1,literary award for novella-length of dark fantasy and psychological suspense,Shirley Jackson Award,Q378427|Q38033430|Q136736521,,
+Shirley Jackson,Shirley Jackson Case,Q41308532,9,1,1,Canadian mathematician and theologian (1872-1947),,Q5,,Shirley Jackson Case
+Shirley Jackson,Shirley Jackson Award for Best Short Fiction,Q137762618,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Short Fiction
+Shirley Jackson,Shirley Jackson Award for Best Single-Author Collection,Q137785313,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427|Q139584484,,Shirley Jackson Award for Best Single-Author Collection
+Shirley Jackson,Shirley Jackson Award for Best Edited Anthology,Q137785544,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q378427,,Shirley Jackson Award for Best Edited Anthology
+Shirley Jackson,Shirley Jackson Award for Best Novella,Q137690973,9,1,1,literary award for works of dark fantasy and psychological suspense,,Q618779,,Shirley Jackson Award for Best Novella
+Karma,Karma,Q427584,10,0,1,urban-type settlement in Belarus,,Q91733160,,"Karma, Karma district, Gomel region"
+Karma,Karma,Q37123443,10,0,1,family name,,Q101352,,
+Karma,Karma,Q114805013,10,0,1,2023 song by Taylor Swift,,Q7366,,Karma (Taylor Swift song)
+Karma,Karma,Q21066819,10,0,1,Bhutanese recurve archer,,Q5,,Karma (archer)
+Karma,Karma,Q1756326,10,0,1,2001 studio album by Kamelot,,Q482994,,Karma (Kamelot album)
+Karma,Karma,Q3193506,10,0,1,1987 video game,,Q7889,,
+Karma,Karma,Q1734018,10,0,1,rural commune in Niger,,Q605291,,"Karma, Niger"
+Karma,Karma,Q4233169,10,0,1,"village in Lieĺčycy district, Belarus",,Q65661087,,
+Karma,Karma,Q110634613,10,0,1,unisex given name,Karma (given name),Q3409032,,
+Karma,Karma,Q1571202,10,0,1,1969 studio album by Pharoah Sanders,,Q482994,,Karma (Pharoah Sanders album)
+Karma,Karma Yoga,Q2727266,10,0,2,third chapter of the Bhagavad Gita,,,,
+Karma,Karma yoga,Q1054016,10,0,2,one of four spiritual paths in Hinduism,Karma marga|karmayoga|kriyamarga,,Q9350,Karma yoga
+Karma,Karma Yoga,Q6372674,10,0,2,book by Swami Vivekananda,The Yoga of action,Q7725634,,Karma Yoga (book)
+Karma,Karma Yoga,Q121610177,10,0,2,third chapter of Bhagvada Gita,,,,Karma Yoga (Bhagavad Gita)
+Karma,Karma Yoga Traditional School,Q136812851,10,0,2,Greek Yoga School,,Q2385804,,
+Karma,"Karma-Yoga, the Indian Work Ideal, and its Relationship with Empathy",Q58170353,10,0,2,,,Q13442814,,
+Karma,Karma yoga: A path towards work in positive psychology,Q28385354,10,0,2,scientific article,,Q13442814,,
+Karma,Karma-Yoga: The Indian Model of Moral Development,Q56502929,10,0,2,article,,Q13442814,,
+Karma,Karma Yoga in the Bhagavad Gita: way for all to self-realization,Q107605503,10,0,2,scholarly article from the Asia Journal of Theology,,Q13442814,,
+Karma,Karmic,Q6372754,10,0,2,extended play,,Q169930,,Karmic (EP)
+Karma,Karmichael,Q52242840,10,0,2,given name,,Q202444,,
+Karma,Karmichael Hunt,Q3193517,10,0,2,"Australian rugby league, rugby union and Australian rules footballer",Karmichael Neil Matthew Hunt,Q5,,Karmichael Hunt
+Karma,Karmic Retribution,Q114514241,10,0,2,episode of Faking It (S2 E9),,Q21191270,,
+Karma,Karmic Juggernaut,Q62547795,10,0,2,American rock group,,Q215380,,Karmic Juggernaut
+Karma,Karmic Hit,Q6372756,10,0,2,,,Q18127,,
+Karma,Karmic Society,Q3485073,10,0,2,Dutch band,,Q215380,,
+Karma,Karmic Debts,Q16413346,10,0,2,2013 novel by Inga Raitar,,Q7725634,,
+Karma,karmic astrology,Q782777,10,0,2,,,,Q34362,Karmic astrology
+Karma,Karmic Mahjong,Q6372755,10,0,2,2006 film by Wang Guangli,,Q11424,,Karmic Mahjong
+Karma,Karmaphala,Q12489675,10,0,2,,,,,
+Rishi Reddi,Rishi Reddi,Q7336048,10,1,1,American writer,,Q5,,Rishi Reddi
+Another Story,Another Story,Q20042974,11,0,1,,,Q5398426,,
+Another Story,Another Story,Q9616738,11,0,1,album by Janne Da Arc,,Q482994,,
+Another Story,Another Story,Q4770368,11,0,1,album by Fiction Factory,,Q482994,,Another Story (Fiction Factory album)
+Another Story,Another Story,Q4770366,11,0,1,album by Stanley Turrentine,,Q482994,,Another Story (Stanley Turrentine album)
+Another Story,Another Story,Q4770364,11,0,1,album by Ernest Tubb,,Q482994,,Another Story (Ernest Tubb album)
+Another Story,Another Story,Q11190324,11,0,1,album by Takao Kisugi,,Q482994,,
+Another Story,Another Story,Q110619555,11,0,1,1994 novelette by Ursula K. Le Guin,Another Story or A Fisherman of the Inland Sea,Q7725634,,
+Another Story,Another Story,Q123984564,11,0,1,song by Burna Boy off his fourth album of 2019,Another-story,Q134556,,
+Another Story,Another Story of Fallen Maidens,Q133233378,11,0,1,2016 video game,Another Story of Fallen Maidens: Fallen Hero and the Magic Sword of Truth,Q7889,,
+Another Story,A.D. Police Files,Q289871,11,0,1,three-part original video animation,AD Police Files|A.D. Police|ANOTHER STORY OF BUBBLEGUM CRISIS AD.POLICE|PARASITE DOLLS,Q220898,,AD Police Files
+Another Story,Ursula K. Le Guin,Q181659,11,0,2,American fantasy and science fiction author (1929–2018),Ursula Kroeber,Q5,,Ursula K. Le Guin
+Another Story,Ursula K. Le Guin bibliography,Q2330780,11,0,2,bibliography,,Q1631107,,Ursula K. Le Guin bibliography
+Another Story,Ursula K. Le Guin Prize,Q115805575,11,0,2,english-language literary award,,Q378427|Q107581015,,Ursula K. Le Guin Prize
+Another Story,Ursula K. Le Guin House,Q140680160,11,0,2,,,,,Ursula K. Le Guin House
+Another Story,"Ursula K. Le Guin, Acclaimed for Her Fantasy Fiction, Is Dead at 88",Q123568205,11,0,2,"The New York Times article (January 23, 2018)",,Q309481,,
+Another Story,"Ursula K. Le Guin and Arthur C. Clarke on Immanence, Transcendence, and Massacres",Q56113087,11,0,2,,,Q13442814,,
+Another Story,Ursula K. Le Guin: an anthropologist of other worlds,Q58928082,11,0,2,scientific article published in Nature,,Q13442814,,
+Ursula K. Le Guin,Ursula K. Le Guin,Q181659,11,1,1,American fantasy and science fiction author (1929–2018),Ursula Kroeber,Q5,,Ursula K. Le Guin
+Ursula K. Le Guin,Ursula K. Le Guin bibliography,Q2330780,11,1,1,bibliography,,Q1631107,,Ursula K. Le Guin bibliography
+Ursula K. Le Guin,Ursula K. Le Guin Prize,Q115805575,11,1,1,english-language literary award,,Q378427|Q107581015,,Ursula K. Le Guin Prize
+Ursula K. Le Guin,Ursula K. Le Guin House,Q140680160,11,1,1,,,,,Ursula K. Le Guin House
+Ursula K. Le Guin,"Ursula K. Le Guin, Acclaimed for Her Fantasy Fiction, Is Dead at 88",Q123568205,11,1,1,"The New York Times article (January 23, 2018)",,Q309481,,
+Ursula K. Le Guin,"Ursula K. Le Guin and Arthur C. Clarke on Immanence, Transcendence, and Massacres",Q56113087,11,1,1,,,Q13442814,,
+Ursula K. Le Guin,Ursula K. Le Guin: an anthropologist of other worlds,Q58928082,11,1,1,scientific article published in Nature,,Q13442814,,
+Cortes Island,Cortes Island,Q1135575,12,0,1,"island in British Columbia, Canada",Cortez Island,Q23442,,Cortes Island
+Cortes Island,Cortes Island,Q60664089,12,0,1,short story by Alice Munro,,Q7725634,,
+Cortes Island,Strathcona C,Q117074635,12,0,1,"rural electoral area in British Columbia, Canada",Cortes Island,Q115916908,,
+Cortes Island,Cortes Island,Q61279232,12,0,1,"Meteorological Service of Canada's station for Cortes Island (MSC ID: 1021950), British-Columbia, Canada",,Q190107,,
+Cortes Island,Cortes Island (Hansen Airfield) Airport,Q1655246,12,0,1,"airport in British Columbia, Canada",YCF,Q1248784,,Cortes Island Aerodrome
+Cortes Island,Cortes Island Branch,Q85704341,12,0,1,branch library of the Vancouver Island Regional Library,,Q28564|Q11396180,,
+Cortes Island,Cortes Island Tiber Bay,Q61279236,12,0,1,"Meteorological Service of Canada's station for Cortes Island Tiber Bay (MSC ID: 1021960), British-Columbia, Canada",,Q190107,,
+Alice Munro,Alice Munro,Q234819,12,1,1,Canadian writer (1931–2024),Alice Ann Munro|Alice Ann Laidlaw Munro|Alice Laidlaw|Alice Anne Munro,Q5,,Alice Munro
+Alice Munro,Alice Munro,Q89358670,12,1,1,researcher,,Q5,,
+Alice Munro,Alice Munro: An Annotated Bibliography of Works and Criticism,Q60662899,12,1,1,published bibliography of Alice Munro,,Q1631107|Q7725634,,
+Alice Munro,Alice Munro,Q136162516,12,1,1,book 1998,,Q3331189,,
+Alice Munro,Alice Munro's Best,Q60767689,12,1,1,short story collection by Alice Munro,,Q7725634,,
+Alice Munro,Alice Munroe,Q136377343,12,1,1,,,Q5,,
+Alice Munro,Alice Munroe Brown,Q140799582,12,1,1,(1879-1963),,Q5,,
+Alice Munro,Alice Munroe Burnham,Q130709911,12,1,1,American socialite (1880-1972),Alice Burnham Gray|Alice B. Gray|Alice M. Burnham|Alice Munroe Gray|Alice Munroe Burnham Gray|Alice Munroe Burnham Budd|Alice Burnham|Mrs. Austen Gray,Q5,,
+Alice Munro,Alice Munro Festival of the Short Story,Q140621082,12,1,1,"Annual literary festival in Clinton, Ontario, Canada",Alice Munro Festival|Alice Munro Literary Festival|Festival of the Short Story|Alice Munro Festival Ontario,Q23902005,,
+Alice Munro,Alice Munro’s Miraculous Art: Critical Essays,Q136115782,12,1,1,book 2017,,Q3331189,,
+Alice Munro,Cortes Island,Q1135575,12,1,2,"island in British Columbia, Canada",Cortez Island,Q23442,,Cortes Island
+Alice Munro,Cortes Island,Q60664089,12,1,2,short story by Alice Munro,,Q7725634,,
+Alice Munro,Strathcona C,Q117074635,12,1,2,"rural electoral area in British Columbia, Canada",Cortes Island,Q115916908,,
+Alice Munro,Cortes Island,Q61279232,12,1,2,"Meteorological Service of Canada's station for Cortes Island (MSC ID: 1021950), British-Columbia, Canada",,Q190107,,
+Alice Munro,Cortes Island (Hansen Airfield) Airport,Q1655246,12,1,2,"airport in British Columbia, Canada",YCF,Q1248784,,Cortes Island Aerodrome
+Alice Munro,Cortes Island Branch,Q85704341,12,1,2,branch library of the Vancouver Island Regional Library,,Q28564|Q11396180,,
+Alice Munro,Cortes Island Tiber Bay,Q61279236,12,1,2,"Meteorological Service of Canada's station for Cortes Island Tiber Bay (MSC ID: 1021960), British-Columbia, Canada",,Q190107,,
+Nettles,Nettles,Q56056221,13,0,1,family name,,Q101352,,Nettles (surname)
+Nettles,Urtica,Q121671,13,0,1,genus of plants,nettle|nettles,Q16521,,Urtica
+Nettles,Nettles,Q134707800,13,0,1,2025 single by Ethel Cain,,Q105543609,,Nettles (song)
+Nettles,Nettlestone and Seaview,Q2664892,13,0,1,"civil parish on the Isle of Wight, UK","Nettlestone and Seaview (civil parish), Isle of Wight|Nettlestone and Seaview, Isle of Wight|Seaview",Q1115575,,Nettlestone and Seaview
+Nettles,Nettlestead,Q2179824,13,0,1,"village and civil parish in Kent, United Kingdom","Nettlestead, Kent",Q532|Q1115575,,"Nettlestead, Kent"
+Nettles,Nettlestead,Q1990544,13,0,1,"village and civil parish in Suffolk, UK","Nettlestead, Suffolk",Q532|Q1115575,,"Nettlestead, Suffolk"
+Nettles,Nettleship,Q37528263,13,0,1,family name,,Q101352,,Nettleship
+Nettles,Nettles,Q60664101,13,0,1,short story by Alice Munro,,Q7725634,,
+Nettles,Nettles,Q107476586,13,0,1,given name,,Q202444,,
+Nettles,"Nettleship, John Trivett (DNB12)",Q19071230,13,0,1,entry in Dictionary of National Biography,,Q19389637,,
+Nettles,Alice Munro,Q234819,13,0,2,Canadian writer (1931–2024),Alice Ann Munro|Alice Ann Laidlaw Munro|Alice Laidlaw|Alice Anne Munro,Q5,,Alice Munro
+Nettles,Alice Munro,Q89358670,13,0,2,researcher,,Q5,,
+Nettles,Alice Munro: An Annotated Bibliography of Works and Criticism,Q60662899,13,0,2,published bibliography of Alice Munro,,Q1631107|Q7725634,,
+Nettles,Alice Munro,Q136162516,13,0,2,book 1998,,Q3331189,,
+Nettles,Alice Munro's Best,Q60767689,13,0,2,short story collection by Alice Munro,,Q7725634,,
+Nettles,Alice Munroe,Q136377343,13,0,2,,,Q5,,
+Nettles,Alice Munroe Brown,Q140799582,13,0,2,(1879-1963),,Q5,,
+Nettles,Alice Munroe Burnham,Q130709911,13,0,2,American socialite (1880-1972),Alice Burnham Gray|Alice B. Gray|Alice M. Burnham|Alice Munroe Gray|Alice Munroe Burnham Gray|Alice Munroe Burnham Budd|Alice Burnham|Mrs. Austen Gray,Q5,,
+Nettles,Alice Munro Festival of the Short Story,Q140621082,13,0,2,"Annual literary festival in Clinton, Ontario, Canada",Alice Munro Festival|Alice Munro Literary Festival|Festival of the Short Story|Alice Munro Festival Ontario,Q23902005,,
+Nettles,Alice Munro’s Miraculous Art: Critical Essays,Q136115782,13,0,2,book 2017,,Q3331189,,
+Alice Munro,Alice Munro,Q234819,13,1,1,Canadian writer (1931–2024),Alice Ann Munro|Alice Ann Laidlaw Munro|Alice Laidlaw|Alice Anne Munro,Q5,,Alice Munro
+Alice Munro,Alice Munro,Q89358670,13,1,1,researcher,,Q5,,
+Alice Munro,Alice Munro: An Annotated Bibliography of Works and Criticism,Q60662899,13,1,1,published bibliography of Alice Munro,,Q1631107|Q7725634,,
+Alice Munro,Alice Munro,Q136162516,13,1,1,book 1998,,Q3331189,,
+Alice Munro,Alice Munro's Best,Q60767689,13,1,1,short story collection by Alice Munro,,Q7725634,,
+Alice Munro,Alice Munroe,Q136377343,13,1,1,,,Q5,,
+Alice Munro,Alice Munroe Brown,Q140799582,13,1,1,(1879-1963),,Q5,,
+Alice Munro,Alice Munroe Burnham,Q130709911,13,1,1,American socialite (1880-1972),Alice Burnham Gray|Alice B. Gray|Alice M. Burnham|Alice Munroe Gray|Alice Munroe Burnham Gray|Alice Munroe Burnham Budd|Alice Burnham|Mrs. Austen Gray,Q5,,
+Alice Munro,Alice Munro Festival of the Short Story,Q140621082,13,1,1,"Annual literary festival in Clinton, Ontario, Canada",Alice Munro Festival|Alice Munro Literary Festival|Festival of the Short Story|Alice Munro Festival Ontario,Q23902005,,
+Alice Munro,Alice Munro’s Miraculous Art: Critical Essays,Q136115782,13,1,1,book 2017,,Q3331189,,
+A Night In,A Night In,Q16207500,14,0,1,episode of Porridge,,Q21191270,,A Night In
+A Night In,A Night in Rivendell,Q293095,14,0,1,album by The Tolkien Ensemble,,Q482994,,A Night in Rivendell
+A Night In,A Night in Monte-Carlo,Q2819838,14,0,1,live album by Marcus Miller,,Q482994,,
+A Night In,A Night In,Q111804979,14,0,1,,,Q7725634,,
+A Night In,A Night in the Life of Jimmy Reardon,Q114435,14,0,1,1988 film by William Richert,Night in the Life of Jimmy Reardon,Q11424,,A Night in the Life of Jimmy Reardon
+A Night In,A Night in Heaven,Q1615593,14,0,1,1983 film by John G. Avildsen,Night in Heaven,Q11424,,A Night in Heaven
+A Night In,A Night in Acadie,Q19024039,14,0,1,"short story collection by Kate Chopin, 1897 edition",,Q3331189,,
+A Night In,A Night In Berlin,Q122370453,14,0,1,2020 video game,,Q7889,,
+A Night In,A Night in Prison,Q126692837,14,0,1,2023 video game,,Q7889,,
+A Night In,A Night in Vanet Manor,Q134994475,14,0,1,video game developed by Michael Thorson,,Q7889,,
+A Night In,A Night in the Life,Q65075761,14,0,2,2007 live album by Frank Morgan,,Q482994,,A Night in the Life
+A Night In,A night in the life of a rat: vibrissal mechanics and tactile exploration,Q37870959,14,0,2,"scientific article published on April 1, 2011",,Q13442814,,
+A Night In,A night in the life of a nurse-midwife,Q72631756,14,0,2,scientific article published on 01 October 1993,,Q13442814,,
+A Night In,A night in the life of a migrant street artist: In conversation with visual artist Shp,Q114596291,14,0,2,scientific article published in 2022,,Q13442814,,
+A Night In,A night in the life of the SANE: a fictional account of 12 hours on call as a sexual assault nurse examiner.,Q50992146,14,0,2,scientific article published in June 1996,,Q13442814,,
+A Night In,A night in the life of an OR nurse,Q81040575,14,0,2,scientific article published on 01 June 2005,,Q13442814,,
+A Night In,A Night in Tunisia,Q300503,14,0,2,song by Dizzy Gillespie,Night in Tunisia|Night in tunisia|A Night in Tunisia (song)|And the Melody Still Lingers On (Night in Tunisia)|A Night In Tunisia,Q105543609,,A Night in Tunisia
+A Night In,A Night in Tunisia,Q300505,14,0,2,studioalbum från år 1961 av Art Blakey,,Q482994,,A Night in Tunisia (1961 album)
+A Night In,A Night in Tunisia,Q4658607,14,0,2,studioalbum från år 1958 av Art Blakey,,Q482994,,A Night in Tunisia (1958 album)
+A Night In,A Night in Tunisia,Q28452558,14,0,2,album by Art Pepper,,Q482994,,A Night in Tunisia (Art Pepper album)
+A Night In,A night in Tunisia,Q46690335,14,0,2,"scientific article published on May 1, 1998",,Q13442814|Q871232,,
+A Night In,A Night in Tunisia,Q16263146,14,0,2,Wikimedia disambiguation page,,Q4167410,,A Night in Tunisia (disambiguation)
+Sublimation,sublimation,Q131800,15,0,1,transition of a substance directly from the solid to the gas state,,Q185357,,Sublimation (phase transition)
+Sublimation,deposition,Q871279,15,0,1,transition from a gas to a solid,desublimation|sublimation,Q185357,,Deposition (phase transition)
+Sublimation,sublimation,Q217249,15,0,1,type of defense mechanism where socially unacceptable impulses or idealizations are unconsciously transformed into socially acceptable actions or behavior,sublimation (psychology),Q2866472,Q2866472,Sublimation (psychology)
+Sublimation,Sublimation,Q81510356,15,0,1,Japanese CG animation studio,Sublimation Inc.,Q1107679,,
+Sublimation,Sublimation,Q7631479,15,0,1,album by Canvas Solaris,,Q482994,,Sublimation (album)
+Sublimation,sublimation process,Q105582961,15,0,1,purifying a sample by forcing it to pass from the solid to gas phase without passing through an intermediate liquid phase,sublimation,,Q12773274,
+Sublimation,Sublimation,Q77210014,15,0,1,story by Jennifer Haigh,,Q7725634,,
+Sublimation,sublimation temperature,Q3517826,15,0,1,temperature at which a substance changes directly from solid to gaseous,,Q4480522,Q11466,
+Sublimation,sublimation apparatus,Q3772782,15,0,1,,,,,Sublimatory
+Sublimation,sublimation point,Q1925952,15,0,1,,,,Q11466,
+Sublimation,Jennifer Haigh,Q6178396,15,0,2,novelist,,Q5,,Jennifer Haigh
+Jennifer Haigh,Jennifer Haigh,Q6178396,15,1,1,novelist,,Q5,,Jennifer Haigh
+"Lust, Caution","Lust, Caution",Q718524,16,0,1,2007 film by Ang Lee,,Q11424,,"Lust, Caution"
+"Lust, Caution","Lust, Caution",Q6705257,16,0,1,1979 novel by Eileen Chang,,Q7725634,,"Lust, Caution (novella)"
+"Lust, Caution","Lust, Caution",Q139915770,16,0,1,ebook edition,,Q3331189,,
+"Lust, Caution",Eileen Chang,Q104576419,16,0,2,researcher ORCID 0000-0002-8738-0784,,Q5,,
+"Lust, Caution",Eileen Chang,Q197155,16,0,2,"Chinese-born American essayist, novelist, and screenwriter (1920–1995)",Zhang Ailing|Chang Ai-ling,Q5,,Eileen Chang
+"Lust, Caution",Eileen Chang,Q42186846,16,0,2,researcher,,Q5,,
+"Lust, Caution",Eileen Chang,Q96000603,16,0,2,researcher (ORCID 0000-0003-3269-3457),,Q5,,
+"Lust, Caution","Eileen Chang: Romancing Languages, Cultures and Genres",Q136118785,16,0,2,book 2012,,Q3331189,,
+"Lust, Caution","Eileen Chang,<i>Lust, Caution: And Other Stories</i>",Q122711216,16,0,2,scientific article published in 2010,,Q13442814,,
+"Lust, Caution",Eileen Chang’s female consciousness and value experience,Q120744782,16,0,2,"scholarly article in Journal of Central South University (Social Science), no. 1, 2015",,Q13442814,,
+"Lust, Caution",Eileen Chang’s Translation:A Polysystemic Perspective,Q118572111,16,0,2,,,Q13442814,,
+"Lust, Caution",Eileen Chang’s Jin Suo Ji and Western Modernism Literature,Q120536512,16,0,2,"scholarly article in Journal of Nantong University (Social Sciences Edition), no. 6, 2015",,Q13442814,,
+"Lust, Caution","Eileen Chang’s link with Aldous Leonard Huxley:Scepticism, cold writing and materialized style",Q120745232,16,0,2,"scholarly article in Journal of Central South University (Social Science), no. 6, 2016",,Q13442814,,
+Eileen Chang,Eileen Chang,Q104576419,16,1,1,researcher ORCID 0000-0002-8738-0784,,Q5,,
+Eileen Chang,Eileen Chang,Q197155,16,1,1,"Chinese-born American essayist, novelist, and screenwriter (1920–1995)",Zhang Ailing|Chang Ai-ling,Q5,,Eileen Chang
+Eileen Chang,Eileen Chang,Q42186846,16,1,1,researcher,,Q5,,
+Eileen Chang,Eileen Chang,Q96000603,16,1,1,researcher (ORCID 0000-0003-3269-3457),,Q5,,
+Eileen Chang,"Eileen Chang: Romancing Languages, Cultures and Genres",Q136118785,16,1,1,book 2012,,Q3331189,,
+Eileen Chang,"Eileen Chang,<i>Lust, Caution: And Other Stories</i>",Q122711216,16,1,1,scientific article published in 2010,,Q13442814,,
+Eileen Chang,Eileen Chang’s female consciousness and value experience,Q120744782,16,1,1,"scholarly article in Journal of Central South University (Social Science), no. 1, 2015",,Q13442814,,
+Eileen Chang,Eileen Chang’s Translation:A Polysystemic Perspective,Q118572111,16,1,1,,,Q13442814,,
+Eileen Chang,Eileen Chang’s Jin Suo Ji and Western Modernism Literature,Q120536512,16,1,1,"scholarly article in Journal of Nantong University (Social Sciences Edition), no. 6, 2015",,Q13442814,,
+Eileen Chang,"Eileen Chang’s link with Aldous Leonard Huxley:Scepticism, cold writing and materialized style",Q120745232,16,1,1,"scholarly article in Journal of Central South University (Social Science), no. 6, 2016",,Q13442814,,
+Tagahoovis,Tagahoovis,Q25522974,17,0,1,1957 film directed by Viktor Nevežin,,Q11424,,
+Tagahoovis,Tagahoovis,Q16405882,17,0,1,1933 short story by Oskar Luts,,Q7725634,,
+Tagahoovis,Oskar Luts,Q2005705,17,0,2,Estonian writer and playwright (1887–1953),,Q5,,Oskar Luts
+Tagahoovis,Oskar Luts Humor Award,Q12371590,17,0,2,,,Q618779,,
+Tagahoovis,Oskar Luts Home Museum,Q16407960,17,0,2,"museum in Tartu, Estonia",,Q5755620,,
+Tagahoovis,Oskar Luts' Palamuse Basic School,Q12371589,17,0,2,school in Estonia,Oskar Luts' Palamuse Gymnasium,Q2648750,,
+Tagahoovis,Oskar Luts House,Q141003344,17,0,2,"building in Tartu, Estonia",,Q41176,,
+Tagahoovis,Oskar Lutsu mälestused,Q137299154,17,0,2,Estonian book series,,Q277759,,
+Tagahoovis,list of works by Oskar Luts,Q12371594,17,0,2,Wikimedia list article,,Q13406463,,
+Tagahoovis,Oskar Lutsu hauamonument,Q12371592,17,0,2,,,Q6023295,,
+Tagahoovis,Oskar Lutsu ausammas,Q12371591,17,0,2,,,Q4989906,,
+Tagahoovis,Estonian Authors' Society,Q12361196,17,0,2,Estonian copyright collection and performing rights society,EAU|Eesti Autorite Ühing,Q43229|Q1047437,,
+Tagahoovis,Estonian literature,Q1334834,17,0,2,literature written in Estonian or in Estonia,,Q109551565|Q11862829,,Estonian literature
+Tagahoovis,Estonian Literary Society,Q1300980,17,0,2,Baltic German organization based in Estonia (1842–1940),Estonian Literature Society,Q748019,,
+Tagahoovis,Estonian Literature Centre,Q20530827,17,0,2,organization,ELIC|Estonian Literature Information Centre,Q43229,,
+Tagahoovis,Estonian Literature Day,Q116498469,17,0,2,public holiday in Estonia,,Q25504869,,
+Tagahoovis,history of Estonian literature,Q113861735,17,0,2,,Estonian literature history,Q17524420,,
+Tagahoovis,Estonian Literature and Ecofeminism,Q140410156,17,0,2,scholarly article by Julia Kuznetski and Kadri Tüür,,Q13442814,,
+Tagahoovis,Estonian literature in the komi language,Q129757051,17,0,2,scholarly article published on 29 March 2018,,Q13442814,,
+Oskar Luts,Oskar Luts,Q2005705,17,1,1,Estonian writer and playwright (1887–1953),,Q5,,Oskar Luts
+Oskar Luts,Oskar Luts Humor Award,Q12371590,17,1,1,,,Q618779,,
+Oskar Luts,Oskar Luts Home Museum,Q16407960,17,1,1,"museum in Tartu, Estonia",,Q5755620,,
+Oskar Luts,Oskar Luts' Palamuse Basic School,Q12371589,17,1,1,school in Estonia,Oskar Luts' Palamuse Gymnasium,Q2648750,,
+Oskar Luts,Oskar Luts House,Q141003344,17,1,1,"building in Tartu, Estonia",,Q41176,,
+Oskar Luts,Oskar Lutsu mälestused,Q137299154,17,1,1,Estonian book series,,Q277759,,
+Oskar Luts,list of works by Oskar Luts,Q12371594,17,1,1,Wikimedia list article,,Q13406463,,
+Oskar Luts,Oskar Lutsu hauamonument,Q12371592,17,1,1,,,Q6023295,,
+Oskar Luts,Oskar Lutsu ausammas,Q12371591,17,1,1,,,Q4989906,,
+Gas,Gastroenterology,Q4039279,18,0,1,peer-reviewed scientific journal,"Excerpta medica. Section 48, Gastroenterology",Q5633421|Q16024164,,Gastroenterology (journal)
+Gas,Gas,Q1467493,18,0,1,"commune in Eure-et-Loir, France",,Q484170,,"Gas, Eure-et-Loir"
+Gas,gasoline,Q39558,18,0,1,refined petroleum liquid used primarily as fuel,petrol|motor fuel|motor spirits|gas|motor spirit,Q140478661|Q43648|Q119892838,Q337540|Q1059843|Q169336,Gasoline
+Gas,Streptococcus pyogenes,Q131271,18,0,1,species of bacterium,GAS,Q16521,Q3500347,Streptococcus pyogenes
+Gas,natural gas,Q40858,18,0,1,fossil fuel containing a mix of methane and other gases,NG|fossil gas|methane gas|gas,Q317088,Q12748|Q909363|Q169336,Natural gas
+Gas,Gas,Q37558271,18,0,1,family name,,Q101352,,
+Gas,gas,Q11432,18,0,1,fundamental state of matter in which constituent particles are widely separated with weak intermolecular bonds,gaseous matter|gases,Q15831576,Q102205|Q66591990,Gas
+Gas,Gaston,Q18086818,18,0,1,male given name,Gaston (first name)|Gaston (given name),Q12308941,,
+Gas,Gas,Q111142857,18,0,1,play by Georg Kaiser,,Q7725634|Q17518870,,
+Gas,flatulence,Q160184,18,0,1,bodily function of expelling intestinal gas out of the anus,gas|passing gas|farting|fart|breaking wind,Q112965645,Q185557|Q54926352,Flatulence
+Gas,Gasoline,Q105583164,18,0,2,2021 song by Haim,,Q134556|Q7366,,Gasoline (Haim song)
+Gas,gasoline engine,Q502048,18,0,2,internal combustion engine designed to run on gasoline,petrol engine,Q135841149,Q630010,Petrol engine
+Gas,Gasoline,Q979359,18,0,2,album released by Theory of a Deadman,,Q482994,,Gasoline (Theory of a Deadman album)
+Gas,Gasoline Alley,Q1137794,18,0,2,American comic strip created by Frank King,,Q838795,,Gasoline Alley (comic strip)
+Gas,Gasoline,Q5526512,18,0,2,song by band Seether,,Q134556|Q7366,,Gasoline (Seether song)
+Gas,Gasoline,Q683563,18,0,2,2001 film directed by Monica Stambrini,,Q11424,,Gasoline (film)
+Gas,Gasoline,Q5526511,18,0,2,US rock band,,Q215380,,Gasoline (band)
+Gas,Gasoline,Q3098709,18,0,2,,,Q215380,,
+Gas,Gasoline,Q114471010,18,0,2,episode of Modern Marvels (S9 E31),,Q21191270,,
+Gas,natural gas field,Q1349255,18,0,2,deposits rich in natural gas,gas field|gasfield,,Q15104915|Q2221906|Q12148274,Natural gas field
+Gas,gas-fired power station,Q2944640,18,0,2,power station which uses combustible gases as primary source of fuel,gas power plant|gas fired power plant|gas power station|natural gas power station|natural gas power plant,,Q200297,Gas-fired power plant
+Gas,natural gas-fired power station,Q3498533,18,0,2,power station which uses natural gas as primary source of fuel,natural gas-fired power plant,,Q2944640|Q1434958,
+Gas,gas pipeline,Q1262712,18,0,2,pipe designed for long-distance natural-gas transportation,natural gas pipeline,,Q25471856,Gas pipeline
+Gas,Natural Gas,Q96717692,18,0,2,US scientific journal,,Q5633421,,
+Gas,natural gasoline,Q3758615,18,0,2,type of gasoline from natural gas,Bensin|Petrol,Q39558,Q337540|Q169336,Natural gasoline
+Gas,natural gas processing plant,Q91396496,18,0,2,facility used to process natural gas,natural gas terminal|gas terminal|gas plant|gas processing plant|natural gas plant,,Q30892595,
+Gas,natural gas storage,Q1349212,18,0,2,facilities for storing natural gas,gas storage,,Q9158768|Q837718,Natural gas storage
+Gas,gas engine,Q114704,18,0,2,internal combustion engine powered by natural gas,Power Gas Engine|natural gas engine,,Q12757,Gas engine
+Gas,Liquefied Natural Gas (LNG) Markets in Transition: Implications for U.S. Supply and Price,Q59648379,18,0,2,Congressional Research Service report,,Q6451276,,
+Gas,Liquefied Natural Gas (LNG) in U.S. Energy Policy: Infrastructure and Market Issues,Q59649148,18,0,2,Congressional Research Service report,,Q6451276,,
+Gas,Liquefied Natural Gas (LNG) Infrastructure Security: Issues for Congress,Q59639438,18,0,2,Congressional Research Service report,,Q6451276,,
+Gas,Liquefied Natural Gas (LNG): Jurisdiction Conflicts in Siting Approval,Q59667174,18,0,2,Congressional Research Service report,,Q6451276,,
+Gas,Liquefied natural gas (LNG) re-fracturing,Q120935771,18,0,2,US patent 11506037,,Q43305660,,
+Gas,"Liquefied Natural Gas (LNG) Import Terminals: Siting, Safety, and Regulation",Q59638137,18,0,2,Congressional Research Service report,,Q6451276,,
+Gas,Compressed Natural Gas (CNG) Power: A Conversation with George Lawrence - 1979 (NAID 54321),Q66324793,18,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Alfred Hitchcock,Alfred Hitchcock,Q7374,18,1,1,British filmmaker (1899–1980),Sir Alfred Hitchcock|The Master of Suspense|Master of Suspense|Alfred J. Hitchcock|Sir Alfred J. Hitchcock,Q5,,Alfred Hitchcock
+Alfred Hitchcock,Alfred Hitchcock – Vertigo,Q107160862,18,1,1,2021 video game,Alfred Hitchcock Vertigo|Vertigo|Alfred Hitchcock - Vertigo,Q7889,,Alfred Hitchcock – Vertigo
+Alfred Hitchcock,Alfred Hitchcock Presents,Q1247206,18,1,1,American television anthology series,,Q5398426,,Alfred Hitchcock Presents
+Alfred Hitchcock,Alfred Hitchcock,Q19596485,18,1,1,American surgeon,,Q5,,
+Alfred Hitchcock,Alfred Hitchcock Presents: The Final Cut,Q21462846,18,1,1,2002 video game,,Q7889,,Alfred Hitchcock Presents: The Final Cut
+Alfred Hitchcock,Psycho,Q163038,18,1,1,1960 US film by Alfred Hitchcock,Psycho 1960|Alfred Hitchcock's Psycho,Q11424,,Psycho (1960 film)
+Alfred Hitchcock,"Alfred Hitchcock Presents, season 2",Q3727534,18,1,1,1956–7 season of Alfred Hitchcock Presents,Alfred Hitchcock Presents season 2,Q3464665,,Alfred Hitchcock Presents season 2
+Alfred Hitchcock,"Alfred Hitchcock Presents, season 5",Q3727535,18,1,1,1959–60 season of television series,,Q3464665,,Alfred Hitchcock Presents season 5
+Alfred Hitchcock,"Alfred Hitchcock Presents, season 1",Q3727530,18,1,1,season of television series (1955–1962),Alfred Hitchcock Presents season 1,Q3464665,,Alfred Hitchcock Presents season 1
+Alfred Hitchcock,"Alfred Hitchcock Presents, season 4",Q3727531,18,1,1,1958–9 season of Alfred Hitchcock Presents,Alfred Hitchcock Presents season 4,Q3464665,,Alfred Hitchcock Presents season 4
+Mnemosyne,Mnemosyne,Q10586947,19,0,1,genus of insects,,Q16521,,Mnemosyne (planthopper)
+Mnemosyne,Mnemosyne. A Journal of Classical Studies,Q1941227,19,0,1,academic journal,Mnemosyne,Q5633421,,Mnemosyne (journal)
+Mnemosyne,Mnemosyne,Q102884,19,0,1,"personification of memory in Greek mythology, mother of the nine muses",Mnemosynë,Q45713,,Mnemosyne
+Mnemosyne,57 Mnemosyne,Q155614,19,0,1,main-belt asteroid,(57) Mnemosyne|Mnemosyne,Q3863,,57 Mnemosyne
+Mnemosyne,Mnemosyne,Q2455207,19,0,1,Japanese anime television series,RIN ~Daughters of Mnemosyne~|Mnemosyne: Mnemosyne no Musume-tachi,Q63952888,,Mnemosyne (TV series)
+Mnemosyne,Mnemosyne Atlas,Q17174365,19,0,1,Picture atlas by Aby Warburg,,Q26944781,,
+Mnemosyne,Mnemosyne,Q1840839,19,0,1,spaced repetition software,The Mnemosyne Project,Q15079042|Q341,,Mnemosyne (software)
+Mnemosyne,Mnemosyne,Q6885900,19,0,1,an oil painting by Dante Gabriel Rossetti,Lamp of Memory|Ricordanza,Q3305213,,Mnemosyne (Rossetti)
+Mnemosyne,Mnemosyne,Q3317487,19,0,1,album of The Hilliard Ensemble,,Q482994,,Mnemosyne (album)
+Mnemosyne,Mnemosyne,Q110359908,19,0,1,short story by Catherine MacLeod,,Q7725634,,
+Mnemosyne,Catherine MacLeod,Q76065243,19,0,2,Peerage person ID=506356,,Q5,,
+Mnemosyne,Catherine Macleod,Q106290361,19,0,2,"Scottish-Canadian feminist author, poet and labour activist (1948-2021)",,Q5,,Catherine Macleod
+Mnemosyne,Catherine MacLeod,Q110360013,19,0,2,Canadian horror writer,,Q5,,
+Mnemosyne,Catherine MacLeod,Q76176871,19,0,2,(1853-1915),,Q5,,
+Mnemosyne,Catherine MacLeod,Q58323535,19,0,2,"researcher, ORCID id # 0000-0002-9314-7380",,Q5,,
+Mnemosyne,Catherine MacLeod,Q75658494,19,0,2,(born 1977),Catherine Mary MacLeod,Q5,,
+Mnemosyne,Catherine MacLeod,Q18526714,19,0,2,Scottish Gaelic singer,Ceit NicLeòid|Kitty MacLeod,Q5,,Catherine MacLeod
+Mnemosyne,Christian MacLeod,Q98541455,19,0,2,(1806-1872),"Catherine MacLeod|Christian ""Kirsty, Chirsty"" MacLeod",Q5,,
+Mnemosyne,Catherine MacLeod,Q137591326,19,0,2,British politician and journalist,Baroness MacLeod of Camusdarach,Q5,,"Catherine MacLeod, Baroness MacLeod of Camusdarach"
+Catherine MacLeod,Catherine MacLeod,Q76065243,19,1,1,Peerage person ID=506356,,Q5,,
+Catherine MacLeod,Catherine Macleod,Q106290361,19,1,1,"Scottish-Canadian feminist author, poet and labour activist (1948-2021)",,Q5,,Catherine Macleod
+Catherine MacLeod,Catherine MacLeod,Q110360013,19,1,1,Canadian horror writer,,Q5,,
+Catherine MacLeod,Catherine MacLeod,Q76176871,19,1,1,(1853-1915),,Q5,,
+Catherine MacLeod,Catherine MacLeod,Q58323535,19,1,1,"researcher, ORCID id # 0000-0002-9314-7380",,Q5,,
+Catherine MacLeod,Catherine MacLeod,Q75658494,19,1,1,(born 1977),Catherine Mary MacLeod,Q5,,
+Catherine MacLeod,Catherine MacLeod,Q18526714,19,1,1,Scottish Gaelic singer,Ceit NicLeòid|Kitty MacLeod,Q5,,Catherine MacLeod
+Catherine MacLeod,Christian MacLeod,Q98541455,19,1,1,(1806-1872),"Catherine MacLeod|Christian ""Kirsty, Chirsty"" MacLeod",Q5,,
+Catherine MacLeod,Catherine MacLeod,Q137591326,19,1,1,British politician and journalist,Baroness MacLeod of Camusdarach,Q5,,"Catherine MacLeod, Baroness MacLeod of Camusdarach"
+One Giant Leap,One Giant Leap,Q124068519,20,0,1,2023 video game,,Q7889,,
+One Giant Leap,One Giant Leap,Q847534,20,0,1,episode of Heroes,,Q21191270,,One Giant Leap (Heroes)
+One Giant Leap,One Giant Leap,Q112193687,20,0,1,episode of This Is Us,,Q21191270,,
+One Giant Leap,One Giant Leap,Q114529966,20,0,1,episode of China Beach (S4 E7),,Q21191270,,
+One Giant Leap,One Giant Leap,Q52668999,20,0,1,episode of Eureka (S4 E20),,Q21191270,,
+One Giant Leap,One Giant Leap,Q111804780,20,0,1,2001 short story by Susan Wright,,Q7725634,,
+One Giant Leap,One Giant Leap,Q120848537,20,0,1,2019 book on the Apollo program,,Q47461344,,One Giant Leap (book)
+One Giant Leap,One Giant Leap,Q140172805,20,0,1,beer brewed by Finback Brewery,,Q103349965,,
+One Giant Leap,One Giant Leap: The Impossible Mission That Flew Us to the Moon,Q104113565,20,0,1,,,Q7725634,,
+One Giant Leap,One Giant Leap for Mankind: The 35th Anniversary of Apollo 11,Q133012085,20,0,1,online exhibition from National Aeronautics and Space Administration (United States),,Q3062261,,
+One Giant Leap,Apollo 11,Q43653,20,0,2,first Moon landing and fifth crewed flight of the United States Apollo program,Apollo XI|The Moon Landing|The 1st Moon Landing,Q752783,,Apollo 11
+One Giant Leap,Apollo 11,Q61639822,20,0,2,2019 film directed by Todd Douglas Miller,,Q11424,,Apollo 11 (2019 film)
+One Giant Leap,Apollo 11,Q618996,20,0,2,1996 film directed by Norberto Barba,,Q506240,,Apollo 11 (1996 film)
+One Giant Leap,Apollo 11 VR,Q23774354,20,0,2,2016 video game,,Q7889,,
+One Giant Leap,Apollo 11 Cave,Q14755864,20,0,2,archeological site in Namibia,,Q11269813,,Apollo 11 Cave
+One Giant Leap,Apollo 11,Q122212389,20,0,2,2016 soundtrack album by Adam Young,,Q482994,,Apollo 11 (album)
+One Giant Leap,Apollo 11,Q140128537,20,0,2,beer brewed by Celestial Beerworks,,Q139801897,,
+One Giant Leap,Eagle,Q28101302,20,0,2,lunar module used during Apollo 11; first crewed spacecraft on the Moon,Lunar Module Eagle|Lunar Module 5|LM-5 Eagle|Apollo 11 Lunar Module|Apollo 11 LM|Apollo 11 LEM,Q208382,,Lunar Module Eagle
+One Giant Leap,Columbia,Q85753536,20,0,2,Apollo command module used during Apollo 11,CM-107|Command Module Columbia|Apollo 11 Command Module,Q110163453,,Command module Columbia
+One Giant Leap,Apollo 11 VR HD,Q122377498,20,0,2,2018 video game,,Q7889,,
+One Giant Leap,Moon Landing,Q17175022,20,0,2,album by James Blunt,,Q482994,,Moon Landing (album)
+One Giant Leap,Moon landing,Q495307,20,0,2,arrival of a spacecraft on the surface of the Moon,lunar landing,Q1190554,Q844947,Moon landing
+One Giant Leap,Moon Landing,Q11989918,20,0,2,album by Sivert Høyem,,Q482994,,
+One Giant Leap,Moon Landing,Q10332202,20,0,2,episode of Modern Family (S1 E14),,Q21191270,,Moon Landing (Modern Family)
+One Giant Leap,Moon Landing,Q18614986,20,0,2,1074th strip of the webcomic xkcd,xkcd 1074,Q838795,,
+One Giant Leap,Moon Landing,Q6907506,20,0,2,musical,,Q58483083,,Moon Landing (music drama)
+One Giant Leap,moon landing conspiracy theories,Q190706,20,0,2,conspiracy theory,moon landing conspiracy theory|moon-Landing Hoax|Apollo Moon Landing Hoax,,Q159535,Moon landing conspiracy theories
+One Giant Leap,Moon landing,Q6907603,20,0,2,Moon landing is the arrival of a spacecraft on the surface of the Moon,,Q1190554,,Moon landing (disambiguation)
+One Giant Leap,Moon Landing VR,Q122373596,20,0,2,2018 video game,,Q7889,,
+One Giant Leap,Moon Landing World Tour,Q20012256,20,0,2,concert tour by James Blunt,,Q1573906,,Moon Landing World Tour
+Wireless,Wireless,Q96384667,21,0,1,2010 Orbit paperback edition,,Q3331189,,
+Wireless,Wireless,Q96482166,21,0,1,original Ace hardcover edition,,Q3331189,,
+Wireless,Wireless,Q96384649,21,0,1,original Orbit hardcover edition,,Q3331189,,
+Wireless,wireless communication,Q249,21,0,1,transfer of information or power that does not require the use of physical wires,wireless communications|wireless|wireless technology|wireless communication systems and technologies,Q2267705|Q11862829,Q418|Q1061219,Wireless
+Wireless,Wireless Power Consortium,Q3616482,21,0,1,"multinational technology consortium based in Washington, DC",WPC,Q194166,,Wireless Power Consortium
+Wireless,wireless network,Q11375,21,0,1,any network at least partly not connected by physical cables of any kind,,,Q1301371,Wireless network
+Wireless,News Broadcasting,Q7876052,21,0,1,radio broadcasting company,UTV Media|Total Access|Wireless Group|The Wireless Group,Q4830453|Q891723,,News Broadcasting
+Wireless,Wireless,Q8026812,21,0,1,2009 short story collection by Charles Stross,Wireless: The Essential Charles Stross,Q7725634,,Wireless: The Essential Charles Stross
+Wireless,Wireless Application Protocol Bitmap Format,Q2119856,21,0,1,file format,Wireless Bitmap|WAP Bitmap|WBMP|.wbmp|Wireless Bitmap Image File,Q105599390,,Wireless Application Protocol Bitmap Format
+Wireless,Wireless Application Protocol,Q186224,21,0,1,technical standard for accessing information over a mobile wireless network,WAP,Q317623|Q132364,,Wireless Application Protocol
+Wireless,wireless telegraphy,Q729856,21,0,2,method of communication,radiotelegraphy,,Q721587|Q249|Q1780543,Wireless telegraphy
+Wireless,"Wireless Telegraphy Act, 1926",Q100444779,21,0,2,Act of the Oireachtas No. 45 of 1926,Wireless Telegraphy Act 1926,Q91586285,,Wireless Telegraphy Act 1926
+Wireless,"Wireless telegraphy and telephony, radio",Q104711247,21,0,2,subject category of the 20th Century Press Archives,"n34 Sm1 Wireless telegraphy and telephony, radio",Q92707903,,
+Wireless,Wireless Telegraphy,Q128628270,21,0,2,1914 patent to de Forest,United States patent 1101533,Q253623|Q43305660,,
+Wireless,Wireless Telegraphy,Q128626181,21,0,2,1905 patent to Garcia,United States patent 795762,Q253623|Q43305660,,
+Wireless,Wireless Telegraphy,Q128628426,21,0,2,1914 scan,United States patent 1101533,Q3331189|Q42396623|Q1076968,,
+Wireless,Wireless Telegraphy,Q128626342,21,0,2,1905 scan,United States patent 795762,Q3331189|Q42396623|Q1076968,,
+Wireless,"Wireless Telegraphy Act, 1972",Q100398419,21,0,2,Act of the Oireachtas No. 5 of 1972,Wireless Telegraphy Act 1972,Q91586285,,
+Wireless,"Wireless Telegraphy (Fixed Wireless Access Local Area Licence) Regulations, 2003",Q100582172,21,0,2,Irish Statutory Instrument S.I. No. 79/2003,,Q100532807,,
+Wireless,"Wireless Telegraphy (Third Party Trial Licence) Regulations, 2005",Q100585943,21,0,2,Irish Statutory Instrument S.I. No. 114/2005,,Q100532807,,
+Wireless,timeline of wireless technology,Q22909414,21,0,2,,wireless technology timeline,Q18340550,,Timeline of wireless technology
+Wireless,Wireless Technology Industry Association(Hong Kong),Q96415351,21,0,2,,,,,Wireless Technology Industry Association
+Wireless,Wireless Technology and Spectrum Demand: Advanced Wireless Services,Q59639038,21,0,2,Congressional Research Service report,,Q6451276,,
+Wireless,Hong Kong Wireless Technology Industry Association,Q50040615,21,0,2,"nonprofit organization in Hong Kong, China",Wireless Technology Industry Association|WTIA,Q163740,,
+Wireless,Wireless Technology in Disease Management and Medicine,Q37952768,21,0,2,"scientific article published on November 4, 2011",,Q13442814,,
+Wireless,Wireless technology improves nursing workflow and communications,Q80946735,21,0,2,scientific article published on 01 September 2004,,Q13442814,,
+Wireless,Wireless technology in the evolution of patient monitoring on general hospital wards,Q46734127,21,0,2,scientific article,,Q13442814,,
+Wireless,Wireless Technology and System Integration in Body Area Networks for m-Health Applications,Q79728654,21,0,2,scientific article published on 01 January 2005,,Q13442814,,
+Wireless,Wireless technology infrastructures for authentication of patients: PKI that rings,Q24522589,21,0,2,scientific article,,Q13442814,,
+Wireless,Wireless Communications and Mobile Computing,Q2647835,21,0,2,journal,,Q1002697|Q737498|Q773668,,
+Wireless,wireless communication technology,Q115161048,21,0,2,,,,Q1780543,
+Wireless,Wireless Communications and Public Safety Act,Q8026828,21,0,2,,,Q476068,,Wireless Communications and Public Safety Act
+Wireless,Wireless Communications and Mobile Computing,Q68836475,21,0,2,Hindawi journal,,Q5633421,,
+Wireless,Wireless Communications Transfer Protocol,Q8026826,21,0,2,network protocol,WCTP,,,Wireless Communications Transfer Protocol
+Wireless,Wireless Communications of the German Army WW2,Q22115590,21,0,2,how the Nazi army communicated wirelessly,,,,Wireless Communications of the German Army in World War II
+Wireless,Wireless Communications Service,Q55637816,21,0,2,set of frequency bands designated for wireless communications in the US and Canada,WCS,,Q16023911,Wireless Communications Service
+Wireless,Wireless communication device with an antenna adjacent to an edge of the device,Q123855441,21,0,2,US patent 11228092,,Q43305660,,
+Wireless,Wireless communication device and wireless communication method,Q125732834,21,0,2,US patent 11228670,,Q43305660,,
+Rudyard Kipling,Rudyard Kipling,Q34743,21,1,1,English writer and poet (1865–1936),Joseph Rudyard Kipling|R. Kipling|Kipling,Q5,,Rudyard Kipling
+Rudyard Kipling,Rudyard Kipling,Q28050799,21,1,1,"painting by Sir Philip Burne-Jones, 2nd Bt",,Q3305213,,
+Rudyard Kipling,Rudyard Kipling,Q83498819,21,1,1,painting by Philip Burne-Jones,,Q3305213,,
+Rudyard Kipling,Rudyard Kipling,Q7377721,21,1,1,British steam trawler,,Q12859788|Q326561,,Rudyard Kipling (ship)
+Rudyard Kipling,Rudyard Kipling,Q80015505,21,1,1,"print by William Nicholson (British, 1872-1949) (1940.874)",,Q11060274,,
+Rudyard Kipling,Rudyard Kipling,Q103844456,21,1,1,painting by Richard Young,,Q3305213,,
+Rudyard Kipling,Rudyard Kipling,Q106564901,21,1,1,protrait by John Collier,,Q100575647,,
+Rudyard Kipling,Rudyard Kipling's The Jungle Book,Q1097616,21,1,1,1994 film directed by Stephen Sommers,The Jungle Book|1994 Jungle Book,Q11424,,The Jungle Book (1994 film)
+Rudyard Kipling,Rudyard Kipling,Q106564902,21,1,1,photomechanical print by John Collier,,Q100575647,,
+Rudyard Kipling,Rudyard Kipling,Q65026996,21,1,1,print in the National Gallery of Art (NGA 10491),,Q11060274,,
+Rudyard Kipling,wireless telegraphy,Q729856,21,1,2,method of communication,radiotelegraphy,,Q721587|Q249|Q1780543,Wireless telegraphy
+Rudyard Kipling,"Wireless Telegraphy Act, 1926",Q100444779,21,1,2,Act of the Oireachtas No. 45 of 1926,Wireless Telegraphy Act 1926,Q91586285,,Wireless Telegraphy Act 1926
+Rudyard Kipling,"Wireless telegraphy and telephony, radio",Q104711247,21,1,2,subject category of the 20th Century Press Archives,"n34 Sm1 Wireless telegraphy and telephony, radio",Q92707903,,
+Rudyard Kipling,Wireless Telegraphy,Q128628270,21,1,2,1914 patent to de Forest,United States patent 1101533,Q253623|Q43305660,,
+Rudyard Kipling,Wireless Telegraphy,Q128626181,21,1,2,1905 patent to Garcia,United States patent 795762,Q253623|Q43305660,,
+Rudyard Kipling,Wireless Telegraphy,Q128628426,21,1,2,1914 scan,United States patent 1101533,Q3331189|Q42396623|Q1076968,,
+Rudyard Kipling,Wireless Telegraphy,Q128626342,21,1,2,1905 scan,United States patent 795762,Q3331189|Q42396623|Q1076968,,
+Rudyard Kipling,"Wireless Telegraphy Act, 1972",Q100398419,21,1,2,Act of the Oireachtas No. 5 of 1972,Wireless Telegraphy Act 1972,Q91586285,,
+Rudyard Kipling,"Wireless Telegraphy (Fixed Wireless Access Local Area Licence) Regulations, 2003",Q100582172,21,1,2,Irish Statutory Instrument S.I. No. 79/2003,,Q100532807,,
+Rudyard Kipling,"Wireless Telegraphy (Third Party Trial Licence) Regulations, 2005",Q100585943,21,1,2,Irish Statutory Instrument S.I. No. 114/2005,,Q100532807,,
+Rudyard Kipling,wireless communication,Q249,21,1,2,transfer of information or power that does not require the use of physical wires,wireless communications|wireless|wireless technology|wireless communication systems and technologies,Q2267705|Q11862829,Q418|Q1061219,Wireless
+Rudyard Kipling,Wireless Communications and Mobile Computing,Q2647835,21,1,2,journal,,Q1002697|Q737498|Q773668,,
+Rudyard Kipling,wireless communication technology,Q115161048,21,1,2,,,,Q1780543,
+Rudyard Kipling,Wireless Communications and Public Safety Act,Q8026828,21,1,2,,,Q476068,,Wireless Communications and Public Safety Act
+Rudyard Kipling,Wireless Communications and Mobile Computing,Q68836475,21,1,2,Hindawi journal,,Q5633421,,
+Rudyard Kipling,Wireless Communications Transfer Protocol,Q8026826,21,1,2,network protocol,WCTP,,,Wireless Communications Transfer Protocol
+Rudyard Kipling,Wireless Communications of the German Army WW2,Q22115590,21,1,2,how the Nazi army communicated wirelessly,,,,Wireless Communications of the German Army in World War II
+Rudyard Kipling,Wireless Communications Service,Q55637816,21,1,2,set of frequency bands designated for wireless communications in the US and Canada,WCS,,Q16023911,Wireless Communications Service
+Rudyard Kipling,Wireless communication device with an antenna adjacent to an edge of the device,Q123855441,21,1,2,US patent 11228092,,Q43305660,,
+Rudyard Kipling,Wireless communication device and wireless communication method,Q125732834,21,1,2,US patent 11228670,,Q43305660,,

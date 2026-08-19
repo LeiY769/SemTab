@@ -1,0 +1,421 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+ARPANET,ARPANET,Q177524,0,0,1,early packet switching network (1969–1990),,Q1301371|Q5249081|Q132364,,ARPANET
+ARPANET,Arpanet,Q16746502,0,0,1,episode of The Americans (S2 E7),,Q21191270,,Arpanet (The Americans)
+ARPANET,ARPANet,Q21855051,0,0,1,Italian publisher,,Q19720190,,
+ARPANET,Arpanet,Q2863501,0,0,1,electronic musician,Gerald Donald,Q5|Q7558495,,
+ARPANET,spitzharfe,Q7578333,0,0,1,stringed musical instrument,arpanetta|harpe pointue,Q110295396,Q4951628,Spitzharfe
+ARPANET,ARPANET Reference Model,Q61774825,0,0,1,communications system model used by ARPANET,ARM,Q356674,Q2623243,
+ARPANET,RFC 851: ARPANET 1822L Host Access Protocol,Q47459276,0,0,1,request for comments publication,RFC851|ARPANET 1822L Host Access Protocol,Q212971,,
+ARPANET,RFC 878: ARPANET 1822L Host Access Protocol,Q47466776,0,0,1,request for comments publication,RFC878|ARPANET 1822L Host Access Protocol,Q212971,,
+ARPANET,RFC 1005: ARPANET AHIP-E Host Access Protocol (enhanced AHIP),Q47465948,0,0,1,request for comments publication,RFC1005|ARPANET AHIP-E Host Access Protocol (enhanced AHIP),Q212971,,
+ARPANET,RFC 802: ARPANET 1822L Host Access Protocol,Q47485050,0,0,1,request for comments publication,RFC802|ARPANET 1822L Host Access Protocol,Q212971,,
+XRT,adaptive radiation therapy,Q180507,1,0,1,therapy using ionizing radiation,radiotherapy|RT|RTx|XRT|adaptive radiotherapy,Q930752|Q130705900,Q179661|Q2575340,Radiation therapy
+XRT,X-ray telescope,Q1369318,1,0,1,telescope designed to observe objects in the X‑ray band of the electromagnetic spectrum,XRT,,Q4213,X-ray telescope
+XRT,XRT,Q5999424,1,0,1,Communication protocol by Intel,,Q132364,,
+XRT,X-ray Telescope,Q140453538,1,0,1,telescope on the Neil Gehrels Swift Observatory,XRT,Q100349043|Q1369318,,
+XRT,Ghost,Q109503547,1,0,1,Wellcome Collection story,XRtvuhEAACUA4YaS,Q213369,,
+XRT,XrtN system VIT domain protein,Q24781425,1,0,1,InterPro Family,Sorted_by_XrtN|IPR031005,Q417841,Q8054,
+XRT,XrtJ-associated TM-motif-TM protein,Q24723663,1,0,1,InterPro Family,Targ_of_XrtJ|IPR026477,Q417841,Q8054,
+XRT,Aranama,Q2859505,1,0,1,language,Aranama-Tamique|Aranama language|Araname,Q34770|Q38058796,Q51739,Aranama language
+XRT,XRT GRB catalogue now live and online,Q68398919,1,0,1,scientific article,,Q13442814,,
+XRT,XRT for stage IV Hodgkin's disease? Less chaff please,Q77093472,1,0,1,scientific article published on 01 August 1998,,Q13442814,,
+user interface,user interface,Q47146,1,1,1,means by which a user interacts with and controls a machine,UI|input method,,Q386724|Q110558466,User interface
+user interface,graphical widget,Q605117,1,1,1,element of interaction in a graphical user interface,control|graphical control element|user interface element|UI element|widget,,Q5597179|Q138571550,Graphical widget
+user interface,user interface design,Q135707,1,1,1,system of design user interface for machines,user interface engineering|UI design|UI,Q11862829,,User interface design
+user interface,graphical user interface builder,Q1487455,1,1,1,software development tool,GUI builder|GUI designer|graphical user interface designer|RAD IDE|user interface builder,Q17155032|Q4485156,Q1077784|Q11320567,Graphical user interface builder
+user interface,mode,Q6888088,1,1,1,distinct setting within a computer program interface,modal|UI mode|user interface mode|modal UI|modal interface|interface mode,,Q47146|Q7663702,Mode (user interface)
+user interface,User interface,Q118113464,1,1,1,US patent 11262207,,Q43305660,,
+user interface,user interface markup language,Q4052124,1,1,1,any markup language for declaratively specifying user interfaces,UI markup language|GUI markup language|user interface description language,Q116481801,Q37045|Q1193246,User interface markup language
+user interface,user interface designer,Q29381289,1,1,1,person working in the field of user interface design,interface designer|user interface engineer|UI designer,Q28640,Q5322166,
+user interface,UIML,Q2467165,1,1,1,user Interface Markup Language,User Interface Markup Language,Q20155966|Q4052124,,UIML
+user interface,human interface guidelines,Q2722351,1,1,1,standard defining conventions for how user interfaces behave on some platform,HIG|user interface guidelines,,Q317623,Human interface guidelines
+user interface,user interface design,Q6046293,1,1,2,"the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience",interface design|user interface engineering,,Q82604,Interface design
+user interface,"User interface design platform, system, and method for applying consistent look and feel",Q124465189,1,1,2,US patent 11281437,,Q43305660,,
+user interface,User interface design practice for web sites and web-based applications in New Zealand,Q112859931,1,1,2,2004 master's thesis by Ramesh Lal at Massey University,,Q1907875,,
+user interface,User Interface Design (Germany),Q30285599,1,1,2,"company in Ludwigsburg, Germany",,Q4830453,,
+user interface,User interface design update automation,Q121787934,1,1,2,US patent 11182135,,Q43305660,,
+user interface,User interface design for mobile-based sexual health interventions for young people: design recommendations from a qualitative study on an online Chlamydia clinical care pathway,Q35755331,1,1,2,scientific article published on 26 August 2015,,Q13442814,,
+user interface,User Interface Design for E-Monitoring Application of Santri Learning Development Using the User Centered Design Method,Q129670016,1,1,2,scholarly article published on 20 January 2024,,Q13442814,,
+user interface,User Interface Design as Systems Design,Q59553551,1,1,2,scholarly article published 2002,,Q13442814,,
+M17,131071,Q25418061,2,0,1,natural number,M17,Q186875|Q16317911|Q10338607,,131071 (number)
+M17,M17,Q110707316,2,0,1,open source amateur radio mode,,Q132364,,M17 (amateur radio)
+M17,Mature 17+,Q14864331,2,0,1,ESRB video game content rating in which restricts a video game to those 17+,Mature|M|(M)|ESRB M|ESRB M17+|M17+|M 17+|M for Mature,Q23683568,,
+M17,Omega Nebula,Q11357,2,0,1,"H II region in the constellation Sagittarius, discovered by Philippe Loys de Chéseaux",Swan Nebula|Checkmark Nebula|Lobster Nebula|Horseshoe Nebula|Messier 17|M17,Q11282|Q2154519|Q168845|Q11387|Q1931185,,Omega Nebula
+M17,LAP,Q59754650,2,0,1,,PVX_118180|M17,Q7187,Q20747295,
+M17,Gcsam,Q18250767,2,0,1,protein-coding gene in the species Mus musculus,"Gcet|Gcet2|M17|M17-L|germinal center associated, signaling and motility",Q7187,Q20747295,
+M17,Machi Esports,Q28416321,2,0,1,professional esports organization founded by Taiwanese hip hop group Machi,Machi 17|MachiX|Machi X|M17|Machi E-Sports|MCX,Q61974339,,Machi Esports
+M17,M-17 Peshawar–Kabul–Dushanbe motorway,Q25052276,2,0,1,proposed expressway in Asia,Peshawar–Torkham Motorway|Peshawar–Kabul motorway|M17|M-17,Q105513065,,Peshawar–Kabul–Dushanbe motorway
+M17,M17,Q12352118,2,0,1,language,,Q33215,,
+M17,M17 leucyl aminopeptidase,Q59754649,2,0,1,"protein found in Plasmodium vivax P01, encoded by LAP",PVX_118180|M17,Q8054,Q8054,
+M17,M17 rifle grenade,Q6713583,2,0,2,rifle grenade used by the United States in World War II,,Q42314054,Q1520392,M17 rifle grenade
+Strobe,stroboscope,Q178873,3,0,1,"instrument used to make a cyclically moving object appear to be slow-moving, or stationary",strobe,,Q3186688|Q1183543|Q3099911,Stroboscope
+Strobe,strobe light,Q8271517,3,0,1,light producing regular strong flashes of light,stroboscopic lamp|strobe,,Q111324721,Strobe light
+Strobe,Strobe,Q3976093,3,0,1,,,Q132364,,
+Strobe,Strobe,Q386679,3,0,1,single,,Q134556,,Strobe (instrumental)
+Strobe,Strobelia,Q7624194,3,0,1,genus of insects,,Q16521,,Strobelia
+Strobe,Strobe,Q1373768,3,0,1,free software,,Q341,,
+Strobe,Strober,Q37457508,3,0,1,family name,,Q101352,,Strober
+Strobe,Strobe,Q3500490,3,0,1,fictional character in Marvel Comics,Juliana Worthing,Q1094617,,Strobe (comics)
+Strobe,Strobe,Q11312499,3,0,1,Kohmi Hirose song,,Q134556,,
+Strobe,Ströbele,Q61943846,3,0,1,family name,Ströbele (family name)|Ströbele (surname),Q101352|Q333021|Q98775491,,
+Strobe,Strobe Light,Q11312501,3,0,2,Japanese manga series,,Q21198342,,
+Strobe,Strobe Lights,Q132029316,3,0,2,2025 song by Red Sebastian,,Q105543609,,Strobe Lights
+Strobe,Strobe lighting & sound effects may affect some people,Q100606044,3,0,2,OFLC content descriptor,,Q69427756,,
+Strobe,stroboscopic effect,Q5849717,3,0,2,visual phenomenon,strobe effect,Q174923,Q2356525,Stroboscopic effect
+BFG,Per Mertesacker,Q70550,4,0,1,German association football player,,Q5,,Per Mertesacker
+BFG,Billy Gibbons,Q369898,4,0,1,American musician,BFG|Reverend Willie G|William Frederick Gibbons|Billy F. Gibbons,Q5,,Billy Gibbons
+BFG,The BFG,Q978475,4,0,1,1989 British animated film directed by Brian Cosgrove,BFG,Q506240,,The BFG (1989 film)
+BFG,British Forces Germany,Q780918,4,0,1,British military service personnel and civilian support staff based in West Germany,BFG,Q2008856,,British Forces Germany
+BFG,BFG,Q787311,4,0,1,weapon in Doom,Bio Force Gun|BFG 9000|Cube Wars|Big Fucking Gun,Q15720870|Q124980912,,BFG (weapon)
+BFG,Bullfrog Basin Airport,Q3887489,4,0,1,"airport in Utah, United States of America",BFG,Q1248784,,Bullfrog Basin Airport
+BFG,The BFG,Q20867733,4,0,1,character from the book with the same name by Roald Dahl,The Big Friendly Giant|BFG|Big Friendly Giant,Q42056878|Q15773347,,
+BFG,Stonebridge Park Depot,Q113991474,4,0,1,section of railway line in the UK,BFG,Q113990375,,
+BFG,FGF2,Q20969945,4,0,1,protein-coding gene in the species Homo sapiens,BFGF|FGF-2|FGFB|HBGF-2|fibroblast growth factor 2,Q7187,Q20747295,Basic fibroblast growth factor
+BFG,FGFR1,Q14914258,4,0,1,protein-coding gene in the species Homo sapiens,BFGFR|CD331|CEK|FGFBR|FGFR-1|FLG|FLT-2|FLT2|HBGFR|HH2|HRTFDS|KAL2|N-SAM|OGD|bFGF-R-1|ECCL|fibroblast growth factor receptor 1,Q7187,Q20747295,Fibroblast growth factor receptor 1
+BFG,The BFG,Q19689203,4,0,2,2016 film by Steven Spielberg,Roald Dahl's The BFG,Q11424,,The BFG (2016 film)
+Fossil,fossil,Q40614,5,0,1,preserved remains or traces of organisms from a past geological age,zoolite|fossils|fossil find,,Q16686022,Fossil
+Fossil,Fossilworks,Q796451,5,0,1,"online resource for fossil animals, plants, and microorganisms",fossilworks.org,Q7094076|Q4117139,,Fossilworks
+Fossil,fossil taxon,Q23038290,5,0,1,taxon described on the basis of fossil material,fossil-taxon|paleontological taxon,,Q16521|Q98961713,
+Fossil,Fossil Record,Q2455930,5,0,1,scientific journal,Fossil Rec.|Fossil Record (FR)|Foss. Rec.|FR,Q1002697|Q5633421|Q737498|Q773668,,Fossil Record
+Fossil,natural gas,Q40858,5,0,1,fossil fuel containing a mix of methane and other gases,NG|fossil gas|methane gas|gas,Q317088,Q12748|Q909363|Q169336,Natural gas
+Fossil,petroleum industry,Q862571,5,0,1,activities linked to handling oil products,oil industry|crude petroleum and natural gas production|oil and gas industry|petroleum sector|oil business|hydrocarbon industry|drilling industry|oil and gas companies|extractive oil industry|petroleum industry sectors|fossil fuel industry|fossil fuel sector|oil and gas sector|oil sector,Q136653105,Q12101591|Q4318084,Petroleum industry
+Fossil,petroleum,Q22656,5,0,1,naturally occurring flammable liquid,crude oil|black gold|oil|raw oil|pampetro|petrol oil|fossil-oil|conventional oil|fossil oil|Petroleum,Q2424752|Q7049495|Q169336|Q317088,Q15727343|Q12748|Q42962,Petroleum
+Fossil,Fossil,Q2293692,5,0,1,"city in and county seat of Wheeler County, Oregon, United States","Fossil, Oregon|Fossil, OR",Q63440326|Q62049,,"Fossil, Oregon"
+Fossil,fossil fuel,Q12748,5,0,1,"combustible fuel containing hydrocarbons formed by natural processes such as anaerobic decomposition of buried dead organisms, examples being coal, petroleum and natural gas",fossil fuels,Q131700004|Q140478661,Q42501|Q1522115|Q936791|Q889659,Fossil fuel
+Fossil,Fossil,Q1439431,5,0,1,"distributed version control system, bug tracking system and wiki server",,Q1186723|Q341|Q3257930|Q132364|Q956086|Q3133368|Q3077240|Q115217949|Q6686945,,Fossil (software)
+Fossil,fossil-fuel power station,Q1434958,5,0,2,facility that burns fossil fuels to produce electricity,fossil-fuel power plant,,Q200297,Fossil fuel power station
+Fossil,oil company,Q14941854,5,0,2,company involved in production and distribution of petroleum products,petroleum company|fossil fuel company|petrol company|oil corporation|petroleum corporation|fossil fuel corporation|petrol corporation,,Q4830453|Q783794,
+Fossil,Fossil Fuel: The XTC Singles 1977–92,Q3749013,5,0,2,compilation album by XTC,,Q482994,,Fossil Fuel: The XTC Singles 1977–92
+Fossil,fossil fuel subsidy,Q16636333,5,0,2,funding mechanism,fossil fuel subsidies|fossil subsidies|fossil subsidy mining,,Q5377219|Q187021,Fossil fuel subsidies
+Fossil,energy transition,Q795757,5,0,2,long-term structural change towards sustainable energy systems,renewable energy transition|fossil fuel energy transition|carbon transition|low carbon transition|net zero transition,Q1805337|Q131362181|Q137210255,Q1150070,Energy transition
+Fossil,fossil-fuel phase-out,Q2326542,5,0,2,discontinuation of the use of fossil fuels,oil phase-out|oil phaseout|petroleum phase-out|petroleum phaseout|fossil phase-out|petroleum phase out|phase-out of fossil fuels,Q3249551,Q124751162,Fossil fuel phase-out
+Fossil,fossil fuel subsidy reform,Q99463937,5,0,2,reform of the way in which fossil fuels are subsidized,,,Q98871762,
+Fossil,fossil-fuel divestment,Q19903988,5,0,2,removal of investment in companies involved in extracting fossil fuels to reduce climate change,,Q6056746,Q1200733,Fossil fuel divestment
+Fossil,fossil record,Q1439423,5,0,2,entirety of scientifically recorded fossil specimens,paleontological record,Q36161,Q107435521,Fossil record
+Fossil,Fossil record,Q134485687,5,0,2,,,Q1980247,,
+Fossil,fossil record of fire,Q5473517,5,0,2,fossilized evidence of wildfires on Earth,,,Q1439423,Fossil record of fire
+Fossil,Fossil Record,Q56853914,5,0,2,article,,Q13442814,,
+Fossil,Fossil Record of the Rubiaceae,Q56092237,5,0,2,article,,Q13442814,,
+Fossil,Fossil record of an archaeal HK97-like provirus.,Q47281773,5,0,2,scientific article published on 20 July 2011,,Q13442814,,
+Fossil,Fossil Record and Evolution of Scarabaeoidea (Coleoptera: Polyphaga),Q54491258,5,0,2,scholarly article published in December 2006,,Q13442814,,
+Fossil,Fossil record of echinoderm regeneration with special regard to crinoids,Q34487553,5,0,2,"scientific article published on December 15, 2001",,Q13442814,,
+Fossil,Fossil record of stem groups employed in evaluating the chronogram of insects (Arthropoda: Hexapoda),Q28587614,5,0,2,scientific article,,Q13442814,,
+Jingle,Jingle,Q134590178,6,0,1,Legendary skin released for Tracer from the Overwatch video game series,Jingle (Overwatch),Q134589998,,
+Jingle,Jingle,Q122382779,6,0,1,2018 video game,,Q7889,,
+Jingle,jingle,Q264922,6,0,1,short song or tune used in advertising and for other commercial uses,,Q188451,Q207628|Q1193470,Jingle
+Jingle,music in advertising,Q461064,6,0,1,music integrated into mass electronic media advertisements to enhance its success,advert music|advertisement music|advertising jingle|advertising music|commercial jingle|commercial song|jingle,Q188451,Q26897135,Music in advertising
+Jingle,Jingle All the Way,Q1064530,6,0,1,1996 film directed by Brian Levant,,Q11424,,Jingle All the Way
+Jingle,jingle,Q6202344,6,0,1,percussion musical instrument,,Q110295396,Q34379|Q2132068,Jingle (percussion)
+Jingle,Kong Yuanzhong,Q45381442,6,0,1,Song dynasty person (CBDB = 15953),Jingle|Fujun,Q5,,
+Jingle,Jingle County,Q113490917,6,0,1,historical administrative division of China,Jingle,Q28739697,,
+Jingle,Jingle,Q649654,6,0,1,communications protocol,Jinglie,Q132364,,Jingle (protocol)
+Jingle,Jingle County,Q174034,6,0,1,county,,Q1289426,,Jingle County
+Jingle,Jingle Bell Rock,Q123902667,6,0,2,vocal track by Arvingarna; 2007 studio recording,,Q55850593,,
+Jingle,Jingle Bell Rock,Q1756406,6,0,2,"Christmas song written and composed by Joe Beal and Jim Boothe, originally recorded by Bobby Helms and released in 1957",,Q105543609,,Jingle Bell Rock
+Jingle,Jingle Bell Rock,Q103843927,6,0,2,2020 single by Achille Lauro,,Q134556,,
+Jingle,Jingle Bell Rock,Q114539320,6,0,2,episode of School of Rock (S3 E8),,Q21191270,,
+Jingle,Jingle Bell Rock,Q114500623,6,0,2,episode of Guardians of the Galaxy (S1 E27),,Q21191270,,
+Jingle,Jingle Bell Rock,Q109224455,6,0,2,vocal track by Bobby Helms; 1957 studio recording,,Q55850593,,
+Jingle,Jingle Bell Rock / Captain Santa Claus (And His Reindeer Space Patrol),Q109254697,6,0,2,1957 single by Bobby Helms,Jingle Bell Rock|Captain Santa Claus (And His Reindeer Space Patrol),Q134556,,
+Jingle,Jingle Bell Rock,Q109257678,6,0,2,1983 single by Daryl Hall and John Oates,Season's Greetings From Daryl Hall John Oates,Q134556,,
+Jingle,Jingle Bell Rock / Captain Santa Claus (And His Reindeer Space Patrol),Q109255819,6,0,2,"1957 US 7"" single by Bobby Helms; Decca – 9-30513",Decca – 9-30513|Jingle Bell Rock|Captain Santa Claus (And His Reindeer Space Patrol),Q6128115,,
+Jingle,Jingle Bell Rock,Q109254494,6,0,2,TikTok music track credited to MARIYA,,Q7302866,,
+Jingle,Jingle Bells,Q96270598,6,0,2,vocal track by Frank Sinatra with the Ken Lane Singers; 1942 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells,Q96309260,6,0,2,vocal track by Frank Sinatra; 1957 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells,Q406845,6,0,2,"song written and composed by James Lord Pierpont, originally published in 1857",The One Horse Open Sleigh|Jingle Bells (feat. Peter Burry & Jennie Burry),Q105543609,,Jingle Bells
+Jingle,Jingle Bells,Q61043690,6,0,2,arrangement by Basshunter,,Q105543609,,Jingle Bells (Basshunter song)
+Jingle,Jingle Bells,Q216965,6,0,2,2006 single by Basshunter,Jingle Bells (Bass),Q134556,,
+Jingle,Jingle Bells,Q59646159,6,0,2,vocal track by Al Green; 1983 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells,Q87645692,6,0,2,vocal track by Gwen Stefani; 2017 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells,Q109539290,6,0,2,vocal track by Basshunter; 2006 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells,Q60439129,6,0,2,vocal track by Perry Como; 1957 studio recording; cover version,,Q55850593,,
+Jingle,Jingle Bells / White Christmas,Q96250900,6,0,2,"1946 US 10"" Shellac single by Frank Sinatra with the Ken Lane Singers / Frank Sinatra; Columbia ‎– 37152",Columbia ‎– 37152|Jingle Bells|White Christmas,Q64764212,,
+SIMPLE,Simple English Wikipedia,Q200183,7,0,1,Basic/Special English edition of Wikipedia,,Q10876391|Q138685553,,Simple English Wikipedia
+SIMPLE,Simple,Q3484683,7,0,1,2004 live album by Michel Rivard,,Q482994,,
+SIMPLE,Simple,Q16949774,7,0,1,2008 album,,Q482994,,Simple (album)
+SIMPLE,Simple,Q37569007,7,0,1,family name,,Q101352,,
+SIMPLE,Simplé,Q733666,7,0,1,"commune in Mayenne, France",,Q484170,,Simplé
+SIMPLE,Simplexvirus humanalpha 2,Q18965147,7,0,1,species of virus,"Herpesvirus 2, Human|Human herpesvirus type 2|HSV2|HSV-2|Human alphaherpesvirus 2",Q16521,,
+SIMPLE,microsatellite,Q265193,7,0,1,repeating sequences of 2-13 base pairs of DNA,simple sequence repeat|SSR|short tandem repeat|STR|Microsatellite Repeat|Microsatellite Repeats|Short Tandem Repeats|STRs,Q424473|Q425319,Q2587423,Microsatellite
+SIMPLE,simple present,Q3910936,7,0,1,verb form,present simple|present indefinite,Q177691,Q192613|Q3517796,Simple present
+SIMPLE,simple past,Q1392475,7,0,1,basic form of the past tense,past simple|past indefinite,Q177691,Q1994301|Q3517796,Simple past
+SIMPLE,simple future,Q1475560,7,0,1,verb tense,future simple,Q177691,Q501405|Q3517796|Q682111|Q96323395,Simple future
+HNZ,Henderson-Oxford Airport,Q5713186,8,0,1,"airport in North Carolina, United States of America",HNZ|KHNZ,Q1248784,,Henderson–Oxford Airport
+HNZ,HNZ,Q3125141,8,0,1,communication protocol,,Q132364,,
+HNZ,Fellow of The New Zealand Institute of Agricultural and Horticultural Science,Q80053920,8,0,1,"elected Fellow of The New Zealand Institute of Agricultural and Horticultural Science, including Honorary Fellows",FNZIAHS|HNZIAHS,Q20006438,Q1404101,
+HNZ,Hossein Nour,Q110700288,8,0,1,Iranian singer,hnz10,Q5,,
+HNZ,HNZ Group,Q16984499,8,0,1,Canadian helicopter operator,,Q46970|Q891723,,HNZ Group
+HNZ,Horowhenua New Zealand Trust,Q136755577,8,0,1,charity from New Zealand,,Q163740,,
+HNZ,Harnekop Bunker,Q1009542,8,0,1,"bunker in Brandenburg, Germany",Harnekop Nuclear Bunker,Q91122,,Harnekop Nuclear Bunker
+HNZ,HNZ,Q27788136,8,0,1,Wikimedia disambiguation page,,Q4167410,,HNZ
+RS-423,RS-423,Q1938838,9,0,1,standard for serial communication,,Q132364,,RS-423
+RS-423,RS-423,Q3415425,9,0,1,highway in Rio Grande do Sul,,Q34442|Q1788582,,
+RS-423,RS 42358-197,Q83027834,9,0,1,chemical compound,,Q113145171,Q11173,
+RS-423,"RS 42358-197, a novel and potent 5-HT3 receptor antagonist, in vitro and in vivo",Q46606299,9,0,1,scientific article published in August 1993,,Q13442814,,
+RS-423,RS-423,Q3415422,9,0,1,Wikimedia disambiguation page,,Q4167410,,
+GAP,Gap,Q175081,10,0,1,"commune in Hautes-Alpes, France",,Q484170,,"Gap, Hautes-Alpes"
+GAP,col,Q2231510,10,0,1,lowest point on a mountain ridge between two neighboring peaks in one sense or the same as a mountain saddle in the other sense,gap,Q35145263|Q12046615|Q44946|Q11500,Q16887036|Q66747521,Col
+GAP,gap,Q16887036,10,0,1,"landform that is an opening with the lowset point on the ridge line between hills or mountains or in a ridge or mountain range; generic term for col, saddle, notch, mountain pass, etc.",,Q109781815,Q271669|Q618123,Gap (landform)
+GAP,Gap Inc.,Q420822,10,0,1,American multinational clothing and accessories retailer,"The Gap, Inc.|Gap",Q4830453|Q6881511|Q76213285|Q891723,,Gap Inc.
+GAP,Gap,Q111758350,10,0,1,family name,,Q101352,,
+GAP,RGS6,Q18034504,10,0,1,protein-coding gene in the species Homo sapiens,GAP|regulator of G-protein signaling 6|regulator of G protein signaling 6|HA117|S914,Q7187,Q20747295,RGS6
+GAP,GAP The series,Q116814502,10,0,1,Thai series drama (2022),Pink Theory|GAP,Q5398426,,Gap (TV series)
+GAP,GAP,Q124981193,10,0,1,clothing brand owned by Gap Inc.,,Q167270|Q431289,,
+GAP,3-phosphoglyceraldehyde,Q794810,10,0,1,chemical compound,2-hydroxy-3-(phosphonooxy)propanal|glyceraldehyde 3-(dihydrogen phosphate)|(2-hydroxy-3-oxopropoxy)phosphonic acid|GAP|G3P|PGAL|GALP|glyceraldehyde 3-phosphate|DL-glyceraldehyde 3-phosphate|glyceraldehyde-phosphate|glyceraldehyde-P|glyceraldehyde-3-P|D-glyceraldehyde-3-P|2-hydroxy-3-(phosphonooxy)-Propanal,Q59199015,Q11173,Glyceraldehyde 3-phosphate
+GAP,Galen Center,Q3094568,10,0,1,"Multi-purpose indoor arena in Los Angeles, California, U.S.",GAP,Q483110|Q19844914,,Galen Center
+GNUnet,GNUnet,Q1007056,10,1,1,"secure, decentralized, peer-to-peer networking framework",gnunet|GNet,Q12014419|Q20825628|Q341,Q161410,GNUnet
+GNUnet,gnunet-fuse,Q108000769,10,1,1,FUSE based front end user space file system client for GNUnet,,Q341|Q3331189,,
+GNUnet,GNUnet protocol,Q3756209,10,1,1,computer network protocol,,Q15836568,,
+GNUnet,gnunet-gtk,Q108000600,10,1,1,graphical front-end tools for GNUnet,,Q341|Q3331189,,
+GNUnet,GNUnet maintainer,Q71302487,10,1,1,maintainer of the GNUnet project,,Q4164871,Q70250066,
+GNUnet,GNUnet e.V.,Q62065405,10,1,1,registered association under German law,Association for the Promotion of GNUnet|Verein zur Förderung von GNUnet e.V.,Q9299236,,
+GNUnet,GNU Project,Q7598,10,1,2,free software project,GNU FSDG|GNU,Q109860256|Q16334295|Q177634,Q3251801,GNU Project
+GNUnet,GNU project releases new version of license to allow Wikimedia projects to switch to Creative Commons license,Q17611982,10,1,2,Wikinews article,,Q17633526,,
+GNUnet,GNU Project licenses,Q110570620,10,1,2,Licenses of GNU Project,,,Q207621,
+GNUnet,GNU General Public License,Q7603,10,1,2,series of free software licenses,GPL|GNU GPL|GNU General Public Licence|General Public Licence|General Public License|GNU License|GNU Licence|GNU Public License|GNU Public Licence,Q5975031|Q1156659|Q3943414,Q207621,GNU General Public License
+GNUnet,GNU,Q60111307,10,1,2,mascot of the GNU project,GNU mascot|GNU head|GNU gnu,Q386208|Q27301864,,
+GNUnet,GNU/Linux,Q3251801,10,1,2,operating system based on GNU and the Linux kernel,GNU-Linux|GNU plus Linux|GNU+Linux|Linux|Lignux|Linux Basics,Q9135,Q388,GNU/Linux
+GNUnet,"GNU General Public License, version 2.0",Q10513450,10,1,2,"previous version of the GNU GPL (version 2), free software license with copyleft",GPL-2.0 license,Q5975031|Q1156659,,GPLv2
+GNUnet,"GNU General Public License, version 3.0",Q10513445,10,1,2,"latest version of the GNU GPL (version 3), free software license with copyleft",,Q5975031|Q1156659,,GPLv3
+GNUnet,Linux,Q388,10,1,2,family of Unix-like operating systems,,Q7397,Q14656|Q341|Q241317|Q170584|Q15545584,Linux
+GNUnet,GNU,Q44571,10,1,2,Unix-like operating system,GNU's Not Unix,Q9135,Q14656,GNU
+GNUnet,GNU Emacs,Q1252773,10,1,2,GNU version of the Emacs text editor,Emacs,Q131212|Q20825628|Q241317,Q189722|Q241317,GNU Emacs
+GNUnet,GIMP,Q8038,10,1,2,image retouching and editing tool,GNU Image Manipulation Program,Q20825628|Q2351962|Q506883,,GIMP
+GNUnet,GAP Group,Q131860488,10,1,2,Equipment rental company,,Q783794,,
+Yggdrasil,Yggdrasil,Q24034153,11,0,1,1994 demo by Vlad,,Q482994,,
+Yggdrasil,Yggdrasil,Q134021680,11,0,1,Norwegian music group,,Q215380,,
+Yggdrasil,Yggdrasil,Q65557842,11,0,1,computer network,Yggdrasil (Mesh)|Yggdrasil Network,Q132364|Q341|Q1301371|Q506883|Q12014419,,
+Yggdrasil,Yggdrasil,Q122821492,11,0,1,2019 early access video game,,Q7889,,
+Yggdrasil,Yggdrasil,Q131135,11,0,1,"immense mythical tree in Norse cosmology, connecting the Nine Worlds",Iggdrasil|Weltesche,Q267376|Q24334976|Q1421259,,Yggdrasil
+Yggdrasil,Yggdrasil,Q8053404,11,0,1,2004 studio album by Bump of Chicken,,Q482994,,Yggdrasil (album)
+Yggdrasil,Yggdrasil,Q1414050,11,0,1,Faroese music ensemble,,Q215380,,Yggdrasil (band)
+Yggdrasil,Yggdrasil,Q10723534,11,0,1,Swedish folk metal band,,Q56816954,,
+Yggdrasil,Yggdrasil,Q18286380,11,0,1,character from Digimon,WIZ9000,Q95074,,
+Yggdrasil,Yggdrasil,Q20200589,11,0,1,"painting by Anselm Kiefer (MET, 1995.14.42)",,Q3305213,,
+Yggdrasil,World Tree,Q135024763,11,0,2,2021 video game developed by Jaron Fund,,Q7889,,
+Yggdrasil,world tree,Q267376,11,0,2,concept in several religions and mythologies,,,Q24335595,World tree
+Yggdrasil,axis mundi,Q1421259,11,0,2,world center in some religions or philosophies; connection between Heaven and Earth,cosmic axis|world axis|world pillar|center of the world|world tree|Axis mundi,,Q23847174,Axis mundi
+Yggdrasil,world-tree,Q111807857,11,0,2,narrative motif documented in Thompson's Motif-Index of Folk-Literature,A652|A652. World-tree.,Q1697305|Q2995443|Q4070702,,
+Yggdrasil,World Tree,Q2593843,11,0,2,role-playing game,,Q1643932,,World Tree (role-playing game)
+Yggdrasil,World Tree,Q136272817,11,0,2,book 2011,,Q3331189,,
+Yggdrasil,World Tree Ranch: Elven Legacy,Q135077110,11,0,2,video game developed by Closed Garden,,Q7889,,
+Yggdrasil,World Tree Girl,Q134555629,11,0,2,2017 novel by Kerry Schafer,,Q7725634,,
+Yggdrasil,World Tree Day / World Tree Cuisine,Q125016627,11,0,2,episode of It's a Big Big World (S1 E22),,Q21191270,,
+Yggdrasil,World Tree Day - Cedar,Q134471872,11,0,2,1981 stamp of Algeria,,Q1926935,,
+Yggdrasil,Fraxinus excelsior,Q156907,11,0,2,species of tree,Ash|European Ash|ash|ash tree,Q16521,Q10884|Q1131316,Fraxinus excelsior
+Yggdrasil,The Ash-tree,Q26196784,11,0,2,1975 television film by Lawrence Gordon Clark,Ash-tree|The Ash Tree,Q506240|Q24862,,The Ash Tree (film)
+Yggdrasil,Ash Tree,Q110545870,11,0,2,watercolor by Edward Swinburne,,Q18761202,,
+Yggdrasil,Fraxinus,Q128887,11,0,2,genus of plants,ashes,Q16521,Q10884,Fraxinus
+Yggdrasil,ash tree,Q3752338,11,0,2,heraldic figure,ash,Q56875841,,
+Yggdrasil,Ash Trees in Spring,Q27960150,11,0,2,painting by Sir James Lawton Wingate,,Q3305213,,
+Yggdrasil,Ash-Tree Press,Q4804342,11,0,2,publisher,,Q2085381,,Ash-Tree Press
+Yggdrasil,Ash tree in Český Těšín,Q26784362,11,0,2,"memorable tree in Karviná District, Czech Republic",Jasan v Českém Těšíně|Jasan ztepilý na nábřeží Míru,Q2438638|Q811534,,
+Yggdrasil,"Ash tree, Llanfyllin",Q21656599,11,0,2,photograph by John Thomas,,Q125191,,
+Yggdrasil,Ash Tree Court,Q66969256,11,0,2,"building in Leeds, West Yorkshire",,Q18142,,
+Yggdrasil,Kalanchoe pinnata,Q311188,11,0,2,succulent plant native to Madagascar,air plant|cathedral bells|curtain plant|floppers|good luck leaf|life plant|Mexican loveplant|miracle leaf|mother in law|tree of life|Goethe plant|maternity plant,Q16521,,Kalanchoe pinnata
+Yggdrasil,tree of life,Q1651237,11,0,2,motif in art and culture,,Q1406161|Q1429318,Q24335595,Tree of life
+Yggdrasil,Guaiacum officinale,Q2051175,11,0,2,species of plant,roughbark lignum vitae|commoner lignum vitae|tree of life|guaiac|gayak,Q16521|Q8046104,Q11992872,Guaiacum officinale
+Yggdrasil,The Tree of Life,Q244257,11,0,2,2011 film directed by Terrence Malick,Tree of Life,Q11424,,The Tree of Life (film)
+Yggdrasil,Tree of Life,Q124075258,11,0,2,2017 video game,,Q7889,,
+Yggdrasil,tree of life,Q4746911,11,0,2,term used in the Hebrew Bible,,Q3244549|Q1651237|Q30149195,,Tree of life (biblical)
+Yggdrasil,tree of life,Q3247497,11,0,2,metaphor of relationships between species of organisms,Tree of life (biology)|universal tree of life,Q3242583,,Tree of life (biology)
+Yggdrasil,Böðvar Guðmundsson,Q1020197,11,0,2,Icelandic writer,Bödvar Gudmundsson|Tree of Life,Q5,,Böðvar Guðmundsson
+Yggdrasil,Tree of Life Web Project,Q2300489,11,0,2,"provides information about biodiversity, the characteristics of different groups of organisms, and their evolutionary history",ToL,Q7094076|Q4117139,,Tree of Life Web Project
+Yggdrasil,Tree of Life,Q27968779,11,0,2,album by Audiomachine,,Q482994,,Tree of Life (album)
+FLEX,Flex,Q37564199,12,0,1,family name,,Q101352,,
+FLEX,Flex,Q5458917,12,0,1,music album by Lene Lovich,,Q482994,,Flex (album)
+FLEX,phenotypic plasticity,Q295130,12,0,1,the ability of an organism to change its phenotype in response to the environment,flexibility|condition sensitivity|phenotypic responsiveness|phenoplasticity|physiological adaptation,Q66615932|Q105096490,Q64732777|Q5533121,Phenotypic plasticity
+FLEX,Flex,Q119658135,12,0,1,Japanese car dealership company,FLEX,Q783794,,
+FLEX,educational technology,Q1068473,12,0,1,use of technology in education to improve learning and teaching; not restricted to high technology,instructional technology|multimedia learning|technology-enhanced learning (TEL)|computer-based instruction (CBI)|computer managed instruction|computer-based training (CBT)|computer-assisted instruction|computer-aided instruction (CAI)|internet-based training (IBT)|flexible learning|web-based training (WBT)|virtual learning environment (VLE)|learning platforms|m-learning|digital education|ed tech|education technology|edtech|educational tech|edutech|TEL|i-learning|Subject:Educational technology,Q112057532|Q2267705|Q11499366,Q11016,Educational technology
+FLEX,Flex,Q3660974,12,0,1,Panamanian singer,dj Flex,Q5,,Flex (singer)
+FLEX,Flexamia,Q10496675,12,0,1,genus of insects,,Q16521,,
+FLEX,Flexibacter,Q5458954,12,0,1,genus of bacteria,,Q16521,,Flexibacter
+FLEX,Flexanville,Q273901,12,0,1,"commune in Yvelines, France",,Q484170,,Flexanville
+FLEX,Flexbourg,Q21513,12,0,1,"commune in Bas-Rhin, France",Flexburg,Q484170,,Flexbourg
+FLEX,Flexible,Q116688490,12,0,2,vocal track by Depeche Mode; 1985 studio recording,,Q55850593,,
+FLEX,flexible algebra,Q259590,12,0,2,algebra whose internal binary operation over its base set is associative and commutative at least for any triplet of the same base set whose first and last of the three items are equal,flexible|flexible identity,,Q3968,Flexible algebra
+FLEX,Flexible,Q105063657,12,0,2,painting by Jean-Michel Basquiat,,Q3305213,,Flexible (Basquiat)
+FLEX,flexible,Q106485018,12,0,2,quality,,Q185957,,
+FLEX,Flexible Solar Cells,Q60214160,12,0,2,reference book published in October 2008,,Q47461344|Q3331189,,
+FLEX,remote work,Q1135326,12,0,2,work arrangement,telework|teleworking|mobile work|flexible workplace|e-work|work from home|WFH,,Q2992308|Q89509298,Remote work
+FLEX,hose,Q176440,12,0,2,"flexible conduit for conducting liquid, gaseous, or particulate effluents",tubing|tube|flexible pipe|flexible tube,,Q39546|Q121444807,Hose
+FLEX,Flexible Services and Manufacturing Journal,Q15761452,12,0,2,journal,International Journal of Flexible Manufacturing Systems,Q5633421,,
+FLEX,foldable smartphone,Q63542282,12,0,2,smartphone type first introduced in 2019 characterized by a large screen that folds in half,foldable phone|flexible phone,Q63981612|Q2636061,Q22645|Q155972|Q1532758,Foldable smartphone
+FLEX,flexibility,Q65921492,12,0,2,ability of an item to change to suit some purpose,mutability|variability|adjustability|conformability|versatility|configurability|changeability|fluidity|fluidity of responses,Q937228,Q1347367,Flexibility (engineering)
+FLEX,flexibility,Q852220,12,0,2,"anatomical range of movement in a joint or series of joints, and length in muscles that cross the joints to induce a bending movement or motion",limberness,Q1783837,Q1962328,Flexibility (anatomy)
+FLEX,flexibility,Q5458955,12,0,2,personality trait,,Q15910354,Q2393196,Flexibility (personality)
+FLEX,𝌖,Q87569563,12,0,2,"tetragram for holding back (U+1D316): flexibility, reluctance, and even weakness if it results in greater later strength",TETRAGRAM FOR HOLDING BACK|𝌖|holding back|flexibility|reluctance|weakness,Q29654788|Q138619,,
+FLEX,range of motion,Q494478,12,0,2,distance and direction to which a joint (anatomical or mechanical) can be extended,"range of travel|ROT|Articular range of motion|Range of Motion, Articular|joint flexibility|joint range of motion|passive range of motion|flexibility of joints|range of motion of joints",Q42014143,,Range of motion
+FLEX,compliance,Q1962328,12,0,2,ability of an item to bend,flexibility|pliancy|mechanical compliance,Q5725005|Q1347367,Q5725005,
+FLEX,flexibility,Q4161341,12,0,2,economics term,flexibility (economy),Q64513524,Q65921492,
+FLEX,Flexibility and Girls,Q122341563,12,0,2,2021 video game,,Q7889,,
+FLEX,Flexibility and Employment Security in Europe,Q139778739,12,0,2,,,Q571,,
+Telnet,Telnet,Q160470,13,0,1,Network protocol for bidirectional communication using a virtual terminal connection,Telecommunications Network,Q132364,,Telnet
+Telnet,PuTTY,Q841685,13,0,1,"free and open-source terminal emulator, serial console and network file transfer application",,Q166142|Q1071233|Q29558845|Q21295041|Q506883,,PuTTY
+Telnet,Telnet,Q3517415,13,0,1,Tunisian company,,Q6881511,,
+Telnet,terminal client,Q21295041,13,0,1,,telnet-client|ssh-client|rlogin-client,,Q23808,
+Telnet,RFC 854: Telnet Protocol Specification,Q47469273,13,0,1,request for comments publication,RFC854|Telnet Protocol Specification,Q212971,,
+Telnet,RFC 1091: Telnet terminal-type option,Q47468898,13,0,1,request for comments publication,RFC1091|Telnet terminal-type option,Q212971,,
+Telnet,RFC 318: Telnet Protocols,Q47462212,13,0,1,request for comments publication,RFC318|Telnet Protocols,Q212971,,
+Telnet,RFC 1116: Telnet Linemode option,Q47484551,13,0,1,request for comments publication,RFC1116|Telnet Linemode option,Q212971,,
+Telnet,RFC 158: Telnet Protocol: A Proposed Document,Q47167295,13,0,1,request for comments publication,RFC158|Telnet Protocol: A Proposed Document,Q212971,,
+Telnet,RFC 1416: Telnet Authentication Option,Q47469262,13,0,1,request for comments publication,RFC1416|Telnet Authentication Option,Q212971,,
+Telnet,RFC 764: Telnet Protocol specification,Q47466755,13,0,2,request for comments publication,RFC764|Telnet Protocol specification,Q212971,,
+Telnet,RFC 137: Telnet Protocol - a proposed document,Q47479141,13,0,2,request for comments publication,RFC137|Telnet Protocol - a proposed document,Q212971,,
+Telnet,RFC 495: Telnet Protocol specifications,Q47483088,13,0,2,request for comments publication,RFC495|Telnet Protocol specifications,Q212971,,
+Telnet,RFC 461: Telnet Protocol meeting announcement,Q47463787,13,0,2,request for comments publication,RFC461|Telnet Protocol meeting announcement,Q212971,,
+SDCC,San Diego Comic-Con International,Q279385,14,0,1,multi-genre entertainment and comic convention,Comic Con|Comic-Con|Comiccon|Comic-Con International: San Diego|SDCC,Q1129398|Q163740,,San Diego Comic-Con
+SDCC,Small Device C Compiler,Q7542756,14,0,1,"open source, partially retargetable C compiler for microcontrollers",SDCC,Q47506|Q341,,Small Device C Compiler
+SDCC,SDCC,Q6116121,14,0,1,communications protocol,Secure Direct Client-to-Client,Q132364,,
+SDCC,San Diego Stadium,Q956072,14,0,1,"former stadium in San Diego, California",Jack Murphy Stadium|Qualcomm Stadium|San Diego County Credit Union Stadium|SDCCU Stadium,Q483110|Q37985280|Q595452|Q1049757,,San Diego Stadium
+SDCC,WNK2,Q18045876,14,0,1,protein-coding gene in the species Homo sapiens,NY-CO-43|P/OKcl.13|PRKWNK2|SDCCAG43|WNK lysine deficient protein kinase 2,Q7187,Q20747295,WNK2
+SDCC,TSHZ1,Q18035108,14,0,1,protein-coding gene in the species Homo sapiens,CAA|NY-CO-33|SDCCAG33|TSH1|teashirt zinc finger homeobox 1,Q7187,Q20747295,TSHZ1
+SDCC,Statelessness and Dignified Citizenship Coalition – Asia Pacific,Q133728767,14,0,1,NGO focused on rights to citizeship,SDCC,Q79913,,
+SDCC,Steno Diabetes Center Copenhagen,Q132803545,14,0,1,"healthcare organization in Herlev, Denmark",SDCC,Q4287745,,
+SDCC,ENTR1,Q18035849,14,0,1,protein-coding gene in the species Homo sapiens,NY-CO-3|serologically defined colon cancer antigen 3|endosome associated trafficking regulator 1|SDCCAG3|SDDAG3,Q7187,Q20747295,
+SDCC,SDCCAG8,Q18035848,14,0,1,protein-coding gene in the species Homo sapiens,BBS16|CCCAP|CCCAP SLSN7|NPHP10|NY-CO-8|SLSN7|hCCCAP|HSPC085|serologically defined colon cancer antigen 8|SHH signaling and ciliogenesis regulator SDCCAG8,Q7187,Q20747295,SDCCAG8
+SDCC,San Diego Comic-Con 1995,Q135220824,14,0,2,fan convention edition,1995 Comic-Con International|Comic-Con International: San Diego 1995|Comic-Con 1995|SDCC 1995,Q27968055,,
+SDCC,San Diego Comic-Con 2013,Q135220842,14,0,2,fan convention edition,Comic-Con International: San Diego 2013|SDCC 2013|Comic-Con 2013|2013 Comic-Con International,Q27968055,,
+SDCC,San Diego Comic-Con 1998,Q135220827,14,0,2,fan convention edition,1998 Comic-Con International|Comic-Con 1998|Comic-Con International: San Diego 1998|SDCC 1998,Q27968055,,
+SDCC,San Diego Comic-Con 1975,Q135220804,14,0,2,fan convention edition,1975 Comic-Con International|Comic-Con 1975|Comic-Con International: San Diego 1975|SDCC 1975,Q27968055,,
+SDCC,San Diego Comic-Con 2015,Q135220844,14,0,2,fan convention edition,Comic-Con International: San Diego 2015|Comic-Con 2015|SDCC 2015|2015 Comic-Con International,Q27968055,,
+SDCC,San Diego Comic-Con 1996,Q135220825,14,0,2,fan convention edition,Comic-Con 1996|1996 Comic-Con International|SDCC 1996|Comic-Con International: San Diego 1996,Q27968055,,
+SDCC,San Diego Comic-Con 2004,Q135220833,14,0,2,fan convention edition,2004 Comic-Con International|Comic-Con International: San Diego 2004|Comic-Con 2004|SDCC 2004,Q27968055,,
+SDCC,San Diego Comic-Con 1999,Q135220828,14,0,2,fan convention edition,1999 Comic-Con International|Comic-Con 1999|Comic-Con International: San Diego 1999|SDCC 1999,Q27968055,,
+SDCC,San Diego Comic-Con 2009,Q135220838,14,0,2,fan convention edition,Comic-Con 2009|Comic-Con International: San Diego 2009|2009 Comic-Con International|SDCC 2009,Q27968055,,
+SDCC,San Diego County Credit Union,Q7413628,14,0,2,"credit union based in San Diego, California, United States",SDCCU|San Diego County Employees Credit Union,Q116763871,,
+SDCC,Poinsettia Bowl,Q3393306,14,0,2,"college football bowl game played in San Diego, California",San Diego County Credit Union Poinsettia Bowl,Q2922711|Q18608583,,Poinsettia Bowl
+Internet Relay Chat,IRC,Q73,14,1,1,protocol for real-time Internet chat and messaging,ircs,Q287198|Q15836568|Q340169|Q146813|Q16935517,,IRC
+Internet Relay Chat,IRC bot,Q507703,14,1,1,set of scripts or an independent program that connects to Internet Relay Chat as a client,Internet Relay Chat bot,,Q191865,IRC bot
+Internet Relay Chat,Internet Relay Chat daemon,Q55541,14,1,1,server software that implements IRC,IRC server|IRC daemon|IRCd,Q308980,Q1371279,IRCd
+Internet Relay Chat,IRC network,Q1654395,14,1,1,"set of one or more IRC servers linked to share users and channels, under a common management",Internet Relay Chat network,Q1301371|Q73,Q1068715|Q287198,Irc network
+Internet Relay Chat,RFC 1459: Internet Relay Chat Protocol,Q3415157,14,1,1,request for comments publication,RFC1459|Internet Relay Chat Protocol|IRC,Q212971,,RFC 1459
+Internet Relay Chat,RFC 2810: Internet Relay Chat: Architecture,Q47286131,14,1,1,request for comments publication,RFC2810|Internet Relay Chat: Architecture,Q212971,,
+Internet Relay Chat,RFC 2812: Internet Relay Chat: Client Protocol,Q47165334,14,1,1,request for comments publication,RFC2812|Internet Relay Chat: Client Protocol,Q212971,,
+Internet Relay Chat,Internet Relay Chat flood,Q764828,14,1,1,denial-of-service attack on Internet chat,,,Q131406,IRC flood
+Internet Relay Chat,RFC 2813: Internet Relay Chat: Server Protocol,Q47456336,14,1,1,request for comments publication,RFC2813|Internet Relay Chat: Server Protocol,Q212971,,
+Internet Relay Chat,RFC 2811: Internet Relay Chat: Channel Management,Q47484234,14,1,1,request for comments publication,RFC2811|Internet Relay Chat: Channel Management,Q212971,,
+Internet Relay Chat,San Diego Comic-Con International,Q279385,14,1,2,multi-genre entertainment and comic convention,Comic Con|Comic-Con|Comiccon|Comic-Con International: San Diego|SDCC,Q1129398|Q163740,,San Diego Comic-Con
+Internet Relay Chat,Small Device C Compiler,Q7542756,14,1,2,"open source, partially retargetable C compiler for microcontrollers",SDCC,Q47506|Q341,,Small Device C Compiler
+Internet Relay Chat,SDCC,Q6116121,14,1,2,communications protocol,Secure Direct Client-to-Client,Q132364,,
+Internet Relay Chat,San Diego Stadium,Q956072,14,1,2,"former stadium in San Diego, California",Jack Murphy Stadium|Qualcomm Stadium|San Diego County Credit Union Stadium|SDCCU Stadium,Q483110|Q37985280|Q595452|Q1049757,,San Diego Stadium
+Internet Relay Chat,WNK2,Q18045876,14,1,2,protein-coding gene in the species Homo sapiens,NY-CO-43|P/OKcl.13|PRKWNK2|SDCCAG43|WNK lysine deficient protein kinase 2,Q7187,Q20747295,WNK2
+Internet Relay Chat,TSHZ1,Q18035108,14,1,2,protein-coding gene in the species Homo sapiens,CAA|NY-CO-33|SDCCAG33|TSH1|teashirt zinc finger homeobox 1,Q7187,Q20747295,TSHZ1
+Internet Relay Chat,Statelessness and Dignified Citizenship Coalition – Asia Pacific,Q133728767,14,1,2,NGO focused on rights to citizeship,SDCC,Q79913,,
+Internet Relay Chat,Steno Diabetes Center Copenhagen,Q132803545,14,1,2,"healthcare organization in Herlev, Denmark",SDCC,Q4287745,,
+Internet Relay Chat,ENTR1,Q18035849,14,1,2,protein-coding gene in the species Homo sapiens,NY-CO-3|serologically defined colon cancer antigen 3|endosome associated trafficking regulator 1|SDCCAG3|SDDAG3,Q7187,Q20747295,
+Internet Relay Chat,SDCCAG8,Q18035848,14,1,2,protein-coding gene in the species Homo sapiens,BBS16|CCCAP|CCCAP SLSN7|NPHP10|NY-CO-8|SLSN7|hCCCAP|HSPC085|serologically defined colon cancer antigen 8|SHH signaling and ciliogenesis regulator SDCCAG8,Q7187,Q20747295,SDCCAG8
+Aurora,Aurora,Q1066178,15,0,1,female given name,Aurora (first name)|Aurora (given name),Q11879590,,Aurora (given name)
+Aurora,Aurora,Q168713,15,0,1,1900 Pallada-class cruiser,,Q830335|Q575727|Q130326199|Q1081138,,Russian cruiser Aurora
+Aurora,Aurora,Q132015,15,0,1,municipality of the Philippines in the province of Zamboanga del Sur,Municipality of Aurora,Q24764,,"Aurora, Zamboanga del Sur"
+Aurora,Aurora,Q49358,15,0,1,municipality of the Philippines in the province of Isabela,,Q24764,,"Aurora, Isabela"
+Aurora,Aurora Snow,Q36441,15,0,1,"American journalist, pornographic actress and director",Rebecca Claire Kensington|Angel|Aurora|Kim|Rebecca Kensington|Victoria|Amber|Aurora Kim,Q5,,Aurora Snow
+Aurora,Aurora,Q27993538,15,0,1,hungarian-language newspaper in Romania,,Q41298,,
+Aurora,Aurora,Q22595,15,0,1,"city on tripoints of DuPage, Kane, Kendall and Will Counties in Illinois, United States","Aurora, Illinois|Aurora, IL",Q1549591|Q110071194,,"Aurora, Illinois"
+Aurora,Aurora,Q49246,15,0,1,"city in Arapahoe, Adams, and Douglas counties, Colorado, United States","Aurora, USA|Aurora, Colorado|Aurora, CO",Q1093829|Q1549591,,"Aurora, Colorado"
+Aurora,Aurora,Q28030626,15,0,1,2016 album,,Q482994,,
+Aurora,HMS Mentor,Q55613218,15,0,1,1780s sloop-of-war,Aurora,Q928235,,HMS Mentor (1781)
+Aurora,Northern Lights,Q85174065,15,0,2,1998 Scholastic paperback edition,,Q3331189,,
+Aurora,Northern Lights,Q21187043,15,0,2,2014 studio album by Bucketheadland,,Q482994,,
+Aurora,Northern Lights,Q11884781,15,0,2,"text-based online role-playing game, founded in 1992",,Q7889|Q865493,,
+Aurora,Northern Lights,Q85235319,15,0,2,original Scholastic hardcover edition,,Q3331189,,
+Aurora,aurora,Q40609,15,0,2,"natural light display that occurs in the sky, primarily at high latitudes (near the Arctic and Antarctic on Earth) or even on other planets",aurora borealis|aurora australis|northern lights|southern lights|polar lights|polar aurora|aurora polaris,,Q14506045|Q15401756|Q1779241,Aurora
+Aurora,Northern Lights,Q18162770,15,0,2,1978 single by Renaissance,,Q134556,,Northern Lights (Renaissance song)
+Aurora,Northern Lights,Q135451613,15,0,2,2020 video game developed by MadGoat Studio,,Q7889,,
+Aurora,Northern Lights,Q140685516,15,0,2,episode of Sullivan's Crossing (s4 e3),,Q21191270,,
+Aurora,Northern Lights,Q121157518,15,0,2,2019 video game,,Q7889,,
+Aurora,Northern Lights,Q135451648,15,0,2,2020 video game developed by King Deluxe,,Q7889,,
+Aurora,Aurora Borealis,Q123013600,15,0,2,2012 vocal track by Lemon Demon,,Q55850593,,
+Aurora,Aurora Borealis,Q4822496,15,0,2,painting by Frederic Edwin Church (Smithsonian American Art Museum 1911.4.1),,Q3305213,,Aurora Borealis (painting)
+Aurora,Aurora Borealis,Q4822494,15,0,2,2005 film,,Q11424,,Aurora Borealis (film)
+Aurora,aurora borealis,Q114612388,15,0,2,natural light display that occurs in the sky in the far north,northern lights,,Q40609,Aurora borealis
+Aurora,Aurora Borealis,Q52672364,15,0,2,episode of Northern Exposure (S1 E8),,Q21191270,,
+Aurora,Aurora Borealis,Q26270313,15,0,2,painting by Raphael Collazo,,Q3305213,,
+Aurora,Aurora Borealis,Q4822493,15,0,2,album by Cloud Cult,,Q482994,,Aurora Borealis (album)
+Aurora,Aurora Borealis,Q28555613,15,0,2,painting by Roberto Crippa,,Q3305213,,
+Aurora,"Bora, aurora kinase A activator",Q21981500,15,0,2,mammalian protein found in Mus musculus,protein aurora borealis|Bora|aurora borealis,Q8054,Q8054,
+Matter,Matter,Q18573604,16,0,1,family name,,Q101352,,
+Matter,Matter,Q98107358,16,0,1,2008 Orbit paperback edition,,Q3331189,,
+Matter,Matter,Q98107328,16,0,1,Orbit hardcover edition,,Q3331189,,
+Matter,matter,Q35758,16,0,1,substance that has rest mass and volume,material substance,,Q28732711,Matter
+Matter,topic,Q26256810,16,0,1,topic or area addressed by a work or set of works,issue|subject|theme|topic of a work|subject matter of a work|matter|main subject|main topic,Q1207505,Q11028|Q12488383,
+Matter,Mattersburg,Q250832,16,0,1,"municipality in Mattersburg District, Burgenland, Austria",,Q667509|Q13539802,,Mattersburg
+Matter,Matter,Q122386638,16,0,1,2018 video game,,Q7889,,
+Matter,Matter,Q96321062,16,0,1,scientific journal,,Q5633421,,
+Matter,Matterdale,Q2384466,16,0,1,"civil parish in Cumbria, UK","Matterdale (civil parish), Cumbria|Matterdale, Cumbria",Q1115575,,Matterdale
+Matter,matter in philosophy,Q544736,16,0,1,philosophical,Matter,Q33104279,,Philosophy of matter
+Matter,subatomic particle,Q177013,16,0,2,particle smaller than an atom,particle (subatomic)|sub-atomic particle|subatomic quantum particle|atomic constituent|particle of subatomic scale,,Q28693603,Subatomic particle
+Matter,Template:Subatomic particle,Q5616536,16,0,2,Wikimedia template,,Q11266439,,Template:Subatomic particle
+Matter,physical substance,Q28732711,16,0,2,"substance composed of quantum particle(s)/field(s), such as matter and/or radiation; that of which objects/systems are composed; physical stuff that can be considered concrete (not strictly abstract)",physically real stuff|matter-energy|substance,,Q4406616|Q378078,
+BLAST,Blast,Q107907866,17,0,1,French investigative journalism site and web television,Blast: Le souffle de l'info|Blast - Le souffle de l'info,Q43229|Q35127,,
+BLAST,explosion,Q179057,17,0,1,sudden release of energy through high temperatures and gas expansion,bang|blast|burst|boom|kaboom|exploding|explode,Q1931388|Q171558|Q2245405,Q3249551|Q1132455|Q1190554,Explosion
+BLAST,blastula,Q420811,17,0,1,sphere of cells formed during early embryonic development in animals,blastosphere,Q28962|Q112826905|Q48835578,Q33196|Q112826975,
+BLAST,Blastomyces dermatitidis,Q3012311,17,0,1,species of fungus,,Q16521,,Blastomyces dermatitidis
+BLAST,Blastobasis,Q4925447,17,0,1,genus of insects,,Q16521,,Blastobasis
+BLAST,Blastenia,Q21225574,17,0,1,genus of fungi,,Q16521,,Blastenia
+BLAST,BLAST,Q286820,17,0,1,bioinformatics software,Basic Local Alignment Search Tool|NCBI-BLAST|ncbi-blast|B,Q64769132,,BLAST (biotechnology)
+BLAST,Blast,Q124063576,17,0,1,2010 video game,,Q7889,,
+BLAST,blastocyst,Q227717,17,0,1,"spheroid structure formed in early mammalian embryonic development, around day 5 in humans",,Q112826905,Q5158447|Q30062554|Q420811,Blastocyst
+BLAST,Blastobasidae,Q782744,17,0,1,family of insects,,Q16521,,Blastobasidae
+BLAST,blastomycosis,Q627368,17,0,2,"primary systemic mycosis that results in a systemic fungal infection, and has material basis in Blastomyces dermatitidis","Blastomyces Dermatitidis Infection|Blastomycosis (& [Chicago disease] or [Gilchrists disease] or [North American])|Blastomycosis NOS (disorder)|Blastomycosis, unspecified (disorder)|Blastomycotic infection|Chicago disease|Chicago disease (disorder)|Gilchrist's disease (disorder)|Infection by Blastomyces dermatitidis (disorder)|North American blastomycosis|Gilchrist's disease|Infection by Blastomyces dermatitidis",Q112193867,Q18553244|Q18123741,Blastomycosis
+BLAST,Blastomycosis-like pyoderma,Q4925480,17,0,2,medical condition,pyodermatitis vegetans,Q949302,Q2119633,Blastomycosis-like pyoderma
+BLAST,Blastomycosis,Q75876332,17,0,2,scientific article published on 01 November 1951,,Q13442814,,
+BLAST,Blastomycosis,Q73402526,17,0,2,scientific article published on 01 March 2003,,Q13442814,,
+BLAST,Blastomycosis,Q34412596,17,0,2,scientific article published on 01 October 1979,,Q13442814,,
+BLAST,Blastomycosis,Q67487496,17,0,2,scientific article published on 01 March 1992,,Q13442814,,
+BLAST,Blastomycosis,Q87030320,17,0,2,scientific article published on 29 December 2015,,Q13442814,,
+BLAST,Blastomycosis,Q84209939,17,0,2,scientific article published on 01 May 2010,,Q13442814,,
+BLAST,Blastomycosis,Q84835151,17,0,2,scientific article published on 01 August 2011,,Q13442814,,
+BLAST,Blastomycosis,Q69529775,17,0,2,scientific article published on 01 April 1989,,Q13442814,,
+BLAST,Blastocystis,Q1756496,17,0,2,genus of Heterokonta,,Q16521,,Blastocystis
+BLAST,embryo implantation,Q14852002,17,0,2,attachment of the blastocyst to the uterine lining,GO:0007566|blastocyst implantation|nidiation,Q2996394,Q14885910,
+BLAST,Blastocystis hominis,Q19833385,17,0,2,"species of parasitic protozoa found in the intestines of humans and other primates, once thought a species of fungus",,Q16521,,Blastocystis hominis
+BLAST,Blastocystea,Q5730152,17,0,2,class of single-celled organisms,,Q16521,,Blastocystea
+BLAST,Blastocystidae,Q25369180,17,0,2,family of algae (fossil),,Q23038290,,Blastocystidae
+BLAST,Blastocystida,Q23070182,17,0,2,order of algae,,Q16521,,Blastocystida
+BLAST,blastocystosis,Q4925474,17,0,2,medical condition caused by infection with Blastocystis,"parasitic stramenopiles infectious disease|Blastocystis hominis infectious disease|Infection, Blastocystis|Infections, Blastocystis|Blastocystis infection|Blastocystis Infections",Q112193867,Q353172,Blastocystosis
+BLAST,blastocyst hatching,Q21097430,17,0,2,The hatching of the cellular blastocyst from the zona pellucida.,,Q2996394,Q22294905,
+BLAST,blastocyst development,Q14864648,17,0,2,"The process whose specific outcome is the progression of the blastocyst over time, from its formation to the mature structure. The mammalian blastocyst is a hollow ball of cells containing two cell types, the inner cell mass and the trophectoderm.",GO:0001824,Q2996394,Q14860201,
+BLAST,Blastocystis enterocola,Q10431067,17,0,2,species of fungus,,Q16521,,
+BLAST,Blastocystis geocheloni,Q119043159,17,0,2,,,Q16521,,
+BLAST,Blastocystis ovis,Q119043364,17,0,2,,,Q16521,,
+BLAST,Blastocystis cercopitheci,Q119042997,17,0,2,,,Q16521,,
+BLAST,Blastocystis bovis,Q119042930,17,0,2,,,Q16521,,
+BLAST,Blastocystis lessonae,Q119043271,17,0,2,,,Q16521,,
+BLAST,Blastocystis hominis,Q24644410,17,0,2,scientific article published in October 1990,,Q13442814,,
+BLAST,Blastocystis hominis,Q42541778,17,0,2,scientific article published on June 1990,,Q13442814,,
+BLAST,Blastocystis hominis revisited.,Q35372823,17,0,2,scientific article published on 01 October 1996,,Q13442814,,
+BLAST,Blastocystis hominis--past and future,Q24616703,17,0,2,scientific article published in January 1991,,Q13442814,,
+BLAST,Blastocystis hominis and Dientamoeba fragilis in patients fulfilling irritable bowel syndrome criteria,Q54425065,17,0,2,scientific article,,Q13442814,,
+BLAST,"Blastocystis hominis, a long-misunderstood intestinal parasite",Q80817956,17,0,2,scientific article published on 01 January 1988,,Q13442814,,
+BLAST,Blastocystis hominis: Pathogenic potential in human patients and in gnotobiotes,Q67450553,17,0,2,scientific article published on 01 June 1976,,Q13442814,,
+Janus,Janus,Q12319119,18,0,1,male given name,Janus (given name)|Janus (first name),Q12308941,,Janus (given name)
+Janus,Janus,Q20520496,18,0,1,family name,Yanus,Q101352,,Janus (surname)
+Janus,Janus,Q20859103,18,0,1,academic journal,,Q737498,,Janus (journal)
+Janus,Janus,Q14499258,18,0,1,genus of sawflies,,Q16521,,Janus (sawfly)
+Janus,Janus,Q96050418,18,0,1,"French edition of ""Pushing Ice"" by Alastair Reynolds",,Q3331189,,
+Janus,Janusz Rybakowski,Q26902484,18,0,1,"Polish physician, psychiatrist",Janusz K Rybakowski,Q5,,Janusz Rybakowski
+Janus,Janus,Q167685,18,0,1,Roman deity,Ianus|Ianuspater|Ianus Quadrifrons|Ianus Bifrons,Q11688446|Q17064682,,Janus
+Janus,Janusz Bujnicki,Q11720088,18,0,1,Polish biologist,Janusz M Bujnicki|Janusz Marek Bujnicki,Q5,,Janusz Bujnicki
+Janus,Januš,Q28751199,18,0,1,male given name,,Q12308941,,Januš
+Janus,"Janus Vérany, 1844 non Stephens, 1829",Q3807072,18,0,1,later homonym,,Q16521,,
+X10,X10,Q783811,19,0,1,protocol for communication,,Q2680559|Q132364,Q848436|Q271870,X10 (industry standard)
+X10,X10,Q1852616,19,0,1,"programming language, part of the Productive, Easy-to-use, Reliable Computing System (PERCS) project",,Q9143|Q28920142|Q7135000,,X10 (programming language)
+X10,X10,Q56759647,19,0,1,"anonymous French blogger, photographer and street artist",,Q5,,
+X10,X10,Q9383016,19,0,1,arrow for target archery,,Q15142894,Q45922,
+X10,exa,Q152411,19,0,1,prefix denoting 10 to the 18th power,E|exa-|exa prefix|exa SI prefix|×10^18|x10^18|E-,Q131299|Q83155725,,Exa-
+X10,X10,Q50394796,19,0,1,Korean variety show on Kakao TV,,,,
+X10,X10,Q104433112,19,0,1,train service in Hungary,,Q15141321|Q1384862,,
+X10,x10,Q29708228,19,0,1,genetic element in the species Drosophila melanogaster,,Q7187,,
+X10,TJP2,Q18034074,19,0,1,protein-coding gene in the species Homo sapiens,C9DUPq21.11|DFNA51|DUP9q21.11|PFIC4|X104|ZO2|Tight junction protein 2|FHCA1,Q7187,Q20747295,Tight junction protein ZO-2
+X10,SL X10p,Q844455,19,0,1,type of rolling stock used on the Roslagsbanan railway in northeastern Stockholm,X10p,Q811704,Q483373,SL X10p
+Pichat,Pichat,Q65112143,20,0,1,family name,,Q101352,,
+Pichat,Pichat,Q71370,20,0,1,communications protocol,,Q132364,,
+Pichat,Pichatur mandal,Q60366770,20,0,1,"mandal in Tirupati district, Andhra Pradesh, India",,Q122987710,,Pichatur mandal
+Pichat,Pichatur,Q7198866,20,0,1,"village in Pichatur mandal, Tirupati district, Andhra Pradesh, India",,Q56436498,,Pichatur
+Pichat,Pichathy Kuttappan,Q18388441,20,0,1,1979 film by P. Venu,,Q11424,,Pichathy Kuttappan
+Pichat,San Francisco Pichátaro,Q20289295,20,0,1,"town in Tingambato Municipality, State of Michoacán, Mexico",San Francisco Pichataro,Q20202352,,
+Pichat,Pichat,Q3382476,20,0,1,Wikimedia disambiguation page,,Q4167410,,
+Pichat,Pichata,Q113006447,20,0,1,,,Q3257686,,
+Pichat,Pichat Chaleart,Q131239279,20,0,1,,,Q43229,,
+Pichat,Pichat Diffusion,Q132058969,20,0,1,,,Q43229,,

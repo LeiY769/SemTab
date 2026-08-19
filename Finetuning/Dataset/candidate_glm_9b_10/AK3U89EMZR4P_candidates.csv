@@ -1,0 +1,62 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+HD 88263,HD 88263,Q75751643,0,0,1,,,Q812800|Q72803622,,
+HD 88263,star,Q523,0,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 88263,Star Trek,Q1092,0,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 88263,Star,Q37529922,0,0,2,family name,,Q101352,,
+HD 88263,Star Wars,Q462,0,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 88263,Star,Q381936,0,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 88263,celebrity,Q211236,0,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 88263,STAR,Q3480422,0,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 88263,Starnberg,Q61936,0,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 88263,Star TV,Q2067812,0,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 88263,Starz Entertainment,Q515869,0,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 88263,G-type main-sequence star,Q5864,0,0,2,stellar classification,yellow dwarf|G dwarf star|yellow dwarf star,Q179600|Q17444909,Q1007122|Q244393,G-type main-sequence star
+HD 42908,HD 42908,Q78781567,1,0,1,,,Q812800|Q72803622|Q67206691,,
+HD 42908,Gliese 570,Q75771164,1,0,2,star in the constellation Libra,HR 5568|KX Librae,Q878367,,Gliese 570
+HD 42908,Gliese 570A,Q1195589,1,0,2,star in the constellation Libra,KX Librae,Q6243|Q797219|Q67206691|Q2247863|Q13890|Q67206785,,
+HD 42908,Gliese 570 C,Q111461594,1,0,2,star; YPC: 3375.00; LHS: 386b,,Q523,,
+HD 42908,GJ 570 D,Q75788564,1,0,2,brown dwarf in the constellation Libra,,Q101600|Q2247863|Q13890|Q44559|Q523|Q67206691|Q67206785,,
+SS 142,SS 142,Q90605775,2,0,1,,,Q812800|Q72803622,,
+SS 142,State road 142,Q3974751,2,0,1,road in Italy,,Q34442|Q838251,,
+HD 303534,HD 303534,Q77582222,3,0,1,,,Q812800|Q72803622,,
+Upsilon Cygni,Upsilon Cygni,Q5098588,4,0,1,variable star in the constellation Cygnus,66 Cygni|66 Cyg|υ Cygni|υ Cyg|HD 202904|HIP 105138|HIC 105138|HR 8146,Q3037794|Q812800|Q6243|Q72803622|Q13890|Q67206785|Q71798788|Q523,,Upsilon Cygni
+HD 39984,HD 39984,Q79176698,5,0,1,,,Q812800|Q67206691,,
+HD 39984,Gliese 615,Q3772295,5,0,2,star,,Q67206691|Q2247863,,
+HD 39984,Gliese 615.1B,Q111461605,5,0,2,star; YPC: 3681.00,,Q523,,
+HD 172122,HD 172122,Q83956899,6,0,1,,,Q812800|Q72803622|Q67206691|Q523,,
+HD 172122,star,Q523,6,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 172122,Star Trek,Q1092,6,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 172122,Star,Q37529922,6,0,2,family name,,Q101352,,
+HD 172122,Star Wars,Q462,6,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 172122,Star,Q381936,6,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 172122,celebrity,Q211236,6,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 172122,STAR,Q3480422,6,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 172122,Starnberg,Q61936,6,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 172122,Star TV,Q2067812,6,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 172122,Starz Entertainment,Q515869,6,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 172122,astronomical object,Q6999,6,0,2,"physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",celestial body|celestial object|astronomical body|astronomical objects|celestial bodies|celestial objects|astronomical bodies|object|stellar body|stellar object,Q96251598,Q223557|Q16686022|Q4235019,Astronomical object
+HD 172122,astronomical object type,Q17444909,6,0,2,each instance is a subclass in the hierarchy under <astronomical object>(Q6999); such a subclass's instances in turn are particular identified objects in Our Universe,class of astronomical object|type of astronomical object|object type in astronomy|object type (astronomy)|type of celestial object,Q24017414,Q111360549,
+HD 172122,astronomical object in the Solar System,Q109645909,6,0,2,type of astronomical object within the Solar System,Solar System object,Q17444909,Q6999,
+HD 172122,astronomical object's surface,Q30318034,6,0,2,type of surface,,,Q3783831|Q125176223,
+HD 172122,astronomical object from the Stargate universe,Q108214736,6,0,2,astronomical object appearing in the Stargate universe,,,Q15831598|Q108214806,
+HD 172122,Astronomical objects and features with Romanian names,Q29640773,6,0,2,Wikimedia list article,,Q13406463,,Astronomical objects and features with Romanian names
+HD 172122,astronomical object from the Star Trek universe,Q57083319,6,0,2,astronomical object appearing in the Star Trek franchise,astronomical object from the Star Trek multiverse,,Q15831598|Q15796005,
+HD 172122,astronomical object in a fiction work,Q135456669,6,0,2,"astronomical object, real or imagined, appearing in works of fiction",,,Q15796005,
+HD 172122,astronomical object from the Blinky Bill universe,Q117432201,6,0,2,astronomical object appearing in the Blinky Bill universe,,,Q15831598|Q117432180,
+HD 172122,Astronomical objects,Q81196826,6,0,2,scientific article published on 01 October 1992,,Q13442814,,
+TYC 4812-2496-1,TYC 4812-2496-1,Q74711254,7,0,1,,,Q812800|Q67206691,,
+TYC 4812-2496-1,space probe,Q26529,7,0,2,"unmanned robotic spacecraft that doesn't orbit the Earth, but, instead, explores further into outer space",,,Q1378139,Space probe
+TYC 4812-2496-1,Space Probe,Q7572462,7,0,2,tower drop ride in Sydney,,Q1282871,,Space Probe (Wonderland Sydney)
+TYC 4812-2496-1,Space Probe,Q113954762,7,0,2,1974 studio album by Sun Ra and his Arkestra,"A Tonal View of Times Tomorrow, Vol. 1",Q482994,,
+TYC 4812-2496-1,Space Probe,Q125093919,7,0,2,decorative artwork by Philip Weber,,Q631931,,
+TYC 4812-2496-1,Space Probe,Q140190873,7,0,2,novel by Donald S. Rowland,,Q7725634,,
+TYC 4812-2496-1,Space Probe,Q119373895,7,0,2,"painting by James Cumming (1922–1991), Art in Healthcare",,Q3305213,,
+TYC 4812-2496-1,Space Probes,Q122343049,7,0,2,2020 video game,,Q7889,,
+TYC 4812-2496-1,Space Probe Taurus,Q7572463,7,0,2,1965 film by Leonard Katzman,Space Monster,Q11424,,Space Probe Taurus
+TYC 4812-2496-1,Space probes of the Soviet Union timeline,Q109941838,7,0,2,Wikimedia template,,Q11266439,,
+TYC 4812-2496-1,Space Probe Launcher,Q136537072,7,0,2,LEGO set,,Q6518582,,
+HD 303216,HD 303216,Q90970527,8,0,1,,,Q812800|Q72803622|Q523,,
+2MASS J01552610+6250564,2MASS J01552610+6250564,Q90776754,9,0,1,,,Q812800|Q67206691,,
+V747 Monocerotis,V747 Monocerotis,Q81418309,10,0,1,,,Q812800,,
+HD 106309,HD 106309,Q79099114,11,0,1,,,Q812800|Q72803622,,
+HD 106309,Gliese 613,Q5569605,11,0,2,star,,Q67206691|Q2247863,,Gliese 613

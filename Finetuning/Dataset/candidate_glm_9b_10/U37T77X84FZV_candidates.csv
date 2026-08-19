@@ -1,0 +1,88 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+NPP Zvezdb,NPP Zvezda,Q541905,0,0,2,"aerospace company in Tomilino, Moscow Region, Russia","Zvezda (Russia)|Research-and-production enterprise ""Zvezda"" to them. GI Severin|Zvezda Research and Production Enterprise|K-36DM",Q936518|Q6881511,,NPP Zvezda
+NPP Zvezdb,NPP Zvezda K-36,Q4206119,0,0,2,Ejection seat,K-36DM,Q623544,Q16693356,NPP Zvezda K-36
+NPP Zvezdb,NPP Zvezda SKS-94,Q25327012,0,0,2,aircraft ejection system,,,Q16693356,NPP Zvezda SKS-94
+Raven Eurore,,,1,0,0,,,,,
+Aerospace Industrial Gevelopment Corporation,Aerospace Industrial Development Corporation,Q293494,2,0,2,company in Taiwan,AIDC,Q936518|Q1934969,,Aerospace Industrial Development Corporation
+Aeonca,,,3,0,0,,,,,
+Rag Aviation,,,4,0,0,,,,,
+iro Naval Atsenal,,,5,0,0,,,,,
+STVOBB,,,6,0,0,,,,,
+hönix,,,7,0,0,,,,,
+Darzhavna Aeroplanna Tabotilnitsa,,,8,0,0,,,,,
+Fakrchild Industries,,,9,0,0,,,,,
+Helko Aircraft Company,,,10,0,0,,,,,
+oeiqg,0,Q628001,11,0,2,numerical digit,digit 0|digit zero,Q29961325,Q82990,
+oeiqg,1 BC,Q25299,11,0,2,year,1 aCn|1 Before Common Era|1 B.C.|1 B.C.E.|1BCE|1 BCE|753 AUC|1 AC|0 astronomic era|0 AE|0 astronomique time|0 AT|0|0 astr.,Q29964144,,1 BC
+oeiqg,0,Q87496002,11,0,2,digit zero (U+0030): Arabic-Latin digit,0|DIGIT ZERO|zero,Q29654788,Q29961325,
+oeiqg,⁰,Q87523522,11,0,2,Unicode character,0|SUPERSCRIPT ZERO,Q29654788,,
+oeiqg,０,Q87544564,11,0,2,fullwidth digit zero (U+FF10),0|FULLWIDTH DIGIT ZERO|zero (fullwidth)|0 (fullwidth),Q29654788,Q87496002,
+oeiqg,₀,Q87523562,11,0,2,Unicode character,0|SUBSCRIPT ZERO,Q29654788,,
+oeiqg,North America,Q49,11,0,2,continent in the Americas,NA|Turtle Island|North and Central America|N. America|North American continent|North america|North-America|North America (continent)|North America (region)|North America (Americas)|North American Continent|N america|003 (UN M.49 code)|N America|Amérique du Nord|N Am|North Am|NoAm|NOAM|North Amer,Q5107|Q855697|Q2418896,,North America
+oeiqg,𝟶,Q87572130,11,0,2,Unicode character,0|MATHEMATICAL MONOSPACE DIGIT ZERO,Q29654788,,
+oeiqg,𝟘,Q87572054,11,0,2,Unicode character,0|MATHEMATICAL DOUBLE-STRUCK DIGIT ZERO,Q29654788,,
+oeiqg,𝟎,Q87572027,11,0,2,Unicode character,0|MATHEMATICAL BOLD DIGIT ZERO,Q29654788,,
+oeiqg,unidentified entity,Q120725535,11,0,2,,,,Q35120,
+Mgni Gyro,,,12,0,0,,,,,
+Satelize,,,13,0,0,,,,,
+Jacobt,Jacob ter Veldhuis,Q913018,14,0,1,Dutch composer,JacobTV,Q5,,Jacob TV
+Jacobt,Jacob Thomas,Q116503588,14,0,2,rugby league footballer,,Q5,,
+Jacobt,Jacob Thomas Linacre,Q96691470,14,0,2,particle physicist,,Q5,,
+Jacobt,Jacob Thomas,Q6119347,14,0,2,Welsh military official,,Q5,,Jacob Thomas (VC)
+Jacobt,Jake Thomas,Q111600275,14,0,2,comics editor,Jacob Thomas,Q5,,
+Jacobt,Jacob Thomas,Q56597557,14,0,2,person who owned merchant ships,,Q5,,
+Jacobt,Jacob Thomas,Q21610624,14,0,2,botanist,Jac.Thomas,Q5,,
+Jacobt,Jacob C Thomas,Q92364413,14,0,2,researcher (ORCID 0000-0003-1656-9907),Jacob Thomas,Q5,,
+Jacobt,Jacob Thomas Biehl,Q102317394,14,0,2,Ph.D. University of Illinois at Urbana-Champaign 2008,,Q5,,
+Jacobt,Jacob Thomas,Q6119351,14,0,2,American soccer player,,Q5,,Jacob Thomas (soccer)
+Jacobt,Jacob Thomas,Q62130052,14,0,2,Indian Police Service officer,,Q5,,Jacob Thomas (police officer)
+Jacobt,Jacob Thompson,Q928119,14,0,2,American politician (1810-1885),,Q5,,Jacob Thompson
+Jacobt,Jacob Thompson,Q120897697,14,0,2,1782 - 1858,,Q5,,
+Jacobt,Jacob Thompson,Q100935170,14,0,2,college basketball player (1994–1995) Santa Clara,,Q5,,
+Jacobt,Jacob Thompson,Q56837061,14,0,2,researcher,,Q5,,
+Jacobt,Jacob Thompson,Q2718357,14,0,2,British artist (1806-1879),,Q5,,Jacob Thompson (painter)
+Jacobt,Jacob Thompson,Q111464289,14,0,2,North Carolina historic marker G-71,G-71,Q721747,,
+Jacobt,Jacob Thompson Baker,Q1676415,14,0,2,American politician (1847-1919),J. Thompson Baker,Q5,,J. Thompson Baker
+Jacobt,Jacob Thompson House,Q96384013,14,0,2,"historic house in Massachusetts, United States",Monson Historical Society Museum,Q3947,,Jacob Thompson House
+Jacobt,Jacob Thompson,Q102129328,14,0,2,Wikimedia disambiguation page,,Q4167410,,Jacob Thompson (disambiguation)
+Koolhove,Koolhoven,Q2761690,15,0,1,"aircraft manufacturer based in Rotterdam, Netherlands (1926-1956)",N.V. Koolhoven|Koolhoven Vliegtuigen|Koolhoven Vliegtuigenfabriek,Q936518,,Koolhoven
+Koolhove,Koolhoven,Q110910488,15,0,1,family name,,Q101352,,Koolhoven (surname)
+Koolhove,F.K.52,Q5404247,15,0,1,reconnaissance fighter aircraft,Koolhoven F.K.52|FK.52|FK52,Q15056995,Q18491037|Q3041792,Koolhoven F.K.52
+Koolhove,Koolhoven F.K.51,Q2120210,15,0,1,type of aircraft,,Q41426,Q11436,Koolhoven F.K.51
+Koolhove,F.K.56,Q39948,15,0,1,training aircraft,Koolhoven F.K.56|FK56,Q15056995,Q18536137,Koolhoven F.K.56
+Koolhove,Koolhoven F.K.58,Q1369689,15,0,1,aircraft,,Q15056995,Q135214932,Koolhoven F.K.58
+Koolhove,Koolhoven F.K.46,Q6430616,15,0,1,type of aircraft,,Q41426,Q11436,Koolhoven F.K.46
+Koolhove,Koolhoven F.K.41,Q3816437,15,0,1,,,Q197,Q11436,
+Koolhove,F.K.55,Q549320,15,0,1,prototype fighter aircraft,Koolhoven F.K.55|FK55|FK.55,Q15126161,Q135214932,Koolhoven F.K.55
+Koolhove,Koolhoven F.K.50,Q6430619,15,0,1,type of aircraft,,,Q11436,Koolhoven F.K.50
+Schempq-Hirth,Schempp-Hirth,Q185996,16,0,2,aircraft manufacturer in Germany,,Q936518,,Schempp-Hirth
+Schempq-Hirth,Schempp-Hirth Arcus,Q2233207,16,0,2,"German two-seat glider, 2009",Arcus,Q45296117,Q180173,Schempp-Hirth Arcus
+Schempq-Hirth,Schempp-Hirth Duo Discus,Q1341050,16,0,2,"German two-seat glider, 1993",,Q45296117,Q180173,Schempp-Hirth Duo Discus
+Schempq-Hirth,Ventus-2,Q7887991,16,0,2,"German single-seat glider, 1994",Schempp-Hirth Ventus-2|Ventus 2|G-2B|G2B,Q15056993,Q180173,Schempp-Hirth Ventus-2
+Schempq-Hirth,Nimbus-4,Q3475327,16,0,2,family of gliders,Schempp-Hirth Nimbus-4|Nimbus 4|Nimbus-4 Family|Schempp-Hirth Nimbus-4DM,Q15056993,Q17860798,Schempp-Hirth Nimbus-4
+Schempq-Hirth,Schempp-Hirth Ventus-3,Q27901564,16,0,2,"German single-seat glider, 2016",,Q15056993,Q11436|Q180173,Schempp-Hirth Ventus-3
+Schempq-Hirth,Schempp-Hirth Discus,Q1416538,16,0,2,"German single-seat glider, 1984",,Q180173,,Schempp-Hirth Discus
+Schempq-Hirth,Nimbus,Q17860798,16,0,2,family of gliders,Schempp-Hirth Nimbus|Nimbus glider,Q15056993,Q180173,
+Schempq-Hirth,Nimbus-4DM,Q17861310,16,0,2,self-launching glider,Schempp-Hirth Nimbus-4DM|Nimbus 4DM|Nimbus 4 Dual Self Launching|G-4DM|G4DM,Q15056995,Q3475327|Q180173,
+Schempq-Hirth,Schempp-Hirth Discus-2,Q7888128,16,0,2,"German single-seat glider, 1984",,Q15056993,Q11436,Schempp-Hirth Discus-2
+Gruomdn,,,17,0,0,,,,,
+RVA,Richmond,Q43421,18,0,1,independent city in and capital of the U.S. state of Virginia,"Richmond, Virginia|Richmond, VA|Richmond City|RVA",Q1266818|Q1093829|Q1549591,,"Richmond, Virginia"
+RVA,RV Tauri variable,Q727379,18,0,1,type of variable star,RV|RVA|RVB|RV Tau variable,Q17444909,Q353834,RV Tauri variable
+RVA,Farafangana Airport,Q934242,18,0,1,geographical object,RVA|FMSG,Q1248784|Q94993988,,Farafangana Airport
+RVA,Rvačov,Q43488013,18,0,1,"street in Roudnice nad Labem, Czech Republic",Rvačov (Roudnice nad Labem),Q79007,,
+RVA,Rváčovská,Q45020674,18,0,1,"street in Hlinsko, Czech Republic",,Q79007,,
+RVA,Rváčovská,Q45748433,18,0,1,"street in Lomnice nad Popelkou, Czech Republic",,Q79007,,
+RVA,RVA,Q124152256,18,0,1,,Radio RVA|RVA Radio,Q14350,,
+RVA,RVA FC,Q16849066,18,0,1,football club,,Q476028,,Fredericksburg FC
+RVA,RVA architects,Q130556160,18,0,1,Czech company,RVA architects s.r.o.,Q4830453|Q6881511,,
+RVA,Rváčov,Q12050402,18,0,1,village in Chrudim District of Pardubice region,,Q61089180,,
+RVA,"Richmond, Virginia",Q64155156,18,0,2,photograph in the National Gallery of Art (NGA 194517),,Q125191,,
+RVA,"Richmond, Virginia",Q97579648,18,0,2,"photograph by Alexander Gardner (MET, 33.65.213)",,Q125191,,
+RVA,"Richmond, Virginia",Q97579668,18,0,2,"photograph by Alexander Gardner (MET, 33.65.229)",,Q125191,,
+RVA,"2020 COVID-19 pandemic in Richmond, Virginia",Q94154937,18,0,2,"pandemic in Richmond, Virginia","COVID-19 pandemic in Richmond County, Virginia|2020 coronavirus outbreak in Richmond County, Virginia|2020 COVID-19 pandemic in Richmond County, Virginia|COVID-19 pandemic in Richmond, Virginia|2020 Richmond, Virginia COVID-19 pandemic|Richmond, Virginia COVID-19 pandemic|2020 COVID pandemic in Richmond, Virginia",Q3241045,,
+RVA,"Richmond, Virginia slave market",Q129254829,18,0,2,American business cluster,,,,"Richmond, Virginia slave market"
+RVA,"Richmond, Virginia weather",Q22736081,18,0,2,Wikimedia template,,Q11266439,,"Richmond, Virginia weather"
+RVA,"Richmond, Virginia's 20-year experiment with ""strong mayor"" government",Q136334238,18,0,2,"chapter by Thad Williamson published in ""Case Studies in Political Leadership""",,Q21481766,,
+RVA,"Richmond, Virginia, after Evacuation",Q97579658,18,0,2,"photograph by Alexander Gardner (MET, 33.65.221)",,Q125191,,
+RVA,"Richmond, Virginia. Looking toward Manchester",Q97579673,18,0,2,"photograph by Alexander Gardner (MET, 33.65.231)",,Q125191,,
+RVA,Virginia Railway Express,Q170781,18,0,2,"regional/commuter rail service that connects the Northern Virginia suburbs to Union Station in Washington, D.C.",VRE,Q124130081,,Virginia Railway Express

@@ -1,0 +1,4 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bietigheim-Bissingen station,Bietigheim-Bissingen station,Q440067,0,0,1,"railway station in Bietigheim-Bissingen, Germany",,Q27996466|Q2451577,,Bietigheim-Bissingen station
+Nagano Station,Nagano Station,Q374916,1,0,1,"railway station in Nagano, Nagano Prefecture, Japan",,Q55488|Q4312270|Q1147171|Q2142091|Q2451577|Q7886778|Q121844395|Q11429081|Q123025722|Q11606300|Q11606300|Q11606300|Q55491|Q55485,,Nagano Station
+Nagano Station,Kawachinagano Station,Q6379476,1,0,1,"railway station in Kawachinagano, Osaka prefecture, Japan",Nagano Station|Kawachi-Nagano Station,Q55488,,Kawachinagano Station

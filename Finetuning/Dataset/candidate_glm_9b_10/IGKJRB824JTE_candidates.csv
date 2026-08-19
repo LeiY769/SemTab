@@ -1,0 +1,237 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+rue Louis-Loucheur,rue Louis-Loucheur,Q3448905,0,0,1,"street in Paris, France",,Q79007,,
+rue Louis-Loucheur,rue Louis Loucheur,Q113368296,0,0,1,"street in Drancy, France",,Q79007,,
+rue Louis-Loucheur,Rue Louis Loucheur,Q63347618,0,0,1,"street in Lyon, France",,Q79007,,
+rue Louis-Loucheur,rue Louis-Loucheur,Q20682241,0,0,1,"street in Nantes, France",,Q79007,,
+rue Louis-Loucheur,Rue Louis-Loucheur,Q116144719,0,0,1,"street in Lille, Nord, Hauts-de-France, France",,Q79007,,
+rue Catinat,rue Catinat,Q3447336,1,0,1,"street in Paris, France",,Q79007,,
+rue Catinat,rue de la Sorbonne,Q3451578,1,0,1,"street in Paris, France",rue Coupe-Gueule|rue des Portes|rue des Deux-Portes|rue Catinat,Q79007|Q34442,,
+rue Catinat,Dong Khoi Street,Q4463947,1,0,1,"street in downtown Ho Chi Minh City, Vietnam",Rue Catinat|Tu Do Street,Q79007,,Đồng Khởi Street
+rue Catinat,rue Catinat,Q16510732,1,0,1,"thoroughfare in Nantes, France",,Q83620|Q79007,,
+Gerrard Street,Gerrard Street,Q16964515,2,0,1,"street in Chinatown in the City of Westminster, London, England",,Q79007|Q62685721,,"Gerrard Street, London"
+Gerrard Street,Gerrard Street,Q3104294,2,0,1,street in Toronto,,Q79007,,Gerrard Street (Toronto)
+Gerrard Street,Gerrard Street Baptist Church,Q5552499,2,0,1,"church in Aberdeen, Scotland, UK","John Knox United Free Church Of Scotland, Gerrard Street, Aberdeen",Q56242063|Q16970,,Gerrard Street Baptist Church
+Gerrard Street,Gerrard Street,Q963293,2,0,1,Wikimedia disambiguation page,,Q4167410,,Gerrard Street
+Hamburger Allee,Hamburger Allee,Q98446457,3,0,1,"street in Hannover, Germany",,Q207934|Q79007,,
+Hamburger Allee,Hamburger Allee,Q1572958,3,0,1,street in Frankfurt am Main,,Q79007,,
+Hamburger Allee,Hamburger Allee,Q104193830,3,0,1,"street in Schwerin, Mecklenburg-Vorpommern, Germany",,Q79007,,
+Hamburger Allee,Hamburger Allee,Q100346311,3,0,1,"street in Nauen, Brandenburg, Germany",,Q79007,,
+Hamburger Allee,Hamburger Allee 42 (Hannover),Q138773852,3,0,1,,,Q18760306|Q41955438,,
+Hamburger Allee,Hamburger Allee 25 (Hannover),Q139972848,3,0,1,,,Q1021645,,
+Hamburger Allee,Hamburger Allee,Q124459957,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hamburger Allee,Hamburger Straße,Q60698070,3,0,2,"street in Bremen, Germany",Hamburger Straße (Bremen),Q79007,,
+Hamburger Allee,Hamburger Straße,Q130559857,3,0,2,"street in Dormagen, North Rhine-Westphalia, Germany",,Q79007,,
+Hamburger Allee,Hamburger Straße,Q61473201,3,0,2,"street in Dresden, Germany",,Q79007|Q896009,,
+Hamburger Allee,Hamburger Straße,Q104073323,3,0,2,"street in Glienicke/Nordbahn, Brandenburg state, Germany",Hamburger Straße (Glienicke/Nordbahn),Q79007,,
+Hamburger Allee,Hamburger Straße,Q2465909,3,0,2,"railway station in Barmbek-Süd, Germany",,Q928830|Q11670533,,Hamburger Straße station
+Hamburger Allee,Hamburger Straße,Q104163679,3,0,2,"street in Rostock, Mecklenburg-Vorpommern, Germany",,Q79007,,
+Hamburger Allee,Hamburger Straße,Q100144405,3,0,2,"tram stop in Dresden, Germany",Hamburger Strasse,Q2175765,,
+Hamburger Allee,Hamburger Straße,Q100346315,3,0,2,"street in Nauen, Brandenburg, Germany",,Q79007,,
+Hamburger Allee,Hamburger Straße,Q110150887,3,0,2,"street in Plön, Schleswig-Holstein, Germany",,Q79007,,
+Hamburger Allee,Hamburger Straße,Q110587483,3,0,2,"street in Düsseldorf, Germany","Hamburger Straße, Düsseldorf|Hamburger Straße (Düsseldorf)",Q79007,,
+Hamburger Allee,Avenue in Hamburg,Q106604968,3,0,2,streets in Hamburg,,,Q207934|Q79007,
+rue Raoul-Dufy,rue Raoul-Dufy,Q3449685,4,0,1,"street in Paris, France",,Q79007,,
+rue Raoul-Dufy,rue Raoul Dufy,Q110813017,4,0,1,street,,Q79007,,
+rue Raoul-Dufy,rue Raoul-Dufy,Q20682836,4,0,1,"street in Nantes, France",,Q79007,,
+rue Raoul-Dufy,rue Raoul Dufy,Q110310770,4,0,1,street,,Q79007,,
+rue Raoul-Dufy,Rue Raoul-Dufy,Q105732651,4,0,1,"street in Toulouse, Haute-Garonne, Occitania, France",,Q79007,,
+rue Lesage,rue Lesage,Q3448851,5,0,1,"street in Paris, France",,Q79007,,
+rue Lesage,rue Lesage,Q73389038,5,0,1,"street in Fontenay-sous-Bois, France",,Q79007,,
+rue Lesage,Rue Lesage,Q20641893,5,0,1,"street in Reims, France",Rue Lesage (Reims),Q79007,,
+rue Lesage,rue Lesage,Q16511005,5,0,1,"thoroughfare in Nantes, France",,Q83620|Q79007,,
+rue Lesage,rue Lesage,Q23297449,5,0,1,"thoroughfare in Rennes, France",,Q79007,,
+rue Lesage,Rue Lesage,Q133891752,5,0,1,,,Q79007,,
+rue Lesage,rue Lesage,Q108857424,5,0,1,street,,Q79007,,
+rue Lesage,Rue Lesage Senault,Q116144708,5,0,1,"street in Lille, Nord, Hauts-de-France, France",,Q79007,,
+rue Lesage,Rue Lesage,Q20440773,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gogolya Street,ulitsa Gogolya,Q56548205,6,0,1,street in Ufa,Gogolya Street,Q79007,,
+Gogolya Street,Gogolya Street,Q2188569,6,0,1,"street in Yekaterinburg, Russia",,Q79007,,
+Gogolya Street,Gogolya Street,Q130504084,6,0,1,"road in Kaluga, Russia",,Q34442,,
+Gogolya Street,Gogolya Street,Q19908575,6,0,1,"street in Yaroslavl, Russia",,Q79007,,
+Gogolya Street,Vulytsia Hoholia,Q60985789,6,0,1,"urban road located in Dnipro, Ukraine",Hoholya St|Gogolya Street|Hoholia Street|Hohol Street|Gogol Street,Q79007|Q54114,,
+Gogolya Street,Gogolya Street,Q108397895,6,0,1,"Russia, Elektrostal",,Q79007,,
+Gogolya Street,Gogolya Street,Q106485493,6,0,1,"street in Petrozavodsk, Russia",,Q79007,,
+Gogolya Street,Gogolya Street in Sevastopol,Q122840187,6,0,1,street in Sevastopol,,Q34442,,
+Gogolya Street,"Gogolya Street, 16 / Sanatorskaya Street, 6 (Yevpatoria)",Q122301657,6,0,1,,,Q2065736|Q55043|Q1244442,,
+Gogolya Street,Gogolya Street (Pavlovsk),Q21638051,6,0,1,"street in Pavlovsk, Saint Petersburg, Russia",,Q79007,,
+rue Santeuil,rue Santeuil,Q3450025,7,0,1,"street in Paris, France",rue de Santeuil,Q79007,,
+rue Santeuil,rue Santeuil,Q16511234,7,0,1,"thoroughfare in Nantes, France",,Q83620,,
+rue Santeuil,Rue Santeuil,Q3450024,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+Prospekt Lenina,Prospekt Lenina,Q4381196,8,0,1,"street in Vyborg, Russia",,Q79007|Q907698,,
+Prospekt Lenina,Lenina Avenue,Q16273391,8,0,1,"street in Barnaul, Altai Krai, Russia",Lenin Avenue|Lenin Prospect|Prospekt Lenina,Q907698|Q7543083,,
+Prospekt Lenina,Lenin Prospekt,Q4381208,8,0,1,,Prospekt Lenina,Q79007,,
+Prospekt Lenina,Tsentralnyi Prospekt,Q4381216,8,0,1,"prospekt in Mykolaiv, Ukraine","Central Avenue, Mykolaiv|Prospekt Tsentralnyi, Mykolaiv|Tsentralnyi Prospekt, Mykolaiv|vulytsya Khersonska|prospekt Lenina|Khersonska street|Lenin Avenue",Q907698,,
+Prospekt Lenina,Prospekt Lenina,Q67510907,8,0,1,avenue in city of Obninsk,,Q907698,,
+Prospekt Lenina,Prospekt Lenina,Q117822780,8,0,1,"street in Cherkessk, Karachayevo-Cherkesiya Republic, Russia",,Q7543083,,
+Prospekt Lenina,"Prospekt Lenina 109, Tomsk",Q60368111,8,0,1,"building in Tomsk, Russia",,Q41176,,
+Prospekt Lenina,Prospekt Lenina in Tomsk,Q4381220,8,0,1,"street in Tomsk, Russia",,Q79007,,
+Prospekt Lenina,Finnish Trade Bank,Q31086535,8,0,1,"building in Vyborg, Russia","Bank on Lenin Prospekt, 12 in Vyborg|Prospekt Lenina 12",Q18761864|Q2319498,,
+Prospekt Lenina,Lenin Avenue,Q2138098,8,0,1,"main street in Yekaterinburg, Russia",,Q907698,,"Lenin Avenue, Yekaterinburg"
+Main Street,U.S. Route 66,Q79934,9,0,1,former U.S. Numbered Highway in the United States,Route 66|the Mother Road|Will Rogers Highway|the Main Street of America|US 66|Rt. 66|US Route 66|US Highway 66|U.S. 66,Q34442,,U.S. Route 66
+Main Street,main street,Q1006835,9,0,1,generic street name of the primary retail street of a location,,,Q79007,Main Street
+Main Street,Main Street,Q119831746,9,0,1,podcast from Prairie Public Broadcasting,,Q24634210,,
+Main Street,Main Street,Q135264420,9,0,1,Tony Hawk's Project 8 level,Downtown,Q1046315,,
+Main Street,Main Street,Q111133237,9,0,1,"street in Bad Zurzach in the canton of Aargau, Switzerland","Hauptstrasse, Bad Zurzach|Hauptstrasse, Zurzach",Q79007,,
+Main Street,M-185,Q436192,9,0,1,"state highway in Michigan, United States",Lake Shore Road|Main Street,Q34442,,M-185 (Michigan highway)
+Main Street,"Valley Street, Cyrene",Q104671906,9,0,1,"street / causeway / stair in Cyrene, Libya",Main Street,Q34442|Q892168,,
+Main Street,Main Street,Q1660478,9,0,1,2010 film directed by John Doyle,,Q11424,,Main Street (2010 film)
+Main Street,Pennsylvania State Route 1002,Q1645945,9,0,1,"highway in Lehigh County, Pennsylvania",State Route 1002|SR 1002|Tilghman Street|Union Boulevard|Main Street,Q34442,,"State Route 1002 (Lehigh County, Pennsylvania)"
+Main Street,Main Street,Q6736088,9,0,1,children's novel series by Ann M. Martin,,Q277759,,Main Street (novel series)
+Main Street,"Main Street, USA",Q49981281,9,0,2,"part of Disneyland Park, Anaheim",Main Street USA at Disneyland,Q30224326,Q2088399,
+Main Street,"Main Street, U.S.A.",Q2088399,9,0,2,Themed land at Disney theme parks,Main Street U.S.A.,,Q30224326,"Main Street, U.S.A."
+Main Street,Main Street USA,Q49982322,9,0,2,,Main Street USA at Disneyland Paris,Q30224326,Q2088399,
+Main Street,"Main Street, U.S.A.",Q49981599,9,0,2,"part of Magic Kingdom, Florida",,Q2088399,,
+Main Street,Main Street USA,Q49982473,9,0,2,Themed area in Hong Kong Disneyland,,Q30224326,Q2088399,
+rue Duguay-Trouin,rue Duguay-Trouin,Q3447727,10,0,1,"street in Paris, France",,Q79007,,
+rue Duguay-Trouin,Rue Duguay-Trouin,Q106384931,10,0,1,"street in Neuilly-sur-Marne, France",,Q79007,,
+rue Duguay-Trouin,rue Duguay-Trouin,Q27909136,10,0,1,"street in Fougères, France",,Q79007,,
+rue Duguay-Trouin,Rue Duguay-Trouin,Q108545544,10,0,1,street,,Q79007,,
+rue Duguay-Trouin,rue Duguay-Trouin,Q108707141,10,0,1,street,,Q79007,,
+rue Lyautey,rue Lyautey,Q3448942,11,0,1,"street in Paris, France",,Q79007,,
+rue Lyautey,rue Lyautey,Q53865356,11,0,1,"street in Courbevoie, France",,Q79007,,
+rue Lyautey,rue Lyautey,Q113413750,11,0,1,"street in Épinay-sur-Seine, France",,Q79007,,
+rue Lyautey,Rue Maréchal Lyautey,Q104037596,11,0,1,"street in Vichy, France",Rue Lyautey|Rue du Maréchal-Lyautey,Q79007,,
+rue Lyautey,rue Lyautey,Q16511035,11,0,1,"thoroughfare in Nancy, France",,Q79007,,
+rue Lyautey,Rue Lyautey,Q16101904,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+rue Lyautey,place du Maréchal Lyautey,Q63027074,11,0,2,"square in Versailles, France",place Lyautey,Q174782,,
+rue Lyautey,avenue Lyautey,Q116270600,11,0,2,"avenue in Garches, France",,Q7543083,,
+Perekopskaya Street,Perekopskaya Street,Q4350409,12,0,1,"street in Zyuzino District, Russia",,Q79007,,
+Perekopskaya Street,Perekopskaya Street,Q4350410,12,0,1,"street in Saint Petersburg, Russia",,Q79007,,
+Perekopskaya Street,Perekopskaya Street,Q12139601,12,0,1,"street in Yevpatoria, Ukraine",,Q79007,,
+Perekopskaya Street,Perekopskaya Street 5,Q118152395,12,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,"Perekopskaya Street 8, Moscow",Q133105114,12,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,Perekopskaya Street 14 k1,Q118177206,12,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,Perekopskaya Street 10 k1,Q118177251,12,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,"Perekopskaya Street 27 k2, Moscow",Q133457841,12,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,"Perekopskaya Street 6, Moscow",Q133105101,12,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,"Perekopskaya Street 17 k1, Moscow",Q133457913,12,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,Perekopskaya Street,Q4350409,13,0,1,"street in Zyuzino District, Russia",,Q79007,,
+Perekopskaya Street,Perekopskaya Street,Q4350410,13,0,1,"street in Saint Petersburg, Russia",,Q79007,,
+Perekopskaya Street,Perekopskaya Street,Q12139601,13,0,1,"street in Yevpatoria, Ukraine",,Q79007,,
+Perekopskaya Street,Perekopskaya Street 5,Q118152395,13,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,"Perekopskaya Street 8, Moscow",Q133105114,13,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,Perekopskaya Street 14 k1,Q118177206,13,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,Perekopskaya Street 10 k1,Q118177251,13,0,1,building in Moscow,,Q41176,,
+Perekopskaya Street,"Perekopskaya Street 27 k2, Moscow",Q133457841,13,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,"Perekopskaya Street 6, Moscow",Q133105101,13,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,"Perekopskaya Street 17 k1, Moscow",Q133457913,13,0,1,building in Moscow,,Q13402009,,
+Perekopskaya Street,street,Q79007,13,0,2,public thoroughfare in a built environment like a village or city,st.|St|road|way,,Q376799|Q811979|Q34442,Street
+Perekopskaya Street,Street,Q16883913,13,0,2,family name,,Q101352,,Street (surname)
+Perekopskaya Street,Street,Q1249656,13,0,2,"large village and civil parish in the county of Somerset, England","Street, Somerset",Q532|Q1115575,,"Street, Somerset"
+Perekopskaya Street,brown rat,Q184224,13,0,2,species of mammal,street rat|sewer rat|wharf rat|water rat|Parisian rat|Norwegian rat|Norway rat|Rattus norvegicus|🐀|rat|Hanover rat,Q16521|Q213907,,Brown rat
+Perekopskaya Street,Street,Q86741175,13,0,2,2015 album by Tsubasa Mori,,Q482994,,
+Perekopskaya Street,Street,Q20816862,13,0,2,painting by Joaquín Torres-García,,Q3305213,,
+Perekopskaya Street,tram stop,Q2175765,13,0,2,place designated for a tram to stop so passengers can board or leave,tram station|light rail station|streetcar stop|streetcar station|trolley stop|trolley station|light rail stop,Q11668217,Q124673697|Q112796050|Q12819564,Tram stop
+Perekopskaya Street,road bridge,Q537127,13,0,2,bridge that carries road traffic,street bridge|roadbridge,Q17644912,Q12280,Road bridge
+Perekopskaya Street,Google Street View,Q213602,13,0,2,technology featured in Google Maps and Google Earth that provides panoramic views from positions along many streets in the world,Street View|Streetview|Google Streetview|Street-View|Google Street-View|Stanford CityBlock Project,Q35127|Q7397|Q86715518,,Google Street View
+Perekopskaya Street,Teddy Riley,Q927450,13,0,2,American record producer and songwriter (born 1967),Street|Lil Man|Swingbeat|The Finisher|Jam,Q5,,Teddy Riley
+Perekopskaya Street,Perekopskaya,Q19824991,13,0,2,"human settlement in Kletsky District, Volgograd Oblast, Russia",,Q748331|Q532,,Perekopskaya
+Perekopskaya Street,odonym,Q1640962,13,0,2,proper name of a thoroughfare,street name|thoroughfare name|hodonym|godonym|road name,Q134599141,Q4476866,Street name
+Perekopskaya Street,Street name directory Zurich,Q27320908,13,0,2,,,Q1172284|Q2352616,,
+Perekopskaya Street,"road, street, or station name is not unique",Q61912437,13,0,2,Wikidata-specific criterion related to disambiguation pages,"road, street, or station name refers to multiple locations, entities|road name is not unique|street name is not unique|station name is not unique|road or street name is not unique",Q56062113,Q24005632,
+Perekopskaya Street,Street Name,Q97330772,13,0,2,series of MUTCD signs,D3|MUTCD series D3: Street Name,Q66671292,Q1969455,
+Perekopskaya Street,Street Name,Q97330805,13,0,2,MUTCD street name sign,D3-1|MUTCD street name sign,Q109772990,Q1969455,
+Perekopskaya Street,Street Names of the City of Helsinki,Q105615864,13,0,2,,,Q8513,,
+Perekopskaya Street,street name sign,Q1969455,13,0,2,traffic sign used to identify named streets,street sign,Q124709316,Q105449313|Q109648042|Q1640824,Street name sign
+Perekopskaya Street,street cadastre of Bonn,Q15701662,13,0,2,official catalogue of streets in Bonn,street names in Bonn,Q130739099,,
+Perekopskaya Street,street name,Q126733483,13,0,2,type of inscription in epigraphy,,Q124709316,Q1640824,
+Perekopskaya Street,Street names of Manchester,Q85803732,13,0,2,,,,,Street names of Manchester
+96th Street,96th Street,Q4646118,14,0,1,New York City Second Avenue Subway station,,Q928830|Q22808403,,96th Street station (Second Avenue Subway)
+96th Street,96th Street,Q2076201,14,0,1,New York City IRT Broadway – Seventh Avenue Line subway station,,Q928830|Q22808403,,96th Street station (IRT Broadway–Seventh Avenue Line)
+96th Street,96th Street,Q2982555,14,0,1,New York City IRT Lexington Avenue Line subway station,,Q928830|Q22808403,,96th Street station (IRT Lexington Avenue Line)
+96th Street,96th Street,Q2613094,14,0,1,New York City IND Eighth Avenue Line subway station,,Q928830|Q22808403,,96th Street station (IND Eighth Avenue Line)
+96th Street,96th Street,Q277081,14,0,1,major two-way street in East Harlem and the Upper West Side,,Q79007,,96th Street (Manhattan)
+96th Street,Islamic Cultural Center of New York,Q1674095,14,0,1,mosque and cultural center in New York City,96th Street Mosque|New York Mosque,Q32815,,Islamic Cultural Center of New York
+96th Street,96th Street Library,Q69968656,14,0,1,"public library in Manhattan, New York, USA","96th Street Branch|96th Street Library, New York Public Library|NYPL 96th Street Library",Q11396180|Q28564|Q856584|Q1043939,,
+96th Street,96th Street Theatre,Q45105038,14,0,1,"former movie theater in Yorkville, Manhattan, New York City, United States",New Third Avenue Theatre|Yorkville Theatre|National Theatre,Q41253|Q19860854,,
+96th Street,96th Street,Q2678774,14,0,1,Wikimedia disambiguation page,,Q4167410,,96th Street
+96th Street,96th Street Station,Q106477795,14,0,1,Wikimedia disambiguation page,,Q4167410,,
+rue des Pavillons,rue des Pavillons,Q3451951,15,0,1,"street in Paris, France",,Q79007,,
+rue des Pavillons,Rue des Pavillons,Q105608942,15,0,1,"street in Saint-Maur-des-Fossés, France",,Q79007,,
+rue des Pavillons,rue des Pavillons,Q120493978,15,0,1,"street of Athis-Mons, in France",,Q79007,,
+rue des Pavillons,Rue des Pavillons,Q108784350,15,0,1,"street in Bry-sur-Marne, France",,Q79007,,
+rue des Pavillons,rue des Pavillons,Q116271553,15,0,1,"street in Suresnes, France",,Q79007,,
+rue des Pavillons,Rue des Pavillons,Q101029097,15,0,1,"street in Vitry-sur-Seine, France",,Q79007,,
+rue des Pavillons,rue des Pavillons,Q115798891,15,0,1,"street in Nanterre, France",,Q79007,,
+rue des Pavillons,Rue des Pavillons,Q87747223,15,0,1,"street of Montreuil in Seine-Saint-Denis, France",,Q79007,,
+rue des Pavillons,rue des Pavillons,Q115826474,15,0,1,"street in Puteaux, France",,Q79007,,
+rue des Pavillons,rue des Pavillons,Q20682628,15,0,1,"street in Nantes, France",,Q79007,,
+rue des Pavillons,avenue des Pavillons,Q2874113,15,0,2,"avenue in Paris, France",,Q7543083,,
+rue des Pavillons,avenue des Pavillons,Q114858778,15,0,2,"avenue in Colombes, France",,Q7543083,,
+rue des Pavillons,avenue des Pavillons,Q114860652,15,0,2,"avenue in Bois-Colombes, France",,Q7543083,,
+rue des Pavillons,avenue des Pavillons-sous-Bois,Q113447406,15,0,2,"avenue in Aulnay-sous-Bois, France",,Q7543083,,
+rue des Pavillons,Avenue des Pavillons,Q129867607,15,0,2,,,Q7543083,,
+rue Fulton,rue Fulton,Q3448028,16,0,1,"street in Paris, France",,Q79007,,
+rue Fulton,Rue Fulton,Q105608880,16,0,1,"street in Saint-Maur-des-Fossés, France",,Q79007,,
+rue Fulton,Rue Fulton - Fultonstraat,Q85058417,16,0,1,"street in Brussels, Belgium",Rue Fulton|Fultonstraat,Q79007,,
+rue Fulton,rue Fulton,Q20681576,16,0,1,"street in Nantes, France",,Q79007,,
+rue Fulton,Fulton Street,Q2616792,16,0,1,New York City IND Crosstown Line subway station,,Q928830|Q22808403,,Fulton Street station (IND Crosstown Line)
+rue Fulton,Fulton Street,Q5508460,16,0,1,"New York City Subway station in Brooklyn, New York",,Q928830|Q22808404,,Fulton Street station (BMT Fifth Avenue Line)
+rue Fulton,Rue Fulton,Q116144605,16,0,1,"street in Lille, Nord, Hauts-de-France, France",,Q79007,,
+rue Fulton,Fulton Street,Q5508461,16,0,2,"street in Brooklyn, New York, USA",Fulton St,Q21000333|Q79007,,Fulton Street (Brooklyn)
+rue Fulton,Fulton Street,Q2982552,16,0,2,New York City subway station,,Q928830|Q22808403,,Fulton Street station (New York City Subway)
+rue Fulton,Fulton Street,Q685083,16,0,2,street in Manhattan,,Q79007,,Fulton Street (Manhattan)
+rue Fulton,Fulton Street,Q77473088,16,0,2,painting by Ferdinand Warren,,Q3305213,,
+rue Fulton,Fulton Street Line,Q5508467,16,0,2,Brooklyn–Manhattan Transit Corporation elevated line,,Q15079663,,Fulton Street Line (elevated)
+rue Fulton,Fulton street,Q115270062,16,0,2,"street in Horta, Barcelona",,Q79007,,
+rue Fulton,Fulton Street,Q122371249,16,0,2,"street in San Francisco, California",Fulton Street (San Francisco),Q34442,,Fulton Street (San Francisco)
+rue Fulton,Fulton Street,Q5508463,16,0,2,"New York City Subway station in Manhattan, New York",,Q928830|Q22808404,,Fulton Street station (IRT Third Avenue Line)
+rue Fulton,Fulton Avenue,Q111928947,16,0,2,"street in Baltimore, Maryland, United States",,Q79007,,
+rue Fulton,Fulton Avenue Park,Q49492419,16,0,2,"park in Hudson County, New Jersey, United States of America",,Q22698,,
+Bundesallee,Bundesallee,Q1005415,17,0,1,"street in Berlin, Germany",Kaiserallee,Q79007,,
+Bundesallee,Bundesallee,Q1005413,17,0,1,"street in Wuppertal, North Rhine-Westphalia, Germany",,Q79007|Q561431,,
+Bundesallee,Bundesallee,Q109533390,17,0,1,"street in Berlin-Wilmersdorf, Germany","Bundesallee, Berlin-Wilmersdorf|Bundesallee (Berlin-Wilmersdorf)",Q13196193|Q79007,,
+Bundesallee,Bundesallee 57-58,Q111253084,17,0,1,,,Q2519340,,
+Bundesallee,"Bundesallee 104, Rheinstraße 39",Q56234725,17,0,1,"building in Berlin-Friedenau, Germany",Konfektionshaus Ebbinghaus,Q811979,,
+Bundesallee,Mietshaus Bundesallee 67 Mainauer Straße 1,Q61769114,17,0,1,listed architectural structure in Berlin-Friedenau,,Q811979,,
+Bundesallee,Bundesallee 129,Q61769111,17,0,1,listed architectural structure in Berlin-Friedenau,,Q811979,,
+Bundesallee,Bundesallee 139,Q61769110,17,0,1,listed architectural structure in Berlin-Friedenau,,Q811979,,
+Bundesallee,Mietshaus Friedrich-Wilhelm-Platz 9 Bundesallee 130 Schmiljanstraße 1,Q61769096,17,0,1,listed architectural structure in Berlin-Friedenau,,Q811979,,
+Bundesallee,Pfarrhaus Bundesallee 76 & 76A Goßlerstraße 30,Q61769113,17,0,1,listed architectural structure in Berlin-Friedenau,,Q811979,,
+Bundesallee,Berliner Allee,Q821388,17,0,2,"Arterial road in Hanover, Germany",,Q79007|Q83620,,
+Bundesallee,Berliner Allee,Q821393,17,0,2,"street in Berlin, Germany",Klement-Gottwald-Allee,Q79007|Q561431,,
+Bundesallee,Berliner Allee,Q112156893,17,0,2,"street in Rehau, County Hof, Upper Franconia, Bavaria, Germany",,Q34442,,
+Bundesallee,Berliner Allee,Q821390,17,0,2,"architectural structure in Düsseldorf, Germany",,Q79007|Q1788582,,
+Bundesallee,Berliner Allee,Q100461426,17,0,2,"street in Augsburg, Bayern, Germany",,Q79007,,
+Bundesallee,Berliner Allee,Q101553526,17,0,2,"street in Beelitz, Brandenburg, Germany",,Q79007,,
+Bundesallee,Berliner Allee,Q136657896,17,0,2,,,Q2175765,,
+Bundesallee,Berliner Allee,Q116845707,17,0,2,"street in Gumtow, Brandenburg, Germany",,Q79007,,
+Bundesallee,Berliner Allee,Q101570970,17,0,2,"street in Werneuchen, Brandenburg, Germany",,Q79007,,
+Bundesallee,Berliner Allee,Q101495532,17,0,2,"street in Altlandsberg, Brandenburg, Germany",,Q79007,,
+Bundesallee,Bundesstraße,Q561431,17,0,2,denotation for German and Austrian national highways,Bundesstrasse|B,Q7860962,Q2145163|Q1716124,Bundesstraße
+Bundesallee,Bundesstraße 16,Q34480,17,0,2,federal highway in Germany,,Q561431,,Bundesstraße 16
+Bundesallee,Bundesstraße 41,Q34548,17,0,2,federal highway in Germany,,Q561431,,
+Bundesallee,Bundesstraße 166,Q52775,17,0,2,federal highway in Germany,,Q561431,,
+Bundesallee,Bundesstraße 294,Q1007008,17,0,2,federal highway in Germany,,Q561431,,
+Bundesallee,Bundesstraße 258,Q1006909,17,0,2,federal highway in Germany,,Q561431,,Bundesstraße 258
+Bundesallee,Bundesstraße 317,Q881530,17,0,2,federal highway in Germany,,Q561431,,
+Bundesallee,Bundesstraße 15,Q34478,17,0,2,federal highway in Germany,,Q561431,,Bundesstraße 15
+Bundesallee,Bundesstraße 22,Q34492,17,0,2,federal highway in Germany,,Q561431,,Bundesstraße 22
+Bundesallee,Bundesstraße 283,Q1006976,17,0,2,federal highway in Germany,,Q561431,,
+Altenbekener Damm,Altenbekener Damm,Q436653,18,0,1,"street in Hannover, Germany",,Q79007,,
+Altenbekener Damm,Altenbekener Damm,Q63344978,18,0,1,"Light rail stop in Hanover, Germany",,Q22808403|Q2175765,,
+Altenbekener Damm,"Altenbekener Damm 32, Hannover",Q124663214,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 28, Hannover",Q124663055,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 38, Hannover",Q124663425,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 30, Hannover",Q124663104,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 26, Hannover",Q124663046,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 24, Hannover",Q124663466,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 22, Hannover",Q124663448,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Altenbekener Damm,"Altenbekener Damm 34, Hannover",Q124663326,18,0,1,"Listed building in Hannover-Südstadt, Germany",,Q11755880,,
+Bankgasse,Bankgasse,Q806745,19,0,1,street in Vienna,,Q79007,,
+Bankgasse,Bankgasse,Q100491995,19,0,1,"street in Nuremberg, Bavaria, Germany",,Q79007,,
+Bankgasse,Bankgasse robbery,Q66967681,19,0,1,,,Q53706|Q1371150,,
+Bankgasse,Bankgasse 5,Q1495427,19,0,1,"building in Garmisch-Partenkirchen, Germany",Gasthaus Isis Goldener Engel,Q256020,,
+Bankgasse,Bankgasse 3,Q38026892,19,0,1,"building in Innere Stadt, Austria",,Q18761864,,
+Bankgasse,Bankgasse 9,Q41219091,19,0,1,"building in Garmisch-Partenkirchen, Upper Bavaria, Germany",,Q3947,,
+Bankgasse,Concordia-Haus,Q38026861,19,0,1,"building in Innere Stadt, Austria",,Q41176,,
+Rue Saint-Fiacre,Rue Saint-Fiacre,Q3449870,20,0,1,"thoroughfare in Paris, France",,Q79007,,
+Rue Saint-Fiacre,rue Saint-Fiacre,Q116227911,20,0,1,"street in Le Plessis-Robinson, France",,Q79007,,
+Rue Saint-Fiacre,Rue Saint-Fiacre,Q105608709,20,0,1,"street in Saint-Maur-des-Fossés, France",,Q79007,,
+Rue Saint-Fiacre,rue Saint-Fiacre,Q16511096,20,0,1,"thoroughfare in Nancy, France",,Q79007,,
+Rue Saint-Fiacre,rue Saint-Fiacre,Q63027412,20,0,1,"street in Versailles, France",,Q79007,,
+Rue Saint-Fiacre,Rue Saint Fiacre,Q106637151,20,0,1,street,,Q79007,,
+Rue Saint-Fiacre,rue Saint-Fiacre,Q125954284,20,0,1,"thoroughfare in Saint-Malo, France",,Q79007,,
+Rue Saint-Fiacre,rue Saint Fiacre,Q97151404,20,0,1,,,Q79007,,
+Rue Saint-Fiacre,rue Saint-Fiacre,Q27147493,20,0,1,"street in Mulhouse, France",,Q79007,,
+Rue Saint-Fiacre,Rue Saint-Fiacre,Q16101910,20,0,1,"street in Paris, France",,Q4167410,,

@@ -1,0 +1,95 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bergamak volost,Bergamak Volost,Q4083977,0,0,1,,,Q20732405|Q687121,,
+Bergamak,Bergamak,Q4083979,0,1,1,river in Russia,,Q4022,,
+Bergamak,Bergamak,Q19965966,0,1,1,"village in Muromtsevsky District, Russia",,Q532,,
+Bergamak,Bergamak Volost,Q4083977,0,1,1,,,Q20732405|Q687121,,
+Bergamak,Bergamakskaya Lesnaya Dacha,Q31914457,0,1,1,,,Q4421,,
+Bergamak,Bergamak,Q4083978,0,1,1,"human settlement in Muromtsevsky District, Omsk Oblast, Russia",,Q634099,,
+Tashyovka volost,Tashyovka Volost,Q25555309,1,0,1,subdivision of the Russian Empire,Taşqabaq volost,Q20732405,,
+Tashyovka volost,Taşqabaq,Q13207344,1,0,2,"human settlement in Yuğarı Oslan District, Tatarstan",Tashyovka,Q532,,
+Tashyovka,Taşqabaq,Q13207344,1,1,1,"human settlement in Yuğarı Oslan District, Tatarstan",Tashyovka,Q532,,
+Tashyovka,Tashyovka Volost,Q25555309,1,1,1,subdivision of the Russian Empire,Taşqabaq volost,Q20732405,,
+Chuguyevskaya Volost',Chuguyevskaya Volost',Q12170712,2,0,1,administrative subdivision of Zmiyovsky Uyezd,,Q20732405|Q28706608,,
+Chuguyevskaya Volost',Chuguyevsky,Q5115978,2,0,2,Wikimedia disambiguation page,Chuguyevskaya|Chuguyevskoye,Q4167410,,Chuguyevsky
+Chuhuiv,Chuhuiv,Q889618,2,1,1,city of Ukraine,Chuguev|Chuguyev,Q5123999|Q486972,,Chuhuiv
+Chuhuiv,Chuhuiv Raion,Q2216859,2,1,1,"former raion in Kharkiv Oblast, Ukraine (1923-2020)",,Q114072597,,
+Chuhuiv,Chuhuiv Raion,Q103860660,2,1,1,"raion in Kharkiv Oblast, Ukraine (established in 2020)",,Q1267632,,Chuhuiv Raion
+Chuhuiv,Chuhuiv,Q28706922,2,1,1,railway station in Ukraine,,Q55488,,
+Chuhuiv,Chuhuiv Military School,Q4517548,2,1,1,,,Q1935049,,
+Chuhuiv,Highway H26,Q4056217,2,1,1,road in Ukraine,Chuhuiv - Milove,Q34442,,Highway H26 (Ukraine)
+Chuhuiv,Chuhuiv City Council,Q4517542,2,1,1,,,Q33101426,,
+Chuhuiv,Chuhuiv air base attack,Q111143088,2,1,1,missile attack during the 2022 Russian invasion of Ukraine,,Q645883,,Chuhuiv air base attack
+Chuhuiv,flag of Chuhuiv Raion,Q20097489,2,1,1,,Chuhuiv Raion flag,Q22807280,,
+Chuhuiv,Chuhuiv air base,Q111511673,2,1,1,,,Q695850,,
+Chuhuiv,Chuguyev,Q83642745,2,1,2,ship built in 1956,IMO 5072230,Q11446,,
+Chuhuiv,Chuguyevskaya Volost',Q12170712,2,1,2,administrative subdivision of Zmiyovsky Uyezd,,Q20732405|Q28706608,,
+Chuhuiv,Chuguyevka,Q838717,2,1,2,military airbase,,Q695850,,Chuguyevka (air base)
+Chuhuiv,Chuguyevka,Q32650480,2,1,2,river in Russia,,Q4022,,
+Chuhuiv,Chuhuyivka Raion,Q1651662,2,1,2,"district in Primorsky Krai, Russia",,Q2198484|Q3350075,,Chuguyevsky District
+Chuhuiv,Chuhuyivka,Q7320272,2,1,2,"human settlement in Chuguyevsky District, Primorsky Krai, Russia",,Q532,,Chuguyevka (rural locality)
+Chuhuiv,Chuguyevka,Q5115976,2,1,2,Wikimedia disambiguation page,,Q4167410,,Chuguyevka
+Chuhuiv,Chuguyevsky District,Q4517546,2,1,2,Wikimedia disambiguation page,,Q4167410,,Chuguyevsky District (disambiguation)
+Chuhuiv,Chuguyevsky,Q5115978,2,1,2,Wikimedia disambiguation page,Chuguyevskaya|Chuguyevskoye,Q4167410,,Chuguyevsky
+Kistenyovskaya Volost,Kistenyovskaya Volost,Q106410555,3,0,1,administrative subdivision of Rogachyov Uyezd,,Q20732405|Q21073970,,
+Kisciani,Kisciani,Q4222309,3,1,1,village in Belarus,,Q1989945,,
+Kisciani,Kiscianioŭski sieĺsaviet,Q4222316,3,1,1,sieĺsaviet of Belarus,,Q15071808,,
+Kisciani,Kisciani,Q20473802,3,1,1,,,Q65661087,,
+Kisciani,Kiscianioŭski Sieĺsaviet,Q126922438,3,1,1,sieĺsaviet of Belarus (1924–1960),,Q15071808|Q19953632,,
+Plisa volost,Plisa Volost,Q117459952,4,0,1,,,Q20732405,,
+Plisa,Plisa,Q3917948,4,1,1,"village in Hlybokaje district, Belarus",Plissa,Q65661087,,
+Plisa,Plisa,Q13029940,4,1,1,village in Belarus,,Q65661087,,
+Plisa,Plisa,Q312316,4,1,1,"river in Belarus, left-side tributary of the Neman",,Q4022|Q355304,,
+Plisa,Plisa,Q4365110,4,1,1,lake in Belarus,,Q23397,,
+Plisa,Gmina Plisa,Q11700573,4,1,1,municipality in Second Polish Republic,Plisa Municipality,Q19730508,,
+Plisa,"Plisa, tributary of Berezina",Q2499547,4,1,1,river in Belarus,,Q4022|Q355304,,
+Plisa,Pliski district,Q13031988,4,1,1,district of Belarus,Plisa district,Q20719675|Q19953632,,
+Plisa,Plisa,Q18475826,4,1,1,"human settlement in Mareo, South Tyrol, Italy",,Q486972,,
+Plisa,Plissa Ghetto,Q4137766,4,1,1,Nazi ghetto in occupied Belarus,Plisa Ghetto,Q2583015,,
+Plisa,Plisat,Q111972874,4,1,1,,,,,Plisat
+Plisa,Plisa Volost,Q117459952,4,1,2,,,Q20732405,,
+Moyseyevka Volost,Moyseyevka Volost,Q12130878,5,0,1,subdivision of the Russian Empire,Moyseevka Volost|Moiseevka Volost,Q20732405,,
+Musiivka,Musiivka,Q4308351,5,1,1,"village in Milove Raion, Luhansk Oblast, Ukraine",,Q21672098,,
+Musiivka,Musiivka,Q4308350,5,1,1,"village in Kryvyi Rih Raion, Dnipropetrovsk Oblast (province), Ukraine",Musiyevka|Musievka|Moyseyevka|Moyseevka|Moiseevka,Q2514025|Q486972,,
+Musiivka,Musiivka,Q12130877,5,1,1,"railway station in Musiivka, Ukraine",,Q55488,,
+Musiivka,Musiivka,Q4308349,5,1,1,"village in Vesele Raion (district), Zaporizhia Oblast (province), Ukraine",,Q21672098,,
+Musiivka,Musiivka,Q4308352,5,1,1,"village in Nikopol Raion, Dnipropetrovsk Oblast (province), Ukraine",,Q21672098,,
+Musiivka,Musiyivka,Q4308354,5,1,1,"village in Ruzhyn Raion, Zhytomyr Oblast, Ukraine",,Q21672098,,
+Musiivka,Musiivka,Q4308355,5,1,1,,,Q4414033,,
+Musiivka,Musiyivka,Q4308356,5,1,1,"village in Khorol Raion, Poltava Oblast, Ukraine",,Q21672098,,
+Musiivka,Musiivka,Q20022980,5,1,1,,,Q4414033,,
+Musiivka,Musiyivka,Q4308348,5,1,1,"village in Zhytomyr Raion, Zhytomyr Oblast, Ukraine",,Q21672098,,
+Yablonovskaya Volost',Yablonovskaya Volost',Q12173265,6,0,1,administrative subdivision of Lubenskiy Uyezd,,Q20732405|Q28706608,,
+Iabluneve,Iabluneve,Q4535832,6,1,1,"village in Orzhytsia Raion, Poltava Oblast, Ukraine",,Q21672098,,
+Iabluneve,Iabluneve,Q4535836,6,1,1,"village in Baryshivka Raion, Kyiv Oblast, Ukraine",,Q21672098,,
+Iabluneve,Iabluneve,Q4535835,6,1,1,"village in Novohrad-Volynskyi Raion, Zhytomyr Oblast, Ukraine",,Q21672098,,
+Iabluneve,Iabluneve,Q4535839,6,1,1,,,Q4414033,,
+Iabluneve,Yabluneve,Q4535838,6,1,1,"village in Krynychky Raion, Dnipropetrovsk Oblast (province), Ukraine",,Q21672098,,
+Sumskaya Volost',Sumskaya Volost',Q12158668,7,0,1,administrative subdivision of Sumskoy Uyezd,,Q20732405|Q28706608,,
+Sumskaya Volost',Sumy Oblast,Q170446,7,0,2,administrative division (oblast) in the north of Ukraine,Sums’ka oblast|Sumshchyna,Q3348196,,Sumy Oblast
+Sumskaya Volost',flag of Sumy Oblast,Q2088121,7,0,2,,Sumy Oblast flag,Q22807280,,
+Sumskaya Volost',coat of arms of Sumy Oblast,Q4136813,7,0,2,,Sumy Oblast coat of arms,Q14659,,
+Sumskaya Volost',Sumy Oblast Council,Q9348124,7,0,2,"legislature of Sumy Oblast, Ukraine",,Q12134915,,Sumy Oblast Council
+Sumskaya Volost',COVID-19 pandemic in Sumy Oblast,Q104720092,7,0,2,,"Sumy Oblast COVID-19 pandemic|2020 Sumy Oblast COVID-19 pandemic|COVID pandemic in Sumy Oblast|COVID-19 pandemic in Sumy Oblast, Ukraine",Q3241045,,
+Sumskaya Volost',Russian occupation of Sumy Oblast,Q111730756,7,0,2,military occupation in Ukraine,,Q20094029|Q188686,,Russian occupation of Sumy Oblast
+Sumskaya Volost',Sumy Regional Institute of Postgraduate Pedagogical Education,Q97175454,7,0,2,,,Q38723|Q141212,,
+Sumskaya Volost',Sumy Regional Universal Scientific Library named after N. K. Krupska,Q12158676,7,0,2,library,,Q7075,,
+Sumy,Sumy,Q156752,7,1,1,city and capital of Sumy Oblast in north-eastern Ukraine,,Q5123999|Q12134916,,Sumy
+Sumy,Krasnaja Iskra,Q20475253,7,1,1,village in Belarus,Sumy,Q65661087,,
+Sumy,Sumy Oblast,Q170446,7,1,1,administrative division (oblast) in the north of Ukraine,Sums’ka oblast|Sumshchyna,Q3348196,,Sumy Oblast
+Sumy,Sumy Raion,Q2633752,7,1,1,"former raion in Sumy Oblast, Ukraine",,Q114072597,,
+Sumy,Sumy,Q9348123,7,1,1,station in Ukraine,Sumy railway station,Q55488,,Sumy railway station
+Sumy,Sumy,Q19826879,7,1,1,"village in Kargatsky District, Russia",,Q532,,
+Sumy,Sumy urban hromada,Q65080198,7,1,1,"territorial hromada in Sumy Raion, Sumy Oblast, Ukraine",Sumy hromada|Sumy territorial hromada|Sumy urban territorial hromada,Q4291381|Q104841013,,Sumy urban hromada
+Sumy,Sumyang,Q13097493,7,1,1,"village in Klaten Regency, Central Java, Indonesia",Sumiyang|Desa Sumiyang,Q26211545,,
+Sumy,Sumyya Waliullah,Q101050604,7,1,1,researcher,,Q5,,
+Sumy,Sumyyah Toonsi,Q107926541,7,1,1,researcher,,Q5,,
+Sumy,Sumskaya Volost',Q12158668,7,1,2,administrative subdivision of Sumskoy Uyezd,,Q20732405|Q28706608,,
+Kurisove-Pokrovskoe Volost,Kurisove-Pokrovskoe Volost,Q12116083,8,0,1,subdivision of the Russian Empire,,Q20732405,,
+Kurisove,Kurisove,Q4361004,8,1,1,"village in Berezivka Raion (district), Odesa Oblast, Ukraine. Residence of Kurisove rural hromada (municipality)",Kurisovo,Q21672098,,
+Kurisove,Kurisove rural hromada,Q102685118,8,1,1,"municipality (hromada) in Berezivka Raion, Odesa Oblast, Ukraine",Kurisove municipality|Kurisove Hromada,Q104841013,,Kurisove rural hromada
+Kurisove,Kurisove-Pokrovskoe Volost,Q12116083,8,1,1,subdivision of the Russian Empire,,Q20732405,,
+Novopavlovskaya Volost',Novopavlovskaya Volost',Q111820882,9,0,1,administrative subdivision of Taganrogskiy Okrug,,Q20732405|Q21073970,,
+Talalaivka volost,Talalaivka Volost,Q12159805,10,0,1,,,Q20732405,,
+Talalaivka volost,Romensky Uyezd,Q4397568,10,0,2,"uezd in Poltava, Russian Empire",Romensky Povit,Q18867465,,Romensky Uyezd
+Romensky Uyezd,Romensky Uyezd,Q4397568,10,1,1,"uezd in Poltava, Russian Empire",Romensky Povit,Q18867465,,Romensky Uyezd
+Romensky Uyezd,Talalaivka Volost,Q12159805,10,1,2,,,Q20732405,,

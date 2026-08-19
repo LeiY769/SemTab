@@ -1,0 +1,196 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Strezh,Strezh,Q35423998,0,0,1,"stream in Perm Krai, Russia",,Q4022,,
+Strezh,Strezh,Q4443558,0,0,1,"human settlement in Chernushinsky District, Perm Krai, Russia",,Q1782540,,Strezh
+Strezh,Strezhevoy,Q180082,0,0,1,"human settlement in Strezhevoy Urban Okrug, Tomsk Oblast, Russia",,Q192287|Q7930989,,Strezhevoy
+Strezh,Strezhevoy Urban Okrug,Q10821955,0,0,1,human settlement in Russia,,Q13626398,,
+Strezh,Strezhevoy Airport,Q3606095,0,0,1,airport in Russia,SWT|UNSS,Q1248784|Q94993988,,Strezhevoy Airport
+Strezh,Strezhinka,Q35424011,0,0,1,"river in Tver Oblast, Russia",,Q4022,,
+Strezh,Strezhnevaya,Q3731528,0,0,1,river in Russia,,Q4022,,
+Strezh,Sterzhnevsky lodgement,Q4443569,0,0,1,,Sterznevsky lodgement|Strezhnevsky lodgement|Streznevsky lodgement,Q178561|Q1095498|Q4989906,,
+Strezh,Strezhenskyi,Q35554869,0,0,1,river in Ukraine,,Q4022,,
+Strezh,Strezhevoy,Q122787062,0,0,1,ship built in 1976,IMO 7640861,Q11446,,
+Roanoke,Roanoke,Q501796,1,0,1,"independent city in Virginia, United States","Roanoke, Virginia|Roanoke, VA",Q1266818|Q62049|Q1782540,,"Roanoke, Virginia"
+Roanoke,Roanoke,Q122377662,1,0,1,2018 video game,,Q7889,,
+Roanoke,ROANOKE,Q135034258,1,0,1,video game developed by JagerHausGames,,Q7889,,
+Roanoke,Roanoke,Q79278,1,0,1,"city in Randolph County, Alabama, United States","Roanoke, Alabama|Roanoke, AL",Q1093829,,"Roanoke, Alabama"
+Roanoke,Roanoke Rapids,Q2028322,1,0,1,"city in Halifax County, North Carolina, United States","Roanoke Rapids, North Carolina|Roanoke Rapids, NC",Q1093829|Q132680629,,"Roanoke Rapids, North Carolina"
+Roanoke,Roanoke,Q969223,1,0,1,"city in Denton County, Texas, United States","Roanoke, Texas|Roanoke, TX",Q1093829,,"Roanoke, Texas"
+Roanoke,Roanoke,Q18755146,1,0,1,train station in Virginia,Roanoke station,Q55488,,Roanoke station
+Roanoke,Roanoke,Q2356282,1,0,1,"village in Woodford County, Illinois, United States","Roanoke, Illinois|Roanoke, IL",Q110071217,,"Roanoke, Illinois"
+Roanoke,Roanoke River,Q1584933,1,0,1,"river in Virginia and North Carolina, United States",Staunton River,Q4022,,Roanoke River
+Roanoke,Roanoke,Q63565585,1,0,1,fictional city from the 2014 video game Contagion,,Q1964689,,
+Roanoke,Roanoke Colony,Q59222,1,0,2,"former colony in present-day Dare County, North Carolina, US (1585–1590)",Lost Colony|The Lost Colony,Q74047|Q133156,,Roanoke Colony
+Ubukun,Ubukun,Q19917108,2,0,1,"river in Buryatia, Russia",,Q4022,,
+Ubukun,Ubukun,Q18409688,2,0,1,"human settlement in Selenginsky District, Republic of Buryatia, Russia",,Q1782540,,Ubukun
+Ubukun,Ubukun railway station,Q19917111,2,0,1,railway station in Russia,,Q55488,,
+Ubukun,economy of Africa,Q580864,2,0,1,economy of the continent,Africa economy|economy in Africa|economy (Africa)|Africa's economy|African economy,Q100773131,Q473750,Economy of Africa
+Ubukun,economy of Rwanda,Q966227,2,0,1,economy of the country,,Q6456916,Q580864,Economy of Rwanda
+Ubukun,economy of the African Union,Q5333816,2,0,1,economy of the region,,Q100773131,,Economy of the African Union
+Sosnovy Bor,Sosnovy Bor,Q15335,3,0,1,"city in Leningrad Oblast, Russia",,Q7930989,,"Sosnovy Bor, Leningrad Oblast"
+Sosnovy Bor,Sosnovy Bor,Q18801698,3,0,1,"human settlement in Polyanskoe Rural Settlement, Vyborgsky District, Leningrad Oblast, Russia",,Q2514025,,
+Sosnovy Bor,Sosnovy Bor,Q4429729,3,0,1,Military garrison in Buryatia,,Q18691599,,Sosnovy Bor (garrison)
+Sosnovy Bor,Sosnovy Bor,Q19860008,3,0,1,"human settlement in Petushinsky District, Vladimir Oblast, Russia",,Q2514025,,"Sosnovy Bor, Petushinsky District, Vladimir Oblast"
+Sosnovy Bor,Sosnovy Bor,Q12154660,3,0,1,"human settlement in Boksitogorsky District, Leningrad Oblast, Russia",,Q5084,,
+Sosnovy Bor,Sosnovy Bor,Q1053763,3,0,1,"human settlement in Belebeyevsky District, Republic of Bashkortostan, Russia",,Q5084,,"Sosnovy Bor, Belebeyevsky District, Republic of Bashkortostan"
+Sosnovy Bor,Sosnovy Bor,Q1065150,3,0,1,"human settlement in Karaidelsky District, Republic of Bashkortostan, Russia",,Q5084,,"Sosnovy Bor, Karaidelsky District, Republic of Bashkortostan"
+Sosnovy Bor,Sosnovy Bor,Q1056517,3,0,1,"human settlement in Birsky District, Republic of Bashkortostan, Russia",,Q5084,,"Sosnovy Bor, Birsky District, Republic of Bashkortostan"
+Sosnovy Bor,Sosnovy Bor,Q18801707,3,0,1,"human settlement in Kursk Oblast, Russia",,Q1782540,,
+Sosnovy Bor,Sosnovy Bor,Q27579046,3,0,1,"human settlement in Kaluga Urban Okrug, Kaluga Oblast, Russia",Sosnovyi Bor|Sosnovyy Bor,Q532|Q486972,,
+Crewe,Crewe,Q16865864,4,0,1,family name,Crewe (surname),Q101352,,Crewe (surname)
+Crewe,Crewe and Nantwich,Q1139851,4,0,1,"former borough in Cheshire, England",Crewe,Q1006876|Q1187580|Q19953632,,Crewe and Nantwich
+Crewe,Crewe Alexandra F.C.,Q19587,4,0,1,"association football club in Crewe, England",Crewe Alexandra Football Club|Crewe Alexandra|Crewe Alexandra FC|The Railwaymen|The Alex|Crewe|CAFC,Q476028,,Crewe Alexandra F.C.
+Crewe,Crewe Green,Q1993765,4,0,1,"village and former civil parish in Cheshire East, England, UK","Crewe Green, Cheshire|Crewe",Q532|Q1115575,,Crewe Green
+Crewe,Crewe,Q113128553,4,0,1,given name,,Q202444,,
+Crewe,Crewe,Q648810,4,0,1,"railway town and civil parish in Cheshire East, Cheshire, England","Crewe, Cheshire|Monks Coppenhall",Q1782540|Q3957|Q1115575,,Crewe
+Crewe,Crewe,Q1376628,4,0,1,"town in Nottoway County, Virginia, United States","Crewe, Virginia|Crewe, VA",Q15127012,,"Crewe, Virginia"
+Crewe,human spaceflight,Q752783,4,0,1,space travel with humans aboard spacecraft,manned spaceflight|crewed spaceflight,,Q5916|Q2133344,Human spaceflight
+Crewe,Crewe,Q5184814,4,0,1,"Parliamentary constituency in the United Kingdom, 1885-1983",,Q27971968,,Crewe (constituency)
+Crewe,Crewe railway station,Q3397336,4,0,1,"railway station in Cheshire, England, UK",Crewe Station|CRE,Q55488,,Crewe railway station
+Crewe,Crewe Alexandra F.C. Academy,Q5184815,4,0,2,UK association football club,,Q476028,,Crewe Alexandra F.C. Academy
+Crewe,Crewe and Nantwich Borough Council,Q95183686,4,0,2,http://www.crewe-nantwich.gov.uk,,Q43229,,
+Crewe,Crewe and Nantwich Borough Council election,Q5184838,4,0,2,class of election in the United Kingdom,,Q107359024,Q107358924,Crewe and Nantwich Borough Council elections
+Crewe,Crewe Heritage Centre,Q5184823,4,0,2,"railway museum in Crewe, England",The Crewe Heritage Centre,Q18704634,,Crewe Heritage Centre
+Surovatikha,Surovatikha,Q4374552,5,0,1,"railway town in Dalnekonstantinovsky District, Nizhny Novgorod Oblast, Russia",Surovatikha Station settlement,Q2514025|Q1782540,,
+Surovatikha,Surovatikha,Q4446580,5,0,1,"human settlement in Dalnekonstantinovsky District, Nizhny Novgorod Oblast, Russia",,Q532,,
+Surovatikha,Surovatikha,Q27116063,5,0,1,Wikimedia disambiguation page,,Q4167410,,Surovatikha
+Lehrte,Lehrte,Q7057,6,0,1,"town in the district of Hanover, in Lower Saxony, Germany",,Q2267870|Q42744322|Q1782540|Q133997300,,Lehrte
+Lehrte,Lehrte station,Q801068,6,0,1,"railway station in Lehrte, Germany",,Q55488,,Lehrte station
+Lehrte,Lehrte–Hamburg-Harburg railway line,Q240059,6,0,1,railway line,,Q728937,,Hanover–Hamburg railway
+Lehrte,Lehrte–Nordstemmen railway,Q513003,6,0,1,railway line,,Q728937,,Lehrte–Nordstemmen railway
+Lehrte,Lehrte–Celle railway,Q802625,6,0,1,railway line in Lower Saxony,,Q728937,,Lehrte–Celle railway
+Lehrte,Berlin Central Station,Q1097,6,0,1,main railway station of Berlin,Lehrter Bahnhof|Berlin Hbf (tief),Q55484|Q18543139|Q55491|Q11670533|Q22808403,,Berlin Hauptbahnhof
+Lehrte,Lehrte,Q32091799,6,0,1,municipality seat,,Q15303838,,
+Lehrte,Lehrter Station,Q546089,6,0,1,former railway station in Berlin,,Q55485|Q19860854|Q4663385,,
+Lehrte,Lehrter Straße,Q475209,6,0,1,"street in Berlin, Germany",Lehrterstrasse|Lehrter Strasse,Q79007,,Lehrter Straße
+Lehrte,Lehrter Platz,Q111965349,6,0,1,"Bus stop in Hannover, Germany",,Q953806,,
+Spencer,Spencer,Q1261064,7,0,1,family name,,Q101352,,Spencer (surname)
+Spencer,Spencer,Q16281695,7,0,1,unisex given name,Spencer (given name)|Spencer (first name),Q3409032,,Spencer (given name)
+Spencer,Spencer,Q1903286,7,0,1,"city in the state of Iowa, United States","Spencer, Iowa|Spencer, IA",Q1093829|Q62049,,"Spencer, Iowa"
+Spencer,Spencer,Q3493021,7,0,1,"town in Worcester County, Massachusetts, United States","Spencer, Massachusetts|Spencer, MA",Q15127012,,"Spencer, Massachusetts"
+Spencer,Spencer,Q727248,7,0,1,"town in Tennessee, USA","Spencer, Tennessee|Spencer, TN",Q15127012,,"Spencer, Tennessee"
+Spencer,Spencer,Q105100020,7,0,1,2021 film directed by Pablo Larraín,,Q11424,,Spencer (film)
+Spencer,Spencer,Q2425598,7,0,1,"village in Marathon County, Wisconsin","Village of Spencer|Spencer, WI",Q15221242,,"Spencer, Wisconsin"
+Spencer,Spencer,Q111523945,7,0,1,2018 video game,,Q7889,,
+Spencer,Spencer Fullerton Baird,Q14049,7,0,1,"American naturalist, ornithologist, ichthyologist, museum curator, and the 2nd Secretary of the Smithsonian (1823-1887)","Spencer Baird|Baird|Spencer F. Baird|S. F. Baird|Baird, SF|S. Fullerton Baird|BAIRD, SPENCER F.",Q5,,Spencer Fullerton Baird
+Spencer,Kenneth A. Spencer,Q22109266,7,0,1,English entomologist (1916–2002),Kenneth Spencer|Kenneth Angus Spencer|Spencer|K. A. Spencer,Q5,,
+Spencer,Spencerian Script,Q7576239,7,0,2,business handwriting style,,Q33260112,,Spencerian script
+Parma,Parma,Q2683,8,0,1,city in the northern Italian region of Emilia-Romagna,,Q747074|Q515|Q1549591|Q5107861,,Parma
+Parma,Parma,Q862711,8,0,1,"city in Cuyahoga County, Ohio, United States","Parma, Ohio",Q1093829,,"Parma, Ohio"
+Parma,Parma,Q141315,8,0,1,genus of fishes,Parma (hayvan),Q16521,,Parma (fish)
+Parma,Parma Calcio 1913,Q2693,8,0,1,"Italian professional football club based in Parma, Emilia-Romagna",Parma FC|Parma F.C.|Parma Associazione Calcio|Parma Foot Ball Club|Parma|Parma Football Club|Parma A.C.|AC Parma|Parma Associazione Sportiva|Crociati,Q476028|Q103229495,,Parma Calcio 1913
+Parma,parma,Q2053682,8,0,1,round shield used by the Roman army,,Q15142894,Q131559,Parma (shield)
+Parma,Parmigianino,Q9348,8,0,1,Italian Mannerist painter and printmaker (1503–1540),"Girolamo Francesco Maria Mazzola|Francesco Mazzola|Parmigiano|Il Parmigianino|Francesco Mazzuoli|Francesco Massola|Mazzuoli Parmigiano|Parmegianino|Francesco Mazzuola|Francesco Mazzoli|Parmeggianino|François Mazzuoli|Palmegianino|Parmeggiano|Parmagiano|Le Parmesan|Girolamo Francesco Maria Mazzola Parmigiano|Francisco Mazzuoli|Il Parmigiano|Parmesan|Francesco Parmigianino|Francesco Mazzolino|Parmigiani|Girolamo Francesca Maria Mazzola|Parmegiano|Parmagianino|Mazzuoli Parmigianino|Girolamo Francesco Maria Mazzuoli|Girolamo Francesco Maria Mazzola Parmigianino|il Mazzolino|Parmesan Di-Masuoli|Permitiano|Permagiano|Francesco Mazzuola Genannt: IIs Parmigiano|Parmesanino|Mazzola Parmigiano|Parmens|Parmesano|Parmesan Di-Mazuoli|Parmezan|Francesco Mazzuoli, detto Parmeggiano|Permegano|gen. parmigianino Francesco mazzuola|Parmig.no|called Parmegiano Francis Mazzola|Permanginiani|Pamagiano|Parmeginano|Parenagrano|Barmisano|dit le Parmesan Mazzuoli|Francisco Mazzoli|Pamigiano|Permegianino|Parmeg.o|Parmigianino Francesco Mazzuola|F. M. Parmigiano|Permigiano|Le Parmissan|Parmegiani|Francesco Mazzuola gen. il Parmigiano|Francesco Mazzuola gen. Il Parmiggionino|Parmeggiani|Parmigeano|Parnegiano|gen. Parmigianino Francesco Mazzola|Permensiano|Parmiggiano|Parmegian|Permegiano|Parmeggianini|dit le Parmesan François Mazzuoli|Parmesanio|Francesco Mazzuoli detto il Parmigianino|Permigianino|Parmessano|Parmegino|Permens|Parmegine|Francesco gen. Parmigianino Mazzuoli|Francesco Maria Mazzola Parmigianino|Permesano|Francesco Parmesiane|eigentlich Francesco Maria Mazzuola Parmigianino|detto il Parmigianino Francesco Mazzuoli|Francesco Mazzuoli, detto, Parm. Parmeggiano|le Parmezan|francesco mazzuola|Pamegiano|F. Mazzola|Francisco Parmitiaen|Francesco Mazzuolo detto il Parmigianino|parmasano|François Mazuoli|T. Parmegiano|Pomoganino|Francisco Parmisano|Parmegians|Parmeg.no|el parmesano|Varmesano|Palmigianino|Franz Mazoli|F.co Mazzola detto Parmigianino|f. mazzuola|Parmesiano|francesco mazzuola il parmigiano|dit Parmesan Francesco Mazzuoli|Francisco Parmens|Parmijiano|Parmegg.no|Parmezian|detto Parmigianino Francesco Mazzuoli|Francisco Parmesano|F. Parmegiano|dit Parmesan F. Masoli|dit Le Parmesan Parmesino|francesco Parmigianino|Fran.o Mazzoli Parmiggiano|Parmiggianino|commonly called the Parmegianino Francis Mazzola|genannt Parmeggiano, oder Parmesan Franz Mazzoli|Mazzuolo|Francesco Parmigianino d. i. Mazzuola|Parmaceino|Parmesani|dit le Parmesan François Mazzuola|Francesco Mazzuola gen. Jl. Parmegianino|Parmisanino|Fran. Mazziola Parmegiano|dit le Parmesan Francesco Mazzuoli|Massola|Francesco Mazzuola, il Parmiggiano|Parmigiuno|Mazoli|Frantz Mazzoli|Parmeggianino scolaro del Correggio|Pernigianimi|Genannt il Parmigianino Francesco Maria Mazzola|F. Parmigianino|called Parmegiano Francisco Mazzuoli|Francesco Mazzuoli dit Parmegiano|F. Parmesan|Permesianini|Francesco Mazzuola gen. Parmigianino|Parmezanino|Francesco Parmigiano|Parmigia[ni]no|dit le Parmesan François Mazzoli|Genannt Il Parmegianino Mazzola|dit le Parmesan François Mazzola|François Parmesan|Parmisani|Masoli|Parmensis|Franchesco Parmiggiano|Francisco Parmegiano|Mazuoli dit le Parmezan|Parmesciano|Permence|Parmigiannino|francesco mazzuela gen. il parmegianino|Frances Parmigianino|Francesco Parmegiano|Pamesiano|Parme|Francois Parmesan|Girolamo-Francesco-Maria, gen. Parmigianino Mazzola|Parma|François Mazoli|Francesco Mazzola detto il Parmigianino|Francesco Parmesano|Parmesanin|Masola|Girolamo Francesco Maria (Il Parmigianino) Mazzola",Q5,,Parmigianino
+Parma,Parma,Q7139132,8,0,1,sailing ship built in 1902 and scrapped in 1938,,Q216057,,Parma (barque)
+Parma,Province of Parma,Q16228,8,0,1,province of Italy,Parma province|provincia di Parma,Q15089,,Province of Parma
+Parma,Parma,Q12798318,8,0,1,family name,,Q101352,,
+Parma,Parmain,Q1456977,8,0,1,"commune in Val-d'Oise, France",Jouy-le-Comte|Jouy-le-Peuple|Le Compte|Jouy-le-Comte (réunie à Parmain),Q484170,,Parmain
+Parma,Parma ham: Correlation between myotypological parameters of Biceps femoris muscle and qualitative characteristics of fresh and seasoned product,Q47630815,8,0,2,"scientific article published on July 1, 1996",,Q13442814,,
+Parma,Parma Cathedral,Q1287889,8,0,2,"cathedral in Parma, Italy",Duomo di Parma|cattedrale di Santa Maria Assunta,Q56242215|Q120560,,Parma Cathedral
+Oka,Oka,Q729382,9,0,1,"municipality in Quebec, Canada","Oka, Quebec|Oka, QC",Q27676428|Q27676524|Q532,,"Oka, Quebec"
+Oka,Oka,Q16880681,9,0,1,Japanese family name,,Q101352,,Oka (surname)
+Oka,Oka,Q25906478,9,0,1,"village in Lanny Jaya Regency, Highland Papua, Indonesia",,Q12488913,,
+Oka,OKATO-OKTMO correspondence table,Q15728928,9,0,1,"Russian directory, information as of 1 April 2016",,Q2352616,,
+Oka,OKATO,Q856636,9,0,1,Russian Classification on Objects of Administrative Division,All-Russian classification on units of administrative and territorial distribution,Q8513|Q4330194,,OKATO
+Oka,Oka,Q172089,9,0,1,"river in Russia, tributary of Volga",Oka River,Q4022,,Oka (river)
+Oka,Oka Domain,Q8192275,9,0,1,Japanese historical estate in Bungo province,,Q841985,,Oka Domain
+Oka,Oka,Q39241300,9,0,1,Japanese family name (岡),,Q101352,,
+Oka,Okapia johnstoni,Q82037,9,0,1,species of mammal,okapi|forest giraffe|Congolese giraffe|zebra giraffe,Q16521,,Okapi
+Oka,Ōkawa-shi,Q385248,9,0,1,"city in Fukuoka Prefecture, Japan",Okawa City|Okawa-shi|Ōkawa|Ōkawa City|Okawa,Q494721,,"Ōkawa, Fukuoka"
+Oka,Oka,Q288695,9,0,2,"river in Irkutsk Oblast, Russia",Oka River,Q4022,,Oka (Angara)
+Oka,Oka,Q139022459,9,0,2,"former parish municipality in Quebec, Canada, merged into the municipality of Oka","Oka, Quebec",Q27676524|Q19730508|Q27676428,,
+Oka,Oka Crisis,Q1486456,9,0,2,"land dispute between a group of Mohawk people and the town of Oka, Quebec, Canada",Kanesatake Resistance|Mohawk Resistance,Q5683226,,Oka Crisis
+Pustynka,Pustynka,Q19848358,10,0,1,"human settlement in Kovrovsky District, Vladimir Oblast, Russia",,Q5084,,"Pustynka, Vladimir Oblast"
+Pustynka,Pustynka,Q4384111,10,0,1,river in Russia,,Q4022,,
+Pustynka,Pustynka,Q16022621,10,0,1,"hamlet in Nikolskoye urban settlement, Tosnensky District, Leningrad Oblast, Russia",,Q5084,,
+Pustynka,Pustynka,Q16022624,10,0,1,"railway town in Nikolskoye urban settlement, Tosnensky District, Leningrad Oblast, Russia",,Q1782540|Q192287,,
+Pustynka,Pustynka,Q4384105,10,0,1,"village in Liuboml Raion, Volyn Oblast, Ukraine",,Q21672098,,
+Pustynka,Pustynka,Q4384109,10,0,1,"village in Pokrovsk Raion, Donetsk Oblast, Ukraine",,Q21672098,,
+Pustynka,Pustynka,Q7262038,10,0,1,"village in Lower Silesian, Poland",,Q4379239,,Pustynka
+Pustynka,Pustynka,Q18798380,10,0,1,"human settlement in Novoselskoye rural settlement, Slantsevsky District, Leningrad Oblast, Russia",,Q5084,,
+Pustynka,Pustynkaŭski Sieĺsaviet,Q6528223,10,0,1,sieĺsaviet of Belarus,,Q15071808|Q19953632,,
+Pustynka,Pustynka (Zainsky District),Q108612017,10,0,1,"human settlement in Zainsky District, Tatarstan, Russia",,Q532,,
+Voxna,Voxna,Q7709915,11,0,1,former community of Sweden,,Q11722303,,Voxna
+Voxna,Voxna,Q21779149,11,0,1,"district in Ovanåker Municipality, Sweden",,Q18333556,,
+Voxna,Voxna,Q7942378,11,0,1,,,Q1782540,,
+Voxna,Voxna socken,Q10716922,11,0,1,,,Q1523821,,
+Voxna,Voxnabruk,Q4613289,11,0,1,"village in Ovanåker municipality, Sweden",,Q14839548,,
+Voxna,Voxnan,Q1445804,11,0,1,river in Sweden,,Q4022,,Voxnan
+Voxna,Voxnadalen,Q86189513,11,0,1,,,Q158454,,
+Voxna,Voxna Church,Q10716920,11,0,1,"church building in Ovanåker Municipality, Sweden",,Q16970|Q1497375,,
+Voxna,Voxna herrgård,Q30312389,11,0,1,,,Q1497375,,
+Voxna,Voxna cemetery,Q115301964,11,0,1,Swedish cemetery,,Q39614,,
+Bereket,Bereket,Q2671078,12,0,1,"village in Kurşunlu, Çankırı, north-central Turkey",,Q1529096,,"Bereket, Kurşunlu"
+Bereket,Bereket,Q4891220,12,0,1,"village in Bor, Niğde, south-central Turkey",Bereke,Q1529096,,"Bereket, Bor"
+Bereket,Bereket,Q4891225,12,0,1,"mahalle (administrative quarter) in Gülnar, Mersin, south-central Turkey","Bereket, Gülnar",Q17051044,,"Bereket, Gülnar"
+Bereket,Bereket,Q3669388,12,0,1,"village in Doğubayazıt, Ağrı, eastern Turkey",,Q1529096,,
+Bereket,Bereket,Q4829280,12,0,1,"village in Ardanuç, Artvin, northeastern Turkey",,Q1529096,,"Bereket, Ardanuç"
+Bereket,Bereket,Q4824487,12,0,1,"mahalle (administrative quarter) in Çine, Aydın, southwestern Turkey",,Q17051044,,"Bereket, Çine"
+Bereket,Bereket,Q4891226,12,0,1,"mahalle (administrative quarter) in Manavgat, Antalya, southwestern Turkey","Bereket, Manavgat",Q17051044,,"Bereket, Manavgat"
+Bereket,Bereket,Q1154980,12,0,1,"village in Osmaneli, Bilecik, northwestern Turkey",,Q1529096,,"Bereket, Osmaneli"
+Bereket,Bereket,Q6848918,12,0,1,"village in central district, Burdur, southwestern Turkey",,Q1529096,,"Bereket, Burdur"
+Bereket,Bereket,Q109390013,12,0,1,"mahalle (administrative quarter) in Salıpazarı, Samsun, northern Turkey",,Q17051044,,
+Dubosekovo,Dubosekovo,Q4169558,13,0,1,"railway station in Moscow Oblast, Russia",Dubosekovo station|Dubosekovo railway station,Q55678,,
+Dubosekovo,Dubosekovo,Q4169559,13,0,1,"human settlement in Volokolamsky District, Moscow Oblast, Russia",,Q1782540,,
+Dubosekovo,Dubosekovo monument to Panfilov's Twenty-Eight Guardsmen,Q28666981,13,0,1,,,Q4989906|Q5003624|Q1081138,,
+Kedrovaya,Kedrovaya,Q19617773,14,0,1,"river in Krasnoyarsk Krai and Tomsk Oblast, Russia",,Q4022,,
+Kedrovaya,Kedrovaya,Q14915330,14,0,1,"river in Yamalo-Nenets Autonomous Okrug, Russia",,Q4022,,
+Kedrovaya,Kedrovaya,Q19906475,14,0,1,"river in Omsk and Tyumen Oblasts, Russia",,Q4022,,
+Kedrovaya,Kedrovaya,Q4218885,14,0,1,"river in Primorsky Krai, Russia",,Q4022,,
+Kedrovaya,Kedrovaya,Q18398713,14,0,1,"river in Perm Krai, Russia",,Q4022,,
+Kedrovaya,Kedrovaya,Q35387167,14,0,1,"river in Khanty-Mansi Autonomous Okrug, Russia, tributary of Sosninsky Yogan",,Q4022,,
+Kedrovaya,Kedrovaya,Q20177529,14,0,1,"human settlement in Kabansky District, Republic of Buryatia, Russia",,Q1782540,,"Kedrovaya, Republic of Buryatia"
+Kedrovaya,Kedrovaya,Q3730265,14,0,1,river in Russia,,Q4022,,
+Kedrovaya,Kedrovaya,Q35387182,14,0,1,,,Q47521|Q4022,,
+Kedrovaya,Kedrovaya,Q35386994,14,0,1,"stream in Kamchatka Krai, Russia - Geonames ID = 2132231",,Q47521,,
+Bebra,Bebra,Q107391798,15,0,1,family name,,Q101352,,
+Bebra,Bebra railway station,Q326569,15,0,1,"railway station in Bebra, Germany",Bebra station,Q55488|Q1402443|Q55492,,Bebra station
+Bebra,Bebra,Q558530,15,0,1,"town in Landkreis Hersfeld-Rotenburg in Hesse, Germany",,Q3957|Q42744322|Q1782540,,Bebra
+Bebra,Bebra,Q60749635,15,0,1,fictional character from The Tin Drum by Günter Grass,,Q15632617|Q3658341|Q15773347,,
+Bebra,Bebra,Q813556,15,0,1,human settlement in Germany,,Q253019,,Bebra (Sondershausen)
+Bebra,Bebra,Q813555,15,0,1,river in Germany,,Q4022,,Bebra (Fulda)
+Bebra,Bibras Natcho,Q559910,15,0,1,"Circassian-Israeli—Serbian association footballer, Naturalized citizen of Sebia",Bibras Natkho|Bibars Natcho|Bebras Natcho,Q5,,Bibars Natcho
+Bebra,Bebrava,Q791716,15,0,1,river in Slovakia,,Q4022,,Bebrava
+Bebra,Göttingen–Bebra line,Q471681,15,0,1,railway line,Bebra–Göttingen railway,Q728937,,Göttingen–Bebra railway
+Bebra,Bebra-Bach,Q32473892,15,0,1,river in Germany,Bebrabach,Q4022,,
+Urshak,Urshak,Q1530862,16,0,1,"river in Bashkiria, Russia",,Q4022,,
+Urshak,Urshak,Q4477453,16,0,1,"human settlement in Miyakinsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,Urshak
+Urshak,Urshak,Q4374555,16,0,1,human settlement in Russia,"Urshak, Ufa, Republic of Bashkortostan",Q1782540,,"Urshak, Ufa, Republic of Bashkortostan"
+Urshak,Urshak,Q4477454,16,0,1,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",,Q2514025,,
+Urshak,Urshakbashkaramaly,Q4477456,16,0,1,"human settlement in Miyakinsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,Urshakbashkaramaly
+Urshak,Urshaksky selsoviet,Q4477455,16,0,1,"human settlement in Aurgazinsky District, Republic of Bashkortostan, Russia",,Q634099,,
+Urshak,Urshakbashkaramalinsky selsoviet,Q4477451,16,0,1,"human settlement in Miyakinsky District, Republic of Bashkortostan, Russia",Urshakbashkaramaly,Q634099,,
+Urshak,Urshak dialect,Q21644839,16,0,1,a dialect of Bashkir language,,Q33384,Q18398907,
+Glushkovo,Glushkovo,Q4140418,17,0,1,"human settlement in Glushkovsky District, Kursk Oblast, Russia",,Q20019082,,"Glushkovo, Glushkovsky District, Kursk Oblast"
+Glushkovo,Glushkovo,Q109588384,17,0,1,"railway station in Glushkovsky District, Russia",,Q55488,,
+Glushkovo,Glushkovo,Q4140414,17,0,1,"human settlement in Belozersky District, Vologda Oblast, Russia",,Q5084,,"Glushkovo, Vologda Oblast"
+Glushkovo,Glushkovo,Q18772469,17,0,1,human settlement in Russia,,Q1782540,,
+Glushkovo,Glushkovo,Q4140421,17,0,1,"human settlement in Shumyachsky District, Smolensk Oblast, Russia",,Q5084|Q192287,,
+Glushkovo,Glushkovo,Q1532375,17,0,1,Wikimedia disambiguation page,,Q4167410,,Glushkovo
+Entroncamento,Entroncamento,Q990422,18,0,1,municipality in Portugal,Entroncamento Municipality,Q13217644,,Entroncamento
+Entroncamento,Entroncamento,Q49282875,18,0,1,human settlement in Portugal,,Q15647906|Q15303838,,
+Entroncamento,Entroncamento Railway Station,Q9254161,18,0,1,railway station in Portugal,,Q55488,,
+Entroncamento,Entroncamento train station,Q65169850,18,0,1,"train station in Viana, Luanda, Angola",,Q55488,,
+Entroncamento,Entroncamento railway station,Q116719917,18,0,1,"railway station in Dongo, Huíla, Angola",,Q55488,,
+Entroncamento,Entroncamento,Q140421027,18,0,1,,,Q11424,,
+Entroncamento,Entroncamento de histórias: Registo de testemunhos orais,Q131282634,18,0,1,journal article from 'Midas' published in 2014,,Q13442814,,
+Entroncamento,Entroncamento (transportes),Q10273186,18,0,1,,,,,
+Entroncamento,Entroncamento,Q3726372,18,0,1,Wikimedia disambiguation page,,Q4167410,,
+Vydrino,Vydrino,Q4128866,19,0,1,"human settlement in Republic of Buryatia, Russia",Vydrino (selo),Q532,,Vydrino (selo)
+Vydrino,Vydrino,Q18405096,19,0,1,"human settlement in Kabansky District, Republic of Buryatia, Russia",,Q1782540,,Vydrino
+Vydrino,Vydrino,Q4128867,19,0,1,"human settlement in Totemsky District, Vologda Oblast, Russia",,Q5084,,"Vydrino, Vologda Oblast"
+Vydrino,Vydrino,Q18405094,19,0,1,"human settlement in Volkhovsky District, Leningrad Oblast, Russia",,Q5084,,
+Vydrino,Vydrino station,Q21637566,19,0,1,railway station in Russia,,Q55488,,
+Vydrino,Vydrino,Q37754103,19,0,1,river in Russia,,Q4022,,
+Vydrino,Vydrino,Q13653051,19,0,1,"human settlement in Chunsky District, Irkutsk Oblast, Russia",,Q532,,
+Vydrino,Vydrino,Q15254802,19,0,1,"village in Uysky District, Russia",,Q532,,
+Vydrino,Vydrino,Q4128865,19,0,1,Wikimedia disambiguation page,,Q4167410,,
+Khuzhir,Khuzhir,Q4502230,20,0,1,"human settlement in Tunkinsky District, Republic of Buryatia, Russia","Khuzhir, Zakamensky District, Republic of Buryatia",Q192287|Q18632459,,"Khuzhir, Zakamensky District, Republic of Buryatia"
+Khuzhir,Khuzhir,Q20640316,20,0,1,"village in Okinsky District, Russia","Khuzhir, Okinsky District, Republic of Buryatia",Q532,,"Khuzhir, Okinsky District, Republic of Buryatia"
+Khuzhir,"Khuzhir, Irkutsk Oblast",Q2012246,20,0,1,"rural locality on Olkhon Island, Lake Baikal",,Q2514025|Q486972,,"Khuzhir, Irkutsk Oblast"
+Khuzhir,Khuzhir railway station,Q19916177,20,0,1,railway station in Russia,,Q55488,,
+Khuzhir,Khuzhir,Q21334739,20,0,1,"human settlement in Dzhidinsky District, Republic of Buryatia, Russia",,Q1782540,,"Khuzhir, Dzhidinsky District, Republic of Buryatia"
+Khuzhir,Rural settlement Khuzhiry,Q4502234,20,0,1,"human settlement in Tunkinsky District, Republic of Buryatia, Russia",Selskoye poseleniye Khuzhiry|Khuzhiry,Q634099,,
+Khuzhir,Khuzhiry,Q19691890,20,0,1,"human settlement in Tunkinsky District, Republic of Buryatia, Russia",,Q18632459,,Khuzhiry
+Khuzhir,Rural settlement Khuzhirskoye,Q20658944,20,0,1,"human settlement in Zakamensky District, Republic of Buryatia, Russia",Selskoye poseleniye Khuzhirskoye|Khuzhirskoye,Q634099,,
+Khuzhir,Khuzhir Airport,Q68796049,20,0,1,an airport on Lake Baikal’s Olkhon Island servicing Khuzhir village. It's located close Kharantsy,UIIH,Q1248784,,Khuzhir Airport
+Khuzhir,Khuzhir-Gorkhon,Q35477202,20,0,1,,,Q47521,,

@@ -1,0 +1,304 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Grant,Grant,Q17864440,0,0,1,family name,Grant (family name),Q101352,,Grant (surname)
+Grant,Grant,Q2549909,0,0,1,male given name,Grant (given name)|Grant (first name),Q12308941,,Grant (given name)
+Grant,research grant,Q54875403,0,0,1,type of funding for research activities,research grants|grant,,Q230788|Q6055890,
+Grant,Grant,Q933270,0,0,1,name,,Q82799,,
+Grant,Grant,Q95580139,0,0,1,extinct genus of insects in Alienopteridae,,Q23038290,,
+Grant,Igor Grant,Q5993296,0,0,1,psychiatrist,I. Grant|I Grant|Grant|Grant I|Grant I.,Q5,,Igor Grant
+Grant,Grant County,Q426262,0,0,1,"county in New Mexico, United States","Grant County, New Mexico|Grant County, NM",Q13414755,,"Grant County, New Mexico"
+Grant,grant,Q230788,0,0,1,non-repayable funds disbursed by one party to a recipient,,Q4551254,Q1527264|Q618779,Grant (money)
+Grant,Grantham,Q846683,0,0,1,"market town and civil parish in South Kesteven, Lincolnshire, England",,Q3957|Q18511725|Q7897276|Q1115575,,Grantham
+Grant,Duncan Grant,Q766166,0,0,1,British artist (1885-1978),Duncan James Corrowr Grant|Duncan James Corrows Grant|Duncan James Corrour Grant|Grant|Duncan James Corrower Grant,Q5,,Duncan Grant
+Grant,Grant County,Q484378,0,0,2,"county in Oregon, United States","Grant County, Oregon|Grant County, OR",Q13414761,,"Grant County, Oregon"
+Grant,Grant County,Q281681,0,0,2,"county in Washington, United States","Grant County, Washington|Grant County, WA",Q13415369,,"Grant County, Washington"
+Grant,Grant County,Q500977,0,0,2,"county in Wisconsin, United States","Grant County, Wisconsin|Grant County, WI",Q12178928,,"Grant County, Wisconsin"
+Grant,Grant County,Q486270,0,0,2,"county in Minnesota, United States","Grant County, Minnesota|Grant County, MN",Q12262532,,"Grant County, Minnesota"
+Grant,Grant County,Q494223,0,0,2,"county in West Virginia, United States","Grant County, West Virginia|Grant County, WV",Q13415370,,"Grant County, West Virginia"
+Grant,Grant County,Q506722,0,0,2,"county in Indiana, United States","Grant County, Indiana|Grant County, IN",Q13410438,,"Grant County, Indiana"
+Grant,Grant County,Q61296,0,0,2,"county in Arkansas, United States","Grant County, Arkansas|Grant County, AR",Q11774062,,"Grant County, Arkansas"
+Grant,Grant County,Q48834,0,0,2,"county in North Dakota, United States","Grant County, North Dakota|Grant County, ND",Q12178655,,"Grant County, North Dakota"
+Grant,Grant County,Q490498,0,0,2,"county in South Dakota, United States of America","Grant County, South Dakota|Grant County, SD",Q12037308,,"Grant County, South Dakota"
+Grant,Grant Park,Q159085,0,0,2,"urban park in Chicago, Illinois, USA",,Q22746,,Grant Park (Chicago)
+Grant,Grant Park,Q2243984,0,0,2,"village in Kankakee County, Illinois, United States","Grant Park, Illinois|Grant Park, IL",Q110071217,,"Grant Park, Illinois"
+Grant,Grant Park,Q5596396,0,0,2,"city park and Victorian neighborhood in Atlanta, Georgia, United States","L.P. Grant Park|Grant Park Historic District|Grant Park, GA",Q123705|Q22746|Q15243209,,"Grant Park, Atlanta"
+Grant,Grant Park,Q5596392,0,0,2,"neighborhood in northeast Portland, Oregon, USA","Grant Park, Portland, Oregon",Q123705,,"Grant Park, Portland, Oregon"
+Grant,Grant Park,Q5596391,0,0,2,"football pitch in Lossiemouth, Scotland",,Q1154710,,"Grant Park, Lossiemouth"
+Grant,Grant Park,Q5596394,0,0,2,"neighbourhood in Winnipeg, Manitoba, Canada","Grant Park, Winnipeg",Q123705,,"Grant Park, Winnipeg"
+Grant,Grant Park,Q5596399,0,0,2,"neighborhood in East Tampa, Florida, USA",,Q123705,,Grant Park (Tampa)
+Grant,Grant Park,Q21929056,0,0,2,"park in New South Wales, Australia",,Q22698,,
+Grant,Grant Park,Q34831523,0,0,2,"park in Montgomery County, Ohio, United States",,Q22698,,
+Grant,Grant Park,Q49495340,0,0,2,"park in Greene County, Missouri, United States of America",,Q22698,,
+Grant,Grant Street railway station,Q5596468,0,0,2,"railway station in Perth, Western Australia","Grant Street train station|Grant Street station, Perth|Grant Street station|Grant Street",Q55488|Q22808404,,Grant Street railway station
+Grant,Grant Street,Q5596466,0,0,2,"road in downtown Pittsburgh, Pennsylvania, United States",,Q79007,,Grant Street
+Grant,Grant Street,Q87751837,0,0,2,"street in Cambridge, Massachusetts","Grant Street (Cambridge, Massachusetts)|Grant St|Grant Street, Cambridge, Massachusetts",Q79007,,
+Grant,Grant Street,Q136343071,0,0,2,"street in Norwich, Norfolk, England, UK",,Q79007,,
+Grant,Grant street,Q89566723,0,0,2,"street in Kolkata, India",,Q34442,,
+Grant,Grant Street Transportation Center,Q57636703,0,0,2,bus station in Pittsburgh,,Q494829|Q13218805,,Grant Street Transportation Center
+Grant,Grant Street Station,Q5596469,0,0,2,"demolished railroad station in Pittsburgh, Pennsylvania",,Q55488,,Grant Street Station
+Grant,Grant Street Park,Q5596467,0,0,2,"stadium in Highland, Scotland, UK",,Q483110,,Grant Street Park
+Grant,Grant Street Pier,Q100684906,0,0,2,"Pier in Vancouver, Washington, U.S.",,Q863454,,Grant Street Pier
+Grant,Grant Street Grocery and Market,Q56284192,0,0,2,,,Q655686,,Grant Street Grocery and Market
+Grant,Grant Medical Center,Q5596342,0,0,2,"hospital in Ohio, United States",Grant Hospital,Q16917,,OhioHealth Grant Medical Center
+Grant,Grant Hospital of Chicago,Q46082539,0,0,2,"hospital in Chicago, Illinois, United States, active 1883–2008",German Hospital of Chicago|Lincoln Park Hospital|Grant Hospital|German Hospital,Q16917|Q64578911,,
+Grant,Grant School,Q5596442,0,0,2,type of secondary school in Hong Kong,,,,Grant School (Hong Kong)
+Grant,Grant School,Q60508834,0,0,2,"school building in Ottawa, Ontario, Canada",,Q1244442,,
+Grant,Grant School,Q134997809,0,0,2,"historic building in Goodland, Kansas, United States",,Q1244442,,
+Grant,Grant School,Q128671124,0,0,2,"school in St. Louis, Missouri",,Q3914|Q1244442,,
+Grant,Grant Elementary School,Q133873109,0,0,2,"public elementary school in San Jose, California, United States",Second Ward School|2nd Ward School|Grant School|Grant Grammar School,Q15155051|Q1080794,,
+Grant,Grant Schoolhouse,Q16911373,0,0,2,"school in Ohio, United States",,,,Grant Schoolhouse
+Grant,Grant School,Q5596438,0,0,2,Wikimedia disambiguation page,,Q4167410,,Grant School
+Grant,William Thomas Grant Foundation,Q30256218,0,0,2,"nonprofit organization in New York, United States",William T. Grant Foundation|Grant Foundation,Q163740,,William T. Grant Foundation
+Grant,Grant Foundation Faculty Scholars' Award,Q137578564,0,0,2,scholarly article published in Anthropology News (1985),,Q13442814,,
+Municipality of Tolmin,Municipality of Tolmin,Q15924,0,1,1,municipality of Slovenia,Tolmin Municipality,Q328584,,Municipality of Tolmin
+Municipality of Tolmin,Tolmin,Q8011223,0,1,2,town in northwestern Slovenia,,Q486972|Q18564289,,Tolmin
+Municipality of Tolmin,electoral ward of Tolmin,Q43396556,0,1,2,,Tolmin,Q43394491,,
+Municipality of Tolmin,Tolmino,Q43382301,0,1,2,male given name,Tolmino (first name),Q12308941,,
+Municipality of Tolmin,TOLMIN,Q25345897,0,1,2,,,,,TOLMIN (optimization software)
+Municipality of Tolmin,Tolminka,Q3507639,0,1,2,mountain river in Slovenia,,Q47521,,
+Municipality of Tolmin,Tolmin Parish,Q21899311,0,1,2,Roman catholic parish in western Slovenia,,Q102496,,
+Municipality of Tolmin,Tolmino Gios,Q3992414,0,1,2,Italian cyclist,,Q5,,
+Municipality of Tolmin,Tolminske Ravne,Q2395566,0,1,2,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Tolminske Ravne
+Municipality of Tolmin,Tolminski Lom,Q1965553,0,1,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Tolminski Lom
+Planina,mountain,Q8502,1,0,1,large natural elevation of the Earth's surface,mount|mt.|mtn.,Q12046615|Q618123,Q106589819|Q35145263,Mountain
+Planina,Planina,Q2121383,1,0,1,"place in Inner Carniola, Slovenia","Planina, Postojna|Planina pri Rakeku",Q486972,,"Planina, Postojna"
+Planina,Planina,Q2321348,1,0,1,"place in Littoral, Slovenia",,Q486972|Q18564289,,"Planina, Ajdovščina"
+Planina,plain,Q160091,1,0,1,flat geographic region,plains,Q618123,Q271669|Q107425,Plain
+Planina,Planinasus,Q14698170,1,0,1,genus of insects,,Q16521,,
+Planina,Planina,Q12798873,1,0,1,family name,,Q101352,,
+Planina,Planina,Q2563613,1,0,1,"place in Lower Carniola, Slovenia","Planina, Semič",Q486972,,"Planina, Semič"
+Planina,Planina,Q6959870,1,0,1,"place in Styria, Slovenia","Planina, Ljubno",Q486972,,"Planina, Ljubno"
+Planina,Planina,Q31213723,1,0,1,,,Q740445,,
+Planina,Planina pri Cerknem,Q2481087,1,0,1,"place in Littoral, Slovenia",,Q486972,,Planina pri Cerknem
+Ajdovščina Municipality,Ajdovščina Municipality,Q331701,1,1,1,municipality of Slovenia,,Q328584,,Municipality of Ajdovščina
+Ajdovščina Municipality,coat of arms of Ajdovščina Municipality,Q12790337,1,1,1,"coat of arms of Ajdovščina municipality, Slovenia",coat of arms of Ajdovščina|Ajdovščina Municipality coat of arms,Q14659,,
+Ajdovščina Municipality,Ajdovščina,Q15854,1,1,2,city in Slovenia,,Q3957,,Ajdovščina
+Ajdovščina Municipality,Ajdovščina,Q12784049,1,1,2,"area in Ljubljana, Slovenia",,,,
+Ajdovščina Municipality,Ajdovščina railway station,Q4699696,1,1,2,"railway station in Ajdovščina Municipality, Slovenia",,Q55488,,Ajdovščina railway station
+Ajdovščina Municipality,Ajdovščina,Q31530604,1,1,2,mountain in Slovenia,,Q8502,,
+Ajdovščina Municipality,electoral ward of Ajdovščina,Q43396881,1,1,2,,Ajdovščina,Q123466915,,
+Ajdovščina Municipality,Ajdovščina,Q23851318,1,1,2,article in Otto's encyclopedia,,Q13433827,,
+Ajdovščina Municipality,Ajdovščina Football Stadium,Q581622,1,1,2,multi-purpose stadium,,Q1049757,,Ajdovščina Stadium
+Ajdovščina Municipality,Ajdovščina Regional Red Cross Association,Q50218990,1,1,2,regional association of the Slovenian Red Cross,,Q43229,,
+Topolc,Topolc,Q3011386,2,0,1,"place in Inner Carniola, Slovenia",,Q486972|Q18564289,,Topolc
+Topolc,Topoľčany,Q750423,2,0,1,town and administrative center of Topoľčany district in the Nitra region of Slovakia,Veľké Topoľčany|Nagytapolcsány|Nagytapolcsán|Topoltschan|Groß-Topoltschan,Q3957|Q6784672,,Topoľčany
+Topolc,Topoľčany District,Q599361,2,0,1,district of Slovakia,,Q2264478,,Topoľčany District
+Topolc,Topoľčianky,Q269433,2,0,1,municipality of Slovakia,,Q6784672,,Topoľčianky
+Topolc,Topolčani,Q3136314,2,0,1,village in the Prilep Municipality of North Macedonia,,Q532,,Topolčani
+Topolc,Topolčianská,Q45201580,2,0,1,"street in Litoměřice, Czech Republic",,Q79007,,
+Topolc,Topolchane,Q2021762,2,0,1,"village in Sliven municipality, Sliven oblast, Bulgaria",,Q15630849|Q4224624,,"Topolchane, Sliven Province"
+Topolc,Topólcza,Q9360114,2,0,1,village of Poland,,Q3558970,,Topólcza
+Topolc,Topolcsányi (BLKÖ),Q90801847,2,0,1,"cross-reference to an entry in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 46, p. 131)",,Q1302249,,
+Topolc,"Topoľčianska, Bratislava",Q16518781,2,0,1,street in Bratislava,,Q79007,,
+Topolc,Ilirska Bistrica,Q15876,2,0,2,city in Slovenia,,Q515,,Ilirska Bistrica
+Topolc,Ilirska Bistrica railway station,Q5998405,2,0,2,railway station in Slovenia,Bisterza railway station|Villa del Nevoso railway station,Q55488|Q1402443,,Ilirska Bistrica railway station
+Topolc,Municipality of Ilirska Bistrica,Q13377784,2,0,2,municipality of Slovenia,Ilirska Bistrica Municipality,Q328584,,Municipality of Ilirska Bistrica
+Topolc,electoral ward of Ilirska Bistrica,Q43396738,2,0,2,,Ilirska Bistrica,Q123466915,,
+Topolc,coat of arms of Ilirska Bistrica Municipality,Q19933805,2,0,2,"coat of arms of Ilirska Bistrica municipality, Slovenia",coat of arms of Ilirska Bistrica|Ilirska Bistrica Municipality coat of arms,Q14659,,
+Topolc,Ilirska Bistrica fossil landslide,Q12791318,2,0,2,,,Q167903,,
+Topolc,Ilirska Bistrica Community Health Centre,Q49139545,2,0,2,,Zdravstveni dom Ilirska Bistrica,Q4260475,,
+Topolc,Template:Ilirska Bistrica,Q13518542,2,0,2,Wikimedia template,,Q11266439,,Template:Ilirska Bistrica
+Topolc,Ilirska Bistrica,Q12807562,2,0,2,,,Q115110263|Q757292|Q1402443,,
+Topolc,Ilirska Bistrica,Q2388010,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Ilirska Bistrica,Municipality of Ilirska Bistrica,Q13377784,2,1,1,municipality of Slovenia,Ilirska Bistrica Municipality,Q328584,,Municipality of Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q15876,2,1,2,city in Slovenia,,Q515,,Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica railway station,Q5998405,2,1,2,railway station in Slovenia,Bisterza railway station|Villa del Nevoso railway station,Q55488|Q1402443,,Ilirska Bistrica railway station
+Municipality of Ilirska Bistrica,electoral ward of Ilirska Bistrica,Q43396738,2,1,2,,Ilirska Bistrica,Q123466915,,
+Municipality of Ilirska Bistrica,coat of arms of Ilirska Bistrica Municipality,Q19933805,2,1,2,"coat of arms of Ilirska Bistrica municipality, Slovenia",coat of arms of Ilirska Bistrica|Ilirska Bistrica Municipality coat of arms,Q14659,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica fossil landslide,Q12791318,2,1,2,,,Q167903,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica Community Health Centre,Q49139545,2,1,2,,Zdravstveni dom Ilirska Bistrica,Q4260475,,
+Municipality of Ilirska Bistrica,Template:Ilirska Bistrica,Q13518542,2,1,2,Wikimedia template,,Q11266439,,Template:Ilirska Bistrica
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q12807562,2,1,2,,,Q115110263|Q757292|Q1402443,,
+Municipality of Ilirska Bistrica,Ilirska Bistrica,Q2388010,2,1,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Ilirska Bistrica,Bistrica,Q48647108,2,1,2,"river in northeastern Slovenia, tributary to Drava (Selnica)",Großwalzer Grenzbach,Q47521,,
+Municipality of Ilirska Bistrica,Bistrica,Q804083,2,1,2,"village in Bitola Municipality, North Macedonia",,Q532,,"Bistrica, Bitola"
+Municipality of Ilirska Bistrica,Bistrica,Q2904836,2,1,2,village in North Macedonia,"Bistrica, Čaška",Q532|Q56061,,"Bistrica, Čaška"
+Municipality of Ilirska Bistrica,"Bistrica, Slatina",Q600327,2,1,2,"settlement in the Town of Slatina, Virovitica-Podravina County, Croatia",,Q4845841,,"Bistrica, Croatia"
+Municipality of Ilirska Bistrica,Bistrica,Q2600227,2,1,2,"place in Styria, Slovenia",,Q486972,,"Bistrica, Kozje"
+Municipality of Ilirska Bistrica,Bistrica,Q3396460,2,1,2,"river in Livno, Bosnia and Herzegovina",,Q4022,,Bistrica (Livanjsko Polje)
+Municipality of Ilirska Bistrica,Bistrica,Q2912113,2,1,2,"place in Lower Carniola, Slovenia",,Q486972,,"Bistrica, Šentrupert"
+Municipality of Ilirska Bistrica,Bistrica,Q2904825,2,1,2,village situated in Petrovac na Mlavi municipality in Serbia,,Q532|Q28822032,,Bistrica (Petrovac)
+Municipality of Ilirska Bistrica,Bistrica (Drina),Q2904788,2,1,2,river in Bosnia and Herzegovina,Bistrica|Dobropoljka|Dobropoljska Rijeka,Q4022,,Bistrica (Drina)
+Municipality of Ilirska Bistrica,Bistrica,Q925059,2,1,2,village in Bosnia and Herzegovina,,Q532,,
+Municipality of Ilirska Bistrica,Ilirska čitanka za gornje gimnazije,Q97578877,2,1,2,school book,,Q47461344,,
+Municipality of Ilirska Bistrica,Ilirska ulica,Q20522991,2,1,2,"street in Ljubljana, Slovenia",,Q79007,,
+Municipality of Ilirska Bistrica,Illyro-Roman Wars,Q154552,2,1,2,wars between the Romans and the Illyrians (229–168 BC),,Q104212151,,Illyrian Wars
+Municipality of Ilirska Bistrica,municipality,Q15284,2,1,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Municipality of Ilirska Bistrica,municipality of the Philippines,Q24764,2,1,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Municipality of Ilirska Bistrica,municipality,Q27676428,2,1,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Municipality of Ilirska Bistrica,Shanghai,Q8686,2,1,2,provincial-level municipality in China,"Hu|Shang Hai|Shanghai, China|Shanghae|Zanghae|Shang-hai|Shen|Pearl of the Orient|Xanghae|Shanghai Municipality|Municipality of Shanghai|Shanghai City|Shang Hai Shi",Q1208802|Q1066538|Q1549591|Q2264924|Q208511|Q174844|Q200250|Q51929311|Q1073535,,Shanghai
+Municipality of Ilirska Bistrica,municipality in Germany,Q262166,2,1,2,lowest official level of territorial division in Germany,,,Q11618417|Q15284|Q14757767,Municipalities of Germany
+Municipality of Ilirska Bistrica,county town,Q1357964,2,1,2,county's administrative centre in the United Kingdom or Ireland,municipality,Q31728|Q11900291|Q7188,Q3957|Q1306755|Q123705|Q68773434|Q618123,County town
+Municipality of Ilirska Bistrica,municipality of Spain,Q2074737,2,1,2,administrative territorial entity of Spain,municipio de España|Spanish municipality|Municipality of Spain,Q126192154,Q3183364|Q15284|Q1763214|Q11618417|Q48909258,Municipalities of Spain
+Municipality of Ilirska Bistrica,municipality seat,Q15303838,2,1,2,location of the main elements of the government of a municipality,municipal seat|seat of municipal government|municipality capital|municipal town|municipality center|municipal capital,,Q956214|Q1306755|Q486972|Q1901835,
+Municipality of Ilirska Bistrica,municipality of Brazil,Q3184121,2,1,2,administrative division of the states in Brazil,municipalities of Brazil,Q56061,Q10374536|Q1048835|Q15284|Q12357832|Q192611,Municipalities of Brazil
+Municipality of Ilirska Bistrica,municipality of Georgia,Q2655841,2,1,2,"subdivision of Georgia, consisting of a settlement or a group of settlements",municipality,Q28872924,Q244339|Q12357832|Q149621|Q486972,List of municipalities in Georgia (country)
+Vrh nad Laškim,Vrh nad Laškim,Q2063417,3,0,1,"place in Styria, Slovenia",,Q486972|Q18564289,,Vrh nad Laškim
+Vrh nad Laškim,Laško,Q12794668,3,0,2,beer,,Q15075508,,
+Vrh nad Laškim,Lasko,Q37163062,3,0,2,family name,,Q101352,,
+Vrh nad Laškim,Łasko,Q8080470,3,0,2,"village in West Pomeranian Voivodeship, Poland",,Q3558970,,Łasko
+Vrh nad Laškim,Laško,Q1292940,3,0,2,town in Slovenia,Laško (Slovenia),Q3957,,Laško
+Vrh nad Laškim,Laško Municipality,Q15887,3,0,2,municipality of Slovenia,Municipality of Laško,Q328584,,Municipality of Laško
+Vrh nad Laškim,"Laskowice, Kuyavian-Pomeranian Voivodeship",Q6493672,3,0,2,"village in Kuyavian-Pomeranian, Poland",Laskowice,Q3558970,,"Laskowice, Kuyavian-Pomeranian Voivodeship"
+Vrh nad Laškim,Laskow,Q37461627,3,0,2,family name,,Q101352,,
+Vrh nad Laškim,Laskowitz,Q37572471,3,0,2,family name,,Q101352,,
+Vrh nad Laškim,Laskowsky,Q37529559,3,0,2,family name,,Q101352,,
+Vrh nad Laškim,Laskoski,Q37126610,3,0,2,family name,,Q101352,,
+Vrh nad Laškim,coat of arms of Laško Municipality,Q20523040,3,0,2,"coat of arms of Laško municipality, Slovenia",coat of arms of Laško|Laško Municipality coat of arms,Q14659,,
+Laško Municipality,Laško Municipality,Q15887,3,1,1,municipality of Slovenia,Municipality of Laško,Q328584,,Municipality of Laško
+Laško Municipality,coat of arms of Laško Municipality,Q20523040,3,1,1,"coat of arms of Laško municipality, Slovenia",coat of arms of Laško|Laško Municipality coat of arms,Q14659,,
+Laško Municipality,Laško,Q12794668,3,1,2,beer,,Q15075508,,
+Laško Municipality,Lasko,Q37163062,3,1,2,family name,,Q101352,,
+Laško Municipality,Łasko,Q8080470,3,1,2,"village in West Pomeranian Voivodeship, Poland",,Q3558970,,Łasko
+Laško Municipality,Laško,Q1292940,3,1,2,town in Slovenia,Laško (Slovenia),Q3957,,Laško
+Laško Municipality,"Laskowice, Kuyavian-Pomeranian Voivodeship",Q6493672,3,1,2,"village in Kuyavian-Pomeranian, Poland",Laskowice,Q3558970,,"Laskowice, Kuyavian-Pomeranian Voivodeship"
+Laško Municipality,Laskow,Q37461627,3,1,2,family name,,Q101352,,
+Laško Municipality,Laskowitz,Q37572471,3,1,2,family name,,Q101352,,
+Laško Municipality,Laskowsky,Q37529559,3,1,2,family name,,Q101352,,
+Laško Municipality,Laskoski,Q37126610,3,1,2,family name,,Q101352,,
+Zadlaz–Čadrg,Zadlaz–Čadrg,Q2594501,4,0,1,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Zadlaz–Čadrg
+Zadlaz–Čadrg,Municipality of Tolmin,Q15924,4,0,2,municipality of Slovenia,Tolmin Municipality,Q328584,,Municipality of Tolmin
+Zadlaz–Čadrg,Tolmin,Q8011223,4,0,2,town in northwestern Slovenia,,Q486972|Q18564289,,Tolmin
+Zadlaz–Čadrg,electoral ward of Tolmin,Q43396556,4,0,2,,Tolmin,Q43394491,,
+Zadlaz–Čadrg,Tolmino,Q43382301,4,0,2,male given name,Tolmino (first name),Q12308941,,
+Zadlaz–Čadrg,TOLMIN,Q25345897,4,0,2,,,,,TOLMIN (optimization software)
+Zadlaz–Čadrg,Tolminka,Q3507639,4,0,2,mountain river in Slovenia,,Q47521,,
+Zadlaz–Čadrg,Tolmin Parish,Q21899311,4,0,2,Roman catholic parish in western Slovenia,,Q102496,,
+Zadlaz–Čadrg,Tolmino Gios,Q3992414,4,0,2,Italian cyclist,,Q5,,
+Zadlaz–Čadrg,Tolminske Ravne,Q2395566,4,0,2,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Tolminske Ravne
+Zadlaz–Čadrg,Tolminski Lom,Q1965553,4,0,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Tolminski Lom
+Zadlaz–Čadrg,Zadlaz–Žabče,Q5240019,4,0,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Zadlaz–Žabče
+Zadlaz–Čadrg,Zadlaz Cave,Q20521840,4,0,2,cave in Slovenia,,Q35509,,
+Zadlaz–Čadrg,Žabče,Q2395578,4,0,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Žabče
+Zadlaz–Čadrg,Zadlaz,Q61428109,4,0,2,Wikimedia disambiguation page,,Q4167410,,
+Zadlaz–Čadrg,Čadrg,Q2496998,4,0,2,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Čadrg
+Zadlaz–Čadrg,Compressed ARC Digitized Raster Graphics,Q27473223,4,0,2,imagery data package,CADRG,Q5227330,,
+Zadlaz–Čadrg,MIL-PRF-89038: Compressed ARC Digitized Raster Graphics (CADRG),Q27472741,4,0,2,imagery data package standard,CADRG|Compressed ARC Digitized Raster Graphics|MIL-C-89038,Q919510,,
+Zadlaz–Čadrg,CADRG Update File,Q27473331,4,0,2,file format,Compressed ARC Digitized Raster Graphics Update File,Q235557,,
+Zadlaz–Čadrg,CADRG Legend File,Q27473282,4,0,2,file format,Compressed ARC Digitized Raster Graphics Legend File|.lgd,Q235557,,
+Zadlaz–Čadrg,CADRG Overview Image,Q27473293,4,0,2,file format,Compressed ARC Digitized Raster Graphics Overview Image|.ovr,Q235557,,
+Zadlaz–Čadrg,CADRG Frame File,Q27473308,4,0,2,file format,Compressed ARC Digitized Raster Graphics Frame File|.ccz,Q235557,,
+Municipality of Tolmin,Municipality of Tolmin,Q15924,4,1,1,municipality of Slovenia,Tolmin Municipality,Q328584,,Municipality of Tolmin
+Municipality of Tolmin,Tolmin,Q8011223,4,1,2,town in northwestern Slovenia,,Q486972|Q18564289,,Tolmin
+Municipality of Tolmin,electoral ward of Tolmin,Q43396556,4,1,2,,Tolmin,Q43394491,,
+Municipality of Tolmin,Tolmino,Q43382301,4,1,2,male given name,Tolmino (first name),Q12308941,,
+Municipality of Tolmin,TOLMIN,Q25345897,4,1,2,,,,,TOLMIN (optimization software)
+Municipality of Tolmin,Tolminka,Q3507639,4,1,2,mountain river in Slovenia,,Q47521,,
+Municipality of Tolmin,Tolmin Parish,Q21899311,4,1,2,Roman catholic parish in western Slovenia,,Q102496,,
+Municipality of Tolmin,Tolmino Gios,Q3992414,4,1,2,Italian cyclist,,Q5,,
+Municipality of Tolmin,Tolminske Ravne,Q2395566,4,1,2,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Tolminske Ravne
+Municipality of Tolmin,Tolminski Lom,Q1965553,4,1,2,"place in Slovenian Littoral, Slovenia",,Q486972,,Tolminski Lom
+Municipality of Tolmin,Zadlaz–Čadrg,Q2594501,4,1,2,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Zadlaz–Čadrg
+Rimski vrelec,Rimski vrelec,Q12800221,5,0,1,,,Q12806577|Q18564289,,
+Krka,Krka,Q1126509,6,0,1,river in southern Slovenia,,Q4022,,Krka (Sava)
+Krka,Krka,Q143017,6,0,1,pharmaceutical company from Slovenia,,Q4830453|Q6881511,,Krka (company)
+Krka,Krka,Q591224,6,0,1,river in Croatia,,Q4022,,Krka (Adriatic Sea)
+Krka,MRK Krka,Q6717503,6,0,1,Slovenian handball club,Krka|RK Krka|ŽRK Krka,Q10517054,,MRK Krka
+Krka,Krka,Q2305432,6,0,1,"place in Lower Carniola, Slovenia","Krka, Ivančna Gorica",Q486972|Q18564289,,"Krka, Ivančna Gorica"
+Krka,Krka,Q25556543,6,0,1,river between Bosnia and Croatia,,Q4022,,Krka (Una)
+Krka,KRKA,Q6341807,6,0,1,"Air 1 radio station in Severance–Fort Collins, Colorado",,Q14350,,KRKA (FM)
+Krka,Krka,Q42372258,6,0,1,stream in northeastern Slovenia,Krka (Pesnica),Q47521,,
+Krka,Rowing Club Krka,Q2171961,6,0,1,Croatian rowing club in Šibenik,,Q7372078|Q847017,,
+Krka,Krkavec,Q111763343,6,0,1,family name,Krkavec (family name)|Krkavec (surname),Q101352,,
+Krka,Krka National Park,Q828155,6,0,2,national park from the approximately 45 kilometer long section of the Krka river between Knin and Skradin and the lower reaches of the tributary Čikolain in Croatia,,Q46169|Q473972,,Krka National Park
+Municipality of Ivančna Gorica,Municipality of Ivančna Gorica,Q1008048,6,1,1,municipality of Slovenia,Občina Ivančna Gorica|Ivančna Gorica Municipality,Q328584,,Municipality of Ivančna Gorica
+Municipality of Ivančna Gorica,Ivančna Gorica,Q923853,6,1,2,human settlement,,Q486972,,Ivančna Gorica
+Municipality of Ivančna Gorica,Ivančna Gorica train station,Q19938266,6,1,2,railway station in Slovenia,,Q55488,,
+Municipality of Ivančna Gorica,Ivančna Gorica Stadium,Q16842074,6,1,2,"multi-purpose stadium in Ivančna Gorica, Slovenia",,Q483110,,
+Municipality of Ivančna Gorica,coat of arms of Ivančna Gorica Municipality,Q19933806,6,1,2,"coat of arms of Ivančna Gorica municipality, Slovenia",coat of arms of Ivančna Gorica|Ivančna Gorica Municipality coat of arms,Q14659,,
+Municipality of Ivančna Gorica,Ivančna Gorica Community Health Centre,Q49139747,6,1,2,,Zdravstveni dom Ivančna Gorica,Q4260475,,
+Municipality of Ivančna Gorica,Ivančna Gorica,Q2341058,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Preserje pri Komnu,Preserje pri Komnu,Q3326039,7,0,1,"place in Slovenian Littoral, Slovenia",,Q486972|Q18564289,,Preserje pri Komnu
+Preserje pri Komnu,Komen Municipality,Q15283322,7,0,2,municipality of Slovenia,Komen,Q328584,,Municipality of Komen
+Komen Municipality,Komen Municipality,Q15283322,7,1,1,municipality of Slovenia,Komen,Q328584,,Municipality of Komen
+Komen Municipality,Komen,Q556210,7,1,2,settlement in Slovenia,,Q486972|Q18564289,,Komen
+Komen Municipality,Komen,Q37551878,7,1,2,family name,,Q101352,,
+Komen Municipality,Comines,Q626537,7,1,2,"commune in Nord, France",Komen|Koomn-Frans,Q484170|Q902814,,"Comines, Nord"
+Komen Municipality,Susan G. Komen for the Cure,Q246898,7,1,2,breast cancer foundation,Komen|Susan G. Komen|The Susan G. Komen Breast Cancer Foundation|Susan G. Komen Foundation,Q96943524|Q163740,,Susan G. Komen
+Komen Municipality,Komenský square,Q12029907,7,1,2,"square in Třebíč, Czech Republic",Komenského nám.|Komenského náměstí,Q174782,,
+Komen Municipality,Komenského,Q43439443,7,1,2,"street in Jihlava, Czech Republic",Komenského (Jihlava),Q79007,,
+Komen Municipality,Komenda,Q37482905,7,1,2,family name,,Q101352,,
+Komen Municipality,"Komenský square, Brno",Q16031353,7,1,2,square in Brno,,Q174782,,
+Komen Municipality,Komenského,Q45279472,7,1,2,"street in Suchdol nad Odrou, Czech Republic",,Q79007,,
+Komen Municipality,Komnur,Q94505811,7,1,2,"village in Lingsugur tehsil, Raichur district",,Q56436498,,
+Komen Municipality,"Komnur, Lingsugur",Q10780922,7,1,2,human settlement in India,,Q486972,,
+Butajnova,Butajnova,Q1824142,8,0,1,human settlement,,Q486972|Q18564289,,Butajnova
+Butajnova,"Butajnova, Setnik",Q60463600,8,0,1,former settlement in Slovenia,,Q22674925,,
+Municipality of Dobrova–Polhov Gradec,Municipality of Dobrova–Polhov Gradec,Q1005208,8,1,1,municipality of Slovenia,Dobrova-Polhov Gradec,Q328584,,Municipality of Dobrova–Polhov Gradec
+Vuhred,Vuhred,Q2797431,9,0,1,town in northern Slovenia,,Q486972|Q18564289,,Vuhred
+Vuhred,Municipality of Radlje ob Dravi,Q1005364,9,0,1,municipality of Slovenia,Radlje ob Dravi municipality,Q328584,,Municipality of Radlje ob Dravi
+Vuhred,Vuhred railway station,Q12807530,9,0,1,railway station in Slovenia,,Q55488,,
+Vuhred,Vuhred Hydroelectric Power Plant,Q12790971,9,0,1,,,Q15911738,,
+Vuhred,Vuhredski Potok,Q31907427,9,0,1,river in Slovenia - Geonames ID = 3187077,,Q4022,,
+Vuhred,Vuhred elektrarna railway halt,Q111722953,9,0,1,,,Q55678,,
+Vuhred,Radlje ob Dravi,Q6565933,9,0,2,"place in Styria, Slovenia",,Q3957,,Radlje ob Dravi
+Vuhred,Radlje ob Dravi Lutheran Church,Q105622649,9,0,2,,,Q57644089,,
+Vuhred,Radlje ob Dravi Community Health Centre,Q49145861,9,0,2,,Zdravstveni dom Radlje ob Dravi,Q4260475,,
+Vuhred,Template:Radlje ob Dravi,Q13518593,9,0,2,Wikimedia template,,Q11266439,,Template:Radlje ob Dravi
+Vuhred,Radlje ob Dravi,Q131824094,9,0,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Radlje ob Dravi,Municipality of Radlje ob Dravi,Q1005364,9,1,1,municipality of Slovenia,Radlje ob Dravi municipality,Q328584,,Municipality of Radlje ob Dravi
+Municipality of Radlje ob Dravi,Radlje ob Dravi,Q6565933,9,1,2,"place in Styria, Slovenia",,Q3957,,Radlje ob Dravi
+Municipality of Radlje ob Dravi,Radlje ob Dravi Lutheran Church,Q105622649,9,1,2,,,Q57644089,,
+Municipality of Radlje ob Dravi,Radlje ob Dravi Community Health Centre,Q49145861,9,1,2,,Zdravstveni dom Radlje ob Dravi,Q4260475,,
+Municipality of Radlje ob Dravi,Template:Radlje ob Dravi,Q13518593,9,1,2,Wikimedia template,,Q11266439,,Template:Radlje ob Dravi
+Municipality of Radlje ob Dravi,Radlje ob Dravi,Q131824094,9,1,2,Wikimedia disambiguation page,,Q4167410,,
+Podsmreka pri Velikih Laščah,Podsmreka pri Velikih Laščah,Q2900190,10,0,1,"place in Lower Carniola, Slovenia",,Q486972|Q18564289,,Podsmreka pri Velikih Laščah
+Podsmreka pri Velikih Laščah,Velike Lašče,Q639899,10,0,2,"settlement in Velike Lašče Municipality, Slovenia",,Q486972|Q18564289,,Velike Lašče
+Podsmreka pri Velikih Laščah,Municipality of Velike Lašče,Q13378281,10,0,2,municipality of Slovenia,,Q328584,,Municipality of Velike Lašče
+Podsmreka pri Velikih Laščah,Velike Lašče railway halt,Q111722936,10,0,2,,,Q55678,,
+Podsmreka pri Velikih Laščah,Template:Velike Lašče,Q13518615,10,0,2,Wikimedia template,,Q11266439,,Template:Velike Lašče
+Podsmreka pri Velikih Laščah,Podsmreka,Q2180098,10,0,2,"place in Upper Carniola, Slovenia",,Q486972,,"Podsmreka, Dobrova–Polhov Gradec"
+Podsmreka pri Velikih Laščah,Podsmreka pri Višnji Gori,Q2311023,10,0,2,"place in Lower Carniola, Slovenia",,Q486972,,Podsmreka pri Višnji Gori
+Podsmreka pri Velikih Laščah,Podsmreka Castle,Q3402539,10,0,2,16th-century mansion in Slovenia,,Q879050,,Podsmreka Castle
+Podsmreka pri Velikih Laščah,Podsmreka,Q28837630,10,0,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Velike Lašče,Municipality of Velike Lašče,Q13378281,10,1,1,municipality of Slovenia,,Q328584,,Municipality of Velike Lašče
+Municipality of Velike Lašče,Velike Lašče,Q639899,10,1,2,"settlement in Velike Lašče Municipality, Slovenia",,Q486972|Q18564289,,Velike Lašče
+Municipality of Velike Lašče,Velike Lašče railway halt,Q111722936,10,1,2,,,Q55678,,
+Municipality of Velike Lašče,Template:Velike Lašče,Q13518615,10,1,2,Wikimedia template,,Q11266439,,Template:Velike Lašče
+Municipality of Velike Lašče,Podsmreka,Q2180098,10,1,2,"place in Upper Carniola, Slovenia",,Q486972,,"Podsmreka, Dobrova–Polhov Gradec"
+Municipality of Velike Lašče,Podsmreka pri Višnji Gori,Q2311023,10,1,2,"place in Lower Carniola, Slovenia",,Q486972,,Podsmreka pri Višnji Gori
+Municipality of Velike Lašče,Podsmreka pri Velikih Laščah,Q2900190,10,1,2,"place in Lower Carniola, Slovenia",,Q486972|Q18564289,,Podsmreka pri Velikih Laščah
+Municipality of Velike Lašče,Podsmreka Castle,Q3402539,10,1,2,16th-century mansion in Slovenia,,Q879050,,Podsmreka Castle
+Municipality of Velike Lašče,Podsmreka,Q28837630,10,1,2,Wikimedia disambiguation page,,Q4167410,,
+Municipality of Velike Lašče,municipality,Q15284,10,1,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Municipality of Velike Lašče,municipality of the Philippines,Q24764,10,1,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Municipality of Velike Lašče,municipality,Q27676428,10,1,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Municipality of Velike Lašče,Shanghai,Q8686,10,1,2,provincial-level municipality in China,"Hu|Shang Hai|Shanghai, China|Shanghae|Zanghae|Shang-hai|Shen|Pearl of the Orient|Xanghae|Shanghai Municipality|Municipality of Shanghai|Shanghai City|Shang Hai Shi",Q1208802|Q1066538|Q1549591|Q2264924|Q208511|Q174844|Q200250|Q51929311|Q1073535,,Shanghai
+Municipality of Velike Lašče,municipality in Germany,Q262166,10,1,2,lowest official level of territorial division in Germany,,,Q11618417|Q15284|Q14757767,Municipalities of Germany
+Municipality of Velike Lašče,county town,Q1357964,10,1,2,county's administrative centre in the United Kingdom or Ireland,municipality,Q31728|Q11900291|Q7188,Q3957|Q1306755|Q123705|Q68773434|Q618123,County town
+Municipality of Velike Lašče,municipality of Spain,Q2074737,10,1,2,administrative territorial entity of Spain,municipio de España|Spanish municipality|Municipality of Spain,Q126192154,Q3183364|Q15284|Q1763214|Q11618417|Q48909258,Municipalities of Spain
+Municipality of Velike Lašče,municipality seat,Q15303838,10,1,2,location of the main elements of the government of a municipality,municipal seat|seat of municipal government|municipality capital|municipal town|municipality center|municipal capital,,Q956214|Q1306755|Q486972|Q1901835,
+Municipality of Velike Lašče,municipality of Brazil,Q3184121,10,1,2,administrative division of the states in Brazil,municipalities of Brazil,Q56061,Q10374536|Q1048835|Q15284|Q12357832|Q192611,Municipalities of Brazil
+Municipality of Velike Lašče,municipality of Georgia,Q2655841,10,1,2,"subdivision of Georgia, consisting of a settlement or a group of settlements",municipality,Q28872924,Q244339|Q12357832|Q149621|Q486972,List of municipalities in Georgia (country)
+Kačiče-Pared,Kačiče-Pared,Q1841276,11,0,1,human settlement in Slovenia,,Q486972|Q18564289,,Kačiče-Pared
+Kačiče-Pared,Municipality of Divača,Q557216,11,0,2,municipality of Slovenia,Občina Divača,Q328584,,Municipality of Divača
+Kačiče-Pared,Divača,Q1230519,11,0,2,human settlement,,Q486972|Q18564289,,Divača
+Kačiče-Pared,Divača railway station,Q3969538,11,0,2,"railway station in Divača, Slovenia",,Q55488,,Divača railway station
+Kačiče-Pared,Divača–Pula railway line,Q3511918,11,0,2,railway line in Slovenia and Croatia,,Q728937,,
+Kačiče-Pared,Divača–Koper railway,Q5283843,11,0,2,railway line in Slovenia,,Q728937,,Divača–Koper Railway
+Kačiče-Pared,Divača airfield,Q1654442,11,0,2,"aerodrome in Divača, Slovenia",LJDI,Q62447,,Divača Airport
+Kačiče-Pared,Divača - Prešnica junction railway line,Q111358768,11,0,2,railway line in Slovenia,,Q728937,,
+Kačiče-Pared,Divača train disaster,Q2625067,11,0,2,railway accident in Slovenia,,Q1078765,,
+Kačiče-Pared,Divača Cave,Q12787605,11,0,2,cave in Slovenia,,Q35509,,
+Kačiče-Pared,Divača parish,Q67183597,11,0,2,Roman catholic parish in Koper diocese,,Q102496,,
+Municipality of Divača,Municipality of Divača,Q557216,11,1,1,municipality of Slovenia,Občina Divača,Q328584,,Municipality of Divača
+Municipality of Divača,Divača,Q1230519,11,1,2,human settlement,,Q486972|Q18564289,,Divača
+Municipality of Divača,Divača railway station,Q3969538,11,1,2,"railway station in Divača, Slovenia",,Q55488,,Divača railway station
+Municipality of Divača,Divača–Pula railway line,Q3511918,11,1,2,railway line in Slovenia and Croatia,,Q728937,,
+Municipality of Divača,Divača–Koper railway,Q5283843,11,1,2,railway line in Slovenia,,Q728937,,Divača–Koper Railway
+Municipality of Divača,Divača airfield,Q1654442,11,1,2,"aerodrome in Divača, Slovenia",LJDI,Q62447,,Divača Airport
+Municipality of Divača,Divača - Prešnica junction railway line,Q111358768,11,1,2,railway line in Slovenia,,Q728937,,
+Municipality of Divača,Divača train disaster,Q2625067,11,1,2,railway accident in Slovenia,,Q1078765,,
+Municipality of Divača,Divača Cave,Q12787605,11,1,2,cave in Slovenia,,Q35509,,
+Municipality of Divača,Divača parish,Q67183597,11,1,2,Roman catholic parish in Koper diocese,,Q102496,,
+Municipality of Divača,Kačiče-Pared,Q1841276,11,1,2,human settlement in Slovenia,,Q486972|Q18564289,,Kačiče-Pared
+Novelo,Novelo,Q37481879,12,0,1,family name,,Q101352,,Novelo (surname)
+Novelo,short story,Q49084,12,0,1,"brief work of literature, usually written in narrative prose",tale,Q223393|Q4263830,Q1053765|Q87482979|Q3328821|Q116518880,Short story
+Novelo,Alejandro Novelo Retana,Q21522256,12,0,1,Mexican botanist (1951-2006),Novelo|A. Novelo R.|Alejandro Novelo R.|Luis Alejandro Novelo Retana|A. N. Retana,Q5,,
+Novelo,Novelo,Q2278933,12,0,1,"village in the Municipality of Miren–Kostanjevica, Slovenia",,Q486972|Q18564289,,Novelo
+Novelo,Noveloa,Q18121606,12,0,1,genus of plants,,Q16521,,Noveloa
+Novelo,novella,Q149537,12,0,1,"written, fictional, prose narrative normally longer than a short story but shorter than a novel",,Q4263830|Q19610271,Q87482979|Q676,Novella
+Novelo,Noveloa longifolia,Q18119908,12,0,1,species of plant,,Q16521,,Noveloa longifolia
+Novelo,Noveloa coulteriana,Q18119907,12,0,1,species of plant,,Q16521,,
+Novelo,Novelo,Q61290350,12,0,1,,,Q20202352,,
+Novelo,Viburnum opulus,Q156928,12,0,1,species of plant,Vibernum opulus|guelder-rose|guelder rose|kalyna|cranberry-tree|water elder|cramp bark|snowball tree|common snowball|European cranberrybush,Q16521,,Viburnum opulus
+Miren–Kostanjevica Municipality,Miren–Kostanjevica Municipality,Q658076,12,1,1,municipality of Slovenia,Miren-Kostanjevica,Q328584,,Municipality of Miren-Kostanjevica

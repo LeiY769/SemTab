@@ -1,0 +1,466 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Assumption Cathedral,Dormition Cathedral,Q748910,0,0,1,Russian Orthodox church in Moscow Kremlin in Russia,Cathedral of the Dormition|Assumption Cathedral|Cathedral of the Assumption|Cathedral of the Dorimition,Q56242225|Q2319498,,"Dormition Cathedral, Moscow"
+Assumption Cathedral,Dormition Cathedral,Q775487,0,0,1,"cathedral in Vladimir, Russia (13th and 14th centuries)","Assumption Cathedral, Vladimir|Dormition Cathedral in Vladimir|Assumption Cathedral",Q56242225|Q2319498,,"Dormition Cathedral, Vladimir"
+Assumption Cathedral,Assumption Cathedral,Q2942861,0,0,1,roman catholic cathedral in Quebec,"Paroisse Immaculée-Conception|Assumption Cathedral|Paroisse Immaculee-Conception|Cathédrale de l'Assomption, Trois-Rivières|Assumption Cathedral, Trois-Rivières",Q2977,,Assumption Cathedral (Trois-Rivières)
+Assumption Cathedral,Assumption Cathedral,Q2495658,0,0,1,principal Roman Catholic church of Thailand,,Q2977,,"Assumption Cathedral, Bangkok"
+Assumption Cathedral,Greek Catholic Cathedral in Búza Square,Q855383,0,0,1,"cathedral in Miskolc, Hungary",Greek Catholic Cathedral in Buza Square|Assumption Cathedral,Q2977|Q1088552,,"Assumption Cathedral, Miskolc"
+Assumption Cathedral,Dormition Cathedral,Q2381859,0,0,1,"Orthodox church of Kharkiv, Ukraine","Dormition Cathedral, Kharkiv|Assumption Cathedral",Q56242225|Q200334,,"Dormition Cathedral, Kharkiv"
+Assumption Cathedral,Assumption Cathedral,Q1899549,0,0,1,"cathedral in Astana, Kazakhstan",,Q56242225,,
+Assumption Cathedral,Assumption Cathedral,Q601589,0,0,1,church,,Q2977|Q1088552,,Kalocsa Cathedral
+Assumption Cathedral,Assumption Cathedral,Q2437225,0,0,1,Cathedral in Omsk is one of the largest churches in Siberia,Dormition Cathedral,Q56242225,,"Dormition Cathedral, Omsk"
+Assumption Cathedral,"Dormition of the Theotokos Church, Zalău",Q12053059,0,0,1,heritage site,Assumption Cathedral,Q1088552|Q33232008,,"Dormition of the Theotokos Church, Zalău"
+Assumption Cathedral,Cathedral of the Assumption,Q2942862,0,0,2,"Catholic cathedral in Louisville, Kentucky",,Q56242215|Q2977,,"Cathedral of the Assumption (Louisville, Kentucky)"
+Assumption Cathedral,Cathedral of the Assumption,Q4478052,0,0,2,"Greek Orthodox church in Budapest, Hungary",,Q2977|Q2031836,,
+Assumption Cathedral,Orthodox cathedral of the Dormition of Our Lady in Makhachkala,Q2253903,0,0,2,"church in Dagestan, Russia",Cathedral of the Assumption,Q56242225|Q2319498,,Cathedral of the Assumption of Makhachkala
+Assumption Cathedral,Cathedral of the Assumption,Q2942812,0,0,2,"church building in Sora, Lazio, Italy",,Q2977,,
+Assumption Cathedral,Segovia Cathedral,Q1499912,0,0,2,"cathedral in Segovia, Spain",Catedral de Santa María de Segovia|Catedral de Segovia|Cathedral of the Assumption of Our Lady,Q56242215|Q4989906,,Segovia Cathedral
+Assumption Cathedral,Pamplona Cathedral,Q389210,0,0,2,cathedral in Spain,Cathedral of the Assumption of Our Lady,Q56242215|Q4989906|Q1231888|Q16970,,Pamplona Cathedral
+Assumption Cathedral,Hildesheim Cathedral,Q167231,0,0,2,"cathedral church in Hildesheim, Germany",St. Mary's Cathedral|Cathedral of the Assumption of Mary,Q56242215,,Hildesheim Cathedral
+Assumption Cathedral,Burgo de Osma Cathedral,Q509931,0,0,2,cathedral,Cathedral of the Assumption of Our Lady,Q56242215|Q2577114|Q907116,,Burgo de Osma Cathedral
+Assumption Cathedral,Barbastro Cathedral,Q2942584,0,0,2,"cultural property in Barbastro, Spain",Barbastro Cathedral of the Assumption|Cathedral of the Assumption of Our Lady,Q56242215|Q907116|Q2577114,,Barbastro Cathedral
+Assumption Cathedral,Kazan Cathedral,Q404571,0,0,2,cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg,"Kazan Cathedral, St. Petersburg|Kazan Cathedral, Saint Petersburg",Q56242225|Q2319498,,"Kazan Cathedral, Saint Petersburg"
+Assumption Cathedral,Kazan Cathedral,Q1140402,0,0,2,"church in Moscow, Russia",Cathedral of Our Lady of Kazan,Q2031836|Q2319498,,"Kazan Cathedral, Moscow"
+Assumption Cathedral,Kazan Cathedral,Q124569726,0,0,2,"sobor in Serafimovich, Russia",,Q2977|Q2319498,,
+Assumption Cathedral,Kazan Cathedral in Volgograd,Q3044636,0,0,2,"church building in Volgograd, Russia",Cathedral of Our Lady of Kazan,Q56242225|Q16970|Q2319498,,
+Assumption Cathedral,Clergy house of Kazan cathedral,Q21638978,0,0,2,"building of Clergy house of Kazan cathedral, Russia",Kazan Cathedral House|The house of the clergy of the Kazan Cathedral,Q41176|Q2319498,,Kazan Cathedral House
+Assumption Cathedral,Kazan Cathedral mosque,Q111805693,0,0,2,mosque in Russia,,Q32815,,
+Assumption Cathedral,Cathedral of Our Lady of Kazan (Kazan),Q125869013,0,0,2,"main cathedral of Kazansky Bogoroditsky Monastery, Russia",Kazan Cathedral (Kazan),Q25416095|Q2031836,,
+Assumption Cathedral,Kazan Cathedral,Q2350835,0,0,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of Our Lady of Kazan
+Russian Empire,Russian Empire,Q34266,0,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russian Empire,Romanov Empire,Q7382038,0,1,1,micronation created in 2011,Russian Empire|Imperial Throne,Q188443|Q21512251,Q48349,Romanov Empire (micronation)
+Russian Empire,Russian Empire census,Q2163579,0,1,1,census carried out in the Russian Empire,Russian census of 1897,Q39825|Q4350734,,1897 Russian census
+Russian Empire,Russian America,Q910495,0,1,1,Russian possessions in North America in the 18th century until 1867,America|Russian Empire of America,Q133156,,Russian America
+Russian Empire,Russian Empire national football team,Q1253316,0,1,1,former men's national association football team that represented the Russian Empire,,Q135408445,,Russian Empire national football team
+Russian Empire,history of the Russian Empire,Q4204714,0,1,1,occurrences and people in the Russian Empire throughout history,the Russian Empire history|Russian Empire history,Q17544377,,
+Russian Empire,coat of arms of Russian Empire,Q2325440,0,1,1,coat of arms,Russian Empire coat of arms,Q14659,,Coat of arms of the Russian Empire
+Russian Empire,Russian Empire at the 1908 Summer Olympics,Q1200994,0,1,1,List of participants from Russia,,Q26213387,,Russian Empire at the 1908 Summer Olympics
+Russian Empire,Russian Empire at the 1900 Summer Olympics,Q140974,0,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1900 Summer Olympics
+Russian Empire,Russian Empire at the 1912 Summer Olympics,Q578901,0,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1912 Summer Olympics
+Russian Empire,Dormition Cathedral,Q748910,0,1,2,Russian Orthodox church in Moscow Kremlin in Russia,Cathedral of the Dormition|Assumption Cathedral|Cathedral of the Assumption|Cathedral of the Dorimition,Q56242225|Q2319498,,"Dormition Cathedral, Moscow"
+Russian Empire,Dormition Cathedral,Q775487,0,1,2,"cathedral in Vladimir, Russia (13th and 14th centuries)","Assumption Cathedral, Vladimir|Dormition Cathedral in Vladimir|Assumption Cathedral",Q56242225|Q2319498,,"Dormition Cathedral, Vladimir"
+Russian Empire,Assumption Cathedral,Q2942861,0,1,2,roman catholic cathedral in Quebec,"Paroisse Immaculée-Conception|Assumption Cathedral|Paroisse Immaculee-Conception|Cathédrale de l'Assomption, Trois-Rivières|Assumption Cathedral, Trois-Rivières",Q2977,,Assumption Cathedral (Trois-Rivières)
+Russian Empire,Assumption Cathedral,Q2495658,0,1,2,principal Roman Catholic church of Thailand,,Q2977,,"Assumption Cathedral, Bangkok"
+Russian Empire,Greek Catholic Cathedral in Búza Square,Q855383,0,1,2,"cathedral in Miskolc, Hungary",Greek Catholic Cathedral in Buza Square|Assumption Cathedral,Q2977|Q1088552,,"Assumption Cathedral, Miskolc"
+Russian Empire,Dormition Cathedral,Q2381859,0,1,2,"Orthodox church of Kharkiv, Ukraine","Dormition Cathedral, Kharkiv|Assumption Cathedral",Q56242225|Q200334,,"Dormition Cathedral, Kharkiv"
+Russian Empire,Assumption Cathedral,Q1899549,0,1,2,"cathedral in Astana, Kazakhstan",,Q56242225,,
+Russian Empire,Assumption Cathedral,Q601589,0,1,2,church,,Q2977|Q1088552,,Kalocsa Cathedral
+Russian Empire,Assumption Cathedral,Q2437225,0,1,2,Cathedral in Omsk is one of the largest churches in Siberia,Dormition Cathedral,Q56242225,,"Dormition Cathedral, Omsk"
+Russian Empire,"Dormition of the Theotokos Church, Zalău",Q12053059,0,1,2,heritage site,Assumption Cathedral,Q1088552|Q33232008,,"Dormition of the Theotokos Church, Zalău"
+Russian Empire,Russian Orthodox Church,Q60995,0,1,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Russian Empire,Russian Orthodox Church,Q571593,0,1,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Russian Empire,Russian Orthodox Church of Geneva,Q4240411,0,1,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Russian Empire,Russian Orthodox Church,Q3586061,0,1,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Russian Empire,Russian Orthodox Church Outside of Russia,Q912932,0,1,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Russian Empire,history of the Russian Orthodox Church,Q2395219,0,1,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Russian Empire,Russian Orthodox Church in Azerbaijan,Q4075904,0,1,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+Russian Empire,Russian Orthodox Church Abroad (Agathangelos),Q3586066,0,1,2,,ROCOR (A),Q4316503,,
+Russian Empire,Russian orthodox church of Biarritz,Q2041472,0,1,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Russian Empire,Russian Orthodox Church Buildings and Sites TR,Q107085711,0,1,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Russian Empire,Moscow,Q649,0,1,2,capital and most populous city of Russia,"Moscow, Russia|Moskva Federal City, Russia|Moscow, USSR|Moskva, Russia|City of Moscow|Moscow, Russian Federation|Moscow, Soviet Union|Moscow, Russian SFSR|Москва|Moskva, Rossiya|Mosky|Moskovĭ|Moskvi|Moskve|Moskvë",Q4442912|Q183342|Q1549591|Q174844|Q51929311|Q51929311|Q51929311|Q51929311|Q7930989|Q43263|Q257391|Q486972|Q106389302,,Moscow
+Russian Empire,1980 Summer Olympics,Q8450,0,1,2,"Games of the XXII Olympiad, in Moscow, USSR",Juegos de la XXII Olimpiada|1980 Moscow|Moscow 1980,Q135976384|Q14547231,,1980 Summer Olympics
+Russian Empire,UTC+03:00,Q6760,0,1,2,identifier for a time offset from UTC of +3,Eastern European Summer Time|Further-eastern European Time|Arabia Standard Time|East Africa Time|Kaliningrad Time|Moscow Time|Turkey Time|Turkish Time|TRT,Q17272482,,UTC+03:00
+Russian Empire,Moscow Pedagogical State University,Q1778321,0,1,2,university in Russia,Moscow University for Women|Moscow Pedagogical University|MPGU,Q875538|Q3918,,Moscow Pedagogical State University
+Russian Empire,Lomonosov Moscow State University,Q13164,0,1,2,"public research university in Moscow, Russia",MSU|Lomonosov University|Moscow University|M. V. Lomonosov State University|M.V. Lomonosov Moscow State University|Moscow State University,Q875538,,Moscow State University
+Russian Empire,Moscow,Q499927,0,1,2,"city in and the county seat of Latah County, Idaho, United States","Moscow, Idaho|Moscow, ID",Q1093829,,"Moscow, Idaho"
+Russian Empire,Moscow Oblast,Q1697,0,1,2,administrative division (oblast) in central Russia,Podmoskovye|Moskovskaya oblast'|Moscow Region,Q835714|Q43263,,Moscow Oblast
+Russian Empire,Moscow,Q4304438,0,1,2,"unincorporated community in Muscatine County, Iowa","Moscow, Iowa|Moscow, IA",Q17343829,,"Moscow, Iowa"
+Russian Empire,Moscow Conservatory,Q215539,0,1,2,higher musical education institution in Moscow,Moscow Imperial Conservatory|Moscow Tchaikovsky Conservatory|Moscow State Tchaikovsky Conservatory|Tchaikovsky Moscow State Conservatory,Q184644|Q2319498,,Moscow Conservatory
+Russian Empire,Moscow,Q139886030,0,1,2,,,Q571,,
+Russian Empire,Saint Petersburg,Q656,0,1,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+Russian Empire,St. Petersburg,Q49236,0,1,2,"city in Pinellas County, Florida, United States","St. Petersburg, Florida|Saint Petersburg|St Petersburg|St Petersburg, Florida|St. Petersburg, FL|City of St. Petersburg, Florida",Q1093829|Q1549591,,"St. Petersburg, Florida"
+Russian Empire,Saint Petersburg Mining University,Q2495829,0,1,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+Russian Empire,Saint Petersburg State University,Q27621,0,1,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+Russian Empire,Imperial Academy of Arts,Q628254,0,1,2,"art school in Saint Petersburg, Russia",Russian Academy of Arts|Academy of the Three Noblest Arts|Saint Petersburg Academy of Arts|Leningrad Academy of arts|St Petersburg academy,Q383092|Q2319498,,Imperial Academy of Arts
+Russian Empire,Saint Petersburg Conservatory,Q178416,0,1,2,music school in Saint Petersburg,Leningrad Conservatory|N. A. Rimsky-Korsakov Saint Petersburg State Conservatory|Saint Petersburg State Conservatory named after N.A. Rimsky-Korsakov|Rimsky-Korsakov Saint Petersburg State Conservatory|St. Petersburg Rimsky-Korsakov State Conservatory,Q184644|Q2385804,,Saint Petersburg Conservatory
+Russian Empire,Saint Petersburg Academy of Sciences,Q4345832,0,1,2,historical academy (1724–1917),The Saint Petersburg Academy of Sciences|The St. Petersburg Academy of Sciences|St. Petersburg Academy of Sciences|Imperial Saint Petersburg Academy of Sciences,Q414147,,Saint Petersburg Academy of Sciences
+Russian Empire,Peter the Great Saint Petersburg State Polytechnical University,Q1379834,0,1,2,university in Russia,Saint Petersburg State Technical University|St. Petersburg Polytechnic University,Q4315006|Q1497364|Q2319498,,Peter the Great St. Petersburg Polytechnic University
+Russian Empire,Repin Institute of Arts,Q4201516,0,1,2,"education organization in Saint Petersburg, Russia","Saint Petersburg State Academic Institute of Painting Sculpture and Architecture named after I.E. Repin|Leningrad Order of Labor red banner Institute of painting, sculpture and architecture|Repin Academy of Arts|Saint Petersburg Repin Academy of Arts",Q2385804,,Saint Petersburg Repin Academy of Fine Arts
+Russian Empire,S. M. Kirov Military Medical Academy,Q1459393,0,1,2,"school of military medicine in Saint Petersburg, Russian Federation",Military-Medical Academy. CM. Kirov|Kirov Military Medical Academy|Academy of Military Medicine|Imperial Military Medical Academy|Saint Petersburg Academy for Military Medicine|Imperial Academy of Medical Surgery|Imperial Medical and Surgical Academy|Kirov Academy,Q917182|Q140968873,,S. M. Kirov Military Medical Academy
+Assumption Cathedral,Dormition Cathedral,Q748910,1,0,1,Russian Orthodox church in Moscow Kremlin in Russia,Cathedral of the Dormition|Assumption Cathedral|Cathedral of the Assumption|Cathedral of the Dorimition,Q56242225|Q2319498,,"Dormition Cathedral, Moscow"
+Assumption Cathedral,Dormition Cathedral,Q775487,1,0,1,"cathedral in Vladimir, Russia (13th and 14th centuries)","Assumption Cathedral, Vladimir|Dormition Cathedral in Vladimir|Assumption Cathedral",Q56242225|Q2319498,,"Dormition Cathedral, Vladimir"
+Assumption Cathedral,Assumption Cathedral,Q2942861,1,0,1,roman catholic cathedral in Quebec,"Paroisse Immaculée-Conception|Assumption Cathedral|Paroisse Immaculee-Conception|Cathédrale de l'Assomption, Trois-Rivières|Assumption Cathedral, Trois-Rivières",Q2977,,Assumption Cathedral (Trois-Rivières)
+Assumption Cathedral,Assumption Cathedral,Q2495658,1,0,1,principal Roman Catholic church of Thailand,,Q2977,,"Assumption Cathedral, Bangkok"
+Assumption Cathedral,Greek Catholic Cathedral in Búza Square,Q855383,1,0,1,"cathedral in Miskolc, Hungary",Greek Catholic Cathedral in Buza Square|Assumption Cathedral,Q2977|Q1088552,,"Assumption Cathedral, Miskolc"
+Assumption Cathedral,Dormition Cathedral,Q2381859,1,0,1,"Orthodox church of Kharkiv, Ukraine","Dormition Cathedral, Kharkiv|Assumption Cathedral",Q56242225|Q200334,,"Dormition Cathedral, Kharkiv"
+Assumption Cathedral,Assumption Cathedral,Q1899549,1,0,1,"cathedral in Astana, Kazakhstan",,Q56242225,,
+Assumption Cathedral,Assumption Cathedral,Q601589,1,0,1,church,,Q2977|Q1088552,,Kalocsa Cathedral
+Assumption Cathedral,Assumption Cathedral,Q2437225,1,0,1,Cathedral in Omsk is one of the largest churches in Siberia,Dormition Cathedral,Q56242225,,"Dormition Cathedral, Omsk"
+Assumption Cathedral,"Dormition of the Theotokos Church, Zalău",Q12053059,1,0,1,heritage site,Assumption Cathedral,Q1088552|Q33232008,,"Dormition of the Theotokos Church, Zalău"
+Assumption Cathedral,Cathedral of the Assumption,Q2942862,1,0,2,"Catholic cathedral in Louisville, Kentucky",,Q56242215|Q2977,,"Cathedral of the Assumption (Louisville, Kentucky)"
+Assumption Cathedral,Cathedral of the Assumption,Q4478052,1,0,2,"Greek Orthodox church in Budapest, Hungary",,Q2977|Q2031836,,
+Assumption Cathedral,Orthodox cathedral of the Dormition of Our Lady in Makhachkala,Q2253903,1,0,2,"church in Dagestan, Russia",Cathedral of the Assumption,Q56242225|Q2319498,,Cathedral of the Assumption of Makhachkala
+Assumption Cathedral,Cathedral of the Assumption,Q2942812,1,0,2,"church building in Sora, Lazio, Italy",,Q2977,,
+Assumption Cathedral,Segovia Cathedral,Q1499912,1,0,2,"cathedral in Segovia, Spain",Catedral de Santa María de Segovia|Catedral de Segovia|Cathedral of the Assumption of Our Lady,Q56242215|Q4989906,,Segovia Cathedral
+Assumption Cathedral,Pamplona Cathedral,Q389210,1,0,2,cathedral in Spain,Cathedral of the Assumption of Our Lady,Q56242215|Q4989906|Q1231888|Q16970,,Pamplona Cathedral
+Assumption Cathedral,Hildesheim Cathedral,Q167231,1,0,2,"cathedral church in Hildesheim, Germany",St. Mary's Cathedral|Cathedral of the Assumption of Mary,Q56242215,,Hildesheim Cathedral
+Assumption Cathedral,Burgo de Osma Cathedral,Q509931,1,0,2,cathedral,Cathedral of the Assumption of Our Lady,Q56242215|Q2577114|Q907116,,Burgo de Osma Cathedral
+Assumption Cathedral,Barbastro Cathedral,Q2942584,1,0,2,"cultural property in Barbastro, Spain",Barbastro Cathedral of the Assumption|Cathedral of the Assumption of Our Lady,Q56242215|Q907116|Q2577114,,Barbastro Cathedral
+Assumption Cathedral,Qazan Kremlin,Q603622,1,0,2,historic citadel in Tatarstan,Kazan Kremlin,Q263274|Q2319498|Q9259,,Kazan Kremlin
+Assumption Cathedral,Kazan Kremlin Cup,Q15097531,1,0,2,tennis tournament,,Q47443726,Q13219666,Kazan Kremlin Cup
+Assumption Cathedral,Kazan Kremlin towers,Q130379259,1,0,2,Wikimedia category,,Q4167836,,
+Assumption Cathedral,Kazan Kremlin walls,Q130379252,1,0,2,Wikimedia category,,Q4167836,,
+Assumption Cathedral,catedral de la anunciacion de kazan,Q185568,1,0,2,,,Q56242225|Q2319498,,
+Assumption Cathedral,Kazan Summer Cup,Q557814,1,0,2,tennis tournament,,Q47443726,Q13219666,Kazan Open
+Assumption Cathedral,2014 Kazan Kremlin Cup,Q15921293,1,0,2,tennis tournament,,Q47345468|Q15097531,,2014 Kazan Kremlin Cup
+Assumption Cathedral,2011 Kazan Kremlin Cup,Q3814120,1,0,2,tennis tournament,,Q15097531|Q47345468,,2011 Kazan Kremlin Cup
+Assumption Cathedral,2013 Kazan Kremlin Cup,Q15079716,1,0,2,tennis tournament,,Q15097531|Q47345468,,2013 Kazan Kremlin Cup
+Assumption Cathedral,2012 Kazan Kremlin Cup,Q3814116,1,0,2,tennis tournament,,Q15097531|Q47345468,,2012 Kazan Kremlin Cup
+Assumption Cathedral,Kazan Cathedral,Q404571,1,0,2,cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg,"Kazan Cathedral, St. Petersburg|Kazan Cathedral, Saint Petersburg",Q56242225|Q2319498,,"Kazan Cathedral, Saint Petersburg"
+Assumption Cathedral,Kazan Cathedral,Q1140402,1,0,2,"church in Moscow, Russia",Cathedral of Our Lady of Kazan,Q2031836|Q2319498,,"Kazan Cathedral, Moscow"
+Assumption Cathedral,Kazan Cathedral,Q124569726,1,0,2,"sobor in Serafimovich, Russia",,Q2977|Q2319498,,
+Assumption Cathedral,Kazan Cathedral in Volgograd,Q3044636,1,0,2,"church building in Volgograd, Russia",Cathedral of Our Lady of Kazan,Q56242225|Q16970|Q2319498,,
+Assumption Cathedral,Clergy house of Kazan cathedral,Q21638978,1,0,2,"building of Clergy house of Kazan cathedral, Russia",Kazan Cathedral House|The house of the clergy of the Kazan Cathedral,Q41176|Q2319498,,Kazan Cathedral House
+Assumption Cathedral,Kazan Cathedral mosque,Q111805693,1,0,2,mosque in Russia,,Q32815,,
+Assumption Cathedral,Cathedral of Our Lady of Kazan (Kazan),Q125869013,1,0,2,"main cathedral of Kazansky Bogoroditsky Monastery, Russia",Kazan Cathedral (Kazan),Q25416095|Q2031836,,
+Assumption Cathedral,Kazan Cathedral,Q2350835,1,0,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of Our Lady of Kazan
+Russia,Russia,Q159,1,1,1,"country in Eastern Europe and Northern Asia, the largest in the world by area",Russian Federation|RU|RUS|RF,Q3624078|Q859563|Q6256|Q1323642|Q127693126,,Russia
+Russia,Russian Empire,Q34266,1,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russia,Russia,Q23890440,1,1,1,genus of Ostracoda,,Q23038290,,
+Russia,Russian,Q7737,1,1,1,East Slavic language,Russian language|Russkiy|Russkiy yazyk,Q34770|Q1288568|Q33742,Q144713,Russian language
+Russia,Russian Wikipedia,Q206855,1,1,1,[ru] Russian-language edition of Wikipedia,,Q10876391,,Russian Wikipedia
+Russia,Russian Soviet Federative Socialist Republic,Q2184,1,1,1,constituent republic of the Soviet Union (1922–1991),Soviet Russian Republic|Russian Socialist Federative Soviet Republic|Russian SFSR|Soviet Russia|RSFSR|Russian Soviet Federal Socialist Republic|Russian Soviet Federated Socialist Republic|Russian Socialist Federated Soviet Republic|R.S.F.S.R.|the Russian SFSR|Communist Russia|Russian S.F.S.R.,Q3024240|Q236036|Q3624078|Q113393649|Q6256,,Russian Soviet Federative Socialist Republic
+Russia,Russian Wikisource,Q15634506,1,1,1,edition of the free library,ruwikisource|ru.wikisource.org,Q15156455|Q21286559,,
+Russia,Communist Party of the Soviet Union,Q79854,1,1,1,Marxist–Leninist founding and ruling party of the Soviet Union,CPSU|Bolshevik Party|Russian Communist Party (Bolsheviks)|RCP(b)|All-Union Communist Party (Bolsheviks),Q233591,,Communist Party of the Soviet Union
+Russia,Alaska,Q797,1,1,1,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Russia,Eastern Front,Q189266,1,1,1,1941–1945 World War II theater,Great Patriotic War|Eastern Campaign|Russian Campaign|German-Soviet War|Soviet-German War|Eastern Front of World War II,Q842332|Q198,,Eastern Front (World War II)
+Russia,Dormition Cathedral,Q748910,1,1,2,Russian Orthodox church in Moscow Kremlin in Russia,Cathedral of the Dormition|Assumption Cathedral|Cathedral of the Assumption|Cathedral of the Dorimition,Q56242225|Q2319498,,"Dormition Cathedral, Moscow"
+Russia,Dormition Cathedral,Q775487,1,1,2,"cathedral in Vladimir, Russia (13th and 14th centuries)","Assumption Cathedral, Vladimir|Dormition Cathedral in Vladimir|Assumption Cathedral",Q56242225|Q2319498,,"Dormition Cathedral, Vladimir"
+Russia,Assumption Cathedral,Q2942861,1,1,2,roman catholic cathedral in Quebec,"Paroisse Immaculée-Conception|Assumption Cathedral|Paroisse Immaculee-Conception|Cathédrale de l'Assomption, Trois-Rivières|Assumption Cathedral, Trois-Rivières",Q2977,,Assumption Cathedral (Trois-Rivières)
+Russia,Assumption Cathedral,Q2495658,1,1,2,principal Roman Catholic church of Thailand,,Q2977,,"Assumption Cathedral, Bangkok"
+Russia,Greek Catholic Cathedral in Búza Square,Q855383,1,1,2,"cathedral in Miskolc, Hungary",Greek Catholic Cathedral in Buza Square|Assumption Cathedral,Q2977|Q1088552,,"Assumption Cathedral, Miskolc"
+Russia,Dormition Cathedral,Q2381859,1,1,2,"Orthodox church of Kharkiv, Ukraine","Dormition Cathedral, Kharkiv|Assumption Cathedral",Q56242225|Q200334,,"Dormition Cathedral, Kharkiv"
+Russia,Assumption Cathedral,Q1899549,1,1,2,"cathedral in Astana, Kazakhstan",,Q56242225,,
+Russia,Assumption Cathedral,Q601589,1,1,2,church,,Q2977|Q1088552,,Kalocsa Cathedral
+Russia,Assumption Cathedral,Q2437225,1,1,2,Cathedral in Omsk is one of the largest churches in Siberia,Dormition Cathedral,Q56242225,,"Dormition Cathedral, Omsk"
+Russia,"Dormition of the Theotokos Church, Zalău",Q12053059,1,1,2,heritage site,Assumption Cathedral,Q1088552|Q33232008,,"Dormition of the Theotokos Church, Zalău"
+Russia,Russian Orthodox Church,Q60995,1,1,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Russia,Russian Orthodox Church,Q571593,1,1,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Russia,Russian Orthodox Church of Geneva,Q4240411,1,1,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Russia,Russian Orthodox Church,Q3586061,1,1,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Russia,Russian Orthodox Church Outside of Russia,Q912932,1,1,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Russia,history of the Russian Orthodox Church,Q2395219,1,1,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Russia,Russian Orthodox Church in Azerbaijan,Q4075904,1,1,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+Russia,Russian Orthodox Church Abroad (Agathangelos),Q3586066,1,1,2,,ROCOR (A),Q4316503,,
+Russia,Russian orthodox church of Biarritz,Q2041472,1,1,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Russia,Russian Orthodox Church Buildings and Sites TR,Q107085711,1,1,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Russia,Saint Petersburg,Q656,1,1,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+Russia,St. Petersburg,Q49236,1,1,2,"city in Pinellas County, Florida, United States","St. Petersburg, Florida|Saint Petersburg|St Petersburg|St Petersburg, Florida|St. Petersburg, FL|City of St. Petersburg, Florida",Q1093829|Q1549591,,"St. Petersburg, Florida"
+Russia,Saint Petersburg Mining University,Q2495829,1,1,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+Russia,Saint Petersburg State University,Q27621,1,1,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+Russia,Imperial Academy of Arts,Q628254,1,1,2,"art school in Saint Petersburg, Russia",Russian Academy of Arts|Academy of the Three Noblest Arts|Saint Petersburg Academy of Arts|Leningrad Academy of arts|St Petersburg academy,Q383092|Q2319498,,Imperial Academy of Arts
+Russia,Saint Petersburg Conservatory,Q178416,1,1,2,music school in Saint Petersburg,Leningrad Conservatory|N. A. Rimsky-Korsakov Saint Petersburg State Conservatory|Saint Petersburg State Conservatory named after N.A. Rimsky-Korsakov|Rimsky-Korsakov Saint Petersburg State Conservatory|St. Petersburg Rimsky-Korsakov State Conservatory,Q184644|Q2385804,,Saint Petersburg Conservatory
+Russia,Saint Petersburg Academy of Sciences,Q4345832,1,1,2,historical academy (1724–1917),The Saint Petersburg Academy of Sciences|The St. Petersburg Academy of Sciences|St. Petersburg Academy of Sciences|Imperial Saint Petersburg Academy of Sciences,Q414147,,Saint Petersburg Academy of Sciences
+Russia,Peter the Great Saint Petersburg State Polytechnical University,Q1379834,1,1,2,university in Russia,Saint Petersburg State Technical University|St. Petersburg Polytechnic University,Q4315006|Q1497364|Q2319498,,Peter the Great St. Petersburg Polytechnic University
+Russia,Repin Institute of Arts,Q4201516,1,1,2,"education organization in Saint Petersburg, Russia","Saint Petersburg State Academic Institute of Painting Sculpture and Architecture named after I.E. Repin|Leningrad Order of Labor red banner Institute of painting, sculpture and architecture|Repin Academy of Arts|Saint Petersburg Repin Academy of Arts",Q2385804,,Saint Petersburg Repin Academy of Fine Arts
+Russia,S. M. Kirov Military Medical Academy,Q1459393,1,1,2,"school of military medicine in Saint Petersburg, Russian Federation",Military-Medical Academy. CM. Kirov|Kirov Military Medical Academy|Academy of Military Medicine|Imperial Military Medical Academy|Saint Petersburg Academy for Military Medicine|Imperial Academy of Medical Surgery|Imperial Medical and Surgical Academy|Kirov Academy,Q917182|Q140968873,,S. M. Kirov Military Medical Academy
+Nativity of Christ Cathedral,Nativity of Christ Cathedral,Q5813126,2,0,1,"cathedral in Chișinău, Moldova",Cathedral of Christ's Nativity,Q56242225,,"Nativity Cathedral, Chișinău"
+Nativity of Christ Cathedral,Nativity of Christ Cathedral,Q19916169,2,0,1,,,Q2977,,
+Nativity of Christ Cathedral,"Cathedral of the Nativity, Volgodonsk",Q2299019,2,0,1,Cathedral of Volgodonsk Diocese,"Nativity of Christ Cathedral, Volgodonsk",Q56242225,,"Cathedral of the Nativity, Volgodonsk"
+Nativity of Christ Cathedral,"Nativity of Christ Cathedral, Tulchyn",Q122295342,2,0,1,,,Q56242225,,
+Nativity of Christ Cathedral,Nativity of Christ Cathedral of the Nativity monastery in Tver,Q113338048,2,0,1,,,Q2319498|Q2031836,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ,Q4425962,2,0,2,"orthodox church in Starodub, Bryansk Oblast",,Q2031836,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ,Q4501494,2,0,2,"architectural structure in Lipetsk, Russia",,Q2319498,,
+Nativity of Christ Cathedral,"Nativity Cathedral, Riga",Q1550015,2,0,2,cathedral,"Cathedral of the Nativity of Christ, Riga",Q56242225,,"Cathedral of the Nativity of Christ, Riga"
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ in Vereya,Q16699034,2,0,2,,,Q2319498|Q16970,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ (Ulan-Ude),Q55659762,2,0,2,,,Q16970,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ (Yuzhno-Sakhalinsk),Q111630206,2,0,2,,,Q56242225,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ (Alexandrov),Q18400926,2,0,2,"Eastern Orthodox church building in Alexandrov, Russia",,Q56242225|Q2319498,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ (Kovrov),Q116448212,2,0,2,,,Q2319498,,
+Nativity of Christ Cathedral,Cathedral of the Nativity of Christ,Q21183408,2,0,2,Wikimedia disambiguation page,Christus Geboortekathedraal,Q4167410,,Cathedral of the Nativity of Christ
+Moldova,Moldova,Q217,2,1,1,country in Eastern Europe,Republic of Moldova|Moldavia|Republica Moldova,Q3624078|Q179164|Q123480|Q6256,,Moldova
+Moldova,Romanian,Q7913,2,1,1,Romance language,Romanian language|Rumanian|Rumanian language|Roumanian|Roumanian language|Moldovan|Moldovan language|Daco-Romanian|Daco-Romanian language|Română|Românește,Q33742|Q1288568,Q147576,Romanian language
+Moldova,Principality of Moldavia,Q10957559,2,1,1,principality in Southeast Europe between 1346–1859,Moldo-Wallachia|Moldavia|Moldova|Principality of Moldova,Q208500|Q3024240|Q3624078,,Moldavia
+Moldova,Western Moldavia,Q209754,2,1,1,region in north-eastern Romania,Moldova|Romanian Moldavia|Moldavia|Moldova Occidentală,Q1620908,,Western Moldavia
+Moldova,Moldova men's national football team,Q191142,2,1,1,men's national association football team representing Moldova,Moldova national football team,Q135408445,Q1194951,Moldova national football team
+Moldova,Moldovan,Q36392,2,1,1,former name for the Romanian language in Moldova,mo|Moldovan language|Moldavian|ro-md|ro_MD,Q286576,Q7913,Moldovan language
+Moldova,Moldova Nouă,Q829051,2,1,1,"town in Caraș-Severin County, Romania",Újmoldova|Neumoldowa|Nová Moldava|Bošňák,Q16858213|Q902814|Q2264924,,Moldova Nouă
+Moldova,Moldovan,Q21452988,2,1,1,family name,,Q101352,,Moldovan (surname)
+Moldova,Moldova-Film,Q4300318,2,1,1,Soviet and Moldavian film studio,,Q1762059|Q1415395,,Moldova-Film
+Moldova,Moldova River,Q539053,2,1,1,river in Romania and Moldova,,Q4022,,Moldova (river)
+Moldova,Moldova–Romania–Ukraine southern tripoint,Q27400072,2,1,2,international tripoint,Republic of Moldova-Romania-Ukraine tripoint|Republic of Moldova–Romania–Ukraine tripoint|Republic of Moldova–Romania–Ukraine southern tripoint|Moldova–Romania–Ukraine tripoint|Moldova-Romania-Ukraine southern tripoint|Moldova-Romania-Ukraine tripoint,Q27345018,,
+Moldova,Moldova–Romania–Ukraine northern tripoint,Q27399835,2,1,2,international tripoint,Republic of Moldova-Romania-Ukraine tripoint|Republic of Moldova–Romania–Ukraine tripoint|Republic of Moldova–Romania–Ukraine northern tripoint|Moldova–Romania–Ukraine tripoint|Moldova-Romania-Ukraine northern tripoint|Moldova-Romania-Ukraine tripoint,Q27345018,,
+Moldova,Moldova (Global Open Access Portal),Q56161004,2,1,2,article about the movement for open access to research in Republic of Moldova,GOAP: Moldova|Republic of Moldova (GOAP),Q36774,,
+Moldova,Republic of Moldova health system review.,Q38065024,2,1,2,scientific article published on January 2012,,Q13442814,,
+Moldova,Republic of Moldova: Technical Assistance Report-Public Sector Debt Statistics,Q110528208,2,1,2,scientific article,,Q13442814,,
+Church of the Transfiguration,Church of the Saviour,Q1728464,3,0,1,"14th-century Byzantine chapel in Thessaloniki, Greece",Church of the Transfiguration|Church of the Transfiguration (Thessaloniki),Q16970,,"Church of the Saviour, Thessaloniki"
+Church of the Transfiguration,Church of the Transfiguration,Q1028121,3,0,1,archaeological site in Israel,,Q16970,,Church of the Transfiguration
+Church of the Transfiguration,Church of the Transfiguration,Q12030527,3,0,1,"Catholic church in Třebíč, Vysočina Region, Czech Republic",,Q16970,,
+Church of the Transfiguration,church of the Transfiguration,Q3893581,3,0,1,"cathedral in Torzhok, Russia",,Q2977|Q2319498,,
+Church of the Transfiguration,Church of the Transfiguration,Q20380177,3,0,1,medieval church near the Acropolis of Athens,"Metamorphosi church, Plaka|Church of the Transfiguration (Athens)",Q16970|Q2031836,,
+Church of the Transfiguration,Church of the Transfiguration,Q55028461,3,0,1,"church in Sneem, County Kerry, Ireland",,Q16970,,
+Church of the Transfiguration,Church of the Transfiguration,Q5118060,3,0,1,"Catholic church in Manhattan, New York City, United States",,Q16970,,"Church of the Transfiguration, Roman Catholic (Manhattan)"
+Church of the Transfiguration,Church of the Transfiguration,Q3425039,3,0,1,"church building in Rybinsk, Russia",,Q56242225|Q2319498,,
+Church of the Transfiguration,Church of the Transfiguration,Q44075,3,0,1,"Russian Orthodox church in Balashikha, Russia",,Q16970|Q2319498,,
+Church of the Transfiguration,Church of the Transfiguration,Q16715790,3,0,1,"temple in Spasskoe, Russia",,Q44539|Q2319498,,Church of the Transfiguration (Spassky)
+Ukraine,Ukraine,Q212,3,1,1,country in Eastern Europe,Ukrainia|Ukr.|Ukraina|Ukraïna,Q3624078|Q6256|Q179164|Q7270|Q619610|Q4209223|Q4835091,,Ukraine
+Ukraine,full-scale Russo-Ukrainian war,Q110999040,3,1,1,"full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War",Russia's invasion of Ukraine|Russo-Ukrainian War|War in Ukraine|invasion of Ukraine|Ukrainian Patriotic War|Russian attack on Ukraine|Special military operation in Ukraine|Ukraine invasion|Operation Z|Ukrainian War|Russo-Ukrainian war (2022–present)|Russia-Ukraine war 2022|Russian war in Ukraine 2022,Q198|Q645883|Q2001676|Q467011|Q7883019|Q11422542|Q474138|Q154605|Q123458523,,Russo-Ukrainian war (2022–present)
+Ukraine,Ukraine men's national football team,Q170403,3,1,1,men's national association football team representing Ukraine,Ukraine national football team|Ukraine national association football team|Ukraine men's national association football team,Q135408445,Q1194951,Ukraine national football team
+Ukraine,Ukraina Stadium,Q2296961,3,1,1,"multi-purpose stadium in Lviv, Ukraine","Ukraine Stadium|Stadion Ukraina|Ukraina Stadium, Lviv|Ukraine Stadium, Lviv|Stadion Ukraina, Lviv|Stadion Ukraine|Stadion Ukraine, Lviv|Ukraine|Ukraina|Ukraine, Lviv|Ukraina, Lviv|Ukraina Stadium (Lviv)|Ukraine Stadium (Lviv)|Stadion Ukraina (Lviv)|Stadion Ukraine (Lviv)|Ukraine (Lviv)|Ukraina (Lviv)",Q1154710,,Ukraina Stadium
+Ukraine,Kievskaia starina,Q4220180,3,1,1,ethographic and literary chronicle,Ukraïna|Ukraina|Kyivan Past|Kyivan Antiquity|Ukraine|Kievskaya starina,Q11032,,Kievskaia starina
+Ukraine,Ukraine national under-21 football team,Q1579270,3,1,1,sports team,,Q6979740,,Ukraine national under-21 football team
+Ukraine,Ukraine,Q23653964,3,1,1,Wikimedia permanent duplicate item,,Q21286738,,
+Ukraine,Cabinet of Ministers of Ukraine,Q613729,3,1,1,"The executive of Ukraine, consisting of the prime minister and cabinet ministers.",Government of Ukraine|Ukrainian Government|CMU|Cabinet of Ukraine|Ukraine government|CabMin,Q35798|Q7188,Q640506,Government of Ukraine
+Ukraine,Ukraine national under-19 football team,Q2392398,3,1,1,sports team,,Q6979593,,Ukraine national under-19 football team
+Ukraine,Ukraine,Q25446296,3,1,1,song by Taras Petrynenko,Ukraina|Ukraino,Q105543609,,
+"Church of the Protection of the Theotokos, Veliky Novgorod","Church of the Protection of the Theotokos, Veliky Novgorod",Q109877623,4,0,1,"Eastern Orthodox cathedral in Veliky Novgorod, Russia",,Q56242225|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod","Church of the Protection of the Theotokos, Veliky Novgorod",Q111290587,4,0,1,"church building in Veliky Novgorod, Russia",,Q2319498|Q16970,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q4500868,4,0,2,"architectural structure in Tula, Russia",,Q2319498|Q16970,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q16715668,4,0,2,"church building, architectural landmark in Odintsovsky District, Russia",,Q16970|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q18121491,4,0,2,"church building in Serpukhov, Russia",,Q16970|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q16715682,4,0,2,"church building in Pokrovskoe, Russia",,Q16970|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Most Holy Mother of God,Q106807138,4,0,2,"church building, tourist attraction, architectural landmark in Ussuriysk, Russia",Church of the Intercession of Our Lady|Church of the Intercession of the Theotokos|Church of the Intercession of the Most Holy Mother of God|Church of the Protection of Our Lady|Church of the Protection of the Theotokos,Q2031836|Q2319498|Q570116,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q2378070,4,0,2,,,Q2031836|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q4369251,4,0,2,"church building in Glukhovo, Diveyevsky District, Russia",,Q16970|Q2319498,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q25552839,4,0,2,,,Q16970,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q84027752,4,0,2,,,Q16970,,
+"Church of the Protection of the Theotokos, Veliky Novgorod",Church of the Protection of the Theotokos,Q4369249,4,0,2,"Eastern Orthodox church building in Alexandrov, Russia",,Q2031836|Q2319498,,
+Soviet Union,Soviet Union,Q15180,4,1,1,former country in Eurasia (1922–1991),U.S.S.R.|Soviets|U.S.S.R|the Union of Soviet Socialist Republics|the Soviet Union|Union of Soviet Socialist Republics|The Soviets|CCCP|SU|URS|The USSR,Q512187|Q842112|Q3024240|Q3624078|Q849866|Q1323642|Q1335818|Q160016|Q6688521|Q113393649|Q7275|Q17007978|Q6256,,Soviet Union
+Soviet Union,USSR Union of Writers,Q1425328,4,1,1,creative union of professional writers in the Soviet Union,Union of Soviet Writers|Soviet Union of Writers,Q43229|Q5183590|Q12057459,,Union of Soviet Writers
+Soviet Union,Soviet Navy,Q796754,4,1,1,martime service branch of the Soviet Armed Forces,Red Fleet|Military Maritime Fleet of the USSR|Soviet Union navy,Q4508,,Soviet Navy
+Soviet Union,Soviet Union national association football team,Q189275,4,1,1,former men's national association football team representing the Soviet Union,Soviet Union national soccer team|USSR national football team|Soviet Union national football team,Q135408445,Q1194951,Soviet Union national football team
+Soviet Union,Union of Architects of the USSR,Q4430471,4,1,1,organization,Soi︠u︡z arkhitektorov SSSR|Soviet Union of Architects|Union of Architects of the Soviet Union,Q43229|Q5183590,,
+Soviet Union,Soviet Union,Q99288945,4,1,1,the country of the Soviet Union as depicted in Star Trek,Star Trek Soviet Union|USSR|Star Trek USSR,Q57663042|Q15796005,,
+Soviet Union,Soviet Union men's national ice hockey team,Q1330035,4,1,1,former men's national ice hockey team representing the Soviet Union,USSR national ice hockey team|The Red Machine,Q135409346,,Soviet Union men's national ice hockey team
+Soviet Union,Soviet Union. Union sovietique,Q27716527,4,1,1,journal,Sov Union|Soviet Union,Q5633421,,
+Soviet Union,Supreme Soviet of the Soviet Union,Q326465,4,1,1,highest legislative body in the Soviet Union,Soviet Union. Verkhovnyĭ Sovet,Q189445,,Supreme Soviet of the Soviet Union
+Soviet Union,sports in the Soviet Union,Q11884257,4,1,1,overview of sports activities in the Soviet Union,sport in the Soviet Union|sports in the USSR|sport in the USSR|Soviet sport|Soviet sports|Soviet Union sports|sports of the Soviet Union|sporting in the Soviet Union,Q29791211,Q166291|Q3493923,
+Soviet Union,history of the Soviet Union,Q462252,4,1,2,aspect of history,Soviet history|history of the USSR|history of the Soviet Union and Soviet Russia|history of Soviet Russia and the Soviet Union|the Union of Soviet Socialist Republics history|Union of Soviet Socialist Republics history|history of the Union of Soviet Socialist Republics,Q17524420|Q17544377,Q627531|Q112628480|Q7787,History of the Soviet Union
+Soviet Union,Union of Soviet Socialist Republics,Q103971344,4,1,2,encyclopedia article,,Q13433827,,
+Soviet Union,Union of Soviet Socialist Republics,Q140477241,4,1,2,scholarly article published in Yearbook of Anthropology (1955) (DOI: 10.1086/YEARANTH.0.3031174),,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics: Amended Decree on the Procedure for the Creation and Activities of Joint Enterprises,Q127834745,4,1,2,scholarly article,,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics-United Kingdom: Agreement for the Promotion and Reciprocal Protection of Investments,Q127834107,4,1,2,scholarly article,,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics: Law on Cooperatives,Q127832552,4,1,2,scholarly article,,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics: Decree on Joint Enterprises With Western and Developing Countries,Q127817260,4,1,2,scholarly article,,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics--50th anniversary,Q53766170,4,1,2,scientific article published on 01 December 1972,,Q13442814,,
+Soviet Union,Union of Soviet Socialist Republics: Regulations on Joint Stock Associations and Limited Liability Associations,Q127854032,4,1,2,scholarly article,,Q13442814,,
+Soviet Union,USSR State Prize,Q758861,4,1,2,Soviet Union's state honor,,Q116374627|Q3320743,,USSR State Prize
+Soviet Union,Academy of Sciences of the USSR,Q2370801,4,1,2,scientific institution of the Soviet Union (1925–1991),USSR Academy of Sciences|Academy of Sciences of the Soviet Union,Q414147,,Academy of Sciences of the Soviet Union
+Soviet Union,Soviet Top League,Q490700,4,1,2,highest football division (1936 to 1991),USSR Championship in football: Top League,Q15991303|Q18608583,,Soviet Top League
+Soviet Union,USSR,Q20885709,4,1,2,documentary film,,Q11424,,
+Soviet Union,Ukrainian Soviet Socialist Republic,Q133356,4,1,2,sovereign state (1919–1922) and a republic of the Soviet Union (1922–1991); one of the founding members of the UN in 1945,Ukrainian SSR|Soviet Ukraine|Ukrainian S.S.R|Communist Ukraine,Q3024240|Q179164|Q3624078|Q236036|Q3624078|Q23037160,Q113393649,Ukrainian Soviet Socialist Republic
+All Saints Cathedral,"All Saints' Cathedral, Cairo",Q15179391,5,0,1,Anglican cathedral,All Saints Cathedral,Q2977,,"All Saints' Cathedral, Cairo"
+All Saints Cathedral,All Saints Cathedral,Q5758385,5,0,1,"church in Calabozo, Venezuela",,Q56242215,,"All Saints Cathedral, Calabozo"
+All Saints Cathedral,All Saints Cathedral,Q2490905,5,0,1,"Eastern Orthodox cathedral in Tula, Russia",,Q56242225|Q2319498,,
+All Saints Cathedral,All Saints Cathedral,Q131428844,5,0,1,"church in Chicago, Illinois, United States",,Q16970,,
+All Saints Cathedral,All Saints Cathedral School,Q4729406,5,0,1,"school in St. Thomas, Virgin Islands",,Q3914,,All Saints Cathedral School
+All Saints Cathedral,"All Saints Cathedral, Santa Fe",Q16490514,5,0,1,"church building in Santa Fe, Argentina",,Q56242215|Q2434238,,"All Saints Cathedral, Santa Fe"
+All Saints Cathedral,"All Saints Cathedral, Prayagraj",Q4729404,5,0,1,building in India,,Q56242250,,"All Saints Cathedral, Prayagraj"
+All Saints Cathedral,All Saints Cathedral Bells,Q55603672,5,0,1,"historic site in New South Wales, Australia",,Q3500690,,All Saints Cathedral Bells
+All Saints Cathedral,"All Saints Cathedral, Conakry",Q110422102,5,0,1,,,Q2977,,
+All Saints Cathedral,"All Saints Cathedral, Halifax",Q4729405,5,0,1,"church in Halifax, Nova Scotia, Canada",All Saints' Cathedral,Q56242250,,"All Saints Cathedral (Halifax, Nova Scotia)"
+All Saints Cathedral,Mar del Plata Cathedral,Q2942428,5,0,2,cathedral in Argentina,Catedral de los santos Pedro y Cecilia|Cathedral of the saints Peter and Cecilia,Q2977|Q120560,,Mar del Plata Cathedral
+All Saints Cathedral,Cathedral of the Saints Andrew and Demetrius,Q28002601,5,0,2,Greek Orthodox church in Madrid,,Q56242225,,Cathedral of St Andrew and St Demetrius
+All Saints Cathedral,Cathedral of All Saints,Q5052306,5,0,2,"cathedral in Albany, New York",,Q56242250,,"Cathedral of All Saints (Albany, New York)"
+All Saints Cathedral,Cathedral of All Saints,Q123054889,5,0,2,,,Q56242215,,
+All Saints Cathedral,Cathedral of All Saints,Q123055381,5,0,2,,,Q56242215,,
+All Saints Cathedral,Cathedral of All Saints,Q112047188,5,0,2,"architectural landmark in Borovsk, Russia",,Q2319498|Q41176,,
+All Saints Cathedral,Cathedral of All Saints,Q123035596,5,0,2,,,Q56242215,,
+All Saints Cathedral,Cathedral of All Saints Episcopal Church,Q134383625,5,0,2,"Episcopal church in Bontoc, Mountain Province in the Philippines",,Q56242045|Q56242250,,
+Russia,Russia,Q159,5,1,1,"country in Eastern Europe and Northern Asia, the largest in the world by area",Russian Federation|RU|RUS|RF,Q3624078|Q859563|Q6256|Q1323642|Q127693126,,Russia
+Russia,Russian Empire,Q34266,5,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russia,Russia,Q23890440,5,1,1,genus of Ostracoda,,Q23038290,,
+Russia,Russian,Q7737,5,1,1,East Slavic language,Russian language|Russkiy|Russkiy yazyk,Q34770|Q1288568|Q33742,Q144713,Russian language
+Russia,Russian Wikipedia,Q206855,5,1,1,[ru] Russian-language edition of Wikipedia,,Q10876391,,Russian Wikipedia
+Russia,Russian Soviet Federative Socialist Republic,Q2184,5,1,1,constituent republic of the Soviet Union (1922–1991),Soviet Russian Republic|Russian Socialist Federative Soviet Republic|Russian SFSR|Soviet Russia|RSFSR|Russian Soviet Federal Socialist Republic|Russian Soviet Federated Socialist Republic|Russian Socialist Federated Soviet Republic|R.S.F.S.R.|the Russian SFSR|Communist Russia|Russian S.F.S.R.,Q3024240|Q236036|Q3624078|Q113393649|Q6256,,Russian Soviet Federative Socialist Republic
+Russia,Russian Wikisource,Q15634506,5,1,1,edition of the free library,ruwikisource|ru.wikisource.org,Q15156455|Q21286559,,
+Russia,Communist Party of the Soviet Union,Q79854,5,1,1,Marxist–Leninist founding and ruling party of the Soviet Union,CPSU|Bolshevik Party|Russian Communist Party (Bolsheviks)|RCP(b)|All-Union Communist Party (Bolsheviks),Q233591,,Communist Party of the Soviet Union
+Russia,Alaska,Q797,5,1,1,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Russia,Eastern Front,Q189266,5,1,1,1941–1945 World War II theater,Great Patriotic War|Eastern Campaign|Russian Campaign|German-Soviet War|Soviet-German War|Eastern Front of World War II,Q842332|Q198,,Eastern Front (World War II)
+Russia,Federation Council,Q186473,5,1,2,upper house of the Federal Assembly of Russia,Council of the Federation|Senat of Russia|Senate of Russia|Russian Federation Council|Russian Senate,Q637846,,Federation Council (Russia)
+Russia,State Prize of the Russian Federation,Q4146631,5,1,2,"award in Russia (prize in science and technology, in literature and the arts, in humanitarian activities)",Russian Federation national award,Q133844055|Q3302125,,State Prize of the Russian Federation
+Russia,Russian Federation Presidential Certificate of Honour,Q211167,5,1,2,honorary award bestowed by the President of Russia,Certificate of Merit of the President of Russia|Certificate of the President of the Russian Federation,Q39355398|Q618779,,Russian Federation Presidential Certificate of Honour
+Russia,Russian Federation,Q4397930,5,1,2,series of coins,,Q113813711,Q41207,
+Russia,Russian Federation Government Certificate of Honour,Q4375455,5,1,2,Russian honorary award,,Q39355398,Q39355398,Certificate of Honor of the Government of the Russian Federation
+Russia,Russian Federation Presidential Certificate of Gratitude,Q19399024,5,1,2,Certificate of the President of the Russian Federation,,Q618779,,
+Russia,Russian Federation's Government Award,Q4375940,5,1,2,Russian award,,Q618779|Q107655869|Q140362944,Q618779,
+Russia,Russian Federation Ministry of Sport,Q2895997,5,1,2,Federal executive body in Russia,,Q4481741|Q107099245,,Ministry of Sport (Russia)
+Russia,Federal Law of the Russian Federation,Q4481771,5,1,2,type of law in Russia,Federal Law (Russian Federation)|Russian Federation Federal Law|Russian Federal Law|russian law|law of russian federation|law of russia,Q820655|Q11028,Q1006612,
+Russia,Romanov Empire,Q7382038,5,1,2,micronation created in 2011,Russian Empire|Imperial Throne,Q188443|Q21512251,Q48349,Romanov Empire (micronation)
+Russia,Russian Empire census,Q2163579,5,1,2,census carried out in the Russian Empire,Russian census of 1897,Q39825|Q4350734,,1897 Russian census
+Russia,Russian America,Q910495,5,1,2,Russian possessions in North America in the 18th century until 1867,America|Russian Empire of America,Q133156,,Russian America
+Russia,Russian Empire national football team,Q1253316,5,1,2,former men's national association football team that represented the Russian Empire,,Q135408445,,Russian Empire national football team
+Russia,history of the Russian Empire,Q4204714,5,1,2,occurrences and people in the Russian Empire throughout history,the Russian Empire history|Russian Empire history,Q17544377,,
+Russia,coat of arms of Russian Empire,Q2325440,5,1,2,coat of arms,Russian Empire coat of arms,Q14659,,Coat of arms of the Russian Empire
+Russia,Russian Empire at the 1908 Summer Olympics,Q1200994,5,1,2,List of participants from Russia,,Q26213387,,Russian Empire at the 1908 Summer Olympics
+Russia,Russian Empire at the 1900 Summer Olympics,Q140974,5,1,2,sporting event delegation,,Q26213387,,Russian Empire at the 1900 Summer Olympics
+Russia,Russian Empire at the 1912 Summer Olympics,Q578901,5,1,2,sporting event delegation,,Q26213387,,Russian Empire at the 1912 Summer Olympics
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q830054,6,0,1,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q303756,6,0,1,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1476251,6,0,1,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Harbin,Q1632027,6,0,1,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q649758,6,0,1,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1635756,6,0,1,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Polotsk,Q2465016,6,0,1,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q124806106,6,0,1,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Saint Sophia Cathedral,"Saint Sophia Cathedral, London",Q3464425,6,0,1,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Saint Sophia Cathedral,"Saint Sophia Cathedral, Zhytomyr",Q11737359,6,0,1,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Saint Sophia Cathedral,Sophia Cathedral,Q1995470,6,0,2,Pushkin,Ascension Cathedral,Q2031836,,"Ascension Cathedral, Pushkin"
+Ukraine,Ukraine,Q212,6,1,1,country in Eastern Europe,Ukrainia|Ukr.|Ukraina|Ukraïna,Q3624078|Q6256|Q179164|Q7270|Q619610|Q4209223|Q4835091,,Ukraine
+Ukraine,full-scale Russo-Ukrainian war,Q110999040,6,1,1,"full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War",Russia's invasion of Ukraine|Russo-Ukrainian War|War in Ukraine|invasion of Ukraine|Ukrainian Patriotic War|Russian attack on Ukraine|Special military operation in Ukraine|Ukraine invasion|Operation Z|Ukrainian War|Russo-Ukrainian war (2022–present)|Russia-Ukraine war 2022|Russian war in Ukraine 2022,Q198|Q645883|Q2001676|Q467011|Q7883019|Q11422542|Q474138|Q154605|Q123458523,,Russo-Ukrainian war (2022–present)
+Ukraine,Ukraine men's national football team,Q170403,6,1,1,men's national association football team representing Ukraine,Ukraine national football team|Ukraine national association football team|Ukraine men's national association football team,Q135408445,Q1194951,Ukraine national football team
+Ukraine,Ukraina Stadium,Q2296961,6,1,1,"multi-purpose stadium in Lviv, Ukraine","Ukraine Stadium|Stadion Ukraina|Ukraina Stadium, Lviv|Ukraine Stadium, Lviv|Stadion Ukraina, Lviv|Stadion Ukraine|Stadion Ukraine, Lviv|Ukraine|Ukraina|Ukraine, Lviv|Ukraina, Lviv|Ukraina Stadium (Lviv)|Ukraine Stadium (Lviv)|Stadion Ukraina (Lviv)|Stadion Ukraine (Lviv)|Ukraine (Lviv)|Ukraina (Lviv)",Q1154710,,Ukraina Stadium
+Ukraine,Kievskaia starina,Q4220180,6,1,1,ethographic and literary chronicle,Ukraïna|Ukraina|Kyivan Past|Kyivan Antiquity|Ukraine|Kievskaya starina,Q11032,,Kievskaia starina
+Ukraine,Ukraine national under-21 football team,Q1579270,6,1,1,sports team,,Q6979740,,Ukraine national under-21 football team
+Ukraine,Ukraine,Q23653964,6,1,1,Wikimedia permanent duplicate item,,Q21286738,,
+Ukraine,Cabinet of Ministers of Ukraine,Q613729,6,1,1,"The executive of Ukraine, consisting of the prime minister and cabinet ministers.",Government of Ukraine|Ukrainian Government|CMU|Cabinet of Ukraine|Ukraine government|CabMin,Q35798|Q7188,Q640506,Government of Ukraine
+Ukraine,Ukraine national under-19 football team,Q2392398,6,1,1,sports team,,Q6979593,,Ukraine national under-19 football team
+Ukraine,Ukraine,Q25446296,6,1,1,song by Taras Petrynenko,Ukraina|Ukraino,Q105543609,,
+Ukraine,Saint Sophia Cathedral,Q830054,6,1,2,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Ukraine,Saint Sophia Cathedral,Q303756,6,1,2,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Ukraine,Saint Sophia Cathedral,Q1476251,6,1,2,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Ukraine,Saint Sophia Cathedral in Harbin,Q1632027,6,1,2,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Ukraine,Saint Sophia Cathedral,Q649758,6,1,2,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Ukraine,Saint Sophia Cathedral,Q1635756,6,1,2,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Ukraine,Saint Sophia Cathedral in Polotsk,Q2465016,6,1,2,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Ukraine,Saint Sophia Cathedral,Q124806106,6,1,2,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Ukraine,"Saint Sophia Cathedral, London",Q3464425,6,1,2,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Ukraine,"Saint Sophia Cathedral, Zhytomyr",Q11737359,6,1,2,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Ukraine,Ukrainian,Q8798,6,1,2,East Slavic language,Ukrainian language|Ukrainska,Q33742|Q1288568,Q144713,Ukrainian language
+Ukraine,Ukrainian Wikipedia,Q199698,6,1,2,Ukrainian-language edition of Wikipedia,,Q10876391,,Ukrainian Wikipedia
+Ukraine,Ukrainian Soviet Socialist Republic,Q133356,6,1,2,sovereign state (1919–1922) and a republic of the Soviet Union (1922–1991); one of the founding members of the UN in 1945,Ukrainian SSR|Soviet Ukraine|Ukrainian S.S.R|Communist Ukraine,Q3024240|Q179164|Q3624078|Q236036|Q3624078|Q23037160,Q113393649,Ukrainian Soviet Socialist Republic
+Ukraine,Ukrainians,Q44806,6,1,2,East Slavic ethnic group,people of Ukraine|Ukrainian people,Q41710|Q231002|Q6266|Q33829,Q94696335,Ukrainians
+Ukraine,Ukrainian People's Republic,Q243610,6,1,2,country in Eastern Europe (1917–1921); government in exile (1921–1992),,Q3024240|Q788176|Q3624078|Q678116|Q3624078|Q465613|Q10711424,,Ukrainian People's Republic
+Ukraine,hryvnia,Q81893,6,1,2,currency of Ukraine,UAH|Ukrainian hryvnia|hryvnya,Q8142,Q12098011,Ukrainian hryvnia
+Ukraine,Ukrainian Railways,Q923337,6,1,2,state railway transport company,UkrZaliznytsya|Ukrzaliznytsia|UZ,Q249556|Q620615,,Ukrainian Railways
+Ukraine,Ukrainian alphabet,Q1098595,6,1,2,33-letter Cyrillic alphabet used to write Ukrainian,Ukrainian Cyrillic alphabet,Q867570,Q8209,Ukrainian alphabet
+Ukraine,National Academy of Sciences of Ukraine,Q958769,6,1,2,academy of sciences,Natsional’na akademiya nauk Ukrayiny|NAN Ukraine|NANU|NASU|Ukrainian Academy of Sciences|UAN|All-Ukrainian Academy of Sciences|VUAN|Academy of Sciences of the Ukrainian SSR|Academy of Sciences of Ukraine|NAS,Q414147|Q45400320|Q41176|Q2093358,,National Academy of Sciences of Ukraine
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q830054,7,0,1,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q303756,7,0,1,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1476251,7,0,1,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Harbin,Q1632027,7,0,1,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q649758,7,0,1,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1635756,7,0,1,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Polotsk,Q2465016,7,0,1,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q124806106,7,0,1,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Saint Sophia Cathedral,"Saint Sophia Cathedral, London",Q3464425,7,0,1,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Saint Sophia Cathedral,"Saint Sophia Cathedral, Zhytomyr",Q11737359,7,0,1,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Saint Sophia Cathedral,Hagia Sophia,Q12506,7,0,2,"mosque, museum, and former church in Istanbul, Turkey",Santa Sophia|St. Sophia Basilica|Church of Saint Sophia|Church of the Holy Wisdom|Hagia Sophia Mosque|Ayasofya|Great Church|Hagia Sophia Grand Mosque,Q120560|Q32815|Q33506|Q96371632|Q96440023|Q32815|Q33506|Q811979|Q35112127|Q16970|Q48356|Q97588309,,Hagia Sophia
+Saint Sophia Cathedral,Hagia Sophia,Q1568660,7,0,2,"church in Thessaloniki, Greece",Saint Sophia church (Thessaloniki)|Saint Sophia (Thessaloniki)|Saint Sophia|Ayasofya Camii,Q2977,,"Hagia Sophia, Thessaloniki"
+Saint Sophia Cathedral,Hagia Sophia,Q21529510,7,0,2,poem by Osip Mandelstam,,Q7725634,,
+Saint Sophia Cathedral,Hagia Sophia,Q112250696,7,0,2,painting by Leipold,,Q3305213,,
+Saint Sophia Cathedral,"Hagia Sophia, Trabzon",Q1568666,7,0,2,"Byzantine monument in Trabzon, Turkey","Hagia Sophia, Trabzon|Ayasofya Camii",Q16970|Q32815|Q33506,,"Hagia Sophia, Trabzon"
+Saint Sophia Cathedral,"Hagia Sophia, Iznik",Q4430013,7,0,2,"Byzantine-era church in İznik, Turkey",İznik Ayasofya Camii,Q32815|Q16970,,"Hagia Sophia, İznik"
+Saint Sophia Cathedral,Gazi Süleyman Paşa Mosque,Q52790862,7,0,2,"mosque in Kırklareli, northwestern Turkey",Hagia Sophia|Gazi Süleyman Paşa Camii,Q32815|Q2031836,,
+Saint Sophia Cathedral,Hagia Sophia History and Experience Museum,Q118955710,7,0,2,,,Q811979,,
+Saint Sophia Cathedral,Hagia Sophia VR Experience,Q122314312,7,0,2,2021 video game,,Q7889,,
+Saint Sophia Cathedral,Hagia Sophia and the Walls of Istanbul,Q68041481,7,0,2,painting by Félix Ziem,,Q3305213,,
+Russian Empire,Russian Empire,Q34266,7,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russian Empire,Romanov Empire,Q7382038,7,1,1,micronation created in 2011,Russian Empire|Imperial Throne,Q188443|Q21512251,Q48349,Romanov Empire (micronation)
+Russian Empire,Russian Empire census,Q2163579,7,1,1,census carried out in the Russian Empire,Russian census of 1897,Q39825|Q4350734,,1897 Russian census
+Russian Empire,Russian America,Q910495,7,1,1,Russian possessions in North America in the 18th century until 1867,America|Russian Empire of America,Q133156,,Russian America
+Russian Empire,Russian Empire national football team,Q1253316,7,1,1,former men's national association football team that represented the Russian Empire,,Q135408445,,Russian Empire national football team
+Russian Empire,history of the Russian Empire,Q4204714,7,1,1,occurrences and people in the Russian Empire throughout history,the Russian Empire history|Russian Empire history,Q17544377,,
+Russian Empire,coat of arms of Russian Empire,Q2325440,7,1,1,coat of arms,Russian Empire coat of arms,Q14659,,Coat of arms of the Russian Empire
+Russian Empire,Russian Empire at the 1908 Summer Olympics,Q1200994,7,1,1,List of participants from Russia,,Q26213387,,Russian Empire at the 1908 Summer Olympics
+Russian Empire,Russian Empire at the 1900 Summer Olympics,Q140974,7,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1900 Summer Olympics
+Russian Empire,Russian Empire at the 1912 Summer Olympics,Q578901,7,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1912 Summer Olympics
+Russian Empire,Saint Sophia Cathedral,Q830054,7,1,2,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Russian Empire,Saint Sophia Cathedral,Q303756,7,1,2,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Russian Empire,Saint Sophia Cathedral,Q1476251,7,1,2,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Russian Empire,Saint Sophia Cathedral in Harbin,Q1632027,7,1,2,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Russian Empire,Saint Sophia Cathedral,Q649758,7,1,2,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Russian Empire,Saint Sophia Cathedral,Q1635756,7,1,2,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Russian Empire,Saint Sophia Cathedral in Polotsk,Q2465016,7,1,2,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Russian Empire,Saint Sophia Cathedral,Q124806106,7,1,2,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Russian Empire,"Saint Sophia Cathedral, London",Q3464425,7,1,2,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Russian Empire,"Saint Sophia Cathedral, Zhytomyr",Q11737359,7,1,2,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Russian Empire,Russian Orthodox Church,Q60995,7,1,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Russian Empire,Russian Orthodox Church,Q571593,7,1,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Russian Empire,Russian Orthodox Church of Geneva,Q4240411,7,1,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Russian Empire,Russian Orthodox Church,Q3586061,7,1,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Russian Empire,Russian Orthodox Church Outside of Russia,Q912932,7,1,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Russian Empire,history of the Russian Orthodox Church,Q2395219,7,1,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Russian Empire,Russian Orthodox Church in Azerbaijan,Q4075904,7,1,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+Russian Empire,Russian Orthodox Church Abroad (Agathangelos),Q3586066,7,1,2,,ROCOR (A),Q4316503,,
+Russian Empire,Russian orthodox church of Biarritz,Q2041472,7,1,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Russian Empire,Russian Orthodox Church Buildings and Sites TR,Q107085711,7,1,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Russian Empire,Moscow,Q649,7,1,2,capital and most populous city of Russia,"Moscow, Russia|Moskva Federal City, Russia|Moscow, USSR|Moskva, Russia|City of Moscow|Moscow, Russian Federation|Moscow, Soviet Union|Moscow, Russian SFSR|Москва|Moskva, Rossiya|Mosky|Moskovĭ|Moskvi|Moskve|Moskvë",Q4442912|Q183342|Q1549591|Q174844|Q51929311|Q51929311|Q51929311|Q51929311|Q7930989|Q43263|Q257391|Q486972|Q106389302,,Moscow
+Russian Empire,1980 Summer Olympics,Q8450,7,1,2,"Games of the XXII Olympiad, in Moscow, USSR",Juegos de la XXII Olimpiada|1980 Moscow|Moscow 1980,Q135976384|Q14547231,,1980 Summer Olympics
+Russian Empire,UTC+03:00,Q6760,7,1,2,identifier for a time offset from UTC of +3,Eastern European Summer Time|Further-eastern European Time|Arabia Standard Time|East Africa Time|Kaliningrad Time|Moscow Time|Turkey Time|Turkish Time|TRT,Q17272482,,UTC+03:00
+Russian Empire,Moscow Pedagogical State University,Q1778321,7,1,2,university in Russia,Moscow University for Women|Moscow Pedagogical University|MPGU,Q875538|Q3918,,Moscow Pedagogical State University
+Russian Empire,Lomonosov Moscow State University,Q13164,7,1,2,"public research university in Moscow, Russia",MSU|Lomonosov University|Moscow University|M. V. Lomonosov State University|M.V. Lomonosov Moscow State University|Moscow State University,Q875538,,Moscow State University
+Russian Empire,Moscow,Q499927,7,1,2,"city in and the county seat of Latah County, Idaho, United States","Moscow, Idaho|Moscow, ID",Q1093829,,"Moscow, Idaho"
+Russian Empire,Moscow Oblast,Q1697,7,1,2,administrative division (oblast) in central Russia,Podmoskovye|Moskovskaya oblast'|Moscow Region,Q835714|Q43263,,Moscow Oblast
+Russian Empire,Moscow,Q4304438,7,1,2,"unincorporated community in Muscatine County, Iowa","Moscow, Iowa|Moscow, IA",Q17343829,,"Moscow, Iowa"
+Russian Empire,Moscow Conservatory,Q215539,7,1,2,higher musical education institution in Moscow,Moscow Imperial Conservatory|Moscow Tchaikovsky Conservatory|Moscow State Tchaikovsky Conservatory|Tchaikovsky Moscow State Conservatory,Q184644|Q2319498,,Moscow Conservatory
+Russian Empire,Moscow,Q139886030,7,1,2,,,Q571,,
+Russian Empire,Saint Petersburg,Q656,7,1,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+Russian Empire,St. Petersburg,Q49236,7,1,2,"city in Pinellas County, Florida, United States","St. Petersburg, Florida|Saint Petersburg|St Petersburg|St Petersburg, Florida|St. Petersburg, FL|City of St. Petersburg, Florida",Q1093829|Q1549591,,"St. Petersburg, Florida"
+Russian Empire,Saint Petersburg Mining University,Q2495829,7,1,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+Russian Empire,Saint Petersburg State University,Q27621,7,1,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+Russian Empire,Imperial Academy of Arts,Q628254,7,1,2,"art school in Saint Petersburg, Russia",Russian Academy of Arts|Academy of the Three Noblest Arts|Saint Petersburg Academy of Arts|Leningrad Academy of arts|St Petersburg academy,Q383092|Q2319498,,Imperial Academy of Arts
+Russian Empire,Saint Petersburg Conservatory,Q178416,7,1,2,music school in Saint Petersburg,Leningrad Conservatory|N. A. Rimsky-Korsakov Saint Petersburg State Conservatory|Saint Petersburg State Conservatory named after N.A. Rimsky-Korsakov|Rimsky-Korsakov Saint Petersburg State Conservatory|St. Petersburg Rimsky-Korsakov State Conservatory,Q184644|Q2385804,,Saint Petersburg Conservatory
+Russian Empire,Saint Petersburg Academy of Sciences,Q4345832,7,1,2,historical academy (1724–1917),The Saint Petersburg Academy of Sciences|The St. Petersburg Academy of Sciences|St. Petersburg Academy of Sciences|Imperial Saint Petersburg Academy of Sciences,Q414147,,Saint Petersburg Academy of Sciences
+Russian Empire,Peter the Great Saint Petersburg State Polytechnical University,Q1379834,7,1,2,university in Russia,Saint Petersburg State Technical University|St. Petersburg Polytechnic University,Q4315006|Q1497364|Q2319498,,Peter the Great St. Petersburg Polytechnic University
+Russian Empire,Repin Institute of Arts,Q4201516,7,1,2,"education organization in Saint Petersburg, Russia","Saint Petersburg State Academic Institute of Painting Sculpture and Architecture named after I.E. Repin|Leningrad Order of Labor red banner Institute of painting, sculpture and architecture|Repin Academy of Arts|Saint Petersburg Repin Academy of Arts",Q2385804,,Saint Petersburg Repin Academy of Fine Arts
+Russian Empire,S. M. Kirov Military Medical Academy,Q1459393,7,1,2,"school of military medicine in Saint Petersburg, Russian Federation",Military-Medical Academy. CM. Kirov|Kirov Military Medical Academy|Academy of Military Medicine|Imperial Military Medical Academy|Saint Petersburg Academy for Military Medicine|Imperial Academy of Medical Surgery|Imperial Medical and Surgical Academy|Kirov Academy,Q917182|Q140968873,,S. M. Kirov Military Medical Academy
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q830054,8,0,1,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q303756,8,0,1,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1476251,8,0,1,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Harbin,Q1632027,8,0,1,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q649758,8,0,1,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1635756,8,0,1,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Polotsk,Q2465016,8,0,1,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q124806106,8,0,1,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Saint Sophia Cathedral,"Saint Sophia Cathedral, London",Q3464425,8,0,1,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Saint Sophia Cathedral,"Saint Sophia Cathedral, Zhytomyr",Q11737359,8,0,1,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Saint Sophia Cathedral,Hagia Sophia,Q12506,8,0,2,"mosque, museum, and former church in Istanbul, Turkey",Santa Sophia|St. Sophia Basilica|Church of Saint Sophia|Church of the Holy Wisdom|Hagia Sophia Mosque|Ayasofya|Great Church|Hagia Sophia Grand Mosque,Q120560|Q32815|Q33506|Q96371632|Q96440023|Q32815|Q33506|Q811979|Q35112127|Q16970|Q48356|Q97588309,,Hagia Sophia
+Saint Sophia Cathedral,Hagia Sophia,Q1568660,8,0,2,"church in Thessaloniki, Greece",Saint Sophia church (Thessaloniki)|Saint Sophia (Thessaloniki)|Saint Sophia|Ayasofya Camii,Q2977,,"Hagia Sophia, Thessaloniki"
+Saint Sophia Cathedral,Hagia Sophia,Q21529510,8,0,2,poem by Osip Mandelstam,,Q7725634,,
+Saint Sophia Cathedral,Hagia Sophia,Q112250696,8,0,2,painting by Leipold,,Q3305213,,
+Saint Sophia Cathedral,"Hagia Sophia, Trabzon",Q1568666,8,0,2,"Byzantine monument in Trabzon, Turkey","Hagia Sophia, Trabzon|Ayasofya Camii",Q16970|Q32815|Q33506,,"Hagia Sophia, Trabzon"
+Saint Sophia Cathedral,"Hagia Sophia, Iznik",Q4430013,8,0,2,"Byzantine-era church in İznik, Turkey",İznik Ayasofya Camii,Q32815|Q16970,,"Hagia Sophia, İznik"
+Saint Sophia Cathedral,Gazi Süleyman Paşa Mosque,Q52790862,8,0,2,"mosque in Kırklareli, northwestern Turkey",Hagia Sophia|Gazi Süleyman Paşa Camii,Q32815|Q2031836,,
+Saint Sophia Cathedral,Hagia Sophia History and Experience Museum,Q118955710,8,0,2,,,Q811979,,
+Saint Sophia Cathedral,Hagia Sophia VR Experience,Q122314312,8,0,2,2021 video game,,Q7889,,
+Saint Sophia Cathedral,Hagia Sophia and the Walls of Istanbul,Q68041481,8,0,2,painting by Félix Ziem,,Q3305213,,
+Russian Empire,Russian Empire,Q34266,8,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russian Empire,Romanov Empire,Q7382038,8,1,1,micronation created in 2011,Russian Empire|Imperial Throne,Q188443|Q21512251,Q48349,Romanov Empire (micronation)
+Russian Empire,Russian Empire census,Q2163579,8,1,1,census carried out in the Russian Empire,Russian census of 1897,Q39825|Q4350734,,1897 Russian census
+Russian Empire,Russian America,Q910495,8,1,1,Russian possessions in North America in the 18th century until 1867,America|Russian Empire of America,Q133156,,Russian America
+Russian Empire,Russian Empire national football team,Q1253316,8,1,1,former men's national association football team that represented the Russian Empire,,Q135408445,,Russian Empire national football team
+Russian Empire,history of the Russian Empire,Q4204714,8,1,1,occurrences and people in the Russian Empire throughout history,the Russian Empire history|Russian Empire history,Q17544377,,
+Russian Empire,coat of arms of Russian Empire,Q2325440,8,1,1,coat of arms,Russian Empire coat of arms,Q14659,,Coat of arms of the Russian Empire
+Russian Empire,Russian Empire at the 1908 Summer Olympics,Q1200994,8,1,1,List of participants from Russia,,Q26213387,,Russian Empire at the 1908 Summer Olympics
+Russian Empire,Russian Empire at the 1900 Summer Olympics,Q140974,8,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1900 Summer Olympics
+Russian Empire,Russian Empire at the 1912 Summer Olympics,Q578901,8,1,1,sporting event delegation,,Q26213387,,Russian Empire at the 1912 Summer Olympics
+Russian Empire,Saint Sophia Cathedral,Q830054,8,1,2,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Russian Empire,Saint Sophia Cathedral,Q303756,8,1,2,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Russian Empire,Saint Sophia Cathedral,Q1476251,8,1,2,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Russian Empire,Saint Sophia Cathedral in Harbin,Q1632027,8,1,2,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Russian Empire,Saint Sophia Cathedral,Q649758,8,1,2,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Russian Empire,Saint Sophia Cathedral,Q1635756,8,1,2,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Russian Empire,Saint Sophia Cathedral in Polotsk,Q2465016,8,1,2,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Russian Empire,Saint Sophia Cathedral,Q124806106,8,1,2,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Russian Empire,"Saint Sophia Cathedral, London",Q3464425,8,1,2,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Russian Empire,"Saint Sophia Cathedral, Zhytomyr",Q11737359,8,1,2,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Russian Empire,Russian Orthodox Church,Q60995,8,1,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Russian Empire,Russian Orthodox Church,Q571593,8,1,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Russian Empire,Russian Orthodox Church of Geneva,Q4240411,8,1,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Russian Empire,Russian Orthodox Church,Q3586061,8,1,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Russian Empire,Russian Orthodox Church Outside of Russia,Q912932,8,1,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Russian Empire,history of the Russian Orthodox Church,Q2395219,8,1,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Russian Empire,Russian Orthodox Church in Azerbaijan,Q4075904,8,1,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+Russian Empire,Russian Orthodox Church Abroad (Agathangelos),Q3586066,8,1,2,,ROCOR (A),Q4316503,,
+Russian Empire,Russian orthodox church of Biarritz,Q2041472,8,1,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Russian Empire,Russian Orthodox Church Buildings and Sites TR,Q107085711,8,1,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Russian Empire,Moscow,Q649,8,1,2,capital and most populous city of Russia,"Moscow, Russia|Moskva Federal City, Russia|Moscow, USSR|Moskva, Russia|City of Moscow|Moscow, Russian Federation|Moscow, Soviet Union|Moscow, Russian SFSR|Москва|Moskva, Rossiya|Mosky|Moskovĭ|Moskvi|Moskve|Moskvë",Q4442912|Q183342|Q1549591|Q174844|Q51929311|Q51929311|Q51929311|Q51929311|Q7930989|Q43263|Q257391|Q486972|Q106389302,,Moscow
+Russian Empire,1980 Summer Olympics,Q8450,8,1,2,"Games of the XXII Olympiad, in Moscow, USSR",Juegos de la XXII Olimpiada|1980 Moscow|Moscow 1980,Q135976384|Q14547231,,1980 Summer Olympics
+Russian Empire,UTC+03:00,Q6760,8,1,2,identifier for a time offset from UTC of +3,Eastern European Summer Time|Further-eastern European Time|Arabia Standard Time|East Africa Time|Kaliningrad Time|Moscow Time|Turkey Time|Turkish Time|TRT,Q17272482,,UTC+03:00
+Russian Empire,Moscow Pedagogical State University,Q1778321,8,1,2,university in Russia,Moscow University for Women|Moscow Pedagogical University|MPGU,Q875538|Q3918,,Moscow Pedagogical State University
+Russian Empire,Lomonosov Moscow State University,Q13164,8,1,2,"public research university in Moscow, Russia",MSU|Lomonosov University|Moscow University|M. V. Lomonosov State University|M.V. Lomonosov Moscow State University|Moscow State University,Q875538,,Moscow State University
+Russian Empire,Moscow,Q499927,8,1,2,"city in and the county seat of Latah County, Idaho, United States","Moscow, Idaho|Moscow, ID",Q1093829,,"Moscow, Idaho"
+Russian Empire,Moscow Oblast,Q1697,8,1,2,administrative division (oblast) in central Russia,Podmoskovye|Moskovskaya oblast'|Moscow Region,Q835714|Q43263,,Moscow Oblast
+Russian Empire,Moscow,Q4304438,8,1,2,"unincorporated community in Muscatine County, Iowa","Moscow, Iowa|Moscow, IA",Q17343829,,"Moscow, Iowa"
+Russian Empire,Moscow Conservatory,Q215539,8,1,2,higher musical education institution in Moscow,Moscow Imperial Conservatory|Moscow Tchaikovsky Conservatory|Moscow State Tchaikovsky Conservatory|Tchaikovsky Moscow State Conservatory,Q184644|Q2319498,,Moscow Conservatory
+Russian Empire,Moscow,Q139886030,8,1,2,,,Q571,,
+Russian Empire,Saint Petersburg,Q656,8,1,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+Russian Empire,St. Petersburg,Q49236,8,1,2,"city in Pinellas County, Florida, United States","St. Petersburg, Florida|Saint Petersburg|St Petersburg|St Petersburg, Florida|St. Petersburg, FL|City of St. Petersburg, Florida",Q1093829|Q1549591,,"St. Petersburg, Florida"
+Russian Empire,Saint Petersburg Mining University,Q2495829,8,1,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+Russian Empire,Saint Petersburg State University,Q27621,8,1,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+Russian Empire,Imperial Academy of Arts,Q628254,8,1,2,"art school in Saint Petersburg, Russia",Russian Academy of Arts|Academy of the Three Noblest Arts|Saint Petersburg Academy of Arts|Leningrad Academy of arts|St Petersburg academy,Q383092|Q2319498,,Imperial Academy of Arts
+Russian Empire,Saint Petersburg Conservatory,Q178416,8,1,2,music school in Saint Petersburg,Leningrad Conservatory|N. A. Rimsky-Korsakov Saint Petersburg State Conservatory|Saint Petersburg State Conservatory named after N.A. Rimsky-Korsakov|Rimsky-Korsakov Saint Petersburg State Conservatory|St. Petersburg Rimsky-Korsakov State Conservatory,Q184644|Q2385804,,Saint Petersburg Conservatory
+Russian Empire,Saint Petersburg Academy of Sciences,Q4345832,8,1,2,historical academy (1724–1917),The Saint Petersburg Academy of Sciences|The St. Petersburg Academy of Sciences|St. Petersburg Academy of Sciences|Imperial Saint Petersburg Academy of Sciences,Q414147,,Saint Petersburg Academy of Sciences
+Russian Empire,Peter the Great Saint Petersburg State Polytechnical University,Q1379834,8,1,2,university in Russia,Saint Petersburg State Technical University|St. Petersburg Polytechnic University,Q4315006|Q1497364|Q2319498,,Peter the Great St. Petersburg Polytechnic University
+Russian Empire,Repin Institute of Arts,Q4201516,8,1,2,"education organization in Saint Petersburg, Russia","Saint Petersburg State Academic Institute of Painting Sculpture and Architecture named after I.E. Repin|Leningrad Order of Labor red banner Institute of painting, sculpture and architecture|Repin Academy of Arts|Saint Petersburg Repin Academy of Arts",Q2385804,,Saint Petersburg Repin Academy of Fine Arts
+Russian Empire,S. M. Kirov Military Medical Academy,Q1459393,8,1,2,"school of military medicine in Saint Petersburg, Russian Federation",Military-Medical Academy. CM. Kirov|Kirov Military Medical Academy|Academy of Military Medicine|Imperial Military Medical Academy|Saint Petersburg Academy for Military Medicine|Imperial Academy of Medical Surgery|Imperial Medical and Surgical Academy|Kirov Academy,Q917182|Q140968873,,S. M. Kirov Military Medical Academy

@@ -1,0 +1,97 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The bookselling bulletin,The bookselling bulletin,Q4224698,0,0,1,newspaper,,Q11032,,
+CITY,city,Q515,1,0,1,large human settlement,cities,Q98966309|Q137018865,Q124250988|Q7930989|Q15284|Q56061,City
+CITY,Antwerp,Q12892,1,0,1,city and municipality in the Flemish Region of Belgium; capital and largest city of Antwerp Province; third-largest municipality in Belgium by area,City of Antwerp|Antwerpen,Q15273785|Q493522|Q2264924,,Antwerp
+CITY,Manchester City F.C.,Q50602,1,0,1,"association football club in Manchester, England",Manchester City FC|Manchester City|Man City|Manchester City F.C. Soccer|Manchester City Football Club|Citizens|Sky Blues|MCFC|City|The Sky Blues|The Blues|The Citizens,Q476028,,Manchester City F.C.
+CITY,Citytv,Q1532871,1,0,1,Canadian television network owned by Rogers Communications,City Television|City,Q1254874,,Citytv
+CITY,Birmingham City F.C.,Q19444,1,0,1,"association football club in Birmingham, England",Birmingham City Football Club|Birmingham City FC|Birmingham City|Birmingham|Blues|City|BCFC,Q476028,,Birmingham City F.C.
+CITY,Paris,Q90,1,0,1,capital and most populous city in France,City of Light|City of Love|Lutetia,Q484170|Q22923920|Q200250|Q1200957|Q208511|Q174844|Q51929311|Q1187811|Q1549591|Q1422929|Q108178728|Q1066984|Q11418818|Q134445478|Q2240381,,Paris
+CITY,Stoke City F.C.,Q18736,1,0,1,"association football club in Stoke-on-Trent, England",Stoke City Football Club|Stoke City FC|Stoke City|Stoke|The Potters|City|SCFC,Q476028,,Stoke City F.C.
+CITY,Leicester City F.C.,Q19481,1,0,1,"association football club in Leicester, England",Leicester City Football Club|Leicester City FC|Leicester City|Leicester|Leicester Fosse Football Club|Leicester Fosse FC|Leicester Fosse|The Foxes|LCFC|City|L.C.F.C.,Q476028,,Leicester City F.C.
+CITY,Prague,Q1085,1,0,1,capital city of the Czech Republic,Hlavní město Praha|City of Prague,Q15978299|Q548611|Q192611|Q12031379|Q8452914|Q171441|Q38911|Q7841907|Q1549591|Q7819319|Q76007695|Q76009696|Q1200957|Q5153359|Q108178728,,Prague
+CITY,Cardiff City F.C.,Q18662,1,0,1,"association football club in Cardiff, Wales",Cardiff City Football Club|Cardiff City FC|Cardiff City|Cardiff|City|The Bluebirds|CCFC,Q476028,,Cardiff City F.C.
+CITY,public broadcasting,Q26398,1,0,2,electronic media outlets whose primary mission is public service,public service broadcasting|non-commercial broadcasting|noncommercial broadcasting|publicly-funded broadcasting,,Q15078788|Q161837,Public broadcasting
+CITY,PBS,Q215616,1,0,2,American public broadcaster and television network,Public Broadcasting Service,Q1254874|Q1126006|Q163740,,PBS
+CITY,Radio and Television of Bosnia and Herzegovina,Q2280893,1,0,2,Bosnian public radio and TV broadcaster,Bosnian-Herzegovinian Radio Television|PBSBiH|Public Broadcasting Service of Bosnia and Herzegovina|БХРТ|BHRT|Radio and Television of BH,Q1616075,,Radio and Television of Bosnia and Herzegovina
+CITY,Public Broadcasting Services,Q731913,1,0,2,public broadcaster of Malta,PBS,Q15265344,,Public Broadcasting Services
+CITY,Public Broadcasting Act of 1967,Q7257331,1,0,2,Statute in US law,,Q476068,,Public Broadcasting Act of 1967
+CITY,public broadcasting contribution,Q26271666,1,0,2,framework financing German public broadcasting stations,GEZ fees,Q11765|Q25821|Q721830|Q322948,,
+CITY,Public Broadcasting Council,Q13053356,1,0,2,Armenian government agency,Public Television and Radio Company Council|Council of public TV and radio,Q327333,,
+CITY,public broadcasting in the United States,Q85794936,1,0,2,,,Q74817647,Q26398,Public broadcasting in the United States
+CITY,public broadcasting in Ukraine,Q16718654,1,0,2,"public service media broadcasting though television, radio and other media Ukraine",public broadcasting of Ukraine,Q26398,,
+CITY,Public Broadcasting Corporation of Jamaica,Q17074162,1,0,2,Agencies of Office of the Prime Minister in Jamaica,PBCJ,Q141683|Q327333,,Jamaica Broadcasting Corporation
+CITY,Broadcasting Council,Q4584979,1,0,2,advisory board to the Norwegian Broadcasting Corporation,,Q4686866,,Broadcasting Council (Norway)
+CITY,Broadcasting Council,Q114288156,1,0,2,"Australian government agency, 1981-1993",,Q110376455,,
+CITY,Audience Council Scotland,Q4819762,1,0,2,organization,Broadcasting Council for Scotland,Q43229,,Audience Council Scotland
+CITY,Broadcasting Council for Wales,Q132165785,1,0,2,former organisation,,Q43229,,
+CITY,WXXI Public Broadcasting Council,Q7957905,1,0,2,"public broadcasting organization in Rochester, New York, United States",WXXI,Q163740,,WXXI Public Broadcasting Council
+WXXI Public Broadcasting Council,WXXI Public Broadcasting Council,Q7957905,1,1,1,"public broadcasting organization in Rochester, New York, United States",WXXI,Q163740,,WXXI Public Broadcasting Council
+Panorama,panorama,Q41363,2,0,1,wide-angle view or representation of a physical space,pano,Q1792379,Q478798,Panorama
+Panorama,Panorama,Q955544,2,0,1,"municipality in the state of São Paulo, Brazil",,Q3184121,,"Panorama, São Paulo"
+Panorama,Panorama,Q1763900,2,0,1,third studio album by American new wave band The Cars,,Q482994,,Panorama (The Cars album)
+Panorama,Panorama,Q29652168,2,0,1,collection / data gathered and archived by the Swiss Theatre Collection,Collection of the Schweizerische Theatersammlung,Q42848|Q2668072,,
+Panorama,Panorama,Q104745474,2,0,1,2020 single by Iz*One,,Q134556|Q7366,,Panorama (Iz*One song)
+Panorama,Panorama,Q3362386,2,0,1,1964 studio album by Eddy Mitchell,,Q482994,,
+Panorama,Panorama,Q14180100,2,0,1,"subdistrict in Bengkulu City, Bengkulu, Indonesia",,Q965568,,
+Panorama,"Panorama, Evros",Q21406240,2,0,1,human settlement in Greece,Panorama,Q486972,,
+Panorama,Panorama,Q43519207,2,0,1,"street in Teplice, Czech Republic","Panorama (street, Teplice)",Q79007,,
+Panorama,Panorama,Q21405977,2,0,1,"village in Drama municipality, Greece",,Q486972,,
+Panorama,Panorama Tower,Q166968,2,0,2,"building in Leppävaara, Espoo, Finland",,Q18142,,Panorama Tower (Espoo)
+Panorama,Panorama tower,Q39081323,2,0,2,historical building in Montevideo,,Q41176,,
+Panorama,Panorama Towers,Q5198534,2,0,2,"luxury high-rise condominium complex in Paradise, Nevada",,Q11303|Q136675775,,Panorama Towers
+Panorama,Panorama Towers,Q6668417,2,0,2,twin towers in Haifa,,Q118896406,,
+Panorama,Panorama Tower Hotel,Q111883098,2,0,2,"hotel in Ipatinga, Brazil",,Q27686,,
+Panorama,1101 Brickell,Q4547246,2,0,2,"Skyscraper in Miami, Florida, USA",,Q11303,,Panorama Tower
+Panorama,Panorama City,Q18249913,2,0,2,"building in Bratislava, Slovakia",,Q41176,,Panorama City Towers
+Panorama,Panorama Towers,Q60819388,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Panorama,Panorama City,Q7131498,2,0,2,"neighborhood in Los Angeles, California, United States","Panorama City, Los Angeles|Panorama City, California|Panorama City, CA",Q52154375,,"Panorama City, Los Angeles"
+Panorama,Panorama City,Q130247765,2,0,2,Swiss art space,,Q3325736,,
+Panorama,Panorama City Branch,Q61678280,2,0,2,"public library in Panorama City, California, USA",,Q11396180|Q28564,,
+Panorama,Panorama City Special,Q30605347,2,0,2,motor vehicle,,Q3231690,,Panorama City Special (dragster)
+Panorama,Panorama City,Q12773368,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Panorama,Panorama Park,Q944177,2,0,2,city in Iowa,"Panorama Park, Iowa|Panorama Park, IA",Q1093829|Q486972,,"Panorama Park, Iowa"
+Panorama,Panorama Park,Q49537410,2,0,2,park in the United States of America,,Q22698,,
+Panorama,Panorama Park,Q49537413,2,0,2,"park in Arapahoe County, Colorado, United States of America",,Q22698,,
+Panorama,Panorama Park,Q49537415,2,0,2,"park in Jefferson County, Colorado, United States of America",,Q22698,,
+Panorama,Panorama Park,Q21934905,2,0,2,,,Q22698,,
+Panorama,Panorama Park,Q21933626,2,0,2,"park in New South Wales, Australia",,Q22698,,
+Panorama,Panorama Park,Q49537412,2,0,2,"park in Riverside County, California, United States of America",,Q22698,,
+Panorama,Panorama Park,Q97452845,2,0,2,"reserve in Gosford LGA, New South Wales, Australia",,Q22698,,
+Panorama,Panorama-Park Sauerland Wildpark,Q2049706,2,0,2,amusement park,,Q43229|Q15982170,,
+Panorama,Panorama Parkı,Q21596246,2,0,2,"park in Al-Raqqah Governorate, Syria",,Q22698,,
+Epeirotika Chronika,Epeirotika Chronika,Q5382084,3,0,1,newspaper,,Q11032,,
+The Daily Times,The Daily Times,Q1345880,4,0,1,"newspaper in Salisbury, Maryland",Salisbury Daily Times|Daily Times|The Salisbury Times|Salisbury Times,Q11032,,"The Daily Times (Salisbury, Maryland)"
+The Daily Times,The Daily Times,Q100292477,4,0,1,"newspaper published in Davenport, Iowa",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q7728727,4,0,1,newspaper,,Q11032,,The Daily Times (Pryor)
+The Daily Times,The Daily Times,Q100292483,4,0,1,"newspaper published in New Philadelphia, Ohio",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q7728726,4,0,1,Malawian daily newspaper founded in 1895,,Q11032,,The Daily Times (Malawi)
+The Daily Times,The Daily Times,Q25205661,4,0,1,"daily newspaper in Tennessee, US",,Q11032,,"The Daily Times (Blount County, Tennessee)"
+The Daily Times,The Daily Times,Q127608337,4,0,1,"newspaper in Mamaroneck, New York","The Daily Times of Mamaroneck, New York",Q1110794,,
+The Daily Times,The Daily Times,Q100292480,4,0,1,"newspaper published in Collinsville, Oklahoma",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q100292475,4,0,1,"newspaper published in Macon, Missouri",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q100292471,4,0,1,"newspaper published in Omaha, Nebraska",Daily Times,Q11032,,
+Gannett,USA Today Co.,Q1345971,4,1,1,United States newspaper company,"Gannett Company, Inc|Gannett Company|Gannett Co.|Gannett Group|Gannett Co., Inc.|Gannett Media Corp.|USA Today Co., Inc.|Gannett",Q4830453|Q6881511,,USA Today Co.
+Gannett,Gannett,Q37430621,4,1,1,family name,,Q101352,,Gannett (surname)
+Gannett,Gannett,Q30622707,4,1,1,"unincorporated community in Blaine County, Idaho, United States","Gannett, Idaho|Gannett, ID",Q17343829,,"Gannett, Idaho"
+Gannett,Gannett Creek,Q22626384,4,1,1,"watercourse in British Columbia, Canada",,Q4022,,
+Gannett,Gannett Peak,Q1493617,4,1,1,mountain,,Q8502,,Gannett Peak
+Gannett,Gannett Herwig,Q125030123,4,1,1,"American architect, active in New York",,Q5,,
+Gannett,Sightline Media Group,Q1267282,4,1,1,American publishing company,Gannett Government Media,Q4830453|Q2085381,,Sightline Media Group
+Gannett,Gannett (United States),Q30285698,4,1,1,"company in Tysons Corner, United States",,Q4830453,,
+Gannett,Gannett Building,Q5521422,4,1,1,"building in Rochester, New York, United States",,Q41176,,Gannett Building
+Gannett,"Gannett Co., Inc.",Q67476740,4,1,1,item in the National Archives and Records Administration's holdings,,Q4830453,,
+The Daily Times,The Daily Times,Q1345880,5,0,1,"newspaper in Salisbury, Maryland",Salisbury Daily Times|Daily Times|The Salisbury Times|Salisbury Times,Q11032,,"The Daily Times (Salisbury, Maryland)"
+The Daily Times,The Daily Times,Q100292477,5,0,1,"newspaper published in Davenport, Iowa",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q7728727,5,0,1,newspaper,,Q11032,,The Daily Times (Pryor)
+The Daily Times,The Daily Times,Q100292483,5,0,1,"newspaper published in New Philadelphia, Ohio",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q7728726,5,0,1,Malawian daily newspaper founded in 1895,,Q11032,,The Daily Times (Malawi)
+The Daily Times,The Daily Times,Q25205661,5,0,1,"daily newspaper in Tennessee, US",,Q11032,,"The Daily Times (Blount County, Tennessee)"
+The Daily Times,The Daily Times,Q127608337,5,0,1,"newspaper in Mamaroneck, New York","The Daily Times of Mamaroneck, New York",Q1110794,,
+The Daily Times,The Daily Times,Q100292480,5,0,1,"newspaper published in Collinsville, Oklahoma",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q100292475,5,0,1,"newspaper published in Macon, Missouri",Daily Times,Q11032,,
+The Daily Times,The Daily Times,Q100292471,5,0,1,"newspaper published in Omaha, Nebraska",Daily Times,Q11032,,
+CNHI,CNHI,Q5154827,5,1,1,American publisher of newspapers and advertising-related publications throughout the United States,"Community Newspaper Holdings|CNHI, LLC",Q4830453|Q43229,,CNHI
+CNHI,Cité nationale de l'histoire de l'immigration,Q1094332,5,1,1,"museum in Paris, France",Musée de l'histoire de l'immigration,Q962734,,Cité nationale de l'histoire de l'immigration
+CNHI,CNHIM,Q66088174,5,1,1,,,Q15911314,,
+CNHI,Cnhi International,Q134638875,5,1,1,,,Q43229,,
+CNHI,China News Service,Q969272,5,1,2,state-owned news agency in the People's Republic of China,CNS|chinanews.com.cn,Q192283|Q2324556,,China News Service

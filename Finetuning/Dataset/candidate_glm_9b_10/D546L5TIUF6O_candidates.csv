@@ -1,0 +1,9 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+germanium-64,germanium-64,Q18844983,0,0,1,isotope of germanium,Ge-64|64Ge,Q2288723,Q867,Germanium-64
+germanium-69m1,germanium-69m1,Q18880271,1,0,1,isotope of germanium,Ge-69m1|69m1Ge,Q846110|Q2288723,Q867,
+germanium-69m1,germanium-69m2,Q18880277,1,0,2,isotope of germanium,Ge-69m2|69m2Ge,Q846110|Q2288723,Q867,
+germanium-67,germanium-67,Q2793808,2,0,1,isotope of germanium,Ge-67|67Ge,Q2288723,Q867,Germanium-67
+germanium-67,germanium-67m1,Q18880263,2,0,1,isotope of germanium,Ge-67m1|67m1Ge,Q846110|Q2288723,Q867,
+germanium-67,germanium-67m2,Q18880267,2,0,1,isotope of germanium,Ge-67m2|67m2Ge,Q846110|Q2288723,Q867,
+germanium-81,germanium-81,Q18844990,3,0,1,isotope of germanium,Ge-81|81Ge,Q2288723,Q867,Germanium-81
+germanium-81,germanium-81m,Q18880312,3,0,1,isotope of germanium,Ge-81m|81mGe,Q846110|Q2288723,Q867,

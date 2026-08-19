@@ -1,0 +1,86 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Brotonne Bridge,Brotonne Bridge,Q734387,0,0,1,"bridge in Normandy, France",,Q3397519|Q537127|Q158555,,Pont de Brotonne
+Brotonne Bridge,Brotonne Bridge,Q105769322,0,0,1,ship built in 2010,IMO 9486116,Q11446,,
+Third Street Bridge,Third Street Bridge,Q25204259,1,0,1,"bridge in Cannon Falls, Minnesota",,Q537127|Q158218|Q21170235,,"Third Street Bridge (Cannon Falls, Minnesota)"
+Third Street Bridge,Third Street Bridge,Q24435829,1,0,1,"bridge in Delavan, Illinois",,Q158218|Q537127,,"Third Street Bridge (Delavan, Illinois)"
+Third Street Bridge,Third Street Bridge,Q55106708,1,0,1,"historic bridge in Waverly, Iowa, USA",,Q537127,,"Third Street Bridge (Waverly, Iowa)"
+Third Street Bridge,Third Street Bridge,Q5237720,1,0,1,"bridge in Fairmont, West Virginia",David Morgan Memorial Bridge,Q537127,,Third Street Bridge (Fairmont)
+Third Street Bridge,"Third Street Bridge (Dixon, Illinois)",Q137206370,1,0,1,,,Q1210334,,
+Third Street Bridge,Third Street Bridge,Q2421385,1,0,1,Wikimedia disambiguation page,,Q4167410,,Third Street Bridge
+Noorderbrug,Noorderbrug,Q1884784,2,0,1,"bridge in Maastricht, Netherlands",,Q12280,,
+Noorderbrug,Noorderbrug,Q2337652,2,0,1,"bridge in Rotterdam, Netherlands",D 20,Q12280|Q537127,,
+Noorderbrug,Noorderbrug,Q106916043,2,0,1,"bridge in Haarlem, Netherlands",,Q12280,,
+Noorderbrug,Noorderbrug,Q100700891,2,0,1,"tram stop in Rotterdam, the Netherlands",,Q2175765,,
+Noorderbrug,Noorderbrug,Q114240023,2,0,1,"tram stop in Antwerp, Belgium",,Q2175765,,
+Noorderbrug,Noorderbrug,Q2692920,2,0,1,"bridge in Utrecht, Netherlands",,Q12280,,
+Noorderbrug,Noorderbrug,Q21208126,2,0,1,"bridge in Venlo, Netherlands",,Q12280,,
+Noorderbrug,Noorderbrug,Q107354762,2,0,1,bridge in Leeuwarden,,Q12280,,
+Noorderbrug,Noorderbrug,Q19372941,2,0,1,"street in Obdam, the Netherlands",,Q79007,,
+Noorderbrug,Noorderbrug,Q133838094,2,0,1,"Bridge in Dordrecht, the Netherlands",,Q12280,,
+Union Bridge,Union Bridge,Q753786,3,0,1,"town in Carroll County, Maryland, United States","Union Bridge, Maryland|Union Bridge, MD",Q15127012,,"Union Bridge, Maryland"
+Union Bridge,Union Bridge,Q55047906,3,0,1,"bridge in County Sligo, County Sligo, Ireland",,Q12280,,
+Union Bridge,Union Bridge,Q41791794,3,0,1,former bridge over the Allegheny River in Pittsburgh,1875 Union Bridge,Q1825472,,
+Union Bridge,Union Bridge,Q56642308,3,0,1,"bridge in Keith, Moray, Scotland, UK, carries the A96 road across River Isla","Union Bridge, River Isla, Regent Street, Keith",Q537127,,
+Union Bridge,"Union Bridge, Aberdeen",Q7885437,3,0,1,"road bridge in Aberdeen, Scotland, UK, carries Union Street across Denburn Road and the Aberdeen-Inverness railway line","Union Bridge, Aberdeen",Q537127,,"Union Bridge, Aberdeen"
+Union Bridge,Union Chain Bridge,Q2494538,3,0,1,suspension bridge over the Anglo-Scottish border,"Union Chain Suspension Bridge|Union Chain Bridge|Hutton, River Tweed, Union Bridge|Union Suspension Bridge|Union Bridge, River Tweed, Hutton",Q12570|Q537127,,Union Chain Bridge
+Union Bridge,Union Bridge,Q55982721,3,0,1,bridge over the Murray River,,Q537127,,
+Union Bridge,Union Bridge,Q31107502,3,0,1,"hillfort in Scottish Borders, Scotland, UK",,Q31028835,,
+Union Bridge,Loanend,Q31111139,3,0,1,hillfort in Northumberland,Union Bridge,Q92086,,
+Union Bridge,Union Bridge,Q26546754,3,0,1,"bridge in Manchester, Greater Manchester, England, UK",,Q12280,,
+Walton Bridge,Walton Bridge,Q1414113,4,0,1,"This bridge in England, across the Thames, is in its sixth incarnation, built in 2013, one which is single-span and tied-arch above in design.",Sixth Walton Bridge,Q537127,,Walton Bridge
+Walton Bridge,Walton Bridge,Q26643360,4,0,1,"bridge in Preston and South Ribble, Lancashire, England, UK",,Q12280,,
+Walton Bridge,Bailey Bridge (Walton on Trent),Q59652995,4,0,1,bridge in Staffordshire,Walton Bridge,Q537127|Q803818,,Bailey Bridge (Walton on Trent)
+Walton Bridge,Walton Bridge,Q7966722,4,0,1,bridge in United States of America,,Q12280|Q537127,,"Walton Bridge (Keene, New York)"
+Walton Bridge,Walton Bridge,Q26432219,4,0,1,"bridge in Walton, Warrington, Cheshire, England, UK",,Q12280,,
+Walton Bridge,Walton Bridge,Q26491228,4,0,1,"bridge in Stone, Stafford, Staffordshire, England, UK",,Q12280,,
+Walton Bridge,Walton bridges,Q20410826,4,0,1,painting by J. M. W. Turner,,Q3305213,,Walton Bridges
+Walton Bridge,Walton Bridges on the Thames,Q54820251,4,0,1,painting by J.M.W. Turner,,Q3305213,,
+Walton Bridge,"Walton Bridge on Thames, Surrey",Q110092554,4,0,1,engraving - J. C. Varrall (YCBA B1977.14.6981),,Q11835431|Q11060274,,
+Walton Bridge,"Walton Bridge on Thames, Surrey",Q110092550,4,0,1,engraving - J. C. Varrall,,Q11835431|Q11060274,,
+Pont de la Concorde,Pont de la Concorde,Q644398,5,0,1,"bridge in Paris, France",,Q158438|Q3397526,,Pont de la Concorde (Paris)
+Pont de la Concorde,Pont de la Concorde,Q2103660,5,0,1,bridge in Montreal that carries avenue Pierre-Dupuy across the Saint-Lawrence River,Concorde Bridge,Q12042110|Q537127,,Pont de la Concorde (Montreal)
+Pont de la Concorde,Pont de la Concorde,Q28533476,5,0,1,painting by Pierre Bonnard,,Q3305213,,
+Pont de la Concorde,Pont de la Concorde,Q3397256,5,0,1,bridge in France,,Q18615527,,
+Pont de la Concorde,pont de la Concorde,Q107503322,5,0,1,pont de Nancy,,Q12280,,
+Pont de la Concorde,Pont de la Concorde à Paris by Prosper Barbot,Q66458949,5,0,1,painting by Prosper Barbot,,Q3305213,,
+Pont de la Concorde,"Pont de la Concorde (Formerly Pont de Louis XVI), Paris. Elevation, plan and cross section",Q110730015,5,0,1,,,Q93184,,
+Pont de la Concorde,Pont de la Concorde,Q128800620,5,0,1,,,Q953806,,
+Pont de la Concorde,Pont de la Concorde,Q3397259,5,0,1,Wikimedia disambiguation page,,Q4167410,,Pont de la Concorde
+F Street Bridge,F Street Bridge,Q5427500,6,0,1,"historic bridge in Salida, Colorado, United States",,Q537127,,"F Street Bridge (Salida, Colorado)"
+F Street Bridge,F Street Bridge,Q5427499,6,0,1,Wikimedia disambiguation page,,Q4167410,,F Street Bridge
+Elliott Bridge,Elliott Bridge,Q112079485,7,0,1,"bridge in Sirajganj, Bangladesh",Eliot Bridge|Boro Pool,Q12280,,"Elliott Bridge, Sirajganj"
+Elliott Bridge,Elliott Bridge,Q5365622,7,0,1,"bridge in North Dakota, United States",Souris River Bridge,Q537127,,Elliott Bridge
+Elliott Bridge,Bridge of Sighs,Q52517,7,0,2,Bridge over a canal in Venice,,Q1068842,,Bridge of Sighs
+Elliott Bridge,Bridge of Sighs,Q17567354,7,0,2,"bridge in Glasgow, Scotland","Cathedral Square, Bridge of Sighs",Q1068842,,
+Elliott Bridge,Bridge of Sighs,Q3397409,7,0,2,"bridge at St John's College, Cambridge University, England","St John's College, New Bridge",Q1068842|Q1825472,,"Bridge of Sighs, Cambridge"
+Elliott Bridge,Bridge of Sighs,Q4966447,7,0,2,album by Robin Trower,,Q482994,,Bridge of Sighs (Robin Trower album)
+Elliott Bridge,Seufzersteg,Q27903893,7,0,2,demolished bridge across the Germany-Poland border,Bridge of Sighs,Q25297630|Q109607,,
+Elliott Bridge,Bridge of Sighs,Q3407626,7,0,2,"skyway in Oxford, Oxfordshire, England, UK","Hertford College, Bridge Over New College Lane",Q1361100,,"Bridge of Sighs, Oxford"
+Elliott Bridge,Rosa 'Bridge of Sighs',Q7366994,7,0,2,rose cultivar,Bridge of Sighs,Q26817508,,Rosa 'Bridge of Sighs'
+Elliott Bridge,Bridge of Sighs,Q59389949,7,0,2,painting by Hovhannes Zardaryan,,Q3305213,,
+Elliott Bridge,The Bridge of Sighs,Q48674108,7,0,2,1925 film directed by Phil Rosen,Bridge of Sighs,Q11424,,The Bridge of Sighs (1925 film)
+Elliott Bridge,Bridge of Sighs,Q3795188,7,0,2,1921 film by Domenico Gaido,,Q11424,,
+Elliott Bridge,Ponte Sant'Antonio,Q56604125,7,0,2,"bridge in Venice, Italy",,Q12280,,
+Elliott Bridge,Ponte Sant'Antonio,Q18427462,7,0,2,"human settlement in ""Penne, Abruzzo"", Province of Pescara, Abruzzo, Italy",,Q1134686,,
+Elliott Bridge,Ponte San Antonio,Q56604154,7,0,2,"bridge in Venice, Italy",,Q12280,,
+Elliott Bridge,Ponte Sant'Antonio,Q139622201,7,0,2,aqueduct bridge of the Aqua Anio Novus,,Q13218676,,
+Brevik Bridge,Brevik Bridge,Q118752,8,0,1,bridge in Norway,,Q12570|Q12042110|Q537127|Q358,,Brevik Bridge
+Brevik Bridge,Brevik Bridge,Q105769616,8,0,1,ship built in 2011,IMO 9492696,Q11446,,
+Second Street Bridge,George Rogers Clark Memorial Bridge,Q12058467,9,0,1,"crossing of the Ohio River between Louisville, Kentucky, and Jeffersonville, Indiana",Second Street Bridge|Clark Memorial Bridge,Q1429218,,George Rogers Clark Memorial Bridge
+Second Street Bridge,Second Street Bridge,Q1066915,9,0,1,"NRHP-listed bridge in Allegan, Michigan",,Q158218,,"Second Street Bridge (Allegan, Michigan)"
+Second Street Bridge,Robert N. Stewart Bridge,Q106803666,9,0,1,"cable-stayed bridge in Columbus, Indiana, United States",Robert Stewart Bridge|Stewart Bridge|Second Street Bridge,Q537127,,
+Second Street Bridge,Second Street Bridge,Q7443570,9,0,1,bridge in United States of America,,Q537127,,"Second Street Bridge (Chester, Pennsylvania)"
+Second Street Bridge,"Second Street Bridge (Dixon, Illinois)",Q137206368,9,0,1,,,Q1210334,,
+Second Street Bridge,Second Street Bridge Historical Marker,Q49559327,9,0,1,park in the United States of America,,Q721747,,
+Second Street Bridge,"Second Street Bridge (Columbus, Indiana, 1884)",Q137210498,9,0,1,,,Q537127,,
+Second Street Bridge,Second Street Bridge,Q1613882,9,0,1,Wikimedia disambiguation page,,Q4167410,,Second Street Bridge
+Old Town Bridge,Old Town Bridge,Q2018531,10,0,1,"bridge in Trondheim, Norway",,Q537127,,Old Town Bridge
+Old Town Bridge,Old town bridge,Q792574,10,0,1,bridge in Hungarian city Szeged,,Q537127,,Belvárosi Bridge (Szeged)
+Old Town Bridge,Old Town Bridge,Q7085269,10,0,1,"listed on the National Register of Historic Places in Middlesex County, Massachusetts",Four Arch Bridge,Q12280|Q537127,,"Old Town Bridge (Wayland, Massachusetts)"
+Old Town Bridge,Old Town Bridge,Q7085268,10,0,1,"bridge in Tennessee, United States of America",,Q12280,,"Old Town Bridge (Franklin, Tennessee)"
+Old Town Bridge,Old Town Bridge Tower,Q445762,10,0,1,national monument of the Czech Republic,,Q82117|Q12518,,Old Town Bridge Tower
+Old Town Bridge,Old Town Bridge,Q7085271,10,0,1,Wikimedia disambiguation page,,Q4167410,,Old Town Bridge (disambiguation)
+Discovery Bridge,Discovery Bridge,Q5281876,11,0,1,"completed in 2008 across the Missouri River, connecting Nebraska with Yankton, South Dakota",,Q537127,,Discovery Bridge (Yankton)
+Discovery Bridge,Discovery Bridge,Q60775691,11,0,1,"Bridge in Columbus, Ohio",,Q537127,,"Discovery Bridge (Columbus, Ohio)"
+Discovery Bridge,Discovery Bridge,Q5281874,11,0,1,"connecting Saint Louis County with Saint Charles County, Missouri",,Q537127,,Discovery Bridge (Missouri)
+Discovery Bridge,Discovery Bridge,Q5281873,11,0,1,Wikimedia disambiguation page,,Q4167410,,Discovery Bridge

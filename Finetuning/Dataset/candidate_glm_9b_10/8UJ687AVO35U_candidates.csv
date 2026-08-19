@@ -1,0 +1,138 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+* V627 Per,V627 Aurigae,Q87152718,0,0,2,eclipsing binary star in the constellation Auriga,,Q1457376|Q6243|Q67206691,,
+* V627 Per,V627 Hydrae,Q88963371,0,0,2,eclipsing binary star,,Q1457376|Q72534536|Q6243,,
+* V627 Per,V627 Herculis,Q87572004,0,0,2,star in the constellation Hercules,,Q67206785|Q6243,,
+* V627 Per,V* V627 Cen,Q86782250,0,0,2,Algol variable in the constellation Centaurus,,Q24452|Q523,,
+* V627 Per,V* V627 Aql,Q90110694,0,0,2,long period variable,,Q1153690|Q523,,
+* V627 Per,V* V627 Cep,Q97286208,0,0,2,star in the constellation Cepheus,,Q67206691|Q67206785|Q6243,,
+* V627 Per,V* V627 Tau,Q88113462,0,0,2,,,Q2247863|Q523|Q1362543|Q67206785,,
+* V627 Per,V* V627 Oph,Q83499584,0,0,2,carbon star in the constellation Ophiuchus,,Q130019|Q744691|Q1153690|Q67206691|Q67206785|Q6243,,
+* V627 Per,V* V627 Lyr,Q85535549,0,0,2,hot subdwarf star in the constellation Lyra,,Q54231557|Q1332364,,
+* V627 Per,V* V627 Sgr,Q74997371,0,0,2,Mira variable star in the constellation Sagittarius,,Q744691,,
+* V627 Per,Peru,Q419,0,0,2,sovereign state in South America,pe|Republic of Peru|Republica del Peru|per,Q3624078|Q6256,,Peru
+* V627 Per,Per,Q13582800,0,0,2,male given name,Per (given name)|Per (first name),Q12308941,,Per (given name)
+* V627 Per,Perseus,Q10511,0,0,2,constellation in the northern celestial hemisphere,Per|Persei,Q8928,,Perseus (constellation)
+* V627 Per,Per,Q37556804,0,0,2,family name,,Q101352,,
+* V627 Per,Perth,Q3183,0,0,2,"capital city of Western Australia, Australia","Perth, Western Australia|Perth, Australia|Perth, W.A.|Perth, AUS|Boorloo|Boorloo, Western Australia",Q515|Q1549591,,Perth
+* V627 Per,Christiaan Hendrik Persoon,Q346451,0,0,2,German mycologist (1761-1836),Pers.|C. H. Persoon|Christiaan H. Persoon,Q5,,Christiaan Hendrik Persoon
+* V627 Per,Perugia,Q3437,0,0,2,Italian comune,,Q747074|Q515|Q1549591|Q1200957,,Perugia
+* V627 Per,Perpignan,Q6730,0,0,2,"French commune in Pyrénées-Orientales, Occitania",Perpinyà|Perpinhan,Q484170|Q1549591,,Perpignan
+* V627 Per,Pernambuco,Q40942,0,0,2,state in the Northeast Region of Brazil,Pernambuco state|Pernambuco State,Q485258,,Pernambuco
+* V627 Per,Persian Wikipedia,Q48952,0,0,2,Persian-language edition of Wikipedia,Farsi Wikipedia,Q10876391,,Persian Wikipedia
+V* V125 Cen,Centaurus,Q8844,1,0,2,stellar constellation in the southern celestial hemisphere,Cen|Centauri|the Centaur,Q8928,,Centaurus
+V* V125 Cen,UTC+02:00,Q6723,1,0,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+V* V125 Cen,United States Census Bureau,Q637413,1,0,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+V* V125 Cen,Central European Time,Q25989,1,0,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+V* V125 Cen,Central European Summer Time,Q207020,1,0,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+V* V125 Cen,census-designated place in the United States,Q498162,1,0,2,statistical concentration of population defined by the United States Census Bureau,unincorporated census-designated place|unincorporated CDP,Q137018865|Q56061,Q17343829|Q15042037|Q3389680|Q486972|Q2221906,Census-designated place
+V* V125 Cen,centimetre,Q174728,1,0,2,SI unit of length equal to one hundredth of a metre,centimetres|cm,Q1978718|Q208469|Q12036470,,Centimetre
+V* V125 Cen,UTC+08:00,Q6985,1,0,2,identifier for a time offset from UTC of +8,Central Indonesian Time|WITA Time Zone,Q17272482,,UTC+08:00
+V* V125 Cen,census,Q39825,1,0,2,survey designed to collect data about all members of a population,censuses|censusses|censi,Q15275719|Q1047113|Q2267705,Q3523102|Q29051383|Q1172284|Q4350743,Census
+V* V125 Cen,National Center for Scientific Research,Q280413,1,0,2,French research organisation,"Scientific Research National Center|Centre national de la recherche scientifique|French National Centre for Scientific Research|CNRS|National Center for Scientific Research, France",Q13582798|Q31855|Q45400320|Q43229,,French National Centre for Scientific Research
+V* V125 Cen,V125-class large torpedo boat,Q4295136,1,0,2,German ocean-going torpedo boat class,V125-class torpedo boat,Q559026,Q19821431|Q324233|Q11446,V125-class torpedo boat
+V* V125 Cen,V1253 Herculis,Q88411233,1,0,2,,1SWASP J171800.30+212809.4,Q1993624|Q6243|Q797219,,
+V* V125 Cen,V1256 Herculis,Q91044239,1,0,2,eclipsing binary star,,Q1457376,,
+V* V125 Cen,V1255 Herculis,Q80677105,1,0,2,variable star,,Q6243,,
+V* V125 Cen,V1252 Herculis,Q90313150,1,0,2,eclipsing binary star,,Q1457376,,
+V* V125 Cen,V1251 Herculis,Q87248569,1,0,2,variable star,,Q6243|Q523,,
+V* V125 Cen,V1259 Herculis,Q89727413,1,0,2,classical Cepheid variable star in the constellation Hercules,,Q10451997|Q188593,,
+V* V125 Cen,V1250 Herculis,Q76882613,1,0,2,star in the constellation Hercules,,Q523,,
+V* V125 Cen,V1254 Herculis,Q91820011,1,0,2,high proper-motion star in the constellation Hercules,,Q2247863,,
+V* V125 Cen,casting of image of Buddha delayed until a maniac's mite is thrown into the furnace,Q126877215,1,0,2,narrative motif documented in Thompson's Motif-Index of Folk-Literature,V125.,Q1697305|Q2995443,,
+V* V125 Cen,General Catalogue of Variable Stars,Q222662,1,0,2,astronomical catalogue of variable stars,GCVS|V* Catalogue,Q850950,,General Catalogue of Variable Stars
+V* V125 Cen,Delta Crucis,Q333243,1,0,2,star in the constellation Crux,Imai|del Cru|V* del Cru|HD 106490|GCRV 7332|HR 4656|HIC 59747|HIP 59747|δ Crucis|δ Cru|ROT 1792|NSV 5510,Q523|Q6243|Q353834|Q764463|Q67206691|Q67206785|Q71798788,,Delta Crucis
+V* V125 Cen,V624 Herculis,Q6770161,1,0,2,,HD 161321|V624 Her|V* V624 Her|HIP 86809|HIC 86809|HR 6611|Renson 45460|GCRV 10253,Q1993624|Q1457376|Q13890|Q67206785|Q71798788|Q523|Q1142192|Q451152|Q6243,,
+V* V125 Cen,Proxima Centauri,Q14266,1,0,2,star in Centaurus constellation,α Cen C|Alpha Centauri C|Proxima|α Centauri C|Proxima Cen|GJ 551|LHS 49|NLTT 37460|PLX 3278|LFT 1110|LPM 526|LTT 5721|TIC 388857263|TIC 1019422535|V645 Cen|V645 Centauri|HIC 70890|HIP 70890|CSV 2142,Q285400|Q5893|Q67206691|Q2154519|Q2247863|Q71798788|Q1362543|Q13890|Q67206785|Q2168098|Q6243|Q523|Q878367,,Proxima Centauri
+V* V125 Cen,V451 Herculis,Q6770252,1,0,2,star,HD 153882|V451 Her|V* V451 Her|HIP 83308|HIC 83308|HR 6326|Renson 43450|DS 10310 A|GC 22960|GCRV 9815,Q6243|Q1141942|Q13890|Q67206785|Q71798788|Q523|Q2168098|Q1142192|Q616386,,
+V* V125 Cen,Polaris,Q12980,1,0,2,brightest star in the constellation Ursa Minor,Alpha Ursae Minoris|α Ursae Minoris|North Star|North pole star|Pole star|Polestar|Stella Polaris|Pole-star|Northern Star|* alf UMi|α UMi|1 Ursae Minoris|1 UMi|** WRH 39|alf UMi|ROT 3491|SAO 138|V* alf UMi|HIC 11767|HIP 11767|HR 424|PPM 431,Q995268|Q2088753|Q10451997|Q662656|Q1547772|Q67206691|Q67206785|Q71798788|Q523|Q13890|Q1993624|Q6243,,Polaris
+V* V125 Cen,AB Doradus B,Q89986655,1,0,2,,V* AB Dor B|HBC 434|AB Dor B|** RST 137B|** CLO 10B|CLO 10B|RST 137B,Q13890|Q72803622|Q2247863|Q67206785|Q6243|Q523,,
+V* V125 Cen,V* V884 Ori,Q79282935,1,0,2,,V* V885 Ori,Q1352333|Q72803622|Q285400,,
+V* V125 Cen,CW Leonis,Q81641823,1,0,2,star in the constellation Leo,CW Leo|LEDA 1427054|CGCS 2619|Peanut Nebula|Zel 0945+135|TIC 258671744|RAFGL 1381|SCM 50|PN G221.4+45.0|LINEAR 17154286,Q523|Q130019|Q6243|Q1153690|Q744691|Q1931185|Q67201574|Q67206691|Q318|Q67206785|Q13632|Q353834,,CW Leonis
+V* V125 Cen,V771 Herculis,Q6770123,1,0,2,star in the constellation Hercules,V771 Her|HD 164429|V* V771 Her|HIP 88030|HIC 88030|GCRV 10432|ROT 2522|Renson 46480|NSV 9958,Q523|Q6243|Q1141942|Q67206785|Q71798788|Q2168098|Q1142192|Q616386,,
+V* MS Erk,,,2,0,0,,,,,
+KV Peg,Kappa Pegasi,Q1432375,3,0,2,star in the constellation Pegasus,10 Pegasi|10 Peg|ROT 3164|κ Peg|κ Pegasi|ADS 15281|HIP 107354|HIC 107354|HR 8315|HD 206901|GCRV 13667,Q523|Q878367|Q67206691|Q2154519|Q1993624|Q13890|Q67206785|Q71798788,,Kappa Pegasi
+KV Peg,"Kappa Pegasi, a quadruple system of possible low total mass",Q68204416,3,0,2,scientific article published in 1977,,Q13442814,,
+Cl* NGC 7789 EB 29,Cl* Collinder 261 SBR 2,Q81227462,4,0,2,star in the constellation Musca,Cl* Collinder 261 PJM 2105,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 2264 VAS 229,Q78953251,4,0,2,star in the constellation Monoceros,Cl* NGC 2264 SBL 516,Q523,,
+Cl* NGC 7789 EB 29,NGC 2647,Q1050115,4,0,2,galaxy,,Q318|Q184348|Q523|Q67206691,,
+Cl* NGC 7789 EB 29,Cl* Melotte 20 AP 232,Q89358533,4,0,2,,,Q13890,,
+Cl* NGC 7789 EB 29,Cl* Trumpler 14 VBF 317,Q80739643,4,0,2,A Star,,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 2194 PCA 2432,Q78783476,4,0,2,star in the constellation Orion,,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 7086 HOAG 2,Q77835558,4,0,2,star in the constellation Cygnus,,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 5272 GYB 1004,Q78392074,4,0,2,star in the constellation Canes Venatici,,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 7092 PLAT 3800,Q74213002,4,0,2,star,,Q523,,
+Cl* NGC 7789 EB 29,Cl* NGC 5904 SB 2-289,Q77836339,4,0,2,red giant branch star in the constellation Serpens,,Q66619666,,
+Cl* NGC 7789 EB 29,NGC 7789,Q944074,4,0,2,open cluster in Cassiopeia,,Q11387,,NGC 7789
+Cl* NGC 7789 EB 29,NGC 7789 958,Q89741436,4,0,2,,,Q6999,,
+Cl* NGC 7789 EB 29,NGC 7789 799,Q12063891,4,0,2,peculiar star in the constellation Cassiopeia,,Q1142192|Q67206691,,
+Cl* NGC 7789 EB 29,NGC 7789 758,Q93861841,4,0,2,star in the constellation Cassiopeia,,Q523,,
+Cl* NGC 7789 EB 29,NGC 7789 68,Q92243929,4,0,2,star in the constellation Cassiopeia,,Q523,,
+Cl* NGC 7789 EB 29,NGC 7789 732,Q92243487,4,0,2,star in the constellation Cassiopeia,,Q523,,
+Cl* NGC 7789 EB 29,NGC 7789 99,Q89881875,4,0,2,star in the constellation Cassiopeia,,Q523,,
+Cl* NGC 7789 EB 29,NGC 7789 555,Q92243766,4,0,2,star in the constellation Cassiopeia,,Q523,,
+Cl* NGC 7789 EB 29,NGC 7789 494,Q92244204,4,0,2,star in the constellation Cassiopeia,,Q523|Q67206691,,
+Cl* NGC 7789 EB 29,NGC 7789 765,Q90863181,4,0,2,red giant branch star in the constellation Cassiopeia,,Q66619666,,
+Cl* NGC 7789 EB 29,Binder EB29,Q863617,4,0,2,"single-seat German motor glider, 2009",EB29,Q11436,Q1930290,Binder EB29
+CRTS J021808.0+37053,CRTS J021808.0+370530,Q80467669,5,0,1,,,Q1392913,,
+CRTS 160620.7-062319,,,6,0,0,,,,,
+CRTS J002205.3.315334,CRTS J002205.3+315333,Q80459335,7,0,2,,,Q1392913,,
+V* V4091 Sgt,,,8,0,0,,,,,
+V* Y900 Per,Peru,Q419,9,0,2,sovereign state in South America,pe|Republic of Peru|Republica del Peru|per,Q3624078|Q6256,,Peru
+V* Y900 Per,Per,Q13582800,9,0,2,male given name,Per (given name)|Per (first name),Q12308941,,Per (given name)
+V* Y900 Per,Perseus,Q10511,9,0,2,constellation in the northern celestial hemisphere,Per|Persei,Q8928,,Perseus (constellation)
+V* Y900 Per,Per,Q37556804,9,0,2,family name,,Q101352,,
+V* Y900 Per,Perth,Q3183,9,0,2,"capital city of Western Australia, Australia","Perth, Western Australia|Perth, Australia|Perth, W.A.|Perth, AUS|Boorloo|Boorloo, Western Australia",Q515|Q1549591,,Perth
+V* Y900 Per,Christiaan Hendrik Persoon,Q346451,9,0,2,German mycologist (1761-1836),Pers.|C. H. Persoon|Christiaan H. Persoon,Q5,,Christiaan Hendrik Persoon
+V* Y900 Per,Perugia,Q3437,9,0,2,Italian comune,,Q747074|Q515|Q1549591|Q1200957,,Perugia
+V* Y900 Per,Perpignan,Q6730,9,0,2,"French commune in Pyrénées-Orientales, Occitania",Perpinyà|Perpinhan,Q484170|Q1549591,,Perpignan
+V* Y900 Per,Pernambuco,Q40942,9,0,2,state in the Northeast Region of Brazil,Pernambuco state|Pernambuco State,Q485258,,Pernambuco
+V* Y900 Per,Persian Wikipedia,Q48952,9,0,2,Persian-language edition of Wikipedia,Farsi Wikipedia,Q10876391,,Persian Wikipedia
+LV Hydrae,LV Hydrae,Q7201772,10,0,1,star,,Q523|Q6243|Q1141942|Q2247863|Q67206785|Q71798788,,
+V* V383 Sr,congenital heart disease,Q939364,11,0,2,cardiovascular disease,"CHD|congenital heart anomaly|Congenital Heart Defects|Congenital anomaly of heart|Heart Malformation|heart defect|congenital heart defect|Heart-congenital defect|HEART, MALFORMATION OF|congenital heart malformation|disorder of heart development|Congenital non-syndromic heart malformation|Heart Defects, Congenital",Q929833|Q112193867,Q190805|Q727096|Q54911848|Q55789068|Q200779|Q55785846|Q55788864,Congenital heart defect
+V* V383 Sr,vice,Q1411242,11,0,2,"practice, behavior or habit generally considered immoral, depraved, or degrading in the associated society",,,Q31172650|Q1299714,Vice
+V* V383 Sr,Vitium artis,Q12778588,11,0,2,,,,,
+V* V383 Sr,vitium organicum cordis,Q118221238,11,0,2,,,Q1931388,,
+V* V383 Sr,Vitium,Q65282105,11,0,2,Wikimedia disambiguation page,,Q4167410,,
+V* V383 Sr,vanadium,Q722,11,0,2,chemical element with symbol V and atomic number 23,V|element 23|23V,Q11344|Q1130479|Q11426,Q19588,Vanadium
+V* V383 Sr,Windows 10,Q18168774,11,0,2,personal computer operating system by Microsoft that was released in 2015,W10|W-10,Q9135|Q218616,Q486487,Windows 10
+V* V383 Sr,Vanadium,Q4008483,11,0,2,Italian heavy metal band,Diumvana,Q5741069,,Vanadium (band)
+V* V383 Sr,Vanadium,Q131729838,11,0,2,hardened variant of Chromium providing enhanced privacy and security developed by GrapheneOS,Vanadium browser|Vanadium app|GrapheneOS Vanadium browser|GOS Vanadium browser|GrapheneOS Vanadium app|GOS Vanadium app|Vanadium (software)|Vanadium (browser)|Vanadium (web browser),Q6368,,Vanadium (web browser)
+V* V383 Sr,vanadium(V) oxide,Q409173,11,0,2,Oxide of Vanadium,vanadium dust|divanadium pentoxide dust|vanadic anhydride dust|vanadium oxide dust|vanadium pentaoxide dust|vanadium pentoxide|divanadium pentaoxide,Q113145171,Q74809439|Q50690,Vanadium(V) oxide
+V* V383 Sr,vanadium(3+),Q27104738,11,0,2,cation,vanadium(III) ion|vanadium(III),Q113145171,Q71575991|Q75005033,
+V* V383 Sr,Vanadium (1993),Q26372786,11,0,2,publication,,Q591041,,
+V* V383 Sr,vanadium(III) oxide,Q425350,11,0,2,chemical compound,vanadium trioxide,Q113145171,Q11173,Vanadium(III) oxide
+V* V383 Sr,vanadium(IV) oxide,Q421440,11,0,2,chemical compound,VO2|[VO2]|vanadium dioxide,Q113145171,Q11173,Vanadium(IV) oxide
+V* V383 Sr,Vanadium,Q26366835,11,0,2,publication (IH) published in 1983,,Q591041,,
+V* V383 Sr,strontium,Q938,11,0,2,chemical element with symbol Sr and atomic number 38,Sr|element 38|38Sr,Q11344|Q1130479,,Strontium
+V* V383 Sr,Fancy Bear,Q20757678,11,0,2,cyber espionage group,APT28|Pawn Storm|Sednit|STRONTIUM|Tsar Team|Threat Group-4127|APT 28|Sofacy Group|Sofacy|Operation Pawn Storm|Forest Blizzard,Q2801262,Q4686357,Fancy Bear
+V* V383 Sr,Strontium,Q140129939,11,0,2,Russian band,,Q215380,,
+V* V383 Sr,Strontium Dog,Q3246907,11,0,2,comic series appearing in 2000AD,,Q14406742,,Strontium Dog
+V* V383 Sr,Strontium,Q84688515,11,0,2,1911 Encyclopædia Britannica article,,Q13433827,,
+V* V383 Sr,Strontium,Q26372282,11,0,2,publication (OP) published in 1990,,Q591041,,
+V* V383 Sr,Strontium Dog and the Death Gauntlet,Q87555130,11,0,2,1984 video game,Strontium Dog,Q7889,,
+V* V383 Sr,Strontium Dog: The Killing,Q87555833,11,0,2,1984 video game,,Q7889,,Strontium Dog: The Killing
+V* V383 Sr,isotope of strontium,Q1325627,11,0,2,,strontium isotopes,,Q25276,Isotopes of strontium
+V* V383 Sr,strontium radioisotopes,Q67471076,11,0,2,unstable isotopes of strontium that decay or disintegrate spontaneously emitting radiation,Strontium Radioisotope,,Q1325627|Q192900,
+OGLE BL654.14 66787,66787,Q135574925,12,0,2,natural number,,Q16317911|Q50707|Q13366129|Q467511,,
+SSBoötis,SS Boötis,Q80611656,13,0,2,,,Q1392913|Q1993624|Q2247863,,
+SSBoötis,SS Bootis: a totally eclipsing binary of the RS CVn type,Q68658005,13,0,2,scientific article published in January 1983,,Q13442814,,
+CRTS J231858.4+393828,,,14,0,0,,,,,
+OGLE BLG504.2 106420,106420,Q135628817,15,0,2,natural number,,Q16317911|Q50707|Q13366104|Q223722,,
+CRTS J2246498+273925,,,16,0,0,,,,,
+HZAquarii,HZ Aquarii,Q86704929,17,0,2,,,Q1392913|Q2247863|Q1993624|Q797219|Q523|Q13890|Q67206785|Q71798788|Q6243|Q2154519,,
+CTTS J013342.5+261820,,,18,0,0,,,,,
+CRTS J012826.6+37442,,,19,0,0,,,,,
+* V5741 Ugr,V* V5741 Sgr,Q83614399,20,0,2,,,Q1392913,,
+* V5741 Ugr,University of Granada,Q1232180,20,0,2,Spanish university,UGR|Universidad de Granada,Q875538|Q45400320|Q43229|Q2668072|Q33506,,University of Granada
+* V5741 Ugr,University of Greifswald,Q165528,20,0,2,university in Germany,Ernst-Moritz-Arndt-Universität|Ernst-Moritz-Arndt-Universität Greifswald|UGreifswald,Q875538|Q1767829,,University of Greifswald
+* V5741 Ugr,Ugrin,Q12805000,20,0,2,family name,,Q101352,,Ugrin
+* V5741 Ugr,Ugreen,Q57378140,20,0,2,Chinese electronics company,UGREEN,Q4830453|Q42855995|Q783794|Q431289,,Ugreen
+* V5741 Ugr,Ugron,Q1399480,20,0,2,male given name,,Q12308941,,
+* V5741 Ugr,Ugrini,Q2695364,20,0,2,"settlement in the Town of Buzet, Istria County, Croatia",Kodolje,Q4845841|Q56061,,Kodolje
+* V5741 Ugr,Ugress i ditt bed,Q91611333,20,0,2,vocal track by Jan Eggum; 1976 studio recording,,Q55850593,,
+* V5741 Ugr,Ugruțiu,Q738363,20,0,2,"village in Sălaj County, Romania",,Q532,,
+* V5741 Ugr,Ugron,Q114589050,20,0,2,family name,,Q101352,,
+* V5741 Ugr,Uğrak,Q6543961,20,0,2,"village in İdil, Şırnak, southeastern Turkey",,Q1529096,,"Uğrak, İdil"
+13 Cet,13 Ceti,Q3597404,21,0,1,triple star system in the constellation Cetus,Gliese 23|BU Ceti|HD 3196,Q2088753|Q1993624|Q6243|Q1392913|Q67206691|Q2154519|Q2247863|Q13890|Q67206785|Q71798788,,13 Ceti
+13 Cet,Kappa Canis Majoris,Q972119,21,0,2,variable star in the constellation Canis Major,13 Canis Majoris|HD 50013|13 CMa|κ Canis Majoris|κ CMa|GCRV 4452|ROT 6464|kap CMa|ALS 14870|PPM 283177|SAO 197258|Hen 3-18|HR 2538|HIP 32759|HIC 32759|GC 8946|SRS 31180,Q812800|Q6243|Q67206691|Q72803622|Q67206785|Q71798788|Q2288255|Q523|Q1362543|Q767432,,Kappa Canis Majoris
+CRTS J025725.5+33221,CRTS J025725.5+332216,Q80462396,22,0,1,,,Q1392913,,

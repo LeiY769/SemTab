@@ -1,0 +1,307 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Health Sciences Library,medical library,Q6150991,0,0,1,library that focuses on medical or health information,health library|health sciences library|medical college library|medical school library,Q25397890,Q2586205,Medical library
+Health Sciences Library,Health Sciences Library,Q24571874,0,0,1,library at the University of Leeds,HSL,Q856234,,
+Health Sciences Library,Health Sciences Library,Q16892192,0,0,1,"library at The Ohio State University in Columbus, Ohio",,Q856234|Q6150991,,Health Sciences Library (Ohio State University)
+Health Sciences Library,Health Sciences Library,Q85687616,0,0,1,branch of Memorial University Libraries,,Q856234,,
+Health Sciences Library,Health Sciences Library,Q59263880,0,0,1,Health Sciences Library belongs to the libraries network of Louvain Catholic University.,UCL - BSS: Bibliothèque des sciences de la Santé,Q856234,,
+Health Sciences Library,VCU Health Sciences Library,Q133833563,0,0,1,medical library at Virginia Commonwealth University,Health Sciences Library|Tompkins-McCaw Library|Tompkins McCaw Library,Q6150991|Q856234,,
+Health Sciences Library,Health Sciences Library,Q97653889,0,0,1,health and medical library for the University of North Carolina at Chapel Hill,HSL,Q6150991,,
+Health Sciences Library,"Health Sciences Library, Tokyo Metoropolitan University",Q111735554,0,0,1,,,Q856234,,
+Health Sciences Library,Health Sciences Library Reading Area,Q121334254,0,0,1,shelving location within the University of Washington Libraries,hsrar,Q121141099,,
+Health Sciences Library,Health Sciences Library Reference,Q121334285,0,0,1,shelving location within the University of Washington Libraries,hsrfb,Q121141099,,
+Health Sciences Library,Health sciences libraries in hospitals,Q36541142,0,0,2,"scientific article published on April 1, 1972",,Q13442814,,
+Health Sciences Library,"Health sciences libraries building survey, 1999-2009.",Q33567724,0,0,2,scientific article,"Health sciences libraries building survey, 1999-2009",Q13442814,,
+Health Sciences Library,Health sciences libraries: strategies in an era of changing economics.,Q36484344,0,0,2,scientific article published on 01 January 1987,,Q13442814,,
+Health Sciences Library,"Health sciences libraries of professional societies, voluntary health organizations, and foundations",Q36541153,0,0,2,scientific article published on April 1972,,Q13442814,,
+Health Sciences Library,Health sciences libraries in the 1960s: an overview,Q36541163,0,0,2,"scientific article published on April 1, 1972",,Q13442814,,
+Health Sciences Library,"Health Sciences Libraries in the United States, 1969 to 1979",Q70768855,0,0,2,scientific article published on 01 June 1981,,Q13442814,,
+Health Sciences Library,Health Sciences Libraries Advancing Collaborative Clinical Research Data Management in Universities,Q91349348,0,0,2,scientific article published on 20 June 2018,,Q13442814,,
+Health Sciences Library,"Health sciences libraries in Kuwait: a study of their resources, facilities, and services.",Q30690994,0,0,2,scientific article,,Q13442814,,
+Health Sciences Library,"Health sciences libraries of federal, state, county, and municipal governments, and regional libraries of the National Library of Medicine",Q36519070,0,0,2,"scientific article published on April 1, 1972",,Q13442814,,
+Health Sciences Library,Health sciences libraries' subscriptions to journals: expectations of general practice departments and collection-based analysis.,Q52597704,0,0,2,scientific article published in April 2018,,Q13442814,,
+Carl S. Swisher Library,Carl S. Swisher Library,Q35186769,1,0,1,"library in Daytona Beach, Florida, United States",,Q856234,,
+Carl S. Swisher Library,Carl S. Swisher Library,Q35188835,1,0,1,"library in Jacksonville, Florida, United States",,Q856234,,
+Carl S. Swisher Library,Carl S. Swisher Library,Q35186769,2,0,1,"library in Daytona Beach, Florida, United States",,Q856234,,
+Carl S. Swisher Library,Carl S. Swisher Library,Q35188835,2,0,1,"library in Jacksonville, Florida, United States",,Q856234,,
+Andrew Carnegie Library,Andrew Carnegie Library,Q85741625,3,0,1,"Carnegie library in Corona, California",Old Corona Public Library,Q1043939,,"Andrew Carnegie Library (Corona, California)"
+Andrew Carnegie Library,Andrew Carnegie Library,Q4756545,3,0,1,"library in Edmonds, Washington, United States",,Q7075|Q1043939,,"Andrew Carnegie Library (Edmonds, Washington)"
+Andrew Carnegie Library,Andrew Carnegie Library,Q101426478,3,0,1,"academic library, Livingstone College",,Q856234,,
+Andrew Carnegie Library,Andrew Carnegie Library,Q107068782,3,0,1,"public library in North Perth, Ontario, Canada",,Q28564|Q1043939,,
+Andrew Carnegie Library,Andrew Carnegie Library,Q15783373,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Andrew Carnegie Library,Carnegie library,Q1043939,3,0,2,"library built with money donated by Scottish-American businessman and philanthropist Andrew Carnegie: 2,509 Carnegie libraries were built between 1883 and 1929",Carnegie Public Library,Q25397890,Q28564|Q856584,Carnegie library
+Andrew Carnegie Library,Carnegie Library,Q126897871,3,0,2,"former Carnegie Library at Converse College, Spartanburg, South Carolina",Carnegie Building,Q1043939,,
+Andrew Carnegie Library,Carnegie Library of Pittsburgh,Q5043945,3,0,2,"public library system in Pittsburgh, Pennsylvania",CLP|The Carnegie|Carnegie Library,Q1043939|Q26271642|Q28564,,Carnegie Library of Pittsburgh
+Andrew Carnegie Library,Carnegie Library,Q108871419,3,0,2,"Historic building in Anderson, South Carolina",Anderson County Arts Center,Q1043939,,
+Andrew Carnegie Library,Tacoma Public Library Main Branch,Q69764676,3,0,2,"main branch of public library system in Tacoma, Washington, USA","Main Branch, Tacoma Public Library|Tacoma Public Library Main Library|Main Library, Tacoma Public Library|Carnegie Library|Carnegie Building",Q12317349|Q28564,,
+Andrew Carnegie Library,Johnstown Flood Museum,Q5025267,3,0,2,"Historic building in Johnstown, Pennsylvania",Cambria Public Library|Carnegie Library,Q7075|Q33506,,Johnstown Flood Museum
+Andrew Carnegie Library,Niagara Falls Public Library,Q7023679,3,0,2,"Carnegie library in Niagara Falls, New York, United States",Carnegie Library,Q1043939,,"Carnegie Library (Niagara Falls, New York)"
+Andrew Carnegie Library,Carnegie Library,Q5043933,3,0,2,"historic building in Parkersburg, West Virginia, United States",Parkersburg Carnegie Library,Q7075|Q1043939,,"Carnegie Library (Parkersburg, West Virginia)"
+Andrew Carnegie Library,Carnegie Library,Q5043931,3,0,2,"historic building in Newton, Kansas, United States",Harvey County Historical Society,Q1043939,,"Carnegie Library (Newton, Kansas)"
+Andrew Carnegie Library,Carnegie Library,Q114447854,3,0,2,"Carnegie library in Thorold, Ontario, Canada",,Q1043939,,
+Andrew Carnegie Library,Carnegie Public Library,Q5043970,3,0,2,"public library in Huntington, Cabell County, West Virginia",Cabell County Public Library,Q7075|Q12317349|Q28564|Q1043939,,"Carnegie Public Library (Huntington, West Virginia)"
+Andrew Carnegie Library,Carnegie Public Library,Q1043969,3,0,2,"historic place in Tyler, Smith County, Texas",Carnegie Library and History Center,Q1043939|Q856584,,"Carnegie Public Library (Tyler, Texas)"
+Andrew Carnegie Library,Woodbine Public Library,Q28125002,3,0,2,"public library in Woodbine, Iowa, USA",Carnegie Public Library|Woodbine Carnegie Public Library,Q1043939|Q28564|Q12317349,,Woodbine Public Library
+Andrew Carnegie Library,Carnegie Public Library,Q69481502,3,0,2,"public library system in Mississippi, USA",,Q26271642,,
+Andrew Carnegie Library,Carnegie Public Library,Q5043967,3,0,2,"public library in Escanaba, Michigan",,Q28564|Q1043939,,"Carnegie Public Library (Escanaba, Michigan)"
+Andrew Carnegie Library,Carnegie Public Library,Q5043968,3,0,2,"public library in East Liverpool, Ohio, USA",,Q28564|Q1043939,,"Carnegie Public Library (East Liverpool, Ohio)"
+Andrew Carnegie Library,Carnegie Public Library,Q5043969,3,0,2,"National Registered Historic Place located in Havre, Montana",,Q28564|Q1043939,,"Carnegie Public Library (Havre, Montana)"
+Andrew Carnegie Library,Pontefract Museum building,Q99741692,3,0,2,"museum building, formerly library, in Pontefract, West Yorkshire, England, UK",Pontefract Museum|Carnegie Public Library,Q856584|Q24699794,,
+Andrew Carnegie Library,Carnegie Public Library,Q69481313,3,0,2,"public library system in Missouri, USA",,Q26271642,,
+"Library of Research Institute for Economics and Business Administration, Kobe University","Library of Research Institute for Economics and Business Administration, Kobe University",Q111735445,4,0,1,,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University","Library of Research Institute for Economics and Business Administration, Kobe University",Q111735444,4,0,1,,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University",Kobe University Library,Q109380408,4,0,2,Japanese library,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University",Kobe University Library Digital Archive,Q133567413,4,0,2,,,Q1224984,,
+"Library of Research Institute for Economics and Business Administration, Kobe University","Library of Research Institute for Economics and Business Administration, Kobe University",Q111735445,5,0,1,,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University","Library of Research Institute for Economics and Business Administration, Kobe University",Q111735444,5,0,1,,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University",Kobe University Library,Q109380408,5,0,2,Japanese library,,Q856234,,
+"Library of Research Institute for Economics and Business Administration, Kobe University",Kobe University Library Digital Archive,Q133567413,5,0,2,,,Q1224984,,
+Olin Library,Olin Library,Q35189754,6,0,1,"library in Winter Park, Florida, United States",,Q856234,,
+Olin Library,Olin Library (Cornell),Q107183436,6,0,1,"library building at Cornell University, Ithaca, New York, U.S.A.",John M. Olin Library,Q856584|Q7075,,
+Olin Library,Olin Library at Cornell University,Q132452089,6,0,1,"academic Building; Research Library in New York, U.S",,Q41176,,Olin Library at Cornell University
+Olin Library,Olin Library,Q7086915,6,0,1,Wikimedia disambiguation page,,Q4167410,,Olin Library
+Olin Library,Cornell University Library,Q5171572,6,0,2,"academic library of Cornell University, New York",Cornell University Libraries,Q856234|Q2085381|Q26271642,,Cornell University Library
+Olin Library,Cornell University Library's Seven-Millionth Volume: Gardner's Photographic Sketch Book of the War,Q124046934,6,0,2,"online exhibition from Cornell University and Carl A. Kroch Library, Cornell University Library",,Q3062261,,
+Olin Library,Cornell University Library’s Alumni Services and Its Enlightenment,Q118997812,6,0,2,,,Q13442814,,
+University of Manitoba Libraries,University of Manitoba Libraries,Q58007600,7,0,1,"Academic library system of the university of Manitoba, Winnipeg",UML,Q856234|Q26271642,,
+University of Manitoba Libraries,University of Manitoba Libraries,Q85812289,7,0,1,academic library system,,,,University of Manitoba Libraries
+University of Manitoba Libraries,University of Manitoba,Q1191833,7,0,2,"public research university in Winnipeg, Manitoba, Canada",umanitoba.ca,Q108402786|Q62078547|Q708676,,University of Manitoba
+University of Manitoba Libraries,Asper School of Business,Q4807871,7,0,2,business faculty at the University of Manitoba,Asper School|University of Manitoba|UM Faculty of Management,Q1143635,,Asper School of Business
+University of Manitoba Libraries,Faculty of Medicine – University of Manitoba,Q5429033,7,0,2,,University of Manitoba Max Rady College of Medicine|University of Manitoba's Rady Faculty of Health Sciences|Manitoba Medical College,Q494230,,University of Manitoba College of Medicine
+University of Manitoba Libraries,University of Manitoba Archives & Special Collections,Q7895667,7,0,2,"university archive in Winnipeg, Manitoba, Canada",,Q4431094|Q166118,,University of Manitoba Archives & Special Collections
+University of Manitoba Libraries,The University of Manitoba medical journal,Q27721547,7,0,2,journal,Univ Manit Med J|University of Manitoba medical journal,Q5633421,,
+University of Manitoba Libraries,University of Manitoba Faculty of Graduate Studies,Q101009877,7,0,2,faculty,,Q180958,,
+University of Manitoba Libraries,University of Manitoba Press,Q7895669,7,0,2,academic publishing house,,Q479716,,University of Manitoba Press
+University of Manitoba Libraries,University of Manitoba College of Medicine Archives,Q96146469,7,0,2,The College of Medicine Archives at the University of Manitoba,,Q9388534,,
+University of Manitoba Libraries,University of Manitoba Faculty of Health Sciences,Q99298618,7,0,2,medical school,,Q494230|Q70013597,,
+Hunt Library,Henry A. Hunt Memorial Library,Q87488679,8,0,1,"academic library in Fort Valley, Georgia, USA",Fort Valley State College Henry A. Hunt Memorial Library|Fort Valley State University Henry A. Hunt Memorial Library|Hunt Memorial Library|Hunt Library|Fort Valley State University Library|Henry Alexander Hunt Memorial Library,Q856234,,
+Hunt Library,James B. Hunt Jr. Library,Q6129120,8,0,1,library at North Carolina State University,Hunt Library|James Hunt Library|James B. Hunt Library,Q856234,,James B. Hunt Jr. Library
+Hunt Library,Hunt Library,Q63198578,8,0,1,library at Carnegie Mellon University,,Q856234|Q2085381,,
+Hunt Library,Hunt Library,Q35187950,8,0,1,"library in Daytona Beach, Florida, United States",,Q856234,,
+Hunt Library,Hunt Library and Archives,Q112062708,8,0,1,"library and archive of the Woman's Missionary Union in Birmingham, Alabama",,Q7075|Q166118,,
+Hunt Library,Hunt Library,Q16785114,8,0,1,Wikimedia disambiguation page,,Q4167410,,Hunt Library
+Hunt Library,Henry A. Hunt Memorial Library,Q87488679,9,0,1,"academic library in Fort Valley, Georgia, USA",Fort Valley State College Henry A. Hunt Memorial Library|Fort Valley State University Henry A. Hunt Memorial Library|Hunt Memorial Library|Hunt Library|Fort Valley State University Library|Henry Alexander Hunt Memorial Library,Q856234,,
+Hunt Library,James B. Hunt Jr. Library,Q6129120,9,0,1,library at North Carolina State University,Hunt Library|James Hunt Library|James B. Hunt Library,Q856234,,James B. Hunt Jr. Library
+Hunt Library,Hunt Library,Q63198578,9,0,1,library at Carnegie Mellon University,,Q856234|Q2085381,,
+Hunt Library,Hunt Library,Q35187950,9,0,1,"library in Daytona Beach, Florida, United States",,Q856234,,
+Hunt Library,Hunt Library and Archives,Q112062708,9,0,1,"library and archive of the Woman's Missionary Union in Birmingham, Alabama",,Q7075|Q166118,,
+Hunt Library,Hunt Library,Q16785114,9,0,1,Wikimedia disambiguation page,,Q4167410,,Hunt Library
+Aalborg University Library,Aalborg University Library,Q12300292,10,0,1,organization,,Q1438040|Q31855|Q856234,,
+Aalborg University Library,Aalborg University,Q601956,10,0,2,public university in Denmark,AAU|University of Aalborg,Q3918|Q45400320|Q43229,,Aalborg University
+Aalborg University Library,Aalborg Hospital,Q2757508,10,0,2,"hospital in North Denmark Region, Denmark",Aalborg Universitetshospital|Aalborg University Hospital,Q16917|Q1059324,,Aalborg University Hospital
+Aalborg University Library,Faculty of Medicine,Q12308401,10,0,2,faculty at Aalborg University,"Aalborg University Faculty of Medicine|Faculty of Medicine, Aalborg University",Q180958,,
+Aalborg University Library,Aalborg University Copenhagen,Q12300291,10,0,2,University campus in Denmark,,Q3918,,Aalborg University Copenhagen
+Aalborg University Library,Aalborg University Press,Q51123953,10,0,2,academic publisher in Denmark,Aalborg universitetsforlag,Q479716|Q45400320|Q2085381|Q2608849,,Aalborg University Press
+Aalborg University Library,Aalborg University Department of Computer Science,Q12318431,10,0,2,,Department of Computer Science at Aalborg University|AAU Department of Computer Science,Q2467461,,
+Aalborg University Library,Esbjerg Tekniske Institut,Q12300290,10,0,2,department of Aalborg University located in Esbjerg,Aalborg University – Esbjerg|AUE|AAUE|AAU-Esbjerg,Q1664720,,Aalborg University – Esbjerg
+Aalborg University Library,Department of Law,Q12320599,10,0,2,academic department at Aalborg University,Aalborg University Department of Law|AAU Department of Law,Q2467461,,
+Aalborg University Library,Department of Chemistry and Bioscience,Q12318447,10,0,2,at Aalborg University,Aalborg University Department of Chemistry and Bioscience,Q2467461,,
+Carnegie Library,Carnegie library,Q1043939,11,0,1,"library built with money donated by Scottish-American businessman and philanthropist Andrew Carnegie: 2,509 Carnegie libraries were built between 1883 and 1929",Carnegie Public Library,Q25397890,Q28564|Q856584,Carnegie library
+Carnegie Library,Carnegie Library,Q126897871,11,0,1,"former Carnegie Library at Converse College, Spartanburg, South Carolina",Carnegie Building,Q1043939,,
+Carnegie Library,Carnegie Library of Pittsburgh,Q5043945,11,0,1,"public library system in Pittsburgh, Pennsylvania",CLP|The Carnegie|Carnegie Library,Q1043939|Q26271642|Q28564,,Carnegie Library of Pittsburgh
+Carnegie Library,Carnegie Library,Q108871419,11,0,1,"Historic building in Anderson, South Carolina",Anderson County Arts Center,Q1043939,,
+Carnegie Library,Tacoma Public Library Main Branch,Q69764676,11,0,1,"main branch of public library system in Tacoma, Washington, USA","Main Branch, Tacoma Public Library|Tacoma Public Library Main Library|Main Library, Tacoma Public Library|Carnegie Library|Carnegie Building",Q12317349|Q28564,,
+Carnegie Library,Johnstown Flood Museum,Q5025267,11,0,1,"Historic building in Johnstown, Pennsylvania",Cambria Public Library|Carnegie Library,Q7075|Q33506,,Johnstown Flood Museum
+Carnegie Library,Niagara Falls Public Library,Q7023679,11,0,1,"Carnegie library in Niagara Falls, New York, United States",Carnegie Library,Q1043939,,"Carnegie Library (Niagara Falls, New York)"
+Carnegie Library,Carnegie Library,Q5043933,11,0,1,"historic building in Parkersburg, West Virginia, United States",Parkersburg Carnegie Library,Q7075|Q1043939,,"Carnegie Library (Parkersburg, West Virginia)"
+Carnegie Library,Carnegie Library,Q5043931,11,0,1,"historic building in Newton, Kansas, United States",Harvey County Historical Society,Q1043939,,"Carnegie Library (Newton, Kansas)"
+Carnegie Library,Carnegie Library,Q114447854,11,0,1,"Carnegie library in Thorold, Ontario, Canada",,Q1043939,,
+Carnegie Library,UGA Carnegie Library,Q5043938,11,0,2,"historic building and academic library in Athens, Georgia, United States",Carnegie Library Learning Center|University of Georgia Carnegie Library|Carnegie Library Building|Georgia State Normal School Carnegie Library,Q1043939|Q856234,,"Carnegie Library Building (Athens, Georgia)"
+Carnegie Library,Cleburne Carnegie Library,Q63056298,11,0,2,"Carnegie library in Cleburne, Johnson County, Texas, United States",Layland Museum of History|Carnegie Library Building,Q1043939|Q24699794|Q24354,,
+Carnegie Library,Colusa Carnegie Library,Q14681775,11,0,2,"historic building in Colusa, California, United States",Carnegie Library Building,Q1043939|Q861951,,Colusa Carnegie Library
+Carnegie Library,Carnegie Library Building,Q5043937,11,0,2,"building, former library, now used as Carroll County Historical Museum",,Q856584|Q1043939,,"Carnegie Library Building (Carroll, Iowa)"
+Carnegie Library,Carnegie Public Library,Q110001538,11,0,2,"building in Belton, Bell County, Texas",Carnegie Library Building,Q856584|Q1043939,,
+Carnegie Library,Carnegie Library Building,Q110022674,11,0,2,"historic place in Ballinger, Runnels County, Texas",,Q41176,,
+Carnegie Library,Carnegie Library Building,Q110024311,11,0,2,"historic place in Terrell, Kaufman County, Texas",,Q41176,,
+Carnegie Library,Carnegie Library Building,Q15791173,11,0,2,Wikimedia disambiguation page,,Q4167410,,
+Carnegie Library,South Side Branch of the Carnegie Library of Pittsburgh,Q7568469,11,0,2,"public library in Pittsburgh, Pennsylvania, United States",South Side Library|South Side Branch Carnegie Free Library of Pittsburgh|Carnegie Library of Pittsburgh - South Side|CLP - South Side|South Side Branch Library|Carnegie Library of Pittsburgh – South Side,Q11396180|Q1043939,,Carnegie Library of Pittsburgh – South Side
+Carnegie Library,Lawrenceville Branch of the Carnegie Library of Pittsburgh,Q6504820,11,0,2,"public library in Pittsburgh, Pennsylvania, United States",Lawrenceville Library|CLP – Lawrenceville|Lawrenceville Branch Library|Carnegie Library of Pittsburgh - Lawrenceville|Lawrenceville Branch Carnegie Free Library of Pittsburgh,Q11396180|Q1043939,,Lawrenceville Branch of the Carnegie Library of Pittsburgh
+Carnegie Library,Mount Washington Library,Q6924505,11,0,2,"public library in Pittsburgh, Pennsylvania, United States",Mount Washington Branch of the Carnegie Library of Pittsburgh|CLP – Mt. Washington|Mt. Washington Library|Mt Washington Library|CLP Mount Washington|Carnegie Library of Pittsburgh Mount Washington Library,Q1043939|Q11396180,,Mount Washington Branch of the Carnegie Library of Pittsburgh
+Newport Library,Newport Library,Q55184227,12,0,1,"public library in Telford and Wrekin, UK",,Q28564,,
+Newport Library,Newport Library,Q50231385,12,0,1,academic library in Wales,Llyfrgell Casnewydd,Q856234,,
+Newport Library,Newport Library,Q62783262,12,0,1,"public library in Fife, Scotland, UK",,Q28564,,
+Newport Library,Newport Library,Q7018906,12,0,1,Wikimedia disambiguation page,,Q4167410,,Newport Library
+Newport Library,Newport Public Library,Q69478974,12,0,2,"public library system in Maine, USA",,Q26271642,,
+Newport Library,Newport Public Library,Q14709451,12,0,2,"Newport, Rhode Island, United States",,Q28564,,Newport Public Library
+Newport Library,Newport Public Library,Q69489922,12,0,2,"public library system in Pennsylvania, USA",,Q26271642,,
+Newport Library,Newport Public Library,Q69488473,12,0,2,"public library system in Oregon, USA",,Q26271642,,
+Newport Library,Newport Public Library,Q69490254,12,0,2,"public library system in Rhode Island, USA",,Q26271642,,
+Hospital Real,Hospital Real,Q5902841,13,0,1,"Old hospital from the 16th century, now belonging to the University of Granada",Royal Hospital,Q16917|Q294422|Q16917|Q16917,,
+Hospital Real,Hospital Real,Q97603136,13,0,1,"hospital in Guadix, Spain",,Q16917,,
+Hospital Real,Hospital Real,Q97619663,13,0,1,"building in Cádiz, Spain",,Q294422|Q16917,,
+Hospital Real,Hospital Real,Q30939573,13,0,1,Spanish television series,,Q5398426,,
+Hospital Real,Hospital Provincial de Nuestra Señora de Gracia,Q5902819,13,0,1,hospital in Spain,Hospital de Nuestra Señora de Gracia|Hospital Real y General de Nuestra Señora de Gracia,Q16917,,
+Hospital Real,Hospital de Santo António,Q1630437,13,0,1,"public hospital in Porto, Portugal",Hospital Geral de Santo Antonio|Hospital Real de Santo António|Hospital Geral de Santo António,Q16917|Q7257872,,
+Hospital Real,Real Hospital de Mineros de San Rafael,Q43131035,13,0,1,"cultural property in Almadén, Spain",San Rafael Royal Hospital for Miners|Hospital Real de San Rafael,Q4989906|Q16917,,
+Hospital Real,Hospital Real de Todos os Santos,Q662515,13,0,1,"building in Lisbon, Lisbon District, Portugal",,Q16917|Q64578911|Q180370,,Hospital Real de Todos-os-Santos
+Hospital Real,Hospital Real de la Misericordia,Q97633184,13,0,1,"cultural centre and former hospital in Marbella, Spain",Hospital de San Juan de Dios,Q16917,,
+Hospital Real,Hospital Real e Igreja de São João de Deus,Q10300767,13,0,1,"church in Chaves, Portugal",,Q16970|Q210272|Q64578911,,
+Hospital Real,Centro de Apoio Social de Runa,Q5062894,13,0,2,"building in Torres Vedras, Lisbon District, Portugal",,Q64578911|Q210272,,Centro de Apoio Social de Runa
+Hospital Real,Royal Portuguese Charity Hospital,Q10357822,13,0,2,"hospital in Recife, Brazil",,Q16917,,
+Hospital Real,Navy Military Hospital of Cartagena,Q5903042,13,0,2,"former military hospital in Cartagena, Spain",,Q116693136|Q180958,,
+Hospital Real,Royal Naval Hospital Gibraltar,Q3635337,13,0,2,former hospital,,Q106900075|Q64578911,,Royal Naval Hospital Gibraltar
+Hospital Real,Real Hospital de San Antonio Abad,Q106774310,13,0,2,,,Q1517445|Q27686|Q2094954,,
+Hospital Real,Royal Hospital of Saint James of Montouto,Q6102182,13,0,2,former pilgrims hostal in Galicia,,Q64578911,,
+Surugadai University Media Center,Surugadai University Media Center,Q111735811,14,0,1,,,Q856234,,
+Surugadai University Media Center,Surugadai University,Q7646989,14,0,2,"university in Hannō, Saitama, Japan",,Q3918,,Surugadai University
+Surugadai University Media Center,Surugadai University Repository for Academic Resources,Q111646559,14,0,2,,,Q1065413|Q7096323,,
+Surugadai University Media Center,Surugadai University Rugby Club,Q22119126,14,0,2,,,Q14645593,,
+Surugadai University Media Center,school library,Q1076099,14,0,2,library within a school,media center|school libraries,Q25397890,Q7075,School library
+Surugadai University Media Center,home theater PC,Q185185,14,0,2,computer used for media playback within a home theater environment,HTPC|media center|Home Theater Personal Computer|media center PC|media center computer,Q1567371|Q23930024,Q16338,Home theater PC
+Surugadai University Media Center,Media center application,Q137299203,14,0,2,Multimedia software designed for large screens,Media center,,Q7397,Media center application
+Surugadai University Media Center,media center,Q1284615,14,0,2,,,Q1221119,Q1435342|Q166118,
+Surugadai University Media Center,Media Center,Q10357289,14,0,2,"comprehensive facility in Beijing that houses hotels, news centers, and TV show productions",,Q27686|Q1021645,,
+Surugadai University Media Center,media center,Q1194334,14,0,2,computer equipped to play audio and video media,,Q166142,,
+Surugadai University Media Center,Tétény Irodaház,Q1175298,14,0,2,,Media Center Campona|Média Center Campona|MCC,Q1021645|Q511355,,
+Surugadai University Media Center,Uganda media center,Q140191211,14,0,2,Government entity in Uganda,Media center,Q327333,,
+Surugadai University Media Center,multimedia resource center,Q119796051,14,0,2,facility that offers a variety of audiovisual resources,multimedia resource centre|audiovisual centre|media centre|multimedia centre|multimedia library|audiovisual center|media center|multimedia center,,Q99598186,
+Surugadai University Media Center,media center Valais Sion,Q961468,14,0,2,"multimedia library in Sion in the canton of Valais, Switzerland",,Q671735|Q678405|Q1497649|Q28564,,
+Nagoya Institute of Technology Library,Nagoya Institute of Technology Library,Q105010186,15,0,1,,,Q856234,,
+"The Graduate University for Advanced Studies, Library","The Graduate University for Advanced Studies, Library",Q111735328,16,0,1,,,Q856234,,
+"The Graduate University for Advanced Studies, Library",Graduate University for Advanced Studies,Q2983844,16,0,2,"Higher education institution in Kanagawa Prefecture, Japan",Sōgō Kenkyū Daigakuin Daigaku|The Graduate University for Advanced Studies|Sōkendai|SOKENDAI,Q3918|Q265662|Q3698852,,The Graduate University for Advanced Studies
+British Library of Political and Economic Science,British Library of Political and Economic Science,Q2371017,17,0,1,main library of the London School of Economics and Political Science,LSE Library|BLPES|Lionel Robbins building,Q856234|Q1438040|Q7075,,British Library of Political and Economic Science
+British Library of Political and Economic Science,British Library of Political and Economic Science,Q60081084,17,0,1,,,Q13442814,,
+British Library of Political and Economic Science,British Library of Political and Economic Science,Q71899280,17,0,1,journal article; published in Nature on 1962-1,,Q13442814,,
+British Library of Political and Economic Science,British Library of Political and Economic Science,Q58957040,17,0,1,,,Q13442814,,
+British Library of Political and Economic Science,British Library of Political and Economic Science,Q59075889,17,0,1,scientific article published in Nature,,Q13442814,,
+British Library of Political and Economic Science,British Library,Q23308,17,0,2,national library of the United Kingdom,BL|B.L.|The British Library|The British Museum Library,Q22806|Q1769139|Q1438040|Q2495568|Q3343298|Q856584,,British Library
+British Library of Political and Economic Science,British Library online catalogue,Q53556514,17,0,2,online public access catalog of the British Library,BL online catalogue|BL OPAC|British Library catalogue,Q1982918|Q35127,,
+British Library of Political and Economic Science,British Library Nineteenth Century digitised books collection,Q53764729,17,0,2,"68,000 digitised volumes from the 19th century, made available CC0 by the British Library",,Q2668072,,
+British Library of Political and Economic Science,British Library system number,Q53571158,17,0,2,catalogue codes used by the British Library,,Q5146094,,
+British Library of Political and Economic Science,British Library additional manuscripts,Q23891183,17,0,2,manuscript collection,Add. MSS|Add MSS|Additional manuscripts|British Museum additional manuscripts,Q42939539,,Additional manuscripts
+British Library of Political and Economic Science,Codex Alexandrinus,Q318233,17,0,2,Greek manuscript of the Septuagint,"British Library, MS Royal 1. D. V-VIII|Alexandrian Codex|Alexandrine Codex|Uncial 02|Rahlfs A",Q87167,,Codex Alexandrinus
+British Library of Political and Economic Science,British Library Philatelic Collections,Q4483745,17,0,2,collection within the British Library,,Q2668072|Q130570441,,British Library Philatelic Collections
+British Library of Political and Economic Science,British Library Manuscript Collections,Q81165041,17,0,2,archival institution in United Kingdom,,Q2122214,,
+British Library of Political and Economic Science,British Library Board (Power to Borrow) Act 2021,Q106880192,17,0,2,Public General Act of Parliament of the United Kingdom,2021 c. 15|2021 c15,Q105774620,,British Library Board (Power to Borrow) Act 2021
+British Library of Political and Economic Science,GLAM,Q1030034,17,0,2,"acronym for 'galleries, libraries, archives, and museums', which refers to cultural institutions that have access to knowledge as their mission","galleries, libraries, archives, and museums|GLAMs",Q101244|Q3958441|Q1200977,Q3152824|Q1200977,GLAM (cultural heritage)
+British Library of Political and Economic Science,Glamorgan,Q870815,17,0,2,historic county in Wales,Glamorganshire|Sir Forgannwg|Morgannwg|Glam,Q1857731|Q67376938,,Glamorgan
+British Library of Political and Economic Science,GLAM Museu Paulista,Q52760835,17,0,2,GLAM-Wiki project with the Museu Paulista,,Q16695773,,
+British Library of Political and Economic Science,glam rock,Q76092,17,0,2,"style of rock music that developed in the United Kingdom in the early 1970s performed by musicians who wore outrageous costumes, makeup, and hairstyles, particularly platform shoes and glitter",,Q188451,Q11399|Q65937876,Glam rock
+British Library of Political and Economic Science,GLAM-Wiki project,Q11342820,17,0,2,"Wikimedia collaboration project dedicated to partnerships with the cultural sector (short for galleries, libraries, archives, and museums)",GLAMwiki|GLAM-Wiki|Wikipedia:GLAM|Commons:GLAM|Wikidata:GLAM|Wikivoyage:GLAM|GLAM|Wikisource:GLAM,Q16695773,Q16695773,Wikipedia:GLAM
+British Library of Political and Economic Science,Bibliotecas da USP GLAM project,Q97013571,17,0,2,wikiproject with the libraries of the University of São Paulo,GLAM Bibliotecas da Universidade de São Paulo|GLAM USP Libraries|GLAM University of Sao Paulo Libraries,Q16695773,,
+British Library of Political and Economic Science,Glamour,Q472870,17,0,2,American magazine,Glamour UK|Glamour of Hollywood,Q41298|Q847906,,Glamour (magazine)
+British Library of Political and Economic Science,glam punk,Q1123745,17,0,2,subgenre of punk rock,mock rock,Q188451,Q25554481|Q76092,Glam punk
+British Library of Political and Economic Science,erotic photography model,Q3286043,17,0,2,model who poses nude for erotic or sensual photos,adult model|erotic model|glamour model|softcore model,Q28640,Q4610556|Q852857,Erotic photography model
+British Library of Political and Economic Science,GLAM,Q6874568,17,0,2,South Korean girl group,Glam,Q641066,,Glam (group)
+British Library of Political and Economic Science,open access policy,Q2000006,17,0,2,policy requiring or recommending Open Access to scientific publications,open-access policy|open-access mandate|OA policy|open access mandate|OA policies|open-access policies|open-access mandates|open access mandata|OA mandat|OA mandates,,Q112795396|Q2751586|Q49848,Open-access mandate
+British Library of Political and Economic Science,University of California open access policy,Q42297323,17,0,2,,UC Open Access Policy|UC Systemwide Academic Senate Open Access Policy|Open Access Policy for the Academic Senate of the University of California,Q2000006,,
+British Library of Political and Economic Science,Open-Access-Policy of the University of Siegen,Q120435289,17,0,2,,,Q49848|Q2000006,,
+British Library of Political and Economic Science,PASTEUR4OA,Q47615781,17,0,2,website,Open Access Policy Alignment Strategies for European Union Research|Open Access Policy Alignment STrategies for European Union Research|pasteur4oa|Pasteur4OA|pasteur4oa.eu,Q35127,,
+British Library of Political and Economic Science,Open Access Policy of the University of Applied Sciences Südwestfalen,Q120499325,17,0,2,,,Q49848|Q2000006,,
+British Library of Political and Economic Science,Open Access Policy in the UK: From Neoliberalism to the Commons.,Q115527070,17,0,2,Phd Thesis by Stuart Lawson,,Q187685,,
+British Library of Political and Economic Science,Open Access Policy,Q113415916,17,0,2,scientific article published on 11 November 2020,,Q13442814,,
+British Library of Political and Economic Science,Open access policy,Q86955005,17,0,2,"scientific article published on June 15, 2013",,Q13442814,,
+British Library of Political and Economic Science,Open-access policy flourishes at NIH,Q71862218,17,0,2,journal article; published in Nature on 2009-04-07,,Q13442814,,
+British Library of Political and Economic Science,Open access policy to research outputs in the Republic of Moldova. State of the art and perspectives,Q114948208,17,0,2,scientific article published in 2018,,Q13442814,,
+British Library of Political and Economic Science,custom,Q251777,17,0,2,"set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria",ethimo|practice|social convention|social practice,,Q367293,Social convention
+British Library of Political and Economic Science,intentional human activity,Q451967,17,0,2,human activity driven by purposeful motives,acting|doing|willful action|purposeful action|purposeful activity|deliberate action|deliberate activity|intentional human action|practice,Q125542526,Q24902509,
+British Library of Political and Economic Science,practice,Q334600,17,0,2,act of rehearsing a behavior repeatedly; sessions scheduled for the purpose of rehearsing and performance improvement,practicing|practices|drill|drilling|drills,,Q133500|Q65920874,Practice (learning method)
+British Library of Political and Economic Science,rehearsal,Q1751775,17,0,2,practice performance,dry run|run-through|practice|practice run|trial run|dummy run,,Q334600|Q35140|Q1412596|Q19833559|Q11631356,Rehearsal
+British Library of Political and Economic Science,internship,Q6500754,17,0,2,"period of work experience, usually at the start of one's career, often prior to completion of schooling",cadetship|interning|work experience programs|praxis|practice,Q4164871|Q64513524|Q20970853,Q11327083|Q1914636,Internship
+British Library of Political and Economic Science,Practice,Q135264434,17,0,2,Tony Hawk's Pro Skater 4 level,,Q1046315,,
+British Library of Political and Economic Science,practice,Q10354783,17,0,2,manifesting theory into physical action,,,Q1914636,
+British Library of Political and Economic Science,Practice,Q15751788,17,0,2,journal,,Q5633421,,
+British Library of Political and Economic Science,dental practice management,Q70362281,17,0,2,organization and operation of the business aspects of a dental practice,"Practice Management, Dental",,Q48768260,
+British Library of Political and Economic Science,practice,Q115673998,17,0,2,procedure (good or bad) usually performed,practices,,Q1799072|Q20920559|Q451967,
+Survey of GLAM open access policy and practice,Open GLAM Survey,Q73357989,17,1,1,"A sector-wide survey mapping the state of open access adoption among galleries, libraries, archives, and museums.",OpenGLAM Survey|Survey of GLAM open access policy and practice,Q1172284,,
+Survey of GLAM open access policy and practice,"Open GLAM Survey, version of 16 May 2024",Q125946211,17,1,1,16 May 2024 backup of Open GLAM Survey,"Survey of GLAM open access policy and practice, version of May 16, 2024|Open GLAM Survey|OpenGLAM Survey",Q1172284|Q3331189,,
+Survey of GLAM open access policy and practice,British Library of Political and Economic Science,Q2371017,17,1,2,main library of the London School of Economics and Political Science,LSE Library|BLPES|Lionel Robbins building,Q856234|Q1438040|Q7075,,British Library of Political and Economic Science
+Survey of GLAM open access policy and practice,British Library of Political and Economic Science,Q60081084,17,1,2,,,Q13442814,,
+Survey of GLAM open access policy and practice,British Library of Political and Economic Science,Q71899280,17,1,2,journal article; published in Nature on 1962-1,,Q13442814,,
+Survey of GLAM open access policy and practice,British Library of Political and Economic Science,Q58957040,17,1,2,,,Q13442814,,
+Survey of GLAM open access policy and practice,British Library of Political and Economic Science,Q59075889,17,1,2,scientific article published in Nature,,Q13442814,,
+Survey of GLAM open access policy and practice,British Library,Q23308,17,1,2,national library of the United Kingdom,BL|B.L.|The British Library|The British Museum Library,Q22806|Q1769139|Q1438040|Q2495568|Q3343298|Q856584,,British Library
+Survey of GLAM open access policy and practice,British Library online catalogue,Q53556514,17,1,2,online public access catalog of the British Library,BL online catalogue|BL OPAC|British Library catalogue,Q1982918|Q35127,,
+Survey of GLAM open access policy and practice,British Library Nineteenth Century digitised books collection,Q53764729,17,1,2,"68,000 digitised volumes from the 19th century, made available CC0 by the British Library",,Q2668072,,
+Survey of GLAM open access policy and practice,British Library system number,Q53571158,17,1,2,catalogue codes used by the British Library,,Q5146094,,
+Survey of GLAM open access policy and practice,British Library additional manuscripts,Q23891183,17,1,2,manuscript collection,Add. MSS|Add MSS|Additional manuscripts|British Museum additional manuscripts,Q42939539,,Additional manuscripts
+Survey of GLAM open access policy and practice,Codex Alexandrinus,Q318233,17,1,2,Greek manuscript of the Septuagint,"British Library, MS Royal 1. D. V-VIII|Alexandrian Codex|Alexandrine Codex|Uncial 02|Rahlfs A",Q87167,,Codex Alexandrinus
+Survey of GLAM open access policy and practice,British Library Philatelic Collections,Q4483745,17,1,2,collection within the British Library,,Q2668072|Q130570441,,British Library Philatelic Collections
+Survey of GLAM open access policy and practice,British Library Manuscript Collections,Q81165041,17,1,2,archival institution in United Kingdom,,Q2122214,,
+Survey of GLAM open access policy and practice,British Library Board (Power to Borrow) Act 2021,Q106880192,17,1,2,Public General Act of Parliament of the United Kingdom,2021 c. 15|2021 c15,Q105774620,,British Library Board (Power to Borrow) Act 2021
+Survey of GLAM open access policy and practice,GLAM,Q1030034,17,1,2,"acronym for 'galleries, libraries, archives, and museums', which refers to cultural institutions that have access to knowledge as their mission","galleries, libraries, archives, and museums|GLAMs",Q101244|Q3958441|Q1200977,Q3152824|Q1200977,GLAM (cultural heritage)
+Survey of GLAM open access policy and practice,Glamorgan,Q870815,17,1,2,historic county in Wales,Glamorganshire|Sir Forgannwg|Morgannwg|Glam,Q1857731|Q67376938,,Glamorgan
+Survey of GLAM open access policy and practice,GLAM Museu Paulista,Q52760835,17,1,2,GLAM-Wiki project with the Museu Paulista,,Q16695773,,
+Survey of GLAM open access policy and practice,glam rock,Q76092,17,1,2,"style of rock music that developed in the United Kingdom in the early 1970s performed by musicians who wore outrageous costumes, makeup, and hairstyles, particularly platform shoes and glitter",,Q188451,Q11399|Q65937876,Glam rock
+Survey of GLAM open access policy and practice,GLAM-Wiki project,Q11342820,17,1,2,"Wikimedia collaboration project dedicated to partnerships with the cultural sector (short for galleries, libraries, archives, and museums)",GLAMwiki|GLAM-Wiki|Wikipedia:GLAM|Commons:GLAM|Wikidata:GLAM|Wikivoyage:GLAM|GLAM|Wikisource:GLAM,Q16695773,Q16695773,Wikipedia:GLAM
+Survey of GLAM open access policy and practice,Bibliotecas da USP GLAM project,Q97013571,17,1,2,wikiproject with the libraries of the University of São Paulo,GLAM Bibliotecas da Universidade de São Paulo|GLAM USP Libraries|GLAM University of Sao Paulo Libraries,Q16695773,,
+Survey of GLAM open access policy and practice,Glamour,Q472870,17,1,2,American magazine,Glamour UK|Glamour of Hollywood,Q41298|Q847906,,Glamour (magazine)
+Survey of GLAM open access policy and practice,glam punk,Q1123745,17,1,2,subgenre of punk rock,mock rock,Q188451,Q25554481|Q76092,Glam punk
+Survey of GLAM open access policy and practice,erotic photography model,Q3286043,17,1,2,model who poses nude for erotic or sensual photos,adult model|erotic model|glamour model|softcore model,Q28640,Q4610556|Q852857,Erotic photography model
+Survey of GLAM open access policy and practice,GLAM,Q6874568,17,1,2,South Korean girl group,Glam,Q641066,,Glam (group)
+Survey of GLAM open access policy and practice,open access policy,Q2000006,17,1,2,policy requiring or recommending Open Access to scientific publications,open-access policy|open-access mandate|OA policy|open access mandate|OA policies|open-access policies|open-access mandates|open access mandata|OA mandat|OA mandates,,Q112795396|Q2751586|Q49848,Open-access mandate
+Survey of GLAM open access policy and practice,University of California open access policy,Q42297323,17,1,2,,UC Open Access Policy|UC Systemwide Academic Senate Open Access Policy|Open Access Policy for the Academic Senate of the University of California,Q2000006,,
+Survey of GLAM open access policy and practice,Open-Access-Policy of the University of Siegen,Q120435289,17,1,2,,,Q49848|Q2000006,,
+Survey of GLAM open access policy and practice,PASTEUR4OA,Q47615781,17,1,2,website,Open Access Policy Alignment Strategies for European Union Research|Open Access Policy Alignment STrategies for European Union Research|pasteur4oa|Pasteur4OA|pasteur4oa.eu,Q35127,,
+Survey of GLAM open access policy and practice,Open Access Policy of the University of Applied Sciences Südwestfalen,Q120499325,17,1,2,,,Q49848|Q2000006,,
+Survey of GLAM open access policy and practice,Open Access Policy in the UK: From Neoliberalism to the Commons.,Q115527070,17,1,2,Phd Thesis by Stuart Lawson,,Q187685,,
+Survey of GLAM open access policy and practice,Open Access Policy,Q113415916,17,1,2,scientific article published on 11 November 2020,,Q13442814,,
+Survey of GLAM open access policy and practice,Open access policy,Q86955005,17,1,2,"scientific article published on June 15, 2013",,Q13442814,,
+Survey of GLAM open access policy and practice,Open-access policy flourishes at NIH,Q71862218,17,1,2,journal article; published in Nature on 2009-04-07,,Q13442814,,
+Survey of GLAM open access policy and practice,Open access policy to research outputs in the Republic of Moldova. State of the art and perspectives,Q114948208,17,1,2,scientific article published in 2018,,Q13442814,,
+Survey of GLAM open access policy and practice,custom,Q251777,17,1,2,"set of agreed, stipulated, or generally accepted standards, norms, social norms, or criteria",ethimo|practice|social convention|social practice,,Q367293,Social convention
+Survey of GLAM open access policy and practice,intentional human activity,Q451967,17,1,2,human activity driven by purposeful motives,acting|doing|willful action|purposeful action|purposeful activity|deliberate action|deliberate activity|intentional human action|practice,Q125542526,Q24902509,
+Survey of GLAM open access policy and practice,practice,Q334600,17,1,2,act of rehearsing a behavior repeatedly; sessions scheduled for the purpose of rehearsing and performance improvement,practicing|practices|drill|drilling|drills,,Q133500|Q65920874,Practice (learning method)
+Survey of GLAM open access policy and practice,rehearsal,Q1751775,17,1,2,practice performance,dry run|run-through|practice|practice run|trial run|dummy run,,Q334600|Q35140|Q1412596|Q19833559|Q11631356,Rehearsal
+Survey of GLAM open access policy and practice,internship,Q6500754,17,1,2,"period of work experience, usually at the start of one's career, often prior to completion of schooling",cadetship|interning|work experience programs|praxis|practice,Q4164871|Q64513524|Q20970853,Q11327083|Q1914636,Internship
+Survey of GLAM open access policy and practice,Practice,Q135264434,17,1,2,Tony Hawk's Pro Skater 4 level,,Q1046315,,
+Survey of GLAM open access policy and practice,practice,Q10354783,17,1,2,manifesting theory into physical action,,,Q1914636,
+Survey of GLAM open access policy and practice,Practice,Q15751788,17,1,2,journal,,Q5633421,,
+Survey of GLAM open access policy and practice,dental practice management,Q70362281,17,1,2,organization and operation of the business aspects of a dental practice,"Practice Management, Dental",,Q48768260,
+Survey of GLAM open access policy and practice,practice,Q115673998,17,1,2,procedure (good or bad) usually performed,practices,,Q1799072|Q20920559|Q451967,
+Lilly Library,Lilly Library,Q6548368,18,0,1,rare book and manuscript library in the United States,"Lilly Library, Indiana University Bloomington",Q7075|Q44234152|Q4671277,,Lilly Library
+Lilly Library,Lilly Library,Q69863715,18,0,1,"public library in Florence, Massachusetts, USA",,Q12317349|Q28564,,
+Lilly Library,Lilly Library,Q56221155,18,0,1,academic library in Wabash Indiana,,Q856234,,
+Lilly Library,Lilly Library,Q69478505,18,0,1,"public library system in Massachusetts, USA",lillylibrary.org,Q26271642,,
+Lilly Library,"Bloomington, Indiana, Indiana University Bloomington, Medieval and Renaissance 36",Q125874580,18,0,1,Medieval manuscript containing a breviary commissioned by Elisabeth von Walmden,"Bloomington, Indiana University, Lilly Library, Medieval and Renaissance 36|Lilly Library, Medieval and Renaissance 36|Bloomington, Indiana, Indiana University Bloomington, Medieval and Renaissance 36|Breviary of Elisabeth von Walmden",Q87167,,
+"Library, Nihon University College of Bioresource Sciences","Library, Nihon University College of Bioresource Sciences",Q111735844,19,0,1,,,Q856234,,
+"Library, Nihon University College of Bioresource Sciences",The Library,Q15752338,19,0,2,academic journal,Library|The Library: the transactions of the Bibliographical Society,Q737498,,
+"Library, Nihon University College of Bioresource Sciences",library,Q7075,19,0,2,"institution charged with the care of a collection of literary, musical, artistic, or reference materials, such as books, manuscripts, recordings, or films",library organization|libraries,,Q1030034|Q294163|Q101542346|Q2668072|Q497893|Q2221906|Q58326331,Library
+"Library, Nihon University College of Bioresource Sciences",Library of Congress Authorities,Q13219454,19,0,2,"browsable database to view authority headings for subject, name, title and name/title combinations",LOC authorities|LC authorities|LCAuth,Q7094076,,LCCN (identifier)
+"Library, Nihon University College of Bioresource Sciences",Library of Congress,Q131454,19,0,2,(de facto) national library of the United States of America,LC|loc.gov|LOC|Congressional Library|United States. Library of Congress|US Library of Congress,Q22806|Q11422631|Q53251146|Q115456878,,Library of Congress
+"Library, Nihon University College of Bioresource Sciences",Library of the World's Best Literature,Q19098835,19,0,2,1897 anthology edited by Charles Dudley Warner,,Q7725634,,
+"Library, Nihon University College of Bioresource Sciences",software library,Q188860,19,0,2,"collection of non-volatile resources used by computer programs, often for software development",programming library|lib|library|code generation library|computer library,Q17155032,Q1077784|Q17176533|Q7397,Library (computing)
+"Library, Nihon University College of Bioresource Sciences",LIBRIS,Q1798125,19,0,2,Swedish national union catalogue,LIBRary Information System,Q856638,,LIBRIS
+"Library, Nihon University College of Bioresource Sciences",Library of Congress Control Number,Q620946,19,0,2,numbering system for catalog records at the Library of Congress (not a subject classification),LCCN,Q36646373|Q36524,,Library of Congress Control Number
+"Library, Nihon University College of Bioresource Sciences",LibraryThing,Q742640,19,0,2,social cataloging web application,librarything.com,Q35127|Q856638|Q847959,,LibraryThing
+"Library, Nihon University College of Bioresource Sciences",library branch,Q11396180,19,0,2,"branch of a library organisation, e.g. in a city, town of village",branch library,Q25397890,Q7075|Q1880737,Library branch
+John Harris Library,John Harris Library,Q107709498,20,0,1,,,,,John Harris Library
+John Harris Library,John Harris Library,Q84555538,20,0,1,Nigerian academic library,,Q856234|Q212805,,
+John Harris Library,academic library,Q84558365,20,0,1,John Harris Library at Obafemi Awolowo University,John Harris Library,Q7075,,
+Morisset Library,Morisset Library,Q105757630,21,0,1,academic library at the University of Ottawa,University of Ottawa Library|Morisset Library (Arts and Science),Q856234,,
+Morisset Library,Morisset Library,Q69524840,21,0,1,"public library in Morisset, New South Wales",,Q856584|Q28564,,
+Academic Library,academic library,Q856234,22,0,1,library attached to a higher education institution,university library|college library,Q25397890,Q1438040|Q23005223,Academic library
+Academic Library,Academic Library,Q84918953,22,0,1,"University Library, Bayero University Kano",,Q856234,,
+Academic Library,Academic Library,Q84558946,22,0,1,Ekiti State UniversityLibrary,EKSU Library,Q856234,,
+Academic Library,Academic Library,Q84914786,22,0,1,Uniosun Library,,Q856234,,
+Academic Library,academic library,Q84558365,22,0,1,John Harris Library at Obafemi Awolowo University,John Harris Library,Q7075,,
+Academic Library,Academic Library,Q84558006,22,0,1,Kashim Ibrahim Library,,Q856234,,
+Academic Library,academic library building,Q64572405,22,0,1,building housing an academic library collection and services,university library building|college library building,,Q856584|Q19844914,
+Academic Library,Tritonia Academic Library,Q18619538,22,0,1,library in Finland,Academic Library Tritonia|Tritonia,Q856234,,Tritonia Academic Library
+Academic Library,Academic Library of the University of Latvia,Q4493375,22,0,1,library in Latvia,AL UL|University of Latvia Academic Library,Q7075,,
+Academic Library,Comenius University Library,Q54991635,22,0,1,library in Slovakia,Academic Library of Comenius University in Bratislava,Q856234,,
+Academic Library,university library,Q1622062,22,0,2,general library at an institution of higher education,college library,Q25397890,Q856234,
+Academic Library,National Library of Finland,Q420747,22,0,2,foremost research library in Finland,Yliopiston Kirjasto|University Library|kansalliskirjasto.fi|NatLibFi|Kansalliskirjasto,Q22806|Q856234,,National Library of Finland
+Academic Library,Malcolm A. Love Library,Q6742149,22,0,2,primary library of San Diego State University,University Library|San Diego State University Library|Love Library,Q856234|Q43229,,Malcolm A. Love Library
+Academic Library,University of Regensburg,Q574571,22,0,2,"university in Bavaria, Germany",University of regensburg|Universität Regensburg|Regensburg University|Universitaet Regensburg|Universitat Regensburg|University Library Regensburg,Q875538|Q1767829,,University of Regensburg
+Academic Library,"Kenneth Dike Library, University of Ibadan",Q84493472,22,0,2,academic library situated at University of Ibadan,"KDL|Kenneth Dike library|Kenneth Dike Library.|University Library|Kenneth Dike Library, University of Ibadan|Kenneth Dike University Library",Q856234|Q7075,,"Kenneth Dike Library, University of Ibadan"
+Academic Library,University of Texas Rio Grande Valley Library,Q112582676,22,0,2,academic library system of University of Texas Rio Grande Valley,UTRGV Library|University Library|ELIBR|BLIBR,Q856234|Q26271642|Q7096323,,
+Academic Library,Samford University Library,Q96032019,22,0,2,"academic library in Birmingham, AL, USA",Harwell Goodwin Davis Library|University Library,Q7075|Q856234|Q1622062,,
+Academic Library,"University Library ""Svetozar Marković""",Q683389,22,0,2,"academic library in Belgrade, Serbia","Svetozar Marković University Library|Belgrade University Library|University Library Svetozar Marković|University Library ""Svetozar Marković"" in Belgrade|University Library ""Svetozar Marković"" Belgrade|University Library ""Svetozar Marković"" (Belgrade)",Q856234|Q1622062|Q3152824,,Belgrade University Library
+Academic Library,Uris Library,Q108937984,22,0,2,"historic library building at Cornell University, Ithaca, New York, U.S.A.",Main Library|University Library,Q856584,,Uris Library
+Academic Library,Powell Library,Q4405663,22,0,2,"undergraduate library at University of California, Los Angeles",College Library|UCLA Powell Library|UCLA College Library,Q856234|Q1622062|Q856584|Q19844914,,Powell Library
+Academic Library,faculty library,Q65768718,22,0,2,,college library,,,
+Academic Library,Professor Mustafa ABBA library,Q137166122,22,0,2,A library at federal college of education Yola is for academic library,College library,Q856234,,
+Academic Library,"College Library, Federal College of Education (Technical), Gusau",Q115651949,22,0,2,library that serve and support the college communty in Gusau-Nigeria,,Q856234|Q1438040,,
+Academic Library,College Library of Federal College of Education Technical Gombe,Q115676045,22,0,2,"Academic Library that serve the college in Gombe state, Nigeria",,Q856234,,
+Academic Library,College Library,Q93593653,22,0,2,,,Q13442814,,
+Academic Library,College Library Standards: Questions and Answers,Q113195348,22,0,2,scientific article published on 22 August 2019,,Q13442814,,
+Academic Library,research library,Q1438040,22,0,2,library that collects materials on one or more subjects to support scholarly or scientific research,,Q25397890,Q7075,Research library
+Academic Library,Research Libraries Group,Q7315111,22,0,2,former library consortium,Research Library Group|RLG,Q43229,,Research Libraries Group
+Academic Library,Detroit Institute of Arts Research Library & Archives,Q89059627,22,0,2,repository of art history and primary sources,DIA Library|DIA Archives|Research Library and Archives,Q1438040|Q166118|Q53566456|Q2366457|Q66656823,,
+Academic Library,Research Library for the History of Education,Q856552,22,0,2,Research library at the DIPF Leibniz Institut for Research and Information in Education,DIPF|Bibliothek für Bildungsgeschichtliche Forschung,Q7075|Q166118,,
+Academic Library,Federal Reserve Board Research Library,Q126704893,22,0,2,library of the Federal Reserve Board,FRB Research Library|Research Library,Q385994,,
+Academic Library,Research Library in Olomouc,Q12342237,22,0,2,public library in the Czech Republic,,Q2586205,,Research Library in Olomouc
+Academic Library,Research Library of South Bohemia,Q20057526,22,0,2,"archive organization in České Budějovice, Czechia",Krajská knihovna,Q2586205|Q3152824,,
+Academic Library,Research Library Issues,Q96718459,22,0,2,US scientific journal,,Q5633421,,
+Academic Library,Upper Austrian State Library,Q1439945,22,0,2,library,Research library Linz,Q7075|Q33506,,
+Academic Library,Research library Dillingen,Q2358491,22,0,2,library in Germany,,Q7075,,

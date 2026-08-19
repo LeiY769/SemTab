@@ -1,0 +1,45 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SP 2003je,Space Shuttle,Q7572487,0,0,2,1984 pinball machine manufactured by Williams,Space Shuttle: Pinball Adventure,Q653928,,Space Shuttle (pinball)
+SP 2003je,Space Shuttle,Q48806,0,0,2,partially reusable launch system and space plane developed by NASA (1981–2011),,Q110055303|Q117384800,Q30128,Space Shuttle
+SP 2003je,Space Shuttle: A Journey into Space,Q15726502,0,0,2,1983 video game,,Q7889,,Space Shuttle: A Journey into Space
+SP 2003je,Space Shuttle program,Q1775296,0,0,2,"United States government's crewed launch vehicle program, administered by NASA from 1972 to 2011",Space Transportation System|STS,Q21605492|Q13226541,,Space Shuttle program
+SP 2003je,shuttlecraft,Q600142,0,0,2,fictional spacecraft class,shuttle|space shuttle|rocketplane,Q18039177,Q5308494,Shuttlecraft (Star Trek)
+SP 2003je,Space Shuttle,Q114502548,0,0,2,episode of Modern Marvels (S3 E1),,Q21191270,,
+SP 2003je,Space Shuttle Max,Q7572494,0,0,2,"roller coaster at Enchanted Kingdom in Santa Rosa, Laguna in the Philippines",Cobra|Space Shuttle,Q893035,,Space Shuttle (roller coaster)
+SP 2003je,Space Shuttle Mission 2007,Q7572493,0,0,2,2011 video game,,Q7889,,Space Shuttle Mission 2007
+SP 2003je,Space Shuttle Project,Q7572495,0,0,2,1991 video game,,Q7889,,Space Shuttle Project
+SP 2003je,Discovery,Q54384,0,0,2,American Space Shuttle orbiter,OV-103|Space Shuttle Discovery|OV103|Orbital Vehicle 103|Discovery Space Shuttle,Q1064394|Q9252000,,Space Shuttle Discovery
+SP 2003je,Space Shuttle Discovery successfully launches after a month of delays,Q17922780,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery launches on mission STS-124,Q18017632,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery lands in Florida,Q17673463,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery launches,Q17617073,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery lands safely in California,Q17610496,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery lands for final time,Q17610648,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery STS-114 landing postponed for weather,Q17617125,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery launches on final mission,Q17780321,0,0,2,Wikinews article,,Q17633526,,
+SP 2003je,Space Shuttle Discovery launch on indefinite hold,Q17617037,0,0,2,Wikinews article,,Q17633526,,
+SN 1999ap,SN 1999ap,Q9327756,1,0,1,supernova,,Q3937,,
+SN 1999ap,minor planet,Q1022867,1,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1999ap,Minor Planet Center database,Q106600690,1,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1999ap,Minor Planet Center,Q522039,1,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1999ap,minor planet moon,Q657829,1,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1999ap,Minor Planet Circulars,Q6382430,1,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1999ap,minor planet group,Q2332332,1,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1999ap,list of minor planets,Q37651,1,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1999ap,Minor planet designation,Q817125,1,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1999ap,Minor Planet Bulletin,Q6869125,1,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1999ap,Minor Planet Catalogue,Q55178248,1,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1999ap,asteroid,Q3863,1,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1999ap,asteroid belt,Q2179,1,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1999ap,Asteroid,Q4810751,1,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1999ap,Asteroid,Q113629153,1,0,2,early access video game,,Q7889,,
+SN 1999ap,starfish,Q25349,1,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1999ap,Asteroid,Q132852203,1,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1999ap,Asteroideae,Q21004,1,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1999ap,Asteroids,Q748890,1,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1999ap,Asteroid Terrestrial-impact Last Alert System,Q17002475,1,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1999ap,Vesta,Q3030,1,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN1961F,,,2,0,0,,,,,
+SN 300ls,,,3,0,0,,,,,
+N 1994f,,,4,0,0,,,,,
+N 2005gs,,,5,0,0,,,,,

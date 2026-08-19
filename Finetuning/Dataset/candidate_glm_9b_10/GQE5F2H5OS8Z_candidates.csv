@@ -1,0 +1,198 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Sandwijck,Sandwijck,Q7474822,0,0,1,"estate in De Bilt, the Netherlands",,Q1497375|Q2927789,,
+Sandwijck,Sandwijck,Q19507372,0,0,1,"street in Assendelft, the Netherlands",,Q79007,,
+Sandwijck,porters house of Huis Sandwijck,Q17467716,0,0,1,"porters house in De Bilt, the Netherlands",,Q18759150,,
+Sandwijck,fence posts of Sandwijck,Q17467737,0,0,1,"fence posts in De Bilt, the Netherlands",,Q13136166,,
+Sandwijck,folly at Sandwijck,Q17467725,0,0,1,"folly in De Bilt, the Netherlands",,Q180174,,
+Sandwijck,country house Sandwijck,Q17467720,0,0,1,"country house in De Bilt, Netherlands",,Q16884952,,
+Sandwijck,Sluishoef,Q17467727,0,0,1,"country house in De Bilt, the Netherlands",,Q16884952,,
+Sandwijck,Oost-Indiën,Q17467732,0,0,1,"farm of country house in De Bilt, the Netherlands",,Q131596,,
+Sandwijck,footbridge at Sandwijck,Q17467751,0,0,1,"foot bridge in De Bilt, the Netherlands",,Q1068842,,
+Sandwijck,historical garden of Sandwijck,Q17467713,0,0,1,"historical garden in De Bilt, the Netherlands",,Q1107656,,
+Sandwijck,Rijksmonument complex,Q13423591,0,0,2,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Sandwijck,Elswout,Q2278595,0,0,2,park in Overveen,rijksmonument complex 339207,Q12292478|Q22698|Q1497375|Q10594991,,Elswout
+Sandwijck,Boeijink,Q18774085,0,0,2,farmgrounds recognized as a rijksmonument,,Q1497375,,
+Rijksmonument complex,Rijksmonument complex,Q13423591,0,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument complex,Elswout,Q2278595,0,1,1,park in Overveen,rijksmonument complex 339207,Q12292478|Q22698|Q1497375|Q10594991,,Elswout
+Rijksmonument complex,Boeijink,Q18774085,0,1,1,farmgrounds recognized as a rijksmonument,,Q1497375,,
+Rijksmonument complex,Sandwijck,Q7474822,0,1,2,"estate in De Bilt, the Netherlands",,Q1497375|Q2927789,,
+Rijksmonument complex,Sandwijck,Q19507372,0,1,2,"street in Assendelft, the Netherlands",,Q79007,,
+Rijksmonument complex,porters house of Huis Sandwijck,Q17467716,0,1,2,"porters house in De Bilt, the Netherlands",,Q18759150,,
+Rijksmonument complex,fence posts of Sandwijck,Q17467737,0,1,2,"fence posts in De Bilt, the Netherlands",,Q13136166,,
+Rijksmonument complex,folly at Sandwijck,Q17467725,0,1,2,"folly in De Bilt, the Netherlands",,Q180174,,
+Rijksmonument complex,country house Sandwijck,Q17467720,0,1,2,"country house in De Bilt, Netherlands",,Q16884952,,
+Rijksmonument complex,Sluishoef,Q17467727,0,1,2,"country house in De Bilt, the Netherlands",,Q16884952,,
+Rijksmonument complex,Oost-Indiën,Q17467732,0,1,2,"farm of country house in De Bilt, the Netherlands",,Q131596,,
+Rijksmonument complex,footbridge at Sandwijck,Q17467751,0,1,2,"foot bridge in De Bilt, the Netherlands",,Q1068842,,
+Rijksmonument complex,historical garden of Sandwijck,Q17467713,0,1,2,"historical garden in De Bilt, the Netherlands",,Q1107656,,
+Rijksmonument complex,Rijksmonument,Q916333,0,1,2,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument complex,Dutch National Monument List,Q7477362,0,1,2,Dutch database of built heritage,,Q15097084,,
+Rijksmonument complex,Rijksmonument ID,Q103567620,0,1,2,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument complex,Buitenplaats Berbice,Q11721989,0,1,2,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument complex,Museum Boerhaave,Q759169,0,1,2,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument complex,"Huize Duinbeek, Oostkapelle",Q18770297,0,1,2,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument complex,Hofje Meermansburg,Q2432654,0,1,2,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument complex,"Rapenburg 6, Leiden",Q17339203,0,1,2,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument complex,Rechteren: grafmonument van de familie Rechteren,Q17460564,0,1,2,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,
+Goudestein,Goudestein,Q19201827,1,0,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Goudestein,Goudestein,Q4989402,1,0,1,estate on the Vecht river near Utrecht,Goudesteyn|Goudesteijn,Q1497375|Q2927789,,
+Goudestein,Goudestein,Q19201831,1,0,1,"street in Dordrecht, the Netherlands",,Q79007,,
+Goudestein,Goudestein,Q19201829,1,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Goudestein,Goudestein,Q19201834,1,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Goudestein,Goudestein,Q19201836,1,0,1,"street in Leiderdorp, the Netherlands",,Q79007,,
+Goudestein,Goudestein,Q19201839,1,0,1,"street in Rotterdam, the Netherlands",,Q79007,,
+Goudestein,Goudesteinstraat,Q19201845,1,0,1,"street in Hellevoetsluis, the Netherlands",,Q79007,,
+Goudestein,Goudesteinlaan,Q116373004,1,0,1,"street in Weesp, the Netherlands",,Q79007,,
+Goudestein,Goudesteinstede,Q19201843,1,0,1,"street in 's-Hertogenbosch, the Netherlands",,Q79007,,
+Rijksmonument complex,Rijksmonument complex,Q13423591,1,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument complex,Elswout,Q2278595,1,1,1,park in Overveen,rijksmonument complex 339207,Q12292478|Q22698|Q1497375|Q10594991,,Elswout
+Rijksmonument complex,Boeijink,Q18774085,1,1,1,farmgrounds recognized as a rijksmonument,,Q1497375,,
+Rijksmonument complex,Goudestein,Q19201827,1,1,2,"street in Amersfoort, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudestein,Q4989402,1,1,2,estate on the Vecht river near Utrecht,Goudesteyn|Goudesteijn,Q1497375|Q2927789,,
+Rijksmonument complex,Goudestein,Q19201831,1,1,2,"street in Dordrecht, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudestein,Q19201829,1,1,2,"street in Amsterdam, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudestein,Q19201834,1,1,2,"street in Eindhoven, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudestein,Q19201836,1,1,2,"street in Leiderdorp, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudestein,Q19201839,1,1,2,"street in Rotterdam, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudesteinstraat,Q19201845,1,1,2,"street in Hellevoetsluis, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudesteinlaan,Q116373004,1,1,2,"street in Weesp, the Netherlands",,Q79007,,
+Rijksmonument complex,Goudesteinstede,Q19201843,1,1,2,"street in 's-Hertogenbosch, the Netherlands",,Q79007,,
+Rijksmonument complex,Rijksmonument,Q916333,1,1,2,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument complex,Dutch National Monument List,Q7477362,1,1,2,Dutch database of built heritage,,Q15097084,,
+Rijksmonument complex,Rijksmonument ID,Q103567620,1,1,2,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument complex,Buitenplaats Berbice,Q11721989,1,1,2,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument complex,Museum Boerhaave,Q759169,1,1,2,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument complex,"Huize Duinbeek, Oostkapelle",Q18770297,1,1,2,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument complex,Hofje Meermansburg,Q2432654,1,1,2,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument complex,"Rapenburg 6, Leiden",Q17339203,1,1,2,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument complex,Rechteren: grafmonument van de familie Rechteren,Q17460564,1,1,2,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,
+Rijksmonument complex,architectural ensemble,Q1497375,1,1,2,"group of multiple related objects, such as buildings",ensemble of objects|ensemble of buildings|complex|complex of multiple built objects|building ensemble|item with multiple objects,Q12379553,Q18247357|Q618123,Architectural ensemble
+Rijksmonument complex,building complex,Q1497364,1,1,2,set of related buildings,complex of buildings|pile|complex|group of buildings|building group|building cluster,Q56352703,Q1497375|Q618123|Q63341786|Q13226383,
+Rijksmonument complex,complex,Q28231530,1,1,2,"unit of rocks composed of rocks of two or three of the following rock types: metamorphic, igneous or sedimentary; lithodemic units usually of regional extent",complex (geology),,Q101604684,Complex (geology)
+Rijksmonument complex,status epilepticus,Q980709,1,1,2,human disease,SE|petit mal status epilepticus|complex partial status epilepticus|tonic-clonic status epilepticus,Q112193867,Q41571,Status epilepticus
+Rijksmonument complex,Complex Networks,Q56853757,1,1,2,2010 Cambridge University Press edition,,Q3331189,,
+Rijksmonument complex,Complex Portal,Q47196990,1,1,2,biological database,The Complex Portal|complex portal,Q4117139,,
+Rijksmonument complex,complex network,Q665189,1,1,2,network with non-trivial topological features,,,Q135899674,Complex network
+Rijksmonument complex,complex regional pain syndrome,Q1066311,1,1,2,array of painful conditions in humans,shoulder hand syndrome|complex regional pain syndromes (disorder)|reflex neurovascular dystrophy|complex regional pain syndromes|CRPS|reflex sympathetic dystrophy|RSD,Q2057971|Q7189713|Q112193867,Q18554088|Q58490715|Q3339235,Complex regional pain syndrome
+Rijksmonument complex,complex,Q679989,1,1,2,"psychology concept involving a core pattern of emotions, memories, perceptions, and desires",,,Q7048977,Complex (psychology)
+Rijksmonument complex,Complex,Q5156550,1,1,2,American media and entertainment company,"Complex Gaming|Complex Media, Inc.|Complex Networks|Complex magazine and guide",Q4830453|Q41298,,Complex Networks
+Oud Over,Oud Over,Q2189136,2,0,1,"buitenplaats in Loenen aan de Vecht, the Netherlands",,Q2927789|Q1497375,,
+Oud Over,Oud Over,Q67130811,2,0,1,"street in Loenen aan de Vecht, the Netherlands",,Q79007,,
+Oud Over,"Oud Over 59, Loenen aan de Vecht",Q14753810,2,0,1,,,Q2927789,,
+Oud Over,"Oud Over 11, Loenen aan de Vecht",Q17415962,2,0,1,"building in Stichtse Vecht, Netherlands",,Q41176,,
+Oud Over,"Oud Over 9, Loenen aan de Vecht",Q17415961,2,0,1,"building in Stichtse Vecht, Netherlands",,Q41176,,
+Oud Over,"Oud Over 7, Loenen aan de Vecht",Q17415960,2,0,1,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Oud Over,"Oud Over 16, Loenen aan de Vecht",Q17415966,2,0,1,"farmhouse in Stichtse Vecht, Netherlands",,Q489357,,
+Oud Over,"Oud Over 12, Loenen aan de Vecht",Q17415964,2,0,1,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Oud Over,"Oud Over 10, Loenen aan de Vecht",Q17415963,2,0,1,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Oud Over,"Oud Over 28, Loenen aan de Vecht",Q17415967,2,0,1,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Rijksmonument complex,Rijksmonument complex,Q13423591,2,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument complex,Elswout,Q2278595,2,1,1,park in Overveen,rijksmonument complex 339207,Q12292478|Q22698|Q1497375|Q10594991,,Elswout
+Rijksmonument complex,Boeijink,Q18774085,2,1,1,farmgrounds recognized as a rijksmonument,,Q1497375,,
+Rijksmonument complex,Oud Over,Q2189136,2,1,2,"buitenplaats in Loenen aan de Vecht, the Netherlands",,Q2927789|Q1497375,,
+Rijksmonument complex,Oud Over,Q67130811,2,1,2,"street in Loenen aan de Vecht, the Netherlands",,Q79007,,
+Rijksmonument complex,"Oud Over 59, Loenen aan de Vecht",Q14753810,2,1,2,,,Q2927789,,
+Rijksmonument complex,"Oud Over 11, Loenen aan de Vecht",Q17415962,2,1,2,"building in Stichtse Vecht, Netherlands",,Q41176,,
+Rijksmonument complex,"Oud Over 9, Loenen aan de Vecht",Q17415961,2,1,2,"building in Stichtse Vecht, Netherlands",,Q41176,,
+Rijksmonument complex,"Oud Over 7, Loenen aan de Vecht",Q17415960,2,1,2,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Rijksmonument complex,"Oud Over 16, Loenen aan de Vecht",Q17415966,2,1,2,"farmhouse in Stichtse Vecht, Netherlands",,Q489357,,
+Rijksmonument complex,"Oud Over 12, Loenen aan de Vecht",Q17415964,2,1,2,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Rijksmonument complex,"Oud Over 10, Loenen aan de Vecht",Q17415963,2,1,2,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Rijksmonument complex,"Oud Over 28, Loenen aan de Vecht",Q17415967,2,1,2,"house in Stichtse Vecht, Netherlands",,Q3947,,
+Rijksmonument complex,Rijksmonument,Q916333,2,1,2,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument complex,Dutch National Monument List,Q7477362,2,1,2,Dutch database of built heritage,,Q15097084,,
+Rijksmonument complex,Rijksmonument ID,Q103567620,2,1,2,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument complex,Buitenplaats Berbice,Q11721989,2,1,2,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument complex,Museum Boerhaave,Q759169,2,1,2,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument complex,"Huize Duinbeek, Oostkapelle",Q18770297,2,1,2,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument complex,Hofje Meermansburg,Q2432654,2,1,2,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument complex,"Rapenburg 6, Leiden",Q17339203,2,1,2,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument complex,Rechteren: grafmonument van de familie Rechteren,Q17460564,2,1,2,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,
+Gunterstein,Gunterstein,Q19226710,3,0,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q1984500,3,0,1,Dutch summer home on the Vecht,rijksmonument 508235,Q2927789|Q1497375,,Gunterstein Castle
+Gunterstein,Gunterstein,Q19226777,3,0,1,"street in Rotterdam, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q17458775,3,0,1,,,Q1371789,,
+Gunterstein,Gunterstein,Q19226760,3,0,1,"street in Nieuw-Vennep, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q19226793,3,0,1,"street in Zwijndrecht, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q19226741,3,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q19226694,3,0,1,"street in Almelo, the Netherlands",,Q79007,,
+Gunterstein,Gunterstein,Q19226725,3,0,1,"street in Amstelveen, the Netherlands",,Q79007,,
+Gunterstein,Guntersteinweg,Q19226811,3,0,1,"street in Den Haag, the Netherlands",,Q79007,,
+Rijksmonument complex,Rijksmonument complex,Q13423591,3,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument complex,Elswout,Q2278595,3,1,1,park in Overveen,rijksmonument complex 339207,Q12292478|Q22698|Q1497375|Q10594991,,Elswout
+Rijksmonument complex,Boeijink,Q18774085,3,1,1,farmgrounds recognized as a rijksmonument,,Q1497375,,
+Rijksmonument complex,Gunterstein,Q19226710,3,1,2,"street in Amersfoort, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q1984500,3,1,2,Dutch summer home on the Vecht,rijksmonument 508235,Q2927789|Q1497375,,Gunterstein Castle
+Rijksmonument complex,Gunterstein,Q19226777,3,1,2,"street in Rotterdam, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q17458775,3,1,2,,,Q1371789,,
+Rijksmonument complex,Gunterstein,Q19226760,3,1,2,"street in Nieuw-Vennep, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q19226793,3,1,2,"street in Zwijndrecht, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q19226741,3,1,2,"street in Amsterdam, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q19226694,3,1,2,"street in Almelo, the Netherlands",,Q79007,,
+Rijksmonument complex,Gunterstein,Q19226725,3,1,2,"street in Amstelveen, the Netherlands",,Q79007,,
+Rijksmonument complex,Guntersteinweg,Q19226811,3,1,2,"street in Den Haag, the Netherlands",,Q79007,,
+Rijksmonument complex,Rijksmonument,Q916333,3,1,2,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument complex,Dutch National Monument List,Q7477362,3,1,2,Dutch database of built heritage,,Q15097084,,
+Rijksmonument complex,Rijksmonument ID,Q103567620,3,1,2,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument complex,Buitenplaats Berbice,Q11721989,3,1,2,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument complex,Museum Boerhaave,Q759169,3,1,2,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument complex,"Huize Duinbeek, Oostkapelle",Q18770297,3,1,2,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument complex,Hofje Meermansburg,Q2432654,3,1,2,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument complex,"Rapenburg 6, Leiden",Q17339203,3,1,2,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument complex,Rechteren: grafmonument van de familie Rechteren,Q17460564,3,1,2,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,
+Sparrenheuvel,Sparrenheuvel,Q17449474,4,0,1,"Country Estate in Zeist, the Netherlands",,Q2927789,,
+Sparrenheuvel,Sparrenheuvel,Q19532313,4,0,1,"street in Zeist, the Netherlands",,Q79007,,
+Sparrenheuvel,Huis Sparrenheuvel,Q17195400,4,0,1,"building in Bloemendaal, Netherlands",,Q41176,,
+Rijksmonument,Rijksmonument,Q916333,4,1,1,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument,Dutch National Monument List,Q7477362,4,1,1,Dutch database of built heritage,,Q15097084,,
+Rijksmonument,Rijksmonument ID,Q103567620,4,1,1,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument,Rijksmonument complex,Q13423591,4,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument,Buitenplaats Berbice,Q11721989,4,1,1,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument,Museum Boerhaave,Q759169,4,1,1,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument,"Huize Duinbeek, Oostkapelle",Q18770297,4,1,1,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument,Hofje Meermansburg,Q2432654,4,1,1,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument,"Rapenburg 6, Leiden",Q17339203,4,1,1,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument,Rechteren: grafmonument van de familie Rechteren,Q17460564,4,1,1,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,
+Rijksmonument,Sparrenheuvel,Q17449474,4,1,2,"Country Estate in Zeist, the Netherlands",,Q2927789,,
+Rijksmonument,Sparrenheuvel,Q19532313,4,1,2,"street in Zeist, the Netherlands",,Q79007,,
+Rijksmonument,Huis Sparrenheuvel,Q17195400,4,1,2,"building in Bloemendaal, Netherlands",,Q41176,,
+Rijksmonument,monument,Q4989906,4,1,2,"imposing structure created to commemorate a person or event, or used for that purpose",monuments,,Q811979|Q838948,Monument
+Rijksmonument,Monument,Q3458939,4,1,2,"city in Oregon, USA","Monument, Oregon|Monument, OR",Q63440326,,"Monument, Oregon"
+Rijksmonument,Monument,Q3862571,4,1,2,1983 live album by Ultravox,,Q482994,,Monument (Ultravox album)
+Rijksmonument,Monument,Q55641134,4,1,2,"Electoral ward in Newcastle upon Tyne, England",Monument Ward,Q589282,,"Monument, Newcastle upon Tyne"
+Rijksmonument,monument in Fornminnesregistret,Q21287602,4,1,2,Swedish heritage designation,ancient monument in Sweden,,Q358,
+Rijksmonument,Monument (Spain),Q907116,4,1,2,Spanish heritage structures of cultural interest and legal figure of protection for this kind of heritage. Subcategory of BIC,national heritage site in Spain|Monument of the historical heritage of Spain|Monuments|monument in Spain|National monument of Spain,Q30634609|Q23765411,Q23712|Q1019352,National monuments of Spain
+Rijksmonument,monument historique inscrit,Q10387575,4,1,2,national heritage site in France,MH|MH inscrit,Q30634609,Q916475|Q358,
+Rijksmonument,Historic Monument,Q916620,4,1,2,designation for National Heritage Sites in Romania,Romanian cultural property of national significance|National heritage site of Romania,Q30634609,Q358|Q2065736,Monument istoric
+Rijksmonument,Historical Monument,Q916475,4,1,2,protected French building as a Historical Monument (use « classified Historical Monument » and « inscribed Historical Monument »),monument historique|MH,Q914856|Q30634609|Q23765411|Q2065736,Q18013783,Monument historique
+Rijksmonument,remarkable tree,Q811534,4,1,2,"tree which, because of its great age, size or condition, or historical connection, is of exceptional cultural, landscape or nature conservation value",legacy tree|veteran tree|monumental tree|individual tree|famous tree|notable tree|important tree|special tree|memorable tree|historical tree,Q112731293,Q10884|Q138427523|Q618123|Q23790|Q960648,Veteran tree
+Rijksmonument,regional cultural heritage site in Russia,Q105835744,4,1,2,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+Rijksmonument,cultural heritage site in Russia,Q8346700,4,1,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+Rijksmonument,federal cultural heritage site in Russia,Q23668083,4,1,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Rijksmonument,Cultural Monument of Albania,Q30232537,4,1,2,,cultural heritage site of Albania,,Q358,Cultural Monument of Albania
+Rijksmonument,Cultural Heritage Site of National Significance,Q29966257,4,1,2,official Finnish status for cultural heritage,RKY|built cultural environment of national significance,,Q55845509,
+Rijksmonument,local cultural heritage site in Russia,Q105835766,4,1,2,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+Rijksmonument,cultural heritage site in Slovenia,Q18564289,4,1,2,immovable object or area of cultural significance in Slovenia,heritage site in Slovenia,Q74817647,Q358,
+Rijksmonument,Cultural heritage sites in Nuremberg inner city,Q1378183,4,1,2,Wikimedia list article,,Q13406463,,
+Rijksmonument,cultural heritage sites of national significance in Finland,Q3485482,4,1,2,,,Q35127|Q7094076|Q15097084,,
+Rijksmonument,cultural heritage site in Ukraine,Q10296658,4,1,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Ukraine,Q2065736,Q358,
+Rozenburg,Rozenburg,Q2302555,5,0,1,island in the Netherlands,,Q23442,,Rozenburg (island)
+Rozenburg,Rozenburg,Q1019529,5,0,1,"village and district of Rotterdam, Netherlands",,Q532|Q1852859|Q2983893|Q1808877|Q2039348|Q2779745,,Rozenburg
+Rozenburg,Rozenburg,Q2290153,5,0,1,"village in Haarlemmermeer, Netherlands",,Q532|Q1852859,,
+Rozenburg,Plateelbakkerij Rozenburg,Q1865768,5,0,1,ceramics and porcelain factory,"N.V. Haagsche Plateelfabriek Rozenburg|Plateelbakkerij W. Wolff von Gudenberg|Haagsche Plateelbakkerij Rozenburg.|Haagse Plateelbakkerij Rozenburg|N.V. 's-Gravenhaagsche Kunstaardewerkfabriek|Koninklijke Porcelein- en Aardewerkfabriek Rozenburg|Haagsche Plateelbakkerig Rozenburg, The Hague|N.V. Haagse Plateelfabriek Rozenburg|Uitvoering N.V. Haagse Plateelfabriek Rozenburg|Rozenburg Pottery and Porcelain Factory|Haagsche Plateelbakkerij Rozenburg",Q28938152,,
+Rozenburg,Rozenburg,Q83649817,5,0,1,ship built in 1972,IMO 8936724,Q11446,,
+Rozenburg,Rozenburg wind wall,Q25100849,5,0,1,"public artwork by Maarten Struijs and Frans de Wit in Rotterdam, the Netherlands",,Q2529239|Q42948,,Rozenburg wind wall
+Rozenburg,Rozenburg,Q17434525,5,0,1,"building in Middelburg, Netherlands",,Q2927789,,
+Rozenburg,Rozenburg,Q124477996,5,0,1,"estate in Groningen, Netherlands",,Q12292478,,
+Rozenburg,Rozenburg,Q19482684,5,0,1,"street in Emmeloord, the Netherlands",,Q79007,,
+Rozenburg,Rozenburg,Q110806034,5,0,1,neighbourhood in Curaçao,,Q123705,,
+Rijksmonument,Rijksmonument,Q916333,5,1,1,national heritage site of the Netherlands,national heritage site,Q15097084,Q358,Rijksmonument
+Rijksmonument,Dutch National Monument List,Q7477362,5,1,1,Dutch database of built heritage,,Q15097084,,
+Rijksmonument,Rijksmonument ID,Q103567620,5,1,1,identifier for a Dutch monument assigned by the Rijksdienst voor het Cultureel Erfgoed,Rijksmonument identifier,,Q6545185,
+Rijksmonument,Rijksmonument complex,Q13423591,5,1,1,collection of Rijksmonumenten designated as a complex,,,Q1516079|Q916333,
+Rijksmonument,Buitenplaats Berbice,Q11721989,5,1,1,"manor house in Voorschoten, Netherlands",Berbice|Allemansgeest|rijksmonument 414769,Q1497375,,
+Rijksmonument,Museum Boerhaave,Q759169,5,1,1,"museum in Leiden, Netherlands",Boerhaave museum|rijksmonument 25010,Q588140,,Museum Boerhaave
+Rijksmonument,"Huize Duinbeek, Oostkapelle",Q18770297,5,1,1,"country estate in Ostkapelle, Netherlands",rijksmonument 513261,Q1497375,,
+Rijksmonument,Hofje Meermansburg,Q2432654,5,1,1,"hofje in Leiden, Netherlands, located at Oude Vest 159",rijksmonument 25419,Q574990,,
+Rijksmonument,"Rapenburg 6, Leiden",Q17339203,5,1,1,"building in Leiden, Netherlands",rijksmonument 25532|Huis Poelaert,Q41176,,
+Rijksmonument,Rechteren: grafmonument van de familie Rechteren,Q17460564,5,1,1,"grave monument for the Van Rechteren family in the castle complex, Rechterensedijk 3, Dalfsen, Netherlands",rijksmonument 510185,Q6023295,,

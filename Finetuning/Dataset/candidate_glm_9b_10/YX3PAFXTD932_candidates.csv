@@ -1,0 +1,89 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+nnunciation Cathedral,"Cathedral of the Assumption of the Virgin Mary, Varaždin",Q2585341,0,0,2,"church in Varaždin, Croatia",,Q2977,,"Cathedral of the Assumption of the Virgin Mary, Varaždin"
+nnunciation Cathedral,"Cathedral of the Assumption of the Virgin, Tbilisi",Q12864969,0,0,2,"church in Tbilisi, Georgia",,Q2977,,"Cathedral of the Assumption of the Virgin, Tbilisi"
+nnunciation Cathedral,Cathedral of the Dormition of the Mother of God,Q12758474,0,0,2,"church in Šibenik-Knin County, Croatia",,Q2977,,"Cathedral of the Dormition of the Theotokos, Šibenik"
+nnunciation Cathedral,cathedral of the Dormition of the Mother of God,Q61363187,0,0,2,orthodox cathedral in Tuzla,,Q56242225,,"Cathedral of the Dormition of the Theotokos, Tuzla"
+nnunciation Cathedral,Cathedral of the Dormition of the Mother of God,Q25101505,0,0,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of the Dormition of the Mother of God
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,0,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,0,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,0,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,0,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,0,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,0,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,0,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,0,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,0,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,0,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,0,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,0,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,0,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,0,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,0,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,0,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,0,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,0,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,0,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,cathedral,Q2977,0,1,2,"Christian church, which is seat of a bishop",cathedrals|Cathedral Church,Q811102,Q16970,Cathedral
+Eastern Orthodoxy,Catholic cathedral,Q56242215,0,1,2,church that is the seat of the bishop of a diocese of the Catholic Church,cathedral|domus|Cathedral Church,Q811102,Q2977|Q1088552|Q470540,
+Eastern Orthodoxy,Cathedral,Q63271768,0,1,2,album by Oddarrang,,Q482994,,
+Eastern Orthodoxy,Cathedral of the Holy Saviour,Q1539168,0,1,2,"cathedral in Aix-en-Provence, France",Aix Cathedral,Q56242215,,Aix Cathedral
+Eastern Orthodoxy,Toulouse Cathedral,Q2737833,0,1,2,"cathedral located in Haute-Garonne, in France",Cathedral of Saint Etienne,Q56242215|Q2977,,Toulouse Cathedral
+Eastern Orthodoxy,Avignon Cathedral,Q1200500,0,1,2,cathedral in France,Cathédrale Notre-Dame des Doms d'Avignon,Q56242215|Q120560,,Avignon Cathedral
+Eastern Orthodoxy,Cathedral,Q120816321,0,1,2,2019 video game,,Q7889,,
+Eastern Orthodoxy,Notre-Dame de Paris,Q2981,0,1,2,cathedral in Paris,Cathedral Notre Dame de Paris|Notre Dame cathedral|Notre Dame de Paris|Cathedral Basilica of Our Lady of Paris,Q56242215|Q120560|Q317557,,Notre-Dame de Paris
+Eastern Orthodoxy,Cathedral,Q54806994,0,1,2,2002 novel by Michael A. Martin and Andy Mangels,,Q7725634,,
+Eastern Orthodoxy,Cathedral,Q1050878,0,1,2,English doom metal band,,Q56816954,,Cathedral (band)
+Eastern Orthodoxy,local roads in Ukraine,Q115923847,0,1,2,,roads of local importance in Ukraine|local importance roads in Ukraine,Q358078,,
+Monument of urban planning of Ukraine of local importance,Monument of urban planning of Ukraine of local importance,Q124548056,0,2,1,,,Q30634609,Q12138609,
+Monument of urban planning of Ukraine of local importance,"Monument of Urban Planning, Ukraine",Q12138609,0,2,2,official heritage designation,,Q30634609|Q16155011,Q210272,
+Monument of urban planning of Ukraine of local importance,Monument of urban planning and architecture,Q116785594,0,2,2,"historic building in Moscow, Russia",,Q2319498|Q41176,,
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q2600681,1,0,2,"Eastern Orthodox cathedral in Rostov-on-Don, Russia",,Q56242225,,Rostov-on-Don Cathedral
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052472,1,0,2,"church in Alaska, United States",,Q56242215,,"Co-Cathedral of the Nativity of the Blessed Virgin Mary (Juneau, Alaska)"
+Cathedral of the Nativity o the Blessed Virgin Mary,Borongan Cathedral,Q52333927,1,0,2,"Roman Catholic cathedral in Borongan, Eastern Samar, Philippines",Cathedral of the Nativity of the Blessed Virgin Mary|Cathedral Parish of the Nativity of Our Lady,Q56242215,,Borongan Cathedral
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052460,1,0,2,"historic church in Mississippi, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Biloxi, Mississippi)"
+Cathedral of the Nativity o the Blessed Virgin Mary,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk",Q85216424,1,0,2,"Cathedral in Novosibirsk, Russia",Cathedral of the Nativity of the Blessed Virgin Mary,Q16970,,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk"
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q124314657,1,0,2,,,Q56242215,,
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q65157134,1,0,2,"temple in Pustyn, Moscow Oblast, Russia",,Q44539|Q2319498,,
+Cathedral of the Nativity o the Blessed Virgin Mary,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)",Q14704821,1,0,2,"historic church in Nebraska, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)"
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052459,1,0,2,Wikimedia disambiguation page,Cathedral of the Nativity of Our Lady,Q4167410|Q18091489,,Cathedral of the Nativity of the Blessed Virgin Mary
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Dormition of the Most Holy Mother of God and Holy Royal Martyrs,Q17496858,1,0,2,Russian Orthodox cathedral in London,Cathedral of the Nativity of the Most Holy Mother of God and the Holy Royal Martyrs,Q56242225,,Cathedral of the Nativity of the Most Holy Mother of God and the Holy Royal Martyrs
+Cathedral of the Nativity o the Blessed Virgin Mary,Cathedral of the Nativity of the Mother of God,Q112299956,1,0,2,"church in Toronto, Ontario",,Q56242215,,Cathedral of the Nativity of the Mother of God (Toronto)
+Russian Orthodox Church,Russian Orthodox Church,Q60995,1,1,1,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Russian Orthodox Church,Russian Orthodox Church,Q571593,1,1,1,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Russian Orthodox Church,Russian Orthodox Church of Geneva,Q4240411,1,1,1,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Russian Orthodox Church,Russian Orthodox Church,Q3586061,1,1,1,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Russian Orthodox Church,Russian Orthodox Church Outside of Russia,Q912932,1,1,1,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Russian Orthodox Church,history of the Russian Orthodox Church,Q2395219,1,1,1,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Russian Orthodox Church,Russian Orthodox Church in Azerbaijan,Q4075904,1,1,1,,,Q60176300,,Diocese of Baku and Azerbaijan
+Russian Orthodox Church,Russian Orthodox Church Abroad (Agathangelos),Q3586066,1,1,1,,ROCOR (A),Q4316503,,
+Russian Orthodox Church,Russian orthodox church of Biarritz,Q2041472,1,1,1,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Russian Orthodox Church,Russian Orthodox Church Buildings and Sites TR,Q107085711,1,1,1,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q2600681,1,1,2,"Eastern Orthodox cathedral in Rostov-on-Don, Russia",,Q56242225,,Rostov-on-Don Cathedral
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052472,1,1,2,"church in Alaska, United States",,Q56242215,,"Co-Cathedral of the Nativity of the Blessed Virgin Mary (Juneau, Alaska)"
+Russian Orthodox Church,Borongan Cathedral,Q52333927,1,1,2,"Roman Catholic cathedral in Borongan, Eastern Samar, Philippines",Cathedral of the Nativity of the Blessed Virgin Mary|Cathedral Parish of the Nativity of Our Lady,Q56242215,,Borongan Cathedral
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052460,1,1,2,"historic church in Mississippi, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Biloxi, Mississippi)"
+Russian Orthodox Church,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk",Q85216424,1,1,2,"Cathedral in Novosibirsk, Russia",Cathedral of the Nativity of the Blessed Virgin Mary,Q16970,,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk"
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q124314657,1,1,2,,,Q56242215,,
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q65157134,1,1,2,"temple in Pustyn, Moscow Oblast, Russia",,Q44539|Q2319498,,
+Russian Orthodox Church,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)",Q14704821,1,1,2,"historic church in Nebraska, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)"
+Russian Orthodox Church,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052459,1,1,2,Wikimedia disambiguation page,Cathedral of the Nativity of Our Lady,Q4167410|Q18091489,,Cathedral of the Nativity of the Blessed Virgin Mary
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,1,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q2600681,1,2,2,"Eastern Orthodox cathedral in Rostov-on-Don, Russia",,Q56242225,,Rostov-on-Don Cathedral
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052472,1,2,2,"church in Alaska, United States",,Q56242215,,"Co-Cathedral of the Nativity of the Blessed Virgin Mary (Juneau, Alaska)"
+regional cultural heritage site in Russia,Borongan Cathedral,Q52333927,1,2,2,"Roman Catholic cathedral in Borongan, Eastern Samar, Philippines",Cathedral of the Nativity of the Blessed Virgin Mary|Cathedral Parish of the Nativity of Our Lady,Q56242215,,Borongan Cathedral
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052460,1,2,2,"historic church in Mississippi, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Biloxi, Mississippi)"
+regional cultural heritage site in Russia,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk",Q85216424,1,2,2,"Cathedral in Novosibirsk, Russia",Cathedral of the Nativity of the Blessed Virgin Mary,Q16970,,"Cathedral of the Nativity of the Blessed Virgin Mary, Novosibirsk"
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q124314657,1,2,2,,,Q56242215,,
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q65157134,1,2,2,"temple in Pustyn, Moscow Oblast, Russia",,Q44539|Q2319498,,
+regional cultural heritage site in Russia,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)",Q14704821,1,2,2,"historic church in Nebraska, United States",,Q2977,,"Cathedral of the Nativity of the Blessed Virgin Mary (Grand Island, Nebraska)"
+regional cultural heritage site in Russia,Cathedral of the Nativity of the Blessed Virgin Mary,Q5052459,1,2,2,Wikimedia disambiguation page,Cathedral of the Nativity of Our Lady,Q4167410|Q18091489,,Cathedral of the Nativity of the Blessed Virgin Mary
+regional cultural heritage site in Russia,Cathedral of the Nativity,Q4425960,1,2,2,"architectural structure in Orekhovo-Zuyevo, Russia",,Q2319498,,
+regional cultural heritage site in Russia,Cathedral of Baeza,Q2942581,1,2,2,"Roman Catholic cathedral in Baeza, Andalusia, Spain",Baeza Cathedral|Cathedral of the Birth of Our Lady of Baeza|Cathedral of the Nativity of Our Lady of Baeza|Iglesia de la Natividad de Nuestra Señora (Baeza),Q2977|Q4989906,,Baeza Cathedral
+regional cultural heritage site in Russia,Cathedral of the Nativity in Suzdal,Q2494499,1,2,2,"Orthodox cathedral in Suzdal, Vladimir Oblast, Russia",,Q56242225|Q2319498|Q16970,,"Cathedral of the Nativity of the Theotokos, Suzdal"
+regional cultural heritage site in Russia,"Nativity Cathedral, Riga",Q1550015,1,2,2,cathedral,"Cathedral of the Nativity of Christ, Riga",Q56242225,,"Cathedral of the Nativity of Christ, Riga"
+regional cultural heritage site in Russia,Cathedral of the Dormition of the Most Holy Mother of God and Holy Royal Martyrs,Q17496858,1,2,2,Russian Orthodox cathedral in London,Cathedral of the Nativity of the Most Holy Mother of God and the Holy Royal Martyrs,Q56242225,,Cathedral of the Nativity of the Most Holy Mother of God and the Holy Royal Martyrs
+regional cultural heritage site in Russia,Cathedral of the Nativity of Christ,Q4425962,1,2,2,"orthodox church in Starodub, Bryansk Oblast",,Q2031836,,
+regional cultural heritage site in Russia,Cathedral of the Blessed Virgin Mary,Q137425697,1,2,2,"cathedral located in Luxor, Egypt",Cathedral of the Blessed Virgin Mary of Luxor,Q2977,,
+regional cultural heritage site in Russia,"Cathedral of the Blessed Virgin Mary, Belgrade",Q16538404,1,2,2,"church in Belgrade, Serbia",,Q2977,,"Cathedral of the Blessed Virgin Mary, Belgrade"
+regional cultural heritage site in Russia,"Cathedral of the Blessed Virgin Mary, Hamilton",Q19600680,1,2,2,"church in Hamilton East , New Zealand",,Q16970,,"Cathedral of the Blessed Virgin Mary, Hamilton"
+regional cultural heritage site in Russia,Cathedral of the Blessed Virgin Mary,Q27795071,1,2,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of the Blessed Virgin Mary

@@ -1,0 +1,53 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2008h,SN 2008H,Q9330861,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008ha: Der Himmel ist für alle da,Q70002862,0,0,1,,,Q1980247|Q191067,,
+SN 2008h,SN 2008ha,Q2743690,0,0,1,supernova,,Q3937,,SN 2008ha
+SN 2008h,SN 2008hq,Q9331076,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008hx,Q9331085,0,0,1,supernova,,Q3937|Q67206691,,
+SN 2008h,SN 2008hp,Q11835596,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008hl,Q9331073,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008ht,Q9331080,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008hc,Q9331062,0,0,1,supernova,,Q3937,,
+SN 2008h,SN 2008hy,Q9331084,0,0,1,supernova,,Q3937,,
+SN 2001kh,SN 2001kh,Q9328402,1,0,1,supernova,,Q3937,,
+SN!2004hs,,,2,0,0,,,,,
+SN 2007a,SN 2007A,Q9330278,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007af,Q4048837,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007ab,Q9330304,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007aa,Q9330302,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007ad,Q9330307,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007ai,Q9330310,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007ay,Q9330328,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007ap,Q9330320,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007at,Q9330323,3,0,1,supernova,,Q3937,,
+SN 2007a,SN 2007aw,Q9330326,3,0,1,supernova,,Q3937,,
+MENeaCS Abell1285-8-02-4 N,north,Q659,4,0,2,one of the four cardinal directions,N|septentrion|northbound|northerly,Q23718|Q11114344,,North
+MENeaCS Abell1285-8-02-4 N,natural number,Q21199,4,0,2,"ambiguous mathematical term used either for non-negative or for strictly positive integers, depending on usage",counting number,Q77358734|Q66786238,Q12503,Natural number
+MENeaCS Abell1285-8-02-4 N,nitrogen,Q627,4,0,2,"chemical element, symbol N and atomic number 7; most abundant element in Earth atmosphere",element 7|₇N,Q11344|Q2313842,Q19753344|Q19600,Nitrogen
+MENeaCS Abell1285-8-02-4 N,National Center for Biotechnology Information,Q82494,4,0,2,database arm of the US National Library of Medicine,US Center for Biotechnology Information|National Center for Biotechnology Information (NCBI),Q31855|Q5227240|Q8513,,National Center for Biotechnology Information
+MENeaCS Abell1285-8-02-4 N,Nature,Q180445,4,0,2,British scientific journal since 1869,,Q5633421|Q737498,,Nature (journal)
+MENeaCS Abell1285-8-02-4 N,N/n,Q9937,4,0,2,14th letter of the basic Latin alphabet,n|ⁿ|ₙ|en|ɴ|letter N|N-5|N|November|november,,Q19776628|Q3841820,N
+MENeaCS Abell1285-8-02-4 N,neuter,Q1775461,4,0,2,grammatical gender that's neither masculine nor feminine,neuter gender|nt|n|neut|neu,Q162378,Q4423888,Neuter gender
+MENeaCS Abell1285-8-02-4 N,Czech National Authority Database,Q13550863,4,0,2,Authority Database of the National Library of the Czech Republic,AUT|NL CR AUT|NK CR AUT|NKCR Authority Database,Q856638|Q1982918|Q36524,,NKC (identifier)
+MENeaCS Abell1285-8-02-4 N,nonprofit organization,Q163740,4,0,2,organization operated for a collective benefit,"not-for-profit organization|non-profit organization|non profit organization|non-profit organisation|nonprofit organisation|not-for-profit organisation|not for profit organization|civil association|citizen sector organization|civil society organization|non-profit agency|nonprofit institution|non-profit institution|not for profit institution|Organizations, Nonprofit|NPI|np organization|nonprofit|non-profit",Q10541491|Q17197366,Q43229,Nonprofit organization
+MENeaCS Abell1285-8-02-4 N,species nova,Q27652812,4,0,2,phrase used when publishing the name of a new species,new species,Q3062294,Q7432,Species nova
+MENeaCS Abell1285-8-02-4 N,Meniscus,Q27438478,4,0,2,genus of bacteria,,Q16521,,Meniscus (bacterium)
+MENeaCS Abell1285-8-02-4 N,meniscus,Q846928,4,0,2,fibrocartilaginous part of a bone joint,,Q112826905,Q1341063|Q112826975,Meniscus (anatomy)
+MENeaCS Abell1285-8-02-4 N,meniscus,Q898732,4,0,2,optical shape property of the surface of a liquid in its container,,,Q7180938,Meniscus (liquid)
+MENeaCS Abell1285-8-02-4 N,Meniscus glaucopis,Q62862239,4,0,2,species of bacterium,,Q16521,,
+MENeaCS Abell1285-8-02-4 N,meniscus cell,Q111416628,4,0,2,cell type,,Q189118,Q7868,
+MENeaCS Abell1285-8-02-4 N,Meniscus Film Festival,Q6817112,4,0,2,film festival,,Q220505,,Meniscus Film Festival
+MENeaCS Abell1285-8-02-4 N,Meniscus transplant,Q6817114,4,0,2,type of knee surgery,,,,Meniscus transplant
+MENeaCS Abell1285-8-02-4 N,meniscus fibrochondrocyte,Q112117489,4,0,2,cell type,MFCs,Q189118,Q112117484,
+MENeaCS Abell1285-8-02-4 N,Meniscus (optics),Q4290529,4,0,2,,,,Q768575,Meniscus (optics)
+MENeaCS Abell1285-8-02-4 N,Meniscus corrector,Q6817113,4,0,2,negative meniscus lens that is used to correct spherical aberration in image-forming optical systems such as catadioptric telescopes,,Q768575,,Meniscus corrector
+MENeaCS Abell1285-8-02-4 N,nucleus,Q40260,4,0,2,membrane-bounded organelle of eukaryotic cells in which chromosomes are housed and replicated,GO:0005634|cell nuclei|nuclei|cell nucleus,Q5058355,Q14349519,Cell nucleus
+MENeaCS Abell1285-8-02-4 N,Nucleus,Q7068275,4,0,2,2007 video game,,Q7889,,Nucleus (video game)
+MENeaCS Abell1285-8-02-4 N,Nucleus,Q26842588,4,0,2,journal,,Q5633421|Q773668|Q737498,,
+MENeaCS Abell1285-8-02-4 N,atomic nucleus,Q37147,4,0,2,core of the atom; composed of bound nucleons (protons and neutrons),nucleus of atom|nucleus|atom nucleus|nucleus of an atom,Q22675015,Q908049|Q587553|Q28729554,Atomic nucleus
+MENeaCS Abell1285-8-02-4 N,nucleus accumbens,Q1476178,4,0,2,region in the human basal forebrain rostral to the preoptic area of the hypothalamus,Nucleus accumbens|NAcc,Q1620186|Q112826905,Q66590385|Q112826975,Nucleus accumbens
+MENeaCS Abell1285-8-02-4 N,Nucleus,Q126184467,4,0,2,1990 video game,,Q7889,,
+MENeaCS Abell1285-8-02-4 N,neural nucleus,Q1934178,4,0,2,brain structure consisting of a relatively compact cluster of neurons,nucleus|nucleus of neuraxis,Q1620186|Q103843042|Q112826905,Q1620186|Q41800247|Q66593614|Q112826975,Nucleus (neuroanatomy)
+MENeaCS Abell1285-8-02-4 N,subthalamic nucleus,Q2270424,4,0,2,small lens-shaped nucleus in the brain,nucleus of Luys|Luys' nucleus,Q113147341|Q112826905,Q1934178|Q66600577,Subthalamic nucleus
+MENeaCS Abell1285-8-02-4 N,Nucleus,Q942169,4,0,2,British band,,Q215380,,Nucleus (band)
+MENeaCS Abell1285-8-02-4 N,The Nucleus : an international journal of cytology and allied topics,Q27714222,4,0,2,journal,Nucleus (Calcutta)|The Nucleus|Nucleus,Q5633421,,

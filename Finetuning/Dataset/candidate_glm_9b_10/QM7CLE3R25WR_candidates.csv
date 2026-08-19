@@ -1,0 +1,136 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Briefkasten,Briefkasten,Q62610298,0,0,1,"German article in Die Gartenlaube, 1853, no. 4",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q62610302,0,0,1,"German article in Die Gartenlaube, 1853, no. 20",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q123758784,0,0,1,"German article in Die Gartenlaube, 1883, no. 48",,Q191067,,
+Briefkasten,Briefkasten,Q124407458,0,0,1,"German article in Die Gartenlaube, 1883, no. 13",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q124407460,0,0,1,"German article in Die Gartenlaube, 1883, no. 35",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q62610301,0,0,1,"German article in Die Gartenlaube, 1853, no. 7",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q62613608,0,0,1,"German article in Die Gartenlaube, 1873, no. 1",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q62610303,0,0,1,"German article in Die Gartenlaube, 1853, no. 48",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q124407456,0,0,1,"German article in Die Gartenlaube, 1883, no. 41",,Q191067|Q651270,,
+Briefkasten,Briefkasten,Q62610300,0,0,1,"German article in Die Gartenlaube, 1853, no. 6",,Q191067|Q651270,,
+diphtheria,diphtheria,Q134649,0,1,1,infectious disease,Bull neck,Q112193867,Q18553247|Q69084244|Q131345497|Q18123741|Q314676,Diphtheria
+diphtheria,diphtheria antitoxin,Q15893399,0,1,1,medication made up of antibodies,DAT,Q12140|Q35456,Q420496,Diphtheria antitoxin
+diphtheria,diphtheria vaccine,Q4007175,0,1,1,"vaccine against Corynebacterium diphtheriae, the bacterium that causes diphtheria",diphtheria toxoid,Q35456|Q105967696|Q189603,Q58631461,Diphtheria vaccine
+diphtheria,DPT vaccine,Q908600,0,1,1,"vaccine against diphtheria, pertussis, and tetanus",Diphtheria-Tetanus-Pertussis Vaccine|DTP vaccine|DTaP vaccine,Q105967696,Q58631911,DPT vaccine
+diphtheria,Heparin binding EGF like growth factor,Q14914534,0,1,1,mammalian protein found in Homo sapiens,HBEGF|diphtheria toxin receptor (heparin-binding EGF-like growth factor)|diphtheria toxin receptor (heparin-binding epidermal growth factor-like growth factor)|proheparin-binding EGF-like growth factor|heparin-binding epidermal growth factor,Q8054,,
+diphtheria,denileukin diftitox,Q1187179,0,1,1,pharmaceutical drug,Ontak|DAB389 IL2|DT|NAD(+--diphthamide ADP- ribosyltransferase)|Diphtheria toxin precursor|denileukin,Q113145171,Q11173,Denileukin diftitox
+diphtheria,Heparin-binding EGF-like growth factor,Q14914539,0,1,1,mammalian protein found in Mus musculus,diphtheria toxin receptor|uniprot:Q06186|heparin binding epidermal growth factor-like growth factor|proheparin-binding EGF-like growth factor|Hbegf,Q8054,,
+diphtheria,diphtheria toxin,Q421580,0,1,1,exotoxin,diphtheric toxin,Q408649|Q8054,Q184651|Q408649,Diphtheria toxin
+diphtheria,fowlpox,Q18975412,0,1,1,avian disease,"Epithelioma Contagiosum|Fowl Diphtherias|Pox, Bird|Pox, Fowl|Birdpox|Fowl Pox|Variola Avium|Fowl Diphtheria|Bird Pox|Diphtheria, Fowl|Diphtherias, Fowl|obsolete fowlpox",Q140427225,Q12040649|Q12353899,
+diphtheria,"Diphtheria toxin, catalytic domain",Q24727408,0,1,1,InterPro Domain,Diphtheria_toxin_catalytic_dom|IPR022406,Q898273,,
+diphtheria,Diphtheria bacterial carrier state in a rural locality in a period of wide active immunization of children,Q68885420,0,1,2,scientific article published on 01 December 1974,,Q13442814,,
+diphtheria,Diphtheria bacteria carrier state in children,Q68986403,0,1,2,scientific article published on 01 December 1974,,Q13442814,,
+diphtheria,Corynebacterium diphtheriae,Q131649,0,1,2,species of bacterium,,Q16521,,Corynebacterium diphtheriae
+diphtheria,Bacillus diphtheriae,Q133846822,0,1,2,obsolete species of bacteria,Corynebacterium diphtheriae,Q16521,,
+diphtheria,Corynebacterium diphtheriae NCTC 13129,Q21397930,0,1,2,,,Q16521,,
+diphtheria,CRM197,Q25326608,0,1,2,protein,corynebacterium diphtheriae CRM197 protein,Q8054,,CRM197
+diphtheria,Corynebacterium diphtheriae employs specific minor pilins to target human pharyngeal epithelial cells,Q24614910,0,1,2,scientific article,,Q13442814,,
+diphtheria,Corynebacterium diphtheriae genes required for acquisition of iron from haemin and haemoglobin are homologous to ABC haemin transporters,Q30856921,0,1,2,scientific article,,Q13442814,,
+diphtheria,Corynebacterium diphtheriae and its relatives.,Q37198816,0,1,2,scientific article published on December 1970,,Q13442814,,
+diphtheria,Corynebacterium diphtheriae spoligotyping based on combined use of two CRISPR loci,Q39793560,0,1,2,scientific article published on July 2007,,Q13442814,,
+diphtheria,Corynebacterium Diphtheriae,Q95470578,0,1,2,,,Q13442814,,
+diphtheria,Corynebacterium diphtheriae,Q82948331,0,1,2,scientific article published on 01 December 1940,,Q13442814,,
+Zwanglose Blätter,Zwanglose Blätter,Q62615679,0,2,1,"German articles in Die Gartenlaube, 1882, 1883",,Q17518557|Q2915731|Q7725310,,
+Zwanglose Blätter,diphtheria,Q134649,0,2,2,infectious disease,Bull neck,Q112193867,Q18553247|Q69084244|Q131345497|Q18123741|Q314676,Diphtheria
+Zwanglose Blätter,diphtheria antitoxin,Q15893399,0,2,2,medication made up of antibodies,DAT,Q12140|Q35456,Q420496,Diphtheria antitoxin
+Zwanglose Blätter,diphtheria vaccine,Q4007175,0,2,2,"vaccine against Corynebacterium diphtheriae, the bacterium that causes diphtheria",diphtheria toxoid,Q35456|Q105967696|Q189603,Q58631461,Diphtheria vaccine
+Zwanglose Blätter,DPT vaccine,Q908600,0,2,2,"vaccine against diphtheria, pertussis, and tetanus",Diphtheria-Tetanus-Pertussis Vaccine|DTP vaccine|DTaP vaccine,Q105967696,Q58631911,DPT vaccine
+Zwanglose Blätter,Heparin binding EGF like growth factor,Q14914534,0,2,2,mammalian protein found in Homo sapiens,HBEGF|diphtheria toxin receptor (heparin-binding EGF-like growth factor)|diphtheria toxin receptor (heparin-binding epidermal growth factor-like growth factor)|proheparin-binding EGF-like growth factor|heparin-binding epidermal growth factor,Q8054,,
+Zwanglose Blätter,denileukin diftitox,Q1187179,0,2,2,pharmaceutical drug,Ontak|DAB389 IL2|DT|NAD(+--diphthamide ADP- ribosyltransferase)|Diphtheria toxin precursor|denileukin,Q113145171,Q11173,Denileukin diftitox
+Zwanglose Blätter,Heparin-binding EGF-like growth factor,Q14914539,0,2,2,mammalian protein found in Mus musculus,diphtheria toxin receptor|uniprot:Q06186|heparin binding epidermal growth factor-like growth factor|proheparin-binding EGF-like growth factor|Hbegf,Q8054,,
+Zwanglose Blätter,diphtheria toxin,Q421580,0,2,2,exotoxin,diphtheric toxin,Q408649|Q8054,Q184651|Q408649,Diphtheria toxin
+Zwanglose Blätter,fowlpox,Q18975412,0,2,2,avian disease,"Epithelioma Contagiosum|Fowl Diphtherias|Pox, Bird|Pox, Fowl|Birdpox|Fowl Pox|Variola Avium|Fowl Diphtheria|Bird Pox|Diphtheria, Fowl|Diphtherias, Fowl|obsolete fowlpox",Q140427225,Q12040649|Q12353899,
+Zwanglose Blätter,"Diphtheria toxin, catalytic domain",Q24727408,0,2,2,InterPro Domain,Diphtheria_toxin_catalytic_dom|IPR022406,Q898273,,
+Zwanglose Blätter,Briefkasten,Q62610298,0,2,2,"German article in Die Gartenlaube, 1853, no. 4",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q62610302,0,2,2,"German article in Die Gartenlaube, 1853, no. 20",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q123758784,0,2,2,"German article in Die Gartenlaube, 1883, no. 48",,Q191067,,
+Zwanglose Blätter,Briefkasten,Q124407458,0,2,2,"German article in Die Gartenlaube, 1883, no. 13",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q124407460,0,2,2,"German article in Die Gartenlaube, 1883, no. 35",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q62610301,0,2,2,"German article in Die Gartenlaube, 1853, no. 7",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q62613608,0,2,2,"German article in Die Gartenlaube, 1873, no. 1",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q62610303,0,2,2,"German article in Die Gartenlaube, 1853, no. 48",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q124407456,0,2,2,"German article in Die Gartenlaube, 1883, no. 41",,Q191067|Q651270,,
+Zwanglose Blätter,Briefkasten,Q62610300,0,2,2,"German article in Die Gartenlaube, 1853, no. 6",,Q191067|Q651270,,
+The Planet Venus,The Planet Venus,Q112616469,1,0,1,1913 article,,Q191067,,
+The Planet Venus,The Planet Venus,Q99642668,1,0,1,painting by Luis Ricardo Falero,,Q3305213,,
+The Planet Venus,The planet Venus with an angel and the zodiac signs of libra and taurus,Q59555873,1,0,1,painting by Pietro Facchetti,,Q3305213,,
+The Planet Venus,The Planet Venus / Patrick Moore. - 1951,Q101064145,1,0,1,book,,Q3331189,,
+The Planet Venus,The Planet Venus,Q64282543,1,0,1,scientific article published in 1894,,Q13442814,,
+The Planet Venus,The Planet Venus,Q64306722,1,0,1,scientific article published in 1871,,Q13442814,,
+The Planet Venus,The Planet Venus,Q64285703,1,0,1,scientific article published in 1892,,Q13442814,,
+The Planet Venus,The Planet Venus,Q64295975,1,0,1,scientific article published in 1896,,Q13442814,,
+The Planet Venus,The Planet Venus / Carl Sagan. - (1961),Q28245351,1,0,1,scientific article published in 1961,,Q13442814,,
+The Planet Venus,The Planet Venus: Information received from Mariner V and Venera 4 is compared,Q81136169,1,0,1,scientific article,,Q13442814,,
+The Planet Venus,Venus,Q47652,1,0,2,"Roman goddess of love, sexuality, procreation and pleasure",Venus (goddess)|Venus (mythology),Q11688446|Q1470705|Q205985,,Venus (mythology)
+The Planet Venus,Venus,Q1408724,1,0,2,genus of molluscs,,Q16521,,Venus (bivalve)
+The Planet Venus,Venus,Q313,1,0,2,"second planet from the Solar System, tellurian and very similar to Earth",♀|Planet Venus,Q3504248|Q3901935,,Venus
+The Planet Venus,Venus,Q16429830,1,0,2,female given name,Venus (first name)|Venus (given name),Q11879590,,Venus (given name)
+The Planet Venus,Venus,Q16872729,1,0,2,family name,,Q101352,,Venus (surname)
+The Planet Venus,Venus,Q749752,1,0,2,song written and composed by Robbie van Leeuwen; first recorded by Shocking Blue,,Q105543609,,Venus (Shocking Blue song)
+The Planet Venus,Venus,Q114380877,1,0,2,vocal track by Bananarama; 1986 studio recording; cover version,,Q55850593,,
+The Planet Venus,Venus,Q93134935,1,0,2,vocal track by Barry Manilow; 2005 studio recording; cover version,,Q55850593,,
+The Planet Venus,Venus,Q114381993,1,0,2,vocal track by Shocking Blue; 1969 studio recording,,Q55850593,,
+The Planet Venus,Venus,Q93158709,1,0,2,vocal track by Frankie Avalon; 1959 studio recording,,Q55850593,,
+The Planet Venus,PLANET VENUS (NAID 105808),Q67524044,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+The Planet Venus,Planet Venus,Q137903923,1,0,2,"painting in Landshut, Stadtresidenz",,Q1181933,,
+Venus,Venus,Q47652,1,1,1,"Roman goddess of love, sexuality, procreation and pleasure",Venus (goddess)|Venus (mythology),Q11688446|Q1470705|Q205985,,Venus (mythology)
+Venus,Venus,Q1408724,1,1,1,genus of molluscs,,Q16521,,Venus (bivalve)
+Venus,Venus,Q313,1,1,1,"second planet from the Solar System, tellurian and very similar to Earth",♀|Planet Venus,Q3504248|Q3901935,,Venus
+Venus,Venus,Q16429830,1,1,1,female given name,Venus (first name)|Venus (given name),Q11879590,,Venus (given name)
+Venus,Venus,Q16872729,1,1,1,family name,,Q101352,,Venus (surname)
+Venus,Venus,Q749752,1,1,1,song written and composed by Robbie van Leeuwen; first recorded by Shocking Blue,,Q105543609,,Venus (Shocking Blue song)
+Venus,Venus,Q114380877,1,1,1,vocal track by Bananarama; 1986 studio recording; cover version,,Q55850593,,
+Venus,Venus,Q93134935,1,1,1,vocal track by Barry Manilow; 2005 studio recording; cover version,,Q55850593,,
+Venus,Venus,Q114381993,1,1,1,vocal track by Shocking Blue; 1969 studio recording,,Q55850593,,
+Venus,Venus,Q93158709,1,1,1,vocal track by Frankie Avalon; 1959 studio recording,,Q55850593,,
+Venus,PLANET VENUS (NAID 105808),Q67524044,1,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Venus,Planet Venus,Q137903923,1,1,2,"painting in Landshut, Stadtresidenz",,Q1181933,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q115157185,1,2,1,Dec. 1904 column,,Q267628|Q7725310,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q115700443,1,2,1,Jan. 1905 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112613757,1,2,1,March 1913 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q114830268,1,2,1,Nov. 1904 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112123251,1,2,1,Feb. 1913 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112195170,1,2,1,November 1912 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112338700,1,2,1,December 1912 column,,Q651270,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112678408,1,2,1,April 1913 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q112574045,1,2,1,January 1913 column,,Q267628,,
+Nature and Science for Young Folks,Nature and Science for Young Folks,Q115157634,1,2,1,Vol. 32 monthly column,,Q267628|Q7725310,,
+Nature and Science for Young Folks,Nature,Q180445,1,2,2,British scientific journal since 1869,,Q5633421|Q737498,,Nature (journal)
+Nature and Science for Young Folks,Nature Communications,Q573880,1,2,2,scientific journal,Nat Commun|Nature communications,Q5633421|Q737498|Q773668,,Nature Communications
+Nature and Science for Young Folks,Nature medicine,Q1633234,1,2,2,scientific journal,Nature Medicine、Nat. Med.,Q5633421|Q16024164,,Nature Medicine
+Nature and Science for Young Folks,nature,Q7860,1,2,2,"natural, physical, or material world and its phenomena",,Q483247|Q1365054,,Nature
+Nature and Science for Young Folks,Nature Neuroscience,Q1535359,1,2,2,journal,,Q5633421,,Nature Neuroscience
+Nature and Science for Young Folks,Nature Reviews Urology,Q2079265,1,2,2,peer-reviewed scientific journal,Nature Reviews. Urology,Q5633421|Q737498,,Nature Reviews Urology
+Nature and Science for Young Folks,quality,Q1207505,1,2,2,distinguishing feature,feature|attribute|nature|trait|characteristic,Q33104279|Q96253971,Q937228,Quality (philosophy)
+Nature and Science for Young Folks,Nature Chemistry,Q2107904,1,2,2,peer-reviewed scientific journal,,Q5633421,,Nature Chemistry
+Nature and Science for Young Folks,Nature Ecology & Evolution,Q39049712,1,2,2,scientific journal,Nat Ecol Evol|2397-334X|Nature Ecology and Evolution,Q5633421,,Nature Ecology & Evolution
+Nature and Science for Young Folks,nature,Q115519012,1,2,2,"set of essential properties, dispositions and causal links of an individual entity that determine its behaviour",,,Q813912,
+Nature and Science for Young Folks,Science,Q192864,1,2,2,academic journal of the American Association for the Advancement of Science,"Science Magazine|Sci. (N. Y., N. Y.)|science.org|sciencemag.org/",Q5633421|Q737498|Q41298|Q1002697,,Science (journal)
+Nature and Science for Young Folks,science,Q336,1,2,2,"systematic endeavor that builds and organizes knowledge, and the set of knowledge produced by this system",sciences|general science|scientific knowledge|empirical sciences,Q11862829|Q8027727,Q105948247|Q9081|Q221173|Q9471|Q42240|Q105606485,Science
+Nature and Science for Young Folks,Sciences Po,Q859363,1,2,2,"higher-education institution in Paris, France",Institut d'études politiques de Paris|Paris Institute of Political Studies|Sciences Po Undergraduate College,Q875538|Q1542938|Q847027|Q96888669|Q43229,,Sciences Po
+Nature and Science for Young Folks,natural science,Q7991,1,2,2,branch of science about the natural world,natural sciences|natural history|science,Q2465832|Q11862829,Q336,Natural science
+Nature and Science for Young Folks,scientific journal,Q5633421,1,2,2,periodical journal publishing scientific research,scientific magazine|journal|science journal|scientific journals|journals,Q21114848,Q685935|Q591041|Q49850|Q737498,Scientific journal
+Nature and Science for Young Folks,Science,Q113702918,1,2,2,vocal track by Burna Boy; 2022 studio recording,,Q55850593,,
+Nature and Science for Young Folks,science project,Q1298668,1,2,2,"project of one or more scientists, or of an organization in a scientific field",study|research program|research direction|work|research project|scientific project|academic project,Q136937144,Q170584|Q7315176,Science project
+Nature and Science for Young Folks,science fiction,Q24925,1,2,2,genre of fiction,sci fi|sci-fi|science-fiction|sciencefiction|scifi|SF,Q20076756,Q9326077,Science fiction
+Nature and Science for Young Folks,Science of the Total Environment,Q15766357,1,2,2,scientific journal,Sci. Total Environ.,Q5633421|Q737498,,Science of the Total Environment
+Nature and Science for Young Folks,research ethics,Q1132684,1,2,2,ethical practice concerning scientific research,"ethics, research|morality of science|science ethics|ethics of science|ethics in science",,Q378585,Research ethics
+Nature and Science for Young Folks,Young Folks,Q8058121,1,2,2,magazine,,Q41298,,Young Folks (magazine)
+Nature and Science for Young Folks,Young Folks,Q2015888,1,2,2,2006 single by Peter Bjorn and John and Victoria Bergsman,,Q134556|Q105543609,,Young Folks
+Nature and Science for Young Folks,"Young Folks Magazine, Vol. I",Q106450657,1,2,2,"Volume 1, 1902",,Q1238720,,
+Nature and Science for Young Folks,"Young Folks Magazine, Vol. I",Q106450722,1,2,2,1902 version,,Q3331189|Q1238720,,
+Nature and Science for Young Folks,The Children's Robinson Crusoe,Q101153362,1,2,2,retelling of Defoe novel for children,Young Folks' Robinson Crusoe,Q7725634,,
+Nature and Science for Young Folks,"Young Folks, Vol. 1, No. 1",Q106450012,1,2,2,1902 version,,Q3331189|Q28869365|Q1238720,,
+Nature and Science for Young Folks,"Young Folks, Vol. 1, No. 2",Q106452988,1,2,2,1902 version,,Q3331189|Q28869365|Q1238720,,
+Nature and Science for Young Folks,Young Folks' History of Mexico,Q19083607,1,2,2,,,Q3331189,,
+Nature and Science for Young Folks,Venus,Q47652,1,2,2,"Roman goddess of love, sexuality, procreation and pleasure",Venus (goddess)|Venus (mythology),Q11688446|Q1470705|Q205985,,Venus (mythology)
+Nature and Science for Young Folks,Venus,Q1408724,1,2,2,genus of molluscs,,Q16521,,Venus (bivalve)
+Nature and Science for Young Folks,Venus,Q313,1,2,2,"second planet from the Solar System, tellurian and very similar to Earth",♀|Planet Venus,Q3504248|Q3901935,,Venus
+Nature and Science for Young Folks,Venus,Q16429830,1,2,2,female given name,Venus (first name)|Venus (given name),Q11879590,,Venus (given name)
+Nature and Science for Young Folks,Venus,Q16872729,1,2,2,family name,,Q101352,,Venus (surname)
+Nature and Science for Young Folks,Venus,Q749752,1,2,2,song written and composed by Robbie van Leeuwen; first recorded by Shocking Blue,,Q105543609,,Venus (Shocking Blue song)
+Nature and Science for Young Folks,Venus,Q114380877,1,2,2,vocal track by Bananarama; 1986 studio recording; cover version,,Q55850593,,
+Nature and Science for Young Folks,Venus,Q93134935,1,2,2,vocal track by Barry Manilow; 2005 studio recording; cover version,,Q55850593,,
+Nature and Science for Young Folks,Venus,Q114381993,1,2,2,vocal track by Shocking Blue; 1969 studio recording,,Q55850593,,
+Nature and Science for Young Folks,Venus,Q93158709,1,2,2,vocal track by Frankie Avalon; 1959 studio recording,,Q55850593,,

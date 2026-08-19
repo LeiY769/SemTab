@@ -1,0 +1,29 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 011gs,SN-011,Q133878691,0,0,2,pharmaceutical compound,,Q113145171,Q11173,SN-011
+SN 2006az,SN 2006az,Q9329766,1,0,1,supernova,,Q3937,,
+SN 2212bu,,,2,0,0,,,,,
+SN 2007c,SN 2007C,Q9330276,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007co,Q4048836,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007ck,Q4048835,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cz,Q9330380,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cx,Q9330379,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cy,Q9330378,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cs,Q9330373,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cg,Q9330361,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007cu,Q9330375,3,0,1,supernova,,Q3937,,
+SN 2007c,SN 2007ci,Q9330364,3,0,1,supernova,,Q3937,,
+S 2005bq,,,4,0,0,,,,,
+SN 194M,,,5,0,0,,,,,
+SN 1984O,SN 1984O,Q9326861,6,0,1,supernova,,Q3937,,
+SN2003cs,,,7,0,0,,,,,
+S 2000du,,,8,0,0,,,,,
+CRTS LS121104 J021643+204009,Catalina Real-time Transient Survey,Q16918903,9,0,2,sky survey,CRTS,Q550089,,Catalina Real-time Transient Survey
+CRTS LS121104 J021643+204009,Royal Centre for Remote Sensing,Q2946015,9,0,2,Moroccan space agency specialized in remote sensing,CRTS,Q43229|Q2385804,,Royal Center for Remote Sensing
+CRTS LS121104 J021643+204009,CRTS,Q5013952,9,0,2,,,Q28640,,Certified Relocation and Transition Specialist
+CRTS LS121104 J021643+204009,CRTS J052209.7-350530,Q81650960,9,0,2,cataclysmic binary candidate in the constellation Columba,,Q72704237|Q523,,
+CRTS LS121104 J021643+204009,CRTS J011159.8+281927,Q80460468,9,0,2,Algol variable in the constellation Pisces,,Q24452,,
+CRTS LS121104 J021643+204009,CRTS J224552.8+225140,Q76114992,9,0,2,,,Q691269,,
+CRTS LS121104 J021643+204009,CRTS J231126.7-305825,Q82829124,9,0,2,RR Lyrae variable star in the constellation Sculptor,,Q726242,,
+CRTS LS121104 J021643+204009,2MASS J22263275-3404084,Q86308487,9,0,2,possible red giant branch star in the constellation Piscis Austrinus,,Q72802727,,
+CRTS LS121104 J021643+204009,2MASS J01521234-2252493,Q78971094,9,0,2,horizontal branch star in the constellation Cetus,,Q72803426|Q67206691,,
+CRTS LS121104 J021643+204009,[VOB2016] 38.9496,Q77394429,9,0,2,,,Q726242|Q72803426|Q523,,

@@ -1,0 +1,127 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bluecastle Tongue,Bluecastle Tongue,Q64024081,0,0,1,lithostratigraphic unit,,Q2092603,,
+Heinaste Member,Heinaste Member,Q110382128,1,0,1,lithostratigraphic unit,,Q2092603,,
+Copperhead Volcaniclastic Member,Copperhead Volcaniclastic Member,Q64507257,2,0,1,"stratigraphic layer in VIC, Australia",,Q2092603,,
+Tantabiddi Member,Tantabiddi Member,Q64508337,3,0,1,"stratigraphic layer in WA, Australia",,Q2092603,,
+Garnet Canyon Tongue,Garnet Canyon Tongue,Q64302848,4,0,1,,,Q2092603,,
+Garnet Canyon Tongue,Sanup Plateau Member,Q64303893,4,0,2,,,Q2092603,,
+Sanup Plateau Member,Sanup Plateau Member,Q64303893,4,1,1,,,Q2092603,,
+Sanup Plateau Member,Garnet Canyon Tongue,Q64302848,4,1,2,,,Q2092603,,
+Red Bull Member,Red Bull Member,Q64507657,5,0,1,"stratigraphic layer in WA, Australia",,Q2092603,,
+Red Bull Member,Red Bull Racing Team,Q752097,5,0,2,NASCAR team owned by Red Bull,Team Red Bull,Q4830453,,Red Bull Racing Team
+Red Bull Member,Red Bull Racing,Q173663,5,0,2,"Formula One racing team based in Milton Keynes, England",Infiniti Red Bull Racing|Red Bull|Aston Martin Red Bull Racing|Red Bull F1 team|Red Bull Formula One team|Oracle Red Bull Racing,Q10497835,,Red Bull Racing
+Red Bull Member,A.Mattheis Motorsport,Q9613937,5,0,2,Brazilian auto racing team,Ipiranga Racing|Red Bull Racing|Medley-A.Mattheis,Q20074337,,AMattheis Motorsport
+Red Bull Member,Red bull racing,Q16324329,5,0,2,,,,,
+Red Bull Member,Red Bull Racing RB22,Q137830221,5,0,2,2026 Formula One racing car by Red Bull Racing,,Q90834785,Q1002954|Q5399907,Red Bull Racing RB22
+Red Bull Member,Red Bull Racing RB14,Q43868846,5,0,2,Formula 1 race car by Red Bull,Red Bull RB14,Q90834785,Q1002954,Red Bull Racing RB14
+Red Bull Member,Red Bull Racing RB15,Q61705841,5,0,2,2019 Red Bull Racing Formula One car,,Q90834785,Q1002954,Red Bull Racing RB15
+Red Bull Member,Red Bull Racing RB16,Q84475350,5,0,2,Formula 1 racing car,Red Bull RB16|RB16B,Q90834785,Q1002954,Red Bull Racing RB16
+Red Bull Member,Red Bull Racing RB18,Q110606362,5,0,2,2022 Formula One racing car by Red Bull,RB18,Q90834785,Q1002954,Red Bull Racing RB18
+Red Bull Member,Red Bull Racing RB19,Q116626608,5,0,2,2023 Formula One racing car by Red Bull Racing,,Q90834785,,Red Bull Racing RB19
+Binneringie Dolerite Member,Binneringie Dolerite Member,Q65038559,6,0,1,"stratigraphic layer in WA, Australia (reserved)",,Q2092603,,
+Lincoln Gap Siltstone Member,Lincoln Gap Siltstone Member,Q64508757,7,0,1,"stratigraphic layer in SA, Australia",,Q2092603,,
+Homeleigh Agglomerate Member,Homeleigh Agglomerate Member,Q64507428,8,0,1,"stratigraphic layer in NSW, Australia",,Q2092603,,
+Homeleigh Agglomerate Member,agglomerate,Q1257738,8,0,2,coarse accumulation of large blocks of volcanic material that contains at least 75% bombs,,,Q512121,Agglomerate
+Homeleigh Agglomerate Member,agglomerate,Q4056978,8,0,2,"in chemistry, a collection of particles strongly held together",,,,
+Homeleigh Agglomerate Member,agglomerate,Q111518839,8,0,2,in catalysis,,,,
+Homeleigh Agglomerate Member,Ambroid (mineraloid material),Q141017304,8,0,2,refined material of fused (melted and pressed) substandard separate pieces (crumbs) of amber into larger pieces under hydraulic pressure,agglomerated amber|yantaroid,Q214609,Q25381,
+Homeleigh Agglomerate Member,Agglomerate Point,Q21476340,8,0,2,,,Q34763,,
+Homeleigh Agglomerate Member,agglomerate flow,Q12526874,8,0,2,,,,,
+Homeleigh Agglomerate Member,Agglomerate Island,Q22365411,8,0,2,"island in British Columbia, Canada",,Q23442,,
+Homeleigh Agglomerate Member,Agglomerate Hill,Q21966259,8,0,2,mountain in Australia,,Q8502,,
+Homeleigh Agglomerate Member,agglomerated food powder,Q55603337,8,0,2,"unit operation during which native particles are assembled to form bigger agglomerates, in which the original particle can still be distinguished",,,,Agglomerated food powder
+Homeleigh Agglomerate Member,Agglomerated enclosure with hut circles south-west of Ditsworthy Clam,Q17645370,8,0,2,"archaeological site in Shaugh Prior, South Hams, England, UK",,Q839954,,
+Step Ridge Member,Step Ridge Member,Q62556536,9,0,1,lithostratigraphic unit,,Q2092603,,
+Step Ridge Member,Highland Peak Formation,Q62556456,9,0,2,lithostratigraphic unit,,Q736917,,
+Highland Peak Formation,Highland Peak Formation,Q62556456,9,1,1,lithostratigraphic unit,,Q736917,,
+Highland Peak Formation,Step Ridge Member,Q62556536,9,1,2,lithostratigraphic unit,,Q2092603,,
+Vittoria Member,Vittoria Member,Q64508090,10,0,1,"stratigraphic layer in WA, Australia",,Q2092603,,
+Arbitration Cove Sandstone Member,Arbitration Cove Sandstone Member,Q64507033,11,0,1,"stratigraphic layer in WA, Australia",,Q2092603,,
+Shuttleton Rhyolite Member,Shuttleton Rhyolite Member,Q64507693,12,0,1,"stratigraphic layer in NSW, Australia",,Q2092603,,
+Saint Michael Member,Saint Michael Member,Q64507883,13,0,1,"stratigraphic layer in QLD, Australia",,Q2092603,,
+Saint Michael Member,Michael,Q45581,13,0,2,"archangel in Jewish, Christian, and Islamic teachings",Mikael|St. Michael|Saint Michael the Archangel|St Michael the Archangel|The Archangel Michael|Michael the Archangel|Saint Michael|St. Michael the Archangel|St Michael|Archangel Michael|the Right Hand of God|Right Hand of God,Q178342|Q690175|Q10822464|Q4306757,,Michael (archangel)
+Saint Michael Member,Saint Michael,Q26706550,13,0,2,painting by Carlo Crivelli,Saint Michael,Q3305213,,
+Saint Michael Member,Saint Michael,Q819170,13,0,2,parish of Barbados,St. Michael|St Michael,Q1631888,,"Saint Michael, Barbados"
+Saint Michael Member,Saint Michael,Q7401912,13,0,2,"unincorporated community in Benson County, North Dakota","Saint Michael, North Dakota|Saint Michael, ND",Q17343829,,"Saint Michael, North Dakota"
+Saint Michael Member,Saint Michael,Q16695531,13,0,2,Russian ship,,Q207452,,
+Saint Michael Member,St. Michael,Q80160,13,0,2,"city in Alaska, USA","Saint Michael|St. Michael, Alaska|St. Michael, AK",Q1093829,,"St. Michael, Alaska"
+Saint Michael Member,Saint Michael,Q5186087,13,0,2,Saint Michael in Roman Catholicism,,Q10822464|Q2728698|Q28855038,,Saint Michael in the Catholic Church
+Saint Michael Member,Saint Michael,Q18688020,13,0,2,painting by Luca Giordano,St. Michael|St Michael,Q3305213,,Saint Michael (Giordano)
+Saint Michael Member,Saint Michael,Q18573070,13,0,2,painting by Ercole de' Roberti,St. Michael,Q3305213,,
+Saint Michael Member,Saint Michael,Q20201000,13,0,2,painting by Master of Belmonte,,Q3305213,,
+Saint Michael Member,Mikhailo-Arkhangelsky Monastery,Q16676966,13,0,2,monastery in Russia,Michael the Archangel Monastery,Q44613|Q2319498,,
+Saint Michael Member,"Michael the Archangel Church, Ulan-Ude",Q16487506,13,0,2,"temple in Ulan-Ude, Russia",,Q44539|Q2319498,,
+Saint Michael Member,"Michael the Archangel Church, Rokytne",Q4500701,13,0,2,"church building in Rokytne, Ukraine",,Q16970,,
+Saint Michael Member,Michael the Archangel Church in Beliy Rast,Q4500837,13,0,2,"Eastern Orthodox church building in Beliy Rast, Russia",Church of St. Michael the Archangel,Q2031836|Q2319498,,
+Saint Michael Member,"Michael the Archangel's church in Gurasada, Hunedoara",Q12721777,13,0,2,"heritage site in Hunedoara County, Romania",,Q104419518,,
+Saint Michael Member,Michael the Archangel chapel in Balta,Q15218635,13,0,2,church building in Latvia,,Q16970,,
+Saint Michael Member,Michael the archangel church,Q124056663,13,0,2,"church in Tsaritsino, Moscow",,Q2031836,,
+Saint Michael Member,Archangel Michael,Q137755306,13,0,2,"statue in the Museum Schnütgen, Cologne (A 214)",,Q179700,,
+Saint Michael Member,Archangel Michael,Q29473110,13,0,2,quarter of Kato Polemidia Municipality,,Q54809707,,
+Saint Michael Member,Archangel Michael,Q18683117,13,0,2,painting by Andrei Rublev,,Q3305213|Q132137,,
+Saint Michael Member,Archangel Michael,Q59523548,13,0,2,painting by Guido Reni,,Q3305213,,
+Saint Michael Member,Archangel Michael,Q111821637,13,0,2,painting by Jacopo da Pontormo,,Q3305213,,
+Saint Michael Member,Archangel Michael,Q18592732,13,0,2,painting by Mästare av Stroganovskolan,,Q132137|Q3305213,,
+Saint Michael Member,Archangel Michael,Q61747267,13,0,2,painting by Fyodor Bryullo,,Q3305213,,
+Saint Michael Member,Archangel Michael,Q27982892,13,0,2,painting attributed to anonymous Dutch painter (Brügge ?),,Q3305213,,
+Saint Michael Member,Archangel Michael,Q3947687,13,0,2,"painting in Sant'Angelo a Nilo, Naples, Italy, by Marco Pino",Saint Michael Archangel,Q3305213,,
+Maidjunga Member,Maidjunga Member,Q64507860,14,0,1,"stratigraphic layer in NT, Australia",,Q2092603,,
+Maidjunga Member,Maidjunga River,Q21959965,14,0,2,"river in East Arnhem Land, Northern Territory, Australia",,Q4022,,
+Maidjunga Member,Maidjunga Ridge,Q21959966,14,0,2,mountain in Australia,,Q8502,,
+Maidjunga Member,member of parliament,Q486839,14,0,2,representative of the voters to a parliament,MP|member of congress|parliamentarian,Q136649946|Q12737077,Q4175034|Q8191099|Q17279032|Q82955,Member of parliament
+Maidjunga Member,Member of Parliament in the Parliament of England,Q18018860,14,0,2,representative in the House of Commons of the Parliament of England to 1707,Member of the Parliament of England pre-1707|Member of the Parliament of England|English MP|MP|Member of Parliament|Member of the English Parliament,Q4164871,Q486839,
+Maidjunga Member,Teachta Dála,Q654291,14,0,2,member of the Dáil (lower house of the Irish Parliament),member of Parliament|Assembly Delegate|Deputy to the Dail|Teachta Dala|Member of the Dáil|TD|Deputy to the Dáil|Dáil deputy,Q4164871,Q1055894,Teachta Dála
+Maidjunga Member,member of the National Assembly of South Africa,Q16744266,14,0,2,member of the National Assembly of the Parliament of South Africa,member of the South African National Assembly|member of Parliament|MP,Q4164871,Q6814221,
+Maidjunga Member,Member of Parliament,Q16707842,14,0,2,representative in the House of Commons of the Parliament of the United Kingdom,MP|Member of Parliament in the Parliament of the United Kingdom|UK MP|member of the House of Commons|Member of Parliament in the United Kingdom|member of the UK parliament|member of the United Kingdom parliament|member of the British parliament,Q4164871,Q486839,Member of Parliament (United Kingdom)
+Maidjunga Member,Member of the Islamic Consultative Assembly,Q17525449,14,0,2,Representative elected by the voters in Iran,Member of the Islamic Consultative Assembly of Iran|Parliament member|Member of Parliament|Iranian MP,Q4164871,Q486839,
+Maidjunga Member,member of the French National Assembly,Q3044918,14,0,2,Representatives in the National Assembly of France,member of parliament in France|member of the National Assembly of France,Q4164871,Q1055894|Q16060143,Deputy (France)
+Maidjunga Member,member of the House of Lords,Q18952564,14,0,2,member of the upper house of the British parliament,member of the British House of Lords|Member of Parliament of the United Kingdom House of Lords|peer,Q4164871,Q110315045,
+Maidjunga Member,member of the House of Commons of Canada,Q15964890,14,0,2,representative elected by the Canadian voters,member of parliament of Canada|MP in Canada|House member in Canada|MP of Canada|Member of Parliament in Canada|Canadian MP|Canadian Federal Member of Parliament,Q4164871|Q486839,Q1055894,Member of Parliament (Canada)
+Maidjunga Member,member of the Parliament of Finland,Q17592486,14,0,2,parliamentarian in Finland,member of parliament of Finland|kansanedustaja|member of the parliament of Finland|member of the Eduskunta,Q4164871|Q17279032,Q486839,
+Voort Formation,Voort Formation,Q2519832,15,0,1,stratigraphic layer in the Netherlands and Belgium,Voort Member,Q736917|Q2092603,,Voort Formation
+Voort Formation,Veldhoven Formation,Q2391060,15,0,2,,,Q736917,,Veldhoven Formation
+Veldhoven Formation,Veldhoven Formation,Q2391060,15,1,1,,,Q736917,,Veldhoven Formation
+Veldhoven Formation,Voort Formation,Q2519832,15,1,2,stratigraphic layer in the Netherlands and Belgium,Voort Member,Q736917|Q2092603,,Voort Formation
+Salt Ash Coal Member,Salt Ash Coal Member,Q65038509,16,0,1,"stratigraphic layer in NSW, Australia (reserved)",,Q2092603,,
+Salt Ash Coal Member,Salt,Q29653225,16,0,2,family name,,Q101352,,Salt (surname)
+Salt Ash Coal Member,table salt,Q11254,16,0,2,"mineral used as food ingredient, composed primarily of sodium chloride","salt|culinary salt|edible salt|dietary salt|dietary sodium|sodium chloride, dietary",Q10675206|Q169336,Q25403900|Q42527|Q6509670,Salt
+Salt Ash Coal Member,Salticidae,Q11687,16,0,2,family of spiders,jumping spiders,Q16521,,Jumping spider
+Salt Ash Coal Member,Salt-en-Donzy,Q1106355,16,0,2,"commune in Loire, France",Salt,Q484170,,Salt-en-Donzy
+Salt Ash Coal Member,Salt,Q42102464,16,0,2,given name,Salt (given name),Q202444,,
+Salt Ash Coal Member,Salt,Q57400655,16,0,2,2018 action adventure video game developed by Lavaboots Studios,,Q7889,,
+Salt Ash Coal Member,Salta,Q36307,16,0,2,"city located in the Lerma Valley, Argentina",,Q5770918,,Salta
+Salt Ash Coal Member,salt,Q12370,16,0,2,ionic compound composed of cations and anions,salts,Q47154513,Q2366155|Q12037703,Salt (chemistry)
+Salt Ash Coal Member,Salt,Q10660722,16,0,2,Swedish musical group,,Q215380,,
+Salt Ash Coal Member,sodium chloride,Q2314,16,0,2,chemical compound,salt|table salt|common salt|broncho saline|sodium chloride salt,Q113145171,Q1508568|Q44791900,Sodium chloride
+Salt Ash Coal Member,Ash,Q16274951,16,0,2,family name,Ash (family name),Q101352,,
+Salt Ash Coal Member,Ash,Q4804328,16,0,2,"village and civil parish in the Dover district of east Kent, England","Ash, Kent",Q532|Q1115575,,"Ash, Dover District"
+Salt Ash Coal Member,Ash,Q724582,16,0,2,Northern Irish musical group; alternative rock band,,Q215380,,Ash (band)
+Salt Ash Coal Member,Ash,Q46707484,16,0,2,unisex given name,Ash (given name)|Ash (first name),Q3409032|Q1130279,,Ash (name)
+Salt Ash Coal Member,Ash,Q1866659,16,0,2,"village and civil parish in South Somerset, England, United Kingdom","Ash, Somerset|Ash, South Somerset",Q532|Q1115575,,"Ash, South Somerset"
+Salt Ash Coal Member,Ash,Q2270015,16,0,2,"village and civil parish in Surrey, England","Ash, Surrey",Q532|Q1115575,,"Ash, Surrey"
+Salt Ash Coal Member,Ash,Q1917770,16,0,2,"civil parish in the South Derbyshire district of Derbyshire, England","Ash (civil parish), Derbyshire|Ash, Derbyshire",Q1115575,,"Ash, Derbyshire"
+Salt Ash Coal Member,Ash,Q4804335,16,0,2,"village in Sevenoaks, Kent, UK","Ash, Kent|Ash, Sevenoaks",Q532|Q1115575,,"Ash, Sevenoaks District"
+Salt Ash Coal Member,Fraxinus excelsior,Q156907,16,0,2,species of tree,Ash|European Ash|ash|ash tree,Q16521,Q10884|Q1131316,Fraxinus excelsior
+Salt Ash Coal Member,Withania somnifera,Q852660,16,0,2,species of plant,Indian ginseng|Ashwagandha|ashwaganda|winter cherry|ooison gooseberry,Q16521,,Withania somnifera
+Salt Ash Coal Member,coal,Q24489,16,0,2,combustible sedimentary rock composed primarily of carbon,carbone,,Q1408429|Q82480|Q12748,Coal
+Salt Ash Coal Member,Coal,Q24577849,16,0,2,"village in West Manggarai Regency, East Nusa Tenggara, Indonesia",Desa Coal,Q26211545,,
+Salt Ash Coal Member,Coal River,Q268335,16,0,2,left tributary of the Liard River in Canada,,Q4022,,Coal River (Canada)
+Salt Ash Coal Member,Coalition Avenir Québec,Q2348226,16,0,2,"provincial political party in Quebec, Canada",Coalition Avenir Quebec|Coalition for Quebec's Future|CAQ|Coalition for the Future of Quebec|Caquiste|Daded,Q7278,,Coalition Avenir Québec
+Salt Ash Coal Member,mining of coal,Q12880211,16,0,2,process of getting coal out of the ground,coal mining|mining of coal and lignite,,Q306093|Q44497,Coal mining
+Salt Ash Coal Member,Coal,Q17507761,16,0,2,album by Kathy Mattea,,Q482994,,Coal (Kathy Mattea album)
+Salt Ash Coal Member,Black Diamond Resources,Q114556762,16,0,2,Indonesian public company,COAL|PT Black Diamond Resources Tbk,Q891723,,
+Salt Ash Coal Member,coal-fired power station,Q6558431,16,0,2,facility that converts coal into electricity,coal power station|coal-fired power plant|coal power plant,,Q1434958|Q159719,Coal-fired power station
+Salt Ash Coal Member,Coalville,Q955589,16,0,2,"town in Leicestershire, England",,Q3957|Q7897276,,Coalville
+Salt Ash Coal Member,Coal County,Q490727,16,0,2,"county in Oklahoma, United States","Coal County, Oklahoma|Coal County, OK",Q13414760,,"Coal County, Oklahoma"
+Salt Ash Coal Member,member,Q2092603,16,0,2,lithostratigraphic rank,stratigraphic member|geological member|geologic member,,Q3550897,
+Salt Ash Coal Member,Member of the Lok Sabha,Q16556694,16,0,2,representative of the Indian people in the lower house of the Indian Parliament,member of Lok Sabha|Lok Sabha member|Lok Sabha MP,Q4164871,Q486839,"Member of Parliament, Lok Sabha"
+Salt Ash Coal Member,element,Q379825,16,0,2,any one of the distinct objects that make up a set in set theory,member|element of a set|set element|set member|member of a set|piece,Q4897819,Q5358816,Element of a set
+Salt Ash Coal Member,municipal councillor,Q15113603,16,0,2,member of a municipal council in France,member of the municipal council,Q4164871,Q708492,
+Salt Ash Coal Member,Member of the Order of Australia,Q9678710,16,0,2,fourth highest award in the Order of Australia (1975–),AM|Member to the Order of Australia (AM)|Order of Australia member|The Order of Australia member,Q60754876,Q59820617,
+Salt Ash Coal Member,member of the French National Assembly,Q3044918,16,0,2,Representatives in the National Assembly of France,member of parliament in France|member of the National Assembly of France,Q4164871,Q1055894|Q16060143,Deputy (France)
+Salt Ash Coal Member,member of parliament,Q486839,16,0,2,representative of the voters to a parliament,MP|member of congress|parliamentarian,Q136649946|Q12737077,Q4175034|Q8191099|Q17279032|Q82955,Member of parliament
+Salt Ash Coal Member,United States representative,Q13218630,16,0,2,elected member of the U.S. House of Representatives,US representative|U.S. representative|U.S. congressman|U.S. congresswoman|U.S. House representative|US House representative|United States Representative|United States congressperson|U.S. congressperson|US congressperson|member of the United States House of Representatives,Q17279032,Q139796629,United States Representative
+Salt Ash Coal Member,Member of the European Parliament,Q27169,16,0,2,person who has been elected to serve as a popular representative in the European Parliament,MEP|europarliamentarian|eurodeputy,,Q1055894|Q486839,Member of the European Parliament
+Salt Ash Coal Member,Member of Parliament in the Parliament of England,Q18018860,16,0,2,representative in the House of Commons of the Parliament of England to 1707,Member of the Parliament of England pre-1707|Member of the Parliament of England|English MP|MP|Member of Parliament|Member of the English Parliament,Q4164871,Q486839,
+Blackmans Lagoon Member,Blackmans Lagoon Member,Q64507114,17,0,1,"stratigraphic layer in TAS, Australia",,Q2092603,,
+Blackmans Lagoon Member,Blackmans Lagoon,Q21972170,17,0,2,lake in Australia,,Q23397,,

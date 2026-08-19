@@ -1,0 +1,161 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SamsungGalaxy A3,Samsung Galaxy A3,Q28725846,0,0,2,2017 Android smartphone by Samsung,,Q19723451,Q22645,Samsung Galaxy A3 (2017)
+SamsungGalaxy A3,Samsung Galaxy A3 (2016),Q22908471,0,0,2,2015 Android smartphone,,Q19723444,Q17517,Samsung Galaxy A3 (2016)
+SamsungGalaxy A3,Samsung Galaxy A3 2015,Q18549782,0,0,2,Android smartphone by Samsung,,Q19723451,Q22645,Samsung Galaxy A3 (2015)
+SamsungGalaxy A3,Samsung Galaxy A35 5G,Q124813453,0,0,2,2024 Android-based smartphone by Samsung,Samsung Galaxy A35,Q19723451,Q22645,Samsung Galaxy A35 5G
+SamsungGalaxy A3,Samsung Galaxy A30s,Q110393186,0,0,2,2019 smartphone by Samsung Electronics,Galaxy A30s,Q19723444,,Samsung Galaxy A30s
+SamsungGalaxy A3,Samsung Galaxy A36 5G,Q133270095,0,0,2,2025 Android-based smartphone by Samsung,,Q19723451,Q521097,Samsung Galaxy A36 5G
+SamsungGalaxy A3,Samsung Galaxy A31,Q97223461,0,0,2,mid-range Android smartphone from Samsung,Galaxy A31,Q19723451,Q22645,Samsung Galaxy A31
+SamsungGalaxy A3,Samsung Galaxy A32 5G,Q106589768,0,0,2,smartphone model,Samsung Galaxy M32 5G,Q19723451,Q22645,
+SamsungGalaxy A3,Samsung Galaxy A30,Q68025803,0,0,2,2019 smartphone by Samsung Electronics,Galaxy A30|A30|Samsung A30,Q19723451,Q22645,Samsung Galaxy A30
+SamsungGalaxy A3,Samsung Galaxy A32,Q106311190,0,0,2,smartphone model,Galaxy A32,Q19723444,Q22645,Samsung Galaxy A32
+Samsung Halaxy A3,Samsung Galaxy A3,Q28725846,1,0,2,2017 Android smartphone by Samsung,,Q19723451,Q22645,Samsung Galaxy A3 (2017)
+Samsung Halaxy A3,Samsung Galaxy A3 (2016),Q22908471,1,0,2,2015 Android smartphone,,Q19723444,Q17517,Samsung Galaxy A3 (2016)
+Samsung Halaxy A3,Samsung Galaxy A3 2015,Q18549782,1,0,2,Android smartphone by Samsung,,Q19723451,Q22645,Samsung Galaxy A3 (2015)
+Samsung Halaxy A3,Samsung Galaxy A35 5G,Q124813453,1,0,2,2024 Android-based smartphone by Samsung,Samsung Galaxy A35,Q19723451,Q22645,Samsung Galaxy A35 5G
+Samsung Halaxy A3,Samsung Galaxy A30s,Q110393186,1,0,2,2019 smartphone by Samsung Electronics,Galaxy A30s,Q19723444,,Samsung Galaxy A30s
+Samsung Halaxy A3,Samsung Galaxy A36 5G,Q133270095,1,0,2,2025 Android-based smartphone by Samsung,,Q19723451,Q521097,Samsung Galaxy A36 5G
+Samsung Halaxy A3,Samsung Galaxy A31,Q97223461,1,0,2,mid-range Android smartphone from Samsung,Galaxy A31,Q19723451,Q22645,Samsung Galaxy A31
+Samsung Halaxy A3,Samsung Galaxy A32 5G,Q106589768,1,0,2,smartphone model,Samsung Galaxy M32 5G,Q19723451,Q22645,
+Samsung Halaxy A3,Samsung Galaxy A30,Q68025803,1,0,2,2019 smartphone by Samsung Electronics,Galaxy A30|A30|Samsung A30,Q19723451,Q22645,Samsung Galaxy A30
+Samsung Halaxy A3,Samsung Galaxy A32,Q106311190,1,0,2,smartphone model,Galaxy A32,Q19723444,Q22645,Samsung Galaxy A32
+Samsung Galay J7,Samsung Galaxy J7,Q22075480,2,0,2,Android smartphone produced by Samsung,,Q19723451,Q521097,Samsung Galaxy J7
+Samsung Galay J7,Samsung Galaxy J7 (2017),Q43881401,2,0,2,2017 Android-based smartphone by Samsung Electronics,Samsung Galaxy J7 2017|Samsung Galaxy J7 Pro,Q19723451,Q22645,Samsung Galaxy J7 (2017)
+Samsung Galay J7,Samsung Galaxy J7 Pro (2017),Q46626700,2,0,2,,,Q19723444,Q493064|Q17517,Samsung Galaxy J7 Pro (2017)
+Samsung Galay J7,Samsung Galaxy J7 Prime,Q45319400,2,0,2,Android-based smartphone released by Samsung in 2016,Galaxy J7 Prime|J7 Prime|SM-G610|SM-G610F|SM-G610Y|SM-G610M,Q19723451,Q22645,Samsung Galaxy J7 Prime
+Samsung Galay J7,Samsung Galaxy J7 (2016),Q28127307,2,0,2,Android-based smartphone produced by Samsung,,Q19723444,Q17517,Samsung Galaxy J7 (2016)
+Samsung Galay J7,Samsung Galaxy J7 Max,Q45319441,2,0,2,,,Q19723451,Q521097,Samsung Galaxy J7 Max
+Samsung Galay J7,Samsung Galaxy J7 Prime (2017),Q65244222,2,0,2,,,Q19723451,Q521097,
+Samsung Galay J7,Samsung Galaxy J7+,Q104835362,2,0,2,mid range Android smartphone,,,,Samsung Galaxy J7+
+Samsung Galay J7,Samsung Galaxy J7 (2018),Q137612124,2,0,2,2018 mid-range smartphone by Samsung Electronics,,Q19723451,,Samsung Galaxy J7 (2018)
+Samsung Galay J7,Samsung Galaxy J7 Nxt,Q118957475,2,0,2,,,,,
+okia X,,,3,0,0,,,,,
+iPhpne,iPhone,Q2766,4,0,2,line of smartphones developed and marketed by Apple Inc.,iPhone series|iPhone line|iPhone family|IPhone,Q71266741,Q301662|Q22645,IPhone
+iPhpne,iPhone,Q621427,4,0,2,first smartphone of the iPhone line by Apple Inc.,"iPhone (first generation)|iPhone, model A1203|iPhone (original)|iPhone (1st generation)",Q19723451,Q2766,IPhone (1st generation)
+iPhpne,iOS,Q48493,4,0,2,mobile operating system by Apple Inc.,,Q920890|Q14656|Q241317,Q14656|Q920890,IOS
+iPhpne,iPhone 7,Q26831164,4,0,2,Tenth-generation smartphones by Apple Inc.,,Q19723451,Q2766,IPhone 7
+iPhpne,iPhone X,Q39510168,4,0,2,2017 smartphone developed by Apple Inc.,,Q71266741,Q2766,IPhone X
+iPhpne,iPhone 6,Q18010890,4,0,2,group of smartphone models produced by Apple Inc.,iPhone Six|iPhone six|Iphone 6|Apple iPhone 6,Q71266741,Q2766,IPhone 6
+iPhpne,iPhone 5,Q61504,4,0,2,group of smartphone models produced by Apple Inc.,Iphone 5,Q71266741,Q2766,IPhone 5
+iPhpne,iPhone XS,Q56599248,4,0,2,group of smartphone models produced by Apple Inc.,iPhone Ten S|iPhone X S,Q71266741,Q2766,IPhone XS
+iPhpne,iPhone 6S,Q20962117,4,0,2,group of smartphone models produced by Apple Inc.,iPhone 6s|Apple iPhone 6S|Apple iPhone 6s,Q71266741,Q2766,IPhone 6s
+iPhpne,iPhone 3GS,Q300859,4,0,2,group of smartphone models produced by Apple Inc.,Apple iPhone 3GS,Q19723451,Q2766,IPhone 3GS
+iPhpne,I Phone You,Q1655247,4,0,2,2011 film by Tang Dan,,Q11424,,I Phone You
+iPhpne,iPhone 13,Q108118280,4,0,2,15th generation of the iPhone,,Q19723451,Q2766,IPhone 13
+iPhpne,CPD EDITORIAL: i‐Phone applications for the modern day otolaryngologist,Q84803583,4,0,2,scientific article published on 01 August 2010,,Q13442814|Q871232,,
+Nrkia 1,,,5,0,0,,,,,
+HTC#One,HTC One,Q4977466,6,0,2,touchscreen-based Android smartphone by HTC,HTC M7|HTC One J|HTC HTL22|HTC One 802w|HTC One 802d|HTC One 802t,Q19723451,Q22645,HTC One (M7)
+HTC#One,HTC One M9,Q19284651,6,0,2,Android smartphone,HTC One,Q19723451,Q22645,HTC One M9
+HTC#One,HTC One,Q17162456,6,0,2,android smartphone released by HTC (2014),,Q19723451,Q22645,HTC One (E8)
+HTC#One,HTC One series,Q715880,6,0,2,series of smartphones produced by HTC,,Q71266741,Q22645,HTC One series
+HTC#One,HTC One M8,Q15978785,6,0,2,smartphone manufactured by HTC,,Q19723451,Q22645,HTC One (M8)
+HTC#One,HTC One X,Q696371,6,0,2,Android smartphone designed and manufactured by HTC,,Q19723451,Q22645,HTC One X
+HTC#One,HTC One S,Q665229,6,0,2,smartphone model,,Q19723451,Q22645,HTC One S
+HTC#One,HTC One M9+,Q21233160,6,0,2,Android smartphone,,Q19723451,Q22645,HTC One M9+
+HTC#One,HTC One V,Q4040323,6,0,2,smartphone,,Q19723451,Q22645,HTC One V
+HTC#One,HTC One Mini,Q14429090,6,0,2,Android smartphone by HTC,,Q19723451,Q22645,HTC One Mini
+HTC#One,HTC Desire,Q696618,6,0,2,2010 smartphone developed by HTC,HTC Bravo|A8181,Q19723451,Q22645,HTC Desire
+HTC#One,HTC Desire HD,Q698832,6,0,2,Android-based smartphone,,Q19723451,Q22645,HTC Desire HD
+HTC#One,HTC Desire 601,Q16927673,6,0,2,2013 Android-based smartphone by HTC,Desire 601|HTC Desire,Q19723451,Q22645,HTC Desire 601
+HTC#One,HTC Desire V,Q889534,6,0,2,android smartphone,,Q19723451,Q22645,HTC Desire V
+HTC#One,HTC Desire 820,Q18109890,6,0,2,Android-based smartphone,,Q19723451,Q22645,HTC Desire 820
+HTC#One,HTC Desire X,Q1874262,6,0,2,,,Q19723451,Q22645,HTC Desire X
+HTC#One,HTC Desire S,Q700745,6,0,2,2011 Android smartphone,,Q19723451,Q22645,HTC Desire S
+HTC#One,HTC Desire 326G,Q140492146,6,0,2,digital camera model,,Q20741022,Q62927,
+HTC#One,HTC Desire SV,Q140490410,6,0,2,digital camera model,,Q20741022,Q62927,
+HTC#One,HTC Desire 650,Q140493489,6,0,2,digital camera model,,Q20741022,Q62927,
+HTC#One,HTC U11,Q29973575,6,0,2,Android-powered smartphone manufactured and sold by HTC,,Q19723451,Q22645,HTC U11
+HTC#One,HTC U11+,Q46206743,6,0,2,Android-powered smartphone manufactured and sold by HTC,,Q19723451,Q22645,
+HTC#One,HTC U11 Life,Q50376433,6,0,2,Android-powered smartphone manufactured and sold by HTC,,Q18063397|Q19723451,Q22645,
+HTC#One,HTC U12+,Q53997703,6,0,2,Android smartphone manufactured and sold by HTC,HTC U12 Plus,Q19723451,Q22645,HTC U12+
+C One,C-One,Q773844,7,0,1,home computer,,Q473708,,C-One
+C One,C-one,Q11192849,7,0,1,shopping center,,Q11315,,
+C One,C-ONE Technology,Q11827079,7,0,1,electronics company,Pretec,,,
+C One,C One Wash,Q49872544,7,0,1,"natural watercourse in Navajo County, Arizona, United States of America",,Q47521,,
+C One,Cecilia Mara Onesimo,Q99236771,7,0,1,researcher,,Q5,,
+C One,C-one,Q11192847,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+Huawei Honor C,Honor,Q27070331,8,0,2,Chinese smartphone brand,Huawei Honor,Q4830453|Q6881511|Q811701,,Honor (company)
+Huawei Honor C,Huawei Honor 9,Q31088292,8,0,2,Huawei smartphone,,Q19723451,Q22645,Honor 9
+Huawei Honor C,Huawei Honor 8,Q28447832,8,0,2,Phone,,Q19723451,Q22645,Honor 8
+Huawei Honor C,Huawei U8860,Q4040806,8,0,2,mobile phone model,Huawei Honor,Q19723451,Q22645,Huawei U8860 Honor
+Huawei Honor C,Honor 8x,Q85287688,8,0,2,2018 mid-range smartphone by Huawei,Honor 8X|Huawei Honor 8X,Q19723451,Q22645,Honor 8x
+Huawei Honor C,Huawei Honor 3X,Q96418583,8,0,2,Android midrange smartphone,Honor 3X,Q19723451,Q521097,Huawei Honor 3X
+Huawei Honor C,Honor 6 Plus,Q96418587,8,0,2,mobile phone model,Huawei Honor 6 Plus,,,Honor 6 Plus
+Huawei Honor C,Honor Holly,Q56401833,8,0,2,,Huawei Honor Holly,Q19723451,Q22645,
+Huawei Honor C,Huawei Honor 3C Play,Q96418581,8,0,2,smartphone with liquid crystal display,,Q19723451,Q22645,Huawei Honor 3C Play
+Huawei Honor C,Huawei Honor 9 Lite,Q85380230,8,0,2,,Huawei Honor 9 Youth Edition,Q19723451,Q22645,
+Huawei Honor C,Honor C. Prentice,Q52295742,8,0,2,researcher,Honor Prentice|Honor C Prentice,Q5,,
+Huawei Honor C,honor cloth,Q61754994,8,0,2,ornamental textile to hang behind a figure as a sign of respect or veneration,cloth of honor,Q2520975,Q31808206,
+Huawei Honor C,Honor Cry: Aftermath,Q122374142,8,0,2,2018 video game,,Q7889,,
+Huawei Honor C,Honor Cargill-Martin,Q136229170,8,0,2,classicist and author,Honor Cargill|Honor Isobel C Cargill,Q5,,
+Huawei Honor C,Honor Code,Q29416123,8,0,2,episode of NCIS (S3 E7),,Q21191270,,Honor Code (NCIS)
+Huawei Honor C,Honor Diana Child,Q75637348,8,0,2,(born 1936),Honor Child|Honor Matterson|Honor Fremantle,Q5,,
+Huawei Honor C,Honor Cecilia Paget,Q30014975,8,0,2,(born 1907),,Q5,,
+Huawei Honor C,Honor Rosemary Ashburnham,Q75413351,8,0,2,(1949-2017),Honor Ashburnham|Honor Cooke,Q5,,
+Huawei Honor C,honor system,Q17084335,8,0,2,process of governing without enforcement,honour system|honesty system|trust system|honor code,,Q1553864,Honor system
+Huawei Honor C,Honor Appleton,Q18528890,8,0,2,English artist in black and white (1879–1951),Honor Charlotte Appleton|Honor C. Appleton,Q5,,Honor C. Appleton
+Vivr V1,,,9,0,0,,,,,
+TC Tita,Tita,Q2436761,10,0,2,female given name,Tita (first name)|Tita (given name),Q11879590,,
+TC Tita,Tita,Q37496377,10,0,2,family name,,Q101352,,Tita (surname)
+TC Tita,Tita,Q27472889,10,0,2,Bulgarian pop singer,Hristina Milenova Pencheva,Q5,,Tita (singer)
+TC Tita,titanium,Q716,10,0,2,chemical element with symbol Ti and atomic number 22,element 22|22Ti,Q11344|Q2512777|Q1130479,Q19588|Q428766,Titanium
+TC Tita,Titanic,Q25173,10,0,2,"British transatlantic passenger liner, launched and foundered in 1912",The Titanic|RMS Titanic|Royal Mail Steamship Titanic|SS Titanic,Q3362987|Q12859788|Q852190,,Titanic
+TC Tita,Chita,Q495826,10,0,2,"city in Aichi prefecture, Japan",Tita,Q494721,,"Chita, Aichi"
+TC Tita,Titan,Q2565,10,0,2,largest moon of Saturn,Saturn VI,Q1972,,Titan (moon)
+TC Tita,Titanosauria,Q133051,10,0,2,extinct clade of sauropod dinosaurs,Titanosaur|Titanosaurs|Titanosaurian,Q23038290,,Titanosauria
+TC Tita,Tita,Q109792683,10,0,2,person identified in the Museu da Pessoa collection,,Q5,,
+TC Tita,Tita,Q125627710,10,0,2,composição musical de Abdon Milanez,,Q105543609,,
+TC Titan,,,11,0,0,,,,,
+Juawei Honor 3X,Huawei Honor 3X,Q96418583,12,0,2,Android midrange smartphone,Honor 3X,Q19723451,Q521097,Huawei Honor 3X
+Nkia 6,Nokia 6,Q28150977,13,0,2,Nokia-branded mid-range smartphone,,Q19723451,Q22645,Nokia 6
+Nkia 6,Nokia 6630,Q1643391,13,0,2,smartphone,,Q19723451,Q22645|Q3543648,Nokia 6630
+Nkia 6,Nokia 6300,Q1612654,13,0,2,Nokia cell phone model,,Q10929058,Q3543648,Nokia 6300
+Nkia 6,Nokia 6230,Q1136359,13,0,2,Nokia cell phone model,,Q19723444,Q3543648,Nokia 6230
+Nkia 6,Nokia 6680,Q1976578,13,0,2,Nokia mobile phone,,Q19723444,Q22645|Q3543648,Nokia 6680
+Nkia 6,Nokia 6210 Navigator,Q1356126,13,0,2,cell phone model,,Q19723451,Q22645|Q3543648,Nokia 6210 Navigator
+Nkia 6,Nokia 6020,Q2334236,13,0,2,cell phone model by Nokia,,Q10929058,Q3342824,Nokia 6020
+Nkia 6,Nokia 6310i,Q3494814,13,0,2,Nokia mobile phone,,Q10929058,Q3543648,Nokia 6310i
+Nkia 6,Nokia 638,Q12249327,13,0,2,cell phone model,,Q19723444,Q17517,
+Nkia 6,Nokia 6110 Navigator,Q2310335,13,0,2,cell phone model,,Q19723444,Q3543648,Nokia 6110 Navigator
+Nkia 6,Nokia 6.1,Q47086784,13,0,2,Nokia-branded upper-mid-range smartphone,Nokia 6 (2018)|Nokia 6 2018|Nokia 6 second generation,Q19723451,Q22645,Nokia 6.1
+Redpi K20,,,14,0,0,,,,,
+Redoi K20,,,15,0,0,,,,,
+Nokia 05,,,16,0,0,,,,,
+Vamsung Galaxy S,Samsung Galaxy S,Q264059,17,0,2,2010 Android smartphone by Samsung,Samsung Galaxy S i9000t,Q19723451,Q22645,Samsung Galaxy S (1st generation)
+Vamsung Galaxy S,Samsung Galaxy S7,Q22893875,17,0,2,Android smartphone,Galaxy S7|Samsung S7|S7,Q19723451,Q22645,Samsung Galaxy S7
+Vamsung Galaxy S,Samsung Galaxy S6,Q18941713,17,0,2,2015 Android-based smartphone by Samsung Electronics,Galaxy S6|S6|GS6|Samsung S6|Samsung GS6|SGS6|SG6|GS 6|SG 6,Q19723451,Q493064|Q22645,Samsung Galaxy S6
+Vamsung Galaxy S,Samsung Galaxy S10,Q60021939,17,0,2,"Android smartphone series including S10e, S10, S10+ and S10 5G",Galaxy S10|S10|SGS10,Q19723451,Q22645,Samsung Galaxy S10
+Vamsung Galaxy S,Samsung Galaxy S II,Q154851,17,0,2,2011 Android smartphone by Samsung,Samsung Galaxy S 2|SGS2|SGS 2|SGS-2,Q19723451,Q22645,Samsung Galaxy S II
+Vamsung Galaxy S,Samsung Galaxy S5,Q15618594,17,0,2,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+Vamsung Galaxy S,Samsung Galaxy S III mini,Q490473,17,0,2,Android smartphone model,Galaxy S III Mini|Samsung Galaxy S3 Mini|Galaxy S3 Mini,Q19723451,Q22645,Samsung Galaxy S III Mini
+Vamsung Galaxy S,Samsung Galaxy S series,Q73389,17,0,2,series of devices within the Samsung Galaxy series,Galaxy S series,Q71266741,Q493064,Samsung Galaxy S series
+Vamsung Galaxy S,Samsung Galaxy S22 series,Q110800451,17,0,2,group of Android smartphone models produced by Samsung in 2022,,Q71266741|Q135236642,Q22645,Samsung Galaxy S22
+Vamsung Galaxy S,Samsung Galaxy S22 Ultra,Q111754633,17,0,2,2022 flagship smartphone by Samsung Electronics,,Q19723451,Q521097,Samsung Galaxy S22 Ultra
+Vamsung Galaxy S,Samsung Galaxy S Advance,Q25498,17,0,2,,GT-I9070,Q19723451,Q22645,Samsung Galaxy S Advance
+Vamsung Galaxy S,Samsung Galaxy S III Neo,Q18434889,17,0,2,mobile phone model,Samsung Galaxy S3 Neo|Galaxy S III Neo|Galaxy S3 Neo,Q19723451,Q22645,Samsung Galaxy S III Neo
+Vamsung Galaxy S,Samsung Galaxy S III,Q140944,17,0,2,"2012 multi-touch, slate-format smartphone running the Android operating system",SGS3|SGS-3|SGS 3|Galaxy S 3,Q19723451,Q22645,Samsung Galaxy S III
+Vamsung Galaxy S,Samsung Galaxy S III mini Value Edition,Q134516639,17,0,2,Android smartphone model,Samsung Galaxy S III mini VE,Q19723451,Q22645,
+Vamsung Galaxy S,Samsung Galaxy S II Plus,Q6118093,17,0,2,,,Q19723451,Q22645,
+Vamsung Galaxy S,Samsung Galaxy S II HD LTE,Q10852502,17,0,2,smartphone by Samsung Electronics,Samsung Galaxy S II WIMAX,Q19723444,Q17517,Samsung Galaxy S II WiMAX
+Vamsung Galaxy S,Samsung Galaxy S II LTE,Q492585,17,0,2,,Galaxy S II LTE,Q19723451,Q22645,
+Vamsung Galaxy S,Samsung Galaxy S II Epic 4G Touch,Q25450143,17,0,2,,Samsung SPH-D710,Q19723451,Q17517,
+Vamsung Galaxy S,Samsung Galaxy S III Progre,Q11242689,17,0,2,mobile phone model,SCL21,Q19723444,Q17517,Samsung Galaxy S III Progre
+Vamsung Galaxy S,Samsung Galaxy S III (SC-06D),Q11242636,17,0,2,,,Q19723451,Q140944,
+Vamsung Galaxy S,Samsung Galaxy S4,Q5812783,17,0,2,2013 Android smartphone,SHV-E300K/S/L|GT-I9505|GT-I9500|GT-I9505G|Galaxy S4|S4|SGS4,Q19723451,Q22645,Samsung Galaxy S4
+Huawei Mave 30,Huawei Mate 30,Q68952207,18,0,2,smartphone line by Huawei,Huawei Mate30|Mate 30|Mate30|Huawei Mate 30 Pro,Q71266741,Q22645|Q521097,Huawei Mate 30
+Huawei Mave 30,Huawei Mate 30,Q71267608,18,0,2,Android smartphone model,Huawei Mate 30 5G,Q19723451,Q22645,
+Huawei Mave 30,Huawei Mate 30 Pro 5G,Q86258962,18,0,2,,,Q19723451,Q22645,
+Huawei Mave 30,Huawei Mate 30 Pro,Q138356371,18,0,2,"digital: Huawei, Huawei Phones, Phones",,Q19723451,,
+Samuung Galaxy it,galaxy,Q318,19,0,2,large gravitationally bound system of stars and interstellar matter,galaxies|galactic,Q17444909,Q249389,Galaxy
+Samuung Galaxy it,galaxy cluster,Q204107,19,0,2,structure made up of a gravitationally-bound aggregation of hundreds of galaxies; is larger than a galaxy group,cluster of galaxies|galaxy cluster cloud|galactic cluster|large group of galaxies|grouping of galaxies (large),Q17444909,Q14515149|Q249389,Galaxy cluster
+Samuung Galaxy it,Galaxy,Q60787046,19,0,2,1979 video game,,Q7889,,Galaxy (video game)
+Samuung Galaxy it,LA Galaxy,Q204357,19,0,2,"Major League Soccer club in Los Angeles, United States",Galaxy|L.A. Galaxy|Los Angeles Galaxy,Q476028|Q15944511|Q17633526,,LA Galaxy
+Samuung Galaxy it,galaxy group,Q1491746,19,0,2,structure made up of a gravitationally-bound aggregation of about 50 or fewer galaxies; is smaller than a galaxy cluster,galactic group|small group of galaxies|mini-cluster of galaxies|small galactic group|sub-cluster of galaxies|group of galaxies,Q17444909,Q14515149,Galaxy group
+Samuung Galaxy it,Galaxy And Mass Assembly survey,Q5518108,19,0,2,astronomical survey,,Q550089,,Galaxy And Mass Assembly survey
+Samuung Galaxy it,open cluster,Q11387,19,0,2,"group of ""sibling"" stars that are loosely gravitationally bound to one another",open star cluster|galactic cluster (open)|open galactic cluster|galaxy cluster (open)|Trumpler class|OC,Q17444909,Q168845,Open cluster
+Samuung Galaxy it,interacting galaxies,Q28738741,19,0,2,two or more interacting galaxies,galaxy pair,Q17444909,Q1491746,
+Samuung Galaxy it,Galaxy,Q72296918,19,0,2,supercomputer released in 2013,Galaxy - Cray XC30,Q121117,,
+Samuung Galaxy it,Galaxy,Q135454014,19,0,2,2025 video game developed by Lukáš Tejkl,,Q7889,,
+ASUS Zenone 5,ASUS ZenFone 5,Q56271576,20,0,2,android smartphone series,ASUS ZenFone 5 (2014),Q19723451,Q22645,Asus ZenFone 5
+ASUS Zenone 5,ASUS ZenFone 5 (2018),Q18382857,20,0,2,ASUS smartphone,,Q19723451,Q22645,Asus ZenFone 5 (2018)
+ASUS Zenone 5,ASUS ZenFone 5Z,Q55438017,20,0,2,ASUS smartphone,ASUS Zen Fone 5Z,Q19723451,Q22645,Asus ZenFone 5Z

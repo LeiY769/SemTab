@@ -1,0 +1,392 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Montlake Cut,Montlake Cut,Q12062004,0,0,1,"canal segment in King County, Washington, USA",Pike Cut|Portage Cut,Q1210950,,Montlake Cut
+Montlake Cut,Montlake Cut National Waterside Trail,Q67193321,0,0,1,,,,,
+Montlake Cut,Lake Washington,Q1323525,0,0,2,"lake in Washington state, U.S.",,Q23397,,Lake Washington
+Montlake Cut,Lake Washington,Q6478419,0,0,2,"lake in Rhode Island, United States of America",,Q131681|Q23397,,"Lake Washington (Providence County, Rhode Island)"
+Montlake Cut,Lake Washington,Q6478414,0,0,2,"lake in Florida, United States of America",,Q23397,,Lake Washington (Florida)
+Montlake Cut,Lake Washington,Q20707788,0,0,2,"lake in Le Sueur and Blue Earth counties, Minnesota, United States of America",,Q23397,,"Lake Washington (Le Sueur and Blue Earth counties, Minnesota)"
+Montlake Cut,Lake Washington Shipyard,Q6478434,0,0,2,former American shipyard,,Q190928,,Lake Washington Shipyard
+Montlake Cut,Lake Washington,Q49315511,0,0,2,"lake in Yolo County, California, United States of America",,Q23397,,Washington Lake (California)
+Montlake Cut,Lake Washington,Q6478417,0,0,2,"lake in New York, United States of America",,Q23397,,Lake Washington (New York)
+Montlake Cut,Lake Washington,Q21197042,0,0,2,"lake in Meeker County, Minnesota, United States of America",,Q23397,,"Lake Washington (Meeker County, Minnesota)"
+Montlake Cut,Lake Washington,Q49382533,0,0,2,"bay in Plaquemines Parish, United States of America",,Q39594,,
+Montlake Cut,Lake Washington High School,Q6478428,0,0,2,"Kirkland, Washington, United States",,Q9826,,Lake Washington High School
+Montlake Cut,Montlake,Q6906050,0,0,2,"neighborhood in Seattle, Washington, United States of America","Montlake, Seattle",Q123705,,"Montlake, Seattle"
+Montlake Cut,Montlake,Q130757929,0,0,2,Amazon Publishing imprint,Montlake Romance,Q2608849|Q1320047,,
+Montlake Cut,Montlake Branch Library,Q69764552,0,0,2,"public library in Seattle, Washington, USA",,Q11396180|Q28564,,Montlake Branch Library
+Montlake Cut,Montlake Mountain Lookout,Q86928991,0,0,2,historic fire lookout,,Q748998,,
+Montlake Cut,Montlake Bridge,Q6906049,0,0,2,"drawbridge in Seattle, Washington, United States",,Q911663|Q537127,,Montlake Bridge
+Montlake Cut,Montlake Playfield,Q6906051,0,0,2,"park in Washington, United States of America",,Q22698,,Montlake Playfield
+Montlake Cut,Montlake Branch Library,Q129867401,0,0,2,"public library in Seattle, Washington, USA",,Q11396180|Q28564,,Montlake Branch Library
+Montlake Cut,Montlake Playground,Q49527897,0,0,2,park in the United States of America,,Q22698,,
+Montlake Cut,University of Washington,Q219563,0,0,2,"public research university in Seattle, Washington, United States",UW|UDub|UW-Seattle|University of Washington Seattle|U-Dub|U. of W.|Univ. of Washington|washington.edu|U of W,Q62078547|Q23002039|Q875538|Q4671277,,University of Washington
+Montlake Cut,University of Washington Collection (NAID 931),Q59502962,0,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+Montlake Cut,University of Washington Department of Chemistry,Q97958839,0,0,2,academic department at the University of Washington,"University of Washington Chemistry Department|Department of Chemistry, University of Washington|Chemistry Department, University of Washington|UW Department of Chemistry|UW Chemistry Department",Q2467461,,
+Montlake Cut,University of Washington Department of Architecture,Q98844905,0,0,2,academic department at the University of Washington,"Department of Architecture, University of Washington|UW Department of Architecture|UW Architecture",Q2467461|Q10273077,,
+Montlake Cut,University of Washington Department of Civil and Environmental Engineering,Q97990078,0,0,2,academic department at the University of Washington,"University of Washington Department of Civil & Environmental Engineering|Department of Civil and Environmental Engineering, University of Washington|Department of Civil & Environmental Engineering, University of Washington|University of Washington Civil & Environmental Engineering|Civil & Environmental Engineering, University of Washington|UW Civil & Environmental Engineering|UW Civil and Environmental Engineering|CEE|UW CEE",Q2467461,,
+Montlake Cut,University of Washington Department of Chemical Engineering,Q99196105,0,0,2,academic department at the University of Washington,"Department of Chemical Engineering, University of Washington|UW Department of Chemical Engineering|UW ChemE|UW Chemical Engineering|University of Washington Chemical Engineering",Q2467461,,
+Montlake Cut,University of Washington,Q7896563,0,0,2,"light rail station in Seattle, Washington",University of Washington station,Q22808403|Q2175765,,University of Washington station
+Montlake Cut,University of Washington Paul G. Allen School of Computer Science & Engineering,Q98186807,0,0,2,school of the University of Washington,"Paul G. Allen School of Computer Science & Engineering|Paul G. Allen School of Computer Science & Engineering, University of Washington|University of Washington Paul G. Allen School of Computer Science and Engineering|Paul G. Allen School of Computer Science and Engineering|Paul G. Allen School of Computer Science and Engineering, University of Washington|University of Washington Allen School|Allen School, University of Washington|Allen School|UW Computer Science & Engineering|UW Computer Science and Engineering|University of Washington Computer Science & Engineering|University of Washington Computer Science and Engineering|Computer Science & Engineering, University of Washington|Computer Science and Engineering, University of Washington",Q180958,,Paul G. Allen School of Computer Science and Engineering
+Montlake Cut,Washington Huskies men's basketball,Q7971960,0,0,2,basketball team which represents the University of Washington,Washington Huskies men's basketball team|Washington Huskies basketball team|Washington Huskies basketball|Washington men's basketball team|Washington men's basketball|University of Washington Huskies men's basketball team|University of Washington Huskies men's basketball|University of Washington Huskies basketball team|University of Washington Huskies basketball|University of Washington men's basketball team|University of Washington men's basketball|University of Washington basketball team|University of Washington basketball|UW Huskies men's basketball team|UW Huskies men's basketball|UW Huskies basketball team|UW Huskies basketball|UW men's basketball team|UW men's basketball|UW basketball team|UW basketball|U-Dub Huskies men's basketball team|U-Dub Huskies men's basketball|U-Dub Huskies basketball team|U-Dub Huskies basketball|U-Dub men's basketball team|U-Dub men's basketball|U-Dub basketball team|U-Dub basketball|Huskies men's basketball team|Huskies men's basketball|Huskies basketball team|Huskies basketball,Q13393265|Q18558301,,Washington Huskies men's basketball
+Montlake Cut,University of Washington School of Music,Q98035717,0,0,2,school of music,"School of Music, University of Washington|University of Washington Music School|Music School, University of Washington|UW Music|UW School of Music",Q1021290|Q180958,,
+United States of America,United States,Q30,0,1,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,0,1,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,0,1,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,0,1,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,0,1,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,0,1,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,0,1,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,0,1,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,0,1,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,0,1,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States Census Bureau,Q637413,0,1,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+United States of America,Mexico,Q96,0,1,2,country in North America,Mexican United States|Mexican Republic|US of M|United States of Mexico|mx|United Mexican States|MXN,Q3624078|Q6256|Q6266,,Mexico
+United States of America,United States dollar,Q4917,0,1,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States of America,National Gallery of Art,Q214867,0,1,2,"national art museum in Washington, D.C.","Mellon Gallery of Art|National Art Gallery (U.S.)|United States. National Gallery of Art|National Gallery|National Gallery of Art (U.S.)|National Gallery of Art (Washington, D.C.)|National Gallery of Art (Washington D.C.)|U.S. National Gallery of Art|US National Gallery of Art|National Gallery of Art",Q3844310|Q2085381|Q163740|Q20857065|Q221096,,National Gallery of Art
+United States of America,Republican Party,Q29468,0,1,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+United States of America,Democratic Party,Q29552,0,1,2,American political party,Democrats|Democrat|Democratic Party (United States)|Dems|Democratic Party of the United States|United States Democratic Party|US Democratic Party|U.S. Democratic Party|The Democrats,Q7278,,Democratic Party (United States)
+United States of America,National Institute for Occupational Safety and Health,Q60346,0,1,2,United States government research agency for preventing work-related health and safety problems,NIOSH|National Institute of Occupational Safety and Health|N.I.O.S.H.|U.S. Bureau of Occupational Safety and Health|United States Bureau of Occupational Safety and Health|Bureau of Occupational Safety and Health,Q20857065,,National Institute for Occupational Safety and Health
+United States of America,Supreme Court of the United States,Q11201,0,1,2,highest court of jurisdiction in the United States of America,SCOTUS|Supreme Court|United States Supreme Court|US Supreme Court|U.S. Supreme Court|Supreme Court of the U.S.|Article 3 Court|Article III Court|Article Three Court|Supreme Court of the United States of America,Q190752|Q119173073|Q4663903,,Supreme Court of the United States
+United States of America,National Register of Historic Places,Q3719,0,1,2,federal list of historic sites in the United States,NRHP|United States National Register of Historic Places|US NRHP|U.S. NRHP|U.S. National Register of Historic Places,Q15097084|Q22222786,,National Register of Historic Places
+United States of America,USA Network,Q248713,0,1,2,American cable television channel,USA,Q5009242,,USA Network
+United States of America,United States Army,Q9212,0,1,2,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+United States of America,USA,Q2195271,0,1,2,1975 live album by King Crimson,,Q482994,,USA (King Crimson album)
+United States of America,Usa,Q6476962,0,1,2,"river in Belarus, upper right-side tributary of the Neman",Уса|Вуса,Q4022,,
+United States of America,Usa,Q12523556,0,1,2,"village in Bone Regency, South Sulawesi, Indonesia",,Q26211545,,
+United States of America,Usa,Q6543186,0,1,2,village in Belarus,,Q65661087,,
+United States of America,Usain Bolt,Q1189,0,1,2,Jamaican sprinter,,Q5,,Usain Bolt
+United States of America,American English,Q7976,0,1,2,set of dialects of the English language spoken in the United States,English (United States)|United States English|U.S. English|US English|AmE|USA English,Q951873|Q33742|Q33384,Q7053766,American English
+Culver Cut,Culver Cut,Q34748511,1,0,1,,,Q1210950,,
+United States of America,United States,Q30,1,1,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,1,1,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,1,1,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,1,1,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,1,1,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,1,1,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,1,1,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,1,1,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,1,1,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,1,1,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States Census Bureau,Q637413,1,1,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+United States of America,Mexico,Q96,1,1,2,country in North America,Mexican United States|Mexican Republic|US of M|United States of Mexico|mx|United Mexican States|MXN,Q3624078|Q6256|Q6266,,Mexico
+United States of America,United States dollar,Q4917,1,1,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States of America,National Gallery of Art,Q214867,1,1,2,"national art museum in Washington, D.C.","Mellon Gallery of Art|National Art Gallery (U.S.)|United States. National Gallery of Art|National Gallery|National Gallery of Art (U.S.)|National Gallery of Art (Washington, D.C.)|National Gallery of Art (Washington D.C.)|U.S. National Gallery of Art|US National Gallery of Art|National Gallery of Art",Q3844310|Q2085381|Q163740|Q20857065|Q221096,,National Gallery of Art
+United States of America,Republican Party,Q29468,1,1,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+United States of America,Democratic Party,Q29552,1,1,2,American political party,Democrats|Democrat|Democratic Party (United States)|Dems|Democratic Party of the United States|United States Democratic Party|US Democratic Party|U.S. Democratic Party|The Democrats,Q7278,,Democratic Party (United States)
+United States of America,National Institute for Occupational Safety and Health,Q60346,1,1,2,United States government research agency for preventing work-related health and safety problems,NIOSH|National Institute of Occupational Safety and Health|N.I.O.S.H.|U.S. Bureau of Occupational Safety and Health|United States Bureau of Occupational Safety and Health|Bureau of Occupational Safety and Health,Q20857065,,National Institute for Occupational Safety and Health
+United States of America,Supreme Court of the United States,Q11201,1,1,2,highest court of jurisdiction in the United States of America,SCOTUS|Supreme Court|United States Supreme Court|US Supreme Court|U.S. Supreme Court|Supreme Court of the U.S.|Article 3 Court|Article III Court|Article Three Court|Supreme Court of the United States of America,Q190752|Q119173073|Q4663903,,Supreme Court of the United States
+United States of America,National Register of Historic Places,Q3719,1,1,2,federal list of historic sites in the United States,NRHP|United States National Register of Historic Places|US NRHP|U.S. NRHP|U.S. National Register of Historic Places,Q15097084|Q22222786,,National Register of Historic Places
+United States of America,USA Network,Q248713,1,1,2,American cable television channel,USA,Q5009242,,USA Network
+United States of America,United States Army,Q9212,1,1,2,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+United States of America,USA,Q2195271,1,1,2,1975 live album by King Crimson,,Q482994,,USA (King Crimson album)
+United States of America,Usa,Q6476962,1,1,2,"river in Belarus, upper right-side tributary of the Neman",Уса|Вуса,Q4022,,
+United States of America,Usa,Q12523556,1,1,2,"village in Bone Regency, South Sulawesi, Indonesia",,Q26211545,,
+United States of America,Usa,Q6543186,1,1,2,village in Belarus,,Q65661087,,
+United States of America,Usain Bolt,Q1189,1,1,2,Jamaican sprinter,,Q5,,Usain Bolt
+United States of America,American English,Q7976,1,1,2,set of dialects of the English language spoken in the United States,English (United States)|United States English|U.S. English|US English|AmE|USA English,Q951873|Q33742|Q33384,Q7053766,American English
+Walney Channel,Walney Channel,Q12719503,2,0,1,"channel in the United Kingdom, separating Walney Island from the mainland of Great Britain",,Q1210950,,Walney Channel
+Walney Channel,Walney Island,Q494853,2,0,2,"island in Cumbria, England, UK",Isle of Walney|Walney,Q23442,,Walney Island
+Walney Channel,Walney Aerodrome,Q2785373,2,0,2,airport in the United Kingdom,BWF|EGNL|Walney Island Airport,Q1248784|Q94993988,,Walney Aerodrome
+Walney Channel,Walney Island Trust,Q122682514,2,0,2,UK academy trust,,Q105400450,,
+Walney Channel,Walney Bridge,Q7963551,2,0,2,bridge in Barrow-in-Furness,,Q911663|Q537127,,Walney Bridge
+Walney Channel,Walney Wind Farm,Q1330226,2,0,2,offshore wind farm off the coast of Cumbria,Walney Extension,Q1357601|Q159719,,Walney Wind Farm
+United Kingdom,United Kingdom,Q145,2,1,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,2,1,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,2,1,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,2,1,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,2,1,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,2,1,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,2,1,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,2,1,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,2,1,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,2,1,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+United Kingdom,Walney Channel,Q12719503,2,1,2,"channel in the United Kingdom, separating Walney Island from the mainland of Great Britain",,Q1210950,,Walney Channel
+United Kingdom,British Isles,Q38272,2,1,2,group of islands in northwest Europe,Britain and Ireland|Atlantic Archipelago|Great Britain and Ireland|the Britains|The Isles|British Islands,Q33837|Q1402592,,British Isles
+United Kingdom,British Isles,Q105970369,2,1,2,"map by George Lily, 1546",Britanniae insulae quae nunc Angliae et Scotia regna continent cum Hibernia adiacente nova descriptio,Q4006|Q25106976,,
+United Kingdom,British Isles team,Q919609,2,1,2,national sports team at the International Lawn Tennis Challenge (later Davis Cup),British Isles Davis Cup team,Q66817758,,
+United Kingdom,British Isles Congenital Cataract Interest Group,Q114429437,2,1,2,researcher,,Q1241025,,
+United Kingdom,climate of the British Isles,Q3680726,2,1,2,Inglese,the British Isles climate|British Isles climate,Q46997958,,Climate of the British Isles
+United Kingdom,British Isles fixed sea link connections,Q1672812,2,1,2,proposed Great Britain-Ireland tunnels or bridges,Irish Sea fixed crossing,Q27464969,,Proposed British Isles fixed sea link connections
+United Kingdom,rugby union in the British Isles,Q7378499,2,1,2,,British Isles rugby union,Q29791211,,Rugby union in the British Isles
+United Kingdom,Triple Crown Tournament,Q5198008,2,1,2,cricket competition from 1993 to 2001,British Isles Championship,Q13406554,,Triple Crown Tournament
+United Kingdom,British Isles – A Natural History,Q4970173,2,1,2,documentary TV series,,Q5398426,,British Isles – A Natural History
+United Kingdom,British Isles Terminology task force,Q21829010,2,1,2,Wikimedia subject-area collaboration,WikiProject British Isles Terminology|Wikipedia:British Isles Terminology task force|British Isles Terminology task force,Q110059964,,Wikipedia:British Isles Terminology task force
+United Kingdom,Great Britain,Q23666,2,1,2,island in the North Atlantic Ocean off the northwest coast of continental Europe,Gt. Brit|GB|Blighty|Albion|Britannia|GBR|mainland Britain|Britain,Q23442,,Great Britain
+United Kingdom,National Portrait Gallery,Q238587,2,1,2,"art museum in London, England, United Kingdom",National Portrait Gallery (London),Q207694|Q17431399|Q3343298,,"National Portrait Gallery, London"
+United Kingdom,House of Commons,Q11005,2,1,2,lower house in the Parliament of the United Kingdom,British House of Commons|United Kingdom House of Commons|UK House of Commons|The Honourable the Commons of the United Kingdom of Great Britain and Northern Ireland in Parliament assembled|The Commons|Great Britain. Parliament. House of Commons -- Biography|Great Britain. Parliament -- Elections|Great Britain. Parliament -- Records and correspondence|MP,Q9247597,,House of Commons of the United Kingdom
+United Kingdom,Guernsey,Q25230,2,1,2,one of the British Crown Dependencies in the Channel Islands,GB-GSY|Bailliage de Guernesey|XA-GG|GBG|Great Britain Guernsey|Lisia|gg|Giernési|Bailliage dé Guernési|Bailiwick of Guernsey,Q185086|Q4996207,,Bailiwick of Guernsey
+United Kingdom,Great Britain,Q138527639,2,1,2,1875 chapter,,Q1980247,,
+United Kingdom,National Health Service,Q918396,2,1,2,publicly-funded healthcare systems in the United Kingdom,NHS|Great Britain National Health Service|N.H.S.,Q28821169|Q121182|Q210588,,National Health Service
+United Kingdom,Great Britain,Q749109,2,1,2,"sport delegation at the Olympics and Paralympics, grouping the United Kingdom, its overseas territories and the Crown dependancies",Great Britain and Northern Ireland Olympic Team|Team GB|GBR,Q26213387,,Great Britain at the Olympics
+Galernyy Farvater,Galernyy Farvater,Q34638527,3,0,1,,,Q1210950,,
+Russia,Russia,Q159,3,1,1,"country in Eastern Europe and Northern Asia, the largest in the world by area",Russian Federation|RU|RUS|RF,Q3624078|Q859563|Q6256|Q1323642|Q127693126,,Russia
+Russia,Russian Empire,Q34266,3,1,1,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Russia,Russia,Q23890440,3,1,1,genus of Ostracoda,,Q23038290,,
+Russia,Russian,Q7737,3,1,1,East Slavic language,Russian language|Russkiy|Russkiy yazyk,Q34770|Q1288568|Q33742,Q144713,Russian language
+Russia,Russian Wikipedia,Q206855,3,1,1,[ru] Russian-language edition of Wikipedia,,Q10876391,,Russian Wikipedia
+Russia,Russian Soviet Federative Socialist Republic,Q2184,3,1,1,constituent republic of the Soviet Union (1922–1991),Soviet Russian Republic|Russian Socialist Federative Soviet Republic|Russian SFSR|Soviet Russia|RSFSR|Russian Soviet Federal Socialist Republic|Russian Soviet Federated Socialist Republic|Russian Socialist Federated Soviet Republic|R.S.F.S.R.|the Russian SFSR|Communist Russia|Russian S.F.S.R.,Q3024240|Q236036|Q3624078|Q113393649|Q6256,,Russian Soviet Federative Socialist Republic
+Russia,Russian Wikisource,Q15634506,3,1,1,edition of the free library,ruwikisource|ru.wikisource.org,Q15156455|Q21286559,,
+Russia,Communist Party of the Soviet Union,Q79854,3,1,1,Marxist–Leninist founding and ruling party of the Soviet Union,CPSU|Bolshevik Party|Russian Communist Party (Bolsheviks)|RCP(b)|All-Union Communist Party (Bolsheviks),Q233591,,Communist Party of the Soviet Union
+Russia,Alaska,Q797,3,1,1,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Russia,Eastern Front,Q189266,3,1,1,1941–1945 World War II theater,Great Patriotic War|Eastern Campaign|Russian Campaign|German-Soviet War|Soviet-German War|Eastern Front of World War II,Q842332|Q198,,Eastern Front (World War II)
+Russia,Federation Council,Q186473,3,1,2,upper house of the Federal Assembly of Russia,Council of the Federation|Senat of Russia|Senate of Russia|Russian Federation Council|Russian Senate,Q637846,,Federation Council (Russia)
+Russia,State Prize of the Russian Federation,Q4146631,3,1,2,"award in Russia (prize in science and technology, in literature and the arts, in humanitarian activities)",Russian Federation national award,Q133844055|Q3302125,,State Prize of the Russian Federation
+Russia,Russian Federation Presidential Certificate of Honour,Q211167,3,1,2,honorary award bestowed by the President of Russia,Certificate of Merit of the President of Russia|Certificate of the President of the Russian Federation,Q39355398|Q618779,,Russian Federation Presidential Certificate of Honour
+Russia,Russian Federation,Q4397930,3,1,2,series of coins,,Q113813711,Q41207,
+Russia,Russian Federation Government Certificate of Honour,Q4375455,3,1,2,Russian honorary award,,Q39355398,Q39355398,Certificate of Honor of the Government of the Russian Federation
+Russia,Russian Federation Presidential Certificate of Gratitude,Q19399024,3,1,2,Certificate of the President of the Russian Federation,,Q618779,,
+Russia,Russian Federation's Government Award,Q4375940,3,1,2,Russian award,,Q618779|Q107655869|Q140362944,Q618779,
+Russia,Russian Federation Ministry of Sport,Q2895997,3,1,2,Federal executive body in Russia,,Q4481741|Q107099245,,Ministry of Sport (Russia)
+Russia,Federal Law of the Russian Federation,Q4481771,3,1,2,type of law in Russia,Federal Law (Russian Federation)|Russian Federation Federal Law|Russian Federal Law|russian law|law of russian federation|law of russia,Q820655|Q11028,Q1006612,
+Russia,Rossiya,Q58374862,3,1,2,planned Project 1164 Atlant cruiser of the Soviet Navy,Oktyabr`skaya revolyutsiya,Q1361980,,
+Russia,Rossiya,Q65053132,3,1,2,120/128-gun ship of the line built for the Imperial Russian Navy in the late 1830s,Ship of the line Rossiya (1839),Q892367,,Russian ship of the line Rossiya
+Russia,Rossiya,Q727452,3,1,2,airline based in Russia,Rossiya Airlines|Rossiya Airlines Joint-Stock Company,Q46970|Q4830453,,Rossiya Airlines
+Russia,Tupolev Tu-114 Rossiya,Q616158,3,1,2,four-engined turboprop airliner,Tu-114 Rossiya|Rossiya|Cleat|TU-114,Q210932,Q19762458,Tupolev Tu-114
+Russia,Russia-1,Q211511,3,1,2,television station,Rossiya-1,Q1616075|Q2001305,,Russia-1
+Russia,Rossiya,Q355181,3,1,2,Arktika-class icebreaker built in 1985,IMO 8424240,Q544823,,Rossiya (1983 icebreaker)
+Russia,Rossiya,Q1631097,3,1,2,ship built in 1978,IMO 7638155,Q18916020,,
+Russia,Russia,Q109806507,3,1,2,cast iron sculpture by Nikolay Laveretsky,Rossiya,Q860861,,
+Russia,Rossiya,Q19915347,3,1,2,newspaper in imperial Russia (1899-1902),,Q11032,,
+Canal del Sur,Canal del Sur,Q23681969,4,0,1,,,Q41982239,,
+Canal del Sur,Canal del Sur,Q34967811,4,0,1,channel in Puerto Rico,,Q1210950,,
+Canal del Sur,Canal del Sur,Q21831320,4,0,1,,,Q1210950,,
+Canal del Sur,Canal del Sur,Q23979406,4,0,1,,,Q41982239,,
+Canal del Sur,Canal du Midi,Q202494,4,0,1,canal in Southern France,canal of the two seas|Canal de las Doas Mars|Canal Royal en Languedoc,Q2936105,,Canal du Midi
+Canal del Sur,Canal del Sur,Q23990846,4,0,1,watercourse in Spain,,Q355304,,
+Canal del Sur,Canal del Sur,Q21625760,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Canal del Sur,Canal Sur Televisión,Q2743194,4,0,2,Channel of emission in Andalusia,Canal Sur,Q1616075|Q17232649,,Canal Sur
+Canal del Sur,Canal Sur,Q34967891,4,0,2,,,Q1210950,,
+Canal del Sur,Canal SUR,Q130240144,4,0,2,American Spanish-language cable television channel,,Q2001305,,Canal SUR (United States)
+Canal del Sur,Canal Sur,Q21831319,4,0,2,"canal in Province of Buenos Aires, Argentina",,Q12284,,
+Canal del Sur,Canal Sur,Q21831318,4,0,2,,,Q1210950,,
+Canal del Sur,Canal Sur,Q27793969,4,0,2,"canal in Coahuila, Mexico",,Q12284,,
+Canal del Sur,Canal Sur,Q22401900,4,0,2,,,Q41982239,,
+Canal del Sur,Canal Sur,Q21827929,4,0,2,,,Q1210950,,
+Canal del Sur,Canal Sur,Q27844558,4,0,2,,,Q491713,,
+Canal del Sur,Canal Sur,Q23716336,4,0,2,,,Q41982239,,
+Argentina,Argentina,Q414,4,1,1,country in South America,Argentine Republic|Republic of Argentina|Republica Argentina,Q3624078|Q6256|Q6266|Q10551526|Q140892892,,Argentina
+Argentina,Argentina,Q4789276,4,1,1,genus of plants,silverweeds|silverweed,Q16521,,Argentina (plant)
+Argentina,Argentina,Q2183754,4,1,1,genus of fishes,,Q16521,,Argentina (fish)
+Argentina,Argentina,Q3622264,4,1,1,female given name,Argentina (first name)|Argentina (given name)|Αργεντίνα,Q11879590,,
+Argentina,Argentina,Q37498453,4,1,1,family name,,Q101352,,
+Argentina,Enchanted Isle,Q21196329,4,1,1,scrapped passenger ship,Veendam|New Orleans|IMO 5023162|Argentina,Q39804|Q697196,,SS Argentina (1958)
+Argentina,Argentina men's national football team,Q79800,4,1,1,men's national association football team representing Argentina,Argentina national soccer team|Argentina national association football team|Argentina men's national soccer team|Argentina national football team|Argentina men's national association football team,Q135408445,Q1194951,Argentina national football team
+Argentina,Argentina,Q83645577,4,1,1,ship built in 1949,IMO 5023174|Presidente Perón,Q2055880,,
+Argentina,Argentina national rugby union team,Q646070,4,1,1,national sports team,Los Pumas,Q58840819,,Argentina national rugby union team
+Argentina,Argentina,Q10573041,4,1,1,ship built in 1935,,Q1752434,,
+Argentina,Argentine motorcycle Grand Prix,Q1082815,4,1,2,motorcycle race held in Argentina,Argentine Republic motorcycle Grand Prix,Q3774608,,Argentine motorcycle Grand Prix
+Argentina,República class fleet,Q63735883,4,1,2,fleet of Flower class corvettes in service with Argentina's naval forces,Argentine Republica class fleet,Q63433199,,
+Argentina,Cefora,Q5057288,4,1,2,Argentine association,Argentine Republic Committee for UFO Phenomena Studies,Q988108,,Cefora
+Argentina,"Argentine Republic. Laws, statutes, etc",Q27719294,4,1,2,journal,Argent Repub Laws Statut,Q5633421,,
+Argentina,"Argentine Republic, Petitioner v. Amerada Hess Shipping Corporation, et al. [Case 87-1372] / Kathyrn Isabella Mesa and Shabbir A. Ebrahim, a.k.a Shabbir Azam, Petitioners v. California [Case 87-1602] / Ronald D. Castille, etc., et (NAID 118974835)",Q67604396,4,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Argentina,"Argentine Republic's Secretary of War Receives Legion of Merit, Pentagon, Washington, D.C. (NAID 102043381)",Q67451644,4,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+New Channel,Neuer Strom,Q98135831,5,0,1,estuary arm of the Warnow river,New Channel,Q15324,,
+New Channel,Tempo TV,Q12872016,5,0,1,Defunct private Greek TV channel,New Channel|New Tempo|Tempo,Q1616075,,Tempo TV
+New Channel,Novyi Kanal,Q2638833,5,0,1,Ukrainian television channel,New Channel (Ukraine)|Novyy Kanal,Q1616075,,Novyi Kanal
+New Channel,New Channel,Q4819018,5,0,1,,,Q2001305,,
+New Channel,New Channel,Q22597948,5,0,1,"watercourse in Saskatchewan, Canada",,Q1210950,,
+New Channel,New Channel,Q49112065,5,0,1,"channel in San Juan County, Washington, USA",,Q1210950,,
+New Channel,Logan Creek Dredge,Q34730305,5,0,1,"canal in Nebraska, United States",Logan Creek|Logan Creek Ditch|New Channel Logan Creek,Q12284,,Logan Creek Dredge
+New Channel,Nor Alik (New Channel (Armenia)),Q16395875,5,0,1,Armenian television channel,Nor Alik|New Channel (Armenia),Q2001305,,
+New Channel,New Channelrhodopsin with a Red-Shifted Spectrum and Rapid Kinetics from Mesostigma viride,Q35058343,5,0,1,"scientific article published on June 21, 2011",,Q13442814,,
+New Channel,New channel type inclusion compound of steroidal bile acid. Structure of 1:1 complex between cholic acid and acetophenone,Q60099376,5,0,1,scientific article published in 1988,,Q13442814,,
+Canada,Canada,Q16,5,1,1,country in North America,CA|CAN,Q223832|Q202686|Q3624078|Q6256|Q43702,,Canada
+Canada,Canada,Q14624136,5,1,1,moth genus of Pteromalidae,,Q16521,,
+Canada,Canada,Q13265725,5,1,1,family name,,Q101352,,Canada (surname)
+Canada,Canada,Q54856571,5,1,1,unisex given name,,Q3409032,,
+Canada,Newfoundland and Labrador,Q2003,5,1,1,province of Canada,NL|New Foundland and Labrador|N.L.|Newfoundland|Nfld.|NFLD|CA-NL|Canada's Happy Province,Q11828004,,Newfoundland and Labrador
+Canada,Nova Scotia,Q1952,5,1,1,province of Canada,NS|Province of Nova Scotia|CA-NS|Canada's Ocean Playground|New Scotland,Q11828004|Q3750285,,Nova Scotia
+Canada,Saskatchewan,Q1989,5,1,1,province of Canada,Province of Saskatchewan|CA-SK|Canada's Breadbasket|The Land of the Living Skies,Q11828004,,Saskatchewan
+Canada,Province of Canada,Q1121436,5,1,1,1841–1867 UK possession in North America,United Province of Canada|United Canadas|Canada|British Canada,Q1351282|Q19953632,,Province of Canada
+Canada,Cañada,Q41660719,5,1,1,family name,,Q101352,,
+Canada,Canada's Walk of Fame,Q857933,5,1,1,"street in Toronto, Ontario, Canada",,Q79007|Q47502370,,Canada's Walk of Fame
+Canada,Government of Canada,Q422404,5,1,2,federal government of Canada,federal government of Canada|Her Majesty's Government|Gouvernement de Sa Majesté|His Majesty's Government|Canada government|Canadian government|Canadian federal government,Q1006644|Q35798,,Government of Canada
+Canada,Canadian Government Railways,Q1032142,5,1,2,transport company,,Q740752,,Canadian Government Railways
+Canada,Canadian Government Ship Stanley,Q16955282,5,1,2,Canadian icebreaker,,Q11446,,CGS Stanley
+Canada,Canadian government aircraft fleet,Q56650980,5,1,2,fleet of aircraft used by Canada's government,Aircraft in Canadian government service,Q1875630,,
+Canada,Canadian Government Merchant Marine,Q115141217,5,1,2,business,,Q4830453,,
+Canada,Canadian government threatens to ignore law respecting Kyoto Protocol,Q17612689,5,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian government falls in non-confidence vote,Q17615500,5,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian government 'will respect' Kyoto law,Q17612691,5,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian Government Ship Minto,Q16955276,5,1,2,Canadian icebreaker vessel,,Q11446,,CGS Minto
+Canada,Canadian Government Motion Picture Bureau,Q17513994,5,1,2,Canadian government photographic agency,Motion Picture Bureau,Q327333|Q104649845,,Canadian Government Motion Picture Bureau
+Canada,Canada's Population Health Model (POHEM): a tool for performing economic evaluations of cancer control interventions,Q43732202,5,1,2,scientific article,,Q13442814,,
+Canada,Canada's population is aging,Q83780622,5,1,2,scientific article published on 01 January 2011,,Q13442814|Q871232,,
+Canada,Canada's population gains since 1961,Q69605420,5,1,2,scientific article published on 01 September 1973,,Q13442814,,
+Canada,Canada's population: growth and dualism,Q39627975,5,1,2,scientific article published on April 1978,,Q13442814,,
+Canada,"Canada's Population in Global Context: An Introduction to Social Demography,by Frank TrovatoBig Picture Realities: Canada and Mexico at the Crossroads, edited by Daniel DracheThe Spirit of Industry and Improvement: Liberal Government and Rural-Indust",Q58291769,5,1,2,article,,Q13442814,,
+Canada,Canada's population in 1991: first results of the June 1991 census,Q77108344,5,1,2,scientific article published on 01 January 1992,,Q13442814,,
+Canal de Montech,Canal de Montech,Q909406,6,0,1,canal,,Q12284|Q1210950,,Montech Canal
+France,France,Q142,6,1,1,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",French Republic,Q3624078|Q20181813|Q51576574|Q7270|Q6256,,France
+France,France,Q3080569,6,1,1,unisex given name,France (first name)|France (given name),Q3409032|Q11879590|Q12308941,,
+France,France,Q16275867,6,1,1,family name,,Q101352,,France (name)
+France,Francesco,Q2268455,6,1,1,male given name,Francesco (first name)|Francesco (given name),Q12308941,,Francesco
+France,France men's national association football team,Q47774,6,1,1,national association football team representing France,France national football team|France|France national soccer team|France national association football team|France men's national football team|Les Bleus,Q135408445,Q1194951,France national football team
+France,Frances,Q1440778,6,1,1,female given name,,Q11879590,,Frances
+France,French State,Q3591845,6,1,1,French public collective and all public authorities,France,Q7275,,
+France,France,Q49644,6,1,1,1912 Courbet-class battleship,French battleship France,Q847109,,French battleship France
+France,Francesca,Q2695945,6,1,1,female given name,Francesca (first name)|Francesca (given name),Q11879590,,Francesca
+France,Petrarch,Q1401,6,1,1,Italian scholar and poet (1304-1374),Francesco Petrarca|Peetrarque|Petrarque|Francesco Peetrarque|Francesco Petrarch|Francis Petrarch,Q5,,Petrarch
+France,Canal de Montech,Q909406,6,1,2,canal,,Q12284|Q1210950,,Montech Canal
+American Narrows,American Narrows,Q4744557,7,0,1,channel,,Q271669,,American Narrows
+American Narrows,American Narrows,Q34636787,7,0,1,,,Q1210950,,
+American Narrows,American Narrows,Q33159972,7,0,1,sound in the United States of America,,Q491713,,
+American Narrows,American Narrows,Q22404128,7,0,1,"narrows in Ontario, Canada",,Q6966332,,
+American Narrows,American Narrows,Q22941143,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+American Narrows,United States,Q30,7,0,2,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+American Narrows,United States of America,Q105870683,7,0,2,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+American Narrows,United States of America,Q99281400,7,0,2,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+American Narrows,United States of America state-level electoral district,Q104146934,7,0,2,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+American Narrows,USA (United States of America),Q20571325,7,0,2,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+American Narrows,American Red Cross,Q470110,7,0,2,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+American Narrows,United States of America,Q105870692,7,0,2,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+American Narrows,United States of America,Q29045456,7,0,2,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+American Narrows,Canada–United States border,Q119515,7,0,2,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+American Narrows,United States of America,Q106315054,7,0,2,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+American Narrows,Guadua angustifolia,Q1491422,7,0,2,species of plant,leaved guadua|American narrow-leaved bamboo,Q16521,,Guadua angustifolia
+American Narrows,American Narrow Gauge Railroads,Q132751096,7,0,2,journal article from 'Technology and Culture' published in 1992,,Q13442814,,
+United States of America,United States,Q30,7,1,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,7,1,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,7,1,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,7,1,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,7,1,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,7,1,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,7,1,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,7,1,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,7,1,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,7,1,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,United States Census Bureau,Q637413,7,1,2,U.S. agency responsible for the census and related statistics,U.S. Census Bureau|US Census Bureau|Census Bureau|United States Bureau of the Census|Bureau of the Census,Q20857065|Q480242,,United States Census Bureau
+United States of America,Mexico,Q96,7,1,2,country in North America,Mexican United States|Mexican Republic|US of M|United States of Mexico|mx|United Mexican States|MXN,Q3624078|Q6256|Q6266,,Mexico
+United States of America,United States dollar,Q4917,7,1,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States of America,National Gallery of Art,Q214867,7,1,2,"national art museum in Washington, D.C.","Mellon Gallery of Art|National Art Gallery (U.S.)|United States. National Gallery of Art|National Gallery|National Gallery of Art (U.S.)|National Gallery of Art (Washington, D.C.)|National Gallery of Art (Washington D.C.)|U.S. National Gallery of Art|US National Gallery of Art|National Gallery of Art",Q3844310|Q2085381|Q163740|Q20857065|Q221096,,National Gallery of Art
+United States of America,Republican Party,Q29468,7,1,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+United States of America,Democratic Party,Q29552,7,1,2,American political party,Democrats|Democrat|Democratic Party (United States)|Dems|Democratic Party of the United States|United States Democratic Party|US Democratic Party|U.S. Democratic Party|The Democrats,Q7278,,Democratic Party (United States)
+United States of America,National Institute for Occupational Safety and Health,Q60346,7,1,2,United States government research agency for preventing work-related health and safety problems,NIOSH|National Institute of Occupational Safety and Health|N.I.O.S.H.|U.S. Bureau of Occupational Safety and Health|United States Bureau of Occupational Safety and Health|Bureau of Occupational Safety and Health,Q20857065,,National Institute for Occupational Safety and Health
+United States of America,Supreme Court of the United States,Q11201,7,1,2,highest court of jurisdiction in the United States of America,SCOTUS|Supreme Court|United States Supreme Court|US Supreme Court|U.S. Supreme Court|Supreme Court of the U.S.|Article 3 Court|Article III Court|Article Three Court|Supreme Court of the United States of America,Q190752|Q119173073|Q4663903,,Supreme Court of the United States
+United States of America,National Register of Historic Places,Q3719,7,1,2,federal list of historic sites in the United States,NRHP|United States National Register of Historic Places|US NRHP|U.S. NRHP|U.S. National Register of Historic Places,Q15097084|Q22222786,,National Register of Historic Places
+United States of America,USA Network,Q248713,7,1,2,American cable television channel,USA,Q5009242,,USA Network
+United States of America,United States Army,Q9212,7,1,2,land service branch of the United States Armed Forces,U.S. Army|USAR|American Army|Ground forces of the United States Armed Forces|US land forces|US troop|US troops|U. S. Army|USA,Q37726,,United States Army
+United States of America,USA,Q2195271,7,1,2,1975 live album by King Crimson,,Q482994,,USA (King Crimson album)
+United States of America,Usa,Q6476962,7,1,2,"river in Belarus, upper right-side tributary of the Neman",Уса|Вуса,Q4022,,
+United States of America,Usa,Q12523556,7,1,2,"village in Bone Regency, South Sulawesi, Indonesia",,Q26211545,,
+United States of America,Usa,Q6543186,7,1,2,village in Belarus,,Q65661087,,
+United States of America,Usain Bolt,Q1189,7,1,2,Jamaican sprinter,,Q5,,Usain Bolt
+United States of America,American English,Q7976,7,1,2,set of dialects of the English language spoken in the United States,English (United States)|United States English|U.S. English|US English|AmE|USA English,Q951873|Q33742|Q33384,Q7053766,American English
+Passe de Job,Passe de Job,Q22495976,8,0,1,"watercourse in Quebec, Canada",,Q1210950,,
+Canada,Canada,Q16,8,1,1,country in North America,CA|CAN,Q223832|Q202686|Q3624078|Q6256|Q43702,,Canada
+Canada,Canada,Q14624136,8,1,1,moth genus of Pteromalidae,,Q16521,,
+Canada,Canada,Q13265725,8,1,1,family name,,Q101352,,Canada (surname)
+Canada,Canada,Q54856571,8,1,1,unisex given name,,Q3409032,,
+Canada,Newfoundland and Labrador,Q2003,8,1,1,province of Canada,NL|New Foundland and Labrador|N.L.|Newfoundland|Nfld.|NFLD|CA-NL|Canada's Happy Province,Q11828004,,Newfoundland and Labrador
+Canada,Nova Scotia,Q1952,8,1,1,province of Canada,NS|Province of Nova Scotia|CA-NS|Canada's Ocean Playground|New Scotland,Q11828004|Q3750285,,Nova Scotia
+Canada,Saskatchewan,Q1989,8,1,1,province of Canada,Province of Saskatchewan|CA-SK|Canada's Breadbasket|The Land of the Living Skies,Q11828004,,Saskatchewan
+Canada,Province of Canada,Q1121436,8,1,1,1841–1867 UK possession in North America,United Province of Canada|United Canadas|Canada|British Canada,Q1351282|Q19953632,,Province of Canada
+Canada,Cañada,Q41660719,8,1,1,family name,,Q101352,,
+Canada,Canada's Walk of Fame,Q857933,8,1,1,"street in Toronto, Ontario, Canada",,Q79007|Q47502370,,Canada's Walk of Fame
+Canada,Government of Canada,Q422404,8,1,2,federal government of Canada,federal government of Canada|Her Majesty's Government|Gouvernement de Sa Majesté|His Majesty's Government|Canada government|Canadian government|Canadian federal government,Q1006644|Q35798,,Government of Canada
+Canada,Canadian Government Railways,Q1032142,8,1,2,transport company,,Q740752,,Canadian Government Railways
+Canada,Canadian Government Ship Stanley,Q16955282,8,1,2,Canadian icebreaker,,Q11446,,CGS Stanley
+Canada,Canadian government aircraft fleet,Q56650980,8,1,2,fleet of aircraft used by Canada's government,Aircraft in Canadian government service,Q1875630,,
+Canada,Canadian Government Merchant Marine,Q115141217,8,1,2,business,,Q4830453,,
+Canada,Canadian government threatens to ignore law respecting Kyoto Protocol,Q17612689,8,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian government falls in non-confidence vote,Q17615500,8,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian government 'will respect' Kyoto law,Q17612691,8,1,2,Wikinews article,,Q17633526,,
+Canada,Canadian Government Ship Minto,Q16955276,8,1,2,Canadian icebreaker vessel,,Q11446,,CGS Minto
+Canada,Canadian Government Motion Picture Bureau,Q17513994,8,1,2,Canadian government photographic agency,Motion Picture Bureau,Q327333|Q104649845,,Canadian Government Motion Picture Bureau
+Canada,culture of Canada,Q1103954,8,1,2,pattern of human activity and symbolism associated with Canada and its people,Canadian culture|culture in Canada|Canada culture,Q19958368,Q13152690,Culture of Canada
+Canada,music of Canadian cultures,Q6942034,8,1,2,,Canadian cultures music|music in Canadian cultures,Q75054287,Q6942037,Music of Canadian cultures
+Shaţţ al Kūfah,Shaţţ al Kūfah,Q33129760,9,0,1,,,Q1210950,,
+Shaţţ al Kūfah,Kufa,Q186234,9,0,2,city in Iraq,al-Kūfa,Q515|Q1549591,,Kufa
+Shaţţ al Kūfah,Kufa,Q61970879,9,0,2,family name,,Q101352,,
+Shaţţ al Kūfah,Kufajka,Q18101409,9,0,2,genus of insects,,Q16521,,
+Shaţţ al Kūfah,Kufar,Q24283226,9,0,2,"village in Eastern Seram Regency, Maluku, Indonesia",,Q26211545,,
+Shaţţ al Kūfah,Kufa,Q4249755,9,0,2,"human settlement in Rutulsky District, Republic of Dagestan, Russia",,Q532|Q192287,,"Kufa, Republic of Dagestan"
+Shaţţ al Kūfah,kufa,Q108961231,9,0,2,entry of Polish etymological dictionary,,Q1580166,,
+Shaţţ al Kūfah,KUFA,Q85773189,9,0,2,"radio station in Hebbronville, Texas",,Q14350,,KUFA (FM)
+Shaţţ al Kūfah,Kidney & Urology Foundation of America,Q30296770,9,0,2,"nonprofit organization in New York, United States",KUFA,Q163740,,
+Shaţţ al Kūfah,Kasetsart University Faculty of Agriculture,Q64089806,9,0,2,culture collection in Asia,KUFA|WDCM 1122,Q11489453,,
+Shaţţ al Kūfah,Kufa,Q103945254,9,0,2,encyclopedia article,,Q13433827,,
+Iraq,Iraq,Q796,9,1,1,sovereign state in Western Asia,Republic of Iraq|iq,Q3624078|Q6256,,Iraq
+Iraq,Iraq,Q15761734,9,1,1,academic journal,,Q5633421|Q737498,,
+Iraq,Iraq men's national football team,Q186243,9,1,1,National Association Iraqi Football Team,Iraq national football team,Q135408445,Q1194951,Iraq national football team
+Iraq,Iraqi Air Force,Q2443729,9,1,1,aerial warfare branch of Iraq's armed forces,IQAF|Iraq|Air Forces,Q61883,,Iraqi Air Force
+Iraq,Iraq,Q139727971,9,1,1,,,Q1980247,,
+Iraq,Iraq War,Q545449,9,1,1,2003–2011 war after an American-led invasion,"Operation Iraqi Freedom|Iraqi Freedom|Invasion of Iraq|Iraq Invasion|Occupation of Iraq|War in Iraq|Second Gulf War|Gulf War II|Gulf War 2/battle of Ramadi/battle of Faluya|OIF|Iraq War, 2003-2011|Second Persian Gulf War|2nd Persian Gulf War|2nd Gulf War",Q831663|Q2001676|Q467011|Q645883|Q198,,Iraq War
+Iraq,Gulf War,Q37643,9,1,1,1990–1991 conflict between Iraq and a 42-country coalition,Kuwait War|Iraq War|First Gulf War|Gulf War I|First Iraq War|Persian Gulf War|Video Game War,Q198,,Gulf War
+Iraq,Iran–Iraq War,Q82664,9,1,1,1980-1988 war between Iran and Iraq,Gulf War|Iraq-Iran War,Q198|Q474138,,Iran–Iraq War
+Iraq,Kurdistan Region of Iraq,Q205047,9,1,1,federal region of the Republic of Iraq,Southern Region of Kurdistan|Iraqi Kurdistan region|KRI|Kurdistan Region|Kurdistan (Iraq)|Region of Kurdistan|South Kurdistan,Q782614|Q137834770,,Kurdistan Region
+Iraq,Ba'athist Iraq,Q3108185,9,1,1,Republic of Iraq from 1968 to 2003 during the time of Ba'athism,Republic of Iraq|Saddam's Iraq|Baathist Iraq|Iraq under Saddam Hussein,Q7270|Q7275|Q11514315|Q3024240,,Ba'athist Iraq
+Iraq,Republic of Iraq v. Beaty,Q138020081,9,1,2,2009 United States Supreme Court case,,Q2334719,,Republic of Iraq v. Beaty
+Iraq,First Republic of Iraq,Q3041595,9,1,2,state forged in 1958 in Iraq and ended in 1968,Iraqi Republic (1958–1968),Q3024240|Q7275,,First Republic of Iraq
+Iraq,Republican Guard,Q531366,9,1,2,1969-2003 elite military branch of Iraq's military,Iraqi Republican Guard|IRG|Republican Guard Corps|RGC|Republican Guard Forces Command|RGFC,Q37726,,Iraqi Republican Guard
+Iraq,Iraqi Republic Railways,Q907655,9,1,2,state-owned railway company of Iraq,Iraqi State Railways|Iraqi Republic Railways Company|Iraqi Railways|IRR|ISR,Q2324835|Q249556,,Iraqi Republic Railways
+Iraq,Iraqi Republic Railways DEM2700,Q10884987,9,1,2,,IRR DEM2700,Q19832486,Q19842071,
+Iraq,Iraqi Republican Assembly,Q6068072,9,1,2,political party in Iraq,,Q7278,,Iraqi Republican Assembly
+Iraq,Iraqi Republic,Q44376130,9,1,2,Wikimedia disambiguation page,,Q4167410,,Iraqi Republic
+Molengat,Molengat,Q2308600,10,0,1,tjasker mill in Giethoorn,,Q1434438|Q38720,,
+Molengat,Molengat,Q1943422,10,0,1,strait located between Noorderhaaks and Texel,,Q1210950|Q37901,,
+Molengat,Molengat,Q4370241,10,0,1,"hamlet in Land van Cuijk, the Netherlands",,Q1484611,,
+Molengat,Molengat,Q2374783,10,0,1,ship built in 1980,IMO 7816379|Halani 1|Alan,Q25653,,
+Molengat,Molengat,Q15879462,10,0,1,"lake in Giethoorn, The Netherlands",Molengat (lake)|Lake Molengat|Molengat (lake in Giethoorn),Q23397,,
+Molengat,Molengat,Q33335417,10,0,1,strait between Ameland and Friesland,,Q1210950,,
+Molengat,Molengat,Q19347968,10,0,1,"street in Urk, the Netherlands",,Q79007,,
+Molengat,Molengats,Q19347970,10,0,1,"street in Wijlre, the Netherlands",,Q79007,,
+Molengat,Molengatweg,Q19347971,10,0,1,"street in Horst, the Netherlands",,Q79007,,
+Molengat,Molengatpad,Q19347969,10,0,1,"street in Almere, the Netherlands",,Q79007,,
+Netherlands,Netherlands,Q55,10,1,1,one of the four autonomous countries of the Kingdom of the Netherlands; with territories in the Caribbean,Holland|the Netherlands|Nederland|Nederlanden|de Nederlanden|NL|NLD,Q15304003|Q6256,,Netherlands
+Netherlands,Kingdom of the Netherlands,Q29999,10,1,1,transcontinental sovereign state and constitutional monarchy,Netherlands|the Netherlands|Nederlanden|Kingdom of Netherlands,Q3624078|Q417175|Q20181813|Q1250464|Q6256,,Kingdom of the Netherlands
+Netherlands,Low Countries,Q476033,10,1,1,historical coastal landscape in north western Europe,Low Lands|Netherlands,Q1620908,,Low Countries
+Netherlands,Netherlands,Q16250490,10,1,1,constituency of the European Parliament,,Q2631496,,Netherlands (European Parliament constituency)
+Netherlands,Dutch Republic,Q170072,10,1,1,predecessor state of the Netherlands (1581–1795),Republic of the Seven United Netherlands|Republic of the United Netherlands|Republic of the Seven United Provinces|United Provinces|Federated Dutch Provinces|Dutch Federation|United Provinces of the Netherlands|Netherlands (1581–1795)|Republic of the Netherlands|Republiek der Zeven Verenigde Nederlanden,Q3624078|Q3024240|Q20181813|Q170156,,Dutch Republic
+Netherlands,RKD - Nederlands Instituut voor Kunstgeschiedenis,Q758610,10,1,1,Dutch national documentation centre of art history,RKD-Nederlands Instituut voor Kunstgeschiedenis|rkd.nl|Netherlands Institute for Art History,Q166118|Q4671277|Q2659904,,Netherlands Institute for Art History
+Netherlands,Dutch East Indies,Q188161,10,1,1,Dutch colony in Southeast Asia and Oceania (1800–1949),Netherlands East Indies|Dutch Indies|Nederlands-Indië|Netherlands Indies|Insulinde,Q3024240|Q133156,,Dutch East Indies
+Netherlands,Sovereign Principality of the United Netherlands,Q774783,10,1,1,precursor of the United Kingdom of the Netherlands from 1813 to 1815,Soeverein Vorstendom der Verenigde Nederlanden|Principauté Souveraine des Pays-Bas Unis|Principaute Souveraine des Pays-Bas Unis|Netherlands,Q3024240|Q3624078,,Sovereign Principality of the United Netherlands
+Netherlands,Netherlands Organisation for Applied Scientific Research,Q1867222,10,1,1,Dutch organisation,TNO,Q31855|Q43229,,Netherlands Organisation for Applied Scientific Research
+Netherlands,Netherlands journal of medicine,Q26842171,10,1,1,journal,The Netherlands journal of medicine,Q5633421|Q773668,,
+Netherlands,Kingdom of the Netherlands borders,Q87763073,10,1,2,international border,National border of the Netherlands,Q12413618|Q1292279,,
+Netherlands,tennis in the Kingdom of the Netherlands,Q47500689,10,1,2,overview of tennis in the Kingdom of the Netherlands,Dutch tennis|Kingdom of the Netherlands tennis,Q29791211,,
+Netherlands,Kingdom of the Netherlands-United Arab Emirates Bilateral Investment Treaty,Q136391485,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and United Arab Emirates,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Russia Bilateral Investment Treaty,Q136391498,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Russia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovenia Bilateral Investment Treaty,Q136391494,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Slovenia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Slovakia Bilateral Investment Treaty,Q136391495,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Slovakia,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Philippines Bilateral Investment Treaty,Q136391501,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Philippines,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Zimbabwe Bilateral Investment Treaty,Q136391478,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Zimbabwe,,Q1671773,,
+Netherlands,Kingdom of the Netherlands-Thailand Bilateral Investment Treaty,Q136391489,10,1,2,bilateral investment treaty between Kingdom of the Netherlands and Thailand,,Q1671773,,
+Netherlands,Holland,Q1624734,10,1,2,family name,,Q101352,,Holland (surname)
+Netherlands,Holland,Q21144565,10,1,2,unisex given name,Holland (given name)|Holland (first name),Q3409032,,
+Netherlands,Holland,Q102911,10,1,2,region and former province in the western Netherlands,"County of Holland|Holland, Netherlands|Province of Holland",Q82794|Q1620908,,Holland
+Netherlands,Hollands Kroon,Q9936,10,1,2,municipality in the Netherlands,,Q2039348,,Hollands Kroon
+Netherlands,Holland,Q105964075,10,1,2,,,Q5,,
+Netherlands,William Jacob Holland,Q1502788,10,1,2,"American zoologist, palaeontologist, and Presbyterian minister (1848–1932)",Holland|William J. Holland|W. J. Holland,Q5,,William Jacob Holland
+Netherlands,Holland,Q1001742,10,1,2,"city in Ottawa and Allegan counties in Michigan, United States","Holland, Michigan|Holland, MI",Q1093829,,"Holland, Michigan"
+Netherlands,Holland Roden,Q1189370,10,1,2,American actress,Holland Marie Roden,Q5,,Holland Roden
+Netherlands,Dutch,Q7411,10,1,2,West Germanic language,Dutch language|Netherlandic|Netherlandic language|Netherlandish|Netherlandish language,Q138638548,Q153050,Dutch language
+Guishan Hangmen,Guishan Hangmen,Q28804712,11,0,1,,,Q1210950,,
+People's Republic of China,People's Republic of China,Q148,11,1,1,country in East Asia,Red China|PR China|Communist China|China PR|cn|The PRC|P.R.C.|the People's Republic of China,Q3624078|Q842112|Q859563|Q1520223|Q465613|Q118365|Q849866|Q6256|Q185145|Q10711424,,China
+People's Republic of China,People's Republic of China,Q22828645,11,1,1,Wikimedia permanent duplicate item,,Q21286738,,
+People's Republic of China,government of the People's Republic of China,Q936190,11,1,1,administrative bodies of China,Chinese Government|PRC government|the People's Republic of China government|People's Republic of China government|government of China,Q1320217|Q50686|Q842112|Q179164,Q1320217,Government of China
+People's Republic of China,Classification and code of disciplines,Q10872045,11,1,1,,GB/T 13745|People's Republic of China Subject Classification,Q5962346|Q834575|Q121344523,,
+People's Republic of China,education in China,Q757827,11,1,1,overview about education in China,education of the People's Republic of China|People's Republic of China education|education in the People's Republic of China,Q64801076,,Education in China
+People's Republic of China,history of the People's Republic of China,Q862552,11,1,1,aspect of history,the People's Republic of China history|People's Republic of China history,Q17544377,,History of the People's Republic of China
+People's Republic of China,tennis in the People's Republic of China,Q7700471,11,1,1,overview of tennis in the People's Republic of China,Chinese tennis|tennis in China|People's Republic of China tennis,Q29791211,Q3493914,Tennis in China
+People's Republic of China,Ministry of National Defense of the People's Republic of China,Q1332463,11,1,1,Chinese government ministry responsible for military and national defense matters,People's Republic of China Ministry of Defense|MoD China|Chinese Ministry of Defense|Ministry of Defense of the People's Republic of China|Ministry of National Defense of China|Chinese Ministry of National Defense|MoD People's Republic of China|Ministry of National Defense,Q4294273|Q1788820,,Ministry of National Defense (China)
+People's Republic of China,Red Cross Society of China,Q908277,11,1,1,national Red Cross society in the People's Republic of China,Red Cross of People's Republic of China|People's Republic of China Red Cross,Q1968122|Q98675100|Q10883540,,Red Cross Society of China
+People's Republic of China,China and weapons of mass destruction,Q1196651,11,1,1,overview about China and its weapons of mass destruction,People's Republic of China and weapons of mass destruction|nuclear weapons program of China|nuclear weapons program of the People's Republic of China,Q74817647|Q19753333,,China and weapons of mass destruction
+People's Republic of China,Taiwan,Q865,11,1,2,country in East Asia,"Taiwan ROC|The ROC|Republic of China (Taiwan)|Chunghwa Minkuo|TPE|Nationalist China|Chunghwa Minkwo|Chinese Taipei|Free China|Republic of China|China, Republic of|Chinese Republic",Q112099|Q5255892|Q6501447|Q3624078|Q10711424|Q1084|Q16562419|Q25449457,,Taiwan
+People's Republic of China,China,Q29520,11,1,2,"cultural region, ancient civilization, and nation in East Asia; mostly refers to the People's Republic of China in political situation and rarely refers to the Republic of China",Cathay|Chunghwa|Zhongguo|Chung-kuo|Zhonghua|Chung-hua|Sinae|Flowery Kingdom|Celestial Kingdom|Middle Kingdom|Central Kingdom|Tianxia|All under Heaven|Katay|Khitai,Q3502482|Q5284036|Q28171280|Q6256|Q7275|Q1084|Q2221906,Q82794,China (region)
+People's Republic of China,porcelain,Q130693,11,1,2,ceramic material,china|fine china,Q214609,Q125274801|Q45621,Porcelain
+People's Republic of China,China,Q20898938,11,1,2,female given name,China (first name)|China (given name),Q11879590,,
+People's Republic of China,Republic of China,Q13426199,11,1,2,1912–1949 country in Asia,Republic of China 1912–1949|Republic of China before 1949|ROC 1912–1949|China 1912–1949|ROC|Republic of China (1912–1949)|China (1912–1949)|Republic of China (mainland),Q3024240|Q11514315|Q6256,,Republic of China (1912–1949)
+People's Republic of China,mainland China,Q7262427,11,1,2,"political and legal terms used by the PRC to refer customs territory of China except Hong Kong, Macau and Taiwan",Chinese Mainland|the mainland of China|Inland China|WTO China|China|China mainland,Q82794|Q2135465|Q56061|Q253836|Q5982983|Q125470455|Q3502482|Q161243,,Inland China
+People's Republic of China,China,Q37229573,11,1,2,family name,,Q101352,,
+People's Republic of China,China Journal of Highway and Transport,Q96335203,11,1,2,journal,Zhongguo Gonglu Xuebao,Q5633421|Q73364223,,
+People's Republic of China,China Biographical Database,Q13407958,11,1,2,biographical database of Chinese people,CBDB,Q36570165|Q7094076,,China Biographical Database
+People's Republic of China,Communist Refoundation Party,Q780997,11,1,2,Italian political party,PRC|Partito della Rifondazione Comunista,Q7278,,Communist Refoundation Party
+People's Republic of China,town of China,Q735428,11,1,2,People's Republic of China township-level subdivision,town of the People's Republic of China|zhen|town in China|town in the People's Republic of China|town in the PRC|town of the PRC|Chinese town|PRC town,Q28872924,Q16725943|Q3957,Town (China)
+People's Republic of China,West Taiwan,Q111799972,11,1,2,Internet slang,PRC|Red China|pink pig|Glass heart|emotionally fragile|vulnerable,Q2927074,,
+People's Republic of China,Parachi,Q2640637,11,1,2,language,Parachi language|Parāčī,Q33742|Q1288568,Q137824175,Parachi language
+People's Republic of China,law of the People's Republic of China,Q835068,11,1,2,legal regime of China,Chinese law|Portal:Law of China|Socialist legal system with Chinese characteristics|PRC law,Q2478386,Q820655|Q106460986|Q7748,Law of the People's Republic of China
+People's Republic of China,Conservative Republican Party,Q9056293,11,1,2,conservative Spanish political party,PRC|Partido Republicano Conservador,Q7278,,Conservative Republican Party (Spain)
+People's Republic of China,PPRC1,Q18036710,11,1,2,protein-coding gene in the species Homo sapiens,"PRC|peroxisome proliferator-activated receptor gamma, coactivator-related 1|PPARG related coactivator 1",Q7187,Q20747295,PPRC1
+People's Republic of China,Prchal,Q7239133,11,1,2,family name,,Q101352,,Prchal
+People's Republic of China,Conservative Republican Party,Q5163092,11,1,2,political party in Brazil,PRC,Q7278,,Conservative Republican Party (Brazil)

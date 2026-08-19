@@ -1,0 +1,215 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Styx River,Styx River,Q2359780,0,0,1,"tributary of the River Derwent in Tasmania, Australia",,Q4022,,Styx River (Tasmania)
+Styx River,Styx River,Q1076316,0,0,1,river in Russia,,Q4022,,Styx (Perm)
+Styx River,Styx River,Q7629862,0,0,1,"river draining to Broad Sound in East Central Queensland, Australia",,Q4022,,Styx River (East Central Queensland)
+Styx River,Styx River,Q1373587,0,0,1,"tributary of the Gilbert River in West Central Queensland, Australia",,Q4022,,Styx River (West Central Queensland)
+Styx River,Styx River,Q7629864,0,0,1,"river in West Coast Region, New Zealand",,Q4022|Q47521,,Styx River (West Coast)
+Styx River,Styx River,Q2359779,0,0,1,"river in New South Wales, Australia",,Q4022,,Styx River (New South Wales)
+Styx River,Styx River,Q12070213,0,0,1,"river in Christchurch, New Zealand",,Q4022|Q47521,,Styx River (Canterbury)
+Styx River,Styx River,Q7629860,0,0,1,"river in Hurunui District, Canterbury Region, New Zealand",,Q4022|Q47521,,Styx River (North Canterbury)
+Styx River,Styx River,Q7629858,0,0,1,river in the United States of America,,Q4022,,Styx River (Alabama)
+Styx River,Styx River,Q23018188,0,0,1,"stream in Ohio, United States of America",,Q47521,,Styx River (Ohio)
+Styx River,Styx,Q8843276,0,0,2,river in Greek mythology that formed the boundary between Earth and the Underworld,River Styx|Stygian River,Q24336031,,
+Styx River,La Laguna Estigia,Q6463326,0,0,2,painting by Félix Resurrección Hidalgo,The River Styx|River Styx|Laguna Estigia,Q22656,,La Laguna Estigia
+Styx River,River Styx,Q25339799,0,0,2,Dungeons & Dragons,,Q16338046,,River Styx (Dungeons & Dragons)
+Styx River,River Styx,Q1682244,0,0,2,"river in Marquette County, Michigan, United States",,Q4022,,"River Styx (Marquette County, Michigan)"
+Styx River,River Styx,Q7337843,0,0,2,"river in Gratiot and Montcalm counties, Michigan, United States",,Q4022,,"River Styx (Gratiot County, Michigan)"
+Styx River,River Styx,Q7337841,0,0,2,"unincorporated community in Medina County, Ohio","River Styx, Ohio|River Styx, OH",Q17343829,,"River Styx, Ohio"
+Styx River,River Styx,Q2155538,0,0,2,"tributary of the Green River in Kentucky, United States",,Q47521,,
+Styx River,River Styx,Q7337845,0,0,2,literary journal,,Q41298,,River Styx (magazine)
+Styx River,River Styx,Q7337842,0,0,2,"river in Charlton County, Georgia, United States",,Q4022,,River Styx (Georgia)
+Styx River,River Styx,Q22400518,0,0,2,"river in New Brunswick, Canada",,Q355304,,
+Styx River,Styx,Q105713,0,0,2,small natural satellite of the dwarf planet Pluto,S/2012 (134340) 1|(134340) Pluto V|Pluto V|S/2012 1,Q184246,,Styx (moon)
+Styx River,Styx,Q1763939,0,0,2,genus of insects,,Q16521,,Styx infernalis
+Styx River,Styx,Q7629845,0,0,2,"1983 computer game for the ZX Spectrum, released by Bug-Byte Software",,Q7889,,Styx (Spectrum video game)
+Styx River,Styx,Q37134272,0,0,2,family name,,Q101352,,
+Styx River,Styx,Q3501384,0,0,2,1983 video game,,Q7889,,Styx (Windmill game)
+Styx River,Styx,Q55448974,0,0,2,"locality in Derwent Valley, Tasmania, Australia","Styx, Tasmania, Australia|Styx, Tasmania",Q3257686|Q98433835,,"Styx, Tasmania"
+Styx River,Styx,Q3501378,0,0,2,French minesweeper,M614,Q202527,,
+Styx River,Styx,Q590102,0,0,2,American rock band,,Q5741069,,Styx (band)
+Styx River,Styx,Q542758,0,0,2,Greek divinity of the river Styx,,Q3027575|Q182406,,Styx
+Styx River,P-15 Termit,Q177218,0,0,2,1960 anti-ship missile family by the Soviet Union,Termit|4K40|SS-N-2 Styx|Styx|CSS-N-1 Scrubbrush|CSS-N-2 Scrubbrush|Scrubbrush|HY-1|SY-1|FL-1|Flying Dragon,Q18487018,Q643532,P-15 Termit
+Tech,Delft University of Technology,Q752663,1,0,1,Dutch university,TU-Delft|Technische Hogeschool Delft|Technische Universiteit Delft|TU Delft|Technical University of Delft|tudelft.nl,Q1371037|Q875538,,Delft University of Technology
+Tech,technology,Q11016,1,0,1,"making, modification, usage, and knowledge of tools, machines, techniques, crafts, systems, and methods of organization, or tools and techniques so created",tech|technologies|technological science|technological sciences|technicology|technology sector,Q11862829|Q268592,Q28797|Q34104,Technology
+Tech,Technical University of Munich,Q157808,1,0,1,public research university in Germany,TU München|TUM|Technical University Munich|TU Munich|Technische Universität München|Technische Universität München. Poliklinik für Kinder- und Jugendpsychotherapie. Symposion,Q1371037|Q62078547|Q641347|Q115427560,,Technical University of Munich
+Tech,Technische Universität Berlin,Q51985,1,0,1,"public research university in Berlin, Germany",TU Berlin|Technische Universität|Berlin Institute of Technology|Berlin Inst Tech|Technical University Berlin|Berlin Technical University|Technical University of Berlin,Q62078547|Q1371037|Q115427560,,Technische Universität Berlin
+Tech,Texas Tech University,Q1423756,1,0,1,"public research university in Lubbock, Texas, United States",Texas Tech|Tech|TTU|Texas Technological College|ttu.edu,Q62078547|Q23002039,,Texas Tech University
+Tech,TU Dresden,Q158158,1,0,1,"institute of higher education in the city of Dresden, Saxony, Germany, founded in 1828","TUD|Dresden Technical University|Dresden University of Technology|Technical University of Dresden|University of Technology, Dresden|Königlich Sächsisches Polytechnikum|Königliche Polytechnische Schule|Technische Bildungsanstalt|TUD Dresden University of Technology",Q62078547|Q115427560|Q1365560,,TU Dresden
+Tech,TU Wien,Q689400,1,0,1,"university of technology in Vienna, Austria",Technische Universität Wien|TUW|Vienna University of Technology|TU Vienna|Technischen Universität Wien|Technical University of Vienna,Q875538|Q1371037,,TU Wien
+Tech,Technion – Israel Institute of Technology,Q333705,1,0,1,Israeli science and technology research university in Haifa,Technion Israel Institute of Technology,Q3918|Q2085381,,Technion – Israel Institute of Technology
+Tech,TU Braunschweig,Q734324,1,0,1,university in Germany,University of Brunswick – Institute of Technology|Braunschweig University of Technology|Technische Universität Braunschweig|University of Braunschweig – Institute of Technology|TU Braunschweig|tu-braunschweig.de|Technical University of Braunschweig,Q1371037|Q875538,,TU Braunschweig
+Tech,Tech,Q37121311,1,0,1,family name,,Q101352,,
+Tech,Technology and Culture,Q7692591,1,0,2,academic journal,,Q737498,,Technology and Culture
+Tech,TED,Q189021,1,0,2,global set of conferences,"Technology, Entertainment and Design|TED Conference|TED Conferences, LLC|Ideas worth spreading|Technology, Entertainment, Design",Q170584|Q36524|Q431289|Q35127|Q43229|Q1656682,,TED (conference)
+Tech,Technology,Q126186117,1,0,2,1994 video game,,Q7889,,
+Tech,Technology,Q27725455,1,0,2,scientific journal,Technology (Singap World Sci)|Techonology,Q5633421,,
+Tech,Technology,Q4456889,1,0,2,Soviet-Russian musical group; synthpop band,,Q215380,,Technology (band)
+Tech,educational technology,Q1068473,1,0,2,use of technology in education to improve learning and teaching; not restricted to high technology,instructional technology|multimedia learning|technology-enhanced learning (TEL)|computer-based instruction (CBI)|computer managed instruction|computer-based training (CBT)|computer-assisted instruction|computer-aided instruction (CAI)|internet-based training (IBT)|flexible learning|web-based training (WBT)|virtual learning environment (VLE)|learning platforms|m-learning|digital education|ed tech|education technology|edtech|educational tech|edutech|TEL|i-learning|Subject:Educational technology,Q112057532|Q2267705|Q11499366,Q11016,Educational technology
+Tech,science and technology,Q34104,1,0,2,topic encompassing both science and technology and their interactions,sci-tech|technology and science,Q11862829|Q29431432,Q930933,Science and technology
+Tech,Technology in Cancer Research and Treatment,Q15755758,1,0,2,scientific journal,Technology in cancer research & treatment,Q5633421|Q5953270,,
+Tech,Technology and Health Care,Q22030355,1,0,2,scientific journal,,Q5633421,,
+Tech,software industry,Q880371,1,0,2,"businesses for development, maintenance and publication of software",computer software industry|tech industry,Q136653105,Q110702998,Software industry
+Tech,technology industry,Q21157865,1,0,2,group of companies producing technology,tech industry,Q136653105,Q268592|Q17987890,
+Tech,technology industry in Puerto Rico,Q30693420,1,0,2,technology sector in Puerto Rico,technology sector in Puerto Rico|tech industry in Puerto Rico|technology industry of Puerto Rico|Puerto Rican technology industry|Puerto Rican tech industry,Q21157865,,Technology industry in Puerto Rico
+Tech,Tech'Industry,Q131808393,1,0,2,,,Q43229,,
+Senio,Senio,Q13545811,2,0,1,"village in Simalungun Regency, North Sumatra, Indonesia",,Q26211545|Q111165099,,
+Senio,high school,Q9826,2,0,1,institution which provides final part of secondary education,senior high school|HS|H.S.|upper middle school|upper secondary school,,Q159334|Q27096213,High school
+Senio,Royal Navy,Q172771,2,0,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Senio,senior,Q1358789,2,0,1,elderly person,senior citizen|elderly|elderly person|old person,Q851990|Q1207505,Q215627,Senior citizen
+Senio,Japanese high school,Q56351315,2,0,1,upper secondary school under contemporary Japanese legislation,senior high school|Japanese upper secondary school|high school in Japan,Q112872396,Q9826|Q11352824|Q123349660,
+Senio,head coach,Q3246315,2,0,1,head coach or manager of a sports team,senior coach|manager|head coaches,Q4164871,Q136658540,Head coach
+Senio,senior,Q58954843,2,0,1,level in figure skating,senior (figure skating)|seniors|seniors (figure skating),Q1744559,,
+Senio,senior lieutenant,Q330459,2,0,1,commissioned officer military rank,major lieutenant|1st lieutenant|Senior lieutenant,Q56019,Q1156796,Senior lieutenant
+Senio,David Teniers the Younger,Q335022,2,0,1,Flemish Baroque painter (1610–1690),"David (II) Teniers|David Teniers II|David Teniers (II)|David Teniers Ii|David Teniers, the Younger|David Teniers the Younger (Flemish, 1610–1690) (Artic, 1936.125)|David, the younger Teniers|David Tenier|David Toniers|David Tuniers|David Terniers|David, II Teniers|David Tesniere|David Tenirs|David, the Younger Teniers|David Tenieres|David Thenier|David Teniers the Old|David Teneriens|David Teneirs|Jun. David Teniers|Junior David Teniers|Vecchio Teniers|David II Teniers|David Teniers the Elder|David Tenierz|David Teniers the Young|Senior David Teniers|David Teniers|David Téniers|David Teuiers|David Tiniers|David Teners|David Tenniers|David Teneris|D. II Teniers|David Taisniers|David (The Younger) Teniers|David (the Younger) Teniers|David Teniers d. J.|D. Teneris|Thenier|Tinneirs|Dav. Tenniers|David Teniers D. J.|David tenieres|david teniers der aeltere|David d. Ae. Teniers|Tesniere|Téniers|Monsù David fiamengo|Teniers the younger|Teniers Jun|david, der jungere teniers|DAVID TENIERS DER ÄLTERE|Tainerz|teniers des alteren|David Teniers der Jüngere|Monsu David fiamengo|the Old David Teniers|der Sohn David Teniers|Daniele Teniers|Taniers|Teners|Monsu' Davide|David Teniers il padre|vecchio Teniers|the Elder David Teniers|david, d. a. teniers|David Teniers d.J.|le fils David Teniers|Tinners|D. Teniers jun.|Tesniers|Daniel Teniers|David Teniers d.Jüngere|David Teniers dem jüngeren|Old. Teniers|d. teniers d. altere|David Teniers le vieux|D Teneirs|Teneres|David Tenier le Vieux|David deniers|dem Vater David Tennier|Teeniers|David d.J. Teniers|teniers david d. j.|David Teniers I|David Teéniers|der ältere Dav. tennier|le Pere David Teniers|Tenniers|David Denniers|Tenieres|Jun. D. Teniers|d. J. David Teniers|david IIs teniers|Tenier|david d. Jung. Teniers|Theniers|Marqué D. Teniers|D. Tennier|David der altere Teniers|the Elder Teniers|david teniers d. jung.|Teniers the Elder|Teuiers|Junr. David Teniers|Den Ouden Teniers|the Father David Teniers|Terniers|Jun. Teniers|der Jüngere Teniers David|teniers d.|O. Teniers|D. Teniers le jeune|Dav. Tenirs|David Teniers le jeune|Teniers David le jeune|david teniers d. jg.|senior Teniers|D. Téniers|David Tesniers|David Teniers d. Aelt.|David Téniers le père|Teniers fiammingo|David Teniers des Jüngeren|D. Teniers the Young|der Aeltere David Teniers|david teniers d. j.|david teniers d. jungere|D. Thenier|D. Tenirs|Teniers|David Teniers dem Aelteren|David Der Jüngere Teniers|of in zyne manier Teniers|David Tennier|Tenies|d. teniers d. alt.|Tenirs|Teniers fils|d. ä. David Teniers|Teniers David d.J.|D. Teniere|David Teniers le fils|Tenir|D. Teniers Junr.|d.j. teniers|david, d.j. teniers|D. Téniers Jeune|david teniers II|Tennier|d. teniers jr|von David Tenier dem jungen|D. Tiniers|de Oude D. Teniers|D. Teniers|Sen. Dav. Tenniers|Monsù David|le jeune Teniers|Old Teniers|Tuniers|David Tenniers d. J.|D. Tesniers|the Elder D. Teniers|D. Teniers F.|david teniers d. alt.|Teniers père|teniers d.j.|der Aeltere David Tenier|the Younger David Teniers|Davis Teniers d. Jung.|David Tinniers|David, dem Jüngern Teniers|Dd. Teniers|Teniers ou dans sa manière|Teneirs|D'Avid Teniers le jeune|d. teniers der alt.|Marqué Teniers|D. Teniers de oude|Pastiches de D. Teniers|David Theniers|David d. J. Teniers|David, the elder Teniers|the younger D. Teniers|le jeune D. Teniers|Genre de Teniers|fils David Teniers|der jüngere David Teniers|Teniers le Jeune|David Teniers Jun.|D. Teniers junior|Tiniers|Monsieur Teniers|Teniers David|Tienier|david teniers de ae|D. Denniers|David Teniers dem Alten|David J. Teniers|Pastiche de D. Teniers|Tinneir|Na Teniers|D. Teeniers|Dav. Tennier|teniers dav. dem jungeren|D. Tenir|D Teniers|der ältere David Tenniers|david the younger teniers|d. teniers d. j.|David Téniere|David Teniers Sohn|Vom Jungen Tenniers|d. teniers jr.|the Young David Teniers|david teniers d. altere|Dav. Teneirs|D. Tennier der jüngere|tiners|Sohn David Teniers|Manière de Teniers|le jeune David Teniers|David tiniens|sen. David Tenier|David d.Ae. Teniers I|von D. Teniers|Dr. Teniers|dav. teniers d. j.|D. Teneirs|Elder Teniers|d. teniers monogrammiert|Dav. Tenier|école de Teniers|David Tenirs de Oude|Teniers van Antwerpen|Teniair|david, d. j. teniers|Teneers|Tenier d.j.|Le vieux Teniers|Tenie|D. ältere Teniers|david d. a. Teniers|Young Teniers|Tenière|D. Teniers fils|David Teniers il vecchio|Tenners|Teiners|Oude Teniers|David, le jeune Teniers|David Teniers fils|Dav. Teniers|D. Tenniers|Toniers|Goût de Teniers|D. Tenier|David Tinier|De Teniers|Jun D. Teniers|D. Teniers D. A.|teniers d. a.|david teniers d.j.|Tenier's|D. Teniers the younger|David d. Jüngere Teniers|david teniers d. a.|Denniers|Vater David Teniers|david teniers younger|der altere teniers david|David Teniers il giovane|Thegnier|In den smaek van Teniers|David d. Aeltere Teniers|David Tenner|DA. TENIERS|sen. D. Teniers|Teniers il Figlio|Teniers le Vieux|Teniers le père|d. j. teniers|Monsieur Tenierz|d. teniers d.j.|David Tenier the younger|David, the younger Tenier|David Teniers de Jonge",Q5,,David Teniers the Younger
+Senio,senior sergeant,Q12335006,2,0,1,non-commissioned officer military rank,upper sergeant,Q56019,,Senior sergeant
+Senio,Senior,Q1754274,2,0,2,2010 studio album by Röyksopp,,Q482994,,Senior (album)
+Senio,Senior,Q55808065,2,0,2,"locality in Tatiara, South Australia, Australia","Senior, South Australia, Australia|Senior, South Australia",Q3257686,,
+Senio,Senior,Q124892592,2,0,2,honorific prefix for the praeses of a student society in Belgium,,Q115859699,,
+Senio,Senior,Q16879919,2,0,2,family name,,Q101352,,Senior (name)
+Senio,retirement home,Q22908,2,0,2,housing facility intended for senior citizens,seniors home|homes for the aged|old home|retirement properties|retirement village|old age home|senior housing|retirement housing|residential homes for senior citizens|retirement center|retirement centre|retirement homes|housing for the elderly|rest home|old folks home,,Q699405|Q43229,Retirement home
+Senio,Seniors,Q7450764,2,0,2,2011 film directed by Vyshakh,,Q11424,,Seniors (film)
+Senio,The Seniors,Q7763289,2,0,2,1978 film by Rod Amateau,Seniors,Q11424,,The Seniors
+Senio,seniors,Q15909248,2,0,2,"persons belonging to a previous generation of ones family in Chinese kinship systems (parents, grandparents, uncles and aunts)",older generation|elder generation|elders|previous generation|earlier generation,Q4455897|Q42301475,,
+Senio,Seniors,Q80017221,2,0,2,"print by Winslow Homer (American, 1836-1910) (1942.1201.e)",,Q11060274,,
+Senio,seniors,Q122965938,2,0,2,age group for sport,,Q1744559,,
+Senio,elderly people,Q2191986,2,0,2,individuals who have reached an advanced stage of life,old people|older people|old human|elderly human|aged human,Q851990|Q5932254|Q1303415,Q215627,Elderly people
+Senio,Seniors Audit,Q140329700,2,0,2,"American digital media brand auditing Medicare, Social Security, IRS rules, senior health, and retirement benefits in plain English for seniors.",Retirement Benefits|Medicare Decoded|RBD|RetirementBenefitsDecoded|Retirement Benefits Decoded|Seniors Audit|SeniorsAudit|@SeniorsAudit,Q17558136|Q35127|Q11033,,
+Senio,Seniors Housing and Care Journal,Q15816907,2,0,2,journal,Seniors housing & care journal,Q5633421,,
+Barnaulka,Barnaulka,Q1965743,3,0,1,"river in Altai Krai, Russia",,Q4022,,Barnaulka
+Barnaulka,Barnaulka (Novichikhinsky District),Q32451025,3,0,1,"river in Altai Krai, Russia",,Q4022,,
+Topolnitsa,Topolnitsa,Q1953026,4,0,1,river in Bulgaria,,Q4022,,Topolnitsa (river)
+Topolnitsa,Topolnitsa,Q4460765,4,0,1,"village in Dupnitsa municipality, Kyustendil oblast, Bulgaria",,Q15630849,,"Topolnitsa, Kyustendil Province"
+Topolnitsa,Topolnitsa,Q2989984,4,0,1,"village in Petrich municipality, Blagoevgrad oblast, Bulgaria",,Q15630849|Q4224624,,"Topolnitsa, Blagoevgrad Province"
+Topolnitsa,Topolnitsa,Q110046927,4,0,1,river in Serbia,,Q4022,,
+Topolnitsa,Topolnitsa,Q124330745,4,0,1,Abandoned settlement of Greece,Topolintsa,Q22674925,,
+Topolnitsa,Topolnitsa Reservoir,Q7353771,4,0,1,body of water,,Q131681,,Topolnitsa Reservoir
+Topolnitsa,Topolnica,Q3134792,4,0,1,village in Macedonia,,Q532,,"Topolnica, Radoviš"
+Topolnitsa,Topolnitsa,Q3532113,4,0,1,village in Macedonia,,Q532,,
+Topolnitsa,Topolitsa,Q2462782,4,0,1,"village in Aytos municipality, Burgas oblast, Bulgaria",,Q15630849|Q4224624,,Topolitsa
+Topolnitsa,Topolnitsa,Q21778222,4,0,1,river in Bulgaria,,Q4022,,
+Vagay,Vagay,Q1810361,5,0,1,"river in Tyumen Oblast, Russia",,Q4022,,
+Vagay,Vagay,Q4102162,5,0,1,"human settlement in Vagaysky District, Tyumen Oblast, Russia",,Q532|Q192287,,"Vagay, Vagaysky District, Tyumen Oblast"
+Vagay,Vagaysky District,Q1753880,5,0,1,human settlement in Russia,,Q2198484|Q20719675,,Vagaysky District
+Vagay,flag of Vagaysky District,Q4485699,5,0,1,,Vagaysky District flag,Q21850100,,
+Vagay,Vagay,Q963669,5,0,1,Wikimedia disambiguation page,Wagai,Q4167410,,Vagay
+Vagay,Vagaysky,Q16823370,5,0,1,Wikimedia disambiguation page,,Q4167410,,Vagaysky
+Ner,nucleotide-excision repair,Q2714458,6,0,1,DNA repair mechanism,"GO:0006289|pyrimidine-dimer repair, DNA damage excision|NER|Transcription-coupled repair",Q5419624|Q2996394,Q210538,Nucleotide excision repair
+Ner,Nepal,Q837,6,0,1,country in South Asia,Federal Democratic Republic of Nepal|Nipal|Nekbal|Nehpal|Palpou|Naipala|Naipála|Pa-lo-pou|Pa-le-pou|Pa-eul-pou|Paï-pou|Pai-pou|Balpo|Balbo|Bal-bo|Bal-po'i yul|Bal-yul|Naipál|Necbal|Nei-pal|Népaal|Nepall|Nepaul|Ne-pel|Nercerri|Niepal|Ni-po-lo|Ni-po-louo|Palpa|Balpo-yul|Nekpal|Nepál|Népál,Q123480|Q3624078|Q82794|Q6256|Q842112,,Nepal
+Ner,New England Revolution,Q309095,6,0,1,"professional soccer club based in Boston, Massachusetts, United States",NE Revolution|Revolution Soccer|New England Revs|NE Revs|Revs|NER|Revolution|the Revs,Q476028,,New England Revolution
+Ner,Ner,Q37223451,6,0,1,family name,,Q101352,,
+Ner,named-entity recognition,Q403574,6,0,1,extraction of named entity mentions in unstructured text into pre-defined categories,named entity extraction|entity extraction|entity identification|entity recognition|NER|entity chunking|named entity recognition and classification|NERC|Named entity recognition|named entity recognition,,Q621184,Named-entity recognition
+Ner,Nerium oleander,Q155833,6,0,1,species of plant,oleander|sweet-scented oleander,Q16521,,Nerium
+Ner,nervous system,Q9404,6,0,1,part of an animal that coordinates actions and senses,,Q104027169|Q112826905,Q188193|Q112826975,Nervous system
+Ner,Neratovice,Q239597,6,0,1,"town in Mělník District, Czechia",,Q5153359|Q15978299|Q7841907|Q7819319,,Neratovice
+Ner,Ners,Q380220,6,0,1,"commune in Gard, France",Nèrç,Q484170,,Ners
+Ner,Nereididae,Q1280602,6,0,1,family of annelids,Lycoridae|Nereidae|Notophycidae,Q16521,,Nereididae
+Ner,Nereus,Q3338314,6,0,2,,,Q2811,,
+Ner,Nereus,Q189527,6,0,2,sea god of Greek mythology,,Q3059255,,Nereus
+Ner,Néreus,Q23861159,6,0,2,article in Otto's encyclopedia,,Q13433827,,
+Ner,4660 Nereus,Q154560,6,0,2,asteroid,Nereus,Q59423687|Q265392|Q217526,,4660 Nereus
+Ner,Nereus Rowing Club,Q2142178,6,0,2,rowing club in Amsterdam,"A.S.R. Nereus|Nereus|Nereus, Amsterdam",Q1685451|Q7372078,,Nereus Rowing Club
+Ner,Nereus,Q19202759,6,0,2,early Roman saint,Saint Nereus,Q5,,
+Ner,Nereus,Q54670337,6,0,2,DC Comics character,,Q1114461|Q15773347|Q54800974,,
+Ner,Nereus and Achilleus,Q721711,6,0,2,Roman Christian martyrs,"SS. Nereus, Achilleus and Domitilla|Nereus and Achilleus|Saint Nereus and Achilleus|Saint Nereus and Saint Achilleus|Saints Nereus and Achilleus",Q109288825,,Nereus and Achilleus
+Ner,Nereus,Q1977994,6,0,2,remotely operated underwater vehicle,,Q618465,,Nereus (underwater vehicle)
+Ner,Nereus,Q6996091,6,0,2,crater on Mars,,Q55818,,Nereus (crater)
+Ner,Nereida,Q63922285,6,0,2,female given name,,Q11879590,,
+Ner,Nereida,Q6996031,6,0,2,genus of bacteria,,Q310890,,Nereida
+Ner,Nereidavus,Q5164703,6,0,2,genus of annelids (fossil),,Q23038290,,
+Ner,Nereida Bueno-Guerra,Q93070151,6,0,2,researcher (ORCID 0000-0003-1442-7905),,Q5,,
+Ner,Nereida Correa,Q100302849,6,0,2,member or fellow of the New York Academy of Medicine,,Q5,,
+Ner,Nereida,Q99509431,6,0,2,,,Q860861,,
+Ner,Nereidania,Q6996035,6,0,2,genus of insects,,Q16521,,Nereidania
+Ner,Nereida Rodiguez-Fernandez,Q103831886,6,0,2,researcher,,Q5,,
+Ner,Nereidaster,Q111592155,6,0,2,genus of echinoderms,,Q16521,,
+Ner,Nereids,Q54230,6,0,2,"sea nymphs in Greek mythology, daughters of Nereus",Dorides|Nereides,Q28061975,Q3346693|Q3059255,Nereids
+Ner,Nereid,Q16076,6,0,2,large moon of Neptune,Neptune II,Q2139|Q1632885,,Nereid (moon)
+Ner,Nereid,Q88885763,6,0,2,painting by Eugène Delacroix after Rubens,,Q3305213,,
+Ner,Nereidiformia,Q97932881,6,0,2,suborder of annelid worms,,Q16521,,
+Ner,Nereidinae,Q42113789,6,0,2,subfamily of annelids,,Q16521,,
+Ner,Nereid,Q98907662,6,0,2,Nereid as depicted in Star Trek,Neptune II|Star Trek Nereid,Q108061284,,
+Marta,Marta,Q846741,7,0,1,female given name,Marta (given name)|Marta (first name),Q11879590,,Marta (given name)
+Marta,Marta,Q228616,7,0,1,Brazilian footballer (born 1986),Marta Vieira da Silva,Q5,,Marta (footballer)
+Marta,Marta,Q15057843,7,0,1,family name,,Q101352,,Marta (surname)
+Marta,Márta,Q19851094,7,0,1,female given name,Márta (given name)|Márta (first name),Q11879590,,
+Marta,Märta,Q1576232,7,0,1,female given name,Märta (first name)|Märta (given name),Q11879590,,Märta
+Marta,Marta Kolanowska,Q21388667,7,0,1,"Polish botanist, ecologist and university teacher",Kolan.,Q5,,
+Marta,Márta,Q15057842,7,0,1,family name,,Q101352,,
+Marta,Marta Bastianelli,Q448984,7,0,1,Italian cyclist,,Q5,,Marta Bastianelli
+Marta,MARTa Herford,Q459531,7,0,1,German contemporary art museum in Herford,MARTa Herford - Museum of Art and Design|Museum Marta Herford,Q1200701,,MARTa Herford
+Marta,Marta Maria Perego,Q113361190,7,0,1,particle physicist in France,,Q5,,
+Marta,Marta Kubišová,Q272424,7,0,2,Czech singer,Marta Kubisova,Q5,,Marta Kubišová
+Marta,Marta Kubišová's albums in chronological order,Q105946663,7,0,2,Wikimedia albums discography,Marta Kubišová albums discography|Marta Kubišová discography - albums,Q59191021,,
+Marta,Marta Kubišová discography,Q105946634,7,0,2,Wikimedia artist discography,discography of Marta Kubišová|discography from Marta Kubišová,Q104635718,,
+Marta,Marta Kubišová v písních a pořadech,Q122135473,7,0,2,book edition published in 2022,,Q3331189,,
+Marta,Marta Kubišová: Cesta,Q111713911,7,0,2,1968 music video,,Q193977,,
+Marta,Marta Dymek,Q60613470,7,0,2,"Polish chef, vegan activist",,Q5,,Marta Dymek
+Neyva,Neyva,Q1577729,8,0,1,"river in Sverdlovsk Oblast, Russia",,Q4022,,Neyva
+Neyva,Neyva,Q97662411,8,0,1,railway station in Russia,,Q55488,,
+Neyva,Neyva,Q36231376,8,0,1,river in Russia,,Q4022,,
+Neyva,Neyva Alencar,Q10336638,8,0,1,,,Q5,,
+Neyva,Neyval Costa Reis,Q56968959,8,0,1,researcher,,Q5,,
+Neyva,Neiva,Q638260,8,0,1,capital of the Colombian department of Huila,,Q2555896|Q63209072|Q1549591,,"Neiva, Huila"
+Neyva,Neyvayal Gram Panchayat,Q23744194,8,0,1,"panchayat in Ramanathapuram district, Tamil Nadu",,Q2732840,,
+Neyva,Neyvasal Gram Panchayat,Q124120756,8,0,1,,,Q2732840,,
+Neyva,Neyvasal Branch Post Office,Q70117013,8,0,1,,,Q61443690,,
+Neyva,Neyvaeh Marcin,Q135352425,8,0,1,French basketball player (born 2008),,Q5,,
+Chermasan,Chermasan,Q1530748,9,0,1,"river in Bashkiria, Russia",,Q4022,,
+Chermasan,Chermasan,Q4513242,9,0,1,"human settlement in Belebeyevsky District, Republic of Bashkortostan, Russia",,Q5084|Q192287,,Chermasan
+Liamone,Liamone,Q2310748,10,0,1,former French department (1793-1811),,Q6465|Q15893266,,Liamone
+Liamone,Liamone,Q1482537,10,0,1,river in Corsica,,Q4022,,Liamone (river)
+Liamone,Liamone,Q108078222,10,0,1,protected area in France,,Q473972,,
+Liamone,Liamone landscape,Q110517026,10,0,1,"landscape in Corsica, France",,,,Liamone landscape
+Liamone,NGV Liamone,Q3237656,10,0,1,ship built in 2000,IMO 9210115,Q11446,,
+Liamone,Liamone,Q16655632,10,0,1,,,,,
+Liamone,Aeolos Kenteris I,Q2825555,10,0,1,passenger ferry built in 2000,IMO 9210103,Q11446,,HSC Aspasia T
+Liamone,Liamone,Q3237657,10,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kamienna,Skarżysko-Kamienna,Q644002,11,0,1,city and urban gmina of Poland,Skarzysko-Kamienna|Kamienna|Skarzhisk|Skarżysko Kamienna|Skarzysko Kamienna|Skarżysko|Skarzysko|Kamienna-Skarzhisko|Kamenna-Skarzhisko,Q2616791,,Skarżysko-Kamienna
+Kamienna,Kamienna Góra,Q219110,11,0,1,"town in Kamienna Góra County, Lower Silesian Voivodeship in south-western Poland",Kamienna Gora|Landeshut in Schlesien|Landeshut,Q2616791,,Kamienna Góra
+Kamienna,Kamienna,Q1723040,11,0,1,"river in Poland, tributary of the Bóbr",,Q47521,,
+Kamienna,Kamiennalohski sieĺsaviet,Q4211211,11,0,1,sieĺsaviet of Belarus,,Q15071808,,
+Kamienna,Kamienna,Q1477204,11,0,1,"river in Poland, tributary of the Vistula",,Q4022,,Kamienna (river)
+Kamienna,Kamiennalaŭski sieĺsaviet,Q4211150,11,0,1,sieĺsaviet of Belarus,,Q15071808,,
+Kamienna,Kamenná lúka,Q11734383,11,0,1,mountain in Slovakia,Kamienna,Q8502,,
+Kamienna,Kamiennaborski sieĺsaviet,Q4211159,11,0,1,sieĺsaviet of Belarus,,Q15071808|Q19953632,,
+Kamienna,Kamiennaja Horka,Q21649000,11,0,1,village in Belarus,Kamyennaya Horka,Q65661087,,
+Kamienna,"Kamienna, Kuyavian-Pomeranian Voivodeship",Q6357489,11,0,1,"village in Kuyavian-Pomeranian, Poland",,Q3558970,,"Kamienna, Kuyavian-Pomeranian Voivodeship"
+Kamienna,Kamienna Góra,Q2461080,11,0,2,rural gmina of Poland,Gmina Kamienna Gora|Gmina Kamienna Góra,Q3504085,,Gmina Kamienna Góra
+Kamienna,Kamienna Góra County,Q637226,11,0,2,powiat of Poland,Kamienna Gora County,Q247073,,Kamienna Góra County
+Kamienna,Kamienna Góra,Q11734386,11,0,2,,,Q1434401,,
+Kamienna,Kamienna Góra,Q11734389,11,0,2,"mountain, Góry Bystrzckie in Poland",,Q8502,,
+Kamienna,Kamienna Góra train station,Q2292795,11,0,2,"railway station in Kamienna Góra, Poland",,Q55488,,
+Kamienna,"Kamienna Góra, Lublin Voivodeship",Q6357532,11,0,2,"village in Lublin, Poland",,Q3558970,,"Kamienna Góra, Lublin Voivodeship"
+Kamienna,Kamienna Góra,Q6357527,11,0,2,"village in Świętokrzyskie, Poland",,Q3558970,,"Kamienna Góra, Kielce County"
+Kamienna,Kamienna Góra,Q670348,11,0,2,village of Poland,,Q3558970,,"Kamienna Góra, Kartuzy County"
+Kamienna,Kamienna Góra,Q11734393,11,0,2,"village in Gmina Iwaniska, Poland",,Q3558970,,"Kamienna Góra, Opatów County"
+Kargat,Kargat,Q145187,12,0,1,"human settlement in Kargatsky District, Novosibirsk Oblast, Russia",,Q192287|Q7930989,,Kargat
+Kargat,Kargat,Q1247866,12,0,1,"river in Novosibirsk Oblast, Russia",,Q4022,,Kargat (river)
+Kargat,Kargat,Q27785130,12,0,1,"railway station in Kargat, Russia",,Q55488,,
+Kargat,Kargatsky District,Q552977,12,0,1,municipal district in Russia,,Q2198484|Q12357832,,Kargatsky District
+Kargat,Kargat,Q122765276,12,0,1,ship built in 1971,IMO 7124427,Q11446,,
+Kargat,Kargatskiy Uyezd,Q16661901,12,0,1,administrative division of Novonikolayevsk Governorate of RSFSR and USSR,,Q65770082|Q18867064,,
+Kargat,Kargath Bladefist,Q18418593,12,0,1,fictional character,,Q28020127|Q722547|Q15773347|Q1569167,,
+Kargat,Kargatui,Q13204843,12,0,1,Spring festival of certain Turkic people,Qarghatui|Karga Tui|Qargha Tui,Q1445650,,
+Kargat,Kargataşı Island,Q49645411,12,0,1,island in Turkey,,Q23442,,
+Kargat,upload,Q7126699,12,0,1,sending of data from a local system to a remote system,uploading,Q151885,Q1724915,Upload
+Topino,Topino,Q1235297,13,0,1,river in Italy,,Q4022,,Topino
+Topino,Topinoja-Aranko,Q45902154,13,0,1,family name,,Q29042997|Q101352,,
+Topino,Topinoja,Q45902146,13,0,1,family name,,Q101352,,
+Topino,Topino,Q138370960,13,0,1,family name,,Q101352,,
+Topino,Topino,Q3532090,13,0,1,animated television series,,Q117467246,,
+Topino,Topino,Q115510507,13,0,1,"triangulation station in Telde, Spain",,Q131862,,
+Topino,François Topino-Lebrun,Q3085919,13,0,1,French painter (1764-1801),François Jean Baptiste Topino Lebrun|Francois Jean-Baptiste Topino-Lebrun|François Jean-Baptiste Topino-Lebrun|Topino-Lebrun,Q5,,François Topino-Lebrun
+Topino,Sand Martin,Q25909,13,0,1,species of bird,Riparia riparia|Bank Swallow,Q16521,,Sand martin
+Topino,Topinoja waste management centre,Q55758898,13,0,1,,Topinpuisto,Q4830453,,
+Topino,"Topino, Charles",Q103970462,13,0,1,encyclopedia article,,Q13433827,,
+Torysa,Torysa,Q1186856,14,0,1,river in Slovakia,,Q4022,,Torysa (river)
+Torysa,Torysa,Q1073003,14,0,1,municipality of Slovakia,,Q6784672,,Torysa (village)
+Torysa,Torysa,Q12059418,14,0,1,Italian grape variety,Torysa grape,Q958314,Q958314,
+Torysa,Torysa,Q104130605,14,0,1,painting by Ernest Rákosi,,Q3305213,,
+Torysa,Torysa,Q62520003,14,0,1,painting by Ernest Rákosi,,Q3305213,,
+Torysa,Torysa,Q55409894,14,0,1,painting by Mikuláš Jordán,,Q3305213,,
+Torysa,Torysa,Q62531673,14,0,1,painting by Ernest Rákosi,,Q3305213,,
+Torysa,Torysa,Q104181423,14,0,1,painting by Štefan Hapák,,Q3305213,,
+Torysa,Torysa,Q62527021,14,0,1,painting by Ernest Rákosi,,Q3305213,,
+Torysa,Torysa,Q62519394,14,0,1,painting by Ernest Rákosi,,Q3305213,,

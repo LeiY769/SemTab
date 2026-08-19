@@ -1,0 +1,45 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+B46,B46,Q523446,0,0,1,unguided aerial bomb with a thermonuclear warhead,Mk 46|Mark 46,Q42314054,Q1454201|Q1137468,B46 nuclear bomb
+B46,B46,Q23020180,0,0,1,"bus route in Brooklyn, New York",Utica and Reid Avenues Line,Q3240003,,B46 (New York City bus)
+B46,insP,Q50471266,0,0,1,Microbial gene (pseudogene) found in Escherichia coli str. K-12 substr. MG1655,ECK1425|yncK|yeeH|ECK4437|b4639|b4578,Q7187,Q277338,
+B46,B4636 road,Q89037189,0,0,1,road in England,B4636,Q89021600,,
+B46,"pseudogene, MFS transporter family; interrupted by Qin prophage;Phage or Prophage Related~putative transport protein Part 1/2 encoded by: ydfJ b4600",Q50476030,0,0,1,"Microbial protein encoded by a pseudogene found in Escherichia coli str. K-12 substr. MG1655, Note: pseudogene, MFS transporter family; interrupted by Qin prophage;Phage or Prophage Related~putative transport protein","ECK1536|JW1536|ynfP|ydfJ|b4600|pseudogene, MFS transporter family; interrupted by Qin prophage;Phage or Prophage Related~putative transport protein Part 2/2 encoded by: ydfJ b4600",Q8054,,
+B46,helpful birds - ciconiiformes,Q115089989,0,0,1,narrative motif documented in Thompson's Motif-Index of Folk-Literature,B463. Helpful birds -- ciconiiformes.|B463.,Q1697305|Q2995443,,
+B46,"yhiL encodes: pseudogene, DUF4049 family protein b4660",Q50499902,0,0,1,"Microbial gene (pseudogene) encodes a protein found in Escherichia coli str. K-12 substr. MG1655, Note: pseudogene, DUF4049 family protein",ECK3475|JW5674|yhiK|yhiL|b4660,Q7187,Q20747295|Q277338,
+B46,"ydfJ Part 2/2 encodes: pseudogene, MFS transporter family; interrupted by Qin prophage;Phage or Prophage Related~putative transport protein b4600",Q50476184,0,0,1,"Microbial gene (pseudogene) encodes a protein found in Escherichia coli str. K-12 substr. MG1655, Note: pseudogene, MFS transporter family; interrupted by Qin prophage;Phage or Prophage Related~putative transport protein",ECK1536|JW1536|ynfP|ydfJ|b4600,Q7187,Q20747295|Q277338,
+B46,insO part 2/3,Q50511066,0,0,1,Microbial gene (pseudogene) found in Escherichia coli str. K-12 substr. MG1655,ECK4476|insN2|ORFAB|yjhW|insO|b4623,Q7187,Q277338,
+B46,insO,Q50510697,0,0,1,Microbial gene (pseudogene) found in Escherichia coli str. K-12 substr. MG1655,ORFAB|b4623|insN2|ECK4476|yjhW,Q7187,Q277338,
+Armbrust,Armbrust,Q21450955,1,0,1,family name,,Q101352,,Armbrust (surname)
+Armbrust,Armbruster,Q21450958,1,0,1,family name,,Q101352,,Armbruster
+Armbrust,A. J. Armbruster,Q64863762,1,0,1,particle physicist at CERN,Aaron James Armbruster|Armbruster AJ|A J Armbruster,Q5,,
+Armbrust,Armbrüster,Q73615386,1,0,1,family name,,Q101352,,
+Armbrust,Armbrust,Q602303,1,0,1,German anti-tank weapon,,Q15142894,Q327394,Armbrust
+Armbrust,Armbrustmacher,Q83339465,1,0,1,family name,,Q101352,,
+Armbrust,Armbrust,Q22083010,1,0,1,human settlement in United States of America,"Armbrust, Pennsylvania|Armbrust, PA",Q17343829,,"Armbrust, Pennsylvania"
+Armbrust,Jonathan W. Armbruster,Q15706155,1,0,1,US ichthyologist,Armbruster|J. W. Armbruster,Q5,,Jonathan W. Armbruster
+Armbrust,crossbow,Q181947,1,0,1,type of ranged weapon based on the bow,ballester|crossbows,Q124078422,Q30750835|Q122452002,Crossbow
+Armbrust,"Armbruster, Johann Michael (BLKÖ)",Q85687461,1,0,1,"entry in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 1, p. 65)",,Q19389637,,
+82 mm HE,82 mm HE,Q106082088,2,0,1,mortar ammunition used by the 82-PM-37,,Q42314054,Q185785,
+82 mm HE,82 mm HE,Q106082087,2,0,1,mortar ammunition used by the 2B9 Vasilek,,Q42314054,Q185785,
+82 mm HE,82 mm HE,Q106082088,3,0,1,mortar ammunition used by the 82-PM-37,,Q42314054,Q185785,
+82 mm HE,82 mm HE,Q106082087,3,0,1,mortar ammunition used by the 2B9 Vasilek,,Q42314054,Q185785,
+M79,Messier 79,Q14019,4,0,1,globular cluster in the constellation Lepus,M79|New General Catalogue 1904,Q11276|Q2154519,,Messier 79
+M79,M79,Q482511,4,0,1,grenade launcher,M79 grenade launcher|40 mm grenade launcher M79|Thump-Gun,Q15142894,Q184613,M79 grenade launcher
+M79,M79,Q110433015,4,0,1,cell line,,Q21014462|Q27554370,,
+M79,3M Mincom,Q137176215,4,0,1,Pro audio tape recorder division of giant 3M,3M Company Mincom division,Q783794,,
+M79,M79 Osa,Q1025458,4,0,1,type of anti-tank rocket launcher,,Q15142894,Q10912680|Q3216918,M79 Osa
+M79,M79.2,Q29675933,4,0,1,protein-coding gene in the species Caenorhabditis elegans,hypothetical protein|CELE_M79.2|Uncharacterized protein|PlsC domain-containing protein,Q7187,,
+M79,Uncharacterized protein CELE_M79.2,Q29798207,4,0,1,protein found in Caenorhabditis elegans,hypothetical protein|Uncharacterized protein|M79.2,Q8054,,
+M79,M795,Q6713922,4,0,1,155mm projectile for howitzers,,Q124078422,Q318028|Q65227388,M795 projectile
+M79,M79 (New York City bus),Q107285123,4,0,1,"bus route in Manhattan, New York",,Q3240003,,M79 (New York City bus)
+M79,M79 road,Q106623339,4,0,1,"metropolitan route in the City of Johannesburg, South Africa",,Q34442,,M79 (Johannesburg)
+K-15,K-15,Q4206082,5,0,1,,,Q214196,,
+K-15,K-15,Q962133,5,0,1,"state highway in Kansas, United States",,Q34442,,K-15 (Kansas highway)
+K-15,K-152 Nerpa,Q306111,5,0,1,2008 Akula-class submarine,INS Chakra II|К-152 Нерпа,Q757587,,Russian submarine Nerpa (K-152)
+K-15,K-15,Q6322509,5,0,1,Macedonian comedy show project,,Q15416,,K-15 (TV series)
+K-15,K-15,Q4206078,5,0,1,anti-materiel rifle,,Q15142894,Q190570|Q1770971|Q12796,
+K-15,2e Lindesingelbrug,Q107288300,5,0,1,bridge in Rotterdam,K 15,Q12280|Q1068842|Q3397411,,
+K-15,K-15,Q122167596,5,0,1,Grid area K-15 according to the Standard Galactic Grid used in Star Wars,,Q108059698,,
+K-15,K 15,Q139215045,5,0,1,A village in the Q429685 Region of Uganda,,Q486972,,
+K-15,Sagarika,Q932044,5,0,1,short-range ballistic missile,K-15 Sagarika|K15 Sagarika,Q18487055,Q1066330|Q400704,Sagarika (missile)
+K-15,K-9,Q372352,5,0,1,air-to-air missile,Raduga K-9|AA-4|Awl|K-155|R-38,Q18487055,Q243249,K-9 (missile)

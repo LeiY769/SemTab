@@ -1,0 +1,25 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+HD 70318,HD 70318,Q12070004,0,0,1,peculiar star in the constellation Cancer,,Q1142192|Q67206691,,
+HD 33647,HD 33647,Q6753675,1,0,1,star system in the constellation Orion,V1085 Orionis,Q2088753|Q1140275|Q1993624|Q6243|Q1141942,,
+HD 33647,HD 336477,Q85118925,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336471,Q85118921,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336473,Q85118854,1,0,1,star in the constellation Lyra,,Q523,,
+HD 33647,HD 336470,Q85118979,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336474,Q85118731,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336479,Q85118828,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336475,Q85118967,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336472,Q85118927,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,HD 336476,Q85118771,1,0,1,star in the constellation Lyra,,Q523|Q67206691,,
+HD 33647,star,Q523,1,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 33647,Star Trek,Q1092,1,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 33647,Star,Q37529922,1,0,2,family name,,Q101352,,
+HD 33647,Star Wars,Q462,1,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 33647,Star,Q381936,1,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 33647,celebrity,Q211236,1,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 33647,STAR,Q3480422,1,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 33647,Starnberg,Q61936,1,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 33647,Star TV,Q2067812,1,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 33647,Starz Entertainment,Q515869,1,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 33647,G-type main-sequence star,Q5864,1,0,2,stellar classification,yellow dwarf|G dwarf star|yellow dwarf star,Q179600|Q17444909,Q1007122|Q244393,G-type main-sequence star
+60 Leonis,60 Leonis,Q4641676,2,0,1,star in the constellation Leo,HD 95608|b Leonis|b Leo|60 Leo|HIP 53954|HIC 53954|HR 4300|Renson 27540|AAVSO 1057+20|TYC 1436-1306-1|TIC 97487099|SAO 81637|PPM 100837|ROT 1648|GC 15162|GCRV 6814|NSV 18592|PLX 2572,Q451152|Q66521853|Q67206785|Q71798788|Q1142192|Q6243|Q523,,60 Leonis
+OX Pup,OX Pup,Q3781466,3,0,1,peculiar star in the constellation Puppis,,Q1142192|Q6243|Q1141942|Q67206785|Q71798788,,

@@ -1,0 +1,317 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ciudad del Este,Ciudad del Este,Q192235,0,0,1,"city and departmental capital of Alto Paraná, Paraguay",City of the East|Puerto Flor de Lis|Puerto Presidente Stroessner,Q917092|Q515|Q902814|Q1549591,,Ciudad del Este
+Ciudad del Este,Ciudad del Este,Q5124177,0,0,1,district of Paraguay,Ciudad del Este District|City of the East District,Q917092,,Ciudad del Este District
+Ciudad del Este,Guaraní International Airport,Q2673205,0,0,1,"commercial airport serving Ciudad del Este, Paraguay",Guarani International Airport|Ciudad del Este Airport|AGT|SGES,Q644371|Q1248784|Q94993988,,Guaraní International Airport
+Ciudad del Este,Roman Catholic Diocese of Ciudad del Este,Q868036,0,0,1,diocese of the Catholic Church in Paraguay,Diocese of Ciudad del Este|Diocese of Alto Paraná|Territorial Prelature of Alto Paraná,Q3146899,,Diocese of Ciudad del Este
+Ciudad del Este,Gran Ciudad del Este,Q37735,0,0,2,human settlement,,Q1907114,,Gran Ciudad del Este
+Gran Ciudad del Este,Gran Ciudad del Este,Q37735,0,1,1,human settlement,,Q1907114,,Gran Ciudad del Este
+Gran Ciudad del Este,Ciudad del Este,Q192235,0,1,2,"city and departmental capital of Alto Paraná, Paraguay",City of the East|Puerto Flor de Lis|Puerto Presidente Stroessner,Q917092|Q515|Q902814|Q1549591,,Ciudad del Este
+Gran Ciudad del Este,Ciudad del Este,Q5124177,0,1,2,district of Paraguay,Ciudad del Este District|City of the East District,Q917092,,Ciudad del Este District
+Gran Ciudad del Este,Guaraní International Airport,Q2673205,0,1,2,"commercial airport serving Ciudad del Este, Paraguay",Guarani International Airport|Ciudad del Este Airport|AGT|SGES,Q644371|Q1248784|Q94993988,,Guaraní International Airport
+Gran Ciudad del Este,Roman Catholic Diocese of Ciudad del Este,Q868036,0,1,2,diocese of the Catholic Church in Paraguay,Diocese of Ciudad del Este|Diocese of Alto Paraná|Territorial Prelature of Alto Paraná,Q3146899,,Diocese of Ciudad del Este
+Daqing,Daqing,Q304848,1,0,1,"prefecture-level city in Heilongjiang, China",Taching,Q748149|Q1549591,,Daqing
+Daqing,Daqên,Q4013254,1,0,1,"township in Seni, Nagqu, Tibet, China",Daqen|Daqian|Daqing|Darqên|Da’erqing|Tarchen|Tachen,Q1500350,,
+Daqing,Xiangfeng Wen,Q16905194,1,0,1,politician,Wen  Xiangfeng|Taiqing|Daqing|Tianrui,Q5,,
+Daqing,Ye Cai,Q45455530,1,0,1,Ming dynasty person CBDB = 203545,Daqing,Q5,,
+Daqing,Zhu Zhihe,Q45652580,1,0,1,Ming dynasty person CBDB = 206682,Daqing|Qishiba,Q5,,
+Daqing,Wang Xuzhi,Q20688818,1,0,1,Ming dynasty person CBDB = 204986,Daqing,Q5,,
+Daqing,Zhao Zhang,Q20689124,1,0,1,politician,Daqing,Q5,,
+Daqing,Daqing,Q13960581,1,0,1,"subdistrict in Mudanjiang, Heilongjiang, China",,Q986065,,
+Daqing,Zheng Wentai,Q45413446,1,0,1,Yuan dynasty person CBDB=28174,Daqing,Q5,,
+Daqing,Shangguan Chong,Q45642349,1,0,1,Ming dynasty person CBDB=201360,Daqing,Q5,,
+Daqing,Daqing Oil Field,Q1093731,1,0,2,"oil field in Daqing, Heilongjiang",Daqing Field,Q211748,,Daqing Oil Field
+Daqing,Daqing Oil Field Creating Achievements by Relying on Science and Technology Progress──Revealing the Secret or Why Daqing Oil Field Can Keep High and Stable Output for a Long Period,Q120940467,1,0,2,"scholarly article in Science & Technology Progress and Policy, no. 1, 1995",,Q13442814,,
+Daqing,Daqing City People's Hospital,Q30265187,1,0,2,"hospital in Sartu, Daqing, Heilongjiang, China",Fifth Affiliated Hospital of Harbin Medical University,Q4287745|Q16917,,
+Heilongjiang,Heilongjiang,Q19206,1,1,1,province of China,,Q1615742,,Heilongjiang
+Heilongjiang,Heilongjiang National Series,Q13639281,1,1,1,Chinese journal,,Q737498,,
+Heilongjiang,Heilungkiang,Q4502755,1,1,1,Province of the Republic of China (1912–1948),Heilongjiang,Q9319988,,
+Heilongjiang,2380 Heilongjiang,Q148851,1,1,1,asteroid,Heilongjiang,Q3863,,2380 Heilongjiang
+Heilongjiang,Amur River,Q6862,1,1,1,"major river in eastern Russia and northeastern China, with tributaries also in Mongolia",Heilong Jiang|Heilong River|Amur|Black River|Black Dragon River|Heilongjiang River|Saghalien-Oula|Saghalien Oula|Saghalien River,Q4366834|Q4022,,Amur
+Heilongjiang,Heilongjiang University,Q1058956,1,1,1,university in China,Hēilóngjiāng Dàxué,Q3918,,Heilongjiang University
+Heilongjiang,Heilongjiang Province,Q11286167,1,1,1,1931-1934 administrative territorial entity in Manchukuo,,Q56061,,
+Heilongjiang,Heilongjiang University of Chinese Medicine,Q5699491,1,1,1,university in China,Hēilóngjiāng Zhōngyīyào Dàxué,Q3918,,Heilongjiang University of Chinese Medicine
+Heilongjiang,Heilongjiang Bayi Agricultural University,Q11179769,1,1,1,"university in Heilongjiang, China",,Q3918,,
+Heilongjiang,Heilongjiang Indoor Rink,Q1913697,1,1,1,"speed skating ice rink in Harbin, China",,Q12019965,,Heilongjiang Indoor Rink
+Heilongjiang,Daqing,Q304848,1,1,2,"prefecture-level city in Heilongjiang, China",Taching,Q748149|Q1549591,,Daqing
+Heilongjiang,Daqên,Q4013254,1,1,2,"township in Seni, Nagqu, Tibet, China",Daqen|Daqian|Daqing|Darqên|Da’erqing|Tarchen|Tachen,Q1500350,,
+Heilongjiang,Xiangfeng Wen,Q16905194,1,1,2,politician,Wen  Xiangfeng|Taiqing|Daqing|Tianrui,Q5,,
+Heilongjiang,Ye Cai,Q45455530,1,1,2,Ming dynasty person CBDB = 203545,Daqing,Q5,,
+Heilongjiang,Zhu Zhihe,Q45652580,1,1,2,Ming dynasty person CBDB = 206682,Daqing|Qishiba,Q5,,
+Heilongjiang,Wang Xuzhi,Q20688818,1,1,2,Ming dynasty person CBDB = 204986,Daqing,Q5,,
+Heilongjiang,Zhao Zhang,Q20689124,1,1,2,politician,Daqing,Q5,,
+Heilongjiang,Daqing,Q13960581,1,1,2,"subdistrict in Mudanjiang, Heilongjiang, China",,Q986065,,
+Heilongjiang,Zheng Wentai,Q45413446,1,1,2,Yuan dynasty person CBDB=28174,Daqing,Q5,,
+Heilongjiang,Shangguan Chong,Q45642349,1,1,2,Ming dynasty person CBDB=201360,Daqing,Q5,,
+Heilongjiang,Manchuria,Q81126,1,1,2,geographic region in Northeast Asia,Mandchuria|Manzhou|Man-chou|Manchouria|Mandchouria|Manchooria|Dongbei|Northeast|Northeast China|Northeastern China|Manchukuo,Q1620908,,Manchuria
+Heilongjiang,Northeast China,Q1057925,1,1,2,"geographic region of China including Heilongjiang, Jilin, and Liaoning",Three Northeastern Provinces|Manchuria|Manchooria|Dongbei|Northeast|Northeastern China,Q55177041,,Northeast China
+Heilongjiang,PLA Air Force Aviation University,Q10873057,1,1,2,military university of the Chinese air force,Northeast China Democratic United Army Aviation School|PLAAF Aviation University,Q137222218|Q137258492,,Air Force Aviation University
+Heilongjiang,Jilin Academy of Agricultural Sciences,Q30262696,1,1,2,"facility in Changchun, China",Northeast China Agricultural Science and Technology Innovation Center,Q13226383,,
+Heilongjiang,Northeast China Revolutionary Matyrs' Memorial Hall,Q22100634,1,1,2,,Harbin Police Agency of the Illegitimate Manchukuo,Q10300916,,
+Heilongjiang,Northeast China Plain,Q1206587,1,1,2,plain in China,Manchurian Plain,Q193071,,Northeast China Plain
+Heilongjiang,Northeast China Plain deciduous forests,Q63526136,1,1,2,Ecoregion (WWF),,Q6617741,,Northeast China Plain deciduous forests
+Heilongjiang,Northeastern Tiger and Leopard National Park,Q48904931,1,1,2,"national park in Heilongjiang and Jilin provinces, China",Northeast China Tiger and Leopard National Park|Amur Tiger and Leopard National Park,Q46169,,Northeast China Tiger and Leopard National Park
+Heilongjiang,Northeast China administrative division codes of the PRC,Q10872189,1,1,2,,,,,Northeast China administrative division codes of the PRC (Division 2)
+Heilongjiang,music of Northeast China,Q6942222,1,1,2,,Northeast China music|music in Northeast China,Q75054287,Q277393,Music of Northeast China
+Heilongjiang,Nature and Ecology Institute of Heilongjiang Academy of Sciences,Q30262661,1,1,2,"facility in Harbin, China",Heilongjiang Province Natural Resources Institute|Heilongjiang Province Academy of Sciences Institute of Natural Resources|Nature and ecology Institute of the Heilongjiang provincial Academy of Sciences|Institute of Natural Resources and Ecology HAS,Q13226383,,
+Heilongjiang,Heilongjiang Province Ewenki Research Association,Q140380784,1,1,2,,,Q673899,,
+Heilongjiang,Heilongjiang Youth Development Foundation,Q140868913,1,1,2,"nonprofit organization in Harbin, China",Heilongjiang Province Youth Foundation|Heilongjiang Provincial Youth Development Foundation,Q163740,,
+Funchal,Funchal,Q25444,2,0,1,"municipality in Madeira, Portugal",Funchal Municipality,Q13217644,,Funchal
+Funchal,São Pedro,Q1813683,2,0,1,civil parish in Funchal,Funchal,Q1131296,,São Pedro (Funchal)
+Funchal,Santa Luzia,Q2652604,2,0,1,civil parish in Funchal,Funchal,Q1131296,,Santa Luzia (Funchal)
+Funchal,Santa Maria Maior,Q2078801,2,0,1,civil parish in Funchal,Funchal,Q1131296,,Santa Maria Maior (Funchal)
+Funchal,Funchal,Q134983322,2,0,1,"city and seat of Funchal municipality, Portugal",,Q15647906|Q1549591|Q15303838,,
+Funchal,Funchalia,Q5508759,2,0,1,genus of crustaceans,,Q16521,,Funchalia
+Funchal,Funchal,Q52323082,2,0,1,passengers ship built in 1979,IMO 7923249,Q11446,,
+Funchal,Funchal,Q24064908,2,0,1,Mars crater,,Q1475691,,
+Funchal,Funchal Garcia,Q10286213,2,0,1,Brazilian painter (1889-1979),,Q5,,
+Funchal,Funchalia sp.,Q40453337,2,0,1,species of crustacean,,Q16521,,
+Funchal,Madeira,Q104472514,2,0,2,former administrative entity based on Madeira Archipel from 1497-1822,,Q19953632|Q161243,,
+Funchal,Madeira,Q26253,2,0,2,Autonomous Region of Portugal in the archipelago of Madeira,Autonomous Region of Madeira|Madeira Autonomous Region|Pearl of the Atlantic,Q2914565|Q26934845|Q3775649|Q192611,,Madeira
+Funchal,HMS Mersey,Q1436077,2,0,2,1913 Humber-class monitor,Madeira,Q137823,,HMS Mersey (1914)
+Funchal,Madeirã,Q1024440,2,0,2,civil parish in Oleiros,,Q1131296,,
+Funchal,Madeira Island,Q30188,2,0,2,island of Portugal,,Q23442,,Madeira Island
+Funchal,Madeira,Q49655879,2,0,2,"island near Kristiansand, Norway",,Q23442,,
+Funchal,wood,Q287,2,0,2,fibrous material from trees or other plants,wooden,Q137424905,Q40397|Q1138571|Q28969364|Q18537|Q317088|Q502895,Wood
+Funchal,Madeira,Q30420804,2,0,2,family name,,Q101352,,
+Funchal,Madeira wine (DOC),Q27697,2,0,2,Portuguese wine,madeira,Q2140699|Q451752,Q1754670,Madeira wine
+Funchal,Madeira River,Q118251,2,0,2,river in Bolivia and Brazil,,Q4022,,Madeira River
+Funchal,"Funchal, Madeira",Q119145037,2,0,2,"painting by Frank Brangwyn (1867–1956), Falmouth Art Gallery",,Q3305213,,
+Sites of Globalization,Sites of Globalization,Q54943889,2,1,1,Tentative World Heritage site in Portugal,Places of Globalisation,Q358|Q16887380,,
+Sites of Globalization,Funchal,Q25444,2,1,2,"municipality in Madeira, Portugal",Funchal Municipality,Q13217644,,Funchal
+Sites of Globalization,São Pedro,Q1813683,2,1,2,civil parish in Funchal,Funchal,Q1131296,,São Pedro (Funchal)
+Sites of Globalization,Santa Luzia,Q2652604,2,1,2,civil parish in Funchal,Funchal,Q1131296,,Santa Luzia (Funchal)
+Sites of Globalization,Santa Maria Maior,Q2078801,2,1,2,civil parish in Funchal,Funchal,Q1131296,,Santa Maria Maior (Funchal)
+Sites of Globalization,Funchal,Q134983322,2,1,2,"city and seat of Funchal municipality, Portugal",,Q15647906|Q1549591|Q15303838,,
+Sites of Globalization,Funchalia,Q5508759,2,1,2,genus of crustaceans,,Q16521,,Funchalia
+Sites of Globalization,Funchal,Q52323082,2,1,2,passengers ship built in 1979,IMO 7923249,Q11446,,
+Sites of Globalization,Funchal,Q24064908,2,1,2,Mars crater,,Q1475691,,
+Sites of Globalization,Funchal Garcia,Q10286213,2,1,2,Brazilian painter (1889-1979),,Q5,,
+Sites of Globalization,Funchalia sp.,Q40453337,2,1,2,species of crustacean,,Q16521,,
+Ulaanbaatar,Ulaanbaatar,Q23430,3,0,1,capital and largest city of Mongolia,Niislel Hüree|East Hüree|Khan of Urga|Hüree|Ih Huree|Kulun|Wulan Batuo|Örgöö|Khüree|Ikh Khüree,Q10864048|Q5119|Q51929311,,Ulaanbaatar
+Ulaanbaatar,Ulaanbaataryn Unaganuud FC,Q2474486,3,0,1,Mongolian football club,,Q476028,,Ulaanbaataryn Unaganuud FC
+Ulaanbaatar,WikiProject Mongolia/Ulaanbaatar,Q135216375,3,0,1,sub-project of WikiProject Mongolia,WikiProject Ulaanbaatar|Ulaanbaatar,Q110059964,,
+Ulaanbaatar,Ulaanbaatar City FC,Q24908556,3,0,1,association football club in Mongolia,Ulaanbatar City,Q476028,,Ulaanbaatar City FC
+Ulaanbaatar,Ulaanbaataryn Mazaalaynuud,Q44883,3,0,1,association football club,,Q476028,,Ulaanbaataryn Mazaalaynuud FC
+Ulaanbaatar,Ulaanbaatar railway station,Q800161,3,0,1,"railway station in Ulaanbaatar, Mongolia",,Q55488,,Ulaanbaatar railway station
+Ulaanbaatar,history of Ulaanbaatar,Q23808339,3,0,1,history of the capital city of Mongolia,history of Ulan Bator|Ulaanbaatar history,Q28747937,,History of Ulaanbaatar
+Ulaanbaatar,Ulaanbaatar Book Fair,Q69772163,3,0,1,book fair in Mongolia,,Q998672,,Ulaanbaatar Book Fair
+Ulaanbaatar,Ulaanbaatar Trade and Economic Representative Office,Q23306164,3,0,1,representative office of Mongolia in Taiwan,,Q7314257|Q5244910,,Ulaanbaatar Trade and Economic Representative Office in Taipei
+Ulaanbaatar,The UB Post,Q7863896,3,0,1,English-language Mongolian newspaper,UB Post|Ulaanbaatar Post,Q1002697|Q11032,,UB Post
+Central Mongolia,Central Mongolia,Q28739337,3,1,1,,,Q82794,,
+Central Mongolia,Central Mongolian lake sediments reveal new insights on climate change and equestrian empires in the Eastern Steppes,Q112271495,3,1,1,scientific article published on 18 February 2022,,Q13442814,,
+Central Mongolia,Central Mongolia Airways,Q1053904,3,1,1,,,Q46970,,
+Central Mongolia,Mongolia,Q711,3,1,2,country in East Asia,Mongol State|State of Mongolia,Q3624078|Q123480|Q6256,,Mongolia
+Central Mongolia,Mongolian,Q9246,3,1,2,official language of Mongolia,Mongolian language|Mongol|Khalka,Q33742|Q152559|Q1288568,Q33750,Mongolian language
+Central Mongolia,Mongolian gerbil,Q649817,3,1,2,species of mammal,Mongolian gerbil,Q16521,,Mongolian gerbil
+Central Mongolia,Mongols,Q41975,3,1,2,ethnic group native to Mongolia and neighbouring areas,Mongol people|Mongol|Mongolians|Mongolian people|Mongolian|Tartars|Tartar|Tartar people,Q41710,Q10588098,Mongols
+Central Mongolia,Mongolian Wikipedia,Q2998037,3,1,2,Mongolian-language edition of Wikipedia,,Q10876391,,Mongolian Wikipedia
+Central Mongolia,Mongolia men's national football team,Q241353,3,1,2,national association football team,Mongolia national football team,Q135408445,,Mongolia national football team
+Central Mongolia,Mongol Empire,Q12557,3,1,2,13th- and 14th-century empire originating in Mongolia,Mongolian Empire|Great Mongol Nation,Q3024240|Q48349|Q331644,,Mongol Empire
+Central Mongolia,Mongolian,Q1055705,3,1,2,writing system used for the Mongolian language,classical Mongolian alphabet|traditional Mongolian alphabet|Mongolian script|Mong,Q9779|Q1944508|Q29517555|Q4004706|Q2182919,,Mongolian script
+Central Mongolia,Mongolian People's Republic,Q212056,3,1,2,1924–1992 communist republic in East Asia,Bügd Nairamdakh Mongol Ard Uls|PR Mongolia|People's Republic of Mongolia|Communist Mongolia|Socialist Mongolia,Q3624078|Q842112|Q3024240|Q465613,,Mongolian People's Republic
+Central Mongolia,Mongolia,Q5651926,3,1,2,Spanish satirical magazine,,Q1002697|Q41298,,Mongolia (magazine)
+Fargo,Fargo,Q222720,4,0,1,1996 film directed by Ethan and Joel Coen,,Q11424,,Fargo (1996 film)
+Fargo,Fargo,Q16869895,4,0,1,family name,Fargo (surname),Q101352,,Fargo (surname)
+Fargo,Fargo,Q34109,4,0,1,"city in and the county seat of Cass County, North Dakota, United States of America","Fargo, North Dakota|Fargo, ND",Q1093829|Q1549591,,"Fargo, North Dakota"
+Fargo,Fargo,Q111072964,4,0,1,given name,,Q202444,,
+Fargo,Fargo,Q15931555,4,0,1,American crime drama television series,,Q5398426,,Fargo (TV series)
+Fargo,Fargo,Q26945203,4,0,1,German rapper and singer,Falk-Arne Goßler|Falk-Arne Zeiseweis,Q5,,
+Fargo,Fargo,Q117453281,4,0,1,progamer,Vaidas Radavicius,Q5,,
+Fargo,Mikoyan-Gurevich MiG-9,Q270839,4,0,1,fighter aircraft family; first jet-powered MiG,Type 1|Fargo|Mikoyan MiG-9|MIG9|MiG-9,Q15056995,Q782885|Q135214932,Mikoyan-Gurevich MiG-9
+Fargo,Fargo,Q2384205,4,0,1,"human settlement in Clinch County, Georgia, United States of America","Fargo, Georgia|Fargo, GA",Q1093829|Q76514543,,"Fargo, Georgia"
+Fargo,Fargo,Q2608568,4,0,1,"town in Oklahoma, United States","Fargo, Oklahoma|Fargo, OK",Q15127012,,"Fargo, Oklahoma"
+Fargo,Red River Valley,Q2408452,4,0,2,remnant of glacial Lake Agassiz in Canada,,Q39816,,Red River Valley
+Fargo,Red River Valley,Q2228412,4,0,2,1997 film by Feng Xiaoning,,Q11424,,Red River Valley (1997 film)
+Fargo,Red River Valley,Q106866362,4,0,2,painting by Frank Stella,,Q3305213,,
+Fargo,Red River Valley,Q21417671,4,0,2,,,Q1414991,,
+Fargo,Red River Valley,Q7304870,4,0,2,1976 studio album by Slim Whitman,,Q482994,,Red River Valley (album)
+Fargo,Red River Valley,Q3231955,4,0,2,folk song and cowboy music standard of controversial origins,Cowboy Love Song|Bright Sherman Valley|Bright Laurel Valley|In the Bright Mohawk Valley|Bright Little Valley,Q105543609,,Red River Valley (song)
+Fargo,Red River Valley,Q7304868,4,0,2,1936 film by B. Reeves Eason,Man of the Frontier,Q11424,,Red River Valley (1936 film)
+Fargo,Red River Valley,Q7304869,4,0,2,1941 film by Joseph Kane,,Q11424,,Red River Valley (1941 film)
+Fargo,RED RIVER VALLEY,Q127039098,4,0,2,hymn tune,,Q105543609,,
+Fargo,Red River Valley historical review,Q27716147,4,0,2,journal,Red River Val Hist Rev,Q5633421,,
+Fargo,North Dakota,Q1207,4,0,2,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+Fargo,University of North Dakota,Q968559,4,0,2,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+Fargo,North Dakota State University,Q2000624,4,0,2,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+Fargo,114703 North Dakota,Q3597088,4,0,2,minor planet,North Dakota,Q3863,,114703 North Dakota
+Fargo,North Dakota,Q99670860,4,0,2,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+Fargo,North Dakota,Q7054986,4,0,2,album by Tom Brosseau,,Q482994,,North Dakota (album)
+Fargo,North Dakota Century Code,Q7054993,4,0,2,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+Fargo,member of the State Senate of North Dakota,Q21366730,4,0,2,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+Fargo,Governor of North Dakota,Q3773741,4,0,2,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+Fargo,North Dakota Legislative Assembly,Q7055026,4,0,2,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Fargo,Fargo,Q12890583,4,0,2,Wikimedia duplicated page,"Fargo, North Dakota",Q17362920,,
+Fargo,"2020 COVID-19 pandemic in Fargo, North Dakota",Q95682031,4,0,2,"pandemic in Fargo, North Dakota","COVID-19 pandemic in Fargo, North Dakota|2020 coronavirus outbreak in Fargo, North Dakota|2020 Fargo, North Dakota COVID-19 pandemic|Fargo, North Dakota COVID-19 pandemic|2020 COVID pandemic in Fargo, North Dakota",Q3241045,,
+Fargo,"Fargo, North Dakota, prepares for record flooding",Q17659927,4,0,2,Wikinews article,,Q17633526,,
+Red River Valley,Red River Valley,Q2408452,4,1,1,remnant of glacial Lake Agassiz in Canada,,Q39816,,Red River Valley
+Red River Valley,Red River Valley,Q2228412,4,1,1,1997 film by Feng Xiaoning,,Q11424,,Red River Valley (1997 film)
+Red River Valley,Red River Valley,Q106866362,4,1,1,painting by Frank Stella,,Q3305213,,
+Red River Valley,Red River Valley,Q21417671,4,1,1,,,Q1414991,,
+Red River Valley,Red River Valley,Q7304870,4,1,1,1976 studio album by Slim Whitman,,Q482994,,Red River Valley (album)
+Red River Valley,Red River Valley,Q3231955,4,1,1,folk song and cowboy music standard of controversial origins,Cowboy Love Song|Bright Sherman Valley|Bright Laurel Valley|In the Bright Mohawk Valley|Bright Little Valley,Q105543609,,Red River Valley (song)
+Red River Valley,Red River Valley,Q7304868,4,1,1,1936 film by B. Reeves Eason,Man of the Frontier,Q11424,,Red River Valley (1936 film)
+Red River Valley,Red River Valley,Q7304869,4,1,1,1941 film by Joseph Kane,,Q11424,,Red River Valley (1941 film)
+Red River Valley,RED RIVER VALLEY,Q127039098,4,1,1,hymn tune,,Q105543609,,
+Red River Valley,Red River Valley historical review,Q27716147,4,1,1,journal,Red River Val Hist Rev,Q5633421,,
+Red River Valley,Fargo,Q34109,4,1,2,"city in and the county seat of Cass County, North Dakota, United States of America","Fargo, North Dakota|Fargo, ND",Q1093829|Q1549591,,"Fargo, North Dakota"
+Red River Valley,Fargo,Q12890583,4,1,2,Wikimedia duplicated page,"Fargo, North Dakota",Q17362920,,
+Red River Valley,"2020 COVID-19 pandemic in Fargo, North Dakota",Q95682031,4,1,2,"pandemic in Fargo, North Dakota","COVID-19 pandemic in Fargo, North Dakota|2020 coronavirus outbreak in Fargo, North Dakota|2020 Fargo, North Dakota COVID-19 pandemic|Fargo, North Dakota COVID-19 pandemic|2020 COVID pandemic in Fargo, North Dakota",Q3241045,,
+Red River Valley,"Fargo, North Dakota, prepares for record flooding",Q17659927,4,1,2,Wikinews article,,Q17633526,,
+Milwaukee,Milwaukee,Q37836,5,0,1,"city in and county seat of Milwaukee County, and largest city in State of Wisconsin, United States","Milwaukee, Wisconsin|Milwaukee City, Wisconsin|Milwaükee|Milwaukee, WI",Q15221304|Q1549591|Q62049,,Milwaukee
+Milwaukee,University of Wisconsin–Milwaukee,Q1755318,5,0,1,university in Milwaukee,UWM|University of Wisconsin-Milwaukee|Wisconsin-Milwaukee|Milwaukee|UW–Milwaukee|UW-Milwaukee|UW Milwaukee|uwm.edu|University of Wisconsin at Milwaukee,Q875538|Q15936437|Q23002039,,University of Wisconsin–Milwaukee
+Milwaukee,Atlanta Braves,Q461595,5,0,1,"Major League Baseball team in Cumberland, Georgia",Braves|Milwaukee Braves|Boston Braves|Boston Bees|Bees|Boston Rustlers|Rustlers|Boston Doves|Doves|Boston Beaneaters|Beaneaters|Boston Red Stockings,Q13027888,,Atlanta Braves
+Milwaukee,Atlanta Hawks,Q159893,5,0,1,Atlanta-based American professional basketball team,St. Louis Hawks|Milwaukee Hawks|Tri-Cities Blackhawks,Q13393265,,Atlanta Hawks
+Milwaukee,Milwaukee Brewers,Q848103,5,0,1,"baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States",Brew Crew|Brewers|Seattle Pilots|Pilots,Q13027888,,Milwaukee Brewers
+Milwaukee,Milwaukee Bucks,Q169637,5,0,1,American professional basketball team,,Q13393265,,Milwaukee Bucks
+Milwaukee,Milwaukee Art Museum,Q325712,5,0,1,"art museum in Milwaukee, Wisconsin",MAM|Milwaukee Art Center|Milwaukee Art Institute,Q207694|Q163740,,Milwaukee Art Museum
+Milwaukee,Nature & Culture Museum of Wisconsin,Q6861802,5,0,1,"public museum in Wisconsin, United States",mpm.edu|Milwaukee Public Museum,Q33506,,Milwaukee Public Museum
+Milwaukee,Milwaukee County,Q502294,5,0,1,"county in Wisconsin, United States","Milwaukee County, Wisconsin|Milwaukee County, WI",Q12178928,,"Milwaukee County, Wisconsin"
+Milwaukee,Milwaukee,Q6861655,5,0,1,"former civil town in Milwaukee County, Wisconsin, United States","Milwaukee, Wisconsin|Town of Milwaukee|Milwaukee (town), Wisconsin|Milwaukee, WI",Q19953632|Q15219655,,"Milwaukee (town), Wisconsin"
+Milwaukee,Southeast Wisconsin,Q14234631,5,0,2,,,Q82794,,
+Milwaukee,Southeast Wisconsin Transit System,Q7569407,5,0,2,partnership between public transit systems,,,,Southeast Wisconsin Transit System
+Milwaukee,Milwaukee County Zoo,Q11781326,5,0,2,zoo in the United States,,Q43501,,Milwaukee County Zoo
+Milwaukee,Milwaukee County Courthouse,Q6861715,5,0,2,"historic courthouse in Wisconsin, United States",,Q64037785,,Milwaukee County Courthouse
+Milwaukee,Milwaukee County Dispensary and Emergency Hospital,Q6861717,5,0,2,"hospital building in Milwaukee, Wisconsin, United States",,Q39364723,,Milwaukee County Dispensary and Emergency Hospital
+Milwaukee,Milwaukee County Stadium,Q3314569,5,0,2,"former stadium in Milwaukee, Wisconsin",,Q483110,,Milwaukee County Stadium
+Milwaukee,Milwaukee County Historical Society,Q15958727,5,0,2,"history museum & research center in North Old World Third Street Milwaukee, WI",,Q33506|Q163740,,Milwaukee County Historical Society
+Milwaukee,"2020 COVID-19 pandemic in Milwaukee County, Wisconsin",Q94150401,5,0,2,"pandemic in Milwaukee County, Wisconsin","2020 coronavirus outbreak in Milwaukee County, Wisconsin|COVID-19 pandemic in Milwaukee County, Wisconsin|2020 Milwaukee County, Wisconsin COVID-19 pandemic|Milwaukee County, Wisconsin COVID-19 pandemic|2020 COVID pandemic in Milwaukee County, Wisconsin",Q3241045,,
+Milwaukee,Milwaukee County COVID-19 Dashboard,Q91239084,5,0,2,COVID-19 Dashboard by Milwaukee County Regional Hospital Collaboration,,Q90790055,,
+Milwaukee,Milwaukee County Transit System bus fleet,Q106617022,5,0,2,,,,,Milwaukee County Transit System bus fleet
+Milwaukee,Milwaukee County School of Agriculture and Domestic Economy Historic District,Q54952716,5,0,2,"historic district in Wauwatosa, United States of America",,Q15243209,,Milwaukee County School of Agriculture and Domestic Economy Historic District
+Southeast Wisconsin,Southeast Wisconsin,Q14234631,5,1,1,,,Q82794,,
+Southeast Wisconsin,Southeast Wisconsin Transit System,Q7569407,5,1,1,partnership between public transit systems,,,,Southeast Wisconsin Transit System
+Southeast Wisconsin,Milwaukee,Q37836,5,1,2,"city in and county seat of Milwaukee County, and largest city in State of Wisconsin, United States","Milwaukee, Wisconsin|Milwaukee City, Wisconsin|Milwaükee|Milwaukee, WI",Q15221304|Q1549591|Q62049,,Milwaukee
+Southeast Wisconsin,University of Wisconsin–Milwaukee,Q1755318,5,1,2,university in Milwaukee,UWM|University of Wisconsin-Milwaukee|Wisconsin-Milwaukee|Milwaukee|UW–Milwaukee|UW-Milwaukee|UW Milwaukee|uwm.edu|University of Wisconsin at Milwaukee,Q875538|Q15936437|Q23002039,,University of Wisconsin–Milwaukee
+Southeast Wisconsin,Atlanta Braves,Q461595,5,1,2,"Major League Baseball team in Cumberland, Georgia",Braves|Milwaukee Braves|Boston Braves|Boston Bees|Bees|Boston Rustlers|Rustlers|Boston Doves|Doves|Boston Beaneaters|Beaneaters|Boston Red Stockings,Q13027888,,Atlanta Braves
+Southeast Wisconsin,Atlanta Hawks,Q159893,5,1,2,Atlanta-based American professional basketball team,St. Louis Hawks|Milwaukee Hawks|Tri-Cities Blackhawks,Q13393265,,Atlanta Hawks
+Southeast Wisconsin,Milwaukee Brewers,Q848103,5,1,2,"baseball team and Major League Baseball franchise in Milwaukee, Wisconsin, United States",Brew Crew|Brewers|Seattle Pilots|Pilots,Q13027888,,Milwaukee Brewers
+Southeast Wisconsin,Milwaukee Bucks,Q169637,5,1,2,American professional basketball team,,Q13393265,,Milwaukee Bucks
+Southeast Wisconsin,Milwaukee Art Museum,Q325712,5,1,2,"art museum in Milwaukee, Wisconsin",MAM|Milwaukee Art Center|Milwaukee Art Institute,Q207694|Q163740,,Milwaukee Art Museum
+Southeast Wisconsin,Nature & Culture Museum of Wisconsin,Q6861802,5,1,2,"public museum in Wisconsin, United States",mpm.edu|Milwaukee Public Museum,Q33506,,Milwaukee Public Museum
+Southeast Wisconsin,Milwaukee County,Q502294,5,1,2,"county in Wisconsin, United States","Milwaukee County, Wisconsin|Milwaukee County, WI",Q12178928,,"Milwaukee County, Wisconsin"
+Southeast Wisconsin,Milwaukee,Q6861655,5,1,2,"former civil town in Milwaukee County, Wisconsin, United States","Milwaukee, Wisconsin|Town of Milwaukee|Milwaukee (town), Wisconsin|Milwaukee, WI",Q19953632|Q15219655,,"Milwaukee (town), Wisconsin"
+Southeast Wisconsin,Southeastern Wisconsin,Q54444202,5,1,2,"region of Wisconsin, United States",,Q82794,,
+Southeast Wisconsin,Southeastern Wisconsin Till Plains,Q60752501,5,1,2,"ecoregion in Wisconsin and Illinois, United States",Level III ecoregion 53|53-Southeastern Wisconsin Till Plains|US_L3CODE:53,Q52111338,,Southeastern Wisconsin Till Plains
+Southeast Wisconsin,Southeastern Wisconsin Savannah and Till Plain,Q110541485,5,1,2,"ecoregion in Wisconsin, United States",Level IV ecoregion 53c|53c-Southeastern Wisconsin Savannah and Till Plain|US_L4CODE:53c,Q52111409,,
+Southeast Wisconsin,Southeastern Wisconsin Conference,Q131561963,5,1,2,former Wisconsin high school athletic conference,,Q4438121,,Southeastern Wisconsin Conference
+Southeast Wisconsin,Southeastern Wisconsin Archives Group,Q107959280,5,1,2,professional society in United States,SWAG,Q829080,,
+Southeast Wisconsin,Southeastern Wisconsin Information Technology Exchange Consortium,Q30289385,5,1,2,"organization in Milwaukee, United States",,Q43229,,
+Southeast Wisconsin,Milwaukee metropolitan area,Q1146039,5,1,2,"metropolitan area in Wisconsin, United States","Milwaukee-Waukesha, WI Metropolitan Statistical Area|Milwaukee-Waukesha-West Allis, WI Metropolitan Statistical Area|Metro Milwaukee|Greater Milwaukee|Milwaukee-Waukesha, WI Metro Area|Milwaukee-Waukesha, WI MSA|Milwaukee-Waukesha MSA|Milwaukee-Waukesha metropolitan statistical area|Milwaukee-Waukesha metropolitan area|Milwaukee-Waukesha metro area|Milwaukee metro area",Q1768043,,Milwaukee metropolitan area
+Omaha,Omaha,Q43199,6,0,1,"seat of Douglas County, and largest city in State of Nebraska, United States","Omaha, Nebraska|Omaha, NE",Q1549591|Q1093829|Q62049,,"Omaha, Nebraska"
+Omaha,Omaha,Q10609474,6,0,1,2008 studio album by Ulf Lundell,,Q482994,,Omaha (album)
+Omaha,University of Nebraska Omaha,Q2495890,6,0,1,public university,UNO|University of Omaha|Nebraska-Omaha|Omaha|UNOMAHA|University of Nebraska at Omaha|unomaha.edu|Omaha University,Q875538|Q23002039,,University of Nebraska Omaha
+Omaha,Omaha,Q131506100,6,0,1,2025 film directed by Cole Webley,,Q11424,,Omaha (film)
+Omaha,Omaha Beach,Q464257,6,0,1,1944 one of the five sectors of the Allied invasion of German-occupied France,Omaha|Bloody Omaha|Dog Green Sector|Dog White Sector|Dog Red Sector|Easy Green Sector|Easy Red Sector|Fox Green Sector,Q590490|Q40080,,Omaha Beach
+Omaha,Omaha,Q982013,6,0,1,"city in Morris County, Texas, United States","Omaha, Texas|Omaha, TX",Q1093829,,"Omaha, Texas"
+Omaha,Omaha,Q2233593,6,0,1,"town in Arkansas, USA","Omaha, Arkansas|Omaha, AR",Q15127012,,"Omaha, Arkansas"
+Omaha,Omaha,Q7089400,6,0,1,racehorse: won the Triple Crown,,Q726,,Omaha (horse)
+Omaha,Ōmaha,Q7089396,6,0,1,"locality in Auckland Region, New Zealand",Omaha,Q3257686,,Ōmaha
+Omaha,Omaha–Ponca,Q2917968,6,0,1,Native American language,Omaha-Ponca|Omaha–Ponca language|oma,Q33742|Q1288568,Q3217420,Omaha–Ponca language
+Omaha,Eastern Nebraska,Q14214568,6,0,2,,,Q82794,,
+Omaha,Eastern Nebraska Wheelchair Athletic Association,Q30287173,6,0,2,"organization in Omaha, United States",,Q43229,,
+Omaha,Nebraska City,Q286025,6,0,2,"city and county seat of Otoe County, Nebraska, United States","Nebraska City, Nebraska|Nebraska City, NE",Q1093829|Q62049,,"Nebraska City, Nebraska"
+Omaha,Nebraska City High School,Q6984683,6,0,2,"high school in Nebraska, United States",,Q9826,,Nebraska City High School
+Omaha,Nebraska City Bridge,Q6984682,6,0,2,bridge over the Missouri River in Nebraska and Iowa in the United States,,Q537127,,Nebraska City Bridge
+Omaha,Nebraska City Bridge,Q69170429,6,0,2,former bridge over the Missouri River in Nebraska and Iowa in the United States,Waubonsie Bridge,Q537127,,
+Omaha,Nebraska City Municipal Airport,Q3014528,6,0,2,"airport in Nebraska, United States of America",AFK|KAFK,Q1248784,,Nebraska City Municipal Airport
+Omaha,U.S. Post Office,Q65040856,6,0,2,"post office in Nebraska City, Nebraska",Nebraska City Farmers Bank and Trust,Q35054,,"U.S. Post Office (Nebraska City, Nebraska)"
+Omaha,Burlington Railroad Depot,Q113581453,6,0,2,"railway station in Nebraska City, Nebraska","Nebraska City Burlington Depot|Nebraska City Burlington Depot, and Nebraska City station",Q55488,,Burlington Railroad Depot
+Omaha,Nebraska City railway bridge,Q138496086,6,0,2,"steel viaduct over the Missouri River, in the United States",,Q1210334,,
+Omaha,Nebraska City News-Press,Q17027475,6,0,2,US newspaper,News Press,Q11032,,Nebraska City News-Press
+Omaha,Nebraska City Historical Marker,Q49530709,6,0,2,park in the United States of America,,Q721747,,
+Omaha,Fremont,Q49220,6,0,2,"city in Alameda County, California, United States","Fremont, California|Freemont, California|Fremont, CA",Q13218357|Q3559093|Q1549591,,"Fremont, California"
+Omaha,Fremont,Q934308,6,0,2,"city in and county seat of Sandusky County, Ohio, United States","Fremont, Ohio|Fremont, OH",Q1093829|Q62049,,"Fremont, Ohio"
+Omaha,Fremont,Q1003816,6,0,2,unisex given name,,Q202444,,
+Omaha,Fremont,Q37118564,6,0,2,family name,,Q101352,,
+Omaha,Fremont,Q653613,6,0,2,"city and county seat of Dodge County, Nebraska, USA","Fremont, Nebraska|Fremont, NE",Q1093829,,"Fremont, Nebraska"
+Omaha,Daved H. Fremont,Q16195537,6,0,2,American professor,Daved Fremont|Daved H Fremont|D. H. Fremont|D H Fremont|D. Fremont|D Fremont|Fremont|Fremont D|Fremont D.|Fremont D. H.|Fremont DH,Q5,,Daved H. Fremont
+Omaha,Fremont County,Q484142,6,0,2,"county in western Wyoming, United States","Fremont County, Wyoming|Fremont County, WY",Q13415371,,"Fremont County, Wyoming"
+Omaha,Fremont,Q2459146,6,0,2,"city in Newaygo County, Michigan, United States","Fremont, Michigan|Fremont, MI",Q1093829,,"Fremont, Michigan"
+Omaha,Frémontiers,Q142859,6,0,2,"commune in Somme, France",,Q484170,,Frémontiers
+Omaha,Fremont Street,Q1455230,6,0,2,"thoroughfare in Las Vegas, United States",,Q83620,,Fremont Street
+Omaha,Lincoln,Q28260,6,0,2,capital city of the U.S. state of Nebraska and seat of Lancaster County,"Lincoln, Nebraska|Lincoln, NE",Q1093829|Q21518270|Q62049|Q1549591,,"Lincoln, Nebraska"
+Omaha,Lincoln,Q180057,6,0,2,"cathedral city and county town of Lincolnshire, England, UK",,Q515|Q1357964|Q1549591,,"Lincoln, England"
+Omaha,Lincoln,Q20989075,6,0,2,"non-metropolitan district of Lincolnshire, England",City of Lincoln|Lincoln (unparished area)|County Borough of Lincoln,Q1187580|Q1006876|Q21503295|Q7897276|Q1137272|Q518343,,
+Omaha,Lincoln,Q18610169,6,0,2,male given name,Lincoln (given name)|Lincoln (name)|Lincoln (first name),Q12308941,,
+Omaha,Lincolnshire,Q67533486,6,0,2,historic county of England,County of Lincoln,Q1138494,,
+Omaha,Lincoln,Q18610168,6,0,2,family name,Lincoln (name)|Lincoln (surname)|Lincoln (family name),Q101352,,Lincoln (name)
+Omaha,Lincoln,Q32433,6,0,2,2012 film directed by Steven Spielberg,,Q11424,,Lincoln (film)
+Omaha,Lincoln University,Q1126179,6,0,2,university in Missouri,Lincoln University of Missouri|lincolnu.edu,Q3918|Q615150|Q1620945|Q23002039|Q3914,,Lincoln University (Missouri)
+Omaha,Lincoln University,Q1048626,6,0,2,New Zealand university,"Lincoln College|Canterbury Agricultural College|Lincoln University (Canterbury, N.Z.)|Te Whare Wanaka o Aoraki|Te Whare Wānaka o Aoraki|Lincoln University, New Zealand|LU",Q875538|Q45400320|Q12420428|Q163740,,Lincoln University (New Zealand)
+Omaha,Lincoln,Q1421879,6,0,2,1988 studio album by They Might Be Giants,,Q482994,,Lincoln (album)
+Eastern Nebraska,Eastern Nebraska,Q14214568,6,1,1,,,Q82794,,
+Eastern Nebraska,Eastern Nebraska Wheelchair Athletic Association,Q30287173,6,1,1,"organization in Omaha, United States",,Q43229,,
+Eastern Nebraska,Omaha,Q43199,6,1,2,"seat of Douglas County, and largest city in State of Nebraska, United States","Omaha, Nebraska|Omaha, NE",Q1549591|Q1093829|Q62049,,"Omaha, Nebraska"
+Eastern Nebraska,Omaha,Q10609474,6,1,2,2008 studio album by Ulf Lundell,,Q482994,,Omaha (album)
+Eastern Nebraska,University of Nebraska Omaha,Q2495890,6,1,2,public university,UNO|University of Omaha|Nebraska-Omaha|Omaha|UNOMAHA|University of Nebraska at Omaha|unomaha.edu|Omaha University,Q875538|Q23002039,,University of Nebraska Omaha
+Eastern Nebraska,Omaha,Q131506100,6,1,2,2025 film directed by Cole Webley,,Q11424,,Omaha (film)
+Eastern Nebraska,Omaha Beach,Q464257,6,1,2,1944 one of the five sectors of the Allied invasion of German-occupied France,Omaha|Bloody Omaha|Dog Green Sector|Dog White Sector|Dog Red Sector|Easy Green Sector|Easy Red Sector|Fox Green Sector,Q590490|Q40080,,Omaha Beach
+Eastern Nebraska,Omaha,Q982013,6,1,2,"city in Morris County, Texas, United States","Omaha, Texas|Omaha, TX",Q1093829,,"Omaha, Texas"
+Eastern Nebraska,Omaha,Q2233593,6,1,2,"town in Arkansas, USA","Omaha, Arkansas|Omaha, AR",Q15127012,,"Omaha, Arkansas"
+Eastern Nebraska,Omaha,Q7089400,6,1,2,racehorse: won the Triple Crown,,Q726,,Omaha (horse)
+Eastern Nebraska,Ōmaha,Q7089396,6,1,2,"locality in Auckland Region, New Zealand",Omaha,Q3257686,,Ōmaha
+Eastern Nebraska,Omaha–Ponca,Q2917968,6,1,2,Native American language,Omaha-Ponca|Omaha–Ponca language|oma,Q33742|Q1288568,Q3217420,Omaha–Ponca language
+Eastern Nebraska,Nebraska,Q1553,6,1,2,state of the United States of America,"NE|State of Nebraska|Nebr.|Neb.|Nebraska, United States|Cornhusker State|US-NE",Q35657,,Nebraska
+Eastern Nebraska,University of Nebraska–Lincoln,Q1353679,6,1,2,"public university in Lincoln, Nebraska, United States","Nebraska|UNL|NU|University of Nebraska at Lincoln|University of Nebraska-Lincoln|U of N Lincoln|Nebraska-Lincoln|unl.edu|University of Nebraska|University of Nebraska, Lincoln",Q875538|Q615150|Q23002039|Q45400320,,University of Nebraska–Lincoln
+Eastern Nebraska,Nebraska,Q852024,6,1,2,1982 studio album by Bruce Springsteen,,Q482994|Q13557414,,Nebraska (album)
+Eastern Nebraska,Nebraska,Q12328483,6,1,2,British musician,,Q5,,
+Eastern Nebraska,Nebraska,Q122355969,6,1,2,2021 video game,,Q7889,,
+Eastern Nebraska,Nebraska,Q3337646,6,1,2,2013 film directed by Alexander Payne,,Q11424,,Nebraska (film)
+Eastern Nebraska,Nebraska City,Q286025,6,1,2,"city and county seat of Otoe County, Nebraska, United States","Nebraska City, Nebraska|Nebraska City, NE",Q1093829|Q62049,,"Nebraska City, Nebraska"
+Eastern Nebraska,The Nebraska medical journal,Q27712250,6,1,2,journal,Nebr Med J|Nebraska medical journal,Q5633421,,
+Eastern Nebraska,10195 Nebraska,Q11556,6,1,2,main-belt asteroid,Nebraska,Q3863,,10195 Nebraska
+Eastern Nebraska,Nebraska,Q21694042,6,1,2,episode of Dexter (S6 E7),,Q21191270,,Nebraska (Dexter)
+Eastern Nebraska,Nebraska City High School,Q6984683,6,1,2,"high school in Nebraska, United States",,Q9826,,Nebraska City High School
+Eastern Nebraska,Nebraska City Bridge,Q6984682,6,1,2,bridge over the Missouri River in Nebraska and Iowa in the United States,,Q537127,,Nebraska City Bridge
+Eastern Nebraska,Nebraska City Bridge,Q69170429,6,1,2,former bridge over the Missouri River in Nebraska and Iowa in the United States,Waubonsie Bridge,Q537127,,
+Eastern Nebraska,Nebraska City Municipal Airport,Q3014528,6,1,2,"airport in Nebraska, United States of America",AFK|KAFK,Q1248784,,Nebraska City Municipal Airport
+Eastern Nebraska,U.S. Post Office,Q65040856,6,1,2,"post office in Nebraska City, Nebraska",Nebraska City Farmers Bank and Trust,Q35054,,"U.S. Post Office (Nebraska City, Nebraska)"
+Eastern Nebraska,Burlington Railroad Depot,Q113581453,6,1,2,"railway station in Nebraska City, Nebraska","Nebraska City Burlington Depot|Nebraska City Burlington Depot, and Nebraska City station",Q55488,,Burlington Railroad Depot
+Eastern Nebraska,Nebraska City railway bridge,Q138496086,6,1,2,"steel viaduct over the Missouri River, in the United States",,Q1210334,,
+Eastern Nebraska,Nebraska City News-Press,Q17027475,6,1,2,US newspaper,News Press,Q11032,,Nebraska City News-Press
+Eastern Nebraska,Nebraska City Historical Marker,Q49530709,6,1,2,park in the United States of America,,Q721747,,
+Trabzon,Trabzon,Q45301,7,0,1,city in Turkey,Trebizond|Trapezous|Trapezus|Trapezounta|Trapizon|Trebizonde|Trapezunt|Trebisonda|Trapesunta|Trapisonda|Tribisonde|Terabesoun|Trebesun|Trabuzan|Trabizond|Tarabossan,Q2716259|Q1549591|Q515,,Trabzon
+Trabzon,Trabzon Province,Q388995,7,0,1,province in northeastern Turkey,TR-61|Trabzon ili,Q48336,,Trabzon Province
+Trabzon,Trabzon,Q5069394,7,0,1,electoral district,,Q106114863,,Trabzon (electoral district)
+Trabzon,Trabzonspor,Q192641,7,0,1,Turkish association football club,,Q476028,,Trabzonspor
+Trabzon,Trabzon Airport,Q1169859,7,0,1,airport near the city of Trabzon in the eastern Black Sea region of Turkey,TZX|LTCG|Trabzon,Q1248784|Q94993988,,Trabzon Airport
+Trabzon,Trabzon,Q29787863,7,0,1,,,,,
+Trabzon,Trabzon,Q110622310,7,0,1,bulk carrier launched in 2011,IMO 9595046,Q15276,,
+Trabzon,Trabzonspor Basketball,Q2128426,7,0,1,Turkish professional basketball team,,Q13393265,,Trabzonspor B.K.
+Trabzon,Trabzon İdmanocağı,Q6098614,7,0,1,women's football team of Trabzon İdmanocağı FC,,Q51481377,,Trabzon İdmanocağı (women's football)
+Trabzon,Trabzon,Q61105867,7,0,1,,,Q935921,,
+Trabzon,Trabzon City Museum,Q68425824,7,0,2,museum,,Q33506,,
+Trabzon,Trabzon City Museum,Q132681893,7,0,2,museum in Ortahisar District,,Q33506,,
+Eastern Karadeniz,Eastern Karadeniz,Q14214554,7,1,1,,,Q82794,,
+Eastern Karadeniz,Trabzon,Q45301,7,1,2,city in Turkey,Trebizond|Trapezous|Trapezus|Trapezounta|Trapizon|Trebizonde|Trapezunt|Trebisonda|Trapesunta|Trapisonda|Tribisonde|Terabesoun|Trebesun|Trabuzan|Trabizond|Tarabossan,Q2716259|Q1549591|Q515,,Trabzon
+Eastern Karadeniz,Trabzon Province,Q388995,7,1,2,province in northeastern Turkey,TR-61|Trabzon ili,Q48336,,Trabzon Province
+Eastern Karadeniz,Trabzon,Q5069394,7,1,2,electoral district,,Q106114863,,Trabzon (electoral district)
+Eastern Karadeniz,Trabzonspor,Q192641,7,1,2,Turkish association football club,,Q476028,,Trabzonspor
+Eastern Karadeniz,Trabzon Airport,Q1169859,7,1,2,airport near the city of Trabzon in the eastern Black Sea region of Turkey,TZX|LTCG|Trabzon,Q1248784|Q94993988,,Trabzon Airport
+Eastern Karadeniz,Trabzon,Q29787863,7,1,2,,,,,
+Eastern Karadeniz,Trabzon,Q110622310,7,1,2,bulk carrier launched in 2011,IMO 9595046,Q15276,,
+Eastern Karadeniz,Trabzonspor Basketball,Q2128426,7,1,2,Turkish professional basketball team,,Q13393265,,Trabzonspor B.K.
+Eastern Karadeniz,Trabzon İdmanocağı,Q6098614,7,1,2,women's football team of Trabzon İdmanocağı FC,,Q51481377,,Trabzon İdmanocağı (women's football)
+Eastern Karadeniz,Trabzon,Q61105867,7,1,2,,,Q935921,,
+Zigong,Zigong,Q29015,8,0,1,"prefecture-level city in Sichuan, China",,Q748149|Q1549591,,Zigong
+Zigong,Zigong,Q139413503,8,0,1,male given name,,Q12308941,,
+Zigong,Duanmu Ci,Q1039504,8,0,1,Important disciple of Confucius (520–456 BC),Zigong|Tuan-mu Tz'u|Tzu-kung,Q5,,Duanmu Ci
+Zigong,He Ji,Q9387011,8,0,1,Song dynasty person (CBDB = 10727),Zigong|Wending|Beishan,Q5,,
+Zigong,Fan Bailu,Q15897363,8,0,1,Song dynasty person (CBDB = 578),Zigong|Wenjian,Q5,,
+Zigong,Shen Ji,Q45649011,8,0,1,Ming dynasty person CBDB = 127645,Zigong|Donghai Laoren,Q5,,
+Zigong,Zhang Tao,Q11068789,8,0,1,Song dynasty person (CBDB = 8019),Zigong|Zhongding,Q5,,
+Zigong,Dong Mao,Q15900375,8,0,1,politician,Zigong,Q5,,
+Zigong,Lu Congyuan,Q45459396,8,0,1,Tang dynasty person CBDB = 92308,Zigong|Wen,Q5,,
+Zigong,Xu Qian,Q20688416,8,0,1,politician,Zigong,Q5,,
+Eastern Sichuan,Chuandong,Q15938598,8,1,1,"former territory (1950-1952) of the People's Republic of China, formed from the eastern area of Republican Sichuan (exclusive of Chongqing) and later merged into Sichuan Province",Ch'uan-tung|Chuan-tung|Ch'uantung|Chuantung|Chuandong Administrative Territory|Ch'uan-tung Administrative Territory|East Sichuan|Eastern Sichuan|Ch'uan-tung Hsing-shu-ch'ü|Chuan-tung Hsing-shu-chü|Chuandong Xingshuqu,Q19953632,,
+Eastern Sichuan,Eastern Sichuan,Q14214486,8,1,1,,East Sichuan,Q82794,,
+Eastern Sichuan,Zigong,Q29015,8,1,2,"prefecture-level city in Sichuan, China",,Q748149|Q1549591,,Zigong
+Eastern Sichuan,Zigong,Q139413503,8,1,2,male given name,,Q12308941,,
+Eastern Sichuan,Duanmu Ci,Q1039504,8,1,2,Important disciple of Confucius (520–456 BC),Zigong|Tuan-mu Tz'u|Tzu-kung,Q5,,Duanmu Ci
+Eastern Sichuan,He Ji,Q9387011,8,1,2,Song dynasty person (CBDB = 10727),Zigong|Wending|Beishan,Q5,,
+Eastern Sichuan,Fan Bailu,Q15897363,8,1,2,Song dynasty person (CBDB = 578),Zigong|Wenjian,Q5,,
+Eastern Sichuan,Shen Ji,Q45649011,8,1,2,Ming dynasty person CBDB = 127645,Zigong|Donghai Laoren,Q5,,
+Eastern Sichuan,Zhang Tao,Q11068789,8,1,2,Song dynasty person (CBDB = 8019),Zigong|Zhongding,Q5,,
+Eastern Sichuan,Dong Mao,Q15900375,8,1,2,politician,Zigong,Q5,,
+Eastern Sichuan,Lu Congyuan,Q45459396,8,1,2,Tang dynasty person CBDB = 92308,Zigong|Wen,Q5,,
+Eastern Sichuan,Xu Qian,Q20688416,8,1,2,politician,Zigong,Q5,,

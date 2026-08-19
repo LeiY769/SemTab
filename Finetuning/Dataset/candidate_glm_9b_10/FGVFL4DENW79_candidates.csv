@@ -1,0 +1,23 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Latin American University of Science and Technology,Latin American University of Science and Technology,Q6496264,0,0,1,University in Panama,,Q3918,,Latin American University of Science and Technology
+Latin American University of Science and Technology,Latin American University of Science and Technology,Q6156516,0,0,1,"private university in San José, Costa Rica",,Q3918,,
+Illinois College of Optometry,Illinois College of Optometry,Q5999410,1,0,1,optometry school in Chicago,,Q3918|Q23002054,,Illinois College of Optometry
+Illinois College of Optometry,Illinois College of Optometry,Q72026589,1,0,1,scientific article published on 01 February 1968,,Q13442814,,
+Illinois College of Optometry,Illinois College,Q574316,1,0,2,"liberal arts college in Jacksonville, Illinois, USA",,Q6540832|Q23002054,,Illinois College
+Illinois College of Optometry,Illinois College of Photography,Q5999413,1,0,2,American vocational college,Bissell College of Photo Engraving,Q2385804,,Illinois College of Photography
+Illinois College of Optometry,Illinois College of Osteopathic Medicine,Q136684251,1,0,2,medical school in Chicago,,Q3918,,Illinois College of Osteopathic Medicine
+Illinois College of Optometry,Illinois College Conference,Q97402235,1,0,2,,,,,Illinois College Conference
+Illinois College of Optometry,Illinois College Blueboys and Lady Blues,Q96190265,1,0,2,intercollegiate sports teams of Illinois College,Illinois College Blueboys|Illinois College Lady Blues|Illinois College athletics|Illinois Blueboys|Blueboys,Q2367225,,Illinois College Blueboys and Lady Blues
+Illinois College of Optometry,Illinois College Bookstore,Q99474690,1,0,2,"bookshop in Jacksonville, IL, United States of America",,Q200764,,
+Illinois College of Optometry,Illinois College Blueboys football,Q137797361,1,0,2,college football team,,Q17156793|Q18558301,,
+Illinois College of Optometry,Illinois College Blueboys basketball,Q137861274,1,0,2,men's basketball team of Illinois College,,Q18558301|Q13393265,,
+Huntington University,Huntington University,Q5945524,2,0,1,"institution of higher education in Huntington, Indiana, United States",,Q3918|Q23002054|Q1743327,,Huntington University (United States)
+Huntington University,Huntington University,Q5945521,2,0,1,"university in Greater Sudbury, Ontario, Canada",,Q3918|Q708676,,Huntington University (Canada)
+Huntington University,Huntington University of Health Sciences,Q114340004,2,0,1,,,Q2385804,,
+Huntington University,Huntington University Bookstore,Q99474580,2,0,1,"bookshop in Huntington, IN, United States of America",,Q200764,,
+Huntington University,Huntington University Department of Biology,Q101021874,2,0,1,academic department,,Q2467461,,
+Huntington University,Huntington University,Q5945518,2,0,1,Wikimedia disambiguation page,,Q4167410,,Huntington University
+High Point University,High Point University,Q5756235,3,0,1,"university in High Point, North Carolina",HPU|High Point College,Q3918|Q23002054,,High Point University
+High Point University,High Point Panthers,Q5756206,3,0,1,collegiate sports club in the United States,High Point University athletics,Q2367225,,High Point Panthers
+High Point University,High Point University,Q111464415,3,0,1,North Carolina historic marker J-42,J-42,Q721747,,
+High Point University,High Point University Official Bookstore,Q99474546,3,0,1,"bookshop in High Point, NC, United States of America",,Q200764,,

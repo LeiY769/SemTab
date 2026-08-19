@@ -1,0 +1,95 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Treasure of the Cathedral of Genoa,Treasure of the Cathedral of Genoa,Q3867980,0,0,1,museum in Italy,,Q33506|Q92755865|Q207694|Q124830213,,
+Catalyst Science Discovery Centre,Catalyst Science Discovery Centre,Q1050293,1,0,1,science centre and museum devoted to the chemical industry in the United Kingdom,Catalyst|The Museum of the Chemical Industry|Catalyst Science Discovery Centre and Museum,Q33506|Q115154402,,Catalyst Science Discovery Centre
+Civic Pinacotheca,Civic Pinacotheca,Q55360653,2,0,1,"pinacotheca in Pieve di Cento, Italy",,Q740437|Q33506|Q207694|Q97662266|Q124830213,,
+Civic Pinacotheca,Civic Pinacotheca of Reggio Calabria,Q3905107,2,0,1,"museum in Reggio Calabria, Italy",,Q740437|Q207694|Q2087181|Q124830213,,
+Civic Pinacotheca,pinacotheca,Q740437,2,0,2,public art gallery concentrating on paintings,pinacotheca|pinacoteca,Q63982911,Q7328910|Q3196771,Pinacotheca
+Civic Pinacotheca,Pinacotheca,Q97358648,2,0,2,,,,,Pinacotheca (Doctor Who)
+Civic Pinacotheca,Ravenna Art Museum,Q18810142,2,0,2,"civic art museum in Ravenna, Italy",Ravenna Art Gallery|MAR|Museo d'Arte della città di Ravenna|Pinacotheca of Ravenna,Q207694|Q16735822|Q97662266|Q740437|Q33506|Q124830213,,
+Civic Pinacotheca,Pinacotheca (Pauly-Wissowa),Q125507222,2,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Civic Pinacotheca,pinacotheca Giovanni Morscio,Q19849018,2,0,2,"museum in Dolceacqua, Italy",,Q740437|Q33506|Q97662266|Q124830213,,Pinacoteca Giovanni Morscio
+Civic Pinacotheca,Pinacotheca Gallery,Q58326937,2,0,2,Commercial art gallery in New York City,Rose Fried Gallery,Q4830453|Q1007870,,
+Civic Pinacotheca,Tate,Q430682,2,0,2,art institution in the United Kingdom,Tate Gallery|Tate galleries|National Gallery of British Art|The Tate|The Tate Gallery|Tate Museum,Q1047437|Q45400320|Q88667167,,Tate
+Civic Pinacotheca,National Gallery,Q180788,2,0,2,"art museum in London, England, UK","National Gallery, London|The National Gallery|The National Gallery, London|National Gallery (Great Britain)",Q3844310,,National Gallery
+Civic Pinacotheca,"Pinacotheca, Melbourne",Q85793341,2,0,2,"Art gallery located in Melbourne, Australia 1967–2002",,,,"Pinacotheca, Melbourne"
+Civic Pinacotheca,Neue Pinakothek,Q170152,2,0,2,"art museum in Munich, Germany",,Q740437|Q17431399|Q207694,,Neue Pinakothek
+Vabamu Museum of Occupations and Freedom,Vabamu Museum of Occupations and Freedom,Q625590,3,0,1,"museum in Tallinn, Estonia",Museum of Occupations,Q33506,,Vabamu Museum of Occupations and Freedom
+Vabamu Museum of Occupations and Freedom,freemasonry,Q41726,3,0,2,group of fraternal organizations,masonry|Free and Accepted Mason|masonic order|Ancient Free and Accepted Masons|AF and AM|F and AM|AF&AM|F&AM,Q874405|Q996839,,Freemasonry
+Vabamu Museum of Occupations and Freedom,freemasonry in Estonia,Q16408879,3,0,2,Wikipedia overview article,,Q20136634,,
+Vabamu Museum of Occupations and Freedom,Museum of Occupations and Freedom Fights,Q323860,3,0,2,"museum in Vilnius, Lithuania",Museum of Genocide Victims|KGB museum,Q33506,,Museum of Occupations and Freedom Fights
+Knoblauchhaus,Knoblauchhaus,Q1777246,4,0,1,museum in Germany,,Q1021106|Q33506,,
+Forum antique de Bavay,Forum antique de Bavay,Q3078613,5,0,1,museum in France,,Q33506|Q1062780,,
+Domokos Kuny Museum,Domokos Kuny Museum,Q1122060,6,0,1,"museum in Tata, Hungary",Kuny Domokos Múzeum|Kuny Múzeum|Kuny Domokos Megyei Múzeum|Tatai Vármúzeum|Tata Castle Museum|Kuny Domokos Muzeum|Kuny Muzeum|Kuny Domokos Megyei Muzeum|Tatai Varmuzeum,Q33506,,
+Dom-Museum,Dom Museum Bremen,Q1236491,7,0,1,"museum in Bremen, Germany",Dom-Museum (Bremen)|Dom Museum Bremen,Q33506,,
+Dom-Museum,Dom-Museum,Q1238556,7,0,1,"museum in Frankfurt/Main, Germany",,Q33506,,
+Dom-Museum,Dom Museum Wien,Q1238558,7,0,1,"museum located on Stephansplatz, Vienna, housing historic art of St. Stephen's Cathedral, the Archdiocese of Vienna, and modern & contemporary art.",Dom- und Diözesanmuseum,Q33506|Q1231888,,
+Dom-Museum,Meißen Cathedral Museum,Q129329034,7,0,1,"museum in Saxony, Germany",,Q33506,,
+Dom-Museum,Dom-Museum,Q1236496,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+The Kennedys,The Kennedys,Q1213817,8,0,1,2011 television miniseries,,Q5398426|Q1259759,,The Kennedys (miniseries)
+The Kennedys,The Kennedys,Q7744103,8,0,1,American folk-rock band,,Q215380|Q3046146,,The Kennedys (band)
+The Kennedys,The Kennedys,Q2412294,8,0,1,museum in Germany,,Q33506,,The Kennedys (museum)
+The Kennedys,The Kennedys,Q21203402,8,0,1,television series,,Q5398426,,The Kennedys (2015 TV series)
+The Kennedys,The Kennedys: After Camelot,Q23814874,8,0,1,2017 American television drama miniseries,,Q1259759,,The Kennedys: After Camelot
+The Kennedys,The Kennedys of Massachusetts,Q16934366,8,0,1,film directed by Lamont Johnson,Kennedys of Massachusetts,Q11424|Q1259759,,The Kennedys of Massachusetts
+The Kennedys,The Kennedys of Castleross,Q7744104,8,0,1,Irish serial drama (1955–1973),,Q1555508,,The Kennedys of Castleross
+The Kennedys,The Kennedys: a partial medical case history. Part 3,Q52435213,8,0,1,"scientific article published on March 1, 1976",,Q13442814,,
+The Kennedys,The Kennedys: a partial medical case history,Q52435415,8,0,1,"scientific article published on February 1, 1976",,Q13442814,,
+The Kennedys,The Kennedys: a partial medical case history. Part 1,Q52437494,8,0,1,"scientific article published on December 1, 1975",,Q13442814,,
+The Kennedys,Kennedy family,Q34821,8,0,2,prominent political family in the United States,Kennedy Clan|Kennedy Dynasty,Q952037,,Kennedy family
+The Kennedys,Kennedy family,Q18528323,8,0,2,Scottish nobility from Carrick (c.1350–1513),,Q8436,,
+The Kennedys,Kennedy family,Q18713427,8,0,2,fictional family from the Australian soap opera Neighbours,,Q15331236,,Kennedy family (Neighbours)
+The Kennedys,Kennedy Family Collection (NAID 17408626),Q59496164,8,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Kennedy Family Photographs (NAID 595831),Q59494714,8,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Kennedy Family Files (NAID 47831779),Q63898233,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Kennedy Family Files (NAID 1756480),Q63906699,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Kennedy Family Cemetery,Q117683244,8,0,2,"cemetery in Fulton County, Georgia, United States",,Q39614,,
+The Kennedys,Kennedy Family Cemetery,Q117632260,8,0,2,"cemetery in Linn County, Kansas, United States",,Q39614,,
+The Kennedys,Kennedy Family Cemetery,Q117489214,8,0,2,"cemetery in Dickenson County, Virginia, United States",Mullins Cemetery,Q39614,,
+The Kennedys,John F. Kennedy,Q9696,8,0,2,president of the United States from 1961 to 1963 (1917–1963),"Kennedy|President Kennedy|John Fitzgerald Kennedy|John Fitzgerald ""Jack"" Kennedy|JF Kennedy|John F Kennedy",Q5,,John F. Kennedy
+The Kennedys,John F. Kennedy,Q240666,8,0,2,2019 Gerald R. Ford-class aircraft carrier,CVN-79|USS John F. Kennedy|PCU John F. Kennedy,Q1186981|Q23134646,,USS John F. Kennedy (CVN-79)
+The Kennedys,John F. Kennedy School of Government,Q49127,8,0,2,school of public administration of Harvard University,HKS|Harvard University Kennedy School of Government|Harvard Kennedy School|Harvard Kennedy School of Government|John Fitzgerald Kennedy School of Government|Kennedy School of Government|John F Kennedy School of Government|Kennedy School,Q423208|Q11391922|Q20820271,,Harvard Kennedy School
+The Kennedys,John F. Kennedy Jr.,Q316064,8,0,2,American attorney and magazine publisher (1960–1999),"John-John|JFK Jr.|John Fitzgerald Kennedy Jr.|John F. Kennedy, Jr.|John Kennedy Jr.",Q5,,John F. Kennedy Jr.
+The Kennedys,John F. Kennedy International Airport,Q8685,8,0,2,"international airport in New York, United States",KJFK|JFK International Airport|JFK|Kennedy International|New York International Airport|Kennedy International Airport|JFK Airport|Idlewild Airport|Idlewild International Airport,Q644371|Q94993988,,John F. Kennedy International Airport
+The Kennedys,John F. Kennedy Presidential Library and Museum,Q2007919,8,0,2,"presidential library and museum for U.S. President John F. Kennedy in Boston, Massachusetts","Kennedy Library|Kennedy Presidential Library|JFK Library|JFK Presidential Library|John Fitzgerald Kennedy Library Boston, Massachusetts|jfklibrary.org",Q33506|Q7075,,John F. Kennedy Presidential Library and Museum
+The Kennedys,John F. Kennedy Center for the Performing Arts,Q1631981,8,0,2,"performing arts center in Washington, D.C., United States",The Trump Kennedy Center|The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts|Kennedy Center|John F. Kennedy Memorial Center for the Performing Arts|John F Kennedy Center for the Performing Arts|The Kennedy Center for the Performing Arts|JFK Center for the Performing Arts,Q3469910|Q8719053|Q163740,,Kennedy Center
+The Kennedys,John F. Kennedy Assassination Related Recordings and Transcripts (NAID 187143),Q63908545,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,John F. Kennedy,Q47512681,8,0,2,painting by René Robert Bouché,,Q3305213,,
+The Kennedys,John F. Kennedy,Q47512747,8,0,2,painting by Robert Vickrey,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q25310,8,0,2,American politician and lawyer (1925–1968),RFK|Robert Kennedy|Robert Francis Kennedy|Bobby Kennedy,Q5,,Robert F. Kennedy
+The Kennedys,Robert F. Kennedy Jr.,Q1352872,8,0,2,26th United States Secretary of Health and Human Services since 2025,"Robert Francis Kennedy Jr.|Robert Francis Kennedy|RFK Jr.|Robert Kennedy Jr.|Bobby Kennedy Jr.|Robert F. Kennedy, Jr.|RFK, Jr.|Robert Francis Kennedy, Jr.|Robert Kennedy, Jr.|Bobby Kennedy, Jr.|RFKJ",Q5,,Robert F. Kennedy Jr.
+The Kennedys,Robert F. Kennedy,Q47513029,8,0,2,painting by Bernard Safran,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47512506,8,0,2,painting by Robert Vickrey,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47512624,8,0,2,painting by Gardner Cox,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47511617,8,0,2,painting by Louis S. Glanzman,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47509096,8,0,2,painting by Henry Koerner,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47509201,8,0,2,painting by David Stone Martin,,Q3305213,,
+The Kennedys,Robert F. Kennedy,Q47512601,8,0,2,painting by Robert Vickrey (NPG NPG.90.TC3),,Q3305213,,
+The Kennedys,"Robert F. Kennedy Stadium, Washington, D.C., July 12 & 13, 1989",Q39057190,8,0,2,2017 live album by Grateful Dead,,Q482994,,"Robert F. Kennedy Stadium, Washington, D.C., July 12 & 13, 1989"
+The Kennedys,Ted Kennedy,Q134549,8,0,2,United States Senator from Massachusetts from 1962 to 2009,"Edward Moore ""Ted"" Kennedy|Edward Kennedy|Edward M. Kennedy",Q5,,Ted Kennedy
+The Kennedys,Edward M. Kennedy Jr.,Q3048622,8,0,2,American lawyer,"Edward Kennedy|Edward Moore Kennedy, Jr.|Edward Moore Kennedy|Edward M. Kennedy, Jr.|Edward Moore Kennedy Jr.|Ted Kennedy, Jr.|Ted Kennedy Jr.",Q5,,Edward M. Kennedy Jr.
+The Kennedys,Edward M. Kennedy Senate Files (NAID 7388886),Q59492380,8,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Edward M. Kennedy Academy for Health Careers,Q5344270,8,0,2,"high school in Massachusetts, United States",,Q9826,,Edward M. Kennedy Academy for Health Careers
+The Kennedys,Edward M. Kennedy Serve America Act,Q5344271,8,0,2,2009 Act of Congress,Serve America Act,Q476068,,Edward M. Kennedy Serve America Act
+The Kennedys,Edward M. Kennedy Institute for the United States Senate,Q5344269,8,0,2,"educational institution and museum in Boston, Massachusetts",Edward M. Kennedy Institute for the US Senate,Q163740,,Edward M. Kennedy Institute for the United States Senate
+The Kennedys,Edward M. Kennedy Correspondence (NAID 638329),Q63909252,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Edward M. Kennedy Judgeship Committee Files (NAID 18495406),Q63909229,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+The Kennedys,Joseph P. Kennedy Sr.,Q313696,8,0,2,"American businessman, politician and diplomat (1888–1969)","Joseph P. Kennedy|Joseph Patrick Kennedy, Sr.|Joseph Patrick ""Joe"" Kennedy, Sr.|Joseph Patrick Kennedy",Q5,,Joseph P. Kennedy Sr.
+The Kennedys,Joseph P. Kennedy Jr.,Q505178,8,0,2,junior officer in the United States Navy and elder brother of John F. Kennedy,"Joseph Patrick Kennedy|Joseph Patrick ""Joe"" Kennedy Jr.|Joseph Patrick Kennedy Jr.|Lt. Joseph Patrick Kennedy|Joe Kennedy Jr|Joseph P. Kennedy",Q5,,Joseph P. Kennedy Jr.
+The Kennedys,"Joseph P. Kennedy, Jr. Foundation",Q6286013,8,0,2,organization,Joseph P. Kennedy Jr. Foundation,Q43229,,Joseph P. Kennedy Jr. Foundation
+Fjell Fortress,Fjell Fortress,Q328452,9,0,1,"building in Fjell, Hordaland, Norway",MKB 11/504 Fjell|Fjell festning,Q2065736|Q33506|Q1785071,,Fjell Fortress
+EAA Aviation Museum,EAA Aviation Museum,Q1273793,10,0,1,"aviation museum in Oshkosh, Wisconsin, U.S.",EAA AirVenture Museum|eaa.org|Air Adventure Museum,Q33506,,EAA Aviation Museum
+EAA Aviation Museum,Experimental Aircraft Association,Q1384383,10,0,2,"aviation organization in Oshkosh, United States",EAA,Q43229|Q18325436,,Experimental Aircraft Association
+Chalet d'Ivan Tourgueniev et pavillon Viardot,Chalet d'Ivan Tourgueniev et pavillon Viardot,Q3329211,11,0,1,museum in France,,Q33506|Q136689,,
+Hungarian Geographical Museum,Hungarian Geographical Museum,Q1161930,12,0,1,museum in Érd,,Q33506,,
+Museum Oorlog en Vrede,Museum Oorlog en Vrede,Q2933521,13,0,1,,,Q33506,,
+New Taipei City Hakka Museum,New Taipei City Hakka Museum,Q11081375,14,0,1,"museum in New Taipei, Taiwan",Taipei County Hakka Museum|Hakka Museum New Taipei City Government,Q33506,,New Taipei City Hakka Museum
+New Taipei City Hakka Museum,New Taipei City,Q244898,14,0,2,"city in Taiwan, and most populous municipality of Taiwan",Xinbei City|Taipei County|New Taipei City|NTPC,Q2225003|Q515|Q51929311|Q691960,,New Taipei City
+New Taipei City Hakka Museum,New Taipei City,Q114606940,14,0,2,,,Q21286738,,
+New Taipei City Hakka Museum,Member of New Taipei City Council,Q48976144,14,0,2,,New Taipei City Councilor,Q4164871,Q708492,
+New Taipei City Hakka Museum,New Taipei City Council,Q11081523,14,0,2,The council of New Taipei,,Q701632|Q3308596,,New Taipei City Council
+New Taipei City Hakka Museum,New Taipei City Government,Q11081380,14,0,2,"government of New Taipei City, Taiwan",,Q35798|Q6501447,,New Taipei City Government
+New Taipei City Hakka Museum,New Taipei City Constituency 12,Q16928978,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,New Taipei City Constituency 12
+New Taipei City Hakka Museum,New Taipei City Constituency 3,Q16928966,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,New Taipei City Constituency 3
+New Taipei City Hakka Museum,New Taipei City Constituency 1,Q16928962,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,New Taipei City Constituency 1
+New Taipei City Hakka Museum,New Taipei City Constituency 4,Q16928982,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,New Taipei City Constituency 4
+New Taipei City Hakka Museum,New Taipei City Constituency 6,Q16928975,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,New Taipei City Constituency 6

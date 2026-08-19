@@ -1,0 +1,34 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+ricskov,,,0,0,0,,,,,
+Krokskpgen,Krokskogen,Q56189596,1,0,2,protected area in Norway,,Q179049,,
+Krokskpgen,Krokskogen,Q1772287,1,0,2,forested area,,Q338112|Q4421|Q740445|Q54050,,Krokskogen
+Dawert,,,2,0,0,,,,,
+Bovenswe Bqsch,,,3,0,0,,,,,
+Karlsburger Kolz,Karlsburger,Q107377837,4,0,2,family name,,Q101352,,
+Karlsburger Kolz,Karlsburger Holz,Q32063942,4,0,2,,,Q4421,,
+Karlsburger Kolz,Karlsburger und Oldenburger Holz,Q1971064,4,0,2,"nature reserve in Mecklenburg-Vorpommern, Germany",,Q759421|Q473972,,
+Karlsburger Kolz,Yechezkel Roth,Q7213028,4,0,2,rabbi,Karlsburger Rav,Q5,,Yechezkel Roth
+Karlsburger Kolz,Karlsburger Holz,Q60626788,4,0,2,"protected area in the European Union defined by the habitats directive in Schleswig-Holstein, Germany",,Q1191622,,
+Karlsburger Kolz,Karlsburger Au,Q101282320,4,0,2,stream in Germany,,Q63565252,,
+Karlsburger Kolz,Karlsburger Holz,Q32063941,4,0,2,forest in Germany,,Q4421,,
+Karlsburger Kolz,Karlsburger Weg,Q111350452,4,0,2,"street in Marzahn-Hellersdorf district, Berlin, Germany",,Q79007,,
+Karlsburger Kolz,Karlsburger Feldweg,Q106257705,4,0,2,"street in Kiel, Schleswig-Holstein, Germany",Karlsburger Feldweg (Kiel),Q3352369,,
+Karlsburger Kolz,Karlsburger Zeitung,Q120393056,4,0,2,,,Q11032,,
+Cache National Foresw,Cache National Forest,Q5015959,5,0,2,National forest in the United States,"Cache National Forest (Utah and Idaho)|Cache National Forest, Utah and Idaho|Cache NF",Q612741|Q4421,,Cache National Forest
+Cache National Foresw,Cache National Forest,Q111907587,5,0,2,"protected area in Cache County, Utah",,Q473972,,
+Volkenroder Wld,Volkenroder Wald,Q2530844,6,0,2,forest in Germany,,Q4421,,
+Volkenroder Wld,Volkenroder Wald,Q58491657,6,0,2,"nature reserve in Thuringia, Germany",,Q759421|Q473972,,
+Volkenroder Wld,Volkenröder Straße,Q100650754,6,0,2,"street in Mühlhausen, Thuringia, Germany",,Q79007,,
+Volkenroder Wld,Volkenroder Weg,Q100636564,6,0,2,"street in Erfurt, Thuringia, Germany",,Q79007,,
+Volkenroder Wld,Volkenroder Weg,Q136651098,6,0,2,,,Q2175765,,
+Gagebos,,,7,0,0,,,,,
+chlener Heide,,,8,0,0,,,,,
+Ffort Fach,Fforestfach,Q5446227,9,0,2,"suburb of Swansea, Wales, UK",Fforest-fach,Q188509,,Fforestfach
+Ffort Fach,Fforest Fach,Q5446225,9,0,2,"Unenclosed area of Powys, Wales",,Q4421,,Fforest Fach
+Ffort Fach,Fforest Fach,Q106709669,9,0,2,hill (381.3m) in Powys,,Q54050|Q207326,,
+Ffort Fach,Forest Hall,Q5469235,9,0,2,"house in Fforestfach, Swansea, Wales, UK",Fforest Hall|Fforest-fâch Hall,Q3947,,
+Ffort Fach,Fforest Fach North Top,Q106711372,9,0,2,hill (381m) in Powys,,Q54050|Q207326,,
+Fort tkinson,,,10,0,0,,,,,
+Klsterskoy,,,11,0,0,,,,,
+Mbssenei,,,12,0,0,,,,,
+Eggald,Solanum melongena,Q7540,13,0,1,species of plant,eggplant|eggfruit|mad apple|aubergine|brinjal|melongene|guinea squash|purple cucumber|white eggplant,Q16521,Q157957|Q1086824|Q11992872|Q192691|Q21028485,Eggplant

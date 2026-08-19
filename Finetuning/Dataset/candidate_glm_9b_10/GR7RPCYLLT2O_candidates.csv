@@ -1,0 +1,70 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+HD 199714,HD 199714,Q16620491,0,0,1,,,Q203958|Q13890|Q523|Q67206691,,
+HD 199714,star,Q523,0,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 199714,Star Trek,Q1092,0,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 199714,Star,Q37529922,0,0,2,family name,,Q101352,,
+HD 199714,Star Wars,Q462,0,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 199714,Star,Q381936,0,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 199714,celebrity,Q211236,0,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 199714,STAR,Q3480422,0,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 199714,Starnberg,Q61936,0,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 199714,Star TV,Q2067812,0,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 199714,Starz Entertainment,Q515869,0,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 199714,planetary system,Q206717,0,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 199714,star system,Q595871,0,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 199714,star system,Q2333293,0,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 199714,STAR System World Kickboxing Ratings,Q7394680,0,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 199714,Star System Tenopia,Q135106451,0,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 199714,Star Systems,Q130379854,0,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 199714,Star system,Q106848031,0,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 199714,STAR,Q7394670,0,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 199714,Star system,Q113173696,0,0,2,,,Q215380,,
+HD 199714,How to Lose Friends & Alienate People,Q770158,0,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)
+HD 196819,HD 196819,Q16620489,1,0,1,,,Q203958|Q523|Q67206691,,
+BD+31 4152,BD+31 4152,Q16620486,2,0,1,,,Q203958|Q523|Q67206691,,
+HD 182918,HD 182918,Q16620473,3,0,1,,,Q203958|Q523|Q67206691,,
+HD 182918,star,Q523,3,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 182918,Star Trek,Q1092,3,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 182918,Star,Q37529922,3,0,2,family name,,Q101352,,
+HD 182918,Star Wars,Q462,3,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 182918,Star,Q381936,3,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 182918,celebrity,Q211236,3,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 182918,STAR,Q3480422,3,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 182918,Starnberg,Q61936,3,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 182918,Star TV,Q2067812,3,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 182918,Starz Entertainment,Q515869,3,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 182918,Noquisi,Q1045802,3,0,2,star in the constellation Leo,Gliese 436|GJ 436|LHS 310|Ross 905|HIP 57087|HIC 57087|StKM 2-754|MCC 616|NLTT 28288|GCRV 7104|ASCC 683818|LFT 838|LTT 13213|TIC 138819293|TOI-1796|TYC 1984-2613-1|VVO 171|Zkh 164|UCAC2 41198281|UCAC4 584-046777,Q523|Q2154519|Q2247863|Q67206785|Q5893,,Gliese 436
+HD 182918,Gliese 436 b,Q842110,3,0,2,extrasolar planet,Awohali,Q44559,,Gliese 436 b
+HD 182918,Gliese 436 c,Q2993376,3,0,2,extrasolar planet,GJ 436c,Q18611609|Q523,,
+CE Camelopardalis,CE Camelopardalis,Q5010398,4,0,1,star in the constellation Camelopardalis,HR 1040|CE Cam|HD 21389|HIP 16281|HIC 16281,Q193599|Q353834|Q67206691|Q72803622|Q41872|Q11282|Q203958|Q523|Q1993624,,HD 21389
+CE Camelopardalis,Camelopardalis,Q8832,4,0,2,constellation in the northern celestial hemisphere,the Giraffe|Camelopardalus|Camelopardi|Camelopardus|Cam,Q8928,,Camelopardalis
+CE Camelopardalis,Camelopardalis,Q121391700,4,0,2,genus of mammals (fossil),,Q23038290,,
+CE Camelopardalis,Camelopardalis,Q5025924,4,0,2,,,,,Camelopardalis in Chinese astronomy
+CE Camelopardalis,Camelopardalis microdon,Q126717778,4,0,2,species of mammal (fossil),,Q23038290,,
+CE Camelopardalis,Camelopardalis giraffa,Q122389470,4,0,2,species of mammal,,Q16521,,
+CE Camelopardalis,Camelopardalis parva,Q121391703,4,0,2,species of mammal (fossil),,Q23038290,,
+CE Camelopardalis,Camelopardalis A,Q2934735,4,0,2,galaxy,,Q115518,,
+CE Camelopardalis,Camelopardalis OB1,Q9184318,4,0,2,group of young stars,Camelopardalis OB1 association,Q56425403|Q9262,,Camelopardalis OB1
+CE Camelopardalis,Camelopardalis B,Q9184317,4,0,2,galaxy,,Q318,,
+CE Camelopardalis,Camelopardalis dark region,Q3931952,4,0,2,dark nebula in the constellation Camelopardalis,,Q11282,,Camelopardalis dark region
+HD 42050,HD 42050,Q4009138,5,0,1,,,Q203958|Q9262|Q523|Q67206691,,
+HD 42050,star,Q523,5,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 42050,Star Trek,Q1092,5,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 42050,Star,Q37529922,5,0,2,family name,,Q101352,,
+HD 42050,Star Wars,Q462,5,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 42050,Star,Q381936,5,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 42050,celebrity,Q211236,5,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 42050,STAR,Q3480422,5,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 42050,Starnberg,Q61936,5,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 42050,Star TV,Q2067812,5,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 42050,Starz Entertainment,Q515869,5,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+HD 42050,planetary system,Q206717,5,0,2,set of non-stellar objects in orbit around a star,star system|sun system|planet system,Q17444909,Q15053549,Planetary system
+HD 42050,star system,Q595871,5,0,2,"type of astronomical object, stars which orbit each other",stellar system|multiple star|multiple stars|multiple star system|sun system,Q17444909,Q15053549|Q6999,Star system
+HD 42050,star system,Q2333293,5,0,2,"creating, promoting and exploiting stars in Hollywood films",star machine,Q58778,Q580995,Star system (filmmaking)
+HD 42050,STAR System World Kickboxing Ratings,Q7394680,5,0,2,"the premier rating service for international kickboxing,",,Q43229,,STAR System World Kickboxing Ratings
+HD 42050,Star System Tenopia,Q135106451,5,0,2,novel by Richard Brightfield,,Q7725634,,
+HD 42050,Star Systems,Q130379854,5,0,2,"Artists' loft, studio and performing arts space in Boston's South End",24 Thayer|Star Systems loft,Q746628|Q8719053|Q699405,,
+HD 42050,Star system,Q106848031,5,0,2,episode of Le Jour où tout a basculé,,Q21191270,,
+HD 42050,STAR,Q7394670,5,0,2,interbank network,,Q4830453,,STAR (interbank network)
+HD 42050,Star system,Q113173696,5,0,2,,,Q215380,,
+HD 42050,How to Lose Friends & Alienate People,Q770158,5,0,2,2008 film by Robert B. Weide,,Q11424,,How to Lose Friends & Alienate People (film)

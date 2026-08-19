@@ -1,0 +1,54 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - ladies' singles free skating,Q74826283,0,0,1,segment of a figure skating competition,,Q4380244,,
+2005 Cup of China - ladies' singles free skating,Cup of China,Q1144157,0,0,2,international figure skating competition,,Q18608583,Q2990963,Cup of China
+2005 Cup of China - ladies' singles free skating,2007 Cup of China,Q4022498,0,0,2,figure skating competition,Cup of China 2007,Q2990963,,2007 Cup of China
+2005 Cup of China - ladies' singles free skating,2020 Cup of China,Q101112753,0,0,2,figure skating competition,2020 Shiseido Cup of China|Shiseido Cup of China 2020|Cup of China 2020,Q2990963,,2020 Cup of China
+2005 Cup of China - ladies' singles free skating,Cup of China 2026,Q139621764,0,0,2,figure skating competition,2026 Cup of China,Q13406554,,2026 Cup of China
+2005 Cup of China - ladies' singles free skating,2012 Cup of China,Q116455,0,0,2,figure skating competition,,Q2990963,,2012 Cup of China
+2005 Cup of China - ladies' singles free skating,2017 Cup of China,Q30093068,0,0,2,figure skating competition,,Q2990963,,2017 Cup of China
+2005 Cup of China - ladies' singles free skating,2013 Cup of China,Q2999859,0,0,2,figure skating competition,,Q2990963,,2013 Cup of China
+2005 Cup of China - ladies' singles free skating,2016 Cup of China,Q24046185,0,0,2,figure skating competition,,Q2990963,,2016 Cup of China
+2005 Cup of China - ladies' singles free skating,2015 Cup of China,Q19606147,0,0,2,figure skating competition,,Q2990963,,2015 Cup of China
+2005 Cup of China - ladies' singles free skating,2008 Cup of China,Q2030430,0,0,2,figure skating competition,,Q2990963,,2008 Cup of China
+2005 Cup of China - ladies' singles free skating,2005 Cup of China,Q4022661,0,0,2,figure skating competition,,Q2990963,,2005 Cup of China
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - men's singles,Q56259623,0,0,2,part of a figure skating competition,,Q16510064,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - ice dancing,Q74826302,0,0,2,part of a figure skating competition,,Q16510064,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - pair skating,Q74826293,0,0,2,part of a figure skating competition,,Q16510064,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - ladies' singles,Q74826282,0,0,2,part of a figure skating competition,,Q16510064,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - ice dancing original dance,Q74826300,0,0,2,segment of a figure skating competition,,Q4336440,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - pair skating free skating,Q74826292,0,0,2,segment of a figure skating competition,,Q4380244,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - men's singles short program,Q74826271,0,0,2,segment of a figure skating competition,,Q2031615,,
+2005 Cup of China - ladies' singles free skating,2005 Cup of China - ladies' singles short program,Q74826281,0,0,2,segment of a figure skating competition,,Q2031615,,
+People's Republic of China,People's Republic of China,Q148,0,1,1,country in East Asia,Red China|PR China|Communist China|China PR|cn|The PRC|P.R.C.|the People's Republic of China,Q3624078|Q842112|Q859563|Q1520223|Q465613|Q118365|Q849866|Q6256|Q185145|Q10711424,,China
+People's Republic of China,People's Republic of China,Q22828645,0,1,1,Wikimedia permanent duplicate item,,Q21286738,,
+People's Republic of China,government of the People's Republic of China,Q936190,0,1,1,administrative bodies of China,Chinese Government|PRC government|the People's Republic of China government|People's Republic of China government|government of China,Q1320217|Q50686|Q842112|Q179164,Q1320217,Government of China
+People's Republic of China,Classification and code of disciplines,Q10872045,0,1,1,,GB/T 13745|People's Republic of China Subject Classification,Q5962346|Q834575|Q121344523,,
+People's Republic of China,education in China,Q757827,0,1,1,overview about education in China,education of the People's Republic of China|People's Republic of China education|education in the People's Republic of China,Q64801076,,Education in China
+People's Republic of China,history of the People's Republic of China,Q862552,0,1,1,aspect of history,the People's Republic of China history|People's Republic of China history,Q17544377,,History of the People's Republic of China
+People's Republic of China,tennis in the People's Republic of China,Q7700471,0,1,1,overview of tennis in the People's Republic of China,Chinese tennis|tennis in China|People's Republic of China tennis,Q29791211,Q3493914,Tennis in China
+People's Republic of China,Ministry of National Defense of the People's Republic of China,Q1332463,0,1,1,Chinese government ministry responsible for military and national defense matters,People's Republic of China Ministry of Defense|MoD China|Chinese Ministry of Defense|Ministry of Defense of the People's Republic of China|Ministry of National Defense of China|Chinese Ministry of National Defense|MoD People's Republic of China|Ministry of National Defense,Q4294273|Q1788820,,Ministry of National Defense (China)
+People's Republic of China,Red Cross Society of China,Q908277,0,1,1,national Red Cross society in the People's Republic of China,Red Cross of People's Republic of China|People's Republic of China Red Cross,Q1968122|Q98675100|Q10883540,,Red Cross Society of China
+People's Republic of China,China and weapons of mass destruction,Q1196651,0,1,1,overview about China and its weapons of mass destruction,People's Republic of China and weapons of mass destruction|nuclear weapons program of China|nuclear weapons program of the People's Republic of China,Q74817647|Q19753333,,China and weapons of mass destruction
+People's Republic of China,Taiwan,Q865,0,1,2,country in East Asia,"Taiwan ROC|The ROC|Republic of China (Taiwan)|Chunghwa Minkuo|TPE|Nationalist China|Chunghwa Minkwo|Chinese Taipei|Free China|Republic of China|China, Republic of|Chinese Republic",Q112099|Q5255892|Q6501447|Q3624078|Q10711424|Q1084|Q16562419|Q25449457,,Taiwan
+People's Republic of China,China,Q29520,0,1,2,"cultural region, ancient civilization, and nation in East Asia; mostly refers to the People's Republic of China in political situation and rarely refers to the Republic of China",Cathay|Chunghwa|Zhongguo|Chung-kuo|Zhonghua|Chung-hua|Sinae|Flowery Kingdom|Celestial Kingdom|Middle Kingdom|Central Kingdom|Tianxia|All under Heaven|Katay|Khitai,Q3502482|Q5284036|Q28171280|Q6256|Q7275|Q1084|Q2221906,Q82794,China (region)
+People's Republic of China,porcelain,Q130693,0,1,2,ceramic material,china|fine china,Q214609,Q125274801|Q45621,Porcelain
+People's Republic of China,China,Q20898938,0,1,2,female given name,China (first name)|China (given name),Q11879590,,
+People's Republic of China,Republic of China,Q13426199,0,1,2,1912–1949 country in Asia,Republic of China 1912–1949|Republic of China before 1949|ROC 1912–1949|China 1912–1949|ROC|Republic of China (1912–1949)|China (1912–1949)|Republic of China (mainland),Q3024240|Q11514315|Q6256,,Republic of China (1912–1949)
+People's Republic of China,mainland China,Q7262427,0,1,2,"political and legal terms used by the PRC to refer customs territory of China except Hong Kong, Macau and Taiwan",Chinese Mainland|the mainland of China|Inland China|WTO China|China|China mainland,Q82794|Q2135465|Q56061|Q253836|Q5982983|Q125470455|Q3502482|Q161243,,Inland China
+People's Republic of China,China,Q37229573,0,1,2,family name,,Q101352,,
+People's Republic of China,China Journal of Highway and Transport,Q96335203,0,1,2,journal,Zhongguo Gonglu Xuebao,Q5633421|Q73364223,,
+People's Republic of China,China Biographical Database,Q13407958,0,1,2,biographical database of Chinese people,CBDB,Q36570165|Q7094076,,China Biographical Database
+People's Republic of China,"China, People’s Republic of",Q103897336,0,1,2,encyclopedia article,,Q13433827,,
+2019 Ukrainian Figure Skating Championships - men's singles free skating,2019 Ukrainian Figure Skating Championships - men's singles free skating,Q60030496,1,0,1,,,Q4380244,,
+2019 Ukrainian Figure Skating Championships - men's singles free skating,Ukrainian Figure Skating Championships,Q2031947,1,0,2,recurring figure skating competition,,Q18608583,Q59624231,Ukrainian Figure Skating Championships
+Ukraine,Ukraine,Q212,1,1,1,country in Eastern Europe,Ukrainia|Ukr.|Ukraina|Ukraïna,Q3624078|Q6256|Q179164|Q7270|Q619610|Q4209223|Q4835091,,Ukraine
+Ukraine,full-scale Russo-Ukrainian war,Q110999040,1,1,1,"full-scale invasion of Ukraine by Russia starting on 24 February 2022, part of Russo-Ukrainian War",Russia's invasion of Ukraine|Russo-Ukrainian War|War in Ukraine|invasion of Ukraine|Ukrainian Patriotic War|Russian attack on Ukraine|Special military operation in Ukraine|Ukraine invasion|Operation Z|Ukrainian War|Russo-Ukrainian war (2022–present)|Russia-Ukraine war 2022|Russian war in Ukraine 2022,Q198|Q645883|Q2001676|Q467011|Q7883019|Q11422542|Q474138|Q154605|Q123458523,,Russo-Ukrainian war (2022–present)
+Ukraine,Ukraine men's national football team,Q170403,1,1,1,men's national association football team representing Ukraine,Ukraine national football team|Ukraine national association football team|Ukraine men's national association football team,Q135408445,Q1194951,Ukraine national football team
+Ukraine,Ukraina Stadium,Q2296961,1,1,1,"multi-purpose stadium in Lviv, Ukraine","Ukraine Stadium|Stadion Ukraina|Ukraina Stadium, Lviv|Ukraine Stadium, Lviv|Stadion Ukraina, Lviv|Stadion Ukraine|Stadion Ukraine, Lviv|Ukraine|Ukraina|Ukraine, Lviv|Ukraina, Lviv|Ukraina Stadium (Lviv)|Ukraine Stadium (Lviv)|Stadion Ukraina (Lviv)|Stadion Ukraine (Lviv)|Ukraine (Lviv)|Ukraina (Lviv)",Q1154710,,Ukraina Stadium
+Ukraine,Kievskaia starina,Q4220180,1,1,1,ethographic and literary chronicle,Ukraïna|Ukraina|Kyivan Past|Kyivan Antiquity|Ukraine|Kievskaya starina,Q11032,,Kievskaia starina
+Ukraine,Ukraine national under-21 football team,Q1579270,1,1,1,sports team,,Q6979740,,Ukraine national under-21 football team
+Ukraine,Ukraine,Q23653964,1,1,1,Wikimedia permanent duplicate item,,Q21286738,,
+Ukraine,Cabinet of Ministers of Ukraine,Q613729,1,1,1,"The executive of Ukraine, consisting of the prime minister and cabinet ministers.",Government of Ukraine|Ukrainian Government|CMU|Cabinet of Ukraine|Ukraine government|CabMin,Q35798|Q7188,Q640506,Government of Ukraine
+Ukraine,Ukraine national under-19 football team,Q2392398,1,1,1,sports team,,Q6979593,,Ukraine national under-19 football team
+Ukraine,Ukraine,Q25446296,1,1,1,song by Taras Petrynenko,Ukraina|Ukraino,Q105543609,,
+Ukraine,Ukrainian Figure Skating Championships,Q2031947,1,1,2,recurring figure skating competition,,Q18608583,Q59624231,Ukrainian Figure Skating Championships

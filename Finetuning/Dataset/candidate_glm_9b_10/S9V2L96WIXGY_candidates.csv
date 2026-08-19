@@ -1,0 +1,68 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Mimosa,Mimosa,Q160110,0,0,1,genus of plants,,Q16521,,Mimosa
+Mimosa,Mimosa,Q13105,0,0,1,star in the constellation Crux,Beta Crusis|Becrux|bet Cru|β Cru|β Crusis|ROT 1887|SAO 240259|HD 111123|HIP 62434|HIC 62434|CEL 4154|HR 4853|HGAM 2011|GCRV 7661|PPM 341305|SBC9 2446|IRAS 12448-5925|GSC 08659-03107|GC 17374|ALS 14974,Q13890|Q1993624|Q6243|Q764463|Q67206691|Q2154519|Q67206785|Q71798788|Q353834|Q43185343,,Mimosa (star)
+Mimosa,Mimosa,Q3858228,0,0,1,female given name,,Q11879590,,
+Mimosa,Mimosa pudica,Q148532,0,0,1,species of plant in the family Fabaceae,Sleepy plant|Dormilones|Touch-me-not|Sensitive plant,Q16521,Q157957,Mimosa pudica
+Mimosa,Mimosa,Q55224593,0,0,1,"State suburb in New South Wales, Australia","Mimosa, New South Wales, Australia|Mimosa, New South Wales",Q7632426,,
+Mimosa,Mimosa,Q2839107,0,0,1,"clipper ship, launched Aberdeen 1853","Mimosa (ship, 1853)",Q11446,,Mimosa (ship)
+Mimosa,Acacia dealbata,Q757123,0,0,1,species of plant,Mimosa,Q16521,,Acacia dealbata
+Mimosa,Mimosaceae,Q3061312,0,0,1,family of plants,Mimosoideae,Q16521,,Mimosaceae
+Mimosa,Mimosa tenuiflora,Q1955610,0,0,1,species of plant,Jurema|Tepezcohuite,Q16521,,Mimosa tenuiflora
+Mimosa,HMS Mimosa,Q12790667,0,0,1,1941 Flower-class corvette,Mimosa,Q170013,,HMS Mimosa (K11)
+Mimosa,Mimosa pudica var. hispida,Q51001728,0,0,2,variety of plant whose leaves fold inward and droop when touched or shaken,,Q16521,,
+Mimosa,Mimosa pudica var. unijuga,Q51001735,0,0,2,variety of plant whose leaves fold inward and droop when touched or shaken,,Q16521,,
+Mimosa,Mimosa pudica p. var. hispida,Q133861090,0,0,2,,,Q16521,,
+Mimosa,Mimosa pudica var. pudica,Q67187804,0,0,2,,,Q16521,,
+Mimosa,Mimosa pudica var. tetrandra,Q140271588,0,0,2,taxon,,Q16521,,
+Mimosa,Mimosa pudica: Electrical and mechanical stimulation of plant movements,Q56688865,0,0,2,article,,Q13442814,,
+Mimosa,"Mimosa pudica,Dionaea muscipulaand anesthetics",Q38035190,0,0,2,"scientific article published on August 17, 2012",,Q13442814,,
+Mimosa,Mimosa pudica may possess antidepressant actions in the rat.,Q42674614,0,0,2,scientific article published on November 1999,,Q13442814,,
+Mimosa,Mimosa pudica L. (Laajvanti): An overview,Q36283326,0,0,2,"scientific article published on July 1, 2012",,Q13442814,,
+road bicycle racing,road bicycle racing,Q3609,0,1,1,bicycle racing sport,bicycle road cycling|bicycle road race|road bicycle race|road cycling race|road cycle racing|road bike racing|cycle race,Q2312410,Q2215841|Q3493900|Q7339484|Q119778717,Road bicycle racing
+road bicycle racing,cycling race,Q15091377,0,1,1,sporting event with bicycles,bicycle race|cycle race,,Q22938576|Q121680288,
+road bicycle racing,road bicycle racing at the 2013 European Youth Summer Olympic Festival,Q17354370,0,1,1,,,Q51031626,,
+road bicycle racing,road bicycle racing at the 2016 Summer Olympics,Q25390440,0,1,1,,,Q26132862,,
+road bicycle racing,road bicycle racing at the Summer Olympics,Q76451412,0,1,1,,,Q18608583,Q26132862,
+road bicycle racing,road bicycle racing at the Olympic Games,Q44198061,0,1,1,,,Q18608583,Q18536594,
+road bicycle racing,road bicycle racing in Spain,Q121030234,0,1,1,overview of road bicycle racing in Spain,,Q29791211,Q3181499,
+road bicycle racing,road cycling,Q7339484,0,1,2,"form of cycling including recreational, racing, and utility cycling",,,Q53121,Road cycling
+road bicycle racing,Volta a Catalunya,Q755125,0,1,2,"cycling road race held in Catalonia, Spain",Road Cycling in Catalonia|Road in Catalonia|Volta,Q1318941,Q22231109|Q101052547|Q22231107,Volta a Catalunya
+road bicycle racing,road cycling at the 2015 European Games,Q20428239,0,1,2,,,Q13406554,,
+road bicycle racing,road cycling at the 2024 Summer Olympics,Q118248082,0,1,2,,,Q26132862,,
+road bicycle racing,road cycling at the 2020 Summer Olympics,Q109019661,0,1,2,,,Q13406554,,
+road bicycle racing,road cycling at the 2018 Asian Games,Q60855139,0,1,2,,,,,
+road bicycle racing,Cycling at the 2020 Summer Paralympics – Road race,Q122925332,0,1,2,,road cycling at the 2020 Summer Paralympics,Q50393057,,
+road bicycle racing,road cycling at the European Games,Q118948802,0,1,2,,,,,
+road bicycle racing,road cycling at the 2017 Invictus Games,Q124072077,0,1,2,,,Q51031626,,
+road bicycle racing,motorcycle road racing,Q965550,0,1,2,,road racing,Q2312410,Q2404296|Q17163326,Motorcycle road racing
+road bicycle racing,road racing,Q2404296,0,1,2,form of motorsport racing on tracks that contain both right and left turns,road racing (motorcycle sports),Q2312410,Q878123|Q5367,Road racing
+road bicycle racing,racing bicycle,Q948482,0,1,2,type of bicycle used for road racing,racing bike|speed bicycle|speed bike|speedbike|road racing bicycle,,Q6453072,Racing bicycle
+road bicycle racing,road racing in 1900s,Q2653571,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1930s,Q2219013,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1940s,Q2484472,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1950s,Q3976752,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1920s,Q2072914,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1910s,Q2054971,0,1,2,,,Q18340514,,
+road bicycle racing,road racing in 1860-1899,Q2694613,0,1,2,,,Q18340514,,
+Ciclotel,Ciclotel,Q81933532,1,0,1,Belgian cycling team,,Q2466826,,Ciclotel
+Ciclotel,Ciclotel,Q85752438,1,0,1,,,Q1785271,,
+Ciclotel,Ciclotel 2020,Q83806064,1,0,1,,,Q53534649,,
+road bicycle racing,road bicycle racing,Q3609,1,1,1,bicycle racing sport,bicycle road cycling|bicycle road race|road bicycle race|road cycling race|road cycle racing|road bike racing|cycle race,Q2312410,Q2215841|Q3493900|Q7339484|Q119778717,Road bicycle racing
+road bicycle racing,cycling race,Q15091377,1,1,1,sporting event with bicycles,bicycle race|cycle race,,Q22938576|Q121680288,
+road bicycle racing,road bicycle racing at the 2013 European Youth Summer Olympic Festival,Q17354370,1,1,1,,,Q51031626,,
+road bicycle racing,road bicycle racing at the 2016 Summer Olympics,Q25390440,1,1,1,,,Q26132862,,
+road bicycle racing,road bicycle racing at the Summer Olympics,Q76451412,1,1,1,,,Q18608583,Q26132862,
+road bicycle racing,road bicycle racing at the Olympic Games,Q44198061,1,1,1,,,Q18608583,Q18536594,
+road bicycle racing,road bicycle racing in Spain,Q121030234,1,1,1,overview of road bicycle racing in Spain,,Q29791211,Q3181499,
+road bicycle racing,Ciclotel,Q81933532,1,1,2,Belgian cycling team,,Q2466826,,Ciclotel
+road bicycle racing,Ciclotel,Q85752438,1,1,2,,,Q1785271,,
+road bicycle racing,Ciclotel 2020,Q83806064,1,1,2,,,Q53534649,,
+road bicycle racing,road cycling,Q7339484,1,1,2,"form of cycling including recreational, racing, and utility cycling",,,Q53121,Road cycling
+road bicycle racing,Volta a Catalunya,Q755125,1,1,2,"cycling road race held in Catalonia, Spain",Road Cycling in Catalonia|Road in Catalonia|Volta,Q1318941,Q22231109|Q101052547|Q22231107,Volta a Catalunya
+road bicycle racing,road cycling at the 2015 European Games,Q20428239,1,1,2,,,Q13406554,,
+road bicycle racing,road cycling at the 2024 Summer Olympics,Q118248082,1,1,2,,,Q26132862,,
+road bicycle racing,road cycling at the 2020 Summer Olympics,Q109019661,1,1,2,,,Q13406554,,
+road bicycle racing,road cycling at the 2018 Asian Games,Q60855139,1,1,2,,,,,
+road bicycle racing,Cycling at the 2020 Summer Paralympics – Road race,Q122925332,1,1,2,,road cycling at the 2020 Summer Paralympics,Q50393057,,
+road bicycle racing,road cycling at the European Games,Q118948802,1,1,2,,,,,
+road bicycle racing,road cycling at the 2017 Invictus Games,Q124072077,1,1,2,,,Q51031626,,

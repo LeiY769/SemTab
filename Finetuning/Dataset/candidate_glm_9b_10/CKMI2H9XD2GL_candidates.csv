@@ -1,0 +1,48 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Y Vulpeculae,Y Vulpeculae,Q55593508,0,0,1,variable star in the constellation Vulpecula,,Q726242,,
+Y Vulpeculae,Y Vulpeculae,Q68665637,0,0,1,scientific article published in January 1973,,Q13442814,,
+Y Vulpeculae,Vulpecula,Q10519,0,0,2,constellation in the northern celestial hemisphere,Vul|Vulpeculae|Vulpecula cum Ansere,Q8928,,Vulpecula
+Y Vulpeculae,Vulpecula OB1,Q3931944,0,0,2,asterism in the constellation Vulpecula,,Q11282|Q9262,,Vulpecula OB1
+Y Vulpeculae,"Vulpecula cum Ansere, the Fox with the Goose",Q116278217,0,0,2,section of 1911 book,,Q1980247,,
+Y Vulpeculae,Vulpecula in Chinese astronomy,Q55637244,0,0,2,,,,,Vulpecula in Chinese astronomy
+Y Vulpeculae,Vulpecula observatory,Q115523249,0,0,2,"astronomical observatory in Budapest, Hungary",,Q1254933,,
+Y Vulpeculae,Fuchsturm,Q1472679,0,0,2,"tower in Jena, Germany",,Q12518,,
+Y Vulpeculae,Sh 2-82,Q3958896,0,0,2,reflection nebula in the Sagitta constellation,,Q11282|Q1931185|Q67206691|Q203958,,Sh 2-82
+Vulpecula,Vulpecula,Q10519,0,1,1,constellation in the northern celestial hemisphere,Vul|Vulpeculae|Vulpecula cum Ansere,Q8928,,Vulpecula
+Vulpecula,Vulpecula OB1,Q3931944,0,1,1,asterism in the constellation Vulpecula,,Q11282|Q9262,,Vulpecula OB1
+Vulpecula,"Vulpecula cum Ansere, the Fox with the Goose",Q116278217,0,1,1,section of 1911 book,,Q1980247,,
+Vulpecula,Vulpecula in Chinese astronomy,Q55637244,0,1,1,,,,,Vulpecula in Chinese astronomy
+Vulpecula,Vulpecula observatory,Q115523249,0,1,1,"astronomical observatory in Budapest, Hungary",,Q1254933,,
+Vulpecula,Fuchsturm,Q1472679,0,1,1,"tower in Jena, Germany",,Q12518,,
+Vulpecula,Sh 2-82,Q3958896,0,1,1,reflection nebula in the Sagitta constellation,,Q11282|Q1931185|Q67206691|Q203958,,Sh 2-82
+RR Lyrae,RR Lyrae variable,Q726242,1,0,1,type of variable star,RR|RRC|RRLYR,Q17444909,Q353834,RR Lyrae variable
+RR Lyrae,RR Lyrae variable with asymmetric light curves,Q66725273,1,0,1,type of variable star,RRab|RR Lyrae variables w asymmetric light curves|RR Lyrae variables with asymmetric light curves,Q17444909,Q726242,
+RR Lyrae,RR Lyrae variables with nearly symmetric light curves,Q66759322,1,0,1,,RRc,Q17444909,Q726242,
+RR Lyrae,RR Lyrae,Q370994,1,0,1,Star in the constellation Lyra,RR Lyr,Q6243|Q726242|Q67206691|Q2247863,,RR Lyrae
+RR Lyrae,Rr Lyrae Stars and Type Ia Supernovae: Discovery and Calibration of Astronomical Standard Candles,Q110143044,1,0,1,"doctoral dissertation by Kevin Krisciunas, University of Washington, 2000",,Q187685|Q47461344,,
+RR Lyrae,RR Lyrae variables in two fields in the spheroid of M31,Q58330614,1,0,1,scientific article published in Astronomical Journal,,Q13442814,,
+RR Lyrae,RR Lyrae variables in M33. II. Oosterhoff properties and radial trends,Q68495268,1,0,1,scholarly article,,Q13442814,,
+RR Lyrae,RR Lyrae stars in the GCVS observed by the Qatar Exoplanet Survey,Q69078481,1,0,1,scientific article,,Q13442814,,
+RR Lyrae,RR Lyrae variables in the Small Magellanic Cloud. I. The central region,Q68730390,1,0,1,scientific article,,Q13442814,,
+RR Lyrae,RR Lyrae variables in the Crater II dwarf galaxy,Q68734401,1,0,1,scientific article published in January 2018,,Q13442814,,
+RR Lyrae,RR Lyrae type variable stars V1013 and V2033 Ophiuchi,Q68217192,1,0,2,scientific article published in January 1982,,Q13442814,,
+Lyra,Lyra,Q10484,1,1,1,constellation in the northern celestial hemisphere,Lyr|Lyrae,Q8928,,Lyra
+Lyra,Lyra,Q63220502,1,1,1,female given name,,Q11879590,,
+Lyra,Lyra,Q81437121,1,1,1,Greek record label,Lyra Records,Q18127|Q1542343,,
+Lyra,Lyra,Q56233007,1,1,1,vocal track by Kate Bush; 2007 original soundtrack recording,,Q55850593,,
+Lyra,Lyra,Q28156289,1,1,1,family name,,Q101352,,
+Lyra,Senseless Dmel_CG32120,Q29815906,1,1,1,protein found in Drosophila melanogaster,senseless|sens|sensesless|sensless|CG32120-PA|CG32120 gene product from transcript CG32120-RA|sens-PA|lyra,Q8054,,
+Lyra,Lyra Belacqua,Q2091177,1,1,1,His Dark Materials character,Lyra Silvertongue,Q15632617|Q3658341|Q15773347|Q15773317,,Lyra Belacqua
+Lyra,LyraGamer,Q110099366,1,1,1,Spanish YouTuber and voice actress,Lyra|Raquel Fernández|Lyra Gamer|Raquel Fernández Otero,Q5,,
+Lyra,Lyra McKee,Q63219332,1,1,1,Northern Irish journalist (1990-2019),Lyra Catherine McKee,Q5,,Lyra McKee
+Lyra,Lyra,Q6709853,1,1,1,"original song written, composed, and performed by Kate Bush",,Q105543609,,Lyra (song)
+Lyra,RR Lyrae variable,Q726242,1,1,2,type of variable star,RR|RRC|RRLYR,Q17444909,Q353834,RR Lyrae variable
+Lyra,RR Lyrae variable with asymmetric light curves,Q66725273,1,1,2,type of variable star,RRab|RR Lyrae variables w asymmetric light curves|RR Lyrae variables with asymmetric light curves,Q17444909,Q726242,
+Lyra,RR Lyrae variables with nearly symmetric light curves,Q66759322,1,1,2,,RRc,Q17444909,Q726242,
+Lyra,RR Lyrae,Q370994,1,1,2,Star in the constellation Lyra,RR Lyr,Q6243|Q726242|Q67206691|Q2247863,,RR Lyrae
+Lyra,Rr Lyrae Stars and Type Ia Supernovae: Discovery and Calibration of Astronomical Standard Candles,Q110143044,1,1,2,"doctoral dissertation by Kevin Krisciunas, University of Washington, 2000",,Q187685|Q47461344,,
+Lyra,RR Lyrae variables in two fields in the spheroid of M31,Q58330614,1,1,2,scientific article published in Astronomical Journal,,Q13442814,,
+Lyra,RR Lyrae variables in M33. II. Oosterhoff properties and radial trends,Q68495268,1,1,2,scholarly article,,Q13442814,,
+Lyra,RR Lyrae stars in the GCVS observed by the Qatar Exoplanet Survey,Q69078481,1,1,2,scientific article,,Q13442814,,
+Lyra,RR Lyrae variables in the Small Magellanic Cloud. I. The central region,Q68730390,1,1,2,scientific article,,Q13442814,,
+Lyra,RR Lyrae variables in the Crater II dwarf galaxy,Q68734401,1,1,2,scientific article published in January 2018,,Q13442814,,

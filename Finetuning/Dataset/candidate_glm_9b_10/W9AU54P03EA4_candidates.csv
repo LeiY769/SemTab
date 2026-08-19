@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lyme disease,Lyme disease,Q201989,0,0,1,"infectious disease caused by Borrelia bacteria, spread through the bite of blacklegged ticks",Bannwarth syndrome (disorder)|Bannworth's syndrome|Lyme borreliosis|Neurological Lyme disease|lyme neuroborreliosis|neuroborreliosis|Bannwarth syndrome|Lyme Disease|Borrelia burgdorferi Infection|Borrelia,Q112193867,Q18553247|Q16006998|Q18123741,Lyme disease
+Lyme disease,Lyme Disease,Q57485891,0,0,1,scholarly article by Allen Steere published 31 August 1989 in The New England Journal of Medicine,,Q13442814,,
+Lyme disease,Lyme Disease,Q22250902,0,0,1,scientific article (published 2001-07-12),Lyme disease,Q13442814,,
+Lyme disease,Lyme Disease Awareness Day,Q96691061,0,0,1,awareness day for Lyme disease,Lyme disease day,Q1656682,Q1914636,
+Lyme disease,Lyme Disease Awareness Month,Q96692808,0,0,1,awareness month for Lyme Disease,LDAM,,Q18033451,Lyme Disease Awareness Month
+Lyme disease,Lyme disease : the ecology of a complex system,Q56812380,0,0,1,,,Q3331189,,
+Lyme disease,Borrelia,Q115528,0,0,1,genus of bacteria,,Q16521,,Borrelia
+Lyme disease,Lyme disease microbiology,Q12352663,0,0,1,Causes of tick-borne disease,,,,Microbiology of Lyme disease
+Lyme disease,Lyme Disease vaccines,Q58630885,0,0,1,vaccines or candidate vaccines used to prevent Lyme Disease,Lyme Disease vaccine,Q105967696,Q58631461,
+Lyme disease,Lyme Disease,Q22250895,0,0,1,scientific article,Clinical practice. Lyme disease,Q13442814,,
+Lyme disease,Borrelia burgdorferi,Q2723634,0,0,2,species of bacteria,,Q16521,,Borrelia burgdorferi
+Lyme disease,Borrelia burgdorferi B31,Q21065227,0,0,2,bacterial strain,B31,Q855769,,
+Lyme disease,Borrelia burgdorferi B31 chromosome,Q50380213,0,0,2,bacterial chromosome,,Q37748,,
+Lyme disease,Borrelia burgdorferi group,Q21399646,0,0,2,bacteria in the genus Borrelia that cause Lyme disease,,Q16521,,
+Lyme disease,Borrelia burgdorferi B31 plasmid lp56,Q50380234,0,0,2,bacterial plasmid,,Q172778,,
+Lyme disease,Borrelia burgdorferi B31 plasmid lp54,Q50380233,0,0,2,bacterial plasmid,,Q172778,,
+Lyme disease,Borrelia burgdorferi B31 plasmid cp32-1,Q50380215,0,0,2,bacterial plasmid,,Q172778,,
+Lyme disease,Borrelia burgdorferi B31 plasmid cp32-8,Q50380220,0,0,2,bacterial plasmid,,Q172778,,
+Lyme disease,Borrelia burgdorferi B31 plasmid cp32-3,Q50380216,0,0,2,bacterial plasmid,,Q172778,,
+Lyme disease,Lyme borreliosis,Q29013670,0,0,2,scientific article (publication date: February 2012),,Q13442814,,
+Lyme disease,Lyme borreliosis,Q94329194,0,0,2,scientific article published in November 2003,,Q13442814,,
+Lyme disease,Lyme borreliosis,Q77143423,0,0,2,scientific article published on 01 August 1998,,Q13442814,,
+Lyme disease,Lyme borreliosis,Q56764150,0,0,2,article,,Q13442814,,
+Lyme disease,Lyme borreliosis,Q73762957,0,0,2,scientific article published on 01 August 2003,,Q13442814,,
+Lyme disease,Lyme borreliosis,Q56775852,0,0,2,scholarly article by Curtis L Fritz & Anne M Kjemtrup published 1 November 2003 in Journal of the American Veterinary Medical Association,,Q13442814,,
+Lyme disease,Lyme Borreliosis and Early Cutaneous Diagnostic,Q64396442,0,0,2,clinical trial,,Q30612,,
+Lyme disease,Lyme borreliosis,Q83393432,0,0,2,scientific article published on 01 November 2010,,Q13442814,,
+Lyme disease,Lyme borreliosis,Q69548367,0,0,2,scientific article published on 01 January 1989,,Q13442814,,
+Babesiosis,Babesiosis,Q797668,1,0,1,"malaria-like parasitic disease caused by infection with Babesia and nalga, a genus of Apicomplexa",Babesiasis|piroplasmosis|Babesiosis humana|fiebre esplénica|babesiosis|infección por babesia|infección por parásitos de Babesia|fiebre de Texas|fiebre española|fiebre del ganado de Texas,Q112193867,Q353172|Q18123741,Babesiosis
+Babesiosis,Babesiosis,Q24550713,1,0,1,2000 scientific article,,Q13442814,,
+Babesiosis,Babesiosis,Q26829108,1,0,1,2015 scientific article,,Q13442814,,
+Babesiosis,Babesiosis,Q78023768,1,0,1,scientific article published on 01 March 2002,,Q13442814,,
+Babesiosis,Babesiosis,Q71319808,1,0,1,scientific article published on 01 April 1996,,Q13442814,,
+Babesiosis,Babesiosis,Q86787197,1,0,1,scientific article published on 01 August 2015,,Q13442814,,
+Babesiosis,Babesiosis,Q84168559,1,0,1,scientific article published on 01 June 2012,,Q13442814,,
+Babesiosis,Babesiosis,Q31880740,1,0,1,scientific article,,Q13442814,,
+Babesiosis,Babesiosis of cattle.,Q36153268,1,0,1,scientific article,,Q13442814,,
+Babesiosis,Babesiosis,Q74359821,1,0,1,scientific article published on 01 January 1998,,Q13442814,,
+Babesiosis,Babesia,Q797656,1,0,2,genus of protozoan parasites,Nuttallia|Texas fever,Q16521,,Babesia
+Babesiosis,Babesia bovis,Q4837802,1,0,2,species of protozoan parasite,,Q16521,,Babesia bovis
+Babesiosis,Babesia microti,Q7777786,1,0,2,species of protist,Theileria microti,Q16521,,Babesia microti
+Babesiosis,Babesia bigemina,Q797641,1,0,2,species of protozoan parasite,,Q16521,,Babesia bigemina
+Babesiosis,Babesia canis,Q2281871,1,0,2,species of protozoan parasite,,Q16521,,Babesia canis
+Babesiosis,Babesia divergens,Q1002578,1,0,2,species of protozoan parasite,,Q16521,,Babesia divergens
+Babesiosis,Babesia gibsoni,Q60660245,1,0,2,species of protozoan parasite,,Q16521,,
+Babesiosis,Babesia caballi,Q3632383,1,0,2,de que origen es caballi,,Q16521,,Babesia caballi
+Babesiosis,Babesia rodhaini,Q110921436,1,0,2,"taxon, (van den Berghe, Vincke, Chardome & van den Bulcke, 1950), species of babesiidae",,Q16521,,
+Babesiosis,Babesia equi,Q3632384,1,0,2,species of protozoan parasite,,Q16521,,
+Babesiosis,parasitic infectious diseases,Q1601794,1,0,2,infectious disease caused or transmitted by a parasite,parasitemia|parasitic infectious disease|ectoparasitic disease|parasitic endophthalmitis|parasitic diseases|infectious and parasitic diseases,Q112193867,Q18123741,Parasitic disease
+Babesiosis,animal parasitic disease,Q54945069,1,0,2,animal disease caused by parasites,"animal parasitic diseases|Disease, Animal Parasitic|Animal Parasitic Disease|Parasitic Disease, Animal|Diseases, Animal Parasitic|Parasitic Diseases, Animal",Q140427225,Q1601794|Q9190427|Q18123741,
+Babesiosis,liver parasitic disease,Q54946093,1,0,2,"liver disease caused by infections with parasites, such as tapeworms (Cestoda) and flukes (Trematoda)","parasitic disease of the liver|parasitic diseases of the liver|liver parasitic diseases|Liver Diseases, Parasitic|parasitic liver disease|parasitic liver diseases",Q112193867,Q929737|Q1601794,
+Babesiosis,Parasitic Diseases of Wild Birds,Q140599582,1,0,2,,,Q1711593,,
+Babesiosis,Parasitic diseases of poultry,Q51516691,1,0,2,"London: Gurney, 1896.",,Q3331189,,
+Babesiosis,Parasitic diseases of poultry,Q51516695,1,0,2,"London, Gurney, 1896.",,Q3331189,,
+Babesiosis,Parasitic Disease Reports and Studies (NAID 6687154),Q66179108,1,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Babesiosis,Parasitic Disease Manuscripts (NAID 6250697),Q66185660,1,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Babesiosis,Parasitic diseases: Liposomes and polymeric nanoparticles versus lipid nanoparticles,Q36851458,1,0,2,scientific article published on May 2007,,Q13442814,,
+Babesiosis,Parasitic diseases of the heart,Q35650927,1,0,2,scientific article published on January 2004,,Q13442814,,

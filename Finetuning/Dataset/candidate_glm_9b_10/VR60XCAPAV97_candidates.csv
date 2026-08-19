@@ -1,0 +1,268 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Museum,Museum of Modern Art,Q188740,0,0,1,"art museum in Manhattan in New York City, New York, United States","MoMA|The Museum of Modern Art, New York|Museum of Modern Art (New York, N.Y.)",Q33506|Q97662266|Q207694|Q11396960|Q163740|Q24699794,,Museum of Modern Art
+The Museum,"Museum of Fine Arts, Houston",Q1565911,0,0,1,"art museum in Houston, Texas","MFAH|The Museum of Fine Arts, Houston|Museum of Fine Arts|Houston Museum of Fine Arts|Museum of Fine Arts of Houston",Q207694|Q163740|Q11396960|Q33506,,"Museum of Fine Arts, Houston"
+The Museum,The Museum System,Q107404505,0,0,1,inventory management software,TMS,Q11320567|Q218616|Q25053629,,
+The Museum,Musée des Beaux-Arts de Rouen,Q3086934,0,0,1,"Art museum in Rouen, France","musee des beaux-arts de Rouen|The Museum of Fine Arts, Rouen|Museum of Fine Arts, Rouen",Q207694,,Musée des Beaux-Arts de Rouen
+The Museum,Wisbech and Fenland Museum,Q8027060,0,0,1,"museum in Cambridgeshire, England, United Kingdom",The Museum,Q1595639|Q24699794|Q115154402,,Wisbech & Fenland Museum
+The Museum,Letchworth Museum & Art Gallery,Q6533194,0,0,1,former museum,The Museum,Q1595639|Q41176,,Letchworth Museum & Art Gallery
+The Museum,The Museum,Q551569,0,0,1,band,,Q215380,,The Museum (band)
+The Museum,The Museum,Q3132668,0,0,1,album by Nana Mizuki,,Q482994,,The Museum (album)
+The Museum,The Museum,Q114490976,0,0,1,"episode of Welcome Back, Kotter (S2 E5)",,Q21191270,,
+The Museum,The Museum,Q114519007,0,0,1,episode of Hunter Street (S2 E5),,Q21191270,,
+The Museum,museum,Q33506,0,0,2,"institution that holds artifacts and other objects of scientific, artistic, cultural, historical, or other importance",museum-style institution|museal institution,Q117023459,Q1030034|Q178706|Q17350442|Q1554231,Museum
+The Museum,Museum Boijmans Van Beuningen,Q679527,0,0,2,"art museum in Rotterdam, Netherlands",Boijmans|Museum Boijmans|Boijmans Van Beuningen|Musée Boymans-van Beuningen|Museum Boijmans Van Beuningen (hoofdlocatie plus Depot Boijmans van Beuningen),Q3196771,,Museum Boijmans Van Beuningen
+The Museum,museum-digital,Q1360745,0,0,2,museum digitization project,,Q7094076|Q1225034,,Museum-digital
+The Museum,Museum Plantin-Moretus,Q595802,0,0,2,museum in Antwerp,Museum Plantin-Moretus in Antwerp|Museum Plantin-Moretus Antwerp,Q33506,,Plantin–Moretus Museum
+The Museum,museum building,Q24699794,0,0,2,building housing a museum,museum,Q811102,Q41176|Q3364296|Q135703109|Q13226383,
+The Museum,Museum Gouda,Q4360916,0,0,2,"museum in Gouda, Netherlands",Museum het Catharina Gasthuis,Q33506,,
+The Museum,item of collection or exhibition,Q18593264,0,0,2,"defines an item, such as an object or document, that is a member of a collection or part of a repository",have inventory number|number in inventory|inventory number|exhibition item|collection item|holding|museum object|museum piece|object in a museum|museum item|piece in a museum|item in a museum|item in collection or exhibition|item in museum|exhibited item,,Q2342494|Q386724|Q36808958,
+The Museum,Museum,Q18162547,0,0,2,2014 studio album by Mike Tramp,,Q482994,,Museum (Mike Tramp album)
+The Museum,art museum,Q207694,0,0,2,building or space for the exhibition of art,museum of art|art museums|museums of art,Q811102,Q24699794|Q33506,Art museum
+The Museum,Museu Nacional d'Art de Catalunya,Q861252,0,0,2,"art museum in Barcelona, Catalonia",MNAC|Catalan National Art Museum|Art Modern Art MNAC|National Art Museum of Catalonia|Modern Art Collection (MNAC)|Art Museum of Catalonia,Q207694,,Museu Nacional d'Art de Catalunya
+The Museum,Art Museum of Estonia,Q1754105,0,0,2,"national art museum in Tallinn, Estonia",Eesti Kunstimuuseum,Q3196771|Q33506,,Art Museum of Estonia
+The Museum,Tartu Art Museum,Q12376420,0,0,2,"art museum in Tartu, Estonia",Tartu Kunstimuuseum|Tartmus|Art Museum of Estonia,Q3196771|Q33506,,Tartu Art Museum
+The Museum,Princeton Art Museum,Q2603905,0,0,2,"art museum in Princeton, New Jersey",PUAM|Art Museum of Princeton University|Princeton University Art Museum,Q111889841,,Princeton University Art Museum
+The Museum,Art Museum of Estonia's painting collection,Q56189782,0,0,2,,,Q7328910,,
+The Museum,Art Museum of Estonia's Foreign Painting Collection,Q56189773,0,0,2,,,Q7328910,,
+The Museum,Museum Haji Muhammad Sattar,Q115393096,0,0,2,museum that provides works of Sattar,Art Museum,Q33506,,
+The Museum,Art Museum of Constanta,Q18539254,0,0,2,"heritage site in Constanța County, Romania",Muzeul de Artă din Constanța|Art museum of Constanța|Constanta Art Museum,Q33506,,
+The Museum,Art museum of Craiova,Q18542191,0,0,2,"art museum from Craiova, Romania",Craiova Art museum,Q33506,,Craiova Art Museum
+The Museum,history museum,Q16735822,0,0,2,museum covering the knowledge of human history,historical museum|heritage museum|museum of history,Q63982911,Q33506|Q1497649,
+The Museum,History Museum,Q86914332,0,0,2,museum in Bulgaria,,Q33506,,
+The Museum,History Museum of Armenia,Q1138228,0,0,2,museum in Yerevan,Historical Museum of Armenia,Q33506,,History Museum of Armenia
+The Museum,History Museum,Q86914333,0,0,2,museum in Bulgaria,,Q33506,,
+The Museum,History Museum of Katowice,Q11786994,0,0,2,"museum of the history of Katowice, Poland",,Q16735822,,
+The Museum,History Museum,Q61412835,0,0,2,"museum compound in Panagyurishte, Bulgaria",,Q16735822,,
+The Museum,Regional Museum of History,Q40530204,0,0,2,museum in Bulgaria,History Museum Veliko Tarnovo,Q16735822|Q33506,,
+The Museum,Varna Archaeological Museum,Q637089,0,0,2,archaeological museum,History Museum Varna,Q3329412,,Varna Archaeological Museum
+The Museum,Shusha Museum of History,Q12130612,0,0,2,"museum in Shusha, Azerbaijan",History Museum of Shusha,Q12104174|Q33506,,Shusha Museum of History
+The Museum,History Museum (Botevgrad),Q42252098,0,0,2,"museum in Botevgrad, Bulgaria",Botevgrad History Museum,Q16735822,,Botevgrad History Museum
+The Ohio Democrat,The Ohio Democrat,Q100278989,1,0,1,"newspaper published in Logan, Ohio",Ohio Democrat,Q11032,,
+The Ohio Democrat,The Ohio Democrat,Q106877624,1,0,1,,,Q2217301,,
+The Ohio Democrat,The Ohio Democrat,Q100251797,1,0,1,newspaper,,Q11032,,
+The Ohio Democrat,Ohio Democratic Party,Q7080791,1,0,2,"political organization in Ohio, U.S.",ohiodems.org|Ohio Democrats,Q7278,,Ohio Democratic Party
+Exchange,Exchange,Q15759989,2,0,1,academic journal,,Q5633421,,
+Exchange,Exchange,Q5419552,2,0,1,1999 EP by Against All Authority/The Criminals,,Q169930,,Exchange (EP)
+Exchange,trading venue,Q179076,2,0,1,highly organized trading market,bourse|trading exchange|exchange,Q29028649|Q1914636,Q43229|Q37654|Q43371537,Exchange (organized market)
+Exchange,treaty,Q131569,2,0,1,express agreement between nations under international law,exchange of letters|protocol|international agreement|international treaty|international protocol|international convention|accord|alliance|compact|pact|covenant|convention,,Q2635077|Q321839|Q49848|Q1151067|Q820655|Q68619446,Treaty
+Exchange,EXCHANGE,Q134967311,2,0,1,2018 video game developed by Self Destruction Games,,Q7889,,
+Exchange,gift exchange,Q23009552,2,0,1,reciprocated gift,exchange,,Q315364,
+Exchange,exchange of goods,Q21651837,2,0,1,transfer of equivalent goods to each other,exchange|goods exchange,Q54445847,Q125506646,
+Exchange,antiporter activity,Q14881097,2,0,1,Enables the active transport of a solute across a membrane by a mechanism whereby two or more species are transported in opposite directions in a tightly coupled process not directly linked to a form of energy other than chemiosmotic energy.,countertransporter activity|solute:solute antiporter activity|GO:0015297|exchange transporter activity,Q14860489,Q21431309,
+Exchange,Exchange,Q13631884,2,0,1,episode of Law & Order (S19 E20),,Q21191270,,
+Exchange,chess exchange,Q2590761,2,0,1,series of moves in chess in which the players capture each other’s pieces,exchanging|trade|trading|exchange|chess trade|exchange in chess|exchanging in chess,Q66739921,Q1055911|Q133250,Exchange (chess)
+Exchange,exchange rate,Q66100,2,0,2,rate at which one currency will be exchanged for another,foreign-exchange rate|forex rate|FX rate|foreign currency transactions,,Q3481047|Q126818,Exchange rate
+Exchange,Exchange Rate,Q62122935,2,0,2,episode of NCIS: Los Angeles (S7 E18),,Q21191270,,
+Exchange,Exchange Rate,Q102242562,2,0,2,Thoroughbred racehorse,,Q726,,
+Exchange,fixed exchange rate,Q66143,2,0,2,type of exchange rate regime where a currency's value is fixed against the value of another single currency,pegged exchange rate|currency peg|pegged currency|exchange rate peg,,Q66100|Q465658,Fixed exchange rate system
+Exchange,exchange rate policy,Q1363350,2,0,2,measures which influence currency (especially in exchange rates),exchange policy,Q96251375,Q178476,
+Exchange,Exchange rate regimes from a Latin American analytical perspective,Q140138870,2,0,2,,,Q1980247,,
+Exchange,Exchange Rates and International Macroeconomics,Q138039073,2,0,2,book published in 1983,,Q3331189,,
+Exchange,Exchange Rate Theory and Practice,Q138036600,2,0,2,book published in 1984,,Q3331189,,
+Exchange,"Exchange rate development of the local currency, formation of multiple rates for the currency unit",Q104710976,2,0,2,subject category of the 20th Century Press Archives,"n23 Sm2 Exchange rate development of the local currency, formation of multiple rates for the currency unit",Q92707903,,
+Exchange,foreign exchange risk,Q1542397,2,0,2,a financial risk that exists when a financial transaction is denominated in a currency other than the domestic currency,exchange rate risk|currency risk|FX risk,,Q1164550,Foreign exchange risk
+Exchange,Financial Exchange Rates and International Currency Exposures,Q105880286,2,0,2,scientific article published in September 2007,,Q13442814,,
+Exchange,stock exchange,Q11691,2,0,2,organization that provides services for stock brokers and traders to trade securities,,,Q179076|Q750458,Stock exchange
+Exchange,Hong Kong Stock Exchange,Q496672,2,0,2,"stock exchange based in Hong Kong, operating under Hong Kong’s distinct regulatory framework, which allows greater access to foreign investors",SEHK|HKSE|Stock Exchange of Hong Kong|The Stock Exchange of Hong Kong Limited|XHKG|HKEX,Q11691,,Hong Kong Stock Exchange
+Exchange,Stock Exchange,Q20266712,2,0,2,painting by Vardea Chryssa,,Q3305213,,
+Exchange,Stock Exchange,Q7617859,2,0,2,single by Miss Kittin and The Hacker,,Q134556|Q7366,,Stock Exchange (song)
+Exchange,Stock Exchange,Q110074064,2,0,2,engraving by Henry Melville,,Q11835431|Q11060274,,
+Exchange,Stock Exchange,Q110074062,2,0,2,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Exchange,Stock Exchange of Thailand,Q1330208,2,0,2,"national stock exchange of Thailand, located in Bangkok",SET|BKK|XBKK|Talāt Laksap hǣng Prathēt Thai|Securities Exchange of Thailand,Q11691|Q4830453,,Stock Exchange of Thailand
+Exchange,Stock Exchange,Q80078158,2,0,2,"print by Joseph Pennell (American, 1857-1926) (2012.283)",,Q11060274,,
+Exchange,Palácio da Bolsa,Q1371109,2,0,2,"building in Porto, Porto District, Portugal",Palacio da Bolsa|Stock Exchange Palace,Q16560|Q210272|Q65177565,,Palácio da Bolsa
+Exchange,Stock Exchange in Milano,Q3642744,2,0,2,,Borsa di Milano,Q4830453|Q6881511|Q11691,,
+Exchange,Exchange,Q15759989,3,0,1,academic journal,,Q5633421,,
+Exchange,Exchange,Q5419552,3,0,1,1999 EP by Against All Authority/The Criminals,,Q169930,,Exchange (EP)
+Exchange,trading venue,Q179076,3,0,1,highly organized trading market,bourse|trading exchange|exchange,Q29028649|Q1914636,Q43229|Q37654|Q43371537,Exchange (organized market)
+Exchange,treaty,Q131569,3,0,1,express agreement between nations under international law,exchange of letters|protocol|international agreement|international treaty|international protocol|international convention|accord|alliance|compact|pact|covenant|convention,,Q2635077|Q321839|Q49848|Q1151067|Q820655|Q68619446,Treaty
+Exchange,EXCHANGE,Q134967311,3,0,1,2018 video game developed by Self Destruction Games,,Q7889,,
+Exchange,gift exchange,Q23009552,3,0,1,reciprocated gift,exchange,,Q315364,
+Exchange,exchange of goods,Q21651837,3,0,1,transfer of equivalent goods to each other,exchange|goods exchange,Q54445847,Q125506646,
+Exchange,antiporter activity,Q14881097,3,0,1,Enables the active transport of a solute across a membrane by a mechanism whereby two or more species are transported in opposite directions in a tightly coupled process not directly linked to a form of energy other than chemiosmotic energy.,countertransporter activity|solute:solute antiporter activity|GO:0015297|exchange transporter activity,Q14860489,Q21431309,
+Exchange,Exchange,Q13631884,3,0,1,episode of Law & Order (S19 E20),,Q21191270,,
+Exchange,chess exchange,Q2590761,3,0,1,series of moves in chess in which the players capture each other’s pieces,exchanging|trade|trading|exchange|chess trade|exchange in chess|exchanging in chess,Q66739921,Q1055911|Q133250,Exchange (chess)
+Exchange,exchange rate,Q66100,3,0,2,rate at which one currency will be exchanged for another,foreign-exchange rate|forex rate|FX rate|foreign currency transactions,,Q3481047|Q126818,Exchange rate
+Exchange,Exchange Rate,Q62122935,3,0,2,episode of NCIS: Los Angeles (S7 E18),,Q21191270,,
+Exchange,Exchange Rate,Q102242562,3,0,2,Thoroughbred racehorse,,Q726,,
+Exchange,fixed exchange rate,Q66143,3,0,2,type of exchange rate regime where a currency's value is fixed against the value of another single currency,pegged exchange rate|currency peg|pegged currency|exchange rate peg,,Q66100|Q465658,Fixed exchange rate system
+Exchange,exchange rate policy,Q1363350,3,0,2,measures which influence currency (especially in exchange rates),exchange policy,Q96251375,Q178476,
+Exchange,Exchange rate regimes from a Latin American analytical perspective,Q140138870,3,0,2,,,Q1980247,,
+Exchange,Exchange Rates and International Macroeconomics,Q138039073,3,0,2,book published in 1983,,Q3331189,,
+Exchange,Exchange Rate Theory and Practice,Q138036600,3,0,2,book published in 1984,,Q3331189,,
+Exchange,"Exchange rate development of the local currency, formation of multiple rates for the currency unit",Q104710976,3,0,2,subject category of the 20th Century Press Archives,"n23 Sm2 Exchange rate development of the local currency, formation of multiple rates for the currency unit",Q92707903,,
+Exchange,foreign exchange risk,Q1542397,3,0,2,a financial risk that exists when a financial transaction is denominated in a currency other than the domestic currency,exchange rate risk|currency risk|FX risk,,Q1164550,Foreign exchange risk
+Exchange,Financial Exchange Rates and International Currency Exposures,Q105880286,3,0,2,scientific article published in September 2007,,Q13442814,,
+Exchange,stock exchange,Q11691,3,0,2,organization that provides services for stock brokers and traders to trade securities,,,Q179076|Q750458,Stock exchange
+Exchange,Hong Kong Stock Exchange,Q496672,3,0,2,"stock exchange based in Hong Kong, operating under Hong Kong’s distinct regulatory framework, which allows greater access to foreign investors",SEHK|HKSE|Stock Exchange of Hong Kong|The Stock Exchange of Hong Kong Limited|XHKG|HKEX,Q11691,,Hong Kong Stock Exchange
+Exchange,Stock Exchange,Q20266712,3,0,2,painting by Vardea Chryssa,,Q3305213,,
+Exchange,Stock Exchange,Q7617859,3,0,2,single by Miss Kittin and The Hacker,,Q134556|Q7366,,Stock Exchange (song)
+Exchange,Stock Exchange,Q110074064,3,0,2,engraving by Henry Melville,,Q11835431|Q11060274,,
+Exchange,Stock Exchange,Q110074062,3,0,2,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Exchange,Stock Exchange of Thailand,Q1330208,3,0,2,"national stock exchange of Thailand, located in Bangkok",SET|BKK|XBKK|Talāt Laksap hǣng Prathēt Thai|Securities Exchange of Thailand,Q11691|Q4830453,,Stock Exchange of Thailand
+Exchange,Stock Exchange,Q80078158,3,0,2,"print by Joseph Pennell (American, 1857-1926) (2012.283)",,Q11060274,,
+Exchange,Palácio da Bolsa,Q1371109,3,0,2,"building in Porto, Porto District, Portugal",Palacio da Bolsa|Stock Exchange Palace,Q16560|Q210272|Q65177565,,Palácio da Bolsa
+Exchange,Stock Exchange in Milano,Q3642744,3,0,2,,Borsa di Milano,Q4830453|Q6881511|Q11691,,
+Consumer price index,consumer price index,Q180687,4,0,1,indicates tracking prices of consumer goods as an economic measure,CPI,Q631360,,Consumer price index
+Consumer price index,Consumer Price Index,Q1002502,4,0,1,Official measure of inflation in the UK,,Q9378373,,Consumer price index in the United Kingdom
+Consumer price index,Consumer price index,Q106875883,4,0,1,US Bureau of Labor Statistics publication,,Q2217301,,
+Consumer price index,inflation rate,Q2755356,4,0,1,economic indicator,inflation rate of consumer price index|CPI inflation rate|consumer price index inflation rate,,Q1144560|Q1167393,
+Consumer price index,consumer price index by country,Q5164711,4,0,1,,,,,Consumer price index by country
+Consumer price index,consumer price index in Belgium,Q3147677,4,0,1,,,Q180687,,Consumer price index (Belgium)
+Consumer price index,Consumer Price Index of Turkey,Q118946890,4,0,1,,,,,
+Consumer price index,consumer price index in South Africa,Q5164708,4,0,1,,,Q74817647,,Consumer price index in South Africa
+Consumer price index,Consumer Price Index A,Q15939892,4,0,1,,,,,
+Consumer price index,Consumer Price Index Checklist Files (NAID 22344905),Q64271528,4,0,1,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Consumer price index,Communist Party of India,Q837159,4,0,2,left-wing political party in India,CPI,Q233591|Q7278,,Communist Party of India
+Consumer price index,Communist Party of India (Marxist),Q234277,4,0,2,Indian political party,CPI(M)|CPI (M)|CPI (Marxist),Q7278,,Communist Party of India (Marxist)
+Consumer price index,isolated cleft palate,Q27677677,4,0,2,"cleft palate seen as an isolated malformation, distinct from cleft lip with or without cleft palate","CPI|Dominant cleft palate|nonsyndromic cleft palate|Cleft Palate|CLEFT PALATE, ISOLATED; CPI|CLEFT PALATE, ISOLATED",Q929833|Q112193867,Q3889390|Q55785844|Q55785846|Q55788864,
+Consumer price index,Columbia Pictures,Q186941,4,0,2,American film production and distribution company,"CPII|Columbia Pictures Industries, Inc.|Columbia Pictures Entertainment|Columbia Pictures Corporation",Q1762059|Q368290,,Columbia Pictures
+Consumer price index,Communist Party of Ireland,Q1111191,4,0,2,Irish all-Ireland Marxist party,CPI,Q7278,,Communist Party of Ireland
+Consumer price index,Communist Party of India (Marxist–Leninist) Liberation,Q1452292,4,0,2,Political party of India,CPI(ML) Liberation|CPI(ML)(L),Q7278,,Communist Party of India (Marxist–Leninist) Liberation
+Consumer price index,CasaPound Italia,Q25648673,4,0,2,Italian neo-fascist movement,CasaPound Italy|CPI,Q7210356,,CasaPound
+Consumer price index,Corruption Perceptions Index,Q210463,4,0,2,country ranking by public sector corruption,"Corruption Perceptions Index, CPI|CPI",Q80793969,,Corruption Perceptions Index
+Consumer price index,Center for Public Integrity,Q1830038,4,0,2,American nonprofit investigative journalism organization,CPI|The Center for Public Integrity,Q163740,,Center for Public Integrity
+Consumer price index,Inflation rate of the Colli Albani volcanic complex retrieved by the permanent scatterers SAR interferometry technique,Q60720172,4,0,2,scholarly article,,Q13442814,,
+Consumer price index,"Inflation rates, rifts, and bands in a pāhoehoe sheet flow",Q59848399,4,0,2,scientific article published in 2012,,Q13442814,,
+Consumer price index,Inflation Rate and Poverty: Does Poor become Poorer with Inflation?,Q128369130,4,0,2,scholarly article,,Q13442814,,
+Consumer price index,INFLATION RATE DETERMINATION IN INVESTMENT AND CONSTRUCTION SECTOR OF THE ECONOMY,Q129630810,4,0,2,scholarly article published on 26 June 2018,,Q13442814,,
+Consumer price index,Inflation Rate Volatility and Household Final Consumption Expenditure: Evidence from Cameroon,Q115271525,4,0,2,scientific article published in 2022,,Q13442814,,
+Consumer price index,Inflation Rates and Inflation Uncertainty in Africa: A Quantile Regression Approach,Q129842164,4,0,2,scholarly article,,Q13442814,,
+Consumer price index,Inflation rate for hospital supplies slows dramatically,Q77539490,4,0,2,scientific article published on 01 June 1984,,Q13442814,,
+Consumer price index,Inflation rate modeling: Adaptive neuro-fuzzy inference system approach and particle swarm optimization algorithm (ANFIS-PSO),Q100387337,4,0,2,scientific article published on 11 September 2020,,Q13442814,,
+The American Review,The American Review of Respiratory Disease,Q26839505,5,0,1,scientific journal,Am Rev Respir Dis,Q5633421,,
+The American Review,American review of tuberculosis,Q27720416,5,0,1,journal,Am Rev Tuberc|The American review of tuberculosis,Q5633421,,
+The American Review,American Review of Canadian Studies,Q15750863,5,0,1,journal,The American review of Canadian studies,Q5633421,,
+The American Review,The American Review,Q106877058,5,0,1,quarterly publication,"The American Review: A Quarterly of American Affairs|American Review (Bologna, Italy)|American Review",Q2217301|Q41298,,
+The American Review,The American Review: A Whig Journal,Q3519772,5,0,1,US magazine,,Q41298,,The American Review: A Whig Journal
+The American Review,The American Review of Public Administration,Q7713541,5,0,1,journal,American Review of Public Administration,Q5633421,,The American Review of Public Administration
+The American Review,The American Review,Q19870659,5,0,1,periodical (1933-1937),,Q41298,,The American Review (literary journal)
+The American Review,The American Review of Soviet and Eastern European Foreign Trade,Q136534750,5,0,1,journal 1965-1966,,Q5633421,,
+The American Review,"The Monthly Magazine, and American Review",Q68237382,5,0,1,"monthly periodical (New-York : T. &​ J. Swords, 1799-1800.)","The American Review, and Literary Journal",Q41298,,
+The American Review,American Review of International Arbitration,Q15716475,5,0,1,journal,The American review of international arbitration,Q746654,,American Review of International Arbitration
+The American Review,American Review,Q19599646,5,0,2,"Periodical (New York City, 1967-1977)",,Q41298,,American Review (literary journal)
+The American Review,American Review of Respiratory Disease,Q23928834,5,0,2,journal,,Q5633421,,
+The American Review,American Review,Q19870662,5,0,2,,,Q41298,,American Review (political magazine)
+The American Review,American Review of Politics,Q96701257,5,0,2,US scientific journal,,Q5633421,,
+The American Review,American Review of Political Economy,Q15764833,5,0,2,journal,,Q737498,,
+The American Review,American Review of Politics,Q15764597,5,0,2,journal,Midsouth political science journal,Q737498|Q773668,,
+The Woods,The Woods,Q135014479,6,0,1,video game developed by Starlit Forge Games,,Q7889,,
+The Woods,The Woods,Q122825700,6,0,1,2018 video game,,Q7889,,
+The Woods,William Woods University,Q3445253,6,0,1,"private university in Fulton, Missouri, United States",WWU|William Woods|The Woods|Female Orphan School|Daughters College|William Woods College,Q3918|Q23002054,,William Woods University
+The Woods,Blair Witch,Q24760080,6,0,1,2016 film directed by Adam Wingard,The Woods,Q11424,,Blair Witch (film)
+The Woods,The Woods,Q3311214,6,0,1,2005 studio album by Sleater-Kinney,,Q482994,,The Woods (album)
+The Woods,The Woodstock Experience,Q2918136,6,0,1,2009 live album by Santana,,Q482994,,The Woodstock Experience
+The Woods,The Woods,Q657836,6,0,1,2006 film by Lucky McKee,Woods,Q11424,,The Woods (2006 film)
+The Woods,The Hallow,Q19365765,6,0,1,2015 film by Corin Hardy,The Woods|Hallow|The Good People,Q11424,,The Hallow
+The Woods,The Woods,Q52664004,6,0,1,episode of Cold Case (S2 E23),,Q21191270,,
+The Woods,The Woods,Q85814101,6,0,1,television series,W głębi lasu,Q5398426,,The Woods (miniseries)
+Evidence,evidence,Q176763,7,0,1,body of facts or information indicating whether a belief or proposition is true or valid in legal or investigative proceedings,rules of evidence|body of facts|proof|legal evidence|evidence material,Q151885|Q1756157,Q11028|Q16686448|Q1347572,Evidence (law)
+Evidence,evidence,Q1347572,7,0,1,anything presented in support of an assertion,clues|tips,,Q3523102,Evidence
+Evidence,Evidence-based Complementary and Alternative Medicine,Q5418319,7,0,1,journal,Evidence - Based Complementary and Alternative Medicine|eCAM|Evidence-Based Complementary and Alternative Medicine,Q5633421|Q737498|Q773668|Q16024164,,Evidence-Based Complementary and Alternative Medicine
+Evidence,evidence-based medicine,Q691640,7,0,1,approach to medical practice intended to optimize decision-making by emphasizing the use of evidence from well-designed and well-conducted research,EBM,,Q939230|Q2354820|Q7433814,Evidence-based medicine
+Evidence,Evidence,Q138037675,7,0,1,book published in 2017,,Q3331189,,
+Evidence,Evidence,Q1237694,7,0,1,"American MC, producer, and member of the rap group Dilated Peoples",Michael Perretta|Michael Taylor Perretta,Q5,,Evidence (musician)
+Evidence,Evidence,Q1826415,7,0,1,US record label,Evidence Music|Evidence Records,Q18127,,Evidence Music
+Evidence,Al-Bayyinah,Q233624,7,0,1,98th chapter of the Qur'an,The Clear Evidence|The Clear Proof|Evidence|Surah 98|Sura 98|Surah of the Evidence|Sura of the Proof|The Proof|Surah of the Clear Sign|The Clear Sign|Surah of the Clear Evidence|Surah of the Clear Proof|Surah of the Evidence of the Truth|The Evidence of the Truth,Q234262,,Al-Bayyina
+Evidence,Evidence-Based Nursing,Q5418312,7,0,1,journal,,Q5633421,,Evidence-Based Nursing (journal)
+Evidence,Evidence-Based Medicine,Q26841868,7,0,1,journal,Evidence based medicine,Q5633421,,
+Evidence,Evidence-Based Mental Health,Q5418311,7,0,2,journal,,Q5633421,,BMJ Mental Health
+Evidence,Evidence-based dentistry,Q27720817,7,0,2,journal,Evid Based Dent,Q5633421,,
+Evidence,Evidence-based cardiovascular medicine,Q27721034,7,0,2,journal,Evid Based Cardiovasc Med,Q5633421,,
+Evidence,evidence-based,Q11290517,7,0,2,descriptor of policies and programs that have a primarily empirical basis,,Q1207505,,
+Evidence,Evidence-based spine-care journal,Q26842487,7,0,2,journal,,Q5633421,,
+Evidence,Evidence-Based Child Health: a cochrane review journal,Q15756364,7,0,2,journal,Evidence-based child health,Q5633421,,
+Evidence,evidence-based practice,Q2354820,7,0,2,practice that relies on evidence to form arguments for guidance and decision-making,,,Q10354783,Evidence-based practice
+Evidence,Evidence-Based Practice,Q96326697,7,0,2,US scientific journal,,Q5633421,,
+Evidence,Evidence-Based Practice,Q96700796,7,0,2,,,Q5633421,,
+Evidence,evidence-based therapy,Q114784899,7,0,2,"movement in psychology that aims to track the efficacy of treatment plans, with the goal of providing clients with treatments that have solid evidence backing their effectiveness",EBT|evidence-based practice|EBP|evidence-based psychotherapy,,Q183257,
+Evidence,Evidence-Based Practices in Child and Family Services,Q60186200,7,0,2,book,,Q3331189,,
+Evidence,Evidence-Based Practice in Child and Adolescent Mental Health,Q60644172,7,0,2,scholarly journal published by Informa UK (Taylor & Francis),,Q5633421,,
+Evidence,Evidence Based Practice in Audiology: Evaluating Interventions for Children and Adults with Hearing Impairment,Q134349103,7,0,2,book on evidence based audiology,,Q732577,,
+Evidence,"Evidence based practice : the challenge for nursing, midwifery and health visiting",Q76761349,7,0,2,edition; published in 1995,,Q3331189,,
+Evidence,"Evidence based practice : the challenge for nursing, midwifery and health visiting",Q77202741,7,0,2,book (work),,Q47461344,,
+Evidence,Evidence-Based Practice,Q30040342,7,0,2,scientific article (publication date: October 2012),,Q13442814,,
+Evidence,Evidence-Based Medicine,Q140245473,7,0,2,monograph published by Routledge (2004),,Q193495,,
+Evidence,Evidence-Based Medicine Teaching Tips Working Group,Q125193430,7,0,2,researcher,,Q5,,
+Evidence,Evidence based medicine in HIV/AIDS and reproductive health research: Piloting two distance learning courses in low-resource settings,Q108257430,7,0,2,research work,,,,
+Evidence,Evidence based medicine,Q72218690,7,0,2,scientific article published on 01 April 1995,,Q13442814|Q871232,,
+Evidence,Evidence-based medicine & public health,Q27727314,7,0,2,journal,Evid Based Med Public Health,Q5633421,,
+Evidence,Evidence based medicine: what it is and what it isn't,Q24655756,7,0,2,scientific article published on 13 January 1996,,Q13442814|Q871232,,
+Evidence,Evidence-based medicine,Q73430749,7,0,2,scientific article published on 01 February 1997,,Q13442814,,
+Evidence,Evidence-based medicine,Q59322223,7,0,2,scientific article published in The Lancet,,Q13442814,,
+Religious drama,religious drama,Q110324066,8,0,1,theatrical genre,religious theater,Q7777573,Q25372|Q25379,
+Religious drama,Religious drama,Q107018586,8,0,1,,,Q2217301,,
+Religious drama,Religious drama,Q7311350,8,0,1,Wikimedia disambiguation page,,Q4167410,,Religious drama
+Proceedings of the Association of Official Seed Analysts,Proceedings of the Association of Official Seed Analysts,Q55397529,9,0,1,journal 1941-1975,,Q5633421,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the Association of Official Seed Analysts,Q107018332,9,0,1,serial,,Q2217301,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the Association of Official Seed Analysts of North America,Q136534627,9,0,1,journal 1919-1940,,Q5633421,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the Association of Official Seed Analysts of North America,Q107018333,9,0,1,,,Q2217301,,
+Proceedings of the Association of Official Seed Analysts,Association of Official Seed Analysts,Q113166551,9,0,2,seed analyst association,AOSA,Q15911314|Q2085381,,
+Proceedings of the Association of Official Seed Analysts,conference proceedings,Q1143604,9,0,2,collection of scholarly papers published in the context of an academic conference,academic proceedings|proceedings volume|congress report|congress proceedings|scientific proceedings|academic conference proceedings|scientific conference proceedings|proceedings,,Q1711593|Q2217301|Q1437361|Q11826511|Q571,Conference proceedings
+Proceedings of the Association of Official Seed Analysts,Proceedings of the Royal Society B,Q2625424,9,0,2,scientific journal,Proceedings of the Royal Society of London. Series B|Proceedings. Biological sciences|Proceedings - Royal Society. Biological Sciences,Q5633421,,Proceedings of the Royal Society B
+Proceedings of the Association of Official Seed Analysts,Proceedings - Symposium on Computer Application in Medical Care,Q26842181,9,0,2,American journal,Proceedings / the ... Annual Symposium on Computer Application in Medical Care|Proceedings|Proceedings. Symposium on Computer Applications in Medical Care|Proceedings of the Annual Symposium on Computer Application in Medical Care|SCAMC: Annual Symposium on Computer Application in Medical Care|SCAMC proceedings|Proc Annu Symp Comput Appl Med Care|SCAMC proceedings 1990,Q5633421|Q1143604,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the American Philosophical Society,Q6087079,9,0,2,academic journal,Proceedings of the American Philosophical Society held at Philadelphia for promoting useful knowledge|Proc. Am. Phil. Soc.,Q737498|Q5633421,,Proceedings of the American Philosophical Society
+Proceedings of the Association of Official Seed Analysts,Baylor University Medical Center Proceedings,Q26842047,9,0,2,American journal,Proceedings|Proceedings / Baylor University Medical Center|Proceedings of Baylor University Medical Center|Proceedings (Baylor University. Medical Center)|Proc (Bayl Univ Med Cent)|Proc. Bayl. Univ. Med. Cent.|Proceedings - Baylor University. Medical Center,Q5633421,,
+Proceedings of the Association of Official Seed Analysts,Proceedings. AMIA Annual Symposium,Q26842249,9,0,2,conference proceedings series,Proceedings|Proceedings / AMIA ... Annual Symposium|Proceedings - AMIA Symposium,Q27785883,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the National Academy of Sciences of the United States of America,Q1146531,9,0,2,academic journal of the National Academy of Sciences,National Academy of Sciences. Proceedings|PNAS|Proc. Natl. Acad. Sci. U.S.A.|Proceedings of the National Academy of Sciences|Proc. Natl. Acad. Sci. U.S. A.|The Proceedings of the National Academy of Sciences|PNAS / National Academy of Sciences,Q5633421|Q5953270|Q5253501|Q737498,,Proceedings of the National Academy of Sciences of the United States of America
+Proceedings of the Association of Official Seed Analysts,"Proceedings of the Prehistoric Society, London",Q15762615,9,0,2,academic journal,"Prehistoric Society, London. Proceedings|Proceedings of the Prehistoric Society",Q5633421|Q21834496,,
+Proceedings of the Association of Official Seed Analysts,Proceedings of the American Mathematical Society,Q3406325,9,0,2,journal,American Mathematical Society Proceedings|Proceedings of the AMS,Q5633421,,Proceedings of the American Mathematical Society
+Proceedings of the Association of Official Seed Analysts,Proceedings / AMIA Annual Fall Symposium,Q26842478,9,0,2,journal,Proceedings|Proceedings - AMIA Annual Fall Symposium,Q5633421,,
+Discovery,Discovery Channel,Q43404,10,0,1,American basic cable and satellite television channel,The Discovery Channel|Discovery|Discovery.com,Q1616075|Q5009242,,Discovery Channel
+Discovery,"Discovery, Inc.",Q621592,10,0,1,American multinational television company,Discovery Communications|Discovery,Q4830453|Q6881511|Q891723,,"Discovery, Inc."
+Discovery,Discovery,Q1901313,10,0,1,2001 album by Daft Punk,,Q482994,,Discovery (Daft Punk album)
+Discovery,Discovery,Q2731518,10,0,1,1979 studio album by Electric Light Orchestra,,Q482994,,Discovery (Electric Light Orchestra album)
+Discovery,Discovery,Q2487075,10,0,1,2011 compilation box set by Pink Floyd,,Q482994,,Discovery (Pink Floyd box set)
+Discovery,Discovery,Q5281852,10,0,1,1987 debut studio album by Shanice,,Q482994,,Discovery (Shanice album)
+Discovery,Discovery,Q50809782,10,0,1,radio program and audio podcast by the BBC World Service,,Q24634210,,
+Discovery,DISCOVERY,Q11320028,10,0,1,Japanese adult anime producer,DISCOVERY (Hentai Producer)|DISCOVERY (Japanese Adult Anime Producer)|DISCOVERY (Anime Label)|DISCOVERY (Adult Anime Label)|DISCOVERY (Japanese Adult Animation Producer),Q4830453,,
+Discovery,Discovery,Q58373796,10,0,1,1987 video game,,Q7889,,
+Discovery,discovery,Q12772819,10,0,1,act of detecting something new,,Q116505632|Q41172303,Q451967|Q37112258,Discovery (observation)
+Discovery,Discovery Channel,Q757046,10,0,2,US bicycle racing team (1988-2007),Blue train|Discovery Channel Pro Cycling Team,Q20639847|Q20653563|Q20638319,,U.S. Postal Service Pro Cycling Team
+Discovery,USA Network (Canada),Q1228565,10,0,2,Canadian television channel,Discovery Channel (Canada),Q561068,,USA Network (Canada)
+Discovery,Discovery Channel,Q5281882,10,0,2,cable and satellite TV channel in Australia and New Zealand,,Q2001305,,Discovery Channel (Australia and New Zealand)
+Discovery,Discovery Channel,Q16835379,10,0,2,Dutch television channel,,Q2001305,,Discovery Channel (Netherlands)
+Discovery,Discovery Channel,Q5281887,10,0,2,Asian television channel,,Q2001305,,Discovery Channel (Southeast Asia)
+Discovery,Discovery Channel,Q5281888,10,0,2,television channel broadcast in the United Kingdom and Ireland,Discovery Channel UK,Q1616075|Q2001305,,Discovery (UK & Ireland)
+Discovery,Discovery Channel,Q18351961,10,0,2,Portuguese basic cable and satellite television channel,,Q2001305,,Discovery Channel (Portugal)
+Discovery,Discovery Channel,Q48723742,10,0,2,television channel,Discovery Channel India,Q2001305,,Discovery Channel (India)
+Discovery,Discovery Channel,Q5281885,10,0,2,Arabian version of the Discovery Channel,,Q2001305,,Discovery Channel (Middle East and North Africa)
+Discovery,Discovery Bay,Q49376336,10,0,2,"bay of the Strait of Juan de Fuca in Clallam and Jefferson Counties, Washington, United States of America",Port Discovery Bay,Q39594,,
+Discovery,Discovery Bay,Q218219,10,0,2,bay in the Antarctic,"Chile Bay|Bahía Chile|'Chile Bay' (Discovery Bay), Greenwich Island, South Shetland Islands|ASPA-144|Bahia Chile",Q39594|Q473972,,Discovery Bay (Antarctica)
+Discovery,Discovery Bay,Q54082389,10,0,2,constituency of the Islands District Council of Hong Kong,,Q54065243,,Discovery Bay (constituency)
+Discovery,Discovery Bay,Q2053386,10,0,2,"census-designated place in Contra Costa County, California, United States","Discovery Bay, California|Discovery Bay, CA",Q498162,,"Discovery Bay, California"
+Discovery,Discovery Bay,Q2161278,10,0,2,residential development in Hong Kong,,Q5916199,,Discovery Bay
+Discovery,Discovery Bay,Q5281864,10,0,2,town in Jamaica,Discovery Bay|Dry Harbour Bay,Q486972,,"Discovery Bay, Jamaica"
+Discovery,Discovery Bay Marine National Park,Q5281870,10,0,2,"protected area in Victoria, Australia",Discovery Bay Marine National Park|Discovery Bay,Q18618819|Q1185274,,Discovery Bay Marine National Park
+Discovery,Discovery Bay,Q5281867,10,0,2,"human settlement in Jefferson County, Washington, United States","Discovery Bay, Washington|Discovery Bay, WA",Q17343829|Q39594,,"Discovery Bay, Washington"
+Discovery,Discovery Bay,Q5281866,10,0,2,bay straddling the border between South Australia and Victoria in Australia,,Q39594,,Discovery Bay (Australia)
+Discovery,Discovery Bay,Q83640886,10,0,2,bulk carrier built in 2016,IMO 9737125,Q15276,,
+Encyclia,Encyclia,Q133786,11,0,1,genus of plants,,Q16521,,Encyclia
+Encyclia,Encyclia oncidioides,Q5225501,11,0,1,species of plant,,Q16521,,Encyclia oncidioides
+Encyclia,Encyclia adenocaula,Q1945853,11,0,1,species of plant,,Q16521,,Encyclia adenocaula
+Encyclia,Encyclia cordigera,Q1945727,11,0,1,species of plant,,Q16521,,Encyclia cordigera
+Encyclia,Encyclia pauciflora,Q10272790,11,0,1,species of plant,,Q16521,,
+Encyclia,Encyclia chloroleuca,Q15466813,11,0,1,species of plant,,Q16521,,
+Encyclia,Encyclia ceratistes,Q5375638,11,0,1,species of plant,,Q16521,,Encyclia ceratistes
+Encyclia,Encyclia tampensis,Q1945854,11,0,1,species of plant,,Q16521,,Encyclia tampensis
+Encyclia,Encyclia patens,Q5375648,11,0,1,species of plant,,Q16521,,Encyclia patens
+Encyclia,Encyclia ambigua,Q5375636,11,0,1,species of plant,,Q16521,,Encyclia ambigua
+Encyclia,Orchid,Q25308,11,0,2,family of plants,orchid|Orchidaceae|orchids,Q16521,Q886167,Orchid
+Encyclia,Caladenia,Q2720020,11,0,2,genus of plants,Orchid,Q16521,,Caladenia
+Encyclia,Orchideae,Q142269,11,0,2,tribe of plants,orchid|orchids,Q16521,,Orchideae
+Encyclia,Orchidinae,Q148545,11,0,2,subtribe of plants,,Q16521,,Orchidinae
+Encyclia,Orchidea De Santis,Q3885030,11,0,2,Italian actress,Orchidea De Sanctis,Q5,,Orchidea De Santis
+Encyclia,Cattleya forbesii,Q5054131,11,0,2,species of plant,Orchid,Q16521,,Cattleya forbesii
+Encyclia,Orchidantha,Q134214,11,0,2,genus of plants,,Q16521,,Orchidantha
+Encyclia,Orchid,Q18609,11,0,2,1995 debut studio album by Opeth,,Q482994,,Orchid (Opeth album)
+Encyclia,orchid,Q1925148,11,0,2,bright rich purple color,,Q1075,Q3257809,Orchid (color)
+Encyclia,Cypripedium henryi,Q1616237,11,0,2,species of plant,Orchid,Q16521,Q190903,Cypripedium henryi
+Encyclia,Orchidaceae,Q20862195,11,0,2,painting by Ellen Lanyon,,Q3305213,,
+Encyclia,Orchidaceae: Illustrations and Studies of the Family Orchidaceae Issuing from the Ames Botanical Laboratory,Q11042904,11,0,2,"Boston,Houghton, Mifflin,1905-22. | New York Botanical Garden, LuEsther T. Mertz Library",Orchidaceae: illustrations and studies of the family Orchidaceae|Orchidaceae (Ames),Q7725634,,
+Encyclia,Orchidaceae Brasilienses,Q10341275,11,0,2,book by Fritz Dungs,,Q7725634,,
+Encyclia,"Orchidaceae-Monandrae-Pseudomonopodiales. In: Engler, Das Pflanzenreich [...] [Heft 83] IV. 50",Q51514916,11,0,2,Leipzig : Verlag von Wilhelm Engelmann (Druck von Breitkopf & Härtel in Leipzig) 1923,,Q3331189,,
+Encyclia,"Orchidaceae Lindenianae ; or, Notes upon a collection of orchids formed in Colombia and Cuba by J. Linden",Q51514906,11,0,2,"London :Bradbury and Evans,1846. | New York Botanical Garden, LuEsther T. Mertz Library",,Q3331189,,
+Encyclia,"Orchidaceae-Monandrae-Coelogyninae. In: Engler, Das Pflanzenreich [...] [Heft 32] IV. 50. II. B. 7",Q51514913,11,0,2,Leipzig : Verlag von Wilhelm Engelmann (Druck von Breitkopf & Härtel in Leipzig) 1907,,Q3331189,,
+Encyclia,"Orchidaceae-Pleonandrae. In: Engler, Das Pflanzenreich [...] [Heft 12] IV. 50",Q51514918,11,0,2,Leipzig : Verlag von Wilhelm Engelmann (Druck von Breitkopf & Härtel in Leipzig) 1903,,Q3331189,,
+Encyclia,"Orchidaceae-Monandrae Tribus Oncidiinae-Odontoglosseae Pars II. In: Engler, Das Pflanzenreich [...] [Heft 80] IV. 50",Q51514911,11,0,2,Leipzig : Verlag von Wilhelm Engelmann (Druck von Breitkopf & Härtel in Leipzig) 1922,,Q3331189,,
+Encyclia,Orchidaceae brasilienses,Q133806746,11,0,2,hardcover edition (de),,Q3331189,,

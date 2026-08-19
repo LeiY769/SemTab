@@ -1,0 +1,215 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Czerniewice,Czerniewice,Q161860,0,0,1,"village in Łódź Voivodeship, Poland",,Q3558970,,Czerniewice
+Czerniewice,"Czerniewice, Kuyavian-Pomeranian Voivodeship",Q5202015,0,0,1,"village in Kuyavian-Pomeranian, Poland",Czerniewice,Q3558970,,"Czerniewice, Kuyavian-Pomeranian Voivodeship"
+Czerniewice,Czerniewice train station,Q2033830,0,0,1,"railway station in Kuyavian-Pomeranian Voivodeship, Poland",,Q55488,,
+Czerniewice,Czerniewice,Q3009581,0,0,1,"village in Kuyavian-Pomeranian, Poland",,Q2983893,,
+Czerniewice,Gmina Czerniewice,Q2437662,0,0,1,rural gmina of Poland,,Q3504085,,Gmina Czerniewice
+Czerniewice,Czerniewice,Q2107166,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gmina Czerniewice,Gmina Czerniewice,Q2437662,0,1,1,rural gmina of Poland,,Q3504085,,Gmina Czerniewice
+Zaczopki,Zaczopki,Q588758,1,0,1,village of Poland,,Q3558970,,Zaczopki
+Zaczopki,Zaczopki-Kolonia,Q3270923,1,0,1,"village in Lublin, Poland",,Q3558970,,Zaczopki-Kolonia
+Zaczopki,Zaczopki,Q16618444,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Zaczopki,Rokitno,Q2241493,1,0,2,"village in powiat międzyrzecki, Lubusz Voivodeship, Poland",,Q3558970,,"Rokitno, Międzyrzecz County"
+Zaczopki,Rokitno,Q2974521,1,0,2,"village in powiat bialski, Lublin Voivodeship, Poland",,Q3558970,,"Rokitno, Gmina Rokitno"
+Zaczopki,Rokitno,Q661258,1,0,2,"village in powiat zawierciański, Silesian Voivodeship, Poland",,Q3558970,,"Rokitno, Silesian Voivodeship"
+Zaczopki,Rokitno,Q7360029,1,0,2,"village in powiat warszawski zachodni, Masovian Voivodeship, Poland",,Q3558970,,"Rokitno, Masovian Voivodeship"
+Zaczopki,Rokitno,Q7360034,1,0,2,"village in powiat tomaszowski, Lublin Voivodeship, Poland",,Q3558970,,"Rokitno, Gmina Ulhówek"
+Zaczopki,Rokitno,Q25414387,1,0,2,ribbon lake in Poland,,Q2623499,,
+Zaczopki,Rokitno train station,Q2928296,1,0,2,"railway station in Chełmicko, Poland",,Q55488,,
+Zaczopki,Rokitno,Q7360028,1,0,2,"village in powiat lubartowski, Lublin Voivodeship, Poland",,Q3558970,,"Rokitno, Lubartów County"
+Zaczopki,Rokitno,Q7360035,1,0,2,"village in powiat myśliborski, West Pomeranian Voivodeship, Poland",,Q3558970,,"Rokitno, West Pomeranian Voivodeship"
+Zaczopki,Rokitno,Q7360033,1,0,2,"village in powiat strzelecko-drezdenecki, Lubusz Voivodeship, Poland",,Q3558970,,"Rokitno, Strzelce-Drezdenko County"
+Zaczopki,Gmina Rokitno,Q614201,1,0,2,rural gmina of Poland,,Q3504085,,Gmina Rokitno
+Zaczopki,Gmina Rokitno (województwo kieleckie),Q9272185,1,0,2,,,Q19730508,,
+Zaczopki,Gmina Rokitno-Szlacheckie,Q11700644,1,0,2,,,Q19730508,,
+Zaczopki,Gmina Rokitno,Q9272184,1,0,2,Wikimedia disambiguation page,,Q4167410,,
+Gmina Rokitno,Gmina Rokitno,Q614201,1,1,1,rural gmina of Poland,,Q3504085,,Gmina Rokitno
+Gmina Rokitno,Gmina Rokitno (województwo kieleckie),Q9272185,1,1,1,,,Q19730508,,
+Gmina Rokitno,Gmina Rokitno-Szlacheckie,Q11700644,1,1,1,,,Q19730508,,
+Gmina Rokitno,Gmina Rokitno,Q9272184,1,1,1,Wikimedia disambiguation page,,Q4167410,,
+Mokrz,Mokrzeckia,Q13860453,2,0,1,genus of insects,,Q16521,,
+Mokrz,Mokrz,Q2170570,2,0,1,railway halt in Mokrz,,Q55678|Q336764,,Mokrz railway station
+Mokrz,Mokrz,Q549198,2,0,1,village of Poland,,Q3558970,,Mokrz
+Mokrz,Mokrzeckia pini,Q13860461,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzeckia halidayana,Q13860455,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzeckia abietis,Q13860454,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzeckia menzeli,Q13860458,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzeckia obscura,Q13860459,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzeckia orientalis,Q13860460,2,0,1,species of insect,,Q16521,,
+Mokrz,Mokrzycki,Q27890722,2,0,1,family name,,Q101352|Q18972245,,
+Mokrz,Wronki,Q52900,2,0,2,city of Poland,,Q515,,Wronki
+Mokrz,gmina Wronki,Q554919,2,0,2,urban-rural gmina of Poland,Wronki,Q3491915,,Gmina Wronki
+Mokrz,Wronki,Q2796943,2,0,2,"railway station in Wronki, Poland",,Q55488,,Wronki railway station
+Mokrz,"Wronki, Warmian-Masurian Voivodeship",Q8038664,2,0,2,"village in Warmian-Masurian, Poland",,Q3558970,,"Wronki, Warmian-Masurian Voivodeship"
+Mokrz,Wronki Prison,Q683679,2,0,2,largest prison in Poland,,Q40357,,Wronki Prison
+Mokrz,Wronki Wielkie,Q8038665,2,0,2,"village in Warmian-Masurian, Poland",,Q3558970,,Wronki Wielkie
+Mokrz,Amica Wronki Stadium,Q9341104,2,0,2,"football stadium in Wronki, Greater Poland",Wronki Stadium,Q483110|Q1154710,,Wronki Stadium
+Mokrz,Wronki (Mazurskie),Q9378146,2,0,2,"railway station in Warmian-Masurian Voivodeship, Poland",,Q55488,,
+Mokrz,Wronki,Q9378148,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Mokrz,Wronki Zamość,Q136090969,2,0,2,,,Q55488,,
+Gmina Wronki,gmina Wronki,Q554919,2,1,1,urban-rural gmina of Poland,Wronki,Q3491915,,Gmina Wronki
+Gmina Wronki,Wronki,Q52900,2,1,2,city of Poland,,Q515,,Wronki
+Gmina Wronki,Wronki,Q2796943,2,1,2,"railway station in Wronki, Poland",,Q55488,,Wronki railway station
+Gmina Wronki,"Wronki, Warmian-Masurian Voivodeship",Q8038664,2,1,2,"village in Warmian-Masurian, Poland",,Q3558970,,"Wronki, Warmian-Masurian Voivodeship"
+Gmina Wronki,Wronki Prison,Q683679,2,1,2,largest prison in Poland,,Q40357,,Wronki Prison
+Gmina Wronki,Wronki Wielkie,Q8038665,2,1,2,"village in Warmian-Masurian, Poland",,Q3558970,,Wronki Wielkie
+Gmina Wronki,Amica Wronki Stadium,Q9341104,2,1,2,"football stadium in Wronki, Greater Poland",Wronki Stadium,Q483110|Q1154710,,Wronki Stadium
+Gmina Wronki,Wronki (Mazurskie),Q9378146,2,1,2,"railway station in Warmian-Masurian Voivodeship, Poland",,Q55488,,
+Gmina Wronki,Wronki,Q9378148,2,1,2,Wikimedia disambiguation page,,Q4167410,,
+Gmina Wronki,Wronki Zamość,Q136090969,2,1,2,,,Q55488,,
+Rudnia,Rudnia,Q4399639,3,0,1,"village in Žytkavičy district, Belarus",,Q65661087,,
+Rudnia,Rudnia,Q4399631,3,0,1,"village in Haradok district, Belarus",,Q65661087,,
+Rudnia,Rudnia,Q16714892,3,0,1,"agrotown in Červień district, Belarus",Rudnya,Q1989945|Q65661087,,
+Rudnia,Rudnia,Q4399650,3,0,1,"agrotown in Michalkaŭski sieĺsaviet, Mazyr district, Belarus",Rudnya,Q1989945,,
+Rudnia,Rudnia,Q20520688,3,0,1,"agrotown in Farynaŭski sieĺsaviet, Polack district, Belarus",Rudnya,Q1989945,,
+Rudnia,Rudnia,Q12149209,3,0,1,"village in Plieščanicki sieĺsaviet, Lahojsk district, Belarus",,Q65661087,,
+Rudnia,Rudnia,Q6531198,3,0,1,"village in Bycienski sieĺsaviet, Ivacevičy district, Belarus",,Q65661087,,
+Rudnia,Rudnia,Q13662787,3,0,1,,Rudnya,Q65661087,,
+Rudnia,Rudnia,Q4399632,3,0,1,"village in Brest district, Belarus",Rudnya,Q65661087,,"Rudnya, Brest district"
+Rudnia,Rudnia,Q12149210,3,0,1,"village in Švabski sieĺsaviet, Lahojsk district, Belarus",,Q65661087,,
+Rudnia,Gmina Michałowo,Q615338,3,0,2,urban-rural gmina of Poland,Michałowo,Q3491915,,Gmina Michałowo
+Rudnia,"Michałowo, Warmian-Masurian Voivodeship",Q6836118,3,0,2,"village in Warmian-Masurian, Poland",,Q3558970,,"Michałowo, Warmian-Masurian Voivodeship"
+Rudnia,Michałowo,Q2364639,3,0,2,city of Poland,Michalowo|Michalovas|Mihalovo|Michalova|Mikhalovah|Michaleve|Nezbodka|Michałowo-Niezbudka|Michalowo-Niezbudka,Q515,,Michałowo
+Rudnia,Michałowo,Q11779444,3,0,2,"village in Greater Poland, Poland",,Q3558970,,"Michałowo, Gostyń County"
+Rudnia,Michałowo,Q11779441,3,0,2,"neighbourhood of Brodnica, Poland",,Q2277441,,
+Rudnia,Michałowo,Q6836115,3,0,2,"village in Masovian, Poland",,Q3558970,,"Michałowo, Płońsk County"
+Rudnia,Michałowo,Q11779440,3,0,2,,,Q41970180,,
+Rudnia,"Michałowo, Gmina Czarnia",Q11779442,3,0,2,"village in Masovian, Poland",,Q3558970,,"Michałowo, Gmina Czarnia"
+Rudnia,Michałowo,Q6836116,3,0,2,"village in Gmina Slupca, Poland",,Q3558970,,"Michałowo, Słupca County"
+Rudnia,Michałowo,Q6836117,3,0,2,"village in Gmina Glowczyce, Poland",,Q3558970,,"Michałowo, Słupsk County"
+Rudnia,Gmina Michałowo,Q639195,3,0,2,,,Q687121,,
+Rudnia,Gmina Michałowo,Q9271146,3,0,2,Wikimedia disambiguation page,,Q4167410,,
+Gmina Michałowo,Gmina Michałowo,Q615338,3,1,1,urban-rural gmina of Poland,Michałowo,Q3491915,,Gmina Michałowo
+Gmina Michałowo,Gmina Michałowo,Q639195,3,1,1,,,Q687121,,
+Gmina Michałowo,Gmina Michałowo,Q9271146,3,1,1,Wikimedia disambiguation page,,Q4167410,,
+Gmina Michałowo,"Michałowo, Warmian-Masurian Voivodeship",Q6836118,3,1,2,"village in Warmian-Masurian, Poland",,Q3558970,,"Michałowo, Warmian-Masurian Voivodeship"
+Gmina Michałowo,Michałowo,Q2364639,3,1,2,city of Poland,Michalowo|Michalovas|Mihalovo|Michalova|Mikhalovah|Michaleve|Nezbodka|Michałowo-Niezbudka|Michalowo-Niezbudka,Q515,,Michałowo
+Gmina Michałowo,Michałowo,Q11779444,3,1,2,"village in Greater Poland, Poland",,Q3558970,,"Michałowo, Gostyń County"
+Gmina Michałowo,Michałowo,Q11779441,3,1,2,"neighbourhood of Brodnica, Poland",,Q2277441,,
+Gmina Michałowo,Michałowo,Q6836115,3,1,2,"village in Masovian, Poland",,Q3558970,,"Michałowo, Płońsk County"
+Gmina Michałowo,Michałowo,Q11779440,3,1,2,,,Q41970180,,
+Gmina Michałowo,"Michałowo, Gmina Czarnia",Q11779442,3,1,2,"village in Masovian, Poland",,Q3558970,,"Michałowo, Gmina Czarnia"
+Gmina Michałowo,Michałowo,Q6836116,3,1,2,"village in Gmina Slupca, Poland",,Q3558970,,"Michałowo, Słupca County"
+Gmina Michałowo,Michałowo,Q6836117,3,1,2,"village in Gmina Glowczyce, Poland",,Q3558970,,"Michałowo, Słupsk County"
+Garbicz,Garbicz,Q824607,4,0,1,village of Poland,,Q3558970,,Garbicz
+Garbicz,Garbicz,Q27977981,4,0,1,family name,,Q101352,,
+Garbicz,Wielicko,Q48840604,4,0,1,lake in Poland,,Q23397,,
+Garbicz,Gmina Torzym,Q2415005,4,0,2,urban-rural gmina of Poland,Torzym,Q3491915,,Gmina Torzym
+Gmina Torzym,Gmina Torzym,Q2415005,4,1,1,urban-rural gmina of Poland,Torzym,Q3491915,,Gmina Torzym
+Gmina Torzym,Garbicz,Q824607,4,1,2,village of Poland,,Q3558970,,Garbicz
+Gmina Torzym,Garbicz,Q27977981,4,1,2,family name,,Q101352,,
+Gmina Torzym,Wielicko,Q48840604,4,1,2,lake in Poland,,Q23397,,
+Gmina Torzym,Torzym,Q995903,4,1,2,town in Poland,Sternberg in der Neumark|Sternberg,Q515,,Torzym
+Gmina Torzym,Torzym,Q2021723,4,1,2,"railway station in Torzym, Poland",,Q55488,,
+Gmina Torzym,Torzym Plain,Q9325724,4,1,2,,,Q82794,,
+Gmina Torzym,Motorway junction Torzym,Q112130244,4,1,2,junction on motorway A2 in Poland,,Q353070,,
+Gmina Torzym,Ilno,Q25413991,4,1,2,lake in Poland,,Q11727001,,
+Gmina Torzym,Torzym,Q16611120,4,1,2,Wikimedia disambiguation page,,Q4167410,,
+Gmina Torzym,gmina,Q15334,4,1,2,municipal-level administrative division of Poland,municipality of Poland|Polish municipality,Q28872924,Q855451|Q15284|Q12357920,Gmina
+Gmina Torzym,Gmina Kobylnica,Q551003,4,1,2,urban-rural gmina of Poland,Kobylnica,Q3504085,,Gmina Kobylnica
+Gmina Torzym,Gmina Redzikowo,Q551017,4,1,2,rural gmina of Poland,Słupsk|Gmina Słupsk (until 2023),Q3504085,,Gmina Redzikowo
+Gmina Torzym,Gmina Więcbork,Q2323147,4,1,2,urban-rural gmina of Poland,Więcbork|Vandsburg|Gemeinde Vandsburg,Q3491915|Q12357832,,Gmina Więcbork
+Gmina Torzym,Gmina Prabuty,Q2324788,4,1,2,urban-rural gmina of Poland,Prabuty,Q3491915,,Gmina Prabuty
+Gmina Torzym,Gmina Żukowo,Q2094829,4,1,2,urban-rural gmina of Poland,Żukowo,Q3491915,,Gmina Żukowo
+Gmina Torzym,Gmina Sośno,Q2408450,4,1,2,"rural municipality in Sępólno County, Kuyavian-Pomeranian Voivodeship, Poland",Sośno|Sossnow|Gemeinde Sossnow|gmina Sosno,Q3504085,,Gmina Sośno
+Gmina Torzym,Gmina Jasienica,Q554411,4,1,2,rural gmina of Poland,,Q3504085,,Gmina Jasienica
+Gmina Torzym,Gmina Jadów,Q1993110,4,1,2,gmina of Poland,Gmina Jadow,Q3491915,,Gmina Jadów
+Gmina Torzym,Gmina Tłuszcz,Q2325087,4,1,2,urban-rural gmina of Poland,Tłuszcz,Q3491915,,Gmina Tłuszcz
+Brenna,Brennan,Q6582834,5,0,1,family name,,Q101352|Q11455398,,Brennan (surname)
+Brenna,Brenna,Q244138,5,0,1,Italian comune,,Q747074,,"Brenna, Lombardy"
+Brenna,Brennan,Q8757793,5,0,1,male given name,,Q12308941,,Brennan (given name)
+Brenna,Brenna,Q645331,5,0,1,"village in Silesian Voivodeship, southern Poland",,Q3558970|Q1200957,,"Brenna, Poland"
+Brenna,Brenna,Q57385169,5,0,1,female given name,,Q11879590,,
+Brenna,Gmina Brenna,Q553447,5,0,1,rural gmina of Poland,Brenna,Q3504085,,Gmina Brenna
+Brenna,Brenna,Q30334493,5,0,1,family name,,Q101352,,
+Brenna,Brennan Johnson,Q66108160,5,0,1,Welsh-English association football player (born 2001),Brennan Price Johnson,Q5,,Brennan Johnson
+Brenna,Brenna Hafer Bry,Q105338002,5,0,1,researcher,Brenna H. Bry|Brenna Hafer|B.H. Bry|B H Bry|B. H. Bry,Q5,,
+Brenna,Brenna Hassett,Q70006597,5,0,1,American British bioarchaeologist,B. R. Hassett,Q5,,Brenna Hassett
+Gmina Brenna,Gmina Brenna,Q553447,5,1,1,rural gmina of Poland,Brenna,Q3504085,,Gmina Brenna
+Siniec,Siniec,Q165492,6,0,1,"village in the administrative district of Gmina Srokowo, within Kętrzyn County, Warmian-Masurian Voivodeship, in northern Poland",,Q3558970,,"Siniec, Warmian-Masurian Voivodeship"
+Siniec,Siniecki,Q118089413,6,0,1,family name,,Q101352,,
+Siniec,"Siniec, Lublin Voivodeship",Q7524375,6,0,1,"village in Lublin, Poland",,Q3558970,,"Siniec, Lublin Voivodeship"
+Siniec,Siniechowo,Q7524381,6,0,1,"village in West Pomeranian, Poland",,Q3558970,,Siniechowo
+Siniec,Siniec-Cegielnia,Q7524379,6,0,1,"village in Warmian-Masurian, Poland",,Q3558970,,Siniec-Cegielnia
+Siniec,Sîniecobean,Q107250012,6,0,1,family name,,Q101352,,
+Siniec,Siniec,Q2289372,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Siniec,Siniec (dopływ Kwisy),Q9337166,6,0,1,,,Q4022,,
+Siniec,Srokowo,Q390746,6,0,2,"village in Warmian-Masurian VoIvodeship, Poland",,Q3558970,,Srokowo
+Siniec,Srokowo,Q15887077,6,0,2,"railway station in Srokowo, Poland",,Q55488,,
+Siniec,Gmina Srokowo,Q554050,6,0,2,rural gmina of Poland,,Q3504085,,Gmina Srokowo
+Siniec,Srokowo,Q959732,6,0,2,"railway station in Warmian-Masurian Voivodeship, Poland",,Q55488,,
+Siniec,Srokowo,Q16605575,6,0,2,Wikimedia disambiguation page,,Q4167410,,
+Gmina Srokowo,Gmina Srokowo,Q554050,6,1,1,rural gmina of Poland,,Q3504085,,Gmina Srokowo
+Gmina Srokowo,Srokowo,Q390746,6,1,2,"village in Warmian-Masurian VoIvodeship, Poland",,Q3558970,,Srokowo
+Gmina Srokowo,Srokowo,Q15887077,6,1,2,"railway station in Srokowo, Poland",,Q55488,,
+Gmina Srokowo,Srokowo,Q959732,6,1,2,"railway station in Warmian-Masurian Voivodeship, Poland",,Q55488,,
+Gmina Srokowo,Srokowo,Q16605575,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Zapolice,Zapolice,Q147377,7,0,1,"village in Zduńska Wola County, Łódź Voivodeship, Poland",,Q3558970,,"Zapolice, Zduńska Wola County"
+Zapolice,Zapolice,Q8066438,7,0,1,"village in Radomsko County, Łódź Voivodeship, Poland",,Q3558970,,"Zapolice, Radomsko County"
+Zapolice,Zapolice,Q8066440,7,0,1,"village in West Pomeranian Voivodeship, Poland",,Q3558970|Q486972,,"Zapolice, West Pomeranian Voivodeship"
+Zapolice,Gmina Zapolice,Q2458160,7,0,1,rural gmina of Poland,,Q3504085,,Gmina Zapolice
+Zapolice,Zapolice,Q1215460,7,0,1,Wikimedia disambiguation page,,Q4167410,,Zapolice
+Gmina Zapolice,Gmina Zapolice,Q2458160,7,1,1,rural gmina of Poland,,Q3504085,,Gmina Zapolice
+Szymankowo,Szymankowo,Q255995,8,0,1,village of Poland,,Q3558970,,Szymankowo
+Szymankowo,Szymankowo train station,Q2618851,8,0,1,"railway station in Szymankowo, Poland",,Q55488,,
+Szymankowo,Szymankowo,Q16608878,8,0,1,"hamlet in Gmina Murowana Goślina, Poland",,Q5084,,
+Szymankowo,Szymankowo,Q16608875,8,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gmina Lichnowy,Gmina Lichnowy,Q551170,8,1,1,rural gmina of Poland,,Q3504085,,Gmina Lichnowy
+Gmina Lichnowy,Lichnowy,Q1003290,8,1,2,"village in powiat malborski, Pomeranian Voivodeship, Poland",Groß Lichtenau,Q3558970|Q486972,,"Lichnowy, Malbork County"
+Gmina Lichnowy,Lichnowy,Q6543317,8,1,2,"village in Chojnice County, Pomeranian Voivodeship, Poland",,Q3558970,,"Lichnowy, Chojnice County"
+Gmina Lichnowy,Lichnowy (stacja kolejowa),Q15886902,8,1,2,"railway station in Malbork County, Poland",,Q55488,,
+Gmina Lichnowy,Lichnowy,Q2590880,8,1,2,Wikimedia disambiguation page,,Q4167410,,
+Lipusz,Gmina Lipusz,Q2355525,9,0,1,rural gmina of Poland,Lipusz,Q3504085,,Gmina Lipusz
+Lipusz,Lipusz,Q497088,9,0,1,"village in Pomeranian Voivodeship, Poland",,Q3558970,,Lipusz
+Lipusz,Lipusz train station,Q523946,9,0,1,"railway station in Lipusz, Poland",,Q55488,,Lipusz railway station
+Lipusz,Lipuszki,Q6557255,9,0,1,"village in Pomeranian, Poland",,Q3558970,,Lipuszki
+Lipusz,Norbert Lipusz,Q1130346,9,0,1,Hungarian football player,,Q5,,Norbert Lipusz
+Gmina Lipusz,Gmina Lipusz,Q2355525,9,1,1,rural gmina of Poland,Lipusz,Q3504085,,Gmina Lipusz
+Somonino,Gmina Somonino,Q1900156,10,0,1,rural gmina of Poland,Somonino,Q3504085,,Gmina Somonino
+Somonino,Somonino,Q679431,10,0,1,"village in powiat kartuski, Pomeranian Voivodeship, Poland",,Q3558970,,Somonino
+Somonino,Somonino railway station,Q3992695,10,0,1,"railway station in Somonino, Poland",,Q55488,,Somonino railway station
+Gmina Somonino,Gmina Somonino,Q1900156,10,1,1,rural gmina of Poland,Somonino,Q3504085,,Gmina Somonino
+Czaple,Czaple,Q5201498,11,0,1,"village in Gmina Świecie, within Świecie County, Kuyavian-Pomeranian Voivodeship, Poland","Czaple, Świecie County",Q3558970,,"Czaple, Świecie County"
+Czaple,"Czaple, Lower Silesian Voivodeship",Q5201490,11,0,1,"village in Lower Silesian, Poland",Czaple,Q3558970,,"Czaple, Lower Silesian Voivodeship"
+Czaple,Czaplewski,Q37134161,11,0,1,family name,,Q101352|Q18972245,,
+Czaple,Czaple Małe,Q2262160,11,0,1,"village in Lesser Poland, Poland",,Q3558970,,Czaple Małe
+Czaple,Czaple,Q5201491,11,0,1,"village in Pomeranian, Poland",Czaple,Q3558970,,"Czaple, Kartuzy County"
+Czaple,Czaple,Q159786,11,0,1,"village in the administrative district of Gmina Trzebiel, within Żary County, Lubusz Voivodeship, in western Poland",,Q3558970,,"Czaple, Lubusz Voivodeship"
+Czaple,Czaple,Q5201497,11,0,1,"village in Kuyavian-Pomeranian, Poland",,Q3558970,,"Czaple, Wąbrzeźno County"
+Czaple,Czaple,Q5201499,11,0,1,"village in Gmina Lubien Kujawski, Poland",,Q3558970,,"Czaple, Włocławek County"
+Czaple,Czaple,Q5201489,11,0,1,"settlement in Lower Silesian, Poland",,Q3558970,,"Czaple, Góra County"
+Czaple,Czaple,Q5201488,11,0,1,"settlement in Pomeranian, Poland",,Q3558970|Q138845716,,"Czaple, Bytów County"
+Czaple,Gmina Trzebiel,Q2401677,11,0,2,rural gmina of Poland,,Q3504085,,Gmina Trzebiel
+Czaple,Gmina Trzebielino,Q565360,11,0,2,rural gmina of Poland,Trzebielino,Q3504085,,Gmina Trzebielino
+Czaple,Trzebiel,Q150086,11,0,2,village of Poland,,Q3558970,,Trzebiel
+Czaple,Trzebiel,Q578158,11,0,2,railway halt in Trzebiel,,Q55678,,
+Czaple,Trzebielino,Q441914,11,0,2,"village in Pomeranian Voivodeship, Poland",,Q3558970,,Trzebielino
+Czaple,Trzebiełuch,Q7848965,11,0,2,"village in Kuyavian-Pomeranian, Poland",,Q3558970,,Trzebiełuch
+Czaple,Trzebiele,Q7848952,11,0,2,"village in powiat szczecinecki, West Pomeranian Voivodeship, Poland",,Q3558970|Q486972,,"Trzebiele, Szczecinek County"
+Czaple,Trzebiele,Q7848951,11,0,2,"settlement in powiat białogardzki, West Pomeranian Voivodeship, Poland",Kolonia Redlino,Q3558970|Q486972,,"Trzebiele, Białogard County"
+Czaple,Trzebielsk,Q7848953,11,0,2,"hamlet in Pomeranian Voivodeship, Poland",,Q5084|Q138845716,,Trzebielsk
+Czaple,Trzebielskie Jezioro,Q9362164,11,0,2,lake in Poland,,Q23397,,
+Gmina Trzebiel,Gmina Trzebiel,Q2401677,11,1,1,rural gmina of Poland,,Q3504085,,Gmina Trzebiel
+Gmina Trzebiel,Gmina Trzebielino,Q565360,11,1,1,rural gmina of Poland,Trzebielino,Q3504085,,Gmina Trzebielino
+Gmina Trzebiel,Trzebiel,Q150086,11,1,2,village of Poland,,Q3558970,,Trzebiel
+Gmina Trzebiel,Trzebiel,Q578158,11,1,2,railway halt in Trzebiel,,Q55678,,
+Gmina Trzebiel,Trzebielino,Q441914,11,1,2,"village in Pomeranian Voivodeship, Poland",,Q3558970,,Trzebielino
+Gmina Trzebiel,Trzebiełuch,Q7848965,11,1,2,"village in Kuyavian-Pomeranian, Poland",,Q3558970,,Trzebiełuch
+Gmina Trzebiel,Trzebiele,Q7848952,11,1,2,"village in powiat szczecinecki, West Pomeranian Voivodeship, Poland",,Q3558970|Q486972,,"Trzebiele, Szczecinek County"
+Gmina Trzebiel,Trzebiele,Q7848951,11,1,2,"settlement in powiat białogardzki, West Pomeranian Voivodeship, Poland",Kolonia Redlino,Q3558970|Q486972,,"Trzebiele, Białogard County"
+Gmina Trzebiel,Trzebielsk,Q7848953,11,1,2,"hamlet in Pomeranian Voivodeship, Poland",,Q5084|Q138845716,,Trzebielsk
+Gmina Trzebiel,Trzebielskie Jezioro,Q9362164,11,1,2,lake in Poland,,Q23397,,
+Bazar,Bazar,Q37239122,12,0,1,family name,,Q101352,,
+Bazar,bazaar,Q219760,12,0,1,type of public marketplace,bazar,,Q132510|Q294422,Bazaar
+Bazar,Bazar,Q2022610,12,0,1,"village in Korosten Raion, Zhytomyr Oblast, Ukraine",,Q21672098,,"Bazar, Ukraine"
+Bazar,Sunday,Q132,12,0,1,day of the week,Sun|Su|U,Q41825,Q573|Q1445650,Sunday
+Bazar,Bazarnes,Q1376582,12,0,1,"commune in Yonne, France",,Q484170,,Bazarnes
+Bazar,Bazar,Q4075177,12,0,1,"village in Bilobozhnytsia Hromada, Chortkiv Raion, Ternopil Oblast, Ukraine",,Q21672098,,"Bazar, Ternopil Oblast"
+Bazar,Bazar-Korgon,Q1703230,12,0,1,human settlement in Kyrgyzstan,,Q515,,Bazar-Korgon
+Bazar,Bazarella,Q11908858,12,0,1,genus of insects,,Q16521,,
+Bazar,Bazaria,Q4875136,12,0,1,genus of insects,,Q16521,,Bazaria
+Bazar,Dobrich,Q168668,12,0,1,"city in Dobrich municipality, Dobrich oblast, Bulgaria",Hacıoğlu Pazarcık|Bazargic|Pazarcık,Q15303838|Q15344922|Q89487741|Q896881,,Dobrich
+Gmina Rybczewice,Gmina Rybczewice,Q2027054,12,1,1,rural gmina of Poland,,Q3504085,,Gmina Rybczewice
+Gmina Rybczewice,Rybczewice,Q2690632,12,1,2,"village in Lublin, Poland",,Q3558970,,Rybczewice
+Gmina Rybczewice,Rybczewice Pierwsze,Q9324260,12,1,2,"village in Lublin, Poland",,Q3558970,,Rybczewice Pierwsze
+Gmina Rybczewice,Rybczewice,Q25934940,12,1,2,Wikimedia disambiguation page,,Q4167410,,

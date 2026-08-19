@@ -1,0 +1,393 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SMS Prinz Adalbert,SMS Prinz Adalbert,Q554838,0,0,1,1901 Prinz Adalbert-class cruiser,,Q847478,,SMS Prinz Adalbert (1901)
+SMS Prinz Adalbert,SMS Prinz Adalbert,Q163142,0,0,1,Prussian ironclad,,Q1410980,,SMS Prinz Adalbert (1865)
+SMS Prinz Adalbert,SMS Prinz Adalbert,Q2207058,0,0,1,1876 Leipzig-class corvette,,Q178193,,SMS Prinz Adalbert (1876)
+SMS Prinz Adalbert,SMS Prinz Adalbert,Q2207089,0,0,1,Wikimedia disambiguation page,,Q4167410,,SMS Prinz Adalbert
+Prinz Adalbert-class cruiser,Prinz Adalbert-class cruiser,Q31550,0,1,1,1901 class of German armored cruisers,,Q559026,Q847478,Prinz Adalbert-class cruiser
+Prinz Adalbert-class cruiser,SMS Prinz Adalbert,Q554838,0,1,2,1901 Prinz Adalbert-class cruiser,,Q847478,,SMS Prinz Adalbert (1901)
+Prinz Adalbert-class cruiser,SMS Prinz Adalbert,Q163142,0,1,2,Prussian ironclad,,Q1410980,,SMS Prinz Adalbert (1865)
+Prinz Adalbert-class cruiser,SMS Prinz Adalbert,Q2207058,0,1,2,1876 Leipzig-class corvette,,Q178193,,SMS Prinz Adalbert (1876)
+Prinz Adalbert-class cruiser,SMS Prinz Adalbert,Q2207089,0,1,2,Wikimedia disambiguation page,,Q4167410,,SMS Prinz Adalbert
+Imperial German Navy,Imperial German Navy,Q156649,0,2,1,1871–1919 maritime warfare branch of the German Empire's military,Kaiserliche Marine|German Imperial Navy|Imperial Navy|German Navy,Q4508,,Imperial German Navy
+Imperial German Navy,LZ 18,Q1798524,0,2,1,1913 Zeppelin I-class airship; victim of the Johannisthal Air Disaster,Imperial German Navy L 2|Zeppelin LZ 18|LZ18|L 2|L2|LZ 18 L 2,Q76156505,,LZ 18 (L 2)
+Imperial German Navy,Helgoland Island air disaster,Q5704685,0,2,1,crash of Zeppelin LZ 14 into the North Sea,1913 Helgoland Island Zeppelin crash|Zeppelin LZ 14 accident on 9 September 1913|Imperial German Navy aviation accident on 9 September 1913,Q744913,,Helgoland Island air disaster
+Imperial German Navy,Johannisthal air disaster,Q15905450,0,2,1,"airship crash near Berlin, Germany",Zeppelin LZ 18 accident on 17 October 1913|Imperial German Navy air accident on 17 October 1913,Q744913,,Johannisthal air disaster
+Imperial German Navy,Imperial German Navy order of battle,Q111955074,0,2,1,World War I order of battle,,Q11167066,,Imperial German Navy order of battle (1914)
+Imperial German Navy,Imperial German Navy fleet,Q105999115,0,2,1,watercraft in service with the Imperial German Navy,fleet of the Imperial German Navy|naval vessels in Imperial German Navy service|watercraft in Imperial German Navy service,Q105982452,,
+Imperial German Navy,SMS Prinz Adalbert,Q554838,0,2,2,1901 Prinz Adalbert-class cruiser,,Q847478,,SMS Prinz Adalbert (1901)
+Imperial German Navy,SMS Prinz Adalbert,Q163142,0,2,2,Prussian ironclad,,Q1410980,,SMS Prinz Adalbert (1865)
+Imperial German Navy,SMS Prinz Adalbert,Q2207058,0,2,2,1876 Leipzig-class corvette,,Q178193,,SMS Prinz Adalbert (1876)
+Imperial German Navy,SMS Prinz Adalbert,Q2207089,0,2,2,Wikimedia disambiguation page,,Q4167410,,SMS Prinz Adalbert
+Imperial German Navy,Prinz Adalbert-class cruiser,Q31550,0,2,2,1901 class of German armored cruisers,,Q559026,Q847478,Prinz Adalbert-class cruiser
+HMS Donegal,HMS Donegal,Q5632172,1,0,1,1902 Monmouth-class armoured cruiser,,Q847478,,HMS Donegal (1902)
+HMS Donegal,HMS Donegal,Q5632165,1,0,1,1794 Téméraire-class third-rate ship of the line,Barra,Q892492,,HMS Donegal (1798)
+HMS Donegal,HMS Donegal,Q5632166,1,0,1,1858 Conqueror-class steam screw first-rate ship of the line,,Q892367,,HMS Donegal (1858)
+HMS Donegal,HMS Donegal,Q5632164,1,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Donegal
+HMS Donegal,Monmouth-class armored cruiser,Q2587107,1,0,2,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+Monmouth-class armored cruiser,Monmouth-class armored cruiser,Q2587107,1,1,1,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+Monmouth-class armored cruiser,HMS Donegal,Q5632172,1,1,2,1902 Monmouth-class armoured cruiser,,Q847478,,HMS Donegal (1902)
+Monmouth-class armored cruiser,HMS Donegal,Q5632165,1,1,2,1794 Téméraire-class third-rate ship of the line,Barra,Q892492,,HMS Donegal (1798)
+Monmouth-class armored cruiser,HMS Donegal,Q5632166,1,1,2,1858 Conqueror-class steam screw first-rate ship of the line,,Q892367,,HMS Donegal (1858)
+Monmouth-class armored cruiser,HMS Donegal,Q5632164,1,1,2,Wikimedia disambiguation page,,Q4167410,,HMS Donegal
+Royal Navy,Royal Navy,Q172771,1,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,1,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,1,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,1,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,1,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,1,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,1,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,1,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,1,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,1,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Donegal,Q5632172,1,2,2,1902 Monmouth-class armoured cruiser,,Q847478,,HMS Donegal (1902)
+Royal Navy,HMS Donegal,Q5632165,1,2,2,1794 Téméraire-class third-rate ship of the line,Barra,Q892492,,HMS Donegal (1798)
+Royal Navy,HMS Donegal,Q5632166,1,2,2,1858 Conqueror-class steam screw first-rate ship of the line,,Q892367,,HMS Donegal (1858)
+Royal Navy,HMS Donegal,Q5632164,1,2,2,Wikimedia disambiguation page,,Q4167410,,HMS Donegal
+Royal Navy,Monmouth-class armored cruiser,Q2587107,1,2,2,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+O'Higgins,O'Higgins Region,Q2133,2,0,1,administrative division of Chile,VI Libertador General Bernardo O'Higgins Region|VI Region|VI Región|O'Higgins|Region of O'Higgins|Región de O'Higgins|Sixth Region|Sexta Región|Libertador General Bernardo O'Higgins Region,Q590080,,O'Higgins Region
+O'Higgins,O'Higgins,Q1584709,2,0,1,Chilean armoured cruiser,,Q847478,,Chilean cruiser O'Higgins (1897)
+O'Higgins,Bernardo O'Higgins,Q28930,2,0,1,Chilean independence leader (1778–1842),O'Higgins|Bernardo O'Higgins Riquelme|O 'Higgins,Q5,,Bernardo O'Higgins
+O'Higgins,O'Higgins,Q51051,2,0,1,commune in Aysén Region of Chile,O Higgins,Q1840161,,"O'Higgins, Chile"
+O'Higgins,O'Higgins,Q16880676,2,0,1,family name,O'Higgins (surname),Q56228301,,O'Higgins (surname)
+O'Higgins,2351 O'Higgins,Q906872,2,0,1,asteroid,O'Higgins,Q3863,,2351 O'Higgins
+O'Higgins,O'Higgins (SS-23),Q6134853,2,0,1,,,Q4818021,,Chilean submarine O'Higgins
+O'Higgins,O'Higgins train station,Q5843955,2,0,1,train station in Argentina,,Q55488,,
+O'Higgins,O'Higgins Province,Q5482542,2,0,1,former province of Chile,O'Higgins,Q51306396,,
+O'Higgins,O'Higgins F.C.,Q719722,2,0,1,"professional association football team based in Rancagua, Chile",O'Higgins de Rancagua|Club Deportivo O'Higgins,Q476028,,O'Higgins F.C.
+Chilean Navy,Chilean Navy,Q208711,2,2,1,maritime warfare branch of Chile's military,navy of Chile|na Chile|Chile navy,Q4508,,Chilean Navy
+Chilean Navy,Chilean Navy fleet,Q105999060,2,2,1,watercraft in service with the Chilean Navy,fleet of the Chilean Navy|naval vessels in Chilean Navy service|watercraft in Chilean Navy service,Q105982452,,
+Chilean Navy,Chilean Navy Archive and Historical Library,Q112828791,2,2,1,Archive and Library in Chile,,Q2122214|Q7075,,Chilean Navy Archive and Historical Library
+Chilean Navy,Armed Forces of Chile,Q860704,2,2,2,Chilean combined military forces,Chilean Armed Forces|military of Chile|Chilean military,Q772547,,Chilean Armed Forces
+Chilean Navy,Armada de Chile durante la Guerra del Pacífico,Q48782319,2,2,2,,,Q111676757,,
+HMS Drake,HMS Drake,Q473482,3,0,1,1901 Drake-class armoured cruiser,,Q847478|Q852190,,HMS Drake (1901)
+HMS Drake,HMS Drake,Q18159815,3,0,1,1741 Drake-class sloop-of-war,,Q928235,,HMS Drake (1741)
+HMS Drake,HMNB Devonport,Q1207020,3,0,1,operating base in the United Kingdom for the Royal Navy,Her Majesty's Naval Base Devonport|HMS Drake|Devonport Royal Dockyard|His Majesty's Naval Base Devonport,Q7374547,,HMNB Devonport
+HMS Drake,HMS Drake,Q3514813,3,0,1,1775 sloop-of-war,,Q928235,,HMS Drake (1777)
+HMS Drake,HMS Drake,Q5632191,3,0,1,1779 brig-sloop,,Q19292144,,HMS Drake (1779)
+HMS Drake,HMS Drake,Q111962617,3,0,1,1694 Maidstone Group sixth-rate frigate,,Q892278,,HMS Drake (1694)
+HMS Drake,HMS Drake,Q130611192,3,0,1,1743 Baltimore-class sloop,,Q928235,,
+HMS Drake,HMS Drake,Q130604249,3,0,1,1808 Cherokee-class brig-sloop,,Q928235,,
+HMS Drake,HMS Drake,Q131379565,3,0,1,1705 sloop-of-war,,Q928235,,
+HMS Drake,HMS Drake,Q131400250,3,0,1,1804 ship-sloop,,Q928235,,
+HMS Drake,Drake-class armored cruiser,Q13415411,3,0,2,1902 class of British armored cruisers,,Q559026,Q847478,Drake-class cruiser
+Drake-class armored cruiser,Drake-class armored cruiser,Q13415411,3,1,1,1902 class of British armored cruisers,,Q559026,Q847478,Drake-class cruiser
+Drake-class armored cruiser,HMS Drake,Q473482,3,1,2,1901 Drake-class armoured cruiser,,Q847478|Q852190,,HMS Drake (1901)
+Drake-class armored cruiser,HMS Drake,Q18159815,3,1,2,1741 Drake-class sloop-of-war,,Q928235,,HMS Drake (1741)
+Drake-class armored cruiser,HMNB Devonport,Q1207020,3,1,2,operating base in the United Kingdom for the Royal Navy,Her Majesty's Naval Base Devonport|HMS Drake|Devonport Royal Dockyard|His Majesty's Naval Base Devonport,Q7374547,,HMNB Devonport
+Drake-class armored cruiser,HMS Drake,Q3514813,3,1,2,1775 sloop-of-war,,Q928235,,HMS Drake (1777)
+Drake-class armored cruiser,HMS Drake,Q5632191,3,1,2,1779 brig-sloop,,Q19292144,,HMS Drake (1779)
+Drake-class armored cruiser,HMS Drake,Q111962617,3,1,2,1694 Maidstone Group sixth-rate frigate,,Q892278,,HMS Drake (1694)
+Drake-class armored cruiser,HMS Drake,Q130611192,3,1,2,1743 Baltimore-class sloop,,Q928235,,
+Drake-class armored cruiser,HMS Drake,Q130604249,3,1,2,1808 Cherokee-class brig-sloop,,Q928235,,
+Drake-class armored cruiser,HMS Drake,Q131379565,3,1,2,1705 sloop-of-war,,Q928235,,
+Drake-class armored cruiser,HMS Drake,Q131400250,3,1,2,1804 ship-sloop,,Q928235,,
+Royal Navy,Royal Navy,Q172771,3,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,3,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,3,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,3,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,3,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,3,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,3,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,3,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,3,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,3,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Drake,Q473482,3,2,2,1901 Drake-class armoured cruiser,,Q847478|Q852190,,HMS Drake (1901)
+Royal Navy,HMS Drake,Q18159815,3,2,2,1741 Drake-class sloop-of-war,,Q928235,,HMS Drake (1741)
+Royal Navy,HMNB Devonport,Q1207020,3,2,2,operating base in the United Kingdom for the Royal Navy,Her Majesty's Naval Base Devonport|HMS Drake|Devonport Royal Dockyard|His Majesty's Naval Base Devonport,Q7374547,,HMNB Devonport
+Royal Navy,HMS Drake,Q3514813,3,2,2,1775 sloop-of-war,,Q928235,,HMS Drake (1777)
+Royal Navy,HMS Drake,Q5632191,3,2,2,1779 brig-sloop,,Q19292144,,HMS Drake (1779)
+Royal Navy,HMS Drake,Q111962617,3,2,2,1694 Maidstone Group sixth-rate frigate,,Q892278,,HMS Drake (1694)
+Royal Navy,HMS Drake,Q130611192,3,2,2,1743 Baltimore-class sloop,,Q928235,,
+Royal Navy,HMS Drake,Q130604249,3,2,2,1808 Cherokee-class brig-sloop,,Q928235,,
+Royal Navy,HMS Drake,Q131379565,3,2,2,1705 sloop-of-war,,Q928235,,
+Royal Navy,HMS Drake,Q131400250,3,2,2,1804 ship-sloop,,Q928235,,
+Royal Navy,Drake-class armored cruiser,Q13415411,3,2,2,1902 class of British armored cruisers,,Q559026,Q847478,Drake-class cruiser
+Dupleix,Dupleix,Q1266508,4,0,1,Paris Métro station,,Q928830|Q11670533,,Dupleix station
+Dupleix,Dupleix,Q932555,4,0,1,1900 Dupleix-class cruiser,French cruiser Dupleix,Q847478,,French cruiser Dupleix (1900)
+Dupleix,Dupleix,Q98217450,4,0,1,family name,,Q101352,,
+Dupleix,French frigate Dupleix,Q3019985,4,0,1,1978 Georges Leygues-class frigate,Dupleix,Q161705,,French frigate Dupleix
+Dupleix,Dupleix,Q18760856,4,0,1,,,Q104843,,
+Dupleix,French corvette Dupleix,Q1266493,4,0,1,ship,,Q112149492,,French corvette Dupleix
+Dupleix,French cruiser Dupleix,Q2213392,4,0,1,1930 Suffren-class cruiser,,Q898771,,French cruiser Dupleix (1930)
+Dupleix,Dupleix-class cruiser,Q2063298,4,0,1,1900 class of French armored cruisers,,Q559026,Q847478,Dupleix-class cruiser
+Dupleix,Dupleix,Q3041431,4,0,1,,Jubilee,Q697196|Q20105726|Q178193|Q30752902,,
+Dupleix,Dupleix,Q140628497,4,0,1,,,Q953806,,
+Dupleix-class cruiser,Dupleix-class cruiser,Q2063298,4,1,1,1900 class of French armored cruisers,,Q559026,Q847478,Dupleix-class cruiser
+French Navy,French Navy,Q217406,4,2,1,maritime arm of the French Armed Forces,La Royale|National Navy|na France|navy of France|Marine nationale|France navy,Q4508,,French Navy
+French Navy,Officer of the French Navy,Q3349700,4,2,1,officer personnel in the naval arm of the French military,French Navy officer|French naval officer,Q28640,Q10669499,
+French Navy,French Marine,Q3078933,4,2,1,French military corps,Troupes de marine|French Navy Troops,Q62933934,Q1898583|Q781132,Troupes de marine
+French Navy,history of the French Navy,Q1338707,4,2,1,aspect of history,the French Navy history|French Navy history,Q17524420,,History of the French Navy
+French Navy,"French Navy sailor hat, model 1836",Q112272562,4,2,1,object in Musée national de la Marine,,Q650132,,
+French Navy,"French Navy sailor hat, model 1901",Q112272563,4,2,1,object in Musée national de la Marine,,Q650132,,
+French Navy,Dixmude disaster,Q15907860,4,2,1,1923 airship crash off the coast of Sicily,Zeppelin LZ 114 accident on 21 December 1923|French Navy aviation accident on 21 December 1923,Q744913,,
+French Navy,French Navy fleet,Q105999094,4,2,1,watercraft in service with the French Navy,fleet of the French Navy|watercraft in French Navy service|naval vessels in French Navy service,Q105982452,,
+French Navy,French Navy bases,Q3247198,4,2,1,Wikimedia list article,,Q13406463,,
+French Navy,"French Navy sabre (model 1811), nickname ""pot spoon""",Q112272542,4,2,1,object in Musée national de la Marine,,Q120643262,,
+French Navy,French Navy Ship La Capricieuse’s East Sea Exploration and Map Making,Q129030366,4,2,2,scholarly article,,Q13442814,,
+HMS Euryalus,HMS Euryalus,Q3125026,5,0,1,1803 Apollo-class fifth-rate frigate,,Q892554,,HMS Euryalus (1803)
+HMS Euryalus,HMS Euryalus,Q209434,5,0,1,1939 Dido-class light cruiser,,Q778129,,HMS Euryalus (42)
+HMS Euryalus,HMS Euryalus,Q1564684,5,0,1,1901 Cressy-class armoured cruiser,,Q847478,,HMS Euryalus (1901)
+HMS Euryalus,HMS Euryalus,Q5632347,5,0,1,1963 Leander-class frigate,,Q161705,,HMS Euryalus (F15)
+HMS Euryalus,HMS Euryalus,Q5632345,5,0,1,1853 Forte-class screw frigate,,Q2506352,,HMS Euryalus (1853)
+HMS Euryalus,HMS Euryalus,Q130614255,5,0,1,1877 Bacchante-class corvette,,Q170013,,
+HMS Euryalus,HMS Euryalus,Q1564682,5,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Euryalus
+HMS Euryalus,Cressy-class armored cruiser,Q138894,5,0,2,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser
+Cressy-class armored cruiser,Cressy-class armored cruiser,Q138894,5,1,1,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser
+Cressy-class armored cruiser,HMS Euryalus,Q3125026,5,1,2,1803 Apollo-class fifth-rate frigate,,Q892554,,HMS Euryalus (1803)
+Cressy-class armored cruiser,HMS Euryalus,Q209434,5,1,2,1939 Dido-class light cruiser,,Q778129,,HMS Euryalus (42)
+Cressy-class armored cruiser,HMS Euryalus,Q1564684,5,1,2,1901 Cressy-class armoured cruiser,,Q847478,,HMS Euryalus (1901)
+Cressy-class armored cruiser,HMS Euryalus,Q5632347,5,1,2,1963 Leander-class frigate,,Q161705,,HMS Euryalus (F15)
+Cressy-class armored cruiser,HMS Euryalus,Q5632345,5,1,2,1853 Forte-class screw frigate,,Q2506352,,HMS Euryalus (1853)
+Cressy-class armored cruiser,HMS Euryalus,Q130614255,5,1,2,1877 Bacchante-class corvette,,Q170013,,
+Cressy-class armored cruiser,HMS Euryalus,Q1564682,5,1,2,Wikimedia disambiguation page,,Q4167410,,HMS Euryalus
+Royal Navy,Royal Navy,Q172771,5,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,5,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,5,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,5,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,5,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,5,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,5,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,5,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,5,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,5,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Euryalus,Q3125026,5,2,2,1803 Apollo-class fifth-rate frigate,,Q892554,,HMS Euryalus (1803)
+Royal Navy,HMS Euryalus,Q209434,5,2,2,1939 Dido-class light cruiser,,Q778129,,HMS Euryalus (42)
+Royal Navy,HMS Euryalus,Q1564684,5,2,2,1901 Cressy-class armoured cruiser,,Q847478,,HMS Euryalus (1901)
+Royal Navy,HMS Euryalus,Q5632347,5,2,2,1963 Leander-class frigate,,Q161705,,HMS Euryalus (F15)
+Royal Navy,HMS Euryalus,Q5632345,5,2,2,1853 Forte-class screw frigate,,Q2506352,,HMS Euryalus (1853)
+Royal Navy,HMS Euryalus,Q130614255,5,2,2,1877 Bacchante-class corvette,,Q170013,,
+Royal Navy,HMS Euryalus,Q1564682,5,2,2,Wikimedia disambiguation page,,Q4167410,,HMS Euryalus
+Royal Navy,Cressy-class armored cruiser,Q138894,5,2,2,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser
+HMS Shannon,HMS Shannon,Q3006680,6,0,1,1806 Leda-class fifth-rate frigate,HMS St Lawrence,Q892554,,HMS Shannon (1806)
+HMS Shannon,HMS Shannon,Q732620,6,0,1,1875 armored cruiser,,Q847478,,HMS Shannon (1875)
+HMS Shannon,HMS Shannon,Q5634305,6,0,1,1855 Liffey-class frigate,,Q892562,,HMS Shannon (1855)
+HMS Shannon,HMS Shannon,Q5634302,6,0,1,1757 Coventry-class sixth-rate frigate,,Q892278,,HMS Shannon (1757)
+HMS Shannon,HMS Shannon,Q5634308,6,0,1,1906 Minotaur-class armored cruiser,,Q847478,,HMS Shannon (1906)
+HMS Shannon,HMS Shannon,Q5634303,6,0,1,1803 Perseverance-class fifth-rate frigate,,Q892554,,HMS Shannon (1803)
+HMS Shannon,USS Growler,Q7869886,6,0,1,1812 sloop-of-war,HMS Shannon|HMS Chub,Q928235,,USS Growler (1812 sloop)
+HMS Shannon,HMS Shannon,Q50856713,6,0,1,"painting by Simone, Antonio de",,Q3305213,,
+HMS Shannon,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50856044,6,0,1,painting by Robert Dodd,,Q3305213,,
+HMS Shannon,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50889923,6,0,1,painting by Thomas Buttersworth,,Q3305213,,
+HMS Shannon,Minotaur-class armored cruiser,Q2983759,6,0,2,1908 class of British armored cruisers,,Q559026,Q847478,Minotaur-class cruiser (1906)
+Minotaur-class armored cruiser,Minotaur-class armored cruiser,Q2983759,6,1,1,1908 class of British armored cruisers,,Q559026,Q847478,Minotaur-class cruiser (1906)
+Minotaur-class armored cruiser,HMS Shannon,Q3006680,6,1,2,1806 Leda-class fifth-rate frigate,HMS St Lawrence,Q892554,,HMS Shannon (1806)
+Minotaur-class armored cruiser,HMS Shannon,Q732620,6,1,2,1875 armored cruiser,,Q847478,,HMS Shannon (1875)
+Minotaur-class armored cruiser,HMS Shannon,Q5634305,6,1,2,1855 Liffey-class frigate,,Q892562,,HMS Shannon (1855)
+Minotaur-class armored cruiser,HMS Shannon,Q5634302,6,1,2,1757 Coventry-class sixth-rate frigate,,Q892278,,HMS Shannon (1757)
+Minotaur-class armored cruiser,HMS Shannon,Q5634308,6,1,2,1906 Minotaur-class armored cruiser,,Q847478,,HMS Shannon (1906)
+Minotaur-class armored cruiser,HMS Shannon,Q5634303,6,1,2,1803 Perseverance-class fifth-rate frigate,,Q892554,,HMS Shannon (1803)
+Minotaur-class armored cruiser,USS Growler,Q7869886,6,1,2,1812 sloop-of-war,HMS Shannon|HMS Chub,Q928235,,USS Growler (1812 sloop)
+Minotaur-class armored cruiser,HMS Shannon,Q50856713,6,1,2,"painting by Simone, Antonio de",,Q3305213,,
+Minotaur-class armored cruiser,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50856044,6,1,2,painting by Robert Dodd,,Q3305213,,
+Minotaur-class armored cruiser,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50889923,6,1,2,painting by Thomas Buttersworth,,Q3305213,,
+Minotaur-class armored cruiser,Royal Navy,Q172771,6,1,2,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Minotaur-class armored cruiser,Hellenic Navy,Q1129369,6,1,2,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Minotaur-class armored cruiser,lieutenant's examination,Q108168870,6,1,2,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Minotaur-class armored cruiser,Royal Italian Navy,Q855186,6,1,2,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Minotaur-class armored cruiser,Grumman F4F Wildcat,Q334612,6,1,2,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Minotaur-class armored cruiser,Greenwich Hospital,Q15137935,6,1,2,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Minotaur-class armored cruiser,Royal Navy Dockyard,Q7374547,6,1,2,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Minotaur-class armored cruiser,Sketch of diving apparatus by Simon Goodrich,Q118435452,6,1,2,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Minotaur-class armored cruiser,Real Marina,Q1101613,6,1,2,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Minotaur-class armored cruiser,Royal Navy fleet aircraft carrier fleet,Q63751162,6,1,2,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,Royal Navy,Q172771,6,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,6,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,6,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,6,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,6,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,6,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,6,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,6,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,6,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,6,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Shannon,Q3006680,6,2,2,1806 Leda-class fifth-rate frigate,HMS St Lawrence,Q892554,,HMS Shannon (1806)
+Royal Navy,HMS Shannon,Q732620,6,2,2,1875 armored cruiser,,Q847478,,HMS Shannon (1875)
+Royal Navy,HMS Shannon,Q5634305,6,2,2,1855 Liffey-class frigate,,Q892562,,HMS Shannon (1855)
+Royal Navy,HMS Shannon,Q5634302,6,2,2,1757 Coventry-class sixth-rate frigate,,Q892278,,HMS Shannon (1757)
+Royal Navy,HMS Shannon,Q5634308,6,2,2,1906 Minotaur-class armored cruiser,,Q847478,,HMS Shannon (1906)
+Royal Navy,HMS Shannon,Q5634303,6,2,2,1803 Perseverance-class fifth-rate frigate,,Q892554,,HMS Shannon (1803)
+Royal Navy,USS Growler,Q7869886,6,2,2,1812 sloop-of-war,HMS Shannon|HMS Chub,Q928235,,USS Growler (1812 sloop)
+Royal Navy,HMS Shannon,Q50856713,6,2,2,"painting by Simone, Antonio de",,Q3305213,,
+Royal Navy,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50856044,6,2,2,painting by Robert Dodd,,Q3305213,,
+Royal Navy,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50889923,6,2,2,painting by Thomas Buttersworth,,Q3305213,,
+Royal Navy,Minotaur-class armored cruiser,Q2983759,6,2,2,1908 class of British armored cruisers,,Q559026,Q847478,Minotaur-class cruiser (1906)
+HMS Shannon,HMS Shannon,Q3006680,7,0,1,1806 Leda-class fifth-rate frigate,HMS St Lawrence,Q892554,,HMS Shannon (1806)
+HMS Shannon,HMS Shannon,Q732620,7,0,1,1875 armored cruiser,,Q847478,,HMS Shannon (1875)
+HMS Shannon,HMS Shannon,Q5634305,7,0,1,1855 Liffey-class frigate,,Q892562,,HMS Shannon (1855)
+HMS Shannon,HMS Shannon,Q5634302,7,0,1,1757 Coventry-class sixth-rate frigate,,Q892278,,HMS Shannon (1757)
+HMS Shannon,HMS Shannon,Q5634308,7,0,1,1906 Minotaur-class armored cruiser,,Q847478,,HMS Shannon (1906)
+HMS Shannon,HMS Shannon,Q5634303,7,0,1,1803 Perseverance-class fifth-rate frigate,,Q892554,,HMS Shannon (1803)
+HMS Shannon,USS Growler,Q7869886,7,0,1,1812 sloop-of-war,HMS Shannon|HMS Chub,Q928235,,USS Growler (1812 sloop)
+HMS Shannon,HMS Shannon,Q50856713,7,0,1,"painting by Simone, Antonio de",,Q3305213,,
+HMS Shannon,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50856044,7,0,1,painting by Robert Dodd,,Q3305213,,
+HMS Shannon,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50889923,7,0,1,painting by Thomas Buttersworth,,Q3305213,,
+HMS Shannon,Royal Navy ships diver,Q7374563,7,0,2,category of underwater diver in the RN,,,,Royal Navy ships diver
+HMS Shannon,Royal Navy Ships Entering a Fortified Harbour,Q119026570,7,0,2,"painting by Thomas Luny (1759–1837) (imitator of), York Castle Museum",,Q3305213,,
+HMS Shannon,Royal Navy Ships from the Starboard Bow,Q119724963,7,0,2,"painting by P. Herbert (active 1960s), IWM (Imperial War Museums)",,Q3305213,,
+Royal Navy,Royal Navy,Q172771,7,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,7,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,7,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,7,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,7,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,7,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,7,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,7,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,7,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,7,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Shannon,Q3006680,7,2,2,1806 Leda-class fifth-rate frigate,HMS St Lawrence,Q892554,,HMS Shannon (1806)
+Royal Navy,HMS Shannon,Q732620,7,2,2,1875 armored cruiser,,Q847478,,HMS Shannon (1875)
+Royal Navy,HMS Shannon,Q5634305,7,2,2,1855 Liffey-class frigate,,Q892562,,HMS Shannon (1855)
+Royal Navy,HMS Shannon,Q5634302,7,2,2,1757 Coventry-class sixth-rate frigate,,Q892278,,HMS Shannon (1757)
+Royal Navy,HMS Shannon,Q5634308,7,2,2,1906 Minotaur-class armored cruiser,,Q847478,,HMS Shannon (1906)
+Royal Navy,HMS Shannon,Q5634303,7,2,2,1803 Perseverance-class fifth-rate frigate,,Q892554,,HMS Shannon (1803)
+Royal Navy,USS Growler,Q7869886,7,2,2,1812 sloop-of-war,HMS Shannon|HMS Chub,Q928235,,USS Growler (1812 sloop)
+Royal Navy,HMS Shannon,Q50856713,7,2,2,"painting by Simone, Antonio de",,Q3305213,,
+Royal Navy,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50856044,7,2,2,painting by Robert Dodd,,Q3305213,,
+Royal Navy,"HMS Shannon taking USS Chesapeake, 1 June 1813",Q50889923,7,2,2,painting by Thomas Buttersworth,,Q3305213,,
+Royal Navy,British Royal Navy Cruiser at the Port of Haifa,Q113667914,7,2,2,newsreel,,Q24862,,
+Royal Navy,His Majesty's Naval Service,Q3873395,7,2,2,"combined naval, marine, auxiliary and reserve branches of the United Kingdom's naval services",Senior Service|Naval Service|Her Majesty's Naval Service,Q781132,,His Majesty's Naval Service
+Royal Navy,British Royal Navy Exercises in Hong Kong Harbour,Q104783683,7,2,2,Chinese propaganda poster,,Q429785,,
+HMS Northampton,HMS Northampton,Q4993776,8,0,1,1876 Nelson-class armoured cruiser,,Q847478,,HMS Northampton (1876)
+HMS Northampton,HMS Northampton,Q5633537,8,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Northampton
+HMS Northampton,Nelson-class armored cruiser,Q2504762,8,0,2,1878 class of British armored cruisers,Nelson-class belted cruiser,Q559026,Q847478,Nelson-class cruiser
+Nelson-class armored cruiser,Nelson-class armored cruiser,Q2504762,8,1,1,1878 class of British armored cruisers,Nelson-class belted cruiser,Q559026,Q847478,Nelson-class cruiser
+Nelson-class armored cruiser,HMS Northampton,Q4993776,8,1,2,1876 Nelson-class armoured cruiser,,Q847478,,HMS Northampton (1876)
+Nelson-class armored cruiser,HMS Northampton,Q5633537,8,1,2,Wikimedia disambiguation page,,Q4167410,,HMS Northampton
+Royal Navy,Royal Navy,Q172771,8,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,8,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,8,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,8,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,8,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,8,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,8,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,8,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,8,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,8,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Northampton,Q4993776,8,2,2,1876 Nelson-class armoured cruiser,,Q847478,,HMS Northampton (1876)
+Royal Navy,HMS Northampton,Q5633537,8,2,2,Wikimedia disambiguation page,,Q4167410,,HMS Northampton
+Royal Navy,Nelson-class armored cruiser,Q2504762,8,2,2,1878 class of British armored cruisers,Nelson-class belted cruiser,Q559026,Q847478,Nelson-class cruiser
+HMS Suffolk,HMS Suffolk,Q518329,9,0,1,1926 Kent-class heavy cruiser,,Q898771,,HMS Suffolk (55)
+HMS Suffolk,HMS Suffolk,Q627855,9,0,1,1903 Monmouth-class armored cruiser,,Q847478,,HMS Suffolk (1903)
+HMS Suffolk,HMS Suffolk,Q4040248,9,0,1,1765 third-rate ship of the line,,Q892492,,HMS Suffolk (1765)
+HMS Suffolk,HMS Suffolk,Q5634499,9,0,1,1680 third-rate ship of the line,,Q892492,,HMS Suffolk (1680)
+HMS Suffolk,HMS Suffolk,Q1032103,9,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Suffolk
+HMS Suffolk,Monmouth-class armored cruiser,Q2587107,9,0,2,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+Monmouth-class armored cruiser,Monmouth-class armored cruiser,Q2587107,9,1,1,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+Monmouth-class armored cruiser,HMS Suffolk,Q518329,9,1,2,1926 Kent-class heavy cruiser,,Q898771,,HMS Suffolk (55)
+Monmouth-class armored cruiser,HMS Suffolk,Q627855,9,1,2,1903 Monmouth-class armored cruiser,,Q847478,,HMS Suffolk (1903)
+Monmouth-class armored cruiser,HMS Suffolk,Q4040248,9,1,2,1765 third-rate ship of the line,,Q892492,,HMS Suffolk (1765)
+Monmouth-class armored cruiser,HMS Suffolk,Q5634499,9,1,2,1680 third-rate ship of the line,,Q892492,,HMS Suffolk (1680)
+Monmouth-class armored cruiser,HMS Suffolk,Q1032103,9,1,2,Wikimedia disambiguation page,,Q4167410,,HMS Suffolk
+Monmouth-class armored cruiser,Royal Navy,Q172771,9,1,2,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Monmouth-class armored cruiser,Hellenic Navy,Q1129369,9,1,2,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Monmouth-class armored cruiser,lieutenant's examination,Q108168870,9,1,2,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Monmouth-class armored cruiser,Royal Italian Navy,Q855186,9,1,2,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Monmouth-class armored cruiser,Grumman F4F Wildcat,Q334612,9,1,2,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Monmouth-class armored cruiser,Greenwich Hospital,Q15137935,9,1,2,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Monmouth-class armored cruiser,Royal Navy Dockyard,Q7374547,9,1,2,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Monmouth-class armored cruiser,Sketch of diving apparatus by Simon Goodrich,Q118435452,9,1,2,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Monmouth-class armored cruiser,Real Marina,Q1101613,9,1,2,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Monmouth-class armored cruiser,Royal Navy fleet aircraft carrier fleet,Q63751162,9,1,2,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,Royal Navy,Q172771,9,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,9,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,9,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,9,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,9,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,9,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,9,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,9,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,9,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,9,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Suffolk,Q518329,9,2,2,1926 Kent-class heavy cruiser,,Q898771,,HMS Suffolk (55)
+Royal Navy,HMS Suffolk,Q627855,9,2,2,1903 Monmouth-class armored cruiser,,Q847478,,HMS Suffolk (1903)
+Royal Navy,HMS Suffolk,Q4040248,9,2,2,1765 third-rate ship of the line,,Q892492,,HMS Suffolk (1765)
+Royal Navy,HMS Suffolk,Q5634499,9,2,2,1680 third-rate ship of the line,,Q892492,,HMS Suffolk (1680)
+Royal Navy,HMS Suffolk,Q1032103,9,2,2,Wikimedia disambiguation page,,Q4167410,,HMS Suffolk
+Royal Navy,Monmouth-class armored cruiser,Q2587107,9,2,2,1903 class of British armored cruisers,,Q559026,Q847478,Monmouth-class cruiser
+USS South Dakota,USS South Dakota,Q186528,10,0,1,1941 South Dakota-class battleship,BB-57,Q182531,,USS South Dakota (BB-57)
+USS South Dakota,USS South Dakota,Q7874261,10,0,1,Virginia-class submarine,SSN-790,Q757587|Q16214696,,USS South Dakota (SSN-790)
+USS South Dakota,USS South Dakota,Q5229890,10,0,1,Pennsylvania-class armored cruiser,ACR-9,Q847478,,USS South Dakota (ACR-9)
+USS South Dakota,USS South Dakota,Q9364207,10,0,1,cancelled South Dakota-class battleship,BB-49,Q847109|Q23134646|Q30620203,,
+USS South Dakota,USS South Dakota,Q968625,10,0,1,Wikimedia disambiguation page,,Q4167410,,USS South Dakota
+USS South Dakota,Pennsylvania-class cruiser,Q2257543,10,0,2,1903 class of American armored cruisers,,Q559026,Q847478,Pennsylvania-class cruiser
+USS South Dakota,United States Navy,Q11220,10,0,2,maritime branch of the United States military,USN|US Navy|U.S. Navy,Q4508,,United States Navy
+USS South Dakota,United States Naval Academy,Q559549,10,0,2,"U.S. Navy federal service academy in the Annapolis, Maryland area",Annapolis|USNA|U.S. Naval Academy|United States Navy Academy|US Naval Academy|Naval Academy|Annapolis Naval Academy|U.S. Naval Academy at Annapolis,Q1898357|Q23002039|Q62832|Q498162,,United States Naval Academy
+USS South Dakota,United States Navy Reserve,Q3550750,10,0,2,Reserve Component (RC) of the United States Navy,USNR|USNRF|US Naval Reserve Force|U.S. Navy Reserve|U.S. Navy Reserves|US Navy Reserve|United States Naval Reserve,Q1144991,,United States Navy Reserve
+USS South Dakota,Brooklyn Navy Yard,Q524435,10,0,2,"shipyard located in Brooklyn, New York","United States Navy Yard, New York|New York Naval Shipyard|NYNSY|New York Navy Yard|Brooklyn Navy Yard Development Corporation",Q190928|Q18691599,,Brooklyn Navy Yard
+USS South Dakota,Bureau of Aeronautics,Q3647257,10,0,2,1921-1959 United States Navy organization responsible for naval aviation,BuAer|United States Navy Bureau of Aeronautics,Q7890833,,Bureau of Aeronautics
+USS South Dakota,United States Navy Recruiting Command,Q7890822,10,0,2,military unit,Navy Recruiting Command,Q80011137,,United States Navy Recruiting Command
+USS South Dakota,United States Department of the Navy,Q742787,10,0,2,military department within the Department of Defense of the United States of America,DON|United States Navy Department|Department of the Navy|Navy Department,Q1660443|Q20857065,,United States Department of the Navy
+USS South Dakota,United States Navy SEALs,Q178033,10,0,2,US Navy special operations force,"Navy SEALs|U.S. Navy SEALs|US Navy SEALs|SEALs|United States Navy Sea, Air, and Land Teams|Navy’s Sea, Air and Land Forces|Frogmen|Greenfaces",Q234497|Q176799,,United States Navy SEALs
+USS South Dakota,United States Navy Fleet,Q105499501,10,0,2,fleets of United States Navy,Fleet (United States Navy),Q62933756,Q67174278,
+USS South Dakota,hospital corpsman,Q1034117,10,0,2,"enlisted medical specialist of the United States Navy, who may also serve in a U.S. Marine Corps unit",hospital corpsmen|HC|corpsman|corpsmen|United States Navy corpsman|United States Marine Corps corpsman|HM,Q6857706,,Hospital corpsman
+Pennsylvania-class cruiser,Pennsylvania-class cruiser,Q2257543,10,1,1,1903 class of American armored cruisers,,Q559026,Q847478,Pennsylvania-class cruiser
+Pennsylvania-class cruiser,USS South Dakota,Q186528,10,1,2,1941 South Dakota-class battleship,BB-57,Q182531,,USS South Dakota (BB-57)
+Pennsylvania-class cruiser,USS South Dakota,Q7874261,10,1,2,Virginia-class submarine,SSN-790,Q757587|Q16214696,,USS South Dakota (SSN-790)
+Pennsylvania-class cruiser,USS South Dakota,Q5229890,10,1,2,Pennsylvania-class armored cruiser,ACR-9,Q847478,,USS South Dakota (ACR-9)
+Pennsylvania-class cruiser,USS South Dakota,Q9364207,10,1,2,cancelled South Dakota-class battleship,BB-49,Q847109|Q23134646|Q30620203,,
+Pennsylvania-class cruiser,USS South Dakota,Q968625,10,1,2,Wikimedia disambiguation page,,Q4167410,,USS South Dakota
+Pennsylvania-class cruiser,USS Pennsylvania,Q765514,10,1,2,1915 Pennsylvania-class battleship,BB-38,Q847109,,USS Pennsylvania (BB-38)
+Pennsylvania-class cruiser,USS Pennsylvania,Q6127462,10,1,2,1903 Pennsylvania-class cruiser,,Q847478,,USS Pennsylvania (ACR-4)
+Pennsylvania-class cruiser,USS Pennsylvania,Q1935618,10,1,2,1988 Ohio-class submarine,,Q683570,,USS Pennsylvania (SSBN-735)
+Pennsylvania-class cruiser,USS Pennsylvania,Q1414955,10,1,2,ship of the line,,Q207452,,USS Pennsylvania (1837)
+Pennsylvania-class cruiser,USS Pennsylvania,Q110597588,10,1,2,episode of Fear the Walking Dead,,Q21191270,,
+Pennsylvania-class cruiser,USS Pennsylvania R. R. No. 9,Q7872783,10,1,2,minesweeper of the United States Navy,,Q11446,,USS Pennsylvania R. R. No. 9
+Pennsylvania-class cruiser,USS Pennsylvania (BB 38) at Buckner Bay After Being Torpedoed (NAID 140105283),Q66320912,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,SS Pennsylvanian,Q7394196,10,1,2,1913 cargo ship,USS Pennsylvanian|USS Scranton,Q105999,,SS Pennsylvanian
+Pennsylvania-class cruiser,USS Pennsylvania,Q2016862,10,1,2,Wikimedia disambiguation page,,Q4167410,,USS Pennsylvania
+Pennsylvania-class cruiser,USS New Jersey,Q507603,10,1,2,1942 Iowa-class battleship,BB-62,Q473094|Q575727|Q130326199,,USS New Jersey (BB-62)
+Pennsylvania-class cruiser,USS New Jersey,Q2703928,10,1,2,1904 Virginia-class battleship,BB-16,Q1051067|Q1410980,,USS New Jersey (BB-16)
+Pennsylvania-class cruiser,USS New Jersey,Q20642602,10,1,2,2022 Virginia-class submarine,SSN-796,Q757587,,USS New Jersey (SSN-796)
+Pennsylvania-class cruiser,USS New Jersey (BB-62) at Sea Firing Guns (NAID 140105046),Q66321108,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,USS New Jersey BB-62 Pollywog Beauty Contest (NAID 140105233),Q66321007,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,"USS New Jersey Supports ARVN 2nd Infantry South of the DMZ, South Vietnam (NAID 102048090)",Q67474427,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,"USS New Jersey Marine Spotter Plane Downed During Operations Over DMZ, Vietnam (NAID 102048088)",Q67474421,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,USS New Jersey Marine Spotter Plane Downed During Operations Over Vietnam Demilitarized Zone (NAID 102048089),Q66333688,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,"USS New Jersey Crew Entertains Dependents, Various Locations (NAID 102048087)",Q67474410,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,"USS New Jersey at Sea, Various Locations (NAID 102048086)",Q67474403,10,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Pennsylvania-class cruiser,USS Missouri,Q272560,10,1,2,1944 Iowa-class battleship,BB-63|Missouri|Mighty Mo|Big Mo,Q473094|Q575727|Q130326199,,USS Missouri (BB-63)
+Pennsylvania-class cruiser,USS Missouri,Q1094412,10,1,2,1901 Maine-class battleship,BB-11,Q1051067,,USS Missouri (BB-11)
+Pennsylvania-class cruiser,USS Missouri,Q942737,10,1,2,Virginia-class submarine,SSN-780,Q757587,,USS Missouri (SSN-780)
+Pennsylvania-class cruiser,USS Missouri,Q7871862,10,1,2,10‑gun side‑wheel frigate of the US Navy,,Q12859788,,USS Missouri (1841)
+Pennsylvania-class cruiser,USS Missouri,Q2470317,10,1,2,Wikimedia disambiguation page,,Q4167410,,USS Missouri
+United States Navy,United States Navy,Q11220,10,2,1,maritime branch of the United States military,USN|US Navy|U.S. Navy,Q4508,,United States Navy
+United States Navy,United States Naval Academy,Q559549,10,2,1,"U.S. Navy federal service academy in the Annapolis, Maryland area",Annapolis|USNA|U.S. Naval Academy|United States Navy Academy|US Naval Academy|Naval Academy|Annapolis Naval Academy|U.S. Naval Academy at Annapolis,Q1898357|Q23002039|Q62832|Q498162,,United States Naval Academy
+United States Navy,United States Navy Reserve,Q3550750,10,2,1,Reserve Component (RC) of the United States Navy,USNR|USNRF|US Naval Reserve Force|U.S. Navy Reserve|U.S. Navy Reserves|US Navy Reserve|United States Naval Reserve,Q1144991,,United States Navy Reserve
+United States Navy,Brooklyn Navy Yard,Q524435,10,2,1,"shipyard located in Brooklyn, New York","United States Navy Yard, New York|New York Naval Shipyard|NYNSY|New York Navy Yard|Brooklyn Navy Yard Development Corporation",Q190928|Q18691599,,Brooklyn Navy Yard
+United States Navy,Bureau of Aeronautics,Q3647257,10,2,1,1921-1959 United States Navy organization responsible for naval aviation,BuAer|United States Navy Bureau of Aeronautics,Q7890833,,Bureau of Aeronautics
+United States Navy,United States Navy Recruiting Command,Q7890822,10,2,1,military unit,Navy Recruiting Command,Q80011137,,United States Navy Recruiting Command
+United States Navy,United States Department of the Navy,Q742787,10,2,1,military department within the Department of Defense of the United States of America,DON|United States Navy Department|Department of the Navy|Navy Department,Q1660443|Q20857065,,United States Department of the Navy
+United States Navy,United States Navy SEALs,Q178033,10,2,1,US Navy special operations force,"Navy SEALs|U.S. Navy SEALs|US Navy SEALs|SEALs|United States Navy Sea, Air, and Land Teams|Navy’s Sea, Air and Land Forces|Frogmen|Greenfaces",Q234497|Q176799,,United States Navy SEALs
+United States Navy,United States Navy Fleet,Q105499501,10,2,1,fleets of United States Navy,Fleet (United States Navy),Q62933756,Q67174278,
+United States Navy,hospital corpsman,Q1034117,10,2,1,"enlisted medical specialist of the United States Navy, who may also serve in a U.S. Marine Corps unit",hospital corpsmen|HC|corpsman|corpsmen|United States Navy corpsman|United States Marine Corps corpsman|HM,Q6857706,,Hospital corpsman
+United States Navy,USS South Dakota,Q186528,10,2,2,1941 South Dakota-class battleship,BB-57,Q182531,,USS South Dakota (BB-57)
+United States Navy,USS South Dakota,Q7874261,10,2,2,Virginia-class submarine,SSN-790,Q757587|Q16214696,,USS South Dakota (SSN-790)
+United States Navy,USS South Dakota,Q5229890,10,2,2,Pennsylvania-class armored cruiser,ACR-9,Q847478,,USS South Dakota (ACR-9)
+United States Navy,USS South Dakota,Q9364207,10,2,2,cancelled South Dakota-class battleship,BB-49,Q847109|Q23134646|Q30620203,,
+United States Navy,USS South Dakota,Q968625,10,2,2,Wikimedia disambiguation page,,Q4167410,,USS South Dakota
+United States Navy,Pennsylvania-class cruiser,Q2257543,10,2,2,1903 class of American armored cruisers,,Q559026,Q847478,Pennsylvania-class cruiser
+HMS Hogue,HMS Hogue,Q2704491,11,0,1,1900 Cressy-class armored cruiser,,Q847478|Q12859788|Q852190,,HMS Hogue (1900)
+HMS Hogue,HMS Hogue,Q5632803,11,0,1,1944 Battle-class destroyer,,Q174736,,HMS Hogue (D74)
+HMS Hogue,HMS La Hogue,Q5632798,11,0,1,1811 Vengeur-class third-rate ship of the line,HMS Hogue,Q892492,,HMS La Hogue
+HMS Hogue,HMS Hogue,Q3125048,11,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Hogue
+HMS Hogue,Cressy-class armored cruiser,Q138894,11,0,2,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser
+Cressy-class armored cruiser,Cressy-class armored cruiser,Q138894,11,1,1,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser
+Cressy-class armored cruiser,HMS Hogue,Q2704491,11,1,2,1900 Cressy-class armored cruiser,,Q847478|Q12859788|Q852190,,HMS Hogue (1900)
+Cressy-class armored cruiser,HMS Hogue,Q5632803,11,1,2,1944 Battle-class destroyer,,Q174736,,HMS Hogue (D74)
+Cressy-class armored cruiser,HMS La Hogue,Q5632798,11,1,2,1811 Vengeur-class third-rate ship of the line,HMS Hogue,Q892492,,HMS La Hogue
+Cressy-class armored cruiser,HMS Hogue,Q3125048,11,1,2,Wikimedia disambiguation page,,Q4167410,,HMS Hogue
+Royal Navy,Royal Navy,Q172771,11,2,1,maritime service branch of the British Armed Forces,RN|Senior Service|Navy Royal|British Royal Navy|RoyalNavy,Q4508,,Royal Navy
+Royal Navy,Hellenic Navy,Q1129369,11,2,1,maritime warfare branch of Greece's military,Greek Navy|HN|na Greece|navy of Greece|Royal Navy of Greece|BN|Greece navy,Q4508,,Hellenic Navy
+Royal Navy,lieutenant's examination,Q108168870,11,2,1,officer's exam in the Royal Navy,lieutenant's exam|lieutenant examination|Royal Navy examination,,Q27318,
+Royal Navy,Royal Italian Navy,Q855186,11,2,1,1861-1946 maritime warfare branch of Italy's military; predecessor of the current Italian Navy,Italian Royal Navy|RM|navy of the Kingdom of Italy|Italian Navy|Regia Marina Italiana|Regia Marina|Royal Italian Navy,Q4508,,Regia Marina
+Royal Navy,Grumman F4F Wildcat,Q334612,11,2,1,1937 fighter aircraft family by the Grumman Corporation,"Martlet|Royal Navy Martlet|Wildcat aircraft|Grumman Wildcat|General Motors FM Wildcat|FM Wildcat|Grumman G-36 Wildcat|Grumman G-36|G-36 Wildcat|G-36|Grumman G-52 Wildcat|Grumman G-52|G-52 Wildcat|G-52|Grumman G-53 Wildcat|Grumman G-53|G-53 Wildcat|G-53|G-52 F4F-7|G-53 F4F-4|Wildcat|Grumman Fighter Design 4|F4F Wildcat|Grumman F4F Wildcat|""Wildcat""",Q15056993,Q18520599|Q135214932,Grumman F4F Wildcat
+Royal Navy,Greenwich Hospital,Q15137935,11,2,1,historic building in London,"Royal Navy Hospital, Greenwich|Royal Naval College, Greenwich",Q35112127|Q64578911|Q180370,,"Greenwich Hospital, London"
+Royal Navy,Royal Navy Dockyard,Q7374547,11,2,1,series of government dockyards operated by the Royal Navy,Royal Dockyard|HM Dockyards,,Q190928|Q1324633,Royal Navy Dockyard
+Royal Navy,Sketch of diving apparatus by Simon Goodrich,Q118435452,11,2,1,"Sketch of diving apparatus as tried by the inventor at the entrance of the basin in Portsmouth Yard, from the papers of Simon Goodrich, in the collection of the Science Museum",Diving Apparatus|Royal Navy|Engineering Sketches,Q1788588,,
+Royal Navy,Real Marina,Q1101613,11,2,1,naval forces of the Kingdom of the Two Sicilies,Royal Navy of the Kingdom of the Two Sicilies,Q4508,,Real Marina (Kingdom of the Two Sicilies)
+Royal Navy,Royal Navy fleet aircraft carrier fleet,Q63751162,11,2,1,all fleet aircraft carriers in service with the United Kingdom's Royal Navy,fleet aircraft carriers in United Kingdom service|RN fleet aircraft carrier fleet,Q63607645,,
+Royal Navy,HMS Hogue,Q2704491,11,2,2,1900 Cressy-class armored cruiser,,Q847478|Q12859788|Q852190,,HMS Hogue (1900)
+Royal Navy,HMS Hogue,Q5632803,11,2,2,1944 Battle-class destroyer,,Q174736,,HMS Hogue (D74)
+Royal Navy,HMS La Hogue,Q5632798,11,2,2,1811 Vengeur-class third-rate ship of the line,HMS Hogue,Q892492,,HMS La Hogue
+Royal Navy,HMS Hogue,Q3125048,11,2,2,Wikimedia disambiguation page,,Q4167410,,HMS Hogue
+Royal Navy,Cressy-class armored cruiser,Q138894,11,2,2,1901 class of British armored cruisers,,Q559026,Q847478,Cressy-class cruiser

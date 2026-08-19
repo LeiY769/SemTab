@@ -1,0 +1,149 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Monto Library,Monto Library,Q85463570,0,0,1,"public library in Monto, Queensland, Australia",,Q11396180|Q28564,,
+Monto Library,North Burnett Regional Council library services,Q85376818,0,0,2,"library service in North Burnett Region, Queensland, Australia",,Q26271642,,
+North Burnett Regional Council library services,North Burnett Regional Council library services,Q85376818,0,1,1,"library service in North Burnett Region, Queensland, Australia",,Q26271642,,
+North Burnett Regional Council library services,North Burnett Regional Council,Q85370989,0,1,2,"local government for North Burnett Region, Queensland, Australia",,Q6501447,,
+North Burnett Regional Council library services,Monto Library,Q85463570,0,1,2,"public library in Monto, Queensland, Australia",,Q11396180|Q28564,,
+North Burnett Regional Council library services,library service,Q59309634,0,1,2,"services offered by a library such as reference, circulation, interlibrary loan, acquisitions, etc.",library services|services to library users|library public services|library services to users,Q29028649|Q130303173,Q7406919|Q161837,
+North Burnett Regional Council library services,Library Services,Q97483991,0,1,2,"library and academic unit of Minnesota State University, Mankato",,Q7075,,
+North Burnett Regional Council library services,Library Services and Technology Act,Q6542526,0,1,2,U.S. legislation passed in 1996,,Q476068,,Library Services and Technology Act
+North Burnett Regional Council library services,libraries and the LGBT community,Q17064524,0,1,2,library services to the LGBT community,LGBT library services|LGBT library service|LGBTQ library services|LGBTQ library service|queer library services|queer library service|sexual minority library services|sexual minority library service|libraries and sexual minorities|library services to sexual minorities|sexual minorities and libraries,,Q59309634,Libraries and the LGBTQ community
+North Burnett Regional Council library services,Library Services and Construction Act,Q6542525,0,1,2,U.S. legislation passed in 1964,,Q476068,,Library Services and Construction Act
+North Burnett Regional Council library services,Library Services Act,Q29057219,0,1,2,U.S. legislation passed in 1956,,Q476068,,Library Services Act
+North Burnett Regional Council library services,library services provider,Q60461879,0,1,2,,,,Q29933786,
+North Burnett Regional Council library services,Library Services Center,Q136680097,0,1,2,building occupied by BookOps and New York Public Library,BookOps|Stroheim & Romann Building|Stroheim and Romann Building|31-11 Thomson Ave|31-11 Thomson Avenue,Q41176,,
+North Burnett Regional Council library services,Library Services For People with Disabilities,Q122229125,0,1,2,Public Library in Botswana,LSPD,Q28564,,
+North Burnett Regional Council library services,Library services,Q70387853,0,1,2,scientific article published on 01 February 1988,,Q13442814|Q871232,,
+Springsure Library,Springsure Library,Q85464123,1,0,1,"public library in Springsure, Queensland, Australia",,Q11396180|Q28564,,
+Springsure Library,Central Highlands Regional Council Library Services,Q85379711,1,0,2,"library service in Central Highlands Region, Queensland, Australia",,Q26271642,,
+Central Highlands Regional Council Library Services,Central Highlands Regional Council Library Services,Q85379711,1,1,1,"library service in Central Highlands Region, Queensland, Australia",,Q26271642,,
+Central Highlands Regional Council Library Services,Central Highlands Regional Council,Q85372024,1,1,2,"local government for Central Highlands Region, Queensland, Australia",,Q6501447,,
+Central Highlands Regional Council Library Services,Springsure Library,Q85464123,1,1,2,"public library in Springsure, Queensland, Australia",,Q11396180|Q28564,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo nazionale archeologico della Sibaritide,Q113526330,2,0,1,public library in Italy,,Q28564|Q124750711,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo internazionale delle ceramiche,Q112581181,2,0,2,"library in Faenza, Italy",,Q385994|Q380829|Q124750593,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo de Zaragoza,Q85687046,2,0,2,library in Spain,,Q13866185|Q12317349,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Library of the Museo civico di storia naturale,Q3639653,2,0,2,library,"Biblioteca del Museo civico di storia naturale|Trieste, Italy|Comune di Milano. Biblioteca del Museo civico di storia naturale, Milano (MI)|Biblioteca del Museo di Storia naturale e dell'Acquario civico di Milano",Q166118|Q385994|Q124750618,,Library of the Civic Museum of Natural History of Milan
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo de Prehistoria de Valencia,Q5728042,2,0,2,"library in Valencia, Spain",Biblioteca del Museu de Prehistòria de València,Q7075|Q12317349,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del museo civico archeologico di Bologna,Q112709403,2,0,2,library in Bologna,,Q385994|Q124750618,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo de Bellas Artes de Asturias,Q25408307,2,0,2,library in Spain,,Q13866185|Q12317349,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo dell'Aeronautica Gianni Caproni,Q113639903,2,0,2,special library in Italy,,Q385994,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,"Biblioteca del Museo della Scuola e dell'Educazione ""Mauro Laeng"". Università Degli Studi Roma Tre",Q113169720,2,0,2,university library in Italy,,Q1622062,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo Pablo Serrano,Q85687048,2,0,2,library in Spain,,Q13866185|Q12317349,,
+Biblioteca del Museo nazionale archeologico della Sibaritide,Biblioteca del Museo Etnológico de Ribadavia,Q85725965,2,0,2,library in Spain,,Q13866185|Q12317349,,
+Ministry of Culture,Ministry of Culture,Q1347047,2,1,1,Italian government ministry for culture,MiBACT|Ministry for Cultural Assets and Environments|Ministero della Cultura,Q19973770|Q1112537,,Ministry of Culture (Italy)
+Ministry of Culture,Ministry of Culture of Slovenia,Q30290519,2,1,1,"government organization in Ljubljana, Slovenia",Ministry of Culture (Slovenia),Q327333|Q19973770,,
+Ministry of Culture,Ministry of Culture of France,Q384602,2,1,1,French ministry,ministère de la Culture|French ministry of culture|ministere de la Culture|Ministry of Culture and Communication|Ministère de la Culture et de la Communication|culture.gouv.fr,Q19973770,,Ministry of Culture (France)
+Ministry of Culture,Ministry of Culture,Q697865,2,1,1,ministry of the Republic of China (Taiwan),Council for Cultural Affairs|Ministry of Culture (Taiwan)|Ministry of Culture (Republic of China)|Taiwan Ministry of Culture|Council for Cultural Planning and Development,Q19973770|Q10876308,,Ministry of Culture (Taiwan)
+Ministry of Culture,Ministry of Culture,Q1419663,2,1,1,ministry of Denmark,,Q19973770|Q110636698,,Ministry of Culture (Denmark)
+Ministry of Culture,Ministry of Culture of the Republic of Latvia,Q16361564,2,1,1,"government organization in Riga, Latvia",,Q19973770|Q131579945,,
+Ministry of Culture,Ministry of Culture,Q3315270,2,1,1,Tunisia ministry,Ministry of Culture of Tunisia,Q19973770|Q140729494,,Ministry of Culture (Tunisia)
+Ministry of Culture,Ministry of Culture,Q1398002,2,1,1,Romanian ministry,Ministry of Culture of Romania,Q19973770|Q140636329,,Ministry of Culture (Romania)
+Ministry of Culture,Ministry of Culture,Q3315277,2,1,1,ministry of Peru,,Q19973770|Q6017592,,Ministry of Culture (Peru)
+Ministry of Culture,Ministry of Culture of the People's Republic of China,Q2607378,2,1,1,former government ministry,MOC|Ministry of Culture|MCPRC,Q19973770|Q4294273,,Ministry of Culture (China)
+Ministry of Culture,Biblioteca del Museo internazionale delle ceramiche,Q112581181,2,1,2,"library in Faenza, Italy",,Q385994|Q380829|Q124750593,,
+Ministry of Culture,Biblioteca del Museo de Zaragoza,Q85687046,2,1,2,library in Spain,,Q13866185|Q12317349,,
+Ministry of Culture,Library of the Museo civico di storia naturale,Q3639653,2,1,2,library,"Biblioteca del Museo civico di storia naturale|Trieste, Italy|Comune di Milano. Biblioteca del Museo civico di storia naturale, Milano (MI)|Biblioteca del Museo di Storia naturale e dell'Acquario civico di Milano",Q166118|Q385994|Q124750618,,Library of the Civic Museum of Natural History of Milan
+Ministry of Culture,Biblioteca del Museo de Prehistoria de Valencia,Q5728042,2,1,2,"library in Valencia, Spain",Biblioteca del Museu de Prehistòria de València,Q7075|Q12317349,,
+Ministry of Culture,Biblioteca del museo civico archeologico di Bologna,Q112709403,2,1,2,library in Bologna,,Q385994|Q124750618,,
+Ministry of Culture,Biblioteca del Museo de Bellas Artes de Asturias,Q25408307,2,1,2,library in Spain,,Q13866185|Q12317349,,
+Ministry of Culture,Biblioteca del Museo dell'Aeronautica Gianni Caproni,Q113639903,2,1,2,special library in Italy,,Q385994,,
+Ministry of Culture,"Biblioteca del Museo della Scuola e dell'Educazione ""Mauro Laeng"". Università Degli Studi Roma Tre",Q113169720,2,1,2,university library in Italy,,Q1622062,,
+Ministry of Culture,Biblioteca del Museo Pablo Serrano,Q85687048,2,1,2,library in Spain,,Q13866185|Q12317349,,
+Ministry of Culture,Biblioteca del Museo Etnológico de Ribadavia,Q85725965,2,1,2,library in Spain,,Q13866185|Q12317349,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Q113528746,3,0,1,public library in Italy,,Q28564|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili,Q113528749,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto marittimo,Q113528758,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Ministry of Infrastructure and Transport,Q1139336,3,0,2,directorate of the Italian government for infrastructure,Ministry of Sustainable Infrastructure and Mobility,Q1112537|Q6867215|Q2516426,,Ministry of Infrastructure and Transport (Italy)
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero dell'ambiente e della tutela del territorio e del mare,Q113528768,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero della salute,Q113528756,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero dell'interno,Q113528759,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero degli affari esteri,Q3639652,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero Svipuppo Economico,Q113528760,3,0,2,special library in Italy,,Q385994|Q124750593,,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,biblioteca del Ministero della Cultura italiano,Q124750711,3,0,2,type of library in Italy,,Q25397890,Q7075,
+Biblioteca del Ministero delle infrastrutture e della mobilità sostenibili. Settore trasporto terrestre,Biblioteca del Ministero della Cultura,Q113639860,3,0,2,special library in Italy,,Q385994,,
+Ministry of Sustainable Infrastructure and Mobility,Ministry of Infrastructure and Transport,Q1139336,3,1,1,directorate of the Italian government for infrastructure,Ministry of Sustainable Infrastructure and Mobility,Q1112537|Q6867215|Q2516426,,Ministry of Infrastructure and Transport (Italy)
+media center Valais Sion,media center Valais Sion,Q961468,4,0,1,"multimedia library in Sion in the canton of Valais, Switzerland",,Q671735|Q678405|Q1497649|Q28564,,
+Sion,Sion,Q68136,4,2,1,"capital of the canton of Valais, Switzerland",Sitten|Sion VS,Q70208|Q14770218|Q54935504,,"Sion, Switzerland"
+Sion,Sion,Q339533,4,2,1,"commune in Gers, France",,Q484170,,"Sion, Gers"
+Sion,Sion,Q37553660,4,2,1,family name,,Q101352,,
+Sion,Siôn,Q7533488,4,2,1,male given name,Siôn (given name)|Siôn (first name)|Sion (given name)|Sion (first name),Q12308941,,Sion (name)
+Sion,Sion,Q108802022,4,2,1,male given name,,Q12308941,,
+Sion,SION,Q17211304,4,2,1,1986 self-titled debut studio album by SION,,Q482994,,
+Sion,Sion,Q19734253,4,2,1,"village in South Minahasa Regency, North Sulawesi, Indonesia",,Q26211545,,
+Sion,Sions harpe,Q92095192,4,2,1,Norwegian song book; hymnal,,Q1650727|Q1516252,,
+Sion,Sion,Q105414621,4,2,1,genus of plants,,Q16521,,
+Sion,Sion-les-Mines,Q945573,4,2,1,"commune in Loire-Atlantique, France",,Q484170,,Sion-les-Mines
+Sion,Canton of Valais,Q834,4,2,2,canton of Switzerland,VS|Wallis|Canton of Wallis|Canton Valais,Q23058,,Valais
+Sion,Valais,Q65114503,4,2,2,family name,,Q101352,,
+Sion,Valais (bateau à vapeur),Q21031196,4,2,2,Valais (bateau à vapeur),,Q11446,Q1121471,
+Sion,IMO 7116901,Q131367206,4,2,2,wine tanker built in 1971,Valais|Saint Tropez,Q14970,,
+Sion,Valais,Q140285751,4,2,2,housing estate in Kwu Tung,,Q12104567,,
+Sion,Valais Art Museum,Q27488911,4,2,2,"museum in Sion in the canton of Valais, Switzerland",Kunstmuseum Wallis|Musée d'Art du Valais,Q207694|Q1497649|Q2668072,,
+Sion,Valais witch trials,Q4382293,4,2,2,"1428-1434/6 witch hunt and trials in Valais, Switzerland",,Q188494|Q2334719,Q19902850,Valais witch trials
+Sion,Valais Shrew,Q1770403,4,2,2,species of mammal,Sorex antinorii,Q16521,,Valais shrew
+Sion,Valais Republic,Q1398212,4,2,2,French sister republic,,Q3024240|Q472538,,Valais Republic
+Sion,Valaisan,Q3553469,4,2,2,variety of Franco-Provençal,Valaisan dialect,Q33384,Q97274292,
+Hamilton Library,Hamilton Library,Q85463009,5,0,1,"public library in Ascot, Queensland, Australia",,Q11396180|Q28564,,
+Hamilton Library,Hamilton library,Q5645183,5,0,1,"Carnegie library in South Lanarkshire, Scotland, UK",Hamilton Town House Library,Q1043939|Q28564,,
+Hamilton Library,Hamilton Library,Q83093030,5,0,1,"public library in Hamilton, New South Wales",,Q856584|Q28564,,
+Hamilton Library,Hamilton Library,Q5645047,5,0,1,library,University of Hawaii at Manoa Library|Hamilton Library (Hawaii),Q856234|Q2085381,,Hamilton Library
+Hamilton Library,Hamilton Library,Q55183652,5,0,1,"public library in Leicester City, UK",,Q28564,,
+Hamilton Library,"Hamilton Library, Trinity College, Dublin",Q101138724,5,0,1,"Library in Trinity College, Dublin.",,Q856234,,
+Hamilton Library,Hamilton Library,Q5645046,5,0,1,Wikimedia disambiguation page,,Q4167410,,Hamilton Library (disambiguation)
+Hamilton Library,Brisbane City Council Library Services,Q85379602,5,0,2,"library service in Brisbane City, Queensland, Australia",,Q26271642,,
+Hamilton Library,Hamilton Public Library,Q5645111,5,0,2,"public library system in Hamilton, Ontario",HPL,Q28564|Q26271642,,Hamilton Public Library
+Hamilton Library,Hamilton Public Library,Q69481065,5,0,2,"public library system in Missouri, USA",,Q26271642,,
+Hamilton Library,Hamilton Public Library,Q69473750,5,0,2,"public library system in Illinois, USA",,Q26271642,,
+Hamilton Library,Hamilton Public Library,Q69491553,5,0,2,"public library system in Texas, USA",,Q26271642,,
+Hamilton Library,Hamilton Public Library,Q69485813,5,0,2,"public library system in New York, USA",,Q26271642,,
+Hamilton Library,Hamilton Public Library Board,Q137365123,5,0,2,charitable organization from Canada,,Q163740,,
+Brisbane City Council Library Services,Brisbane City Council Library Services,Q85379602,5,1,1,"library service in Brisbane City, Queensland, Australia",,Q26271642,,
+Brisbane City Council Library Services,Brisbane City Council,Q56477660,5,1,2,"local government for Brisbane City, Queensland, Australia",,Q3308596|Q6501447,,Brisbane City Council
+Brisbane City Council Library Services,Brisbane City Council Library Catalogue,Q85381261,5,1,2,online library catalogue for Brisbane City Council Library Services,,Q1982918,,
+Brisbane City Council Library Services,City of Brisbane,Q917682,5,1,2,"local government area of Brisbane, in Queensland, Australia",deception bay|Brisbane,Q55593624,,City of Brisbane
+Brisbane City Council Library Services,Brisbane City Council Tramway Substation No 9,Q19871584,5,1,2,"historic site in Queensland, Australia",,Q1081138|Q174814,,Brisbane City Council Tramways Substation No 9
+Brisbane City Council Library Services,Brisbane City Council Tramways Substation No. 8,Q19871587,5,1,2,"historic site in Queensland, Australia",,Q1081138|Q174814,,Brisbane City Council Tramways Substation No. 8
+Brisbane City Council Library Services,2012 Brisbane City Council election,Q4968551,5,1,2,,"Brisbane City Council election, 2012",Q40231,,2012 Brisbane City Council election
+Brisbane City Council Library Services,2016 Brisbane City Council election,Q28129700,5,1,2,,"Brisbane City Council election, 2016",Q40231,,2016 Brisbane City Council election
+Brisbane City Council Library Services,1934 Brisbane City Council election,Q29301255,5,1,2,Australian local council election,"Brisbane City Council election, 1934",Q40231,,1934 Brisbane City Council election
+Brisbane City Council Library Services,1931 Brisbane City Council election,Q29300893,5,1,2,Australian local council election,"Brisbane City Council election, 1931",Q40231,,1931 Brisbane City Council election
+Brisbane City Council Library Services,Hamilton Library,Q85463009,5,1,2,"public library in Ascot, Queensland, Australia",,Q11396180|Q28564,,
+Brisbane City Council Library Services,Hamilton library,Q5645183,5,1,2,"Carnegie library in South Lanarkshire, Scotland, UK",Hamilton Town House Library,Q1043939|Q28564,,
+Brisbane City Council Library Services,Hamilton Library,Q83093030,5,1,2,"public library in Hamilton, New South Wales",,Q856584|Q28564,,
+Brisbane City Council Library Services,Hamilton Library,Q5645047,5,1,2,library,University of Hawaii at Manoa Library|Hamilton Library (Hawaii),Q856234|Q2085381,,Hamilton Library
+Brisbane City Council Library Services,Hamilton Library,Q55183652,5,1,2,"public library in Leicester City, UK",,Q28564,,
+Brisbane City Council Library Services,"Hamilton Library, Trinity College, Dublin",Q101138724,5,1,2,"Library in Trinity College, Dublin.",,Q856234,,
+Brisbane City Council Library Services,Hamilton Library,Q5645046,5,1,2,Wikimedia disambiguation page,,Q4167410,,Hamilton Library (disambiguation)
+Biblioteca Horta - Can Mariner,Biblioteca Horta - Can Mariner,Q85693342,6,0,1,library in Spain,,Q28564|Q12317349,,
+Can Mariner,Can Mariner,Q20104375,6,2,1,"masia in Santa Coloma de Gramenet (Barcelonès, Catalonia)",,Q585956,,
+Can Mariner,Can Mariner,Q17590564,6,2,1,"masia in Barcelona (Barcelonès, Catalonia)",,Q585956,,
+Can Mariner,Can Mariner,Q73362623,6,2,1,"building in Susqueda (Selva, Catalonia)",,Q585956,,
+Can Mariner,Can Mariner,Q67131240,6,2,1,neighborhood in Santa Coloma de Gramenet (Barcelonès),,Q11939023,,
+Can Mariner,Can Mariner,Q21084191,6,2,1,Wikimedia disambiguation page,,Q4167410,,
+Can Mariner,Biblioteca Horta - Can Mariner,Q85693342,6,2,2,library in Spain,,Q28564|Q12317349,,
+Peabody Township Library,Peabody Township Library,Q4500088,7,0,1,Public library in Kansas,Peabody Township Carnegie Library,Q28564|Q1043939,,Peabody Township Library
+Peabody Township Library,Peabody Township Library,Q69475933,7,0,1,"public library system in Kansas, USA",,Q26271642,,
+Peabody Township Library,Peabody Public Library,Q69475233,7,0,2,"public library system in Indiana, USA",,Q26271642,,
+Peabody Township Library,George Peabody Library,Q5543273,7,0,2,"Research library in Baltimore, Maryland, US",Library of the Peabody Institute of the City of Baltimore|Peabody Institute Library|Johns Hopkins University Peabody Institute Library|Peabody Library|Johns Hopkins University George Peabody Library|Sheridan Libraries George Peabody Library,Q856234|Q856584,,George Peabody Library
+Peabody Township Library,Peabody Library,Q28123652,7,0,2,public library in Post Mills Vermont,,Q28564,,"Peabody Library (Thetford, Vermont)"
+Peabody Township Library,Peabody Library Building,Q107321349,7,0,2,"historic place in Huntsville, Walker County, Texas",,Q856584,,
+Peabody Township Library,Peabody Library,Q7157245,7,0,2,Wikimedia disambiguation page,,Q4167410,,Peabody Library
+Peabody,Peabody,Q16881051,7,2,1,family name,,Q101352,,Peabody (surname)
+Peabody,Peabody Awards,Q838121,7,2,1,international awards for excellence in radio and television,George Foster Peabody Award|The Peabody Awards|George Foster Peabody Awards|Peabody Award,Q618779,Q137560479,Peabody Awards
+Peabody,Peabody,Q54136,7,2,1,"city in Essex County, Massachusetts, United States","Peabody, Massachusetts|Peabody, MA",Q1093829,,"Peabody, Massachusetts"
+Peabody,Neighborhood Nine,Q7157211,7,2,1,"neighborhood in Cambridge, Massachusetts, USA",Area 9|Peabody,Q123705,,Neighborhood Nine
+Peabody,Peabody,Q2535023,7,2,1,"city in Marion County, Kansas, United States","Peabody, Kansas|Peabody, KS",Q1093829,,"Peabody, Kansas"
+Peabody,Peabody Museum of Archaeology and Ethnology,Q1249027,7,2,1,"museum in Cambridge, Massachusetts",Peabody Museum,Q33506|Q100731037,,Peabody Museum of Archaeology and Ethnology
+Peabody,Yale Peabody Museum,Q122945,7,2,1,"natural history museum of Yale University in New Haven, Connecticut, USA",YPM|Peabody Museum of Natural History|Yale University Peabody Museum|peabody.yale.edu,Q1970365,,Peabody Museum of Natural History
+Peabody,Mister Peabody,Q3819266,7,2,1,anthropomorphic cartoon dog,Peabody|Mr. Peabody,Q88552181|Q15711870,,Mr. Peabody
+Peabody,Peabody Institute,Q1156934,7,2,1,"conservatory and university-prep school in Baltimore, Maryland",Peabody Conservatory,Q184644|Q3914,,Peabody Institute
+Peabody,Peabody,Q7157219,7,2,1,fast foxtrot-type dance done to ragtime music,,Q107357104,,Peabody (dance)
+Peabody,Peabody Township,Q9043308,7,2,2,"township in Marion County, Kansas, United States","Peabody Township, Marion County, Kansas",Q17205735,,"Peabody Township, Marion County, Kansas"
+Peabody,Peabody Township,Q9043307,7,2,2,"township in Bottineau County, North Dakota","Peabody Township, Bottineau County, North Dakota",Q28111,,"Peabody Township, Bottineau County, North Dakota"
+Peabody,Peabody Township Library,Q4500088,7,2,2,Public library in Kansas,Peabody Township Carnegie Library,Q28564|Q1043939,,Peabody Township Library
+Peabody,Peabody Township Library,Q69475933,7,2,2,"public library system in Kansas, USA",,Q26271642,,
+Peabody,Peabody Township,Q1236309,7,2,2,Wikimedia disambiguation page,,Q4167410,,
+Peabody,George Peabody Library,Q5543273,7,2,2,"Research library in Baltimore, Maryland, US",Library of the Peabody Institute of the City of Baltimore|Peabody Institute Library|Johns Hopkins University Peabody Institute Library|Peabody Library|Johns Hopkins University George Peabody Library|Sheridan Libraries George Peabody Library,Q856234|Q856584,,George Peabody Library
+Peabody,Peabody Library,Q28123652,7,2,2,public library in Post Mills Vermont,,Q28564,,"Peabody Library (Thetford, Vermont)"
+Peabody,Peabody Library Building,Q107321349,7,2,2,"historic place in Huntsville, Walker County, Texas",,Q856584,,
+Peabody,Peabody Library,Q7157245,7,2,2,Wikimedia disambiguation page,,Q4167410,,Peabody Library

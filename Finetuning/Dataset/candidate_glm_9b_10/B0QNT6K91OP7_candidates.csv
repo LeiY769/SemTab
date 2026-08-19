@@ -1,0 +1,340 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Korenmolen,Korenmolen,Q19311118,0,0,1,"street in Delft, the Netherlands",,Q79007,,
+Korenmolen,Korenmolen,Q1860220,0,0,1,"windmill in Bladel, Netherlands",,Q38720|Q301449,,
+Korenmolen,Korenmolen,Q2496909,0,0,1,"windmill in Rockanje, Netherlands",,Q38720|Q301449,,
+Korenmolen,Korenmolen,Q21008824,0,0,1,"watermill in Termolen, Belgium",,Q185187,,
+Korenmolen,Korenmolen,Q19311110,0,0,1,"street in Assen, the Netherlands",,Q79007,,
+Korenmolen,Korenmolen,Q19311111,0,0,1,"street in Bergschenhoek, the Netherlands",,Q79007,,
+Korenmolen,Korenmolen,Q19311143,0,0,1,"street in Schijndel, the Netherlands",,Q79007,,
+Korenmolen,Korenmolen,Q19311131,0,0,1,"street in Meeuwen, the Netherlands",,Q79007,,
+Korenmolen,gristmill,Q623605,0,0,1,mill; grinds grain into flour,grist mill|flour mill|corn mill|feed mill|flourmill,,Q44494|Q1662011|Q656720,Gristmill
+Korenmolen,Korenmolen,Q2580800,0,0,1,"windmill in Oostvoorne, Netherlands",,Q38720|Q301449,,
+Zonhoven,Zonhoven,Q133769,0,2,1,"municipality in Limburg, Belgium",,Q493522,,Zonhoven
+Zonhoven,Zonhoven,Q31596651,0,2,1,"town in Zonhoven municipality, Belgium",,Q532,,
+Zonhoven,Zonhoven,Q66312785,0,2,1,"section of Zonhoven, Belgium",,Q2785216,,
+Zonhoven,Zonhoven railway station,Q2190432,0,2,1,railway station in Belgium,,Q55488,,
+Zonhoven,Zonhoven railway station,Q125544820,0,2,1,former railway station (1866-1957) in Belgium,,Q55488,,
+Zonhoven,coat of arms of Zonhoven,Q18089163,0,2,1,,Zonhoven coat of arms,Q41505469,,
+Zonhoven,Zonhoven-Badplaats railway station,Q14387738,0,2,1,railway station in Belgium,,Q55488,,
+Zonhoven,Zonhovenstraat,Q18955767,0,2,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Zonhoven,Zonhoven-Oost railway station,Q125544911,0,2,1,railway station in Belgium,,Q55488,,
+Zonhoven,Zonhoven VV,Q637516,0,2,1,association football club,,Q476028,,
+King's Mill,Kings Mill,Q26299328,1,0,1,"Grade II listed watermill in Oxford, Oxfordshire, England, UK","King's Mill, Oxford|Kings Mill, Oxford|King's Mill",Q185187,,"Kings Mill, Oxford"
+King's Mill,King's Mill,Q6411021,1,0,1,"watermill in Castle Donington, Leicestershire, England, UK","King's Mill, Castle Donington",Q185187,,"King's Mill, Castle Donington"
+King's Mill,Kings Mill,Q6412953,1,0,1,"building in Stamford, Lincolnshire, England, UK","King's Mill|Kings Mill, Stamford",Q185187,,"Kings Mill, Stamford"
+King's Mill,Gilbert Islands,Q271876,1,0,1,chain of sixteen atolls and coral islands in the Pacific Ocean,Kingsmill|King's-Mill Islands|Tungaru|Gilberts|Kingsmill Group,Q17305516|Q33837|Q56061,,Gilbert Islands
+King's Mill,King's Mill,Q26497592,1,0,1,"mill in Malton, Ryedale, North Yorkshire, England, UK",,Q44494,,"King's Mill, Malton"
+King's Mill,King's Mill,Q26677973,1,0,1,"mill in Briercliffe, Burnley, Lancashire, England, UK",,Q44494,,
+King's Mill,King's Mill Hospital,Q6411025,1,0,1,hospital in England,King's Mill Centre,Q16917,,King's Mill Hospital
+King's Mill,King's Mill Viaduct,Q17642882,1,0,1,"railway viaduct in Mansfield, Nottinghamshire, England, UK",,Q39486269,,
+King's Mill,King's Mills Manor,Q105775461,1,0,1,"former manorial estate in Cullompton, Devon",Kingsmill Bridge Manor,Q2116450,,
+King's Mill,"King's Mill, Shipley",Q16246967,1,0,1,"windmill in Shipley, Horsham, England, UK",,Q1534870,,"King's Mill, Shipley"
+King's Mill,Donington Mill,Q26336257,1,0,2,"mill in Castle Donington, North West Leicestershire, England, UK",,Q44494,,
+Castle Donington,Castle Donington,Q33797707,1,2,1,"civil parish in Leicestershire, United Kingdom",,Q14757767|Q1115575,,
+Castle Donington,Castle Donington,Q547166,1,2,1,"village in Leicestershire, England, UK","Castle Donington, Leicestershire",Q532|Q1115575,,Castle Donington
+Castle Donington,East Midlands Airport,Q8977,1,2,1,international airport in the East Midlands of England,EMA|EGNX|East Midlands International|RAF Castle Donington|Castle Donington,Q644371|Q1248784|Q94993988,,East Midlands Airport
+Castle Donington,Donington Castle,Q5296117,1,2,1,"castle in Castle Donington, Leicestershire, England, UK",Enclosure castle at Castle Donington|Castle Donington,Q23413,,Donington Castle
+Castle Donington,Castle Donington Line,Q5050051,1,2,1,"railway line in Derbyshire, England",,Q728937,,Castle Donington line
+Castle Donington,Castle Donington Methodist Church,Q17986294,1,2,1,"Grade II listed building in Castle Donington, Leicestershire, England, UK",Methodist Church,Q56242063,,Castle Donington Methodist Church
+Castle Donington,Castle Donington Museum,Q113370170,1,2,1,"museum in Derby, England, United Kingdom",,Q33506|Q115154402,,
+Castle Donington,Castle Donington Power Station,Q5050049,1,2,1,former coal-fired power station,,Q6558431,,Castle Donington Power Station
+Castle Donington,Castle Donington and Shardlow railway station,Q104857601,1,2,1,"railway station in Leicestershire, England, UK, now closed",Castle Donington and Shardlow Station,Q55488,,Castle Donington and Shardlow railway station
+Castle Donington,Castle Donington railway viaduct,Q60068175,1,2,1,railway viaduct across the River Trent,River Trent Bridge/Flood Arches,Q39486269,,
+Castle Donington,Donington Park,Q173202,1,2,2,race track,Donington Park Circuit,Q2338524,,Donington Park
+Castle Donington,1934 Donington Park Trophy,Q12787734,1,2,2,,Donington Park Trophy 1934,Q24050099,,
+Castle Donington,Donington Park SSSI,Q48797299,1,2,2,UK Site of Special Scientific Interest,,Q422211,,Donington Park SSSI
+Castle Donington,Donington Park services,Q5296123,1,2,2,motorway service station in the English East Midlands,,Q15411381,,Donington Park motorway services
+Castle Donington,"Donington Park, Convoy In The Park 2024",Q135473477,1,2,2,,,Q1656682,,
+Castle Donington,Donington Park 1993 Grand Prix layout,Q108939561,1,2,2,track layout used by Formula One at the Donington Park,,Q66436502,,
+Castle Donington,Donington Grand Prix,Q3113850,1,2,2,Grand Prix auto race held in UK,,,Q87267404,Donington Grand Prix
+Castle Donington,1933 Donington Park Trophy,Q12787737,1,2,2,,,Q24050099,,
+Hammolen,Hammolen,Q13653352,2,0,1,"watermill in Kerkrade, Netherlands",,Q185187,,
+Hammolen,Hammolen,Q18654823,2,0,1,"watermill in Ham, Belgium",,Q185187,,
+Hammolen,Hammolenweg,Q19242426,2,0,1,"street in Kerkrade, the Netherlands",,Q79007,,
+Hammolen,Hammolen,Q18714073,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hammolen,Kerkrade,Q9796,2,0,2,"municipality in Limburg, the Netherlands",Kirchroa,Q2039348,,Kerkrade
+Hammolen,Kerkrade,Q28914824,2,0,2,"city in Limburg, the Netherlands",Kirchroa|Kirchrath,Q1852859|Q515|Q902814,,
+Hammolen,Kerkrade dialect,Q153872,2,0,2,language,,Q33384,Q32145,Kerkrade dialect
+Hammolen,Kerkrade,Q110781081,2,0,2,work of art by Marianne van der Heijden,Kerkrade,Q6791777,,
+Hammolen,Kerkrade,Q110710302,2,0,2,1948 work of art by Marianne van der Heijden,Kerkrade,Q3305213,,
+Hammolen,Bibliotheek Kerkrade e.o.,Q61912787,2,0,2,"public library organization in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, The Netherlands",Kerkrade-Simpelveld-Voerendaal Public Library Foundation,Q28564|Q26271642|Q43229,,
+Hammolen,Kerkrade Centrum railway station,Q2462184,2,0,2,railway station in the Netherlands,,Q55488,,Kerkrade Centrum railway station
+Hammolen,Kerkrade public library,Q61915783,2,0,2,"main visitor location and administration offices of the Kerkrade e.o. Public Library, the organisation for the public libraries in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, the Netherlands",HuB.Bibliotheek Kerkrade,Q28564|Q11396180|Q7540126,,
+Hammolen,Kerkrade-West public library service point,Q61915785,2,0,2,"Public library in Kerkrade-West, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Hammolen,Kerkrade municipal council,Q106216355,2,0,2,,,Q17014622,,
+Hammolenweg,Hammolenweg,Q19242426,2,1,1,"street in Kerkrade, the Netherlands",,Q79007,,
+Hammolenweg,Kerkrade,Q9796,2,1,2,"municipality in Limburg, the Netherlands",Kirchroa,Q2039348,,Kerkrade
+Hammolenweg,Kerkrade,Q28914824,2,1,2,"city in Limburg, the Netherlands",Kirchroa|Kirchrath,Q1852859|Q515|Q902814,,
+Hammolenweg,Kerkrade dialect,Q153872,2,1,2,language,,Q33384,Q32145,Kerkrade dialect
+Hammolenweg,Kerkrade,Q110781081,2,1,2,work of art by Marianne van der Heijden,Kerkrade,Q6791777,,
+Hammolenweg,Kerkrade,Q110710302,2,1,2,1948 work of art by Marianne van der Heijden,Kerkrade,Q3305213,,
+Hammolenweg,Bibliotheek Kerkrade e.o.,Q61912787,2,1,2,"public library organization in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, The Netherlands",Kerkrade-Simpelveld-Voerendaal Public Library Foundation,Q28564|Q26271642|Q43229,,
+Hammolenweg,Kerkrade Centrum railway station,Q2462184,2,1,2,railway station in the Netherlands,,Q55488,,Kerkrade Centrum railway station
+Hammolenweg,Kerkrade public library,Q61915783,2,1,2,"main visitor location and administration offices of the Kerkrade e.o. Public Library, the organisation for the public libraries in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, the Netherlands",HuB.Bibliotheek Kerkrade,Q28564|Q11396180|Q7540126,,
+Hammolenweg,Kerkrade-West public library service point,Q61915785,2,1,2,"Public library in Kerkrade-West, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Hammolenweg,Kerkrade municipal council,Q106216355,2,1,2,,,Q17014622,,
+Hammolenweg,Hammolen,Q13653352,2,1,2,"watermill in Kerkrade, Netherlands",,Q185187,,
+Hammolenweg,Hammolen,Q18654823,2,1,2,"watermill in Ham, Belgium",,Q185187,,
+Hammolenweg,Hammolen,Q18714073,2,1,2,Wikimedia disambiguation page,,Q4167410,,
+Kerkrade,Kerkrade,Q9796,2,2,1,"municipality in Limburg, the Netherlands",Kirchroa,Q2039348,,Kerkrade
+Kerkrade,Kerkrade,Q28914824,2,2,1,"city in Limburg, the Netherlands",Kirchroa|Kirchrath,Q1852859|Q515|Q902814,,
+Kerkrade,Kerkrade dialect,Q153872,2,2,1,language,,Q33384,Q32145,Kerkrade dialect
+Kerkrade,Kerkrade,Q110781081,2,2,1,work of art by Marianne van der Heijden,Kerkrade,Q6791777,,
+Kerkrade,Kerkrade,Q110710302,2,2,1,1948 work of art by Marianne van der Heijden,Kerkrade,Q3305213,,
+Kerkrade,Bibliotheek Kerkrade e.o.,Q61912787,2,2,1,"public library organization in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, The Netherlands",Kerkrade-Simpelveld-Voerendaal Public Library Foundation,Q28564|Q26271642|Q43229,,
+Kerkrade,Kerkrade Centrum railway station,Q2462184,2,2,1,railway station in the Netherlands,,Q55488,,Kerkrade Centrum railway station
+Kerkrade,Kerkrade public library,Q61915783,2,2,1,"main visitor location and administration offices of the Kerkrade e.o. Public Library, the organisation for the public libraries in the municipalities of Brunssum, Kerkrade, Simpelveld and Voerendaal, province of Limburg, the Netherlands",HuB.Bibliotheek Kerkrade,Q28564|Q11396180|Q7540126,,
+Kerkrade,Kerkrade-West public library service point,Q61915785,2,2,1,"Public library in Kerkrade-West, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Kerkrade,Kerkrade municipal council,Q106216355,2,2,1,,,Q17014622,,
+Hammolen,Hammolen,Q13653352,3,0,1,"watermill in Kerkrade, Netherlands",,Q185187,,
+Hammolen,Hammolen,Q18654823,3,0,1,"watermill in Ham, Belgium",,Q185187,,
+Hammolen,Hammolenweg,Q19242426,3,0,1,"street in Kerkrade, the Netherlands",,Q79007,,
+Hammolen,Hammolen,Q18714073,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hammolen,Borgloon,Q499609,3,0,2,"former city in Limburg, Belgium",,Q493522|Q15273785,,Borgloon
+Hammolen,Borgloon,Q21770402,3,0,2,"town in Tongeren-Borgloon, Belgium",,Q515,,
+Hammolen,Borgloon railway station,Q2241959,3,0,2,railway station in Belgium,,Q55488,,
+Hammolen,coat of arms of Borgloon,Q37458368,3,0,2,Coat of arms of the Belgian municipality of Borgloon,Borgloon coat of arms,Q41505469,,
+Hammolen,Borgloon dialect,Q122615961,3,0,2,,,Q33384,Q102172,
+Hammolen,Borgloonstraat,Q18962651,3,0,2,"street in Amsterdam, the Netherlands",,Q79007,,
+Hammolen,merger of Borgloon and Tongeren,Q107815871,3,0,2,announced possible future municipality of Belgium,,Q1363768,,
+Hammolen,Borgloon,Q29437482,3,0,2,Wikimedia disambiguation page,,Q4167410,,
+Borgloon,Borgloon,Q499609,3,2,1,"former city in Limburg, Belgium",,Q493522|Q15273785,,Borgloon
+Borgloon,Borgloon,Q21770402,3,2,1,"town in Tongeren-Borgloon, Belgium",,Q515,,
+Borgloon,Borgloon railway station,Q2241959,3,2,1,railway station in Belgium,,Q55488,,
+Borgloon,coat of arms of Borgloon,Q37458368,3,2,1,Coat of arms of the Belgian municipality of Borgloon,Borgloon coat of arms,Q41505469,,
+Borgloon,Borgloon dialect,Q122615961,3,2,1,,,Q33384,Q102172,
+Borgloon,Borgloonstraat,Q18962651,3,2,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Borgloon,merger of Borgloon and Tongeren,Q107815871,3,2,1,announced possible future municipality of Belgium,,Q1363768,,
+Borgloon,Borgloon,Q29437482,3,2,1,Wikimedia disambiguation page,,Q4167410,,
+Tullekensmolen,Tullekensmolen,Q21088441,4,0,1,former watermill on the north bank of the Oude Beek,,Q185187,,Tullekensmolen (north)
+Tullekensmolen,Tullekensmolen,Q19787491,4,0,1,"former mill in Beekbergen, Netherlands",,Q185187,,
+Tullekensmolen,Tullekensmolenweg,Q19574129,4,0,1,"street in Lieren, the Netherlands",,Q79007,,
+Tullekensmolen,Tullekensmolenweg,Q19574128,4,0,1,"street in Beekbergen, the Netherlands",,Q79007,,
+Tullekensmolen,Tullekensmolen,Q19697797,4,0,1,Wikimedia disambiguation page,,Q4167410,,Tullekensmolen
+Apeldoorn,Apeldoorn,Q101918,4,2,1,"municipality in the province of Gelderland, Netherlands",,Q2039348,,Apeldoorn
+Apeldoorn,Apeldoorn,Q3018561,4,2,1,"city in Gelderland, the Netherlands",,Q1852859|Q515|Q56061,,
+Apeldoorn,5885 Apeldoorn,Q532109,4,2,1,asteroid,Apeldoorn,Q3863,,5885 Apeldoorn
+Apeldoorn,Apeldoorn railway station,Q800395,4,2,1,railway station,,Q55488,,Apeldoorn railway station
+Apeldoorn,Apeldoorn ring road,Q1940593,4,2,1,highway in the Netherlands,,Q510662,,
+Apeldoorn,Apeldoorn public library bus service,Q61638474,4,2,1,Apeldoorn public library bus service with 23 stops in Apeldoorn and surroundings,,Q28564|Q11396180|Q720920,,
+Apeldoorn,Apeldoorn,Q106603512,4,2,1,electoral district in the Netherlands (1888–1918),,Q130377399,,
+Apeldoorn,Apeldoorn–Deventer railway,Q801850,4,2,1,railway line in Netherlands,,Q728937,,Apeldoorn–Deventer railway
+Apeldoorn,Richard Kerkhoven,Q60275332,4,2,1,Dutch painter (1846–1931),Apeldoorn Richard Kerkhoven|R. Kerkhoven,Q5,,
+Apeldoorn,Apeldoornseweg,Q18939589,4,2,1,"street in Arnhem, the Netherlands",,Q79007,,
+Apeldoorn,Tullekensmolen,Q21088441,4,2,2,former watermill on the north bank of the Oude Beek,,Q185187,,Tullekensmolen (north)
+Apeldoorn,Tullekensmolen,Q19787491,4,2,2,"former mill in Beekbergen, Netherlands",,Q185187,,
+Apeldoorn,Tullekensmolenweg,Q19574129,4,2,2,"street in Lieren, the Netherlands",,Q79007,,
+Apeldoorn,Tullekensmolenweg,Q19574128,4,2,2,"street in Beekbergen, the Netherlands",,Q79007,,
+Apeldoorn,Tullekensmolen,Q19697797,4,2,2,Wikimedia disambiguation page,,Q4167410,,Tullekensmolen
+Meschermolen,Meschermolen,Q1859951,5,0,1,"watermill in Mesch, Netherlands",,Q185187,,
+Meschermolen,Meschermolen,Q19344422,5,0,1,"street in Withuis-Mesch, the Netherlands",,Q79007,,
+Meschermolen,Eijsden-Margraten,Q9766,5,0,2,municipality in the Netherlands,,Q2039348,,Eijsden-Margraten
+Meschermolen,Eijsden-Margraten municipal council,Q106214454,5,0,2,,,Q17014622,,
+Meschermolen,flag of Eijsden-Margraten,Q62089714,5,0,2,,Eijsden-Margraten flag,Q21850100,,
+Meschermolen,coat of arms of Eijsden-Margraten,Q17300134,5,0,2,"coat of arms of municipality in Limburg, the Netherlands",Eijsden-Margraten coat of arms,Q28147344,,
+Meschermolen,Eijsden Margraten Lokaal (EML),Q138640266,5,0,2,Dutch local political party,,Q24887161,,
+Meschermolen,Eijsden Margraten Lokaal (PGE-M & SVM),Q110860844,5,0,2,Dutch local political party,,Q24887161,,
+Meschermolen,Meschermolen,Q1859951,5,1,1,"watermill in Mesch, Netherlands",,Q185187,,
+Meschermolen,Meschermolen,Q19344422,5,1,1,"street in Withuis-Mesch, the Netherlands",,Q79007,,
+Meschermolen,Eijsden-Margraten,Q9766,5,1,2,municipality in the Netherlands,,Q2039348,,Eijsden-Margraten
+Meschermolen,Eijsden-Margraten municipal council,Q106214454,5,1,2,,,Q17014622,,
+Meschermolen,flag of Eijsden-Margraten,Q62089714,5,1,2,,Eijsden-Margraten flag,Q21850100,,
+Meschermolen,coat of arms of Eijsden-Margraten,Q17300134,5,1,2,"coat of arms of municipality in Limburg, the Netherlands",Eijsden-Margraten coat of arms,Q28147344,,
+Meschermolen,Eijsden Margraten Lokaal (EML),Q138640266,5,1,2,Dutch local political party,,Q24887161,,
+Meschermolen,Eijsden Margraten Lokaal (PGE-M & SVM),Q110860844,5,1,2,Dutch local political party,,Q24887161,,
+Eijsden-Margraten,Eijsden-Margraten,Q9766,5,2,1,municipality in the Netherlands,,Q2039348,,Eijsden-Margraten
+Eijsden-Margraten,Eijsden-Margraten municipal council,Q106214454,5,2,1,,,Q17014622,,
+Eijsden-Margraten,flag of Eijsden-Margraten,Q62089714,5,2,1,,Eijsden-Margraten flag,Q21850100,,
+Eijsden-Margraten,coat of arms of Eijsden-Margraten,Q17300134,5,2,1,"coat of arms of municipality in Limburg, the Netherlands",Eijsden-Margraten coat of arms,Q28147344,,
+Eijsden-Margraten,Eijsden Margraten Lokaal (EML),Q138640266,5,2,1,Dutch local political party,,Q24887161,,
+Eijsden-Margraten,Eijsden Margraten Lokaal (PGE-M & SVM),Q110860844,5,2,1,Dutch local political party,,Q24887161,,
+Eijsden-Margraten,Eijsden,Q1007134,5,2,2,"village in Eijsden-Margraten, Netherlands",,Q1852859|Q902814,,Eijsden
+Eijsden-Margraten,Eijsden,Q28916442,5,2,2,"former municipality in Limburg, Netherlands",,Q2039348,,
+Eijsden-Margraten,Eijsden railway station,Q2508625,5,2,2,railway station in the Netherlands,,Q55488|Q1402443,,Eijsden railway station
+Eijsden-Margraten,Eijsden Castle,Q18767588,5,2,2,castle in the Netherlands,,Q23413|Q1497375,,Eijsden Castle
+Eijsden-Margraten,Eijsden,Q110510769,5,2,2,1969 aquatint print by Theo Kurpershoek,Eijsden,Q18396864,,
+Eijsden-Margraten,Eijsden Castle: garden vase and pedestal,Q17452737,5,2,2,"monument in Eijsden, Netherlands",,Q8480786,,
+Eijsden-Margraten,Eijsden Castle: sculpture group with peacocks,Q17452741,5,2,2,"monument in Eijsden, Netherlands",,Q860861,,
+Eijsden-Margraten,Eijsden Castle: garden vase on base,Q17452740,5,2,2,"monument in Eijsden, Netherlands",,Q8480786,,
+Eijsden-Margraten,Margraten,Q100037,5,2,2,"village in Eijsden-Margraten, Netherlands",,Q532|Q1852859,,Margraten
+Eijsden-Margraten,Margraten,Q16069768,5,2,2,"former municipality in Limburg, the Netherlands",,Q2039348,,
+Eijsden-Margraten,Margraten municipal council,Q106217149,5,2,2,,,Q17014622,,
+Eijsden-Margraten,coat of arms of Margraten,Q17496800,5,2,2,"coat of arms of former municipality in Limburg, the Netherlands",Margraten coat of arms,Q28147344,,
+Eijsden-Margraten,Margraten Member,Q109845628,5,2,2,,,Q2092603,,
+Eijsden-Margraten,Margraten dialect,Q25640448,5,2,2,,,Q33384,Q102172,
+Eijsden-Margraten,Margratenstraße,Q130437874,5,2,2,"street in Aachen, Germany","Margratenstraße, Aachen|Margratenstraße (Aachen)",Q79007|Q469510,,
+Eijsden-Margraten,Margratenpad,Q19335085,5,2,2,"street in Tilburg, the Netherlands",,Q79007,,
+Eijsden-Margraten,Margraten Memorial Center,Q138655299,5,2,2,,,Q43229,,
+Eijsden-Margraten,Margratenplein,Q19335086,5,2,2,"street in Tilburg, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q17613257,6,0,1,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Volmolen,Volmolen,Q19637843,6,0,1,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Volmolen,Volmolen,Q1838713,6,0,1,"watermill in Waalre, Netherlands",,Q185187,,
+Volmolen,Volmolen,Q108853993,6,0,1,,,Q493694,,
+Volmolen,Volmolen,Q14516295,6,0,1,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Volmolen,Volmolen,Q19637846,6,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q21045580,6,0,1,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Volmolen,Volmolen,Q2167345,6,0,1,"watermill in Neerpelt, Belgium",,Q185187,,
+Volmolen,Volmolen,Q15883546,6,0,1,"watermill in Hoeselt, Belgium",,Q185187,,
+Volmolen,"Volmolen, Epen",Q1899804,6,0,1,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Maaseik,Maaseik,Q110989,6,2,1,"city in Limburg, Belgium",,Q15273785|Q902814|Q493522,,Maaseik
+Maaseik,Maaseik,Q31824086,6,2,1,"town in Maaseik municipality, Belgium",,Q3957,,
+Maaseik,Maaseik,Q66311969,6,2,1,"section of Maaseik, Belgium",,Q2785216,,
+Maaseik,Maaseik,Q107467497,6,2,1,,,Q2031121,,
+Maaseik,Maaseik,Q65043245,6,2,1,Belgian political subdivision,,,,Maaseik (Chamber of Representatives constituency)
+Maaseik,Maaseikerweg,Q19333091,6,2,1,"street in Holtum, the Netherlands",,Q79007,,
+Maaseik,Maaseik railway station,Q2880492,6,2,1,railway station in Belgium,,Q55488,,
+Maaseik,Maaseikerweg,Q19333092,6,2,1,"street in Roosteren, the Netherlands",,Q79007,,
+Maaseik,Maaseik (Samian Ware Discovery Site),Q103179461,6,2,1,Maaseik as Samian Ware discovery site,,Q102202066|Q839954,,
+Maaseik,Maaseikerpoort,Q19333090,6,2,1,"street in Echt, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q17613257,7,0,1,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Volmolen,Volmolen,Q19637843,7,0,1,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Volmolen,Volmolen,Q1838713,7,0,1,"watermill in Waalre, Netherlands",,Q185187,,
+Volmolen,Volmolen,Q108853993,7,0,1,,,Q493694,,
+Volmolen,Volmolen,Q14516295,7,0,1,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Volmolen,Volmolen,Q19637846,7,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q21045580,7,0,1,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Volmolen,Volmolen,Q2167345,7,0,1,"watermill in Neerpelt, Belgium",,Q185187,,
+Volmolen,Volmolen,Q15883546,7,0,1,"watermill in Hoeselt, Belgium",,Q185187,,
+Volmolen,"Volmolen, Epen",Q1899804,7,0,1,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Volmolen,windmill,Q38720,7,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Volmolen,Windmill,Q8024279,7,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Volmolen,Windmill,Q6167950,7,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Volmolen,windmill,Q1954962,7,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Volmolen,Windmill,Q8024280,7,0,2,Helloween song,,Q105543609,,Windmill (song)
+Volmolen,Windmill,Q18668417,7,0,2,painting by Piet Mondrian,,Q3305213,,
+Volmolen,windmill,Q244568,7,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Volmolen,Windmill,Q20506236,7,0,2,painting by Unidentified,,Q3305213,,
+Volmolen,Windmill,Q27533742,7,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Volmolen,Windmill,Q22041308,7,0,2,drawing van James Ensor,,Q93184,,
+Volmolen,Molenbeek-Saint-Jean,Q180775,7,0,2,"municipality in the Brussels-Capital Region, Belgium",Sint-Jans-Molenbeek|Molenbeek,Q493522|Q515,,Molenbeek-Saint-Jean
+Volmolen,Pieter de Molijn,Q28771,7,0,2,painter and engraver (1595-1661),"Pieter Molijn|Pieter de Molyn|Pieter de, the younger Molijn|Pieter de Moulin|Pieter Molyn|Pieter Moleyn|Peter Molijn|Pieter De Molijn|Pieter Pietersz. de Molijn|Moulyn|P. Maylin|Molyn|Mullin|Molien|old Moulines|Molyn Pietro|Pierre Molin|von der Mollen|Moulin|Dumolyn|Pr. Molijn|Molin Peter|P. Molijn|Petr. Mollyn|pieper molyn|P. Molyn|P. Moylyn|Moleyn|P. Molin|Mölling|Pierre Mollyn|V. Molyn|Moyln|P. Mollin|P. Moulyn|molyn pieter|old Molinus|Mollijn|Mulline|Pietter Molijn|P Molyn|p. molyn|Pet. Molyn|Pierre Molyn|d'oude Moulin|Molyns|P. Molen|P. Moulin|P. Mollyn|Molen|Molyne|Mollien|P.Molyn|Molinus|Peter Molyn|P. Moleyn|P. Molyus|P. Molyut|Molingue|Pierre De Moleyn|pet. marius molyn|Peeter Molyn|Moulijn|pieter de molyn|old Molinos|P. de Molyn|Old Molena|P. Moline|pieter molyn der altere|Moleijn|P. van Mollyn|Moline|Pierre Mollin|Moling|Peter Mollyn|Molin|Molyen|Molijn|Piter Molin|Molino|Peter Molin|P. du Moulyn|Pieter Molyn the Elder",Q5,,Pieter de Molijn
+Volmolen,Molenaar,Q2961642,7,0,2,family name,,Q101352,,Molenaar
+Volmolen,Molenlanden,Q42115473,7,0,2,municipality in the Netherlands,,Q2039348,,Molenlanden
+Volmolen,Molendoa,Q6896080,7,0,2,genus of plants,,Q16521,,Molendoa
+Volmolen,Molen,Q37541961,7,0,2,family name,,Q101352,,
+Volmolen,Molenweg,Q19349114,7,0,2,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Molenwaard,Q1943433,7,0,2,former municipality in the Netherlands,,Q2039348,,Molenwaard
+Volmolen,mill,Q44494,7,0,2,"device that breaks solid materials into smaller pieces by grinding, crushing, or cutting",grinding mill,,Q11019|Q1662011,Mill (grinding)
+Volmolen,Jan Miense Molenaer,Q759588,7,0,2,painter from the Northern Netherlands (1610–1668),Jan Mienze Molenaer|Jan Menisse Molenaer|Jan Miense Molynear|Jan Miense Molinaerdin|Jan Miense Molineer|Jan Miensz. Molenaer|Jan Miense Molineare|Johan Molenaer|Jan Miense Molinear|Jan Miense Molinaire|Jan Miense Molenaar|Jan Miense Molanear|Jan Miens Molenaer|Jan Miense Molinari|Jan Miense Molinare|Jan Miense Molinard|Jan Miense Molenaire|Jan Molinaer|Jan Mienisse Molenaar|Jan Miense Molinate|Johannes Molinaer|Jan Miense Molaneer|Jan Mynssen|Jan Miense Molinere|Jan Mieus Molenaer|Jan Miense Molenare|Jan Minse Molenaer|Jan Molenaer|Johannes Molenaer|Jan Mynse Molenaar|Meinsz Molenaer|Jan Miense Meulenaer|Jan Molenaer (I)|Johannes Miense Molenaer|Johannes Miensz. Molenaer|Molinare|J. Molenaer|Molinard peintre hollandois|J. Moliner|John Molener|Molinari|Jan Molienar|Jean Mienze Molenaer|J.N. Molenaer|Moliner|J. Miense Molenaer|J. Molnaert|J.M. Molenaar|Molinaer|Jan Miesse Molenaer|Meulenaer|Jan Miensze Molenaer|Jaques de Molenaer|Molenare|Molinaerdin|Jan Miense Moolenaar|Joh. Molinaer|Minssu Molenaer|Molinere|Jann Molenaar|M. Molenaer|J.B. Molenaer|Jan Mientse Molenaer|Mienze Molenaar|Johannis Molenaer|Molanear|Molinaire|Molynear|J. M. Molenaer|Mience Molneart|J. Moolenaar|Meulenaer Jean|J. M. Molinear|Moolenaar|Moelenner|Molineare|Johann Misso Molinaar|Jun Mis Mollenar|Mience Moolenaar|Molinear|Jan Mienze Molenaar|Molenaar|J. M. Moolenaar|Molenar|Jean Meulenaer|Molenair|Jan Mientz Molenaer|Jean Meinse Molenaer|J.Miense Molenaar|Mollineer|Jean Mollenaere|Jan Molinear|J. Moelenaer|Jan M. Molenaer|molenaer jan mienze|Jan Miensz Molenaer tot Haerlem|J. Molenaar|Jean Mins Molenaer|Molinner|Jan Micux Molenaer|J.M. Molenaer|Jean Molenaer|Molinaar|J. M. Molenaar|Moeleaner|J.M. Molenaert|J. M. Molinaer|molenaer jan miense|Molenaire|Jan Miense Molenar|Molineaur|J.-M. Molenaer|Jean Molenneer|jan miensse molenaer|Jean Molnaert|Jan Mijnssen|I.M. Molenaer|I. Molenaer|Mullenaer|Jan Molenaar|Molaneer|J. Miens Molenaer|Jean Minse Molenaer|Molinate|J. Molenaert|Mines Molenaer|Molinier|Jan Molinar|J.-M. Molenaert|jan m. molenaer|Molnaert|Molineer|J. Molinaer|Jan Miense Molenalr [Molenaer]|J. Melenaar|Molenaer|Jean Miense Molenaer|J.M. Moolenaar|Jan Meijnssen|Molingher|Jan Minnisse Molenaar|Jean M. Molenaer|molenaer jan miensze|Mollenaer|I. M. Molenaer|J: M: Molenaar|Jan M. Molenaar|Johann Minse Molenaer|Jean Minsen Molenaer,Q5,,Jan Miense Molenaer
+Tervuursevest,Tervuursevest,Q122944773,7,1,1,"street in Leuven, Belgium",,Q79007,,
+Tervuursevest,Volmolen,Q17613257,7,1,2,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Tervuursevest,Volmolen,Q19637843,7,1,2,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Tervuursevest,Volmolen,Q1838713,7,1,2,"watermill in Waalre, Netherlands",,Q185187,,
+Tervuursevest,Volmolen,Q108853993,7,1,2,,,Q493694,,
+Tervuursevest,Volmolen,Q14516295,7,1,2,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Tervuursevest,Volmolen,Q19637846,7,1,2,"street in Maastricht, the Netherlands",,Q79007,,
+Tervuursevest,Volmolen,Q21045580,7,1,2,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Tervuursevest,Volmolen,Q2167345,7,1,2,"watermill in Neerpelt, Belgium",,Q185187,,
+Tervuursevest,Volmolen,Q15883546,7,1,2,"watermill in Hoeselt, Belgium",,Q185187,,
+Tervuursevest,"Volmolen, Epen",Q1899804,7,1,2,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Leuven,Leuven,Q118958,7,2,1,"capital city of Flemish Brabant, Belgium",,Q15273785|Q493522|Q1549591,,Leuven
+Leuven,Leuven,Q21765562,7,2,1,"town in Leuven municipality, Belgium",Louvain,Q515|Q3957,,
+Leuven,Leuven,Q105534476,7,2,1,family name,,Q101352,,
+Leuven,Arrondissement of Leuven,Q93392,7,2,1,1 of 43 administrative arrondissements of Belgium,Leuven,Q91028,,Arrondissement of Leuven
+Leuven,Leuven railway station,Q801090,7,2,1,railway station in Belgium,,Q55488,,Leuven railway station
+Leuven,Leuven University Press,Q16930826,7,2,1,academic publisher,LUP,Q479716|Q43229,,Leuven University Press
+Leuven,Leuven,Q2784435,7,2,1,"hamlet in West Betuwe, Netherlands",,Q486972,,
+Leuven,Leuvense Bijdragen,Q15762825,7,2,1,journal,Leuvensche Bijdragen,Q5633421,,
+Leuven,Ludolf de Jongh,Q1990838,7,2,1,Dutch painter (1616-1679),Ludlof Jonghe|L. de Jongh|Ludolf De Jongh|Ludolph Jongh|De Jongh|Jongh|Lendertsz. de Jongh|Ludolf Lendertz de Jongh|Leuff de Jongh|De Jong|Lieve de Jongh|Ludolf Leendertsz de Jongh|Leuven de Jongh|Ludolf Lendertsz de Jongh|Ludolph|L. De Young|Ludolf Lenderts De Jongh|Jonghe|Ludolf Dejongh|Ludolph de Jongh|Ludolf De Young|L. de Jong|Leuff Jongh|Leuven De Jongh,Q5,,Ludolf de Jongh
+Leuven,"St. Peter's Church, Leuven",Q17722,7,2,1,"church in Leuven, Belgium",Magistral Church|Leuven St. Peter's Church,Q1509716,,"Saint Peter's Church, Leuven"
+Leuven,Katholieke Universiteit Leuven,Q833670,7,2,2,"University since 1968 with its main campus in Leuven, Belgium",University of Leuven|Catholic University of Leuven|KU Leuven|Katholieke Universiteit te Leuven|KULeuven|kuleuven.be,Q2120466|Q45400320|Q43229|Q2385804|Q557206|Q11986619,,KU Leuven
+Leuven,Old University of Leuven,Q693380,7,2,2,university in Leuven (Louvain) (founded 1425 - closed 1797),Studium Generale Lovaniense|University of Leuven (1425-1797),Q1083980|Q123602198|Q1143413,,Old University of Leuven
+Leuven,University of Leuven,Q7895626,7,2,2,Wikimedia disambiguation page,,Q4167410,,University of Leuven
+Leuven,KU Leuven. Imaging Lab,Q112958116,7,2,2,"digitisation of (documentary) heritage materials, focus on high-quality results",,Q43229|Q2366457,,
+Leuven,Catholic University of Leuven (1834–1968),Q644789,7,2,2,"former University in Belgium, 1834–1968",Catholic University of Louvain|UCL|KUL,Q557206|Q123602198,,Catholic University of Leuven (1834–1968)
+Leuven,KU Leuven Association,Q2901923,7,2,2,Belgian enterprise,Associatie KU Leuven,Q1622296,,KU Leuven Association
+Leuven,KU Leuven Libraries,Q1519139,7,2,2,"heritage library and research library of KU Leuven, Belgium",Academic Libraries Leuven|Leuven Academic Library System,Q856234,,Academic libraries in Leuven
+Leuven,KU Leuven person ID,Q26987402,7,2,2,identifier for a person in the Who's Who database of the Catholic University of Leuven,,Q36218176,,
+Leuven,KU Leuven Campus Brugge,Q15910096,7,2,2,"campus of KU Leuven in Brugge, Belgium",Kulab,Q209465,,
+Leuven,KU Leuven Art Heritage,Q132200930,7,2,2,Management of the art collection of KU Leuven,,Q2366457,,
+Leuven,KU Leuven Publication,Q108294467,7,2,2,,,Q2085381,,
+Leuven,KU Leuven open access policy,Q42297401,7,2,2,,,Q2000006,,
+Volmolen,Volmolen,Q17613257,8,0,1,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Volmolen,Volmolen,Q19637843,8,0,1,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Volmolen,Volmolen,Q1838713,8,0,1,"watermill in Waalre, Netherlands",,Q185187,,
+Volmolen,Volmolen,Q108853993,8,0,1,,,Q493694,,
+Volmolen,Volmolen,Q14516295,8,0,1,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Volmolen,Volmolen,Q19637846,8,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q21045580,8,0,1,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Volmolen,Volmolen,Q2167345,8,0,1,"watermill in Neerpelt, Belgium",,Q185187,,
+Volmolen,Volmolen,Q15883546,8,0,1,"watermill in Hoeselt, Belgium",,Q185187,,
+Volmolen,"Volmolen, Epen",Q1899804,8,0,1,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Volmolen,windmill,Q38720,8,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Volmolen,Windmill,Q8024279,8,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Volmolen,Windmill,Q6167950,8,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Volmolen,windmill,Q1954962,8,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Volmolen,Windmill,Q8024280,8,0,2,Helloween song,,Q105543609,,Windmill (song)
+Volmolen,Windmill,Q18668417,8,0,2,painting by Piet Mondrian,,Q3305213,,
+Volmolen,windmill,Q244568,8,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Volmolen,Windmill,Q20506236,8,0,2,painting by Unidentified,,Q3305213,,
+Volmolen,Windmill,Q27533742,8,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Volmolen,Windmill,Q22041308,8,0,2,drawing van James Ensor,,Q93184,,
+Volmolen,watermill,Q185187,8,0,2,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Volmolen,The watermill,Q20423793,8,0,2,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Volmolen,Watermill,Q28061441,8,0,2,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Volmolen,Watermill,Q111655320,8,0,2,painting by Meindert Hobbema,,Q3305213,,
+Volmolen,Watermill,Q41366430,8,0,2,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Volmolen,Watermill,Q111042963,8,0,2,painting by Petro Levchenko,,Q3305213,,
+Volmolen,Watermill Sint-Gertrudis-Pede,Q2351081,8,0,2,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Volmolen,Watermill,Q41249359,8,0,2,,,Q1516079|Q185187,,
+Volmolen,Watermill,Q76997818,8,0,2,painting by John Kelt Edwards,,Q3305213,,
+Volmolen,Watermill,Q56761054,8,0,2,painting by Jan van Goyen,,Q3305213,,
+Plantsoen-Noord,Plantsoen-Noord,Q19422179,8,1,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Plantsoen-Noord,Volmolen,Q17613257,8,1,2,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Plantsoen-Noord,Volmolen,Q19637843,8,1,2,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Plantsoen-Noord,Volmolen,Q1838713,8,1,2,"watermill in Waalre, Netherlands",,Q185187,,
+Plantsoen-Noord,Volmolen,Q108853993,8,1,2,,,Q493694,,
+Plantsoen-Noord,Volmolen,Q14516295,8,1,2,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Plantsoen-Noord,Volmolen,Q19637846,8,1,2,"street in Maastricht, the Netherlands",,Q79007,,
+Plantsoen-Noord,Volmolen,Q21045580,8,1,2,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Plantsoen-Noord,Volmolen,Q2167345,8,1,2,"watermill in Neerpelt, Belgium",,Q185187,,
+Plantsoen-Noord,Volmolen,Q15883546,8,1,2,"watermill in Hoeselt, Belgium",,Q185187,,
+Plantsoen-Noord,"Volmolen, Epen",Q1899804,8,1,2,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Plantsoen-Noord,Amersfoort,Q992,8,1,2,"municipality in the province of Utrecht, the Netherlands",,Q2039348,,Amersfoort
+Plantsoen-Noord,Amersfoort,Q33421377,8,1,2,"city in the municipality Amersfoort in the province of Utrecht, the Netherlands",,Q515|Q13539802|Q1852859,,
+Plantsoen-Noord,Kamp Amersfoort,Q119517,8,1,2,Nazi police and transit camp in the Netherlands,Durchgangslager Amersfoort|Amersfoort concentration camp,Q328468,,Kamp Amersfoort
+Plantsoen-Noord,Amersfoort,Q2553018,8,1,2,"place in Mpumalanga, South Africa",,Q3957,,"Amersfoort, Mpumalanga"
+Plantsoen-Noord,Amersfoort Central railway station,Q49854,8,1,2,railway station in the Dutch city of Amersfoort,Amersfoort railway station,Q55488,,Amersfoort Centraal railway station
+Plantsoen-Noord,Amersfoortsestraat,Q18934324,8,1,2,"street in Amersfoort, the Netherlands",,Q79007,,
+Plantsoen-Noord,Amersfoort,Q31870781,8,1,2,"airport in Mpumalanga, South Africa",,Q3631092,,
+Plantsoen-Noord,Amersfoort,Q103889982,8,1,2,encyclopedia article,,Q13433827,,
+Plantsoen-Noord,electoral district Amersfoort,Q134542820,8,1,2,electoral district in the Netherlands (1848-1918),,Q130377399,,
+Plantsoen-Noord,Kesteren - Amersfoort railway,Q2419552,8,1,2,former railway line in the Netherlands,Amersfoort - Kesteren railway,Q728937,,
+Amersfoort,Amersfoort,Q992,8,2,1,"municipality in the province of Utrecht, the Netherlands",,Q2039348,,Amersfoort
+Amersfoort,Amersfoort,Q33421377,8,2,1,"city in the municipality Amersfoort in the province of Utrecht, the Netherlands",,Q515|Q13539802|Q1852859,,
+Amersfoort,Kamp Amersfoort,Q119517,8,2,1,Nazi police and transit camp in the Netherlands,Durchgangslager Amersfoort|Amersfoort concentration camp,Q328468,,Kamp Amersfoort
+Amersfoort,Amersfoort,Q2553018,8,2,1,"place in Mpumalanga, South Africa",,Q3957,,"Amersfoort, Mpumalanga"
+Amersfoort,Amersfoort Central railway station,Q49854,8,2,1,railway station in the Dutch city of Amersfoort,Amersfoort railway station,Q55488,,Amersfoort Centraal railway station
+Amersfoort,Amersfoortsestraat,Q18934324,8,2,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Amersfoort,Amersfoort,Q31870781,8,2,1,"airport in Mpumalanga, South Africa",,Q3631092,,
+Amersfoort,Amersfoort,Q103889982,8,2,1,encyclopedia article,,Q13433827,,
+Amersfoort,electoral district Amersfoort,Q134542820,8,2,1,electoral district in the Netherlands (1848-1918),,Q130377399,,
+Amersfoort,Kesteren - Amersfoort railway,Q2419552,8,2,1,former railway line in the Netherlands,Amersfoort - Kesteren railway,Q728937,,
+Volmolen,Volmolen,Q17613257,9,0,1,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Volmolen,Volmolen,Q19637843,9,0,1,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Volmolen,Volmolen,Q1838713,9,0,1,"watermill in Waalre, Netherlands",,Q185187,,
+Volmolen,Volmolen,Q108853993,9,0,1,,,Q493694,,
+Volmolen,Volmolen,Q14516295,9,0,1,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Volmolen,Volmolen,Q19637846,9,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q21045580,9,0,1,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Volmolen,Volmolen,Q2167345,9,0,1,"watermill in Neerpelt, Belgium",,Q185187,,
+Volmolen,Volmolen,Q15883546,9,0,1,"watermill in Hoeselt, Belgium",,Q185187,,
+Volmolen,"Volmolen, Epen",Q1899804,9,0,1,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Hoeselt,Hoeselt,Q819152,9,2,1,"former municipality in Limburg, Belgium",,Q493522,,Hoeselt
+Hoeselt,Hoeselt,Q21767843,9,2,1,"town in Hoeselt municipality, Belgium",,Q532,,
+Hoeselt,Hoeselt railway station,Q14386408,9,2,1,railway station in Belgium,,Q55488,,
+Hoeselt,coat of arms of Hoeselt,Q42170213,9,2,1,,Hoeselt coat of arms,Q41505469,,
+Hoeselt,Hoeseltse Treinclub,Q106556712,9,2,1,,,Q15911314,,
+Hoeselt,Hoeseltse Geschiedkundige Studiegroep,Q106556698,9,2,1,,,Q5774403,,
+Hoeselt,Hoeselt VV,Q2190555,9,2,1,,,Q476028,,
+Hoeselt,Hoeselt,Q29437104,9,2,1,Wikimedia disambiguation page,,Q4167410,,
+Hoeselt,Volmolen,Q17613257,9,2,2,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Hoeselt,Volmolen,Q19637843,9,2,2,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Hoeselt,Volmolen,Q1838713,9,2,2,"watermill in Waalre, Netherlands",,Q185187,,
+Hoeselt,Volmolen,Q108853993,9,2,2,,,Q493694,,
+Hoeselt,Volmolen,Q14516295,9,2,2,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Hoeselt,Volmolen,Q19637846,9,2,2,"street in Maastricht, the Netherlands",,Q79007,,
+Hoeselt,Volmolen,Q21045580,9,2,2,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Hoeselt,Volmolen,Q2167345,9,2,2,"watermill in Neerpelt, Belgium",,Q185187,,
+Hoeselt,Volmolen,Q15883546,9,2,2,"watermill in Hoeselt, Belgium",,Q185187,,
+Hoeselt,"Volmolen, Epen",Q1899804,9,2,2,"watermill in Plaat near Epen, Netherlands",,Q185187,,

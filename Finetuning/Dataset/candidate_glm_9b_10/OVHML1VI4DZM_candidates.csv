@@ -1,0 +1,179 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Fuencarral,Fuencarral,Q2059161,0,0,1,Madrid Metro station,,Q928830|Q22808403,,Fuencarral (Madrid Metro)
+Fuencarral,Fuencarral,Q1059853,0,0,1,neighborhood,,Q123705|Q55863584,,Fuencarral
+Fuencarral,Fuencarral-El Pardo,Q656196,0,0,1,"8th city district of Madrid, Spain",Fuencarral-El Pardo District|District 8,Q3032114,,Fuencarral-El Pardo
+Fuencarral,Fuencarral station,Q8779819,0,0,1,"train station of Cercanías Madrid, Spain",,Q55488|Q1793804,,
+Fuencarral,cementerio de Fuencarral,Q28008573,0,0,1,,Fuencarral cemetery|Fuencarral graveyard,Q39614,,
+Fuencarral,Fuencarral-El Pardo District Municipal board,Q56190433,0,0,1,administrative institution (Madrid),JMD Fuencarral-El Pardo|Junta Municipal del Distrito de Fuencarral-El Pardo,Q3814115,,
+Fuencarral,Fuencarral antzokia (Madril),Q6139723,0,0,1,"Madrileko antzokia, desagertua",,Q24354|Q41253,,
+Fuencarral,Fuencarral-Colmenar Viejo railway line,Q132739283,0,0,1,former railway line of Spain,,Q728937,,
+Fuencarral,Fuencarral-El Pardo District Hall,Q131335504,0,0,1,"building in Madrid, Spain",,Q41176,,
+Fuencarral,Fuencarral El Pardo,Q127411726,0,0,1,written work by José María Sánchez Molledo,,Q47461344,,
+Fuencarral,calle de Fuencarral,Q5740840,0,0,2,street in Madrid,calle Fuencarral,Q79007,,Calle de Fuencarral
+Empalme,Empalme,Q2057577,1,0,1,Madrid Metro station,,Q928830|Q22808403,,Empalme (Madrid Metro)
+Empalme,Empalme Municipality,Q1678117,1,0,1,"municipality in the State of Sonora, Mexico",Empalme,Q1952852,,Empalme Municipality
+Empalme,Empalme,Q934086,1,0,1,"municipal seat of Empalme, State of Sonora, Mexico",,Q20202352,,"Empalme, Sonora"
+Empalme,Empalme Villa Constitución,Q2195040,1,0,1,human settlement in Argentina,Empalme Villa Constitucion,Q15284,,Empalme Villa Constitución
+Empalme,Empalme Lobos train station,Q5842132,1,0,1,train station in Argentina,,Q55488|Q55677,,
+Empalme,Empalme San Carlos train station,Q97176591,1,0,1,train station in Argentina,,Q55488|Q1147171,,
+Empalme,Empalme station,Q5405054,1,0,1,"railway station in Burjassot, Spain",,Q2175765|Q928830|Q22808404,,
+Empalme,empalme,Q5195536,1,0,1,tortilla sandwich originating in the Mexican state of Nuevo León,,,Q2095,Empalme (food)
+Empalme,Empalme train station,Q98060699,1,0,1,,,Q55488,,
+Empalme,railway junction,Q336764,1,0,1,place at which two or more rail routes converge or diverge,Railroad junction|rail junction|turnout,,Q124817561|Q1777515|Q228332,Junction (rail)
+Carabanchel,Carabanchel,Q2056760,2,0,1,Madrid Metro station,,Q928830|Q22808403,,Carabanchel (Madrid Metro)
+Carabanchel,Carabanchel,Q1001991,2,0,1,"11th city district of Madrid, Spain",Carabanchel District|District 11,Q3032114,,Carabanchel
+Carabanchel,Carabanchel Alto,Q2482617,2,0,1,Madrid Metro station,,Q928830|Q22808403,,Carabanchel Alto (Madrid Metro)
+Carabanchel,Carabanchel,Q125451739,2,0,1,written work by Pepe Rei,,Q47461344,,
+Carabanchel,Carabanchel,Q125451760,2,0,1,1995 edition of written work by Pepe Rei,,Q3331189,,
+Carabanchel,Carabanchel,Q127410383,2,0,1,2012 edition of written work by José María Sánchez Molledo,,Q3331189,,
+Carabanchel,Carabanchel Alto,Q3813766,2,0,1,"human settlement in Madrid Province, Community of Madrid, Spain",,Q55863584,,
+Carabanchel,Carabanchel Prison,Q3817241,2,0,1,former prison in Madrid,,Q40357,,Carabanchel Prison
+Carabanchel,Carabancheles,Q3813759,2,0,1,human settlement in Spain,,Q123705,,
+Carabanchel,Carabanchel District Municipal board,Q56192449,2,0,1,administrative institution (Madrid),JMD Carabanchel|Junta Municipal del Distrito de Carabanchel,Q3814115,,
+Sevilla,Seville,Q8717,3,0,1,"municipality of Andalusia, Spain","Seville, Spain|Ishbiliya|Ixbiliya",Q2074737,,Seville
+Sevilla,Sevilla,Q386388,3,0,1,municipality of the Philippines in the province of Bohol,"Sevilla, Bohol",Q24764,,"Sevilla, Bohol"
+Sevilla,Sevilla,Q2263673,3,0,1,Colombian municipality of the department of Valle del Cauca,Sevilla (Colombia),Q2555896,,"Sevilla, Valle del Cauca"
+Sevilla,Seville city,Q55893348,3,0,1,"human settlement in Seville, Seville Province, Andalusia, Spain",Seville|Sevilla|إِشْبِيلِيَة|city of Seville|Sevilla city|city of Sevilla,Q515|Q11939023|Q121289819|Q3055118,,
+Sevilla,Sevilla,Q2056503,3,0,1,Madrid Metro station,,Q928830|Q22808403,,Sevilla (Madrid Metro)
+Sevilla,Sevilla FC,Q10329,3,0,1,Spanish professional football club based in Seville,Sevilla|Sevilla Fútbol Club|Sevilla F.C.|Sevilla Football Club|SevillaFC|Sevilla Futbol Club|SevillaF.C.|SFC|S.F.C.,Q476028|Q20639856,,Sevilla FC
+Sevilla,Sevilla,Q37098807,3,0,1,family name,,Q101352,,Sevilla (surname)
+Sevilla,Sevilla FC,Q5647276,3,0,1,women's association football club,Sevilla FC Femenino,Q28140340,,Sevilla FC (women)
+Sevilla,San Pablo Airport,Q1344758,3,0,1,"international airport serving Seville, Spain",SVQ|LEZL|SEVILLA|Sevilla airport,Q644371|Q1248784|Q94993988,,Seville Airport
+Sevilla,Ishbiliya,Q116158888,3,0,1,"(713-1248) name of the current city of Seville in Spain, during the Muslim domination of the Iberian Peninsula",Ixbiliya|Sevilla|Seville|Ishbīliya|إِشْبِيلِيَة|Is̲h̲bīliya,Q15661340,,
+Sevilla,Sevilla Fc,Q1471336,3,0,2,"association football club in Seville,Spain",,Q476028,,IK Sirius Fotboll
+Sevilla,Sevilla FC Puerto Rico,Q3480842,3,0,2,"association football club based in Juncos, Puerto Rico",Sevilla PR,Q476028|Q15944511,,Sevilla FC Puerto Rico
+Sevilla,Sevilla FC,Q20978060,3,0,2,football club,,Q15944511,,Sevilla FC (youth)
+Sevilla,Sevilla FC C,Q9076584,3,0,2,football club,,Q476028|Q2412834,,Sevilla FC C
+Sevilla,Sevilla FC,Q2217285,3,0,2,,,Q12973014,,Sevilla FC (Superleague Formula team)
+Sevilla,Sevilla FC in European football,Q2263501,3,0,2,Wikimedia list article,,Q13406463,,Sevilla FC in European football
+Sevilla,Sevilla FC player list,Q109452734,3,0,2,Wikimedia list article,,Q13406463,,
+Sevilla,Sevilla FC in European football,Q39058432,3,0,2,Wikimedia list article,,Q13406463,,
+Sevilla,Sevilla City,Q6126459,3,0,2,2005 film,,Q11424,,
+Sevilla,Seville City Hall,Q5047899,3,0,2,"City hall and cultural property in Sevilla, Spain",Seville Town Hall|Sevilla City Hall|Cilly Hall of Seville|Cilly Hall of Sevilla,Q112793351,,Seville City Hall
+Partizanskaya,Partizanskaya,Q2054979,4,0,1,Moscow Metro station,,Q928830|Q22808403|Q2319498,,Partizanskaya (Moscow Metro)
+Partizanskaya,Partizanskaya,Q4345852,4,0,1,"railway station in Moscow Oblast, Russia",Partizanskaya station|Partizanskaya railway station,Q55488,,
+Partizanskaya,Partizanskaya River,Q2994565,4,0,1,river in Russia,,Q4022,,Partizanskaya (river)
+Partizanskaya,Partizanskaya,Q36201446,4,0,1,river in Russia,,Q4022,,
+Partizanskaya,Partizanskaya,Q122768351,4,0,1,ship built in 1974,IMO 7352220,Q11446,,
+Partizanskaya,"Partizanskaya Street, Kazan",Q4345874,4,0,1,street in Russia,,Q79007,,
+Partizanskaya,Partizanskaya Street,Q4345876,4,0,1,"street in Kuntsevo District, Russia",,Q79007,,
+Partizanskaya,Partizanskaya Street,Q4345880,4,0,1,"street in Saint Petersburg, Russia",,Q79007,,
+Partizanskaya,Partizanskaya polyana,Q4290230,4,0,1,,,Q575759,,
+Partizanskaya,"Partizanskaya Street 28, Moscow",Q132497146,4,0,1,building in Moscow,,Q13402009,,
+157th Street,157th Street,Q2049816,5,0,1,New York City IRT Broadway – Seventh Avenue Line subway station,,Q928830|Q22808403,,157th Street station
+157th Street,157th Street,Q2783308,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Ono Station,Ono Station,Q2042578,6,0,1,"metro station in Kyoto, Kyoto prefecture, Japan",,Q928830|Q22808403,,Ono Station (Kyoto)
+Ono Station,Ono Station,Q5364270,6,0,1,"railway station in Otsu, Shiga prefecture, Japan",,Q55488|Q11670533,,Ono Station (Shiga)
+Ono Station,Ono Station,Q7094420,6,0,1,"railway station in Ono, Hyogo prefecture, Japan",,Q55488,,Ono Station (Hyōgo)
+Ono Station,Ono Station,Q7094422,6,0,1,"railway station in Tatsuno, Kamiina district, Nagano prefecture, Japan",,Q55488|Q4312270|Q105038730|Q122397434|Q123094976|Q332496,,Ono Station (Nagano)
+Ono Station,Ono Station,Q11464116,6,0,1,"railway station in Isahaya, Nagasaki prefecture, Japan",Ono-Honmachi Station,Q55488|Q4312270|Q85882206,,Ono Station (Nagasaki)
+Ono Station,Ono Station,Q11464301,6,0,1,"former railway station in Kawanabe, Kawanabe district, Kagoshima prefecture, Japan",,Q4663385,,
+Ono Station,Ōno Station,Q8081664,6,0,1,"railway station in Okuma, Futaba district, Fukushima prefecture, Japan",,Q55488|Q4312270|Q85882206|Q2142091,,Ōno Station (Fukushima)
+Ono Station,Ono Station,Q846140,6,0,1,Wikimedia disambiguation page,,Q4167410,,Ono Station
+23rd Street,23rd Street–Baruch College station,Q2033264,7,0,1,local station on the IRT Lexington Avenue Line,,Q928830|Q22808403,,23rd Street–Baruch College station
+23rd Street,23rd Street,Q118599,7,0,1,street in Manhattan,,Q79007,,23rd Street (Manhattan)
+23rd Street,23rd Street,Q2478033,7,0,1,local station on the IRT Broadway – Seventh Avenue Line,,Q928830|Q22808403,,23rd Street station (IRT Broadway–Seventh Avenue Line)
+23rd Street,23rd Street,Q2478345,7,0,1,local station on the IND Sixth Avenue Line,,Q928830|Q22808403,,23rd Street station (IND Sixth Avenue Line)
+23rd Street,23rd Street,Q2528147,7,0,1,local station on the BMT Broadway Line,,Q928830|Q22808403,,23rd Street station (BMT Broadway Line)
+23rd Street,23rd Street,Q2612610,7,0,1,local station on the IND Eighth Avenue Line,,Q928830|Q22808403,,23rd Street station (IND Eighth Avenue Line)
+23rd Street,LATTC/Ortho Institute,Q196320,7,0,1,Los Angeles Metro station,23rd Street|Los Angeles Trade-Technical College/Orthopaedic Institute for Children,Q2175765|Q22808404,,LATTC/Ortho Institute station
+23rd Street,23rd Street,Q4631704,7,0,1,PATH station,,Q928830|Q22808403,,23rd Street station (PATH)
+23rd Street,McCormick Place,Q6800577,7,0,1,"Train station in Chicago, Illinois, USA",23rd Street,Q55488|Q22808403,,McCormick Place station
+23rd Street,23rd Street,Q4631699,7,0,1,side platformed Sacramento RT light rail station,,Q2175765|Q22808404,,23rd Street station (Sacramento)
+J.F. Kennedy,J.F. Kennedy,Q2030147,8,0,1,"Name of the course located nearby, is a station on the line is the subway of Rennes",,Q928830|Q55491|Q22808403|Q20202072,,
+J.F. Kennedy,J.F. Kennedy,Q52753347,8,0,1,"primary school in Conegliano, Treviso, Veneto, Italy",,Q9842,,
+J.F. Kennedy,John F. Kennedy,Q9696,8,0,1,president of the United States from 1961 to 1963 (1917–1963),"Kennedy|President Kennedy|John Fitzgerald Kennedy|John Fitzgerald ""Jack"" Kennedy|JF Kennedy|John F Kennedy",Q5,,John F. Kennedy
+J.F. Kennedy,J.F. Kennedylaan,Q19273215,8,0,1,"street in Baarn, the Netherlands",,Q79007,,
+J.F. Kennedy,J.F. Kennedy - Ruino,Q52826108,8,0,1,primary school in Ruino in the province of Pavia (Italy) [school id: PVMM800038],,Q57775518,,
+J.F. Kennedy,J.F. Kennedy Branch,Q69861578,8,0,1,"public library in Gary, Indiana, USA",,Q11396180|Q28564,,
+J.F. Kennedy,J.F. Kennedystraat,Q19273220,8,0,1,"street in Groningen, the Netherlands",,Q79007,,
+J.F. Kennedy,J.F. Kennedylaan,Q19273217,8,0,1,"street in Breda, the Netherlands",,Q79007,,
+J.F. Kennedy,J.F. Kennedylaan,Q19273219,8,0,1,"street in Velden, the Netherlands",,Q79007,,
+J.F. Kennedy,J.F. Kennedylaan,Q19273218,8,0,1,"street in Geldermalsen, the Netherlands",,Q79007,,
+J.F. Kennedy,John F. Kennedy,Q240666,8,0,2,2019 Gerald R. Ford-class aircraft carrier,CVN-79|USS John F. Kennedy|PCU John F. Kennedy,Q1186981|Q23134646,,USS John F. Kennedy (CVN-79)
+J.F. Kennedy,John F. Kennedy School of Government,Q49127,8,0,2,school of public administration of Harvard University,HKS|Harvard University Kennedy School of Government|Harvard Kennedy School|Harvard Kennedy School of Government|John Fitzgerald Kennedy School of Government|Kennedy School of Government|John F Kennedy School of Government|Kennedy School,Q423208|Q11391922|Q20820271,,Harvard Kennedy School
+J.F. Kennedy,John F. Kennedy Jr.,Q316064,8,0,2,American attorney and magazine publisher (1960–1999),"John-John|JFK Jr.|John Fitzgerald Kennedy Jr.|John F. Kennedy, Jr.|John Kennedy Jr.",Q5,,John F. Kennedy Jr.
+J.F. Kennedy,John F. Kennedy International Airport,Q8685,8,0,2,"international airport in New York, United States",KJFK|JFK International Airport|JFK|Kennedy International|New York International Airport|Kennedy International Airport|JFK Airport|Idlewild Airport|Idlewild International Airport,Q644371|Q94993988,,John F. Kennedy International Airport
+J.F. Kennedy,John F. Kennedy Presidential Library and Museum,Q2007919,8,0,2,"presidential library and museum for U.S. President John F. Kennedy in Boston, Massachusetts","Kennedy Library|Kennedy Presidential Library|JFK Library|JFK Presidential Library|John Fitzgerald Kennedy Library Boston, Massachusetts|jfklibrary.org",Q33506|Q7075,,John F. Kennedy Presidential Library and Museum
+J.F. Kennedy,John F. Kennedy Center for the Performing Arts,Q1631981,8,0,2,"performing arts center in Washington, D.C., United States",The Trump Kennedy Center|The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts|Kennedy Center|John F. Kennedy Memorial Center for the Performing Arts|John F Kennedy Center for the Performing Arts|The Kennedy Center for the Performing Arts|JFK Center for the Performing Arts,Q3469910|Q8719053|Q163740,,Kennedy Center
+J.F. Kennedy,John F. Kennedy Assassination Related Recordings and Transcripts (NAID 187143),Q63908545,8,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+J.F. Kennedy,John F. Kennedy,Q47512681,8,0,2,painting by René Robert Bouché,,Q3305213,,
+J.F. Kennedy,John F. Kennedy,Q47512747,8,0,2,painting by Robert Vickrey,,Q3305213,,
+J.F. Kennedy,John F. Kennedy Jr. plane crash,Q6232326,8,0,2,1999 aircraft crash that resulted in the death of John F. Kennedy Jr.,"John F. Kennedy Jr plane crash|John F. Kennedy, Jr plane crash|John F. Kennedy, Jr. plane crash|1999 Martha's Vineyard plane crash",Q744913,,1999 Martha's Vineyard plane crash
+J.F. Kennedy,John F. Kennedy Jr. School,Q124978456,8,0,2,"school in Elmhurst, Queens, New York, United States",,Q3914,,
+Troparyovo,Troparyovo,Q2027823,9,0,1,Moscow Metro station,Troparevo,Q928830|Q3510579|Q22808403,,Troparyovo
+Troparyovo,Troparyovo,Q4463751,9,0,1,former village amalgamated by Moscow,,Q20968646,,
+Troparyovo,Troparyovo-Nikulino District,Q1963109,9,0,1,human settlement in Russia,,Q4389092,,Troparyovo-Nikulino District
+Troparyovo,flag of Troparyovo-Nikulino District,Q4488110,9,0,1,,Troparyovo-Nikulino District flag,Q21850100,,
+Prince Street,Prince Street,Q2027571,10,0,1,New York City BMT Broadway Line subway station,,Q928830|Q22808403,,Prince Street station
+Prince Street,Prince Street,Q19697837,10,0,1,"street in SoHo, Lower Manhattan, New York City, USA",Prince Street (Manhattan),Q79007,,Prince Street (Manhattan)
+Prince Street,Prince Street,Q54622119,10,0,1,television series,,Q5398426,,Prince Street (TV series)
+Prince Street,Prince Street,Q109590749,10,0,1,street in the London Borough of Lewisham,"Prince Street, Deptford",Q79007,,Prince Street
+Prince Street,Prince Street,Q87749049,10,0,1,"street in Cambridge, Massachusetts","Prince Street (Cambridge, Massachusetts)|Prince St|Prince Street, Cambridge, Massachusetts",Q79007,,
+Prince Street,Prince Street,Q131862843,10,0,1,"street in Halifax, Nova Scotia, Canada","Prince Street, Halifax|Prince St.|Prince St",Q79007,,
+Prince Street,Prince Street,Q137270657,10,0,1,"street in Truro, Nova Scotia, Canada","Prince Street, Truro",Q79007,,
+Prince Street,Prince Street Bridge,Q23302022,10,0,1,"bridge in Bristol, England, UK",,Q12280,,Prince Street Bridge
+Prince Street,Prince Street Synagogue,Q7244250,10,0,1,,,Q34627,,Prince Street Synagogue
+Prince Street,"Prince Street Granite Works,",Q110969976,10,0,1,granite yard in Aberdeen,,Q110969408,,
+Higashiyama Station,Higashiyama / Okaden Museum Station,Q11526756,11,0,1,"tram station in Okayama, Okayama prefecture, Japan",Higashiyama Station,Q2175765|Q20202072,,
+Higashiyama Station,Higashiyama Station,Q864612,11,0,1,"defunct railway station in Hokkaido, Japan",,Q55488|Q4663385|Q106772341|Q4312270|Q85882206|Q4346602,,Higashiyama Station (Hokkaido)
+Higashiyama Station,Higashiyama Station,Q2025937,11,0,1,"metro station in Kyoto, Kyoto prefecture, Japan",,Q928830|Q22808403,,Higashiyama Station (Kyoto)
+Higashiyama Station,Higashiyama Station,Q5754159,11,0,1,"railway station in Ikoma, Nara prefecture, Japan",Takeyama Station,Q55488|Q8015548,,Higashiyama Station (Nara)
+Higashiyama Station,Higashiyama Station,Q430412,11,0,1,Wikimedia disambiguation page,,Q4167410,,Higashiyama Station
+Diamant premetro station,Diamant premetro station,Q2020435,12,0,1,"premetro station in Antwerp, Belgium",Diamant (Antwerp premetro station),Q22808403|Q2175765,,Diamant (Antwerp premetro station)
+Diamant premetro station,Diamant premetro station,Q1903152,12,0,1,"underground tram station in Schaerbeek, Brussels, Belgium",,Q2175765|Q22808403,,Diamant premetro station
+Pinar del Rey,Pinar del Rey,Q2018370,13,0,1,Madrid Metro station,,Q928830|Q22808403,,Pinar del Rey (Madrid Metro)
+Pinar del Rey,Pinar del Rey,Q10349788,13,0,1,neighborhood in Madrid,,Q10267336,,Pinar del Rey (Madrid)
+Pinar del Rey,Pinar del Rey,Q5656438,13,0,1,"public park in San Roque, Cádiz, Spain",,Q1286517,,Pinar del Rey (park)
+Pinar del Rey,Pinar del Rey,Q97616884,13,0,1,"archaeological site in San Roque, Spain",,Q839954,,
+Pinar del Rey,Pinar del Rey II,Q97619259,13,0,1,"archaeological site in San Roque, Spain",,Q839954|Q839954|Q839954|Q839954,,
+Pinar del Rey,Pinar del Rey,Q27792567,13,0,1,Wikimedia disambiguation page,,Q4167410,,Pinar del Rey
+Avtovo,Avtovo,Q2016654,14,0,1,"metro station in Saint Petersburg, Russia",,Q928830|Q22808403|Q2319498,,Avtovo (Saint Petersburg Metro)
+Avtovo,Avtovo,Q4056185,14,0,1,,Avtovo municipality,Q27587207,,
+Avtovo,Avtovo,Q840908,14,0,1,"historical district of St Petersburg, Russia",,Q15243209,,
+Avtovo,Avtovo,Q4056186,14,0,1,,,Q4530848,,
+Avtovo,Avtovo,Q4056184,14,0,1,railway station,,Q55488,,
+Avtovo,Saint Petersburg Central Bus Terminal,Q20503067,14,0,1,,Avtovokzal,Q494829,,
+Avtovo,Avtovo CHP-15,Q4056193,14,0,1,"Power plant in St Petersburg, Russia",,Q200297,,Avtovo CHP-15
+Avtovo,Avtovo tram viaduct (Kronstadtsky),Q18755208,14,0,1,,,Q1425560,,
+Avtovo,Avtovo overpass,Q18755196,14,0,1,overpass,,Q537127,,
+Avtovo,Avtovo Residential Complex,Q124287027,14,0,1,,,Q2319498,,
+Neftchilar,Neftchilar,Q2008806,15,0,1,"metro station in Baku, Azerbaijan",Neftçilər,Q928830|Q22808403,,Neftchilar (Baku Metro)
+Neftchilar,Neftchilar,Q55701055,15,0,1,painting by Tofiq Cavadov,Neftçilər,Q3305213,,
+Neftchilar,Neftchilar Avenue,Q4381302,15,0,1,"street in Baku, Azerbaijan",Neftçilər prospekti,Q79007,,Neftchiler Avenue
+Neftchilar,Neftchilar,Q126083964,15,0,1,settlement in Uzbekistan,,Q486972,,
+Lavalle,Lavalle,Q5244845,16,0,1,metro station in Buenos Aires,,Q928830|Q22808403,,Lavalle (Buenos Aires Underground)
+Lavalle,Lavallée,Q1159534,16,0,1,"commune in Meuse, France",,Q484170,,Lavallée
+Lavalle,Lavallé,Q110722738,16,0,1,family name,,Q101352,,
+Lavalle,Lavalle,Q25114515,16,0,1,family name,,Q101352,,Lavalle (surname)
+Lavalle,Lavalle,Q1016026,16,0,1,human settlement,,Q15284,,"Lavalle, Corrientes"
+Lavalle,Lavalleja Department,Q460435,16,0,1,department of Uruguay,,Q56059,,Lavalleja Department
+Lavalle,Death Valley,Q118388,16,0,1,"desert basin in Inyo and San Bernadino counties in California, United States",Amargosa Desert|Armuyosa Desert|Kunayiwaavi|LaVallee De Mort|Lost Valley|Mesquite Valley|Mound Spring Valley|North Arm|Northwestern Arm|Todestal|Tonesha|Tumpisa,Q813672|Q39816|Q192810|Q8514,,Death Valley
+Lavalle,Lavalle Department,Q426743,16,0,1,department located in the northeast of Mendoza Province in Argentina,"Lavalle Department, Mendoza",Q952274|Q15284,,"Lavalle Department, Mendoza"
+Lavalle,Lavallee,Q6502317,16,0,1,family name,,Q101352,,Lavallee
+Lavalle,Lavalle,Q2527179,16,0,1,"locality in Santiago del Estero and Catamarca provinces, Argentina","Lavalle, Santiago del Estero",Q15284|Q486972,,"Lavalle, Santiago del Estero"
+Vila Madalena,Vila Madalena,Q5244825,17,0,1,"metro station in São Paulo, Brazil",,Q928830|Q22808403,,Vila Madalena (São Paulo Metro)
+Vila Madalena,Vila Madalena,Q7312252,17,0,1,Human settlement in Brazil,,Q1797194|Q19886692,,Vila Madalena
+Vila Madalena,Vila Madalena,Q9093663,17,0,1,telenovela,,Q5398426,,Vila Madalena (TV series)
+Vila Madalena,Marechal Deodoro,Q985275,17,0,1,"municipality of Alagoas state, Brazil",,Q3184121,,"Marechal Deodoro, Alagoas"
+Vila Madalena,Vila Madalena,Q20047673,17,0,1,Wikimedia disambiguation page,,Q4167410,,
+Jabaquara,Jabaquara District,Q10304645,18,0,1,District of São Paulo city,Jabaquara,Q18559008,,Jabaquara (district of São Paulo)
+Jabaquara,Jabaquara,Q5244789,18,0,1,"metro station in São Paulo, Brazil",,Q928830|Q22808403,,Jabaquara-Comitê Paralímpico Brasileiro (São Paulo Metro)
+Jabaquara,Jabaquara,Q10304643,18,0,1,human settlement in Brazil,,Q19886692,,
+Jabaquara,Quilombo do Jabaquara,Q135990261,18,0,1,Comunidade quilombola no Brasil imperial,Jabaquara,Q1415423,,
+Jabaquara,Jabaquara Atlético Clube,Q6109998,18,0,1,Brazilian football team,Jabaquara Atletico Clube,Q476028,,Jabaquara Atlético Clube
+Jabaquara,Jabaquara Intermunicipal Terminal,Q6109994,18,0,1,bus terminal in São Paulo,,Q494829,,Jabaquara Intermunicipal Terminal
+Jabaquara,Jabaquara Beach,Q25442662,18,0,1,,,Q40080,,
+Jabaquara,Subprefecture of Jabaquara,Q4262104,18,0,1,administrative division of Sâo Paulo city,Regional Prefecture of Jabaquara,Q19886676,,Subprefecture of Jabaquara
+Jabaquara,Jabaquara,Q10304642,18,0,1,human settlement in Brazil,,Q123705,,
+Jabaquara,Jabaquara,Q20818346,18,0,1,Wikimedia disambiguation page,,Q4167410,,Jabaquara
+Corrientes,Corrientes Province,Q44758,19,0,1,province of Argentina,,Q44753,,Corrientes Province
+Corrientes,Corrientes,Q5172974,19,0,1,metro station in Buenos Aires,,Q928830|Q22808403,,Corrientes (Buenos Aires Underground)
+Corrientes,Corrientes,Q44211,19,0,1,"capital of the province of Corrientes, Argentina","Corrientes, Argentina",Q5770918|Q15284,,Corrientes
+Corrientes,Corrientes River,Q19421171,19,0,1,river in Peru,Río Corrientes,Q4022,,Corrientes River
+Corrientes,Corrientes train station,Q5841804,19,0,1,train station in Argentina,,Q4663385,,
+Corrientes,Corrientes Avenue,Q790459,19,0,1,"thoroughfare in Buenos Aires, Argentina, main street of the city's nightlife and theatre district",,Q7543083|Q369730,,Avenida Corrientes
+Corrientes,Athena,Q83582643,19,0,1,ship built in 2010,Corrientes|IMO 9419254,Q11446,,
+Corrientes,Corrientes,Q61734521,19,0,1,painting by H. Petersen,,Q3305213,,
+Corrientes,ARA Corrientes,Q5653815,19,0,1,1897 Corrientes-class destroyer,Corrientes,Q174736,,
+Corrientes,SS Corrientes,Q15803911,19,0,1,steamship (1881),Corrientes,Q178193,,

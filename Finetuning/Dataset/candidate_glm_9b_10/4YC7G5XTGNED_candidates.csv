@@ -1,0 +1,43 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+D2 motorway,D2 motorway,Q900753,0,0,1,Czech motorway,D2,Q46622,,D2 motorway (Czech Republic)
+D2 motorway,D2 motorway,Q900758,0,0,1,motorway in Slovakia,D2 (motorway in Slovakia)|Dialnica D2,Q34442,,D2 motorway (Slovakia)
+D2 motorway,D2 motorway,Q43944244,0,0,1,Wikimedia disambiguation page,,Q4167410,,D2 motorway
+D2 motorway,M25 motorway,Q19872,0,0,2,circular motorway outlining most of London,London Orbital Motorway|M25,Q2154027,,M25 motorway
+D2 motorway,M25 motorway,Q839075,0,0,2,road in Hungary,,Q34442|Q159184,,M25 expressway (Hungary)
+A17 motorway,A17 motorway,Q847531,1,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A17 motorway (Netherlands)
+A17 motorway,A17 motorway,Q785094,1,0,1,motorway in Belgium,A17,Q26792858,,
+A17 motorway,A17 motorway,Q96185109,1,0,1,road in Switzerland,,Q34442,,
+A17 motorway,A17 motorway,Q786493,1,0,1,road in Portugal,,Q46622,,
+A17 motorway,A17 autoroute,Q98783297,1,0,1,motorway in France,A17|A17 motorway,Q57448432|Q46622,,
+A17 motorway,A17 road,Q862436,1,0,2,road in East Midlands and East of England,A17,Q18019452,,A17 road (England)
+A17 motorway,A17 road,Q104880406,1,0,2,"road in Jersey, Channel Islands",,Q34442,,A17 road (Jersey)
+A17 motorway,A17 road,Q1742811,1,0,2,road in Kazakhstan,,Q34442,,
+A17 motorway,A17 road,Q138566746,1,0,2,road on the Isle of Man,,Q34442,,
+A29 motorway,A29 motorway,Q847373,2,0,1,motorway in the Netherlands,,Q46622|Q2056881,,A29 motorway (Netherlands)
+A29 motorway,A29 autoroute,Q176069,2,0,1,road in France,A29|A29 motorway,Q46622,,A29 autoroute
+A29 motorway,A29 motorway,Q786565,2,0,1,road in Portugal,,Q46622,,
+A29 motorway,A29 motorway,Q389388,2,0,1,motorway in Greece,A29 (Greece)|A29 motorway (Greece)|Motorway 29|Motorway 29 (Greece),Q46622|Q34442,,A29 motorway (Greece)
+A29 motorway,A29 road,Q4649083,2,0,2,road in Northern Ireland,,Q34442,,A29 road (Northern Ireland)
+A29 motorway,A29 road,Q4649084,2,0,2,road in England,A29,Q18019452,,A29 road
+A29 motorway,A29 road,Q1525942,2,0,2,road in Kazakhstan,,Q34442,,
+A29 motorway,A29 road,Q138567329,2,0,2,road on the Isle of Man,,Q34442,,
+D4 motorway,D4 motorway,Q825605,3,0,1,Czech motorway,,Q46622,,D4 motorway (Czech Republic)
+D4 motorway,D4 motorway,Q1209288,3,0,1,motorway in Slovakia,D4 (motorway in Slovakia)|Dialnica D4|Bratislava bypass,Q34442,,D4 motorway (Slovakia)
+D4 motorway,Lužný most,Q106991493,3,0,1,D4 motorway bridge over Danube in Bratislava,,Q43514341|Q12280,,Lužný most
+D4 motorway,D4 motorway,Q43944261,3,0,1,Wikimedia disambiguation page,,Q4167410,,D4 motorway
+Atlantic City Expressway,Atlantic City Expressway,Q811484,4,0,1,"state highway in Gloucester. Camden, and Atlantic counties in New Jersey, United States, that is a freeway toll road",AC Expressway|New Jersey Route 446,Q34442|Q16939396|Q46622,,Atlantic City Expressway
+Atlantic City Expressway,Atlantic City Expressway,Q5710882,4,0,1,band,The Rest,Q215380,,
+M8 motorway,M8 Motorway,Q1881080,5,0,1,Motorway in Scotland,M8,Q46622,,M8 motorway (Scotland)
+M8 motorway,M8 motorway,Q789502,5,0,1,road in Hungary,,Q46622|Q34442,,M8 motorway (Hungary)
+M8 motorway,M8 motorway,Q10858021,5,0,1,motorway in Ireland,E201,Q34442,,M8 motorway (Ireland)
+M8 motorway,M8 Motorway,Q96391184,5,0,1,"motorway in Sydney, Australia",,Q46622|Q136037963|Q16939396|Q1302778,,M8 Motorway (Sydney)
+M8 motorway,M8 Motorway Bridge 21a,Q138454896,5,0,1,,,Q537127,,
+M8 motorway,M-8 motorway,Q84004,5,0,1,motorway in Pakistan,M-8,Q46622,,M-8 motorway (Pakistan)
+M8 motorway,M8 motorway,Q6713961,5,0,1,Wikimedia disambiguation page,,Q4167410,,M8 motorway
+M7 motorway,M7 motorway,Q789500,6,0,1,road in Hungary,,Q34442|Q159184,,M7 motorway (Hungary)
+M7 motorway,M7 motorway,Q3775884,6,0,1,motorway in Ireland,,Q34442,,M7 motorway (Ireland)
+M7 motorway,Westlink M7,Q2485091,6,0,1,"motorway in Sydney, New South Wales",Western Sydney Orbital|M7 Motorway,Q34442,,Westlink M7
+M7 motorway,M-7 motorway,Q1950015,6,0,1,road in Pakistan,M-7,Q46622,,M-7 motorway (Pakistan)
+M7 motorway,M7 motorway,Q6713932,6,0,1,Wikimedia disambiguation page,,Q4167410,,M7 motorway
+M60 motorway,M60 motorway,Q1629418,7,0,1,motorway in Greater Manchester,,Q2154027,,M60 motorway (Great Britain)
+M60 motorway,M60 motorway,Q789490,7,0,1,road in Hungary,,Q34442|Q46622,,M60 motorway (Hungary)

@@ -1,0 +1,79 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+iPTH 14gw,Ipthausen,Q16319512,0,0,2,human settlement in Germany,,Q253019,,
+iPTH 14gw,"iPTH values during hemodialysis: role of ionized Ca, dialysis membranes and iPTH assays",Q44009422,0,0,2,scientific article published in August 1990,,Q13442814,,
+iPTH 14gw,iPTH Treatment Guidelines for Caucasian versus African-American Hemodialysis Patients,Q80627899,0,0,2,scientific article published on 01 July 2007,,Q13442814,,
+iPTH 14gw,IPTH dosage as a prognosis predictor of postoperatory hypocalcemia in patients submitted to total thyroidectomy,Q84396722,0,0,2,scientific article published on 01 March 2011,,Q13442814,,
+iPTH 14gw,IPTH cost-effectiveness in thyroid surgery.,Q41485635,0,0,2,scientific article published on August 2017,,Q13442814,,
+iPTH 14gw,14GW  (BRIN-nummer),Q22805032,0,0,2,primary school,,Q9842,,
+iPTH 14gw,parathyroid hormone,Q202476,0,0,2,mammalian protein found in Homo sapiens,parathyroid hormone 1|parathormone|parathyrin|PTH|preproparathyroid hormone|prepro-PTH|Parathyroid hormone,Q8054|Q11364,,Parathyroid hormone
+iPTH 14gw,PTRH2,Q18040480,0,0,2,protein-coding gene in the species Homo sapiens,BIT1|CFAP37|PTH2|CGI-147|IMNEPD|PTH|PTH 2|peptidyl-tRNA hydrolase 2,Q7187,Q20747295,
+iPTH 14gw,Pthirus pubis,Q381271,0,0,2,species of insect,pubic louse|crab louse|Phthirus pubis,Q16521,,Crab louse
+iPTH 14gw,Perth railway station,Q302555,0,0,2,"railway station in Perth, Perth and Kinross, Scotland, UK","Perth, Leonard Street, General Railway Station|PTH",Q55488|Q55677,,Perth railway station (Scotland)
+iPTH 14gw,Preotact,Q7240593,0,0,2,pharmaceutical drug,PTH|rPTH(1-84)|Parathyrin|Parathormone (human recombinant)|Parathormone|PTH(1-84)|Parathyroid hormone|hPTH(1-84)|hPTH|Parathyroid hormone (r.E.coli)|rhPTH(1-84)|rhPTH|rPTH,Q113145171,Q11173,Preotact
+iPTH 14gw,PTH,Q14860476,0,0,2,protein-coding gene in the species Homo sapiens,PTH1|parathyroid hormone|Parathyroid hormone|FIH1,Q7187,Q20747295,
+iPTH 14gw,Parathyroid hormone,Q29532173,0,0,2,mammalian protein found in Mus musculus,Pth|parathyroid hormone,Q8054,,
+iPTH 14gw,Pth,Q14860477,0,0,2,protein-coding gene in the species Mus musculus,parathyroid hormone|Pthp,Q7187,Q20747295,
+iPTH 14gw,Penarth Branch (including Cadoxton Goods Branch),Q113993747,0,0,2,section of railway line in the UK,PTH,Q113990375,,
+iPTH 14gw,Parathyroid hormone,Q24738532,0,0,2,InterPro Family,PTH|IPR003625,Q417841,Q24739381,
+SN 201ac,,,1,0,0,,,,,
+SN 2111ep,,,2,0,0,,,,,
+SN 1;97M,SN 1987A,Q584905,3,0,2,supernova,NAME SNR 1987A,Q3937|Q6243|Q67206691|Q2154519|Q71962386|Q72802977|Q207436,,SN 1987A
+SN 1;97M,S Andromedae,Q546708,3,0,2,"supernova in the Andromeda Galaxy, spotted by mankind in August 1885",Supernova 1885|S And|SN 1885A|NOVA And 1885|Nova RJC99 Sep-95|HR 182|AAVSO 0037+40|TIC 438234291,Q3937|Q6458|Q2154519|Q207436|Q67206785|Q6243|Q1059564|Q582000,,SN 1885A
+SN 1;97M,SN-1,Q54955009,3,0,2,cell line,,Q21014462|Q23058136,,
+SN 1;97M,diacylglycerol kinase activity,Q14913817,3,0,2,"Catalysis of the reaction: NTP + 1,2-diacylglycerol = NDP + 1,2-diacylglycerol-3-phosphate.","DGK activity|GO:0004143|arachidonoyl-specific diacylglycerol kinase activity|1,2-diacylglycerol kinase activity|DG kinase activity|sn-1,2-diacylglycerol kinase activity|diglyceride kinase activity|1,2-diacylglycerol kinase (phosphorylating)",Q14860489,Q14863082|Q14863083,
+SN 1;97M,SN 1961I,Q9326449,3,0,2,"supernova within the Messier 61 galaxy, discovered in 1961",,Q3937,,SN 1961I
+SN 1;97M,sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity,Q30105576,3,0,2,"Catalysis of the reaction: hexadecanedioyl-CoA + sn-glycerol 3-phosphate = coenzyme A + 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate",,Q14860489,Q14912987,
+SN 1;97M,"Diacylglycerol kinase, subgroup",Q54444078,3,0,2,InterPro family,"DGK|IPR037607|arachidonoyl-specific diacylglycerol kinase|diglyceride kinase|1,2-diacylglycerol kinase (phosphorylating)|1,2-diacylglycerol kinase|sn-1,2-diacylglycerol kinase|DG kinase",Q417841|Q67015883,Q421851|Q407355|Q106951674,
+SN 1;97M,diacylglycerol cholinephosphotransferase activity,Q21106763,3,0,2,"Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.","cytidine diphosphorylcholine diglyceride transferase activity|CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity|GO:0004142|1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity|1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity|alkylacylglycerol cholinephosphotransferase activity|diacylglycerol choline phosphotransferase activity|1-alkyl-2-acetylglycerol cholinephosphotransferase activity|cytidine diphosphocholine glyceride transferase activity|phosphorylcholine--glyceride transferase activity|CDP-choline diglyceride phosphotransferase activity|alkylacylglycerol choline phosphotransferase activity|sn-1,2-diacylglycerol cholinephosphotransferase activity|phosphocholine diacylglyceroltransferase activity",Q14860489,Q22321340,
+SN 1;97M,SN-1,Q27088827,3,0,2,chemical compound,,Q113145171,Q11173,
+SN 1;97M,SN12C,Q54955018,3,0,2,cell line,SN-12C|SN12 C,Q21014462|Q23058136,,
+SN 1;97M,Mayo Clinic Health System-red Wing heliport,Q61674034,3,0,2,"heliport in Minnesota, United States",97MN,Q502074,,
+SN 1;97M,molybdenum-97,Q2690215,3,0,2,isotope of molybdenum,Mo-97|97Mo,Q469900|Q878130,Q1053,Molybdenum-97
+SN 1;97M,technetium-97m,Q18880998,3,0,2,isotope of technetium,Tc-97m|97mTc,Q846110|Q225056,Q1054,
+SN 1;97M,niobium-97m,Q18880547,3,0,2,isotope of niobium,Nb-97m|97mNb,Q1190183|Q846110,Q1046,
+SN 1;97M,rhodium-97m,Q18881057,3,0,2,isotope of rhodium,Rh-97m|97mRh,Q1320863|Q846110,Q1087,
+SN 1;97M,yttrium-97m2,Q18880478,3,0,2,isotope of yttrium,Y-97m2|97m2Y,Q1190172|Q846110,Q941,
+SN 1;97M,Gary's Airport,Q35259365,3,0,2,"airport in Dallas County, Missouri, United States of America",Gary's Aerodrome|97MO,Q1248784|Q62447,,
+SN 1;97M,strontium-97m1,Q18880447,3,0,2,isotope of strontium,Sr-97m1|97m1Sr,Q1325627|Q846110,Q938,
+SN 1;97M,yttrium-97m1,Q18880477,3,0,2,isotope of yttrium,Y-97m1|97m1Y,Q1190172|Q846110,Q941,
+SN 1;97M,strontium-97m2,Q18880450,3,0,2,isotope of strontium,Sr-97m2|97m2Sr,Q1325627|Q846110,Q938,
+SN1970P,,,4,0,0,,,,,
+N 2011e,,,5,0,0,,,,,
+SN 1;60Q,SN 1987A,Q584905,6,0,2,supernova,NAME SNR 1987A,Q3937|Q6243|Q67206691|Q2154519|Q71962386|Q72802977|Q207436,,SN 1987A
+SN 1;60Q,S Andromedae,Q546708,6,0,2,"supernova in the Andromeda Galaxy, spotted by mankind in August 1885",Supernova 1885|S And|SN 1885A|NOVA And 1885|Nova RJC99 Sep-95|HR 182|AAVSO 0037+40|TIC 438234291,Q3937|Q6458|Q2154519|Q207436|Q67206785|Q6243|Q1059564|Q582000,,SN 1885A
+SN 1;60Q,SN-1,Q54955009,6,0,2,cell line,,Q21014462|Q23058136,,
+SN 1;60Q,diacylglycerol kinase activity,Q14913817,6,0,2,"Catalysis of the reaction: NTP + 1,2-diacylglycerol = NDP + 1,2-diacylglycerol-3-phosphate.","DGK activity|GO:0004143|arachidonoyl-specific diacylglycerol kinase activity|1,2-diacylglycerol kinase activity|DG kinase activity|sn-1,2-diacylglycerol kinase activity|diglyceride kinase activity|1,2-diacylglycerol kinase (phosphorylating)",Q14860489,Q14863082|Q14863083,
+SN 1;60Q,SN 1961I,Q9326449,6,0,2,"supernova within the Messier 61 galaxy, discovered in 1961",,Q3937,,SN 1961I
+SN 1;60Q,sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity,Q30105576,6,0,2,"Catalysis of the reaction: hexadecanedioyl-CoA + sn-glycerol 3-phosphate = coenzyme A + 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate",,Q14860489,Q14912987,
+SN 1;60Q,"Diacylglycerol kinase, subgroup",Q54444078,6,0,2,InterPro family,"DGK|IPR037607|arachidonoyl-specific diacylglycerol kinase|diglyceride kinase|1,2-diacylglycerol kinase (phosphorylating)|1,2-diacylglycerol kinase|sn-1,2-diacylglycerol kinase|DG kinase",Q417841|Q67015883,Q421851|Q407355|Q106951674,
+SN 1;60Q,diacylglycerol cholinephosphotransferase activity,Q21106763,6,0,2,"Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.","cytidine diphosphorylcholine diglyceride transferase activity|CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity|GO:0004142|1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity|1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity|alkylacylglycerol cholinephosphotransferase activity|diacylglycerol choline phosphotransferase activity|1-alkyl-2-acetylglycerol cholinephosphotransferase activity|cytidine diphosphocholine glyceride transferase activity|phosphorylcholine--glyceride transferase activity|CDP-choline diglyceride phosphotransferase activity|alkylacylglycerol choline phosphotransferase activity|sn-1,2-diacylglycerol cholinephosphotransferase activity|phosphocholine diacylglyceroltransferase activity",Q14860489,Q22321340,
+SN 1;60Q,SN-1,Q27088827,6,0,2,chemical compound,,Q113145171,Q11173,
+SN 1;60Q,SN12C,Q54955018,6,0,2,cell line,SN-12C|SN12 C,Q21014462|Q23058136,,
+SN 200dp,,,7,0,0,,,,,
+N 2000fq,,,8,0,0,,,,,
+N 2002ab,Route nationale 2002,Q3444841,9,0,2,road in Réunion,N2002 road|National road 2002,Q34442,,
+N 2002ab,N2002,Q11234235,9,0,2,Japanese mobile phone,,Q19723444,Q17517,
+N 2002ab,N2002J,Q140330175,9,0,2,Airbus A321neo aircraft,David Neeleman,Q30914140,,
+SN 1996dv,minor planet,Q1022867,10,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1996dv,Minor Planet Center database,Q106600690,10,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1996dv,Minor Planet Center,Q522039,10,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1996dv,minor planet moon,Q657829,10,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1996dv,Minor Planet Circulars,Q6382430,10,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1996dv,minor planet group,Q2332332,10,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1996dv,list of minor planets,Q37651,10,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1996dv,Minor planet designation,Q817125,10,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1996dv,Minor Planet Bulletin,Q6869125,10,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1996dv,Minor Planet Catalogue,Q55178248,10,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1996dv,asteroid,Q3863,10,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1996dv,asteroid belt,Q2179,10,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1996dv,Asteroid,Q4810751,10,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1996dv,Asteroid,Q113629153,10,0,2,early access video game,,Q7889,,
+SN 1996dv,starfish,Q25349,10,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1996dv,Asteroid,Q132852203,10,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1996dv,Asteroideae,Q21004,10,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1996dv,Asteroids,Q748890,10,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1996dv,Asteroid Terrestrial-impact Last Alert System,Q17002475,10,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1996dv,Vesta,Q3030,10,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+N 209nz,,,11,0,0,,,,,
+SN1963B,SN 1963B,Q9326480,12,0,2,supernova,,Q3937,,
+SN!1917A,SN 1917A,Q7391939,13,0,2,supernova,,Q3937,,SN 1917A

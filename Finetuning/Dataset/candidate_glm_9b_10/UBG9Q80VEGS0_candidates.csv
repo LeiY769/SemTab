@@ -1,0 +1,379 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Nature Conservancy,The Nature Conservancy,Q1813186,0,0,1,"environmental organization headquartered in Arlington, Virginia",Nature Conservancy|TNC,Q163740|Q1785733|Q1899015,,The Nature Conservancy
+The Nature Conservancy,The Nature Conservancy,Q61931961,0,0,1,"nonprofit organization in Bogotá, Colombia",TNC,Q163740,,
+The Nature Conservancy,The Nature Conservancy,Q131852744,0,0,1,,,Q43229,,
+The Nature Conservancy,The Nature Conservancy in Europe,Q110723850,0,0,1,nonprofit organization,,Q163740,,
+The Nature Conservancy,The Nature Conservancy in Washington,Q107705540,0,0,1,Washington State chapter of The Nature Conservancy environmental organization,The Nature Conservancy of Washington|The Nature Conservancy Washington Chapter,Q163740|Q1785733,,
+The Nature Conservancy,The Nature Conservancy in New York,Q114079033,0,0,1,non-profit organization dedicated to protecting nature and preserving life in New York,,Q163740,,
+The Nature Conservancy,The Nature Conservancy Council (Transfer of Property) Order 1974,Q99927112,0,0,1,UK Statutory Instrument 1974 No. 1241,,Q7604686,,
+The Nature Conservancy,The Nature Conservancy Council (Byelaws) (Scotland) Regulations 1984,Q99938983,0,0,1,UK Statutory Instrument 1984 No. 918 (S. 89),,Q7604686,,
+The Nature Conservancy,The Nature Conservancy Council (Byelaws) (Scotland) Regulations 1973,Q99925043,0,0,1,UK Statutory Instrument 1973 No. 1687 (S. 127),,Q7604686,,
+The Nature Conservancy,The Nature Conservancy Council (Byelaws) Regulations 1975,Q99928158,0,0,1,UK Statutory Instrument 1975 No. 1970,,Q7604686,,
+The Nature Conservancy,Nature Conservancy,Q6980898,0,0,2,government agency,,Q327333,,Nature Conservancy (United Kingdom)
+The Nature Conservancy,Nature Conservancy Council,Q6980901,0,0,2,former public body in the UK,,Q327333,,Nature Conservancy Council
+The Nature Conservancy,Nature Conservancy of Canada,Q2994451,0,0,2,Canadian conservation organization,,Q43229|Q708676,,Nature Conservancy of Canada
+The Nature Conservancy,Nature Conservancy Council Act 1973,Q100161608,0,0,2,Public General Act of Parliament of the United Kingdom,1973 c. 54|1973 c54,Q105774620,,
+The Nature Conservancy,Nature Conservancy Bay,Q49386171,0,0,2,lake of the United States of America,,Q23397,,
+The Nature Conservancy,Nature Conservancy Council Offices,Q26594819,0,0,2,"architectural structure in Bishop's Hull, Taunton Deane, Somerset, England, UK",,Q811979,,
+The Nature Conservancy,Nature Conservancy,Q58935891,0,0,2,scientific article published in Nature,,Q13442814,,
+The Nature Conservancy,Nature Conservancy,Q58942358,0,0,2,,,Q13442814,,
+The Nature Conservancy,Nature conservancy,Q59001302,0,0,2,scientific article published in Nature,,Q13442814,,
+The Nature Conservancy,Television Nishinippon Corporation,Q843613,0,0,2,Japanese television station,TNC|Telenishi,Q4830453|Q1616075|Q1021645,,Television Nishinippon
+The Nature Conservancy,multinational corporation,Q161726,0,0,2,corporation operating in multiple countries,MNE|MNC|multinational enterprise|international corporation|transnational corporation|TNC,,Q4830453,Multinational corporation
+The Nature Conservancy,TNC,Q18027461,0,0,2,protein-coding gene in the species Homo sapiens,150-225|DFNA56|GMEM|GP|HXB|JI|TN|TN-C|Tenascin C,Q7187,Q20747295,Tenascin C
+The Nature Conservancy,TNNC1,Q18032046,0,0,2,protein-coding gene in the species Homo sapiens,"CMD1Z|CMH13|TN-C|TNC|TNNC|Troponin C type 1|troponin C1, slow skeletal and cardiac type",Q7187,Q20747295,"Troponin C, slow skeletal and cardiac muscles"
+The Nature Conservancy,tenascin C,Q22676918,0,0,2,mammalian protein found in Homo sapiens,"deafness, autosomal dominant 56|GMEM|TNC|tenascin-C additional domain 1|hexabrachion (tenascin)|TN-C|tenascin-C isoform 14/AD1/16|myotendinous antigen|neuronectin|GP 150-225|glioma-associated-extracellular matrix antigen|tenascin|JI|Tenascin-C|Hexabrachion|cytotactin|TNC protein, human",Q8054,,
+The Nature Conservancy,Tenascin C,Q21989240,0,0,2,mammalian protein found in Mus musculus,Tenascin-C|hexabrachion|TN-C|Tnc|tenascin,Q8054,Q8054,
+The Nature Conservancy,ridesharing company,Q27973,0,0,2,service that arranges one-time shared rides on very short notice,peer-to-peer ridesharing|dynamic ridesharing|ridesharing company|mobility service providers|TNC|transportation network company|real-time ridesharing,,Q23582374|Q56298091|Q740752|Q1668023,Ridesharing company
+The Nature Conservancy,Tnc,Q18255039,0,0,2,protein-coding gene in the species Mus musculus,AI528729|C130033P17Rik|Hxb|TN|TN-C|Ten|cytotactin|tenascin-C|tenascin C,Q7187,Q20747295,
+The Nature Conservancy,Tenascin-C,Q24770824,0,0,2,InterPro Family,TNC|IPR033078,Q417841,Q8054,
+Silver Anvil Award,Silver Anvil Award,Q92429087,0,1,1,award granted by the Public Relations Society of America to organizations that best forged the public opinion,,Q618779,,
+Silver Anvil Award,Anvil Award,Q4493308,0,1,2,Norwegian literary prize,,Q378427,,Anvil Award
+Silver Anvil Award,Silver Award,Q7515826,0,1,2,,,Q618779,,Silver Award (Venturing)
+Silver Anvil Award,Silver Award,Q7515824,0,1,2,,,Q618779,,Silver Award (Girl Scouts of the USA)
+Silver Anvil Award,Silver Award: Providing Recovery-Oriented Early Intervention Services to Youths Experiencing First-Episode Psychosis,Q48265851,0,1,2,scientific article published in October 2017,,Q13442814,,
+Silver Anvil Award,"Silver Award: reaching the unreachables. Lincoln Hospital Mental Health Services Bronx, New York",Q72205725,0,1,2,scientific article published on 01 November 1968,,Q13442814,,
+Silver Anvil Award,"Silver Award: Reciprocal Peer Support for Addressing Mental Health Crises Among Police, Veterans, Mothers of Special Needs Children, and Others",Q57062084,0,1,2,article,,Q13442814,,
+Silver Anvil Award,"Silver Award: Student Outreach and Teacher Training to Ensure Prevention, Early Recognition, and Treatment of Mental Health Problems. Mental Health 101 and Typical or Troubled?, Mental Health Association of East Tennessee, Knoxville",Q47951630,0,1,2,scientific article published in October 2015,,Q13442814,,
+Silver Anvil Award,"Silver award. Emergency care for alcoholics. The alcohol Detoxification Center, Washington, D.C",Q70529531,0,1,2,scientific article published on 01 October 1971,,Q13442814,,
+Silver Anvil Award,Silver Award,Q7515822,0,1,2,Wikimedia disambiguation page,,Q4167410,,Silver Award
+Aid to the Church in Need,Aid to the Church in Need,Q1635965,1,0,1,international pastoral aid organization of the Catholic Church,,Q43229,,Aid to the Church in Need
+Aid to the Church in Need,Aid To The Church In Need (Ireland),Q110970675,1,0,1,Irish nonprofit organization,,Q163740,,
+Aid to the Church in Need,Aid to the church in need. Mirror.,Q123593570,1,0,1,periodical,,Q1002697,,
+Aid to the Church in Need,DZI Seal-of-Approval,Q62019748,1,0,2,certification mark,,Q2309041|Q618779,,
+DZI Seal-of-Approval,DZI Seal-of-Approval,Q62019748,1,1,1,certification mark,,Q2309041|Q618779,,
+Red Cross Youth,Red Cross Youth,Q1513832,2,0,1,youth wing of the Red Cross,RCY,,Q1572070|Q1968122,
+Red Cross Youth,Singapore Red Cross Youth,Q18359006,2,0,1,youth wing of the Singapore Red Cross,Red Cross Youth Singapore|Red Cross Youth SG,Q1513832,,Singapore Red Cross Youth
+Red Cross Youth,Red Cross Youth Latvia,Q16361645,2,0,1,youth wing of the Latvian Red Cross,,Q1513832,,
+Red Cross Youth,Red Cross Youth Luxembourg,Q134058752,2,0,1,youth wing of the Luxembourg Red Cross,,Q1513832,,
+Red Cross Youth,Red Cross youth work,Q69068019,2,0,1,scientific article published on 01 December 1974,,Q13442814,,
+Red Cross Youth,Theodor Heuss Award,Q55064109,2,0,2,award conferred by the German Theodor Heuss Stiftung since 1965,Theodor Heuss award,Q5257307,,
+Red Cross Youth,Theodor-Heuss award for Professor Dr. med. Theodor Hellbrügge,Q52447639,2,0,2,"scientific article published on March 22, 1973",,Q13442814,,
+Red Cross Youth,youth organization,Q1572070,2,0,2,type of organisation with a focus upon providing activities and socialisation for minors,youth group|youth organisation,,Q43229,
+Red Cross Youth,Youth Organization,Q134082375,2,0,2,non-governmental organisation,,Q163740,,
+Red Cross Youth,Youth Organization of the Workers' University Society,Q11799074,2,0,2,Polish Socialist Party youth organization,,Q7210356|Q1572070,,
+Red Cross Youth,Youth organizations in Communist Czechoslovakia,Q8059339,2,0,2,juvenile political organization in Czechoslovakia,,Q2493450,,Youth organizations in Communist Czechoslovakia
+Red Cross Youth,"Youth Organization Files of Molly Yard, Assistant Information Specialist (NAID 7456162)",Q66154897,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Red Cross Youth,Youth Organizations Umbrella,Q30289342,2,0,2,"organization in Evanston, United States",,Q43229,,
+Red Cross Youth,Youth organization Orlando,Q111279603,2,0,2,,Orlando|club Orlando,Q79913,,
+Red Cross Youth,Youth organizations as a Battlefield in the Cold War,Q139687993,2,0,2,,,Q13442814,,
+Red Cross Youth,Youth organizations and the reproduction of nationalism in Britain: the role of Urdd Gobaith Cymru,Q58155461,2,0,2,,,Q13442814,,
+Theodor Heuss Award,Theodor Heuss Award,Q55064109,2,1,1,award conferred by the German Theodor Heuss Stiftung since 1965,Theodor Heuss award,Q5257307,,
+Theodor Heuss Award,Theodor-Heuss award for Professor Dr. med. Theodor Hellbrügge,Q52447639,2,1,1,"scientific article published on March 22, 1973",,Q13442814,,
+Theodor Heuss Award,Theodor Heuss,Q2594,2,1,2,German journalist and politician (1884-1963),Theodor Heusz,Q5,,Theodor Heuss
+Theodor Heuss Award,"Theodor Heuss School, Reutlingen",Q1237028,2,1,2,"vocaitonal school in Reutlingen, Germany",,Q322563|Q2585871,,
+Theodor Heuss Award,Theodor Heuss,Q2417758,2,1,2,ship built in 1957,IMO 5358373,Q402092|Q15262,,
+Theodor Heuss Award,Theodor Heuss Medal,Q115687447,2,1,2,German politics award (1965–),Heuss Medal,Q131647|Q618779|Q18328084,,
+Theodor Heuss Award,ENI 04404170,Q126397114,2,1,2,German tour boat,Theodor Heuss,Q2055880,,
+Theodor Heuss Award,Theodor-Heuss-Platz,Q565056,2,1,2,large city square in Berlin,Theo|Adolf-Hitler-Platz|Reichskanzlerplatz,Q174782,,Theodor-Heuss-Platz
+Theodor Heuss Award,Theodor Heuss School,Q15132081,2,1,2,"vocational school in Offenbach am Main, Germany",,Q322563|Q1257559|Q1080794,,
+Theodor Heuss Award,Theodor-Heuss-Schule,Q133931825,2,1,2,"public high school in Pinneberg, Germany",,Q1542966,,
+Theodor Heuss Award,Theodor-Heuss-Platz,Q78136589,2,1,2,"street in Ulm (Donau), Germany",,Q79007,,
+DOSAAF,DOSAAF,Q1154782,3,0,1,paramilitary aviation sport and education organization in the USSR,,Q207320|Q327333|Q79913,,DOSAAF
+DOSAAF,DOSAAF,Q5205886,3,0,1,Belarusian paramilitary organization,DOSAAF RB,Q207320,,DOSAAF (Belarus)
+DOSAAF,DOSAAF Russia,Q97660185,3,0,1,Russian paramilitary volunteer organization,,Q207320|Q79913,,DOSAAF of Russia
+DOSAAF,DOSAAF-85,Q97161046,3,0,1,Russian amateur radio satellite,,Q455647,,
+Order of Lenin,Order of Lenin,Q185493,3,1,1,highest decoration awarded by the Soviet Union (1930-1991),Orden Lenina,Q193622,,Order of Lenin
+Order of Lenin,Communist Party USA (Provisional),Q5154323,3,1,1,political party,"Provisional Communist Party|Provisional Party|Provisional Party of Communists|Formation|Communist Party, United States of America (Provisional Wing)|CPUSA(PW)|CPUSA (PW)|Order of Lenin",Q7278,,Communist Party USA (Provisional)
+International Water Management Institute,International Water Management Institute,Q868028,4,0,1,organization,,Q43229,,International Water Management Institute
+International Water Management Institute,International Water Management Institute,Q108737258,4,0,1,"facility in Addis Ababa, Ethiopia",IWMI,Q13226383,,
+International Water Management Institute,International Water Management Institute,Q108737429,4,0,1,"facility in Pretoria, South Africa",IWMI,Q13226383,,
+International Water Management Institute,International Water Management Institute's Data Storehouse Pathway (IWMIDSP): a unique data and knowledge gateway of spatial data with emphasis on river basins,Q96370186,4,0,1,scientific article published on 28 October 2006,,Q13442814,,
+Stockholm Water Prize,Stockholm Water Prize,Q10680486,4,1,1,annual prize for water-related activities,,Q11448906,,Stockholm Water Prize
+Stockholm Water Prize,International Water Management Institute,Q868028,4,1,2,organization,,Q43229,,International Water Management Institute
+Stockholm Water Prize,International Water Management Institute,Q108737258,4,1,2,"facility in Addis Ababa, Ethiopia",IWMI,Q13226383,,
+Stockholm Water Prize,International Water Management Institute,Q108737429,4,1,2,"facility in Pretoria, South Africa",IWMI,Q13226383,,
+Stockholm Water Prize,International Water Management Institute's Data Storehouse Pathway (IWMIDSP): a unique data and knowledge gateway of spatial data with emphasis on river basins,Q96370186,4,1,2,scientific article published on 28 October 2006,,Q13442814,,
+Stockholm Water Prize,Stockholm International Water Institute,Q7618019,4,1,2,organization,,Q163740,,Stockholm International Water Institute
+Puah Institute,Puah Institute,Q787997,5,0,1,organization,Machon Puah,Q163740,,Puah Institute
+Puah Institute,Puah Institute,Q99770316,5,0,1,,,Q2085381,,
+Katz Award,Katz Award,Q6530812,5,1,1,,,Q618779,,
+Imperial Theatre,Imperial Theatre,Q3527482,6,0,1,"performing arts building and cinema in Saint John, New Brunswick, Canada","Capitol Theatre|Imperial Theatre, Saint John|Full Gospel Assembly Pentecostal Church",Q57660343|Q41253|Q16970,,"Imperial Theatre, Saint John"
+Imperial Theatre,Imperial Theatre Main Stage,Q136769480,6,0,1,"performance hall inside the Imperial Theatre, in Saint John, New Brunswick, Canada",Imperial Theatre|Irving Oil Auditorium,Q112688641,,
+Imperial Theatre,Imperial Theatre,Q994171,6,0,1,"theater in Marunouchi, Chiyoda, Tokyo, Japan","Imperial Garden Theater|Imperial Opera House, Tokio",Q24354|Q43229,,Imperial Theatre (Tokyo)
+Imperial Theatre,Imperial Theatre,Q6006906,6,0,1,"Broadway theater in Manhattan, New York",,Q24354,,Imperial Theatre
+Imperial Theatre,Vaganova Academy of Russian Ballet,Q1357677,6,0,1,"school of classical ballet in Saint Petersburg, Russia",Academy of Russian Ballet Vaganova|Academy of Russian Ballet named after A. Ya. Vaganova|Leningrad Order of Lenin and Order of the Red Banner of Labor Academic Choreographic School named after A. Ya. Vaganova|Leningrad Choreographic School|Leningrad Ballet School|Imperial Theatre School|Her Imperial Majesty's Dance School,Q23005233|Q43229|Q3889692,,Vaganova Academy of Russian Ballet
+Imperial Theatre,Ed Mirvish Theatre,Q5335183,6,0,1,"theatre and cinema in Toronto, Ontario, Canada",Pantages Theatre|Imperial Theatre|Imperial Six|Pantages Cinema|Canon Theatre,Q3469910|Q24354|Q41253,,Ed Mirvish Theatre
+Imperial Theatre,Royal Aquarium,Q7373667,6,0,1,"former theatre/place of amusement in Westminster, London",Royal Aquarium and Winter Garden|Imperial Theatre|Aquarium Theatre|Imperial Theatre (London),Q17350442|Q24354,,Royal Aquarium
+Imperial Theatre,Market Street Cinema,Q21190968,6,0,1,"former movie theater in San Francisco, California, United States",Imperial Theater|Grauman's Imperial Theater|Premiere Theatre|United Artists Theatre|Grauman's Imperial Theatre|Imperial Theatre|Loews Market Street Cinema,Q24354|Q41253|Q52815,,Market Street Cinema
+Imperial Theatre,Imperial Theatre,Q14686667,6,0,1,"theater and former movie theater in Augusta, Georgia, United States",The Imperial Theatre|Wells Theatre,Q24354,,"Imperial Theatre (Augusta, Georgia)"
+Imperial Theatre,Barrymore's Music Hall,Q4864937,6,0,1,"nightclub in Ottawa, Ontario, Canada",Imperial Theatre|Barrymore's,Q41253,,Barrymore's
+Imperial Theatre,Imperial Theatre,Q43159381,6,0,2,"former movie theater in Cincinnati, Ohio, United States",Mowhawk Family Vaudeville Theatre|Imperial Follies|The Imperial|The Imperial Theatre|Imperial Theatre Mohawk|280 McMicken Avenue|280 W McMicken Avenue|280 West McMicken Avenue|282 McMicken Avenue|282 W McMicken Avenue|282 West McMicken Avenue,Q41253|Q106765618,,
+BCS Prize,BCS Prize,Q10854444,6,1,1,,,Q1829324|Q8513,,
+Apple,Apple Inc.,Q312,7,0,1,"American multinational technology company based in Cupertino, California",Apple (company),Q6881511|Q4830453|Q891723|Q167037|Q18388277,,Apple Inc.
+Apple,Apple Records,Q213710,7,0,1,UK international record label; imprint of Apple Corps Ltd.,Apple|Apple (label),Q18127|Q6881511|Q167270,,Apple Records
+Apple,apple,Q89,7,0,1,edible fruit of the apple tree,apple fruit,Q140646522,Q41274|Q145150|Q3314483,Apple
+Apple,Apple Music,Q20056642,7,0,1,Internet online music service by Apple,,Q19307174|Q15590336,,Apple Music
+Apple,Apple,Q26944931,7,0,1,unisex given name,,Q3409032,,
+Apple,Apple,Q111046003,7,0,1,registered trademark owned by Apple,Apple®,Q111048186,,
+Apple,Apple,Q1754545,7,0,1,1990 studio album by Mother Love Bone,,Q482994,,Apple (Mother Love Bone album)
+Apple,Malus,Q104819,7,0,1,flowering genus in the rose family Rosaceae,crabapple|apples|apple,Q16521,Q157957|Q10884,Malus
+Apple,iTunes,Q9589,7,0,1,media player and library software,Apple iTunes,Q166142|Q210337|Q24657198|Q240795|Q24579448|Q19307174,,ITunes
+Apple,Malus pumila,Q158657,7,0,1,species of apple tree,apple|domestic apple,Q16521,,Malus pumila
+Apple,Apple media event,Q62033032,7,0,2,type of periodical livestreamed special event held by Apple Inc.,Apple spring conference|Apple Special Event|Apple spring new conference|Apple Special Events|Apple event|Apple product launch|Apple product reveal|Apple Inc. media event|Apple events,Q15275719|Q124326999,Q1457237|Q112627928|Q1900995,
+Apple,history of Apple Inc.,Q1048090,7,0,2,aspect of history,"history of Apple|history of Apple Computer, Inc.|history of Apple Computer Inc.|history of Apple Computer|Apple Inc. history",Q140395760,,History of Apple Inc.
+Apple,Apple Inc. litigation,Q4781184,7,0,2,overview about the litigation of Apple Inc.,Apple litigation|litigation of Apple Inc.|litigation of Apple|litigation (Apple Inc.)|litigation (Apple)|Apple Inc.'s litigation|Apple's litigation,,,Apple litigation
+Apple,Apple Inc. advertising,Q2935440,7,0,2,overview about the advertising of Apple,,,,Apple Inc. advertising
+Apple,Apple Inc. co-founder Steve Jobs dies aged 56,Q17601502,7,0,2,Wikinews article,,Q17633526,,
+Apple,criticism of Apple Inc.,Q3592722,7,0,2,overview of criticism related to Apple Inc.,criticism of Apple|Apple Inc. criticism|Apple criticism,Q72044830,,Criticism of Apple Inc.
+Apple,Apple Inc. v. Samsung Electronics Co.,Q487819,7,0,2,2016 United States Supreme Court case,,Q697327,,Apple Inc. v. Samsung Electronics Co.
+Apple,Apple Inc. CEO Steve Jobs on medical leave,Q17712957,7,0,2,Wikinews article,,Q17633526,,
+Apple,Apple Inc. stickers,Q135916340,7,0,2,sticker sheet of Apple Inc. logos,Apple sticker sheet|Apple logo stickers|Apple stickers,Q811701,Q184303|Q112965678,
+Apple,The Beatles,Q61295007,7,0,2,1968 UK 2xLP by The Beatles; Apple Records – PMC 7067/8,Apple Records – PMC 7067|Apple Records – PMC 7068,Q108352648,,
+Apple,Apple Records SP catalog,Q66422900,7,0,2,Wikimedia singles discography,Apple Records catalog - singles,Q59248059,,
+Apple,Abbey Road,Q61581314,7,0,2,1969 UK LP by The Beatles; Apple Records – PCS 7088,Apple Records – PCS 7088,Q108352648,,
+Apple,Yellow Submarine,Q61502068,7,0,2,1969 UK LP by The Beatles; Apple Records – PMC 7070; mono,Apple Records – PMC 7070,Q108352648,,
+Apple,Let It Be,Q61583651,7,0,2,1970 UK LP The Beatles; Apple Records – PXS 1,Apple Records – PXS 1,Q108352648,,
+Apple,Apple Records UK albums catalog,Q61296976,7,0,2,albums discography,,Q59191021,,
+Apple,Hey Jude / Revolution,Q60696979,7,0,2,"1968 US 7"" single by The Beatles; Apple Records ‎– 2276",Hey Jude|Revolution|Apple Records ‎– 2276,Q108352496,,
+Apple,Apple Records catalog,Q3438369,7,0,2,recording catalog,Apple Records discography,Q16832380,,Apple Records discography
+Apple,Snookeroo / Oo-Wee,Q110812904,7,0,2,"1975 UK 7"" single by Ringo Starr; Apple Records – R 6004",Apple Records – R 6004|Snookeroo|Oo-Wee,Q6128115,,
+Apple,Apple Music,Q70056606,7,0,2,mobile application developed by Apple,Music|com.apple.android.music,Q620615,,
+Apple,Apple Corps,Q621231,7,0,2,company formed by The Beatles,Apple Films|An Apple Film|Apple Corps Limited|Apple Music Limited|The Beatles Limited,Q4830453|Q6881511,,Apple Corps
+Apple,Apple Music,Q65043499,7,0,2,media player and library software,,Q166142|Q210337|Q240795,,Music (app)
+Apple,Apple Music 1,Q28127039,7,0,2,radio station operated by Apple Inc.,Beats 1,Q14350,,Apple Music 1
+Apple,Apple Music Classical,Q124249772,7,0,2,classical music streaming service by Apple,,Q620615|Q15590336,,
+Apple,Apple Music Festival,Q3789908,7,0,2,"music concert series held by Apple, Inc.",iTunes Festival,Q868557,,Apple Music Festival
+Apple,Apple Music Up Next,Q90135067,7,0,2,monthly promotion program and web series,,Q15416,,Apple Music Up Next
+Apple,Apple Music Awards,Q77334513,7,0,2,,,Q1364556,,Apple Music Awards
+Apple,Apple Music charts,Q105003149,7,0,2,chart,charts Apple Music,Q373899,,
+National Design Awards,National Design Awards,Q2586695,7,1,1,American award in several catagories (2000–),,Q618779|Q107655869,Q1123481,National Design Awards
+National Design Awards,Apple Design Awards,Q621233,7,1,2,special event hosted by Apple Inc.,ADA|Apple Design Award|ADAs,Q1123481|Q23719064|Q107655869,,Apple Design Awards
+National Design Awards,Apple Design Awards 2021,Q112414969,7,1,2,annual award ceremony,2021 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2022,Q112406197,7,1,2,annual award ceremony,2022 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2018,Q112534559,7,1,2,annual award ceremony,2018 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2025,Q134700270,7,1,2,award ceremony in 2025,,Q4504495,,
+National Design Awards,Apple Design Awards 2017,Q114833116,7,1,2,annual award ceremony,2017 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2020,Q112526759,7,1,2,annual award ceremony,2020 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2019,Q112531638,7,1,2,annual award ceremony,2019 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2024,Q126391541,7,1,2,annual award ceremony,2024 Apple Design Awards,Q4504495,,
+National Design Awards,Apple Design Awards 2023,Q119142154,7,1,2,annual award ceremony,2023 Apple Design Awards,Q4504495,,
+BBC,British Broadcasting Corporation,Q9531,8,0,1,British public service broadcaster,BBC,Q1126006,,BBC
+BBC,BBC One,Q191472,8,0,1,flagship television channel of the BBC,BBC1|BBC TV|BBC Television Service|BBC 1,Q1616075,,BBC One
+BBC,BBC Two,Q216108,8,0,1,television channel operated by the BBC,,Q1616075,,BBC Two
+BBC,Banahaw Broadcasting Corporation,Q3547853,8,0,1,defunct Philippine television network,BBC|City 2 Television,Q141683|Q1254874,,Banahaw Broadcasting Corporation
+BBC,BBC Radio 4,Q795598,8,0,1,British national radio station,Radio Four,Q14350,,BBC Radio 4
+BBC,BBC News,Q1160945,8,0,1,news division of the publicly funded British Broadcasting Corporation,News BBC,Q19824398|Q1962634|Q334453|Q11032|Q1193236,,BBC News
+BBC,BBC Three,Q687427,8,0,1,Terrestrial television channel operated by the BBC until 2016,BBC 3|BBC3,Q1616075|Q2001305,,BBC Three
+BBC,BBC Worldwide,Q2071905,8,0,1,former subsidiary of the British Broadcasting Corporation (1979–2018),BBC Worldwide Limited|BBC Worldwide Ltd|BBC Worldwide Ltd.|BBC_Worldwide|BBC Worldwide Digital Entertainment,Q4830453,,BBC Worldwide
+BBC,"Brown, Boveri & Cie",Q664420,8,0,1,former Swiss company,"Brown, Boveri & Cie.",Q4830453|Q6881511,,"Brown, Boveri & Cie"
+BBC,BBC Micro,Q749976,8,0,1,series of microcomputers by Acorn,BBC Microcomputer System|BBC Microcomputer,Q60484681,Q473708,BBC Micro
+BBC,BBC Proms,Q1046677,8,0,2,eight-week summer season of daily orchestral classical music concerts,Henry Wood Promenade Concerts presented by the BBC|BBC Henry Wood Promenade Concerts|British Broadcasting Corporation|Henry Wood Promenade Concerts|BBC Proms Henry Wood Promenade Concerts|The Proms,Q868557|Q107736918,,BBC Proms
+BBC,British Broadcasting Corporation Collection (NAID 792),Q59493143,8,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+BBC,BRITISH BROADCASTING CORPORATION MEMORIAL DAY PROGRAM (NAID 111849),Q67554799,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION RADIO NEWS (NAID 111828),Q67554695,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION RADIO NEWS ON 1764TH (NAID 111811),Q67554636,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION RADIO NEWS (NAID 111888),Q67554972,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION NEWSREEL (NAID 112974),Q67571191,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION RADIO NEWSREEL - HIGHLIGHTS OF ROYALWEDDING (NAID 112047),Q67555571,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+BBC,BRITISH BROADCASTING CORPORATION RADIO NEWSREEL (NAID 112844),Q67570454,8,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Peabody Awards,Peabody Awards,Q838121,8,1,1,international awards for excellence in radio and television,George Foster Peabody Award|The Peabody Awards|George Foster Peabody Awards|Peabody Award,Q618779,Q137560479,Peabody Awards
+Peabody Awards,PEABODY AWARDS (NAID 128457),Q67634085,8,1,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+UNESCO,UNESCO,Q7809,9,0,1,"specialised agency of the United Nations for education, sciences, and culture","United Nations Educational, Scientific and Cultural Organization (UNESCO)",Q15925165|Q245065,,UNESCO
+UNESCO,Mediterranean diet,Q47564,9,0,1,"diet typical of the Mediterranean region, or cultural heritage. UNESCO intangible cultural heritage status","Diet, Mediterranean|UNESCO intangible cultural heritage status",Q1778821|Q131908101,Q474191,Mediterranean diet
+UNESCO,Red Book of Endangered Languages,Q925553,9,0,1,UNESCO publication of endangered languages,UNESCO Atlas of the World's Languages in Danger,Q7094076|Q162827|Q2092812,,Red Book of Endangered Languages
+UNESCO,Tentative World Heritage Site,Q1459900,9,0,1,Wikimedia list article,World Heritage Tentative List|Tentative List for future World Heritage Sites|UNESCO World Heritage Tentative List|UNESCO World Heritage Tentative Lists,Q15097084,Q210272|Q386426,Tentative List of World Heritage Sites
+UNESCO,UNESCO World Heritage Site buffer zone,Q64364418,9,0,1,clearly delineated area outside and adjacent to a UNESCO World Heritage property that provides additional protection and is not part of the inscribed property,,,Q1054581,
+UNESCO,(iv),Q23038978,9,0,1,"an outstanding example of a type of building, architectural or technological ensemble or landscape which illustrates (a) significant stage(s) in human history (UNESCO World Heritage List)",WHSC4|World Heritage selection criterion 4|UNESCO World Heritage selection criterion 4|World Heritage selection criterion iv|World Heritage selection criterion (iv),Q22809610,,
+UNESCO,(iii),Q23038977,9,0,1,bears a unique or at least exceptional testimony to a cultural tradition or to a civilization which is living or which has disappeared (UNESCO World Heritage List),WHSC3|World Heritage selection criterion 3|UNESCO World Heritage selection criterion 3|World Heritage selection criterion iii|World Heritage selection criterion (iii),Q22809610,,
+UNESCO,(ii),Q23038976,9,0,1,"exhibits an important interchange of human values, over a span of time or within a cultural area of the world, in architecture, technology, monumental arts, town-planning or landscape design (UNESCO World Heritage List)",World Heritage criterion section (ii)|WHSC2|World Heritage selection criterion 2|UNESCO World Heritage selection criterion 2|World Heritage selection criterion ii|World Heritage selection criterion (ii),Q22809610,,
+UNESCO,Representative List of the Intangible Cultural Heritage of Humanity,Q110319947,9,0,1,UNESCO Intangible Cultural Heritage list of intangible heritage elements that help demonstrate the diversity of this heritage and raise awareness about its importance,"RL|UNESCO Intangible Cultural Heritage designation|Intangible Cultural Heritage|United Nations Educational, Scientific and Cultural Organization Intangible Cultural Heritage|Intangible Cultural Heritage Home",Q116056897,,Representative List of the Intangible Cultural Heritage of Humanity
+UNESCO,(vi),Q23038980,9,0,1,"directly or tangibly associated with events or living traditions, with ideas, or with beliefs, with artistic and literary works of outstanding universal significance (UNESCO World Heritage List)",WHSC6|World Heritage selection criterion 6|UNESCO World Heritage selection criterion 6|World Heritage selection criterion vi|World Heritage selection criterion (vi),Q22809610,,
+UNESCO,World Heritage Site,Q9259,9,0,2,place of significance listed by UNESCO,"United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Site|WHS|World heritage site|World Heritage List Site|Patrimonio de la Humanidad",Q30634609|Q5162954,Q386426|Q210272,World Heritage Site
+UNESCO,UNESCO office United States,Q43895552,9,0,2,"regional headquarters in New York, United States","UNESCO|United Nations Educational, Scientific and Cultural Organization",Q30559504,,
+UNESCO,UNESCO office Afghanistan,Q50356747,9,0,2,"regional headquarters in Kabul, Afghanistan","Organisation des Nations unies pour l'éducation, la science et la culture|United Nations Educational, Scientific and Cultural Organization",Q30559504,,
+UNESCO,UNESCO office Netherlands,Q50356724,9,0,2,"regional headquarters in Delft, Netherlands","UNESCO|United Nations Educational, Scientific and Cultural Organization",Q30559504,,
+UNESCO,"United Nations Educational, Scientific and Cultural Organization",Q30288900,9,0,2,"organization in Bangkok, Thailand",,Q43229,,
+UNESCO,"United Nations Educational, Scientific and Cultural Organization",Q50356727,9,0,2,"government organization in Rome, Italy",UNESCO,Q327333,,
+UNESCO,"United Nations Educational, Scientific and Cultural Organization",Q30288898,9,0,2,"organization in Yerevan, Armenia",,Q43229,,
+UNESCO,"United Nations Educational, Scientific and Cultural Organization Act 1947",Q56751190,9,0,2,"Act of the Parliament of Australia, currently registered as C1947A00024",,Q56731284,,
+Peabody Awards,Peabody Awards,Q838121,9,1,1,international awards for excellence in radio and television,George Foster Peabody Award|The Peabody Awards|George Foster Peabody Awards|Peabody Award,Q618779,Q137560479,Peabody Awards
+Peabody Awards,PEABODY AWARDS (NAID 128457),Q67634085,9,1,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Nintendo,Nintendo,Q8093,10,0,1,Japanese multinational video game and consumer electronics company,,Q1058914|Q1137109|Q891723|Q210167,,Nintendo
+Nintendo,Nintendo Entertainment System,Q172742,10,0,1,third generation home video game console,NES|Family Computer|Famicom|Nintendo 8 Bit|Nintendo 8-bit|Nintendo Family Computer|Nintendo Famicom|Hyundai Comboy|Comboy|Tata Famicom,Q62008942,Q17589470,Nintendo Entertainment System
+Nintendo,Wii,Q8079,10,0,1,seventh-generation home video game console by Nintendo,Nintendo Wii|Revolution,Q115187350,Q17589470|Q8076,Wii
+Nintendo,Nintendo DS,Q170323,10,0,1,Nintendo handheld game console,Project Nitro|Nintendo Dual Screen|IiQue DS|iQue Dual Screen|N DS|Dual Screen|Nintendo Double Screen|Double Screen|Developers' System|Nintendo Developers' System,Q62008942,Q941818|Q1532758,Nintendo DS
+Nintendo,Nintendo Game Store,Q58379130,10,0,1,digital media store,,Q4382945|Q19307174,,
+Nintendo,Nintendo 3DS,Q203597,10,0,1,portable 3D dual-screen handheld by Nintendo,N3DS|iQue 3DS|3DS|N 3DS,Q62008942,Q941818|Q1532758,Nintendo 3DS
+Nintendo,Wii U,Q56942,10,0,1,eighth-generation home video game console by Nintendo,WiiU|Nintendo Wii U|Nintendo WiiU|Project Café,Q115187350,Q17589470,Wii U
+Nintendo,Nintendo GameCube,Q182172,10,0,1,sixth-generation home video game console by Nintendo,GameCube|GCN|GC|NGC|Gamecube|Game Cube|Dolphin,Q62008942,Q17589470,GameCube
+Nintendo,Nintendo 64,Q184839,10,0,1,fifth-generation home video game console by Nintendo,Ultra 64|Project Reality|N 64|N-64|Ultra-64|NINTENDO64|N64|Famicom 64|Family Computer 64|FC64|FC-64|FC 64,Q62008942,Q17589470|Q8076,Nintendo 64
+Nintendo,Nintendo World Report,Q95579456,10,0,1,video game news website,NWR|NintendoWorldReport,Q72398691,,
+Nintendo,British Academy Games Awards,Q546692,10,0,2,video game award,BAFTA Award in Video Games|BAFTA Games Awards|British Academy Video Games Awards,Q107655869,Q18328126,British Academy Games Awards
+Nintendo,2nd British Academy Video Games Awards,Q4633607,10,0,2,video game awards ceremony in 2005,British Academy Video Games Awards 2005,Q4504495,,2nd British Academy Games Awards
+Nintendo,3rd British Academy Video Games Awards,Q4636703,10,0,2,video game awards ceremony in 2006,British Academy Video Games Awards 2006,Q4504495,,3rd British Academy Games Awards
+British Academy Video Games Awards,British Academy Games Awards,Q546692,10,1,1,video game award,BAFTA Award in Video Games|BAFTA Games Awards|British Academy Video Games Awards,Q107655869,Q18328126,British Academy Games Awards
+British Academy Video Games Awards,2nd British Academy Video Games Awards,Q4633607,10,1,1,video game awards ceremony in 2005,British Academy Video Games Awards 2005,Q4504495,,2nd British Academy Games Awards
+British Academy Video Games Awards,3rd British Academy Video Games Awards,Q4636703,10,1,1,video game awards ceremony in 2006,British Academy Video Games Awards 2006,Q4504495,,3rd British Academy Games Awards
+British Academy Video Games Awards,British Academy Games Award for Best Game,Q16969671,10,1,2,video game award,BAFTA Award for Best Game|British Academy Games Award for Game of the Year – The Year's Best Game|British Academy Games Award for Game on any platform - The Year's Best Game|British Academy Video Games Award for Best Game|BAFTA Games Award for Best Game,Q38033430|Q18328126,,British Academy Games Award for Best Game
+British Academy Video Games Awards,British Academy Games Award for Multiplayer,Q19650442,10,1,2,video game award,British Academy Video Games Award for Online Multiplayer|British Academy Games Award for Online Multiplayer|BAFTA Games Award for Multiplayer,Q38033430|Q18328126,,British Academy Games Award for Multiplayer
+United Nations,United Nations,Q1065,11,0,1,global international and intergovernmental organization,United Nations Organization|the UN|the U.N.,Q245065|Q484652|Q163740|Q43229,,United Nations
+United Nations,UNESCO,Q7809,11,0,1,"specialised agency of the United Nations for education, sciences, and culture","United Nations Educational, Scientific and Cultural Organization (UNESCO)",Q15925165|Q245065,,UNESCO
+United Nations,UNICEF,Q740308,11,0,1,specialised agency of the United Nations,United Nations Children's Fund|International Children's Emergency Fund|ICEF International Children's Emergency Fund|United Nations Children's Fund (UNICEF),Q139312011,,UNICEF
+United Nations,World Heritage Site,Q9259,11,0,1,place of significance listed by UNESCO,"United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Site|WHS|World heritage site|World Heritage List Site|Patrimonio de la Humanidad",Q30634609|Q5162954,Q386426|Q210272,World Heritage Site
+United Nations,United Nations Security Council,Q37470,11,0,1,"one of the six principal organs of the UN, charged with the maintenance of international peace and security",UNSC|UN Security Council|Security Council|U.N. Security Council|U.N.S.C,Q15899789|Q4358176,,United Nations Security Council
+United Nations,United Nations Security Council resolution,Q877358,11,0,1,UN resolution adopted by the fifteen members of the Security Council,,,Q1190392,United Nations Security Council resolution
+United Nations,United Nations Treaty Series,Q443104,11,0,1,treaty series managed by the UN Secretariat,UNTS,Q4158579|Q2352616,,United Nations Treaty Series
+United Nations,United Nations Treaty Series volume,Q38647918,11,0,1,volume of treaties within the United Nations Treaty Series,UNTS volume,,Q1238720,
+United Nations,United Nations Security Council meeting,Q108172332,11,0,1,meeting convened by the UN Security council on a specific theme or topic,,,Q7456126|Q2761147,
+United Nations,United Nations Interim Force in Lebanon,Q160805,11,0,1,United Nations-NATO peacekeeping mission,UNIFIL,Q136762766,,United Nations Interim Force in Lebanon
+United Nations,"Nobel Peace Prize Winner Dr. Norman Borlaug Speaks on Food for World Peace - April 9, 1970 (NAID 47727)",Q66331065,11,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+United Nations,Nobel Peace Prize winner Liu Xiaobo and David Cameron's poppy,Q129289926,11,0,2,scholarly article,,Q13442814,,
+United Nations,international organization,Q484652,11,0,2,organization established by treaty between governments,international organisation,,Q43229,International organization
+United Nations,International Organization,Q3381810,11,0,2,journal,,Q5633421,,International Organization (journal)
+United Nations,International Organization for Standardization,Q15028,11,0,2,international standards development organization,International Standards Organisation|International Organisation for Standardisation|International Standardisation Organisation|International Standardization Organization|International Standards Organization,Q1328899|Q1194093|Q79913,,International Organization for Standardization
+United Nations,international organization,Q112176659,11,0,2,nomenclature of legal categories of France 2020,,Q56427813|Q10541491,Q112176658|Q484652,
+United Nations,International Organization for Migration,Q472311,11,0,2,intergovernmental organization,IOM|International Organization for Migration (IOM),Q15925165|Q2085381|Q245065|Q327333,,International Organization for Migration
+United Nations,international organization,Q15820303,11,0,2,intergovernmental or international non-governmental organization,,,Q43229,
+United Nations,International Organization,Q125536510,11,0,2,Textbook Public Admin,,Q83790,,
+United Nations,International Organization of Turkic Culture,Q1993710,11,0,2,"international cultural organization of countries with Turkic populations, speaking languages belonging to the Turkic language family",TÜRKSOY|International Organization of Turkic Culture - TÜRKSOY,Q484652,,International Organization of Turkic Culture
+United Nations,International Organization of Journalists,Q3487360,11,0,2,Soviet-era press organization,,Q43229|Q2085381,,International Organization of Journalists
+United Nations,International Organization for Migration,Q140039314,11,0,2,,,Q1172284,,
+Nobel Peace Prize,Nobel Peace Prize,Q35637,11,1,1,one of five Nobel Prizes,Nobel Prize for Peace|Noble Peace Prize|Nobel Prize in Peace,Q9639292,Q7191,Nobel Peace Prize
+Nobel Peace Prize,list of Nobel Peace Prize laureates,Q643610,11,1,1,Wikimedia list article,Nobel Peace Prize laureates,Q13406463,,List of Nobel Peace Prize laureates
+Nobel Peace Prize,2010 Nobel Peace Prize,Q4618031,11,1,1,award,Nobel Peace Prize of 2010|Nobel Peace Prize (2010),Q35637|Q4504495,,2010 Nobel Peace Prize
+Nobel Peace Prize,Template:Nobel Peace Prize Laureates 1976-2000,Q6244907,11,1,1,Wikimedia template,Nobel Peace Prize Laureates 1976-2000,Q11753321,,
+Nobel Peace Prize,Nobel Peace Prize Concert,Q2632696,11,1,1,"annual December concert in Oslo, Norway",,,,Nobel Peace Prize Concert
+Nobel Peace Prize,2005 Nobel Peace Prize,Q4604682,11,1,1,award,Nobel Peace Prize of 2005|Nobel Peace Prize (2005),Q35637|Q4504495,,2005 Nobel Peace Prize
+Nobel Peace Prize,2020 Nobel Peace Prize,Q96370427,11,1,1,award,Nobel Peace Prize 2020,Q35637|Q4504495,,2020 Nobel Peace Prize
+Nobel Peace Prize,Nobel Peace Prize Address,Q115647426,11,1,1,"Nobel Peace Prize address by Nelson Mandela on December 10, 1993 in Oslo, Norway",,Q861911,,
+Nobel Peace Prize,Nobel Peace Prize Acceptance Speech,Q115597189,11,1,1,"speech by Albert Luthuli accepting the Nobel Peace Prize at the Great Hall, University of Oslo, on December 11, 1961",,Q861911,,
+Nobel Peace Prize,"Nobel Peace Prize awarded to Martti Ahtisaari, Finnish top diplomat",Q17590672,11,1,1,Wikinews article,,Q17633526,,
+Nobel Peace Prize,United Nations,Q1065,11,1,2,global international and intergovernmental organization,United Nations Organization|the UN|the U.N.,Q245065|Q484652|Q163740|Q43229,,United Nations
+Nobel Peace Prize,UNESCO,Q7809,11,1,2,"specialised agency of the United Nations for education, sciences, and culture","United Nations Educational, Scientific and Cultural Organization (UNESCO)",Q15925165|Q245065,,UNESCO
+Nobel Peace Prize,UNICEF,Q740308,11,1,2,specialised agency of the United Nations,United Nations Children's Fund|International Children's Emergency Fund|ICEF International Children's Emergency Fund|United Nations Children's Fund (UNICEF),Q139312011,,UNICEF
+Nobel Peace Prize,World Heritage Site,Q9259,11,1,2,place of significance listed by UNESCO,"United Nations Educational, Scientific and Cultural Organization (UNESCO) World Heritage Site|WHS|World heritage site|World Heritage List Site|Patrimonio de la Humanidad",Q30634609|Q5162954,Q386426|Q210272,World Heritage Site
+Nobel Peace Prize,United Nations Security Council,Q37470,11,1,2,"one of the six principal organs of the UN, charged with the maintenance of international peace and security",UNSC|UN Security Council|Security Council|U.N. Security Council|U.N.S.C,Q15899789|Q4358176,,United Nations Security Council
+Nobel Peace Prize,United Nations Security Council resolution,Q877358,11,1,2,UN resolution adopted by the fifteen members of the Security Council,,,Q1190392,United Nations Security Council resolution
+Nobel Peace Prize,United Nations Treaty Series,Q443104,11,1,2,treaty series managed by the UN Secretariat,UNTS,Q4158579|Q2352616,,United Nations Treaty Series
+Nobel Peace Prize,United Nations Treaty Series volume,Q38647918,11,1,2,volume of treaties within the United Nations Treaty Series,UNTS volume,,Q1238720,
+Nobel Peace Prize,United Nations Security Council meeting,Q108172332,11,1,2,meeting convened by the UN Security council on a specific theme or topic,,,Q7456126|Q2761147,
+Nobel Peace Prize,United Nations Interim Force in Lebanon,Q160805,11,1,2,United Nations-NATO peacekeeping mission,UNIFIL,Q136762766,,United Nations Interim Force in Lebanon
+Nobel Peace Prize,Nobel Prize,Q7191,11,1,2,"set of annual international awards, primarily 5 established in 1895 by Alfred Nobel",Nobel,Q107655869,Q5257307,Nobel Prize
+Nobel Peace Prize,Nobel Prize in Literature,Q37922,11,1,2,one of five prizes established by Alfred Nobel,Nobel Literature Prize,Q378427,Q7191,Nobel Prize in Literature
+Nobel Peace Prize,Nobel Prize in Physiology or Medicine,Q80061,11,1,2,one of five Nobel Prizes established in 1895 by Alfred Nobel,Nobel Prize in Medicine,Q11448906|Q7191,Q7191,Nobel Prize in Physiology or Medicine
+Nobel Peace Prize,Nobel Prize in Chemistry,Q44585,11,1,2,one of the five Nobel Prizes established in 1895 by Alfred Nobel,Nobelpriset i kemi|chemistry Nobel Prizes,Q107471279|Q7191,Q7191,Nobel Prize in Chemistry
+Nobel Peace Prize,Nobel Prize in Physics,Q38104,11,1,2,yearly physics award given by the Royal Swedish Academy of Sciences,Physics Nobel Prize,Q107494520|Q7191,Q7191,Nobel Prize in Physics
+Nobel Peace Prize,Ramon Magsaysay Award,Q777181,11,1,2,national award in Philippines,Nobel Prize of Asia,Q618779,,Ramon Magsaysay Award
+Nobel Peace Prize,Prize in Economic Sciences in Memory of Alfred Nobel,Q47170,11,1,2,award established in 1968 by Sveriges Riksbank in memory of Alfred Nobel,Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel|Nobel Memorial Prize in Economic Sciences|Nobel Prize in Economics,Q17701409|Q11448906,Q7191,Nobel Memorial Prize in Economic Sciences
+Nobel Peace Prize,North Carolina Award,Q7054427,11,1,2,"highest civilian honor bestowed by the state of North Carolina in the fields of fine arts, literature, public service and science",Nobel Prize of North Carolina,Q5124642,,North Carolina Award
+Nobel Peace Prize,Lindenberg Medal,Q1090076,11,1,2,"award for special achievements in the field of philatelic research, established in 1905",Nobel Prize of Philately,Q618779|Q131647|Q130301301,,Lindenberg Medal
+Agora,Agora SA,Q395389,12,0,1,Polish media company,Agora|Agora Spółka Akcyjna|Agora S.A.,Q1331793|Q6881511|Q891723|Q18127,,Agora (company)
+Agora,AGORA,Q64826735,12,0,1,2016 art video game,,Q7889,,
+Agora,Agora,Q8191631,12,0,1,Mexican progressive metal band,,Q215380,,
+Agora,agora,Q187909,12,0,1,central public space in ancient Greek city-states,,,Q330284|Q6583066,Agora
+Agora,Agora,Q35329827,12,0,1,"wadi in Agadez Region, Niger",,Q187971,,
+Agora,Agora,Q132673660,12,0,1,"organisation for primary education in North Holland, the Netherlands",Stichting Agora,Q138573992|Q188628,,
+Agora,Agora,Q135074767,12,0,1,video game developed by Michael Bedard,,Q7889,,
+Agora,Agora,Q107254669,12,0,1,genus of crustaceans,,Q16521,,
+Agora,Agora,Q122232828,12,0,1,family name,,Q101352,,
+Agora,Agora,Q135022772,12,0,1,video game developed by K.O. Koala Entertainment,,Q7889,,
+Rafto Prize,Rafto Prize,Q954244,12,1,1,Norwegian award,,Q618779,,Thorolf Rafto Memorial Prize
+Rafto Prize,Agora Foundation,Q30268230,12,1,2,"nonprofit organization in Ojai, United States",,Q163740,,
+Rafto Prize,AGORA Foundation,Q131907816,12,1,2,,,Q43229,,
+International Council of Museums,International Council of Museums,Q653054,13,0,1,organization of museums and museum professionals,,Q130748571,,International Council of Museums
+International Council of Museums,International Committee for University Museums and Collections,Q51618205,13,0,1,"international association of academic museums, galleries and collections",UMAC|International Council of Museums Committee for University Museums and Collections,Q938236|Q15911314|Q1156831,,
+International Council of Museums,International Committee for Museology,Q17630244,13,0,1,organization,ICOFOM|ICOM International Committee for Museology|I.C.O.M. International Committee for Museology|ICOM ICOFOM|International Council of Museums. International Committee for Museology|Comité international de l'ICOM pour la muséologie|Comité international pour la muséologie|Comitè internacional para la museología,Q43229|Q865588,,International Committee for Museology
+International Council of Museums,ICOM Denmark,Q131361420,13,0,1,Danish national committee of International Council of Museums (ICOM),International Council of Museums Denmark,Q829080,,
+International Council of Museums,International Council of Museums,Q58960096,13,0,1,scholarly article,,Q13442814,,
+International Council of Museums,International Council of Museums: Conference in Switzerland,Q58935887,13,0,1,scientific article published in Nature,,Q13442814,,
+International Council of Museums,Order of Cultural Merit (Brazil),Q10341322,13,0,2,cultural order in Brazil in three classes (1995–),Ordem do Mérito Cultural,Q193622|Q3302125,,Ordem do Mérito Cultural
+International Council of Museums,Polish Cultural Merit Order,Q179802,13,0,2,award,Zasłużony dla Kultury Polskiej|Decoration of Honor Meritorious for Polish Culture,Q799000,,Decoration of Honor Meritorious for Polish Culture
+International Council of Museums,Order of Cultural Merit,Q2447242,13,0,2,South Korean order of merit (1973-),,Q18677266,,Order of Cultural Merit (South Korea)
+International Council of Museums,Order of Cultural Merit,Q1478710,13,0,2,Wikimedia disambiguation page,,Q4167410,,Order of Cultural Merit
+Ordem do Mérito Cultural,Order of Cultural Merit (Brazil),Q10341322,13,1,1,cultural order in Brazil in three classes (1995–),Ordem do Mérito Cultural,Q193622|Q3302125,,Ordem do Mérito Cultural
+Ordem do Mérito Cultural,Polish Cultural Merit Order,Q179802,13,1,1,award,Zasłużony dla Kultury Polskiej|Decoration of Honor Meritorious for Polish Culture,Q799000,,Decoration of Honor Meritorious for Polish Culture
+Ordem do Mérito Cultural,Order of Cultural Merit,Q2447242,13,1,1,South Korean order of merit (1973-),,Q18677266,,Order of Cultural Merit (South Korea)
+Ordem do Mérito Cultural,Order of Cultural Merit,Q1478710,13,1,1,Wikimedia disambiguation page,,Q4167410,,Order of Cultural Merit
+National Institutes of Health,United States National Institutes of Health,Q390551,14,0,1,US government medical research agency,NIH|U.S. National Institutes of Health|US National Institutes of Health|National Institutes of Health (U.S.)|USNIH|NIH US|National Institutes of Health,Q20857065|Q7315155,,National Institutes of Health
+National Institutes of Health,National Institutes of Health,Q48792120,14,0,1,health research center in the Philippines,,Q7315155,,National Institutes of Health (Philippines)
+National Institutes of Health,National Institutes of Health Director's Pioneer Award,Q6973758,14,0,1,Medicine award,NIH Director's Pioneer Award,Q11448906,,National Institutes of Health Director's Pioneer Award
+National Institutes of Health,National Institutes of Health Clinical Center,Q6973757,14,0,1,"research hospital in Bethesda, Maryland, United States",NIH Clinical Center|NIH Building 10|Warren Grant Magnuson Clinical Center|Warren G. Magnuson Clinical Center|Warren Magnuson Clinical Center|National Institutes of Health Clinical Center Hospital|National Institutes of Health (U.S.) Clinical Center|NIH CC,Q16917|Q39364723,,National Institutes of Health Clinical Center
+National Institutes of Health,National Institutes of Health consensus development conference consensus statement,Q27712191,14,0,1,journal,Natl Inst Health Consens Dev Conf Consens Statement|National Institutes of Health consensus development conference statement,Q5633421,,
+National Institutes of Health,NIH Public Access Policy,Q15102911,14,0,1,policy by the NIH regarding access for the public to research it funds,National Institutes of Health open access policy,Q2000006,,NIH Public Access Policy
+National Institutes of Health,NIH MERIT award,Q28456505,14,0,1,American award,,Q11448906,,National Institutes of Health MERIT Award
+National Institutes of Health,National Institutes of Health,Q124251937,14,0,1,"government organization in Shah Alam, Malaysia",NIH Malaysia|Malaysia NIH|National Institutes of Health Malaysia|NIH,Q327333,,
+National Institutes of Health,National Institutes of Health consensus development conference summaries,Q27712370,14,0,1,journal,Natl Inst Health Consens Dev Conf Summ,Q5633421,,
+National Institutes of Health,National Institutes of Health campus,Q6973760,14,0,1,"campus of the United States National Institutes of Health in Bethesda, Maryland",NIH campus,Q209465|Q1497364,,National Institutes of Health campus
+National Institutes of Health,National Institute of Health,Q28919137,14,0,2,research institute in Armenia,"National Institute of Health after academician S. Avdalbekyan|NIH|Առողջապահության ազգային ինստիտուտ|National Institute of Health, Armenia|National Institute of Health named after academician Suren Avdalbekyan|National Institute of Health named after academician S. Avdalbekyan CJSC|NIH, Armenia|National Institute of Health of the RA Ministry of Health|Հայաստանի Առողջապահության Ազգային Ինստիտուտ",Q31855,,
+National Institutes of Health,National Institute of Health,Q28654686,14,0,2,"government health agency in Bogota, Colombia",Instituto Nacional de Salud|INS|National Institute of Health of Columbia,Q327333|Q45400320|Q6979657,,
+National Institutes of Health,National Institute of Health,Q6973660,14,0,2,"medical research institute, Pakistani government body","NIH|National Institute of Health, Islamabad",Q327333|Q6979657|Q66737615|Q2136670,,"National Institute of Health, Islamabad"
+National Institutes of Health,National Institute of Health Dr. Ricardo Jorge,Q6041414,14,0,2,"research institute in Lisbon, Portugal",INSA|Instituto Nacional de Saúde Doutor Ricardo Jorge,Q31855|Q210272,,Instituto Nacional de Saúde Dr. Ricardo Jorge
+National Institutes of Health,National Institute of Health of Peru,Q5917586,14,0,2,"governmental medical organization in Lima, Peru",Instituto Vaccinal|Instituto Nacional de Salud|INS,Q7315155|Q45400320|Q6979657|Q43229,,
+National Institutes of Health,National Institute of Health Somalia,Q99940834,14,0,2,"national public health institute in Mogadishu, Somalia",NIH Somalia|National Institute of Health|NIH|Somalia National Institute of Health|NIHS,Q6979657,,
+National Institutes of Health,National Institute of Health Research and Development,Q17998584,14,0,2,"biomedical research institute, government agency in Jakarta, Indonesia",NIHRD|Badan Penelitian dan Pengembangan Kesehatan|Agency for Health Research and Development|Balitbangkes Kemenkes,Q327333|Q45400320|Q66737615,,National Institute of Health Research and Development (Indonesia)
+National Institutes of Health,National Institute of Health Sciences,Q11421230,14,0,2,"governmental research institute in Tokyo, Japan",Tokyo Drug Control Laboratory|Tokyo Institute of Hygienic Sciences|NIHS,Q13226383|Q31855|Q327333|Q4688921,,
+National Institutes of Health,Instituto Nacional de Saúde,Q30282051,14,0,2,"government organization, national public health institute of Mozambique",INS|National Institute of Health (Maputo)|Instituto Nacional de Saúde (Maputo),Q327333|Q4287745|Q6979657,,
+Gran Cruz de la Orden Civil de Sanidad,Grand Cross of the Order of Civil Health,Q28918638,14,1,1,highest class of the Spanish civil Order (1943–),"Order of Civil Health, 1st class",Q60754876,Q206771|Q1549416,
+Gran Cruz de la Orden Civil de Sanidad,United States National Institutes of Health,Q390551,14,1,2,US government medical research agency,NIH|U.S. National Institutes of Health|US National Institutes of Health|National Institutes of Health (U.S.)|USNIH|NIH US|National Institutes of Health,Q20857065|Q7315155,,National Institutes of Health
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health,Q48792120,14,1,2,health research center in the Philippines,,Q7315155,,National Institutes of Health (Philippines)
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health Director's Pioneer Award,Q6973758,14,1,2,Medicine award,NIH Director's Pioneer Award,Q11448906,,National Institutes of Health Director's Pioneer Award
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health Clinical Center,Q6973757,14,1,2,"research hospital in Bethesda, Maryland, United States",NIH Clinical Center|NIH Building 10|Warren Grant Magnuson Clinical Center|Warren G. Magnuson Clinical Center|Warren Magnuson Clinical Center|National Institutes of Health Clinical Center Hospital|National Institutes of Health (U.S.) Clinical Center|NIH CC,Q16917|Q39364723,,National Institutes of Health Clinical Center
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health consensus development conference consensus statement,Q27712191,14,1,2,journal,Natl Inst Health Consens Dev Conf Consens Statement|National Institutes of Health consensus development conference statement,Q5633421,,
+Gran Cruz de la Orden Civil de Sanidad,NIH Public Access Policy,Q15102911,14,1,2,policy by the NIH regarding access for the public to research it funds,National Institutes of Health open access policy,Q2000006,,NIH Public Access Policy
+Gran Cruz de la Orden Civil de Sanidad,NIH MERIT award,Q28456505,14,1,2,American award,,Q11448906,,National Institutes of Health MERIT Award
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health,Q124251937,14,1,2,"government organization in Shah Alam, Malaysia",NIH Malaysia|Malaysia NIH|National Institutes of Health Malaysia|NIH,Q327333,,
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health consensus development conference summaries,Q27712370,14,1,2,journal,Natl Inst Health Consens Dev Conf Summ,Q5633421,,
+Gran Cruz de la Orden Civil de Sanidad,National Institutes of Health campus,Q6973760,14,1,2,"campus of the United States National Institutes of Health in Bethesda, Maryland",NIH campus,Q209465|Q1497364,,National Institutes of Health campus
+Gran Cruz de la Orden Civil de Sanidad,Civil Order of Health,Q206771,14,1,2,Spanish civil order,,Q11796413|Q5124642|Q193622|Q3302125,,Civil Order of Health
+Gran Cruz de la Orden Civil de Sanidad,Knight Grand Officer of the Order of Civil Health,Q40269067,14,1,2,"middle class, higher degree of the Spanish civil Order (1943–)","Order of Civil Health, 2nd class 1st degree",Q60754876,Q1549393,
+Gran Cruz de la Orden Civil de Sanidad,Commander of the Order of Civil Health,Q134890851,14,1,2,"middle class, lower degree of the Spanish civil Order (1943–)","Order of Civil Health, 2nd class 2nd degree",Q60754876,Q524980,
+Gran Cruz de la Orden Civil de Sanidad,Cross of the Order of Civil Health,Q134891959,14,1,2,lowest class of the Spanish civil Order (1943–),"Order of Civil Health, 3rd class|Knight of the Order of Civil Health|Dame of the Order of Civil Health|Cross of  the Civil Order of Healthcare|Civil Order of Healthcare, 1st class",Q60754876,Q102083,
+SWIFT,Swift,Q18331735,15,0,1,family name,,Q101352,,Swift (surname)
+SWIFT,Swift,Q17118377,15,0,1,"general-purpose, multi-paradigm, compiled programming language",Apple Swift|Swift programming language|Swift language|Swift (Apple programming language)|Swiftlang|Swift.org,Q9143|Q341|Q12772052|Q899523|Q28923023,,Swift (programming language)
+SWIFT,SWIFT,Q257597,15,0,1,Belgian payments services society,S.W.I.F.T. SCRL|Society for Worldwide Interbank Financial Telecommunication,Q43229|Q986008,,SWIFT
+SWIFT,Neil Gehrels Swift Observatory,Q837488,15,0,1,mission concerning a space observatory in low earth orbit measuring gamma ray radiation,Swift|Medium Explorer 3|Swift Gamma-ray Burst Mission,Q148578|Q12832168,,Neil Gehrels Swift Observatory
+SWIFT,Swift,Q7655991,15,0,1,American musical group,,Q215380,,
+SWIFT,Swift Current,Q619937,15,0,1,"city in Saskatchewan, Canada","Swift Current, Saskatchewan|Swift Current, SK",Q515,,Swift Current
+SWIFT,Swift,Q124074857,15,0,1,2016 video game,,Q7889,,
+SWIFT,Swift,Q117454070,15,0,1,Korean progamer,Kim Dong-ju,Q5,,
+SWIFT,Gelsenkirchen,Q2765,15,0,1,"town in North Rhine-Westphalia, Germany",Swiftkirchen,Q1549591|Q42744322|Q85635630,,Gelsenkirchen
+SWIFT,Swift Engineering,Q1939632,15,0,1,American spacecraft engineering company,Swift,Q936518|Q4830453|Q6881511,,Swift Engineering
+SWIFT,ISO 9362,Q752797,15,0,2,ISO standard defining Business Identifier Codes assigned by SWIFT,Business Identifier Codes|BIC|SWIFT-BIC|SWIFT ID|SWIFT code|Bank Identifier Code|Business Entity Identifier|BEI,Q15087423,,ISO 9362
+BigBrotherAwards,BigBrotherAwards,Q110530811,15,1,1,German ironic award,,Q858637,,
+BigBrotherAwards,Big Brother Awards,Q858637,15,1,1,negative award,BBAs|Orwell-Auszeichnungen|Die Orwells,Q618779,Q14936523,Big Brother Awards
+BigBrotherAwards,BigBrotherAwards,Q110532458,15,1,1,,,Q858637,,
+BigBrotherAwards,BigBrotherAwards,Q110532433,15,1,1,,,Q858637,,
+BigBrotherAwards,Big Brother Awards,Q4905345,15,1,2,Big Brother Awards in Finland,,Q858637,,Big Brother Awards (Finland)
+BigBrotherAwards,Big Brother Awards,Q4905343,15,1,2,Big Brother Awards in the UK,,Q858637,,Big Brother Awards (United Kingdom)
+BigBrotherAwards,Big Brother Awards,Q4905342,15,1,2,Big Brother Awards in Australia,,Q858637,,
+BigBrotherAwards,Big Brother Awards France,Q117756907,15,1,2,,,Q858637,,
+BigBrotherAwards,Big Brother Awards Austria 2008: Die Gewinner stehen fest,Q17931122,15,1,2,Wikinews article,,Q17633526,,
+Terre des hommes,Terre des Hommes International,Q264955,16,0,1,children's aid organization,,Q163740,,Terre des hommes
+Terre des hommes,Terre des Hommes,Q67135687,16,0,1,masonic lodge,,Q163740,,
+Terre des hommes,Terre des Hommes,Q108324249,16,0,1,organization in the puppeteering domain in Quebec,,Q11812394,,
+Terre des hommes,Terre des Hommes Germany,Q76428403,16,0,1,,,Q113805953|Q163740,,
+Terre des hommes,Terre des Hommes Luxembourg,Q137398794,16,0,1,,,Q111103254,,
+Terre des hommes,Terre des Hommes Denmark,Q137598773,16,0,1,nonprofit from Denmark,,Q163740,,
+Terre des hommes,"Wind, Sand and Stars",Q520146,16,0,1,1939 memoir by de Saint-Exupéry,,Q7725634,,"Wind, Sand and Stars"
+Terre des hommes,Terre Des Hommes Children's Organisation For Relief And Education,Q111470175,16,0,1,nonprofit organization from India,Terre Des Hommes CORE,Q163740,,
+Terre des hommes,terre des hommes schweiz,Q137401892,16,0,1,nonprofit organisation in Switzerland,,Q163740,,
+Terre des hommes,Terre des Hommes Nederland,Q137271169,16,0,1,nonprofit organisation from the Netherlands,,Q163740,,
+Balzan Prize,Balzan Prize,Q628457,16,1,1,"annual monetary prizes to people or organizations who have made outstanding achievements in the fields of humanities, natural sciences, culture",,Q11448906|Q15383322,,Balzan Prize
+Balzan Prize,"Balzan Prize for Humanity, Peace and Brotherhood",Q58786196,16,1,1,,,Q11448906,,
+Balzan Prize,Balzan Prize: R. Jahn / Honorary Membership of the Swiss Chemical Society: E. P. Kündig / KNCV Van Marumpenning: J. van Maarseveen / Emil Kirschbaum Medal: A. Seidel-Morgenstern,Q88849906,16,1,1,scientific article published on 28 November 2016,,Q13442814,,
+Balzan Prize,Balzan prize shared by astrophysicists and neurobiologist,Q48392589,16,1,1,scientific article published in November 1994,,Q13442814,,
+Balzan Prize,Balzan prize to ernst mayr,Q48413457,16,1,1,scientific article published in January 1984,,Q13442814,,
+Balzan Prize,Balzan prizes,Q64517548,16,1,1,,,Q13442814,,
+Balzan Prize,Terre des Hommes International,Q264955,16,1,2,children's aid organization,,Q163740,,Terre des hommes
+Balzan Prize,Terre des Hommes,Q67135687,16,1,2,masonic lodge,,Q163740,,
+Balzan Prize,Terre des Hommes,Q108324249,16,1,2,organization in the puppeteering domain in Quebec,,Q11812394,,
+Balzan Prize,Terre des Hommes Germany,Q76428403,16,1,2,,,Q113805953|Q163740,,
+Balzan Prize,Terre des Hommes Luxembourg,Q137398794,16,1,2,,,Q111103254,,
+Balzan Prize,Terre des Hommes Denmark,Q137598773,16,1,2,nonprofit from Denmark,,Q163740,,
+Balzan Prize,"Wind, Sand and Stars",Q520146,16,1,2,1939 memoir by de Saint-Exupéry,,Q7725634,,"Wind, Sand and Stars"
+Balzan Prize,Terre Des Hommes Children's Organisation For Relief And Education,Q111470175,16,1,2,nonprofit organization from India,Terre Des Hommes CORE,Q163740,,
+Balzan Prize,terre des hommes schweiz,Q137401892,16,1,2,nonprofit organisation in Switzerland,,Q163740,,
+Balzan Prize,Terre des Hommes Nederland,Q137271169,16,1,2,nonprofit organisation from the Netherlands,,Q163740,,
+American Medical Association,American Medical Association,Q465697,17,0,1,United States association of physicians and medical students,AMA,Q48204|Q163740|Q6815100|Q2085381|Q10729872,,American Medical Association
+American Medical Association,AMERICAN MEDICAL ASSOCIATION MEETING ON ENTERPRISE IN THE GHETTO WITH SENATOR CHARLES PERCY (NAID 131186),Q67646805,17,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+American Medical Association,American Medical Association Guide to Preventing and Treating Heart Disease: Essential Information You and Your Family Need to Know about Having a Healthy Heart,Q134444725,17,0,1,"2008 book by Michael Miller, Steve Havas, Martin Lipsky, Marla Mendelson",,Q3331189,,
+American Medical Association,AMERICAN MEDICAL ASSOCIATION MEETING ON IMMUNE RESPONSE TO CANCER WITH DR. MAX APPEL (NAID 124749),Q67619232,17,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+American Medical Association,American Medical Association v. Cochran,Q124807022,17,0,1,United States Supreme Court case,,Q2334719,,
+American Medical Association,American Medical Association Foundation,Q55230260,17,0,1,American nonprofit organization,AMA Foundation,Q163740,,
+American Medical Association,American Medical Association Census Report (NAID 76019053),Q59927581,17,0,1,series in the National Archives and Records Administration's holdings,,Q2668072,,
+American Medical Association,American Medical Association,Q93831676,17,0,1,scientific article,,Q13442814,,
+American Medical Association,AMERICAN MEDICAL ASSOCIATION,Q84880609,17,0,1,scientific article published on 01 June 1906,,Q13442814,,
+American Medical Association,American Medical Association,Q84877060,17,0,1,scientific article published on 01 June 1904,,Q13442814,,
+American Medical Association,Silver Anvil Award,Q92429087,17,0,2,award granted by the Public Relations Society of America to organizations that best forged the public opinion,,Q618779,,
+Silver Anvil Award,Silver Anvil Award,Q92429087,17,1,1,award granted by the Public Relations Society of America to organizations that best forged the public opinion,,Q618779,,

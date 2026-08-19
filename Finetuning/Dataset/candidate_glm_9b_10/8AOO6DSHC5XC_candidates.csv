@@ -1,0 +1,14 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+radon-209m2,radon-209m2,Q18888560,0,0,1,isotope of radon,Rn-209m2|209m2Rn,Q846110|Q2334543,Q1133,
+radon-210m1,radon-210m1,Q18888564,1,0,1,isotope of radon,Rn-210m1|210m1Rn,Q846110|Q2334543,Q1133,
+radon-210m1,radon-210m3,Q18888567,1,0,2,isotope of radon,Rn-210m3|210m3Rn,Q846110|Q2334543,Q1133,
+radon-210m1,radon-210m2,Q18888566,1,0,2,isotope of radon,Rn-210m2|210m2Rn,Q846110|Q2334543,Q1133,
+radon-220,radon-220,Q3280563,2,0,1,isotope of radon,thoron|Rn-220|220Rn,Q2334543,Q1133,Radon-220
+radon-220,Radon-220 determination using activated C and a high-purity Ge detector,Q69619643,2,0,1,scientific article published on 01 October 1986,,Q13442814,,
+radon-220,Radon-220 progeny measurements,Q67912508,2,0,1,scientific article published on 01 February 1991,,Q13442814,,
+radon-231,radon-231,Q47457462,3,0,1,isotope of radon,Rn-231|231Rn,Q2334543,Q1133,
+radon-195,radon-195,Q18888499,4,0,1,isotope of radon,Rn-195|195Rn,Q2334543,Q1133,Radon-195
+radon-195,radon-195m,Q18888500,4,0,1,isotope of radon,Rn-195m|195mRn,Q846110|Q2334543,Q1133,
+radon-216,radon-216,Q18888583,5,0,1,isotope of radon,Rn-216|216Rn,Q2334543,Q1133,Radon-216
+radon-203,radon-203,Q18888530,6,0,1,isotope of radon,Rn-203|203Rn,Q2334543,Q1133,Radon-203
+radon-203,radon-203m,Q18888533,6,0,1,isotope of radon,Rn-203m|203mRn,Q846110|Q2334543,Q1133,

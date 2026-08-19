@@ -1,0 +1,101 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SO 1998ef,,,0,0,0,,,,,
+UN 2006jv,,,1,0,0,,,,,
+UN 2003W,,,2,0,0,,,,,
+SN 2001ik,SN 2001ik,Q9328354,3,0,1,supernova,,Q3937,,
+N 207tv,,,4,0,0,,,,,
+SN 981G,,,5,0,0,,,,,
+S 204O,,,6,0,0,,,,,
+SN 1;20A,SN 1987A,Q584905,7,0,2,supernova,NAME SNR 1987A,Q3937|Q6243|Q67206691|Q2154519|Q71962386|Q72802977|Q207436,,SN 1987A
+SN 1;20A,S Andromedae,Q546708,7,0,2,"supernova in the Andromeda Galaxy, spotted by mankind in August 1885",Supernova 1885|S And|SN 1885A|NOVA And 1885|Nova RJC99 Sep-95|HR 182|AAVSO 0037+40|TIC 438234291,Q3937|Q6458|Q2154519|Q207436|Q67206785|Q6243|Q1059564|Q582000,,SN 1885A
+SN 1;20A,SN-1,Q54955009,7,0,2,cell line,,Q21014462|Q23058136,,
+SN 1;20A,diacylglycerol kinase activity,Q14913817,7,0,2,"Catalysis of the reaction: NTP + 1,2-diacylglycerol = NDP + 1,2-diacylglycerol-3-phosphate.","DGK activity|GO:0004143|arachidonoyl-specific diacylglycerol kinase activity|1,2-diacylglycerol kinase activity|DG kinase activity|sn-1,2-diacylglycerol kinase activity|diglyceride kinase activity|1,2-diacylglycerol kinase (phosphorylating)",Q14860489,Q14863082|Q14863083,
+SN 1;20A,SN 1961I,Q9326449,7,0,2,"supernova within the Messier 61 galaxy, discovered in 1961",,Q3937,,SN 1961I
+SN 1;20A,sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity,Q30105576,7,0,2,"Catalysis of the reaction: hexadecanedioyl-CoA + sn-glycerol 3-phosphate = coenzyme A + 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate",,Q14860489,Q14912987,
+SN 1;20A,"Diacylglycerol kinase, subgroup",Q54444078,7,0,2,InterPro family,"DGK|IPR037607|arachidonoyl-specific diacylglycerol kinase|diglyceride kinase|1,2-diacylglycerol kinase (phosphorylating)|1,2-diacylglycerol kinase|sn-1,2-diacylglycerol kinase|DG kinase",Q417841|Q67015883,Q421851|Q407355|Q106951674,
+SN 1;20A,diacylglycerol cholinephosphotransferase activity,Q21106763,7,0,2,"Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.","cytidine diphosphorylcholine diglyceride transferase activity|CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity|GO:0004142|1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity|1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity|alkylacylglycerol cholinephosphotransferase activity|diacylglycerol choline phosphotransferase activity|1-alkyl-2-acetylglycerol cholinephosphotransferase activity|cytidine diphosphocholine glyceride transferase activity|phosphorylcholine--glyceride transferase activity|CDP-choline diglyceride phosphotransferase activity|alkylacylglycerol choline phosphotransferase activity|sn-1,2-diacylglycerol cholinephosphotransferase activity|phosphocholine diacylglyceroltransferase activity",Q14860489,Q22321340,
+SN 1;20A,SN-1,Q27088827,7,0,2,chemical compound,,Q113145171,Q11173,
+SN 1;20A,SN12C,Q54955018,7,0,2,cell line,SN-12C|SN12 C,Q21014462|Q23058136,,
+SN 1;20A,LSTM-AA-20A,Q54903131,7,0,2,cell line,Mos. 20A|Mos 20(A)|Mos 20 A|Mos 20A|Mos-20A|Mosquito tissue culture No. 20A|AA-20A|20A,Q21014462|Q27555319,,
+SN 1;20A,20A,Q11226341,7,0,2,,,Q187956,,
+SN 1;20A,list of highways numbered 20A,Q6622618,7,0,2,Wikimedia list article,20A,Q13406463,,List of highways numbered 20A
+SN 1;20A,20alpha-Hydroxytingenone,Q105153526,7,0,2,chemical compound,,Q113145171,Q105153523|Q105153524,
+SN 1;20A,"(20R,22R)-20,22-dihydroxycholesterol",Q27105438,7,0,2,chemical compound,"(22R)-20alpha,22-Dihydroxycholesterol|20alpha,22R-Dihydroxycholesterol|(20R,22R)-20,22-Dihydroxycholesterol|20,22-Dihydroxycholesterol",Q113145171,Q143623,"20α,22R-Dihydroxycholesterol"
+SN 1;20A,SARS-CoV-2 Eta variant,Q106171195,7,0,2,"variant of the SARS-CoV-2 virus, discovered in December 2020 in the UK and in Nigeria",B.1.525|G/484K.V3|20A/S484K,Q75913269|Q104450895|Q107059450|Q107143124,,SARS-CoV-2 Eta variant
+SN 1;20A,cortolone,Q27106233,7,0,2,chemical compound,"Cortolon|a-Cortolone|20alpha-Cortolone|5a,17,20a,21-Tetrol-11-one|alpha-Cortolone",Q113145171,Q75008434,
+SN 1;20A,20α-hydroxyprogesterone,Q28529678,7,0,2,chemical compound,20alpha-hydroxyprogesterone|dihydrogesterone,Q113145171,Q76389918|Q27116940,20α-Dihydroprogesterone
+SN 1;20A,aluminium-20,Q18844393,7,0,2,isotope of aluminium,Al-20|20Al,Q784823,Q663,
+SN 1;20A,"aldo-keto reductase family 1, member C18",Q21421968,7,0,2,mammalian protein found in Mus musculus,20-alpha-HSD|1.1.1.149|Akr1c18|20alpha-hydroxysteroid dehydrogenase|20-alpha-hydroxysteroid dehydrogenase|aldo-keto reductase family 1 member C18|20alpha-HSD,Q8054,Q8054,
+SN 1997c,SN 1997C,Q9327393,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997cj,Q9327477,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997ce,Q9327471,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997ck,Q9327478,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997cd,Q9327472,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997ci,Q9327476,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997ct,Q9327488,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997cz,Q9327494,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997ca,Q9327467,8,0,1,supernova,,Q3937,,
+SN 1997c,SN 1997cb,Q9327469,8,0,1,supernova,,Q3937,,
+SN2009de,SN 2009de,Q9331224,9,0,2,supernova,,Q3937,,
+SN 2024fo,SN 2024ggi,Q137112999,10,0,2,Supernova,,Q3937,,SN 2024ggi
+SN 2024fo,SN 2024aecx,Q137196158,10,0,2,Supernova in NGC 3521,,Q3937,,SN 2024aecx
+SN 2024fo,SN 2024abfl,Q134464312,10,0,2,supernova from a red supergiant,,,,SN 2024abfl
+SN 2024fo,SN 2024abfo,Q139030868,10,0,2,Supernova in NGC 1493,,Q3937,,SN 2024abfo
+SN 2024fo,SN 2024kce,Q138511691,10,0,2,Supernova in M49,,Q3937,,
+SN 2024fo,SN 2024adyk,Q138508836,10,0,2,Supernova in LEDA 1346295,,Q3937,,
+SN 2024fo,2024 Six Nations Championship,Q116971248,10,0,2,International rugby union competition,,Q105445345,,2024 Six Nations Championship
+SN 2024fo,SN 2024abfo: A partially stripped type II supernova from a yellow supergiant,Q137194261,10,0,2,scientific article published in June 2025,,Q13442814,,
+SN#2002cf,,,11,0,0,,,,,
+SN 003ga,,,12,0,0,,,,,
+SQ 2007B,Discovery,Q54384,13,0,2,American Space Shuttle orbiter,OV-103|Space Shuttle Discovery|OV103|Orbital Vehicle 103|Discovery Space Shuttle,Q1064394|Q9252000,,Space Shuttle Discovery
+SQ 2007B,Space Shuttle Discovery successfully launches after a month of delays,Q17922780,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery launches on mission STS-124,Q18017632,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery lands in Florida,Q17673463,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery launches,Q17617073,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery lands safely in California,Q17610496,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery lands for final time,Q17610648,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery STS-114 landing postponed for weather,Q17617125,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery launches on final mission,Q17780321,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Discovery launch on indefinite hold,Q17617037,13,0,2,Wikinews article,,Q17633526,,
+SQ 2007B,Space Shuttle Mission 2007,Q7572493,13,0,2,2011 video game,,Q7889,,Space Shuttle Mission 2007
+SQ 2007B,Space Shuttle Mission Simulator,Q140355210,13,0,2,video game,,Q7889,,
+SQ 2007B,Space Shuttle Mission Simulation (NAID 101939829),Q66358042,13,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+SQ 2007B,Space Shuttle orbiter,Q1064394,13,0,2,reusable spacecraft component of the Space Shuttle system,,Q29048322,Q1414565|Q7217761|Q96401666|Q125217474,Space Shuttle orbiter
+SQ 2007B,Space Shuttle Orbiter Moffett Field wind tunnel model,Q136337517,13,0,2,"Model (0.36 scale) of the NASA Space Shuttle at Moffet Field, use for wind tunnel testing.",Moffett Field model|Space Shuttle Orbiter wind tunnel model,Q136663091|Q1601329,,
+SQ 2007B,SPACE SHUTTLE ORBITER 099 CHALLENGER 51-B LANDING (NAID 45643),Q71175442,13,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+SQ 2007B,SPACE SHUTTLE ORBITER 099 CHALLENGER 51-B LANDING (NAID 45645),Q71175445,13,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+SQ 2007B,Space Shuttle program,Q1775296,13,0,2,"United States government's crewed launch vehicle program, administered by NASA from 1972 to 2011",Space Transportation System|STS,Q21605492|Q13226541,,Space Shuttle program
+SQ 2007B,Space Shuttle Program Research and Development Files (NAID 108119232),Q64176832,13,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+SQ 2007B,Space Shuttle Program Requirements (NAID 113313398),Q64177976,13,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+SQ 2007B,Space Shuttle Program Configuration Management Records (NAID 135843897),Q70094897,13,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+N 1997G,,,14,0,0,,,,,
+SN 1997o,SN 1997O,Q9327402,15,0,1,supernova,,Q3937,,
+SN 1997o,minor planet,Q1022867,15,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1997o,Minor Planet Center database,Q106600690,15,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1997o,Minor Planet Center,Q522039,15,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1997o,minor planet moon,Q657829,15,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1997o,Minor Planet Circulars,Q6382430,15,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1997o,minor planet group,Q2332332,15,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1997o,list of minor planets,Q37651,15,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1997o,Minor planet designation,Q817125,15,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1997o,Minor Planet Bulletin,Q6869125,15,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1997o,Minor Planet Catalogue,Q55178248,15,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1997o,asteroid,Q3863,15,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1997o,asteroid belt,Q2179,15,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1997o,Asteroid,Q4810751,15,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1997o,Asteroid,Q113629153,15,0,2,early access video game,,Q7889,,
+SN 1997o,starfish,Q25349,15,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1997o,Asteroid,Q132852203,15,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1997o,Asteroideae,Q21004,15,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1997o,Asteroids,Q748890,15,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1997o,Asteroid Terrestrial-impact Last Alert System,Q17002475,15,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1997o,Vesta,Q3030,15,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+S 2006ja,,,16,0,0,,,,,
+SN 2007sl,SN 2007sl,Q9330787,17,0,1,supernova,,Q3937,,
+N 1945B,,,18,0,0,,,,,
+SN2000fa,,,19,0,0,,,,,
+SN 1<95F,,,20,0,0,,,,,
+SN 2002dy,SN 2002dy,Q9328547,21,0,1,supernova,,Q3937,,
+VN 1999dl,,,22,0,0,,,,,
+SN 992au,,,23,0,0,,,,,
+S 1997Q,,,24,0,0,,,,,

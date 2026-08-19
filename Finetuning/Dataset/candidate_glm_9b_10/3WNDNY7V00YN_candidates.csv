@@ -1,0 +1,313 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+India,India,Q668,0,0,1,country in South Asia,Republic of India|Bharatvarsh|Hindustan|Bharata|Hindoostan|Indostan|Bharat Ganarajya|Al Hind|Tianzhu|Tenjiku,Q6256|Q3624078|Q223832,,India
+India,Indiana,Q1415,0,0,1,state of the United States of America,"Indiana, United States|State of Indiana|Hoosier State|Ind.",Q35657,,Indiana
+India,Indianapolis,Q6346,0,0,1,capital city of the U.S. state of Indiana and seat of Marion County,"Circle City|Indy|Naptown|Crossroads of America|Racing Capital of the World|Amateur Sports Capital of the World|INDPLS|India-no-place|Railroad City|Indianapolis, IN|Indianapolis, Ind.",Q62049|Q1093829|Q1074523|Q1549591|Q3301053,,Indianapolis
+India,India,Q16429066,0,0,1,female given name,,Q11879590,,India (given name)
+India,Indian Railways,Q819425,0,0,1,state-owned enterprise operating India's national railway system,Indian State Railways|IR,Q2324835|Q249556,,Indian Railways
+India,Indiana University,Q6608367,0,0,1,"university system, Indiana, United States",Indiana University system|indiana.edu,Q1075106|Q2385804|Q3914,,Indiana University
+India,Indian Ocean,Q1239,0,0,1,"ocean bounded by Africa, Asia, Australia, and Antarctica",Eastern Ocean|Eastern Sea|Indian Sea|Oriental Sea|Oriental Ocean,Q9430|Q165|Q82794,,Indian Ocean
+India,UTC+05:30,Q6828,0,0,1,identifier for a time offset from UTC of +5:30,Kunlun Time Zone|Madras Time|Sri Lanka Standard Time|Indian Standard Time|UTC +5:30|IST|UTC+5:30|UTC+5.5,Q17272482,,UTC+05:30
+India,India,Q274592,0,0,1,American pornographic actress and rapper,Shamika Brown|India Morel,Q5,,India (actress)
+India,India Post,Q3519720,0,0,1,government-operated postal system in India,India Posts|Indian Post Office|Department of Posts|Indian Post and Telegraph Department|Post Office of India|Indian postal department,Q327333|Q1529128|Q4830453,,India Post
+India,Government of India,Q2767140,0,0,2,"legislative, executive and judiciary authority of India",Union Government|Central Government|Govt. of India|GoI|Bhārat Sarkār|Indian Government|India government,Q20076236|Q43229|Q1006644,,Government of India
+India,Indian Independence Act 1947,Q1661579,0,0,2,1947 UK parliament act,Government of India Act 1947,Q105774620,,Indian Independence Act 1947
+India,Government of India Act 1935,Q3241445,0,0,2,UK legislation for the colonial government of India; republished version,,Q105774620,,Government of India Act 1935
+India,Government of India Act 1833,Q7401342,0,0,2,"Act of the Parliament of the United Kingdom, creates the post of Governor General of India, transfers ownership of Saint Helena from East India Company to the British Crown, ceases business activities of the East India Company",Charter Act of 1833|Saint Helena Act 1833,Q105774620,,Government of India Act 1833
+India,Government of India Act 1858,Q1359529,0,0,2,1858 United Kingdom of Great Britain and Ireland Act of Parliament 21 & 22 Vic c. 106,,Q105774620,,Government of India Act 1858
+India,Government of India Act 1915,Q16931170,0,0,2,an act of the Parliament of the United Kingdom,,Q4677783,,Government of India Act 1915
+India,Government of India Act 1919,Q2615705,0,0,2,Act of British Parliament,Montagu-Chelmsford Reforms,Q4677783,,Government of India Act 1919
+India,State of Indiana,Q5589221,0,0,2,government of the U.S. state of Indiana,Indiana government|government of Indiana,Q7603694,,Government of Indiana
+India,"Government of India, Annual Administration Reports",Q107134086,0,0,2,The annual administration reports of the territories of British India provide a summary record of the main events and developments in each department of government.,IOR V/10,Q3511132,Q6019377,
+India,Government of India Act 1912,Q16839784,0,0,2,which modified the Indian Councils Act 1909 and undid the Partition of Bengal (1905),,Q4677783,,Government of India Act 1912
+Government of India,Government of India,Q2767140,0,1,1,"legislative, executive and judiciary authority of India",Union Government|Central Government|Govt. of India|GoI|Bhārat Sarkār|Indian Government|India government,Q20076236|Q43229|Q1006644,,Government of India
+Government of India,Indian Independence Act 1947,Q1661579,0,1,1,1947 UK parliament act,Government of India Act 1947,Q105774620,,Indian Independence Act 1947
+Government of India,Government of India Act 1935,Q3241445,0,1,1,UK legislation for the colonial government of India; republished version,,Q105774620,,Government of India Act 1935
+Government of India,Government of India Act 1833,Q7401342,0,1,1,"Act of the Parliament of the United Kingdom, creates the post of Governor General of India, transfers ownership of Saint Helena from East India Company to the British Crown, ceases business activities of the East India Company",Charter Act of 1833|Saint Helena Act 1833,Q105774620,,Government of India Act 1833
+Government of India,Government of India Act 1858,Q1359529,0,1,1,1858 United Kingdom of Great Britain and Ireland Act of Parliament 21 & 22 Vic c. 106,,Q105774620,,Government of India Act 1858
+Government of India,Government of India Act 1915,Q16931170,0,1,1,an act of the Parliament of the United Kingdom,,Q4677783,,Government of India Act 1915
+Government of India,Government of India Act 1919,Q2615705,0,1,1,Act of British Parliament,Montagu-Chelmsford Reforms,Q4677783,,Government of India Act 1919
+Government of India,State of Indiana,Q5589221,0,1,1,government of the U.S. state of Indiana,Indiana government|government of Indiana,Q7603694,,Government of Indiana
+Government of India,"Government of India, Annual Administration Reports",Q107134086,0,1,1,The annual administration reports of the territories of British India provide a summary record of the main events and developments in each department of government.,IOR V/10,Q3511132,Q6019377,
+Government of India,Government of India Act 1912,Q16839784,0,1,1,which modified the Indian Councils Act 1909 and undid the Partition of Bengal (1905),,Q4677783,,Government of India Act 1912
+Government of India,"India Government Mint, Mumbai",Q6019304,0,1,2,mint,Bombay mint|Mumbai mint,Q464780,,"India Government Mint, Mumbai"
+Government of India,"India Government Mint, Kolkata",Q6019316,0,1,2,mint,Kolkata mint|Calcutta mint|Murhdabad mint,Q464780,,"India Government Mint, Kolkata"
+Government of India,"India Government Mint, Hyderabad",Q28180328,0,1,2,mint in India,Hyderabad mint,Q43229,,"India Government Mint, Hyderabad"
+Government of India,"India Government Mint, Noida",Q28173588,0,1,2,mint,Noida mint|Noida,Q43229|Q464780,,"India Government Mint, Noida"
+Government of India,"India Government, etc. Act 1807",Q105819391,0,1,2,1807 United Kingdom of Great Britain and Ireland Act of Parliament 47 Geo. 3 session 2 c. 68,,Q105774620,,
+Government of India,India Government Mint,Q6019300,0,1,2,- For Coins,,Q4830453,,India Government Mint
+Government of India,Union Government scheme,Q56856169,0,1,2,government programme in India,government scheme in India|government programme in India|Indian government scheme,,Q22222786|Q820655,
+Government of India,Indian government response to the COVID-19 pandemic,Q97656939,0,1,2,actions by the Indian government on COVID-19 pandemic,,Q87491759,,Indian government response to the COVID-19 pandemic
+Government of India,"Indian Government blocks Blogger, Typepad and Geocities",Q18016734,0,1,2,Wikinews article,,Q17633526,,
+Government of India,Indian government degree college,Q5588790,0,1,2,type of public-sector tertiary education institution in India,government degree colleges in India|government degree college in India|government degree college|GDC (India),,Q189004,Government degree colleges in India
+Government of India,Indian Government gives green signal to community radio,Q17655617,0,1,2,Wikinews article,,Q17633526,,
+Government of India,Indian Government Information Service,Q121078894,0,1,2,production company,,Q11396960,,
+Government of India,Indian government outlines plan to try to eliminate tuberculosis by 2020,Q85905650,0,1,2,scientific article published on 03 November 2014,,Q13442814,,
+Government of India,Indian government proposes quadrupling healthcare spending to 2.5% of GDP in five years,Q86647542,0,1,2,scientific article published on 02 February 2015,,Q13442814,,
+Government of India,Indian government denies health impact of brown cloud,Q28769592,0,1,2,scientific article (publication date: 7 September 2002),,Q13442814,,
+Georgia,Georgia,Q1428,1,0,1,state of the United States of America,"State of Georgia|Georgia, United States|The Peach State|The Goober State|The Empire State of the South",Q35657,,Georgia (U.S. state)
+Georgia,Georgia,Q378694,1,0,1,female given name,Georgia (first name)|Georgia (given name)|Geórgia,Q11879590,,Georgia (name)
+Georgia,Georgia,Q230,1,0,1,country in the Caucasus region of Europe and Asia,Republic of Georgia|Georgia (country)|Georgia (Sakartvelo)|Sakartvelo,Q6256|Q3624078|Q179164|Q7270|Q4209223|Q236036|Q140892892,,Georgia (country)
+Georgia,University of Georgia,Q761534,1,0,1,"public university located in Athens, Georgia, United States",UGA|uga.edu,Q3918|Q1620797|Q615150|Q23002039|Q62078547|Q2085381,,University of Georgia
+Georgia,Georgia,Q17317566,1,0,1,genus of plants,,Q16521,,
+Georgia,Georgia Tech,Q864855,1,0,1,"public research university in Atlanta, Georgia, United States",GA Tech|GIT|GT|GATech|Georgia School of Technology|gatech.edu|Georgia Institute of Technology|North Avenue Trade School,Q62078547|Q23002039|Q1371037,,Georgia Tech
+Georgia,Georgian,Q8108,1,0,1,Kartvelian language,Georgian language|Kartuli|Kartuli ena|Georgic|Gruzinski|Kharthuli + Imeruli,Q33742|Q1097949|Q1288568,Q12907009,Georgian language
+Georgia,Georgia,Q37478625,1,0,1,family name,,Q101352,,
+Georgia,Georgia Museum of Art,Q5547611,1,0,1,"museum in Athens, Georgia, USA",,Q207694|Q866133,,Georgia Museum of Art
+Georgia,Georgia,Q107282322,1,0,1,genus of molluscs,,Q16521,,
+Georgia,Government of Georgia,Q2613132,1,0,2,decision-making body in Georgia (Sakartvelo),Cabinet of Georgia,Q7188,,Government of Georgia (country)
+Georgia,State of Georgia,Q5589210,1,0,2,government of the U.S. state of Georgia,Georgia government|government of Georgia|Georgia state government,Q7603694,,Government of Georgia (U.S. state)
+Georgia,Government of Georgia,Q5589209,1,0,2,Wikimedia disambiguation page,,Q4167410,,Government of Georgia
+Government of Georgia,Government of Georgia,Q2613132,1,1,1,decision-making body in Georgia (Sakartvelo),Cabinet of Georgia,Q7188,,Government of Georgia (country)
+Government of Georgia,State of Georgia,Q5589210,1,1,1,government of the U.S. state of Georgia,Georgia government|government of Georgia|Georgia state government,Q7603694,,Government of Georgia (U.S. state)
+Government of Georgia,Government of Georgia,Q5589209,1,1,1,Wikimedia disambiguation page,,Q4167410,,Government of Georgia
+Romania,Romania,Q218,2,0,1,country in Southeast Europe,Roumania|Rumania,Q3624078|Q6256|Q179671,,Romania
+Romania,Romania,Q3441038,2,0,1,academic journal,,Q41298|Q5633421,,
+Romania,Romanian,Q7913,2,0,1,Romance language,Romanian language|Rumanian|Rumanian language|Roumanian|Roumanian language|Moldovan|Moldovan language|Daco-Romanian|Daco-Romanian language|Română|Românește,Q33742|Q1288568,Q147576,Romanian language
+Romania,Byzantine Empire,Q12544,2,0,1,Roman Empire during Late Antiquity and the Middle Ages,Byzantium|Eastern Roman Empire|Roman Empire|Lower Empire|Romanía|Greek Empire|Empire of the Greeks,Q48349|Q3024240|Q11514315|Q392160|Q56061|Q11042,,Byzantine Empire
+Romania,Romania,Q37070394,2,0,1,family name,,Q101352,,
+Romania,Romanian Wikipedia,Q199864,2,0,1,"Romanian-language edition of Wikipedia, the free-content encyclopedia",,Q10876391,,Romanian Wikipedia
+Romania,Romania men's national association football team,Q168397,2,0,1,national association football team,Romania national soccer team|Romania national football team|Romania national association football team|Romania men's national football team|Romania men's national soccer team,Q135408445,Q1194951,Romania national football team
+Romania,United Principalities of Moldavia and Wallachia,Q958291,2,0,1,1859–1881 personal union and early form of the modern Romanian state,United Principalities|Romanian United Principalities|Romania,Q3024240|Q1371288,,United Principalities of Moldavia and Wallachia
+Romania,Romanian alphabet,Q1095058,2,0,1,Latin-script alphabet of the Romanian written language,,Q29575627,,Romanian alphabet
+Romania,Historic Monument,Q916620,2,0,1,designation for National Heritage Sites in Romania,Romanian cultural property of national significance|National heritage site of Romania,Q30634609,Q358|Q2065736,Monument istoric
+Romania,Government of Romania,Q2528718,2,0,2,body exerting the executive power in Romania,Romanian government|Cabinet of Romania|Executive of Romania|Romanian central public administration|Cabinet of Ministers of Romania,Q35798|Q895914,Q7188|Q640506,Government of Romania
+Government of Romania,Government of Romania,Q2528718,2,1,1,body exerting the executive power in Romania,Romanian government|Cabinet of Romania|Executive of Romania|Romanian central public administration|Cabinet of Ministers of Romania,Q35798|Q895914,Q7188|Q640506,Government of Romania
+Government of Romania,Romanian government to sell 10 percent of its shares in Romgaz,Q17712179,2,1,2,Wikinews article,,Q17633526,,
+Government of Romania,Romanian government to strengthen laws against tax evasion,Q17660633,2,1,2,Wikinews article,,Q17633526,,
+Government of Romania,Romanian government approves new minorities law,Q17660618,2,1,2,Wikinews article,,Q17633526,,
+Government of Romania,Romanian government asks kidnappers to release female journalist,Q17668910,2,1,2,Wikinews article,,Q17633526,,
+Latvia,Latvia,Q211,3,0,1,sovereign state in northeastern Europe,lv|Leţmо̄ Vabāmо̄|Leţmо̄|Republic of Latvia|Latvian Republic|Latvija|Latveja|Latvijas Republika|Latvejas Republika,Q3624078|Q63791824|Q6256,,Latvia
+Latvia,Latvian,Q9078,3,0,1,"Baltic language, official in Latvia and the European Union",Latvian language|Lettish|Lettish language|Latviešu,Q34770|Q152559|Q1288568,Q149944,Latvian language
+Latvia,Latvian Wikipedia,Q728945,3,0,1,Latvian-language edition of Wikipedia,,Q10876391,,Latvian Wikipedia
+Latvia,The Latvian Geospatial Information Agency,Q16362112,3,0,1,Latvia,Latvian Geospatial Information Agency|LGIA|lgia.gov.lv,Q327333|Q8513|Q6979629,,Latvian Geospatial Information Agency
+Latvia,Latvia,Q6497226,3,0,1,constituency of the European Parliament,,Q2631496,,Latvia (European Parliament constituency)
+Latvia,1284 Latvia,Q137583,3,0,1,asteroid,Latvia,Q3863,,1284 Latvia
+Latvia,Latvia men's national football team,Q189322,3,0,1,men's national association football team representing Latvia,Latvia national football team,Q135408445,Q1194951,Latvia national football team
+Latvia,Latvian Soviet Socialist Republic,Q192180,3,0,1,republic of the Soviet Union (1940-1991),Latvian SSR|LSSR|Soviet Latvia|Latvijas Padomju Sociālistiskā Republika|Латвийская Советская Социалистическая Республика|LPSR|ЛССР|Latvijas PSR,Q236036,,Latvian Soviet Socialist Republic
+Latvia,RAF-977,Q2425377,3,0,1,soviet bustype,Latvia|RAF-977D,Q3231690,Q946479,RAF-977
+Latvia,RAF-2203,Q1065645,3,0,1,van and minibus manufactured by Rīgas Autobusu Fabrika in Latvia,Latvia,Q3231690,,RAF-2203
+Latvia,Government of Latvia,Q2502537,3,0,2,Executive authority in Latvia,Cabinet of Ministers|Cabinet of Latvia|Cabinet of Ministers of Latvia,Q35798,Q640506,Government of Latvia
+Government of Latvia,Government of Latvia,Q2502537,3,1,1,Executive authority in Latvia,Cabinet of Ministers|Cabinet of Latvia|Cabinet of Ministers of Latvia,Q35798,Q640506,Government of Latvia
+Estonia,Estonia,Q191,4,0,1,country in Northern Europe,Republic of Estonia|Estland|ee|Eesti Vabariik,Q6256|Q3624078|Q179164|Q7270|Q63791824,,Estonia
+Estonia,Estonian,Q9072,4,0,1,Finnic language,Estonian language|North Estonian|North Estonian language|Northern Estonian|Northern Estonian language,Q33742|Q152559|Q1288568,Q33328|Q34113,Estonian language
+Estonia,Estonian Wikipedia,Q200060,4,0,1,[et] Estonian-language edition of Wikipedia,,Q10876391,,Estonian Wikipedia
+Estonia,Estonia men's national football team,Q186914,4,0,1,men's national association football team representing Estonia,Estonia national football team,Q135408445,Q1194951,Estonia national football team
+Estonia,Estonian Journal of Earth Sciences,Q12362408,4,0,1,scientific journal,Proceedings of the Estonian Academy of Sciences. Geology =|Proceedings of the Estonian Academy of Sciences. Geology,Q5633421|Q737498|Q773668,,
+Estonia,MS Estonia,Q828458,4,0,1,cruise ferry which sunk on 28 September 1994,M/S Estonia|Viking Sally|Silja Star|Wasa King|Estonia|MV Estonia,Q473932|Q852190,,MS Estonia
+Estonia,Register of Cultural Monuments,Q3743725,4,0,1,Estonian heritage register,Estonian cultural monuments registry|National Register of Cultural Monuments,Q15097084|Q3071343,,National Register of Cultural Monuments
+Estonia,Estonia,Q5401432,4,0,1,constituency of the European Parliament,,Q2631496,,Estonia (European Parliament constituency)
+Estonia,Estonian National Museum,Q1370397,4,0,1,"museum in Tartu, Estonia",National museum of Estonia,Q17431399,,Estonian National Museum
+Estonia,Estonian Soviet Socialist Republic,Q130280,4,0,1,republic of the Soviet Union (1940–1991),Estonian SSR|Estonian S.S.R|Estonian ssr|Soviet Estonia,Q236036|Q208164|Q3624078|Q3024240,,Estonian Soviet Socialist Republic
+Estonia,Estonian government-in-exile,Q2061393,4,0,2,formally declared governmental authority of Estonia between 1944–1992,,Q678116,,Estonian government-in-exile
+Government of Estonia,Government of Estonia,Q2421589,4,1,1,overview of government of Estonia,Government of the Republic of Estonia|Cabinet of Estonia|Estonia government,Q7188,Q7188,Government of Estonia
+Government of Estonia,Estonian government-in-exile,Q2061393,4,1,2,formally declared governmental authority of Estonia between 1944–1992,,Q678116,,Estonian government-in-exile
+Bulgaria,Bulgaria,Q219,5,0,1,country in southeast Europe,Republic of Bulgaria|Bulgarian Republic,Q6256|Q179164|Q3624078,,Bulgaria
+Bulgaria,Bulgaria,Q3655997,5,0,1,genus of fungi,,Q16521,,Bulgaria (fungus)
+Bulgaria,Bulgarian,Q7918,5,0,1,South Slavic language,Bulgarian language|Bŭlgarski,Q34770|Q1288568,Q146665,Bulgarian language
+Bulgaria,Bulgarian Wikipedia,Q11913,5,0,1,Bulgarian-language edition of Wikipedia,,Q10876391,,Bulgarian Wikipedia
+Bulgaria,Bulgaria,Q77286328,5,0,1,family name,,Q101352,,
+Bulgaria,Bulgaria men's national football team,Q180845,5,0,1,men's national association football team representing Bulgaria,Bulgarian national football team|Bulgarian national soccer team|Bulgaria national soccer team|Bulgaria national football team,Q135408445,Q1194951,Bulgaria national football team
+Bulgaria,Bulgarians,Q133255,5,0,1,South Slavic ethnic group,Bulgarian people,Q41710,Q273824,Bulgarians
+Bulgaria,Bulgaria,Q4996149,5,0,1,constituency of the European Parliament,,Q2631496,,Bulgaria (European Parliament constituency)
+Bulgaria,Bulgaria,Q20500627,5,0,1,"square in Sofia, Bulgaria",Bulgaria Sq.,Q174782,,
+Bulgaria,village of Bulgaria,Q15630849,5,0,1,type of village,Bulgarian village|village in Bulgaria,Q28872924,Q95993392|Q532,
+Bulgaria,Council of Ministers of Bulgaria,Q2396053,5,0,2,executive authority in Bulgaria,Cabinet of Bulgaria|Government of Bulgaria,Q7188|Q327333,Q640506,Government of Bulgaria
+Council of Ministers of Bulgaria,Council of Ministers of Bulgaria,Q2396053,5,1,1,executive authority in Bulgaria,Cabinet of Bulgaria|Government of Bulgaria,Q7188|Q327333,Q640506,Government of Bulgaria
+Council of Ministers of Bulgaria,Ministry of Foreign Affairs of Bulgaria,Q1813345,5,1,2,Bulgarian ministry,Ministry of Foreign Affairs of the Republic of Bulgaria|Bulgarian Ministry of Foreign Affairs,Q20901295|Q136069342,,Ministry of Foreign Affairs (Bulgaria)
+Council of Ministers of Bulgaria,Ministry of Defence of Bulgaria,Q3623141,5,1,2,Bulgarian ministry,Bulgarian Ministry of Defence|MoD Bulgaria,Q1788820|Q136069342,,Ministry of Defence (Bulgaria)
+Council of Ministers of Bulgaria,Ministry of Finance,Q104972247,5,1,2,Bulgarian ministry of Finance,Bulgarian Ministry of Finance,Q15711797|Q136069342,,Ministry of Finance (Bulgaria)
+Finland,Finland,Q33,6,0,1,country in Northern Europe,Republic of Finland|Finnia|Land of Thousand Lakes|fi|Suomen tasavalta|Republiken Finland,Q3624078|Q6256|Q179164|Q63791824,,Finland
+Finland,Grand Duchy of Finland,Q62633,6,0,1,predecessor state of modern Finland,Finland,Q3024240|Q165116|Q671370|Q19832712,,Grand Duchy of Finland
+Finland,Finnish National Gallery,Q2983474,6,0,1,organization of three museums that make up the largest art museum institution of Finland,Kansallisgalleria|Finlands Nationalgalleri,Q207694,,Finnish National Gallery
+Finland,Social Democratic Party of Finland,Q499029,6,0,1,registered political party in Finland,Suomen Sosialidemokraattinen Puolue|SDP|Finlands Socialdemokratiska Parti|demarit,Q7278|Q108564724,,Social Democratic Party of Finland
+Finland,Finland,Q5450446,6,0,1,constituency of the European Parliament,,Q2631496,,Finland (European Parliament constituency)
+Finland,Finland,Q23045056,6,0,1,1911 documentary film,,Q11424,,
+Finland,Swedish-speaking population of Finland,Q726673,6,0,1,"linguistic group, Finns speaking Swedish as their first language",Finland Swedes|finlandssvenskar,Q16664665|Q5494543|Q383340|Q30103,Q16009362,Swedish-speaking population of Finland
+Finland,Finland,Q135499866,6,0,1,1992 studio album by David Shutrick,,Q482994,,
+Finland,Southwest Finland,Q5712,6,0,1,region of Finland,Varsinais-Suomi|Varsinais-Suomen maakunta|Egentliga Finland|Finland Proper,Q193512,,Southwest Finland
+Finland,Finland men's national football team,Q186532,6,0,1,men's national association football team representing Finland,Finland national football team|Finland national association football team,Q135408445,Q1194951,Finland national football team
+Finland,Finnish Government,Q2366737,6,0,2,executive body that directs the politics of Finland,Valtioneuvosto|Suomen valtioneuvosto|Statsrådet|Cabinet of Finland|Council of State of Finland,Q2659904|Q7188|Q43229,Q7188|Q640506,Finnish Government
+Finland,Government of Finland,Q1408055,6,0,2,executive branch of the Republic of Finland,Finnish government|Finland government,Q7188,,
+Finland,Finnish government agency,Q68312351,6,0,2,state-controlled organization that act independently to carry out the policies of the Government of Finland,,,Q327333|Q25450488,
+Finland,"Finnish government formation, 2011",Q19873377,6,0,2,,,,,2011 Finnish government formation
+Finnish Government,Finnish Government,Q2366737,6,1,1,executive body that directs the politics of Finland,Valtioneuvosto|Suomen valtioneuvosto|Statsrådet|Cabinet of Finland|Council of State of Finland,Q2659904|Q7188|Q43229,Q7188|Q640506,Finnish Government
+Finnish Government,Government of Finland,Q1408055,6,1,1,executive branch of the Republic of Finland,Finnish government|Finland government,Q7188,,
+Finnish Government,Finnish government agency,Q68312351,6,1,1,state-controlled organization that act independently to carry out the policies of the Government of Finland,,,Q327333|Q25450488,
+Finnish Government,"Finnish government formation, 2011",Q19873377,6,1,1,,,,,2011 Finnish government formation
+Liechtenstein,Liechtenstein,Q347,7,0,1,country in Central Europe,Principality of Liechtenstein|FL|li,Q3624078|Q208500|Q179164|Q136361597|Q26879769|Q244381|Q6256,,Liechtenstein
+Liechtenstein,Liechtenstein,Q62785046,7,0,1,family name,,Q101352,,
+Liechtenstein,Liechtenstein men's national football team,Q186690,7,0,1,men's national association football team representing Liechtenstein,Liechtensteinische Fussballnationalmannschaft|Liechtenstein national football team,Q135408445,Q1194951,Liechtenstein national football team
+Liechtenstein,Liechtenstein Football Association,Q387416,7,0,1,governing body of association football in Liechtenstein,,Q1478443,,Liechtenstein Football Association
+Liechtenstein,Liechtenstein Football Cup,Q507971,7,0,1,national men's association football cup in Liechtenstein,Liechtensteiner Cup,Q8463186,,Liechtenstein Football Cup
+Liechtenstein,Liechtenstein Museum,Q1824069,7,0,1,art museum originating mostly from the collection of the Princes of Liechtenstein,Liechtenstein. The Princely Collections|Princely Collections of the House of Liechtenstein|Liechtenstein - The Princely Collections,Q207694|Q7328910,,Liechtenstein Museum
+Liechtenstein,II. Stammtafel des regierenden Hauses Liechtenstein (BLKÖ),Q90172403,7,0,1,"genealogical table in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 15, p. 119b)",Liechtenstein,Q9353932,,
+Liechtenstein,I. Stammtafel des regierenden Hauses Liechtenstein (BLKÖ),Q90172400,7,0,1,"genealogical table in the Biographisches Lexikon des Kaiserthums Oesterreich (vol. 15, p. 119a)",Liechtenstein,Q9353932,,
+Liechtenstein,Liechtenstein Castle,Q699474,7,0,1,castle located near Maria Enzersdorf in Lower Austria bordering Vienna,,Q23413|Q33506,,Liechtenstein Castle (Maria Enzersdorf)
+Liechtenstein,Liechtensteinklamm,Q259959,7,0,1,ravine of Großarler Ache in Salzburg,,Q39816|Q1744266,,Liechtensteinklamm
+Liechtenstein,Cabinet of Liechtenstein,Q2137649,7,0,2,governing body of Liechtenstein since 2021,Government of Liechtenstein,Q7188,Q640506,
+Cabinet of Liechtenstein,Cabinet of Liechtenstein,Q2137649,7,1,1,governing body of Liechtenstein since 2021,Government of Liechtenstein,Q7188,Q640506,
+East Timor,Timor-Leste,Q574,8,0,1,sovereign state situated on several islands in Southeast Asia,Democratic Republic of Timor-Leste|East Timor|TL,Q6256|Q3624078|Q112099,,Timor-Leste
+East Timor,UTC+09:00,Q7041,8,0,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+East Timor,Timor-Leste men's national football team,Q270973,8,0,1,national football team of Timor-Leste,East Timor national football team|Timor-Leste national football team|East Timor men's national football team,Q135408445,Q1194951,Timor-Leste national football team
+East Timor,flag of East Timor,Q30768,8,0,1,national flag of the Democratic Republic of Timor-Leste,flag of Timor-Leste|East Timor flag,Q186516,,Flag of Timor-Leste
+East Timor,East Timor centavo coins,Q572213,8,0,1,currency,,Q8142|Q58093,,Timor-Leste centavo coins
+East Timor,Timor-Leste Defence Force,Q1537543,8,0,1,combined military forces of East Timor,East Timor military|military of East Timor|mil East Timor|F-FDTL|Falintil-FDTL,Q772547,,Timor-Leste Defence Force
+East Timor,East Timor–Indonesia border,Q3088770,8,0,1,international border,border between Indonesia and East Timor|border between East Timor and Indonesia|Indonesia-East Timor border|East Timor-Indonesia border|Indonesia–East Timor border,Q133346|Q15104814|Q3089219|Q12413618,,Indonesia–Timor-Leste border
+East Timor,COVID-19 pandemic in East Timor,Q87836826,8,0,1,viral outbreak in East Timor,2020 coronavirus pandemic in East Timor|East Timor COVID-19 pandemic|2020 East Timor COVID-19 pandemic|COVID pandemic in East Timor,Q3241045,,COVID-19 pandemic in Timor-Leste
+East Timor,history of East Timor,Q840261,8,0,1,aspect of history,East Timor history,Q17544377,,History of Timor-Leste
+East Timor,culture of East Timor,Q276844,8,0,1,pattern of human activity and symbolism associated with East Timor and its people,culture of Timor-Leste|East Timorese culture|culture in East Timor|East Timor culture,Q19958368,Q13152690,Culture of Timor-Leste
+East Timor,Cabinet of East Timor,Q2137629,8,0,2,,,Q35798,Q640506,
+Cabinet of East Timor,Cabinet of East Timor,Q2137629,8,1,1,,,Q35798,Q640506,
+Norway,Norway,Q20,9,0,1,country in Northern Europe,Kingdom of Norway,Q3624078|Q6256,,Norway
+Norway,brown rat,Q184224,9,0,1,species of mammal,street rat|sewer rat|wharf rat|water rat|Parisian rat|Norwegian rat|Norway rat|Rattus norvegicus|🐀|rat|Hanover rat,Q16521|Q213907,,Brown rat
+Norway,Norway,Q37284541,9,0,1,family name,,Q101352,,
+Norway,Norway,Q98777096,9,0,1,male given name,,Q12308941,,
+Norway,Picea abies,Q145992,9,0,1,species of plant,Norway spruce|European spruce,Q16521,Q11992872,Picea abies
+Norway,Norway men's national association football team,Q184387,9,0,1,national association football team representing Norway,Norway national football team|Norway national soccer team|Norway national association football team|Norway men's national football team|Team Norway,Q135408445,Q1194951,Norway national football team
+Norway,Kingdom of Norway,Q2196956,9,0,1,former Kingdom from 872 to 1397,Norwegian Empire|Norway,Q3024240|Q48349|Q7269,,Kingdom of Norway (872–1397)
+Norway,Norway,Q2734330,9,0,1,"town in Maine, USA","Norway, ME|Norway, Maine",Q15127012,,"Norway, Maine"
+Norway,Norway,Q2480177,9,0,1,"city in Dickinson County, Michigan, United States","Norway, MI|Norway, Michigan",Q1093829,,"Norway, Michigan"
+Norway,Kingdom of Norway,Q2597352,9,0,1,short-lived monarchy in Northern Europe (1814),Norwegian Kingdom|Norway,Q3024240|Q3624078|Q10711424,,Kingdom of Norway (1814)
+Norway,Government of Norway,Q1770849,9,0,2,"conducts, directs and supervises the policy of the Kingdom of Norway, both internally and externally",cabinet of Norway|Norwegian Government|Norway government,Q7188|Q126718835|Q43229,Q7188,Government of Norway
+Government of Norway,Government of Norway,Q1770849,9,1,1,"conducts, directs and supervises the policy of the Kingdom of Norway, both internally and externally",cabinet of Norway|Norwegian Government|Norway government,Q7188|Q126718835|Q43229,Q7188,Government of Norway
+Government of Norway,government agency in Norway,Q7061341,9,1,2,,Norwegian government agency,,Q327333,
+Government of Norway,Norwegian Government Security and Service Organisation,Q5588670,9,1,2,,DSS,Q327333|Q17773527,,Norwegian Government Security and Service Organisation
+Government of Norway,Norwegian Government Building R6,Q62080763,9,1,2,Government building 6,Regjeringsbygg 6|Govern,Q41176,,
+Government of Norway,Norwegian Government-in-exile,Q12716574,9,1,2,Norwegian government established in London after the German invasion (1940–1945),London Cabinet,,,
+Government of Norway,government agencies in Norway,Q99297702,9,1,2,Wikimedia list article,Norwegian government agencies,Q13406463,,Government agencies in Norway
+Government of Norway,Norwegian government considers prosecuting Scientology,Q17656476,9,1,2,Wikinews article,,Q17633526,,
+Nauru,Nauru,Q697,10,0,1,country in Oceania,Pleasant Island|nr|Republic of Naoero|Republic of Nauru|Naoero,Q3624078|Q112099|Q7270|Q6256,,Nauru
+Nauru,Nauruan,Q13307,10,0,1,Austronesian language spoken in Nauru,Nauru|na|Nauruan language|Naouru language,Q34770|Q1288568,Q420591,Nauruan language
+Nauru,Nauru,Q139982177,10,0,1,1992 album by Juliet Jonesin Sydän,,Q482994,,
+Nauru,geography of Nauru,Q2387745,10,0,1,Marshallese island in the South Pacific Ocean,Nauru geography|Nauru,Q46865913,Q498466,Geography of Nauru
+Nauru,Nauru,Q30151675,10,0,1,main (and only) island in the country of Nauru,Nauru Island|Pleasant Island,Q23442|Q139595932,,Nauru Island
+Nauru,Nowruz,Q483236,10,0,1,traditional folk spring festival observed in several countries in Asia and the Middle East,Nourooz|Nouruz|Norouz|Norooz|Narooz|Nauruz|Nawroz|Noruz|Nohrooz|Nauroz|Navroz|Naw-Rúz|Nowroj|Navroj|Nevruz|Newroz|Navruz|Navrez|Nooruz|Nauryz|Nowrouz|Naw-Ruz|Spring Holiday|Novruz,Q1445650|Q57598|Q18369361,,Nowruz
+Nauru,Nauru,Q3737090,10,0,1,village in Tanzania,,Q486972,,"Nauru, Tanzania"
+Nauru,Nauru at the Olympics,Q729290,10,0,1,Participation of athletes from Nauru in the Olympic Games,,Q26213387,,Nauru at the Olympics
+Nauru,Nauruan parliamentary election,Q24181434,10,0,1,,,Q107359024,Q2618461,
+Nauru,Nauruans,Q1266280,10,0,1,citizens or residents of Nauru,,Q33829,Q2065556|Q22947|Q102870677,Nauruans
+Nauru,Cabinet of Nauru,Q1637805,10,0,2,,,,Q640506,Cabinet of Nauru
+Cabinet of Nauru,Cabinet of Nauru,Q1637805,10,1,1,,,,Q640506,Cabinet of Nauru
+France,France,Q142,11,0,1,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",French Republic,Q3624078|Q20181813|Q51576574|Q7270|Q6256,,France
+France,France,Q3080569,11,0,1,unisex given name,France (first name)|France (given name),Q3409032|Q11879590|Q12308941,,
+France,France,Q16275867,11,0,1,family name,,Q101352,,France (name)
+France,Francesco,Q2268455,11,0,1,male given name,Francesco (first name)|Francesco (given name),Q12308941,,Francesco
+France,France men's national association football team,Q47774,11,0,1,national association football team representing France,France national football team|France|France national soccer team|France national association football team|France men's national football team|Les Bleus,Q135408445,Q1194951,France national football team
+France,Frances,Q1440778,11,0,1,female given name,,Q11879590,,Frances
+France,French State,Q3591845,11,0,1,French public collective and all public authorities,France,Q7275,,
+France,France,Q49644,11,0,1,1912 Courbet-class battleship,French battleship France,Q847109,,French battleship France
+France,Francesca,Q2695945,11,0,1,female given name,Francesca (first name)|Francesca (given name),Q11879590,,Francesca
+France,Petrarch,Q1401,11,0,1,Italian scholar and poet (1304-1374),Francesco Petrarca|Peetrarque|Petrarque|Francesco Peetrarque|Francesco Petrarch|Francis Petrarch,Q5,,Petrarch
+France,Government of the French Republic,Q1450662,11,0,2,body exerting the executive power in France,cabinet of France|Government of France|French government,Q35798,Q640506,Government of France
+France,government of France during the Ancien Régime,Q125904468,11,0,2,government around the King of France during the Ancien Régime,,Q7188,,
+Government of France,Government of the French Republic,Q1450662,11,1,1,body exerting the executive power in France,cabinet of France|Government of France|French government,Q35798,Q640506,Government of France
+Government of France,government of France during the Ancien Régime,Q125904468,11,1,1,government around the King of France during the Ancien Régime,,Q7188,,
+Government of France,state-affiliated X account,Q111678803,11,1,2,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+Government of France,French government of the Hundred Days,Q3112610,11,1,2,,,,,French Government of the Hundred Days
+Government of France,French Government to Seek Return of Klimt Painting Sold Under Duress During World War II,Q108380477,11,1,2,news article,,Q5707594,,
+Government of France,French government reveals industry sponsored anti-piracy body,Q17652582,11,1,2,Wikinews article,,Q17633526,,
+Government of France,French government approves abortion pill for commercial use,Q58986664,11,1,2,"scientific article published on October 6, 1988",,Q13442814,,
+Government of France,French government launches National Cancer Institute,Q80996902,11,1,2,scientific article published on 01 August 2005,,Q13442814,,
+Government of France,French government concedes defeat to researchers,Q60066656,11,1,2,scientific article published in Nature,,Q13442814,,
+Government of France,French government already under attack,Q58987974,11,1,2,scientific article published in Nature,,Q13442814,,
+Government of France,French government recognizes need for AIDS health campaign,Q58990354,11,1,2,"scientific article published on September 1, 1988",,Q13442814,,
+Government of France,French government warns public about drug misuse,Q83575517,11,1,2,scientific article published on 05 March 2012,,Q13442814,,
+Poland,Poland,Q36,12,0,1,country in Central Europe,Republic of Poland,Q3624078|Q6256|Q63791824|Q127693126,,Poland
+Poland,Polish–Lithuanian Commonwealth,Q172107,12,0,1,historical multinational monarchist state in Eastern Europe (Crown of the Kingdom of Poland and the Grand Duchy of Lithuania),Republic of Both Nations|Commonwealth of Poland|First Republic of Poland|Poland|Poland–Lithuania|Polish-Lithuanian Commonwealth|Poland-Lithuania,Q3624078|Q3024240|Q1088391,,Polish–Lithuanian Commonwealth
+Poland,Poland,Q7208891,12,0,1,family name,,Q101352,,Poland (surname)
+Poland,Poland,Q63197748,12,0,1,badminton player,,Q5,,
+Poland,Crown of the Kingdom of Poland,Q171348,12,0,1,1385–1795 territorial possessions of the King of Poland,Kingdom of Poland|Poland,Q3024240|Q1250464|Q5473816,,Crown of the Kingdom of Poland
+Poland,Poland,Q60379511,12,0,1,1983 edition,,Q3331189,,
+Poland,Gregory A. Poland,Q22096751,12,0,1,American physician and vaccinologist,Gregory A Poland|Gregory Poland|G. A. Poland|G A Poland|G. Poland|G Poland|Poland|Poland G|Poland G.|Poland G. A.|Poland GA,Q5,,Gregory Poland
+Poland,Poland,Q7208888,12,0,1,constituency of the European Parliament,,Q2631496,,Poland (European Parliament constituency)
+Poland,1939 Invasion of Poland,Q150812,12,0,1,"German, Soviet, and Slovak attack on and takeover of Poland that marked the start of World War II",Poland Campaign|Polish Campaign|1939 Defensive War|September Campaign|Invasion of Poland,Q645883|Q831663|Q467011,,Invasion of Poland
+Poland,Poland men's national football team,Q166196,12,0,1,men's national association football team representing Poland,Poland national football team|Poland national association football team|Poland men's national association football team,Q135408445,Q1194951,Poland national football team
+Poland,Republic of Poland: Financial Sector Assessment Program-Technical Note-Cooperative Banks and Credit Unions,Q127637412,12,0,2,scholarly article,,Q13442814,,
+Poland,Republic of Poland: Technical Assistance Report - Building Forward Estimates and Standardizing the Chart of Accounts,Q130014422,12,0,2,scholarly article published in 2018,,Q13442814,,
+Poland,Republic of Poland: Financial Sector Assessment Program-Technical Note-Insurance Sector Regulation and Supervision,Q127741936,12,0,2,scholarly article,,Q13442814,,
+Poland,Republic of Poland: Financial Sector Assessment Program-Technical Note-Macroprudential Policy Framework,Q127751638,12,0,2,scholarly article,,Q13442814,,
+Poland,Republic of Poland: Financial Sector Assessment Program-Technical Note-Stress Testing and Systemic Risk Analysis,Q127737267,12,0,2,scholarly article,,Q13442814,,
+Poland,Republic of Poland--Review Under the Flexible Credit Line Arrangement-Staff Report; Press Release on the Executive Board Discussion; and Statement by the Executive Director for Republic of Poland: Review Under the Flexible Credit Line Arrangement-Sta,Q60043403,12,0,2,article,,Q13442814,,
+Poland,Rzeczpospolita Polska,Q7385687,12,0,2,magazine,,Q1002697,,Rzeczpospolita Polska (magazine)
+Poland,Rzeczpospolita,Q5153902,12,0,2,name of the Polish State,,Q1969448,,Rzeczpospolita
+Poland,Rzeczpospolita,Q2178518,12,0,2,Wikimedia disambiguation page,Rzeczpospolita Polska,Q4167410,,Rzeczpospolita (disambiguation)
+Poland,Rzeczpospolita Polska Oi!,Q131868568,12,0,2,,,Q215380,,
+Poland,Polish Republic,Q454590,12,0,2,Wikimedia disambiguation page,,Q4167410,,Polish Republics
+Council of Ministers,Council of Ministers,Q16850120,12,1,1,executive body of the Government of Portugal,Cabinet of Portugal|Council of Ministers of Portugal,,Q640506,Council of Ministers (Portugal)
+Council of Ministers,Council of the European Union,Q8896,12,1,1,institution of the European Union representing the member states' governments bringing together national ministers from each EU country to adopt laws and coordinate policies,Council of Ministers|Council|EU Council,Q748720|Q35798|Q11204|Q637846,,Council of the European Union
+Council of Ministers,Council of Ministers,Q19601543,12,1,1,supreme executive organ of the Federal Government of the Kingdom of Belgium,Council of Ministers of Belgium|Cabinet of Belgium,,Q640506,Council of Ministers (Belgium)
+Council of Ministers,Council of Ministers,Q1338983,12,1,1,executive authority in Poland,Government of Poland|Council of Ministers (Poland)|Cabinet of Poland|Polish Government,Q7188,Q640506,Council of Ministers (Poland)
+Council of Ministers,Cabinet of Algeria,Q5015487,12,1,1,cabinet of Algeria,Council of Ministers,,Q640506,Cabinet of Algeria
+Council of Ministers,Council of Ministers,Q2993836,12,1,1,cabinet of France,cabinet of France,Q1450662,Q640506,
+Council of Ministers,council of ministers,Q15105,12,1,1,name for the supreme executive in some countries or states,c.o.m.|cabinet,,Q938236|Q35798|Q948571|Q4358176,Council of Ministers
+Council of Ministers,Council of Ministers,Q834304,12,1,1,executive body of the Republic of Cuba,Cabinet of Cuba|Council of Ministers (Cuba),Q35798,Q640506,Council of Ministers (Cuba)
+Council of Ministers,Cabinet of Peru,Q2993851,12,1,1,Council of Ministers of the Republic of Peru,Council of Ministers,,Q640506,Cabinet of Peru
+Council of Ministers,Council of Ministers,Q1716757,12,1,1,Cabinet of Ethiopian Government,Council of Ministers of Ethiopia|Cabinet of Ethiopia,,Q640506,Council of Ministers (Ethiopia)
+Serbia,Serbia,Q403,13,0,1,country in Southeast Europe,Republic of Serbia|RS,Q3624078|Q7270|Q123480|Q6256|Q127693126,,Serbia
+Serbia,Serbian,Q9299,13,0,1,standardized variety of Serbo-Croatian language used by Serbs,Serbian language|Srpski,Q4536543|Q20825842|Q34770,Q3487593|Q9301,Serbian language
+Serbia,Serbian Wikipedia,Q200386,13,0,1,Serbian-language edition of Wikipedia,Википедија на српском језику|Vikipedija na srpskom jeziku|SRWP|Serbian-language Wikipedia|Wikipedia in Serbian|Wikipedia (sr)|sr.wp|sr.Wikipedia|:sr|српска Википедија|Википедија на српском|Википедија српског језика,Q10876391|Q36509592|Q21286559,,Serbian Wikipedia
+Serbia,Serbia,Q37438143,13,0,1,family name,,Q101352,,
+Serbia,Serbian Wikinews,Q21281287,13,0,1,Serbian language edition of Wikinews,srwikinews|sr.wikinews.org,Q20671729|Q36509592,,
+Serbia,Serbo-Croatian,Q9301,13,0,1,South Slavic language,BHS|Serbo-Croat|Serbo-Croat-Bosnian|Bosnian-Croatian-Serbian|Bosnian-Croatian-Montenegrin-Serbian|Serbo-Croatian language|BCS|BCMS|Serbian-Croatian-Bosnian,Q33742|Q152559|Q1288568|Q250858,Q10686779,Serbo-Croatian
+Serbia,Serbia men's national football team,Q182740,13,0,1,men's national association football team representing Serbia,Serbia national soccer team|Serbia national football team,Q135408445,Q1194951,Serbia national football team
+Serbia,Serbia and Montenegro,Q37024,13,0,1,former political union in the Balkans (2003–2006),Serbia-Montenegro|State Union of Serbia and Montenegro,Q3024240|Q1140229,,Serbia and Montenegro
+Serbia,Serbia,Q139735152,13,0,1,,,Q1980247,,
+Serbia,Serbian Orthodox Church,Q188814,13,0,1,autocephalous eastern orthodox church,,Q44301618|Q1649443|Q1066782,,Serbian Orthodox Church
+Serbia,Government of Serbia,Q1285499,13,0,2,executive branch of government in Serbia,Serbian Government|Government of the Republic of Serbia|Serbia government,Q7188|Q35798,,Government of Serbia
+Government of Serbia,Government of Serbia,Q1285499,13,1,1,executive branch of government in Serbia,Serbian Government|Government of the Republic of Serbia|Serbia government,Q7188|Q35798,,Government of Serbia
+Croatia,Croatia,Q224,14,0,1,country in Central Europe,Republic of Croatia|HR|HRV|CRO|RH,Q3624078|Q179164|Q51576574|Q6256,,Croatia
+Croatia,Croatian,Q6654,14,0,1,South Slavic language spoken in Croatia,Croatian language|Hrvatski,Q4536543|Q20825842|Q1288568,Q3487593|Q9301,Croatian language
+Croatia,Croatian Wikipedia,Q203488,14,0,1,Croatian-language edition of Wikipedia,,Q10876391,,Croatian Wikipedia
+Croatia,Croatia Records,Q604923,14,0,1,Croatian record label,,Q18127|Q891723,,Croatia Records
+Croatia,Croatia men's national football team,Q134479,14,0,1,men's national association football team representing Croatia,Blazers|Checkered Ones|Croatia national association football team|Croatia men's national association football team|Croatia national football team,Q135408445,Q1194951,Croatia national football team
+Croatia,Croatian Encyclopedia,Q1789619,14,0,1,Croatian national encyclopedia,,Q47461344|Q1239328|Q615699,,Croatian Encyclopedia
+Croatia,Kingdom of Croatia,Q858841,14,0,1,"(925–1102) a medieval kingdom comprising most of what is today Croatia as well as, periodically, parts of Bosnia and Herzegovina",Croatia|Croatian Kingdom,Q3024240|Q1250464,,Kingdom of Croatia (925–1102)
+Croatia,Croatia,Q16952783,14,0,1,constituency of the European Parliament,,Q2631496,,Croatia (European Parliament constituency)
+Croatia,Croatian Biographical Lexicon,Q1563573,14,0,1,Croatian biographical dictionary,Hrvatski biografski leksikon|HBL,Q1787111,,Croatian Biographical Lexicon
+Croatia,Croatian Medical Journal,Q15750362,14,0,1,journal,,Q5633421|Q737498|Q773668|Q16024164,,Croatian Medical Journal
+Croatia,Government of Croatia,Q1278383,14,0,2,main executive branch of government in Croatia,Government of the Republic of Croatia|Croatian Government|Cabinet of Croatia,Q7188|Q35798,Q7188,Government of Croatia
+Government of Croatia,Government of Croatia,Q1278383,14,1,1,main executive branch of government in Croatia,Government of the Republic of Croatia|Croatian Government|Cabinet of Croatia,Q7188|Q35798,Q7188,Government of Croatia
+Slovenia,Slovenia,Q215,15,0,1,country in Central Europe,Slovenija|si|svn|slo|Republic of Slovenia,Q3624078|Q51576574|Q6256|Q22909549,,Slovenia
+Slovenia,Slovene,Q9063,15,0,1,South Slavic language spoken primarily in Slovenia,Slovenian|Slovenian language|Slovene language|Slovenščina|Slovenski,Q33742|Q1288568,Q10686779,Slovene language
+Slovenia,Slovene Wikipedia,Q14380,15,0,1,Slovene-language edition of Wikipedia,Slovenian Wikipedia|Slwiki|sl.wikipedia,Q10876391,,Slovene Wikipedia
+Slovenia,Slovenia men's national football team,Q172221,15,0,1,men's national association football team representing Slovenia,Slovenia national football team,Q135408445,Q1194951,Slovenia national football team
+Slovenia,Slovenia,Q7541730,15,0,1,constituency of the European Parliament,,Q2631496,,Slovenia (European Parliament constituency)
+Slovenia,Obrazi slovenskih pokrajin,Q104523470,15,0,1,online biographical dictionary,obrazislovenskihpokrajin.si|Faces of Slovenian Regions|Slovenian Biographical Lexicon,Q1787111|Q8513,,
+Slovenia,Ten-Day War,Q163883,15,0,1,armed conflict between Slovenia and Yugoslavia following the Slovenian declaration of independence on 25 June 1991,Slovenian Independence War|Weekend War,Q350604,,Ten-Day War
+Slovenia,Slovenian Academy of Sciences and Arts,Q266063,15,0,1,national academy of Slovenia,SAZU|SASA|Slovenska akademija znanosti in umetnosti,Q1966910|Q414147,,Slovenian Academy of Sciences and Arts
+Slovenia,Slovenska biografija,Q15975890,15,0,1,Slovenian biographical dictionary,Slovenian Biography,Q47461344|Q186165,,
+Slovenia,Slovenske železnice,Q766616,15,0,1,state railway company of Slovenia,SŽ|Slovenian Railways,Q249556,,Slovenian Railways
+Slovenia,Government of Slovenia,Q1264458,15,0,2,executive branch of government,,Q35798|Q7188,,Government of Slovenia
+Slovenia,Government of Slovenia Office for Legislation,Q49218608,15,0,2,,,Q2659904,,
+Government of Slovenia,Government of Slovenia,Q1264458,15,1,1,executive branch of government,,Q35798|Q7188,,Government of Slovenia
+Government of Slovenia,Government of Slovenia Office for Legislation,Q49218608,15,1,1,,,Q2659904,,
+Spain,Spain,Q29,16,0,1,country in southwestern Europe with territories in Africa,Kingdom of Spain,Q3624078|Q1250464|Q6256|Q51576574|Q179671,,Spain
+Spain,Spain,Q16932431,16,0,1,family name,,Q101352,,Spain (surname)
+Spain,Spain men's national football team,Q42267,16,0,1,men's national association football team representing Spain,The Red Fury|The Fury|The Red One|The Spanish Fury|La Furia Roja|La Furia|La Roja|La Furia Española|Spain|Spanish national team|Spain futbol team|Spain national football team|Spanish national association football team|Spain men's national association football team,Q135408445,Q1194951,Spain national football team
+Spain,Second Spanish Republic,Q178038,16,0,1,"political regime established in Spain between April 14, 1931 and April 1, 1939",Spain,Q11514315|Q7270|Q3024240|Q859563,,Second Spanish Republic
+Spain,New Spain,Q170603,16,0,1,viceroyalty of the Spanish Empire (1535-1821),Viceroyalty of New Spain|Nueva España|Nueva Espana|Spanish Mexico|Spanish Central America|Spanish America|Colonial Mexico|Colonial Central America|Mexico under Spain|Central America under Spain|Spain|Kingdom of Mexico,Q20203507,,New Spain
+Spain,Spain under the Restoration,Q1044536,16,0,1,"name given to a period between 1874 (end of First Spanish Republic) and 1931 (start of the Second Spanish Republic), and the state of Spain during that time",Restoration|Bourbon Restoration|Second Bourbon Restoration|Kingdom of Spain|Spain|Restoration (Spain),Q3624078|Q3024240|Q11514315,,Restoration (Spain)
+Spain,Spain,Q16254367,16,0,1,constituency of the European Parliament,,Q2631496,,Spain (European Parliament constituency)
+Spain,Kingdom of Spain,Q3399982,16,0,1,1700–1873 historical period in Spain,Spain|Bourbon Spain,Q11514315|Q3024240,,
+Spain,Hispanic Monarchy,Q766543,16,0,1,"(1479-1716) set of territories distributed throughout the world, which were governed equally by the Spanish monarch and corresponding to the period of the House of Habsburg",Kingdom of the Spains|Spain|Crown of Spain|Hispanic Crown|Spains|Kingdom of Spains,Q3024240|Q59104206|Q4835091,,Hispanic Monarchy (political entity)
+Spain,Spain Rodriguez,Q621791,16,0,1,American comix artist (1940–2012),Manuel Rodriguez,Q5,,Spain Rodriguez
+Spain,Government of Spain,Q1194749,16,0,2,Executive authority of Spain,Spanish government|Government of the Nation|Spain government,Q35798,,Government of Spain
+Spain,Spanish government employee,Q2879479,16,0,2,,,Q74817647,Q3796928,
+Spain,Spanish government to hold ISPs responsible for web content,Q17672164,16,0,2,Wikinews article,,Q17633526,,
+Spain,Spanish Governmental and Correspondence Materials (NAID 7352119),Q66159130,16,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Spain,Spanish government approves frozen embryo research,Q79239946,16,0,2,"scientific article published on October 25, 2003",,Q13442814,,
+Spain,Spanish government takes control of Catalonian universities,Q74204874,16,0,2,journal article; published in Nature on 2017-10-31,,Q13442814,,
+Spain,"Spanish government accused of ""manipulating"" drugs bill figures",Q84906720,16,0,2,"scientific article published on August 30, 2012",,Q13442814,,
+Spain,Spanish government approves draft bill regulating terminal care,Q84164183,16,0,2,"scientific article published on May 20, 2011",,Q13442814,,
+Spain,Spanish government pledges full funding for Canaries telescope,Q58987562,16,0,2,scientific article published in Nature,,Q13442814,,
+Spain,Spanish government reverses hospital independence ruling,Q73197658,16,0,2,scientific article published on 01 October 2000,,Q13442814,,
+Government of Spain,Government of Spain,Q1194749,16,1,1,Executive authority of Spain,Spanish government|Government of the Nation|Spain government,Q35798,,Government of Spain
+Government of Spain,Spanish government employee,Q2879479,16,1,2,,,Q74817647,Q3796928,
+Government of Spain,Spanish government to hold ISPs responsible for web content,Q17672164,16,1,2,Wikinews article,,Q17633526,,
+Government of Spain,Spanish Governmental and Correspondence Materials (NAID 7352119),Q66159130,16,1,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Government of Spain,Spanish government approves frozen embryo research,Q79239946,16,1,2,"scientific article published on October 25, 2003",,Q13442814,,
+Government of Spain,Spanish government takes control of Catalonian universities,Q74204874,16,1,2,journal article; published in Nature on 2017-10-31,,Q13442814,,
+Government of Spain,"Spanish government accused of ""manipulating"" drugs bill figures",Q84906720,16,1,2,"scientific article published on August 30, 2012",,Q13442814,,
+Government of Spain,Spanish government approves draft bill regulating terminal care,Q84164183,16,1,2,"scientific article published on May 20, 2011",,Q13442814,,
+Government of Spain,Spanish government pledges full funding for Canaries telescope,Q58987562,16,1,2,scientific article published in Nature,,Q13442814,,
+Government of Spain,Spanish government reverses hospital independence ruling,Q73197658,16,1,2,scientific article published on 01 October 2000,,Q13442814,,

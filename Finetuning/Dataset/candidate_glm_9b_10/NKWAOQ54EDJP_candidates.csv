@@ -1,0 +1,61 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Batavia Properindo Peduli,Batavia Properindo Peduli,Q64754226,0,0,1,organization in Indonesia,,Q157031,,
+Armed Forces Parliamentary Scheme,Armed Forces Parliamentary Scheme,Q4793000,1,0,1,"Parliamentary constituency in the United Kingdom, 1983 onwards",,Q157031,,Armed Forces Parliamentary Scheme
+Armed Forces Parliamentary Scheme,military,Q8473,1,0,2,organization primarily tasked with preparing for and conducting war,armed forces|military force|army|military affairs|defense forces|defence forces,,Q17149090,Military
+Armed Forces Parliamentary Scheme,armed forces,Q772547,1,0,2,collective organization of a country's armed military and paramilitary,army,,Q17149090|Q8473|Q2659904,Armed forces
+Armed Forces Parliamentary Scheme,Armed Forces,Q635748,1,0,2,album by Elvis Costello,,Q482994,,Armed Forces (album)
+Armed Forces Parliamentary Scheme,British Armed Forces,Q275482,1,0,2,official name for the combined military forces of the United Kingdom of Great Britain and Northern Ireland,Her Majesty's Armed Forces|military of the United Kingdom of Great Britain and Northern Ireland|H.M. Forces|His Majesty's Armed Forces|UK Armed Forces|armed forces of the United Kingdom,Q772547,,British Armed Forces
+Armed Forces Parliamentary Scheme,military rank,Q56019,1,0,2,element of hierarchy in armed forces,uniform rank|rank|armed forces rank|military title,Q24017414,Q4189293,Military rank
+Armed Forces Parliamentary Scheme,Armed Forces FC,Q1849295,1,0,2,Malaysian football club,Armed Forces,Q476028,,Armed Forces F.C.
+Armed Forces Parliamentary Scheme,Wehrmacht,Q128781,1,0,2,unified armed forces of Nazi Germany from 1935 to 1945,Armed Forces of Germany,Q772547,,Wehrmacht
+Armed Forces Parliamentary Scheme,Azerbaijani Armed Forces,Q724216,1,0,2,combined military forces of Azerbaijan,military of Azerbaijan|mil Azerbaijan|Armed Forces of Azerbaijan,Q772547,,Azerbaijani Armed Forces
+Armed Forces Parliamentary Scheme,Bundeswehr,Q56010,1,0,2,"federal defence forces of Germany, and their civil administration and procurement authorities since 1955",Federal Defence Forces of Germany|mil Germany|military of Germany|German military|Armed forces of Germany|German armed forces|German Bundeswehr|Bw,Q772547,,Bundeswehr
+Armed Forces Parliamentary Scheme,Russian Armed Forces,Q193159,1,0,2,military forces of the Russian Federation,Armed Forces of the Russian Federation|military of Russia|Russian military|armed forces of Russia,Q772547,,Russian Armed Forces
+Armed Forces Parliamentary Scheme,motion,Q452237,1,0,2,formal proposal made in a deliberative assembly under parliamentary procedure,parliamentary motion,,Q189760|Q22445448|Q3918409,Motion (parliamentary procedure)
+Armed Forces Parliamentary Scheme,electoral unit,Q192611,1,0,2,territorial division made or used for elections,electoral area|riding|parliamentary seat|parliamentary constituency|electoral division|assembly constituency|political district|voting district|legislative district|electorate|precinct|constituency|electoral constituency|electoral district|district electoral area,,Q56061|Q1048835,Electoral district
+Armed Forces Parliamentary Scheme,legislative term,Q15238777,1,0,2,period from one election of a legislature until the next,mandate|legislative mandate|parliamentary term,,Q186081|Q3765035|Q15275719|Q11204,
+Armed Forces Parliamentary Scheme,Parliamentary Assembly of the Council of Europe,Q939743,1,0,2,parliamentary assembly,PACE,Q1470641,,Parliamentary Assembly of the Council of Europe
+Armed Forces Parliamentary Scheme,legislative election,Q2618461,1,0,2,election in which all or most members of a legislative body are chosen,parliamentary election|parliament election,Q107359024,Q1076105,Legislative election
+Armed Forces Parliamentary Scheme,parliamentary group,Q848197,1,0,2,grouping of members of a parliament by their partisan affiliation,parliamentary party|parliamentary caucus|caucus|political group|parliamentary bloc|parliamentary block|political bloc|parliamentary faction|party bloc|political party bloc|parliamentary wing of a party|party caucus|party in parliament|party room,,Q7210356|Q125878627|Q16334295,Parliamentary group
+Armed Forces Parliamentary Scheme,Parliamentary History,Q7138992,1,0,2,academic journal,,Q1002697|Q737498|Q73364223,,Parliamentary History
+Armed Forces Parliamentary Scheme,Parliamentary Archives,Q7138962,1,0,2,UK parliament archives,,Q166118|Q53251146,,Parliamentary Archives
+Armed Forces Parliamentary Scheme,speaker,Q1758037,1,0,2,"presiding officer of a national assembly or legislative body, originated in the Westminster Parliament",speaker of the parliament|speaker of the house|parliamentary speaker|legislative speaker|president|president of the congress|Speaker of parliament,Q4164871,Q140686,Speaker (politics)
+Armed Forces Parliamentary Scheme,Parliamentary Secretary to the Treasury,Q7139041,1,0,2,formal title of UK governing party chief whip,,Q4164871|Q294414,Q25906149,Parliamentary Secretary to the Treasury
+Catalan Foundation for Research and Innovation,Catalan Foundation for Research and Innovation,Q11923267,2,0,1,,,Q157031,,
+Institut Cambó,Institut Cambó,Q11926700,3,0,1,,,Q157031,,
+Institut Cambó,Institut d'Estudis Catalans,Q756890,3,0,2,academic institution in Catalonia,Institute for Catalan Studies|Institute of Catalan Studies,Q955824|Q1664720|Q45400320,,Institute for Catalan Studies
+Institut Cambó,Secció Històrico-Arqueològica de l’Institut d’Estudis Catalans,Q29790141,3,0,2,section of the Institut d'Estudis Catalans,Institut d'Estudis Catalans Secció Històrico-Arqueològica|Historical-Archaeological Section of the Institut d’Estudis Catalans|History and Archaeological Section of the Institute for Catalan Studies|IEC History and Archaeological Section|Institut d'Estudis Catalans History and Archaeological Section|Secció Històrico-Arqueològica,Q163740,,
+Institut Cambó,Institut d'Estudis Catalans. Fundació Mercè Rodoreda,Q11923276,3,0,2,,"Institut d'Estudis Catalans, Fundació Mercè Rodoreda",Q157031,,
+Institut Cambó,"Institut d'Estudis Catalans, Anuari, 1911, 1912",Q56045393,3,0,2,,,Q637866,,
+Institut Cambó,Philological Section of the Institute for Catalan Studies,Q29790205,3,0,2,,,Q163740,,
+Institut Cambó,president of the Institut d'Estudis Catalans,Q44378549,3,0,2,President del institut d' estudis catalans,,Q4164871,Q140686,
+Institut Cambó,second vicepresident of the Institut d'Estudis Catalans,Q62268699,3,0,2,,,Q4164871,Q55073776,
+Institut Cambó,Institut Consell de Cent,Q61743399,3,0,2,,,Q50359544,,
+Fundació Bosch i Cardellach,Fundació Bosch i Cardellach,Q17605222,4,0,1,,,Q157031,,
+Robert Bosch Stiftung,Robert Bosch Stiftung,Q319347,5,0,1,German foundation,Robert-Bosch-Stiftung|Robert Bosch Foundation,Q157031|Q43229,,Robert Bosch Stiftung
+Fundación Universidad-Empresa (Universidad de Valencia),Fundación Universidad-Empresa (Universidad de Valencia),Q5871521,6,0,1,,,Q157031|Q43229,,
+Fundación Universidad-Empresa (Universidad de Valencia),Fundación Universidad Empresa,Q30254656,6,0,2,"nonprofit organization in Madrid, Spain",FUE,Q163740,,
+Fundación Universidad-Empresa (Universidad de Valencia),Fundación Universidad Empresa de la Región de Murcia,Q30254657,6,0,2,"education organization in Murcia, Spain",,Q2385804,,
+Fundación Universidad-Empresa (Universidad de Valencia),University of Valencia,Q383568,6,0,2,"university in Valencia, Spain","Universitat de València|UV|Valencia, University of|Universidad de Valencia|uv.es",Q875538|Q45400320|Q557206,,University of Valencia
+Fundación Universidad-Empresa (Universidad de Valencia),Universidad de Valencia. Departamento de Metodología de las Ciencias del Comportamiento,Q52664986,6,0,2,Academic publisher based in Spain,,Q45400320,,
+Fundación Universidad-Empresa (Universidad de Valencia),La Nau,Q4985226,6,0,2,"cultural property in Valencia, Spain","La Nau, University of Valencia",Q41176,,La Nau
+Fundación Universidad-Empresa (Universidad de Valencia),"Universidad de Valencia, Departamento de Filología Española",Q74554961,6,0,2,organisation involved in scholarly research,,Q31855,,
+Fundación Universidad-Empresa (Universidad de Valencia),"Universidad de Valencia, Departamento de Didáctica de las Ciencias Experimentales y Sociales",Q74550064,6,0,2,organisation involved in scholarly research,,Q31855,,
+Viral Hepatitis Research Foundation of Japan,Viral Hepatitis Research Foundation of Japan,Q45131240,7,0,1,foundation in Japan,,Q157031,,
+Stollery Children’s Hospital Foundation,Stollery Children's Hospital,Q17096630,8,0,1,"hospital in Alberta, Canada",Stollery Children's Hospital Foundation,Q644264,,Stollery Children's Hospital
+Stollery Children’s Hospital Foundation,Stollery Children’s Hospital Foundation,Q45136622,8,0,1,foundation in Canada,,Q157031|Q163740,,
+Mogens Thorsens og Hustrus Stiftelse,Mogens Thorsens og Hustrus Stiftelse,Q18641892,9,0,1,"building in Oslo municipality, Norway",,Q157031|Q163740,,
+Stiftung Deutscher Offizier Bund,Stiftung Deutscher Offizier Bund,Q2348925,10,0,1,,,Q431603|Q157031|Q163740,,
+Stiftung Deutscher Offizier Bund,Stiftung Deutscher Offizier Bund,Q66780165,10,0,1,,,Q3052382,,
+Talbots Charitable Foundation,Talbots Charitable Foundation,Q45137430,11,0,1,foundation in United States of America,"Talbots Charitable Foundation, Inc.",Q157031,,
+Abe Belsky Foundation,Abe Belsky Foundation,Q45135856,12,0,1,foundation in United States of America,Abe Belsky Foundation of Chicago,Q157031,,
+HVB Foundation bank note collection,HVB Foundation bank note collection,Q19963328,13,0,1,Foundation in Germany,,Q157031|Q163740,,
+HVB Foundation bank note collection,HVB Bank Biochim,Q5636195,13,0,2,,,Q22687,,HVB Bank Biochim
+HVB Foundation bank note collection,HVB Bank Romania Global Loan II project,Q100343287,13,0,2,,,Q170584,,
+HVB Foundation bank note collection,HVB Bank Biochim Global Loan III project,Q100342812,13,0,2,,,Q170584,,
+HVB Foundation bank note collection,HVB Bank Hungary Rt. (Global Loan III) project,Q100343025,13,0,2,,,Q170584,,
+HVB Foundation bank note collection,HVB Bank Serbia and Montenegro Global Loan project,Q100342689,13,0,2,,,Q170584,,
+HVB Foundation bank note collection,HVB Bank Slovakia Global Loan II project,Q100352121,13,0,2,,,Q170584,,
+HVB Foundation bank note collection,UniCredit Bank Czech Republic and Slovakia,Q11878398,13,0,2,"Czech bank, subsidiary of UniCredit Bank","UniCredit Bank Czech Republic and Slovakia, a.s.|UniCredit Bank Czech Republic as|UniCredit Bank Czech Republic, a.s.|Unicredit Bank Czech Republic and Slovakia, A.S.|UBCZ",Q4830453|Q6881511|Q2563546,,UniCredit Bank Czech Republic and Slovakia
+HVB Foundation bank note collection,UniCredit Bank Romania,Q4682050,13,0,2,Romanian bank of the UniCredit group,,Q131441953,,UniCredit Bank Romania
+HVB Foundation bank note collection,UniCredit Bank Slovakia,Q28050685,13,0,2,former Slovak bank,,Q4830453,,UniCredit Bank Slovakia

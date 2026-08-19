@@ -1,0 +1,35 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Loir,Loir,Q104591695,0,0,1,family name,,Q101352,,
+Loir,Loiret,Q12574,0,0,1,French department,,Q6465,,Loiret
+Loir,Loire,Q1469,0,0,1,longest river in France,River Loire|Loire River,Q4022|Q573344,,Loire
+Loir,Loire,Q12569,0,0,1,French department,Department of Loire|FR-42,Q6465,,Loire (department)
+Loir,Loir-et-Cher,Q12564,0,0,1,French department in the region of Centre-Val de Loire,Loir et Cher,Q6465,,Loir-et-Cher
+Loir,Loir,Q376133,0,0,1,river in France,,Q4022,,Loir
+Loir,Pays de la Loire,Q16994,0,0,1,administrative region of France,Loire Lands|Lands of the Loire|Pays-de-la-Loire,Q36784,,Pays de la Loire
+Loir,Loireauxence,Q21935401,0,0,1,"commune in Loire-Atlantique, France",,Q484170,,Loireauxence
+Loir,Loire-Authion,Q21979914,0,0,1,"commune in Maine-et-Loire, France",,Q484170,,Loire-Authion
+Loir,Loir en Vallée,Q28088282,0,0,1,"commune in Sarthe, France",,Q484170,,Loir en Vallée
+Loir,Loir-et-Cher departmental fire and rescue service,Q88763870,0,0,2,"fire department of Loir-et-Cher, France",,Q43229,,
+Loir,Loir-et-Cher's 1st constituency,Q3401995,0,0,2,constituency of the French Fifth Republic,,Q15620943,,Loir-et-Cher's 1st constituency
+Loir,Loir-et-Cher's 3rd constituency,Q3540098,0,0,2,constituency of the French Fifth Republic,,Q15620943,,Loir-et-Cher's 3rd constituency
+Loir,departmental council of Loir-et-Cher,Q23782063,0,0,2,departmental legislature in France,Loir-et-Cher departmental council|conseil départemental de Loir-et-Cher,Q19758733,,Departmental Council of Loir-et-Cher
+Loir,Loir-et-Cher's 2nd constituency,Q3025128,0,0,2,constituency of the French Fifth Republic,,Q15620943,,Loir-et-Cher's 2nd constituency
+Loir,general council of Loir-et-Cher,Q2110386,0,0,2,,Loir-et-Cher general council|conseil général de Loir-et-Cher|conseil general de Loir-et-Cher,Q1398920,,
+Loir,Loir-et-Cher Departmental Asylum,Q19951416,0,0,2,hospital,,Q16917,,Loir-et-Cher Departmental Asylum
+Loir,tourism in Loir-et-Cher,Q3534075,0,0,2,,tourism of Loir-et-Cher|Loir-et-Cher tourism,Q98374854,,
+Loir,Loir-et-Cher association football district,Q119952964,0,0,2,,,Q3032059,,
+Loir,Loir-et-Cher Departmental Asylum,Q136645735,0,0,2,,,Q16917,,
+Vaenga,Vaenga,Q328231,1,0,1,"river in Arkhangelsk Oblast, Russia, tributary of Northern Dvina",Vayenga River,Q4022,,Vayenga (Northern Dvina)
+Vaenga,Vaenga,Q4102345,1,0,1,"river in Murmansk Oblast, Russia, flows into Barents Sea",Vayenga River,Q4022,,Vayenga (Barents Sea)
+Vaenga,Vaenga,Q111672792,1,0,1,non-passanger railway station in Murmansk Oblast,,Q55488,,
+Vaenga,Vanega Bay,Q37806424,1,0,1,bay of the Barents Sea,,Q39594,,
+Vaenga,Vainqueur,Q26219869,1,0,2,family name,,Q101352,,
+Vaenga,Vainqueur-Christophe,Q23769790,1,0,2,family name,,Q101352,,
+Vaenga,Vainqueur,Q3553307,1,0,2,,,Q5,,
+Vaenga,Vainqueur,Q135070862,1,0,2,male given name,,Q12308941,,
+Vaenga,Vainqueur Masengesho,Q129350781,1,0,2,Rwandan sport cyclist,,Q5,,
+Vaenga,"Vainqueurs, Les",Q126187182,1,0,2,1989 video game,,Q7889,,
+Vaenga,winner,Q18560095,1,0,2,one who wins a contest,victor|winning contestant|victorious contestant|winning candidate|victorious candidate,Q4120621|Q4897819|Q216353,Q488383|Q5165152,
+Vaenga,overall winner general classification,Q20882667,1,0,2,racing cyclist who won a one-day race or a stage race,,Q131094762,Q33965709,
+Vaenga,"Vainqueurs et vaincus, tout est fricot pour le diable (The Vanquishers and the Vanquished, All Food for the Devil)",Q75125327,1,0,2,print in the National Gallery of Art (NGA 90178),,Q11060274,,
+Vaenga,stage winner,Q20882747,1,0,2,racing cyclist who won a stage during a stage race,,Q131094762,Q18560095,

@@ -1,0 +1,103 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Claremnt,Claremont,Q951659,0,0,2,"city in New Hampshire, United States","Claremont, New Hampshire|Claremont N.H.|Claremont NH|Claremont, NH",Q1093829,,"Claremont, New Hampshire"
+Claremnt,Claremont,Q3679103,0,0,2,"suburb of Perth, Western Australia","Claremont, Western Australia|Claremont, W.A.|Claremont, Western Australia, Australia",Q23010647,,"Claremont, Western Australia"
+Claremnt,Claremont,Q2439907,0,0,2,"suburb of Hobart, Tasmania, Australia","Claremont, Tasmania|Claremont, Tasmania, Australia",Q188509|Q98433835,,"Claremont, Tasmania"
+Claremnt,Claremont,Q506398,0,0,2,"city on the eastern edge of Los Angeles County, California, United States","City of Claremont|Claremont, California|Claremont, CA",Q1093829,,"Claremont, California"
+Claremnt,Claremont,Q2975541,0,0,2,"suburb of Cape Town, South Africa",,Q123705,,"Claremont, Cape Town"
+Claremnt,Town of Claremont,Q543331,0,0,2,local government area in Western Australia,Claremont,Q55557858,,Town of Claremont
+Claremnt,Claremont,Q1095337,0,0,2,"country house and gardens in Esher, Surrey, England, UK",Claremont House,Q12783|Q1343246,,Claremont (country house)
+Claremnt,Claremont,Q2028722,0,0,2,"city in North Carolina, United States","Claremont, North Carolina|Claremont, NC",Q1093829|Q132680629,,"Claremont, North Carolina"
+Claremnt,Claremont,Q30603343,0,0,2,defunct electoral ward of Salford City Council,Claremont Ward,Q589282,,Claremont (ward)
+Claremnt,Claremont,Q1373680,0,0,2,"town in Virginia, United States","Claremont, VA",Q15411644,,"Claremont, Virginia"
+tari Banvci,,,1,0,0,,,,,
+Seďanj,present tense,Q192613,2,0,1,grammatical tense; pertaining to current time relative to speaker/writer/reader,present|present form|PRS,Q177691|Q2374489,Q4423888,Present tense
+Seďanj,present participle,Q10345583,2,0,1,verb form,gerund form,Q177691|Q184932,Q814722|Q192613,Present participle
+Seďanj,present subjunctive,Q3502553,2,0,1,,,Q177691,Q473746|Q192613,
+Seďanj,present infinitive,Q52434245,2,0,1,grammatical tense,,Q177691|Q184932,Q179230|Q192613|Q3517796,
+Seďanj,present indicative,Q56682909,2,0,1,verbal tense,,Q177691,Q192613|Q682111,
+Seďanj,present gerund,Q52434511,2,0,1,,,Q177691,Q1923028|Q3517796,
+Seďanj,present perfect continuous,Q12738495,2,0,1,verb tense (“have been —ing”),,Q192613|Q625420|Q29646509,,
+Seďanj,current hospital,Q64624840,2,0,1,building or architectural structure currently operated as hospital,,Q21281409,Q39364723,
+Seďanj,present imperfect,Q56649265,2,0,1,verb tense and aspect,,,Q192613|Q371427,
+Seďanj,present evil preferred to change for worse,Q120803244,2,0,1,narrative motif documented in Thompson's Motif-Index of Folk-Literature,J215.,Q1697305|Q2995443,,
+Log Valle,Log Valley,Q6666823,3,0,1,"locality in Saskatchewan, Canada","Log Valley, Saskatchewan",Q3257686,,Log Valley
+Log Valle,Log Valley,Q49944719,3,0,1,"basin in Lake County, California, United States of America",Little Squaw Valley,Q813672,,
+Log Valle,Log Valley Cemetery,Q109355429,3,0,1,"cemetery in Saskatchewan, Canada",,Q39614,,
+Plaintboro Center,Plymouth Center,Q7205771,4,0,2,"census-designated place in Plymouth County, Massachusetts","Plymouth Center, Massachusetts|Plymouth Center, MA",Q498162|Q17343829,,"Plymouth Center, Massachusetts"
+Plaintboro Center,Plymouth Center Historic District,Q24183654,4,0,2,"Plymouth, CT, listed on the NRHP in Connecticut",,Q15243209,,Plymouth Center Historic District
+learbrok Park,,,5,0,0,,,,,
+Laćcrak,Ljubljana,Q437,6,0,2,capital city of Slovenia,"Ljubljana, Slovenia|Lublana|Labacum",Q515|Q1549591|Q51929311|Q108178728,,Ljubljana
+Laćcrak,Ljubljana City Municipality,Q3434113,6,0,2,city municipality of Slovenia,City Municipality of Ljubljana|Mestna Občina Ljubljana,Q6960199|Q12357832,,Urban Municipality of Ljubljana
+Laćcrak,University of Ljubljana,Q1377,6,0,2,Slovene public university,"Univerza v Ljubljani|uni-lj.si|Universitas Labacensis|Universitas Alexandrina|Universität Laibach|R. universita di Lubiana|Univerza Kraljevine Srbov, Hrvatov in Slovencev v Ljubljani|Univerza kralja Aleksandra I. v Ljubljani|Univerza Edvarda Kardelja v Ljubljani|Ljubljana University",Q875538|Q96888669,,University of Ljubljana
+Laćcrak,NK Ljubljana,Q6957751,6,0,2,football club,Ljubljana,Q476028,,NK Ljubljana
+Laćcrak,Ljubljana railway station,Q1817806,6,0,2,railway station in Slovenia,,Q55488|Q18564289,,Ljubljana railway station
+Laćcrak,Yugoslav destroyer Ljubljana,Q1263660,6,0,2,1938 Beograd-class destroyer,,Q174736,,Yugoslav destroyer Ljubljana
+Laćcrak,Ljubljana Magazine,Q81333158,6,0,2,municipal newsletter of Ljubljana,Glasilo Ljubljana|Glasilo Mestne občine Ljubljana|Ljubljana,Q41298|Q100282728,,
+Laćcrak,Ljubljana,Q30609706,6,0,2,album by Craig Taborn,,Q482994,,Ljubljana (album)
+Laćcrak,Ljubljana,Q28750096,6,0,2,2002 film directed by Igor Šterk,,Q11424,,
+Laćcrak,Ljubljana,Q23861476,6,0,2,article in Otto's encyclopedia,,Q13433827,,
+Laćcrak,Ljubljana Airport,Q12794809,6,0,2,Wikimedia disambiguation page,,Q4167410,,
+Fhristiana,Fortaleza,Q43463,7,0,2,"municipality of Ceará state, Brazil",Ceara,Q3184121|Q515,,Fortaleza
+Fhristiana,Fortaleza Fútbol Club,Q5472511,7,0,2,association football team in Colombia,,Q476028,,Fortaleza F.C.
+Fhristiana,Fortaleza E.C.,Q188841,7,0,2,Brazilian football club,Fortaleza Esporte Clube|Fortaleza,Q476028,,Fortaleza Esporte Clube
+Fhristiana,Fortaleza,Q37119958,7,0,2,family name,,Q101352,,
+Fhristiana,Strength,Q2502672,7,0,2,"eleventh Major Arcana tarot card, symbolising control, determination and confidence",Fortaleza,Q47883,,Strength (tarot card)
+Fhristiana,Fortaleza de São João Baptista do Pico,Q10283643,7,0,2,"fortress in Funchal, Madeira Portugal",Forte de São João Baptista,Q57831|Q1785071|Q210272,,
+Fhristiana,Fortaleza,Q5864156,7,0,2,Gothic metal Mexican band,,Q215380,,
+Fhristiana,Fortaleza de Torrejón,Q43133671,7,0,2,"cultural property in Arcos de la Frontera, Spain",,Q4989906|Q57821,,
+Fhristiana,fortress,Q57831,7,0,2,large fort,,,Q1785071|Q18691599,Fortress
+Fhristiana,Fortaleza,Q115503552,7,0,2,"triangulation station in Vélez-Málaga, Spain",,Q131862,,
+Fhristiana,Ceará,Q40123,7,0,2,state in the Northeast Region of Brazil,State of Ceará|CE|Ceara State,Q485258,,Ceará
+Fhristiana,Ceará,Q53657931,7,0,2,constituency of the Chamber of Deputies of Brazil,,Q53657274,,
+Fhristiana,Ceará,Q53657932,7,0,2,constituency of the Federal Senate of Brazil,,Q53657468,,
+Fhristiana,Universidade Federal do Ceará,Q2749558,7,0,2,"federal university with campuses in the cities of Fortaleza, Sobral, Barbalha, Russas, Quixadá and Crateús, in the state of Ceará, Brazil",UFC|Federal University of Ceará|Universidade Federal do Ceara|Federal University of Ceara|Ceará Federal University,Q875538|Q23002037|Q45400320|Q3918,,Federal University of Ceará
+Fhristiana,Ceará Sporting Club,Q1052219,7,0,2,Brazilian football club,Ceará SC,Q476028,,Ceará Sporting Club
+Fhristiana,Ceará,Q508690,7,0,2,Brazilian right wingback,Marcos Venâncio de Albuquerque|Ceara|Marcos Venancio de Albuquerque,Q5,,Ceará (footballer)
+Fhristiana,Cearadactylus,Q133271,7,0,2,genus of reptiles (fossil),,Q23038290,,Cearadactylus
+Fhristiana,Cearanthes,Q16106509,7,0,2,genus of plants,,Q16521,,Cearanthes
+Fhristiana,Ceara Lynch,Q110434718,7,0,2,professional humiliatrix and fetish video producer,,Q5,,
+Chortitis,,,8,0,0,,,,,
+Kaoan,Kaōanāeha,Q6381943,9,0,1,Hawaiian high chiefess,,Q5,,Kaʻōanaʻeha
+Kaoan,Kaoani,Q1586297,9,0,1,Japanese Animated Anime Emoticons,,,Q31963|Q1339070,Kaoani
+Kaoan,Port of Return,Q15909519,9,0,2,2010 film,Kao An,Q202866,,
+Kaoan,Gao'an Xian,Q112030493,9,0,2,ancient county of China,Gao'an,Q28739697|Q56061,,
+Kaoan,Kao An-kuo,Q8273461,9,0,2,"Taiwanese general, Chinese spy",,Q5,,Kao An-kuo
+Kaoan,Gao'an,Q1229428,9,0,2,county-level city,,Q1070990,,Gao'an
+Kaoan,Princess Gao'an,Q4313238,9,0,2,princess of the Tang dynasty (649–714),,Q5,,
+Shimay,Shimaya,Q86735396,10,0,1,"neighborhood in Konohana-ku, Osaka",,Q5327369,,
+Shimay,Shimayuki-class training ship,Q11269040,10,0,1,ship class,,Q559026,Q660668|Q11446|Q1588981,
+Shimay,Shimaya Interchange,Q11052292,10,0,1,,,Q2376564,,
+Shimay,Shimaya,Q27179140,10,0,1,"Japanese family name (島谷, しまや)",Simaya|島谷|しまや,Q101352,,Shimaya
+Shimay,Shimayama Island,Q20656218,10,0,1,"island in Nagasaki, Japan",Shimayamajima,Q23442,,
+Shimay,Shimayama Island,Q20665543,10,0,1,"Island in Nagasaki, Japan",Shimayamajima,Q23442,,
+Shimay,Shimayuri,Q112861264,10,0,1,ship launched in 2004,IMO 8989496,Q11446,,
+Shimay,Kazumi Shimaya,Q22118974,10,0,1,judoka,Shimaya Kazumi,Q5,,
+Shimay,shimaya,Q11307552,10,0,1,,SHIMAYA,Q4830453,,
+Shimay,Shimaya,Q113321222,10,0,1,Japanese publisher (pm 1859),,Q2085381,,
+Chmanimani,,,11,0,0,,,,,
+Cjillagoe,,,12,0,0,,,,,
+Puttapartji,Puttaparthi,Q1068595,13,0,2,"town in Sri Sathya Sai district, Andhra Pradesh, India",,Q58339518,,Puttaparthi
+Puttapartji,Puttaparthi mandal,Q60213304,13,0,2,"mandal in Sri Sathya Sai district, Andhra Pradesh, India",,Q122987710,,
+Puttapartji,Puttaparthi Assembly constituency,Q7262453,13,0,2,constituency of the Andhra Pradesh legislative assembly in India,Puttaparthi constituency|Puttaparthi Vidhan Sabha constituency,Q54375413,,Puttaparthi Assembly constituency
+Puttapartji,Puttaparthi Narayanacharyulu,Q7262455,13,0,2,Indian composer and writer (1914–1990),Puttaparti Narayanacharyulu,Q5,,Puttaparthi Narayanacharyulu
+Puttapartji,Puttaparthi revenue division,Q111915054,13,0,2,"revenue division in Sri Sathya Sai district, Andhra Pradesh, India",,Q125626445,,Puttaparthi revenue division
+Puttapartji,Puttaparthi Srinivasachary,Q20638071,13,0,2,,,Q5,,
+Puttapartji,Puttaparthi municipal government,Q139898143,13,0,2,"government of Puttaparthi town in Andhra Pradesh, India",,Q6958514,,
+Puttapartji,Puttaparthi Branch Post Office,Q71468720,13,0,2,,,Q61443690,,
+tarčevo,,,14,0,0,,,,,
+[abelo,Abelona,Q10397911,15,0,2,genus of insects,,Q16521,,
+[abelo,Abelone,Q12300383,15,0,2,female given name,,Q11879590,,
+[abelo,Abelopsocus,Q21213543,15,0,2,genus of insects,,Q16521,,
+[abelo,Abelow,Q37463097,15,0,2,family name,,Q101352,,
+[abelo,Abelona longipennis,Q11840597,15,0,2,species of insect,,Q16521,,
+[abelo,Abelona salvini,Q10397927,15,0,2,species of insect,,Q16521,,
+[abelo,Apoidea,Q324132,15,0,2,superfamily of insects,,Q16521,,Apoidea
+[abelo,Abelocephala,Q21213541,15,0,2,genus of insects,,Q16521,,
+[abelo,Abelone Katrine Høgh,Q108787595,15,0,2,(1812-1876) wife of Peder Nilsen,Abelone Katrine Høgh of Ålesund|Appolone Catharine Magdalene Høgh,Q5,,
+[abelo,Abelo,Q12344600,15,0,2,,,Q11032,,
+Cjarleville,,,16,0,0,,,,,
+Cerro Dhato,Dhatol Branch Post Office,Q70155429,17,0,2,,,Q61443690,,
+Cerro Dhato,Dhatogal Branch Post Office,Q70204048,17,0,2,,,Q61443690,,
+Cerro Dhato,Dhatori Branch Post Office,Q69981708,17,0,2,,,Q61443690,,
+Cerro Dhato,Dhatora Branch Post Office,Q71405369,17,0,2,,,Q61443690,,
+Cerro Dhato,dhat syndrome,Q360035,17,0,2,Culture-bound syndrome,,Q112193867,Q1791709,Dhat syndrome

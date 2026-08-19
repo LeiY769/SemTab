@@ -1,0 +1,30 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Tes,testicle,Q9384,0,0,1,internal organ used in the male reproductive system,testis|testes|balls|ball|testicles|egg,Q103812529|Q112826905,Q213456|Q28846466|Q25553355|Q112826975,Testicle
+Tes,Tes,Q14752013,0,0,1,"subdistrict in Lebong Regency, Bengkulu, Indonesia",T E S,Q965568,,
+Tes,Tes,Q12521076,0,0,1,"village in North Central Timor Regency, East Nusa Tenggara, Indonesia",,Q26211545,,
+Tes,Tes,Q37473135,0,0,1,family name,,Q101352,,
+Tes,Tessa,Q991275,0,0,1,female given name,Tessa (given name)|Tessa (first name),Q11879590,,Tessa
+Tes,Testudinidae,Q46360,0,0,1,family of turtles,tortoise|tortoises|testudinids|testudinid,Q16521,,Tortoise
+Tes,Testudines,Q223044,0,0,1,order of reptiles characterized by a shell,turtles|tortoises|Chelonia|chelonians|chelonian,Q16521,Q10811,Turtle
+Tes,testosterone,Q1318776,0,0,1,primary male sex hormone,"4-androsten-17beta-ol-3-one|4-Androsten-3-one-17b-ol|13-Iso-testosterone|17a-Hydroxy-(13a)-androst-4-en-3-one|17b-Hydroxy-(8a)-androst-4-en-3-one|17b-Hydroxy-8a-androst-4-en-3-one|17b-Hydroxy-13a-androst-4-en-3-one|17b-Hydroxy-androst-4-en-3-one|17b-Hydroxy-D4-androsten-3-one|(+-)-testosterone|Retrotestosterone|17b-Hydroxy-(13a)-androst-4-en-3-one|17-Hydroxy-D4-androsten-3-one|Rac-17b-hydroxy-(8a)-androst-4-en-3-one|(+-)-8-iso-testosterone|Lumitestosteron|(+)-testosterone|17b-Hydroxy-(10a)-androst-4-en-3-one|(+-)-retrotestosterone|17-Hydroxy-10,13-dimethyl-1,2,6,7,8,9,10,11,12,13,14,15,16,17-tetradecahydro-cyclopenta[a]phenanthren-3-one|Rac-17b-hydroxy-(13a)androst-4-en-3-one|8-Iso-testosterone|17a-Hydroxy-13a-androst-4-en-3-one|17a-Hydroxy-14b-androst-4-en-3-one|Androst-4-en-17b-ol-3-one|17b-Testosterone|(17b)-17-hydroxy-androst-4-en-3-one|Rac-17b-hydroxy-androst-4-en-3-one|9b-Testosterone|17b-Hydroxyandrost-4-ene-3-one|9b,10a-Testosterone|17b-Hydroxy-(8a,10a)-androst-4-en-3-one|Testrone|(1S,2R,10R,11S,14S,15S)-14-hydroxy-2,15-dimethyltetracyclo[8.7.0.0^{2,7}.0^{11,15}]heptadec-6-en-5-one|Rac-17b-hydroxy-(9b,10a)androst-4-en-3-one|17a-Hydroxy-androst-4-en-3-one|D4-Androsten-17b-ol-3-one|17b-Hydroxy-(9b)-androst-4-en-3-one|17-Hydroxy-androst-4-en-3-one|17b-Hydroxyandrost-4-en-3-one|17b-Hydroxy-(9b,10a)-androst-4-en-3-one|17b-Hydroxy-androst-4-en-3-on|Androst-4-ene-17b-ol-3-one|17beta-Hydroxy-4-androsten-3-one|Testosterona|Testostérone|Mertestate|4-androsten-17β-ol-3-one|17beta-hydroxy-4-androsten-3-one|Testosteronum|Virosterone|Testosterone|Testosteron",Q113145171,Q49847565,Testosterone
+Tes,testosterone,Q27863114,0,0,1,medication and naturally occurring steroid hormone,Testosterone (medication)|Androderm®|Delatestryl®|Androderm|Teslen|Relibra|Primoteston|Viatrel|Testolin|Synandrol F|Testim|Orquisteron|Andrusol|Andropatch|Testoviron T|Androlin|AndroGel|Testryl|Cristerona T|Testogel|Testosteroid|Andronaq|Neotestis|Perandren|Testolent|Testoderm|Virosterone|Primotest|Testobase|Testro AQ|Tostrelle|Tostrex|Homosteron|Homosterone|Virormone|Testopropon|Oreton|Geno-cristaux Gremy|Testoviron Schering|Percutacrine androgenique|Testiculosterone|Mertestate|Testandrone,Q12140|Q35456,,Testosterone (medication)
+Tes,Testudo graeca,Q504549,0,0,1,species of reptile,Greek tortoise|Moorish tortoise|spur-thighed tortoise,Q16521,,Greek tortoise
+Striene,Striene,Q2188269,1,0,1,,,Q4022,,Striene
+Striene,Striene,Q19558247,1,0,1,"street in Maasdam, the Netherlands",,Q79007,,
+Striene,Strienemonde,Q19558249,1,0,1,"street in Strijen, the Netherlands",,Q79007,,
+Striene,Strienemonde,Q19558248,1,0,1,"street in Oud-Beijerland, the Netherlands",,Q79007,,
+Striene,Strienestraat,Q19558250,1,0,1,"street in Bergen op Zoom, the Netherlands",,Q79007,,
+Russian River,Russian River,Q2030974,2,0,1,"river in Sonoma and Mendocino counties in California, United States",Jauiyomi|Misallaako|Passion River|Rio Ruso|Russian|Shabaikai|Slavianka|Slavyanka,Q4022,,Russian River (California)
+Russian River,Russian River,Q4391330,2,0,1,river in Alaska,Chunuk'tnu,Q47521,,Russian River (Alaska)
+Russian River,Russian River basin,Q47007170,2,0,1,,,Q166620,,
+Russian River,Russian River Valley AVA,Q2177011,2,0,1,American wine region,,Q166247,,Russian River Valley AVA
+Russian River,Russian River Brewing Company,Q7382114,2,0,1,brewery and brewpub in California,,Q131734|Q3640372,,Russian River Brewing Company
+Russian River,Guerneville Bridge,Q58491943,2,0,1,"bridge in Sonoma County, California",Russian River Bridge No. 20-91,Q158218|Q537127,,
+Russian River,Russian River Number 1 1026 Dam,Q48998116,2,0,1,"dam in Sonoma County, California, United States of America",,Q12323,,
+Russian River,Russian River Flag,Q28222635,2,0,1,,,,,Russian River Flag
+Russian River,Russian River State Marine Reserve and Russian River State Marine Conservation Area,Q7382115,2,0,1,marine protected areas in California,Russian River State Marine Conservation Area|Russian River State Marine Reserve|SMRMA,Q1367500,,Russian River State Marine Reserve and Russian River State Marine Conservation Area
+Russian River,River Theater,Q44866876,2,0,1,"movie theater in Guerneville, California, United States",Russian River Theater,Q41253,,
+Nive River,Nive River,Q1994108,3,0,1,"river in Tasmania, Australia",,Q4022,,
+Nive River,Nive River,Q1384819,3,0,1,river,,Q4022,,Nive River (Queensland)
+Nive River,NIVE RIVER (PINE TIER DAM),Q123662498,3,0,1,"weather station in Tasmania, Australia from 1953 to 1999",096052,Q190107,,
+Nive River,Nive River,Q1540935,3,0,1,Wikimedia disambiguation page,,Q4167410,,Nive River

@@ -1,0 +1,38 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Adelaide Airport,Adelaide Airport,Q14302,0,0,1,"airport in Adelaide, Australia",ADL|YPAD|ADELAIDE,Q644371|Q1248784|Q94993988,,Adelaide Airport
+Adelaide Airport,Adelaide Airport,Q24185577,0,0,1,"suburb of Adelaide, South Australia","Adelaide Airport, South Australia|Adelaide Airport, South Australia, Australia",Q188509,,Adelaide Airport (suburb)
+Adelaide Airport,Adelaide Airport,Q20449674,0,0,1,airport in South Africa,FAAD,Q1248784,,
+Adelaide Airport,ADELAIDE AIRPORT,Q123622709,0,0,1,"weather station in State of South Australia, Australia from 1955",94672|023034,Q190107,,
+Adelaide Airport,Adelaide Airport Curfew Act 2000,Q56758930,0,0,1,"Act of the Parliament of Australia, currently registered as C2016C00466",,Q56731284,,
+Adelaide Airport,ADELAIDE AIRPORT (ANEMOMETER NORTHEAST),Q123622797,0,0,1,"weather station in State of South Australia, Australia from 1995",99673|023123,Q190107,,
+Adelaide Airport,ADELAIDE AIRPORT (ANEMOMETER SOUTH WEST),Q123622783,0,0,1,"weather station in State of South Australia, Australia from 1995",023109|99672,Q190107,,
+Adelaide Airport,ADELAIDE AIRPORT ALERT,Q123622730,0,0,1,"weather station in State of South Australia, Australia from 2001",023055,Q190107,,
+Adelaide Airport,ADELAIDE AIRPORT (ANEMOMETER NORTHWEST),Q123622798,0,0,1,"weather station in State of South Australia, Australia from 1995",99674|023124,Q190107,,
+Adelaide Airport,ADELAIDE AIRPORT OLD SITE,Q123622721,0,0,1,"weather station in State of South Australia, Australia from 2002 to 2005",023046,Q190107,,
+Robert L. Bradshaw International Airport,Robert L. Bradshaw International Airport,Q1933813,1,0,1,Saint Kitts and Nevis,Bradshaw International Airport|SKB|TKPK,Q644371|Q94993988,,Robert L. Bradshaw International Airport
+Robert L. Bradshaw International Airport,V. C. Bird International Airport,Q1433157,1,0,2,airport,V C Bird International Airport|VC Bird International Airport|ANU|TAPA|Coolidge Air Force Base|Coolidge Airfield|Coolidge International Airport|Antigua International Airport,Q644371|Q695850|Q94993988,,V. C. Bird International Airport
+Soledad International Airport,Soledad International Airport,Q48816856,2,0,1,"main airport of Barranquilla, Colombia from 1936 to 1981",,Q644371,,Soledad International Airport
+M. R. Štefánik Airport,M. R. Štefánik Airport,Q828379,3,0,1,international airport in Bratislava,BTS|LZIB|Bratislava Airport|BRATISLAVA/M.R.STEFANIK airport,Q1248784|Q94993988|Q644371,,Bratislava Airport
+Sydney Airport,Sydney Airport,Q17581,4,0,1,"international airport serving Sydney, Australia",Kingsford-Smith Airport|Sydney (Kingsford-Smith) Airport|SYD|YSSY|Sydney (Kingsford Smith) Airport|SYDNEY,Q644371|Q1248784|Q94993988,,Sydney Airport
+Sydney Airport,Sydney Airports Corporation Limited,Q4121167,4,0,1,"Australian government body, 1998-",SYDNEY AIRPORT,Q670113|Q891723|Q110376455,,Sydney Airport Corporation
+Sydney Airport,Sydney Airport Holdings,Q3272744,4,0,1,airport Company of Australia,,Q4830453,,Sydney Airport Holdings
+Sydney Airport,Sydney Airport Demand Management Amendment Act 2001,Q56755962,4,0,1,"Act of the Parliament of Australia, currently registered as C2004A00812",,Q56731284,,
+Sydney Airport,Sydney Airport Demand Management Amendment Act 2008,Q56757497,4,0,1,"Act of the Parliament of Australia, currently registered as C2008A00083",,Q56731284,,
+Sydney Airport,Terminal 3,Q57910605,4,0,1,terminal of Sydney Airport,Sydney Airport Terminal 3,Q849706,,
+Sydney Airport,Terminal 2,Q57910603,4,0,1,terminal of Sydney Airport,Sydney Airport Terminal 2,Q849706,,
+Sydney Airport,Sydney Airport Curfew Act 1995,Q56758717,4,0,1,"Act of the Parliament of Australia, currently registered as C2015C00154",,Q56731284,,
+Sydney Airport,Sydney Airport Demand Management Act 1997,Q56758921,4,0,1,"Act of the Parliament of Australia, currently registered as C2016C00441",,Q56731284,,
+Sydney Airport,Sydney Airport Air Traffic Control Tower,Q38146200,4,0,1,historic commonwealth heritage site in Sydney Airport NSW,,Q38048707,,Sydney Airport Air Traffic Control Tower
+Manzhouli Xijiao Airport,Manzhouli Xijiao Airport,Q1031116,5,0,1,"an international airport serving Manzhouli, a city in the autonomous region of Inner Mongolia in the People's Republic of China",NZH|ZBMZ|Xijiao|Manzhouli,Q1248784|Q644371|Q94993988,,Manzhouli Xijiao International Airport
+Paphos International Airport,Paphos International Airport,Q1050707,6,0,1,"international airport serving Paphos, Cyprus",PFO|LCPH|PAFOS/INTL airport|Pafos International Airport,Q644371|Q1248784|Q94993988,,Paphos International Airport
+Hobart Airport,Hobart Airport,Q15498,7,0,1,"primary airport serving Hobart, Tasmania",HBA|YMHB|HOBART|Hobart International Airport,Q644371|Q1248784|Q94993988,,Hobart Airport
+Hobart Airport,HOBART AIRPORT,Q123662332,7,0,1,"weather station in Tasmania, Australia from 2017",94619|094250,Q190107,,
+Hobart Airport,Hobart Airport Air Traffic Control Tower,Q38150292,7,0,1,historic commonwealth heritage site in Cambridge TAS,,Q38048707,,
+Hobart Airport,HOBART AIRPORT (OFFICE),Q123662346,7,0,1,"weather station in Tasmania, Australia from 2013",094264,Q190107,,
+Hobart Airport,HOBART AIRPORT (TBRG),Q123662266,7,0,1,"weather station in Tasmania, Australia from 1993 to 1997",094186,Q190107,,
+Hobart Airport,HOBART AIRPORT WEST,Q123662081,7,0,1,"weather station in Tasmania, Australia from 1958",094008|94975,Q190107,,
+Hobart Airport,HOBART AIRPORT (DINES PLUVIOGRAPH COMPAR,Q123662309,7,0,1,"weather station in Tasmania, Australia from 2004 to 2009",094228,Q190107,,
+Hobart Airport,Hobart Airport,Q1431478,7,0,1,Wikimedia disambiguation page,,Q4167410,,Hobart Airport (disambiguation)
+Polokwane International Airport,Polokwane International Airport,Q2233103,8,0,1,airport in South Africa,PTG|FAPP,Q644371|Q94993988,,Polokwane International Airport
+Cincinnati/Northern Kentucky International Airport,Cincinnati/Northern Kentucky International Airport,Q151121,9,0,1,"airport in Hebron, Kentucky serving Greater Cincinnati in the United States",Cincinnati Airport|Greater Cincinnati Airport|CVG Airport,Q644371|Q94993988,,Cincinnati/Northern Kentucky International Airport
+Cincinnati/Northern Kentucky International Airport,Kenton County Airport Board,Q138813954,9,0,2,airport authority for the Cincinnati/Northern Kentucky International Airport,CVG Airport Authority,Q4698967|Q865588,,

@@ -1,0 +1,845 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Germany,Germany,Q183,0,0,1,country in Central Europe,Federal Republic of Germany|DE|DEU|FRG|BRD,Q3624078|Q619610|Q4209223|Q63791824|Q6256,,Germany
+Germany,German Reich,Q1206012,0,0,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+Germany,Weimar Republic,Q41304,0,0,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+Germany,Germany,Q37444958,0,0,1,family name,,Q101352,,
+Germany,Germany,Q138527606,0,0,1,1875 chapter,,Q1980247,,
+Germany,Germany,Q139776664,0,0,1,,,Q1980247,,
+Germany,Germany,Q133933103,0,0,1,male given name,,Q12308941,,
+Germany,Germany men's national association football team,Q43310,0,0,1,German men's national association football team,German National Football Team|West Germany national football team|Germany national football team|Die Deutsche Fußball-Nationalmannschaft Der Männer|Die Fußball-Nationalmannschaft|Germany national association football team|Germany men's national football team,Q135408445,Q1194951,Germany national football team
+Germany,Nordhausen,Q7033,0,0,1,town and administritative center of Nordhausen District in Thuringia in central Germany,"Germany Nordhausen (Thuringia)|Nordhausen (Thuringia, Germany)",Q1547289|Q57318|Q134626|Q1401585|Q1548518|Q707813|Q1187811|Q42744322,,"Nordhausen, Thuringia"
+Germany,Germany national under-21 football team,Q314851,0,0,1,national under-21 association football team representing Germany,,Q6979593|Q21945604,Q1203196,Germany national under-21 football team
+Germany,German Empire,Q43287,0,0,2,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+Germany,Deutsche Reichspartei,Q495497,0,0,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+Germany,Reichstag,Q160208,0,0,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+Germany,German Empire of 1848/1849,Q18285930,0,0,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+Germany,German Empire field army,Q105754856,0,0,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+Germany,coat of arms of the German Empire,Q4136271,0,0,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+Germany,German postal history 1919-1945,Q1203692,0,0,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+Germany,women in the German Empire,Q107343234,0,0,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+Germany,German Empire–United States relations,Q115804563,0,0,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Germany,German Democratic Republic,Q16957,0,0,2,"1949–1990 country in central Europe, unified into modern Germany",GDR|DDR|Deutsche Demokratische Republik|Communist Germany|East Germany,Q3024240|Q325261|Q7275|Q17007978,,East Germany
+Germany,East Germany,Q108527339,0,0,2,the country of East Germany as depicted in the Star Trek multiverse,German Democratic Republic|GDR|DDR|Star Trek GDR|Star Trek East Germany,Q57663042|Q99281788,,
+Germany,East German Navy,Q508647,0,0,2,1956-1990 naval warfare branch of East Germany's military,Volksmarine|People's Navy of East Germany|German Democratic Republic Navy|GDR navy,Q4508,,Volksmarine
+Germany,East German Land Forces,Q557432,0,0,2,land warfare branch of East Germany's military forces,Land Forces of the National People's Army|National People's Army Land Forces|East German Army|army of East Germany|ar East Germany|German Democratic Republic Army|army of the German Democratic Republic|LaSK,Q37726|Q781132,,Land Forces of the National People's Army
+Germany,East Germany research,Q1152419,0,0,2,research field,research into East Germany|German Democratic Republic research|research into the German Democratic Republic|GDR research|research into the GDR,,,
+Germany,GDR rock,Q328296,0,0,2,music genre and scene,East Germany rock|ostrock|rock in GDR|German Democratic Republic rock|rock in German Democratic Republic,Q106834231|Q188451|Q28820001,Q11399|Q108161008,
+Germany,German Democratic Republic borders,Q87763077,0,0,2,,borders of German Democratic Republic|GDR borders|Borders of East Germany|borders of East Germany,Q12413618|Q1292279,,
+Germany,transport in East Germany,Q7834979,0,0,2,overview of transport in East Germany,transportation in East Germany|East Germany transport|transport in the German Democratic Republic|transportation in the German Democratic Republic|German Democratic Republic transport|transport in the GDR|transportation in the GDR,Q98374631,,Transport in the German Democratic Republic
+Germany,East Germany men's national basketball team,Q551579,0,0,2,former men's national basketball team representing the German Democratic Republic,German Democratic Republic men's national basketball team,Q135728463,,East Germany men's national basketball team
+Germany,German Democratic Republic national rugby union team,Q1622752,0,0,2,representative side of East Germany in rugby union during the country's existence from 1949 to 1990,,Q58840819,,East Germany national rugby union team
+Germany,West Germany,Q713750,0,0,2,Federal Republic of Germany in the period between its formation on 23 May 1949 and German reunification on 3 October 1990,West-Deutschland|BR Dtld.|Federal Republic of Germany (1949–1990)|Bonn Republic|Second German Republic,Q7275|Q11514315|Q3024240|Q3624078,,West Germany
+Germany,economy of Germany,Q8046,0,0,2,overview of the economy in the Federal Republic of Germany,economy in Germany|economy (Germany)|Germany's economy|German economy|Germany economy|economy of the Federal Republic of Germany|economy in the Federal Republic of Germany|economy (Federal Republic of Germany)|Federal Republic of Germany economy,Q6456916,Q100874038|Q720507|Q2226947,Economy of Germany
+Germany,elections in the Federal Republic of Germany,Q41708808,0,0,2,,Federal Republic of Germany elections|elections of the Federal Republic of Germany,Q74817647,Q327765,
+Germany,Germany v. Philipp,Q105562781,0,0,2,2021 United States Supreme Court case,Federal Republic of Germany v. Philipp,Q2334719|Q19692072,,Federal Republic of Germany v. Philipp
+Germany,Federal Republic of Germany,Q131284301,0,0,2,journal article from 'Museum International' published in 1979,,Q13442814,,
+Germany,Federal Republic of Germany,Q50700366,0,0,2,scientific article published in May 1987,,Q13442814,,
+Germany,Federal Republic of Germany metropolitan city libraries —Publications 1966–74,Q58359648,0,0,2,article,,Q13442814,,
+Germany,"Federal Republic of Germany. II. Radiocaesium in the food chain of animals and man, and ways of reducing radioactive contamination",Q94545379,0,0,2,scientific article published on 01 January 1988,,Q13442814,,
+Germany,Federal Republic of Germany-Poland: Treaty Concerning the Promotion and Reciprocal Protection of Investments,Q127833325,0,0,2,scholarly article,,Q13442814,,
+Bremen,Bremen,Q24879,0,1,1,"city in the Bremen federated state, Germany",City Municipality of Bremen|Hansestadt Bremen,Q1187811|Q1549591|Q707813|Q42744322|Q85635638,,Bremen
+Bremen,Bremen,Q1209,0,1,1,federated state of Germany,Free Hanseatic City of Bremen|Bremen (state),Q1221156|Q133442|Q26830017|Q113136497,,Bremen (state)
+Bremen,Bremen Hauptbahnhof,Q631094,0,1,1,"railway station in Bremen-Mitte, Germany",Bremen Hbf,Q22808404|Q55490|Q18543139,,Bremen Hauptbahnhof
+Bremen,Bremen,Q907348,0,1,1,1979 Bremen-class frigate,,Q402092|Q161705,,German frigate Bremen
+Bremen,Bremen,Q907350,0,1,1,family name,,Q101352,,
+Bremen,Bremen,Q907354,0,1,1,"human settlement in Geisa, Germany",Bremen (Geisa),Q253019,,
+Bremen,Bremen,Q20210798,0,1,1,"locality in Motozintla, Chiapas, Mexico",,Q20202352,,
+Bremen,Bremen,Q91780951,0,1,1,noble family,,Q13417114,,
+Bremen,Bremen,Q124724762,0,1,1,"hamlet in the municipality of Argenbühl, Baden-Württemberg, Germany",,Q5084,,
+Bremen,Bremen,Q513400,0,1,1,"city in Carroll and Haralson counties, Georgia, USA","Bremen, Georgia|Bremen, GA",Q1093829|Q76514543,,"Bremen, Georgia"
+Bremen,Bremerhaven,Q2706,0,1,2,German city in the Free Hanseatic City of Bremen,BHV,Q1549591|Q253030|Q42744322|Q85635638,,Bremerhaven
+Bremen,Bremerhaven Hauptbahnhof,Q535612,0,1,2,"railway station in Geestemünde, Germany",Bremerhaven Central Station,Q55488,,Bremerhaven Hauptbahnhof
+Bremen,Bremerhaven-Lehe railway station,Q907971,0,1,2,"railway station in Lehe, Germany",,Q55488,,Bremerhaven-Lehe station
+Bremen,MV Bremerhaven,Q6719302,0,1,2,ship built in 1960,Viking Bordeaux|Stella Maris II|Bordeaux|IMO 5051365|Bremerhaven,Q1272711|Q39804,,MV Bremerhaven
+Bremen,Bremerhaven-Wulsdorf station,Q4960565,0,1,2,"railway station in Wulsdorf, Germany",,Q55488,,Bremerhaven-Wulsdorf station
+Bremen,ENI 02210291,Q105963153,0,1,2,ro/ro ferry,Terschellinger Bank|Bremerhaven,Q473932,,
+Bremen,IMO 9045871,Q52340218,0,1,2,tug built in 1993,Bremerhaven|Accurat|VB Bemerhaven,Q191826,,
+Bremen,Bremerhaven–Cuxhaven railway,Q513875,0,1,2,railway line in Germany,North Sea Railway,Q728937,,Bremerhaven–Cuxhaven railway
+Bremen,Bremerhaven,Q14600307,0,1,2,,,Q55818|Q1475691,,
+Bremen,Bremerhaven,Q106677464,0,1,2,ship built in 1955,Lingayen|IMO 5051353,Q1504307,,
+Slovenia,Slovenia,Q215,1,0,1,country in Central Europe,Slovenija|si|svn|slo|Republic of Slovenia,Q3624078|Q51576574|Q6256|Q22909549,,Slovenia
+Slovenia,Slovene,Q9063,1,0,1,South Slavic language spoken primarily in Slovenia,Slovenian|Slovenian language|Slovene language|Slovenščina|Slovenski,Q33742|Q1288568,Q10686779,Slovene language
+Slovenia,Slovene Wikipedia,Q14380,1,0,1,Slovene-language edition of Wikipedia,Slovenian Wikipedia|Slwiki|sl.wikipedia,Q10876391,,Slovene Wikipedia
+Slovenia,Slovenia men's national football team,Q172221,1,0,1,men's national association football team representing Slovenia,Slovenia national football team,Q135408445,Q1194951,Slovenia national football team
+Slovenia,Slovenia,Q7541730,1,0,1,constituency of the European Parliament,,Q2631496,,Slovenia (European Parliament constituency)
+Slovenia,Obrazi slovenskih pokrajin,Q104523470,1,0,1,online biographical dictionary,obrazislovenskihpokrajin.si|Faces of Slovenian Regions|Slovenian Biographical Lexicon,Q1787111|Q8513,,
+Slovenia,Ten-Day War,Q163883,1,0,1,armed conflict between Slovenia and Yugoslavia following the Slovenian declaration of independence on 25 June 1991,Slovenian Independence War|Weekend War,Q350604,,Ten-Day War
+Slovenia,Slovenian Academy of Sciences and Arts,Q266063,1,0,1,national academy of Slovenia,SAZU|SASA|Slovenska akademija znanosti in umetnosti,Q1966910|Q414147,,Slovenian Academy of Sciences and Arts
+Slovenia,Slovenska biografija,Q15975890,1,0,1,Slovenian biographical dictionary,Slovenian Biography,Q47461344|Q186165,,
+Slovenia,Slovenske železnice,Q766616,1,0,1,state railway company of Slovenia,SŽ|Slovenian Railways,Q249556,,Slovenian Railways
+Slovenia,Municipality of Divača,Q557216,1,0,2,municipality of Slovenia,Občina Divača,Q328584,,Municipality of Divača
+Slovenia,Divača,Q1230519,1,0,2,human settlement,,Q486972|Q18564289,,Divača
+Slovenia,Divača railway station,Q3969538,1,0,2,"railway station in Divača, Slovenia",,Q55488,,Divača railway station
+Slovenia,Divača–Pula railway line,Q3511918,1,0,2,railway line in Slovenia and Croatia,,Q728937,,
+Slovenia,Divača–Koper railway,Q5283843,1,0,2,railway line in Slovenia,,Q728937,,Divača–Koper Railway
+Slovenia,Divača airfield,Q1654442,1,0,2,"aerodrome in Divača, Slovenia",LJDI,Q62447,,Divača Airport
+Slovenia,Divača - Prešnica junction railway line,Q111358768,1,0,2,railway line in Slovenia,,Q728937,,
+Slovenia,Divača train disaster,Q2625067,1,0,2,railway accident in Slovenia,,Q1078765,,
+Slovenia,Divača Cave,Q12787605,1,0,2,cave in Slovenia,,Q35509,,
+Slovenia,Divača parish,Q67183597,1,0,2,Roman catholic parish in Koper diocese,,Q102496,,
+Slovenia,member state of the European Union,Q185441,1,0,2,sovereign states that form the European Union,EU member|European Union member state|state of the European Union|states of the European Union|member state of the EU|member of the EU|EU country|country of the EU|EU state|EU member state|state of the EU|EU countries,Q4897819,Q1646605,Member state of the European Union
+Municipality of Divača,Municipality of Divača,Q557216,1,1,1,municipality of Slovenia,Občina Divača,Q328584,,Municipality of Divača
+Municipality of Divača,Divača,Q1230519,1,1,2,human settlement,,Q486972|Q18564289,,Divača
+Municipality of Divača,Divača railway station,Q3969538,1,1,2,"railway station in Divača, Slovenia",,Q55488,,Divača railway station
+Municipality of Divača,Divača–Pula railway line,Q3511918,1,1,2,railway line in Slovenia and Croatia,,Q728937,,
+Municipality of Divača,Divača–Koper railway,Q5283843,1,1,2,railway line in Slovenia,,Q728937,,Divača–Koper Railway
+Municipality of Divača,Divača airfield,Q1654442,1,1,2,"aerodrome in Divača, Slovenia",LJDI,Q62447,,Divača Airport
+Municipality of Divača,Divača - Prešnica junction railway line,Q111358768,1,1,2,railway line in Slovenia,,Q728937,,
+Municipality of Divača,Divača train disaster,Q2625067,1,1,2,railway accident in Slovenia,,Q1078765,,
+Municipality of Divača,Divača Cave,Q12787605,1,1,2,cave in Slovenia,,Q35509,,
+Municipality of Divača,Divača parish,Q67183597,1,1,2,Roman catholic parish in Koper diocese,,Q102496,,
+Municipality of Divača,municipality of Slovenia,Q328584,1,1,2,administrative territorial entity of Slovenia,municipalities of Slovenia|občina,,Q572975|Q3356100|Q10864048|Q11618417|Q15284,Municipalities of Slovenia
+Sudan,Sudan,Q1049,2,0,1,country in Northeast Africa,Republic of the Sudan|as-Sūdān|sd|North Sudan|the Sudan|Republic of Sudan|SUD|Soudan|as-Sudan|al-Sudan,Q7270|Q3624078|Q6256|Q1088391,,Sudan
+Sudan,Sudan,Q13097273,2,0,1,"village in Rembang Regency, Central Java, Indonesia",Desa Sudan,Q26211545,,
+Sudan,Sudan,Q26332448,2,0,1,"village in East Kotawaringin Regency, Central Kalimantan, Indonesia",,Q26211545,,
+Sudan,French Sudan,Q508014,2,0,1,"French colonial territory in West Africa from 1880 to 1960, now Mali",Sudan,Q133156|Q2327385,,French Sudan
+Sudan,Sudan,Q135036310,2,0,1,Work by Américo Jacomino,,Q105543609,,
+Sudan,Sudan,Q209703,2,0,1,landscape in North Africa,,Q82794,,Sudan (region)
+Sudan,Sorghum bicolor,Q332062,2,0,1,species of plant,Jowar|Sudan Grass|milo,Q16521,Q11992872|Q157957,Sorghum
+Sudan,Sudan men's national football team,Q270682,2,0,1,men's national association football team representing Sudan,Sudan national football team,Q135408445,Q1194951,Sudan national football team
+Sudan,Sudan,Q671273,2,0,1,"city in Lamb County, Texas, United States","Sudan, Texas|Sudan, TX",Q1093829,,"Sudan, Texas"
+Sudan,Sudan People's Liberation Movement,Q459960,2,0,1,political party,Sudan People's Liberation Army,Q7278|Q2738074,,Sudan People's Liberation Movement
+Sudan,Gezira,Q309469,2,0,2,state of Sudan,Al Jazirah,Q746290,,Gezira State
+Sudan,Gezira,Q3104729,2,0,2,"located in Cairo, Egypt",,Q13393265,,Gezira (basketball)
+Sudan,Museum of Modern Egyptian Art,Q5555085,2,0,2,"art museum in Cairo, Egypt",Museum of Modern Egyptian Art|Gezira Center for Modern Art,Q811430|Q33506,,Museum of Modern Egyptian Art
+Sudan,Gezira Island,Q512874,2,0,2,"island in the Nile River, in Cairo, Egypt",,Q162602|Q123705,,Gezira (Cairo)
+Sudan,Opera,Q10275827,2,0,2,metro station in Cairo,Gezira metro station,Q928830|Q22808403,,
+Sudan,Al Jazeera SC,Q56274907,2,0,2,Egyptian sports club,Gezira,Q847017,,Al Jazeera SC
+Sudan,Gezira,Q74069143,2,0,2,print in the National Gallery of Art (NGA 66153),,Q11060274,,
+Sudan,Gezira Sporting Club,Q5555090,2,0,2,Multi-sport facility in Egypt,,Q13580678,,Gezira Sporting Club
+Sudan,Gżira,Q632097,2,0,2,town in Malta,Gzira,Q3957,,Gżira
+Sudan,Gezira Scheme,Q1427120,2,0,2,"Irrigation project in Gezira, Sudan",,,,Gezira Scheme
+Sudan,Republic of Sudan,Q3486796,2,0,2,former state (1956–1969),جمهورية السودان (1956–1969),Q3024240,,Republic of the Sudan (1956–1969)
+Sudan,Republic of Sudan,Q5866720,2,0,2,government of Sudan from 1985 to 2019,,Q3024240,,Republic of the Sudan (1985–2019)
+Sudan,Republic of Sudan v. Harrison,Q85796618,2,0,2,2019 United States Supreme Court opinion,,Q19692072,,Republic of Sudan v. Harrison
+Gezira,Gezira,Q309469,2,1,1,state of Sudan,Al Jazirah,Q746290,,Gezira State
+Gezira,Gezira,Q3104729,2,1,1,"located in Cairo, Egypt",,Q13393265,,Gezira (basketball)
+Gezira,Museum of Modern Egyptian Art,Q5555085,2,1,1,"art museum in Cairo, Egypt",Museum of Modern Egyptian Art|Gezira Center for Modern Art,Q811430|Q33506,,Museum of Modern Egyptian Art
+Gezira,Gezira Island,Q512874,2,1,1,"island in the Nile River, in Cairo, Egypt",,Q162602|Q123705,,Gezira (Cairo)
+Gezira,Opera,Q10275827,2,1,1,metro station in Cairo,Gezira metro station,Q928830|Q22808403,,
+Gezira,Al Jazeera SC,Q56274907,2,1,1,Egyptian sports club,Gezira,Q847017,,Al Jazeera SC
+Gezira,Gezira,Q74069143,2,1,1,print in the National Gallery of Art (NGA 66153),,Q11060274,,
+Gezira,Gezira Sporting Club,Q5555090,2,1,1,Multi-sport facility in Egypt,,Q13580678,,Gezira Sporting Club
+Gezira,Gżira,Q632097,2,1,1,town in Malta,Gzira,Q3957,,Gżira
+Gezira,Gezira Scheme,Q1427120,2,1,1,"Irrigation project in Gezira, Sudan",,,,Gezira Scheme
+Norway,Norway,Q20,3,0,1,country in Northern Europe,Kingdom of Norway,Q3624078|Q6256,,Norway
+Norway,brown rat,Q184224,3,0,1,species of mammal,street rat|sewer rat|wharf rat|water rat|Parisian rat|Norwegian rat|Norway rat|Rattus norvegicus|🐀|rat|Hanover rat,Q16521|Q213907,,Brown rat
+Norway,Norway,Q37284541,3,0,1,family name,,Q101352,,
+Norway,Norway,Q98777096,3,0,1,male given name,,Q12308941,,
+Norway,Picea abies,Q145992,3,0,1,species of plant,Norway spruce|European spruce,Q16521,Q11992872,Picea abies
+Norway,Norway men's national association football team,Q184387,3,0,1,national association football team representing Norway,Norway national football team|Norway national soccer team|Norway national association football team|Norway men's national football team|Team Norway,Q135408445,Q1194951,Norway national football team
+Norway,Kingdom of Norway,Q2196956,3,0,1,former Kingdom from 872 to 1397,Norwegian Empire|Norway,Q3024240|Q48349|Q7269,,Kingdom of Norway (872–1397)
+Norway,Norway,Q2734330,3,0,1,"town in Maine, USA","Norway, ME|Norway, Maine",Q15127012,,"Norway, Maine"
+Norway,Norway,Q2480177,3,0,1,"city in Dickinson County, Michigan, United States","Norway, MI|Norway, Michigan",Q1093829,,"Norway, Michigan"
+Norway,Kingdom of Norway,Q2597352,3,0,1,short-lived monarchy in Northern Europe (1814),Norwegian Kingdom|Norway,Q3024240|Q3624078|Q10711424,,Kingdom of Norway (1814)
+Vestland,Vestland,Q56407177,3,1,1,county in Norway,,Q192299,,Vestland
+Vestland,Western Norway,Q127598,3,1,1,region of Norway,Vestlandet,Q369639,,Western Norway
+Vestland,Vestland,Q55409096,3,1,1,painting by Arne Malmedal,,Q3305213,,
+Vestland,Vestlandsduoen,Q100151442,3,1,1,Norwegian musical duo,Ivar Medaas & Vestlandsduoen,Q215380,,
+Vestland,Vestland,Q83632153,3,1,1,ship,IMO 8412857,Q11446,,
+Vestland,Vestland,Q83568288,3,1,1,ship built in 1984,Category:IMO 8127268|IMO 8127268,Q11446,,
+Vestland,Vestland,Q31551650,3,1,1,,,Q54050,,
+Vestland,Vestland,Q55403013,3,1,1,painting by Per Kleiva,,Q3305213,,
+Vestland,Vestland,Q55404142,3,1,1,painting by Olav Nygaard,,Q3305213,,
+Vestland,Alver Municipality,Q56404228,3,1,1,"municipality in Vestland, Norway",,Q755707,,Alver Municipality
+Vestland,Vestland County Municipality,Q97356233,3,1,2,County in Norway,Vestland fylkeskommune,Q5177805,,Vestland County Municipality
+Vestland,Vestland County Archive,Q121266094,3,1,2,,,Q166118,,
+Guinea,Guinea,Q14630117,4,0,1,genus of insects,,Q16521,,
+Guinea,Guinea,Q1006,4,0,1,sovereign state in West Africa,Guinea-Conakry|Republic of Guinea|gn|GUI,Q3624078|Q6256,,Guinea
+Guinea,Guinea,Q37563479,4,0,1,family name,,Q101352,,
+Guinea,HMS Guinea,Q111949256,4,0,1,1640s fourth-rate vessel,Charles|Guinea,Q892562,,English ship Guinea
+Guinea,Guinea-Bissau,Q1007,4,0,1,sovereign state in Western Africa,Republic of Guinea-Bissau|gw|GBS,Q3624078|Q6256,,Guinea-Bissau
+Guinea,Guinea men's national football team,Q235411,4,0,1,men's national association football team representing Guinea,Syli Nationale|National Elephants|Guinea national football team|Guinea national association football team|Guinea men's national association football team,Q135408445,Q1194951,Guinea national football team
+Guinea,Guinea,Q207887,4,0,1,"traditional name for the coastal region of West Africa along the Gulf of Guinea, encompassing moist tropical forest and savanna zones bordering the Sahel to the north",,Q82794,,Guinea (region)
+Guinea,guinea,Q918094,4,0,1,coin of approximately one quarter ounce of gold that was minted in Great Britain between 1663 and 1814,Guineas,Q8142|Q113813711,Q860641,Guinea (coin)
+Guinea,Solanum melongena,Q7540,4,0,1,species of plant,eggplant|eggfruit|mad apple|aubergine|brinjal|melongene|guinea squash|purple cucumber|white eggplant,Q16521,Q157957|Q1086824|Q11992872|Q192691|Q21028485,Eggplant
+Guinea,Emilio Guinea,Q5831132,4,0,1,Spanish botanist (1907-1985),Guinea|Emilio Guinea López|E. Guinea|E. Guinea López,Q5,,Emilio Guinea
+Guinea,Republic of Guinea Armed Forces,Q835345,4,0,2,combined military forces of Guinea,mil Guinea|military of Guinea|Guinean military|Guinean Armed Forces|Guinea Air Force,Q772547,,Republic of Guinea Armed Forces
+Conakry,Conakry,Q3733,4,1,1,capital of Guinea,,Q515|Q10864048|Q1549591|Q108178728|Q51929311,,Conakry
+Conakry,Conakry Region,Q1373230,4,1,1,region in Guinea,,Q1067116,,
+Conakry,Conakrya,Q18094137,4,1,1,genus of arachnids,,Q16521,,Conakrya
+Conakry,Conakry,Q75934327,4,1,1,open-source typeface for the N'Ko alphabet,,Q2001385,,
+Conakry,Conakrya wolffi,Q2991578,4,1,1,species of arachnid,,Q16521,,
+Conakry,Ahmed Sékou Touré International Airport,Q644978,4,1,1,airport,CKY|GUCY|Conakry International Airport,Q644371|Q1248784|Q94993988,,Ahmed Sékou Touré International Airport
+Conakry,Conakry Marsono Yamtomo,Q114554108,4,1,1,,,Q5,,
+Conakry,Conakry National Museum,Q2586343,4,1,1,national museum,Sandervalia National Museum|Musée National de Guinée,Q17431399,,Sandervalia National Museum
+Conakry,Grand Mosque of Conakry,Q254925,4,1,1,mosque in Guinea,Conakry Grand Mosque|Conakry Mosque,Q32815,,Grand Mosque of Conakry
+Conakry,Conakry World Book Capital 2017,Q113243536,4,1,1,,,Q58687420,,
+Conakry,Guinea,Q14630117,4,1,2,genus of insects,,Q16521,,
+Conakry,Guinea,Q1006,4,1,2,sovereign state in West Africa,Guinea-Conakry|Republic of Guinea|gn|GUI,Q3624078|Q6256,,Guinea
+Conakry,Guinea,Q37563479,4,1,2,family name,,Q101352,,
+Conakry,HMS Guinea,Q111949256,4,1,2,1640s fourth-rate vessel,Charles|Guinea,Q892562,,English ship Guinea
+Conakry,Guinea-Bissau,Q1007,4,1,2,sovereign state in Western Africa,Republic of Guinea-Bissau|gw|GBS,Q3624078|Q6256,,Guinea-Bissau
+Conakry,Guinea men's national football team,Q235411,4,1,2,men's national association football team representing Guinea,Syli Nationale|National Elephants|Guinea national football team|Guinea national association football team|Guinea men's national association football team,Q135408445,Q1194951,Guinea national football team
+Conakry,Guinea,Q207887,4,1,2,"traditional name for the coastal region of West Africa along the Gulf of Guinea, encompassing moist tropical forest and savanna zones bordering the Sahel to the north",,Q82794,,Guinea (region)
+Conakry,guinea,Q918094,4,1,2,coin of approximately one quarter ounce of gold that was minted in Great Britain between 1663 and 1814,Guineas,Q8142|Q113813711,Q860641,Guinea (coin)
+Conakry,Solanum melongena,Q7540,4,1,2,species of plant,eggplant|eggfruit|mad apple|aubergine|brinjal|melongene|guinea squash|purple cucumber|white eggplant,Q16521,Q157957|Q1086824|Q11992872|Q192691|Q21028485,Eggplant
+Conakry,Emilio Guinea,Q5831132,4,1,2,Spanish botanist (1907-1985),Guinea|Emilio Guinea López|E. Guinea|E. Guinea López,Q5,,Emilio Guinea
+France,France,Q142,5,0,1,"country in Western Europe and other continents (through its overseas territories in America, Africa and Oceania)",French Republic,Q3624078|Q20181813|Q51576574|Q7270|Q6256,,France
+France,France,Q3080569,5,0,1,unisex given name,France (first name)|France (given name),Q3409032|Q11879590|Q12308941,,
+France,France,Q16275867,5,0,1,family name,,Q101352,,France (name)
+France,Francesco,Q2268455,5,0,1,male given name,Francesco (first name)|Francesco (given name),Q12308941,,Francesco
+France,France men's national association football team,Q47774,5,0,1,national association football team representing France,France national football team|France|France national soccer team|France national association football team|France men's national football team|Les Bleus,Q135408445,Q1194951,France national football team
+France,Frances,Q1440778,5,0,1,female given name,,Q11879590,,Frances
+France,French State,Q3591845,5,0,1,French public collective and all public authorities,France,Q7275,,
+France,France,Q49644,5,0,1,1912 Courbet-class battleship,French battleship France,Q847109,,French battleship France
+France,Francesca,Q2695945,5,0,1,female given name,Francesca (first name)|Francesca (given name),Q11879590,,Francesca
+France,Petrarch,Q1401,5,0,1,Italian scholar and poet (1304-1374),Francesco Petrarca|Peetrarque|Petrarque|Francesco Peetrarque|Francesco Petrarch|Francis Petrarch,Q5,,Petrarch
+France,French Guiana,Q3769,5,0,2,French overseas department and region in South America,"Guyane|Guiana, France|Guiana",Q202216|Q36784,,French Guiana
+France,French Guiana football team,Q726592,5,0,2,regional association football team of the French Guiana,,Q135408445,,French Guiana national football team
+France,Guianan Creole,Q1363072,5,0,2,French-based creole from French Guiana,French Guianan Creole|gcr|Guianese Creole|French Guianese Creole,Q34770|Q33289|Q1288568,Q33260,French Guianese Creole
+France,French Guiana Championnat National,Q891072,5,0,2,association football league,,Q15991303,Q3270632,French Guiana Régional 1
+France,French Guiana,Q103920749,5,0,2,encyclopedia article,,Q13433827,,
+France,2020 COVID-19 pandemic in French Guiana,Q87144458,5,0,2,viral outbreak in French Guiana,"2020 coronavirus outbreak in Guyane|2020 coronavirus outbreak in French Guiana|2020 French Guiana COVID-19 pandemic|French Guiana COVID-19 pandemic|2020 COVID pandemic in French Guiana|2020 COVID-19 pandemic in French Guiana, France|COVID-19 pandemic in French Guiana, France",Q3241045,,COVID-19 pandemic in French Guiana
+France,flag of French Guiana,Q854428,5,0,2,flag of the French overseas region of French Guiana,🇬🇫|French Guiana flag,Q22807280,,Flag of French Guiana
+France,French Guiana's 2nd constituency,Q3025199,5,0,2,constituency of the French Fifth Republic,,Q15620943,,French Guiana's 2nd constituency
+France,music of French Guiana,Q16837791,5,0,2,Music and musical traditions of French Guiana,French Guianan music|French Guianese music|Guianan music|French Guiana music,Q75054287|Q188451,Q5645984,Music of French Guiana
+France,French Guiana's 1st constituency,Q3402069,5,0,2,constituency of the French Fifth Republic,,Q15620943,,French Guiana's 1st constituency
+France,French Third Republic,Q70802,5,0,2,nation of France from 1870 to 1940,La Troisième République|La IIIe République|La Troisieme Republique|La IIIe Republique|Third Republic of France|French Republic|Third French Republic,Q3024240|Q3624078|Q17152708,,French Third Republic
+France,French First Republic,Q58296,5,0,2,"republic governing France, 1792–1804",First Republic|First French Republic|French Republic,Q3024240|Q3624078|Q17152708,,French First Republic
+France,French Fifth Republic,Q200686,5,0,2,current system of government of France (1958–present),Fifth French Republic|Fifth Republic|5th Republic|5th French Republic|French 5th Republic|French Republic,Q17152708|Q3624078,,French Fifth Republic
+France,French Republican calendar,Q181974,5,0,2,calendar,French Revolutionary calendar|FRC,Q17154131|Q5249171|Q126962934,,French Republican calendar
+France,French Republican Party,Q3366676,5,0,2,French political party,Parti républicain français|Parti republicain français,Q7278|Q23702035,,Republican Party (France)
+France,French Republicans under the Restoration,Q15974488,5,0,2,campaigned for the monarchy's abolition,,,,French Republicans under the Restoration
+France,French Republicans under the July Monarchy,Q15974489,5,0,2,political event,,,,French Republicans under the July Monarchy
+France,French Republicanism and the Emergence of Saigon’s Public Sphere,Q124751273,5,0,2,,,Q21481766,,
+France,French Republican Calendar GNOME Shell extension,Q100718096,5,0,2,utility,,Q89104087,,
+French Guiana,French Guiana,Q3769,5,1,1,French overseas department and region in South America,"Guyane|Guiana, France|Guiana",Q202216|Q36784,,French Guiana
+French Guiana,French Guiana football team,Q726592,5,1,1,regional association football team of the French Guiana,,Q135408445,,French Guiana national football team
+French Guiana,Guianan Creole,Q1363072,5,1,1,French-based creole from French Guiana,French Guianan Creole|gcr|Guianese Creole|French Guianese Creole,Q34770|Q33289|Q1288568,Q33260,French Guianese Creole
+French Guiana,French Guiana Championnat National,Q891072,5,1,1,association football league,,Q15991303,Q3270632,French Guiana Régional 1
+French Guiana,French Guiana,Q103920749,5,1,1,encyclopedia article,,Q13433827,,
+French Guiana,2020 COVID-19 pandemic in French Guiana,Q87144458,5,1,1,viral outbreak in French Guiana,"2020 coronavirus outbreak in Guyane|2020 coronavirus outbreak in French Guiana|2020 French Guiana COVID-19 pandemic|French Guiana COVID-19 pandemic|2020 COVID pandemic in French Guiana|2020 COVID-19 pandemic in French Guiana, France|COVID-19 pandemic in French Guiana, France",Q3241045,,COVID-19 pandemic in French Guiana
+French Guiana,flag of French Guiana,Q854428,5,1,1,flag of the French overseas region of French Guiana,🇬🇫|French Guiana flag,Q22807280,,Flag of French Guiana
+French Guiana,French Guiana's 2nd constituency,Q3025199,5,1,1,constituency of the French Fifth Republic,,Q15620943,,French Guiana's 2nd constituency
+French Guiana,music of French Guiana,Q16837791,5,1,1,Music and musical traditions of French Guiana,French Guianan music|French Guianese music|Guianan music|French Guiana music,Q75054287|Q188451,Q5645984,Music of French Guiana
+French Guiana,French Guiana's 1st constituency,Q3402069,5,1,1,constituency of the French Fifth Republic,,Q15620943,,French Guiana's 1st constituency
+Moldova,Moldova,Q217,6,0,1,country in Eastern Europe,Republic of Moldova|Moldavia|Republica Moldova,Q3624078|Q179164|Q123480|Q6256,,Moldova
+Moldova,Romanian,Q7913,6,0,1,Romance language,Romanian language|Rumanian|Rumanian language|Roumanian|Roumanian language|Moldovan|Moldovan language|Daco-Romanian|Daco-Romanian language|Română|Românește,Q33742|Q1288568,Q147576,Romanian language
+Moldova,Principality of Moldavia,Q10957559,6,0,1,principality in Southeast Europe between 1346–1859,Moldo-Wallachia|Moldavia|Moldova|Principality of Moldova,Q208500|Q3024240|Q3624078,,Moldavia
+Moldova,Western Moldavia,Q209754,6,0,1,region in north-eastern Romania,Moldova|Romanian Moldavia|Moldavia|Moldova Occidentală,Q1620908,,Western Moldavia
+Moldova,Moldova men's national football team,Q191142,6,0,1,men's national association football team representing Moldova,Moldova national football team,Q135408445,Q1194951,Moldova national football team
+Moldova,Moldovan,Q36392,6,0,1,former name for the Romanian language in Moldova,mo|Moldovan language|Moldavian|ro-md|ro_MD,Q286576,Q7913,Moldovan language
+Moldova,Moldova Nouă,Q829051,6,0,1,"town in Caraș-Severin County, Romania",Újmoldova|Neumoldowa|Nová Moldava|Bošňák,Q16858213|Q902814|Q2264924,,Moldova Nouă
+Moldova,Moldovan,Q21452988,6,0,1,family name,,Q101352,,Moldovan (surname)
+Moldova,Moldova-Film,Q4300318,6,0,1,Soviet and Moldavian film studio,,Q1762059|Q1415395,,Moldova-Film
+Moldova,Moldova River,Q539053,6,0,1,river in Romania and Moldova,,Q4022,,Moldova (river)
+Ștefan Vodă District,Ștefan Vodă District,Q2129061,6,1,1,district of Moldova,Ştefan Vodă District (Moldova),Q15068450,,Ștefan Vodă District
+Ștefan Vodă District,Ștefan Vodă,Q1982983,6,1,2,city in Moldova,,Q515|Q2989457|Q532,,Ștefan Vodă
+Ștefan Vodă District,Ștefan Vodă,Q16426124,6,1,2,"commune in Călărași County, Romania",,Q659103,,"Ștefan Vodă, Călărași"
+Ștefan Vodă District,Ștefan Vodă,Q2537563,6,1,2,"village in Călărași County, Romania",,Q532|Q34841063,,
+Ștefan Vodă District,Ștefan Vodă,Q12172372,6,1,2,"village in Bacău County, Romania",,Q532,,
+Ștefan Vodă District,Ștefan Vodă railway station,Q60809077,6,1,2,railway station in Romania,,Q55488,,
+Ștefan Vodă District,Stephen IV of Moldavia,Q897671,6,1,2,Prince of Moldavia from 1517 to 1527,Ștefăniță,Q5,,Stephen IV of Moldavia
+Ștefan Vodă District,Ștefan Vodă,Q423311,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Ștefan Vodă District,Ştefan Vodă,Q20849328,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Estonia,Estonia,Q191,7,0,1,country in Northern Europe,Republic of Estonia|Estland|ee|Eesti Vabariik,Q6256|Q3624078|Q179164|Q7270|Q63791824,,Estonia
+Estonia,Estonian,Q9072,7,0,1,Finnic language,Estonian language|North Estonian|North Estonian language|Northern Estonian|Northern Estonian language,Q33742|Q152559|Q1288568,Q33328|Q34113,Estonian language
+Estonia,Estonian Wikipedia,Q200060,7,0,1,[et] Estonian-language edition of Wikipedia,,Q10876391,,Estonian Wikipedia
+Estonia,Estonia men's national football team,Q186914,7,0,1,men's national association football team representing Estonia,Estonia national football team,Q135408445,Q1194951,Estonia national football team
+Estonia,Estonian Journal of Earth Sciences,Q12362408,7,0,1,scientific journal,Proceedings of the Estonian Academy of Sciences. Geology =|Proceedings of the Estonian Academy of Sciences. Geology,Q5633421|Q737498|Q773668,,
+Estonia,MS Estonia,Q828458,7,0,1,cruise ferry which sunk on 28 September 1994,M/S Estonia|Viking Sally|Silja Star|Wasa King|Estonia|MV Estonia,Q473932|Q852190,,MS Estonia
+Estonia,Register of Cultural Monuments,Q3743725,7,0,1,Estonian heritage register,Estonian cultural monuments registry|National Register of Cultural Monuments,Q15097084|Q3071343,,National Register of Cultural Monuments
+Estonia,Estonia,Q5401432,7,0,1,constituency of the European Parliament,,Q2631496,,Estonia (European Parliament constituency)
+Estonia,Estonian National Museum,Q1370397,7,0,1,"museum in Tartu, Estonia",National museum of Estonia,Q17431399,,Estonian National Museum
+Estonia,Estonian Soviet Socialist Republic,Q130280,7,0,1,republic of the Soviet Union (1940–1991),Estonian SSR|Estonian S.S.R|Estonian ssr|Soviet Estonia,Q236036|Q208164|Q3624078|Q3024240,,Estonian Soviet Socialist Republic
+Estonia,Ministry of Foreign Affairs,Q6867006,7,0,2,Estonian government ministry,Estonian Ministry of Foreign Affairs|Estonian Foreign Ministry|Republic of Estonia’s Ministry of Foreign Affairs,Q20901295,,Ministry of Foreign Affairs (Estonia)
+Estonia,Geological Survey of Estonia,Q134524062,7,0,2,"government organization in Rakvere, Estonia",Republic of Estonia Geological Survey,Q327333,,
+Estonia,Republic of Estonia Materials on International Law 2006,Q128872256,7,0,2,scholarly article,,Q13442814,,
+Estonia,Republic of Estonia Materials on International Law 2015,Q127768065,7,0,2,scholarly article,,Q13442814,,
+Hiiu County,Hiiu County,Q1466462,7,1,1,county of Estonia,Hiiumaa|Hiiu maakond,Q189672,,Hiiu County
+Hiiu County,flag of Hiiu County,Q619405,7,1,1,flag of Estonian county,Hiiu County flag,Q22807280,,
+Hiiu County,Hiiu County Government,Q31277263,7,1,1,former state authority of Estonia,,Q327333,,
+Hiiu County,Hiiu county governor,Q65260379,7,1,1,public office in Estonia,,Q294414,Q11027282,
+Hiiu County,Hiiu County Court,Q65262009,7,1,1,,,Q23042707,,
+Hiiu County,Hiiu,Q1008582,7,1,2,subdistrict of Tallinn,,Q18551781,,Hiiu
+Hiiu County,Hiiu Rural Municipality,Q15092901,7,1,2,former municipality of Estonia (2013–2017),,Q28122896|Q26742250,,Hiiu Parish
+Hiiu County,Hiiumaa Rural Municipality,Q31277892,7,1,2,"municipality of Estonia, the sole municipality of Hiiu County (since 2017)",Hiiumaa Parish,Q28122896,,Hiiumaa Parish
+Hiiu County,Hiiumaa,Q146530,7,1,2,second largest island in Estonia,Dagö|Hiidenmaa|Dago,Q23442,,Hiiumaa
+Hiiu County,Hiiu railway station,Q2071385,7,1,2,"railway station in Tallinn, Estonia",Hiiu raudteepeatus|Nõmme-Väike station,Q55488,,Hiiu railway station
+Hiiu County,Hiiu,Q12363949,7,1,2,a dialect of Estonian language,Hiiu dialect|Hiiumaa dialect|Hiiu language,Q17376908,Q9072,
+Hiiu County,Hiiu,Q126364919,7,1,2,family name,,Q101352,,
+Hiiu County,Hiiu Kalur,Q12358006,7,1,2,company based in Estonia,,Q4830453,,
+Hiiu County,Hiiumaa,Q61403323,7,1,2,Estonian newspaper,,Q11032,,
+Lebanon,Lebanon,Q822,8,0,1,country in West Asia,Lebanese Republic|lb|Republic of Lebanon|Lubnan|State of Lebanon,Q3624078|Q51576574|Q6256,,Lebanon
+Lebanon,Lebanon,Q993523,8,0,1,"city in Grafton County, New Hampshire, United States","Lebanon, New Hampshire|Lebanon N.H.|Lebanon NH|Lebanon, NH",Q1093829,,"Lebanon, New Hampshire"
+Lebanon,Lebanon,Q1520670,8,0,1,"city in Wilson County, Tennessee, United States","Lebanon, Tennessee|Lebanon, TN",Q1093829,,"Lebanon, Tennessee"
+Lebanon,Lebanon,Q1016139,8,0,1,"county seat of Lebanon County, Pennsylvania, United States","Steitztown|Lebanon, Pennsylvania|Lebanon, PA",Q21010817|Q62049|Q5888666,,"Lebanon, Pennsylvania"
+Lebanon,Lebanon,Q986776,8,0,1,"city and the county seat of Warren County, Ohio, United States","Lebanon, Ohio|Lebanon, OH",Q1093829|Q62049,,"Lebanon, Ohio"
+Lebanon,Mount Lebanon,Q333711,8,0,1,mountain range in Lebanon,Lebanon,Q46831,,Mount Lebanon
+Lebanon,Lebanon,Q922352,8,0,1,"city in Indiana, United States","Lebanon, Indiana|Lebanon, IN",Q1093829|Q62049,,"Lebanon, Indiana"
+Lebanon,Lebanon,Q954894,8,0,1,"city in and county seat of Laclede County, Missouri, United States","Lebanon, Missouri|Lebanon, MO|Wyota|Wyota, Missouri|Wyota, MO",Q1093829|Q62049,,"Lebanon, Missouri"
+Lebanon,Lebanon,Q2446284,8,0,1,"town in New London County, Connecticut, United States","Lebanon, Connecticut|Lebanon, CT",Q15127012,,"Lebanon, Connecticut"
+Lebanon,Lebanon,Q1998390,8,0,1,"city in Oregon, USA","Lebanon, Oregon|Lebanon, OR",Q63440326,,"Lebanon, Oregon"
+Lebanon,Mount Lebanon Governorate,Q216945,8,0,2,governorate of Lebanon,Mont-Liban,Q844713,,Mount Lebanon Governorate
+Lebanon,Mt. Lebanon,Q1186932,8,0,2,"municipality in Allegheny County, Pennsylvania, United States","Mt. Lebanon, Pennsylvania|Mount Lebanon, Pennsylvania|Mount Lebanon, PA|Mt. Lebanon, PA",Q5888666|Q9035798,,"Mt. Lebanon, Pennsylvania"
+Lebanon,Mount Lebanon,Q2087150,8,0,2,"town in Bienville Parish, Louisiana","Mount Lebanon, Louisiana|Mount Lebanon, LA",Q15127012,,"Mount Lebanon, Louisiana"
+Lebanon,Mt. Lebanon High School,Q106316848,8,0,2,"public high school in Mt. Lebanon, Pennsylvania",MTLHS|Mt. Lebanon Senior High School|Mount Lebanon High School,Q9826,,Mt. Lebanon High School
+Lebanon,Mount Lebanon,Q49053378,8,0,2,"summit in Liberty County, Montana",,Q54050,,Mount Lebanon (Montana)
+Lebanon,Mount Lebanon,Q49053374,8,0,2,"mountain in Massachusetts, United States of America",Mt. Lebanon,Q8502,,
+Lebanon,Mount Lebanon,Q21888987,8,0,2,mountain in Australia,,Q8502,,
+Lebanon,Mount Lebanon,Q31482490,8,0,2,mountain in South Africa,,Q8502,,
+Lebanon,Mount Lebanon,Q31482511,8,0,2,mountain in Afrique du Sud,,Q8502,,
+Mount Lebanon Governorate,Mount Lebanon Governorate,Q216945,8,1,1,governorate of Lebanon,Mont-Liban,Q844713,,Mount Lebanon Governorate
+Mount Lebanon Governorate,Lebanon,Q822,8,1,2,country in West Asia,Lebanese Republic|lb|Republic of Lebanon|Lubnan|State of Lebanon,Q3624078|Q51576574|Q6256,,Lebanon
+Mount Lebanon Governorate,Lebanon,Q993523,8,1,2,"city in Grafton County, New Hampshire, United States","Lebanon, New Hampshire|Lebanon N.H.|Lebanon NH|Lebanon, NH",Q1093829,,"Lebanon, New Hampshire"
+Mount Lebanon Governorate,Lebanon,Q1520670,8,1,2,"city in Wilson County, Tennessee, United States","Lebanon, Tennessee|Lebanon, TN",Q1093829,,"Lebanon, Tennessee"
+Mount Lebanon Governorate,Lebanon,Q1016139,8,1,2,"county seat of Lebanon County, Pennsylvania, United States","Steitztown|Lebanon, Pennsylvania|Lebanon, PA",Q21010817|Q62049|Q5888666,,"Lebanon, Pennsylvania"
+Mount Lebanon Governorate,Lebanon,Q986776,8,1,2,"city and the county seat of Warren County, Ohio, United States","Lebanon, Ohio|Lebanon, OH",Q1093829|Q62049,,"Lebanon, Ohio"
+Mount Lebanon Governorate,Mount Lebanon,Q333711,8,1,2,mountain range in Lebanon,Lebanon,Q46831,,Mount Lebanon
+Mount Lebanon Governorate,Lebanon,Q922352,8,1,2,"city in Indiana, United States","Lebanon, Indiana|Lebanon, IN",Q1093829|Q62049,,"Lebanon, Indiana"
+Mount Lebanon Governorate,Lebanon,Q954894,8,1,2,"city in and county seat of Laclede County, Missouri, United States","Lebanon, Missouri|Lebanon, MO|Wyota|Wyota, Missouri|Wyota, MO",Q1093829|Q62049,,"Lebanon, Missouri"
+Mount Lebanon Governorate,Lebanon,Q2446284,8,1,2,"town in New London County, Connecticut, United States","Lebanon, Connecticut|Lebanon, CT",Q15127012,,"Lebanon, Connecticut"
+Mount Lebanon Governorate,Lebanon,Q1998390,8,1,2,"city in Oregon, USA","Lebanon, Oregon|Lebanon, OR",Q63440326,,"Lebanon, Oregon"
+Mount Lebanon Governorate,Lebanese Governorates Division,Q6510896,8,1,2,,,,,Lebanese Fifth Division
+Vatican City,Vatican City,Q237,9,0,1,"Holy See's independent state, an enclave within Rome, Italy",Vatican City State|Papal State|Vatican|The Vatican|Status Civitatis Vaticanae|Stato della Città del Vaticano|Città del Vaticano|State of Vatican City|Holy See,Q3624078|Q133442|Q171441|Q123480|Q51576574|Q6256|Q98116669|Q19691007|Q702492|Q1200957|Q10551526|Q7396640|Q127693126,,Vatican City
+Vatican City,Vatican City,Q32039279,9,0,1,,,,,
+Vatican City,Pontifical Swiss Guard,Q171504,9,0,1,the facto military of the Vatican City,Vatican City. Cohors elvetic|Pontificia Cohors Helvetica|Vatican City. Schweizergarde|Swiss Guard,Q176799|Q772547|Q1055735|Q971045,,Swiss Guard
+Vatican City,Vatican City,Q11327751,9,0,1,,,Q21286738,,
+Vatican City,COVID-19 pandemic in Vatican City,Q87222526,9,0,1,details of ongoing viral outbreak in Vatican City,2020 coronavirus outbreak in Vatican City|2020 COVID-19 pandemic in Vatican City|Vatican City COVID-19 pandemic|2020 Vatican City COVID-19 pandemic|COVID pandemic in Vatican City,Q3241045,,COVID-19 pandemic in Vatican City
+Vatican City,flag of Vatican City,Q79198,9,0,1,national flag of the Vatican City State and flag representing the Holy See,flag of the Holy See|flag of the Vatican|Vatican flag|Vatican City flag,Q186516|Q83302753,,Flag of Vatican City
+Vatican City,Italy–Vatican City border,Q2457562,9,0,1,divides the territories of Italy and Vatican City,border between Italy and Vatican City|border between Vatican City and Italy|Italy-Vatican City border|Vatican City-Italy border,Q15104814|Q12413618|Q17163396,,Italy-Vatican City border
+Vatican City,economy of Vatican City,Q2385910,9,0,1,economy of the country,Vatican economy|Vatican City economy,Q6456916,Q100874038|Q2226947,Economy of Vatican City
+Vatican City,Vatican City national association football team el mejor del mundo,Q751816,9,0,1,men's national association football team representing the Vatican City,Vatican City National Football Team,Q135408445,Q1194951,Vatican City national football team
+Vatican City,history of Vatican City,Q1444151,9,0,1,aspect of history,the Vatican City history|Vatican City history,Q17544377,,History of Vatican City
+Vatican City,Holy See,Q159583,9,0,2,jurisdiction of the Bishop of Rome,Santa Sede|See of Rome|Holy See of Rome|Sancta Sedes|See of Peter|Chair of Peter|The Holy See|Patriarchate of Rome|Roman Patriarchate,Q1896989|Q1147274|Q1063239,,Holy See
+Vatican City,Holy See–Palestine relations,Q5886115,9,0,2,bilateral relations,Holy See,Q15221623,,Holy See–Palestine relations
+Vatican City,Holy See of Cilicia,Q693678,9,0,2,Canonical See of the Armenian Apostolic Church,,Q866196|Q1736301,,Holy See of Cilicia
+Vatican City,Holy See Press Office,Q1891442,9,0,2,official agency of the Holy See,,Q2108946,,Holy See Press Office
+Vatican City,Holy See–Italy relations,Q3932303,9,0,2,bilateral relations,,Q15221623,,Holy See–Italy relations
+Vatican City,Holy See–Spain relations,Q15944714,9,0,2,bilateral relations,,Q15221623,,Holy See–Spain relations
+Vatican City,Holy See–Israel relations,Q2903418,9,0,2,bilateral relations,,Q15221623,,Holy See–Israel relations
+Vatican City,Holy See–South Korea relations,Q18531167,9,0,2,bilateral relations,,Q15221623,,Holy See–South Korea relations
+Vatican City,Holy See–Lebanon relations,Q5886097,9,0,2,diplomatic relations between Holy See and Lebanon,,Q15221623,,Holy See–Lebanon relations
+Vatican City,Vatican,Q42341153,9,0,2,family name,,Q101352,,
+Vatican City,Vatican Museums,Q182955,9,0,2,museums of the Vatican City,Museums in Vatican City,Q207694|Q17431399,,Vatican Museums
+Vatican City,Vatican News,Q1034213,9,0,2,news portal of the Holy See,,Q779239|Q17232649,,Vatican News
+Vatican City,Vatican Library,Q213678,9,0,2,library of the Holy See,Biblioteca vaticana|Biblioteca apostolica vaticana|Vatican. Biblioteca vaticana|BAV|The Vatican Library,Q22806|Q112572558|Q4002648,,Vatican Library
+Vatican City,apostolic nunciature,Q620045,9,0,2,official diplomatic representation of the Holy See,Vatican Embassy|Embassy,Q17197366,Q3917681|Q2737008|Q213283,Apostolic nunciature
+Vatican City,Second Vatican Council,Q169789,9,0,2,"Roman Catholic council, met 1962 to 1965",Concilium Vaticanum Secundum|Vatican II|2nd Vatican Council|Second Ecumenical Council of the Vatican|Second Vatican Ecumenical Council,Q51645,,Second Vatican Council
+Vatican City,Vatican Hill,Q1053000,9,0,2,hill in Rome that is the location of St. Peter's Basilica,Mons Vaticanus,Q54050,,Vatican Hill
+Vatican City,Vatican Gun Club,Q114609667,9,0,2,Belgian experimental band,,Q215380,,
+Vatican City,Apostolic Palace,Q145093,9,0,2,official residence of the Pope in Vatican City,Palace of Sixtus V|Vatican Palace|Papal Palace|Palazzo Apostolico|Palazzí Pontificí|Palazzi Pontifici,Q2651004|Q16560|Q83400038|Q481289,,Apostolic Palace
+United Arab Emirates,United Arab Emirates,Q878,10,0,1,country in Western Asia,U.A.E.|ae|Emirates|the United Arab Emirates|the UAE|the U.A.E.|the Emirates,Q3624078|Q6256,,United Arab Emirates
+United Arab Emirates,UTC+04:00,Q6779,10,0,1,identifier for a time offset from UTC of +4,Mauritius Time|Seychelles Time|Samara Time|United Arab Emirates Standard Time|UAE Standard Time|Gulf Standard Time,Q17272482,,UTC+04:00
+United Arab Emirates,Emirates men's national football team,Q235910,10,0,1,men's national association football team representing the Emirates,Emirates national football team|UAE men's national football team.|United Arab Emirates men's national football team.|UAE FC,Q135408445,Q1194951,United Arab Emirates national football team
+United Arab Emirates,United Arab Emirates University,Q1544739,10,0,1,university,University of the United Arab Emirates|UAEU|UAE University,Q3918,,United Arab Emirates University
+United Arab Emirates,state-affiliated X account,Q111678803,10,0,1,Twitter (X) account label given to accounts of state-affiliated media outlets or government officials or organizations (label under display name),state-affiliated account|United States government official|China government organization|Russia government organization|government organization account|state–affiliated Twitter account|government official account|state-affiliated media account|US government official|Russia state-affiliated media|China state-affiliated media|Russia government official|China government official|Ukraine government official|United Kingdom government organization|United Kingdom government official|Saudi Arabia government account|Saudi Arabia government official|state-affiliated twttr account|Belarus government organization|United Arab Emirates government account|Russia government account|Iran state-affiliated media|France government organization|Germany government organization|Japan government organization|Indonesia government organization|United States government organization|Iran government official|state-owned Twitter account|Government-funded Media|Publicly funded media|state-affiliated Twitter account,Q111691402|Q71533077,Q63976454|Q113459057,
+United Arab Emirates,United Arab Emirates Football Association,Q944522,10,0,1,governing body of association football in the UAE,UAEFA,Q1478443|Q163740,,United Arab Emirates Football Association
+United Arab Emirates,United Arab Emirates dirham,Q200294,10,0,1,currency,AED|Emirati dirham|UAE dirham|U.A.E. dirham|Dirham (1973-date),Q8142|Q572664,,United Arab Emirates dirham
+United Arab Emirates,United Arab Emirates national cricket team,Q3101549,10,0,1,Cricket team that represents the United Arab Emirates,,Q17376093,,United Arab Emirates national cricket team
+United Arab Emirates,sport in the United Arab Emirates,Q7579510,10,0,1,sports activities in the United Arab Emirates,sports in the United Arab Emirates|sports in the UAE|sport in the UAE|United Arab Emirates sports|sports of the United Arab Emirates|sporting in the United Arab Emirates,Q29791211,Q166291,Sport in the United Arab Emirates
+United Arab Emirates,United Arab Emirates Air Force,Q2556685,10,0,1,aerial warfare branch of the United Arab Emirates' military,UAEAF|af UAE,Q61883,,United Arab Emirates Air Force
+United Arab Emirates,Emirate of Sharjah,Q188810,10,0,2,one of the seven emirates of the United Arab Emirates,Sharjah Emirate,Q19833031,,Emirate of Sharjah
+United Arab Emirates,UAE Team L'IMAD,Q1420281,10,0,2,Italian cycling team,Alé–Cipollini–Galassia|MCipollini–Giordana|Alé–Cipollini|Alé BTC Ljubljana|UAE Team ADQ,Q2466826|Q80425135,,UAE Team L'Imad
+United Arab Emirates,Abdelmalek Essaâdi University,Q3551367,10,0,2,university in Morocco,Abdelmalek Essaadi University|UAE,Q3918|Q121614922,,Abdelmalek Essaâdi University
+United Arab Emirates,UAE,Q471007,10,0,2,computer emulator which emulates the hardware of Commodore International's Amiga range of computers,Ubiquitous Amiga Emulator|Ultimate Amiga Emulator|Universal Amiga Emulator|Unix Amiga Emulator|Unusable Amiga Emulator,Q166142|Q202871,Q28169064,UAE (emulator)
+United Arab Emirates,UAE Team Emirates XRG,Q135837,10,0,2,cycling team,,Q20653563|Q20638319|Q6154783|Q20639847,,UAE Team Emirates XRG
+United Arab Emirates,Union des Anciens Etudiants de l'Universite Libre de Bruxelles,Q99390906,10,0,2,Belgian alumni association,UAE,Q447877,,
+United Arab Emirates,Mount Aue,Q35282156,10,0,2,airport in Papua New Guinea,UAE,Q1248784,,
+Emirate of Sharjah,Emirate of Sharjah,Q188810,10,1,1,one of the seven emirates of the United Arab Emirates,Sharjah Emirate,Q19833031,,Emirate of Sharjah
+Emirate of Sharjah,Sharjah,Q289693,10,1,2,city in the United Arab Emirates,,Q515|Q1549591,,Sharjah
+Emirate of Sharjah,Sharjah,Q22080057,10,1,2,"cycling team (2015-2016, 2018-)",Sharjah Team,Q20639848|Q1756006|Q1756006,,Sharjah Team
+Emirate of Sharjah,Sharjah,Q2572936,10,1,2,star,,Q523|Q2247863|Q67206785,,HIP 79431
+Emirate of Sharjah,Sharjah FC,Q286801,10,1,2,Emirati association football club,Sharjah C.S.C.|Al Sharjah SC,Q476028,,Sharjah FC
+Emirate of Sharjah,University of Sharjah,Q7896294,10,1,2,university in the United Arab Emirates,Sharjah University,Q3918,,University of Sharjah
+Emirate of Sharjah,Sharjah International Airport,Q635826,10,1,2,"airport in Sharjah, UAE",SHJ|OMSJ,Q644371|Q94993988,,Sharjah International Airport
+Emirate of Sharjah,Tour of Sharjah,Q15233563,10,1,2,Emirati multi-day road cycling race,Sharjah Cycling Tour,Q1318941,Q22231113,Tour of Sharjah
+Emirate of Sharjah,Sharjah National Oil Corporation,Q96405467,10,1,2,The national oil and gas corporation of Sharjah in the United Arab Emirates,SNOC,Q783794,,Sharjah National Oil Corporation
+Emirate of Sharjah,Sharjah Cricket Association Stadium,Q3056365,10,1,2,cricket stadium,,Q682943,,Sharjah Cricket Stadium
+Lithuania,Lithuania,Q37,11,0,1,country in northeastern Europe,Republic of Lithuania,Q3624078|Q179164|Q63791824|Q6256,,Lithuania
+Lithuania,Grand Duchy of Lithuania,Q49683,11,0,1,Eastern European monarchical state that existed from 1236 to 1795,Litva|GDL|Lithuania|Lithuanian Empire|Medieval Lithuanian state|Lietuva|Lithuanian Republic,Q3024240,,Grand Duchy of Lithuania
+Lithuania,Lithuanian Wikipedia,Q202472,11,0,1,Lithuanian-language edition of Wikipedia,,Q10876391,,Lithuanian Wikipedia
+Lithuania,Lithuania,Q98878711,11,0,1,2020 audio track by Big Sean,,Q7302866,,
+Lithuania,Lithuania,Q76545039,11,0,1,family name,,Q101352,,
+Lithuania,Lithuanian,Q9083,11,0,1,Baltic language spoken in Lithuania,Lithuanian language|Lietuvių,Q34770|Q1288568,Q149944,Lithuanian language
+Lithuania,Lithuania,Q140913612,11,0,1,1965 book by Vytautas Vaitiekūnas,,Q3331189,,
+Lithuania,Lithuania,Q6648231,11,0,1,constituency of the European Parliament,,Q2631496,,Lithuania (European Parliament constituency)
+Lithuania,Duchy of Lithuania,Q3270263,11,0,1,"state-territorial formation of ethnic Lithuanians, that existed from the 13th century until 1413",Aukštaitija|Land of Lithuania|Duchy of Vilnius|Lithuania Propria|Lithuania,Q19953632|Q41719,,Duchy of Lithuania
+Lithuania,Lithuanian Soviet Socialist Republic,Q173761,11,0,1,republic of the Soviet Union (1940-1991),Lithuanian SSR|Lietuvos TSR|Lietuvos Tarybų Socialistinė Respublika|Litovskaya Sovetskaya Sotsialisticheskaya Respublika|Soviet Lithuania,Q236036,,Lithuanian Soviet Socialist Republic
+Marijampolė County,Marijampolė County,Q853948,11,1,1,county of Lithuania,,Q273789,,Marijampolė County
+Marijampolė County,Lithuania,Q37,11,1,2,country in northeastern Europe,Republic of Lithuania,Q3624078|Q179164|Q63791824|Q6256,,Lithuania
+Marijampolė County,Grand Duchy of Lithuania,Q49683,11,1,2,Eastern European monarchical state that existed from 1236 to 1795,Litva|GDL|Lithuania|Lithuanian Empire|Medieval Lithuanian state|Lietuva|Lithuanian Republic,Q3024240,,Grand Duchy of Lithuania
+Marijampolė County,Lithuanian Wikipedia,Q202472,11,1,2,Lithuanian-language edition of Wikipedia,,Q10876391,,Lithuanian Wikipedia
+Marijampolė County,Lithuania,Q98878711,11,1,2,2020 audio track by Big Sean,,Q7302866,,
+Marijampolė County,Lithuania,Q76545039,11,1,2,family name,,Q101352,,
+Marijampolė County,Lithuanian,Q9083,11,1,2,Baltic language spoken in Lithuania,Lithuanian language|Lietuvių,Q34770|Q1288568,Q149944,Lithuanian language
+Marijampolė County,Lithuania,Q140913612,11,1,2,1965 book by Vytautas Vaitiekūnas,,Q3331189,,
+Marijampolė County,Lithuania,Q6648231,11,1,2,constituency of the European Parliament,,Q2631496,,Lithuania (European Parliament constituency)
+Marijampolė County,Duchy of Lithuania,Q3270263,11,1,2,"state-territorial formation of ethnic Lithuanians, that existed from the 13th century until 1413",Aukštaitija|Land of Lithuania|Duchy of Vilnius|Lithuania Propria|Lithuania,Q19953632|Q41719,,Duchy of Lithuania
+Marijampolė County,Lithuanian Soviet Socialist Republic,Q173761,11,1,2,republic of the Soviet Union (1940-1991),Lithuanian SSR|Lietuvos TSR|Lietuvos Tarybų Socialistinė Respublika|Litovskaya Sovetskaya Sotsialisticheskaya Respublika|Soviet Lithuania,Q236036,,Lithuanian Soviet Socialist Republic
+Marijampolė County,Marijampolė,Q1351046,11,1,2,city in Lithuania,Marijampole,Q515,,Marijampolė
+Marijampolė County,Marijampolė Municipality,Q1931377,11,1,2,"municipality in Suvalkija, Lithuania",Marijampolė District,Q1363145|Q3154693,,Marijampolė Municipality
+Marijampolė County,242479 Marijampole,Q15573410,11,1,2,asteroid,Marijampole,Q3863,,242479 Marijampole
+Marijampolė County,Marijampolė train station,Q4354897,11,1,2,train station in Lithuania,Marijampolė railway station,Q55488,,Marijampolė railway station
+Marijampolė County,Marijampolė Eldership,Q12664525,11,1,2,former eldership of Lithuania,,Q2298305,,
+Marijampolė County,Marijampolė Gymnasium,Q75052,11,1,2,school,,Q55043,,Marijampolė Gymnasium
+Marijampolė County,Marijampolė,Q12664500,11,1,2,farm village in Lithuania,,Q532,,
+Marijampolė County,Marijampolė District Municipality,Q16459845,11,1,2,former district municipality of Lithuania,,Q131749582,,
+Marijampolė County,Marijampole College,Q1779334,11,1,2,"college in Marijampolė, Lithuania",,Q189004,,Marijampolė University of Applied Sciences
+United Kingdom,United Kingdom,Q145,12,0,1,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+United Kingdom,United Kingdom of Great Britain and Ireland,Q174193,12,0,1,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+United Kingdom,Government of the United Kingdom,Q6063,12,0,1,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+United Kingdom,United Kingdom,Q7887906,12,0,1,album by Manny Montes,,Q482994,,
+United Kingdom,British English,Q7979,12,0,1,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+United Kingdom,Kingdom of Great Britain,Q161885,12,0,1,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+United Kingdom,Parliament of the United Kingdom,Q11010,12,0,1,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+United Kingdom,United Kingdom,Q108280869,12,0,1,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+United Kingdom,Conservative Party,Q9626,12,0,1,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+United Kingdom,Public General Act of the Parliament of the United Kingdom,Q105774620,12,0,1,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+United Kingdom,England,Q21,12,0,2,"country in north-west Europe, part of the United Kingdom","England, United Kingdom|England, UK",Q3336843|Q518261|Q6266|Q6256,,England
+United Kingdom,Kingdom of England,Q179876,12,0,2,historic kingdom on the British Isles (927–1649; 1660–1707),England,Q3624078|Q3024240|Q3624078,,Kingdom of England
+United Kingdom,England,Q11111401,12,0,2,family name,,Q101352,,England (surname)
+United Kingdom,England men's national association football team,Q47762,12,0,2,men's national association football team representing England,England|Three Lions|England national football team|England national soccer team|England national association football team|England men's national football team,Q135408445,Q1194951,England national football team
+United Kingdom,England and Wales,Q1156248,12,0,2,legal and administrative jurisdiction within the United Kingdom,England & Wales|England (legal jurisdiction),Q2721171|Q140937209|Q56061|Q27096213|Q2478386,Q7748|Q4830453,England and Wales
+United Kingdom,Premier League,Q9448,12,0,2,English men's association top football league,English Premier League|Premiership|English Premiership|England Premier League|Premier League of England,Q15991303|Q15991290|Q6832945,,Premier League
+United Kingdom,England,Q79282,12,0,2,"city in Lonoke County, Arkansas, United States","England, Arkansas|England, AR",Q1093829,,"England, Arkansas"
+United Kingdom,England in the Middle Ages,Q2251971,12,0,2,historical period of England,Medieval England,Q17524420,Q11755949,England in the Middle Ages
+United Kingdom,England cricket team,Q1321565,12,0,2,national cricket team,England and Wales cricket team|England national cricket team,Q86255944,,England cricket team
+United Kingdom,England men’s national rugby union team,Q378628,12,0,2,Men’s rugby union team representing England,England national rugby team|England rugby union team|England rugby team|England Rugby,Q58840819,,England national rugby union team
+United Kingdom,British Isles,Q38272,12,0,2,group of islands in northwest Europe,Britain and Ireland|Atlantic Archipelago|Great Britain and Ireland|the Britains|The Isles|British Islands,Q33837|Q1402592,,British Isles
+United Kingdom,British Isles,Q105970369,12,0,2,"map by George Lily, 1546",Britanniae insulae quae nunc Angliae et Scotia regna continent cum Hibernia adiacente nova descriptio,Q4006|Q25106976,,
+United Kingdom,British Isles team,Q919609,12,0,2,national sports team at the International Lawn Tennis Challenge (later Davis Cup),British Isles Davis Cup team,Q66817758,,
+United Kingdom,British Isles Congenital Cataract Interest Group,Q114429437,12,0,2,researcher,,Q1241025,,
+United Kingdom,climate of the British Isles,Q3680726,12,0,2,Inglese,the British Isles climate|British Isles climate,Q46997958,,Climate of the British Isles
+United Kingdom,British Isles fixed sea link connections,Q1672812,12,0,2,proposed Great Britain-Ireland tunnels or bridges,Irish Sea fixed crossing,Q27464969,,Proposed British Isles fixed sea link connections
+United Kingdom,rugby union in the British Isles,Q7378499,12,0,2,,British Isles rugby union,Q29791211,,Rugby union in the British Isles
+United Kingdom,Triple Crown Tournament,Q5198008,12,0,2,cricket competition from 1993 to 2001,British Isles Championship,Q13406554,,Triple Crown Tournament
+United Kingdom,British Isles – A Natural History,Q4970173,12,0,2,documentary TV series,,Q5398426,,British Isles – A Natural History
+United Kingdom,British Isles Terminology task force,Q21829010,12,0,2,Wikimedia subject-area collaboration,WikiProject British Isles Terminology|Wikipedia:British Isles Terminology task force|British Isles Terminology task force,Q110059964,,Wikipedia:British Isles Terminology task force
+England,England,Q21,12,1,1,"country in north-west Europe, part of the United Kingdom","England, United Kingdom|England, UK",Q3336843|Q518261|Q6266|Q6256,,England
+England,Kingdom of England,Q179876,12,1,1,historic kingdom on the British Isles (927–1649; 1660–1707),England,Q3624078|Q3024240|Q3624078,,Kingdom of England
+England,England,Q11111401,12,1,1,family name,,Q101352,,England (surname)
+England,England men's national association football team,Q47762,12,1,1,men's national association football team representing England,England|Three Lions|England national football team|England national soccer team|England national association football team|England men's national football team,Q135408445,Q1194951,England national football team
+England,England and Wales,Q1156248,12,1,1,legal and administrative jurisdiction within the United Kingdom,England & Wales|England (legal jurisdiction),Q2721171|Q140937209|Q56061|Q27096213|Q2478386,Q7748|Q4830453,England and Wales
+England,Premier League,Q9448,12,1,1,English men's association top football league,English Premier League|Premiership|English Premiership|England Premier League|Premier League of England,Q15991303|Q15991290|Q6832945,,Premier League
+England,England,Q79282,12,1,1,"city in Lonoke County, Arkansas, United States","England, Arkansas|England, AR",Q1093829,,"England, Arkansas"
+England,England in the Middle Ages,Q2251971,12,1,1,historical period of England,Medieval England,Q17524420,Q11755949,England in the Middle Ages
+England,England cricket team,Q1321565,12,1,1,national cricket team,England and Wales cricket team|England national cricket team,Q86255944,,England cricket team
+England,England men’s national rugby union team,Q378628,12,1,1,Men’s rugby union team representing England,England national rugby team|England rugby union team|England rugby team|England Rugby,Q58840819,,England national rugby union team
+England,United Kingdom,Q145,12,1,2,island country in north-west Europe,United Kingdom of Great Britain and Northern Ireland|U K|G B|Great Britain|Great Britain and Northern Ireland|the United Kingdom of Great Britain and Northern Ireland|the UK|the United Kingdom,Q3624078|Q6256|Q20181813|Q112099,,United Kingdom
+England,United Kingdom of Great Britain and Ireland,Q174193,12,1,2,historical sovereign state (1801–1922),United Kingdom|UKGBI|Great Britain and Ireland,Q3624078|Q3024240|Q20181813|Q6256,,United Kingdom of Great Britain and Ireland
+England,Government of the United Kingdom,Q6063,12,1,2,central government of the United Kingdom of Great Britain and Northern Ireland,UK Government|His Majesty's Government|British Government|HM Government|United Kingdom Government|Her Majesty's Government|HMG,Q1320217|Q10926884|Q16334295,Q7188,Government of the United Kingdom
+England,United Kingdom,Q7887906,12,1,2,album by Manny Montes,,Q482994,,
+England,British English,Q7979,12,1,2,forms of the English language used in Britain,English (United Kingdom)|United Kingdom English|UK English|BrE|BE|Commonwealth English|Oxford English,Q951873|Q455374,Q138349272,British English
+England,Kingdom of Great Britain,Q161885,12,1,2,constitutional monarchy in Western Europe (1707–1800),United Kingdom of Great Britain|UKGB|UK|GB|Great Britain,Q3624078|Q417175|Q3024240|Q6256,,Kingdom of Great Britain
+England,Parliament of the United Kingdom,Q11010,12,1,2,supreme legislative body of the United Kingdom,Parliament of the United Kingdom of Great Britain and Northern Ireland|British Parliament|UK Parliament|United Kingdom Parliament|Parliament of Britain|British legislature|U.K. Parliament|Westminster|Parliament|Parliament of the UK,Q35749|Q189445,,Parliament of the United Kingdom
+England,United Kingdom,Q108280869,12,1,2,1989 studio album by American Music Club,,Q482994,,United Kingdom (album)
+England,Conservative Party,Q9626,12,1,2,centre-right to right-wing political party in the United Kingdom,Tories|Conservative and Unionist Party|Conservatives|UK Conservative Party|United Kingdom Conservative Party|Tory Party|Conservative Party (Great Britain) -- Elections|Conservative Party (Great Britain) -- Records and correspondence|British Conservative Party|Conservative Party (UK),Q7278,,Conservative Party (UK)
+England,Public General Act of the Parliament of the United Kingdom,Q105774620,12,1,2,"Act of Parliament that is part of the series of Public General Acts, passed via the public bill procedure or the hybrid procedure, generally applying to the public at large",Public General Act of Parliament of the United Kingdom|United Kingdom Public General Act of Parliament|Public General Act of the United Kingdom Parliament|UK Public General Act of Parliament,Q110430875,Q4677783|Q740464,
+England,British Isles,Q38272,12,1,2,group of islands in northwest Europe,Britain and Ireland|Atlantic Archipelago|Great Britain and Ireland|the Britains|The Isles|British Islands,Q33837|Q1402592,,British Isles
+England,British Isles,Q105970369,12,1,2,"map by George Lily, 1546",Britanniae insulae quae nunc Angliae et Scotia regna continent cum Hibernia adiacente nova descriptio,Q4006|Q25106976,,
+England,British Isles team,Q919609,12,1,2,national sports team at the International Lawn Tennis Challenge (later Davis Cup),British Isles Davis Cup team,Q66817758,,
+England,British Isles Congenital Cataract Interest Group,Q114429437,12,1,2,researcher,,Q1241025,,
+England,climate of the British Isles,Q3680726,12,1,2,Inglese,the British Isles climate|British Isles climate,Q46997958,,Climate of the British Isles
+England,British Isles fixed sea link connections,Q1672812,12,1,2,proposed Great Britain-Ireland tunnels or bridges,Irish Sea fixed crossing,Q27464969,,Proposed British Isles fixed sea link connections
+England,rugby union in the British Isles,Q7378499,12,1,2,,British Isles rugby union,Q29791211,,Rugby union in the British Isles
+England,Triple Crown Tournament,Q5198008,12,1,2,cricket competition from 1993 to 2001,British Isles Championship,Q13406554,,Triple Crown Tournament
+England,British Isles – A Natural History,Q4970173,12,1,2,documentary TV series,,Q5398426,,British Isles – A Natural History
+England,British Isles Terminology task force,Q21829010,12,1,2,Wikimedia subject-area collaboration,WikiProject British Isles Terminology|Wikipedia:British Isles Terminology task force|British Isles Terminology task force,Q110059964,,Wikipedia:British Isles Terminology task force
+East Timor,Timor-Leste,Q574,13,0,1,sovereign state situated on several islands in Southeast Asia,Democratic Republic of Timor-Leste|East Timor|TL,Q6256|Q3624078|Q112099,,Timor-Leste
+East Timor,UTC+09:00,Q7041,13,0,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+East Timor,Timor-Leste men's national football team,Q270973,13,0,1,national football team of Timor-Leste,East Timor national football team|Timor-Leste national football team|East Timor men's national football team,Q135408445,Q1194951,Timor-Leste national football team
+East Timor,flag of East Timor,Q30768,13,0,1,national flag of the Democratic Republic of Timor-Leste,flag of Timor-Leste|East Timor flag,Q186516,,Flag of Timor-Leste
+East Timor,East Timor centavo coins,Q572213,13,0,1,currency,,Q8142|Q58093,,Timor-Leste centavo coins
+East Timor,Timor-Leste Defence Force,Q1537543,13,0,1,combined military forces of East Timor,East Timor military|military of East Timor|mil East Timor|F-FDTL|Falintil-FDTL,Q772547,,Timor-Leste Defence Force
+East Timor,East Timor–Indonesia border,Q3088770,13,0,1,international border,border between Indonesia and East Timor|border between East Timor and Indonesia|Indonesia-East Timor border|East Timor-Indonesia border|Indonesia–East Timor border,Q133346|Q15104814|Q3089219|Q12413618,,Indonesia–Timor-Leste border
+East Timor,COVID-19 pandemic in East Timor,Q87836826,13,0,1,viral outbreak in East Timor,2020 coronavirus pandemic in East Timor|East Timor COVID-19 pandemic|2020 East Timor COVID-19 pandemic|COVID pandemic in East Timor,Q3241045,,COVID-19 pandemic in Timor-Leste
+East Timor,history of East Timor,Q840261,13,0,1,aspect of history,East Timor history,Q17544377,,History of Timor-Leste
+East Timor,culture of East Timor,Q276844,13,0,1,pattern of human activity and symbolism associated with East Timor and its people,culture of Timor-Leste|East Timorese culture|culture in East Timor|East Timor culture,Q19958368,Q13152690,Culture of Timor-Leste
+East Timor,Bobonaro Municipality,Q860913,13,0,2,municipality of East Timor,Bobonaro,Q741821,,Bobonaro Municipality
+East Timor,Timor-Leste national under-23 football team,Q7806953,13,0,2,national association football team,,Q6979593,,Timor-Leste national under-23 football team
+East Timor,Super Liga Timorense,Q1090640,13,0,2,association football league,Timor-Leste Super Liga,Q15991303,Q3270632,Super Liga Timorense
+East Timor,Timor-Leste national under-20 football team,Q7806949,13,0,2,national association football team,,Q6979593,,Timor-Leste national under-19 football team
+East Timor,Timor-Leste national under-16 football team,Q3590792,13,0,2,national association football team,,Q6979593,,Timor-Leste national under-16 football team
+East Timor,Timor-Leste national under-21 football team,Q7806951,13,0,2,national association football team,,Q6979593,,Timor-Leste national under-21 football team
+East Timor,Timor Leste Handball Federation,Q138303954,13,0,2,,,Q130405942|Q55379753,,
+East Timor,Timor-Leste national futsal team,Q3873615,13,0,2,,,Q94696559,,Timor-Leste national futsal team
+Bobonaro Municipality,Bobonaro Municipality,Q860913,13,1,1,municipality of East Timor,Bobonaro,Q741821,,Bobonaro Municipality
+Bobonaro Municipality,Timor-Leste,Q574,13,1,2,sovereign state situated on several islands in Southeast Asia,Democratic Republic of Timor-Leste|East Timor|TL,Q6256|Q3624078|Q112099,,Timor-Leste
+Bobonaro Municipality,UTC+09:00,Q7041,13,1,2,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Bobonaro Municipality,Timor-Leste men's national football team,Q270973,13,1,2,national football team of Timor-Leste,East Timor national football team|Timor-Leste national football team|East Timor men's national football team,Q135408445,Q1194951,Timor-Leste national football team
+Bobonaro Municipality,flag of East Timor,Q30768,13,1,2,national flag of the Democratic Republic of Timor-Leste,flag of Timor-Leste|East Timor flag,Q186516,,Flag of Timor-Leste
+Bobonaro Municipality,East Timor centavo coins,Q572213,13,1,2,currency,,Q8142|Q58093,,Timor-Leste centavo coins
+Bobonaro Municipality,Timor-Leste Defence Force,Q1537543,13,1,2,combined military forces of East Timor,East Timor military|military of East Timor|mil East Timor|F-FDTL|Falintil-FDTL,Q772547,,Timor-Leste Defence Force
+Bobonaro Municipality,East Timor–Indonesia border,Q3088770,13,1,2,international border,border between Indonesia and East Timor|border between East Timor and Indonesia|Indonesia-East Timor border|East Timor-Indonesia border|Indonesia–East Timor border,Q133346|Q15104814|Q3089219|Q12413618,,Indonesia–Timor-Leste border
+Bobonaro Municipality,COVID-19 pandemic in East Timor,Q87836826,13,1,2,viral outbreak in East Timor,2020 coronavirus pandemic in East Timor|East Timor COVID-19 pandemic|2020 East Timor COVID-19 pandemic|COVID pandemic in East Timor,Q3241045,,COVID-19 pandemic in Timor-Leste
+Bobonaro Municipality,history of East Timor,Q840261,13,1,2,aspect of history,East Timor history,Q17544377,,History of Timor-Leste
+Bobonaro Municipality,culture of East Timor,Q276844,13,1,2,pattern of human activity and symbolism associated with East Timor and its people,culture of Timor-Leste|East Timorese culture|culture in East Timor|East Timor culture,Q19958368,Q13152690,Culture of Timor-Leste
+Bobonaro Municipality,Bobonaro,Q491353,13,1,2,city in East Timor,,Q22044663,,
+Bobonaro Municipality,Bobonaro,Q55574072,13,1,2,"place in Bobonaro District, Timor-Leste",,Q3257686,,Bobonaro
+Bobonaro Municipality,Bobonaro,Q12488340,13,1,2,former regency in Indonesia,,Q3191695|Q19953632,,
+Bobonaro Municipality,Bobonaro administrative post,Q17522698,13,1,2,"administrative post in Bobonaro Municipality, East Timor",Bobonaro Subdistrict,Q1512109,,Bobonaro Administrative Post
+Bobonaro Municipality,Bobonaro,Q3432035,13,1,2,Wikimedia disambiguation page,,Q4167410,,
+Bobonaro Municipality,municipality,Q15284,13,1,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Bobonaro Municipality,municipality of the Philippines,Q24764,13,1,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Bobonaro Municipality,municipality,Q27676428,13,1,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Bobonaro Municipality,Shanghai,Q8686,13,1,2,provincial-level municipality in China,"Hu|Shang Hai|Shanghai, China|Shanghae|Zanghae|Shang-hai|Shen|Pearl of the Orient|Xanghae|Shanghai Municipality|Municipality of Shanghai|Shanghai City|Shang Hai Shi",Q1208802|Q1066538|Q1549591|Q2264924|Q208511|Q174844|Q200250|Q51929311|Q1073535,,Shanghai
+Bobonaro Municipality,municipality in Germany,Q262166,13,1,2,lowest official level of territorial division in Germany,,,Q11618417|Q15284|Q14757767,Municipalities of Germany
+Bobonaro Municipality,county town,Q1357964,13,1,2,county's administrative centre in the United Kingdom or Ireland,municipality,Q31728|Q11900291|Q7188,Q3957|Q1306755|Q123705|Q68773434|Q618123,County town
+Bobonaro Municipality,municipality of Spain,Q2074737,13,1,2,administrative territorial entity of Spain,municipio de España|Spanish municipality|Municipality of Spain,Q126192154,Q3183364|Q15284|Q1763214|Q11618417|Q48909258,Municipalities of Spain
+Bobonaro Municipality,municipality seat,Q15303838,13,1,2,location of the main elements of the government of a municipality,municipal seat|seat of municipal government|municipality capital|municipal town|municipality center|municipal capital,,Q956214|Q1306755|Q486972|Q1901835,
+Bobonaro Municipality,municipality of Brazil,Q3184121,13,1,2,administrative division of the states in Brazil,municipalities of Brazil,Q56061,Q10374536|Q1048835|Q15284|Q12357832|Q192611,Municipalities of Brazil
+Bobonaro Municipality,municipality of Georgia,Q2655841,13,1,2,"subdivision of Georgia, consisting of a settlement or a group of settlements",municipality,Q28872924,Q244339|Q12357832|Q149621|Q486972,List of municipalities in Georgia (country)
+Malaysia,Malaysia,Q833,14,0,1,country in Southeast Asia,Federation of Malaysia|Malaysia Federation,Q3624078|Q6256|Q140892892,,Malaysia
+Malaysia,Malaysia,Q2493993,14,0,1,Unicode block (U+0D00-0D7F),U+0D00-0D7F,Q3512806,,Malayalam (Unicode block)
+Malaysia,Malaysia Airlines Flight 17,Q17374096,14,0,1,passenger flight from Amsterdam to Kuala Lumpur,flight MH17|Malaysian Airlines Flight 17,Q106955175,,Malaysia Airlines Flight 17
+Malaysia,Standard Malay,Q15065,14,0,1,"Standard Malay is the official language in Malaysia, Singapore and Brunei, while Bahasa Malaysia is only used in Malaysia.",ms-my|ms-MY|Standard Malay/Bahasa Melayu Baku|Malaysian language/Bahasa Malaysia,Q33384|Q319972,Q123474569|Q12497930,Malaysian Malay
+Malaysia,Malaysian Journal of Pathology,Q23329683,14,0,1,medical journal,,Q737498,,
+Malaysia,Malaysia men's national football team,Q318922,14,0,1,men's national association football team representing Malaysia,Malaysia national football team,Q135408445,Q1194951,Malaysia national football team
+Malaysia,Eurycoma longifolia,Q311710,14,0,1,species of flowering shrub native to Indochina,longjack|tongkat ali|Malaysian ginseng,Q16521,,Eurycoma longifolia
+Malaysia,Time in Malaysia,Q3272978,14,0,1,zone time,Malaysian Standard Time|MST,Q12143,,Time in Malaysia
+Malaysia,Malaysian Islamic Party,Q1547025,14,0,1,Islamist political party in Malaysia,PAS|PMIP|Islamic Party of Malaysia|Pan-Malaysian Islamic Party,Q7278|Q6762254,,Malaysian Islamic Party
+Malaysia,Malaysian Family Physician,Q26842525,14,0,1,journal,MFP,Q5633421|Q737498|Q773668,,
+Malaysia,Kuala Lumpur,Q1865,14,0,2,federal territory and capital city of Malaysia,KL|Federal Territory of Kuala Lumpur|K.L.,Q1008803|Q1549591|Q515|Q51929311|Q208511|Q257391,,Kuala Lumpur
+Malaysia,Kuala Lumpur,Q14600700,14,0,2,"village in Boalemo Regency, Gorontalo, Indonesia",,Q26211545,,
+Malaysia,Kuala Lumpur FA,Q82948,14,0,2,association football governing body,Kuala Lumpur Football Association|Kuala Lumpur|KLFA,Q2485448,,Kuala Lumpur Football Association
+Malaysia,Kuala Lumpur City Centre,Q17049670,14,0,2,district in Federal Territory of Kuala Lumpur,KLCC,Q123705,,Kuala Lumpur City Centre
+Malaysia,Kuala Lumpur International Airport,Q500253,14,0,2,"international airport in Selangor, Malaysia",KUL|WMKK|KLIA,Q644371|Q1248784|Q62447|Q94993988,,Kuala Lumpur International Airport
+Malaysia,Kuala Lumpur Hospital,Q7350107,14,0,2,"public hospital in Kuala Lumpur, Malaysia",HKL,Q16917,,Kuala Lumpur Hospital
+Malaysia,Kuala Lumpur railway station,Q3096708,14,0,2,"railway station in Kuala Lumpur, Malaysia",Sultan Street Station|Resident Station|Heritage Station Hotel|Station Hotel|Kuala Lumpur station|Kuala Lumpur Komuter station|Kuala Lumpur Railway Station,Q55488,,Kuala Lumpur railway station
+Malaysia,Ampang and Sri Petaling lines,Q474391,14,0,2,Malaysian passenger railway lines,Ampang Line (Sentul Timur-Ampang)|Ampang line|Kuala Lumpur Star LRT|Ampang Line (Sentul-Timur-Ampang)|Ampang Line (Sentul Timur-Sri Petaling)|Kuala Lumpur Star Light Rail Transit|Ampang Line|Ampang and Petaling lines|Star LRT|STAR LRT|Sentul Timur-Ampang Line|Sri Petaling Line|Sri Petaling Line (Sentul Timur-Sri Petaling)|Sentul Timur-Sri Petaling Line|Sri Petaling line,Q728937|Q21484471|Q14946528,,Ampang and Sri Petaling lines
+Malaysia,Kuala Lumpur Badminton Stadium,Q1554267,14,0,2,sports arena,,Q1076486,,Kuala Lumpur Badminton Stadium
+Malaysia,Kuala Lumpur Sentral station,Q801042,14,0,2,railway station,KL Sentral|Sentral Kuala Lumpur|KJ15|MR1,Q55488|Q374221,,Kuala Lumpur Sentral station
+Kuala Lumpur,Kuala Lumpur,Q1865,14,1,1,federal territory and capital city of Malaysia,KL|Federal Territory of Kuala Lumpur|K.L.,Q1008803|Q1549591|Q515|Q51929311|Q208511|Q257391,,Kuala Lumpur
+Kuala Lumpur,Kuala Lumpur,Q14600700,14,1,1,"village in Boalemo Regency, Gorontalo, Indonesia",,Q26211545,,
+Kuala Lumpur,Kuala Lumpur FA,Q82948,14,1,1,association football governing body,Kuala Lumpur Football Association|Kuala Lumpur|KLFA,Q2485448,,Kuala Lumpur Football Association
+Kuala Lumpur,Kuala Lumpur City Centre,Q17049670,14,1,1,district in Federal Territory of Kuala Lumpur,KLCC,Q123705,,Kuala Lumpur City Centre
+Kuala Lumpur,Kuala Lumpur International Airport,Q500253,14,1,1,"international airport in Selangor, Malaysia",KUL|WMKK|KLIA,Q644371|Q1248784|Q62447|Q94993988,,Kuala Lumpur International Airport
+Kuala Lumpur,Kuala Lumpur Hospital,Q7350107,14,1,1,"public hospital in Kuala Lumpur, Malaysia",HKL,Q16917,,Kuala Lumpur Hospital
+Kuala Lumpur,Kuala Lumpur railway station,Q3096708,14,1,1,"railway station in Kuala Lumpur, Malaysia",Sultan Street Station|Resident Station|Heritage Station Hotel|Station Hotel|Kuala Lumpur station|Kuala Lumpur Komuter station|Kuala Lumpur Railway Station,Q55488,,Kuala Lumpur railway station
+Kuala Lumpur,Ampang and Sri Petaling lines,Q474391,14,1,1,Malaysian passenger railway lines,Ampang Line (Sentul Timur-Ampang)|Ampang line|Kuala Lumpur Star LRT|Ampang Line (Sentul-Timur-Ampang)|Ampang Line (Sentul Timur-Sri Petaling)|Kuala Lumpur Star Light Rail Transit|Ampang Line|Ampang and Petaling lines|Star LRT|STAR LRT|Sentul Timur-Ampang Line|Sri Petaling Line|Sri Petaling Line (Sentul Timur-Sri Petaling)|Sentul Timur-Sri Petaling Line|Sri Petaling line,Q728937|Q21484471|Q14946528,,Ampang and Sri Petaling lines
+Kuala Lumpur,Kuala Lumpur Badminton Stadium,Q1554267,14,1,1,sports arena,,Q1076486,,Kuala Lumpur Badminton Stadium
+Kuala Lumpur,Kuala Lumpur Sentral station,Q801042,14,1,1,railway station,KL Sentral|Sentral Kuala Lumpur|KJ15|MR1,Q55488|Q374221,,Kuala Lumpur Sentral station
+Romania,Romania,Q218,15,0,1,country in Southeast Europe,Roumania|Rumania,Q3624078|Q6256|Q179671,,Romania
+Romania,Romania,Q3441038,15,0,1,academic journal,,Q41298|Q5633421,,
+Romania,Romanian,Q7913,15,0,1,Romance language,Romanian language|Rumanian|Rumanian language|Roumanian|Roumanian language|Moldovan|Moldovan language|Daco-Romanian|Daco-Romanian language|Română|Românește,Q33742|Q1288568,Q147576,Romanian language
+Romania,Byzantine Empire,Q12544,15,0,1,Roman Empire during Late Antiquity and the Middle Ages,Byzantium|Eastern Roman Empire|Roman Empire|Lower Empire|Romanía|Greek Empire|Empire of the Greeks,Q48349|Q3024240|Q11514315|Q392160|Q56061|Q11042,,Byzantine Empire
+Romania,Romania,Q37070394,15,0,1,family name,,Q101352,,
+Romania,Romanian Wikipedia,Q199864,15,0,1,"Romanian-language edition of Wikipedia, the free-content encyclopedia",,Q10876391,,Romanian Wikipedia
+Romania,Romania men's national association football team,Q168397,15,0,1,national association football team,Romania national soccer team|Romania national football team|Romania national association football team|Romania men's national football team|Romania men's national soccer team,Q135408445,Q1194951,Romania national football team
+Romania,United Principalities of Moldavia and Wallachia,Q958291,15,0,1,1859–1881 personal union and early form of the modern Romanian state,United Principalities|Romanian United Principalities|Romania,Q3024240|Q1371288,,United Principalities of Moldavia and Wallachia
+Romania,Romanian alphabet,Q1095058,15,0,1,Latin-script alphabet of the Romanian written language,,Q29575627,,Romanian alphabet
+Romania,Historic Monument,Q916620,15,0,1,designation for National Heritage Sites in Romania,Romanian cultural property of national significance|National heritage site of Romania,Q30634609,Q358|Q2065736,Monument istoric
+Romania,Vâlcea County,Q186838,15,0,2,county in Romania,Valcea County,Q1776764,,Vâlcea County
+Romania,Vâlcea County,Q18549125,15,0,2,Kingdom of Romania,,Q41720204,,
+Romania,Vâlcea County Council,Q89485227,15,0,2,"elected assembly of Vâlcea County, Romania",,Q12725398,,
+Romania,Vâlcea County councillor,Q89588675,15,0,2,,,Q4164871,,
+Romania,COVID-19 pandemic in Vâlcea County,Q104720249,15,0,2,,"Vâlcea County COVID-19 pandemic|2020 Vâlcea County COVID-19 pandemic|COVID pandemic in Vâlcea County|COVID-19 pandemic in Vâlcea County, Romania",Q3241045,,
+Vâlcea County,Vâlcea County,Q186838,15,1,1,county in Romania,Valcea County,Q1776764,,Vâlcea County
+Vâlcea County,Vâlcea County,Q18549125,15,1,1,Kingdom of Romania,,Q41720204,,
+Vâlcea County,Vâlcea County Council,Q89485227,15,1,1,"elected assembly of Vâlcea County, Romania",,Q12725398,,
+Vâlcea County,Vâlcea County councillor,Q89588675,15,1,1,,,Q4164871,,
+Vâlcea County,COVID-19 pandemic in Vâlcea County,Q104720249,15,1,1,,"Vâlcea County COVID-19 pandemic|2020 Vâlcea County COVID-19 pandemic|COVID pandemic in Vâlcea County|COVID-19 pandemic in Vâlcea County, Romania",Q3241045,,
+Vâlcea County,Vâlcea,Q12089344,15,1,2,"village in Alba County, Romania",,Q532,,
+Vâlcea County,Vâlcea,Q12089345,15,1,2,"village in Brașov County, Romania",,Q532,,
+Vâlcea County,Vâlcea,Q107446814,15,1,2,family name,,Q101352,,
+Vâlcea County,Vâlcea River,Q7944208,15,1,2,river in Romania,Valcea River,Q4022,,Vâlcea River
+Vâlcea County,Vâlceaua,Q12089353,15,1,2,"village in Gorj County, Romania",,Q532,,
+Vâlcea County,Vâlceanu,Q107254919,15,1,2,family name,,Q101352,,
+Belarus,Belarus,Q184,16,0,1,country in Eastern Europe,White Russia|White Ruthenia|Republic of Belarus|by|Byeloruss|Bielorussia|Belorussia|Byelorussia|Respublika Belarus'|Respublika Bielaruś|Bielaruś,Q3624078|Q179164|Q619610|Q6256|Q123480,,Belarus
+Belarus,Belarusian,Q9091,16,0,1,East Slavic language,Belarus language|Belarusan|Belarusan language|Belarusian language|Belarussian|Belarussian language|Belorusian|Belorusian language|Belorussian|Belorussian language|Bielarusian|Bielarusian language|Bielaruskaja|Bielorusian|Bielorusian language|Bielorussian|Bielorussian language|Byelorussian|Byelorussian language|White Russian|White Russian language,Q34770|Q1288568,Q144713,Belarusian language
+Belarus,Belarusian Wikipedia,Q877583,16,0,1,Belarusian-language edition of Wikipedia (orthography regulated by the Academy of Sciences. – Code: be),,Q10876391,,
+Belarus,Belarusian (Taraškievica) Wikipedia,Q8937989,16,0,1,"Belarusian-language edition of Wikipedia (classical ""Taraškievica"" orthography – code: be-tarask)",Taraškievica Wikipedia|Belarusian Classical Wikipedia|Belarusian Wikipedia (Classical)|Belarusian (Classical) Wikipedia,Q10876391|Q138685553,,Belarusian (Taraškievica) Wikipedia
+Belarus,Belarus men's national football team,Q186252,16,0,1,men's national association football team representing Belarus,Belarus national soccer team|Belarusian national soccer team|Belarusian national football team|Belarus national football team,Q135408445,Q1194951,Belarus national football team
+Belarus,Byelorussian Soviet Socialist Republic,Q2895,16,0,1,one of fifteen constituent republics of the Soviet Union (USSR); founding member of the United Nations Organization in 1945; now Belarus,Byelorussian SSR|Byelorussian S.S.R.|Soviet Byelorussia|Belorussian S.S.R.|Belorussian SSR|Belorussian Soviet Socialist Republic|Soviet Belorussia|Communist Belarus|BSSR|Soviet Belarus|White Russian Soviet Socialist Republic|Беларуская Савецкая Сацыялістычная Рэспубліка|Bielaruskaja Savieckaja Sacyjalistyčnaja Respublika|Белорусская Советская Социалистическая Республика|Byelorusskaya Sovyetskaya Sotsialisticheskaya Respublika|Белорусская ССР|Belorusskaya SSR|Belarusian Soviet Socialist Republic|Belarusian SSR,Q236036|Q3024240|Q3624078,,Byelorussian Soviet Socialist Republic
+Belarus,Belarusians,Q483569,16,0,1,European nation,Belarusian people|Belarusans|Byelorussians|White Russians,Q41710,Q211052,Belarusians
+Belarus,Belarus Census (2019),Q69613925,16,0,1,census of Belarus,,Q39825,,2019 Belarus census
+Belarus,Belarus,Q815270,16,0,1,series of tractors,,Q98579904,,Belarus (tractor)
+Belarus,Belarus Census (2009),Q4350749,16,0,1,,,Q39825,,2009 Belarus census
+Belarus,Belarus of the Brain,Q110978961,16,0,2,,RB of the Brain|Republic of Belarus of the Brain,Q11033|Q87410555,,
+Belarus,Republic of Belarus (1991–1994),Q134890235,16,0,2,short-lived democratic period of the post-Soviet Belarus from 1991 to 1994,Shushkevich regime|Belarus under Stanislav Shushkevich|Republic of Belarus (1991–94)|Republic of Belarus (1991-1994)|Republic of Belarus (1991-94)|Belarus (1991–1994)|Belarus (1991–94)|Belarus (1991-1994)|Belarus (1991-94),Q11514315,,Republic of Belarus (1991–1995)
+Belarus,Republic of Belarus Law On Copyright and Contiguous Rights,Q19096419,16,0,2,,,Q3331189,,
+Belarus,Republic of Belarus: Financial Sector Review and Private Sector Financing,Q106979493,16,0,2,European Investment Bank publication,,Q47461344,,
+Belarus,REPUBLIC OF BELARUS AND SPECIAL MILITARY OPERATION,Q129248794,16,0,2,scholarly article,,Q13442814,,
+Belarus,"Republic of Belarus in Saint Petersburg periodicals, 1992-2005: review of publications",Q128979133,16,0,2,scholarly article,,Q13442814,,
+Belarus,Republic of Belarus: Technical Assistance Report-Work of Mission on Development of Potential in Area of Government Finance Statistics,Q128712627,16,0,2,scholarly article,,Q13442814,,
+Belarus,Republic of Belarus,Q135961452,16,0,2,Wikimedia disambiguation page,,Q4167410,,Republic of Belarus (disambiguation)
+Minsk,Minsk,Q2280,16,1,1,capital and largest city of Belarus,Мінск|Менск|Минск|Mińsk|Minskas|Mensk|Miensk,Q14921981|Q10864048|Q7930989|Q1549591,,Minsk
+Minsk,Minsk region,Q192959,16,1,1,administrative division (voblasts) in Belarus,Minsk Oblast|Minskaya voblasts,Q209325,,Minsk region
+Minsk,Minsk,Q68035312,16,1,1,sports club,,Q847017,,
+Minsk,Minsk District,Q1636191,16,1,1,district of Belarus,,Q2043199,,Minsk district
+Minsk,Soviet destroyer Minsk,Q4295178,16,1,1,1935 Leningrad-class destroyer,Minsk,Q1430303,,Soviet destroyer Minsk
+Minsk,Minsk,Q37528721,16,1,1,family name,,Q101352,,
+Minsk,human,Q5,16,1,1,"any single member of Homo sapiens, unique extant species of the genus Homo",human being|people|nonfictional human|non-fictional human|individual Homo sapiens|modern human,Q55983715,Q2250224|Q164509|Q154954|Q5891007,Human
+Minsk,Minsk,Q288365,16,1,1,1978 Kiev-class aircraft carrier,,Q17205|Q575727|Q130326199,,Soviet aircraft carrier Minsk
+Minsk,Minsk,Q122460753,16,1,1,Ropucha-class landing ship built in 1983,"Minsk (ship, 1983)",Q841751,,Russian landing ship Minsk
+Minsk,Mińsk County,Q947536,16,1,1,powiat of Poland,powiat miński,Q247073,,Mińsk County
+Minsk,Minskites,Q122173662,16,1,2,"people native to or residents of Minsk, Belarus","Minsk residents|Minsk, Belarus, residents|Minchane",Q33829,Q110942731|Q22947,
+People's Republic of China,People's Republic of China,Q148,17,0,1,country in East Asia,Red China|PR China|Communist China|China PR|cn|The PRC|P.R.C.|the People's Republic of China,Q3624078|Q842112|Q859563|Q1520223|Q465613|Q118365|Q849866|Q6256|Q185145|Q10711424,,China
+People's Republic of China,People's Republic of China,Q22828645,17,0,1,Wikimedia permanent duplicate item,,Q21286738,,
+People's Republic of China,government of the People's Republic of China,Q936190,17,0,1,administrative bodies of China,Chinese Government|PRC government|the People's Republic of China government|People's Republic of China government|government of China,Q1320217|Q50686|Q842112|Q179164,Q1320217,Government of China
+People's Republic of China,Classification and code of disciplines,Q10872045,17,0,1,,GB/T 13745|People's Republic of China Subject Classification,Q5962346|Q834575|Q121344523,,
+People's Republic of China,education in China,Q757827,17,0,1,overview about education in China,education of the People's Republic of China|People's Republic of China education|education in the People's Republic of China,Q64801076,,Education in China
+People's Republic of China,history of the People's Republic of China,Q862552,17,0,1,aspect of history,the People's Republic of China history|People's Republic of China history,Q17544377,,History of the People's Republic of China
+People's Republic of China,tennis in the People's Republic of China,Q7700471,17,0,1,overview of tennis in the People's Republic of China,Chinese tennis|tennis in China|People's Republic of China tennis,Q29791211,Q3493914,Tennis in China
+People's Republic of China,Ministry of National Defense of the People's Republic of China,Q1332463,17,0,1,Chinese government ministry responsible for military and national defense matters,People's Republic of China Ministry of Defense|MoD China|Chinese Ministry of Defense|Ministry of Defense of the People's Republic of China|Ministry of National Defense of China|Chinese Ministry of National Defense|MoD People's Republic of China|Ministry of National Defense,Q4294273|Q1788820,,Ministry of National Defense (China)
+People's Republic of China,Red Cross Society of China,Q908277,17,0,1,national Red Cross society in the People's Republic of China,Red Cross of People's Republic of China|People's Republic of China Red Cross,Q1968122|Q98675100|Q10883540,,Red Cross Society of China
+People's Republic of China,China and weapons of mass destruction,Q1196651,17,0,1,overview about China and its weapons of mass destruction,People's Republic of China and weapons of mass destruction|nuclear weapons program of China|nuclear weapons program of the People's Republic of China,Q74817647|Q19753333,,China and weapons of mass destruction
+People's Republic of China,Taiwan,Q865,17,0,2,country in East Asia,"Taiwan ROC|The ROC|Republic of China (Taiwan)|Chunghwa Minkuo|TPE|Nationalist China|Chunghwa Minkwo|Chinese Taipei|Free China|Republic of China|China, Republic of|Chinese Republic",Q112099|Q5255892|Q6501447|Q3624078|Q10711424|Q1084|Q16562419|Q25449457,,Taiwan
+People's Republic of China,China,Q29520,17,0,2,"cultural region, ancient civilization, and nation in East Asia; mostly refers to the People's Republic of China in political situation and rarely refers to the Republic of China",Cathay|Chunghwa|Zhongguo|Chung-kuo|Zhonghua|Chung-hua|Sinae|Flowery Kingdom|Celestial Kingdom|Middle Kingdom|Central Kingdom|Tianxia|All under Heaven|Katay|Khitai,Q3502482|Q5284036|Q28171280|Q6256|Q7275|Q1084|Q2221906,Q82794,China (region)
+People's Republic of China,porcelain,Q130693,17,0,2,ceramic material,china|fine china,Q214609,Q125274801|Q45621,Porcelain
+People's Republic of China,China,Q20898938,17,0,2,female given name,China (first name)|China (given name),Q11879590,,
+People's Republic of China,Republic of China,Q13426199,17,0,2,1912–1949 country in Asia,Republic of China 1912–1949|Republic of China before 1949|ROC 1912–1949|China 1912–1949|ROC|Republic of China (1912–1949)|China (1912–1949)|Republic of China (mainland),Q3024240|Q11514315|Q6256,,Republic of China (1912–1949)
+People's Republic of China,mainland China,Q7262427,17,0,2,"political and legal terms used by the PRC to refer customs territory of China except Hong Kong, Macau and Taiwan",Chinese Mainland|the mainland of China|Inland China|WTO China|China|China mainland,Q82794|Q2135465|Q56061|Q253836|Q5982983|Q125470455|Q3502482|Q161243,,Inland China
+People's Republic of China,China,Q37229573,17,0,2,family name,,Q101352,,
+People's Republic of China,China Journal of Highway and Transport,Q96335203,17,0,2,journal,Zhongguo Gonglu Xuebao,Q5633421|Q73364223,,
+People's Republic of China,China Biographical Database,Q13407958,17,0,2,biographical database of Chinese people,CBDB,Q36570165|Q7094076,,China Biographical Database
+People's Republic of China,Communist Refoundation Party,Q780997,17,0,2,Italian political party,PRC|Partito della Rifondazione Comunista,Q7278,,Communist Refoundation Party
+People's Republic of China,town of China,Q735428,17,0,2,People's Republic of China township-level subdivision,town of the People's Republic of China|zhen|town in China|town in the People's Republic of China|town in the PRC|town of the PRC|Chinese town|PRC town,Q28872924,Q16725943|Q3957,Town (China)
+People's Republic of China,West Taiwan,Q111799972,17,0,2,Internet slang,PRC|Red China|pink pig|Glass heart|emotionally fragile|vulnerable,Q2927074,,
+People's Republic of China,Parachi,Q2640637,17,0,2,language,Parachi language|Parāčī,Q33742|Q1288568,Q137824175,Parachi language
+People's Republic of China,law of the People's Republic of China,Q835068,17,0,2,legal regime of China,Chinese law|Portal:Law of China|Socialist legal system with Chinese characteristics|PRC law,Q2478386,Q820655|Q106460986|Q7748,Law of the People's Republic of China
+People's Republic of China,Conservative Republican Party,Q9056293,17,0,2,conservative Spanish political party,PRC|Partido Republicano Conservador,Q7278,,Conservative Republican Party (Spain)
+People's Republic of China,PPRC1,Q18036710,17,0,2,protein-coding gene in the species Homo sapiens,"PRC|peroxisome proliferator-activated receptor gamma, coactivator-related 1|PPARG related coactivator 1",Q7187,Q20747295,PPRC1
+People's Republic of China,Prchal,Q7239133,17,0,2,family name,,Q101352,,Prchal
+People's Republic of China,Conservative Republican Party,Q5163092,17,0,2,political party in Brazil,PRC,Q7278,,Conservative Republican Party (Brazil)
+Beijing,Beijing,Q956,17,1,1,capital city of China,Beiping|Peiping|Yanjing|Zhongdu|Khanbaliq|BJ|Pekin|Shuntian|Shuntianfu|Shuntian Fu|Pe-king|Pei-p'ing|Pei-ping|Peip'ing|Pei-ching|Yan-ching|Yanking|Chung-tu|Chungtu|Khanbalik|Shun-t'ien|Shun-tien|Beeijing|Poh-cin|Bākgīng|Pak-kiann|Ji|Jicheng|Chi|Chi-ch'eng|Chi-cheng|Chi-ch’êng|Bei Jing Shi|Beijing Shi|Peking Shi,Q515|Q1208802|Q108178728|Q1066538|Q208511|Q174844|Q200250|Q1549591|Q129268952,,Beijing
+Beijing,2022 Winter Olympics,Q193074,17,1,1,"24th edition of Winter Olympics, in Beijing, China",Beijing 2022|Peking 2022|2022 Olympics|24th Winter Olympics|24th Olympic Winter Games|2022 Olympic Winter Games|Beijing Winter Olympics|XXIV Olympics Winter Games,Q137592217|Q14547231,,2022 Winter Olympics
+Beijing,2008 Summer Olympics,Q8567,17,1,1,"Games of the XXIX Olympiad, in Beijing, China",Beijing 2008|Games of the XXIX Olympiad|The Games of the XXIX Olympiad|2008 Olympics|The Beijing Olympics,Q135976384|Q14547231,,2008 Summer Olympics
+Beijing,Peking University,Q16952,17,1,1,"university in Beijing, China",PKU|Beida|Beijing University|University of Beijing|Imperial University of Peking,Q875538|Q98658352|Q16077796,,Peking University
+Beijing,China Standard Time,Q1143153,17,1,1,time zone,Beijing Time|Chinese Standard Time,Q12143,,China Standard Time
+Beijing,Baidu,Q14772,17,1,1,Chinese web services company,"Bǎidù|Baidu, Inc.|baidu.com|BIDU|BEIJING BAIDU NETCOM SCIENCE AND TECHNOLOGY CO., LTD. (Beijing)|Baidu Group",Q4830453|Q4182287|Q6881511|Q891723|Q6576792|Q43229,,Baidu
+Beijing,Acta Scientiarum Naturalium Universitatis Pekinensis,Q15745361,17,1,1,journal,Beijing Daxue Xuebao Ziran Kexue Ban,Q5633421,,
+Beijing,2008 Summer Paralympics,Q216864,17,1,1,"multi-parasport event in Beijing, China",Summer Paralympics 2008|Beijing 2008 Paralympic Games,Q3327913|Q167170|Q114609228|Q3327913,,2008 Summer Paralympics
+Beijing,Journal of Peking University (Health Sciences),Q15745363,17,1,1,Chinese medical journal,Beijing Da Xue Xue Bao Yi Xue Ban|Pei-ching I K'o Ta Hsueh Hsueh Pao|J. Beijing Med. Univ.|Journal of Peking University,Q5633421|Q16024164,,
+Beijing,Daming Fu,Q110977398,17,1,1,fictional location in Water Margin,Beijing|Damingfu,Q64034456,,
+Beijing,People's Republic of China,Q148,17,1,2,country in East Asia,Red China|PR China|Communist China|China PR|cn|The PRC|P.R.C.|the People's Republic of China,Q3624078|Q842112|Q859563|Q1520223|Q465613|Q118365|Q849866|Q6256|Q185145|Q10711424,,China
+Beijing,People's Republic of China,Q22828645,17,1,2,Wikimedia permanent duplicate item,,Q21286738,,
+Beijing,government of the People's Republic of China,Q936190,17,1,2,administrative bodies of China,Chinese Government|PRC government|the People's Republic of China government|People's Republic of China government|government of China,Q1320217|Q50686|Q842112|Q179164,Q1320217,Government of China
+Beijing,Classification and code of disciplines,Q10872045,17,1,2,,GB/T 13745|People's Republic of China Subject Classification,Q5962346|Q834575|Q121344523,,
+Beijing,education in China,Q757827,17,1,2,overview about education in China,education of the People's Republic of China|People's Republic of China education|education in the People's Republic of China,Q64801076,,Education in China
+Beijing,history of the People's Republic of China,Q862552,17,1,2,aspect of history,the People's Republic of China history|People's Republic of China history,Q17544377,,History of the People's Republic of China
+Beijing,tennis in the People's Republic of China,Q7700471,17,1,2,overview of tennis in the People's Republic of China,Chinese tennis|tennis in China|People's Republic of China tennis,Q29791211,Q3493914,Tennis in China
+Beijing,Ministry of National Defense of the People's Republic of China,Q1332463,17,1,2,Chinese government ministry responsible for military and national defense matters,People's Republic of China Ministry of Defense|MoD China|Chinese Ministry of Defense|Ministry of Defense of the People's Republic of China|Ministry of National Defense of China|Chinese Ministry of National Defense|MoD People's Republic of China|Ministry of National Defense,Q4294273|Q1788820,,Ministry of National Defense (China)
+Beijing,Red Cross Society of China,Q908277,17,1,2,national Red Cross society in the People's Republic of China,Red Cross of People's Republic of China|People's Republic of China Red Cross,Q1968122|Q98675100|Q10883540,,Red Cross Society of China
+Beijing,China and weapons of mass destruction,Q1196651,17,1,2,overview about China and its weapons of mass destruction,People's Republic of China and weapons of mass destruction|nuclear weapons program of China|nuclear weapons program of the People's Republic of China,Q74817647|Q19753333,,China and weapons of mass destruction
+Peru,Peru,Q419,18,0,1,sovereign state in South America,pe|Republic of Peru|Republica del Peru|per,Q3624078|Q6256,,Peru
+Peru,Peru,Q14083868,18,0,1,genus of orthopteran insects,,Q16521,,
+Peru,Peru,Q576648,18,0,1,"city in Illinois, United States","Peru, Illinois|Peru, IL",Q1093829,,"Peru, Illinois"
+Peru,Peru,Q16518649,18,0,1,male given name,Peru (first name)|Peru (given name),Q12308941,,
+Peru,Perugia,Q3437,18,0,1,Italian comune,,Q747074|Q515|Q1549591|Q1200957,,Perugia
+Peru,Perú,Q3352537,18,0,1,station of the Subte of Buenos Aires,Peru,Q928830|Q22808403,,Perú (Buenos Aires Underground)
+Peru,Viceroyalty of Peru,Q211435,18,0,1,viceroyalty of the Spanish Empire,Viceroyalty of Perú|Peru|Kingdom of Peru|Perú,Q20203507,,Viceroyalty of Peru
+Peru,Peru men's national football team,Q212166,18,0,1,men's national association football team representing Peru,Peru national football team,Q135408445,Q1194951,Peru national football team
+Peru,comprehensive school,Q10509147,18,0,1,type of school in Finland,peruskoulu|grundskola|vuâđđškooul|vuáđuškovlâ|vuođđoskuvla,Q140227266,Q682697|Q861585,
+Peru,Peru,Q386657,18,0,1,"city in Indiana, United States","Peru, Indiana|Peru, IN",Q1093829,,"Peru, Indiana"
+Callao Constitutional Province,Constitutional Province of Callao,Q2634400,18,1,2,province of Peru,Callao Province,Q509686,,Constitutional Province of Callao
+Callao Constitutional Province,Callao Department routes,Q134788503,18,1,2,highway system in Peru,Callao departmental routes|departmental routes of Callao,Q25631158|Q131425757,,
+Italy,Italy,Q38,19,0,1,country in southern Europe,Italian Republic|Republic of Italy,Q6256|Q3624078|Q619610|Q179164|Q7270|Q51576574,,Italy
+Italy,Kingdom of Italy,Q172579,19,0,1,kingdom in Southern Europe from 1861 to 1946,Regno d’Italia|Italy,Q3624078|Q3024240|Q20181813,,Kingdom of Italy
+Italy,Italy,Q105415085,19,0,1,Counter-Strike map,cs_italy,Q87906572,,
+Italy,Kingdom of Italy,Q223936,19,0,1,kingdom in southern Europe between 1805 and 1814,Regno d'Italia|Royaume d’Italie|Napoleonic Kingdom of Italy|Italian Kingdom|Italy,Q3024240|Q26879763,,Kingdom of Italy (Napoleonic)
+Italy,Italian Peninsula,Q145694,19,0,1,peninsula of southern Europe,Apennine Peninsula|Italy|Italic Peninsula|penisola italica|lo Stivale|península Itálica,Q34763,,Italian Peninsula
+Italy,Kingdom of Italy,Q838931,19,0,1,(962 – 1801) constituent kingdom of the Holy Roman Empire,Regnum Italiae|Regnum Italicum|Italian Kingdom|Italy|Regnum Italicorum,Q3024240|Q26830017,,Kingdom of Italy (Holy Roman Empire)
+Italy,Italy men's national association football team,Q676899,19,0,1,men's national association football team representing Italy,Italy national football team|The Azzurri|Italy national team|Italian national team|Italy NT|Italian NT|Team of Italy|Italy men's national football team|Italy national association football team,Q135408445,Q1194951,Italy national football team
+Italy,Italy,Q140228534,19,0,1,,,Q1980247,,
+Italy,Italy,Q66477411,19,0,1,constituency of the European Parliament,,Q2631496,,
+Italy,Italy national under-21 football team,Q922698,19,0,1,national under-21 association football team representing Italy,Nazionale di calcio dell'Italia Under-21|Italy U21,Q135408445,Q1194951,Italy national under-21 football team
+Italy,Emilia-Romagna,Q1263,19,0,2,region of Italy,,Q16110,,Emilia-Romagna
+Italy,Emilia-Romagna,Q16541763,19,0,2,Chamber of Deputies constituency,,Q43957010,,Emilia-Romagna (Chamber of Deputies constituency)
+Italy,Emilia-Romagna,Q843064,19,0,2,"geographical group of dioceses, ecclesiastical provinces or parishes of the Roman Catholic Church in Italy",Emilia-Romagna,Q1506541,,
+Italy,Emilia Romagna Grand Prix,Q100953125,19,0,2,Formula One Grand Prix,Imola GP|Emilia Romagna GP,Q18608583,Q11924610,Emilia Romagna Grand Prix
+Italy,Emilia-Romagna Open,Q106847234,19,0,2,men's tennis tournament,Emilia-Romagna Open (men),Q47443726,Q26863790,ATP Parma
+Italy,Emilia-Romagna Health Service,Q3958117,19,0,2,regional health service in Italy,,Q327333,,
+Italy,Emilia-Romagna Open,Q64822995,19,0,2,combined WTA/ATP tournament,,Q47443726,Q13219666,Emilia-Romagna Open
+Italy,Emilia Romagna motorcycle Grand Prix,Q96243426,19,0,2,motor race,Emilia Romagna and Rimini Riviera motorcycle Grand Prix|Made in Italy and Emilia Romagna motorcycle Grand Prix,Q3774608,,Emilia Romagna motorcycle Grand Prix
+Italy,Emilia-Romagna - 01,Q48079915,19,0,2,Uninominal constituency for the Italian Chamber of Deputies,,Q48075035,,
+Italy,Emilia-Romagna Open,Q106840313,19,0,2,women's tennis tournament,,Q47443726,Q26836193,WTA Parma
+Italy,Italian Republic,Q723118,19,0,2,French republic in Northern Italy between 1802 and 1805,Repubblica Italiana|Napoleonic Republic of Italy|Republic of Italy,Q1371288|Q472538,,Italian Republic (Napoleonic)
+Italy,Italian Republican Party,Q767560,19,0,2,Italian political party,Partito Repubblicano Italiano|PRI,Q7278,,Italian Republican Party
+Italy,history of the Italian Republic,Q2602944,19,0,2,history of Italy since the inception of the Italian Republic (1946),the Italian Republic history|Italian Republic history,Q17524420,,History of the Italian Republic
+Italy,Italian Republic coins,Q21170319,19,0,2,,,Q21167233,,
+Emilia-Romagna,Emilia-Romagna,Q1263,19,1,1,region of Italy,,Q16110,,Emilia-Romagna
+Emilia-Romagna,Emilia-Romagna,Q16541763,19,1,1,Chamber of Deputies constituency,,Q43957010,,Emilia-Romagna (Chamber of Deputies constituency)
+Emilia-Romagna,Emilia-Romagna,Q843064,19,1,1,"geographical group of dioceses, ecclesiastical provinces or parishes of the Roman Catholic Church in Italy",Emilia-Romagna,Q1506541,,
+Emilia-Romagna,Emilia Romagna Grand Prix,Q100953125,19,1,1,Formula One Grand Prix,Imola GP|Emilia Romagna GP,Q18608583,Q11924610,Emilia Romagna Grand Prix
+Emilia-Romagna,Emilia-Romagna Open,Q106847234,19,1,1,men's tennis tournament,Emilia-Romagna Open (men),Q47443726,Q26863790,ATP Parma
+Emilia-Romagna,Emilia-Romagna Health Service,Q3958117,19,1,1,regional health service in Italy,,Q327333,,
+Emilia-Romagna,Emilia-Romagna Open,Q64822995,19,1,1,combined WTA/ATP tournament,,Q47443726,Q13219666,Emilia-Romagna Open
+Emilia-Romagna,Emilia Romagna motorcycle Grand Prix,Q96243426,19,1,1,motor race,Emilia Romagna and Rimini Riviera motorcycle Grand Prix|Made in Italy and Emilia Romagna motorcycle Grand Prix,Q3774608,,Emilia Romagna motorcycle Grand Prix
+Emilia-Romagna,Emilia-Romagna - 01,Q48079915,19,1,1,Uninominal constituency for the Italian Chamber of Deputies,,Q48075035,,
+Emilia-Romagna,Emilia-Romagna Open,Q106840313,19,1,1,women's tennis tournament,,Q47443726,Q26836193,WTA Parma
+Emilia-Romagna,Italy,Q38,19,1,2,country in southern Europe,Italian Republic|Republic of Italy,Q6256|Q3624078|Q619610|Q179164|Q7270|Q51576574,,Italy
+Emilia-Romagna,Kingdom of Italy,Q172579,19,1,2,kingdom in Southern Europe from 1861 to 1946,Regno d’Italia|Italy,Q3624078|Q3024240|Q20181813,,Kingdom of Italy
+Emilia-Romagna,Italy,Q105415085,19,1,2,Counter-Strike map,cs_italy,Q87906572,,
+Emilia-Romagna,Kingdom of Italy,Q223936,19,1,2,kingdom in southern Europe between 1805 and 1814,Regno d'Italia|Royaume d’Italie|Napoleonic Kingdom of Italy|Italian Kingdom|Italy,Q3024240|Q26879763,,Kingdom of Italy (Napoleonic)
+Emilia-Romagna,Italian Peninsula,Q145694,19,1,2,peninsula of southern Europe,Apennine Peninsula|Italy|Italic Peninsula|penisola italica|lo Stivale|península Itálica,Q34763,,Italian Peninsula
+Emilia-Romagna,Kingdom of Italy,Q838931,19,1,2,(962 – 1801) constituent kingdom of the Holy Roman Empire,Regnum Italiae|Regnum Italicum|Italian Kingdom|Italy|Regnum Italicorum,Q3024240|Q26830017,,Kingdom of Italy (Holy Roman Empire)
+Emilia-Romagna,Italy men's national association football team,Q676899,19,1,2,men's national association football team representing Italy,Italy national football team|The Azzurri|Italy national team|Italian national team|Italy NT|Italian NT|Team of Italy|Italy men's national football team|Italy national association football team,Q135408445,Q1194951,Italy national football team
+Emilia-Romagna,Italy,Q140228534,19,1,2,,,Q1980247,,
+Emilia-Romagna,Italy,Q66477411,19,1,2,constituency of the European Parliament,,Q2631496,,
+Emilia-Romagna,Italy national under-21 football team,Q922698,19,1,2,national under-21 association football team representing Italy,Nazionale di calcio dell'Italia Under-21|Italy U21,Q135408445,Q1194951,Italy national under-21 football team
+Emilia-Romagna,2005 Emilia-Romagna regional election,Q3722836,19,1,2,,"Emilia-Romagna regional election, 2005",Q28004539,,2005 Emilia-Romagna regional election
+Emilia-Romagna,2000 Emilia-Romagna regional election,Q3722816,19,1,2,,"Emilia-Romagna regional election, 2000",Q28004539,,2000 Emilia-Romagna regional election
+Emilia-Romagna,2010 Emilia-Romagna regional election,Q3722852,19,1,2,,"Emilia-Romagna regional election, 2010",Q28004539,,2010 Emilia-Romagna regional election
+Emilia-Romagna,1995 Emilia-Romagna regional election,Q3722796,19,1,2,,"Emilia-Romagna regional election, 1995",Q28004539,,1995 Emilia-Romagna regional election
+Emilia-Romagna,region of Italy,Q16110,19,1,2,first-level administrative divisions,administrative region of Italy|Italian region,,Q2824645|Q10864048|Q3455524|Q699386|Q20719690,Regions of Italy
+Emilia-Romagna,2000 Italian regional elections,Q3722812,19,1,2,,"Italian regional elections, 2000",Q40231,,2000 Italian regional elections
+Emilia-Romagna,1970 Italian regional elections,Q655627,19,1,2,,"Italian regional elections, 1970",Q40231,,1970 Italian regional elections
+Emilia-Romagna,1990 Italian regional elections,Q3722770,19,1,2,,"Italian regional elections, 1990",Q40231,,1990 Italian regional elections
+Emilia-Romagna,1995 Italian regional elections,Q3722789,19,1,2,,"Italian regional elections, 1995",Q40231,,1995 Italian regional elections
+Emilia-Romagna,2005 Italian regional elections,Q3722831,19,1,2,,"Italian regional elections, 2005",Q40231,,2005 Italian regional elections
+Emilia-Romagna,1980 Italian regional elections,Q3722730,19,1,2,,"Italian regional elections, 1980",Q40231,,1980 Italian regional elections
+Emilia-Romagna,2010 Italian regional elections,Q3587408,19,1,2,ballots for 13 of the 20 regional assemblies of Italy,"Italian regional elections, 2010",Q40231,,2010 Italian regional elections
+Emilia-Romagna,1975 Italian regional elections,Q3722710,19,1,2,,"Italian regional elections, 1975",Q40231,,1975 Italian regional elections
+Emilia-Romagna,1985 Italian regional elections,Q3722750,19,1,2,,"Italian regional elections, 1985",Q40231,,1985 Italian regional elections
+Venezuela,Venezuela,Q717,20,0,1,country in South America,Bolivarian Republic of Venezuela|BR Venezuela|Republic of Venezuela,Q3624078|Q6256,,Venezuela
+Venezuela,Venezuela,Q8875751,20,0,1,metro station in Buenos Aires,,Q928830|Q22808403,,Venezuela (Buenos Aires Underground)
+Venezuela,Venezuela,Q14513308,20,0,1,genus of arachnids,,Q310890,,
+Venezuela,Venezuela,Q37121577,20,0,1,family name,,Q101352,,
+Venezuela,Venezuelan equine encephalitis virus,Q473462,20,0,1,species of virus,,Q16521,,Venezuelan equine encephalitis virus
+Venezuela,Venezuela men's national football team,Q214151,20,0,1,Official representative of the Venezuelan Soccer Federation in international competitions,Venezuela national football team,Q135408445,Q1194951,Venezuela national football team
+Venezuela,Venezuela Station,Q99659372,20,0,1,"future station of Lima and Callao metro, Peru",Venezuela,Q928830,,
+Venezuela,United States of Venezuela,Q5848651,20,0,1,republic from 1864 to 1953,Venezuela,Q3024240,,United States of Venezuela
+Venezuela,parish of Venezuela,Q6063801,20,0,1,administrative division in Venezuela under municipalities,Venezuelan parish|civil parish of Venezuela|Venezuelan civil parish|Parishes of Venezuela,Q28872924,Q884030|Q1626455|Q12357920|Q4976993|Q1048835,Parishes of Venezuela
+Venezuela,9357 Venezuela,Q158105,20,0,1,main-belt asteroid,Venezuela|1992 AT3,Q3863,,9357 Venezuela
+Táchira,Táchira,Q41144,20,1,1,state of Venezuela,Tachira state,Q501094,,Táchira
+Táchira,Tachiramastax,Q10689563,20,1,1,genus of insects,,Q16521,,
+Táchira,Tachiramantis,Q20794985,20,1,1,genus of amphibians,,Q16521,,Tachiramantis
+Táchira,Tachiramantis douglasi,Q24703677,20,1,1,species of amphibian,,Q16521,,Tachiramantis douglasi
+Táchira,Tachiramantis prolixodiscus,Q28041832,20,1,1,species of frog in the family Craugastoridae,,Q16521,,Tachiramantis prolixodiscus
+Táchira,Tachiramantis lentiginosus,Q28041733,20,1,1,species of Amphibia,,Q16521,,Tachiramantis lentiginosus
+Táchira,Táchira River,Q3458820,20,1,1,river in Venezuela,Tachira River|Río Táchira,Q4022|Q47521|Q108822533,,Táchira River
+Táchira,Tachiraptor,Q18204180,20,1,1,genus of reptiles,,Q23038290,,Tachiraptor
+Táchira,Tachiraptor admirabilis,Q18228254,20,1,1,species of reptile (fossil),,Q23038290,,
+Táchira,Cacrak,Q115138365,20,1,1,dialect of Tyap,Tyecharag|Atticharak|Tachira|Chachaad|Chachaat|Kachechere|Kachichire|Kacecere|Kachichere|Daroro|Aticherak|Kachicheri|Techera|Tyecharak,Q33384,Q3912765,
+Táchira,Táchira State Anthem,Q5970443,20,1,2,anthem of Táchira State in Venezuela,Tachira State Anthem,Q523896,,Táchira State Anthem
+Jordan,Jordan,Q14021944,21,0,1,unisex given name,,Q3409032,,
+Jordan,Jordan,Q1703599,21,0,1,family name,,Q101352|Q98775491,,Jordan (surname)
+Jordan,Jordan,Q810,21,0,1,country in West Asia,Hashemite Kingdom of Jordan|Kingdom of Jordan|Yarden|Giordania|ISO 3166-1:JO|HKJ|State of Jordan,Q3624078|Q41614|Q6256,,Jordan
+Jordan,Jordan,Q313802,21,0,1,municipality of the Philippines and capital of the province of Guimaras,Municipality of Jordan,Q24764,,"Jordan, Guimaras"
+Jordan,Jordan,Q17485430,21,0,1,name,,Q82799,,Jordan (given name)
+Jordan,Jacob Jordaens,Q270658,21,0,1,"Flemish painter, draftsman and designer of prints and tapestries (1593-1678)","Jacob Jordaens (I)|Jacob (I) Jordaens|Jacques Jordaens|Jacob Jordaens the Elder|P. Jordaens|Jacob Jourdains|Jacob Jordaan|Jacob Jordanes|I︠A︡kob Iordans|Jacob Jordaen|Jacob Jourdano|Giordano d'Olanda|Jakob Jordaens|Jacob I Jordaens|Jacques Jordans|Jordaens of Antwerp|Jacob Jordeans|Jacob Jordeanes|Jacob Jordains|Jacob Jordans|Jacob Joerdaens|Jacob, the elder Jordaens|I. Jordaens|Giordano Jordaens|Jacob Jourdaens|Jaques Jordans|Jacob Jordaans|Jacob, I Jordaens|Jacob Jordaens I|Jourdaens|Jourdane|Jourdons|Joerdaens|of Antwerp Jordans|Jakob Jordanus|Jordaan|Jacob Jarden|jacob jordanns|Jordaens|Iordans|Jordaen of Antwerp|Jourdans|jordaens jakob|Jordans of Antwerp|Jourdaine|J. J. Jordans|Jordanus|a Scholar of Rubens Jordaens|Jourdains|Jourdano|Jordeans of Antwerp|J. Jourdance|Monsù Giordano|Jac. Jordaens|Esqu. Jacob Jordans|J. Jordaans|Jordeen's|Jordains|Jakob Jordans|I Jacob Jordaens|J. Jourdaens|J. Jordaen|G. Jordaens|Jac. Jordaans|Jac. Jordanus|Jaques Iordans|Jourdon|Jac. Jordano|Jacques Jourdaens|Jordaans|Jacob Jordan|Jac. Jordans|Jacopo Jordans|Jordaen|Giordan da Versa|J Jordaens|Jacque Jordans|Jac Jordaens|J. Jordaens|T. Jordaens|J. Jordaëns|jakob jordaens|Jordeanes|Jordanes|Jordæns|of Antwerp Jordains|J. Jordains|Jordaens Jac.|Jacob Jordäns|Jacques Joardaens|Jaques Jordaans|J. Jordeans|jacob jordaens I|J. Jordans|J. Jordan|Jordeans|Jordahn|Jorduens|Jacques Jordaans|Jordahns|Jordan|Jordane|jordaens jacob|Jacob Jordanus|Jordens|Jordans D'Andversa|Jardaens|Jordans|J. Jordahn|Jac. Jordeans|J. Jordanse|Jaques Jordaens|Jacq. Jordaens",Q5,,Jacob Jordaens
+Jordan,Luca Giordano,Q332494,21,0,1,Italian Baroque painter (1634–1705),"Fa Presto|Luca Jordanus|Lucas Jordan|Luca Jordano|Lucca Giordano|Luca Jordans|Luca Zordano|Luca Giordani|Luca Jardaeno|Luca Giordano il Giovane|Luca Jordan|Luca Jiardano|Luc Jordans|Luc Jordani|L. Giordano|Lucco Giordano|Luca Fapresto Giordano|Luca Fa Presto|Luco Jordano|Luca Giardano|Lucca Jordano|Lucas Jordán|Gordano|Luca Jiordano|Luca Giordanello|Luca Giordino|Luca Giordaniello|Luca Fapresto|Luca L'Giordano|Luco Giordano|Jordano Lucas|Luc Jourdans|Luc. Jordano|L. Gordano|Jiordano|Giordano da Napoli|Fapresto|Luc. Jordaens|Lucas Jordans|Luca Gurdano|d'Italie Jourdans|Jordan|L. Geordano|Giordano Luca|Luc Jourdaens|Luca Giardino|De Luc Jordans|L. Joordano|genannt Fa presto Luca Giordano|Lucca Giedanoo|giordano lucca|Lucas Jeordane|Luca Guardino|L. Jordanus|Luco. Jordano|Gurdiani|Luca fa Presto|Jordahn|L. Jordahn|Lucas Jordano|L. Guiardino|Luc Jordaens|Luca. Jordans|gen. fa presto luca giordano|Luc Joordaans|Lucca fa Presto|Lucia Jordana|L. Jordaens|Lucas Jordaans|Luca Jordan's|Luca. Jordano|Li Jordane|Lucy Giordano|Giordino|Giordini|L. Giardano|L. Giorano|Luc Joordain|L. Jiordano|L: Giordano|Luca Guordano|Lucca Jordans|L. Giondano|Lucas Jiordano|Jordans de Naple|Luc Jordane|Lucas Jordaens|Lucas Jordaeno|sur-nommé Fa Presto Luca Jordano|Luca Giordauo|Lucas de Jordan|luca cav. giordano|luca gordano|dit Fapresto Luca Jordane|Lca Jordano surnommé Fa Presto|Giordani|L. Jordano|Luc Jordan|Leicordane di va presto|L. Jordane|L'Giordano|Giordanello|L. Gairdino|L. Jordans|called Luca fa Presto Luca Giordano|Luc. Giordano|L. Jeordane|Luca Jordane|Luc Jordaans|L. Jordance|Giordano|L.Jordans|Giordana|Lucas Jordane|L. Guardino|Giordaniello|Lucas Jordaen|Lucas Jordanus|Luca Jordano surnommé Fa Presto|Called, Luca fa Presto Luca Giordano|Lucas Giordano|L. Girdano|Luc Jordano|Lucca Giordani|Luc Giordano|L. Giardino|Lucas Giosdano|Lucas Jordaine|Lucca Giedano|Jordan/ aus Neapoli|Luc. Jordans|Jordans de Naples|Lucio Jordano|de Naple Jordans|Jiardano|L. Guardiano|L. Giodano|luka giordano|surnommé Fa-Presto Lucas Jordano|L. Guardano|L. Giordano de Naples|Lucus Giordane|Luca Jordaens|L. Jordanes|Luca Giordani Napoletano|L. Jordaise|Luca Jordano surnommé Luca fa presto|Lukas Jordaens|Guiordano|genannt Fa Presto Lucas Giordano|Zordano|S. Giordano|Luga Giordano|L. Giordani|Lucca Giardino|L. Giordana|Jardaeno|Jordàn|L. Giordono|Lucan|surnommé Fa Presto Luca Jordano|Lucâ Jordano|L. Giordino|Giordano giovane|Lucca Giordini|Jordane|Luc Jordans de Naples|Luca Giordano da Napoli|Luc Jordano De Naples|Jordano",Q5,,Luca Giordano
+Jordan,Jordan,Q108462973,21,0,1,bishop of the Roman Catholic Church,,Q5,,
+Jordan,Karl Jordan,Q65882,21,0,1,German entomologist (1861–1959),Jordan|Heinrich Ernst Karl Jordan|K. Jordan|H. E. K. Jordan|K. J.,Q5,,"Karl Jordan (zoologist, born 1861)"
+Jordan,Jordán,Q30306599,21,0,1,family name,,Q101352,,
+Jordan,Mafraq Governorate,Q854871,21,0,2,governorate in Jordan,,Q867567,,Mafraq Governorate
+Jordan,Jordaniana,Q18523364,21,0,2,genus of insects,,Q16521,,
+Jordan,Jordanian annexation of the West Bank,Q2893000,21,0,2,1950 annexation event,Two Banks Union,Q188686,,Jordanian annexation of the West Bank
+Jordan,Jordanian Writers Society,Q12212853,21,0,2,Professional association based in Jordan,Rābiṭat al-Kuttāb al-Urdunīyīn,Q3152824|Q12057459,,
+Jordan,senator of Jordan,Q20081407,21,0,2,member of the Upper House in Jordan,Jordanian senator|member of the Senate of Jordan,Q4164871,Q15686806,
+Jordan,Syrian Desert,Q339162,21,0,2,"region of desert, semi-desert and steppe of the Middle East; in parts of Syria, Jordan, Iraq, and Saudi Arabia",Syrian steppe|Jordanian steppe|Badia,Q8514|Q123991,,Syrian desert
+Jordan,Jordanian Armed Forces,Q1075753,21,0,2,combined military forces of Eastern Palestine,Arab Army|Armed Forces of Jordan|Jordanian military|mil Jordan|military of Jordan|JAF,Q772547,,Jordanian Armed Forces
+Jordan,Al-Ahli,Q2829200,21,0,2,Jordanian football club,Jordanian football club,Q476028,,Al Ahli SC (Amman)
+Jordan,Royal Jordanian Air Force,Q783164,21,0,2,air warfare branch of Jordan's military,RJAF|Jordanian Air Force|air force of Jordan|af Jordan|Arab Legion Air Force,Q61883,,Royal Jordanian Air Force
+Jordan,Senate of Jordan,Q3510854,21,0,2,organization from Jordan,House of Senate of Jordan|Majlis al-Aayan|Jordanian Senate,Q2570643,,Senate (Jordan)
+Jordan,Jordanian dinar,Q203722,21,0,2,currency,Dinar (1949-date),Q8142|Q191830,,Jordanian dinar
+Mafraq Governorate,Mafraq Governorate,Q854871,21,1,1,governorate in Jordan,,Q867567,,Mafraq Governorate
+Mafraq Governorate,Jordan,Q14021944,21,1,2,unisex given name,,Q3409032,,
+Mafraq Governorate,Jordan,Q1703599,21,1,2,family name,,Q101352|Q98775491,,Jordan (surname)
+Mafraq Governorate,Jordan,Q810,21,1,2,country in West Asia,Hashemite Kingdom of Jordan|Kingdom of Jordan|Yarden|Giordania|ISO 3166-1:JO|HKJ|State of Jordan,Q3624078|Q41614|Q6256,,Jordan
+Mafraq Governorate,Jordan,Q313802,21,1,2,municipality of the Philippines and capital of the province of Guimaras,Municipality of Jordan,Q24764,,"Jordan, Guimaras"
+Mafraq Governorate,Jordan,Q17485430,21,1,2,name,,Q82799,,Jordan (given name)
+Mafraq Governorate,Jacob Jordaens,Q270658,21,1,2,"Flemish painter, draftsman and designer of prints and tapestries (1593-1678)","Jacob Jordaens (I)|Jacob (I) Jordaens|Jacques Jordaens|Jacob Jordaens the Elder|P. Jordaens|Jacob Jourdains|Jacob Jordaan|Jacob Jordanes|I︠A︡kob Iordans|Jacob Jordaen|Jacob Jourdano|Giordano d'Olanda|Jakob Jordaens|Jacob I Jordaens|Jacques Jordans|Jordaens of Antwerp|Jacob Jordeans|Jacob Jordeanes|Jacob Jordains|Jacob Jordans|Jacob Joerdaens|Jacob, the elder Jordaens|I. Jordaens|Giordano Jordaens|Jacob Jourdaens|Jaques Jordans|Jacob Jordaans|Jacob, I Jordaens|Jacob Jordaens I|Jourdaens|Jourdane|Jourdons|Joerdaens|of Antwerp Jordans|Jakob Jordanus|Jordaan|Jacob Jarden|jacob jordanns|Jordaens|Iordans|Jordaen of Antwerp|Jourdans|jordaens jakob|Jordans of Antwerp|Jourdaine|J. J. Jordans|Jordanus|a Scholar of Rubens Jordaens|Jourdains|Jourdano|Jordeans of Antwerp|J. Jourdance|Monsù Giordano|Jac. Jordaens|Esqu. Jacob Jordans|J. Jordaans|Jordeen's|Jordains|Jakob Jordans|I Jacob Jordaens|J. Jourdaens|J. Jordaen|G. Jordaens|Jac. Jordaans|Jac. Jordanus|Jaques Iordans|Jourdon|Jac. Jordano|Jacques Jourdaens|Jordaans|Jacob Jordan|Jac. Jordans|Jacopo Jordans|Jordaen|Giordan da Versa|J Jordaens|Jacque Jordans|Jac Jordaens|J. Jordaens|T. Jordaens|J. Jordaëns|jakob jordaens|Jordeanes|Jordanes|Jordæns|of Antwerp Jordains|J. Jordains|Jordaens Jac.|Jacob Jordäns|Jacques Joardaens|Jaques Jordaans|J. Jordeans|jacob jordaens I|J. Jordans|J. Jordan|Jordeans|Jordahn|Jorduens|Jacques Jordaans|Jordahns|Jordan|Jordane|jordaens jacob|Jacob Jordanus|Jordens|Jordans D'Andversa|Jardaens|Jordans|J. Jordahn|Jac. Jordeans|J. Jordanse|Jaques Jordaens|Jacq. Jordaens",Q5,,Jacob Jordaens
+Mafraq Governorate,Luca Giordano,Q332494,21,1,2,Italian Baroque painter (1634–1705),"Fa Presto|Luca Jordanus|Lucas Jordan|Luca Jordano|Lucca Giordano|Luca Jordans|Luca Zordano|Luca Giordani|Luca Jardaeno|Luca Giordano il Giovane|Luca Jordan|Luca Jiardano|Luc Jordans|Luc Jordani|L. Giordano|Lucco Giordano|Luca Fapresto Giordano|Luca Fa Presto|Luco Jordano|Luca Giardano|Lucca Jordano|Lucas Jordán|Gordano|Luca Jiordano|Luca Giordanello|Luca Giordino|Luca Giordaniello|Luca Fapresto|Luca L'Giordano|Luco Giordano|Jordano Lucas|Luc Jourdans|Luc. Jordano|L. Gordano|Jiordano|Giordano da Napoli|Fapresto|Luc. Jordaens|Lucas Jordans|Luca Gurdano|d'Italie Jourdans|Jordan|L. Geordano|Giordano Luca|Luc Jourdaens|Luca Giardino|De Luc Jordans|L. Joordano|genannt Fa presto Luca Giordano|Lucca Giedanoo|giordano lucca|Lucas Jeordane|Luca Guardino|L. Jordanus|Luco. Jordano|Gurdiani|Luca fa Presto|Jordahn|L. Jordahn|Lucas Jordano|L. Guiardino|Luc Jordaens|Luca. Jordans|gen. fa presto luca giordano|Luc Joordaans|Lucca fa Presto|Lucia Jordana|L. Jordaens|Lucas Jordaans|Luca Jordan's|Luca. Jordano|Li Jordane|Lucy Giordano|Giordino|Giordini|L. Giardano|L. Giorano|Luc Joordain|L. Jiordano|L: Giordano|Luca Guordano|Lucca Jordans|L. Giondano|Lucas Jiordano|Jordans de Naple|Luc Jordane|Lucas Jordaens|Lucas Jordaeno|sur-nommé Fa Presto Luca Jordano|Luca Giordauo|Lucas de Jordan|luca cav. giordano|luca gordano|dit Fapresto Luca Jordane|Lca Jordano surnommé Fa Presto|Giordani|L. Jordano|Luc Jordan|Leicordane di va presto|L. Jordane|L'Giordano|Giordanello|L. Gairdino|L. Jordans|called Luca fa Presto Luca Giordano|Luc. Giordano|L. Jeordane|Luca Jordane|Luc Jordaans|L. Jordance|Giordano|L.Jordans|Giordana|Lucas Jordane|L. Guardino|Giordaniello|Lucas Jordaen|Lucas Jordanus|Luca Jordano surnommé Fa Presto|Called, Luca fa Presto Luca Giordano|Lucas Giordano|L. Girdano|Luc Jordano|Lucca Giordani|Luc Giordano|L. Giardino|Lucas Giosdano|Lucas Jordaine|Lucca Giedano|Jordan/ aus Neapoli|Luc. Jordans|Jordans de Naples|Lucio Jordano|de Naple Jordans|Jiardano|L. Guardiano|L. Giodano|luka giordano|surnommé Fa-Presto Lucas Jordano|L. Guardano|L. Giordano de Naples|Lucus Giordane|Luca Jordaens|L. Jordanes|Luca Giordani Napoletano|L. Jordaise|Luca Jordano surnommé Luca fa presto|Lukas Jordaens|Guiordano|genannt Fa Presto Lucas Giordano|Zordano|S. Giordano|Luga Giordano|L. Giordani|Lucca Giardino|L. Giordana|Jardaeno|Jordàn|L. Giordono|Lucan|surnommé Fa Presto Luca Jordano|Lucâ Jordano|L. Giordino|Giordano giovane|Lucca Giordini|Jordane|Luc Jordans de Naples|Luca Giordano da Napoli|Luc Jordano De Naples|Jordano",Q5,,Luca Giordano
+Mafraq Governorate,Jordan,Q108462973,21,1,2,bishop of the Roman Catholic Church,,Q5,,
+Mafraq Governorate,Karl Jordan,Q65882,21,1,2,German entomologist (1861–1959),Jordan|Heinrich Ernst Karl Jordan|K. Jordan|H. E. K. Jordan|K. J.,Q5,,"Karl Jordan (zoologist, born 1861)"
+Mafraq Governorate,Jordán,Q30306599,21,1,2,family name,,Q101352,,
+Mafraq Governorate,Mafraq,Q276747,21,1,2,"capital of Mafraq governate, Jordan",Al Mafraq,Q486972|Q515,,Mafraq
+Mafraq Governorate,Mafraq,Q15243582,21,1,2,human settlement in Saudi Arabia,,Q486972|Q23827464,,"Mafraq, Saudi Arabia"
+Mafraq Governorate,Mafraq Sub-District,Q35182694,21,1,2,,,Q35175440,,
+Mafraq Governorate,Mafraq Qasabah,Q27126270,21,1,2,district of Jordan,Mafraq Qasabah District,Q35174583,,Mafraq Qasabah
+Mafraq Governorate,Mafraq Hospital,Q30280817,21,1,2,"healthcare organization in Abu Dhabi, United Arab Emirates",,Q4287745|Q16917,,
+Mafraq Governorate,Mafraq el Hamra,Q21578808,21,1,2,,,Q55471069,,
+Mafraq Governorate,Mafraq As Sadd,Q20300192,21,1,2,village in Yemen,,Q486972,,
+Mafraq Governorate,Mafraq Qasabah,Q65073878,21,1,2,governorate of Jordan,,Q486972,,
+Mafraq Governorate,Mafraq Mosque,Q138282416,21,1,2,"mosque in Dhamar Governorate, Yemen",,Q32815,,
+Mafraq Governorate,governorate,Q86622,21,1,2,administrative subdivision of the Russian Empire and several Soviet States,guberniya|gubernii︠a︡,Q15617994,Q17310396|Q1798622|Q4204491,Governorate (Russia)
+Mafraq Governorate,governorate,Q1798622,21,1,2,administrative division of a country that is headed by a governor,,Q15617994,Q1048835,Governorate
+Mafraq Governorate,Rif Dimashq Governorate,Q232399,21,1,2,governorate in Syria,"Governorate of the Countryside of Damascus|Damascus Surroundings|Rif Dimashq, Syria",Q517351,,Rif Dimashq Governorate
+Mafraq Governorate,Alexandria Governorate,Q29943,21,1,2,Egyptian governorate,al-Iskandariyya|Governorate of Alexandria,Q204910|Q56061,,Alexandria Governorate
+Mafraq Governorate,Hadhramaut Governorate,Q241135,21,1,2,Largest governorate of Yemen,Fifth Governorate|Hadhramaut|V|Ḩaḑramawt|Muḩāfaz̧at Ḩaḑramawt|Governorate Number Five|Governorate Number five|Al Muḩāfaz̧ah al Khāmisah|Vth governorate|5th governorate,Q331130,,Hadhramaut Governorate
+Mafraq Governorate,governorate,Q16571924,21,1,2,old type of administrative demarcation of the kingdom of Valencia,,Q28872924,Q1798622,
+Mafraq Governorate,Abyan Governorate,Q241774,21,1,2,governorate of Yemen,Third Governorate|III|Abyan|Muḩāfaz̧at Abyan|Al Muḩāfaz̧ah ath Thālithah|Governorate Number Three,Q331130,,Abyan Governorate
+Mafraq Governorate,Estonia Governorate,Q720496,21,1,2,governorate of the Russian Empire in what is now northern Estonia,Governorate of Estonia|Esthonia,Q86622|Q47530375,,Governorate of Estonia
+Mafraq Governorate,Shabwah Governorate,Q328180,21,1,2,governorate of Yemen,IV|Fourth Governorate|Shabwah|Muḩāfaz̧at Shabwah|Al Muḩāfaz̧ah ar Rābi‘ah|Governorate Number four|Governorate Number Four,Q331130,,Shabwah Governorate
+Mafraq Governorate,Al Mahrah Governorate,Q275752,21,1,2,governorate of Yemen bounded on its southern coast by the Guardafui Channel,Sixth Governorate|Al Ghayḑah|VI|Al Mahrah|Muḩāfaz̧at al Mahrah|Governorate Number Six|Al Muḩāfaz̧ah as Sādisah|Muḩāfaz̧at al Ghayḑah,Q331130,,Al-Mahrah Governorate
+Serendip,Serendip,Q18607370,22,0,1,genus of worms,,Q16521,,
+Serendip,6568 Serendip,Q598438,22,0,1,asteroid,Serendip,Q3863,,6568 Serendip
+Serendip,serendipity,Q166039,22,0,1,"a ""fortunate happenstance"" or ""pleasant surprise"" without searching for it",serendipitous,Q483247,Q12772819,Serendipity
+Serendip,Serendipita,Q10666185,22,0,1,genus of fungi,,Q16521,,Serendipita
+Serendip,SERENDIP,Q2599940,22,0,1,Search for extraterrestrial radio emissions from nearby evolved intelligent populations.,,,,SERENDIP
+Serendip,Serendipeidae,Q21292205,22,0,1,family of worms,,Q16521,,
+Serendip,Serendip,Q31316881,22,0,1,poetry collection by Dom Moraes,,Q7725634,,
+Serendip,Serendipidae,Q19388245,22,0,1,family of flies (fossil),,Q23038290,,
+Serendip,Serendipidae Brooks & Barriga (1995) non Evenhuis (1994),Q112082260,22,0,1,later homonym (do not use),Serendipidae,Q16521,,
+Serendip,Serendipaceratops,Q135287,22,0,1,genus of reptiles (fossil),,Q23038290,,Serendipaceratops
+Serendip,Serendipity,Q971468,22,0,2,2001 film by Peter Chelsom,,Q11424,,Serendipity (film)
+Serendip,Serendipity,Q3955886,22,0,2,2000 studio album by Premiata Forneria Marconi,,Q482994,,
+Serendip,Serendipity,Q58868068,22,0,2,vocal track by BTS,,Q55850593,,Serendipity (BTS song)
+Serendip,Serendipity,Q7453189,22,0,2,album by Mike Garson,,Q482994,,Serendipity (Mike Garson album)
+Serendip,Serendipity,Q22075196,22,0,2,2015 single by Mai Kuraki,,Q134556,,Serendipity (Mai Kuraki song)
+Serendip,Serendipity,Q14331573,22,0,2,episode of Law & Order: Special Victims Unit,,Q21191270,,
+Serendip,Serendipity alpha Dmel_CG17957,Q29812673,22,0,2,protein found in Drosophila melanogaster,serendipity-alpha|Sry-alpha-PB|CG17957-PA|Sry-alpha|serendipity|Sry-alpha-PA|serendipity alpha|CG17957 gene product from transcript CG17957-RB|CG17957-PB,Q8054,,
+Serendip,Serendipity beta Dmel_CG7938,Q29810318,22,0,2,protein found in Drosophila melanogaster,Sry-beta-PB|Sry-beta|CG7938-PA|CG7938-PB|serendipity|serendipity beta|CG7938 gene product from transcript CG7938-RB|Sry-beta-PA,Q8054,,
+Serendip,Serendipity,Q19895733,22,0,2,1977 live album by Walt Dickerson,,Q482994,,Serendipity (Walt Dickerson album)
+Tanzania,Tanzania,Q924,23,0,1,country in East Africa,"United Republic of Tanzania|tz|United Republic of Tanganyika and Zanzibar|tza|Tanzania, United Republic of",Q7270|Q3624078|Q6256,,Tanzania
+Tanzania,Tanzania,Q655495,23,0,1,genus of spiders,,Q16521,,Tanzania (spider)
+Tanzania,Tanzania men's national football team,Q244728,23,0,1,men's national association football team representing Tanzania,Taifa Stars|Tanzania national football team,Q135408445,Q1194951,Tanzania national football team
+Tanzania,2015 Tanzanian general election,Q17109740,23,0,1,General elections were held in Tanzania in 2015,"Tanzanian general election, 2015",Q2618461,,2015 Tanzanian general election
+Tanzania,National Assembly,Q1138299,23,0,1,unicameral legislature of Tanzania,National Assembly of Tanzania|Tanzanian National Assembly,Q37002670,,National Assembly (Tanzania)
+Tanzania,Tanzania pusillus,Q2665988,23,0,1,species of arachnid,,Q16521,,Tanzania pusillus
+Tanzania,Tanzania journal of health research,Q27721920,23,0,1,journal,Tanzan J Health Res,Q5633421,,
+Tanzania,Tanzania health research bulletin,Q27721065,23,0,1,journal,Tanzan Health Res Bull,Q5633421,,
+Tanzania,Tanzanian Premier League,Q761626,23,0,1,association football league,Ligi Kuu Bara|Vodacom Premier League,Q15991303,Q3270632,Tanzanian Premier League
+Tanzania,Uganda–Tanzania War,Q202465,23,0,1,1978–1979 armed conflict in East Africa,Uganda-Tanzania War|Tanzania–Uganda War|Tanzania-Uganda War|1979 Liberation War|Kagera War,Q198,,Uganda–Tanzania War
+Tanzania,Parliament of Tanzania,Q114221204,23,0,2,website of the Parliament of Tanzania,"United Republic of Tanzania, Parliament of Tanzania",Q35127,,
+Tanzania,United Republic of Tanzania. United Nations. Department of International Economic and Social Affairs. Population Division. United Nations Fund for Population Activities UNFPA. Office of Policy Analysis and Statistics,Q78258379,23,0,2,scientific article published on 01 January 1980,,Q13442814,,
+Tanzania,United Republic of Tanzania - Staff Assessment of Qualification for the Multilateral Debt Relief Initiative,Q127214427,23,0,2,scholarly article,,Q13442814,,
+Tanzania,United Republic of Tanzania. United Nations. Department of International Economic and Social Affairs. United Nations Fund for Population Assistance,Q77167450,23,0,2,scientific article published on 01 September 1980,,Q13442814,,
+Dar es Salaam,Dar es Salaam,Q1960,23,1,1,largest city in Tanzania and capital of Dar es Salaam Region,,Q515|Q2264924|Q51929311|Q108178728|Q129268952,,Dar es Salaam
+Dar es Salaam,Dar es Salaam Region,Q557539,23,1,1,region of Tanzania,,Q845820,,Dar es Salaam Region
+Dar es Salaam,Dar es Salaam,Q67841130,23,1,1,2002 album by Muslimgauze,,Q482994,,
+Dar es Salaam,Julius Nyerere International Airport,Q1411192,23,1,1,"airport in Dar es Salaam, Tanzania",Dar es Salaam International Airport|Dar es Salaam Airport|DAR|HTDA,Q644371|Q1248784|Q94993988,,Julius Nyerere International Airport
+Dar es Salaam,Dar-es-salaam,Q139182880,23,1,1,"village in Northern Region, Uganda",,Q486972,,
+Dar es Salaam,Dar es Salaam University College of Education,Q3015960,23,1,1,college in Tanzania,DUCE,Q189004,,Dar es Salaam University College of Education
+Dar es Salaam,Dar es Salaam Central Station,Q131442962,23,1,1,,Dar es Salaam Central Trainstation|Kituo kikuu cha reli Bongo,Q55488,,
+Dar es Salaam,Dar es Salaam Institute of Technology,Q5221955,23,1,1,educational institution in Tanzania,,Q1664720,,Dar es Salaam Institute of Technology
+Dar es Salaam,Pugu Train Station,Q131747516,23,1,1,,Dar es Salaam Pugu Station|Kituo cha reli Bongo Pugu,Q55488,,
+Dar es Salaam,Dar es Salaam Stock Exchange,Q490028,23,1,1,"stock exchange located in Dar es Salaam, Tanzania",DSE,Q4830453|Q11691,,Dar es Salaam Stock Exchange
+Dar es Salaam,Tanzania,Q924,23,1,2,country in East Africa,"United Republic of Tanzania|tz|United Republic of Tanganyika and Zanzibar|tza|Tanzania, United Republic of",Q7270|Q3624078|Q6256,,Tanzania
+Dar es Salaam,Tanzania,Q655495,23,1,2,genus of spiders,,Q16521,,Tanzania (spider)
+Dar es Salaam,Tanzania men's national football team,Q244728,23,1,2,men's national association football team representing Tanzania,Taifa Stars|Tanzania national football team,Q135408445,Q1194951,Tanzania national football team
+Dar es Salaam,2015 Tanzanian general election,Q17109740,23,1,2,General elections were held in Tanzania in 2015,"Tanzanian general election, 2015",Q2618461,,2015 Tanzanian general election
+Dar es Salaam,National Assembly,Q1138299,23,1,2,unicameral legislature of Tanzania,National Assembly of Tanzania|Tanzanian National Assembly,Q37002670,,National Assembly (Tanzania)
+Dar es Salaam,Tanzania pusillus,Q2665988,23,1,2,species of arachnid,,Q16521,,Tanzania pusillus
+Dar es Salaam,Tanzania journal of health research,Q27721920,23,1,2,journal,Tanzan J Health Res,Q5633421,,
+Dar es Salaam,Tanzania health research bulletin,Q27721065,23,1,2,journal,Tanzan Health Res Bull,Q5633421,,
+Dar es Salaam,Tanzanian Premier League,Q761626,23,1,2,association football league,Ligi Kuu Bara|Vodacom Premier League,Q15991303,Q3270632,Tanzanian Premier League
+Dar es Salaam,Uganda–Tanzania War,Q202465,23,1,2,1978–1979 armed conflict in East Africa,Uganda-Tanzania War|Tanzania–Uganda War|Tanzania-Uganda War|1979 Liberation War|Kagera War,Q198,,Uganda–Tanzania War
+Cuba,Cuba,Q241,24,0,1,sovereign state situated on an island in the Caribbean Sea,Republic of Cuba|cu,Q112099|Q3624078|Q179164|Q849866|Q6256,,Cuba
+Cuba,Cuba,Q87300703,24,0,1,genus of plants,,Q16521,,
+Cuba,Cuba,Q552580,24,0,1,municipality of Portugal,,Q13217644,,"Cuba, Portugal"
+Cuba,Cuba,Q952911,24,0,1,civil parish in Cuba,,Q1131296,,
+Cuba,Cuba,Q37430510,24,0,1,family name,,Q101352,,
+Cuba,Cuba,Q45555205,24,0,1,2007 board game,,Q131436,,
+Cuba,Cuba,Q2002322,24,0,1,2006 benefit compilation album by Rhythms Del Mundo,,Q482994,,Rhythms del Mundo
+Cuba,Cuba Gooding Jr.,Q136209,24,0,1,American actor,"Cuba Gooding, Jr.|Cuba M. Gooding Jr.",Q5,,Cuba Gooding Jr.
+Cuba,Cuba,Q20261291,24,0,1,human settlement in Mexico,,Q486972|Q20202352,,
+Cuba,Cubaris,Q4419436,24,0,1,genus of isopods,,Q16521,,Cubaris
+Cuba,Havana Province,Q12588,24,0,2,province of Cuba,La Habana Province,Q115291,,La Habana Province
+Cuba,Provinz La Habana,Q1491391,24,0,2,Wikimedia disambiguation page,Havana Province,Q4167410,,
+Cuba,Cuban,Q37124474,24,0,2,family name,,Q101352,,
+Cuba,Cubana de Aviación,Q849910,24,0,2,Cuban airline,Cubana|Cubana de Aviacion|Cubana de Aviación S.A.,Q46970,,Cubana de Aviación
+Cuba,Cubanops,Q2252939,24,0,2,genus of Arachnida,,Q16521,,Cubanops
+Cuba,Cubanoptila,Q10463226,24,0,2,genus of insects,,Q16521,,
+Cuba,Cubana,Q13907701,24,0,2,genus of insects,,Q16521,,
+Cuba,Cuban,Q28739968,24,0,2,"Caribbean, American regions, Americas, The, <styles, periods, and cultures by region>, Styles and Periods, Styles and Periods Facet",,,,
+Cuba,Cubanola,Q5192139,24,0,2,genus of plants,,Q16521,,Cubanola
+Cuba,Cuban Missile Crisis: The Aftermath,Q1619053,24,0,2,2005 video game,,Q7889,,Cuban Missile Crisis: The Aftermath
+Cuba,municipality of Cuba,Q558330,24,0,2,administrative territorial entity of Cuba,Cuban municipality,,Q5549724|Q1763214|Q12357832,Municipalities of Cuba
+Cuba,Cuban men's national football team,Q236014,24,0,2,men's national association football team representing Cuba,Cuba national football team,Q135408445,Q1194951,Cuba national football team
+Havana Province,Havana Province,Q12588,24,1,1,province of Cuba,La Habana Province,Q115291,,La Habana Province
+Havana Province,Provinz La Habana,Q1491391,24,1,1,Wikimedia disambiguation page,Havana Province,Q4167410,,
+Havana Province,Cuba,Q241,24,1,2,sovereign state situated on an island in the Caribbean Sea,Republic of Cuba|cu,Q112099|Q3624078|Q179164|Q849866|Q6256,,Cuba
+Havana Province,Cuba,Q87300703,24,1,2,genus of plants,,Q16521,,
+Havana Province,Cuba,Q552580,24,1,2,municipality of Portugal,,Q13217644,,"Cuba, Portugal"
+Havana Province,Cuba,Q952911,24,1,2,civil parish in Cuba,,Q1131296,,
+Havana Province,Cuba,Q37430510,24,1,2,family name,,Q101352,,
+Havana Province,Cuba,Q45555205,24,1,2,2007 board game,,Q131436,,
+Havana Province,Cuba,Q2002322,24,1,2,2006 benefit compilation album by Rhythms Del Mundo,,Q482994,,Rhythms del Mundo
+Havana Province,Cuba Gooding Jr.,Q136209,24,1,2,American actor,"Cuba Gooding, Jr.|Cuba M. Gooding Jr.",Q5,,Cuba Gooding Jr.
+Havana Province,Cuba,Q20261291,24,1,2,human settlement in Mexico,,Q486972|Q20202352,,
+Havana Province,Cubaris,Q4419436,24,1,2,genus of isopods,,Q16521,,Cubaris

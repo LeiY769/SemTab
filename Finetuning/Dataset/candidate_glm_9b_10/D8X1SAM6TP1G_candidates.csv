@@ -1,0 +1,176 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+automa,automation,Q184199,0,0,1,control systems using technology such that a process or procedure is performed with minimal human assistance,automatic control|auto,Q11862829|Q268592|Q11016,Q1914636|Q10843872|Q5268834,Automation
+automa,automobile manufacturer,Q786820,0,0,1,company that makes automobiles,car manufacturer|car builder|automaker|car maker|automobile company|automotive company|auto manufacturer,,Q6881511|Q136678590,Automobile manufacturer
+automa,pattern recognition,Q378859,0,0,1,branch of machine learning,automated pattern recognition,Q123370638,Q2539,Pattern recognition
+automa,speech recognition,Q189436,0,0,1,automatic conversion of spoken language into text,automatic speech recognition|ASR|computer speech recognition|STT|speech to text|speechRecognizing|speech recognizing|automated speech recognition,Q11862829,Q182557|Q30642|Q40889874,Speech recognition
+automa,text mining,Q676880,0,0,1,process of analysing text to extract information from it,text data mining|textmining|text-mining|text analytics|text analysis|automatic text analysis|text recognition,,Q70708084|Q30642,Text mining
+automa,Automattic,Q2872634,0,0,1,American technology company,,Q4830453,,Automattic
+automa,automatic weather station,Q846837,0,0,1,set of sensors that record and provide physical measurements and meteorological parameters without any human intervention,AWS,Q130741448,Q190107,Automatic weather station
+automa,Automate,Q4480274,0,0,1,genus of crustaceans,,Q16521,,Automate (crustacean)
+automa,Automatica,Q2373562,0,0,1,journal,,Q1002697|Q737498|Q73364223,,
+automa,machine translation,Q79798,0,0,1,use of software for language translation,MT|automatic translation,,Q7553|Q182557|Q30642,Machine translation
+Altoon,Altoona Area High School,Q4736945,1,0,1,"school in Altoona, Blair County, Pennsylvania, United States",,Q9826,,Altoona Area High School
+Altoon,Altoona,Q444210,1,0,1,"city in Blair County, Pennsylvania, United States","Altoona, Pennsylvania|Altoona, PA",Q21010817|Q5888666|Q1782540,,"Altoona, Pennsylvania"
+Altoon,Altoona Center for Clinical Research,Q30269584,1,0,1,"facility in Duncansville, United States",ACCR,Q13226383,,
+Altoon,Altoona Works,Q4736953,1,0,1,"complex of railroad workshops in Altoona, Pennsylvania, United States",,Q6138323|Q19563580,,Altoona Works
+Altoon,Altoona Curve,Q444205,1,0,1,Minor League Baseball team,Curve|Allegheny Yinzers,Q13027888,,Altoona Curve
+Altoon,Altoona,Q444186,1,0,1,"city in Polk County, Iowa, United States","Altoona, Iowa|Altoona, IA",Q1093829,,"Altoona, Iowa"
+Altoon,Altoon,Q139961900,1,0,1,,,,,Altoon
+Altoon,Altoona,Q2050506,1,0,1,"city in Wilson County, Kansas, United States","Altoona, Kansas|Altoona, KS",Q1093829,,"Altoona, Kansas"
+Altoon,Altoona Mountain City,Q1568246,1,0,1,"former baseball team and Union Association franchise in Altoona, Pennsylvania, United States",Mountain Citys|Altoona Pride,Q13027888,,Altoona Mountain Citys
+Altoon,Altoona,Q444199,1,0,1,"city in Eau Claire County, Wisconsin, United States","City of Altoona|Altoona, Wisconsin|Altoona, WI",Q15221373,,"Altoona, Wisconsin"
+Washburq,Washburn,Q7971446,2,0,2,family name,,Q101352,,Washburn (surname)
+Washburq,Washburn,Q28057011,2,0,2,given name,,Q202444,,
+Washburq,Washburn University,Q941551,2,0,2,"public university in Topeka, Kansas",WU|Washburn College|washburn.edu,Q875538|Q23002039,,Washburn University
+Washburq,Washburn,Q405500,2,0,2,"fourth-class city in and county seat of Bayfield County, Wisconsin, United States","City of Washburn|Washburn, Wisconsin|Washburn, WI",Q15221373|Q62049,,"Washburn, Wisconsin"
+Washburq,Washburn,Q2018717,2,0,2,city in North Dakota,"Washburn, North Dakota|Washburn, ND",Q1093829|Q62049,,"Washburn, North Dakota"
+Washburq,Washburn,Q2233731,2,0,2,"village mostly in Woodford County, Illinois, USA","Washburn, Illinois|Washburn IL|Washburn, IL",Q110071217,,"Washburn, Illinois"
+Washburq,Washburn,Q3447904,2,0,2,town in Maine,"Washburn, ME",Q15127012,,"Washburn, Maine"
+Washburq,Washburn County,Q500793,2,0,2,"county in Wisconsin, United States","Washburn County, Wisconsin|Washburn County, WI",Q12178928,,"Washburn County, Wisconsin"
+Washburq,Washburn,Q13416329,2,0,2,"census-designated place in Aroostook County, Maine","Washburn, ME",Q498162|Q486972,,"Washburn (CDP), Maine"
+Washburq,Washburne,Q17996324,2,0,2,family name,,Q101352,,
+Washburq,Washburn County Wisconsin Democratic Party,Q99543294,2,0,2,political organization in the U.S. state of Wisconsin,Washburn County Wisconsin Democrats|Washburn County Democrats|Washburn County Democratic Party,Q7210356,,
+Washburq,"2020 COVID-19 pandemic in Washburn County, Wisconsin",Q94150509,2,0,2,"pandemic in Washburn County, Wisconsin","2020 coronavirus outbreak in Washburn County, Wisconsin|COVID-19 pandemic in Washburn County, Wisconsin|2020 Washburn County, Wisconsin COVID-19 pandemic|Washburn County, Wisconsin COVID-19 pandemic|2020 COVID pandemic in Washburn County, Wisconsin",Q3241045,,
+Washburq,Washburn County Register,Q55671465,2,0,2,newspaper published in Shell Lake,,Q11032,,
+Haywbrd,Hayward,Q491114,3,0,2,"city in Alameda County, California, United States","Hayward, California|Hayward, CA",Q13218357|Q1549591|Q13218391,,"Hayward, California"
+Haywbrd,Hayward,Q16870619,3,0,2,family name,Hayward (surname),Q101352,,Hayward (surname)
+Haywbrd,Hayward,Q16276492,3,0,2,given name,Hayward (given name),Q202444,,Hayward (given name)
+Haywbrd,Hayward,Q289042,3,0,2,"city in and county seat of Sawyer County, Wisconsin, United States","City of Hayward|Hayward, Wisconsin|Hayward, WI",Q15221373|Q62049,,"Hayward, Wisconsin"
+Haywbrd,Kenneth John Hayward,Q3195177,3,0,2,British entomologist (1891-1972),Hayward,Q5,,
+Haywbrd,Haywardina,Q16896150,3,0,2,genus of insects,,Q16521,,
+Haywbrd,George W. Hayward,Q1508610,3,0,2,British explorer (1839–1870),George Jonas Whitaker Hayward|Hayward|G. W. Hayward|G. J. W. Hayward|George J. W. Hayward,Q5,,George W. Hayward
+Haywbrd,11718 Hayward,Q1097593,3,0,2,asteroid,Hayward,Q3863,,11718 Hayward
+Haywbrd,Hayward,Q631354,3,0,2,city in Minnesota,"Hayward, Minnesota|Hayward, MN",Q1093829,,"Hayward, Minnesota"
+Haywbrd,Hayward,Q5448868,3,0,2,"town in Sawyer County, Wisconsin, United States",Town of Hayward,Q15219655,,"Hayward (town), Wisconsin"
+Black Rkver Falls,,,4,0,0,,,,,
+Portcge,Portuguese Synagogue,Q1853707,5,0,2,oldest synagogue of Amsterdam,Portugees-Israëlitische Synagoge|Portuguese synagogue,Q34627|Q33506,,Portuguese Synagogue (Amsterdam)
+Portcge,Portugen,Q138482305,5,0,2,"Company that operates the Tapada do Outeiro Termoelectric Power Plant in Gondomar, Portugal",,Q783794,,
+Portcge,Yael Portugheis,Q108558816,5,0,2,Israeli mosaic artist,"Yael Portugese|Portugese, Yael",Q5,,
+Portcge,Portuguese,Q5146,5,0,2,Western Romance language,Portuguese language,Q33742|Q1288568|Q1322198,Q9080204,Portuguese language
+Portcge,Portugal,Q45,5,0,2,country in Southwestern Europe,Portuguese Republic|PRT|POR,Q3624078|Q6256|Q20181813|Q140892892,,Portugal
+Portcge,Portuguese Wikipedia,Q11921,5,0,2,Portuguese-language edition of Wikipedia,Portuguese-language Wikipedia|Lusophone Wikipedia,Q10876391,,Portuguese Wikipedia
+Portcge,Portugese Still LIfe,Q28106316,5,0,2,"painting by Robert Delaunay (private collection, III)",,Q3305213,,
+Portcge,Brazilian Portuguese,Q750553,5,0,2,set of varieties of the Portuguese language spoken in Brazil,Português brasileiro|Brazilian|Português do Brasil|Portugues brasileiro|Portugues do Brasil|Portuguese (Brazil),Q33384,Q5146,Brazilian Portuguese
+Portcge,Portugees-Israëlitisch Kerkgenootschap,Q7232596,5,0,2,,,Q1530022|Q101063310,,Portugees-Israëlitisch Kerkgenootschap
+Portcge,Portugese Still LIfe,Q28106314,5,0,2,"painting by Robert Delaunay (private collection, II)",,Q3305213,,
+Newaunee,,,6,0,0,,,,,
+Make Geneva,,,7,0,0,,,,,
+St.Croix Falls,St. Croix Falls,Q3470469,8,0,2,"fourth-class city in Polk County, Wisconsin, United States","City of St. Croix Falls|St. Croix Falls, Wisconsin|Saint Croix Falls|St. Croix Falls, WI",Q15221373|Q486972,,"St. Croix Falls, Wisconsin"
+St.Croix Falls,St. Croix Falls,Q7587678,8,0,2,"human settlement in Polk County, Wisconsin, United States of America","St. Croix Falls, WI",Q15219655,,"St. Croix Falls (town), Wisconsin"
+St.Croix Falls,St. Croix Falls High School,Q7587675,8,0,2,"high school in St. Croix Falls, Polk County, Wisconsin",,Q9826,,St. Croix Falls High School
+St.Croix Falls,Saint Croix Falls Cemetery,Q97016489,8,0,2,"cemetery in Wisconsin, USA",St Croix Falls Cemetery|St. Croix Falls Cemetery,Q39614,,
+St.Croix Falls,St. Croix Falls Public Library,Q69495361,8,0,2,"public library system in Wisconsin, USA",,Q26271642,,
+St.Croix Falls,St. Croix Falls Public Library,Q69866215,8,0,2,"public library in St. Croix Falls, Wisconsin, USA",,Q12317349|Q28564,,
+St.Croix Falls,St. Croix Falls Cinema,Q78674394,8,0,2,"movie theater in Saint Croix Falls, Wisconsin",,Q41253,,
+St.Croix Falls,St. Croix Falls,Q9340926,8,0,2,Wikimedia disambiguation page,,Q4167410,,
+St. Fraqcis,Saint Fiachra's Well,Q121842432,9,0,2,"holy well in the townland of Sheastown/ Sheestown, Co. Kilkenny",St. Fiachra's Well|St Fiachra's Well|St. Fiacre's Well,Q1371047|Q126443332|Q1371047,,
+St. Fraqcis,"Patrick Francis Moran: St. Fiacre, in: Transactions of the Ossory Archaeological Society, Volume the First, 1874-9, pp 89-100",Q130377925,9,0,2,article about the life of St Fiachra and the sites associated with him,Patrick Francis Moran: St. Fiacre|St. Fiacre,Q13442814,,
+St. Fraqcis,Saint-Fiacre,Q1458796,9,0,2,"commune in Seine-et-Marne, France",,Q484170,,"Saint-Fiacre, Seine-et-Marne"
+St. Fraqcis,Saint-Fiacre,Q661701,9,0,2,"commune in Côtes-d'Armor, France",Fiacre-les-Bois|Sant-Fieg,Q484170,,"Saint-Fiacre, Côtes-d'Armor"
+St. Fraqcis,Saint-Fiacre-sur-Maine,Q1065278,9,0,2,"commune in Loire-Atlantique, France",Saint-Fiacre,Q484170,,Saint-Fiacre-sur-Maine
+St. Fraqcis,Saint-Fiacre,Q112873195,9,0,2,"lieu-dit in L'Anse-Saint-Jean, Quebec, Canada",,Q181307,,
+St. Fraqcis,Saint-Fiacre,Q112836813,9,0,2,"administrative sector in L'Anse-Saint-Jean, Quebec, Canada",,Q28203007,,
+St. Fraqcis,Saint Fiacre,Q116373762,9,0,2,"relief statue at the Metropolitan Museum of Art (MET, 25.120.227)",,Q245117,,
+St. Fraqcis,Saint-Fiacre-sur-Maine city hall,Q60616945,9,0,2,,,Q13226383,,
+St. Fraqcis,Saint Fiacre Church of Saint-Fiacre,Q38579859,9,0,2,"catholic religious building in Saint-Fiacre, Seine-et-Marne, France",,Q16970,,
+St. Fraqcis,Saint Fiacre guérissant les malades,Q59563692,9,0,2,painting by anonymous painter,,Q3305213,,
+St. Fraqcis,Saint Fiacre Formation,Q17509262,9,0,2,geologic formation in France,,Q736917,,Saint Fiacre Formation
+Fitchbrg,Fitchburg,Q54182,10,0,2,"city in Worcester County, Massachusetts, United States","Fitchburg, Massachusetts|Fitchburg, MA",Q1093829,,"Fitchburg, Massachusetts"
+Fitchbrg,Fitchburg,Q1570633,10,0,2,"city in Dane County, Wisconsin, United States","Fitchburg, Wisconsin|Fitchburg, WI",Q1093829|Q15221373,,"Fitchburg, Wisconsin"
+Fitchbrg,Fitchburg,Q16891306,10,0,2,"human settlement in Kentucky, United States of America","Fitchburg, Kentucky|Fitchburg, KY",Q17343829,,"Fitchburg, Kentucky"
+Fitchbrg,Fitchburg Art Museum,Q5455423,10,0,2,"art museum in Fitchburg, Massachusetts",FAM,Q207694|Q163740,,Fitchburg Art Museum
+Fitchbrg,Fitchburg State University,Q4982087,10,0,2,"public university in Fitchburg, Massachusetts, United States",Fitchburg State|Fitchburg State College|State Normal School|fitchburgstate.edu,Q3918|Q23002039,,Fitchburg State University
+Fitchbrg,Fitchburg Line,Q172548,10,0,2,branch of the MBTA Commuter Rail,Fitchburg/South Acton Line,Q124130104,,Fitchburg Line
+Fitchbrg,Fitchburg,Q116697437,10,0,2,"power station with capacity >1MW in Dane County, Wisconsin",,Q3498533|Q1427536,,
+Fitchbrg,FITCHBURG,Q127051409,10,0,2,hymn tune,,Q105543609,,
+Fitchbrg,Fitchburg High School,Q85761132,10,0,2,"high school in Fitchburg, Worcester County, Massachusetts",,Q9826,,Fitchburg High School
+Fitchbrg,Fitchburg Railroad,Q1421154,10,0,2,transport company,,Q249556,,Fitchburg Railroad
+Fitchbrg,"Fitchburg, Massachusetts minor league baseball history",Q110913955,10,0,2,minor League Baseball team,,,,"Fitchburg, Massachusetts minor league baseball history"
+Beavfr Dam,beaver dam,Q4878217,11,0,2,dam constructed by beavers,,,Q6980653|Q98969382|Q2904042,Beaver dam
+Beavfr Dam,Beaver Dam Lake,Q48976654,11,0,2,"lake in Wisconsin, United States",,Q23397,,Beaver Dam Lake (Wisconsin)
+Beavfr Dam,Beaver Dam,Q1570610,11,0,2,"city in Dodge County, Wisconsin, United States","Beaver Dam, Wisconsin|Beaver Dam, WI",Q15221373,,"Beaver Dam, Wisconsin"
+Beavfr Dam,Beaver Dam,Q2049048,11,0,2,"city in Kentucky, USA","Beaver Dam, Kentucky|Beaver Dam, KY",Q1093829,,"Beaver Dam, Kentucky"
+Beavfr Dam,Beaver Dam,Q4878053,11,0,2,"census-designated place in Mohave County, Arizona, United States","Beaver Dam, Arizona|Beaver Dam, AZ",Q498162,,"Beaver Dam, Arizona"
+Beavfr Dam,Beaver Dam,Q2881162,11,0,2,"civil town in Dodge County, Wisconsin",Town of Beaver Dam,Q15219655,,"Beaver Dam (town), Wisconsin"
+Beavfr Dam,Beaver Dam,Q79296490,11,0,2,painting by Charles Henry Reynolds,,Q3305213,,
+Beavfr Dam,Beaver Dam,Q32827907,11,0,2,"dam in Arkansas, United States",,Q12323|Q15911738,,Beaver Dam (Arkansas)
+Beavfr Dam,Beaver Dam,Q4878052,11,0,2,"rural community in Nova Scotia, Canada","Beaver Dam, Nova Scotia",Q5532181,,"Beaver Dam, Nova Scotia"
+Beavfr Dam,Beaver Dam,Q34804794,11,0,2,"dam in New Jersey, United States",,Q12323,,
+emour,Emouroudou,Q31794257,12,0,1,mountain in Niger,,Q8502,,
+emour,Emoura Phạm,Q140800580,12,0,1,Miss Grand Vietnam 2026,,Q5,,Emoura Phạm
+Abbotsfosd,Abbotsford,Q306710,13,0,2,"suburb of Melbourne, Victoria, Australia","Abbotsford, Victoria|Carran-carramulk|Abbotsford, Victoria, Australia",Q188509|Q45242174,,"Abbotsford, Victoria"
+Abbotsfosd,Abbotsford,Q2820842,13,0,2,"former federal electoral district in British Columbia, Canada (2004–2025)",,Q6619312|Q17202187,,Abbotsford (electoral district)
+Abbotsfosd,Abbotsford,Q1570511,13,0,2,"city in Clark and Marathon counties, Wisconsin, United States","Abbotsford, WI",Q15221373,,"Abbotsford, Wisconsin"
+Abbotsfosd,Abbotsford,Q4664294,13,0,2,"historic house museum in Boston, Massachusetts",Museum of the National Center of Afro-American Artists,Q3947|Q3914|Q207694|Q54934129,,"Abbotsford (Boston, Massachusetts)"
+Abbotsfosd,Abbotsford,Q67913310,13,0,2,"suburb of Dunedin, New Zealand",,Q188509,,"Abbotsford, New Zealand"
+Abbotsfosd,Abbotsford,Q27898407,13,0,2,painting by Joseph Mallord William Turner,,Q3305213,,
+Abbotsfosd,Abbotsford,Q40983277,13,0,2,"locality in Queensland, Australia","Abbotsford, Queensland|Abbotsford, Queensland, Australia",Q3257686,,"Abbotsford, Queensland"
+Abbotsfosd,Abbotsford,Q106833359,13,0,2,engraving - print made by Henry Le Keux,,Q11835431|Q11060274,,
+Abbotsfosd,Abbotsford,Q115708687,13,0,2,"shipwreck, 1.93 km from Tregele",,Q852190,,
+Abbotsfosd,Abbotsford,Q110094079,13,0,2,engraving - print made by Henry Le Keux (YCBA B1977.14.7719),,Q11835431|Q11060274,,
+Abbotsfosd,Abbotsford,Q271730,13,0,2,"city located in the Fraser Valley region of British Columbia, Canada","Abbotsford, British Columbia|Abbotsford, BC",Q60458065|Q1549591,,"Abbotsford, British Columbia"
+Abbotsfosd,Abbotsford International Airport,Q969671,13,0,2,"airport in Abbotsford, British Columbia, Canada","YXX|CYXX|Abbotsford, British Columbia",Q644371|Q94993988,,Abbotsford International Airport
+Abbotsfosd,Prince George,Q590205,13,0,2,"city in British Columbia, Canada","Prince George, British Columbia|Prince George, BC",Q60458065,,"Prince George, British Columbia"
+rcadia,RCADiA: simple automation platform for comparative multidimensional protein identification technology,Q30483355,14,0,1,scientific article,,Q13442814,,
+rcadia,Roca,Q30278161,14,0,2,family name,,Q101352,,Roca (surname)
+rcadia,Republic of China Army,Q704397,14,0,2,ground branch of the Republic of China Armed Forces in Taiwan,ROCA|Army of Taiwan|Taiwanese Army|ROC Army,Q37726,,Republic of China Army
+rcadia,Rocamadour,Q382628,14,0,2,"commune in Lot, France",,Q484170,,Rocamadour
+rcadia,Roca tram station,Q113377822,14,0,2,tram station in Argentina,,Q2175765,,
+rcadia,Russian Orthodox Church Outside of Russia,Q912932,14,0,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+rcadia,Antonio Roca,Q23498044,14,0,2,Spanish engraver (fl. 1838-1862),Roca|Antonio Roca Sallent,Q5,,
+rcadia,stone,Q22731,14,0,2,rock; building material,rock,,Q214609|Q223557,Stone
+rcadia,"Putative 1-pyrroline-5-carboxylate dehydrogenase, Bacillales",Q24782842,14,0,2,InterPro Family,RocA|IPR005932,Q417841,Q8054,
+rcadia,Roca,Q2052169,14,0,2,"village in Lancaster County, Nebraska, United States","Roca, Nebraska|Roca, NE",Q751708,,"Roca, Nebraska"
+rcadia,Roca,Q2629194,14,0,2,Spanish sanitary ware company,,Q6881511,,Roca (company)
+rcadia,Rocaia,Q20101685,14,0,2,,,Q5,,
+rcadia,Ruqayya bint Muhammad,Q2300129,14,0,2,daughter of Muhammad,Rukaiya,Q5,,Ruqayya bint Muhammad
+Whitewter,,,15,0,0,,,,,
+Kiel,Kiel,Q1707,16,0,1,"German city, capital of Schleswig-Holstein",,Q42744322|Q1549591|Q707813|Q61856863|Q14784328|Q253030,,Kiel
+Kiel,Kiel,Q37510692,16,0,1,family name,,Q101352,,
+Kiel,Kiel,Q66446774,16,0,1,unisex given name,,Q3409032,,
+Kiel,Kiel Central station,Q454898,16,0,1,"railway station in Kiel, Germany",Kiel Hauptbahnhof|Kieler Hauptbahnhof|Kiel Hbf,Q27996466|Q55485|Q18543139|Q55488,,Kiel Hauptbahnhof
+Kiel,USS Camden,Q7868025,16,0,1,ship of the United States Navy launched in 1900,Kiel|SS Kiel|AS-6|ID-3143|IX-42,Q105999|Q1716850|Q4364292,,USS Camden (AS-6)
+Kiel,Kiel University,Q156737,16,0,1,university in Germany,"Christian Albrechts University|Christian-Albrechts-Universität zu Kiel|Kiel University, Christian-Albrechts-Universität, Germany|CAU|University of Kiel",Q875538|Q641347|Q1767829,,Kiel University
+Kiel,Kiel Reijnen,Q1740955,16,0,1,American cyclist,,Q5,,Kiel Reijnen
+Kiel,Carina,Q10470,16,0,1,constellation in the southern celestial hemisphere,Car|Carinae|the Keel,Q8928,,Carina (constellation)
+Kiel,Kielce,Q102317,16,0,1,city and capital of the Świętokrzyskie Voivodeship in south-central Poland,Keltz|Kel'tse|Kelts|Kilts|Kiltz|Kel'tsy,Q925381|Q515|Q1549591,,Kielce
+Kiel,Kielmeyera,Q956047,16,0,1,genus of plants,,Q16521,,Kielmeyera
+touhton,,,17,0,0,,,,,
+Agams,Agamsourgou,Q134519726,18,0,1,"village in Tillabéri Region, Niger",,Q532,,
+Agams,Agam Singh Giri,Q19603966,18,0,1,Indian Nepali poet,Agamsingh Giri,Q5,,Agam Singh Giri
+Agams,Agamso,Q32164527,18,0,1,,,Q187971,,
+Agams,Agamsax,Q49837521,18,0,1,,,Q24529780,,
+Agams,Āgamsa Shet',Q23965436,18,0,1,river in Ethiopia,,Q4022,,
+Agams,Āgamsa,Q23971215,18,0,1,river in Ethiopia,,Q4022,,
+Agams,Āgamsa Shet',Q23965448,18,0,1,river in Ethiopia,,Q4022,,
+Agams,Āgamsa,Q23971219,18,0,1,river in Ethiopia,,Q4022,,
+Agams,Āgamsa Shet’,Q29106219,18,0,1,Wikimedia disambiguation page,,Q4167410,,
+Agams,Āgamsa,Q29437588,18,0,1,Wikimedia disambiguation page,,Q4167410,,
+Agams,Agam,Q6019,18,0,2,"regency in West Sumatra Province, Indonesia",Agam Regency,Q3191695|Q12479774,,Agam Regency
+Agams,Agamidae,Q191102,18,0,2,family of reptiles,dragons|dragon lizards|agamid,Q16521,,Agamidae
+Agams,Agam,Q65096943,18,0,2,family name,Agam (family name)|Agam (surname),Q101352,,
+Agams,Agama,Q1153386,18,0,2,genus of reptiles,,Q16521,,Agama (lizard)
+Agams,Agama agama,Q770750,18,0,2,species of reptile,Common agama|Red-headed rock agama|Rainbow agama|A. agama,Q16521,,Agama agama
+Agams,Agam Darshi,Q514903,18,0,2,British actress,Agam Darshi,Q5,,Agam Darshi
+Agams,Agaminae,Q867830,18,0,2,subfamily of lizards in family Agamidae,,Q16521,,Agaminae
+Agams,Agamemnon,Q514891,18,0,2,male given name,Agamemnon (given name),Q12308941,,
+Agams,Yaacov Agam,Q276030,18,0,2,Israeli sculptor and experimental artist (1928-2026),Jacob Gipstein Agam|Yaacov Gipstein|Yaacov Gipshtein|Yaakov Agam|Agam (Yaacov Agam),Q5,,Yaacov Agam
+Agams,Agami Heron,Q218312,18,0,2,species of bird,Agamia agami,Q16521,,Agami heron
+Agams,Agama,Q126101295,18,0,2,"village in Korgom, Niger",Agawa,Q532,,
+Agams,AGAMA,Q130557243,18,0,2,Czech company,AGAMA a. s.,Q4830453|Q6881511,,
+Agams,agama,Q104080293,18,0,2,"Balinese palm-leaf manuscript classification: religious rules, laws, regulations, ethics and morals",,Q105830123,Q1641020,
+Agams,religion,Q9174,18,0,2,social-cultural system,religious tradition|spirituality|spiritual tradition,Q110401282|Q1914636|Q11862829|Q1047113|Q11042|Q82821,Q5390013|Q49447|Q136485030,Religion
+Agams,Agama impalearis,Q1798222,18,0,2,species of reptile,Bibron's agama,Q16521,,Agama bibronii
+Agams,Āgama,Q1153367,18,0,2,collection of early Buddhist texts,,,Q1001051,Āgama (Buddhism)
+Agams,Agama aculeata,Q1873231,18,0,2,species of reptile,ground agama,Q16521,,Agama aculeata
+Agams,Agama lionotus,Q2601154,18,0,2,species of reptile,,Q16521,,Agama lionotus
+Thop,Thopeutica,Q9087444,19,0,1,genus of beetles,,Q16521,,Thopeutica
+Thop,Thopeutis,Q7796012,19,0,1,genus of insects,,Q16521,,Thopeutis
+Thop,Thopomyia,Q14673457,19,0,1,genus of insects,,Q16521,,Thopomyia
+Thop,Thopha,Q14515005,19,0,1,cicada genus,,Q16521,,Thopha
+Thop,thop,Q107381748,19,0,1,Python library,,Q29642950,,
+Thop,Thopeutis respersalis,Q14490398,19,0,1,species of insect,,Q16521,,Thopeutis respersalis
+Thop,Thophini,Q55635790,19,0,1,tribe of Hemiptera,,Q16521,,Thophini
+Thop,Thopeutis galleriellus,Q7796010,19,0,1,species of insect,,Q16521,,Thopeutis galleriellus
+Thop,Thopeutis forbesellus,Q14490390,19,0,1,species of insect,,Q16521,,Thopeutis forbesellus
+Thop,Thopeutis diatraealis,Q14490376,19,0,1,species of insect,,Q16521,,Thopeutis diatraealis

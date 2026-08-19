@@ -1,0 +1,145 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Dresden cargo ship,Dresden cargo ship,Q2462936,0,0,1,,,Q559026,Q105999,
+Dresden cargo ship,Dresden,Q1731,0,0,2,capital city of the Free State of Saxony in Germany,Elbflorenz|Drezda|Kreisfreie Stadt Dresden,Q1549591|Q253030|Q42744322|Q61708099,,Dresden
+Dresden cargo ship,Dresden,Q206353,0,0,2,"town in Tennessee, United States","Dresden, Tennessee|Dresden, TN",Q15127012,,"Dresden, Tennessee"
+Dresden cargo ship,Dresden Central Station,Q704354,0,0,2,"railway station in Dresden, Germany",Dresden Hauptbahnhof|Dresdner Hauptbahnhof|Dresden Hbf|Bahnhof Dresden Hbf|Hauptbahnhof Dresden|central station Dresden,Q2451577|Q55492|Q18543139|Q11670533|Q55488|Q22808404,,Dresden Hauptbahnhof
+Dresden cargo ship,Staatliche Kunstsammlungen Dresden,Q653002,0,0,2,"complex of 15 world famous Museums in Dresden, Germany including the Gemäldegalerie Alte Meister, Galerie Neue Meister, and Dresden Castle","State Collections of Art (Dresden, Germany)|SKD Museum|Dresden State Art Collections",Q207694,,Staatliche Kunstsammlungen Dresden
+Dresden cargo ship,TU Dresden,Q158158,0,0,2,"institute of higher education in the city of Dresden, Saxony, Germany, founded in 1828","TUD|Dresden Technical University|Dresden University of Technology|Technical University of Dresden|University of Technology, Dresden|Königlich Sächsisches Polytechnikum|Königliche Polytechnische Schule|Technische Bildungsanstalt|TUD Dresden University of Technology",Q62078547|Q115427560|Q1365560,,TU Dresden
+Dresden cargo ship,Gemäldegalerie Alte Meister,Q4890,0,0,2,"art gallery in Dresden, Germany","Dresden Gallery|Gemäldegalerie|Gemaldegalerie Alte Meister|Gemaeldegalerie of Dresden|Gemäldegalerie of Dresden|Gemaeldegalerie|The Dresden Gallery|Dresden Gemaeldegalerie|Gemaldegalerie|Alte Meister Gallery|Dresden Gemäldegalerie|Gemäldegalerie Dresden|Gemaldegalerie of Dresden|Old Masters Picture Gallery|Gemaldegaelerie|Gemaeldegalerie Alte Meister|Gemaldegälerie|Gemäldegalerie Alte Meister, Dresden|Gemäldegalerie Alter Meister|Dresden Gemaldegalerie|Staatliche Kunstsammlungen Dresden|Old Masters Gallery, Dresden|Old Masters Picture Gallery Dresden",Q207694,,Gemäldegalerie Alte Meister
+Dresden cargo ship,Dresden-Neustadt railway station,Q800686,0,0,2,"railway station in Dresden, Germany",,Q55488|Q1406904|Q2451577|Q11670533,,Dresden-Neustadt station
+Dresden cargo ship,Dresden,Q1258446,0,0,2,"community in Ontario, Canada","Dresden, Ontario|Dresden, ON",Q486972,,"Dresden, Ontario"
+Dresden cargo ship,Dresden,Q1258457,0,0,2,"town in Maine, the United States","Dresden, Maine|Dresden, ME",Q15127012,,"Dresden, Maine"
+Dresden cargo ship,Dresden,Q737444,0,0,2,village in the U.S. state Kansas,"Dresden, Kansas|Dresden, KS",Q1093829,,"Dresden, Kansas"
+Dresden cargo ship,SS Dresden,Q7393504,0,0,2,1896 passenger ship,HMS Louvain,Q12859788|Q4793052,,SS Dresden (1896)
+Dresden cargo ship,SS Dresden,Q21540141,0,0,2,,,Q12859788,,SS Dresden (1884)
+Dresden cargo ship,SS Dresden,Q7393503,0,0,2,Wikimedia disambiguation page,,Q4167410,,SS Dresden
+VCS 420 Type container ship,VCS 420 Type container ship,Q2462995,1,0,1,,,Q559026,Q17210,
+VCS 420 Type container ship,container ship,Q17210,1,0,2,type of cargo ship,containership|container carrier|boxship,Q2235308,Q1866980,Container ship
+VCS 420 Type container ship,container shipping,Q57499112,1,0,2,,,Q29028649,Q3253150,Container shipping
+VCS 420 Type container ship,Contship Italia Group,Q25048818,1,0,2,Italian container terminal operator,Container Shipping,Q4830453,,Contship Italia Group
+VCS 420 Type container ship,"Container Ship in Rough Water, Sydney Harbour",Q119797902,1,0,2,"painting by Laurie Plant (b.1974), MOMA MACHYNLLETH",,Q3305213,,
+VCS 420 Type container ship,Container Shipping Market,Q135292156,1,0,2,,,Q1980247,,
+VCS 420 Type container ship,Container shipping system design considering the shipper’s choice inertia,Q120917093,1,0,2,,,Q13442814,,
+VCS 420 Type container ship,Container shipping in the Great Lakes: current situation and future potential,Q126813189,1,0,2,scholarly article,,Q13442814,,
+VCS 420 Type container ship,Container Ship Planning Optimization Using Intelligent Meta-heuristic Algorithms,Q125018048,1,0,2,scientific article published in 2022,,Q13442814,,
+VCS 420 Type container ship,"Vessel Type, Closure, and Explant Orientation Influence in Vitro Performance of Five Woody Species",Q128474121,1,0,2,scholarly article,,Q13442814,,
+Master Mariners container ship,Master Mariners container ship,Q1274959,2,0,1,,,Q559026,Q17210,
+Master Mariners container ship,Honourable Company of Master Mariners,Q5897200,2,0,2,Livery company of the City of London,Master Mariners' Company,Q1139056,,Honourable Company of Master Mariners
+Master Mariners container ship,Master Mariners' Homes,Q26480513,2,0,2,"architectural structure in North Tyneside, Tyne and Wear, England, UK",,Q811979,,
+Master Mariners container ship,container ship,Q17210,2,0,2,type of cargo ship,containership|container carrier|boxship,Q2235308,Q1866980,Container ship
+Master Mariners container ship,container shipping,Q57499112,2,0,2,,,Q29028649,Q3253150,Container shipping
+Master Mariners container ship,Contship Italia Group,Q25048818,2,0,2,Italian container terminal operator,Container Shipping,Q4830453,,Contship Italia Group
+Master Mariners container ship,"Container Ship in Rough Water, Sydney Harbour",Q119797902,2,0,2,"painting by Laurie Plant (b.1974), MOMA MACHYNLLETH",,Q3305213,,
+Master Mariners container ship,Container Shipping Market,Q135292156,2,0,2,,,Q1980247,,
+Master Mariners container ship,Container shipping system design considering the shipper’s choice inertia,Q120917093,2,0,2,,,Q13442814,,
+Master Mariners container ship,Container shipping in the Great Lakes: current situation and future potential,Q126813189,2,0,2,scholarly article,,Q13442814,,
+Master Mariners container ship,Container Ship Planning Optimization Using Intelligent Meta-heuristic Algorithms,Q125018048,2,0,2,scientific article published in 2022,,Q13442814,,
+WAG FT-16,WAG FT-16,Q121409184,3,0,1,type of high-sea trawler used by the PRC paramilitary maritime militias,,Q559026,Q326561|Q11446,
+Almirante Pereira da Silva-class frigate,Almirante Pereira da Silva-class frigate,Q16488857,4,0,1,1966 class of Portuguese Dealey-class destroyer escorts,Admiral Pereira da Silva class frigate,Q559026,Q1180997,Admiral Pereira da Silva-class frigate
+Vista (2002)-class cruise ship,Vista (2002)-class cruise ship,Q1346396,5,0,1,ship class,Vista class,Q559026,Q39804,Vista-class cruise ship (2002)
+Vista (2002)-class cruise ship,Vista-class cruise ship,Q51248709,5,0,2,Wikimedia disambiguation page,,Q4167410,,Vista-class cruise ship
+UASC A15-class container ship,UASC A15-class container ship,Q20827433,6,0,1,ship class,,Q559026,Q17210,A15-class container ship
+Dido-class light cruiser,Dido-class light cruiser,Q1210639,7,0,1,1937 class of British light cruisers,,Q559026,Q778129,Dido-class cruiser
+Dido-class light cruiser,HMS Dido,Q5632144,7,0,2,1896 Eclipse-class cruiser,,Q830335,,HMS Dido (1896)
+Dido-class light cruiser,HMS Dido,Q1548116,7,0,2,1939 Dido-class light cruiser,,Q778129,,HMS Dido (37)
+Dido-class light cruiser,HMS Dido,Q5632149,7,0,2,1961 Leander-class frigate,HMNZS Southland,Q161705,,HMS Dido (F104)
+Dido-class light cruiser,HMS Dido,Q5632142,7,0,2,1869 Eclipse-class screw sloop,,Q7439100,,HMS Dido (1869)
+Dido-class light cruiser,HMS Dido,Q5632143,7,0,2,1784 Enterprise-class sixth-rate frigate,,Q892278,,HMS Dido (1784)
+Dido-class light cruiser,HMS Dido,Q25171769,7,0,2,1836 Daphne-class corvette,,Q170013,,HMS Dido (1836)
+Dido-class light cruiser,HMS Didon,Q5632145,7,0,2,1799 Virginie-class fifth-rate frigate,Didon,Q892554,,HMS Didon
+Dido-class light cruiser,"HMS Dido, Ajax and Orion in action off Crete, 21 May 1941",Q50888462,7,0,2,painting by Lieutenant-Commander Rowland John Robb Langmaid,,Q3305213,,
+Dido-class light cruiser,HMS Dido,Q1564593,7,0,2,Wikimedia disambiguation page,,Q4167410,,HMS Dido
+Braunschweig-class corvette,Braunschweig-class corvette,Q210458,8,0,1,ship class,,Q559026,Q170013,Braunschweig-class corvette
+Braunschweig-class corvette,Corvette,Q5173450,8,0,2,2003 video game,,Q7889,,Corvette (video game)
+Braunschweig-class corvette,corvette,Q170013,8,0,2,"warship class capable of independent combat, patrol, and merchant escort operations",,Q2235308,Q2031121|Q11446,Corvette
+Braunschweig-class corvette,sailing corvette,Q111079864,8,0,2,type of sailing ship,corvette,Q2235308,Q170483|Q848944,
+Braunschweig-class corvette,SN 601 Corvette,Q753147,8,0,2,1970 executive aircraft model by Aérospatiale,Aerospatiale Corvette|Aerospatiale SN 601 Corvette|Aérospatiale SN 601 Corvette|Corvette 601|Corvette|Corvette aircraft|SN601 Corvette,Q15056995,Q1062135|Q233132,Aérospatiale Corvette
+Braunschweig-class corvette,Corvette Evolution GT,Q5173452,8,0,2,2006 video game,Evolution GT,Q7889,,Corvette Evolution GT
+Braunschweig-class corvette,Corvette,Q4232702,8,0,2,series of personal home computers,Korvet,Q55990535,Q32738,Corvette (computer)
+Braunschweig-class corvette,Corvette Stingray,Q5173453,8,0,2,car,Stingray Corvette|Stingray|Corvette|Chevrolet Corvette Stingray Concept,Q850270,,Corvette Stingray (concept car)
+Braunschweig-class corvette,corvette captain,Q279704,8,0,2,Naval rank equivalent to lieutenant commander,,Q56019,Q19100,Corvette captain
+Braunschweig-class corvette,Corvette,Q3223550,8,0,2,scooter,,Q15081032,,
+Braunschweig-class corvette,corvette,Q11302810,8,0,2,,armored corvette|heavy corvette,,Q4698551,
+Braunschweig-class corvette,Sa'ar 5-class corvette,Q1060603,8,0,2,ship class,,Q559026,Q170013,Sa'ar 5-class corvette
+Braunschweig-class corvette,Descubierta-class corvette,Q1200558,8,0,2,series of corvettes built for the Spanish Navy,,Q559026,Q170013,Descubierta-class corvette
+Braunschweig-class corvette,Göteborg-class corvette,Q1559709,8,0,2,1989 class of Swedish corvettes,,Q559026,Q170013,Göteborg-class corvette
+Braunschweig-class corvette,Victory-class corvette,Q2260304,8,0,2,1988 class of Singaporean corvettes,,Q559026,Q170013,Victory-class corvette
+Braunschweig-class corvette,Sa'ar 4.5-class missile boat,Q2706860,8,0,2,Israeli missile boat,Saar 4.5 class missile boat,Q559026,Q843215|Q11446,Sa'ar 4.5-class missile boat
+Braunschweig-class corvette,Minerva-class corvette,Q180555,8,0,2,ship class,,Q559026,Q170013,Minerva-class corvette
+Braunschweig-class corvette,Pietro de Cristofaro-class corvette,Q3679447,8,0,2,,,Q559026,Q170013,
+Norasia-Fribourg-class container ship,Norasia-Fribourg-class container ship,Q15836981,9,0,1,,,Q559026,Q17210,
+Norasia-Fribourg-class container ship,container ship,Q17210,9,0,2,type of cargo ship,containership|container carrier|boxship,Q2235308,Q1866980,Container ship
+Norasia-Fribourg-class container ship,container shipping,Q57499112,9,0,2,,,Q29028649,Q3253150,Container shipping
+Norasia-Fribourg-class container ship,Contship Italia Group,Q25048818,9,0,2,Italian container terminal operator,Container Shipping,Q4830453,,Contship Italia Group
+Norasia-Fribourg-class container ship,"Container Ship in Rough Water, Sydney Harbour",Q119797902,9,0,2,"painting by Laurie Plant (b.1974), MOMA MACHYNLLETH",,Q3305213,,
+Norasia-Fribourg-class container ship,Container Shipping Market,Q135292156,9,0,2,,,Q1980247,,
+Norasia-Fribourg-class container ship,Container shipping system design considering the shipper’s choice inertia,Q120917093,9,0,2,,,Q13442814,,
+Norasia-Fribourg-class container ship,Container shipping in the Great Lakes: current situation and future potential,Q126813189,9,0,2,scholarly article,,Q13442814,,
+Norasia-Fribourg-class container ship,Container Ship Planning Optimization Using Intelligent Meta-heuristic Algorithms,Q125018048,9,0,2,scientific article published in 2022,,Q13442814,,
+Norasia-Fribourg-class container ship,ship class,Q559026,9,0,2,group of ships of a similar design,,,Q18758641,Ship class
+Norasia-Fribourg-class container ship,male Jote class,Q126175531,9,0,2,class of passenger vessel,"ship class ""male Jote""",Q559026,Q2055880,
+Norasia-Fribourg-class container ship,Ship Classification with High Resolution TerraSAR-X Imagery Based on Analytic Hierarchy Process,Q58923188,9,0,2,article published in 2013,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship Classification in High-Resolution SAR Images Using Deep Learning of Small Datasets,Q58766329,9,0,2,scholarly article by Yuanyuan Wang et al published 3 September 2018 in Sensors,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship classification using nonlinear features of radiated sound: an approach based on empirical mode decomposition,Q51677636,9,0,2,scientific article published in July 2010,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship Classification in High-Resolution SAR Images via Transfer Learning with Small Training Dataset,Q61455258,9,0,2,,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship Classification Based on Multifeature Ensemble with Convolutional Neural Network,Q128351319,9,0,2,scholarly article,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship Classification for Space-based AIS Data Using 1D-CNN,Q130955513,9,0,2,scientific article published on 02 January 2022,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship classification for unbalanced SAR dataset based on convolutional neural network,Q129414695,9,0,2,scholarly article,,Q13442814,,
+Norasia-Fribourg-class container ship,Ship Classification in Synthetic Aperture Radar Images Based on Multiple Classifiers Ensemble Learning and Automatic Identification System Data Transfer Learning,Q114882522,9,0,2,scientific article published in 2022,,Q13442814,,
+Marburg cargo ship,Marburg cargo ship,Q2462960,10,0,1,,,Q559026,Q105999,
+Schwalbe-class cruiser,Schwalbe-class cruiser,Q2252817,11,0,1,unprotected cruiser class of the German Imperial Navy,,Q559026,Q2493599,Schwalbe-class cruiser
+NedLloyd Tasman-class container ship,NedLloyd Tasman-class container ship,Q1440536,12,0,1,,,Q559026,Q17210,
+NedLloyd Tasman-class container ship,Nedlloyd,Q1974026,12,0,2,former Dutch shipping company,Nedlloyd Lijnen B.V.|Koninklijke Nedlloyd N.V.,Q1807108,,Nedlloyd
+NedLloyd Tasman-class container ship,MV Cape Knox,Q6719347,12,0,2,ship built in 1978,Nedlloyd Rouen|IMO 7715290,Q11446,,MV Cape Knox
+NedLloyd Tasman-class container ship,Nedlloyd Evita,Q83631757,12,0,2,container ship built in 2004,IMO 9286786|AS Pretonia|Rio Thompson|P&O Nedlloyd Evita,Q17210,,
+NedLloyd Tasman-class container ship,MSC Togo,Q88307036,12,0,2,containership built in 1980,Benattow|P&O Nedlloyd Los Angeles|IMO 7811484|Maersk Vungtau|Java Winds|Zeelandia|Nedlloyd Zeelandia,Q17210,,
+NedLloyd Tasman-class container ship,Nedlloyd Hongkong,Q92937786,12,0,2,container ship built in 1994,IMO 9001253,Q17210,,
+NedLloyd Tasman-class container ship,Nedlloyd Valentina,Q52353739,12,0,2,container ship built in 2004,IMO 9275062|P&O Nedlloyd Valentina|Cap Beatrice|Halley,Q17210,,
+NedLloyd Tasman-class container ship,Nedlloyd Hudson,Q52347133,12,0,2,container ship built in 2000,IMO 9189354,Q17210,,
+NedLloyd Tasman-class container ship,IMO 7222762,Q83645186,12,0,2,roll-on/roll-off ship built in 1972,Sea Corona|Rheinfels|Kotka Lily|Jalina|Finnrover|Seahorse|Dana Corona|Nedlloyd Rockanje|Antares,Q473932|Q15893266,,
+NedLloyd Tasman-class container ship,Nedlloyd Drake,Q52347178,12,0,2,container ship built in 2000,IMO 9189500,Q11446,,
+NedLloyd Tasman-class container ship,Saudi Falcon,Q52296606,12,0,2,cargo ship built in 1961,IMO 5328809|Simonskerk|Nedlloyd Simonskerk,Q11446,,
+SD18 cargo ship,SD18 cargo ship,Q2205625,13,0,1,designation of a type of cargo ship,SD-18|SD 18,Q559026,Q105999,SD18 (ship type)
+SD18 cargo ship,Keystone Adventures heliport,Q61724765,13,0,2,"heliport in South Dakota, United States",,Q502074,,
+SD18 cargo ship,EMD SD18,Q5323459,13,0,2,model of 1800 hp Co′Co′ American diesel locomotives,,Q19832486,Q19842071|Q13622547,EMD SD18
+SD18 cargo ship,SD18,Q16463422,13,0,2,Wikimedia disambiguation page,,Q4167410,,SD18
+Elbe-class replenishment ship,Elbe-class replenishment ship,Q2558231,14,0,1,1992 class of German replenishment oilers,Type 404 Elbe class replenishment ships,Q559026,Q162986,Elbe-class replenishment ship
+Elbe-class replenishment ship,replenishment ship,Q2518299,14,0,2,naval auxiliary vessel designed to resupply naval ships at sea,supply ship|naval supply ship|tender|combat logistics ship|military supply vessel,Q2235308,Q1286790,Replenishment ship
+Arklow R-class coaster,Arklow R-class coaster,Q47472661,15,0,1,Class of coasters,,Q559026,Q1797381,
+Arklow R-class coaster,Arklow R class,Q117816049,15,0,2,class of coasters,,Q2235308,Q1797381,
+Project 61 guided missile destroyer,Kashin-class guided missile destroyer,Q1734868,16,0,1,1960 class of Soviet anti-submarine destroyers,Project 61 guided missile destroyer,Q559026,Q2607934,Kashin-class destroyer
+Project 61 guided missile destroyer,Project 613 submarine,Q385734,16,0,2,1951 class of Soviet submarines,"Whiskey class|Projects 613, 644, and 665|Whiskey-class|Whiskey-class submarine",Q1428357,Q4818021,Whiskey-class submarine
+Project 61 guided missile destroyer,Zulu-class submarine,Q1153647,16,0,2,diesel electric attack submarine class,Zulu class|Project 611|Zulu,Q1428357,Q4818021,Zulu-class submarine
+Project 61 guided missile destroyer,Project 615 submarine,Q1626375,16,0,2,1952 class of Soviet diesel electric coastal submarines,Quebec-class submarine,Q1428357,Q4818021,Quebec-class submarine
+Project 61 guided missile destroyer,Project 61MP destroyer,Q58380180,16,0,2,1970s modification of Project 61 anti-submarine destroyers,Mod Kashin-class|Modified Kashin,Q559026,Q1734855,Mod Kashin-class destroyer
+Project 61 guided missile destroyer,Project 61M destroyer,Q1734855,16,0,2,1970s class of Soviet anti-submarine destroyers,modified Kashin-class destroyer,Q559026,Q174736,
+Project 61 guided missile destroyer,Orzeł-class fleet,Q105598055,16,0,2,Orzeł-class (Project 613) submarines in Polish service,Polish Orzeł-class fleet|Polish Project 613 fleet|Project 613 in Polish service|Polish Whiskey submarine fleet|Whiskey submarines in Polish service,Q63433199,,
+Project 61 guided missile destroyer,Soviet Project 613 fleet,Q105624135,16,0,2,Project 613 (Whiskey) submarines in Soviet Navy service,Project 613 in Soviet service,Q105596363,,
+Project 61 guided missile destroyer,Egyptian submarine fleet,Q105597287,16,0,2,submarines in service with Egypt's military,"submarines in Egyptian service|Egyptian Whiskey submarine fleet|Project 613 fleet, Egypt|Egyptian Project 613 fleet|submarine fleet, Egypt",Q105596363,,
+Project 61 guided missile destroyer,Albanian submarine fleet,Q63627474,16,0,2,submarines in service with Albania's naval forces,submarines in Albanian service|Albanian Project 613 fleet|Project 613 in Albanian service|Albanian Whiskey submarine fleet|Whiskey submarine in Albanian service,Q105596363,,
+Project 61 guided missile destroyer,guided missile destroyer,Q2607934,16,0,2,destroyer armed with missile systems as a primary weapon,"DDG|guided-missile destroyer|missile destroyer|destroyer, guided missile|destroyer, missile-armed|D",Q2235308,Q174736|Q106070741,Guided-missile destroyer
+Project 61 guided missile destroyer,Guided Missile Destroyer (DDG) General Files (NAID 45636419),Q64265158,16,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+C-Box-class container ship,C-Box-class container ship,Q1022280,17,0,1,,,Q559026,Q17210,
+C-Box-class container ship,container ship,Q17210,17,0,2,type of cargo ship,containership|container carrier|boxship,Q2235308,Q1866980,Container ship
+C-Box-class container ship,container shipping,Q57499112,17,0,2,,,Q29028649,Q3253150,Container shipping
+C-Box-class container ship,Contship Italia Group,Q25048818,17,0,2,Italian container terminal operator,Container Shipping,Q4830453,,Contship Italia Group
+C-Box-class container ship,"Container Ship in Rough Water, Sydney Harbour",Q119797902,17,0,2,"painting by Laurie Plant (b.1974), MOMA MACHYNLLETH",,Q3305213,,
+C-Box-class container ship,Container Shipping Market,Q135292156,17,0,2,,,Q1980247,,
+C-Box-class container ship,Container shipping system design considering the shipper’s choice inertia,Q120917093,17,0,2,,,Q13442814,,
+C-Box-class container ship,Container shipping in the Great Lakes: current situation and future potential,Q126813189,17,0,2,scholarly article,,Q13442814,,
+C-Box-class container ship,Container Ship Planning Optimization Using Intelligent Meta-heuristic Algorithms,Q125018048,17,0,2,scientific article published in 2022,,Q13442814,,
+Oktyabrskaya Revolyutsiya-class motorship,Oktyabrskaya Revolyutsiya-class motorship,Q1774242,18,0,1,,,Q559026,Q18916020,Oktyabrskaya Revolyutsiya-class motorship
+Ivan Rogov-class landing ship,Ivan Rogov-class landing ship,Q1285148,19,0,1,class of Soviet amphibious landing ships,Project 1174|Nosorog-class,Q559026,Q73618972,Ivan Rogov-class landing ship
+Ivan Rogov-class landing ship,Project 23900 amphibious assault ship,Q65083650,19,0,2,future class of Russian amphibious assault ship,Ivan Rogov class,Q559026|Q16214696,Q474748,Ivan Rogov-class amphibious assault ship
+Ivan Rogov-class landing ship,Ivan Rogov,Q4395483,19,0,2,Soviet politician (1899–1949),Ivan Vasil'evich Rogov,Q5,,Ivan Rogov
+Ivan Rogov-class landing ship,Ivan Rogov,Q123697119,19,0,2,Russian ice hockey player,,Q5,,
+Ivan Rogov-class landing ship,tank landing ship,Q11229656,19,0,2,landing ship designed for carrying armored vehicles and troops,"LST|landing ship, tank",Q2235308,Q106070850,"Landing Ship, Tank"
+Ivan Rogov-class landing ship,dock landing ship,Q431622,19,0,2,landing ship also capable of docking smaller landing craft,landing ship dock|LSD|landing ship,Q2235308,Q106070850|Q106070452,Dock landing ship
+Ivan Rogov-class landing ship,landing ship,Q106070850,19,0,2,amphibious warfare vessel capable of transporting amphibious forces from port of embarkation and directly land them on a beachhead,LS|amphibious landing ship,Q2235308,Q2300236|Q11446,
+Ivan Rogov-class landing ship,LST Mk. 1-class tank landing ship,Q1147577,19,0,2,class of British tank landing ships,"LST Mk. 1|LST Mark 1|LST (1)|LST Mk 1 class|LST Mk. 1 class|LST (1) class|Landing Ship, Tank Mark I|LST Mk. 1-class tank-landing ship",Q559026,Q11229656,
+Ivan Rogov-class landing ship,landing ship medium (rocket),Q6459968,19,0,2,,LSM(R)|Landing Ship Medium (Rocket),Q2235308,Q325884,
+Ivan Rogov-class landing ship,landing ship medium,Q325884,19,0,2,type of American amphibious assault ship,LSM|medium landing craft,Q2235308,Q474748|Q1088282,Landing Ship Medium
+Ivan Rogov-class landing ship,landing ship medium (transport),Q19754825,19,0,2,,,Q2235308,Q325884|Q671079,
+Ivan Rogov-class landing ship,LST Mk. 2-class tank-landing ship,Q21712063,19,0,2,1942 class of British tank landing ships,"LST Mk. 2|LST Mark 2|LST (2)|LST Mk 2 class|LST Mk. 2 class|LST (2) class|Landing Ship, Tank Mark II",Q559026,Q11229656,
+Ivan Rogov-class landing ship,landing ship logistics,Q6484609,19,0,2,UK navy terminology,,Q2235308,Q2300236|Q11446,Landing ship logistics
+Ivan Rogov-class landing ship,vehicle landing ship,Q60660224,19,0,2,amphibious landing ship designed carry vehicles,Landing Ship Vehicle|LSV,Q2235308,Q106070850,

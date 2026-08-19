@@ -1,0 +1,90 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+9C J1539+4217,9C J1539+4217,Q87197326,0,0,1,,,Q195385|Q221221|Q1931185|Q523,,
+2MASS J08120905+5717384,2MASS J08120905+5717384,Q90349529,1,0,1,,,Q195385|Q46587|Q318,,
+6C 000852+702833,6C 000852+702833,Q92643671,2,0,1,,,Q195385|Q1931185|Q523,,
+6C 000852+702833,satellite virus,Q611075,2,0,2,subviral agent composed of nucleic acid,satellite,Q16521,Q18576925,Satellite (biology)
+6C 000852+702833,Satellite,Q111682272,2,0,2,science fiction convention series held in Glasgow,Satellite (convention),Q15275719,Q1958056,
+6C 000852+702833,natural satellite,Q2537,2,0,2,celestial body that orbits a planet or other smaller body in turn directly orbiting a star,moon|satellite|secondary planet,Q17444909,Q1297322|Q3132741,Natural satellite
+6C 000852+702833,Satellite,Q156562,2,0,2,"song written and composed by Julie Frost and John Gordon, originally performed by Lena Meyer-Landrut at the 2010 Eurovision Song Contest",,Q105543609,,Satellite (Lena Meyer-Landrut song)
+6C 000852+702833,HMS Brave,Q21065336,2,0,2,1943 Algerine-class minesweeper,Satellite,Q202527,,HMS Brave (J305)
+6C 000852+702833,Satellite,Q19961373,2,0,2,2014 studio album by Sam Paganini,,Q482994,,Satellite (Sam Paganini album)
+6C 000852+702833,satellite,Q1297322,2,0,2,object in orbit around another object,,,Q15731960|Q3132741,
+6C 000852+702833,Satellite,Q122311739,2,0,2,2018 video game,,Q7889,,
+6C 000852+702833,Satellite,Q28162393,2,0,2,"lieu-dit in L'Île-d'Anticosti, Quebec, Canada",,Q181307,,
+6C 000852+702833,satellite imagery,Q725252,2,0,2,imagery of the Earth or another astronomical object taken from an artificial satellite,satellite photography|satellite view|imagery from space|view from space|photography from space|space view|space imagery|imagery from satellite|sat imagery|sat image|satellite image|satellite images|satellite photograph,Q3100808|Q2424752,Q10843872|Q11633,Satellite imagery
+6C 000852+702833,spacecraft,Q40218,2,0,2,vehicle or machine designed to fly in space,spaceship|space ship|space craft|space-ship|space-craft|orbital vehicle|space vessel,Q140424465|Q140172580,Q7194062|Q16391167|Q4235019,Spacecraft
+6C 000852+702833,SpaceCraft,Q131398384,2,0,2,video game,,Q7889|Q64170203,,
+6C 000852+702833,spacecraft cemetery,Q2031530,2,0,2,area in the southern Pacific Ocean where spacecraft have been routinely deposited,spacecraft graveyard|South Pacific Ocean Uninhabited Area,Q55637013|Q106690126,,Spacecraft cemetery
+6C 000852+702833,spacecraft commander,Q11077692,2,0,2,"astronaut/cosmonaut responsible for overall mission success, safety of crew and spacecraft, and maneuvering",commander|command pilot|mission commander|captain|spacecraft captain|space captain|space commander,Q4164871,Q11631|Q1146304|Q110996085,
+6C 000852+702833,spacecraft solar array,Q7556726,2,0,2,deployable solar cell panel on a spacecraft operating in the inner Solar System,solar panels on spacecraft|solar arrays on spacecraft|satellite solar panel|satellite solar array|spacecraft solar panel,,Q217941|Q5260670|Q111518433,Solar panels on spacecraft
+6C 000852+702833,space instrument,Q100349043,2,0,2,instrument deployed in space,spacecraft instrument|space instrumentation,,Q3099911|Q21211206,
+6C 000852+702833,spacecraft bus,Q372881,2,0,2,"general model on which multiple-production spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a spacecraft",satellite platform|satellite bus,,Q15607934|Q111518433,Satellite bus
+6C 000852+702833,spacecraft constellation,Q967145,2,0,2,group of spacecraft working together as a system,satellite constellation,Q994895,Q113255208,Satellite constellation
+6C 000852+702833,space launch,Q7572593,2,0,2,earliest phase of a flight that reaches space,spacecraft launch|spacelaunch,,Q854248|Q74026067,Space launch
+6C 000852+702833,spacecraft propulsion,Q609089,2,0,2,method used to accelerate spacecraft,in-space propulsion,,Q2583685,Spacecraft propulsion
+6C 000852+702833,satellite communication,Q2225985,2,0,2,method of communication utilizing an artificial satellite,,,Q11024|Q418|Q2858848,Satellite communication
+6C 000852+702833,"Satellite Communications Center, Medvezh'i Ozyora",Q4503997,2,0,2,,Bear Lakes Center|Satellite Communications Center Bear Lakes|SCC Bear Lakes,Q62832|Q2225985,,
+6C 000852+702833,Satellite communications station of Buitrago del Lozoya,Q28733142,2,0,2,,,Q1497375|Q1349167,,
+6C 000852+702833,satellite communications,Q110093910,2,0,2,field of research,,Q11862829,Q11024|Q2226016,
+6C 000852+702833,"Satellite communications: the political determination of technological development, 1961-1975",Q104726533,2,0,2,doctoral thesis by Edward Jay Wasserman,,Q187685,,
+6C 000852+702833,Satellite Communications Amendment Act 1988,Q56756557,2,0,2,"Act of the Parliament of Australia, currently registered as C2004A03721",,Q56731284,,
+6C 000852+702833,Satellite Communications Center in Dubna,Q4169312,2,0,2,,Dubna Space Communications Center,Q10379228,,
+6C 000852+702833,Satellite Communication Files (NAID 16439398),Q66281264,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+6C 000852+702833,Satellite communications with multiple classes of terrestrial terminal devices,Q124454232,2,0,2,US patent 11381304,,Q43305660,,
+6C 000852+702833,Satellite Communication Files (NAID 16439399),Q66281263,2,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+6C 000852+702833,space technology,Q211485,2,0,2,technology developed for use in space,,Q112057532,Q11016,Space technology
+6C 000852+702833,"Space technology (Oxford, England)",Q27714992,2,0,2,journal,Space Technol|Space technology,Q5633421,,
+6C 000852+702833,Space Technology 5,Q1454075,2,0,2,Experimental space technologies,,Q854845|Q95945728,,Space Technology 5
+6C 000852+702833,Space Technology Mission Directorate,Q108654529,2,0,2,NASA body supervising technology development,STMD|NASA Space Technology Mission Directorate,Q2659904,,
+6C 000852+702833,Space Technology Hall of Fame,Q7572521,2,0,2,hall of fame created by the Space Foundation with cooperation from NASA,,Q1046088,,Space Technology Hall of Fame
+6C 000852+702833,Space Technology: Industrial and Commercial Applications,Q96333825,2,0,2,,,Q5633421,,
+6C 000852+702833,Space Technology Research Vehicle,Q7572522,2,0,2,series of British microsatellites which operated in elliptical orbits around the Earth,,,,Space Technology Research Vehicle
+6C 000852+702833,Space Technology 6,Q7572520,2,0,2,,,,,Space Technology 6
+6C 000852+702833,Space Park,Q123302343,2,0,2,"aerospace engineering campus in California, United States",Space Technology Center,Q123302448,,Space Park
+6C 000852+702833,Space Technology and Applications International Forum,Q7572523,2,0,2,organization,,Q43229,,Space Technology and Applications International Forum
+7C 070112.19+450709.00,7C 070112.19+450709.00,Q77474044,3,0,1,,,Q195385|Q1931185,,
+87GB 170008.3+264707,87GB 170008.3+264707,Q93976094,4,0,1,,,Q195385|Q221221|Q1931185|Q523,,
+QSO B0829+047,QSO B0829+047,Q87800090,5,0,1,,,Q195385|Q221221|Q83373|Q1931185|Q71962386|Q46587,,
+QSO B0111+021,QSO B0111+021,Q93290777,6,0,1,,,Q195385|Q83373|Q46587|Q1931185|Q318,,
+4C 36.01,4C 36.01,Q84301391,7,0,1,,,Q195385|Q1931185|Q523,,
+2A 1058-226,1ES 1101-232,Q60786241,8,0,1,galactic nucleus in the Abell 1146 galaxy cluster,,Q195385|Q221221|Q83373|Q1931185|Q71962386|Q46587,,1ES 1101−232
+2A 1058-226,rocket engine,Q335225,8,0,2,non-air breathing jet engine used to propel a missile or vehicle,rocket motor,Q135841150,Q178777,Rocket engine
+2A 1058-226,Rocket Engineer,Q135045838,8,0,2,video game developed by Radian Interactive,,Q7889,,
+2A 1058-226,rocket engine test facility,Q1030411,8,0,2,"location where rocket engines may be tested on the ground, under controlled conditions",,,Q1703145,Rocket engine test facility
+2A 1058-226,rocket engine nozzle,Q1054585,8,0,2,type of propelling nozzle,rocket nozzle,,Q7250157,Rocket engine nozzle
+2A 1058-226,rocket science,Q1446961,8,0,2,science and engineering of rockets,rocketry|rocketscience|rocket engineering,Q11862829|Q2465832|Q4671286,Q3798668,Rocket engineering
+2A 1058-226,RD-253,Q1786759,8,0,2,liquid-fuel rocket engine,Rocket Engine 253,Q15057021,Q335225,RD-253
+2A 1058-226,Rocket Engine 10,Q4389308,8,0,2,Soviet experimental rocket engine,,,,
+2A 1058-226,Rocket Engine Test Facility,Q7355108,8,0,2,facility at Glenn Research Center,RETF,Q1030411,,Rocket Engine Test Facility
+2A 1058-226,Rocket Engine 09,Q4389306,8,0,2,Soviet experimental hybrid rocket engine,,,,
+2A 1058-226,Rocket engine turbopump with coolant passage in impeller central hub,Q140193859,8,0,2,US patent 11408375,,Q43305660,,
+2MASS J08535219+0204114,2MASS J08535219+0204114,Q93467669,9,0,1,,,Q195385|Q1931185|Q318,,
+4C 48.41,4C 48.41,Q85411569,10,0,1,,,Q195385|Q1931185|Q83373|Q46587|Q71962386|Q523,,
+4C 48.41,Fourth Cambridge Survey,Q3825701,10,0,2,astronomical catalogue of celestial radio sources,4C,Q605175|Q550089,,Fourth Cambridge Survey
+4C 48.41,4chan,Q238330,10,0,2,English-language imageboard website,4chan.org,Q984179,,4chan
+4C 48.41,4C-substituted flavan,Q108923394,10,0,2,class of chemical compounds,,Q47154513,Q56809586|Q108858998,
+4C 48.41,Melan-a 4C,Q98127226,10,0,2,cell line,4C,Q21014462|Q27555319,,
+4C 48.41,4C,Q51236384,10,0,2,episode of Person of Interest (S3 E13),,Q21191270,,4C (Person of Interest)
+4C 48.41,4c,Q2523584,10,0,2,color printing,process colour printing|four-colour process|four-colour printing,Q4361974,Q1396295,Four-color printing
+4C 48.41,4Co,Q108141691,10,0,2,indie video game developer,,Q210167,,
+4C 48.41,4C +37.11,Q1659853,10,0,2,galaxy,,Q1931185|Q2154519|Q213930,,4C +37.11
+4C 48.41,four color theorem,Q184410,10,0,2,statement in mathematics,four color map theorem|4CT,Q65943|Q1150675|Q9299950,,Four color theorem
+4C 48.41,4C,Q133865336,10,0,2,class of chemical compounds,,Q113145171,Q11173,4C (psychedelics)
+2MASS J12264425+0638533,2MASS J12264425+0638533,Q81856300,11,0,1,,,Q195385|Q71962386|Q523,,
+2FGL J0334.3-3728,2FGL J0334.3-3728,Q92875541,12,0,1,,,Q195385|Q71962386|Q1931185|Q221221|Q46587,,
+ICRF J224412.7+405713,ICRF J224412.7+405713,Q90364137,13,0,1,,,Q195385|Q1931185|Q83373|Q71962386|Q46587,,
+IK Aquarii,IK Aquarii,Q93739816,14,0,1,,QSO B2223-114,Q195385|Q83373|Q1931185|Q71798532,,
+IK Aquarii,Aquarius,Q10576,14,0,2,zodiac constellation straddling the celestial equator,Aqr,Q8928|Q4193029,,Aquarius (constellation)
+IK Aquarii,Aquarii (Pauly-Wissowa),Q19990853,14,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+IK Aquarii,Aquarii,Q4782744,14,0,2,ancient Christian sect,,Q19097,,Aquarii
+IK Aquarii,OYO 19860 Aquarii,Q111052479,14,0,2,"hotel in Goa, India",Aquarii,Q27686,,
+IK Aquarii,Aquarii,Q134631263,14,0,2,,,Q43229,,
+IK Aquarii,"Aquariibacter albus gen. nov., sp. nov., a new member of the order Burkholderiales, isolated from a freshwater aquarium",Q110531053,14,0,2,scientific article published in 2021,,Q13442814,,
+IK Aquarii,Aquariids,Q4782743,14,0,2,Wikimedia disambiguation page,,Q4167410,,Aquariids
+IK Aquarii,Aquariiden,Q59183329,14,0,2,Wikimedia disambiguation page,,Q4167410,,
+2MASS J01340171-5618454,2MASS J01340171-5618454,Q89129669,15,0,1,,,Q195385|Q71798532|Q1931185|Q523,,
+[ATZ98] A012,[ATZ98] A012,Q83479424,16,0,1,,,Q195385,,
+WISE J173507.92-621521.5,WISE J173507.92-621521.5,Q80981279,17,0,1,,,Q195385|Q1931185,,
+3FGL J1027.7+6316,3FGL J1027.7+6316,Q81974814,18,0,1,,[MML2015] 5BZB J1027+6317,Q221221|Q71962386|Q195385|Q1931185,,
+SWIFT J1153.9+5848,SWIFT J1153.9+5848,Q79210088,19,0,1,,,Q2154519|Q195385|Q71965429|Q1931185,,
+MASTER OT J223634.06-143322.3,MASTER OT J223634.06-143322.3,Q87031250,20,0,1,,,Q2680861|Q195385|Q221221|Q83373|Q1931185|Q46587|Q71962386|Q523,,

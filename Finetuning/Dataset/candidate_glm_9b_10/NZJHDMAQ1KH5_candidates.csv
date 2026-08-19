@@ -1,0 +1,135 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Pamukkale Üniversitesi Hastaneleri,Pamukkale Üniversitesi Hastaneleri,Q30254042,0,0,1,"healthcare organization in Denizli, Turkey",PH,Q4287745|Q7257872|Q1059324,,
+Uniklinik Köln,Uniklinik Köln,Q2494398,1,0,1,hospital,Cologne University Hospital|University Hospital of Cologne,Q1059324,,
+Uniklinik Köln,Uniklinik Köln,Q63441789,1,0,1,Tram stop in Cologne,,Q2175765,,
+Caritas-Hospital St. Josef Regensburg,Caritas-Hospital St. Josef Regensburg,Q1036322,2,0,1,hospital in Germany,,Q16917|Q1059324|Q828862,,
+Caritas-Hospital St. Josef Regensburg,St. Josef Hospital Beuel,Q137161804,2,0,2,"Regional hospital in Bonn, Germany",,Q16917,,
+Caritas-Hospital St. Josef Regensburg,St. Josef-Hospital Betten Betriebsgesellschaft,Q127412523,2,0,2,social institution based in Germany,,Q163740,,
+Caritas-Hospital St. Josef Regensburg,St. Josef-Hospital,Q28018261,2,0,2,,,Q4830453|Q16917,,
+Caritas-Hospital St. Josef Regensburg,St. Josef Hospital,Q44736480,2,0,2,hospital in Germany,,Q16917,,
+Caritas-Hospital St. Josef Regensburg,Catholic Clinic Bochum,Q1736451,2,0,2,"hospital network in Bochum, Germany",Katholisches Klinikum Bochum,Q1774587|Q163740,,
+Caritas-Hospital St. Josef Regensburg,St Josef Hospital,Q15129410,2,0,2,hospital in Germany,,Q16917|Q4287745,,
+Caritas-Hospital St. Josef Regensburg,St. Josef Hospital Troisdorf,Q137166228,2,0,2,,,Q16917,,
+Caritas-Hospital St. Josef Regensburg,Caritas Hospital,Q5039718,2,0,2,"hospital in Kerala, India",,Q16917,,Caritas Hospital
+Caritas-Hospital St. Josef Regensburg,Caritas Hospital in Sham Shui Po,Q106724043,2,0,2,Landscape sketches by Kong Kai Ming,,Q5078274|Q3305213,,
+Copenhagen University Hospital,Copenhagen University Hospital,Q5168500,3,0,1,hospital,,Q1059324,,Copenhagen University Hospital
+Copenhagen University Hospital,Gentofte Hospital,Q5533764,3,0,1,hospital in Denmark,Copenhagen University Hospital Gentofte,Q16917,,Gentofte Hospital
+Copenhagen University Hospital,Rigshospitalet,Q3357360,3,0,1,"hospital in Copenhagen, Denmark","Rigshospitalet, Denmark",Q16917|Q1813474|Q180370,,Rigshospitalet
+Copenhagen University Hospital,RH-SLC-L11,Q54950311,3,0,2,cell line,SLC-L11|RigsHospitalet-Squamous Lung Carcinoma-L11,Q21014462|Q23058136,,
+Copenhagen University Hospital,Rigshospitalets Kirke,Q11997820,3,0,2,"church building in Copenhagen Municipality, Denmark",,Q16970,,
+Copenhagen University Hospital,RH-SLC-L13,Q54950313,3,0,2,cell line,SLC-L13|RigsHospitalet-Squamous Lung Carcinoma-L11,Q21014462|Q23058136,,
+Copenhagen University Hospital,RH-L4,Q54950300,3,0,2,cell line,L4|RigsHospitalet-Lymphoma 4,Q21014462|Q23058136,,
+Copenhagen University Hospital,RH-SLC-L12,Q54950312,3,0,2,cell line,SLC-L12|RigsHospitalet-Squamous Lung Carcinoma-L11,Q21014462|Q23058136,,
+Copenhagen University Hospital,RH-SCC-L10,Q54950310,3,0,2,cell line,RigsHospitalet-Small Cell lung Carcinoma-L10,Q21014462|Q23058136,,
+Copenhagen University Hospital,Rigshospitalets Kollegium,Q12333475,3,0,2,,,Q3661265,,
+Copenhagen University Hospital,Rigshospitalet Act 1992,Q135920834,3,0,2,act of the Parliament of Denmark (1993–1994),,Q113627831,,
+Copenhagen University Hospital,Rigshospitalet Act 1980,Q135920864,3,0,2,act of the Parliament of Denmark (1981–1992),,Q113627831,,
+The University of Tokyo Hospital,The University of Tokyo Hospital,Q11524663,4,0,1,hospital in Japan,Todai Hospital|Tōdai Hospital|University of Tokyo Hospital,Q1059324,,University of Tokyo Hospital
+Inje University Haeundae Paik Hospital,Inje University Haeundae Paik Hospital,Q30253968,5,0,1,"healthcare organization in Busan, South Korea",,Q4287745|Q16917|Q1059324,,
+Inje University Haeundae Paik Hospital,Inje University,Q482659,5,0,2,"university in Gimhae, South Korea",,Q902104,,Inje University
+Inje University Haeundae Paik Hospital,Inje University Ilsan Paik Hospital,Q30253969,5,0,2,"healthcare organization in Goyang-si, South Korea",,Q4287745|Q1059324,,
+Inje University Haeundae Paik Hospital,Inje University Busan Paik Hospital,Q30253965,5,0,2,"healthcare organization in Busan, South Korea",,Q4287745|Q1059324,,
+Inje University Haeundae Paik Hospital,Inje University Sanggye Paik Hospital,Q30253967,5,0,2,"healthcare organization in Seoul, South Korea",Sanggye Paik Hospital,Q4287745|Q1059324,,
+Inje University Haeundae Paik Hospital,Inje University College of Medicine,Q99298764,5,0,2,medical school,,Q494230,,
+Inje University Haeundae Paik Hospital,Inje University Seoul Paik Hospital,Q16095004,5,0,2,"healthcare organization in Seoul, South Korea",Inje University Paik Hospital,Q4287745|Q1059324,,
+Inje University Haeundae Paik Hospital,Inje University - Busan Campus,Q99285418,5,0,2,campus,,Q209465,,
+Inje University Haeundae Paik Hospital,Inje University Station,Q4869289,5,0,2,"railway station operated by Busan–Gimhae Light Rail Transit in Gimhae, South Gyeongsang Province, South Korea",,Q55488|Q11670533|Q928830,,Inje University station
+Inje University Haeundae Paik Hospital,Inje University - Seoul Campus,Q100993126,5,0,2,campus,,Q209465,,
+Children's Hospital of Suzhou University,Children's Hospital of Suzhou University,Q15891560,6,0,1,hospital in China,,Q4287745|Q1059324|Q644264,,
+An-Najah National University Hospital,An-Najah National University Hospital,Q20423478,7,0,1,hospital,,Q1059324,,An-Najah National University Hospital
+Hospital Universitario de La Princesa,Hospital Universitario de La Princesa,Q5903033,8,0,1,hospital in Spain,Princess University Hospital,Q1059324|Q16917,,Hospital Universitario de la Princesa
+Hospital Universitario de La Princesa,"Hospital de la Princesa, calle de Diego de León, Madrid",Q29024890,8,0,1,,,Q39364723,,
+Hospital Universitario de La Princesa,"Hospital de la Princesa, paseo de Areneros, Madrid",Q29024873,8,0,2,building in Spain,,Q64578911,,
+Hospital Universitario de La Princesa,Hospital de la Princesa,Q115504178,8,0,2,"triangulation station in Madrid, Spain",,Q131862,,
+Ankara University Cebeci Hospital,Ankara University Cebeci Hospital,Q6026047,9,0,1,,,Q7257872|Q1059324,,
+Ankara University Cebeci Hospital,Ankara University,Q1060621,9,0,2,"state university in Ankara, Turkey",University of Ankara,Q875538|Q45400320,,Ankara University
+Ankara University Cebeci Hospital,Ankara University Faculty of Political Science,Q12808513,9,0,2,Turkish Science-Po School,SBF|S.B.F.,Q180958,,"Faculty of Political Science, Ankara University"
+Ankara University Cebeci Hospital,Ankara University Law School,Q4765985,9,0,2,faculty for law of the Ankara University in Turkey,Ankara Üniversitesi Hukuk Fakültesi,Q1321960,,"Ankara University, Law School"
+Ankara University Cebeci Hospital,Social Sciences University of Ankara,Q19610523,9,0,2,"state university in Ankara, Turkey",SSUA|Ankara University,Q875538,,Social Sciences University of Ankara
+Ankara University Cebeci Hospital,Ankara University Medical School,Q4765988,9,0,2,Faculty of Medicine of the University of Ankara,"Faculty of Medicine, University of Ankara",Q494230,,Ankara University Medical School
+Ankara University Cebeci Hospital,Ankara University Faculty of Language and History – Geography,Q6088281,9,0,2,faculty of Ankara University,"DTCF|Ankara University Faculty of Language, History and Geography|Ankara University School of Language and History – Geography|Faculty of Language, History and Geography, Ankara University|Faculty of Language and History – Geography, Ankara University|School of Language and History – Geography, Ankara University",Q180958,,School of Language and History – Geography
+Ankara University Cebeci Hospital,Ankara University Faculty of Veterinary Medicine,Q6075825,9,0,2,,,Q81755572,,Ankara University Faculty of Veterinary Medicine
+Ankara University Cebeci Hospital,Ankara University Faculty of Agriculture,Q6054734,9,0,2,,,Q180958,,
+Ankara University Cebeci Hospital,Ankara University Faculty of Divinity,Q38216496,9,0,2,faculty,,Q180958,,
+Ankara University Cebeci Hospital,Ankara University Faculty of Science,Q6103956,9,0,2,,,Q180958,,
+Hospital de Son Llàtzer,Hospital de Son Llàtzer,Q5903125,10,0,1,hospital in Spain,Hospital Universitari Son Llàtzer,Q7257872|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University Ilsan Paik Hospital,Q30253969,11,0,1,"healthcare organization in Goyang-si, South Korea",,Q4287745|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University,Q482659,11,0,2,"university in Gimhae, South Korea",,Q902104,,Inje University
+Inje University Ilsan Paik Hospital,Inje University Busan Paik Hospital,Q30253965,11,0,2,"healthcare organization in Busan, South Korea",,Q4287745|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University Sanggye Paik Hospital,Q30253967,11,0,2,"healthcare organization in Seoul, South Korea",Sanggye Paik Hospital,Q4287745|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University Haeundae Paik Hospital,Q30253968,11,0,2,"healthcare organization in Busan, South Korea",,Q4287745|Q16917|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University College of Medicine,Q99298764,11,0,2,medical school,,Q494230,,
+Inje University Ilsan Paik Hospital,Inje University Seoul Paik Hospital,Q16095004,11,0,2,"healthcare organization in Seoul, South Korea",Inje University Paik Hospital,Q4287745|Q1059324,,
+Inje University Ilsan Paik Hospital,Inje University - Busan Campus,Q99285418,11,0,2,campus,,Q209465,,
+Inje University Ilsan Paik Hospital,Inje University Station,Q4869289,11,0,2,"railway station operated by Busan–Gimhae Light Rail Transit in Gimhae, South Gyeongsang Province, South Korea",,Q55488|Q11670533|Q928830,,Inje University station
+Inje University Ilsan Paik Hospital,Inje University - Seoul Campus,Q100993126,11,0,2,campus,,Q209465,,
+Juntendo University Nerima Hospital,Juntendo University Nerima Hospital,Q11664446,12,0,1,hospital in Japan,,Q1059324,,
+Juntendo University Nerima Hospital,Juntendo University,Q3244340,12,0,2,"higher education institution in Chiba Prefecture, Japan",Juntendō Daigaku,Q902104,,Juntendo University
+Juntendo University Nerima Hospital,Juntendo University Hospital,Q11664449,12,0,2,hospital in Japan,,Q16917,,
+Juntendo University Nerima Hospital,Juntendo University Urayasu Hospital,Q11664445,12,0,2,"healthcare organization in Urayasu, Japan",,Q16917|Q4287745,,
+Juntendo University Nerima Hospital,Juntendo University Shizuoka Hospital,Q11664447,12,0,2,hospital in Japan,,Q16917,,
+Juntendo University Nerima Hospital,Juntendo University FC,Q22119001,12,0,2,Japanese college association football team,Juntendo University Football Club,Q15944511|Q18558301,,
+Juntendo University Nerima Hospital,JUNTENDODAIGAKUSAKURAKYAMPASUGAKUJUTSUMEDEIASENTA,Q113160061,12,0,2,academic library in Japan,Juntendo University Sakura Campus Academic Media Center,Q856234,,
+Juntendo University Nerima Hospital,Juntendo University MISHIMA Campus Library,Q113160422,12,0,2,,,Q856234,,
+Muğla State Hospital,Muğla State Hospital,Q6078898,13,0,1,,,Q7257872|Q1059324,,
+Prince of Wales Hospital,Prince of Wales Hospital,Q4116367,14,0,1,"hospital in Sha Tin, Hong Kong",,Q1059324|Q7257872,,Prince of Wales Hospital
+Prince of Wales Hospital,"Prince of Wales Hospital, Sydney",Q7244388,14,0,1,"hospital in New South Wales, Australia",,Q16917,,Prince of Wales Hospital (Sydney)
+Prince of Wales Hospital,Prince of Wales Hospital,Q85794531,14,0,1,former hospital in British India,,Q16917,,Prince of Wales Hospital (Benares)
+Prince of Wales Hospital,PWH-S1,Q54948719,14,0,1,cell line,PWH-SI|Prince of Wales Hospital-Squamous 1,Q21014462|Q23058136,,
+Prince of Wales Hospital,Prince of Wales Hospital Foundation,Q140351884,14,0,1,"nonprofit organization in Randwick, Australia",POWHF|Prince of Wales Hospital Foundation Ltd|The Prince of Wales Hospital Foundation|The Prince of Wales Hospital Foundation Limited,Q163740,,
+Prince of Wales Hospital,Prince of Wales Hospital: new psychiatric unit,Q77680041,14,0,1,scientific article published on 01 July 1977,,Q13442814,,
+Prince of Wales Hospital,Prince of Wales Hospital,Q7244389,14,0,1,Wikimedia disambiguation page,,Q4167410,,Prince of Wales Hospital (disambiguation)
+Panyananthapikhu Chonprathan Medical Centre,Panyananthapikhu Chonprathan Medical Centre,Q13021490,15,0,1,University hospital in Thailand,Panyananthapikhu Chonprathan Medical Centre Chonlaprathan|Panuanandabhikku Medical Centre|PCMC|Chonprathan Hospital,Q1059324|Q16917,,
+HRH Maha Chakri Sirindhorn Medical Centre,HRH Maha Chakri Sirindhorn Medical Centre,Q13021483,16,0,1,"teaching hospital in Nakhon Nayok Province, Thailand",MSMC Hospital|HRH Princess Maha Chakri Sirindhorn Medical Center Hospital,Q1059324|Q16917,,HRH Princess Maha Chakri Sirindhorn Medical Center
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University Samsung Changwon Hospital,Q110724282,17,0,1,,Samsung Changwon Hospital,Q1059324,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University,Q41085,17,0,2,"private university in Seoul and Suwon, South Korea",성균관대학교,Q902104,,Sungkyunkwan University
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University - Natural Sciences Campus,Q99285442,17,0,2,"campus of Sungkyunkwan University in Suwon, South Korea","Suwon Campus, Sungkyunkwan University|Sungkyunkwan University - Suwon Campus|Natural Sciences Campus, Sungkyunkwan University",Q209465,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University Station,Q137235,17,0,2,train station in South Korea,,Q55488|Q22808404|Q928830,,Sungkyunkwan University station
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University School of Medicine,Q99298801,17,0,2,medical school,,Q494230|Q45400320|Q180958,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University College of Pharmacy,Q99289586,17,0,2,campus,,Q10514115,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University Department of Chemistry,Q101013243,17,0,2,academic department,,Q2467461,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University School of Social Sciences,Q101013190,17,0,2,academic department,,Q2467461,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University College of Economics,Q101013028,17,0,2,faculty,,Q180958,,
+Sungkyunkwan University Samsung Changwon Hospital,Sungkyunkwan University Department of Sociology,Q101013187,17,0,2,academic department,,Q2467461,,
+Hôpital Ibn Sina-Rabat,Ibn Sina hospital center,Q30253994,18,0,1,"healthcare organization in Rabat, Morocco",CHIS|Hospital Center of Ibn Sina|Hôpital Ibn Sina-Rabat|Hospital Ibn Sina|CHU Ibn Sina,Q16917|Q1059324|Q121614922,,
+Hôpital Ibn Sina-Rabat,Ibn Sina Hospital,Q136444470,18,0,2,"Hospital in Rabat, Morocco",,Q16917,,
+Hôpital Ibn Sina-Rabat,Ibn Sina Hospital,Q5984266,18,0,2,"hospital in Baghdad, Iraq",,Q16917,,Ibn Sina Hospital
+Hôpital Ibn Sina-Rabat,Ibn Sina Hospital,Q30280070,18,0,2,"healthcare organization in Kuwait City, Kuwait",,Q4287745|Q16917,,
+Balıkesir University Faculty of Medicine,Balıkesir University Faculty of Medicine,Q6007647,19,0,1,,,Q180958|Q494230|Q1059324,,
+Balıkesir University Faculty of Medicine,Balıkesir University,Q4853224,19,0,2,"state university in Balıkesir, Turkey",Balikesir University|Balıkesir Üniversitesi,Q875538|Q45400320,,Balıkesir University
+Balıkesir University Faculty of Medicine,Balıkesir University School of Architecture,Q61072331,19,0,2,,,Q4671277,,
+Balıkesir University Faculty of Medicine,Balıkesir University School of Architecture,Q6052256,19,0,2,,,Q4671277,,
+Balıkesir University Faculty of Medicine,Balıkesir University School of Engineering,Q61072329,19,0,2,,,Q4671277,,
+Balıkesir University Faculty of Medicine,Balıkesir University School of Arts and Science,Q25476829,19,0,2,,,Q4671277,,
+Balıkesir University Faculty of Medicine,medical school,Q494230,19,0,2,"tertiary educational institution, or part of such an institution, that teaches medicine and awards a professional degree for physicians and surgeons",school of medicine|college of medicine|medical college|faculty of medicine|medical faculty|med school,Q112872396,Q141027297,Medical school
+Balıkesir University Faculty of Medicine,Faculty of Medicine,Q7396835,19,0,2,"medical school of Tel Aviv University, located in Tel Aviv, Israel","School of Medicine, Tel Aviv University|Sackler Faculty of Medicine",Q494230,,Gray Faculty of Medical and Health Sciences
+Balıkesir University Faculty of Medicine,Imperial College Faculty of Medicine,Q6006478,19,0,2,"faculty of medicine in London, UK","Faculty of Medicine, Imperial College London",Q494230,,"Faculty of Medicine, Imperial College London"
+Balıkesir University Faculty of Medicine,Faculty of Medicine of Montpellier,Q3298462,19,0,2,Montpellier's Faculty of Medicine,Universitas medicorum|faculty of Medicine at the University of Montpellier|Faculty of Medicine of Montpellier|Faculty of Medicine of Montpellier (1220-1794)|Faculty of Medicine of Montpellier (1808-1896)|Faculty of Medicine of Montpellier (1969-2014)|Faculty of Medicine of Montpellier (1896-1968),Q494230|Q19844914|Q3550804|Q35112127,,University of Montpellier School of Medicine
+Balıkesir University Faculty of Medicine,Faculty of Medicine,Q12308401,19,0,2,faculty at Aalborg University,"Aalborg University Faculty of Medicine|Faculty of Medicine, Aalborg University",Q180958,,
+Balıkesir University Faculty of Medicine,University of Jordan Faculty of Medicine,Q99298745,19,0,2,medical school,Faculty of Medicine,Q494230|Q180958,,
+Balıkesir University Faculty of Medicine,Faculty of Medicine,Q11965483,19,0,2,faculty at University of Bergen,,Q494230,,
+Balıkesir University Faculty of Medicine,Faculty of Medicine (University of Lille),Q16011209,19,0,2,French medical school,Faculté de médecine|faculty of medicine,Q4671277|Q494230,,Henri Warembourg Faculty of Medicine
+Balıkesir University Faculty of Medicine,Faculty of Medicine,Q6591784,19,0,2,,,Q180958|Q178706,,
+Balıkesir University Faculty of Medicine,"Faculty of Medicine, Santiago de Compostela",Q47788481,19,0,2,building in Santiago de Compostela,Faculty of Medicine,Q180958|Q494230,,
+Wonkwang University Sabon Hospital,Wonkwang University Sabon Hospital,Q85983355,20,0,1,"healthcare organization in Gunpo, South Korea",,Q1059324,,
+Wonkwang University Sabon Hospital,Wonkwang University,Q483656,20,0,2,"University in Iksan, South Korea",WKU,Q1971849|Q902104,,Wonkwang University
+Wonkwang University Sabon Hospital,Wonkwang University Medical Center,Q22974603,20,0,2,"healthcare organization in Iksan, South Korea",Wonkwang University Hospital,Q4287745,,
+Wonkwang University Sabon Hospital,Wonkwang University College of Medicine,Q99298779,20,0,2,medical school,,Q494230,,
+Wonkwang University Sabon Hospital,Wonkwang University College of Pharmacy,Q99289535,20,0,2,campus,,Q10514115,,
+Wonkwang University Sabon Hospital,Wonkwang University Department of Ophthalmology,Q101012999,20,0,2,academic department,,Q2467461,,
+Wonkwang University Sabon Hospital,Wonkwang University Law School,Q12609253,20,0,2,,,,,
+Wonkwang University Sabon Hospital,Wonkwang University Oriental Medical Hospital Jeonju,Q135398313,20,0,2,"healthcare organization in Jeonju, South Korea",,Q4287745,,
+Wonkwang University Sabon Hospital,Wonkwang University Gwangju Medical Center,Q135398187,20,0,2,"healthcare organization in Gwangju, South Korea",WKUGH,Q4287745,,
+Wonkwang University Sabon Hospital,Wonkwang University Daejeon Dental Hospital,Q135398281,20,0,2,"healthcare organization in Daejeon, South Korea",,Q4287745,,
+Hospital Rafael Méndez de Lorca,Hospital Rafael Méndez de Lorca,Q5902835,21,0,1,hospital in Spain,Hospital Rafael Mendez de Lorca,Q1059324|Q16917,,
+Hospital Rafael Méndez de Lorca,Rafael Méndez,Q2697408,21,0,2,Bolivian footballer (1904-1982),Rafael Mendez,Q5,,Rafael Méndez (footballer)
+Hospital Rafael Méndez de Lorca,Rafael Méndez Martínez,Q6097736,21,0,2,Spanish cardiologist and pharmacologist (1906-1991),Rafael Mendez Martinez,Q5,,
+Hospital Rafael Méndez de Lorca,Rafael Méndez Arceo,Q510215,21,0,2,Mexican musician (1906-1981),Rafael Mendez Arceo,Q5,,Rafael Méndez
+Hospital Rafael Méndez de Lorca,Rafael Mendez,Q41783903,21,0,2,researcher,Rafael Mendez-Roman,Q5,,
+Hospital Rafael Méndez de Lorca,Rafael Méndez,Q9065846,21,0,2,Wikimedia disambiguation page,Rafael Mendez,Q22808320,,
+Hospital Rafael Méndez de Lorca,Rafael Méndez Ruiz,Q119909104,21,0,2,Spanish padel player,,Q5,,
+Hospital Rafael Méndez de Lorca,Rafael Méndez Ortiz,Q105353739,21,0,2,Spanish archaeologist,,Q5,,
+Hospital Rafael Méndez de Lorca,José Rafael Méndez Méndez,Q5944831,21,0,2,Spanish comics artist,Jose Rafael Mendez Mendez,Q5,,
+Hospital Clínico Universitario de Valladolid,Hospital Clínico Universitario de Valladolid,Q5902588,22,0,1,hospital in Spain,,Q1059324|Q16917,,
+university hospital center of Liège,university hospital center of Liège,Q2945766,23,0,1,Belgian care and education center,CHU de Liège|CHU,Q1059324,,
+Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi,Dışkapı Yıldırım Beyazıt Eğitim ve Araştırma Hastanesi,Q30279698,24,0,1,"healthcare organization in Ankara, Turkey",,Q4287745|Q7257872|Q1059324,,

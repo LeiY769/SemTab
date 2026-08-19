@@ -1,0 +1,7 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+barium-131,barium-131,Q18881719,0,0,1,isotope of barium,Ba-131|131Ba,Q2555200,Q1112,Barium-131
+barium-131,barium-131m,Q18881720,0,0,1,isotope of barium,Ba-131m|131mBa,Q846110|Q2555200,Q1112,
+barium-131,Barium 131--a new nuclide for bone scintigraphy. First clinical results,Q69426018,0,0,1,scientific article published on 01 January 1972,,Q13442814,,
+barium-127,barium-127,Q18881711,1,0,1,isotope of barium,Ba-127|127Ba,Q2555200,Q1112,Barium-127
+barium-127,barium-127m,Q18881712,1,0,1,isotope of barium,Ba-127m|127mBa,Q846110|Q2555200,Q1112,
+barium-127,isotope of barium,Q2555200,1,0,2,,,,Q25276,Isotopes of barium

@@ -1,0 +1,511 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+fresco,Fresco,Q16870024,0,0,1,family name,Fresco (surname),Q101352,,Fresco (surname)
+fresco,fresco painting,Q134194,0,0,1,technique of mural painting executed upon freshly laid lime plaster,frescos|frescoes|fresco,Q1231896,Q118495704,Fresco
+fresco,Fresco,Q680491,0,0,1,2010 board game,,Q131436,,Fresco (board game)
+fresco,fresco,Q22669139,0,0,1,artwork produced via the fresco painting technique,frescos|frescoes|fresco painting,Q2695280|Q116474095,Q99516640,
+fresco,fresco,Q25631150,0,0,1,type of paint,fresco paint,Q3300034,Q174219,
+fresco,Mikoyan-Gurevich MiG-17,Q152976,0,0,1,1950 fighter aircraft family,Fresco|Mikoyan MiG-17|Mikoyan-Gurevich Fresco|MiG-17,Q15056993,Q782885|Q2125613|Q135214932,Mikoyan-Gurevich MiG-17
+fresco,The Last Judgment,Q567861,0,0,1,fresco by Michelangelo in the Sistine Chapel,"Sistine Chapel Altar Wall|Fresco|The Last Judgment (Fresco, Sistine Chapel Altar Wall)|Michelangelo Buonarroti, 1475-1564. Michelangelo, la Cappella Sistina",Q22669139,,The Last Judgment (Michelangelo)
+fresco,Shenyang J-5,Q3238292,0,0,1,fighter aircraft family,Dongfeng-101|Type 56|Fresco|East Wind 101|Shenyang Dongfeng-101|J-5,Q15056993,Q152976,Shenyang J-5
+fresco,Frescobaldi,Q45098629,0,0,1,family name,,Q101352,,
+fresco,Fresco,Q3087520,0,0,1,"commune in Bas-Sassandra, Ivory Coast",Koyéré|Koyiri,Q2679157,,"Fresco, Ivory Coast"
+fresco,wall painting,Q99516640,0,0,2,painted decoration or scene applied to a prepared wall or ceiling surface,mural painting|wall-painting,,Q219423|Q838948,
+fresco,mural artistry,Q11775216,0,0,2,art or activity of composing and executing painted decorations or scenes that dominate a wall or ceiling surface,wall painting|art of mural painting|mural art,Q1792379,Q11629|Q12627257,
+fresco,Wall Painting,Q57583570,0,0,2,mural by Avraham Ofek,,Q219423,,
+fresco,Wall Painting,Q56702650,0,0,2,sculpture by Emanuel Sela (Blaustein) ( 467697),,Q860861,,
+fresco,Wall Painting,Q56696181,0,0,2,sculpture by Emanuel Sela (Blaustein),,Q860861,,
+fresco,Wall painting,Q52148265,0,0,2,painting by John Hungerford Pollen,,Q3305213,,
+fresco,Wall painting,Q78719548,0,0,2,painting by anonymous painter,,Q3305213,,
+fresco,Wall painting,Q78860908,0,0,2,painting by anonymous painter (MET 25.222.11),,Q3305213,,
+fresco,wall painting,Q115675693,0,0,2,,,Q3305213,,
+fresco,Wall Painting,Q56760636,0,0,2,book chapter published in A Companion to Roman Art,,Q21481766,,
+fresco,work of art,Q838948,0,0,2,aesthetic item or artistic creation of aesthetic value,artwork|piece of art|art work|art object|art piece|artistic work|art|artworks|art works|artistic works|art objects,Q151885|Q139243747|Q133449656,Q17537576|Q2424752|Q2342494|Q115923123|Q8205328|Q16686448,Work of art
+fresco,work,Q386724,0,0,2,intellectual or artistic creation,creation|artwork,,Q16686448|Q1791627,
+fresco,Artwork,Q2667810,0,0,2,2009 album by The Used,,Q482994,,Artwork (album)
+fresco,artwork series,Q15709879,0,0,2,thematic group of an artist's works,series of works of art|series of artworks|art series,Q140354053,Q7725310|Q18593264|Q66661745,
+fresco,Artwork,Q4801835,0,0,2,drawing used in various processes to transfer an image onto a substrate,,,,Artwork (graphic arts)
+fresco,prime version,Q17152495,0,0,2,first produced work of art in a number of versions,original version|original|master copy|artwork original version|original work,Q71533077,Q838948|Q65718572|Q17537576,Prime version
+fresco,art genre,Q1792379,0,0,2,"form of art in terms of a medium, format or theme",art form|genre of art|arts genre|artwork genre,Q19478619,Q483394,
+fresco,artwork copy,Q1784021,0,0,2,faithful reproduction of an artwork,art reproduction|reproduced art|reproduced art work|reproduced artwork|reproduction of art|copy|replica|reproduction,,Q838948|Q836950|Q1232589,
+fresco,Artwork,Q2603887,0,0,2,artist,DJ Artwork,Q5,,
+fresco,list of claims for restitution for Nazi-looted art,Q1864251,0,0,2,Wikimedia list article,Restitution cases|Nazi era restitution cases|artworks that have been the object of restitution claims linked to Nazi persecution of Jews,Q13406463,,List of claims for restitution for Nazi-looted art
+wall painting,wall painting,Q99516640,0,1,1,painted decoration or scene applied to a prepared wall or ceiling surface,mural painting|wall-painting,,Q219423|Q838948,
+wall painting,mural artistry,Q11775216,0,1,1,art or activity of composing and executing painted decorations or scenes that dominate a wall or ceiling surface,wall painting|art of mural painting|mural art,Q1792379,Q11629|Q12627257,
+wall painting,Wall Painting,Q57583570,0,1,1,mural by Avraham Ofek,,Q219423,,
+wall painting,Wall Painting,Q56702650,0,1,1,sculpture by Emanuel Sela (Blaustein) ( 467697),,Q860861,,
+wall painting,Wall Painting,Q56696181,0,1,1,sculpture by Emanuel Sela (Blaustein),,Q860861,,
+wall painting,Wall painting,Q52148265,0,1,1,painting by John Hungerford Pollen,,Q3305213,,
+wall painting,Wall painting,Q78719548,0,1,1,painting by anonymous painter,,Q3305213,,
+wall painting,Wall painting,Q78860908,0,1,1,painting by anonymous painter (MET 25.222.11),,Q3305213,,
+wall painting,wall painting,Q115675693,0,1,1,,,Q3305213,,
+wall painting,Wall Painting,Q56760636,0,1,1,book chapter published in A Companion to Roman Art,,Q21481766,,
+wall painting,Fresco,Q16870024,0,1,2,family name,Fresco (surname),Q101352,,Fresco (surname)
+wall painting,fresco painting,Q134194,0,1,2,technique of mural painting executed upon freshly laid lime plaster,frescos|frescoes|fresco,Q1231896,Q118495704,Fresco
+wall painting,Fresco,Q680491,0,1,2,2010 board game,,Q131436,,Fresco (board game)
+wall painting,fresco,Q22669139,0,1,2,artwork produced via the fresco painting technique,frescos|frescoes|fresco painting,Q2695280|Q116474095,Q99516640,
+wall painting,fresco,Q25631150,0,1,2,type of paint,fresco paint,Q3300034,Q174219,
+wall painting,Mikoyan-Gurevich MiG-17,Q152976,0,1,2,1950 fighter aircraft family,Fresco|Mikoyan MiG-17|Mikoyan-Gurevich Fresco|MiG-17,Q15056993,Q782885|Q2125613|Q135214932,Mikoyan-Gurevich MiG-17
+wall painting,The Last Judgment,Q567861,0,1,2,fresco by Michelangelo in the Sistine Chapel,"Sistine Chapel Altar Wall|Fresco|The Last Judgment (Fresco, Sistine Chapel Altar Wall)|Michelangelo Buonarroti, 1475-1564. Michelangelo, la Cappella Sistina",Q22669139,,The Last Judgment (Michelangelo)
+wall painting,Shenyang J-5,Q3238292,0,1,2,fighter aircraft family,Dongfeng-101|Type 56|Fresco|East Wind 101|Shenyang Dongfeng-101|J-5,Q15056993,Q152976,Shenyang J-5
+wall painting,Frescobaldi,Q45098629,0,1,2,family name,,Q101352,,
+wall painting,Fresco,Q3087520,0,1,2,"commune in Bas-Sassandra, Ivory Coast",Koyéré|Koyiri,Q2679157,,"Fresco, Ivory Coast"
+lacquering,lacquering,Q10396786,1,0,1,lacquerware making,칠장,Q11177771|Q2207288,Q53178539,
+lacquering,lacquering,Q104359653,1,0,1,coating the surface of something with lacquer,lacquering|lacquer,Q877729|Q2207288|Q2695280,Q54834134|Q1570182|Q91791919,
+lacquering,varnishing,Q116771298,1,0,2,"process of applying transparent, hard, protective finish or film",,Q11177771,,
+lacquering,varnishing cubicle,Q2932314,1,0,2,protective work area,,Q13226383,Q17334923,
+lacquering,varnishing day,Q138007243,1,0,2,,,Q205892,,
+lacquering,Varnishing Cavities,Q91488699,1,0,2,scientific article published on 01 July 1897,,Q13442814,,
+painting,painting,Q3305213,1,1,1,"visual artwork, surface artistically covered with paint",paintings|painting (object),Q116474095,Q110304307|Q8205328|Q838948,Painting (object)
+painting,painting,Q11629,1,1,1,"practice of applying paint, pigment, color or other medium to a surface",art of painting|to paint,Q1799072|Q56055944|Q47728,Q1914636|Q36649,Painting
+painting,oil paint,Q296955,1,1,1,type of slow-drying paint that consists of particles of pigment suspended in a drying oil,oil-based paint|painting oil|oil based paint|medium oil|oils|oil color|oil colour|oil colors|oil colours,,Q174219|Q3300034,Oil paint
+painting,painting support,Q861259,1,1,1,"material which forms the surface on which a painting of picture is applicated, for example canvas or paper",painting surface|support|art support|drawing support,,Q33123524|Q3300034|Q15303351|Q113518695,Support (art)
+painting,Paintings of the nineteenth century: contribution to the history of art,Q72628185,1,1,1,"German book series by Friedrich von Boetticher, 1891–1901, Wikisource project (2022–2024)",,Q3331189|Q16695773|Q18168594,,
+painting,oil painting,Q174705,1,1,1,process of painting with pigments that are bound with a medium of drying oil,painting in oils|oil,Q1231896,Q11629,Oil painting
+painting,painting,Q3374341,1,1,1,application of paint to a surface primarily for protection or to apply a general color,,,Q1914636,
+painting,painting by this artist,Q29048021,1,1,1,Wikidata metaclass,,Q19478619,Q3305213,
+painting,artistic theme,Q1406161,1,1,1,theme or subject in a work of art,theme|artistic subject|painting theme|painting subject|art theme|Aihe|motif|artistic motif|art motif,Q19478619,Q20742825|Q123139280,Theme (arts)
+painting,painting series,Q15727816,1,1,1,"thematic group of paintings, often by a single artist",series of paintings,Q56055944,Q18573970|Q15709879,
+painting,work of art,Q838948,1,1,2,aesthetic item or artistic creation of aesthetic value,artwork|piece of art|art work|art object|art piece|artistic work|art|artworks|art works|artistic works|art objects,Q151885|Q139243747|Q133449656,Q17537576|Q2424752|Q2342494|Q115923123|Q8205328|Q16686448,Work of art
+painting,work,Q386724,1,1,2,intellectual or artistic creation,creation|artwork,,Q16686448|Q1791627,
+painting,Artwork,Q2667810,1,1,2,2009 album by The Used,,Q482994,,Artwork (album)
+painting,artwork series,Q15709879,1,1,2,thematic group of an artist's works,series of works of art|series of artworks|art series,Q140354053,Q7725310|Q18593264|Q66661745,
+painting,Artwork,Q4801835,1,1,2,drawing used in various processes to transfer an image onto a substrate,,,,Artwork (graphic arts)
+painting,prime version,Q17152495,1,1,2,first produced work of art in a number of versions,original version|original|master copy|artwork original version|original work,Q71533077,Q838948|Q65718572|Q17537576,Prime version
+painting,art genre,Q1792379,1,1,2,"form of art in terms of a medium, format or theme",art form|genre of art|arts genre|artwork genre,Q19478619,Q483394,
+painting,artwork copy,Q1784021,1,1,2,faithful reproduction of an artwork,art reproduction|reproduced art|reproduced art work|reproduced artwork|reproduction of art|copy|replica|reproduction,,Q838948|Q836950|Q1232589,
+painting,Artwork,Q2603887,1,1,2,artist,DJ Artwork,Q5,,
+painting,list of claims for restitution for Nazi-looted art,Q1864251,1,1,2,Wikimedia list article,Restitution cases|Nazi era restitution cases|artworks that have been the object of restitution claims linked to Nazi persecution of Jews,Q13406463,,List of claims for restitution for Nazi-looted art
+painting,Seated male nude by William Etty,Q132255349,1,1,2,Seated male nude sketch by William Etty,painting-art-william-etty-nude,Q6791777,,
+painting,visual arts,Q36649,1,1,2,practice of art which creates works that are primarily visual in nature,visual art|fine arts|fine art,Q56055944|Q4671286|Q11862829|Q1792379|Q3958441|Q627436,Q735|Q838948,Visual arts
+painting,visual artist,Q3391743,1,1,2,artist involved with the visual arts,artist|fine artist,Q88789639|Q108300140,Q108289408|Q2500638,Visual artist
+painting,art exhibition,Q667276,1,1,2,organized presentation and display of works of art,exhibition|art show|visual arts exhibition|arts exhibition,,Q464980,Art exhibition
+painting,visual artwork,Q4502142,1,1,2,work of art that is primarily visual,art image|work of visual art,,Q838948|Q110910970|Q2342494,
+painting,Visual Arts,Q1148541,1,1,2,Japanese video game publisher,Visual Art's|Visual Artist Office|VisualArt's,Q1137109,,Visual Arts (company)
+painting,art,Q42314818,1,1,2,abbreviation for visual or fine art,visual art|fine art,,Q861716,
+painting,art style,Q1792644,1,1,2,"classification of artwork, based on how it is perceived by the audience, specific to an artist, or shared with other works of the same movement or school",visual style|style|style of art|style (art)|visual art style|style in visual art|artistic style|style in art|artstyle,Q19478619,Q1792379|Q1292119,Style (visual arts)
+painting,visual art education,Q1757598,1,1,2,teaching related to the visual arts,arts education|art education|art pedagogy,Q108161738|Q11862829|Q4671286|Q1047113|Q2267705,Q352842|Q8434,Visual arts education
+painting,visual arts award,Q1792571,1,1,2,award in visual and/or applied art,art award|visual arts prize|art prize,Q107467117,Q15383322,
+painting,plastic artist,Q98552221,1,1,2,practitioner of plastic arts,plastician|visual artist,Q88789639,Q3391743,Plastic artist
+repopulation,repopulation,Q6105831,2,0,1,act of settling a territory previously populated,,,Q815962,
+repopulation,repopulation,Q25091543,2,0,1,phenomenon of increasing the numerical size of human inhabitants or organisms of a particular species after they had almost gone extinct,,Q151885|Q3249551,,Repopulation
+repopulation,repopulation,Q1750771,2,0,1,"ecological restoration method, targeted return of a species to a habitat",,Q2695280,,
+repopulation,Repopulation of wolves in Midwestern United States,Q106959519,2,0,1,natural resettlement of wolves into Midwestern United States,,,,Repopulation of wolves in Midwestern United States
+repopulation,Repopulation of wolves in Colorado,Q107694898,2,0,1,natural resettlement of wolves into Colorado,,,,Repopulation of wolves in Colorado
+repopulation,repopulation of Sichuan,Q5974281,2,0,1,,Hu-Guang filling Sichuan,,,
+repopulation,Repopulation of wolves in California,Q57775052,2,0,1,Natural resettlement of wolves into California,,,,Repopulation of wolves in California
+repopulation,Repopulation of cancer cells during therapy: an important cause of treatment failure,Q36167592,2,0,1,scientific article,,Q13442814,,
+repopulation,Repopulation of mouse liver with human hepatocytes and in vivo infection with hepatitis B virus,Q45737926,2,0,1,scientific article published in April 2001,,Q13442814,,
+repopulation,Repopulation of decellularized mouse heart with human induced pluripotent stem cell-derived cardiovascular progenitor cells,Q34363778,2,0,1,scientific article,,Q13442814,,
+SCOPE,Scope,Q12334769,3,0,1,Danish film portal,Scope.dk,Q35127|Q1414426|Q3491832|Q7094076|Q4830453,,
+SCOPE,Scope,Q21475295,3,0,1,family name,,Q101352,,
+SCOPE,project scope,Q472160,3,0,1,"in project management, the features and functions of a product or the scope of work needed to finish a project",scope management|scope|scope of a project|project's scope,Q96253971,Q937228,Scope (project management)
+SCOPE,property scope constraint,Q53869507,3,0,1,"constraint to define the scope of the property (as main property, as qualifier, as reference, or combination). Qualify with ""property scope"" (P5314)",scope constraint|scope of property,,Q21502402,
+SCOPE,oscilloscope,Q174320,3,0,1,Used for measuring waves,scope|CRO|DSO|O-scope,Q63981612,Q2041172|Q2858615|Q2425052,Oscilloscope
+SCOPE,scope sight,Q198982,3,0,1,"sighting device for firearms, with either fixed or variable magnification.",scope|telescopic sight,,Q1751850|Q1134322,Telescopic sight
+SCOPE,Scopelus,Q107270271,3,0,1,genus of fishes,,Q16521,,
+SCOPE,scope,Q1034415,3,0,1,region of a computer program where a name binding is valid,lexical scope|context|variable scope|programming scope|scope of a name|scope of a variable,Q4897819,Q128751|Q88392887,Scope (computer programming)
+SCOPE,Scopelodes,Q13847358,3,0,1,genus of insects,,Q16521,,
+SCOPE,Pearleye,Q1501875,3,0,1,family of fishes,Scopelarchidae,Q16521,,Pearleye
+SCOPE,Scope of work of dentists and dental assistants,Q40552403,3,0,2,"scientific article published on August 1, 1978",,Q13442814,,
+SCOPE,Scope of work and workload rates of phthisiologists at regional antitubercular dispensaries,Q53920584,3,0,2,"scientific article published on January 1, 1973",,Q13442814,,
+SCOPE,Scope of work in nursing care in a burn center,Q70825775,3,0,2,scientific article published on 01 March 1983,,Q13442814,,
+Ferro-Gallic print,Ferro-Gallic print,Q96882631,4,0,1,print produced by the Ferro-Gallic printing process,,,Q1784021|Q49848|Q11060274,
+Ferro-Gallic print,Ferro-Gallic print,Q85620678,4,0,1,"an iron process largely used for reproducing technical drawings; produces an image in black, the image is developed out with gallic acid and is fixed by washing in water",ferrogallic process|blackline process|black-line process|ferrogallic|ferro-gallic process|ferro-tannic|Iron gall print,Q2695280,,
+mounting,mounting,Q44103097,5,0,1,"process of attaching any sort of item to a stiff support, such as paper to board or lab specimens to a slide",,Q2695280,Q44103811,
+mounting,mounting,Q14713,5,0,1,activation of a filesystem instance so that the files it contains are available to applications,mount|mounted|filesystem mount|mounting a filesystem,Q116505632,Q1914636|Q12819913|Q230629|Q1079196,Mount (computing)
+mounting,mounting,Q15784401,5,0,1,act of getting on a mount,bestriding|bestride|mount,,Q1914636,
+mounting,engaging,Q30974334,5,0,1,procedure,mounting|assembly|installation|assemblage|setting-up|rigging|construction|commissioning,,Q1914636,
+mounting,mounting block,Q6925799,5,0,1,raised platform for mounting and dismounting a horse or vehicle,horse block|carriage stone|carriage block|horse steps|horse mounting block|mounting steps,,Q13397636|Q811979,Mounting block
+mounting,mounting,Q1280253,5,0,1,incorporating cream or butter into a mixture using a whisk,,,Q379697,
+mounting,Mounting,Q78090993,5,0,1,artwork by Richard Greene,,Q18761202,,
+mounting,Mounting,Q103959011,5,0,1,encyclopedia article,,Q13433827,,
+mounting,Mounting,Q123324447,5,0,1,US patent 11337500,,Q43305660,,
+mounting,angle of incidence,Q20180457,5,0,1,angle between the chord of the wing and the longitudinal axis of the fuselage,mounting angle|angle of incidence(aerodynamics),,Q11352,Angle of incidence (aerodynamics)
+mounting,stabilisation,Q44103811,5,0,2,"general process of making stable, or maintaining stability of, any object, with specific meanings in various fields of endeavor",stabilising|stabilizing|stabilization,,Q2695280|Q7251376|Q104637332,
+mounting,stabilization,Q7595734,5,0,2,"in architecture, retrofitting of platforms or foundations as constructed to improve the bearing capacity and levelness of the supported building.",stabilizing,,Q44103811,Stabilization (architecture)
+mounting,stabilization,Q7595735,5,0,2,"in medicine, process to help prevent shock in sick or injured people",stabilizing,,Q44103811|Q796194,Stabilization (medicine)
+mounting,Stabilizing Dynamics,Q140120828,5,0,2,monograph published by Cambridge University Press (1991),,Q193495,,
+mounting,Stabilizing selection,Q4529558,5,0,2,type of selection in evolution where a trait stabilizes around the average value,,,,Stabilizing selection
+mounting,Stabilizing Force Party,Q30948170,5,0,2,political party in Taiwan,,Q7278,,
+mounting,Stabilizing Degenerate Dopants in Colloidal Semiconductor Nanocrystals,Q111076124,5,0,2,"doctoral dissertation by Kimberly H Hartstein, Chemistry, University of Washington, 2018",,Q187685|Q47461344,,
+mounting,Stabilizing the Closed SARS-CoV-2 Spike Trimer,Q106626802,5,0,2,scientific article,,Q580922,,
+mounting,Stabilizing winding,Q778882,5,0,2,"Additional winding of three strands on a three-phase transformer, which enables symmetrical magnetization of the three legs of the transformer even under unfavourable operating conditions",,,,
+mounting,Stabilizing the Dollar,Q19055028,5,0,2,1920 edition of work by Irving Fisher,,Q3331189,,
+stabilizing,stabilisation,Q44103811,5,1,1,"general process of making stable, or maintaining stability of, any object, with specific meanings in various fields of endeavor",stabilising|stabilizing|stabilization,,Q2695280|Q7251376|Q104637332,
+stabilizing,stabilization,Q7595734,5,1,1,"in architecture, retrofitting of platforms or foundations as constructed to improve the bearing capacity and levelness of the supported building.",stabilizing,,Q44103811,Stabilization (architecture)
+stabilizing,stabilization,Q7595735,5,1,1,"in medicine, process to help prevent shock in sick or injured people",stabilizing,,Q44103811|Q796194,Stabilization (medicine)
+stabilizing,Stabilizing Dynamics,Q140120828,5,1,1,monograph published by Cambridge University Press (1991),,Q193495,,
+stabilizing,Stabilizing selection,Q4529558,5,1,1,type of selection in evolution where a trait stabilizes around the average value,,,,Stabilizing selection
+stabilizing,Stabilizing Force Party,Q30948170,5,1,1,political party in Taiwan,,Q7278,,
+stabilizing,Stabilizing Degenerate Dopants in Colloidal Semiconductor Nanocrystals,Q111076124,5,1,1,"doctoral dissertation by Kimberly H Hartstein, Chemistry, University of Washington, 2018",,Q187685|Q47461344,,
+stabilizing,Stabilizing the Closed SARS-CoV-2 Spike Trimer,Q106626802,5,1,1,scientific article,,Q580922,,
+stabilizing,Stabilizing winding,Q778882,5,1,1,"Additional winding of three strands on a three-phase transformer, which enables symmetrical magnetization of the three legs of the transformer even under unfavourable operating conditions",,,,
+stabilizing,Stabilizing the Dollar,Q19055028,5,1,1,1920 edition of work by Irving Fisher,,Q3331189,,
+stabilizing,mounting,Q44103097,5,1,2,"process of attaching any sort of item to a stiff support, such as paper to board or lab specimens to a slide",,Q2695280,Q44103811,
+stabilizing,mounting,Q14713,5,1,2,activation of a filesystem instance so that the files it contains are available to applications,mount|mounted|filesystem mount|mounting a filesystem,Q116505632,Q1914636|Q12819913|Q230629|Q1079196,Mount (computing)
+stabilizing,mounting,Q15784401,5,1,2,act of getting on a mount,bestriding|bestride|mount,,Q1914636,
+stabilizing,engaging,Q30974334,5,1,2,procedure,mounting|assembly|installation|assemblage|setting-up|rigging|construction|commissioning,,Q1914636,
+stabilizing,mounting block,Q6925799,5,1,2,raised platform for mounting and dismounting a horse or vehicle,horse block|carriage stone|carriage block|horse steps|horse mounting block|mounting steps,,Q13397636|Q811979,Mounting block
+stabilizing,mounting,Q1280253,5,1,2,incorporating cream or butter into a mixture using a whisk,,,Q379697,
+stabilizing,Mounting,Q78090993,5,1,2,artwork by Richard Greene,,Q18761202,,
+stabilizing,Mounting,Q103959011,5,1,2,encyclopedia article,,Q13433827,,
+stabilizing,Mounting,Q123324447,5,1,2,US patent 11337500,,Q43305660,,
+stabilizing,angle of incidence,Q20180457,5,1,2,angle between the chord of the wing and the longitudinal axis of the fuselage,mounting angle|angle of incidence(aerodynamics),,Q11352,Angle of incidence (aerodynamics)
+stabilizing,stabilization,Q7595736,5,1,2,military activities undertaken to improve the stability of areas deemed unstable,,,Q44103811,Stabilization (warfare)
+stabilizing,stabilization of membrane potential,Q21119811,5,1,2,"The accomplishment of a non-fluctuating membrane potential, the electric potential existing across any membrane arising from charges in the membrane itself and from the charges present in the media on either side of the membrane.",,Q2996394,Q14865156,
+stabilizing,stabilization policy,Q1781726,5,1,2,package or set of measures introduced to stabilize a financial system or economy,Economic Adjustment Programme,,Q11821836,Stabilization policy
+stabilizing,Stabilization of p53,Q36804403,5,1,2,instance of the biological pathway in Homo sapiens with Reactome ID (R-HSA-69541),,Q4915012,,
+stabilizing,Stabilization of Simulated Alkaline Non-vitrifiable Low-level Radioactive Waste by Carbonate-bearing AFm and AFt Phases,Q140244318,5,1,2,book chapter in Mechanisms of Chemical Degradation of Cement-based Systems (1997),,Q1980247,,
+stabilizing,Stabilization Policies,Q140123426,5,1,2,,,Q1980247,,
+stabilizing,wastewater lagoon,Q10315777,5,1,2,ponds designed and built for wastewater treatment,stabilization pond,,Q110426897|Q187223,Waste stabilization pond
+mnemonic,mnemonic,Q191062,6,0,1,any learning technique that aids information retention or retrieval (remembering) in the human memory,mnemonic device|memory device,Q2695280,Q109566760,Mnemonic
+mnemonic,Mnemonic,Q134965372,6,0,1,2024 video game developed by Mnemonic,,Q7889,,
+mnemonic,assembly mnemonic,Q739688,6,0,1,programming term,mnemonic,,Q191062,
+mnemonic,mnemonic,Q19597975,6,0,1,designated character in a GUI to jump directly to or activate a widget,access key|menu access key|keyboard mnemonic,,Q118470,Mnemonics (keyboard)
+mnemonic,Mnemonic,Q60760694,6,0,1,Norwegian IT Security company,mnemonic,Q4830453,,Mnemonic (company)
+mnemonic,Mnemonic,Q6885882,6,0,1,play written by Complicite,,Q7725634,,Mnemonic (play)
+mnemonic,mnemonic,Q107383992,6,0,1,Python library,,Q29642950,,
+mnemonic,Mnemonic,Q16952907,6,0,1,"rock band currently based in London, UK",,Q215380,,
+mnemonic,Mnemonic,Q131852483,6,0,1,,,Q43229,,
+mnemonic,mnemonic to remember the colors of a rainbow,Q107266926,6,0,1,,,,Q191062,
+mnemonic,Memory Aid - Working Memory Training in Patients With Mild Cognitive Impairment.,Q61970023,6,0,2,clinical trial,,Q30612,,
+mnemonic,Memory Aid by Intranasal Insulin in Diabetes (MemAID),Q64396330,6,0,2,clinical trial,,Q30612,,
+mnemonic,Memory Aid for Informed Consent in Alzheimer's Research,Q62105770,6,0,2,clinical trial,,Q30612,,
+mnemonic,Memory aids in longitudinal health surveys: results from a field experiment,Q52098486,6,0,2,scientific article published in June 1982,,Q13442814,,
+mnemonic,Memory aids in reality orientation: a single-case study,Q52212899,6,0,2,scientific article published in January 1984,,Q13442814,,
+mnemonic,Memory aids,Q55523751,6,0,2,scientific article published in March 1986,,Q13442814,,
+mnemonic,Memory AIDS in practice,Q36651952,6,0,2,"scientific article published on May 1, 1978",,Q13442814,,
+mnemonic,Memory aide to reduce the incidence of ventilator-associated pneumonia.,Q51979201,6,0,2,scientific article published in October 2006,,Q13442814,,
+mnemonic,Memory aids and the Cartesian circle,Q129979325,6,0,2,scholarly article published on 17 April 2018,,Q13442814,,
+mnemonic,Memory aid for the parallax test.,Q52289552,6,0,2,scientific article published in February 1953,,Q13442814,,
+mnemonic,Mnemonic device for criteria for borderline personality disorder,Q52112704,6,0,2,scientific article published in November 1989,,Q13442814,,
+stimulus,stimulus,Q859031,6,1,1,"in physiology, a detectable change in the internal or external surroundings",Physical Stimulation,Q107715,Q1150070,Stimulus (physiology)
+stimulus,response to stimulus,Q14859560,6,1,1,"process that results in a change in state or activity of a cell or an organism (in terms of movement, secretion, enzyme production, gene expression, etc.) as a result of a stimulus",GO:0050896|physiological response to stimulus|stimulus-responsive|response|psychological response|physical response|biological response,Q2996394,Q2996394,
+stimulus,stimulus,Q3771842,6,1,1,"in psychology, an object or event that elicits a sensory or behavioral response in an organism",,,Q1190554,Stimulus (psychology)
+stimulus,stimulus,Q109566760,6,1,1,thematic relation for an entity prompting an effect,initiator,Q613930,Q2574811,
+stimulus,stimulus,Q3559147,6,1,1,attempt to use monetary or fiscal policy to stimulate the economy,economic stimulus|fiscal stimulus,,Q582577,Stimulus (economics)
+stimulus,Stimulus,Q96333919,6,1,1,scientific journal,,Q5633421,,
+stimulus,Stimulus,Q107547180,6,1,1,horse,,Q726,,
+stimulus,Stimulus,Q140435304,6,1,1,"prototypical agent (PAG) for predicate ""irritate.01"": to annoy, annoying/ causing irritation",,,Q134480019,
+stimulus,Stimulus,Q140429687,6,1,1,"prototypical agent (PAG) for predicate ""disgust.01"": to sicken or repel, causing disgust",,,Q134480019,
+stimulus,Stimulus,Q140429590,6,1,1,"prototypical agent (PAG) for predicate ""discomfit.01"": cause discomfort",,,Q134480019,
+stimulus,Cognitive stimulus-control program for obesity with emphasis on anxiety and depression reduction,Q71331567,6,1,2,scientific article published on 01 January 1980,,Q13442814,,
+Brushwork,Brushwork,Q62455110,7,0,1,painting by Mark Leithauser,,Q3305213,,
+Brushwork,brushwork,Q99372605,7,0,1,artistic technique for inking and painting,brushline|brush-work|brush technicque,,Q11177771,
+Brushwork,Brushwork,Q10456474,7,0,1,Technique in calligraphy,,Q2695280,Q37260,
+Brushwork,Trio Steam Laundry Building,Q134348006,7,0,1,"Commercial laundry building at 19 Hilliard Street, Atlanta, listed on the National Register of Historic Places.",Brushworks Lofts; Trio Laundry Company Building|Atlanta Brush Company building,Q655686|Q7223085|Q83405,,
+Brushwork,artistic technique,Q11177771,7,0,2,method by which art is produced,art technique|artistic method|art-related technique,,Q2695280,
+Brushwork,Art techniques in studying child personality,Q80372657,7,0,2,scientific article published on 01 September 1949,,Q13442814,,
+Brushwork,Art Technique Sellerie,Q131229574,7,0,2,,,Q43229,,
+Brushwork,painting technique,Q1231896,7,0,2,method of applying paint to achieve desired effects,technique,,Q26904132,
+Brushwork,Painting Techniques,Q79261455,7,0,2,1939 Exhibition at SFMOMA (then the San Francisco Museum of Art),,Q667276,,
+Brushwork,Painting technique for staining the anterior lens capsule,Q38484794,7,0,2,scientific article published on March 2003,,Q13442814,,
+Brushwork,"Painting technique and state of conservation of wall paintings at Qusayr Amra, Amman – Jordan",Q118139389,7,0,2,scientific article published in 2007,,Q13442814,,
+Brushwork,PAINTING TECHNIQUE OBSERVED INMOKURAN(1918) BY KANSETSU HASHIMOTO,Q58548322,7,0,2,,,Q13442814,,
+Brushwork,"Painting techniques in the Boucicaut Hours, and in Jacques Coene's colour recipes as found in Jean Lebègue'sLibri Colorum",Q58548028,7,0,2,,,Q13442814,,
+writing,writing,Q37260,7,1,1,persistent representation of language,write,Q205961|Q47728,Q340169,Writing
+writing,pencil,Q14674,7,1,1,writing implement,Pencils|Writing Pencils,Q63981612,Q26972858|Q121916,Pencil
+writing,writings,Q2249964,7,1,1,written records in documentation and archives,,,Q49848,
+writing,literary genre,Q223393,7,1,1,category of literary composition,book genre|writing genre|literature genre,Q140354262|Q109551565,Q1792379,Literary genre
+writing,calligrapher,Q3303330,7,1,1,artist who practices calligraphy,penman|writing artist,Q28640|Q12737077,Q483501,Calligrapher
+writing,writing,Q2250012,7,1,1,activity of narrating through the medium of literature,authorship,,Q33005760|Q110484020|Q47407603|Q115160290,
+writing,literary composing,Q1333743,7,1,1,the way a writer assembles words and sentences to create a coherent and meaningful work,composition|literary composition|composition in literature|writing|composing,Q11862829|Q4671286|Q1047113|Q2267705|Q109551317,Q6486703|Q116751803,Composition (language)
+writing,writing system,Q8192,7,1,1,any conventional method of visually representing verbal or signed communication,graphematics|script|ven-tsee|wenzi,Q96116695,Q2001982|Q386724,Writing system
+writing,writing,Q110484020,7,1,1,"activity of composing a text, presenting and representing through writing; organisation and expression of ideas or information using written language (Note: use a more specific term if possible)","ordinary, literary or professional writing",Q1914636,Q1875737|Q1471509|Q11398090,
+writing,writing,Q86647781,7,1,1,human action of inscribing text on a writing medium,to write|action of writing,Q4026292,Q11398090|Q115654911,
+writing,Brushwork,Q62455110,7,1,2,painting by Mark Leithauser,,Q3305213,,
+writing,brushwork,Q99372605,7,1,2,artistic technique for inking and painting,brushline|brush-work|brush technicque,,Q11177771,
+writing,Brushwork,Q10456474,7,1,2,Technique in calligraphy,,Q2695280,Q37260,
+writing,Trio Steam Laundry Building,Q134348006,7,1,2,"Commercial laundry building at 19 Hilliard Street, Atlanta, listed on the National Register of Historic Places.",Brushworks Lofts; Trio Laundry Company Building|Atlanta Brush Company building,Q655686|Q7223085|Q83405,,
+cold reading,Cold Reading,Q5142320,8,0,1,18th episode of the first season of The Twilight Zone,,Q29555881,,Cold Reading (The Twilight Zone)
+cold reading,cold reading,Q93717,8,0,1,"set of techniques used by mentalists, psychics, fortune-tellers, and mediums",,Q2695280,Q7256278|Q1127759|Q653175|Q1132924|Q474900|Q431498|Q220888,Cold reading
+cold reading,cold reading,Q5142465,8,0,1,"acting term; reading aloud from a script or other text with little or no rehearsal, practice or study in advance",sight reading,Q1969448,Q6154500,Cold reading (theatrical)
+cold reading,Cold Reading,Q115948760,8,0,1,short story by Alan Moore,,Q7725634,,
+cold reading,psychic reading,Q7256278,8,0,2,attempt to discern information through the use of heightened perceptive abilities,,Q1347367,Q1043197,Psychic reading
+cold reading,Psychic Reading Expert Christine Wallace,Q122818450,8,0,2,Psychic Reading Expert,,Q5,,
+cold reading,Psychic Readings Live,Q7256262,8,0,2,Hungarian TV series or program,,Q15416,,Psychic Readings Live
+cold reading,Jack Rourke's Psychic Readings Los Angeles,Q139683903,8,0,2,Los Angeles-based professional psychic advisory and spiritual counseling service operated by Jack Rourke,Psychic Readings Los Angeles|Psychic Readings LA,Q4830453,,
+psychic reading,psychic reading,Q7256278,8,1,1,attempt to discern information through the use of heightened perceptive abilities,,Q1347367,Q1043197,Psychic reading
+psychic reading,Psychic Reading Expert Christine Wallace,Q122818450,8,1,1,Psychic Reading Expert,,Q5,,
+psychic reading,Psychic Readings Live,Q7256262,8,1,1,Hungarian TV series or program,,Q15416,,Psychic Readings Live
+psychic reading,Jack Rourke's Psychic Readings Los Angeles,Q139683903,8,1,1,Los Angeles-based professional psychic advisory and spiritual counseling service operated by Jack Rourke,Psychic Readings Los Angeles|Psychic Readings LA,Q4830453,,
+psychic reading,Cold Reading,Q5142320,8,1,2,18th episode of the first season of The Twilight Zone,,Q29555881,,Cold Reading (The Twilight Zone)
+psychic reading,cold reading,Q93717,8,1,2,"set of techniques used by mentalists, psychics, fortune-tellers, and mediums",,Q2695280,Q7256278|Q1127759|Q653175|Q1132924|Q474900|Q431498|Q220888,Cold reading
+psychic reading,cold reading,Q5142465,8,1,2,"acting term; reading aloud from a script or other text with little or no rehearsal, practice or study in advance",sight reading,Q1969448,Q6154500,Cold reading (theatrical)
+psychic reading,Cold Reading,Q115948760,8,1,2,short story by Alan Moore,,Q7725634,,
+interpolation,mathematical interpolation,Q187631,9,0,1,method for constructing new data points between known data points,interpolation|numerical interpolation,Q486902,Q8366,Interpolation
+interpolation,interpolation,Q1668124,9,0,1,entry or passage in a text that was not written by the original author,,Q19610271,Q3092752,Interpolation (manuscripts)
+interpolation,interpolation,Q1668127,9,0,1,"music term; using a melody, or portions of a melody, from a previously recorded song but re-recording the melody instead of sampling it",,Q2695280,,Interpolation (popular music)
+interpolation,classical music interpolation,Q60793241,9,0,1,"for music of the Classical period, in the context of a musical sentence or period, unrelated material inserted between two logically succeeding functions",interpolation,Q115211517,,Interpolation (classical music)
+interpolation,sample-rate conversion,Q333725,9,0,1,changing the sampling rate of a discrete signal to obtain a new discrete representation of the underlying continuous signal,sample rate conversion|sampling-frequency conversion|resampling|upsampling|downsampling|interpolation,,Q173142|Q65757353,Sample-rate conversion
+interpolation,interpolation,Q11713455,9,0,1,computer graphics method,,Q3516833,,Interpolation (computer graphics)
+interpolation,interpolation,Q109488851,9,0,1,"in law, process of adding additional words to a document in order to alter its intended meaning",,Q2135465,Q1668124,
+interpolation,Ava Max,Q56755505,9,0,1,American singer and songwriter (born 1994),Amanda Ava Koci|Interpolation Queen,Q5,,Ava Max
+interpolation,sample credit,Q64447881,9,0,1,credit given to the copyright owner of a sampled piece of music or other soundbite,sampling credit|interpolation credit,,Q2901790|Q2132119,
+interpolation,upsampling,Q1143270,9,0,1,resampling method,expansion|interpolation,,Q173142,Upsampling
+interpolation,interpolation method,Q97170117,9,0,2,,,,,
+interpolation,Interpolation method for polar signals in radio frequency transmitters,Q118219877,9,0,2,US patent 11196609,,Q43305660,,
+interpolation,"Interpolation methods for Antarctic ice-core timescales: application to Byrd, Siple Dome and Law Dome ice cores",Q135423014,9,0,2,,,Q191067,,
+interpolation,Interpolation methods for time-delay estimation using cross-correlation method for blood velocity measurement,Q80603109,9,0,2,scientific article published on 01 January 1999,,Q13442814,,
+interpolation,Interpolation methods for surface mapping,Q52763171,9,0,2,scientific article published in April 1980,,Q13442814,,
+interpolation,Interpolation methods for spatio-temporal geographic data,Q57641678,9,0,2,"article by Lixin Li et al published May 2004 in Computers, Environment and Urban Systems",,Q13442814,,
+interpolation,Interpolation method for accurate affinity ranking of arrayed ligand-analyte interactions,Q87295844,9,0,2,scientific article published on 13 February 2016,,Q13442814,,
+interpolation,"Interpolation methods for Antarctic ice-core timescales: application to Byrd, Siple Dome and Law Dome ice cores",Q61631373,9,0,2,,,Q13442814,,
+interpolation,Interpolation Methods for Curve Construction,Q56336840,9,0,2,article by Patrick S. Hagan & Graeme West published June 2006 in Applied Mathematical Finance,,Q13442814,,
+interpolation,Interpolation method for pair correlations in classical crystals,Q89392744,9,0,2,scientific article published on 09 May 2016,,Q13442814,,
+interpolation,Interpolation techniques to reduce error in measurement of toe clearance during obstacle avoidance,Q45247383,9,0,2,scientific article published on 22 October 2011,,Q13442814,,
+interpolation,INTERPOLATION TECHNIQUES IN MULTIMODALITY IMAGE REGISTRATION AND THEIR APPLICATION,Q57562177,9,0,2,,,Q13442814,,
+interpolation,Interpolation Techniques in Image Resampling,Q127979250,9,0,2,scholarly article,,Q13442814,,
+interpolation,Interpolation Techniques for the Display of Remotely Sensed Glaciological Data (Abstract),Q109903079,9,0,2,scientific article published in 1987,,Q13442814,,
+interpolation,Interpolation Technique to Speed Up Gradients Propagation in Neural ODEs,Q104091416,9,0,2,,,Q13442814,,
+interpolation,Interpolation Techniques for Reconstructing Galactic Faraday Rotation,Q136850743,9,0,2,,,Q13442814,,
+Zink,Januarius Zick,Q463372,10,0,1,painter and architect (1730-1797),Johann Rosso Januarius Zick|Johann Rasso Januarius Zick|Zick Fills|Januar. Zick|Ianuar. Zick|januarius zeck|januaryus zick|Januar. von Zick|Zick|Ianuar Zick|J. Zick|jannarius zick|jan. zick|J. Zieck|Januar Zick|zick januarius|jan zick|Zink|janarius zick|j. zick|Zick der Jüngere|Januarius Johann Rasso Zick,Q5,,Januarius Zick
+Zink,cornett,Q204638,10,0,1,early wind instrument with a cup mouthpiece,zink|cornetto,Q34379,Q55738917,Cornett
+Zink,Zink,Q26213105,10,0,1,family name,,Q101352|Q333021|Q829026|Q1714800,,
+Zink,Zink,Q135050454,10,0,1,2024 video game developed by Yprac Studio,,Q7889,,
+Zink,Zinke,Q37202967,10,0,1,family name,,Q101352,,Zinke
+Zink,16742 Zink,Q18979130,10,0,1,asteroid,Zink,Q3863,,16742 Zink
+Zink,Zinka Milanov,Q204625,10,0,1,Croatian opera singer,,Q5,,Zinka Milanov
+Zink,Zinken Hopp,Q2392990,10,0,1,Norwegian writer (1905-1987),Signe Marie Hopp,Q5,,Zinken Hopp
+Zink,zinc oxide,Q190077,10,0,1,ZnO is a white powder insoluble in water,zinc(II) oxide|C.I. pigment white 4|ZnO|calamine|philosopher's wool|Chinese white|zinc paste|zinc white|zinkoxid|flowers of zinc|zincum oxydatum|zinci oxydum,Q113145171,Q11173,Zinc oxide
+Zink,Zink,Q204565,10,0,1,full-color inkless printing technology,,Q2695280,,Zink (printing)
+Zink,zinc,Q758,10,0,2,chemical element with symbol Zn and atomic number 30,Zn|element 30|30Zn|Zn(ii)|Zn2+,Q11344|Q2512777|Q1929547,Q19591,Zinc
+Zink,Lazarus Group,Q19284445,10,0,2,North Korean cybermilitary unit,Guardians of Peace|Whois Team|Hidden Cobra|Lazarus|Zinc|DarkSeoul|Hermit|Bluenoroff|Hastati Group|Stardust Chollima,Q2801262|Q28402245,,Lazarus Group
+Zink,brass,Q39782,10,0,2,alloy of copper and zinc,copper-zinc alloy|zinc-copper alloy|CuZn|ZnCu,Q113145171|Q37756,Q518350,Brass
+Zink,zinc ion binding,Q14633865,10,0,2,Interacting selectively and non-covalently with zinc (Zn) ions.,GO:0008270|zinc binding|Zn binding,Q14860489,Q14865842,
+Zink,Kapuas Prima Coal,Q96472635,10,0,2,public company in Indonesia,ZINC|PT Kapuas Prima Coal Tbk,Q891723,,
+Zink,Zinc finger C2H2-type,Q24785163,10,0,2,InterPro Domain,Znf_C2H2/integrase_DNA-bd|IPR013087|Znf_C2H2_type,Q898273,Q898273,
+Zink,Zinc finger C2H2 superfamily,Q41797357,10,0,2,,Znf_C2H2_sf|IPR036236,Q7251477,Q105620529,
+Zink,"Zinc finger C2H2-type, protein family",Q83164179,10,0,2,protein family,IPR013087,Q81505329,Q105620529,
+Zink,"Zinc finger, RING/FYVE/PHD-type",Q24786519,10,0,2,InterPro Domain,Znf_RING/FYVE/PHD|IPR013083,Q7251477,,
+Zink,"Zinc finger, RING-type",Q24788168,10,0,2,InterPro Domain,Znf_RING|IPR001841|RING finger domain|RING finger domains|RING domain,Q898273,Q204785,RING finger domain
+Valsalva maneuver,Valsalva maneuver,Q1427231,11,0,1,technique for equalising pressure in the middle ears,Valsalva manoeuvre,Q2695280,,Valsalva maneuver
+Valsalva maneuver,Valsalva Maneuver and Control in Reducing Pain During Spinal Injection,Q83794248,11,0,1,clinical trial,,Q30612,,
+Valsalva maneuver,Valsalva maneuver,Q42932199,11,0,1,scientific article published on May 2005,,Q13442814,,
+Valsalva maneuver,Valsalva Maneuver,Q95402036,11,0,1,scientific article published on 7 February 2019,,Q13442814,,
+Valsalva maneuver,Valsalva maneuver,Q70261417,11,0,1,scientific article published on 01 October 1990,,Q13442814,,
+Valsalva maneuver,Valsalva maneuver biomechanics. Effects on lumbar trunk loads of elevated intraabdominal pressures,Q69602566,11,0,1,scientific article published on 01 June 1986,,Q13442814,,
+Valsalva maneuver,Valsalva maneuver unveils central baroreflex dysfunction with altered blood pressure control in persons with a history of mild traumatic brain injury,Q36008810,11,0,1,scientific article,,Q13442814,,
+Valsalva maneuver,Valsalva maneuver: a test of the functional state of cardiac innervation in Chagasic myocarditis,Q41435918,11,0,1,"scientific article published on March 1, 1988",,Q13442814,,
+Valsalva maneuver,Valsalva maneuver in the assessment of baroreflex responsiveness in borderline hypertensives,Q71733501,11,0,1,scientific article published on 01 January 1983,,Q13442814,,
+Valsalva maneuver,Valsalva maneuver: shortest optimal expiratory strain duration,Q41992482,11,0,1,scientific article published on 18 July 2011,,Q13442814,,
+grinding,mill,Q44494,12,0,1,"device that breaks solid materials into smaller pieces by grinding, crushing, or cutting",grinding mill,,Q11019|Q1662011,Mill (grinding)
+grinding,grinding,Q3680646,12,0,1,abrasive machining process that uses a grinding wheel as a cutting tool,grinding (abrasive cutting),Q1408288,Q192047,Grinding (abrasive cutting)
+grinding,grinding,Q26882416,12,0,1,process of reducing to smaller pieces by crushing,milling|pulverizing|pulverisation|pulverization|pulverising,Q2695280,Q739302|Q3182649|Q191671,
+grinding,grinding,Q1094706,12,0,1,performing repetitive tasks in video games for gameplay or cosmetic advantage,farming|pushing the bar|catassing,Q77080538|Q1914636,Q1331296,Grinding (video games)
+grinding,grinding,Q17021147,12,0,1,suggestive club dancing,juking|wining|freak dancing|freaking,Q107357104,Q3015661|Q105502715,Grinding (dance)
+grinding,grinding machine,Q245761,12,0,1,"power tool or machine tool used for grinding, which is a type of machining using an abrasive wheel as the cutting tool; mechanical hardware for grinding",grinder,,Q19768|Q12527148,Grinding machine
+grinding,quern-stone,Q1543947,12,0,1,"stone tool for hand-grinding various materials, especially foodstuffs",quern|milling-stone|grinding stone,,Q479257|Q2450082|Q111325021,Quern-stone
+grinding,trismus,Q936070,12,0,1,medical problem of jaw clenching,"grinding trismus|lock jaw|Grinding trismus, lock jaw",Q169872,Q574360,Trismus
+grinding,humping,Q70440517,12,0,1,sexual act in which the genitals are rubbed against something,grinding,Q608,Q1840469|Q8396,
+grinding,Grinding Gear Games,Q5609440,12,0,1,video game developer company,GGG,Q210167,,Grinding Gear Games
+grinding,separation process,Q898987,12,0,2,"method to achieve any phenomenon that converts a mixture of chemical substance into two or more distinct product mixtures, which may be referred to as mixture, at least one of which is enriched in one or more of the initial mixture's constituents",separation|segregation|separation technique|material component separation|separation method,,Q1799072|Q104637425|Q85900110|Q3182649,Separation process
+grinding,Separation Processes in the Presence of Cyclodextrins Using Molecular Imprinting Technology and Ionic Liquid Cooperating Approach,Q57372891,12,0,2,article published in 2011,,Q13442814,,
+grinding,Separation processes for organic molecules using SCF Technologies,Q37002086,12,0,2,scientific article published on 05 October 2007,,Q13442814,,
+grinding,Separation processes in biotechnology. Bead mill disruption,Q35287149,12,0,2,"scientific article published on January 1, 1990",,Q13442814,,
+grinding,Separation processes in biotechnology. Precipitation,Q35287257,12,0,2,"scientific article published on January 1, 1990",,Q13442814,,
+grinding,Separation process for the quantitative determination of keto- and amino acids in small amounts of cerebrospinal fluid,Q79401708,12,0,2,scientific article published on 01 July 1962,,Q13442814,,
+grinding,Separation Process of Nonpolar Gas Hydrate in Food Solution under High Pressure Apparatus,Q59043312,12,0,2,,,Q13442814,,
+grinding,Separation processes in biotechnology. Aqueous two-phase separations,Q35287231,12,0,2,"scientific article published on January 1, 1990",,Q13442814,,
+grinding,Separation process optimization calculations,Q126817300,12,0,2,scholarly article,,Q13442814,,
+grinding,Separation processes in biotechnology. Ion-exchange processes,Q35287211,12,0,2,"scientific article published on January 1, 1990",,Q13442814,,
+grinding,Particle size reduction leading to cell wall rupture is more important for the β-carotene bioaccessibility of raw compared to thermally processed carrots.,Q47402975,12,0,2,scientific article published in December 2010,,Q13442814,,
+grinding,Particle size reduction for improvement of oral absorption of the poorly soluble drug UG558 in rats during early development,Q30903645,12,0,2,scientific article,,Q13442814,,
+grinding,Particle size reduction to the nanometer range: a promising approach to improve buccal absorption of poorly water-soluble drugs,Q84554587,12,0,2,"scientific article published on June 20, 2011",,Q13442814,,
+grinding,Particle size reduction and encapsulation affect the bioavailability of ferric pyrophosphate in rats,Q47399611,12,0,2,scientific article published in December 2004,,Q13442814,,
+grinding,Particle size reduction and pharmacokinetic evaluation of a poorly soluble acid and a poorly soluble base during early development,Q47405828,12,0,2,"scientific article published on August 12, 2010",,Q13442814,,
+grinding,Particle size reduction effectively enhances the cholesterol-lowering activities of carrot insoluble fiber and cellulose,Q46273568,12,0,2,scientific article published in November 2008,,Q13442814,,
+grinding,"Particle-size reduction of dickite by ultrasound treatments: Effect on the structure, shape and particle-size distribution",Q57858117,12,0,2,,,Q13442814,,
+grinding,Particle size reduction effectively enhances the intestinal health-promotion ability of an orange insoluble fiber in hamsters,Q47262196,12,0,2,scientific article published in October 2007,,Q13442814,,
+grinding,Particle size reduction of emulsions by formulation design-II: effect of oil and surfactant concentration.,Q47358335,12,0,2,scientific article published in March 1995,,Q13442814,,
+grinding,"Particle size reduction by a hammer mill I: Effect of output screen size, feed particle size, and mill speed",Q47271096,12,0,2,scientific article published in February 1982,,Q13442814,,
+separation,separation process,Q898987,12,1,1,"method to achieve any phenomenon that converts a mixture of chemical substance into two or more distinct product mixtures, which may be referred to as mixture, at least one of which is enriched in one or more of the initial mixture's constituents",separation|segregation|separation technique|material component separation|separation method,,Q1799072|Q104637425|Q85900110|Q3182649,Separation process
+separation,termination of employment,Q685744,12,1,1,end of employment by either the employee or the employer,termination|end of employment|separation of employment|employee separation|employee termination|separation|separation from employment|job loss|employment termination,,Q12769393|Q1190554,Termination of employment
+separation,marital separation,Q5561011,12,1,1,when spouses in a marriage stop living together without getting divorced,separation,Q11920938,Q3182649|Q322451,Marital separation
+separation,A Separation,Q640561,12,1,1,2011 film directed by Asghar Farhadi,Separation|The Separation of Nader from Simin,Q11424,,A Separation
+separation,Separation,Q65119361,12,1,1,2021 film directed by William Brent Bell,,Q11424,,Separation (2021 film)
+separation,split-off,Q109417039,12,1,1,inverse property label for P807,separation|demerger,Q65932995,,
+separation,Separation and Purification Technology,Q15760033,12,1,1,journal,,Q5633421,,Separation and Purification Technology
+separation,dismemberment,Q1228968,12,1,1,"political process of dividing a single entity into several, often accompanied by violence and coercion",collapse|dissolution|separation,,Q1190554|Q5282797,
+separation,Separation,Q7451806,12,1,1,Swedish punk band,Separation (and),Q215380,,
+separation,Separation,Q18890839,12,1,1,painting by Edvard Munch (1896),,Q3305213,,
+separation,Grinding process technology support,Q128431883,12,1,2,scholarly article,,Q13442814,,
+separation,Grinding process for beveling and lapping operations in lens manufacturing,Q80883623,12,1,2,scientific article published on 01 April 2000,,Q13442814,,
+separation,Grinding processes automated diagnostic test stand,Q129300534,12,1,2,scholarly article,,Q13442814,,
+separation,Particle separation,Q119347500,12,1,2,US patent 11325125,,Q43305660,,
+separation,Particle separation,Q119408453,12,1,2,US patent 11229912,,Q43305660,,
+separation,Particle separation and analysis,Q119407912,12,1,2,US patent 11230692,,Q43305660,,
+separation,Particle separation by dielectrophoresis,Q34811013,12,1,2,scientific article,,Q13442814,,
+separation,Particle separation using virtual deterministic lateral displacement (vDLD),Q51519886,12,1,2,"scientific article published on March 18, 2014",,Q13442814,,
+separation,Particle separation using ultrasound can radically reduce embolic load to brain after cardiac surgery,Q45128992,12,1,2,scientific article published in November 2004,,Q13442814,,
+separation,Particle separation in microfluidics using a switching ultrasonic field,Q51546655,12,1,2,"scientific article published on August 8, 2011",,Q13442814,,
+separation,"Particle separation, solids budgets and headloss development in different biofilters",Q140127089,12,1,2,"journal article from Water Science and Technology, published in 1997",,Q13442814,,
+separation,Particle Separation inside a Sessile Droplet with Variable Contact Angle Using Surface Acoustic Waves,Q48052223,12,1,2,scientific article published on 13 December 2016,,Q13442814,,
+separation,Particle separation by external fields on periodic surfaces,Q58452484,12,1,2,,,Q13442814,,
+Big Data Analytics,Big Data Analytics,Q50432161,13,0,1,"Academic journal published by BioMed Central, covering the subjects: Medicine: Medicine (General): Computer applications to medicine. Medical informatics",,Q737498|Q773668,,
+Big Data Analytics,big data analytics,Q125096901,13,0,1,technique,,Q2695280,Q485396,
+Big Data Analytics,Big Data Analytics,Q68092039,13,0,1,BMC journal,,Q5633421,,
+Big Data Analytics,"Big Data Analytics and Knowledge Discovery - 19th International Conference, DaWaK 2017, Lyon, France, August 28-31, 2017",Q106244327,13,0,1,academic conference,"19th DaWak 2017: Lyon, France",Q2020153,,
+Big Data Analytics,"Big Data Analytics - 6th International Conference, BDA 2018, Warangal, India, December 18-21, 2018",Q106244185,13,0,1,academic conference,"BDA 2018: Warangal, India",Q2020153,,
+Big Data Analytics,"Big Data Analytics - 7th International Conference, BDA 2019, Ahmedabad, India, December 17-20, 2019",Q106244184,13,0,1,academic conference,"BDA 2019: Ahmedabad, India",Q2020153,,
+Big Data Analytics,Big Data Analytics in Structural Health Monitoring,Q111641092,13,0,1,doctoral dissertation,,Q187685,,
+Big Data Analytics,"Big Data Analytics and Knowledge Discovery - 18th International Conference, DaWaK 2016, Porto, Portugal, September 6-8, 2016",Q106336164,13,0,1,academic conference,"18th DaWak 2016: Porto, Portugal",Q2020153,,
+Big Data Analytics,"Big Data Analytics - 4th International Conference, BDA 2015, Hyderabad, India, December 15-18, 2015",Q106244187,13,0,1,academic conference,"BDA 2015: Hyderabad, India",Q2020153,,
+Big Data Analytics,"Big Data Analytics - Second International Conference, BDA 2013, Mysore, India, December 16-18, 2013",Q106244188,13,0,1,academic conference,"BDA 2013: Mysore, India",Q2020153,,
+Big Data Analytics,analytics,Q485396,13,0,2,"discovery, interpretation, and communication of meaningful patterns in data",data analytics,Q4671286|Q1128340,Q217602|Q11661|Q1149776|Q2374463,Analytics
+Big Data Analytics,Analytics,Q88353704,13,0,2,two works by Aristotle,,Q277759|Q135268494,,
+Big Data Analytics,analytics,Q88356174,13,0,2,part of philosophy,,,Q5891,
+Big Data Analytics,Analytics,Q25221941,13,0,2,Ice hockey statistics,,,,Analytics in ice hockey
+Big Data Analytics,AnalyticsIQ powered by Alliant,Q140249791,13,0,2,"AnalyticsIQ was acquired by Alliant. Alliant is the people-based data partner that illuminates not only what consumers do, but why they do it.","AnalyticsIQ, Inc.|AnalyticsIQ (now Alliant)|AnalyticsIQ",Q4830453|Q1589009,,
+Big Data Analytics,"Analytics, Computing, and Complex Systems Laboratory",Q55074896,13,0,2,Data science laboratory,ACCeSs@AIM,Q483242,,"Analytics, Computing, and Complex Systems Laboratory"
+Big Data Analytics,analytics.usa.gov,Q19872280,13,0,2,monitor for website traffic in the US federal government,,Q35127,,Analytics.usa.gov
+Big Data Analytics,analytics-python,Q107383453,13,0,2,Python library,,Q29642950,,
+Big Data Analytics,Google Analytics,Q220577,13,0,2,web analytics service offered by Google,Google Analytics 4|GA4|Universal Analytics|UA,Q35127|Q1668024|Q115035207,,Google Analytics
+Big Data Analytics,ANAXAM,Q117857377,13,0,2,company in Switzerland,Analytics with Neutrons And X-rays for Advanced Manufacturing,Q43229,,Anaxam
+Big Data Analytics,Data Analytics for Machine Learning,Q139659640,13,0,2,"Applies data analytics for machine learning: data processing, supervised/unsupervised learning, data collection, preprocessing, model training/testing, and pattern detection for predictions and decisions.",Data Analytics for Machine Learning Certification,Q16023913|Q2023606,,
+Big Data Analytics,data analytics software industry,Q97466014,13,0,2,,data analytics industry,Q136653105,Q880371,
+Big Data Analytics,Data Analytics Library,Q21462998,13,0,2,library of optimized algorithmic building blocks for data analysis stages,oneAPI Data Analytics Library|oneDAL|Data Analytics Acceleration Library,Q188860,,Data Analytics Library
+Big Data Analytics,"Data Analytics - 31st British International Conference on Databases, BICOD 2017, London, UK, July 10-12, 2017",Q106243021,13,0,2,academic conference,"31. BICOD 2017: London, UK",Q2020153,,
+Big Data Analytics,Data Analytics für wissenschaftliche Information: Anwendungsgebiete und Lernwege,Q95245567,13,0,2,presentation at #vBIB20,,Q604733,,
+Big Data Analytics,Data Analytics for Renewable Energy Integration,Q58504889,13,0,2,,DARE 2014,Q1143604,,
+Big Data Analytics,Data Analytics dalam Pengawasan Sektor Publik (2026 edition),Q138197859,13,0,2,2026 edition of the book by Edy Andra,,Q3331189,,
+Big Data Analytics,Data analytics system to automatically recommend risk mitigation strategies for an enterprise,Q128097263,13,0,2,US patent 11403599,,Q43305660,,
+Big Data Analytics,Data Analytics and Its Application in Various Industries,Q56033567,13,0,2,,,Q1980247,,
+analytics,analytics,Q485396,13,1,1,"discovery, interpretation, and communication of meaningful patterns in data",data analytics,Q4671286|Q1128340,Q217602|Q11661|Q1149776|Q2374463,Analytics
+analytics,Analytics,Q88353704,13,1,1,two works by Aristotle,,Q277759|Q135268494,,
+analytics,analytics,Q88356174,13,1,1,part of philosophy,,,Q5891,
+analytics,Analytics,Q25221941,13,1,1,Ice hockey statistics,,,,Analytics in ice hockey
+analytics,AnalyticsIQ powered by Alliant,Q140249791,13,1,1,"AnalyticsIQ was acquired by Alliant. Alliant is the people-based data partner that illuminates not only what consumers do, but why they do it.","AnalyticsIQ, Inc.|AnalyticsIQ (now Alliant)|AnalyticsIQ",Q4830453|Q1589009,,
+analytics,"Analytics, Computing, and Complex Systems Laboratory",Q55074896,13,1,1,Data science laboratory,ACCeSs@AIM,Q483242,,"Analytics, Computing, and Complex Systems Laboratory"
+analytics,analytics.usa.gov,Q19872280,13,1,1,monitor for website traffic in the US federal government,,Q35127,,Analytics.usa.gov
+analytics,analytics-python,Q107383453,13,1,1,Python library,,Q29642950,,
+analytics,Google Analytics,Q220577,13,1,1,web analytics service offered by Google,Google Analytics 4|GA4|Universal Analytics|UA,Q35127|Q1668024|Q115035207,,Google Analytics
+analytics,ANAXAM,Q117857377,13,1,1,company in Switzerland,Analytics with Neutrons And X-rays for Advanced Manufacturing,Q43229,,Anaxam
+analytics,Big Data Analytics,Q50432161,13,1,2,"Academic journal published by BioMed Central, covering the subjects: Medicine: Medicine (General): Computer applications to medicine. Medical informatics",,Q737498|Q773668,,
+analytics,big data analytics,Q125096901,13,1,2,technique,,Q2695280,Q485396,
+analytics,Big Data Analytics,Q68092039,13,1,2,BMC journal,,Q5633421,,
+analytics,"Big Data Analytics and Knowledge Discovery - 19th International Conference, DaWaK 2017, Lyon, France, August 28-31, 2017",Q106244327,13,1,2,academic conference,"19th DaWak 2017: Lyon, France",Q2020153,,
+analytics,"Big Data Analytics - 6th International Conference, BDA 2018, Warangal, India, December 18-21, 2018",Q106244185,13,1,2,academic conference,"BDA 2018: Warangal, India",Q2020153,,
+analytics,"Big Data Analytics - 7th International Conference, BDA 2019, Ahmedabad, India, December 17-20, 2019",Q106244184,13,1,2,academic conference,"BDA 2019: Ahmedabad, India",Q2020153,,
+analytics,Big Data Analytics in Structural Health Monitoring,Q111641092,13,1,2,doctoral dissertation,,Q187685,,
+analytics,"Big Data Analytics and Knowledge Discovery - 18th International Conference, DaWaK 2016, Porto, Portugal, September 6-8, 2016",Q106336164,13,1,2,academic conference,"18th DaWak 2016: Porto, Portugal",Q2020153,,
+analytics,"Big Data Analytics - 4th International Conference, BDA 2015, Hyderabad, India, December 15-18, 2015",Q106244187,13,1,2,academic conference,"BDA 2015: Hyderabad, India",Q2020153,,
+analytics,"Big Data Analytics - Second International Conference, BDA 2013, Mysore, India, December 16-18, 2013",Q106244188,13,1,2,academic conference,"BDA 2013: Mysore, India",Q2020153,,
+Selective non-catalytic reduction,Selective non-catalytic reduction,Q909793,14,0,1,Process to reduce nitrogen oxide emissions from power plants,,Q2695280,,Selective non-catalytic reduction
+Selective non-catalytic reduction,Selective non-catalytic reduction,Q16600415,14,0,1,,SNCR,,,
+Selective non-catalytic reduction,selective catalytic reduction,Q901171,14,0,2,an aqueous ammonia SCR process overview,,,Q2281940,Selective catalytic reduction
+Selective non-catalytic reduction,Selective Catalytic Reduction of NOx from diesel engine exhaust using injection of urea,Q97614649,14,0,2,Doctoral Thesis from Delft University of Technology,,Q187685,,
+Selective non-catalytic reduction,Selective catalytic reduction articles and systems,Q124445774,14,0,2,US patent 11448110,,Q43305660,,
+Selective non-catalytic reduction,"Selective catalytic reduction (SCR) catalyst comprising a composite oxide containing V and SB, preparation process thereof, and use thereof for nitrog",Q124466574,14,0,2,US patent 11260371,,Q43305660,,
+Selective non-catalytic reduction,Selective catalytic reduction articles and systems,Q124460232,14,0,2,US patent 11344868,,Q43305660,,
+Selective non-catalytic reduction,Selective Catalytic Reduction (United States),Q30283486,14,0,2,"company in Louisville, United States",,Q4830453,,
+Selective non-catalytic reduction,Selective catalytic reduction system,Q125019742,14,0,2,US patent 11162402,,Q43305660,,
+Selective non-catalytic reduction,Selective catalytic reduction catalyst pre-heating and exhaust burner air control,Q124001136,14,0,2,US patent 11506136,,Q43305660,,
+Selective non-catalytic reduction,Selective Catalytic Reduction of N2 to N2H4 by a Simple Fe Complex,Q53138787,14,0,2,scientific article published on 11 October 2016,,Q13442814,,
+Selective non-catalytic reduction,Selective catalytic reduction of NO over Fe-ZSM-5: mechanistic insights by operando HERFD-XANES and valence-to-core X-ray emission spectroscopy,Q44517704,14,0,2,scientific article published on 4 September 2014,,Q13442814,,
+cradling,cradling,Q17009290,15,0,1,process of adding a wood support to the back of a panel painting,,,Q3716064,Cradling (paintings)
+cradling,Cradling,Q114666037,15,0,1,The name of the method of reinforcing the wood for painting in the back side,Parquetry,,Q3300034|Q3716064,
+cradling,cradling,Q78933859,15,0,1,subconcept of Mining (scot/3916),,Q2695280,Q1071389,
+cradling,Cradling Wheat,Q78663009,15,0,1,painting by Thomas Hart Benton,,Q3305213,,
+cradling,Cradling Our Future Through Family Strengthening Study,Q61932715,15,0,1,clinical trial,,Q30612,,
+cradling,Cradling side preference is associated with lateralized processing of baby facial expressions in females,Q43469162,15,0,1,scientific article published on 14 February 2009,,Q13442814,,
+cradling,Cradling bias is absent in children with autism spectrum disorders,Q41092224,15,0,1,scientific article published on January 2013,,Q13442814,,
+cradling,Cradling and Transport of Infants by South African Mothers: A Cross-Cultural Study,Q140616412,15,0,1,"scholarly article published in Current Anthropology, vol. 25, no. 3 (1984) (DOI: 10.1086/203140)",,Q13442814,,
+cradling,Cradling referrals from parents-to-be,Q74674157,15,0,1,scientific article published on 01 January 1990,,Q13442814,,
+cradling,Cradling in the prevention of excessive crying and colic symptoms in infants,Q48554166,15,0,1,scientific article published in May 2005,,Q13442814,,
+gold mining,gold mining,Q1071389,15,1,1,process of extracting gold from the ground,,Q1945600|Q16638398,Q16638398,Gold mining
+gold mining,Gold Mining,Q108741770,15,1,1,drawing by Etienne Delaune,,Q93184,,
+gold mining,Gold Mining Simulator 2,Q135051348,15,1,1,video game developed by Code Horizon,,Q7889,,
+gold mining,gold mining in Alaska,Q5578940,15,1,1,economic activity,,,Q1071389,Gold mining in Alaska
+gold mining,Gold mining in the United States,Q5578946,15,1,1,mining gold in the United States,,Q74817647,,Gold mining in the United States
+gold mining,Gold mining in Western Australia,Q12058757,15,1,1,mining activity in Western Australia,,Q44497|Q268592,,Gold mining in Western Australia
+gold mining,Gold Mining Encouragement Act (No. 2) 1940,Q56831458,15,1,1,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold Mining in California,Q79292254,15,1,1,painting by Joseph Johnson Ray,,Q3305213,,
+gold mining,Gold Mining in California,Q79342334,15,1,1,painting by Frederic Edwin Church,,Q3305213,,
+gold mining,"Gold Mining, Cripple Creek",Q20491024,15,1,1,painting by Ernest Lawson,,Q3305213,,
+gold mining,Gold Mining Company,Q137915482,15,1,2,mining company in the United States,,Q105646117,,
+gold mining,Gold Mining Industry Assistance Act 1954,Q56749036,15,1,2,"Act of the Parliament of Australia, no longer in force, registered as C1954A00079",,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1961,Q56828234,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1972,Q56821249,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1956,Q56829047,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1965,Q56822201,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1968,Q56821666,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1962,Q56828060,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1959,Q56828519,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1957,Q56828869,15,1,2,Act of the Parliament of Australia,,Q56731284,,
+gold mining,Gold-Mining Industry Assistance Act 1970,Q58165386,15,1,2,"Act of the Parliament of Australia, registered as C1970A00091",,Q56731284,,
+embroidery,embroidery,Q18281,16,0,1,art or handicraft of decorating fabric or other materials with needle and thread or yarn,embroidering|art of embroidery,Q11177771|Q47728,Q1817291|Q877729,Embroidery
+embroidery,Embroidery,Q19883449,16,0,1,painting by Édouard Vuillard,Embroidering by the Window [Les brodeuses].,Q3305213,,
+embroidery,Embroidery,Q28940846,16,0,1,book by Grace Christie,,Q47461344,,
+embroidery,Embroidery,Q28940857,16,0,1,book by Grace Christie (1909 ed.),,Q3331189,,
+embroidery,Embroidery,Q5370194,16,0,1,short story by Ray Bradbury,,Q7725634,,Embroidery (short story)
+embroidery,Embroidery,Q64533109,16,0,1,drawing in the National Gallery of Art (NGA 15524),,Q93184,,
+embroidery,Embroidery,Q64535912,16,0,1,drawing in the National Gallery of Art (NGA 12274),,Q93184,,
+embroidery,embroidery stitch,Q934569,16,0,1,decorative stitch used primarily in embroidery,stitch,,Q4389726,Embroidery stitch
+embroidery,embroidery,Q28966302,16,0,1,creative work made using embroidery techniques,embroidered panel|embroidered picture|embroidery work,Q877729|Q483394,Q28966125|Q22075301,
+embroidery,Embroidery,Q133863793,16,0,1,Japanese racehorse,Embroidery (horse),Q726,,Embroidery (horse)
+embroidery,Embroidered article,Q123016900,16,0,2,US patent 11162200,,Q43305660,,
+subject of depiction,subject of depiction,Q53001749,16,1,1,person(s) or item(s) depicted in a work of art,subject|depicted object|depicted item|depicted entity|object depicted|item depicted|entity depicted|photographic subject|topic|portrait subject,,Q488383,
+decomposition,decomposition,Q339062,17,0,1,breaking down of living matter,rotting|putrefaction|rot,,Q2996394,Decomposition
+decomposition,Decomposition,Q135066129,17,0,1,video game developed by Saphire Game Studio,,Q7889,,
+decomposition,Decomposition,Q60297090,17,0,1,1998 split remix album by Merzbow,,Q482994,,
+decomposition,matrix decomposition,Q1361088,17,0,1,representation of a matrix as a product,matrix factorization|factorization|decomposition,,Q188804,Matrix decomposition
+decomposition,chemical decomposition,Q192036,17,0,1,"breakdown of a single entity (normal molecule, reaction intermediate, etc.) into two or more fragments; opposite or reverse process of a synthesis reaction",analysis reaction|chemical decomposition reaction|analysis|breakdown|decomposition reaction|decomposition|decomposes,,Q36534,Chemical decomposition
+decomposition,decomposition,Q191682,17,0,1,"Manufacturing processes, standardized according to DIN 8591",,Q2695280|Q1153670|Q317623|Q1408288,Q1408288,
+decomposition,Shannon's expansion,Q2277040,17,0,1,theorem in Boolean algebra,Boole's expansion theorem|decomposition,Q65943,,Boole's expansion theorem
+decomposition,Zersetzung,Q192028,17,0,1,"technique for the fight against political opponents by destroying them on a psychological, economical and personal life level, employed by the Ministry for State Security (Stasi) of former socialist East Germany",Decomposition,Q11376059|Q857833|Q173462|Q1225041|Q1899269|Q252000|Q17041709,Q3394581|Q163698|Q760037,Zersetzung
+decomposition,decomposition,Q4156986,17,0,1,"breaking a complex problem or system into parts that are easier to conceive, understand, program, and maintain",factoring|program extensibility,,Q3182649|Q2465506|Q130301939,Decomposition (computer science)
+decomposition,decay,Q12567030,17,0,1,anaerobic decomposition of organic matter,decomposition|anaerobic decomposition|rot,Q2996394,Q339062|Q1803203,
+decomposition,"Chemical Decomposition of Glutamine in Cell Culture Media: Effect of Media Type, pH, and Serum Concentration",Q41743417,17,0,2,"scientific article published on March 1, 1990",,Q13442814,,
+decomposition,"Chemical decomposition of 5-aza-2'-deoxycytidine (Decitabine): kinetic analyses and identification of products by NMR, HPLC, and mass spectrometry.",Q37700645,17,0,2,scientific article published on June 2009,,Q13442814,,
+decomposition,Chemical decomposition and fixation of nitrite in acidic pasture soils and implications for measurement of nitrification,Q57199044,17,0,2,,,Q13442814,,
+decomposition,Chemical decomposition along dislocations during plastic deformation,Q128296005,17,0,2,scholarly article,,Q13442814,,
+decomposition,Decomposition processes under Bt (Bacillus thuringiensis) maize: Results of a multi-site experiment,Q58213159,17,0,2,,,Q13442814,,
+decomposition,Decomposition process in Negev ecosystems,Q39488836,17,0,2,scientific article published on 01 February 1988,,Q13442814,,
+decomposition,Decomposition Process of Carboxylate MOF HKUST-1 Unveiled at the Atomic Scale Level,Q57825556,17,0,2,,,Q13442814,,
+decomposition,Decomposition processes of Spartina maritima in a salt marsh of the Basque Country,Q60351921,17,0,2,scholarly article by J. Pozo & R. Colino published April 1992 in Hydrobiologia,,Q13442814,,
+decomposition,Decomposition processes and structural transformations of cerium propionate into nanocrystalline ceria at different oxygen partial pressures,Q59921456,17,0,2,,,Q13442814,,
+decomposition,Decomposition processes of an organic monolayer formed on Si(111) via a silicon-carbon bond induced by exposure to UV irradiation or ozone,Q81602061,17,0,2,scientific article published on 01 February 2004,,Q13442814,,
+decomposition,Decomposition process of Chinese fir stump roots and changes of nutrient concentration,Q77419882,17,0,2,scientific article published on 01 February 2000,,Q13442814,,
+decomposition,Decomposition process in the Mediterranean region. Chemical compounds and essential oil degradation from Myrtus communis,Q130927733,17,0,2,scientific article published in 2010,,Q13442814,,
+decomposition,Decomposition process of Sm2Zr2O7+8YSZ composite TBC systems in conditions of hot corrosion,Q127017659,17,0,2,scholarly article,,Q13442814,,
+decomposition,Decomposition processes interacting with microtopography maintain ecosystem heterogeneity in a subalpine grassland,Q129021960,17,0,2,scholarly article,,Q13442814,,
+decomposition,Decomposition reactions of nitrogen oxides in direct current glow discharges,Q26366421,17,0,2,report of investigation published in 1975,,Q3099732,,
+decomposition,Decomposition Reactions and Reversibility of the LiBH4−Ca(BH4)2 Composite,Q58830066,17,0,2,,,Q13442814,,
+decomposition,Decomposition Reaction of Lithium Bis(oxalato)borate in the Rechargeable Lithium-Oxygen Cell,Q57731517,17,0,2,,,Q13442814,,
+decomposition,Decomposition reaction of organophosphorus nerve agents on solid surfaces with atmospheric radio frequency plasma generated gaseous species,Q50975557,17,0,2,scientific article published on 19 June 2007,,Q13442814,,
+decomposition,Decomposition Reaction of Dioxetanone in Firefly Bioluminescence by Computer Experiment,Q36273760,17,0,2,"scientific article published on December 1, 2005",,Q13442814,,
+decomposition,Decomposition reactions of (hydroxyalkyl) nitrosoureas and related compounds: possible relationship to carcinogenicity,Q42228532,17,0,2,scientific article published on August 1985,,Q13442814,,
+decomposition,Decomposition reaction of the veterinary antibiotic ciprofloxacin using electron ionizing energy,Q46867347,17,0,2,"scientific article published on July 10, 2014",,Q13442814,,
+decomposition,Decomposition reactions of dimethyl-di-µ-methylene-bis(η-pentamethylcyclopentadienyl)dirhodium and their relation to the mechanism of the Fischer-Tropsch reactions; the formation of propylene from three C1ligands,Q60211908,17,0,2,,,Q13442814,,
+decomposition,Decomposition reaction of sesamin in supercritical water,Q83826503,17,0,2,scientific article published on 01 May 2006,,Q13442814,,
+manufacturing process,quality process,Q3406372,17,1,1,engineering process,manufacturing process|process (quality management)|design process|production process|control process|QC,Q116505632,Q10843872|Q338754,
+manufacturing process,unit process,Q2755114,17,1,1,one or more grouped operations in a manufacturing system that can be defined and separated from others,manufacturing process,,Q2281940,Unit process
+manufacturing process,manufacturing process management,Q462877,17,1,1,collection of technologies and methods used to define how products are to be manufactured,,,Q309100,Manufacturing process management
+manufacturing process,manufacturing process,Q1408288,17,1,1,processes of production technology in which products from other goods are created,,Q2695280|Q116505632,Q1408286,
+manufacturing process,manufacturing processes and technologies,Q113161601,17,1,1,field of research,,Q11862829,Q11049265,
+manufacturing process,Manufacturing Processing and Properties Manipulations of Thick Advanced Performance PEEK Polymer and Composites for Biomedical and Extremely Harsh Environments,Q107237065,17,1,1,doctoral dissertation submitted to Texas A&M University's mechanical engineering department,,Q1385450|Q187685,,
+manufacturing process,Manufacturing process for cyclodextrin derivatives,Q140307309,17,1,1,US patent 11208500,,Q43305660,,
+manufacturing process,Manufacturing process control based on multimodality and multi-resolution time series data,Q118177855,17,1,1,US patent 11221592,,Q43305660,,
+manufacturing process,Manufacturing process of hot press formed aluminized steel parts,Q123516609,17,1,1,US patent 11401577,,Q43305660,,
+manufacturing process,Manufacturing process for polysaccharide beads,Q130284415,17,1,1,US patent 11236216,,Q43305660,,
+manufacturing process,Decomposition processes under Bt (Bacillus thuringiensis) maize: Results of a multi-site experiment,Q58213159,17,1,2,,,Q13442814,,
+manufacturing process,Decomposition process in Negev ecosystems,Q39488836,17,1,2,scientific article published on 01 February 1988,,Q13442814,,
+manufacturing process,Decomposition Process of Carboxylate MOF HKUST-1 Unveiled at the Atomic Scale Level,Q57825556,17,1,2,,,Q13442814,,
+manufacturing process,Decomposition processes of Spartina maritima in a salt marsh of the Basque Country,Q60351921,17,1,2,scholarly article by J. Pozo & R. Colino published April 1992 in Hydrobiologia,,Q13442814,,
+manufacturing process,Decomposition processes and structural transformations of cerium propionate into nanocrystalline ceria at different oxygen partial pressures,Q59921456,17,1,2,,,Q13442814,,
+manufacturing process,Decomposition processes of an organic monolayer formed on Si(111) via a silicon-carbon bond induced by exposure to UV irradiation or ozone,Q81602061,17,1,2,scientific article published on 01 February 2004,,Q13442814,,
+manufacturing process,Decomposition process of Chinese fir stump roots and changes of nutrient concentration,Q77419882,17,1,2,scientific article published on 01 February 2000,,Q13442814,,
+manufacturing process,Decomposition process in the Mediterranean region. Chemical compounds and essential oil degradation from Myrtus communis,Q130927733,17,1,2,scientific article published in 2010,,Q13442814,,
+manufacturing process,Decomposition process of Sm2Zr2O7+8YSZ composite TBC systems in conditions of hot corrosion,Q127017659,17,1,2,scholarly article,,Q13442814,,
+manufacturing process,Decomposition processes interacting with microtopography maintain ecosystem heterogeneity in a subalpine grassland,Q129021960,17,1,2,scholarly article,,Q13442814,,
+Suki,Suki,Q12057210,18,0,1,female given name,,Q11879590,,
+Suki,Suki,Q86213096,18,0,1,family name,,Q101352,,
+Suki,Sukihana,Q105627895,18,0,1,American rapper and television personality,Destiny Lanette Henderson|Suki|Suki with the Good Coochie,Q5,,Sukihana
+Suki,Suki,Q139300929,18,0,1,,,Q5,,
+Suki,Suki,Q139300930,18,0,1,,,Q5,,
+Suki,Suki Waterhouse,Q16235151,18,0,1,British model and actress,Alice Suki Waterhouse,Q5,,Suki Waterhouse
+Suki,Suki Sin,Q126172094,18,0,1,American pornographic actress,Suki,Q5,,
+Suki,Suki,Q2089984,18,0,1,Trans–New Guinea language,Suki language,Q34770|Q1288568,Q34018|Q5577428,Suki language
+Suki,Suki Ali,Q112322705,18,0,1,associate professor in sociology at the London School of Economics and Political Science,,Q5,,
+Suki,Suki,Q20040774,18,0,1,2014 single by Kana Nishino,,Q134556,,

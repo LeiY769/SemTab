@@ -1,0 +1,150 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bullenhuser Damm,Bullenhuser Damm,Q106605094,0,0,1,"street in Hamburg, Germany","Bullenhuser Damm, Hamburg|Bullenhuser Damm (Hamburg)",Q79007,,
+Bullenhuser Damm,Neuengamme Concentration Camp - Bullenhuser Damm Memorial,Q76633469,0,0,1,museum and memorial in Hamburg,Bullenhuser Damm Memorial,Q33506|Q5003624,,Bullenhuser Damm
+Bullenhuser Damm,Bullenhuser Damm Massacre,Q130541497,0,0,1,,,Q750215|Q135010|Q1340848|Q13587273,,
+Bullenhuser Damm,Schule Bullenhuser Damm,Q1004271,0,0,1,school building in Hamburg,,Q1244442|Q11691318,,
+Intellectual,intellectual,Q58968,1,0,1,person who engages in critical thinking and reasoning,intellectuals|intelligentsia|polymath,Q28640|Q12737077,Q4964182,Intellectual
+Intellectual,Intellectual History Review,Q15760916,1,0,1,academic journal,,Q5633421,,
+Intellectual,intellectual disability,Q183560,1,0,1,generalized neurodevelopmental disorder,mental retardation|intellectual developmental disability|ID|IDD|general learning disability|syndromic intellectual disability|slowness|IQ under 70|intelligence quotient under 70|Intellectual Disabilities|rare intellectual disability|disorder of intellectual development,Q112193867,Q7574983|Q5141203|Q12131,Intellectual disability
+Intellectual,disability affecting intellectual abilities,Q3317827,1,0,1,subnormal intellectual functioning (cognitive disorder),impairment of intellectual functions|medical condition affecting cognitive ability|intellectual disability,Q112193867,Q12131|Q183560,Disabilities affecting intellectual abilities
+Intellectual,intellectual property,Q131257,1,0,1,intangible asset consisting of ownership of ideas and processes,IP,Q116460050|Q1047113|Q11862829|Q2267705|Q2135465,Q1400881|Q427581|Q1146011|Q332624,Intellectual property
+Intellectual,Intellectual and Developmental Disabilities,Q15746478,1,0,1,journal,,Q5633421,,
+Intellectual,school of thought,Q1387659,1,0,1,group of people sharing common outlook on an academic issue or field,intellectual tradition|intellecual tendency|schools of thought|intellectual traditions|intellecual tendencies,,Q12558574|Q2198855,School of thought
+Intellectual,Intellectual,Q19883905,1,0,1,painting by Arthur Dove,,Q3305213,,
+Intellectual,Intellectual Reserve,Q5918641,1,0,1,intellectual property asset management company operated by The Church of Jesus Christ of the Latter-day Saints,"Intellectual Reserve, Inc|Intellectual Reserve Inc",Q163740,,Intellectual Reserve
+Intellectual,intellectual property law,Q18657604,1,0,1,area of law relating to intellectual property,IP law,Q1756157,Q131257|Q49371,
+Intellectual,Intellectual Property,Q110826525,1,0,2,episode of Silicon Valley,,Q21191270,,
+Intellectual,Intellectual Property,Q63770818,1,0,2,Chinese journal,,Q737498,,
+Intellectual,intellectual property right,Q108855835,1,0,2,legal concept addressing ownership of results of creative work,intellectual property rights|IP rights,Q118593729,Q6498684,Intellectual property right
+Intellectual,Intellectual Property,Q3152999,1,0,2,2006 American film,Dark Mind,Q11424,,Intellectual Property (film)
+Intellectual,Intellectual Property Owners Association,Q6043681,1,0,2,,IPO,Q43229,,Intellectual Property Owners Association
+Intellectual,intellectual property organization,Q6043746,1,0,2,"organization focused on copyrights, trademarks, patents, or other intellectual property law concepts",IP organization,,Q43229,Intellectual property organization
+Intellectual,Intellectual Property,Q117671783,1,0,2,2023 studio album by Waterparks,,Q482994,,Intellectual Property (album)
+Intellectual,Intellectual Property Rights Open Access,Q96709729,1,0,2,US scientific journal,Intellectual property rights. Open access,Q5633421,,
+Intellectual,mental disability,Q12145457,1,0,2,impairment in thinking,cognitive disability|intellectual disability|mental deficiency|mental disabilities,Q12131|Q2057971,Q12131|Q2200417,Mental disability
+Intellectual,Pitt-Hopkins syndrome,Q1164401,1,0,2,"rare genetic disorder characterized by developmental delay, epilepsy, distinctive facial features, and possible intermittent hyperventilation followed by apnea","Encephalopathy, Severe Epileptic, With Autonomic Dysfunction|Intellectual disability, wide mouth, distinctive facial features, and intermittent hyperventilation followed by apnea|PITT-HOPKINS SYNDROME|Mental Retardation, Syndromal, With Intermittent Hyperventilation|Pitt Hopkins syndrome|PITT-HOPKINS SYNDROME; PTHS",Q929833|Q112193867,Q179630|Q55785866|Q200779|Q18553439,Pitt–Hopkins syndrome
+Intellectual,Allan-Herndon-Dudley syndrome,Q4731121,1,0,2,congenital disorder of nervous system,"ALLAN-HERNDON SYNDROME|ALLAN-HERNDON-DUDLEY SYNDROME|T3 Resistance|X-linked intellectual disability-hypotonia syndrome|Monocarboxylate transporter 8 deficiency|AHDS|MCT8 deficiency|ALLAN-HERNDON-DUDLEY SYNDROME; AHDS|MCT8-Specific Thyroid Hormone Cell Membrane Transporter Deficiency|Mental Retardation, X-Linked, With Hypotonia|Monocarboxylate transporter-8 deficiency|Triiodothyronine resistence|X-linked intellectual disability with hypotonia|Triiodothyronine Resistance|Mental Retardation and Muscular Atrophy|T3 resisitence|Intellectual disability and muscular atrophy",Q929833|Q112193867,Q55345931|Q19001236|Q55346015|Q55785710|Q8041560|Q55786207|Q55010090,Allan–Herndon–Dudley syndrome
+Intellectual,L1 syndrome,Q6714500,1,0,2,"hereditary spastic paraplegia that is characterized by hydrocephalus, spasticity of the lower limbs, adducted thumbs, aphasia, seizures, agenesis of the corpus callosum and intellectual disability in the mild to moderate range","SPG1|Adducted Thumb With Mental Retardation|MASA SYNDROME|Clasped Thumb and Mental Retardation|X-linked corpus callosum agenesis|X-linked complicated hereditary spastic paraplegia type 1|Spastic Paraplegia 1, X-Linked|hereditary spastic paraplegia 1|Spastic Paraplegia, X-linked|Intellectual disability-aphasia-shuffling gait-adducted thumbs syndrome|Gareis-Mason syndrome|CRASH syndrome|X-linked spastic paraplegia 1|Mental Retardation, Aphasia, Shuffling Gait, and Adducted Thumbs|Thumb, Congenital Clasped, With Mental Retardation",Q112193867,Q8041560|Q657516|Q55346104|Q19001236|Q55010090,MASA syndrome
+Intellectual,Christianson syndrome,Q28065629,1,0,2,"rare form of syndromic intellectual deficit characterized by microcephaly, severe developmental delay or regression, hypotonia, abnormal movements, and early-onset seizures","MRXSCH|X-linked Angelman-like syndrome|X-linked intellectual disability, South African type|X-linked intellectual disability-craniofacial dysmorphism-epilepsy-ophthalmoplegia-cerebellar atrophy syndrome|mental retardation, X-linked syndromic, Christianson type|mental retardation, microcephaly, epilepsy, and ataxia syndrome|MENTAL RETARDATION, X-LINKED, SYNDROMIC, CHRISTIANSON TYPE|MENTAL RETARDATION, X-LINKED, SYNDROMIC, CHRISTIANSON TYPE; MRXSCH|Intellectual disability x-linked syndromic Christianson type|Angelman-Like Syndrome, X-Linked|MRXS Christianson|Intellectual disability microcephaly epilepsy and ataxia syndrome|Angelman-like syndrome x-linked|X-linked intellectual disability - craniofacial dysmorphism - epilepsy - ophthalmoplegia - cerebellar atrophy",Q929833|Q112193867,Q8041560|Q21082499|Q55785288|Q55010089|Q55788864,Christianson syndrome
+Intellectual,"intellectual disability, autosomal recessive 18",Q109933168,1,0,2,,MED23,Q112193867,Q19587384,
+Intellectual,Borjeson-Forssman-Lehmann syndrome,Q1019940,1,0,2,genetic condition in humans,"BORJESON SYNDROME|BFLS|BORJ|MRXSBFL|intellectual deficiency-epilepsy-endocrine disorders syndrome|mental retardation, epilepsy, and endocrine disorder|syndromic X-linked mental retardation Borjeson-Forssman-Lehmann type|Mental Retardation, Epilepsy, and Endocrine Disorders|BORJESON-FORSSMAN-LEHMANN SYNDROME; BFLS|BORJESON-FORSSMAN-LEHMANN SYNDROME|Mental Retardation, X-Linked, Syndromic, Borjeson-Forssman-Lehmann Type|Intellectual disability-epilepsy-endocrine disorders syndrome|Mental deficiency, epilepsy and endocrine disorders",Q929833|Q112193867,Q8041560|Q55786310|Q55785288|Q622427|Q55010090|Q55788864,Börjeson–Forssman–Lehmann syndrome
+Intellectual,FRAXE intellectual disability,Q21051307,1,0,2,FRAXE is a form of nonsyndromic X-linked mental retardation (NS-XLMR) characterized by mild intellectual deficit. FRAXE is the most common form of NS-XLMR.,"fragile X E syndrome|Fraxe Mental Retardation Syndrome|X-linked mental retardation associated with fragile site FRAXE|Fragile site, folic acid type|MENTAL RETARDATION, X-LINKED, ASSOCIATED WITH FRAGILE SITE FRAXE|Fragile XE syndrome|Intellectual disability associated with fragile site FRAXE|FRAXE syndrome",Q929833|Q112193867,Q18965508|Q8041560|Q3311537,
+Intellectual,intellectual capital,Q1329252,1,0,2,"intangible assets, for example, knowledge, resource know-how and processes",,,Q165687|Q427581,Intellectual capital
+Intellectual,Intellectual capital reporting in Malaysian companies: a multidimensional analysis,Q112890607,1,0,2,2012 doctoral thesis by Norhayati Mat Husin at Auckland University of Technology,,Q187685,,
+Intellectual,Intellectual Capital in the Software Industry: An Empirical Test,Q110719902,1,0,2,"doctoral thesis by Emer Dooley, University of Washington, 2000",,Q47461344|Q187685,,
+Intellectual,Intellectual capital reporting in New Zealand: refining content analysis as a research method,Q112360002,1,0,2,2007 doctoral thesis by Natasja Steenkamp at Auckland University of Technology,,Q187685,,
+Intellectual,Intellectual capital management,Q6043704,1,0,2,,,Q309100|Q96247293,Q56027094,Intellectual capital management
+Intellectual,intellectual capital indicator,Q138498684,1,0,2,indicator that can be used to assess whether knowledge management actually pays off,,,Q192060|Q113465652|Q1329252,
+Intellectual,"Intellectual capital and firm performance: evidence from developed, emerging and frontier markets of the world",Q112931393,1,0,2,2016 doctoral thesis by Muhammad Nadeem at Lincoln University,,Q187685,,
+Intellectual,Intellectual capital disclosures by Australian companies,Q112871119,1,0,2,2007 bachelor's with honours thesis by Richard James Woodcock at University of Otago,,Q111475835,,
+Intellectual,"Intellectual capital, performance and industry in North American firms",Q112870321,1,0,2,2007 bachelor's with honours thesis by Grant Jackson at University of Otago,,Q111475835,,
+Intellectual,Intellectual capital reporting and shareholder wealth,Q112859413,1,0,2,2004 master's thesis by Laurance Emrah Basturkmen at University of Otago,,Q1907875,,
+Avondale School,Avondale School,Q4829328,2,0,1,"school in Cooranbong, New South Wales, Australia",,Q3914|Q9826,,Avondale School (Cooranbong)
+Avondale School,Avondale School (Christchurch),Q106629426,2,0,1,former school in New Zealand,,Q9842|Q1080794,,
+Avondale School,Avondale University,Q2874477,2,0,1,"private university in New South Wales, Australia",Avondale College|Avondale University College|Avondale School for Christian Workers,Q3918|Q1743327,,Avondale University
+Avondale School,Avondale School District,Q4829329,2,0,1,public school district school in the United States,,Q398141,,Avondale School District
+Avondale School,Avondale School,Q4829327,2,0,1,Wikimedia disambiguation page,,Q4167410,,Avondale School
+Avondale School,Avondale High School,Q16836157,2,0,2,"high school in DeKalb County, Georgia",,Q9826,,"Avondale High School (DeKalb County, Georgia)"
+Avondale School,Avondale High School,Q4829313,2,0,2,"high school in Michigan, United States",,Q9826,,Avondale High School (Michigan)
+Avondale School,Avondale High School,Q4829310,2,0,2,Wikimedia disambiguation page,,Q4167410,,Avondale High School
+Dauntsey's School,Dauntsey's School,Q5228062,3,0,1,"school in Wiltshire, UK",,Q3914|Q2418495|Q269770|Q708676,,Dauntsey's School
+Dauntsey's School,Dauntsey's School,Q26646352,3,0,1,"school building in West Lavington, Wiltshire, England, UK",,Q1244442,,
+Dauntsey's School,Dauntsey railway station,Q5228064,3,0,2,"railway station in Dauntsey, Wiltshire, England, UK",Dauntsey Station,Q55488,,Dauntsey railway station
+Lateinschule,Lateinschule,Q435855,4,0,1,timber framed house,,Q12020836|Q3914,,
+Lateinschule,Lateinschule,Q20369582,4,0,1,school in Germany,,Q3914|Q12020836,,
+Lateinschule,Lateinschule,Q41303101,4,0,1,"cultural heritage monument D-6-62-000-105 (0) in Schweinfurt, Bavaria",,Q221175,,
+Lateinschule,Lateinschule,Q98608296,4,0,1,"cultural heritage monument D-5-71-136-132 (0) in Dinkelsbühl, Bavaria",,Q221175,,
+Lateinschule,Lateinschule,Q16832789,4,0,1,"school building in Bernau bei Berlin, Brandenburg state, Germany",,Q1244442,,
+Lateinschule,Lateinschule,Q31808521,4,0,1,"cultural heritage monument D-6-75-174-75 (0) in Volkach, Bavaria",,Q811979,,
+Lateinschule,Lateinschule,Q1806870,4,0,1,,,Q811979,,
+Lateinschule,Lateinschule,Q41306287,4,0,1,"cultural heritage monument D-4-62-000-156 (0) in Bayreuth, Bavaria",,Q1516079,,
+Lateinschule,Lateinschule,Q110797678,4,0,1,,,Q221175,,
+Lateinschule,Lateinschule,Q34358778,4,0,1,"former Latin school in Ravensburg, Germany",,Q1244442|Q221175|Q1021645,,
+Lateinschule,Latin school,Q221175,4,0,2,school type in Europe from the 14th to 19th centuries,Latin grammar school,,Q3914,Latin school
+Lateinschule,Latin School,Q7475838,4,0,2,,,Q1244442|Q2385804,,
+Lateinschule,Latin School,Q2540814,4,0,2,"school in Gemert, Netherlands",,Q1244442,,
+Lateinschule,Latin School of Chicago,Q6496477,4,0,2,"private school in Chicago, Illinois, United States",,Q428602,,Latin School of Chicago
+Lateinschule,Latin School (Moravská Třebová),Q21598498,4,0,2,,,Q1244442,,
+Lateinschule,Latin School of Indianapolis,Q6496479,4,0,2,,,,,Latin School of Indianapolis
+Lateinschule,Latin School,Q6496475,4,0,2,Wikimedia disambiguation page,,Q4167410,,Latin School
+Wellesley College,Wellesley College,Q49205,5,0,1,private women's liberal arts college in Massachusetts,Wellesley Centers for Women,Q3918|Q23002054|Q3660535,,Wellesley College
+Wellesley College,Wellesley College,Q7981238,5,0,1,"private full primary school in Lower Hutt, New Zealand","Wellesley College, New Zealand",Q9842|Q423208|Q163740,,"Wellesley College, New Zealand"
+Wellesley College,Wellesley College Columbarium,Q112107812,5,0,1,"burial place at Wellesley College, Wellesley, Massachusetts",,Q39614,,
+Wellesley College,Wellesley College Botanic Gardens,Q7981239,5,0,1,"Botanic gardens in Wellesley, Massachusetts, U.S.",,Q167346,,Wellesley College Botanic Gardens
+Wellesley College,The Wellesley Legenda,Q113000845,5,0,1,yearbook of Wellesley College,Wellesley Legenda|Wellesley College Legenda|Legenda,Q9311446,,
+Wellesley College,Wellesley College Senate bus,Q7981242,5,0,1,shuttle bus in Massachusetts,,,,Wellesley College Senate bus
+Wellesley College,Wellesley Blue,Q105076895,5,0,1,intercollegiate sports teams of Wellesley College,Wellesley College athletics,Q2367225,,Wellesley Blue
+Wellesley College,Wellesley College Library,Q138507432,5,0,1,library of Wellesley College,Wellesley College Libraries|Margaret Clapp Library|Clapp Library,Q856234,,
+Wellesley College,Wellesley College Tupelos,Q39046807,5,0,1,capella music group,,Q19351429,,Wellesley College Tupelos
+Wellesley College,Wellesley College Art Department,Q139699987,5,0,1,academic department at Wellesley College,Wellesley College Department of Art,Q2467461,,
+Arnold Lodge School,Arnold Lodge School,Q4795148,6,0,1,"independent day school in Leamington Spa, Warwickshire, England",,Q3914,,Arnold Lodge School
+Arnold Lodge School,Arnold Lodge School,Q67146089,6,0,1,"school in Warwickshire, UK",,Q2418495,,
+Arnold Lodge School,Arnold Lodge,Q430159,6,0,2,hospital,,Q210999,,Arnold Lodge
+Arnold Lodge School,Arnold Lodge,Q26661303,6,0,2,"gatehouse in Royal Leamington Spa, Warwick, Warwickshire, England, UK",,Q277760,,
+Cornerstone Christian School,Cornerstone Christian School,Q38252026,7,0,1,"state-integrated composite school in Palmerston North, New Zealand",,Q3914|Q15134891|Q5150914,,"Cornerstone Christian School, Palmerston North"
+Cornerstone Christian School,Cornerstone Christian School,Q25205811,7,0,1,"private christian school in Albion, Noble County, Indiana, United States",,Q3914,,"Cornerstone Christian School (Albion, Indiana)"
+Cornerstone Christian School,Cornerstone Christian School,Q5171664,7,0,1,"private school in Camarillo, California",,Q3914,,"Cornerstone Christian School (Camarillo, California)"
+Cornerstone Christian School,Cornerstone Christian School,Q25205820,7,0,1,"private christian school in Cannelton, Perry County, Indiana, United States",,Q3914,,
+Cornerstone Christian School,Cornerstone Christian School,Q97336528,7,0,1,"primary school in Gauteng, South Africa",,Q9842,,
+Cornerstone Christian School,Cornerstone Christian School Football Field and Track,Q49480199,7,0,1,"park in Bexar County, Texas, United States of America",,Q22698,,
+Cornerstone Christian School,Cornerstone Christian School,Q140421049,7,0,1,Wikimedia disambiguation page,,Q4167410,,Cornerstone Christian School
+Cornerstone Christian School,Christian school,Q867738,7,0,2,school run on Christian principles or by a Christian organization,,Q112872396|Q121144598,Q1971849|Q94670589|Q118836545,Christian school
+Cornerstone Christian School,Christian Schools International,Q5110109,7,0,2,organization,,Q43229,,Christian Schools International
+Cornerstone Christian School,Category:Christian schools in Slovakia,Q28463107,7,0,2,Wikimedia category,Christian schools in Slovakia,Q4167836,,Category:Christian schools in Slovakia
+Cornerstone Christian School,Christian School of Oulu,Q125677300,7,0,2,,,Q867738|Q10509147,,
+Cornerstone Christian School,Christian School Foundation of Catalonia,Q60519795,7,0,2,Catalan foundation supporting the Christian schools,Fundació Escola Cristiana de Catalunya,Q7246201,,
+Cornerstone Christian School,"Christian School for MAVO ""Nij Walpert""",Q27680691,7,0,2,"school for secondary education in Wommels, Friesland, the Netherlands",Nij Walpert,Q3914,,
+Cornerstone Christian School,Christian school reporter,Q117775056,7,0,2,former Australian education journal,,Q737498,,
+Cornerstone Christian School,Christian Schools Trust Group,Q136754971,7,0,2,charity from New Zealand,,Q163740,,
+Cornerstone Christian School,Christian Schools Tasmania,Q136717054,7,0,2,nonprofit organisation from Australia,,Q163740,,
+Cornerstone Christian School,Christian School Foundation (canada) Inc.,Q137366347,7,0,2,charitable organization from Canada,,Q163740,,
+Campbell High School,Campbell High School,Q5028085,8,0,1,"school in Campbell, Santa Clara County, California, United States",,Q1244442|Q3914,,Campbell High School (California)
+Campbell High School,Campbell High School,Q5028088,8,0,1,"Public high school and international baccalaureate magnet school in Smyrna, Georgia, United States",`,Q9826,,Campbell High School (Georgia)
+Campbell High School,Campbell High School,Q5028086,8,0,1,"school in Campbell, Australian Capital Territory, Australia",,Q9826|Q1080794,,Campbell High School (Canberra)
+Campbell High School,Campbell High School,Q5028087,8,0,1,"high school in New Hampshire, United States",,Q9826,,Campbell High School (New Hampshire)
+Campbell High School,Campbell High School,Q16768205,8,0,1,Wikimedia disambiguation page,,Q4167410,,Campbell High School
+Campbell High School,Campbell Highet,Q75583353,8,0,2,Peerage person ID=226063,Dr. Campbell Highet,Q5,,
+Beaulieu College,Beaulieu College,Q97335647,9,0,1,secondary school in South Africa,,Q159334,,
+Beaulieu College,Beaulieu College,Q4877509,9,0,1,"private school in Kyalami, Midrand, Gauteng, South Africa",,Q3914,,
+Max-Planck-Schule,Max-Planck-Schule,Q47518041,10,0,1,school in Rüsselsheim am Main (Hesse),Max-Planck-Schule (Rüsselsheim am Main),Q3914,,
+Max-Planck-Schule,Max-Planck-Schule,Q61769315,10,0,1,listed architectural structure in Berlin-Mitte,,Q811979|Q3914,,
+Max-Planck-Schule,Max Planck school,Q1912113,10,0,1,school in Kiel,,Q3914|Q1542966,,
+Max-Planck-Schule,Max Planck School,Q48882974,10,0,2,,,,Q38723,
+Max-Planck-Schule,Max Planck School of Photonics,Q138655167,10,0,2,"education organization in Jena, Germany",MPSP,Q2385804,,
+Max-Planck-Schule,"Max Planck School on Physics, Chemistry and Construction of Life",Q48880259,10,0,2,Doctoral training centre,Matter to Life,Q48882974,,
+Calvary Christian School,Calvary Christian School,Q5024169,11,0,1,"private christian school in Covington, KY",,Q3914,,"Calvary Christian School (Covington, Kentucky)"
+Calvary Christian School,Calvary Christian School,Q65091361,11,0,1,"private school in King, North Carolina, United States",,Q3914,,"Calvary Christian School (King, North Carolina)"
+Calvary Christian School,Calvary Christian School,Q5024167,11,0,1,Wikimedia disambiguation page,,Q4167410,,Calvary Christian School
+Calvary Christian School,Calvary Christian Academy,Q5024165,11,0,2,"private school in Cresaptown, Maryland, United States",,Q3914,,Calvary Christian Academy (Maryland)
+Calvary Christian School,Calvary Christian Academy,Q48838041,11,0,2,"private school in Fort Lauderdale, Florida, United States",Fort Lauderdale Christian School (merged in),Q3914,,Calvary Christian Academy (Florida)
+Calvary Christian School,Calvary Christian Academy,Q127413169,11,0,2,Wikimedia disambiguation page,,Q4167410,,Calvary Christian Academy
+Calvary Christian School,Calvary Christian High School,Q5024166,11,0,2,"high school in Pinellas County, Florida, United States",,Q9826,,Calvary Christian High School (Florida)
+Saint Peter's School,Saint Peter's School,Q2388897,12,0,1,secondary school in Russia,,Q3914|Q2319498,,Saint Peter's School (Saint Petersburg)
+Saint Peter's School,Saint Peter's School,Q26303502,12,0,1,"building in Kettering, Northamptonshire, England, UK",,Q41176,,
+Saint Peter's School,Saint Peter's University,Q3443737,12,0,2,"private, coeducational, Jesuit, Roman Catholic college in Jersey City, New Jersey, U.S.",Saint Peter's|Saint Peter's College|Saint Peters University|Saint Peters College|St. Peter's College|St. Peter's University,Q3918|Q23002054,,Saint Peter's University
+Saint Peter's School,Saint Peter's International College,Q114440303,12,0,2,international Catholic college for boys aged 11-18,St Peters International College|Saint Peters International College|St Peter's International College|St Peters College|Saint Peter's College|St Peter's College|Saint Peters College,Q3914,,
+Saint Peter's School,Saint Peter's College,Q22999937,12,0,2,"secondary school in Buwera East, Uganda",,Q159334,,
+Saint Peter's School,St Peter's College,Q163782,12,0,2,"state-integrated secondary (year 7-15) school in Auckland, New Zealand","St Peter's College, Auckland|St Peters College Auckland",Q159334|Q15134891|Q163740,,"St Peter's College, Auckland"
+Saint Peter's School,Saint Peter's College Amusala,Q22667920,12,0,2,"secondary school in Okudelia, Uganda",,Q159334,,
+Saint Peter's School,Saint Peter's College Arua,Q22923831,12,0,2,"secondary school in Obolokofuku East, Uganda",,Q159334,,
+Saint Peter's School,Saint Peter's College Secondary School,Q23047909,12,0,2,"secondary school in Muterere East, Uganda",,Q159334,,
+Saint Peter's School,St Peter's College,Q7595313,12,0,2,college in Saskatchewan Canada,,Q189004|Q708676,,"St Peter's College, Muenster"
+Saint Peter's School,Saint Peter's College,Q12966699,12,0,2,"Iligan City, Philippines",,,,
+Saint Peter's School,Lancaster Cathedral,Q1357850,12,0,2,"Roman Catholic cathedral in Lancaster, England",The Cathedral Church of St Peter|Saint Peter's Cathedral,Q56242215,,Lancaster Cathedral
+Saint Peter's School,Peterborough Cathedral,Q1259104,12,0,2,"cathedral in Peterborough, Cambridgeshire, England, UK","Cathedral Church of St Peter, St Paul and St Andrew|Saint Peter's Cathedral",Q56242250,,Peterborough Cathedral
+Saint Peter's School,Cathedral of Saint Peter,Q5052370,12,0,2,"church in Kansas City, Kansas, United States",Saint Peter's Cathedral,Q56242215,,"Cathedral of Saint Peter (Kansas City, Kansas)"
+Saint Peter's School,Saint Peter's Cathedral,Q110766386,12,0,2,"ancient Cathedral of Alessandria, demolished in 1803 by order of Napoleon Bonaparte",,Q97588309|Q57644089,,
+Saint Peter's School,Montpellier Cathedral,Q1736197,12,0,2,"cathedral located in Hérault, in France",Saint Peter's Cathedral (Montpellier),Q56242215|Q120560,,Montpellier Cathedral
+Saint Peter's School,Saint Peter's Cathedral,Q125684886,12,0,2,cathedral of Gabon,cathédrale Saint-Pierre de Libreville,Q56242215,,
+Saint Peter's School,Lurín Cathedral,Q124044106,12,0,2,cathedral in Peru,Saint Peter's Cathedral,Q2977,,
+Saint Peter's School,Condom Cathedral,Q2942431,12,0,2,"cathedral located in Gers, in France","Cathédrale Saint-Pierre de Condom|Saint Peter's Cathedral of Condom|Cathédrale Saint-Pierre (Condom, Gers, France)",Q2977,,Condom Cathedral
+Saint Peter's School,St Peter's Cathedral,Q1144269,12,0,2,Roman Catholic cathedral church for the Diocese of Down and Connor in Northern Ireland,"Saint Peter's Cathedral, Belfast|St. Peter's Cathedral, Belfast|St. Peter's Cathedral St. Peter's Square North Belfast",Q56242215,,"St Peter's Cathedral, Belfast"
+Saint Peter's School,Saint Peter's Cathedral in Banfora,Q21007999,12,0,2,building in Burkina Faso,,Q2977,,
+Saint Peter's School,St. Peter's Basilica,Q12512,12,0,2,church in Vatican City,"St Peter's Basilica|Saint Peter's Basilica|Papal Basilica of Saint Peter in the Vatican|Saint Peter's, Vatican|Basilica of Saint Peter|Saint Peter's|St. Peter's|St Peter's",Q124936|Q2713379|Q2319498|Q317557|Q15487029,,St. Peter's Basilica
+Saint Peter's School,Saint Peter's Basilica,Q2081090,12,0,2,church building in the Netherlands,Saint Peter-in-Chains Basilica|Saint Peter-in-Chains,Q16970,,
+Saint Peter's School,Papal tombs in Old St. Peter's Basilica,Q3531183,12,0,2,Listing of tombs,Saint Peter's Basilica|Basilica Papale di San Pietro in Vaticano,Q48634,,Papal tombs in Old St. Peter's Basilica
+Saint Peter's School,Saint Peter's Basilica in art,Q55741219,12,0,2,Wikimedia list article,,Q13406463,,
+Saint Peter's School,Saint Peter's Basilica and the Papal Palace,Q64591478,12,0,2,drawing in the National Gallery of Art (NGA 62497),,Q93184,,
+Calvin Christian School,Calvin Christian School,Q5024357,13,0,1,"christian, private, day school in Kingston, Tasmania, Australia",,Q3914|Q9826,,"Calvin Christian School (Kingston, Tasmania)"
+Calvin Christian School,Calvin Christian School,Q5024356,13,0,1,"Christian school in Escondido, California, United States",,Q3914,,"Calvin Christian School (Escondido, California)"
+Calvin Christian School,Calvin Christian School,Q5024355,13,0,1,Wikimedia disambiguation page,,Q4167410,,Calvin Christian School

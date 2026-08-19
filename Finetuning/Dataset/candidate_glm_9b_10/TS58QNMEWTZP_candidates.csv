@@ -1,0 +1,144 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Sosnowiec,Sosnowiec,Q105060,0,0,1,"city in the Dąbrowa Basin (the Lesser Poland part of the Silesian Voivodeship), Poland",Sosnovets|Sosnovitze|Sosnovice|Sosnovits|Sosnovitz|Sosnovyets|Sosnowez,Q925381|Q515|Q1549591|Q2616791,,Sosnowiec
+Sosnowiec,Zagłębie Sosnowiec,Q140487,0,0,1,Polish association football club,Zagłębie|Sosnowiec,Q476028,,Zagłębie Sosnowiec
+Sosnowiec,Sosnowiec,Q7563886,0,0,1,"village in Świętokrzyskie, Poland","Sosnowiec, Świętokrzyskie Voivodeship",Q3558970,,"Sosnowiec, Świętokrzyskie Voivodeship"
+Sosnowiec,Sosnowiec,Q7563884,0,0,1,"village in Greater Poland, Poland","Sosnowiec, Greater Poland Voivodeship",Q3558970,,"Sosnowiec, Greater Poland Voivodeship"
+Sosnowiec,Sosnowiec Maczki,Q2605868,0,0,1,"railway station in Sosnowiec, Poland",,Q55488|Q811165|Q1339195|Q358|Q1402443,,
+Sosnowiec,Sosnowiec,Q768900,0,0,1,village of Poland,,Q3558970,,"Sosnowiec, Zgierz County"
+Sosnowiec,Sosnowiec,Q7563883,0,0,1,"settlement in Łódź, Poland",,Q3558970,,"Sosnowiec, Piotrków County"
+Sosnowiec,Sejm Constituency no. 32,Q11797359,0,0,1,electoral district for the Sejm of the Republic of Poland,Sosnowiec parliamentary district|Sosnowiec electoral district,Q11797473,,Sejm Constituency no. 32
+Sosnowiec,Sosnowiec Ghetto,Q4429542,0,0,1,"Nazi ghetto in Dabrowa Basin, Poland",,Q2583015,,Sosnowiec Ghetto
+Sosnowiec,Sosnowiec Główny,Q2585729,0,0,1,"main railway station in Sosnowiec, Poland",,Q55488|Q811165|Q1339195|Q358|Q55677|Q1402443,,Sosnowiec Główny railway station
+Zgierz,Zgierz,Q104407,1,0,1,city and urban gmina of Poland,,Q2616791,,Zgierz
+Zgierz,Gmina Zgierz,Q2314140,1,0,1,rural gmina of Poland,Zgierz,Q3504085,,Gmina Zgierz
+Zgierz,Zgierz County,Q1125855,1,0,1,powiat of Poland,powiat zgierski,Q247073,,Zgierz County
+Zgierz,Zgierz railway station,Q2436634,1,0,1,"railway station in Zgierz, Poland",,Q55488,,Zgierz railway station
+Zgierz,Zgierz,Q33728666,1,0,1,,,,,
+Zgierz,Zgierz massacre,Q112210783,1,0,1,"public execution of 100 Poles (96 men and 4 women) carried out by the Germans on March 20, 1942 in Zgierz",,Q3199915|Q750215|Q135010,,
+Zgierz,"Zgierz, Pomeranian Voivodeship",Q8070013,1,0,1,"village in Słupsk County, Pomeranian, Poland",,Q3558970,,"Zgierz, Pomeranian Voivodeship"
+Zgierz,Zgierz Kontrewers,Q653460,1,0,1,"railway station in Zgierz, Poland",,Q55488,,
+Zgierz,Zgierzynka,Q8070014,1,0,1,"village in Greater Poland, Poland",,Q3558970,,Zgierzynka
+Zgierz,Zgierz Północ,Q2599845,1,0,1,"railway station in Zgierz, Poland",,Q55488,,
+Gniezno,Gniezno,Q51432,2,0,1,city in central-western Poland,Gnesna,Q2616791|Q515|Q13416557|Q129268952,,Gniezno
+Gniezno,Gmina Gniezno,Q555805,2,0,1,rural gmina of Poland,Gniezno,Q3504085,,Gmina Gniezno
+Gniezno,Gniezno County,Q133166,2,0,1,powiat of Poland,,Q247073,,Gniezno County
+Gniezno,Gniezno,Q2304534,2,0,1,"railway station in Gniezno, Poland",,Q55488,,Gniezno railway station
+Gniezno,Gniezno,Q19139313,2,0,1,poem by Władysław Syrokomla,,Q7725634,,
+Gniezno,Gniezno,Q104636809,2,0,1,painting by Henryk Musiałowicz,,Q3305213,,
+Gniezno,Gniezno,Q33676383,2,0,1,,,,,
+Gniezno,Gniezno,Q103927065,2,0,1,encyclopedia article,,Q13433827,,
+Gniezno,Gniezno Voivodeship,Q1904883,2,0,1,former administrative division of the Kingdom of Poland,,Q84582639,,Gniezno Voivodeship
+Gniezno,Gniezno Południe junction,Q138570153,2,0,1,"road junction in Poland, in Greater Poland Voivodeship; it connects expressway S5 with voivodeship road 194 (former national road 5) near Gniezno",,Q353070,,
+Gniezno,Gniezno Cathedral Library,Q129783113,2,0,2,Cathedral library of Gniezno,Gniezno Biblioteca Katedralna,Q1236923,,
+Gniezno,Gniezno Cathedral. Fragment of the decoration of the mitre from the tomb of Archbishop Oleśnicki (carved by Veit Stoss),Q140194508,2,0,2,"drawing by Stanisław Wyspiański from a sketchbook from a journey in 1890, so-called ""Ehrenpreiss Album"". Page II-20 recto",,Q93184,,
+Turek,Turek,Q924132,3,0,1,city and urban gmina of Poland,,Q2616791|Q515,,"Turek, Poland"
+Turek,Turek,Q15726898,3,0,1,family name,,Q101352,,
+Turek,Gmina Turek,Q557410,3,0,1,rural gmina of Poland,Turek,Q3504085,,Gmina Turek
+Turek,Turek County,Q133260,3,0,1,powiat of Poland,powiat turecki,Q247073,,Turek County
+Turek,Turek,Q18915777,3,0,1,"hill in Jeníkovice, Czech Republic",,Q54050,,
+Turek,Turek,Q1983290,3,0,1,"railway station in Turek, Poland",,Q55488,,
+Turek,"Turek, Masovian Voivodeship",Q733092,3,0,1,village of Poland,Turek,Q3558970,,"Turek, Masovian Voivodeship"
+Turek,Turks,Q84072,3,0,1,Turkic ethnic group,Turkish people,Q33829|Q6266|Q2472587|Q41710|Q231002,Q22947|Q4058325|Q100448011|Q394067,Turkish people
+Turek,Turekisa,Q24705837,3,0,1,"village in Ngada Regency, East Nusa Tenggara, Indonesia",,Q26211545,,
+Turek,Turekhan Akhmedov,Q102378922,3,0,1,Ph.D. Al-Farabi Kazakh National University 2008,,Q5,,
+Turek,"Turek, Poland",Q7452480,3,0,2,,,,,
+Bielsk Podlaski,Bielsk Podlaski,Q850714,4,0,1,city and urban gmina of Poland,Byelsk|Bielsk|Bilsk|Bielsko Podlaskie|Byelsk Podlaski|Bielsk-Podliask|Bielsk Podlaski (Poland),Q2616791,,Bielsk Podlaski
+Bielsk Podlaski,Gmina Bielsk Podlaski,Q615412,4,0,1,rural gmina of Poland,Bielsk Podlaski,Q3504085,,Gmina Bielsk Podlaski
+Bielsk Podlaski,Bielsk Podlaski train station,Q2106173,4,0,1,"railway station in Bielsk Podlaski, Poland",,Q55488,,
+Bielsk Podlaski,Bielsk Podlaski,Q31915744,4,0,1,,,,,
+Bielsk Podlaski,Bielsk Podlaski Orthodox deanery,Q9203459,4,0,1,,,,,
+Bielsk Podlaski,Bielsk Podlaski Catholic deanery,Q969669,4,0,1,,,Q385337,,
+Bielsk Podlaski,Bielsk County,Q931478,4,0,1,county in Poland,,Q247073,,Bielsk County
+Bielsk Podlaski,Bielsk Podlaski Ghetto,Q11104320,4,0,1,Nazi ghetto in occupied Poland,,Q2583015,,
+Bielsk Podlaski,Bielsk Podlaski town hall,Q11110210,4,0,1,,,Q25550691,,
+Bielsk Podlaski,coat of arms of Bielsk Podlaski,Q9289046,4,0,1,,Bielsk Podlaski coat of arms,Q14659,,
+Bartoszyce,Bartoszyce,Q809585,5,0,1,city and urban gmina of Poland,Bartenstein|Barštynas,Q2616791,,Bartoszyce
+Bartoszyce,Gmina Bartoszyce,Q556220,5,0,1,rural gmina of Poland,Bartoszyce,Q3504085,,Gmina Bartoszyce
+Bartoszyce,Bartoszyce County,Q1130338,5,0,1,powiat of Poland,Powiat bartoszycki,Q247073,,Bartoszyce County
+Bartoszyce,Bartoszyce,Q31911803,5,0,1,,,Q12357832,,
+Bartoszyce,Bartoszyce train station,Q3090245,5,0,1,"railway station in Bartoszyce, Poland",,Q55488,,
+Bartoszyce,Bartoszyce - Pravdinsk railway line,Q112183809,5,0,1,"former railway line in Poland and Kaliningrad Oblast, Russia, part of the East Prussian Bartenstein - Friedland - Wehlau line",Railway line 573 (Poland),Q728937,,
+Bartoszyce,Bartoszyce,Q6467766,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Starachowice,Starachowice,Q751094,6,0,1,city and urban gmina of Poland,Starachowice Górne,Q2616791,,Starachowice
+Starachowice,Starachowice County,Q1553070,6,0,1,powiat of Poland,powiat starachowicki,Q247073,,Starachowice County
+Starachowice,Starachowice Górne,Q110389586,6,0,1,former name of Starachowice,Starachowice,,,
+Starachowice,Starachowice,Q33717639,6,0,1,,,,,
+Starachowice,Starachowice concentration camp,Q47515632,6,0,1,"concentration camp in Starachowice, Poland",Starachowice-Wierzbnik concentration camp|Wierzbnik concentration camp,Q152081,,
+Starachowice,Starachowice electrical substation,Q113320542,6,0,1,,,Q174814,,
+Starachowice,Starachowice,Q2805765,6,0,1,"railway station in Starachowice, Poland",,Q55488,,
+Starachowice,Wierzbnik,Q9373315,6,0,1,quarter of Starachowice,,Q2983893,,
+Starachowice,Train stations in Starachowice,Q4718528,6,0,1,"railway station in Starachowice, Poland",,Q55488,,
+Starachowice,Starachowice Michałów,Q2713477,6,0,1,"railway station in Starachowice, Poland",,Q55488,,
+Otwock,Otwock,Q745059,7,0,1,city and urban gmina of Poland,,Q2616791,,Otwock
+Otwock,Otwock County,Q742875,7,0,1,powiat of Poland,,Q247073,,Otwock County
+Otwock,Otwock,Q33704873,7,0,1,municipality in Poland,,,,
+Otwock,Otwock railway station,Q612691,7,0,1,"railway station in Otwock, Poland",,Q55488,,Otwock railway station
+Otwock,Otwock,Q123412662,7,0,1,,,,,
+Otwock,Otwock Wielki,Q4502823,7,0,1,"village in Masovian, Poland",,Q3558970,,Otwock Wielki
+Otwock,Otwock Śródborów railway station,Q2003260,7,0,1,"railway station in Otwock, Poland",Śródborów railway station,Q55488,,Śródborów railway station
+Otwock,Otwock Świder railway station,Q2530834,7,0,1,"railway stop in Otwock, Poland",Świder railway station,Q55678,,Otwock Świder railway station
+Otwock,Otwock Ghetto,Q9267689,7,0,1,Nazi ghetto in occupied Poland,,Q2583015,,
+Otwock,Otwock Mały,Q4503711,7,0,1,"village in Masovian, Poland",,Q3558970,,Otwock Mały
+Chojnice,Chojnice,Q740241,8,0,1,city and urban gmina of Poland,,Q2616791|Q486972|Q13416557,,Chojnice
+Chojnice,Gmina Chojnice,Q551460,8,0,1,rural gmina of Poland,Chojnice,Q3504085,,Gmina Chojnice
+Chojnice,Chojnice County,Q572754,8,0,1,powiat of Poland,powiat chojnicki,Q247073,,Chojnice County
+Chojnice,Chojnice railway station,Q2361632,8,0,1,"railway station in Chojnice, Poland",,Q55488,,Chojnice railway station
+Chojnice,Chojnice,Q33663676,8,0,1,,,,,
+Chojnice,Chojnice – Runowo Pomorskie line,Q289616,8,0,1,railway line,,Q655677,,Chojnice–Runowo Pomorskie railway
+Chojnice,Chojnice Town Hall,Q9304360,8,0,1,,,Q543654|Q25550691,,
+Chojnice,Battle of Chojnice,Q551549,8,0,1,1454 battle of the Thirteen Years' War,,Q178561,,Battle of Chojnice (1454)
+Chojnice,honorary citizen of Chojnice,Q9293658,8,0,1,,,Q618779,Q987080,
+Chojnice,Battle of Chojnice,Q754923,8,0,1,1939 battle,,Q178561,,Battle of Chojnice (1939)
+Legionowo,Legionowo,Q730944,9,0,1,city and urban gmina of Poland,,Q2616791|Q515,,Legionowo
+Legionowo,Legionowo County,Q1144086,9,0,1,powiat of Poland,,Q247073,,Legionowo County
+Legionowo,Legionowo railway station,Q2239876,9,0,1,"railway station in Legionowo, Poland",,Q55488,,Legionowo railway station
+Legionowo,Legionowo,Q33689437,9,0,1,,,,,
+Legionowo,Legionowo Przystanek railway station,Q2686372,9,0,1,"railway station in Legionowo, Poland",,Q55488,,Legionowo Przystanek railway station
+Legionowo,Legionowo Piaski railway station,Q3143040,9,0,1,"railway station in Legionowo, Poland",,Q55488,,Legionowo Piaski railway station
+Legionowo,Legionowo Ghetto,Q30007496,9,0,1,,,Q2583015,,
+Legionowo,Legionowo concentration camp,Q53865900,9,0,1,,Zwangsarbeitslager für Juden Legionowo,Q152081,,
+Legionowo,Legionowo,Q11700377,9,0,1,,,Q19730508,,
+Legionowo,Legionowo,Q38744983,9,0,1,,,Q532,,
+Legionowo,Polish city dialects,Q129677383,9,0,2,"mixed colloquial forms that emerged in the second half of the 20th century under the influence of regional speech and dialects, with archaisms, borrowings and urban vocabulary reflecting the historical features of the regions",city dialects of Polish|urban dialects of Polish,,,
+Legionowo,Warsaw metropolitan area,Q3502537,9,0,2,metropolitan area in Poland,,Q4835091|Q159313|Q1907114|Q3175539,,Warsaw metropolitan area
+Legionowo,Warsaw Metropolitan Area in an International Relations Network,Q128786065,9,0,2,scholarly article,,Q13442814,,
+Nieszawa,Nieszawa,Q682046,10,0,1,city and urban gmina of Poland,Neshawa,Q2616791,,Nieszawa
+Nieszawa,"Nieszawa, Greater Poland Voivodeship",Q7031887,10,0,1,"village in Greater Poland, Poland",,Q3558970,,"Nieszawa, Greater Poland Voivodeship"
+Nieszawa,"Nieszawa, Lublin Voivodeship",Q667638,10,0,1,village of Poland,,Q3558970,,"Nieszawa, Lublin Voivodeship"
+Nieszawa,Nieszawa,Q33697211,10,0,1,,,,,
+Nieszawa,Nieszawa Waganiec train station,Q3146567,10,0,1,"railway station in Waganiec, Poland",,Q55488,,
+Nieszawa,Nieszawa town hall,Q24946220,10,0,1,"seat of local government in Nieszawa, Kuyavian-Pomeranian Voivodeship, Poland",,Q543654,,
+Nieszawa,Nieszawa-Kolonia,Q7031889,10,0,1,"village in Lublin, Poland",,Q3558970,,Nieszawa-Kolonia
+Nieszawa,Nieszawa ferry,Q127270572,10,0,1,,,Q25653,,
+Nieszawa,Nieszawa,Q124754085,10,0,1,,,Q13433827,,
+Nieszawa,honorary citizen of Nieszawa,Q59588615,10,0,1,,,Q618779,Q987080,
+Mielec,Mielec,Q658861,11,0,1,city and urban gmina of Poland,Melitz|Melits|Myelets|Melecas|Meleca|Mühlenz|Muhlenz|Mjelec,Q2616791,,Mielec
+Mielec,Mielec,Q118062219,11,0,1,family name,,Q101352,,
+Mielec,Gmina Mielec,Q2460515,11,0,1,rural gmina of Poland,Mielec,Q3504085,,Gmina Mielec
+Mielec,Mielec County,Q1147184,11,0,1,powiat of Poland,powiat mielecki,Q247073,,Mielec County
+Mielec,"Mielęcin, Pyrzyce County",Q772946,11,0,1,"village of Poland, in West Pomerania",Mielęcin,Q3558970,,"Mielęcin, Pyrzyce County"
+Mielec,Mielec,Q1996019,11,0,1,"railway station in Mielec, Poland",,Q55488,,
+Mielec,"Mielęcin, Wałcz County",Q943455,11,0,1,"village in Gmina Czlopa, Wałcz County, West Pomerania, Poland",Mellentin,Q3558970,,"Mielęcin, Wałcz County"
+Mielec,Mielecki,Q64728261,11,0,1,family name,Mielecki (family name)|Mielecki (surname),Q101352|Q18972245,,
+Mielec,Mielec,Q35729176,11,0,1,,,Q486972,,
+Mielec,Mielec,Q83586238,11,0,1,bulk carrier launched in 1980,Category:IMO 7725647|IMO 7725647,Q15276,,
+Karpacz,Karpacz,Q606126,12,0,1,city and urban gmina of Poland,,Q2616791|Q515,,Karpacz
+Karpacz,Karpacz,Q112102998,12,0,1,family name,,Q101352,,
+Karpacz,Karpacz Górny,Q9171410,12,0,1,,,Q41970180,,
+Karpacz,Karpacz train station,Q659618,12,0,1,"railway station in Karpacz, Poland",,Q55488|Q1339195|Q811165,,
+Karpacz,Karpacz,Q33683513,12,0,1,,,,,
+Karpacz,coat of arms of Karpacz,Q8113762,12,0,1,,Karpacz coat of arms,Q14659,,
+Karpacz,"Karpacz, Kopernika 2",Q105720641,12,0,1,,,,,
+Karpacz,Karpacz,Q18888347,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Karpacz,Karpaczowo,Q105965716,12,0,1,,,Q22674925,,
+Karpacz,Karpaczowo,Q110773105,12,0,1,,,,,
+Tczew,Tczew,Q474697,13,0,1,city and urban gmina of Poland,Dirschau|Dërszewò,Q2616791|Q13416557,,Tczew
+Tczew,Gmina Tczew,Q550805,13,0,1,rural gmina of Poland,Tczew,Q3504085,,Gmina Tczew
+Tczew,Tczew County,Q1341069,13,0,1,powiat of Poland,powiat tczewski,Q247073,,Tczew County
+Tczew,Tczew,Q83649902,13,0,1,ship built in 2016,IMO 9727493,Q11446,,
+Tczew,Tczew train station,Q2253001,13,0,1,"railway station in Tczew, Poland",Tczew railway station,Q55488,,Tczew railway station
+Tczew,Tczew-Kostrzyn railway,Q15806180,13,0,1,railway line in Poland,Railway line 203 (Poland)|Ostbahn railway (Poland)|Ostbahn,Q728937,,
+Tczew,Tczew rail bridge,Q882840,13,0,1,,,Q12042110|Q1210334|Q158218,,
+Tczew,Tczewskie Łąki,Q7690702,13,0,1,"village in Pomeranian, Poland",,Q3558970,,Tczewskie Łąki
+Tczew,Tczewska Stocznia Rzeczna,Q11836833,13,0,1,former shipyard in Poland,,Q190928,,
+Tczew,Tczew Town Hall,Q11833885,13,0,1,,,Q543654,,

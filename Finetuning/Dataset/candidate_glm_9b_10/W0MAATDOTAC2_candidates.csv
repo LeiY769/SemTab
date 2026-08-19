@@ -1,0 +1,177 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+"Dizzy, Miss Lizzy","Dizzy, Miss Lizzy",Q2580072,0,0,1,"original song written, composed, and performed by Larry Williams",,Q105543609,,"Dizzy, Miss Lizzy"
+"Dizzy, Miss Lizzy","Dizzy, Miss Lizzy / Slow Down",Q60602819,0,0,1,"1958 US 7"" single by Larry Williams","626|Dizzy, Miss Lizzy|Slow Down",Q134556,,
+"Dizzy, Miss Lizzy","Dizzy, Miss Lizzy",Q60616641,0,0,1,vocal track by Larry Williams,,Q55850593,,
+"Dizzy, Miss Lizzy",Dizzy Miss Lizzy,Q60616711,0,0,2,vocal track by The Beatles,,Q55850593,,
+"Dizzy, Miss Lizzy",Dizzy Miss Lizzy,Q60953620,0,0,2,"vocal track by The Beatles, recorded live at the Hollywood Bowl 1965",,Q55850593,,
+Thoughts,Thoughts,Q61628251,1,0,1,vocal track by Tori Amos,,Q55850593,,
+Thoughts,thought,Q349047,1,0,1,"form created in the mind, instance of thinking",thoughts,,Q131841,
+Thoughts,Thoughts,Q15221733,1,0,1,2013 single by Luna Sea,,Q7366|Q134556|Q482994,,Thoughts (song)
+Thoughts,Thoughts,Q18612931,1,0,1,275th strip of the webcomic xkcd,xkcd 275,Q838795,,
+Thoughts,Thoughts,Q19898013,1,0,1,1987 studio album by Bill Dixon,,Q482994,,Thoughts (album)
+Thoughts,Pensées,Q3374866,1,0,1,set of pieces for piano by Sergei Prokofiev,Thoughts,Q105543609,,
+Thoughts,Thoughts,Q28471640,1,0,1,painting by H Linley Richardson,,Q3305213,,
+Thoughts,Thoughts,Q61627782,1,0,1,original song written and composed by Tori Amos,,Q105543609,,
+Thoughts,Thoughts,Q105369195,1,0,1,painting by Mária Barta,,Q3305213,,
+Thoughts,Thoughts of a Dying Atheist,Q56462534,1,0,1,song by Muse,,Q105543609,,
+Thoughts,Idea,Q2511255,1,0,2,genus of insects,,Q16521,,Idea (butterfly)
+Thoughts,Idea,Q511439,1,0,2,1968 UK studio album by Bee Gees,,Q482994,,Idea (album)
+Thoughts,Idea,Q12021416,1,0,2,Czech rapper,,Q5,,
+Thoughts,idea,Q131841,1,0,2,mental image or concept,ideas,Q96251598,Q2145290,Idea
+Thoughts,Idea Factory,Q2985270,1,0,2,Japanese video game developer,"IDEA FACTORY Co.,Ltd.|Idea Factory Co., Ltd.",Q210167,,Idea Factory
+Thoughts,TED,Q189021,1,0,2,global set of conferences,"Technology, Entertainment and Design|TED Conference|TED Conferences, LLC|Ideas worth spreading|Technology, Entertainment, Design",Q170584|Q36524|Q431289|Q35127|Q43229|Q1656682,,TED (conference)
+Thoughts,Research Papers in Economics,Q206316,1,0,2,bibliographic database for economics,RePEc|repec.org|IDEAS database,Q1789476|Q7096323,,Research Papers in Economics
+Thoughts,cooperative,Q4539,1,0,2,autonomous association of persons or organizations,co-operative|co-operator|société coopérative|cooperative society|co-operative society|co-operatives|co-operative enterprises|cooperatives|coöperative|co-ops|societe cooperative|co-op|coop|cooperative societies|Idea and practice of organizing shared interests in cooperatives,Q2135465|Q1269299|Q295382,Q783794|Q295382|Q43229|Q1071015,Cooperative
+Thoughts,IDEA,Q135842926,1,0,2,Czech company,,Q4830453|Q6881511,,
+Thoughts,Idea Indonesia Akademi,Q114556790,1,0,2,Indonesian public company,IDEA|PT Idea Indonesia Akademi Tbk,Q891723,,
+Thoughts,Reflection,Q27875838,1,0,2,vocal track by Christina Aguilera; 1998 original soundtrack recording,,Q55850593,,
+Thoughts,Reflection,Q28104751,1,0,2,album by Brian Eno,,Q482994,,Reflection (Brian Eno album)
+Thoughts,mirror image,Q2703478,1,0,2,"(in a plane mirror) reflected duplication of an object that appears almost identical, but is reversed in the direction perpendicular to the mirror surface",mirror reflection|reflected image|reflection,,Q478798,Mirror image
+Thoughts,reflection,Q165939,1,0,2,change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated,reflexion|mirroring,,Q4366377|Q14506045,Reflection (physics)
+Thoughts,critical thinking,Q843894,1,0,2,"analysis of facts, with certain levels of rigor and problem-solving abilities, to form a judgment",critical reflection|reflection|reflection process|reflective thinking,Q15910354,Q1156402|Q1379672,Critical thinking
+Thoughts,reflective writing,Q11089007,1,0,2,literary genre using reflection and reasoning,reflection,Q223393,Q8242,
+Thoughts,Reflection,Q135079006,1,0,2,2025 video game developed by JustTomcuk,,Q7889,,
+Thoughts,Reflection,Q134994754,1,0,2,video game developed by Anoft,,Q7889,,
+Thoughts,Reflection,Q135023040,1,0,2,2022 video game developed by February scissors,,Q7889,,
+Thoughts,reflection nebula,Q203958,1,0,2,nebulosity in astronomy,,Q17444909,Q42372,Reflection nebula
+Thoughts,opinion journalist,Q6051619,1,0,2,journalist who makes no claim of objectivity,opinion writer|publicist,Q28640,Q1930187|Q1642960,Opinion writer
+Thoughts,opinion,Q3962655,1,0,2,"judgement, viewpoint, or statement that is not conclusive",personal view,Q27949697,Q12558574|Q1190554,Opinion
+Thoughts,opinion journalism,Q156035,1,0,2,journalism that makes no claim of objectivity,commentary,Q4894405,,Opinion journalism
+Thoughts,majority opinion,Q6738447,1,0,2,"opinion written by one or more judges for a majority, constituting the court's opinion",opinion of the court,Q2135465,Q6302997,Majority opinion
+Thoughts,sentiment analysis,Q2271421,1,0,2,"use of natural language processing, text analysis and computational linguistics to identify and extract subjective information in source materials",opinion mining|Opinion Extraction,Q627436,Q1185804|Q30642,Sentiment analysis
+Thoughts,opinion poll,Q49958,1,0,2,A human research survey of public or target audience opinion using predefined and structured sampling or feedback methods,poll|public opinion poll|opinion polls|polls|polling|opinion polling|customer satisfaction survey|opinion survey,Q134469332,Q3490295|Q21004260,Opinion poll
+Thoughts,Opinions and declarations rendered by the International Commission on Zoological Nomenclature,Q31205884,1,0,2,scientific journal,,Q5633421,,
+Thoughts,2010 United States House of Representatives elections,Q1472632,1,0,2,House elections for the 112th U.S. Congress,"Opinion polling for the United States House of Representatives elections in the Western United States, 2010|United States House of Representatives elections, 2010|2010 US House of Representatives elections",Q24397514,,2010 United States House of Representatives elections
+Thoughts,opinion paper,Q92998777,1,0,2,type of scholarly publications,viewpoint,,Q13442814,
+Thoughts,panel,Q938236,1,0,2,group of people surveyed on their opinions or attitudes,opinion panel|survey panel,,Q865588,
+Por una cabeza,Por una cabeza,Q289833,2,0,1,original song composed by Carlos Gardel with lyrics by Alfredo Le Pera; tango for voice & chamber orchestra,,Q105543609,,Por una cabeza
+Por una cabeza,Por una cabeza,Q56479330,2,0,1,live recording by Yasmin Levy; from the 2014 album Tango,,Q55850593,,
+Por una cabeza,Por una cabeza,Q60032426,2,0,1,"vocal track by Diego El Cigala, duet with Adriana Varela; 2013 studio recording; cover version",,Q55850593,,
+duet,Duet,Q18149535,2,1,1,2013 video game,,Q7889,,Duet (video game)
+duet,musical duo,Q9212979,2,1,1,ensemble of two musicians,duet|duo|music duo,Q105756498|Q29431432,Q10648343|Q2088357|Q215380,Musical duo
+duet,Duet,Q25096260,2,1,1,1955 studio album by Stan Kenton & June Christy,,Q482994,,Duet (Stan Kenton and June Christy album)
+duet,Duet,Q114411328,2,1,1,1987 video game,Commando 86|Commando 87,Q7889,,
+duet,duet,Q109940,2,1,1,musical composition or arrangement for two performers,duo|duetto,Q107487333|Q29431432,Q207628|Q617028,Duet
+duet,DUET,Q135081719,2,1,1,2025 video game developed by Dolos Studio,,Q7889,,
+duet,KALRN,Q18033696,2,1,1,protein-coding gene in the species Homo sapiens,"ARHGEF24|CHD5|CHDS5|DUET|DUO|HAPIP|TRAD|kalirin, RhoGEF kinase|kalirin RhoGEF kinase",Q7187,Q20747295,Kalirin
+duet,Duet,Q5312248,2,1,1,episode of Star Trek: Deep Space Nine (S1 E19),,Q61220733,,Duet (Star Trek: Deep Space Nine)
+duet,Dhaka University of Engineering & Technology,Q13634029,2,1,1,"Public engineering and technology university in Gazipur, Bangladesh","College of Engineering, Faculty of Engineering, University of Dhaka|Dhaka Engineering college|Bangladesh Institute of Technology Dhaka|DUET",Q875538,,"Dhaka University of Engineering & Technology, Gazipur"
+duet,Duet,Q21615104,2,1,1,painting by David Teniers II,,Q3305213,,
+Por una cabeza,Por una cabeza,Q289833,3,0,1,original song composed by Carlos Gardel with lyrics by Alfredo Le Pera; tango for voice & chamber orchestra,,Q105543609,,Por una cabeza
+Por una cabeza,Por una cabeza,Q56479330,3,0,1,live recording by Yasmin Levy; from the 2014 album Tango,,Q55850593,,
+Por una cabeza,Por una cabeza,Q60032426,3,0,1,"vocal track by Diego El Cigala, duet with Adriana Varela; 2013 studio recording; cover version",,Q55850593,,
+live recording,live recording,Q56123235,3,1,1,recording produced following a live or concert performance of music,live version|concert recording,Q59913930|Q108225947,Q3302947,
+live recording,Live Recordings,Q41524559,3,1,1,EP by Bright Eyes,,Q169930,,
+live recording,Live recording,Q11762195,3,1,1,album by Michał Urbaniak,,Q482994,,
+live recording,Live Recordings 2004,Q2917009,3,1,1,2005 EP by Keane,,Q169930,,Live Recordings 2004
+live recording,Live Recordings: European Tour 2008,Q10319251,3,1,1,2008 album by Keane,,Q482994,,
+live recording,Live Recordings,Q6655502,3,1,1,album by Majida El Roumi,,Q482994,,Live Recordings (Majida El Roumi album)
+live recording,Live Recording at Yuhbin-Chokin Hall,Q30592066,3,1,1,album by Buddy Guy,,Q482994,,Live Recording at Yuhbin-Chokin Hall
+live recording,Live recordings of sound levels during the use of powered instruments in ENT surgery,Q73762611,3,1,1,scientific article published on 01 July 2003,,Q13442814,,
+live recording,LIVE RECORDING SERIES VOL.2〜小唄 NAKED,Q65229277,3,1,1,album by Yōichirō Yanagihara,,Q482994,,
+live recording,LIVE RECORDING SERIES VOL.1〜らぶ あんど へいと,Q60986471,3,1,1,album by Yōichirō Yanagihara,,Q482994,,
+Let it Go,Let It Go,Q15282326,4,0,1,"original film song written and composed by Kristen Anderson-Lopez and Robert Lopez for the 2013 movie ""Frozen""",,Q105543609,,Let It Go
+Let it Go,Let It Go,Q22257805,4,0,1,vocal track by Connie Talbot; 2014 studio recording; cover version,,Q55850593,,
+Let it Go,Let It Go,Q54149122,4,0,1,vocal track by Caissie Levy; 2018 cast recording,,Q55850593,,
+Let it Go,Let It Go,Q54480949,4,0,1,vocal track by Alex Boyé feat. One Voice Children’s Choir; 2014 studio recording; cover version,,Q55850593,,
+Let it Go,Let It Go,Q28720406,4,0,1,2014 EP by Ida Jenshus,,Q169930,,
+Let it Go,Let it Go,Q140685521,4,0,1,episode of Sullivan's Crossing (s4 e8),,Q21191270,,
+Let it Go,Let It Go,Q6532761,4,0,1,2007 studio album by Tim McGraw,,Q482994,,Let It Go (Tim McGraw album)
+Let it Go,Let It Go,Q4187058,4,0,1,2008 studio album by Will Young,,Q482994,,Let It Go (Will Young album)
+Let it Go,Let It Go,Q4811822,4,0,1,2007 single by Keyshia Cole,,Q134556,,Let It Go (Keyshia Cole song)
+Let it Go,Let It Go,Q1522773,4,0,1,1981 single by Def Leppard,,Q105543609,,Let It Go (Def Leppard song)
+Let it Go,Disney,Q28651459,4,0,2,family name,,Q101352,,Disney (surname)
+Let it Go,The Walt Disney Company,Q7414,4,0,2,American multinational mass media company,The Walt Disney Studio,Q1762059|Q21980538|Q1916382|Q4830453|Q891723,,The Walt Disney Company
+Let it Go,Walt Disney,Q8704,4,0,2,"American animator, producer, director, screenwriter, voice actor and entrepreneur, founder of The Walt Disney Company (1901–1966)",Walter Disney,Q5,,Walt Disney
+Let it Go,Disney+,Q54958752,4,0,2,American video streaming service,,Q59152282,,Disney+
+Let it Go,Disney Channel,Q178837,4,0,2,US youth-targeted television channel owned by the Walt Disney Company,The Disney Channel|Disney,Q1616075|Q561068|Q5009242|Q11396960,,Disney Channel
+Let it Go,Disney,Q3260264,4,0,2,"town in Mayes County, Oklahoma, USA","Disney, Oklahoma|Disney, OK",Q15127012,,"Disney, Oklahoma"
+Let it Go,Disney Interactive Studios,Q1229035,4,0,2,defunct American video game developer and publisher,"Buena Vista Games|Disney Interactive Studios, Inc.|Disney Interactive",Q210167,,Disney Interactive Studios
+Let it Go,Disneyland,Q181185,4,0,2,American theme park in California owned by The Walt Disney Company,The Happiest Place on Earth,Q2416723|Q875157,,Disneyland
+Let it Go,Disney XD,Q1858139,4,0,2,American pay television channel,,Q561068,,Disney XD
+Let it Go,Disney Television Animation,Q1392453,4,0,2,television animation production arm of Disney Channels Worldwide,DTVA|The Walt Disney Pictures Television Animation Group|Walt Disney Television Animation|Disney TVA|Walt Disney Pictures Television Animation Group,Q4830453,,Disney Television Animation
+Let it Go,Frozen,Q246283,4,0,2,2013 animated film directed by Chris Buck and Jennifer Lee,,Q202866,,Frozen (2013 film)
+Let it Go,Frozen,Q313351,4,0,2,song written and composed by Madonna and Patrick Leonard; first recorded by Madonna,,Q105543609,,Frozen (Madonna song)
+Let it Go,Frozen,Q107301448,4,0,2,vocal track by Madonna; 1998 studio recording,,Q55850593,,
+Let it Go,freezing,Q108000,4,0,2,phase transition in which a liquid turns into a solid due to a decrease in thermal energy,solidification|chilling|freezing (solidification)|frozen,Q185357,Q17320256|Q747713,Freezing
+Let it Go,Toetoe,Q97482391,4,0,2,"locality in Whangarei District, Northland Region, New Zealand",Frozen,Q3257686,,
+Let it Go,ice,Q23392,4,0,2,water frozen into the solid state,solid water|water ice|water|crystalline water|frozen water|frozen ice,Q111360549,Q283|Q11438,Ice
+Let it Go,Frozenbyte,Q2419591,4,0,2,Finnish video game developer,Frozenbyte Oy,Q210167,,Frozenbyte
+Let it Go,Frozen,Q30597506,4,0,2,musical based off of the 2013 movie,,Q58483083,,Frozen (musical)
+Let it Go,Frozen,Q18148065,4,0,2,American media franchise,,Q196600,,Frozen (franchise)
+Let it Go,Frozen,Q5506278,4,0,2,play by Bryony Lavery,,Q7725634,,Frozen (play)
+Let it Go,Frozen: Original Motion Picture Soundtrack,Q15530976,4,0,2,2013 compilation soundtrack album; various artists,Frozen soundtrack,Q482994,,Frozen (soundtrack)
+studio recording,studio recording,Q15975575,4,1,1,"any recording made in a studio, as opposed to a live recording",recorded in studio|studio-recorded,Q59913930|Q108225947,Q5057302,Studio recording
+studio recording,Studio Recording,Q113676529,4,1,1,Romanian record label,,Q18127,,
+studio recording,recording studio technician,Q21009829,4,1,1,"technician who sets up, operates and maintains audio equipment in a recording studio during recording and post-production",recording studio technician|studio recording technician,Q28640,Q112791061|Q2442329,
+studio recording,studio recording bundle,Q116961768,4,1,1,electronic product,,Q63981612,Q116961755,
+studio recording,recording studio,Q746369,4,1,2,specialized facility for sound recording,sound recording studio|music recording facility|music studio|music recording studio|studio,,Q19364326|Q32178211,Recording studio
+studio recording,media studio facility,Q19364326,4,1,2,facility or building for making media,studio|film studio|TV studio|recording studio|media production facility|broadcasting studio,Q134496690,Q13226383|Q811979|Q746628,
+studio recording,audio technician,Q2442329,4,1,2,"technician who operates recording, mixing, sound reproduction equipment",sound technician|sound engineer|audio engineer|recording studio technician,Q28640,Q5352191|Q93922873,
+studio recording,anechoic chamber,Q332774,4,1,2,technical room for sound recording or research,sound proof room|recording studio,,Q105442528,Anechoic chamber
+studio recording,recording studio,Q121600292,4,1,2,organization responsible for operating and renting a sound recording facility,sound recording studio|recording studio company,,Q32178211,
+studio recording,Recording Studio From Airtime,Q100437061,4,1,2,,,Q20742776,,
+studio recording,recording studio as an instrument,Q39086415,4,1,2,treatment of a recording studio as a musical instrument with its role in the composition of music,,Q1724915,Q34379|Q746369,Recording studio as an instrument
+studio recording,Recording Studio of the United States House of Representatives,Q7302919,4,1,2,provides radio and television recording services to the US House of Representatives,,Q746369,,Recording Studio of the United States House of Representatives
+studio recording,Recording Studio Stock Up,Q125933406,4,1,2,episode of Valerie's Home Cooking (S14 E6),,Q21191270,,
+studio recording,Studio Sessions,Q3976289,4,1,2,album by The Stooges,,Q482994,,
+studio recording,"Studio Sessions, Chicago 1956",Q7628220,4,1,2,album by Duke Ellington,,Q482994,,"Studio Sessions, Chicago 1956"
+studio recording,Super Studio Session song,Q27959906,4,1,2,file format,Studio session song|.sss,Q235557,,
+studio recording,Studio Sessions New York 1963,Q7628232,4,1,2,album by Duke Ellington,,Q482994,,Studio Sessions New York 1963
+studio recording,"Studio Sessions, New York 1962",Q7628222,4,1,2,album by Duke Ellington,,Q482994,,"Studio Sessions, New York 1962"
+studio recording,"Studio Sessions, 1957, 1965, 1966, 1967, San Francisco, Chicago, New York",Q7628221,4,1,2,album by Duke Ellington,,Q482994,,"Studio Sessions, 1957, 1965, 1966, 1967, San Francisco, Chicago, New York"
+studio recording,"Studio Sessions New York & Chicago, 1965, 1966 & 1971",Q7628231,4,1,2,1987 album by Duke Ellington,,Q482994,,"Studio Sessions New York & Chicago, 1965, 1966 & 1971"
+studio recording,"Studio Sessions New York, 1968",Q7628230,4,1,2,album by Duke Ellington,,Q482994,,"Studio Sessions New York, 1968"
+studio recording,Studio Sessions,Q7628227,4,1,2,album by Headhunterz,,Q482994,,Studio Sessions (Headhunterz album)
+studio recording,Studio Sessions,Q7628225,4,1,2,album by Terry Ronald,,Q482994,,Studio Sessions (Terry Ronald album)
+Don't Look Back,Don't Look Back,Q1764349,5,0,1,2009 video game,,Q7889,,Don't Look Back (video game)
+Don't Look Back,Don't Look Back,Q19571481,5,0,1,album by Harold Vick,,Q482994,,Don't Look Back (Harold Vick album)
+Don't Look Back,Don't Look Back,Q135063086,5,0,1,2024 video game developed by Damage Control,,Q7889,,
+Don't Look Back,Don't Look Back,Q2713986,5,0,1,Boston album,,Q482994,,Don't Look Back (Boston album)
+Don't Look Back,Don't Look Back,Q1432528,5,0,1,1996 novel by Karin Fossum,,Q7725634,,Don't Look Back (novel)
+Don't Look Back,Don't Look Back,Q6377419,5,0,1,2012 studio album by Celeste Buckingham,,Q482994,,Don't Look Back (Celeste Buckingham album)
+Don't Look Back,Don't Look Back,Q2665527,5,0,1,2009 film by Marina de Van,Ne te retourne pas,Q11424,,Don't Look Back (2009 film)
+Don't Look Back,Don't Look Back in Anger,Q1070349,5,0,1,"song written and composed by Noel Gallagher, originally recorded by Oasis and released in 1995",,Q105543609,,Don't Look Back in Anger
+Don't Look Back,Don't Look Back,Q739871,5,0,1,episode of Heroes (S1 E2),,Q21191270,,Don't Look Back (Heroes)
+Don't Look Back,Don't Look Back,Q22981635,5,0,1,vocal track by Lloyd Cole; 1990 studio recording,,Q55850593,,
+Don't Look Back,studio recording,Q15975575,5,0,2,"any recording made in a studio, as opposed to a live recording",recorded in studio|studio-recorded,Q59913930|Q108225947,Q5057302,Studio recording
+Don't Look Back,Studio Recording,Q113676529,5,0,2,Romanian record label,,Q18127,,
+Don't Look Back,recording studio technician,Q21009829,5,0,2,"technician who sets up, operates and maintains audio equipment in a recording studio during recording and post-production",recording studio technician|studio recording technician,Q28640,Q112791061|Q2442329,
+Don't Look Back,studio recording bundle,Q116961768,5,0,2,electronic product,,Q63981612,Q116961755,
+studio recording,studio recording,Q15975575,5,1,1,"any recording made in a studio, as opposed to a live recording",recorded in studio|studio-recorded,Q59913930|Q108225947,Q5057302,Studio recording
+studio recording,Studio Recording,Q113676529,5,1,1,Romanian record label,,Q18127,,
+studio recording,recording studio technician,Q21009829,5,1,1,"technician who sets up, operates and maintains audio equipment in a recording studio during recording and post-production",recording studio technician|studio recording technician,Q28640,Q112791061|Q2442329,
+studio recording,studio recording bundle,Q116961768,5,1,1,electronic product,,Q63981612,Q116961755,
+studio recording,Don't Look Back,Q1764349,5,1,2,2009 video game,,Q7889,,Don't Look Back (video game)
+studio recording,Don't Look Back,Q19571481,5,1,2,album by Harold Vick,,Q482994,,Don't Look Back (Harold Vick album)
+studio recording,Don't Look Back,Q135063086,5,1,2,2024 video game developed by Damage Control,,Q7889,,
+studio recording,Don't Look Back,Q2713986,5,1,2,Boston album,,Q482994,,Don't Look Back (Boston album)
+studio recording,Don't Look Back,Q1432528,5,1,2,1996 novel by Karin Fossum,,Q7725634,,Don't Look Back (novel)
+studio recording,Don't Look Back,Q6377419,5,1,2,2012 studio album by Celeste Buckingham,,Q482994,,Don't Look Back (Celeste Buckingham album)
+studio recording,Don't Look Back,Q2665527,5,1,2,2009 film by Marina de Van,Ne te retourne pas,Q11424,,Don't Look Back (2009 film)
+studio recording,Don't Look Back in Anger,Q1070349,5,1,2,"song written and composed by Noel Gallagher, originally recorded by Oasis and released in 1995",,Q105543609,,Don't Look Back in Anger
+studio recording,Don't Look Back,Q739871,5,1,2,episode of Heroes (S1 E2),,Q21191270,,Don't Look Back (Heroes)
+studio recording,Don't Look Back,Q22981635,5,1,2,vocal track by Lloyd Cole; 1990 studio recording,,Q55850593,,
+In Search Of Peter Pan,In Search Of Peter Pan,Q55999544,6,0,1,recording by Kate Bush from the 1978 album Lionheart,,Q55850593,,
+In Search Of Peter Pan,In Search Of Peter Pan,Q55999220,6,0,1,"original song written, composed, and performed by Kate Bush",,Q105543609,,
+In Search Of Peter Pan,Peter Pan,Q107190,6,0,2,fictional character created by J. M. Barrie,Peter Banning|The Boy Who Wouldn't Grow Up,Q15632617|Q3658341|Q15773347|Q15773317,,Peter Pan (character)
+In Search Of Peter Pan,Peter Pan,Q65672905,6,0,2,Commodore Amiga Soft. ; 1988 Coktel Vision,,Q7889,,
+In Search Of Peter Pan,Peter Pan,Q3900906,6,0,2,1991 album by Enrico Ruggeri,,Q482994,,
+In Search Of Peter Pan,Peter Pan,Q110878663,6,0,2,(1903-1990) actor,,Q5,,
+In Search Of Peter Pan,Kurt Tucholsky,Q57386,6,0,2,"Jewish-German journalist, satirist and writer (1890–1935)",Kaspar Hauser|Peter Panter|Theobald Tiger|Ignaz Wrobel|Paulus Bünzly|Theobald Körner,Q5,,Kurt Tucholsky
+In Search Of Peter Pan,Peter Pan,Q1266422,6,0,2,German cabaret artist (1909-1976),Alfred Nathan,Q5,,
+In Search Of Peter Pan,IMO 9217242,Q1712123,6,0,2,RoPax ferry,Peter Pan|Tinker Bell,Q1760328,,
+In Search Of Peter Pan,Peter Pan,Q107377031,6,0,2,1984 video game,,Q7889,,Peter Pan (video game)
+In Search Of Peter Pan,Peter Pan,Q270470,6,0,2,1953 animated fantasy-adventure film by Disney,,Q11424|Q202866,,Peter Pan (1953 film)
+In Search Of Peter Pan,Peter Pan,Q3435337,6,0,2,play and novel by James Matthew Barrie,"Peter and Wendy|Peter Pan; or, the Boy Who Wouldn't Grow Up",Q7725634,,Peter Pan (play and novel)
+In Search Of Peter Pan,J. M. Barrie,Q81796,6,0,2,Scottish writer and playwright (1860–1937),"James Matthew Barrie|J.M. Barrie|Sir James Matthew Barrie, 1st Baronet|James Barrie|JM Barrie|James M. Barrie",Q5,,J. M. Barrie
+Lamplight,Lamplight,Q58839280,7,0,1,vocal track by Bee Gees from the 1969 album Odessa,,Q55850593,,
+Lamplight,Lamplight,Q135055472,7,0,1,"2024 video game developed by Fernando Alcazar, Ashley Perez, Rebecca Zhao, Mansi Saini and Thanh To",,Q7889,,
+Lamplight,First Of May / Lamplight,Q58920120,7,0,1,"1969 Australian 7"" single by The Bee Gees",EK-2820|First Of May|Lamplight,Q134556,,
+Lamplight,Lamplight City,Q62919633,7,0,1,2018 adventure video game developed by Grundislav Games,,Q7889,,Lamplight City
+Lamplight,Lamplight,Q20810197,7,0,1,painting by Mary K. Trotter,,Q3305213,,
+Lamplight,Lamplight,Q28545334,7,0,1,painting by Victor Pasmore,,Q3305213,,
+Lamplight,Lamplight,Q106359414,7,0,1,painting by Elias Petersen,,Q3305213,,
+Lamplight,Lamplight Magazine,Q115525610,7,0,1,literary magazine,Lamplight,Q1368848,,
+Lamplight,Lamplight,Q6482451,7,0,1,"original song written and composed by Barry, Maurice, and Robin Gibb",,Q105543609,,Lamplight
+Lamplight,Lamplight,Q59506453,7,0,1,painting by Franklin Brownell,,Q3305213,,

@@ -1,0 +1,328 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+nickel-60,nickel-60,Q2103496,0,0,1,isotope of nickel,Ni-60|60Ni,Q727373|Q878130,Q744,Nickel-60
+nickel-60,Inconel 601,Q139530235,0,0,1,"Nickel-chromium alloy with excellent resistance to oxidation and high-temperature corrosion, widely used in heat-treatment and thermal processing applications.",UNS N06601|Nickel 601|Inconel 601 alloy,Q1985623,Q70390530,
+nickel-60,Inconel 600,Q139529677,0,0,1,"Nickel-chromium-iron alloy with excellent resistance to oxidation, corrosion, and high temperatures, widely used in aerospace, chemical processing, and heat-treatment applications.",Nickel 600|UNS N06600|Inconel 600 alloy|Nickel-chromium-iron alloy 600,Q1985623,Q54029726,
+nickel-60,isotope,Q25276,0,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-60,isotopic labeling,Q370228,0,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-60,Isotopes in Environmental and Health Studies,Q15762133,0,0,2,journal,,Q5633421,,
+nickel-60,Isotope,Q1098200,0,0,2,British band,,Q215380,,Isotope (band)
+nickel-60,Isotope,Q11282222,0,0,2,,,Q4830453,,
+nickel-60,Isotope,Q104855089,0,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-60,Isotope,Q20194776,0,0,2,painting by Walter Murch,,Q3305213,,
+nickel-60,Tongweisu,Q50497567,0,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-60,isotope of lead,Q1372384,0,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-60,isotope of bismuth,Q1372372,0,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-60,radionuclide,Q192900,0,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-60,Radioactive Isotope Beam Factory,Q11240978,0,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-60,RADIOACTIVE ISOTOPE,Q78516516,0,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-60,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,0,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-60,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,0,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-60,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,0,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-60,Radioactive isotopes in fractures of the neck of the femur,Q79312828,0,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-60,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,0,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-60,Radioactive Isotopes of Bromine,Q60102717,0,0,2,scientific article published in Nature,,Q13442814,,
+nickel-60,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,0,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-60,technetium-99,Q1961418,0,0,2,radioactive isotope of technetium produced by fission of uranium,Tc-99|99Tc,Q225056,Q1054,Technetium-99
+nickel-60,technetium-99m,Q2373354,0,0,2,isotope of technetium,Tc-99m|99mTc,Q846110|Q225056,Q1054,Technetium-99m
+nickel-60,technetium Tc-99m tetrofosmin,Q7692231,0,0,2,chemical compound,Tc-99m tetrofosmin|Technetium (99mTc) tetrofosmin|Technetium Tc 99m tetrofosmin|Technetium Tc-99m tetrofosmin kit|Technetium-99 tetrofosmin,Q113145171,Q11173,Technetium (99mTc) tetrofosmin
+nickel-60,Technetium-99m generator,Q2398924,0,0,2,"Colloquially a technetium cow, or moly cow, a device used to extract the short-lived Tc-99m",,,Q2004575,Technetium-99m generator
+nickel-60,technetium tc-99m oxidronate,Q22075854,0,0,2,chemical compound,TechneScan HDP|Technescan|99mtc-HDP|Oxidronic acid 99mtc-complex|Technetium 99mtc oxidronate|Technetium Tc-99m oxidronate kit,Q113145171,Q11173,
+nickel-60,Ditechnetium decacarbonyl,Q133204287,0,0,2,,"Technetium carbonyl (Tc2(CO)10)|Decacarbonylditechnetium-99Tc2|Decacarbonylditechnetium-99Tc|Decacarbonylditechnetium|Technetium-99Tc, decacarbonyldi-, (Tc-Tc)",Q113145171,Q11173,
+nickel-60,Technetium 99m isolation system and technetium 99m isolation method,Q136447670,0,0,2,US patent 11373777,,Q43305660,,
+nickel-60,"Technetium-99m hexakis 2-methoxyisobutyl isonitrile: human biodistribution, dosimetry, safety, and preliminary comparison to thallium-201 for myocardial perfusion imaging",Q93512363,0,0,2,scholarly article by Wackers FJ et al published 1 March 1989 in The Journal of Nuclear Medicine,,Q13442814,,
+nickel-60,Technetium-99m sestamibi myocardial perfusion imaging in the emergency room evaluation of chest pain,Q72332358,0,0,2,scientific article published on 01 April 1994,,Q13442814,,
+nickel-60,"Technetium-99m-1,2-bis[bis(2-ethoxyethyl) phosphino]ethane: human biodistribution, dosimetry and safety of a new myocardial perfusion imaging agent",Q70524946,0,0,2,scientific article published on 01 January 1993,,Q13442814,,
+nickel-60,cobalt-60,Q932960,0,0,2,isotope of cobalt,Co-60|60Co,Q1372202,Q43101|Q740,Cobalt-60
+nickel-60,Cobalt 60,Q2608610,0,0,2,"Belgian electronic music project co-lead by Jean-Luc de Meyer and Dominique Lallement (Kriebereit, K-Bereit)",,Q215380,,Cobalt 60 (band)
+nickel-60,Cobalt 60,Q5138708,0,0,2,comics series created by Vaughn Bodē,,Q1114461|Q15632617,,Cobalt 60 (comics)
+nickel-60,cobalt-60m,Q18880128,0,0,2,isotope of cobalt,Co-60m|60mCo,Q1372202|Q846110,Q740,Cobalt-60m
+nickel-60,cobalt therapy,Q1512385,0,0,2,medical use of gamma rays from the radioisotope cobalt-60 to treat conditions,cobalt-60 therapy,Q180507,,Cobalt therapy
+nickel-60,Cobalt-60 treatment of choroidal hemangiomas,Q71064380,0,0,2,scientific article published on 01 February 1996,,Q13442814,,
+nickel-60,COBALT-60,Q72997583,0,0,2,scientific article published on 01 September 1952,,Q13442814,,
+nickel-60,Cobalt 60,Q76095060,0,0,2,scientific article published on 01 June 1952,,Q13442814,,
+nickel-60,Cobalt-60 plaque radiotherapy vs enucleation for posterior uveal melanoma,Q68771761,0,0,2,scientific article published on 01 May 1990,,Q13442814,,
+nickel-60,COBALT-60 TELECURIETHERAPY IN THE DEFINITIVE TREATMENT OF CARCINOMA OF THE PROSTATE: A PRELIMINARY REPORT,Q77199277,0,0,2,scientific article published on 01 January 1965,,Q13442814,,
+nickel-55,nickel-55,Q18845091,1,0,1,isotope of nickel,Ni-55|55Ni,Q727373,Q744,Nickel-55
+nickel-55,isotope,Q25276,1,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-55,isotopic labeling,Q370228,1,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-55,Isotopes in Environmental and Health Studies,Q15762133,1,0,2,journal,,Q5633421,,
+nickel-55,Isotope,Q1098200,1,0,2,British band,,Q215380,,Isotope (band)
+nickel-55,Isotope,Q11282222,1,0,2,,,Q4830453,,
+nickel-55,Isotope,Q104855089,1,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-55,Isotope,Q20194776,1,0,2,painting by Walter Murch,,Q3305213,,
+nickel-55,Tongweisu,Q50497567,1,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-55,isotope of lead,Q1372384,1,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-55,isotope of bismuth,Q1372372,1,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-55,radionuclide,Q192900,1,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-55,Radioactive Isotope Beam Factory,Q11240978,1,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-55,RADIOACTIVE ISOTOPE,Q78516516,1,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-55,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,1,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-55,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,1,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-55,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,1,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-55,Radioactive isotopes in fractures of the neck of the femur,Q79312828,1,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-55,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,1,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-55,Radioactive Isotopes of Bromine,Q60102717,1,0,2,scientific article published in Nature,,Q13442814,,
+nickel-55,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,1,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-70,nickel-70,Q18845099,2,0,1,isotope of nickel,Ni-70|70Ni,Q727373,Q744,Nickel-70
+nickel-70,nickel-70m,Q18880175,2,0,1,isotope of nickel,Ni-70m|70mNi,Q727373|Q846110,Q744,
+nickel-70,Inconel 706,Q139532257,2,0,1,"Nickel-iron-chromium alloy with precipitation hardening capability, offering high strength, good corrosion resistance, and excellent stability for aerospace engine components.",UNS N09706|Nickel 706|Inconel 706 alloy,Q1985623,Q70390530,
+nickel-70,isotope,Q25276,2,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-70,isotopic labeling,Q370228,2,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-70,Isotopes in Environmental and Health Studies,Q15762133,2,0,2,journal,,Q5633421,,
+nickel-70,Isotope,Q1098200,2,0,2,British band,,Q215380,,Isotope (band)
+nickel-70,Isotope,Q11282222,2,0,2,,,Q4830453,,
+nickel-70,Isotope,Q104855089,2,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-70,Isotope,Q20194776,2,0,2,painting by Walter Murch,,Q3305213,,
+nickel-70,Tongweisu,Q50497567,2,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-70,isotope of lead,Q1372384,2,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-70,isotope of bismuth,Q1372372,2,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-53,nickel-53,Q18845089,3,0,1,isotope of nickel,Ni-53|53Ni,Q727373,Q744,Nickel-53
+nickel-53,isotope,Q25276,3,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-53,isotopic labeling,Q370228,3,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-53,Isotopes in Environmental and Health Studies,Q15762133,3,0,2,journal,,Q5633421,,
+nickel-53,Isotope,Q1098200,3,0,2,British band,,Q215380,,Isotope (band)
+nickel-53,Isotope,Q11282222,3,0,2,,,Q4830453,,
+nickel-53,Isotope,Q104855089,3,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-53,Isotope,Q20194776,3,0,2,painting by Walter Murch,,Q3305213,,
+nickel-53,Tongweisu,Q50497567,3,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-53,isotope of lead,Q1372384,3,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-53,isotope of bismuth,Q1372372,3,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-53,radionuclide,Q192900,3,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-53,Radioactive Isotope Beam Factory,Q11240978,3,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-53,RADIOACTIVE ISOTOPE,Q78516516,3,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-53,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,3,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-53,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,3,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-53,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,3,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-53,Radioactive isotopes in fractures of the neck of the femur,Q79312828,3,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-53,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,3,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-53,Radioactive Isotopes of Bromine,Q60102717,3,0,2,scientific article published in Nature,,Q13442814,,
+nickel-53,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,3,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-78,nickel-78,Q18845107,4,0,1,isotope of nickel,Ni-78|78Ni,Q727373,Q744,Nickel-78
+nickel-78,Inconel 783,Q139537389,4,0,1,"Nickel-iron-aluminum alloy with high thermal stability, low density, and good oxidation resistance, designed for advanced aerospace turbine and structural applications.",Nickel 783|UNS N07783|Inconel 783 alloy,Q1985623,Q1985623,
+nickel-70m,nickel-70m,Q18880175,5,0,1,isotope of nickel,Ni-70m|70mNi,Q727373|Q846110,Q744,
+nickel-70m,isotope,Q25276,5,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-70m,isotopic labeling,Q370228,5,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-70m,Isotopes in Environmental and Health Studies,Q15762133,5,0,2,journal,,Q5633421,,
+nickel-70m,Isotope,Q1098200,5,0,2,British band,,Q215380,,Isotope (band)
+nickel-70m,Isotope,Q11282222,5,0,2,,,Q4830453,,
+nickel-70m,Isotope,Q104855089,5,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-70m,Isotope,Q20194776,5,0,2,painting by Walter Murch,,Q3305213,,
+nickel-70m,Tongweisu,Q50497567,5,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-70m,isotope of lead,Q1372384,5,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-70m,isotope of bismuth,Q1372372,5,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-70m,radionuclide,Q192900,5,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-70m,Radioactive Isotope Beam Factory,Q11240978,5,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-70m,RADIOACTIVE ISOTOPE,Q78516516,5,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-70m,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,5,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-70m,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,5,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-70m,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,5,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-70m,Radioactive isotopes in fractures of the neck of the femur,Q79312828,5,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-70m,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,5,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-70m,Radioactive Isotopes of Bromine,Q60102717,5,0,2,scientific article published in Nature,,Q13442814,,
+nickel-70m,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,5,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-76,nickel-76,Q18845105,6,0,1,isotope of nickel,Ni-76|76Ni,Q727373,Q744,Nickel-76
+nickel-76,isotope,Q25276,6,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-76,isotopic labeling,Q370228,6,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-76,Isotopes in Environmental and Health Studies,Q15762133,6,0,2,journal,,Q5633421,,
+nickel-76,Isotope,Q1098200,6,0,2,British band,,Q215380,,Isotope (band)
+nickel-76,Isotope,Q11282222,6,0,2,,,Q4830453,,
+nickel-76,Isotope,Q104855089,6,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-76,Isotope,Q20194776,6,0,2,painting by Walter Murch,,Q3305213,,
+nickel-76,Tongweisu,Q50497567,6,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-76,isotope of lead,Q1372384,6,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-76,isotope of bismuth,Q1372372,6,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-48,nickel-48,Q3339818,7,0,1,isotope of nickel,Ni-48|48Ni,Q727373,Q744,Nickel-48
+nickel-48,isotope,Q25276,7,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-48,isotopic labeling,Q370228,7,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-48,Isotopes in Environmental and Health Studies,Q15762133,7,0,2,journal,,Q5633421,,
+nickel-48,Isotope,Q1098200,7,0,2,British band,,Q215380,,Isotope (band)
+nickel-48,Isotope,Q11282222,7,0,2,,,Q4830453,,
+nickel-48,Isotope,Q104855089,7,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-48,Isotope,Q20194776,7,0,2,painting by Walter Murch,,Q3305213,,
+nickel-48,Tongweisu,Q50497567,7,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-48,isotope of lead,Q1372384,7,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-48,isotope of bismuth,Q1372372,7,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-59,nickel-59,Q2144274,8,0,1,alpha emission of nickel,Ni-59|59Ni|nickel ni-59,Q727373,Q744,Nickel-59
+nickel-59,isotope,Q25276,8,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-59,isotopic labeling,Q370228,8,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-59,Isotopes in Environmental and Health Studies,Q15762133,8,0,2,journal,,Q5633421,,
+nickel-59,Isotope,Q1098200,8,0,2,British band,,Q215380,,Isotope (band)
+nickel-59,Isotope,Q11282222,8,0,2,,,Q4830453,,
+nickel-59,Isotope,Q104855089,8,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-59,Isotope,Q20194776,8,0,2,painting by Walter Murch,,Q3305213,,
+nickel-59,Tongweisu,Q50497567,8,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-59,isotope of lead,Q1372384,8,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-59,isotope of bismuth,Q1372372,8,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-59,radionuclide,Q192900,8,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-59,Radioactive Isotope Beam Factory,Q11240978,8,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-59,RADIOACTIVE ISOTOPE,Q78516516,8,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-59,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,8,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-59,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,8,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-59,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,8,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-59,Radioactive isotopes in fractures of the neck of the femur,Q79312828,8,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-59,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,8,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-59,Radioactive Isotopes of Bromine,Q60102717,8,0,2,scientific article published in Nature,,Q13442814,,
+nickel-59,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,8,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-59,Isotopic systematics of the early Mauna Kea shield phase and insight into the deep mantle beneath the Pacific Ocean,Q59790449,8,0,2,,,Q13442814,,
+nickel-59,Isotopic systematics of presolar silicon carbide from the Orgueil (CI) chondrite: Implications for solar system formation and stellar nucleosynthesis,Q113628426,8,0,2,scientific article published in December 1997,,Q13442814,,
+nickel-59,Isotopic systems and stirring times of the Earth's mantle,Q127725500,8,0,2,scholarly article,,Q13442814,,
+nickel-59,Isotopic systematics of zircon indicate an African affinity for the rocks of southernmost India,Q90664449,8,0,2,scientific article published on 25 March 2020,,Q13442814,,
+nickel-59,Isotopic systematics of ultrahigh pressure metamorphic rocks and relative dating methods.,Q118453693,8,0,2,"scholarly article in Acta Petrologica Sinica, no. 4, 2005",,Q13442814,,
+nickel-59,Isotopic systematics point to wild origin of mummified birds in Ancient Egypt,Q99608444,8,0,2,scientific article published on 22 September 2020,,Q13442814,,
+nickel-59,isotope of nickel,Q727373,8,0,2,nuclides with atomic number of 28 but with different mass numbers,,,Q25276,Isotopes of nickel
+nickel-79,nickel-79,Q47456797,9,0,1,isotope of nickel,Ni-79|79Ni,Q727373,Q744,
+nickel-52,nickel-52,Q18845088,10,0,1,isotope of nickel,Ni-52|52Ni,Q727373,Q744,Nickel-52
+nickel-52,isotope,Q25276,10,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-52,isotopic labeling,Q370228,10,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-52,Isotopes in Environmental and Health Studies,Q15762133,10,0,2,journal,,Q5633421,,
+nickel-52,Isotope,Q1098200,10,0,2,British band,,Q215380,,Isotope (band)
+nickel-52,Isotope,Q11282222,10,0,2,,,Q4830453,,
+nickel-52,Isotope,Q104855089,10,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-52,Isotope,Q20194776,10,0,2,painting by Walter Murch,,Q3305213,,
+nickel-52,Tongweisu,Q50497567,10,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-52,isotope of lead,Q1372384,10,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-52,isotope of bismuth,Q1372372,10,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-52,radionuclide,Q192900,10,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-52,Radioactive Isotope Beam Factory,Q11240978,10,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-52,RADIOACTIVE ISOTOPE,Q78516516,10,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-52,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,10,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-52,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,10,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-52,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,10,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-52,Radioactive isotopes in fractures of the neck of the femur,Q79312828,10,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-52,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,10,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-52,Radioactive Isotopes of Bromine,Q60102717,10,0,2,scientific article published in Nature,,Q13442814,,
+nickel-52,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,10,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-68m1,nickel-68m1,Q18880161,11,0,1,isotope of nickel,Ni-68m1|68m1Ni,Q727373|Q846110,Q744,Nickel-68m1
+nickel-64,nickel-64,Q5459468,12,0,1,isotope of nickel,Ni-64|64Ni,Q727373|Q878130,Q744,Nickel-64
+nickel-64,isotope,Q25276,12,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-64,isotopic labeling,Q370228,12,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-64,Isotopes in Environmental and Health Studies,Q15762133,12,0,2,journal,,Q5633421,,
+nickel-64,Isotope,Q1098200,12,0,2,British band,,Q215380,,Isotope (band)
+nickel-64,Isotope,Q11282222,12,0,2,,,Q4830453,,
+nickel-64,Isotope,Q104855089,12,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-64,Isotope,Q20194776,12,0,2,painting by Walter Murch,,Q3305213,,
+nickel-64,Tongweisu,Q50497567,12,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-64,isotope of lead,Q1372384,12,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-64,isotope of bismuth,Q1372372,12,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-64,radionuclide,Q192900,12,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-64,Radioactive Isotope Beam Factory,Q11240978,12,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-64,RADIOACTIVE ISOTOPE,Q78516516,12,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-64,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,12,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-64,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,12,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-64,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,12,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-64,Radioactive isotopes in fractures of the neck of the femur,Q79312828,12,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-64,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,12,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-64,Radioactive Isotopes of Bromine,Q60102717,12,0,2,scientific article published in Nature,,Q13442814,,
+nickel-64,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,12,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-61,nickel-61,Q2468639,13,0,1,isotope of nickel,Ni-61|61Ni,Q727373|Q878130,Q744,Nickel-61
+nickel-61,Inconel 617,Q139530543,13,0,1,"Nickel-chromium-cobalt-molybdenum alloy with excellent high-temperature strength and oxidation resistance, used in advanced aerospace and energy applications.",UNS N06617|Nickel 617|Inconel 617 alloy,Q1985623,Q70390530,
+nickel-61,isotope of nickel,Q727373,13,0,2,nuclides with atomic number of 28 but with different mass numbers,,,Q25276,Isotopes of nickel
+nickel-61,radionuclide,Q192900,13,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-61,Radioactive Isotope Beam Factory,Q11240978,13,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-61,RADIOACTIVE ISOTOPE,Q78516516,13,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-61,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,13,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-61,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,13,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-61,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,13,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-61,Radioactive isotopes in fractures of the neck of the femur,Q79312828,13,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-61,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,13,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-61,Radioactive Isotopes of Bromine,Q60102717,13,0,2,scientific article published in Nature,,Q13442814,,
+nickel-61,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,13,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-54,nickel-54,Q18845090,14,0,1,isotope of nickel,Ni-54|54Ni,Q727373,Q744,Nickel-54
+nickel-54,nickel-54m,Q108839897,14,0,1,nickel-54 isotope,,Q727373|Q846110,Q744,
+nickel-58,nickel-58,Q2424204,15,0,1,isotope of nickel,Ni-58|58Ni,Q727373|Q878130,Q744,Nickel-58
+nickel-58,isotope,Q25276,15,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-58,isotopic labeling,Q370228,15,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-58,Isotopes in Environmental and Health Studies,Q15762133,15,0,2,journal,,Q5633421,,
+nickel-58,Isotope,Q1098200,15,0,2,British band,,Q215380,,Isotope (band)
+nickel-58,Isotope,Q11282222,15,0,2,,,Q4830453,,
+nickel-58,Isotope,Q104855089,15,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-58,Isotope,Q20194776,15,0,2,painting by Walter Murch,,Q3305213,,
+nickel-58,Tongweisu,Q50497567,15,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-58,isotope of lead,Q1372384,15,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-58,isotope of bismuth,Q1372372,15,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-58,radionuclide,Q192900,15,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-58,Radioactive Isotope Beam Factory,Q11240978,15,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-58,RADIOACTIVE ISOTOPE,Q78516516,15,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-58,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,15,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-58,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,15,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-58,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,15,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-58,Radioactive isotopes in fractures of the neck of the femur,Q79312828,15,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-58,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,15,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-58,Radioactive Isotopes of Bromine,Q60102717,15,0,2,scientific article published in Nature,,Q13442814,,
+nickel-58,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,15,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-74,nickel-74,Q18845103,16,0,1,isotope of nickel,Ni-74|74Ni,Q727373,Q744,Nickel-74
+nickel-74,isotope of nickel,Q727373,16,0,2,nuclides with atomic number of 28 but with different mass numbers,,,Q25276,Isotopes of nickel
+nickel-56,nickel-56,Q3339820,17,0,1,isotope of nickel,Ni-56|56Ni|nickel ni-56,Q727373,Q744,Nickel-56
+nickel-56,isotope,Q25276,17,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-56,isotopic labeling,Q370228,17,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-56,Isotopes in Environmental and Health Studies,Q15762133,17,0,2,journal,,Q5633421,,
+nickel-56,Isotope,Q1098200,17,0,2,British band,,Q215380,,Isotope (band)
+nickel-56,Isotope,Q11282222,17,0,2,,,Q4830453,,
+nickel-56,Isotope,Q104855089,17,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-56,Isotope,Q20194776,17,0,2,painting by Walter Murch,,Q3305213,,
+nickel-56,Tongweisu,Q50497567,17,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-56,isotope of lead,Q1372384,17,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-56,isotope of bismuth,Q1372372,17,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-56,radionuclide,Q192900,17,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-56,Radioactive Isotope Beam Factory,Q11240978,17,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-56,RADIOACTIVE ISOTOPE,Q78516516,17,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-56,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,17,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-56,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,17,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-56,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,17,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-56,Radioactive isotopes in fractures of the neck of the femur,Q79312828,17,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-56,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,17,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-56,Radioactive Isotopes of Bromine,Q60102717,17,0,2,scientific article published in Nature,,Q13442814,,
+nickel-56,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,17,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-63m,nickel-63m,Q18880151,18,0,1,isotope of nickel,Ni-63m|63mNi,Q727373|Q846110,Q744,
+nickel-63m,isotope,Q25276,18,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-63m,isotopic labeling,Q370228,18,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-63m,Isotopes in Environmental and Health Studies,Q15762133,18,0,2,journal,,Q5633421,,
+nickel-63m,Isotope,Q1098200,18,0,2,British band,,Q215380,,Isotope (band)
+nickel-63m,Isotope,Q11282222,18,0,2,,,Q4830453,,
+nickel-63m,Isotope,Q104855089,18,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-63m,Isotope,Q20194776,18,0,2,painting by Walter Murch,,Q3305213,,
+nickel-63m,Tongweisu,Q50497567,18,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-63m,isotope of lead,Q1372384,18,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-63m,isotope of bismuth,Q1372372,18,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-63m,radionuclide,Q192900,18,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-63m,Radioactive Isotope Beam Factory,Q11240978,18,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-63m,RADIOACTIVE ISOTOPE,Q78516516,18,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-63m,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,18,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-63m,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,18,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-63m,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,18,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-63m,Radioactive isotopes in fractures of the neck of the femur,Q79312828,18,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-63m,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,18,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-63m,Radioactive Isotopes of Bromine,Q60102717,18,0,2,scientific article published in Nature,,Q13442814,,
+nickel-63m,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,18,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-69m2,nickel-69m2,Q18880172,19,0,1,isotope of nickel,Ni-69m2|69m2Ni,Q727373|Q846110,Q744,Nickel-69m2
+nickel-69m2,isotope,Q25276,19,0,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+nickel-69m2,isotopic labeling,Q370228,19,0,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+nickel-69m2,Isotopes in Environmental and Health Studies,Q15762133,19,0,2,journal,,Q5633421,,
+nickel-69m2,Isotope,Q1098200,19,0,2,British band,,Q215380,,Isotope (band)
+nickel-69m2,Isotope,Q11282222,19,0,2,,,Q4830453,,
+nickel-69m2,Isotope,Q104855089,19,0,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+nickel-69m2,Isotope,Q20194776,19,0,2,painting by Walter Murch,,Q3305213,,
+nickel-69m2,Tongweisu,Q50497567,19,0,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+nickel-69m2,isotope of lead,Q1372384,19,0,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+nickel-69m2,isotope of bismuth,Q1372372,19,0,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+nickel-69m2,radionuclide,Q192900,19,0,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+nickel-69m2,Radioactive Isotope Beam Factory,Q11240978,19,0,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+nickel-69m2,RADIOACTIVE ISOTOPE,Q78516516,19,0,2,scientific article published on 01 September 1965,,Q13442814,,
+nickel-69m2,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,19,0,2,scientific article published on 01 November 1964,,Q13442814,,
+nickel-69m2,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,19,0,2,scientific article published on 01 March 1956,,Q13442814,,
+nickel-69m2,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,19,0,2,scientific article published on 01 October 1951,,Q13442814,,
+nickel-69m2,Radioactive isotopes in fractures of the neck of the femur,Q79312828,19,0,2,scientific article published on 01 February 1960,,Q13442814,,
+nickel-69m2,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,19,0,2,scientific article published on 01 August 1964,,Q13442814,,
+nickel-69m2,Radioactive Isotopes of Bromine,Q60102717,19,0,2,scientific article published in Nature,,Q13442814,,
+nickel-69m2,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,19,0,2,scientific article published on 01 November 1951,,Q13442814,,
+nickel-69m2,isotope of nickel,Q727373,19,0,2,nuclides with atomic number of 28 but with different mass numbers,,,Q25276,Isotopes of nickel
+nickel-69m2,Nickel isotope heterogeneity in the early Solar System,Q59797482,19,0,2,scholarly article by Marcel Regelous et al published July 2008 in Earth and Planetary Science Letters,,Q13442814,,
+nickel-69m2,Nickel Isotope Variations in Terrestrial Silicate Rocks and Geological Reference Materials Measured by MC-ICP-MS,Q58391395,19,0,2,scholarly article by Bleuenn Gueguen et al published 19 April 2013 in Geostandards and Geoanalytical Research,,Q13442814,,
+nickel-69m2,Nickel isotope fractionation during tropical weathering of ultramafic rocks,Q58391364,19,0,2,scholarly article,,Q13442814,,
+nickel-69m2,Nickel isotopes in iron meteorites–nucleosynthetic anomalies in sulphides with no effects in metals and no trace of 60Fe,Q78375297,19,0,2,scientific article,,Q13442814,,
+nickel-69m2,Nickel isotope fractionation during laterite Ni ore smelting and refining: Implications for tracing the sources of Ni in smelter-affected soils,Q59808236,19,0,2,scholarly article by G. Ratié et al published January 2016 in Applied Geochemistry,,Q13442814,,
+nickel-69m2,Nickel isotopes link Siberian Traps aerosol particles to the end-Permian mass extinction,Q107142899,19,0,2,scientific article,,Q13442814,,
+nickel-69m2,Nickel isotope fractionation during metal-silicate differentiation of planetesimals: Experimental petrology and ab initio calculations,Q126864386,19,0,2,scholarly article,,Q13442814,,
+nickel-69,nickel-69,Q18845098,20,0,1,isotope of nickel,Ni-69|69Ni,Q727373,Q744,Nickel-69
+nickel-69,nickel-69m1,Q18880168,20,0,1,isotope of nickel,Ni-69m1|69m1Ni,Q727373|Q846110,Q744,Nickel-69m1
+nickel-69,nickel-69m2,Q18880172,20,0,1,isotope of nickel,Ni-69m2|69m2Ni,Q727373|Q846110,Q744,Nickel-69m2

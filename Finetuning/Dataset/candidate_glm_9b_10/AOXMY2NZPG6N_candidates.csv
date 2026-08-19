@@ -1,0 +1,52 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Skorpeds landskommun,Skorpeds landskommun,Q10670507,0,0,1,,,Q11722303,,
+Västernorrland County,Västernorrland County,Q104891,0,1,1,county (län) in Sweden,Västernorrlands län,Q200547,,Västernorrland County
+Västernorrland County,Västernorrland County Administrative Board,Q26236697,0,1,1,Swedish government agency,,Q196321|Q68295960,,
+Västernorrland County,Västernorrland County Constituency,Q10717998,0,1,1,Swedish electoral district,,Q192611,,Västernorrland County (Riksdag constituency)
+Västernorrland County,Västernorrland County and Jämtland County Constituency,Q10717999,0,1,1,Swedish electoral district,,Q192611,,
+Västernorrland County,Region Västernorrland,Q8100253,0,1,1,"County Council for Västernorrland County, Sweden",Västernorrland County Council|RVN,Q1754161|Q65196511,,Region Västernorrland
+Västernorrland County,Västernorrland County Administrative Board Open Data,Q97142644,0,1,1,,,Q27031827,,
+Västernorrland County,Västernorrland County Administrative Board Open Data,Q105113343,0,1,1,,,Q27031827,,
+Västernorrland County,Västernorrland County Museum,Q10590390,0,1,1,regional museum in Sweden,,Q10571947|Q756102,,Västernorrlands Museum
+Västernorrland County,COVID-19 pandemic in Västernorrland County,Q104720019,0,1,1,,"Västernorrland County COVID-19 pandemic|2020 Västernorrland County COVID-19 pandemic|COVID pandemic in Västernorrland County|COVID-19 pandemic in Västernorrland County, Sweden",Q3241045,,
+Västernorrland County,Skorpeds landskommun,Q10670507,0,1,2,,,Q11722303,,
+Västernorrland County,Anundsjö,Q10413845,0,1,2,historic rural municipality of Sweden and Finland,,Q11722303,,
+Västernorrland County,Anundsjö,Q21721329,0,1,2,"district in Örnsköldsvik, Sweden",,Q18333556,,
+Västernorrland County,Anundsjö parish,Q2857809,0,1,2,"historic parish in Västernorrland, Sweden","Anundsjo, Sweden",Q1523821,,Anundsjö parish
+Västernorrland County,Anundsjö parish,Q16496957,0,1,2,contemporary parish of the Church of Sweden,Anundsjö församling,Q615980,,
+Västernorrland County,Anundsjö church,Q220153,0,1,2,"church in Anundsjö, Sweden",Anundsjö kyrka,Q55237413,,Anundsjö Church
+Västernorrland County,Anundsjö church cemetery,Q55230052,0,1,2,"cemetery in Anundsjö, Sweden",Anundsjö kyrkogård,Q39614,,
+Västernorrland County,Anundsjö-Skorpeds pastorate,Q10413843,0,1,2,,,Q50314139,,
+Västernorrland County,Anundsjö IF,Q612485,0,1,2,"sports club in Bredbyn, Sweden",AIF,Q476028,,Anundsjö IF
+Västernorrland County,Anundsjö railway station,Q10413848,0,1,2,"railway station in Örnsköldsvik, Sweden",,Q55488,,
+Västernorrland County,Anundsjösjön,Q612487,0,1,2,lake in Sweden,,Q23397|Q30092776,,
+Anundsjö,Anundsjö,Q10413845,0,2,1,historic rural municipality of Sweden and Finland,,Q11722303,,
+Anundsjö,Anundsjö,Q21721329,0,2,1,"district in Örnsköldsvik, Sweden",,Q18333556,,
+Anundsjö,Anundsjö parish,Q2857809,0,2,1,"historic parish in Västernorrland, Sweden","Anundsjo, Sweden",Q1523821,,Anundsjö parish
+Anundsjö,Anundsjö parish,Q16496957,0,2,1,contemporary parish of the Church of Sweden,Anundsjö församling,Q615980,,
+Anundsjö,Anundsjö church,Q220153,0,2,1,"church in Anundsjö, Sweden",Anundsjö kyrka,Q55237413,,Anundsjö Church
+Anundsjö,Anundsjö church cemetery,Q55230052,0,2,1,"cemetery in Anundsjö, Sweden",Anundsjö kyrkogård,Q39614,,
+Anundsjö,Anundsjö-Skorpeds pastorate,Q10413843,0,2,1,,,Q50314139,,
+Anundsjö,Anundsjö IF,Q612485,0,2,1,"sports club in Bredbyn, Sweden",AIF,Q476028,,Anundsjö IF
+Anundsjö,Anundsjö railway station,Q10413848,0,2,1,"railway station in Örnsköldsvik, Sweden",,Q55488,,
+Anundsjö,Anundsjösjön,Q612487,0,2,1,lake in Sweden,,Q23397|Q30092776,,
+Stegeborg Municipality,Stegeborg Municipality,Q10678042,1,0,1,"municipality in Östergötland County, Sweden, -1973",Stegeborgs kommun,Q11722303,,
+Stegeborg Municipality,Östergötland County,Q104940,1,0,2,county (län) in Sweden,Östergötlands län,Q200547,,Östergötland County
+Stegeborg Municipality,Östergötland County Administrative Board,Q10571982,1,0,2,"government organization in Linköping, Sweden",County Administrative Board,Q196321|Q68295960,,
+Stegeborg Municipality,Östergötland County Administrative Board Open Data,Q97142655,1,0,2,,,Q27031827,,
+Stegeborg Municipality,COVID-19 pandemic in Östergötland County,Q104720024,1,0,2,,"Östergötland County COVID-19 pandemic|2020 Östergötland County COVID-19 pandemic|COVID pandemic in Östergötland County|COVID-19 pandemic in Östergötland County, Sweden",Q3241045,,
+Stegeborg Municipality,Söderköping Municipality,Q515680,1,0,2,"municipality in Östergötland County, Sweden",Söderköpings kommun|Söderköpings Kommun,Q127448,,Söderköping Municipality
+Östergötland County,Östergötland County,Q104940,1,1,1,county (län) in Sweden,Östergötlands län,Q200547,,Östergötland County
+Östergötland County,Östergötland County Administrative Board,Q10571982,1,1,1,"government organization in Linköping, Sweden",County Administrative Board,Q196321|Q68295960,,
+Östergötland County,Östergötland County Administrative Board Open Data,Q97142655,1,1,1,,,Q27031827,,
+Östergötland County,COVID-19 pandemic in Östergötland County,Q104720024,1,1,1,,"Östergötland County COVID-19 pandemic|2020 Östergötland County COVID-19 pandemic|COVID pandemic in Östergötland County|COVID-19 pandemic in Östergötland County, Sweden",Q3241045,,
+Söderköping Municipality,Söderköping Municipality,Q515680,1,2,1,"municipality in Östergötland County, Sweden",Söderköpings kommun|Söderköpings Kommun,Q127448,,Söderköping Municipality
+Söderköping Municipality,Söderköping,Q984831,1,2,2,"urban area in Söderköping Municipality, Sweden",,Q12813115,,Söderköping
+Söderköping Municipality,Söderköping lighthouse,Q40441088,1,2,2,"lighthouse in Söderköping Municipality, Baltic coast, Sweden",,Q39715|Q787078,,
+Söderköping Municipality,Söderköpingsån,Q6977442,1,2,2,River in Sweden,,Q3529419,,Söderköpingsån
+Söderköping Municipality,Söderköpings Sankt Laurentii,Q21580314,1,2,2,"district in Söderköping Municipality, Sweden",,Q18333556,,
+Söderköping Municipality,Söderköpings IK,Q7666301,1,2,2,Swedish football club,,Q476028,,Söderköpings IK
+Söderköping Municipality,Söderköping Process,Q3917781,1,2,2,cross-border cooperation initiative between 10 eastern European nations,,Q1663557,,Söderköping Process
+Söderköping Municipality,Söderköpings församling,Q10688567,1,2,2,,,Q615980,,
+Söderköping Municipality,Söderköpings IS,Q10688566,1,2,2,"sports club in Söderköping, Sweden between 1917-2004",,Q476028,,Söderköpings IS
+Söderköping Municipality,Söderköpings rådhus,Q30317194,1,2,2,,,Q1497375,,

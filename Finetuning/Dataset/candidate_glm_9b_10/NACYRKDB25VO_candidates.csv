@@ -1,0 +1,94 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Zelimovo,Zelimovo,Q1052999,0,0,1,"human settlement in Baymaksky District, Republic of Bashkortostan, Russia",,Q5084,,Zelimovo
+Demsino,Demsino,Q4157700,1,0,1,"human settlement in Sheksninsky District, Vologda Oblast, Russia",,Q5084,,Demsino
+Demsino,Demshino,Q4157745,1,0,1,"human settlement in Babayevsky District, Vologda Oblast, Russia",,Q5084,,Demshino
+Demsino,Demsino,Q24685120,1,0,1,"human settlement in Usmansky District, Lipetsk Oblast, Russia",,Q532,,
+Demsino,Demsino,Q31494094,1,0,1,human settlement in Russia,,Q532,,
+Demsino,Demsin,Q689521,1,0,2,District of Jerichow,,Q253019,,Demsin
+Demsino,Demsiner Gutsforst,Q31950032,1,0,2,,,Q4421,,
+Demsino,Demshin,Q4157744,1,0,2,"village in Kamianets-Podilskyi Raion, Khmelnytsky Oblast, Ukraine",,Q21672098,,
+Demsino,Demsinka,Q4157742,1,0,2,"human settlement in Dobrinsky District, Lipetsk Oblast, Russia",,Q532,,
+Breuil-Cervinia,Breuil-Cervinia,Q911159,2,0,1,"human settlement in Valtournenche, Aosta Valley, Italy",Le Breuil,Q5084|Q1134686,,Breuil-Cervinia
+Breuil-Cervinia,Valtournenche,Q35538,2,0,1,Italian municipality in the Aosta Valley,,Q954172,,Valtournenche
+Breuil-Cervinia,Cervinia,Q10447183,2,0,2,genus of crustaceans,,Q16521,,
+Breuil-Cervinia,Cervinia synarthra,Q6560752,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia,Q123408142,2,0,2,Japanese Thoroughbred racehorse,,Q726,,Cervinia (horse)
+Breuil-Cervinia,Cervinia brevipes,Q6558580,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia magna,Q6558606,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia tenuiseta,Q6560007,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia unisetosa,Q6559932,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia pilosa,Q6558710,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia langi,Q6558660,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Cervinia mediocauda,Q6560188,2,0,2,species of crustacean,,Q16521,,
+Breuil-Cervinia,Breuil,Q1090188,2,0,2,"commune in Somme, France",,Q484170,,"Breuil, Somme"
+Breuil-Cervinia,Breuil,Q63087541,2,0,2,family name,,Q101352,,
+Breuil-Cervinia,Breuil-le-Sec,Q1346647,2,0,2,"commune in Oise, France",Breuil,Q484170,,Breuil-le-Sec
+Breuil-Cervinia,Breuil-le-Vert,Q943707,2,0,2,"commune in Oise, France",Breuil,Q484170,,Breuil-le-Vert
+Breuil-Cervinia,Breuil-Magné,Q1080692,2,0,2,"commune in Charente-Maritime, France",Breuil,Q484170,,Breuil-Magné
+Breuil-Cervinia,Breuil-Bois-Robert,Q783707,2,0,2,"commune in Yvelines, France",Breuil,Q484170,,Breuil-Bois-Robert
+Breuil-Cervinia,Breuil-Barret,Q1107353,2,0,2,"former commune in Vendée, France",Breuil,Q484170|Q21869758,,Breuil-Barret
+Breuil-Cervinia,Breuil-la-Réorte,Q1349652,2,0,2,"commune in Charente-Maritime, France",Breuil,Q484170,,Breuil-la-Réorte
+Breuil-Cervinia,Breuil-sur-Vesle,Q658713,2,0,2,"commune in Marne, France",,Q484170,,Breuil-sur-Vesle
+Breuil-Cervinia,Le Breuil,Q595999,2,0,2,"commune in Saône-et-Loire, France",Breuil,Q484170,,"Le Breuil, Saône-et-Loire"
+Kirschendorf,Kirschendorf,Q1743594,3,0,1,human settlement in Germany,,Q253019|Q5084,,
+Sakatovo,Sakatovo,Q1052898,4,0,1,"human settlement in Bakalinsky District, Republic of Bashkortostan, Russia",,Q5084,,Sakatovo
+Zimititsy,Zimititskoye rural settlement,Q4191964,5,0,1,"human settlement in Volosovsky District, Leningrad Oblast, Russia",Zimititskoye selskoye poseleniye|Zimititskoe selskoe poselenie|Zimititsy,Q634099,,
+Zimititsy,Zimititsy,Q2023125,5,0,1,"posyolok in Zimititskoye rural settlement, Volosovsky District, Leningrad Oblast, Russia",Simetsa|Simititsa,Q2514025,,
+Zimititsy,Zimititsy,Q4191965,5,0,1,"hamlet in Zimititskoye rural settlement, Volosovsky District, Leningrad Oblast, Russia",,Q5084,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Aksentyevskaya,Q4059918,6,0,2,"human settlement in Babayevsky District, Vologda Oblast, Russia",,Q5084,,Aksentyevskaya
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Aksentyevskaya,Q4059919,6,0,2,"human settlement in Kaduysky District, Vologda Oblast, Russia",,Q5084,,"Aksentyevskaya, Kaduysky District, Vologda Oblast"
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Kaduysky District,Q370727,6,0,2,municipal district in Russia,,Q2198484,,Kaduysky District
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",flag of Kaduysky District,Q15962795,6,0,2,,Kaduysky District flag,Q21850100,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Vologda Oblast,Q2015,6,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Vologda Oblast,Q7940642,6,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,6,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,6,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",history of Vologda Oblast,Q4204582,6,0,2,,Vologda Oblast history,Q17524420,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,6,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,6,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,6,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Aksentyevskaya, Kaduysky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,6,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Umetbayevo,Umetbayevo,Q1071003,7,0,1,"human settlement in Sterlibashevsky District, Republic of Bashkortostan, Russia",Umetbatovo,Q5084,,"Umetbayevo, Sterlibashevsky District, Bashkortostan"
+Umetbayevo,Umetbayevo,Q1053480,7,0,1,"human settlement in Baymaksky District, Republic of Bashkortostan, Russia",,Q5084,,Umetbayevo
+Umetbayevo,Umetbayevo,Q1055988,7,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,"Umetbayevo, Beloretsky District, Republic of Bashkortostan"
+Umetbayevo,Umetbayevo,Q1071003,8,0,1,"human settlement in Sterlibashevsky District, Republic of Bashkortostan, Russia",Umetbatovo,Q5084,,"Umetbayevo, Sterlibashevsky District, Bashkortostan"
+Umetbayevo,Umetbayevo,Q1053480,8,0,1,"human settlement in Baymaksky District, Republic of Bashkortostan, Russia",,Q5084,,Umetbayevo
+Umetbayevo,Umetbayevo,Q1055988,8,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,"Umetbayevo, Beloretsky District, Republic of Bashkortostan"
+Umetbayevo,Umetbayevo,Q1071003,9,0,1,"human settlement in Sterlibashevsky District, Republic of Bashkortostan, Russia",Umetbatovo,Q5084,,"Umetbayevo, Sterlibashevsky District, Bashkortostan"
+Umetbayevo,Umetbayevo,Q1053480,9,0,1,"human settlement in Baymaksky District, Republic of Bashkortostan, Russia",,Q5084,,Umetbayevo
+Umetbayevo,Umetbayevo,Q1055988,9,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,"Umetbayevo, Beloretsky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevka,Q1070390,10,0,1,"village in Sterlitamaksky District, Republic of Bashkortostan, Russia","Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320529,10,0,1,"human settlement in Tuymazinsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Nikolayevka,Q4320368,10,0,1,"human settlement in Nikolayevsky District, Ulyanovsk Oblast, Russia",,Q192287|Q20019082|Q486972,,"Nikolayevka, Nikolayevsky District, Ulyanovsk Oblast"
+Nikolayevka,Nikolayevsky selsoviet,Q4320531,10,0,1,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Mykolayivka,Q4320284,10,0,1,"village in Kropyvnytskyi Raion, Kirovohrad Oblast, Ukraine",Nikolayevka|Nikolaevka|Mykolaivka,Q21672098,,
+Nikolayevka,Mykolaivka,Q4320359,10,0,1,"village in Sumy Raion, Sumy Oblast, Ukraine",Mykolayivka|Nikolayevka|Nikolaevka,Q21672098,,"Mykolaivka, Mykolaivka rural hromada, Sumy Raion, Sumy Oblast"
+Nikolayevka,Mykolaivka,Q2393885,10,0,1,"human settlement in Simferopol Raion, Crimea, Ukraine",Nikolayevka,Q4100864,,"Mykolaivka, Simferopol Raion"
+Nikolayevka,Nikolayevka,Q1991209,10,0,1,"urban-type settlement in Jewish Autonomous Oblast, Russia","Nikolayevka, Jewish Autonomous Oblast",Q2514025|Q15078955,,"Nikolayevka, Jewish Autonomous Oblast"
+Nikolayevka,Nikolayevka,Q1055154,10,0,1,"village in Beloretsky District, Republic of Bashkortostan, Russia","Nikolayevka, Beloretsky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Beloretsky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320518,10,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,"Nikolayevka, Russia",Q7036372,10,0,2,Wikimedia disambiguation page,,Q4167410,,"Nikolayevka, Russia"
+Nikolayevka,Nikolayevka,Q1070390,11,0,1,"village in Sterlitamaksky District, Republic of Bashkortostan, Russia","Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320529,11,0,1,"human settlement in Tuymazinsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Nikolayevka,Q4320368,11,0,1,"human settlement in Nikolayevsky District, Ulyanovsk Oblast, Russia",,Q192287|Q20019082|Q486972,,"Nikolayevka, Nikolayevsky District, Ulyanovsk Oblast"
+Nikolayevka,Nikolayevsky selsoviet,Q4320531,11,0,1,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Mykolayivka,Q4320284,11,0,1,"village in Kropyvnytskyi Raion, Kirovohrad Oblast, Ukraine",Nikolayevka|Nikolaevka|Mykolaivka,Q21672098,,
+Nikolayevka,Mykolaivka,Q4320359,11,0,1,"village in Sumy Raion, Sumy Oblast, Ukraine",Mykolayivka|Nikolayevka|Nikolaevka,Q21672098,,"Mykolaivka, Mykolaivka rural hromada, Sumy Raion, Sumy Oblast"
+Nikolayevka,Mykolaivka,Q2393885,11,0,1,"human settlement in Simferopol Raion, Crimea, Ukraine",Nikolayevka,Q4100864,,"Mykolaivka, Simferopol Raion"
+Nikolayevka,Nikolayevka,Q1991209,11,0,1,"urban-type settlement in Jewish Autonomous Oblast, Russia","Nikolayevka, Jewish Autonomous Oblast",Q2514025|Q15078955,,"Nikolayevka, Jewish Autonomous Oblast"
+Nikolayevka,Nikolayevka,Q1055154,11,0,1,"village in Beloretsky District, Republic of Bashkortostan, Russia","Nikolayevka, Beloretsky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Beloretsky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320518,11,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,"Nikolayevka, Russia",Q7036372,11,0,2,Wikimedia disambiguation page,,Q4167410,,"Nikolayevka, Russia"
+Nikolayevka,Nikolayevka,Q1070390,12,0,1,"village in Sterlitamaksky District, Republic of Bashkortostan, Russia","Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Nikolayevsky Selsoviet, Sterlitamaksky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320529,12,0,1,"human settlement in Tuymazinsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Nikolayevka,Q4320368,12,0,1,"human settlement in Nikolayevsky District, Ulyanovsk Oblast, Russia",,Q192287|Q20019082|Q486972,,"Nikolayevka, Nikolayevsky District, Ulyanovsk Oblast"
+Nikolayevka,Nikolayevsky selsoviet,Q4320531,12,0,1,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,Mykolayivka,Q4320284,12,0,1,"village in Kropyvnytskyi Raion, Kirovohrad Oblast, Ukraine",Nikolayevka|Nikolaevka|Mykolaivka,Q21672098,,
+Nikolayevka,Mykolaivka,Q4320359,12,0,1,"village in Sumy Raion, Sumy Oblast, Ukraine",Mykolayivka|Nikolayevka|Nikolaevka,Q21672098,,"Mykolaivka, Mykolaivka rural hromada, Sumy Raion, Sumy Oblast"
+Nikolayevka,Mykolaivka,Q2393885,12,0,1,"human settlement in Simferopol Raion, Crimea, Ukraine",Nikolayevka,Q4100864,,"Mykolaivka, Simferopol Raion"
+Nikolayevka,Nikolayevka,Q1991209,12,0,1,"urban-type settlement in Jewish Autonomous Oblast, Russia","Nikolayevka, Jewish Autonomous Oblast",Q2514025|Q15078955,,"Nikolayevka, Jewish Autonomous Oblast"
+Nikolayevka,Nikolayevka,Q1055154,12,0,1,"village in Beloretsky District, Republic of Bashkortostan, Russia","Nikolayevka, Beloretsky District, Republic of Bashkortostan",Q532|Q192287,,"Nikolayevka, Beloretsky District, Republic of Bashkortostan"
+Nikolayevka,Nikolayevsky selsoviet,Q4320518,12,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",Nikolayevka,Q634099,,
+Nikolayevka,"Nikolayevka, Russia",Q7036372,12,0,2,Wikimedia disambiguation page,,Q4167410,,"Nikolayevka, Russia"
+Staroyanbayevo,Staroyanbayevsky selsoviet,Q4440757,13,0,1,"human settlement in Baltachevsky District, Republic of Bashkortostan, Russia",Staroyanbayevo,Q634099,,
+Staroyanbayevo,Staroyanbayevo,Q1053893,13,0,1,"human settlement in Baltachevsky District, Republic of Bashkortostan, Russia",,Q5084,,Staroyanbayevo

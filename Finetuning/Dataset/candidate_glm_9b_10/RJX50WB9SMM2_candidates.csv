@@ -1,0 +1,23 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Hochausen,,,0,0,0,,,,,
+cultural heritage monument in Germany,Kulturdenkmal,Q11691318,0,1,1,official term for a site of cultural heritage in Germany,German site of cultural heritage|Kulturdenkmal|heritage site in Germany|cultural heritage monument in Germany,Q74817647,Q45580643|Q811165|Q2065736,Kulturdenkmal
+Netzschkaw,Netzschkau,Q46890,1,0,2,"town in Vogtlandkreis, Saxony",,Q42744322,,Netzschkau
+Netzschkaw,Netzschkau,Q110639591,1,0,2,German article in Album der Schlösser und Rittergüter im Königreiche Sachsen V. Section,,Q191067,,
+Netzschkaw,Netzschkau railway stop,Q30055427,1,0,2,"railway stop in Netzschkau, Germany",Netzschkau station,Q55488|Q27996460,,
+Netzschkaw,Netzschkau,Q32178129,1,0,2,human settlement in Germany,,Q486972,,
+Netzschkaw,Netzschkau municipal archive,Q130756426,1,0,2,archive in Germany,,Q604177,,
+Netzschkaw,Netzschkauer Straße,Q102042777,1,0,2,"street in Bad Lauchstädt, Saxony-Anhalt, Germany",,Q79007,,
+Netzschkaw,Ketzels mill Netzschkau,Q49439900,1,0,2,"historic watermill in Saxony, Germany",,Q1516079|Q185187|Q83405,,
+Netzschkaw,NEMA-Werke,Q1816816,1,0,2,historical motorcycle manufacturer in Germany,,Q15081032|Q786820,,
+Netzschkaw,Schloss Netzschkau,Q2242582,1,0,2,,,Q751876,,
+Netzschkaw,Netzschkau,Q24212849,1,0,2,Wikimedia disambiguation page,,Q4167410,,
+heritage monument in Saxony,heritage monument in Saxony,Q19413851,1,1,1,"to be used in P1435 (""heritage designation"") – official term for a site of cultural heritage in Saxony, Germany",cultural heritage monument in Saxony,,Q11691318|Q15097084,
+heritage monument in Saxony,heritage monument in Saxony-Anhalt,Q85102127,1,1,1,"to be used in P1435 – official term for a site of cultural heritage in Saxony-Anhalt, Germany",,,Q358|Q15097084|Q11691318,
+heritage monument in Saxony,heritage monument,Q56296786,1,1,2,outstanding cultural or natural object worthy of preserving,,,Q2434238|Q488383,
+heritage monument in Saxony,cultural heritage monument in Rhineland-Palatinate,Q84357648,1,1,2,cultural heritage monument according to § 3 of the monument protection law of Rhineland-Palatinate,Heritage monument in Rhineland-Palatinate,Q74817647,Q11691318|Q18087975,
+heritage monument in Saxony,heritage monument ensemble in Bavaria,Q97155914,1,1,2,,,,Q1516079|Q18087975,
+heritage monument in Saxony,Heritage monument in Thuringia,Q85192701,1,1,2,,,Q358,Q358|Q18087975,
+heritage monument in Saxony,heritage monument in Hamburg,Q28661501,1,1,2,,,,Q11691318,
+heritage monument in Saxony,cultural heritage monument in Berlin,Q85171142,1,1,2,official term for a site of cultural heritage in Berlin,cultural monument in Berlin|heritage monument in Berlin,Q74817647,Q11691318,
+heritage monument in Saxony,heritage monument in Saarland,Q85192690,1,1,2,"to be used in P1435 – official term for a site of cultural heritage in Saarland, Germany",,,Q358,
+heritage monument in Saxony,Heritage monument in Schleswig-Holstein,Q85192696,1,1,2,,,,Q11691318,

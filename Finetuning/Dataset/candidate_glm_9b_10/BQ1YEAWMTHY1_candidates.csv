@@ -1,0 +1,24 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lingua Franca Nova alphabet,Lingua Franca Nova alphabet,Q65446649,0,0,1,,,Q9779,,
+Lingua Franca Nova alphabet,Lingua Franca Nova,Q146803,0,0,2,"auxiliary constructed language, originally created by C. George Boeree, and largely based on a Romance substrate partially creolized then modified by some evolutive rules of simplification",elefen,Q838296|Q33215,,Lingua Franca Nova
+Lingua Franca Nova alphabet,Lingua Franca Nova Wikipedia,Q52047822,0,0,2,[lfn] Lingua Franca Nova-language edition of Wikipedia,lfnwiki|Elefen Wikipedia|lfnwp|lfnwikipedia,Q10876391,,Lingua Franca Nova Wikipedia
+Lingua Franca Nova alphabet,Lingua Franca Nova grammar,Q6553975,0,0,2,,,,Q8091,Lingua Franca Nova grammar
+Lingua Franca Nova alphabet,literature in Lingua Franca Nova,Q65446882,0,0,2,,,,Q8242,
+Lingua Franca Nova alphabet,Latin alphabet,Q41670,0,0,2,"alphabet used to write the Roman Latin language, then adapted and used in most languages of the world",Roman alphabet,Q29517555,Q9779,Latin alphabet
+Lingua Franca Nova alphabet,Latin script in Unicode,Q1046233,0,0,2,characters from the Latin script encoded in the Unicode Standard,Latin alphabet in Unicode|Latin characters in Unicode,Q8192|Q7439210,,Latin script in Unicode
+Lingua Franca Nova alphabet,history of the Latin alphabet,Q3772237,0,0,2,aspect of history,the Latin alphabet history|Latin alphabet history,Q17524420,,History of the Latin script
+Lingua Franca Nova alphabet,Latin alphabet diacritic,Q3025834,0,0,2,adaptations of the Latin alphabet,Latin alphabet diacritics,,Q162940,
+Lingua Franca Nova alphabet,Common Turkic alphabet,Q1143535,0,0,2,project for a single Latin alphabet for all Turkic languages,Turkic alphabet|Latin alphabets of Turkic peoples|Common alphabet,Q29575627,,Common Turkic alphabet
+Lingua Franca Nova alphabet,Latin alphabet in Turkic countries,Q3611039,0,0,2,,,,,
+Lingua Franca Nova alphabet,Template:Latin alphabet sidebar,Q5639809,0,0,2,Wikimedia template,Template:Latin alphabet navbox|Template:AZ,Q19887878,,Template:Latin alphabet sidebar
+Lingua Franca Nova alphabet,list of Latin-script alphabets,Q681021,0,0,2,Wikimedia list article,,Q13406463,,List of Latin-script alphabets
+Theban alphabet,Theban alphabet,Q1779961,1,0,1,"writing system, first published in Johannes Trithemius's Polygraphia (1518); today sometimes used in modern Wicca",Honorian alphabet|Runes of Honorius|witches' alphabet|Theban script,Q9779|Q1191702|Q4004706|Q4681865|Q626500,,Theban alphabet
+Theban alphabet,Egyptian Hieroglyphs,Q2494183,1,0,2,Egyptian unicode block (U+13000-1342F),U+13000-1342F,Q3512806,,Egyptian Hieroglyphs (Unicode block)
+Theban alphabet,Egyptian hieroglyphs,Q132659,1,0,2,formal writing system used by the ancient Egyptians,Egyptian hieroglyphic script|Egyptian hieroglyphics|Ancient Egyptian hieroglyphs,Q8192|Q3953107|Q4004706|Q29517555,Q193762,Egyptian hieroglyphs
+Theban alphabet,Egyptian Hieroglyphs,Q124077663,1,0,2,"thirty-fifth chapter in The Oxford Handbook of Roman Egypt, 2031",,Q21481766,,
+Theban alphabet,quadrat,Q636295,1,0,2,regular square arrangement structure of hieroglyphs in ancient Egyptian texts,quadrats|Egyptian hieroglyphs quadrat|quadrat (Egyptian hieroglyphs)|quadrats (Egyptian hieroglyphs),Q6671777|Q868954,,Quadrat (hieroglyph block)
+Theban alphabet,Egyptian Hieroglyphs Extended-A,Q130282440,1,0,2,Unicode block (U+13460-143FF),U+13460-143FF,Q3512806,,Egyptian Hieroglyphs Extended-A
+Theban alphabet,Egyptian Hieroglyphs in the Late Antique Imagination,Q136133128,1,0,2,2019,,Q3331189,,
+Theban alphabet,Egyptian Hieroglyphs Segmentation with Convolutional Neural Networks,Q122668657,1,0,2,scientific article published in 2023,,Q13442814,,
+Theban alphabet,Egyptian Hieroglyphs,Q16775429,1,0,2,Wikimedia disambiguation page,,Q4167410,,Egyptian Hieroglyphs
+Theban alphabet,Ancient Egyptian writing systems,Q387875,1,0,2,,Writing in Ancient Egypt|Medew Netcher,Q8192,,Medew Netcher

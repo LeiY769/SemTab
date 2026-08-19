@@ -1,0 +1,47 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+LSQ 12fx,LSQ 12fxd,Q77687391,0,0,1,supernova in the constellation Lepus,,Q3937,,
+LSQ 12fx,LSQ 12fxu,Q89120377,0,0,1,supernova in the constellation Aquarius,,Q3937,,
+RTS CSS141021 J030330-053334,,,1,0,0,,,,,
+N 2001ib,,,2,0,0,,,,,
+SN 1962L,SN 1962L,Q9326473,3,0,1,supernova,,Q3937,,
+SO 1969F,,,4,0,0,,,,,
+CRTS MLS110628 J1619300055908,Catalina Real-time Transient Survey,Q16918903,5,0,2,sky survey,CRTS,Q550089,,Catalina Real-time Transient Survey
+CRTS MLS110628 J1619300055908,Royal Centre for Remote Sensing,Q2946015,5,0,2,Moroccan space agency specialized in remote sensing,CRTS,Q43229|Q2385804,,Royal Center for Remote Sensing
+CRTS MLS110628 J1619300055908,CRTS,Q5013952,5,0,2,,,Q28640,,Certified Relocation and Transition Specialist
+CRTS MLS110628 J1619300055908,CRTS J052209.7-350530,Q81650960,5,0,2,cataclysmic binary candidate in the constellation Columba,,Q72704237|Q523,,
+CRTS MLS110628 J1619300055908,CRTS J011159.8+281927,Q80460468,5,0,2,Algol variable in the constellation Pisces,,Q24452,,
+CRTS MLS110628 J1619300055908,CRTS J224552.8+225140,Q76114992,5,0,2,,,Q691269,,
+CRTS MLS110628 J1619300055908,CRTS J231126.7-305825,Q82829124,5,0,2,RR Lyrae variable star in the constellation Sculptor,,Q726242,,
+CRTS MLS110628 J1619300055908,2MASS J22263275-3404084,Q86308487,5,0,2,possible red giant branch star in the constellation Piscis Austrinus,,Q72802727,,
+CRTS MLS110628 J1619300055908,2MASS J01521234-2252493,Q78971094,5,0,2,horizontal branch star in the constellation Cetus,,Q72803426|Q67206691,,
+CRTS MLS110628 J1619300055908,[VOB2016] 38.9496,Q77394429,5,0,2,,,Q726242|Q72803426|Q523,,
+SN 1<83J,,,6,0,0,,,,,
+SN 1940C,SN 1940C,Q9326289,7,0,1,supernova,,Q3937,,
+SN 2003fk,SN 2003fk,Q9328924,8,0,1,supernova,,Q3937,,
+SN 2010ev,SN 2010ev,Q9331664,9,0,1,supernova,,Q3937,,
+SN 2010ev,Supernova 2010ev in NGC 3244,Q68776048,9,0,2,scientific article published in January 2010,,Q13442814,,
+SN 2010ev,Supernova 2010ev in NGC 3244,Q68776041,9,0,2,scientific article,,Q13442814,,
+SN 2010ev,Supernova 2010ev in NGC 3244,Q68987484,9,0,2,,,Q13442814,,
+SN 2010ev,Supernova 2010ev in NGC 3244,Q68776044,9,0,2,,,Q13442814,,
+SN 2010ev,Supernova 2010ev: A reddened high velocity gradient type Ia supernova,Q59939572,9,0,2,scientific article,,Q13442814,,
+SN 200<aw,,,10,0,0,,,,,
+SN 2011ec,SN 2011ec,Q9331989,11,0,1,supernova,,Q3937,,
+SN 2011ec,Supernova 2011ec in PGC 69507 = PSN J22413750-5736080,Q68777193,11,0,2,scientific article published in January 2011,,Q13442814,,
+SN 2011ec,Supernova 2011ec in PGC 69507 = PSN J22413750-5736080,Q68399061,11,0,2,scholarly article,,Q13442814,,
+SN 2006ep,SN 2006ep,Q9329861,12,0,1,supernova,,Q3937,,
+SN 2006ep,SN 2006gy,Q644956,12,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006ep,SN 2006X,Q2659966,12,0,2,supernova,,Q3937,,SN 2006X
+SN 2006ep,SN 2005cs,Q597168,12,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006ep,SN 2006jc,Q1747732,12,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006ep,SN 2002cx,Q7391949,12,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006ep,SN 2004et,Q9329248,12,0,2,supernova,,Q3937,,SN 2004et
+SN 2006ep,SN 2006rs,Q9330210,12,0,2,supernova,,Q3937,,
+SN 2006ep,SN 2008cs,Q9330949,12,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006ep,SN 2002dj,Q9328532,12,0,2,supernova,,Q3937,,
+SN 2006ep,SN 2006td,Q9330246,12,0,2,supernova,,Q3937,,
+SN 011ds,SN-011,Q133878691,13,0,2,pharmaceutical compound,,Q113145171,Q11173,SN-011
+2009ln,2009 Lincolnshire County Council election,Q6551239,14,0,2,2009 UK local government election,,Q6551240,,2009 Lincolnshire County Council election
+2009ln,2009 Lincoln Blue Tigers football team,Q133321724,14,0,2,American college football season,,Q1539532,,2009 Lincoln Blue Tigers football team
+N 004hg,,,15,0,0,,,,,
+SN 203ds,,,16,0,0,,,,,
+N 195F,,,17,0,0,,,,,

@@ -1,0 +1,125 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+iticaea,,,0,0,0,,,,,
+Bsan,Type III secretion system transcriptional regulator BsaN BMAA1545,Q23543134,1,0,1,microbial protein found in Burkholderia mallei ATCC 23344,BMAA1545|bsaN,Q8054,Q8054,
+Bsan,AraC family transcriptional regulator BPSS1546,Q23240558,1,0,1,microbial gene found in Burkholderia pseudomallei K96243,bsaN|BPSS1546|AraC family transcriptional regulator,Q7187,Q7187|Q20747295,
+Bsan,AraC family transcriptional regulator BPSS1546,Q23552729,1,0,1,microbial protein found in Burkholderia pseudomallei K96243,BPSS1546|bsaN,Q8054,Q8054,
+Bsan,type III secretion system transcriptional regulator BsaN BMAA1545,Q23218527,1,0,1,microbial gene found in Burkholderia mallei ATCC 23344,bsaN|BMAA1545|type III secretion system transcriptional regulator BsaN,Q7187,Q7187|Q20747295,
+Bsan,Bsanqul,Q12198383,1,0,1,village in Syria,,Q532|Q16127605,,Bsanqul
+Bsan,Byzantine Studies Association of North America,Q30258314,1,0,1,"organization in New York, United States",BSANA,Q43229,,
+Bsan,Bibliographical Society of Australia and New Zealand,Q65592207,1,0,1,learned society,BSANZ,Q955824,,
+Bsan,BSAN,Q110600213,1,0,1,,,Q548662,,
+Bsan,BSANNA,Q23017565,1,0,1,,,Q4830453,,
+Bsan,Bashan,Q37442971,1,0,2,family name,,Q101352,,
+Bsan,Başhan,Q2655712,1,0,2,"mahalle (administrative quarter) in Bismil, Diyarbakır, southeastern Turkey",,Q17051044,,"Başhan, Bismil"
+Bsan,Bashan,Q11058891,1,0,2,"town in Chongren, Fuzhou, Jiangxi, China",,Q735428,,
+Bsan,Bashan,Q612952,1,0,2,Biblical region in the Levant,,Q1620908|Q3024240,,Bashan
+Bsan,Bashan,Q11058860,1,0,2,,,Q735428,,
+Bsan,Başhan,Q6854048,1,0,2,"village in central district, Bitlis, southeastern Turkey",,Q1529096,,"Başhan, Bitlis"
+Bsan,Bashania,Q19115958,1,0,2,genus of plants,,Q16521,,Bashania
+Bsan,Bashan Town,Q11077253,1,0,2,,,Q735428,,
+Bsan,Bashan,Q14648361,1,0,2,,,Q985488,,
+Bsan,Bashan,Q14729263,1,0,2,,,Q985488,,
+Vgnetsa,,,2,0,0,,,,,
+Niagara Fcls,Niagara Falls,Q34221,3,0,2,three waterfalls that straddle the international border between Canada and the United States,Niagra Falls|The Niagara Falls|The Niagra Falls,Q34038|Q2270442,,Niagara Falls
+Niagara Fcls,Niagara Falls,Q274120,3,0,2,"city located in the province of Ontario, Canada","Niagara Falls, Ontario|Niagara Falls, ON",Q515|Q15210668|Q902814,,"Niagara Falls, Ontario"
+Niagara Fcls,Niagara Falls,Q128133,3,0,2,"city in New York, United States","Niagara Falls, New York|Niagara Falls, NY",Q1093829|Q902814|Q15063611,,"Niagara Falls, New York"
+Niagara Fcls,Niagara Falls,Q3339434,3,0,2,"former federal electoral district in Ontario, Canada (1953–2025)",Niagara Falls,Q6593031|Q17202187,,Niagara Falls (federal electoral district)
+Niagara Fcls,12382 Niagara Falls,Q2708626,3,0,2,asteroid,Niagara Falls,Q3863,,12382 Niagara Falls
+Niagara Fcls,Niagara Falls,Q28532656,3,0,2,painting by studio of Richard Wilson,,Q3305213,,
+Niagara Fcls,Niagara Falls,Q19900792,3,0,2,painting by Albert Bierstadt,,Q3305213,,
+Niagara Fcls,Niagara Falls,Q112201348,3,0,2,painting by John Snyder,,Q3305213,,
+Niagara Fcls,Niagara Falls,Q20489842,3,0,2,painting by George Inness,,Q3305213,,
+Niagara Fcls,Niagara Falls,Q20738798,3,0,2,painting by Régis François Gignoux,,Q3305213,,
+Niagara Fcls,Niagara Falls International Airport,Q1984520,3,0,2,"airport in New York, United States of America",IAG|KIAG,Q644371|Q94993988,,Niagara Falls International Airport
+Niagra Falls,Niagara Falls,Q34221,4,0,1,three waterfalls that straddle the international border between Canada and the United States,Niagra Falls|The Niagara Falls|The Niagra Falls,Q34038|Q2270442,,Niagara Falls
+Niagra Falls,Niagara Falls,Q274120,4,0,2,"city located in the province of Ontario, Canada","Niagara Falls, Ontario|Niagara Falls, ON",Q515|Q15210668|Q902814,,"Niagara Falls, Ontario"
+Niagra Falls,Niagara Falls,Q128133,4,0,2,"city in New York, United States","Niagara Falls, New York|Niagara Falls, NY",Q1093829|Q902814|Q15063611,,"Niagara Falls, New York"
+Niagra Falls,Niagara Falls,Q3339434,4,0,2,"former federal electoral district in Ontario, Canada (1953–2025)",Niagara Falls,Q6593031|Q17202187,,Niagara Falls (federal electoral district)
+Niagra Falls,12382 Niagara Falls,Q2708626,4,0,2,asteroid,Niagara Falls,Q3863,,12382 Niagara Falls
+Niagra Falls,Niagara Falls,Q28532656,4,0,2,painting by studio of Richard Wilson,,Q3305213,,
+Niagra Falls,Niagara Falls,Q19900792,4,0,2,painting by Albert Bierstadt,,Q3305213,,
+Niagra Falls,Niagara Falls,Q112201348,4,0,2,painting by John Snyder,,Q3305213,,
+Niagra Falls,Niagara Falls,Q20489842,4,0,2,painting by George Inness,,Q3305213,,
+Niagra Falls,Niagara Falls,Q20738798,4,0,2,painting by Régis François Gignoux,,Q3305213,,
+Niagra Falls,Niagara River,Q182343,4,0,2,watercourse on the boundary of Canada and the United States,Niagara,Q4022,,Niagara River
+Niagra Falls,Niagara River,Q77541442,4,0,2,painting attributed to Thomas Doughty,,Q3305213,,
+Niagra Falls,Niagara River Lions,Q21451951,4,0,2,"Basketball team in St. Catharines, Canada",,Q13393265,,Niagara River Lions
+Niagra Falls,Niagara Gorge,Q3111018,4,0,2,gorge of the Niagara River on the boundary of Canada and the United States,Niagara River Gorge,Q150784,,Niagara Gorge
+Niagra Falls,Niagara River Greenway Plan,Q7023780,4,0,2,focusing on the Niagara River in New York,,,,Niagara River Greenway Plan
+Niagra Falls,Niagara River Treaty,Q140517836,4,0,2,international treaty between Canada and the United States,,,,Niagara River Treaty
+Niagra Falls,Niagara Riverhawks,Q5101634,4,0,2,Canadian junior ice hockey team,Chippawa Riverhawks|Chippawa Merchants,Q4498974,,Niagara Riverhawks
+Niagra Falls,Niagara River since the Ice Age,Q114165359,4,0,2,scientific article published in 1894,,Q13442814,,
+Niagra Falls,Niagara River,Q22212315,4,0,2,Wikimedia disambiguation page,,Q4167410,,
+Niagra Falls,Horseshoe Falls,Q1373778,4,0,2,waterfall of the Niagara Falls,Canadian Falls|Horse Shoe Falls,Q34038,,Horseshoe Falls
+Niagra Falls,Horseshoe Falls,Q5906032,4,0,2,Grade II listed wier in Denbighshire; the 'Falls' are located above rapids on the River Dee approximately 2km above Llangollen,,Q1066997|Q34038,,Horseshoe Falls (Wales)
+Niagra Falls,Horseshoe Falls,Q5906017,4,0,2,"waterfall in British Columbia, Canada",,Q34038,,Horseshoe Falls (British Columbia)
+Niagra Falls,Horseshoe Falls,Q2967733,4,0,2,"waterfall in Tasmania, Australia",,Q34038,,Horseshoe Falls (Tasmania)
+Niagra Falls,Horseshoe Falls,Q15910538,4,0,2,"waterfall in the upper Sabie River, near Sabie, South Africa",,Q34038,,Horseshoe Falls (South Africa)
+Niagra Falls,Horseshoe Falls,Q21909483,4,0,2,"waterfall near Springbrook, Queensland, Australia",,Q34038,,
+Niagra Falls,Horseshoe Falls,Q115418438,4,0,2,"waterfall in Parry Sound District, Ontario, Canada",,Q34038,,
+Niagra Falls,Horseshoe Falls,Q115958284,4,0,2,"waterfall in Alberta, Canada",,Q34038,,
+Niagra Falls,Horseshoe Falls,Q115418440,4,0,2,"waterfall in Timiskaming District, Ontario, Canada",,Q34038,,
+Niagra Falls,"Horseshoe Falls, Niagara, from Table Rock",Q59507902,4,0,2,painting by E.G. Hallewell,,Q3305213,,
+Niagra Falls,American Falls,Q385233,4,0,2,"city in and county seat of Power County, Idaho, United States","American Falls, Idaho|American Falls, ID",Q1093829|Q62049,,"American Falls, Idaho"
+Niagra Falls,American Falls,Q1320475,4,0,2,"waterfall of Niagara Falls in Niagara Falls, New York, United States",,Q34038,,American Falls
+Niagra Falls,American Falls Reservoir,Q34907371,4,0,2,"reservoir in Power County, Idaho, United States",,Q131681,,
+Niagra Falls,American Falls,Q131409399,4,0,2,"former waterfall on the Snake River in Power County Idaho, United States",,Q34038|Q96088545,,
+Niagra Falls,American Falls Dam,Q464188,4,0,2,"architectural structure in Power County, Idaho, United States",,Q3497167|Q15911738,,American Falls Dam
+Niagra Falls,"American Falls, Niagara",Q46630477,4,0,2,painting by William Morris Hunt,,Q3305213,,
+Niagra Falls,"American Falls from Above, American Side",Q2842924,4,0,2,1896 film directed by James H. White,,Q11424,,
+Niagra Falls,"American Falls, from Incline R.R.",Q2842922,4,0,2,1896 film directed by James H. White,,Q11424,,
+Niagra Falls,"American Falls, Niagara",Q19925138,4,0,2,drawing by Jasper Francis Cropsey,,Q93184,,
+Niagra Falls,American Falls District,Q69472744,4,0,2,"public library system in Idaho, USA",,Q26271642,,
+Luxo,Luxo,Q3268076,5,0,1,"concejo in Basque Country, Spain",Lujo|Luxo/Lujo,Q16543169|Q3055118,,"Lujo, Álava"
+Luxo,Luxor,Q270477,5,0,1,2005 video game,,Q7889,,Luxor (video game)
+Luxo,Luxo Jr.,Q914155,5,0,1,1986 animated short film directed by John Lasseter,Luxo Junior,Q17517379,,Luxo Jr.
+Luxo,Luxor,Q130514,5,0,1,city in southern Egypt,,Q515|Q1549591,,Luxor
+Luxo,Luxor 2,Q315256,5,0,1,2006 video game,,Q7889,,Luxor 2
+Luxo,Luxor,Q111468938,5,0,1,Russian singer,Artur Shmygin,Q5,,
+Luxo,Luxo,Q3429278,5,0,1,company,,Q4830453,,Luxo
+Luxo,Luxor 3,Q315260,5,0,1,2007 video game,,Q7889,,Luxor 3
+Luxo,Global user contributions,Q106177480,5,0,1,Wikimedia tool,globalcontribs|luxo|GUC,Q107355827,,
+Luxo,Luxor Subway,Q79455343,5,0,1,endless running” mobile game,العاب فيديو,Q7889,,
+ig Ben,Bangla,Q9610,6,0,2,Indo-Aryan language mostly spoken in Bangladesh and India,Bengali language|Bangla language|Bengali,Q33742|Q1288568,Q4179137,Bengali language
+ig Ben,Ben,Q816407,6,0,2,male given name,,Q12308941,,Ben
+ig Ben,Benin,Q962,6,0,2,sovereign state in West Africa,Republic of Benin,Q3624078|Q6256,,Benin
+ig Ben,benefactive case,Q664905,6,0,2,grammatical case expressing who receives the benefit of an action,BEN,Q128234,,Benefactive case
+ig Ben,Benina International Airport,Q44553,6,0,2,international airport in Libya,Benina Airport|BEN|HLLB,Q644371|Q1248784|Q94993988,,Benina International Airport
+ig Ben,Ben Shapiro,Q4886439,6,0,2,American conservative political commentator,Benjamin Aaron Shapiro,Q5,,Ben Shapiro
+ig Ben,Ben,Q16243486,6,0,2,1972 studio album by Jorge Ben,,Q482994,,Ben (Jorge Ben album)
+ig Ben,Bennett,Q449411,6,0,2,family name,Bennett (name),Q101352,,Bennett (name)
+ig Ben,Benešov,Q470394,6,0,2,town in the Czech Republic,,Q3957|Q15978299|Q7819319|Q5153359|Q8452914|Q7841907,,Benešov
+ig Ben,Bengtsfors Municipality,Q267462,6,0,2,"municipality in Västra Götaland County, Sweden",Bengtsfors kommun,Q127448,,Bengtsfors Municipality
+ig Ben,Benjamin,Q817365,6,0,2,family name,,Q101352,,Benjamin (surname)
+ig Ben,Benjamín,Q19830690,6,0,2,male given name,,Q12308941,,
+ig Ben,Benjamin,Q817379,6,0,2,"city in and county seat of Knox County, Texas, United States","Benjamin, Texas|Benjamin, TX",Q1093829|Q62049|Q486972,,"Benjamin, Texas"
+ig Ben,Benjamin Franklin,Q34969,6,0,2,American polymath and statesman (1706–1790),The First American|Poor Richard,Q5,,Benjamin Franklin
+ig Ben,Benjámin,Q14625002,6,0,2,male given name,Benjámin (first name)|Benjámin (given name),Q12308941,,
+ig Ben,Benjamin C. Radburn-Smith,Q115916753,6,0,2,physicist,,Q5,,
+ig Ben,Benjamin West,Q313498,6,0,2,18th- and 19th-century English painter (1738–1820),R. A. Benjamin West|P. R. A. Benjamin West|Sir Benjamin West|B. West|Mr. West|West|west b.|P. R. A. B. West|P.R.A B. West|&amp West|P.R.A. B. West|West. P.R.A.|Mr B. West|West. P. R. A.|R. A. B. West|B. West R. A.|benj. west|P.R.A. West|B West|&c. West|Benjamin West PRA,Q5,,Benjamin West
+ig Ben,Benjamin Britten,Q150767,6,0,2,"English composer, conductor, and pianist (1913-1976)","Edward Benjamin Britten|Edward Benjamin Britten, Baron Britten of Aldeburgh OM CH",Q5,,Benjamin Britten
+ig Ben,Benjamin Henry Hooberman,Q112669672,6,0,2,researcher,,Q5,,
+ig Ben,Benjamin E. Kaplan,Q113530093,6,0,2,American particle physicist,,Q5,,
+Bn Nevis,Nevis,Q207794,7,0,2,island and state in the Caribbean Sea,Nevis Island|Dulcina|Meavis|Meves|Mevis|Neves|Nievis,Q23442|Q10864048|Q107390,,Nevis
+Bn Nevis,Nevis Island Assembly,Q7004964,7,0,2,local legislature of the Caribbean island,,Q37002670,,Nevis Island Assembly
+Bn Nevis,Nevis Island Administration,Q112039223,7,0,2,,,,,Nevis Island Administration
+Peyra,Peyrat-le-Château,Q779574,8,0,1,"commune in Haute-Vienne, France",Pairac lo Chasteu|Peyrat le Château,Q484170,,Peyrat-le-Château
+Peyra,Peyrat-la-Nonière,Q1139191,8,0,1,"commune in Creuse, France",Peyrat-la-Montagne,Q484170,,Peyrat-la-Nonière
+Peyra,Peyraud,Q166518,8,0,1,"commune in Ardèche, France",,Q484170,,Peyraud
+Peyra,Peyrat-de-Bellac,Q178868,8,0,1,"commune in Haute-Vienne, France",Peyrat-la-Montagne|Pairac de Belac,Q484170,,Peyrat-de-Bellac
+Peyra,Peyrabout,Q199501,8,0,1,"commune in Creuse, France",,Q484170,,Peyrabout
+Peyra,Peyraube,Q1341196,8,0,1,"commune in Hautes-Pyrénées, France",,Q484170,,Peyraube
+Peyra,Peyraud,Q63109776,8,0,1,family name,,Q101352,,
+Peyra,Peyrard,Q65112099,8,0,1,family name,,Q101352,,
+Peyra,Peyrat,Q63139837,8,0,1,family name,,Q101352,,
+Peyra,Peyra,Q62772477,8,0,1,family name,,Q101352,,
+ountFuji,Mount Fuji,Q39231,9,0,2,"volcano in Yamanashi and Shizuoka Prefectures, Japan",Mt Fuji|Fuji Mountain|Fuji-san|Mt. Fuji|Fujisan|Fuji-yama|Fujiyama|🗻,Q1330974|Q3393392|Q11571545|Q169358|Q11588709|Q8502,,Mount Fuji
+ountFuji,Fujisan,Q17212214,9,0,2,,Fuji-san|Mount Fuji,Q798625|Q648899|Q11381412,,
+ountFuji,Mount Fuji,Q49392407,9,0,2,painting by Minol Araki,,Q3305213,,
+ountFuji,Mount Fuji,Q112200960,9,0,2,painting by Painter: Maruyama Ōzui; Calligrapher: Ōta Nanpo,,Q3305213,,
+ountFuji,Mount Fuji,Q106767913,9,0,2,painting by Ike Taiga 池大雅,,Q3305213,,
+ountFuji,🗻,Q87581497,9,0,2,Unicode character,U+1F5FB|MOUNT FUJI|Mount Fuji emoji|mountain emoji,Q29654788|Q1049294,,
+ountFuji,Mount Fuji,Q79412063,9,0,2,painting by Kano Tan'yu,,Q3305213,,
+ountFuji,Mount Fuji,Q78754492,9,0,2,painting by Kawanabe Kyōsai,,Q3305213,,
+ountFuji,Mount Fuji,Q102968773,9,0,2,print by Hiroaki Takahashi,,Q11060274,,
+ountFuji,Mount Fuji,Q50813837,9,0,2,"item EA1973.115 in the Ashmolean Museum, Oxford, UK",,Q50488927,,

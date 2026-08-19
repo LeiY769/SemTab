@@ -1,0 +1,31 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Apollo 11,Apollo 11,Q43653,0,0,1,first Moon landing and fifth crewed flight of the United States Apollo program,Apollo XI|The Moon Landing|The 1st Moon Landing,Q752783,,Apollo 11
+Apollo 11,Apollo 11,Q61639822,0,0,1,2019 film directed by Todd Douglas Miller,,Q11424,,Apollo 11 (2019 film)
+Apollo 11,Apollo 11,Q618996,0,0,1,1996 film directed by Norberto Barba,,Q506240,,Apollo 11 (1996 film)
+Apollo 11,Apollo 11 VR,Q23774354,0,0,1,2016 video game,,Q7889,,
+Apollo 11,Apollo 11 Cave,Q14755864,0,0,1,archeological site in Namibia,,Q11269813,,Apollo 11 Cave
+Apollo 11,Apollo 11,Q122212389,0,0,1,2016 soundtrack album by Adam Young,,Q482994,,Apollo 11 (album)
+Apollo 11,Apollo 11,Q140128537,0,0,1,beer brewed by Celestial Beerworks,,Q139801897,,
+Apollo 11,Eagle,Q28101302,0,0,1,lunar module used during Apollo 11; first crewed spacecraft on the Moon,Lunar Module Eagle|Lunar Module 5|LM-5 Eagle|Apollo 11 Lunar Module|Apollo 11 LM|Apollo 11 LEM,Q208382,,Lunar Module Eagle
+Apollo 11,Columbia,Q85753536,0,0,1,Apollo command module used during Apollo 11,CM-107|Command Module Columbia|Apollo 11 Command Module,Q110163453,,Command module Columbia
+Apollo 11,Apollo 11 VR HD,Q122377498,0,0,1,2018 video game,,Q7889,,
+Apollo 11,Apollo 11 Mission Insignia,Q110989224,0,0,2,insignia,,Q552345,,
+Apollo 11,Apollo 11 Mission Highlights (NAID 102074052),Q67483061,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51,Q262753,1,0,1,human spaceflight,,Q752783,,STS-51
+STS-51,STS-51-G,Q793632,1,0,1,human spaceflight,STS-51G,Q752783,,STS-51-G
+STS-51,STS-51-B,Q834698,1,0,1,human spaceflight,Spacelab-3,Q752783,,STS-51-B
+STS-51,STS-51-F,Q827094,1,0,1,human spaceflight,Spacelab 2,Q752783,,STS-51-F
+STS-51,STS-51-J,Q524091,1,0,1,human spaceflight,,Q752783,,STS-51-J
+STS-51,STS-51-D,Q754929,1,0,1,human spaceflight,,Q752783,,STS-51-D
+STS-51,STS-51-A,Q703042,1,0,1,human spaceflight,,Q752783,,STS-51-A
+STS-51,STS-51-L,Q19050,1,0,1,twenty-fifth flight of the American Space Shuttle program,Challenger,Q752783,,STS-51-L
+STS-51,STS-51-C,Q606269,1,0,1,human spaceflight,,Q752783,,STS-51-C
+STS-51,STS-51-I,Q793618,1,0,1,human spaceflight,,Q752783,,STS-51-I
+STS-51,Space Shuttle Mission 2007,Q7572493,1,0,2,2011 video game,,Q7889,,Space Shuttle Mission 2007
+STS-51,Space Shuttle Mission Simulator,Q140355210,1,0,2,video game,,Q7889,,
+STS-51,Space Shuttle Mission Simulation (NAID 101939829),Q66358042,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51 Mission Operations Control Room (NAID 80622846),Q71195904,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51 Mission Operations Control Room (NAID 80622843),Q71195898,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51 Mission Operations Control Room (NAID 80622852),Q71195922,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51 Mission Operations Control Room (NAID 80622844),Q71195899,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+STS-51,STS-51 Mission Operations Control Room (NAID 80622845),Q71195901,1,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,

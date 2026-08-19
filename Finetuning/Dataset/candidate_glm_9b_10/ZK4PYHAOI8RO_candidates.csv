@@ -1,0 +1,41 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Leipzig-Engelsdorf,Leipzig-Engelsdorf railway stop,Q116054672,0,0,1,"railway stop in Leipzig, Germany",,Q27996460|Q1793804,,
+Leipzig-Engelsdorf,Leipzig-Engelsdorf goods station,Q800726,0,0,1,"goods station in Leipzig, Germany",Leipzig-Engelsdorf marshalling yard|Leipzig-Engelsdorf station,Q55493,,Leipzig-Engelsdorf marshalling yard
+Leipzig-Engelsdorf,Leipzig-Engelsdorf–Leipzig-Connewitz railway,Q21588006,0,0,1,railway line in Germany,Engelsdorf–Leipzig-Connewitz railway line,Q728937,,Leipzig-Engelsdorf–Leipzig-Connewitz railway
+Gare d'Auxy - Juranville,Gare d'Auxy - Juranville,Q3095702,1,0,1,"railway station in Auxy, France",,Q55488|Q55493,,
+Wakana Station,Wakana Station,Q11616727,2,0,1,railway station in Japan,,Q55488|Q4663385|Q55493,,
+Raritan River Freight Station,Raritan River Freight Station,Q7294570,3,0,1,goods station,,Q55493,,Raritan River Freight Station
+Gare de Chalandray,Gare de Chalandray,Q17628864,4,0,1,"railway station in Chalandray, France",,Q55488|Q55493,,
+Mennock Lye Goods Depot,Mennock Lye Goods Depot,Q48799034,5,0,1,"goods station in Dumfries and Galloway, Scotland, UK",,Q55493,,Mennock Lye Goods Depot
+Archi railway station,Archi railway station,Q55978701,6,0,1,railway station in Italy,,Q55488|Q55493,,
+Gare ferroviaire de Vouziers,Gare ferroviaire de Vouziers,Q107472266,7,0,1,"railway station in Vouziers, France",,Q55493,,
+Shibaura Station,Shibaura Station,Q11614691,8,0,1,,,Q55493|Q4663385,,
+Shibaura Station,Shibuya Station,Q428811,8,0,2,"railway station and metro station in Shibuya, Tokyo, Japan",,Q55488|Q1147171|Q55484,,Shibuya Station
+Shibaura Station,JR East Shibuya Station,Q124291063,8,0,2,"part of Shibuya Station, operating by JR East",JR Shibuya Station|Shibuya Station,Q1147171|Q11670533|Q121844395,,
+Shibaura Station,Tokyu Railways and Tokyo Metro Shibuya Station,Q124291116,8,0,2,"part of Shibuya Station, operating by Tokyu Railways and Tokyo Metro",Tokyu Railways Shibuya Station|Tokyu Shibuya Station|Tōkyū Railways Shibuya Station|Tōkyū Shibuya Station|Tokyo Metro Shibuya Station|Shibuya Metro Station|Shibuya Station,Q928830|Q1147171|Q11606300|Q7886778|Q11429081|Q1342434|Q11670533|Q11670533|Q124416148|Q332496,,
+Shibaura Station,Keiō Shibuya Station,Q124291578,8,0,2,"part of Shibuya Station, operating by Keiō Corporation",Keio Shibuya Station|Shibuya Station,Q11670533|Q11606300|Q55485|Q55488,,
+Shibaura Station,Shibuya scramble crossing,Q21083961,8,0,2,"scramble crossing in Tokyo, Japan",Shibuya Station Crossing|Shibuya Crossing|Shibuya Sta. Crossing,Q1208212|Q285783,,Shibuya Crossing
+Passau Gbf,Passau Gbf,Q119854023,9,0,1,goods station in Germany,Passau Gbf station|Passau Güterbahnhof station,Q55493,,
+Kőbánya-teher railway station,Kőbánya-teher railway station,Q60584408,10,0,1,,,Q55493,,
+Gare d'Engenville,Gare d'Engenville,Q107649264,11,0,1,"railway station in Engenville, France",,Q55493,,
+Praha-Modřany,Praha-Modřany,Q12041533,12,0,1,"railway station in Prague, Czech Republic",,Q55488|Q55493,,
+Praha-Modřany,Modřany,Q3490542,12,0,1,neighborhood of Prague 12,,Q20871353|Q61089180,,Modřany
+Praha-Modřany,Praha-Modřany zastávka,Q12046778,12,0,1,"railway stop in Prague, Czech Republic",,Q55678,,
+Praha-Modřany,Praha-Modřany,Q12046779,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Gare de Coulombiers,Gare de Coulombiers,Q19406983,13,0,1,"railway station in Coulombiers, France",,Q55488|Q55493,,
+Regensburg Bayernhafen,Regensburg Bayernhafen,Q122169053,14,0,1,goods station in Germany,Regensburg Bayernhafen station|Regensburg Osthafen station|Regensburg port station|Regensburg Hafen station,Q55493,,
+Honmoku Futō Station,Honmoku Futō Station,Q11520547,15,0,1,,,Q55493|Q55488|Q4312270|Q55485|Q11606300,,
+Honmoku Futō Station,Futo Station,Q11456974,15,0,2,"railway station in Ito, Shizuoka prefecture, Japan",,Q55488|Q4312270|Q85882206|Q122397434|Q4346602,,Futo Station
+railway station Coussey,railway station Coussey,Q120756954,16,0,1,,,Q55493,,
+Zhijiang Railway Station,Zhijiang Railway Station,Q11107479,17,0,1,"freight railway station in Zhijiang of Yichang, Hubei, China",,Q55488|Q55493,,
+Zhijiang Railway Station,Zhijiang Railway Station,Q19853575,17,0,1,"high-speed railway station in Huaihua, Hunan, China",,Q55488,,
+Zhijiang Railway Station,Zhijiang railway station,Q19929932,17,0,1,Wikimedia disambiguation page,,Q4167410,,Zhijiang railway station
+MegaHub Lehrte,MegaHub Lehrte,Q105078887,18,0,1,"goods station in Lehrte, Region Hannover, Germany",,Q55493,,
+MegaHub Lehrte,Lehrte station,Q801068,18,0,1,"railway station in Lehrte, Germany",,Q55488,,Lehrte station
+Fujiwara Station,Fujiwara Station,Q11623650,19,0,1,,,Q55493|Q4663385,,
+Yunokibaru Station,Yunokibaru Station,Q55521929,20,0,1,,,Q4312270|Q55493|Q4663385,,
+Genève Montbrillant station,Genève Montbrillant station,Q33512166,21,0,1,train station in Switzerland,Geneve Montbrillant station,Q55493,,
+Genève Montbrillant station,"Montbrillant church, Geneva",Q15958554,21,0,2,"church building in Geneva, Switzerland",,Q16970,,
+Genève Montbrillant station,Montbrillant,Q28704663,21,0,2,Wikimedia disambiguation page,,Q4167410,,
+Morito Station,Morito Station,Q18124893,22,0,1,,,Q55493|Q4663385,,
+Livorno Calambrone railway station,Livorno Calambrone railway station,Q3969968,23,0,1,railway station in Italy,,Q55493,,

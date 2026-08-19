@@ -1,0 +1,342 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Frýdek-Místek,Frýdek-Místek,Q48194,0,0,1,city in the Czech Republic,,Q15978299|Q257978|Q5153359|Q8452914|Q7841907|Q7819319,,Frýdek-Místek
+Frýdek-Místek,Frýdek-Místek District,Q175781,0,0,1,district of the Czech Republic,,Q548611,,Frýdek-Místek District
+Frýdek-Místek,Frýdek-Místek,Q9264036,0,0,1,"railway station in Frýdek, Czech Republic",,Q55488,,
+Frýdek-Místek,31650 Frýdek-Místek,Q2611016,0,0,1,asteroid,(31650) Frydek-Mistek|Frýdek-Místek,Q3863,,31650 Frýdek-Místek
+Frýdek-Místek,Frýdek-Místek,Q121918943,0,0,1,book edition published in 1978,,Q3331189,,
+Frýdek-Místek,Frýdek-Místek Symphony Orchestra,Q23891902,0,0,1,orchestra based in the Czech Republic,,Q239582,,
+Frýdek-Místek,Frýdek-Místek: tady jsem doma = my hometown,Q122124870,0,0,1,book edition published in 2022,,Q3331189,,
+Frýdek-Místek,Frýdek-Místek Labyrinth,Q122407417,0,0,1,,Městský labyrint Frýdek-Místek,Q48963,,
+Frýdek-Místek,Frýdek-Místek 14. března 1939 a za nacistické okupace,Q122130109,0,0,1,book edition published in 1979,,Q3331189,,
+Frýdek-Místek,Frýdek-Místek v proměnách času,Q122006376,0,0,1,book edition published in 2017,,Q3331189,,
+Frýdek-Místek District,Frýdek-Místek District,Q175781,0,1,1,district of the Czech Republic,,Q548611,,Frýdek-Místek District
+Frýdek-Místek District,Frýdek-Místek,Q48194,0,1,2,city in the Czech Republic,,Q15978299|Q257978|Q5153359|Q8452914|Q7841907|Q7819319,,Frýdek-Místek
+Frýdek-Místek District,Frýdek-Místek,Q9264036,0,1,2,"railway station in Frýdek, Czech Republic",,Q55488,,
+Frýdek-Místek District,31650 Frýdek-Místek,Q2611016,0,1,2,asteroid,(31650) Frydek-Mistek|Frýdek-Místek,Q3863,,31650 Frýdek-Místek
+Frýdek-Místek District,Frýdek-Místek,Q121918943,0,1,2,book edition published in 1978,,Q3331189,,
+Frýdek-Místek District,Frýdek-Místek Symphony Orchestra,Q23891902,0,1,2,orchestra based in the Czech Republic,,Q239582,,
+Frýdek-Místek District,Frýdek-Místek: tady jsem doma = my hometown,Q122124870,0,1,2,book edition published in 2022,,Q3331189,,
+Frýdek-Místek District,Frýdek-Místek Labyrinth,Q122407417,0,1,2,,Městský labyrint Frýdek-Místek,Q48963,,
+Frýdek-Místek District,Frýdek-Místek 14. března 1939 a za nacistické okupace,Q122130109,0,1,2,book edition published in 1979,,Q3331189,,
+Frýdek-Místek District,Frýdek-Místek v proměnách času,Q122006376,0,1,2,book edition published in 2017,,Q3331189,,
+Kolín,Kolín,Q470369,1,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Kolín
+Kolín,Kolín train station,Q166594,1,0,1,"railway station in Kolín, Czech Republic",,Q55488,,Kolín railway station
+Kolín,Kolín,Q56900381,1,0,1,family name,Kolín (family name)|Kolín (surname),Q101352,,
+Kolín,Kolín District,Q847318,1,0,1,district of the Czech Republic,Kolin District,Q548611,,Kolín District
+Kolín,Kolinda Grabar-Kitarović,Q3176299,1,0,1,Croatian politician and diplomat,Grabar-Kitarović,Q5,,Kolinda Grabar-Kitarović
+Kolín,Cologne,Q365,1,0,1,"most populous city in North Rhine-Westphalia, Germany","Kreisfreie Stadt Köln|Cologne, Germany|Cologne (Germany)|Kölle|Colonia Claudia Ara Agrippinensium - in Laitn",Q707813|Q200250|Q2202509|Q42744322|Q1549591|Q85635630|Q57318,,Cologne
+Kolín,Kolín II,Q12029877,1,0,1,"neighborhood of Kolín, Czech Republic",,Q61089180,,
+Kolín,Kolin,Q11122976,1,0,1,Taiwanese record label,Kolin Denon Entertainment Inc.|Kolin Denon,Q18127,,
+Kolín,Kolin,Q123819966,1,0,1,,,Q202444,,
+Kolín,Kolin E. Rubel,Q104595845,1,0,1,researcher,Kolin Rubel,Q5,,
+Kolín District,Kolín District,Q847318,1,1,1,district of the Czech Republic,Kolin District,Q548611,,Kolín District
+Zlín,Zlín,Q171018,2,0,1,town in the Czech Republic,Gottwaldov,Q257978|Q15978299|Q5153359|Q12031379|Q8452914|Q7841907|Q7819319,,Zlín
+Zlín,Zlín,Q56414907,2,0,1,central neighbourhood of Zlín,,Q56398194|Q61089180|Q20871353,,
+Zlín,Zlín Region,Q192536,2,0,1,region of the Czech Republic,Zlin Region,Q38911,,Zlín Region
+Zlín,Zlín District,Q262111,2,0,1,district of the Czech Republic,Zlin District,Q548611,,Zlín District
+Zlín,ZLIN AERO,Q207278,2,0,1,Aircraft manufacturer in the Czech Republic,Zlín|ZLIN|Moravan,Q936518|Q4830453|Q6881511,,Zlin Aircraft
+Zlín,Zlín woodland cemetery,Q2541531,2,0,1,cemetery in Czechia,,Q13424425,,
+Zlín,Zlin Z-37 Čmelák,Q540629,2,0,1,1963 agricultural aircraft family,Zlín Z 37|Let Z-37 Cmelak|Cmelak|Z37|Zlin 37 Cmelak|Zlin Cmelak|Čmelák|Zlin Čmelák,Q15056993,Q396067,Zlin Z-37 Čmelák
+Zlín,Zlín,Q10861155,2,0,1,protected area in Czech Republic,,Q21101734|Q473972,,
+Zlín,Zlínská,Q45957872,2,0,1,"street in Vizovice, Czech Republic",,Q79007,,
+Zlín,Zlínská,Q45168298,2,0,1,"street in Holešov, Czech Republic",,Q79007,,
+Zlín District,Zlín District,Q262111,2,1,1,district of the Czech Republic,Zlin District,Q548611,,Zlín District
+Zlín District,Zlín Region,Q192536,2,1,2,region of the Czech Republic,Zlin Region,Q38911,,Zlín Region
+Zlín District,Zlín Region Assembly member,Q9613465,2,1,2,,,Q4164871,Q27830328,
+Zlín District,Zlín Region Assembly,Q27923823,2,1,2,,,Q10857288,,
+Zlín District,Zlin Regional Infrastructure II project,Q100339468,2,1,2,,,Q170584,,
+Zlín District,Zlin Regional Infrastructure project,Q100342870,2,1,2,,,Q170584,,
+Zlín District,ZLIN REGIONAL INFRASTRUCTURE III project,Q100335541,2,1,2,,,Q170584,,
+Zlín District,Zlínsko z nebe,Q121998868,2,1,2,book edition published in 2017,,Q3331189,,
+Kroměříž,Kroměříž,Q158239,3,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Kroměříž
+Kroměříž,Kroměříž,Q56412783,3,0,1,,,Q56398194|Q61089180|Q20871353,,
+Kroměříž,Kroměříž District,Q852532,3,0,1,district of the Czech Republic,,Q548611,,Kroměříž District
+Kroměříž,31238 Kroměříž,Q2709375,3,0,1,asteroid,Kroměříž,Q3863,,31238 Kroměříž
+Kroměříž,Kroměříž Castle,Q200693,3,0,1,castle in the Czech Republic,Kromeriz Archbishop's Palace|Kromeriz Castle,Q16560|Q751876|Q23413,,Kroměříž Castle
+Kroměříž,Kroměřížská,Q45168528,3,0,1,"street in Hulín, Czech Republic",,Q79007,,
+Kroměříž,Kroměříž (train station),Q18180350,3,0,1,"railway station in Kroměříž, Czech Republic",,Q55488,,
+Kroměříž,Kroměřížská,Q45713541,3,0,1,"street in Kojetín, Czech Republic",,Q79007,,
+Kroměříž,Kroměříž,Q23852784,3,0,1,article in Otto's encyclopedia,,Q13433827,,
+Kroměříž,Kroměřížská,Q45947889,3,0,1,"street in Vyškov, Czech Republic",,Q79007,,
+Kroměříž District,Kroměříž District,Q852532,3,1,1,district of the Czech Republic,,Q548611,,Kroměříž District
+Břeclav,Břeclav,Q581478,4,0,1,town in the Czech Republic,,Q3957|Q15978299|Q7819319|Q5153359|Q8452914|Q902814|Q7841907,,Břeclav
+Břeclav,Břeclav,Q56413661,4,0,1,,,Q56398194|Q61089180,,
+Břeclav,Břeclav District,Q582488,4,0,1,district of Czechia,,Q548611,,Břeclav District
+Břeclav,Břeclav railway station,Q5005700,4,0,1,"railway station in Břeclav, Czech Republic",,Q55488|Q1402443,,Břeclav railway station
+Břeclav,Břeclavská,Q44733012,4,0,1,"street in Lednice, Czech Republic",,Q79007,,
+Břeclav,Břeclav,Q23852792,4,0,1,article in Otto's encyclopedia,,Q13433827,,
+Břeclav,Břeclavská,Q44656083,4,0,1,"street in Brno, Czech Republic",,Q79007,,
+Břeclav,Břeclavská,Q44739417,4,0,1,"street in Valtice, Czech Republic",,Q79007,,
+Břeclav,Břeclav - Znojmo railway,Q802059,4,0,1,railway line,,Q728937,,
+Břeclav,Břeclavská,Q45981969,4,0,1,"street in Hrušky, Czech Republic",,Q79007,,
+Břeclav District,Břeclav District,Q582488,4,1,1,district of Czechia,,Q548611,,Břeclav District
+Ústí nad Labem,Ústí nad Labem,Q156974,5,0,1,"city in Ústí nad Labem Region, Czech Republic",Aussig an der Elbe|Aussig,Q515|Q257978|Q15978299|Q5153359|Q12031379|Q8452914|Q7841907|Q7819319,,Ústí nad Labem
+Ústí nad Labem,Ústí nad Labem Region,Q192702,5,0,1,region of the Czech Republic,Usti nad Labem Region|Ústecký kraj,Q38911,,Ústí nad Labem Region
+Ústí nad Labem,Ústí nad Labem,Q130577236,5,0,1,passenger ship,,Q11446,,
+Ústí nad Labem,Ústí nad Labem District,Q852480,5,0,1,district of the Czech Republic,Usti nad Labem District,Q548611|Q76007695,,Ústí nad Labem District
+Ústí nad Labem,Ústí nad Labem central station,Q14806970,5,0,1,"railway station in Ústí nad Labem, Czech Republic",Ústí nad Labem hlavní nádraží,Q55488,,Ústí nad Labem hlavní nádraží
+Ústí nad Labem,Ústí nad Labem západ railway station,Q18170902,5,0,1,"railway station in Ústí nad Labem, Czech Republic",,Q55488,,
+Ústí nad Labem,Ústí nad Labem-centrum,Q11088321,5,0,1,neighborhood of Ústí nad Labem-město,,Q61089180,,
+Ústí nad Labem,Ústí nad Labem sever railway station,Q18180576,5,0,1,railway station in Czech Republic,,Q55488,,
+Ústí nad Labem,Ústí nad Labem-Severní terasa,Q11088309,5,0,1,neighborhood of Ústí nad Labem,,Q113126851|Q61089180,,
+Ústí nad Labem,Ústí nad Labem Region Assembly member,Q83275550,5,0,1,,,Q4164871,Q27830328,
+Ústí nad Labem,Northern Bohemia,Q3509008,5,0,2,former region in Czechoslovakia and the Czech Republic,,Q20724764,,
+Ústí nad Labem,Northern Bohemian Gallery of Creative Arts,Q12051563,5,0,2,museum in Czechia,,Q33506|Q2085381,,North Bohemian Gallery of Fine Arts in Litoměřice
+Ústí nad Labem,Northern Bohemian,Q1997693,5,0,2,,,Q33384,,
+Northern Bohemia,Northern Bohemia,Q3509008,5,1,1,former region in Czechoslovakia and the Czech Republic,,Q20724764,,
+Northern Bohemia,Northern Bohemian Gallery of Creative Arts,Q12051563,5,1,1,museum in Czechia,,Q33506|Q2085381,,North Bohemian Gallery of Fine Arts in Litoměřice
+Northern Bohemia,Northern Bohemian,Q1997693,5,1,1,,,Q33384,,
+Northern Bohemia,Ústí nad Labem,Q156974,5,1,2,"city in Ústí nad Labem Region, Czech Republic",Aussig an der Elbe|Aussig,Q515|Q257978|Q15978299|Q5153359|Q12031379|Q8452914|Q7841907|Q7819319,,Ústí nad Labem
+Northern Bohemia,Ústí nad Labem Region,Q192702,5,1,2,region of the Czech Republic,Usti nad Labem Region|Ústecký kraj,Q38911,,Ústí nad Labem Region
+Northern Bohemia,Ústí nad Labem,Q130577236,5,1,2,passenger ship,,Q11446,,
+Northern Bohemia,Ústí nad Labem District,Q852480,5,1,2,district of the Czech Republic,Usti nad Labem District,Q548611|Q76007695,,Ústí nad Labem District
+Northern Bohemia,Ústí nad Labem central station,Q14806970,5,1,2,"railway station in Ústí nad Labem, Czech Republic",Ústí nad Labem hlavní nádraží,Q55488,,Ústí nad Labem hlavní nádraží
+Northern Bohemia,Ústí nad Labem západ railway station,Q18170902,5,1,2,"railway station in Ústí nad Labem, Czech Republic",,Q55488,,
+Northern Bohemia,Ústí nad Labem-centrum,Q11088321,5,1,2,neighborhood of Ústí nad Labem-město,,Q61089180,,
+Northern Bohemia,Ústí nad Labem sever railway station,Q18180576,5,1,2,railway station in Czech Republic,,Q55488,,
+Northern Bohemia,Ústí nad Labem-Severní terasa,Q11088309,5,1,2,neighborhood of Ústí nad Labem,,Q113126851|Q61089180,,
+Northern Bohemia,Ústí nad Labem Region Assembly member,Q83275550,5,1,2,,,Q4164871,Q27830328,
+Vyškov,Vyškov,Q954569,6,0,1,town in the Czech Republic,Wischau,Q15978299|Q7819319|Q5153359|Q8452914|Q7841907,,Vyškov
+Vyškov,Vyškov,Q23852786,6,0,1,article in Otto's encyclopedia,,Q13433827,,
+Vyškov,Vyškov District,Q570682,6,0,1,district of Czechia,,Q548611,,Vyškov District
+Vyškov,Vyškov,Q12042030,6,0,1,"administrative district in the South Moravian Region, Czech Republic",,Q76007695|Q56061,,Vyškov (administrative district)
+Vyškov,Výškovice,Q3507391,6,0,1,"neighborhood of Ostrava, Czech Republic",Ostrava-Výškovice,Q61089180|Q20871353,,Výškovice
+Vyškov,Výškov,Q2007728,6,0,1,municipality in Louny District of Ústí nad Labem region,,Q5153359,,Výškov
+Vyškov,Vyškovská,Q45943404,6,0,1,"street in Bučovice, Czech Republic",,Q79007,,
+Vyškov,Výškov,Q11999908,6,0,1,part of Chodová Planá in Tachov District,Výškov u Chodové Plané,Q61089180|Q20871353,,
+Vyškov,Výškovická,Q45319049,6,0,1,"street in Ostrava, Czech Republic",,Q79007,,
+Vyškov,Vyškovská,Q45714142,6,0,1,"street in Kojetín, Czech Republic",,Q79007,,
+Vyškov District,Vyškov District,Q570682,6,1,1,district of Czechia,,Q548611,,Vyškov District
+Česká Lípa,Česká Lípa,Q740863,7,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Česká Lípa
+Česká Lípa,Česká Lípa,Q56413180,7,0,1,core municipal part with the same name as the municipality in the Czech Republic; core part of the city of Česká Lípa,,Q56398194|Q61089180|Q20871353,,
+Česká Lípa,Česká Lípa District,Q538500,7,0,1,district of Czechia,,Q548611,,Česká Lípa District
+Česká Lípa,Česká Lípa hlavní nádraží railway station,Q15735588,7,0,1,"railway station in Česká Lípa, Czechia",,Q55488,,
+Česká Lípa,Liberec–Česká Lípa railway line,Q10276760,7,0,1,railway line in Czech Republic,Česká Lípa–Liberec railway line,Q728937,,
+Česká Lípa,Českolipská,Q104713226,7,0,1,"street in Mimoň, Czech Republic",Ceskolipska street|Česká Lípa Street,Q79007,,
+Česká Lípa,Česká Lípa-Holý vrch railway stop,Q12020046,7,0,1,"railway stop in Česká Lípa, Czech Republic",,Q55678,,
+Česká Lípa,Česká Lípa airport,Q11824339,7,0,1,"airport in Česká Lípa, Czechia",,Q1248784|Q837800,,
+Česká Lípa,Česká Lípa Judicial District,Q1513069,7,0,1,,,Q15687338,,
+Česká Lípa,Česká Lípa střelnice railway stop,Q22811757,7,0,1,railway stop in Czech Republic,,Q55678,,
+Lipý Castle,Lipý Castle,Q12033634,7,2,1,,,Q17715832,,
+Lipý Castle,Český Krumlov,Q188082,7,2,2,town in the Czech Republic,Krummau|Krumau an der Moladu|Böhmisch Krumau|Krumau|Böhmisch Krummau,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Český Krumlov
+Lipý Castle,Český Krumlov,Q110166342,7,2,2,cadastral area in Český Krumlov District,,Q20871353,,
+Lipý Castle,Český Krumlov District,Q605208,7,2,2,district of Czechia,,Q548611,,Český Krumlov District
+Lipý Castle,2747 Český Krumlov,Q168087,7,2,2,asteroid,2747 Cesky Krumlov|Český Krumlov,Q3863,,2747 Český Krumlov
+Lipý Castle,Český Krumlov Castle,Q2164919,7,2,2,castle in the Czech Republic,,Q23413|Q751876,,Český Krumlov Castle
+Lipý Castle,Dead City,Q115541214,7,2,2,"painting by Egon Schiele at the Trade Fair Palace, Prague",Český Krumlov,Q3305213,,
+Lipý Castle,Český Krumlov railway station,Q15887199,7,2,2,"railway station in Český Krumlov, Czech Republic",,Q55488,,
+Lipý Castle,Český Krumlov Vicariate,Q55842614,7,2,2,Roman Catholic vicariate in Czech Republic,,Q385337,,
+Lipý Castle,Český Krumlov,Q103896767,7,2,2,encyclopedia article,,Q13433827,,
+Lipý Castle,Český Krumlov,Q122046115,7,2,2,book edition published in 1960,,Q3331189,,
+Lipý Castle,Karlštejn Castle,Q266698,7,2,2,Gothic castle in the Czech Republic founded by Charles IV,Karlštejn|Karlstejn castle|Karlstejn,Q23413,,Karlštejn
+Lipý Castle,Karlštejn Castle,Q1505765,7,2,2,château in Chechia,Karlštejn (zámek),Q751876|Q1424449,,
+Lipý Castle,Karlštejn Castle,Q103940245,7,2,2,encyclopedia article,,Q13433827,,
+Lipý Castle,Křivoklátsko National Park,Q124477982,7,2,2,,,Q46169|Q118256174,,
+Lipý Castle,Lány Castle,Q3508708,7,2,2,"Czech castle, official summer presidential residence",Lany Castle,Q751876,,Lány Castle
+Lipý Castle,Valtice Castle,Q877062,7,2,2,"castle and national monument in the town of Valtice, Břeclav district, Czech Republic",Valtice Chateau,Q751876,,
+Lipý Castle,Loket Castle,Q1013039,7,2,2,castle in Czech Republic,,Q23413,,Loket Castle
+Rokycany,Rokycany,Q986072,8,0,1,"town in Rokycany District, Plzeň Region, Czech Republic",,Q3957|Q15978299|Q5153359|Q8452914|Q7841907|Q7819319,,Rokycany
+Rokycany,Rokycany,Q110188690,8,0,1,"cadastral area in Rokycany District, Plzeň Region, Czech Republic",,Q20871353,,
+Rokycany,Rokycany District,Q643400,8,0,1,district in the northeastern part of Plzeň Region of the Czech Republic,Okres Rokycany|Rokycansko,Q548611|Q76007695,,Rokycany District
+Rokycany,Rokycany,Q583875,8,0,1,municipality of Slovakia in Prešov district,,Q6784672,,"Rokycany, Prešov District"
+Rokycany,Rokycany,Q2479648,8,0,1,"railway station in Rokycany, Czech Republic",,Q55488,,
+Rokycany,15925 Rokycany,Q1628101,8,0,1,asteroid,Rokycany,Q3863,,15925 Rokycany
+Rokycany,Rokycany Observatory,Q96142963,8,0,1,Astronomical observatory,,Q7257282|Q168678|Q1254933,,
+Rokycany,Rokycany předměstí,Q66888540,8,0,1,"railway stop in Rokycany, Czech Republic",,Q55678,,
+Rokycany,Rokycany Judicial District,Q100298505,8,0,1,,,Q15687338,,
+Rokycany,Rokycany: známé i neznámé,Q121991026,8,0,1,book edition published in 2016,,Q3331189,,
+Rokycany District,Rokycany District,Q643400,8,1,1,district in the northeastern part of Plzeň Region of the Czech Republic,Okres Rokycany|Rokycansko,Q548611|Q76007695,,Rokycany District
+Strakonice,Strakonice,Q750224,9,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Strakonice
+Strakonice,Strakonice District,Q837633,9,0,1,district of Czechia,,Q548611,,Strakonice District
+Strakonice,Strakonice,Q110177275,9,0,1,cadastral area in Strakonice District,,Q20871353,,
+Strakonice,Strakonice II,Q12333356,9,0,1,neighborhood of Strakonice,,Q61089180,,
+Strakonice,Strakonice,Q15887081,9,0,1,"railway station in Strakonice, Czech Republic",,Q55488,,
+Strakonice,18531 Strakonice,Q2472428,9,0,1,asteroid,Strakonice,Q3863,,18531 Strakonice
+Strakonice,Strakonice I,Q12056501,9,0,1,neighborhood of Strakonice,,Q61089180,,
+Strakonice,Vicariate of Strakonice,Q4958578,9,0,1,,Strakonice Vicariate,Q122911647,,
+Strakonice,Strakonice Castle,Q1014156,9,0,1,"castle in the Czech Republic, one of the oldest in this country",,Q23413|Q751876,,
+Strakonice,"Nemocnice Strakonice, a.s.",Q58516953,9,0,1,Czech hospital,Strakonice Hospital|Nemocnice Strakonice,Q4830453|Q16917|Q6672116,,
+Strakonice District,Strakonice District,Q837633,9,1,1,district of Czechia,,Q548611,,Strakonice District
+Strakonice District,Strakonicko z nebe,Q122083258,9,1,2,book edition published in 2020,,Q3331189,,
+Ostrava,Ostrava,Q8385,10,0,1,city in Czechia,,Q257978|Q5153359|Q12031379|Q8452914|Q7841907|Q1549591|Q7819319|Q15978299,,Ostrava
+Ostrava,Michálkovice,Q3489722,10,0,1,"neighborhood of Ostrava, Česká republika",Michalkovice|Ostrava-Michálkovice|Michalkowitz,Q61089180|Q113126851|Q20871353,,Michálkovice
+Ostrava,Ostrava-City District,Q918108,10,0,1,district of the Czech Republic,,Q548611|Q76007695,,Ostrava-City District
+Ostrava,Moravian-Silesian Region,Q190550,10,0,1,region of the Czech Republic,Moravskoslezský kraj|Ostrava Region|Ostravský kraj,Q38911,,Moravian-Silesian Region
+Ostrava,Výškovice,Q3507391,10,0,1,"neighborhood of Ostrava, Czech Republic",Ostrava-Výškovice,Q61089180|Q20871353,,Výškovice
+Ostrava,Poruba,Q3500288,10,0,1,administrative district of the city of Ostrava,Ostrava-Poruba,Q61089180|Q113126851,,Poruba (Ostrava)
+Ostrava,Radvanice,Q3490336,10,0,1,neighborhood of Ostrava,Ostrava-Radvanice,Q486972|Q61089180|Q20871353,,Radvanice (Ostrava)
+Ostrava,Ostrava-Vítkovice cemetery,Q106915288,10,0,1,cemetery in Czechia,,Q39614,,
+Ostrava,Heřmanice,Q953337,10,0,1,"qarter of Slezská Ostrava, Ostrava, Czech Republic",Ostrava - Heřmanice,Q61089180|Q20871353,,Heřmanice (Ostrava)
+Ostrava,Ostrava Basin,Q11744362,10,0,1,region in Czech Republic,Ostravská pánev,Q3491088|Q813672,,Ostrava Basin
+Ostrava,Moravian-Silesian Region Assembly member,Q55973189,10,0,2,,,Q4164871,Q27830328,
+Ostrava,Moravian-Silesian Region,Q12039504,10,0,2,statistical region of the Czech Republic,,Q12049098,,
+Ostrava,Moravian-Silesian Region Assembly,Q27974730,10,0,2,,,Q10857288,,
+Ostrava,Moravian-Silesian Regional National Committee,Q101405770,10,0,2,the highest body of state administration and self-government in the country of Moravia-Silesia in the years 1945–1948,Moravskoslezský zemský národní výbor,Q327333,Q10860559,
+Moravian-Silesian Region,Moravian-Silesian Region,Q190550,10,1,1,region of the Czech Republic,Moravskoslezský kraj|Ostrava Region|Ostravský kraj,Q38911,,Moravian-Silesian Region
+Moravian-Silesian Region,Moravian-Silesian Region Assembly member,Q55973189,10,1,1,,,Q4164871,Q27830328,
+Moravian-Silesian Region,Moravian-Silesian Region,Q12039504,10,1,1,statistical region of the Czech Republic,,Q12049098,,
+Moravian-Silesian Region,Moravian-Silesian Region Assembly,Q27974730,10,1,1,,,Q10857288,,
+Moravian-Silesian Region,Moravian-Silesian Regional National Committee,Q101405770,10,1,1,the highest body of state administration and self-government in the country of Moravia-Silesia in the years 1945–1948,Moravskoslezský zemský národní výbor,Q327333,Q10860559,
+Moravian-Silesian Region,Ostrava,Q8385,10,1,2,city in Czechia,,Q257978|Q5153359|Q12031379|Q8452914|Q7841907|Q1549591|Q7819319|Q15978299,,Ostrava
+Moravian-Silesian Region,Michálkovice,Q3489722,10,1,2,"neighborhood of Ostrava, Česká republika",Michalkovice|Ostrava-Michálkovice|Michalkowitz,Q61089180|Q113126851|Q20871353,,Michálkovice
+Moravian-Silesian Region,Ostrava-City District,Q918108,10,1,2,district of the Czech Republic,,Q548611|Q76007695,,Ostrava-City District
+Moravian-Silesian Region,Výškovice,Q3507391,10,1,2,"neighborhood of Ostrava, Czech Republic",Ostrava-Výškovice,Q61089180|Q20871353,,Výškovice
+Moravian-Silesian Region,Poruba,Q3500288,10,1,2,administrative district of the city of Ostrava,Ostrava-Poruba,Q61089180|Q113126851,,Poruba (Ostrava)
+Moravian-Silesian Region,Radvanice,Q3490336,10,1,2,neighborhood of Ostrava,Ostrava-Radvanice,Q486972|Q61089180|Q20871353,,Radvanice (Ostrava)
+Moravian-Silesian Region,Ostrava-Vítkovice cemetery,Q106915288,10,1,2,cemetery in Czechia,,Q39614,,
+Moravian-Silesian Region,Heřmanice,Q953337,10,1,2,"qarter of Slezská Ostrava, Ostrava, Czech Republic",Ostrava - Heřmanice,Q61089180|Q20871353,,Heřmanice (Ostrava)
+Moravian-Silesian Region,Ostrava Basin,Q11744362,10,1,2,region in Czech Republic,Ostravská pánev,Q3491088|Q813672,,Ostrava Basin
+Moravian-Silesian Region,Moravia-Silesia Regional Infrastructure II project,Q100338491,10,1,2,,,Q170584,,
+Moravian-Silesian Region,Moravia-Silesia Regional Infra project,Q100342739,10,1,2,,,Q170584,,
+Moravian-Silesian Region,Moravia-Silesia,Q12038631,10,1,2,Wikimedia disambiguation page,,Q4167410,,
+Moravian-Silesian Region,Czech Republic,Q213,10,1,2,country in Central Europe,Czechia,Q6256|Q3624078|Q123480|Q7270|Q127693126,,Czech Republic
+Moravian-Silesian Region,Czech Republic,Q5201764,10,1,2,constituency of the European Parliament,,Q2631496,,Czech Republic (European Parliament constituency)
+Moravian-Silesian Region,Czech Republic,Q3496079,10,1,2,member state of the Czech and Slovak Federal Republic (1990–1992),,Q56219758,,
+Moravian-Silesian Region,Czechia men's national football team,Q483868,10,1,2,men's national association football team representing Czechia,Czech Republic national football team|Czech national football team|Czechia national team|National team of Czechia|Czechia NT|Czechia N.T.|Czechia national football team,Q135408445,Q1194951,Czech Republic national football team
+Moravian-Silesian Region,Czech Republic national under-21 football team,Q1464421,10,1,2,national under-21 association football team representing Czechia,Czechia national under-21 football team|Czechia national U21 football team,Q6979740,Q1194951,Czech Republic national under-21 football team
+Moravian-Silesian Region,Czechia men's national ice hockey team,Q754410,10,1,2,men's national ice hockey team representing the Czech Republic,Czech Republic men's national ice hockey team|Team Czech Republic,Q135409346,,Czechia men's national ice hockey team
+Moravian-Silesian Region,Czech Republic,Q99288382,10,1,2,the country of the Czech Republic as depicted in Star Trek,Star Trek Czech Republic,Q57663042|Q15796005,,
+Moravian-Silesian Region,2017 Czech legislative election,Q17016895,10,1,2,"All 200 seats of the Chamber of Deputies, lower house of the Parliament, were available for the election.","Election to the Chamber of Deputies of the Parliament of the Czech Republic of 2017|Czech Republic general election of 2017|Czech parliamentary election, 2017|Czech Republic parliamentary election of 2017|Czech legislative election, 2017|Czech general election, 2017|Czech Republic legislative election of 2017|2017 Czech general election",Q14516417,,2017 Czech parliamentary election
+Moravian-Silesian Region,Czech Republic national under-19 football team,Q3873527,10,1,2,national under-19 football team of Czechia,Czechia national under-19 football team|Czechia national U19 football team,Q23901137,,Czech Republic national under-19 football team
+Moravian-Silesian Region,Czech Republic–Poland border,Q1992001,10,1,2,separates the state territories of the two States,border between Czech Republic and Poland|border between Poland and Czech Republic|Czech Republic-Poland border|Poland-Czech Republic border,Q133346|Q15104814|Q12413618,,Czech Republic–Poland border
+Moravian-Silesian Region,Silesia,Q81720,10,1,2,"region of Central Europe now located mostly in Poland, with small parts in the Czech Republic and Germany",,Q82794|Q1620908|Q3502482,,Silesia
+Moravian-Silesian Region,Silesia,Q15558348,10,1,2,Polish film production company (1972-1983),,Q4830453,,
+Moravian-Silesian Region,Silesian,Q30319,10,1,2,West Slavic ethnolect,Upper Silesian|Silesian language|Silesian dialect,Q34770|Q1288568,Q742782,Silesian language
+Moravian-Silesian Region,257 Silesia,Q149563,10,1,2,main-belt asteroid,(257) Silesia|Silesia,Q3863,,257 Silesia
+Moravian-Silesian Region,Silesian University of Technology,Q1424978,10,1,2,"technical university in Gliwice, Poland",Politechnika Śląska|polsl.pl,Q1371037|Q43229,,Silesian University of Technology
+Moravian-Silesian Region,Silesian Voivodeship,Q54181,10,1,2,voivodeship of Poland,Silesia Province,Q150093,,Silesian Voivodeship
+Moravian-Silesian Region,Silesian Museum,Q651366,10,1,2,museum in Czechia,Museum Gymnazijni|Silesian Land Museum Opava,Q33506|Q108935461,,Silesian Museum (Opava)
+Moravian-Silesian Region,IMO 7516773,Q11764894,10,1,2,ship built in 1979,,Q25653,,
+Moravian-Silesian Region,Silesian Beskids,Q633849,10,1,2,mountain range in Poland,Beskid Śląski,Q46831|Q3491088,,Silesian Beskids
+Moravian-Silesian Region,Silesia,Q12054245,10,1,2,,,Q41298,,
+Louny,Louny,Q616877,11,0,1,town in Czech Republic,,Q515|Q15978299|Q5153359|Q7819319|Q8452914|Q7841907,,Louny
+Louny,Louny,Q56416354,11,0,1,core municipal part of Louny,,Q56398194|Q61089180|Q20871353,,
+Louny,Louny District,Q838292,11,0,1,district of the Czech Republic,,Q548611,,Louny District
+Louny,Louny,Q45093702,11,0,1,"street in Bohumín, Czech Republic",,Q79007,,
+Louny,Louny,Q17750110,11,0,1,"railway station in Louny, Czech Republic",,Q55488,,
+Louny,Louny,Q23860818,11,0,1,article about Louny in Otto's encyclopedia,,Q13433827,,
+Louny,Louny,Q23904528,11,0,1,encyclopedia article,,Q13433827,,
+Louny,Vicariate of Louny,Q12034005,11,0,1,,Louny Vicariate,Q122911647,,
+Louny,Louny,Q122001120,11,0,1,book edition published in 1965,,Q3331189,,
+Louny,Louny Balloony,Q135019968,11,0,1,video game developed by Harold Krell,,Q7889,,
+Louny District,Louny District,Q838292,11,1,1,district of the Czech Republic,,Q548611,,Louny District
+Louny District,Lounsko z nebe,Q122095314,11,1,2,book edition published in 2021,,Q3331189,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou,Q1000091,12,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Rychnov nad Kněžnou
+Rychnov nad Kněžnou,Rychnov nad Kněžnou District,Q240419,12,0,1,district of the Czech Republic,,Q548611,,Rychnov nad Kněžnou District
+Rychnov nad Kněžnou,Rychnov nad Kněžnou,Q18170855,12,0,1,"railway station in Rychnov nad Kněžnou, Czech Republic",,Q55488,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou,Q56412206,12,0,1,,,Q56398194|Q61089180|Q20871353,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou: pokus dějepisný,Q121945449,12,0,1,book edition published in 1871,,Q3331189,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou brewery,Q29397938,12,0,1,"brewery in Rychnov nad Kněžnou, Czechia",,Q57778855,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou zastávka,Q66888911,12,0,1,"railway stop in Rychnov nad Kněžnou, Czech Republic",,Q55678,,
+Rychnov nad Kněžnou,Rychnovsko z nebe,Q122086573,12,0,1,book edition published in 2020,,Q3331189,,
+Rychnov nad Kněžnou,Český svaz požární ochrany - místní požární sbor: Rychnov n. Kn. 1871-1971: 100 let,Q122133465,12,0,1,book edition published in 1971,,Q3331189,,
+Rychnov nad Kněžnou,Rychnov nad Kněžnou,Q29448819,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Rychnov nad Kněžnou District,Rychnov nad Kněžnou District,Q240419,12,1,1,district of the Czech Republic,,Q548611,,Rychnov nad Kněžnou District
+Jihlava,Jihlava,Q183111,13,0,1,city in Czechia,,Q15978299|Q257978|Q820254|Q5153359|Q12031379|Q8452914|Q7841907|Q7819319,,Jihlava
+Jihlava,Jihlava,Q56412921,13,0,1,part of municipality in the Czech Republic,,Q56398194|Q61089180,,
+Jihlava,Jihlava,Q1598984,13,0,1,Czech river,Igel,Q4022,,Jihlava (river)
+Jihlava,Jihlava District,Q852472,13,0,1,district in the Czech republic,,Q548611,,Jihlava District
+Jihlava,2080 Jihlava,Q147376,13,0,1,asteroid,Jihlava,Q3863,,2080 Jihlava
+Jihlava,Jihlava railway station,Q15886841,13,0,1,"railway station in Jihlava, Czech Republic",,Q55488,,Jihlava railway station
+Jihlava,Jihlava,Q23859778,13,0,1,article in Otto's encyclopedia,,Q13433827,,
+Jihlava,Jihlava,Q103938067,13,0,1,encyclopedia article,,Q13433827,,
+Jihlava,Jihlava International Documentary Film Festival,Q186239,13,0,1,annual Czech festival of creative documentary films,Mezinárodní festival dokumentárních filmů Ji.hlava|MFDF Ji.hlava|Ji.hlava International Documentary Film Festival|Ji.hlava IDFF,Q220505|Q11483816,,Ji.hlava International Documentary Film Festival
+Jihlava,Jihlava,Q121962908,13,0,1,book edition published in 1927,,Q3331189,,
+Jihlava District,Jihlava District,Q852472,13,1,1,district in the Czech republic,,Q548611,,Jihlava District
+Křemže,Křemže,Q651930,14,0,1,"městys in South Bohemian, Czech Republic",,Q5153359|Q16155707,,Křemže
+Křemže,Křemže,Q56414100,14,0,1,,,Q56398194|Q61089180,,
+Křemže,Křemže,Q110647664,14,0,1,cadastral area in Český Krumlov District,,Q20871353,,
+Křemže,4249 Křemže,Q153174,14,0,1,asteroid,4249 Kremze|Křemže,Q3863,,4249 Křemže
+Křemže,Křemže,Q106884366,14,0,1,article in Otto's encyclopedia,,Q13433827,,
+Křemže,Krems,Q131266,14,0,1,city in Austria,,Q262882|Q871419|Q667509,,Krems an der Donau
+Křemže,Křemže railway station,Q15886891,14,0,1,railway station in Czech Republic,,Q55488,,
+Křemže,Kremže,Q18908123,14,0,1,Wikimedia disambiguation page,,Q4167410,,
+Castle ruin of Kynžvart,Castle ruin of Kynžvart,Q12032119,14,2,1,,,Q17715832,,
+Hodonín,Hodonín,Q321778,15,0,1,town in the Czech Republic,,Q15978299|Q7819319|Q5153359|Q8452914|Q7841907,,Hodonín
+Hodonín,Hodonín District,Q637425,15,0,1,district of Czechia,Hodonin District,Q548611,,Hodonín District
+Hodonín,Hodonín,Q1622750,15,0,1,village in Chrudim District of Pardubice region,Hodonin,Q5153359,,Hodonín (Chrudim District)
+Hodonín,Hodonín,Q1622741,15,0,1,village in Blansko District of South Moravian region,Hodonin|Hodonín u Kunštátu|Hodonin bei Kunstadt,Q5153359,,Hodonín (Blansko District)
+Hodonín,Hodonínská,Q44849302,15,0,1,"street in Dubňany, Czech Republic",,Q79007,,
+Hodonín,Hodonín,Q23852787,15,0,1,article in Otto's encyclopedia,,Q13433827,,
+Hodonín,Hodonínka,Q1419155,15,0,1,river in the Czech Republic,Hodoninka,Q4022,,
+Hodonín,Hodonín railway station,Q17750111,15,0,1,"railway station in Hodonín, Czech Republic",,Q55488,,
+Hodonín,Hodonínská,Q45423983,15,0,1,"street in Prague, Czech Republic",,Q79007,,
+Hodonín,Hodonín (Zdíkov),Q12019919,15,0,1,village in Prachatice District of South Bohemian region,Hodonín u Zdíkovce,Q61089180|Q20871353,,
+Hodonín District,Hodonín District,Q637425,15,1,1,district of Czechia,Hodonin District,Q548611,,Hodonín District
+Děčín,Děčín,Q146307,16,0,1,"town in Ústí nad Labem Region, Czech Republic",,Q515|Q15978299|Q257978|Q5153359|Q8452914|Q7841907|Q7819319,,Děčín
+Děčín,Décines-Charpieu,Q1056120,16,0,1,"commune in the metropolis of Lyon, France",,Q484170,,Décines-Charpieu
+Děčín,Děčín District,Q852525,16,0,1,district of the Czech Republic,,Q548611,,Děčín District
+Děčín,Decin,Q61283748,16,0,1,family name,,Q101352,,
+Děčín,Děčín central station,Q15735008,16,0,1,"railway station in Děčín, Czech Republic",Děčín hlavní nádraží,Q55488,,Děčín hlavní nádraží
+Děčín,Decinea,Q1758935,16,0,1,genus of insects,,Q16521,,Decinea
+Děčín,Děčínská,Q43532981,16,0,1,"street in Česká Lípa, Czech Republic",Děčínská (Česká Lípa),Q79007,,
+Děčín,Děčínská,Q43530536,16,0,1,"street in Ústí nad Labem, Czech Republic",Děčínská (Ústí nad Labem),Q79007,,
+Děčín,Děčínská,Q44797852,16,0,1,"street in Jiřetín pod Jedlovou, Czech Republic",,Q79007,,
+Děčín,Děčínská,Q44789081,16,0,1,"street in Benešov nad Ploučnicí, Czech Republic",,Q79007,,
+Děčín District,Děčín District,Q852525,16,1,1,district of the Czech Republic,,Q548611,,Děčín District
+Teplice,Teplice,Q146342,17,0,1,city in the Czech Republic,Teplitz,Q515|Q257978|Q15978299|Q5153359|Q8452914|Q7841907|Q7819319,,Teplice
+Teplice,Teplice,Q56415469,17,0,1,municipal part in Czechia; cadastral area in the Czech Republic,,Q56398194|Q61089180|Q20871353,,
+Teplice,Teplice nad Metují,Q280873,17,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Teplice nad Metují
+Teplice,Teplice District,Q852518,17,0,1,district of the Czech Republic,,Q548611,,Teplice District
+Teplice,Teplice v Čechách railway station,Q12058668,17,0,1,"railway station in Teplice, Czech Republic",,Q55488,,
+Teplice,Teplice,Q110278498,17,0,1,article in Otto's encyclopedia,,Q13433827,,
+Teplice,Teplice,Q31927240,17,0,1,river in Slovakia,,Q4022,,
+Teplice,Teplice nad Bečvou,Q1017268,17,0,1,village in Přerov District of Olomouc region,,Q5153359,,Teplice nad Bečvou
+Teplice,Teplice : Teplitz.net,Q87812688,17,0,1,,,Q8513,,
+Teplice,Vicariate of Teplice,Q12058672,17,0,1,,Teplice Vicariate,Q122911647,,
+Teplice District,Teplice District,Q852518,17,1,1,district of the Czech Republic,,Q548611,,Teplice District
+Nový Jičín,Nový Jičín,Q3584,18,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Nový Jičín
+Nový Jičín,Nový Jičín District,Q517427,18,0,1,district of the Czech Republic,,Q548611,,Nový Jičín District
+Nový Jičín,Nový Jičín,Q122125903,18,0,1,book edition published in 1963,,Q3331189,,
+Nový Jičín,Nový Jičín,Q56413476,18,0,1,,,Q56398194|Q61089180,,
+Nový Jičín,Nový Jičín Judicial District,Q76656418,18,0,1,,,Q15687338,,
+Nový Jičín,Nový Jičín město,Q18180440,18,0,1,"railway station in Nový Jičín, Czech Republic",,Q55488|Q82664802,,
+Nový Jičín,Nový Jičín: městská památková rezervace,Q122039465,18,0,1,book edition published in 2018,,Q3331189,,
+Nový Jičín,Nový Jičín-město,Q110148250,18,0,1,,,Q20871353,,
+Nový Jičín,Nový Jičín-Horní Předměstí,Q110148251,18,0,1,,,Q20871353,,
+Nový Jičín,Nový Jičín-Dolní Předměstí,Q110216334,18,0,1,,,Q20871353,,
+Nový Jičín District,Nový Jičín District,Q517427,18,1,1,district of the Czech Republic,,Q548611,,Nový Jičín District
+Přibyslav,Přibyslav,Q161060,19,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Přibyslav
+Přibyslav,Přibyslav,Q16945689,19,0,1,male given name,,Q12308941,,
+Přibyslav,Přibyslav,Q2121139,19,0,1,village in Náchod District of Hradec Králové region,,Q5153359,,Přibyslav (Náchod District)
+Přibyslav,Přibyslav,Q12048104,19,0,1,part of Nová Paka in Jičín District,,Q61089180|Q20871353,,
+Přibyslav,Přibyslav,Q16957168,19,0,1,"railway station in Přibyslav, Czech Republic",,Q55488,,
+Přibyslav,Přibyslav,Q68596597,19,0,1,,,Q4663385,,
+Přibyslav,Přibyslavská,Q43396753,19,0,1,"street in Prague, Czech Republic",,Q79007,,
+Přibyslav,Přibyslavická,Q43384857,19,0,1,"street in Třebíč, Czech Republic",,Q79007,,
+Přibyslav,Přibyslavice,Q246807,19,0,1,village in Třebíč District of Vysočina region,,Q5153359,,Přibyslavice (Třebíč District)
+Přibyslav,Přibyslavská,Q45045976,19,0,1,"street in Nová Paka, Czech Republic",,Q79007,,
+Žižkova mohyla,Žižkova mohyla,Q52187120,19,2,1,,,Q34023|Q5003624,,
+Žižkova mohyla,Žižkova mohyla,Q16963217,19,2,1,,,Q34023|Q5003624,,
+Žižkova mohyla,Přibyslav,Q161060,19,2,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Přibyslav
+Žižkova mohyla,Přibyslav,Q16945689,19,2,2,male given name,,Q12308941,,
+Žižkova mohyla,Přibyslav,Q2121139,19,2,2,village in Náchod District of Hradec Králové region,,Q5153359,,Přibyslav (Náchod District)
+Žižkova mohyla,Přibyslav,Q12048104,19,2,2,part of Nová Paka in Jičín District,,Q61089180|Q20871353,,
+Žižkova mohyla,Přibyslav,Q16957168,19,2,2,"railway station in Přibyslav, Czech Republic",,Q55488,,
+Žižkova mohyla,Přibyslav,Q68596597,19,2,2,,,Q4663385,,
+Žižkova mohyla,Přibyslavská,Q43396753,19,2,2,"street in Prague, Czech Republic",,Q79007,,
+Žižkova mohyla,Přibyslavická,Q43384857,19,2,2,"street in Třebíč, Czech Republic",,Q79007,,
+Žižkova mohyla,Přibyslavice,Q246807,19,2,2,village in Třebíč District of Vysočina region,,Q5153359,,Přibyslavice (Třebíč District)
+Žižkova mohyla,Přibyslavská,Q45045976,19,2,2,"street in Nová Paka, Czech Republic",,Q79007,,
+Žižkova mohyla,Přibyslav Castle,Q16910583,19,2,2,,,Q751876,,
+Mořkov,Mořkov,Q671138,20,0,1,village in Nový Jičín District of Moravian Silesian region,,Q5153359,,Mořkov
+Mořkov,Morkovice-Slížany,Q1948234,20,0,1,town in the Czech Republic,,Q5153359|Q15978299|Q7841907,,Morkovice-Slížany
+Mořkov,Michael Mørkøv,Q447816,20,0,1,Danish racing cyclist (born 1985),,Q5,,Michael Mørkøv
+Mořkov,Mørkøv Station,Q12328143,20,0,1,"railway station in Holbæk Municipality, Denmark",,Q55488,,Mørkøv railway station
+Mořkov,Mørkøv,Q2684931,20,0,1,place in Denmark,,Q3957,,Mørkøv
+Mořkov,Morkovkina,Q48373924,20,0,1,family name,,Q101352,,
+Mořkov,Mørkøv,Q1958245,20,0,1,former Danish parish,,Q102854139,,
+Mořkov,Mørkøv,Q65553672,20,0,1,family name,Mørkøv (family name)|Mørkøv (surname),Q101352,,Mørkøv (surname)
+Mořkov,Morkovice,Q12038702,20,0,1,neighborhood of Morkovice-Slížany,,Q61089180,,
+Mořkov,Morkov family,Q4302792,20,0,1,Russian noble family,,Q13417114,,
+Mořkov,Old Protestant Cemetery,Q3504601,20,0,2,cemetery in Macau,Protestant Cemetery,Q39614|Q210272|Q109229401,,Old Protestant Cemetery (Macau)
+Mořkov,Protestant cemetery in Montpellier,Q23021852,20,0,2,"cemetery located in Hérault, in France",Protestant Cemetery|Cimetière Protestant,Q39614,,"Protestant Cemetery, Montpellier"
+Mořkov,protestant cemetery,Q109229401,20,0,2,cemetery where the faithful of any of the Protestant churches are buried,cemetery,,Q107685861,
+Mořkov,"English Cemetery, Florence",Q1092134,20,0,2,cemetery,Cimitero Accatolico|Protestant Cemetery|Cimitero Degli Inglesi,Q39614|Q92755865|Q614316,,"English Cemetery, Florence"
+Mořkov,"Protestant Cemetery, Rome",Q1187723,20,0,2,"cemetery in Rome, Italy; located near Porta San Paolo",Cimitero protestante|Cimitero acattolico|Cimitero degli Inglesi|Non-Catholic Cemetery of Rome|The Non-Catholic Cemetery for Foreigners in Testaccio|Campo Cestio|Rome Testaccio Cemetery|Cimitero Acattolico di Roma|The Old Cemetery For Non Catholic Foreigners,Q39614,,"Protestant Cemetery, Rome"
+Mořkov,Los Angeles City Cemetery,Q110759338,20,0,2,"former cemetery in Los Angeles, California",Fort Moore Hill Cemetery|The Hill Cemetery|Protestant Cemetery,Q21751045,,
+Mořkov,Gates Cemetery,Q117673070,20,0,2,"cemetery in Jefferson County, New York, United States",Sterlingville Protestant Cemetery|Sterlingville Cemetery|Protestant Cemetery,Q39614,,
+Mořkov,Moore Cemetery,Q117516409,20,0,2,"cemetery in Powell County, Montana, United States",Old Cemetery|Protestant Cemetery,Q39614,,
+Mořkov,Protestant Cemetery,Q117618125,20,0,2,"cemetery in Franklin County, New York, United States",,Q39614,,
+Mořkov,Protestant Cemetery,Q117619110,20,0,2,"cemetery in Iberville Parish, Louisiana, United States",,Q39614,,
+protestant cemetery in Mořkov,protestant cemetery in Mořkov,Q61314179,20,2,1,,,Q39614,,

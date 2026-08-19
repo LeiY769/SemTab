@@ -1,0 +1,38 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kagoshima Prefecture,Kagoshima Prefecture,Q15701,0,0,1,prefecture of Japan,,Q50337,,Kagoshima Prefecture
+Kagoshima Prefecture,history of Kagoshima Prefecture,Q11707787,0,0,1,"prefecture in Kyushu, Japan",Kagoshima Prefecture history,Q17524420,Q130436,History of Kagoshima Prefecture
+Kagoshima Prefecture,flag of Kagoshima Prefecture,Q8980339,0,0,1,Japanese prefectural flag,Kagoshima Prefecture flag|Kagoshima prefectural flag,Q22807280,,Flag of Kagoshima Prefecture
+Kagoshima Prefecture,Kagoshima Gokoku Shrine,Q11676849,0,0,1,"Shinto shrine in Sōmura, Japan",Kagoshima Gokoku Shrine|Kagoshima Prefecture Gokoku Shrine,Q1534477|Q845945,,
+Kagoshima Prefecture,COVID-19 pandemic in Kagoshima Prefecture,Q104719959,0,0,1,,"Kagoshima Prefecture COVID-19 pandemic|2020 Kagoshima Prefecture COVID-19 pandemic|COVID pandemic in Kagoshima Prefecture|COVID-19 pandemic in Kagoshima Prefecture, Japan",Q3241045,,
+Kagoshima Prefecture,Kagoshima Prefecture Ordinance on Access to Information,Q107376342,0,0,1,,,Q679847|Q207892,,
+Kagoshima Prefecture,Kagoshima Prefecture Museum Association,Q123548153,0,0,1,Japanese museum association,,Q112341050,,
+Kagoshima Prefecture,Kagoshima Prefecture and 150th Years of the Meiji Restoration : Focusing on Memory of Saigo Takamori,Q113065771,0,0,1,scientific article published on 15 January 2019,,Q13442814,,
+Tokyo,Tokyo,Q1490,1,0,1,capital and largest city of Japan,"Tôkyô|Tokyo-to|Tokyo Metropolitan prefecture|Tōkyō-to|Tôkyô-to|Tokyo Metropolis|Tokio|Tokyo Prefecture|Tokyo, Japan|Tokei|Tokyo (Japan)|Edo|Jedo|Yedo",Q124313007|Q1025961|Q1200957|Q200250|Q208511|Q174844|Q51929311|Q1549591|Q50337|Q200250|Q1066984,,Tokyo
+Tokyo,Tokyo,Q7473516,1,0,1,"special wards in the eastern part of Tokyo Metropolis in Japan, that used to form a single city",City of Tokyo|Eastern Tokyo|Tōkyō,Q129319205|Q515,,Tokyo Proper
+Tokyo,Sony Group,Q41187,1,0,1,Japanese multinational conglomerate corporation,Totsuko|Tokyo Telecommunications Engineering Corporation,Q219577|Q778575|Q891723|Q11294827|Q161726|Q4830453,,Sony
+Tokyo,ward area of Tokyo,Q308891,1,0,1,"special municipality in the eastern part of Tokyo Metropolis in Japan. Occupying the site of historical Edo and the former city of Tokyo. For each ward, see Q5327704",Tokyo-to Ku-bu|Tōkyō-to Ku-bu|Tokyo 23 wards|Tokyo 23 special wards|23 wards|23 special wards|special wards of Tokyo|special wards of Tōkyō|ward area of Tōkyō,Q82794|Q135236643,,Special wards of Tokyo
+Tokyo,Tokyo,Q7813796,1,0,1,Masaharu Fukuyama song,,Q134556,,Tokyo (Masaharu Fukuyama song)
+Tokyo,University of Tokyo,Q7842,1,0,1,"national university in Tokyo, Japan","Todai|Tōkyō Daigaku|UTokyo|The University of Tokyo|Tokyo University|Imperial College of Engineering, Tokyo",Q15936437|Q265662|Q96888669,,University of Tokyo
+Tokyo,1964 Summer Olympics,Q8420,1,0,1,"Games of the XVIII Olympiad, in Tokyo, Japan",Tokyo 1964|Games of the XVIII Olympiad|Games of the 18th Olympiad,Q135976384|Q14547231,,1964 Summer Olympics
+Tokyo,Tokyo Station,Q283196,1,0,1,"railway and metro station in Chiyoda, Tokyo, Japan. Central station of Tokyo",Tōkyō Station|Tokyo Central Station,Q18543139|Q55491|Q11670533|Q55488|Q1147171,,Tokyo Station
+Tokyo,Tokyo City,Q1207735,1,0,1,"historic municipality in Japan, 1889-1943. now area of 23 special wards",Tokyo-shi|City of Tokyo|Tōkyō-shi,Q1025961|Q18663566|Q494721|Q135267675,,Tokyo City
+Tokyo,Tokyo Photoelectric Meridian Circle Catalog,Q28916890,1,0,1,astronomical catalogue,PMC,Q605175,,
+Tokyo,Tokyo Metropolitan Government,Q1074185,1,0,2,"prefectural government of Tokyo, Japan",,Q87342028|Q6501447|Q117351898|Q35127,,Tokyo Metropolitan Government
+Tokyo,Tokyo Metropolitan Government Building,Q111973,1,0,2,"building in Nishi-Shinjuku, Tokyo, Japan",Tokyo City Hall,Q1497364|Q100705206|Q25550691,,Tokyo Metropolitan Government Building
+Tokyo,Tokyo Metropolitan Government-designated architectural structure of historic value,Q11525886,1,0,2,,TMG-designated architectural structures of historic value|Tokyo Metropolitan Selected Historical Building,Q30634609,Q18087975|Q35112127,
+Tokyo,Tokyo Metropolitan Government Bureau of Port and Harbor‎,Q11525343,1,0,2,,"Bureau of Port and Harbor‎, Tokyo Metropolitan Government",Q652812,,
+Tokyo,Tokyo Metropolitan Government Bureau of Waterworks,Q7813954,1,0,2,government bureau,Tokyo (Japan). Suidōkyoku|Tokyo Waterworks Bureau,Q11549282|Q11424358,,Tokyo Metropolitan Government Bureau of Waterworks
+Tokyo,Ogasawara Subprefecture,Q1193787,1,0,2,"the subprefecture of Tokyo, Japan, administering the Ogasawara Archipelago, coterminous with Ogasawara Village",Ogasawara Island Branch Office|Tokyo Metropolitan Government Ogasawara Island Branch Office|Ogasawara|Ogasawara Islands|Orgasawara Archipelago|Ogasawara-shichō|Ogasawara-Shichō|Ogasawara Shichō|Ogasawara Shicho|Ogasawara-Shicho|Ogasawara-shicho,Q850450,,Ogasawara Subprefecture
+Tokyo,Tokyo Metropolitan Government Building I,Q24191410,1,0,2,tallest building in the Tokyo Metropolitan Government Complex,Tokyo Metropolitan Government Building,Q11303,,
+Tokyo,Tokyo Metropolitan Government Bureau of General Affairs,Q11525670,1,0,2,,,Q43229,,
+Tokyo,Tokyo Metropolitan Government Bureau of Sewerage,Q11525207,1,0,2,,"Bureau of Sewerage, Tokyo Metropolitan Government",Q11361056|Q11424358,,
+Tokyo,Tokyo Metropolitan Government Board of Education,Q6131931,1,0,2,"government organization in Tokyo, Japan",Tokyo Metropolitan Board of Education,Q109124037,,Tokyo Metropolitan Government Board of Education
+Tokyo,JR Central Tokyo Station,Q124037631,1,0,2,"part of Tokyo Station, operating by JR Central",JR Tokyo Station|JR Tokai Tokyo Station|JR Tōkyō Station|JR Tōkai Tōkyō Station|Tokyo Station|Tōkyō Station|Tokaido Shinkansen Tokyo Station,Q55485|Q11670533|Q11606300,,
+Tokyo,Tokyo Metro Tokyo Station,Q110461653,1,0,2,"part of Tokyo Station, operating by Tokyo Metro",Subway Tôkyô Station|Tokyo Station|Tokyo Metro Tōkyō Station|Tōkyō Station,Q124416148,,
+Tokyo,JR East Tokyo Station,Q124211552,1,0,2,"part of Tokyo Station, operating by JR East",JR East Tōkyō Station|JR Tokyo Station|JR Tōkyō Station|Tokyo Station|Tōkyō Station,Q11670533|Q55491|Q11606300|Q121844395|Q11429081|Q7578710,,
+Tokyo,history of Tokyo Station,Q11525943,1,0,2,,Tokyo Station history,Q17524420,,
+Tokyo,Tokyo Station Hotel,Q11524193,1,0,2,"building in Chiyoda-ku, Tokyo, Japan",The Tokyo Station Hotel,Q27686,,Tokyo Station Hotel
+Tokyo,Tokyo Station Bus Terminal,Q11525945,1,0,2,,,Q2920759,,
+Tokyo,Tokyo Station Development,Q68264940,1,0,2,,,Q4830453,,
+Tokyo,Tokyo Station Gallery,Q115265693,1,0,2,"art museum in Tokyo, Japan",,Q207694,,Tokyo Station Gallery
+Tokyo,December 6,Q3992371,1,0,2,novel by Martin Cruz Smith,,Q47461344,,December 6 (novel)

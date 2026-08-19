@@ -1,0 +1,8 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Mount Karakuni,Mount Karakuni,Q3321904,0,0,1,"mountain in Miyazaki Prefecture, Japan",Karakuni Dake|Karakuni-dake|Karakunidake,Q8072,,Mount Karakuni
+Kirishima-Kinkōwan National Park,Kirishima-Kinkōwan National Park,Q1132024,0,2,1,national park of Japan,Kirishima-Kinkowan National Park,Q1071482,,Kirishima-Kinkowan National Park
+Kirishima-Kinkōwan National Park,Mount Kirishima,Q1319361,0,2,2,"mountain in Kagoshima Prefecture, Japan",Kirishima Mounatains|Kirishima Volcanoes|Kirisima,Q878223|Q2895674|Q8072,,Mount Kirishima
+Kirishima-Kinkōwan National Park,Kinkōwan Park,Q11650463,0,2,2,park in Japan,,Q22698,,
+Iyang-Argapura,Iyang-Argapura,Q2549314,1,0,1,"mountain in East Java, Indonesia",,Q8502|Q8072,,Iyang-Argapura
+Iyang-Argapura,Volcanological Survey of Indonesia,Q12507375,1,0,2,Indonesian government agency,Centre of Volcanology and Geological Hazard Mitigation|Directorate of Volcanology and Geological Hazards Mitigation,Q2659904|Q1778118,,Volcanological Survey of Indonesia
+Directorate of Volcanology and Geological Hazards Mitigation,Volcanological Survey of Indonesia,Q12507375,1,1,1,Indonesian government agency,Centre of Volcanology and Geological Hazard Mitigation|Directorate of Volcanology and Geological Hazards Mitigation,Q2659904|Q1778118,,Volcanological Survey of Indonesia

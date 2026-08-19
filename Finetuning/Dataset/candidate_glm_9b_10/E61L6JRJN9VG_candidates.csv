@@ -1,0 +1,51 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lambrtt,Lamborghini,Q35886,0,0,2,Italian car manufacturer,Lamborghini S.p.A.|Automobili Lamborghini S.p.A.,Q786820|Q4830453|Q658255,,Lamborghini
+Lambrtt,Lamborghini,Q59378179,0,0,2,family name,Lamborghini (family name),Q101352,,
+Lambrtt,Lamborghini,Q6481511,0,0,2,2003 video game,,Q7889,,Lamborghini (video game)
+Lambrtt,Lamborghini Aventador,Q318094,0,0,2,car model,Aventador|Lambo Aventador,Q3231690,,Lamborghini Aventador
+Lambrtt,Lamborghini,Q124966860,0,0,2,car brand owned by Automobili Lamborghini S.p.A.,,Q10429667|Q167270,,
+Lambrtt,Lamborghini,Q98579650,0,0,2,tractor manufacturer,,Q98579904,,
+Lambrtt,Lamborghini Trattori,Q2362203,0,0,2,Italian tractor manufacturer,,Q783794,,Lamborghini Trattori
+Lambrtt,Lamborghini American Challenge,Q1966569,0,0,2,1992 racing video game,Crazy Cars III,Q7889,,Lamborghini American Challenge
+Lambrtt,Lamborghini Miura,Q850536,0,0,2,car model,,Q3231690,Q815679,Lamborghini Miura
+Lambrtt,Lamborghini LM002,Q1356220,0,0,2,off-road vehicle model produced from 1986 to 1993,,Q3231690,Q192152,Lamborghini LM002
+Lambrtt,Lambretta,Q1412490,0,0,2,"Line of Italian scooters (and name of a moped, ""Lambretta 48"")",,Q431289|Q23866334,,Lambretta
+Lambrtt,Innocenti Lambretta D in the Museo Nazionale dell'Automobile,Q131825347,0,0,2,"motorcycle in the Museo dell'Automobile, Turin, Italy",,Q34493,,
+Lambrtt,Innocenti Lui,Q3798960,0,0,2,Italian motorcycle,,Q10929058,Q193234,
+Innocenti,Innocenti,Q23688636,0,1,1,family name,,Q101352,,Innocenti (surname)
+Innocenti,Innocenti,Q1664128,0,1,1,1947-1996 Italian vehicle maker,Società Generale per l'Industria Metallurgica e Meccanica,Q786820|Q4830453,,Innocenti
+Innocenti,Innocentius,Q25936452,0,1,1,male given name,Innocentius (first name)|Innocentius (given name),Q12308941,,
+Innocenti,Innocentius Kollonitz,Q69438716,0,1,1,Roman Catholic clergyman,Leopold Ignaz Kollonitz|Leopold Ignaz von Kollonitz,Q5,,
+Innocenti,Innocent X,Q101266,0,1,1,pope from 1644 to 1655,Pope Innocent X|pape Innocent X|‏ papa Innocenzo‏ X|Innozenz X. Papst|Giambattista Pamphili|Innocentius PP. X|Innocentius X|Papa Inocencio X,Q5,,Pope Innocent X
+Innocenti,Innocent III,Q128076,0,1,1,Head of the Catholic Church from 1198 to 1216,Pope Innozenz III|Lothar of Segni|Lotario di Segni|pape Innocent III|Innozenz III. Papst|Pope Innocenzo III|Pope Innocentius III|‏ papa Innocenzo III|Innocentius PP. III|Pope Innocenz III|Lothair of Segni|Lotario dei conti di Segni|Lotario dei Conti di Segni,Q5,,Pope Innocent III
+Innocenti,Innocent XIII,Q133100,0,1,1,pope of the Catholic Church from 1721 to 1724,Pope Innocent XIII|Michelangelo Conti di Poli|Innocentius PP. XIII|Pope Innocentius XIII|Innozenz XIII. Papst|Michelangiolo dei Conti|pape Innocent XIII|‏papa Innocenzo‏ XIII,Q5,,Pope Innocent XIII
+Innocenti,Innocentina,Q104621792,0,1,1,female given name,Innocentina (given name)|Innocentina (first name),Q11879590,,
+Innocenti,Innocentin,Q101040030,0,1,1,family name,,Q101352,,
+Innocenti,Innocent VI,Q169288,0,1,1,pope of the Catholic Church from 1353 to 1362,Pope Innocent VI|‏ papa Innocenzo VI|Innocentius PP. VI|pape Innocent VI|Etienne Aubert|Stephen Aubert|Innocens VI,Q5,,Pope Innocent VI
+Walkes,Walkes,Q37517389,1,0,1,family name,,Q101352,,Walkes
+Walkes,Walkes,Q2542447,1,0,1,human settlement in Germany,,Q253019,,
+Walkes,Walkes,Q104158285,1,0,1,"street in Geisa, Thuringia, Germany",,Q79007,,
+Walkes,Walkeshwar,Q7962400,1,0,1,"place in Maharashtra, India",,Q486972,,Walkeshwar
+Walkes,The Temples and Tank of Walkeshwar at Bombay,Q20058479,1,0,1,painting by Edwin Lord Weeks,Walkeshwar temple and Banganga Tank,Q3305213,,
+Walkes,Walkeshwar Temple,Q7962402,1,0,1,building in India,,Q842402,,Walkeshwar Temple
+Walkes,Walkeshwar Mahalaxmi Assembly constituency,Q138307941,1,0,1,constituency of the Maharashtra legislative assembly in India,,Q124339652|Q11774263,,Walkeshwar Mahalaxmi Assembly constituency
+Walkes,Walkesi Creek,Q34822657,1,0,1,"river in West New Britain Province, Papua New Guinea",,Q4022,,
+Walkes,Wälkesberg,Q31291308,1,0,1,"hill in Menden, Germany",Wälkes-Berg,Q54050,,
+Walkes,Walkeshwar Assembly constituency,Q137731842,1,0,1,constituency of the Maharashtra legislative assembly in India,,Q192611|Q11774263,,Walkeshwar Assembly constituency
+Frito-Lay,Frito-Lay,Q1221751,1,1,1,American food company,FritoLay 67,Q4830453,,Frito-Lay
+Frito-Lay,Frito-Lay Canada,Q30645550,1,1,1,company,"Frito-Lay Canada, Inc.|Hostess Frito-Lay Company",Q783794,,Frito-Lay Canada
+Frito-Lay,Frito-Lay Corporate Headquarters,Q107322327,1,1,1,"corporate headquarters at 7701 Legacy Dr. Plano, Texas",,Q1530704,,
+Frito-Lay,Frito-Lay Cogen Plant,Q116712161,1,1,1,"power station with capacity >1MW in Kern County, California",,Q3498533|Q1427536,,
+Frito-Lay,Frito-Lay (Switzerland),Q106411908,1,1,1,"company in Bern, Switzerland",,Q4830453,,
+Frito-Lay,Frito Lay Incorporated,Q116719843,1,1,1,"power station with capacity >1MW in Windham County, Connecticut",,Q3498533|Q1427536,,
+Frito-Lay,PepsiCo,Q334800,1,1,2,American soft drink company,"PepsiCo Inc.|Pepsi|bebsi|PepsiCo, Inc. (Purchase, NY)",Q778575|Q6881511|Q891723,,PepsiCo
+Frito-Lay,PepsiCo Germany,Q110736698,1,1,2,German beverage and food company,,Q6881511,,
+Frito-Lay,Pepsico France,Q132058884,1,1,2,Pepsico distributor in France,,Q43229,,
+Frito-Lay,Pepsi,Q47719,1,1,2,soft drink owned and manufactured by PepsiCo,Brad's Drink,Q431289,Q134041,Pepsi
+Frito-Lay,PepsiCo Ukraine,Q50407282,1,1,2,,,Q4830453,,
+Frito-Lay,PepsiCo Holdings,Q30713701,1,1,2,UK business,,Q4830453,,
+Frito-Lay,PepsiCo Canada,Q30713677,1,1,2,,PepsiCo Canada ULC,Q4830453,,
+Frito-Lay,PEPSICO CZ,Q58218459,1,1,2,Czech company,PEPSICO CZ s.r.o.,Q4830453|Q6881511,,
+Frito-Lay,PepsiCo buys Poland's Star Foods,Q17661734,1,1,2,Wikinews article,,Q17633526,,
+Frito-Lay,PepsiCo names Nooyi CEO as Reinemund retires,Q17661747,1,1,2,Wikinews article,,Q17633526,,
+Frito-Lay,Walkers,Q1296097,1,1,2,British snack food manufacturer,Walkers Crisps,Q4830453|Q6881511|Q431289,,Walkers (snack foods)

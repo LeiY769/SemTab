@@ -1,0 +1,146 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Wildwood Lake,Wildwood Lake,Q2613565,0,0,1,"census-designated place in Bradley County, Tennessee","Wildwood Lake, Tennessee|Wildwood Lake, TN",Q498162|Q486972,,"Wildwood Lake, Tennessee"
+Wildwood Lake,Wildwood Lake,Q34935450,0,0,1,"reservoir in Caswell County, North Carolina",,Q131681,,
+Wildwood Lake,Wildwood Lake,Q34935440,0,0,1,"reservoir in Treutlen County, Georgia",,Q131681,,
+Wildwood Lake,Wildwood Lake,Q22617375,0,0,1,"lake in Ontario, Canada",,Q23397,,
+Wildwood Lake,Wildwood Lake,Q49315968,0,0,1,"lake in Dauphin County, Pennsylvania, United States of America",,Q23397,,
+Wildwood Lake,Wildwood Lake,Q33320946,0,0,1,"lake in Iron County, Michigan, USA",,Q23397,,
+Wildwood Lake,Wildwood Lake,Q49703193,0,0,1,"lake in Wayne County, Pennsylvania, USA",,Q131681,,
+Wildwood Lake,Wildwood Lake,Q99745454,0,0,1,"reservoir in Jefferson County, Missouri","Wildwood Lake (Jefferson County, Missouri)",Q131681,,"Wildwood Lake (Jefferson County, Missouri)"
+Wildwood Lake,Wildwood Lake,Q49315969,0,0,1,"lake in Oneida County, Wisconsin, United States of America",,Q23397,,
+Wildwood Lake,Wildwood Lake,Q49315965,0,0,1,"lake in McLean County, North Dakota, United States of America",,Q23397,,
+Wildwood Lake,Lake Wildwood,Q34901905,0,0,2,"lake in Bibb County, Georgia",,Q131681,,
+Wildwood Lake,Lake Wildwood,Q2029247,0,0,2,"census-designated place in Nevada County, California, United States","Lake Wildwood, California|Lake Wildwood, CA",Q498162,,"Lake Wildwood, California"
+Wildwood Lake,Lake Wildwood,Q35735421,0,0,2,"lake of Sussex County, New Jersey",,Q23397,,
+Wildwood Lake,Lake Wildwood,Q34901917,0,0,2,"lake in Oconee County, Georgia",,Q131681,,
+Wildwood Lake,Lake Wildwood Dam,Q34875363,0,0,2,"dam in Bibb County, Georgia, United States of America",,Q12323,,
+Wildwood Lake,Lake Wildwood Dam,Q34875385,0,0,2,"dam in Montgomery County, Texas, United States of America",,Q12323,,
+Wildwood Lake,Lake Wildwood Dam,Q34875375,0,0,2,"dam in Sussex County, New Jersey, United States of America",,Q12323,,
+Wildwood Lake,Lake Wildwood Dam,Q31806412,0,0,2,"dam in Tuscaloosa County, Alabama, United States of America",,Q12323,,
+Wildwood Lake,Lake Wildwood Dam,Q32824687,0,0,2,"dam in Tazewell County, Illinois, United States of America",,Q12323,,
+Wildwood Lake,Lake Wildwood Haven Dam,Q32824688,0,0,2,"dam in Fulton County, Illinois, United States of America",,Q12323,,
+Larson Lake,Larson Lake,Q22369005,1,0,1,"lake in Kenora District, Ontario, Canada",,Q23397,,
+Larson Lake,Larson Lake,Q33271788,1,0,1,"lake in Clearwater County, Minnesota, United States",,Q23397,,
+Larson Lake,Larson Lake,Q22368982,1,0,1,"lake in Manitoba, Canada",,Q23397,,
+Larson Lake,Larson Lake,Q33271756,1,0,1,"lake in Cass County, Minnesota, United States",,Q23397,,
+Larson Lake,Larson Lake,Q33271881,1,0,1,"lake in Pope County, Minnesota, United States",,Q23397,,
+Larson Lake,Larson Lake,Q33271737,1,0,1,,,Q23397,,
+Larson Lake,Larson Lake,Q35736575,1,0,1,lake of the United States of America,,Q23397,,
+Larson Lake,Larson Lake,Q22369024,1,0,1,"lake in Parry Sound District, Ontario, Canada",,Q23397,,
+Larson Lake,Larson Lake,Q33271838,1,0,1,,,Q23397,,
+Larson Lake,Larson Lake,Q22368967,1,0,1,"lake in Regional District of Fraser-Fort George, British Columbia, Canada",,Q23397,,
+Larson Lake,Lake Larson,Q21954447,1,0,2,lake in Australia,,Q23397,,
+Oxbow Lake,oxbow lake,Q209333,2,0,1,U-shaped body of water,billabong,,Q23397|Q180537|Q291099,Oxbow lake
+Oxbow Lake,Laguna Cocococha,Q135261029,2,0,1,Lake in Peru,Oxbow lake,Q23397|Q209333,,
+Oxbow Lake,Oxbow Lake,Q34703856,2,0,1,"lake in Hamilton County, New York, United States",,Q23397,,Oxbow Lake (New York)
+Oxbow Lake,Oxbow Lake,Q103817206,2,0,1,"reservoir in Pierce County, Washington state, United States of America",,Q131681|Q166735,,
+Oxbow Lake,Oxbow Lake,Q21953366,2,0,1,lake in Australia,,Q23397,,
+Oxbow Lake,Oxbow Lake,Q49307685,2,0,1,"lake in Desha County, Arkansas, United States of America",,Q23397,,
+Oxbow Lake,Oxbow Lake,Q49307686,2,0,1,"lake in Vilas County, Wisconsin, United States of America",,Q23397,,
+Oxbow Lake,Oxbow Lake,Q22463061,2,0,1,"lake in Parry Sound District, Ontario, Canada",,Q23397,,
+Oxbow Lake,Oxbow Lake,Q22463083,2,0,1,"lake in Timiskaming District, Ontario, Canada",,Q23397,,
+Oxbow Lake,Oxbow Lake,Q33296593,2,0,1,"lake in Lake County, Michigan, USA",,Q23397,,
+Christine Lake,Christine Lake,Q19879113,3,0,1,"lake in Cook County, Minnesota, United States",,Q23397,,Christine Lake (Minnesota)
+Christine Lake,Christine Lake,Q49303621,3,0,1,"lake in Mason County, Washington state, United States of America",Lake Christine,Q23397|Q131681|Q166735,,
+Christine Lake,Christine Lake,Q5111097,3,0,1,"lake in Coos County, New Hampshire, United States",,Q23397,,Christine Lake (New Hampshire)
+Christine Lake,Christine Lake,Q110318100,3,0,1,New Zealand Plunket official,Helen Christine Lake,Q5,,
+Christine Lake,Christine Lake,Q22498545,3,0,1,"lake in Alberta, Canada",,Q23397,,
+Christine Lake,Christine Lake,Q49300553,3,0,1,"lake on Kiska Island in Alaska, United States",,Q23397,,
+Christine Lake,Christine Lake,Q22498556,3,0,1,"lake in British Columbia, Canada",,Q23397,,
+Christine Lake,Christine Lakeland,Q18098427,3,0,1,American musician and songwriter,,Q5,,Christine Lakeland
+Christine Lake,Christine Lake Dam,Q48982765,3,0,1,"dam in Mason County, Washington state, United States of America",Wanoname 143 Dam,Q12323,,
+Christine Lake,Christine Lake,Q1083650,3,0,1,Wikimedia disambiguation page,,Q4167410,,Christine Lake
+Christine Lake,Lake Christine,Q110184628,3,0,2,"lake in Pierce County, Washington, United States",,Q23397,,
+Christine Lake,Lake Christine,Q34898116,3,0,2,,,Q131681,,
+Christine Lake,Lake Christine Fire,Q55616490,3,0,2,2018 Colorado Wildfire,,Q169950,,Lake Christine Fire
+Christine Lake,Lake Christine Dam,Q32824467,3,0,2,"dam in St. Clair County, Illinois, United States of America",,Q12323,,
+Christine Lake,Lake Christine Trail,Q110214419,3,0,2,"trail on the Gifford Pinchot National Forest in Pierce County, Washington state, United States of America",,Q2143825|Q1639395,,
+Wahl Lake,Wahl Lake,Q33319523,4,0,1,"lake in Isabella County, Michigan, USA",,Q23397,,
+Wahl Lake,Wahl Lake,Q49238348,4,0,1,"swamp in Jefferson County, Washington, United States",,Q166735,,
+Wahl Lake,Wahl Lake,Q49315357,4,0,1,lake of the United States of America,,Q23397,,
+Wahl Lake,Wahl Lake Dam,Q34947353,4,0,1,"dam in Major County, Oklahoma, United States of America",,Q12323,,
+Morrow Lake,Morrow Lake,Q22396609,5,0,1,"lake in Manitoba, Canada",,Q23397,,
+Morrow Lake,Morrow Lake,Q34908445,5,0,1,"reservoir in Kalamazoo County, Michigan, USA",,Q131681,,
+Morrow Lake,Morrow Lake,Q49210741,5,0,1,"swamp in Mason County, Washington state, United States of America",,Q166735,,
+Morrow Lake,Morrow Lake,Q22396652,5,0,1,"lake in Saskatchewan, Canada",,Q23397,,
+Morrow Lake,Morrow Lake,Q22396630,5,0,1,"lake in Ontario, Canada",,Q23397,,
+Morrow Lake,Morrow Lake Dam,Q34894517,5,0,1,"dam in Rankin County, Mississippi, United States of America",,Q12323,,
+Morrow Lake,Morrow Lake Number 2 Dam,Q34894594,5,0,1,"dam in Frio County, Texas, United States of America",,Q12323,,
+Morrow Lake,Morrow Lake Dam,Q34894542,5,0,1,"dam in Rankin County, Mississippi, United States of America; geonames ID = 4436690",,Q12323,,
+Morrow Lake,Morrow Lake Dam,Q34894530,5,0,1,"dam in Rankin County, Mississippi, United States of America",,Q12323,,
+Morrow Lake,Morrow Lake Dam,Q34894504,5,0,1,"dam in Rankin County, Mississippi, United States of America; geonames ID = 4436718",,Q12323,,
+Morgan Marsh,Morgan Marsh,Q49210688,6,0,1,"marsh in Kitsap County, Washington state, United States of America",,Q166735|Q30198,,
+Morgan Marsh,Morgan Marsh,Q49210689,6,0,1,"swamp in Oconto County, Wisconsin, United States of America",,Q166735,,
+Morgan Marsh,Morgan Hunt,Q6911703,6,0,1,Footballer (1931-2012),Morgan Marshall Hunt,Q5,,Morgan Hunt
+Moores Lake,Moores Lake,Q14685679,7,0,1,body of water,,Q131681,,Moores Lake
+Moores Lake,Moores Lake,Q49210656,7,0,1,"swamp in Grays Harbor County, Washington state, United States of America",,Q166735,,
+Moores Lake,Moores Lake,Q22376501,7,0,1,"lake in Nova Scotia, Canada",,Q23397,,
+Moores Lake,Moores Lake,Q115753178,7,0,1,"lake in Manitoba, Canada",,Q23397,,
+Moores Lake,Moores Lake,Q115225898,7,0,1,"dispersed rural community in Admaston/Bromley, Ontario, Canada","Moores Lake, Ontario",Q56885635,,
+Moores Lake,Moores Lake,Q88276082,7,0,1,"lake in Presque Isle County, Michigan, United States of America",,Q23397,,
+Moores Lake,Moores Lake Dam,Q34893443,7,0,1,"dam in Kent County, Delaware, United States of America",,Q12323,,
+Moores Lake,Moores Lake Dam,Q31806916,7,0,1,"dam in Chilton County, Alabama, United States of America",,Q12323,,
+Moores Lake,Moores Lake Dam,Q34893455,7,0,1,"dam in Boone County, Missouri, United States of America",,Q12323,,
+Moores Lake,Moores Lake Grove,Q122560071,7,0,1,"populated place in Hillsborough County, Florida, United States","Moores Lake Grove, FL|Moores Lake Grove, Florida",Q486972,,
+Miller Swamp,Miller Swamp,Q49209937,8,0,1,"swamp in Lewis County, Washington state, United States of America",,Q166735,,
+Miller Swamp,Miller Swamp,Q49209936,8,0,1,,,Q166735,,
+Miller Swamp,Miller Swamp,Q21905967,8,0,1,swamp in Australia,,Q166735,,
+Miller Swamp,Miller Swamp,Q34697849,8,0,1,"swamp in Saratoga County, New York, United States of America",,Q166735,,
+Miller Swamp,Miller Swamp Missionary Baptist Church Cemetery,Q117608958,8,0,1,"cemetery in Allendale County, South Carolina, United States",,Q39614,,
+Miller Swamp,Miller Swamp,Q22937226,8,0,1,Wikimedia disambiguation page,,Q4167410,,
+Long Marsh,Long Marsh,Q49207959,9,0,1,"swamp in Mason County, Washington state, United States of America",,Q166735,,
+Long Marsh,Long Marsh,Q49207956,9,0,1,"swamp in Newton County, Texas, United States of America",,Q166735,,
+Long Marsh,Long Marsh,Q49207949,9,0,1,"swamp in Warren County, New York, United States of America",,Q166735,,
+Long Marsh,Long Marsh,Q22653927,9,0,1,"valley in Newfoundland and Labrador, Canada",,Q39816,,
+Long Marsh,Long Marsh,Q49207946,9,0,1,"swamp in Anne Arundel County, Maryland, United States of America",,Q166735,,
+Long Marsh,Long Marsh,Q22653946,9,0,1,,,Q170321,,
+Long Marsh,Long Marsh,Q49207952,9,0,1,"swamp in Carteret County, North Carolina, United States",,Q166735,,
+Long Marsh,Long Marsh,Q49207954,9,0,1,"swamp in Liberty County, Texas, United States of America",,Q166735,,
+Long Marsh,Long Marsh,Q22653955,9,0,1,"marsh in Newfoundland and Labrador, Canada",,Q170321,,
+Long Marsh,Long Marsh,Q22653936,9,0,1,,,Q170321,,
+Long Marsh,Long Marshes,Q49207960,9,0,2,"swamp in Dorchester County, Maryland, United States of America",,Q166735,,
+Kindred Slough,Kindred Slough,Q104817512,10,0,1,"tributary to Wallapa Bay in Pacific County, Washington, United States",,Q47521,,
+Kindred Slough,Kindred Slough,Q49199567,10,0,1,"swamp in Pacific County, Washington state, United States of America",,Q166735,,
+Sink Lake,Sink Lake,Q115921760,11,0,1,"swamp in Jefferson County, Washington, United States",,Q166735,,
+Sink Lake,Sink Lake,Q49310607,11,0,1,lake of the United States of America,,Q23397,,
+Sink Lake,Sink Lake,Q22630203,11,0,1,"lake in British Columbia, Canada",,Q23397,,
+Sink Lake,Sink Lake,Q88278609,11,0,1,"lake in Allegan County, Michigan, United States of America",,Q23397,,
+Sink Lake,Sink Lakes,Q22630212,11,0,1,"group of lakes in Saskatchewan, Canada",,Q5926864,,
+Sink Lake,Sink Lake,Q22152946,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Round Lake,Round Lake,Q2666736,12,0,1,"village in Lake County, Illinois, United States of America","Round Lake, IL",Q110071217,,"Round Lake, Illinois"
+Round Lake,Round Lake,Q3452931,12,0,1,"village in New York, USA","Round Lake, New York|Round Lake, NY",Q55237813,,"Round Lake (village), New York"
+Round Lake,North Caribou Lake First Nation,Q7054367,12,0,1,"Oji-Cree First Nation community in Ontario, Canada",Weagamow First Nation|Wiyaagamaa|Round Lake,Q2882257|Q177634,,North Caribou Lake First Nation
+Round Lake,Round Lake,Q7348636,12,0,1,"lake in Killaloe, Hagarty and Richards, Ontario, Canada",,Q23397,,Round Lake (Ontario)
+Round Lake,Round Lake,Q596049,12,0,1,"city in Minnesota, United States","Round Lake, Minnesota|Round Lake, MN",Q1093829,,"Round Lake, Minnesota"
+Round Lake,Round Lake,Q7371069,12,0,1,railway station in Illinois,,Q55488,,Round Lake station
+Round Lake,Round Lake,Q1887439,12,0,1,"human settlement in Sawyer County, Wisconsin, United States of America","Round Lake, WI",Q15219655,,"Round Lake, Wisconsin"
+Round Lake,Round Lake,Q114238950,12,0,1,"swamp in King County, Washington, United States",,Q166735,,
+Round Lake,Round Lake,Q34712611,12,0,1,"lake in Oneida County, New York, USA",,Q23397,,"Round Lake (Oneida County, New York)"
+Round Lake,Round Lake,Q7331678,12,0,1,"lake in Clark County, Washington state, United States of America",,Q23397,,"Round Lake (Clark County, Washington)"
+Davis Lake,Davis Lake,Q49183044,13,0,1,"swamp in Lewis County, Washington, United States",,Q166735,,
+Davis Lake,Davis Lake,Q49700473,13,0,1,"reservoir in Okanogan County, Washington, United States",,Q131681|Q23397,,
+Davis Lake,Davis Lake,Q22563920,13,0,1,"lake in Algoma District, Ontario, Canada",,Q23397,,
+Davis Lake,Davis Lake,Q7372982,13,0,1,"lake in Deschutes County, Oregon, United States of America",,Q23397,,Davis Lake
+Davis Lake,Davis Lake,Q316460,13,0,1,"lake in Regional District of Kootenay Boundary, British Columbia, Canada",,Q23397,,Davis Lake (British Columbia)
+Davis Lake,Davis Lake,Q22563876,13,0,1,"lake in Manitoba, Canada",,Q23397,,
+Davis Lake,Davis Lake,Q33244550,13,0,1,"lake in Oakland County, Michigan, USA",,Q23397,,
+Davis Lake,Davis Lake,Q32360850,13,0,1,"lake in Lake County, Illinois, United States",,Q23397,,
+Davis Lake,Davis Lake,Q22563867,13,0,1,"lake in North Coast Regional District, British Columbia, Canada",,Q23397,,
+Davis Lake,Davis Lake,Q33244515,13,0,1,"lake in Cass County, Michigan, USA",,Q23397,,
+Davis Lake,Lake Davis,Q2275980,13,0,2,"census-designated place in Plumas County, California","Lake Davis, California|Lake Davis, CA",Q498162,,"Lake Davis, California"
+Davis Lake,Lake Davis,Q6475583,13,0,2,"reservoir in Plumas County, California, United States",,Q131681,,Lake Davis
+Davis Lake,Lake Davis,Q35730621,13,0,2,"lake in Orange County, Florida, United States",,Q23397,,
+Davis Lake,Lake Davis Dam,Q34867025,13,0,2,"dam in Knox County, Texas, United States of America",,Q12323,,
+Davis Lake,Lake Davis,Q16461683,13,0,2,Wikimedia disambiguation page,,Q4167410,,Lake Davis (disambiguation)
+Cave Lake,Cave Lake,Q22453096,14,0,1,"lake in Manitoulin District, Ontario, Canada",,Q23397,,
+Cave Lake,Cave Lake,Q22453107,14,0,1,"lake in Sudbury District, Ontario, Canada",,Q23397,,
+Cave Lake,Cave Lake,Q22453115,14,0,1,"lake in Saskatchewan, Canada",,Q23397,,
+Cave Lake,Cave Lake,Q49181627,14,0,1,"swamp in Okanogan County, Washington, United States",,Q166735|Q23397,,
+Cave Lake,Cave Lake,Q115734028,14,0,1,"lake in Manitoba, Canada",,Q23397,,
+Cave Lake,Cave Lake State Park,Q1051826,14,0,1,"state park in Nevada, United States",,Q37906330,,Cave Lake State Park
+Cave Lake,Cave Lake Dam,Q34807022,14,0,1,"dam in Pike County, Ohio, United States of America",,Q12323,,
+Cave Lake,Cave Lake Dam,Q48982409,14,0,1,"dam in Conejos County, Colorado, United States of America",,Q12323,,
+Cave Lake,Cave Lakes Canyon,Q49785855,14,0,1,"valley in Kane County, Utah, United States of America",,Q39816,,
+Cave Lake,Cave Lake Reservoir,Q49700216,14,0,1,,,Q131681,,
+Cave Lake,Lake Cave,Q56501780,14,0,2,limestone cave in Western Australia,,Q35509,,
+Cave Lake,Lake Cave City Dam,Q34866105,14,0,2,"dam in Sharp County, Arkansas, United States of America",,Q12323,,

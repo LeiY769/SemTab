@@ -1,0 +1,5 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+tantalum-156,tantalum-156,Q18882744,0,0,1,isotope of tantalum,Ta-156|156Ta,Q2500708,Q1123,Tantalum-156
+tantalum-156,tantalum-156m,Q18882745,0,0,1,isotope of tantalum,Ta-156m|156mTa,Q846110|Q2500708,Q1123,
+tantalum-170,tantalum-170,Q18882769,1,0,1,isotope of tantalum,Ta-170|170Ta,Q2500708,Q1123,Tantalum-170
+tantalum-170,isotope of tantalum,Q2500708,1,0,2,,,,Q25276,Isotopes of tantalum

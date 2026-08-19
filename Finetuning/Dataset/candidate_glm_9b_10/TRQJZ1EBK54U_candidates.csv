@@ -1,0 +1,346 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+oyuz TM-9,TM 903,Q54972643,0,0,2,cell line,TM903,Q21014462|Q27554370,,
+oyuz TM-9,TM 902,Q54972642,0,0,2,cell line,TM902,Q21014462|Q27554370,,
+oyuz TM-9,Soyuz TM-9,Q1475435,0,0,2,1990 flight to Russia Space Station Mir,,Q2705481|Q752783,,Soyuz TM-9
+oyuz TM-9,"TM 9-1654 Stereoscopic Trainers M2, M6, and M7, 1945",Q137464988,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,"TM 9-1767E Ordnance Maintenance: Semitrailer M15, Component of 40-Ton Tank Transporter Trailer Truck M25, 1944",Q137464997,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,"TM 9-1806A Engine And Engine Accessories For 1 1/2 Ton 4x2 Truck (Ford), 1944",Q137465003,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,"TM 9-616 Generating Units M5 And M6, 1943",Q137465011,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,TM 9 308,Q137466471,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,"TM 9-1270 Ordnance Maintenance: U.S. Rifles, cal. .30, M1903, M1903A1, M1903A3 And M1903A4, 1944",Q137465846,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,"TM 9-793 Trailer, Ammunition, M23 (8-ton, 4-wheel), 1944",Q137465019,0,0,2,British War Office document,,Q732577,,
+oyuz TM-9,Roscosmos State Corporation,Q190795,0,0,2,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+oyuz TM-9,Roscosmos Geoportal,Q4135725,0,0,2,website operated by Roscosmos,,Q35127,,
+oyuz TM-9,Roscosmos Cosmonaut Corps,Q108907880,0,0,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+oyuz TM-9,Schepkina street 42 s1,Q117753839,0,0,2,building in Moscow,Roscosmos building,Q1021645,,
+oyuz TM-9,Rosaviakosmos,Q3442298,0,0,2,government agency in Russia,,Q17505024|Q21814455,,
+oyuz TM-9,Jean-Pierre Haigneré,Q721397,0,0,2,French Air Force officer and CNES astronaut,Jean-Pierre Haignere,Q5,,Jean-Pierre Haigneré
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,0,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,0,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,0,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,0,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,0,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Jean-Pierre Haigneré,Jean-Pierre Haigneré,Q721397,0,3,1,French Air Force officer and CNES astronaut,Jean-Pierre Haignere,Q5,,Jean-Pierre Haigneré
+Soyuz UM-2,Soyuz spacecraft at Cité de l'Espace,Q124608837,1,0,2,,,Q579421,,
+Soyuz UM-2,Soyuz programme,Q207329,1,0,2,crewed spaceflight programme of the Soviet Union,,Q13226541,,Soyuz programme
+Soviet space program,Soviet space program,Q849730,1,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Soyuz programme,Q207329,1,1,2,crewed spaceflight programme of the Soviet Union,,Q13226541,,Soyuz programme
+Soviet space program,Space Race,Q2006880,1,1,2,1973 arcade video game by Atari,,Q7889,,Space Race (video game)
+Soviet space program,space race,Q1932,1,1,2,competition to explore space between USA and USSR,,Q476300|Q180046,Q124516650,Space Race
+Soviet space program,Space Race,Q9079225,1,1,2,episode of Stargate SG-1 (S7 E8),,Q21191270,,Space Race (Stargate SG-1)
+Soviet space program,Space Race,Q7572467,1,1,2,album by Mi-Sex,,Q482994,,Space Race (album)
+Soviet space program,Space Race,Q114491068,1,1,2,episode of Steven Universe (S1 E28),,Q21191270,,
+Soviet space program,Space Race,Q114528716,1,1,2,episode of The Brothers Garcia (S3 E7),,Q21191270,,
+Soviet space program,Space Race,Q114459768,1,1,2,episode of Wacky Races (S1 E12),,Q21191270,,
+Soviet space program,Space Race,Q106622460,1,1,2,episode of Timeless (S1 E8),,Q21191270,,
+Soviet space program,Space Race,Q114537538,1,1,2,episode of Clarence (S2 E25),,Q21191270,,
+Soviet space program,Space Race,Q48789792,1,1,2,song by Mi-Sex,,Q105543609,,Space Race (Mi-Sex song)
+Aleksandr Laveykin,Aleksandr Laveykin,Q708452,1,3,1,Soviet cosmonaut,Aleksandr Ivanovich Laveykin,Q5,,Aleksandr Laveykin
+Syuz TM-20,spacecraft,Q40218,2,0,2,vehicle or machine designed to fly in space,spaceship|space ship|space craft|space-ship|space-craft|orbital vehicle|space vessel,Q140424465|Q140172580,Q7194062|Q16391167|Q4235019,Spacecraft
+Syuz TM-20,SpaceCraft,Q131398384,2,0,2,video game,,Q7889|Q64170203,,
+Syuz TM-20,spacecraft cemetery,Q2031530,2,0,2,area in the southern Pacific Ocean where spacecraft have been routinely deposited,spacecraft graveyard|South Pacific Ocean Uninhabited Area,Q55637013|Q106690126,,Spacecraft cemetery
+Syuz TM-20,spacecraft commander,Q11077692,2,0,2,"astronaut/cosmonaut responsible for overall mission success, safety of crew and spacecraft, and maneuvering",commander|command pilot|mission commander|captain|spacecraft captain|space captain|space commander,Q4164871,Q11631|Q1146304|Q110996085,
+Syuz TM-20,spacecraft solar array,Q7556726,2,0,2,deployable solar cell panel on a spacecraft operating in the inner Solar System,solar panels on spacecraft|solar arrays on spacecraft|satellite solar panel|satellite solar array|spacecraft solar panel,,Q217941|Q5260670|Q111518433,Solar panels on spacecraft
+Syuz TM-20,space instrument,Q100349043,2,0,2,instrument deployed in space,spacecraft instrument|space instrumentation,,Q3099911|Q21211206,
+Syuz TM-20,spacecraft bus,Q372881,2,0,2,"general model on which multiple-production spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a spacecraft",satellite platform|satellite bus,,Q15607934|Q111518433,Satellite bus
+Syuz TM-20,spacecraft constellation,Q967145,2,0,2,group of spacecraft working together as a system,satellite constellation,Q994895,Q113255208,Satellite constellation
+Syuz TM-20,space launch,Q7572593,2,0,2,earliest phase of a flight that reaches space,spacecraft launch|spacelaunch,,Q854248|Q74026067,Space launch
+Syuz TM-20,spacecraft propulsion,Q609089,2,0,2,method used to accelerate spacecraft,in-space propulsion,,Q2583685,Spacecraft propulsion
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,2,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,2,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,2,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,2,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,2,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Valeri Polyakov,Valeri Polyakov,Q317792,2,3,1,Soviet and Russian cosmonaut,Valeri Vladimirovich Polyakov|Valery Polyakov,Q5,,Valeri Polyakov
+Valeri Polyakov,astronaut,Q11631,2,3,2,"person who commands, pilots, or serves as a crew member of a spacecraft",spacionaut|astronauts|cosmonaut|taikonaut|spationaut|angkasawan|vyomanaut|gagannaut|space traveler|spaceman|spacewoman|space traveller,Q12737077,Q373021|Q901|Q12356615,Astronaut
+Valeri Polyakov,COSMONAUT,Q122343082,2,3,2,2018 video game,,Q7889,,
+Valeri Polyakov,cosmonaut,Q12634815,2,3,2,astronaut from the former Soviet Union and its satellite countries and today's Russia,Russian astronaut,Q28640,Q11631,
+Valeri Polyakov,astronautics,Q22719,2,3,2,theory and practice of navigation beyond the Earth's atmosphere,cosmonautics,Q2465832,Q2876213|Q1195766,Astronautics
+Valeri Polyakov,Cosmonaut,Q5174345,2,3,2,2010 studio album by Bump of Chicken,,Q482994,,Cosmonaut (album)
+Valeri Polyakov,Cosmonautica,Q28127365,2,3,2,2015 video game,,Q7889,,Cosmonautica
+Valeri Polyakov,The Cosmonaut,Q3016381,2,3,2,2013 film directed by Nicolás Alcalá,Cosmonaut,Q11424,,The Cosmonaut
+Valeri Polyakov,Cosmonaut,Q3695198,2,3,2,2009 film directed by Susanna Nicchiarelli,Cosmonauta,Q11424,,Cosmonaut (film)
+Valeri Polyakov,Cosmonauts,Q90900802,2,3,2,2020 song by Fiona Apple,,Q105543609,,
+Valeri Polyakov,Cosmonaut Keep,Q93718191,2,3,2,2002 Tor paperback edition,Engines Of Light 1,Q3331189,,
+Soyuz TM-,Soyuz TM-5,Q261401,3,0,1,1988 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-5
+Soyuz TM-,Soyuz TM-31,Q1423493,3,0,1,first Soyuz mission to the International Space Station,,Q2705481|Q752783,,Soyuz TM-31
+Soyuz TM-,Soyuz TM-6,Q238773,3,0,1,1988 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-6
+Soyuz TM-,Soyuz TM-21,Q1424853,3,0,1,1995 spaceflight to Russian space station Mir,,Q2705481|Q752783,,Soyuz TM-21
+Soyuz TM-,Soyuz TM-7,Q767583,3,0,1,1988 Soviet crewed spaceflight to Mir,,Q2705481,,Soyuz TM-7
+Soyuz TM-,Soyuz TM-24,Q533568,3,0,1,1996 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-24
+Soyuz TM-,Soyuz TM-27,Q643774,3,0,1,1998 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-27
+Soyuz TM-,Soyuz TM-33,Q1753202,3,0,1,2001 Russian crewed spaceflight to the ISS,,Q2705481|Q752783,,Soyuz TM-33
+Soyuz TM-,Soyuz TM-32,Q1424029,3,0,1,2001 Russian crewed spaceflight to the ISS,,Q2705481|Q752783,,Soyuz TM-32
+Soyuz TM-,Soyuz TM-34,Q921112,3,0,1,flight of a Russian Sojus-Spaceship to the ISS,,Q2705481|Q752783,,Soyuz TM-34
+Soyuz TM-,Soyuz TM-1,Q1632451,3,0,2,uncrewed test spaceflight,,Q512399|Q2705481,,Soyuz TM-1
+Soyuz TM-,Soyuz TM-13,Q677519,3,0,2,Space mission of Sojuz program,,Q2705481|Q752783,,Soyuz TM-13
+Soyuz TM-,Soyuz TM-14,Q611541,3,0,2,the 14th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-14
+Soyuz TM-,Soyuz TM-12,Q677528,3,0,2,1991 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-12
+Soyuz TM-,Soyuz TM-15,Q1540622,3,0,2,the 15th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-15
+Soyuz TM-,Soyuz TM-11,Q577280,3,0,2,11th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-11
+Soyuz TM-,Soyuz TM-17,Q1540613,3,0,2,1993 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-17
+Soyuz TM-,Soyuz TM-19,Q700718,3,0,2,1994 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-19
+Soyuz TM-,Soyuz TM-18,Q645825,3,0,2,1994 Soviet spaceflight,,Q2705481|Q752783,,Soyuz TM-18
+Soyuz TM-,Soyuz TM-16,Q1540599,3,0,2,expedition to the Russian Space Station Mir,,Q2705481|Q752783,,Soyuz TM-16
+Soyuz TM-,Soyuz TM-2,Q738200,3,0,2,1987 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-2
+Soyuz TM-,Soyuz TM-20,Q700126,3,0,2,Spaceflight mission to Mir,,Q2705481|Q752783,,Soyuz TM-20
+Soyuz TM-,Soyuz TM-22,Q700729,3,0,2,Soviet 1995 spacecraft mission to Mir,,Q2705481|Q752783,,Soyuz TM-22
+Soyuz TM-,Soyuz TM-29,Q1051236,3,0,2,space mission program Sojuz,,Q2705481|Q752783,,Soyuz TM-29
+Soyuz TM-,Soyuz TM-25,Q516698,3,0,2,1997 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-25
+Soyuz TM-,Soyuz TM-26,Q1753031,3,0,2,Russian spacecraft,,Q2705481|Q752783,,Soyuz TM-26
+Soyuz TM-,Soyuz TM-23,Q748738,3,0,2,1996 mission to Soviet space station Mir,,Q2705481|Q752783,,Soyuz TM-23
+Soyuz TM-,Soyuz TM-3,Q847619,3,0,2,soviet space mission,,Q2705481|Q752783,,Soyuz TM-3
+Soyuz TM-,Soyuz TM-30,Q509490,3,0,2,39th spaceflight to the Mir station 2000,,Q2705481|Q752783,,Soyuz TM-30
+Soyuz TM-,Soyuz TM-4,Q904285,3,0,2,soviet human spaceflight,,Q2705481|Q752783,,Soyuz TM-4
+Soviet space program,Soviet space program,Q849730,3,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Soyuz TM-5,Q261401,3,1,2,1988 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-5
+Soviet space program,Soyuz TM-31,Q1423493,3,1,2,first Soyuz mission to the International Space Station,,Q2705481|Q752783,,Soyuz TM-31
+Soviet space program,Soyuz TM-6,Q238773,3,1,2,1988 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-6
+Soviet space program,Soyuz TM-21,Q1424853,3,1,2,1995 spaceflight to Russian space station Mir,,Q2705481|Q752783,,Soyuz TM-21
+Soviet space program,Soyuz TM-7,Q767583,3,1,2,1988 Soviet crewed spaceflight to Mir,,Q2705481,,Soyuz TM-7
+Soviet space program,Soyuz TM-24,Q533568,3,1,2,1996 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-24
+Soviet space program,Soyuz TM-27,Q643774,3,1,2,1998 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-27
+Soviet space program,Soyuz TM-33,Q1753202,3,1,2,2001 Russian crewed spaceflight to the ISS,,Q2705481|Q752783,,Soyuz TM-33
+Soviet space program,Soyuz TM-32,Q1424029,3,1,2,2001 Russian crewed spaceflight to the ISS,,Q2705481|Q752783,,Soyuz TM-32
+Soviet space program,Soyuz TM-34,Q921112,3,1,2,flight of a Russian Sojus-Spaceship to the ISS,,Q2705481|Q752783,,Soyuz TM-34
+Soviet space program,Musa Manarov,Q467732,3,1,2,Soviet cosmonaut,Musa Khiramanovich Manarov,Q5,,Musa Manarov
+Musa Manarov,Musa Manarov,Q467732,3,3,1,Soviet cosmonaut,Musa Khiramanovich Manarov,Q5,,Musa Manarov
+Soyu{ TM-4,Soyuz TM-4,Q904285,4,0,2,soviet human spaceflight,,Q2705481|Q752783,,Soyuz TM-4
+Soviet space program,Soviet space program,Q849730,4,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Anatolii Levchenko,Q488008,4,1,2,Soviet test pilot and cosmonaut (1941-1988),Anatolii Semenovich Levchenko|Anatoly Levchenko|Anatoliy Levchenko|Anatoly Semyonovich Levchenko,Q5,,Anatoly Levchenko
+Soviet space program,Anatolii Levchenko,Q12117414,4,1,2,politician,Anatoliy Levchenko|Anatolii Ivanovych Levchenko|Anatoly Levchenko|Anatoly Ivanovich Levchenko,Q5,,
+Soviet space program,Anatoly Levchenko,Q16670453,4,1,2,Wikimedia disambiguation page,Anatolii Levchenko,Q4167410,,
+Soviet space program,TM4,Q54972666,4,1,2,cell line,TM-4,Q21014462|Q27555319,,
+Soviet space program,Tropomyosin 4,Q28560877,4,1,2,mammalian protein found in Rattus norvegicus,Tpm4|tropomyosin alpha-4 chain|TM-4|tropomycin 4,Q8054,Q8054,
+Soviet space program,TM-41 mine,Q7670629,4,1,2,"Soviet, World War II anti-tank mine",,Q42314054,Q828414,TM-41 mine
+Soviet space program,TM-46 mine,Q2985502,4,1,2,Soviet/Russian anti-tank mine,TM-46|TMN-46,Q42314054,Q828414,TM-46 mine
+Soviet space program,Bedford TM 4-4,Q106225462,4,1,2,military transport vehicle,TM 4-4,Q21546143,Q813887,
+Soviet space program,TM-44 mine,Q4448982,4,1,2,anti-tank mine,,Q15142894,Q1481202,TM-44 mine
+Anatolii Levchenko,Anatolii Levchenko,Q488008,4,3,1,Soviet test pilot and cosmonaut (1941-1988),Anatolii Semenovich Levchenko|Anatoly Levchenko|Anatoliy Levchenko|Anatoly Semyonovich Levchenko,Q5,,Anatoly Levchenko
+Anatolii Levchenko,Anatolii Levchenko,Q12117414,4,3,1,politician,Anatoliy Levchenko|Anatolii Ivanovych Levchenko|Anatoly Levchenko|Anatoly Ivanovich Levchenko,Q5,,
+Anatolii Levchenko,Anatoly Levchenko,Q16670453,4,3,1,Wikimedia disambiguation page,Anatolii Levchenko,Q4167410,,
+Soyuz WM-13,Soyuz spacecraft at Cité de l'Espace,Q124608837,5,0,2,,,Q579421,,
+Soyuz WM-13,Soyuz TM-13,Q677519,5,0,2,Space mission of Sojuz program,,Q2705481|Q752783,,Soyuz TM-13
+Soviet space program,Soviet space program,Q849730,5,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Soyuz programme,Q207329,5,1,2,crewed spaceflight programme of the Soviet Union,,Q13226541,,Soyuz programme
+Soviet space program,Space Race,Q2006880,5,1,2,1973 arcade video game by Atari,,Q7889,,Space Race (video game)
+Soviet space program,space race,Q1932,5,1,2,competition to explore space between USA and USSR,,Q476300|Q180046,Q124516650,Space Race
+Soviet space program,Space Race,Q9079225,5,1,2,episode of Stargate SG-1 (S7 E8),,Q21191270,,Space Race (Stargate SG-1)
+Soviet space program,Space Race,Q7572467,5,1,2,album by Mi-Sex,,Q482994,,Space Race (album)
+Soviet space program,Space Race,Q114491068,5,1,2,episode of Steven Universe (S1 E28),,Q21191270,,
+Soviet space program,Space Race,Q114528716,5,1,2,episode of The Brothers Garcia (S3 E7),,Q21191270,,
+Soviet space program,Space Race,Q114459768,5,1,2,episode of Wacky Races (S1 E12),,Q21191270,,
+Soviet space program,Space Race,Q106622460,5,1,2,episode of Timeless (S1 E8),,Q21191270,,
+Soviet space program,Space Race,Q114537538,5,1,2,episode of Clarence (S2 E25),,Q21191270,,
+Soviet space program,Space Race,Q48789792,5,1,2,song by Mi-Sex,,Q105543609,,Space Race (Mi-Sex song)
+Toktar Aubakirov,Toktar Aubakirov,Q468258,5,3,1,Soviet cosmonaut,Toktar Ongarbayuly Aubakirov,Q5,,Toktar Aubakirov
+Toktar Aubakirov,Toktar Aubakirov,Q95874925,5,3,1,,,Q5,,
+Soywz TM-34,TM-34,Q54972650,6,0,2,cell line,TM-34 [Mutatect],Q21014462|Q23058136,,
+Soywz TM-34,BSt Bauart 1927,Q797049,6,0,2,,,Q76154857,,
+Soywz TM-34,TM-34,Q20529570,6,0,2,,,,,
+Soywz TM-34,Roscosmos State Corporation,Q190795,6,0,2,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Soywz TM-34,Rosaviakosmos,Q3442298,6,0,2,government agency in Russia,,Q17505024|Q21814455,,
+Soywz TM-34,Yury Lonchakov,Q539358,6,0,2,Russian cosmonaut,Yury Valentinovich Lonchakov,Q5,,Yury Lonchakov
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,6,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,6,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Yury Lonchakov,Yury Lonchakov,Q539358,6,3,1,Russian cosmonaut,Yury Valentinovich Lonchakov,Q5,,Yury Lonchakov
+Syuz M-15,spacecraft,Q40218,7,0,2,vehicle or machine designed to fly in space,spaceship|space ship|space craft|space-ship|space-craft|orbital vehicle|space vessel,Q140424465|Q140172580,Q7194062|Q16391167|Q4235019,Spacecraft
+Syuz M-15,SpaceCraft,Q131398384,7,0,2,video game,,Q7889|Q64170203,,
+Syuz M-15,spacecraft cemetery,Q2031530,7,0,2,area in the southern Pacific Ocean where spacecraft have been routinely deposited,spacecraft graveyard|South Pacific Ocean Uninhabited Area,Q55637013|Q106690126,,Spacecraft cemetery
+Syuz M-15,spacecraft commander,Q11077692,7,0,2,"astronaut/cosmonaut responsible for overall mission success, safety of crew and spacecraft, and maneuvering",commander|command pilot|mission commander|captain|spacecraft captain|space captain|space commander,Q4164871,Q11631|Q1146304|Q110996085,
+Syuz M-15,spacecraft solar array,Q7556726,7,0,2,deployable solar cell panel on a spacecraft operating in the inner Solar System,solar panels on spacecraft|solar arrays on spacecraft|satellite solar panel|satellite solar array|spacecraft solar panel,,Q217941|Q5260670|Q111518433,Solar panels on spacecraft
+Syuz M-15,space instrument,Q100349043,7,0,2,instrument deployed in space,spacecraft instrument|space instrumentation,,Q3099911|Q21211206,
+Syuz M-15,spacecraft bus,Q372881,7,0,2,"general model on which multiple-production spacecraft are often based; infrastructure of a spacecraft, usually providing locations for the payload (typically space experiments or instruments); service module section of a spacecraft",satellite platform|satellite bus,,Q15607934|Q111518433,Satellite bus
+Syuz M-15,spacecraft constellation,Q967145,7,0,2,group of spacecraft working together as a system,satellite constellation,Q994895,Q113255208,Satellite constellation
+Syuz M-15,space launch,Q7572593,7,0,2,earliest phase of a flight that reaches space,spacecraft launch|spacelaunch,,Q854248|Q74026067,Space launch
+Syuz M-15,spacecraft propulsion,Q609089,7,0,2,method used to accelerate spacecraft,in-space propulsion,,Q2583685,Spacecraft propulsion
+Syuz M-15,Russian spacecraft Phobos-Grunt falls in Pacific Ocean,Q18021676,7,0,2,Wikinews article,,Q17633526,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,7,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,7,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,7,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,7,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,7,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Michel Tognini,Michel Tognini,Q1339046,7,3,1,French astronaut,Michel Ange-Charles Tognini,Q5,,Michel Tognini
+Michel Tognini,rue Michel Tognini,Q112218181,7,3,1,"street in L'Haÿ-les-Roses, France",,Q79007,,
+Soyuz TM-29,Soyuz TM-29,Q1051236,8,0,1,space mission program Sojuz,,Q2705481|Q752783,,Soyuz TM-29
+Soyuz TM-29,Soyuz spacecraft at Cité de l'Espace,Q124608837,8,0,2,,,Q579421,,
+Soyuz TM-29,Roscosmos State Corporation,Q190795,8,0,2,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Soyuz TM-29,Rosaviakosmos,Q3442298,8,0,2,government agency in Russia,,Q17505024|Q21814455,,
+Soyuz TM-29,Paul Vinogradoff,Q1976412,8,0,2,Russian historian (1854–1925),Paul Govrilovitch Vinogradoff|Sir Paul Gavrilovitch Vinogradoff|Pavel Vinogradov|Pavel Gavrilovich Vinogradov|Sir Paul Vinogradov,Q5,,Paul Vinogradoff
+Soyuz TM-29,Pavel Vinogradov,Q466075,8,0,2,Russian cosmonaut,Pavel Vladimirovich Vinogradov,Q5,,Pavel Vinogradov
+Soyuz TM-29,Pavel Vinogradov,Q4111795,8,0,2,Russian screenwriter,Pavel Viktorovich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q4111797,8,0,2,Soviet politician (1889–1932),Pavel Mikhaylovich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q15206075,8,0,2,,Pavel Semyonovich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q29864958,8,0,2,scientist,Pavel Timofeyevich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q18237460,8,0,2,,Pavel Petrovich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q29743446,8,0,2,Wikimedia disambiguation page,,Q22808320,,
+Soyuz TM-29,Pavel Vinogradov,Q137613540,8,0,2,(1855-1919),Pavel Mikhailovich Vinogradov,Q5,,
+Soyuz TM-29,Pavel Vinogradov,Q137963262,8,0,2,,,Q5,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,8,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,8,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,8,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,8,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,8,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Pavel Vinogradov,Paul Vinogradoff,Q1976412,8,3,1,Russian historian (1854–1925),Paul Govrilovitch Vinogradoff|Sir Paul Gavrilovitch Vinogradoff|Pavel Vinogradov|Pavel Gavrilovich Vinogradov|Sir Paul Vinogradov,Q5,,Paul Vinogradoff
+Pavel Vinogradov,Pavel Vinogradov,Q466075,8,3,1,Russian cosmonaut,Pavel Vladimirovich Vinogradov,Q5,,Pavel Vinogradov
+Pavel Vinogradov,Pavel Vinogradov,Q4111795,8,3,1,Russian screenwriter,Pavel Viktorovich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q4111797,8,3,1,Soviet politician (1889–1932),Pavel Mikhaylovich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q15206075,8,3,1,,Pavel Semyonovich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q29864958,8,3,1,scientist,Pavel Timofeyevich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q18237460,8,3,1,,Pavel Petrovich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q29743446,8,3,1,Wikimedia disambiguation page,,Q22808320,,
+Pavel Vinogradov,Pavel Vinogradov,Q137613540,8,3,1,(1855-1919),Pavel Mikhailovich Vinogradov,Q5,,
+Pavel Vinogradov,Pavel Vinogradov,Q137963262,8,3,1,,,Q5,,
+Soyuz TM-1,Soyuz TM-1,Q1632451,9,0,1,uncrewed test spaceflight,,Q512399|Q2705481,,Soyuz TM-1
+Soyuz TM-1,Soyuz TM-13,Q677519,9,0,1,Space mission of Sojuz program,,Q2705481|Q752783,,Soyuz TM-13
+Soyuz TM-1,Soyuz TM-14,Q611541,9,0,1,the 14th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-14
+Soyuz TM-1,Soyuz TM-12,Q677528,9,0,1,1991 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-12
+Soyuz TM-1,Soyuz TM-15,Q1540622,9,0,1,the 15th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-15
+Soyuz TM-1,Soyuz TM-11,Q577280,9,0,1,11th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-11
+Soyuz TM-1,Soyuz TM-17,Q1540613,9,0,1,1993 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-17
+Soyuz TM-1,Soyuz TM-19,Q700718,9,0,1,1994 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-19
+Soyuz TM-1,Soyuz TM-18,Q645825,9,0,1,1994 Soviet spaceflight,,Q2705481|Q752783,,Soyuz TM-18
+Soyuz TM-1,Soyuz TM-16,Q1540599,9,0,1,expedition to the Russian Space Station Mir,,Q2705481|Q752783,,Soyuz TM-16
+Soyuz TM-1,Soyuz spacecraft at Cité de l'Espace,Q124608837,9,0,2,,,Q579421,,
+Soviet space program,Soviet space program,Q849730,9,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Soyuz TM-1,Q1632451,9,1,2,uncrewed test spaceflight,,Q512399|Q2705481,,Soyuz TM-1
+Soviet space program,Soyuz TM-13,Q677519,9,1,2,Space mission of Sojuz program,,Q2705481|Q752783,,Soyuz TM-13
+Soviet space program,Soyuz TM-14,Q611541,9,1,2,the 14th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-14
+Soviet space program,Soyuz TM-12,Q677528,9,1,2,1991 Soviet crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-12
+Soviet space program,Soyuz TM-15,Q1540622,9,1,2,the 15th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-15
+Soviet space program,Soyuz TM-11,Q577280,9,1,2,11th expedition to the Mir space station,,Q2705481|Q752783,,Soyuz TM-11
+Soviet space program,Soyuz TM-17,Q1540613,9,1,2,1993 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-17
+Soviet space program,Soyuz TM-19,Q700718,9,1,2,1994 Russian crewed spaceflight to Mir,,Q2705481|Q752783,,Soyuz TM-19
+Soviet space program,Soyuz TM-18,Q645825,9,1,2,1994 Soviet spaceflight,,Q2705481|Q752783,,Soyuz TM-18
+Soviet space program,Soyuz TM-16,Q1540599,9,1,2,expedition to the Russian Space Station Mir,,Q2705481|Q752783,,Soyuz TM-16
+Soviet space program,Viktor Afanasyev,Q471486,9,1,2,Soviet and Russian cosmonaut and military pilot,Viktor Mikhaylovich Afanasyev|Viktor Mikhailovich Afanasyev,Q5,,Viktor Afanasyev (cosmonaut)
+Soviet space program,Viktor Afanasyev,Q4072612,9,1,2,Wikimedia disambiguation page,,Q22808320,,Viktor Afanasyev
+Soviet space program,Viktor Afanasiev,Q12079734,9,1,2,Soviet theatrical director,Viktor Andreyevich Afanasyev|Viktor Andriiovych Afanasiev|Viktor Afanasyev,Q5,,
+Soviet space program,Viktor Afanasyev,Q3687376,9,1,2,Russian philosopher (1922–1994),Viktor Grigoryevich Afanasyev,Q5,,Viktor Afanasyev (politician)
+Soviet space program,Viktor Afanasyev,Q26818506,9,1,2,Russian conductor of military choir,Viktor Vasilyevich Afanasyev,Q5,,Viktor Afanasyev (military musician)
+Soviet space program,Viktor Afanasyev,Q20619073,9,1,2,,Viktor Fyodorovich Afanasyev,Q5,,
+Soviet space program,Viktor Afanasyev,Q4072616,9,1,2,,Viktor Mikhaylovich Afanasyev,Q5,,
+Soviet space program,Viktor Afanasyev,Q4072613,9,1,2,Russian poet,Viktor Vasilyevich Afanasyev,Q5,,
+Soviet space program,Viktor L. Afanasyev,Q109487886,9,1,2,Soviet and Russian astronomer (1947–2020),Viktor Afanasyev|Viktor Afanasy'ev|V. L. Afanasyev,Q5,,
+Soviet space program,Viktor Afanasyev,Q19571561,9,1,2,Russian football player,Viktor Viktorovich Afanasyev,Q5,,
+Viktor Afanasyev,Viktor Afanasyev,Q471486,9,3,1,Soviet and Russian cosmonaut and military pilot,Viktor Mikhaylovich Afanasyev|Viktor Mikhailovich Afanasyev,Q5,,Viktor Afanasyev (cosmonaut)
+Viktor Afanasyev,Viktor Afanasyev,Q4072612,9,3,1,Wikimedia disambiguation page,,Q22808320,,Viktor Afanasyev
+Viktor Afanasyev,Viktor Afanasiev,Q12079734,9,3,1,Soviet theatrical director,Viktor Andreyevich Afanasyev|Viktor Andriiovych Afanasiev|Viktor Afanasyev,Q5,,
+Viktor Afanasyev,Viktor Afanasyev,Q3687376,9,3,1,Russian philosopher (1922–1994),Viktor Grigoryevich Afanasyev,Q5,,Viktor Afanasyev (politician)
+Viktor Afanasyev,Viktor Afanasyev,Q26818506,9,3,1,Russian conductor of military choir,Viktor Vasilyevich Afanasyev,Q5,,Viktor Afanasyev (military musician)
+Viktor Afanasyev,Viktor Afanasyev,Q20619073,9,3,1,,Viktor Fyodorovich Afanasyev,Q5,,
+Viktor Afanasyev,Viktor Afanasyev,Q4072616,9,3,1,,Viktor Mikhaylovich Afanasyev,Q5,,
+Viktor Afanasyev,Viktor Afanasyev,Q4072613,9,3,1,Russian poet,Viktor Vasilyevich Afanasyev,Q5,,
+Viktor Afanasyev,Viktor L. Afanasyev,Q109487886,9,3,1,Soviet and Russian astronomer (1947–2020),Viktor Afanasyev|Viktor Afanasy'ev|V. L. Afanasyev,Q5,,
+Viktor Afanasyev,Viktor Afanasyev,Q19571561,9,3,1,Russian football player,Viktor Viktorovich Afanasyev,Q5,,
+Soyu TM-27,Soyuz spacecraft at Cité de l'Espace,Q124608837,10,0,2,,,Q579421,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,10,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,10,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,10,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,10,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,10,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Nikolai Budarin,Nikolai Budarin,Q641389,10,3,1,Russian cosmonaut,Nikolay Mikhaylovich Budarin|Nikolai Mikhailovich Budarin|Nikolay Budarin,Q5,,Nikolai Budarin
+Souz#TM-7,Soyuz TM-7,Q767583,11,0,2,1988 Soviet crewed spaceflight to Mir,,Q2705481,,Soyuz TM-7
+Soviet space program,Soviet space program,Q849730,11,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,Space Race,Q2006880,11,1,2,1973 arcade video game by Atari,,Q7889,,Space Race (video game)
+Soviet space program,space race,Q1932,11,1,2,competition to explore space between USA and USSR,,Q476300|Q180046,Q124516650,Space Race
+Soviet space program,Space Race,Q9079225,11,1,2,episode of Stargate SG-1 (S7 E8),,Q21191270,,Space Race (Stargate SG-1)
+Soviet space program,Space Race,Q7572467,11,1,2,album by Mi-Sex,,Q482994,,Space Race (album)
+Soviet space program,Space Race,Q114491068,11,1,2,episode of Steven Universe (S1 E28),,Q21191270,,
+Soviet space program,Space Race,Q114528716,11,1,2,episode of The Brothers Garcia (S3 E7),,Q21191270,,
+Soviet space program,Space Race,Q114459768,11,1,2,episode of Wacky Races (S1 E12),,Q21191270,,
+Soviet space program,Space Race,Q106622460,11,1,2,episode of Timeless (S1 E8),,Q21191270,,
+Soviet space program,Space Race,Q114537538,11,1,2,episode of Clarence (S2 E25),,Q21191270,,
+Soviet space program,Space Race,Q48789792,11,1,2,song by Mi-Sex,,Q105543609,,Space Race (Mi-Sex song)
+Soviet space program,Luna programme,Q192372,11,1,2,moon exploration programme by the Soviet Union,,,Q849730,Luna programme
+Soviet space program,Mars 3,Q718908,11,1,2,unmanned USSR spaceprobe,,Q26529|Q26540,,Mars 3
+Soviet space program,JRM-3 Mars,Q125963518,11,1,2,naval transport flying boat model by the Glenn L. Martin Company,Martin Utility Transport Design 1 Series 3|Mars 3|Martin Mars 3|Martin JRM-3 Mars|Mars|JRM-3|Glenn L. Martin Company Mars|Glenn L. Martin Company JRM-3,Q15056995,Q1501559,
+Soviet space program,Mars 3 Lander,Q112960263,11,1,2,"the Mars 3 descent module was to perform a soft landing on Mars, return images from the surface, and return data on meteorological conditions, atmospheric composition, and mechanical and chemical properties of the soil.",Mars3Lander,Q40218,,
+Soviet space program,Mars-32.140,Q90716155,11,1,2,"model of a fictitious ship, with approximative proportions, on display at the Museum of Fine Arts of Boston",,Q1457747,,
+Soviet space program,Mars 3 (Pauly-Wissowa),Q137810298,11,1,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Soviet space program,March 3032,Q100594616,11,1,2,month of the year 3032,3032-03,Q110|Q47018478,,
+Soviet space program,Soyuz programme,Q207329,11,1,2,crewed spaceflight programme of the Soviet Union,,Q13226541,,Soyuz programme
+Aleksandr Aleksandrovich Volkov,Aleksandr Aleksandrovich Volkov,Q446233,11,3,1,Soviet cosmonaut,,Q5,,Aleksandr Aleksandrovich Volkov
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q4123244,11,3,1,Russian linguist,Aleksandr Aleksandrovich Volkov|Alexander Volkov|Alexander Alexandrovich Volkov|A. A.  Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q4123236,11,3,1,,Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q20066321,11,3,1,,Aleksandr Aleksandrovich Volkov|Oleksandr Volkov|Oleksandr Oleksandrovych Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q929329,11,3,1,volleyball player from Russia,Alexander Volkov,Q5,,Aleksandr Volkov (volleyball)
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q4123243,11,3,1,Hero of the Russian Federation (1920–2010),Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Alexander Volkov,Q4123237,11,3,1,Russian priest,Aleksandr Volkov|Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q4123263,11,3,1,,Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q28357260,11,3,1,,Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q21637254,11,3,1,,Aleksandr Aleksandrovich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q18627376,11,3,2,Estonian footballer (born 1994),,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q106452255,11,3,2,cyclist,,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q4123245,11,3,2,(1736-1788),Alekandr Andreyevich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Alexander Nikolaevich Volkov,Q2642780,11,3,2,"avant-garde Russian painter and poet The most famous works: “The Pomegranate Teahouse”, “Caravan”, “Girls with Cotton”, “Persian”, “Spain”. (1886–1957)",Aleksandr Nikolayevich Volkov|Aleksandr Volkov|Aleksandr Nikolaevich Volkov|Aleksandr Nikolaevič Volkov|Aleksandr Nikolaevich Volkov (1886)|Alexander Nikolaïevitch Volkov|Aleksandr N. Volkov,Q5,,Alexander Nikolaevich Volkov
+Aleksandr Aleksandrovich Volkov,Oleksandr Volkov,Q4123252,11,3,2,Ukrainian politician,Aleksandr Mikhailovich Volkov|Oleksandr Mykhailovych Volkov|Aleksandr Volkov|Aleksandr Mikhaylovich Volkov,Q5,,Oleksandr Volkov (politician)
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q12090360,11,3,2,scientist,Aleksandr Vasilyevich Volkov|Oleksandr Volkov|Oleksandr Vasylovych Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q15206102,11,3,2,Russian scientist,Aleksandr Sergeyevich Volkov,Q5,,
+Aleksandr Aleksandrovich Volkov,Aleksandr Volkov,Q2832577,11,3,2,Russian athletics competitor,,Q5,,
+Soyuz M-23,Soyuz spacecraft at Cité de l'Espace,Q124608837,12,0,2,,,Q579421,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,12,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,12,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,12,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,12,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,12,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Yury Onufriyenko,Yury Onufriyenko,Q708489,12,3,1,Russian cosmonaut of Ukrainian origin,Yuri Ivanovich Onufriyenko|Yuri Onufrienko,Q5,,Yury Onufriyenko
+Soyz TM-24,Soyuz spacecraft at Cité de l'Espace,Q124608837,13,0,2,,,Q579421,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,13,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,13,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,13,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,13,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,13,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Valery Korzun,Valery Korzun,Q709634,13,3,1,Russian cosmonaut,Valery Grigoryevich Korzun,Q5,,Valery Korzun
+SoyuzTM-28,Soyuz spacecraft at Cité de l'Espace,Q124608837,14,0,2,,,Q579421,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,14,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,14,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,14,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,14,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,14,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Yuri Baturin,Yuri Baturin,Q520760,14,3,1,Russian politician and cosmonaut,Yury Mikhaylovich Baturin|Yuri Mikhailovich Baturin,Q5,,Yuri Baturin
+Soyu TM-16,Soyuz spacecraft at Cité de l'Espace,Q124608837,15,0,2,,,Q579421,,
+Roscosmos State Corporation,Roscosmos State Corporation,Q190795,15,1,1,space agency of Russia,FKA|Roscosmos State Corporation for Space Activities|Russian space agency|RAKA,Q14944295|Q270791|Q17505024,,Roscosmos
+Roscosmos State Corporation,Rosaviakosmos,Q3442298,15,1,1,government agency in Russia,,Q17505024|Q21814455,,
+Roscosmos State Corporation,Roscosmos Geoportal,Q4135725,15,1,2,website operated by Roscosmos,,Q35127,,
+Roscosmos State Corporation,Roscosmos Cosmonaut Corps,Q108907880,15,1,2,Russian space program organization,,Q43229|Q16334295,,Roscosmos Cosmonaut Corps
+Roscosmos State Corporation,Schepkina street 42 s1,Q117753839,15,1,2,building in Moscow,Roscosmos building,Q1021645,,
+Gennady Manakov,Gennady Manakov,Q956160,15,3,1,Soviet and Russian cosmonaut (1950-2019),Gennady Mikhailovich Manakov|Gennadi Manakov,Q5,,Gennady Manakov
+Souz TM-5,Soviet spacecraft call signs,Q7571793,16,0,2,unique radio designation for a spacecraft,,,,Spacecraft call signs
+Souz TM-5,TPM3,Q18032081,16,0,2,protein-coding gene in the species Homo sapiens,CAPM1|CFTD|HEL-189|HEL-S-82p|NEM1|OK/SW-cl.5|TM-5|TM3|TM30|TM30nm|TM5|TPMsk3|TRK|hscp30|Tropomyosin 3|TPM3nu,Q7187,Q20747295,Tropomyosin 3
+Souz TM-5,TM-57 mine,Q1783202,16,0,2,soviet anti-tank mine,,Q15142894,Q1481202,TM-57 mine
+Souz TM-5,TM-53,Q9353764,16,0,2,Soviet anti-tank mine,,Q15142894,Q828414,
+Souz TM-5,TM-56 mine,Q127795500,16,0,2,Soviet anti-tank mine,,Q15142894,Q828414,
+Souz TM-5,TM 5-241-1: Grids and Grid References,Q26868690,16,0,2,withdrawn military standard of the United States of America,Technical Manual 5-241-1,Q1057179,,
+Souz TM-5,"TM 5-9082 Sweeper, Rotary, Tractor Mounted, Power Take Off, Drive, Model K, Maintenance Manual And Parts List, 1943",Q137466465,16,0,2,British War Office document,,Q732577,,
+Souz TM-5,"TM 5-1078 Heater, Asphalt, Trailer-Mounted, 3-car, 42-HP, Cleaver-Brooks Model DS-31, Briggs & Stratton Engine, Model ZZ, 1944",Q137466459,16,0,2,British War Office document,,Q732577,,
+Souz TM-5,"TM 5-1050 Batching Plant, Aggregate, 3-Compartment, 105-ton (Blaw-Knox Model P 3105), 1942",Q137466458,16,0,2,British War Office document,,Q732577,,
+Souz TM-5,"TM 5-4020 Drill, Pneumatic, Rock, 55 Pound Class, With Drill Bits, And Drill Steel, Independent Pneumatic, Model, Thor, No. 75 : Maintenance Instructions And Parts Catalog, 1943",Q137466463,16,0,2,British War Office document,,Q732577,,
+Souz TM-5,"TM 5-2044 Pump, Centrifugal, Gasoline Engine Driven, Base Mounted, 2 Inch Discharge, 166 GPM At 25 Foot Head, Novo, Model KH 2, With Novo Model CA 33 Engine 1946",Q137466460,16,0,2,British War Office document,,Q732577,,
+Soviet space program,Soviet space program,Q849730,16,1,1,national space program of the Soviet Union,space program of the Soviet Union|Soviet space programme|Russian space flight,Q43229,Q60054001|Q5916,Soviet space program
+Soviet space program,TPM3,Q18032081,16,1,2,protein-coding gene in the species Homo sapiens,CAPM1|CFTD|HEL-189|HEL-S-82p|NEM1|OK/SW-cl.5|TM-5|TM3|TM30|TM30nm|TM5|TPMsk3|TRK|hscp30|Tropomyosin 3|TPM3nu,Q7187,Q20747295,Tropomyosin 3
+Soviet space program,TM-57 mine,Q1783202,16,1,2,soviet anti-tank mine,,Q15142894,Q1481202,TM-57 mine
+Soviet space program,TM-53,Q9353764,16,1,2,Soviet anti-tank mine,,Q15142894,Q828414,
+Soviet space program,TM-56 mine,Q127795500,16,1,2,Soviet anti-tank mine,,Q15142894,Q828414,
+Soviet space program,TM 5-241-1: Grids and Grid References,Q26868690,16,1,2,withdrawn military standard of the United States of America,Technical Manual 5-241-1,Q1057179,,
+Soviet space program,"TM 5-9082 Sweeper, Rotary, Tractor Mounted, Power Take Off, Drive, Model K, Maintenance Manual And Parts List, 1943",Q137466465,16,1,2,British War Office document,,Q732577,,
+Soviet space program,"TM 5-1078 Heater, Asphalt, Trailer-Mounted, 3-car, 42-HP, Cleaver-Brooks Model DS-31, Briggs & Stratton Engine, Model ZZ, 1944",Q137466459,16,1,2,British War Office document,,Q732577,,
+Soviet space program,"TM 5-1050 Batching Plant, Aggregate, 3-Compartment, 105-ton (Blaw-Knox Model P 3105), 1942",Q137466458,16,1,2,British War Office document,,Q732577,,
+Soviet space program,"TM 5-4020 Drill, Pneumatic, Rock, 55 Pound Class, With Drill Bits, And Drill Steel, Independent Pneumatic, Model, Thor, No. 75 : Maintenance Instructions And Parts Catalog, 1943",Q137466463,16,1,2,British War Office document,,Q732577,,
+Soviet space program,"TM 5-2044 Pump, Centrifugal, Gasoline Engine Driven, Base Mounted, 2 Inch Discharge, 166 GPM At 25 Foot Head, Novo, Model KH 2, With Novo Model CA 33 Engine 1946",Q137466460,16,1,2,British War Office document,,Q732577,,
+Soviet space program,Vladimir Lyakhov,Q449577,16,1,2,Soviet cosmonaut (1941–2018),Vladimir Afanasyevich Lyakhov,Q5,,Vladimir Lyakhov
+Soviet space program,Vladimir Lyakhov,Q48954805,16,1,2,Soviet Russian actor (1919-1990),Vladimir Ivanovich Lyakhov,Q5,,
+Soviet space program,Vladimir Lyakhov,Q19619049,16,1,2,Soviet athletics competitor (1937-),,Q5,,
+Soviet space program,Vladimir Lyakhov,Q20742437,16,1,2,,Vladimir Stepanovich Lyakhov,Q5,,
+Soviet space program,Vladimir Lyakhovitsky,Q4272806,16,1,2,German actor (1925–2002),,Q5,,
+Soviet space program,Vladimir Lyakhovsky,Q80967485,16,1,2,researcher,V Lyakhovsky,Q5,,
+Soviet space program,Vladimir Lyakhovetsky,Q12119478,16,1,2,Soviet assistant film director and director doc. cinema,,Q5,,
+Soviet space program,Vladimir Liakhov,Q3561811,16,1,2,Wikimedia disambiguation page,Wladimir Ljachow,Q22808320,,
+Vladimir Lyakhov,Vladimir Lyakhov,Q449577,16,3,1,Soviet cosmonaut (1941–2018),Vladimir Afanasyevich Lyakhov,Q5,,Vladimir Lyakhov
+Vladimir Lyakhov,Vladimir Lyakhov,Q48954805,16,3,1,Soviet Russian actor (1919-1990),Vladimir Ivanovich Lyakhov,Q5,,
+Vladimir Lyakhov,Vladimir Lyakhov,Q19619049,16,3,1,Soviet athletics competitor (1937-),,Q5,,
+Vladimir Lyakhov,Vladimir Lyakhov,Q20742437,16,3,1,,Vladimir Stepanovich Lyakhov,Q5,,
+Vladimir Lyakhov,Vladimir Lyakhovitsky,Q4272806,16,3,1,German actor (1925–2002),,Q5,,
+Vladimir Lyakhov,Vladimir Lyakhovsky,Q80967485,16,3,1,researcher,V Lyakhovsky,Q5,,
+Vladimir Lyakhov,Vladimir Lyakhovetsky,Q12119478,16,3,1,Soviet assistant film director and director doc. cinema,,Q5,,
+Vladimir Lyakhov,Vladimir Liakhov,Q3561811,16,3,1,Wikimedia disambiguation page,Wladimir Ljachow,Q22808320,,

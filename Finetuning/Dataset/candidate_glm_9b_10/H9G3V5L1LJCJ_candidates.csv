@@ -1,0 +1,54 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2006fi,SN 2006fi,Q9329880,0,0,1,supernova,,Q3937,,
+SN 2006fg,SN 2006fg,Q9329878,1,0,1,supernova,,Q3937,,
+SN 2006ff,SN 2006ff,Q9329877,2,0,1,supernova,,Q3937,,
+SN 2006fe,SN 2006fe,Q9329876,3,0,1,supernova,,Q3937|Q67206691,,
+SN 2006fd,SN 2006fd,Q9329875,4,0,1,supernova,,Q3937,,
+SN 2006fd,SN 2006gy,Q644956,4,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006fd,SN 2006X,Q2659966,4,0,2,supernova,,Q3937,,SN 2006X
+SN 2006fd,SN 2006jc,Q1747732,4,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006fd,SN 2006rs,Q9330210,4,0,2,supernova,,Q3937,,
+SN 2006fd,SN 2006td,Q9330246,4,0,2,supernova,,Q3937,,
+SN 2006fd,SDSS J210958.97+002431.0,Q81033246,4,0,2,galaxy,,Q318|Q3937,,
+SN 2006fd,SN 2006dm,Q4048834,4,0,2,supernova,,Q3937,,
+SN 2006fd,SN 2006at,Q9329760,4,0,2,supernova,,Q3937,,
+SN 2006fd,GRB 060218,Q897401,4,0,2,gamma-ray burst in the constellation Aries,SN 2006aj,Q22247,,GRB 060218
+SN 2006fd,SN 2006bp,Q775198,4,0,2,supernova,,Q3937,,
+SN 2006fc,SN 2006fc,Q9329874,5,0,1,supernova,,Q3937,,
+SN 2006fb,SN 2006fb,Q9329873,6,0,1,supernova,,Q3937,,
+SN 2006fa,SN 2006fa,Q9329872,7,0,1,supernova,,Q3937,,
+SN 2006ez,SN 2006ez,Q9329871,8,0,1,supernova,,Q3937,,
+SN 2006ey,SN 2006ey,Q9329870,9,0,1,supernova,,Q3937|Q67206691,,
+SN 2006ex,SN 2006ex,Q9329869,10,0,1,supernova,,Q3937,,
+SN 2006ew,SN 2006ew,Q9329868,11,0,1,supernova,,Q3937,,
+SN 2006ev,SN 2006ev,Q9329867,12,0,1,supernova,,Q3937,,
+SN 2006eu,SN 2006eu,Q9329865,13,0,1,supernova,,Q3937,,
+SN 2006es,SN 2006es,Q9329864,14,0,1,supernova,,Q3937,,
+SN 2006es,SN 2006E,Q9329721,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006ek,Q9329856,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006ev,Q9329867,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006ei,Q9329853,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006eu,Q9329865,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006ep,Q9329861,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006eh,Q9329854,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006ee,Q9329850,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006el,Q11835579,14,0,2,supernova,,Q3937,,
+SN 2006es,SN 2006em,Q9329857,14,0,2,supernova,,Q3937,,
+SN 2006er,SN 2006er,Q9329863,15,0,1,supernova,,Q3937|Q67206691,,
+SN 2006er,supernova,Q3937,15,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2006er,Senegal,Q1041,15,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2006er,substantia nigra,Q753278,15,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2006er,tin,Q1096,15,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2006er,Great Norwegian Encyclopedia,Q746368,15,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2006er,snowboarding,Q178131,15,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2006er,SNAC,Q29861311,15,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2006er,Science News,Q2313730,15,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2006er,Shona Wikipedia,Q8571809,15,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2006er,SciGraph,Q65509402,15,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2006eq,SN 2006eq,Q9329862,16,0,1,supernova,,Q3937,,
+SN 2006ep,SN 2006ep,Q9329861,17,0,1,supernova,,Q3937,,
+SN 2006em,SN 2006em,Q9329857,18,0,1,supernova,,Q3937,,
+SN 2006ej,SN 2006ej,Q9329855,19,0,1,supernova,,Q3937,,
+SN 2006ef,SN 2006ef,Q9329852,20,0,1,supernova,,Q3937,,
+SN 2006eb,SN 2006eb,Q9329848,21,0,1,supernova,,Q3937,,
+SN 2006dv,SN 2006dv,Q9329844,22,0,1,supernova,,Q3937,,

@@ -1,0 +1,80 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Val-d'Or,Val-d'Or,Q141937,0,0,1,"city in Québec, Canada","Val-d'Or, Quebec|Val-d'Or, QC",Q27676416,,Val-d'Or
+Val-d'Or,Saint-Priest,Q24126,0,0,1,"commune in Ardèche, France","Saint-Priest, Ardèche|Saint-Priest, Ardeche|Saint-Priest, France|Val-d'Or",Q484170,,"Saint-Priest, Ardèche"
+Val-d'Or,Cesancey,Q1142164,0,0,1,"commune in Jura, France",Val-d'Or,Q484170,,Cesancey
+Val-d'Or,Val-d'Oronaye,Q21979939,0,0,1,"commune in Alpes-de-Haute-Provence, France",Vau d'Oronaia,Q484170,,Val-d'Oronaye
+Val-d'Or,Val-d'Ornain,Q1333196,0,0,1,"commune in Meuse, France",,Q484170,,Val-d'Ornain
+Val-d'Or,Val d'Orger,Q26276607,0,0,1,commune in Eure,,Q484170,,Val d'Orger
+Val-d'Or,Val d'Orcia,Q217449,0,0,1,valley and cultural landscape in central Italy; a World Heritage site,,Q39816|Q1129474,,Val d'Orcia
+Val-d'Or,Val d'Or,Q7909175,0,0,1,French racehorse,,Q726,,Val d'Or (horse)
+Val-d'Or,Val d'Or,Q100360659,0,0,1,"street in Sainte-Anne, Martinique",,Q79007,,
+Val-d'Or,Val-d'Or,Q61022453,0,0,1,"Meteorological Service of Canada's station for Val-d'Or (MSC ID: 7098603), Québec, Canada",,Q190107,,
+Val-d'Or,Rouyn-Noranda,Q141804,0,0,2,"town and equivalent territory in Abitibi-Témiscamingue, Quebec, Canada","Rouyn-Noranda, Quebec|Rouyn-Noranda, QC",Q27676416|Q3518817|Q104782082,,Rouyn-Noranda
+Val-d'Or,Rouyn-Noranda–Témiscamingue,Q3445512,0,0,2,"provincial electoral district in Quebec, Canada",,Q2973931,,Rouyn-Noranda–Témiscamingue
+Val-d'Or,Rouyn-Noranda,Q7371647,0,0,2,"regional county municipality in Quebec, Canada",Rouyn-Noranda Regional County Municipality,Q204613,,Rouyn-Noranda Regional County Municipality
+Val-d'Or,Rouyn-Noranda,Q3445513,0,0,2,"former provincial electoral district in Quebec, Canada",,Q2973931,,Rouyn-Noranda (electoral district)
+Val-d'Or,Rouyn-Noranda,Q113068536,0,0,2,"post office in Rouyn-Noranda, Quebec, Canada",,Q35054,,
+Val-d'Or,Rouyn-Noranda Huskies,Q689922,0,0,2,QMJHL ice hockey team,,Q4498974,,Rouyn-Noranda Huskies
+Val-d'Or,Rouyn-Noranda Airport,Q2875908,0,0,2,"airport located in Quebec, Canada",YUY|CYUY,Q1248784|Q94993988,,Rouyn-Noranda Airport
+Val-d'Or,Rouyn-Noranda Public Library,Q88477358,0,0,2,public library in Rouyn-Noranda,,Q7075|Q2326815|Q28564,,
+Val-d'Or,Rouyn-Noranda Armoury,Q40157627,0,0,2,armoury in Rouyn-Noranda,,Q5307555,,
+Val-d'Or,Rouyn-Noranda Synagogue,Q3508080,0,0,2,"synagogue in Quebec, Canada",,Q34627,,Rouyn-Noranda Synagogue
+Val-d'Or,Agnico Eagle Mines,Q38676,0,0,2,Canadian gold producer,Agnico Eagle Mines Limited,Q4830453|Q6881511|Q891723,,Agnico Eagle
+Rouyn-Noranda,Rouyn-Noranda,Q141804,0,1,1,"town and equivalent territory in Abitibi-Témiscamingue, Quebec, Canada","Rouyn-Noranda, Quebec|Rouyn-Noranda, QC",Q27676416|Q3518817|Q104782082,,Rouyn-Noranda
+Rouyn-Noranda,Rouyn-Noranda–Témiscamingue,Q3445512,0,1,1,"provincial electoral district in Quebec, Canada",,Q2973931,,Rouyn-Noranda–Témiscamingue
+Rouyn-Noranda,Rouyn-Noranda,Q7371647,0,1,1,"regional county municipality in Quebec, Canada",Rouyn-Noranda Regional County Municipality,Q204613,,Rouyn-Noranda Regional County Municipality
+Rouyn-Noranda,Rouyn-Noranda,Q3445513,0,1,1,"former provincial electoral district in Quebec, Canada",,Q2973931,,Rouyn-Noranda (electoral district)
+Rouyn-Noranda,Rouyn-Noranda,Q113068536,0,1,1,"post office in Rouyn-Noranda, Quebec, Canada",,Q35054,,
+Rouyn-Noranda,Rouyn-Noranda Huskies,Q689922,0,1,1,QMJHL ice hockey team,,Q4498974,,Rouyn-Noranda Huskies
+Rouyn-Noranda,Rouyn-Noranda Airport,Q2875908,0,1,1,"airport located in Quebec, Canada",YUY|CYUY,Q1248784|Q94993988,,Rouyn-Noranda Airport
+Rouyn-Noranda,Rouyn-Noranda Public Library,Q88477358,0,1,1,public library in Rouyn-Noranda,,Q7075|Q2326815|Q28564,,
+Rouyn-Noranda,Rouyn-Noranda Armoury,Q40157627,0,1,1,armoury in Rouyn-Noranda,,Q5307555,,
+Rouyn-Noranda,Rouyn-Noranda Synagogue,Q3508080,0,1,1,"synagogue in Quebec, Canada",,Q34627,,Rouyn-Noranda Synagogue
+Rouyn-Noranda,Val-d'Or,Q141937,0,1,2,"city in Québec, Canada","Val-d'Or, Quebec|Val-d'Or, QC",Q27676416,,Val-d'Or
+Rouyn-Noranda,Saint-Priest,Q24126,0,1,2,"commune in Ardèche, France","Saint-Priest, Ardèche|Saint-Priest, Ardeche|Saint-Priest, France|Val-d'Or",Q484170,,"Saint-Priest, Ardèche"
+Rouyn-Noranda,Cesancey,Q1142164,0,1,2,"commune in Jura, France",Val-d'Or,Q484170,,Cesancey
+Rouyn-Noranda,Val-d'Oronaye,Q21979939,0,1,2,"commune in Alpes-de-Haute-Provence, France",Vau d'Oronaia,Q484170,,Val-d'Oronaye
+Rouyn-Noranda,Val-d'Ornain,Q1333196,0,1,2,"commune in Meuse, France",,Q484170,,Val-d'Ornain
+Rouyn-Noranda,Val d'Orger,Q26276607,0,1,2,commune in Eure,,Q484170,,Val d'Orger
+Rouyn-Noranda,Val d'Orcia,Q217449,0,1,2,valley and cultural landscape in central Italy; a World Heritage site,,Q39816|Q1129474,,Val d'Orcia
+Rouyn-Noranda,Val d'Or,Q7909175,0,1,2,French racehorse,,Q726,,Val d'Or (horse)
+Rouyn-Noranda,Val d'Or,Q100360659,0,1,2,"street in Sainte-Anne, Martinique",,Q79007,,
+Rouyn-Noranda,Val-d'Or,Q61022453,0,1,2,"Meteorological Service of Canada's station for Val-d'Or (MSC ID: 7098603), Québec, Canada",,Q190107,,
+Rouyn-Noranda,Agnico Eagle Mines,Q38676,0,1,2,Canadian gold producer,Agnico Eagle Mines Limited,Q4830453|Q6881511|Q891723,,Agnico Eagle
+Centre Agnico Eagle,Centre Agnico Eagle,Q489090,0,2,1,"architectural structure in Val-d'Or (Quebec, Canada)",Centre Air Creebec|Palais des sports,Q811979,,Centre Agnico Eagle
+Centre Agnico Eagle,Agnico Eagle Mines,Q38676,0,2,2,Canadian gold producer,Agnico Eagle Mines Limited,Q4830453|Q6881511|Q891723,,Agnico Eagle
+Saint-Georges,Saint-Georges,Q143227,1,0,1,"town in Québec, Canada","Saint-Georges, Quebec",Q27676416,,"Saint-Georges, Quebec"
+Saint-Georges,Saint-Georges,Q808590,1,0,1,"commune in Cantal, France",,Q484170,,"Saint-Georges, Cantal"
+Saint-Georges,Saint-Georges,Q1022735,1,0,1,"commune in Pas-de-Calais, France",Georges-lès-Hesdin|Georges-sur-Canche,Q484170,,"Saint-Georges, Pas-de-Calais"
+Saint-Georges,Saint-Georges,Q22329,1,0,1,"commune in Moselle, France",,Q484170,,"Saint-Georges, Moselle"
+Saint-Georges,Saint-Georges,Q731606,1,0,1,"commune in Guyane, France",Saint-Georges-de-l'Oyapock,Q484170|Q902814|Q486972,,"Saint-Georges, French Guiana"
+Saint-Georges,Saint-Georges,Q780504,1,0,1,"commune in Gers, France",,Q484170,,"Saint-Georges, Gers"
+Saint-Georges,Saint-Georges,Q614813,1,0,1,"commune in Lot-et-Garonne, France",,Q484170,,"Saint-Georges, Lot-et-Garonne"
+Saint-Georges,Saint-Georges,Q1602618,1,0,1,"commune in Charente, France",,Q484170,,"Saint-Georges, Charente"
+Saint-Georges,Saint-Georges,Q595166,1,0,1,"commune in Tarn-et-Garonne, France",,Q484170,,"Saint-Georges, Tarn-et-Garonne"
+Saint-Georges,Saint-Georges,Q64786755,1,0,1,family name,,Q106319018|Q66480858,,
+Saint-Georges,Saint-Georges Cool FM 103.5,Q965292,1,0,2,"professional hockey team based in Saint-Georges, Quebec, Canada",,Q4498974,,Saint-Georges Cool FM 103.5
+Beauceville,Beauceville,Q139422,1,1,1,"town in Quebec, Canada","Beauceville, Quebec|Beauceville, QC",Q27676416,,Beauceville
+Beauceville,Beauceville,Q61021730,1,1,1,"Meteorological Service of Canada's station for Beauceville (MSC ID: 7028754), Québec, Canada",,Q190107,,
+Beauceville,Beauceville,Q61021434,1,1,1,"Meteorological Service of Canada's station for Beauceville (MSC ID: 7020560), Québec, Canada",,Q190107,,
+Beauceville,Beauceville-Est substation,Q113995988,1,1,1,"distribution substation in Beauceville, Quebec",,Q478986,,
+Beauceville,Beauceville Telephone Exchange,Q113488713,1,1,1,,,Q256132,,
+Beauceville,Beauceville-Est,Q48753866,1,1,1,"human settlement in Beauceville, Quebec, Canada",,Q28203007|Q27676416,,
+Beauceville,Beauceville substation,Q113938373,1,1,1,"transmission substation located in Beauceville, Quebec",,Q174814,,
+Beauceville,Beauceville-Est,Q113067690,1,1,1,"post office in Beauceville, Quebec, Canada",,Q35054,,
+Beauceville,Beauceville Armoury,Q114106882,1,1,1,"armoury in Beauceville, Quebec",,Q5307555,,
+Beauceville,Beauceville-Ouest,Q113067691,1,1,1,"post office in Beauceville, Quebec, Canada",,Q35054,,
+Beauceville,Saint-Georges,Q143227,1,1,2,"town in Québec, Canada","Saint-Georges, Quebec",Q27676416,,"Saint-Georges, Quebec"
+Beauceville,Saint-Georges,Q808590,1,1,2,"commune in Cantal, France",,Q484170,,"Saint-Georges, Cantal"
+Beauceville,Saint-Georges,Q1022735,1,1,2,"commune in Pas-de-Calais, France",Georges-lès-Hesdin|Georges-sur-Canche,Q484170,,"Saint-Georges, Pas-de-Calais"
+Beauceville,Saint-Georges,Q22329,1,1,2,"commune in Moselle, France",,Q484170,,"Saint-Georges, Moselle"
+Beauceville,Saint-Georges,Q731606,1,1,2,"commune in Guyane, France",Saint-Georges-de-l'Oyapock,Q484170|Q902814|Q486972,,"Saint-Georges, French Guiana"
+Beauceville,Saint-Georges,Q780504,1,1,2,"commune in Gers, France",,Q484170,,"Saint-Georges, Gers"
+Beauceville,Saint-Georges,Q614813,1,1,2,"commune in Lot-et-Garonne, France",,Q484170,,"Saint-Georges, Lot-et-Garonne"
+Beauceville,Saint-Georges,Q1602618,1,1,2,"commune in Charente, France",,Q484170,,"Saint-Georges, Charente"
+Beauceville,Saint-Georges,Q595166,1,1,2,"commune in Tarn-et-Garonne, France",,Q484170,,"Saint-Georges, Tarn-et-Garonne"
+Beauceville,Saint-Georges,Q64786755,1,1,2,family name,,Q106319018|Q66480858,,
+Beauceville,Centre Sportif Lacroix-Dutil,Q2944834,1,1,2,"sports complex in Saint-Georges, Quebec, Canada",,Q41176|Q7579839,,Centre Sportif Lacroix-Dutil
+Beauceville,Glace Canam,Q124673656,1,1,2,"arena inside Centre sportif Lacroix-Dutil in Saint-Georges, Quebec, Canada",,Q18674739|Q641226,,
+Centre Sportif Lacroix-Dutil,Centre Sportif Lacroix-Dutil,Q2944834,1,2,1,"sports complex in Saint-Georges, Quebec, Canada",,Q41176|Q7579839,,Centre Sportif Lacroix-Dutil
+Centre Sportif Lacroix-Dutil,Glace Canam,Q124673656,1,2,1,"arena inside Centre sportif Lacroix-Dutil in Saint-Georges, Quebec, Canada",,Q18674739|Q641226,,

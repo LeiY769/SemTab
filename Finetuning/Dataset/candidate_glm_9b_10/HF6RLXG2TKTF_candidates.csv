@@ -1,0 +1,161 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Eduard Spörri Museum,Eduard Spörri Museum,Q27489812,0,0,1,"museum in Wettingen (AG), Switzerland",,Q207694|Q1497649,,
+Wettingen,Wettingen,Q27576,0,1,1,municipality in the canton of Aargau in Switzerland,Wettingen AG,Q70208|Q54935504,,Wettingen
+Wettingen,Wettingen,Q18632826,0,1,1,"quarter of Nerenstetten, Baden-Württemberg, Germany",,Q253019,,
+Wettingen,Wettingen,Q22601617,0,1,1,Switzerland,,Q486972,,
+Wettingen,Wettingen railway station,Q801598,0,1,1,railway station in Switzerland,,Q55488,,Wettingen railway station
+Wettingen,Territorial Abbey of Wettingen-Mehrerau,Q674141,0,1,1,Catholic territorial abbey Immediately Subject to the Holy See in Austria,Abbatia Territorialis Maris Stellae|Abbacy Nullius of Wettingen-Mehrerau|abad de Wettingen y prior de Mehrerau|Abbey of Wettingen-Mehrerau|Wettingen-Mehrerau Abbey,Q1778235|Q2665272,,Territorial Abbey of Wettingen-Mehrerau
+Wettingen,Wettingen–Effretikon railway line,Q803462,0,1,1,railway line in Switzerland,,Q728937,,Wettingen–Effretikon railway line
+Wettingen,Wettingen spinning mill,Q22672040,0,1,1,historical industrial ensemble,Spinnerei Wettingen,Q3973051|Q19984037,,
+Wettingen,Wettingen Reservoir,Q659676,0,1,1,reservoir in Switzerland,,Q131681,,
+Wettingen,Wettringen,Q182510,0,1,1,"municipality of North Rhine-Westphalia, Germany",,Q116457956,,Wettringen (Münsterland)
+Wettingen,Abbey of Mehrerau,Q125077852,0,1,1,"Cistercian monastery in Bregenz, Austria",Abbey of Wettingen-Mehrerau|Wettingen-Mehrerau Abbey|Abtei Wettingen‑Mehrerau,Q160742|Q91315817|Q98094402,,
+Wettingen,Eduard Spörri Museum,Q27489812,0,1,2,"museum in Wettingen (AG), Switzerland",,Q207694|Q1497649,,
+Stadtarchiv Zug,Stadtarchiv Zug,Q27490192,1,0,1,municipal archive in Zug (Switzerland),,Q604177|Q1497649,,
+Stadtarchiv Zug,city archive of Grenchen,Q21091694,1,0,2,"municipal archives in Grenchen in the canton of Solothurn, Switzerland",Stadtarchiv|city archive Grenchen,Q166118|Q604177|Q1497649,,
+Stadtarchiv Zug,Stadtarchiv Witten,Q2326582,1,0,2,municipal archive in Germany,,Q604177,,
+Stadtarchiv Zug,Stadtarchiv,Q115682460,1,0,2,"building in Bamberg, Germany",,Q41176,,
+Stadtarchiv Zug,Stadtarchiv Münster,Q28720244,1,0,2,"city archives in Münster, North Rhine-Westphalia, Germany",,Q604177,,
+Stadtarchiv Zug,Stadtarchiv Magdeburg,Q28720027,1,0,2,"city archives in Magdeburg, Saxony-Anhalt, Germany",,Q604177,,
+Stadtarchiv Zug,Stadtarchiv Lauf,Q28720360,1,0,2,"city archives in Lauf an der Pegnitz, Bavaria, Germany",Lauf an der Pegnitz municipal archive,Q604177,,
+Stadtarchiv Zug,Stadtarchiv Hameln,Q28720280,1,0,2,"city archives in Hameln, Lower Saxony, Germany",,Q604177,,
+Stadtarchiv Zug,Stadtarchiv Wertheim,Q95370589,1,0,2,archive in Germany,,Q604177,,
+Stadtarchiv Zug,Stadtarchiv Waldsassen,Q28719985,1,0,2,"city archives in Waldsassen, Bavaria, Germany",,Q604177|Q118281267,,
+Stadtarchiv Zug,Stadtarchiv Tirschenreuth,Q28719890,1,0,2,"city archives in Tirschenreuth, Bavaria, Germany",,Q604177|Q118281267,,
+Zug,Zug,Q68144,1,1,1,"capital of the canton of Zug, Switzerland","Zug, ZG",Q70208|Q515|Q14770218|Q54935504,,Zug
+Zug,Zug,Q16818836,1,1,1,family name,Zug (surname),Q101352,,Zug (surname)
+Zug,Canton of Zug,Q11933,1,1,1,canton of Switzerland,ZG|Kanton Zug|Zug Canton,Q23058,,Canton of Zug
+Zug,Zugló,Q228445,1,1,1,district in Budapest,Lerchenfeld|Budapest district XIV,Q851110,,Zugló
+Zug,Zug,Q131824717,1,1,1,"village in the municipality of Lech, Vorarlberg, Austria",,Q134514235,,
+Zug,Zug,Q3100850,1,1,1,municipality and town in Western Sahara,Zoug|Zuk|Az Zuk,Q15284|Q3957,,"Zug, Western Sahara"
+Zug,Hsinchu City,Q249994,1,1,1,city in northern Taiwan,Sin-tek City|Sîn-tsuk City|Tik-tshàm|Zug-qiam|Chuchien|Jhucian|Zhuqian|Sîn-chuk City|Sin-zhug City|Xin-zug City|Shinchiku,Q83020,,Hsinchu
+Zug,Zug railway station,Q178444,1,1,1,railway station in Switzerland,,Q55488|Q55677|Q55485,,Zug railway station
+Zug,Journal of Business History,Q186753,1,1,1,academic journal,ZUG|Zeitschrift fuer Unternehmensgeschichte,Q1002697,,
+Zug,Lake Zug,Q14436,1,1,1,lake in Switzerland,Zugersee,Q23397|Q14811181,,Lake Zug
+Zug,Stadtarchiv Zug,Q27490192,1,1,2,municipal archive in Zug (Switzerland),,Q604177|Q1497649,,
+Baugeschichtliches Archiv Zürich,Baugeschichtliches Archiv Zürich,Q27490205,2,0,1,special archive in Zurich (Switzerland),,Q27030941|Q1497649|Q27031009|Q27032363|Q604177,,
+Baugeschichtliches Archiv Zürich,archives,Q166118,2,0,2,agency or institution responsible for the preservation and communication of records selected for permanent preservation,archival agency|archive (institutions)|archivability|archive (collections)|archive,Q17197366|Q117023459,Q1030034|Q43229|Q2668072,Archive
+Baugeschichtliches Archiv Zürich,Archives of Natural History,Q4787299,2,0,2,academic journal,,Q5633421|Q73364223|Q737498,,Archives of Natural History
+Baugeschichtliches Archiv Zürich,National Archives Building,Q6970416,2,0,2,"building on Pennsylvania Avenue NW, Washington, D.C., which serves as the public records depository for the United States",Archives I|Archives of the United States of America|National Archival Vault,Q635719,,National Archives Building
+Baugeschichtliches Archiv Zürich,item,Q11723795,2,0,2,unit of measure in archival science,archive item,Q59211454,Q3052382|Q9388534|Q4406616,
+Baugeschichtliches Archiv Zürich,Internet Archive,Q461,2,0,2,U.S. non-profit organization and digital archive,,Q163740|Q212805|Q30047053|Q3269648,,Internet Archive
+Baugeschichtliches Archiv Zürich,National Archives at College Park,Q38945047,2,0,2,"major facility of the United States National Archives and Record Administration (NARA) in College Park, Maryland",Archives II|US National Archives II|National Archives II|Archives at College Park|NARA College Park,Q2122214|Q635719,,National Archives at College Park
+Baugeschichtliches Archiv Zürich,Archiv fur Kinderheilkunde,Q27709145,2,0,2,journal,Arch Kinderheilkd,Q5633421,,
+Baugeschichtliches Archiv Zürich,fonds,Q3052382,2,0,2,"aggregation of records, documents, or works originating from the same creator",archival fonds,Q59211454,Q56648173,Fonds
+Baugeschichtliches Archiv Zürich,National Collective Archive of Periodicals,Q3600584,2,0,2,website of the Italian catalogue of periodicals,Archivio collettivo nazionale dei periodici|ACNP,Q2352616|Q526334|Q166118|Q7094076,,
+Baugeschichtliches Archiv Zürich,Archives of Biochemistry and Biophysics,Q635818,2,0,2,scientific journal,Arch Biochem Biophys|Arch. Biochem. Biophys.,Q5633421,,Archives of Biochemistry and Biophysics
+Baugeschichtliches Archiv Zürich,Zurich,Q72,2,0,2,most populous city in Switzerland and capital of the canton of Zurich,"City of Zurich|Stadt Zürich|Zurich, Switzerland|Zürich",Q70208|Q54935504|Q14770218|Q1187811|Q51929311|Q1549591,,Zurich
+Baugeschichtliches Archiv Zürich,Canton of Zurich,Q11943,2,0,2,canton in Switzerland,ZH|Canton Zurich|Zurich,Q23058,,Canton of Zurich
+Baugeschichtliches Archiv Zürich,Zurich Insurance Group,Q230426,2,0,2,Swiss insurance company,Zurich Insurance Group Ltd.|Zurich Life,Q4830453|Q219577|Q730038|Q891723|Q2143354,,Zurich Insurance Group
+Baugeschichtliches Archiv Zürich,Zurich Film Festival,Q230408,2,0,2,film festival,ZFF,Q220505,,Zurich Film Festival
+Baugeschichtliches Archiv Zürich,Schauspielhaus Zürich,Q40313234,2,0,2,theatre production company in Zurich (Switzerland),Schauspielhaus Zurich|Schauspielhaus|Zurich Playhouse,Q11396960|Q11812394,,Schauspielhaus Zürich
+Baugeschichtliches Archiv Zürich,Kunsthaus Zürich,Q685038,2,0,2,"art museum in Zürich, Switzerland",Kunsthaus di Zurigo|Zurich. Kunsthaus|Kunsthaus Zurich|Art House Zürich,Q207694|Q1497649,,Kunsthaus Zürich
+Baugeschichtliches Archiv Zürich,Zurich District,Q660732,2,0,2,"district in the canton of Zurich, Switzerland",Bezirk Zürich|Zurich,Q15644465,,Zurich District
+Baugeschichtliches Archiv Zürich,Zurich,Q230406,2,0,2,"village in Súdwest-Fryslân, Netherlands","Surch|Zurich, Netherlands",Q532|Q1852859,,"Zurich, Netherlands"
+Baugeschichtliches Archiv Zürich,13025 Zürich,Q2269690,2,0,2,asteroid,Zürich,Q3863,,13025 Zürich
+Baugeschichtliches Archiv Zürich,Zentralbibliothek Zürich,Q190260,2,0,2,Zürich Central Library,Zentralbibliothek Zurich|Zürich Central Library|Central Library of Zurich|zb.uzh.ch,Q1622062|Q678405|Q856234|Q2326815|Q33506|Q1497649,,Zentralbibliothek Zürich
+Kreis 1,Stadt,Q2326384,2,1,1,"city district of Winterthur in the canton of Zürich, Switzerland",Kreis 1 (Winterthur),Q64340309|Q123705,,Stadt (Winterthur)
+Kreis 1,District 1,Q445559,2,1,1,"district 1 in the city of Zürich, Switzerland",Kreis 1 (Zürich)|city district #1 (Zürich)|Altstadt,Q685309|Q19644409|Q676050|Q15042037,,Altstadt (Zurich)
+Kreis 1,District 10,Q456175,2,1,1,"district in Zurich, Switzerland",Kreis 10 (Zürich)|city district #10 (Zürich),Q19644409|Q192611|Q123705,,District 10 (Zurich)
+Kreis 1,District 12,Q657525,2,1,1,"district in the city of Zurich, Switzerland",Kreis 12 (Zürich)|city district #12 (Zürich)|Schwamendingen,Q685309|Q19644409|Q192611|Q123705,,Schwamendingen
+Kreis 1,District 11,Q870098,2,1,1,"district in Zürich, Switzerland",Kreis 11 (Zürich)|city district #11 (Zürich),Q19644409|Q192611|Q123705,,District 11 (Zurich)
+Kreis 1,Kreis 1,Q1787173,2,1,1,Wikimedia disambiguation page,,Q4167410,,
+Cantonal and University Library of Fribourg (collection),Cantonal and University Library of Fribourg (collection),Q29479079,3,0,1,"library in the city of Fribourg, Switzerland",,Q1497649|Q7075|Q856592,,
+Cantonal and University Library of Fribourg (collection),Cantonal and University Library of Fribourg,Q136702267,3,0,2,Library (institution) located in Fribourg.,,Q678405|Q1622062|Q856234|Q1497649|Q166118,,Cantonal and University Library of Fribourg
+Cantonal and University Library of Fribourg (collection),Cantonal and University Library of Fribourg (building),Q1728085,3,0,2,"Historic building of the library in Canton of Fribourg, Switzerland",BCU Fribourg|KUB Freiburg,Q856584,,
+Fribourg,Fribourg,Q36378,3,1,1,"capital of the canton of Fribourg, Switzerland","Freiburg|Fribourg FR|Freiburg im Uechtland|Freiburg i.Ue.|Fribourg-en-Nuithonie|Freiburg i.U.|Freiburg, Switzerland|Fribourg, Suisse|Freiburg im Üechtland",Q70208|Q14770218|Q1187811|Q54935504,,Fribourg
+Fribourg,Fribourg,Q22283,3,1,1,"commune in Moselle, France",,Q484170,,"Fribourg, Moselle"
+Fribourg,Canton of Fribourg,Q12640,3,1,1,canton of Switzerland,"Freiburg, Switzerland|Canton de Fribourg|Kanton Freiburg|Freiburg|Fribourg|FR",Q23058|Q107390|Q56061,,Canton of Fribourg
+Fribourg,Fribourg,Q30669735,3,1,1,family name,,Q101352,,Fribourg (surname)
+Fribourg,Fribourg railway station,Q3067114,3,1,1,railway station in Switzerland,Freiburg railway station,Q55488,,Fribourg/Freiburg railway station
+Fribourg,242648 Fribourg,Q16466027,3,1,1,asteroid,Fribourg,Q3863,,242648 Fribourg
+Fribourg,Fribourg,Q18564806,3,1,1,painting by Joseph Mallord William Turner,,Q18761202,,
+Fribourg,Fribourg Prealps,Q667279,3,1,1,Swiss Prealps mountain range,,Q3977906,,
+Fribourg,Fribourg Olympic,Q506174,3,1,1,"basketball team in Fribourg, Switzerland",,Q13393265,,Fribourg Olympic Basket
+Fribourg,Fribourg Cathedral,Q680931,3,1,1,cathedral,,Q811979|Q56242215,,Fribourg Cathedral
+Fribourg,Cantonal and University Library of Fribourg,Q136702267,3,1,2,Library (institution) located in Fribourg.,,Q678405|Q1622062|Q856234|Q1497649|Q166118,,Cantonal and University Library of Fribourg
+Fribourg,Cantonal and University Library of Fribourg (building),Q1728085,3,1,2,"Historic building of the library in Canton of Fribourg, Switzerland",BCU Fribourg|KUB Freiburg,Q856584,,
+Fribourg,Cantonal and University Library of Fribourg (collection),Q29479079,3,1,2,"library in the city of Fribourg, Switzerland",,Q1497649|Q7075|Q856592,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Swiss National Museum Collection Center,Q29573990,4,0,1,"national museum depot and workshop in Affoltern am Albis in the canton of Zürich, Switzerland",Sammlungszentrum des Schweizerischen Nationalmuseums,Q1497649|Q9388534,,Collection Center of the Swiss National Museum
+Sammlungszentrum des Schweizerischen Nationalmuseums,Swiss National Museum,Q2256718,4,0,2,"administrative unit comprising the three national museums of Switzerland (National Museum Zurich, Castle of Prangins, and Forum of Swiss History Schwyz) as well as the collections centre in Affoltern am Albis",Schweizerisches Nationalmuseum,Q43229|Q33506|Q113025511,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Swiss National Museum - Castle of Prangins,Q3330736,4,0,2,historical museum in Prangins (Switzerland),Castle of Prangins,Q16735822|Q1497649,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Sammlungszentrum Hannover,Q125123870,4,0,2,"archive building in Hanover, Germany",,Q635719,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Sammlungszentrum Augusta Raurica,Q118190297,4,0,2,Museum storage in the canton of Basel-Landschaft,,Q1191732,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Sammlungszentrum für historisches ostfriesisches Kulturgut,Q117231371,4,0,2,,,Q635719,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,Nationalmuseum,Q842858,4,0,2,"art museum in Stockholm, Sweden",Kongliga svenska museum|Swedish National Art Museum|Nationalmuseet|Nationalmuseum Sweden|National Museum of Fine Arts|National Museum of Sweden,Q207694|Q17431399|Q68295960,,Nationalmuseum
+Sammlungszentrum des Schweizerischen Nationalmuseums,National Museum in Warsaw,Q153306,4,0,2,"national museum in Warsaw, Poland",Muzeum Narodowe w Warszawie|MNW,Q207694|Q17431399|Q16735822|Q3329412,,National Museum in Warsaw
+Sammlungszentrum des Schweizerischen Nationalmuseums,Nationalmuseum,Q10594801,4,0,2,museum building in Stockholm,,Q24699794|Q1497375,,
+Sammlungszentrum des Schweizerischen Nationalmuseums,National Museum in Kraków,Q195311,4,0,2,"museum in Krakow, Poland","National Museum, Krakow|National Museum Krakow|National Museum in Krakow|Muzeum Narodowe w Krakowie",Q17431399|Q2772772|Q207694,,National Museum in Kraków
+Sammlungszentrum des Schweizerischen Nationalmuseums,national museum,Q17431399,4,0,2,museum maintained by a national authority,,Q63982911,Q33506,
+Sammlungszentrum des Schweizerischen Nationalmuseums,National Museum of Denmark,Q648166,4,0,2,Denmark’s largest museum of cultural history,"Danish National Museum|Nationalmuseet, Copenhagen",Q17431399|Q132229545|Q28737012,,National Museum of Denmark
+Sammlungszentrum des Schweizerischen Nationalmuseums,National Museum in Prague,Q188112,4,0,2,Czech museum institution,"Národní muzeum|National museum of the Czech Republic|National museum, Prague|Narodni muzeum|NMP|National museum in Prague|National Museum of Czech Republic|National Museum|Czechoslovakia National Museum|National Museum Prague",Q17431399|Q33506|Q108935461|Q2085381,,National Museum (Prague)
+Sammlungszentrum des Schweizerischen Nationalmuseums,National Museum Zurich,Q691896,4,0,2,museum in Switzerland,Swiss National Museum Zurich|Landesmuseum,Q2772772|Q17431399|Q16735822|Q1497649|Q27699276,,Swiss National Museum
+Sammlungszentrum des Schweizerischen Nationalmuseums,Hungarian National Museum,Q914141,4,0,2,"national museum for the history, art and archaeology of Hungary",Magyar Nemzeti Múzeum,Q17431399|Q24699794,,Hungarian National Museum
+Sammlungszentrum des Schweizerischen Nationalmuseums,Nationalmuseum. Sektioner av nedre vestibulen,Q110763922,4,0,2,drawing by Ingen uppgift,,Q93184,,
+Affoltern am Albis,Affoltern am Albis,Q68290,4,1,1,municipality in Switzerland,Affoltern am Albis ZH,Q70208|Q54935504,,Affoltern am Albis
+Affoltern am Albis,Affoltern am Albis railway station,Q2032410,4,1,1,"railway station in the canton of Zürich, Switzerland",,Q55488,,Affoltern am Albis railway station
+Affoltern am Albis,Affoltern am Albis,Q22363736,4,1,1,,,Q486972,,
+Affoltern am Albis,Affoltern am Albis,Q29459406,4,1,1,Wikimedia disambiguation page,,Q4167410,,
+Affoltern am Albis,Swiss National Museum Collection Center,Q29573990,4,1,2,"national museum depot and workshop in Affoltern am Albis in the canton of Zürich, Switzerland",Sammlungszentrum des Schweizerischen Nationalmuseums,Q1497649|Q9388534,,Collection Center of the Swiss National Museum
+Collection Nidwaldensia of the Cantonal Library of Nidwalden,Collection Nidwaldensia of the Cantonal Library of Nidwalden,Q29786218,5,0,1,"Nidwalden literature in the cantonal library in Stans in the canton of Nidwalden, Switzerland",,Q1497649|Q856592,,
+Stans,Stans,Q63931,5,1,1,"capital of the canton of Nidwalden, Switzerland",Stans NW,Q54935504|Q70208|Q14770218,,Stans
+Stans,Stans,Q37320772,5,1,1,family name,,Q101352,,
+Stans,Stansfield,Q37147331,5,1,1,family name,,Q101352,,Stansfield (surname)
+Stans,Stans,Q668172,5,1,1,"municipality in Schwaz District, Tyrol, Austria",,Q1802801|Q667509,,"Stans, Tyrol"
+Stans,Stanstead Abbotts,Q2025612,5,1,1,"village in Hertfordshire, UK","Stanstead Abbotts, Hertfordshire|Stanstead Abbots|Stanstead Abbots (civil parish), Hertfordshire|Stanstead Abbots, Hertfordshire",Q532|Q1115575,,Stanstead Abbotts
+Stans,Stanstead,Q142375,5,1,1,"town of Estrie, Quebec, Canada","Stanstead, Quebec|Stanstead, QC",Q27676416,,"Stanstead, Quebec"
+Stans,Stansstad,Q64285,5,1,1,municipality in the canton of Nidwalden in Switzerland,Stansstad NW,Q70208,,Stansstad
+Stans,Stansfield,Q2390172,5,1,1,"village and civil parish in West Suffolk, UK","Stansfield, Suffolk",Q532|Q1115575,,Stansfield
+Stans,Stanstead,Q2077009,5,1,1,"village and civil parish in Suffolk, England, UK","Stanstead, Suffolk",Q532|Q1115575,,"Stanstead, Suffolk"
+Stans,Stanstead St Margarets,Q2347568,5,1,1,"village in Hertfordshire, England, UK","Stanstead St Margarets, Hertfordshire|St Margarets|St Margarets, Hertfordshire",Q532|Q1115575,,Stanstead St Margarets
+Stans,Nidwalden Fountain Guide,Q76808959,5,1,2,,,Q1172284,,
+Stans,Canton of Nidwalden,Q12592,5,1,2,canton of Switzerland,NW|Unterwalden nid dem Wald|Nidwald|Kanton Nidwalden|Canton of Nidwald,Q23058,,Nidwalden
+Stans,Museum Nidwalden,Q27489010,5,1,2,"museum collection in Stans in the canton of Nidwalden, Switzerland",Nidwaldner Museum|Nidwalden Museum,Q1595639|Q1497649|Q27699276,,
+Stans,Nidwalden cantonal archive,Q14847944,5,1,2,"cantonal archive in Stans in the canton of Nidwalden, Switzerland",state archives of the canton of Nidwalden|cantonal archives Nidwalden,Q2860410|Q1497649,,
+Stans,Nidwalden (constituency),Q20012550,5,1,2,,,Q192611,,
+Stans,Nidwaldener Zeile,Q111351903,5,1,2,"street in Steglitz-Zehlendorf district, Berlin, Germany",,Q79007,,
+Stans,Nidwalden,Q10801266,5,1,2,Wikimedia template,,Q11266439,,
+Stans,Nidwalden,Q22212991,5,1,2,Wikimedia disambiguation page,,Q4167410,,
+Musée historique du Vieux-Vevey,Historical Museum of Old-Vevey,Q63797017,6,0,1,"museum of history in Vevey, Switzerland",,Q166118|Q1497649,,
+Vevey,Vevey,Q68160,6,1,1,"city and municipality on Lake Geneva, in the canton of Vaud, Switzerland","Vevey, Switzerland|Vevey, Vaud",Q70208|Q54935504,,Vevey
+Vevey,Vevey,Q46247125,6,1,1,family name,,Q101352,,
+Vevey,Vevey,Q21031199,6,1,1,passenger boat,,Q1121471,,
+Vevey,Vevey railway station,Q569784,6,1,1,"railway station in Vevey in the canton of Vaud, Switzerland",,Q55488|Q114782406,,Vevey railway station
+Vevey,Vevey District,Q689290,6,1,1,former district of the canton of Vaud,District de Vevey,Q17277366,,Vevey District
+Vevey,Veveyse District,Q25841,6,1,1,district in the canton of Fribourg in Switzerland,district de la Veveyse,Q3032122,,Veveyse District
+Vevey,Vevey,Q48839661,6,1,1,2017 album,,Q482994,,Vevey (The Warlocks album)
+Vevey,de Vevey,Q99364626,6,1,1,Swiss family,"Vevey, de|Vevey",Q8436,,
+Vevey,Vevey,Q113584292,6,1,1,painting by Hubert Sattler,,Q3305213,,
+Vevey,Vevey–Les Pléiades railway line,Q111384102,6,1,1,railway line in Switzerland,,Q728937,,Vevey–Les Pléiades railway line
+Vevey,Historical Museum of Old-Vevey,Q63797017,6,1,2,"museum of history in Vevey, Switzerland",,Q166118|Q1497649,,
+Museum of Art and History,Musée d'Art et d'Histoire,Q3329620,7,0,1,"museum building in the city of Neuchâtel, Switzerland",Museum of Art and History|Musée d'art et d'histoire de Neuchâtel,Q207694|Q1497649|Q16735822|Q24699794,,Musée d'Art et d'Histoire (Neuchâtel)
+Museum of Art and History,Museum of Art and History,Q3329616,7,0,1,"museum in the city of Fribourg, Switzerland",Art and History Museum of Fribourg,Q1497649|Q3196771|Q7328910|Q2668072,,Musée d'art et d'histoire (Fribourg)
+Museum of Art and History,Museum of Art and History Geneva,Q679075,7,0,1,"museum in Geneva, Switzerland",MAHG|Musée d'art et d'histoire Genève,Q207694|Q1497649|Q16735822,,Musée d'Art et d'Histoire (Geneva)
+Museum of Art and History,Museum of Art and History,Q27482247,7,0,1,"museum collection in La Neuveville in the canton of Bern, Switzerland",Museum für Kunst und Geschichte|Museum of Art and History of La Neuveville,Q1595639|Q1497649|Q2668072,,
+Museum of Art and History,Museum of Art and History,Q6940760,7,0,1,"museum in Santa Cruz, California",Santa Cruz Museum of Art and History|Santa Cruz Museum of Art & History|Santa Cruz MAH|MAH,Q33506|Q163740,,Santa Cruz Museum of Art and History
+Museum of Art and History,Museum of Art and History,Q18325656,7,0,1,"museum in Lancaster, California",,Q207694,,Lancaster Museum of Art and History
+Museum of Art and History,Museum of Art and History Baron Gérard,Q3329086,7,0,1,"museum in Bayeux, France",Baron Gérard Museum|Baron Gerard Museum,Q207694|Q2385804,,
+Museum of Art and History,Museum of Art and History Geneva,Q87698753,7,0,1,book about the Museum of Art and History Geneva and its collections,,Q7725634,,
+Museum of Art and History,museum of art and history of the Jura (collection),Q3330626,7,0,1,historical museum in Delémont (Switzerland),musée jurassien d'art et d'histoire (collection),Q1497649|Q207694|Q16735822|Q2668072,,Musée jurassien d'art et d'histoire
+Museum of Art and History,Draguignan Museum of Art and History,Q23831203,7,0,1,museum in France,Museum of Fine-Arts of Draguignan|Museum of Art and History of Draguignan,Q33506|Q207694,,
+La Neuveville,La Neuveville-devant-Lépanges,Q188893,7,1,1,"commune in Vosges, France",La Neuveville|Neuveville-devant-Lépanges,Q484170,,La Neuveville-devant-Lépanges
+La Neuveville,La Neuveville-sous-Montfort,Q192791,7,1,1,"commune in Vosges, France",La Neuveville|Neuveville-sous-Montfort,Q484170,,La Neuveville-sous-Montfort
+La Neuveville,La Neuveville,Q22655396,7,1,1,settlement within the municipality of the same name in Switzerland,,Q486972,,
+La Neuveville,La Neuveville-sous-Châtenois,Q219624,7,1,1,"commune in Vosges, France",La Neuveville-sous-Chatenois|Neuveville-sous-Châtenois,Q484170,,La Neuveville-sous-Châtenois
+La Neuveville,La Neuveville,Q69476,7,1,1,municipality in the canton of Bern in Switzerland,La Neuveville BE|Neuveville,Q70208,,La Neuveville
+La Neuveville,La Neuveville District,Q176181,7,1,1,former district of the canton of Bern,District de la Neuveville,Q3777387,,La Neuveville District
+La Neuveville,La Neuveville railway station,Q15964163,7,1,1,"railway station in La Neuveville in the canton of Bern, Switzerland",,Q55488|Q1339195,,La Neuveville railway station
+La Neuveville,La Neuveville-lès-Raon,Q71809139,7,1,1,,,Q484170,,
+La Neuveville,La Neuveville town walls,Q19362633,7,1,1,"medieval town fortification with seven towers in La Neuveville in the canton of Bern, Switzerland","town fortification (Tour de rive, Tour rouge, Tour carré, Tours Wyss et Jaggi, Tour Hildebrandt, Tours Baillif et Jaggi II, Porte)",Q16748868|Q12518,,
+La Neuveville,La Neuveville-sous-Châtenois,Q35709145,7,1,1,human settlement in France,,Q486972,,
+La Neuveville,Musée d'Art et d'Histoire,Q3329620,7,1,2,"museum building in the city of Neuchâtel, Switzerland",Museum of Art and History|Musée d'art et d'histoire de Neuchâtel,Q207694|Q1497649|Q16735822|Q24699794,,Musée d'Art et d'Histoire (Neuchâtel)
+La Neuveville,Museum of Art and History,Q3329616,7,1,2,"museum in the city of Fribourg, Switzerland",Art and History Museum of Fribourg,Q1497649|Q3196771|Q7328910|Q2668072,,Musée d'art et d'histoire (Fribourg)
+La Neuveville,Museum of Art and History Geneva,Q679075,7,1,2,"museum in Geneva, Switzerland",MAHG|Musée d'art et d'histoire Genève,Q207694|Q1497649|Q16735822,,Musée d'Art et d'Histoire (Geneva)
+La Neuveville,Museum of Art and History,Q27482247,7,1,2,"museum collection in La Neuveville in the canton of Bern, Switzerland",Museum für Kunst und Geschichte|Museum of Art and History of La Neuveville,Q1595639|Q1497649|Q2668072,,
+La Neuveville,Museum of Art and History,Q6940760,7,1,2,"museum in Santa Cruz, California",Santa Cruz Museum of Art and History|Santa Cruz Museum of Art & History|Santa Cruz MAH|MAH,Q33506|Q163740,,Santa Cruz Museum of Art and History
+La Neuveville,Museum of Art and History,Q18325656,7,1,2,"museum in Lancaster, California",,Q207694,,Lancaster Museum of Art and History
+La Neuveville,Museum of Art and History Baron Gérard,Q3329086,7,1,2,"museum in Bayeux, France",Baron Gérard Museum|Baron Gerard Museum,Q207694|Q2385804,,
+La Neuveville,Museum of Art and History Geneva,Q87698753,7,1,2,book about the Museum of Art and History Geneva and its collections,,Q7725634,,
+La Neuveville,museum of art and history of the Jura (collection),Q3330626,7,1,2,historical museum in Delémont (Switzerland),musée jurassien d'art et d'histoire (collection),Q1497649|Q207694|Q16735822|Q2668072,,Musée jurassien d'art et d'histoire
+La Neuveville,Draguignan Museum of Art and History,Q23831203,7,1,2,museum in France,Museum of Fine-Arts of Draguignan|Museum of Art and History of Draguignan,Q33506|Q207694,,
+La Neuveville,Art and History Museums - Maitland,Q130386320,7,1,2,"Museum in Maitland, Florida",,,,Art and History Museums - Maitland

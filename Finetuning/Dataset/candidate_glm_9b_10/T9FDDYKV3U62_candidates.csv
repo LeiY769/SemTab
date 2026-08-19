@@ -1,0 +1,401 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Xest Lothian,Edinburgh,Q23436,0,0,2,"capital city of Scotland, UK","Edinburgh, Scotland|City of Edinburgh|Edina|Modern Athens|Auld Reekie|Athens of the North",Q515|Q1187811|Q202435|Q104630835|Q1549591,,Edinburgh
+Xest Lothian,City of Edinburgh,Q2379199,0,0,2,council area in Scotland,Edinburgh|Edinburgh City|City of Edinburgh district|City of Edinburgh|Edinburgh district,Q15060255|Q21457810|Q104630835,,
+Xest Lothian,Edinburgh,Q68826067,0,0,2,Scottish parish,,Q5124673,,
+Xest Lothian,Edinburgh,Q37259272,0,0,2,family name,,Q101352,,
+Xest Lothian,University of Edinburgh,Q160302,0,0,2,"public university in Edinburgh, Scotland, United Kingdom","Edinburgh University|The University of Edinburgh|University of Edinburgh, Scotland",Q875538|Q45400320|Q2667285|Q163740,,University of Edinburgh
+Xest Lothian,Edinburgh Napier University,Q1277357,0,0,2,university in Scotland,Oilthigh Napier Dhùn Èideann,Q875538|Q163740,,Edinburgh Napier University
+Xest Lothian,Midlothian,Q67317221,0,0,2,historic county of Scotland,Edinburghshire|County of Edinburgh,Q1350181|Q67376938,,Midlothian (historic)
+Xest Lothian,Edinburgh College of Art,Q5338172,0,0,2,"school of arts in the Edinburgh, Scotland","Hunter Building, Edinburgh College Of Art|Edinburgh, Lauriston Place, Edinburgh College Of Art|ECA|Edinburgh School of Art|University of Edinburgh College of Art",Q383092|Q11396960|Q16861871|Q713223,,Edinburgh College of Art
+Xest Lothian,Edinburgh University Press,Q3719191,0,0,2,British scholarly publisher,,Q479716|Q2085381,,Edinburgh University Press
+Xest Lothian,Edinburgh,Q126558297,0,0,2,book edition (en),,Q3331189,,
+Xest Lothian,Lothian,Q642024,0,0,2,former local government region of Scotland,Lothian Region,Q2138167,,Lothian
+Xest Lothian,Lothian Region (Edinburgh Western Relief Road) Order Confirmation Act 1986,Q110283980,0,0,2,Local Act of Parliament of the United Kingdom,"1986 c. vi|1986 c vi|Lothian Region (Edinburgh Western Relief Road) Order Confirmation Act, 1986",Q100165600|Q110295952,,
+Xest Lothian,Lothian Region (Edinburgh Western Relief Road) Order 1985,Q110298338,0,0,2,Provisional Order,"Lothian Region (Edinburgh Western Relief Road) Order, 1985",Q7252753,,
+Xest Lothian,1982 Lothian Regional Council election,Q20712821,0,0,2,1982 Scottish local government election,"Lothian Regional Council election, 1982",Q40231,,1982 Lothian Regional Council election
+Xest Lothian,1986 Lothian Regional Council election,Q20712827,0,0,2,1986 Scottish local government election,"Lothian Regional Council election, 1986",Q40231,,1986 Lothian Regional Council election
+Xest Lothian,1994 Lothian Regional Council election,Q24993517,0,0,2,1994 Scottish local government election,"Lothian Regional Council election, 1994",Q40231,,1994 Lothian Regional Council election
+Xest Lothian,1990 Lothian Regional Council election,Q24993476,0,0,2,fifth election to Lothian Regional Council,"Lothian Regional Council election, 1990",Q40231,,1990 Lothian Regional Council election
+Xest Lothian,Lothian Regional Council,Q105582201,0,0,2,Scottish regional authority (1975-1996),,Q105582114,,
+Xest Lothian,1978 Lothian Regional Council election,Q20712815,0,0,2,1978 Scottish local government election,"Lothian Regional Council election, 1978",Q40231,,1978 Lothian Regional Council election
+Xest Lothian,1974 Lothian Regional Council election,Q24993400,0,0,2,"first election to Lothian Regional Council, held 7 May 1974","Lothian Regional Council election, 1974",Q40231,,1974 Lothian Regional Council election
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,0,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,0,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,0,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,0,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,0,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,0,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,0,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,0,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,0,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,0,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,0,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,0,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Kkrkcudbrightshire,,,1,0,0,,,,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,1,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,1,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,1,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,1,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,1,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,1,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,1,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,1,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,1,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,1,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,1,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,1,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Cromcrtyshire,Cromarty,Q1012390,2,0,2,"town in Highland, Scotland, UK",,Q1968403|Q3957|Q7543008,,Cromarty
+Cromcrtyshire,Cromarty,Q37570006,2,0,2,family name,,Q101352,,
+Cromcrtyshire,Cromarty,Q68815234,2,0,2,"Scottish parish in Highland, Scotland, UK",,Q5124673,,
+Cromcrtyshire,Cromartyshire,Q1140824,2,0,2,"historic county in Highland, Scotland, UK",County of Cromarty,Q1350181|Q67376938,,Cromartyshire
+Cromcrtyshire,Cromarty,Q55771964,2,0,2,"locality in Burdekin, Queensland, Australia","Cromarty, Queensland|Cromarty, Queensland, Australia",Q3257686,,"Cromarty, Queensland"
+Cromcrtyshire,Ibai Hermoso,Q20919488,2,0,2,character created by Jules Verne,Cromarty,Q15632617|Q3658341|Q15773347,,
+Cromcrtyshire,Cromarty,Q5187560,2,0,2,"human settlement in Ontario, Canada",,Q486972,,"Cromarty, Ontario"
+Cromcrtyshire,Cromarty,Q103854468,2,0,2,shipwreck off the Scottish coast,,Q11446|Q852190,,
+Cromcrtyshire,Cromarty,Q55438258,2,0,2,"railway point in Northern Region, Manitoba, Canada",,Q88397339,,
+Cromcrtyshire,Cromarty Firth,Q1140822,2,0,2,sea inlet on the east coast of northern Scotland,Caolas Chromba,Q39594,,Cromarty Firth
+Cromcrtyshire,Cromarty Castle,Q28406705,2,0,2,"castle, destroyed by 1772, in Highland, Scotland, UK",,Q23413|Q19860854,,Cromarty Castle
+Cromcrtyshire,Cromarty Firth,Q88507436,2,0,2,"electoral ward in Highland, Scotland, UK",,Q589282,,Cromarty Firth (ward)
+Cromcrtyshire,Cromarty Firth,Q97984532,2,0,2,Cargo built in Aberdeen in 1937,,Q11446,,
+Cromcrtyshire,Cromarty Firth,Q84711711,2,0,2,general cargo ship built in 1919,IMO 1141928,Q11446,,
+Cromcrtyshire,Cromarty Firth Port Authority Order Confirmation Act 1973,Q110283531,2,0,2,Local Act of Parliament of the United Kingdom,"1973 c. xvi|1973 c xvi|Cromarty Firth Port Authority Order Confirmation Act, 1973",Q100165600|Q110295952,,
+Cromcrtyshire,Cromarty Firth Port Authority Order 1973,Q110298219,2,0,2,Provisional Order,"Cromarty Firth Port Authority Order, 1973",Q7252753,,
+Cromcrtyshire,Cromarty Firth Fishery Board,Q50040872,2,0,2,"organization in Inverness, United Kingdom",,Q43229,,
+Cromcrtyshire,Cromarty Firth from Nairn,Q119164593,2,0,2,"painting by Robert Lillie (1867–1949), Lillie Art Gallery",,Q3305213,,
+Cromcrtyshire,Cromarty Firth SSSI,Q134715006,2,0,2,"Site of Special Scientific Interest in Scotland, UK",,Q422211,,
+Cromcrtyshire,Cromarty Firth Port Authority,Q123584496,2,0,2,"port authority for Cromarty Firth, Scotland, UK",,Q652812,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,2,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,2,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,2,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,2,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,2,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,2,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,2,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,2,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,2,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,2,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,2,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,2,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+cithness,,,3,0,0,,,,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,3,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,3,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,3,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,3,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,3,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,3,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,3,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,3,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,3,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,3,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,3,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,3,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Kintoss-sire,,,4,0,0,,,,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,4,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,4,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,4,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,4,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,4,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,4,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,4,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,4,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,4,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,4,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,4,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,4,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Wiitwnshire,Wiltshire,Q67575300,5,0,2,"historic county of England, United Kingdom",County of Wilts|Wilts,Q1138494,,
+Wiitwnshire,Wiltshire,Q36979753,5,0,2,family name,,Q101352,,
+Wiitwnshire,Wiltshire,Q23183,5,0,2,ceremonial county of England (use Q21694746 for administrative unitary authority),County of Wilts|WIL|County of Wiltshire|Wilts,Q180673,,Wiltshire
+Wiitwnshire,Wiltshire,Q55448990,5,0,2,"locality in Circular Head, Tasmania, Australia","Wiltshire, Tasmania|Wiltshire, Tasmania, Australia",Q3257686|Q98433835,,"Wiltshire, Tasmania"
+Wiitwnshire,Wiltshire,Q21694746,5,0,2,"unitary authority (doesn't include Swindon) in Wiltshire, South West England, United Kingdom",,Q1136601|Q21272231|Q769603,,Wiltshire (district)
+Wiitwnshire,Wiltshire,Q60576069,5,0,2,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Wiitwnshire,Karen Wiltshire,Q48088292,5,0,2,Irish environmental scientist,Karen Helen Wiltshire|Karen H. Wiltshire|Karen H Wiltshire|K. H. Wiltshire|K H Wiltshire|K. Wiltshire|K Wiltshire|Wiltshire|Wiltshire K. H.|Wiltshire KH,Q5,,Karen Helen Wiltshire
+Wiitwnshire,Edward P. Wiltshire,Q22113748,5,0,2,Entomologist from England; 1910-2004,Wiltshire|Edward Parr Wiltshire|Ted Wiltshire,Q5,,Edward P. Wiltshire
+Wiitwnshire,Wiltshire,Q8023416,5,0,2,"Parliamentary constituency in the United Kingdom, 1801-1832",,Q27971968,,Wiltshire (UK Parliament constituency)
+Wiitwnshire,Wiltshire,Q8023418,5,0,2,constituency of the European Parliament,,Q2631496,,Wiltshire (European Parliament constituency)
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,5,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,5,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,5,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,5,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,5,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,5,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,5,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,5,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,5,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,5,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,5,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,5,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Buteshirg,,,6,0,0,,,,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica 11th edition,Q867541,6,1,1,11th edition of Encyclopædia Britannica,1911 Encyclopedia Britannica|EB-11|EB1911|EB11|1911 Encyclopædia Britannica|Encyclopædia Britannica (1911)|Encyclopedia Britannica (1911)|Encyclopedia Britannica,Q3331189,,Eleventh edition of the Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica,Q455,6,1,2,"general knowledge English-language encyclopaedia, first published in Scotland in 1768",Encyclopedia Britannica|Britannica|Encyclopaedia Britannica,Q47461344,,Encyclopædia Britannica
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Online,Q5375741,6,1,2,online edition of the Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica|Encyclopaedia Britannica Online|Encyclopedia Britannica Online|Britannica.com|britannica.com,Q615699,,Britannica.com
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Inc.,Q2743906,6,1,2,British-American publisher; publisher of Encyclopædia Britannica,Encyclopædia Britannica|Encyclopedia Britannica Inc.|Encyclopedia Britannica|Encyclopaedia Brittanica Inc.|Encyclopaedia Brittanica|Brittanica|Britannica|Encyclopædia Britannica (United States),Q4830453|Q1320047,,"Encyclopædia Britannica, Inc."
+Encyclopædia Britannica 11th edition,1922 Encyclopædia Britannica,Q15987490,6,1,2,12th edition of Encyclopædia Britannica,EB12|Encyclopaedia Britannica Twelfth Edition,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Films,Q22079419,6,1,2,U.S. producer and distributor of educational films,Encyclopaedia Britannica Films|Electrical Research Products Inc. (ERPI) Classroom Films|Erpi Classroom Films|Encyclopaedia Britannica Educational Corporation|ERPI Classroom Films|EBE|Encyclopaedia Britannica Educational Corp.|Encyclopaedia Britannica Educational|EBEC|Encyclopaedia Britannica Educational Films|EB Films|EB Film Corporation|Erpi Classroom Films Inc.|Erpi Picture Consultants,Q368290|Q11396960,,Encyclopædia Britannica Films
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Ninth Edition,Q20096917,6,1,2,1875 edition of Encyclopædia Britannica,"EB9|Encyclopædia Britannica, Ninth Edition",Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopaedia Britannica,Q20741401,6,1,2,"installation by John Latham, Museum of Modern Art",,Q20437094,,
+Encyclopædia Britannica 11th edition,"Encyclopædia Britannica (15th edition, 1974–2010)",Q56605362,6,1,2,15th edition of Encyclopædia Britannica,EB15,Q3331189,,
+Encyclopædia Britannica 11th edition,Encyclopædia Britannica Fifth Edition,Q19800783,6,1,2,5th edition of Encyclopædia Britannica,EB5,Q3331189,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition",Q123920890,6,1,2,edition of the national Manual on Uniform Traffic Control Devices published in 2023,"MUTCD 11th Edition|11th Edition of the MUTCD|MUTCD 2023|Manual on Uniform Traffic Control Devices, 11th edition|MUTCD 11e",Q3331189|Q109934449,,
+Encyclopædia Britannica 11th edition,"Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition with Revision 1 incorporated",Q138664152,6,1,2,revision of the national Manual on Uniform Traffic Control Devices dated December 2025 and published March 2026,MUTCD 11th edition revision 1|MUTCD 11e r1|11th Edition of the MUTCD with Revision 1,Q3331189|Q109934449,,
+Aberdeeqshire,Aberdeenshire,Q189912,7,0,2,council area of Scotland,,Q15060255,,Aberdeenshire
+Aberdeeqshire,Aberdeenshire,Q3290674,7,0,2,historic county and registration county of Scotland,County of Aberdeen,Q7309443|Q202435|Q67376938|Q1350181,,Aberdeenshire (historic)
+Aberdeeqshire,Aberdeenshire,Q4667029,7,0,2,"Parliamentary constituency in the United Kingdom, 1801-1868",,Q27971968,,Aberdeenshire (UK Parliament constituency)
+Aberdeeqshire,Aberdeenshire Council,Q13194614,7,0,2,Scottish unitary authority council in Aberdeenshire,,Q21451686|Q327333,,Aberdeenshire Council
+Aberdeeqshire,Aberdeenshire Canal,Q4667031,7,0,2,"canal in Aberdeenshire, Scotland, UK",Aberdeen Canal|Aberdeenshire  Canal  Navigation,Q12284,,Aberdeenshire Canal
+Aberdeeqshire,Aberdeenshire,Q19599976,7,0,2,Constituency of the Parliament of Scotland before the Act of Union 1707,,Q27990952,,Aberdeenshire (Parliament of Scotland constituency)
+Aberdeeqshire,Aberdeenshire,Q103911758,7,0,2,shipwreck off the Scottish coast,,Q11446|Q852190,,
+Aberdeeqshire,Aberdeenshire,Q106501735,7,0,2,Vanity Fair caricature of The Earl of Aberdeen by Spy,The Earl of Aberdeen,Q11060274|Q28886448,,
+Aberdeeqshire,Aberdeenshire,Q97983230,7,0,2,Snow built in Aberdeen in 1825,,Q11446,,
+Aberdeeqshire,Aberdeenshire,Q84727578,7,0,2,trawler built in 1900,IMO 1114171,Q11446,,
+Aberdeeqshire,2012 Aberdeenshire Council election,Q4667033,7,0,2,2012 Scottish local government election,"Aberdeenshire Council election, 2012",Q130220955,,2012 Aberdeenshire Council election
+Aberdeeqshire,2007 Aberdeenshire Council election,Q4667032,7,0,2,2007 Scottish local government election,"Aberdeenshire Council election, 2007",Q130220955,,2007 Aberdeenshire Council election
+Aberdeeqshire,2017 Aberdeenshire Council election,Q29587178,7,0,2,local elections,"Aberdeenshire Council election, 2017",Q130220955,,2017 Aberdeenshire Council election
+Aberdeeqshire,Aberdeenshire Council Open Data Portal,Q97023929,7,0,2,open data portal operated by a Scottish local authority,,Q27031827,,
+Aberdeeqshire,1999 Aberdeenshire Council election,Q54869908,7,0,2,1999 Scottish local government election,"Aberdeenshire Council election, 1999",Q130220955,,1999 Aberdeenshire Council election
+Aberdeeqshire,Aberdeenshire Council elections,Q132717595,7,0,2,"local government elections in Aberdeen, Scotland",,Q40231,,Aberdeenshire Council elections
+Aberdeeqshire,Aberdeenshire Council Buildings (formerly Lady Burnett's School),Q124386061,7,0,2,"building in Banchory, Scotland, United Kingdom",,Q41176,,
+Aberdeeqshire,Aberdeenshire Council election,Q130220955,7,0,2,class of election in Scotland,,Q107359024,Q130220442,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,7,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,7,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,7,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,7,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,7,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,7,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,7,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,7,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,7,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,7,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+oss nd#Cromarty,Cromarty,Q1012390,8,0,2,"town in Highland, Scotland, UK",,Q1968403|Q3957|Q7543008,,Cromarty
+oss nd#Cromarty,Cromarty,Q37570006,8,0,2,family name,,Q101352,,
+oss nd#Cromarty,Cromarty,Q68815234,8,0,2,"Scottish parish in Highland, Scotland, UK",,Q5124673,,
+oss nd#Cromarty,Cromartyshire,Q1140824,8,0,2,"historic county in Highland, Scotland, UK",County of Cromarty,Q1350181|Q67376938,,Cromartyshire
+oss nd#Cromarty,Cromarty,Q55771964,8,0,2,"locality in Burdekin, Queensland, Australia","Cromarty, Queensland|Cromarty, Queensland, Australia",Q3257686,,"Cromarty, Queensland"
+oss nd#Cromarty,Ibai Hermoso,Q20919488,8,0,2,character created by Jules Verne,Cromarty,Q15632617|Q3658341|Q15773347,,
+oss nd#Cromarty,Cromarty,Q5187560,8,0,2,"human settlement in Ontario, Canada",,Q486972,,"Cromarty, Ontario"
+oss nd#Cromarty,Cromarty,Q103854468,8,0,2,shipwreck off the Scottish coast,,Q11446|Q852190,,
+oss nd#Cromarty,Cromarty,Q55438258,8,0,2,"railway point in Northern Region, Manitoba, Canada",,Q88397339,,
+oss nd#Cromarty,Cromarty Firth,Q1140822,8,0,2,sea inlet on the east coast of northern Scotland,Caolas Chromba,Q39594,,Cromarty Firth
+oss nd#Cromarty,Ossian,Q16280446,8,0,2,male given name,Ossian (first name)|Ossian (given name),Q12308941,,Ossian (given name)
+oss nd#Cromarty,Ossian D'Ambrosio,Q113383211,8,0,2,Italian musician and pagan organizer (born 1970),Ossian|Luigi D'Ambrosio,Q5,,Ossian D'Ambrosio
+oss nd#Cromarty,Ossian,Q15837802,8,0,2,supposed author of a body of Scottish folk poetry,Oscian,Q15632617|Q3658341,,Ossian
+oss nd#Cromarty,Ossian,Q1226571,8,0,2,Hungarian metal band,,Q215380,,
+oss nd#Cromarty,The Works of Ossian,Q503756,8,0,2,poetic work by James Macpherson based on Scottish folk tales,"Poems of Ossian|Ossian|The works of Ossian, son of Fingal|The works of Ossian|The poems of Ossian|Oisean",Q7725634,,
+oss nd#Cromarty,Ossian,Q1927728,8,0,2,city in Iowa,"Ossian, Iowa|Ossian, IA",Q1093829,,"Ossian, Iowa"
+oss nd#Cromarty,Oisín,Q2016937,8,0,2,figure in Irish mythology,Oisin|Ossian|Osheen|Osian,Q21070568|Q27973511,,Oisín
+oss nd#Cromarty,Ossian,Q2137564,8,0,2,"town in Jefferson Township, Wells County, Indiana, United States","Ossian, Indiana|Ossian, IN",Q15127012,,"Ossian, Indiana"
+oss nd#Cromarty,Ossian,Q7107453,8,0,2,Scottish traditional music group,,Q215380,,Ossian (band)
+oss nd#Cromarty,Ossiannilssonola,Q10613103,8,0,2,genus of insects,,Q16521,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,8,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,8,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,8,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,8,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,8,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,8,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,8,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,8,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,8,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,8,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Nairnskire,,,9,0,0,,,,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,9,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,9,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,9,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,9,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,9,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,9,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,9,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,9,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,9,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,9,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Morayhire,,,10,0,0,,,,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,10,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,10,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,10,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,10,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,10,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,10,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,10,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,10,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,10,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,10,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Peeblessjire,Brockhaus and Efron Encyclopedic Dictionary,Q602358,11,0,2,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,11,0,2,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,11,0,2,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,11,0,2,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,11,0,2,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,11,0,2,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,11,0,2,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,11,0,2,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,11,0,2,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Peeblessjire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,11,0,2,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,11,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,11,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,11,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,11,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,11,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,11,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,11,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,11,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,11,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,11,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+elkirkshie,,,12,0,0,,,,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,12,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,12,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,12,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,12,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,12,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,12,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,12,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,12,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,12,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,12,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Invernfss-shire,Inverness-shire,Q1247390,13,0,2,historic county of Scotland,County of Inverness,Q7309443|Q67376938|Q1350181,,Inverness-shire
+Invernfss-shire,Inverness-shire,Q6060195,13,0,2,"Parliamentary constituency in the United Kingdom, 1801-1918",,Q27971968,,Inverness-shire (UK Parliament constituency)
+Invernfss-shire,Inverness-shire,Q19604770,13,0,2,,,Q27990952,,Inverness-shire (Parliament of Scotland constituency)
+Invernfss-shire,Inverness-Shire,Q103923328,13,0,2,shipwreck off the Scottish coast,,Q11446|Q852190,,
+Invernfss-shire,1917 Inverness-shire by-election,Q6060190,13,0,2,UK parliamentary by-election,"Inverness-shire by-election, 1917",Q1057954,,1917 Inverness-shire by-election
+Invernfss-shire,Inverness-shire Royal Horse Artillery,Q16987292,13,0,2,former British Army horse artillery battery,,Q176799|Q117803648,,Inverness-shire Royal Horse Artillery
+Invernfss-shire,Inverness-shire Constabulary,Q6060186,13,0,2,"police force of Inverness-shire, Scotland",,Q35535,,Inverness-shire Constabulary
+Invernfss-shire,Shropshire Blue,Q1887104,13,0,2,Scottish cheese,,,Q746471|Q19361017,Shropshire Blue
+Invernfss-shire,Inverness-shire,Q137480393,13,0,2,Wikimedia disambiguation page,,Q4167410,,Inverness-shire (disambiguation)
+Invernfss-shire,Comté d'Inverness,Q2991104,13,0,2,Wikimedia disambiguation page,,Q4167410,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,13,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,13,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,13,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,13,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,13,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,13,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,13,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,13,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,13,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,13,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Dumfrjesshire,Dumfries and Galloway,Q126514,14,0,2,unitary council area of Scotland,Dumfries an Gallowa|Dùn Phris agus Gall-Ghàidhealaibh,Q15060255|Q2138167,,Dumfries and Galloway
+Dumfrjesshire,Dumfries and Galloway,Q3336017,14,0,2,"Parliamentary constituency in Dumfries and Galloway, Scotland, UK, 2005 onwards",Dumfries & Galloway,Q27971968,,Dumfries and Galloway (UK Parliament constituency)
+Dumfrjesshire,Dumfries and Galloway,Q104635183,14,0,2,Health board area in Scotland,,Q104632385,,
+Dumfrjesshire,Dumfries and Galloway,Q108836993,14,0,2,Health and Social Care Partnership for the Dumfries and Galloway area,,Q20667323,,
+Dumfrjesshire,Dumfries and Galloway Council,Q28528309,14,0,2,"Scottish unitary authority council in Dumfries and Galloway, Scotland, UK",,Q21451686,,
+Dumfrjesshire,NHS Dumfries and Galloway,Q6954127,14,0,2,"NHS board in Dumfries and Galloway, Scotland, UK",Dumfries and Galloway NHS Board,Q83425186,,NHS Dumfries and Galloway
+Dumfrjesshire,Dumfries and Galloway Royal Infirmary,Q5313810,14,0,2,"hospital in Dumfries and Galloway, Scotland, UK",,Q16917,,Dumfries and Galloway Royal Infirmary
+Dumfrjesshire,Dumfries and Galloway Constabulary,Q5313806,14,0,2,"government agency in Dumfries and Galloway, Scotland, UK",,Q327333,,Dumfries and Galloway Constabulary
+Dumfrjesshire,Dumfries and Galloway Aviation Museum,Q16974250,14,0,2,"aviation museum in Dumfries, Scotland, United Kingdom",,Q33506|Q115154402|Q4828724,,Dumfries and Galloway Aviation Museum
+Dumfrjesshire,2007 Dumfries and Galloway Council election,Q5313807,14,0,2,2007 Scottish local government election,"Dumfries and Galloway Council election, 2007",Q130241850,,2007 Dumfries and Galloway Council election
+Dumfrjesshire,Dumfries,Q652035,14,0,2,"town in Dumfries and Galloway, Scotland, UK",Dunfries,Q3957|Q6489113,,Dumfries
+Dumfrjesshire,Dumfriesshire,Q1247384,14,0,2,historic county of Scotland,Dumfries|County of Dumfries,Q1350181|Q7309443|Q67376938|Q202435,,Dumfriesshire
+Dumfrjesshire,Dumfries,Q102290085,14,0,2,family name,,Q101352,,
+Dumfrjesshire,Dumfries,Q68815351,14,0,2,"Scottish parish in Dumfries and Galloway, Scotland, UK",,Q5124673,,
+Dumfrjesshire,Dumfries,Q1375743,14,0,2,"town in Prince William County, Virginia, United States","Town of Dumfries|Dumfries, VA|Dumfries, Virginia",Q15411644,,"Dumfries, Virginia"
+Dumfrjesshire,Dumfries,Q1264977,14,0,2,pre-2011 Scottish Parliament constituency,,Q7437892,,Dumfries (Scottish Parliament constituency)
+Dumfrjesshire,Dumfries,Q14875588,14,0,2,"human settlement in New Brunswick, Canada","Dumfries, New Brunswick",Q486972,,"Dumfries, New Brunswick"
+Dumfrjesshire,Dumfries,Q18352792,14,0,2,constituency of the Old Parliament of Scotland,,Q27990952,,Dumfries (Parliament of Scotland constituency)
+Dumfrjesshire,Dumfries railway station,Q597956,14,0,2,"railway station in Dumfries, Dumfries and Galloway, Scotland, UK",Dumfries station|DMF,Q55488,,Dumfries railway station
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,14,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,14,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,14,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,14,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,14,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,14,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,14,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,14,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,14,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,14,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Stirningshire,,,15,0,0,,,,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,15,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,15,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,15,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,15,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,15,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,15,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,15,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,15,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,15,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,15,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Sutherlaqd,,,16,0,0,,,,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,16,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,16,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,16,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,16,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,16,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,16,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,16,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,16,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,16,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,16,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Banffsire,Banffshire,Q806432,17,0,2,historic county in north-east Scotland,,Q7309443|Q202435|Q67376938|Q1350181,,Banffshire
+Banffsire,Banffshire,Q4854880,17,0,2,"Parliamentary constituency in the United Kingdom, 1801–1983",,Q27971968,,Banffshire (UK Parliament constituency)
+Banffsire,Banffshire,Q17582124,17,0,2,Watsonian vice-county,VC94,Q7925010,,
+Banffsire,Banffshire,Q4854879,17,0,2,Constituency of the Old Parliament of Scotland,,Q27990952,,Banffshire (Parliament of Scotland constituency)
+Banffsire,Banffshire,Q103912044,17,0,2,shipwreck off the Scottish coast,,Q382586|Q852190,,
+Banffsire,Banffshire,Q64580556,17,0,2,drawing in the National Gallery of Art (NGA 9028),,Q93184,,
+Banffsire,Banffshire and Buchan Coast,Q806431,17,0,2,constituency of the United Kingdom,,Q7437892,,Banffshire and Buchan Coast
+Banffsire,1907 Banffshire by-election,Q16822331,17,0,2,UK parliamentary by-election,"Banffshire by-election, 1907",Q1057954,,1907 Banffshire by-election
+Banffsire,Banffshire Landscape,Q119354992,17,0,2,"painting by Bob Batchelor (c.1928–2010), Grampian Hospitals Art Trust",,Q3305213,,
+Banffsire,Banffshire Educational Trust Scheme 1976,Q123542564,17,0,2,UK Statutory Instrument 1976 No. 93 (S. 6),,Q7604686,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,17,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,17,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,17,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,17,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,17,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,17,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,17,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,17,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,17,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,17,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Byrshire,Brockhaus and Efron Encyclopedic Dictionary,Q602358,18,0,2,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,18,0,2,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,18,0,2,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,18,0,2,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,18,0,2,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,18,0,2,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,18,0,2,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,18,0,2,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,18,0,2,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Byrshire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,18,0,2,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,18,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,18,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,18,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,18,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,18,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,18,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,18,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,18,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,18,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,18,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Berwickvhire,Brockhaus and Efron Encyclopedic Dictionary,Q602358,19,0,2,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,19,0,2,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,19,0,2,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,19,0,2,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,19,0,2,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,19,0,2,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,19,0,2,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,19,0,2,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,19,0,2,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Berwickvhire,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,19,0,2,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,
+Berwickvhire,Berwickshire,Q786649,19,0,2,historic county in the Scottish Borders,County of Berwick|VC81,Q1350181|Q21457810|Q202435|Q67376938|Q7309443|Q7925010,,Berwickshire
+Berwickvhire,Berwickshire,Q4896027,19,0,2,"Parliamentary constituency in the United Kingdom, 1801-1918",,Q27971968,,Berwickshire (UK Parliament constituency)
+Berwickvhire,Berwickshire,Q17582109,19,0,2,Parliament of Scotland constituency,County of Berwick,Q27990952,,Berwickshire (Parliament of Scotland constituency)
+Berwickvhire,"Berwickshire, Roxburgh and Selkirk",Q3134016,19,0,2,"Parliamentary constituency in Scottish Borders, Scotland, UK, 2005 onwards","Berwickshire, Roxburgh & Selkirk",Q27971968,,"Berwickshire, Roxburgh and Selkirk"
+Berwickvhire,Berwickshire High School,Q4896024,19,0,2,"secondary school in Scotland, UK",,Q159334,,Berwickshire High School
+Berwickvhire,Berwickshire Naturalists Club,Q69944124,19,0,2,learned society,Berwickshire Naturalists' Club,Q955824,,
+Berwickvhire,Berwickshire Courts Act 1853,Q106350235,19,0,2,1853 United Kingdom of Great Britain and Ireland Act of Parliament 16 & 17 Vic c. 27,,Q105774620,,
+Berwickvhire,Berwickshire Coastal Path,Q18124363,19,0,2,"Great Trail in Scotland, UK",,Q473972|Q6672512|Q3478783,,Berwickshire Coastal Path
+Berwickvhire,Berwickshire Railway,Q4896025,19,0,2,former railway line in Scotland,,Q728937,,Berwickshire Railway
+Berwickvhire,Berwickshire Field-workers,Q28564947,19,0,2,painting by Edward Arthur Walton,,Q3305213,,
+Berwickvhire,Berwick-upon-Tweed,Q504678,19,0,2,"town in the county of Northumberland, England","Berwick upon Tweed|Berwick-upon-Tweed, Northumberland|Berwick|Berwick-on-Tweed",Q3957|Q1115575|Q677678,,Berwick-upon-Tweed
+Berwickvhire,Berwick-upon-Tweed,Q1072626,19,0,2,"Parliamentary constituency in the United Kingdom, 1885-2024",,Q27971968,,Berwick-upon-Tweed (constituency)
+Berwickvhire,Borough of Berwick-upon-Tweed,Q829244,19,0,2,"former district with borough status in Northumberland, England",Berwick-upon-Tweed Borough|Berwick upon Tweed,Q1187580|Q1006876|Q19953632,,Borough of Berwick-upon-Tweed
+Berwickvhire,Berwick-upon-Tweed,Q56189407,19,0,2,"Parliamentary constituency in the United Kingdom, 1801-1885",,Q27971968,,
+Berwickvhire,Berwick-upon-Tweed,Q60576195,19,0,2,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Berwickvhire,Berwick-upon-Tweed,Q24674379,19,0,2,Wikimedia duplicated page,"Berwick-upon-Tweed, Northumberland",Q17362920,,
+Berwickvhire,Berwick-upon-Tweed railway station,Q2232337,19,0,2,"railway station in Berwick-upon-Tweed, Northumberland, England, UK",Berwick-upon-Tweed Station|BWK,Q55488,,Berwick-upon-Tweed railway station
+Berwickvhire,Berwick upon Tweed,Q105785310,19,0,2,"former manorial estate in Berwick upon Tweed, Northumberland",,Q2116450,,
+Berwickvhire,Berwick-upon-Tweed Harbour,Q105842308,19,0,2,"harbour at Berwick-upon-Tweed, Northumberland, England, UK",Tweedmouth harbour|Berwick harbour,Q283202,,
+Berwickvhire,Berwick-upon-Tweed transmitting station,Q4895974,19,0,2,transmitter station,,Q5367899,,
+Brockhaus and Efron Encyclopedic Dictionary,Brockhaus and Efron Encyclopedic Dictionary,Q602358,19,1,1,comprehensive multi-volume encyclopedia in Russian,BEED,Q3331189,,Brockhaus and Efron Encyclopedic Dictionary
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume Ia, 1905",Q23892474,19,1,1,"Аuxiliary volume Ia of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume I, 1905",Q23892463,19,1,1,"Аuxiliary volume I of the Brockhaus and Efron Encyclopedic Dictionary, 1905",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume II, 1906",Q23892481,19,1,1,"Аuxiliary volume II of the Brockhaus and Efron Encyclopedic Dictionary, 1906",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Aux. volume IIa, 1907",Q23892488,19,1,1,"Аuxiliary volume IIa of the Brockhaus and Efron Encyclopedic Dictionary, 1907",,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XVII, 1896",Q23892928,19,1,1,"Volume XVII of the Brockhaus and Efron Encyclopedic Dictionary, 1896",BEED 33|BEED 17,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume III, 1891",Q23892896,19,1,1,"Volume III of the Brockhaus and Efron Encyclopedic Dictionary, 1891",BEED 3|BEED 05,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume VIII, 1892",Q23892906,19,1,1,"Volume VIII of the Brockhaus and Efron Encyclopedic Dictionary, 1892",BEED 15|BEED 8,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume Iа, 1890",Q23892888,19,1,1,"Volume Iа of the Brockhaus and Efron Encyclopedic Dictionary, 1890",BEED 1a|BEED 02,Q3331189,,
+Brockhaus and Efron Encyclopedic Dictionary,"Brockhaus and Efron Encyclopedic Dictionary. Volume XIVа, 1895",Q23892923,19,1,1,"Volume XIVа of the Brockhaus and Efron Encyclopedic Dictionary, 1895",BEED 28|BEED 14a,Q3331189,,

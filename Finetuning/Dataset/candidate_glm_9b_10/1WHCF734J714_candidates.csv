@@ -1,0 +1,38 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+MOPP,Max Oppenheimer,Q216480,0,0,1,Austrian Jewish painter (1885–1954),MOPP|Mopp|Mopp Oppenheimer|MOPP Oppenheimer|Max Oppenheimer Mopp|Max Oppenheimer (MOPP)|Max Oppenheim|Maximilian Mopp,Q5,,Max Oppenheimer (artist)
+MOPP,MOPP,Q13860556,0,0,1,chemotherapy regimen,"Vincaleukoblastine, 22-oxo-, mixt. with 2-chloro-N-(2-chloroethyl)-N-methylethanamine hydrochloride (1:1), 17,21-dihydroxypregna-1,4-diene-3,11,20-trione and N-(1-methylethyl)-4-[(2-methylhydrazino)methyl]benzamide|Vincristine-prednisone-nitrogen mustard-procarbazine mixt|Nitrogen mustard regimen with prednisone, procarbazine and vincristine|Vincristine-prednisone-nitrogen mustard-procarbazine mixt.",Q169336,,MOPP (chemotherapy)
+MOPP,MOPP,Q6717094,0,0,1,,Mission Oriented Protective Posture,,Q1333024,MOPP (protective gear)
+MOPP,MOPP,Q25205099,0,0,1,,,,,MOPP (electrical safety)
+MOPP,Moppel,Q45098462,0,0,1,family name,,Q101352,,
+MOPP,Moppert,Q37204534,0,0,1,family name,,Q101352,,
+MOPP,All-service protective gear,Q4235687,0,0,1,Soviet/Russian military NBC (hazmat) suit,MOPP,Q10929058,Q16682231,OZK (CBRN suit)
+MOPP,Moppemolen,Q1924661,0,0,1,"windmill in Rijpwetering, Netherlands",,Q38720|Q301449,,
+MOPP,Moppin,Q98717492,0,0,1,Video game developer,Ojiro Fumoto,Q5,,Ojiro Fumoto
+MOPP,Moppy Dearest,Q114513799,0,0,1,episode of Fanboy & Chum Chum (S1 E19),,Q21191270,,
+MOPP,"1,4-dichlorobenzene",Q161529,0,0,2,chemical compound,p-DCB|PARA|PDCB|Paradichlorbenzol|p-chlorophenyl chloride|PDB|p-dichlorobenzene|para-dichlorobenzene|p-dichloro-benzene|p-dichlorobenzol|dichlorobenzene|p-dichlorbenzene,Q113145171,Q1209403,"1,4-Dichlorobenzene"
+MOPP,"1,4-dichlorobenzene exposure",Q21174155,0,0,2,hazardous chemical exposure,,,Q21167512|Q68182219,
+MOPP,"1,4-dichlorobenzene metabolic process",Q22282446,0,0,2,"The chemical reactions and pathways involving 1,4-dichlorobenzene (p-dichlorobenzene or paramoth), a derivative of benzene with two chlorine atoms attached at opposite positions on the ring. It forms white crystals at room temperature and is used as","GO:0018912|1,4-dichlorobenzene metabolism",Q2996394,Q22274776,
+MOPP,"1,4-dichlorobenzene catabolic process",Q22282447,0,0,2,"The chemical reactions and pathways resulting in the breakdown of 1,4-dichlorobenzene (p-dichlorobenzene or paramoth), a derivative of benzene with two chlorine atoms attached at opposite positions on the ring.","1,4-dichlorobenzene degradation|1,4-dichlorobenzene catabolism|1,4-dichlorobenzene breakdown|GO:0019261",Q2996394,Q22282446|Q22274788|Q21120453,
+MOPP,"1,4-Dichlorobenzene",Q45025952,0,0,2,scientific article published on 01 January 2002,,Q13442814,,
+MOPP,"1,4-Dichlorobenzene",Q84784582,0,0,2,scientific article published on 01 January 2011,,Q13442814,,
+MOPP,"1,4-Dichlorobenzene",Q82515474,0,0,2,scientific article published on 01 January 2004,,Q13442814,,
+MOPP,"1,4-Dichlorobenzene-Induced liver tumors in the mouse: evaluation of the role of chlorohydroquinones",Q35075309,0,0,2,scientific article,,Q13442814,,
+MOPP,"1,4-dichlorobenzene marine risk assessment with special reference to the OSPARCOM region: North Sea.",Q35891318,0,0,2,scientific article published in October 2004,,Q13442814,,
+ivermectin,ivermectin,Q415178,1,0,1,antiparasite medication,,Q119892838,Q169336,Ivermectin
+ivermectin,ivermectin,Q105257334,1,0,1,group of stereoisomers,,Q59199015,Q422687,
+ivermectin,Ivermectin,Q77515982,1,0,1,bioactive natural product,,Q113145171,Q104921907,
+ivermectin,ivermectin b1a,Q27132923,1,0,1,chemical compound,"avermectin H2B1a|dihydroavermectin B1a|ivermectin B1a|5-O-demethyl-22,23-dihydroavermectin A1a|H2B1a",Q113145171,Q422687,
+ivermectin,ivermectin b1b,Q27132925,1,0,1,chemical compound,avermectin H2B1b|ivermectin component b1b|ivermectin B1b|dihydroavermectin B1b|H2B1b,Q113145171,Q422687,
+ivermectin,ivermectin during the COVID-19 pandemic,Q110269806,1,0,1,uses of drug ivermectin during the COVID-19 pandemic,,Q1724915,Q415178,Ivermectin during the COVID-19 pandemic
+ivermectin,Ivermectin and outcomes from Covid-19 pneumonia: A systematic review and meta-analysis of randomized clinical trial studies,Q107362026,1,0,1,,,,,
+ivermectin,Ivermectin In Treatment of COVID 19 Patients,Q113885222,1,0,1,clinical trial,,Q30612,,
+ivermectin,Ivermectin Adjuvant to Hydroxychloroquin in COVID19 Patients,Q90692531,1,0,1,clinical trial,,Q30612,,
+ivermectin,Ivermectin for the treatment of COVID-19: A systematic review and meta-analysis of randomized controlled trials,Q107387373,1,0,1,scientific article published in 2021,,,,
+ivermectin,Mectizan® procurement and delivery for onchocerciasis mass drug administration programmes,Q39317954,1,0,2,"scientific article published on October 23, 2010",,Q13442814,,
+ivermectin,Mectizan Donation Program: evaluation of a public-private partnership,Q40517998,1,0,2,scientific article published on April 2004,,Q13442814,,
+ivermectin,Mectizan as a stimulus for development of novel partnerships: the international organization's perspective,Q46515637,1,0,2,scientific article published in April 1998,,Q13442814,,
+ivermectin,Mectizan delivery systems and cost recovery in the Central African Republic,Q50109957,1,0,2,scientific article published in April 1998,,Q13442814,,
+ivermectin,Mectizan donation and the Mectizan Expert Committee,Q52451271,1,0,2,scientific article published in January 1990,,Q13442814,,
+ivermectin,"Mectizan and onchocerciasis: 10 years of Mectizan in Africa, a partnership for prolonged success",Q46515115,1,0,2,"scientific article published on January 1, 1998",,Q13442814,,
+ivermectin,Mectizan delivery systems and cost recovery in the Central African Republic,Q99760848,1,0,2,scientific article published in 1998,,Q13442814,,
+ivermectin,Mectizan as a stimulus for development of novel partnerships: the international organization's perspective,Q99760895,1,0,2,scientific article published in 1998,,Q13442814,,

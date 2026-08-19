@@ -1,0 +1,229 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Léman Express Line 1,Léman Express Line 1,Q104416086,0,0,1,,,Q41103453|Q50331459|Q106978510,,
+Léman Express Line 1,Léman Express,Q7885274,0,0,2,Rail network in greater Geneva,Rhone Express Regional|Geneva RER|RER,Q95723|Q124130081,,Léman Express
+Léman Express Line 1,Léman Express Line 3,Q104416088,0,0,2,,,Q41103453|Q50331459|Q106978510,,
+Léman Express Line 1,Léman Express Line 2,Q104416087,0,0,2,,,Q41103453|Q50331459|Q106978510,,
+Léman Express Line 1,Léman Express Line 4,Q104416089,0,0,2,,,Q41103453|Q50331459|Q106978510,,
+Léman Express Line 1,Léman Express Line 5,Q104416090,0,0,2,,,Q1067164|Q50331459,,
+Léman Express Line 1,Léman Express Line 6,Q104416091,0,0,2,,,Q1067164|Q50331459|Q106978510,,
+Léman Express Line 1,Léman Express Line 7,Q137123930,0,0,2,,,Q1067164|Q106978510|Q50331459,,
+Line S3,Line S3,Q10945835,1,0,1,a suburban rapid transit line of the Nanjing Metro,,Q15079663,,Line S3 (Nanjing Metro)
+Line S3,Line S3,Q56309590,1,0,1,line of the Brussels Regional Express Network,,Q50331459,,
+Line S3,Line S3,Q600028,1,0,1,suburban railway line in Milan,linea S3|S3,Q15141321,,Line S3 (Milan suburban railway service)
+Line S3,Line S3,Q56692654,1,0,1,suburban railway line in Bologna,,Q124130104|Q15141321,,
+Line S3,Line S3,Q97200617,1,0,1,"intercity commuter rail line in Chengdu and Ziyang of Sichuan, China",Ziyang line,Q124130104,,Line S3 (Chengdu Metro)
+Line S3,FGC line S3,Q110713935,1,0,1,Suburban rail line operated by FGC.,S3|line S3|FGC S3,Q124130104,,
+Line S3,line S3,Q116212120,1,0,1,suburban rail service in Carinthia,,Q50331459,,
+Line S3,line S31,Q136093129,1,0,1,suburban railway line,linea S31,Q124130104,,
+R2,Rodalies Barcelona line R2,Q1880046,2,0,1,commuter rail line in Barcelona operated by Renfe,R2|Rodalies R2|line R2,Q124130104,,R2 (Rodalies de Catalunya)
+R2,R2 Online,Q4047795,2,0,1,2008 video game,R2: Reign of Revolution|R2: Online|R2|Reign of Revolution|R2 Online: Reign of Revolution A,Q7889,,
+R2,RRM2,Q18031327,2,0,1,protein-coding gene in the species Homo sapiens,R2|RR2|RR2M|ribonucleotide reductase regulatory subunit M2,Q7187,Q20747295,RRM2
+R2,doctoral university: higher research activity,Q23334891,2,0,1,deprecated subset of doctoral universities with a medium level of research,R2,,Q23334356|Q45025362,
+R2,R2 road,Q4166716,2,0,1,trunk road in Belarus,,Q34442,,
+R2,R2-D2,Q51788,2,0,1,fictional character from Star Wars,Artoo|Artoo-Detoo|R2D2|R2|R2 D2,Q8770760|Q33125444|Q15773347|Q3658341|Q15711870|Q15773317|Q1569167|Q1114461,,R2-D2
+R2,R2 road,Q1536825,2,0,1,"ring road of Antwerp, Belgium",Antwerp Ring|R2,Q2154027|Q26792858,,
+R2,CD82,Q18028107,2,0,1,protein-coding gene in the species Homo sapiens,4F9|C33|GR15|IA4|KAI1|R2|SAR2|ST6|TSPAN27|CD82 molecule,Q7187,Q20747295,
+R2,Redemption II,Q42600234,2,0,1,episode of Star Trek: The Next Generation (S5 E1),"r2|Redemption, Part II|Redemption: Part 2",Q61220733,,
+R2,Braemar,Q29020097,2,0,1,electrical substation,R2,Q174814,,
+S68 (Rhine-Ruhr),S68 (Rhine-Ruhr),Q7388346,3,0,1,,,Q50331459,,S68 (Rhine-Ruhr S-Bahn)
+S68 (Rhine-Ruhr),Orofino Municipal Airport,Q49749005,3,0,2,airport in Idaho,S68,Q62447,,
+S68 (Rhine-Ruhr),S68,Q54951974,3,0,2,cell line,,Q21014462|Q23058136,,
+S68 (Rhine-Ruhr),S68 Sanming North Branch Expressway,Q102417396,3,0,2,,,,,
+S68 (Rhine-Ruhr),S68 Sanxiafanba Expressway,Q116646362,3,0,2,,,Q46622,,
+S68 (Rhine-Ruhr),S68 Dabu-Fengshun-Wuhua Expressway,Q106992060,3,0,2,,,,,
+S68 (Rhine-Ruhr),VHL S68W (c.203C>G),Q56240956,3,0,2,genetic variant,S68W (c.203C>G),Q2656896,,
+S68 (Rhine-Ruhr),VHL S68P (c.202T>C),Q56240937,3,0,2,genetic variant,S68P (c.202T>C)|C.202T>C|SER68PRO,Q2656896,,
+S68 (Rhine-Ruhr),S680N substitution of the follicle-stimulating hormone receptor is a common polymorphism not associated with spontaneous human twinning,Q43696071,3,0,2,scientific article published in July 2001,,Q13442814,,
+S68 (Rhine-Ruhr),S68. Impulse control impairment relationships with Visfatin and body composition indices in patients with type 2 Diabetes Mellitus,Q129852038,3,0,2,scholarly article published in May 2018,,Q13442814,,
+S68 (Rhine-Ruhr),Rhine-Ruhr Metropolitan Region,Q164903,3,0,2,metropolitan region in Germany,,Q1132300,,Rhine-Ruhr metropolitan region
+S68 (Rhine-Ruhr),Rhine-Ruhr S-Bahn,Q481509,3,0,2,Suburban railway in Rhine-Ruhr area (Western Germany),,Q95723|Q18325841,,Rhine-Ruhr S-Bahn
+S68 (Rhine-Ruhr),Rhine-Ruhr Stadtbahn,Q2326651,3,0,2,Stadtbahn system,,Q2140646,,Rhine-Ruhr Stadtbahn
+S68 (Rhine-Ruhr),Rhine-Ruhr metropolitan region,Q30134101,3,0,2,metropolitan region in Germany,Metropolregion Rheinland,Q1132300,,
+S68 (Rhine-Ruhr),Wasserwirtschaft im Rheinisch-Westfälischen Industriegebiet -Ruhrkohlenbezirk-,Q107151105,3,0,2,business,Rhine-Ruhr Water Service Union,Q4830453,,
+S68 (Rhine-Ruhr),Rhine-Ruhr Institute for Applied Systeminnovation,Q77077232,3,0,2,"nonprofit organization in Duisburg, Germany",RIAS,Q163740,,
+S68 (Rhine-Ruhr),Rhine-Ruhr 2025 FISU Games,Q140757042,3,0,2,,,Q17084016,,
+S68 (Rhine-Ruhr),Rhine-Ruhr,Q7320548,3,0,2,Wikimedia disambiguation page,,Q4167410,,Rhine-Ruhr (disambiguation)
+S1 (Nuremberg),S1 (Nuremberg),Q7388209,4,0,1,S-Bahn rail line in Nuremberg,S1,Q50331459,,S1 (Nuremberg)
+S1 (Nuremberg),Nuremberg,Q2090,4,0,2,city in the German state of Bavaria,Nürnberg|Kreisfreie Stadt Nürnberg|Nüremberg,Q1549591|Q57318|Q42744322|Q85631896,,Nuremberg
+S1 (Nuremberg),Nuremberg Trials Project,Q78909371,4,0,2,Harvard Law School Library website on the Nuremberg Trials,,Q35127,,
+S1 (Nuremberg),Nuremberg Medical Trial,Q160721,4,0,2,first of 12 U.S. war crimes trials in Nuremberg,"United States v. Karl Brandt, et al.|NMT 1|Doctors Trial|Doctor's Trial|Doctors' Trial",Q1265353|Q1656682|Q2334719,,Doctors' Trial
+S1 (Nuremberg),Nuremberg,Q248392,4,0,2,2000 miniseries directed by Yves Simoneau,,Q1259759|Q506240,,Nuremberg (miniseries)
+S1 (Nuremberg),Nuremberg,Q1803365,4,0,2,former district of Germany,Landkreis Nürnberg|Nuremberg district,Q106658,,
+S1 (Nuremberg),Nuremberg,Q1181674,4,0,2,"CDP in Luzerene and Schuylkill Counties, Pennsylvania","Nuremberg, Pennsylvania|Nuremberg, PA",Q498162|Q17343829,,"Nuremberg, Pennsylvania"
+S1 (Nuremberg),Nuremberg trials,Q80130,4,0,2,"series of military tribunals after World War II, held 1945-1946",Nürnberg trials,Q1265353,Q8016240,Nuremberg trials
+S1 (Nuremberg),International Military Tribunal,Q1667613,4,0,2,military court for war criminals after the Second World War,"International Military Court|Nuremberg Tribunal|IMT|International Military Tribunal, Nuremberg",Q1262438|Q752080|Q1656682|Q8016240,,
+S1 (Nuremberg),Nuremberg Central Station,Q682583,4,0,2,"main railway station of Nuremberg, Bavaria, Germany",Nürnberg Hbf|Nürnberg Hauptbahnhof station,Q18543139|Q27996466|Q1793804|Q1406904|Q55490,,Nürnberg Hauptbahnhof
+S1 (Nuremberg),Nuremberg,Q104619366,4,0,2,painting by Jan Ciągliński,,Q3305213,,
+S22,S22,Q124207650,5,0,1,line of Esko Prague,,Q124130104,,
+S22,SLARP,Q18970904,5,0,1,protein-coding gene,PF11_0480|S22,Q7187,Q20747295,
+S22,SLARP,Q61614094,5,0,1,,S22,Q7187,Q20747295,
+S22,S220,Q112963797,5,0,1,train service in Hungary,,Q15141321|Q1072319,,
+S22,sporozoite and liver stage asparagine-rich protein,Q56577250,5,0,1,"protein found in Plasmodium falciparum 3D7, encoded by SLARP",PF11_0480|S22|SAP1|sporozoite asparagine-rich protein,Q8054,Q8054,
+S22,S22,Q107294762,5,0,1,railway service of the RER Vaud,,Q50331459,,S22 (RER Vaud)
+S22,Samsung Galaxy S22 series,Q110800451,5,0,1,group of Android smartphone models produced by Samsung in 2022,,Q71266741|Q135236642,Q22645,Samsung Galaxy S22
+S22,S22,Q115743565,5,0,1,railway service of the Aargau S-Bahn,,Q15141321,,
+S22,S22 Tianchang-Tianzhushan Expressway,Q86727332,5,0,1,expressway in Anhui Province,Tianchang-Tianzhushan Expressway|S22,Q135898379,,
+S22,S22 Huitang Expressway,Q11181288,5,0,1,"expressway in Guangdong, China",S22|Huitang Expressway,Q46622,,
+S22,S-22,Q114129198,5,0,2,,,Q2811,,
+S22,USS Chivo,Q2837567,5,0,2,1945 Balao-class submarine,Chivo|SS-341|SS341|ARA Santiago del Estero|Santiago del Estero|S-22|S22,Q4818021,,USS Chivo
+S22,SMS S22,Q17127232,5,0,2,S13-class large torpedo boat of the Imperial German Navy and sunk in 1916,S 22|S22|S-22,Q1549739,,SMS S22 (1913)
+S22,ditazole,Q754622,5,0,2,chemical compound,"S-222|2,2'-(4,5-Diphenyloxazol-2-ylazanediyl)diethanol|Ditazole",Q113145171,Q11173,Ditazole
+S22,Montana Secondary Highway 222,Q110998520,5,0,2,"secondary state highway in Beaverhead County, Montana, United States",S-222,Q34442,,
+S22,J 22,Q1388176,5,0,2,1942 fighter aircraft family by FFVS,FFVS J 22|FFVS 22,Q15056993,Q18491097,FFVS J 22
+S22,Neutron Probe,Q124484714,5,0,2,experiment on Apollo 17,NP|S229|S-229,Q100349043|Q15890399,,
+S22,S22153,Q27088665,5,0,2,chemical compound,S 22153|S-22153,Q113145171,Q11173,
+S22,Su-7IG,Q17415511,5,0,2,variable-sweep wing technology demonstrator based on the Su-7 attack aircraft,SU7IG|Sukhoi Su-7IG|Sukhoi S-22I|S-22I|S22I|Fitter-B|Sukhoi Fitter-B,Q15056995|Q15126161,Q170199,
+S22,Expressway S22,Q1259541,5,0,2,Expressway in Poland connecting Elbląg with Russia,,Q1127434|Q34442,,Expressway S22 (Poland)
+S22,S22,Q124207650,6,0,1,line of Esko Prague,,Q124130104,,
+S22,SLARP,Q18970904,6,0,1,protein-coding gene,PF11_0480|S22,Q7187,Q20747295,
+S22,SLARP,Q61614094,6,0,1,,S22,Q7187,Q20747295,
+S22,S220,Q112963797,6,0,1,train service in Hungary,,Q15141321|Q1072319,,
+S22,sporozoite and liver stage asparagine-rich protein,Q56577250,6,0,1,"protein found in Plasmodium falciparum 3D7, encoded by SLARP",PF11_0480|S22|SAP1|sporozoite asparagine-rich protein,Q8054,Q8054,
+S22,S22,Q107294762,6,0,1,railway service of the RER Vaud,,Q50331459,,S22 (RER Vaud)
+S22,Samsung Galaxy S22 series,Q110800451,6,0,1,group of Android smartphone models produced by Samsung in 2022,,Q71266741|Q135236642,Q22645,Samsung Galaxy S22
+S22,S22,Q115743565,6,0,1,railway service of the Aargau S-Bahn,,Q15141321,,
+S22,S22 Tianchang-Tianzhushan Expressway,Q86727332,6,0,1,expressway in Anhui Province,Tianchang-Tianzhushan Expressway|S22,Q135898379,,
+S22,S22 Huitang Expressway,Q11181288,6,0,1,"expressway in Guangdong, China",S22|Huitang Expressway,Q46622,,
+S22,S-22,Q114129198,6,0,2,,,Q2811,,
+S22,USS Chivo,Q2837567,6,0,2,1945 Balao-class submarine,Chivo|SS-341|SS341|ARA Santiago del Estero|Santiago del Estero|S-22|S22,Q4818021,,USS Chivo
+S22,SMS S22,Q17127232,6,0,2,S13-class large torpedo boat of the Imperial German Navy and sunk in 1916,S 22|S22|S-22,Q1549739,,SMS S22 (1913)
+S22,ditazole,Q754622,6,0,2,chemical compound,"S-222|2,2'-(4,5-Diphenyloxazol-2-ylazanediyl)diethanol|Ditazole",Q113145171,Q11173,Ditazole
+S22,Montana Secondary Highway 222,Q110998520,6,0,2,"secondary state highway in Beaverhead County, Montana, United States",S-222,Q34442,,
+S22,J 22,Q1388176,6,0,2,1942 fighter aircraft family by FFVS,FFVS J 22|FFVS 22,Q15056993,Q18491097,FFVS J 22
+S22,Neutron Probe,Q124484714,6,0,2,experiment on Apollo 17,NP|S229|S-229,Q100349043|Q15890399,,
+S22,S22153,Q27088665,6,0,2,chemical compound,S 22153|S-22153,Q113145171,Q11173,
+S22,Su-7IG,Q17415511,6,0,2,variable-sweep wing technology demonstrator based on the Su-7 attack aircraft,SU7IG|Sukhoi Su-7IG|Sukhoi S-22I|S-22I|S22I|Fitter-B|Sukhoi Fitter-B,Q15056995|Q15126161,Q170199,
+S22,Expressway S22,Q1259541,6,0,2,Expressway in Poland connecting Elbląg with Russia,,Q1127434|Q34442,,Expressway S22 (Poland)
+S22,S22,Q124207650,7,0,1,line of Esko Prague,,Q124130104,,
+S22,SLARP,Q18970904,7,0,1,protein-coding gene,PF11_0480|S22,Q7187,Q20747295,
+S22,SLARP,Q61614094,7,0,1,,S22,Q7187,Q20747295,
+S22,S220,Q112963797,7,0,1,train service in Hungary,,Q15141321|Q1072319,,
+S22,sporozoite and liver stage asparagine-rich protein,Q56577250,7,0,1,"protein found in Plasmodium falciparum 3D7, encoded by SLARP",PF11_0480|S22|SAP1|sporozoite asparagine-rich protein,Q8054,Q8054,
+S22,S22,Q107294762,7,0,1,railway service of the RER Vaud,,Q50331459,,S22 (RER Vaud)
+S22,Samsung Galaxy S22 series,Q110800451,7,0,1,group of Android smartphone models produced by Samsung in 2022,,Q71266741|Q135236642,Q22645,Samsung Galaxy S22
+S22,S22,Q115743565,7,0,1,railway service of the Aargau S-Bahn,,Q15141321,,
+S22,S22 Tianchang-Tianzhushan Expressway,Q86727332,7,0,1,expressway in Anhui Province,Tianchang-Tianzhushan Expressway|S22,Q135898379,,
+S22,S22 Huitang Expressway,Q11181288,7,0,1,"expressway in Guangdong, China",S22|Huitang Expressway,Q46622,,
+S22,S-22,Q114129198,7,0,2,,,Q2811,,
+S22,USS Chivo,Q2837567,7,0,2,1945 Balao-class submarine,Chivo|SS-341|SS341|ARA Santiago del Estero|Santiago del Estero|S-22|S22,Q4818021,,USS Chivo
+S22,SMS S22,Q17127232,7,0,2,S13-class large torpedo boat of the Imperial German Navy and sunk in 1916,S 22|S22|S-22,Q1549739,,SMS S22 (1913)
+S22,ditazole,Q754622,7,0,2,chemical compound,"S-222|2,2'-(4,5-Diphenyloxazol-2-ylazanediyl)diethanol|Ditazole",Q113145171,Q11173,Ditazole
+S22,Montana Secondary Highway 222,Q110998520,7,0,2,"secondary state highway in Beaverhead County, Montana, United States",S-222,Q34442,,
+S22,J 22,Q1388176,7,0,2,1942 fighter aircraft family by FFVS,FFVS J 22|FFVS 22,Q15056993,Q18491097,FFVS J 22
+S22,Neutron Probe,Q124484714,7,0,2,experiment on Apollo 17,NP|S229|S-229,Q100349043|Q15890399,,
+S22,S22153,Q27088665,7,0,2,chemical compound,S 22153|S-22153,Q113145171,Q11173,
+S22,Su-7IG,Q17415511,7,0,2,variable-sweep wing technology demonstrator based on the Su-7 attack aircraft,SU7IG|Sukhoi Su-7IG|Sukhoi S-22I|S-22I|S22I|Fitter-B|Sukhoi Fitter-B,Q15056995|Q15126161,Q170199,
+S22,Expressway S22,Q1259541,7,0,2,Expressway in Poland connecting Elbląg with Russia,,Q1127434|Q34442,,Expressway S22 (Poland)
+S5 (Mitteldeutschland),S5 (Central Germany),Q63216051,8,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5 (Mitteldeutschland),S-Bahn Mitteldeutschland,Q314124,8,0,2,electric rail public transit system in Germany,Leipzig-Halle S-Bahn|S-Bahn Leipzig-Halle|Halle S-Bahn|Leipzig S-Bahn|S-Bahn Halle|S-Bahn Leipzig|Mitteldeutschland S-Bahn|Central Germany S-Bahn|S-Bahn Central Germany|S-Bahn Leipzig/Halle,Q95723,,Mitteldeutschland S-Bahn
+S5 (Mitteldeutschland),Central Germany,Q524856,8,0,2,geographic region in central Germany with borders usually depending on context,,Q82794,,Central Germany (cultural area)
+S5,S5 (Hannover),Q63433456,9,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,9,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,9,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,9,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,9,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,9,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,9,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,9,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,9,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,9,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,9,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,10,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,10,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,10,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,10,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,10,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,10,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,10,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,10,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,10,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,10,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,10,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,11,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,11,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,11,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,11,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,11,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,11,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,11,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,11,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,11,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,11,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,11,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,12,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,12,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,12,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,12,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,12,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,12,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,12,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,12,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,12,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,12,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,12,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,13,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,13,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,13,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,13,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,13,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,13,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,13,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,13,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,13,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,13,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,13,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,14,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,14,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,14,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,14,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,14,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,14,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,14,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,14,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,14,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,14,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,14,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,15,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,15,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,15,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,15,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,15,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,15,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,15,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,15,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,15,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,15,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,15,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,16,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,16,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,16,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,16,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,16,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,16,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,16,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,16,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,16,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,16,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,16,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,17,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,17,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,17,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,17,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,17,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,17,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,17,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,17,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,17,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,17,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,17,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine
+S5,S5 (Hannover),Q63433456,18,0,1,suburban rail line in Hannover,S5,Q50331459|Q1192191,,
+S5,S5,Q96388302,18,0,1,Rhine-Neckar S-Bahn line,,Q50331459,,
+S5,S5,Q63451353,18,0,1,,,Q50331459,,
+S5,S5 (Central Germany),Q63216051,18,0,1,S-Bahn line in central Germany,,Q50331459|Q1192191,,
+S5,S5,Q3743008,18,0,1,train line of the S-Bahn in Berlin,,Q50331459|Q520381,,S5 (Berlin)
+S5,Line S5,Q1159300,18,0,1,suburban railway line in Milan,S5|linea S5,Q15141321,,Line S5 (Milan suburban railway service)
+S5,S5,Q7388335,18,0,1,line of the Zurich S-Bahn (Zug - Affoltern am Albis - Zürich HB - Uster - Rapperswil - Pfäffikon SZ),,Q50331459,,S5 (ZVV)
+S5,S5,Q2515085,18,0,1,line of the Rhine-Main S-Bahn,,Q50331459,,S5 (Rhine-Main S-Bahn)
+S5,S5,Q108602185,18,0,1,railway service of the St. Gallen S-Bahn,,Q50331459,,S5 (St. Gallen S-Bahn)
+S5,Samsung Galaxy S5,Q15618594,18,0,1,Android-based smartphone by Samsung Electronics,Galaxy S5|S5|SGS5|SM-G900|klte|Samsung S5|Samsung Galaxy S V,Q19723451,Q493064|Q22645,Samsung Galaxy S5
+S5,S5-class submarine,Q68935827,18,0,2,Planned class of Ballistic missile submarines,,Q1428357,Q683570,S5-class submarine

@@ -1,0 +1,235 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Seufzersteg,Seufzersteg,Q27903893,0,0,1,demolished bridge across the Germany-Poland border,Bridge of Sighs,Q25297630|Q109607,,
+Seufzersteg,Odra bridge in Gryfino,Q26256340,0,0,2,"bridge in Gryfino, Poland",,Q12280,,
+Germany–Poland border,Germany–Poland border,Q15214996,0,2,1,international border,border between Germany and Poland|border between Poland and Germany|Germany-Poland border|Poland-Germany border|Poland–Germany border|German-Polish border|Polish-German border,Q133346|Q15104814|Q3089219|Q12413618,,Germany–Poland border
+Germany–Poland border,German–Polish Border Treaty,Q650979,0,2,2,1990 state treaty that governs the borders between Germany and Poland,German-Polish Border Treaty|Treaty between the Federal Republic of Germany and the Republic of Poland on the confirmation of the frontier between them,Q9557810,,German–Polish Border Treaty
+Simón Bolívar International Bridge,Simón Bolívar International Bridge,Q3396757,1,0,1,bridge connecting Colombia and Venezuela,International Simon Bolivar Bridge,Q25297630|Q158626|Q537127|Q7814330,,Simón Bolívar International Bridge
+Simón Bolívar International Bridge,Bridge of the Americas,Q216061,1,0,2,"road bridge in Panama, spanning the Pacific entrance to the Panama Canal",Puente de las Américas|Thatcher Ferry Bridge,Q5592057|Q1429218|Q158218|Q818882|Q12042110|Q537127|Q158555,,Bridge of the Americas
+Simón Bolívar International Bridge,Bridge of the Americas,Q4966455,1,0,2,Bridge connecting the Mexican state of Chihuahua with the U.S. state of Texas,,Q537127|Q25297630,,Bridge of the Americas (El Paso–Ciudad Juárez)
+Colombia-Venezuela border,Colombia-Venezuela border,Q7886197,1,2,1,international border,border between Colombia and Venezuela|border between Venezuela and Colombia|Venezuela-Colombia border|Venezuela–Colombia border,Q133346|Q15104814|Q3089219|Q12413618,,Colombia–Venezuela border
+Colombia-Venezuela border,Colombia Venezuela border crossing #1205,Q68036236,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1192,Q68036229,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1216,Q68036241,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1188,Q68036227,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1212,Q68036239,1,2,1,,90,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1204,Q68036235,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1196,Q68036231,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1197,Q68036232,1,2,1,,,Q757292,,
+Colombia-Venezuela border,Simón Bolívar International Bridge,Q3396757,1,2,2,bridge connecting Colombia and Venezuela,International Simon Bolivar Bridge,Q25297630|Q158626|Q537127|Q7814330,,Simón Bolívar International Bridge
+Sault Ste. Marie International Bridge,Sault Ste. Marie International Bridge,Q1596245,2,0,1,bridge connecting Canada and the United States,,Q6752690|Q5592057|Q12042110|Q537127|Q7814330|Q25297630,,Sault Ste. Marie International Bridge
+Sault Ste. Marie International Bridge,international bridge,Q25297630,2,0,2,bridge built across a geopolitical boundary,transborder bridge|transboundary bridge|bridge between countries|transcountry bridge,,Q12280|Q25297020|Q55599109,
+Sault Ste. Marie International Bridge,International Bridge,Q30738524,2,0,2,"bridge over the Bidasoa, between Irun and Hendaye",,Q537127|Q1569871|Q25297630|Q12280,,
+Sault Ste. Marie International Bridge,International Bridge of Integration,Q63858940,2,0,2,International bridge between Brazil and Paraguay.,,Q537127|Q25297630,,
+Sault Ste. Marie International Bridge,José Antonio Páez International Bridge,Q3396597,2,0,2,bridge connecting Colombia and Venezuela,Puente Internacional Jose Antonio Paez|International Bridge José Antonio Páez|Puente Internacional José Antonio Páez,Q25297630|Q537127|Q158218,,
+Sault Ste. Marie International Bridge,International Bridges to Justice,Q6048846,2,0,2,,IBJ,Q163740,,International Bridges to Justice
+Sault Ste. Marie International Bridge,"International bridges in Laredo, Texas",Q6054485,2,0,2,,,,,"International bridges in Laredo, Texas"
+Sault Ste. Marie International Bridge,International bridge Tui - Valença,Q59357910,2,0,2,bridge between Tui (Spain) and Valença (Portugal),,Q12280|Q25297630,,
+Sault Ste. Marie International Bridge,International bridge Arbo - Melgaço,Q59356418,2,0,2,bridge between Arbo (Spain) and Melgaço (Portugal),,Q12280|Q25297630,,
+Sault Ste. Marie International Bridge,International Bridge Walk,Q6048840,2,0,2,annual US–Canada event,,,,International Bridge Walk
+Sault Ste. Marie International Bridge,International bridge Salvaterra do Miño - Monção,Q59356069,2,0,2,bridge between Salvaterra de Miño (Spain) and Monção (Portugal),,Q12280|Q25297630,,
+Sault Ste. Marie International Bridge,Sault Ste. Marie Bridge Company,Q7427398,2,0,2,international railroad bridge,,Q4830453|Q1210334|Q25297630,,Sault Ste. Marie Bridge Company
+Canada–United States border,Canada–United States border,Q119515,2,2,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+Canada–United States border,Sault Ste. Marie International Bridge,Q1596245,2,2,2,bridge connecting Canada and the United States,,Q6752690|Q5592057|Q12042110|Q537127|Q7814330|Q25297630,,Sault Ste. Marie International Bridge
+International Bridge,international bridge,Q25297630,3,0,1,bridge built across a geopolitical boundary,transborder bridge|transboundary bridge|bridge between countries|transcountry bridge,,Q12280|Q25297020|Q55599109,
+International Bridge,International Bridge,Q30738524,3,0,1,"bridge over the Bidasoa, between Irun and Hendaye",,Q537127|Q1569871|Q25297630|Q12280,,
+International Bridge,International Bridge of Integration,Q63858940,3,0,1,International bridge between Brazil and Paraguay.,,Q537127|Q25297630,,
+International Bridge,José Antonio Páez International Bridge,Q3396597,3,0,1,bridge connecting Colombia and Venezuela,Puente Internacional Jose Antonio Paez|International Bridge José Antonio Páez|Puente Internacional José Antonio Páez,Q25297630|Q537127|Q158218,,
+International Bridge,International Bridges to Justice,Q6048846,3,0,1,,IBJ,Q163740,,International Bridges to Justice
+International Bridge,"International bridges in Laredo, Texas",Q6054485,3,0,1,,,,,"International bridges in Laredo, Texas"
+International Bridge,International bridge Tui - Valença,Q59357910,3,0,1,bridge between Tui (Spain) and Valença (Portugal),,Q12280|Q25297630,,
+International Bridge,International bridge Arbo - Melgaço,Q59356418,3,0,1,bridge between Arbo (Spain) and Melgaço (Portugal),,Q12280|Q25297630,,
+International Bridge,International Bridge Walk,Q6048840,3,0,1,annual US–Canada event,,,,International Bridge Walk
+International Bridge,International bridge Salvaterra do Miño - Monção,Q59356069,3,0,1,bridge between Salvaterra de Miño (Spain) and Monção (Portugal),,Q12280|Q25297630,,
+Camino del Interior,Way of Saint James through the Inland Route of the Basque Country,Q5742377,3,2,1,pilgrim's way in Spain,,Q337912|Q131415018,,
+Camino del Interior,international bridge,Q25297630,3,2,2,bridge built across a geopolitical boundary,transborder bridge|transboundary bridge|bridge between countries|transcountry bridge,,Q12280|Q25297020|Q55599109,
+Camino del Interior,International Bridge,Q30738524,3,2,2,"bridge over the Bidasoa, between Irun and Hendaye",,Q537127|Q1569871|Q25297630|Q12280,,
+Camino del Interior,International Bridge of Integration,Q63858940,3,2,2,International bridge between Brazil and Paraguay.,,Q537127|Q25297630,,
+Camino del Interior,José Antonio Páez International Bridge,Q3396597,3,2,2,bridge connecting Colombia and Venezuela,Puente Internacional Jose Antonio Paez|International Bridge José Antonio Páez|Puente Internacional José Antonio Páez,Q25297630|Q537127|Q158218,,
+Camino del Interior,International Bridges to Justice,Q6048846,3,2,2,,IBJ,Q163740,,International Bridges to Justice
+Camino del Interior,"International bridges in Laredo, Texas",Q6054485,3,2,2,,,,,"International bridges in Laredo, Texas"
+Camino del Interior,International bridge Tui - Valença,Q59357910,3,2,2,bridge between Tui (Spain) and Valença (Portugal),,Q12280|Q25297630,,
+Camino del Interior,International bridge Arbo - Melgaço,Q59356418,3,2,2,bridge between Arbo (Spain) and Melgaço (Portugal),,Q12280|Q25297630,,
+Camino del Interior,International Bridge Walk,Q6048840,3,2,2,annual US–Canada event,,,,International Bridge Walk
+Camino del Interior,International bridge Salvaterra do Miño - Monção,Q59356069,3,2,2,bridge between Salvaterra de Miño (Spain) and Monção (Portugal),,Q12280|Q25297630,,
+Camino del Interior,Camino Real,Q20247226,3,2,2,village in Mexico,,Q20202352,,
+Camino del Interior,Camino Real,Q5026780,3,2,2,play by Tennessee Williams,,Q7725634,,Camino Real (play)
+Camino del Interior,Camino Real,Q113493387,3,2,2,strawberry cultivar,,Q133300398,,Camino Real strawberry
+Camino del Interior,Camino Real,Q61257330,3,2,2,,,Q20202352,,
+Camino del Interior,Camino Real de Panamá,Q1029590,3,2,2,,,Q1574938,,
+Camino del Interior,Camino Real,Q20210998,3,2,2,,,Q486972,,
+Camino del Interior,Camino Real,Q20148191,3,2,2,human settlement in Mexico,,Q486972,,
+Camino del Interior,Cartagena Residence,Q49992439,3,2,2,"town in Celaya Municipality, State of Guanajuato, Mexico",Camino Real,Q486972,,
+Camino del Interior,Camino Real,Q5742303,3,2,2,,,Q405155,,
+Camino del Interior,Camino Real,Q62020171,3,2,2,District of Chile in Chile,,Q62005833,,
+Aavasaksa Bridge,Aavasaksa Bridge,Q6672779,4,0,1,"road bridge across the Torne River between Aavasaksa, Ylitornio, Finland and Övertorneå, Sweden",,Q537127|Q818882|Q25297630,,
+Stânca-Costești Dam,,,5,0,0,,,,,
+Moldova–Romania border,Moldova–Romania border,Q2631181,5,2,1,separates the state territories of the two States,border between Moldavia and Romania|border between Romania and Moldavia|Moldavia-Romania border|Romania–Moldavia border,Q133346|Q15104814|Q12413618,,Moldova–Romania border
+Moldova–Romania border,international border,Q12413618,5,2,2,border between two sovereign states,interstate border|state border|national border|country border|international boundary,Q3241107,Q1292279,State border
+Moldova–Romania border,Canada–United States border,Q119515,5,2,2,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+Moldova–Romania border,Mexico–United States border,Q1057263,5,2,2,international border between the two countries in North America,United States of America-Mexico border|border between Mexico and the United States|border between Mexico and the United States of America|border between the USA and Mexico|border between the US and Mexico|border between the United States and Mexico|border between the United States of America and Mexico|USA-Mexico border|border between Mexico and the USA and Argentina|United States–Mexico border|US-Mexico border|International Border of the South|Mexico-United States of America border|Mexico-USA border|Mexico-US border|border between Mexico and the US|United States-Mexico border|Mexico-United States border,Q15104814|Q3089219|Q12413618|Q87443571,,Mexico–United States border
+Moldova–Romania border,borders of Norway,Q11701314,5,2,2,international borders,international borders of Norway,Q12413618|Q1292279,,
+Moldova–Romania border,International Borderland Film Days Selb,Q111652384,5,2,2,,,Q220505,,
+Moldova–Romania border,international border states,Q4180219,5,2,2,Wikimedia list article,,Q13406463,,International border states of the United States
+Moldova–Romania border,International borders and range ecology: The case of Bedouin transborder grazing,Q58153630,5,2,2,scientific article published in 1996,,Q13442814,,
+Moldova–Romania border,"International borders, ground water flow, and hydroschizophrenia",Q51358557,5,2,2,scientific article published in September 2005,,Q13442814,,
+Moldova–Romania border,International border malaria control,Q44170577,5,2,2,scientific article published in December 1993,,Q13442814|Q871232,,
+Moldova–Romania border,INTERNATIONAL BORDER RABIES,Q46021242,5,2,2,scientific article published in May 1965,,Q13442814,,
+Spiersbach bridge,Spiersbach bridge,Q27854139,6,0,1,Border bridge between Bangs in Austria and Ruggel in Liechtenstein,,Q12280|Q25297630,,
+Austria–Liechtenstein border,Austria–Liechtenstein border,Q1991324,6,2,1,international border between Liechtenstein and Austria,Austria-Liechtenstein border|border between Austria and Liechtenstein|border between Liechtenstein and Austria|Liechtenstein–Austria border,Q15104814|Q12413618,,
+Austria–Liechtenstein border,Austria–Liechtenstein relations,Q55654930,6,2,2,bilateral relations between Austria and Liechtenstein,Liechtenstein–Austria relations|Austria-Liechtenstein relations|Liechtenstein-Austria relations,Q15221623,,Austria–Liechtenstein relations
+Austria–Liechtenstein border,Austria–Liechtenstein–Switzerland southern tripoint,Q27400022,6,2,2,international tripoint,Austria-Liechtenstein-Switzerland tripoint|Austria–Liechtenstein–Switzerland tripoint,Q27345018,,
+Austria–Liechtenstein border,Austria–Liechtenstein–Switzerland northern tripoint,Q27399743,6,2,2,international tripoint,Austria-Liechtenstein-Switzerland tripoint|Austria–Liechtenstein–Switzerland tripoint,Q27345018,,
+Second Bridge over the Sai River (Thailand-Myanmar),Second Bridge over the Sai River (Thailand-Myanmar),Q112630945,7,0,1,Bridge over Sai River between Thailand and Myanmar,,Q537127|Q25297630,,
+Myanmar–Thailand border,Myanmar–Thailand border,Q3088841,7,2,1,international border,border between Burma and Thailand|border between Thailand and Burma|Burma-Thailand border|Burma–Thailand border|Thailand-Burma border|Thailand–Burma border,Q133346|Q15104814|Q3089219|Q12413618,,Myanmar–Thailand border
+Myanmar–Thailand border,Myanmar Thailand border crossing #631,Q68035707,7,2,2,,110,Q757292,,
+Myanmar–Thailand border,Myanmar Thailand border crossing #633,Q68035709,7,2,2,,105,Q757292,,
+Hardegg Thayabrücke,Hardegg Thayabrücke,Q2409289,8,0,1,international bridge in Austria and Czechia,,Q537127|Q25297630,,
+Hardegg Thayabrücke,Hardegg,Q69670533,8,0,2,cadastral municipality in Leibnitz District,,Q17376095,,
+Hardegg Thayabrücke,Hardegg,Q92098745,8,0,2,family name,,Q101352,,
+Hardegg Thayabrücke,Hardegg,Q524727,8,0,2,"municipality in Hollabrunn District, Lower Austria, Austria",,Q667509|Q13539802,,Hardegg
+Hardegg Thayabrücke,Hardegg,Q593486,8,0,2,noble family,,Q13417114,,
+Hardegg Thayabrücke,Hardegger,Q76411565,8,0,2,family name,,Q101352,,
+Hardegg Thayabrücke,Hardegg,Q113551730,8,0,2,"locality in Hollabrunn District, Austria",,Q11183787,,
+Hardegg Thayabrücke,Hardegg,Q23858064,8,0,2,article in Otto's encyclopedia,,Q13433827,,
+Hardegg Thayabrücke,Hardegger,Q107536984,8,0,2,,,Q5,,
+Hardegg Thayabrücke,Hardegg Castle,Q681948,8,0,2,rocca,Hardegg (hrad),Q23413|Q33506,,Burg Hardegg
+Hardegg Thayabrücke,Hardegg,Q77581864,8,0,2,"locality in St. Veit an der Glan District, Austria",Hardegg (Liebenfels),Q11183787,,
+Austria–Czech Republic border,Austria–Czech Republic border,Q3088742,8,2,1,the border between Austria and the Czech Republic,Austria-Czech Republic border|border between Austria and Czech Republic|border between Czech Republic and Austria|Czech Republic-Austria border|Czech Republic–Austria border,Q133346|Q15104814|Q12413618,,
+Austria–Czech Republic border,Austria,Q40,8,2,2,country in Central Europe,Republic of Austria,Q3624078|Q4209223|Q123480|Q127693126|Q6256,,Austria
+Austria–Czech Republic border,Austria–Hungary,Q28513,8,2,2,1867–1918 empire in Central Europe,Austro-Hungarian Empire|Dual Monarchy|Austria Hungary|Austria|Austro-Hungarian Monarchy|Monarchy of Austria-Hungary|The Kingdoms and Lands Represented in the Imperial Council and the Lands of the Holy Hungarian Crown of St. Stephen|Monarchy of Austria–Hungary|Austria-Hungary,Q3624078|Q3024240|Q48349|Q1093720|Q6256,,Austria-Hungary
+Austria–Czech Republic border,Austrian Empire,Q131964,8,2,2,Central European multinational Empire from 1804 to 1867,Austria,Q3624078|Q3024240,,Austrian Empire
+Austria–Czech Republic border,Austria,Q25114801,8,2,2,family name,,Q101352,,Austria (surname)
+Austria–Czech Republic border,Cisleithania,Q533534,8,2,2,northern and western part of Austro-Hungary with Dalmatia and Istria (1867–1918),The Kingdoms and Lands Represented in the Imperial Council|Austrian Lands,Q107390|Q19953632,,Cisleithania
+Austria–Czech Republic border,Austria men's national football team,Q163534,8,2,2,men's national association football team representing Austria,Austria national soccer team|Austrian national football team|Austrian national soccer team|Austria national association football team|Austria national football team,Q135408445,Q1194951,Austria national football team
+Austria–Czech Republic border,FK Austria Wien,Q131209,8,2,2,association football club in Austria,Fußballklub Austria Wien|Austria Vienna,Q476028,,FK Austria Wien
+Austria–Czech Republic border,Belvedere,Q303139,8,2,2,"museum housed in the Belvedere palace, Vienna, Austria",Osterreichische Gallery|Osterreichische Galerie Belvedere|Austrian National Gallery|Belvedere Gallery|Belvedere Museum|Kaiserlich Königlichen Bilder Gallerie in Wien,Q3196771,,Österreichische Galerie Belvedere
+Austria–Czech Republic border,Styria,Q41358,8,2,2,federal state in the south of Austria,Steiermark|Upper Styria|Austrian Styria,Q261543|Q82794,,Styria
+Austria–Czech Republic border,Austria,Q4825411,8,2,2,constituency of the European Parliament,,Q2631496,,Austria (European Parliament constituency)
+Austria–Czech Republic border,Czech Republic,Q213,8,2,2,country in Central Europe,Czechia,Q6256|Q3624078|Q123480|Q7270|Q127693126,,Czech Republic
+Austria–Czech Republic border,Czech Republic,Q5201764,8,2,2,constituency of the European Parliament,,Q2631496,,Czech Republic (European Parliament constituency)
+Austria–Czech Republic border,Czech Republic,Q3496079,8,2,2,member state of the Czech and Slovak Federal Republic (1990–1992),,Q56219758,,
+Austria–Czech Republic border,Czechia men's national football team,Q483868,8,2,2,men's national association football team representing Czechia,Czech Republic national football team|Czech national football team|Czechia national team|National team of Czechia|Czechia NT|Czechia N.T.|Czechia national football team,Q135408445,Q1194951,Czech Republic national football team
+Austria–Czech Republic border,Czech Republic national under-21 football team,Q1464421,8,2,2,national under-21 association football team representing Czechia,Czechia national under-21 football team|Czechia national U21 football team,Q6979740,Q1194951,Czech Republic national under-21 football team
+Austria–Czech Republic border,Czechia men's national ice hockey team,Q754410,8,2,2,men's national ice hockey team representing the Czech Republic,Czech Republic men's national ice hockey team|Team Czech Republic,Q135409346,,Czechia men's national ice hockey team
+Austria–Czech Republic border,Czech Republic,Q99288382,8,2,2,the country of the Czech Republic as depicted in Star Trek,Star Trek Czech Republic,Q57663042|Q15796005,,
+Austria–Czech Republic border,2017 Czech legislative election,Q17016895,8,2,2,"All 200 seats of the Chamber of Deputies, lower house of the Parliament, were available for the election.","Election to the Chamber of Deputies of the Parliament of the Czech Republic of 2017|Czech Republic general election of 2017|Czech parliamentary election, 2017|Czech Republic parliamentary election of 2017|Czech legislative election, 2017|Czech general election, 2017|Czech Republic legislative election of 2017|2017 Czech general election",Q14516417,,2017 Czech parliamentary election
+Austria–Czech Republic border,Czech Republic national under-19 football team,Q3873527,8,2,2,national under-19 football team of Czechia,Czechia national under-19 football team|Czechia national U19 football team,Q23901137,,Czech Republic national under-19 football team
+Austria–Czech Republic border,Czech Republic–Poland border,Q1992001,8,2,2,separates the state territories of the two States,border between Czech Republic and Poland|border between Poland and Czech Republic|Czech Republic-Poland border|Poland-Czech Republic border,Q133346|Q15104814|Q12413618,,Czech Republic–Poland border
+Austria–Czech Republic border,Hardegg Thayabrücke,Q2409289,8,2,2,international bridge in Austria and Czechia,,Q537127|Q25297630,,
+Austria–Czech Republic border,Hardegg,Q69670533,8,2,2,cadastral municipality in Leibnitz District,,Q17376095,,
+Austria–Czech Republic border,Hardegg,Q92098745,8,2,2,family name,,Q101352,,
+Austria–Czech Republic border,Hardegg,Q524727,8,2,2,"municipality in Hollabrunn District, Lower Austria, Austria",,Q667509|Q13539802,,Hardegg
+Austria–Czech Republic border,Hardegg,Q593486,8,2,2,noble family,,Q13417114,,
+Austria–Czech Republic border,Hardegger,Q76411565,8,2,2,family name,,Q101352,,
+Austria–Czech Republic border,Hardegg,Q113551730,8,2,2,"locality in Hollabrunn District, Austria",,Q11183787,,
+Austria–Czech Republic border,Hardegg,Q23858064,8,2,2,article in Otto's encyclopedia,,Q13433827,,
+Austria–Czech Republic border,Hardegger,Q107536984,8,2,2,,,Q5,,
+Austria–Czech Republic border,Hardegg Castle,Q681948,8,2,2,rocca,Hardegg (hrad),Q23413|Q33506,,Burg Hardegg
+Austria–Czech Republic border,Hardegg,Q77581864,8,2,2,"locality in St. Veit an der Glan District, Austria",Hardegg (Liebenfels),Q11183787,,
+Pierre Pflimlin Bridge,Pierre Pflimlin Bridge,Q871751,9,0,1,bridge near Strasbourg,,Q1429218|Q537127|Q3397516|Q25297630,,Pierre Pflimlin Bridge
+Pierre Pflimlin Bridge,Pierre Pflimlin,Q328504,9,0,2,French politician (1907-2000),,Q5,,Pierre Pflimlin
+Pierre Pflimlin Bridge,Pierre Pflimlin Cabinet,Q3112396,9,0,2,,,Q640506,,
+Pierre Pflimlin Bridge,Pierre Pflimlin Building,Q130641974,9,0,2,,,Q41176,,
+Pierre Pflimlin Bridge,Pflimlin,Q56540244,9,0,2,family name,Pflimlin (family name)|Pflimlin (surname),Q101352,,Pflimlin
+Pierre Pflimlin Bridge,Pflimlin,Q3377923,9,0,2,Wikimedia disambiguation page,,Q4167410,,
+list of state roads in Baden-Württemberg from the L67,list of state roads in Baden-Württemberg from the L67,Q21601976,9,2,1,Wikimedia list article,,Q13406463,,
+list of state roads in Baden-Württemberg from the L67,kz,Q29715699,9,2,2,protein-coding gene in the species Drosophila melanogaster,kurz|Dmel_CG3228|l67|Dmel\CG3228|CG3228|l(1)N4|EG:30B8.2|N1|N8|l(1)2Eb,Q7187,,
+list of state roads in Baden-Württemberg from the L67,Photometric standard sequences in the Crux region with short discussion of the absorption conditions in the regions,Q66709975,9,2,2,scholarly article published 1967,1967ArA.....4..375L|[L67b]|L67b,Q13442814|Q605175,,
+list of state roads in Baden-Württemberg from the L67,Oxidoreductase L67726,Q23507315,9,2,2,microbial protein found in Lactococcus lactis subsp. lactis Il1403,ymgK|L67726,Q8054,Q8054,
+list of state roads in Baden-Württemberg from the L67,Hypothetical protein L67463,Q23508266,9,2,2,microbial protein found in Lactococcus lactis subsp. lactis Il1403,yuiB|L67463,Q8054,Q8054,
+list of state roads in Baden-Württemberg from the L67,Amidase L67226,Q23508177,9,2,2,microbial protein found in Lactococcus lactis subsp. lactis Il1403,L67226|ycgH,Q8054,Q8054,
+list of state roads in Baden-Württemberg from the L67,cation transporter L67760,Q23185188,9,2,2,microbial gene found in Lactococcus lactis subsp. lactis Il1403,yogJ|L67760|cation transporter,Q7187,Q7187|Q20747295,
+list of state roads in Baden-Württemberg from the L67,Phosphate-starvation-inducible protein PsiE L67275,Q23508517,9,2,2,microbial protein found in Lactococcus lactis subsp. lactis Il1403,yogI|L67275,Q8054,,
+list of state roads in Baden-Württemberg from the L67,phosphate-starvation-inducible protein PsiE L67275,Q23189178,9,2,2,microbial gene found in Lactococcus lactis subsp. lactis Il1403,yogI|L67275|phosphate-starvation-inducible protein PsiE,Q7187,Q7187|Q20747295,
+list of state roads in Baden-Württemberg from the L67,Hypothetical protein L67527,Q23506466,9,2,2,microbial protein found in Lactococcus lactis subsp. lactis Il1403,ysiC|L67527,Q8054,Q8054,
+list of state roads in Baden-Württemberg from the L67,hypothetical protein L6768,Q23186258,9,2,2,microbial gene found in Lactococcus lactis subsp. lactis Il1403,ygaI|L6768|hypothetical protein,Q7187,Q7187|Q20747295,
+list of state roads in Baden-Württemberg from the L67,state highway,Q1788582,9,2,2,"highway which is part of a subnational highway network; often described as a state highway network, provincial highway network, or similar",state road|state route|provincial highway|provincial road|provincial route|territorial highway|territorial road|territorial route|subnational highway|subnational road|subnational route,,Q269949|Q1716124,State highway
+list of state roads in Baden-Württemberg from the L67,strada statale,Q838251,9,2,2,type of road in Italy,state road,Q7860962,Q1716124|Q269949|Q140684925|Q1788582,State highway (Italy)
+list of state roads in Baden-Württemberg from the L67,state road,Q30544343,9,2,2,road type in Turkey,,Q7860962,Q2145163|Q1716124,
+list of state roads in Baden-Württemberg from the L67,state road,Q2325307,9,2,2,"road type in Saxony, Germany",,Q358078,Q896009,
+list of state roads in Baden-Württemberg from the L67,state road,Q52835941,9,2,2,historic category of roads in Poland,,,Q2145163,
+list of state roads in Baden-Württemberg from the L67,state roads in Croatia,Q2947924,9,2,2,system of numbered routes in Croatia,Croatian state roads|državna cesta|state road,Q25631158,,
+list of state roads in Baden-Württemberg from the L67,Florida State Roads,Q98399543,9,2,2,numbered system of highway routes in the U.S. state of Florida,state roads in Florida,Q25631158,,
+list of state roads in Baden-Württemberg from the L67,Indiana state roads,Q97364777,9,2,2,numbered system of highway routes in the U.S. state of Indiana,Indiana state road|state roads of Indiana|SR|Indiana state highways|Indiana state highway,Q25631158,Q1852213,
+list of state roads in Baden-Württemberg from the L67,State road 251,Q3974902,9,2,2,road in Italy,,Q34442|Q838251,,
+list of state roads in Baden-Württemberg from the L67,state highways in New Mexico,Q24261073,9,2,2,"highway system in New Mexico, United States; numbered system of highway routes in the U.S. state of New Mexico",numbered highways in New Mexico|New Mexico State Highway System|state roads in New Mexico|New Mexico State Roads|New Mexico State Road System|NM State Road System,Q358078|Q25631158,,
+Atanasio Girardot International Bridge,Atanasio Girardot International Bridge,Q16623108,10,0,1,bridge connecting Colombia and Venezuela,,Q25297630|Q537127|Q1068842,,Tienditas Bridge
+Atanasio Girardot International Bridge,Atanasio Girardot,Q2868772,10,0,2,Colombian revolutionary (1791-1813),Manuel Atanasio Girardot Díaz,Q5,,Atanasio Girardot
+Atanasio Girardot International Bridge,Atanasio Girardot Sports Complex,Q963264,10,0,2,sports complex including multi-purpose stadium and coliseum in Medellín,,Q1154710,,Atanasio Girardot Sports Complex
+Atanasio Girardot International Bridge,Estadio Atanasio Girardot,Q6156079,10,0,2,"stadium in Medellín, Colombia",,Q483110,,Atanasio Girardot Stadium
+Atanasio Girardot International Bridge,international bridge,Q25297630,10,0,2,bridge built across a geopolitical boundary,transborder bridge|transboundary bridge|bridge between countries|transcountry bridge,,Q12280|Q25297020|Q55599109,
+Atanasio Girardot International Bridge,International Bridge,Q30738524,10,0,2,"bridge over the Bidasoa, between Irun and Hendaye",,Q537127|Q1569871|Q25297630|Q12280,,
+Atanasio Girardot International Bridge,International Bridge of Integration,Q63858940,10,0,2,International bridge between Brazil and Paraguay.,,Q537127|Q25297630,,
+Atanasio Girardot International Bridge,José Antonio Páez International Bridge,Q3396597,10,0,2,bridge connecting Colombia and Venezuela,Puente Internacional Jose Antonio Paez|International Bridge José Antonio Páez|Puente Internacional José Antonio Páez,Q25297630|Q537127|Q158218,,
+Atanasio Girardot International Bridge,International Bridges to Justice,Q6048846,10,0,2,,IBJ,Q163740,,International Bridges to Justice
+Atanasio Girardot International Bridge,"International bridges in Laredo, Texas",Q6054485,10,0,2,,,,,"International bridges in Laredo, Texas"
+Atanasio Girardot International Bridge,International bridge Tui - Valença,Q59357910,10,0,2,bridge between Tui (Spain) and Valença (Portugal),,Q12280|Q25297630,,
+Atanasio Girardot International Bridge,International bridge Arbo - Melgaço,Q59356418,10,0,2,bridge between Arbo (Spain) and Melgaço (Portugal),,Q12280|Q25297630,,
+Atanasio Girardot International Bridge,International Bridge Walk,Q6048840,10,0,2,annual US–Canada event,,,,International Bridge Walk
+Atanasio Girardot International Bridge,International bridge Salvaterra do Miño - Monção,Q59356069,10,0,2,bridge between Salvaterra de Miño (Spain) and Monção (Portugal),,Q12280|Q25297630,,
+Atanasio Girardot International Bridge,Colombia-Venezuela border,Q7886197,10,0,2,international border,border between Colombia and Venezuela|border between Venezuela and Colombia|Venezuela-Colombia border|Venezuela–Colombia border,Q133346|Q15104814|Q3089219|Q12413618,,Colombia–Venezuela border
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1205,Q68036236,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1192,Q68036229,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1216,Q68036241,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1188,Q68036227,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1212,Q68036239,10,0,2,,90,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1204,Q68036235,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1196,Q68036231,10,0,2,,,Q757292,,
+Atanasio Girardot International Bridge,Colombia Venezuela border crossing #1197,Q68036232,10,0,2,,,Q757292,,
+Colombia-Venezuela border,Colombia-Venezuela border,Q7886197,10,2,1,international border,border between Colombia and Venezuela|border between Venezuela and Colombia|Venezuela-Colombia border|Venezuela–Colombia border,Q133346|Q15104814|Q3089219|Q12413618,,Colombia–Venezuela border
+Colombia-Venezuela border,Colombia Venezuela border crossing #1205,Q68036236,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1192,Q68036229,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1216,Q68036241,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1188,Q68036227,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1212,Q68036239,10,2,1,,90,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1204,Q68036235,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1196,Q68036231,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Colombia Venezuela border crossing #1197,Q68036232,10,2,1,,,Q757292,,
+Colombia-Venezuela border,Atanasio Girardot International Bridge,Q16623108,10,2,2,bridge connecting Colombia and Venezuela,,Q25297630|Q537127|Q1068842,,Tienditas Bridge
+Tajik–Afghan Friendship Bridge,Tajik–Afghan Friendship Bridge,Q7676856,11,0,1,"bridge in Darvaz, Tajikistan / Afghanistan",Tajikistan–Afghanistan Friendship Bridge,Q12570|Q25297630,,Tajik–Afghan Friendship Bridge
+Tajik–Afghan Friendship Bridge,Danube Bridge,Q203004,11,0,2,road–rail bridge over the Danube river,Friendship Bridge,Q158218|Q12042110|Q25297630|Q6636777|Q1068842,,Danube Bridge
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q1140475,11,0,2,deck arch bridge between Brazil and Paraguay in South America,,Q14276458|Q3397659|Q25297630|Q537127,,Friendship Bridge (Brazil–Paraguay)
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q14955756,11,0,2,"bridge in Tartu, Estonia",,Q12280,,Friendship Bridge (Tartu)
+Tajik–Afghan Friendship Bridge,Amizade Bridge,Q1318003,11,0,2,bridge in Macau,Friendship Bridge,Q537127,,Amizade Bridge (Macau)
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q14955759,11,0,2,"Bridge linking Narva, Estonia with Ivangorod, Russia",,Q25297630,,Friendship Bridge (Estonia-Russia)
+Tajik–Afghan Friendship Bridge,Peace Bridge,Q110371529,11,0,2,"connects Bad Radkersburg (Slovenian: '""Radgona""; B69 - Stadtgrabenstraße) in Austria and Gornja Radgona (German: ""Oberradkersburg""; street 230 - Lackova ulica) in Slovenia since 1969.",Friendship Bridge|Mur Bridge Radkersburg|Bridge of Friendship,Q12280,,
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q5504383,11,0,2,non-profit organization in the USA,,Q163740,,Friendship Bridge (non-profit)
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q125085513,11,0,2,"bridge in Sofia (Graf Ignatiev Str. and Dragan Tsankov Blvd.), Bulgaria",Samokovski most,Q12280,,
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q115622289,11,0,2,transboundary bridge in Cieszyn,,Q537127|Q25297630,,
+Tajik–Afghan Friendship Bridge,Friendship Bridge,Q135645457,11,0,2,"bridge on the Olympic Discovery Trail, in Port Angeles, Washington, United States","Olympic Discovery Trail, Friendship Bridge",Q12280,,
+Afghanistan–Tajikistan border,Afghanistan–Tajikistan border,Q3088667,11,2,1,international border between Afghanistan and Tajikistan,Afghanistan-Tajikistan border|border between Afghanistan and Tajikistan|border between Tajikistan and Afghanistan|Tajikistan-Afghanistan border|Tajikistan–Afghanistan border|Afghan border,Q133346|Q15104814|Q12413618,,Afghanistan–Tajikistan border
+Afghanistan–Tajikistan border,Danube Bridge,Q203004,11,2,2,road–rail bridge over the Danube river,Friendship Bridge,Q158218|Q12042110|Q25297630|Q6636777|Q1068842,,Danube Bridge
+Afghanistan–Tajikistan border,Friendship Bridge,Q1140475,11,2,2,deck arch bridge between Brazil and Paraguay in South America,,Q14276458|Q3397659|Q25297630|Q537127,,Friendship Bridge (Brazil–Paraguay)
+Afghanistan–Tajikistan border,Friendship Bridge,Q14955756,11,2,2,"bridge in Tartu, Estonia",,Q12280,,Friendship Bridge (Tartu)
+Afghanistan–Tajikistan border,Amizade Bridge,Q1318003,11,2,2,bridge in Macau,Friendship Bridge,Q537127,,Amizade Bridge (Macau)
+Afghanistan–Tajikistan border,Friendship Bridge,Q14955759,11,2,2,"Bridge linking Narva, Estonia with Ivangorod, Russia",,Q25297630,,Friendship Bridge (Estonia-Russia)
+Afghanistan–Tajikistan border,Peace Bridge,Q110371529,11,2,2,"connects Bad Radkersburg (Slovenian: '""Radgona""; B69 - Stadtgrabenstraße) in Austria and Gornja Radgona (German: ""Oberradkersburg""; street 230 - Lackova ulica) in Slovenia since 1969.",Friendship Bridge|Mur Bridge Radkersburg|Bridge of Friendship,Q12280,,
+Afghanistan–Tajikistan border,Friendship Bridge,Q5504383,11,2,2,non-profit organization in the USA,,Q163740,,Friendship Bridge (non-profit)
+Afghanistan–Tajikistan border,Friendship Bridge,Q125085513,11,2,2,"bridge in Sofia (Graf Ignatiev Str. and Dragan Tsankov Blvd.), Bulgaria",Samokovski most,Q12280,,
+Afghanistan–Tajikistan border,Friendship Bridge,Q115622289,11,2,2,transboundary bridge in Cieszyn,,Q537127|Q25297630,,
+Afghanistan–Tajikistan border,Friendship Bridge,Q135645457,11,2,2,"bridge on the Olympic Discovery Trail, in Port Angeles, Washington, United States","Olympic Discovery Trail, Friendship Bridge",Q12280,,
+Afghanistan–Tajikistan border,Tajik–Afghan Friendship Bridge,Q7676856,11,2,2,"bridge in Darvaz, Tajikistan / Afghanistan",Tajikistan–Afghanistan Friendship Bridge,Q12570|Q25297630,,Tajik–Afghan Friendship Bridge
+Austria Germany border crossing #2518,Austria Germany border crossing #2518,Q68036891,12,0,1,,309|E552|Austria Germany border crossing #2546|12,Q757292|Q25297630,,
+Austria Germany border crossing #2518,Austria Germany border crossing #2514,Q38178045,12,0,2,bridge in Austria,,Q757292|Q25297630,,
+Austria Germany border crossing #2518,Austria Germany border crossing #2478,Q68036880,12,0,2,,,Q757292|Q25297630,,
+Austria Germany border crossing #2518,Austria Germany border crossing #2570,Q68036917,12,0,2,,E60|E52|A8,Q757292,,
+Austria Germany border crossing #2518,Austria Germany border crossing #2507,Q68036886,12,0,2,,137b,Q757292,,
+Austria Germany border crossing #2518,Austria Germany border crossing #2538,Q68036900,12,0,2,,309,Q757292,,
+Austria–Germany border,Austria–Germany border,Q1991986,12,2,1,boundary separating the territories of Germany and Austria,Austria-Germany border|border between Austria and Germany|border between Germany and Austria|Germany–Austria border,Q15104814|Q12413618,,Austria–Germany border
+Austria–Germany border,Austria Germany border crossing #2514,Q38178045,12,2,2,bridge in Austria,,Q757292|Q25297630,,
+Austria–Germany border,Austria Germany border crossing #2478,Q68036880,12,2,2,,,Q757292|Q25297630,,
+Austria–Germany border,Austria Germany border crossing #2518,Q68036891,12,2,2,,309|E552|Austria Germany border crossing #2546|12,Q757292|Q25297630,,
+Austria–Germany border,Austria Germany border crossing #2570,Q68036917,12,2,2,,E60|E52|A8,Q757292,,
+Austria–Germany border,Austria Germany border crossing #2507,Q68036886,12,2,2,,137b,Q757292,,
+Austria–Germany border,Austria Germany border crossing #2538,Q68036900,12,2,2,,309,Q757292,,
+Franco-Brazilian Binational Bridge,Franco-Brazilian Binational Bridge,Q996255,13,0,1,cable-stayed bridge,,Q158555|Q25297630,,Franco-Brazilian Binational Bridge
+Brazil–France border,Brazil–France border,Q2573418,13,2,1,international border in South America,border between Brazil and France|border between France and Brazil|Brazil-France border|France-Brazil border,Q15104814|Q3089219|Q12413618,,Brazil–France border
+Brazil–France border,Franco-Brazilian Binational Bridge,Q996255,13,2,2,cable-stayed bridge,,Q158555|Q25297630,,Franco-Brazilian Binational Bridge
+Rhine bridge Bangs-Lienz,Rhine bridge Bangs-Lienz,Q48976043,14,0,1,"bridge over the Rhine connecting Bangs, Austria with Lienz, Switzerland",Rhine bridge Lienz-Bangs,Q537127|Q25297630,,
+Austria–Switzerland border,Austria–Switzerland border,Q1991486,14,2,1,disconnects the territories of Austria and Switzerland,Austria-Switzerland border|border between Austria and Switzerland|border between Switzerland and Austria|Switzerland-Austria border,Q15104814|Q12413618,,Austria–Switzerland border
+Bridge of Dillingen,Bridge of Dillingen,Q13101828,15,0,1,bridge in Luxembourg,,Q537127|Q25297630,,
+Germany–Luxembourg border,Germany–Luxembourg border,Q3088708,15,2,1,separates the territories of Germany and Luxembourg,border between Germany and Luxembourg|border between Luxembourg and Germany|Germany-Luxembourg border|Luxembourg–Germany border,Q15104814|Q12413618,,
+Germany–Luxembourg border,Bridge of Dillingen,Q13101828,15,2,2,bridge in Luxembourg,,Q537127|Q25297630,,
+Germany–Luxembourg border,Germany–Luxembourg relations,Q14548201,15,2,2,diplomatic relations between the Federal Republic of Germany and the Grand Duchy of Luxembourg,Luxembourg–Germany relations|Germany-Luxembourg relations|Luxembourg-Germany relations,Q15221623,,Germany–Luxembourg relations
+Katima Mulilo Bridge,Katima Mulilo Bridge,Q488794,16,0,1,road bridge,,Q537127|Q25297630,,Katima Mulilo Bridge
+Namibia–Zambia border,Namibia–Zambia border,Q3088957,16,2,1,international border,border between Namibia and Zambia|border between Zambia and Namibia|Namibia-Zambia border|Zambia-Namibia border|Zambia–Namibia border,Q133346|Q15104814|Q12413618,,

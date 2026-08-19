@@ -1,0 +1,21 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Rima Dawes,Rima Dawes,Q18774229,0,0,1,lunar feature,,Q1432092,,
+Rima Dawes,Rima Dawes,Q106757243,0,0,1,special scale lunar map,,Q4006,,
+Mare Cognitum,Mare Cognitum,Q285952,1,0,1,lunar mare,,Q180874,,Mare Cognitum
+Mare Cognitum,Mare Cognitum,Q112977039,1,0,1,band,,Q215380,,
+Mare Cognitum,Mare Cognitum,Q106906703,1,0,1,Ranger lunar chart,RLC 1,Q4006,,
+Mare Cognitum,horse,Q726,1,0,2,domesticated four-footed mammal from the equine family,nag|horses,Q55983715|Q16521,Q27742|Q57814795|Q110878538|Q729,Horse
+Mare Cognitum,Equus caballus,Q10758650,1,0,2,"domestic horse, species of mammal",horse|domesticated horse|domestic horse|feral horse,Q16521,Q27022,
+Mare Cognitum,Horsens,Q190235,1,0,2,"city in Horsens Municipality, Denmark",,Q515,,Horsens
+Mare Cognitum,horse racing,Q187916,1,0,2,equestrian sport in which several horses simultaneously race against each other,horseracing,,Q3001412,Horse racing
+Mare Cognitum,stable,Q214252,1,0,2,building for horses and other livestock,horse barn|mews,,Q56055115,Stable
+Mare Cognitum,knight,Q136,1,0,2,chess piece,N|horse|jumper|king's knight|queen's knight|horsey,,Q55386374|Q5768468,Knight (chess)
+Mare Cognitum,equestrianism,Q179226,1,0,2,horse riding,horseback riding|horse riding|riding|horsemanship,,Q7590|Q3326454|Q114732027|Q47728,Equestrianism
+Mare Cognitum,Broad Bean,Q131342,1,0,2,"species of plant, vegetable",fava bean|faba bean|field bean|bell bean|tic bean|horse bean|Vicia faba,Q16521,Q11992872|Q190903,Vicia faba
+Mare Cognitum,cavalry,Q47315,1,0,2,soldiers or warriors fighting from horseback,"horsemen|cavalry, trooper|The Cavalry",Q690109|Q12737077|Q15627509,Q690109,Cavalry
+Mare Cognitum,HORSE,Q122371982,1,0,2,2019 video game,,Q7889,,
+Mare Cognitum,Equus ferus caballus,Q26644764,1,0,2,subspecies of mammal,domesticated horse (as a subspecies),Q16521,,
+Mare Cognitum,pony,Q188828,1,0,2,type of small horse,Pony,,Q726,Pony
+Mare Cognitum,Mongolian horse,Q1195193,1,0,2,Mongolian horse breed,breed,Q1160573,Q16539052,Mongolian horse
+Mare Cognitum,Peruvian Paso,Q76962,1,0,2,breed of horse,,Q1160573,Q336539,Peruvian Paso
+Mare Cognitum,Kaimanawa horse,Q3191969,1,0,2,breed of horse,,Q1160573|Q2750918,,Kaimanawa horse

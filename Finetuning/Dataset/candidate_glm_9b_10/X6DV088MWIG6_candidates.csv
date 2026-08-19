@@ -1,0 +1,143 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Taugenroth,Taugenroth,Q2396913,0,0,1,human settlement in Germany,,Q253019|Q5084,,
+Dobrovolnoye,Dobrovolnoye,Q1052817,1,0,1,"human settlement in Aurgazinsky District, Republic of Bashkortostan, Russia",,Q5084,,Dobrovolnoye
+Dobrovolnoye,Dobrovolnoye,Q13640973,1,0,1,"village in Akmola region, Kazakhstan",,Q130212458,,
+Mindigulovo,Mindigulovo,Q1059685,2,0,1,"human settlement in Burzyansky District, Republic of Bashkortostan, Russia",,Q5084,,Mindigulovo
+Edefors,Edefors,Q21721288,3,0,1,"district in Boden Municipality, Sweden",,Q18333556,,
+Edefors,Edefors parish,Q10479862,3,0,1,,,Q615980,,
+Edefors,Edefors,Q1857159,3,0,1,Boden,,Q5084,,
+Edefors,Edefors socken,Q10479866,3,0,1,,,Q1523821,,
+Edefors,Edefors kyrka,Q10479864,3,0,1,"church building in Boden Municipality, Sweden",,Q16970,,
+Edefors,Edefors old cemetery,Q115302596,3,0,1,Swedish cemetery,,Q39614,,
+Edefors,Edefors new cemetery,Q115302597,3,0,1,Swedish cemetery,,Q39614,,
+Edefors,Edeforsen,Q30171392,3,0,1,"nature reserve in Jämtland, Sweden",,Q179049,,
+Edefors,"Edeforsen, public beach",Q106710696,3,0,1,"public beach in Sundsvall Municipality, Sweden",,Q567998,,
+Edefors,Edefors 157:2,Q29461335,3,0,1,,,Q2341654,,
+Edefors,Edeforsen,Q56257788,3,0,2,Wikimedia disambiguation page,,Q4167410,,
+Karavay-Norja,Karavay-Norja,Q1153980,4,0,1,"human settlement in Udmurt Republic, Russia",,Q5084,,
+Lyubimovka,Lyubimovka,Q18788430,5,0,1,"village in Korenevsky District, Russia",,Q532,,
+Lyubimovka,Liubymivka,Q4271547,5,0,1,"human settlement in Nyzhnohirskyi Raion, Autonomous Republic of Crimea, Ukraine",Lyubimovka,Q21672098|Q532,,
+Lyubimovka,Lyubimovka,Q12552102,5,0,1,"river in Perm Krai, Russia",,Q4022,,
+Lyubimovka,Lyubimovka,Q18788426,5,0,1,"village in Bolshesoldatsky District, Russia",,Q532,,
+Lyubimovka,Lyubimovka,Q1050512,5,0,1,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",,Q5084,,"Lyubimovka, Bashkortostan"
+Lyubimovka,Lyubimovka,Q18788435,5,0,1,"human settlement in Fatezhsky District, Kursk Oblast, Russia",,Q5084,,"Lyubimovka, Fatezhsky District, Kursk Oblast"
+Lyubimovka,Lyubimovka,Q13656035,5,0,1,Village in North Kazakhstan region,,Q130212458,,
+Lyubimovka,Lyubimovka,Q4271560,5,0,1,"river in Tatarstan, Russia",,Q4022,,
+Lyubimovka,Lyubimovka,Q3034485,5,0,1,"historic site, estate in Tarasovka, Russia",,Q12292478|Q1081138,,
+Lyubimovka,Lyubimovka,Q18401376,5,0,1,,,Q130212458|Q21507948,,
+"Zavod, Kaduysky District, Vologda Oblast",Zavod,Q21649965,6,0,2,village in Belarus,,Q65661087,,
+"Zavod, Kaduysky District, Vologda Oblast",Zavod,Q135074625,6,0,2,2025 video game developed by Gendocik,,Q7889,,
+"Zavod, Kaduysky District, Vologda Oblast",Závod,Q922861,6,0,2,village in Hungary,Zavod,Q2590631,,"Závod, Hungary"
+"Zavod, Kaduysky District, Vologda Oblast",Zavodskaslabodski sieĺsaviet,Q4183225,6,0,2,sieĺsaviet of Belarus,,Q15071808,,
+"Zavod, Kaduysky District, Vologda Oblast",Závod,Q247102,6,0,2,municipality of Slovakia,,Q6784672,,"Závod, Slovakia"
+"Zavod, Kaduysky District, Vologda Oblast",factory,Q83405,6,0,2,"facility where goods are industrially made, or processed",manufacturing plant|manufactory|factories|manufactories|manufacturing plants|workshop|workshops|mill|manufacturing and industrial facility|plant|industrial factory,,Q13226383|Q1497364|Q811979|Q1662011|Q134496677|Q43229,Factory
+"Zavod, Kaduysky District, Vologda Oblast",Zavod,Q4183091,6,0,2,"human settlement in Babayevsky District, Vologda Oblast, Russia",,Q5084,,"Zavod, Babayevsky District, Vologda Oblast"
+"Zavod, Kaduysky District, Vologda Oblast",Zvítězím (Zdeněk Němeček),Q105345709,6,0,2,"statue, Prague 8, Czech Republic",Závod,Q179700,,
+"Zavod, Kaduysky District, Vologda Oblast",Socha Běžci na Libeňském ostrově v Praze,Q107162012,6,0,2,"statue, Prague 8 - Liběň, Czech Republic",Socha Běžci na Libeňském ostrově v Praze|Závod,Q179700,,
+"Zavod, Kaduysky District, Vologda Oblast",Závodu míru,Q45088805,6,0,2,"street in Karlovy Vary, Czech Republic",,Q79007,,
+"Zavod, Kaduysky District, Vologda Oblast",Kaduysky District,Q370727,6,0,2,municipal district in Russia,,Q2198484,,Kaduysky District
+"Zavod, Kaduysky District, Vologda Oblast",flag of Kaduysky District,Q15962795,6,0,2,,Kaduysky District flag,Q21850100,,
+"Zavod, Kaduysky District, Vologda Oblast",Vologda Oblast,Q2015,6,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Zavod, Kaduysky District, Vologda Oblast",Vologda Oblast,Q7940642,6,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Zavod, Kaduysky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,6,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Zavod, Kaduysky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,6,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Zavod, Kaduysky District, Vologda Oblast",history of Vologda Oblast,Q4204582,6,0,2,,Vologda Oblast history,Q17524420,,
+"Zavod, Kaduysky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,6,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Zavod, Kaduysky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,6,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Zavod, Kaduysky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,6,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Zavod, Kaduysky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,6,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Bashkirsky Barmak,Bashkirsky Barmak,Q1062793,7,0,1,"human settlement in Zianchurinsky District, Republic of Bashkortostan, Russia",,Q5084,,Bashkirsky Barmak
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dorado,Q8837,8,0,2,constellation in the southern celestial hemisphere,Dor|Doradus|Dorado (constellation)|the Swordfish,Q8928,,Dorado
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dortmund,Q1295,8,0,2,"city in North Rhine-Westphalia, Germany",,Q85635630|Q1549591|Q253030|Q707813|Q42744322,,Dortmund
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dordrecht,Q26421,8,0,2,"city and municipality in South Holland, the Netherlands",Dort|Dordt,Q2039348|Q515|Q1852859|Q13539802,,Dordrecht
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dorset,Q67479793,8,0,2,"historic county of England, United Kingdom",Dorsetshire,Q1138494,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dor,Q37078699,8,0,2,family name,,Q101352,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dorothy,Q2647244,8,0,2,female given name,Dorothy (given name)|Dorothy (first name),Q11879590,,Dorothy (given name)
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dorothea,Q909253,8,0,2,female given name,Dorothea (given name)|Dorothea (first name),Q11879590,,Dorothea
+"Dor, Ust-Kubinsky District, Vologda Oblast",Doris,Q3094766,8,0,2,female given name,Doris (given name)|Doris (first name),Q11879590,,Doris (given name)
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dora,Q987115,8,0,2,female given name,Dora (given name)|Dora (first name),Q11879590,,Dora (given name)
+"Dor, Ust-Kubinsky District, Vologda Oblast",Dornbirn,Q171219,8,0,2,"urban municipality in Dornbirn District, Vorarlberg, Austria",,Q667509,,Dornbirn
+"Dor, Ust-Kubinsky District, Vologda Oblast",Ust-Kubinsky District,Q2217917,8,0,2,"administrative division of Vologda Oblast, Russia",,Q2198484,,Ust-Kubinsky District
+"Dor, Ust-Kubinsky District, Vologda Oblast",flag of Ust-Kubinsky District,Q4488198,8,0,2,,Ust-Kubinsky District flag,Q21850100,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q2015,8,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Dor, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q7940642,8,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Dor, Ust-Kubinsky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,8,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,8,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Dor, Ust-Kubinsky District, Vologda Oblast",history of Vologda Oblast,Q4204582,8,0,2,,Vologda Oblast history,Q17524420,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,8,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Dor, Ust-Kubinsky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,8,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,8,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Dor, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,8,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Kholmogory,Kholmogory,Q681521,9,0,1,"selo in Kholmogorsky District, Arkhangelsk Oblast, Russia",,Q532,,"Kholmogory, Arkhangelsk Oblast"
+Kholmogory,Kholmogory,Q3701777,9,0,1,"human settlement in Kuyurgazinsky District, Republic of Bashkortostan, Russia",,Q5084,,"Kholmogory, Republic of Bashkortostan"
+Kholmogory,MK-0473 Kholmogory,Q83632392,9,0,1,ship built in 1998,Kholmogory|IMO 9158185,Q11446,,
+Kholmogory,Kholmogory,Q52342907,9,0,1,general cargo ship built in 1995,IMO 9109081,Q353699,,
+Kholmogory,Kholmogory,Q103941867,9,0,1,encyclopedia article,,Q13433827,,
+Kholmogory,Kholmogory,Q122765278,9,0,1,ship built in 1971,IMO 7124441,Q11446,,
+Kholmogory,Kholmogorye,Q1075950,9,0,1,"human settlement in Pravdinsk Urban Okrug, Kaliningrad Oblast, Russia",,Q2514025|Q192287|Q486972,,
+Kholmogory,Kholmogory bone carving,Q4499208,9,0,1,Russian traditional handcraft,,Q28640,,Kholmogory bone carving
+Kholmogory,Kholmogorye,Q4499215,9,0,1,village in Ukraine,,Q532,,
+Kholmogory,Kholmogory geese,Q31355597,9,0,1,goose breed,,Q59453852,Q255503,
+Akinkhovo,Akinkhovo,Q4059579,10,0,1,"human settlement in Cherepovetsky District, Vologda Oblast, Russia",,Q5084,,Akinkhovo
+Akinkhovo,Akinkhovo,Q31653062,10,0,1,human settlement in Russia,,Q532,,
+"Yeltsino, Vologda Oblast",Yeltsino,Q3006188,11,0,2,"human settlement in Vysokovskoye, Ust-Kubinsky District, Vologda Oblast, Russia",,Q5084,,"Yeltsino, Vologda Oblast"
+"Yeltsino, Vologda Oblast",Yeltsino,Q19847949,11,0,2,"village in Kolchuginsky District, Russia",,Q532,,Yeltsino
+"Yeltsino, Vologda Oblast",Yeltsinovskaya,Q17121980,11,0,2,"human settlement in Velsky District, Arkhangelsk Oblast, Russia",,Q5084,,
+"Yeltsino, Vologda Oblast",Vologda Oblast,Q2015,11,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Yeltsino, Vologda Oblast",Vologda Oblast,Q7940642,11,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Yeltsino, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,11,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Yeltsino, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,11,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Yeltsino, Vologda Oblast",history of Vologda Oblast,Q4204582,11,0,2,,Vologda Oblast history,Q17524420,,
+"Yeltsino, Vologda Oblast",flag of Vologda Oblast,Q2621952,11,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Yeltsino, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,11,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Yeltsino, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,11,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Yeltsino, Vologda Oblast",Vologda Oblast football championship,Q48942031,11,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Manyazybash,Manyazybash,Q1060861,12,0,1,"human settlement in Dyurtyulinsky District, Republic of Bashkortostan, Russia",,Q5084,,Manyazybash
+Sorma,Sormaŭski sieĺsaviet,Q4429060,13,0,1,sieĺsaviet of Belarus,,Q15071808,,
+Sorma,Sormani,Q56540857,13,0,1,family name,,Q101352,,Sormani
+Sorma,Sørma,Q34892154,13,0,1,river in Norway,,Q4022,,
+Sorma,Sorma,Q4429046,13,0,1,"river in Chuvashia, Russia",,Q4022,,
+Sorma,Sorma,Q1024629,13,0,1,"human settlement in Sysolsky District, Komi Republic, Russia",,Q5084,,
+Sorma,Sorma,Q98081536,13,0,1,"river in Vologda Oblast and Karelia, Russia",,Q4022,,
+Sorma,Vladimir Šorma,Q21609223,13,0,1,botanist,Šorma,Q5,,
+Sorma,Šorma,Q111776488,13,0,1,family name,Šorma (family name)|Šorma (surname),Q101352,,
+Sorma,Sorman,Q98726313,13,0,1,family name,,Q101352,,
+Sorma,Sormanni,Q99661369,13,0,1,family name,,Q101352,,
+Staronadyrovo,Staronadyrovo,Q1063235,14,0,1,"human settlement in Ilishevsky District, Republic of Bashkortostan, Russia",,Q5084,,Staronadyrovo
+Genoenhuis,Genoenhuis,Q1929564,15,0,1,"neighborhood in Geldrop, Netherlands",,Q5084|Q123705,,
+Genoenhuis,Genoenhuis,Q19123982,15,0,1,"street in Geldrop, the Netherlands",,Q79007,,
+Genoenhuis,Genoenhuis,Q19123985,15,0,1,"street in Heeze, the Netherlands",,Q79007,,
+Bolshetuganeyevo,Bolshetuganeyevo,Q1064485,16,0,1,"human settlement in Kaltasinsky District, Republic of Bashkortostan, Russia",,Q5084,,Bolshetuganeyevo
+"Zubovo, Chagodoshchensky District, Vologda Oblast","Zubovo, Chagodoshchensky District, Vologda Oblast",Q4194428,17,0,1,"human settlement in Chagodoshchensky District, Vologda Oblast, Russia",,Q5084,,"Zubovo, Chagodoshchensky District, Vologda Oblast"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q3135490,17,0,2,village in Macedonia,"Zubovo, Novo Selo",Q532,,"Zubovo, Novo Selo"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q4194432,17,0,2,"human settlement in Belozersky District, Vologda Oblast, Russia","Zubovo, Sholskoye Rural Settlement, Belozersky District, Vologda Oblast",Q532,,"Zubovo, Sholskoye Rural Settlement, Belozersky District, Vologda Oblast"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovsky selsoviet,Q4194448,17,0,2,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",Zubovo,Q634099,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q21848754,17,0,2,"human settlement in Kaluga Oblast, Russia",,Q5084,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q4194435,17,0,2,"human settlement in Ufimsky District, Republic of Bashkortostan, Russia",,Q532,,"Zubovo, Ufimsky District, Republic of Bashkortostan"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q19884521,17,0,2,"human settlement in Vladimir Oblast, Russia",,Q5084,,"Zubovo, Vladimir Oblast"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q26218413,17,0,2,"village in Iznoskovsky district, Kaluga region",,Q5084,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q19813113,17,0,2,"human settlement in Nizhny Novgorod Oblast, Russia",,Q5084,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo,Q97443701,17,0,2,"railway station in Moscow Oblast, Russia",121 km station|121 km railway station|121 km,Q55488,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Zubovo-Polyansky District,Q1049529,17,0,2,municipal district in Russia,,Q2198484,,Zubovo-Polyansky District
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Chagodoshchensky District,Q2722310,17,0,2,"municipal district in Vologda Oblast, Russia",,Q2198484,,Chagodoshchensky District
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Vologda Oblast,Q2015,17,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Vologda Oblast,Q7940642,17,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Zubovo, Chagodoshchensky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,17,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,17,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Zubovo, Chagodoshchensky District, Vologda Oblast",history of Vologda Oblast,Q4204582,17,0,2,,Vologda Oblast history,Q17524420,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,17,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Zubovo, Chagodoshchensky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,17,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,17,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Zubovo, Chagodoshchensky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,17,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Novy Mutabash,Novy Mutabash,Q1051288,18,0,1,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",,Q5084,,Novy Mutabash
+Novy Mutabash,Mutabashevsky selsoviet,Q4308590,18,0,2,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",Mutabash,Q634099,,
+Novy Mutabash,Nový Jičín,Q3584,18,0,2,town in the Czech Republic,,Q5153359|Q15978299|Q8452914|Q7841907|Q7819319,,Nový Jičín
+Novy Mutabash,Novy,Q6521710,18,0,2,"settlement in Baranavičy district, Belarus",,Q65665664,,
+Novy Mutabash,Nový Bydžov,Q1018857,18,0,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907|Q7819319,,Nový Bydžov
+Novy Mutabash,Nový Bor,Q1000086,18,0,2,town in the Czech Republic,,Q5153359|Q15978299|Q7841907|Q7819319,,Nový Bor
+Novy Mutabash,Nový Knín,Q968615,18,0,2,town in the Czech Republic,,Q5153359|Q15978299,,Nový Knín
+Novy Mutabash,Novy,Q21650860,18,0,2,"settlement in Uzda district, Belarus",,Q65665664,,
+Novy Mutabash,Novy,Q109564341,18,0,2,Indonesian singer,Novika,Q5,,
+Novy Mutabash,Novy,Q112534407,18,0,2,,,Q5,,
+Novy Mutabash,Novy-Chevrières,Q946784,18,0,2,"commune in Ardennes, France",,Q484170,,Novy-Chevrières
+Novy Mutabash,Nowy Sącz,Q802,18,0,2,"town in Lesser Poland Voivodeship, Poland",Nowy Sacz|Nay Sants|Neu-Sandez|Nový Sadec|Nový Sacz|Újszandec|Neisantz|Novi Sach|Novi Sansh|Nowy Soncz|Naya Sandets|Sandets|Sandec|Sandz|Sants|Sanz|Tsants|Tzanz|New Sandec,Q925381|Q515,,Nowy Sącz

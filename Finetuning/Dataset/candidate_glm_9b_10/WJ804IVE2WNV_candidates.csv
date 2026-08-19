@@ -1,0 +1,60 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Berlin,Berlin,Q64,0,0,1,"federated state, capital and largest city of Germany","Berlin, Germany|DE-BE",Q1901835|Q200250|Q1307779|Q15974307|Q42744322|Q133442|Q114401982|Q51929311|Q1221156|Q257391|Q707813|Q67123843|Q67123843,,Berlin
+Berlin,Berlin,Q2660845,0,0,1,family name,,Q101352,,Berlin (surname)
+Berlin,Berlin,Q821199,0,0,1,"town in Hartford County, Connecticut, United States","Berlin, Connecticut|Berlin, CT",Q15127012,,"Berlin, Connecticut"
+Berlin,Berlin,Q1086827,0,0,1,"borough in Camden County, New Jersey, United States","Berlin, New Jersey|Long-a-Coming, New Jersey|Berlin, NJ|Berlin Borough",Q2911266,,"Berlin, New Jersey"
+Berlin,Berlin,Q821198,0,0,1,American synthpop band,,Q215380,,Berlin (band)
+Berlin,Berlin,Q821245,0,0,1,"town in Washington County, Vermont, United States","Berlin, Vermont|Berlin, VT",Q2154459,,"Berlin, Vermont"
+Berlin,Berlinische Galerie,Q700222,0,0,1,"museum of modern art, photography and architecture in Berlin's Kreuzberg district","Berlinische Galerie - Landesmuseum für Moderne Kunst, Fotografie und ARchitektur",Q207694|Q163740,,Berlinische Galerie
+Berlin,Berlin,Q821234,0,0,1,unisex given name,,Q3409032,,
+Berlin,Berlin-Mitte,Q2013767,0,0,1,"locality in the borough of Mitte, Berlin, Germany",Berlin-Mitte,Q35034452|Q2740635,,Mitte (locality)
+Berlin,Berlin,Q60039536,0,0,1,1674 frigate of the Brandenburg Navy,,Q161705,,
+Berlin,Teltow Canal,Q562206,0,0,2,canal to the south of Berlin,,Q12284,,Teltow Canal
+Berlin,Teltow Canal Walk,Q17354173,0,0,2,,,Q2143825,,
+Berlin,Altes Stadthaus,Q95417,0,0,2,German administration building in Berlin,,Q2519340|Q543654,,"Altes Stadthaus, Berlin"
+Berlin,Altes Stadthaus,Q95429,0,0,2,German administration building in Bonn,,Q543654|Q28564,,"Altes Stadthaus, Bonn"
+Berlin,Altes Stadthaus,Q29933273,0,0,2,building in Switzerland,,Q811979|Q41176|Q811165|Q3947,,
+Berlin,"Altes Stadthaus, Dortmund",Q95437,0,0,2,German office block built in 1899,,Q2519340,,"Altes Stadthaus, Dortmund"
+Berlin,Stadthaus,Q1749677,0,0,2,Wikimedia disambiguation page,Altes Stadthaus,Q4167410,,Altes Stadthaus
+Teltow Canal,Teltow Canal,Q562206,0,1,1,canal to the south of Berlin,,Q12284,,Teltow Canal
+Teltow Canal,Teltow Canal Walk,Q17354173,0,1,1,,,Q2143825,,
+Teltow Canal,Havel River virus,Q18976510,0,1,2,species of virus,,Q16521,,
+Teltow Canal,Berlin,Q64,0,1,2,"federated state, capital and largest city of Germany","Berlin, Germany|DE-BE",Q1901835|Q200250|Q1307779|Q15974307|Q42744322|Q133442|Q114401982|Q51929311|Q1221156|Q257391|Q707813|Q67123843|Q67123843,,Berlin
+Teltow Canal,Berlin,Q2660845,0,1,2,family name,,Q101352,,Berlin (surname)
+Teltow Canal,Berlin,Q821199,0,1,2,"town in Hartford County, Connecticut, United States","Berlin, Connecticut|Berlin, CT",Q15127012,,"Berlin, Connecticut"
+Teltow Canal,Berlin,Q1086827,0,1,2,"borough in Camden County, New Jersey, United States","Berlin, New Jersey|Long-a-Coming, New Jersey|Berlin, NJ|Berlin Borough",Q2911266,,"Berlin, New Jersey"
+Teltow Canal,Berlin,Q821198,0,1,2,American synthpop band,,Q215380,,Berlin (band)
+Teltow Canal,Berlin,Q821245,0,1,2,"town in Washington County, Vermont, United States","Berlin, Vermont|Berlin, VT",Q2154459,,"Berlin, Vermont"
+Teltow Canal,Berlinische Galerie,Q700222,0,1,2,"museum of modern art, photography and architecture in Berlin's Kreuzberg district","Berlinische Galerie - Landesmuseum für Moderne Kunst, Fotografie und ARchitektur",Q207694|Q163740,,Berlinische Galerie
+Teltow Canal,Berlin,Q821234,0,1,2,unisex given name,,Q3409032,,
+Teltow Canal,Berlin-Mitte,Q2013767,0,1,2,"locality in the borough of Mitte, Berlin, Germany",Berlin-Mitte,Q35034452|Q2740635,,Mitte (locality)
+Teltow Canal,Berlin,Q60039536,0,1,2,1674 frigate of the Brandenburg Navy,,Q161705,,
+Teltow Canal,Altes Stadthaus,Q95417,0,1,2,German administration building in Berlin,,Q2519340|Q543654,,"Altes Stadthaus, Berlin"
+Teltow Canal,Altes Stadthaus,Q95429,0,1,2,German administration building in Bonn,,Q543654|Q28564,,"Altes Stadthaus, Bonn"
+Teltow Canal,Altes Stadthaus,Q29933273,0,1,2,building in Switzerland,,Q811979|Q41176|Q811165|Q3947,,
+Teltow Canal,"Altes Stadthaus, Dortmund",Q95437,0,1,2,German office block built in 1899,,Q2519340,,"Altes Stadthaus, Dortmund"
+Teltow Canal,Stadthaus,Q1749677,0,1,2,Wikimedia disambiguation page,Altes Stadthaus,Q4167410,,Altes Stadthaus
+"Altes Stadthaus, Berlin",Altes Stadthaus,Q95417,0,2,1,German administration building in Berlin,,Q2519340|Q543654,,"Altes Stadthaus, Berlin"
+"Altes Stadthaus, Berlin",Altes Stadthaus,Q95429,0,2,2,German administration building in Bonn,,Q543654|Q28564,,"Altes Stadthaus, Bonn"
+"Altes Stadthaus, Berlin",Altes Stadthaus,Q29933273,0,2,2,building in Switzerland,,Q811979|Q41176|Q811165|Q3947,,
+"Altes Stadthaus, Berlin","Altes Stadthaus, Dortmund",Q95437,0,2,2,German office block built in 1899,,Q2519340,,"Altes Stadthaus, Dortmund"
+"Altes Stadthaus, Berlin",Stadthaus,Q1749677,0,2,2,Wikimedia disambiguation page,Altes Stadthaus,Q4167410,,Altes Stadthaus
+Bad Doberan,Bad Doberan,Q9536,1,0,1,"urban municipality in Rostock District, Mecklenburg-Western Pomerania, Germany",,Q3957|Q42744322|Q6882870,,Bad Doberan
+Bad Doberan,Bad Doberan District,Q9627,1,0,1,"former district in Mecklenburg-Vorpommern, Germany",Landkreis Bad Doberan,Q106658,,Bad Doberan (district)
+Bad Doberan,Bad Doberan railway station,Q28053390,1,0,1,"railway station in Bad Doberan, Germany",Bad Doberan station,Q27996466|Q2138274|Q114782406|Q55488,,Bad Doberan station
+Bad Doberan,Bad Doberan,Q31896916,1,0,1,human settlement in Germany,,Q3957|Q253019,,
+Bad Doberan,Bad Doberan Stadtmitte railway stop,Q28053400,1,0,1,"railway stop in Bad Doberan, Germany",Bad Doberan Stadtmitte station,Q27996460,,
+Bad Doberan,Bad Doberan Goethestraße railway stop,Q28053518,1,0,1,"railway stop in Bad Doberan, Germany",Bad Doberan Goethestraße station,Q27996460,,
+Bad Doberan,Bad Doberan Minster,Q461397,1,0,1,church,Doberan Minster,Q16970,,Doberan Minster
+Bad Doberan,Bad Doberan-Land,Q478929,1,0,1,"place in Mecklenburg-Vorpommern, Germany",,Q478847,,Bad Doberan-Land
+Bad Doberan,Bad Doberan New Cemetery,Q28923733,1,0,1,cemetery in Bad Doberan,,Q39614,,
+Bad Doberan,Bad Doberan monastery ground,Q28859466,1,0,1,,,Q14524493|Q1497364,,
+Bay of Mecklenburg,Bay of Mecklenburg,Q317006,1,1,1,Bay in the Baltic Sea,Mecklenburger Bucht|Mecklenburg Bight,Q39594,,Bay of Mecklenburg
+Bay of Mecklenburg,Mecklenburgische Bäderbahn,Q84269646,1,1,2,,MBB,Q249556|Q4830453|Q1436264,,
+Bay of Mecklenburg,Molli railway,Q9643,1,1,2,railway line in Germany,Mecklenburgische Bäderbahn Molli|Mollibahn,Q1112477|Q7623056,,Molli railway
+Bay of Mecklenburg,Mecklenburgische Bäderbahn Molli GmbH,Q28053964,1,1,2,German railway company,Molli|MBB,Q17377208|Q1430364,,
+Bay of Mecklenburg,Mecklenburgische Bäderbahn,Q34674476,1,1,2,Wikimedia disambiguation page,,Q4167410,,
+Mecklenburgische Bäderbahn Molli GmbH,Mecklenburgische Bäderbahn Molli GmbH,Q28053964,1,2,1,German railway company,Molli|MBB,Q17377208|Q1430364,,
+Mecklenburgische Bäderbahn Molli GmbH,Molli railway,Q9643,1,2,1,railway line in Germany,Mecklenburgische Bäderbahn Molli|Mollibahn,Q1112477|Q7623056,,Molli railway
+Mecklenburgische Bäderbahn Molli GmbH,Mecklenburgische Bäderbahn,Q84269646,1,2,2,,MBB,Q249556|Q4830453|Q1436264,,
+Mecklenburgische Bäderbahn Molli GmbH,Mecklenburgische Bäderbahn,Q34674476,1,2,2,Wikimedia disambiguation page,,Q4167410,,

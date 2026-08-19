@@ -1,0 +1,10 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+ermanium-62,,,0,0,0,,,,,
+zinc-61,zinc-61,Q18845217,0,1,1,isotope of zinc,Zn-61|61Zn,Q2991378,Q758,Zinc-61
+zinc-61,zinc-61m3,Q18880215,0,1,1,isotope of zinc,Zn-61m3|61m3Zn,Q846110|Q2991378,Q758,Zinc-61m3
+zinc-61,zinc-61m1,Q18880206,0,1,1,isotope of zinc,Zn-61m1|61m1Zn,Q846110|Q2991378,Q758,Zinc-61m1
+zinc-61,zinc-61m2,Q18880212,0,1,1,isotope of zinc,Zn-61m2|61m2Zn,Q846110|Q2991378,Q758,Zinc-61m2
+germaium-83,arsenic-83,Q18844787,1,0,2,isotope of arsenic,As-83|83As,Q2522813,Q871,Arsenic-83
+germaium-83,germanium-83,Q18844992,1,0,2,isotope of germanium,Ge-83|83Ge,Q2288723,Q867,Germanium-83
+arsenic-83,arsenic-83,Q18844787,1,1,1,isotope of arsenic,As-83|83As,Q2522813,Q871,Arsenic-83
+arsenic-83,germanium-83,Q18844992,1,1,2,isotope of germanium,Ge-83|83Ge,Q2288723,Q867,Germanium-83

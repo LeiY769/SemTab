@@ -1,0 +1,291 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Hofstetten,Hofstetten,Q105533071,0,0,1,family name,,Q101352,,
+Hofstetten,Hofstetten,Q82805352,0,0,1,human settlement in Neunkirchen District,,Q486972,,
+Hofstetten,Hofstetten,Q104429599,0,0,1,neighborhood in Germany,,Q123705,,
+Hofstetten,Hofstetten,Q513853,0,0,1,"municipality in Bavaria, Germany",,Q116457956,,"Hofstetten, Bavaria"
+Hofstetten,Hofstetten,Q99494158,0,0,1,"neighborhood, Germany",,Q123705,,
+Hofstetten,Hofstetten,Q75698880,0,0,1,village in Dietersburg,,Q253019|Q532,,
+Hofstetten,Hofstetten,Q65792,0,0,1,"former municipality and village in Elgg in the canton of Zürich, Switzerland",Hofstetten ZH|Hofstetten (ZH)|Hofstetten bei Elgg ZH|Hofstetten (ZH) ZH|Hofstetten bei Elgg,Q685309|Q532,,"Hofstetten, Zürich"
+Hofstetten,Hofstetten-Grünau,Q674830,0,0,1,"municipality in Sankt Pölten District, Lower Austria, Austria",,Q562061|Q667509,,Hofstetten-Grünau
+Hofstetten,Hofstetten,Q550704,0,0,1,"municipality in Baden-Württemberg, Germany",,Q116457956,,"Hofstetten, Baden-Württemberg"
+Hofstetten,Hofstetten bei Brienz,Q65200,0,0,1,municipality in the canton of Bern in Switzerland,Hofstetten bei Brienz BE,Q70208,,Hofstetten bei Brienz
+Kleinwallstadt,Kleinwallstadt,Q504686,0,2,1,market municipality of Germany,,Q100341898|Q116457956,,Kleinwallstadt
+Kleinwallstadt,Kleinwallstadt,Q32065995,0,2,1,municipality seat of Kleinwallstadt in Germany,,Q15303838|Q956214|Q253019,,
+Kleinwallstadt,Kleinwallstadt,Q118864570,0,2,1,railway halt in Germany,Kleinwallstadt station,Q55488,,
+Kleinwallstadt,Kleinwallstadt GB,Q28729368,0,2,1,library in Germany,,Q7075,,
+Kleinwallstadt,Kleinwallstadt,Q24214472,0,2,1,Wikimedia disambiguation page,,Q4167410,,
+Kleinwallstadt,Hofstetten,Q105533071,0,2,2,family name,,Q101352,,
+Kleinwallstadt,Hofstetten,Q82805352,0,2,2,human settlement in Neunkirchen District,,Q486972,,
+Kleinwallstadt,Hofstetten,Q104429599,0,2,2,neighborhood in Germany,,Q123705,,
+Kleinwallstadt,Hofstetten,Q513853,0,2,2,"municipality in Bavaria, Germany",,Q116457956,,"Hofstetten, Bavaria"
+Kleinwallstadt,Hofstetten,Q99494158,0,2,2,"neighborhood, Germany",,Q123705,,
+Kleinwallstadt,Hofstetten,Q75698880,0,2,2,village in Dietersburg,,Q253019|Q532,,
+Kleinwallstadt,Hofstetten,Q65792,0,2,2,"former municipality and village in Elgg in the canton of Zürich, Switzerland",Hofstetten ZH|Hofstetten (ZH)|Hofstetten bei Elgg ZH|Hofstetten (ZH) ZH|Hofstetten bei Elgg,Q685309|Q532,,"Hofstetten, Zürich"
+Kleinwallstadt,Hofstetten-Grünau,Q674830,0,2,2,"municipality in Sankt Pölten District, Lower Austria, Austria",,Q562061|Q667509,,Hofstetten-Grünau
+Kleinwallstadt,Hofstetten,Q550704,0,2,2,"municipality in Baden-Württemberg, Germany",,Q116457956,,"Hofstetten, Baden-Württemberg"
+Kleinwallstadt,Hofstetten bei Brienz,Q65200,0,2,2,municipality in the canton of Bern in Switzerland,Hofstetten bei Brienz BE,Q70208,,Hofstetten bei Brienz
+Kleinwallstadt,UTC+02:00,Q6723,0,2,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Kleinwallstadt,Eastern European Time,Q190252,0,2,2,time zone,Lebanon Standard Time|Jordan Standard Time|Syria Standard Time|Egypt Standard Time|Cyprus Standard Time,Q12143,,Eastern European Time
+Kleinwallstadt,Kaliningrad Time,Q2356448,0,2,2,time zone,KALT|MSK–1|Europe/Kaliningrad,Q12143,,Kaliningrad Time
+UTC+02:00,UTC+02:00,Q6723,0,3,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+UTC+02:00,Eastern European Time,Q190252,0,3,1,time zone,Lebanon Standard Time|Jordan Standard Time|Syria Standard Time|Egypt Standard Time|Cyprus Standard Time,Q12143,,Eastern European Time
+UTC+02:00,Kaliningrad Time,Q2356448,0,3,1,time zone,KALT|MSK–1|Europe/Kaliningrad,Q12143,,Kaliningrad Time
+UTC+02:00,Hofstetten,Q105533071,0,3,2,family name,,Q101352,,
+UTC+02:00,Hofstetten,Q82805352,0,3,2,human settlement in Neunkirchen District,,Q486972,,
+UTC+02:00,Hofstetten,Q104429599,0,3,2,neighborhood in Germany,,Q123705,,
+UTC+02:00,Hofstetten,Q513853,0,3,2,"municipality in Bavaria, Germany",,Q116457956,,"Hofstetten, Bavaria"
+UTC+02:00,Hofstetten,Q99494158,0,3,2,"neighborhood, Germany",,Q123705,,
+UTC+02:00,Hofstetten,Q75698880,0,3,2,village in Dietersburg,,Q253019|Q532,,
+UTC+02:00,Hofstetten,Q65792,0,3,2,"former municipality and village in Elgg in the canton of Zürich, Switzerland",Hofstetten ZH|Hofstetten (ZH)|Hofstetten bei Elgg ZH|Hofstetten (ZH) ZH|Hofstetten bei Elgg,Q685309|Q532,,"Hofstetten, Zürich"
+UTC+02:00,Hofstetten-Grünau,Q674830,0,3,2,"municipality in Sankt Pölten District, Lower Austria, Austria",,Q562061|Q667509,,Hofstetten-Grünau
+UTC+02:00,Hofstetten,Q550704,0,3,2,"municipality in Baden-Württemberg, Germany",,Q116457956,,"Hofstetten, Baden-Württemberg"
+UTC+02:00,Hofstetten bei Brienz,Q65200,0,3,2,municipality in the canton of Bern in Switzerland,Hofstetten bei Brienz BE,Q70208,,Hofstetten bei Brienz
+UTC+02:00,Kleinwallstadt,Q504686,0,3,2,market municipality of Germany,,Q100341898|Q116457956,,Kleinwallstadt
+UTC+02:00,Kleinwallstadt,Q32065995,0,3,2,municipality seat of Kleinwallstadt in Germany,,Q15303838|Q956214|Q253019,,
+UTC+02:00,Kleinwallstadt,Q118864570,0,3,2,railway halt in Germany,Kleinwallstadt station,Q55488,,
+UTC+02:00,Kleinwallstadt GB,Q28729368,0,3,2,library in Germany,,Q7075,,
+UTC+02:00,Kleinwallstadt,Q24214472,0,3,2,Wikimedia disambiguation page,,Q4167410,,
+UTC+02:00,Central European Time,Q25989,0,3,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+UTC+02:00,Cetus,Q8839,0,3,2,constellation straddling the celestial equator,Cet|Ceti,Q8928,,Cetus (constellation)
+UTC+02:00,UTC+01:00,Q6655,0,3,2,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+UTC+02:00,Cetacea,Q160,0,3,2,infraorder of marine mammals,Cetaceans|cetaceans,Q16521,Q7377,Cetacean
+UTC+02:00,Cetinje,Q173338,0,3,2,Old Royal Capital of Montenegro,,Q515,,Cetinje
+UTC+02:00,Cetoniidae,Q1403094,0,3,2,Family of beetles,,Q16521,,Cetoniidae
+UTC+02:00,vitamin C,Q199678,0,3,2,"water-soluble vitamin and antioxidant essential for collagen synthesis, immune function, and skin brightening",Cevalin|Cetane-Caps TC|Cetane|Cebione|Cenolate|Cecon|Ascoltin|Cevex|L-ascorbic acid|OVC307|ascorbic acid|ascorbate,Q113145171,Q108955625|Q193598,Vitamin C
+UTC+02:00,Cetraria,Q134917,0,3,2,genus of fungi,,Q16521,,Cetraria
+UTC+02:00,Cetartiodactyla,Q27850,0,3,2,proposed name for a fusion of the orders Cetacea and Artiodactyla,,Q713623,,Cetartiodactyla
+UTC+02:00,Cethosia,Q1757735,0,3,2,genus of insects,,Q16521,,Cethosia
+UTC+02:00,Central European Summer Time,Q207020,0,3,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+UTC+02:00,daylight saving time,Q36669,0,3,2,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+UTC+02:00,summer time in Europe,Q161278,0,3,2,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+UTC+02:00,Czech,Q9056,0,3,2,West Slavic language,Czech language|Český|Čeština|Bohemian|Bohemian language,Q33742|Q1288568|Q34770|Q1322198,Q2334789|Q145852,Czech language
+UTC+02:00,Cestrum,Q1364444,0,3,2,genus of plants,,Q16521,,Cestrum
+UTC+02:00,Cestrum nocturnum,Q36125,0,3,2,species of plant,night-blooming jasmine|night-blooming cestrum|lady of the night|night cestrum,Q16521,,Cestrum nocturnum
+UTC+02:00,Cestoda,Q159715,0,3,2,class of parasitic worms,,Q16521,,Cestoda
+UTC+02:00,Čestmír,Q11379871,0,3,2,male given name,Čestmír (given name)|Čestmír (first name),Q12308941,,
+UTC+02:00,CEST,Q135843230,0,3,2,Czech company,,Q4830453|Q6881511,,
+UTC+02:00,Cestas,Q326520,0,3,2,"commune in Gironde, France",,Q484170,,Cestas
+Erlenbach,Erlenbach,Q69203,1,0,1,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+Erlenbach,Erlenbach,Q37486020,1,0,1,family name,,Q101352,,
+Erlenbach,Erlenbach,Q20819372,1,0,1,river in Germany,,Q355304,,Erlenbach (Enz)
+Erlenbach,Erlenbach,Q84048088,1,0,1,human settlement in Zwettl District,,Q486972,,
+Erlenbach,Erlenbach am Main,Q502401,1,0,1,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+Erlenbach,Erlenbach,Q60136,1,0,1,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+Erlenbach,Erlenbach bei Marktheidenfeld,Q508149,1,0,1,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+Erlenbach,Erlenbach,Q1355497,1,0,1,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+Erlenbach,Erlenbach,Q16831239,1,0,1,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+Erlenbach,Erlenbach,Q105015162,1,0,1,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+Erlenbach bei Marktheidenfeld,Erlenbach bei Marktheidenfeld,Q508149,1,2,1,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+Erlenbach bei Marktheidenfeld,Erlenbach,Q69203,1,2,2,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+Erlenbach bei Marktheidenfeld,Erlenbach,Q37486020,1,2,2,family name,,Q101352,,
+Erlenbach bei Marktheidenfeld,Erlenbach,Q20819372,1,2,2,river in Germany,,Q355304,,Erlenbach (Enz)
+Erlenbach bei Marktheidenfeld,Erlenbach,Q84048088,1,2,2,human settlement in Zwettl District,,Q486972,,
+Erlenbach bei Marktheidenfeld,Erlenbach am Main,Q502401,1,2,2,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+Erlenbach bei Marktheidenfeld,Erlenbach,Q60136,1,2,2,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+Erlenbach bei Marktheidenfeld,Erlenbach,Q1355497,1,2,2,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+Erlenbach bei Marktheidenfeld,Erlenbach,Q16831239,1,2,2,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+Erlenbach bei Marktheidenfeld,Erlenbach,Q105015162,1,2,2,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+UTC+02:00,UTC+02:00,Q6723,1,3,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+UTC+02:00,Eastern European Time,Q190252,1,3,1,time zone,Lebanon Standard Time|Jordan Standard Time|Syria Standard Time|Egypt Standard Time|Cyprus Standard Time,Q12143,,Eastern European Time
+UTC+02:00,Kaliningrad Time,Q2356448,1,3,1,time zone,KALT|MSK–1|Europe/Kaliningrad,Q12143,,Kaliningrad Time
+UTC+02:00,Erlenbach,Q69203,1,3,2,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+UTC+02:00,Erlenbach,Q37486020,1,3,2,family name,,Q101352,,
+UTC+02:00,Erlenbach,Q20819372,1,3,2,river in Germany,,Q355304,,Erlenbach (Enz)
+UTC+02:00,Erlenbach,Q84048088,1,3,2,human settlement in Zwettl District,,Q486972,,
+UTC+02:00,Erlenbach am Main,Q502401,1,3,2,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+UTC+02:00,Erlenbach,Q60136,1,3,2,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+UTC+02:00,Erlenbach bei Marktheidenfeld,Q508149,1,3,2,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+UTC+02:00,Erlenbach,Q1355497,1,3,2,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+UTC+02:00,Erlenbach,Q16831239,1,3,2,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+UTC+02:00,Erlenbach,Q105015162,1,3,2,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+Erlenbach,Erlenbach,Q69203,2,0,1,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+Erlenbach,Erlenbach,Q37486020,2,0,1,family name,,Q101352,,
+Erlenbach,Erlenbach,Q20819372,2,0,1,river in Germany,,Q355304,,Erlenbach (Enz)
+Erlenbach,Erlenbach,Q84048088,2,0,1,human settlement in Zwettl District,,Q486972,,
+Erlenbach,Erlenbach am Main,Q502401,2,0,1,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+Erlenbach,Erlenbach,Q60136,2,0,1,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+Erlenbach,Erlenbach bei Marktheidenfeld,Q508149,2,0,1,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+Erlenbach,Erlenbach,Q1355497,2,0,1,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+Erlenbach,Erlenbach,Q16831239,2,0,1,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+Erlenbach,Erlenbach,Q105015162,2,0,1,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+Erlenbach,Oss,Q9859,2,0,2,municipality in the Netherlands,Ravenstein,Q2039348,,Oss
+Erlenbach,Ravenstein,Q110856662,2,0,2,family name,,Q101352,,Ravenstein (surname)
+Erlenbach,Jan van Ravesteyn,Q864059,2,0,2,painter from the Northern Netherlands (1572–1657),Jan Anthonisz. Van Ravesteyn|Jan Anthonisz. van Ravesteyn|John Van Ravesteyn|Jan Anthonisz. van Ravestyn|Jan Anthonisz. van Ravenstein|Jan Antonisz. Van Ravesteyn|Jan Antonisz van Ravesteyn|Jan Anthonisz. van Ravestein|Jan Antonisz. van Ravesteijn|Jan van Ravesteijn|Joan van Ravestein|Johan van Ravestein|Johannes Ravestein|Jan Anthonie van Ravesteyn|Jan Antonisz. van Ravesteyn|J.A. van Ravesteyn|Johann von Ravestein|Ravestein|jan van ravestijn|Jan Antonisz Ravesteyn|J. van Ravesteyn|J. van Ravestein|Jan Anthonisz v. Ravesteyn|Ravesteyn|j. a. v. ravesteijn|jan anthonisz van ravesteijn|Jan Antonisz van Ravesteijn|Jean De Ravestain|j. van ravesteijn|J. Van Ravenstyn|Jan Ravesteyn|J. V. Ravenstein|J. Ant. v. Ravesteijn|Jan Anthonisz Ravesteyn|J. Ravestein|jan van ravestyn|A. van Ravesteyn|Anton van Ravesteyn|Anthonis van Ravesteyn|ravestiyne|Johannes Anthonisz van Ravesteyn|jan anthonisz van ravestijn|Ravenstein|jan anth. van ravesteijn|jan anth. van ravesteyn|Jan Anthoniesz van Ravesteyn|j. a. van ravestijn|Jan Rauelstein|J.A. Ravesteyn|antonie ravesteyn|J. Ravesteyn|Ravenstyn|Jan Anthonisz van Ravesteyn|studio of Jan van van Ravesteyn|Jan Anthonisz. van Ravensteyn,Q5,,Jan van Ravesteyn
+Erlenbach,Ravenstein,Q589056,2,0,2,"town in North Brabant, the Netherlands",,Q13539802|Q677678|Q3957|Q1852859,,"Ravenstein, Netherlands"
+Erlenbach,Ravenstein,Q552513,2,0,2,municipality in Germany,,Q42744322|Q3957,,"Ravenstein, Germany"
+Erlenbach,Ravenstein,Q18286551,2,0,2,"former municipality in North Brabant, the Netherlands",,Q2039348,,
+Erlenbach,Paul von Ravenstein,Q1563331,2,0,2,German painter (1854-1938),Paul Von Ravenstein|Ravenstein|p. von ravenstein|paul von ravenstein|p. v. ravenstein,Q5,,
+Erlenbach,Ravenstein Gallery,Q18609487,2,0,2,"shopping arcade in Brussels, Belgium",,Q97495053,,
+Erlenbach,Ravenstein,Q111821451,2,0,2,tram stop in Brussels,,Q2175765,,
+Erlenbach,Ravenstein railway station,Q2788131,2,0,2,railway station in the Netherlands,,Q55488,,Ravenstein railway station
+Erlenbach,Central European Summer Time,Q207020,2,0,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Erlenbach,UTC+02:00,Q6723,2,0,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Erlenbach,daylight saving time,Q36669,2,0,2,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Erlenbach,Central European Time,Q25989,2,0,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Erlenbach,summer time in Europe,Q161278,2,0,2,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Erlenbach,Erlenbach,Q69203,2,1,1,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+Erlenbach,Erlenbach,Q37486020,2,1,1,family name,,Q101352,,
+Erlenbach,Erlenbach,Q20819372,2,1,1,river in Germany,,Q355304,,Erlenbach (Enz)
+Erlenbach,Erlenbach,Q84048088,2,1,1,human settlement in Zwettl District,,Q486972,,
+Erlenbach,Erlenbach am Main,Q502401,2,1,1,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+Erlenbach,Erlenbach,Q60136,2,1,1,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+Erlenbach,Erlenbach bei Marktheidenfeld,Q508149,2,1,1,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+Erlenbach,Erlenbach,Q1355497,2,1,1,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+Erlenbach,Erlenbach,Q16831239,2,1,1,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+Erlenbach,Erlenbach,Q105015162,2,1,1,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+Erlenbach,Oss,Q9859,2,1,2,municipality in the Netherlands,Ravenstein,Q2039348,,Oss
+Erlenbach,Ravenstein,Q110856662,2,1,2,family name,,Q101352,,Ravenstein (surname)
+Erlenbach,Jan van Ravesteyn,Q864059,2,1,2,painter from the Northern Netherlands (1572–1657),Jan Anthonisz. Van Ravesteyn|Jan Anthonisz. van Ravesteyn|John Van Ravesteyn|Jan Anthonisz. van Ravestyn|Jan Anthonisz. van Ravenstein|Jan Antonisz. Van Ravesteyn|Jan Antonisz van Ravesteyn|Jan Anthonisz. van Ravestein|Jan Antonisz. van Ravesteijn|Jan van Ravesteijn|Joan van Ravestein|Johan van Ravestein|Johannes Ravestein|Jan Anthonie van Ravesteyn|Jan Antonisz. van Ravesteyn|J.A. van Ravesteyn|Johann von Ravestein|Ravestein|jan van ravestijn|Jan Antonisz Ravesteyn|J. van Ravesteyn|J. van Ravestein|Jan Anthonisz v. Ravesteyn|Ravesteyn|j. a. v. ravesteijn|jan anthonisz van ravesteijn|Jan Antonisz van Ravesteijn|Jean De Ravestain|j. van ravesteijn|J. Van Ravenstyn|Jan Ravesteyn|J. V. Ravenstein|J. Ant. v. Ravesteijn|Jan Anthonisz Ravesteyn|J. Ravestein|jan van ravestyn|A. van Ravesteyn|Anton van Ravesteyn|Anthonis van Ravesteyn|ravestiyne|Johannes Anthonisz van Ravesteyn|jan anthonisz van ravestijn|Ravenstein|jan anth. van ravesteijn|jan anth. van ravesteyn|Jan Anthoniesz van Ravesteyn|j. a. van ravestijn|Jan Rauelstein|J.A. Ravesteyn|antonie ravesteyn|J. Ravesteyn|Ravenstyn|Jan Anthonisz van Ravesteyn|studio of Jan van van Ravesteyn|Jan Anthonisz. van Ravensteyn,Q5,,Jan van Ravesteyn
+Erlenbach,Ravenstein,Q589056,2,1,2,"town in North Brabant, the Netherlands",,Q13539802|Q677678|Q3957|Q1852859,,"Ravenstein, Netherlands"
+Erlenbach,Ravenstein,Q552513,2,1,2,municipality in Germany,,Q42744322|Q3957,,"Ravenstein, Germany"
+Erlenbach,Ravenstein,Q18286551,2,1,2,"former municipality in North Brabant, the Netherlands",,Q2039348,,
+Erlenbach,Paul von Ravenstein,Q1563331,2,1,2,German painter (1854-1938),Paul Von Ravenstein|Ravenstein|p. von ravenstein|paul von ravenstein|p. v. ravenstein,Q5,,
+Erlenbach,Ravenstein Gallery,Q18609487,2,1,2,"shopping arcade in Brussels, Belgium",,Q97495053,,
+Erlenbach,Ravenstein,Q111821451,2,1,2,tram stop in Brussels,,Q2175765,,
+Erlenbach,Ravenstein railway station,Q2788131,2,1,2,railway station in the Netherlands,,Q55488,,Ravenstein railway station
+Erlenbach,Central European Summer Time,Q207020,2,1,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Erlenbach,UTC+02:00,Q6723,2,1,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Erlenbach,daylight saving time,Q36669,2,1,2,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Erlenbach,Central European Time,Q25989,2,1,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Erlenbach,summer time in Europe,Q161278,2,1,2,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Ravenstein,Oss,Q9859,2,2,1,municipality in the Netherlands,Ravenstein,Q2039348,,Oss
+Ravenstein,Ravenstein,Q110856662,2,2,1,family name,,Q101352,,Ravenstein (surname)
+Ravenstein,Jan van Ravesteyn,Q864059,2,2,1,painter from the Northern Netherlands (1572–1657),Jan Anthonisz. Van Ravesteyn|Jan Anthonisz. van Ravesteyn|John Van Ravesteyn|Jan Anthonisz. van Ravestyn|Jan Anthonisz. van Ravenstein|Jan Antonisz. Van Ravesteyn|Jan Antonisz van Ravesteyn|Jan Anthonisz. van Ravestein|Jan Antonisz. van Ravesteijn|Jan van Ravesteijn|Joan van Ravestein|Johan van Ravestein|Johannes Ravestein|Jan Anthonie van Ravesteyn|Jan Antonisz. van Ravesteyn|J.A. van Ravesteyn|Johann von Ravestein|Ravestein|jan van ravestijn|Jan Antonisz Ravesteyn|J. van Ravesteyn|J. van Ravestein|Jan Anthonisz v. Ravesteyn|Ravesteyn|j. a. v. ravesteijn|jan anthonisz van ravesteijn|Jan Antonisz van Ravesteijn|Jean De Ravestain|j. van ravesteijn|J. Van Ravenstyn|Jan Ravesteyn|J. V. Ravenstein|J. Ant. v. Ravesteijn|Jan Anthonisz Ravesteyn|J. Ravestein|jan van ravestyn|A. van Ravesteyn|Anton van Ravesteyn|Anthonis van Ravesteyn|ravestiyne|Johannes Anthonisz van Ravesteyn|jan anthonisz van ravestijn|Ravenstein|jan anth. van ravesteijn|jan anth. van ravesteyn|Jan Anthoniesz van Ravesteyn|j. a. van ravestijn|Jan Rauelstein|J.A. Ravesteyn|antonie ravesteyn|J. Ravesteyn|Ravenstyn|Jan Anthonisz van Ravesteyn|studio of Jan van van Ravesteyn|Jan Anthonisz. van Ravensteyn,Q5,,Jan van Ravesteyn
+Ravenstein,Ravenstein,Q589056,2,2,1,"town in North Brabant, the Netherlands",,Q13539802|Q677678|Q3957|Q1852859,,"Ravenstein, Netherlands"
+Ravenstein,Ravenstein,Q552513,2,2,1,municipality in Germany,,Q42744322|Q3957,,"Ravenstein, Germany"
+Ravenstein,Ravenstein,Q18286551,2,2,1,"former municipality in North Brabant, the Netherlands",,Q2039348,,
+Ravenstein,Paul von Ravenstein,Q1563331,2,2,1,German painter (1854-1938),Paul Von Ravenstein|Ravenstein|p. von ravenstein|paul von ravenstein|p. v. ravenstein,Q5,,
+Ravenstein,Ravenstein Gallery,Q18609487,2,2,1,"shopping arcade in Brussels, Belgium",,Q97495053,,
+Ravenstein,Ravenstein,Q111821451,2,2,1,tram stop in Brussels,,Q2175765,,
+Ravenstein,Ravenstein railway station,Q2788131,2,2,1,railway station in the Netherlands,,Q55488,,Ravenstein railway station
+Central European Summer Time,Central European Summer Time,Q207020,2,3,1,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Central European Summer Time,UTC+02:00,Q6723,2,3,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Central European Summer Time,daylight saving time,Q36669,2,3,1,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Central European Summer Time,Central European Time,Q25989,2,3,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Summer Time,summer time in Europe,Q161278,2,3,1,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Central European Summer Time,Erlenbach,Q69203,2,3,2,municipality in Switzerland,Erlenbach ZH,Q70208,,"Erlenbach, Switzerland"
+Central European Summer Time,Erlenbach,Q37486020,2,3,2,family name,,Q101352,,
+Central European Summer Time,Erlenbach,Q20819372,2,3,2,river in Germany,,Q355304,,Erlenbach (Enz)
+Central European Summer Time,Erlenbach,Q84048088,2,3,2,human settlement in Zwettl District,,Q486972,,
+Central European Summer Time,Erlenbach am Main,Q502401,2,3,2,urban municipality of Germany,Erlenbach/Main|Erlenbach a.Main,Q42744322,,Erlenbach am Main
+Central European Summer Time,Erlenbach,Q60136,2,3,2,municipality in Germany,,Q116457956,,"Erlenbach, Baden-Württemberg"
+Central European Summer Time,Erlenbach bei Marktheidenfeld,Q508149,2,3,2,municipality of Germany,,Q116457956,,Erlenbach bei Marktheidenfeld
+Central European Summer Time,Erlenbach,Q1355497,2,3,2,river in Germany,Erlen-Bach,Q4022,,Erlenbach (Main)
+Central European Summer Time,Erlenbach,Q16831239,2,3,2,Part of the municipality Erlenbach bei Marktheidenfeld,,Q253019|Q956214|Q1499928,,
+Central European Summer Time,Erlenbach,Q105015162,2,3,2,"Gemarkung in Ravenstein, Neckar-Odenwald district, Germany",,Q532|Q1499928|Q19730508|Q105254117,,
+Central European Summer Time,Oss,Q9859,2,3,2,municipality in the Netherlands,Ravenstein,Q2039348,,Oss
+Central European Summer Time,Ravenstein,Q110856662,2,3,2,family name,,Q101352,,Ravenstein (surname)
+Central European Summer Time,Jan van Ravesteyn,Q864059,2,3,2,painter from the Northern Netherlands (1572–1657),Jan Anthonisz. Van Ravesteyn|Jan Anthonisz. van Ravesteyn|John Van Ravesteyn|Jan Anthonisz. van Ravestyn|Jan Anthonisz. van Ravenstein|Jan Antonisz. Van Ravesteyn|Jan Antonisz van Ravesteyn|Jan Anthonisz. van Ravestein|Jan Antonisz. van Ravesteijn|Jan van Ravesteijn|Joan van Ravestein|Johan van Ravestein|Johannes Ravestein|Jan Anthonie van Ravesteyn|Jan Antonisz. van Ravesteyn|J.A. van Ravesteyn|Johann von Ravestein|Ravestein|jan van ravestijn|Jan Antonisz Ravesteyn|J. van Ravesteyn|J. van Ravestein|Jan Anthonisz v. Ravesteyn|Ravesteyn|j. a. v. ravesteijn|jan anthonisz van ravesteijn|Jan Antonisz van Ravesteijn|Jean De Ravestain|j. van ravesteijn|J. Van Ravenstyn|Jan Ravesteyn|J. V. Ravenstein|J. Ant. v. Ravesteijn|Jan Anthonisz Ravesteyn|J. Ravestein|jan van ravestyn|A. van Ravesteyn|Anton van Ravesteyn|Anthonis van Ravesteyn|ravestiyne|Johannes Anthonisz van Ravesteyn|jan anthonisz van ravestijn|Ravenstein|jan anth. van ravesteijn|jan anth. van ravesteyn|Jan Anthoniesz van Ravesteyn|j. a. van ravestijn|Jan Rauelstein|J.A. Ravesteyn|antonie ravesteyn|J. Ravesteyn|Ravenstyn|Jan Anthonisz van Ravesteyn|studio of Jan van van Ravesteyn|Jan Anthonisz. van Ravensteyn,Q5,,Jan van Ravesteyn
+Central European Summer Time,Ravenstein,Q589056,2,3,2,"town in North Brabant, the Netherlands",,Q13539802|Q677678|Q3957|Q1852859,,"Ravenstein, Netherlands"
+Central European Summer Time,Ravenstein,Q552513,2,3,2,municipality in Germany,,Q42744322|Q3957,,"Ravenstein, Germany"
+Central European Summer Time,Ravenstein,Q18286551,2,3,2,"former municipality in North Brabant, the Netherlands",,Q2039348,,
+Central European Summer Time,Paul von Ravenstein,Q1563331,2,3,2,German painter (1854-1938),Paul Von Ravenstein|Ravenstein|p. von ravenstein|paul von ravenstein|p. v. ravenstein,Q5,,
+Central European Summer Time,Ravenstein Gallery,Q18609487,2,3,2,"shopping arcade in Brussels, Belgium",,Q97495053,,
+Central European Summer Time,Ravenstein,Q111821451,2,3,2,tram stop in Brussels,,Q2175765,,
+Central European Summer Time,Ravenstein railway station,Q2788131,2,3,2,railway station in the Netherlands,,Q55488,,Ravenstein railway station
+Rittersbach,Rittersbach,Q2155240,3,0,1,"quarter of Elztal, Baden-Württemberg, Germany",,Q253019|Q532|Q19730508|Q1499928,,
+Rittersbach,Rittersbach,Q14252598,3,0,1,district of Georgensgmünd,,Q253019|Q1493533,,
+Rittersbach,Rittersbach,Q76883681,3,0,1,,,Q4022,,
+Rittersbach,Rittersbachtal,Q59585121,3,0,1,"protected landscape in Bavaria, Germany",,Q21503788|Q473972,,
+Rittersbach,Rittersbach,Q116458264,3,0,1,,,Q355304,,
+Rittersbach,Rittersbach,Q140388949,3,0,1,,,Q13417114,,
+Rittersbach,Rittersbachbrücke,Q116458215,3,0,1,,,Q537127,,
+Rittersbach,Rittersbacher Friedhof,Q110987486,3,0,1,"cemetery in Elztal, Germany",,Q39614,,
+Rittersbach,Rittersbach,Q1251691,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Elz,Elz,Q631198,3,1,1,"municipality in Landkreis Limburg-Weilburg in Hesse, Germany",Elz (Westerwald),Q116457956,,"Elz, Hesse"
+Elz,Elżbieta,Q1334508,3,1,1,female given name,,Q11879590,,
+Elz,Elz,Q67302266,3,1,1,cadastral municipality in Weiz District,,Q17376095,,
+Elz,Elze,Q518719,3,1,1,municipality of Germany,,Q42744322|Q133997300,,Elze
+Elz,Elza,Q5368618,3,1,1,female given name,Elza (first name)|Elza (given name),Q11879590,,Elza (given name)
+Elz,Elżbieta Rulikowska-Zarębska,Q114712242,3,1,1,particle physicist (Poland),Elzbieta Rulikowska-Zarebska,Q5,,
+Elz,Aspazija,Q257872,3,1,1,Latvian poet and playwright (1865–1943),Else Aspasija|Elza Pliekšāne,Q5,,Aspazija
+Elz,Elżbieta Krajewska-Kułak,Q9253185,3,1,1,Polish physician and researcher,,Q5,,
+Elz,Elz,Q524899,3,1,1,river in Germany,Elzbach,Q355304,,Elz (Neckar)
+Elz,Elżbieta Tryniszewska,Q28672021,3,1,1,Polish physician and microbiologist,Elżbieta Anna Tryniszewska,Q5,,
+Elz,Elztal,Q534331,3,1,2,municipality in Germany,,Q116457956,,Elztal
+Elz,Elztal-Biester Kollnau,Q48610070,3,1,2,"carnival club in Kollnau, Waldkirch, Baden-Württemberg, Germany",,Q1965390,,
+Elz,Elztalmuseum,Q15055976,3,1,2,museum in Germany,,Q33506,,
+Elz,Elztalbrücke,Q1334459,3,1,2,,,Q976622|Q1055465|Q537127,,
+Elz,Elztal,Q128828970,3,1,2,,,Q39816,,
+Elz,Dallau,Q105230886,3,1,2,village in Elztal,,Q253019|Q1499928,,
+Elz,Auerbach,Q86510728,3,1,2,"borough of Elztal, Germany",,Q253019|Q532|Q1499928|Q19730508,,
+Elz,Rittersbach,Q2155240,3,1,2,"quarter of Elztal, Baden-Württemberg, Germany",,Q253019|Q532|Q19730508|Q1499928,,
+Elz,Elztal,Q1029230,3,1,2,Wikimedia disambiguation page,,Q4167410,,
+Elz,Elz Valley Railway,Q884374,3,1,2,railway line,,Q728937,,Elz Valley Railway
+Elz,Rittersbach,Q14252598,3,1,2,district of Georgensgmünd,,Q253019|Q1493533,,
+Elz,Rittersbach,Q76883681,3,1,2,,,Q4022,,
+Elz,Rittersbachtal,Q59585121,3,1,2,"protected landscape in Bavaria, Germany",,Q21503788|Q473972,,
+Elz,Rittersbach,Q116458264,3,1,2,,,Q355304,,
+Elz,Rittersbach,Q140388949,3,1,2,,,Q13417114,,
+Elz,Rittersbachbrücke,Q116458215,3,1,2,,,Q537127,,
+Elz,Rittersbacher Friedhof,Q110987486,3,1,2,"cemetery in Elztal, Germany",,Q39614,,
+Elz,Rittersbach,Q1251691,3,1,2,Wikimedia disambiguation page,,Q4167410,,
+Elztal,Elztal,Q534331,3,2,1,municipality in Germany,,Q116457956,,Elztal
+Elztal,Elztal-Biester Kollnau,Q48610070,3,2,1,"carnival club in Kollnau, Waldkirch, Baden-Württemberg, Germany",,Q1965390,,
+Elztal,Elztalmuseum,Q15055976,3,2,1,museum in Germany,,Q33506,,
+Elztal,Elztalbrücke,Q1334459,3,2,1,,,Q976622|Q1055465|Q537127,,
+Elztal,Elztal,Q128828970,3,2,1,,,Q39816,,
+Elztal,Dallau,Q105230886,3,2,1,village in Elztal,,Q253019|Q1499928,,
+Elztal,Auerbach,Q86510728,3,2,1,"borough of Elztal, Germany",,Q253019|Q532|Q1499928|Q19730508,,
+Elztal,Rittersbach,Q2155240,3,2,1,"quarter of Elztal, Baden-Württemberg, Germany",,Q253019|Q532|Q19730508|Q1499928,,
+Elztal,Elztal,Q1029230,3,2,1,Wikimedia disambiguation page,,Q4167410,,
+Elztal,Elz Valley Railway,Q884374,3,2,1,railway line,,Q728937,,Elz Valley Railway
+Elztal,Rittersbach,Q14252598,3,2,2,district of Georgensgmünd,,Q253019|Q1493533,,
+Elztal,Rittersbach,Q76883681,3,2,2,,,Q4022,,
+Elztal,Rittersbachtal,Q59585121,3,2,2,"protected landscape in Bavaria, Germany",,Q21503788|Q473972,,
+Elztal,Rittersbach,Q116458264,3,2,2,,,Q355304,,
+Elztal,Rittersbach,Q140388949,3,2,2,,,Q13417114,,
+Elztal,Rittersbachbrücke,Q116458215,3,2,2,,,Q537127,,
+Elztal,Rittersbacher Friedhof,Q110987486,3,2,2,"cemetery in Elztal, Germany",,Q39614,,
+Elztal,Rittersbach,Q1251691,3,2,2,Wikimedia disambiguation page,,Q4167410,,
+Elztal,Elz,Q631198,3,2,2,"municipality in Landkreis Limburg-Weilburg in Hesse, Germany",Elz (Westerwald),Q116457956,,"Elz, Hesse"
+Elztal,Elżbieta,Q1334508,3,2,2,female given name,,Q11879590,,
+Elztal,Elz,Q67302266,3,2,2,cadastral municipality in Weiz District,,Q17376095,,
+Elztal,Elze,Q518719,3,2,2,municipality of Germany,,Q42744322|Q133997300,,Elze
+Elztal,Elza,Q5368618,3,2,2,female given name,Elza (first name)|Elza (given name),Q11879590,,Elza (given name)
+Elztal,Elżbieta Rulikowska-Zarębska,Q114712242,3,2,2,particle physicist (Poland),Elzbieta Rulikowska-Zarebska,Q5,,
+Elztal,Aspazija,Q257872,3,2,2,Latvian poet and playwright (1865–1943),Else Aspasija|Elza Pliekšāne,Q5,,Aspazija
+Elztal,Elżbieta Krajewska-Kułak,Q9253185,3,2,2,Polish physician and researcher,,Q5,,
+Elztal,Elz,Q524899,3,2,2,river in Germany,Elzbach,Q355304,,Elz (Neckar)
+Elztal,Elżbieta Tryniszewska,Q28672021,3,2,2,Polish physician and microbiologist,Elżbieta Anna Tryniszewska,Q5,,
+UTC+02:00,UTC+02:00,Q6723,3,3,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+UTC+02:00,Eastern European Time,Q190252,3,3,1,time zone,Lebanon Standard Time|Jordan Standard Time|Syria Standard Time|Egypt Standard Time|Cyprus Standard Time,Q12143,,Eastern European Time
+UTC+02:00,Kaliningrad Time,Q2356448,3,3,1,time zone,KALT|MSK–1|Europe/Kaliningrad,Q12143,,Kaliningrad Time
+UTC+02:00,Rittersbach,Q2155240,3,3,2,"quarter of Elztal, Baden-Württemberg, Germany",,Q253019|Q532|Q19730508|Q1499928,,
+UTC+02:00,Rittersbach,Q14252598,3,3,2,district of Georgensgmünd,,Q253019|Q1493533,,
+UTC+02:00,Rittersbach,Q76883681,3,3,2,,,Q4022,,
+UTC+02:00,Rittersbachtal,Q59585121,3,3,2,"protected landscape in Bavaria, Germany",,Q21503788|Q473972,,
+UTC+02:00,Rittersbach,Q116458264,3,3,2,,,Q355304,,
+UTC+02:00,Rittersbach,Q140388949,3,3,2,,,Q13417114,,
+UTC+02:00,Rittersbachbrücke,Q116458215,3,3,2,,,Q537127,,
+UTC+02:00,Rittersbacher Friedhof,Q110987486,3,3,2,"cemetery in Elztal, Germany",,Q39614,,
+UTC+02:00,Rittersbach,Q1251691,3,3,2,Wikimedia disambiguation page,,Q4167410,,
+UTC+02:00,Elz,Q631198,3,3,2,"municipality in Landkreis Limburg-Weilburg in Hesse, Germany",Elz (Westerwald),Q116457956,,"Elz, Hesse"
+UTC+02:00,Elżbieta,Q1334508,3,3,2,female given name,,Q11879590,,
+UTC+02:00,Elz,Q67302266,3,3,2,cadastral municipality in Weiz District,,Q17376095,,
+UTC+02:00,Elze,Q518719,3,3,2,municipality of Germany,,Q42744322|Q133997300,,Elze
+UTC+02:00,Elza,Q5368618,3,3,2,female given name,Elza (first name)|Elza (given name),Q11879590,,Elza (given name)
+UTC+02:00,Elżbieta Rulikowska-Zarębska,Q114712242,3,3,2,particle physicist (Poland),Elzbieta Rulikowska-Zarebska,Q5,,
+UTC+02:00,Aspazija,Q257872,3,3,2,Latvian poet and playwright (1865–1943),Else Aspasija|Elza Pliekšāne,Q5,,Aspazija
+UTC+02:00,Elżbieta Krajewska-Kułak,Q9253185,3,3,2,Polish physician and researcher,,Q5,,
+UTC+02:00,Elz,Q524899,3,3,2,river in Germany,Elzbach,Q355304,,Elz (Neckar)
+UTC+02:00,Elżbieta Tryniszewska,Q28672021,3,3,2,Polish physician and microbiologist,Elżbieta Anna Tryniszewska,Q5,,
+UTC+02:00,Elztal,Q534331,3,3,2,municipality in Germany,,Q116457956,,Elztal
+UTC+02:00,Elztal-Biester Kollnau,Q48610070,3,3,2,"carnival club in Kollnau, Waldkirch, Baden-Württemberg, Germany",,Q1965390,,
+UTC+02:00,Elztalmuseum,Q15055976,3,3,2,museum in Germany,,Q33506,,
+UTC+02:00,Elztalbrücke,Q1334459,3,3,2,,,Q976622|Q1055465|Q537127,,
+UTC+02:00,Elztal,Q128828970,3,3,2,,,Q39816,,
+UTC+02:00,Dallau,Q105230886,3,3,2,village in Elztal,,Q253019|Q1499928,,
+UTC+02:00,Auerbach,Q86510728,3,3,2,"borough of Elztal, Germany",,Q253019|Q532|Q1499928|Q19730508,,
+UTC+02:00,Elztal,Q1029230,3,3,2,Wikimedia disambiguation page,,Q4167410,,
+UTC+02:00,Elz Valley Railway,Q884374,3,3,2,railway line,,Q728937,,Elz Valley Railway
+UTC+02:00,Central European Time,Q25989,3,3,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+UTC+02:00,Cetus,Q8839,3,3,2,constellation straddling the celestial equator,Cet|Ceti,Q8928,,Cetus (constellation)
+UTC+02:00,UTC+01:00,Q6655,3,3,2,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+UTC+02:00,Cetacea,Q160,3,3,2,infraorder of marine mammals,Cetaceans|cetaceans,Q16521,Q7377,Cetacean
+UTC+02:00,Cetinje,Q173338,3,3,2,Old Royal Capital of Montenegro,,Q515,,Cetinje
+UTC+02:00,Cetoniidae,Q1403094,3,3,2,Family of beetles,,Q16521,,Cetoniidae
+UTC+02:00,vitamin C,Q199678,3,3,2,"water-soluble vitamin and antioxidant essential for collagen synthesis, immune function, and skin brightening",Cevalin|Cetane-Caps TC|Cetane|Cebione|Cenolate|Cecon|Ascoltin|Cevex|L-ascorbic acid|OVC307|ascorbic acid|ascorbate,Q113145171,Q108955625|Q193598,Vitamin C
+UTC+02:00,Cetraria,Q134917,3,3,2,genus of fungi,,Q16521,,Cetraria
+UTC+02:00,Cetartiodactyla,Q27850,3,3,2,proposed name for a fusion of the orders Cetacea and Artiodactyla,,Q713623,,Cetartiodactyla
+UTC+02:00,Cethosia,Q1757735,3,3,2,genus of insects,,Q16521,,Cethosia

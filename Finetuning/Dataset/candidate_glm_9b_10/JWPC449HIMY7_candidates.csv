@@ -1,0 +1,494 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Avtovo,Avtovo,Q2016654,0,0,1,"metro station in Saint Petersburg, Russia",,Q928830|Q22808403|Q2319498,,Avtovo (Saint Petersburg Metro)
+Avtovo,Avtovo,Q4056185,0,0,1,,Avtovo municipality,Q27587207,,
+Avtovo,Avtovo,Q840908,0,0,1,"historical district of St Petersburg, Russia",,Q15243209,,
+Avtovo,Avtovo,Q4056186,0,0,1,,,Q4530848,,
+Avtovo,Avtovo,Q4056184,0,0,1,railway station,,Q55488,,
+Avtovo,Saint Petersburg Central Bus Terminal,Q20503067,0,0,1,,Avtovokzal,Q494829,,
+Avtovo,Avtovo CHP-15,Q4056193,0,0,1,"Power plant in St Petersburg, Russia",,Q200297,,Avtovo CHP-15
+Avtovo,Avtovo tram viaduct (Kronstadtsky),Q18755208,0,0,1,,,Q1425560,,
+Avtovo,Avtovo overpass,Q18755196,0,0,1,overpass,,Q537127,,
+Avtovo,Avtovo Residential Complex,Q124287027,0,0,1,,,Q2319498,,
+Evgeny Levinson,Evgeny Levinson,Q4256543,0,1,1,Russian architect and restorer (1894-1968),Evgenii Adolfovich Levinson|Evgenij Adol'fovic Levinson|Evgenii Levinson|Evgenii Adol'fovich Levinson|Yevgeny Levinson|Evgenii Levinson Levinson|Yevgeny Adol'fovich Levinson|Jewgenij A. Levinson,Q5,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,0,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Avtovo,Q2016654,0,2,2,"metro station in Saint Petersburg, Russia",,Q928830|Q22808403|Q2319498,,Avtovo (Saint Petersburg Metro)
+regional cultural heritage site in Russia,Avtovo,Q4056185,0,2,2,,Avtovo municipality,Q27587207,,
+regional cultural heritage site in Russia,Avtovo,Q840908,0,2,2,"historical district of St Petersburg, Russia",,Q15243209,,
+regional cultural heritage site in Russia,Avtovo,Q4056186,0,2,2,,,Q4530848,,
+regional cultural heritage site in Russia,Avtovo,Q4056184,0,2,2,railway station,,Q55488,,
+regional cultural heritage site in Russia,Saint Petersburg Central Bus Terminal,Q20503067,0,2,2,,Avtovokzal,Q494829,,
+regional cultural heritage site in Russia,Avtovo CHP-15,Q4056193,0,2,2,"Power plant in St Petersburg, Russia",,Q200297,,Avtovo CHP-15
+regional cultural heritage site in Russia,Avtovo tram viaduct (Kronstadtsky),Q18755208,0,2,2,,,Q1425560,,
+regional cultural heritage site in Russia,Avtovo overpass,Q18755196,0,2,2,overpass,,Q537127,,
+regional cultural heritage site in Russia,Avtovo Residential Complex,Q124287027,0,2,2,,,Q2319498,,
+regional cultural heritage site in Russia,Evgeny Levinson,Q4256543,0,2,2,Russian architect and restorer (1894-1968),Evgenii Adolfovich Levinson|Evgenij Adol'fovic Levinson|Evgenii Levinson|Evgenii Adol'fovich Levinson|Yevgeny Levinson|Evgenii Levinson Levinson|Yevgeny Adol'fovich Levinson|Jewgenij A. Levinson,Q5,,
+Okeanskaya,Okeanskaya,Q4332504,1,0,1,"railway station in Vladivostok, Russia",Okeanskaya railway station|Okeanskaya station,Q55488|Q2319498,,
+Okeanskaya,Okeanskaya,Q36187693,1,0,1,"river on the east coast of Paramushir Island, Russia",,Q4022,,
+Okeanskaya,Okeanskaya,Q36195903,1,0,1,"river on the south coast of Paramushir Island, Russia",,Q4022,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,1,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan,Q4504750,2,0,1,church in Russia,,Q16970,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan,Q4500814,2,0,1,"heritage site in Tambov, Russia",,Q358|Q2319498,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan,Q4504751,2,0,1,"church building in Zelenogorsk, Russia",,Q2031836|Q2319498,,Church of Our Lady of Kazan (Zelenogorsk)
+Church of Our Lady of Kazan,Church of the Theotokos of Kazan (Veliky Vrag),Q4207738,2,0,1,"church building in Veliky Vrag, Kstovsky District, Nizhny Novgorod Oblast, Russia",Church of Our Lady of Kazan (Veliky Vrag),Q16970|Q2319498,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan in Minsk,Q110962842,2,0,1,,,Q2031836|Q57644089,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan (Bezvodnoye),Q97174752,2,0,1,"Eastern Orthodox church building, architectural landmark in Kstovsky District, Russia",,Q2031836|Q2319498,,
+Church of Our Lady of Kazan,"Church of Our Lady of Kazan on Nizhny Posad, Nizhny Novgorod",Q116245729,2,0,1,"church in Nizhny Novgorod, Russia",,Q2031836,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan in Kyiv (Florivskyi Monastery),Q122239185,2,0,1,,,Q16970,,
+Church of Our Lady of Kazan,Church of Our Lady of Kazan Posyolok Sanatoriya Krasnoye,Q110205594,2,0,1,"church in Krasnoe, Russia",,Q2319498|Q16970,,
+Church of Our Lady of Kazan,Kazan Cathedral,Q404571,2,0,2,cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg,"Kazan Cathedral, St. Petersburg|Kazan Cathedral, Saint Petersburg",Q56242225|Q2319498,,"Kazan Cathedral, Saint Petersburg"
+Church of Our Lady of Kazan,Kazan Cathedral,Q1140402,2,0,2,"church in Moscow, Russia",Cathedral of Our Lady of Kazan,Q2031836|Q2319498,,"Kazan Cathedral, Moscow"
+Church of Our Lady of Kazan,Kazan Cathedral,Q124569726,2,0,2,"sobor in Serafimovich, Russia",,Q2977|Q2319498,,
+Church of Our Lady of Kazan,Kazan Cathedral in Volgograd,Q3044636,2,0,2,"church building in Volgograd, Russia",Cathedral of Our Lady of Kazan,Q56242225|Q16970|Q2319498,,
+Church of Our Lady of Kazan,Clergy house of Kazan cathedral,Q21638978,2,0,2,"building of Clergy house of Kazan cathedral, Russia",Kazan Cathedral House|The house of the clergy of the Kazan Cathedral,Q41176|Q2319498,,Kazan Cathedral House
+Church of Our Lady of Kazan,Kazan Cathedral mosque,Q111805693,2,0,2,mosque in Russia,,Q32815,,
+Church of Our Lady of Kazan,Cathedral of Our Lady of Kazan (Kazan),Q125869013,2,0,2,"main cathedral of Kazansky Bogoroditsky Monastery, Russia",Kazan Cathedral (Kazan),Q25416095|Q2031836,,
+Church of Our Lady of Kazan,Kazan Cathedral,Q2350835,2,0,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of Our Lady of Kazan
+Church of Our Lady of Kazan,Cathedral of Our Lady of Kazan (Kirillov),Q102361297,2,0,2,"temple in Kirillov, Russia",,Q44539|Q2319498,,
+federal cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,2,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan,Q4504750,2,2,2,church in Russia,,Q16970,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan,Q4500814,2,2,2,"heritage site in Tambov, Russia",,Q358|Q2319498,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan,Q4504751,2,2,2,"church building in Zelenogorsk, Russia",,Q2031836|Q2319498,,Church of Our Lady of Kazan (Zelenogorsk)
+federal cultural heritage site in Russia,Church of the Theotokos of Kazan (Veliky Vrag),Q4207738,2,2,2,"church building in Veliky Vrag, Kstovsky District, Nizhny Novgorod Oblast, Russia",Church of Our Lady of Kazan (Veliky Vrag),Q16970|Q2319498,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan in Minsk,Q110962842,2,2,2,,,Q2031836|Q57644089,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan (Bezvodnoye),Q97174752,2,2,2,"Eastern Orthodox church building, architectural landmark in Kstovsky District, Russia",,Q2031836|Q2319498,,
+federal cultural heritage site in Russia,"Church of Our Lady of Kazan on Nizhny Posad, Nizhny Novgorod",Q116245729,2,2,2,"church in Nizhny Novgorod, Russia",,Q2031836,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan in Kyiv (Florivskyi Monastery),Q122239185,2,2,2,,,Q16970,,
+federal cultural heritage site in Russia,Church of Our Lady of Kazan Posyolok Sanatoriya Krasnoye,Q110205594,2,2,2,"church in Krasnoe, Russia",,Q2319498|Q16970,,
+federal cultural heritage site in Russia,Qazan Kremlin,Q603622,2,2,2,historic citadel in Tatarstan,Kazan Kremlin,Q263274|Q2319498|Q9259,,Kazan Kremlin
+federal cultural heritage site in Russia,Kazan Kremlin Cup,Q15097531,2,2,2,tennis tournament,,Q47443726,Q13219666,Kazan Kremlin Cup
+federal cultural heritage site in Russia,Kazan Kremlin towers,Q130379259,2,2,2,Wikimedia category,,Q4167836,,
+federal cultural heritage site in Russia,Kazan Kremlin walls,Q130379252,2,2,2,Wikimedia category,,Q4167836,,
+federal cultural heritage site in Russia,catedral de la anunciacion de kazan,Q185568,2,2,2,,,Q56242225|Q2319498,,
+federal cultural heritage site in Russia,Kazan Summer Cup,Q557814,2,2,2,tennis tournament,,Q47443726,Q13219666,Kazan Open
+federal cultural heritage site in Russia,2014 Kazan Kremlin Cup,Q15921293,2,2,2,tennis tournament,,Q47345468|Q15097531,,2014 Kazan Kremlin Cup
+federal cultural heritage site in Russia,2011 Kazan Kremlin Cup,Q3814120,2,2,2,tennis tournament,,Q15097531|Q47345468,,2011 Kazan Kremlin Cup
+federal cultural heritage site in Russia,2013 Kazan Kremlin Cup,Q15079716,2,2,2,tennis tournament,,Q15097531|Q47345468,,2013 Kazan Kremlin Cup
+federal cultural heritage site in Russia,2012 Kazan Kremlin Cup,Q3814116,2,2,2,tennis tournament,,Q15097531|Q47345468,,2012 Kazan Kremlin Cup
+federal cultural heritage site in Russia,Kazan Cathedral,Q404571,2,2,2,cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg,"Kazan Cathedral, St. Petersburg|Kazan Cathedral, Saint Petersburg",Q56242225|Q2319498,,"Kazan Cathedral, Saint Petersburg"
+federal cultural heritage site in Russia,Kazan Cathedral,Q1140402,2,2,2,"church in Moscow, Russia",Cathedral of Our Lady of Kazan,Q2031836|Q2319498,,"Kazan Cathedral, Moscow"
+federal cultural heritage site in Russia,Kazan Cathedral,Q124569726,2,2,2,"sobor in Serafimovich, Russia",,Q2977|Q2319498,,
+federal cultural heritage site in Russia,Kazan Cathedral in Volgograd,Q3044636,2,2,2,"church building in Volgograd, Russia",Cathedral of Our Lady of Kazan,Q56242225|Q16970|Q2319498,,
+federal cultural heritage site in Russia,Clergy house of Kazan cathedral,Q21638978,2,2,2,"building of Clergy house of Kazan cathedral, Russia",Kazan Cathedral House|The house of the clergy of the Kazan Cathedral,Q41176|Q2319498,,Kazan Cathedral House
+federal cultural heritage site in Russia,Kazan Cathedral mosque,Q111805693,2,2,2,mosque in Russia,,Q32815,,
+federal cultural heritage site in Russia,Cathedral of Our Lady of Kazan (Kazan),Q125869013,2,2,2,"main cathedral of Kazansky Bogoroditsky Monastery, Russia",Kazan Cathedral (Kazan),Q25416095|Q2031836,,
+federal cultural heritage site in Russia,Kazan Cathedral,Q2350835,2,2,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of Our Lady of Kazan
+Lanskaya,Lanskaya,Q4254005,3,0,1,"railway station in St. Petersburg, Russia",railway station «Lanskaya»,Q55488|Q2175765,,Lanskaya railway station
+Lanskaya,Lanskaja,Q6505590,3,0,1,village in Belarus,Lanskaya,Q65661087,,
+Lanskaya,Lanskaya - Sestroretsk - Beloostrov railway line,Q115061365,3,0,1,,,Q728937,,
+Lanskaya,Lanskaya - Pargolovo - Beloostrov railway line,Q115060523,3,0,1,,,Q728937,,
+Lanskaya,Lanskaya electric substation,Q6487499,3,0,1,electric substation of Lanskaya railway station,,Q174814,,Lanskaya electric substation
+Lanskaya,Lanskaya station house,Q129969874,3,0,1,,,Q2319498,,
+Lanskaya,Lanskaja,Q1805564,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Lanskaya,Lanskaya,Q80211148,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Bruno Granholm,Bruno Granholm,Q993300,3,1,1,Finnish architect (1857–1930),Bruno F. Granholm|Bruno Ferdinand Granholm,Q5,,Bruno Granholm
+Bruno Granholm,VR Pasila machine shop,Q11886832,3,1,1,"forge in Helsinki, Finland",Bruno Granholmin kuja 3|Aleksis Kiven katu 17|VR Pasila workshop|Pasila workshop|Pasila machine shop,Q2111762|Q40558|Q6881511,,
+Bruno Granholm,Bruno Granholmin kuja,Q54820156,3,1,1,"street in Helsinki, Finland",,Q221722,,
+Bruno Granholm,power and heating center in VR Pasila workshop,Q55597897,3,1,1,"building in Helsinki, Finland",Bruno Granholmin aukio 2|Bruno Granholmin kuja 1,Q41176,,
+Bruno Granholm,Bruno Granholmin aukio,Q95740894,3,1,1,"square in Helsinki, Finland",,Q2015628|Q174782,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,3,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Bruno Granholm,Q993300,3,2,2,Finnish architect (1857–1930),Bruno F. Granholm|Bruno Ferdinand Granholm,Q5,,Bruno Granholm
+regional cultural heritage site in Russia,VR Pasila machine shop,Q11886832,3,2,2,"forge in Helsinki, Finland",Bruno Granholmin kuja 3|Aleksis Kiven katu 17|VR Pasila workshop|Pasila workshop|Pasila machine shop,Q2111762|Q40558|Q6881511,,
+regional cultural heritage site in Russia,Bruno Granholmin kuja,Q54820156,3,2,2,"street in Helsinki, Finland",,Q221722,,
+regional cultural heritage site in Russia,power and heating center in VR Pasila workshop,Q55597897,3,2,2,"building in Helsinki, Finland",Bruno Granholmin aukio 2|Bruno Granholmin kuja 1,Q41176,,
+regional cultural heritage site in Russia,Bruno Granholmin aukio,Q95740894,3,2,2,"square in Helsinki, Finland",,Q2015628|Q174782,,
+regional cultural heritage site in Russia,Lanskaya,Q4254005,3,2,2,"railway station in St. Petersburg, Russia",railway station «Lanskaya»,Q55488|Q2175765,,Lanskaya railway station
+regional cultural heritage site in Russia,Lanskaja,Q6505590,3,2,2,village in Belarus,Lanskaya,Q65661087,,
+regional cultural heritage site in Russia,Lanskaya - Sestroretsk - Beloostrov railway line,Q115061365,3,2,2,,,Q728937,,
+regional cultural heritage site in Russia,Lanskaya - Pargolovo - Beloostrov railway line,Q115060523,3,2,2,,,Q728937,,
+regional cultural heritage site in Russia,Lanskaya electric substation,Q6487499,3,2,2,electric substation of Lanskaya railway station,,Q174814,,Lanskaya electric substation
+regional cultural heritage site in Russia,Lanskaya station house,Q129969874,3,2,2,,,Q2319498,,
+regional cultural heritage site in Russia,Lanskaja,Q1805564,3,2,2,Wikimedia disambiguation page,,Q4167410,,
+regional cultural heritage site in Russia,Lanskaya,Q80211148,3,2,2,Wikimedia disambiguation page,,Q4167410,,
+Narikala,Narikala,Q155453,4,0,1,ancient fortress overlooking Tbilisi,,Q1785071|Q35112127|Q2319498|Q2065736,,Narikala
+Narikala,Narikala,Q60379939,4,0,1,"village in Bankura district, West Bengal, India",,Q56436498,,
+Cultural heritage in Georgia,Cultural heritage in Georgia,Q34480001,4,2,1,,Cultural heritage monuments in Georgia|Cultural heritage of Georgia,Q74817647,Q2065736,
+Cultural heritage in Georgia,Narikala,Q155453,4,2,2,ancient fortress overlooking Tbilisi,,Q1785071|Q35112127|Q2319498|Q2065736,,Narikala
+Cultural heritage in Georgia,Narikala,Q60379939,4,2,2,"village in Bankura district, West Bengal, India",,Q56436498,,
+Old Sarepta,Old Sarepta,Q16656355,5,0,1,museum,,Q33506|Q2319498,,
+Old Sarepta,Old Sarepta,Q87022263,5,0,1,"city block, building complex, cultural heritage ensemble, architectural landmark in Krasnoarmeysky District, Russia",,Q1516079|Q1348006|Q1497364|Q2319498,,
+Old Sarepta,Old Sarepta,Q3558104,5,0,1,"human settlement in Krasnoarmeysky District, Volgograd, Volgograd Urban Okrug, Russia",,Q15078955,,Old Sarepta
+Old Sarepta,Old Sarepta Cemetery,Q117668083,5,0,1,"cemetery in Webster Parish, Louisiana, United States",,Q39614,,
+Old Sarepta,federal cultural heritage site in Russia,Q23668083,5,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,5,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,Old Sarepta,Q16656355,5,2,2,museum,,Q33506|Q2319498,,
+federal cultural heritage site in Russia,Old Sarepta,Q87022263,5,2,2,"city block, building complex, cultural heritage ensemble, architectural landmark in Krasnoarmeysky District, Russia",,Q1516079|Q1348006|Q1497364|Q2319498,,
+federal cultural heritage site in Russia,Old Sarepta,Q3558104,5,2,2,"human settlement in Krasnoarmeysky District, Volgograd, Volgograd Urban Okrug, Russia",,Q15078955,,Old Sarepta
+federal cultural heritage site in Russia,Old Sarepta Cemetery,Q117668083,5,2,2,"cemetery in Webster Parish, Louisiana, United States",,Q39614,,
+Regimental Office House,Regimental Office House,Q12085330,6,0,1,building in Ukraine,Budynok polkovoii kantseliarii,Q2319498|Q41176,,
+Regimental Office House,Regimental Office House,Q4165558,6,0,1,"building in Chernihiv, Ukraine",Budynok polkovoii kantseliarii|House of Lyzohub,Q811979,,House of Lyzohub (Colonel of the Chernihiv's Regiment)
+Andrey Kvasov,Andrey Kvasov,Q2566434,6,1,1,Russian architect,Kvasov|Andrey Vasilievich Kvasov,Q5,,Andrey Kvasov
+Andrey Kvasov,Andrey Kvasov,Q16215879,6,1,1,Kazakh swimmer,Andrey Kvassov,Q5,,Andrey Kvassov
+Andrey Kvasov,Andrey Kvasov,Q21694260,6,1,1,Russian scientist,Andrey Ivanovich Kvasov,Q5,,
+Blagoveshchensk,Blagoveshchensk,Q6934,7,0,1,"city in Amur Oblast, Russia",Blagoveschensk|Hailanpao,Q7930989|Q902814|Q1549591|Q106389302,,Blagoveshchensk
+Blagoveshchensk,Blagoveshchensk,Q105179,7,0,1,"town in the Republic of Bashkortostan, Russia",,Q7930989,,"Blagoveshchensk, Bashkortostan"
+Blagoveshchensk,Blagoveshchensk,Q4087725,7,0,1,"railway station in Blagoveshchensk, Russia",,Q55488,,
+Blagoveshchensk,Urban settlement Blagoveshchensk,Q20021018,7,0,1,"human settlement in Blagoveshchensky District, Republic of Bashkortostan, Russia",Gorodskoye poseleniye Blagoveshchensk|Blagoveshchensk,Q2661988,,
+Blagoveshchensk,Blagoveshchensk Urban Okrug,Q10740329,7,0,1,"human settlement in Amur Oblast, Khabarovsk Krai, Russia",,Q13626398|Q12357832,,
+Blagoveshchensk,Blagoveshchensky District,Q804290,7,0,1,municipal district in Russia,"Blagoveshchensky District, Republic of Bashkortostan",Q2198484|Q7688,,"Blagoveshchensky District, Bashkortostan"
+Blagoveshchensk,"Blagoveshchensky District, Amur Oblast",Q1763289,7,0,1,"human settlement in Amur Oblast, Khabarovsk Krai, Russia",Blagoveshchenskiy Rayon,Q2198484,,"Blagoveshchensky District, Amur Oblast"
+Blagoveshchensk,"Blagoveshchensky District, Altai Krai",Q1822340,7,0,1,human settlement in Russia,Blagoveshchenskiy Rayon,Q2198484|Q12357832,,"Blagoveshchensky District, Altai Krai"
+Blagoveshchensk,Blagoveshchensk State Pedagogical University,Q4087768,7,0,1,Russian university.,Blagoveschensk State Pedagogical University|BSPU,Q3918|Q627006,,Blagoveshchensk State Pedagogical University
+Blagoveshchensk,Blagoveshchensk,Q19723036,7,0,1,"hamlet in Sovetsky District, Soviet Union",Blagoveschensk,Q5084,,
+Blagoveshchensk,federal cultural heritage site in Russia,Q23668083,7,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Blagoveshchensk,Russia,Q159,7,0,2,"country in Eastern Europe and Northern Asia, the largest in the world by area",Russian Federation|RU|RUS|RF,Q3624078|Q859563|Q6256|Q1323642|Q127693126,,Russia
+Blagoveshchensk,Russian Empire,Q34266,7,0,2,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Blagoveshchensk,Russia,Q23890440,7,0,2,genus of Ostracoda,,Q23038290,,
+Blagoveshchensk,Russian,Q7737,7,0,2,East Slavic language,Russian language|Russkiy|Russkiy yazyk,Q34770|Q1288568|Q33742,Q144713,Russian language
+Blagoveshchensk,Russian Wikipedia,Q206855,7,0,2,[ru] Russian-language edition of Wikipedia,,Q10876391,,Russian Wikipedia
+Blagoveshchensk,Russian Soviet Federative Socialist Republic,Q2184,7,0,2,constituent republic of the Soviet Union (1922–1991),Soviet Russian Republic|Russian Socialist Federative Soviet Republic|Russian SFSR|Soviet Russia|RSFSR|Russian Soviet Federal Socialist Republic|Russian Soviet Federated Socialist Republic|Russian Socialist Federated Soviet Republic|R.S.F.S.R.|the Russian SFSR|Communist Russia|Russian S.F.S.R.,Q3024240|Q236036|Q3624078|Q113393649|Q6256,,Russian Soviet Federative Socialist Republic
+Blagoveshchensk,Russian Wikisource,Q15634506,7,0,2,edition of the free library,ruwikisource|ru.wikisource.org,Q15156455|Q21286559,,
+Blagoveshchensk,Communist Party of the Soviet Union,Q79854,7,0,2,Marxist–Leninist founding and ruling party of the Soviet Union,CPSU|Bolshevik Party|Russian Communist Party (Bolsheviks)|RCP(b)|All-Union Communist Party (Bolsheviks),Q233591,,Communist Party of the Soviet Union
+Blagoveshchensk,Alaska,Q797,7,0,2,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Blagoveshchensk,Eastern Front,Q189266,7,0,2,1941–1945 World War II theater,Great Patriotic War|Eastern Campaign|Russian Campaign|German-Soviet War|Soviet-German War|Eastern Front of World War II,Q842332|Q198,,Eastern Front (World War II)
+federal cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,7,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,cultural heritage site in Russia,Q8346700,7,2,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+federal cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,7,2,2,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+federal cultural heritage site in Russia,local cultural heritage site in Russia,Q105835766,7,2,2,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q21011849,8,0,1,orthodox church in Arzamas,,Q16970|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4501497,8,0,1,,,Q2031836|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q1078570,8,0,1,architectural structure,,Q811979,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4500929,8,0,1,,,Q44539,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q16715730,8,0,1,,,Q44539,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4500928,8,0,1,,,Q44539|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q16715737,8,0,1,"church building, architectural landmark in Russua",,Q16970|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4504951,8,0,1,"heritage site in Manino, Lipetsk Oblast, Russia",,Q358|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q25395326,8,0,1,church in Cheboksary,,Q2031836,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q130289265,8,0,1,Pokrovskoe-na-Siti,,Q24398318|Q2319498,,
+Church of the Nativity of Christ,Nativity of Christ Cathedral,Q5813126,8,0,2,"cathedral in Chișinău, Moldova",Cathedral of Christ's Nativity,Q56242225,,"Nativity Cathedral, Chișinău"
+Church of the Nativity of Christ,Nativity of Christ Cathedral,Q19916169,8,0,2,,,Q2977,,
+Church of the Nativity of Christ,"Cathedral of the Nativity, Volgodonsk",Q2299019,8,0,2,Cathedral of Volgodonsk Diocese,"Nativity of Christ Cathedral, Volgodonsk",Q56242225,,"Cathedral of the Nativity, Volgodonsk"
+Church of the Nativity of Christ,"Nativity of Christ Cathedral, Tulchyn",Q122295342,8,0,2,,,Q56242225,,
+Church of the Nativity of Christ,Nativity of Christ Cathedral of the Nativity monastery in Tver,Q113338048,8,0,2,,,Q2319498|Q2031836,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,8,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q21011849,8,2,2,orthodox church in Arzamas,,Q16970|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4501497,8,2,2,,,Q2031836|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q1078570,8,2,2,architectural structure,,Q811979,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4500929,8,2,2,,,Q44539,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q16715730,8,2,2,,,Q44539,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4500928,8,2,2,,,Q44539|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q16715737,8,2,2,"church building, architectural landmark in Russua",,Q16970|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4504951,8,2,2,"heritage site in Manino, Lipetsk Oblast, Russia",,Q358|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q25395326,8,2,2,church in Cheboksary,,Q2031836,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q130289265,8,2,2,Pokrovskoe-na-Siti,,Q24398318|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q21011849,9,0,1,orthodox church in Arzamas,,Q16970|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4501497,9,0,1,,,Q2031836|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q1078570,9,0,1,architectural structure,,Q811979,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4500929,9,0,1,,,Q44539,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q16715730,9,0,1,,,Q44539,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4500928,9,0,1,,,Q44539|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q16715737,9,0,1,"church building, architectural landmark in Russua",,Q16970|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q4504951,9,0,1,"heritage site in Manino, Lipetsk Oblast, Russia",,Q358|Q2319498,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q25395326,9,0,1,church in Cheboksary,,Q2031836,,
+Church of the Nativity of Christ,Church of the Nativity of Christ,Q130289265,9,0,1,Pokrovskoe-na-Siti,,Q24398318|Q2319498,,
+Church of the Nativity of Christ,Nativity of Christ Cathedral,Q5813126,9,0,2,"cathedral in Chișinău, Moldova",Cathedral of Christ's Nativity,Q56242225,,"Nativity Cathedral, Chișinău"
+Church of the Nativity of Christ,Nativity of Christ Cathedral,Q19916169,9,0,2,,,Q2977,,
+Church of the Nativity of Christ,"Cathedral of the Nativity, Volgodonsk",Q2299019,9,0,2,Cathedral of Volgodonsk Diocese,"Nativity of Christ Cathedral, Volgodonsk",Q56242225,,"Cathedral of the Nativity, Volgodonsk"
+Church of the Nativity of Christ,"Nativity of Christ Cathedral, Tulchyn",Q122295342,9,0,2,,,Q56242225,,
+Church of the Nativity of Christ,Nativity of Christ Cathedral of the Nativity monastery in Tver,Q113338048,9,0,2,,,Q2319498|Q2031836,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,9,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q21011849,9,2,2,orthodox church in Arzamas,,Q16970|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4501497,9,2,2,,,Q2031836|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q1078570,9,2,2,architectural structure,,Q811979,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4500929,9,2,2,,,Q44539,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q16715730,9,2,2,,,Q44539,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4500928,9,2,2,,,Q44539|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q16715737,9,2,2,"church building, architectural landmark in Russua",,Q16970|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q4504951,9,2,2,"heritage site in Manino, Lipetsk Oblast, Russia",,Q358|Q2319498,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q25395326,9,2,2,church in Cheboksary,,Q2031836,,
+regional cultural heritage site in Russia,Church of the Nativity of Christ,Q130289265,9,2,2,Pokrovskoe-na-Siti,,Q24398318|Q2319498,,
+Svyato-Dukhov Monastery,Svyato-Dukhov Monastery,Q3917887,10,0,1,,,Q44613,,"Monastery of the Holy Spirit, Vitebsk"
+Svyato-Dukhov Monastery,Svyato-Dukhov Monastery,Q4411372,10,0,1,"monastery in Vologda, Russia",,Q44613|Q2319498,,
+Svyato-Dukhov Monastery,Svyato-Dukhov Monastery in Bujničy,Q11784991,10,0,1,,,Q44613,,
+Svyato-Dukhov Monastery,Svyato-Dukhov Monastery,Q7652807,10,0,1,Wikimedia disambiguation page,,Q4167410,,Svyato-Dukhov Monastery
+cultural heritage site in Russia,cultural heritage site in Russia,Q8346700,10,2,1,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,10,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,10,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+cultural heritage site in Russia,local cultural heritage site in Russia,Q105835766,10,2,1,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+cultural heritage site in Russia,Svyato-Dukhov Monastery,Q3917887,10,2,2,,,Q44613,,"Monastery of the Holy Spirit, Vitebsk"
+cultural heritage site in Russia,Svyato-Dukhov Monastery,Q4411372,10,2,2,"monastery in Vologda, Russia",,Q44613|Q2319498,,
+cultural heritage site in Russia,Svyato-Dukhov Monastery in Bujničy,Q11784991,10,2,2,,,Q44613,,
+cultural heritage site in Russia,Svyato-Dukhov Monastery,Q7652807,10,2,2,Wikimedia disambiguation page,,Q4167410,,Svyato-Dukhov Monastery
+cultural heritage site in Russia,Saint Petersburg,Q656,10,2,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+cultural heritage site in Russia,St. Petersburg,Q49236,10,2,2,"city in Pinellas County, Florida, United States","St. Petersburg, Florida|Saint Petersburg|St Petersburg|St Petersburg, Florida|St. Petersburg, FL|City of St. Petersburg, Florida",Q1093829|Q1549591,,"St. Petersburg, Florida"
+cultural heritage site in Russia,Saint Petersburg Mining University,Q2495829,10,2,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+cultural heritage site in Russia,Saint Petersburg State University,Q27621,10,2,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+cultural heritage site in Russia,Imperial Academy of Arts,Q628254,10,2,2,"art school in Saint Petersburg, Russia",Russian Academy of Arts|Academy of the Three Noblest Arts|Saint Petersburg Academy of Arts|Leningrad Academy of arts|St Petersburg academy,Q383092|Q2319498,,Imperial Academy of Arts
+cultural heritage site in Russia,Saint Petersburg Conservatory,Q178416,10,2,2,music school in Saint Petersburg,Leningrad Conservatory|N. A. Rimsky-Korsakov Saint Petersburg State Conservatory|Saint Petersburg State Conservatory named after N.A. Rimsky-Korsakov|Rimsky-Korsakov Saint Petersburg State Conservatory|St. Petersburg Rimsky-Korsakov State Conservatory,Q184644|Q2385804,,Saint Petersburg Conservatory
+cultural heritage site in Russia,Saint Petersburg Academy of Sciences,Q4345832,10,2,2,historical academy (1724–1917),The Saint Petersburg Academy of Sciences|The St. Petersburg Academy of Sciences|St. Petersburg Academy of Sciences|Imperial Saint Petersburg Academy of Sciences,Q414147,,Saint Petersburg Academy of Sciences
+cultural heritage site in Russia,Peter the Great Saint Petersburg State Polytechnical University,Q1379834,10,2,2,university in Russia,Saint Petersburg State Technical University|St. Petersburg Polytechnic University,Q4315006|Q1497364|Q2319498,,Peter the Great St. Petersburg Polytechnic University
+cultural heritage site in Russia,Repin Institute of Arts,Q4201516,10,2,2,"education organization in Saint Petersburg, Russia","Saint Petersburg State Academic Institute of Painting Sculpture and Architecture named after I.E. Repin|Leningrad Order of Labor red banner Institute of painting, sculpture and architecture|Repin Academy of Arts|Saint Petersburg Repin Academy of Arts",Q2385804,,Saint Petersburg Repin Academy of Fine Arts
+cultural heritage site in Russia,S. M. Kirov Military Medical Academy,Q1459393,10,2,2,"school of military medicine in Saint Petersburg, Russian Federation",Military-Medical Academy. CM. Kirov|Kirov Military Medical Academy|Academy of Military Medicine|Imperial Military Medical Academy|Saint Petersburg Academy for Military Medicine|Imperial Academy of Medical Surgery|Imperial Medical and Surgical Academy|Kirov Academy,Q917182|Q140968873,,S. M. Kirov Military Medical Academy
+cultural heritage site in Russia,Hermitage Museum,Q132783,10,2,2,"museum in Saint Petersburg, Russia","Hermitage|State Hermitage|State Hermitage Museum|The State Hermitage Museum|The Hermitage|State Hermitage Museum, St. Petersburg",Q28737012|Q207694|Q570116|Q1497364|Q16560|Q16735822|Q33506,,Hermitage Museum
+cultural heritage site in Russia,Eremitage,Q896879,10,2,2,"cultural heritage monument D-4-62-000-392 (0) in Bayreuth, Bavaria",Hermitage Museum|Eremitage (Bayreuth),Q253019|Q22698|Q33506,,Hermitage Museum (Bayreuth)
+cultural heritage site in Russia,Hermitage Museum and Gardens,Q21716824,10,2,2,"museum and gardens in Norfolk, Virginia",,Q33506,,
+cultural heritage site in Russia,Hermitage Museum building at Staraya Derevnya,Q4439665,10,2,2,,,Q1497364,,
+cultural heritage site in Russia,Novodevichy Convent,Q270725,10,2,2,"convent and UNESCO World Heritage Site in Moscow, Russia",Bogoroditse-Smolensky Monastery,Q11784935|Q2319498|Q9259,,Novodevichy Convent
+cultural heritage site in Russia,Kizhi Pogost,Q477462,10,2,2,museum in Russia,,Q2191999|Q1497375|Q2319498|Q23058156|Q9259,,Kizhi Pogost
+cultural heritage site in Russia,Kizhi,Q205244,10,2,2,island in Russia,Kizhi Island,Q23442,,Kizhi Island
+cultural heritage site in Russia,Solovetsky Monastery,Q1140434,10,2,2,monastery,,Q11784935|Q2319498,,Solovetsky Monastery
+cultural heritage site in Russia,Solovetsky Monastery,Q103967778,10,2,2,encyclopedia article,,Q13433827,,
+cultural heritage site in Russia,Solovetsky Monastery Uprising,Q2498038,10,2,2,uprising of Old Believer monks against Tsar Aleksey I,,Q124734,,Solovetsky Monastery uprising
+cultural heritage site in Russia,Transfiguration Cathedral,Q2299324,10,2,2,"Eastern Orthodox cathedral in Odesa, Ukraine","Transfiguration Cathedral, Odesa|Transfiguration Cathedral in Odesa|Spaso-Preobrashenskyi Sobor|Preobrashenskyi Sobor, Odesa",Q2977|Q2031836,,"Transfiguration Cathedral, Odesa"
+cultural heritage site in Russia,Transfiguration Cathedral,Q2942893,10,2,2,"church in Khabarovsk, Russia",,Q56242225,,"Transfiguration Cathedral, Khabarovsk"
+cultural heritage site in Russia,Transfiguration Cathedral,Q1336613,10,2,2,Orthodox Cathedral in the Russian city of Tolyatti,,Q2977|Q2031836,,Transfiguration Cathedral (Tolyatti)
+cultural heritage site in Russia,Transfiguration Cathedral,Q2015425,10,2,2,"main Orthodox building located in Dnipro, Ukraine",Saviour's Transfiguration Cathedral,Q56242225,,"Transfiguration Cathedral, Dnipro"
+cultural heritage site in Russia,Spaso-Preobrazhensky Cathedral in Pereslavl-Zalessky,Q1975595,10,2,2,Eastern Orthodox Church in Russia,Transfiguration Cathedral in Pereslavl-Zalessky|Cathedral of the Transfiguration in Pereslavl-Zalessky,Q16970|Q2031836|Q2319498,,
+cultural heritage site in Russia,Transfiguration Cathedral,Q831528,10,2,2,cathedral in Cluj-Napoca,,Q2977|Q1088552,,"Transfiguration Cathedral, Cluj-Napoca"
+cultural heritage site in Russia,Transfiguration Cathedral,Q1916538,10,2,2,Cathedral in Nizhny Novgorod Fair,Old-Fair Cathedral,Q2031836|Q56242225|Q2319498,,
+cultural heritage site in Russia,Transfiguration Cathedral,Q2780851,10,2,2,"Russian Orthodox cathedral in Uglich, Yaroslavl Oblast, Russia",,Q2977|Q2319498,,
+cultural heritage site in Russia,Transfiguration Cathedral,Q12154978,10,2,2,"church building in Sumy, Ukraine",,Q56242225,,
+cultural heritage site in Russia,Transfiguration Cathedral,Q644102,10,2,2,Saint-Petersburg cathedral on the Preobrazhenskaya square,,Q2977|Q2031836,,Transfiguration Cathedral (Saint Petersburg)
+cultural heritage site in Russia,Kazan Cathedral,Q404571,10,2,2,cathedral of the Russian Orthodox Church on the Nevsky Prospekt in St. Petersburg,"Kazan Cathedral, St. Petersburg|Kazan Cathedral, Saint Petersburg",Q56242225|Q2319498,,"Kazan Cathedral, Saint Petersburg"
+cultural heritage site in Russia,Kazan Cathedral,Q1140402,10,2,2,"church in Moscow, Russia",Cathedral of Our Lady of Kazan,Q2031836|Q2319498,,"Kazan Cathedral, Moscow"
+cultural heritage site in Russia,Kazan Cathedral,Q124569726,10,2,2,"sobor in Serafimovich, Russia",,Q2977|Q2319498,,
+cultural heritage site in Russia,Kazan Cathedral in Volgograd,Q3044636,10,2,2,"church building in Volgograd, Russia",Cathedral of Our Lady of Kazan,Q56242225|Q16970|Q2319498,,
+cultural heritage site in Russia,Clergy house of Kazan cathedral,Q21638978,10,2,2,"building of Clergy house of Kazan cathedral, Russia",Kazan Cathedral House|The house of the clergy of the Kazan Cathedral,Q41176|Q2319498,,Kazan Cathedral House
+cultural heritage site in Russia,Kazan Cathedral mosque,Q111805693,10,2,2,mosque in Russia,,Q32815,,
+cultural heritage site in Russia,Cathedral of Our Lady of Kazan (Kazan),Q125869013,10,2,2,"main cathedral of Kazansky Bogoroditsky Monastery, Russia",Kazan Cathedral (Kazan),Q25416095|Q2031836,,
+cultural heritage site in Russia,Kazan Cathedral,Q2350835,10,2,2,Wikimedia disambiguation page,,Q4167410,,Cathedral of Our Lady of Kazan
+Church of St. Nicholas,Church of St. Nicholas,Q2762071,11,0,1,"church in centre of Brussels, Belgium",,Q16970,,"Church of St. Nicholas, Brussels"
+Church of St. Nicholas,Church of Saint Nicholas in Prizren,Q3065266,11,0,1,cultural heritage monument of Kosovo,Church of St. Nicholas|Church of Saint Nicholas Prizren|Church of Saint Nicholas (Prizren)|Church of Saint Nicholas|Tutić's Church in Prizren|Tutić's Church Prizren|Tutić's Church (Prizren)|Tutić's Church,Q16970|Q2031836|Q1081138|Q839954,,"Church of St. Nicholas, Prizren"
+Church of St. Nicholas,Church of St. Nicholas,Q1396154,11,0,1,church,,Q16970,,"St. Nicholas Church, Wszembórz"
+Church of St. Nicholas,Church of St. Nicholas,Q3583330,11,0,1,"church in Neder-Over-Heembeek, Belgium",,Q16970,,
+Church of St. Nicholas,St Nicholas Church,Q27049528,11,0,1,church in Berat Castle,Kisha e Shën Kollit|Church of St. Nicholas|Kisha e Shën Nikollës|Kisha e Shën Kollës,Q16970,,
+Church of St. Nicholas,"Church of St. Nicholas, Štrpce",Q3583428,11,0,1,"church building in Štrpce, Serbia",Church of St. Nicholas,Q16970,,"Church of St. Nicholas, Štrpce"
+Church of St. Nicholas,Church of St. Nicholas,Q4500842,11,0,1,"heritage site, church building in Valuyki, Russia",,Q358|Q16970|Q2319498,,
+Church of St. Nicholas,Church of St. Nicholas,Q55362303,11,0,1,"church in Pačetin, Croatia",,Q16970,,"Church of St. Nicholas, Pačetin"
+Church of St. Nicholas,Church of St. Nicholay Chudotvortsa in Kagan,Q16714639,11,0,1,"Orthodox Church in Kagan, Bukhara Region, Uzbekistan",Church of St. Nicholas,Q2031836|Q2319498,,
+Church of St. Nicholas,Church of St. Nicholas,Q17532371,11,0,1,"church in Steventon, Hampshire, England, UK","St Nicholas's Church|St Nicholas, Steventon",Q16970,,
+Church of St. Nicholas,Ivan Vasil'evič Egotov,Q4173877,11,0,2,Russian architect (1756-1815),Ivan Vasilievich Egotov|Iwan Wassiljewitsch Jegotoff,Q5,,
+Church of St. Nicholas,federal cultural heritage site in Russia,Q23668083,11,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Church of St. Nicholas,Russia,Q159,11,0,2,"country in Eastern Europe and Northern Asia, the largest in the world by area",Russian Federation|RU|RUS|RF,Q3624078|Q859563|Q6256|Q1323642|Q127693126,,Russia
+Church of St. Nicholas,Russian Empire,Q34266,11,0,2,former empire in Eurasia and North America (1721–1917),Tsarist Russia|Imperial Russia|Russia|Empire of Russia|Moscovy|Moscovy or Russia|Russia or Moscovy|Rossia|Rusia,Q48349|Q3624078|Q3024240|Q1323642|Q6256,,Russian Empire
+Church of St. Nicholas,Russia,Q23890440,11,0,2,genus of Ostracoda,,Q23038290,,
+Church of St. Nicholas,Russian,Q7737,11,0,2,East Slavic language,Russian language|Russkiy|Russkiy yazyk,Q34770|Q1288568|Q33742,Q144713,Russian language
+Church of St. Nicholas,Russian Wikipedia,Q206855,11,0,2,[ru] Russian-language edition of Wikipedia,,Q10876391,,Russian Wikipedia
+Church of St. Nicholas,Russian Soviet Federative Socialist Republic,Q2184,11,0,2,constituent republic of the Soviet Union (1922–1991),Soviet Russian Republic|Russian Socialist Federative Soviet Republic|Russian SFSR|Soviet Russia|RSFSR|Russian Soviet Federal Socialist Republic|Russian Soviet Federated Socialist Republic|Russian Socialist Federated Soviet Republic|R.S.F.S.R.|the Russian SFSR|Communist Russia|Russian S.F.S.R.,Q3024240|Q236036|Q3624078|Q113393649|Q6256,,Russian Soviet Federative Socialist Republic
+Church of St. Nicholas,Russian Wikisource,Q15634506,11,0,2,edition of the free library,ruwikisource|ru.wikisource.org,Q15156455|Q21286559,,
+Church of St. Nicholas,Communist Party of the Soviet Union,Q79854,11,0,2,Marxist–Leninist founding and ruling party of the Soviet Union,CPSU|Bolshevik Party|Russian Communist Party (Bolsheviks)|RCP(b)|All-Union Communist Party (Bolsheviks),Q233591,,Communist Party of the Soviet Union
+Church of St. Nicholas,Alaska,Q797,11,0,2,state of the United States of America,"AK|US-AK|State of Alaska|Alaska, United States|The Last Frontier|Russian America",Q933394|Q35657,,Alaska
+Church of St. Nicholas,Eastern Front,Q189266,11,0,2,1941–1945 World War II theater,Great Patriotic War|Eastern Campaign|Russian Campaign|German-Soviet War|Soviet-German War|Eastern Front of World War II,Q842332|Q198,,Eastern Front (World War II)
+Ivan Vasil'evič Egotov,Ivan Vasil'evič Egotov,Q4173877,11,1,1,Russian architect (1756-1815),Ivan Vasilievich Egotov|Iwan Wassiljewitsch Jegotoff,Q5,,
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q2762071,11,1,2,"church in centre of Brussels, Belgium",,Q16970,,"Church of St. Nicholas, Brussels"
+Ivan Vasil'evič Egotov,Church of Saint Nicholas in Prizren,Q3065266,11,1,2,cultural heritage monument of Kosovo,Church of St. Nicholas|Church of Saint Nicholas Prizren|Church of Saint Nicholas (Prizren)|Church of Saint Nicholas|Tutić's Church in Prizren|Tutić's Church Prizren|Tutić's Church (Prizren)|Tutić's Church,Q16970|Q2031836|Q1081138|Q839954,,"Church of St. Nicholas, Prizren"
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q1396154,11,1,2,church,,Q16970,,"St. Nicholas Church, Wszembórz"
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q3583330,11,1,2,"church in Neder-Over-Heembeek, Belgium",,Q16970,,
+Ivan Vasil'evič Egotov,St Nicholas Church,Q27049528,11,1,2,church in Berat Castle,Kisha e Shën Kollit|Church of St. Nicholas|Kisha e Shën Nikollës|Kisha e Shën Kollës,Q16970,,
+Ivan Vasil'evič Egotov,"Church of St. Nicholas, Štrpce",Q3583428,11,1,2,"church building in Štrpce, Serbia",Church of St. Nicholas,Q16970,,"Church of St. Nicholas, Štrpce"
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q4500842,11,1,2,"heritage site, church building in Valuyki, Russia",,Q358|Q16970|Q2319498,,
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q55362303,11,1,2,"church in Pačetin, Croatia",,Q16970,,"Church of St. Nicholas, Pačetin"
+Ivan Vasil'evič Egotov,Church of St. Nicholay Chudotvortsa in Kagan,Q16714639,11,1,2,"Orthodox Church in Kagan, Bukhara Region, Uzbekistan",Church of St. Nicholas,Q2031836|Q2319498,,
+Ivan Vasil'evič Egotov,Church of St. Nicholas,Q17532371,11,1,2,"church in Steventon, Hampshire, England, UK","St Nicholas's Church|St Nicholas, Steventon",Q16970,,
+federal cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,11,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,Church of St. Nicholas,Q2762071,11,2,2,"church in centre of Brussels, Belgium",,Q16970,,"Church of St. Nicholas, Brussels"
+federal cultural heritage site in Russia,Church of Saint Nicholas in Prizren,Q3065266,11,2,2,cultural heritage monument of Kosovo,Church of St. Nicholas|Church of Saint Nicholas Prizren|Church of Saint Nicholas (Prizren)|Church of Saint Nicholas|Tutić's Church in Prizren|Tutić's Church Prizren|Tutić's Church (Prizren)|Tutić's Church,Q16970|Q2031836|Q1081138|Q839954,,"Church of St. Nicholas, Prizren"
+federal cultural heritage site in Russia,Church of St. Nicholas,Q1396154,11,2,2,church,,Q16970,,"St. Nicholas Church, Wszembórz"
+federal cultural heritage site in Russia,Church of St. Nicholas,Q3583330,11,2,2,"church in Neder-Over-Heembeek, Belgium",,Q16970,,
+federal cultural heritage site in Russia,St Nicholas Church,Q27049528,11,2,2,church in Berat Castle,Kisha e Shën Kollit|Church of St. Nicholas|Kisha e Shën Nikollës|Kisha e Shën Kollës,Q16970,,
+federal cultural heritage site in Russia,"Church of St. Nicholas, Štrpce",Q3583428,11,2,2,"church building in Štrpce, Serbia",Church of St. Nicholas,Q16970,,"Church of St. Nicholas, Štrpce"
+federal cultural heritage site in Russia,Church of St. Nicholas,Q4500842,11,2,2,"heritage site, church building in Valuyki, Russia",,Q358|Q16970|Q2319498,,
+federal cultural heritage site in Russia,Church of St. Nicholas,Q55362303,11,2,2,"church in Pačetin, Croatia",,Q16970,,"Church of St. Nicholas, Pačetin"
+federal cultural heritage site in Russia,Church of St. Nicholay Chudotvortsa in Kagan,Q16714639,11,2,2,"Orthodox Church in Kagan, Bukhara Region, Uzbekistan",Church of St. Nicholas,Q2031836|Q2319498,,
+federal cultural heritage site in Russia,Church of St. Nicholas,Q17532371,11,2,2,"church in Steventon, Hampshire, England, UK","St Nicholas's Church|St Nicholas, Steventon",Q16970,,
+federal cultural heritage site in Russia,Ivan Vasil'evič Egotov,Q4173877,11,2,2,Russian architect (1756-1815),Ivan Vasilievich Egotov|Iwan Wassiljewitsch Jegotoff,Q5,,
+Fortuna,Fortuna Düsseldorf,Q151747,12,0,1,German association football club,Fortuna Dusseldorf|Fortuna 95|Die Fortuna|F95|Fortuna,Q476028,,Fortuna Düsseldorf
+Fortuna,Fortuna,Q3748805,12,0,1,female given name,,Q11879590,,
+Fortuna,Fortuna Sittard,Q854167,12,0,1,association football club in the Netherlands,Fortuna Geleen,Q476028,,Fortuna Sittard
+Fortuna,Fortuna Game,Q12016781,12,0,1,Czech betting company,FORTUNA GAME a.s.|FORTUNA GAME|Fortuna,Q4830453|Q6881511|Q783794,,
+Fortuna,Fortuna SK,Q77878073,12,0,1,Slovak company,"FORTUNA SK, a.s.|Fortuna",Q4830453|Q6881511|Q783794,,
+Fortuna,Fortuna,Q4654,12,0,1,Roman goddess of fortune,Fors Fortuna|Muliebris|Virilis|Vortumna|Lady Fortune|Primigenia|Respiciens|Annonaria|Annnonaria|Lady Luck,Q11688446,,Fortuna
+Fortuna,Fortunato,Q1003165,12,0,1,male given name,Fortunato (given name)|Fortunato (first name),Q12308941,,
+Fortuna,Fortuna,Q20519323,12,0,1,family name,,Q101352,,Fortuna (surname)
+Fortuna,Fortuna,Q1020559,12,0,1,"municipality in the Region of Murcia, Spain",,Q2074737,,"Fortuna, Murcia"
+Fortuna,Fortuna,Q5864206,12,0,1,1814 schooner,,Q204577,,
+Fortuna,regional cultural heritage site in Russia,Q105835744,12,0,2,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+Fortuna,cultural heritage site in Russia,Q8346700,12,0,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+Fortuna,federal cultural heritage site in Russia,Q23668083,12,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Fortuna,Cultural Monument of Albania,Q30232537,12,0,2,,cultural heritage site of Albania,,Q358,Cultural Monument of Albania
+Fortuna,Cultural Heritage Site of National Significance,Q29966257,12,0,2,official Finnish status for cultural heritage,RKY|built cultural environment of national significance,,Q55845509,
+Fortuna,local cultural heritage site in Russia,Q105835766,12,0,2,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+Fortuna,cultural heritage site in Slovenia,Q18564289,12,0,2,immovable object or area of cultural significance in Slovenia,heritage site in Slovenia,Q74817647,Q358,
+Fortuna,Cultural heritage sites in Nuremberg inner city,Q1378183,12,0,2,Wikimedia list article,,Q13406463,,
+Fortuna,cultural heritage sites of national significance in Finland,Q3485482,12,0,2,,,Q35127|Q7094076|Q15097084,,
+Fortuna,cultural heritage site in Ukraine,Q10296658,12,0,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Ukraine,Q2065736,Q358,
+Fortuna,Russian cultural heritage register,Q7382189,12,0,2,registry of places of historical or cultural significance in the Russian Federation,,Q15097084,,Russian cultural heritage register
+cultural heritage site in Russia,cultural heritage site in Russia,Q8346700,12,2,1,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Russia,Q30634609,Q358,
+cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,12,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,12,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+cultural heritage site in Russia,local cultural heritage site in Russia,Q105835766,12,2,1,,cultural heritage site in Russia of local importance,Q30634609,Q8346700|Q18089563,
+cultural heritage site in Russia,Cultural Monument of Albania,Q30232537,12,2,2,,cultural heritage site of Albania,,Q358,Cultural Monument of Albania
+cultural heritage site in Russia,Cultural Heritage Site of National Significance,Q29966257,12,2,2,official Finnish status for cultural heritage,RKY|built cultural environment of national significance,,Q55845509,
+cultural heritage site in Russia,cultural heritage site in Slovenia,Q18564289,12,2,2,immovable object or area of cultural significance in Slovenia,heritage site in Slovenia,Q74817647,Q358,
+cultural heritage site in Russia,Cultural heritage sites in Nuremberg inner city,Q1378183,12,2,2,Wikimedia list article,,Q13406463,,
+cultural heritage site in Russia,cultural heritage sites of national significance in Finland,Q3485482,12,2,2,,,Q35127|Q7094076|Q15097084,,
+cultural heritage site in Russia,cultural heritage site in Ukraine,Q10296658,12,2,2,"monuments, sites or objects that are legally protected due to their cultural, historical, artistic or architectural interest",heritage site in Ukraine,Q2065736,Q358,
+Sokolniki,Sokolniki District,Q1935566,13,0,1,"district in Eastern Administrative Okrug, Moscow, Russia",Sokolniki,Q4389092,,Sokolniki District
+Sokolniki,Sokolniki,Q7555231,13,0,1,"village in Lower Silesian, Poland",,Q3558970,,"Sokolniki, Dzierżoniów County"
+Sokolniki,Sokolniki,Q985735,13,0,1,"village in Wieruszów County, Łódź Voivodeship, Poland",,Q3558970,,"Sokolniki, Wieruszów County"
+Sokolniki,Sokolniki,Q288711,13,0,1,"village in Gmina Kolaczkowo, Poland",Sokolniki,Q3558970,,"Sokolniki, Września County"
+Sokolniki,Sokolniki,Q1190787,13,0,1,Moscow Metro station,Sokol'niki,Q928830|Q22808403|Q2319498,,Sokolniki (Sokolnicheskaya line)
+Sokolniki,Sokolniki,Q9339212,13,0,1,"village in Łódź Voivodeship, Poland",Sokolniki,Q3558970,,"Sokolniki, Zgierz County"
+Sokolniki,"Sokolniki, Silesian Voivodeship",Q7555245,13,0,1,"village in Silesian, Poland",Sokolniki,Q3558970,,"Sokolniki, Silesian Voivodeship"
+Sokolniki,"Sokolniki, Podkarpackie Voivodeship",Q9339216,13,0,1,"village in Subcarpathian, Poland",Sokolniki,Q3558970,,"Sokolniki, Podkarpackie Voivodeship"
+Sokolniki,Sokolniki,Q7555233,13,0,1,"village in Greater Poland, Poland",Sokolniki,Q3558970,,"Sokolniki, Gniezno County"
+Sokolniki,Sokolniki,Q4427450,13,0,1,Moscow Metro station (Bolshaya Koltsevaya Line),Stromynka,Q928830|Q22808403,,Sokolniki (Bolshaya Koltsevaya line)
+Sokolniki,Sokolniki Park,Q2375145,13,0,2,park in Moscow,,Q22698|Q1959314|Q2319498,,Sokolniki Park
+Ivan Taranov,Ivan Taranov,Q4451563,13,1,1,Soviet architect (1906-1979),Ivan Georgiyevich Taranov,Q5,,
+Ivan Taranov,Ivan Taranov,Q1974741,13,1,1,Russian footballer,Ivan Nikolayevich Taranov,Q5,,Ivan Taranov (footballer)
+Ivan Taranov,Ivan Taranov,Q16005490,13,1,1,Russian racing driver,,Q5,,Ivan Taranov (racing driver)
+Ivan Taranov,Ivan Taranov,Q16704628,13,1,1,Wikimedia disambiguation page,,Q22808320,,Ivan Taranov
+Ivan Taranov,Ivan Taranov,Q17494889,13,1,1,Soviet military leader (1899-1965),,Q5,,
+Ivan Taranov,Ivan Taranov,Q19916839,13,1,1,Soviet military leader (1895-1974),Ivan Afinogenovich Taranov,Q5,,
+tentative cultural heritage site in Russia,tentative cultural heritage site in Russia,Q105835774,13,2,1,,,Q30634609,Q8346700,
+Uzkoye,Uzkoye,Q2635840,14,0,1,,,Q12292478|Q1959314|Q2319498,,Uzkoye
+Uzkoye,Uzkoye,Q23882265,14,0,1,"human settlement in Oryol Oblast, Russia",Uzkoe,Q532,,
+Uzkoye,Uzkoe,Q109502385,14,0,1,"railway stop in Dubrovsky District, Russia",Uzkoye,Q55488,,
+Uzkoye,Uzkoe,Q37960193,14,0,1,"lake in Loukhsky District, Karelia, Russia",Uzkoye,Q23397,,
+Uzkoye,federal cultural heritage site in Russia,Q23668083,14,0,2,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+federal cultural heritage site in Russia,federal cultural heritage site in Russia,Q23668083,14,2,1,,cultural heritage site in Russia of federal importance,Q30634609,Q8346700|Q106643597,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q5912540,15,0,1,"church in Zaragoza, Spain","Church of Exaltación de la Santa Cruz, Zaragoza|Church of Exaltación de la Santa Cruz,|Church of the Exaltation of the Holy Cross",Q1088552|Q4989906,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q17516241,15,0,1,church in Jihlava District of Vysočina region,,Q16970,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q27386580,15,0,1,"church building in Chrudim III, Czech Republic",,Q16970,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q3936974,15,0,1,"church in Brest, Belarus",,Q16970|Q1088552,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q27492269,15,0,1,"church building in Černovice, Czech Republic",,Q16970,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q16160939,15,0,1,"Baroque church in Děčín, Region of Ústí nad Labem, Bohemia, Czechia",,Q16970,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q12030526,15,0,1,"church building in Žižkov, Czech Republic",,Q16970|Q108325,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q29583618,15,0,1,church in Uhřínov,,Q16970,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q18511378,15,0,1,"church building in Údlice, Czech Republic",,Q16970|Q1571674,,
+Church of the Exaltation of the Holy Cross,Church of the Exaltation of the Holy Cross,Q62562551,15,0,1,"church in Goworowo, Poland","Church of the Exaltation of the Holy Cross, Goworowo",Q16970,,"Church of the Exaltation of the Holy Cross, Goworowo"
+Church of the Exaltation of the Holy Cross,"Cathedral of the Exaltation of the Holy Cross, Bratislava",Q2397640,15,0,2,Cathedral in Slovakia,,Q2977|Q16970,,"Cathedral of the Exaltation of the Holy Cross, Bratislava"
+Church of the Exaltation of the Holy Cross,Cathedral of the Exaltation of the Holy Cross (Kolomna),Q122962349,15,0,2,,,Q2319498,,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,15,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q5912540,15,2,2,"church in Zaragoza, Spain","Church of Exaltación de la Santa Cruz, Zaragoza|Church of Exaltación de la Santa Cruz,|Church of the Exaltation of the Holy Cross",Q1088552|Q4989906,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q17516241,15,2,2,church in Jihlava District of Vysočina region,,Q16970,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q27386580,15,2,2,"church building in Chrudim III, Czech Republic",,Q16970,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q3936974,15,2,2,"church in Brest, Belarus",,Q16970|Q1088552,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q27492269,15,2,2,"church building in Černovice, Czech Republic",,Q16970,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q16160939,15,2,2,"Baroque church in Děčín, Region of Ústí nad Labem, Bohemia, Czechia",,Q16970,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q12030526,15,2,2,"church building in Žižkov, Czech Republic",,Q16970|Q108325,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q29583618,15,2,2,church in Uhřínov,,Q16970,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q18511378,15,2,2,"church building in Údlice, Czech Republic",,Q16970|Q1571674,,
+regional cultural heritage site in Russia,Church of the Exaltation of the Holy Cross,Q62562551,15,2,2,"church in Goworowo, Poland","Church of the Exaltation of the Holy Cross, Goworowo",Q16970,,"Church of the Exaltation of the Holy Cross, Goworowo"
+regional cultural heritage site in Russia,Russian Orthodox Church,Q60995,15,2,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+regional cultural heritage site in Russia,Russian Orthodox Church,Q571593,15,2,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+regional cultural heritage site in Russia,Russian Orthodox Church of Geneva,Q4240411,15,2,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+regional cultural heritage site in Russia,Russian Orthodox Church,Q3586061,15,2,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+regional cultural heritage site in Russia,Russian Orthodox Church Outside of Russia,Q912932,15,2,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+regional cultural heritage site in Russia,history of the Russian Orthodox Church,Q2395219,15,2,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+regional cultural heritage site in Russia,Russian Orthodox Church in Azerbaijan,Q4075904,15,2,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+regional cultural heritage site in Russia,Russian Orthodox Church Abroad (Agathangelos),Q3586066,15,2,2,,ROCOR (A),Q4316503,,
+regional cultural heritage site in Russia,Russian orthodox church of Biarritz,Q2041472,15,2,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+regional cultural heritage site in Russia,Russian Orthodox Church Buildings and Sites TR,Q107085711,15,2,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+VDNKh,Exhibition of achievements of national economy,Q855493,16,0,1,"trade show in Moscow, Russia",ВВЦ|Vystavka Dostizheniy Narodnogo Khozyaystva|All Russian exhibition center|VDNH|VDNKh,Q22698|Q464980|Q2319498,,Exhibition of Achievements of National Economy
+VDNKh,VDNKh gold medal,Q4193236,16,0,1,Soviet distinction,,Q38033430,,
+VDNKh,VDNKh silver medal,Q29043121,16,0,1,Soviet distinction,,Q131647|Q38033430,,
+VDNKh,VDNKh bronze medal,Q29043120,16,0,1,Soviet distinction,,Q131647,,
+VDNKh,VDNKh,Q1627784,16,0,1,Moscow Metro station,,Q928830|Q22808403|Q2319498,,VDNKh (Moscow Metro)
+VDNKh,VDNKh Central pavilion,Q4139210,16,0,1,,,Q3364296|Q2319498,,
+VDNKh,VDNKh Space Pavilion,Q4341301,16,0,1,pavilion at the VDNKh in Moscow,,Q2319498,,
+VDNKh,VDNKh building 9,Q42182211,16,0,1,"tourist attraction in Ostankinsky District, Russia",,Q2319498|Q3364296,,
+VDNKh,VDNKh Animal Husbandry Pavilion,Q48952259,16,0,1,"Pavilion of VDNKh, Moscow, Russia",,Q2319498,,
+VDNKh,VDNKh Floriculture Pavilion,Q48954205,16,0,1,building in Moscow,"VDNKh Floriculture Pavilion, Moscow",Q41176,,
+Ivan Taranov,Ivan Taranov,Q4451563,16,1,1,Soviet architect (1906-1979),Ivan Georgiyevich Taranov,Q5,,
+Ivan Taranov,Ivan Taranov,Q1974741,16,1,1,Russian footballer,Ivan Nikolayevich Taranov,Q5,,Ivan Taranov (footballer)
+Ivan Taranov,Ivan Taranov,Q16005490,16,1,1,Russian racing driver,,Q5,,Ivan Taranov (racing driver)
+Ivan Taranov,Ivan Taranov,Q16704628,16,1,1,Wikimedia disambiguation page,,Q22808320,,Ivan Taranov
+Ivan Taranov,Ivan Taranov,Q17494889,16,1,1,Soviet military leader (1899-1965),,Q5,,
+Ivan Taranov,Ivan Taranov,Q19916839,16,1,1,Soviet military leader (1895-1974),Ivan Afinogenovich Taranov,Q5,,
+tentative cultural heritage site in Russia,tentative cultural heritage site in Russia,Q105835774,16,2,1,,,Q30634609,Q8346700,
+tentative cultural heritage site in Russia,Exhibition of achievements of national economy,Q855493,16,2,2,"trade show in Moscow, Russia",ВВЦ|Vystavka Dostizheniy Narodnogo Khozyaystva|All Russian exhibition center|VDNH|VDNKh,Q22698|Q464980|Q2319498,,Exhibition of Achievements of National Economy
+tentative cultural heritage site in Russia,VDNKh gold medal,Q4193236,16,2,2,Soviet distinction,,Q38033430,,
+tentative cultural heritage site in Russia,VDNKh silver medal,Q29043121,16,2,2,Soviet distinction,,Q131647|Q38033430,,
+tentative cultural heritage site in Russia,VDNKh bronze medal,Q29043120,16,2,2,Soviet distinction,,Q131647,,
+tentative cultural heritage site in Russia,VDNKh,Q1627784,16,2,2,Moscow Metro station,,Q928830|Q22808403|Q2319498,,VDNKh (Moscow Metro)
+tentative cultural heritage site in Russia,VDNKh Central pavilion,Q4139210,16,2,2,,,Q3364296|Q2319498,,
+tentative cultural heritage site in Russia,VDNKh Space Pavilion,Q4341301,16,2,2,pavilion at the VDNKh in Moscow,,Q2319498,,
+tentative cultural heritage site in Russia,VDNKh building 9,Q42182211,16,2,2,"tourist attraction in Ostankinsky District, Russia",,Q2319498|Q3364296,,
+tentative cultural heritage site in Russia,VDNKh Animal Husbandry Pavilion,Q48952259,16,2,2,"Pavilion of VDNKh, Moscow, Russia",,Q2319498,,
+tentative cultural heritage site in Russia,VDNKh Floriculture Pavilion,Q48954205,16,2,2,building in Moscow,"VDNKh Floriculture Pavilion, Moscow",Q41176,,
+tentative cultural heritage site in Russia,Ivan Taranov,Q4451563,16,2,2,Soviet architect (1906-1979),Ivan Georgiyevich Taranov,Q5,,
+tentative cultural heritage site in Russia,Ivan Taranov,Q1974741,16,2,2,Russian footballer,Ivan Nikolayevich Taranov,Q5,,Ivan Taranov (footballer)
+tentative cultural heritage site in Russia,Ivan Taranov,Q16005490,16,2,2,Russian racing driver,,Q5,,Ivan Taranov (racing driver)
+tentative cultural heritage site in Russia,Ivan Taranov,Q16704628,16,2,2,Wikimedia disambiguation page,,Q22808320,,Ivan Taranov
+tentative cultural heritage site in Russia,Ivan Taranov,Q17494889,16,2,2,Soviet military leader (1899-1965),,Q5,,
+tentative cultural heritage site in Russia,Ivan Taranov,Q19916839,16,2,2,Soviet military leader (1895-1974),Ivan Afinogenovich Taranov,Q5,,
+Komsomolskaya,Komsomolskaya,Q1200275,17,0,1,Moscow Metro station on the Koltsevaya Line,,Q928830|Q2319498|Q22808403,,Komsomolskaya (Koltsevaya line)
+Komsomolskaya,Komsomolskaya,Q1147948,17,0,1,Moscow Metro station on the Sokolnicheskaya Line,Komsomol'skaya|Komsomolskaia|Komsomolskaya-Radialnaya|Komsomol'skaya-Radial'naya,Q928830|Q22808403|Q2319498,,Komsomolskaya (Sokolnicheskaya line)
+Komsomolskaya,Komsomolskaya,Q2623608,17,0,1,Nizhny Novgorod Metro,,Q928830|Q22808403,,Komsomolskaya (Nizhny Novgorod Metro)
+Komsomolskaya,Komsomolskaya,Q4230171,17,0,1,"river in Tomsk Oblast, Russia",,Q4022,,
+Komsomolskaya,Komsomolskaya,Q4230170,17,0,1,,,Q2175765|Q22808403,,
+Komsomolskaya,Komsomolskaya,Q2374828,17,0,1,Antarctic research station,,Q749622,,Komsomolskaya (Antarctic research station)
+Komsomolskaya,Komsomolskaya,Q21530055,17,0,1,poem by Vladimir Mayakovsky,,Q7725634,,
+Komsomolskaya,Komsomolskaya,Q16727195,17,0,1,Station complex in Moscow Metro on Sokolnicheskaya and Koltsevaya Lines,,Q1147171,,
+Komsomolskaya,Komsomolskaya Pravda,Q849047,17,0,1,Russian daily newspaper,,Q1110794,,Komsomolskaya Pravda
+Komsomolskaya,Komsomolskaya street,Q30117529,17,0,1,"street in Tolyatti, Russia",,Q79007,,
+Komsomolskaya,Komsomol Street,Q13029325,17,0,2,"street in Tsentralny District, Belarus",Komsomol'skaya Street|Komsomolskaya street,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q4230201,17,0,2,"street in Yaroslavl, Russia",Bolshaya Linia,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q4230197,17,0,2,street in Samara,,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q86669623,17,0,2,street in Podolsk,,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q135760811,17,0,2,,"Komsomolskaya Street, Volgograd",Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q110466899,17,0,2,street in Tyumen,Komsomolskaya Street (Tyumen),Q79007,,
+Komsomolskaya,Komsomolskaya street,Q24083962,17,0,2,"street in Zelenogorsk (Saint Petersburg), Russia",,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q4230195,17,0,2,"street in Novomoskovsk, Russia, Russia",,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q118236475,17,0,2,street in Orenburg,,Q79007,,
+Viktor Dmitrievitsj Kokorin,Viktor Dmitrievitsj Kokorin,Q4227376,17,1,1,Soviet architect (1886-1959),,Q5,,
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q1200275,17,1,2,Moscow Metro station on the Koltsevaya Line,,Q928830|Q2319498|Q22808403,,Komsomolskaya (Koltsevaya line)
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q1147948,17,1,2,Moscow Metro station on the Sokolnicheskaya Line,Komsomol'skaya|Komsomolskaia|Komsomolskaya-Radialnaya|Komsomol'skaya-Radial'naya,Q928830|Q22808403|Q2319498,,Komsomolskaya (Sokolnicheskaya line)
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q2623608,17,1,2,Nizhny Novgorod Metro,,Q928830|Q22808403,,Komsomolskaya (Nizhny Novgorod Metro)
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q4230171,17,1,2,"river in Tomsk Oblast, Russia",,Q4022,,
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q4230170,17,1,2,,,Q2175765|Q22808403,,
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q2374828,17,1,2,Antarctic research station,,Q749622,,Komsomolskaya (Antarctic research station)
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q21530055,17,1,2,poem by Vladimir Mayakovsky,,Q7725634,,
+Viktor Dmitrievitsj Kokorin,Komsomolskaya,Q16727195,17,1,2,Station complex in Moscow Metro on Sokolnicheskaya and Koltsevaya Lines,,Q1147171,,
+Viktor Dmitrievitsj Kokorin,Komsomolskaya Pravda,Q849047,17,1,2,Russian daily newspaper,,Q1110794,,Komsomolskaya Pravda
+Viktor Dmitrievitsj Kokorin,Komsomolskaya street,Q30117529,17,1,2,"street in Tolyatti, Russia",,Q79007,,
+Viktor Dmitrievitsj Kokorin,regional cultural heritage site in Russia,Q105835744,17,1,2,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,regional cultural heritage site in Russia,Q105835744,17,2,1,type of Russian cultural heritage site,cultural heritage site in Russia of regional importance,Q18087975|Q30634609,Q8346700,
+regional cultural heritage site in Russia,Komsomolskaya,Q1200275,17,2,2,Moscow Metro station on the Koltsevaya Line,,Q928830|Q2319498|Q22808403,,Komsomolskaya (Koltsevaya line)
+regional cultural heritage site in Russia,Komsomolskaya,Q1147948,17,2,2,Moscow Metro station on the Sokolnicheskaya Line,Komsomol'skaya|Komsomolskaia|Komsomolskaya-Radialnaya|Komsomol'skaya-Radial'naya,Q928830|Q22808403|Q2319498,,Komsomolskaya (Sokolnicheskaya line)
+regional cultural heritage site in Russia,Komsomolskaya,Q2623608,17,2,2,Nizhny Novgorod Metro,,Q928830|Q22808403,,Komsomolskaya (Nizhny Novgorod Metro)
+regional cultural heritage site in Russia,Komsomolskaya,Q4230171,17,2,2,"river in Tomsk Oblast, Russia",,Q4022,,
+regional cultural heritage site in Russia,Komsomolskaya,Q4230170,17,2,2,,,Q2175765|Q22808403,,
+regional cultural heritage site in Russia,Komsomolskaya,Q2374828,17,2,2,Antarctic research station,,Q749622,,Komsomolskaya (Antarctic research station)
+regional cultural heritage site in Russia,Komsomolskaya,Q21530055,17,2,2,poem by Vladimir Mayakovsky,,Q7725634,,
+regional cultural heritage site in Russia,Komsomolskaya,Q16727195,17,2,2,Station complex in Moscow Metro on Sokolnicheskaya and Koltsevaya Lines,,Q1147171,,
+regional cultural heritage site in Russia,Komsomolskaya Pravda,Q849047,17,2,2,Russian daily newspaper,,Q1110794,,Komsomolskaya Pravda
+regional cultural heritage site in Russia,Komsomolskaya street,Q30117529,17,2,2,"street in Tolyatti, Russia",,Q79007,,
+regional cultural heritage site in Russia,Viktor Dmitrievitsj Kokorin,Q4227376,17,2,2,Soviet architect (1886-1959),,Q5,,
+Komsomolskaya,Komsomolskaya,Q1200275,18,0,1,Moscow Metro station on the Koltsevaya Line,,Q928830|Q2319498|Q22808403,,Komsomolskaya (Koltsevaya line)
+Komsomolskaya,Komsomolskaya,Q1147948,18,0,1,Moscow Metro station on the Sokolnicheskaya Line,Komsomol'skaya|Komsomolskaia|Komsomolskaya-Radialnaya|Komsomol'skaya-Radial'naya,Q928830|Q22808403|Q2319498,,Komsomolskaya (Sokolnicheskaya line)
+Komsomolskaya,Komsomolskaya,Q2623608,18,0,1,Nizhny Novgorod Metro,,Q928830|Q22808403,,Komsomolskaya (Nizhny Novgorod Metro)
+Komsomolskaya,Komsomolskaya,Q4230171,18,0,1,"river in Tomsk Oblast, Russia",,Q4022,,
+Komsomolskaya,Komsomolskaya,Q4230170,18,0,1,,,Q2175765|Q22808403,,
+Komsomolskaya,Komsomolskaya,Q2374828,18,0,1,Antarctic research station,,Q749622,,Komsomolskaya (Antarctic research station)
+Komsomolskaya,Komsomolskaya,Q21530055,18,0,1,poem by Vladimir Mayakovsky,,Q7725634,,
+Komsomolskaya,Komsomolskaya,Q16727195,18,0,1,Station complex in Moscow Metro on Sokolnicheskaya and Koltsevaya Lines,,Q1147171,,
+Komsomolskaya,Komsomolskaya Pravda,Q849047,18,0,1,Russian daily newspaper,,Q1110794,,Komsomolskaya Pravda
+Komsomolskaya,Komsomolskaya street,Q30117529,18,0,1,"street in Tolyatti, Russia",,Q79007,,
+Komsomolskaya,Komsomol Street,Q13029325,18,0,2,"street in Tsentralny District, Belarus",Komsomol'skaya Street|Komsomolskaya street,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q4230201,18,0,2,"street in Yaroslavl, Russia",Bolshaya Linia,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q4230197,18,0,2,street in Samara,,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q86669623,18,0,2,street in Podolsk,,Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q135760811,18,0,2,,"Komsomolskaya Street, Volgograd",Q79007,,
+Komsomolskaya,Komsomolskaya Street,Q110466899,18,0,2,street in Tyumen,Komsomolskaya Street (Tyumen),Q79007,,
+Komsomolskaya,Komsomolskaya street,Q24083962,18,0,2,"street in Zelenogorsk (Saint Petersburg), Russia",,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q4230195,18,0,2,"street in Novomoskovsk, Russia, Russia",,Q79007,,
+Komsomolskaya,Komsomolskaya street,Q118236475,18,0,2,street in Orenburg,,Q79007,,
+Komsomolskaya,Komsomolskaya Square,Q181837,18,0,2,"square in Moscow, Russia",Three Train Stations|Three Stations Square,Q801740,,Komsomolskaya Square (Moscow)
+Komsomolskaya,Komsomolskaya Square,Q16665205,18,0,2,"square in Yaroslavl, Russia",Nikolomelnitskaya Square,Q174782,,
+Komsomolskaya,Komsomolskaya square,Q21640437,18,0,2,"square in Chelyabinsk, Russia",,Q79007,,
+Komsomolskaya,Komsomolskaya Square (Nizhny Novgorod),Q101413761,18,0,2,,,Q174782,,
+Komsomolskaya,KOMSOMOLSKAYA SQUARE OF SAMARA AS A SUBJECT OF FUNCTIONAL AND TOPOLOGICAL ANALYSIS,Q127706956,18,0,2,scholarly article,,Q13442814,,
+Aleksey Rukhlyadev,Aleksey Rukhlyadev,Q4401246,18,1,1,,Aleksey Mikhaylovich Rukhlyadev,Q5,,
+tentative cultural heritage site in Russia,tentative cultural heritage site in Russia,Q105835774,18,2,1,,,Q30634609,Q8346700,
+tentative cultural heritage site in Russia,Komsomolskaya,Q1200275,18,2,2,Moscow Metro station on the Koltsevaya Line,,Q928830|Q2319498|Q22808403,,Komsomolskaya (Koltsevaya line)
+tentative cultural heritage site in Russia,Komsomolskaya,Q1147948,18,2,2,Moscow Metro station on the Sokolnicheskaya Line,Komsomol'skaya|Komsomolskaia|Komsomolskaya-Radialnaya|Komsomol'skaya-Radial'naya,Q928830|Q22808403|Q2319498,,Komsomolskaya (Sokolnicheskaya line)
+tentative cultural heritage site in Russia,Komsomolskaya,Q2623608,18,2,2,Nizhny Novgorod Metro,,Q928830|Q22808403,,Komsomolskaya (Nizhny Novgorod Metro)
+tentative cultural heritage site in Russia,Komsomolskaya,Q4230171,18,2,2,"river in Tomsk Oblast, Russia",,Q4022,,
+tentative cultural heritage site in Russia,Komsomolskaya,Q4230170,18,2,2,,,Q2175765|Q22808403,,
+tentative cultural heritage site in Russia,Komsomolskaya,Q2374828,18,2,2,Antarctic research station,,Q749622,,Komsomolskaya (Antarctic research station)
+tentative cultural heritage site in Russia,Komsomolskaya,Q21530055,18,2,2,poem by Vladimir Mayakovsky,,Q7725634,,
+tentative cultural heritage site in Russia,Komsomolskaya,Q16727195,18,2,2,Station complex in Moscow Metro on Sokolnicheskaya and Koltsevaya Lines,,Q1147171,,
+tentative cultural heritage site in Russia,Komsomolskaya Pravda,Q849047,18,2,2,Russian daily newspaper,,Q1110794,,Komsomolskaya Pravda
+tentative cultural heritage site in Russia,Komsomolskaya street,Q30117529,18,2,2,"street in Tolyatti, Russia",,Q79007,,
+tentative cultural heritage site in Russia,Aleksey Rukhlyadev,Q4401246,18,2,2,,Aleksey Mikhaylovich Rukhlyadev,Q5,,

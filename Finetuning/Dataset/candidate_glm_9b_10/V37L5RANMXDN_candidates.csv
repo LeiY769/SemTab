@@ -1,0 +1,42 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Titan 2,Titan 2,Q101805659,0,0,1,ship built in 1985,Titan-2,Q970092|Q190403,,
+Titan 2,Bull Ray,Q56372055,0,0,1,construction support vessel built in 2008,Titan 2|K.S. Titan 2|K. S. Titan 2|KS Titan 2|IMO 9495753,Q1361559,,
+Titan 2,Titan 23G,Q5918827,0,0,1,American expendable launch vehicle,Titan II(23)G|Titan 2(23)G|Titan II SLV|Titan II Space Launch Vehicle|SLV-5|Titan 2G,Q110055303|Q18487055,Q1187405,Titan 23G
+Titan 2,Titan IIID,Q1187235,0,0,1,model of Titan III launch vehicle,Titan 3D|Titan 23D|SLV-5D,Q110055303,Q50327284,Titan IIID
+Titan 2,Titan IIIB,Q1187387,0,0,1,model of Titan III launch vehicle,Titan 23B|Titan 24B|Titan 33B|Titan 34B|Titan 3B|SLV-5B,Q110055303,Q50327284,Titan IIIB
+Titan 2,Titan 23D (NAID 140105153),Q66321031,0,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Titan 2,Titan II GLV,Q1187238,0,0,1,American expendable launch vehicle,Titan II Gemini Launch Vehicle|Gemini-Titan II|Titan II Gemini,Q110055303,Q1187405,Titan II GLV
+Titan 2,Titan 2.0,Q127417550,0,0,1,game engine version,,Q63533016,,
+Titan 2,TITAN 2 Bio-Active Stent (BAS) with titanium-NO,Q84525132,0,0,1,scientific article published on 01 January 2008,,Q13442814,,
+Titan 2,Titan,Q2902453,0,0,1,game engine,Titan engine,Q193564,,
+Titan 2,TITAN II MISSILE SILO DISMANTLING (NAID 140106599),Q66319531,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Titan 2,"Titan II Missile Called Success, Various Locations (NAID 102047129)",Q67470321,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Wärtsilä,Wärtsilä,Q327429,0,1,1,Finnish industrial corporation,Wärtsilä Corporation,Q891723|Q4830453,,Wärtsilä
+Wärtsilä,Wärtsilä,Q11902534,0,1,1,city district in Järvenpää,,Q64188950|Q15042037,,
+Wärtsilä,Wärtsilä 46,Q11902535,0,1,1,series of diesel engines,,Q118017625,Q16915805,
+Wärtsilä,Turku shipyard,Q2944983,0,1,1,"former shipyard in Turku, Finland",Ab Crichton-Vulcan Oy|Wärtsilä Crichton-Vulcan|Oy Wärtsilä Ab Turku Shipyard,Q190928,,Crichton-Vulcan
+Wärtsilä,Wärtsilä (Switzerland),Q30713590,0,1,1,,,Q4830453,,
+Wärtsilä,Wärtsila Ab Nuutajärvi Lasi,Q125520807,0,1,1,,Wärtsilä,Q4830453,,
+Wärtsilä,Wärtsilä-Sulzer RTA96-C,Q1625442,0,1,1,Finnish marine diesel engine,,Q15057021,Q174174,Wärtsilä-Sulzer RTA96-C
+Wärtsilä,Wärtsilä 64,Q56297209,0,1,1,series of diesel engines,,Q118017625,Q16915805,
+Wärtsilä,Wärtsilä 9L46DF,Q131521524,0,1,1,model of dual-fuel marine engine,,Q15057021,Q131353480|Q11902535,
+Wärtsilä,Wärtsilä 20DF,Q131521546,0,1,1,series of dual-fuel diesel engines,,Q118017625,Q131353480,
+Wärtsilä,Titan 2,Q101805659,0,1,2,ship built in 1985,Titan-2,Q970092|Q190403,,
+Wärtsilä,Bull Ray,Q56372055,0,1,2,construction support vessel built in 2008,Titan 2|K.S. Titan 2|K. S. Titan 2|KS Titan 2|IMO 9495753,Q1361559,,
+Wärtsilä,Titan 23G,Q5918827,0,1,2,American expendable launch vehicle,Titan II(23)G|Titan 2(23)G|Titan II SLV|Titan II Space Launch Vehicle|SLV-5|Titan 2G,Q110055303|Q18487055,Q1187405,Titan 23G
+Wärtsilä,Titan IIID,Q1187235,0,1,2,model of Titan III launch vehicle,Titan 3D|Titan 23D|SLV-5D,Q110055303,Q50327284,Titan IIID
+Wärtsilä,Titan IIIB,Q1187387,0,1,2,model of Titan III launch vehicle,Titan 23B|Titan 24B|Titan 33B|Titan 34B|Titan 3B|SLV-5B,Q110055303,Q50327284,Titan IIIB
+Wärtsilä,Titan 23D (NAID 140105153),Q66321031,0,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Wärtsilä,Titan II GLV,Q1187238,0,1,2,American expendable launch vehicle,Titan II Gemini Launch Vehicle|Gemini-Titan II|Titan II Gemini,Q110055303,Q1187405,Titan II GLV
+Wärtsilä,Titan 2.0,Q127417550,0,1,2,game engine version,,Q63533016,,
+Wärtsilä,TITAN 2 Bio-Active Stent (BAS) with titanium-NO,Q84525132,0,1,2,scientific article published on 01 January 2008,,Q13442814,,
+Wärtsilä,Titan,Q2902453,0,1,2,game engine,Titan engine,Q193564,,
+Windea Three,Windea Three,Q84255897,1,0,1,crew transfer vessel,IMO 9759501,Q190403,,
+Damen Group,Damen Group,Q950580,1,1,1,shipbuilding company,Damen Shipyards Group|Damen,Q197952|Q43229,,Damen Group
+Damen Group,Damen Shipyards Gorinchem,Q85717793,1,1,2,Dutch shipyard,,Q190928,,
+Damen Group,Damen Shipyards Galați,Q4686063,1,1,2,"shipyard in Galați, Romania",Damen Shipyards Galati|Galați shipyard|Galati shipyard,Q190928,,Galați shipyard
+Damen Group,Damen Shipyards Bergum,Q56239675,1,1,2,,,Q190928,,
+Damen Group,Damen Shipyards Hardinxveld,Q104520543,1,1,2,"shipyard in Hardinxveld, Netherlands",,Q190928,,
+Damen Group,Damen Yachting,Q131277351,1,1,2,"Dutch yacht builder headquartered in Vlissingen, Netherlands",Damen Shipyards Vlissingen,Q190928,,
+Damen Group,Damen Shipyards Antalya,Q115129334,1,1,2,shipbuilding facility in Turkey,,Q190928,,
+Damen Group,Damen Shipyards Song Cam,Q131260819,1,1,2,shipyard in Vietnam,"Song Cam Shipyard|Damen Song Cam Shipyard|Damen Song Cam Shipbuilding Co., Ltd.",Q190928,,

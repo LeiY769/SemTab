@@ -1,0 +1,94 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bell Resources,Bell Resources,Q61930516,0,0,1,"Australian subsidiary of BellX, Inc",,Q167037,,
+Bell Resources,Bell Resources,Q137919080,0,0,1,mining company in the United States,,Q783794,,
+Bell Resources,Bell Resources Mine,Q137842608,0,0,1,coal mine in United States,,Q820477,,
+Bell Resources,Bell Resources people,Q103839820,0,0,1,Wikimedia category,,,,
+corporation,corporation,Q57655560,0,1,1,"in the United States, a business entity incorporated under any state or territorial statute",American corporation|United States corporation|U.S. corporation|Incorporated|Inc.|corporation in the United States|US corporation|Corp.|US Inc.,Q57653825,Q167037|Q7451779,Corp.
+corporation,corporation,Q167037,0,1,1,legal entity incorporated through a legislative or registration process,corporated entity|Corp.|Co.,Q10541491,Q155076|Q783794,Corporation
+corporation,Corporation,Q2189424,0,1,1,1990 video game,,Q7889,,Corporation (video game)
+corporation,Corporation,Q55246708,0,1,1,1988 video game for the Commodore 64,The Corporation,Q7889,,
+corporation,corporation,Q1586331,0,1,1,body of municipal self-government in the Prussian provinces,,,Q167037,
+corporation,business corporation,Q422074,0,1,1,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+corporation,corporation in Japan,Q48748864,0,1,1,group of persons operating for a certain purpose as established under Japanese law,hojin|hōjin|corporation (Japan)|houjin|corporation,,Q155076|Q167037,
+corporation,Corporation Bank,Q2003387,0,1,1,former public sector bank in India,,Q4830453|Q22687|Q650241,,Corporation Bank
+corporation,Corporation Bank branch,Q66768699,0,1,1,branch of Corporation Bank,,,Q21073937,
+corporation,Corporation for Public Broadcasting,Q2628754,0,1,1,non-profit corporation created by an act of the United States Congress and funded by the United States federal government to promote public broadcasting,CPB,Q4830453|Q163740,,Corporation for Public Broadcasting
+corporation,Bell Resources,Q61930516,0,1,2,"Australian subsidiary of BellX, Inc",,Q167037,,
+corporation,Bell Resources,Q137919080,0,1,2,mining company in the United States,,Q783794,,
+corporation,Bell Resources Mine,Q137842608,0,1,2,coal mine in United States,,Q820477,,
+corporation,Bell Resources people,Q103839820,0,1,2,Wikimedia category,,,,
+corporation,Addisons,Q104713255,0,1,2,Australian corporate law firm,Addisons Lawyers,Q613142,,
+corporation,Addisons Flat,Q32114887,0,1,2,flat and former gold mining locality in New Zealand,Addison's Flat,Q18389975,,
+corporation,Addisons Chapel Cemetery,Q117515981,0,1,2,"cemetery in Washington, D.C., United States",,Q39614,,
+corporation,Addisons Folly,Q26538314,0,1,2,"architectural structure in Gloucester, Gloucestershire, England, UK",,Q811979,,
+corporation,Addisons Farmhouse,Q26473842,0,1,2,"farmhouse in Mapledurwell and Up Nately, Basingstoke and Deane, Hampshire, England, UK",,Q489357,,
+corporation,adrenal crisis,Q4057453,0,1,2,medical emergency,Addisonian crisis|acute adrenal insufficiency|adrenocortical crisis|acute adrenocortical insufficiency|acute adrenal failure,Q112193867,Q2507454|Q55785269,Adrenal crisis
+corporation,Addison's disease,Q8282,0,1,2,adrenal cortical hypofunction that is characterized by insufficient steroid hormone production by the adrenal glands,"ADRENOCORTICAL, Little Man Syndrome, CHRONIC PRIMARY CONGENITAL|Addison disease|primary adrenocortical insufficiency|Addison disease, chronic adrenal insufficiency|ADRENOCORTICAL HYPOFUNCTION, CHRONIC PRIMARY CONGENITAL|adrenal hypoplasia|Adrenal aplasia|Adrenal gland hypofunction|Addison|Primary chronic adrenocortical insufficiency|primary adrenal insufficiency",Q42303753|Q112193867,Q18553874|Q2661443|Q5442760|Q1054718|Q6742925,Addison's disease
+corporation,Addisons's disease in pregnancy,Q70670294,0,1,2,scientific article published on 01 January 1984,,Q13442814,,
+Addisons,Addisons,Q104713255,0,2,1,Australian corporate law firm,Addisons Lawyers,Q613142,,
+Addisons,Addisons Flat,Q32114887,0,2,1,flat and former gold mining locality in New Zealand,Addison's Flat,Q18389975,,
+Addisons,Addisons Chapel Cemetery,Q117515981,0,2,1,"cemetery in Washington, D.C., United States",,Q39614,,
+Addisons,Addisons Folly,Q26538314,0,2,1,"architectural structure in Gloucester, Gloucestershire, England, UK",,Q811979,,
+Addisons,Addisons Farmhouse,Q26473842,0,2,1,"farmhouse in Mapledurwell and Up Nately, Basingstoke and Deane, Hampshire, England, UK",,Q489357,,
+Addisons,adrenal crisis,Q4057453,0,2,1,medical emergency,Addisonian crisis|acute adrenal insufficiency|adrenocortical crisis|acute adrenocortical insufficiency|acute adrenal failure,Q112193867,Q2507454|Q55785269,Adrenal crisis
+Addisons,Addison's disease,Q8282,0,2,1,adrenal cortical hypofunction that is characterized by insufficient steroid hormone production by the adrenal glands,"ADRENOCORTICAL, Little Man Syndrome, CHRONIC PRIMARY CONGENITAL|Addison disease|primary adrenocortical insufficiency|Addison disease, chronic adrenal insufficiency|ADRENOCORTICAL HYPOFUNCTION, CHRONIC PRIMARY CONGENITAL|adrenal hypoplasia|Adrenal aplasia|Adrenal gland hypofunction|Addison|Primary chronic adrenocortical insufficiency|primary adrenal insufficiency",Q42303753|Q112193867,Q18553874|Q2661443|Q5442760|Q1054718|Q6742925,Addison's disease
+Addisons,Addisons's disease in pregnancy,Q70670294,0,2,1,scientific article published on 01 January 1984,,Q13442814,,
+Addisons,Addison,Q21069215,0,2,2,unisex given name,Addison (first name)|Addison (given name),Q3409032,,Addison (given name)
+Addisons,Addison,Q353095,0,2,2,town in Vermont,"Addison, Vermont|Addison, VT",Q2154459,,"Addison, Vermont"
+Addisons,Addison Emery Verrill,Q353120,0,2,2,U.S. zoologist (1839–1926),Verrill|Addison Emory Verrill,Q5,,Addison Emery Verrill
+Addisons,Addison,Q16001762,0,2,2,family name,,Q101352,,Addison (surname)
+Addisons,Mort Walker,Q719973,0,2,2,American comic strip cartoonist (1923–2018),Mortimer Walker|Addison Mort Walker|Addison Walker,Q5,,Mort Walker
+Addisons,Addison,Q134076164,0,2,2,2025 studio album by Addison Rae,,Q482994,,Addison (album)
+Addisons,Addison,Q353089,0,2,2,"town in Dallas County, Texas, United States","Addison, Texas|Addison, TX",Q15127012,,"Addison, Texas"
+Addisons,Mitch McConnell,Q355522,0,2,2,American politician and lawyer (born 1942),"Addison Mitchell McConnell, Jr.|Addison Mitchell McConnell III|Addison Mitchell McConnell|Mitchell McConnell|Addison Mitchell McConnell Jr.",Q5,,Mitch McConnell
+Addisons,Addison,Q353080,0,2,2,"village in DuPage County, Illinois, United States","Addison, Illinois|Addison, IL",Q532|Q56061,,"Addison, Illinois"
+Addisons,Thomas Addison,Q436039,0,2,2,19th-century British physician and scientist,Thomas J Addison|Thomas J. Addison,Q5,,Thomas Addison
+Addisons,Addison's disease,Q56227867,0,2,2,,,Q13442814,,
+Addisons,Addison's disease,Q80661185,0,2,2,scientific article published on 01 December 1949,,Q13442814,,
+Addisons,Addison's disease in canines,Q4681219,0,2,2,,,Q140427225,Q8282|Q53542448,Addison's disease in canines
+Addisons,Addison's disease,Q71045902,0,2,2,scientific article published on 01 April 1996,,Q13442814,,
+Addisons,Addison's disease,Q81839097,0,2,2,scientific article published on 01 June 2005,,Q13442814,,
+Addisons,Addison's disease,Q80940465,0,2,2,scientific article published on 01 June 2004,,Q13442814,,
+Addisons,Addison's disease,Q40277028,0,2,2,scientific article published on 22 August 2012,,Q13442814,,
+Addisons,Addison's disease,Q62000528,0,2,2,scientific article published in the British Medical Journal,,Q13442814,,
+Elf Aquitaine,Elf Aquitaine,Q1505649,1,0,1,French oil brand of TotalEnergies,Elf brand,Q14941854|Q431289|Q64027599,,Elf Aquitaine
+Elf Aquitaine,Elf Aquitaine catamaran,Q19577047,1,0,1,,,,,Elf Aquitaine (catamaran)
+Elf Aquitaine,Bulletin des Centres de Recherches Exploration-Production Elf-Aquitaine Mémoire,Q92059692,1,0,1,,Elf-Aquitaine Memoire|Elf-Aquitaine Mémoire,Q5633421,,
+Elf Aquitaine,Elf,Q30426265,1,0,2,family name,,Q101352,,
+Elf Aquitaine,Elf,Q111353631,1,0,2,1991 video game,ELF,Q7889,,Elf (video game)
+Elf Aquitaine,Elfriede,Q18327552,1,0,2,female given name,Elfriede (given name)|Elfriede (first name),Q11879590,,Elfriede
+Elf Aquitaine,elf,Q174396,1,0,2,supernatural being in folklore,elves,Q24534061|Q27863646,Q13405593|Q6949149|Q16513904|Q11458821,Elf
+Elf Aquitaine,Elfershausen,Q504259,1,0,2,market municipality in the district of Bad Kissingen in Germany,,Q100341898|Q116457956,,Elfershausen
+Elf Aquitaine,Elfriede Jelinek,Q47243,1,0,2,Austrian playwright and novelist,,Q5,,Elfriede Jelinek
+Elf Aquitaine,Elfrida Andrée,Q451495,1,0,2,"Swedish organist, composer and conductor (1841–1929)",Elfrida Andree|Elfrida Andrée,Q5,,Elfrida Andrée
+Elf Aquitaine,ELF Corporation,Q5323286,1,0,2,former Japanese adult game studio,"Elf Co., Ltd.|élf|Elf",Q4830453,,ELF Corporation
+Elf Aquitaine,Elfrida,Q602647,1,0,2,female given name,Elfrida (given name),Q11879590,,Elfrida
+Elf Aquitaine,Tomte,Q1325848,1,0,2,humanoid mythical creature of Nordic folklore,tomtenisse|nisse|elf|elves|tomte|tonttu|gonk|gonks,,Q30307611|Q11458821,Nisse (folklore)
+Elf Aquitaine,TotalEnergies,Q154037,1,0,2,French multinational energy and petroleum company,TotalFina|Total − Compagnie Française des Pétroles|Compagnie Française des Pétroles|Total − CFP|CFP,Q4830453|Q6881511|Q161726|Q14941854|Q64027599,,TotalEnergies
+S.A,South Australia,Q35715,1,1,1,state of Australia,SA|S.A.|AU-SA|S. Aust.|State of South Australia,Q5852411|Q1351282,,South Australia
+S.A,S.A.,Q166280,1,1,1,type of corporation in countries that mostly employ civil law,Société Anonyme|Societat Anònima|Sociedade Anónima|Società Anonima|Anonymous Society|Societe Anonyme|Societat Anonima|Sociedade Anonima|Societa Anonima|Sociedade anônima|S/A|S.A. (corporation)|SA|sociedad anónima|Sociedad Anónima,Q1269299,Q134161,S.A. (corporation)
+S.A,Smithsonian American Art Museum,Q1192305,1,1,1,"fine arts museum in Washington, D.C., a division of the Smithsonian Institution",American Art|American Art Museum Smithsonian Institution|National Museum of American Art Smithsonian Institution|National Museum of American Art|S.A.A.M.|Smithsonian Institution National Museum of American Art|NMAA|N.M.A.A.|National Collection of Fine Arts,Q3196771|Q8513,,Smithsonian American Art Museum
+S.A,Public limited company (Belgium),Q422053,1,1,1,type of business entity in Belgium,N.V.|Naamloze vennootschap|AG|Aktiengesellschaft|PLC|Public limited company (Belgium)|S.A.|SA|Société anonyme,Q10541491|Q28491520,Q166280|Q155076|Q1436139,
+S.A,Salvador Arias Montes,Q13218591,1,1,1,Mexican botanist,Salvador Arias|S.Arias|Ángel Salvador Arias Montes,Q5,,
+S.A,Aktiengesellschaft,Q693737,1,1,1,type of Swiss joint-stock company,AG|SA|Societe Anonyme|Societa anonima|S.A.,Q19588327|Q10541491,Q22084735|Q155076|Q166280,
+S.A,Serkant Ali Çetin,Q83034457,1,1,1,Turkish researcher,S A Cetin|S.A. Cetin|SA Cetin,Q5,,
+S.A,S.A,Q564410,1,1,1,Japanese manga series,Special A,Q21198342,,S.A (manga)
+S.A,joint-stock company,Q134161,1,1,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+S.A,Sebastian Andres Olivares Pino,Q67466852,1,1,1,particle physicist,S.A. Olivares Pino|Olivares Pino SA|Sebastian Olivares|S. A. Olivarest Pino|S. A. Olivares Pino,Q5,,
+S.A,Elf Aquitaine,Q1505649,1,1,2,French oil brand of TotalEnergies,Elf brand,Q14941854|Q431289|Q64027599,,Elf Aquitaine
+S.A,Elf Aquitaine catamaran,Q19577047,1,1,2,,,,,Elf Aquitaine (catamaran)
+S.A,Bulletin des Centres de Recherches Exploration-Production Elf-Aquitaine Mémoire,Q92059692,1,1,2,,Elf-Aquitaine Memoire|Elf-Aquitaine Mémoire,Q5633421,,
+Mineralöl- und Asphaltwerke,Mineralöl- und Asphaltwerke,Q107059649,1,2,1,business,Deutsch-Rumänische Petroleum-AG|Mawag (Mineralöl- und Asphaltwerke),Q4830453,,
+Mineralöl- und Asphaltwerke,Elf Aquitaine,Q1505649,1,2,2,French oil brand of TotalEnergies,Elf brand,Q14941854|Q431289|Q64027599,,Elf Aquitaine
+Mineralöl- und Asphaltwerke,Elf Aquitaine catamaran,Q19577047,1,2,2,,,,,Elf Aquitaine (catamaran)
+Mineralöl- und Asphaltwerke,Bulletin des Centres de Recherches Exploration-Production Elf-Aquitaine Mémoire,Q92059692,1,2,2,,Elf-Aquitaine Memoire|Elf-Aquitaine Mémoire,Q5633421,,
+Mineralöl- und Asphaltwerke,South Australia,Q35715,1,2,2,state of Australia,SA|S.A.|AU-SA|S. Aust.|State of South Australia,Q5852411|Q1351282,,South Australia
+Mineralöl- und Asphaltwerke,S.A.,Q166280,1,2,2,type of corporation in countries that mostly employ civil law,Société Anonyme|Societat Anònima|Sociedade Anónima|Società Anonima|Anonymous Society|Societe Anonyme|Societat Anonima|Sociedade Anonima|Societa Anonima|Sociedade anônima|S/A|S.A. (corporation)|SA|sociedad anónima|Sociedad Anónima,Q1269299,Q134161,S.A. (corporation)
+Mineralöl- und Asphaltwerke,Aktiengesellschaft,Q693737,1,2,2,type of Swiss joint-stock company,AG|SA|Societe Anonyme|Societa anonima|S.A.,Q19588327|Q10541491,Q22084735|Q155076|Q166280,
+Mineralöl- und Asphaltwerke,société anonyme,Q18195767,1,2,2,type of company in French law,S.A.|Société anonyme|Société anonyme (France)|SA (France),Q56427813|Q1269299|Q10541491,Q166280|Q33134269|Q134161,
+Mineralöl- und Asphaltwerke,United States,Q30,1,2,2,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+Mineralöl- und Asphaltwerke,Smithsonian American Art Museum,Q1192305,1,2,2,"fine arts museum in Washington, D.C., a division of the Smithsonian Institution",American Art|American Art Museum Smithsonian Institution|National Museum of American Art Smithsonian Institution|National Museum of American Art|S.A.A.M.|Smithsonian Institution National Museum of American Art|NMAA|N.M.A.A.|National Collection of Fine Arts,Q3196771|Q8513,,Smithsonian American Art Museum
+Mineralöl- und Asphaltwerke,Public limited company (Belgium),Q422053,1,2,2,type of business entity in Belgium,N.V.|Naamloze vennootschap|AG|Aktiengesellschaft|PLC|Public limited company (Belgium)|S.A.|SA|Société anonyme,Q10541491|Q28491520,Q166280|Q155076|Q1436139,
+Mineralöl- und Asphaltwerke,sociedad anónima,Q56489561,1,2,2,type of business entity in Spain; Spanish joint-stock company,S.A.|Sociedad Anónima Española|S.A.E.,Q51885897|Q10541491,Q166280|Q155076,
+Mineralöl- und Asphaltwerke,South Africa,Q258,1,2,2,country in southern Africa,Republic of South Africa|RSA|SA|zaf|R.S.A.,Q3624078|Q6256,,South Africa
+Mineralöl- und Asphaltwerke,société anonyme,Q49168310,1,2,2,type of business entity in Luxembourg,S.A.,Q56640800|Q10541491,Q166280|Q155076,

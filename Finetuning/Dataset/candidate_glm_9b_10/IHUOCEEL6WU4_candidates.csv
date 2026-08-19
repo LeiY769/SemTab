@@ -1,0 +1,57 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+[RRS2014] GND15Roy,,,0,0,0,,,,,
+SN 2010it,SN 2010it,Q9331770,1,0,1,supernova,,Q3937,,
+SN 2010it,Supernova 2010it in NGC 1417,Q68776384,1,0,2,scientific article published in January 2010,,Q13442814,,
+SN 2010it,Supernova 2010it in NGC 1417,Q68776372,1,0,2,,,Q13442814,,
+PF 12ccz,,,2,0,0,,,,,
+TN 2010ff,,,3,0,0,,,,,
+SN 2003fq,SN 2003fq,Q9328932,4,0,1,supernova,,Q3937,,
+SN 150H,,,5,0,0,,,,,
+SN 4999cj,,,6,0,0,,,,,
+SN 1985Q,SN 1985Q,Q9326884,7,0,1,supernova,,Q3937,,
+UN 2303fe,,,8,0,0,,,,,
+N#1996ao,,,9,0,0,,,,,
+SO 2009gl,,,10,0,0,,,,,
+SN 1;69C,SN 1987A,Q584905,11,0,2,supernova,NAME SNR 1987A,Q3937|Q6243|Q67206691|Q2154519|Q71962386|Q72802977|Q207436,,SN 1987A
+SN 1;69C,S Andromedae,Q546708,11,0,2,"supernova in the Andromeda Galaxy, spotted by mankind in August 1885",Supernova 1885|S And|SN 1885A|NOVA And 1885|Nova RJC99 Sep-95|HR 182|AAVSO 0037+40|TIC 438234291,Q3937|Q6458|Q2154519|Q207436|Q67206785|Q6243|Q1059564|Q582000,,SN 1885A
+SN 1;69C,SN-1,Q54955009,11,0,2,cell line,,Q21014462|Q23058136,,
+SN 1;69C,diacylglycerol kinase activity,Q14913817,11,0,2,"Catalysis of the reaction: NTP + 1,2-diacylglycerol = NDP + 1,2-diacylglycerol-3-phosphate.","DGK activity|GO:0004143|arachidonoyl-specific diacylglycerol kinase activity|1,2-diacylglycerol kinase activity|DG kinase activity|sn-1,2-diacylglycerol kinase activity|diglyceride kinase activity|1,2-diacylglycerol kinase (phosphorylating)",Q14860489,Q14863082|Q14863083,
+SN 1;69C,SN 1961I,Q9326449,11,0,2,"supernova within the Messier 61 galaxy, discovered in 1961",,Q3937,,SN 1961I
+SN 1;69C,sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity,Q30105576,11,0,2,"Catalysis of the reaction: hexadecanedioyl-CoA + sn-glycerol 3-phosphate = coenzyme A + 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate",,Q14860489,Q14912987,
+SN 1;69C,"Diacylglycerol kinase, subgroup",Q54444078,11,0,2,InterPro family,"DGK|IPR037607|arachidonoyl-specific diacylglycerol kinase|diglyceride kinase|1,2-diacylglycerol kinase (phosphorylating)|1,2-diacylglycerol kinase|sn-1,2-diacylglycerol kinase|DG kinase",Q417841|Q67015883,Q421851|Q407355|Q106951674,
+SN 1;69C,diacylglycerol cholinephosphotransferase activity,Q21106763,11,0,2,"Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.","cytidine diphosphorylcholine diglyceride transferase activity|CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity|GO:0004142|1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity|1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity|alkylacylglycerol cholinephosphotransferase activity|diacylglycerol choline phosphotransferase activity|1-alkyl-2-acetylglycerol cholinephosphotransferase activity|cytidine diphosphocholine glyceride transferase activity|phosphorylcholine--glyceride transferase activity|CDP-choline diglyceride phosphotransferase activity|alkylacylglycerol choline phosphotransferase activity|sn-1,2-diacylglycerol cholinephosphotransferase activity|phosphocholine diacylglyceroltransferase activity",Q14860489,Q22321340,
+SN 1;69C,SN-1,Q27088827,11,0,2,chemical compound,,Q113145171,Q11173,
+SN 1;69C,SN12C,Q54955018,11,0,2,cell line,SN-12C|SN12 C,Q21014462|Q23058136,,
+SN 1;69C,copper-69,Q18844904,11,0,2,isotope of copper,Cu-69|69Cu,Q2529274,Q753,Copper-69
+SN 1;69C,cobalt-69,Q18844864,11,0,2,isotope of cobalt,Co-69|69Co,Q1372202,Q740,Cobalt-69
+SN 1;69C,chromium-69,Q47456773,11,0,2,isotope of chromium,Cr-69|69Cr,Q221276,Q725,
+SN 1;69C,The Shore heliport,Q61671665,11,0,2,"heliport in Connecticut, United States",69CT,Q502074,,
+SN 1;69C,Interstate 69C,Q16157400,11,0,2,"Interstate Highway in Hidalgo County, Texas, United States",I-69C,Q34442,,Interstate 69C
+SN 1;69C,69Clip,Q140766134,11,0,2,,,Q35127,,
+SN 1;69C,69C,Q134390413,11,0,2,Wikimedia disambiguation page,,Q4167410,,69C
+SN 1;69C,supernova,Q3937,11,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 1;69C,Senegal,Q1041,11,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 1;69C,substantia nigra,Q753278,11,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 1;69C,tin,Q1096,11,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 1;69C,Great Norwegian Encyclopedia,Q746368,11,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 1;69C,snowboarding,Q178131,11,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 1;69C,SNAC,Q29861311,11,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 1;69C,Science News,Q2313730,11,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 1;69C,Shona Wikipedia,Q8571809,11,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 1;69C,SciGraph,Q65509402,11,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 154F,,,12,0,0,,,,,
+SN 2010gt,SN 2010gt,Q9331717,13,0,1,supernova,,Q3937,,
+SN 2010gt,Supernova 2010gt in ESO 187-21,Q68776156,13,0,2,scientific article published in January 2010,,Q13442814,,
+SN 192X,,,14,0,0,,,,,
+N 1996am,,,15,0,0,,,,,
+SN 2317jdy,,,16,0,0,,,,,
+SN 2008H,SN 2008H,Q9330861,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008ha: Der Himmel ist für alle da,Q70002862,17,0,1,,,Q1980247|Q191067,,
+SN 2008H,SN 2008ha,Q2743690,17,0,1,supernova,,Q3937,,SN 2008ha
+SN 2008H,SN 2008hq,Q9331076,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008hx,Q9331085,17,0,1,supernova,,Q3937|Q67206691,,
+SN 2008H,SN 2008hp,Q11835596,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008hl,Q9331073,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008ht,Q9331080,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008hc,Q9331062,17,0,1,supernova,,Q3937,,
+SN 2008H,SN 2008hy,Q9331084,17,0,1,supernova,,Q3937,,

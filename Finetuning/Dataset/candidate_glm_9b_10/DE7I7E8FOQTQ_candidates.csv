@@ -1,0 +1,85 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+[VSR2011] UDS10,[VSR2011] UDS10,Q86570712,0,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS12,[VSR2011] UDS12,Q86570710,1,0,1,,,Q726611|Q72802508|Q67206785,,
+[VSR2011] UDS21,[VSR2011] UDS21,Q86570708,2,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS15,[VSR2011] UDS15,Q86570683,3,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS17,[VSR2011] UDS17,Q86570680,4,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS13,[VSR2011] UDS13,Q86570678,5,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD3,[VSR2011] GSD3,Q86570675,6,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD3,glycogen storage disease III,Q494922,6,0,2,human disease,"Glycogen storage disease, type III (disorder)|amylo 1,6 glucosidase deficiency|deficiency of debranching enzyme|deficiency of dextrin|Glycogen storage disease, type III|Glycogen storage disease type III|GSD3",Q929833|Q112193867,Q1421738|Q10267817,Glycogen storage disease type III
+[VSR2011] GSD6,[VSR2011] GSD6,Q86570674,7,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD6,glycogen storage disease VI,Q1947298,7,0,2,glycogen storage disease,"Hers' disease|Glycogen storage disease, type VI (disorder)|glycogen storage disease type VI|hepatic glycogen phosphorylase deficiency (disorder)|hepatophosphorylase deficiency glycogenosis|hepatic glycogen phosphorylase deficiency|Glycogen storage disease type 6|Hers Disease|Glycogen storage disease due to liver glycogen phosphorylase deficiency|Glycogenosis type VI|GLYCOGEN STORAGE DISEASE VI; GSD6|Glycogenosis due to liver glycogen phosphorylase deficiency|GSD due to liver glycogen phosphorylase deficiency|Hepatic phosphorylase deficiency|GSD type VI|Gsd 6|Liver glycogen phosphorylase deficiency|Phosphorylase Deficiency Glycogen-Storage Disease of Liver|GSD6|GSD type 6|GLYCOGEN STORAGE DISEASE VI|Glycogenosis type 6",Q929833|Q112193867,Q1421738|Q55785261,Glycogen storage disease type VI
+[VSR2011] GSD6,PYGL,Q18030982,7,0,2,protein-coding gene in the species Homo sapiens,"GSD6|phosphorylase, glycogen, liver|glycogen phosphorylase L",Q7187,Q20747295,PYGL
+[VSR2011] UDS1,[VSR2011] UDS1,Q86570671,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS14,Q86570681,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS12,Q86570710,8,0,1,,,Q726611|Q72802508|Q67206785,,
+[VSR2011] UDS1,[VSR2011] UDS11,Q86570732,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS10,Q86570712,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS15,Q86570683,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS18,Q86570741,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS17,Q86570680,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS13,Q86570678,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,[VSR2011] UDS16,Q86570694,8,0,1,,,Q726611|Q72802508,,
+[VSR2011] UDS1,Up-regulated during septation protein 1,Q24776190,8,0,2,InterPro Domain,Uds1|IPR029191,Q898273,,
+[VSR2011] GSD12,[VSR2011] GSD12,Q86570664,9,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD12,ALDOA,Q14865090,9,0,2,protein-coding gene in the species Homo sapiens,"ALDA|GSD12|HEL-S-87p|aldolase, fructose-bisphosphate A|Aldolase A",Q7187,Q20747295,
+[VSR2011] GSD12,Aldolase A deficiency,Q4713937,9,0,2,medical condition,"Glycogen storage disease type XII|Aldolase Deficiency, Red Cell|GSD due to aldolase A deficiency|Aldoa Deficiency|Glycogen Storage Disease type 12|GLYCOGEN STORAGE DISEASE XII|Gsd 12|GLYCOGEN STORAGE DISEASE XII; GSD12|Aldolase a Deficiency|GSD type XII|Glycogenosis type XII|Glycogenosis due to aldolase A deficiency|GSD12|Glycogenosis type 12|GSD type 12|Red Cell Aldolase Deficiency",Q929833|Q112193867,Q1145668|Q1421738|Q55787283|Q55789127,Aldolase A deficiency
+[VSR2011] GSD10,[VSR2011] GSD10,Q86570662,10,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD10,PGAM2,Q18030496,10,0,2,protein-coding gene in the species Homo sapiens,GSD10|PGAM-M|PGAMM|phosphoglycerate mutase 2,Q7187,Q20747295,PGAM2
+[VSR2011] GSD10,glycogen storage disease due to phosphoglycerate mutase deficiency,Q55782206,10,0,2,human disease,"Phosphoglycerate Mutase, Muscle, Deficiency of|Gsd 10|Pgamm Deficiency|GSD10|Myopathy Due to Phosphoglycerate Mutase Deficiency|GSD due to phosphoglycerate mutase deficiency|GSD type 10|Glycogenosis due to phosphoglycerate mutase deficiency|Glycogen Storage Disease type 10|Muscle phosphoglycerate mutase deficiency|GLYCOGEN STORAGE DISEASE X; GSD10|GLYCOGEN STORAGE DISEASE X",Q929833|Q112193867,Q55785945,
+[VSR2011] GSD1,[VSR2011] GSD1,Q86570659,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD12,Q86570664,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD19,Q86570727,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD10,Q86570662,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD11,Q86570838,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD15,Q86570742,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,[VSR2011] GSD16,Q86570789,11,0,1,,,Q726611|Q72802508,,
+[VSR2011] GSD1,G6PC1,Q18024934,11,0,2,protein-coding gene in the species Homo sapiens,glucose-6-phosphatase catalytic subunit|GSD1a|glucose-6-phosphatase catalytic subunit 1|GSD1|G6Pase|G6PC|G6PT,Q7187,Q20747295,G6PC
+[VSR2011] GSD1,GCV1,Q27543948,11,0,2,protein-coding gene in the species Saccharomyces cerevisiae S288c,YDR019C|glycine decarboxylase subunit T|GSD1,Q7187,Q20747295,
+[VSR2011] GSD1,ALDOA,Q14865090,11,0,2,protein-coding gene in the species Homo sapiens,"ALDA|GSD12|HEL-S-87p|aldolase, fructose-bisphosphate A|Aldolase A",Q7187,Q20747295,
+[VSR2011] GSD1,LDHA,Q18028499,11,0,2,protein-coding gene in the species Homo sapiens,GSD11|HEL-S-133P|LDH1|LDHM|PIG19|lactate dehydrogenase A,Q7187,Q20747295,Lactate dehydrogenase A
+[VSR2011] GSD1,SLC37A4,Q18024958,11,0,2,protein-coding gene in the species Homo sapiens,G6PT1|G6PT2|G6PT3|GSD1b|GSD1c|GSD1d|TRG-19|TRG19|PRO0685|solute carrier family 37 member 4|CDG2W,Q7187,Q20747295,
+[VSR2011] GSD1,PGM1,Q18030506,11,0,2,protein-coding gene in the species Homo sapiens,CDG1T|GSD14|phosphoglucomutase 1,Q7187,Q20747295,PGM1
+[VSR2011] GSD1,ENO3,Q17916829,11,0,2,protein-coding gene in the species Homo sapiens,GSD13|MSE|enolase 3,Q7187,Q20747295,ENO3
+[VSR2011] GSD1,glycogen storage disease due to glucose-6-phosphatase deficiency type Ia,Q55998606,11,0,2,"Glycogenosis due to glucose-6-phosphatase deficiency (G6P) type a, or glycogen storage disease (GSD) type 1a, is a type of glycogenosis due to G6P deficiency (see this term)",GSD due to G6P deficiency type 1a|G6P deficiency type 1a|Glycogenosis due to glucose-6-phosphatase deficiency type 1a|Glycogen storage disease due to G6P deficiency type Ia|GSDIa|Von Gierke Disease|Hepatorenal Form of Glycogen Storage Disease|Glycogenosis due to glucose-6-phosphatase deficiency type Ia|GSD1A|Glycogenosis type Ia|Glycogen Storage Disease type Ia|Hepatorenal Glycogenosis|Gsd Ia|GSD type 1a|Glucose-6-Phosphatase Deficiency|GSD due to G6P deficiency type Ia|GLYCOGEN STORAGE DISEASE Ia; GSD1A|Glycogen Storage Disease 1|Glycogen storage disease type 1a|GLYCOGEN STORAGE DISEASE Ia,Q112193867,Q56014115,
+[VSR2011] GSD1,GYG1,Q18026698,11,0,2,protein-coding gene in the species Homo sapiens,GSD15|GYG|glycogenin 1,Q7187,Q20747295,Glycogenin-1
+[VSR2011] GSD1,PGAM2,Q18030496,11,0,2,protein-coding gene in the species Homo sapiens,GSD10|PGAM-M|PGAMM|phosphoglycerate mutase 2,Q7187,Q20747295,PGAM2
+[VSR2011] GSD26,[VSR2011] GSD26,Q86570658,12,0,1,,,Q726611|Q72802508,,
+2MASX J15451546+2942144,2MASX J15451546+2942144,Q86561245,13,0,1,,,Q726611|Q72802508|Q523,,
+2MASX J13092167+2944000,2MASX J13092167+2944000,Q86491261,14,0,1,,,Q726611|Q72802508|Q318,,
+[SMR2006] VLA J021816-04551,[SMR2006] VLA J021816-04551,Q86439172,15,0,1,,,Q726611|Q1931185,,
+[SMR2006] VLA J021821-05356,[SMR2006] VLA J021821-05356,Q86439066,16,0,1,,,Q726611|Q1931185,,
+PB 9133,PB 9133,Q86240697,17,0,1,,,Q726611|Q72802508|Q1931185,,
+Mrk 1470,Mrk 1470,Q86151391,18,0,1,,,Q726611|Q72802508|Q1931185|Q523,,
+2XMM J125825.4+344902,2XMM J125825.4+344902,Q85936718,19,0,1,,,Q726611|Q318|Q523,,
+HS 0932+3616,HS 0932+3616,Q85839681,20,0,1,,,Q726611,,
+HS 0932+3616,quasar,Q83373,20,0,2,extremely luminous active galactic nuclei containing a massive black hole,Quasi-Stellar Radio Source|Quasi-Stellar Object|QSO,Q17444909,Q46587|Q139253897,Quasar
+HS 0932+3616,Quasar,Q7269419,20,0,2,1983 video game,,Q7889,,Quasar (video game)
+HS 0932+3616,Quasar,Q132860775,20,0,2,1980 video game,,Q7889,,
+HS 0932+3616,Quasar,Q124286559,20,0,2,Dutch Unreal Tournament player,Pete Light,Q5,,
+HS 0932+3616,Quasar,Q126185584,20,0,2,1989 video game,,Q7889,,
+HS 0932+3616,Quasar,Q1992429,20,0,2,superhero in Marvel Comics,,Q1114461|Q65967030,,Quasar (character)
+HS 0932+3616,Quasar,Q7269417,20,0,2,British progressive rock band,,Q215380,,Quasar (band)
+HS 0932+3616,Neutron,Q5142064,20,0,2,fictional character in Marvel Comics,Quasar,Q89050960|Q1114461,,Neutron (Marvel Comics)
+HS 0932+3616,Quasar,Q7269418,20,0,2,"US brand of electronics, first used by Motorola in 1967",,Q783794,,Quasar (brand)
+HS 0932+3616,Quasar,Q12738887,20,0,2,Romanian business company,,Q4830453,,
+HS 0932+3616,active galactic nucleus,Q46587,20,0,2,compact region at the center of a galaxy that has a much higher than normal luminosity over at least some portion – and possibly all – of the electromagnetic spectrum,AGN,Q17444909,Q318,Active galactic nucleus
+HS 0932+3616,Agnes,Q394431,20,0,2,female given name,Agnes (given name)|Agnes (first name),Q11879590,,Agnes (name)
+HS 0932+3616,Agnieszka,Q16161911,20,0,2,female given name,Agnieszka (given name)|Agnieszka (first name),Q11879590,,Agnieszka
+HS 0932+3616,Agne Hansson,Q4692974,20,0,2,Swedish politician,,Q5,,Agne Hansson
+HS 0932+3616,Agnès,Q19689363,20,0,2,female given name,Agnès (first name)|Agnès (given name),Q11879590,,Agnès
+HS 0932+3616,Bronzino,Q7803,20,0,2,Italian Mannerist painter (1503-1572),"Agnolo di Cosimo|Angelo Bronzino|Angelo Allori|Agnolo Tori di Cosimo di Mariano Bronzino|Angiolo Bronzino|Agnolo Di Cosimo|Agnolo di Cosimo Bronzino|Agniolo di Cosimo di Mariano Tori Bronzino|Angiolo Allori|Agniolo Bronzino|Agnolo Bronzino Vecchio|Angelo Bronzino Fiorentino|Agnolo Bronsino|Angelo di Cosimo di Mariano Bronzino|Agniolo Di Cosimo di Mariano Tori|Angelo Di Cosimo Di Mariano Bronzino|Agnolo Bronzini|Agnolo di Cosimo Allori Bronzino|Bronzino Fiorentino|Le Bronzino|Angelo di, genannt Bronzino Cosimo|Bronzino vechio|Allori Bronzino|Brunzini|Ag. Bronzino|A. Bronzino|agnolo di cosimo. bronzino|Brunsino de Florence|Bronzzino|Bronzeno|Angelo Bronzino Vechhio|Bronzini|Angiolo Bronzino eigentl Angiolo di Cosimo di Mariano|Bronzino vecchio|bronsino|Angelo Bronzini|Bronzina|angiolo bronzio|gen. bronzino agnolo di cosimo|Angelo-Bronzino|Agnolo, eigentl. Agniolo Di Cosimo Bronzino|Le Bronzin|Brongino|Angelo Di Cosimo gen. Bronzino|dit le Bronzino Angiolo Allori|bronçino|Brancino|Angelo Allori detto Bronzino|Agnolo, Eigentl. Agnolo Di Cosimo Bronzino|angelo bronzino|Bronzino fiorentino|Bronzio Angelo|(Agnolo di Cosimo) Bronzino|Agnolo Bronzino",Q5,,Bronzino
+HS 0932+3616,Agnieszka M. Leyko,Q113675649,20,0,2,particle physicist in Germany,,Q5,,
+HS 0932+3616,tretinoin,Q29417,20,0,2,chemical compound,"all-trans-retinoic acid (ATRA)|Avita®|Renova®|(2E,4E,6E,8E)-3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexenyl)nona-2,4,6,8-tetraenoic acid|3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid|beta-Retinoate|trans-Retinoate|3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoate|Tretinoine (French)|All-(E)-Retinoate|Retinoate|Acide retinoique (French)|(all-E)-3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoate|all-(e)-Retinoic acid|trans-Retinoic acid|Tretinoinum|beta-Retinoic acid|all-trans-beta-Retinoic acid|Tretinoine (french) (einecs)|Eudyna|Ro 1-5488|All Trans-Retinoic Acid|Stieva-a|Tretinoina|all-trans-Retinoic acid|Vitamin A acid|Acide retinoique (french) (dsl)|Tretinoin|3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexene-1-yl)-2,4,6,8-nonatetraenoic acid (ecl)|All Trans Retinoic Acid|RETINOIC acid|AGN 100335|Retionic Acid|Tretin m|all-trans-Vitamin a1 acid|all-trans-Vitamin a acid|Trétinoïne|(all-e)-3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraenoic acid|ATRA|all-trans-Tretinoin|Tretinoin ATRA|Aberel|Aknoten|Avita|Renova|Retin-A|Retin-A MICRO|Vesanoid",Q113145171,Q134856|Q425517,Tretinoin
+HS 0932+3616,Ágnes,Q16010167,20,0,2,female given name,Ágnes (given name)|Ágnes (first name),Q11879590,,Ágnes
+HS 0932+3616,Agneta,Q3354746,20,0,2,female given name,Agneta (first name)|Agneta (given name),Q11879590,,Agneta
+HS 0932+3616,Active galactic nucleus host galaxy morphologies in COSMOS,Q58908903,20,0,2,scientific article published in the Astrophysical Journal,,Q13442814,,
+HS 0932+3616,Active Galactic Nucleus Black Hole Masses and Bolometric Luminosities,Q59758376,20,0,2,scientific article published in the Astrophysical Journal,,Q13442814,,
+HS 0932+3616,Active galactic nucleus feedback at z ~ 2 and the mutual evolution of active and inactive galaxies,Q58911894,20,0,2,scientific article,,Q13442814,,
+HS 0932+3616,Active Galactic Nucleus and Starburst Classification fromSpitzerMid‐Infrared Spectra for High‐Redshift SWIRE Sources,Q59741009,20,0,2,scientific article published in the Astrophysical Journal,,Q13442814,,
+HS 0932+3616,Active galactic nucleus X-ray variability in the XMM-COSMOS survey,Q58912185,20,0,2,scientific article published in the Astrophysical Journal,,Q13442814,,
+HS 0932+3616,Active galactic nucleus feedback and triggering of star formation in galaxies,Q69051706,20,0,2,scientific article published in January 2012,,Q13442814,,
+HS 0932+3616,Active galactic nucleus feedback drives the colour evolution of local galaxies,Q56933765,20,0,2,scientific article,,Q13442814,,
+HS 0932+3616,Active galactic nucleus feedback works both ways,Q68135443,20,0,2,scholarly article,,Q13442814,,
+HS 0932+3616,"Active Galactic Nucleus Activity in Giant, Low Surface Brightness Galaxies",Q56863976,20,0,2,scientific article published in Astronomical Journal,,Q13442814,,
+2MASS J10235916+2421066,2MASS J10235916+2421066,Q85820478,21,0,1,,,Q726611|Q523,,

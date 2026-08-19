@@ -1,0 +1,53 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2006gx,SN 2006gx,Q9329922,0,0,1,supernova,,Q3937,,
+SN 2006gu,SN 2006gu,Q9329921,1,0,1,supernova,,Q3937,,
+SN 2006gu,SN 2006gy,Q644956,1,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006gu,SN 2006G,Q9329723,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006gd,Q9329903,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006gw,Q9329923,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006gs,Q9329919,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006gx,Q9329922,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006ga,Q9329899,1,0,2,supernova,,Q3937|Q67206691,,
+SN 2006gu,SN 2006gz,Q9329924,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006gi,Q9329907,1,0,2,supernova,,Q3937,,
+SN 2006gu,SN 2006go,Q9329913,1,0,2,supernova,,Q3937,,
+SN 2006gv,SN 2006gv,Q9329920,2,0,1,supernova,,Q3937,,
+SN 2006gt,SN 2006gt,Q9329917,3,0,1,supernova,,Q3937,,
+SN 2006gp,SN 2006gp,Q9329915,4,0,1,supernova,,Q3937,,
+SN 2006gq,SN 2006gq,Q9329914,5,0,1,supernova,,Q3937,,
+SN 2006gq,minor planet,Q1022867,5,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2006gq,Minor Planet Center database,Q106600690,5,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2006gq,Minor Planet Center,Q522039,5,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2006gq,minor planet moon,Q657829,5,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2006gq,Minor Planet Circulars,Q6382430,5,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2006gq,minor planet group,Q2332332,5,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2006gq,list of minor planets,Q37651,5,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2006gq,Minor planet designation,Q817125,5,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2006gq,Minor Planet Bulletin,Q6869125,5,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2006gq,Minor Planet Catalogue,Q55178248,5,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2006gq,asteroid,Q3863,5,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 2006gq,asteroid belt,Q2179,5,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 2006gq,Asteroid,Q4810751,5,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 2006gq,Asteroid,Q113629153,5,0,2,early access video game,,Q7889,,
+SN 2006gq,starfish,Q25349,5,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 2006gq,Asteroid,Q132852203,5,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 2006gq,Asteroideae,Q21004,5,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 2006gq,Asteroids,Q748890,5,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 2006gq,Asteroid Terrestrial-impact Last Alert System,Q17002475,5,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 2006gq,Vesta,Q3030,5,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 2006go,SN 2006go,Q9329913,6,0,1,supernova,,Q3937,,
+SN 2006go,SN 2006gy,Q644956,6,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006go,SN 2006G,Q9329723,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006gd,Q9329903,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006gw,Q9329923,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006gs,Q9329919,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006gx,Q9329922,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006ga,Q9329899,6,0,2,supernova,,Q3937|Q67206691,,
+SN 2006go,SN 2006gz,Q9329924,6,0,2,supernova,,Q3937,,
+SN 2006go,SN 2006gi,Q9329907,6,0,2,supernova,,Q3937,,
+SN 2006gn,SN 2006gn,Q9329912,7,0,1,supernova,,Q3937,,
+SN 2006gm,SN 2006gm,Q9329911,8,0,1,supernova,,Q3937,,
+SN 2006gl,SN 2006gl,Q9329910,9,0,1,supernova,,Q3937,,
+SN 2006gk,SN 2006gk,Q9329909,10,0,1,supernova,,Q3937,,
+SN 2006gj,SN 2006gj,Q9329908,11,0,1,supernova,,Q3937,,
+SN 2006gh,SN 2006gh,Q9329906,12,0,1,supernova,,Q3937,,

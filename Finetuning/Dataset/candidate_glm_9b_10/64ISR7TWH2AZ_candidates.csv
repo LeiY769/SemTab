@@ -1,0 +1,131 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Kommunar,Kommunar,Q7705,0,0,1,"town in Leningrad Oblast, Russia",,Q7930989|Q486972,,"Kommunar, Gatchinsky District, Leningrad Oblast"
+Kommunar,Kommunarka shooting ground,Q2068654,0,0,1,place of mass executions during Stalinism near Moscow,Kommunarka|Kommunarka shooting site,Q2151479|Q39614|Q1081138,,Kommunarka shooting ground
+Kommunar,Kommunar,Q4229837,0,0,1,"human settlement in Brasovsky District, Bryansk Oblast, Russia",,Q2514025,,
+Kommunar,Kommunar,Q4229843,0,0,1,"human settlement in Shirinsky District, Republic of Khakassia, Russia",,Q532|Q192287|Q486972,,
+Kommunar,Kommunar,Q24483695,0,0,1,"human settlement in Leninsky District, Volgograd Oblast, Russia",,Q2514025,,"Kommunar, Volgograd Oblast"
+Kommunar,Kommunar,Q18781089,0,0,1,"human settlement in Belovsky District, Kursk Oblast, Russia",,Q2514025,,
+Kommunar,Alchevsk,Q161144,0,0,1,"City in Luhansk Oblast, Ukraine",Kommunarsk|Voroshylovsk,Q5123999|Q12131624|Q7930989|Q106389302|Q113560245,,Alchevsk
+Kommunar,Kommunar,Q4229842,0,0,1,"human settlement in Kushchyovsky District, Krasnodar Krai, Russia",,Q2514025,,
+Kommunar,Kommunar,Q4229839,0,0,1,human settlement in Russia,,Q604435|Q192287|Q486972,,
+Kommunar,Kommunar,Q16021540,0,0,1,"human settlement in Kingiseppsky District, Leningrad Oblast, Russia",,Q5084,,
+Kommunar,kommune,Q99691499,0,0,2,type of legal entity for municipalities in Norway,KOMM,Q19340794,Q755707,
+Kommunar,Local Government Denmark,Q11979791,0,0,2,organization for Danish municipalities,Kommunernes Landsforening|KL|LGD|Association of Danish Municipalities|National Association of Danish Municipalities|Association of Municipalities in Denmark|National Association of Municipalities in Denmark,Q113378406|Q431603|Q43229,,
+Kommunar,municipality,Q15284,0,0,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Kommunar,municipality of Switzerland,Q70208,0,0,2,lowest level in Switzerland's three-tier state administration structure,commune of Switzerland|communes of Switzerland|politische Gemeinde,,Q7631075|Q12357832,Municipalities of Switzerland
+Kommunar,municipality of the Philippines,Q24764,0,0,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Kommunar,Kommunenes Filmcentral,Q6428422,0,0,2,Norwegian film distributor,,Q4830453,,Kommunenes Filmcentral
+Kommunar,municipality of Norway,Q755707,0,0,2,type of administrative division in Norway,Norwegian municipality,,Q533309|Q15284|Q12357832|Q2221906,Municipalities of Norway
+Kommunar,municipality of Sweden,Q127448,0,0,2,local administrative subdivisions of Sweden,Swedish municipality,Q10541491|Q15617994,Q914262|Q15284|Q12357832,Municipalities of Sweden
+Kommunar,municipality,Q27676428,0,0,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Kommunar,Kommune 1,Q1780493,0,0,2,politically motivated commune in Germany,Kommune I|K1,Q43229|Q517760,,Kommune 1
+Hallershof,Hallershof,Q1541100,1,0,1,district of Offenhausen (Mittelfranken),,Q253019|Q5084,,
+La Morandière,La Morandière,Q596644,2,0,1,"hamlet in La Morandière-Rochebeaucourt, Quebec, Canada, former municipality","La Morandiere|La Morandière, Quebec",Q27676428|Q5084|Q19730508,,La Morandière
+La Morandière,La Morandière,Q113068078,2,0,1,"post office in La Morandière-Rochebaucourt, Quebec, Canada",La Morandiere,Q35054,,
+La Morandière,La Morandière,Q63243526,2,0,1,"township in Quebec, Canada",La Morandière Township,Q23019040,,
+La Morandière,La Morandière-Rochebaucourt,Q116278192,2,0,1,"municipality in Quebec, Canada","La Morandière-Rochebaucourt, Quebec|La Morandiere-Rochebaucourt",Q27676428,,La Morandière-Rochebaucourt
+La Morandière,La Morandiere,Q61022417,2,0,1,"Meteorological Service of Canada's station for La Morandiere (MSC ID: 7094026), Québec, Canada",,Q190107,,
+La Morandière,La Morandiere,Q131209597,2,0,1,,,Q43229,,
+La Morandière,La Morandiere,Q131259700,2,0,1,,,Q43229,,
+La Morandière,Morandière,Q123906486,2,0,2,family name,,Q101352,,
+La Morandière,Morandière,Q16036134,2,0,2,Wikimedia disambiguation page,,Q4167410,,
+Zayemye,Zayemye,Q4184107,3,0,1,"human settlement in Rostilovskoe municipality, Gryazovetsky District, Vologda Oblast, Russia",,Q5084,,Zayemye
+Karan-Yelga,Karan-Yelga,Q1060264,4,0,1,"human settlement in Gafuriysky District, Republic of Bashkortostan, Russia",,Q5084,,Karan-Yelga
+Karan-Yelga,Karan-Yelga,Q4214061,4,0,1,"human settlement in Chishminsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,"Karan-Yelga, Chishminsky District, Republic of Bashkortostan"
+Karan-Yelga,Karan-Yelga,Q4214059,4,0,1,"human settlement in Tuymazinsky District, Republic of Bashkortostan, Russia",,Q5084|Q192287|Q532,,"Karan-Yelga, Tuymazinsky District, Republic of Bashkortostan"
+Karan-Yelga,Karan,Q4214065,4,0,1,"human settlement in Chekmagushevsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,"Karan, Chekmagushevsky District, Republic of Bashkortostan"
+Karan-Yelga,Karan,Q4214063,4,0,1,"human settlement in Meleuzovsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,"Karan, Meleuzovsky District, Republic of Bashkortostan"
+Karan-Yelga,Karan,Q1067920,4,0,1,"village in Kugarchinsky District, Russia","Karan, Kugarchinsky District, Republic of Bashkortostan",Q532|Q192287,,"Karan, Kugarchinsky District, Republic of Bashkortostan"
+Akkainovo,Akkainovo,Q1053632,5,0,1,"human settlement in Birsky District, Republic of Bashkortostan, Russia",,Q5084,,Akkainovo
+Dvorets,Dvarec,Q3918885,6,0,1,"agrotown in Dziatlava district, Belarus",Dworzec|Dvorets|Dvoretz|Dvorjets|Dvorzhets|Dvarėts|Dvarets,Q1989945,,
+Dvorets,Dvorets,Q4155865,6,0,1,"human settlement in Rostilovskoe municipality, Gryazovetsky District, Vologda Oblast, Russia",,Q5084,,Dvorets
+Dvorets,Putin's Palace,Q104906978,6,0,1,2021 documentary film by the Anti-Corruption Foundation,A Palace for Putin|Palace for Putin|A Palace for Putin: The Story of the Biggest Bribe|Dvorets dlya Putina. Istoriya samoy bolshoy vzyatki|Putin's Palace. History of World's Largest Bribe,Q11424,,Putin's Palace (film)
+Dvorets,Zaudaiivske,Q4188467,6,0,1,"village in Pryluky Raion, Chernihiv Oblast, Ukraine",Dvorets|Zaudayivske,Q21672098,,
+Dvorets,Kropotkinskaya,Q1341676,6,0,1,Moscow Metro station,Kropotkinskaia|Dvorets Sovetov|Dvorets Sovietov,Q928830|Q22808403|Q2319498,,Kropotkinskaya
+Dvorets,Baluan Sholak Palace of Culture and Sports,Q4155969,6,0,1,"multi-ourpose hall and sport arena in Almaty, Kazakhstan",Dvorets Sporta i Kultury imeni Baluana Sholaka,Q1763828|Q483110,,Baluan Sholak Sports Palace
+Dvorets,22249 Dvorets Pionerov,Q2523166,6,0,1,asteroid,Dvorets Pionerov,Q3863,,22249 Dvorets Pionerov
+Dvorets,Joseph Dvoretsky,Q4155979,6,0,1,Soviet philologist and translator (1894-1979),Joseph Khananovich Dvoretsky|Iosif Xananovič Dvoreckij|Iosif Dvoreckij|Dvoretsky Joseph,Q5,,
+Dvorets,Opera and Ballet Samara Academic Theater,Q167201,6,0,1,"opera house in Samara, Russia",Dvorets Kultury im. Kuibisheva|Kuibishev Palace of Culture|Samarsky akademichesky teatr opery i baleta,Q153562|Q1181413|Q2319498,,
+Dvorets,Miners' Palace of Culture,Q1665441,6,0,1,"house of culture in Qaraghandy (Karaganda), Kazakhstan",Dvorets Kultury Shakhterov|Dvorets Kultury Goriyakov,Q1181413,,Miners' Palace of Culture
+Bayazitovo,Bayazitovo,Q3020533,7,0,1,"human settlement in Miyakinsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,"Bayazitovo, Miyakinsky District, Republic of Bashkortostan"
+Bayazitovo,Bayazitovo,Q1051784,7,0,1,"human settlement in Alsheyevsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,Bayazitovo
+Aygildino,Aygildino,Q1057708,8,0,1,"human settlement in Birsky District, Republic of Bashkortostan, Russia",,Q5084,,Aygildino
+Aygildino,Grand Prince of Novgorod,Q110950777,8,0,2,,Prince of Novgorod,Q355567|Q4164871|Q48352,Q116|Q273613,
+Aygildino,Prince of Novgorod,Q2425394,8,0,2,Wikimedia list article,,Q13406463,,Prince of Novgorod
+Aygildino,Prince of Novgorod-Seversk,Q4225021,8,0,2,Wikimedia list article,,Q13406463,,Prince of Novgorod-Seversk
+Ustyugovsky,Ustyugovsky,Q1058148,9,0,1,"human settlement in Republic of Bashkortostan, Russia",,Q5084,,Ustyugovsky
+Sclaigneaux,Sclaigneaux,Q1798674,10,0,1,"hamlet in Andenne, Belgium",,Q5084|Q486972,,
+Sclaigneaux,Sclaigneaux railway station,Q2481140,10,0,1,railway station in Belgium,,Q55488,,
+Sclaigneaux,Sclaigneaux,Q108140988,10,0,1,protected area in Belgium (W-6233),,Q473972,,
+Sclaigneaux,Sclaigneaux-Foresse,Q108139199,10,0,1,protected area in Belgium (W-6688),,Q473972,,
+Bolshoy Ulyk,Bolshoy Ulyk,Q4092904,11,0,1,"human settlement in Chernushinsky District, Perm Krai, Russia",,Q5084,,Bolshoy Ulyk
+Temyan,Temyan,Q3274152,12,0,1,"human settlement in Zaoksky District, Moscow Oblast, Russia",,Q5084,,Temyan
+Temyan,Temyanikovo,Q4454583,12,0,1,"human settlement in Ustyuzhensky District, Vologda Oblast, Russia",,Q5084,,Temyanikovo
+Dundraw,Dundraw,Q980983,13,0,1,"hamlet and civil parish in Cumbria, United Kingdom","Dundraw, Cumbria",Q5084|Q1115575,,Dundraw
+Dundraw,Dundraw Parish Council,Q104391614,13,0,1,UK local authority for the parish of Dundraw,,Q7137435,,
+Dundraw,Dundraw Manor,Q105780089,13,0,1,"former manorial estate in Dundraw (Dundraw and Kelsick), Cumberland",,Q2116450,,
+Zelyony Klin,Zelyony Klin,Q1049455,14,0,1,"human settlement in Alsheyevsky District, Republic of Bashkortostan, Russia",,Q5084,,Zelyony Klin
+Zelyony Klin,Zelenoklinovsky selsoviet,Q4190376,14,0,1,"human settlement in Alsheyevsky District, Republic of Bashkortostan, Russia",Zelyony Klin,Q634099,,
+Zelyony Klin,Zelyony Klin,Q21336365,14,0,1,"human settlement in Volokonovsky District, Belgorod Oblast, Russia",,Q2023000,,"Zelyony Klin, Belgorod Oblast"
+Zelyony Klin,Zelyony Klin,Q4190876,14,0,1,"human settlement in Gordeyevsky District, Bryansk Oblast, Russia",Zeleny Klin|Zelenyi Klin|Zelyonyi Klin,Q2514025|Q532,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Chirkovo,Q3006055,15,0,2,"human settlement in Vysokovskoye, Ust-Kubinsky District, Vologda Oblast, Russia",,Q5084,,"Chirkovo, Ust-Kubinsky District, Vologda Oblast"
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Chirkovo,Q18806422,15,0,2,"human settlement in Kirishsky District, Leningrad Oblast, Russia",,Q5084,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Chirkovo,Q18086387,15,0,2,"human settlement in Kosinsky District, Komi-Permyak Okrug, Russia",,Q5084,,Chirkovo
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast","Chirkovo, Kirillovsky District, Vologda Oblast",Q4516243,15,0,2,"human settlement in Kirillovsky District, Vologda Oblast, Russia",,Q5084,,"Chirkovo, Kirillovsky District, Vologda Oblast"
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Ust-Kubinsky District,Q2217917,15,0,2,"administrative division of Vologda Oblast, Russia",,Q2198484,,Ust-Kubinsky District
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",flag of Ust-Kubinsky District,Q4488198,15,0,2,,Ust-Kubinsky District flag,Q21850100,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q2015,15,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast,Q7940642,15,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,15,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,15,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",history of Vologda Oblast,Q4204582,15,0,2,,Vologda Oblast history,Q17524420,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,15,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,15,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,15,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Chirkovo, Ust-Kubinsky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,15,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,
+Buguruslanovka,Buguruslanovka,Q1070801,16,0,1,"human settlement in Sterlitamaksky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,Buguruslanovka
+Yakty-Yul,Yakty-Yul,Q1051495,17,0,1,"human settlement in Aurgazinsky District, Republic of Bashkortostan, Russia",,Q5084,,Yakty-Yul
+Podlubovo,Podlubovsky selsoviet,Q4367840,18,0,1,"human settlement in Karmaskalinsky District, Republic of Bashkortostan, Russia",Podlubovo,Q634099,,
+Podlubovo,Podlubovo,Q4367841,18,0,1,"human settlement in Karmaskalinsky District, Republic of Bashkortostan, Russia",,Q532|Q192287,,"Podlubovo, Karmaskalinsky District, Republic of Bashkortostan"
+Podlubovo,Podlubovsky selsoviet,Q4367839,18,0,1,"human settlement in Karaidelsky District, Republic of Bashkortostan, Russia",Podlubovo,Q634099,,
+Podlubovo,Podlubovo,Q1065868,18,0,1,"human settlement in Karaidelsky District, Republic of Bashkortostan, Russia",,Q5084,,Podlubovo
+Akishevo,Akishevo,Q4059594,19,0,1,"human settlement in Guli, Belozersky District, Vologda Oblast, Russia",,Q5084|Q532,,Akishevo
+Akishevo,Akishevo,Q20636139,19,0,1,"human settlement in Kineshemsky District, Ivanovo Oblast, Russia",,Q5084|Q532,,"Akishevo, Ivanovo Oblast"
+Makhmutovo,Makhmutovo,Q1069386,20,0,1,"human settlement in Salavatsky District, Republic of Bashkortostan, Russia",,Q5084,,"Makhmutovo, Salavatsky District, Republic of Bashkortostan"
+Makhmutovo,Makhmutovo,Q1050162,20,0,1,"human settlement in Abzelilovsky District, Republic of Bashkortostan, Russia",,Q5084,,Makhmutovo
+Makhmutovo,Makhmutovo,Q1055696,20,0,1,"human settlement in Beloretsky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,"Makhmutovo, Beloretsky District, Republic of Bashkortostan"
+Bishnarat,Bishnarat,Q1060662,21,0,1,"human settlement in Dyurtyulinsky District, Republic of Bashkortostan, Russia",,Q5084,,Bishnarat
+Dorkovo,Dorkovo,Q2014051,22,0,1,"village in Rakitovo municipality, Pazardzhik oblast, Bulgaria",,Q15630849|Q4224624,,Dorkovo
+Dorkovo,Dorkovo,Q4166649,22,0,1,"human settlement in Vologodsky District, Vologda Oblast, Russia",,Q5084,,"Dorkovo, Vologda Oblast"
+Dorkovo,Dorkovo Museum,Q20499537,22,0,1,"paleontology museum about the Pliocene epoch in Pazardzhik Province, Bulgaria",,Q33506,,Dorkovo Museum
+Dorkovo,Dorkovo,Q31483225,22,0,1,human settlement in Russia,,Q532,,
+Dorkovo,Dorkovo,Q29460710,22,0,1,Wikimedia disambiguation page,,Q4167410,,
+Ilyinsky,Ilyinsky,Q15617070,23,0,1,family name (Ильинский),Ilyinsky (surname),Q101352|Q18972245,,Ilyinsky (surname)
+Ilyinsky,Ilyinskoye rural settlement,Q4199789,23,0,1,"human settlement in Olonetsky District, Republic of Karelia, Russia",Ilyinskoye selskoye poseleniye|Ilyinsky rural settlement|Ilyinsky,Q634099,,
+Ilyinsky,Ilyinsky,Q2949953,23,0,1,"human settlement in Ilyinsky District, Perm Krai, Perm Krai, Russia",,Q2514025|Q532|Q15078955,,"Ilyinsky, Perm Krai"
+Ilyinsky,Ilyinsky,Q4199721,23,0,1,"human settlement in Olonetsky District, Republic of Karelia, Russia",Alavoine|Ilyinskiy,Q2514025,,"Ilyinsky, Republic of Karelia"
+Ilyinsky,Ilyinsky,Q774684,23,0,1,"human settlement in Ramensky District, Moscow Oblast, Russia",,Q20019082,,"Ilyinsky, Moscow Oblast"
+Ilyinsky,Ilyinsky,Q1058064,23,0,1,"human settlement in Republic of Bashkortostan, Russia",,Q5084,,"Ilyinsky, Republic of Bashkortostan"
+Ilyinsky,Ilyinsky District,Q1774547,23,0,1,"district in Ivanovo Oblast, Russia","Ilyinsky District, Ivanovo Oblast",Q2198484|Q12357832,,"Ilyinsky District, Ivanovo Oblast"
+Ilyinsky,Ilyinsky,Q2593019,23,0,1,stratovolcano on the southern part of the Kamchatka peninsula,Ilyinskaya Sopka,Q8072,,Ilyinsky (volcano)
+Ilyinsky,Kazachy,Q4208172,23,0,1,island near the city of Saratov in Russia,Ilyinsky,Q23442,,
+Ilyinsky,Ilyinsky,Q36356602,23,0,1,river in Russia,,Q4022,,
+Ilyinsky,Ilyinsky bridge (Novokuznetsk),Q4199730,23,0,2,bridge in Russia,,Q12280,,
+Ilyinsky,Ilyinsky District,Q1029023,23,0,2,municipal district in Russia,"Ilyinsky District, Perm Krai",Q2198484,,"Ilyinsky District, Perm Krai"
+Ilyinsky,flag of Ilyinsky District,Q15963134,23,0,2,,Ilyinsky District flag,Q21850100,,
+Ilyinsky,flag of Ilyinsky District,Q4486295,23,0,2,,Ilyinsky District flag,Q21850100,,
+Ilyinsky,Ilyinsky District,Q3792529,23,0,2,Wikimedia disambiguation page,,Q4167410,,Ilyinsky District
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Doroninskaya,Q4166926,24,0,2,"human settlement in Verkhovazhsky District, Vologda Oblast, Russia",,Q5084,,Doroninskaya
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Doroninskaya,Q4166927,24,0,2,"human settlement in Verkhovskaya, Tarnogsky District, Vologda Oblast, Russia",,Q5084,,"Doroninskaya, Tarnogsky District, Vologda Oblast"
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Doroninskaya Lesnaya Dacha,Q37783735,24,0,2,,,Q4421,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Tarnogsky District,Q2627848,24,0,2,human settlement in Russia,,Q2198484,,Tarnogsky District
+"Doroninskaya, Tarnogsky District, Vologda Oblast",flag of Tarnogsky District,Q4488034,24,0,2,,Tarnogsky District flag,Q21850100,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Vologda Oblast,Q2015,24,0,2,federal subject of Russia,,Q835714|Q43263,,Vologda Oblast
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Vologda Oblast,Q7940642,24,0,2,region of the Russian Empire (1780–1796),,Q7075127,,"Vologda Oblast, Russian Empire"
+"Doroninskaya, Tarnogsky District, Vologda Oblast",WikiProject Populated places of Russia/Vologda Oblast,Q135216379,24,0,2,sub-project of WikiProject Populated places of Russia,WikiProject Vologda Oblast|Vologda Oblast,Q110059964,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Legislative Assembly of Vologda Oblast,Q4184897,24,0,2,"regional parliament of Vologda Oblast, Russia",Vologda Oblast Legislative Assembly,Q11204|Q4345591,,Legislative Assembly of Vologda Oblast
+"Doroninskaya, Tarnogsky District, Vologda Oblast",history of Vologda Oblast,Q4204582,24,0,2,,Vologda Oblast history,Q17524420,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",flag of Vologda Oblast,Q2621952,24,0,2,regional flag of Russia,Vologda Oblast flag,Q22807280,,Flag of Vologda Oblast
+"Doroninskaya, Tarnogsky District, Vologda Oblast",coat of arms of Vologda Oblast,Q1967406,24,0,2,regional coat of arms of Russia,Vologda Oblast coat of arms,Q14659,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",2020 COVID-19 pandemic in Vologda Oblast,Q89271570,24,0,2,,"2020 coronavirus outbreak in Vologda Oblast|2020 Vologda Oblast COVID-19 pandemic|Vologda Oblast COVID-19 pandemic|2020 COVID pandemic in Vologda Oblast|2020 COVID-19 pandemic in Vologda Oblast, Russia|COVID-19 pandemic in Vologda Oblast, Russia",Q3241045,,
+"Doroninskaya, Tarnogsky District, Vologda Oblast",Vologda Oblast football championship,Q48942031,24,0,2,Russian amateur association football tournament,,Q116055395,Q16718172,

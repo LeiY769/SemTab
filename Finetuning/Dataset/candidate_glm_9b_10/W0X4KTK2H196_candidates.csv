@@ -1,0 +1,78 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+NSVS 1701206,NSVS 1701206,Q86368612,0,0,1,,,Q72534536|Q67206691,,
+[HSP2011] 071,[HSP2011] 071,Q80896648,1,0,1,,,Q72534536|Q523,,
+[HSP2011] 071,UQCR11,Q18035995,1,0,2,protein-coding gene in the species Homo sapiens,"0710008D09Rik|QCR10|UQCR|ubiquinol-cytochrome c reductase, complex III subunit XI",Q7187,Q20747295,UQCR11
+[HSP2011] 071,0711/Cycling,Q15850227,1,0,2,cycling team (2013-),,Q20639848|Q1756006|Q20639848,,0711 Cycling
+[HSP2011] 071,071,Q3596615,1,0,2,,,Q11480109,,
+[HSP2011] 071,0711/Cycling 2017,Q28653777,1,0,2,,CYC 2017,Q53534649,,
+[HSP2011] 071,Npy,Q14864370,1,0,2,protein-coding gene in the species Mus musculus,neuropeptide Y|0710005A05Rik,Q7187,Q20747295,
+[HSP2011] 071,Sdhb,Q14916126,1,0,2,protein-coding gene in the species Mus musculus,"succinate dehydrogenase complex, subunit B, iron sulfur (Ip)|0710008N11Rik",Q7187,Q20747295,
+[HSP2011] 071,Nrn1,Q18263170,1,0,2,protein-coding gene in the species Mus musculus,0710008J23Rik|Cpg15|Nrn|neuritin 1,Q7187,Q20747295,
+[HSP2011] 071,Grm3,Q18272875,1,0,2,protein-coding gene in the species Mus musculus,"0710001G23Rik|Gprc1c|mGlu3|mGluR3|glutamate receptor, metabotropic 3",Q7187,Q20747295,
+[HSP2011] 071,Nrgn,Q18261391,1,0,2,protein-coding gene in the species Mus musculus,0710001B06Rik|AI838505|NG|NG/RC3|Pss1|R75334|RC3|neurogranin,Q7187,Q20747295,
+[HSP2011] 071,0718,Q60646616,1,0,2,fictional character,Science Officer 0718,Q22074483|Q15773317,,
+[SS2011] W4,[SS2011] W4,Q84145148,2,0,1,,,Q72534536,,
+HD 287039,HD 287039,Q80297032,3,0,1,,,Q72534536,,
+V743 Andromedae,V743 Andromedae,Q80460528,4,0,1,,,Q1457376|Q523|Q72534536,,
+V743 Andromedae,Andromeda,Q9256,4,0,2,constellation in the northern celestial hemisphere,And|Andromedae|Andromeda (constellation),Q8928,,Andromeda (constellation)
+V743 Andromedae,Andromedae (K3 III):an IRAS source with an unusual ultraviolet spectrum*,Q29039127,4,0,2,scientific article (publication date: 1987),,Q13442814,,
+V743 Andromedae,Andromeda,Q102897,4,0,2,Wikimedia disambiguation page,,Q4167410,,Andromeda
+V743 Andromedae,V743 Cassiopeiae,Q66497429,4,0,2,variable star in the constellation Cassiopeia,,Q1153690|Q67206691|Q5898,,
+V743 Andromedae,V743 Herculis,Q78262705,4,0,2,RR Lyrae variable star in the constellation Hercules,,Q726242|Q67206785,,
+V743 Andromedae,V* V743 Cep,Q74332170,4,0,2,Algol variable in the constellation Cepheus,,Q1457376|Q67206691|Q67206785,,
+V743 Andromedae,HD 50138,Q55662691,4,0,2,variable star,,Q1044693|Q6243|Q67206691|Q72803622,,HD 50138
+V743 Andromedae,V* V743 Oph,Q86407924,4,0,2,RR Lyrae variable star in the constellation Ophiuchus,,Q726242|Q523,,
+V743 Andromedae,V* V743 Per,Q86688690,4,0,2,long period variable,,Q1153690|Q523,,
+V743 Andromedae,V* V743 Tau,Q83178260,4,0,2,,,Q1362543|Q67206785,,
+V743 Andromedae,V* V743 Cen,Q76350252,4,0,2,Delta Scuti variable star in the constellation Centaurus,,Q836976|Q726242,,
+V743 Andromedae,V* V743 Car,Q77596158,4,0,2,Algol variable in the constellation Carina,,Q1457376|Q67206785,,
+KIC 60024523,KIC 60024523,Q76077863,5,0,1,,,Q72534536,,
+MT Andromedae,MT Andromedae,Q74025977,6,0,1,,,Q1457376|Q72534536|Q67206785,,
+MT Andromedae,Andromeda,Q9256,6,0,2,constellation in the northern celestial hemisphere,And|Andromedae|Andromeda (constellation),Q8928,,Andromeda (constellation)
+MT Andromedae,Andromedae (K3 III):an IRAS source with an unusual ultraviolet spectrum*,Q29039127,6,0,2,scientific article (publication date: 1987),,Q13442814,,
+MT Andromedae,Andromeda,Q102897,6,0,2,Wikimedia disambiguation page,,Q4167410,,Andromeda
+OS Aquarii,OS Aquarii,Q88006583,7,0,1,eclipsing binary star in the constellation Aquarius,,Q1457376|Q72534536|Q67206785,,
+OS Aquarii,Aquarius,Q10576,7,0,2,zodiac constellation straddling the celestial equator,Aqr,Q8928|Q4193029,,Aquarius (constellation)
+OS Aquarii,Aquarii (Pauly-Wissowa),Q19990853,7,0,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+OS Aquarii,Aquarii,Q4782744,7,0,2,ancient Christian sect,,Q19097,,Aquarii
+OS Aquarii,OYO 19860 Aquarii,Q111052479,7,0,2,"hotel in Goa, India",Aquarii,Q27686,,
+OS Aquarii,Aquarii,Q134631263,7,0,2,,,Q43229,,
+OS Aquarii,"Aquariibacter albus gen. nov., sp. nov., a new member of the order Burkholderiales, isolated from a freshwater aquarium",Q110531053,7,0,2,scientific article published in 2021,,Q13442814,,
+OS Aquarii,Aquariids,Q4782743,7,0,2,Wikimedia disambiguation page,,Q4167410,,Aquariids
+OS Aquarii,Aquariiden,Q59183329,7,0,2,Wikimedia disambiguation page,,Q4167410,,
+V* V596 Lac,V* V596 Lac,Q97059200,8,0,1,eclipsing binary star,,Q1457376|Q72534536,,
+V* V596 Lac,General Catalogue of Variable Stars,Q222662,8,0,2,astronomical catalogue of variable stars,GCVS|V* Catalogue,Q850950,,General Catalogue of Variable Stars
+V* V596 Lac,Delta Crucis,Q333243,8,0,2,star in the constellation Crux,Imai|del Cru|V* del Cru|HD 106490|GCRV 7332|HR 4656|HIC 59747|HIP 59747|δ Crucis|δ Cru|ROT 1792|NSV 5510,Q523|Q6243|Q353834|Q764463|Q67206691|Q67206785|Q71798788,,Delta Crucis
+V* V596 Lac,V624 Herculis,Q6770161,8,0,2,,HD 161321|V624 Her|V* V624 Her|HIP 86809|HIC 86809|HR 6611|Renson 45460|GCRV 10253,Q1993624|Q1457376|Q13890|Q67206785|Q71798788|Q523|Q1142192|Q451152|Q6243,,
+V* V596 Lac,Proxima Centauri,Q14266,8,0,2,star in Centaurus constellation,α Cen C|Alpha Centauri C|Proxima|α Centauri C|Proxima Cen|GJ 551|LHS 49|NLTT 37460|PLX 3278|LFT 1110|LPM 526|LTT 5721|TIC 388857263|TIC 1019422535|V645 Cen|V645 Centauri|HIC 70890|HIP 70890|CSV 2142,Q285400|Q5893|Q67206691|Q2154519|Q2247863|Q71798788|Q1362543|Q13890|Q67206785|Q2168098|Q6243|Q523|Q878367,,Proxima Centauri
+V* V596 Lac,V451 Herculis,Q6770252,8,0,2,star,HD 153882|V451 Her|V* V451 Her|HIP 83308|HIC 83308|HR 6326|Renson 43450|DS 10310 A|GC 22960|GCRV 9815,Q6243|Q1141942|Q13890|Q67206785|Q71798788|Q523|Q2168098|Q1142192|Q616386,,
+V* V596 Lac,Polaris,Q12980,8,0,2,brightest star in the constellation Ursa Minor,Alpha Ursae Minoris|α Ursae Minoris|North Star|North pole star|Pole star|Polestar|Stella Polaris|Pole-star|Northern Star|* alf UMi|α UMi|1 Ursae Minoris|1 UMi|** WRH 39|alf UMi|ROT 3491|SAO 138|V* alf UMi|HIC 11767|HIP 11767|HR 424|PPM 431,Q995268|Q2088753|Q10451997|Q662656|Q1547772|Q67206691|Q67206785|Q71798788|Q523|Q13890|Q1993624|Q6243,,Polaris
+V* V596 Lac,AB Doradus B,Q89986655,8,0,2,,V* AB Dor B|HBC 434|AB Dor B|** RST 137B|** CLO 10B|CLO 10B|RST 137B,Q13890|Q72803622|Q2247863|Q67206785|Q6243|Q523,,
+V* V596 Lac,V* V884 Ori,Q79282935,8,0,2,,V* V885 Ori,Q1352333|Q72803622|Q285400,,
+V* V596 Lac,CW Leonis,Q81641823,8,0,2,star in the constellation Leo,CW Leo|LEDA 1427054|CGCS 2619|Peanut Nebula|Zel 0945+135|TIC 258671744|RAFGL 1381|SCM 50|PN G221.4+45.0|LINEAR 17154286,Q523|Q130019|Q6243|Q1153690|Q744691|Q1931185|Q67201574|Q67206691|Q318|Q67206785|Q13632|Q353834,,CW Leonis
+V* V596 Lac,V771 Herculis,Q6770123,8,0,2,star in the constellation Hercules,V771 Her|HD 164429|V* V771 Her|HIP 88030|HIC 88030|GCRV 10432|ROT 2522|Renson 46480|NSV 9958,Q523|Q6243|Q1141942|Q67206785|Q71798788|Q2168098|Q1142192|Q616386,,
+V* V596 Lac,road V596,Q115214421,8,0,2,local road in Latvia,V596,Q34442,,
+V* V596 Lac,V596 Puppis,Q6158320,8,0,2,Variable star in the constellation Puppis,,Q6999|Q13890|Q24452|Q1993624|Q67206691,,
+V* V596 Lac,V596 Aurigae,Q86191130,8,0,2,eclipsing binary star in the constellation Auriga,,Q1457376|Q72534536|Q67206785,,
+V* V596 Lac,V596 Virginis,Q93508281,8,0,2,RR Lyrae variable star in the constellation Virgo,,Q726242|Q72803426|Q318|Q67206785|Q71798532,,
+V* V596 Lac,V596 Andromedae,Q74045770,8,0,2,long-period variable star in the constellation Andromeda,,Q1153690|Q67206785|Q1993624,,
+V* V596 Lac,Ross 15,Q6158318,8,0,2,variable star,,Q6243|Q285400|Q67206691|Q2154519|Q2247863|Q72803622,,
+V* V596 Lac,V* V596 Sgr,Q74999903,8,0,2,Mira variable star in the constellation Sagittarius,,Q744691,,
+V* V596 Lac,UCAC4 751-029627,Q77963414,8,0,2,,,Q830831,,
+V* V596 Lac,V* V596 Oph,Q86921818,8,0,2,Mira variable star in the constellation Ophiuchus,,Q744691,,
+V* V596 Lac,V* V596 CrA,Q74754734,8,0,2,RR Lyrae variable star in the constellation Corona Australis,,Q726242|Q67206785|Q6243,,
+V622 Hydrae,V622 Hydrae,Q85288236,9,0,1,eclipsing binary star in the constellation Hydra,,Q1457376|Q523|Q72534536,,
+NSVS 8545410,NSVS 8545410,Q88889644,10,0,1,,,Q72534536|Q67206691,,
+WVSC 173,WVSC 173,Q78756790,11,0,1,,,Q72534536|Q523,,
+WVSC 173,West Virginia State University,Q7986919,11,0,2,"public, historically black, land-grant university in Institute, West Virginia",WVSU|West Virginia State|West Virginia State College|wvstateu.edu,Q875538|Q615150|Q1620945|Q23002039,,West Virginia State University
+WVSC 173,West Virginia State Yellow Jackets,Q18394833,11,0,2,collegiate sports club in the United States,West Virginia State University athletics,Q2367225,,West Virginia State Yellow Jackets
+WVSC 173,West Virginia State University Bookstore,Q99433684,11,0,2,"bookstore in Institute, WV, United States of America",,Q200764,,
+WVSC 173,Plaza Theatre,Q7203655,11,0,2,"theater in Charleston, West Virginia, United States",Capitol Theater|West Virginia State University Capitol Center|Plaza Theater|Capitol Plaza Theater|Capitol Center,Q24354|Q41253,,"Plaza Theatre (Charleston, West Virginia)"
+WVSC 173,West Virginia State University Department of Biology,Q101022362,11,0,2,academic department,,Q2467461,,
+IZ Geminorum,IZ Geminorum,Q78942181,12,0,1,Algol variable in the constellation Gemini,,Q523|Q1457376|Q72534536|Q67206785,,
+WVSC 115,WVSC 115,Q78756478,13,0,1,,,Q72534536|Q523,,
+WVSC 115,West Virginia State University,Q7986919,13,0,2,"public, historically black, land-grant university in Institute, West Virginia",WVSU|West Virginia State|West Virginia State College|wvstateu.edu,Q875538|Q615150|Q1620945|Q23002039,,West Virginia State University
+WVSC 115,West Virginia State Yellow Jackets,Q18394833,13,0,2,collegiate sports club in the United States,West Virginia State University athletics,Q2367225,,West Virginia State Yellow Jackets
+WVSC 115,West Virginia State University Bookstore,Q99433684,13,0,2,"bookstore in Institute, WV, United States of America",,Q200764,,
+WVSC 115,Plaza Theatre,Q7203655,13,0,2,"theater in Charleston, West Virginia, United States",Capitol Theater|West Virginia State University Capitol Center|Plaza Theater|Capitol Plaza Theater|Capitol Center,Q24354|Q41253,,"Plaza Theatre (Charleston, West Virginia)"
+WVSC 115,West Virginia State University Department of Biology,Q101022362,13,0,2,academic department,,Q2467461,,

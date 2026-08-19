@@ -1,0 +1,45 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2007mc,SN 2007mc,Q9330621,0,0,1,supernova,,Q3937,,
+SN 2007mb,SN 2007mb,Q9330619,1,0,1,supernova,,Q3937|Q67206691,,
+SN 2007lz,SN 2007lz,Q9330618,2,0,1,supernova,,Q3937,,
+SN 2007ma,SN 2007ma,Q9330617,3,0,1,supernova,,Q3937|Q67206691,,
+SN 2007ly,SN 2007ly,Q9330616,4,0,1,supernova,,Q3937|Q67206691,,
+SN 2007lx,SN 2007lx,Q9330615,5,0,1,supernova,,Q3937,,
+SN 2007lx,216295 Menorca,Q29561101,5,0,2,asteroid,2007 LX14|Menorca,Q3863,,216295 Menorca
+SN 2007lx,207899 Grinmalia,Q6408951,5,0,2,asteroid,Grinmalia,Q3863,,207899 Grinmalia
+SN 2007lx,SN 2007on,Q4048839,5,0,2,supernova,,Q3937,,SN 2007on
+SN 2007lx,SN 2007af,Q4048837,5,0,2,supernova,,Q3937,,
+SN 2007lx,SN 2007gk,Q4048838,5,0,2,supernova,,Q3937,,
+SN 2007lx,SN 2007co,Q4048836,5,0,2,supernova,,Q3937,,
+SN 2007lx,SN 2007ck,Q4048835,5,0,2,supernova,,Q3937,,
+SN 2007lx,SN 2007uy,Q1064704,5,0,2,supernova,,Q3937,,SN 2007uy
+SN 2007lx,SN 2007sr,Q4816869,5,0,2,supernova,,Q3937,,SN 2007sr
+SN 2007lx,SN 2007rt,Q9330769,5,0,2,supernova,,Q3937,,
+SN 2007lx,SN 2007bi,Q606167,5,0,2,supernova in the constellation Virgo,,Q3937,,SN 2007bi
+SN 2007lx,SN 2007ja,Q9330540,5,0,2,supernova,,Q3937,,
+SN 2007lw,SN 2007lw,Q9330614,6,0,1,supernova,,Q3937,,
+SN 2007lt,SN 2007lt,Q9330612,7,0,1,supernova,,Q3937,,
+SN 2007lt,supernova,Q3937,7,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2007lt,Senegal,Q1041,7,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2007lt,substantia nigra,Q753278,7,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2007lt,tin,Q1096,7,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2007lt,Great Norwegian Encyclopedia,Q746368,7,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2007lt,snowboarding,Q178131,7,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2007lt,SNAC,Q29861311,7,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2007lt,Science News,Q2313730,7,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2007lt,Shona Wikipedia,Q8571809,7,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2007lt,SciGraph,Q65509402,7,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2007lu,SN 2007lu,Q9330611,8,0,1,supernova,,Q3937,,
+SN 2007ls,SN 2007ls,Q9330610,9,0,1,supernova,,Q3937,,
+SN 2007lq,SN 2007lq,Q9330609,10,0,1,supernova,,Q3937|Q67206691,,
+SN 2007lr,SN 2007lr,Q9330608,11,0,1,supernova,,Q3937|Q67206691,,
+SN 2007lr,SN 2006gy,Q644956,11,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2007lr,SN 2006X,Q2659966,11,0,2,supernova,,Q3937,,SN 2006X
+SN 2007lr,SN 2005cs,Q597168,11,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2007lr,SN 2006jc,Q1747732,11,0,2,supernova,,Q3937,,SN 2006jc
+SN 2007lr,SN 2002cx,Q7391949,11,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2007lr,SN 2004et,Q9329248,11,0,2,supernova,,Q3937,,SN 2004et
+SN 2007lr,SN 2006rs,Q9330210,11,0,2,supernova,,Q3937,,
+SN 2007lr,SN 2008cs,Q9330949,11,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2007lr,SN 2002dj,Q9328532,11,0,2,supernova,,Q3937,,
+SN 2007lr,SN 2006td,Q9330246,11,0,2,supernova,,Q3937,,

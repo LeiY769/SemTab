@@ -1,0 +1,87 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+iPTF14gtb,iPTF14hls,Q42887016,0,0,2,supernova,CSS141118:092034+504148|CRTS CSS141118 J092034+504148,Q3937|Q2680861,,IPTF14hls
+iPTF14gtb,iPTF14yb: THE FIRST DISCOVERY OF A GAMMA-RAY BURST AFTERGLOW INDEPENDENT OF A HIGH-ENERGY TRIGGER,Q59645052,0,0,2,,,Q13442814,,
+iPTF14gtb,iPTF14yb: RATIR optical and NIR observations of the optical transient,Q68405106,0,0,2,scientific article,,Q13442814,,
+iPTF14gtb,iPTF14yb: iPTF discovery of an optical afterglow-like transient,Q68668553,0,0,2,scientific article,,Q13442814,,
+iPTF14gtb,iPTF14yb: JVLA and CARMA observations,Q68668018,0,0,2,scholarly article,,Q13442814,,
+iPTF14gtb,iPTF14yb: Swift-XRT detection,Q68668222,0,0,2,,,Q13442814,,
+N 2018aus,,,1,0,0,,,,,
+S#1966K,,,2,0,0,,,,,
+SN 1995a,SN 1995A,Q9327234,3,0,1,supernova,,Q3937|Q67206691,,
+SN 1995a,SN 1995al,Q4048826,3,0,1,supernova,,Q3937|Q6243,,
+SN 1995a,SN 1995ac,Q9327262,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995ae,Q9327265,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995ab,Q11835527,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995am,Q9327271,3,0,1,supernova,,Q3937|Q67206691,,
+SN 1995a,SN 1995au,Q9327280,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995az,Q9327285,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995an,Q9327273,3,0,1,supernova,,Q3937,,
+SN 1995a,SN 1995ay,Q9327283,3,0,1,supernova,,Q3937,,
+SN 1995a,minor planet,Q1022867,3,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1995a,Minor Planet Center database,Q106600690,3,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1995a,Minor Planet Center,Q522039,3,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1995a,minor planet moon,Q657829,3,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1995a,Minor Planet Circulars,Q6382430,3,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1995a,minor planet group,Q2332332,3,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1995a,list of minor planets,Q37651,3,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1995a,Minor planet designation,Q817125,3,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1995a,Minor Planet Bulletin,Q6869125,3,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1995a,Minor Planet Catalogue,Q55178248,3,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1995a,asteroid,Q3863,3,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1995a,asteroid belt,Q2179,3,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1995a,Asteroid,Q4810751,3,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1995a,Asteroid,Q113629153,3,0,2,early access video game,,Q7889,,
+SN 1995a,starfish,Q25349,3,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1995a,Asteroid,Q132852203,3,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1995a,Asteroideae,Q21004,3,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1995a,Asteroids,Q748890,3,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1995a,Asteroid Terrestrial-impact Last Alert System,Q17002475,3,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1995a,Vesta,Q3030,3,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 1995a,A catalog of far-ultraviolet point sources detected with the FAUST telescope on Atlas-1,Q68124363,3,0,2,scientific article published in 1995,FAUST|1995ApJS...96..461B,Q13442814|Q605175,,
+SN 1995a,"The Henry Draper Extension Charts: A catalogue of accurate positions, proper motions, magnitudes and spectral types of 86933 stars",Q66617717,3,0,2,,1995A&AS..110..367N,Q13442814,,
+SN 1995a,Vitesses radiales. Catalogue WEB: Wilson Evans Batten. Radial velocities: The Wilson-Evans-Batten catalogue,Q66617723,3,0,2,scientific article from 'Astronomy and Astrophysics' published in December 1995,WEB,Q13442814|Q605175,,
+SN 1995a,The Relation between Rotational Velocities and Spectral Peculiarities among A-Type Stars,Q29037620,3,0,2,scientific article published in 'The Astrophysical Journal Supplement Series' in July 1995,1995ApJS...99..135A,Q13442814,,
+SN 1995a,Mesures de vitesses radiales. VII. Accompagnement au sol du programme d'observation du satellite Hipparcos. Radial velocities. VII. Ground based measurements for Hipparcos,Q66617714,3,0,2,,1995A&AS..110..177D,Q13442814,,
+SN 1995a,"The determination of T_eff_ of B, A and F main sequence stars from the continuum between 3200 A and 3600 A.",Q66424387,3,0,2,scientific article published in January 1995,"1995A&AS..110..553S|The determination of T_eff_ of B, A and F main sequence stars from the continuum between 3200 A and 3600 A",Q13442814,,
+SN 1995a,Moderate-resolution spectral standards from lambda-5600 to lambda-9000 Angstroms,Q66649226,3,0,2,scientific article published in January 1995,1995AJ....109.1379A,Q13442814,,
+SN 1995a,Chemical Abundances for Very Strong-Lined Giants,Q56674415,3,0,2,scientific article published in Astronomical Journal,1995AJ....110.2968L,Q13442814,,
+SN 1995a,The Palomar/MSU Nearby-Star Spectroscopic Survey. I. The Northern M Dwarfs -Bandstrengths and Kinematics,Q59766864,3,0,2,scientific article published in Astronomical Journal,1995AJ....110.1838R,Q13442814,,
+SN 1995a,Chemical Abundances for F and G Luminosity Class II Stars,Q29031846,3,0,2,scientific article (publication date: November 1995),1995AJ....110.2425L,Q13442814,,
+SN 915A,,,4,0,0,,,,,
+SN 2981K,,,5,0,0,,,,,
+S 201bw,,,6,0,0,,,,,
+SN 2029fc,,,7,0,0,,,,,
+N#1997P,,,8,0,0,,,,,
+SN 208hw,,,9,0,0,,,,,
+SN K0905-012,,,10,0,0,,,,,
+SN2003fy,SN 2003fy,Q9328939,11,0,2,supernova,,Q3937,,
+SN 009mn,,,12,0,0,,,,,
+PTF 11osl,,,13,0,0,,,,,
+SN 1999dj,SN 1999dj,Q9327826,14,0,1,supernova,,Q3937,,
+SN 1999dj,minor planet,Q1022867,14,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1999dj,Minor Planet Center database,Q106600690,14,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1999dj,Minor Planet Center,Q522039,14,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1999dj,minor planet moon,Q657829,14,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1999dj,Minor Planet Circulars,Q6382430,14,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1999dj,minor planet group,Q2332332,14,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1999dj,list of minor planets,Q37651,14,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1999dj,Minor planet designation,Q817125,14,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1999dj,Minor Planet Bulletin,Q6869125,14,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1999dj,Minor Planet Catalogue,Q55178248,14,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1999dj,asteroid,Q3863,14,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1999dj,asteroid belt,Q2179,14,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1999dj,Asteroid,Q4810751,14,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1999dj,Asteroid,Q113629153,14,0,2,early access video game,,Q7889,,
+SN 1999dj,starfish,Q25349,14,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1999dj,Asteroid,Q132852203,14,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1999dj,Asteroideae,Q21004,14,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1999dj,Asteroids,Q748890,14,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1999dj,Asteroid Terrestrial-impact Last Alert System,Q17002475,14,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1999dj,Vesta,Q3030,14,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 2305dg,,,15,0,0,,,,,
+SN 200mi,,,16,0,0,,,,,
+SN 2014v,SN 2014V,Q85529919,17,0,1,supernova in the constellation Crater,,Q3937,,
+RTS CSS100910 J00159+271250,,,18,0,0,,,,,
+SN 203fz,,,19,0,0,,,,,
+SNHlTS 15bd,15BD  (BRIN-nummer),Q22748746,20,0,2,primary school,,Q9842,,
+[RRS2014] EGS13Xai,,,21,0,0,,,,,

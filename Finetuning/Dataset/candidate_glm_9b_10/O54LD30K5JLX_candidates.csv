@@ -1,0 +1,366 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Daucus littoralis,Daucus littoralis,Q12205358,0,0,1,species of plant,,Q16521,,
+Daucus littoralis,Daucus littoralis,Q52514283,0,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Daucus littoralis,Daucus littoralis,Q52557819,0,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Daucus littoralis,Daucus littoralis var. glabra,Q98136786,0,0,1,,,Q16521,,
+Daucus littoralis,Daucus littoralis var. negevensis,Q110312266,0,0,1,,,Q16521,,
+Daucus littoralis,Daucus carota,Q30056,0,0,2,species of plant,Bird's nest|bishop's lace|Queen Anne's lace|Devil’s Plague|wild carrot,Q16521,Q189774|Q123663447|Q11992872,Daucus carota
+Daucus littoralis,Daucus carota subsp. carota,Q163961,0,0,2,subspecies of plant,Wild Carrot|mrkev obecná pravá,Q16521,Q128554631,
+Daucus littoralis,Daucus carota subsp. sativus,Q11678009,0,0,2,subspecies of plant,Daucus carota sativus|Daucus carota ssp. sativus|carrot,Q16521,Q11992872,Daucus carota subsp. sativus
+Daucus littoralis,Daucus carota subsp. maximus,Q12404899,0,0,2,subspecies of plant,,Q16521,,
+Daucus littoralis,Daucus carota var. atrorubens,Q11767451,0,0,2,variety of plant,black carrot,Q16521,,
+Daucus littoralis,Daucus carota subsp. gummifer,Q20053655,0,0,2,subspecies of plant,Sea Carrot,Q16521,,
+Daucus littoralis,Daucus carota var. sativus,Q20631162,0,0,2,variety of plants,,Q16521,,
+Daucus littoralis,Daucus carota subsp. azoricus,Q19705344,0,0,2,subspecies of plant,,Q16521,,
+Daucus littoralis,Daucus carota subsp. halophilus,Q20053656,0,0,2,subspecies of plant,,Q16521,,
+Daucus littoralis,Daucus carota subsp. commutatus,Q106421208,0,0,2,,,Q16521,,
+Daucus littoralis,Daucus,Q27949,0,0,2,genus of plants,,Q16521,,Daucus
+Daucus littoralis,Daucus glaber,Q17131875,0,0,2,species of plant,,Q16521,,
+Daucus littoralis,Daucus decipiens,Q42684569,0,0,2,species of plant,,Q16521,,Daucus decipiens
+Daucus littoralis,Daucus,Q108503853,0,0,2,father of Larides and Thymber,,Q124940323,,
+Daucus littoralis,Daucus rouyi,Q42684669,0,0,2,species of plant,,Q16521,,
+Daucus littoralis,Daucus glochidiatus,Q5227833,0,0,2,species of plant,,Q16521,,Daucus glochidiatus
+Daucus littoralis,Daucus guttatus,Q1172812,0,0,2,species of plant,,Q16521,,
+Daucus littoralis,Wild Carrot,Q8000571,0,0,2,band,,Q215380,,Wild Carrot (band)
+Daucus littoralis,wild carrot,Q123663529,0,0,2,"taproot vegetable of plant known as a ""wild carrot"" For domesticated carrots use Q81",wild carrot taproot|carrot,Q11004|Q502895,Q609336|Q81,
+Daucus littoralis,wild carrot plant,Q128554631,0,0,2,plant commonly known as wild carrot,wild carrot,Q55983715,Q123663447,
+Daucus littoralis,Wild Carrot Spring,Q49740614,0,0,2,,,Q124714,,
+Daucus littoralis,Wild Carrot Letterpress,Q138380040,0,0,2,press founded in 1981,,Q748822,,
+Daucus littoralis,wild carrot seed,Q139023906,0,0,2,seed of Daucus carota,Daucus carota seed,Q735160,Q40763,
+Daucus littoralis,Wild Carrot Differentiation in Europe and Selection at DcAOX1 Gene?,Q36170821,0,0,2,scientific article,,Q13442814,,
+Daucus littoralis,Wild carrot pentane-based fractions suppress proliferation of human HaCaT keratinocytes and protect against chemically-induced skin cancer,Q36245747,0,0,2,scientific article,,Q13442814,,
+Acarna gummifera,Acarna gummifera,Q109733914,1,0,1,species of plant,,Q16521,,
+Acarna gummifera,Acarna gummifera,Q52557325,1,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Acarna gummifera,Acarna gummifera,Q56661011,1,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Acarna gummifera,Carlina gummifera,Q1554431,1,0,1,species of plant,,Q16521,,
+Silene Behen,Silene behen,Q12217882,2,0,1,species of plant,,Q16521,,Silene behen
+Silene Behen,Silene Behen,Q52559663,2,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Silene Behen,Silene Behen,Q52515362,2,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Silene Behen,Silene behen var. cucubalus,Q110421622,2,0,1,,,Q16521,,
+Lithospermum apulum,Lithospermum apulum,Q52513351,3,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Lithospermum apulum,Lithospermum apulum,Q106291306,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Lithospermum apulum,Apium,Q2284228,3,0,2,genus of plants,,Q16521,,Apium
+Lithospermum apulum,Apium graveolens,Q28298,3,0,2,"species of edible plant; the vegetables celery, celeriac and leaf celery are modern cultivars",wild celery|smallage,Q16521,Q207123|Q11992872|Q157957,Apium graveolens
+Lithospermum apulum,Apium nodiflorum,Q964806,3,0,2,species of plant,,Q16521,,Apium nodiflorum
+Lithospermum apulum,Apium repens,Q2823012,3,0,2,species of plant,Creeping marshwort,Q16521,,Apium repens
+Lithospermum apulum,Apium graveolens var. dulce,Q1815126,3,0,2,variety of plants,celery,Q16521,Q11992872|Q157957,Apium graveolens dulce
+Lithospermum apulum,Apium leptophyllum,Q17142977,3,0,2,species of plant,,Q16521,,
+Lithospermum apulum,Apium bermejoi,Q4779937,3,0,2,species of plant,Apid den Bermejo,Q16521,,
+Lithospermum apulum,Apium prostratum,Q2709116,3,0,2,species of plant,Sea Celery,Q16521,,Apium prostratum
+Lithospermum apulum,Apium petroselinum,Q21870603,3,0,2,species of plant,,Q16521,,
+Lithospermum apulum,Apium inundatum,Q1429602,3,0,2,species of plant,,Q16521,,
+Rumex spinosus,Rumex spinosus,Q21877255,4,0,1,species of plant,,Q16521|Q1040689,,Rumex spinosus
+Rumex spinosus,Rumex spinosus,Q52558932,4,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Rumex spinosus,Rumex spinosus,Q52514894,4,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Rumex spinosus,Emex spinosa,Q1286595,4,0,1,species of plant,Devil's thorn,Q16521,,
+View of the Tiber in the Campagna,View of the Tiber in the Campagna,Q64768898,5,0,1,engraving by Jan Both,,Q11835431,,
+View of the Tiber in the Campagna,View of the Tiber in the Campagna,Q65571206,5,0,1,print in the National Gallery of Art (NGA 53192),,Q11060274,,
+View of the Tiber in the Campagna,View of the Tiber in the Campagna,Q65571204,5,0,1,print in the National Gallery of Art (NGA 53191),,Q11060274,,
+paper,paper,Q11472,5,1,1,"thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging",,Q214609,Q3406743,Paper
+paper,Paper,Q37570364,5,1,1,family name,,Q101352,,
+paper,Papers of the British School at Rome,Q15761409,5,1,1,academic journal,British School at Rome. Papers,Q5633421,,
+paper,paperback,Q193934,5,1,1,book with a paper or paperboard cover,softback|softcover|pocket book|paper back|paper-back|mass-market paperback|paperbound|paper-bound|paper bound|paperback book,Q82046811,Q11396303,Paperback
+paper,hard copy,Q5372066,5,1,1,"printed or photographic material generated from a microform or digital source, usually refers to prints on paper, but the substrate may be of any material",physical copy|hardcopies|reprographic copies|printout|printed copy|paper copy|physical edition|dead-tree edition|dead tree|dead-tree version|physical version,,Q1261026|Q1784021|Q49848,Hard copy
+paper,cardboard,Q18668582,5,1,1,painting surface made of heavy-duty paper of various strengths,paperboard|art board|paper board|board,,Q15303351|Q861259|Q389782,
+paper,paperboard,Q14934005,5,1,1,thick paper-based material,,Q214609,Q16829513|Q11472|Q389782,Paperboard
+paper,newspaper,Q11032,5,1,1,"scheduled publication containing news of events, articles, features, editorials, and advertising; online, in print, or (usually) both",newspapers|news paper|news papers,Q63981612|Q39725049,Q1002697|Q28877|Q17172633|Q119648442|Q43229,Newspaper
+paper,Päper,Q83496020,5,1,1,family name,,Q101352,,
+paper,"Papers, Please",Q14565978,5,1,1,2013 border inspector simulation adventure game,Papers Please,Q7889,,"Papers, Please"
+paper,paper mill,Q918088,5,1,2,a mill (factory) that produces paper,paper factory|pulp and paper mill|pulp and paper factory,,Q83405,Paper mill
+paper,pulp and paper industry,Q2283886,5,1,2,industry that belongs to the secondary sector and is involved in the manufacture of paper and paperboard,paper mill|pulp industry|paper making|paper industry|paper technology|paper and pulp industry,Q268592,Q2511904,Pulp and paper industry
+paper,research paper mill,Q106506191,5,1,2,organisation that produces and sells fraudulent research manuscripts,paper mill,,Q96888669,Research paper mill
+paper,paper mill,Q56316683,5,1,2,"facilities that are primarily engaged in the manufacture of paper or paper products, usually from wood, recycled paper, or other fiber pulp. Originally water-driven, modern paper mills are typically powered electrically, for use with P366 (has use)",,,Q185187|Q44494,
+paper,essay mill,Q5399385,5,1,2,company or organization that manufactures fake academic paper for a fee,paper mill|essay bank,,Q428632|Q43229,Essay mill
+paper,Paper Mill,Q114526441,5,1,2,episode of Mr. Belvedere (S6 E6),,Q21191270,,
+paper,Paper Mill,Q101140265,5,1,2,"electoral ward in Vilakkudy Grama panchayat, Kerala, India",Paper Mill ward,Q1195098,,
+paper,Paper Mill,Q112057581,5,1,2,"factory building in Péry in the canton of Bern, Switzerland",fabrique de papier,Q1662011,,
+paper,Paper mill,Q2050728,5,1,2,human settlement in Germany,,Q253019,,
+paper,Paper Mill,Q122570561,5,1,2,"hamlet in Columbia County, Pennsylvania, United States","Paper Mill, PA|Paper Mill, Pennsylvania",Q486972|Q5084,,
+paper,Paper Industry,Q96327911,5,1,2,US scientific journal,,Q5633421,,
+paper,Paper Industry Technical Association,Q122640024,5,1,2,Organisation of the paper industry.,PITA,Q2178147,,
+paper,Paper Industry Machinery Manufacturing,Q123161163,5,1,2,superseded NAICS industry classification,,Q123130760,,
+paper,Paper industry water quality protection technology--status and needs,Q71828500,5,1,2,scientific article published on 01 July 1971,,Q13442814,,
+paper,papermaking,Q335415,5,1,2,economic sector,pennies,Q268592|Q1914636,,Papermaking
+paper,paper machine,Q1931541,5,1,2,machine used to manufacture paper products,papermaking machine,,Q1882685,Paper machine
+paper,Papermaking and The Art of Watercolor in Eighteenth-Century Britain:  Paul Sandby and the Whatman Paper Mill,Q107331464,5,1,2,2006 exhibition at the Yale Center for British Art,,Q464980,,
+paper,paper chemicals,Q2473322,5,1,2,chemistry and usage,Papermaking chemicals,,Q1069267,Paper chemicals
+paper,history of papermaking in Massachusetts,Q5868334,5,1,2,aspect of history,papermaking in Massachusetts history,Q17524420,,History of papermaking in Massachusetts
+paper,history of papermaking in New York,Q16972927,5,1,2,aspect of history,papermaking in New York history,Q17524420,,History of papermaking in New York
+paper,Site of Hualin Paper Mill,Q48935576,5,1,2,,Papermaking Workshop at Hualin,Q10300916,,
+paper,Papermaking in Ontario / La fabrication du papier en Ontario,Q123921680,5,1,2,online exhibition from Archives of Ontario (Canada),Papermaking in Ontario|La fabrication du papier en Ontario,Q3062261,,
+paper,Papermaking machine with press section,Q140884324,5,1,2,US patent 11466404,,Q43305660,,
+paper,Papermaking machine that utilizes only a structured fabric in the forming of paper,Q140884281,5,1,2,US patent 11486091,,Q43305660,,
+Iris Sisyrinchium,Iris sisyrinchium,Q5910381,6,0,1,species of plant,,Q16521,,
+Iris Sisyrinchium,Iris Sisyrinchium,Q52512396,6,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Iris Sisyrinchium,Iris Sisyrinchium,Q52558080,6,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Iris Sisyrinchium,Iris sisyrinchium var. maculata,Q110976982,6,0,1,,,Q16521,,
+Iris Sisyrinchium,Iris,Q156901,6,0,2,genus of plants in the order Iridaceae,irises|blackberry-lily,Q16521,,Iris (plant)
+Iris Sisyrinchium,Iris,Q378867,6,0,2,female given name,Iris (given name)|Iris (first name),Q11879590,,Iris (given name)
+Iris Sisyrinchium,Irish Statute Book,Q17100343,6,0,2,Irish legal website/database,irishstatutebook.ie,Q35127,,Irish Statute Book
+Iris Sisyrinchium,Iris,Q2260419,6,0,2,genus of mantises,,Q16521,,Iris (mantis)
+Iris Sisyrinchium,Ireland,Q27,6,0,2,country in Northwestern Europe,Republic of Ireland|Southern Ireland|Irish Republic,Q3624078|Q112099|Q6256|Q127693126,,Republic of Ireland
+Iris Sisyrinchium,Iris,Q1932351,6,0,2,1998 song by Goo Goo Dolls,,Q134556,,Iris (song)
+Iris Sisyrinchium,iris,Q178748,6,0,2,part of an eye,,Q112826905,Q278859|Q112826975,Iris (anatomy)
+Iris Sisyrinchium,Iris,Q37495796,6,0,2,family name,,Q101352,,
+Iris Sisyrinchium,Iris Eichenberg,Q15876744,6,0,2,"German artist, metalsmith (born 1965)",Iris|Ina Iris Eichenberg,Q5,,Iris Eichenberg
+Iris Sisyrinchium,Iris,Q3154400,6,0,2,Canadian comics artist,Iris Boudreau-Jeanneau,Q5,,Iris (artist)
+Iris Sisyrinchium,Sisyrinchium,Q2357709,6,0,2,genus of plants,blue eyed grass,Q16521,,Sisyrinchium
+Iris Sisyrinchium,Sisyrinchium palmifolium,Q15584841,6,0,2,species of plant,,Q16521,,
+Iris Sisyrinchium,Sisyrinchium bermudiana,Q2533688,6,0,2,species of plant,Bermudiana,Q16521,,Sisyrinchium bermudiana
+Iris Sisyrinchium,Sisyrinchium micranthum,Q7531518,6,0,2,species of plant,lawn blue-eyed-grass|fairy stars|annual blue-eyed-grass,Q16521,,Sisyrinchium micranthum
+Iris Sisyrinchium,Sisyrinchium idahoense,Q4049561,6,0,2,species of plant,Idaho blue-eyed grass,Q16521,,Sisyrinchium idahoense
+Iris Sisyrinchium,Sisyrinchium montanum,Q2082216,6,0,2,species of plant,strict blue-eyed grass,Q16521,,Sisyrinchium montanum
+Iris Sisyrinchium,Sisyrinchium angustifolium,Q4142537,6,0,2,species of plant,,Q16521,,Sisyrinchium angustifolium
+Iris Sisyrinchium,Sisyrinchium striatum,Q3485364,6,0,2,species of plant,,Q16521,,Sisyrinchium striatum
+Iris Sisyrinchium,Sisyrinchium pachyrhizum,Q15584119,6,0,2,species of plant,,Q16521,,
+Iris Sisyrinchium,Sisyrinchium vaginatum,Q15585307,6,0,2,species of plant,,Q16521,,
+"Female, Turned to Right","Female, Turned to Right",Q98212110,7,0,1,"print by Philip Galle, S.V 89265, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+"Female, Turned to Right","Female, Turned to Right",Q98210130,7,0,1,"print by Philip Galle, S.V 89261, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+"Female, Turned to Right","Female, Turned to Right",Q98212107,7,0,1,"print by Philip Galle, S.V 89263, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+"Female, Turned to Right",female,Q6581072,7,0,2,"to be used in ""sex or gender"" (P21) to indicate that the human subject is a female or ""semantic gender"" (P10339) to indicate that a word refers to a female person",woman|human female|female person|lady|female human|fairer sex|female gender|fem|f|women|girl|girls|female character,Q4369513|Q48264,Q99485732,Female (gender)
+"Female, Turned to Right",female organism,Q43445,7,0,2,organism of the female sex,sex — female|female|female creature|female animal,Q136772242|Q290,Q19088|Q7239,Female
+"Female, Turned to Right",woman,Q467,7,0,2,female adult human,women|lady|adult woman|female adult human|adult human female,,Q9584157|Q84048852,Woman
+"Female, Turned to Right",female connector,Q11659367,7,0,2,gender of connectors and fasteners,female fastener|female|female contact,Q5531000,Q18819626,
+"Female, Turned to Right",female given name,Q11879590,7,0,2,given name usually meant for girls and women,girl names|women's names|given name with feminine connotations|girls' names|female personal name|feminine given name|fem given name|f given name,,Q202444|Q130409395,Feminine given name
+"Female, Turned to Right",nun,Q191808,7,0,2,female member of a monastic order,woman religious|sister|religious sister|female religious|female monk,Q4504549|Q138348066,Q733786,Nun
+"Female, Turned to Right",feminine family name,Q18972207,7,0,2,feminine form of family name,female family name|female last name|feminine last name,,Q101352|Q136439688,
+"Female, Turned to Right",lesbianism,Q6649,7,0,2,sexual attraction between women,"female homosexuality|sapphism|female gynephilia|female gynophilia|homosexuality, female",Q17888|Q115870510,Q6636|Q25447263|Q135214281,Lesbianism
+"Female, Turned to Right",female breast,Q9103,7,0,2,"one of two prominences located on the region of the torso of a female primate, containing the mammary gland",boob|tit|bosom|female breasts,Q103812529|Q112826905|Q1517875,Q139329732|Q189961|Q66557754|Q112826975|Q43022214,Breast
+"Female, Turned to Right",girls' school,Q22713629,7,0,2,school only for girls,female school|girls school|girl's college|women's college|school for girls,,Q16547029|Q189004|Q3914,
+Paliurus australis,Paliurus australis,Q50850246,8,0,1,species of plant,,Q16521,,
+Paliurus australis,Paliurus australis,Q52558389,8,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Paliurus australis,Paliurus australis,Q52514017,8,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Orchis papilionacea,Orchis papilionacea,Q25702327,9,0,1,species of plant,,Q16521,,
+Orchis papilionacea,Orchis papilionacea subsp. balcanica,Q93171486,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea var. grandiflora,Q96096600,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea subsp. alibertis,Q93437434,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea var. messenica,Q96096604,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea subsp. palaestina,Q93171606,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea f. palaestina,Q92946958,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea var. parviflora,Q96128467,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea f. balcanica,Q92946816,9,0,1,,,Q16521,,
+Orchis papilionacea,Orchis papilionacea f. morgetiana,Q92946893,9,0,1,,,Q16521,,
+Orchis papilionacea,White Orchid,Q57022758,9,0,2,painting by Jan Mankes,Still Life with Peony,Q3305213,,
+Orchis papilionacea,Caladenia lyallii,Q3283221,9,0,2,species of plant,Mountain caladenia|White fingers|White orchid,Q16521,,
+Orchis papilionacea,The White Orchid,Q18393965,9,0,2,1954 film by Reginald Le Borg,White Orchid,Q11424,,The White Orchid
+Orchis papilionacea,White Orchid,Q112002501,9,0,2,"hotel in Cox's Bazar, Bangladesh",,Q27686,,
+Orchis papilionacea,Capital O 81455 White Orchid,Q111056820,9,0,2,"hotel in Zirakpur, India",White Orchid,Q27686,,
+Orchis papilionacea,White orchid,Q123965620,9,0,2,painting by Jan Sluijters,,Q3305213,,
+Orchis papilionacea,Bauhinia acuminata,Q2725413,9,0,2,species of plant,white orchid-tree|snowy orchid-tree|dwarf white bauhinia,Q16521,,Bauhinia acuminata
+Orchis papilionacea,White Orchids,Q105095609,9,0,2,episode of The Mentalist (S7 E13),,Q21191270|Q3252662,,
+Orchis papilionacea,White Orchids,Q20632209,9,0,2,painting by Aaron Fink,,Q3305213,,
+Orchis papilionacea,White Orchid Reflections,Q119580900,9,0,2,"painting by Stephen Nicoll (b.1946), Queen Mary's Hospital",,Q3305213,,
+Teucrium Arduini,Teucrium Arduini,Q52516251,10,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Teucrium Arduini,Teucrium Arduini,Q52560095,10,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Teucrium Arduini,Teucrium arduinii,Q15370292,10,0,1,species of plant,,Q16521,,
+Carlina corymbosa,Carlina corymbosa,Q2475947,11,0,1,species of plant,,Q16521,,Carlina corymbosa
+Carlina corymbosa,Carlina corymbosa var. major,Q38714631,11,0,1,variety of plant,,Q16521,,
+Carlina corymbosa,Carlina corymbosa,Q56661010,11,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Carlina corymbosa,Carlina corymbosa,Q52557601,11,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Carlina corymbosa,Carlina corymbosa subsp. hispanica,Q109805344,11,0,1,,,Q16521,,
+Carlina corymbosa,Carlina corymbosa var. graeciformis,Q109825924,11,0,1,,,Q16521,,
+Carlina corymbosa,Carlina corymbosa subsp. major,Q92628602,11,0,1,,,Q16521,,
+Carlina corymbosa,Carlina corymbosa var. rothii,Q38714600,11,0,1,variety of plant,,Q16521,,
+Carlina corymbosa,Carlina corymbosa var. lobeliana,Q109827552,11,0,1,,,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis,Q12849790,12,0,1,species of plant,,Q16521,,Scutellaria orientalis
+Scutellaria orientalis,Scutellaria orientalis bornmuelleri,Q21384502,12,0,1,subspecies of plant,Scutellaria orientalis subsp. bornmuelleri,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis sintenisii,Q21384515,12,0,1,subspecies of plant,Scutellaria orientalis subsp. sintenisii,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis subsp. macrostegia,Q21384509,12,0,1,subspecies of plant,,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis karatschaica,Q21384508,12,0,1,subspecies of plant,Scutellaria orientalis subsp. karatschaica,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis pectinata,Q21384511,12,0,1,subspecies of plant,Scutellaria orientalis subsp. pectinata,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis bicolor,Q21384501,12,0,1,subspecies of plant,Scutellaria orientalis subsp. bicolor,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis cretacea,Q21384504,12,0,1,subspecies of plant,Scutellaria orientalis subsp. cretacea,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis virens,Q21384517,12,0,1,subspecies of plant,Scutellaria orientalis subsp. virens,Q16521,,
+Scutellaria orientalis,Scutellaria orientalis santolinoides,Q21384514,12,0,1,subspecies of plant,Scutellaria orientalis subsp. santolinoides,Q16521,,
+Scutellaria orientalis,Scutellaria baicalensis,Q803769,12,0,2,species of plant,Baikal skullcap,Q16521,Q157957,Scutellaria baicalensis
+Scutellaria orientalis,Scutellaria baicalensis Georgi.,Q105004096,12,0,2,,,Q732577,,
+Scutellaria orientalis,Scutellaria baicalensis extract,Q72507211,12,0,2,chemical compound,,Q113145171,Q11173,
+Scutellaria orientalis,"Scutellaria baicalensis, a herbal medicine: anti-proliferative and apoptotic activity against acute lymphocytic leukemia, lymphoma and myeloma cell lines",Q53596559,12,0,2,scientific article,,Q13442814,,
+Scutellaria orientalis,"Scutellaria baicalensis, the golden herb from the garden of Chinese medicinal plants",Q34679142,12,0,2,scientific article,,Q13442814,,
+Scutellaria orientalis,Scutellaria baicalensis enhances the anti-diabetic activity of metformin in streptozotocin-induced diabetic Wistar rats.,Q46548509,12,0,2,scientific article published in January 2008,,Q13442814,,
+Scutellaria orientalis,Scutellaria baicalensis inhibits liver fibrosis induced by bile duct ligation or carbon tetrachloride in rats.,Q43985281,12,0,2,scientific article,,Q13442814,,
+Scutellaria orientalis,Scutellaria baicalensis in stroke management: Nature’s blessing in traditional Eastern medicine,Q38206119,12,0,2,"scientific article published on April 22, 2014",,Q13442814,,
+Scutellaria orientalis,Scutellaria baicalensis extract decreases cisplatin-induced pica in rats,Q48958201,12,0,2,scientific article published on 27 August 2003,,Q13442814,,
+Scutellaria orientalis,Scutellaria baicalensis Alleviates Cantharidin-Induced Rat Hemorrhagic Cystitis through Inhibition of Cyclooxygenase-2 Overexpression,Q39341411,12,0,2,"scientific article published on May 25, 2012",,Q13442814,,
+Scutellaria orientalis,Chinese skullcap in move free arthritis supplement causes drug induced liver injury and pulmonary infiltrates,Q34546233,12,0,2,scientific article,,Q13442814,,
+Scutellaria orientalis,Chinese Skullcap (Scutellaria baicalensis Georgi) inhibits inflammation and proliferation on benign prostatic hyperplasia in rats,Q91305773,12,0,2,scientific article published on 29 January 2019,,Q13442814,,
+Cologne,Cologne,Q365,13,0,1,"most populous city in North Rhine-Westphalia, Germany","Kreisfreie Stadt Köln|Cologne, Germany|Cologne (Germany)|Kölle|Colonia Claudia Ara Agrippinensium - in Laitn",Q707813|Q200250|Q2202509|Q42744322|Q1549591|Q85635630|Q57318,,Cologne
+Cologne,Cologne,Q1070283,13,0,1,"commune in Gers, France",,Q484170,,"Cologne, Gers"
+Cologne,perfume,Q131746,13,0,1,"a substance, extract, or preparation for diffusing or imparting an agreeable or attractive smell, especially a fluid such as alcohol containing essential oils and/or aroma compounds",parfum|fragrance|cologne,Q214609|Q28877|Q2424752,Q131207|Q2151963|Q15043636,Perfume
+Cologne,University of Cologne,Q54096,13,0,1,university in Germany,Universität zu Köln|Universitatis Coloniensis|University of Köln|Cologne University|UoC|Universitas Coloniensis|UKöln,Q875538|Q45400320|Q641347|Q1767829,,University of Cologne
+Cologne,Cologne,Q104064,13,0,1,Italian comune,"Cologne, Lombardy",Q747074,,"Cologne, Lombardy"
+Cologne,Cologne,Q124064233,13,0,1,2018 video game,,Q7889,,
+Cologne,Adam Colonia,Q349003,13,0,1,Dutch Golden Age painter (1634-1685),Adam de Colonia|Adam Cologni|Old Colonia|Adam Colognia|Adam Colonni|Adam Cologna|Adam Colonae|Adam Cologne|Adam Calone|Old Coloni|Adam De I Colonia|Adam Coloni|Adam Colloni|Adam Calonge|Adam de Colonia (II)|Adam Isaacksz. Colonia|Adam Isaacksz. de Colonia|Kolonia|A. Colonia|O. Coloni|Colonia|Colonie|old Collony|Colonias|Coloney|Colone|Colonae|Colloni|Colona|Collona|Mr. Coloney|Klonia|Colloney|imitateur de Pynaker Colonia|Collone|Colognia|Colonne|old Colloney|Colora|A. Colona|Calone|Coloni|Caloni|Colony|P. Colona|Cologne|Cologna|Callonia|Cologni|old Colloni|Collonia,Q5,,Adam Colonia
+Cologne,eau de cologne,Q2863,13,0,1,class of perfume concentration of between 2-6%,cologne|EDC|EdC,Q137728684,,Eau de Cologne
+Cologne,Cologne,Q2249855,13,0,1,fictional character from Ranma ½,,Q15632617|Q87576284|Q80447738,,Cologne (Ranma ½)
+Cologne,RheinEnergie Stadion,Q151893,13,0,1,"football stadium and home of 1. FC Köln in the city of Cologne, Germany",Cologne Stadium,Q1154710,,RheinEnergieStadion
+Cologne,Cologne Cathedral,Q4176,13,0,2,"Roman-Catholic cathedral in Cologne, Germany",High Cathedral of St. Peter,Q56242215|Q16970,,Cologne Cathedral
+Cologne,Cologne Cathedral,Q20891184,13,0,2,painting by Oskar Kokoschka,,Q3305213,,
+Cologne,Cologne Cathedral Treasury,Q1238676,13,0,2,museum,Domschatzkammer Cologne,Q33506,,
+Cologne,Cologne Cathedral Seal,Q1795817,13,0,2,part of Cologne Cathedral,,,,Cologne Cathedral Seal
+Cologne,Cologne Cathedral bomb plot,Q124296116,13,0,2,2023 planned Islamist car bombing in Germany,,Q5429679,,Cologne Cathedral bomb plot
+Cologne,Cologne cathedral altar (Elmar Hillebrand).,Q131625739,13,0,2,,,Q1590136,,
+Cologne,"Cologne Cathedral, 1869",Q119111134,13,0,2,"painting by James Webb (1835–1895), Bristol Museum & Art Gallery",,Q3305213,,
+Cologne,Cologne Cathedral versus Skyscrapers ― World Cultural Heritage Protection as Archetype of a Multilevel System,Q139739429,13,0,2,,,Q13442814,,
+Cologne,Cologne City Hall,Q323556,13,0,2,"historical building in Cologne, western Germany",City Hall|Kölner Rathaus,Q543654,,Cologne City Hall
+line engraving,line engraving,Q747704,13,1,1,printing process that produces images in line,line-engraving|Line engraving on paper,Q1408286,Q194177|Q271588,Line engraving
+line engraving,line engraving,Q137593774,13,1,1,pottery technique in which letters or drawings are made on shaped clay before firing using something with a pointed tip,,Q1792644|Q106822736|Q335261,Q11642,
+line engraving,Line-engraving Works Lately Seen on Epitaphs of the Tang Dynasty,Q119341692,13,1,1,,,Q13442814,,
+line engraving,Cologne Cathedral,Q4176,13,1,2,"Roman-Catholic cathedral in Cologne, Germany",High Cathedral of St. Peter,Q56242215|Q16970,,Cologne Cathedral
+line engraving,Cologne Cathedral,Q20891184,13,1,2,painting by Oskar Kokoschka,,Q3305213,,
+line engraving,Cologne Cathedral Treasury,Q1238676,13,1,2,museum,Domschatzkammer Cologne,Q33506,,
+line engraving,Cologne Cathedral Seal,Q1795817,13,1,2,part of Cologne Cathedral,,,,Cologne Cathedral Seal
+line engraving,Cologne Cathedral bomb plot,Q124296116,13,1,2,2023 planned Islamist car bombing in Germany,,Q5429679,,Cologne Cathedral bomb plot
+line engraving,Cologne cathedral altar (Elmar Hillebrand).,Q131625739,13,1,2,,,Q1590136,,
+line engraving,"Cologne Cathedral, 1869",Q119111134,13,1,2,"painting by James Webb (1835–1895), Bristol Museum & Art Gallery",,Q3305213,,
+line engraving,Cologne Cathedral versus Skyscrapers ― World Cultural Heritage Protection as Archetype of a Multilevel System,Q139739429,13,1,2,,,Q13442814,,
+line engraving,Cologne City Hall,Q323556,13,1,2,"historical building in Cologne, western Germany",City Hall|Kölner Rathaus,Q543654,,Cologne City Hall
+Corydalis rutifolia,Corydalis rutifolia,Q15338254,14,0,1,species of plant,,Q16521,,Corydalis rutifolia
+Corydalis rutifolia,Corydalis rutifolia subsp. kurdica,Q39509238,14,0,1,subspecies of plant,,Q16521,,
+Corydalis rutifolia,Corydalis rutifolia,Q52557733,14,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Corydalis rutifolia,Corydalis rutifolia,Q56660820,14,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Hedysarum venosum,Hedysarum venosum,Q56660881,15,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Hedysarum venosum,Hedysarum venosum,Q52502682,15,0,1,botanical engraving by Ferdinand Bauer,,Q11835431,,
+Hedysarum venosum,Hedysarum venosum,Q52558044,15,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Hedysarum venosum,Hedysarum venosum,Q108081477,15,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hedysarum venosum,Hedysarum venosum,Q56660881,16,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Hedysarum venosum,Hedysarum venosum,Q52502682,16,0,1,botanical engraving by Ferdinand Bauer,,Q11835431,,
+Hedysarum venosum,Hedysarum venosum,Q52558044,16,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Hedysarum venosum,Hedysarum venosum,Q108081477,16,0,1,Wikimedia disambiguation page,,Q4167410,,
+George Jamesone,George Jamesone,Q725308,17,0,1,Scottish painter (1587-1644),George Jamieson|Jamieson|George Jameson|Jamesone|Jamasone|Jameson,Q5,,George Jamesone
+George Jamesone,George Jamesone,Q106832220,17,0,1,engraving - Alexander Bannerman,,Q11835431|Q11060274,,
+George Jamesone,"George Jamesone, 1589 / 1590 - 1644. Portrait painter (Self-portrait)",Q27957932,17,0,1,painting by George Jamesone (NGoS PG 592),,Q3305213,,
+George Jamesone,"George Jamesone, 1589 / 1590 - 1644. Portrait painter (Self-portrait)",Q27957704,17,0,1,painting by George Jamesone,,Q3305213,,
+George Jamesone,"16-26 Schoolhill, Aberdeen",Q123585814,17,0,1,"architectural structure in Aberdeen City, Scotland, UK",Jameson's house|George Jamesone’s House,Q811979,,
+George Jamesone,George Jameson,Q108969700,17,0,2,New Zealand air force officer,George Esmond Jameson|Jamie Jameson,Q5,,George Jameson (RNZAF officer)
+George Jamesone,George Jameson,Q43913886,17,0,2,person associated with the witch trials in Scotland,,Q5,,
+George Jamesone,George Jameson,Q110247974,17,0,2,print by Thomas Trotter,,Q11060274,,
+George Jamesone,George Jameson,Q110699484,17,0,2,print - print made by John Alexander,,Q11060274,,
+George Jamesone,George Jameson Hall,Q135834940,17,0,2,"university dormitory at Cornell University, Ithaca, New York",High Rise One,Q3661265,,
+George Jamesone,George Johnston,Q15997796,17,0,2,"Australian Army general, born 1868",George Jameson Johnston,Q5,,George Johnston (general)
+George Jamesone,George Jameson Chitty,Q76031694,17,0,2,Peerage person ID=481215,Reverend George Jameson Chitty,Q5,,
+wove paper,wove paper,Q21279007,17,1,1,"writing paper with a uniform surface, not ribbed or watermarked",,,Q11472,Wove paper
+wove paper,George Jamesone,Q725308,17,1,2,Scottish painter (1587-1644),George Jamieson|Jamieson|George Jameson|Jamesone|Jamasone|Jameson,Q5,,George Jamesone
+wove paper,George Jameson,Q108969700,17,1,2,New Zealand air force officer,George Esmond Jameson|Jamie Jameson,Q5,,George Jameson (RNZAF officer)
+wove paper,George Jameson,Q43913886,17,1,2,person associated with the witch trials in Scotland,,Q5,,
+wove paper,George Jameson,Q110247974,17,1,2,print by Thomas Trotter,,Q11060274,,
+wove paper,George Jameson,Q110699484,17,1,2,print - print made by John Alexander,,Q11060274,,
+wove paper,George Jameson Hall,Q135834940,17,1,2,"university dormitory at Cornell University, Ithaca, New York",High Rise One,Q3661265,,
+wove paper,"George Jamesone, 1589 / 1590 - 1644. Portrait painter (Self-portrait)",Q27957932,17,1,2,painting by George Jamesone (NGoS PG 592),,Q3305213,,
+wove paper,George Johnston,Q15997796,17,1,2,"Australian Army general, born 1868",George Jameson Johnston,Q5,,George Johnston (general)
+wove paper,"George Jamesone, 1589 / 1590 - 1644. Portrait painter (Self-portrait)",Q27957704,17,1,2,painting by George Jamesone,,Q3305213,,
+wove paper,George Jameson Chitty,Q76031694,17,1,2,Peerage person ID=481215,Reverend George Jameson Chitty,Q5,,
+Anthemis discoidea,Anthemis discoidea,Q52557440,18,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Anthemis discoidea,Anthemis discoidea,Q56661074,18,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Anthemis discoidea,Anthemis,Q847930,18,0,2,genus of plants,chamomile|chamomiles,Q16521,,Anthemis
+Anthemis discoidea,Anthemis aciphylla,Q15569703,18,0,2,species of plant,,Q16521,,
+Anthemis discoidea,Anthemis cretica,Q590470,18,0,2,species of plant,,Q16521,,Anthemis cretica
+Anthemis discoidea,Anthemis cotula,Q571357,18,0,2,species of plant,mayweed|stinking mayweed|stinking chamomile,Q16521,Q192691,Anthemis cotula
+Anthemis discoidea,Anthemis carpatica,Q4771600,18,0,2,species of plant,,Q16521,,Anthemis cretica subsp. carpatica
+Anthemis discoidea,Anthemis tinctoria,Q925164,18,0,2,species of plant,,Q16521|Q42310380,,
+Anthemis discoidea,Anthemis auriculata,Q15570129,18,0,2,species of plant,,Q16521,,
+Anthemis discoidea,Anthemis altissima,Q15570652,18,0,2,species of plant,,Q16521,,
+Anthemis discoidea,Anthemis pseudocotula,Q572347,18,0,2,species of plant,,Q16521,,
+Anthemis discoidea,Anthemis arvensis,Q20778,18,0,2,species of plant,Corn Chamomile|Field chamomile|Matricaria inodora|Anthe-matricaria gruetteriana|Mayweed,Q16521,,Anthemis arvensis
+Anthemis discoidea,Daisy,Q4472145,18,0,2,female given name,Daisy (given name)|Daisy (first name),Q11879590,,Daisy (given name)
+Anthemis discoidea,Erigeron,Q745253,18,0,2,Genus of plants in family Asteraceae,seaside diasy|daisy|daisies,Q16521,,Erigeron
+Anthemis discoidea,Daisy,Q36974751,18,0,2,family name,,Q101352,,
+Anthemis discoidea,Bellis perennis,Q26158,18,0,2,Flowering plant in the daisy family Asteraceae,margaritas|daisy|lawn-daisy,Q16521,,Bellis perennis
+Anthemis discoidea,Daisy Duck,Q715763,18,0,2,Disney cartoon character,Daisy,Q88569700|Q1114461|Q15711870|Q15773317|Q15773347|Q1569167|Q112161269,,Daisy Duck
+Anthemis discoidea,Princess Margaret of Connaught,Q158173,18,0,2,British princess; Crown Princess of Sweden as the first wife of King Gustaf VI Adolf (1882-1920),"Margaret of Connaught|Margareta, Crown Princess of Sweden|Margareta, Duchess of Scania|Margaret Victoria Charlotte Augusta Norah of Connaught|Princess Margaret Victoria Charlotte Augusta Norah of Connaught|Margareta, Crown Princess of Sweden, Duchess of Scania|Margaret, Crown Princess of Sweden, Duchess of Scania|Margaret, Duchess of Scania|Margarets of Connaught|Daisy",Q5,,Princess Margaret of Connaught
+Anthemis discoidea,Daisy,Q131760013,18,0,2,Dog,,Q144,,
+Anthemis discoidea,Daisy Marie,Q238603,18,0,2,"American pornographic actress, model & feature dancer",Daisey Marie|Daisy Tattoo|Valerie Cruz|Daisey Dukes|Dayse Dukes,Q5,,
+Anthemis discoidea,Princess Daisy,Q1148659,18,0,2,fictional character from the Mario franchise,Daisy,Q33093124|Q15632617|Q15773347,,Princess Daisy
+Anthemis discoidea,daisy,Q10605441,18,0,2,common name of certain flowers,Margarida|Margarita,Q55983715,Q886167,
+Anthemis discoidea,Chamaemelum nobile,Q5723577,18,0,2,species of plants,Chamamelum nobile|chamomile|Roman chamomile|garden dog-fennel,Q16521,,Chamaemelum nobile
+Anthemis discoidea,Roman Chamomile Flower,Q96022079,18,0,2,herbal medicine documented by the European Medicines Agency,Chamomillae romanae flos,Q735160|Q95997873,Q140606571,
+Anthemis discoidea,Roman chamomile oil (Chamaemelum nobile),Q60861328,18,0,2,oil from the flower heads of Chamaemelum nobile,FEMA 2275,,Q60792639,
+Anthemis discoidea,Roman chamomile inhalation combined with clomipramine treatment improves treatment-resistant depression-like behavior in mice,Q92342659,18,0,2,scientific article published on 29 July 2019,,Q13442814,,
+Nottingham,Nottingham,Q41262,19,0,1,"city in Nottinghamshire, England, UK","Nottingham, Nottinghamshire|Nottingham, East Midlands|Nottingham, England",Q515|Q1357964|Q1549591,,Nottingham
+Nottingham,Nottinghamshire,Q67535681,19,0,1,historic county of England,County of Nottingham,Q1138494,,
+Nottingham,City of Nottingham,Q21885994,19,0,1,"district in Nottinghamshire, England",Nottingham|Nottingham (unparished area)|County Borough of Nottingham,Q1136601|Q21503295|Q1006876|Q7897276|Q1137272,,City of Nottingham
+Nottingham,Nottingham Medieval Studies,Q15759627,19,0,1,academic journal,,Q5633421,,
+Nottingham,University of Nottingham,Q472316,19,0,1,"public research university in Nottingham, England","The University of Nottingham|University College, Nottingham|Nottingham University",Q875538|Q38723|Q5341295,,University of Nottingham
+Nottingham,Nottingham,Q60576084,19,0,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Nottingham,Nottingham Forest F.C.,Q19490,19,0,1,"association football club in West Bridgford, England",Nottingham Forest Football Club|Nottingham Forest FC|Forest|The Reds|Tricky Trees|Nottingham Forest|NFFC|Nottm Forest,Q476028,,Nottingham Forest F.C.
+Nottingham,Nottingham,Q2304472,19,0,1,"town in Rockingham County, New Hampshire, United States of America","Nottingham, New Hampshire|Nottingham, NH",Q15127012,,"Nottingham, New Hampshire"
+Nottingham,Nottingham,Q7063585,19,0,1,"Parliamentary constituency in the United Kingdom, 1801-1885",,Q27971968,,Nottingham (UK Parliament constituency)
+Nottingham,Nottingham Castle Ducal Mansion,Q1799649,19,0,1,"former home of Duke of Newcastle, now museum and art gallery in Nottingham, Nottinghamshire, England, UK",Castle Museum and Art Gallery|Nottingham Castle Museum and Art Gallery,Q2087181,,Nottingham Castle Museum and Art Gallery
+Nottingham,Nottingham City Council,Q7063612,19,0,2,City Council in Nottingham,,Q21561328,,Nottingham City Council
+Nottingham,Nottingham City Council election,Q24039272,19,0,2,"local government elections in Nottinghamshire, England",,Q107359024,Q107358924|Q107637253,Nottingham City Council elections
+Nottingham,Nottingham City Council Act 1976,Q110283645,19,0,2,Local Act of Parliament of the United Kingdom,"1976 c. xiv|1976 c xiv|Nottingham City Council Act, 1976",Q100165600,,
+Nottingham,Nottingham City Council Act 2003,Q100165657,19,0,2,Local Act of Parliament of the United Kingdom,"2003 c. ii|2003 c ii|Nottingham City Council Act, 2003",Q100165600,,
+Nottingham,Nottingham City Council Act 2013,Q100165623,19,0,2,Local Act of Parliament of the United Kingdom,"2013 c. iii|2013 c iii|Nottingham City Council Act, 2013",Q100165600,,
+Nottingham,Nottingham Trent University,Q2002619,19,0,2,"public research university in Nottingham, England",NTU|Trent Polytechnic|Nottingham Polytechnic|The Nottingham Trent University,Q3918|Q38723|Q5341295,,Nottingham Trent University
+Nottingham,Nottingham Trent University tram stop,Q17015928,19,0,2,"Tram stop on the Nottingham Express Transit tram system in Nottingham, England",,Q2175765,,Nottingham Trent University tram stop
+Nottingham,Nottingham Trent University - Clifton Campus,Q86028124,19,0,2,academic department in the UK,,Q209465,,
+Nottingham,"Nottingham Trent University, School of Art and Design",Q15262623,19,0,2,"Art school in Nottingham, England",,Q383092,,Nottingham School of Art and Design
+Nottingham,Nottingham Trent University - Brackenhurst Campus,Q86028118,19,0,2,academic department in the UK,"NTU - Brackenhurst Campus|Brackenhurst Campus, Nottingham Trent University",Q209465,,
+Nottingham,Nottingham Trent University Archives,Q81165640,19,0,2,archival institution in United Kingdom,,Q27032435,,
+Nottingham,Nottingham Trent University School of Social Sciences,Q86020556,19,0,2,academic department in the UK,,Q2467461,,
+Nottingham,NTU Art Collection,Q111444695,19,0,2,university owned art collection,Nottingham Trent University Art Collection,Q7328910|Q111448803,,
+Nottingham,Nottingham Trent University Shooting Club,Q111524716,19,0,2,target sports club in the UK,,Q847017,,
+Nottingham,Nottingham Trent University Division of Psychology,Q86019575,19,0,2,academic department in the UK,,Q2467461,,
+Nottingham,Nottingham Forest F.C. in European football,Q25111015,19,0,2,Wikimedia list article,,Q13406463,,Nottingham Forest F.C. in international football
+Nottingham,"Nottingham Forest F.C. Under-23s, Under-18s and Academy",Q39055345,19,0,2,football club,,Q476028|Q134468886,,Nottingham Forest F.C. Under-21s and Academy
+Nottingham,Nottingham Forest F.C. Under-23's Squad and Academy,Q39055341,19,0,2,,,,,Nottingham Forest F.C. Under-23's Squad and Academy
+Nottingham,history of Nottingham Forest F.C.,Q5865748,19,0,2,aspect of history,history of Nottingham Forest Football Club|Nottingham Forest F.C. history,Q17524420,,History of Nottingham Forest F.C.
+Nottingham,Nottingham Forest F.C. 1–8 Manchester United F.C.,Q7063640,19,0,2,football match,,Q109623729,,Nottingham Forest F.C. 1–8 Manchester United F.C.
+Nottingham,Nottingham Forest F.C. Under-21's Squad and Academy,Q7063641,19,0,2,"West Bridgford, Nottinghamshire, England",,Q476028,,Nottingham Forest F.C. Under-21s Squad and Academy
+wove paper,wove paper,Q21279007,19,1,1,"writing paper with a uniform surface, not ribbed or watermarked",,,Q11472,Wove paper
+wove paper,Nottingham Castle Ducal Mansion,Q1799649,19,1,2,"former home of Duke of Newcastle, now museum and art gallery in Nottingham, Nottinghamshire, England, UK",Castle Museum and Art Gallery|Nottingham Castle Museum and Art Gallery,Q2087181,,Nottingham Castle Museum and Art Gallery
+wove paper,Nottingham Castle,Q17642916,19,1,2,"castle in Nottingham, Nottinghamshire, England, UK",,Q23413,,Nottingham Castle
+wove paper,Nottingham Castle,Q119082630,19,1,2,"painting by Edmund John Niemann (1813–1876), Astley Hall Museum and Art Gallery",,Q3305213,,
+wove paper,Nottingham Castle,Q119909393,19,1,2,"painting by unknown artist, Nottingham City Museums & Galleries",,Q3305213,,
+wove paper,Nottingham Castle,Q119693840,19,1,2,"painting by Francis E. Chardon (c.1865–1925), Llandudno Museum",,Q3305213,,
+wove paper,Nottingham Castle,Q119693844,19,1,2,"painting by Francis E. Chardon (c.1865–1925), Llandudno Museum (nottingham-castle-181093)",,Q3305213,,
+wove paper,Nottingham Castle,Q119040322,19,1,2,"painting by John Rawson Walker (1796–1873), Nottingham Castle",,Q3305213,,
+wove paper,Nottingham Castle Gate Hospital,Q16934203,19,1,2,listed building and former women's hospital,"29 And 31, Castle Gate|29 & 31, Castle Gate",Q22914759,,Nottingham Castle Gate Hospital
+wove paper,"Nottingham Castle, a place full royal. By C. Drage",Q48574341,19,1,2,,,Q637866,,
+wove paper,"Nottingham Castle (Charles I Raising His Standard, 24 August 1642)",Q119071366,19,1,2,"painting by Henry Dawson (1811–1878), Nottingham Castle",,Q3305213,,Charles I Raising His Standard
+Borago orientalis,Borago orientalis,Q21872043,20,0,1,species of plant,,Q16521,,
+Borago orientalis,Borago orientalis,Q52557543,20,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Borago orientalis,Borago orientalis,Q52513495,20,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Borago orientalis,Trachystemon orientalis,Q3536286,20,0,1,species of plant,,Q16521,,Trachystemon orientalis
+Borago orientalis,borage,Q147075,20,0,2,species of plant,Borago officinalis|starflower,Q16521,Q11992872,Borage
+Borago orientalis,Borago officinalis,Q134545649,20,0,2,2005 stamp of Algeria,,Q1926935,,
+Borago orientalis,borage seed oil,Q4944279,20,0,2,oil derived from the seeds of Borago officinalis,Borago officinalis seed oil,Q7445643,,Borage seed oil
+Borago orientalis,borage leaf,Q103566559,20,0,2,leaf of Borago officinalis,Borago officinalis leaf,Q10675206|Q107122793,,
+Borago orientalis,borage oil,Q72451039,20,0,2,essential oil,borage extract|Borago officinalis extract|Borago officinalis oil,Q170885,,
+Borago orientalis,Borago officinalis L. attenuates UVB-induced skin photodamage via regulation of AP-1 and Nrf2/ARE pathway in normal human dermal fibroblasts and promotion of collagen synthesis in hairless mice,Q51411159,20,0,2,scientific article published on 27 February 2018,,Q13442814,,
+Borago orientalis,"Borago officinalis seed oil (BSO), a natural source of omega-6 fatty acids, attenuates fat accumulation by activating peroxisomal beta-oxidation both in C. elegans and in diet-induced obese rats",Q90456079,20,0,2,scientific article published on 01 August 2018,,Q13442814,,
+Borago orientalis,Borago,Q149122,20,0,2,genus of plants,,Q16521,,Borago
+Borago orientalis,Boragogethes,Q21590095,20,0,2,genus of insects,,Q16521,,
+Borago orientalis,Borago macranthera,Q15857872,20,0,2,species of plant,,Q16521,,
+Borago orientalis,Boragosirocalus,Q50691924,20,0,2,genus of insects,,Q16521,,
+Borago orientalis,Borago indica,Q15857706,20,0,2,species of plant,,Q16521,,
+Borago orientalis,Borago zeylanica,Q38541334,20,0,2,species of plant,,Q16521,,
+Borago orientalis,Borago africana,Q21872042,20,0,2,species of plant,,Q16521,,
+Borago orientalis,Borago,Q893300,20,0,2,"settlement in Brenzone sul Garda, Italy",,Q1134686,,
+Borago orientalis,Burrage,Q21553809,20,0,2,Englishman,Borage,Q5,,
+Borago orientalis,borage water,Q110611293,20,0,2,herbal distillate made of borage,,Q25403900,Q905870|Q12140,
+Borago orientalis,Borago officianalis seed,Q102822690,20,0,2,plant seed,borage seed,Q40763,,
+Borago orientalis,borage seed fatty acid,Q102822802,20,0,2,fatty acids derived from Borago officianalis seeds,,,Q61476,
+Borago orientalis,Borage (Borago Officinalis) - William Catto,Q110685978,20,0,2,watercolor painting by William Catto,,Q18761202,,
+Borago orientalis,Borage and Echium Seed Oils for Asthma,Q63316517,20,0,2,clinical trial,,Q30612,,
+Allium ambiguum,Allium ambiguum,Q54980417,21,0,1,species of plant,Allium ambigum,Q16521,,
+Allium ambiguum,Allium ambiguum,Q52514726,21,0,1,botanical illustration by Ferdinand Bauer,,Q11835431,,
+Allium ambiguum,Allium ambiguum,Q52557348,21,0,1,botanical watercolour drawing by Ferdinand Bauer,,Q18761202,,
+Allium ambiguum,Allium roseum,Q2037558,21,0,1,species of plant,Rosy garlic,Q16521,,Allium roseum
+Allium ambiguum,Allium ambiguum,Q55828253,21,0,1,Wikimedia disambiguation page,,Q4167410,,
+Antwerpen,Antwerp,Q12892,22,0,1,city and municipality in the Flemish Region of Belgium; capital and largest city of Antwerp Province; third-largest municipality in Belgium by area,City of Antwerp|Antwerpen,Q15273785|Q493522|Q2264924,,Antwerp
+Antwerpen,Province of Antwerp,Q1116,22,0,1,"province in Flanders, Belgium",Antwerp|Antwerp (province)|Antwerpen|BE-VAN,Q83116,,Antwerp Province
+Antwerpen,Antwerp,Q31467408,22,0,1,"town in Antwerp municipality, Belgium",Antwerpen,Q515,,
+Antwerpen,Antwerpen,Q83339386,22,0,1,family name,,Q101352,,
+Antwerpen,Antwerpen,Q56363018,22,0,1,Designed by Joris Hoefnagel (1542 - 1600),,Q75837457,,
+Antwerpen,Antwerpen,Q56363044,22,0,1,Print,,Q75837457,,
+Antwerpen,Antwerpen Sint-Paulusplaats,Q114207292,22,0,1,"tram stop in Antwerp, Belgium",,Q2175765,,
+Antwerpen,Antwerp-Central railway station,Q800398,22,0,1,railway station in Belgium,Antwerp Central Station,Q55488|Q294422|Q55485|Q55490|Q55491|Q22808403,,Antwerpen-Centraal railway station
+Antwerpen,Master of 1518,Q328571,22,0,1,Flemish painter (1510–1530),Antwerp Master of 1518|Lübeck Master of 1518|Master of Antwerp|Master of the Dresden Triptych|Master of the Magdalen Altarpiece|Antwerp Master|Master of the Abbey of Dilighem|Master of Dilighem Abbey|Antwerpener Meister von 1518|Meister von 1518|Meester van 1518,Q5|Q1747829,,Master of 1518
+Antwerpen,Antwerpen,Q131448418,22,0,1,"article in Meyer’s Universum, 1841",,Q191067,,
+Antwerpen,Antwerp,Q90845283,22,0,2,given name,Antwerp (given name),Q202444,,
+Antwerpen,1920 Summer Olympics,Q8128,22,0,2,"games of the VII Olympiad, celebrated in Antwerp, Belgium, in 1920",Antwerp 1920|Games of the VII Olympiad,Q135976384|Q14547231,,1920 Summer Olympics
+Antwerpen,District of Antwerp,Q1847918,22,0,2,"one of 10 districts of the City of Antwerp, Belgium",Antwerp|District Antwerpen,Q2597772,,Antwerp (district)
+Antwerpen,DIVA museum,Q51885460,22,0,2,"museum for jewellery, silver and diamonds in Antwerp, Belgium",Antwerp Home of Diamonds,Q33506|Q3196771|Q138605497,,"DIVA Museum for Diamonds, Jewellery and Silver"
+Antwerpen,Antwerp International Airport,Q17480,22,0,2,"international airport serving Antwerp, Belgium",Deurne Airport|Antwerp Airport|ANR|EBAW,Q644371|Q1248784|Q94993988,,Antwerp International Airport
+Antwerpen,Royal Antwerp F.C.,Q732002,22,0,2,association football club in Belgium,Royal Antwerp FC|Royal Antwerp|Antwerp FC|Antwerp F.C.,Q476028,,Royal Antwerp FC

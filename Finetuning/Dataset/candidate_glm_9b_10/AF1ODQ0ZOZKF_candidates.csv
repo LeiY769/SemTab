@@ -1,0 +1,70 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Sheffield,Sheffield,Q42448,0,0,1,"city in South Yorkshire, England, United Kingdom","Sheffield, South Yorkshire|Sheffield, England",Q515|Q1549591|Q7897276,,Sheffield
+Sheffield,Sheffield,Q12956644,0,0,1,"district in South Yorkshire, England, United Kingdom",City of Sheffield,Q1002812|Q21503295,,City of Sheffield
+Sheffield,Sheffield,Q16883153,0,0,1,family name,,Q101352,,Sheffield (surname)
+Sheffield,Sheffield,Q79568,0,0,1,"city in Alabama, USA","Sheffield, Alabama|Sheffield, AL",Q1093829,,"Sheffield, Alabama"
+Sheffield,Sheffield,Q2306176,0,0,1,"town in Berkshire County, Massachusetts, United States","Sheffield, Massachusetts|Sheffield, MA",Q15127012,,"Sheffield, Massachusetts"
+Sheffield,Sheffield,Q97461296,0,0,1,given name,,Q202444,,
+Sheffield,Sheffield,Q2277715,0,0,1,"town in Tasmania, Australia","Sheffield, Tasmania|Sheffield, Tasmania, Australia",Q3957|Q98433835,,"Sheffield, Tasmania"
+Sheffield,Sheffield,Q1916592,0,0,1,"city in Franklin County, Iowa, United States","Sheffield, Iowa|Sheffield, IA",Q1093829,,"Sheffield, Iowa"
+Sheffield,Sheffield,Q3365926,0,0,1,"human settlement in New Brunswick, Canada","Sheffield, New Brunswick",Q486972,,"Sheffield, New Brunswick"
+Sheffield,Sheffield F.C.,Q18491,0,0,1,"association football club in Dronfield, England",Sheffield Football Club|Sheffield FC|Sheffield|SFC,Q476028,,Sheffield F.C.
+Sheffield,Sheffield City Council,Q7492609,0,0,2,"council for Sheffield, South Yorkshire, England",Corporation of Sheffield,Q19414242,,Sheffield City Council
+Sheffield,Sheffield City Council election,Q7492800,0,0,2,class of UK elections,,Q107359024,Q107358505,Sheffield City Council elections
+Sheffield,Sheffield City Council Act 1975,Q110283606,0,0,2,Local Act of Parliament of the United Kingdom,"1975 c. xv|1975 c xv|Sheffield City Council Act, 1975",Q100165600,,
+Sheffield,Sheffield City Council Education Committee Offices,Q26538964,0,0,2,"Grade II listed office building in Sheffield, South Yorkshire, England, UK","Central Technical School|City Grammar School|School Board offices, Firth College and Central Schools and attached railing",Q1021645,,
+Sheffield,Sheffield City Council Sport and Development Section District Office,Q26560634,0,0,2,"Grade II listed office building in Sheffield, South Yorkshire, England, UK",,Q1021645,,
+Sheffield,2004 Sheffield City Council election,Q7492646,0,0,2,2004 UK local government election,,Q7492800,,2004 Sheffield City Council election
+Sheffield,2014 Sheffield City Council election,Q15917554,0,0,2,2014 UK local government election,,Q7492800,,2014 Sheffield City Council election
+Sheffield,2012 Sheffield City Council election,Q7492610,0,0,2,2012 UK local government election,,Q7492800,,2012 Sheffield City Council election
+Sheffield,2011 Sheffield City Council election,Q7492650,0,0,2,2011 UK local government election,,Q7492800,,2011 Sheffield City Council election
+Sheffield,2003 Sheffield City Council election,Q7492645,0,0,2,2003 UK local government election,,Q7492800,,2003 Sheffield City Council election
+Sheffield,Sheffield Hallam University,Q1752117,0,0,2,"university in Sheffield, United Kingdom",Sheffield City Polytechnic,Q3918|Q38723|Q5341295,,Sheffield Hallam University
+Sheffield,Sheffield Hallam University Psychology,Q101045692,0,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Biosciences,Q101045674,0,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Sports Park,Q24060139,0,0,2,"sports venue in Sheffield, South Yorkshire, England",,Q17350442|Q483110,,Sheffield Hallam University Sports Park
+Sheffield,Sheffield Hallam University Sheffield Business School,Q86019274,0,0,2,academic department in the UK,SBS,Q2467461,,
+Sheffield,Sheffield Hallam University - Collegiate Crescent Campus,Q100993082,0,0,2,campus,,Q209465,,
+Sheffield,Woodbourn Road athletics stadium,Q110102426,0,0,2,"sports ground in Sheffield, England",Sheffield Hallam University City Athletics Stadium,Q483110,,
+Sheffield,Sheffield Hallam University Department of Engineering and Mathematics,Q101012157,0,0,2,academic department,,Q2467461,,
+Sheffield,Sheffield Hallam University Centre for Sports Engineering Research,Q101045685,0,0,2,research centre,,Q7315155,,
+Sheffield,Sheffield Hallam University Centre for Regional Economic and Social Research,Q101045680,0,0,2,research centre,,Q7315155,,
+Sheffield,Sheffield Wednesday F.C.,Q19498,0,0,2,"association football club in Sheffield, England",Sheffield Wednesday Football Club|Sheffield Wednesday FC|Sheffield Wednesday|The Owls|Sheff Wed|SWFC|Wednesday,Q476028,,Sheffield Wednesday F.C.
+Sheffield,2014–15 Sheffield Wednesday F.C. season,Q16850002,0,0,2,season of football team,,Q26887310,,2014–15 Sheffield Wednesday F.C. season
+Sheffield,2016–17 Sheffield Wednesday F.C. season,Q24060142,0,0,2,season of football team,,Q26887310,,2016–17 Sheffield Wednesday F.C. season
+Sheffield,2015–16 Sheffield Wednesday F.C. season,Q20127823,0,0,2,season of football team,,Q26887310,,2015–16 Sheffield Wednesday F.C. season
+Sheffield,2017–18 Sheffield Wednesday F.C. season,Q30641757,0,0,2,season of football team,,Q26887310,,2017–18 Sheffield Wednesday F.C. season
+Sheffield,2018–19 Sheffield Wednesday F.C. season,Q55388220,0,0,2,season of football team,,Q26887310,,2018–19 Sheffield Wednesday F.C. season
+Sheffield,2024–25 Sheffield Wednesday F.C. season,Q125981711,0,0,2,157th season in existence of Sheffield Wednesday FC,,Q26887310,,2024–25 Sheffield Wednesday F.C. season
+Sheffield,2019–20 Sheffield Wednesday F.C. season,Q65067441,0,0,2,season of football team,2019-20 Sheffield Wednesday F.C. season,Q26887310,,2019–20 Sheffield Wednesday F.C. season
+Sheffield,2025–26 Sheffield Wednesday F.C. season,Q134470147,0,0,2,157th season in existence of Sheffield Wednesday FC,,Q26887310,,2025–26 Sheffield Wednesday F.C. season
+Sheffield,Sheffield Wednesday F.C. in European football,Q24897381,0,0,2,Wikimedia list article,,Q13406463,,Sheffield Wednesday F.C. in European football
+Worcester,Worcester,Q49179,1,0,1,"county seat city in Worcester County, Massachusetts, United States","Worchester, Massachusetts|Worcester, MA",Q1093829|Q1549591|Q62049,,"Worcester, Massachusetts"
+Worcester,Worcester,Q1646181,1,0,1,"city and the county town of Worcestershire, England",,Q515|Q1357964|Q1549591|Q7897276,,"Worcester, England"
+Worcester,Worcester,Q20986481,1,0,1,"district in Worcestershire, England",City of Worcester,Q1187580|Q1006876|Q21503295,,City of Worcester
+Worcester,Worcester,Q16916691,1,0,1,family name,,Q101352,,Worcester (surname)
+Worcester,Worcestershire,Q67575442,1,0,1,historic county of England,County of Worcester|Worcs|Wigorn,Q1138494,,
+Worcester,Worcester City F.C.,Q1882874,1,0,1,"association football club in Bromsgrove, England",Worcester City Football Club|Worcester City FC|Worcester City|Worcester|City|WCFC,Q476028,,Worcester City F.C.
+Worcester,Worcester,Q1025649,1,0,1,"town in the Western Cape, South Africa","Worcester, Western Cape",Q3957,,"Worcester, South Africa"
+Worcester,Worcester,Q613294,1,0,1,"Parliamentary constituency in the United Kingdom, 1885 onwards",,Q27971968,,Worcester (UK Parliament constituency)
+Worcester,Worcester,Q60576096,1,0,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Worcester,Worcester County,Q54093,1,0,1,"county in Massachusetts, United States","Worcester County, Massachusetts|Worcester County, MA",Q13410485,,"Worcester County, Massachusetts"
+Worcester,Worcester Cathedral,Q1630367,1,0,2,"cathedral in Worcester, England",Cathedral Church of Christ and Saint Mary|Cathedral Church of St Mary,Q56242250,,Worcester Cathedral
+Worcester,Worcester Cathedral,Q65937000,1,0,2,painting by Benjamin Williams Leader,,Q3305213,,
+Worcester,Worcester Cathedral,Q119148080,1,0,2,"painting by Benjamin Williams Leader (1831–1923), Worcester City Art Gallery & Museum (Museums Worcestershire)",,Q3305213,,
+Worcester,Worcester Cathedral,Q119422759,1,0,2,"painting by Woolston, Parliamentary Art Collection",,Q3305213,,
+Worcester,Worcester Cathedral,Q119298518,1,0,2,"painting by George Melhuish (1916–1985), Worcester City Art Gallery & Museum (Museums Worcestershire)",,Q3305213,,
+Worcester,Worcester Priory,Q1516379,1,0,2,"Benedictine priory, replaced by Worcester Cathedral",Benedictine cathedral priory of St Mary the Virgin|Worcester Cathedral Priory,Q44613|Q2750108,,
+Worcester,Worcester Cathedral Library,Q129446662,1,0,2,Library of Worcester Cathedral,Worcester Cathedral Chapter Library|Cathedral Library Worcester,Q1236923,,
+Worcester,Worcester Cathedral Monumental Effigies and Details,Q110248470,1,0,2,print by John Le Keux,,Q11060274,,
+Worcester,Worcester Cathedral. View in North Aisle of Choir,Q110248452,1,0,2,print by John Le Keux,,Q11060274,,
+Worcester,Worcester Cathedral Voluntary Choir,Q8034149,1,0,2,,,,,Worcester Cathedral Voluntary Choir
+Worcester,Worcester City Council election,Q8034237,1,0,2,class of election in the United Kingdom,,Q107359024,Q107358924,Worcester City Council elections
+Worcester,Worcester City Art Gallery and Museum,Q8034152,1,0,2,"art gallery and local museum in Worcester, England, United Kingdom",Worcester City Museum and Library|Worcester City Museums,Q1595639|Q28564|Q207694|Q115154345,,Worcester City Art Gallery & Museum
+Worcester,Worcester City Hospital,Q19953634,1,0,2,"defunct hospital in Worcester, Massachusetts, United States",,Q16917|Q64578911,,Worcester City Hospital
+Worcester,Worcester City Council Act 1985,Q110283973,1,0,2,Local Act of Parliament of the United Kingdom,"1985 c. xliii|1985 c xliii|Worcester City Council Act, 1985",Q100165600,,
+Worcester,Worcester City Hall and Common,Q8034154,1,0,2,"rathaus in Massachusetts, United States of America",,Q543654,,Worcester City Hall and Common
+Worcester,Worcester City Council,Q73072848,1,0,2,"English non-metropolitan district council in Worcestershire, England, UK",,Q21561306,,Worcester City Council
+Worcester,Worcester city walls,Q8034238,1,0,2,"Defensive structures in Worcester, UK",,Q16748868,,Worcester city walls
+Worcester,City Museum And Library With Gates,Q17548140,1,0,2,"building in Worcester, UK",Worcester City Art Gallery & Museum,Q24699794|Q856584,,
+Worcester,Worcester city centre,Q17641815,1,0,2,"architectural structure in Worcester, Worcestershire, England, UK",,Q811979,,

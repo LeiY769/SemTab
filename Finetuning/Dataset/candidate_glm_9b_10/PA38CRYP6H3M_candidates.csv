@@ -1,0 +1,16 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Nokia X,Nokia X,Q15299648,0,0,1,Android smartphone model,,Q19723451,Q17377026,Nokia X
+Nokia X,Nokia X,Q15814161,0,0,1,Line of Android-based mobile phones designed and marketed by Nokia,,Q9135,Q14656,Nokia X platform
+Nokia X,Nokia X2,Q17317576,0,0,1,entry-level smartphone released in 2014,,Q19723451,Q17377026,Nokia X2 (2014)
+Nokia X,Nokia XR20,Q107751489,0,0,1,2021 Android smartphone manufactured by HMD Global,XR20,Q19723444,Q17517,Nokia XR20
+Nokia X,Nokia X family,Q17377026,0,0,1,range of smartphones,,Q71266741,Q22645,Nokia X family
+Nokia X,Nokia X20,Q107303886,0,0,1,,,Q10929058,Q17517,
+Nokia X,Nokia X6,Q1077317,0,0,1,smartphone and portable entertainment device by Nokia,Nokia X6-00,Q10929058,Q2602856|Q22645,Nokia X6-00
+Nokia X,Nokia X2-00,Q3342858,0,0,1,cell phone,Nokia X2 00,Q19723444,Q2602856,Nokia X2-00
+Nokia X,Nokia X3-00,Q1523400,0,0,1,cell phone model,Nokia X3,Q19723444,Q2602856,Nokia X3-00
+Nokia X,Nokia X7-00,Q2661393,0,0,1,Symbian^3 smartphone,,Q10929058,Q2602856,Nokia X7-00
+Nokia X,Nokia Xseries,Q2602856,0,0,2,family of mobile phones,,Q20488450,Q17517,Nokia Xseries
+Nexus 6,Nexus 6,Q18284015,1,0,1,Android smartphone by Google,,Q19723451,Q22645,Nexus 6
+Nexus 6,Nexus 6,Q50626494,1,0,1,painting by Charles Anderson,,Q3305213,,
+Nexus 6,Nexus 6P,Q19862337,1,0,1,2015 Android smartphone,,Q19723451,Q22645,Nexus 6P
+Nexus 6,replicant,Q3174429,1,0,1,fictional bioengineered or biorobotic android (humanoid robot) in the Blade Runner universe,,,Q22074483,Replicant

@@ -1,0 +1,50 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+DrugBank,DrugBank,Q1122544,0,0,1,bioinformatics and cheminformatics database from the University of Alberta,drugbank.ca,Q7094076|Q1916557|Q4117139,,DrugBank
+DrugBank,DrugBank,Q138358775,0,0,1,,,Q33002955,,
+DrugBank,DrugBank: a comprehensive resource for in silico drug discovery and exploration,Q24188653,0,0,1,scientific article,,Q13442814,,
+DrugBank,drugbank-downloader,Q120550076,0,0,1,Python library,,Q29642950,,
+DrugBank,drugbank_downloader,Q132392125,0,0,1,Python library,,Q29642950,,
+DrugBank,DrugBank 4.0: shedding new light on drug metabolism,Q24568341,0,0,1,scientific article,,Q13442814,,
+DrugBank,"DrugBank: a knowledgebase for drugs, drug actions and drug targets",Q24650300,0,0,1,scientific article,,Q13442814,,
+DrugBank,DrugBank 3.0: a comprehensive resource for 'omics' research on drugs,Q24612505,0,0,1,scientific article,,Q13442814,,
+DrugBank,DrugBank 5.0: a major update to the DrugBank database for 2018,Q47128239,0,0,1,scientific article published on 8 November 2017,,Q13442814,,
+DrugBank,DrugBank,Q57014311,0,0,1,scholarly article,,Q13442814,,
+University of Alberta,University of Alberta,Q640694,0,1,1,"public research university in Edmonton, Alberta, Canada",Ualberta|UAlberta|UofA|uofa|ualberta.ca|U of A,Q11057861|Q108415420|Q45400320|Q167037|Q62078547|Q708676,,University of Alberta
+University of Alberta,University of Alberta Faculty of Science,Q55178059,0,1,1,Canadian university faculty,Faculty of Science - University of Alberta,Q11573537,,
+University of Alberta,University of Alberta Faculty of Law,Q7895043,0,1,1,"Public law school in Edmonton, Alberta, Canada",,Q180958|Q1321960,,University of Alberta Faculty of Law
+University of Alberta,University of Alberta Hospital,Q7895046,0,1,1,"hospital in Alberta, Canada",,Q16917,,University of Alberta Hospital
+University of Alberta,Alberta Golden Bears and Pandas,Q4711640,0,1,1,intercollegiate sports teams of the University of Alberta,Alberta Golden Bears|Alberta Pandas|Alberta Pandas and Golden Bears|University of Alberta athletics|University of Alberta Golden Bears|University of Alberta Pandas|University of Alberta Golden Bears and Pandas,Q2367225,,Alberta Golden Bears and Pandas
+University of Alberta,University of Alberta Library,Q58039052,0,1,1,academic library system of the university of Alberta,University of Alberta Library System|University of Alberta Libraries|University of Alberta Learning Services|University of Alberta Archives,Q856234|Q26271642|Q2085381,,University of Alberta Library
+University of Alberta,University of Alberta Faculty of Medicine and Dentistry,Q7895044,0,1,1,"Medical school in Edmonton, Alberta, Canada",,Q180958,,University of Alberta Faculty of Medicine and Dentistry
+University of Alberta,University of Alberta Faculty of Engineering,Q7895041,0,1,1,,,Q4671277,,University of Alberta Faculty of Engineering
+University of Alberta,Canadian Institute of Ukrainian Studies,Q4212096,0,1,1,Academic publisher based in Canada,"CIUS|University of Alberta, Canadian Institute of Ukrainian Studies|Canadian Institute of Ukrainian Studies Press|CIUS Press",Q31855|Q955824|Q45400320,,
+University of Alberta,University of Alberta Augustana Campus,Q7895039,0,1,1,satellite campus of the University of Alberta,Augustana Campus,Q4819632|Q180958|Q15407956|Q2983860|Q2385804,,University of Alberta Augustana Campus
+University of Alberta,Alberta University of the Arts,Q4063387,0,1,2,"Canadian university in Calgary, Alberta",Alberta College of Art + Design|Alberta College of Art and Design|ACAD,Q11057861|Q108423695|Q15407956|Q5074436,,Alberta University of the Arts
+University of Alberta,Alberta University of the Arts School of Critical and Creative Studies,Q108530374,0,1,2,faculty of the Alberta University of the Arts,,Q180958,,
+University of Alberta,Alberta University of the Arts School of Communication Design,Q108530372,0,1,2,faculty of the Alberta University of the Arts,,Q180958,,
+University of Alberta,Alberta University of the Arts School of Craft and Emerging Media,Q108530373,0,1,2,faculty of the Alberta University of the Arts,,Q180958,,
+University of Alberta,Alberta University of the Arts School of Visual Art,Q108530375,0,1,2,faculty of the Alberta University of the Arts,,Q180958,,
+University of Alberta,Alberta University medical dean resigns after students detect plagiarism in his speech,Q51024798,0,1,2,"scientific article published on June 27, 2011",,Q13442814,,
+RefSeq,RefSeq,Q7307074,1,0,1,"database containing reference sequences of genes, proteins and transcripts",NCBI Reference Sequence Database|NCBI Reference Sequence,Q4117139,,RefSeq
+RefSeq,National Center for Biotechnology Information,Q82494,1,0,1,database arm of the US National Library of Medicine,US Center for Biotechnology Information|National Center for Biotechnology Information (NCBI),Q31855|Q5227240|Q8513,,National Center for Biotechnology Information
+RefSeq,refseq Release 20180809,Q56073137,1,0,1,Release 20180809 of refseq,,Q3331189,,
+RefSeq,RefSeq: an update on mammalian reference sequences,Q35047930,1,0,1,"scientific article published on November 19, 2013",,Q13442814,,
+RefSeq,RefSeq and LocusLink: NCBI gene-centered resources,Q29547259,1,0,1,scientific article (publication date: 2001),,Q13442814,,
+RefSeq,RefSeq microbial genomes database: new representation and annotation strategy,Q35062314,1,0,1,scientific article,,Q13442814,,
+RefSeq,RefSeq: an update on prokaryotic genome annotation and curation,Q47171562,1,0,1,scientific article published on 3 November 2017,,Q13442814,,
+RefSeq,RefSeq microbial genomes database: new representation and annotation strategy,Q87022735,1,0,1,scientific article published on 30 March 2015,,Q13442814,,
+RefSeq,RefSeq database growth influences the accuracy of k-mer-based lowest common ancestor species identification,Q58095216,1,0,1,,,Q13442814,,
+RefSeq,RefSeq curation and annotation of stop codon recoding in vertebrates,Q61450669,1,0,1,scientific article published on 01 January 2019,,Q13442814,,
+National Center for Biotechnology Information,National Center for Biotechnology Information,Q82494,1,1,1,database arm of the US National Library of Medicine,US Center for Biotechnology Information|National Center for Biotechnology Information (NCBI),Q31855|Q5227240|Q8513,,National Center for Biotechnology Information
+National Center for Biotechnology Information,TXGnet: National Center for Biotechnology Information,Q24813517,1,1,1,scientific article published in August 2004,National Center for Biotechnology Information,Q13442814,,
+National Center for Biotechnology Information,National center for biotechnology information viral genomes project,Q33204252,1,1,1,scientific article published in July 2004,,Q13442814,,
+National Center for Biotechnology Information,(NCBI) National Center for Biotechnology of Information,Q125147103,1,1,1,National Library of Medicine of The USA,NCBI,Q35127,,
+National Center for Biotechnology Information,NCBI Gene,Q20641742,1,1,2,database for gene-specific information,Entrez Gene,Q4117139|Q33002955,,
+National Center for Biotechnology Information,RefSeq,Q7307074,1,1,2,"database containing reference sequences of genes, proteins and transcripts",NCBI Reference Sequence Database|NCBI Reference Sequence,Q4117139,,RefSeq
+National Center for Biotechnology Information,NCBI homo sapiens annotation release 107,Q20950174,1,1,2,Human Genome Build from NCBI,,Q19753316,,
+National Center for Biotechnology Information,NCBI mus musculus annotation release 105,Q20973051,1,1,2,Mouse Genome Build from NCBI,,Q19753316,,
+National Center for Biotechnology Information,NCBI Macaca nemestrina Annotation Release 100,Q24067511,1,1,2,,,Q19753316,,
+National Center for Biotechnology Information,NCBI Rattus norvegicus Annotation Release 105,Q19296606,1,1,2,,,Q19753316,,
+National Center for Biotechnology Information,NCBI Protein,Q24266708,1,1,2,Protein Database of the National Center for Biotechnology Information,NCBI Protein Database|NCBI Protein database,Q7251500|Q4117139,,
+National Center for Biotechnology Information,Entrez,Q1345229,1,1,2,"cross-database search engine, or web portal",NCBI resources,Q7094076|Q4117139,,Entrez
+National Center for Biotechnology Information,NCBI Homo sapiens Annotation Release 106,Q17939676,1,1,2,,,Q19753316,,

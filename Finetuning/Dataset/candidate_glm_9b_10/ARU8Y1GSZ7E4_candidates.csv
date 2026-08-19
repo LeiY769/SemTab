@@ -1,0 +1,129 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Pound,pound,Q100995,0,0,1,"unit of mass in imperial, US customary, and avoirdupois systems of units",lb|avoirdupois pound|pound-mass|pound mass|pound (mass)|lbs|pounds|lbm|pound (avoirdupois),Q3647172|Q82047057,,Pound (mass)
+Pound,pound sterling,Q25224,0,0,1,official currency of the United Kingdom and other territories,GBP|British pound|pound|£|quid|sterling|Great British pound|pence|pounds|penny|livre sterling,Q8142|Q339180,,Pound sterling
+Pound,Pound,Q20997663,0,0,1,family name,,Q101352,,Pound (surname)
+Pound,Pound,Q23874556,0,0,1,article in Otto's encyclopedia,,Q13433827,,
+Pound,pound,Q339180,0,0,1,currency in some nations,,,Q8142|Q12039317,Pound (currency)
+Pound,animal pound,Q4764963,0,0,1,place where stray livestock were impounded,pinfold|pound|town pound,,Q10480682|Q1411287,Animal pound
+Pound,Irish pound,Q270642,0,0,1,former currency of Ireland,pound|punt|IEP,Q8142|Q28783456|Q100995,,Irish pound
+Pound,lock,Q105731,0,0,1,fall structure with a fixed chamber in which the water level changes,lock and dam|canal lock|pound lock|lock (water navigation)|lock (water transport),,Q333170|Q107589046,Lock (water navigation)
+Pound,animal shelter,Q1411287,0,0,1,"facility that houses and disposes of homeless, lost, or abandoned animals",pound|dog pound|animal pound,Q137018865,Q56055115|Q13226383,Animal shelter
+Pound,pound-force,Q1194225,0,0,1,unit of force: the force exerted by one standard gravity on a one-pound mass,pound force|lbf|pound weight|pound-weight|pound (weight)|pound of force|pound|poundforce|lb,Q15976022|Q83155724,,Pound (force)
+Pound,banknote of the pound sterling,Q4856429,0,0,2,promissory notes denominated in pounds sterling,British pound banknotes|British pound banknote|British pound note|British pound bill|pound banknotes|pound banknote|pound note|pound bill,,Q47433,Banknotes of the pound sterling
+Pound,British Pound Sterling in Malta,Q3973268,0,0,2,Wikimedia list article,,Q28783456,,
+Pound,British Pound Falls to Lowest Level Since 1985,Q115177004,0,0,2,"Wall Street Journal article (March 18, 2020)",,Q5707594,,
+Pound,British Pound Surges as Johnson’s Conservatives Win U.K. Election,Q115177037,0,0,2,"Wall Street Journal article (December 13, 2019)",,Q5707594,,
+Pound,British Pound Reaches Strongest Level in Nearly Three Years,Q115176859,0,0,2,"Wall Street Journal article (February 21, 2021)",,Q5707594,,
+Pound,Government Boys' Primary School,Q67015940,0,0,2,type of school in Pakistan,GBPS,,Q9842|Q1713379|Q1080794,
+Pound,Google Business Profile,Q21235252,0,0,2,internet service for local businesses operated by Google,Google My Business|GBP,Q897682|Q1668024,,Google My Business
+Pound,PIAS1,Q18033102,0,0,2,protein-coding gene in the species Homo sapiens,DDXBP1|GBP|GU/RH-II|ZMIZ3|protein inhibitor of activated STAT 1,Q7187,Q20747295,PIAS1
+Pound,HADHA,Q1145906,0,0,2,protein-coding gene in the species Homo sapiens,"hydroxyacyl-CoA dehydrogenase/3-ketoacyl-CoA thiolase/enoyl-CoA hydratase (trifunctional protein), alpha subunit|ECHA|GBP|HADH|LCEH|LCHAD|MTPA|TP-ALPHA|hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha",Q7187,Q20747295,HADHA
+Pound,Protein inhibitor of activated STAT 1,Q21105489,0,0,2,mammalian protein found in Homo sapiens,"zinc finger, MIZ-type containing 3|GBP|RNA helicase II-binding protein|gu-binding protein|DEAD/H box-binding protein 1|protein inhibitor of activated STAT protein 1|E3 SUMO-protein transferase PIAS1|E3 SUMO-protein ligase PIAS1|DEAD/H (Asp-Glu-Ala-Asp/His) box binding protein 1|PIAS1|AR interacting protein",Q8054,,
+Pound,LGALS1,Q18028523,0,0,2,protein-coding gene in the species Homo sapiens,GAL1|GBP|galectin 1,Q7187,Q20747295,Galectin-1
+Pound,GBP130 protein,Q56570951,0,0,2,"protein found in Plasmodium falciparum 3D7, encoded by GBP130",GBP|PF10_0159|glycophorin binding protein,Q8054,Q8054,
+Pound,Lgals3,Q18252036,0,0,2,protein-coding gene in the species Mus musculus,"GBP|L-34|Mac-2|gal3|lectin, galactose binding, soluble 3",Q7187,Q20747295,
+Pound,GBP130,Q18970843,0,0,2,protein-coding gene,PF10_0159|GBP,Q7187,Q20747295,
+Pound,£,Q249306,0,0,2,"pound sign (U+00A3), pound sterling, Irish punt, lira, etc.; not to be confused with the unit of weight; glyph may have one or two crossbars, in distinction from ₤ (U+20A4)",U+00A3|POUND SIGN|pound sign|pound symbol|pound sterling sign|pound sterling symbol,Q29654788|Q308229,,Pound sign
+Pound,pound sterling in the South Atlantic and the Antarctic,Q16933389,0,0,2,overview about the pound sterling in the South Atlantic and the Antarctic,,Q74817647,,Pound sterling in the South Atlantic and the Antarctic
+Pound,"pound sterling in Australia, New Zealand, and Oceania",Q7235652,0,0,2,aspect of history,history of pound sterling in Oceania,Q17524420,,History of pound sterling in Oceania
+Crivitz,Crivitz,Q558985,1,0,1,"town in the Ludwigslust-Parchim district in Mecklenburg-Western Pomerania, Germany",,Q42744322,,Crivitz
+Crivitz,Crivitz railway station,Q50396515,1,0,1,"railway station in Crivitz, Germany",,Q27996466,,Crivitz station
+Crivitz,Crivitz,Q302746,1,0,1,"village in Marinette County, Wisconsin, United States","Village of Crivitz|Crivitz, Wisconsin|Crivitz, WI",Q15221242,,"Crivitz, Wisconsin"
+Crivitz,Crivitz,Q15602293,1,0,1,,,Q478847,,Crivitz (Amt)
+Crivitz,Crivitz,Q459317,1,0,1,,,Q478847,,
+Crivitz,Crivitz,Q4175845,1,0,1,crater on Mars,,Q55818|Q1475691,,Crivitz (crater)
+Crivitz,Crivitz,Q106588710,1,0,1,,,Q486972|Q253019,,
+Crivitz,Crivitz Municipal Airport,Q28446847,1,0,1,"airport in Marinette County, Wisconsin, United States of America",,Q1248784,,Crivitz Municipal Airport
+Crivitz,Crivitz School District,Q5186952,1,0,1,"school district in Crivitz, Wisconsin, United States",,Q398141,,Crivitz School District
+Crivitz,Crivitz Theatre,Q43332531,1,0,1,"former movie theater in Crivitz, Wisconsin, United States",,Q41253,,
+Tigerton,Tigerton,Q3259560,2,0,1,"village in Shawano County, Wisconsin","Village of Tigerton|Tigerton, WI",Q15221242,,"Tigerton, Wisconsin"
+Tigerton,Tigerton,Q3991260,2,0,1,,,Q122967152,Q5300,
+Tigerton,Tigerton Branch,Q69865857,2,0,1,"public library in Tigerton, Wisconsin, USA",,Q11396180|Q28564,,
+Tigerton,Tigerton Village Hall and Engine House,Q60748119,2,0,1,,,,,Tigerton Village Hall and Engine House
+Tigerton,Tigerton Union Cemetery,Q117529974,2,0,1,"cemetery in Shawano County, Wisconsin, United States",,Q39614,,
+Tigerton,Tigerton,Q3991259,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Random Lake,Random Lake,Q588990,3,0,1,"village in Sheboygan County, Wisconsin, United States","Village of Random Lake|Random Lake, Wisconsin|Random Lake, WI",Q15221242,,"Random Lake, Wisconsin"
+Random Lake,Random Lake,Q49308760,3,0,1,"lake within the village of Random Lake in Sheboygan County, Wisconsin, United States",,Q23397,,
+Random Lake,Random Lake High School,Q7291945,3,0,1,"high school in Random Lake, Sheboygan County, Wisconsin",,Q9826,,Random Lake High School
+Random Lake,Random Lake Union Cemetery,Q117519741,3,0,1,"cemetery in Ozaukee County, Wisconsin, United States",Union Cemetery,Q39614,,
+Walworth,Walworth,Q1231883,4,0,1,central district in the London Borough of Southwark,,Q2755753,,Walworth
+Walworth,Walworth,Q2285028,4,0,1,"village and civil parish in Darlington, County Durham, England","Walworth, County Durham",Q532|Q1115575,,"Walworth, County Durham"
+Walworth,Walworth,Q37245174,4,0,1,family name,,Q101352,,
+Walworth,Walworth,Q96299474,4,0,1,given name,,Q202444,,
+Walworth,Walworth,Q2609667,4,0,1,"village in Walworth County, Wisconsin, United States","Village of Walworth|Walworth, Wisconsin|Walworth, WI",Q15221242,,"Walworth, Wisconsin"
+Walworth,Walworth Barbour,Q1642479,4,0,1,American diplomat (1908–1982),,Q5,,Walworth Barbour
+Walworth,Walworth County,Q202454,4,0,1,"county in Wisconsin, United States","Walworth County, Wisconsin|Walworth County, WI",Q12178928,,"Walworth County, Wisconsin"
+Walworth,Walworth,Q3708781,4,0,1,"human settlement in Wayne County, New York, United States of America","Walworth, New York|Walworth, NY",Q15127012|Q106071004,,"Walworth, New York"
+Walworth,Walworth,Q7966870,4,0,1,"town in Walworth County, Wisconsin",,Q15219655,,"Walworth (town), Wisconsin"
+Walworth,Walworth,Q104355292,4,0,1,"townland in Londonderry, Northern Ireland",,Q2151232,,
+Walworth,Walworth County,Q494764,4,0,2,"county in South Dakota, United States","Walworth County, South Dakota|Walworth County, SD",Q12037308,,"Walworth County, South Dakota"
+Walworth,"2020 COVID-19 pandemic in Walworth County, South Dakota",Q94162106,4,0,2,"pandemic in Walworth County, South Dakota","2020 coronavirus outbreak in Walworth County, South Dakota|COVID-19 pandemic in Walworth County, South Dakota|2020 Walworth County, South Dakota COVID-19 pandemic|Walworth County, South Dakota COVID-19 pandemic|2020 COVID pandemic in Walworth County, South Dakota",Q3241045,,
+Walworth,Walworth County Wisconsin Democratic Party,Q99543431,4,0,2,political organization in the U.S. state of Wisconsin,Walworth County Wisconsin Democrats|Walworth County Democrats|Walworth County Democratic Party,Q7210356,,
+Walworth,"2020 COVID-19 pandemic in Walworth County, Wisconsin",Q94150505,4,0,2,"pandemic in Walworth County, Wisconsin","2020 coronavirus outbreak in Walworth County, Wisconsin|COVID-19 pandemic in Walworth County, Wisconsin|2020 Walworth County, Wisconsin COVID-19 pandemic|Walworth County, Wisconsin COVID-19 pandemic|2020 COVID pandemic in Walworth County, Wisconsin",Q3241045,,
+Walworth,Walworth County Fair Grounds,Q49576634,4,0,2,"Fairgrounds for a county in Wisconsin, U.S.",,Q2948561,,Walworth County Fairgrounds
+Walworth,Walworth County Waterfowl Production Area,Q49576636,4,0,2,park in the United States of America,,Q22698,,
+Walworth,Walworth County Courthouse,Q46239404,4,0,2,"county courthouse in Selby, United States of America",,Q64037785,,Walworth County Courthouse
+Walworth,Walworth County Fairgrounds,Q7966875,4,0,2,,,Q2948561,,
+Walworth,Walworth County Cemetery,Q117510008,4,0,2,"cemetery in Walworth County, Wisconsin, United States",,Q39614,,
+Kewaskum,Kewaskum,Q269546,5,0,1,"village in Washington County, Wisconsin, United States","Village of Kewaskum|Kewaskum, Wisconsin|Kewaskum, WI",Q15221242,,"Kewaskum, Wisconsin"
+Kewaskum,Kewaskum,Q6397934,5,0,1,"town in Wisconsin, United States","Kewaskum (town), Wisconsin",Q15219655,,"Kewaskum (town), Wisconsin"
+Kewaskum,Kewaskum High School,Q27963926,5,0,1,"school in Kewaskum, Wisconsin, United States",,Q9826,,Kewaskum High School
+Kewaskum,Kewaskum Public Library,Q69494656,5,0,1,"public library system in Wisconsin, USA",,Q26271642,,
+Kewaskum,Kewaskum Public Library,Q69865467,5,0,1,"public library in Kewaskum, Wisconsin, USA",,Q12317349|Q28564,,
+Kewaskum,Kewaskum Maple-Oak Woods State Natural Area,Q49510477,5,0,1,"park in Washington County, Wisconsin, United States of America",,Q22698,,
+Kewaskum,Kewaskum Kiwanis Park,Q49510475,5,0,1,"park in Washington County, Wisconsin, United States of America",,Q22698,,
+Kewaskum,Kewaskum Utensil Co.,Q117114572,5,0,1,,,Q43229,,
+Kewaskum,Kewaskum Union Cemetery,Q117631305,5,0,1,"cemetery in Washington County, Wisconsin, United States",Van Vechten Cemetery,Q39614,,
+Kewaskum,Kewaskum Theater,Q43334914,5,0,1,"former movie theater in Kewaskum, Wisconsin, United States",,Q41253,,
+Oakfield,Oakfield,Q3449230,6,0,1,"human settlement in Aroostook County, Maine, United States of America","Oakfield, ME",Q15127012,,"Oakfield, Maine"
+Oakfield,Oakfield,Q22058910,6,0,1,"human settlement in Worth County, Georgia, United States","Oakfield, Georgia|Oakfield, GA",Q17343829,,"Oakfield, Georgia"
+Oakfield,Oakfield,Q2671429,6,0,1,"village in Fond du Lac County, Wisconsin","Village of Oakfield|Oakfield, WI",Q15221242,,"Oakfield, Wisconsin"
+Oakfield,Oakfield,Q947024,6,0,1,"town in Genesee County, New York","Oakfield, New York|Oakfield, NY",Q486972|Q106071004,,"Oakfield, New York"
+Oakfield,Oakfield,Q5662052,6,0,1,"town in Fond du Lac County, Wisconsin, United States.","Oakfield, Wisconsin|Oakfield, WI",Q15219655,,"Oakfield (town), Wisconsin"
+Oakfield,Oakfield,Q58425323,6,0,1,Czech holding company,,Q4830453|Q6881511,,
+Oakfield,Oakfield,Q7073859,6,0,1,"suburb of Ryde, in the Isle of Wight, in England, UK",,Q188509,,"Oakfield, Isle of Wight"
+Oakfield,Oakfield,Q107016326,6,0,1,"census-designated place in Maine, United States",,Q498162,,"Oakfield (CDP), Maine"
+Oakfield,Oakfield,Q79309923,6,0,1,"house in Mount Albert, Auckland, New Zeland",,Q3947|Q35112127,,
+Oakfield,Oakfield,Q17861694,6,0,1,"house in Newtownbutler, County Fermanagh, Northern Ireland",,Q3947,,
+Stoddard,Stoddard,Q16883862,7,0,1,family name,Stoddard (surname),Q101352,,Stoddard (surname)
+Stoddard,Stoddard,Q27139770,7,0,1,male given name,,Q12308941,,
+Stoddard,Stoddard,Q2430576,7,0,1,"town in New Hampshire, United States","Stoddard, New Hampshire|Stoddard NH|Stoddard N.H.|Stoddard, NH",Q2154459,,"Stoddard, New Hampshire"
+Stoddard,Stoddard,Q2431681,7,0,1,"village in Vernon County, Wisconsin","Village of Stoddard|Stoddard, WI",Q15221242,,"Stoddard, Wisconsin"
+Stoddard,Stoddard County,Q497646,7,0,1,"county in Missouri, United States","Stoddard County, Missouri|Stoddard County, MO",Q13410520,,"Stoddard County, Missouri"
+Stoddard,Stoddard,Q7618306,7,0,1,baseball player,,Q5,,Stoddard (baseball)
+Stoddard,Stoddard Lincoln,Q101076138,7,0,1,,,Q5,,
+Stoddard,Stoddard,Q98507741,7,0,1,1968 nuclear weapons test,,Q210112,,
+Stoddard,Stoddard King,Q17581450,7,0,1,American writer (1889-1933),,Q5,,Stoddard King
+Stoddard,white spirit,Q1484569,7,0,1,"petroleum-derived clear, transparent liquid",minerální lihoviny|minerální terpentýn|náhražka terpentýnu|petrolejové lihoviny|rozpouštědlový naftový olej|skvrnitá nafta|Stoddardovo rozpouštědlo,Q119892838,Q169336,White spirit
+Stoddard,"2020 COVID-19 pandemic in Stoddard County, Missouri",Q94276824,7,0,2,"pandemic in Stoddard County, Missouri","2020 coronavirus outbreak in Stoddard County, Missouri|COVID-19 pandemic in Stoddard County, Missouri|2020 Stoddard County, Missouri COVID-19 pandemic|Stoddard County, Missouri COVID-19 pandemic|2020 COVID pandemic in Stoddard County, Missouri",Q3241045,,
+Stoddard,Stoddard County Missouri Democrats,Q99732694,7,0,2,political organization in US state of Missouri,Stoddard County MO Democrats|Stoddard County Democrats,Q7210356,,
+Stoddard,Stoddard County Courthouse,Q29640548,7,0,2,"county courthouse in Bloomfield, United States of America",,Q64037785,,Stoddard County Courthouse
+Rosholt,Rosholt,Q16875451,8,0,1,family name,,Q101352,,Rosholt (surname)
+Rosholt,Rosholt,Q2062880,8,0,1,"human settlement in Roberts County, South Dakota, United States of America","Rosholt, South Dakota|Rosholt, SD",Q15127012,,"Rosholt, South Dakota"
+Rosholt,Røsholt,Q30738769,8,0,1,family name,,Q101352,,
+Rosholt,Rosholt,Q1844339,8,0,1,"village in Portage County, Wisconsin, United States","Village of Rosholt|Rosholt, Wisconsin|Rosholt, WI",Q15221242,,"Rosholt, Wisconsin"
+Rosholt,Rosholt Branch,Q69865906,8,0,1,"public library in Rosholt, Wisconsin, USA",,Q11396180|Q28564,,
+Rosholt,Rosholt Creek,Q35273975,8,0,1,"stream in Itasca County, Minnesota, United States of America",,Q47521,,
+Rosholt,Røsholtene,Q31231244,8,0,1,"hill in Østfold, Norway",,Q54050,,
+Rosholt,Røsholtmoen,Q34903389,8,0,1,,,Q3240227,,
+Rosholt,Rosholt,Q443144,8,0,1,Wikimedia disambiguation page,,Q4167410,,Rosholt
+Rosholt,Røsholtsetra,Q108724424,8,0,1,,,Q2082774,,
+Sussex,Sussex,Q23346,9,0,1,"historic county of England, United Kingdom",,Q1138494,,Sussex
+Sussex,Sussex,Q984084,9,0,1,"town in New Brunswick, Canada","Sussex, New Brunswick",Q3957,,"Sussex, New Brunswick"
+Sussex,Sussex,Q37306589,9,0,1,family name,,Q101352,,
+Sussex,Sussex,Q107636812,9,0,1,given name,,Q202444,,
+Sussex,University of Sussex,Q1161297,9,0,1,"university in Brighton and Hove, UK",Sussex University,Q62078547|Q38723|Q5341295,,University of Sussex
+Sussex,Sussex County,Q495998,9,0,1,"county in New Jersey, United States","Sussex County, New Jersey|Sussex County, NJ",Q13414754,,"Sussex County, New Jersey"
+Sussex,history of Sussex,Q5866736,9,0,1,aspect of history,Sussex history,Q17524420,,History of Sussex
+Sussex,Sussex,Q60576068,9,0,1,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Sussex,Sussex Archaeological Collections,Q15764602,9,0,1,peer-reviewed journal,Suss Arch Collns|Sussex Archaeol. Collect.,Q5633421|Q21834496|Q73364223,,Sussex Archaeological Collections
+Sussex,Sussex,Q1083350,9,0,1,"borough in Sussex County, New Jersey, United States","Sussex, New Jersey|Sussex, NJ",Q2911266,,"Sussex, New Jersey"
+Sussex,Sussex County,Q156213,9,0,2,"county in Delaware, United States","Sussex County, Delaware|Sussex County, DE",Q13410411,,"Sussex County, Delaware"
+Sussex,Sussex County,Q340591,9,0,2,"county in Virginia, United States","Sussex County, Virginia|Sussex County, VA",Q13415368,,"Sussex County, Virginia"
+Sussex,Sussex County Cricket Club,Q3505744,9,0,2,English cricket club,Sussex County Cricket Team|Sussex Cricket Club|Sussex Cricket Team|Sussex CCC|Sussex County Cricket|Sussex Sharks|Sussex Sharks Cricket Club|Cricket Club Sussex Sharks|Sussex Sharks Cricket Team|Cricket Team Sussex Sharks|Cricket Sussex Sharks,Q17376093,,Sussex County Cricket Club
+Sussex,Southern Combination Football League,Q2035193,9,0,2,UK sports league,Sussex County Football League,Q623109,,Southern Combination Football League
+Sussex,Sussex county cricket teams,Q7649505,9,0,2,Series of historic cricket teams,,Q20136634|Q12973014,,Sussex county cricket team (pre-1839)
+Sussex,Sussex County,Q7649416,9,0,2,county of Western Australia,"Sussex County, Western Australia",Q15643559,,"Sussex County, Western Australia"
+Sussex,Sussex County Republican Party,Q135963505,9,0,2,"affliate of the Denicratic Party in Sussex County, Virginia",,Q7278,,
+Sussex,"2020 COVID-19 pandemic in Sussex County, Delaware",Q94267958,9,0,2,"pandemic in Sussex County, Delaware","COVID-19 pandemic in Sussex County, Delaware|2020 coronavirus outbreak in Sussex County, Delaware|2020 Sussex County, Delaware COVID-19 pandemic|Sussex County, Delaware COVID-19 pandemic|2020 COVID pandemic in Sussex County, Delaware",Q3241045,,
+Sussex,Sussex County Library,Q69484682,9,0,2,"public library system in New Jersey, USA",,Q26271642,,

@@ -1,0 +1,106 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2007nc,SN 2007nc,Q9330648,0,0,1,supernova,,Q3937,,
+SN 2007nd,SN 2007nd,Q9330647,1,0,1,supernova,,Q3937,,
+SN 2007nb,SN 2007nb,Q9330646,2,0,1,supernova,,Q3937|Q67206691,,
+SN 2007mz,SN 2007mz,Q9330644,3,0,1,supernova,,Q3937,,
+SN 2007mz,minor planet,Q1022867,3,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 2007mz,Minor Planet Center database,Q106600690,3,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 2007mz,Minor Planet Center,Q522039,3,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 2007mz,minor planet moon,Q657829,3,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 2007mz,Minor Planet Circulars,Q6382430,3,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 2007mz,minor planet group,Q2332332,3,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 2007mz,list of minor planets,Q37651,3,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 2007mz,Minor planet designation,Q817125,3,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 2007mz,Minor Planet Bulletin,Q6869125,3,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 2007mz,Minor Planet Catalogue,Q55178248,3,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 2007mz,asteroid,Q3863,3,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 2007mz,asteroid belt,Q2179,3,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 2007mz,Asteroid,Q4810751,3,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 2007mz,Asteroid,Q113629153,3,0,2,early access video game,,Q7889,,
+SN 2007mz,starfish,Q25349,3,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 2007mz,Asteroid,Q132852203,3,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 2007mz,Asteroideae,Q21004,3,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 2007mz,Asteroids,Q748890,3,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 2007mz,Asteroid Terrestrial-impact Last Alert System,Q17002475,3,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 2007mz,Vesta,Q3030,3,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 2007mz,61703,Q135572722,3,0,2,natural number,,Q16317911|Q13366129|Q49008|Q467511,,
+SN 2007mz,61703·2^32257 + 1,Q96802275,3,0,2,prime number,,Q49008,,
+SN 2007mz,"6^170371 - V(6, 6, 170371) + 1",Q96876072,3,0,2,prime number,,Q49008,,
+SN 2007my,SN 2007my,Q9330643,4,0,1,supernova,,Q3937,,
+SN 2007my,SN 2006gy,Q644956,4,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2007my,SN 2006X,Q2659966,4,0,2,supernova,,Q3937,,SN 2006X
+SN 2007my,SN 2005cs,Q597168,4,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2007my,SN 2006jc,Q1747732,4,0,2,supernova,,Q3937,,SN 2006jc
+SN 2007my,SN 2002cx,Q7391949,4,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2007my,SN 2004et,Q9329248,4,0,2,supernova,,Q3937,,SN 2004et
+SN 2007my,SN 2006rs,Q9330210,4,0,2,supernova,,Q3937,,
+SN 2007my,SN 2008cs,Q9330949,4,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2007my,SN 2002dj,Q9328532,4,0,2,supernova,,Q3937,,
+SN 2007my,SN 2006td,Q9330246,4,0,2,supernova,,Q3937,,
+SN 2007mv,SN 2007mv,Q9330639,5,0,1,supernova,,Q3937|Q67206691,,
+SN 2007ms,SN 2007ms,Q9330638,6,0,1,supernova,,Q3937,,
+SN 2007ms,SN 2007on,Q4048839,6,0,2,supernova,,Q3937,,SN 2007on
+SN 2007ms,SN 2007af,Q4048837,6,0,2,supernova,,Q3937,,
+SN 2007ms,SN 2007gk,Q4048838,6,0,2,supernova,,Q3937,,
+SN 2007ms,SN 2007co,Q4048836,6,0,2,supernova,,Q3937,,
+SN 2007ms,SN 2007ck,Q4048835,6,0,2,supernova,,Q3937,,
+SN 2007ms,SN 2007uy,Q1064704,6,0,2,supernova,,Q3937,,SN 2007uy
+SN 2007ms,SN 2007sr,Q4816869,6,0,2,supernova,,Q3937,,SN 2007sr
+SN 2007ms,SN 2007rt,Q9330769,6,0,2,supernova,,Q3937,,
+SN 2007ms,SN 2007bi,Q606167,6,0,2,supernova in the constellation Virgo,,Q3937,,SN 2007bi
+SN 2007ms,SN 2007ja,Q9330540,6,0,2,supernova,,Q3937,,
+SN 2007mt,SN 2007mt,Q9330637,7,0,1,supernova,,Q3937,,
+SN 2007mt,supernova,Q3937,7,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2007mt,Senegal,Q1041,7,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2007mt,substantia nigra,Q753278,7,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2007mt,tin,Q1096,7,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2007mt,Great Norwegian Encyclopedia,Q746368,7,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2007mt,snowboarding,Q178131,7,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2007mt,SNAC,Q29861311,7,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2007mt,Science News,Q2313730,7,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2007mt,Shona Wikipedia,Q8571809,7,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2007mt,SciGraph,Q65509402,7,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2007mr,SN 2007mr,Q9330636,8,0,1,supernova,,Q3937,,
+SN 2007mr,supernova,Q3937,8,0,2,star exploding at the end of its stellar lifespan,SN|SNe|supernovae|SNO,Q17444909,Q523|Q179057|Q751989,Supernova
+SN 2007mr,Senegal,Q1041,8,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+SN 2007mr,substantia nigra,Q753278,8,0,2,neuroanatomical structure,SN,Q112826905,Q66590385|Q112826975,Substantia nigra
+SN 2007mr,tin,Q1096,8,0,2,chemical element with symbol Sn and atomic number 50,element 50,Q11344|Q79529|Q1929547,Q19591|Q244982,Tin
+SN 2007mr,Great Norwegian Encyclopedia,Q746368,8,0,2,Norwegian encyclopedia,SNL|snl.no|Store norske leksikon|GNE|GNE-dig,Q1239328|Q35127|Q615699|Q18168594,,Store norske leksikon
+SN 2007mr,snowboarding,Q178131,8,0,2,snow sport involving a single board,snowboard,Q31629|Q47728|Q268592,Q204686|Q911069|Q212434,Snowboarding
+SN 2007mr,SNAC,Q29861311,8,0,2,"online resource that helps users discover biographical and historical information about persons, families, and organizations that created or are documented in historical resources (primary source documents) and their connections to one another",snaccooperative.org|Social Networks and Archival Context,Q8513|Q35127|Q36524|Q194166,,SNAC
+SN 2007mr,Science News,Q2313730,8,0,2,American magazine,SN|ScienceNews,Q41298|Q7094076|Q35127,,Science News
+SN 2007mr,Shona Wikipedia,Q8571809,8,0,2,Shona-language edition of Wikipedia,snwiki|snwp|snwikipedia|sn.wikipedia.org,Q10876391,,Shona Wikipedia
+SN 2007mr,SciGraph,Q65509402,8,0,2,scientific linked data platform,SN SciGraph|Springer Nature SciGraph|Springer Nature SciGraph Explorer|SN SciGraph Explorer,Q8513|Q35127,,SciGraph
+SN 2007mp,SN 2007mp,Q9330634,9,0,1,supernova,,Q3937,,
+SN 2007mo,SN 2007mo,Q9330633,10,0,1,supernova,,Q3937,,
+SN 2007mn,SN 2007mn,Q9330632,11,0,1,supernova,,Q3937,,
+SN 2007mm,SN 2007mm,Q9330631,12,0,1,supernova,,Q3937,,
+SN 2007mm,SN 2007on,Q4048839,12,0,2,supernova,,Q3937,,SN 2007on
+SN 2007mm,SN 2007af,Q4048837,12,0,2,supernova,,Q3937,,
+SN 2007mm,SN 2007gk,Q4048838,12,0,2,supernova,,Q3937,,
+SN 2007mm,SN 2007co,Q4048836,12,0,2,supernova,,Q3937,,
+SN 2007mm,SN 2007ck,Q4048835,12,0,2,supernova,,Q3937,,
+SN 2007mm,SN 2007uy,Q1064704,12,0,2,supernova,,Q3937,,SN 2007uy
+SN 2007mm,SN 2007sr,Q4816869,12,0,2,supernova,,Q3937,,SN 2007sr
+SN 2007mm,SN 2007rt,Q9330769,12,0,2,supernova,,Q3937,,
+SN 2007mm,SN 2007bi,Q606167,12,0,2,supernova in the constellation Virgo,,Q3937,,SN 2007bi
+SN 2007mm,SN 2007ja,Q9330540,12,0,2,supernova,,Q3937,,
+SN 2007ml,SN 2007ml,Q9330630,13,0,1,supernova,,Q3937,,
+SN 2007mj,SN 2007mj,Q9330629,14,0,1,supernova,,Q3937|Q67206691,,
+SN 2007mk,SN 2007mk,Q9330628,15,0,1,supernova,,Q3937,,
+SN 2007mi,SN 2007mi,Q9330627,16,0,1,supernova,,Q3937|Q67206691,,
+SN 2007mh,SN 2007mh,Q9330626,17,0,1,supernova,,Q3937|Q67206691,,
+SN 2007mg,SN 2007mg,Q9330625,18,0,1,supernova,,Q3937,,
+SN 2007mg,SN 2007on,Q4048839,18,0,2,supernova,,Q3937,,SN 2007on
+SN 2007mg,SN 2007af,Q4048837,18,0,2,supernova,,Q3937,,
+SN 2007mg,SN 2007gk,Q4048838,18,0,2,supernova,,Q3937,,
+SN 2007mg,SN 2007co,Q4048836,18,0,2,supernova,,Q3937,,
+SN 2007mg,SN 2007ck,Q4048835,18,0,2,supernova,,Q3937,,
+SN 2007mg,SN 2007uy,Q1064704,18,0,2,supernova,,Q3937,,SN 2007uy
+SN 2007mg,SN 2007sr,Q4816869,18,0,2,supernova,,Q3937,,SN 2007sr
+SN 2007mg,SN 2007rt,Q9330769,18,0,2,supernova,,Q3937,,
+SN 2007mg,SN 2007bi,Q606167,18,0,2,supernova in the constellation Virgo,,Q3937,,SN 2007bi
+SN 2007mg,SN 2007ja,Q9330540,18,0,2,supernova,,Q3937,,
+SN 2007mf,SN 2007mf,Q9330624,19,0,1,supernova,,Q3937,,
+SN 2007me,SN 2007me,Q9330623,20,0,1,supernova,,Q3937,,
+SN 2007md,SN 2007md,Q9330622,21,0,1,supernova,,Q3937,,

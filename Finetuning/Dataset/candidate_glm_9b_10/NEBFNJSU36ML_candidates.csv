@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Birdwood Park,Birdwood Park,Q21972442,0,0,1,"park in Western Australia, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21970403,0,0,1,"park in South Australia, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21925491,0,0,1,,,Q22698,,
+Birdwood Park,Birdwood Park,Q21925490,0,0,1,"park in New South Wales, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21617203,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Birdwood Park,Birdwood Park,Q21972442,1,0,1,"park in Western Australia, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21970403,1,0,1,"park in South Australia, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21925491,1,0,1,,,Q22698,,
+Birdwood Park,Birdwood Park,Q21925490,1,0,1,"park in New South Wales, Australia",,Q22698,,
+Birdwood Park,Birdwood Park,Q21617203,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Halcyon Park,Halcyon Park,Q21929013,2,0,1,"park in New South Wales, Australia",,Q22698,,
+Halcyon Park,Halcyon Park,Q49497153,2,0,1,"park in Alameda County, California, United States of America",,Q22698,,
+Halcyon Park,"Halcyon Park, Bloomfield, New Jersey",Q5641216,2,0,1,"human settlement in New Jersey, United States of America","Halcyon Park, NJ",Q17343829,,"Halcyon Park, Bloomfield, New Jersey"
+Halcyon Park,Halcyon Park,Q22169131,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Halcyon Park,park,Q22698,2,0,2,"permanently dedicated recreation area, often open to the public and generally characterized by natural, historic, or landscape features",recreational park,Q137393561,Q111415237|Q13226383|Q35145743|Q338112,Park
+Halcyon Park,Park,Q20007284,2,0,2,family name,,Q101352,,Park (English surname)
+Halcyon Park,Parkinson's disease,Q11085,2,0,2,long-term degenerative neurological disorder,paralysis agitans|parkinsonismus idiopathicus|Parkinson disease,Q42303753|Q929833|Q112193867|Q112965645,Q2376264,Parkinson's disease
+Halcyon Park,Park,Q18608215,2,0,2,male given name,Park (first name)|Park (given name),Q12308941,,
+Halcyon Park,Park,Q715935,2,0,2,Korean family name (박),Bak|Pak,Q101352,,Park (Korean surname)
+Halcyon Park,Parker,Q1628041,2,0,2,family name,,Q101352,,Parker (surname)
+Halcyon Park,Park,Q7137586,2,0,2,"district of the Isle of Lewis and peninsula in the Outer Hebrides, Scotland, UK",South Lochs|A' Phàirc|Pairc|Ceann a Deas nan Loch,Q149621|Q34763,,"Park, Lewis"
+Halcyon Park,Park,Q23871997,2,0,2,article in Otto's encyclopedia,,Q13433827,,
+Halcyon Park,Parkano,Q953070,2,0,2,town in the region of Pirkanmaa in Finland,,Q3957|Q856076|Q515,,Parkano
+Halcyon Park,Parkersburg,Q329485,2,0,2,"city in and county seat of Wood County, West Virginia","Parkersburg, West Virginia|Parkersburg, WV",Q1093829|Q62049,,"Parkersburg, West Virginia"
+Halcyon Park,urban park,Q22746,2,0,2,park in a city or other incorporated place,municipal park|municipal gardens|city park|public park|town park,Q137393561,Q22698|Q1107656|Q61055883,Urban park
+Halcyon Park,Public park,Q67746046,2,0,2,"urban municipal park in central Cesena, Italy",,Q22746,,
+Halcyon Park,"Public Park at Arles, The",Q26220286,2,0,2,painting by Vincent van Gogh,,Q3305213,,
+Halcyon Park,public parking space,Q2052801,2,0,2,public space for parking a single vehicle,public parking spot,,Q1433633,
+Halcyon Park,Public Parks (Ireland) Act 1869 Amendment Act 1872,Q106434375,2,0,2,1872 United Kingdom of Great Britain and Ireland Act of Parliament 35 & 36 Vic c. 6,,Q105774620,,
+Halcyon Park,Public Park Public Conveniences,Q107357523,2,0,2,Public Conveniences in Porthmadog,,Q813966,,
+Halcyon Park,Public Parks (Ireland) Act 1869,Q106412174,2,0,2,1869 United Kingdom of Great Britain and Ireland Act of Parliament 32 & 33 Vic c. 28,,Q105774620,,
+Halcyon Park,"Public Parks, Schools, and Museums Act 1871",Q106423067,2,0,2,1871 United Kingdom of Great Britain and Ireland Act of Parliament 34 & 35 Vic c. 13,,Q105774620,,
+Halcyon Park,"public park ""I Forti""",Q29896560,2,0,2,"public park in Chiusi, Siena, Italy",,Q22746,,
+Halcyon Park,Parking Payanne,Q79026523,2,0,2,"Public parking in Caromb, Vaucluse",Public Parking,Q6501349,,
+Mowbray Park,Mowbray Park,Q37041142,3,0,1,"human settlement in Wollondilly, New South Wales, Australia","Mowbray Park, New South Wales|Mowbray Park, New South Wales, Australia",Q3957|Q3257686,,"Mowbray Park, New South Wales"
+Mowbray Park,Mowbray Park,Q6927247,3,0,1,"park in Sunderland, United Kingdom",,Q22698,,Mowbray Park
+Mowbray Park,Mowbray Park,Q21933016,3,0,1,"park in New South Wales, Australia",,Q22698,,
+Mowbray Park,Mowbray Park,Q49529410,3,0,1,"park in Queen Anne's County, Maryland, United States of America",,Q22698,,
+Mowbray Park,Mowbray Park,Q110027804,3,0,1,watercolor by Edward Francis Burney,,Q18761202,,
+Mowbray Park,"Mowbray Park, Brisbane",Q18166159,3,0,1,"Heritage listed park in Brisbane, Australia",Mowbray Park and East Brisbane War Memorial,Q22698,,"Mowbray Park, Brisbane"
+Mowbray Park,Mowbray Park War Memorial,Q19875838,3,0,1,"historic site in Queensland, Australia",,Q1081138,,Mowbray Park and East Brisbane War Memorial
+Mowbray Park,Mowbray Park ferry wharf,Q6927249,3,0,1,ferry wharf in Brisbane,,Q828909,,Mowbray Park ferry wharf
+Mowbray Park,"Mowbray Park, Sunderland, Early Morning",Q119700864,3,0,1,"painting by Edith Alexandra Dalrymple-Smith (1895–1958), Sunderland Museum & Winter Gardens",,Q3305213,,
+Mowbray Park,Mowbray Park,Q22938183,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Humboldthain,Humboldthain,Q2532125,4,0,1,"park in Berlin, Germany",,Q22746|Q22698,,Volkspark Humboldthain
+Humboldthain,Berlin Humboldthain station,Q481276,4,0,1,"railway station in Mitte, Germany",,Q110977521|Q27996460,,Berlin Humboldthain station
+Humboldthain,Humboldthain,Q1525011,4,0,1,"park in Bautzen, Germany",,Q22698,,
+Humboldthain,Humboldthain Club,Q137442333,4,0,1,,,Q6881511|Q622425,,
+Humboldthain,Humboldthain,Q1630708,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Beatrixpark,Beatrixpark,Q1845531,5,0,1,"park in Amsterdam, Netherlands",,Q22698,,Beatrixpark
+Beatrixpark,Beatrixpark,Q49546225,5,0,1,"park in Schiedam, the Netherlands",,Q22746,,
+Beatrixpark,Beatrixpark,Q116558650,5,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Beatrixpark,Beatrixpark,Q18944923,5,0,1,"street in Etten-Leur, the Netherlands",,Q79007,,
+Beatrixpark,Beatrixpark,Q18944927,5,0,1,"street in Winterswijk, the Netherlands",,Q79007,,
+Beatrixpark,Beatrixpark,Q2590798,5,0,1,"park in Venlo, Netherlands",,Q22698,,
+Beatrixpark,Beatrixpark,Q18944925,5,0,1,"street in 's-Hertogenbosch, the Netherlands",,Q79007,,
+Beatrixpark,Beatrixpark,Q2574687,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Beatrixpark,Beatrix Parker (née Lister),Q21557111,5,0,2,,,Q5,,

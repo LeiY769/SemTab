@@ -1,0 +1,327 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lithos,Lithos,Q3256566,0,0,1,journal,,Q5633421|Q737498,,Lithos (journal)
+Lithos,Lithospermum,Q932776,0,0,1,genus of plants,gromwell|gromwells|stoneseed|stoneseeds,Q16521,,Lithospermum
+Lithos,Lithospermum erythrorhizon,Q15592453,0,0,1,species of plant,red gromwell|purple gromwell|red-root gromwell|redroot lithospermum,Q16521,Q157957|Q190903,Lithospermum erythrorhizon
+Lithos,Lithosiini,Q18627587,0,0,1,tribe of insects,,Q16521,,Lithosiini
+Lithos,Lithostege,Q6648204,0,0,1,genus of insects,,Q16521,,Lithostege
+Lithos,lithosphere,Q83296,0,0,1,"rigid, outermost shell of a terrestrial-type planet or natural satellite that is defined by its rigid mechanical properties",,Q241284,Q23497981,Lithosphere
+Lithos,Lithospermum officinale,Q515267,0,0,1,species of plant,,Q16521,Q190903,Lithospermum officinale
+Lithos,Lithosia,Q1367107,0,0,1,genus of insects,,Q16521,,Lithosia
+Lithos,Lithosiinae,Q2560142,0,0,1,subfamily of insects,,Q16521|Q1040689,,
+Lithos,Lithosiina,Q18089116,0,0,1,subtribe of insects,,Q16521,,Lithosiina
+Sculpture,sculpture,Q860861,1,0,1,three-dimensional work of art,sculptures|piece of sculpture|sculptural work|sculptural piece,Q116474095,Q8205328|Q4502142|Q35459920|Q17537576,
+Sculpture,art of sculpture,Q11634,1,0,1,branch of the visual arts that operates in three dimensions,sculpture|sculpting,Q56055944|Q1792379|Q1437361|Q47728,Q17310537|Q47407603,Sculpture
+Sculpture,sculpture,Q17310537,1,0,1,manufacture of sculptures in arts and crafts,,Q56055944|Q877729|Q1792379,Q1078913,
+Sculpture,group of sculptures,Q2293362,1,0,1,various sculptures that belong together,sculpture group|sculpted group|statue group|statue set|group of statues|collection of sculptures,Q1792379,Q107338575|Q28870066|Q124336457,
+Sculpture,Sculpture,Q135473107,1,0,1,2022 short documentary film directed by Ramin Hosseinpour,,Q11424|Q24862|Q11425|Q790192,,
+Sculpture,Sculptures in the National Gallery of Art,Q63806982,1,0,1,collection of sculptures in the National Gallery of Art,,Q7328910,,
+Sculpture,Sculpture,Q18352932,1,0,1,sculpture by Philolaos at Lyon,,Q860861,,
+Sculpture,sculpture in the round,Q2520013,1,0,1,freestanding sculpture,,,Q860861|Q2695280,
+Sculpture,Resistencia,Q44206,1,0,1,"capital city of Chaco Province, Argentina",Sculptures City,Q5770918|Q3243765|Q15284|Q1549591,,"Resistencia, Chaco"
+Sculpture,sculpture garden,Q1759852,1,0,1,outdoor garden dedicated to the presentation of sculptures,sculpture park,Q63982911,Q22698|Q7328910|Q1107656|Q860861|Q756102,Sculpture garden
+Sculpture,work of art,Q838948,1,0,2,aesthetic item or artistic creation of aesthetic value,artwork|piece of art|art work|art object|art piece|artistic work|art|artworks|art works|artistic works|art objects,Q151885|Q139243747|Q133449656,Q17537576|Q2424752|Q2342494|Q115923123|Q8205328|Q16686448,Work of art
+Sculpture,work,Q386724,1,0,2,intellectual or artistic creation,creation|artwork,,Q16686448|Q1791627,
+Sculpture,Artwork,Q2667810,1,0,2,2009 album by The Used,,Q482994,,Artwork (album)
+Sculpture,artwork series,Q15709879,1,0,2,thematic group of an artist's works,series of works of art|series of artworks|art series,Q140354053,Q7725310|Q18593264|Q66661745,
+Sculpture,Artwork,Q4801835,1,0,2,drawing used in various processes to transfer an image onto a substrate,,,,Artwork (graphic arts)
+Sculpture,prime version,Q17152495,1,0,2,first produced work of art in a number of versions,original version|original|master copy|artwork original version|original work,Q71533077,Q838948|Q65718572|Q17537576,Prime version
+Sculpture,art genre,Q1792379,1,0,2,"form of art in terms of a medium, format or theme",art form|genre of art|arts genre|artwork genre,Q19478619,Q483394,
+Sculpture,artwork copy,Q1784021,1,0,2,faithful reproduction of an artwork,art reproduction|reproduced art|reproduced art work|reproduced artwork|reproduction of art|copy|replica|reproduction,,Q838948|Q836950|Q1232589,
+Sculpture,Artwork,Q2603887,1,0,2,artist,DJ Artwork,Q5,,
+Sculpture,list of claims for restitution for Nazi-looted art,Q1864251,1,0,2,Wikimedia list article,Restitution cases|Nazi era restitution cases|artworks that have been the object of restitution claims linked to Nazi persecution of Jews,Q13406463,,List of claims for restitution for Nazi-looted art
+Sculpture,statue,Q179700,1,0,2,sculpture primarily conceived as a representational figure,,Q18783400,Q860861|Q29527347|Q8205328|Q220659,Statue
+Sculpture,Statue of Liberty,Q9202,1,0,2,monument in New York,,Q43113623|Q1440300|Q179700|Q1779653,,Statue of Liberty
+Sculpture,figurine,Q1066288,1,0,2,"small item resembling a person or animal, sometimes part of a larger work",statuette|staction figure|inaction figure,Q18783400,Q179700,Figurine
+Sculpture,Statues Hither & Thither,Q109323266,1,0,2,website about public art,Statues – Hither & Thither|statues.vanderkrogt.net|Van der Krogt sites,Q35127|Q7094076,,
+Sculpture,Heykel.org,Q140170222,1,0,2,Professional sculpture workshop and order platform based in Turkey,heykel.org|Sculpture workshop|sculpture order|statue,Q4830453,,
+Sculpture,Statue,Q67196905,1,0,2,"By Joan Miró ((Spanish, 1893–1983)); 1926; Conté crayon on paper; 24 1/2 x 18 3/4"" (62.3 x 47.6 cm)",,Q3305213,,
+Sculpture,Tōdai-ji Daibutsu,Q11526469,1,0,2,"statue in Nara, Nara, Japan",Tōdai-ji Great Buddha|Statue of Vairocana Buddha|Great Buddha of Tōdaiji,Q1051606|Q22119607|Q860861,,
+Sculpture,The Statue,Q3989460,1,0,2,1913 film by Allen Curtis,Statue,Q24862,,The Statue (1913 film)
+Sculpture,Pomník Mateřství (České Budějovice),Q57504196,1,0,2,"statue of a mother & baby in České Budějovice, Czechia",statue,Q4989906|Q179700,,
+Sculpture,religious sculptural piece,Q116445901,1,0,2,specific sculpture object,image|sculpture|sculptural image|sculptural work|piece of sculpture|statue|sculptural piece|religious sculpture as object,,Q860861|Q12910132|Q179700,
+Sculpture,Sculptural work by Sylva Jílková-Lacinová,Q120142621,1,0,2,diploma thesis by Jiří Hyliš,,Q1907875,,
+Sculpture,SCULPTURAL WORKS OF MENTAL PATIENTS,Q78276842,1,0,2,scientific article published on 01 March 1965,,Q13442814,,
+ARS,Argentine convertible peso,Q199578,2,0,1,currency of Argentina since 1992,peso convertible Argentina|ARS,Q8142,Q244696,Argentine peso
+ARS,Ars-sur-Formans,Q206665,2,0,1,"commune in Ain, France",Ars,Q484170,,Ars-sur-Formans
+ARS,Ars-en-Ré,Q300000,2,0,1,"commune in Charente-Maritime, France",Ars (devenue Ars-en-Ré)|La Concorde|Ars,Q484170,,Ars-en-Ré
+ARS,Ars,Q703965,2,0,1,"commune in Charente, France",,Q484170,,"Ars, Charente"
+ARS,Ars,Q860727,2,0,1,"commune in Creuse, France",,Q484170,,"Ars, Creuse"
+ARS,Europe PubMed Central,Q5412157,2,0,1,database of biomedical research,HielohitooEurope PMC|UKPMhC|Arsingoli,Q1789476|Q1916557|Q4117139|Q7096323,,Europe PubMed Central
+ARS,Ars-sur-Moselle,Q21833,2,0,1,"commune in Moselle, France",Ars-an-der-Mosel|Ars,Q484170,,Ars-sur-Moselle
+ARS,Arsenal F.C.,Q9617,2,0,1,"association football club in London, England",AFC|Arsenal Football Club|The Arsenal|The Ars|The Arsenal F.C.|The Arsenal FC|A.F.C.|Arsenal London,Q476028,,Arsenal F.C.
+ARS,Ars Technica,Q584152,2,0,1,technology news and information website,,Q17232649,,Ars Technica
+ARS,Ars,Q4892773,2,0,1,decentralized municipal entity in Catalonia,,Q3055118|Q6554043|Q130261443,,
+ARS,Argentina,Q414,2,0,2,country in South America,Argentine Republic|Republic of Argentina|Republica Argentina,Q3624078|Q6256|Q6266|Q10551526|Q140892892,,Argentina
+ARS,Argentina,Q4789276,2,0,2,genus of plants,silverweeds|silverweed,Q16521,,Argentina (plant)
+ARS,Argentina,Q2183754,2,0,2,genus of fishes,,Q16521,,Argentina (fish)
+ARS,Argentina,Q3622264,2,0,2,female given name,Argentina (first name)|Argentina (given name)|Αργεντίνα,Q11879590,,
+ARS,Argentina,Q37498453,2,0,2,family name,,Q101352,,
+ARS,Enchanted Isle,Q21196329,2,0,2,scrapped passenger ship,Veendam|New Orleans|IMO 5023162|Argentina,Q39804|Q697196,,SS Argentina (1958)
+ARS,Argentina men's national football team,Q79800,2,0,2,men's national association football team representing Argentina,Argentina national soccer team|Argentina national association football team|Argentina men's national soccer team|Argentina national football team|Argentina men's national association football team,Q135408445,Q1194951,Argentina national football team
+ARS,Argentina,Q83645577,2,0,2,ship built in 1949,IMO 5023174|Presidente Perón,Q2055880,,
+ARS,Argentina national rugby union team,Q646070,2,0,2,national sports team,Los Pumas,Q58840819,,Argentina national rugby union team
+ARS,Argentina,Q10573041,2,0,2,ship built in 1935,,Q1752434,,
+ARS,Argentine motorcycle Grand Prix,Q1082815,2,0,2,motorcycle race held in Argentina,Argentine Republic motorcycle Grand Prix,Q3774608,,Argentine motorcycle Grand Prix
+ARS,República class fleet,Q63735883,2,0,2,fleet of Flower class corvettes in service with Argentina's naval forces,Argentine Republica class fleet,Q63433199,,
+ARS,Cefora,Q5057288,2,0,2,Argentine association,Argentine Republic Committee for UFO Phenomena Studies,Q988108,,Cefora
+ARS,"Argentine Republic. Laws, statutes, etc",Q27719294,2,0,2,journal,Argent Repub Laws Statut,Q5633421,,
+ARS,"Argentine Republic, Petitioner v. Amerada Hess Shipping Corporation, et al. [Case 87-1372] / Kathyrn Isabella Mesa and Shabbir A. Ebrahim, a.k.a Shabbir Azam, Petitioners v. California [Case 87-1602] / Ronald D. Castille, etc., et (NAID 118974835)",Q67604396,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+ARS,"Argentine Republic's Secretary of War Receives Legion of Merit, Pentagon, Washington, D.C. (NAID 102043381)",Q67451644,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+British Journal of Anaesthesia,British Journal of Anaesthesia,Q72466,3,0,1,journal,BJA|BJA: British Journal of Anaesthesia,Q5633421|Q5953270|Q737498|Q73364223|Q16024164,,British Journal of Anaesthesia
+British Journal of Anaesthesia,British Journal of Anaesthesia,Q83839158,3,0,1,scientific article published on 01 November 1923,,Q13442814|Q871232,,
+British Journal of Anaesthesia,British journal of anaesthesia,Q43789694,3,0,1,"scientific article published on February 1, 1975",,Q13442814,,
+Nature,Nature,Q180445,4,0,1,British scientific journal since 1869,,Q5633421|Q737498,,Nature (journal)
+Nature,Nature Communications,Q573880,4,0,1,scientific journal,Nat Commun|Nature communications,Q5633421|Q737498|Q773668,,Nature Communications
+Nature,Nature medicine,Q1633234,4,0,1,scientific journal,Nature Medicine、Nat. Med.,Q5633421|Q16024164,,Nature Medicine
+Nature,nature,Q7860,4,0,1,"natural, physical, or material world and its phenomena",,Q483247|Q1365054,,Nature
+Nature,Nature Neuroscience,Q1535359,4,0,1,journal,,Q5633421,,Nature Neuroscience
+Nature,Nature Reviews Urology,Q2079265,4,0,1,peer-reviewed scientific journal,Nature Reviews. Urology,Q5633421|Q737498,,Nature Reviews Urology
+Nature,quality,Q1207505,4,0,1,distinguishing feature,feature|attribute|nature|trait|characteristic,Q33104279|Q96253971,Q937228,Quality (philosophy)
+Nature,Nature Chemistry,Q2107904,4,0,1,peer-reviewed scientific journal,,Q5633421,,Nature Chemistry
+Nature,Nature Ecology & Evolution,Q39049712,4,0,1,scientific journal,Nat Ecol Evol|2397-334X|Nature Ecology and Evolution,Q5633421,,Nature Ecology & Evolution
+Nature,nature,Q115519012,4,0,1,"set of essential properties, dispositions and causal links of an individual entity that determine its behaviour",,,Q813912,
+Nature,Nature Magazine,Q110845439,4,0,2,American magazine (1923–1959),,Q41298,,Nature Magazine (US)
+Nature,Nature Portfolio,Q180419,4,0,2,British publisher,NPG|Nature Publishing Group|natureresearch|Nature Research,Q2085381|Q45400320|Q96888669,,Nature Portfolio
+Nature,Nature Publishing Group and its new journal-Nature Materials,Q120094203,4,0,2,scientific article published in 2003,,Q13442814,,
+Nature,Nature Publishing Group wins long-running libel trial,Q71865416,4,0,2,journal article; published in Nature on 2012-07-06,,Q13442814,,
+Res Publica,Roman Republic,Q17167,5,0,1,period of ancient Roman civilization (509 BC–27 BC),res publica|Rome,Q11514315|Q1307214|Q48349|Q3024240,,Roman Republic
+Res Publica,Isamaa,Q163347,5,0,1,Estonian political party,Pro Patria and Res Publica Union|Fatherland|Isamaa ja Res Publica Liit|IRL|Res Publica,Q7278,,Isamaa
+Res Publica,Res Publica,Q15751012,5,0,1,journal,,Q737498,,Res Publica (journal)
+Res Publica,Res Publica,Q135020249,5,0,1,video game developed by Benjamin Meyer,,Q7889,,
+Res Publica,Res Publica Party,Q1471814,5,0,1,political party,Erakond Res Publica,Q7278,,Res Publica Party
+Res Publica,Res Publica,Q96717737,5,0,1,,,Q5633421,,
+Res Publica,Res publica,Q1994847,5,0,1,"Latin phrase, meaning 'public affair'",,Q3062294,,Res publica
+Res Publica,Res publica,Q6106093,5,0,1,2009 film by José Maria Nunes,,Q11424,,
+Res Publica,Res Publica,Q9307458,5,0,1,Polish rock group,,Q215380,,
+Res Publica,Res Publica,Q9307455,5,0,1,Polish cultural-political magazine,,Q2085381,,
+Res Publica,Republic Records,Q4413456,5,0,2,"American record label, division of Universal Music Group (UMG)",Universal Republic Records|Republic,Q18127,,Republic Records
+Res Publica,Chile,Q298,5,0,2,"country in South America and Oceania, with a claim in Antarctica",Republic of Chile|CHI,Q3624078|Q6256|Q6266|Q5255892|Q1323642,,Chile
+Res Publica,Peru,Q419,5,0,2,sovereign state in South America,pe|Republic of Peru|Republica del Peru|per,Q3624078|Q6256,,Peru
+Res Publica,Ecuador,Q736,5,0,2,sovereign state in South America,Republic of Ecuador|Republic of the Equator|Republic of Equator|The Ecuadorian State,Q3624078|Q6256,,Ecuador
+Res Publica,Republican Party,Q29468,5,0,2,American political party,Republican Party of the United States|Republicans|Republican Party (United States)|United States Republican Party|American Republican Party|US Republican Party|The Republicans,Q7278,,Republican Party (United States)
+Res Publica,Guatemala,Q774,5,0,2,sovereign state in Central America,gt|Republic of Guatemala|GTM|GT,Q3624078|Q7270|Q6256|Q171751,,Guatemala
+Res Publica,Republic,Q716339,5,0,2,Hungarian rock band,,Q215380,,Republic (band)
+Res Publica,India,Q668,5,0,2,country in South Asia,Republic of India|Bharatvarsh|Hindustan|Bharata|Hindoostan|Indostan|Bharat Ganarajya|Al Hind|Tianzhu|Tenjiku,Q6256|Q3624078|Q223832,,India
+Res Publica,Italy,Q38,5,0,2,country in southern Europe,Italian Republic|Republic of Italy,Q6256|Q3624078|Q619610|Q179164|Q7270|Q51576574,,Italy
+Res Publica,Poland,Q36,5,0,2,country in Central Europe,Republic of Poland,Q3624078|Q6256|Q63791824|Q127693126,,Poland
+Res Publica,Republic of Rome,Q2145313,5,0,2,board game,,Q131436,,Republic of Rome (game)
+Reformation,Protestant Reformation,Q12562,6,0,1,16th-century movement in Western Christianity,Reformation,Q1128340|Q126288065,Q1800439|Q23540,Reformation
+Reformation,Reformation,Q7307444,6,0,1,journal,,Q5633421|Q737498,,Reformation (journal)
+Reformation,Reformation and Renaissance Review,Q15760300,6,0,1,academic journal,Reformation & Renaissance review,Q5633421,,
+Reformation,Reformation,Q93857759,6,0,1,UK record label; Spandau Ballet vanity label,,Q18127,,
+Reformation,Reformation,Q29640250,6,0,1,episode of Holby City (S11 E45),,Q21191270,,
+Reformation,Reformation,Q3931626,6,0,1,compilation album by Spandau Ballet,,Q482994,,Reformation (Spandau Ballet album)
+Reformation,Reformation,Q7307442,6,0,1,episode of The Wire (S3 E10),,Q21191270,,Reformation (The Wire)
+Reformation,Reformation,Q7307441,6,0,1,album by Kiuas,,Q482994,,Reformation (Kiuas album)
+Reformation,Heaven and Hell,Q28054034,6,0,1,TV show aired in 2017,Reformation|Zwischen Himmel und Hölle,Q1259759,,
+Reformation,Symphony No. 5,Q240223,6,0,1,symphony by Felix Mendelssohn,Reformation,Q105543609,,Symphony No. 5 (Mendelssohn)
+Economic Outlook,Economic Outlook,Q5333399,7,0,1,journal,,Q5633421|Q737498|Q73364223,,Economic Outlook
+Economic Outlook,Economic Outlook,Q17105112,7,0,1,,,,,Economic Outlook (OECD publication)
+Economic Outlook,Economic outlook USA,Q27718621,7,0,1,journal,Econ Outlook USA|Economic outlook U.S.A.,Q5633421,,
+Economic Outlook,Economic Outlook: Dialogue on the American Economy - 1971 (NAID 52796),Q66326230,7,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Economic Outlook,Economic Outlook: Managing the Economy - 1971 (NAID 48074),Q66330790,7,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Economic Outlook,Economic Outlook: The Decade Ahead - 1971 (NAID 48075),Q66330791,7,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Economic Outlook,Economic outlook. New payment policies spark query: who'll own hospitals?,Q44708435,7,0,1,scientific article published in January 1983,,Q13442814,,
+Economic Outlook,"Economic outlook. Hospitals begin '83 warily, but deny need for long-term change",Q77654470,7,0,1,scientific article published on 01 January 1983,,Q13442814,,
+Economic Outlook,Economic outlook. It's dangerous to ignore impact of medical technology advances,Q77508840,7,0,1,scientific article published on 01 January 1983,,Q13442814,,
+Economic Outlook,Economic outlook. Critical media sway consumers,Q77508922,7,0,1,scientific article published on 01 January 1983,,Q13442814,,
+Economic Outlook,economic forecasting,Q3409313,7,0,2,process of making predictions about the economy,growth forecast|growth prognosis,Q24902509,Q7216332,Economic forecasting
+Economic Outlook,Economic Forecasts and the Budget,Q59639733,7,0,2,Congressional Research Service report,,Q6451276,,
+Economic Outlook,Economic forecast,Q41072964,7,0,2,scientific article published on July 1993,,Q13442814,,
+Economic Outlook,Economic forecasting: editors’ introduction,Q126397863,7,0,2,scholarly article,,Q13442814,,
+Economic Outlook,Economic forecast for health care,Q66857071,7,0,2,scientific article published on 01 January 1979,,Q13442814,,
+Economic Outlook,Economic Forecasting and the Role of the Economist,Q127899823,7,0,2,scholarly article,,Q13442814,,
+Economic Outlook,Economic forecasting: effect of errors on OASDI fund ratios.,Q41464171,7,0,2,scientific article published on January 1982,,Q13442814,,
+Economic Outlook,Economic forecasting in agriculture: Reply,Q114953631,7,0,2,scientific article published in 1994,,Q13442814,,
+Economic Outlook,Economic prospects for a new antimalarial drug,Q36736322,7,0,2,scientific article published on June 1994,,Q13442814,,
+Economic Outlook,Economic prospects of ocean iron fertilization in an international carbon market,Q58240149,7,0,2,article,,Q13442814,,
+Economic Outlook,Economic Prospects from Cross-Strait WTO Membership,Q140956348,7,0,2,scholarly article published in Series on Contemporary China (2007) (DOI: 10.1142/9789812775801_0004),,Q13442814,,
+Economic Outlook,Economic prospects of a rubber-cassava agroforestry in Nigeria,Q115158703,7,0,2,scientific article published in 2021,,Q13442814,,
+Economic Outlook,Economic Prospects of Taxis Powered by Hydrogen Fuel Cells in Palestine,Q128692656,7,0,2,scholarly article,,Q13442814,,
+Economic Outlook,Economic prospects for using the excursion potential of urban environments (case of Rostov-on-Don),Q125809797,7,0,2,scientific article published in 2021,,Q13442814,,
+Economic Outlook,Economic Prospects in Indonesia 2001,Q132144922,7,0,2,non-fiction work by Richard Mann,,Q47461344,,
+Contraception,birth control,Q122224,8,0,1,method of preventing human pregnancy or birth,anticonception|pregnancy prevention|contraception,,Q1280670|Q117824058|Q1981388,Birth control
+Contraception,Contraception,Q2995704,8,0,1,peer-reviewed scientific journal,,Q5633421|Q737498|Q73364223|Q16024164,,Contraception (journal)
+Contraception,Contraception,Q136120385,8,0,1,book 1986,,Q3331189|Q193495,,
+Contraception,"Contraception, fertilite, sexualite (1992)",Q27710121,8,0,1,journal,Contracept Fertil Sex,Q5633421,,
+Contraception,"Contraception, fertilite, sexualite",Q27710655,8,0,1,journal,Contracept Fertil Sex (Paris),Q5633421,,
+Contraception,Contraception and Reproductive Medicine,Q50815218,8,0,1,"Academic journal published by BioMed Central, covering the subjects: Medicine: Gynecology and obstetrics",,Q737498|Q773668|Q5633421|Q16024164,,
+Contraception,contraception behavior,Q69941920,8,0,1,behavior patterns of those practicing contraception,contraception behaviour,,Q2990595,
+Contraception,emergency contraception,Q741027,8,0,1,"birth control measures that, if taken after sexual intercourse, may prevent pregnancy","CE|emergency postcoital contraception|Contraception, Postcoital|postcoital contraception|morning-after pills|emergency contraceptives|Emergency birth control",,Q122224,Emergency contraception
+Contraception,Contraception: X,Q96319421,8,0,1,US scientific journal,Contracept X|Contraception X|Contraception. X,Q5633421,,
+Contraception,Contraception,Q2894064,8,0,1,the deliberate use of methods or techniques to prevent pregnancy,,,,
+Contraception,human population control,Q130819,8,0,2,practice of intentionally controlling the rate of growth of a human population,birth regulation|demographic control|birth control|control of demographics,Q96758092,Q579873,Human population control
+Contraception,Birth Control,Q560732,8,0,2,German rock band,,Q5741069,,Birth Control (band)
+Contraception,Birth Control,Q4916995,8,0,2,1917 film,,Q11424,,Birth Control (film)
+Contraception,oral contraceptive,Q3344800,8,0,2,medication taken by mouth for the purpose of birth control,"oral contraceptive formulations|oral contraceptive formulation|birth control pill|oral contraceptive pill|contraceptives, oral|oral contraceptives",Q56256173|Q25473183,Q50429932,Oral contraceptive pill
+Contraception,Birth Control,Q51153803,8,0,2,episode of Moesha (S4 E8),,Q21191270,,
+Contraception,contraceptive effectiveness,Q112711380,8,0,2,"rate of success or failure of a contraception method, contraceptive agent or contraceptive device",birth control effectiveness,,,
+Contraception,contraceptive,Q25473183,8,0,2,"agent, device, method, or procedure which diminishes the likelihood of or prevents conception",birth control device|contraceptive device,,Q6554101|Q35456|Q1799072|Q20920559|Q79529,
+Contraception,Birth control movement in the United States,Q4917009,8,0,2,social reform campaign beginning in 1914,,Q49773,,Birth control movement in the United States
+Contraception,history of birth control,Q5899541,8,0,2,aspect of history,birth control history,Q17524420,Q17003131,History of birth control
+Contraception,family planning,Q1280670,8,0,2,"planning of when to have children, and the use of birth control and other techniques to implement such plans",planning of family|planned parenthood|family planning service,Q930752,Q309100,Family planning
+Contraception,Family Planning Perspectives,Q28044088,8,0,2,journal 1969-2001,,Q16024164,,
+Contraception,Perspectives on Sexual and Reproductive Health,Q15761784,8,0,2,Medical journal,Perspect. Sex. Reprod. Health|Family Planning Perspectives,Q5633421|Q16024164,,Perspectives on Sexual and Reproductive Health
+Contraception,Family planning,Q27710695,8,0,2,journal,Fam Plann,Q5633421,,
+Contraception,Family Planning,Q29638057,8,0,2,episode of Holby City (S7 E49),,Q21191270,,
+Contraception,Family planning,Q106103164,8,0,2,Chinese propaganda poster,,Q386724|Q429785,,
+Contraception,Family planning/population reporter; a review of State laws and policies,Q27716796,8,0,2,journal,Fam Plann Popul Rep|Family planning/population reporter|Family planning. Population reporter,Q5633421,,
+Contraception,Family planning manager,Q27718254,8,0,2,journal,Fam Plan Manag|The Family planning manager,Q5633421,,
+Contraception,family policy,Q358238,8,0,2,set of measures by which the state regulates the conditions for families,family planning policy,Q96251375,Q828395,Family policy
+Contraception,Family planning information service,Q27717701,8,0,2,journal,Fam Plann Inf Serv,Q5633421,,
+Contraception,Contraceptive Methods,Q93983313,8,0,2,,,Q13442814,,
+Contraception,Contraceptive Methods,Q38512197,8,0,2,scientific article published on June 2015,,Q13442814,,
+Contraception,"Contraceptive methods women have ever used: United States, 1982-2010",Q48300674,8,0,2,"scientific article published on February 14, 2013",,Q13442814,,
+Contraception,Contraceptive methods,Q68239643,8,0,2,scientific article published on 01 January 1987,,Q13442814,,
+Contraception,Contraceptive methods,Q71935904,8,0,2,scientific article published on 01 May 1981,,Q13442814,,
+Contraception,Contraceptive methods,Q73590969,8,0,2,scientific article published on 01 March 1954,,Q13442814,,
+Contraception,CONTRACEPTIVE METHODS,Q76694110,8,0,2,scientific article published on 01 January 1964,,Q13442814,,
+Contraception,Contraceptive methods,Q72134662,8,0,2,scientific article published on 01 January 1993,,Q13442814,,
+Contraception,Contraceptive methods,Q71905028,8,0,2,scientific article published on 01 May 1980,,Q13442814,,
+Contraception,Contraceptive methods,Q78284065,8,0,2,scientific article published on 01 January 1997,,Q13442814,,
+Circulation,Circulation,Q578091,9,0,1,journal,,Q5633421|Q16024164|Q737498,,Circulation (journal)
+Circulation,Circulation Research,Q2599020,9,0,1,peer-reviewed scientific journal,,Q5633421,,Circulation Research
+Circulation,Circulation Journal,Q1955928,9,0,1,journal,,Q5633421|Q773668|Q73364223|Q73365221,,
+Circulation,print circulation,Q759811,9,0,1,number of printed copies of a publication,circulation|quantity issued,Q180160|Q937228,Q309314,Print circulation
+Circulation,Circulation,Q135051630,9,0,1,video game developed by Oleg Klaus,,Q7889,,
+Circulation,Circulation,Q130364337,9,0,1,sculpture by Shelley Miller,,Q860861,,
+Circulation,Circulation: Arrhythmia and Electrophysiology,Q2451440,9,0,1,journal,Circulation. Arrhythmia and electrophysiology,Q5633421,,
+Circulation,Circulation: Cardiovascular Imaging,Q3332375,9,0,1,journal,Circulation. Cardiovascular imaging,Q1002697|Q5633421,,Circulation: Cardiovascular Imaging
+Circulation,Circulation: Heart Failure,Q2865806,9,0,1,journal,Circulation. Heart failure,Q5633421,,
+Circulation,Circulation: Cardiovascular Quality and Outcomes,Q15816436,9,0,1,journal,Circulation. Cardiovascular quality and outcomes,Q5633421,,
+Circulation,Circulation of blood through the canine kidney,Q76088692,9,0,2,scientific article published on 01 April 1952,,Q13442814,,
+Circulation,Circulation of blood and viability after blunt suction lipectomy in pig buttock flaps,Q36782859,9,0,2,scientific article published on January 1993,,Q13442814,,
+Circulation,Circulation of blood and aqueous humor in chronic ocular hypertension,Q75631359,9,0,2,scientific article published on 01 January 1950,,Q13442814,,
+Circulation,Circulation of blood through the fetal heart and lungs and changes occurring with respiration at birth,Q94004569,9,0,2,article published in 1940,,Q13442814,,
+Circulation,CIRCULATION OF BLOOD IN THE ARTERIES,Q78513504,9,0,2,scientific article published on 01 January 1965,,Q13442814,,
+Circulation,Circulation of Blood in the Larva of Hydrophilus,Q56161600,9,0,2,scientific article published in 1882,,Q13442814,,
+Circulation,"Circulation of blood, that of which one does not speak: Ibn Al Nafis 1210-1288",Q52400359,9,0,2,scientific article published in September 1987,,Q13442814,,
+Circulation,Circulation of Goods through Suzhou Xushuguan in Early Qing Dynasty,Q120579077,9,0,2,"scholarly article in Journal of Shanghai Jiaotong University (Philosophy and Social Sciences) no. 6, 2007",,Q13442814,,
+Circulation,Circulation of Goods and Information in Southern Patagonia During the Late Holocene: An Integrated Analysis of Engravings and Black Obsidian Artefacts,Q140955955,9,0,2,"scholarly article published in Journal of World Prehistory, vol. 37, no. 4 (2024) (DOI: 10.1007/S10963-024-09185-X)",,Q13442814,,
+Journal of Applied Ecology,Chinese Journal of Applied Ecology,Q27714785,10,0,1,scientific journal,Ying Yong Sheng Tai Xue Bao|Ying yong sheng tai xue bao = The journal of applied ecology|Journal of Applied Ecology|The Journal of Applied Ecology,Q5633421,,
+Journal of Applied Ecology,Journal of Applied Ecology,Q3186894,10,0,1,scientific journal published by the British Ecological Society,,Q5633421|Q737498|Q73364223,,Journal of Applied Ecology
+Journal of Applied Ecology,Journal of Applied Ecology,Q71873401,10,0,1,journal article; published in Nature on 1965-1,,Q13442814,,
+Noise and Health,Noise and Health,Q80674,11,0,1,journal,Noise & Health,Q773668|Q73364223|Q73365499|Q737498|Q773668|Q16024164,,Noise & Health
+Noise and Health,Noise and health,Q26324110,11,0,1,book published in 1991,Noise & health,Q7433672,,
+Noise and Health,Noise and health,Q24811365,11,0,1,scientific article,,Q13442814,,
+Noise and Health,Noise and health in the urban environment,Q34000710,11,0,1,scientific article published on 01 January 2000,,Q13442814,,
+Noise and Health,Noise and health in vulnerable groups: A review,Q26822854,11,0,1,"scientific article published on May 1, 2013",,Q13442814,,
+Noise and Health,NOISE AND HEALTH,Q84932131,11,0,1,scientific article published on 01 October 1934,,Q13442814,,
+Noise and Health,Noise and health,Q73902316,11,0,1,scientific article published on 01 December 1955,,Q13442814,,
+Noise and Health,Noise and health,Q81338024,11,0,1,scientific article published on 01 August 2005,,Q13442814,,
+Noise and Health,Noise and health,Q50638244,11,0,1,scientific article published in July 1973,,Q13442814,,
+Noise and Health,Noise and Health,Q83847005,11,0,1,scientific article published on 01 June 1929,,Q13442814,,
+Biological Conservation,Biological Conservation,Q2904149,12,0,1,academic journal,,Q5633421|Q737498|Q73364223,,Biological Conservation (journal)
+Biological Conservation,Biological Conservation,Q85747325,12,0,1,,,,Q628403,Biological Conservation
+Biological Conservation,Biological Conservation and Stress,Q57246084,12,0,1,,,Q13442814,,
+Biological Conservation,Biological conservation and parasitism,Q56833091,12,0,1,,,Q13442814,,
+Biological Conservation,"Biological conservation of Isla de Cedros, Baja California, Mexico: assessing multiple threats",Q55839355,12,0,1,scholarly article by Eric Mellink published February 1993 in Biodiversity and Conservation,,Q13442814,,
+Biological Conservation,Biological conservation through marine protected areas in the presence of alternative stable states,Q46422367,12,0,1,scientific article published on 3 February 2017,,Q13442814,,
+Biological Conservation,Biological conservation of aquatic inland habitats: these are better days,Q73230506,12,0,1,scientific article published on 26 August 2013,,Q13442814,,
+Biological Conservation,Biological Conservation of Giant Limpets: The Implications of Large Size.,Q39033605,12,0,1,scientific article published on 15 December 2016,,Q13442814,,
+Biological Conservation,"Biological Conservation Implications of Water-level Fluctuations in a Wetland of International Importance: Lake Kerkini, Macedonia, Greece",Q130629731,12,0,1,scientific article published in 1992,,Q13442814,,
+Biological Conservation,Biological Conservation of Living Systems by Providing Additional Food Supplements in the Presence of Inhibitory Effect: A Theoretical Study Using Predator–Prey Models,Q115601325,12,0,1,scientific article published in 2017,,Q13442814,,
+Biological Conservation,Conservation Biology,Q1127305,12,0,2,academic journal,,Q5633421|Q737498|Q73364223,,Conservation Biology (journal)
+Biological Conservation,conservation biology,Q641498,12,0,2,study of threats to biological diversity,biodiversity conservation|biology conservation,Q11862829,Q65246763,Conservation biology
+Biological Conservation,"Conservation Biology: Foundations, Concepts, Applications",Q56169565,12,0,2,Book published in 2008 (2nd edition),,Q3331189,,
+Biological Conservation,Conservation Biology of Freshwater Turtles and Tortoises,Q54024986,12,0,2,,,Q7725634,,
+Biological Conservation,Conservation biology of the marsh fritillary butterfly Euphydryas aurinia,Q57620104,12,0,2,doctoral thesis,,Q187685,,
+Biological Conservation,"Conservation biology of bottlenose dolphins in Fiordland, New Zealand",Q111290508,12,0,2,2008 doctoral thesis by Rohan J. C. Currey at University of Otago,,Q187685,,
+Biological Conservation,"Conservation biology of the babirusa, Babyrousa babyrussa, in Sulawesi, Indonesia",Q59575004,12,0,2,doctoral thesis by Lynn Marion Clayton,,Q187685,,
+Biological Conservation,Conservation biology of silver-spotted skipper (Hesperia comma) metapopulations,Q57620422,12,0,2,doctoral thesis,,Q187685,,
+Biological Conservation,Conservation biology of parasites,Q5162952,12,0,2,,,,,Conservation biology of parasites
+Biological Conservation,Conservation biology of New Zealand Sea Lions (Phocarctos hookeri),Q112877155,12,0,2,2008 doctoral thesis by Simon John Childerhouse at University of Otago,,Q187685,,
+transversal,transversal,Q1347094,13,0,1,line that passes through two lines in the same plane at two distinct points,,,,Transversal (geometry)
+transversal,transversal,Q16857550,13,0,1,Journal for Jewish Studies,,Q41298|Q737498,,
+transversal,Transversal: International Journal for the Historiography of Science,Q50817955,13,0,1,"Academic journal published by Universidade Federal de Minas Gerais, covering the subjects: History (General) and history of Europe: History (General) | Philosophy. Psychology. Religion: Philosophy (General) | Science: Science (General)",Transversal,Q737498|Q773668,,
+transversal,Transversal,Q54911598,13,0,1,Spanish organization,,Q43229,,
+transversal,transversal,Q2208651,13,0,1,set containing exactly one element from each member of a family of sets,,,Q36161,Transversal (combinatorics)
+transversal,Transversalidiplosis,Q18108335,13,0,1,genus of insects,,Q16521,,
+transversal,transversality,Q2300767,13,0,1,condition between two submanifolds that the sum of their tangent spaces equals that of the ambient manifold,,,Q621461,Transversality (mathematics)
+transversal,Transversal plane,Q7835412,13,0,1,geometric concept,,,,Transversal plane
+transversal,transversus abdominis muscle,Q1427665,13,0,1,muscle of the abdominal area,Transverse abdominal muscle|transversalis muscle,Q112826905|Q125984341,Q66511670|Q112826975,Transverse abdominal muscle
+transversal,Transversal,Q7835409,13,0,1,technique for subdividing graduations,,,,Transversal (instrument making)
+Evidence-based Complementary and Alternative Medicine,Evidence-based Complementary and Alternative Medicine,Q5418319,14,0,1,journal,Evidence - Based Complementary and Alternative Medicine|eCAM|Evidence-Based Complementary and Alternative Medicine,Q5633421|Q737498|Q773668|Q16024164,,Evidence-Based Complementary and Alternative Medicine
+Evidence-based Complementary and Alternative Medicine,Evidence-based Complementary and Alternative Medicine,Q79436866,14,0,1,scientific article published on 01 December 2006,,Q13442814,,
+Evidence-based Complementary and Alternative Medicine,Evidence-based complementary and alternative medicine: back to basics,Q83837972,14,0,1,scientific article published on 01 May 2006,,Q13442814,,
+Evidence-based Complementary and Alternative Medicine,Evidence-based complementary and alternative medicine in inpatient care: take a look at Europe,Q86007822,14,0,1,scientific article published on 17 November 2014,,Q13442814,,
+Evidence-based Complementary and Alternative Medicine,Evidence based complementary and alternative medicine: promises and problems,Q46087338,14,0,1,scientific article published on 23 April 2007,,Q13442814,,
+Evidence-based Complementary and Alternative Medicine,Evidence Based Complementary and Alternative Medicine: List of Reviewers,Q94318136,14,0,1,,,Q13442814,,
+Evidence-based Complementary and Alternative Medicine,Evidence-based complementary and alternative medicine bioinformatics approach through network pharmacology and molecular docking to determine the molecular mechanisms of Erjing pill in Alzheimer's disease,Q112289893,14,0,1,scientific article published on 02 September 2021,,Q13442814,,
+Financial Management,financial management,Q4738155,15,0,1,management of money in such a manner as to accomplish the objectives of the organization,financial administration,Q309100|Q96247293|Q11862829|Q627436,Q852740|Q2920921,Financial management
+Financial Management,money management,Q1944407,15,0,1,process of managing money,financial management,,Q852740,Money management
+Financial Management,Financial Management,Q15761612,15,0,1,journal,F M,Q5633421|Q737498|Q73364223,,
+Financial Management,Financial management : the magazine from CIMA,Q108279512,15,0,1,periodical,Financial management,Q737498,,
+Financial Management,hospital financial management,Q70441942,15,0,1,"obtaining and management of funds for hospital needs, and responsibility for fiscal affairs","Financial Management, Hospital",,Q4738155,
+Financial Management,Financial Management Association International,Q52847745,15,0,1,"organization in Tampa, United States",Financial Management Association|FMA,Q43229,,
+Financial Management,Finance and Comptroller School,Q7889478,15,0,1,school for United States Army Financial Corps,Financial Management School,Q917182,,United States Army Financial Management School
+Financial Management,Financial Management Legislation Amendment Act 1999,Q56755651,15,0,1,"Act of the Parliament of Australia, currently registered as C2004A00414",,Q56731284,,
+Financial Management,Financial Management and Accountability Act 1997,Q5449616,15,0,1,act of the Parliament of Australia,Financial Management and Accountability Act,Q56731284,,Financial Management and Accountability Act 1997
+Financial Management,Financial management of purchases and creditors,Q76539128,15,0,1,book (work),,Q47461344,,
+Bearings,Bearings,Q16243277,16,0,1,1999 album,,Q482994,,Bearings (album)
+Bearings,Bearings,Q98640359,16,0,1,online journal,,Q737498,,
+Bearings,Bearings,Q123304209,16,0,1,1985 film by Sue Brooks,,Q24862,,
+Bearings,"bearings, gears, gearing and driving elements, and parts thereof",Q115753839,16,0,1,class in the Central Product Classification Version 2.1,,Q63981612,Q115748288,
+Bearings,Bearings in a Modern World (NAID 49145),Q66329779,16,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Bearings,Bearings of all trenches taken from Signal Corps blueprint of Fort H. G. Wright - Fire Control System (NAID 137929684),Q67165442,16,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Bearings,Bearings of the future for total hip arthroplasty,Q37243022,16,0,1,scientific article published on 12 August 2008,,Q13442814,,
+Bearings,Bearings in Hip Arthroplasty: Joint Registries vs Precision Medicine: Review Article,Q37605100,16,0,1,scientific article,,Q13442814,,
+Bearings,Bearings fault diagnosis based on adaptive local iterative filtering–multiscale permutation entropy and multinomial logistic model with group-lasso,Q128193512,16,0,1,scholarly article,,Q13442814,,
+Bearings,Bearings-only Passive Ranging for Exo-atmospheric Interceptor,Q100159418,16,0,1,article published in 2005,,Q13442814,,
+Bearings,Ball Bearings for Radial-Thrust Loading,Q59628268,16,0,2,,,Q13442814,,
+Bearings,Ball Bearings: A Discussion of Their Use in General and on Automobiles in Particular,Q130053917,16,0,2,scholarly article published in January 1907,,Q13442814,,
+Bearings,Ball Bearings from Roman Imperial Ships of Nemilake,Q127775040,16,0,2,scholarly article,,Q13442814,,
+Bearings,Ball Bearings and Winches: How Industrial Civilization Permeated the Arts,Q47753488,16,0,2,"scientific article published on June 1, 2013",,Q13442814,,
+Bearings,Thrust Bearings in Hydrogenerators,Q59630964,16,0,2,,,Q13442814,,
+Zoologischer Anzeiger,Zoologischer Anzeiger,Q3666497,17,0,1,scientific journal,Zool. Anz.|Zool Anz|Zoologischen Anzeiger,Q5633421|Q737498,,Zoologischer Anzeiger
+Zoologischer Anzeiger,Zoologischer Anzeiger,Q60276449,17,0,1,scholarly article published in 1878,,Q13442814,,
+Zoologischer Anzeiger,Zoologischer Anzeiger,Q60135655,17,0,1,scientific article published in Nature,,Q13442814,,
+Universum,UFA,Q41468,18,0,1,German film company,Universum Film AG|Universum Film,Q1762059,,UFA GmbH
+Universum,Universum,Q101593222,18,0,1,2020 single by Nublu and Mikael Gabriel,,Q134556,,
+Universum,Universum,Q47459932,18,0,1,"former cinema in Tiergarten, Berlin, Germany",,Q41253,,
+Universum,Universum,Q1385010,18,0,1,"German private label, trademark, owned by Quelle-Versandhaus",,Q722080,,
+Universum,Universum,Q7318491,18,0,1,journal,,Q5633421|Q773668|Q108440863|Q737498,,Universum (journal)
+Universum,Universum,Q7896834,18,0,1,Australian musical group; metal band,,Q215380,,Universum (band)
+Universum,Universum,Q4005964,18,0,1,Mexico's primary museum dedicated to promoting science and technology to the public. Actuamente su directora es la Mtra. María Emilia Beyer Ruiz,"Universum, the Museum of Science of the National Autonomous University of Mexico",Q33506,,Universum (UNAM)
+Universum,Universum,Q10709747,18,0,1,"building in Umeå Municipality, Sweden",,Q41176,,Universum (building)
+Universum,Schaubühne am Lehniner Platz,Q569461,18,0,1,"theatre in the Wilmersdorf district of Berlin, Germany",Universum Kino|Luxor Palast|Halensee Palast|Capitol Kino|Universum Cinema,Q3469910|Q41253|Q24354,,Schaubühne
+Universum,Universum,Q51160730,18,0,1,"former cinema in Kaiserslautern, Rhineland-Palatinate, Germany",,Q41253,,
+Universum,universe,Q1,18,0,2,"totality consisting of space, time, matter and energy",macrocosm|the universe|the cosmos|our universe|cosmos|yin and yang|world|space|outer space|metagalaxy|heaven and earth|existence|everything|all|system|creation,Q36906466,,Universe
+Universum,Universe,Q4005836,18,0,2,1994 video game,,Q7889,,Universe (1994 video game)
+Universum,Universe,Q69170,18,0,2,2003 album by Modern Talking,,Q482994,,Universe (Modern Talking album)
+Universum,Universe,Q45980736,18,0,2,2017 EP by EXO,,Q169930,,Universe (Exo EP)
+Universum,Universe,Q7894198,18,0,2,science fiction video game by Omnitrend Software,Omnitrend's Universe,Q7889,,Universe (1983 video game)
+Universum,Universe,Q26714838,18,0,2,family name,,Q101352,,
+Universum,Universe,Q50816190,18,0,2,"Academic journal published by MDPI AG , covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity: Elementary particle physics",Moon Byul-yi,Q737498|Q773668,,
+Universum,Universe,Q110473624,18,0,2,1999 debut studio album by Jonas Reingold,,Q482994,,
+Universum,Universe,Q116039559,18,0,2,2001 studio album by Kyoko Fukada,,Q482994,,
+Universum,UNIverse Research Portal,Q131742176,18,0,2,"research platform of the University of Basel, Switzerland",UNIverse Unibas|Unibas UNIverse|Universe,Q1235234,,
+Brachytherapy,brachytherapy,Q896687,19,0,1,radiation therapy using a sealed radiation source placed inside or next to the tumor,,,Q180507,Brachytherapy
+Brachytherapy,Brachytherapy,Q1823269,19,0,1,peer-reviewed scientific journal,,Q1002697|Q737498|Q73364223,,
+Brachytherapy,Brachytherapy in Treating Patients With Recurrent Prostate Cancer,Q62110927,19,0,1,clinical trial,,Q30612,,
+Brachytherapy,Brachytherapy in Treating Patients With Prostate Cancer,Q62109997,19,0,1,clinical trial,,Q30612,,
+Brachytherapy,Brachytherapy apparatus and methods for using them,Q133281126,19,0,1,US patent 11130004,,Q43305660,,
+Brachytherapy,Brachytherapy Innovations in Gynecologic Cancer,Q113890548,19,0,1,clinical trial,,Q30612,,
+Brachytherapy,Brachytherapy for Prostatic Carcinoma Patients,Q64170961,19,0,1,clinical trial,,Q30612,,
+Brachytherapy,"Brachytherapy With Durvalumab or Tremelimumab for the Treatment of Patients With Platinum-Resistant, Refractory, Recurrent, or Metastatic Gynecological Malignancies",Q94982444,19,0,1,clinical trial,,Q30612,,
+Brachytherapy,Brachytherapy afterloader device,Q122315578,19,0,1,US patent 11213700,,Q43305660,,
+Brachytherapy,Brachytherapy treatment planning system,Q122311251,19,0,1,US patent 11247070,,Q43305660,,
+Brachytherapy,Brachytherapy treatment planning.,Q64965334,19,0,2,scientific article published in January 1987,,Q13442814,,
+Brachytherapy,Brachytherapy treatment planning commissioning: effect of the election of proper bibliography and finite size of TG-43 input data on standard treatments.,Q30983581,19,0,2,scientific article published on 8 July 2015,,Q13442814,,
+Brachytherapy,Brachytherapy seed localization using geometric and linear programming techniques,Q50903993,19,0,2,scientific article published in September 2007,,Q13442814,,
+Brachytherapy,Brachytherapy seed dose distribution calculation employing the fast Fourier transform,Q69576264,19,0,2,scientific article published on 01 July 1986,,Q13442814,,
+Brachytherapy,Brachytherapy seed reconstruction with joint-encoded C-arm single-axis rotation and motion compensation.,Q50676577,19,0,2,scientific article published on 7 June 2011,,Q13442814,,
+Brachytherapy,Brachytherapy seeds as a nidus for urethral stone formation: A case report,Q98191264,19,0,2,scientific article published on 22 May 2019,,Q13442814,,
+Stoa,Stoa,Q5003164,20,0,1,genus of the family Serpulidae,,Q16521,,
+Stoa,Stoa,Q16951431,20,0,1,album by Nik Bärtsch's Ronin,,Q482994,,Stoa (album)
+Stoa,stoicism,Q48235,20,0,1,school of Hellenistic philosophy who held that the practice of virtue suffices to attain eudaimonia,the porch|stoics|Stoa,Q12765852,Q5891,Stoicism
+Stoa,stoa,Q327328,20,0,1,ancient Greek covered walkway or portico,,,Q25535985|Q185600,Stoa
+Stoa,Stoak,Q7617754,20,0,1,"village and civil parish in Cheshire, United Kingdom","Stoak, Cheshire|Stoak (civil parish), Cheshire|Stoke, Cheshire West and Chester",Q532|Q1115575,,Stoak
+Stoa,Mustela erminea,Q25345,20,0,1,species of mustelid (Mustelidae),stoat|short-tailed stoat|ermelin|short-tailed weasel|ermilin|ermine,Q16521,,Stoat
+Stoa,Stoa,Q36908900,20,0,1,family name,,Q101352,,
+Stoa,Stoastomatinae,Q33147733,20,0,1,subfamily of gastropods,,Q16521,,
+Stoa,Stoa,Q7617745,20,0,1,"village in Southern Norway, Norway",,Q486972|Q27095213,,"Stoa, Norway"
+Stoa,Stoa,Q43025202,20,0,1,"cultural centre in Helsinki, Finland",,Q1329623,,
+Stoa,Ancient Stoa Restored (NAID 52205),Q66326781,20,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Stoa,Stoa of Attalos,Q1263335,20,0,2,ancient stoa in Athens,Stoa of Attalus,Q327328,,Stoa of Attalos
+Stoa,Stoa of Attalus I,Q111665400,20,0,2,ancient stoa in Delphi,Stoa of Attalos I,Q327328,,

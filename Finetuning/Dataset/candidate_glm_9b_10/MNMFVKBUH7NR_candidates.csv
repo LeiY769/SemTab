@@ -1,0 +1,392 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Wernfeld,Wernfeld,Q1972863,0,0,1,Ortsteil of Gemünden am Main,,Q253019,,
+Wernfeld,Wernfeld,Q124092113,0,0,1,Gemarkung of Gemünden am Main,,Q1499928,,
+Wernfeld,Wernfeld,Q118601640,0,0,1,"railway halt in the district of Main-Spessart, Lower Franconia, Germany",Wernfeld station|Wernfeld railway stop,Q55678,,
+Wernfeld,Wernfeld,Q87142625,0,0,1,"goods station in the district of Main-Spessart, Lower Franconia, Germany",Wernfeld station,Q55488|Q55493,,
+Gemünden (Main),Gemünden (Main) railway station,Q325465,0,2,1,"railway station in the district of Main-Spessart, Lower Franconia, Germany",Gemünden (Main) station|Bahnhof Gemünden am Main|Gemünden station,Q55488,,Gemünden (Main) station
+Gemünden (Main),Gemünden am Main,Q505332,0,2,1,municipality in Germany,Gemünden a.Main,Q42744322,,Gemünden am Main
+Gemünden (Main),Gemünden (Main)–Bad Kissingen railway,Q802328,0,2,1,railway line in Bavaria,Gemünden–Bad Kissingen railway,Q655677,,Gemünden–Ebenhausen railway
+Gemünden (Main),Wernfeld,Q1972863,0,2,2,Ortsteil of Gemünden am Main,,Q253019,,
+Gemünden (Main),Wernfeld,Q124092113,0,2,2,Gemarkung of Gemünden am Main,,Q1499928,,
+Gemünden (Main),Wernfeld,Q118601640,0,2,2,"railway halt in the district of Main-Spessart, Lower Franconia, Germany",Wernfeld station|Wernfeld railway stop,Q55678,,
+Gemünden (Main),Wernfeld,Q87142625,0,2,2,"goods station in the district of Main-Spessart, Lower Franconia, Germany",Wernfeld station,Q55488|Q55493,,
+Gemünden (Main),Main,Q1670,0,2,2,right tributary of Rhine river in Germany,,Q4022,,Main (river)
+Gemünden (Main),Main,Q16876282,0,2,2,family name,,Q101352,,Main (surname)
+Gemünden (Main),Mainz,Q1720,0,2,2,"capital of the federal state Rhineland-Palatinate, Germany",Mogontiacum|Maguncia|Mayence,Q1549591|Q1187811|Q42744322|Q85632032,,Mainz
+Gemünden (Main),asteroid belt,Q2179,0,2,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+Gemünden (Main),mainland China,Q19188,0,2,2,"geopolitical area under the jurisdiction of the People's Republic of China, excluding Special Administrative Regions",Chinese mainland|the mainland of China|China's mainland|Mainland side|Mainland area,Q82794|Q3502482|Q1048835|Q1140140,Q56061,Mainland China
+Gemünden (Main),aorta,Q101004,0,2,2,largest artery in the body,main artery,Q9655|Q210588|Q15057490|Q112826905,Q66391192|Q66539140|Q112826975,Aorta
+Gemünden (Main),Honshu,Q13989,0,2,2,largest island of Japan,Honshū|Big Island|Japan|Meaco|Nipon|Nippon|Niphon|Honshu Island|Honshu I.|Meako|Hondo|Hondo Island|Hondo Is.|Hondo I.|Main Island,Q17308006,,Honshu
+Gemünden (Main),Maine,Q724,0,2,2,state of the United States of America,"ME|State of Maine|Maine, United States|The Pine Tree State|US-ME",Q35657,,Maine
+Gemünden (Main),main library,Q12317349,0,2,2,most important public library in a municipality and/or library system that has several libraries or library campuses,main branch,Q25397890,Q11396180,
+Gemünden (Main),Mainleus,Q304916,0,2,2,market municipality of Germany,,Q100341898|Q116457956,,Mainleus
+Gemünden (Main),Upper Franconia,Q10554,0,2,2,"administrative region of Franconia in Bavaria, Germany",,Q22721|Q464235,,Upper Franconia
+Sandweid,Sandweid,Q7417035,1,0,1,service point on the Berner-Oberland-Bahn,,Q55493,,
+UTC+01:00,UTC+01:00,Q6655,1,1,1,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+UTC+01:00,Sandweid,Q7417035,1,1,2,service point on the Berner-Oberland-Bahn,,Q55493,,
+UTC+01:00,Central European Time,Q25989,1,1,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+UTC+01:00,Cetus,Q8839,1,1,2,constellation straddling the celestial equator,Cet|Ceti,Q8928,,Cetus (constellation)
+UTC+01:00,Cetacea,Q160,1,1,2,infraorder of marine mammals,Cetaceans|cetaceans,Q16521,Q7377,Cetacean
+UTC+01:00,Cetinje,Q173338,1,1,2,Old Royal Capital of Montenegro,,Q515,,Cetinje
+UTC+01:00,Cetoniidae,Q1403094,1,1,2,Family of beetles,,Q16521,,Cetoniidae
+UTC+01:00,vitamin C,Q199678,1,1,2,"water-soluble vitamin and antioxidant essential for collagen synthesis, immune function, and skin brightening",Cevalin|Cetane-Caps TC|Cetane|Cebione|Cenolate|Cecon|Ascoltin|Cevex|L-ascorbic acid|OVC307|ascorbic acid|ascorbate,Q113145171,Q108955625|Q193598,Vitamin C
+UTC+01:00,Cetraria,Q134917,1,1,2,genus of fungi,,Q16521,,Cetraria
+UTC+01:00,Cetartiodactyla,Q27850,1,1,2,proposed name for a fusion of the orders Cetacea and Artiodactyla,,Q713623,,Cetartiodactyla
+UTC+01:00,Cethosia,Q1757735,1,1,2,genus of insects,,Q16521,,Cethosia
+Gare de Baud,Gare de Baud,Q2912572,2,0,1,"railway station in Languidic, France",,Q55488|Q55493,,
+Gare de Baud,Gare de Baudrecourt,Q26856802,2,0,1,"railway station in Baudrecourt, France",,Q55488,,
+Gare de Baud,Baudette Depot,Q115195348,2,0,1,"railway station in Baudette, Minnesota",Canadian National Railways Depot,Q55488,,Baudette Depot
+Central European Time,Central European Time,Q25989,2,1,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Time,UTC+01:00,Q6655,2,1,1,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+Central European Time,Europe/Berlin,Q5412096,2,1,1,time zone identifier from the zone file of the IANA time zone database,Central European Time,Q17272692,,Europe/Berlin
+Central European Time,Gare de Baud,Q2912572,2,1,2,"railway station in Languidic, France",,Q55488|Q55493,,
+Central European Time,Gare de Baudrecourt,Q26856802,2,1,2,"railway station in Baudrecourt, France",,Q55488,,
+Central European Time,Baudette Depot,Q115195348,2,1,2,"railway station in Baudette, Minnesota",Canadian National Railways Depot,Q55488,,Baudette Depot
+Nagoya Minato Station,Nagoya Minato Station,Q10917748,3,0,1,"former freight station in Nagoya, Aichi prefecture, Japan",,Q55493,,
+Japan Standard Time,Japan Standard Time,Q909085,3,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,3,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,3,1,1,,,Q32099,,
+Japan Standard Time,Nagoya Minato Station,Q10917748,3,1,2,"former freight station in Nagoya, Aichi prefecture, Japan",,Q55493,,
+Nuremberg-Langwasser,Nuremberg-Langwasser,Q801273,4,0,1,"goods station in the urban district of Nuremberg, Middle Franconia, Germany",Nürnberg-Langwasser station|Nuremberg-Langwasser station,Q55488|Q65227640|Q55493,,
+Nuremberg-Langwasser,Nuremberg Airport,Q265994,4,0,2,"international airport of the Franconian metropolitan area of Nuremberg, Germany",Airport Nuremberg “Albrecht Dürer”|NUE|EDDN,Q21836433,,Nuremberg Airport
+Central European Summer Time,Central European Summer Time,Q207020,4,1,1,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Central European Summer Time,UTC+02:00,Q6723,4,1,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Central European Summer Time,daylight saving time,Q36669,4,1,1,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Central European Summer Time,Central European Time,Q25989,4,1,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Summer Time,summer time in Europe,Q161278,4,1,1,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Gare de Pithiviers,Gare de Pithiviers,Q3097274,5,0,1,"railway station in Pithiviers, France",,Q55488|Q55493,,
+Central European Time,Central European Time,Q25989,5,1,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Time,UTC+01:00,Q6655,5,1,1,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+Central European Time,Europe/Berlin,Q5412096,5,1,1,time zone identifier from the zone file of the IANA time zone database,Central European Time,Q17272692,,Europe/Berlin
+Central European Time,Gare de Pithiviers,Q3097274,5,1,2,"railway station in Pithiviers, France",,Q55488|Q55493,,
+Jakarta Gudang railway station,Jakarta Gudang railway station,Q19752855,6,0,1,"railway station in North Jakarta, Indonesia",,Q55488|Q55493,,
+Jakarta Gudang railway station,Kampung Bandan railway station,Q2719478,6,0,2,"railway station in North Jakarta, Indonesia",,Q55488|Q22808404|Q10505824,,Kampung Bandan railway station
+Kampung Bandan railway station,Kampung Bandan railway station,Q2719478,6,2,1,"railway station in North Jakarta, Indonesia",,Q55488|Q22808404|Q10505824,,Kampung Bandan railway station
+Kampung Bandan railway station,Jakarta Gudang railway station,Q19752855,6,2,2,"railway station in North Jakarta, Indonesia",,Q55488|Q55493,,
+Iidamachi Station,Iidamachi Station,Q5994932,7,0,1,"freight station in Tokyo, Tokyo prefecture, Japan",,Q106772341|Q55493|Q4663385|Q11670533|Q55488,,Iidamachi Station
+Iidamachi Station,Suidōbashi Station,Q801496,7,0,2,"railway station and metro station in Chiyoda and Bunkyō, Tokyo, Japan",,Q55488|Q928830|Q11670533|Q55491|Q121844395|Q123025722|Q1147171,,Suidōbashi Station
+Japan Standard Time,Japan Standard Time,Q909085,7,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,7,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,7,1,1,,,Q32099,,
+Japan Standard Time,Japan,Q17,7,1,2,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan Standard Time,Japanese,Q5287,7,1,2,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan Standard Time,Empire of Japan,Q188712,7,1,2,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan Standard Time,Tokugawa shogunate,Q205662,7,1,2,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan Standard Time,Japanese Wikipedia,Q177837,7,1,2,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan Standard Time,Japanese encephalitis virus,Q19838331,7,1,2,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan Standard Time,kanji,Q82772,7,1,2,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan Standard Time,J-pop,Q131578,7,1,2,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan Standard Time,Japan,Q11014269,7,1,2,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,Japan,Q12487377,7,1,2,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,standard time,Q1777301,7,1,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+Japan Standard Time,Standard Time,Q7598322,7,1,2,album by Laurence Juber,,Q482994,,Standard Time (album)
+Japan Standard Time,standard time,Q2901734,7,1,2,"in industrial engineering, the time required by an average skilled operator, working at a normal pace, to perform a specified task using a prescribed method",,,Q186081,Standard time (manufacturing)
+Japan Standard Time,Standard Time,Q45925322,7,1,2,2002 film,,Q11424,,
+Japan Standard Time,"Standard Time (Amendment) Act, 1971",Q100398391,7,1,2,Act of the Oireachtas No. 17 of 1971,Standard Time (Amendment) Act 1971,Q91586285,,
+Japan Standard Time,"Standard Time Act, 1968",Q100398285,7,1,2,Act of the Oireachtas No. 23 of 1968,Standard Time Act 1968,Q91586285,,
+Japan Standard Time,San Angelo Standard-Times,Q7413271,7,1,2,"newspaper in San Angelo, Texas",Standard-Times,Q1110794,,San Angelo Standard-Times
+Japan Standard Time,Standard time in manufacturing,Q7598383,7,1,2,amount of time that should be allowed to process one work unit,,,Q186081,Standard time in manufacturing
+Japan Standard Time,Standard time and frequency signal,Q25098514,7,1,2,,,,,Standard time and frequency signal
+Japan Standard Time,"Standard Time, Vol. 3: The Resolution of Romance",Q7598319,7,1,2,album by Wynton Marsalis,,Q482994,,"Standard Time, Vol. 3: The Resolution of Romance"
+Japan Standard Time,Iidamachi Station,Q5994932,7,1,2,"freight station in Tokyo, Tokyo prefecture, Japan",,Q106772341|Q55493|Q4663385|Q11670533|Q55488,,Iidamachi Station
+Japan Standard Time,Suidōbashi Station,Q801496,7,1,2,"railway station and metro station in Chiyoda and Bunkyō, Tokyo, Japan",,Q55488|Q928830|Q11670533|Q55491|Q121844395|Q123025722|Q1147171,,Suidōbashi Station
+Suidōbashi Station,Suidōbashi Station,Q801496,7,2,1,"railway station and metro station in Chiyoda and Bunkyō, Tokyo, Japan",,Q55488|Q928830|Q11670533|Q55491|Q121844395|Q123025722|Q1147171,,Suidōbashi Station
+Suidōbashi Station,Tokyo Station,Q283196,7,2,2,"railway and metro station in Chiyoda, Tokyo, Japan. Central station of Tokyo",Tōkyō Station|Tokyo Central Station,Q18543139|Q55491|Q11670533|Q55488|Q1147171,,Tokyo Station
+Suidōbashi Station,JR Central Tokyo Station,Q124037631,7,2,2,"part of Tokyo Station, operating by JR Central",JR Tokyo Station|JR Tokai Tokyo Station|JR Tōkyō Station|JR Tōkai Tōkyō Station|Tokyo Station|Tōkyō Station|Tokaido Shinkansen Tokyo Station,Q55485|Q11670533|Q11606300,,
+Suidōbashi Station,Tokyo Metro Tokyo Station,Q110461653,7,2,2,"part of Tokyo Station, operating by Tokyo Metro",Subway Tôkyô Station|Tokyo Station|Tokyo Metro Tōkyō Station|Tōkyō Station,Q124416148,,
+Suidōbashi Station,JR East Tokyo Station,Q124211552,7,2,2,"part of Tokyo Station, operating by JR East",JR East Tōkyō Station|JR Tokyo Station|JR Tōkyō Station|Tokyo Station|Tōkyō Station,Q11670533|Q55491|Q11606300|Q121844395|Q11429081|Q7578710,,
+Suidōbashi Station,history of Tokyo Station,Q11525943,7,2,2,,Tokyo Station history,Q17524420,,
+Suidōbashi Station,Tokyo Station Hotel,Q11524193,7,2,2,"building in Chiyoda-ku, Tokyo, Japan",The Tokyo Station Hotel,Q27686,,Tokyo Station Hotel
+Suidōbashi Station,Tokyo Station Bus Terminal,Q11525945,7,2,2,,,Q2920759,,
+Suidōbashi Station,Tokyo Station Development,Q68264940,7,2,2,,,Q4830453,,
+Suidōbashi Station,Tokyo Station Gallery,Q115265693,7,2,2,"art museum in Tokyo, Japan",,Q207694,,Tokyo Station Gallery
+Suidōbashi Station,December 6,Q3992371,7,2,2,novel by Martin Cruz Smith,,Q47461344,,December 6 (novel)
+Suidōbashi Station,Shimbashi Station,Q801436,7,2,2,"major interchange railway station in Minato, Tokyo, Japan",Shinbashi Station,Q55488|Q1147171,,Shimbashi Station
+Suidōbashi Station,Toei Subway Shimbashi Station,Q124605636,7,2,2,"part of Shimbashi Station, operating by Tokyo Metropolitan Bureau of Transportation, in Japan",Shimbashi Station|Shinbashi Station,Q124416148|Q121844395,,
+Suidōbashi Station,JR East Shimbashi Station,Q124605626,7,2,2,"part of Shimbashi Station, operating by JR East, in Japan",Shimbashi Station|Shinbashi Station|JR Shimbashi Station|JR Shinbashi Station,Q55488|Q11670533|Q55491|Q1147171|Q121844395|Q123025722,,
+Suidōbashi Station,Yurikamome Shimbashi Station,Q124605640,7,2,2,"part of Shimbashi Station, operating by Yurikamome, in Japan",Shimbashi Station|Shinbashi Station,Q63979268|Q11670533|Q20202072|Q55485,,
+Suidōbashi Station,Tokyo Metro Shimbashi Station,Q124605630,7,2,2,"part of Shimbashi Station, operating by Tokyo Metro, in Japan",Shimbashi Station|Shinbashi Station,Q124416148,,
+Suidōbashi Station,Shimbashi Station Steam-Locomotive Square,Q128417904,7,2,2,,,Q17031078,,
+Akasaki Station,Akasaki Station,Q11635564,8,0,1,freight station in Japan,,Q55493,,
+Akasaki Station,Akasaki Station,Q899752,8,0,1,"railway station in Kotoura, Tottori Prefecture, Japan",,Q55488|Q4312270|Q122397434|Q332496|Q85882206|Q123094976,,Akasaki Station (Tottori)
+Akasaki Station,Akasaki Station,Q4700318,8,0,1,Wikimedia disambiguation page,,Q4167410,,Akasaki Station
+Japan Standard Time,Japan Standard Time,Q909085,8,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,8,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,8,1,1,,,Q32099,,
+Japan Standard Time,Akasaki Station,Q11635564,8,1,2,freight station in Japan,,Q55493,,
+Japan Standard Time,Akasaki Station,Q899752,8,1,2,"railway station in Kotoura, Tottori Prefecture, Japan",,Q55488|Q4312270|Q122397434|Q332496|Q85882206|Q123094976,,Akasaki Station (Tottori)
+Japan Standard Time,Akasaki Station,Q4700318,8,1,2,Wikimedia disambiguation page,,Q4167410,,Akasaki Station
+Japan Standard Time,Sakari Station,Q8190872,8,1,2,"railway station and bus stop in Ōfunato, Iwate prefecture, Japan",,Q55488|Q953806|Q55485|Q1147171|Q7886778|Q11606300,,Sakari Station
+Sakari Station,Sakari Station,Q8190872,8,2,1,"railway station and bus stop in Ōfunato, Iwate prefecture, Japan",,Q55488|Q953806|Q55485|Q1147171|Q7886778|Q11606300,,Sakari Station
+Sakari Station,Akasaki Station,Q11635564,8,2,2,freight station in Japan,,Q55493,,
+Sakari Station,Akasaki Station,Q899752,8,2,2,"railway station in Kotoura, Tottori Prefecture, Japan",,Q55488|Q4312270|Q122397434|Q332496|Q85882206|Q123094976,,Akasaki Station (Tottori)
+Sakari Station,Akasaki Station,Q4700318,8,2,2,Wikimedia disambiguation page,,Q4167410,,Akasaki Station
+Fukaushi Station,Fukaushi Station,Q11560206,9,0,1,railway station in Japan,,Q55493|Q4663385,,
+Japan Standard Time,Japan Standard Time,Q909085,9,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,9,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,9,1,1,,,Q32099,,
+Japan Standard Time,Fukaushi Station,Q11560206,9,1,2,railway station in Japan,,Q55493|Q4663385,,
+Japan Standard Time,Japan,Q17,9,1,2,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan Standard Time,Japanese,Q5287,9,1,2,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan Standard Time,Empire of Japan,Q188712,9,1,2,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan Standard Time,Tokugawa shogunate,Q205662,9,1,2,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan Standard Time,Japanese Wikipedia,Q177837,9,1,2,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan Standard Time,Japanese encephalitis virus,Q19838331,9,1,2,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan Standard Time,kanji,Q82772,9,1,2,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan Standard Time,J-pop,Q131578,9,1,2,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan Standard Time,Japan,Q11014269,9,1,2,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,Japan,Q12487377,9,1,2,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,standard time,Q1777301,9,1,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+Japan Standard Time,Standard Time Zone Investigation Dockets (NAID 7873629),Q64199263,9,1,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Japan Standard Time,standard time zone in North America,Q125359378,9,1,2,non-political administrative territorial entity in the United States that observes a uniform standard time,time zone in the United States|U.S. standard time zone|United States standard time zone|North American standard time zone,Q111439112,Q12143,
+Fujiwara Station,Fujiwara Station,Q11623650,10,0,1,,,Q55493|Q4663385,,
+Fujiwara Station,Japan Standard Time,Q909085,10,0,2,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Fujiwara Station,UTC+09:00,Q7041,10,0,2,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Fujiwara Station,Japan Standard Time meridian,Q11508308,10,0,2,,,Q32099,,
+Japan Standard Time,Japan Standard Time,Q909085,10,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,10,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,10,1,1,,,Q32099,,
+Japan Standard Time,Japan,Q17,10,1,2,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan Standard Time,Japanese,Q5287,10,1,2,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan Standard Time,Empire of Japan,Q188712,10,1,2,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan Standard Time,Tokugawa shogunate,Q205662,10,1,2,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan Standard Time,Japanese Wikipedia,Q177837,10,1,2,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan Standard Time,Japanese encephalitis virus,Q19838331,10,1,2,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan Standard Time,kanji,Q82772,10,1,2,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan Standard Time,J-pop,Q131578,10,1,2,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan Standard Time,Japan,Q11014269,10,1,2,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,Japan,Q12487377,10,1,2,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,standard time,Q1777301,10,1,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+Japan Standard Time,Standard Time,Q7598322,10,1,2,album by Laurence Juber,,Q482994,,Standard Time (album)
+Japan Standard Time,standard time,Q2901734,10,1,2,"in industrial engineering, the time required by an average skilled operator, working at a normal pace, to perform a specified task using a prescribed method",,,Q186081,Standard time (manufacturing)
+Japan Standard Time,Standard Time,Q45925322,10,1,2,2002 film,,Q11424,,
+Japan Standard Time,"Standard Time (Amendment) Act, 1971",Q100398391,10,1,2,Act of the Oireachtas No. 17 of 1971,Standard Time (Amendment) Act 1971,Q91586285,,
+Japan Standard Time,"Standard Time Act, 1968",Q100398285,10,1,2,Act of the Oireachtas No. 23 of 1968,Standard Time Act 1968,Q91586285,,
+Japan Standard Time,San Angelo Standard-Times,Q7413271,10,1,2,"newspaper in San Angelo, Texas",Standard-Times,Q1110794,,San Angelo Standard-Times
+Japan Standard Time,Standard time in manufacturing,Q7598383,10,1,2,amount of time that should be allowed to process one work unit,,,Q186081,Standard time in manufacturing
+Japan Standard Time,Standard time and frequency signal,Q25098514,10,1,2,,,,,Standard time and frequency signal
+Japan Standard Time,"Standard Time, Vol. 3: The Resolution of Romance",Q7598319,10,1,2,album by Wynton Marsalis,,Q482994,,"Standard Time, Vol. 3: The Resolution of Romance"
+Japan Standard Time,Fujiwara Station,Q11623650,10,1,2,,,Q55493|Q4663385,,
+railway station Selommes,Selommes railway station,Q120756908,11,0,2,,,Q55493,,
+railway station Selommes,Central European Time,Q25989,11,0,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+railway station Selommes,UTC+01:00,Q6655,11,0,2,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+railway station Selommes,Europe/Berlin,Q5412096,11,0,2,time zone identifier from the zone file of the IANA time zone database,Central European Time,Q17272692,,Europe/Berlin
+railway station Selommes,railway station,Q55488,11,0,2,railway facility where trains regularly stop to load or unload passengers and/or freight,railroad station|rail stop|rail station|train station|railway stop|train stop|railroad stop,Q11668217|Q17197366,Q124673697|Q97987466|Q548662|Q800279|Q12819564,Train station
+railway station Selommes,railway platform,Q325358,11,0,2,fixed structure to allow people to board or alight trains,platform|train platform|subway platform|railway station|train station platform|station platform,,Q1311670|Q124817561|Q64896574,Railway platform
+railway station Selommes,station building,Q1339195,11,0,2,main building of a passenger railway station,head house|ticket hall|railway station building|train station building|station house|stationhouse|railway terminal,,Q39917125|Q25635419|Q862212,Station building
+railway station Selommes,Hyvinkää railway station,Q4348424,11,0,2,"railway station in Hyvinkää, Finland",Hyvinge railway station|Railway station,Q55488|Q22808404|Q12819564|Q2451577,,Hyvinkää railway station
+railway station Selommes,Railway Station,Q38876707,11,0,2,station of Changsha Metro,,Q928830|Q22808403,,
+railway station Selommes,railway station settlement,Q24258416,11,0,2,a type of small town in Russia,,,Q486972|Q56061,
+railway station Selommes,railway town,Q1782540,11,0,2,settlement that was greatly developed because of a railway station or junction at its site,railroad town|railway station settlement,Q15617994,Q56061|Q486972,Railway town
+railway station Selommes,Railway Station,Q107018763,11,0,2,"metro station in Lahore, Pakistan",,Q928830|Q11670533,,
+railway station Selommes,Railway Station,Q111995385,11,0,2,metro station in Shaoxing,,Q928830|Q22808403,,
+railway station Selommes,Railway station,Q20489224,11,0,2,painting by Ken Whisson,,Q3305213,,
+Central European Time,Central European Time,Q25989,11,1,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Time,UTC+01:00,Q6655,11,1,1,identifier for a time offset from UTC of +1,Western European Summer Time|Swatch Internet Time|Rome Time|West Africa Time|West Africa Standard Time,Q17272482,,UTC+01:00
+Central European Time,Europe/Berlin,Q5412096,11,1,1,time zone identifier from the zone file of the IANA time zone database,Central European Time,Q17272692,,Europe/Berlin
+Niiza Freight Terminal,Niiza Freight Terminal,Q11502254,12,0,1,"freight station in Niiza, Saitama prefecture, Japan",,Q55493|Q4312270,,
+Niiza Freight Terminal,Japan Standard Time,Q909085,12,0,2,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Niiza Freight Terminal,UTC+09:00,Q7041,12,0,2,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Niiza Freight Terminal,Japan Standard Time meridian,Q11508308,12,0,2,,,Q32099,,
+Niiza Freight Terminal,Niiza,Q386691,12,0,2,"city in Saitama Prefecture, Japan",Niiza City|Niiza-shi,Q494721|Q1549591,,"Niiza, Saitama"
+Niiza Freight Terminal,Niiza Station,Q7034510,12,0,2,"railway station in Niiza, Saitama prefecture, Japan",,Q55488|Q11670533|Q121844689,,Niiza Station
+Niiza Freight Terminal,Niikura district,Q11502256,12,0,2,"former district in Saitama prefecture and Tokyo, Japan",Niiza District|Shiki District|Shiragi District|Nihikura District,Q46426234,,
+Niiza Freight Terminal,Niiza toll booth,Q11082692,12,0,2,"toll booth in Niiza, Saitama prefecture, Japan",Niiza toll gate,Q1364150,,
+Niiza Freight Terminal,Niizaki Station,Q7034508,12,0,2,"railway station in Niigata, Niigata prefecture, Japan",,Q55488|Q4312270|Q332496|Q121844689|Q2142091|Q122397434|Q123094976|Q123114662,,Niizaki Station
+Niiza Freight Terminal,Niiza Yanase High School,Q11426688,12,0,2,"Japanese high school in Niiza, Saitama",,Q56351315,,
+Niiza Freight Terminal,Niiza Kita High School,Q11426687,12,0,2,"former high school in Niiza, Saitama, Japan",,Q56351315,,
+Niiza Freight Terminal,Niizato Station,Q7034513,12,0,2,"railway station on the Hakubi Line in Niimi, Okayama prefecture, Japan",,Q55488|Q4312270|Q122397434|Q85882206|Q4346602|Q5760716|Q123094976|Q6641445,,Niizato Station
+Niiza Freight Terminal,Niiza High School,Q11426689,12,0,2,"Japanese high school in Niiza, Saitama",,Q56351315,,
+Niiza Freight Terminal,Niiza General Technical High School,Q11426690,12,0,2,"Japanese high school in Niiza, Saitama",,Q56351315,,
+Niiza Freight Terminal,freight terminal,Q3984423,12,0,2,,,,Q12819564,
+Niiza Freight Terminal,freight terminal,Q5501387,12,0,2,,,,Q2298537,
+Niiza Freight Terminal,end,Q12769393,12,0,2,termination of something,terminal point|arrival|terminus|final point|termination|endpoint|end point|destination|conclusion|stop|stopping|discontinuation|ceasing|ending|🔚,,Q20203388|Q1190554,
+Niiza Freight Terminal,allative case,Q655020,12,0,2,grammatical case,ALL|terminalis,Q128234,Q260425,Allative case
+Niiza Freight Terminal,Terminal,Q109714022,12,0,2,2021 studio album by Yuki,,Q482994,,
+Niiza Freight Terminal,terminative case,Q747019,12,0,2,grammatical case related to the final space or time of an action,terminative|terminalis|terminalis case|TERM,Q128234,,Terminative case
+Niiza Freight Terminal,last,Q30013662,12,0,2,"final, ultimate, coming after all others of its kind",final|ultimate|finality|ending|terminal,,Q379825|Q4120621|Q36809769|Q1241356,
+Niiza Freight Terminal,Terminalia,Q1469349,12,0,2,genus of plants,Terminalia tree,Q16521,,Terminalia (plant)
+Niiza Freight Terminal,imperfective form,Q2898727,12,0,2,Japanese conjugation form,shūshikei form|shūshikei|terminal|non-past|plain form|dictionary form|attributive form,Q53607495,,
+Niiza Freight Terminal,Terminalia chebula,Q3595915,12,0,2,species of flowering plant,chebulic myrobalan,Q16521,,Terminalia chebula
+Niiza Freight Terminal,last station,Q11606300,12,0,2,railway station at the end of a line or service; tracks may or may not continue beyond it,terminal railway station|terminal|terminal station|terminus|last stop|terminal train station,Q11668217,Q55488|Q20202390|Q548662,
+Niiza Freight Terminal,Terminalia catappa,Q271179,12,0,2,species of flowering plant,Beach almond|Indian almond|Sea almond,Q16521,,Terminalia catappa
+Japan Standard Time,Japan Standard Time,Q909085,12,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,12,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,12,1,1,,,Q32099,,
+Japan Standard Time,Niiza Freight Terminal,Q11502254,12,1,2,"freight station in Niiza, Saitama prefecture, Japan",,Q55493|Q4312270,,
+Japan Standard Time,Japan,Q17,12,1,2,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan Standard Time,Japanese,Q5287,12,1,2,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan Standard Time,Empire of Japan,Q188712,12,1,2,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan Standard Time,Tokugawa shogunate,Q205662,12,1,2,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan Standard Time,Japanese Wikipedia,Q177837,12,1,2,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan Standard Time,Japanese encephalitis virus,Q19838331,12,1,2,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan Standard Time,kanji,Q82772,12,1,2,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan Standard Time,J-pop,Q131578,12,1,2,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan Standard Time,Japan,Q11014269,12,1,2,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,Japan,Q12487377,12,1,2,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,standard time,Q1777301,12,1,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+Japan Standard Time,Standard Time,Q7598322,12,1,2,album by Laurence Juber,,Q482994,,Standard Time (album)
+Japan Standard Time,standard time,Q2901734,12,1,2,"in industrial engineering, the time required by an average skilled operator, working at a normal pace, to perform a specified task using a prescribed method",,,Q186081,Standard time (manufacturing)
+Japan Standard Time,Standard Time,Q45925322,12,1,2,2002 film,,Q11424,,
+Japan Standard Time,"Standard Time (Amendment) Act, 1971",Q100398391,12,1,2,Act of the Oireachtas No. 17 of 1971,Standard Time (Amendment) Act 1971,Q91586285,,
+Japan Standard Time,"Standard Time Act, 1968",Q100398285,12,1,2,Act of the Oireachtas No. 23 of 1968,Standard Time Act 1968,Q91586285,,
+Japan Standard Time,San Angelo Standard-Times,Q7413271,12,1,2,"newspaper in San Angelo, Texas",Standard-Times,Q1110794,,San Angelo Standard-Times
+Japan Standard Time,Standard time in manufacturing,Q7598383,12,1,2,amount of time that should be allowed to process one work unit,,,Q186081,Standard time in manufacturing
+Japan Standard Time,Standard time and frequency signal,Q25098514,12,1,2,,,,,Standard time and frequency signal
+Japan Standard Time,"Standard Time, Vol. 3: The Resolution of Romance",Q7598319,12,1,2,album by Wynton Marsalis,,Q482994,,"Standard Time, Vol. 3: The Resolution of Romance"
+Fujiyose Station,Fujiyose Station,Q11623816,13,0,1,,,Q55493|Q55488|Q11606300|Q4312270|Q11381161,,
+Fujiyose Station,Kuroyama Station,Q11678101,13,0,2,"railway station in Niigata, Niigata prefecture, Japan",,Q55488|Q4312270|Q4346602|Q122397434|Q85882206|Q2451577|Q123114662|Q123094976,,Kuroyama Station
+Japan Standard Time,Japan Standard Time,Q909085,13,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,13,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,13,1,1,,,Q32099,,
+Japan Standard Time,JSTOR,Q1420342,13,1,2,distributor of eBooks and other digital media,jstor.org|Journal STORage|jstor,Q43229|Q212805,,JSTOR
+Japan Standard Time,Japan Science and Technology Agency,Q11595927,13,1,2,Japanese government agency,JST,Q327333,,Japan Science and Technology Agency
+Japan Standard Time,Jetstar Airways,Q767627,13,1,2,Australian low-cost airline,JETSTAR|JQ|JST,Q46970,,Jetstar
+Japan Standard Time,Journal of Spectral Theory,Q96329431,13,1,2,scientific journal about spectral theory,JST,Q5633421,,
+Japan Standard Time,Johnstown–Cambria County Airport,Q2902633,13,1,2,"airport in Pennsylvania, United States of America",JST|KJST,Q1248784|Q94993988,,Johnstown–Cambria County Airport
+Japan Standard Time,Journal of Statistical Software,Q6295963,13,1,2,journal publishing on statistical software,JSS|jstatsoft,Q5633421|Q737498|Q773668,,Journal of Statistical Software
+Japan Standard Time,Japan Society of Translators,Q60997495,13,1,2,,JST,Q829080,,
+Japan Standard Time,Javalambre Survey Telescope,Q112568996,13,1,2,telescope at Observatorio Astrofísico de Javalambre,JST|T250|JST250,Q1062138,,
+Kuroyama Station,Kuroyama Station,Q11678101,13,2,1,"railway station in Niigata, Niigata prefecture, Japan",,Q55488|Q4312270|Q4346602|Q122397434|Q85882206|Q2451577|Q123114662|Q123094976,,Kuroyama Station
+Kudara Shijō Station,Kudara Shijō Station,Q11067145,14,0,1,,,Q55493|Q106772341,,
+Kudara Shijō Station,Shijō Station,Q2328455,14,0,2,"metro station in Kyoto, Kyoto prefecture, Japan",,Q928830|Q22808403,,Shijō Station
+Japan Standard Time,Japan Standard Time,Q909085,14,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,14,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,14,1,1,,,Q32099,,
+Japan Standard Time,Japan,Q17,14,1,2,island country in East Asia,State of Japan|Land of the Rising Sun|Nippon-koku|Nihon-koku|Iapan|Iapon|Land of Rising Sun,Q3624078|Q112099|Q6256,,Japan
+Japan Standard Time,Japanese,Q5287,14,1,2,language spoken in East Asia,Japanese language|Japanesic,Q33742|Q1288568|Q1322198,Q33612,Japanese language
+Japan Standard Time,Empire of Japan,Q188712,14,1,2,empire in the Asia-Pacific region from 1868 to 1947,Japanese Empire|Imperial Japan|Great Empire of Japan|Great Japanese Empire|Japan,Q3024240|Q48349,,Empire of Japan
+Japan Standard Time,Tokugawa shogunate,Q205662,14,1,2,1603–1868 Japanese military government,Shogunate of Japan|Japan|Edo Japan|Tokugawa Shogunate,Q1074150|Q3024240|Q327333,,Tokugawa shogunate
+Japan Standard Time,Japanese Wikipedia,Q177837,14,1,2,Japanese-language edition of Wikipedia,jawp|JAWP|jpwp|Japanese wikipedia|Japanese language Wikipedia|Jp.wikipedia.org|Ja wikipedia|Japanese WP|jawikipedia|jawiki,Q10876391,,Japanese Wikipedia
+Japan Standard Time,Japanese encephalitis virus,Q19838331,14,1,2,species of virus,"Encephalitis Virus, Japanese",Q16521,,
+Japan Standard Time,kanji,Q82772,14,1,2,adopted logographic Chinese characters used in the modern Japanese writing system,kanji characters|Japanese/Kanji,Q29517555|Q3953107,Q56070706|Q3953107,Kanji
+Japan Standard Time,J-pop,Q131578,14,1,2,Japanese popular music genre,Japanese pop|jpop|Japanese popular music|Jei poppu|jeipoppu|J Pop,Q188451,Q10730335,J-pop
+Japan Standard Time,Japan,Q11014269,14,1,2,"village in Kudus Regency, Central Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,Japan,Q12487377,14,1,2,"village in Ponorogo Regency, East Java, Indonesia",Desa Japan,Q26211545,,
+Japan Standard Time,standard time,Q1777301,14,1,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+Japan Standard Time,Standard Time,Q7598322,14,1,2,album by Laurence Juber,,Q482994,,Standard Time (album)
+Japan Standard Time,standard time,Q2901734,14,1,2,"in industrial engineering, the time required by an average skilled operator, working at a normal pace, to perform a specified task using a prescribed method",,,Q186081,Standard time (manufacturing)
+Japan Standard Time,Standard Time,Q45925322,14,1,2,2002 film,,Q11424,,
+Japan Standard Time,"Standard Time (Amendment) Act, 1971",Q100398391,14,1,2,Act of the Oireachtas No. 17 of 1971,Standard Time (Amendment) Act 1971,Q91586285,,
+Japan Standard Time,"Standard Time Act, 1968",Q100398285,14,1,2,Act of the Oireachtas No. 23 of 1968,Standard Time Act 1968,Q91586285,,
+Japan Standard Time,San Angelo Standard-Times,Q7413271,14,1,2,"newspaper in San Angelo, Texas",Standard-Times,Q1110794,,San Angelo Standard-Times
+Japan Standard Time,Standard time in manufacturing,Q7598383,14,1,2,amount of time that should be allowed to process one work unit,,,Q186081,Standard time in manufacturing
+Japan Standard Time,Standard time and frequency signal,Q25098514,14,1,2,,,,,Standard time and frequency signal
+Japan Standard Time,"Standard Time, Vol. 3: The Resolution of Romance",Q7598319,14,1,2,album by Wynton Marsalis,,Q482994,,"Standard Time, Vol. 3: The Resolution of Romance"
+Japan Standard Time,6449 Kudara,Q589429,14,1,2,asteroid,Kudara,Q3863,,6449 Kudara
+Japan Standard Time,Kudara,Q19691877,14,1,2,"village in Kabansky District, Russia","Kudara, Republic of Buryatia",Q532,,"Kudara, Republic of Buryatia"
+Japan Standard Time,Kudara,Q21043380,14,1,2,river in Russia,,Q4022,,
+Japan Standard Time,Kudara,Q17174750,14,1,2,"dissolved municipality in Kitakatsuragi district, Nara prefecture, Japan",,Q18663566,,
+Japan Standard Time,Kudara,Q47092508,14,1,2,"Japanese family name (百済, くだら)",百済|くだら,Q101352,,
+Japan Standard Time,Kudaranokonikishi Eison,Q15649993,14,1,2,,,Q5,,
+Japan Standard Time,Buyeo Seongwang,Q15524991,14,1,2,Baekje prince,Kudara no Konikishi Zenkō,Q5,,
+Japan Standard Time,Muhammad Kudarat,Q1668453,14,1,2,7th Sultan of Maguindanao,Muhammad Dipatuan Kudarat|Kudarat|Qudarat|Corralat|Sultan Kudarat|Muhammad di-Pertuan Kudrat|Muhammad Dipatuan Kurlat|Sultan Qudarat,Q5,,Muhammad Kudarat
+Japan Standard Time,Kudaravalli,Q123517697,14,1,2,family name,,Q101352,,
+Japan Standard Time,Kudara Kannon,Q11244181,14,1,2,statue at Hōryū-ji,standing wooden statue of Kannon Bosatsu|Baekje Kannon,Q21654574|Q860861,,
+Japan Standard Time,Shijō Station,Q2328455,14,1,2,"metro station in Kyoto, Kyoto prefecture, Japan",,Q928830|Q22808403,,Shijō Station
+Japan Standard Time,Kudara Freight Terminal,Q10855493,14,1,2,,,Q55493,,
+Kudara Freight Terminal,Kudara Freight Terminal,Q10855493,14,2,1,,,Q55493,,
+Kudara Freight Terminal,Kudara Shijō Station,Q11067145,14,2,2,,,Q55493|Q106772341,,
+Nürnberg Hafen,Nürnberg Hafen,Q118834844,15,0,1,"goods station in the urban district of Nuremberg, Middle Franconia, Germany",Nürnberg Hafen station,Q55493,,
+Nürnberg-Eibach,Nürnberg-Eibach,Q11794301,15,2,1,"railway halt in the urban district of Nuremberg, Middle Franconia, Germany",Nürnberg-Eibach station|Nuremberg-Eibach station,Q55488|Q1793804|Q65227640,,
+Nürnberg-Eibach,Nuremberg-Eibach–Nuremberg Hohe Marter railway,Q120435299,15,2,1,railway line in Germany,Nürnberg-Eibach–Nürnberg Hohe Marter railway,Q728937,,
+Nürnberg-Eibach,Nuremberg-Eibach–Nuremberg Hafen railway,Q119726247,15,2,1,railway line in Germany,Nürnberg-Eibach–Nürnberg Hafen railway,Q728937,,
+Nürnberg-Eibach,Eibach,Q1301080,15,2,1,"district of Nuremberg, Germany",,Q28538792,,
+Nürnberg-Eibach,Nürnberg Hafen,Q118834844,15,2,2,"goods station in the urban district of Nuremberg, Middle Franconia, Germany",Nürnberg Hafen station,Q55493,,
+Nürnberg-Eibach,Eibach,Q83348139,15,2,2,family name,,Q101352,,
+Nürnberg-Eibach,Eibach,Q1301071,15,2,2,human settlement,,Q253019,,
+Nürnberg-Eibach,Eibach,Q1301082,15,2,2,German auto parts company,Eibach Federn|Eibach Industries GmbH,Q3477381|Q6881511,,Eibach (company)
+Nürnberg-Eibach,Eibach,Q54606929,15,2,2,river in Switzerland,,Q4022,,
+Nürnberg-Eibach,Eibach,Q22691738,15,2,2,district of Hilpoltstein,,Q253019|Q532,,
+Nürnberg-Eibach,Eibach,Q1301077,15,2,2,human settlement in Germany,,Q253019,,
+Nürnberg-Eibach,Joachim Eibach,Q94633314,15,2,2,German historian,"Eibach, Joachim",Q5,,
+Nürnberg-Eibach,Eibacher Forst,Q20180366,15,2,2,human settlement in Germany,,Q123705,,
+Nürnberg-Eibach,Eibacher Hauptstraße 78,Q41411347,15,2,2,"building in Nuremberg, Middle Franconia, Germany",,Q3947,,
+Nürnberg-Eibach,Nuremberg,Q2090,15,2,2,city in the German state of Bavaria,Nürnberg|Kreisfreie Stadt Nürnberg|Nüremberg,Q1549591|Q57318|Q42744322|Q85631896,,Nuremberg
+Nürnberg-Eibach,German cruiser Nürnberg,Q698439,15,2,2,1934 Leipzig-class cruiser,,Q778129,,German cruiser Nürnberg
+Nürnberg-Eibach,3825 Nürnberg,Q152226,15,2,2,asteroid,3825 Nurnberg|Nürnberg,Q3863,,3825 Nürnberg
+Nürnberg-Eibach,Nürnberg,Q83496012,15,2,2,family name,,Q101352,,
+Nürnberg-Eibach,Nürnberger Land,Q10449,15,2,2,"district in Bavaria, Germany",,Q85482556,,Nürnberger Land
+Nürnberg-Eibach,Nuremberg trials,Q80130,15,2,2,"series of military tribunals after World War II, held 1945-1946",Nürnberg trials,Q1265353,Q8016240,Nuremberg trials
+Nürnberg-Eibach,Nürnberger Nachrichten,Q1454114,15,2,2,"German news website, online newspaper and daily newspaper with a focus on Nuremberg and North Bavaria.",NN|NN.de|nn.de|Nürnberger-Nachrichten,Q1110794|Q17232649|Q1153191,,Nürnberger Nachrichten
+Nürnberg-Eibach,Nürnberger Zeitung,Q2007134,15,2,2,German daily newspaper and online newspaper with a focus on Nuremberg and North Bavaria,Nordbayerische Zeitung|NZ|nz.de,Q1002697|Q1110794|Q1153191,,
+Nürnberg-Eibach,Nürnberg,Q107067361,15,2,2,ship built in 1961,Congo|IMO 5259319,Q1752434,,
+Nürnberg-Eibach,Nuremberg Central Station,Q682583,15,2,2,"main railway station of Nuremberg, Bavaria, Germany",Nürnberg Hbf|Nürnberg Hauptbahnhof station,Q18543139|Q27996466|Q1793804|Q1406904|Q55490,,Nürnberg Hauptbahnhof
+Zhijiang Railway Station,Zhijiang Railway Station,Q11107479,16,0,1,"freight railway station in Zhijiang of Yichang, Hubei, China",,Q55488|Q55493,,
+Zhijiang Railway Station,Zhijiang Railway Station,Q19853575,16,0,1,"high-speed railway station in Huaihua, Hunan, China",,Q55488,,
+Zhijiang Railway Station,Zhijiang railway station,Q19929932,16,0,1,Wikimedia disambiguation page,,Q4167410,,Zhijiang railway station
+Zhijiang Railway Station,China Standard Time,Q1143153,16,0,2,time zone,Beijing Time|Chinese Standard Time,Q12143,,China Standard Time
+Zhijiang Railway Station,UTC+08:00,Q6985,16,0,2,identifier for a time offset from UTC of +8,Central Indonesian Time|WITA Time Zone,Q17272482,,UTC+08:00
+Zhijiang Railway Station,Anfusi Railway Station,Q10947137,16,0,2,"railway station in Zhijiang, Yichang, Hubei, People's Republic of China",,Q55488|Q55493,,
+China Standard Time,China Standard Time,Q1143153,16,1,1,time zone,Beijing Time|Chinese Standard Time,Q12143,,China Standard Time
+China Standard Time,UTC+08:00,Q6985,16,1,1,identifier for a time offset from UTC of +8,Central Indonesian Time|WITA Time Zone,Q17272482,,UTC+08:00
+China Standard Time,Zhijiang Railway Station,Q11107479,16,1,2,"freight railway station in Zhijiang of Yichang, Hubei, China",,Q55488|Q55493,,
+China Standard Time,Zhijiang Railway Station,Q19853575,16,1,2,"high-speed railway station in Huaihua, Hunan, China",,Q55488,,
+China Standard Time,Zhijiang railway station,Q19929932,16,1,2,Wikimedia disambiguation page,,Q4167410,,Zhijiang railway station
+China Standard Time,Anfusi Railway Station,Q10947137,16,1,2,"railway station in Zhijiang, Yichang, Hubei, People's Republic of China",,Q55488|Q55493,,
+Anfusi Railway Station,Anfusi Railway Station,Q10947137,16,2,1,"railway station in Zhijiang, Yichang, Hubei, People's Republic of China",,Q55488|Q55493,,
+Anfusi Railway Station,Anfusi,Q10947138,16,2,2,"town in Zhijiang, Hubei province, China",,Q735428,,
+Anfusi Railway Station,ANFUSINA Journal of Psychology,Q96701713,16,2,2,Indonesian scientific journal,,Q5633421,,
+Kudara Freight Terminal,Kudara Freight Terminal,Q10855493,17,0,1,,,Q55493,,
+Japan Standard Time,Japan Standard Time,Q909085,17,1,1,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Japan Standard Time,UTC+09:00,Q7041,17,1,1,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Japan Standard Time,Japan Standard Time meridian,Q11508308,17,1,1,,,Q32099,,
+Japan Standard Time,Kudara Freight Terminal,Q10855493,17,1,2,,,Q55493,,
+Japan Standard Time,Hirano Station,Q135184,17,1,2,"metro station in Osaka, Osaka prefecture, Japan",,Q928830|Q22808403,,Hirano Station (Osaka Metro)
+Japan Standard Time,Hirano Station,Q856598,17,1,2,"railway station in Osaka, Osaka prefecture, Japan",,Q55488,,Hirano Station (JR West)
+Japan Standard Time,Hirano Station,Q5769424,17,1,2,"railway station in Kawanishi, Hyogo prefecture, Japan",,Q55488,,Hirano Station (Hyōgo)
+Japan Standard Time,Hirano Station,Q5769419,17,1,2,"railway station in Fukushima, Fukushima prefecture, Japan",,Q55488|Q4312270|Q121844395,,Hirano Station (Fukushima)
+Japan Standard Time,Hirano Station,Q844031,17,1,2,Wikimedia disambiguation page,,Q4167410,,Hirano Station
+Hirano Station,Hirano Station,Q135184,17,2,1,"metro station in Osaka, Osaka prefecture, Japan",,Q928830|Q22808403,,Hirano Station (Osaka Metro)
+Hirano Station,Hirano Station,Q856598,17,2,1,"railway station in Osaka, Osaka prefecture, Japan",,Q55488,,Hirano Station (JR West)
+Hirano Station,Hirano Station,Q5769424,17,2,1,"railway station in Kawanishi, Hyogo prefecture, Japan",,Q55488,,Hirano Station (Hyōgo)
+Hirano Station,Hirano Station,Q5769419,17,2,1,"railway station in Fukushima, Fukushima prefecture, Japan",,Q55488|Q4312270|Q121844395,,Hirano Station (Fukushima)
+Hirano Station,Hirano Station,Q844031,17,2,1,Wikimedia disambiguation page,,Q4167410,,Hirano Station
+Hirano Station,Kudara Freight Terminal,Q10855493,17,2,2,,,Q55493,,
+Hirano Station,Japan Standard Time,Q909085,17,2,2,time zone,Asia/Tokyo,Q12143,,Japan Standard Time
+Hirano Station,UTC+09:00,Q7041,17,2,2,identifier for a time offset from UTC of +9,Japan Standard Time|Korea Standard Time|Irkutsk Time|Eastern Indonesian Time|East Timor Standard Time|WIT,Q17272482,,UTC+09:00
+Hirano Station,Japan Standard Time meridian,Q11508308,17,2,2,,,Q32099,,
+Leipzig-Engelsdorf,Leipzig-Engelsdorf railway stop,Q116054672,18,0,1,"railway stop in Leipzig, Germany",,Q27996460|Q1793804,,
+Leipzig-Engelsdorf,Leipzig-Engelsdorf goods station,Q800726,18,0,1,"goods station in Leipzig, Germany",Leipzig-Engelsdorf marshalling yard|Leipzig-Engelsdorf station,Q55493,,Leipzig-Engelsdorf marshalling yard
+Leipzig-Engelsdorf,Leipzig-Engelsdorf–Leipzig-Connewitz railway,Q21588006,18,0,1,railway line in Germany,Engelsdorf–Leipzig-Connewitz railway line,Q728937,,Leipzig-Engelsdorf–Leipzig-Connewitz railway
+Leipzig-Engelsdorf,Leipzig,Q2079,18,0,2,"largest city in Saxony, Germany",,Q1549591|Q515|Q253030|Q42744322|Q61708099,,Leipzig
+Leipzig-Engelsdorf,Leipzig Central Station,Q703916,18,0,2,"central railway terminus of Leipzig, Germany",Leipzig Main station|Leipzig Hbf|Leipzig Hauptbahnhof,Q55485|Q1406904|Q1793804|Q18543139|Q1516537|Q55490|Q11315|Q27996466|Q22808404,,Leipzig Hauptbahnhof
+Leipzig-Engelsdorf,Leipzig,Q37193857,18,0,2,family name,,Q101352,,
+Leipzig-Engelsdorf,Leipzig University,Q154804,18,0,2,"university in Leipzig, Saxony, Germany (1409-)",University of Leipzig|Universität Leipzig|Karl-Marx-Universität|ULeipzig,Q875538|Q45400320|Q1767829|Q1365560,,Leipzig University
+Leipzig-Engelsdorf,Leipzig District,Q6308,18,0,2,"district in the federal state of Saxony, Germany",Leipzig (district),Q61708063|Q106517174,,Leipzig (district)
+Leipzig-Engelsdorf,Schönefeld,Q882826,18,0,2,"part of Leipzig, Germany",Leipzig-Schönefeld,Q79423884,,Leipzig-Schönefeld
+Leipzig-Engelsdorf,Leipzig,Q15448951,18,0,2,family,,Q61881926|Q8436,,
+Leipzig-Engelsdorf,Leipzig,Q6520140,18,0,2,"human settlement in Saskatchewan, Canada","Leipzig, Saskatchewan",Q486972|Q5084|Q6644778,,"Leipzig, Saskatchewan"
+Leipzig-Engelsdorf,Leipzig-Stötteritz railway station,Q801076,18,0,2,"railway station in Leipzig, Germany",Leipzig-Stötteritz station,Q55488|Q1516079|Q1793804,,Leipzig-Stötteritz station
+Leipzig-Engelsdorf,Leipziger Straße,Q101092618,18,0,2,"street in Torgau, Saxony, Germany",,Q79007,,
+Leipzig-Engelsdorf,Haltestelle Leipzig Hauptbahnhof,Q98934751,18,0,2,,,Q2175765,,
+Leipzig-Engelsdorf,Leipzig Hauptbahnhof (tief),Q56808924,18,0,2,underground S-Bahn station of Leipzig Hauptbahnhof,Leipzig Hbf (tief)|Leipzig Hbf (Tiefgleise)|Lpz Hbf (tief),Q19274527|Q1793804|Q55491,,
+Leipzig-Engelsdorf,Central European Summer Time,Q207020,18,0,2,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Leipzig-Engelsdorf,UTC+02:00,Q6723,18,0,2,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Leipzig-Engelsdorf,daylight saving time,Q36669,18,0,2,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Leipzig-Engelsdorf,Central European Time,Q25989,18,0,2,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Leipzig-Engelsdorf,summer time in Europe,Q161278,18,0,2,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Leipzig-Engelsdorf,Engelsdorf,Q1342174,18,0,2,"quarter in Leipzig, Germany",Engelsdorf (Leipzig),Q79423884,,
+Leipzig-Engelsdorf,Leipzig-Thekla concentration camp,Q1719284,18,0,2,"satellite camp of the Buchenwald concentration camp in Leipzig, Saxony, Germany",KZ-Außenlager Leipzig-Thekla|Kommando Emil|Kommando E|Engelsdorf,Q1719244|Q152081,,
+Leipzig-Engelsdorf,Engelsdorf,Q110899246,18,0,2,"locality in St. Pölten District, Austria",,Q11183787,,
+Leipzig-Engelsdorf,Engelsdorf,Q63442120,18,0,2,"locality in Horn District, Austria",,Q11183787,,
+Leipzig-Engelsdorf,Engelsdorf,Q116975534,18,0,2,"locality in St. Veit an der Glan District, Austria",,Q11183787,,
+Leipzig-Engelsdorf,Engelsdorf,Q132829349,18,0,2,"locality in Weitensfeld im Gurktal, St. Veit an der Glan District, Austria",,Q11183787,,
+Leipzig-Engelsdorf,Engelsdorf,Q31995972,18,0,2,place in Germany,,Q486972,,
+Leipzig-Engelsdorf,Engelsdorf,Q90416587,18,0,2,district of Kümmersbruck,,Q253019|Q532,,
+Leipzig-Engelsdorf,Engelsdorf,Q136802810,18,0,2,"cadastral community in Horn District, Austria",,Q17376095,,
+Leipzig-Engelsdorf,Engelsdorf,Q136802812,18,0,2,"cadastral community in St. Pölten District, Austria",,Q17376095,,
+Central European Summer Time,Central European Summer Time,Q207020,18,1,1,daylight savings time in the central European time zone,CEDT,Q219919|Q12143,,Central European Summer Time
+Central European Summer Time,UTC+02:00,Q6723,18,1,1,identifier for a time offset from UTC of +2,Eastern European Time|South African Standard Time|West Africa Summer Time|Central Africa Time,Q17272482,,UTC+02:00
+Central European Summer Time,daylight saving time,Q36669,18,1,1,seasonal adjustment of clocks,summer time|daylight savings time|daylight time,,Q849275,Daylight saving time
+Central European Summer Time,Central European Time,Q25989,18,1,1,standard time (UTC+01:00),Central European Time Zone|CETZ|Central European Standard Time,Q12143,,Central European Time
+Central European Summer Time,summer time in Europe,Q161278,18,1,1,variation of standard clock time that is applied in most European countries in the period between spring and autumn when to set your clocks back an hour,,,Q36669,Summer time in Europe
+Central European Summer Time,Leipzig-Engelsdorf railway stop,Q116054672,18,1,2,"railway stop in Leipzig, Germany",,Q27996460|Q1793804,,
+Central European Summer Time,Leipzig-Engelsdorf goods station,Q800726,18,1,2,"goods station in Leipzig, Germany",Leipzig-Engelsdorf marshalling yard|Leipzig-Engelsdorf station,Q55493,,Leipzig-Engelsdorf marshalling yard
+Central European Summer Time,Leipzig-Engelsdorf–Leipzig-Connewitz railway,Q21588006,18,1,2,railway line in Germany,Engelsdorf–Leipzig-Connewitz railway line,Q728937,,Leipzig-Engelsdorf–Leipzig-Connewitz railway
+Central European Summer Time,Leipzig Central Station,Q703916,18,1,2,"central railway terminus of Leipzig, Germany",Leipzig Main station|Leipzig Hbf|Leipzig Hauptbahnhof,Q55485|Q1406904|Q1793804|Q18543139|Q1516537|Q55490|Q11315|Q27996466|Q22808404,,Leipzig Hauptbahnhof
+Central European Summer Time,Haltestelle Leipzig Hauptbahnhof,Q98934751,18,1,2,,,Q2175765,,
+Central European Summer Time,Leipzig Hauptbahnhof (tief),Q56808924,18,1,2,underground S-Bahn station of Leipzig Hauptbahnhof,Leipzig Hbf (tief)|Leipzig Hbf (Tiefgleise)|Lpz Hbf (tief),Q19274527|Q1793804|Q55491,,
+Leipzig Hauptbahnhof,Leipzig Central Station,Q703916,18,2,1,"central railway terminus of Leipzig, Germany",Leipzig Main station|Leipzig Hbf|Leipzig Hauptbahnhof,Q55485|Q1406904|Q1793804|Q18543139|Q1516537|Q55490|Q11315|Q27996466|Q22808404,,Leipzig Hauptbahnhof
+Leipzig Hauptbahnhof,Haltestelle Leipzig Hauptbahnhof,Q98934751,18,2,1,,,Q2175765,,
+Leipzig Hauptbahnhof,Leipzig Hauptbahnhof (tief),Q56808924,18,2,1,underground S-Bahn station of Leipzig Hauptbahnhof,Leipzig Hbf (tief)|Leipzig Hbf (Tiefgleise)|Lpz Hbf (tief),Q19274527|Q1793804|Q55491,,

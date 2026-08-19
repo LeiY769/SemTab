@@ -1,0 +1,115 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+V* AM Nor,V* AM Nor,Q91401700,0,0,1,,,Q1141054|Q523|Q1362543|Q67206691|Q67206785,,
+2MASS J19501322+4112081,2MASS J19501322+4112081,Q91359448,1,0,1,,,Q1362543|Q2168098|Q523,,
+TYC 3146-1145-1,TYC 3146-1145-1,Q91218831,2,0,1,,,Q1362543,,
+TYC 3146-1145-1,Third Cambridge Catalogue of Radio Sources,Q598937,2,0,2,astronomical catalogue of celestial radio sources,3C,Q605175|Q550089,,Third Cambridge Catalogue of Radio Sources
+TYC 3146-1145-1,3C 273,Q229318,2,0,2,quasar,HIP60936|PG 1226+23,Q195385|Q71965429|Q1931185|Q2154519|Q71962386|Q67206691|Q67201574|Q318|Q6243,,3C 273
+TYC 3146-1145-1,3C,Q139719073,2,0,2,Czech company,3C spol. s r.o.,Q4830453|Q6881511,,
+TYC 3146-1145-1,Messier 87,Q14041,2,0,2,galaxy in the Virgo Galactic Cluster,M87|Virgo A,Q184348|Q318|Q1931185|Q67206691|Q2154519|Q1151284|Q2557101|Q71962386,,Messier 87
+TYC 3146-1145-1,3C,Q12470368,2,0,2,Jakartan pop girl band,,Q641066,,
+TYC 3146-1145-1,3C,Q4636234,2,0,2,Country music radio station,,Q14350,,3C (radio station)
+TYC 3146-1145-1,3C 58,Q1364067,2,0,2,supernova remnant,G130.7+3.1|3C58|PSR J0205+6449,Q207436|Q4360|Q1931185|Q2154519|Q3937|Q71962386,,3C 58
+TYC 3146-1145-1,3CatInfo (tv),Q2816022,2,0,2,Catalan television channel,3/24|3CatInfo TV,Q561068,,3CatInfo (TV channel)
+TYC 3146-1145-1,3CX Phone System,Q2816466,2,0,2,software-based IP PBX,,Q218616|Q131669,Q1978634,3CX Phone System
+TYC 3146-1145-1,3C 295,Q1076865,2,0,2,galaxy,,Q2154519|Q204107|Q83373|Q1931185|Q71965638|Q71965429|Q71962386|Q1151284,,3C 295
+KOI-319,KOI-319,Q91218816,3,0,1,rotating variable star in the constellation Cygnus,,Q2168098|Q523|Q67206785|Q1362543,,
+KOI-319,KOI-3194.01,Q76109725,3,0,1,unconfirmed exoplanet in the constellation Draco,K03194.01,Q18611609,,
+KOI-319,KOI-3196.02,Q76075042,3,0,1,unconfirmed exoplanet in the constellation Lyra,K03196.02,Q18611609,,
+KOI-319,KOI-3196.01,Q76093379,3,0,1,unconfirmed exoplanet in the constellation Lyra,K03196.01,Q18611609,,
+KOI-319,KOI-3190.01,Q76096399,3,0,1,unconfirmed exoplanet in the constellation Cygnus,K03190.01,Q18611609,,
+KOI-319,KOI-3196,Q93909452,3,0,1,rotating variable star in the constellation Lyra,,Q2168098|Q523|Q67206785|Q1362543,,
+KOI-319,KOI-319.01,Q95387368,3,0,1,unconfirmed exoplanet in the constellation Cygnus,K00319.01,Q18611609,,
+KOI-319,KOI-3197.01,Q97051781,3,0,1,unconfirmed exoplanet in the constellation Cygnus,K03197.01,Q18611609,,
+KOI-319,KOI-3191.02,Q97059037,3,0,1,unconfirmed exoplanet in the constellation Cygnus,,Q18611609,,
+KOI-319,KOI-3190,Q80402019,3,0,1,rotating variable star in the constellation Cygnus,,Q2168098|Q523|Q67206785,,
+TYC 3146-218-1,TYC 3146-218-1,Q91218796,4,0,1,,,Q1362543,,
+TYC 3146-875-1,TYC 3146-875-1,Q91218750,5,0,1,,,Q1362543,,
+TYC 3146-875-1,astronomical object,Q6999,5,0,2,"physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",celestial body|celestial object|astronomical body|astronomical objects|celestial bodies|celestial objects|astronomical bodies|object|stellar body|stellar object,Q96251598,Q223557|Q16686022|Q4235019,Astronomical object
+TYC 3146-875-1,astronomical object type,Q17444909,5,0,2,each instance is a subclass in the hierarchy under <astronomical object>(Q6999); such a subclass's instances in turn are particular identified objects in Our Universe,class of astronomical object|type of astronomical object|object type in astronomy|object type (astronomy)|type of celestial object,Q24017414,Q111360549,
+TYC 3146-875-1,astronomical object in the Solar System,Q109645909,5,0,2,type of astronomical object within the Solar System,Solar System object,Q17444909,Q6999,
+TYC 3146-875-1,astronomical object's surface,Q30318034,5,0,2,type of surface,,,Q3783831|Q125176223,
+TYC 3146-875-1,astronomical object from the Stargate universe,Q108214736,5,0,2,astronomical object appearing in the Stargate universe,,,Q15831598|Q108214806,
+TYC 3146-875-1,Astronomical objects and features with Romanian names,Q29640773,5,0,2,Wikimedia list article,,Q13406463,,Astronomical objects and features with Romanian names
+TYC 3146-875-1,astronomical object from the Star Trek universe,Q57083319,5,0,2,astronomical object appearing in the Star Trek franchise,astronomical object from the Star Trek multiverse,,Q15831598|Q15796005,
+TYC 3146-875-1,astronomical object in a fiction work,Q135456669,5,0,2,"astronomical object, real or imagined, appearing in works of fiction",,,Q15796005,
+TYC 3146-875-1,astronomical object from the Blinky Bill universe,Q117432201,5,0,2,astronomical object appearing in the Blinky Bill universe,,,Q15831598|Q117432180,
+TYC 3146-875-1,Astronomical objects,Q81196826,5,0,2,scientific article published on 01 October 1992,,Q13442814,,
+TYC 3146-875-1,star,Q523,5,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+TYC 3146-875-1,Star Trek,Q1092,5,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+TYC 3146-875-1,Star,Q37529922,5,0,2,family name,,Q101352,,
+TYC 3146-875-1,Star Wars,Q462,5,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+TYC 3146-875-1,Star,Q381936,5,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+TYC 3146-875-1,celebrity,Q211236,5,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+TYC 3146-875-1,STAR,Q3480422,5,0,2,"public transport network in Rennes, France",,Q18325841,,
+TYC 3146-875-1,Starnberg,Q61936,5,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+TYC 3146-875-1,Star TV,Q2067812,5,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+TYC 3146-875-1,Starz Entertainment,Q515869,5,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+TYC 3146-1185-1,TYC 3146-1185-1,Q91218581,6,0,1,,,Q1362543,,
+TYC 3146-1185-1,space probe,Q26529,6,0,2,"unmanned robotic spacecraft that doesn't orbit the Earth, but, instead, explores further into outer space",,,Q1378139,Space probe
+TYC 3146-1185-1,Space Probe,Q7572462,6,0,2,tower drop ride in Sydney,,Q1282871,,Space Probe (Wonderland Sydney)
+TYC 3146-1185-1,Space Probe,Q113954762,6,0,2,1974 studio album by Sun Ra and his Arkestra,"A Tonal View of Times Tomorrow, Vol. 1",Q482994,,
+TYC 3146-1185-1,Space Probe,Q125093919,6,0,2,decorative artwork by Philip Weber,,Q631931,,
+TYC 3146-1185-1,Space Probe,Q140190873,6,0,2,novel by Donald S. Rowland,,Q7725634,,
+TYC 3146-1185-1,Space Probe,Q119373895,6,0,2,"painting by James Cumming (1922–1991), Art in Healthcare",,Q3305213,,
+TYC 3146-1185-1,Space Probes,Q122343049,6,0,2,2020 video game,,Q7889,,
+TYC 3146-1185-1,Space Probe Taurus,Q7572463,6,0,2,1965 film by Leonard Katzman,Space Monster,Q11424,,Space Probe Taurus
+TYC 3146-1185-1,Space probes of the Soviet Union timeline,Q109941838,6,0,2,Wikimedia template,,Q11266439,,
+TYC 3146-1185-1,Space Probe Launcher,Q136537072,6,0,2,LEGO set,,Q6518582,,
+TYC 3146-1099-1,TYC 3146-1099-1,Q91218464,7,0,1,,,Q1362543,,
+TYC 3146-1099-1,astronomical object,Q6999,7,0,2,"physical body of astronomically-significant size, mass, or role, naturally occurring in a universe",celestial body|celestial object|astronomical body|astronomical objects|celestial bodies|celestial objects|astronomical bodies|object|stellar body|stellar object,Q96251598,Q223557|Q16686022|Q4235019,Astronomical object
+TYC 3146-1099-1,astronomical object type,Q17444909,7,0,2,each instance is a subclass in the hierarchy under <astronomical object>(Q6999); such a subclass's instances in turn are particular identified objects in Our Universe,class of astronomical object|type of astronomical object|object type in astronomy|object type (astronomy)|type of celestial object,Q24017414,Q111360549,
+TYC 3146-1099-1,astronomical object in the Solar System,Q109645909,7,0,2,type of astronomical object within the Solar System,Solar System object,Q17444909,Q6999,
+TYC 3146-1099-1,astronomical object's surface,Q30318034,7,0,2,type of surface,,,Q3783831|Q125176223,
+TYC 3146-1099-1,astronomical object from the Stargate universe,Q108214736,7,0,2,astronomical object appearing in the Stargate universe,,,Q15831598|Q108214806,
+TYC 3146-1099-1,Astronomical objects and features with Romanian names,Q29640773,7,0,2,Wikimedia list article,,Q13406463,,Astronomical objects and features with Romanian names
+TYC 3146-1099-1,astronomical object from the Star Trek universe,Q57083319,7,0,2,astronomical object appearing in the Star Trek franchise,astronomical object from the Star Trek multiverse,,Q15831598|Q15796005,
+TYC 3146-1099-1,astronomical object in a fiction work,Q135456669,7,0,2,"astronomical object, real or imagined, appearing in works of fiction",,,Q15796005,
+TYC 3146-1099-1,astronomical object from the Blinky Bill universe,Q117432201,7,0,2,astronomical object appearing in the Blinky Bill universe,,,Q15831598|Q117432180,
+TYC 3146-1099-1,Astronomical objects,Q81196826,7,0,2,scientific article published on 01 October 1992,,Q13442814,,
+TYC 3146-1099-1,star,Q523,7,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+TYC 3146-1099-1,Star Trek,Q1092,7,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+TYC 3146-1099-1,Star,Q37529922,7,0,2,family name,,Q101352,,
+TYC 3146-1099-1,Star Wars,Q462,7,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+TYC 3146-1099-1,Star,Q381936,7,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+TYC 3146-1099-1,celebrity,Q211236,7,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+TYC 3146-1099-1,STAR,Q3480422,7,0,2,"public transport network in Rennes, France",,Q18325841,,
+TYC 3146-1099-1,Starnberg,Q61936,7,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+TYC 3146-1099-1,Star TV,Q2067812,7,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+TYC 3146-1099-1,Starz Entertainment,Q515869,7,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment
+2MASS J18530317+4037505,2MASS J18530317+4037505,Q91176709,8,0,1,,,Q1362543|Q2168098|Q523,,
+2MASS J18593509+4046513,2MASS J18593509+4046513,Q91176284,9,0,1,,,Q1362543|Q2168098|Q523,,
+TYC 3140-139-1,TYC 3140-139-1,Q91158825,10,0,1,,,Q1362543,,
+KOI-12,Kepler-790 b,Q28856014,11,0,1,extrasolar planet,Kepler-790 b|KOI-1207 b,Q44559|Q18611609,,
+KOI-12,Kepler-798 b,Q28856024,11,0,1,extrasolar planet,Kepler-798 b|KOI-1245 b,Q44559|Q18611609,,
+KOI-12,KOI-1298,Q27961912,11,0,1,rotating variable star in the constellation Cygnus,,Q2168098|Q523|Q67206785,,
+KOI-12,Kepler-420 Ab,Q85078417,11,0,1,exoplanet in the constellation Cygnus,KOI-1257Ab,Q18611609|Q44559,,
+KOI-12,KOI-126,Q67018812,11,0,1,star in the constellation Cygnus,,Q1457376|Q523|Q13890|Q67206785,,KOI-126
+KOI-12,KOI-12,Q91158666,11,0,1,,,Q1362543|Q2168098|Q523|Q67206785,,
+KOI-12,KOI-126.01,Q97062734,11,0,1,Candidate exoplanet,K00126.02|KOI-126 b,Q18611609|Q44559,,
+KOI-12,KOI-129,Q85330810,11,0,1,eclipsing binary star in the constellation Cygnus,,Q1457376|Q523|Q67206785,,
+KOI-12,KOI-125,Q85293621,11,0,1,eclipsing binary star in the constellation Cygnus,,Q1457376|Q523|Q67206785,,
+KOI-12,KOI-1227,Q76596787,11,0,1,Algol variable in the constellation Cygnus,,Q1457376|Q523|Q67206785,,
+KOI-12,Kepler object of interest,Q6393205,11,0,2,star observed by the Kepler spacecraft that is suspected of hosting one or more transiting planets,Kepler Objects of Interest|KOI,Q850950,,Kepler object of interest
+KOI-12,Kepler Object of Interest Network. III. Kepler-82f: a new non-transiting 21 M⊕ planet from photodynamical modelling,Q112246436,11,0,2,scholarly article,,Q13442814,,
+KOI-12,Kepler Object of Interest Network. II. Photodynamical modelling of Kepler-9 over 8 years of transit observations,Q59727819,11,0,2,scientific article published in Astronomy and Astrophysics,,Q13442814,,
+KOI-12,Kepler Object of Interest Network. I. First results combining ground- and space-based observations of Kepler systems with transit timing variations,Q59727842,11,0,2,scholarly article,,Q13442814,,
+KOI-12,Hiroshima Toyo Carp,Q247577,11,0,2,Nippon Professional Baseball team in the Central League,Hiroshima Carp|Carp|Koi,Q13027888,,Hiroshima Toyo Carp
+KOI-12,Koichi Tanaka,Q110963,11,0,2,Japanese chemist,"Tanaka, Koichi",Q5,,Koichi Tanaka
+KOI-12,Koichi Izumikawa,Q109648459,11,0,2,,,Q5,,
+KOI-12,Komi-Permyak,Q56318,11,0,2,"Uralic language spoken in Perm Krai, Russia",Komi-Permyak language|Permyak language|Permyak,Q33742|Q1288568,Q161493|Q36126,Komi-Permyak language
+KOI-12,Gauja,Q207928,11,0,2,river in Latvia and Estonia,Koiva River,Q4022|Q108822533,,Gauja
+KOI-12,Koichi Suita,Q114339496,11,0,2,Japanese particle physicist,,Q5,,
+KOI-12,Kyōko Koizumi,Q1197212,11,0,2,Japanese singer and actress,Kyoko Koizumi|KyonKyon|Koizumi Kyōko|Koizumi Kyoko|Kyouko Koizumi,Q5,,Kyoko Koizumi
+KOI-12,Saranya Songsermsawat,Q16140246,11,0,2,Thai actor and singer,Koi|Saranya,Q5,,
+KOI-12,koi,Q378846,11,0,2,form of Cyprinus rubrofuscus (previously categorized as Cyprinus carpio),koi carp|nishikigoi|koi fish,Q55983715,Q622852|Q2751223,Koi
+TYC 3140-704-1,TYC 3140-704-1,Q91158618,12,0,1,,,Q1362543,,
+TYC 3140-704-1,space probe,Q26529,12,0,2,"unmanned robotic spacecraft that doesn't orbit the Earth, but, instead, explores further into outer space",,,Q1378139,Space probe
+TYC 3140-704-1,Space Probe,Q7572462,12,0,2,tower drop ride in Sydney,,Q1282871,,Space Probe (Wonderland Sydney)
+TYC 3140-704-1,Space Probe,Q113954762,12,0,2,1974 studio album by Sun Ra and his Arkestra,"A Tonal View of Times Tomorrow, Vol. 1",Q482994,,
+TYC 3140-704-1,Space Probe,Q125093919,12,0,2,decorative artwork by Philip Weber,,Q631931,,
+TYC 3140-704-1,Space Probe,Q140190873,12,0,2,novel by Donald S. Rowland,,Q7725634,,
+TYC 3140-704-1,Space Probe,Q119373895,12,0,2,"painting by James Cumming (1922–1991), Art in Healthcare",,Q3305213,,
+TYC 3140-704-1,Space Probes,Q122343049,12,0,2,2020 video game,,Q7889,,
+TYC 3140-704-1,Space Probe Taurus,Q7572463,12,0,2,1965 film by Leonard Katzman,Space Monster,Q11424,,Space Probe Taurus
+TYC 3140-704-1,Space probes of the Soviet Union timeline,Q109941838,12,0,2,Wikimedia template,,Q11266439,,
+TYC 3140-704-1,Space Probe Launcher,Q136537072,12,0,2,LEGO set,,Q6518582,,

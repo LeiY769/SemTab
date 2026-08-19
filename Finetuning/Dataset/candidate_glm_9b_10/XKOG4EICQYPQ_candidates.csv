@@ -1,0 +1,634 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+FCM Legends award,FCM Legends award,Q111695063,0,0,1,FCM Award to a Catalan motorcycle legend,Legends de la FCM,Q15229207|Q618779,,
+Federació Catalana de Motociclisme,Federació Catalana de Motociclisme,Q20102985,0,2,1,organization,,Q20102325,,
+Federació Catalana de Motociclisme,FCM Legends award,Q111695063,0,2,2,FCM Award to a Catalan motorcycle legend,Legends de la FCM,Q15229207|Q618779,,
+Federació Catalana de Motociclisme,motorcycle sport,Q328716,0,2,2,sporting aspects of motorcycling,motorbike sport,Q31629,Q5367,Motorcycle sport
+Federació Catalana de Motociclisme,motorcycle sport in Brazil,Q20051990,0,2,2,overview of motorcycle sport in Brazil,motorbike sport in Brazil,Q29791211,,
+Federació Catalana de Motociclisme,Motorcycle Sports Club Brno,Q138724664,0,2,2,,,Q61747587,,
+motorcycle sport,motorcycle sport,Q328716,0,3,1,sporting aspects of motorcycling,motorbike sport,Q31629,Q5367,Motorcycle sport
+motorcycle sport,motorcycle sport in Brazil,Q20051990,0,3,1,overview of motorcycle sport in Brazil,motorbike sport in Brazil,Q29791211,,
+motorcycle sport,Motorcycle Sports Club Brno,Q138724664,0,3,1,,,Q61747587,,
+motorcycle sport,FCM Legends award,Q111695063,0,3,2,FCM Award to a Catalan motorcycle legend,Legends de la FCM,Q15229207|Q618779,,
+motorcycle sport,Federació Catalana de Motociclisme,Q20102985,0,3,2,organization,,Q20102325,,
+Finnish FA's Women's Footballer of the Year,Finnish FA's Women's Footballer of the Year,Q11901935,1,0,1,,,Q15229207,,
+Football Association of Finland,Football Association of Finland,Q474947,1,2,1,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+Football Association of Finland,Football Association of Finland district,Q5450769,1,2,1,,,,Q1478443|Q7383772,Finnish District Football Associations
+Football Association of Finland,Finnish FA's Women's Footballer of the Year,Q11901935,1,2,2,,,Q15229207,,
+Football Association of Finland,Finnish FA's Men's Footballer of the Year,Q10891649,1,2,2,,,Q15229207,,
+Football Association of Finland,Finnish famine of 1866–1868,Q1558846,1,2,2,the hunger years of Finland,,Q168247,,Finnish famine of 1866–1868
+Football Association of Finland,fauna of Finland,Q5438202,1,2,2,native animals of Finland,Finnish fauna|Finnish animals|animals of Finland|fauna in Finland|Finland fauna|animals in Finland|Finland animals,Q74817647,Q104021,Fauna of Finland
+Football Association of Finland,Category:Finnish fairy tales,Q8458993,1,2,2,Wikimedia category,Finnish fairy tales,Q4167836,,Category:Finnish fairy tales
+Football Association of Finland,Finnish Fair Foundation,Q28720999,1,2,2,Finnish foundation,,Q157031,,
+Football Association of Finland,Finnish family name,Q136023708,1,2,2,family name of Finnish origin,Finnish surname|Finnish last name|family name of Finland|family name from Finland|family name in Finnish|surname of Finland|surname from Finland|surname in Finnish,,Q33283501,
+Football Association of Finland,"Finnish familial Meniere disease is not linked to chromosome 12p12.3, and anticipation and cosegregation with migraine are not common findings",Q51054045,1,2,2,"scientific article published on May 1, 2011",,Q13442814,,
+Football Association of Finland,Finnish Fanconi anemia mutations and hereditary predisposition to breast and prostate cancer,Q57305889,1,2,2,,,Q13442814,,
+Football Association of Finland,Finnish families' need for special support as evaluated by public health nurses working in maternity and child welfare clinics,Q44489390,1,2,2,scientific article,,Q13442814,,
+association football,association football,Q2736,1,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,1,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,1,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,1,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,1,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,1,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,1,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,1,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,1,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,1,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,Football Association of Finland,Q474947,1,3,2,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+association football,Football Association of Finland district,Q5450769,1,3,2,,,,Q1478443|Q7383772,Finnish District Football Associations
+association football,Finnish FA's Women's Footballer of the Year,Q11901935,1,3,2,,,Q15229207,,
+Ballon d'Or,Ballon d'or,Q2881323,2,0,1,2009 album by Sinik,,Q482994,,
+Ballon d'Or,Ballon d'Or,Q166177,2,0,1,annual association football award,European Footballer of the Year,Q15229207,Q381165|Q15275719,Ballon d'Or
+Ballon d'Or,FIFA Ballon d'Or,Q2291862,2,0,1,award for association football players (2010–2015),FIFA Player of the Year|Ballon d'Or,Q15229207|Q107655869,,FIFA Ballon d'Or
+Ballon d'Or,Ballon d'Or Féminin,Q59411480,2,0,1,award that honours the best female association football player,Women's Ballon d'Or,Q15229207,,Ballon d'Or Féminin
+Ballon d'Or,Ballon d'Or 2009,Q805316,2,0,1,annual association football award event in France,,Q4504495,,2009 Ballon d'Or
+Ballon d'Or,Ballon d'Or 2008,Q805311,2,0,1,annual association football award event in France,,Q4504495,,2008 Ballon d'Or
+Ballon d'Or,Ballon d'Or 2006,Q805309,2,0,1,annual association football award event in France,,Q4504495,,2006 Ballon d'Or
+Ballon d'Or,Ballon d'Or 1965,Q1985731,2,0,1,annual association football award event in France,,Q4504495,,1965 Ballon d'Or
+Ballon d'Or,Ballon d'Or 1963,Q2292330,2,0,1,annual football award event in France,,Q4504495,,1963 Ballon d'Or
+Ballon d'Or,Ballon d'Or 1961,Q427109,2,0,1,annual association football award event in France,,Q4504495,,1961 Ballon d'Or
+Ballon d'Or,2012 FIFA Ballon d'Or,Q218551,2,0,2,international awards slate for association football players,FIFA Ballon d'Or 2012,Q4504495,Q15229207,2012 FIFA Ballon d'Or
+Ballon d'Or,FIFA Ballon d'Or 2015 goes to Lionel Messi,Q22227072,2,0,2,Wikinews article,,Q17633526,,
+Ballon d'Or,2015 FIFA Ballon d'Or,Q20978666,2,0,2,,,Q4504495,Q15229207,2015 FIFA Ballon d'Or
+Ballon d'Or,2010 FIFA Ballon d'Or,Q1139419,2,0,2,,,Q4504495,Q15229207,2010 FIFA Ballon d'Or
+Ballon d'Or,2011 FIFA Ballon d'Or,Q611968,2,0,2,,,Q4504495,Q15229207,2011 FIFA Ballon d'Or
+Ballon d'Or,2014 FIFA Ballon d'Or,Q18346574,2,0,2,,,Q4504495,,2014 FIFA Ballon d'Or
+Ballon d'Or,2013 FIFA Ballon d'Or,Q15114097,2,0,2,58th Award of the Ballon d'Or,,Q4504495,Q15229207,2013 FIFA Ballon d'Or
+Ballon d'Or,Template:FIFA Ballon d'Or recipients,Q5622697,2,0,2,Wikimedia template,,Q11753321,,
+Ronaldo,Ronaldo,Q19819804,2,1,1,male given name,Ronaldo (given name)|Ronaldo (first name),Q12308941,,Ronaldo
+Ronaldo,Ronaldo,Q529207,2,1,1,Brazilian association football player (born 1976),Ronaldo Nazário|R9,Q5,,Ronaldo (Brazilian footballer)
+Ronaldo,Cristiano Ronaldo,Q11571,2,1,1,Portuguese association football player (born 1985),Cristiano Ronaldo dos Santos Aveiro|CR7,Q5,,Cristiano Ronaldo
+Ronaldo,Ronaldo,Q21452687,2,1,1,family name,,Q101352,,
+Ronaldo,Ronaldo,Q109781615,2,1,1,person identified in the Museu da Pessoa collection,,Q5,,
+Ronaldo,Ronaldo,Q2165978,2,1,1,Wikimedia disambiguation page,,Q22808320,,
+Ronaldo,Ronaldo Bellazzini,Q114374383,2,1,1,researcher,,Q5,,
+Ronaldo,Ronaldo Caiado,Q10364348,2,1,1,"traumatologist, orthopedist, Brazilian politician and 79th governor of Goiás (2019–2026) and Federal Deputy (1991–1995; 1999–2015)",Ronaldo Ramos Caiado,Q5,,Ronaldo Caiado
+Ronaldo,Ronaldo Lessa,Q10296136,2,1,1,"civil engineer and Brazilian politician, vice-governor of Alagoas",Ronaldo Augusto Lessa Santos,Q5,,Ronaldo Lessa
+Ronaldo,Ronaldo,Q54587066,2,1,1,Brazilian sertanejo musician,Marcelo Alves de Amorim,Q5,,
+Ronaldo,Cristiano Ronaldo Jr.,Q118125023,2,1,2,Portuguese association football player (born 2010),Cristiano Jr.|Cristiano Ronaldo Junior|Cristiano Ronaldo dos Santos Aveiro|Cristiano Ronaldo|Cristiano Junior|Cristianinho|Cristiano Ronaldo dos Santos Aveiro Jr.|Cristiano Ronaldo Júnior,Q5,,Cristiano Ronaldo Jr.
+Ronaldo,Cristiano Ronaldo: World at His Feet,Q30936517,2,1,2,2014 film,Cristiano Ronaldo: The World at His Feet,Q11424,,Cristiano Ronaldo: The World at His Feet
+Ronaldo,Madeira Cristiano-Ronaldo Airport,Q639161,2,1,2,"international airport serving Madeira, Portugal",Funchal Airport|Santa Catarina Airport|FNC|LPMA|Cristiano Ronaldo Airport,Q644371|Q1248784|Q94993988,,Madeira Airport
+Ronaldo,Cristiano Ronaldo,Q122124240,2,1,2,book edition published in 2019,,Q3331189,,
+Ronaldo,Cristiano Ronaldo,Q122090904,2,1,2,book edition published in 2020,,Q3331189,,
+Ronaldo,Cristiano Ronaldo,Q122045872,2,1,2,book edition published in 2019,,Q3331189,,
+Ronaldo,Cristiano Ronaldo Eka Saputra,Q138382006,2,1,2,badminton player,,Q5,,
+Ronaldo,Cristiano Ronaldo Freestyle,Q140361461,2,1,2,2012 video game developed by Biodroid Productions,,Q7889,,
+Ronaldo,Cristiano Ronaldo Instagram account,Q65676176,2,1,2,,,Q65676181,,
+Ronaldo,Ronaldo Córdoba,Q27244673,2,1,2,association football player,Ronaldo Nazario Córdoba Welch,Q5,,Ronaldo Córdoba
+France Football,France Football,Q308705,2,2,1,French weekly association football magazine,,Q41298|Q568765,,France Football
+France Football,football in France,Q1478152,2,2,1,overview of association football practiced in France,French football|French soccer|association football in France|soccer in France|French association football|France football,Q29791211,Q3109604,Football in France
+France Football,France Football European Team of the Year,Q5478279,2,2,1,European club award,Challenge Européen de Football|Challenge Européen Interclubs,Q15229207,,France Football European Team of the Year
+France Football,Ballon d'Or Dream Team,Q101116082,2,2,1,football team published by France Football in 2020,,Q618779,,Ballon d'Or Dream Team
+France Football,France Football: Катар купил право проведения чемпионата мира по футболу 2022 года,Q17877052,2,2,1,Wikinews article,,Q17633526,,
+association football,association football,Q2736,2,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,2,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,2,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,2,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,2,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,2,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,2,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,2,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,2,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,2,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,Ballon d'or,Q2881323,2,3,2,2009 album by Sinik,,Q482994,,
+association football,Ballon d'Or,Q166177,2,3,2,annual association football award,European Footballer of the Year,Q15229207,Q381165|Q15275719,Ballon d'Or
+association football,FIFA Ballon d'Or,Q2291862,2,3,2,award for association football players (2010–2015),FIFA Player of the Year|Ballon d'Or,Q15229207|Q107655869,,FIFA Ballon d'Or
+association football,Ballon d'Or Féminin,Q59411480,2,3,2,award that honours the best female association football player,Women's Ballon d'Or,Q15229207,,Ballon d'Or Féminin
+association football,Ballon d'Or 2009,Q805316,2,3,2,annual association football award event in France,,Q4504495,,2009 Ballon d'Or
+association football,Ballon d'Or 2008,Q805311,2,3,2,annual association football award event in France,,Q4504495,,2008 Ballon d'Or
+association football,Ballon d'Or 2006,Q805309,2,3,2,annual association football award event in France,,Q4504495,,2006 Ballon d'Or
+association football,Ballon d'Or 1965,Q1985731,2,3,2,annual association football award event in France,,Q4504495,,1965 Ballon d'Or
+association football,Ballon d'Or 1963,Q2292330,2,3,2,annual football award event in France,,Q4504495,,1963 Ballon d'Or
+association football,Ballon d'Or 1961,Q427109,2,3,2,annual association football award event in France,,Q4504495,,1961 Ballon d'Or
+association football,France Football,Q308705,2,3,2,French weekly association football magazine,,Q41298|Q568765,,France Football
+association football,football in France,Q1478152,2,3,2,overview of association football practiced in France,French football|French soccer|association football in France|soccer in France|French association football|France football,Q29791211,Q3109604,Football in France
+association football,France Football European Team of the Year,Q5478279,2,3,2,European club award,Challenge Européen de Football|Challenge Européen Interclubs,Q15229207,,France Football European Team of the Year
+association football,Ballon d'Or Dream Team,Q101116082,2,3,2,football team published by France Football in 2020,,Q618779,,Ballon d'Or Dream Team
+association football,France Football: Катар купил право проведения чемпионата мира по футболу 2022 года,Q17877052,2,3,2,Wikinews article,,Q17633526,,
+FIFA Player of the Century,FIFA Player of the Century,Q1996160,3,0,1,one-off award by FIFA,,Q15229207,,FIFA Player of the Century
+FIFA Player of the Century,FIFA World Cup,Q19317,3,0,2,international association football competition contested by the senior men's national teams,FIFA Football World Cup|FIFA Association Football World Cup|World Cup|Football World Cup|FIFA World Cup of Football|The World Cup|Soccer World Cup,Q34542827|Q135741070,Q1344963|Q1478437,FIFA World Cup
+FIFA Player of the Century,2010 FIFA World Cup,Q176883,3,0,2,"19th FIFA World Cup, held in South Africa",2010 FIFA World Cup South Africa|FIFA World Cup 2010|FIFA 2010,Q27020041,,2010 FIFA World Cup
+FIFA Player of the Century,2006 FIFA World Cup,Q37285,3,0,2,"18th FIFA World Cup, held in Germany",2006 World Cup|FIFA 2006|FIFA World Cup 2006,Q27020041,,2006 FIFA World Cup
+FIFA Player of the Century,2014 FIFA World Cup,Q79859,3,0,2,"20th FIFA World Cup, held in Brazil",20th FIFA World Cup|2014 FIFA World Cup Brasil|FIFA 2014|2014 FIFA World Cup Brazil|FIFA World Cup 2014,Q27020041,,2014 FIFA World Cup
+FIFA Player of the Century,2018 FIFA World Cup,Q170645,3,0,2,"21st FIFA World Cup, held in Russia",World Cup 2018 in Russia|FIFA World Cup 2018|2018 World Cup|World Cup 2018|FIFA 2018,Q27020041,,2018 FIFA World Cup
+FIFA Player of the Century,2002 FIFA World Cup,Q47735,3,0,2,"17th FIFA World Cup, held in South Korea and Japan",2002 FIFA World Cup Korea/Japan|FIFA 2002|FIFA World Cup 2002,Q27020041,,2002 FIFA World Cup
+FIFA Player of the Century,1998 FIFA World Cup,Q101730,3,0,2,"16th FIFA football World Cup finals, held in France",FIFA 1998|France 98|FIFA World Cup 1998,Q27020041,,1998 FIFA World Cup
+FIFA Player of the Century,2026 FIFA World Cup,Q5020214,3,0,2,"23rd edition of the FIFA World Cup, being held in the United States, Mexico and Canada in 2026",FIFA 2026|FIFA World Cup 26|2026 Fifa World Cup,Q27020041,,2026 FIFA World Cup
+FIFA Player of the Century,FIFA World Cup,Q864001,3,0,2,video game series,,Q7058673,,FIFA World Cup video games
+FIFA Player of the Century,1994 FIFA World Cup,Q101751,3,0,2,"15th FIFA World Cup, held in United States",World Cup USA 94|World Cup USA '94|FIFA World Cup 1994,Q27020041,,1994 FIFA World Cup
+FIFA Player of the Century,final of the FIFA World Cup,Q12708896,3,0,2,association football game coroning FIFA World Cup winners,FIFA World Cup finals|FIFA World Cup final|final of the Jules Rimet Cup|World Cup final (FIFA),,Q17315159|Q65770283,FIFA World Cup Final
+FIFA Player of the Century,FIFA World Cup final draw,Q20994333,3,0,2,,,,,FIFA World Cup final draw
+FIFA Player of the Century,2034 FIFA World Cup final,Q131428423,3,0,2,,2034 World Cup final|FIFA World Cup final 2034|World Cup final 2034,Q12708896|Q17315159,,
+FIFA,FIFA,Q253414,3,2,1,international governing body of association football,International Federation of Association Football|Federación Internacional de Fútbol Asociado|Federación Internacional de Fútbol Asociación|Federacion Internacional de Futbol Asociados|Fédération internationale de football association,Q37178026|Q1478443|Q11422536|Q163740,,FIFA
+FIFA,Fifa,Q84978416,3,2,1,vocal track by Angelique Kidjo; studio recording,,Q55850593,,
+FIFA,FIFA World Cup,Q19317,3,2,1,international association football competition contested by the senior men's national teams,FIFA Football World Cup|FIFA Association Football World Cup|World Cup|Football World Cup|FIFA World Cup of Football|The World Cup|Soccer World Cup,Q34542827|Q135741070,Q1344963|Q1478437,FIFA World Cup
+FIFA,FIFA,Q326704,3,2,1,association football video game series,,Q7058673|Q112144412,Q300920,FIFA (video game series)
+FIFA,FIFA Club World Cup,Q223366,3,2,1,association football tournament for clubs,,Q123856943|Q1478437,,FIFA Club World Cup
+FIFA,2010 FIFA World Cup,Q176883,3,2,1,"19th FIFA World Cup, held in South Africa",2010 FIFA World Cup South Africa|FIFA World Cup 2010|FIFA 2010,Q27020041,,2010 FIFA World Cup
+FIFA,2006 FIFA World Cup,Q37285,3,2,1,"18th FIFA World Cup, held in Germany",2006 World Cup|FIFA 2006|FIFA World Cup 2006,Q27020041,,2006 FIFA World Cup
+FIFA,2014 FIFA World Cup,Q79859,3,2,1,"20th FIFA World Cup, held in Brazil",20th FIFA World Cup|2014 FIFA World Cup Brasil|FIFA 2014|2014 FIFA World Cup Brazil|FIFA World Cup 2014,Q27020041,,2014 FIFA World Cup
+FIFA,2018 FIFA World Cup,Q170645,3,2,1,"21st FIFA World Cup, held in Russia",World Cup 2018 in Russia|FIFA World Cup 2018|2018 World Cup|World Cup 2018|FIFA 2018,Q27020041,,2018 FIFA World Cup
+FIFA,2002 FIFA World Cup,Q47735,3,2,1,"17th FIFA World Cup, held in South Korea and Japan",2002 FIFA World Cup Korea/Japan|FIFA 2002|FIFA World Cup 2002,Q27020041,,2002 FIFA World Cup
+FIFA,Federation Internationale de Football Association (FIFA) 2014 World Cup Impact on Hospital-Treated Suicide Attempt (Overdose) in Tehran,Q47694543,3,2,2,scientific article published on 13 June 2017,,Q13442814,,
+FIFA,"FIFA, documentation centre",Q27490229,3,2,2,archive of the Fédération Internationale de Football Association (FIFA) in Zurich (Switzerland),,Q27031014|Q1497649,,
+association football,association football,Q2736,3,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,3,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,3,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,3,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,3,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,3,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,3,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,3,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,3,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,3,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,American football,Q41323,3,3,2,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+association football,Australian rules football,Q50776,3,3,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+association football,Canadian football,Q248534,3,3,2,"Canadian sport in which opposing teams of twelve players attempt to score by advancing a ball by running, passing and kicking",football|gridiron football,Q2312410|Q216048,Q1546270,Canadian football
+association football,Football,Q102309178,3,3,2,1986 video game,,Q7889,,Football (1986 video game)
+association football,American football player,Q19204627,3,3,2,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+association football,Soccerdonna,Q41779610,3,3,2,multilingual website with a focus on women's football,,Q35127,,
+association football,Soccer,Q2338283,3,3,2,1985 video game,NES Soccer|1985 Soccer,Q7889,,Soccer (1985 video game)
+association football,midfielder,Q193592,3,3,2,association football position,MF|M|mid-fielder|soccer midfielder,Q4611891,Q937857,Midfielder
+association football,Soccer,Q7550286,3,3,2,1991 video game,Football International|Game Boy Soccer|1991 Soccer,Q7889,,Soccer (1991 video game)
+association football,forward,Q280658,3,3,2,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Serie A Footballer of the Year,Serie A Footballer of the Year,Q930810,4,0,1,sports award,,Q15229207,,Serie A Footballer of the Year
+Serie A Footballer of the Year,Serie A,Q15804,4,0,2,professional league competition for football clubs located at the top of the Italian football league system,Serie A League|Italian League|Italian Serie A|Italian Football League|Italy Football League|The Serie A|SerieA|The A|Serie A TIM,Q15991303|Q15991290|Q114608872,Q3270632|Q1478437,Serie A
+Serie A Footballer of the Year,Serie A,Q1635558,4,0,2,Italian professional ice hockey league,Serie A ice hockey,Q18608583,Q3270632,Italian Hockey League Serie A
+Serie A Footballer of the Year,Serie A,Q922935,4,0,2,highest league of women's football in Italy,Serie A Women's League|Serie A Women's Football League|Serie A Women|Serie A Femminile,Q623109,Q3270632,Serie A Women
+Serie A Footballer of the Year,Serie A,Q929124,4,0,2,top men's basketball league in Italy,,Q623109,Q3270632,Lega Basket Serie A
+Serie A Footballer of the Year,Serie A,Q2949998,4,0,2,2nd tier of Italy’s men’s rugby union championship,Serie A rugby union,Q623109|Q59134440|Q18608583,Q3270632,Serie A (rugby union)
+Serie A Footballer of the Year,Serie A Élite,Q738154,4,0,2,top division of the Italian women's rugby union system,Serie A|Serie A rugby union women|Serie A rugby union female|Italian women's Premier Division (rugby union)|serie a elite,Q623109|Q3270632|Q115562284|Q18608583,,Serie A Elite (women's rugby union)
+Serie A Footballer of the Year,Serie A,Q3956990,4,0,2,top Italian pallapugno league,,Q13406554|Q623109|Q18608583,,
+Serie A Footballer of the Year,Italian Hockey League Women,Q3654182,4,0,2,top women's ice hockey league in Italy,Serie A,Q623109,,Italian Hockey League Women
+Serie A Footballer of the Year,Serie A,Q2949872,4,0,2,top men's baseball league in Italy,Serie A1|Italian Baseball League|IBL,Q15991290|Q114608872|Q18608583,Q3270632,Italian Baseball League
+Serie A Footballer of the Year,Serie A1,Q25408693,4,0,2,highest women's volleyball league in Italy,,Q623109,,Italian Women's Volleyball League
+Serie A Footballer of the Year,Italian Footballers' Association,Q744180,4,0,2,trade union of Italy,AIC,Q48204,,Italian Footballers' Association
+Serie A Footballer of the Year,association football,Q2736,4,0,2,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+Serie A Footballer of the Year,association football player,Q937857,4,0,2,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+Serie A Footballer of the Year,goalkeeper,Q201330,4,0,2,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+Serie A Footballer of the Year,association football club,Q476028,4,0,2,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+Serie A Footballer of the Year,association football coach,Q628099,4,0,2,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+Serie A Footballer of the Year,association football referee,Q859528,4,0,2,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+Serie A Footballer of the Year,association football team season,Q26887310,4,0,2,association football team during season,soccer team season|football team season,,Q1539532,
+Serie A Footballer of the Year,association football club match,Q109623729,4,0,2,association football match between club teams,,,Q12166442,
+Serie A Footballer of the Year,association football players who play in this club,Q56465024,4,0,2,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+Serie A Footballer of the Year,captain,Q715772,4,0,2,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+Serie A Footballer of the Year,Footballer of the Year,Q66035836,4,0,2,1986 video game,,Q7889,,
+Serie A Footballer of the Year,Footballer of the Year,Q325603,4,0,2,prize,,Q5257307,,
+Serie A Footballer of the Year,Footballer of the Year 2,Q61654475,4,0,2,1989 video game,,Q7889,,
+Serie A Footballer of the Year,Footballer of the Year of Argentina,Q645468,4,0,2,Argentinan award,,Q38033430|Q15229207,Q105763590,Argentine Footballer of the Year
+Serie A Footballer of the Year,Footballer of the Year in Russia,Q283079,4,0,2,award,,Q15229207,,Footballer of the Year in Russia (Sport-Express)
+Serie A Footballer of the Year,Footballer of the Year – Israel,Q1478266,4,0,2,award,,Q15229207,,Israeli Footballer of the Year
+Serie A Footballer of the Year,Footballer of the Year in Baltic and Commonwealth of Independent States,Q4189381,4,0,2,,Star award,Q15229207,,Footballer of the Year in Baltic and Commonwealth of Independent States
+Serie A Footballer of the Year,FWA Footballer of the Year,Q1750244,4,0,2,annual award,,Q15229207,,FWA Footballer of the Year
+Serie A Footballer of the Year,Footballer of the Year in Russia,Q1756071,4,0,2,annual award given by Futbol weekly,,Q15229207,,Footballer of the Year in Russia (Futbol)
+Serie A Footballer of the Year,Footballer of the year in Brazil,Q899353,4,0,2,award,,Q15229207,,
+Italian Footballers' Association,Italian Footballers' Association,Q744180,4,2,1,trade union of Italy,AIC,Q48204,,Italian Footballers' Association
+Italian Footballers' Association,Associazione Italiana Calciatoris database,Q124610665,4,2,2,,,Q7094076|Q29043181,,
+Italian Footballers' Association,Art Institute of Chicago,Q239303,4,2,2,"art museum and school in Chicago, United States",Art Institute Chicago|AIC|Chicago Art Institute,Q3196771|Q2385804|Q163740,,Art Institute of Chicago
+Italian Footballers' Association,Artists in Canada,Q56027560,4,2,2,documentation file on Canadian artists maintained by the National Gallery of Canada Library,AiC,Q1988927|Q1172284,,
+Italian Footballers' Association,Aicardi syndrome,Q403463,4,2,2,"syndrome that is characterized by absence or underdeveloped tissue connecting the left and right halves of the brain, infantile spasms and chorioretinal lacunae, which are defects in the light-sensitive tissue at the back of the eye","AIC|AICARDI SYNDROME|Agenesis of corpus callosum with chorioretinal abnormality|Corpus Callosum, Agenesis Of, With Chorioretinal Abnormality|Corpus callosum agenesis of with chorioretinal abnormality|AICARDI SYNDROME; AIC",Q42303753|Q112193867|Q112965645,Q179630|Q55786837|Q8041560|Q55789255|Q55785336|Q55785630|Q55785832|Q55788864,Aicardi syndrome
+Italian Footballers' Association,Air India,Q69906,4,2,2,flag-carrier airline of India,AI|AIC,Q46970,,Air India
+Italian Footballers' Association,Aichi University,Q403626,4,2,2,"Higher education institution in Aichi Prefecture, Japan",Aidai,Q902104|Q96888669,,Aichi University
+Italian Footballers' Association,Aichi Prefecture,Q80434,4,2,2,prefecture of Japan,Aichi|Aichi-ken,Q50337,,Aichi Prefecture
+Italian Footballers' Association,Anime International Company,Q548166,4,2,2,Japanese animation studio,"AIC|Anime International Company, Inc.|Anime International Co., Inc.",Q1107679,,Anime International Company
+Italian Footballers' Association,American International College,Q3695722,4,2,2,"Liberal arts college in Massachusetts, U.S.",AIC,Q23002054,,American International College
+Italian Footballers' Association,Aïcirits-Camou-Suhast,Q188658,4,2,2,"commune in Pyrénées-Atlantiques, France",Aiziritze-Gamue-Zohazti,Q484170,,Aïcirits-Camou-Suhast
+Italian Footballers' Association,Aichen,Q403583,4,2,2,municipality of Germany,,Q116457956,,Aichen
+association football,association football,Q2736,4,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,4,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,4,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,4,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,4,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,4,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,4,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,4,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,4,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,4,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,American football,Q41323,4,3,2,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+association football,Australian rules football,Q50776,4,3,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+association football,Canadian football,Q248534,4,3,2,"Canadian sport in which opposing teams of twelve players attempt to score by advancing a ball by running, passing and kicking",football|gridiron football,Q2312410|Q216048,Q1546270,Canadian football
+association football,Football,Q102309178,4,3,2,1986 video game,,Q7889,,Football (1986 video game)
+association football,American football player,Q19204627,4,3,2,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+association football,Soccerdonna,Q41779610,4,3,2,multilingual website with a focus on women's football,,Q35127,,
+association football,Soccer,Q2338283,4,3,2,1985 video game,NES Soccer|1985 Soccer,Q7889,,Soccer (1985 video game)
+association football,midfielder,Q193592,4,3,2,association football position,MF|M|mid-fielder|soccer midfielder,Q4611891,Q937857,Midfielder
+association football,Soccer,Q7550286,4,3,2,1991 video game,Football International|Game Boy Soccer|1991 Soccer,Q7889,,Soccer (1991 video game)
+association football,forward,Q280658,4,3,2,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Kaijan Kannu,Kaijan Kannu,Q98969578,5,0,1,Finnish association football award,,Q15229207,,
+Football Association of Finland,Football Association of Finland,Q474947,5,2,1,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+Football Association of Finland,Football Association of Finland district,Q5450769,5,2,1,,,,Q1478443|Q7383772,Finnish District Football Associations
+Football Association of Finland,Kaijan Kannu,Q98969578,5,2,2,Finnish association football award,,Q15229207,,
+association football,association football,Q2736,5,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,5,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,5,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,5,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,5,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,5,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,5,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,5,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,5,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,5,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,Football Association of Finland,Q474947,5,3,2,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+association football,Football Association of Finland district,Q5450769,5,3,2,,,,Q1478443|Q7383772,Finnish District Football Associations
+Ard Schenk Award,Ard Schenk Award,Q2529857,6,0,1,,,Q15229207,,Ard Schenk Award
+Aegon N.V,Aegon,Q291171,6,2,1,"multinational life insurance, pensions and asset management company","Aegon UK Plc|AEGON|Monumental Life Insurance Company|Clark Consulting|Clark, Inc.|Western Reserve Life|Western Reserve Life Assurance Co. of Ohio|Aegon|Aegon N.V.",Q4830453|Q6881511|Q891723,,Aegon
+Aegon N.V,Aegon II Targaryen,Q55452778,6,2,2,character in A Song of Ice and Fire,Aegon Targaryen|Aegon the Elder|Aegon the Usurper,Q20086260|Q15632617|Q15773317,,Aegon II Targaryen
+Aegon N.V,Aegon III Targaryen,Q55513155,6,2,2,character in A Song of Ice and Fire,Aegon Targaryen|Aegon the Younger|Aegon the Dragonbane,Q20086260|Q15632617|Q15773317,,
+Aegon N.V,Aegonychon,Q5658740,6,2,2,genus of plants,,Q16521,,Aegonychon
+Aegon N.V,MAG Seguros,Q112679429,6,2,2,,AEGON|Montepio Geral de Economia dos Servidore,Q6881511|Q2143354,,
+Aegon N.V,Aegonethes,Q10401647,6,2,2,genus of crustaceans,,Q16521,,
+Aegon N.V,Aegongebouw,Q2250490,6,2,2,"building in The Hague, the Netherlands",,Q1021645,,
+Aegon N.V,Aegonplein,Q66426307,6,2,2,"former tram stop in The Hague, the Netherlands",,Q2175765,,
+Aegon N.V,Aegoniscus,Q11840724,6,2,2,genus of crustaceans,,Q16521,,
+Aegon N.V,Aegonne (Pauly-Wissowa),Q19981071,6,2,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+long track speed skating,long track speed skating,Q17165362,6,3,1,form of ice speed skating,,Q2312410,Q192431,Long-track speed skating
+long track speed skating,long track speed skating at the Winter Universiade,Q7345240,6,3,1,long track speed skating tournament for students as part of the Winter Universiade,,Q7894227,,Speed skating at the Winter World University Games
+long track speed skating,Ard Schenk Award,Q2529857,6,3,2,,,Q15229207,,Ard Schenk Award
+long track speed skating,Aegon,Q291171,6,3,2,"multinational life insurance, pensions and asset management company","Aegon UK Plc|AEGON|Monumental Life Insurance Company|Clark Consulting|Clark, Inc.|Western Reserve Life|Western Reserve Life Assurance Co. of Ohio|Aegon|Aegon N.V.",Q4830453|Q6881511|Q891723,,Aegon
+long track speed skating,speed skating,Q192431,6,3,2,competitive form of ice skating in which competitors race each other,speedskating|speed-skating,Q31629,Q779272|Q212434,Speed skating
+long track speed skating,speed skating at the 2020 Winter Youth Olympics,Q74123387,6,3,2,speed skating events at the Olympics,,Q84476898,Q22807283,Speed skating at the 2020 Winter Youth Olympics
+long track speed skating,speed skating at the Winter Olympics,Q751518,6,3,2,long track speed skating competitions during the Olympic Winter Games,,Q18608583,Q26132862,Speed skating at the Winter Olympics
+long track speed skating,speed skating at the 2018 Winter Olympics,Q4350768,6,3,2,speed skating events during the 2018 Winter Olympics,,Q26132862|Q751518,,Speed skating at the 2018 Winter Olympics
+long track speed skating,speed skating rink,Q2617766,6,3,2,ice rink designed for speed skating,,,Q1282870,Speed skating rink
+long track speed skating,speed skating at the 2014 Winter Olympics,Q719580,6,3,2,2014 edition of the speed skating competitions during the Olympic Winter Games,,Q26132862,,Speed skating at the 2014 Winter Olympics
+long track speed skating,speed skating at the 2006 Winter Olympics,Q289174,6,3,2,Speed skating at the Olympics,,Q26132862,,Speed skating at the 2006 Winter Olympics
+long track speed skating,speed skating at the 2010 Winter Olympics,Q325843,6,3,2,Speed skating at the Olympics,,Q26132862,,Speed skating at the 2010 Winter Olympics
+long track speed skating,speed skating at the 1992 Winter Olympics,Q368684,6,3,2,Speed skating at the Olympics,,Q26132862|Q751518,,Speed skating at the 1992 Winter Olympics
+long track speed skating,speed skating at the 1998 Winter Olympics,Q516419,6,3,2,Speed skating at the Olympics,,Q26132862,,Speed skating at the 1998 Winter Olympics
+long track speed skating,Ard Schenk,Q41522,6,3,2,Dutch Olympic speed skater,Adrianus Schenk,Q5,,Ard Schenk
+long track speed skating,Ard Schenkstraat,Q18940030,6,3,2,"street in Hoofddorp, the Netherlands",,Q79007,,
+Jim Phelan Award,Jim Phelan Award,Q6197497,7,0,1,American college basketball coach award,,Q15229207,,Jim Phelan Award
+Jim Phelan Award,Collegeinsider.com,Q5146912,7,0,2,website based in Boston,,Q35127,,Collegeinsider.com
+Jim Phelan Award,CollegeInsider.com Postseason Tournament,Q5146309,7,0,2,fourth tier postseason collegiate men's basketball tournament,CIT,,Q864897|Q4867756,CollegeInsider.com Postseason Tournament
+Collegeinsider.com,Collegeinsider.com,Q5146912,7,2,1,website based in Boston,,Q35127,,Collegeinsider.com
+Collegeinsider.com,CollegeInsider.com Postseason Tournament,Q5146309,7,2,1,fourth tier postseason collegiate men's basketball tournament,CIT,,Q864897|Q4867756,CollegeInsider.com Postseason Tournament
+basketball,basketball,Q5372,7,3,1,team sport played on a court with baskets on either end,hoops|b-ball|basket ball|BB|Basketball|basket,Q31629|Q212434|Q47728,Q877517|Q216048|Q128305747|Q1368898,Basketball
+basketball,basketball player,Q3665646,7,3,1,person who plays in basketball,basketballer|professional basketball player|hoopster|cager|basketeer,Q28640,Q2066131|Q18536342|Q136722009,Basketball player
+basketball,Basketball,Q4867640,7,3,1,1980 sports video game,NBA Basketball|1980 Basketball|Intellivision Basketball,Q7889,,Basketball (1980 video game)
+basketball,Basketball,Q2887242,7,3,1,1978 basketball video game,Atari Basketball|1978 Basketball,Q7889,,Basketball (1978 video game)
+basketball,Basketball,Q31815466,7,3,1,1974 video game,TV Basketball,Q7889,,
+basketball,Basketball,Q25218914,7,3,1,arcade game,,Q7889,,Basketball (1979 video game)
+basketball,National Basketball Association,Q155223,7,3,1,North American professional basketball league,NBA|Basketball Association of America|National Basketball Assn.|Nat'l Basketball Assn.|BAA,Q15986354|Q18536323|Q15991290|Q7094076,,National Basketball Association
+basketball,basketball coach,Q5137571,7,3,1,one who directs and strategizes the behavior of a basketball team or player,basketball trainer,Q28640|Q4164871|Q104437412,Q41583|Q136722009,Coach (basketball)
+basketball,center,Q222052,7,3,1,basketball position,pivot|basketball center|basketball pivot,Q1148974,,Center (basketball)
+basketball,basketball team season,Q26894053,7,3,1,type of season,basketball season|season of basketball team,Q27020041,Q1539532,
+basketball,Jim Phelan,Q100985208,7,3,2,college basketball player (1971–1972) Boston College,,Q5,,
+basketball,Jim Phelan,Q108072797,7,3,2,college basketball player (1951–1953) Xavier,,Q5,,
+basketball,Jim Phelan,Q6197494,7,3,2,American basketball player and coach,James Joseph Phelan,Q5,,Jim Phelan (basketball)
+basketball,Jim Phelan,Q6197491,7,3,2,Irish writer,James Leo Phelan,Q5,,Jim Phelan (Irish writer)
+basketball,Jim Phelan Award,Q6197497,7,3,2,American college basketball coach award,,Q15229207,,Jim Phelan Award
+basketball,Collegeinsider.com,Q5146912,7,3,2,website based in Boston,,Q35127,,Collegeinsider.com
+basketball,CollegeInsider.com Postseason Tournament,Q5146309,7,3,2,fourth tier postseason collegiate men's basketball tournament,CIT,,Q864897|Q4867756,CollegeInsider.com Postseason Tournament
+Penang Badminton Association Silver Plate,Penang Badminton Association Silver Plate,Q66765172,8,0,1,sports award,,Q15229207,,
+Penang Badminton Association Silver Plate,Penang Badminton Association,Q112898644,8,0,2,badminton association,PBA,Q29592127,,
+Penang Badminton Association Silver Plate,Silver Plate,Q77556532,8,0,2,painting by Ani Hoover,,Q3305213,,
+Penang Badminton Association Silver Plate,silver plating,Q10501459,8,0,2,process of coating an object with a thin adherent layer of silver,silver plated|silver-plated|silverplate,Q2695280,Q1193988,
+Penang Badminton Association Silver Plate,Silver-plated bronze,Q100989089,8,0,2,,,Q214609,,
+Penang Badminton Association Silver Plate,Silver Plate,Q49448906,8,0,2,"mine in Rio Arriba County, New Mexico, United States",,Q820477,,
+Penang Badminton Association Silver Plate,Silver Plate,Q64580682,8,0,2,drawing in the National Gallery of Art (NGA 26572),,Q93184,,
+Penang Badminton Association Silver Plate,Silver plate,Q116295122,8,0,2,"plate with masks and animals at the Metropolitan Museum of Art (MET, 18.145.37)",,Q97659338,,
+Penang Badminton Association Silver Plate,Silver-plate candle stick (one of a pair),Q106582826,8,0,2,ceramics by Artist Unknown 1979.0995P,,Q151771,,
+Penang Badminton Association Silver Plate,Silver-plate candle stick (one of a pair),Q106582827,8,0,2,ceramics by Artist Unknown 1979.0996P,,Q151771,,
+Penang Badminton Association Silver Plate,Silver Plate Bread Basket,Q64539850,8,0,2,drawing in the National Gallery of Art (NGA 20847),,Q93184,,
+Penang Badminton Association Silver Plate,silver-plated iron belt buckle,Q88383443,8,0,2,object discovered at the Boulbènes des Vitarelles necropolis in Seysses,,Q29060497|Q220659,,
+Penang Badminton Association,Penang Badminton Association,Q112898644,8,2,1,badminton association,PBA,Q29592127,,
+Penang Badminton Association,Penang Badminton Association Silver Plate,Q66765172,8,2,1,sports award,,Q15229207,,
+Penang Badminton Association,Silver Plate,Q77556532,8,2,2,painting by Ani Hoover,,Q3305213,,
+Penang Badminton Association,silver plating,Q10501459,8,2,2,process of coating an object with a thin adherent layer of silver,silver plated|silver-plated|silverplate,Q2695280,Q1193988,
+Penang Badminton Association,Silver-plated bronze,Q100989089,8,2,2,,,Q214609,,
+Penang Badminton Association,Silver Plate,Q49448906,8,2,2,"mine in Rio Arriba County, New Mexico, United States",,Q820477,,
+Penang Badminton Association,Silver Plate,Q64580682,8,2,2,drawing in the National Gallery of Art (NGA 26572),,Q93184,,
+Penang Badminton Association,Silver plate,Q116295122,8,2,2,"plate with masks and animals at the Metropolitan Museum of Art (MET, 18.145.37)",,Q97659338,,
+Penang Badminton Association,Silver-plate candle stick (one of a pair),Q106582826,8,2,2,ceramics by Artist Unknown 1979.0995P,,Q151771,,
+Penang Badminton Association,Silver-plate candle stick (one of a pair),Q106582827,8,2,2,ceramics by Artist Unknown 1979.0996P,,Q151771,,
+Penang Badminton Association,Silver Plate Bread Basket,Q64539850,8,2,2,drawing in the National Gallery of Art (NGA 20847),,Q93184,,
+Penang Badminton Association,silver-plated iron belt buckle,Q88383443,8,2,2,object discovered at the Boulbènes des Vitarelles necropolis in Seysses,,Q29060497|Q220659,,
+Penang Badminton Association,badminton association,Q29592127,8,2,2,governing body of badminton,badminton organisation|badminton organization,Q1531833,Q2485448,
+Penang Badminton Association,Badminton Association,Q799597,8,2,2,badminton association,,Q29592127,,
+Penang Badminton Association,Badminton England,Q799607,8,2,2,badminton association,Badminton Association of England,Q2485448|Q29592127,,Badminton England
+Penang Badminton Association,1900 All England Badminton Championships,Q2647571,8,2,2,badminton championships,Badminton Association Tournament 1900|1900 Badminton Association Tournament,Q1396170,,1900 All England Badminton Championships
+Penang Badminton Association,Badminton Association of Malaysia,Q799603,8,2,2,badminton association,Persatuan Badminton Malaysia|BAM,Q29592127,,Badminton Association of Malaysia
+Penang Badminton Association,Badminton Association of India,Q799599,8,2,2,badminton association,BAI,Q29592127,,Badminton Association of India
+Penang Badminton Association,Persatuan Bulutangkis Seluruh Indonesia,Q2071859,8,2,2,badminton association,Badminton Association of Indonesia|PBSI,Q29592127,,Badminton Association of Indonesia
+Penang Badminton Association,1899 All England Badminton Championships,Q766192,8,2,2,badminton championships,Badminton Association Tournament 1899|1899 Badminton Association Tournament,Q1396170,,1899 All England Badminton Championships
+Penang Badminton Association,Badminton Association of Japan,Q1993284,8,2,2,badminton association,,Q2485448|Q29592127,,Badminton Association of Japan
+Penang Badminton Association,Badminton Association of Thailand,Q799245,8,2,2,badminton association,,Q29592127,,Badminton Association of Thailand
+badminton,badminton,Q7291,8,3,1,racquet sport,,Q31629|Q212434|Q47728,Q2426135|Q212434,Badminton
+badminton,Badminton,Q799600,8,3,1,"village and civil parish in Gloucestershire, England","Badminton, Gloucestershire|Great Badminton",Q532|Q1115575,,"Badminton, Gloucestershire"
+badminton,Badminton,Q14627451,8,3,1,episode of Stromberg (S2 E4),,Q21191270,,
+badminton,Badminton,Q107564320,8,3,1,book,Бадминтон,Q7725634,,
+badminton,Badminton,Q107285852,8,3,1,book by Barbara Jones,Badminton: Fundierte Information für Einsteiger und Aktive,Q3331189,,
+badminton,badminton event,Q57733494,8,3,1,individual event at a badminton tournament,,Q2312410,Q16510064,
+badminton,badminton player,Q13141064,8,3,1,sportsperson specialized in badminton,badmintonist,Q28640,Q2066131|Q18536342,Badminton player
+badminton,national championship,Q63891772,8,3,1,competition class in badminton,national championships|badminton national championship,Q10708051,Q3270632,
+badminton,badminton tournament,Q13357858,8,3,1,competition of badminton,badminton competition,Q2312410|Q57733325,Q500834|Q13406554,
+badminton,Badminton World Federation,Q126638,8,3,1,international badminton association,BWF|International Badminton Federation|IBF,Q11422536|Q29592127,,Badminton World Federation
+badminton,Penang Badminton Association,Q112898644,8,3,2,badminton association,PBA,Q29592127,,
+badminton,Penang Badminton Association Silver Plate,Q66765172,8,3,2,sports award,,Q15229207,,
+badminton,Silver Plate,Q77556532,8,3,2,painting by Ani Hoover,,Q3305213,,
+badminton,silver plating,Q10501459,8,3,2,process of coating an object with a thin adherent layer of silver,silver plated|silver-plated|silverplate,Q2695280,Q1193988,
+badminton,Silver-plated bronze,Q100989089,8,3,2,,,Q214609,,
+badminton,Silver Plate,Q49448906,8,3,2,"mine in Rio Arriba County, New Mexico, United States",,Q820477,,
+badminton,Silver Plate,Q64580682,8,3,2,drawing in the National Gallery of Art (NGA 26572),,Q93184,,
+badminton,Silver plate,Q116295122,8,3,2,"plate with masks and animals at the Metropolitan Museum of Art (MET, 18.145.37)",,Q97659338,,
+badminton,Silver-plate candle stick (one of a pair),Q106582826,8,3,2,ceramics by Artist Unknown 1979.0995P,,Q151771,,
+badminton,Silver-plate candle stick (one of a pair),Q106582827,8,3,2,ceramics by Artist Unknown 1979.0996P,,Q151771,,
+badminton,Silver Plate Bread Basket,Q64539850,8,3,2,drawing in the National Gallery of Art (NGA 20847),,Q93184,,
+badminton,silver-plated iron belt buckle,Q88383443,8,3,2,object discovered at the Boulbènes des Vitarelles necropolis in Seysses,,Q29060497|Q220659,,
+Sammon malja,Sammon malja,Q118760129,9,0,1,,,Q15229207,,
+Finnish Ice Hockey Association,Finnish Ice Hockey Association,Q1854702,9,2,1,ice hockey governing body in Finland,Finlands Ishockeyförbund|Suomen Jääkiekkoliitto|Suomen Jääkiekkoliitto – Finlands Ishockeyförbund ry|Suomen Jääkiekkoliitto - Finlands Ishockeyförbund ry|Suomen Jäähockeyliitto|Finnish Ice Hockey Federation|Suomen Jääkiekkoliitto ry – Finlands Ishockeyförbund rf|Suomen Jääkiekkoliitto ry - Finlands Ishockeyförbund rf,Q63364175,,Finnish Ice Hockey Association
+Finnish Ice Hockey Association,Sammon malja,Q118760129,9,2,2,,,Q15229207,,
+ice hockey,ice hockey,Q41466,9,3,1,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+ice hockey,Ice Hockey,Q603874,9,3,1,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+ice hockey,Ice Hockey,Q5985284,9,3,1,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+ice hockey,ice hockey player,Q11774891,9,3,1,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+ice hockey,goaltender,Q1317534,9,3,1,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+ice hockey,ice hockey team,Q4498974,9,3,1,group of people that play ice hockey,,,Q12973014,
+ice hockey,ice hockey team season,Q27020779,9,3,1,season played by an ice hockey team,,,Q1539532,
+ice hockey,ice hockey at the 2014 Winter Olympics,Q4382,9,3,1,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+ice hockey,ice hockey coach,Q5137576,9,3,1,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+ice hockey,ice hockey at the 2020 Winter Youth Olympics,Q74126424,9,3,1,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+ice hockey,Finnish Ice Hockey Association,Q1854702,9,3,2,ice hockey governing body in Finland,Finlands Ishockeyförbund|Suomen Jääkiekkoliitto|Suomen Jääkiekkoliitto – Finlands Ishockeyförbund ry|Suomen Jääkiekkoliitto - Finlands Ishockeyförbund ry|Suomen Jäähockeyliitto|Finnish Ice Hockey Federation|Suomen Jääkiekkoliitto ry – Finlands Ishockeyförbund rf|Suomen Jääkiekkoliitto ry - Finlands Ishockeyförbund rf,Q63364175,,Finnish Ice Hockey Association
+ice hockey,Sammon malja,Q118760129,9,3,2,,,Q15229207,,
+Janne Rautavuori Award,Janne Rautavuori Award,Q78996850,10,0,1,Finnish ice hockey referee award,,Q15229207,,
+Janne Rautavuori Award,ice hockey award,Q107494681,10,0,2,type of award,award for ice hockey,Q107467117,Q15229207,
+Finnish Ice Hockey Association,Finnish Ice Hockey Association,Q1854702,10,2,1,ice hockey governing body in Finland,Finlands Ishockeyförbund|Suomen Jääkiekkoliitto|Suomen Jääkiekkoliitto – Finlands Ishockeyförbund ry|Suomen Jääkiekkoliitto - Finlands Ishockeyförbund ry|Suomen Jäähockeyliitto|Finnish Ice Hockey Federation|Suomen Jääkiekkoliitto ry – Finlands Ishockeyförbund rf|Suomen Jääkiekkoliitto ry - Finlands Ishockeyförbund rf,Q63364175,,Finnish Ice Hockey Association
+Finnish Ice Hockey Association,Janne Rautavuori Award,Q78996850,10,2,2,Finnish ice hockey referee award,,Q15229207,,
+Finnish Ice Hockey Association,ice hockey federation,Q63364175,10,2,2,sports governing body organizing ice hockey,ice hockey association,,Q2485448,
+Finnish Ice Hockey Association,Ice Hockey Association of Bosnia and Herzegovina,Q1892179,10,2,2,ice hockey governing body in Bosnia and Herzegovina,Bosnia and Herzegovina Ice Hockey Federation,Q63364175,,Bosnia and Herzegovina Ice Hockey Federation
+Finnish Ice Hockey Association,Ice Hockey Association of India,Q1632893,10,2,2,ice hockey governing body in India,IHAI|Ice Hockey India,Q2485448,,Ice Hockey Association of India
+Finnish Ice Hockey Association,Ice Hockey Association of Thailand,Q1891275,10,2,2,ice hockey governing body in Thailand,IHAT,Q63364175,,Ice Hockey Association of Thailand
+Finnish Ice Hockey Association,Ice Hockey Association of the DPR Korea,Q1317562,10,2,2,ice hockey governing body in North Korea,DPR Korea Ice Hockey Association|North Korea Ice Hockey Association,Q63364175,,Ice Hockey Association of the DPR Korea
+Finnish Ice Hockey Association,Eishockeyverband Nordrhein-Westfalen,Q23903633,10,2,2,"governing body of ice hockey in North Rhine-Westphalia, Germany",Ice Hockey Association North Rhine-Westphalia|North Rhine-Westphalia Ice Hockey Association|EHV NRW,Q63364175,,
+ice hockey,ice hockey,Q41466,10,3,1,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+ice hockey,Ice Hockey,Q603874,10,3,1,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+ice hockey,Ice Hockey,Q5985284,10,3,1,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+ice hockey,ice hockey player,Q11774891,10,3,1,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+ice hockey,goaltender,Q1317534,10,3,1,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+ice hockey,ice hockey team,Q4498974,10,3,1,group of people that play ice hockey,,,Q12973014,
+ice hockey,ice hockey team season,Q27020779,10,3,1,season played by an ice hockey team,,,Q1539532,
+ice hockey,ice hockey at the 2014 Winter Olympics,Q4382,10,3,1,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+ice hockey,ice hockey coach,Q5137576,10,3,1,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+ice hockey,ice hockey at the 2020 Winter Youth Olympics,Q74126424,10,3,1,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+ice hockey,Finnish Ice Hockey Association,Q1854702,10,3,2,ice hockey governing body in Finland,Finlands Ishockeyförbund|Suomen Jääkiekkoliitto|Suomen Jääkiekkoliitto – Finlands Ishockeyförbund ry|Suomen Jääkiekkoliitto - Finlands Ishockeyförbund ry|Suomen Jäähockeyliitto|Finnish Ice Hockey Federation|Suomen Jääkiekkoliitto ry – Finlands Ishockeyförbund rf|Suomen Jääkiekkoliitto ry - Finlands Ishockeyförbund rf,Q63364175,,Finnish Ice Hockey Association
+ice hockey,Janne Rautavuori Award,Q78996850,10,3,2,Finnish ice hockey referee award,,Q15229207,,
+Chelsea F.C. Player of the Year,Chelsea F.C. Player of the Year,Q3740169,11,0,1,Chelsea F.C. football award,Chelsea Player of the Year,Q15229207,,Chelsea F.C. Player of the Season
+Chelsea F.C,Chelsea F.C.,Q9616,11,2,1,"association football club in London, England",Chelsea Football Club|Chelsea FC|Chelsea|The Blues|The Pensioners|CFC,Q103229495,,Chelsea F.C.
+Chelsea F.C,Chelsea F.C. Women,Q2422811,11,2,1,"women's association football club based in Kingston upon Thames, England",Chelsea Ladies Football Club|Chelsea Football Club Women,Q28140340,,Chelsea F.C. Women
+Chelsea F.C,Chelsea F.C. Development Squad and Academy,Q2669653,11,2,1,football club,Chelsea Football Club Youth,Q476028|Q134468886,,Chelsea F.C. Development Squad and Academy
+Chelsea F.C,history of Chelsea F.C.,Q2562544,11,2,1,aspect of history,Chelsea F.C. history,Q106842007,Q83479,History of Chelsea F.C.
+Chelsea F.C,Chelsea F.C. in European football,Q4480183,11,2,1,Wikimedia list article,,Q13406463|Q98497266,,Chelsea F.C. in international football
+Chelsea F.C,Chelsea F.C. 2–4 Bradford City A.F.C.,Q65090010,11,2,1,Association football match,,Q12166442,,Chelsea F.C. 2–4 Bradford City A.F.C.
+Chelsea F.C,Chelsea F.C.–Tottenham Hotspur F.C. rivalry,Q28404457,11,2,1,Rivalry between football clubs,,Q40434727,,Chelsea F.C.–Tottenham Hotspur F.C. rivalry
+Chelsea F.C,Chelsea F.C.–Leeds United F.C. rivalry,Q2962245,11,2,1,Football rivalry,CFC VS LUFC,Q40434727,,Chelsea F.C.–Leeds United F.C. rivalry
+Chelsea F.C,Chelsea F.C.–Liverpool F.C. rivalry,Q124296602,11,2,1,rivalry between English clubs Chelsea F.C. and Liverpool F.C,,,,Chelsea F.C.–Liverpool F.C. rivalry
+Chelsea F.C,Chelsea F.C. Player of the Year,Q3740169,11,2,1,Chelsea F.C. football award,Chelsea Player of the Year,Q15229207,,Chelsea F.C. Player of the Season
+Chelsea F.C,Chelsea FC,Q122290829,11,2,2,,Chelsea Football Club,Q476028,,
+Chelsea F.C,2016–17 Chelsea F.C. season,Q23809767,11,2,2,season of football team,,Q26887310,,2016–17 Chelsea F.C. season
+Chelsea F.C,2018–19 Chelsea F.C. season,Q53363917,11,2,2,season of football team,,Q26887310,,2018–19 Chelsea F.C. season
+Chelsea F.C,2005–06 Chelsea F.C. season,Q2532672,11,2,2,season of football team,,Q26887310,,2005–06 Chelsea F.C. season
+Chelsea F.C,2015–16 Chelsea F.C. season,Q19840671,11,2,2,season of football team,,Q26887310,,2015–16 Chelsea F.C. season
+Chelsea F.C,2000–01 Chelsea F.C. season,Q3667063,11,2,2,season of football team,,Q26887310,,2000–01 Chelsea F.C. season
+Chelsea F.C,2013–14 Chelsea F.C. season,Q11679585,11,2,2,season of football team,,Q26887310,,2013–14 Chelsea F.C. season
+Chelsea F.C,"Chelsea FC v Galatasaray, 18 March 2014",Q123738184,11,2,2,,,Q109623729,,
+Chelsea F.C,"Chelsea FC - FC Nordsjælland, 5 December 2012",Q123738173,11,2,2,,,Q109623729,,
+Chelsea F.C,"Chelsea FC Women v Manchester United WFC, 2 February 2022",Q123738180,11,2,2,,,Q109623729,,
+Chelsea F.C,"Chelsea FC Women v Everton FC Women, 12 September 2021",Q123738178,11,2,2,,,Q109623729,,
+Chelsea F.C,"Chelsea FC v FC Internazionale Milano, 21 July 2009",Q123738183,11,2,2,,,Q109623729,,
+Chelsea F.C,"Chelsea FC v Paris Saint-Germain, 11 March 2015",Q123738093,11,2,2,,,Q109623729,,
+association football,association football,Q2736,11,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,11,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,11,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,11,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,11,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,11,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,11,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,11,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,11,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,11,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,American football,Q41323,11,3,2,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+association football,Australian rules football,Q50776,11,3,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+association football,Canadian football,Q248534,11,3,2,"Canadian sport in which opposing teams of twelve players attempt to score by advancing a ball by running, passing and kicking",football|gridiron football,Q2312410|Q216048,Q1546270,Canadian football
+association football,Football,Q102309178,11,3,2,1986 video game,,Q7889,,Football (1986 video game)
+association football,American football player,Q19204627,11,3,2,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+association football,Soccerdonna,Q41779610,11,3,2,multilingual website with a focus on women's football,,Q35127,,
+association football,Soccer,Q2338283,11,3,2,1985 video game,NES Soccer|1985 Soccer,Q7889,,Soccer (1985 video game)
+association football,midfielder,Q193592,11,3,2,association football position,MF|M|mid-fielder|soccer midfielder,Q4611891,Q937857,Midfielder
+association football,Soccer,Q7550286,11,3,2,1991 video game,Football International|Game Boy Soccer|1991 Soccer,Q7889,,Soccer (1991 video game)
+association football,forward,Q280658,11,3,2,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Finnish Sports Journalists' Footballer of the Year,Finnish Sports Journalists' Footballer of the Year,Q103843004,12,0,1,,,Q15229207,,
+Finnish Sports Journalists' Footballer of the Year,Finnish Sports Journalists' Association,Q18691072,12,0,2,Finnish organization,,Q15911314,,
+Finnish Sports Journalists' Footballer of the Year,association football,Q2736,12,0,2,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+Finnish Sports Journalists' Footballer of the Year,association football player,Q937857,12,0,2,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+Finnish Sports Journalists' Footballer of the Year,goalkeeper,Q201330,12,0,2,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+Finnish Sports Journalists' Footballer of the Year,association football club,Q476028,12,0,2,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+Finnish Sports Journalists' Footballer of the Year,association football coach,Q628099,12,0,2,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+Finnish Sports Journalists' Footballer of the Year,association football referee,Q859528,12,0,2,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+Finnish Sports Journalists' Footballer of the Year,association football team season,Q26887310,12,0,2,association football team during season,soccer team season|football team season,,Q1539532,
+Finnish Sports Journalists' Footballer of the Year,association football club match,Q109623729,12,0,2,association football match between club teams,,,Q12166442,
+Finnish Sports Journalists' Footballer of the Year,association football players who play in this club,Q56465024,12,0,2,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+Finnish Sports Journalists' Footballer of the Year,captain,Q715772,12,0,2,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+Finnish Sports Journalists' Association,Finnish Sports Journalists' Association,Q18691072,12,2,1,Finnish organization,,Q15911314,,
+association football,association football,Q2736,12,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,12,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,12,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,12,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,12,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,12,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,12,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,12,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,12,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,12,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,American football,Q41323,12,3,2,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+association football,Australian rules football,Q50776,12,3,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+association football,Canadian football,Q248534,12,3,2,"Canadian sport in which opposing teams of twelve players attempt to score by advancing a ball by running, passing and kicking",football|gridiron football,Q2312410|Q216048,Q1546270,Canadian football
+association football,Football,Q102309178,12,3,2,1986 video game,,Q7889,,Football (1986 video game)
+association football,American football player,Q19204627,12,3,2,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+association football,Soccerdonna,Q41779610,12,3,2,multilingual website with a focus on women's football,,Q35127,,
+association football,Soccer,Q2338283,12,3,2,1985 video game,NES Soccer|1985 Soccer,Q7889,,Soccer (1985 video game)
+association football,midfielder,Q193592,12,3,2,association football position,MF|M|mid-fielder|soccer midfielder,Q4611891,Q937857,Midfielder
+association football,Soccer,Q7550286,12,3,2,1991 video game,Football International|Game Boy Soccer|1991 Soccer,Q7889,,Soccer (1991 video game)
+association football,forward,Q280658,12,3,2,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Ricardo Zamora Trophy,Ricardo Zamora Trophy,Q1124948,13,0,1,hispanic football award for goalkeepers,,Q15229207,,Ricardo Zamora Trophy
+Ricardo Zamora Trophy,Ricardo Zamora,Q296337,13,0,2,Spanish association football player (1901-1978),Ricardo Zamora Martinez|Ricardo Zamora Martínez,Q5,,Ricardo Zamora
+Ricardo Zamora Trophy,Ricardo A Zamora,Q87270220,13,0,2,researcher,Ricardo Zamora,Q5,,
+Ricardo Zamora Trophy,Ricardo Zamora,Q99435422,13,0,2,,,Q860861,,
+Ricardo Zamora Trophy,Ricardo Zamorano,Q59418190,13,0,2,,,Q5,,
+Ricardo Zamora Trophy,Ricardo Zamora Rodríguez,Q102354538,13,0,2,Ph. D. Universidad Politécnica de Madrid 1992,,Q5,,
+Ricardo Zamora Trophy,Ricardo Zamora,Q95913870,13,0,2,screenwriter,,Q5,,
+Ricardo Zamora Trophy,Ricardo Zamora De Grassa,Q1771135,13,0,2,Spanish association football player (1933-2003),,Q5,,Ricardo Zamora (footballer)
+Ricardo Zamora Trophy,Ricardo Zamora Díaz,Q58699968,13,0,2,researcher ORCID ID = 0000-0003-2670-9002,,Q5,,
+Ricardo Zamora Trophy,Ricardo Zamora Enciso,Q5859808,13,0,2,,,Q15416,,
+Marca,Marca,Q16427361,13,2,1,"commune in Sălaj County, Romania",Raspacanilla,Q659103,,"Marca, Sălaj"
+Marca,Marca,Q6755992,13,2,1,genus of insects,,Q16521,,Marca (moth)
+Marca,Marca,Q37243777,13,2,1,family name,,Q101352,,
+Marca,Marca,Q1191370,13,2,1,"village in Sălaj County, Romania",,Q532|Q34841063,,
+Marca,Marca,Q6755987,13,2,1,Spanish sports website and newspaper,,Q35127|Q11032,,Marca.com
+Marca,Marcantonio Raimondi,Q728375,13,2,1,16th-century Italian engraver and printmaker (1480–1534),Marc-Antoine|marc anton raimondi|Marc Antoine|marc-antonio raimondi|m. raimondi|marc antonio raimondi|Marcantonio|m. a. raimondi|Marc Antonio Raimondi,Q5,,Marcantonio Raimondi
+Marca,Marca,Q917580,13,2,1,Spanish sports website,marca.com,Q11032|Q35127,,Marca (newspaper)
+Marca,Marçà,Q775782,13,2,1,municipality of Catalonia,,Q33146843,,Marçà
+Marca,Enrique La Marca,Q3054679,13,2,1,Venezuelan university professor and herpetologist,Marca|Francisco Enrique La Marca Gutiérrez,Q5,,Enrique La Marca
+Marca,Marçay,Q1358334,13,2,1,"commune in Vienne, France",,Q484170,,"Marçay, Vienne"
+association football,association football,Q2736,13,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,13,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,13,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,13,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,13,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,13,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,13,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,13,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,13,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,13,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,American football,Q41323,13,3,2,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+association football,Australian rules football,Q50776,13,3,2,contact sport invented in Melbourne,football|footy|Aussie rules|Australian football|Aussie rules football|AFL|VFL|Victorian rules|Victorian rules football,Q31629,Q1081491,Australian rules football
+association football,Canadian football,Q248534,13,3,2,"Canadian sport in which opposing teams of twelve players attempt to score by advancing a ball by running, passing and kicking",football|gridiron football,Q2312410|Q216048,Q1546270,Canadian football
+association football,Football,Q102309178,13,3,2,1986 video game,,Q7889,,Football (1986 video game)
+association football,American football player,Q19204627,13,3,2,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+association football,Soccerdonna,Q41779610,13,3,2,multilingual website with a focus on women's football,,Q35127,,
+association football,Soccer,Q2338283,13,3,2,1985 video game,NES Soccer|1985 Soccer,Q7889,,Soccer (1985 video game)
+association football,midfielder,Q193592,13,3,2,association football position,MF|M|mid-fielder|soccer midfielder,Q4611891,Q937857,Midfielder
+association football,Soccer,Q7550286,13,3,2,1991 video game,Football International|Game Boy Soccer|1991 Soccer,Q7889,,Soccer (1991 video game)
+association football,forward,Q280658,13,3,2,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Kladno Hockey Hall of Fame,Kladno Hockey Hall of Fame,Q62566529,14,0,1,sports award,,Q15229207|Q1046088,,
+HC Kladno,HC Kladno,Q1543732,14,2,1,ice hockey team,,Q4498974,,Rytíři Kladno
+HC Kladno,HC Kladno,Q54945889,14,2,1,company in the Czech Republic,,Q4830453|Q6881511,,
+HC Kladno,HC Kladno 1988,Q16159582,14,2,1,,,Q4498974,,
+ice hockey,ice hockey,Q41466,14,3,1,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+ice hockey,Ice Hockey,Q603874,14,3,1,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+ice hockey,Ice Hockey,Q5985284,14,3,1,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+ice hockey,ice hockey player,Q11774891,14,3,1,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+ice hockey,goaltender,Q1317534,14,3,1,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+ice hockey,ice hockey team,Q4498974,14,3,1,group of people that play ice hockey,,,Q12973014,
+ice hockey,ice hockey team season,Q27020779,14,3,1,season played by an ice hockey team,,,Q1539532,
+ice hockey,ice hockey at the 2014 Winter Olympics,Q4382,14,3,1,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+ice hockey,ice hockey coach,Q5137576,14,3,1,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+ice hockey,ice hockey at the 2020 Winter Youth Olympics,Q74126424,14,3,1,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+ice hockey,Hockey Hall of Fame,Q1136687,14,3,2,sports museum in downtown Toronto,,Q137710529,,Hockey Hall of Fame
+ice hockey,Finnish Hockey Hall of Fame,Q1235107,14,3,2,Hall of Fame for ice hockey in Finland,Hockey Hall of Fame Finland,Q137710529,,Finnish Hockey Hall of Fame
+ice hockey,Hockey Hall Of Fame And Museum,Q137365482,14,3,2,charitable organization from Canada,,Q163740,,
+ice hockey,HC Kladno,Q1543732,14,3,2,ice hockey team,,Q4498974,,Rytíři Kladno
+ice hockey,HC Kladno,Q54945889,14,3,2,company in the Czech Republic,,Q4830453|Q6881511,,
+ice hockey,HC Kladno 1988,Q16159582,14,3,2,,,Q4498974,,
+FIM Legend,FIM Legend,Q112797473,15,0,1,FIM Award to a motorcycle legend,,Q15229207|Q618779,,
+FIM Legend,FCM Legends award,Q111695063,15,0,1,FCM Award to a Catalan motorcycle legend,Legends de la FCM,Q15229207|Q618779,,
+FIM Legend,Piloto del Año Solo Moto,Q111720942,15,0,1,,,Q15229207|Q618779,,
+FIM Legend,Federation Internationale de Motocyclisme,Q430371,15,0,2,international sport governing body,Fédération Internationale de Motocyclisme|FIM,Q11422536,,Fédération Internationale de Motocyclisme
+FIM Legend,Fimbristylis,Q938002,15,0,2,genus of plants,fimbristyle,Q16521,,Fimbristylis
+FIM Legend,Finnish markka,Q203354,15,0,2,currency of Finland in 1860–2002,Finnish mark|markka|markkaa|FIM|mk,Q28783456|Q4281830,,Finnish markka
+FIM Legend,film,Q11424,15,0,2,"visual art work that simulates experiences and communicates ideas, stories, or emotions through moving images, generally synchronized with sound since the 1930s",movie|motion picture|cinematic work|moving picture,,Q2431196|Q10301427|Q4502142,Film
+FIM Legend,ZMYM2,Q18032534,15,0,2,protein-coding gene in the species Homo sapiens,FIM|MYM|RAMP|SCLL|ZNF198|zinc finger MYM-type containing 2|NECRC,Q7187,Q20747295,ZMYM2
+FIM Legend,Fimbraria,Q17295671,15,0,2,genus of plants,,Q16521,,
+FIM Legend,Fimbristylis dichotoma,Q10871438,15,0,2,species of plant,forked fimbry,Q16521,,Fimbristylis dichotoma
+FIM Legend,Fimbria,Q18519754,15,0,2,genus of molluscs,,Q16521,,Fimbria (bivalve)
+FIM Legend,Grand Prix motorcycle racing,Q850292,15,0,2,premier championship of motorcycle road racing,FIM Road Racing World Championship Grand Prix,Q1969448|Q151885|Q101072|Q119778717|Q18608583,Q17024704,Grand Prix motorcycle racing
+FIM Legend,Fiménil,Q1417565,15,0,2,"commune in Vosges, France",,Q484170,,Fiménil
+International Motorcycling Federation,Federation Internationale de Motocyclisme,Q430371,15,2,2,international sport governing body,Fédération Internationale de Motocyclisme|FIM,Q11422536,,Fédération Internationale de Motocyclisme
+International Motorcycling Federation,Fimbristylis,Q938002,15,2,2,genus of plants,fimbristyle,Q16521,,Fimbristylis
+International Motorcycling Federation,Finnish markka,Q203354,15,2,2,currency of Finland in 1860–2002,Finnish mark|markka|markkaa|FIM|mk,Q28783456|Q4281830,,Finnish markka
+International Motorcycling Federation,film,Q11424,15,2,2,"visual art work that simulates experiences and communicates ideas, stories, or emotions through moving images, generally synchronized with sound since the 1930s",movie|motion picture|cinematic work|moving picture,,Q2431196|Q10301427|Q4502142,Film
+International Motorcycling Federation,ZMYM2,Q18032534,15,2,2,protein-coding gene in the species Homo sapiens,FIM|MYM|RAMP|SCLL|ZNF198|zinc finger MYM-type containing 2|NECRC,Q7187,Q20747295,ZMYM2
+International Motorcycling Federation,Fimbraria,Q17295671,15,2,2,genus of plants,,Q16521,,
+International Motorcycling Federation,Fimbristylis dichotoma,Q10871438,15,2,2,species of plant,forked fimbry,Q16521,,Fimbristylis dichotoma
+International Motorcycling Federation,Fimbria,Q18519754,15,2,2,genus of molluscs,,Q16521,,Fimbria (bivalve)
+International Motorcycling Federation,Grand Prix motorcycle racing,Q850292,15,2,2,premier championship of motorcycle road racing,FIM Road Racing World Championship Grand Prix,Q1969448|Q151885|Q101072|Q119778717|Q18608583,Q17024704,Grand Prix motorcycle racing
+International Motorcycling Federation,Fiménil,Q1417565,15,2,2,"commune in Vosges, France",,Q484170,,Fiménil
+motorcycle sport,motorcycle sport,Q328716,15,3,1,sporting aspects of motorcycling,motorbike sport,Q31629,Q5367,Motorcycle sport
+motorcycle sport,motorcycle sport in Brazil,Q20051990,15,3,1,overview of motorcycle sport in Brazil,motorbike sport in Brazil,Q29791211,,
+motorcycle sport,Motorcycle Sports Club Brno,Q138724664,15,3,1,,,Q61747587,,
+motorcycle sport,FIM Legend,Q112797473,15,3,2,FIM Award to a motorcycle legend,,Q15229207|Q618779,,
+motorcycle sport,FCM Legends award,Q111695063,15,3,2,FCM Award to a Catalan motorcycle legend,Legends de la FCM,Q15229207|Q618779,,
+motorcycle sport,Piloto del Año Solo Moto,Q111720942,15,3,2,,,Q15229207|Q618779,,
+Captain’s Ball,Captain’s Ball,Q11854915,16,0,1,Finnish association football award,Captains Ball,Q15229207,,
+Football Association of Finland,Football Association of Finland,Q474947,16,2,1,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+Football Association of Finland,Football Association of Finland district,Q5450769,16,2,1,,,,Q1478443|Q7383772,Finnish District Football Associations
+association football,association football,Q2736,16,3,1,sport that is practiced between two teams of eleven players,football|soccer|footie|footy|futbol|futebol|association soccer|foot ball,Q31629|Q216048|Q212434|Q4356073|Q47728,Q877517,Association football
+association football,association football player,Q937857,16,3,1,person who plays association football (soccer),football player|association footballer|footballer|soccer player|player|association soccer player,Q28640|Q12737077,Q117321337|Q18536342|Q116763437,
+association football,goalkeeper,Q201330,16,3,1,position in association football,football goalkeeper|soccer goalkeeper|GK|goalie|goal keeper|keeper|association football goalkeeper,Q4611891,Q172964,Goalkeeper (association football)
+association football,association football club,Q476028,16,3,1,sports club devoted to association football (soccer),football club|soccer club|association soccer club|FC|F.C.,,Q17270000|Q847017,Football club (association football)
+association football,association football coach,Q628099,16,3,1,person doing training of association footballers (profession/occupation); for team position (head coach or manager) use Q136659823,soccer manager|football coach|football manager|coach|manager|soccer coach,Q28640,Q41583,Manager (association football)
+association football,association football referee,Q859528,16,3,1,supervisor of a game of association football,soccer referee|football referee|association soccer referee,Q28640,Q202648|Q38088701|Q116763437,Referee (association football)
+association football,association football team season,Q26887310,16,3,1,association football team during season,soccer team season|football team season,,Q1539532,
+association football,association football club match,Q109623729,16,3,1,association football match between club teams,,,Q12166442,
+association football,association football players who play in this club,Q56465024,16,3,1,Wikidata metaclass,footballers of this club|footballers who play in this club|footballers of this national team,Q19478619,Q937857|Q58840094,
+association football,captain,Q715772,16,3,1,team captain of an association football team,skipper|association football captain,Q4611891,Q584540|Q937857,Captain (association football)
+association football,Football Association of Finland,Q474947,16,3,2,sports governing body in Finland,Suomen Palloliitto|Finlands Bollförbund|Suomen Palloliitto ry|Finlands Bollförbund rf,Q1478443,,Football Association of Finland
+association football,Football Association of Finland district,Q5450769,16,3,2,,,,Q1478443|Q7383772,Finnish District Football Associations
+Chess Oscar,Chess Oscar,Q752000,17,0,1,"former award for the best male chess player of the year (1967–1988, 1995–2013) and for the best female chess player of the year (1982–1988)",,Q15229207|Q107655869,,Chess Oscar
+International Association of Chess Press,International Association of Chess Press,Q56375134,17,2,1,,AIPE|Association internationale de la presse échiquéenne|AIP,Q29300714|Q1331793,,
+International Association of Chess Press,Chess Oscar,Q752000,17,2,2,"former award for the best male chess player of the year (1967–1988, 1995–2013) and for the best female chess player of the year (1982–1988)",,Q15229207|Q107655869,,Chess Oscar
+International Association of Chess Press,chess,Q718,17,2,2,strategy board game,chess game|international chess|modern European chess|Western chess,Q131436|Q31629|Q7858742|Q4438147|Q47728|Q573573|Q20478894,Q287618|Q1188693|Q2755547,Chess
+International Association of Chess Press,chessgames.com,Q534035,17,2,2,Internet chess community,,Q35127|Q7094076,,Chessgames.com
+International Association of Chess Press,Chess,Q843284,17,2,2,"musical with music by Benny Andersson and Björn Ulvaeus of the pop group ABBA, lyrics by Ulvaeus and Tim Rice, and book by Rice",,Q58483083,,Chess (musical)
+International Association of Chess Press,Chess,Q16865538,17,2,2,family name,Chess (surname),Q101352,,Chess (surname)
+International Association of Chess Press,Chess,Q113977218,17,2,2,1984 cast album by Benny Andersson · Tim Rice · Björn Ulvaeus,,Q482994,,
+International Association of Chess Press,chess player,Q10873124,17,2,2,individual who takes part in chess tournaments,,Q28640,Q73145133|Q84380764|Q2066131|Q11538946,Chess player
+International Association of Chess Press,history of chess,Q471257,17,2,2,aspect of history,chess history|chess,Q17524420|Q31629,Q1936640,History of chess
+International Association of Chess Press,Chess,Q135453361,17,2,2,2024 video game developed by Popoko VM Games,,Q7889,,
+International Association of Chess Press,Chess,Q117453108,17,2,2,progamer,Florian Strohmayer,Q5,,
+International Association of Chess Press,Chess,Q126736646,17,2,2,video game,,Q7889,,
+chess,chess,Q718,17,3,1,strategy board game,chess game|international chess|modern European chess|Western chess,Q131436|Q31629|Q7858742|Q4438147|Q47728|Q573573|Q20478894,Q287618|Q1188693|Q2755547,Chess
+chess,chessgames.com,Q534035,17,3,1,Internet chess community,,Q35127|Q7094076,,Chessgames.com
+chess,Chess,Q843284,17,3,1,"musical with music by Benny Andersson and Björn Ulvaeus of the pop group ABBA, lyrics by Ulvaeus and Tim Rice, and book by Rice",,Q58483083,,Chess (musical)
+chess,Chess,Q16865538,17,3,1,family name,Chess (surname),Q101352,,Chess (surname)
+chess,Chess,Q113977218,17,3,1,1984 cast album by Benny Andersson · Tim Rice · Björn Ulvaeus,,Q482994,,
+chess,chess player,Q10873124,17,3,1,individual who takes part in chess tournaments,,Q28640,Q73145133|Q84380764|Q2066131|Q11538946,Chess player
+chess,history of chess,Q471257,17,3,1,aspect of history,chess history|chess,Q17524420|Q31629,Q1936640,History of chess
+chess,Chess,Q135453361,17,3,1,2024 video game developed by Popoko VM Games,,Q7889,,
+chess,Chess,Q117453108,17,3,1,progamer,Florian Strohmayer,Q5,,
+chess,Chess,Q126736646,17,3,1,video game,,Q7889,,
+chess,Chess Oscar,Q752000,17,3,2,"former award for the best male chess player of the year (1967–1988, 1995–2013) and for the best female chess player of the year (1982–1988)",,Q15229207|Q107655869,,Chess Oscar
+chess,International Association of Chess Press,Q56375134,17,3,2,,AIPE|Association internationale de la presse échiquéenne|AIP,Q29300714|Q1331793,,
+Isobel Cup,Isobel Cup,Q31839435,18,0,1,ice hockey trophy used by the PHF/NWHL,,Q15229207|Q381165,,Isobel Cup
+Isobel Cup,Premier Hockey Federation,Q19865669,18,0,2,North American women's hockey league active 2015-2023,NWHL|National Women's Hockey League|PHF,Q623109,,Premier Hockey Federation
+Isobel Cup,PHF Draft,Q117006051,18,0,2,,Premier Hockey Federation Draft,Q13406554,,
+Isobel Cup,ice hockey,Q41466,18,0,2,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+Isobel Cup,Ice Hockey,Q603874,18,0,2,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+Isobel Cup,Ice Hockey,Q5985284,18,0,2,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+Isobel Cup,ice hockey player,Q11774891,18,0,2,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+Isobel Cup,goaltender,Q1317534,18,0,2,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+Isobel Cup,ice hockey team,Q4498974,18,0,2,group of people that play ice hockey,,,Q12973014,
+Isobel Cup,ice hockey team season,Q27020779,18,0,2,season played by an ice hockey team,,,Q1539532,
+Isobel Cup,ice hockey at the 2014 Winter Olympics,Q4382,18,0,2,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+Isobel Cup,ice hockey coach,Q5137576,18,0,2,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+Isobel Cup,ice hockey at the 2020 Winter Youth Olympics,Q74126424,18,0,2,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+Premier Hockey Federation,Premier Hockey Federation,Q19865669,18,2,1,North American women's hockey league active 2015-2023,NWHL|National Women's Hockey League|PHF,Q623109,,Premier Hockey Federation
+Premier Hockey Federation,PHF Draft,Q117006051,18,2,1,,Premier Hockey Federation Draft,Q13406554,,
+Premier Hockey Federation,Isobel Cup,Q31839435,18,2,2,ice hockey trophy used by the PHF/NWHL,,Q15229207|Q381165,,Isobel Cup
+Premier Hockey Federation,ice hockey,Q41466,18,2,2,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+Premier Hockey Federation,Ice Hockey,Q603874,18,2,2,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+Premier Hockey Federation,Ice Hockey,Q5985284,18,2,2,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+Premier Hockey Federation,ice hockey player,Q11774891,18,2,2,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+Premier Hockey Federation,goaltender,Q1317534,18,2,2,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+Premier Hockey Federation,ice hockey team,Q4498974,18,2,2,group of people that play ice hockey,,,Q12973014,
+Premier Hockey Federation,ice hockey team season,Q27020779,18,2,2,season played by an ice hockey team,,,Q1539532,
+Premier Hockey Federation,ice hockey at the 2014 Winter Olympics,Q4382,18,2,2,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+Premier Hockey Federation,ice hockey coach,Q5137576,18,2,2,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+Premier Hockey Federation,ice hockey at the 2020 Winter Youth Olympics,Q74126424,18,2,2,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+ice hockey,ice hockey,Q41466,18,3,1,"team sport played on ice using sticks, skates, and a puck",hockey,Q31629|Q212434|Q216048|Q13137940,Q1622659|Q779272|Q31883501,Ice hockey
+ice hockey,Ice Hockey,Q603874,18,3,1,1988 Nintendo ice hockey video game,NES Ice Hockey|1988 Ice Hockey|Nintendo Ice Hockey,Q7889,,Ice Hockey (1988 video game)
+ice hockey,Ice Hockey,Q5985284,18,3,1,1981 ice hockey video game published by Activision,1981 Ice Hockey,Q7889,,Ice Hockey (1981 video game)
+ice hockey,ice hockey player,Q11774891,18,3,1,sportsperson taking part in ice hockey competitions,hockey player|women's ice hockey player|men's ice hockey player,Q28640|Q12737077,Q9394993|Q18536342,Ice hockey player
+ice hockey,goaltender,Q1317534,18,3,1,person who blocks the goal in ice hockey,goalie|goalkeeper|ice hockey goaltender|ice hockey goalkeeper,Q3399646|Q12737077,Q172964,Goaltender
+ice hockey,ice hockey team,Q4498974,18,3,1,group of people that play ice hockey,,,Q12973014,
+ice hockey,ice hockey team season,Q27020779,18,3,1,season played by an ice hockey team,,,Q1539532,
+ice hockey,ice hockey at the 2014 Winter Olympics,Q4382,18,3,1,2014 edition of the ice hockey torunaments during the Olympic Winter Games,Hockey at the 2014 Olympics|ice hockey|2014 Winter Olympics,Q26132862|Q114581,,Ice hockey at the 2014 Winter Olympics
+ice hockey,ice hockey coach,Q5137576,18,3,1,person responsible for directing an ice hockey team,coach (ice hockey)|hockey coach|ice hockey trainer|hockey trainer,Q28640,Q41583,Coach (ice hockey)
+ice hockey,ice hockey at the 2020 Winter Youth Olympics,Q74126424,18,3,1,2020 edition of the ice hockey torunaments during the Winter Youth Olympics,Ice hockey at Lausanne 2020|Hockey at the 2020 Winter Youth Olympics|Ice hockey at the III Winter Youh Olympic Games,Q84476898,,Ice hockey at the 2020 Winter Youth Olympics
+ice hockey,Premier Hockey Federation,Q19865669,18,3,2,North American women's hockey league active 2015-2023,NWHL|National Women's Hockey League|PHF,Q623109,,Premier Hockey Federation
+ice hockey,PHF Draft,Q117006051,18,3,2,,Premier Hockey Federation Draft,Q13406554,,
+ice hockey,Isobel Cup,Q31839435,18,3,2,ice hockey trophy used by the PHF/NWHL,,Q15229207|Q381165,,Isobel Cup
+Softball America Freshman of the Year,Softball America Freshman of the Year,Q107418185,19,0,1,American college softball award,,Q15229207,,Softball America Freshman of the Year
+Wilson Sporting Goods,Wilson Sporting Goods,Q1329777,19,2,1,American sports equipment manufacturer,Wilson Sporting Goods Company|Wilson Company|BLX|Wilson Sporting Goods Co.,Q4830453|Q24928712|Q43229,,Wilson Sporting Goods
+Wilson Sporting Goods,Wilson,Q1645480,19,2,2,family name,,Q101352|Q11455398,,Wilson (name)
+Wilson Sporting Goods,Wilson,Q18552466,19,2,2,male given name,Wilson (male given name)|Wilson (first name),Q12308941,,
+Wilson Sporting Goods,Wilson,Q595348,19,2,2,"city and the county seat of Wilson County, North Carolina, United States","Wilson, North Carolina|Wilson, NC|Wilson, N.C.",Q62049|Q132680629,,"Wilson, North Carolina"
+Wilson Sporting Goods,Wilson,Q105018343,19,2,2,leader of a Candomblé temple,,Q5,,
+Wilson Sporting Goods,Edward O. Wilson,Q211029,19,2,2,"American biologist, naturalist, and writer (1929–2021)","E. O. Wilson|Edward Osborne|EO Wilson|E O Wilson|Edward Osborne Wilson|Wilson|Edward Wilson, Junior|E.O. Wilson|Wilson EO",Q5,,E. O. Wilson
+Wilson Sporting Goods,Richard Wilson,Q471387,19,2,2,Welsh landscape painter (1714-1782),"Richard Willson|Richard i Wilson|P. Wilson|Richard Wilson RA|Rich. Wilson|Wilson|R. Wilson|Rd. Wilson|R Wilson|R.A. Richard Wilson|Willson|Mr. Wilson|R. Willson|Richard Wilson, RA|Richard Wilson (painter)|Sir R. Wilson|R.d Wilson|Rich.d Wilson",Q5,,Richard Wilson (painter)
+Wilson Sporting Goods,Larry David Wilson,Q3218043,19,2,2,American herpetologist,Wilson,Q5,,Larry David Wilson
+Wilson Sporting Goods,Wilson,Q8022963,19,2,2,shortsea liner shipping company,Wilson ASA,Q4830453|Q891723,,Wilson (company)
+Wilson Sporting Goods,Alexander Wilson,Q931286,19,2,2,"Scottish-American poet, ornithologist, naturalist, and illustrator (1766-1813)","Alexander I Wilson|Wilson|Wilson, A.",Q5,,Alexander Wilson (ornithologist)
+college softball,college softball,Q5146908,19,3,1,softball played on the intercollegiate level,,Q1744559,Q171038|Q5146583,College softball
+college softball,College softball task force,Q21830801,19,3,1,sub-project of WikiProject Softball,WikiProject College softball|Wikipedia:WikiProject Softball/College softball task force|WikiProject Softball/College softball task force,Q110059964,,Wikipedia:WikiProject Softball/College softball task force
+college softball,Softball America Freshman of the Year,Q107418185,19,3,2,American college softball award,,Q15229207,,Softball America Freshman of the Year
+college softball,Wilson Sporting Goods,Q1329777,19,3,2,American sports equipment manufacturer,Wilson Sporting Goods Company|Wilson Company|BLX|Wilson Sporting Goods Co.,Q4830453|Q24928712|Q43229,,Wilson Sporting Goods

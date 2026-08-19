@@ -1,0 +1,27 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 003hb,,,0,0,0,,,,,
+N 2009aq,Route nationale 200,Q2169651,1,0,2,,N200|N 200|N200 road|National road 200,Q1426271,,
+N 2009aq,Route nationale 2006,Q135686422,1,0,2,route nationale in France,N2006|N 2006|N2006 road|National road 2006,Q1426271,,
+N 2009aq,Route nationale 2009,Q135686263,1,0,2,route nationale in France,N2009|N 2009|N2009 road|National road 2009,Q1426271,,
+N 2009aq,Route nationale 2007,Q135686410,1,0,2,route nationale in France,N2007|N 2007|N2007 road|National road 2007,Q1426271,,
+N 2009aq,Route nationale 2002,Q3444841,1,0,2,road in Réunion,N2002 road|National road 2002,Q34442,,
+SN 1994B,SN 1994B,Q9327196,2,0,1,supernova,,Q3937,,
+SN 2014fp,,,3,0,0,,,,,
+SN 2209ir,,,4,0,0,,,,,
+SN 000cm,,,5,0,0,,,,,
+SN 961C,,,6,0,0,,,,,
+SNHiS 15al,,,7,0,0,,,,,
+P 2010cg,,,8,0,0,,,,,
+SP 200av,São Paulo,Q175,9,0,2,state in the Southeast Region of Brazil,SP|State of São Paulo|São Paulo State|São Paulo (state),Q485258,,São Paulo (state)
+SP 200av,Socialist Party,Q849580,9,0,2,Dutch political party,SP|Dutch Socialist Party|Socialistische Partij,Q7278,,Socialist Party (Netherlands)
+SP 200av,Spanish,Q1321,9,0,2,Romance language originating in the Iberian Peninsula,Castilian|Spanish language|Castilian language,Q33742|Q34770|Q1288568|Q20162172,Q71924|Q1377152,Spanish language
+SP 200av,Wikispecies,Q13679,9,0,2,free multilingual online species directory,WS|Species.wikimedia.org|specieswiki|SW,Q33120876|Q136375263|Q36509592|Q620615|Q1172284,,Wikispecies
+SP 200av,Spotify,Q689141,9,0,2,Swedish audio streaming service,,Q15590336|Q24579448|Q40056|Q620615|Q6576792|Q431289,,Spotify
+SP 200av,species nova,Q27652812,9,0,2,phrase used when publishing the name of a new species,new species,Q3062294,Q7432,Species nova
+SP 200av,substance P,Q411041,9,0,2,"neuropeptide in human, associated with pain",SP|RPKPQQFFGLM-NH2|TAC1(58-68),Q113145171,Q172847,Substance P
+SP 200av,společnost s ručením omezeným,Q15646299,9,0,2,legal structure for a private limited liability company in the Czech Republic,s.r.o.|sro|spol. s r.o|spol. sro|spolecnost s rucenim omezenym,Q67304002|Q10541491,Q17376040|Q155076,Společnost s ručením omezeným
+SP 200av,scalloped hammerhead,Q873701,9,0,2,species of shark,Sp,Q16521|Q765940,,Scalloped hammerhead
+SP 200av,Spacewatch,Q213563,9,0,2,University of Arizona project for study of minor planets and comets,,Q550089,,Spacewatch
+SNF 2007032-005,,,10,0,0,,,,,
+SN 1962E,SN 1962E,Q9326465,11,0,1,supernova,,Q3937,,
+SNHiTS15F,,,12,0,0,,,,,

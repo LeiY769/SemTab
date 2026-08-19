@@ -1,0 +1,279 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Doma,Domažlice,Q986068,0,0,1,town in the Czech Republic,Taus,Q5153359|Q3957|Q15978299|Q8452914|Q7841907|Q7819319,,Domažlice
+Doma,Domats,Q117499,0,0,1,"commune in Yonne, France",,Q484170,,Domats
+Doma,protein family associated with domain,Q81505329,0,0,1,"set of all proteins that have a specific protein domain; specify domain with qualifier ""has part(s)"" (P527)",domain family,,Q417841,
+Doma,Domme,Q243111,0,0,1,"commune in Dordogne, France",Doma,Q484170,,"Domme, Dordogne"
+Doma,subject type constraint,Q21503250,0,0,1,type of constraint for Wikidata properties: used to specify that the item described by such properties should be a subclass or instance of a given type,domain constraint|subject class constraint|type constraint|subject-type constraint|subject-class constraint,Q27949697,Q21502402,
+Doma,Doma,Q87223231,0,0,1,genus of plants,,Q16521,,
+Doma,DOMA,Q134894523,0,0,1,former Czech company,,Q4830453|Q6881511,,
+Doma,Doma,Q135043046,0,0,1,2023 video game developed by Volfson Studios,,Q7889,,
+Doma,Domagoj Vida,Q314227,0,0,1,Croatian footballer (born 1989),,Q5,,Domagoj Vida
+Doma,Domark Software,Q1235040,0,0,1,British video game publisher,Domark,Q210167|Q1058914,,Domark Software
+Can Pere Batlle,Can Pere Batlle,Q20985250,1,0,1,"house in Ventalló, Spain",,Q3947,,
+Can Pere Batlle,Can Pere Batlle,Q107193511,1,0,1,"masia in Ultramort, Baix Empordà, Girona, Catalonia, Spain",,Q585956,,
+Compton House,Compton House,Q110152531,2,0,1,historic business based in Liverpool,,Q4830453,,
+Compton House,Compton House,Q29488624,2,0,1,Grade II listed building in Aberaeron,,Q811979,,
+Compton House,Compton House,Q26501451,2,0,1,"house in Liverpool, Merseyside, England, UK","Compton House, Liverpool",Q3947|Q655686|Q18760388,,"Compton House, Liverpool"
+Compton House,Compton House,Q54336826,2,0,1,"house in St. John's, Newfoundland and Labrador, Canada",,Q3947,,
+Compton House,Compton House,Q26274370,2,0,1,"house in Long Compton, Stratford-on-Avon, Warwickshire, England, UK",,Q3947,,
+Compton House,Compton House,Q26662859,2,0,1,"house in Welford-on-Avon, Stratford-on-Avon, Warwickshire, England, UK",,Q3947,,
+Compton House,Compton House,Q107322903,2,0,1,"house at 2745 Racquet Club Dr. Midland, Texas",,Q3947,,
+Compton House,Compton House,Q26628717,2,0,1,"house in Pilton, Mendip, Somerset, England, UK",,Q3947,,
+Compton House,Compton House,Q26483340,2,0,1,"house in Theddingworth, Harborough, Leicestershire, England, UK",,Q3947,,
+Compton House,Compton House,Q26605637,2,0,1,"house in Compton, West Berkshire, England, UK",,Q3947,,
+Compton House,Compton Castle,Q746423,2,0,2,"Grade I listed historic house museum in South Hams, Devon, England, UK",,Q2087181|Q1343246|Q32164125|Q16735822,,Compton Castle
+Compton House,Perborough Castle,Q7166976,2,0,2,"hillfort in West Berkshire, England, UK",Compton Castle,Q839954|Q28045079,,Perborough Castle
+Compton House,Compton Castle,Q137276411,2,0,2,"former paddle steamer, built 1914",,Q1121471,,
+Compton House,Compton Castle,Q17554366,2,0,2,"country house in Compton Pauncefoot, Somerset, England, UK",,Q1343246|Q112085684,,
+Compton House,"Compton Castle, Devonshire, England",Q20488755,2,0,2,painting by Cass Gilbert,,Q3305213,,
+Compton House,Compton Castle,Q98970024,2,0,2,article published in 1905,,Q13442814,,
+Compton House,Compton Castle,Q99011680,2,0,2,article published in 1867,,Q13442814,,
+Compton House,Compton Castle,Q98969720,2,0,2,article published in 1939,,Q13442814,,
+Compton House,Compton Castle,Q56660994,2,0,2,article published in 1927,,Q13442814,,
+Compton House,"Compton Castle and Manor, Devonshire",Q56661176,2,0,2,article by C. H. Compton published December 1883 in Journal of the British Archaeological Association,,Q13442814,,
+Compton House,Compton Wynyates,Q22807098,2,0,2,"civil parish in Stratford-on-Avon, Warwickshire, England","Compton Wynyates (parish)|Compton Wynyates (civil parish), Warwickshire|Compton Wynyates, Warwickshire|Compton Wyniates",Q1115575,,Compton Wynyates (parish)
+Compton House,Compton Wynyates,Q5157180,2,0,2,"country house in Warwickshire, England, UK",,Q1343246,,Compton Wynyates
+Compton House,Parish Church (dedication Unknown),Q17528282,2,0,2,"church in Stratford-on-Avon, UK",Compton Wynyates Church,Q16970,,
+Compton House,"Compton Wynyates, Dovecote",Q26273925,2,0,2,"dovecote in Compton Wynyates, Stratford-on-Avon, Warwickshire, England, UK",,Q948878,,
+Compton House,Compton Wynyates Manor,Q105779886,2,0,2,"former manorial estate in Compton Wynyates, Warwickshire",,Q2116450,,
+Compton House,"Compton Wynyates, Garden Wall And 2 Gateways Approximately 10 Metres North",Q26638248,2,0,2,"architectural structure in Compton Wynyates, Stratford-on-Avon, Warwickshire, England, UK",,Q811979,,
+Compton House,Compton House,Q110152531,3,0,1,historic business based in Liverpool,,Q4830453,,
+Compton House,Compton House,Q29488624,3,0,1,Grade II listed building in Aberaeron,,Q811979,,
+Compton House,Compton House,Q26501451,3,0,1,"house in Liverpool, Merseyside, England, UK","Compton House, Liverpool",Q3947|Q655686|Q18760388,,"Compton House, Liverpool"
+Compton House,Compton House,Q54336826,3,0,1,"house in St. John's, Newfoundland and Labrador, Canada",,Q3947,,
+Compton House,Compton House,Q26274370,3,0,1,"house in Long Compton, Stratford-on-Avon, Warwickshire, England, UK",,Q3947,,
+Compton House,Compton House,Q26662859,3,0,1,"house in Welford-on-Avon, Stratford-on-Avon, Warwickshire, England, UK",,Q3947,,
+Compton House,Compton House,Q107322903,3,0,1,"house at 2745 Racquet Club Dr. Midland, Texas",,Q3947,,
+Compton House,Compton House,Q26628717,3,0,1,"house in Pilton, Mendip, Somerset, England, UK",,Q3947,,
+Compton House,Compton House,Q26483340,3,0,1,"house in Theddingworth, Harborough, Leicestershire, England, UK",,Q3947,,
+Compton House,Compton House,Q26605637,3,0,1,"house in Compton, West Berkshire, England, UK",,Q3947,,
+Compton House,Compton Castle,Q746423,3,0,2,"Grade I listed historic house museum in South Hams, Devon, England, UK",,Q2087181|Q1343246|Q32164125|Q16735822,,Compton Castle
+Compton House,Perborough Castle,Q7166976,3,0,2,"hillfort in West Berkshire, England, UK",Compton Castle,Q839954|Q28045079,,Perborough Castle
+Compton House,Compton Castle,Q137276411,3,0,2,"former paddle steamer, built 1914",,Q1121471,,
+Compton House,Compton Castle,Q17554366,3,0,2,"country house in Compton Pauncefoot, Somerset, England, UK",,Q1343246|Q112085684,,
+Compton House,"Compton Castle, Devonshire, England",Q20488755,3,0,2,painting by Cass Gilbert,,Q3305213,,
+Compton House,Compton Castle,Q98970024,3,0,2,article published in 1905,,Q13442814,,
+Compton House,Compton Castle,Q99011680,3,0,2,article published in 1867,,Q13442814,,
+Compton House,Compton Castle,Q98969720,3,0,2,article published in 1939,,Q13442814,,
+Compton House,Compton Castle,Q56660994,3,0,2,article published in 1927,,Q13442814,,
+Compton House,"Compton Castle and Manor, Devonshire",Q56661176,3,0,2,article by C. H. Compton published December 1883 in Journal of the British Archaeological Association,,Q13442814,,
+Compton House,Compton Wynyates,Q22807098,3,0,2,"civil parish in Stratford-on-Avon, Warwickshire, England","Compton Wynyates (parish)|Compton Wynyates (civil parish), Warwickshire|Compton Wynyates, Warwickshire|Compton Wyniates",Q1115575,,Compton Wynyates (parish)
+Compton House,Compton Wynyates,Q5157180,3,0,2,"country house in Warwickshire, England, UK",,Q1343246,,Compton Wynyates
+Compton House,Parish Church (dedication Unknown),Q17528282,3,0,2,"church in Stratford-on-Avon, UK",Compton Wynyates Church,Q16970,,
+Compton House,"Compton Wynyates, Dovecote",Q26273925,3,0,2,"dovecote in Compton Wynyates, Stratford-on-Avon, Warwickshire, England, UK",,Q948878,,
+Compton House,Compton Wynyates Manor,Q105779886,3,0,2,"former manorial estate in Compton Wynyates, Warwickshire",,Q2116450,,
+Compton House,"Compton Wynyates, Garden Wall And 2 Gateways Approximately 10 Metres North",Q26638248,3,0,2,"architectural structure in Compton Wynyates, Stratford-on-Avon, Warwickshire, England, UK",,Q811979,,
+Summer House,tropical house,Q18342587,4,0,1,music subgenre,trop house|summer house,Q188451,Q20502,Tropical house
+Summer House,Summer house,Q60674627,4,0,1,Skogaholms maison,,Q41176|Q60491487,,
+Summer House,Secrets of the Summer House,Q2676219,4,0,1,2008 film,Summer House,Q11424,,
+Summer House,Summer House,Q28443733,4,0,1,American reality television series that premiered on the Bravo Network,,Q5398426,,Summer House (2017 TV series)
+Summer House,Summer House,Q115054850,4,0,1,"Middle Campuses, University of Cape Town",,Q41176,,
+Summer House,Summer House,Q77580238,4,0,1,painting by Michael Goldberg,,Q3305213,,
+Summer House,summer house,Q5783893,4,0,1,building used for relaxation in warm weather,summerhouse|garden house|summer house,,Q3947|Q5522423|Q112049379|Q5522364,Summer house
+Summer House,Summer House,Q7637343,4,0,1,2010 studio album by Gold Motel,,Q482994,,Summer House (album)
+Summer House,Summer House,Q7637342,4,0,1,US television program,,Q15416,,Summer House (2006 TV series)
+Summer House,Summer House,Q19558958,4,0,1,album by Ingrid Olava,,Q482994,,
+Summer House,Summerhouse,Q125799649,4,0,2,2024 video game,,Q7889,,Summerhouse (video game)
+Summer House,Summerhouse,Q2173037,4,0,2,"village and civil parish in Darlington, County Durham, England","Summerhouse, County Durham",Q532|Q1115575,,"Summerhouse, County Durham"
+Summer House,"Summerhouse, Moray House",Q17572291,4,0,2,"summer house in Edinburgh, Scotland, UK","Edinburgh, 174 Canongate, Moray House, Summerhouse|Summerhouse|Summer House, Moray House|The Pavilion|The Pavilion, Moray House",Q1371789,,
+Summer House,Summerhouse,Q26276129,4,0,2,"building in Gateshead, Tyne and Wear, England, UK",,Q41176,,
+Summer House,Summerhouse,Q134932718,4,0,2,building on the United States capitol grounds,,Q5783893,,
+Summer House,Summerhouse,Q131193007,4,0,2,painting by Apollinary Vasnetsov,,Q3305213,,
+Summer House,Summerhouse,Q119395644,4,0,2,"painting by Michael Crowther (b.1946), Russell-Cotes Art Gallery & Museum",,Q3305213,,
+Summer House,Summerhouse,Q26657305,4,0,2,"summer house in Bedfont, London Borough of Hounslow, England, UK","Summerhouse, Fairholme",Q5783893,,
+Summer House,Summerhouse,Q77779972,4,0,2,"architectural structure in Aberdeenshire, Scotland, UK",,Q1371789,,
+Wesley House,Wesley House,Q7983934,5,0,1,"Methodist theological college (or seminary) in Jesus Lane, Cambridge",,Q233324,,Wesley House
+Wesley House,Wesley House,Q14691860,5,0,1,"house in Houma, Louisiana",,Q3947,,
+Wesley House,Madison Street Methodist Episcopal Church,Q54953878,5,0,1,,Wesley House,Q16970,,Madison Street Methodist Episcopal Church
+Wesley House,Wesley House,Q131742951,5,0,1,,,Q27686,,
+Wesley House,Wesley House,Q26624473,5,0,1,"house in Winchcombe, Tewkesbury, Gloucestershire, England, UK",,Q3947|Q27686,,
+Wesley House,Wesley House,Q26606606,5,0,1,"house in St. Endellion, Cornwall, England, UK",,Q3947,,
+Wesley House,Wesley House,Q26560995,5,0,1,"house in Shrewsbury, Shropshire, England, UK",,Q3947,,
+Wesley House,Wesley House,Q26549431,5,0,1,"house in Scarborough, North Yorkshire, England, UK",,Q3947,,
+Wesley House,Wesley House,Q26429224,5,0,1,"former public library in Paulton, Bristol",Former Paulton Library,Q856584,,
+Wesley House,Wesley House,Q26485231,5,0,1,"house in Chacombe, South Northamptonshire, England, UK",,Q3947,,
+Wesley House,Wesley College,Q7983897,5,0,2,"independent school in Victoria, Australia",,Q9826|Q3914|Q159334|Q9842,,"Wesley College, Melbourne"
+Wesley House,Wesley College,Q7983893,5,0,2,"boarding school in Dublin, Ireland",,Q269770|Q708676,,"Wesley College, Dublin"
+Wesley House,Wesley College,Q7983896,5,0,2,"independent day and boarding school in Perth, Western Australia","Wesley College, Perth",Q9826|Q269770|Q163740,,"Wesley College, Perth"
+Wesley House,Wesley College,Q3567379,5,0,2,"state-integrated secondary (year 7-15) school in Pukekohe, New Zealand",,Q159334|Q15134891|Q269770,,"Wesley College, Auckland"
+Wesley House,Wesley College,Q7983892,5,0,2,"liberal arts college in Delaware, United States",Wesley Collegiate Institute,Q23002054|Q1377182,,Wesley College (Delaware)
+Wesley House,Wesley College,Q8280788,5,0,2,private primary and secondary school in Sri Lanka,,Q3914,,"Wesley College, Colombo"
+Wesley House,"Wesley College, Sheffield",Q7983887,5,0,2,Defunct school in England,,Q3914,,"Wesley College, Sheffield"
+Wesley House,Wesley College,Q7983894,5,0,2,"college that existed in Winnipeg, Manitoba, Canada from 1888 to 1938",,Q4671277,,Wesley College (Manitoba)
+Wesley House,Wesley College,Q7983895,5,0,2,"former Bible college in Mississippi, United States",,Q576603,,Wesley College (Mississippi)
+Wesley House,King Edward VII Upper School,Q72590539,5,0,2,"building in Sheffield, South Yorkshire, England, UK",Wesley College,Q1244442,,
+Wesley House,Wesleyan University,Q49167,5,0,2,"private liberal arts college in Middletown, Connecticut, United States",Wesleyan,Q3918|Q23002054,,Wesleyan University
+Wesley House,Wesleyan University Press,Q7984073,5,0,2,American university press,,Q479716,,Wesleyan University Press
+Wesley House,Wesleyan University Cemetery,Q117576300,5,0,2,"cemetery in Middletown, Middlesex County, Connecticut, United States",Gods Acre|Foss Hill Cemetery,Q39614,,
+Wesley House,Wesleyan Cardinals,Q100320507,5,0,2,sports teams of a university or college,Wesleyan University athletics,Q2367225,,Wesleyan Cardinals
+Wesley House,Wesleyan University Library,Q109450659,5,0,2,academic library in the United States,,Q856234,,
+Wesley House,Wesleyan University Philippines,Q7984071,5,0,2,"Private educational institution in Cabanatuan City, Philippines",,Q3918,,Wesleyan University Philippines
+Wesley House,history of Wesleyan University,Q5867179,5,0,2,aspect of history,Wesleyan University history,Q17524420,,History of Wesleyan University
+Wesley House,Wesleyan University Department of Sociology,Q101026351,5,0,2,academic department,,Q2467461,,
+Wesley House,Wesleyan University Department of Government,Q101026257,5,0,2,academic department,,Q2467461,,
+Wesley House,Wesleyan University Department of Art and Art History,Q101026252,5,0,2,academic department,,Q2467461,,
+Linden,Linden,Q1826011,6,0,1,family name,,Q101352,,Linden (surname)
+Linden,Linden,Q982431,6,0,1,"city in and county seat of Cass County, Texas, United States","Linden, Texas|Linden, TX",Q1093829,,"Linden, Texas"
+Linden,Linden,Q14627081,6,0,1,male given name,,Q12308941,,Linden (given name)
+Linden,Linden,Q284492,6,0,1,municipality of Germany,,Q116457956,,"Linden, Kaiserslautern"
+Linden,Lindén,Q4276862,6,0,1,family name,,Q101352,,Lindén
+Linden,Linden-Limmer,Q1826001,6,0,1,"district of Hanover, Germany",Hannover-Linden-Limmer,Q15727673,,Linden-Limmer
+Linden,Linden,Q69467018,6,0,1,,,Q17376095,,
+Linden,Linden,Q114694718,6,0,1,"hamlet in Upper Franconia, district of Selb",,Q5084|Q253019,,
+Linden,limewood,Q575018,6,0,1,wood from of any of several trees of the genus Tilia,lime wood|linden|basswood|Tilia (wood)|Tilia,Q1493054,Q2266509,
+Linden,Jean Jules Linden,Q781362,6,0,1,Belgian botanist (1817-1898),Linden|J. J. Linden,Q5,,Jean Jules Linden
+Linden,Tilia,Q127849,6,0,2,genus of plants,Basswood genus|Linden genus|Lime genus|lime tree|linden tree,Q16521,Q148993|Q10884,Tilia
+Linden,Tilia,Q20001525,6,0,2,female given name,,Q11879590,,
+Linden,Tiliaceae,Q1929656,6,0,2,family of plants,,Q16521,,Tiliaceae
+Linden,Tilia tomentosa,Q161382,6,0,2,species of plant,Tilia argentea|silver lime|silver linden|white linden,Q16521,Q127849,Tilia tomentosa
+Linden,Tilia cordata,Q158746,6,0,2,species of plant,small-leaved lime|small-leaved linden|little-leaf|littleleaf linden|pry|pry tree,Q16521,Q11992872,Tilia cordata
+Linden,Tiliacora,Q7802150,6,0,2,genus of plants,,Q16521,,Tiliacora
+Linden,Tilia platyphyllos,Q156831,6,0,2,species of tree,large-leaved lime|large-leaved linden|largeleaf linden,Q16521,Q11992872,Tilia platyphyllos
+Linden,Tiliacora triandra,Q368247,6,0,2,species of flowering plant,,Q16521,Q917284,Tiliacora triandra
+Linden,Tiliacora acuminata,Q17808351,6,0,2,species of plant,,Q16521,,Tiliacora acuminata
+Linden,"European linden in Petruro, Italy",Q55741270,6,0,2,Remarkable tree,,Q811534,,
+Linden,"European linden in Summonte, Italy",Q55741273,6,0,2,Remarkable tree,,Q811534,,
+Linden,"European linden in Rapone, Italy",Q55741269,6,0,2,Remarkable tree,,Q811534,,
+Myrtle House,Myrtle House,Q26541484,7,0,1,"house in Kingsbridge, South Hams, Devon, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q29501404,7,0,1,Grade II listed building in Ambleston. Situated in Ambleston village on S side of road some 70m W of the churchyard.,,Q3947,,
+Myrtle House,Myrtle House,Q26311164,7,0,1,"house in Baltonsborough, Mendip, Somerset, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q26499360,7,0,1,"house in Sandgate, Shepway, Kent, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q26380918,7,0,1,"house in Mickleton, Cotswold, Gloucestershire, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q26311742,7,0,1,"Grade II listed house in Axbridge, Sedgemoor, Somerset, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q29507802,7,0,1,"Grade II listed building in Montgomery. Situated in terraced row, opposite Castle Street Garage.",,Q3947,,
+Myrtle House,Myrtle House,Q26644625,7,0,1,"house in Chilham, Ashford, Kent, England, UK",,Q3947,,
+Myrtle House,Myrtle House,Q15260533,7,0,1,"Elim Pentecostal Church in Llanelli, Wales",,Q16970,,
+Myrtle House,Myrtle House,Q29503308,7,0,1,Grade II listed building in Pembrokeshire. On the W side of St Mary's Street some 50m N of the junction with the Paragon.,,Q3947,,
+Casa Felip,Casa Felip,Q19256063,8,0,1,"building in Barcelona Province, Spain",,Q11755880,,
+Casa Felip,Casa Felip,Q19256066,8,0,1,"historical building in Calaf, Spain",,Q3947,,
+Casa Felip,Casa Felip,Q124335652,8,0,1,,,Q11755880,,
+Casa Felip,Casa Felip Alomar,Q126895926,8,0,1,house in Barcelona in Ciutat Vella district,,Q11755880,,
+Casa Felip,Casa Felipó,Q5047817,8,0,1,"building in Andorra la Vella, Andorra",Casa Felipo,Q41176,,Casa Felipó
+Casa Felip,Casa Felip de Miquel,Q81100458,8,0,1,"building in Barcelona, Spain",,Q11755880,,
+Casa Felip,Casa Felip de Riquer,Q28710783,8,0,1,,Palau de Riquer,Q11755880,,
+Casa Felip,Casa Felip Sayrols,Q81100441,8,0,1,"building in Barcelona, Spain","Building in c. Gignàs, 26",Q11755880,,
+Casa Felip,Casa Felip Colldefors,Q115972353,8,0,1,,,Q1021645|Q11755880,,
+Casa Felip,Casa Felipe Iglesis,Q131262336,8,0,1,"buildings in Gràcia, Barcelona",,Q11755880,,
+Elgin,Elgin,Q841074,9,0,1,"former cathedral city and Royal Burgh in Moray, Scotland, UK",Eilginn,Q3957|Q7543008,,"Elgin, Moray"
+Elgin,Elgin,Q3050854,9,0,1,"municipality in Montérégie, Quebec, Canada","Elgin, Quebec",Q27676428,,"Elgin, Quebec"
+Elgin,Elgin,Q30128754,9,0,1,male given name,,Q12308941,,
+Elgin,Elgin,Q16275642,9,0,1,family name,,Q101352,,Elgin (name)
+Elgin,Elgin,Q3365760,9,0,1,"human settlement in New Brunswick, Canada","Elgin, New Brunswick",Q2989369,,"Elgin, New Brunswick"
+Elgin,Morayshire,Q1247435,9,0,1,historic and registration county of Scotland,Elginshire|Elgin and Forres|County of Moray,Q7309443|Q1350181|Q67376938,,County of Moray
+Elgin,Elgin,Q499887,9,0,1,city in Cook and Kane counties in the northern part of the U.S. state of Illinois,"Elgin, Illinois|Elgin, IL",Q110071194,,"Elgin, Illinois"
+Elgin,Elgin,Q68815444,9,0,1,"Scottish parish in Moray, Scotland, UK",,Q5124673,,
+Elgin,Elgin,Q976529,9,0,1,"city in Bastrop and Travis counties in Texas, United States","Elgin, Texas|Elgin, TX",Q1093829,,"Elgin, Texas"
+Elgin,Elgin,Q3050890,9,0,1,"city in Oregon, USA","Elgin, Oregon|Elgin, OR",Q63440326,,"Elgin, Oregon"
+Elgin,Elgin Castle,Q5360018,9,0,2,"12th-century castle near Elgin, Moray, Scotland, UK",,Q23413|Q839954,,Elgin Castle
+Elgin,Elgin Marbles,Q606662,9,0,2,collection of sculptures from the Athenian Acropolis in the British Museum,Parthenon Sculptures|Parthenon Marbles,Q7328910|Q2293362,,Elgin Marbles
+Elgin,Elgin Marbles controversy,Q125304671,9,0,2,Dispute about their ownership,,Q1255828,,
+China Grove,China Grove,Q1987125,10,0,1,"town in Rowan County, North Carolina, United States","China Grove, NC",Q15127012|Q486972|Q132680629,,"China Grove, North Carolina"
+China Grove,China Grove,Q5099707,10,0,1,1973 single by The Doobie Brothers,,Q134556,,China Grove (song)
+China Grove,China Grove,Q970816,10,0,1,"town in Bexar County, Texas, United States","China Grove, Texas|China Grove, TX",Q15127012,,"China Grove, Texas"
+China Grove,China Grove,Q5099705,10,0,1,"building in Louisiana, United States",,Q41176,,"China Grove (Gardner, Louisiana)"
+China Grove,China Grove,Q15637813,10,0,1,"historic building in Lorman, Mississippi",,Q3947,,"China Grove (Lorman, Mississippi)"
+China Grove,China Grove,Q85752042,10,0,1,"unincorporated community in Alabama, United States","China Grove, AL",Q17343829,,"China Grove, Alabama"
+China Grove,China Grove,Q14707899,10,0,1,listed on the NRHP in North Carolina,,Q3947,,"China Grove (Oriental, North Carolina)"
+China Grove,China Grove,Q5099703,10,0,1,"unincorporated community in Brazoria County, Texas","China Grove, Brazoria County, Texas|China Grove, Texas|China Grove, TX",Q17343829,,"China Grove, Brazoria County, Texas"
+China Grove,China Grove,Q139982017,10,0,1,"human settlement in Walthall County, Mississippi, United States","China Grove, Mississippi|China Grove, MS",Q486972,,
+China Grove,China Grove Myles,Q124418193,10,0,1,"quiltmaker, textile artist, fiber artist",,Q5,,
+Deanery,clergy house,Q607241,11,0,1,"residence of one or more priests or ministers of religion, also used for other activities related to the church",vicarage|rectory|parsonage|presbytery|parochial house|chapel house|pastorium|parish house|parish center|vicariage|Presbyteries|deanery,,Q3947|Q24398318|Q11755880|Q1220959,Clergy house
+Deanery,deanery,Q385337,11,0,1,"ecclesiastical entity in various Christian churches, e.g. the Roman Catholic Church, the Eastern Orthodox Church, the Church of England and the Church of Norway",,,Q20926517|Q121144515,Deanery
+Deanery,deanery,Q4087929,11,0,1,part of the diocese of the Russian Orthodox Church,blagochinie,,Q20926517|Q385337,
+Deanery,archpriesthood,Q30749622,11,0,1,territory that includes several parishes governed by an archpriest,archpriestship|archpresbytery|Archpriestship|deanery|Deanery|archpriesthood,Q20926517|Q15617994,Q51041800|Q20926517|Q385337,
+Deanery,Deanery,Q17553997,11,0,1,"building in City of Peterborough, Cambridgeshire, England, UK",,Q41176,,
+Deanery,deanery (building),Q46614560,11,0,1,house of a dean,dean's house,Q811102,Q607241,
+Deanery,Deanery Pfarrkirchen,Q50217797,11,0,1,Roman Catholic deanery in the diocese of Passau,,Q385337|Q30749622,,
+Deanery,Archpriesthood of Alto Jalón,Q30900591,11,0,1,"territorial division of the diocese of Tarazona, Aragon, Spain",deanery Alto Jalón,Q30749622,,
+Deanery,Deanery of Prostějov,Q11863044,11,0,1,,,Q385337,,Deanery of Prostějov
+Deanery,Deanery of Znojmo,Q11863063,11,0,1,part of the Roman Catholic Diocese of Brno,,Q385337,,
+La Riba,La Riba,Q5860955,12,0,1,Burgos,,Q3055118,,
+La Riba,La Riba,Q56043016,12,0,1,"human settlement in San Julián, Bimenes, Asturias, Spain",,Q5084,,
+La Riba,La Riba,Q23996102,12,0,1,human settlement in Spain,,Q3055118|Q121289819|Q130261443,,
+La Riba,La Riba,Q280721,12,0,1,municipality of Spain,,Q33146843,,La Riba
+La Riba,La Riba de Escalote,Q837301,12,0,1,municipality of Spain,Riba de Escalote,Q2074737,,La Riba de Escalote
+La Riba,La Riba,Q20901258,12,0,1,"masia in Santa Margarida i els Monjos (Alt Penedès, Catalonia)",,Q585956,,
+La Riba,La Riba,Q28342237,12,0,1,"masia in la Vall de Bianya (la Garrotxa, Catalonia)",,Q3947|Q585956,,
+La Riba,la Riba,Q73406500,12,0,1,"building in Oristà, Lluçanès, Barcelona, Catalonia, Spain",,Q585956,,
+La Riba,la Riba,Q107093452,12,0,1,"masia in Mieres, Garrotxa, Girona, Catalonia, Spain",,Q585956,,
+La Riba,la Riba,Q107074328,12,0,1,"masia in Sant Feliu de Pallerols, Garrotxa, Girona, Catalonia, Spain",,Q585956,,
+The Round House,The Round House,Q17010474,13,0,1,2012 novel,,Q7725634,,The Round House (novel)
+The Round House,"Ringwork and bailey castle, Brogborough",Q17662279,13,0,1,"castle in Brogborough, Bedfordshire, England, UK","Ringwork at The Round House, Brogborough Park Farm|The Round House",Q7335033,,
+The Round House,The Roundhouse,Q17533543,13,0,1,"building in Leeds, West Yorkshire, England, UK",The Round House (Leeds Commercial Van And Truck Rental Premises)|Railway Roundhouse|The Round House,Q1342377,,
+The Round House,The Gorilla House at London Zoo,Q17527468,13,0,1,building in London Zoo,Chimps Breeding Colony The Gorilla House|The Gorilla House|The Round house,Q220131,,Gorilla House
+The Round House,The Round House,Q17555294,13,0,1,"Grade II* listed building in Etruria, Stoke-on-Trent, Staffordshire, England, UK",,Q41176,,
+The Round House,The Round House,Q7761614,13,0,1,Georgian villa in outer London,,Q3947,,The Round House (Havering)
+The Round House,"Ty Crwn (The Lock-Up) Abermaw Terrace (Rear), Barmouth Harbour",Q29484482,13,0,1,"Grade II listed building in Abermaw (Barmouth), Gwynedd",The Round House|The Lock-Up|Ty Crwn,Q7930717,,
+The Round House,The Round House,Q17674052,13,0,1,"village lock-up in Worthington, North West Leicestershire, England, UK","The Round House|Worthington Lock-up|Lock up known as The Round House, at the junction of Church Street and St Matthew's Avenue",Q7930717,,
+The Round House,The Round House,Q26625436,13,0,1,"house in Withington, Cotswold, Gloucestershire, England, UK",,Q3947,,
+The Round House,The Round House,Q26451797,13,0,1,"house in Brogborough, Central Bedfordshire, Bedfordshire, UK",Brogborough Park Farmhouse,Q3947|Q489357,,
+Peyton House,Peyton House,Q7179627,14,0,1,"house in Raymond, Mississippi",Waverly,Q3947,,"Peyton House (Raymond, Mississippi)"
+Peyton House,Peyton House,Q137443769,14,0,1,"building in Washington, D.C.",C. Russell Peyton House,Q3947,,
+Peyton House,Peyton House,Q26488307,14,0,1,"house in Boxford, Babergh, Suffolk, England, UK",,Q3947,,
+Peyton House,Peyton House,Q26348372,14,0,1,"house in Chipping Campden, Cotswold, Gloucestershire, England, UK",,Q3947,,
+Peyton House,Peyton House,Q7179626,14,0,1,Wikimedia disambiguation page,,Q4167410,,Peyton House
+Cal Canes,Cal Canes,Q28137068,15,0,1,"house in Selvanera, Spain",,Q3947,,
+Cal Canes,Cal Canes,Q107564819,15,0,1,"building in Artesa de Segre, Noguera, Lleida, Catalonia, Spain",,Q585956,,
+Cal Canes,Cal Canes,Q107961653,15,0,1,"masia in Vilanova de Meià, Noguera, Lleida, Catalonia, Spain",,Q585956,,
+Cal Gat,Cal Gat,Q19255513,16,0,1,"human settlement in Sant Joan de les Abadesses, Ripollès, Comarques Gironines, Spain",,Q627236,,
+Cal Gat,Cal Gat,Q73394180,16,0,1,"building in El Montmell, Baix Penedès, Tarragona, Catalonia, Spain",,Q585956,,
+Cal Gat,Cal Gat,Q17588693,16,0,1,"house in Bàscara, Spain",,Q3947,,
+Cal Gat,Cal Gat,Q107000707,16,0,1,masia in Santa Maria de Besora (Catalonia),,Q585956,,
+Cal Gat,Cal Gat,Q107306860,16,0,1,"masia in Montferrer i Castellbò, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Gat,Cal Gat,Q107052504,16,0,1,"masia in Sant Joan de les Abadesses, Ripollès, Girona, Catalonia, Spain",,Q585956,,
+Cal Gat,Cal Gat,Q73281930,16,0,1,"building in Brunyola (Selva, Catalonia)",,Q585956,,
+Cal Gat,Cal Gat,Q73284881,16,0,1,"building in Vilademuls, Pla de l'Estany, Girona, Catalonia, Spain",,Q585956,,
+Cal Gat,Cal Gat,Q98971241,16,0,1,,,Q3947,,
+Cal Gat,Cal Gat,Q109819588,16,0,1,"building in Montblanc, Conca de Barberà, Tarragona, Catalonia, Spain",,Q585956,,
+Cal Gat,California Gnatcatcher,Q841099,16,0,2,species of bird,Polioptila californica,Q16521,,California gnatcatcher
+Cal Vidal,Cal Vidal,Q60166331,17,0,1,"building in Tarragona Province, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q28146805,17,0,1,"house in Torrefeta, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q20985123,17,0,1,"house in Montpalau, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q17588941,17,0,1,"masia in Abella de la Conca (Pallars Jussà, Catalonia)",,Q585956,,
+Cal Vidal,Cal Vidal,Q73406485,17,0,1,"building in Oliana, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal,Q126488484,17,0,1,,,Q3055118,,
+Cal Vidal,Cal Vidal,Q105958651,17,0,1,"masia in Veciana, Anoia, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal,Q73259673,17,0,1,"building in Canyelles, Garraf, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal del Malcavaller,Q20985124,17,0,1,"building in Piera, Anoia, Catalonia",,Q585956,,
+Cal Vidal,Cal Vidal de Lavit,Q133796292,17,0,1,house in Torrelavit (Catalonia),,Q3947,,
+Cal Vidal,Cal Vidal,Q60166331,18,0,1,"building in Tarragona Province, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q28146805,18,0,1,"house in Torrefeta, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q20985123,18,0,1,"house in Montpalau, Spain",,Q3947,,
+Cal Vidal,Cal Vidal,Q17588941,18,0,1,"masia in Abella de la Conca (Pallars Jussà, Catalonia)",,Q585956,,
+Cal Vidal,Cal Vidal,Q73406485,18,0,1,"building in Oliana, Alt Urgell, Lleida, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal,Q126488484,18,0,1,,,Q3055118,,
+Cal Vidal,Cal Vidal,Q105958651,18,0,1,"masia in Veciana, Anoia, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal,Q73259673,18,0,1,"building in Canyelles, Garraf, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Vidal,Cal Vidal del Malcavaller,Q20985124,18,0,1,"building in Piera, Anoia, Catalonia",,Q585956,,
+Cal Vidal,Cal Vidal de Lavit,Q133796292,18,0,1,house in Torrelavit (Catalonia),,Q3947,,
+Elmhurst,Elmhurst,Q579542,19,0,1,"city in Illinois, United States","Elmhurst, Illinois|Elmhurst, IL|Elmhurst Illinois",Q110071194,,"Elmhurst, Illinois"
+Elmhurst,Elmhurst University,Q5366768,19,0,1,"private liberal arts college in Elmhurst, Illinois, United States",Elmhurst College,Q23002054,,Elmhurst University
+Elmhurst,Elmhurst,Q60524877,19,0,1,family name,Elmhurst (family name)|Elmhurst (surname),Q101352,,
+Elmhurst,Elmhurst,Q2180242,19,0,1,"neighborhood in Queens, New York City, New York, United States","Newtown|Elmhurst, Queens|Elmhurst, Long Island|Newtown, Queens County|Newtown, Long Island|Newtown, New York",Q123705,,"Elmhurst, Queens"
+Elmhurst,Elmhurst,Q5366764,19,0,1,railway station in Illinois,Elmhurst Metra station,Q55488,,Elmhurst station (Illinois)
+Elmhurst,Elmhurst,Q112632518,19,0,1,former Amtrak station in Illinois,Elmhurst station|South Elmhurst|South Elmhurst station|Elmhurst Amtrak station,Q55488,,Elmhurst station (Amtrak)
+Elmhurst,Elmhurst,Q5366745,19,0,1,"human settlement in New York, United States of America","Elmhurst, Chautauqua County, New York|Elmhurst, NY",Q17343829,,"Elmhurst, Chautauqua County, New York"
+Elmhurst,Elmhurst,Q5366755,19,0,1,"village in Staffordshire, United Kingdom",,Q532,,"Elmhurst, Staffordshire"
+Elmhurst,Elmhurst,Q5366751,19,0,1,"human settlement in Oakland, California, United States of America","Elmhurst, Oakland, California",Q123705,,"Elmhurst, Oakland, California"
+Elmhurst,Elmhurst,Q5366749,19,0,1,"city in Indiana, United States","Elmhurst, Indiana",Q618123,,"Elmhurst, Indiana"
+Elmhurst,Elmhurst Bluejays,Q104666223,19,0,2,collegiate sports program,Elmhurst College athletics,Q2367225,,Elmhurst Bluejays
+Cal Roc,Cal Roc,Q21622476,20,0,1,"building in Lleida Province, Spain",,Q585956,,
+Cal Roc,cal Roc,Q56403749,20,0,1,"masia in el Prat de Llobregat (Baix Llobregat, Catalonia)",,Q489357|Q585956,,
+Cal Roc,Cal Roc,Q28712432,20,0,1,"house in Belianes, Spain",,Q3947,,
+Cal Roc,Cal Roc,Q83644597,20,0,1,"building in Les Cabanyes, Spain",,Q3947,,
+Cal Roc,Cal Roc,Q56408853,20,0,1,"building in Pradell de la Teixeta, Spain",,Q3947,,
+Cal Roc,Cal Roc,Q109772168,20,0,1,"masia in Santa Coloma de Queralt, Conca de Barberà, Tarragona, Catalonia, Spain",,Q585956,,
+Cal Roc,Cal Roc,Q105968124,20,0,1,"masia in Vilobí del Penedès, Alt Penedès, Barcelona, Catalonia, Spain",,Q585956,,
+Cal Roc,Cal Roc,Q106649840,20,0,1,masia in Casserres (Catalonia),,Q585956,,
+Cal Roc,Cal Roc,Q107706613,20,0,1,"masia in Penelles, Noguera, Lleida, Catalonia, Spain",,Q585956,,
+Cal Roc,Cal Roc,Q104759652,20,0,1,masia in Riells i Viabrea (Catalonia),,Q585956,,
+Can Bonastre,Can Bonastre,Q11911523,21,0,1,"human settlement in Piera, Anoia, Penedès, Spain",,Q3055118|Q133503733,,
+Can Bonastre,Can Bonastre,Q20888239,21,0,1,"building in Masquefa, Anoia, Catalonia",,Q585956,,Can Bonastre
+Can Bonastre,Can Bonastre,Q21790719,21,0,1,"house in Cervelló, Spain",,Q3947,,
+Can Bonastre,Can Bonastre,Q28712398,21,0,1,"building in Barcelona Province, Spain",,Q3947,,
+Can Bonastre,Can Bonastre,Q21790718,21,0,1,,,Q585956,,
+Can Bonastre,Can Bonastre,Q99299858,21,0,1,"building in Granollers, Vallès Oriental, Barcelona, Catalonia, Spain",,Q585956,,
+Can Bonastre,Can Bonastre de Mas Pujó,Q20985137,21,0,1,"building in Piera, Anoia, Catalonia",,Q585956,,
+Can Bonastre,Can Bonastre dels Torrents,Q73261213,21,0,1,"building in Masquefa, Anoia, Barcelona, Catalonia, Spain",,Q585956,,
+Can Bonastre,Hostal de Can Bonastre,Q21077314,21,0,1,"building in Piera, Spain",,Q41176,,
+Can Bonastre,Can Bonastre,Q62560925,21,0,1,Wikimedia disambiguation page,,Q4167410,,

@@ -1,0 +1,25 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+WINGS J103851.34-083738.8,WINGS J103851.34-083738.8,Q84851061,0,0,1,,,Q213930|Q523,,
+2MASX J03303562-5246586,2MASX J03303562-5246586,Q83751476,1,0,1,,,Q213930|Q523,,
+87GB 012621.3+072542,87GB 012621.3+072542,Q85702668,2,0,1,,,Q213930|Q46587|Q1931185|Q1491746|Q318,,
+LEDA 3095964,LEDA 3095964,Q77388435,3,0,1,,,Q213930|Q83373,,
+2MASX J10164123-1052356,2MASX J10164123-1052356,Q89874786,4,0,1,,,Q213930|Q318,,
+LEDA 3095901,LEDA 3095901,Q80614071,5,0,1,,,Q213930,,
+LEDA 3096164,LEDA 3096164,Q90133242,6,0,1,,,Q213930|Q46587|Q318,,
+2MASX J04351204-4614152,2MASX J04351204-4614152,Q89752215,7,0,1,,,Q213930|Q46587|Q523,,
+2MASX J04055765+5418446,2MASX J04055765+5418446,Q86988523,8,0,1,,,Q213930|Q71962386,,
+NGC 4041,NGC 4041,Q1108639,9,0,1,galaxy,,Q1931185|Q67201586|Q67206691|Q2154519|Q213930|Q2488,,NGC 4041
+NGC 4041,spiral galaxy,Q2488,9,0,2,galaxy having a number of arms of younger stars that spiral out from the centre containing older ones,spiral-type galaxy,Q17444909,Q1371025,Spiral galaxy
+NGC 4041,Messier 106,Q4658,9,0,2,Spiral galaxy in the constellation Canes Venatici,Spiral Galaxy M106|Messier Object 106,Q213930|Q28738741|Q1931185|Q1341811|Q2154519|Q2488|Q71965638|Q2557101,,Messier 106
+NGC 4041,Spiral Galaxy,Q64513714,9,0,2,painting by Leo Katz,,Q3305213,,
+NGC 4041,Messier 108,Q4751,9,0,2,spiral galaxy in the constellation Ursa Major,Messier Object 108|Surfboard Galaxy|Spiral Galaxy M108|New General Catalogue 3556,Q1284344|Q1931185|Q67206691|Q726611,,Messier 108
+NGC 4041,Sombrero Galaxy,Q91461627,9,0,2,spiral or elliptical galaxy in the constellation Virgo,,Q2014003|Q1284344|Q2557101|Q1931185|Q2154519|Q67201524|Q67206691|Q67201574,,Sombrero Galaxy
+NGC 4041,Messier 109,Q4746,9,0,2,spiral galaxy in the constellation Ursa Major,Messier Object 109|Barred Spiral Galaxy M109|M109 galaxy|Spiral Galaxy M109|Barred Galaxy M109|New General Catalogue 3992,Q2490|Q67206691,,Messier 109
+NGC 4041,Spiral Galaxy,Q55633705,9,0,2,sculpture,,Q860861,,Spiral Galaxy (sculpture)
+NGC 4041,Spiral galaxy distance indicators based on near-infrared photometry,Q56931407,9,0,2,scientific article published on 21 November 1999,,Q13442814,,
+NGC 4041,Spiral galaxy - ICM interactions in the Virgo cluster,Q68355790,9,0,2,scientific article published in January 2004,,Q13442814,,
+NGC 4041,Spiral galaxy rotation curves in the Horava--Lifshitz gravity theory,Q69047829,9,0,2,scientific article published in January 2012,,Q13442814,,
+AT20G J034205-370320,AT20G J034205-370320,Q74923042,10,0,1,,,Q67201524|Q83373|Q213930|Q46587|Q1931185|Q67206691,,
+3C 219,3C 219,Q4636237,11,0,1,galaxy,,Q213930|Q83373|Q1931185|Q67206691|Q2154519|Q71965429|Q71962386|Q1151284,,3C 219
+3C 219,3C 219: a double radio source with a jet,Q68569447,11,0,1,scientific article published in January 1975,,Q13442814,,
+LEDA 3096230,LEDA 3096230,Q78397947,12,0,1,,,Q213930|Q83373,,

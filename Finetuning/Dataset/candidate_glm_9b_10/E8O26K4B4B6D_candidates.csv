@@ -1,0 +1,329 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Ibisha,Static Rook,Q28154177,0,0,1,shogi opening in which the rook does not move,ibisha,,Q25113035,Static Rook
+Ibisha,Ibisha,Q12280630,0,0,1,island in Bulgaria,,Q162602,,
+Ibisha,Ibisha,Q20499985,0,0,1,Managed Nature Reserve in Bulgaria,,Q24574428,,
+Ibisha,Bear-in-the-hole Static Rook,Q11465615,0,0,1,,Static Rook Anaguma|ibisha anaguma,,Q11597245|Q28154177,Bear-in-the-hole Static Rook
+Ibisha,nose,Q7363,0,0,1,organ that smells and facilitates breathing,,Q112826905,Q24060765|Q112826975|Q3355930,Nose
+Ibisha,beeswax,Q143739,0,0,1,natural wax produced by honeybees,cera alba|cera flava,,Q629103|Q189567|Q124695,Beeswax
+Ibisha,Myristica swamp,Q13114078,0,0,1,freshwater swamp forest,,,,Myristica swamp
+Ibisha,Valchedram,Q1032683,0,0,2,"municipality in Montana oblast, Bulgaria",Valchedram Obshtina|Valchedram|Valchedram municipality,Q1906268,,Valchedram Municipality
+Ibisha,Valchedram,Q405620,0,0,2,"city in Valchedram municipality, Montana oblast, Bulgaria",,Q15303838|Q89487741,,Valchedram
+Ibisha,Valchedram Island,Q7909325,0,0,2,island in the South Shetland Islands in the Southern Ocean,,Q23442,,Valchedram Island
+Ibisha,municipality,Q15284,0,0,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Ibisha,municipality of the Philippines,Q24764,0,0,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Ibisha,municipality,Q27676428,0,0,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Ibisha,Shanghai,Q8686,0,0,2,provincial-level municipality in China,"Hu|Shang Hai|Shanghai, China|Shanghae|Zanghae|Shang-hai|Shen|Pearl of the Orient|Xanghae|Shanghai Municipality|Municipality of Shanghai|Shanghai City|Shang Hai Shi",Q1208802|Q1066538|Q1549591|Q2264924|Q208511|Q174844|Q200250|Q51929311|Q1073535,,Shanghai
+Ibisha,municipality in Germany,Q262166,0,0,2,lowest official level of territorial division in Germany,,,Q11618417|Q15284|Q14757767,Municipalities of Germany
+Ibisha,county town,Q1357964,0,0,2,county's administrative centre in the United Kingdom or Ireland,municipality,Q31728|Q11900291|Q7188,Q3957|Q1306755|Q123705|Q68773434|Q618123,County town
+Ibisha,municipality of Spain,Q2074737,0,0,2,administrative territorial entity of Spain,municipio de España|Spanish municipality|Municipality of Spain,Q126192154,Q3183364|Q15284|Q1763214|Q11618417|Q48909258,Municipalities of Spain
+Ibisha,municipality seat,Q15303838,0,0,2,location of the main elements of the government of a municipality,municipal seat|seat of municipal government|municipality capital|municipal town|municipality center|municipal capital,,Q956214|Q1306755|Q486972|Q1901835,
+Ibisha,municipality of Brazil,Q3184121,0,0,2,administrative division of the states in Brazil,municipalities of Brazil,Q56061,Q10374536|Q1048835|Q15284|Q12357832|Q192611,Municipalities of Brazil
+Ibisha,municipality of Georgia,Q2655841,0,0,2,"subdivision of Georgia, consisting of a settlement or a group of settlements",municipality,Q28872924,Q244339|Q12357832|Q149621|Q486972,List of municipalities in Georgia (country)
+Ibisha,Ibiza,Q473914,0,0,2,"municipality and capital of Ibiza, Balearic Islands, Spain",Ibiza City|Eivissa|City of Ibiza|City of Eivissa|Ybshm / Iboshim,Q3957|Q2074737|Q515,,Ibiza (city)
+Ibisha,Ibiza,Q2464739,0,0,2,Madrid Metro station,,Q928830|Q22808403,,Ibiza (Madrid Metro)
+Ibisha,Ibiza,Q52631,0,0,2,"island in the Balearic Islands, Spain",Iviza|Eivissa,Q23442|Q20105287,,Ibiza
+Ibisha,Ibiza,Q30600686,0,0,2,electoral constituency of the Parliament of the Balearic Islands,,Q192611,,Ibiza (Parliament of the Balearic Islands constituency)
+Ibisha,Ibiza Airport,Q1431549,0,0,2,"international airport serving Ibiza, Spain",IBZ|LEIB|IBIZA,Q644371|Q1248784|Q94993988,,Ibiza Airport
+Ibisha,Ibiza,Q15249910,0,0,2,neighborhood in Madrid,,Q10267336,,Ibiza (Madrid)
+Ibisha,Ibiza,Q4886725,0,0,2,Spanish geographical indication for wines in the Balearic Islands,,Q548492,Q6745086,Ibiza (Vino de la Tierra)
+Ibisha,Ibiza,Q31917011,0,0,2,"capital of Ibiza Municipality, Spain",,Q3055118|Q121289819,,
+Ibisha,Ibiza,Q54153094,0,0,2,2018 film by Alex Richanbach,,Q11424,,Ibiza (film)
+Ibisha,Ibiza,Q102966241,0,0,2,print by Conrad Marca-Relli,,Q11060274,,
+Valchedram Municipality,Valchedram,Q1032683,0,1,1,"municipality in Montana oblast, Bulgaria",Valchedram Obshtina|Valchedram|Valchedram municipality,Q1906268,,Valchedram Municipality
+Valchedram Municipality,Valchedram,Q405620,0,1,2,"city in Valchedram municipality, Montana oblast, Bulgaria",,Q15303838|Q89487741,,Valchedram
+Valchedram Municipality,Valchedram Island,Q7909325,0,1,2,island in the South Shetland Islands in the Southern Ocean,,Q23442,,Valchedram Island
+Valchedram Municipality,Static Rook,Q28154177,0,1,2,shogi opening in which the rook does not move,ibisha,,Q25113035,Static Rook
+Valchedram Municipality,Ibisha,Q12280630,0,1,2,island in Bulgaria,,Q162602,,
+Valchedram Municipality,Ibisha,Q20499985,0,1,2,Managed Nature Reserve in Bulgaria,,Q24574428,,
+Valchedram Municipality,Bear-in-the-hole Static Rook,Q11465615,0,1,2,,Static Rook Anaguma|ibisha anaguma,,Q11597245|Q28154177,Bear-in-the-hole Static Rook
+Valchedram Municipality,nose,Q7363,0,1,2,organ that smells and facilitates breathing,,Q112826905,Q24060765|Q112826975|Q3355930,Nose
+Valchedram Municipality,beeswax,Q143739,0,1,2,natural wax produced by honeybees,cera alba|cera flava,,Q629103|Q189567|Q124695,Beeswax
+Valchedram Municipality,Myristica swamp,Q13114078,0,1,2,freshwater swamp forest,,,,Myristica swamp
+Valchedram Municipality,municipality,Q15284,0,1,2,administrative division having corporate status and usually powers of self-government or jurisdiction,municipalities,Q15617994,Q1048835|Q2659904,Municipality
+Valchedram Municipality,municipality of the Philippines,Q24764,0,1,2,administrative division in Philippine provinces,Philippine town|Philippine municipality|municipality,Q15617994,Q1350310|Q15284|Q3957|Q12357832|Q43229,Municipalities of the Philippines
+Valchedram Municipality,municipality,Q27676428,0,1,2,"type of municipality in Quebec; these are municipalities that only have ""municipality"" in their status",municipality of Quebec,,Q3327873|Q17457753|Q486972|Q15284,
+Valchedram Municipality,Shanghai,Q8686,0,1,2,provincial-level municipality in China,"Hu|Shang Hai|Shanghai, China|Shanghae|Zanghae|Shang-hai|Shen|Pearl of the Orient|Xanghae|Shanghai Municipality|Municipality of Shanghai|Shanghai City|Shang Hai Shi",Q1208802|Q1066538|Q1549591|Q2264924|Q208511|Q174844|Q200250|Q51929311|Q1073535,,Shanghai
+Valchedram Municipality,municipality in Germany,Q262166,0,1,2,lowest official level of territorial division in Germany,,,Q11618417|Q15284|Q14757767,Municipalities of Germany
+Valchedram Municipality,county town,Q1357964,0,1,2,county's administrative centre in the United Kingdom or Ireland,municipality,Q31728|Q11900291|Q7188,Q3957|Q1306755|Q123705|Q68773434|Q618123,County town
+Valchedram Municipality,municipality of Spain,Q2074737,0,1,2,administrative territorial entity of Spain,municipio de España|Spanish municipality|Municipality of Spain,Q126192154,Q3183364|Q15284|Q1763214|Q11618417|Q48909258,Municipalities of Spain
+Valchedram Municipality,municipality seat,Q15303838,0,1,2,location of the main elements of the government of a municipality,municipal seat|seat of municipal government|municipality capital|municipal town|municipality center|municipal capital,,Q956214|Q1306755|Q486972|Q1901835,
+Valchedram Municipality,municipality of Brazil,Q3184121,0,1,2,administrative division of the states in Brazil,municipalities of Brazil,Q56061,Q10374536|Q1048835|Q15284|Q12357832|Q192611,Municipalities of Brazil
+Valchedram Municipality,municipality of Georgia,Q2655841,0,1,2,"subdivision of Georgia, consisting of a settlement or a group of settlements",municipality,Q28872924,Q244339|Q12357832|Q149621|Q486972,List of municipalities in Georgia (country)
+Friesenheimer Insel,Friesenheimer Insel,Q1464709,1,0,1,island in Germany,,Q162602,,
+Friesenheimer Insel,Friesenheimer Insel,Q62068541,1,0,1,"protected landscape area in Baden-Württemberg, Germany",,Q21503788|Q473972,,
+Friesenheimer Insel,Friesenheimer Insel – Sandhofen Ferry,Q444954,1,0,1,ferry,,Q25653,,Friesenheimer Insel – Sandhofen Ferry
+Mannheim,Mannheim,Q2119,1,1,1,"city in Baden-Württemberg, Germany","Mannem|Monnem|Universitätsstadt Mannheim|Mannheim, Germany|Mannheim (Germany)|Mannheim Germany",Q1549591|Q1180262|Q1187811|Q2327515|Q253030|Q42744322,,Mannheim
+Mannheim,Mannheim,Q27869969,1,1,1,family name,,Q101352,,Mannheim (surname)
+Mannheim,Mannheimer,Q21491929,1,1,1,family name,,Q101352,,Mannheimer
+Mannheim,Kamianka,Q4210910,1,1,1,"village in Vyhoda rural hromada (municipality), Odesa Raion (district), Odesa Oblast, Ukraine",Kamenka|Manheim|Mannheim,Q21672098,,
+Mannheim,City administration of Mannheim,Q48753607,1,1,1,Municipal self-government of the city of Mannheim,Mannheim|City of Mannheim|Stadt Mannheim|Stadtverwaltung Mannheim|Rathaus Mannheim,Q6621940|Q6501447|Q327333|Q15734684,,
+Mannheim,Jean Mannheim,Q27686432,1,1,1,German-American painter,Mannheim,Q5,,Jean Mannheim
+Mannheim,Mannheimia,Q19684170,1,1,1,genus of bacteria,,Q16521,,Mannheimia
+Mannheim,Mannheim,Q1803318,1,1,1,Germany: Landkreis,,Q106658,,
+Mannheim,Mannheimia haemolytica,Q21325785,1,1,1,species of bacterium,,Q16521,,Mannheimia haemolytica
+Mannheim,Mannheim,Q6750819,1,1,1,"Station on Metra's Milwaukee District/West in Franklin Park, Illinois",,Q55488,,Mannheim station (Illinois)
+Mannheim,Friesenheimer Insel,Q1464709,1,1,2,island in Germany,,Q162602,,
+Mannheim,Friesenheimer Insel,Q62068541,1,1,2,"protected landscape area in Baden-Württemberg, Germany",,Q21503788|Q473972,,
+Mannheim,Friesenheimer Insel – Sandhofen Ferry,Q444954,1,1,2,ferry,,Q25653,,Friesenheimer Insel – Sandhofen Ferry
+Mannheim,Rhein Neckar District,Q8177,1,1,2,"district in Karlsruhe Government Region, Baden-Württemberg, Germany",Rhein-Neckar-Kreis|Rhein-Neckar|Rhine Neckar District,Q20738676,,Rhein-Neckar-Kreis
+Mannheim,Village Pride,Q126870494,1,1,2,,Rhein-Neckar-Kreis Pride,Q51404,,
+Wilson Island,Wilson Island,Q9374935,2,0,1,island of the Andaman Islands,,Q23442,,Wilson Island (Ritchie's Archipelago)
+Wilson Island,Wilson Island,Q8023103,2,0,1,"protected area in Queensland, Australia",,Q503481,,Wilson Island (Queensland)
+Wilson Island,Five Star Island,Q5456136,2,0,1,island in Bermuda,"Wilson Island|Five Star Island, Bermuda",Q23442,,Five Star Island
+Wilson Island,Wilson Island,Q3802926,2,0,1,island in Antarctica,,Q23442,,Wilson Island (Antarctica)
+Wilson Island,Wilson Island,Q8023104,2,0,1,"island in Corman Park No. 344, Saskatchewan, Canada",,Q162602|Q23442,,Wilson Island (Saskatchewan)
+Wilson Island,Wilson Island,Q21899162,2,0,1,"island in Queensland, Australia",,Q23442,,
+Wilson Island,Wilson Island,Q14714396,2,0,1,"island on the Kanawha River in Charleston, West Virginia, United States",,Q162602|Q23442,,Wilson Island (West Virginia)
+Wilson Island,Wilson Island,Q22622922,2,0,1,"island in the Northwest Territories, Canada",,Q23442,,
+Wilson Island,Wilson Island,Q130310459,2,0,1,"island in Pottawattamie County, Iowa, United States",,Q23442,,
+Wilson Island,Wilson Island,Q125873038,2,0,1,"island in Butte County, California, United States",,Q23442,,
+Kanawha County,Kanawha County,Q501800,2,1,1,"county in West Virginia, United States","Kanawha County, West Virginia|Kanawha County, Virginia|Kanawha County, WV",Q13415370|Q13415368,,"Kanawha County, West Virginia"
+Kanawha County,Kanawha County Schools,Q17039280,2,1,1,"public school district in West Virginia, U.S",,Q398141,,Kanawha County Schools
+Kanawha County,Kanawha County Public Library,Q69495450,2,1,1,"public library system in West Virginia, USA",,Q26271642,,
+Kanawha County,"2020 COVID-19 pandemic in Kanawha County, West Virginia",Q94148731,2,1,1,"pandemic in Kanawha County, West Virginia","2020 coronavirus outbreak in Kanawha County, West Virginia|COVID-19 pandemic in Kanawha County, West Virginia|2020 Kanawha County, West Virginia COVID-19 pandemic|Kanawha County, West Virginia COVID-19 pandemic|2020 COVID pandemic in Kanawha County, West Virginia",Q3241045,,
+Kanawha County,Kanawha County Bookmobile,Q69518070,2,1,1,"public library in Belle, West Virginia, USA",,Q720920|Q28564,,
+Kanawha County,Kanawha County Public Library,Q69518059,2,1,1,"public library in Charleston, West Virginia, USA",,Q12317349|Q28564,,
+Kanawha County,Kanawha County textbook controversy,Q6360805,2,1,1,"1974 education protests in West Virginia, United States",,Q1255828,,Kanawha County Textbook War
+Kanawha County,Kanawha County Courthouse,Q6360801,2,1,1,"county courthouse in West Virginia, United States of America",,Q64037785,,Kanawha County Courthouse
+Kanawha County,Kanawha County commissioner,Q121157425,2,1,1,"member of the Commissioners of Kanawha County, West Virginia, USA",,Q17279032,Q21266746,
+Kanawha County,Kanawha County health services,Q46164792,2,1,1,scientific article published in October 1968,,Q13442814,,
+Belitsa,Belitsa,Q406631,3,0,1,"city in Belitsa municipality, Blagoevgrad oblast, Bulgaria",,Q15303838|Q89487741,,Belitsa
+Belitsa,Belitsa,Q2281436,3,0,1,"municipality in Blagoevgrad oblast, Bulgaria",Belitsa municipality,Q1906268,,Belitsa Municipality
+Belitsa,Tithorea,Q2470929,3,0,1,"village in Fthiotida, Greece",Velitsa|Belitsa,Q532,,Tithorea
+Belitsa,Belitsa,Q2454174,3,0,1,"village in Lyubimets municipality, Haskovo oblast, Bulgaria","Belitsa, Haskovo Province",Q15630849|Q4224624,,"Belitsa, Haskovo Province"
+Belitsa,Belitsa,Q2653106,3,0,1,"village in Ihtiman municipality, Sofia oblast, Bulgaria",,Q15630849,,"Belitsa, Sofia Province"
+Belitsa,Belitsa,Q4081976,3,0,1,"river in Smolensk Oblast, Russia",,Q4022,,
+Belitsa,Belitsa,Q4081969,3,0,1,"human settlement in Belovsky District, Kursk Oblast, Kursk Oblast, Russia",,Q532,,
+Belitsa,Belitsa,Q1080419,3,0,1,"village in Tryavna municipality, Gabrovo oblast, Bulgaria",,Q15630849,,"Belitsa, Gabrovo Province"
+Belitsa,Belitsa,Q2012018,3,0,1,"village in Tutrakan municipality, Silistra oblast, Bulgaria",Belitsa,Q15630849|Q4224624,,
+Belitsa,Belitsa,Q4081971,3,0,1,"human settlement in Gordeyevsky District, Bryansk Oblast, Russia",,Q2514025,,
+Belitsa,Belene,Q2657351,3,0,2,"municipality in Pleven oblast, Bulgaria",Belene|Belene municipality,Q1906268,,Belene Municipality
+Belene Municipality,Belene,Q2657351,3,1,1,"municipality in Pleven oblast, Bulgaria",Belene|Belene municipality,Q1906268,,Belene Municipality
+Belene Municipality,Belene,Q61071736,3,1,2,television series,,Q5398426,,
+Belene Municipality,Belene,Q405236,3,1,2,"city in Belene municipality, Pleven oblast, Bulgaria",,Q15303838|Q89487741,,Belene
+Belene Municipality,C.F. Os Belenenses,Q216510,3,1,2,"association football team from Lisbon, Portugal",Belenenses,Q476028,,C.F. Os Belenenses
+Belene Municipality,Belene,Q107448497,3,1,2,family name,,Q101352,,
+Belene Municipality,Belene Island,Q815393,3,1,2,island,,Q162602,,Belene Island
+Belene Municipality,Belene Nuclear Power Plant,Q1739357,3,1,2,former planned nuclear power plant,,Q134447|Q1570262,,Belene Nuclear Power Plant
+Belene Municipality,Belene labour camp,Q815391,3,1,2,former forced labour camp,Belene concentration camp,Q628505,,Belene labour camp
+Belene Municipality,B-SAD,Q59212899,3,1,2,"association football team from Lisbon, Portugal","Os Belenenses Futebol, SAD|Belenenses SAD",Q476028,,B-SAD
+Belene Municipality,Böhlen,Q10743,3,1,2,"town in the Free State of Saxony, Germany",,Q515|Q42744322,,Böhlen
+Dog Island,Dog Island,Q5288197,4,0,1,"island in Franklin County, Florida, United States",,Q23442,,Dog Island (Florida)
+Dog Island,Dog Island,Q1234607,4,0,1,island in New Zealand,Motu piu,Q23442,,Dog Island (New Zealand)
+Dog Island,Guemes Island,Q3458302,4,0,1,"one of the San Juan Islands in Skagit County, Washington, United States of America",Dog Island|Lawrence Island|Qweng7qwengíla7,Q23442,,Guemes Island
+Dog Island,Dog Island,Q555021,4,0,1,island in Gamibia,,Q162602,,"Dog Island, Gambia"
+Dog Island,Dog Island,Q21470858,4,0,1,island in Antarctica,,Q23442,,Dog Island (Antarctica)
+Dog Island,Psov Island,Q12136832,4,0,1,"island in Laptev Sea, Russia",Dog Island,Q23442,,
+Dog Island,Dog Island,Q2628897,4,0,1,island in Anguilla,,Q23442,,"Dog Island, Anguilla"
+Dog Island,Dog Island,Q31911398,4,0,1,"island in Saint Thomas, United States Virgin Islands","Dog Island, U.S. Virgin Islands",Q23442,,"Dog Island, U.S. Virgin Islands"
+Dog Island,Dog Island,Q5288199,4,0,1,"island in Qikiqtaaluk Region, Nunavut, Canada (lat 63.32, lon -68.20)",,Q23442,,Dog Island (Nunavut)
+Dog Island,Dog Island,Q22639136,4,0,1,"island in Alberta, Canada",,Q23442,,Dog Island (Alberta)
+Dog Island,North Bank Division,Q846161,4,0,2,region of the Gambia,,Q15646510,,North Bank Division
+Dog Island,island,Q23442,4,0,2,piece of sub-continental land completely surrounded by water,isle|islands,Q25894868,Q271669|Q205895|Q2221906|Q17334923,Island
+Dog Island,Island Records,Q190585,4,0,2,British-Jamaican record label,LC 0407|LC 00407|Island,Q18127,,Island Records
+Dog Island,Island,Q128651,4,0,2,"commune in Yonne, France",,Q484170,,"Island, Yonne"
+Dog Island,Island,Q23540774,4,0,2,2016 video game developed by Front Wing,,Q7889,,Island (video game)
+Dog Island,Island,Q36997410,4,0,2,family name,,Q101352,,
+Dog Island,Island,Q98413232,4,0,2,2002 video game,,Q7889,,
+Dog Island,Puerto Rico,Q1183,4,0,2,unincorporated territory of the United States of America,Free Associated State of Puerto Rico|Porto Rico|Territory of Puerto Rico|Commonwealth of Puerto Rico|Island of Enchantment|Borikén|Borinquen|Boriquén|Isle of Enchantment|Territory of Porto Rico,Q783733|Q462778|Q1048835|Q7252696|Q3502482|Q1352230|Q609591,,Puerto Rico
+Dog Island,Icelandic,Q294,4,0,2,North Germanic language mainly spoken in Iceland,Icelandic language|Íslenska|Iſlandic tongue,Q33742|Q1288568,Q1792570|Q106085,Icelandic language
+Dog Island,Ireland,Q22890,4,0,2,island in the North Atlantic Ocean,Airlan|Irland|Irlanda|Irlandia|Auld Sod|Irlande|Airlann|Mikra Britannia|Ireland (island)|Éire|Banba|Fódhla|Emerald Isle|Erin|Britannia Minor|Ivernia|Ierne|Island of Saints|Hibernia|Island of Ireland|isle of Ireland|Eire|Scotia Major,Q23442|Q3502482,,Ireland
+Dog Island,Isle of Wight,Q9679,4,0,2,"island, county and unitary authority area of England, United Kingdom",Wight|Iktis|Ouiktis|Wit|Wiht|I. Wight|I. of Wight|Island of Wight|Wight I.|Wight Island,Q23442|Q180673|Q1136601|Q2560047,,Isle of Wight
+Dog Island,dog,Q144,4,0,2,domesticated species of canid,domestic dog|domestic dogs|dogs,Q55983715|Q136772238,Q57814795|Q39201,Dog
+Dog Island,Canis familiaris,Q20717272,4,0,2,species of mammal,domestic dog|dog,Q16521,,Canis familiaris
+Dog Island,Dog River,Q5288219,4,0,2,"tributary of the Kaministiquia River in Ontario, Canada",,Q4022,,Dog River (Ontario)
+Dog Island,double bass,Q80019,4,0,2,acoustic stringed instrument of the violin family,string bass|upright bass|doghouse bass|contrabass|stand-up bass|bull fiddle|jazz bass|bass viol|bass (stringed instrument),Q110295396|Q810447,Q40125,Double bass
+Dog Island,Dog,Q125765072,4,0,2,song by C418,,Q105543609,,Dog (C418 song)
+Dog Island,sled dog racing,Q1968664,4,0,2,sport,sled dog sport|dog sled racing|dogsled racing,Q31629,Q18608406|Q57833661|Q204686,Sled dog racing
+Dog Island,Apocynaceae,Q173756,4,0,2,family of plants,dogbane family,Q16521,,Apocynaceae
+Dog Island,Dog,Q138054945,4,0,2,painting by Shigeru Aoki,,Q3305213,,
+Dog Island,Dog,Q135453531,4,0,2,2024 video game developed by Dog Inc.,,Q7889,,
+Dog Island,Dog,Q125765073,4,0,2,instrumental track by C418; 2011 studio recording,,Q55850643,,
+North Bank Division,North Bank Division,Q846161,4,1,1,region of the Gambia,,Q15646510,,North Bank Division
+North Bank Division,Dog Island,Q5288197,4,1,2,"island in Franklin County, Florida, United States",,Q23442,,Dog Island (Florida)
+North Bank Division,Dog Island,Q1234607,4,1,2,island in New Zealand,Motu piu,Q23442,,Dog Island (New Zealand)
+North Bank Division,Guemes Island,Q3458302,4,1,2,"one of the San Juan Islands in Skagit County, Washington, United States of America",Dog Island|Lawrence Island|Qweng7qwengíla7,Q23442,,Guemes Island
+North Bank Division,Dog Island,Q555021,4,1,2,island in Gamibia,,Q162602,,"Dog Island, Gambia"
+North Bank Division,Dog Island,Q21470858,4,1,2,island in Antarctica,,Q23442,,Dog Island (Antarctica)
+North Bank Division,Psov Island,Q12136832,4,1,2,"island in Laptev Sea, Russia",Dog Island,Q23442,,
+North Bank Division,Dog Island,Q2628897,4,1,2,island in Anguilla,,Q23442,,"Dog Island, Anguilla"
+North Bank Division,Dog Island,Q31911398,4,1,2,"island in Saint Thomas, United States Virgin Islands","Dog Island, U.S. Virgin Islands",Q23442,,"Dog Island, U.S. Virgin Islands"
+North Bank Division,Dog Island,Q5288199,4,1,2,"island in Qikiqtaaluk Region, Nunavut, Canada (lat 63.32, lon -68.20)",,Q23442,,Dog Island (Nunavut)
+North Bank Division,Dog Island,Q22639136,4,1,2,"island in Alberta, Canada",,Q23442,,Dog Island (Alberta)
+Herring Island,Herring Island,Q5744107,5,0,1,"in the Elk River, Maryland",,Q162602,,Herring Island (Elk River)
+Herring Island,Herring Island,Q3802752,5,0,1,island in Antarctica,,Q23442,,Herring Island
+Herring Island,Herring Island,Q5744104,5,0,1,"Island in Victoria, Australia",,Q162602,,Herring Island (Victoria)
+Herring Island,Herring Island,Q22619152,5,0,1,"island in Newfoundland and Labrador, Canada",,Q23442,,
+Herring Island,Herring Island,Q49640863,5,0,1,"island in Accomack County, Virginia, United States",,Q23442,,
+Herring Island,Herring Island,Q22619164,5,0,1,"island in Ontario, Canada",,Q23442,,
+Herring Island,Herring Island,Q22619170,5,0,1,"island in Prince Edward Island, Canada",,Q23442,,
+Herring Island,Herring Island,Q49640861,5,0,1,"island in Ocean County, New Jersey, United States of America",,Q23442,,
+Herring Island,Herring Islands,Q49640864,5,0,1,"island in Kenai Peninsula Borough, United States of America",,Q23442,,
+Herring Island,Herring Islands,Q22619182,5,0,1,,,Q1402592,,
+Herring Island,Maryland,Q1391,5,0,2,state of the United States of America,"State of Maryland|Maryland, United States|Md.|Old Line State|US-MD",Q35657,,Maryland
+Herring Island,University of Maryland,Q503415,5,0,2,"public research university in the city of College Park in Prince George's County, Maryland, USA","The University of Maryland|UM|UMD|UMCP|University of Maryland at College Park|University of Maryland, College Park|Maryland State College|umd.edu",Q62078547|Q615150|Q23002039|Q2085381,,"University of Maryland, College Park"
+Herring Island,Maryland,Q37452664,5,0,2,family name,,Q101352,,
+Herring Island,Maryland,Q110941697,5,0,2,given name,,Q202444,,
+Herring Island,Maryland railway station,Q2208884,5,0,2,"railway station in Newham, London, England, UK",Maryland Station|MYL,Q55488|Q4312270,,Maryland railway station
+Herring Island,University of Maryland Eastern Shore,Q49089,5,0,2,"historical black university located in Princess Anne, Maryland, United States",UMES|Maryland State College|umes.edu,Q3918|Q615150|Q1620945|Q23002039,,University of Maryland Eastern Shore
+Herring Island,Maryland,Q28162351,5,0,2,"human settlement in Bristol, Quebec, Canada","Maryland, Quebec",Q5084,,
+Herring Island,Maryland State Medical Journal,Q27711954,5,0,2,journal (1952–1984),Md State Med J,Q5633421,,
+Herring Island,Maryland Medical Journal,Q15761346,5,0,2,journal (1985–1999),"Maryland medical journal (1985)|Maryland medical journal : MMJ|MMJ|Maryland medical journal (Baltimore, Md. : 1985)|Md. Med. J.",Q5633421,,
+Herring Island,Maryland State Archives,Q17109505,5,0,2,central depository for government records of permanent value for the U.S. state of Maryland,MSA,Q166118|Q895526|Q134016111,,Maryland State Archives
+Herring Island,island,Q23442,5,0,2,piece of sub-continental land completely surrounded by water,isle|islands,Q25894868,Q271669|Q205895|Q2221906|Q17334923,Island
+Herring Island,Island Records,Q190585,5,0,2,British-Jamaican record label,LC 0407|LC 00407|Island,Q18127,,Island Records
+Herring Island,Island,Q128651,5,0,2,"commune in Yonne, France",,Q484170,,"Island, Yonne"
+Herring Island,Island,Q23540774,5,0,2,2016 video game developed by Front Wing,,Q7889,,Island (video game)
+Herring Island,Island,Q36997410,5,0,2,family name,,Q101352,,
+Herring Island,Island,Q98413232,5,0,2,2002 video game,,Q7889,,
+Herring Island,Puerto Rico,Q1183,5,0,2,unincorporated territory of the United States of America,Free Associated State of Puerto Rico|Porto Rico|Territory of Puerto Rico|Commonwealth of Puerto Rico|Island of Enchantment|Borikén|Borinquen|Boriquén|Isle of Enchantment|Territory of Porto Rico,Q783733|Q462778|Q1048835|Q7252696|Q3502482|Q1352230|Q609591,,Puerto Rico
+Herring Island,Icelandic,Q294,5,0,2,North Germanic language mainly spoken in Iceland,Icelandic language|Íslenska|Iſlandic tongue,Q33742|Q1288568,Q1792570|Q106085,Icelandic language
+Herring Island,Ireland,Q22890,5,0,2,island in the North Atlantic Ocean,Airlan|Irland|Irlanda|Irlandia|Auld Sod|Irlande|Airlann|Mikra Britannia|Ireland (island)|Éire|Banba|Fódhla|Emerald Isle|Erin|Britannia Minor|Ivernia|Ierne|Island of Saints|Hibernia|Island of Ireland|isle of Ireland|Eire|Scotia Major,Q23442|Q3502482,,Ireland
+Herring Island,Isle of Wight,Q9679,5,0,2,"island, county and unitary authority area of England, United Kingdom",Wight|Iktis|Ouiktis|Wit|Wiht|I. Wight|I. of Wight|Island of Wight|Wight I.|Wight Island,Q23442|Q180673|Q1136601|Q2560047,,Isle of Wight
+Maryland,Maryland,Q1391,5,1,1,state of the United States of America,"State of Maryland|Maryland, United States|Md.|Old Line State|US-MD",Q35657,,Maryland
+Maryland,University of Maryland,Q503415,5,1,1,"public research university in the city of College Park in Prince George's County, Maryland, USA","The University of Maryland|UM|UMD|UMCP|University of Maryland at College Park|University of Maryland, College Park|Maryland State College|umd.edu",Q62078547|Q615150|Q23002039|Q2085381,,"University of Maryland, College Park"
+Maryland,Maryland,Q37452664,5,1,1,family name,,Q101352,,
+Maryland,Maryland,Q110941697,5,1,1,given name,,Q202444,,
+Maryland,Maryland railway station,Q2208884,5,1,1,"railway station in Newham, London, England, UK",Maryland Station|MYL,Q55488|Q4312270,,Maryland railway station
+Maryland,University of Maryland Eastern Shore,Q49089,5,1,1,"historical black university located in Princess Anne, Maryland, United States",UMES|Maryland State College|umes.edu,Q3918|Q615150|Q1620945|Q23002039,,University of Maryland Eastern Shore
+Maryland,Maryland,Q28162351,5,1,1,"human settlement in Bristol, Quebec, Canada","Maryland, Quebec",Q5084,,
+Maryland,Maryland State Medical Journal,Q27711954,5,1,1,journal (1952–1984),Md State Med J,Q5633421,,
+Maryland,Maryland Medical Journal,Q15761346,5,1,1,journal (1985–1999),"Maryland medical journal (1985)|Maryland medical journal : MMJ|MMJ|Maryland medical journal (Baltimore, Md. : 1985)|Md. Med. J.",Q5633421,,
+Maryland,Maryland State Archives,Q17109505,5,1,1,central depository for government records of permanent value for the U.S. state of Maryland,MSA,Q166118|Q895526|Q134016111,,Maryland State Archives
+Maryland,Towson University,Q1474129,5,1,2,"university in Maryland, United States",Towson State College|Towson State University|Towson State|Maryland State Teachers College at Towson|Maryland State Normal School|towson.edu,Q3918|Q23002039,,Towson University
+Maryland,member of the Maryland House of Delegates,Q20064986,5,1,2,elected delegate of the Maryland House Delegates,Maryland House of Delegates member|Maryland State Delegate,Q4164871,Q1055894,
+Maryland,Maryland State Highway Administration,Q5203575,5,1,2,government highway agency of the State of Maryland,Maryland SHA|MD SHA|MDOT SHA|MDOT State Highway Administration|Maryland Department of Transportation State Highway Administration|MSHA|SHA|MDSHA,Q192350|Q134016111,,Maryland State Highway Administration
+Maryland,Maryland state highways,Q98596703,5,1,2,numbered system of highway routes in the U.S. state of Maryland,Maryland Routes|state highways in Maryland|Maryland State Routes|MD State Routes|state routes in MD|state routes in Maryland|MD Routes,Q25631158,,
+Maryland,member of the State Senate of Maryland,Q20064926,5,1,2,"state senator of Maryland, United States",Maryland State Senator|member of the Maryland Senate|member of the Maryland State Senate,Q4164871,Q7603534,
+Maryland,Salisbury University,Q7404818,5,1,2,"public university in Salisbury, Maryland, United States",SU|Salisbury|Salisbury State University|Maryland State Teachers College|Salisbury State|Salisbury State College|Maryland State Normal School|salisbury.edu,Q3918|Q23002039,,Salisbury University
+Herring Island,Herring Island,Q5744107,6,0,1,"in the Elk River, Maryland",,Q162602,,Herring Island (Elk River)
+Herring Island,Herring Island,Q3802752,6,0,1,island in Antarctica,,Q23442,,Herring Island
+Herring Island,Herring Island,Q5744104,6,0,1,"Island in Victoria, Australia",,Q162602,,Herring Island (Victoria)
+Herring Island,Herring Island,Q22619152,6,0,1,"island in Newfoundland and Labrador, Canada",,Q23442,,
+Herring Island,Herring Island,Q49640863,6,0,1,"island in Accomack County, Virginia, United States",,Q23442,,
+Herring Island,Herring Island,Q22619164,6,0,1,"island in Ontario, Canada",,Q23442,,
+Herring Island,Herring Island,Q22619170,6,0,1,"island in Prince Edward Island, Canada",,Q23442,,
+Herring Island,Herring Island,Q49640861,6,0,1,"island in Ocean County, New Jersey, United States of America",,Q23442,,
+Herring Island,Herring Islands,Q49640864,6,0,1,"island in Kenai Peninsula Borough, United States of America",,Q23442,,
+Herring Island,Herring Islands,Q22619182,6,0,1,,,Q1402592,,
+Herring Island,Victoria Island,Q158129,6,0,2,island in the Northwest Territories and Nunavut in Canada,,Q23442,,Victoria Island
+Herring Island,Victoria Island,Q2522772,6,0,2,"island in Lagos, Nigeria",,Q23442,,"Victoria Island, Lagos"
+Herring Island,Victoria Island,Q1276972,6,0,2,"island in Barents Sea, Russia",,Q23442,,Victoria Island (Russia)
+Herring Island,Victoria Island,Q11123433,6,0,2,island in Chile,,Q23442,,Victoria Island (Chile)
+Herring Island,Victoria Island,Q22420867,6,0,2,"island in Ottawa, Ontario, Canada",,Q23442,,
+Herring Island,Victoria Island,Q22420988,6,0,2,"island in Kenora District, Ontario, Canada",,Q23442,,
+Herring Island,Victoria Island,Q7926800,6,0,2,"island in San Joaquin County, California, United States",,Q23442,,Victoria Island (California)
+Herring Island,Victoria Island,Q22420828,6,0,2,"island in Muskoka District Municipality, Ontario, Canada",,Q23442,,
+Herring Island,Victoria Island,Q22420940,6,0,2,"island in Parry Sound District, Ontario, Canada (lat 46.20, lon -79.43)",,Q23442,,
+Herring Island,Victoria Island,Q22420808,6,0,2,"island in Haliburton County, Ontario, Canada",,Q23442,,
+Victoria,Victoria,Q590893,6,1,1,female given name,,Q11879590,,
+Victoria,Victoria,Q9439,6,1,1,Queen of the United Kingdom from 1837 to 1901 (1819-1901),"Victoria, Queen of Great Britain|Alexandrina Hanover|Queen Victoria, Queen of the United Kingdom|Queen of Great Britain Victoria|Victoria Alexandrina|Princess Victoria of Kent|Alexandrina Victoria von Hannover|Victoria Hanover|Queen Victoria",Q5,,Queen Victoria
+Victoria,Victoria,Q784496,6,1,1,"seat of Victoria County, Texas, United States","Victoria, Texas|Victoria, TX",Q1093829|Q62049,,"Victoria, Texas"
+Victoria,Victoria,Q36687,6,1,1,state of Australia,"VIC|Victoria, Australia|State of Victoria|State of VIC|Vic.|AU-VIC",Q5852411|Q1351282,,Victoria (state)
+Victoria,Victoria,Q308902,6,1,1,Roman goddess of victory,Winged Victory|Victory|Diva Victoria|Winged Nike,Q11688446|Q205985|Q122966226,,Victoria (mythology)
+Victoria,Victoria,Q7926540,6,1,1,genus of insects,,Q16521,,Victoria (moth)
+Victoria,Victoria,Q312194,6,1,1,genus of plants in the family Nymphaeaceae,,Q16521,,Victoria (plant)
+Victoria,Victoria,Q23831647,6,1,1,family name,,Q101352,,Victoria (surname)
+Victoria,Victoria,Q2132,6,1,1,"capital city of the province of British Columbia, Canada","Victoria, British Columbia|Victoria, BC|Victoria BC|Victoria, Canada|Victoria, B.C.|UN/LOCODE:CAVIC|Victoria (British Columbia)|Victoria Canada|Capital of British Columbia|Victoria, British Columbia, Canada|Victoria, BC, Canada",Q60458065|Q1549591,,"Victoria, British Columbia"
+Victoria,Victoria,Q2485287,6,1,1,"city in Buenos Aires, Argentina","Victoria, Buenos Aires",Q5770918,,"Victoria, Buenos Aires"
+Victoria,"Victoria, Australia - fuel theft on the increase",Q17653451,6,1,2,Wikinews article,,Q17633526,,
+Victoria,"Victoria, Australia Police investigate suspicious fire near rural town",Q17653467,6,1,2,Wikinews article,,Q17633526,,
+Victoria,Victoria station,Q3097975,6,1,2,"railway station in Victoria, Canada","Victoria, British Columbia railway station|Victoria railway station",Q55488,,Victoria station (British Columbia)
+Victoria,Victoria,Q7926508,6,1,2,"suburb of Gisborne, New Zealand","Victoria, New Zealand",Q188509,,"Victoria, Gisborne"
+Little Island,islet,Q207524,7,0,1,very small island,little island|small island,,Q23442,Islet
+Little Island,Little Island,Q135023990,7,0,1,2021 video game developed by Studio Nayuta,,Q7889,,
+Little Island,Little Island,Q6650450,7,0,1,"island in County Waterford, Ireland","Little Island, Waterford",Q23442,,"Little Island, Waterford"
+Little Island,Little Island,Q6650455,7,0,1,"island in District of Columbia, United States",,Q162602,,"Little Island (Washington, D.C.)"
+Little Island,Little Island,Q21889166,7,0,1,small island off Pinnaroo Point in Western Australia,,Q23442,,Little Island (Western Australia)
+Little Island,Little Island,Q6650458,7,0,1,"island in Tasmania, Australia",,Q23442,,Little Island (Tasmania)
+Little Island,Little Island,Q14918707,7,0,1,"civil parish in Munster, Ireland",Little Island,Q23442|Q3910694,,"Little Island, Cork"
+Little Island,Isle of the Senecas,Q48741654,7,0,1,"island in the Mohawk River in Schenectady County, New York, United States",Little Island|Seneca Island,Q23442|Q162602,,Isle of the Senecas
+Little Island,Little Island,Q32246522,7,0,1,island in New Zealand,,Q23442,,
+Little Island,The Little Island,Q7747628,7,0,1,1958 film by Richard Williams,Little Island,Q24862,,The Little Island (film)
+Wahkiakum County,Wahkiakum County,Q484015,7,1,1,"county in the state of Washington, United States","Wahkiakum County, Washington|Wahkiakum County, WA",Q13415369,,"Wahkiakum County, Washington"
+Wahkiakum County,Wahkiakum County ferry,Q7959804,7,1,1,ferry route between Oregon and Washington,Cathlamet-Westport Ferry,Q18984099,,Wahkiakum County ferry
+Wahkiakum County,"2020 COVID-19 pandemic in Wahkiakum County, Washington",Q94153854,7,1,1,"pandemic in Wahkiakum County, Washington","2020 coronavirus outbreak in Wahkiakum County, Washington|COVID-19 pandemic in Wahkiakum County, Washington|2020 Wahkiakum County, Washington COVID-19 pandemic|Wahkiakum County, Washington COVID-19 pandemic|2020 COVID pandemic in Wahkiakum County, Washington",Q3241045,,
+Wahkiakum County,Wahkiakum County Eagle,Q121222458,7,1,1,"Newspaper based in Cathlamet, Washington, United States",Skamokawa Eagle|The Eagle|The Lower Columbia Eagle,Q11032,,Wahkiakum County Eagle
+Wahkiakum County,Wahkiakum County,Q7959803,7,1,1,Wikimedia disambiguation page,,Q4167410,,Wahkiakum County
+Wahkiakum County,islet,Q207524,7,1,2,very small island,little island|small island,,Q23442,Islet
+Wahkiakum County,Little Island,Q135023990,7,1,2,2021 video game developed by Studio Nayuta,,Q7889,,
+Wahkiakum County,Little Island,Q6650450,7,1,2,"island in County Waterford, Ireland","Little Island, Waterford",Q23442,,"Little Island, Waterford"
+Wahkiakum County,Little Island,Q6650455,7,1,2,"island in District of Columbia, United States",,Q162602,,"Little Island (Washington, D.C.)"
+Wahkiakum County,Little Island,Q21889166,7,1,2,small island off Pinnaroo Point in Western Australia,,Q23442,,Little Island (Western Australia)
+Wahkiakum County,Little Island,Q6650458,7,1,2,"island in Tasmania, Australia",,Q23442,,Little Island (Tasmania)
+Wahkiakum County,Little Island,Q14918707,7,1,2,"civil parish in Munster, Ireland",Little Island,Q23442|Q3910694,,"Little Island, Cork"
+Wahkiakum County,Isle of the Senecas,Q48741654,7,1,2,"island in the Mohawk River in Schenectady County, New York, United States",Little Island|Seneca Island,Q23442|Q162602,,Isle of the Senecas
+Wahkiakum County,Little Island,Q32246522,7,1,2,island in New Zealand,,Q23442,,
+Wahkiakum County,The Little Island,Q7747628,7,1,2,1958 film by Richard Williams,Little Island,Q24862,,The Little Island (film)
+Annacis Island,Annacis Island,Q4767749,8,0,1,"island in British Columbia, Canada",,Q162602|Q23442,,Annacis Island
+Annacis Island,Annacis Island,Q61280766,8,0,1,"Meteorological Service of Canada's station for Annacis Island (MSC ID: 1100440), British-Columbia, Canada",,Q190107,,
+Annacis Island,river island,Q162602,8,0,2,landmass or fluvial landform within a river,fluvial island|delta island,,Q202199|Q23442,River island
+Annacis Island,Delta Island,Q5254670,8,0,2,island in Bermuda,"Delta Island, Bermuda",Q23442,,"Delta Island, Bermuda"
+Annacis Island,Delta Island,Q5254671,8,0,2,islands in Antarctica,,Q23442,,Delta Island
+Annacis Island,Delta Island,Q49636511,8,0,2,"island in Matanuska-Susitna Borough, United States of America",,Q23442,,
+Annacis Island,Delta Island,Q49636512,8,0,2,"island in Tillamook County, Oregon, United States of America",,Q23442,,
+Annacis Island,Delta Island,Q21943964,8,0,2,"island in Western Australia, Australia",,Q23442,,
+Annacis Island,Delta Island,Q22620934,8,0,2,"island in Manitoba, Canada",,Q23442,,
+Annacis Island,Delta Island,Q22620943,8,0,2,"island in Nunavut, Canada",,Q23442,,
+Annacis Island,Delta Islands,Q49636513,8,0,2,"island in Matanuska-Susitna Borough, United States of America",,Q23442,,
+Annacis Island,Delta Island,Q22932377,8,0,2,Wikimedia disambiguation page,,Q4167410,,
+Annacis Island,Delta State,Q503910,8,0,2,state in Nigeria,,Q465842,,Delta State
+Annacis Island,Delta,Q2082751,8,0,2,genus of hymenopterans,,Q16521,,Delta (wasp)
+Annacis Island,Delta Air Lines,Q188920,8,0,2,airline in the United States (1929–present),"DAL|Delta Air Lines, Inc.|Delta|DL|Delta Airlines",Q46970|Q4830453|Q891723,,Delta Air Lines
+Annacis Island,Delta,Q3705215,8,0,2,horizontally scrolling shooter computer game,Delta Patrol|Delta Charge,Q7889,,Delta (video game)
+Annacis Island,Delta,Q65101776,8,0,2,family name,,Q101352,,
+Annacis Island,Delta,Q15211901,8,0,2,"town in Mexicali Municipality, State of Baja California, Mexico",Estación Delta|Estacion Delta,Q20202352,,
+Annacis Island,D/d,Q9884,8,0,2,4th letter of the basic Latin alphabet,d|dee|Delta|ˈdiː|ᴅ|letter D|delta,Q19776628,Q19776628|Q3841820,D
+Annacis Island,Delta,Q112252142,8,0,2,given name,,Q202444,,
+Annacis Island,Delta,Q36942262,8,0,2,genus of insects,,Q16521,,
+Annacis Island,Delta,Q109677009,8,0,2,episode of Welcome to Night Vale,166 - Delta|Welcome to Night Vale - 166 - Delta,Q61855877,,
+Annacis Island,Annacis,Q116055064,8,0,2,"railway point in British Columbia, Canada",,Q88397339,,
+Annacis Island,Alex Fraser Bridge,Q4356863,8,0,2,bridge across the Fraser River in British Columbia,Annacis Bridge,Q537127|Q158555,,Alex Fraser Bridge
+Annacis Island,Annacis Channel,Q22422353,8,0,2,"watercourse in British Columbia, Canada",,Q355304,,
+Delta,Delta State,Q503910,8,1,1,state in Nigeria,,Q465842,,Delta State
+Delta,Delta,Q2082751,8,1,1,genus of hymenopterans,,Q16521,,Delta (wasp)
+Delta,Delta Air Lines,Q188920,8,1,1,airline in the United States (1929–present),"DAL|Delta Air Lines, Inc.|Delta|DL|Delta Airlines",Q46970|Q4830453|Q891723,,Delta Air Lines
+Delta,Delta,Q3705215,8,1,1,horizontally scrolling shooter computer game,Delta Patrol|Delta Charge,Q7889,,Delta (video game)
+Delta,Delta,Q65101776,8,1,1,family name,,Q101352,,
+Delta,Delta,Q15211901,8,1,1,"town in Mexicali Municipality, State of Baja California, Mexico",Estación Delta|Estacion Delta,Q20202352,,
+Delta,D/d,Q9884,8,1,1,4th letter of the basic Latin alphabet,d|dee|Delta|ˈdiː|ᴅ|letter D|delta,Q19776628,Q19776628|Q3841820,D
+Delta,Delta,Q112252142,8,1,1,given name,,Q202444,,
+Delta,Delta,Q36942262,8,1,1,genus of insects,,Q16521,,
+Delta,Delta,Q109677009,8,1,1,episode of Welcome to Night Vale,166 - Delta|Welcome to Night Vale - 166 - Delta,Q61855877,,
+Delta,Delta Airlines Flight 79,Q123335835,8,1,2,,,Q3149875,,
+Delta,Delta Airlines flight makes emergency landing,Q17661195,8,1,2,Wikinews article,,Q17633526,,
+Delta,Delta Airlines flight 2348,Q137260092,8,1,2,,,Q744913,,
+Delta,"Delta Airlines to develop network, clinic to keep health costs from soaring",Q74774928,8,1,2,scientific article published on 01 September 1993,,Q13442814,,
+Delta,Comair Flight 5191,Q1184775,8,1,2,aviation accident,Delta Connection Flight 5191,Q744913,,Comair Flight 5191
+Delta,Delta Air Lines Flight 1086,Q19569675,8,1,2,incident involving an aircraft veering off the runway at LaGuardia Airport,DL1086|DAL1086|DELTA 1086,Q744913,,Delta Air Lines Flight 1086
+Delta,Delta Force,Q4037172,8,1,2,2007 mobile game,Delta Force Mobile,Q7889,,
+Delta,Delta Force,Q126187152,8,1,2,1992 video game compilation,,Q16070115,,
+Delta,The Delta Force,Q971630,8,1,2,1986 film by Menahem Golan,Delta Force,Q11424,,The Delta Force
+Delta,1st Special Forces Operational Detachment-Delta,Q209114,8,1,2,United States Army special operations unit,Delta Force|Combat Applications Group (CAG)|SFOD-D (A),Q234497,,Delta Force
+Delta,Delta Force,Q4037173,8,1,2,video game series,,Q7058673,,Delta Force (series)
+Delta,Delta Force,Q1184892,8,1,2,1998 video game,,Q7889,,Delta Force (video game)
+Delta,Delta Force,Q123138197,8,1,2,2025 video game developed by TiMi,DFHO|DF: HO|Delta Force: Hawk Ops|Delta Force Hawk Ops|DF,Q7889,,Delta Force (2025 video game)
+Delta,Delta Force: Black Hawk Down,Q1324541,8,1,2,2003 first-person shooter video-game,,Q7889,,Delta Force: Black Hawk Down
+Delta,Delta Force,Q3461318,8,1,2,film series,,Q24856,,
+Delta,Delta Force: Urban Warfare,Q4037178,8,1,2,2002 video game,,Q7889,,Delta Force: Urban Warfare
+Delta,Delta State University,Q3887993,8,1,2,"regional public university located in Cleveland, Mississippi, United States",deltastate.edu,Q3918|Q23002039,,Delta State University
+Delta,"Delta State University, Abraka",Q13140628,8,1,2,"public state-owned university in Abraka town, in Ethiope-East Local Government Area, Delta State, Nigeria",DELSU,Q875538|Q15936437|Q163740,,"Delta State University, Abraka"
+Delta,Delta State Statesmen and Lady Statesmen,Q17507347,8,1,2,intercollegiate sports teams of Delta State University,Delta State University athletics,Q2367225,,Delta State Statesmen and Lady Statesmen
+Delta,Delta State University Teaching Hospital,Q104089551,8,1,2,tertiary Hospital in Delta State,DELSUTH,Q7705274|Q16917,,Delta State University Teaching Hospital
+Delta,"Delta State University of Science and Technology, Ozoro",Q104855273,8,1,2,"public university in Ozoro, Nigeria","DSPZ|Delta State Polytechnic, Ozoro|Delta State University of Science and Technology|Delta State Polytechnic",Q3918,Q875538,Delta State University of Science and Technology
+Delta,Delta State University Library,Q109269507,8,1,2,Academic Library in Nigeria,,Q856234,,
+Delta,Delta State University Official Bookstore,Q99473902,8,1,2,"bookshop in Cleveland, MS, United States of America",,Q200764,,
+Delta,Delta State University College of Medicine,Q99298817,8,1,2,medical school,,Q494230,,
+Delta,Delta State University - Oleh Campus,Q99285479,8,1,2,campus,,Q209465,,
+Delta,Delta State University - School of Nursing,Q101017524,8,1,2,nursing school,,Q446901,,
+Delta,Delta Regional Medical Center heliport,Q61674619,8,1,2,"heliport in Mississippi, United States",MS05,Q502074,,
+Delta,Delta County,Q312149,8,1,2,"county in Colorado, United States","Delta County, Colorado|Delta County, CO",Q13410403,,"Delta County, Colorado"
+Delta,Delta County,Q491857,8,1,2,"county in Michigan, United States","Delta County, Michigan|Delta County, MI",Q13410496,,"Delta County, Michigan"
+Delta,Delta County,Q109289,8,1,2,"county in Texas, United States","Delta County, Texas|Delta County, TX",Q11774097,,"Delta County, Texas"
+Delta,Delta County Public Library,Q104429802,8,1,2,"public library system in Delta County, Texas",,Q26271642,,
+Delta,Delta County Memorial Hospital,Q96376181,8,1,2,"hospital in Colorado, United States",,Q16917,,Delta County Memorial Hospital
+Delta,"2020 COVID-19 pandemic in Delta County, Michigan",Q94262155,8,1,2,"pandemic in Delta County, Michigan","2020 coronavirus outbreak in Delta County, Michigan|COVID-19 pandemic in Delta County, Michigan|2020 Delta County, Michigan COVID-19 pandemic|Delta County, Michigan COVID-19 pandemic|2020 COVID pandemic in Delta County, Michigan",Q3241045,,
+Delta,Delta County Independent,Q55665791,8,1,2,newspaper published in Delta,Delta Independent|The Delta Independent,Q11032,,
+Delta,"2020 COVID-19 pandemic in Delta County, Colorado",Q94289648,8,1,2,"pandemic in Delta County, Colorado","COVID-19 pandemic in Delta County, Colorado|2020 coronavirus outbreak in Delta County, Colorado|2020 Delta County, Colorado COVID-19 pandemic|Delta County, Colorado COVID-19 pandemic|2020 COVID pandemic in Delta County, Colorado",Q3241045,,
+Delta,Delta County Public Library District - Cedaredge Public Library,Q69780277,8,1,2,"public library in Cedaredge, Colorado, USA",Cedaredge Public Library,Q11396180|Q28564,,
+Delta,Delta County Colorado Democratic Party,Q99587361,8,1,2,political organization in U.S. state of Colorado,Delta County CO Democrats|deltadems.org/wp3|Delta County Democratic Party,Q7210356,,

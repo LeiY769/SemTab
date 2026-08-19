@@ -1,0 +1,51 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bundesstraße 221,Bundesstraße 221,Q878679,0,0,1,federal highway in Germany,B 221|Bundesstrasse 221,Q561431,,
+Bundesstraße 506,Bundesstraße 506,Q1007248,1,0,1,federal highway in Germany,B 506|Bundesstrasse 506,Q561431|Q34442,,
+Bundesstraße 326,Bundesstraße 326,Q1007041,2,0,1,federal highway in Germany,B 326|Bundesstrasse 326,Q561431,,Bundesstraße 326
+Bundesstraße 272,Bundesstraße 272,Q1006952,3,0,1,federal highway in Germany,B 272|Bundesstrasse 272,Q561431,,
+Bundesstraße 87,Bundesstraße 87,Q52738,4,0,1,federal highway in Germany,B 87|Bundesstrasse 87,Q561431,,Bundesstraße 87
+Bundesstraße 87,Bundesstraße 87n,Q1007291,4,0,1,federal highway in Germany,B 87n|Bundesstrasse 87n,Q561431|Q34442|Q811683|Q64728694,,
+Bundesstraße 87,Bundesstraße 87,Q101561499,4,0,1,"street in Schlieben, Brandenburg, Germany",,Q79007,,
+Bundesstraße 31a,Bundesstraße 31a,Q1007034,5,0,1,federal highway in Germany,B 31a|Bundesstrasse 31a,Q561431|Q34442|Q3048788|Q1302778,,
+Bundesstraße 31a,Bundesstraße 31,Q34520,5,0,2,federal highway in Germany,B 31|Bundesstrasse 31,Q561431,,Bundesstraße 31
+Bundesstraße 31a,Bundesstraße 317,Q881530,5,0,2,federal highway in Germany,,Q561431,,
+Bundesstraße 31a,Bundesstraße 315,Q1007031,5,0,2,federal highway in Germany,B 315|Bundesstrasse 315,Q561431,,
+Bundesstraße 31a,Bundesstraße 313,Q1007030,5,0,2,federal highway in Germany,B 313|Bundesstrasse 313,Q561431,,
+Bundesstraße 31a,Bundesstraße 312,Q1007027,5,0,2,federal highway in Germany,B 312|Bundesstrasse 312,Q561431,,
+Bundesstraße 31a,Bundesstraße 311,Q730676,5,0,2,federal highway in Germany,B 311|Bundesstrasse 311,Q561431,,
+Bundesstraße 31a,Bundesstraße 316,Q1007033,5,0,2,federal highway in Germany,B 316|Bundesstrasse 316,Q561431,,
+Bundesstraße 31a,Bundesstraße 310,Q1007026,5,0,2,federal highway in Germany,B 310|Bundesstrasse 310,Q561431,,
+Bundesstraße 31a,Bundesstraße 314,Q1007029,5,0,2,federal highway in Germany,B 314|Bundesstrasse 314,Q561431,,
+Bundesstraße 31a,Bundesstraße 318,Q277634,5,0,2,federal highway in Germany,B 318|Bundesstrasse 318,Q561431,,
+Bundesstraße 242,Bundesstraße 242,Q895554,6,0,1,federal highway in Germany,B 242|Bundesstrasse 242,Q561431,,Bundesstraße 242
+Bundesstraße 321,Bundesstraße 321,Q880865,7,0,1,federal highway in Germany,B 321|Bundesstrasse 321,Q561431,,
+Bundesstraße 297,Bundesstraße 297,Q1007005,8,0,1,federal highway in Germany,B 297|Bundesstrasse 297,Q561431,,
+Bundesstraße 493,Bundesstraße 493,Q1007231,9,0,1,federal highway in Germany,B 493|Bundesstrasse 493,Q561431,,
+Bundesstraße 279,Bundesstraße 279,Q1006975,10,0,1,federal highway in Germany,B 279|Bundesstrasse 279,Q561431,,
+Bundesstraße 89,Bundesstraße 89,Q52741,11,0,1,federal highway in Germany,B 89|Bundesstrasse 89,Q561431,,
+Bundesstraße 258,Bundesstraße 258,Q1006909,12,0,1,federal highway in Germany,,Q561431,,Bundesstraße 258
+Bundesstraße 414,Bundesstraße 414,Q1007085,13,0,1,federal highway in Germany,B 414|Bundesstrasse 414,Q561431,,
+Bundesstraße 20,Bundesstraße 20,Q34488,14,0,1,federal highway in Germany,B 20|Bundesstrasse 20,Q561431,,
+Bundesstraße 20,Bundesstraße 206,Q55868,14,0,1,federal highway in Germany,B 206|Bundesstrasse 206,Q561431,,Bundesstraße 206
+Bundesstraße 20,Bundesstraße 209,Q55871,14,0,1,federal highway in Germany,B 209|Bundesstrasse 209,Q561431,,Bundesstraße 209
+Bundesstraße 20,Bundesstraße 207,Q55869,14,0,1,federal highway in Germany,B 207|Bundesstrasse 207,Q561431,,
+Bundesstraße 20,Bundesstraße 202,Q55864,14,0,1,federal highway in Germany,B 202|Bundesstrasse 202,Q561431,,Bundesstraße 202
+Bundesstraße 20,Bundesstraße 205,Q55867,14,0,1,federal highway in Germany,B 205|Bundesstrasse 205,Q561431,,Bundesstraße 205
+Bundesstraße 20,Bundesstraße 208,Q55870,14,0,1,federal highway in Germany,B 208|Bundesstrasse 208,Q561431,,
+Bundesstraße 20,Bundesstraße 203,Q55865,14,0,1,federal highway in Germany,B 203|Bundesstrasse 203,Q561431,,Bundesstraße 203
+Bundesstraße 20,Bundesstraße 201,Q55863,14,0,1,federal highway in Germany,B 201|Bundesstrasse 201,Q561431,,Bundesstraße 201
+Bundesstraße 20,Bundesstraße 200,Q52813,14,0,1,federal highway in Germany,B 200|Bundesstrasse 200,Q561431,,Bundesstraße 200
+Bundesstraße 4 R,Bundesstraße 4 R,Q34450,15,0,1,federal highway in Germany,B 4 R|Bundesstrasse 4 R,Q561431,,
+Bundesstraße 4 R,Bundesstraße 4,Q34446,15,0,2,federal highway in Germany,B 4|Bundesstrasse 4,Q561431,,Bundesstraße 4
+Bundesstraße 4 R,Bundesstraße 41,Q34548,15,0,2,federal highway in Germany,,Q561431,,
+Bundesstraße 4 R,Bundesstraße 49,Q34571,15,0,2,federal highway in Germany,B 49|Bundesstrasse 49,Q561431,,Bundesstraße 49
+Bundesstraße 4 R,Bundesstraße 466,Q1007186,15,0,2,federal highway in Germany,B 466|Bundesstrasse 466,Q561431,,
+Bundesstraße 4 R,Bundesstraße 42,Q34549,15,0,2,federal highway in Germany,B 42|Bundesstrasse 42,Q561431,,
+Bundesstraße 4 R,Bundesstraße 44,Q34556,15,0,2,federal highway in Germany,B 44|Bundesstrasse 44,Q561431,,
+Bundesstraße 4 R,Bundesstraße 440,Q881504,15,0,2,federal highway in Germany,B 440|Bundesstrasse 440,Q561431,,Bundesstraße 440
+Bundesstraße 4 R,Bundesstraße 498,Q948190,15,0,2,federal highway in Germany,B 498|Bundesstrasse 498,Q561431|Q34442,,
+Bundesstraße 4 R,Bundesstraße 48,Q34566,15,0,2,federal highway in Germany,B 48|Bundesstrasse 48,Q561431,,
+Bundesstraße 4 R,Bundesstraße 40,Q34546,15,0,2,federal highway in Germany,B 40|Bundesstrasse 40,Q561431,,
+Bundesstraße 4 R,Bundesstraße R,Q1007304,15,0,2,federal highway in Germany,B R|Bundesstrasse R,Q561431|Q55097207|Q34442,,
+Bundesstraße 267,Bundesstraße 267,Q1006922,16,0,1,federal highway in Germany,B 267|Bundesstrasse 267,Q561431,,
+Bundesstraße 27a,Bundesstraße 27a,Q1006969,17,0,1,federal highway in Germany,B 27a|Bundesstrasse 27a,Q561431|Q34442,,

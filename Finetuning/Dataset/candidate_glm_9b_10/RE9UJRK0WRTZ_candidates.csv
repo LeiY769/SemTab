@@ -1,0 +1,13 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+VDB 130,VDB 130,Q16620476,0,0,1,,,Q203958,,
+HD 182918,HD 182918,Q16620473,1,0,1,,,Q203958|Q523|Q67206691,,
+HD 182918,star,Q523,1,0,2,astronomical object consisting of a luminous spheroid of plasma held together by its own gravity,celestial star|stars|celestial stars|the stars|stellar,Q17444909,Q6999|Q1027098|Q1146001,Star
+HD 182918,Star Trek,Q1092,1,0,2,science fiction media franchise,Star Trek franchise|StarTrek,Q196600,,Star Trek
+HD 182918,Star,Q37529922,1,0,2,family name,,Q101352,,
+HD 182918,Star Wars,Q462,1,0,2,epic space opera multimedia franchise created by George Lucas,,Q196600|Q431289|Q130371093,,Star Wars
+HD 182918,Star,Q381936,1,0,2,international racing sailing class,,Q106179098|Q3511280,Q474161,Star (keelboat)
+HD 182918,celebrity,Q211236,1,0,2,prominent person who commands some degree of public fascination and appears in the media,famous person|prominent person|famous persons|celebrities|public figures|star|icon,Q12737077|Q214339,Q215627,Celebrity
+HD 182918,STAR,Q3480422,1,0,2,"public transport network in Rennes, France",,Q18325841,,
+HD 182918,Starnberg,Q61936,1,0,2,"city in Bavaria, Germany",,Q134626|Q42744322,,Starnberg
+HD 182918,Star TV,Q2067812,1,0,2,Turkey-based cable television channel,Magic Box|Star Magic Box,Q1616075,,Star TV (Turkey)
+HD 182918,Starz Entertainment,Q515869,1,0,2,Canadian-American entertainment company,Lions Gate Entertainment Corporation|Lionsgate,Q891723|Q4830453|Q6881511,,Starz Entertainment

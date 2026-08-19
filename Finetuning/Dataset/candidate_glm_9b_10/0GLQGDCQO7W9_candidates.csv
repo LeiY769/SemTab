@@ -1,0 +1,49 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Argus-Courier,Argus-Courier,Q55665642,0,0,1,newspaper published in Petaluma,Petaluma Argus-Courier|Petaluma Argus|Petaluma Courier|The Petaluma Courier,Q11032,,Argus-Courier
+Argus-Courier,United Parcel Service,Q155026,0,0,2,American international package delivery company,"United Parcel Service Inc.|United Parcel Service, Inc, UPS|UNITED PARCEL SERVICE OF AMERICA, INC. (Atlanta, GA)|Merchants Parcel Delivery|American Messenger Company",Q4830453|Q891723,,United Parcel Service
+Argus-Courier,UNITED PARCEL SERVICE CZECH REPUBLIC,Q58195185,0,0,2,Czech company,"UNITED PARCEL SERVICE CZECH REPUBLIC, s.r.o.",Q4830453|Q6881511,,
+Argus-Courier,United Parcel Service (United Kingdom),Q64143215,0,0,2,"company in Feltham, United Kingdom",UPS,Q4830453,,
+Argus-Courier,United Parcel Service strike of 1997,Q24525568,0,0,2,1997 strike in the United States,,Q49776,,1997 United Parcel Service strike
+Argus-Courier,United Parcel Service Fiftieth Anniversary Medal (reverse),Q122933711,0,0,2,brass medal by Anthony de Francisci,,Q860861|Q131647,,
+Argus-Courier,United Parcel Service Rulemaking Case Files (NAID 7533308),Q66153141,0,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Argus-Courier,United Parcel Service Fiftieth Anniversary Medal (obverse),Q122933710,0,0,2,brass medal by Anthony de Francisci,,Q860861|Q131647,,
+Argus-Courier,United Parcel Service Canada Ltd. v. Canada,Q125276081,0,0,2,case from the Supreme Court of Canada,,Q19930933,,
+Argus-Courier,"United Parcel Service, Inc., Petitioner v. William Mitchell [Case 80-169] / Connecticut Board of Pardons, et al., Petitioners v. David Dumschat, et al. [Case 79-1997] / Middlesex County Sewerage Authority, et al., Petitioners v. N (NAID 102048727)",Q67477214,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Argus-Courier,United Parcel Service Veba Ups Health And Welfare Plan,Q130894833,0,0,2,nonprofit organization from Georgia,,Q163740,,
+Argus-Courier,FedEx,Q459477,0,0,2,American multinational delivery services company,"FedEx Corporation|FEDEX CORPORATE SERVICES, INC. (Collierville, TN)",Q4830453|Q891723|Q1447463,,FedEx
+Argus-Courier,FedEx Express,Q782557,0,0,2,"cargo airline based in Memphis, Tennessee, United States",Fed EX Express|Fed Ex Air|Fedex air|Fed Ex Express Air|FX|FDX|FEDEX,Q46970|Q1057026,,FedEx Express
+Argus-Courier,FedExForum,Q641212,0,0,2,"multi-purpose arena in Memphis, Tennessee, United States",FedEx Forum|Fed Ex Forum,Q483110,,FedExForum
+Argus-Courier,NASCAR Cup Series at Dover Motor Speedway,Q827572,0,0,2,"annual auto race at Dover, USA",Autism Speaks 400|Best Buy 400|Fedex 400|AAA 400 Drive for Autism|Gander RV 400|Drydene 400|DuraMAX Drydene 400|Budweiser 500|Autotrader EchoPark Automotive 400|Würth 400,Q18608583,Q5393774,NASCAR Cup Series at Dover Motor Speedway
+Argus-Courier,Northwest Stadium,Q583085,0,0,2,"stadium located in Maryland, U.S.",Jack Kent Cooke Stadium|FedEx Field|JKC Stadium|FedExField|Commanders Field,Q1049757|Q483110,,Northwest Stadium
+Argus-Courier,Roger Federer,Q1426,0,0,2,Swiss tennis player (born 1981),,Q5,,Roger Federer
+Argus-Courier,Fedexia,Q2849581,0,0,2,extinct genus of temnospondyl,,Q23038290,,Fedexia
+Argus-Courier,FedEx Express Flight 14,Q5439889,0,0,2,scheduled cargo flight,FX14|FDX14|FEDEX 14,Q744913,,FedEx Express Flight 14
+Argus-Courier,FedEx Ground,Q5439886,0,0,2,FedEx subsidiary,,Q4830453,,FedEx Ground
+Argus-Courier,FedEx Cup,Q1399835,0,0,2,championship trophy for the PGA Tour,,,Q2990946,FedEx Cup
+Argus-Courier,DHL,Q489815,0,0,2,German logistics company and division of Deutsche Post,"Dalsey, Hillblom & Lynn|DHL Express|DHL International GmbH",Q1529128|Q4830453|Q783794|Q6881511,,DHL
+Argus-Courier,DHL Express (Czech Republic),Q58206740,0,0,2,Czech company,DHL Express (Czech Republic) s.r.o.|DHL Ceska republika,Q4830453|Q6881511,,
+Argus-Courier,DHL Express Latvia,Q127578904,0,0,2,company based in Latvia,,Q3778211|Q4830453,,
+Argus-Courier,DHL Express Magyarország Kft.,Q131712157,0,0,2,parcel shipping company,,Q6881511,,
+Argus-Courier,DHL Express Germany,Q113578469,0,0,2,German subsidiary of DHL,DHL Express Germany GmbH|DHL Express Betriebs GmbH|Deutsche Post Express GmbH|Deutsche Post Operations Express GmbH|DHL Express (Germany) GmbH,Q4830453,,
+Argus-Courier,DHL-kuriren,Q79010952,0,0,2,Swedish periodical,,Q1002697,,
+Heggedal Post,Heggedal Post,Q19373911,1,0,1,Norwegian local newspaper,Heggedalsposten,Q11032,,
+Heggedal Post,Heggedal,Q39999984,1,0,2,family name,,Q101352,,
+Heggedal Post,Heggedal,Q6516549,1,0,2,"village in Asker municipality, Norway",,Q486972|Q15092344,,Heggedal
+Heggedal Post,Heggedal station,Q2160599,1,0,2,"railway station in Asker, Norway",,Q55488,,Heggedal Station
+Heggedal Post,Heggedal,Q35512859,1,0,2,,,Q39816,,
+Heggedal Post,Heggedal Church,Q7591131,1,0,2,"church in Asker, Akershus, Norway",,Q16970|Q2065736,,
+Heggedal Post,Heggedalen,Q108075387,1,0,2,protected area in Norway,,Q179049,,
+Heggedal Post,Heggedalen,Q35513082,1,0,2,,,Q39816,,
+Heggedal Post,Heggedalsmoen,Q34883426,1,0,2,"glacially deposited plain in Sør-Varanger municipality, Norway",,Q55840778,,
+Heggedal Post,Heggedalen,Q35513047,1,0,2,,,Q39816,,
+Heggedal Post,Heggedalen,Q35513129,1,0,2,,,Q39816,,
+Heggedal Post,post office,Q35054,1,0,2,customer service facility of a postal system,mail collection office,Q134496690,Q182060|Q1880737|Q13226383|Q41176,Post office
+Heggedal Post,India Post,Q3519720,1,0,2,government-operated postal system in India,India Posts|Indian Post Office|Department of Posts|Indian Post and Telegraph Department|Post Office of India|Indian postal department,Q327333|Q1529128|Q4830453,,India Post
+Heggedal Post,post office box,Q1162282,1,0,2,uniquely addressable lockable box located on the premises of a post office station,Post Office box|PO box|Postal Box|post-office box|P. O. box|P.O. box,,Q319608|Q1195470|Q13553598|Q5254083,Post office box
+Heggedal Post,Post Office,Q2290467,1,0,2,novel by Charles Bukowski,,Q7725634,,Post Office (novel)
+Heggedal Post,Dak Ghar,Q7757862,1,0,2,play by Rabindranath Tagore,Ḍākaghara|Dakghar|Post Office|The Post Office,Q7725634,,The Post Office (play)
+Heggedal Post,Post Office,Q114510446,1,0,2,episode of The Mr. Men Show (S2 E31),,Q21191270,,
+Heggedal Post,Post Office,Q7233674,1,0,2,kissing game,,Q1150958,,Post office (game)
+Heggedal Post,Post Office,Q55028006,1,0,2,"post office in Clonakilty, County Cork, Ireland",,Q35054,,
+Heggedal Post,Post office,Q50375342,1,0,2,painting by Chigusa Kitani,,Q3305213,,
+Heggedal Post,Post Office,Q101189747,1,0,2,"electoral ward in Meenadom Grama panchayat, Kerala, India",Post Office ward,Q1195098,,

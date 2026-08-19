@@ -1,0 +1,10 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+A27 road,A27 road,Q4649079,0,0,1,major road in southern England,A27,Q18019452,,A27 road
+A27 road,A27 road,Q1313881,0,0,1,road in Kazakhstan,,Q34442,,A27 highway (Kazakhstan)
+A27 road,A27 road,Q89040616,0,0,1,road on the Isle of Man,,Q34442,,
+A27 road,A27 road,Q137861534,0,0,1,Road in Northern Ireland,,Q34442,,
+A26 road,A26 road,Q4649072,1,0,1,road in England,A26,Q18019452,,A26 road
+A26 road,A26 road,Q4649073,1,0,1,road in Northern Ireland,,Q34442,,A26 road (Northern Ireland)
+A26 road,A26 road,Q1457605,1,0,1,road in Kazakhstan,,Q34442,,
+A26 road,A26 road,Q138567314,1,0,1,road on the Isle of Man,,Q34442,,
+A26 road,A26 highway,Q4649074,1,0,2,road in Sri Lanka,,Q34442,,A26 highway (Sri Lanka)

@@ -1,0 +1,52 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Aub,American University of Beirut,Q469482,0,0,1,private university in Lebanon,AUB|Syrian Protestant College|American University in Beirut,Q902104,,American University of Beirut
+Aub,Auburn University,Q540672,0,0,1,"public university in Auburn, Alabama, United States",AU|AUM|Auburn College|Alabama Polytechnic Institute|auburn.edu,Q3918|Q615150|Q23002039,,Auburn University
+Aub,Aub,Q98456996,0,0,1,family name,,Q101352,,
+Aub,Aubervilliers,Q205632,0,0,1,"French commune in Seine-Saint-Denis, Île-de-France",Auber,Q484170,,Aubervilliers
+Aub,Aub,Q278783,0,0,1,urban municipality of Germany,,Q42744322,,Aub
+Aub,Aubagne,Q184047,0,0,1,"French commune in Bouches-du-Rhône, Provence-Alpes-Côte d'Azur",Aubanha,Q484170,,Aubagne
+Aub,Aubenas,Q211121,0,0,1,"commune in Ardèche, France",,Q484170,,Aubenas
+Aub,Aubrey Brown,Q100250007,0,0,1,artist,Aubrey J. Brown|AUB,Q5,,
+Aub,Aubrey,Q19672745,0,0,1,unisex given name,Aubrey (given name)|Aubrey (first name),Q3409032,,
+Aub,Aubusson,Q217161,0,0,1,"commune in Creuse, France",,Q484170,,"Aubusson, Creuse"
+Aub,Auberon,Q21396345,0,0,2,male given name,Auberon (first name)|Auberon (given name),Q12308941,,
+Aub,Oberon,Q1139234,0,0,2,king of the fairies in medieval and Renaissance literature,Auberon,Q4271324|Q3375722,,Oberon
+Aub,Auberon Herbert,Q2056806,0,0,2,British politician (1838–1906),Auberon Edward William Molyneux Herbert|the Honorable Auberon Herbert,Q5,,Auberon Herbert
+Aub,Auberon Waugh,Q2870568,0,0,2,English author,Auberon Alexander Waugh,Q5,,Auberon Waugh
+Aub,Auberon,Q4819034,0,0,2,King of Faerie in the DC comic series The Sandman and The Books of Magic,,Q1114461|Q30318131,,Auberon (comics)
+Aub,Albero I of Louvain,Q708191,0,0,2,Roman Catholic bishop,Adalberon|Auberon de Louvain,Q5,,Albero I of Louvain
+Aub,Auberon,Q139790878,0,0,2,novel by Blaze Ward,,Q7725634,,
+Aub,"Auberon Herbert, 9th Baron Lucas",Q4819037,0,0,2,British politician,"Auberon Thomas Herbert, 9th Baron Lucas of Crudwell|Capt. Auberon Thomas Herbert",Q5,,"Auberon Herbert, 9th Baron Lucas"
+Aub,Auberon Duckworth,Q75657842,0,0,2,(1907-1987),Captain Auberon Charles Alan Campbell Duckworth|Captain Auberon Duckworth|Auberon Charles Alan Campbell Duckworth,Q5,,
+Aub,Auberon Kennard,Q75602209,0,0,2,(1870-1951),Auberon Claud Hegan Kennard,Q5,,
+Aub,Auberon Waugh,Q76228697,0,0,2,(born 1998),Auberon Augustus Ichabod Waugh,Q5,,
+Yumansikt,Yumansikt,Q2998892,1,0,1,"human settlement in Sysolsky District, Komi Republic, Russia",,Q5084,,
+Semyonovo,Semyonovo,Q1052565,2,0,1,"human settlement in Baymaksky District, Republic of Bashkortostan, Russia",,Q5084,,Semyonovo
+Semyonovo,Semyonovo,Q16022816,2,0,1,"human settlement in Pudozhsky District, Republic of Karelia, Russia",,Q5084,,
+Semyonovo,Semyonovo,Q12151968,2,0,1,"human settlement in Boksitogorsky District, Leningrad Oblast, Russia",,Q5084,,
+Semyonovo,Semyonovo,Q4415945,2,0,1,village in Crimea,,Q532,,
+Semyonovo,"Semyonovo, Shuysky District",Q20637746,2,0,1,"human settlement in Shuysky District, Ivanovo Oblast, Russia",,Q5084,,"Semyonovo, Shuysky District"
+Semyonovo,Semyonovo-Krasilovo,Q19907601,2,0,1,"human settlement in Kytmanovsky District, Altai Krai, Russia",,Q532,,Semyonovo-Krasilovo
+Semyonovo,"Semyonovo, Arzamassky District",Q18800492,2,0,1,"village in Arzamassky District, Russia",,Q532,,
+"Filippovo, Safonovsky District","Filippovo, Safonovsky District",Q576080,3,0,1,"human settlement in Safonovsky District, Smolensk Oblast, Russia",,Q5084,,
+"Filippovo, Safonovsky District",Filippovo,Q4484139,3,0,2,"human settlement in Kharovsky District, Vologda Oblast, Russia",,Q5084,,"Filippovo, Kharovsky District, Vologda Oblast"
+"Filippovo, Safonovsky District",Filippovo,Q4484135,3,0,2,"human settlement in Yurovsky municipality, Gryazovetsky District, Vologda Oblast, Russia",,Q5084,,"Filippovo, Gryazovetsky District, Vologda Oblast"
+"Filippovo, Safonovsky District",Filippovo,Q4484133,3,0,2,"human settlement in Vashkinsky District, Vologda Oblast, Russia",,Q5084,,Filippovo
+"Filippovo, Safonovsky District",Filippovo,Q13636531,3,0,2,"human settlement in Buturlinsky District, Nizhny Novgorod Oblast, Russia",,Q5084,,
+"Filippovo, Safonovsky District",Filippovo,Q21673919,3,0,2,"human settlement in Bryansk Oblast, Russia",,Q5084,,
+"Filippovo, Safonovsky District",Filippovo,Q19720277,3,0,2,"human settlement in Ust-Tsilemsky District, Komi Republic, Russia",,Q5084,,
+"Filippovo, Safonovsky District","Filippovo, Belgorod Oblast",Q21344453,3,0,2,"human settlement in Valuysky District, Belgorod Oblast, Russia",,Q532,,"Filippovo, Belgorod Oblast"
+"Filippovo, Safonovsky District","Filippovo, Nikolsky District, Vologda Oblast",Q13663917,3,0,2,"human settlement in Nikolsky District, Vologda Oblast, Russia",,Q5084,,"Filippovo, Nikolsky District, Vologda Oblast"
+"Filippovo, Safonovsky District","Filippovo, Cherepovetsky District, Vologda Oblast",Q4484141,3,0,2,"human settlement in Voskresenskoe, Cherepovetsky District, Vologda Oblast, Russia",,Q5084,,"Filippovo, Cherepovetsky District, Vologda Oblast"
+"Filippovo, Safonovsky District",Safonovsky District,Q2218153,3,0,2,"district in Smolensk Oblast, Russia",,Q2198484,,Safonovsky District
+Yaltaran,Yaltaran,Q1064588,4,0,1,"human settlement in Ishimbaysky District, Republic of Bashkortostan, Russia",,Q5084|Q532,,Yaltaran
+Varyaz,Varyaz,Q1057958,5,0,1,"human settlement in Republic of Bashkortostan, Russia",,Q5084,,Varyaz
+Varyaz,Varyazh,Q4104145,5,0,1,"river in the Republic of Bashkortostan, Russia, flows into the Gareyka",,Q4022,,
+Varyaz,Varezhanka,Q73562,5,0,1,"river in Ukraine and Poland, a tributary of the Bug river",Varyazhanka|Warężanka|Młyński Potok|Varenzhanka,Q4022,,
+Varyaz,Varyazhsky,Q28667007,5,0,1,"stream in Murmansk Oblast, Russia",,Q47521,,
+Varyaz,Varyazh,Q36391224,5,0,1,"river in the Republic of Bashkortostan, Russia (Geonames Id = 8305220)",,Q4022,,
+Varyaz,"Varyazhskaya street 14, Staraya Ladoga",Q107133959,5,0,1,building in Russia,,Q2319498|Q41176,,
+Varyaz,"Varyazhskaya street 6a, Staraya Ladoga",Q107133965,5,0,1,building in Russia,,Q2319498|Q41176,,
+Varyaz,Varyazh,Q35399285,5,0,1,"stream in Perm Krai, Russia",,Q47521,,
+Varyaz,"Varyazhskaya street 9, Staraya Ladoga",Q107133969,5,0,1,building in Russia,,Q2319498|Q41176,,
+Varyaz,Variazh,Q994034,5,0,1,"village in Sokal Raion, Lviv Oblast, Ukraine",,Q21672098,,Variazh

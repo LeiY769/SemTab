@@ -1,0 +1,583 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Riggin Township,Riggin Township,Q525724,0,0,1,"township in Benson County, North Dakota, United States","Riggin Township, Benson County, North Dakota",Q6643834,,"Riggin Township, Benson County, North Dakota"
+Benson County,Benson County,Q28292,0,1,1,"county in North Dakota, United States","Benson County, North Dakota|Benson County, ND",Q12178655,,"Benson County, North Dakota"
+Benson County,"2020 COVID-19 pandemic in Benson County, North Dakota",Q94270492,0,1,1,"pandemic in Benson County, North Dakota","2020 coronavirus outbreak in Benson County, North Dakota|COVID-19 pandemic in Benson County, North Dakota|2020 Benson County, North Dakota COVID-19 pandemic|Benson County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Benson County, North Dakota",Q3241045,,
+Benson County,Benson County Courthouse,Q4890249,0,1,1,"county courthouse in Minnewaukan, United States of America",,Q64037785,,Benson County Courthouse
+Benson County,Benson County Waterfowl Production Area,Q49474403,0,1,1,,,Q7974063,,
+Benson County,Riggin Township,Q525724,0,1,2,"township in Benson County, North Dakota, United States","Riggin Township, Benson County, North Dakota",Q6643834,,"Riggin Township, Benson County, North Dakota"
+Acton Township,Acton Township,Q1896092,1,0,1,"township in Meeker County, Minnesota",,Q42211429,,"Acton Township, Meeker County, Minnesota"
+Acton Township,Acton Township,Q4677696,1,0,1,"township in Walsh County, North Dakota","Acton Township, Walsh County, North Dakota",Q6643834,,"Acton Township, Walsh County, North Dakota"
+Acton Township,Acton,Q29167364,1,0,1,"human settlement in Saint-Théodore-d'Acton, Quebec, Canada",Acton Township,Q23019040,,
+Acton Township,Acton Township,Q344456,1,0,1,Wikimedia disambiguation page,,Q4167410,,Acton Township
+Acton Township,Walsh County,Q28286,1,0,2,"county in North Dakota, United States","Walsh County, North Dakota|Walsh County, ND",Q12178655,,"Walsh County, North Dakota"
+Acton Township,"2020 COVID-19 pandemic in Walsh County, North Dakota",Q94271229,1,0,2,"pandemic in Walsh County, North Dakota","COVID-19 pandemic in Walsh County, North Dakota|2020 coronavirus outbreak in Walsh County, North Dakota|2020 Walsh County, North Dakota COVID-19 pandemic|Walsh County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Walsh County, North Dakota",Q3241045,,
+Walsh County,Walsh County,Q28286,1,1,1,"county in North Dakota, United States","Walsh County, North Dakota|Walsh County, ND",Q12178655,,"Walsh County, North Dakota"
+Walsh County,"2020 COVID-19 pandemic in Walsh County, North Dakota",Q94271229,1,1,1,"pandemic in Walsh County, North Dakota","COVID-19 pandemic in Walsh County, North Dakota|2020 coronavirus outbreak in Walsh County, North Dakota|2020 Walsh County, North Dakota COVID-19 pandemic|Walsh County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Walsh County, North Dakota",Q3241045,,
+Walsh County,Walsh County Courthouse,Q7963820,1,1,1,"county courthouse in North Dakota, United States of America",,Q64037785,,Walsh County Courthouse
+Walsh County,Walsh County Waterfowl Production Area,Q49576547,1,1,1,park in the United States of America,,Q7974063,,
+Walsh County,Acton Township,Q1896092,1,1,2,"township in Meeker County, Minnesota",,Q42211429,,"Acton Township, Meeker County, Minnesota"
+Walsh County,Acton Township,Q4677696,1,1,2,"township in Walsh County, North Dakota","Acton Township, Walsh County, North Dakota",Q6643834,,"Acton Township, Walsh County, North Dakota"
+Walsh County,Acton,Q29167364,1,1,2,"human settlement in Saint-Théodore-d'Acton, Quebec, Canada",Acton Township,Q23019040,,
+Walsh County,Acton Township,Q344456,1,1,2,Wikimedia disambiguation page,,Q4167410,,Acton Township
+Dundee Township,Dundee Township,Q2917468,2,0,1,"township in Walsh County, North Dakota","Dundee Township, Walsh County, North Dakota",Q28111|Q6643834,,"Dundee Township, Walsh County, North Dakota"
+Dundee Township,Dundee Township,Q5314841,2,0,1,"township in Monroe County, Michigan","Dundee Township, Michigan",Q17205774,,"Dundee Township, Michigan"
+Dundee Township,Dundee Township,Q5314839,2,0,1,"township in Kane County, Illinois","Dundee Township, Kane County, Illinois",Q17198545,,"Dundee Township, Illinois"
+Dundee Township,Dundee Township Historic District,Q5314842,2,0,1,"historic district in Illinois, United States",,Q15243209,,Dundee Township Historic District
+Dundee Township,Dundee Township Park District,Q16974255,2,0,1,"park district in Illinois, United States",,,,Dundee Township Park District
+Dundee Township,Dundee Township East Cemetery,Q116755777,2,0,1,"cemetery in East Dundee, Illinois",Dundee Township Cemetery East,Q39614,,
+Dundee Township,Dundee Township West Cemetery,Q116755778,2,0,1,"cemetery in West Dundee, Kane County, Illinois, United States",Dundee Township Cemetery West,Q39614|Q107684101,,
+Dundee Township,Dundee Township,Q1265552,2,0,1,Wikimedia disambiguation page,,Q4167410,,Dundee Township
+Walsh County,Walsh County,Q28286,2,1,1,"county in North Dakota, United States","Walsh County, North Dakota|Walsh County, ND",Q12178655,,"Walsh County, North Dakota"
+Walsh County,"2020 COVID-19 pandemic in Walsh County, North Dakota",Q94271229,2,1,1,"pandemic in Walsh County, North Dakota","COVID-19 pandemic in Walsh County, North Dakota|2020 coronavirus outbreak in Walsh County, North Dakota|2020 Walsh County, North Dakota COVID-19 pandemic|Walsh County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Walsh County, North Dakota",Q3241045,,
+Walsh County,Walsh County Courthouse,Q7963820,2,1,1,"county courthouse in North Dakota, United States of America",,Q64037785,,Walsh County Courthouse
+Walsh County,Walsh County Waterfowl Production Area,Q49576547,2,1,1,park in the United States of America,,Q7974063,,
+Walsh County,Dundee Township,Q2917468,2,1,2,"township in Walsh County, North Dakota","Dundee Township, Walsh County, North Dakota",Q28111|Q6643834,,"Dundee Township, Walsh County, North Dakota"
+Walsh County,Dundee Township,Q5314841,2,1,2,"township in Monroe County, Michigan","Dundee Township, Michigan",Q17205774,,"Dundee Township, Michigan"
+Walsh County,Dundee Township,Q5314839,2,1,2,"township in Kane County, Illinois","Dundee Township, Kane County, Illinois",Q17198545,,"Dundee Township, Illinois"
+Walsh County,Dundee Township Historic District,Q5314842,2,1,2,"historic district in Illinois, United States",,Q15243209,,Dundee Township Historic District
+Walsh County,Dundee Township Park District,Q16974255,2,1,2,"park district in Illinois, United States",,,,Dundee Township Park District
+Walsh County,Dundee Township East Cemetery,Q116755777,2,1,2,"cemetery in East Dundee, Illinois",Dundee Township Cemetery East,Q39614,,
+Walsh County,Dundee Township West Cemetery,Q116755778,2,1,2,"cemetery in West Dundee, Kane County, Illinois, United States",Dundee Township Cemetery West,Q39614|Q107684101,,
+Walsh County,Dundee Township,Q1265552,2,1,2,Wikimedia disambiguation page,,Q4167410,,Dundee Township
+Walsh Centre Township,Walsh Centre Township,Q2835981,3,0,1,"township in Walsh County, North Dakota","Walsh Centre Township, Walsh County, North Dakota",Q6643834,,"Walsh Centre Township, Walsh County, North Dakota"
+Walsh Centre Township,Walsh County,Q28286,3,0,2,"county in North Dakota, United States","Walsh County, North Dakota|Walsh County, ND",Q12178655,,"Walsh County, North Dakota"
+Walsh Centre Township,"2020 COVID-19 pandemic in Walsh County, North Dakota",Q94271229,3,0,2,"pandemic in Walsh County, North Dakota","COVID-19 pandemic in Walsh County, North Dakota|2020 coronavirus outbreak in Walsh County, North Dakota|2020 Walsh County, North Dakota COVID-19 pandemic|Walsh County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Walsh County, North Dakota",Q3241045,,
+Walsh Centre Township,Walsh County Courthouse,Q7963820,3,0,2,"county courthouse in North Dakota, United States of America",,Q64037785,,Walsh County Courthouse
+Walsh Centre Township,Walsh County Waterfowl Production Area,Q49576547,3,0,2,park in the United States of America,,Q7974063,,
+Walsh County,Walsh County,Q28286,3,1,1,"county in North Dakota, United States","Walsh County, North Dakota|Walsh County, ND",Q12178655,,"Walsh County, North Dakota"
+Walsh County,"2020 COVID-19 pandemic in Walsh County, North Dakota",Q94271229,3,1,1,"pandemic in Walsh County, North Dakota","COVID-19 pandemic in Walsh County, North Dakota|2020 coronavirus outbreak in Walsh County, North Dakota|2020 Walsh County, North Dakota COVID-19 pandemic|Walsh County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Walsh County, North Dakota",Q3241045,,
+Walsh County,Walsh County Courthouse,Q7963820,3,1,1,"county courthouse in North Dakota, United States of America",,Q64037785,,Walsh County Courthouse
+Walsh County,Walsh County Waterfowl Production Area,Q49576547,3,1,1,park in the United States of America,,Q7974063,,
+Walsh County,Walsh Centre Township,Q2835981,3,1,2,"township in Walsh County, North Dakota","Walsh Centre Township, Walsh County, North Dakota",Q6643834,,"Walsh Centre Township, Walsh County, North Dakota"
+Addison Township,Addison Township,Q9035940,4,0,1,"township in DuPage County, Illinois, United States","Addison Township, Illinois",Q17198545,,"Addison Township, Illinois"
+Addison Township,Addison Township,Q4681303,4,0,1,"township in Somerset County, Pennsylvania",,Q9035798,,"Addison Township, Pennsylvania"
+Addison Township,Addison Township,Q4681296,4,0,1,"township in Oakland County, Michigan",,Q17205774,,"Addison Township, Michigan"
+Addison Township,Addison Township,Q4681301,4,0,1,township in United States,,Q17201685,,"Addison Township, Shelby County, Indiana"
+Addison Township,Addison Township,Q4681293,4,0,1,"township in Gallia County, Ohio",,Q17198620,,"Addison Township, Ohio"
+Addison Township,Addison Township,Q4681290,4,0,1,"township in Cass County, North Dakota",,Q28111|Q6643834,,"Addison Township, North Dakota"
+Addison Township,Addison Township,Q4681295,4,0,1,"township in Knox County, Nebraska","Addison Township, Knox County, Nebraska",Q64138263,,"Addison Township, Knox County, Nebraska"
+Addison Township,Addison Township Public Library,Q69480465,4,0,1,"public library system in Michigan, USA",,Q26271642,,
+Addison Township,Addison Township Public Library,Q69960254,4,0,1,"public library in Leonard, Michigan, USA",,Q12317349|Q28564,,
+Addison Township,Addison Township,Q353162,4,0,1,Wikimedia disambiguation page,,Q4167410,,Addison Township
+Cass County,Cass County,Q111421,4,1,1,"county in Minnesota, United States","Cass County, Minnesota|Cass County, MN",Q12262532,,"Cass County, Minnesota"
+Cass County,Cass County,Q21065448,4,1,1,2015 studio album by Don Henley,,Q482994,,Cass County (album)
+Cass County,Cass County,Q167583,4,1,1,"county in Michigan, United States","Cass County, Michigan|Cass County, MI",Q13410496,,"Cass County, Michigan"
+Cass County,Cass County,Q485204,4,1,1,"county in Missouri, United States","Cass County, Missouri|Van Buren County|Van Buren County, Missouri|Cass County, MO",Q13410520,,"Cass County, Missouri"
+Cass County,Cass County,Q28285,4,1,1,"county in North Dakota, United States","Cass County, North Dakota|Cass County, ND",Q12178655,,"Cass County, North Dakota"
+Cass County,Cass County,Q109150,4,1,1,"county in Texas, United States","Cass County, Texas|Cass County, TX",Q11774097,,"Cass County, Texas"
+Cass County,Cass County,Q505276,4,1,1,"county in Indiana, United States","Cass County, Indiana|Cass County, IN",Q13410438,,"Cass County, Indiana"
+Cass County,Cass County,Q484239,4,1,1,"county in Nebraska, United States","Cass County, Nebraska|Cass County, NE",Q13414361,,"Cass County, Nebraska"
+Cass County,Cass County,Q110516,4,1,1,"county in Illinois, United States","Cass County, Illinois|Cass County, IL",Q11812346,,"Cass County, Illinois"
+Cass County,Cass County,Q156468,4,1,1,"county in Iowa, United States","Cass County, Iowa|Cass County, IA",Q11774149,,"Cass County, Iowa"
+Cass County,"2020 COVID-19 pandemic in Cass County, Michigan",Q94262123,4,1,2,"pandemic in Cass County, Michigan","COVID-19 pandemic in Cass County, Michigan|2020 coronavirus outbreak in Cass County, Michigan|2020 Cass County, Michigan COVID-19 pandemic|Cass County, Michigan COVID-19 pandemic|2020 COVID pandemic in Cass County, Michigan",Q3241045,,
+Cass County,"2020 COVID-19 pandemic in Cass County, Texas",Q94156562,4,1,2,"pandemic in Cass County, Texas","2020 coronavirus outbreak in Cass County, Texas|COVID-19 pandemic in Cass County, Texas|2020 Cass County, Texas COVID-19 pandemic|Cass County, Texas COVID-19 pandemic|2020 COVID pandemic in Cass County, Texas",Q3241045,,
+Dows Township,Dows Township,Q2841477,5,0,1,"township in Cass County, North Dakota, United States",,Q6643834,,"Dows Township, North Dakota"
+Dows Township,Cass County,Q110516,5,0,2,"county in Illinois, United States","Cass County, Illinois|Cass County, IL",Q11812346,,"Cass County, Illinois"
+Dows Township,"2020 COVID-19 pandemic in Cass County, Illinois",Q94260078,5,0,2,"pandemic in Cass County, Illinois","2020 coronavirus outbreak in Cass County, Illinois|COVID-19 pandemic in Cass County, Illinois|2020 Cass County, Illinois COVID-19 pandemic|Cass County, Illinois COVID-19 pandemic|2020 COVID pandemic in Cass County, Illinois",Q3241045,,
+Cass County,Cass County,Q111421,5,1,1,"county in Minnesota, United States","Cass County, Minnesota|Cass County, MN",Q12262532,,"Cass County, Minnesota"
+Cass County,Cass County,Q21065448,5,1,1,2015 studio album by Don Henley,,Q482994,,Cass County (album)
+Cass County,Cass County,Q167583,5,1,1,"county in Michigan, United States","Cass County, Michigan|Cass County, MI",Q13410496,,"Cass County, Michigan"
+Cass County,Cass County,Q485204,5,1,1,"county in Missouri, United States","Cass County, Missouri|Van Buren County|Van Buren County, Missouri|Cass County, MO",Q13410520,,"Cass County, Missouri"
+Cass County,Cass County,Q28285,5,1,1,"county in North Dakota, United States","Cass County, North Dakota|Cass County, ND",Q12178655,,"Cass County, North Dakota"
+Cass County,Cass County,Q109150,5,1,1,"county in Texas, United States","Cass County, Texas|Cass County, TX",Q11774097,,"Cass County, Texas"
+Cass County,Cass County,Q505276,5,1,1,"county in Indiana, United States","Cass County, Indiana|Cass County, IN",Q13410438,,"Cass County, Indiana"
+Cass County,Cass County,Q484239,5,1,1,"county in Nebraska, United States","Cass County, Nebraska|Cass County, NE",Q13414361,,"Cass County, Nebraska"
+Cass County,Cass County,Q110516,5,1,1,"county in Illinois, United States","Cass County, Illinois|Cass County, IL",Q11812346,,"Cass County, Illinois"
+Cass County,Cass County,Q156468,5,1,1,"county in Iowa, United States","Cass County, Iowa|Cass County, IA",Q11774149,,"Cass County, Iowa"
+Cass County,"2020 COVID-19 pandemic in Cass County, Iowa",Q94285713,5,1,2,"pandemic in Cass County, Iowa","2020 coronavirus outbreak in Cass County, Iowa|COVID-19 pandemic in Cass County, Iowa|2020 Cass County, Iowa COVID-19 pandemic|Cass County, Iowa COVID-19 pandemic|2020 COVID pandemic in Cass County, Iowa",Q3241045,,
+Cass County,"2020 COVID-19 pandemic in Cass County, Michigan",Q94262123,5,1,2,"pandemic in Cass County, Michigan","COVID-19 pandemic in Cass County, Michigan|2020 coronavirus outbreak in Cass County, Michigan|2020 Cass County, Michigan COVID-19 pandemic|Cass County, Michigan COVID-19 pandemic|2020 COVID pandemic in Cass County, Michigan",Q3241045,,
+Adelaide Township,Adelaide Township,Q4681803,6,0,1,"township in Bowman County, North Dakota, United States of America",,Q28111|Q6643834,,"Adelaide Township, North Dakota"
+Adelaide Township,Adelaide,Q115260657,6,0,1,"geographic township in Middlesex County, Ontario, Canada","Adelaide Township, Ontario",Q96759164,,
+Adelaide Township,Adelaide,Q5112,6,0,2,capital city of South Australia,"Adelaide, SA|Adelaide, S. Aust.|Adelaide, South Australia|Adelaide, Australia",Q515|Q1549591,,Adelaide
+Adelaide Township,Adelaide,Q4681820,6,0,2,"suburb of Adelaide, South Australia","Adelaide city centre|Adelaide CBD|Adelaide, South Australia|Adelaide, South Australia, Australia",Q738570|Q188509,,Adelaide city centre
+Bowman County,Bowman County,Q28274,6,1,1,"county in North Dakota, United States","Bowman County, North Dakota|Bowman County, ND",Q12178655,,"Bowman County, North Dakota"
+Bowman County,Bowman County High School,Q14708304,6,1,1,"high school in North Dakota, United States",,Q9826,,Bowman County High School
+Bowman County,"2020 COVID-19 pandemic in Bowman County, North Dakota",Q94270503,6,1,1,"pandemic in Bowman County, North Dakota","COVID-19 pandemic in Bowman County, North Dakota|2020 coronavirus outbreak in Bowman County, North Dakota|2020 Bowman County, North Dakota COVID-19 pandemic|Bowman County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Bowman County, North Dakota",Q3241045,,
+Bowman County,Bowman County School District 1,Q108402971,6,1,1,"School district in Bowman, North Dakota, USA",,Q15726209,,Bowman County School District 1
+Bowman County,Adelaide Township,Q4681803,6,1,2,"township in Bowman County, North Dakota, United States of America",,Q28111|Q6643834,,"Adelaide Township, North Dakota"
+Bowman County,Adelaide,Q115260657,6,1,2,"geographic township in Middlesex County, Ontario, Canada","Adelaide Township, Ontario",Q96759164,,
+Bowman County,Adelaide,Q5177806,6,1,2,"county of South Australia, Australia",County of Adelaide,Q15643615,,County of Adelaide
+Hay Creek Township,Hay Creek Township,Q1903700,7,0,1,"township in Goodhue County, Minnesota",,Q42211429,,"Hay Creek Township, Goodhue County, Minnesota"
+Hay Creek Township,Hay Creek Township,Q5685781,7,0,1,"township in Burleigh County, North Dakota",,Q28111|Q6643834,,"Hay Creek Township, North Dakota"
+Hay Creek Township,Hay Creek Township,Q1591795,7,0,1,Wikimedia disambiguation page,,Q4167410,,Hay Creek Township
+Hay Creek Township,North Dakota,Q1207,7,0,2,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+Hay Creek Township,University of North Dakota,Q968559,7,0,2,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+Hay Creek Township,North Dakota State University,Q2000624,7,0,2,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+Hay Creek Township,114703 North Dakota,Q3597088,7,0,2,minor planet,North Dakota,Q3863,,114703 North Dakota
+Hay Creek Township,North Dakota,Q99670860,7,0,2,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+Hay Creek Township,North Dakota,Q7054986,7,0,2,album by Tom Brosseau,,Q482994,,North Dakota (album)
+Hay Creek Township,North Dakota Century Code,Q7054993,7,0,2,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+Hay Creek Township,member of the State Senate of North Dakota,Q21366730,7,0,2,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+Hay Creek Township,Governor of North Dakota,Q3773741,7,0,2,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+Hay Creek Township,North Dakota Legislative Assembly,Q7055026,7,0,2,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Hay Creek Township,township of China,Q1500350,7,0,2,People's Republic of China township-level subdivision,township of the People's Republic of China|xiang|township,Q28872924,Q16725943|Q130458414,
+Hay Creek Township,Township,Q19658446,7,0,2,freemium city-building game,,Q7889,,Township (video game)
+Hay Creek Township,township of Missouri,Q6270791,7,0,2,"class of civil township in Missouri, United States",township|civil township|political township|civil township of Missouri|political township of Missouri,,Q17379815|Q1394476,
+Hay Creek Township,township in the United States,Q28111,7,0,2,one of several types of geographic areas,township of the United States,,Q852446|Q19610511|Q12357920,Township (United States)
+Hay Creek Township,civil township,Q1394476,7,0,2,unit of local government in the United States,township|town|civil township of the United States,,Q852446|Q28111|Q1048835|Q486972,Civil township
+Hay Creek Township,township,Q19610511,7,0,2,form of human settlement or administrative subdivision whose definition varies by country; generally refers to small or scattered settlements below urban status,,Q15617994,Q56061|Q27096235|Q486972,Township
+Hay Creek Township,myeon,Q483515,7,0,2,administrative unit in South Korea similar to the unit of township,township of South Korea,Q15617994,Q41156|Q12357920|Q486972,Myeon (administrative division)
+Hay Creek Township,township of Pennsylvania,Q9035798,7,0,2,type of municipality in the U.S. state of Pennsylvania,Pennsylvania township|Pennsylvanian township,,Q6664406|Q1394476|Q28111,Township (Pennsylvania)
+Hay Creek Township,township of Minnesota,Q42211429,7,0,2,administrative territorial entity of Minnesota,township in Minnesota,,Q17379829|Q1394476|Q28111,
+Hay Creek Township,township of Illinois,Q17198545,7,0,2,civil township subdivision of most Illinois counties,township (Illinois)|civil township of Illinois|civil township (Illinois)|Illinois township,,Q1394476|Q28111,Township (Illinois)
+North Dakota,North Dakota,Q1207,7,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,7,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,7,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,7,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,7,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,7,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,7,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,7,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,7,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,7,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Finley Township,Finley Township,Q10760159,8,0,1,"township in Webster County, Missouri, United States","Finley Township, Webster County, Missouri",Q6270791,,"Finley Township, Webster County, Missouri"
+Finley Township,Finley Township,Q5450590,8,0,1,"township in Scott County, Indiana",,Q17201685,,"Finley Township, Scott County, Indiana"
+Finley Township,Finley Township,Q5450588,8,0,1,"township in Decatur County, Kansas",,Q17205735,,"Finley Township, Decatur County, Kansas"
+Finley Township,Finley Township,Q5450591,8,0,1,"township in Steele County, North Dakota",,Q28111|Q6643834,,"Finley Township, Steele County, North Dakota"
+Finley Township,Finley Township,Q56310486,8,0,1,"former township in Christian County, Missouri, United States",,Q6270791|Q19953632,,
+Finley Township,Finley Township,Q1417575,8,0,1,Wikimedia disambiguation page,,Q4167410,,Finley Township
+Finley Township,Finley,Q2089827,8,0,2,city in North Dakota,"Finley, North Dakota|Finley, ND",Q1093829,,"Finley, North Dakota"
+North Dakota,North Dakota,Q1207,8,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,8,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,8,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,8,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,8,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,8,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,8,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,8,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,8,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,8,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Esmond Township,Esmond Township,Q6028531,9,0,1,"township in Kingsbury County, South Dakota",,Q28111,,
+Esmond Township,Esmond Township,Q5398590,9,0,1,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Esmond Township, Benson County, North Dakota"
+Esmond Township,Esmond Township,Q1367941,9,0,1,Wikimedia disambiguation page,,Q4167410,,
+Esmond Township,Esmond,Q919767,9,0,2,"city in Benson County, North Dakota, United States","Esmond, North Dakota|Esmond, ND",Q134844639,,"Esmond, North Dakota"
+North Dakota,North Dakota,Q1207,9,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,9,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,9,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,9,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,9,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,9,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,9,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,9,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,9,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,9,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Eldon Township,Eldon,Q5354067,10,0,1,"geographic township in Kawartha Lakes, Ontario, Canada",Eldon Twp|Eldon Township,Q2936646|Q269528|Q96759164,,Eldon Township
+Eldon Township,Eldon Township,Q5354068,10,0,1,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Eldon Township, Benson County, North Dakota"
+Eldon Township,Eldon Township,Q1325607,10,0,1,Wikimedia disambiguation page,,Q4167410,,
+North Dakota,North Dakota,Q1207,10,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,10,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,10,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,10,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,10,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,10,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,10,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,10,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,10,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,10,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Dixon Township,Dixon Township,Q5284977,11,0,1,"township in Lee County, Illinois",,Q28111|Q17198545,,"Dixon Township, Lee County, Illinois"
+Dixon Township,Dixon Township,Q6028309,11,0,1,"township in Hamlin County, South Dakota",,Q28111,,
+Dixon Township,Dixon Township,Q6028307,11,0,1,"township in Gregory County, South Dakota",,Q28111,,
+Dixon Township,Dixon Township,Q5284979,11,0,1,"township in Preble County, Ohio",,Q17198620,,"Dixon Township, Ohio"
+Dixon Township,Dixon Township,Q9038334,11,0,1,"township in Sumner County, Kansas, United States",,Q17205735,,
+Dixon Township,Dixon Township,Q9038329,11,0,1,"township in Monroe County, Arkansas",,Q24027556,,
+Dixon Township,Dixon Township,Q5284975,11,0,1,"township in Logan County, North Dakota",,Q6643834,,"Dixon Township, Logan County, North Dakota"
+Dixon Township,Dixon Township Library,Q69476221,11,0,1,"public library system in Kansas, USA",,Q26271642,,
+Dixon Township,Dixon Township Library,Q69780969,11,0,1,"public library in Argonia, Kansas, USA",,Q12317349|Q28564,,
+Dixon Township,Harris Cemetery,Q117618219,11,0,1,"cemetery in Preble County, Ohio, United States",Burson Cemetery|Dixon Township Cemetery|Dixon Cemetery|Huffman Cemetery,Q39614,,
+North Dakota,North Dakota,Q1207,11,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,11,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,11,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,11,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,11,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,11,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,11,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,11,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,11,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,11,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Dakota Township,Dakota Township,Q6028233,12,0,1,"township in Meade County, South Dakota",,Q28111,,
+Dakota Township,Dakota Township,Q987822,12,0,1,"township in Stephenson County, Illinois",,Q17198545,,"Dakota Township, Illinois"
+Dakota Township,Dakota Township,Q5210054,12,0,1,"former township in Adams County, North Dakota, United States","Dakota Township, Adams County, North Dakota",Q6643834|Q131463097,,"Dakota Township, Adams County, North Dakota"
+Dakota Township,Dakota Township,Q1157758,12,0,1,Wikimedia disambiguation page,,Q4167410,,Dakota Township
+Dakota Township,Richland Township,Q10836360,12,0,2,"township in Jefferson County, Arkansas",Richland township|Richland twp|Richland Twp|Township of Richland,Q24027556,,"Richland Township, Jefferson County, Arkansas"
+Dakota Township,Richland Township,Q925883,12,0,2,"township in Belmont County, Ohio",,Q17198620,,"Richland Township, Belmont County, Ohio"
+Dakota Township,Richland Township,Q5647764,12,0,2,"Township in Franklin County, Iowa, United States","Richland Township, Franklin County, Iowa",Q17205621,,"Richland Township, Franklin County, Iowa"
+Dakota Township,Richland Township,Q1912546,12,0,2,"township in Rice County, Minnesota",,Q42211429,,"Richland Township, Rice County, Minnesota"
+Dakota Township,Richland Township,Q164093,12,0,2,"township in Clinton County, Ohio, United States","Richland Township, Clinton County, Ohio",Q17198620,,"Richland Township, Clinton County, Ohio"
+Dakota Township,Richland Township,Q1769319,12,0,2,"township in Allegheny County, Pennsylvania",,Q9035798|Q5888666,,"Richland Township, Allegheny County, Pennsylvania"
+Dakota Township,Richland Township,Q2151177,12,0,2,"township in Jackson County, Iowa, United States","Richland Township, Jackson County, Iowa",Q17205621,,"Richland Township, Jackson County, Iowa"
+Dakota Township,Richland Township,Q7330682,12,0,2,"township in Miami County, Indiana",,Q17201685,,"Richland Township, Miami County, Indiana"
+Dakota Township,Richland Township,Q7330677,12,0,2,"township in Madison County, Indiana",,Q17201685,,"Richland Township, Madison County, Indiana"
+Dakota Township,Richland Township,Q2881947,12,0,2,"township in Keokuk County, Iowa","Richland Township, Keokuk County, Iowa",Q17205621|Q1394476,,"Richland Township, Keokuk County, Iowa"
+North Dakota,North Dakota,Q1207,12,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,12,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,12,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,12,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,12,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,12,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,12,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,12,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,12,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,12,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Dakota,Q3012245,12,1,2,unisex given name,Dakota (first name)|Dakota (given name),Q3409032,,Dakota (given name)
+North Dakota,Dakota,Q37555109,12,1,2,family name,,Q101352,,
+North Dakota,Dakota,Q11317134,12,1,2,,,Q5,,
+North Dakota,Douglas C-47,Q714326,12,1,2,airlifter series,C47|Dakota|Skytrain|Gooney Bird|CC-129|C-47 Dakota|R4D,Q15056993,Q190211|Q104882966,Douglas C-47 Skytrain
+North Dakota,Douglas DC-3,Q190211,12,1,2,1935 airliner family,Gooney Bird|Douglas DC-3 Dakota|Dakota DC-3|DC-3|DC3,Q15056993,Q18518652,Douglas DC-3
+North Dakota,Dakota Johnson,Q2315802,12,1,2,American actress (born 1989),Dakota Mayi Johnson,Q5,,Dakota Johnson
+North Dakota,Dakota,Q530384,12,1,2,Native American language,Dakota language,Q33742|Q1288568,Q13268,Dakota language
+North Dakota,Dakota Territory,Q1117425,12,1,2,territory of the US between 1861–1889,Territory of Dakota,Q1352230,,Dakota Territory
+North Dakota,Janine Lindemulder,Q238580,12,1,2,American pornographic actress (born 1968),Janine Marie Lindemulder|Janine|Jeanine|Janine Linde|Janine M. Lindemulder|Jeanine Lindemulder|Dakota|Janine Lindemuler|Janine Lindemuller|Janine Lindmuler,Q5,,Janine Lindemulder
+North Dakota,Dakota Blue Richards,Q234585,12,1,2,English actress,Dakota Richards,Q5,,Dakota Blue Richards
+North Dakota,Dakota Township,Q6028233,12,1,2,"township in Meade County, South Dakota",,Q28111,,
+North Dakota,Dakota Township,Q987822,12,1,2,"township in Stephenson County, Illinois",,Q17198545,,"Dakota Township, Illinois"
+North Dakota,Dakota Township,Q5210054,12,1,2,"former township in Adams County, North Dakota, United States","Dakota Township, Adams County, North Dakota",Q6643834|Q131463097,,"Dakota Township, Adams County, North Dakota"
+North Dakota,Dakota Township,Q1157758,12,1,2,Wikimedia disambiguation page,,Q4167410,,Dakota Township
+Captain's Landing Township,Captain's Landing Township,Q5036500,13,0,1,"township in Morton County, North Dakota",,Q6643834,,"Captain's Landing Township, Morton County, North Dakota"
+Captain's Landing Township,North Dakota,Q1207,13,0,2,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+Captain's Landing Township,University of North Dakota,Q968559,13,0,2,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+Captain's Landing Township,North Dakota State University,Q2000624,13,0,2,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+Captain's Landing Township,114703 North Dakota,Q3597088,13,0,2,minor planet,North Dakota,Q3863,,114703 North Dakota
+Captain's Landing Township,North Dakota,Q99670860,13,0,2,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+Captain's Landing Township,North Dakota,Q7054986,13,0,2,album by Tom Brosseau,,Q482994,,North Dakota (album)
+Captain's Landing Township,North Dakota Century Code,Q7054993,13,0,2,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+Captain's Landing Township,member of the State Senate of North Dakota,Q21366730,13,0,2,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+Captain's Landing Township,Governor of North Dakota,Q3773741,13,0,2,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+Captain's Landing Township,North Dakota Legislative Assembly,Q7055026,13,0,2,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Captain's Landing Township,township of China,Q1500350,13,0,2,People's Republic of China township-level subdivision,township of the People's Republic of China|xiang|township,Q28872924,Q16725943|Q130458414,
+Captain's Landing Township,Township,Q19658446,13,0,2,freemium city-building game,,Q7889,,Township (video game)
+Captain's Landing Township,township of Missouri,Q6270791,13,0,2,"class of civil township in Missouri, United States",township|civil township|political township|civil township of Missouri|political township of Missouri,,Q17379815|Q1394476,
+Captain's Landing Township,township in the United States,Q28111,13,0,2,one of several types of geographic areas,township of the United States,,Q852446|Q19610511|Q12357920,Township (United States)
+Captain's Landing Township,civil township,Q1394476,13,0,2,unit of local government in the United States,township|town|civil township of the United States,,Q852446|Q28111|Q1048835|Q486972,Civil township
+Captain's Landing Township,township,Q19610511,13,0,2,form of human settlement or administrative subdivision whose definition varies by country; generally refers to small or scattered settlements below urban status,,Q15617994,Q56061|Q27096235|Q486972,Township
+Captain's Landing Township,myeon,Q483515,13,0,2,administrative unit in South Korea similar to the unit of township,township of South Korea,Q15617994,Q41156|Q12357920|Q486972,Myeon (administrative division)
+Captain's Landing Township,township of Pennsylvania,Q9035798,13,0,2,type of municipality in the U.S. state of Pennsylvania,Pennsylvania township|Pennsylvanian township,,Q6664406|Q1394476|Q28111,Township (Pennsylvania)
+Captain's Landing Township,township of Minnesota,Q42211429,13,0,2,administrative territorial entity of Minnesota,township in Minnesota,,Q17379829|Q1394476|Q28111,
+Captain's Landing Township,township of Illinois,Q17198545,13,0,2,civil township subdivision of most Illinois counties,township (Illinois)|civil township of Illinois|civil township (Illinois)|Illinois township,,Q1394476|Q28111,Township (Illinois)
+North Dakota,North Dakota,Q1207,13,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,13,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,13,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,13,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,13,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,13,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,13,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,13,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,13,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,13,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Captain's Landing Township,Q5036500,13,1,2,"township in Morton County, North Dakota",,Q6643834,,"Captain's Landing Township, Morton County, North Dakota"
+North Dakota,state highways in North Dakota,Q98671121,13,1,2,numbered system of highway routes in the U.S. state of North Dakota,North Dakota state highways|North Dakota Highways|N.D. Highways,Q25631158,,
+North Dakota,North Dakota State Bison men's basketball,Q7055048,13,1,2,basketball team that represents North Dakota State University,North Dakota State Bison men's basketball team|North Dakota State Bison basketball|North Dakota State men's basketball|North Dakota State basketball|Bison men's basketball|Bison basketball|North Dakota State University Bison men's basketball team|North Dakota State University Bison men's basketball|North Dakota State University Bison basketball team|North Dakota State University men's basketball team|North Dakota State University Bison basketball|North Dakota State University basketball|NDSU basketball|NDSU Bison men's basketball team|NDSU Bison men's basketball|NDSU Bison basketball team|NDSU Bison basketball|NDSU men's basketball team|NDSU men's basketball|NDSU basketball team,Q13393265|Q18558301,,North Dakota State Bison men's basketball
+North Dakota,North Dakota State Bison football,Q7055045,13,1,2,college football team of North Dakota State University,North Dakota Agricultural Bison football|North Dakota Agricultural Aggies football,Q17156793|Q18558301,,North Dakota State Bison football
+North Dakota,North Dakota State Bison,Q7055047,13,1,2,athletic program of North Dakota State University,North Dakota State University athletics,Q2367225,,North Dakota State Bison
+North Dakota,North Dakota state park,Q37957343,13,1,2,,State park of North Dakota,Q1761072,Q16023747,
+North Dakota,North Dakota State College of Science,Q7055057,13,1,2,"college in Wahpeton, North Dakota, U.S.",,Q3918|Q23002039,,North Dakota State College of Science
+North Dakota,North Dakota State Capitol,Q3696010,13,1,2,state capitol building of the U.S. state of North Dakota,,Q11303|Q3284499,,North Dakota State Capitol
+North Dakota,U.S. state,Q35657,13,1,2,constituent political entity of the United States of America,US state|U.S.A. state|state of America|state of United States|USA state|state of the United States|state of the USA|federated state of the USA|commonwealth (state) of the United States|state of the United States of America|U.S. states|American states (United States)|states of the United States|United States states|United States state,Q28872924|Q135236673,Q852446|Q107390|Q106458883|Q192611|Q10864048|Q155076,U.S. state
+North Dakota,United States of America state-level electoral district,Q104146934,13,1,2,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+North Dakota,United States Department of State,Q789915,13,1,2,executive department of the U.S. federal government,State Department|U.S. State Department|U.S. Department of State|DoS|USDoS|United States State Department,Q910252|Q20901295|Q327333,,United States Department of State
+North Dakota,legislature of a U.S. state,Q3270264,13,1,2,legislature of a U.S. state,legislature of a United States state|U.S. state legislature|US state legislature|state legislature (United States)|United States state legislature|state legislature of the United States|state legislature of the U.S.|state legislature of the US|U.S. state general assembly|US state general assembly|United States state general assembly|U.S. state legislative assembly|US state legislative assembly|United States state legislative assembly|United States state general court|general assembly of a U.S. state|general assembly of a US state|general assembly of a United States state|general court of a U.S. state|U.S. state general court|US state general court,,Q7603708,State legislature (United States)
+North Dakota,state education agency,Q7603678,13,1,2,state-level government organization within each U.S. state or territory responsible for education,state department of education in the United States|state education agency in the United States|state school system in the United States|United States state education agency|U.S. state education agency|US state education agency|state department of education|state educational agency|U.S. state educational agency|SEA,,Q20857085|Q28599747,State education agency
+North Dakota,state government of the United States,Q7603694,13,1,2,state-level governments of the 50 states which comprise the United States of America,state governments of the United States|U.S. state government|United States state government|American state government|USA state government,,Q1802419|Q56061,State governments of the United States
+North Dakota,upper house of U.S. state legislature,Q15891112,13,1,2,chamber of a U.S. state bicameral legislature,upper chamber of U.S. state legislature|U.S. state upper house|US state upper house|United States state upper house|U.S. state senate|US state senate|United States state senate|state upper house in the United States,,Q637846|Q110315658,
+North Dakota,lower house of U.S. state legislature,Q18608569,13,1,2,chamber of a U.S. state bicameral legislature,U.S. state house of representatives|US state house of representatives|United States state house of representatives|U.S. state house of delegates|US state house of delegates|United States state house of delegates|U.S. state assembly|US state assembly|United States state assembly,,Q375928|Q110315658,
+North Dakota,state senator,Q7603534,13,1,2,member of an upper house of a U.S. state legislature,US state senator|state senator of the United States|U.S. state senator|United States state senator,Q4164871,Q15686806|Q17279032|Q106088317,State senator
+North Dakota,member of United States state lower house,Q106079967,13,1,2,member of the lower legislative chamber of a U.S. state,member of US state lower house|member of US state house of representatives|member of the State House of Representatives|member of U.S. state lower house|member of U.S. state house of representatives|member of U.S. house of delegates|member of US house of delegates|U.S. state representative|US state representative|United States state representative|U.S. state delegate|US state delegate|United States state delegate|member of lower house of U.S. state legislature|member of state lower house in the United States,Q4164871,Q486839|Q17279032|Q106088317,
+Butte Valley Township,Butte Valley Township,Q5002824,14,0,1,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Butte Valley Township, Benson County, North Dakota"
+Butte Valley Township,North Dakota,Q1207,14,0,2,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+Butte Valley Township,University of North Dakota,Q968559,14,0,2,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+Butte Valley Township,North Dakota State University,Q2000624,14,0,2,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+Butte Valley Township,114703 North Dakota,Q3597088,14,0,2,minor planet,North Dakota,Q3863,,114703 North Dakota
+Butte Valley Township,North Dakota,Q99670860,14,0,2,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+Butte Valley Township,North Dakota,Q7054986,14,0,2,album by Tom Brosseau,,Q482994,,North Dakota (album)
+Butte Valley Township,North Dakota Century Code,Q7054993,14,0,2,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+Butte Valley Township,member of the State Senate of North Dakota,Q21366730,14,0,2,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+Butte Valley Township,Governor of North Dakota,Q3773741,14,0,2,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+Butte Valley Township,North Dakota Legislative Assembly,Q7055026,14,0,2,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Butte Valley Township,Butte Valley,Q5002823,14,0,2,"census-designated place in Butte County, California, United States","Butte Valley, California|Butte Valley, CA",Q498162,,"Butte Valley, California"
+Butte Valley Township,Butte Valley,Q49784307,14,0,2,,,Q111816862,,
+Butte Valley Township,Butte Valley,Q49784304,14,0,2,,,Q39816,,
+Butte Valley Township,Butte Valley,Q49784305,14,0,2,"valley in Siskiyou County, California, United States of America",,Q39816,,
+Butte Valley Township,Butte Valley National Grassland,Q5002818,14,0,2,"protected area in Siskiyou County, California",,Q509827,,Butte Valley National Grassland
+Butte Valley Township,Butte Valley fault zone,Q98440980,14,0,2,,,Q47089,,
+Butte Valley Township,Butte Valley Branch Library,Q66375533,14,0,2,"public library in Dorris, California, USA",,Q11396180|Q28564,,
+Butte Valley Township,Butte Valley Airport,Q3813533,14,0,2,"airport in California, United States of America",,Q1248784,,Butte Valley Airport
+Butte Valley Township,Butte Valley Mine,Q49402904,14,0,2,"mine in Huerfano County, Colorado, United States of America",,Q820477,,
+Butte Valley Township,township of China,Q1500350,14,0,2,People's Republic of China township-level subdivision,township of the People's Republic of China|xiang|township,Q28872924,Q16725943|Q130458414,
+Butte Valley Township,Township,Q19658446,14,0,2,freemium city-building game,,Q7889,,Township (video game)
+Butte Valley Township,township of Missouri,Q6270791,14,0,2,"class of civil township in Missouri, United States",township|civil township|political township|civil township of Missouri|political township of Missouri,,Q17379815|Q1394476,
+Butte Valley Township,township in the United States,Q28111,14,0,2,one of several types of geographic areas,township of the United States,,Q852446|Q19610511|Q12357920,Township (United States)
+Butte Valley Township,civil township,Q1394476,14,0,2,unit of local government in the United States,township|town|civil township of the United States,,Q852446|Q28111|Q1048835|Q486972,Civil township
+Butte Valley Township,township,Q19610511,14,0,2,form of human settlement or administrative subdivision whose definition varies by country; generally refers to small or scattered settlements below urban status,,Q15617994,Q56061|Q27096235|Q486972,Township
+Butte Valley Township,myeon,Q483515,14,0,2,administrative unit in South Korea similar to the unit of township,township of South Korea,Q15617994,Q41156|Q12357920|Q486972,Myeon (administrative division)
+Butte Valley Township,township of Pennsylvania,Q9035798,14,0,2,type of municipality in the U.S. state of Pennsylvania,Pennsylvania township|Pennsylvanian township,,Q6664406|Q1394476|Q28111,Township (Pennsylvania)
+Butte Valley Township,township of Minnesota,Q42211429,14,0,2,administrative territorial entity of Minnesota,township in Minnesota,,Q17379829|Q1394476|Q28111,
+Butte Valley Township,township of Illinois,Q17198545,14,0,2,civil township subdivision of most Illinois counties,township (Illinois)|civil township of Illinois|civil township (Illinois)|Illinois township,,Q1394476|Q28111,Township (Illinois)
+North Dakota,North Dakota,Q1207,14,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,14,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,14,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,14,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,14,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,14,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,14,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,14,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,14,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,14,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Butte Valley Township,Q5002824,14,1,2,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Butte Valley Township, Benson County, North Dakota"
+"Buchanan Valley Township, Emmons County, North Dakota",Buchanan Valley Township,Q4982593,15,0,2,"township in Emmons County, North Dakota, United States",,Q6643834,,"Buchanan Valley Township, Emmons County, North Dakota"
+"Buchanan Valley Township, Emmons County, North Dakota",Emmons County,Q48917,15,0,2,"county in North Dakota, United States","Emmons County, North Dakota|Emmons County, ND",Q12178655,,"Emmons County, North Dakota"
+"Buchanan Valley Township, Emmons County, North Dakota",Emmons County Record,Q27963394,15,0,2,"newspaper published in Linton, North Dakota",,Q11032,,Emmons County Record
+"Buchanan Valley Township, Emmons County, North Dakota","2020 COVID-19 pandemic in Emmons County, North Dakota",Q94270555,15,0,2,"pandemic in Emmons County, North Dakota","COVID-19 pandemic in Emmons County, North Dakota|2020 coronavirus outbreak in Emmons County, North Dakota|2020 Emmons County, North Dakota COVID-19 pandemic|Emmons County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Emmons County, North Dakota",Q3241045,,
+"Buchanan Valley Township, Emmons County, North Dakota",Emmons County Courthouse,Q5373599,15,0,2,"county courthouse in North Dakota, United States of America",,Q64037785,,Emmons County Courthouse
+"Buchanan Valley Township, Emmons County, North Dakota",Emmons County Waterfowl Production Area,Q49487000,15,0,2,,,Q7974063,,
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota,Q1207,15,0,2,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+"Buchanan Valley Township, Emmons County, North Dakota",University of North Dakota,Q968559,15,0,2,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota State University,Q2000624,15,0,2,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+"Buchanan Valley Township, Emmons County, North Dakota",114703 North Dakota,Q3597088,15,0,2,minor planet,North Dakota,Q3863,,114703 North Dakota
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota,Q99670860,15,0,2,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota,Q7054986,15,0,2,album by Tom Brosseau,,Q482994,,North Dakota (album)
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota Century Code,Q7054993,15,0,2,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+"Buchanan Valley Township, Emmons County, North Dakota",member of the State Senate of North Dakota,Q21366730,15,0,2,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+"Buchanan Valley Township, Emmons County, North Dakota",Governor of North Dakota,Q3773741,15,0,2,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+"Buchanan Valley Township, Emmons County, North Dakota",North Dakota Legislative Assembly,Q7055026,15,0,2,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,North Dakota,Q1207,15,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,15,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,15,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,15,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,15,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,15,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,15,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,15,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,15,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,15,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Buchanan Valley Township,Q4982593,15,1,2,"township in Emmons County, North Dakota, United States",,Q6643834,,"Buchanan Valley Township, Emmons County, North Dakota"
+North Dakota,Emmons County,Q48917,15,1,2,"county in North Dakota, United States","Emmons County, North Dakota|Emmons County, ND",Q12178655,,"Emmons County, North Dakota"
+North Dakota,Emmons County Record,Q27963394,15,1,2,"newspaper published in Linton, North Dakota",,Q11032,,Emmons County Record
+North Dakota,"2020 COVID-19 pandemic in Emmons County, North Dakota",Q94270555,15,1,2,"pandemic in Emmons County, North Dakota","COVID-19 pandemic in Emmons County, North Dakota|2020 coronavirus outbreak in Emmons County, North Dakota|2020 Emmons County, North Dakota COVID-19 pandemic|Emmons County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Emmons County, North Dakota",Q3241045,,
+North Dakota,Emmons County Courthouse,Q5373599,15,1,2,"county courthouse in North Dakota, United States of America",,Q64037785,,Emmons County Courthouse
+North Dakota,Emmons County Waterfowl Production Area,Q49487000,15,1,2,,,Q7974063,,
+Bryant Township,Bryant Township,Q305388,16,0,1,township of Nebraska,,Q64138263,,"Bryant Township, Fillmore County, Nebraska"
+Bryant Township,Bryant Township,Q6027566,16,0,1,"township in Faulk County, South Dakota",,Q28111,,
+Bryant Township,Bryant Township,Q6027569,16,0,1,"township in Roberts County, South Dakota",,Q28111,,
+Bryant Township,Bryant Township,Q6027563,16,0,1,"township in Edmunds County, South Dakota",,Q28111,,
+Bryant Township,Bryant Township,Q2836117,16,0,1,"township in Graham County, Kansas",,Q17205735,,"Bryant Township, Graham County, Kansas"
+Bryant Township,Bryant Township,Q9036935,16,0,1,"township in Saline County, Arkansas",,Q24027556,,
+Bryant Township,Bryant Township,Q4980620,16,0,1,"township in Logan County, North Dakota",,Q6643834,,"Bryant Township, Logan County, North Dakota"
+Bryant Township,Bryant Township,Q202196,16,0,1,Wikimedia disambiguation page,,Q4167410,,Bryant Township
+North Dakota,North Dakota,Q1207,16,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,16,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,16,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,16,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,16,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,16,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,16,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,16,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,16,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,16,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Broe Township,Broe Township,Q4973214,17,0,1,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Broe Township, Benson County, North Dakota"
+North Dakota,North Dakota,Q1207,17,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,17,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,17,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,17,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,17,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,17,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,17,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,17,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,17,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,17,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Broe Township,Q4973214,17,1,2,"township in Benson County, North Dakota",,Q28111|Q6643834,,"Broe Township, Benson County, North Dakota"
+North Dakota,state highways in North Dakota,Q98671121,17,1,2,numbered system of highway routes in the U.S. state of North Dakota,North Dakota state highways|North Dakota Highways|N.D. Highways,Q25631158,,
+North Dakota,North Dakota State Bison men's basketball,Q7055048,17,1,2,basketball team that represents North Dakota State University,North Dakota State Bison men's basketball team|North Dakota State Bison basketball|North Dakota State men's basketball|North Dakota State basketball|Bison men's basketball|Bison basketball|North Dakota State University Bison men's basketball team|North Dakota State University Bison men's basketball|North Dakota State University Bison basketball team|North Dakota State University men's basketball team|North Dakota State University Bison basketball|North Dakota State University basketball|NDSU basketball|NDSU Bison men's basketball team|NDSU Bison men's basketball|NDSU Bison basketball team|NDSU Bison basketball|NDSU men's basketball team|NDSU men's basketball|NDSU basketball team,Q13393265|Q18558301,,North Dakota State Bison men's basketball
+North Dakota,North Dakota State Bison football,Q7055045,17,1,2,college football team of North Dakota State University,North Dakota Agricultural Bison football|North Dakota Agricultural Aggies football,Q17156793|Q18558301,,North Dakota State Bison football
+North Dakota,North Dakota State Bison,Q7055047,17,1,2,athletic program of North Dakota State University,North Dakota State University athletics,Q2367225,,North Dakota State Bison
+North Dakota,North Dakota state park,Q37957343,17,1,2,,State park of North Dakota,Q1761072,Q16023747,
+North Dakota,North Dakota State College of Science,Q7055057,17,1,2,"college in Wahpeton, North Dakota, U.S.",,Q3918|Q23002039,,North Dakota State College of Science
+North Dakota,North Dakota State Capitol,Q3696010,17,1,2,state capitol building of the U.S. state of North Dakota,,Q11303|Q3284499,,North Dakota State Capitol
+North Dakota,U.S. state,Q35657,17,1,2,constituent political entity of the United States of America,US state|U.S.A. state|state of America|state of United States|USA state|state of the United States|state of the USA|federated state of the USA|commonwealth (state) of the United States|state of the United States of America|U.S. states|American states (United States)|states of the United States|United States states|United States state,Q28872924|Q135236673,Q852446|Q107390|Q106458883|Q192611|Q10864048|Q155076,U.S. state
+North Dakota,United States of America state-level electoral district,Q104146934,17,1,2,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+North Dakota,United States Department of State,Q789915,17,1,2,executive department of the U.S. federal government,State Department|U.S. State Department|U.S. Department of State|DoS|USDoS|United States State Department,Q910252|Q20901295|Q327333,,United States Department of State
+North Dakota,legislature of a U.S. state,Q3270264,17,1,2,legislature of a U.S. state,legislature of a United States state|U.S. state legislature|US state legislature|state legislature (United States)|United States state legislature|state legislature of the United States|state legislature of the U.S.|state legislature of the US|U.S. state general assembly|US state general assembly|United States state general assembly|U.S. state legislative assembly|US state legislative assembly|United States state legislative assembly|United States state general court|general assembly of a U.S. state|general assembly of a US state|general assembly of a United States state|general court of a U.S. state|U.S. state general court|US state general court,,Q7603708,State legislature (United States)
+North Dakota,state education agency,Q7603678,17,1,2,state-level government organization within each U.S. state or territory responsible for education,state department of education in the United States|state education agency in the United States|state school system in the United States|United States state education agency|U.S. state education agency|US state education agency|state department of education|state educational agency|U.S. state educational agency|SEA,,Q20857085|Q28599747,State education agency
+North Dakota,state government of the United States,Q7603694,17,1,2,state-level governments of the 50 states which comprise the United States of America,state governments of the United States|U.S. state government|United States state government|American state government|USA state government,,Q1802419|Q56061,State governments of the United States
+North Dakota,upper house of U.S. state legislature,Q15891112,17,1,2,chamber of a U.S. state bicameral legislature,upper chamber of U.S. state legislature|U.S. state upper house|US state upper house|United States state upper house|U.S. state senate|US state senate|United States state senate|state upper house in the United States,,Q637846|Q110315658,
+North Dakota,lower house of U.S. state legislature,Q18608569,17,1,2,chamber of a U.S. state bicameral legislature,U.S. state house of representatives|US state house of representatives|United States state house of representatives|U.S. state house of delegates|US state house of delegates|United States state house of delegates|U.S. state assembly|US state assembly|United States state assembly,,Q375928|Q110315658,
+North Dakota,state senator,Q7603534,17,1,2,member of an upper house of a U.S. state legislature,US state senator|state senator of the United States|U.S. state senator|United States state senator,Q4164871,Q15686806|Q17279032|Q106088317,State senator
+North Dakota,member of United States state lower house,Q106079967,17,1,2,member of the lower legislative chamber of a U.S. state,member of US state lower house|member of US state house of representatives|member of the State House of Representatives|member of U.S. state lower house|member of U.S. state house of representatives|member of U.S. house of delegates|member of US house of delegates|U.S. state representative|US state representative|United States state representative|U.S. state delegate|US state delegate|United States state delegate|member of lower house of U.S. state legislature|member of state lower house in the United States,Q4164871,Q486839|Q17279032|Q106088317,
+Beaver Township,Beaver Township,Q10738614,18,0,1,township in Missouri,"Beaver Township, Taney County, Missouri",Q6270791|Q19610511,,"Beaver Township, Taney County, Missouri"
+Beaver Township,Beaver Township,Q1895413,18,0,1,"township in Mahoning County, Ohio",,Q17198620,,"Beaver Township, Mahoning County, Ohio"
+Beaver Township,Beaver Township,Q4878204,18,0,1,"township in Noble County, Ohio",,Q17198620,,"Beaver Township, Noble County, Ohio"
+Beaver Township,Beaver Township,Q4878179,18,0,1,"township in Bay County, Michigan",,Q17205774,,"Beaver Township, Bay County, Michigan"
+Beaver Township,Beaver Township,Q608481,18,0,1,"township in Iroquois County, Illinois",,Q17198545,,"Beaver Township, Iroquois County, Illinois"
+Beaver Township,Beaver Township,Q4878186,18,0,1,"township in Columbia County, Pennsylvania",,Q9035798,,"Beaver Township, Columbia County, Pennsylvania"
+Beaver Township,Beaver Township,Q10738612,18,0,1,"township in Grundy County, Iowa","Beaver Township, Grundy County, Iowa|Township of Beaver",Q17205621|Q1394476,,"Beaver Township, Grundy County, Iowa"
+Beaver Township,Beaver Township,Q9036281,18,0,1,"township in Guthrie County, Iowa","Beaver Township, Guthrie County, Iowa|Township of Beaver",Q17205621|Q1394476,,"Beaver Township, Guthrie County, Iowa"
+Beaver Township,Beaver Township,Q10835351,18,0,1,"township in Saline County, Arkansas",,Q24027556,,"Beaver Township, Saline County, Arkansas"
+Beaver Township,Beaver Township,Q2895349,18,0,1,"township in Republic County, Kansas, United States","Beaver Township, Republic County, Kansas",Q17205735,,"Beaver Township, Republic County, Kansas"
+Beaver Township,"Beaver Township, Minnesota",Q4878195,18,0,2,Wikimedia disambiguation page,,Q4167410,,"Beaver Township, Minnesota"
+Beaver Township,"Beaver Township, Ohio",Q4878203,18,0,2,Wikimedia disambiguation page,,Q4167410,,"Beaver Township, Ohio"
+North Dakota,North Dakota,Q1207,18,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,18,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,18,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,18,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,18,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,18,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,18,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,18,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,18,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,18,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Albert Township,Albert Township,Q4711353,19,0,1,"township in Montmorency County, Michigan",,Q17205774,,"Albert Township, Michigan"
+Albert Township,Albert Township,Q4711351,19,0,1,"township in Benson County, North Dakota",,Q6643834,,"Albert Township, Benson County, North Dakota"
+Albert Township,Albert,Q28469397,19,0,1,"human settlement in Sacré-Coeur, Quebec, Canada",Albert Township,Q23019040,,
+Albert Township,Albert Township Cemetery,Q117505354,19,0,1,"cemetery in Montmorency County, Michigan, United States",Lewiston Cemetery,Q39614,,
+Albert Township,Finnish Cemetery,Q117637703,19,0,1,"cemetery in Montmorency County, Michigan, United States",Albert Township East Cemetery,Q39614,,
+Albert Township,Albert Township,Q2638915,19,0,1,Wikimedia disambiguation page,,Q4167410,,Albert Township
+North Dakota,North Dakota,Q1207,19,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,19,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,19,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,19,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,19,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,19,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,19,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,19,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,19,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,19,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+North Dakota,Albert Township,Q4711353,19,1,2,"township in Montmorency County, Michigan",,Q17205774,,"Albert Township, Michigan"
+North Dakota,Albert Township,Q4711351,19,1,2,"township in Benson County, North Dakota",,Q6643834,,"Albert Township, Benson County, North Dakota"
+North Dakota,Albert,Q28469397,19,1,2,"human settlement in Sacré-Coeur, Quebec, Canada",Albert Township,Q23019040,,
+North Dakota,Albert Township Cemetery,Q117505354,19,1,2,"cemetery in Montmorency County, Michigan, United States",Lewiston Cemetery,Q39614,,
+North Dakota,Finnish Cemetery,Q117637703,19,1,2,"cemetery in Montmorency County, Michigan, United States",Albert Township East Cemetery,Q39614,,
+North Dakota,Albert Township,Q2638915,19,1,2,Wikimedia disambiguation page,,Q4167410,,Albert Township
+North Dakota,state highways in North Dakota,Q98671121,19,1,2,numbered system of highway routes in the U.S. state of North Dakota,North Dakota state highways|North Dakota Highways|N.D. Highways,Q25631158,,
+North Dakota,North Dakota State Bison men's basketball,Q7055048,19,1,2,basketball team that represents North Dakota State University,North Dakota State Bison men's basketball team|North Dakota State Bison basketball|North Dakota State men's basketball|North Dakota State basketball|Bison men's basketball|Bison basketball|North Dakota State University Bison men's basketball team|North Dakota State University Bison men's basketball|North Dakota State University Bison basketball team|North Dakota State University men's basketball team|North Dakota State University Bison basketball|North Dakota State University basketball|NDSU basketball|NDSU Bison men's basketball team|NDSU Bison men's basketball|NDSU Bison basketball team|NDSU Bison basketball|NDSU men's basketball team|NDSU men's basketball|NDSU basketball team,Q13393265|Q18558301,,North Dakota State Bison men's basketball
+North Dakota,North Dakota State Bison football,Q7055045,19,1,2,college football team of North Dakota State University,North Dakota Agricultural Bison football|North Dakota Agricultural Aggies football,Q17156793|Q18558301,,North Dakota State Bison football
+North Dakota,North Dakota State Bison,Q7055047,19,1,2,athletic program of North Dakota State University,North Dakota State University athletics,Q2367225,,North Dakota State Bison
+North Dakota,North Dakota state park,Q37957343,19,1,2,,State park of North Dakota,Q1761072,Q16023747,
+North Dakota,North Dakota State College of Science,Q7055057,19,1,2,"college in Wahpeton, North Dakota, U.S.",,Q3918|Q23002039,,North Dakota State College of Science
+North Dakota,North Dakota State Capitol,Q3696010,19,1,2,state capitol building of the U.S. state of North Dakota,,Q11303|Q3284499,,North Dakota State Capitol
+North Dakota,North Dakota University System,Q3878529,19,1,2,Public university system in North Dakota,,Q1075106,,North Dakota University System
+Adams Township,Adams Township,Q958845,20,0,1,"township in Allen County, Indiana",,Q17201685,,"Adams Township, Allen County, Indiana"
+Adams Township,Adams Township,Q7998567,20,0,1,"township in Washington County, Ohio","Adams Township, Washington County, Ohio",Q17198620,,"Adams Township, Washington County, Ohio"
+Adams Township,Adams Township,Q4680417,20,0,1,"township in Butler County, Pennsylvania",,Q9035798,,"Adams Township, Butler County, Pennsylvania"
+Adams Township,Adams Township,Q7997233,20,0,1,"township in Houghton County, Michigan",,Q17205774,,"Adams Township, Houghton County, Michigan"
+Adams Township,Adams Township,Q603990,20,0,1,"township in Parke County, Indiana, United States",,Q17201685,,"Adams Township, Parke County, Indiana"
+Adams Township,Adams Township,Q351976,20,0,1,"township in Champaign County, Ohio","Adams Township, Champaign County, Ohio",Q17198620,,"Adams Township, Champaign County, Ohio"
+Adams Township,Adams Township,Q351982,20,0,1,"township in Clinton County, Ohio",,Q17198620,,"Adams Township, Clinton County, Ohio"
+Adams Township,Adams Township,Q4680418,20,0,1,"township in Carroll County, Indiana",,Q17201685,,"Adams Township, Carroll County, Indiana"
+Adams Township,Adams Township,Q2877319,20,0,1,"township in Warren County, Indiana",,Q17201685,,"Adams Township, Warren County, Indiana"
+Adams Township,Adams Township,Q4680452,20,0,1,"township in Ripley County, Indiana",,Q17201685,,"Adams Township, Ripley County, Indiana"
+Adams Township,Adams County,Q112807,20,0,2,"county in Colorado, United States","Adams County, Colorado|Adams County, CO",Q13410403,,"Adams County, Colorado"
+Adams Township,Adams County,Q109815,20,0,2,"county in Idaho, United States","Adams County, Idaho|Adams County, ID",Q13410433,,"Adams County, Idaho"
+Adams Township,Adams County,Q108788,20,0,2,"county in Mississippi, United States","Adams County, Mississippi|Adams County, MS",Q13410508,,"Adams County, Mississippi"
+Adams Township,Adams County,Q109969,20,0,2,"county in Ohio, United States","Adams County, Ohio|Adams County, OH",Q13414759,,"Adams County, Ohio"
+Adams Township,Adams County,Q351865,20,0,2,"county in Pennsylvania, United States","Adams County, Pennsylvania|Adams County, PA",Q13414763,,"Adams County, Pennsylvania"
+Adams Township,Adams County,Q108798,20,0,2,"county in Illinois, United States","Adams County, Illinois|Adams County, IL",Q11812346,,"Adams County, Illinois"
+Adams Township,Adams County,Q351887,20,0,2,"county in Wisconsin, United States","Adams County, Wisconsin|Adams County, WI",Q12178928,,"Adams County, Wisconsin"
+Adams Township,Adams County,Q351808,20,0,2,"county in Indiana, United States","Adams County, Indiana|Adams County, IN",Q13410438,,"Adams County, Indiana"
+Adams Township,Adams County,Q156273,20,0,2,"county in Washington, United States","Adams County, Washington|Adams County, WA",Q13415369,,"Adams County, Washington"
+Adams Township,Adams County,Q112823,20,0,2,"county in Nebraska, United States","Adams County, Nebraska|Adams County, NE",Q13414361,,"Adams County, Nebraska"
+North Dakota,North Dakota,Q1207,20,1,1,state of the United States of America,"North Dakota, United States|State of North Dakota|NoDak|N. Dakota|N. Dak.|Peace Garden State|Roughrider State|Flickertail State|US-ND",Q35657,,North Dakota
+North Dakota,University of North Dakota,Q968559,20,1,1,"public university in North Dakota, United States of America",UND|und.edu,Q875538|Q15936437|Q23002039,,University of North Dakota
+North Dakota,North Dakota State University,Q2000624,20,1,1,"public university in Fargo, North Dakota",North Dakota State University of Agriculture and Applied Sciences|NDSU|North Dakota Agricultural College|NDAC|ndsu.edu,Q875538|Q15936437|Q615150|Q23002039,,North Dakota State University
+North Dakota,114703 North Dakota,Q3597088,20,1,1,minor planet,North Dakota,Q3863,,114703 North Dakota
+North Dakota,North Dakota,Q99670860,20,1,1,the federated state of North Dakota in the U.S. as depicted in Star Trek,Star Trek North Dakota,Q64034451|Q15796005,,
+North Dakota,North Dakota,Q7054986,20,1,1,album by Tom Brosseau,,Q482994,,North Dakota (album)
+North Dakota,North Dakota Century Code,Q7054993,20,1,1,codified laws of North Dakota,N.D.C.C.|NDCC|N.D.Cent. Code,Q820655|Q7766927|Q922203,,North Dakota Century Code
+North Dakota,member of the State Senate of North Dakota,Q21366730,20,1,1,legislative position,member of the North Dakota state senate|North Dakota state senator|member of the North Dakota Senate,Q4164871,Q7603534,
+North Dakota,Governor of North Dakota,Q3773741,20,1,1,head of state and of government of the U.S. state of North Dakota,North Dakota Governor|Governor of the State of North Dakota,Q889821,,Governor of North Dakota
+North Dakota,North Dakota Legislative Assembly,Q7055026,20,1,1,legislative branch of the North Dakota government,ND state legislature|North Dakota state legislature|North Dakota legislature|ND legislature|ND Legislative Assembly,Q3270264|Q189445,,North Dakota Legislative Assembly
+Roseville Township,Roseville Township,Q1912021,21,0,1,"township in Kandiyohi County, Minnesota",,Q42211429,,"Roseville Township, Kandiyohi County, Minnesota"
+Roseville Township,Roseville Township,Q7368743,21,0,1,"township in Warren County, Illinois",,Q17198545,,"Roseville Township, Warren County, Illinois"
+Roseville Township,Roseville Township,Q1912181,21,0,1,"township in Grant County, Minnesota",,Q42211429,,"Roseville Township, Grant County, Minnesota"
+Roseville Township,Roseville Township,Q9044159,21,0,1,township in Arkansas,,Q24027556,,
+Roseville Township,Roseville Township,Q9044161,21,0,1,"township in Traill County, North Dakota",,Q6643834,,
+Roseville Township,Roseville Township,Q2167333,21,0,1,Wikimedia disambiguation page,,Q4167410,,Roseville Township
+Roseville Township,"Roseville Township, Minnesota",Q7368739,21,0,1,Wikimedia disambiguation page,Roseville Township,Q4167410,,"Roseville Township, Minnesota"
+Traill County,Traill County,Q511524,21,1,1,"county in North Dakota, United States of America","Traill County, North Dakota|Traill County, ND",Q12178655,,"Traill County, North Dakota"
+Traill County,Amos and Lillie Plummer House,Q4747971,21,1,1,"single-family detached home in Hillsboro, North Dakota",Traill County Historical Society Museum,Q1307276,,Amos and Lillie Plummer House
+Traill County,"2020 COVID-19 pandemic in Traill County, North Dakota",Q94271225,21,1,1,"pandemic in Traill County, North Dakota","COVID-19 pandemic in Traill County, North Dakota|2020 coronavirus outbreak in Traill County, North Dakota|2020 Traill County, North Dakota COVID-19 pandemic|Traill County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Traill County, North Dakota",Q3241045,,
+Traill County,Traill County Courthouse,Q7832827,21,1,1,"county courthouse in Hillsboro, United States of America",Trail County Courthouse,Q64037785,,Traill County Courthouse
+Traill County,Traill County Waterfowl Production Area,Q49571690,21,1,1,park in the United States of America,,Q7974063,,
+Traill County,Traill County Poor Farm Cemetery,Q117701809,21,1,1,"cemetery in Traill County, North Dakota, United States",,Q39614,,
+Lansing Township,Lansing Charter Township,Q6029779,22,0,1,"township in Ingham County, Michigan","Lansing Charter Township, Michigan|Charter Township of Lansing|Lansing Township, Michigan|Lansing Township|Lansing Charter Twp",Q5086782,,"Lansing Charter Township, Michigan"
+Lansing Township,Lansing Township,Q1907861,22,0,1,"township in Mower County, Minnesota","Lansing Township, MN",Q15063142,,"Lansing Township, Mower County, Minnesota"
+Lansing Township,Lansing Township,Q6029776,22,0,1,"township in Brown County, South Dakota",,Q28111,,
+Lansing Township,Lansing Township,Q2219921,22,0,1,"township in Allamakee County, Iowa",,Q17205621,,"Lansing Township, Allamakee County, Iowa"
+Lansing Township,Lansing Township,Q9041184,22,0,1,"township in Towner County, North Dakota, United States","Lansing Township, North Dakota",Q6643834,,
+Lansing Township,Lansing Township,Q1182261,22,0,1,Wikimedia disambiguation page,,Q4167410,,Lansing Township
+Lansing Township,Lansing,Q28237,22,0,2,"capital city of the U.S. state of Michigan, located in Ingham, Eaton, and Clinton counties","Lansing, Michigan|Lansing, MI",Q139903024|Q21518270|Q1549591,,"Lansing, Michigan"
+Lansing Township,"2020 COVID-19 pandemic in Lansing, Michigan",Q95682124,22,0,2,"pandemic in Lansing, Michigan","2020 coronavirus outbreak in Lansing, Michigan|COVID-19 pandemic in Lansing, Michigan|2020 Lansing, Michigan COVID-19 pandemic|Lansing, Michigan COVID-19 pandemic|2020 COVID pandemic in Lansing, Michigan",Q3241045,,
+Lansing Township,"Lansing, Michigan airport designated 'aerotropolis'",Q17652480,22,0,2,Wikinews article,,Q17633526,,
+Towner County,Towner County,Q511510,22,1,1,"county in North Dakota, United States","Towner County, North Dakota|Towner County, ND",Q12178655,,"Towner County, North Dakota"
+Towner County,"2020 COVID-19 pandemic in Towner County, North Dakota",Q94271222,22,1,1,"pandemic in Towner County, North Dakota","COVID-19 pandemic in Towner County, North Dakota|2020 coronavirus outbreak in Towner County, North Dakota|2020 Towner County, North Dakota COVID-19 pandemic|Towner County, North Dakota COVID-19 pandemic|2020 COVID pandemic in Towner County, North Dakota",Q3241045,,
+Towner County,Towner County Courthouse,Q7830108,22,1,1,"historic government building in North Dakota, United States",,Q64037785,,Towner County Courthouse
+Towner County,Towner County Waterfowl Production Area,Q49571564,22,1,1,park in the United States of America,,Q7974063,,
+Towner County,Towner County Medical Center heliport,Q61674986,22,1,1,"heliport in North Dakota, United States",ND28,Q502074,,
+Towner County,Lansing Charter Township,Q6029779,22,1,2,"township in Ingham County, Michigan","Lansing Charter Township, Michigan|Charter Township of Lansing|Lansing Township, Michigan|Lansing Township|Lansing Charter Twp",Q5086782,,"Lansing Charter Township, Michigan"
+Towner County,Lansing Township,Q1907861,22,1,2,"township in Mower County, Minnesota","Lansing Township, MN",Q15063142,,"Lansing Township, Mower County, Minnesota"
+Towner County,Lansing Township,Q6029776,22,1,2,"township in Brown County, South Dakota",,Q28111,,
+Towner County,Lansing Township,Q2219921,22,1,2,"township in Allamakee County, Iowa",,Q17205621,,"Lansing Township, Allamakee County, Iowa"
+Towner County,Lansing Township,Q9041184,22,1,2,"township in Towner County, North Dakota, United States","Lansing Township, North Dakota",Q6643834,,
+Towner County,Lansing Township,Q1182261,22,1,2,Wikimedia disambiguation page,,Q4167410,,Lansing Township
+Mauch Township,Mauch Township,Q9042109,23,0,1,"township in Sheridan County, North Dakota, United States",,Q6643834,,
+Sheridan County,Sheridan County,Q490522,23,1,1,"county in Wyoming, United States","Sheridan County, Wyoming|Sheridan County, WY",Q13415371,,"Sheridan County, Wyoming"
+Sheridan County,Sheridan County,Q495969,23,1,1,"county in Nebraska, United States","Sheridan County, Nebraska|Sheridan County, NE",Q13414361,,"Sheridan County, Nebraska"
+Sheridan County,Sheridan County,Q496629,23,1,1,"county in Montana, United States","Sheridan County, Montana|Sheridan County, MT",Q13414358,,"Sheridan County, Montana"
+Sheridan County,Sheridan County,Q500598,23,1,1,"county in North Dakota, United States","Sheridan County, North Dakota|Sheridan County, ND",Q12178655,,"Sheridan County, North Dakota"
+Sheridan County,Sheridan County,Q374382,23,1,1,"county in Kansas, United States","Sheridan County, Kansas|Sheridan County, KS",Q13410444,,"Sheridan County, Kansas"
+Sheridan County,Sheridan County MPS,Q108617692,23,1,1,multiple listing in the U.S. National Register of Historic Places,Sheridan County Multiple Property Submission,Q18247357,,
+Sheridan County,Sheridan County Library System,Q69495695,23,1,1,"public library system in Wyoming, USA",,Q26271642,,
+Sheridan County,Sheridan County State Lake Dam,Q34927236,23,1,1,"dam in Sheridan County, Kansas, United States of America",,Q12323,,
+Sheridan County,Sheridan County Library,Q69481828,23,1,1,"public library system in Montana, USA",,Q26271642,,
+Sheridan County,Sheridan County Public Library,Q69476140,23,1,1,"public library system in Kansas, USA",,Q26271642,,
+Sheridan County,Mauch Township,Q9042109,23,1,2,"township in Sheridan County, North Dakota, United States",,Q6643834,,
+Sheridan County,Sheridan,Q16883169,23,1,2,family name,,Q101352,,Sheridan (surname)
+Sheridan County,Sheridan,Q28038496,23,1,2,unisex given name,,Q3409032,,
+Sheridan County,Dave Sheridan,Q936507,23,1,2,American actor,"David Christopher ""Dave"" Sheridan|David Christopher Sheridan|Sheridan|Dave",Q5,,Dave Sheridan (actor)
+Sheridan County,Sheridan,Q1017214,23,1,2,"city in and county seat of Sheridan County, Wyoming, United States","Sheridan, Wyoming|Sheridan, WY",Q1093829|Q62049,,"Sheridan, Wyoming"
+Sheridan County,Sheridan Le Fanu,Q326467,23,1,2,Irish writer of Gothic tales and mystery novels (1814–1873),"Joseph Thomas Sheridan Le Fanu|Joseph Sheridan Le Fanu|J. Sheridan Le Fanu|Charles de Cresserons Francis Purcell, Reverend",Q5,,Sheridan Le Fanu
+Sheridan County,Sheridan,Q80089,23,1,2,"city in and county seat of Grant County, Arkansas, United States","Sheridan, Arkansas|Sheridan, AR",Q1093829|Q62049,,"Sheridan, Arkansas"
+Sheridan County,Sheridan Smith,Q3355676,23,1,2,British actress,,Q5,,Sheridan Smith
+Sheridan County,Sheridan,Q2107670,23,1,2,"city in Oregon, USA","Sheridan, Oregon|Sheridan, OR",Q63440326,,"Sheridan, Oregon"
+Sheridan County,Clare Frewen Sheridan,Q519590,23,1,2,British artist (1885-1970),Clare Consuelo Sheridan|Clare Consuelo Frewen|Clare Consuelo nee Frewen Sheridan|Clare Sheridan|Claire Consuelo Frewen|sheridan|clare sheridan|Clare Sherisan,Q5,,Clare Sheridan
+Sheridan County,county government in the United States,Q102121698,23,1,2,governing body of a U.S. county,United States county government|U.S. county government|US county government|county government|county government--United States,,Q106513499,
+Sheridan County,county government,Q16411181,23,1,2,government of a county of Estonia,maavalitsus|county government in Estonia,Q77418201,Q1802419|Q12378141,
+Sheridan County,county government,Q106513499,23,1,2,governing body of a county,county administration,,Q6501447,
+Sheridan County,Ohio county government,Q7081041,23,1,2,structure of the official managerial and legal bodies of the counties of the U.S. state of Ohio,county government in Ohio,,Q102121698,Ohio county government
+Sheridan County,county government in California,Q106514250,23,1,2,,California county government,Q57653825,Q102121698,
+Sheridan County,county government in New Jersey,Q102121514,23,1,2,,,Q7188,Q102121698,
+Sheridan County,County government in Nebraska,Q5177801,23,1,2,,,,,County government in Nebraska
+Sheridan County,County government in Arkansas,Q39053998,23,1,2,subdivisions of Arkansas,,,,County government in Arkansas
+Sheridan County,County Government of Nandi,Q24236165,23,1,2,,,,,County Government of Nandi
+Sheridan County,County Government - 1949 (NAID 46923),Q66331818,23,1,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Yellowstone Township,Yellowstone Township,Q9046578,24,0,1,"township in McKenzie County, North Dakota, United States","Yellowstone Township, McKenzie County, North Dakota",Q6643834,,
+Yellowstone Township,Yellowstone Township,Q2600037,24,0,1,Wikimedia disambiguation page,,Q4167410,,
+Yellowstone Township,McKenzie County,Q280844,24,0,2,"county in North Dakota, United States","McKenzie County, North Dakota|McKenzie County, ND",Q12178655,,"McKenzie County, North Dakota"
+Yellowstone Township,"2020 COVID-19 pandemic in McKenzie County, North Dakota",Q94271127,24,0,2,"pandemic in McKenzie County, North Dakota","COVID-19 pandemic in McKenzie County, North Dakota|2020 coronavirus outbreak in McKenzie County, North Dakota|2020 McKenzie County, North Dakota COVID-19 pandemic|McKenzie County, North Dakota COVID-19 pandemic|2020 COVID pandemic in McKenzie County, North Dakota",Q3241045,,
+McKenzie County,McKenzie County,Q280844,24,1,1,"county in North Dakota, United States","McKenzie County, North Dakota|McKenzie County, ND",Q12178655,,"McKenzie County, North Dakota"
+McKenzie County,McKenzie County Farmer,Q6801826,24,1,1,"newspaper in Watford City, North Dakota",,Q11032,,McKenzie County Farmer
+McKenzie County,Mckenzie County Public Library,Q69482314,24,1,1,"public library system in North Dakota, USA",,Q26271642,,
+McKenzie County,Mckenzie County Public Library Bookmobile,Q69864681,24,1,1,"public library in Watford City, North Dakota, USA",,Q720920|Q28564,,
+McKenzie County,"2020 COVID-19 pandemic in McKenzie County, North Dakota",Q94271127,24,1,1,"pandemic in McKenzie County, North Dakota","COVID-19 pandemic in McKenzie County, North Dakota|2020 coronavirus outbreak in McKenzie County, North Dakota|2020 McKenzie County, North Dakota COVID-19 pandemic|McKenzie County, North Dakota COVID-19 pandemic|2020 COVID pandemic in McKenzie County, North Dakota",Q3241045,,
+McKenzie County,Mckenzie County Healthcare Systems Inc,Q131345904,24,1,1,nonprofit organization from North Dakota,,Q163740,,
+McKenzie County,Yellowstone County,Q490283,24,1,2,"county in Montana, United States","Yellowstone County, Montana|Yellowstone County, MT",Q13414358,,"Yellowstone County, Montana"
+McKenzie County,"2020 COVID-19 pandemic in Yellowstone County, Montana",Q94273174,24,1,2,"pandemic in Yellowstone County, Montana","COVID-19 pandemic in Yellowstone County, Montana|2020 coronavirus outbreak in Yellowstone County, Montana|2020 Yellowstone County, Montana COVID-19 pandemic|Yellowstone County, Montana COVID-19 pandemic|2020 COVID pandemic in Yellowstone County, Montana",Q3241045,,
+McKenzie County,Yellowstone County Montana Democrats,Q99752799,24,1,2,political organization in US state of Montana,Yellowstone County Democrats|yellowstonedems.org|Yellowstone County MT Democrats,Q7210356,,
+McKenzie County,Yellowstone County News,Q119398531,24,1,2,Montana weekly newspaper,,Q11032,,Yellowstone County News
+McKenzie County,McKenzie River,Q2691759,24,1,2,tributary of the Willamette River in Oregon,,Q4022,,McKenzie River (Oregon)
+McKenzie County,McKenzie River,Q1915238,24,1,2,river in Australia,,Q4022,,
+McKenzie County,McKenzie River,Q21908526,24,1,2,Australian River,,Q4022,,
+McKenzie County,McKenzie River,Q22479106,24,1,2,stream in Canada,,Q355304,,
+McKenzie County,Hayden Bridge,Q107778411,24,1,2,"wrought-iron truss bridge in Springfield, Oregon, spanning the McKenzie river","Booth-Kelly Bridge|Booth-Kelly Railroad Bridge|McKenzie River Railroad Bridge|Hayden Bridge (Springfield, Oregon)|McKenzie River crossing",Q158218|Q1210334|Q1068842,,Hayden Railroad Bridge
+McKenzie County,Belknap Bridge,Q4883046,24,1,2,bridge in United States of America,McKenzie River Bridge,Q537127|Q1825472,,Belknap Bridge
+McKenzie County,McKenzie River (Victoria),Q16894950,24,1,2,"river in Victoria, Australia",,Q4022,,McKenzie River (Victoria)
+McKenzie County,McKenzie River Reflections,Q106795674,24,1,2,"weekly newspaper published in McKenzie Bridge, Oregon",,Q11032,,McKenzie River Reflections
+McKenzie County,McKenzie River Corporation,Q6801842,24,1,2,,,Q4830453,,McKenzie River Corporation
+McKenzie County,McKenzie River dory,Q6801843,24,1,2,Type of dory converted for use in rivers,,,,McKenzie River dory
+McKenzie County,Yellowstone National Park,Q351,24,1,2,"first national park in the world, located in Wyoming, Montana, and Idaho in the United States","Yellowstone Park|Yellow Stone National Park|Yellow Stone|Yellowstone National Parc|Yellowstone National park|Yellowstone National Park, Montana|Yellowstone National Park, WY|Yellowstone NP|Yellowstone N. Park|Yellowstone park|YELL",Q34918903|Q158454|Q46169|Q17343829,,Yellowstone National Park
+McKenzie County,Yellowstone National Park,Q23859999,24,1,2,article in Otto's encyclopedia,,Q13433827,,
+McKenzie County,Yellowstone National Park Archives,Q66812163,24,1,2,archives of Yellowstone National Park,,Q166118|Q66810188,,
+McKenzie County,Yellowstone National Park Protection Act,Q112125477,24,1,2,US Law establishing Yellowstone National park in 1872,Public Law 42-16,Q476068,,Yellowstone National Park Protection Act
+McKenzie County,Yellowstone National Park Canyon Village Lodge,Q22073512,24,1,2,"lodging and Resort in Wyoming, United States",,Q27686,,Yellowstone National Park Canyon Village Lodge
+McKenzie County,Yellowstone National Park County,Q8051993,24,1,2,"former county-equivalent in Montana, United States","Yellowstone National Park, Montana|Yellowstone National Park (part), Montana, MT|Yellowstone National Park (part)",Q13414358|Q19953632,,"Yellowstone National Park (part), Montana"
+McKenzie County,2020 COVID-19 pandemic in Yellowstone National Park,Q94273177,24,1,2,pandemic in Yellowstone National Park,"2020 coronavirus outbreak in Yellowstone National Park|COVID-19 pandemic in Yellowstone National Park|2020 Yellowstone National Park COVID-19 pandemic|Yellowstone National Park COVID-19 pandemic|2020 COVID pandemic in Yellowstone National Park|2020 COVID-19 pandemic in Yellowstone National Park, United States of America|COVID-19 pandemic in Yellowstone National Park, United States of America|2020 COVID-19 pandemic in Yellowstone National Park, United States|COVID-19 pandemic in Yellowstone National Park, United States",Q3241045,,
+McKenzie County,Yellowstone National Park MPS,Q115307303,24,1,2,multiple listing in the U.S. National Register of Historic Places,Yellowstone National Park Multiple Property Submission,Q18247357,,
+McKenzie County,Yellowstone National Park silver dollar,Q65043319,24,1,2,United States commemorative coin,,Q855973,,Yellowstone National Park silver dollar
+McKenzie County,"Yellowstone National Park, Wyoming, U.S.",Q20803693,24,1,2,1912 film by J. Searle Dawley,,Q24862,,

@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+The Budget,government budget,Q271855,0,0,1,government document presenting the government's proposed revenues and spending for a fiscal year,budget|the budget|national budget|general appropriations|general appropriations act|appropriations act|yearly national budget|state budget,,Q30941709,Government budget
+The Budget,The Budget,Q142820,0,0,1,periodical literature,,Q1002697,,The Budget (Ohio newspaper)
+The Budget,The Budget,Q22482403,0,0,1,,,Q55670187,,
+The Budget,The Budget,Q22482414,0,0,1,,,Q28337,,
+The Budget,The Budget,Q135350269,0,0,1,,,Q11032,,The Budget (New Jersey newspaper)
+The Budget,The Budget,Q100287596,0,0,1,"newspaper published in Lawrence, Kansas",Budget,Q11032,,
+The Budget,The Budget (Northern Ireland) Order 2004,Q99847884,0,0,1,Northern Ireland Order in Council 2004 No. 707 (N.I. 6),,Q7604686,,
+The Budget,The Budget (No. 2) (Northern Ireland) Order 2003,Q99849991,0,0,1,Northern Ireland Order in Council 2003 No. 1885 (N.I. 14),,Q7604686,,
+The Budget,The Budget (Northern Ireland) Order 2005,Q99835277,0,0,1,Northern Ireland Order in Council 2005 No. 860 (N.I. 3),,Q7604686,,
+The Budget,The Budget Responsibility and National Audit Act 2011 (Consequential Amendments) Order 2012,Q99683333,0,0,1,UK Statutory Instrument 2012 No. 725,,Q7604686,,
+The Budget,budget,Q41263,0,0,2,balance sheet or statement of estimated receipts and expenditures,budgets,Q1047113|Q2267705,Q1416547,Budget
+The Budget,fiscal year,Q191891,0,0,2,one-year term for government and business financial reporting,financial year|budget year,Q1790144|Q136721469,Q1754678|Q577,Fiscal year
+The Budget,budget appropriation,Q105737223,0,0,2,"money provided for in a public budget, which must be spent on a specific purpose",,,Q41263,
+The Budget,budget,Q27998498,0,0,2,government document explaining public spending,,,,
+The Budget,Sweden's national budget,Q25708258,0,0,2,,national budget of Sweden|budget of Sweden,,Q271855,
+The Budget,Budget Cuts,Q97088391,0,0,2,2018 virtual reality video game,,Q7889,,Budget Cuts
+The Budget,budget management department,Q1125239,0,0,2,type of government organization,,Q140392195,Q2659904|Q948571|Q2101636|Q699386,
+The Budget,Budgett,Q4985048,0,0,2,family name,,Q101352,,Budgett
+The Budget,Budget Rent a Car,Q1001437,0,0,2,American car rental company of Avis,"Budget Rent-a-Car|Budget Rent A Car System, Inc.|Budget|Budget Truck|Budget Car Rental",Q4830453,,Budget Rent a Car
+The Budget,financial plan,Q1416547,0,0,2,comprehensive evaluation of someone's current and future financial state,financial planning,Q132798322,Q1371819,Financial plan
+The Budget,financial planner,Q1089801,0,0,2,profession,,Q28640,,Financial planner
+The Budget,financial planning,Q2120150,0,0,2,planning for how a business or individual can achieve their goals,,Q1914636|Q11862829,Q309100,Financial planning (business)
+The Budget,Financial Planning Review,Q59554243,0,0,2,journal,,Q5633421,,
+The Budget,Financial Planning Association,Q5449635,0,0,2,organization,,Q43229,,Financial Planning Association
+The Budget,Financial Planning Standards Board India,Q5449634,0,0,2,,,Q4830453,,Financial Planning Standards Board India
+The Budget,Financial Planning Review,Q96701670,0,0,2,,,Q5633421,,
+The Budget,Financial planning,Q74573321,0,0,2,edition; published in 2009,,Q3331189,,
+The Budget,Financial planning,Q76539132,0,0,2,book (work),,Q47461344,,
+The Budget,Financial Planning Association of Australia,Q67776560,0,0,2,professional organization,FPA,Q1110684,,Financial Planning Association of Australia
+The World,world,Q16502,1,0,1,"term ambiguously referring to any of: the whole of reality, the universe, the Earth and all life upon it, or human civilization",natural world|the world,Q122754124|Q33104279,Q53617407,World
+The World,Rochester,Q49218,1,0,1,"county seat of Monroe County, New York, United States","Rochester, New York|City of Rochester|Rochester, NY|Rochester, USA|ROC|Roc City|Flower City|Flour City|The World's Image Centre|Young Lion of the West",Q1093829|Q1549591|Q15063611|Q62049|Q515,,"Rochester, New York"
+The World,New York World,Q1066835,1,0,1,newspaper published in New York City from 1860 until 1931,The World|The New York World|World,Q11032|Q1002697,,New York World
+The World,World Wide Web,Q466,1,0,1,global system of interlinked hypertext documents accessed via the Internet,the Web|the World Wide Web,Q121182|Q65966993,Q1668024|Q1076968,World Wide Web
+The World,The World,Q138130692,1,0,1,episode of Queen of the South (S3 E13),,Q1464125,,
+The World,The World Is Not Enough,Q212145,1,0,1,1999 film by Michael Apted,World Is Not Enough,Q11424,,The World Is Not Enough
+The World,Avibase,Q20749148,1,0,1,database of the birds of the world,Avibase - the world bird database|The World Bird Database,Q4117139|Q5570651|Q7094076,,Avibase
+The World,The World,Q270844,1,0,1,artificial archipelago of various small islands,World Islands,Q135474849,,The World (archipelago)
+The World,World Bank,Q7164,1,0,1,international financial institution,"World Bank, WB|The World Bank|WB",Q1345691|Q5266746,,World Bank
+The World,The World Allergy Organization Journal,Q15756346,1,0,1,journal,WAO Journal|World Allergy Organization Journal,Q5633421|Q773668|Q73364223|Q73365499|Q737498|Q73364223,,World Allergy Organization Journal
+The World,Earth,Q2,1,0,2,third planet from the Sun in the Solar System,Planet Earth|World|Mother Earth|The Blue Planet|The Earth,Q3504248|Q2221906|Q82794,,Earth
+The World,Earth,Q5327042,1,0,2,1978 album by Jefferson Starship,,Q482994,,Earth (Jefferson Starship album)
+The World,soil,Q36133,1,0,2,natural body consisting of layers that are primarily composed of minerals,dirt|ground|earth,,Q1155083|Q11780457|Q106865236|Q1783121|Q206615,Soil
+The World,"Earth, Wind & Fire",Q28974,1,0,2,american band,"Earth Wind & Fire|Earth, Wind and Fire|Earth Wind and Fire|Earth, Wind, and Fire|Earth, Wind, & Fire|EWF|EW&F",Q215380,,"Earth, Wind & Fire"
+The World,Earth,Q5327043,1,0,2,1989 album by Matthew Sweet,,Q482994,,Earth (Matthew Sweet album)
+The World,Earth,Q24706104,1,0,2,2016 triple live album by Neil Young + Promise of the Real,554514-1,Q482994,,Earth (Neil Young and Promise of the Real album)
+The World,earthquake,Q7944,1,0,2,result of a sudden release of energy in the Earth's crust that creates seismic waves,quake|tremor|temblor|earth quake|earthquakes|earth quakes,,Q8065|Q108156638|Q2692116|Q123349687|Q136927433,Earthquake
+The World,day,Q573,1,0,2,"unit of time lasting 24 hours, derived from the period of Earth's rotation about its axis",days|Earth day,Q1790144|Q106839753|Q82047057|Q3268848,Q2199864|Q78754808|Q186081,Day
+The World,Earth,Q115178805,1,0,2,2022 Sault album,,Q482994,,Earth (Sault album)
+The World,Black Sabbath,Q47670,1,0,2,British heavy metal band,The Polka Tulk Blues Band|Polka Tulk Blues Band|Polka Tulk|Earth,Q56816954,,Black Sabbath
+The World,terra,Q3518514,1,0,2,extensive land mass on a celestial body,terrae,,Q271669,
+The World,Terra,Q584697,1,0,2,NASA climate research satellite,EOS AM-1,Q854845|Q12832168,,Terra (satellite)
+The World,Terra,Q7703055,1,0,2,genus of insects,,Q16521,,Terra (butterfly)
+The World,Terra,Q66446784,1,0,2,female given name,,Q11879590,,
+The World,Terra,Q14915957,1,0,2,2013 album by Jenni Vartiainen,,Q482994,,Terra (Jenni Vartiainen album)
+The World,Terra,Q1135120,1,0,2,"web portal and internet company, subsidiary of Telefônica Brasil","Terra Networks, S.A.|Telefónica Interactiva, S.A.|Telefónica Comunicaciones Interactivas, S.A.",Q4830453|Q35127|Q17232649|Q1153191,,Terra (company)
+The World,Terra,Q7703057,1,0,2,massively multiplayer online role-playing game,,Q7889,,Terra (video game)
+The World,Terracina,Q128226,1,0,2,Italian comune,,Q747074,,Terracina
+The World,terracotta,Q60424,1,0,2,clay-based unglazed ceramic,terra cotta|fired clay|terra-cotta,,Q2442384,Terracotta

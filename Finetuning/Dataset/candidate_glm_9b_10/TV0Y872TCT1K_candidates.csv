@@ -1,0 +1,319 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Cairo,Cairo,Q85,0,0,1,capital city of Egypt,"Qahira|Cairo, Egypt|ghahere",Q1549591|Q174844|Q51929311|Q200250|Q15661340|Q1200957|Q108178728,,Cairo
+Cairo,Cairo,Q16865296,0,0,1,family name,,Q101352,,Cairo (surname)
+Cairo,Cairo,Q99836774,0,0,1,given name,,Q202444,,
+Cairo,HMT Royal Edward,Q2171022,0,0,1,1907 liner converted to troopship,Cairo|Royal Edward,Q697196|Q671079|Q852190,,HMT Royal Edward
+Cairo,Cairo Governorate,Q30805,0,0,1,governorate of Egypt,al-Qāhirah Governorate,Q204910,,Cairo Governorate
+Cairo,Cairo,Q575306,0,0,1,"city in Illinois, United States","Cairo, Illinois|Cairo, IL",Q1093829|Q62049,,"Cairo, Illinois"
+Cairo,Cairo International Airport,Q461793,0,0,1,"International Airport just outside Cairo, Egypt",Cairo Airport|CAI|HECA|Cairo,Q644371|Q1248784|Q94993988,,Cairo International Airport
+Cairo,Cairo University,Q194445,0,0,1,"public university with its main campus in Giza, Egypt",Fuad I University|King Fuad I University|Egyptian University|University of Cairo|CU|cu.edu.eg,Q875538|Q3918,,Cairo University
+Cairo,Cairo,Q2087855,0,0,1,"city in Grady County, Georgia, United States","Cairo, Georgia|Cairo, GA",Q1093829|Q76514543,,"Cairo, Georgia"
+Cairo,Cairo,Q9299150,0,0,1,computer font designed by Susan Kare,,Q1278498,,
+Cairo,"Cairo, Egypt",Q20443679,0,0,2,painting by Will Ashton,,Q3305213,,
+Cairo,"Cairo, Egypt",Q119363864,0,0,2,"painting by unknown artist, University of Exeter",,Q3305213,,
+Cairo,Cairenes,Q115241907,0,0,2,"people from or residents of Cairo, Egypt","Cairo residents|Cairo, Egypt, residents",Q33829,Q1061510|Q22947,
+Vilnius,Vilnius,Q216,1,0,1,capital and largest city of Lithuania,Viļņa|Vilnia|Vilno|Vilnyus|Vilnė|Viĺnia,Q515|Q1549591|Q108178728,,Vilnius
+Vilnius,Vilnius Gediminas Technical University,Q389852,1,0,1,"public university in Vilnius, Lithuania",Vilniaus Gedimino Technikos Universiteta|Vilnius Tech|VGTU,Q3918|Q45400320|Q875538|Q1371037,,Vilnius Gediminas Technical University
+Vilnius,Vilnius County,Q188061,1,0,1,county of Lithuania,Vilniaus apskritis|Vilnius Apskritis,Q273789,,Vilnius County
+Vilnius,Vilnius University,Q658192,1,0,1,"public research university in Vilnius, Lithuania",Vilniaus Universitetas|vu.lt,Q875538|Q45400320|Q4830453,,Vilnius University
+Vilnius,Vilnius District Municipality,Q118903,1,0,1,district municipality of Lithuania,Vilnius district|Vilniaus rajono savivaldybė|Vilniaus raiono savivaldybe|District Municipality of Vilnius,Q17301072,,Vilnius District Municipality
+Vilnius,3072 Vilnius,Q150801,1,0,1,asteroid,Vilnius,Q3863,,3072 Vilnius
+Vilnius,Vilnius train station,Q453936,1,0,1,railway station in Lithuania,vilnius railway station,Q55488,,Vilnius railway station
+Vilnius,Vilnius,Q16476450,1,0,1,daily newspaper published in Vilnius between 1920–1921,,Q11032,,
+Vilnius,Vilnius City Municipality,Q923117,1,0,1,city municipality of Lithuania,Vilniaus miesto savivaldybė|Vilniaus miesto savivaldybe|City Municipality of Vilnius,Q17166803,,Vilnius City Municipality
+Vilnius,Vilnius Elektronas,Q68078397,1,0,1,sports club,,Q847017,,
+Vilnius,Vilnius City Municipality Administration,Q15852746,1,0,2,"government organization in Vilnius, Lithuania",,Q3754526,,
+Vilnius,Vilnius city library,Q110985471,1,0,2,"library in Vilnius, Lithuania",Central Library of Vilnius City Municipality,Q7075,,
+Vilnius,Vilnius City 4th District Court,Q2523758,1,0,2,,,Q41487,,
+Vilnius,Vilnius City 1st District Court,Q1362299,1,0,2,,,Q41487,,
+Vilnius,Vilnius City Opera,Q25497177,1,0,2,,,Q24354|Q3914,,Vilnius City Opera
+Vilnius,Vilnius City 3rd District Court,Q1259296,1,0,2,,,Q41487,,
+Vilnius,Vilnius City Innovation Industrial Park,Q104835055,1,0,2,,,,,Vilnius City Innovation Industrial Park
+Vilnius,Vilnius City District Court,Q2327555,1,0,2,,,Q41487,,
+Vilnius,Vilnius City Municipality Council,Q16476400,1,0,2,local authority for the Vilnius City Municipality in Lithuania,Vilnius City Council,Q3154693,,
+Vilnius,Lithuanian Capital of Culture,Q11314906,1,0,2,,,,,Lithuanian Capital of Culture
+Bucharest,Bucharest,Q19660,2,0,1,capital and largest city of Romania,"Little Paris|Paris of the East|București|Bucureşti|Bucuresti|Bucharest, Romania",Q640364|Q10864048|Q1549591|Q1187811|Q51929311,,Bucharest
+Bucharest,University of Bucharest,Q608338,2,0,1,"university in Bucharest, Romania",Universitatea din București|UB|Universitatea din Bucureşti|Universitatea Bucureşti|Bucharest University|UniBuc|C. I. Parhon University,Q875538|Q45400320,,University of Bucharest
+Bucharest,Bucharest University of Economic Studies,Q1167563,2,0,1,"university in Bucharest, Romania",Academia de Studii Economice din București|Academy of Economic Studies of Bucharest|The Bucharest University of Economic Studies|ASE,Q875538|Q45400320|Q15936437,,Bucharest Academy of Economic Studies
+Bucharest,Bucharest Metro,Q622884,2,0,1,"rapid transit system in Bucharest, Romania",,Q5503,,Bucharest Metro
+Bucharest,Bucharest National University of Arts,Q1474930,2,0,1,"university in Bucharest, Romania","Institutul de arte plastice București|Institutul de arte plastice ""Nicolae Grigorescu"" București",Q3918|Q1377182,,Bucharest National University of Arts
+Bucharest,"Bucharest, Romania 7/4/02",Q25458437,2,0,1,album by Dream Theater,,Q482994,,
+Bucharest,Bucharest Metropolitan Library,Q28726380,2,0,1,"library in Bucharest, Romania",,Q7075,,
+Bucharest,Bucharest Metro Line M5,Q1641397,2,0,1,Bucharest metro line,,Q15079663|Q105967897,,Bucharest Metro Line M5
+Bucharest,Henri Coandă International Airport,Q257631,2,0,1,"international airport serving Bucharest, Romania",LROP|OTP|Henri Coandă Airport|Bucharest Otopeni International Airport|Bucharest Otopeni Airport|Bucharest International Airport|Bucharest Airport,Q644371|Q94993988,,Bucharest Henri Coandă International Airport
+Bucharest,Bucharest Motorway Ring Road,Q789158,2,0,1,highway in Romania,,Q510662|Q46622,,Bucharest Ring Motorway
+Bucharest,Bucharest City Hall,Q12737422,2,0,2,"heritage site in Bucharest, Romania",,Q543654,,
+Bucharest,Bucharest City Council,Q5531805,2,0,2,City Council of Bucharest in Romania,General Council of Bucharest,Q138357139,,General Council of Bucharest
+Bucharest,Bucharesters,Q114984271,2,0,2,"people from or residents of Bucharest, Romania","Bucharestians|Bucharest residents|Bucharest inhabitants|Bucharest, Romania, residents|Bucharest, Romania, inhabitants",Q33829,Q485150|Q22947,
+Sarnen,Sarnen,Q63964,3,0,1,"capital of the canton of Obwalden, Switzerland",Sarnen OW,Q70208|Q14770218|Q54935504,,Sarnen
+Sarnen,Sarnen,Q19913612,3,0,1,painting by Thales Fielding,,Q3305213,,
+Sarnen,Sarnen railway station,Q7424333,3,0,1,railway station in Switzerland,,Q55488,,Sarnen railway station
+Sarnen,Kellner von Sarnen,Q99368051,3,0,1,,"Sarnen, Kellner von|Sarnen",Q8436,,
+Sarnen,Sarnen,Q127431196,3,0,1,"The mint in Sarnen, Switzerland",Mint of Sarnen,Q464780,,
+Sarnen,Sarnena Sredna gora,Q9350424,3,0,1,mountain range in Bulgaria,,Q8502,,
+Sarnen,Sarnen Nord railway station,Q33510439,3,0,1,railway station in Switzerland,,Q55488,,Sarnen Nord railway station
+Sarnen,White Book of Sarnen,Q362537,3,0,1,"manuscript cartulary in the Obwalden Chancellery in Sarnen, Switzerland","Sarnen, Staatsarchiv Obwalden, Sig. A.02.CHR.0003",Q87167|Q47461344,,White Book of Sarnen
+Sarnen,Sarnentsi,Q1077827,3,0,1,"village in Veliko Tarnovo municipality, Veliko Tarnovo oblast, Bulgaria",,Q15630849,,
+Sarnen,Lake Sarnen,Q14505,3,0,1,"lake in at Sarnen, canton of Obwalden, Switzerland",Sarnersee,Q23397|Q14811181,,Lake Sarnen
+Oranjestad,Oranjestad,Q131243,4,0,1,capital city of Aruba,"Oranjestad, Aruba",Q515,,Oranjestad
+Oranjestad,Oranjestad,Q217610,4,0,1,"capital of Sint Eustatius, Caribbean Netherlands",,Q3957,,"Oranjestad, Sint Eustatius"
+Oranjestad,Oranjestad Streetcar,Q1848105,4,0,1,"Tramway line in Oranjestad, Aruba",,Q15640053,,Trams in Oranjestad
+Oranjestad,Oranjestad Streetcar line,Q113495184,4,0,1,,,Q15145593,,
+Oranjestad,Oranjestad Lighthouse,Q58206150,4,0,1,lighthouse,,Q39715,,
+Oranjestad,Oranjestad West,Q85791119,4,0,1,"place in Aruba, Netherlands",,,,Oranjestad West
+Oranjestad,Oranjestad Reef Islands,Q100605687,4,0,1,islands in Aruba in the Dutch Caribbean,Paardenbaai Key,Q23442|Q473972|Q1367500|Q1139892,,Oranjestad Reef Islands
+Oranjestad,Oranjestad,Q246290,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Oranjestad,Oranjestad-Oost Other,Q133275640,4,0,1,,,,,
+Oranjestad,Oranjestad-Oost,Q133097729,4,0,1,,,,,
+Sarajevo,Sarajevo,Q11194,5,0,1,capital city of Bosnia and Herzegovina,City of Sarajevo|Bosna-Serai,Q515|Q1549591|Q102104752|Q257391,,Sarajevo
+Sarajevo,Sarajevo,Q9333848,5,0,1,railway station in Bosnia and Herzegovina,Sarajevo main station,Q55488,,Sarajevo main railway station
+Sarajevo,Sarajevo,Q139734219,5,0,1,,,Q571,,
+Sarajevo,1984 Winter Olympics,Q9657,5,0,1,"14th edition of Winter Olympics, in Sarajevo, Yugoslavia",Sarajevo 1984|The XIV Olympic Winter Games|Sarajevo Olympic Winter Games|Sarajevo Winter Games,Q137592217|Q14547231,,1984 Winter Olympics
+Sarajevo,Sarajevo Canton,Q18276,5,0,1,canton in Bosnia and Herzegovina,Sarajevo Region,Q18279,,Sarajevo Canton
+Sarajevo,Sarajevo,Q99286356,5,0,1,the city of Sarajevo as depicted in Star Trek,Star Trek Sarajevo,Q96146366|Q15796005,,
+Sarajevo,Sarajevo Disk,Q18636343,5,0,1,Yugoslav record label,,Q18127,,Sarajevo Disk
+Sarajevo,Sarajevo,Q17030682,5,0,1,1940 Hungarian historical film directed by Ákos Ráthonyi,,Q11424,,Sarajevo (1940 Hungarian film)
+Sarajevo,Sarajevo,Q3020208,5,0,1,1940 French film by Max Ophüls,Mayerling to Sarajevo,Q11424,,Sarajevo (1940 French film)
+Sarajevo,Sarajevo,Q17997427,5,0,1,2014 film by Andreas Prochaska,,Q506240,,Sarajevo (2014 film)
+Sarajevo,Vijećnica,Q16831150,5,0,2,city hall in Sarajevo,"City Hall, the historic building|Sarajevo City Hall|Vijećnica in Sarajevo|Vijećnica Sarajevo|Vijećnica (Sarajevo)",Q25550691|Q7075|Q893745,,Vijećnica
+Sarajevo,Sarajevo City Council,Q77583752,5,0,2,,,Q3154693,,
+Sarajevo,Sarajevo City Center,Q7422981,5,0,2,"building in Sarajevo, Bosnia and Herzegovina",,Q18142|Q11315,,Sarajevo City Center
+Sarajevo,Sarajevo City Council,Q106982593,5,0,2,"elected body in Sarajevo, Bosnia",,Q140247,,Sarajevo City Council
+Sarajevo,Sarajevo Canton Representation in Brussels,Q7422978,5,0,2,"place in Federation of Bosnia and Herzegovina, Bosnia and Herzegovina",,Q486972,,Sarajevo Canton Representation in Brussels
+Tbilisi,Tbilisi,Q994,6,0,1,capital and the largest city of Georgia (country),"Tiflis|Tpilisi|Tbilissi|Tpilissi|Tbilisi, Georgia",Q1210300|Q1549591|Q515|Q108178728|Q56061,,Tbilisi
+Tbilisi,Admiral Kuznetsov,Q274924,6,0,1,1985 Kuznetsov-class aircraft carrier,Admiral Flota Sovetskovo Soyuza Kuznetsov|Riga|Leonid Brezhnev|Tbilisi|aircraft carrier Admiral Kuznetsov,Q17205|Q1430687,,Russian aircraft carrier Admiral Kuznetsov
+Tbilisi,Tbilisi,Q2156963,6,0,1,,,Q843215,,
+Tbilisi,Tbilisi State University,Q37008,6,0,1,"university in Tbilisi, Georgia",Ivane Javakhishvili Tbilisi State University|Ivane Javaxishvilis saxelobis Tbilisis saxelmts'ipo universit'et'i|TSU|Tbilisi Secular University,Q875538,,Tbilisi State University
+Tbilisi,Encyclopedia Tbilisi,Q61745075,6,0,1,encyclopedia,Tbilisi,Q47461344,,
+Tbilisi,Tbilisica,Q10691592,6,0,1,genus of insects,,Q16521,,
+Tbilisi,Tbilisi State Academy of Arts,Q619600,6,0,1,Georgian state university of art and design,,Q875538,,Tbilisi State Academy of Arts
+Tbilisi,Soviet destroyer Tbilisi,Q4453124,6,0,1,1939 Leningrad-class destroyer,,Q1430303,,Soviet destroyer Tbilisi
+Tbilisi,Tbilisi State Medical University,Q2905597,6,0,1,"medical university in Tbilisi, Georgia",Tbilisi Medical Institute,Q3918,,Tbilisi State Medical University
+Tbilisi,Georgian Film Studio,Q36824,6,0,1,film studio,Sakhkinmretsvi|Georgia film|Georgian Film Studio|Tbilisi Film Studio|Georgian Film|Film Section Narcompros of Georgia|JSC ″Sakhkinmretsvi″,Q375336|Q11396960|Q1762059,,Georgian Film Studio
+Tbilisi,Ⴀ,Q87505220,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “An” (U+10A0) or “Ani”,Ⴀ|GEORGIAN CAPITAL LETTER AN|Georgian Asomtavruli letter An|An (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter An|An (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Ani|Ani (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Ani|Ani (Georgian Khutsuri capital letter),Q29654788,Q2474551|Q98912,
+Tbilisi,Ⴢ,Q87505292,6,0,2,"Georgian Asomtavruli or Khutsuri capital letter “Hie” (U+10C2), “Ie” or “Iota”",Ⴢ|GEORGIAN CAPITAL LETTER HIE|Georgian Asomtavruli letter Hie|Hie (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Hie|Hie (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Ie|Ie (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Ie|Ie (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Iota|Iota (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Iota|Iota (Georgian Khutsuri capital letter),Q29654788,Q3103170|Q98912,
+Tbilisi,Ⴥ,Q87505301,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Hoe” (U+10C5),Ⴥ|GEORGIAN CAPITAL LETTER HOE|Georgian Asomtavruli letter Hoe|Hoe (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Hoe|Hoe (Georgian Khutsuri capital letter),Q29654788,,
+Tbilisi,Ⴙ,Q87505267,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Chin” (U+10B9) or “Chini”,Ⴙ|GEORGIAN CAPITAL LETTER CHIN|Georgian Asomtavruli letter Chin|Chin (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Chin|Chin (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Chini|Chini (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Chini|Chini (Georgian Khutsuri capital letter),Q29654788,Q2963704|Q98912,
+Tbilisi,Ⴔ,Q87505255,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Phar” (U+10B4) or “Pari”,Ⴔ|GEORGIAN CAPITAL LETTER PHAR|Georgian Asomtavruli letter Phar|Phar (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Phar|Phar (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Pari|Pari (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Pari|Pari (Georgian Khutsuri capital letter),Q29654788,,
+Tbilisi,Ⴆ,Q87505231,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Zen” (U+10A6) or “Zeni”,Ⴆ|GEORGIAN CAPITAL LETTER ZEN|Georgian Asomtavruli letter Zen|Zen (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Zen|Zen (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Zeni|Zeni (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Zeni|Zeni(Georgian Khutsuri capital letter),Q29654788,Q115389|Q98912,
+Tbilisi,Ⴘ,Q87505264,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Shin” (U+10B8) or “Shini”,Ⴘ|GEORGIAN CAPITAL LETTER SHIN|Georgian Asomtavruli letter Shin|Shin (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Shin|Shin (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Shini|Shini (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Shini|Shini (Georgian Khutsuri capital letter),Q29654788,Q114491|Q98912,
+Tbilisi,Ⴅ,Q87505229,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Vin” (U+10A5) or “Vini”,Ⴅ|GEORGIAN CAPITAL LETTER VIN|Georgian Asomtavruli letter Vin|Vin (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Vin|Vin (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter Vini|Vini (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Vini|Vini (Georgian Khutsuri capital letter),Q29654788,Q2669126|Q98912,
+Tbilisi,Ⴎ,Q87505245,6,0,2,"Georgian Asomtavruli or Khutsuri capital letter “Par” (U+10AE), “P’ar”, or “P’ari”",Ⴎ|GEORGIAN CAPITAL LETTER PAR|Georgian Asomtavruli letter Par|Par (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Par|Par (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter P’ar|P’ar (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter P’ar|P’ar (Georgian Khutsuri capital letter)|Georgian Asomtavruli letter P’ari|P’ari (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter P’ari|P’ari (Georgian Khutsuri capital letter),Q29654788,Q134111|Q98912,
+Tbilisi,Ⴐ,Q87505247,6,0,2,Georgian Asomtavruli or Khutsuri capital letter “Rae” (U+10B0),Ⴐ|GEORGIAN CAPITAL LETTER RAE|Georgian Asomtavruli letter Rae|Rae (Georgian Asomtavruli letter)|Georgian Khutsuri capital letter Rae|Rae (Georgian Khutsuri capital letter),Q29654788,Q656435|Q98912,
+Tbilisi,Ambavi Creators,Q139980349,6,0,2,Georgian multimedia and immersive storytelling company,"Ambavi Creators - Immersive Storytelling Company|Tbilisi, Georgia",Q783794,,
+Bern,Bern,Q70,7,0,1,"city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",Berne|city of Bern|Berna,Q70208|Q14770218|Q537250|Q1187811|Q54935504|Q56061|Q1549591|Q515|Q257391,,Bern
+Bern,Kościerzyna,Q935784,7,0,1,city and urban gmina of Poland,Berent|Bern,Q2616791|Q13416557|Q3957,,Kościerzyna
+Bern,Canton of Berne,Q11911,7,0,1,canton of Switzerland,BE|Berne|Bern|the Canton of Berne,Q23058,,Canton of Bern
+Bern,Bernard,Q14649171,7,0,1,male given name,Bernard (given name)|Bernard (first name),Q12308941,,
+Bern,Bern,Q37477115,7,0,1,family name,,Q101352,,Bern (surname)
+Bern,Bernhard,Q221978,7,0,1,male given name,Bernhard (given name)|Bernhard (first name),Q12308941,,Bernhard
+Bern,Bern,Q30112970,7,0,1,male given name,,Q12308941,,
+Bern,Bernd,Q823205,7,0,1,male given name,Bernd (given name)|Bernd (first name),Q12308941,,Bernd
+Bern,Bernardo,Q11687769,7,0,1,male given name,Bernardo (given name)|Bernardo (first name),Q12308941,,Bernardo
+Bern,Bernard,Q11134722,7,0,1,family name,,Q101352|Q98775491,,Bernard (surname)
+Fribourg,Fribourg,Q36378,8,0,1,"capital of the canton of Fribourg, Switzerland","Freiburg|Fribourg FR|Freiburg im Uechtland|Freiburg i.Ue.|Fribourg-en-Nuithonie|Freiburg i.U.|Freiburg, Switzerland|Fribourg, Suisse|Freiburg im Üechtland",Q70208|Q14770218|Q1187811|Q54935504,,Fribourg
+Fribourg,Fribourg,Q22283,8,0,1,"commune in Moselle, France",,Q484170,,"Fribourg, Moselle"
+Fribourg,Canton of Fribourg,Q12640,8,0,1,canton of Switzerland,"Freiburg, Switzerland|Canton de Fribourg|Kanton Freiburg|Freiburg|Fribourg|FR",Q23058|Q107390|Q56061,,Canton of Fribourg
+Fribourg,Fribourg,Q30669735,8,0,1,family name,,Q101352,,Fribourg (surname)
+Fribourg,Fribourg railway station,Q3067114,8,0,1,railway station in Switzerland,Freiburg railway station,Q55488,,Fribourg/Freiburg railway station
+Fribourg,242648 Fribourg,Q16466027,8,0,1,asteroid,Fribourg,Q3863,,242648 Fribourg
+Fribourg,Fribourg,Q18564806,8,0,1,painting by Joseph Mallord William Turner,,Q18761202,,
+Fribourg,Fribourg Prealps,Q667279,8,0,1,Swiss Prealps mountain range,,Q3977906,,
+Fribourg,Fribourg Olympic,Q506174,8,0,1,"basketball team in Fribourg, Switzerland",,Q13393265,,Fribourg Olympic Basket
+Fribourg,Fribourg Cathedral,Q680931,8,0,1,cathedral,,Q811979|Q56242215,,Fribourg Cathedral
+Phnom Penh,Phnom Penh,Q1850,9,0,1,capital of Cambodia,,Q515|Q14846916|Q1549591|Q51929311,,Phnom Penh
+Phnom Penh,Phnom Penh,Q131144874,9,0,1,,,Q5,,
+Phnom Penh,Phnom Penh,Q33558583,9,0,1,2002 film,,Q11424,,
+Phnom Penh,All,Q31076292,9,0,1,Wikimedia,Phnom penh,Q4167836,,
+Phnom Penh,Phnom Penh Crown F.C.,Q1808462,9,0,1,Cambodian football club,Phnom Penh Crown Football Club,Q476028,,Phnom Penh Crown FC
+Phnom Penh,Phnom Penh railway station,Q7374763,9,0,1,railway station in Cambodia,,Q55488|Q55485|Q22808404,,Phnom Penh railway station
+Phnom Penh,Phnom Penh International Airport,Q1054163,9,0,1,Ancient Phnom Penh airport,PNH|VDPP,Q644371|Q1248784|Q94993988,,Phnom Penh International Airport
+Phnom Penh,Phnom Penh,Q28219469,9,0,1,constituency,,Q192611,,Phnom Penh (National Assembly constituency)
+Phnom Penh,Phnom Penh,Q130198938,9,0,1,"asian restaurant in Vancouver, British Columbia, Canada",,Q11707,,Phnom Penh (restaurant)
+Phnom Penh,Olympic Stadium,Q2021522,9,0,1,"multi-purpose stadium in Phnom Penh, Cambodia",Phnom Penh Olympic Stadium|National Olympic Stadium,Q483110,,Olympic Stadium (Phnom Penh)
+Smolensk,Smolensk,Q2337,10,0,1,city and administrative center of Smolensk Oblast in central Russia,Smoleńsk,Q1549591|Q106389302|Q192287|Q5119,,Smolensk
+Smolensk,Smolensk,Q3811864,10,0,1,1990 Oscar-II-class submarine,,Q2001879,,Russian submarine Smolensk
+Smolensk,ORP Kraków,Q4353574,10,0,1,,Smolensk,Q5762366,,
+Smolensk,Smolensk Oblast,Q2347,10,0,1,federal subject of Russia,Smolenskaya oblast|Smolenschina|Smolensk Region,Q835714|Q43263,,Smolensk Oblast
+Smolensk,Livingston Island,Q856906,10,0,1,island of the South Shetland Islands,Smolensk,Q23442,,Livingston Island
+Smolensk,3213 Smolensk,Q268468,10,0,1,asteroid,Smolensk,Q3863,,3213 Smolensk
+Smolensk,Smolenskoye Orthodox Cemetery,Q2444377,10,0,1,"cemetery in Saint Petersburg, Russia",,Q39614,,Smolensky Cemetery
+Smolensk,Smolensk railway station,Q4352910,10,0,1,"railway station in Smolensk, Russia",,Q55488,,Smolensk railway station
+Smolensk,Smolensk Governorate,Q1540313,10,0,1,administrative division (a guberniya) of the Russian Empire,,Q86622|Q47530375,,Smolensk Governorate
+Smolensk,Smolensky Lutheran Cemetery,Q2972631,10,0,1,"cemetery in Saint Petersburg, Russia",Smolensk Lutheran Cemetery|Smolenskoe Cemetery|Smolenskoe Lutheran Cemetery|Smolenskoye Cemetery|Smolenskoye Lutheran Cemetery|Smolenskoye Lyuteranskoye Kladbishche|Smolensky Cemetery|Smolenskoe li︠u︡teranskoe kladbishche,Q39614|Q1081138,,Smolensky Lutheran Cemetery
+Smolensk,Smolensk Oblast Duma,Q4424945,10,0,2,"legislative body of power in Smolensk Oblast, Russia",,Q11204|Q4345591,Q4345591,Smolensk Oblast Duma
+Smolensk,flag of Smolensk Oblast,Q2635879,10,0,2,,Smolensk Oblast flag,Q4490930|Q22807280,,Flag of Smolensk Oblast
+Smolensk,coat of arms of Smolensk Oblast,Q1985189,10,0,2,,Smolensk Oblast coat of arms,Q14659,,
+Smolensk,history of Smolensk Oblast,Q4204726,10,0,2,aspect of history,Smolensk Oblast history,Q17524420,,
+Smolensk,geography of Smolensk Oblast,Q19906577,10,0,2,,Smolensk Oblast geography,Q46865913,,
+Smolensk,Court of Smolensk Oblast,Q104904204,10,0,2,,Smolensk Oblast Court,Q4445533,,
+Smolensk,COVID-19 pandemic in Smolensk Oblast,Q104719968,10,0,2,,"Smolensk Oblast COVID-19 pandemic|2020 Smolensk Oblast COVID-19 pandemic|COVID pandemic in Smolensk Oblast|COVID-19 pandemic in Smolensk Oblast, Russia",Q3241045,,
+Buenos Aires,Buenos Aires Province,Q44754,11,0,1,province of Argentina,Province of Buenos Aires,Q44753|Q192611|Q3624078,,Buenos Aires Province
+Buenos Aires,Buenos Aires,Q1486,11,0,1,capital and largest city of Argentina,Ciudad Autonoma de Buenos Aires|Ciudad de Buenos Aires,Q5770918|Q192611|Q475050|Q10864048|Q1094397|Q56061|Q108178728|Q257391|Q1422929|Q51929311,,Buenos Aires
+Buenos Aires,Buenos Aires,Q2025478,11,0,1,Colombian municipality of the department of Cauca,"Buenos Aires, Cauca",Q2555896,,"Buenos Aires, Cauca"
+Buenos Aires,Buenos Aires,Q1648230,11,0,1,"municipality in Rivas Department, Nicaragua",Municipality of Buenos Aires|Buenos Aires Municipality,Q318727,,"Buenos Aires, Nicaragua"
+Buenos Aires,Buenos Aires train station,Q4985538,11,0,1,former train terminal in Buenos Aires,Buenos Aires Belgrano Sur train station|Buenos Aires railway station,Q4663385|Q55485,,Buenos Aires Belgrano Sur Line railway station
+Buenos Aires,Buenos Aires,Q113610607,11,0,1,vocal track by Madonna; 1996 original soundtrack recording,,Q55850593,,
+Buenos Aires,Buenos Aires,Q113610588,11,0,1,vocal track by Andrew Lloyd Webber 1976 cast recording,,Q55850593,,
+Buenos Aires,Buenos Aires,Q20236011,11,0,1,"town in Parácuaro Municipality, State of Michoacán, Mexico",,Q20202352,,
+Buenos Aires,Buenos Aires,Q28519123,11,0,1,1923 song composed by Manuel Jovés with lyrics by Manuel Romero,,Q105543609,,
+Buenos Aires,1951 Pan American Games,Q1203233,11,0,1,1st edition of the Pan American Games,I Pan American Games|Buenos Aires 1951,Q167170|Q114609228,,1951 Pan American Games
+Buenos Aires,Argentina,Q414,11,0,2,country in South America,Argentine Republic|Republic of Argentina|Republica Argentina,Q3624078|Q6256|Q6266|Q10551526|Q140892892,,Argentina
+Buenos Aires,Argentina,Q4789276,11,0,2,genus of plants,silverweeds|silverweed,Q16521,,Argentina (plant)
+Buenos Aires,Argentina,Q2183754,11,0,2,genus of fishes,,Q16521,,Argentina (fish)
+Buenos Aires,Argentina,Q3622264,11,0,2,female given name,Argentina (first name)|Argentina (given name)|Αργεντίνα,Q11879590,,
+Buenos Aires,Argentina,Q37498453,11,0,2,family name,,Q101352,,
+Buenos Aires,Enchanted Isle,Q21196329,11,0,2,scrapped passenger ship,Veendam|New Orleans|IMO 5023162|Argentina,Q39804|Q697196,,SS Argentina (1958)
+Buenos Aires,Argentina men's national football team,Q79800,11,0,2,men's national association football team representing Argentina,Argentina national soccer team|Argentina national association football team|Argentina men's national soccer team|Argentina national football team|Argentina men's national association football team,Q135408445,Q1194951,Argentina national football team
+Buenos Aires,Argentina,Q83645577,11,0,2,ship built in 1949,IMO 5023174|Presidente Perón,Q2055880,,
+Buenos Aires,Argentina national rugby union team,Q646070,11,0,2,national sports team,Los Pumas,Q58840819,,Argentina national rugby union team
+Buenos Aires,Argentina,Q10573041,11,0,2,ship built in 1935,,Q1752434,,
+Buenos Aires,Government of Buenos Aires Province,Q8964484,11,0,2,state government in Argentina,Buenos Aires Province government,Q1802419,,
+Buenos Aires,Buenos Aires Province Chamber of Deputies,Q4985544,11,0,2,lower house of the Legislature of the Province of Buenos Aires,,Q320289|Q11204,,Buenos Aires Province Chamber of Deputies
+Buenos Aires,Province of Buenos Aires Railway,Q5445412,11,0,2,defunct Argentine railway company,Buenos Aires Province Railway|FCPBA|FCP,Q249556|Q4830453,,Province of Buenos Aires Railway
+Buenos Aires,Buenos Aires Province Ministry of Security,Q98396956,11,0,2,ministry in Buenos Aires Province,,Q192350,,
+Buenos Aires,Coat of arms of Buenos Aires Province,Q5838478,11,0,2,,Buenos Aires Province coat of arms,Q14659,,Coat of arms of Buenos Aires Province
+Buenos Aires,Buenos Aires Province Ministry of Infrastructure,Q6017348,11,0,2,ministry in Argentina,MIVySP,Q6867215,,
+Ottawa,Ottawa,Q1930,12,0,1,capital city of Canada,"Ottawa, Ontario|Ottawa, ON|City of Ottawa",Q18810091|Q17457753|Q14762300|Q1549591|Q15840617|Q257391,,Ottawa
+Ottawa,Ottawa,Q993732,12,0,1,"village in Putnam County, Ohio, United States","Ottawa, Ohio|Ottawa, OH",Q62049|Q108569739,,"Ottawa, Ohio"
+Ottawa,Ottawa Senators,Q203013,12,0,1,"National Hockey League team in Ottawa, Ontario, Canada",,Q4498974,,Ottawa Senators
+Ottawa,Ottawa,Q1913965,12,0,1,"city in Kansas, United States","Ottawa, Kansas|Ottawa (Kansas)|Ottawa, KS",Q1093829,,"Ottawa, Kansas"
+Ottawa,Ottawa,Q576209,12,0,1,"city in Illinois, United States","Ottawa, Illinois|Ottawa, IL",Q1093829|Q62049,,"Ottawa, Illinois"
+Ottawa,Odawa,Q536116,12,0,1,indigenous people in what is known as Michigan and Ontario,Ottawa|Taway|Odaawaa|Chippewa|Ottawa people|Odawa people,Q41710,Q15571255|Q1956640,Odawa
+Ottawa,University of Ottawa,Q627969,12,0,1,"public research university in Ottawa, Ontario, Canada",uOttawa|U of O|Ottawa U|uottawa.ca,Q62078547|Q45400320|Q108403040|Q875538|Q15936437|Q708676,,University of Ottawa
+Ottawa,Ottawa River,Q60974,12,0,1,"major river in Ontario and Quebec, Canada",Rivière des Outaouais|Riviere des Outaouais|Kichi-Sìbì|Kitchissippi,Q4022,,Ottawa River
+Ottawa,Ottawa,Q27543820,12,0,1,family name,,Q101352,,
+Ottawa,Ottawan,Q1072047,12,0,1,French disco music group,,Q215380,,Ottawan
+Ottawa,Canadian Capital and the Denationalization of the Mexican Energy Sector: A Geojuridical Approach,Q108310338,12,0,2,journal article from 'Journal of Latin American Geography' published in 2018,,Q13442814,,
+Ottawa,Canadian Capital and Extractive Imperialism,Q128487961,12,0,2,scholarly article,,Q13442814,,
+Canberra,Canberra,Q3114,13,0,1,capital city of Australia,"Canberra, Australia|Canberra, Australian Capital Territory",Q515|Q1549591|Q114496982|Q15840617|Q257391,,Canberra
+Canberra,Canberra Raiders,Q2936194,13,0,1,Australian rugby league football club,Canberra Raiders Rugby League Club|Canberra Raiders Rugby League|Canberra Raiders Rugby Club|Canberra Raiders Club|Canberra Raiders Rugby|Rugby League Club of Canberra Raiders|Rugby League Club Canberra Raiders|Rugby Club Canberra Raiders|Rugby Club of Canberra Raiders|Raiders Canberra|NRL Raiders|NRL Canberra Raiders|National Rugby League Canberra Raiders,Q15221215,,Canberra Raiders
+Canberra,Canberra,Q2973482,13,0,1,Australian federal electoral division,Division of Canberra,Q2713747,,Division of Canberra
+Canberra,English Electric Canberra,Q520964,13,0,1,1949 bomber aircraft family,Canberra|BAe Canberra|Canberra bomber|English Electric|Canberra aircraft,Q15056993,Q10796151|Q70180928|Q18518465,English Electric Canberra
+Canberra,Canberra Airport,Q14300,13,0,1,"airport in Canberra, Australia","Canberra Airport, Australian Capital Territory|CBR|YSCB|CANBERRA|Canberra International Airport",Q644371|Q1248784|Q94993988,,Canberra Airport
+Canberra,City,Q4421073,13,0,1,"city centre of Canberra, Australia","City, Australian Capital Territory|Civic Centre|City Centre|Canberra City|Canberra|Civic, Australian Capital Territory|City, Australian Capital Territory, Australia|Civic",Q738570|Q188509,,"Civic, Australian Capital Territory"
+Canberra,University of Canberra,Q1640648,13,0,1,"university in Canberra, Australia",Canberra College of Advanced Education|UC,Q875538|Q163740|Q3918,,University of Canberra
+Canberra,HMAS Canberra,Q925439,13,0,1,2011 Canberra-class landing helicopter dock,L02|L-02|Canberra|IMO 9608960,Q650761,,HMAS Canberra (L02)
+Canberra,Canberra,Q14600395,13,0,1,crater on Mars,,Q1475691,,
+Canberra,Canberra,Q56284269,13,0,1,former electoral division of the Australian Capital Territory House of Assembly,Division of Canberra,Q59240972,,Division of Canberra (Australian Capital Territory House of Assembly)
+Canberra,Australian Capital Territory,Q3258,13,0,2,"federal territory of Australia, containing the capital city, Canberra","The Australian Capital Territory|Australian Capital Territory, Australia|Yass-Canberra|AU-ACT|Australian capital territory|ACT, Australia|Australia Capital Territory|Capital Territory of Australia",Q14192234|Q14192199|Q171441,,Australian Capital Territory
+Canberra,Australian Capital Territory,Q56649107,13,0,2,constituency of the Australian senate,,Q56648990,,
+Canberra,Division of Australian Capital Territory,Q5284491,13,0,2,Australian federal electoral division,Australian Capital Territory|Division of ACT,Q2713747,,Division of Australian Capital Territory
+Canberra,listed on the Australian Capital Territory Heritage Register,Q66493566,13,0,2,designation for heritage-listed items in Australian Capital Territory,Australian Capital Territory Heritage Register listed,,Q18087975,Australian Capital Territory Heritage Register
+Canberra,ACT Education Directorate,Q110248228,13,0,2,"directorate of the Australian Capital Territory government, Australia",Australian Capital Territory Education Directorate,Q1770249,,
+Canberra,Government of the Australian Capital Territory,Q27220504,13,0,2,territory government of the Australian Capital Territory,ACT Government|Australian Capital Territory Government|Government of the ACT|the Australian Capital Territory government|Australian Capital Territory government|ACTGOV,Q1802419,,Government of the Australian Capital Territory
+Canberra,Australian Capital Territory Legislative Assembly,Q494915,13,0,2,unicameral legislature of the Australian Capital Territory,,Q15816787|Q37002670,,Australian Capital Territory Legislative Assembly
+Canberra,Australian Capital Territory,Q140032723,13,0,2,open access chapter published by LSE Press,,Q1980247,,
+Canberra,2016 Australian Capital Territory general election,Q4823946,13,0,2,elections,"Australian Capital Territory general election, 2016",Q2618461,,2016 Australian Capital Territory election
+Canberra,2020 Australian Capital Territory general election,Q28224336,13,0,2,General electon,"Australian Capital Territory general election, 2020",Q2618461,,2020 Australian Capital Territory election
+Bamako,Bamako,Q3703,14,0,1,capital of Mali,,Q515|Q10864048|Q1901835|Q395994,,Bamako
+Bamako,Bamako,Q55747176,14,0,1,cercle of Mali,,Q2115792,,
+Bamako,Bamako,Q178070,14,0,1,2006 film by Abderrahmane Sissako,,Q11424,,Bamako (film)
+Bamako,Bamako,Q110573424,14,0,1,"tram stop in Angers, France",,Q2175765,,
+Bamako,Bamako,Q86664868,14,0,1,"place in Sud-Ouest Region, Burkina Faso",,Q23012917,,"Bamako, Bougouriba"
+Bamako,Bamako,Q4853283,14,0,1,village in Burkina Faso,,Q23012917,,"Bamako, Comoé"
+Bamako,Bamako,Q125997125,14,0,1,2019 studio album by OGJB Quartet,,Q482994,,Bamako (album)
+Bamako,Bamako-Sénou International Airport,Q721258,14,0,1,airport,Senou Airport|Bamako-Senou International Airport|BKO|GABS,Q644371|Q1248784|Q94993988,,Modibo Keita International Airport
+Bamako,Bamako Sign Language,Q4853284,14,0,1,Sign language used in Mali,Malian Sign Language|LaSiMa,Q34228|Q1288568,,Bamako Sign Language
+Bamako,Centre International de Conférence de Bamako,Q112147517,14,0,1,"conference centre in Bamako, Mali",CICB|Centre International des Conférences de Bamako|Bamako International Conference Centre|Palais des Congrès de Bamako,Q1378975,,
+Cape Town,Cape Town,Q5465,15,0,1,"city in the Western Cape, South Africa","iKapa|Kaap|Cape|Cape Town, South Africa|Mother City|Tavern of the Seas|West side",Q2264924|Q15042037|Q1549591|Q105742469|Q108178728|Q56061,,Cape Town
+Cape Town,City of Cape Town,Q1185115,15,0,1,"metropolitan municipality in Western Cape, South Africa",City of Cape Town Metropolitan Municipality|City of Cape Town Metro|Cape Town Metropolitan Municipality|City of Cape Town Municipality|Cape Town Metro|Cape Town Municipality|Cape Town Unicity|Cape Metropolitan Council|Cape Metropolitan Administration,Q1530824,,City of Cape Town
+Cape Town,University of Cape Town,Q951305,15,0,1,"public university in Cape Town, South Africa",South African College|uct.ac.za|Cape Town University,Q875538|Q45400320|Q38723|Q3918,,University of Cape Town
+Cape Town,Cape Town,Q114518672,15,0,1,episode of iZombie (S2 E9),,Q21191270,,
+Cape Town,Cape Town Spurs F.C.,Q412502,15,0,1,association football club in South Africa,Ajax Cape Town FC|Ajax Cape Town Football Club|Ajax Cape Town,Q476028,,Cape Town Spurs F.C.
+Cape Town,Cape Town,Q102242472,15,0,1,Thoroughbred racehorse,,Q726,,
+Cape Town,Cape Town,Q25343756,15,0,1,South African-German produced TV series,,Q5398426,,Cape Town (TV series)
+Cape Town,Cape Town Stadium,Q173559,15,0,1,"sports stadium in Cape Town, South Africa",Green Point Stadium|DHL Stadium,Q1049757|Q483110|Q1154710|Q15303456,,Cape Town Stadium
+Cape Town,Cape Town City F.C.,Q5035093,15,0,1,football club,Cape Town City Football Club,Q476028,,Cape Town City F.C. (1960)
+Cape Town,Cape Town International Airport,Q854130,15,0,1,"airport in Cape Town, South Africa",Cape Town Airport|CPT|FACT|D.F. Malan Airport,Q644371|Q1248784|Q94993988,,Cape Town International Airport
+"Washington, D.C","Washington, D.C.",Q61,16,0,1,capital city of the United States of America,"Washington, District of Columbia|D.C. Washington|The District|District of Columbia|City of Washington, D.C.|Washington City, D.C.|Nation's Capital (D.C.)|Federal City (D.C.)|D.C.",Q1093829|Q1549591|Q486972|Q15840617|Q114496982|Q257391,,"Washington, D.C."
+"Washington, D.C",United States Holocaust Memorial Museum,Q238990,16,0,1,"United States' official memorial to the Holocaust in Washington, D.C.","USHMM|Washington, D.C. Holocaust Museum",Q5003624|Q33506|Q163740|Q20857065,,United States Holocaust Memorial Museum
+"Washington, D.C",WMATA,Q7972051,16,0,1,"public transit authority serving the Washington, D.C. metropolitan area","Washington, D.C. Metropolitan Area Transit Authority|Washington, D.C. Metro|Metro (Washington, DC)|Washington Metropolitan Area Transit Authority",Q7835189|Q16848268,,Washington Metropolitan Area Transit Authority
+"Washington, D.C",Washington metropolitan area,Q2367175,16,0,1,"metropolitan area centered on Washington, D.C., United States of America","Greater Washington|DMV|D.C. metropolitan area|D.C. metro area|DC metropolitan area|DC metro area|National Capital Region|Washington–Arlington–Alexandria metropolitan statistical area|Washington–Arlington–Alexandria metropolitan area|Washington D.C. metropolitan area|Washington DC metropolitan area|Washington, D.C. metropolitan area|Washington D.C. metro area|Washington DC metro area|Washington, D.C. metro area|Washington D.C. area|Washington DC area|Washington, D.C. area|Washington metro area|Washington area|Washington-Arlington-Alexandria MSA|Washington-Arlington-Alexandria metropolitan statistical area|D.C. area|DC area|District of Columbia, Maryland, Virginia|DC, Maryland, Virginia|D.C., Maryland, Virginia|Greater Washington DC|Greater Washington D.C.|Greater Washington, D.C.|Washington-Arlington-Alexandria, DC–VA–MD–WV metropolitan statistical area",Q1768043|Q1062177,,Washington metropolitan area
+"Washington, D.C",government of the District of Columbia,Q16152667,16,0,1,"government of Washington, D.C., in the United States","government of Washington, D.C.|Washington, DC government|Washington, D.C. government|D.C. Government|DC Government|Government of District of Columbia|the District of Columbia government|District of Columbia government|District of Columbia",Q7188|Q7603694,,Government of the District of Columbia
+"Washington, D.C",Metropolitan Police Department of the District of Columbia,Q1350854,16,0,1,"law enforcement agency in Washington, D.C., United States","MPD|MPDC|Metropolitan Police Department|District of Columbia Police Department|D.C. police department|Washington, D.C. police department",Q732717|Q4992061,,Metropolitan Police Department of the District of Columbia
+"Washington, D.C","2020 COVID-19 pandemic in Washington, D.C.",Q87742131,16,0,1,"pandemic in Washington, D.C., United States","2020 Washington, D.C. COVID-19 pandemic|Washington, D.C. COVID-19 pandemic|2020 COVID pandemic in Washington, D.C.",Q3241045,,"COVID-19 pandemic in Washington, D.C."
+"Washington, D.C","flag of Washington, D.C.",Q906340,16,0,1,flag of the U.S. capital located in the District of Columbia,"flag of the District of Columbia|D.C. flag|Washington, D.C., flag|District of Columbia flag|flag of Washington|Washington flag|Washington, D.C. flag",Q22807280|Q21850100,,"Flag of Washington, D.C."
+"Washington, D.C","history of Washington, D.C.",Q685093,16,0,1,history of the capital city of the United States,"Washington, D.C. history",Q28747937|Q17524420,,"History of Washington, D.C."
+"Washington, D.C",elections in the District of Columbia,Q5354893,16,0,1,,"Washington, D.C. elections|elections in DC|elections in Washington, DC|elections in Washington D.C.|elections in District of Columbia|District of Columbia elections|Washington, D.C. election|election in Washington, D.C.|Washington, D.C.",Q107359024,Q279283,Elections in the District of Columbia
+"Washington, D.C","Washington, D.C.",Q7971591,16,0,2,novel by River Gonzalez,,Q7725634,,"Washington, D.C. (novel)"
+"Washington, D.C","Washington, D.C.",Q114528694,16,0,2,episode of Drinking Made Easy (S2 E9),,Q21191270,,
+"Washington, D.C","Washington, D.C.",Q20488868,16,0,2,painting by De Lancey Gill,,Q3305213,,
+"Washington, D.C","Washington, D.C.",Q64156248,16,0,2,photograph in the National Gallery of Art (NGA 210024),,Q125191,,
+"Washington, D.C","Washington, D.C.",Q97579782,16,0,2,"photograph by Mathew B. Brady (MET, 33.65.300)",,Q125191,,
+"Washington, D.C",District of Columbia,Q3551781,16,0,2,"federal district of the United States of America, containing the capital city of the United States, Washington",DC|D.C.,Q475050|Q10864048|Q852446,,District of Columbia
+"Washington, D.C",District of Columbia Public Library,Q5283432,16,0,2,"library system serving Washington, D.C., United States",DC Public Library|DCPL,Q26271642|Q28564,,District of Columbia Public Library
+"Washington, D.C",District of Columbia Dental Society journal. District of Columbia Dental Society,Q27711459,16,0,2,journal,J Dist Columbia Dent Soc|District of Columbia Dental Society journal,Q5633421,,
+"Washington, D.C",District of Columbia Inventory of Historic Sites,Q73198230,16,0,2,"register of historic places in Washington, D.C.",D.C. Inventory of Historic Sites|DCIHS,Q15097084,Q18089563,District of Columbia Inventory of Historic Sites
+"Washington, D.C",Robert F. Kennedy Memorial Stadium,Q153312,16,0,2,"former stadium in Washington, D.C.",RFK Stadium|District of Columbia Stadium|DC Stadium,Q74539696|Q1049757|Q19860854|Q483110,,Robert F. Kennedy Memorial Stadium
+"Washington, D.C",District Department of Transportation,Q4923837,16,0,2,government agency,DDOT|District of Columbia Department of Transportation,Q97010948,,District Department of Transportation
+"Washington, D.C",District of Columbia Public Schools,Q3120094,16,0,2,"public school system of Washington, D.C., United States",Public Schools of the District of Columbia|DCPS|D.C. Public Schools|DC Public Schools,Q15726209|Q2385804|Q327333,,District of Columbia Public Schools
+"Washington, D.C",Eastern Time Zone,Q941023,16,0,2,time zone observing UTC−05:00 during standard time and UTC−04:00 during daylight saving time,EDT|North American Eastern Time Zone|Eastern Standard Time|DC time|D.C. time|NY time|New York Time,Q125359378,,Eastern Time Zone
+"Washington, D.C",Daughters of Charity of Saint Vincent de Paul,Q778997,16,0,2,society of apostolic life,D.C.|F.d.C.|FdC|Daughters of Charity|Sisters of Charity of Saint Vincent De Paul|Sisters of Charity|DC,Q732948|Q2311325,,Daughters of Charity of Saint Vincent de Paul
+"Washington, D.C",Dasmariñas,Q63139,16,0,2,city of the Philippines in the province of Cavite,"Dasmariñas City|City of Dasmariñas|Dasmariñas, Cavite|Dasma|DC|D.C.",Q106078286|Q1549591,,Dasmariñas
+"Washington, D.C",Da Capo,Q100898363,16,0,2,Circus' visual novel series of Japanese video games started in 2002,D.C.|dc,Q7058673,,
+"Washington, D.C",Da Capo,Q1151363,16,0,2,2002 video game,D.C.,Q7889,,Da Capo (video game)
+"Washington, D.C","quadrant of Washington, D.C.",Q7268334,16,0,2,"one of four geographical quadrants of Washington, D.C., United States","quadrants of Washington, D.C.|quadrant of Washington, DC|quadrant of the District of Columbia|quadrant of D.C.|quadrant of DC|District of Columbia quadrant|D.C.|DC quadrant",,Q107297906,"Quadrants of Washington, D.C."
+"Washington, D.C",priests of the Christian Doctrine,Q1235137,16,0,2,Catholic organization : clerical congregation of pontifical right teaching religion to children and the poor,fathers of the Christian Doctrine|Doctrinaires|D.C.|DC,Q1530022|Q163740|Q391009,,Christian Doctrine Fathers
+"Washington, D.C",D.C. United,Q238593,16,0,2,"soccer club in Washington, DC, USA",United|DCU|Black-and-Red|United D.C.|DC United,Q476028|Q15944511,,D.C. United
+Saigon,Ho Chi Minh City,Q1854,17,0,1,largest city in Vietnam,Ho Chi Minh|Sài Gòn|Saïgon|HCMC|Sai Gon|Saigon|Thành-Phô Hồ Chí Minh|Hôchiminh Ville|Thành Phố Hồ Chí Minh|Prey Nokor|Gia Định|HCM City,Q1381899|Q515|Q1549591|Q174844|Q51929311|Q1074523,,Ho Chi Minh City
+Saigon,Saigon,Q27950398,17,0,1,toponym,Sai Gon,Q7884789,,
+Saigon,Saigon,Q12511503,17,0,1,"subdistrict in Pontianak City, West Kalimantan, Indonesia",,Q965568,,
+Saigon,Saigon,Q135026770,17,0,1,"ward of Ho Chi Minh City, Vietnam",Saigon ward|Sài Gòn ward,Q687188|Q1306755,,"Saigon, Ho Chi Minh City"
+Saigon,Saigon,Q105076326,17,0,1,historical city at the center of present-day Ho Chi Minh City until its merger with Cholon in 1956,Đô thành Sài Gòn|Sài Gòn|Saigon Capital City,Q515|Q10864048|Q15284|Q5119,,
+Saigon,Saigon railway station,Q2673539,17,0,1,"railway station in District 3, Vietnam",,Q55488,,Saigon station
+Saigon,Saigon,Q1153158,17,0,1,American rapper,Brian Carenard|Brian Daniel Carenard,Q5,,Saigon (rapper)
+Saigon,Saigona,Q10660147,17,0,1,genus of insects,,Q16521,,
+Saigon,Saigon,Q3536457,17,0,1,1948 film by Leslie Fenton,,Q11424,,Saigon (1948 film)
+Saigon,Saïgon,Q18762979,17,0,1,,,Q682355,,French ironclad floating battery Saigon
+Saigon,Ho Chi Minh City University of Science,Q5873997,17,0,2,"public college in Ho Chi Minh City, Vietnam",Ho Chi Minh City University of Natural Sciences|University of Natural Sciences of Ho Chi Minh City,Q3918|Q2221906,,Ho Chi Minh City University of Science
+Saigon,Vietnam National University,Q943759,17,0,2,university in Ho Chi Minh City,VNUHCM|VNU-HCM|Ho Chi Minh City National University,Q3918,,"Vietnam National University, Ho Chi Minh City"
+Saigon,Ho Chi Minh City Metro,Q2198304,17,0,2,"rapid transit network in Ho Chi Minh City, Vietnam",HCMC Metro,Q5503,,Ho Chi Minh City Metro
+Saigon,Ho Chi Minh City University of Technology,Q3101701,17,0,2,"university in Ho Chi Minh city, Vietnam",HCMUT,Q3918,,Ho Chi Minh City University of Technology
+Saigon,Ho Chi Minh City Television,Q5873970,17,0,2,Vietnamese television network,HTV,Q141683|Q1616075,,Ho Chi Minh City Radio and Television
+Saigon,Industrial University of Ho Chi Minh City,Q7895548,17,0,2,Vietnamese higher education institution specialized in industrial training,Ho Chi Minh City University of Industry|Ho Chi Minh University of Industry,Q3918,,Industrial University of Ho Chi Minh City
+Saigon,Ho Chi Minh City Museum of History,Q6941045,17,0,2,"history museum in Ho Chi Minh City, Vietnam",,Q33506,,Ho Chi Minh City Museum of History
+Saigon,Nong Lam University,Q5873976,17,0,2,Public university of Vietnam,Ho Chi Minh City University of Agriculture and Forestry,Q3918,,Ho Chi Minh City University of Agriculture and Forestry
+Saigon,Ho Chi Minh City International University,Q5873959,17,0,2,"university in Ho Chi Minh City, Vietnam","Ho Chi Minh International University|International University|International University (IU), Vietnam National University – Ho Chi Minh City|International University - Vietnam National University HCM City|IU|VNUHCM - International University|VNUHCM-International University|HCMIU",Q3918,,Ho Chi Minh City International University
+Alcanena,Alcanena,Q986107,18,0,1,municipality of Portugal,,Q13217644,,Alcanena
+Alcanena,Alcanena e Vila Moreira,Q18467934,18,0,1,civil parish in Alcanena,,Q1131296,,
+Alcanena,Alcanena,Q31877477,18,0,1,human settlement in Portugal,,Q486972|Q5119|Q19833170,,
+Alcanena,coat of arms of Alcanena,Q56817773,18,0,1,,Alcanena coat of arms,Q14659,,
+Alcanena,Freguesia de Alcanena,Q2486852,18,0,1,former civil parish in Portugal,,Q56046844,,
+Alcanena,Alcanena,Q2420101,18,0,1,Wikimedia disambiguation page,,Q4167410,,
+Edinburgh,Edinburgh,Q23436,19,0,1,"capital city of Scotland, UK","Edinburgh, Scotland|City of Edinburgh|Edina|Modern Athens|Auld Reekie|Athens of the North",Q515|Q1187811|Q202435|Q104630835|Q1549591,,Edinburgh
+Edinburgh,City of Edinburgh,Q2379199,19,0,1,council area in Scotland,Edinburgh|Edinburgh City|City of Edinburgh district|City of Edinburgh|Edinburgh district,Q15060255|Q21457810|Q104630835,,
+Edinburgh,Edinburgh,Q68826067,19,0,1,Scottish parish,,Q5124673,,
+Edinburgh,Edinburgh,Q37259272,19,0,1,family name,,Q101352,,
+Edinburgh,University of Edinburgh,Q160302,19,0,1,"public university in Edinburgh, Scotland, United Kingdom","Edinburgh University|The University of Edinburgh|University of Edinburgh, Scotland",Q875538|Q45400320|Q2667285|Q163740,,University of Edinburgh
+Edinburgh,Edinburgh Napier University,Q1277357,19,0,1,university in Scotland,Oilthigh Napier Dhùn Èideann,Q875538|Q163740,,Edinburgh Napier University
+Edinburgh,Midlothian,Q67317221,19,0,1,historic county of Scotland,Edinburghshire|County of Edinburgh,Q1350181|Q67376938,,Midlothian (historic)
+Edinburgh,Edinburgh College of Art,Q5338172,19,0,1,"school of arts in the Edinburgh, Scotland","Hunter Building, Edinburgh College Of Art|Edinburgh, Lauriston Place, Edinburgh College Of Art|ECA|Edinburgh School of Art|University of Edinburgh College of Art",Q383092|Q11396960|Q16861871|Q713223,,Edinburgh College of Art
+Edinburgh,Edinburgh University Press,Q3719191,19,0,1,British scholarly publisher,,Q479716|Q2085381,,Edinburgh University Press
+Edinburgh,Edinburgh,Q126558297,19,0,1,book edition (en),,Q3331189,,
+Edinburgh,Scotland Street Tunnel,Q17791523,19,0,2,"railway tunnel in Edinburgh, Scotland, UK","Edinburgh, Scotland Street Tunnel|Scotland Street Tunnel, Edinburgh",Q1311958,,
+Edinburgh,City of Edinburgh,Q20870318,19,0,2,"Ship, built 1813",,Q11446,,City of Edinburgh (1813 ship)
+Edinburgh,City of Edinburgh,Q106318613,19,0,2,ship built in 1973,City of Edingurgh|Benarty|Maersk Edinburgh|Edinburgh|IMO 7306312,Q17210,,
+Edinburgh,City of Edinburgh Council,Q28530250,19,0,2,"Scottish unitary authority council in Edinburgh, Scotland, UK",Edinburgh City Council,Q21451686,,City of Edinburgh Council
+Edinburgh,City of Edinburgh,Q65119521,19,0,2,"Ship, built 1803",,Q11446,,City of Edinburgh (1803 ship)
+Edinburgh,City of Edinburgh,Q108427909,19,0,2,1807 ship,,Q11446,,City of Edinburgh (1807 ship)
+Edinburgh,City of Edinburgh District Council Order Confirmation Act 1991,Q100165863,19,0,2,Local Act of Parliament of the United Kingdom,"1991 c. xix|1991 c xix|City of Edinburgh District Council Order Confirmation Act, 1991",Q100165600|Q110295952,,
+Edinburgh,City of Edinburgh (Guided Busways) Order Confirmation Act 1998,Q100165690,19,0,2,Local Act of Parliament of the United Kingdom,"1998 c. iii|1998 c iii|City of Edinburgh (Guided Busways) Order Confirmation Act, 1998",Q100165600|Q110295952,,
+Edinburgh,City of Edinburgh Music School,Q5123673,19,0,2,"secondary school in City of Edinburgh, Scotland, UK",,Q159334,,City of Edinburgh Music School
+Palikir,Palikir,Q42751,20,0,1,capital of Federated States of Micronesia,,Q515|Q257391,,Palikir
+Palikir,Palikirus,Q7127535,20,0,1,genus of molluscs,,Q16521,,Palikirus
+Palikir,Palikir,Q24065166,20,0,1,,,Q1475691,,
+Palikir,Palikirus ponapicus,Q3322457,20,0,1,species of mollusc,,Q16521,,Palikirus ponapicus
+Palikir,Palikirus cosmetus,Q3322535,20,0,1,species of mollusc,,Q16521,,Palikirus cosmetus
+Palikir,Palikir Minor Passage,Q24572949,20,0,1,,,Q1210950,,
+Palikir,Palikiri Branch Post Office,Q70239133,20,0,1,,,Q61443690,,
+Palikir,Federated States of Micronesia,Q702,20,0,2,island sovereign state in Oceania,"Micronesia|FSM|fm|Fed. Sts. Micronesia|Fed. Sts. of Micronesia|Federated States of Micronesia, FSM",Q3624078|Q112099|Q6256,,Federated States of Micronesia
+Palikir,Federated States of Micronesia,Q12938016,20,0,2,,,,,
+Palikir,Federated States of Micronesia national football team,Q218167,20,0,2,national association football team,Micronesia national football team,Q135408445,,Federated States of Micronesia national football team
+Palikir,COVID-19 pandemic in the Federated States of Micronesia,Q104774939,20,0,2,ongoing COVID-19 viral pandemic in the Federated States of Micronesia,2020 COVID-19 pandemic in Micronesia|the Federated States of Micronesia COVID-19 pandemic|2020 Federated States of Micronesia COVID-19 pandemic|Federated States of Micronesia COVID-19 pandemic|COVID pandemic in the Federated States of Micronesia,Q3241045,,COVID-19 pandemic in the Federated States of Micronesia
+Palikir,flag of the Federated States of Micronesia,Q190648,20,0,2,national flag of the Federated States of Micronesia,the Federated States of Micronesia flag|Federated States of Micronesia flag,Q186516,,Flag of the Federated States of Micronesia
+Palikir,Federated States of Micronesia Basketball Association,Q136122076,20,0,2,,,Q43229|Q15986354,,
+Palikir,Federated States of Micronesia at the 2016 Summer Olympics,Q20113794,20,0,2,sporting event delegation,,Q26213387,,Federated States of Micronesia at the 2016 Summer Olympics
+Palikir,Seal of the Federated States of Micronesia,Q459549,20,0,2,coat of arms,the Federated States of Micronesia seal|Federated States of Micronesia seal,Q645466|Q12056846,,Seal of the Federated States of Micronesia
+Palikir,Federated States of Micronesia at the Olympics,Q844535,20,0,2,Participation of athletes from the Federated States of Micronesia in the Olympic Games,Micronesia at the Olympics,Q26213387,,Federated States of Micronesia at the Olympics
+Palikir,Micronesians,Q102869586,20,0,2,citizens or residents of the Federated States of Micronesia,Micronesian people|Micronesia residents|Micronesia citizens|Federated States of Micronesia residents,Q33829,Q2065556|Q102870677|Q6266|Q22947,

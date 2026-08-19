@@ -1,0 +1,27 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Quebec Route 136,Quebec Route 136,Q3443573,0,0,1,highway in Quebec City,Boulevard Champlain|Quai Saint-André|Quai Saint-Andre|Rue Dalhousie|Rue Saint-Paul,Q34442,,Quebec Route 136 (Quebec City)
+Quebec Route 136,Quebec Route 136,Q2872886,0,0,1,highway in Montreal,Autoroute 720|Autoroute Ville-Marie,Q269949,,Quebec Route 136 (Montreal)
+Quebec Route 136,Quebec Route 136,Q108881626,0,0,1,Wikimedia disambiguation page,,Q4167410,,Quebec Route 136
+Transports Québec,Transports Québec,Q3315417,0,2,1,transportation ministry in Quebec,Transports Quebec|Transports Québec|MTQ,Q2516426|Q3315493,,Transports Québec
+Transports Québec,Quebec Route 136,Q3443573,0,2,2,highway in Quebec City,Boulevard Champlain|Quai Saint-André|Quai Saint-Andre|Rue Dalhousie|Rue Saint-Paul,Q34442,,Quebec Route 136 (Quebec City)
+Transports Québec,Quebec Route 136,Q2872886,0,2,2,highway in Montreal,Autoroute 720|Autoroute Ville-Marie,Q269949,,Quebec Route 136 (Montreal)
+Transports Québec,Quebec Route 136,Q108881626,0,2,2,Wikimedia disambiguation page,,Q4167410,,Quebec Route 136
+Alligator Alley,Alligator Alley,Q114544750,1,0,1,episode of Naked and Afraid (S4 E1),,Q21191270,,
+Alligator Alley,Alligator Alley,Q2428705,1,0,1,highway in Florida,,Q269949,,Alligator Alley
+Alligator Alley,Alligator Alley,Q89193470,1,0,1,film directed by Griff Furst,Ragin' Cajun Redneck Gators|Ragin Cajun Redneck Gators,Q11424,,
+Alligator Alley,Alligator Alley,Q4732642,1,0,1,Wikimedia disambiguation page,,Q4167410,,Alligator Alley (disambiguation)
+Alligator Alley,Interstate 75,Q94689,1,0,2,Interstate Highway in the United States spanning from Michigan to Florida,I-75,Q34442,,Interstate 75
+Alligator Alley,Interstate 75 in Michigan,Q2351623,1,0,2,Interstate Highway in Michigan,I-75|Detroit–Toledo Expressway|Fisher Freeway|American Legion Freeway|G. Mennon Williams Freeway|Prentiss M. Brown Freeway|Walter P. Chrysler Freeway|Tuskegee Airmen Memorial Highway,Q34442,,Interstate 75 in Michigan
+Alligator Alley,Business routes of Interstate 75,Q18148234,1,0,2,business routes of an Interstate Highway,I-75 Bus.|Interstate 75 Business,Q34442|Q5001935,,Business routes of Interstate 75
+Alligator Alley,Interstate 75 in Georgia,Q2428609,1,0,2,highway in Georgia,SR 401,Q34442,,Interstate 75 in Georgia
+Alligator Alley,Interstate 75 in Tennessee,Q2447266,1,0,2,"section of Interstate Highway in Tennessee, United States",I-75,Q34442,,Interstate 75 in Tennessee
+Alligator Alley,Interstate 75 in Florida,Q2432532,1,0,2,highway in Florida,I-75,Q34442,,Interstate 75 in Florida
+Alligator Alley,Interstate 75 in Ohio,Q1130889,1,0,2,highway in Ohio,IR 75|I-75 in Ohio|Interstate Route 75,Q46622,,Interstate 75 in Ohio
+Alligator Alley,Interstate 75 in Kentucky,Q2447156,1,0,2,highway in Kentucky,,Q34442,,Interstate 75 in Kentucky
+Alligator Alley,Interstate 759,Q876828,1,0,2,highway in Alabama,,Q34442,,Interstate 759
+Alligator Alley,Interstate 75 Kentucky shooting,Q130357153,1,0,2,"2024 mass shooting in Kentucky, U.S",,Q1190554|Q21480300,,2024 Interstate 75 Kentucky shooting
+Florida Department of Transportation,Florida Department of Transportation,Q3074270,1,2,1,"state transportation agency in Florida, United States",FDOT,Q97010948,,Florida Department of Transportation
+Florida Department of Transportation,Alligator Alley,Q114544750,1,2,2,episode of Naked and Afraid (S4 E1),,Q21191270,,
+Florida Department of Transportation,Alligator Alley,Q2428705,1,2,2,highway in Florida,,Q269949,,Alligator Alley
+Florida Department of Transportation,Alligator Alley,Q89193470,1,2,2,film directed by Griff Furst,Ragin' Cajun Redneck Gators|Ragin Cajun Redneck Gators,Q11424,,
+Florida Department of Transportation,Alligator Alley,Q4732642,1,2,2,Wikimedia disambiguation page,,Q4167410,,Alligator Alley (disambiguation)

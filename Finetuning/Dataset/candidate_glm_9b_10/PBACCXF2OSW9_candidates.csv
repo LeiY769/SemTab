@@ -1,0 +1,514 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SuperValu,SuperValu,Q682047,0,0,1,American wholesaler and retailer of grocery products,"SuperValu, Inc.",Q6881511|Q18043413|Q891723,,SuperValu (United States)
+SuperValu,SuperValu,Q7642081,0,0,1,Irish supermarket chain,,Q4830453,,SuperValu (Ireland)
+SuperValu,SuperValu,Q7642077,0,0,1,Canadian supermarket chain,,Q18043413,,SuperValu (Canada)
+SuperValu,SuperValue,Q7642080,0,0,1,New Zealand supermarket chain,,Q4830453|Q18043413,,SuperValue
+SuperValu,Supervalu Pharmacies,Q7644302,0,0,1,,,Q4830453,,SuperValu Pharmacies
+SuperValu,supervaluationism,Q17141227,0,0,1,semantics for dealing with irreferential singular terms and vagueness,,Q33104279,,Supervaluationism
+SuperValu,Supervalu 2014 data breach,Q76317005,0,0,1,Hacked,,Q1172486,,
+SuperValu,Supervalu Expanding Distribution Unit as Retail Sales Fall,Q114686582,0,0,1,"Wall Street Journal article (October 18, 2017)",,Q5707594,,
+SuperValu,Supervalues,Q76455872,0,0,1,print in the National Gallery of Art (NGA 147164),,Q11060274,,
+SuperValu,Supervaluationism and Necessarily Borderline Sentences,Q128553195,0,0,1,scholarly article,,Q13442814,,
+Minneapolis,Minneapolis,Q36091,0,1,1,"city in and seat of Hennepin County, and largest city in State of Minnesota, United States","Minneapolis, Minnesota|Minneapolis, MN",Q62049|Q1093829|Q1549591,,Minneapolis
+Minneapolis,Minneapolis Institute of Art,Q1700481,0,1,1,"art museum in Minneapolis, Minnesota",ARTSMIA|The Minneapolis Institute of Arts|MIA|Mia|Minneapolis Society of Fine Arts,Q3196771|Q383092|Q163740,,Minneapolis Institute of Art
+Minneapolis,Minneapolis,Q1931546,0,1,1,"city in Ottawa County, Kansas, United States","Minneapolis, Kansas|Minneapolis (Kansas)|Minneapolis, KS",Q1093829|Q62049,,"Minneapolis, Kansas"
+Minneapolis,Downtown,Q135264400,0,1,1,Tony Hawk's Pro Skater level,Minneapolis,Q1046315,,
+Minneapolis,Minneapolis College of Art and Design,Q6867974,0,1,1,"private art college located in Minneapolis, Minnesota, USA",Minneapolis School of Fine Arts|MCAD,Q383092|Q23002054|Q1792623,,Minneapolis College of Art and Design
+Minneapolis,Los Angeles Lakers,Q121783,0,1,1,American professional basketball team,Minneapolis Lakers|LA Lakers|L.A. Lakers|Purple and Gold|The Lake Show|Lakers,Q13393265,,Los Angeles Lakers
+Minneapolis,Minneapolis Millers,Q6868005,0,1,1,baseball team,,Q13027888,,Minneapolis Millers
+Minneapolis,Hennepin County Medical Center,Q5714832,0,1,1,"hospital in Minneapolis, Minnesota, United States",Minneapolis City Hospital|Hennepin County General Hospital,Q7257872,,Hennepin County Medical Center
+Minneapolis,Minneapolis,Q112201193,0,1,1,painting by James Hayward,,Q3305213,,
+Minneapolis,Honeywell,Q898208,0,1,1,American multinational conglomerate,"Minneapolis Heat Regulator Company|Minneapolis-Honeywell Regulator Company|Honeywell International|HONEYWELL INTERNATIONAL INC. (Charlotte, NC)|Honeywell International, Inc.",Q4830453|Q6881511|Q891723,,Honeywell
+joint-stock company,joint-stock company,Q134161,0,2,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+joint-stock company,società per azioni,Q3742388,0,2,1,Italian company owned by shareholders,S.p.A.|joint-stock company|SpA,Q15813157,Q134161,Società per azioni
+joint-stock company,joint-stock company,Q18226900,0,2,1,type of legal entity in the United States and the United Kingdom,,Q1269299,Q134161,
+joint-stock company,joint-stock company,Q110763931,0,2,1,type of legal entity in Russia,aktsionernyye obshchestva|AO,Q2321921,Q134161,
+joint-stock company,Tupolev,Q194009,0,2,1,Russian aerospace and defence company,"OKB-156|Joint Stock Company Tupolev|Tupolev Design Bureau|JSC Tupolev|Otkrytoe akt︠s︡ionernoe obshchestvo ""Tupolev""|OKB A.N. Tupoleva",Q936518,,Tupolev
+joint-stock company,Kalashnikov Concern,Q7427495,0,2,1,weapons and motor vehicle manufacturer,Izhevsk Machinebuilding Plant|Izhmash|Joint stock company «Concern «Kalashnikov»|JSC Kalashnikov Concern|JSC 766 UPTK,Q4830453|Q6881511|Q891723,,Kalashnikov Concern
+joint-stock company,Research and Design Institute of Well Logging,Q48950696,0,2,1,"facility in Nizhny Novgorod, Russia",Joint Stock Company Scientific Production Enterprise Research and Design Institute of Well Logging|VNIIGIS,Q13226383,,
+joint-stock company,joint stock company,Q116848174,0,2,1,type of legal entity in Croatia,d.d.,Q61050448|Q10541491,Q134161,
+joint-stock company,Belavia,Q815314,0,2,1,National airline of Belarus,"Belavia - Belarusian Airlines|Joint Stock Company ""Belavia Belarusian Airlines""|B2|BRU",Q46970,,Belavia
+joint-stock company,Atomenergomash,Q2869564,0,2,1,Russian nuclear engineering company,"Joint-Stock Company ""Atomenergomash Nuclear and Power Engineering""",Q4830453|Q6881511,,Atomenergomash
+joint-stock company,SuperValu,Q682047,0,2,2,American wholesaler and retailer of grocery products,"SuperValu, Inc.",Q6881511|Q18043413|Q891723,,SuperValu (United States)
+joint-stock company,SuperValu,Q7642081,0,2,2,Irish supermarket chain,,Q4830453,,SuperValu (Ireland)
+joint-stock company,SuperValu,Q7642077,0,2,2,Canadian supermarket chain,,Q18043413,,SuperValu (Canada)
+joint-stock company,SuperValue,Q7642080,0,2,2,New Zealand supermarket chain,,Q4830453|Q18043413,,SuperValue
+joint-stock company,Supervalu Pharmacies,Q7644302,0,2,2,,,Q4830453,,SuperValu Pharmacies
+joint-stock company,supervaluationism,Q17141227,0,2,2,semantics for dealing with irreferential singular terms and vagueness,,Q33104279,,Supervaluationism
+joint-stock company,Supervalu 2014 data breach,Q76317005,0,2,2,Hacked,,Q1172486,,
+joint-stock company,Supervalu Expanding Distribution Unit as Retail Sales Fall,Q114686582,0,2,2,"Wall Street Journal article (October 18, 2017)",,Q5707594,,
+joint-stock company,Supervalues,Q76455872,0,2,2,print in the National Gallery of Art (NGA 147164),,Q11060274,,
+joint-stock company,Supervaluationism and Necessarily Borderline Sentences,Q128553195,0,2,2,scholarly article,,Q13442814,,
+joint-stock company,Minneapolis,Q36091,0,2,2,"city in and seat of Hennepin County, and largest city in State of Minnesota, United States","Minneapolis, Minnesota|Minneapolis, MN",Q62049|Q1093829|Q1549591,,Minneapolis
+joint-stock company,Minneapolis Institute of Art,Q1700481,0,2,2,"art museum in Minneapolis, Minnesota",ARTSMIA|The Minneapolis Institute of Arts|MIA|Mia|Minneapolis Society of Fine Arts,Q3196771|Q383092|Q163740,,Minneapolis Institute of Art
+joint-stock company,Minneapolis,Q1931546,0,2,2,"city in Ottawa County, Kansas, United States","Minneapolis, Kansas|Minneapolis (Kansas)|Minneapolis, KS",Q1093829|Q62049,,"Minneapolis, Kansas"
+joint-stock company,Downtown,Q135264400,0,2,2,Tony Hawk's Pro Skater level,Minneapolis,Q1046315,,
+joint-stock company,Minneapolis College of Art and Design,Q6867974,0,2,2,"private art college located in Minneapolis, Minnesota, USA",Minneapolis School of Fine Arts|MCAD,Q383092|Q23002054|Q1792623,,Minneapolis College of Art and Design
+joint-stock company,Los Angeles Lakers,Q121783,0,2,2,American professional basketball team,Minneapolis Lakers|LA Lakers|L.A. Lakers|Purple and Gold|The Lake Show|Lakers,Q13393265,,Los Angeles Lakers
+joint-stock company,Minneapolis Millers,Q6868005,0,2,2,baseball team,,Q13027888,,Minneapolis Millers
+joint-stock company,Hennepin County Medical Center,Q5714832,0,2,2,"hospital in Minneapolis, Minnesota, United States",Minneapolis City Hospital|Hennepin County General Hospital,Q7257872,,Hennepin County Medical Center
+joint-stock company,Minneapolis,Q112201193,0,2,2,painting by James Hayward,,Q3305213,,
+joint-stock company,Honeywell,Q898208,0,2,2,American multinational conglomerate,"Minneapolis Heat Regulator Company|Minneapolis-Honeywell Regulator Company|Honeywell International|HONEYWELL INTERNATIONAL INC. (Charlotte, NC)|Honeywell International, Inc.",Q4830453|Q6881511|Q891723,,Honeywell
+Makro,Makro,Q704606,1,0,1,Dutch brand of wholesale supermarket chains,Makro chain store|Makro supermarkets|Makro warehouse clubs,Q4830453|Q6881511|Q135302108,,Makro
+Makro,M&Co,Q136785661,1,0,1,Filipino wholesale retailer,M&Co. Corporation|M&Co. Corp.|Pilipinas Makro|Makro|M&Co.|M&Co Corporation|M&Co Corp.,Q1589009,,
+Makro,Makrokylindrus,Q6497875,1,0,1,genus of crustaceans,,Q16521,,
+Makro,Makrobiusz,Q3842164,1,0,1,male given name,Makrobiusz (given name)|Makrobiusz (first name),Q12308941,,
+Makro,makro,Q18024604,1,0,1,,,Q15416,,
+Makro,Makro,Q10323264,1,0,1,,,Q5,,
+Makro,polycarbonate,Q62246,1,0,1,family of polymers,"PC|Polycarbonate, PC|Makrolon",Q119896085,Q81163|Q188245|Q414835|Q99600509|Q380677,Polycarbonate
+Makro,Makroman,Q12496253,1,0,1,"subdistrict in Samarinda City, East Kalimantan, Indonesia",,Q965568,,
+Makro,Makrostrotos,Q18606438,1,0,1,genus of crustaceans,,Q16521,,
+Makro,Makrokylindrus lomakinae,Q6496334,1,0,1,species of crustacean,,Q16521,,
+Makro,MAKRO Cash & Carry ČR,Q33093119,1,0,2,company in the Czech Republic,,Q4830453|Q6881511,,
+Makro,Metro Cash & Carry,Q13610282,1,0,2,international self-service wholesaler,METRO,Q431289|Q2128165,,Metro Cash & Carry
+S.A,South Australia,Q35715,1,2,1,state of Australia,SA|S.A.|AU-SA|S. Aust.|State of South Australia,Q5852411|Q1351282,,South Australia
+S.A,S.A.,Q166280,1,2,1,type of corporation in countries that mostly employ civil law,Société Anonyme|Societat Anònima|Sociedade Anónima|Società Anonima|Anonymous Society|Societe Anonyme|Societat Anonima|Sociedade Anonima|Societa Anonima|Sociedade anônima|S/A|S.A. (corporation)|SA|sociedad anónima|Sociedad Anónima,Q1269299,Q134161,S.A. (corporation)
+S.A,Smithsonian American Art Museum,Q1192305,1,2,1,"fine arts museum in Washington, D.C., a division of the Smithsonian Institution",American Art|American Art Museum Smithsonian Institution|National Museum of American Art Smithsonian Institution|National Museum of American Art|S.A.A.M.|Smithsonian Institution National Museum of American Art|NMAA|N.M.A.A.|National Collection of Fine Arts,Q3196771|Q8513,,Smithsonian American Art Museum
+S.A,Public limited company (Belgium),Q422053,1,2,1,type of business entity in Belgium,N.V.|Naamloze vennootschap|AG|Aktiengesellschaft|PLC|Public limited company (Belgium)|S.A.|SA|Société anonyme,Q10541491|Q28491520,Q166280|Q155076|Q1436139,
+S.A,Salvador Arias Montes,Q13218591,1,2,1,Mexican botanist,Salvador Arias|S.Arias|Ángel Salvador Arias Montes,Q5,,
+S.A,Aktiengesellschaft,Q693737,1,2,1,type of Swiss joint-stock company,AG|SA|Societe Anonyme|Societa anonima|S.A.,Q19588327|Q10541491,Q22084735|Q155076|Q166280,
+S.A,Serkant Ali Çetin,Q83034457,1,2,1,Turkish researcher,S A Cetin|S.A. Cetin|SA Cetin,Q5,,
+S.A,S.A,Q564410,1,2,1,Japanese manga series,Special A,Q21198342,,S.A (manga)
+S.A,joint-stock company,Q134161,1,2,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+S.A,Sebastian Andres Olivares Pino,Q67466852,1,2,1,particle physicist,S.A. Olivares Pino|Olivares Pino SA|Sebastian Olivares|S. A. Olivarest Pino|S. A. Olivares Pino,Q5,,
+Bazaar,marketplace,Q330284,2,0,1,space in which a market operates,bazaar|market|public market,,Q39659371|Q132510|Q13226383|Q2221906,Marketplace
+Bazaar,bazaar,Q219760,2,0,1,type of public marketplace,bazar,,Q132510|Q294422,Bazaar
+Bazaar,street vendor,Q3555589,2,0,1,informal seller of goods or food in public spaces,street hawker|farmers' market|fairs|flea market|bazaar|hawking|mobile seller|road show|rural market|street traders|street vending|hawker,Q28640,Q685433,Hawker (trade)
+Bazaar,Bazaar,Q124063422,2,0,1,2016 video game,,Q7889,,
+Bazaar,GNU Bazaar,Q812656,2,0,1,distributed version control system,Bazaar|bzr,Q1186723|Q20825628|Q132364,,GNU Bazaar
+Bazaar,čaršija,Q3124714,2,0,1,"urban commercial area usually located in the center of a town or city, characteristic of the Ottoman era in the Balkans",bazaar,Q811102,Q219760,
+Bazaar,Bazaar,Q4875087,2,0,1,Danish musical group,,Q215380,,Bazaar (band)
+Bazaar,Bazaar,Q11190905,2,0,1,,,Q215380,,
+Bazaar,Bazaar,Q4875083,2,0,1,1949 film by K. Amarnath,,Q11424,,Bazaar (1949 film)
+Bazaar,Bazaar,Q65117859,2,0,1,2019 film,,Q11424,,Bazaar (2019 film)
+joint-stock company,joint-stock company,Q134161,2,2,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+joint-stock company,società per azioni,Q3742388,2,2,1,Italian company owned by shareholders,S.p.A.|joint-stock company|SpA,Q15813157,Q134161,Società per azioni
+joint-stock company,joint-stock company,Q18226900,2,2,1,type of legal entity in the United States and the United Kingdom,,Q1269299,Q134161,
+joint-stock company,joint-stock company,Q110763931,2,2,1,type of legal entity in Russia,aktsionernyye obshchestva|AO,Q2321921,Q134161,
+joint-stock company,Tupolev,Q194009,2,2,1,Russian aerospace and defence company,"OKB-156|Joint Stock Company Tupolev|Tupolev Design Bureau|JSC Tupolev|Otkrytoe akt︠s︡ionernoe obshchestvo ""Tupolev""|OKB A.N. Tupoleva",Q936518,,Tupolev
+joint-stock company,Kalashnikov Concern,Q7427495,2,2,1,weapons and motor vehicle manufacturer,Izhevsk Machinebuilding Plant|Izhmash|Joint stock company «Concern «Kalashnikov»|JSC Kalashnikov Concern|JSC 766 UPTK,Q4830453|Q6881511|Q891723,,Kalashnikov Concern
+joint-stock company,Research and Design Institute of Well Logging,Q48950696,2,2,1,"facility in Nizhny Novgorod, Russia",Joint Stock Company Scientific Production Enterprise Research and Design Institute of Well Logging|VNIIGIS,Q13226383,,
+joint-stock company,joint stock company,Q116848174,2,2,1,type of legal entity in Croatia,d.d.,Q61050448|Q10541491,Q134161,
+joint-stock company,Belavia,Q815314,2,2,1,National airline of Belarus,"Belavia - Belarusian Airlines|Joint Stock Company ""Belavia Belarusian Airlines""|B2|BRU",Q46970,,Belavia
+joint-stock company,Atomenergomash,Q2869564,2,2,1,Russian nuclear engineering company,"Joint-Stock Company ""Atomenergomash Nuclear and Power Engineering""",Q4830453|Q6881511,,Atomenergomash
+famila,Famila,Q1395108,3,0,1,Italian hypermarket chain,,Q6881511|Q18043413,,
+famila,Famila,Q5432916,3,0,1,2005 film,,Q202866,,
+famila,famila,Q105712644,3,0,1,,,Q4830453|Q6881511,,
+famila,famila,Q105712643,3,0,1,,,Q4830453|Q6881511|Q18043413,,
+famila,"Famila, Aitoloakarnania",Q21571442,3,0,1,human settlement in Greece,,Q486972,,
+famila,Famila Azuola,Q140483174,3,0,1,Colombian and costarrican family,,,,
+famila,FamiLAB,Q140068664,3,0,1,,,Q43229,,FamiLAB
+famila,Familal left ventricular hypertrabeculation (noncompaction) is myopathic,Q44468556,3,0,1,"scientific article published on July 23, 2011",,Q13442814,,
+famila,Familal Bell's Palsy (Case Report),Q72846884,3,0,1,scientific article published on 01 June 1966,,Q13442814,,
+famila,PF Schio,Q3064877,3,0,1,Italian women's basketball team,Pallacanestro Femminile Schio,Q13393265,,PF Schio
+Bolzano,Bolzano,Q6526,3,1,1,"capital of South Tyrol, Italy",Bozen,Q747074|Q1549591|Q1392581,,Bolzano
+Bolzano,South Tyrol,Q15124,3,1,1,autonomous province of Italy,autonomous province of Bolzano|Bolzano province|province of Bolzano-Bozen|South Tirol|autonomous province of Bolzano-Bozen|autonomous province of Bozen|Bozen province|Autonomous Province of Bozen/Bolzano – South Tyrol|Autonomous Province of Bolzano – South Tyrol|provincia di Bolzano|Provincia autonoma di Bolzano|province of Bolzano|province of Bozen|Province of Bolzano-Bozen,Q15089,,South Tyrol
+Bolzano,Bernard Bolzano,Q184735,3,1,1,Bohemian mathematician and priest (1781–1848),Bolzano,Q5,,Bernard Bolzano
+Bolzano,Bolzano/Bozen railway station,Q800560,3,1,1,railway station in Italy,Bolzano/Bozen train station|Bolzano railway station|Bozen railway station,Q2451577|Q22808404|Q55488,,Bolzano/Bozen railway station
+Bolzano,Bolzano,Q128497860,3,1,1,family name,,Q101352,,
+Bolzano,2622 Bolzano,Q583740,3,1,1,asteroid,Bolzano,Q3863,,2622 Bolzano
+Bolzano,Bolzano airport,Q947740,3,1,1,regional airport near Bolzano in the province of South Tyrol in northern Italy,Bolzano Airport|BZO|LIPB|Bolzano,Q1248784,,Bolzano Airport
+Bolzano,Bolzano,Q2528613,3,1,1,1932 Trento-class cruiser,Italian cruiser Bolzano,Q898771,,Italian cruiser Bolzano
+Bolzano,Bolzanova,Q43051662,3,1,1,"street in Prague, Czech Republic",,Q79007,,
+Bolzano,Historic centre,Q49280504,3,1,1,historic centre of the city of Bozen/Bolzano in South Tyrol,Historic centre of Bozen|Historic center|Historic centre of Bolzano|Bozen|Bolzano,Q486972,,
+Bolzano,Cultural heritage monument in South Tyrol,Q18946666,3,1,2,protected cultural heritage monument in South Tyrol,South Tyrolean cultural heritage monument,Q74817647,Q18087975,
+Bolzano,Trentino-South Tyrol,Q1237,3,1,2,autonomous region in Northern Italy,Trentino-Alto Adige/Südtirol|Trentino-Alto Adige|Trentino-Alto Adige region|South Tyrol-Trentino|Trentino,Q1710033,,Trentino-Alto Adige/Südtirol
+Bolzano,South Tyrolean Freedom,Q2300128,3,1,2,"separatist, national-conservative political party in South Tyrol, Italy",,Q7278,,South Tyrolean Freedom
+Bolzano,South Tyrolean People's Party,Q606620,3,1,2,"regionalist and autonomist political party in South Tyrol, Italy",SVP|Südtiroler Volkspartei,Q7278,,South Tyrolean People's Party
+Bolzano,South Tyrol Arena,Q576783,3,1,2,"biathlon stadium in Rasen-Antholz, South Tyrol, Italy",,Q483110,,South Tyrol Arena
+Bolzano,Alto Adige,Q140131057,3,1,2,"wine-producing area in Trentino-Alto Adige, Italy",South Tyrol|Südtirol|Trentino-Alto Adige/Südtirol wine,Q2140699|Q282,Q4013660,South Tyrol wine
+Bolzano,South Tyrol Alpine Club,Q348270,3,1,2,Italian association of German and Ladin-speaking mountain climbers in South Tyrol,AVS,Q2142568|Q43229,,South Tyrol Alpine Club
+Bolzano,South Tyrolean Provincial Museums,Q2381627,3,1,2,,South Tyrol Provincial Museums,Q43229,,
+Bolzano,South Tyrol Museum of Archaeology,Q1755973,3,1,2,"archaeological museum in Bolzano, South Tyrol, Italy",,Q3329412|Q124830213,,South Tyrol Museum of Archaeology
+Bolzano,Bolzano-Bozen Foxes,Q1148654,3,1,2,ice hockey team,Hockey Club Bolzano|Hockey Club Bozen|HCB|HC Bozen|HC Bolzano,Q4498974,,HC Bozen–Bolzano
+società a responsabilità limitata,società a responsabilità limitata,Q15648878,3,2,1,Italian form of a company with limited liability,Srl|S.r.l.,Q15813157,Q17376040,Società a responsabilità limitata
+società a responsabilità limitata,private limited company,Q17376040,3,2,1,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+società a responsabilità limitata,limited liability company,Q149789,3,2,1,US form of a private limited company,,Q57653825,Q17376040,Limited liability company
+società a responsabilità limitata,Gesellschaft mit beschränkter Haftung,Q1518609,3,2,1,form of company in Austria with limited liability,GmbH,Q10541491,Q17376040|Q155076,
+società a responsabilità limitata,società a responsabilità limitata unipersonale,Q111369333,3,2,1,,società a responsabilità limitata con socio unico,Q15813157,Q15648878,
+società a responsabilità limitata,limited liability company,Q97174998,3,2,1,type of business entity in PRC,LLC PRC|Limited PRC|Co. Ltd. PRC|LLC China|Chinese Limited|Ltd PRC,Q130419100|Q155076,Q17376040,
+società a responsabilità limitata,società a responsabilità limitata semplificata,Q3963766,3,2,1,Italian form of company with limited liability,,Q15813157|Q10541491,Q15648878,
+società a responsabilità limitata,Gesellschaft mit beschränkter Haftung,Q1518608,3,2,1,form of a company in Switzerland with limited liability,GmbH,Q10541491,Q17376040,
+società a responsabilità limitata,società a responsabilità limitata a capitale ridotto,Q19622603,3,2,1,,,Q15813157,Q15648878,
+società a responsabilità limitata,Società a Responsabilità Limitata con Unico Socio,Q130083662,3,2,1,legal form in Italy,,Q10541491,Q33685,
+società a responsabilità limitata,Famila,Q1395108,3,2,2,Italian hypermarket chain,,Q6881511|Q18043413,,
+società a responsabilità limitata,Famila,Q5432916,3,2,2,2005 film,,Q202866,,
+società a responsabilità limitata,famila,Q105712644,3,2,2,,,Q4830453|Q6881511,,
+società a responsabilità limitata,famila,Q105712643,3,2,2,,,Q4830453|Q6881511|Q18043413,,
+società a responsabilità limitata,"Famila, Aitoloakarnania",Q21571442,3,2,2,human settlement in Greece,,Q486972,,
+società a responsabilità limitata,Famila Azuola,Q140483174,3,2,2,Colombian and costarrican family,,,,
+società a responsabilità limitata,FamiLAB,Q140068664,3,2,2,,,Q43229,,FamiLAB
+società a responsabilità limitata,Familal left ventricular hypertrabeculation (noncompaction) is myopathic,Q44468556,3,2,2,"scientific article published on July 23, 2011",,Q13442814,,
+società a responsabilità limitata,Familal Bell's Palsy (Case Report),Q72846884,3,2,2,scientific article published on 01 June 1966,,Q13442814,,
+società a responsabilità limitata,PF Schio,Q3064877,3,2,2,Italian women's basketball team,Pallacanestro Femminile Schio,Q13393265,,PF Schio
+società a responsabilità limitata,Bolzano,Q6526,3,2,2,"capital of South Tyrol, Italy",Bozen,Q747074|Q1549591|Q1392581,,Bolzano
+società a responsabilità limitata,South Tyrol,Q15124,3,2,2,autonomous province of Italy,autonomous province of Bolzano|Bolzano province|province of Bolzano-Bozen|South Tirol|autonomous province of Bolzano-Bozen|autonomous province of Bozen|Bozen province|Autonomous Province of Bozen/Bolzano – South Tyrol|Autonomous Province of Bolzano – South Tyrol|provincia di Bolzano|Provincia autonoma di Bolzano|province of Bolzano|province of Bozen|Province of Bolzano-Bozen,Q15089,,South Tyrol
+società a responsabilità limitata,Bernard Bolzano,Q184735,3,2,2,Bohemian mathematician and priest (1781–1848),Bolzano,Q5,,Bernard Bolzano
+società a responsabilità limitata,Bolzano/Bozen railway station,Q800560,3,2,2,railway station in Italy,Bolzano/Bozen train station|Bolzano railway station|Bozen railway station,Q2451577|Q22808404|Q55488,,Bolzano/Bozen railway station
+società a responsabilità limitata,Bolzano,Q128497860,3,2,2,family name,,Q101352,,
+società a responsabilità limitata,2622 Bolzano,Q583740,3,2,2,asteroid,Bolzano,Q3863,,2622 Bolzano
+società a responsabilità limitata,Bolzano airport,Q947740,3,2,2,regional airport near Bolzano in the province of South Tyrol in northern Italy,Bolzano Airport|BZO|LIPB|Bolzano,Q1248784,,Bolzano Airport
+società a responsabilità limitata,Bolzano,Q2528613,3,2,2,1932 Trento-class cruiser,Italian cruiser Bolzano,Q898771,,Italian cruiser Bolzano
+società a responsabilità limitata,Bolzanova,Q43051662,3,2,2,"street in Prague, Czech Republic",,Q79007,,
+società a responsabilità limitata,Historic centre,Q49280504,3,2,2,historic centre of the city of Bozen/Bolzano in South Tyrol,Historic centre of Bozen|Historic center|Historic centre of Bolzano|Bozen|Bolzano,Q486972,,
+Carrefour,Carrefour,Q217599,4,0,1,French hypermarket brand of the Carrefour Group,,Q431289|Q507619|Q18043413,,Carrefour
+Carrefour,Carrefour,Q16536228,4,0,1,newspaper,,Q11032,,
+Carrefour,Carrefour,Q63891353,4,0,1,sculpture on the Laval University campus,,Q860861,,
+Carrefour,Carrefour,Q986207,4,0,1,city,,Q515|Q3685462|Q1549591,,"Carrefour, Haiti"
+Carrefour,Carrefour Pleyel,Q1044915,4,0,1,Paris Métro station,,Q928830|Q22808403,,Carrefour Pleyel station
+Carrefour,carrefour de l'Odéon,Q2940204,4,0,1,"intersection in Paris, France",,Q285783,,
+Carrefour,CarrefourSA,Q28870164,4,0,1,Turkish supermarket,Carrefour,Q18043413,,CarrefourSA
+Carrefour,Carrefour,Q2940176,4,0,1,1938 film by Curtis Bernhardt,,Q11424,,Crossroads (1938 film)
+Carrefour,carrefour Pleyel,Q2940202,4,0,1,"intersection of Saint-Denis, Seine-Saint-Denis, France",,Q285783,,
+Carrefour,carrefour de la Pyramide,Q21098045,4,0,1,"intersection in bois de Vincennes, Paris, France",,Q285783,,
+Carrefour,Carrefour Group,Q3117359,4,0,2,French multinational retail and wholesaler,Groupe Carrefour,Q43229|Q161726,,Groupe Carrefour
+Annecy,Annecy,Q50189,4,1,1,"commune in Haute-Savoie, France",,Q484170|Q1549591,,Annecy
+Annecy,Annecy,Q28726684,4,1,1,"former commune in Haute-Savoie, France",,Q484170|Q21869758,,
+Annecy,Roman Catholic Diocese of Annecy,Q866863,4,1,1,diocese of the Catholic Church in France,Diocese of Annecy|Annecy (Diözese),Q3146899,,Diocese of Annecy
+Annecy,Annecy-le-Vieux,Q565982,4,1,1,"former commune in Haute-Savoie, France",,Q484170|Q21869758,,Annecy-le-Vieux
+Annecy,Annecy railway station,Q2043382,4,1,1,"railway station in Annecy, France",,Q55488,,Annecy station
+Annecy,Annecy International Animation Film Festival,Q1408677,4,1,1,"annual film festival held in Annecy, France",Annecy Festival|Annecy Animation Festival,Q220505,Q220505,Annecy International Animation Film Festival
+Annecy,Laboratoire d'Annecy de physique des particules,Q3214403,4,1,1,particle physics laboratory in France,LAPP|Annecy-le-Vieux Particle Physics Laboratory|Laboratoire d’Annecy de Physique des Particules,Q483242,,Laboratoire d'Annecy-le-Vieux de physique des particules
+Annecy,Annecy Cristal for a Short Film,Q30327090,4,1,1,,Grand Prix for best short film|The Annecy Cristal|Cristal for a Short Film,Q56116950,,
+Annecy,Annecy – Haute-Savoie – Mont Blanc Airport,Q1430810,4,1,1,airport,Meythet Airport|NCY|LFLP|ANNECY-HAUTE-SAVOIE,Q1248784,,Annecy–Haute-Savoie–Mont Blanc Airport
+Annecy,Annecy 2022,Q111663831,4,1,1,46th event of Annecy International Animated Film Festival,,Q27787439,,
+Penny,Penny,Q18324373,5,0,1,female given name,Penny (first name)|Penny (given name),Q11879590|Q12308941,,Penny (given name)
+Penny,Penny,Q16881098,5,0,1,family name,,Q101352,,Penny (surname)
+Penny,pound sterling,Q25224,5,0,1,official currency of the United Kingdom and other territories,GBP|British pound|pound|£|quid|sterling|Great British pound|pence|pounds|penny|livre sterling,Q8142|Q339180,,Pound sterling
+Penny,Penny,Q284688,5,0,1,German multinational discount supermarket chain,Penny Market|Penny supermarket|Penny.,Q4830453|Q18043413|Q261428|Q431289,,Penny (supermarket)
+Penny,Penny,Q18204312,5,0,1,nickname,,Q49614|Q108709,,Penny (nickname)
+Penny,Penny Porsche,Q6071378,5,0,1,American pornographic actress,Penny|Penny Porsha|Penny Porche|Penny Porshe,Q5,,
+Penny,penny,Q234129,5,0,1,unit of currency in various countries,pennies|pence,Q11639620,Q41207,Penny
+Penny,Penny Johnson Jerald,Q239328,5,0,1,American actress,Penny Johnson,Q5,,Penny Johnson Jerald
+Penny,Penny Marshall,Q237659,5,0,1,"American actress, director and producer (1943–2018)",Carole Penny Marshall|Carole Marshall,Q5,,Penny Marshall
+Penny,Sanyu Penelope,Q139845233,5,0,1,"Ugandan lawyer, author, feminist leader, social impact strategist, founder of Femme Forte Uganda and Qweshunga initiative limited",Penny|latagal,Q5,,Sanyu Penelope
+Penny,penny-farthing,Q1554036,5,0,2,bicycle with a large front wheel and a much smaller rear wheel,high wheel|high wheeler|man slicer|ordinary|penny farthing,Q11442,Q1930512,Penny-farthing
+Penny,Penny Farthing,Q7164375,5,0,2,British independent record label,Penny Farthing Records,Q18127,,Penny Farthing Records
+Penny,The Penny Farthing Public House,Q26500021,5,0,2,"pub in Islington, London, England, UK",Penny Farthing|The Penny Farthing,Q212198,,
+Penny,Penny Farthing,Q108936770,5,0,2,"Toronto coffeehouse, night club and performance venue in Yorkville 1963-1968",The Penny Farthing,Q4830453,,
+Penny,Penny Farthing,Q26650322,5,0,2,"architectural structure in Crowmarsh, South Oxfordshire, England, UK",,Q811979,,
+Penny,Penny Farthing Antiques  The Bakery,Q26657966,5,0,2,"architectural structure in Chobham, Surrey Heath, Surrey, England, UK",,Q811979,,
+Penny,Penny Farthing Inn,Q111395244,5,0,2,"hotel in St Augustine, United States",,Q27686,,
+Penny,Penny Arcade,Q2069159,5,0,2,webcomic about video games,,Q213369,,Penny Arcade
+Penny,Penny Arcade,Q7164334,5,0,2,"American performance artist, playwright, actress",Susana Ventura|Susana Carmen Ventura,Q5,,Penny Arcade (performer)
+Penny,"Penny Arcade, Inc.",Q107288624,5,0,2,American media and entertainment company,Penny Arcade,Q4830453,,
+Penny,PAX,Q588487,5,0,2,recurring gaming festival in the U.S. and Australia,Penny Arcade Expo|The Penny Arcade Expo,Q1129398|Q48004378|Q431289,,PAX (event)
+Penny,Penny Arcade,Q18611991,5,0,2,50th strip of the webcomic xkcd,xkcd 50,Q838795,,
+Penny,Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness,Q3899135,5,0,2,video game series based on an American webcomic Penny Arcade,,Q7058673,,On the Rain-Slick Precipice of Darkness: Episode One and Two
+Penny,Penny Arcade,Q23809198,5,0,2,play by Marie Baumer,,Q7725634,,
+Penny,Penny Arcade,Q7164333,5,0,2,jazz album by Joe Farrell,,Q482994,,Penny Arcade (album)
+Penny,amusement arcade,Q260676,5,0,2,place to play video games and other coin operated games,video arcade|penny arcades|video game arcade|arcade gaming,,Q108266065,Amusement arcade
+Penny,Penny Arcade Adventures: Otrspod Ep 2,Q107424239,5,0,2,video game,,Q7889,,
+Gesellschaft mit beschränkter Haftung,Gesellschaft mit beschränkter Haftung,Q460178,5,2,1,form of a company in Germany with limited liability,GesmbH|Ges.m.b.H.|GmbH (Germany)|Gesellschaft mit beschränkter Haftung (Germany)|GmbH (Deutschland),Q19335303,Q1589009|Q15829892|Q155076|Q17376040|Q783794,
+Gesellschaft mit beschränkter Haftung,Gesellschaft mit beschränkter Haftung,Q1518609,5,2,1,form of company in Austria with limited liability,GmbH,Q10541491,Q17376040|Q155076,
+Gesellschaft mit beschränkter Haftung,Gesellschaft mit beschränkter Haftung,Q1518608,5,2,1,form of a company in Switzerland with limited liability,GmbH,Q10541491,Q17376040,
+Gesellschaft mit beschränkter Haftung,GmbH & Co. KG,Q897103,5,2,1,type of business entity in Germany and Austria,,Q19335303|Q19656964,Q1780029,
+Gesellschaft mit beschränkter Haftung,Gesellschaft mit beschränkter Haftung,Q1518604,5,2,1,company with limited liability in Liechtenstein,GmbH in Liechtenstein,Q57654438|Q10541491,Q17376040,
+Gesellschaft mit beschränkter Haftung,private limited company,Q17376040,5,2,1,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+Gesellschaft mit beschränkter Haftung,Gesellschaft mit beschränkter Haftung,Q15829892,5,2,1,"""company with limited liability"" in different countries (Germany, Austria, Switzerland, Liechtenstein)",GmbH|GesmbH|Ges.m.b.H.|Gesellschaft m.b.H.|Gesellschaft mit begrenzter Haftung,Q14946528,Q17376040|Q155076|Q10541491,GmbH
+Gesellschaft mit beschränkter Haftung,besloten vennootschap,Q17375963,5,2,1,private limited liability company in the Netherlands,besloten vennootschap met beperkte aansprakelijkheid|B.V.|BV|private partnership,Q56871091|Q10541491,Q17376040|Q155076,Besloten vennootschap
+Gesellschaft mit beschränkter Haftung,società a responsabilità limitata,Q15648878,5,2,1,Italian form of a company with limited liability,Srl|S.r.l.,Q15813157,Q17376040,Società a responsabilità limitata
+Gesellschaft mit beschränkter Haftung,limited liability company,Q97174998,5,2,1,type of business entity in PRC,LLC PRC|Limited PRC|Co. Ltd. PRC|LLC China|Chinese Limited|Ltd PRC,Q130419100|Q155076,Q17376040,
+Gesellschaft mit beschränkter Haftung,GmbH & Co. KGaA,Q1532883,5,2,2,type of business entity in Germany,,Q19335303,Q19823288,
+Gesellschaft mit beschränkter Haftung,GmbH & Co. OHG,Q20665848,5,2,2,type of business entity in Germany,,Q19335303,Q19340991,
+Delhaize,Delhaize,Q1184173,6,0,1,supermarket chain originating from Belgium,AD Delhaize,Q431289|Q18043413|Q4830453|Q6881511|Q1251750|Q601401,,
+Delhaize,Delhaize Le Lion,Q14903417,6,0,1,former Belgian retail company,Delhaize Group|De Leeuw|Delhaize Le Lion / De Leeuw,Q891723|Q4830453,,Delhaize Group
+Delhaize,Maxi,Q6795490,6,0,1,Serbian supermarket chain,Ahold Delhaize Serbia|Maxi Serbia|Delhaize Serbia,Q4830453|Q431289,,Delhaize Serbia
+Delhaize,Delhaize de Leeuw Wenduine,Q48613737,6,0,1,,,Q43229,,
+Delhaize,Delhaize,Q132111618,6,0,1,,,Q43229,,
+Delhaize,Delhaize,Q13102306,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Delhaize,DELHAIZE FRÈRES & CIE. / AU BON MARCHÉ,Q130849524,6,0,1,painting by Herman Richir,,Q3305213,,
+public limited company,public limited company,Q5225895,6,2,1,"legal term for a publicly traded company with limited liability, jurisdiction in England and Wales in the UK, and Republic of Ireland","PLC (UK, Ireland)|plc|Plc",Q11541386|Q57655433|Q106730301,Q891723|Q33685,Public limited company
+public limited company,public limited company,Q54943230,6,2,1,type of juridical person in Estonia,AS,Q10541491,Q61792038|Q134161,
+public limited company,akciju sabiedrība,Q85740306,6,2,1,type of legal entity in Latvia,public limited company|public limited company (Latvia)|a/s,Q110857329|Q10541491,Q134161,Akciju sabiedrība
+public limited company,akciová společnost,Q3742494,6,2,1,Czech Republic legal structure for a joint-stock company,a.s.|public limited company (Czech Republic),Q67304002|Q10541491,Q134161|Q155076,Akciová společnost
+public limited company,julkinen osakeyhtiö,Q30056758,6,2,1,Finnish equivalent of a public limited company,publikt aktiebolag|Oyj|Abp|public limited company,Q55116439|Q10541491,Q333920|Q891723,
+public limited company,public limited company,Q114794942,6,2,1,type of legal entity in Ireland,PLC,Q106730301|Q10541491,Q5225895,
+public limited company,public limited company,Q18340464,6,2,1,type of business entity in Portugal,S.A.|sociedade anónima,Q10541491,Q166280|Q155076,
+public limited company,public limited company with a board of directors (n.o.s.),Q98897593,6,2,1,legal form of company in France,PLC with a board of directors (n.o.s.),Q56427813|Q10541491,Q98895450,
+public limited company,public limited company,Q6130988,6,2,1,type of publicly traded company in Mexico,sociedad anónima bursátil|S.A.B,Q56575854,Q166280,
+public limited company,Public limited company (Belgium),Q422053,6,2,1,type of business entity in Belgium,N.V.|Naamloze vennootschap|AG|Aktiengesellschaft|PLC|Public limited company (Belgium)|S.A.|SA|Société anonyme,Q10541491|Q28491520,Q166280|Q155076|Q1436139,
+public limited company,Delhaize,Q1184173,6,2,2,supermarket chain originating from Belgium,AD Delhaize,Q431289|Q18043413|Q4830453|Q6881511|Q1251750|Q601401,,
+public limited company,Delhaize Le Lion,Q14903417,6,2,2,former Belgian retail company,Delhaize Group|De Leeuw|Delhaize Le Lion / De Leeuw,Q891723|Q4830453,,Delhaize Group
+public limited company,Maxi,Q6795490,6,2,2,Serbian supermarket chain,Ahold Delhaize Serbia|Maxi Serbia|Delhaize Serbia,Q4830453|Q431289,,Delhaize Serbia
+public limited company,Delhaize de Leeuw Wenduine,Q48613737,6,2,2,,,Q43229,,
+public limited company,Delhaize,Q132111618,6,2,2,,,Q43229,,
+public limited company,Delhaize,Q13102306,6,2,2,Wikimedia disambiguation page,,Q4167410,,
+public limited company,DELHAIZE FRÈRES & CIE. / AU BON MARCHÉ,Q130849524,6,2,2,painting by Herman Richir,,Q3305213,,
+public limited company,limited company,Q33685,6,2,2,"company in which the liability of members or subscribers of the company is limited; affords shareholders of the company with ""limited liability"" if the company is unable to pay liabilities",private limited company|ltd company|limted company|company limited,Q10541491,Q567521,Limited company
+public limited company,osakeyhtiö,Q333920,6,2,2,type of business entity in Finland,aktiebolag|Ab|limited company|limited company (Finland)|aktiebolag (Finland)|Ab (Finland)|Oy,Q55116439|Q10541491,Q134161|Q155076,Osakeyhtiö
+public limited company,Limited Company,Q422069,6,2,2,Legal form in Ireland,Ltd.,Q106730301|Q10541491,Q134161|Q155076|Q33685,
+public limited company,business corporation,Q422074,6,2,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+public limited company,private company limited by shares,Q6832945,6,2,2,"private company limited by private untraded shares, legal formation in England and Wales, UK, overseen by Companies House",Ltd company|private limited company (UK)|Ltd,Q57655433|Q10541491,Q17376040|Q134161|Q155076|Q7897766,Private company limited by shares
+public limited company,Company Limited (Thailand),Q130279147,6,2,2,legal form in Thailand,Limited company,Q10541491,Q33685,
+public limited company,limited company,Q118581545,6,2,2,Icelandic legal entity,hlutafélag,Q1269299|Q10541491,Q134161,
+public limited company,Limited Company Act,Q11516728,6,2,2,Japanese statute,,Q820655,,
+public limited company,limited company (South Korea),Q130278806,6,2,2,legal form in South Korea,,Q10541491,Q17376040,
+public limited company,Limited Company,Q54860206,6,2,2,Dutch organization,,Q43229,,
+Dirk,Dirk,Q1605531,7,0,1,male given name,Dirk (given name)|Dirk (first name),Q12308941,,Dirk (name)
+Dirk,Dirk,Q37163602,7,0,1,family name,,Q101352,,
+Dirk,Dirk Krücker,Q114358587,7,0,1,researcher in particle physics,,Q5,,
+Dirk,Dirkje Postma,Q13135289,7,0,1,Dutch university teacher,Dirkje Sjoukje Postma|D. S. Postma|D S Postma|D. Postma|D Postma|Postma|Postma D|Postma D.|Postma D. S.|Postma DS,Q5,,Dirkje Postma
+Dirk,Dirk Ahrens,Q1227743,7,0,1,German biologist,,Q5,,Dirk Ahrens
+Dirk,Dirk Hoffmann,Q113976538,7,0,1,particle physicist in France,D. Hoffmann,Q5,,
+Dirk,Dirk Duschinger,Q113377081,7,0,1,German particle physicist,,Q5,,
+Dirk,Dirk Reuter,Q109774810,7,0,1,physicist,D. Reuter|D Reuter|Reuter D|Reuter D.,Q5,,
+Dirk,Dirk Timmerman,Q57076380,7,0,1,researcher,,Q5,,
+Dirk,Dirk Dammann,Q114644243,7,0,1,researcher in particle physics,,Q5,,
+Dirk,Dirk van Dijk,Q124417165,7,0,2,politician,,Q5,,
+Dirk,Dirk van Dijk,Q3164333,7,0,2,Dutch minister (1894-1976),,Q5,,
+Dirk,Dirk van Dijken,Q110031074,7,0,2,Dutch Righteous Among the Nations,,Q5,,
+Dirk,Dirk van Dijk,Q95852971,7,0,2,actor,,Q5,,
+Dirk,Dirk Jan Struik,Q932815,7,0,2,Dutch mathematician (*1894 – †2000),D.J. Struik|Dirk J. Struik,Q5,,Dirk Jan Struik
+Dirk,Dirk Jan de Geer,Q693053,7,0,2,Dutch politician (1870-1960),D. J. de Geer,Q5,,Dirk Jan de Geer
+Dirk,Dirk-Jan van Manen,Q104109030,7,0,2,researcher,,Q5,,
+Dirk,Dirk-Jan,Q108471898,7,0,2,male given name,,Q12308941,,
+Dirk,Dirk Jan van der Ven,Q13573540,7,0,2,Dutch writer (1891-1973),D.J. van der Ven,Q5,,
+Dirk,Dirk Jan Bukman,Q106873608,7,0,2,physicist; managing editor of Physical Review E,,Q5,,
+Dirk,Dirk Janszoon Sweelinck,Q2528086,7,0,2,,Dirck Janszoon Sweelinck,Q5,,
+Dirk,Dirk-Jan van Gendt,Q1227722,7,0,2,Dutch volleyball player,,Q5,,Dirk-Jan van Gendt
+Dirk,Dirk Janik,Q114429514,7,0,2,researcher,,Q5,,
+Dirk,Dirk Jan Gerritsen,Q110136549,7,0,2,,,Q5,,
+Dirk,Dirk-Jan van Dijk,Q46769574,7,0,2,photographer,,Q5,,
+private limited company,private company limited by shares,Q6832945,7,2,1,"private company limited by private untraded shares, legal formation in England and Wales, UK, overseen by Companies House",Ltd company|private limited company (UK)|Ltd,Q57655433|Q10541491,Q17376040|Q134161|Q155076|Q7897766,Private company limited by shares
+private limited company,limited company,Q33685,7,2,1,"company in which the liability of members or subscribers of the company is limited; affords shareholders of the company with ""limited liability"" if the company is unable to pay liabilities",private limited company|ltd company|limted company|company limited,Q10541491,Q567521,Limited company
+private limited company,private limited company,Q17376040,7,2,1,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+private limited company,private limited company,Q16917171,7,2,1,type of juridical person in Estonia,OÜ|osaühing,Q10541491,Q17376040|Q61792038,
+private limited company,sociedad limitada,Q15648901,7,2,1,type of company used in Spain,sociedad de responsabilidad limitada|private limited company|SL|S.L.,Q51885897,Q17376040|Q155076|Q134161,Sociedad de responsabilidad limitada
+private limited company,private limited,Q129256520,7,2,1,legal form in the United Kingdom,private limited company,Q10541491,Q17376040,
+private limited company,d.o.o.,Q13100008,7,2,1,limited company (type of business entity) in countries with south Slavic languages,društvo sa ograničenom odgovornošću|private limited company|Društvo sa ograničenom odgovornošću,Q2135465|Q10541491,Q17376040,Društvo s ograničenom odgovornošću
+private limited company,private limited company,Q107884298,7,2,1,Belgian type of business entity since 1 May 2019,SRL|bv,Q10541491,Q17376040|Q155076,
+private limited company,private limited company,Q115399164,7,2,1,legal form in Portugal,plc (PT)|Lda.|Limitada,Q10541491,Q17376040,
+private limited company,private company limited by guarantee,Q6516200,7,2,1,type of corporation,Private Limited Company by guarantee,Q1269299|Q57655433,Q167037|Q17376040,Company limited by guarantee
+private limited company,sendirian berhad,Q63439508,7,2,2,legal form for company in Malaysia,Sdn Bhd|Sdn. Bhd.|private limited,Q63439494,Q155076,
+private limited company,private limited liability company,Q19343649,7,2,2,a legal entity form used in Lithuania,UAB,Q130448283,Q134161|Q17376040|Q155076,
+private limited company,private limited liability company,Q1555574,7,2,2,private limited liability company in Belgium prior to 1 May 2019,SPRL|société privée à responsabilité limitée|BVBA|besloten vennootschap met beperkte aansprakelijkheid/société privée à responsabilité limitée,Q28491520|Q10541491,Q17376040|Q155076,
+private limited company,osakeyhtiö,Q333920,7,2,2,type of business entity in Finland,aktiebolag|Ab|limited company|limited company (Finland)|aktiebolag (Finland)|Ab (Finland)|Oy,Q55116439|Q10541491,Q134161|Q155076,Osakeyhtiö
+private limited company,Limited Company,Q422069,7,2,2,Legal form in Ireland,Ltd.,Q106730301|Q10541491,Q134161|Q155076|Q33685,
+private limited company,business corporation,Q422074,7,2,2,type of business entity in Canada incorporated under federal law,corp.|corporation|Inc.|Limited|Ltd.|Canadian Corporation|Incorporated|limited company (Canada),Q56526016,Q167037|Q134161,
+private limited company,Company Limited (Thailand),Q130279147,7,2,2,legal form in Thailand,Limited company,Q10541491,Q33685,
+private limited company,limited company,Q118581545,7,2,2,Icelandic legal entity,hlutafélag,Q1269299|Q10541491,Q134161,
+private limited company,Limited Company Act,Q11516728,7,2,2,Japanese statute,,Q820655,,
+private limited company,limited company (South Korea),Q130278806,7,2,2,legal form in South Korea,,Q10541491,Q17376040,
+private limited company,Limited Company,Q54860206,7,2,2,Dutch organization,,Q43229,,
+private limited company,privately held company,Q1589009,7,2,2,business with a small number of owners,private corporation|close corporation|unquoted company|unlisted company|private company|closely held corporation,Q1269299,Q56876011|Q5621421,Privately held company
+private limited company,private corporation,Q56876011,7,2,2,,,,Q6881511,
+private limited company,private corporation incorporated by special act,Q133866644,7,2,2,Canadian legal form,,Q56526016,Q167037|Q134161,
+private limited company,Private Corporations Progress alongside SOEs: The Role of SOEs in China’s OFDI,Q118240851,7,2,2,,,Q13442814,,
+Safeway,Safeway,Q1508234,8,0,1,American supermarket chain,Safeway Inc.,Q18043413|Q4830453|Q6881511|Q891723,,Safeway
+Safeway,Safeway,Q17111901,8,0,1,Canadian supermarket chain,Canada Safeway,Q18043413,,Safeway (Canada)
+Safeway,Safeway,Q7398681,8,0,1,former supermarket chain in the Channel Islands,,Q18043413,,Safeway (Channel Islands)
+Safeway,Safeway,Q7398680,8,0,1,former Australian supermarket chain,,Q18043413,,Safeway (Australia)
+Safeway,Safeway,Q7398682,8,0,1,former chain of supermarkets and convenience stores in the United Kingdom,Safeway plc,Q6881511,,Safeway (UK)
+Safeway,Safeway,Q55217622,8,0,1,,,Q215380,,
+Safeway,Safeways Here We Come,Q7398689,8,0,1,2011 EP by Chixdiggit,,Q169930,,Safeways Here We Come
+Safeway,Safeway Stores,Q7398687,8,0,1,former Northern Ireland-based joint venture between the UK Safeway plc and Fitzwilton Group,Safeway Stores (Ireland),Q4830453,,Safeway Stores (Ireland)
+Safeway,Bunge Championship,Q7398685,8,0,1,manitoba men's provincial curling championship,Safeway Championship,,,Bunge Championship
+Safeway,"Safeway Stores Incorporated v. Oklahoma Retail Grocers Association, Inc.",Q19020948,8,0,1,United States Supreme Court case,,Q19692072,,
+Safeway,Safeway Stores,Q117407332,8,0,2,business,,Q4830453|Q206361,,
+Safeway,Safeway Stores Office and Warehouse Building,Q7398688,8,0,2,,,Q655686,,Safeway Stores Office and Warehouse Building
+Safeway,Safeway Stores plc v Burrell,Q20713926,8,0,2,UK legal case,,Q2334719,,Safeway Stores plc v Burrell
+Safeway,Woolworths Supermarkets,Q3249145,8,0,2,Australian supermarket chain,Woolies|Woolworths,Q18043413,,Woolworths (Australia)
+American Falls,American Falls,Q385233,8,1,1,"city in and county seat of Power County, Idaho, United States","American Falls, Idaho|American Falls, ID",Q1093829|Q62049,,"American Falls, Idaho"
+American Falls,American Falls,Q1320475,8,1,1,"waterfall of Niagara Falls in Niagara Falls, New York, United States",,Q34038,,American Falls
+American Falls,American Falls Reservoir,Q34907371,8,1,1,"reservoir in Power County, Idaho, United States",,Q131681,,
+American Falls,American Falls,Q131409399,8,1,1,"former waterfall on the Snake River in Power County Idaho, United States",,Q34038|Q96088545,,
+American Falls,American Falls Dam,Q464188,8,1,1,"architectural structure in Power County, Idaho, United States",,Q3497167|Q15911738,,American Falls Dam
+American Falls,"American Falls, Niagara",Q46630477,8,1,1,painting by William Morris Hunt,,Q3305213,,
+American Falls,"American Falls from Above, American Side",Q2842924,8,1,1,1896 film directed by James H. White,,Q11424,,
+American Falls,"American Falls, from Incline R.R.",Q2842922,8,1,1,1896 film directed by James H. White,,Q11424,,
+American Falls,"American Falls, Niagara",Q19925138,8,1,1,drawing by Jasper Francis Cropsey,,Q93184,,
+American Falls,American Falls District,Q69472744,8,1,1,"public library system in Idaho, USA",,Q26271642,,
+joint-stock company,joint-stock company,Q134161,8,2,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+joint-stock company,società per azioni,Q3742388,8,2,1,Italian company owned by shareholders,S.p.A.|joint-stock company|SpA,Q15813157,Q134161,Società per azioni
+joint-stock company,joint-stock company,Q18226900,8,2,1,type of legal entity in the United States and the United Kingdom,,Q1269299,Q134161,
+joint-stock company,joint-stock company,Q110763931,8,2,1,type of legal entity in Russia,aktsionernyye obshchestva|AO,Q2321921,Q134161,
+joint-stock company,Tupolev,Q194009,8,2,1,Russian aerospace and defence company,"OKB-156|Joint Stock Company Tupolev|Tupolev Design Bureau|JSC Tupolev|Otkrytoe akt︠s︡ionernoe obshchestvo ""Tupolev""|OKB A.N. Tupoleva",Q936518,,Tupolev
+joint-stock company,Kalashnikov Concern,Q7427495,8,2,1,weapons and motor vehicle manufacturer,Izhevsk Machinebuilding Plant|Izhmash|Joint stock company «Concern «Kalashnikov»|JSC Kalashnikov Concern|JSC 766 UPTK,Q4830453|Q6881511|Q891723,,Kalashnikov Concern
+joint-stock company,Research and Design Institute of Well Logging,Q48950696,8,2,1,"facility in Nizhny Novgorod, Russia",Joint Stock Company Scientific Production Enterprise Research and Design Institute of Well Logging|VNIIGIS,Q13226383,,
+joint-stock company,joint stock company,Q116848174,8,2,1,type of legal entity in Croatia,d.d.,Q61050448|Q10541491,Q134161,
+joint-stock company,Belavia,Q815314,8,2,1,National airline of Belarus,"Belavia - Belarusian Airlines|Joint Stock Company ""Belavia Belarusian Airlines""|B2|BRU",Q46970,,Belavia
+joint-stock company,Atomenergomash,Q2869564,8,2,1,Russian nuclear engineering company,"Joint-Stock Company ""Atomenergomash Nuclear and Power Engineering""",Q4830453|Q6881511,,Atomenergomash
+joint-stock company,Safeway,Q1508234,8,2,2,American supermarket chain,Safeway Inc.,Q18043413|Q4830453|Q6881511|Q891723,,Safeway
+joint-stock company,Safeway,Q17111901,8,2,2,Canadian supermarket chain,Canada Safeway,Q18043413,,Safeway (Canada)
+joint-stock company,Safeway,Q7398681,8,2,2,former supermarket chain in the Channel Islands,,Q18043413,,Safeway (Channel Islands)
+joint-stock company,Safeway,Q7398680,8,2,2,former Australian supermarket chain,,Q18043413,,Safeway (Australia)
+joint-stock company,Safeway,Q7398682,8,2,2,former chain of supermarkets and convenience stores in the United Kingdom,Safeway plc,Q6881511,,Safeway (UK)
+joint-stock company,Safeway,Q55217622,8,2,2,,,Q215380,,
+joint-stock company,Safeways Here We Come,Q7398689,8,2,2,2011 EP by Chixdiggit,,Q169930,,Safeways Here We Come
+joint-stock company,Safeway Stores,Q7398687,8,2,2,former Northern Ireland-based joint venture between the UK Safeway plc and Fitzwilton Group,Safeway Stores (Ireland),Q4830453,,Safeway Stores (Ireland)
+joint-stock company,Bunge Championship,Q7398685,8,2,2,manitoba men's provincial curling championship,Safeway Championship,,,Bunge Championship
+joint-stock company,"Safeway Stores Incorporated v. Oklahoma Retail Grocers Association, Inc.",Q19020948,8,2,2,United States Supreme Court case,,Q19692072,,
+joint-stock company,American Falls,Q385233,8,2,2,"city in and county seat of Power County, Idaho, United States","American Falls, Idaho|American Falls, ID",Q1093829|Q62049,,"American Falls, Idaho"
+joint-stock company,American Falls,Q1320475,8,2,2,"waterfall of Niagara Falls in Niagara Falls, New York, United States",,Q34038,,American Falls
+joint-stock company,American Falls Reservoir,Q34907371,8,2,2,"reservoir in Power County, Idaho, United States",,Q131681,,
+joint-stock company,American Falls,Q131409399,8,2,2,"former waterfall on the Snake River in Power County Idaho, United States",,Q34038|Q96088545,,
+joint-stock company,American Falls Dam,Q464188,8,2,2,"architectural structure in Power County, Idaho, United States",,Q3497167|Q15911738,,American Falls Dam
+joint-stock company,"American Falls, Niagara",Q46630477,8,2,2,painting by William Morris Hunt,,Q3305213,,
+joint-stock company,"American Falls from Above, American Side",Q2842924,8,2,2,1896 film directed by James H. White,,Q11424,,
+joint-stock company,"American Falls, from Incline R.R.",Q2842922,8,2,2,1896 film directed by James H. White,,Q11424,,
+joint-stock company,"American Falls, Niagara",Q19925138,8,2,2,drawing by Jasper Francis Cropsey,,Q93184,,
+joint-stock company,American Falls District,Q69472744,8,2,2,"public library system in Idaho, USA",,Q26271642,,
+Kroger,Kroger,Q153417,9,0,1,American multinational retailing company,The Kroger Co.|Kroger Co.|Kroger Grocery and Baking,Q6881511|Q18043413|Q891723|Q64027599|Q4830453,,Kroger
+Kroger,Kroger,Q36936375,9,0,1,family name,,Q101352,,Kroger (surname)
+Kroger,Kröger,Q27863267,9,0,1,family name,,Q101352|Q829026,,
+Kroger,Krogerup Højskole,Q6438758,9,0,1,"manor house in Fredensborg Municipality, Denmark",,Q879050|Q170087,,Krogerup
+Kroger,Kroger,Q58242017,9,0,1,"Kroger supermarket branch east of Chesapeake, Virginia",,Q180846,,
+Kroger,Kroger Babb,Q2192435,9,0,1,American film and TV producer (1906–1980),,Q5,,Kroger Babb
+Kroger,Kroger Wireless,Q16846423,9,0,1,American virtual network operator (formerly i-wireless),I-wireless|Kroger Wireless,Q4830453|Q1058891,,Kroger Wireless
+Kroger,Lürssen-Kröger-Werft,Q1790613,9,0,1,German shipbuilding company,Krögerwerft|Kröger Werft|Kroeger Werft|Luerssen Kroeger Werft|Lurssen Kroger Werft,Q4830453,,
+Kroger,Kroger Field,Q517268,9,0,1,stadium at the University of Kentucky,Commonwealth Stadium|Kroger Field at C.M. Newton Grounds,Q483110,,Kroger Field
+Kroger,Kroger,Q57910859,9,0,1,"Kroger supermarket branch west of Poquoson, Virginia",,Q132510,,
+joint-stock company,joint-stock company,Q134161,9,2,1,business entity which is owned by shareholders,stock company|stock corporation|joint-stock corporation,Q1269299,Q33685,Joint-stock company
+joint-stock company,società per azioni,Q3742388,9,2,1,Italian company owned by shareholders,S.p.A.|joint-stock company|SpA,Q15813157,Q134161,Società per azioni
+joint-stock company,joint-stock company,Q18226900,9,2,1,type of legal entity in the United States and the United Kingdom,,Q1269299,Q134161,
+joint-stock company,joint-stock company,Q110763931,9,2,1,type of legal entity in Russia,aktsionernyye obshchestva|AO,Q2321921,Q134161,
+joint-stock company,Tupolev,Q194009,9,2,1,Russian aerospace and defence company,"OKB-156|Joint Stock Company Tupolev|Tupolev Design Bureau|JSC Tupolev|Otkrytoe akt︠s︡ionernoe obshchestvo ""Tupolev""|OKB A.N. Tupoleva",Q936518,,Tupolev
+joint-stock company,Kalashnikov Concern,Q7427495,9,2,1,weapons and motor vehicle manufacturer,Izhevsk Machinebuilding Plant|Izhmash|Joint stock company «Concern «Kalashnikov»|JSC Kalashnikov Concern|JSC 766 UPTK,Q4830453|Q6881511|Q891723,,Kalashnikov Concern
+joint-stock company,Research and Design Institute of Well Logging,Q48950696,9,2,1,"facility in Nizhny Novgorod, Russia",Joint Stock Company Scientific Production Enterprise Research and Design Institute of Well Logging|VNIIGIS,Q13226383,,
+joint-stock company,joint stock company,Q116848174,9,2,1,type of legal entity in Croatia,d.d.,Q61050448|Q10541491,Q134161,
+joint-stock company,Belavia,Q815314,9,2,1,National airline of Belarus,"Belavia - Belarusian Airlines|Joint Stock Company ""Belavia Belarusian Airlines""|B2|BRU",Q46970,,Belavia
+joint-stock company,Atomenergomash,Q2869564,9,2,1,Russian nuclear engineering company,"Joint-Stock Company ""Atomenergomash Nuclear and Power Engineering""",Q4830453|Q6881511,,Atomenergomash
+joint-stock company,Kroger,Q153417,9,2,2,American multinational retailing company,The Kroger Co.|Kroger Co.|Kroger Grocery and Baking,Q6881511|Q18043413|Q891723|Q64027599|Q4830453,,Kroger
+joint-stock company,Kroger,Q36936375,9,2,2,family name,,Q101352,,Kroger (surname)
+joint-stock company,Kröger,Q27863267,9,2,2,family name,,Q101352|Q829026,,
+joint-stock company,Krogerup Højskole,Q6438758,9,2,2,"manor house in Fredensborg Municipality, Denmark",,Q879050|Q170087,,Krogerup
+joint-stock company,Kroger,Q58242017,9,2,2,"Kroger supermarket branch east of Chesapeake, Virginia",,Q180846,,
+joint-stock company,Kroger Babb,Q2192435,9,2,2,American film and TV producer (1906–1980),,Q5,,Kroger Babb
+joint-stock company,Kroger Wireless,Q16846423,9,2,2,American virtual network operator (formerly i-wireless),I-wireless|Kroger Wireless,Q4830453|Q1058891,,Kroger Wireless
+joint-stock company,Lürssen-Kröger-Werft,Q1790613,9,2,2,German shipbuilding company,Krögerwerft|Kröger Werft|Kroeger Werft|Luerssen Kroeger Werft|Lurssen Kroger Werft,Q4830453,,
+joint-stock company,Kroger Field,Q517268,9,2,2,stadium at the University of Kentucky,Commonwealth Stadium|Kroger Field at C.M. Newton Grounds,Q483110,,Kroger Field
+joint-stock company,Kroger,Q57910859,9,2,2,"Kroger supermarket branch west of Poquoson, Virginia",,Q132510,,
+Albert Heijn,Albert Heijn,Q1653985,10,0,1,Dutch supermarket chain founded in 1887,AH|Albert Heijn B.V.,Q4830453|Q6881511|Q18043413,,Albert Heijn
+Albert Heijn,Albert Heijn,Q2273815,10,0,1,"Dutch businessman, founder of supermarket chain of the same name (1865-1945)",,Q5,,Albert Heijn (businessman)
+Albert Heijn,Albert Heijn,Q3081413,10,0,1,Dutch supermarket tycoon (1927–2011),Albert Heijn Jr.,Q5,,Albert Heijn Jr.
+Albert Heijn,Albert Heijn XL,Q78163765,10,0,1,supermarket brand of Ahold Delhaize,AH XL,Q431289|Q180846,,
+Albert Heijn,AH to go,Q77971185,10,0,1,supermarket chain of Ahold Delhaize,Albert Heijn to go,Q76213979|Q167270,,
+Albert Heijn,Albert Heijn,Q136838017,10,0,1,food brand,AH,Q16323605,,
+Albert Heijn,Albert Heijnneman,Q2915642,10,0,1,Dutch sportsperson and athletics competitor (1896-1944),,Q5,,Albert Heijnneman
+Albert Heijn,Albert Heijn bonus card,Q2416983,10,0,1,card to get discount on certain items at supermarket AH,,Q1426546,,
+Albert Heijn,Albert Heijn koffie,Q2330448,10,0,1,,,Q17524420,Q8486,
+Albert Heijn,Albert Heijn Bio,Q138412979,10,0,1,Dutch private food brand/label,AH Bio,Q722080|Q16323605,,
+Zaandam,Zaandam,Q211260,10,1,1,"city in Zaanstad, Netherlands",Saardam,Q13539802|Q1852859|Q2039348,,Zaandam
+Zaandam,Zaandam,Q134572641,10,1,1,electoral district in the Netherlands (1848-1918),,Q130377399,,
+Zaandam,Zaandam,Q17496194,10,1,1,painting by Claude Monet,,Q3305213,,
+Zaandam,Zaandam,Q136655,10,1,1,motor ship,,Q402092,,MV Zaandam
+Zaandam,Zaanstad,Q9978,10,1,1,municipality in the Netherlands,,Q2039348,,Zaanstad
+Zaandam,Sardam,Q7423659,10,1,1,small merchant vessel designed primarily for inter-island trade in East Indies,Zaandam|Saerdam|Saardam,Q170483|Q848944,,Sardam (1628)
+Zaandam,Zaandam,Q65022067,10,1,1,print in the National Gallery of Art (NGA 11146),,Q11060274,,
+Zaandam,Zaandam railway station,Q801653,10,1,1,railway station in the Netherlands,,Q55488,,Zaandam railway station
+Zaandam,Zaandam–Enkhuizen railway,Q803530,10,1,1,railway line in Netherlands,,Q728937,,Zaandam–Enkhuizen railway
+Zaandam,Zaandam interchange,Q7471837,10,1,1,interchange in the Netherlands,,Q2376564|Q2384276,,
+Zaandam,Albert Heijn,Q1653985,10,1,2,Dutch supermarket chain founded in 1887,AH|Albert Heijn B.V.,Q4830453|Q6881511|Q18043413,,Albert Heijn
+Zaandam,Albert Heijn,Q2273815,10,1,2,"Dutch businessman, founder of supermarket chain of the same name (1865-1945)",,Q5,,Albert Heijn (businessman)
+Zaandam,Albert Heijn,Q3081413,10,1,2,Dutch supermarket tycoon (1927–2011),Albert Heijn Jr.,Q5,,Albert Heijn Jr.
+Zaandam,Albert Heijn XL,Q78163765,10,1,2,supermarket brand of Ahold Delhaize,AH XL,Q431289|Q180846,,
+Zaandam,AH to go,Q77971185,10,1,2,supermarket chain of Ahold Delhaize,Albert Heijn to go,Q76213979|Q167270,,
+Zaandam,Albert Heijn,Q136838017,10,1,2,food brand,AH,Q16323605,,
+Zaandam,Albert Heijnneman,Q2915642,10,1,2,Dutch sportsperson and athletics competitor (1896-1944),,Q5,,Albert Heijnneman
+Zaandam,Albert Heijn bonus card,Q2416983,10,1,2,card to get discount on certain items at supermarket AH,,Q1426546,,
+Zaandam,Albert Heijn koffie,Q2330448,10,1,2,,,Q17524420,Q8486,
+Zaandam,Albert Heijn Bio,Q138412979,10,1,2,Dutch private food brand/label,AH Bio,Q722080|Q16323605,,
+Zaandam,besloten vennootschap,Q17375963,10,1,2,private limited liability company in the Netherlands,besloten vennootschap met beperkte aansprakelijkheid|B.V.|BV|private partnership,Q56871091|Q10541491,Q17376040|Q155076,Besloten vennootschap
+Zaandam,private limited liability company,Q1555574,10,1,2,private limited liability company in Belgium prior to 1 May 2019,SPRL|société privée à responsabilité limitée|BVBA|besloten vennootschap met beperkte aansprakelijkheid/société privée à responsabilité limitée,Q28491520|Q10541491,Q17376040|Q155076,
+Zaandam,Besloten vennootschap,Q130118538,10,1,2,"legal form in Bonaire, Sint Eustatius and Saba",,Q10541491,Q17376040,
+Zaandam,Besloten vennootschap,Q129514324,10,1,2,legal form in Aruba,,Q10541491,Q33685,
+Zaandam,Besloten Vennootschap,Q130233727,10,1,2,legal form in Curaçao,,Q10541491,Q17376040,
+Zaandam,besloten vennootschap,Q130315827,10,1,2,legal form in Sint Maarten,,Q10541491,Q6881511,
+Zaandam,Besloten vennootschap,Q129515614,10,1,2,legal form in Barbados,,Q10541491,Q33685,
+Zaandam,private limited company,Q107884298,10,1,2,Belgian type of business entity since 1 May 2019,SRL|bv,Q10541491,Q17376040|Q155076,
+Zaandam,Besloten vennootschap naar Nederlands recht,Q130118539,10,1,2,"legal form in Bonaire, Sint Eustatius and Saba",,Q10541491,Q17376040,
+Zaandam,private limited company,Q17376040,10,1,2,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+besloten vennootschap,besloten vennootschap,Q17375963,10,2,1,private limited liability company in the Netherlands,besloten vennootschap met beperkte aansprakelijkheid|B.V.|BV|private partnership,Q56871091|Q10541491,Q17376040|Q155076,Besloten vennootschap
+besloten vennootschap,private limited liability company,Q1555574,10,2,1,private limited liability company in Belgium prior to 1 May 2019,SPRL|société privée à responsabilité limitée|BVBA|besloten vennootschap met beperkte aansprakelijkheid/société privée à responsabilité limitée,Q28491520|Q10541491,Q17376040|Q155076,
+besloten vennootschap,Besloten vennootschap,Q130118538,10,2,1,"legal form in Bonaire, Sint Eustatius and Saba",,Q10541491,Q17376040,
+besloten vennootschap,Besloten vennootschap,Q129514324,10,2,1,legal form in Aruba,,Q10541491,Q33685,
+besloten vennootschap,Besloten Vennootschap,Q130233727,10,2,1,legal form in Curaçao,,Q10541491,Q17376040,
+besloten vennootschap,besloten vennootschap,Q130315827,10,2,1,legal form in Sint Maarten,,Q10541491,Q6881511,
+besloten vennootschap,Besloten vennootschap,Q129515614,10,2,1,legal form in Barbados,,Q10541491,Q33685,
+besloten vennootschap,private limited company,Q107884298,10,2,1,Belgian type of business entity since 1 May 2019,SRL|bv,Q10541491,Q17376040|Q155076,
+besloten vennootschap,Besloten vennootschap naar Nederlands recht,Q130118539,10,2,1,"legal form in Bonaire, Sint Eustatius and Saba",,Q10541491,Q17376040,
+besloten vennootschap,private limited company,Q17376040,10,2,1,type of company used in many jurisdictions; use specific QIDs like Q149789 for the US or others for your country,private limited liability company|liability company partnership|limited liability company|Private limited company,Q2135465|Q10541491,Q33685|Q1589009,Private limited company
+besloten vennootschap,Albert Heijn,Q1653985,10,2,2,Dutch supermarket chain founded in 1887,AH|Albert Heijn B.V.,Q4830453|Q6881511|Q18043413,,Albert Heijn
+besloten vennootschap,Albert Heijn,Q2273815,10,2,2,"Dutch businessman, founder of supermarket chain of the same name (1865-1945)",,Q5,,Albert Heijn (businessman)
+besloten vennootschap,Albert Heijn,Q3081413,10,2,2,Dutch supermarket tycoon (1927–2011),Albert Heijn Jr.,Q5,,Albert Heijn Jr.
+besloten vennootschap,Albert Heijn XL,Q78163765,10,2,2,supermarket brand of Ahold Delhaize,AH XL,Q431289|Q180846,,
+besloten vennootschap,AH to go,Q77971185,10,2,2,supermarket chain of Ahold Delhaize,Albert Heijn to go,Q76213979|Q167270,,
+besloten vennootschap,Albert Heijn,Q136838017,10,2,2,food brand,AH,Q16323605,,
+besloten vennootschap,Albert Heijnneman,Q2915642,10,2,2,Dutch sportsperson and athletics competitor (1896-1944),,Q5,,Albert Heijnneman
+besloten vennootschap,Albert Heijn bonus card,Q2416983,10,2,2,card to get discount on certain items at supermarket AH,,Q1426546,,
+besloten vennootschap,Albert Heijn koffie,Q2330448,10,2,2,,,Q17524420,Q8486,
+besloten vennootschap,Albert Heijn Bio,Q138412979,10,2,2,Dutch private food brand/label,AH Bio,Q722080|Q16323605,,
+besloten vennootschap,Zaandam,Q211260,10,2,2,"city in Zaanstad, Netherlands",Saardam,Q13539802|Q1852859|Q2039348,,Zaandam
+besloten vennootschap,Zaandam,Q134572641,10,2,2,electoral district in the Netherlands (1848-1918),,Q130377399,,
+besloten vennootschap,Zaandam,Q17496194,10,2,2,painting by Claude Monet,,Q3305213,,
+besloten vennootschap,Zaandam,Q136655,10,2,2,motor ship,,Q402092,,MV Zaandam
+besloten vennootschap,Zaanstad,Q9978,10,2,2,municipality in the Netherlands,,Q2039348,,Zaanstad
+besloten vennootschap,Sardam,Q7423659,10,2,2,small merchant vessel designed primarily for inter-island trade in East Indies,Zaandam|Saerdam|Saardam,Q170483|Q848944,,Sardam (1628)
+besloten vennootschap,Zaandam,Q65022067,10,2,2,print in the National Gallery of Art (NGA 11146),,Q11060274,,
+besloten vennootschap,Zaandam railway station,Q801653,10,2,2,railway station in the Netherlands,,Q55488,,Zaandam railway station
+besloten vennootschap,Zaandam–Enkhuizen railway,Q803530,10,2,2,railway line in Netherlands,,Q728937,,Zaandam–Enkhuizen railway
+besloten vennootschap,Zaandam interchange,Q7471837,10,2,2,interchange in the Netherlands,,Q2376564|Q2384276,,
+Asda,Asda,Q297410,11,0,1,British supermarket chain,Asda Walmart|George at Asda|ASDA Group plc|ASDA Group|ASDA Wal-Mart Supercentre|ASDA Smart Price|Smart Price|ASDA|ASDA Superstore|George (clothing)|ASDA Living|Asda Stores Limited|Asda Living|Asda Stores Ltd.,Q18043413|Q726870|Q64027599,,Asda
+Asda,Asdang Dejavudh,Q13022267,11,0,1,siamese Prince (1889-1924),,Q5,,Asdang Dejavudh
+Asda,Asdahl,Q4804095,11,0,1,family name,,Q101352,,Asdahl
+Asda,Aspartate aminotransferase CBO1166,Q23528434,11,0,1,microbial protein found in Clostridium botulinum A str. ATCC 3502,asdA,Q8054,Q8054,
+Asda,Asda Story,Q485119,11,0,1,2008 video game,,Q7889,,Asda Story
+Asda,Asda 2,Q16273580,11,0,1,2008 video game,,Q7889,,
+Asda,aspartate aminotransferase CBO1166,Q23203149,11,0,1,microbial gene found in Clostridium botulinum A str. ATCC 3502,asdA|CBO1166|aspartate aminotransferase|aspD,Q7187,Q7187|Q20747295,
+Asda,Aspartate aminotransferase BDGL_001724,Q23593442,11,0,1,microbial protein found in Acinetobacter pittii PHEA-2,BDGL_001724|asdA,Q8054,Q8054,
+Asda,aspartate aminotransferase CLC_1209,Q23407479,11,0,1,microbial gene found in Clostridium botulinum A str. Hall,asdA|CLC_1209|aspartate aminotransferase,Q7187,Q7187|Q20747295,
+Asda,aspartate aminotransferase BDGL_001724,Q23412199,11,0,1,microbial gene found in Acinetobacter pittii PHEA-2,asdA|BDGL_001724|aspartate aminotransferase,Q7187,Q7187|Q20747295,
+Leeds,Leeds,Q39121,11,1,1,"city in West Yorkshire, England, United Kingdom",,Q515|Q7897276|Q1549591|Q1187811,,Leeds
+Leeds,Leeds,Q2460124,11,1,1,"village and civil parish in Kent, England","Leeds, Kent",Q532|Q1115575,,"Leeds, Kent"
+Leeds,Leeds,Q24114244,11,1,1,family name,,Q101352,,Leeds (surname)
+Leeds,Leeds,Q774015,11,1,1,"metropolitan borough in West Yorkshire, England",City of Leeds|City and Borough of Leeds,Q21503295|Q1002812,,City of Leeds
+Leeds,Leeds United F.C.,Q1128631,11,1,1,"association football club in Leeds, England",Leeds United Football Club|Leeds United FC|Leeds United|Leeds United Association Football Club|Leeds United A.F.C.|Leeds United AFC|Leeds|United|The Peacocks|LUFC|L.U.F.C.|Leeds Utd|LeedsUnited,Q476028,,Leeds United F.C.
+Leeds,Leeds,Q113128068,11,1,1,given name,,Q202444,,
+Leeds,University of Leeds,Q503424,11,1,1,"university in Leeds, United Kingdom",,Q62078547|Q5341295,,University of Leeds
+Leeds,Leeds Rhinos,Q1202117,11,1,1,English professional rugby league football club,Leeds Rhinos R.L.F.C.|Leeds Rhinos Rugby League Football Club,Q15221215,,Leeds Rhinos
+Leeds,Leeds,Q28528851,11,1,1,"human settlement in Saint-Pierre-de-Broughton, Quebec, Canada",Leeds Township,Q23019040,,
+Leeds,Leeds,Q115225747,11,1,1,"dispersed rural community in Leeds and the Thousand Islands, Ontario, Canada","Leeds, Ontario",Q56885635,,
+Leeds,Leeds United Football Club Limited,Q10556342,11,1,2,,,Q33685,,Leeds United Football Club Limited
+Leeds,Leeds United F.C. in European football,Q3519085,11,1,2,Wikimedia list article,,Q13406463,,Leeds United F.C. in European football
+Leeds,Leeds United F.C. Under-21s and Academy,Q6516136,11,1,2,Leeds United reserve squad,Leeds United A.F.C. Reserves and Youth Team,Q476028|Q134468886,,Leeds United F.C. Under-21s and Academy
+Leeds,2025–26 Leeds United F.C. season,Q134396199,11,1,2,Leeds United 2025–26 football season,,Q26887310,,2025–26 Leeds United F.C. season
+Leeds,2026–27 Leeds United F.C. season,Q140157455,11,1,2,Leeds United 2026–27 football season,,Q26887310,,2026–27 Leeds United F.C. season
+Leeds,Leeds Beckett University,Q2392351,11,1,2,"university in Leeds, England, United Kingdom",Leeds Polytechnic|Leeds Metropolitan University,Q3918|Q5341295,,Leeds Beckett University
+Leeds,Leeds Beckett University Carnegie Faculty,Q101045226,11,1,2,faculty,,Q180958,,
+Leeds,Leeds Beckett University - Headingley Campus,Q86028196,11,1,2,academic department in the UK,Leeds Metropolitan University - Headingley Campus,Q209465,,
+Leeds,Leeds Beckett University School of Sport,Q86020944,11,1,2,academic department in the UK,Leeds Metropolitan University School of Sport,Q2467461,,
+Leeds,"Leeds Beckett University Buildings C, D and F",Q66900148,11,1,2,"building complex in Leeds, West Yorkshire",,Q209465|Q1497364,,
+Leeds,Leeds Beckett University Building F,Q66928042,11,1,2,"building in Leeds, West Yorkshire",,Q18142,,
+Leeds,Leeds Beckett University School of Health and Community Studies,Q101011477,11,1,2,academic department,,Q2467461,,
+Leeds,Leeds Beckett University Faculty of Health and Social Sciences,Q101011473,11,1,2,faculty,,Q180958,,
+Leeds,Leeds Beckett University Faculty of Business and Law,Q102522287,11,1,2,faculty,,Q180958,,
+Leeds,Leeds Beckett University Getting Sorted Enterprise Unit,Q101045229,11,1,2,academic department,,Q2467461,,
+Leeds,Leeds City Council,Q6515870,11,1,2,"city council in Yorkshire, England, United Kingdom",,Q19414242,,Leeds City Council
+Leeds,Leeds City Council election,Q6516179,11,1,2,class of UK elections,Leeds local elections,Q107359024,Q107358505,Leeds City Council elections
+Leeds,Leeds City Council Act 2013,Q100165624,11,1,2,Local Act of Parliament of the United Kingdom,"2013 c. ii|2013 c ii|Leeds City Council Act, 2013",Q100165600,,
+Leeds,Leeds City Council Safeguarding Children Board,Q104606114,11,1,2,UK local multi-agency statutory body concerned with child safeguarding in Leeds City Council,Leeds City Council LSCB|Leeds City Council SCB,Q104605989,,
+Leeds,Leeds Bradford Airport,Q8699,11,1,2,"international airport in West Yorkshire, England",EGNM|LBA|Leeds Bradford International Airport,Q644371|Q94993988,,Leeds Bradford Airport
+privately held company,privately held company,Q1589009,11,2,1,business with a small number of owners,private corporation|close corporation|unquoted company|unlisted company|private company|closely held corporation,Q1269299,Q56876011|Q5621421,Privately held company
+privately held company,unlisted public company,Q7258079,11,2,1,public company that is not listed on any stock exchange,privately held company|publicly unlisted company,Q10541491,Q783794|Q166280,Unlisted public company
+privately held company,Privately Held Company Valuation and Cost of Capital,Q140113586,11,2,1,,,Q13442814,,
+privately held company,Asda,Q297410,11,2,2,British supermarket chain,Asda Walmart|George at Asda|ASDA Group plc|ASDA Group|ASDA Wal-Mart Supercentre|ASDA Smart Price|Smart Price|ASDA|ASDA Superstore|George (clothing)|ASDA Living|Asda Stores Limited|Asda Living|Asda Stores Ltd.,Q18043413|Q726870|Q64027599,,Asda
+privately held company,Asdang Dejavudh,Q13022267,11,2,2,siamese Prince (1889-1924),,Q5,,Asdang Dejavudh
+privately held company,Asdahl,Q4804095,11,2,2,family name,,Q101352,,Asdahl
+privately held company,Aspartate aminotransferase CBO1166,Q23528434,11,2,2,microbial protein found in Clostridium botulinum A str. ATCC 3502,asdA,Q8054,Q8054,
+privately held company,Asda Story,Q485119,11,2,2,2008 video game,,Q7889,,Asda Story
+privately held company,Asda 2,Q16273580,11,2,2,2008 video game,,Q7889,,
+privately held company,aspartate aminotransferase CBO1166,Q23203149,11,2,2,microbial gene found in Clostridium botulinum A str. ATCC 3502,asdA|CBO1166|aspartate aminotransferase|aspD,Q7187,Q7187|Q20747295,
+privately held company,Aspartate aminotransferase BDGL_001724,Q23593442,11,2,2,microbial protein found in Acinetobacter pittii PHEA-2,BDGL_001724|asdA,Q8054,Q8054,
+privately held company,aspartate aminotransferase CLC_1209,Q23407479,11,2,2,microbial gene found in Clostridium botulinum A str. Hall,asdA|CLC_1209|aspartate aminotransferase,Q7187,Q7187|Q20747295,
+privately held company,aspartate aminotransferase BDGL_001724,Q23412199,11,2,2,microbial gene found in Acinetobacter pittii PHEA-2,asdA|BDGL_001724|aspartate aminotransferase,Q7187,Q7187|Q20747295,
+privately held company,Leeds,Q39121,11,2,2,"city in West Yorkshire, England, United Kingdom",,Q515|Q7897276|Q1549591|Q1187811,,Leeds
+privately held company,Leeds,Q2460124,11,2,2,"village and civil parish in Kent, England","Leeds, Kent",Q532|Q1115575,,"Leeds, Kent"
+privately held company,Leeds,Q24114244,11,2,2,family name,,Q101352,,Leeds (surname)
+privately held company,Leeds,Q774015,11,2,2,"metropolitan borough in West Yorkshire, England",City of Leeds|City and Borough of Leeds,Q21503295|Q1002812,,City of Leeds
+privately held company,Leeds United F.C.,Q1128631,11,2,2,"association football club in Leeds, England",Leeds United Football Club|Leeds United FC|Leeds United|Leeds United Association Football Club|Leeds United A.F.C.|Leeds United AFC|Leeds|United|The Peacocks|LUFC|L.U.F.C.|Leeds Utd|LeedsUnited,Q476028,,Leeds United F.C.
+privately held company,Leeds,Q113128068,11,2,2,given name,,Q202444,,
+privately held company,University of Leeds,Q503424,11,2,2,"university in Leeds, United Kingdom",,Q62078547|Q5341295,,University of Leeds
+privately held company,Leeds Rhinos,Q1202117,11,2,2,English professional rugby league football club,Leeds Rhinos R.L.F.C.|Leeds Rhinos Rugby League Football Club,Q15221215,,Leeds Rhinos
+privately held company,Leeds,Q28528851,11,2,2,"human settlement in Saint-Pierre-de-Broughton, Quebec, Canada",Leeds Township,Q23019040,,
+privately held company,Leeds,Q115225747,11,2,2,"dispersed rural community in Leeds and the Thousand Islands, Ontario, Canada","Leeds, Ontario",Q56885635,,

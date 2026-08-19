@@ -1,0 +1,30 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+californium-237,californium-237,Q18845700,0,0,1,isotope of californium,Cf-237|237Cf,Q1088652,Q1888,Californium-237
+californium-237,berkelium-237,Q18845628,0,0,2,isotope of berkelium,Bk-237|237Bk,Q221118,Q1882,Berkelium-237
+berkelium-237,berkelium-237,Q18845628,0,2,1,isotope of berkelium,Bk-237|237Bk,Q221118,Q1882,Berkelium-237
+berkelium-237,californium-237,Q18845700,0,2,2,isotope of californium,Cf-237|237Cf,Q1088652,Q1888,Californium-237
+berkelium-237,isotope,Q25276,0,2,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+berkelium-237,isotopic labeling,Q370228,0,2,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+berkelium-237,Isotopes in Environmental and Health Studies,Q15762133,0,2,2,journal,,Q5633421,,
+berkelium-237,Isotope,Q1098200,0,2,2,British band,,Q215380,,Isotope (band)
+berkelium-237,Isotope,Q11282222,0,2,2,,,Q4830453,,
+berkelium-237,Isotope,Q104855089,0,2,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+berkelium-237,Isotope,Q20194776,0,2,2,painting by Walter Murch,,Q3305213,,
+berkelium-237,Tongweisu,Q50497567,0,2,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+berkelium-237,isotope of lead,Q1372384,0,2,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+berkelium-237,isotope of bismuth,Q1372372,0,2,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+berkelium-237,radionuclide,Q192900,0,2,2,"atom that has excess nuclear energy, making it unstable",radioactive nuclide|radioactive isotope,,Q108149,Radionuclide
+berkelium-237,Radioactive Isotope Beam Factory,Q11240978,0,2,2,a particle accelerator in Japan,,Q31855,,Radioactive Isotope Beam Factory
+berkelium-237,RADIOACTIVE ISOTOPE,Q78516516,0,2,2,scientific article published on 01 September 1965,,Q13442814,,
+berkelium-237,Radioactive isotope and other investigations in a case of haemorrhagic cyst of the mandible,Q70866515,0,2,2,scientific article published on 01 November 1964,,Q13442814,,
+berkelium-237,Radioactive isotopes and nuclear radiations in the treatment of cancer,Q73962402,0,2,2,scientific article published on 01 March 1956,,Q13442814,,
+berkelium-237,Radioactive isotopes in localization of intracranial lesions; a survey of various types of isotopes and tagged compounds useful in the diagnosis and localization of intracranial lesions with special reference to the use of radioactive iodine-tagged,Q75819825,0,2,2,scientific article published on 01 October 1951,,Q13442814,,
+berkelium-237,Radioactive isotopes in fractures of the neck of the femur,Q79312828,0,2,2,scientific article published on 01 February 1960,,Q13442814,,
+berkelium-237,RADIOACTIVE ISOTOPES FOR ADJUVANT CANCER THERAPY; ANIMAL EXPERIMENTATION AND PRELIMINARY RESULTS IN HUMAN APPLICATION,Q76845784,0,2,2,scientific article published on 01 August 1964,,Q13442814,,
+berkelium-237,Radioactive Isotopes of Bromine,Q60102717,0,2,2,scientific article published in Nature,,Q13442814,,
+berkelium-237,Radioactive isotopes in the palliative management of carcinomatosis of the pleura,Q75898153,0,2,2,scientific article published on 01 November 1951,,Q13442814,,
+californium-254,californium-254,Q18845842,1,0,1,isotope of californium,Cf-254|254Cf,Q1088652,Q1888,Californium-254
+californium-254,Californium-254 and Supernovae,Q56624536,1,0,1,,,Q13442814,,
+californium-254,Californium-254 and Kilonova Light Curves,Q59709744,1,0,1,scholarly article,,Q13442814,,
+californium-254,"CALIFORNIUM-254, IRON-59, and Supernovae of Type I",Q56624540,1,0,1,scientific article published in the Astrophysical Journal,,Q13442814,,
+fermium-254,fermium-254,Q18845946,1,2,1,isotope of fermium,Fm-254|254Fm,Q465498,Q1896,Fermium-254

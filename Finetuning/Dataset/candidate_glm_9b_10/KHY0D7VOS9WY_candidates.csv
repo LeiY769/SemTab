@@ -1,0 +1,97 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Mauterner Donaubrücke,Mauterner Donaubrücke,Q125055852,0,0,1,bridge over the Danube in Lower Austria,,Q158218|Q12280,,
+Mauterner Donaubrücke,Mauterner Donaubrücke,Q125055852,1,0,1,bridge over the Danube in Lower Austria,,Q158218|Q12280,,
+Kew Railway Bridge,Kew Railway Bridge,Q1740293,2,0,1,"bridge across the River Thames in London, UK",,Q1210334|Q158218|Q1055465,,Kew Railway Bridge
+Kew Railway Bridge,Kew Bridge railway station,Q2851105,2,0,2,"railway station in Kew Bridge, London Borough of Hounslow, England, UK",Kew Bridge Station|KWB,Q55488,,Kew Bridge railway station
+Viaduc du Furan,Viaduc du Furan,Q3556703,3,0,1,,,Q158218,,
+Pont Perrault,Pont Perrault,Q16269627,4,0,1,Canadian covered bridge,,Q1825472|Q428759|Q158218|Q1068842|Q537127,,
+Pont Perrault,Pont Joseph-Édouard-Perrault,Q3396584,4,0,1,"bridge in Quebec, Canada",Pont Joseph-Edouard-Perrault,Q1825472|Q158218|Q1068842,,Joseph-Édouard Perrault Bridge
+Pont Perrault,Pont de Normandie,Q504710,4,0,2,cable-stayed bridge,,Q158555|Q12280,,Pont de Normandie
+Pont Perrault,Pont de Normandie,Q127731471,4,0,2,,,Q110161282,,
+Short Line Bridge,Short Line Bridge,Q1438750,5,0,1,"bridge in Minneapolis, Minnesota",,Q158218|Q12042110|Q1210334,,Short Line Bridge
+Short Line Bridge,bridge,Q12280,5,0,2,"structure that spans and provides a passage over a road, railway, river, or some other obstacle",bridge (structure)|bridge (engineering)|bridges,Q111972893,Q83620|Q811979|Q618123,Bridge
+Short Line Bridge,Bridge,Q2302642,5,0,2,"village and civil parish in Kent, UK","Bridge, Kent",Q532|Q1115575,,"Bridge, Kent"
+Short Line Bridge,contract bridge,Q188966,5,0,2,card game,bridge|game of bridge|bridge game,Q1188693|Q142714|Q112972683|Q20478894,Q1150710|Q1191150,Contract bridge
+Short Line Bridge,Bridge,Q96191770,5,0,2,unisex given name,,Q11879590,,
+Short Line Bridge,Bridge,Q2925160,5,0,2,2008 studio album by Joey Cape,,Q482994,,Bridge (Joey Cape album)
+Short Line Bridge,Bridgend,Q6497774,5,0,2,"town in Bridgend County Borough, Wales",Pen-y-bont ar Ogwr,Q3957|Q18511725,,Bridgend
+Short Line Bridge,Bridgeport,Q49174,5,0,2,"county seat city of Fairfield County, Connecticut, United States","Bridgeport, Connecticut|Bridgeport, CT",Q1093829|Q1549591|Q62049,,"Bridgeport, Connecticut"
+Short Line Bridge,Bridget,Q913810,5,0,2,female given name,Bridget (first name)|Bridget (given name),Q11879590,,Bridget
+Short Line Bridge,Bridge,Q107556576,5,0,2,"American singer, songwriter and producer",Jonathan Yoni Laham,Q5,,Bridge (musician)
+Short Line Bridge,Bridge River,Q2663607,5,0,2,"watercourse in Squamish-Lillooet Regional District, British Columbia, Canada",,Q47521,,Bridge River
+Short Line Bridge,architectural structure,Q811979,5,0,2,human-designed and -made structure,designed structure|architectural structures|designed structures|structure in architecture|structures in architecture|structure|structures|structural object|built structure|civil engineering structure,Q111972893,Q11908691|Q811430|Q386724|Q134301417,Architectural structure
+Short Line Bridge,nonbuilding structure,Q1322402,5,0,2,any body or system of connected parts used to support a load that was not designed for continuous human occupancy,structure,,Q11908691|Q811430|Q811979,List of non-building structure types
+Short Line Bridge,Structure,Q15709970,5,0,2,scientific journal,,Q5633421,,Structure (journal)
+Short Line Bridge,NRHP structure,Q47162146,5,0,2,property/resource category in the US National Register of Historic Places,structure listed on the National Register of Historic Places|structure,Q30634609,Q47161795,
+Short Line Bridge,structure,Q6671777,5,0,2,"arrangement and organization of interrelated elements in an object or system, or the object or system so organized",organization of|framework|composition|arrangement,Q33104279,Q99527517|Q12893838|Q27096213,Structure
+Short Line Bridge,Structure,Q55662818,5,0,2,unreleased video game,,Q7889,,
+Short Line Bridge,SQL,Q47607,5,0,2,"relational database language that allows to extract from data tables a series of records with selection, sorting and computation criteria, or to update, delete or add records",Structural Query Language|sql,Q1144882|Q845739|Q9143|Q691358,Q845739,SQL
+Short Line Bridge,social structure,Q211606,5,0,2,aggregate of patterned social arrangements in society,social organization|societal structure|structure,Q111972893|Q33104129,Q6671777|Q8425,Social structure
+Short Line Bridge,mathematical structure,Q748349,5,0,2,"combination of a set and an extra structure on it; more precisely, an object of a concrete category",structure,Q111972893,Q246672|Q4833865,Mathematical structure
+Short Line Bridge,Structures,Q96333952,5,0,2,UK scientific journal,,Q5633421,,
+Lower Trenton Bridge,Lower Trenton Bridge,Q6693879,6,0,1,"historic bridge across the Delaware River at Trenton, New Jersey",Lower Trenton Toll Supported Bridge|Trenton Makes Bridge|Lower Free Bridge|Warren Street Bridge,Q537127|Q158218|Q1210334,,Lower Trenton Bridge
+Astoria–Megler Bridge,Astoria–Megler Bridge,Q3043471,7,0,1,"bridge connecting Washington state and Oregon, USA",,Q158218|Q7814330,,Astoria–Megler Bridge
+Big Four Bridge,Big Four Bridge,Q4905727,8,0,1,bridge that crosses the Ohio River,,Q158218|Q2502622|Q1068842|Q1210334,,Big Four Bridge
+Big Four Bridge,Forth Bridge,Q275,8,0,2,railway bridge in eastern Scotland,Forth Rail Bridge|The Forth Bridge,Q1429218|Q12042110|Q158218|Q1210334,,Forth Bridge
+Big Four Bridge,Forth Bridge approach railways,Q25245407,8,0,2,railway lines in Scotland,,,,Forth Bridge approach railways
+Big Four Bridge,Forth Bridge Railway,Q130467679,8,0,2,company that built and owned the Forth Bridge in Scotland,"Forth Bridge Railway Committee,",Q6269546,,Forth Bridge Railway
+Big Four Bridge,"Forth Bridge, Aberfoyle",Q17853750,8,0,2,"bridge in Stirling, Scotland, UK, carries a minor road across River Forth","Aberfoyle, Manse Road, Forth Bridge",Q12280,,
+Big Four Bridge,Forth Bridges Heritage Centre,Q134955345,8,0,2,"heritage centre, run by the North Queensferry Heritage Trust, in North Queensferry, Scotland, UK",,Q33506|Q5739135|Q115154402,,
+Big Four Bridge,"Forth Bridge Hotel, 36 High Street, South Queensferry",Q17807110,8,0,2,"hotel in City of Edinburgh, Scotland, UK","South Queensferry, 36 High Street, Forth Bridge Hotel",Q27686,,
+Big Four Bridge,Forth Bridges,Q120059362,8,0,2,"painting by Clive Anderson Watts (b.1943), NHS Fife",,Q3305213,,
+Big Four Bridge,Forth Bridge,Q11332956,8,0,2,Wikimedia disambiguation page,,Q4167410,,Forth Bridge (disambiguation)
+Big Four Bridge,Clifton Suspension Bridge,Q162170,8,0,2,"bridge in Bristol, England","Clifton Suspension Bridge, Two Tollhouses And Flanking Walls On West Side",Q12570|Q537127|Q7814330,,Clifton Suspension Bridge
+Big Four Bridge,Clifton Suspension Bridge Act 1980,Q110283776,8,0,2,Local Act of Parliament of the United Kingdom,"1980 c. xxii|1980 c xxii|Clifton Suspension Bridge Act, 1980",Q100165600,,
+Big Four Bridge,Clifton Suspension Bridge Act 1986,Q110283988,8,0,2,Local Act of Parliament of the United Kingdom,"1986 c. xiv|1986 c xiv|Clifton Suspension Bridge Act, 1986",Q100165600,,
+Big Four Bridge,murders of Albert Alfonso and Paul Longworth,Q127962715,8,0,2,"2024 murders in London, England",Clifton Suspension Bridge human remains discovery,Q5300066,,Murders of Albert Alfonso and Paul Longworth
+Big Four Bridge,Clifton Suspension Bridge Trust,Q132255360,8,0,2,,Clifton Bridge Company,Q163740,,
+Big Four Bridge,"Clifton Suspension Bridge, Bristol",Q119895767,8,0,2,"painting by John Nicholson (1916–1972), Bolton Museum and Art Gallery",,Q3305213,,
+Big Four Bridge,"Clifton Suspension Bridge, Bristol",Q120041443,8,0,2,"painting by E. D., Southmead Hospital",,Q3305213,,
+Big Four Bridge,Clifton Suspension Bridge Museum,Q125510368,8,0,2,"visitor centre/museum of the Clifton suspension bridge in Bristol, United Kingdom",Clifton Suspension Bridge Visitor Centre,Q33506,,
+Big Four Bridge,Clifton Suspension Bridge near Bristol,Q64536854,8,0,2,drawing in the National Gallery of Art (NGA 41485),,Q93184,,
+Big Four Bridge,Humber Bridge,Q1141014,8,0,2,"suspension bridge near Kingston upon Hull, England",,Q12570|Q537127,,Humber Bridge
+Big Four Bridge,One Humber,Q11327144,8,0,2,ship built in 2006,,Q17210,,
+Big Four Bridge,Humber Bridge,Q111974638,8,0,2,navigation aids vessel,Humber Bridge Navigation Aid|Humber Bridge (utility vessel)|MMSI 992351280,Q11446,,
+Big Four Bridge,Humber Bridge Act 2013,Q100165619,8,0,2,Local Act of Parliament of the United Kingdom,"2013 c. vi|2013 c vi|Humber Bridge Act, 2013",Q100165600,,
+Big Four Bridge,Humber Bridge (Debts) Act 1996,Q5939787,8,0,2,Public General Act of Parliament of the United Kingdom,1996 c. 1|1996 c1,Q105774620,,Humber Bridge (Debts) Act 1996
+Big Four Bridge,Humber Bridge Act 1973,Q110283518,8,0,2,Local Act of Parliament of the United Kingdom,"1973 c. iii|1973 c iii|Humber Bridge Act, 1973",Q100165600,,
+Big Four Bridge,Humber Bridge Act 1971,Q110283430,8,0,2,Local Act of Parliament of the United Kingdom,"1971 c. xlvii|1971 c xlvii|Humber Bridge Act, 1971",Q100165600,,
+Big Four Bridge,Humber Bridge Board,Q111975080,8,0,2,"governmental body in England, UK",,Q7604698,,
+Big Four Bridge,Humber bridge full-scale measurement campaigns 1990–1991,Q57927372,8,0,2,,,Q13442814,,
+Arnold Drive Bridge,Arnold Drive Bridge,Q55604224,9,0,1,"historic truss bridge in Eldridge, California, United States.",Jim Berkland Memorial Bridge,Q158218,,Arnold Drive Bridge
+Aigi Bridge,Aigi Bridge,Q4696835,10,0,1,bridge in Gifu - Aichi Prefectural border,,Q158626|Q158218,,Aigi Bridge
+Hembrug,Hembrugterrein,Q3521975,11,0,1,"industrial zone in Zaanstad, Netherlands",Hembrugterrein,Q1484611|Q329683|Q1497375,,
+Hembrug,Hembrug,Q2501342,11,0,1,"former railway bridge over the North Sea Canal in Amsterdam, Netherlands",,Q1210334|Q950431|Q158218,,Hembrug
+Hembrug,Hembrug,Q2473994,11,0,1,"former railway station in Zaanstad, the Netherlands",,Q55488,,
+Hembrug,Hembrugstraat,Q19246764,11,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Hembrug,Hembrug Museum,Q2454702,11,0,1,museum in the Netherlands,,Q33506,,
+Hembrug,Hembrugstraat 68-246,Q111511856,11,0,1,,,Q13402009|Q1497364,,
+Hembrug,"Hembrugterrein: schudproevengebouw, b8 - 272d",Q17610082,11,0,1,,,Q1662011,,
+Hembrug,"Hembrugterrein: ketelcentrale ""gebouw 218""",Q17610035,11,0,1,,,Q1662011,,
+Hembrug,Hembrugterrein: aarden wallen,Q17606533,11,0,1,bridge in Netherlands,,Q12280,,
+Hembrug,"Hembrugterrein: productie en beproevingsgebouw, b5 - 272a",Q17610074,11,0,1,,,Q1662011,,
+Fulham Railway Bridge,Fulham Railway Bridge,Q1473611,12,0,1,"truss bridge that crosses the River Thames in London, which carries both trains and pedestrians",Putney Railway Bridge,Q1210334|Q1068842|Q158218,,Fulham Railway Bridge
+Fort Madison Toll Bridge,Fort Madison Toll Bridge,Q5471576,13,0,1,"bridge in and Niota, Illinois",,Q158218|Q7814330|Q537127|Q1210334,,Fort Madison Toll Bridge
+"Balloch, Balloch Road, River Leven, Balloch Bridge","Balloch Bridge, River Leven, Balloch Road, Balloch",Q17847729,14,0,1,"bridge in West Dunbartonshire, Scotland, UK, carries a minor road across River Leven","Balloch, Balloch Road, River Leven, Balloch Bridge",Q537127|Q158218,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q805302,14,0,2,"town in West Dunbartonshire, Scotland, UK",Am Bealach,Q3957,,"Balloch, West Dunbartonshire"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q2197148,14,0,2,"human settlement in Highland, Scotland, UK","Balloch, Highland",Q532,,"Balloch, Highland"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q4851819,14,0,2,"area of Cumbernauld, North Lanarkshire, Scotland, UK","Eastfield|Balloch Eastfield|Balloch, Cumbernauld|Balloch, Lanarkshire|Balloch, North Lanarshire",Q123705,,"Balloch, Cumbernauld"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q38201801,14,0,2,given name,,Q202444,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Ballochia atro-virgata,Q4851826,14,0,2,species of plant,Ballochia atrovirgata,Q16521,,Ballochia atrovirgata
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Ballochia,Q4851828,14,0,2,genus of plants,,Q16521,,Ballochia
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q112595996,14,0,2,family name,,Q101352,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch Castle,Q3299192,14,0,2,"country house in Balloch, West Dunbartonshire, Scotland, UK",,Q16884952,,Balloch Castle
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch railway station,Q2538309,14,0,2,"railway station in Balloch, West Dunbartonshire, Scotland, UK",Balloch Station|BHC,Q55488,,Balloch railway station
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch,Q4851820,14,0,2,unincorporated community in New Hampshire,"Balloch, New Hampshire|Balloch, NH",Q17343829,,"Balloch, New Hampshire"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q1821741,14,0,2,"river in Fife, Scotland, UK, flows from Loch Leven into the Firth of Forth",Abhainn Lìobhann|Lìobhann,Q4022,,"River Leven, Fife"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q24640556,14,0,2,"river in Highland, Scotland, UK, flows into Loch Leven",Abhainn Lìobhann,Q47521|Q4022,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q2559923,14,0,2,"river in Dunbartonshire, Scotland, UK, outflows from Loch Lomond, tributary of the River Clyde",Uisge Leamhain,Q4022,,"River Leven, Dunbartonshire"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q1650512,14,0,2,"river in Cumbria, United Kingdom","River Leven, Cumbria|Leven",Q4022,,"River Leven, Cumbria"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q1752436,14,0,2,river in Tasmania (Australia),,Q4022,,River Leven (Tasmania)
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q7337581,14,0,2,"river in North Yorkshire, United Kingdom",,Q4022,,"River Leven, North Yorkshire"
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q103904525,14,0,2,shipwreck off the Scottish coast,,Q11446|Q852190,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven graving dock,Q125287790,14,0,2,"dry dock on River Leven, West Dunbartonshire, Scotland, UK, now infilled",,Q811177,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",River Leven,Q7337580,14,0,2,Wikimedia disambiguation page,,Q4167410,,River Leven
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch Bridge,Q56615166,14,0,2,"bridge in Perth and Kinross, Scotland, UK, carries a minor road across Alyth Burn",,Q12280,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch Bridge,Q56618507,14,0,2,"bridge in Angus, Scotland, UK, carries the B951 road across Balloch Burn",,Q537127,,
+"Balloch, Balloch Road, River Leven, Balloch Bridge",Balloch Bridge,Q115857854,14,0,2,Wikimedia disambiguation page,,Q4167410,,

@@ -1,0 +1,8 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+RV Thomas G. Whompson,USNS Thomas Washington,Q7866745,0,0,2,oceanographic research vessel,RV Thomas Washington|R/V Thomas Washington|AGOR-10|Washington|Vidal Gormaz|AGOR 60|IMO 7742164,Q19267382,,USNS Thomas Washington
+RV Thomas G. Whompson,RV Thomas G. Thompson,Q7278073,0,0,2,American oceanographic research vessel operated by the University of Washington,R/V Thomas G. Thompson|Thomas G. Thompson|AGOR-23|IMO 8814419,Q19267382,,RV Thomas G. Thompson (T-AGOR-23)
+RV Thomas G. Whompson,RV Thomas G. Thompson,Q3928121,0,0,2,Wikimedia disambiguation page,,Q4167410,,RV Thomas G. Thompson
+RV Atlanti,RV Atlantis,Q1262390,1,0,1,sailboat of the Woods Hole Oceanographic Institution,Atlantis|R/V Atlantis|PNA Dr. Bernardo A. Houssay|Dr. Bernardo A. Houssay|MOV-1,Q753784,,RV Atlantis (1930)
+RV Atlanti,RV Atlantis,Q7278030,1,0,1,American oceanographic research ship operated by the Woods Hole Oceanographic Institution,Atlantis|R/V Atlantis|AGOR-25|IMO 9105798,Q19267382,,RV Atlantis (AGOR-25)
+RV Atlanti,RV Atlantis II,Q7278031,1,0,1,research ship built in 1963,IMO 5029752,Q391022,,RV Atlantis II
+RV Atlanti,RV Atlantic Explorer,Q7278029,1,0,1,American research vessel,R/V Atlantic Explorer|Atlantic Explorer|Seward Johnson II,Q391022,,RV Atlantic Explorer

@@ -1,0 +1,315 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Loyola College,Loyola University New Orleans,Q172430,0,0,1,"private Jesuit university in New Orleans, Louisiana, United States",Loyola-New Orleans|Loyola University|Loyola College,Q3918|Q23002054,,Loyola University New Orleans
+Loyola College,Loyola College,Q6694542,0,0,1,"college in Madras, India","Loyola College, Chennai|Loyola College (Autononous)",Q189004|Q557206|Q3580134,,"Loyola College, Chennai"
+Loyola College,Loyola College,Q6694544,0,0,1,"Jesuit college in Montreal, Quebec, Canada",,Q189004,,Loyola College (Montreal)
+Loyola College,Concordia University,Q326342,0,0,1,"university in Montreal, Quebec, Canada","Sir George Williams University|Loyola College, Montreal|Concordia university (Montréal, Canada)|Concordia|concordia.ca",Q3551519|Q708676,,Concordia University
+Loyola College,Loyola Marymount University,Q1786078,0,0,1,"Jesuit university in Los Angeles, California, USA",LMU|Loyola University of Los Angeles|Loyola College of Los Angeles|L.A. College|St. Vincent's College,Q902104|Q23002054|Q45400320|Q110225820,,Loyola Marymount University
+Loyola College,Loyola College,Q14935199,0,0,1,"school in Watsonia, Melbourne, Victoria, Australia",,Q3914,,"Loyola College, Melbourne"
+Loyola College,Loyola University Maryland,Q5399470,0,0,1,"Jesuit liberal arts university in Baltimore, Maryland",Loyola Maryland|Loyola MD|Loyola (MD)|Loyola of Maryland|Loyola of Baltimore|Loyola (Maryland)|Loyola College in Maryland|Loyola University of Maryland|Loyola College of Baltimore,Q1377182|Q23002054,,Loyola University Maryland
+Loyola College,Loyola College,Q116310800,0,0,1,"secondary school in Oyo, Oyo State, Nigeria",,Q3914,,
+Loyola College,"Loyola College, Ibadan",Q30647024,0,0,1,"boys public school in Ibadan, Oyo State, Nigeria",,Q3914|Q159334,,"Loyola College, Ibadan"
+Loyola College,Loyola College Prep,Q6694548,0,0,1,"private school in Shreveport, , Louisiana, United States",,Q3914,,Loyola College Prep
+Loyola College,Loyola University Chicago,Q1537759,0,0,2,"Catholic research university in Chicago, Illinois, USA",Loyola (Illinois)|Loyola (IL)|Loyola University of Chicago|Loyola-Chicago|Loyola Chicago|Loyola of Chicago|Loyola Illinois|Loyola IL|Loyola (Ill)|Loyola of Illinois|Loyola|LUC,Q3918|Q23002054,,Loyola University Chicago
+Loyola College,Loyola University Medical Center,Q6694611,0,0,2,"hospital in Illinois, United States",Foster G. McGaw Hospital,Q16917,,Loyola University Medical Center
+Loyola College,Loyola Ramblers men's basketball,Q16201569,0,0,2,NCAA Division I team for Loyola University Chicago,Loyola Ramblers basketball|Ramblers men's basketball|Loyola University Chicago men's basketball|Loyola-Chicago Ramblers|Loyola-Chicago basketball|Loyola basketball|Ramblers basketball|Loyola men's basketball|Loyola (IL) men's basketball|Loyola (IL) basketball|Loyola (IL)|Loyola Chicago Ramblers men's basketball|Loyola Chicago Ramblers basketball,Q13393265|Q18558301,,Loyola Ramblers men's basketball
+Loyola College,Loyola University Chicago School of Law,Q6694609,0,0,2,religious university in Illinois,,Q1321960,,Loyola University Chicago School of Law
+Loyola College,Loyola University Andalucía,Q11222484,0,0,2,Jesuit college in Spain,Universidad Loyola Andalucía|uloyola.es,Q902104|Q110225820,,Loyola University Andalusia
+Loyola College,Loyola Law School,Q6694579,0,0,2,"Loyola Marymount University's law school in Los Angeles, California",Loyola Marymount University Law School|LMU Law School|Loyola University Law School,Q1321960,,Loyola Law School
+Loyola College,Loyola University New Orleans College of Law,Q6694614,0,0,2,"American law school in New Orleans, Louisiana, United States",University of Loyola School of Law,Q1321960,,Loyola University New Orleans College of Law
+Loyola College,Loyola Marymount Lions,Q6694580,0,0,2,athletic teams that represent Loyola Marymount University,Loyola Marymount University athletics|Loyola Lions|LMU Lions,Q2367225,,Loyola Marymount Lions
+Loyola College,Loyola Marymount University School of Education,Q101024322,0,0,2,academic department,,Q2467461,,
+Loyola College,Loyola Marymount University Department of Theological Studies,Q101024320,0,0,2,academic department,,Q2467461,,
+Loyola College,Loyola Marymount University Bookstore,Q99474915,0,0,2,"bookshop in Los Angeles, CA, United States of America",,Q200764,,
+Loyola College,Loyola Marymount University Department of Sociology,Q101024318,0,0,2,academic department,,Q2467461,,
+Loyola College,Loyola Marymount University School of Film and Television,Q101024323,0,0,2,academic department,,Q2467461,,
+Loyola College,Loyola Marymount University Department of Communication Studies,Q101024317,0,0,2,academic department,,Q2467461,,
+Loyola College,Loyola Marymount University College of Communication and Fine Arts,Q101024315,0,0,2,faculty,,Q180958,,
+Aquinas College,Aquinas College,Q4782975,1,0,1,"Catholic boys school in Perth, Western Australia","Aquinas College, Perth",Q9826,,"Aquinas College, Perth"
+Aquinas College,Aquinas College,Q4782984,1,0,1,"liberal arts college in Grand Rapids, Michigan, United States",AQ,Q23002054,,Aquinas College (Michigan)
+Aquinas College,Aquinas College,Q4782971,1,0,1,"Roman Catholic secondary school in Ringwood, Victoria, Australia","Aquinas College, Melbourne",Q159334|Q1138671,,"Aquinas College, Melbourne"
+Aquinas College,Aquinas College,Q4782976,1,0,1,"Coeducational Catholic College, Gold Coast Queensland",Aquinas College Ashmore,Q3914,,"Aquinas College, Southport"
+Aquinas College,Aquinas College,Q4782977,1,0,1,"college in Stockport, UK",,Q159334|Q21822439,,"Aquinas College, Stockport"
+Aquinas College,Aquinas College,Q4782978,1,0,1,"state-integrated secondary (year 7–15) school in Tauranga, New Zealand","Aquinas College, Tauranga",Q159334|Q15134891,,"Aquinas College, Tauranga"
+Aquinas College,Aquinas College,Q4409222,1,0,1,"Catholic college in Nashville, Tennessee, United States",,Q23002054,,Aquinas College (Tennessee)
+Aquinas College,Aquinas College,Q4782981,1,0,1,"residential college of the University of Adelaide, South Australia","Aquinas College, Adelaide",Q2680291,,"Aquinas College, Adelaide"
+Aquinas College,"Aquinas College, Edacochin",Q98946800,1,0,1,Arts and Science College,Aquinas College Edakochi|Aquinas College,Q189004,,"Aquinas College, Edacochin"
+Aquinas College,Aquinas College,Q4782979,1,0,1,"former college in Massachusetts, United States",,Q38723,,Aquinas College (Massachusetts)
+Aquinas College,University of Santo Tomas–Legazpi,Q3550141,1,0,2,"Catholic university/school in Legazpi, Albay, Philippines",UST–Legazpi|Aquinas University of Legazpi,Q902104|Q557206|Q423208|Q1138671,,University of Santo Tomas–Legazpi
+Aquinas College,St. Thomas Aquinas College,Q7591912,1,0,2,liberal arts college in New York,STAC,Q3918|Q23002054,,St. Thomas Aquinas College
+Aquinas College,School of St. Thomas Aquinas of the Piarist Schools of Zaragoza,Q8347695,1,0,2,"cultural property in Zaragoza, Spain",Piarist school of Zaragoza|colegio de Santo Tomás de Aquino de las Escuelas Pías de Zaragoza|St. Thomas Aquinas College of the Pious Schools of Zaragoza,Q61063465|Q907116|Q13032118|Q16517620,,
+Aquinas College,St. Thomas Aquinas Spartans,Q104889857,1,0,2,intercollegiate sports teams of St. Thomas Aquinas College,St. Thomas Aquinas College athletics,Q2367225,,St. Thomas Aquinas Spartans
+Bethesda Christian School,Bethesda Christian School,Q4897979,2,0,1,"school in Fort Worth, Texas, USA",,Q3914,,"Bethesda Christian School (Fort Worth, Texas)"
+Bethesda Christian School,Bethesda Christian School,Q4897978,2,0,1,"private christian school in Brownsburg, Hendricks County, Indiana, United States",,Q3914,,"Bethesda Christian School (Brownsburg, Indiana)"
+Bethesda Christian School,Bethesda Christian School,Q4897977,2,0,1,Wikimedia disambiguation page,,Q4167410,,Bethesda Christian School
+Bethesda Christian School,Bethesda Christian School,Q4897979,3,0,1,"school in Fort Worth, Texas, USA",,Q3914,,"Bethesda Christian School (Fort Worth, Texas)"
+Bethesda Christian School,Bethesda Christian School,Q4897978,3,0,1,"private christian school in Brownsburg, Hendricks County, Indiana, United States",,Q3914,,"Bethesda Christian School (Brownsburg, Indiana)"
+Bethesda Christian School,Bethesda Christian School,Q4897977,3,0,1,Wikimedia disambiguation page,,Q4167410,,Bethesda Christian School
+Crescent School,Crescent School,Q5184423,4,0,1,"school in Toronto, Ontario, Canada",,Q3914,,Crescent School (Toronto)
+Crescent School,Crescent School,Q138853350,4,0,1,"historic building near Meeker, Oklahoma, United States",,Q1244442,,
+Crescent School,Crescent School,Q67149216,4,0,1,"school in Warwickshire, UK",,Q2418495,,
+Crescent School,Crescent Schools International,Q17065571,4,0,1,"international school in Colombo, Wellampitiya and Ratnapura, Sri Lanka",,Q3914,,Crescent Schools International
+Crescent School,Crescent School of Architecture,Q130298518,4,0,1,"architecture School in Tamil Nadu, India",CSA,Q10273077,,Crescent School of Architecture
+Crescent School,Crescent School of Business,Q130298471,4,0,1,"Business School in Tamil Nadu, India",CSB,Q1143635,,
+Crescent School,Crescent School in Botswana,Q131827465,4,0,1,Botswana school,,Q3914,,
+Crescent School,Crescent School,Q5184421,4,0,1,Wikimedia disambiguation page,,Q4167410,,Crescent School
+Crescent School,Crescent High School Vanimel,Q64553266,4,0,2,"school in Kozhikode district, Kerala, India",,Q9826|Q11146499,,
+Crescent School,Crescent Academy Iwo,Q116417625,4,0,2,"primary school in Osun State, Nigeria",,Q9842,,
+Brentwood School,Brentwood School,Q4961791,5,0,1,"independent day and boarding school in Essex, England",,Q2418495|Q269770,,"Brentwood School, Essex"
+Brentwood School,Brentwood School,Q4961792,5,0,1,"school in Los Angeles, California, USA",,Q3914,,Brentwood School (Los Angeles)
+Brentwood School,Brentwood School,Q19873992,5,0,1,"school in Sandersville, Georgia",,Q3914,,Brentwood School (Sandersville)
+Brentwood School,Brentwood School,Q67145967,5,0,1,"school in Trafford, UK",,Q1110689,,
+Brentwood School,Brentwood School District,Q60744041,5,0,1,"school district in Missouri, USA",,Q15726209,,Brentwood School District
+Brentwood School,Brentwood School,Q4961790,5,0,1,Wikimedia disambiguation page,,Q4167410,,Brentwood School
+Brentwood School,Brentwood Academy,Q4961752,5,0,2,"private school in Brentwood, Tennessee, United States",,Q3914,,Brentwood Academy
+Brentwood School,Brentwood Academy v. Tennessee Secondary School Athletic Association,Q4961751,5,0,2,2001 United States Supreme Court case,,Q2334719|Q19692072,,Brentwood Academy v. Tennessee Secondary School Athletic Ass'n
+Brentwood School,"Brentwood Academy , Rivers state Nigeria",Q139987077,5,0,2,School in Rivers State Nigeria,,Q3914,,
+Brentwood School,Brentwood High School,Q4961778,5,0,2,"high school in New York, United States",,Q9826,,Brentwood High School (New York)
+Brentwood School,Brentwood High School,Q4961781,5,0,2,"high scholl i Brentwood, Tennessee",,Q9826,,Brentwood High School (Tennessee)
+Brentwood School,Brentwood High School,Q4961780,5,0,2,"high school in Pennsylvania, United States",,Q9826,,Brentwood High School (Pennsylvania)
+Brentwood School,Brentwood High School,Q4961777,5,0,2,"high school in Missouri, United States",,Q9826,,Brentwood High School (Missouri)
+Brentwood School,Brentwood High School,Q4961776,5,0,2,Wikimedia disambiguation page,,Q4167410,,Brentwood High School
+HLA,Prague,Q1085,6,0,1,capital city of the Czech Republic,Hlavní město Praha|City of Prague,Q15978299|Q548611|Q192611|Q12031379|Q8452914|Q171441|Q38911|Q7841907|Q1549591|Q7819319|Q76007695|Q76009696|Q1200957|Q5153359|Q108178728,,Prague
+HLA,HLA,Q27727153,6,0,1,scientific journal,,Q5633421|Q737498|Q73364223,,
+HLA,Hla,Q37194708,6,0,1,family name,,Q101352,,
+HLA,Hladký,Q20996568,6,0,1,family name,,Q101352,,Hladký
+HLA,Hlávkův most,Q12019825,6,0,1,bridge in Prague,Hlávka Bridge,Q537127|Q79007|Q18615527,,
+HLA,Henning Larsen Architects,Q1339465,6,0,1,Architecture firm based in Copenhagen (est.1959),HLA,Q4387609,,Henning Larsen Architects
+HLA,Lanseria International Airport,Q2163819,6,0,1,South African airport,HLA|FALA,Q644371|Q94993988,,Lanseria International Airport
+HLA,Hlavsa,Q12019723,6,0,1,family name,,Q101352,,
+HLA,Hlavní třída,Q43565799,6,0,1,"street in Ostrava, Czech Republic","Hlavní třída (Ostrava)|Hlavní třída (Poruba, Ostrava, Česko)",Q79007,,
+HLA,human leukocyte antigen,Q911125,6,0,1,a gene complex responsible for the regulation of the immune system in humans,HLA Antigens|HLA Antigen|human leukocyte antigen complex,Q78855299,Q22330383,Human leukocyte antigen
+HLA,CD59 molecule (CD59 blood group),Q5009828,6,0,2,mammalian protein found in Homo sapiens,"20 kDa homologous restriction factor|membrane attack complex (MAC) inhibition factor|MAC-inhibitory protein|MIRL|CD59 antigen p18-20 (antigen identified by monoclonal antibodies 16.3A5, EJ16, EJ30, EL32 and G344)|membrane inhibitor of reactive lysis|lymphocytic antigen CD59/MEM43|1F5 antigen|HRF20|CD59 glycoprotein|HRF-20|MAC-IP|CD59 molecule, complement regulatory protein|surface anitgen recognized by monoclonal antibody 16.3A5|CD59|T cell-activating protein|protectin|Ly-6-like protein|membrane attack complex inhibition factor|MACIF|CD59 blood group antigen|human leukocyte antigen MIC11|MEM43 antigen",Q8054,,CD59
+HLA,"major histocompatibility complex, class I, C",Q21114962,6,0,2,mammalian proteins found in Homo sapiens,"major histocompatibility antigen HLA-C|HLA-C alpha chain|HLA class I histocompatibility antigen, C alpha chain|HLA-C antigen|HLA class I histocompatibility antigen, Cw-1 alpha chain|human leukocyte antigen-C alpha chain|MHC class I antigen Cw*7|HLA-C|MHC class I antigen heavy chain HLA-C",Q8054,,
+HLA,major histocompatibility complex,Q423163,6,0,2,"set of genes for cell surface proteins essential for the acquired immune system to recognize foreign molecules in vertebrates, which in turn determines histocompatibility",MHC,Q78855299,Q78855299|Q22330383,Major histocompatibility complex
+HLA,"DNA probes, HLA",Q50573422,6,0,2,DNA probes specific for the human leukocyte antigen genes,"HLA DNA Probes|Histocompatibility Antigen DNA Probes|Human Leukocyte Antigen DNA Probes|DNA Probes, Histocompatibility Antigen|HLA DNA Probe",,Q50430203,
+HLA,Human Leukocyte Antigen Typing and Tumor Antigen Expression Profiling,Q63595891,6,0,2,clinical trial,,Q30612,,
+HLA,Human Leukocyte Antigen-A*02:01-restricted Tumor Vessel Specific Peptide Vaccination for Advanced Pancreatic Cancer,Q65378200,6,0,2,clinical trial,,Q30612,,
+HLA,Human Leukocyte Antigen-A*2402-Restricted Tumor Vessel Specific Peptide Vaccination for Advanced Pancreatic Cancer,Q65378163,6,0,2,clinical trial,,Q30612,,
+HLA,Human Leukocyte Antigen (HLA)-Haploidentical Hematopoietic Stem Cell Transplantation for Patients With Aplastic Anemia,Q63834594,6,0,2,clinical trial,,Q30612,,
+HLA,Human leukocyte antigen class I and class II loci in multiple sclerosis susceptibility,Q59584639,6,0,2,doctoral thesis by Michael J. Chao,,Q187685,,
+HLA,HLA antigen changes in malignant cells: epigenetic mechanisms and biologic significance,Q37287152,6,0,2,scientific article published on October 2008,,Q13442814,,
+HLA,HLA antigens in Japanese patients with narcolepsy. All the patients were DR2 positive,Q70974817,6,0,2,scientific article published on 01 November 1984,,Q13442814,,
+HLA,HLA antigens and immunoregulatory T cells in ulcerative colitis associated with hepatobiliary disease,Q72116542,6,0,2,scientific article published on 01 March 1982,,Q13442814,,
+HLA,HLA antigens in psoriatic arthritis,Q69573570,6,0,2,scientific article published on 01 June 1986,,Q13442814,,
+HLA,HLA antigens and rheumatoid arthritis. Association between HLA-DRw4 positivity and IgM rheumatoid factor production,Q71154413,6,0,2,scientific article published on 01 March 1980,,Q13442814,,
+HLA,HLA antigen-related restriction of T lymphocyte cytotoxicity to Epstein-Barr virus,Q36398950,6,0,2,scientific article published on 01 July 1980,,Q13442814,,
+HLA,HLA antigens in juvenile arthritis. Genetic basis for the different subtypes,Q34259022,6,0,2,scientific article published on 01 January 1983,,Q13442814,,
+HLA,HLA antigens in Behçet's disease: a reappraisal by a comparative study of Turkish and British patients,Q33552593,6,0,2,scientific article published on 01 August 1980,,Q13442814,,
+HLA,HLA antigens and age at diagnosis of insulin-dependent diabetes mellitus,Q72222910,6,0,2,scientific article published on 01 February 1995,,Q13442814,,
+Woodcrest State College,Woodcrest State College,Q65048924,7,0,1,"public, college in Springfield, Queensland, Australia",,Q3914,,Woodcrest State College
+Woodcrest State College,Woodcrest State College,Q99950050,7,0,1,Co-educational public Prep to Year 12 school located in Ipswich,,Q3914,,
+Woodcrest State College,"University of California, Riverside",Q1075148,7,0,2,"public research university in Riverside, California, United States",UC Riverside|UCR|ucr.edu,Q62078547|Q615150|Q23002039,,"University of California, Riverside"
+Woodcrest State College,"University of California, Riverside",Q114542866,7,0,2,episode of Undercover Boss (S2 E22),,Q21191270,,
+Woodcrest State College,UC Riverside Highlanders,Q7864182,7,0,2,"intercollegiate sports teams of the University of California, Riverside","UCR|California, Riverside athletics|University of California, Riverside athletics|University of California, Riverside Highlanders|UCR Highlanders|Highlanders",Q2367225,,UC Riverside Highlanders
+Woodcrest State College,"University of California, Riverside Library",Q58037973,7,0,2,"academic library of University of California, Riverside",UCR Libraries|UCR Library|University of California Riverside libraries|UC Riverside Library|UC Riverside Libraries,Q856234|Q26271642,,
+Woodcrest State College,UC Riverside Student Recreation Center,Q7864187,7,0,2,"arena in California, US","SRC Arena|University of California, Riverside arena",Q641226,,UC Riverside Student Recreation Center
+Woodcrest State College,"University of California, Riverside Citrus Variety Collection",Q1189003,7,0,2,"collection of citrus in Riverside, United States",UCR Citrus Variety Collection|Citrus Variety Collection|CVC,Q4915239,,UC Riverside Citrus Variety Collection
+Woodcrest State College,"University of California, Riverside campus",Q7895178,7,0,2,,,Q209465,,"University of California, Riverside campus"
+Woodcrest State College,"University of California, Riverside Botanic Gardens",Q3456702,7,0,2,"botanical gardens in Riverside, California",,Q167346,,UC Riverside Botanic Gardens
+Woodcrest State College,"University of California, Riverside Graduate School of Education",Q7895174,7,0,2,Institute of Education at the University of California,,Q4671277,,UCR Graduate School of Education
+Woodcrest State College,"University of California, Riverside Insectary and Quarantine Facilities",Q7895176,7,0,2,Quarantine,,,,UC Riverside Insectary and Quarantine Facilities
+Woodcrest State College,"California State University, San Bernardino",Q1026944,7,0,2,"public university in San Bernardino, California, United States",CSUSB|Cal State San Bernardino|CSU San Bernardino|csusb.edu|California State University San Bernardino,Q3918|Q23002039|Q5772674,,"California State University, San Bernardino"
+Woodcrest State College,Cal State San Bernardino Coyotes,Q5018228,7,0,2,"the athletics teams of Cal State University, San Bernardino","California State University, San Bernardino athletics|Cal State SB athletics|Cal State SB Coyotes",Q2367225,,Cal State San Bernardino Coyotes
+Woodcrest State College,"California State University, San Bernardino College of Extended and Global Education",Q5014413,7,0,2,academic department for online/distance learning at San Bernardino State University,San Bernardino State College of Extended and Global Education|CSU San Bernardino College of Extended and Global Education|CSUSB College of Extended and Global Education,Q189004,,CSUSB College of Extended Learning
+Woodcrest State College,"California State University, San Bernardino Palm Desert Campus",Q5021105,7,0,2,,,Q209465,,"California State University, San Bernardino Palm Desert Campus"
+Woodcrest State College,CSUSB College of Natural Sciences,Q5014414,7,0,2,College of CSUSB,"California State University, San Bernardino College of Natural Sciences",,,CSUSB College of Natural Sciences
+Kaiserhof,Kaiser und Höfe,Q107208616,8,0,1,personnel database of the courtiers of the Austrian Habsburgs in the early modern period,,Q8513,,
+Kaiserhof,Kaiserhof,Q83627400,8,0,1,"former hotel, theatre and cinema in Neumünster, Germany",,Q27686|Q24354|Q41253|Q19860854,,
+Kaiserhof,Kaiserhof,Q1802242,8,0,1,"school in Meran, South Tyrol",,Q3914|Q1244442,,
+Kaiserhof,Kaiserhof,Q16708057,8,0,1,"building in Quedlinburg, Germany",,Q41176,,
+Kaiserhof,Kaiserhof,Q122423454,8,0,1,courtyard of the Munich residence,Emperor's Court,Q309250,,
+Kaiserhof,Kaiserhof,Q28791171,8,0,1,"building in Eckernförde, Germany",Vogelsang 45,Q41176,,
+Kaiserhof,Kaiserhof,Q68330560,8,0,1,"building in Karlsruhe, Germany",,Q41176,,
+Kaiserhof,Kaiserhof,Q103986337,8,0,1,"street in Eitorf, North Rhine-Westphalia, Germany",,Q79007,,
+Kaiserhof,Kaiserhof,Q111390245,8,0,1,"hotel in Karlsruhe, Germany",,Q27686,,
+Kaiserhof,Kaiserhof Hotel,Q135991987,8,0,1,"former hotel in Chicago, Illinois",Hotel Kaiserhof,Q27686,,
+Bradford College,Bradford College,Q4954635,9,0,1,Yorkshire FE and HE college,,Q189004|Q21822439,,Bradford College
+Bradford College,Bradford College,Q4954640,9,0,1,former US liberal arts college,Bradford Junior College|Bradford Academy,Q3914,,Bradford College (United States)
+Bradford College,University of Adelaide College,Q4954633,9,0,1,university-preparatory school in South Australia,Bradford College,Q428602,,University of Adelaide College
+Bradford College,Bradford College,Q97336761,9,0,1,secondary school in South Africa,,Q159334,,
+Bradford College,Bradford College Textile Archive,Q47396097,9,0,1,UK archive,Bradford Textile Archive,Q166118,,
+Bradford College,Bradford College Bolton Royd,Q26425917,9,0,1,"architectural structure in Bradford, West Yorkshire, England, UK",,Q811979,,
+Bradford College,"Bradford College, Old Building",Q26426072,9,0,1,"building in Bradford, West Yorkshire, England, UK",,Q41176,,
+Bradford College,"Bradford College, Cathedral Building",Q26426203,9,0,1,"building in Bradford, West Yorkshire, England, UK",,Q41176,,
+Bradford College,Bradford College Grove Building,Q26426081,9,0,1,"building in Bradford, West Yorkshire, England, UK",,Q41176,,
+Bradford College,Bradford College,Q4954631,9,0,1,Wikimedia disambiguation page,,Q4167410,,Bradford College (disambiguation)
+Bradford College,University of Bradford,Q954035,9,0,2,"University in Bradford, United Kingdom",The University of Bradford|Bradford University|Bradford Institute of Technology|Bradford Technical College,Q875538|Q43229|Q2385804|Q3918|Q5341295,,University of Bradford
+Bradford College,University of Bradford - School of Pharmacy,Q101010451,9,0,2,faculty of pharmacy,,Q10514115,,
+Bradford College,University of Bradford School of Archaeological and Forensic Sciences,Q109612321,9,0,2,higher education institution in the United Kingdom,,Q4671277,,
+Bradford College,University of Bradford Act 1967,Q110283161,9,0,2,Local Act of Parliament of the United Kingdom,"1967 c. xxvi|1967 c xxvi|University of Bradford Act, 1967",Q100165600,,
+Bradford College,University of Bradford Institute of Cancer Therapeutics,Q101046146,9,0,2,research institute,,Q31855,,
+Bradford College,University of Bradford Union,Q7895128,9,0,2,"students' union for the University of Bradford in Bradford, England",,Q877998,,University of Bradford Union
+Bradford College,University of Bradford School of Engineering,Q101010449,9,0,2,academic department,,Q2467461,,
+Bradford College,University of Bradford Faculty of Health Studies,Q101010445,9,0,2,faculty,,Q180958,,
+Bradford College,University of Bradford Division of Chemical and Forensic Sciences,Q101046129,9,0,2,academic department,,Q2467461,,
+Bradford College,University of Bradford Division of Radiography,Q101046138,9,0,2,academic department,,Q2467461,,
+Kollegium Kalksburg,Kollegium Kalksburg,Q1257017,10,0,1,"school in Liesing, Vienna",Kalksburg College,Q41176|Q3914,,Kalksburg College
+Kollegium Kalksburg,Kollegium Kalksburg,Q1231597,10,0,1,Austrian music trio,,Q215380,,
+Erasmus College,Erasmus College,Q2293386,11,0,1,"school in Zoetermeer, the Netherlands",,Q3914,,
+Erasmus College,Erasmus College,Q22042698,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Erasmus College,Erasmus University Rotterdam,Q633529,11,0,2,public research university in the Netherlands,EUR|Erasmus University|eur.nl,Q875538,,Erasmus University Rotterdam
+Erasmus College,Erasmus University Rotterdam open access policy,Q42023135,11,0,2,,,Q2000006,,
+Erasmus College,Erasmus MC,Q3126873,11,0,2,"hospital in Rotterdam, Netherlands",Erasmus University Medical Center|Erasmus Medical Center|Erasmus Medical Centre|erasmusmc.nl,Q1059324|Q16917|Q43229,,Erasmus MC
+Erasmus College,Sophia Children's Hospital,Q2593465,11,0,2,"children's hospital in Rotterdam, Netherlands",Erasmus Medisch Centrum Sophia kinderziekenhuis|Erasmus MC Sophia|Sophia Kinderziekenhuis,Q644264|Q16917,,Erasmus MC Sophia
+Erasmus College,Erasmus MC Cancer Institute,Q100956083,11,0,2,organization,,Q4287745,,
+Erasmus College,Daniel den Hoedkliniek,Q36423143,11,0,2,former hospital,"Erasmus MC Kanker Instituut, locatie Daniel den Hoed",Q64578911,,
+Erasmus College,Erasmus MC Transplant Institute,Q114340014,11,0,2,"healthcare organization in Rotterdam, Netherlands",Erasmus Medical Center Transplant Institute,Q4287745,,
+Erasmus College,Erasmus MC building,Q125679178,11,0,2,"faculty building at Dr. Molenwaterplein 40, West, Rotterdam, the Netherlands",,Q19844914|Q39364723,,
+Erasmus College,Erasmus MC Hart en Vaat Instituut,Q120983223,11,0,2,"healthcare organization in Rotterdam, Netherlands",Erasmus MC Cardiovascular Institute,Q4287745,,
+Erasmus College,Erasmus MC Foundation,Q137270834,11,0,2,nonprofit organisation from the Netherlands,,Q163740,,
+Erasmus College,Erasmus MC voorheen Ziekenhuis Dijkzigt,Q104427503,11,0,2,"building in Rotterdam, the Netherlands",,Q41176,,
+Erasmus College,Erasmus University College,Q18712206,11,0,2,the undergraduate college of Erasmus University Rotterdam,,Q3918,,Erasmus University College
+Erasmus College,Erasmus University: an innovative program in health care policy and management,Q52221094,11,0,2,scientific article published in January 1993,,Q13442814,,
+Lilienthal-Gymnasium,Lilienthal-Gymnasium,Q1540279,12,0,1,high school in Germany,,Q1542966,,
+Lilienthal-Gymnasium,lycée Lilienthal,Q1825027,12,0,1,"school in Anklam, Germany",,Q3914,,
+Lilienthal-Gymnasium,Lilienthal-Gymnasium,Q1825024,12,0,1,Wikimedia disambiguation page,,Q4167410,,
+Zandvliet,Zandvliet,Q137477005,13,0,1,Dutch meat brand,,Q16323605,,
+Zandvliet,Zandvliet,Q2637926,13,0,1,"town in Belgium, part of Antwerp",,Q486972|Q532,,Zandvliet
+Zandvliet,Zandvliet,Q37548935,13,0,1,family name,,Q101352,,
+Zandvliet,Zandvliet,Q74302541,13,0,1,,,Q5,,
+Zandvliet,Zandvliet,Q2284781,13,0,1,school in The Hague,,Q3914,,
+Zandvliet,Zandvliet,Q31674243,13,0,1,mountain in South Africa,,Q8502,,
+Zandvliet,Zandvliet,Q18951592,13,0,1,"street in Veghel, the Netherlands",,Q79007,,
+Zandvliet,Zandvliet,Q18951590,13,0,1,"street in Boxtel, the Netherlands",,Q79007,,
+Zandvliet,Zandvliet Road,Q137583825,13,0,1,"road in Macassar, Cape Town, South Africa",,Q79007,,
+Zandvliet,Zandvliet Vleeswaren II B.V.,Q137476994,13,0,1,Dutch meat business,NL 286 EG,Q4830453,,
+McCarthy Catholic College,McCarthy Catholic College,Q6800185,14,0,1,school in Tamworth,,Q3914|Q9826,,"McCarthy Catholic College, Tamworth"
+McCarthy Catholic College,"McCarthy Catholic College, Emu Plains",Q65081140,14,0,1,independent co-educational secondary day school in Australia,,Q3914,,"Penola Catholic College, Emu Plains"
+McCarthy Catholic College,McCarthy Catholic College,Q63114946,14,0,1,Wikimedia disambiguation page,,Q4167410,,McCarthy Catholic College
+Kantonsschule Frauenfeld,Kantonsschule Frauenfeld,Q1728110,15,0,1,"school in Frauenfeld, Switzerland",,Q3914,,
+Kantonsschule Frauenfeld,Kantonsschule (building),Q29882883,15,0,1,"School building in Frauenfeld in the canton of Thurgau, Switzerland",Kantonsschule Frauenfeld,Q811979|Q1244442,,
+St Ursula's College,St Ursula's College,Q7402254,16,0,1,independent single-sex secondary day school in Australia,St Ursula's College Kingsgrove,Q3914|Q9826,,"Saint Ursula's College, Kingsgrove"
+St Ursula's College,"St Ursula's College, Toowoomba",Q7595596,16,0,1,"independent secondary boarding and day school in Toowoomba, Queensland, Australia",,Q3914,,"St Ursula's College, Toowoomba"
+St Ursula's College,"St Ursula's College, Yeppoon",Q7595598,16,0,1,"secondary girls school in Yeppoon, Queensland, Australia",,Q3914,,"St Ursula's College, Yeppoon"
+St Ursula's College,St Ursula's College,Q16796009,16,0,1,Wikimedia disambiguation page,,Q4167410,,St Ursula's College
+St Ursula's College,Ursuline College,Q7901303,16,0,2,"educational institution in Pepper Pike, Ohio, U.S.",,Q3918|Q23002054,,Ursuline College
+St Ursula's College,Ursuline College,Q7901305,16,0,2,"separate high school in Chatham, Ontario, Canada",,Q9826,,Ursuline College Chatham
+St Ursula's College,Ursuline College,Q7901304,16,0,2,"school in Kent, UK",,Q159334|Q1138671|Q4671329,,"Ursuline College, Westgate-on-Sea"
+St Ursula's College,Ursuline College Sligo,Q96413069,16,0,2,"voluntary secondary school in Sligo, County Sligo, Ireland",,Q17048668,,Ursuline College Sligo
+St Ursula's College,Ursuline College Bookstore,Q99475666,16,0,2,"bookshop in Pepper Pike, OH, United States of America",,Q200764,,
+St Ursula's College,Ursuline Arrows,Q104870114,16,0,2,intercollegiate sports teams of Ursuline College,Ursuline College athletics,Q2367225,,Ursuline Arrows
+St Ursula's College,Ursuline College,Q140321122,16,0,2,Wikimedia disambiguation page,,Q4167410,,Ursuline College (disambiguation)
+St Ursula's College,Ursuline Academy,Q14685794,16,0,2,"private Catholic girls' school in Wilmington, Delaware, United States",,Q3914,,Ursuline Academy (Delaware)
+St Ursula's College,Ursuline Academy of Dallas,Q7901301,16,0,2,"school in Dallas, Texas, United States",Ursuline Academy|Ursuline,Q428602,,Ursuline Academy of Dallas
+St Ursula's College,Ursuline Academy,Q7901294,16,0,2,"Catholic high school for girls in Blue Ash, Ohio, United States",UA,Q3914,,"Ursuline Academy (Cincinnati, Ohio)"
+St Ursula's College,Ursuline Academy,Q7901299,16,0,2,"private, all-girls school in New Orleans, Louisiana, United States",,Q3914,,Ursuline Academy (New Orleans)
+St Ursula's College,Ursuline Academy,Q7901298,16,0,2,"private secondary school in Springfield, Illinois, USA",,Q3914,,Ursuline Academy (Illinois)
+St Ursula's College,Ursuline Academy,Q7901297,16,0,2,"historic building in Montana, United States",Ursuline Academy Boarding and Day School|Ursuline Centre,Q35112127|Q1128397|Q1138671,,"Ursuline Academy (Great Falls, Montana)"
+St Ursula's College,Ursuline Academy,Q110000186,16,0,2,"building in San Antonio, Bexar County, Texas",,Q41176,,"Ursuline Academy (San Antonio, Texas)"
+St Ursula's College,Ursuline Academy,Q7901295,16,0,2,"private school in Dedham, , Massachusetts, United States",,Q3914,,"Ursuline Academy (Dedham, Massachusetts)"
+St Ursula's College,Ursuline Academy,Q7901300,16,0,2,all-girls high school near St. Louis,,Q3914,,"Ursuline Academy (Oakland, Missouri)"
+St Ursula's College,Victoria Hall,Q7926750,16,0,2,"building in Pittsburgh, USA",Ursuline Academy,Q1244442,,Victoria Hall (Pittsburgh)
+Luisenschule,Luisenschule,Q1876719,17,0,1,"school in Ascherleben, Germany",,Q3914,,
+Luisenschule,Luisenschule,Q106591775,17,0,1,"school in Kassel, Germany",,Q667471,,
+Luisenschule,Luisenschule,Q115523101,17,0,1,"elementary school in Lahr/Schwarzwald, Germany",,Q56345406,,
+Luisenschule,Luisenschule (Posen),Q32892865,17,0,1,Polish private school,,,,Luisenschule (Posen)
+Luisenschule,Luisenschule (Görlitz),Q49610110,17,0,1,"school in Innenstadt (Görlitz), Germany",,Q3914,,
+Luisenschule,Luisenschule Essen,Q16831761,17,0,1,,,Q166118,,
+Luisenschule,Luisenschule Essen,Q1876723,17,0,1,"school building in Essen, Germany",,Q3914|Q41176,,
+Luisenschule,Duwockskamp 1,Q107428527,17,0,1,building in Hamburg,,Q22908|Q1244442,,
+Luisenschule,Schulgebäude Große Steinstraße 60,Q100321199,17,0,1,,,Q1244442,,
+Luisenschule,Scheffelstraße 14 (Osterode am Harz),Q125522764,17,0,1,"building in Osterode am Harz, Germany",,Q12020836,,
+Luisenschule,Luisen-Gymnasium Düsseldorf,Q1598013,17,0,2,school in Düsseldorf,,Q1542966,,
+Luisenschule,Luisen-Gymnasium Bergedorf,Q1876688,17,0,2,school in Germany,,Q55043,,
+Luisenschule,Luisen-Gymnasium Bergedorf Altbau,Q89216852,17,0,2,"school building in Bergedorf, Germany",,Q1244442,,
+Luisenschule,Luisenschule,Q1876721,17,0,2,Wikimedia disambiguation page,,Q4167410,,
+Wesley College,Wesley College,Q7983897,18,0,1,"independent school in Victoria, Australia",,Q9826|Q3914|Q159334|Q9842,,"Wesley College, Melbourne"
+Wesley College,Wesley College,Q7983893,18,0,1,"boarding school in Dublin, Ireland",,Q269770|Q708676,,"Wesley College, Dublin"
+Wesley College,Wesley College,Q7983896,18,0,1,"independent day and boarding school in Perth, Western Australia","Wesley College, Perth",Q9826|Q269770|Q163740,,"Wesley College, Perth"
+Wesley College,Wesley College,Q3567379,18,0,1,"state-integrated secondary (year 7-15) school in Pukekohe, New Zealand",,Q159334|Q15134891|Q269770,,"Wesley College, Auckland"
+Wesley College,Wesley College,Q7983892,18,0,1,"liberal arts college in Delaware, United States",Wesley Collegiate Institute,Q23002054|Q1377182,,Wesley College (Delaware)
+Wesley College,Wesley College,Q8280788,18,0,1,private primary and secondary school in Sri Lanka,,Q3914,,"Wesley College, Colombo"
+Wesley College,"Wesley College, Sheffield",Q7983887,18,0,1,Defunct school in England,,Q3914,,"Wesley College, Sheffield"
+Wesley College,Wesley College,Q7983894,18,0,1,"college that existed in Winnipeg, Manitoba, Canada from 1888 to 1938",,Q4671277,,Wesley College (Manitoba)
+Wesley College,Wesley College,Q7983895,18,0,1,"former Bible college in Mississippi, United States",,Q576603,,Wesley College (Mississippi)
+Wesley College,King Edward VII Upper School,Q72590539,18,0,1,"building in Sheffield, South Yorkshire, England, UK",Wesley College,Q1244442,,
+Wesley College,Wesleyan College,Q3446272,18,0,2,educational facility in Georgia,Wesleyan,Q6540832|Q8031137|Q23002054,,Wesleyan College
+Wesley College,Lucy Lester Willet Memorial Library,Q87774305,18,0,2,"academic library at Wesleyan College in Macon, Georgia, USA",Wesleyan College Library,Q856234,,
+Wesley College,Wesleyan College of Manila,Q28448827,18,0,2,"Christian college in Pasay, Philippines",,Q4671277,,Wesleyan College of Manila
+Wesley College,Wesleyan College Lake Dam,Q34950789,18,0,2,"dam in Bibb County, Georgia, United States of America",,Q12323,,
+Wesley College,Wesleyan Wolves,Q104530687,18,0,2,university sports program,Wesleyan College athletics|Wesleyan Pioneers,Q2367225,,Wesleyan Wolves
+Wesley College,Wesleyan College Historic District,Q115950322,18,0,2,"historic district in Macon, Georgia",,Q15243209,,
+Wesley College,Wesleyan College,Q19398636,18,0,2,Wikimedia disambiguation page,,Q4167410,,
+Wesley College,Wesley Theological Seminary,Q7984013,18,0,2,"United Methodist Church seminary in Washington, D.C",,Q233324|Q23002054,,Wesley Theological Seminary
+Concordia College,Concordia College,Q5158956,19,0,1,"college in Moorhead, Minnesota",,Q189004|Q23002054,,"Concordia College (Moorhead, Minnesota)"
+Concordia College,Concordia University Wisconsin,Q5159009,19,0,1,"Lutheran university near Milwaukee, Wisconsin",CUW|Concordia College|Concordia College Milwaukee,Q902104|Q23002054|Q1743327,,Concordia University Wisconsin
+Concordia College,"Concordia University, Nebraska",Q5159000,19,0,1,"Lutheran university in Seward and Lincoln, Nebraska, US","Concordia Teachers College|Concordia College|Concordia Nebraska|Concordia University Nebraska|CUNE|Concordia College Nebraska|Concordia University, Seward",Q3918|Q23002054,,Concordia University Nebraska
+Concordia College,Concordia University Texas,Q2992101,19,0,1,"private university in Austin, Texas, United States","Concordia University, Austin|Concordia Lutheran College|Concordia College",Q3918|Q23002054,,Concordia University Texas
+Concordia College,Concordia College,Q5158957,19,0,1,college in South Australia,,Q3914,,Concordia College (South Australia)
+Concordia College,Concordia University of Edmonton,Q5159003,19,0,1,"Independent publicly funded university in Edmonton, Alberta, Canada",Concordia University College of Alberta|Concordia College|CUE|CUCA|concordia.ab.ca,Q108415700|Q108431928,,Concordia University of Edmonton
+Concordia College,Concordia College,Q5142951,19,0,1,college in Manila,Colegio de la Inmaculada Concepcion de la Concordia,Q189004|Q23002042,,Concordia College (Manila)
+Concordia College,Concordia Lutheran College,Q5158969,19,0,1,"independent primary and secondary school in Toowoomba, QLD, Australia",Concordia College,Q3914,,Concordia Lutheran College
+Concordia College,Concordia University Chicago,Q5159004,19,0,1,"private Lutheran university in River Forest, Illinois",CUC|Concordia University River Forest|Addison Teachers Seminary|Concordia College River Forest|Concordia Teachers' College|CURF,Q23002054|Q1743327|Q902104,,Concordia University Chicago
+Concordia College,Concordia College New York,Q5158955,19,0,1,"Lutheran Liberal Art college in New York, closed in 2021",Concordia-New York|Concordia|Concordia-Bronxville|Concordia Collegiate Institute,Q23002054|Q1743327,,Concordia College (New York)
+Concordia College,Concordia University,Q326342,19,0,2,"university in Montreal, Quebec, Canada","Sir George Williams University|Loyola College, Montreal|Concordia university (Montréal, Canada)|Concordia|concordia.ca",Q3551519|Q708676,,Concordia University
+Concordia College,Concordia University Portland,Q5158999,19,0,2,"Lutheran University in Portland, Oregon. Closed in 2020.",Concordia College Portland|Concordia University,Q3918|Q23002054,,Concordia University (Oregon)
+Concordia College,Concordia University St. Paul,Q5159001,19,0,2,"private Lutheran university in St. Paul, Minnesota","Concordia University-Saint Paul|CSP|Concordia University Saint Paul|Concordia University, St. Paul",Q902104|Q23002054,,"Concordia University, St. Paul"
+Concordia College,Concordia University Irvine,Q5158998,19,0,2,Lutheran university in California,Christ College|CUI|Concordia Irvine,Q3918|Q23002054|Q1743327,,Concordia University Irvine
+Concordia College,Concordia University Ann Arbor,Q5158997,19,0,2,"Lutheran university in Ann Arbor, Michigan",CUAA|Concordia University Michigan|Concordia College Ann Arbor|Concordia Lutheran Junior College,Q23002054|Q1743327|Q902104,,Concordia University Ann Arbor
+Concordia College,Concordia University System,Q5159008,19,0,2,Private universities belonging to the Lutheran Church--Missouri Synod.,,Q20857129,,Concordia University System
+Clinton College,Clinton College,Q5134085,20,0,1,"former private college in New Middleton, Tennessee, United States",,Q189004,,Clinton College (Tennessee)
+Clinton College,Clinton College,Q5134167,20,0,1,"Christian college in South Carolina, U.S.",Clinton Normal and Industrial Institute|Clinton Junior College,Q3914|Q1620945|Q23002054,,Clinton College (South Carolina)
+Clinton College,Clinton College,Q5134082,20,0,1,"defunct college in Clinton, Kentucky",,,,Clinton College (Kentucky)
+Clinton College,Clinton College,Q5134081,20,0,1,Wikimedia disambiguation page,,Q4167410,,Clinton College
+Clinton College,Clinton Community College,Q5134090,20,0,2,"community college located in Plattsburgh, New York","Clinton Community College, New York",Q1336920|Q23002039,,Clinton Community College (New York)
+Clinton College,Clinton Community College,Q5134088,20,0,2,"community college located in Clinton, Iowa","Clinton Community College, Iowa",Q1336920,,Clinton Community College (Iowa)
+Clinton College,Clinton Community College Neighborhood Park,Q31815400,20,0,2,"park in Clinton County, Iowa, United States of America",,Q22698,,
+Clinton College,Clinton Community College Bookstore,Q99433881,20,0,2,"bookstore in Plattsburgh, NY, United States of America",,Q200764,,
+Clinton College,Clinton Community College,Q5134089,20,0,2,Wikimedia disambiguation page,,Q4167410,,Clinton Community College
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q1596417,21,0,1,"school in Heikendorf, Germany",Heinrich-Heine-Schule Heikendorf|Heinrich-Heine-Gymnasium Heikendorf,Q3914|Q1542966,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule Darmstadt,Q1596415,21,0,1,"school in Darmstadt, Germany",,Q3914,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule Großsedlitz,Q49460573,21,0,1,"school in Heidenau, Germany",,Q3914,,
+Heinrich-Heine-Schule,Gemeinschaftsschule Heinrich Heine,Q87742132,21,0,1,"school in Halle (Saale), Germany",,Q1501026,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule,Q99737961,21,0,1,"elementary school in Jena, Germany",,Q9842,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule,Q133931985,21,0,1,,,Q1501026,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule (Calbe),Q1596413,21,0,1,school,,Q3914,,
+Heinrich-Heine-Schule,Heinrich-Heine-Schule,Q1596411,21,0,1,Wikimedia disambiguation page,,Q4167410,,
+Heinrich-Heine-Schule,Heinrich Heine Gymnasium,Q516444,21,0,2,gymnasium in Kaiserslautern,,Q1542966,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q1596400,21,0,2,Public high school in Hamburg,,Q55043|Q1080794|Q1244442,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q1596401,21,0,2,"school in Mettmann, Germany",,Q1542966,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium (Cologne),Q112153207,21,0,2,"school in Cologne, Germany",Heinrich-Heine-Gymnasium,Q55043,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium München,Q104903567,21,0,2,school in Germany,Städtisches Heinrich-Heine-Gymnasium München,Q1542966|Q1244442,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q105812776,21,0,2,"school in Bottrop, Germany",,Q3914,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q99336893,21,0,2,"school in Oberhausen, Germany",,Q3914,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium (Dortmund),Q1596397,21,0,2,school,,Q1542966,,
+Heinrich-Heine-Schule,Heinrich-Heine-Gymnasium,Q48541012,21,0,2,Wikimedia disambiguation page,Heinrich Heine Gymnasium,Q4167410,,
+Villa Maria,Villa María,Q2525523,22,0,1,"city in Córdoba, Argentina",Villa Maria,Q5770918|Q15284,,"Villa María, Córdoba"
+Villa Maria,Villa María station,Q6162268,22,0,1,station on the Lima metro,,Q928830|Q22808404,,Villa María metro station (Lima)
+Villa Maria,Villa Maria,Q112320032,22,0,1,"villa in Griante, Italy",,Q3950,,
+Villa Maria,Villa Maria,Q18046676,22,0,1,"building in Colera, Catalonia",,Q3947,,
+Villa Maria,Villa Maria,Q10391465,22,0,1,"palace on Terceira, Açores, Portugal",,Q16560,,
+Villa Maria,Villa-Maria,Q1480912,22,0,1,"metro station on the Orange Line, Montreal, Quebec, Canada",,Q928830|Q22808403,,Villa-Maria station (Montreal Metro)
+Villa Maria,Villa Maria,Q3558663,22,0,1,"private Catholic girls' high school in Montreal, Quebec, Canada",,Q1244442|Q159334|Q423208,,Villa Maria (school)
+Villa Maria,Villa Malta,Q14547530,22,0,1,"villa in Cologne, Germany",Villa Angonia|Villa Maria,Q3950|Q1577547,,Villa Malta (Cologne)
+Villa Maria,Villa Maria,Q20861840,22,0,1,painting by Catharine Harley Grant,,Q3305213,,
+Villa Maria,Villa María,Q1249254,22,0,1,telenovela,Villa Maria,Q5398426,,
+Villa Maria,Maria R Villa,Q90765053,22,0,2,researcher (ORCID 0000-0001-8780-3700),Maria Villa,Q5,,
+Villa Maria,Maria Villa,Q56293445,22,0,2,"semidetachad pair of villas in Glasgow City, Scotland, UK",,Q3950,,
+Villa Maria,Maria Villa,Q97739467,22,0,2,Colombian association football player,,Q5,,
+Villa Maria,María Villalba-Esparza,Q101129863,22,0,2,researcher,,Q5,,
+Villa Maria,Maria Villano,Q107986848,22,0,2,Italian philologist,,Q5,,
+Villa Maria,María Villaseñor-Cervantes Cueva,Q110366224,22,0,2,26 Apr 1721,,Q5,,
+Villa Maria,Maria Villac,Q108896560,22,0,2,,,Q5,,
+Villa Maria,María Villares-Varela,Q92369767,22,0,2,researcher (ORCID 0000-0002-0137-7104),María Villares Varela,Q5,,
+Villa Maria,Maria Bellonci,Q1080026,22,0,2,Italian writer (1902–1986),"Maria Villavecchia|Bellonci, Maria|Maria Villavecchia Bellonci",Q5,,Maria Bellonci
+Villa Maria,María Villalba Orero,Q84348345,22,0,2,researcher,,Q5,,
+King's School,King's School,Q6411088,23,0,1,"independent co-educational secondary school in Bruton, Somerset, England","King's School, Bruton|King's Bruton",Q269770|Q2418495|Q708676,,"King's School, Bruton"
+King's School,King's School,Q6411091,23,0,1,"private full primary school in Auckland, New Zealand",King’s Preparatory School|King’s Preparatory School Auckland|King’s Prep School,Q9842|Q423208|Q163740,,"King's School, Auckland"
+King's School,King's School,Q2913235,23,0,1,"secondary school in Gütersloh, Germany",,Q3914,,King's School (Gütersloh)
+King's School,"King's School, Rochester",Q6411092,23,0,1,"private day and boarding school in Rochester, Medway, Kent, England",King's,Q269770|Q2418495|Q708676,,"King's School, Rochester"
+King's School,The King's School Canterbury,Q3360332,23,0,1,"school in Kent, UK","The King's School, Canterbury|King's School, Canterbury",Q269770|Q2418495,,"The King's School, Canterbury"
+King's School,"The King's School, Worcester",Q7744481,23,0,1,"school in Worcestershire, UK","King's School, Worcester|King's Worcester|The King's School",Q3914|Q2418495,,"King's School, Worcester"
+King's School,The King's School,Q3521485,23,0,1,"private school in Sydney, Australia","The King's School, Parramatta|King's School, Parramatta|King's School (Parramatta, Sydney)",Q423208|Q3914,,"The King's School, Parramatta"
+King's School,The King's School in Macclesfield,Q7744474,23,0,1,"school in Cheshire East, Cheshire, England, United Kingdom","Macclesfield Grammar School|The King's School, Macclesfield|King's School, Macclesfield",Q967098|Q2418495,,"King's School, Macclesfield"
+King's School,"The King's School, Grantham",Q7744473,23,0,1,"school in Lincolnshire, UK","King's School, Grantham|Grantham grammar school",Q967098|Q4671329|Q159334|Q1713379,,"The King's School, Grantham"
+King's School,The King's (The Cathedral) School,Q7744421,23,0,1,"school in Peterborough, UK","King's School, Peterborough",Q967098|Q4671329,,The King's (The Cathedral) School
+King's School,King's School,Q6411088,24,0,1,"independent co-educational secondary school in Bruton, Somerset, England","King's School, Bruton|King's Bruton",Q269770|Q2418495|Q708676,,"King's School, Bruton"
+King's School,King's School,Q6411091,24,0,1,"private full primary school in Auckland, New Zealand",King’s Preparatory School|King’s Preparatory School Auckland|King’s Prep School,Q9842|Q423208|Q163740,,"King's School, Auckland"
+King's School,King's School,Q2913235,24,0,1,"secondary school in Gütersloh, Germany",,Q3914,,King's School (Gütersloh)
+King's School,"King's School, Rochester",Q6411092,24,0,1,"private day and boarding school in Rochester, Medway, Kent, England",King's,Q269770|Q2418495|Q708676,,"King's School, Rochester"
+King's School,The King's School Canterbury,Q3360332,24,0,1,"school in Kent, UK","The King's School, Canterbury|King's School, Canterbury",Q269770|Q2418495,,"The King's School, Canterbury"
+King's School,"The King's School, Worcester",Q7744481,24,0,1,"school in Worcestershire, UK","King's School, Worcester|King's Worcester|The King's School",Q3914|Q2418495,,"King's School, Worcester"
+King's School,The King's School,Q3521485,24,0,1,"private school in Sydney, Australia","The King's School, Parramatta|King's School, Parramatta|King's School (Parramatta, Sydney)",Q423208|Q3914,,"The King's School, Parramatta"
+King's School,The King's School in Macclesfield,Q7744474,24,0,1,"school in Cheshire East, Cheshire, England, United Kingdom","Macclesfield Grammar School|The King's School, Macclesfield|King's School, Macclesfield",Q967098|Q2418495,,"King's School, Macclesfield"
+King's School,"The King's School, Grantham",Q7744473,24,0,1,"school in Lincolnshire, UK","King's School, Grantham|Grantham grammar school",Q967098|Q4671329|Q159334|Q1713379,,"The King's School, Grantham"
+King's School,The King's (The Cathedral) School,Q7744421,24,0,1,"school in Peterborough, UK","King's School, Peterborough",Q967098|Q4671329,,The King's (The Cathedral) School

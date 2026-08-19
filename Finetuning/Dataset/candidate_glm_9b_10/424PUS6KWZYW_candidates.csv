@@ -1,0 +1,52 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Mbuyuni,Mbuyuni,Q6799830,0,0,1,,,Q18691601,,Mbuyuni
+Mbuyuni,Mbuyuni,Q20620270,0,0,1,,,Q18691601,,
+Mbuyuni,Mbuyuni,Q20620287,0,0,1,,,Q18691601,,
+Mbuyuni,Mbuyuni Beach Village,Q111122652,0,0,1,hostel in Jambiani,,Q654772,,
+Mbuyuni,Mbuyuni,Q25618729,0,0,1,,,Q18691601,,
+Mbuyuni,Mbuyuni,Q63646951,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+Mbuyuni,Morogoro Municipal District,Q3710547,0,0,2,"district in Morogoro Region, Tanzania",Morogoro Urban District|Morogoro Municipal,Q2409750,,Morogoro Urban District
+Morogoro Urban District,Morogoro Municipal District,Q3710547,0,1,1,"district in Morogoro Region, Tanzania",Morogoro Urban District|Morogoro Municipal,Q2409750,,Morogoro Urban District
+Morogoro Urban District,Mbuyuni,Q6799830,0,1,2,,,Q18691601,,Mbuyuni
+Morogoro Urban District,Mbuyuni,Q20620270,0,1,2,,,Q18691601,,
+Morogoro Urban District,Mbuyuni,Q20620287,0,1,2,,,Q18691601,,
+Morogoro Urban District,Mbuyuni Beach Village,Q111122652,0,1,2,hostel in Jambiani,,Q654772,,
+Morogoro Urban District,Mbuyuni,Q25618729,0,1,2,,,Q18691601,,
+Morogoro Urban District,Mbuyuni,Q63646951,0,1,2,Wikimedia disambiguation page,,Q4167410,,
+Morogoro Urban District,Morogoro Region,Q458388,0,1,2,region of Tanzania,Morogoro,Q845820,,Morogoro Region
+Senani,Senani,Q63381232,1,0,1,,,Q18691601,,
+Senani,Senaning,Q19733027,1,0,1,"village in Sintang Regency, West Kalimantan, Indonesia",,Q26211545,,
+Senani,Senani,Q13096933,1,0,1,fictional character of the Mahabharata,,Q95074,Q19896979,
+Senani,Senani,Q24573026,1,0,1,hill in the Federated States of Micronesia,,Q54050,,
+Senani,Senaning,Q14720134,1,0,1,"village in Batang Hari Regency, Jambi, Indonesia",,Q26211545,,
+Senani,Senani Karunaratne,Q106889422,1,0,1,botanist,Karunaratne,Q5,,
+Senani,Senani,Q130563705,1,0,1,,,,,Senani
+Senani,Senani Karunaratne,Q96049598,1,0,1,researcher,,Q5,,
+Senani,Senani N H Rathnayake,Q91573368,1,0,1,researcher (ORCID 0000-0002-5631-7264),,Q5,,
+Senani,inanimate,Q51927539,1,0,1,grammatical and/or semantic category of nouns,,Q1250335,Q4423888,Inanimate
+Senani,Maswa District,Q6785741,1,0,2,"district in Simiyu Region, Tanzania",,Q2409750,,Maswa District
+Maswa District,Maswa District,Q6785741,1,1,1,"district in Simiyu Region, Tanzania",,Q2409750,,Maswa District
+Masoko,Masoko,Q3850828,2,0,1,Italian musical group,,Q215380,,
+Masoko,Masoko,Q21044720,2,0,1,,,Q486972,,
+Masoko,Masoko Solo,Q11771146,2,0,1,,Masoko,Q215380,,
+Masoko,Masoko,Q25619189,2,0,1,place in Rungwe District,,Q18691601,,"Masoko, Ward"
+Masoko,Masoko,Q31753490,2,0,1,"ward of Mbeya Region, Tanzania",,Q18691601,,
+Masoko,Masoko,Q22447067,2,0,1,mountain in Republic of the Congo,,Q8502,,
+Masoko,Dioscorea bulbifera,Q311239,2,0,1,species of plant,Air Potato|air yam|aerial yam|potato yam|bitter yam|cheeky yam|parsnip yam,Q16521,,Dioscorea bulbifera
+Masoko,Masokombinát Kladno,Q134894247,2,0,1,former Czech company,,Q4830453|Q6881511,,
+Masoko,Masokombinát Louny,Q134894649,2,0,1,Czech company,,Q4830453|Q6881511,,
+Masoko,Masokombinát Klatovy,Q134894648,2,0,1,Czech company,,Q4830453|Q6881511,,
+Mbeya Rural,Mbeya Rural,Q46949730,2,1,1,Electoral constituency of the National Assembly Tanzania,Mbeya Vijijini,Q192611,,
+Mbeya Rural,Mbeya District,Q6799682,2,1,1,"district of Mbeya Region, Tanzania",Mbeya Rural District,Q2409750,,Mbeya Rural District
+Mbeya Rural,Masoko,Q3850828,2,1,2,Italian musical group,,Q215380,,
+Mbeya Rural,Masoko,Q21044720,2,1,2,,,Q486972,,
+Mbeya Rural,Masoko Solo,Q11771146,2,1,2,,Masoko,Q215380,,
+Mbeya Rural,Masoko,Q25619189,2,1,2,place in Rungwe District,,Q18691601,,"Masoko, Ward"
+Mbeya Rural,Masoko,Q31753490,2,1,2,"ward of Mbeya Region, Tanzania",,Q18691601,,
+Mbeya Rural,Masoko,Q22447067,2,1,2,mountain in Republic of the Congo,,Q8502,,
+Mbeya Rural,Dioscorea bulbifera,Q311239,2,1,2,species of plant,Air Potato|air yam|aerial yam|potato yam|bitter yam|cheeky yam|parsnip yam,Q16521,,Dioscorea bulbifera
+Mbeya Rural,Masokombinát Kladno,Q134894247,2,1,2,former Czech company,,Q4830453|Q6881511,,
+Mbeya Rural,Masokombinát Louny,Q134894649,2,1,2,Czech company,,Q4830453|Q6881511,,
+Mbeya Rural,Masokombinát Klatovy,Q134894648,2,1,2,Czech company,,Q4830453|Q6881511,,
+Mbeya Rural,Mbeya Region,Q458382,2,1,2,region of Tanzania,,Q845820,,Mbeya Region
+Mbeya Rural,"Mbeya Regional Referral Hospital Laboratory, Tanzania",Q140869976,2,1,2,medical laboratory in Tanzania,,Q483242,,

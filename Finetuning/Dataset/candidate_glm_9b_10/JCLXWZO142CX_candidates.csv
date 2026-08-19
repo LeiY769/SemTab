@@ -1,0 +1,24 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Maffei1,Maffei 1,Q1194932,0,0,2,elliptical galaxy,,Q184348|Q192078|Q2154519|Q67206691|Q11282,,Maffei 1
+Maffei1,IC 342/Maffei Group,Q843331,0,0,2,group of galaxies,Maffei galaxies,Q1491746,,IC 342/Maffei Group
+Maffei1,Maffei 1 with the [ITAL]Hubble Space Telescope[/ITAL],Q56476833,0,0,2,scientific article published in Astronomical Journal,,Q13442814,,
+Maffei1,Maffei 1: a New Massive Member of the Local Group?,Q29011327,0,0,2,scientific article (publication date: 1971),,Q13442814,,
+Maffei1,"Maffei 1, and Companions",Q71889383,0,0,2,journal article; published in Nature on 1971-5,,Q13442814,,
+Maffei1,Maffei 1 as an interloper of the Local Group of galaxies and the mass of the Local Group,Q68573098,0,0,2,scientific article published in January 1991,,Q13442814,,
+Maffei1,Maffei 1 at two microns,Q68299387,0,0,2,scientific article published in January 1987,,Q13442814,,
+Maffei1,Maffei 1,Q12770718,0,0,2,Wikimedia disambiguation page,,Q4167410,,
+IC254,IC 254,Q3714729,1,0,1,galaxy in the constellation Cetus,,Q318|Q2488,,
+IC254,IC 2542,Q3689124,1,0,1,galaxy,,Q67206691|Q72802508,,
+IC254,IC 2548,Q3689118,1,0,1,galaxy,,Q318|Q67201586,,
+IC254,IC 2541,Q3689825,1,0,1,galaxy,,Q1931185|Q72802508,,
+IC254,IC 2545,Q3497447,1,0,1,,,Q644507|Q28738741|Q1931185|Q67206691,,
+IC254,IC 2540,Q3689138,1,0,1,galaxy,,Q318,,
+IC254,IC 2546,Q3689804,1,0,1,galaxy,,Q318,,
+IC254,IC 2543-1,Q3717529,1,0,1,galaxy,,Q318|Q67206691,,
+IC254,IC 2543-2,Q4740883,1,0,1,galaxy,,Q67206691|Q46587,,
+IC254,IC 2549,Q3689588,1,0,1,galaxy,,Q318|Q67206691,,
+IC254,International Chemical Identifier,Q203250,1,0,2,identifier for chemical substances,InChI,,Q6545185|Q119212846,International Chemical Identifier
+IC254,International chemical identifier for chemical reactions.,Q45751629,1,0,2,scientific article published on 22 March 2013,,Q58632367,,
+IC254,International Chemical Identifier software,Q135457215,1,0,2,identifier for chemical substances,,,Q7397,
+IC254,International chemical identifier for reactions (RInChI),Q28133207,1,0,2,scientific article (publication date: 24 October 2013),,Q13442814,,
+IC254,International chemical identifier for reactions (RInChI).,Q52983487,1,0,2,scientific article,,Q13442814,,

@@ -1,0 +1,36 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Jiangsu,Jiangsu,Q16963,0,0,1,province of China,Kiangsu|Jiangsu Province|Jiangsu Sheng|Kiangsu Province|Kiangsu Sheng|Chiang-su|Chiangsu|Chiangsu Province|Chiang-su Province|Chiangsu Sheng|Chiang-su Sheng|Province of Jiangsu|Province of Kiangsu|Province of Chiang-su|Province of Chiangsu|Modern Jiangsu|Kiang-su|Kiang Su|Jiangsu China|Jiang Su Sheng|Jiang Su,Q1615742,,Jiangsu
+Jiangsu,Kiangsu,Q9573865,0,0,1,province that once existed in the Republic of China,Jiangsu|Jiangsu Province,Q9319988,,
+Jiangsu,Jiangsu,Q28411809,0,0,1,province of the Qing Empire,Kiangsu|Kiang-su|Chiangsu|Chiang-su|Jiangsu Province|Kiangsu Province|Kiang-su Province|Chiangsu Province|Chiang-su Province|Province of Jiangsu|Province of Kiangsu|Province of Kiang-su|Province of Chiangsu|Province of Chiang-su|Qing Jiangsu|Qing-era Jiangsu|Jiangsu during the Qing Dynasty|Jiangsu under the Qing,Q56061|Q47092120,,
+Jiangsu,Jiangsu Rongsheng Heavy Industries,Q84419790,0,0,1,Chinese ship manufacturer,,Q190928,,
+Jiangsu,Jiangsu Provincial People's Congress Standing Committee,Q11134945,0,0,1,,,Q106548764,,
+Jiangsu,Jiangsu University,Q6191740,0,0,1,"university in Zhenjiang, Jiangsu, China",,Q3918,,Jiangsu University
+Jiangsu,Jiangsu F.C.,Q925648,0,0,1,dissolved association football team of China,Jiangsu Suning|Jiangsu Shuntian,Q476028,,Jiangsu F.C.
+Jiangsu,Jiangsu Yangzi Xinfu Shipbuilding,Q115168196,0,0,1,Chinese shipbuilding company,"Jiangsu Yangzi Xinfu Shipbuilding Co., Ltd.|Yangzi Xinfu Shipbuilding",Q190928|Q16274795,,
+Jiangsu,Jiangsu,Q13671692,0,0,1,"community in Changning District, Shanghai",,Q985488,,
+Jiangsu,Jiangsu Yangzijiang Shipbuilding,Q115162051,0,0,1,Chinese shipbuilding company,"Jiangsu Yangzijiang Shipbuilding Co., Ltd.",Q190928|Q16274795,,
+Jiangsu,Jiangsu Province Hospital,Q11134950,0,0,2,"hospital in Nanjing, Jiangsu, China",First Affiliated Hospital of Nanjing Medical University,Q4287745|Q16917,,Jiangsu Provincial People's Hospital
+Jiangsu,Jiangsu Province Intangible Cultural Heritage,Q19852963,0,0,2,wikimedia list article,,Q13406463,,
+Jiangsu,Natural Science Foundation of Jiangsu Province,Q45134565,0,0,2,government organization in People's Republic of China,Jiangsu Provincial Natural Science Foundation|Jiangsu Province Natural Science Foundation,Q2659904,,
+Jiangsu,Jiangsu Agri-animal Husbandry Vocational College,Q55453840,0,0,2,"education organization in Taizhou, China",Jiangsu Agriculture and Animal Husbandry Science and technology College|Jiangsu Province Animal Husbandry and Veterinary School|Jiangsu Animal Husbandry & Veterinary College|JSAHVC,Q2385804,,
+Jiangsu,Jiangsu Police Institute,Q11135076,0,0,2,"education organization in Nanjing, China",Jiangsu Province Public Security Academy|Jiangsu Public Security College|Jiangsu Police Officer College,Q2385804,,
+Jiangsu,Jiangsu Province's First Juvenile Correctional Institution,Q13974081,0,0,2,,,Q50231,,
+Jiangsu,Jiangsu Province Blood Center,Q43896079,0,0,2,"nonprofit organization in Nanjing, China",,Q163740,,
+Jiangsu,Jiangsu Shengze Hospital,Q30260510,0,0,2,hospital in China,Jiangsu Provincial People's Hospital Shengze Branch,Q4287745|Q16917,,
+Guangdong,Guangdong,Q15175,1,0,1,province of China,Kwangtung|Canton|Guangdong province|Guangdong Province|Canton Province|Province of Canton|Kwangtung Province|Province of Kwangtung|Kwang-tung|Kuang-tung|Kuang-tung Province|Guangdong Sheng|Kuang-tung Sheng|Kwantoung|Kwan-toung|Kwangtoung|Guang Dong Sheng,Q1615742,,Guangdong
+Guangdong,Kuangtung,Q9574619,1,0,1,"former province (1912-1950) of the Republic of China, replaced by a nearly identical province of the same name under the PRC",Republican Guangdong|Kuang-tung|ROC Guangdong|Province of Kwangtung|Guangdong Province|Kwangtung Province|Province of Guangdong|Quang-tong|Kuangtong|Quangtong|KMT Guangdong|Kuang-tong|Warlord-era Guangdong|Republican-era Guangdong|Guangdong,Q9319988|Q19953632,,"Kwangtung Province, Republic of China"
+Guangdong,Guangdong,Q28411078,1,0,1,"Province (1647-1911) of the Qing Empire, initially inclusive of modern Guangdong, Hainan, Hong Kong, Guangxi's coastal strip, and (notionally) Macao",Guangdong Province|Kuang-tung|Kuangtung|Kuang-tong|Kuangtong|Quang-tong|Quangtong|Qing Guangdong|Guangdong under the Qing|Guangdong under the Qing dynasty|Guangdong during the Qing|Guangdong during the Qing dynasty|Qing-era Guangdong|Qing Hainan|Hainan under the Qing|Hainan under the Qing dynasty|Hainan during the Qing|Hainan during the Qing dynasty|Qing-era Hainan|Kwangtung|Kwang-tung,Q19953632|Q47092120,,
+Guangdong,Guangdong,Q11061695,1,0,1,"Province of the Ming Empire, inclusive of modern Guangdong, Hainan, Macao, Hong Kong, and Guangxi's coastal strip",Kuang-tung|Kuangtung|Kuang-tong|Kuangtong|Quang-tong|Quangtong|Ming Guangdong|Guangdong under the Ming|Guangdong under the Ming dynasty|Guangdong during the Ming|Guangdong during the Ming dynasty|Guangdong Provincial Administration Commission|Guangdong Provincial Administration|Ming-era Guangdong|Ming Hainan|Hainan under the Ming|Hainan under the Ming dynasty|Hainan during the Ming|Hainan during the Ming dynasty|Ming-era Hainan|Kwangtung|Kwang-tung,Q11076354|Q19953632|Q11088057,,
+Guangdong,2185 Guangdong,Q148024,1,0,1,asteroid,Guangdong,Q3863,,2185 Guangdong
+Guangdong,Guangdong,Q22828081,1,0,1,Wikimedia permental duplicated item page,,Q21286738,,
+Guangdong,Guangdong University of Technology,Q716822,1,0,1,"public university in Guangzhou, Guangdong, China",Guǎngdōng Gōngyè Dàxué,Q3918|Q1371037,,Guangdong University of Technology
+Guangdong,Guangdong Second Provincial General Hospital,Q18111664,1,0,1,hospital in China,GGH,Q4287745|Q16917,,
+Guangdong,Guangdong Sunray Cave F.C.,Q552856,1,0,1,"football club based in Guangdong, China",,Q476028,,Shaanxi Wuzhou F.C.
+Guangdong,Guangdong Olympic Center,Q401470,1,0,1,"sports venues in Guangzhou, Guangdong Province, China",,Q483110,,Guangdong Olympic Stadium
+Guangdong,Guangdong Museum,Q5613636,1,0,2,"general museum in Guangzhou, Guangdong, China",Guangdong Provincial Museum|Guangdong Province Museum,Q33506,,Guangdong Museum
+Guangdong,Guangdong Province Women and Children Hospital,Q11061757,1,0,2,hospital in China,Guangdong Province MCH,Q16917|Q4287745,,
+Guangdong,Guangdong Province Stomatological Hospital,Q30254274,1,0,2,hospital in China,,Q4287745|Q16917,,
+Guangdong,Guangdong Province Navigation Holdings Company Limited,Q16926322,1,0,2,,,Q4830453,,
+Guangdong,Guangdong Province Science and Technology Library,Q30259679,1,0,2,"library in Guangzhou, China",,Q13226383|Q28564,,
+Guangdong,Department of Education of Guangdong Province,Q30297346,1,0,2,"government organization in Guangzhou, China",Guangdong Province Department of Education,Q327333,,Guangdong Provincial Department of Education
+Guangdong,Guangdong Province Highway 360,Q52639052,1,0,2,"Highway in Guangdong, China",,,,

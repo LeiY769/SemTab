@@ -1,0 +1,999 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Santo Stefano,Santo Stefano,Q3585448,0,0,1,"church building in Venice, Italy",,Q16970,,
+Santo Stefano,Santo Stefano,Q3949519,0,0,1,"frazione of Sante Marie, Italy",Santo Stefano di Sante Marie,Q1134686,,"Santo Stefano, Sante Marie"
+Santo Stefano,Santo Stefano,Q120801759,0,0,1,,,Q16970,,
+Santo Stefano,Santo Stefano,Q138645872,0,0,1,"church building at Collescipoli, Terni, Italy",,Q16970,,
+Santo Stefano,Santo Stefano,Q55180996,0,0,1,"church building in Poli, Italy",,Q16970,,
+Santo Stefano,Santo Stefano Lodigiano,Q42958,0,0,1,Italian comune,,Q747074,,Santo Stefano Lodigiano
+Santo Stefano,Santo Stefano,Q2014084,0,0,1,island in Italy,,Q23442,,Santo Stefano (island)
+Santo Stefano,Santo Stefano,Q3927195,0,0,1,"borough in Bologna, Italy",,Q3927244,,
+Santo Stefano,Santo Stefano,Q18499752,0,0,1,,,Q1134686,,
+Santo Stefano,Santo Stefano,Q3674314,0,0,1,"church building in Verona, Italy",,Q16970,,"Santo Stefano, Verona"
+Santo Stefano,Saint Stephen,Q161775,0,0,2,"Deacon, martyr, and saint",Stephen the Protomartyr,Q5,,Saint Stephen
+Santo Stefano,Saint Stephen,Q3472935,0,0,2,painting by Giotto di Bondone,,Q3305213,,Saint Stephen (Giotto)
+Santo Stefano,St. Stephen,Q1839651,0,0,2,"city in Minnesota, United States","St. Stephen, Minnesota|Saint Stephen|Saint Stephen, Minnesota|St. Stephen, MN",Q1093829,,"St. Stephen, Minnesota"
+Santo Stefano,Saint Stephen,Q28060550,0,0,2,"painting by G. del Biondo, Bonnefanten Museum",,Q3305213,,
+Santo Stefano,Saint Stephen,Q20539853,0,0,2,"painting by Gherardo di Jacopo Starnina, Museum of Fine Arts Boston",,Q3305213,,
+Santo Stefano,Saint Stephen,Q43045231,0,0,2,painting by Hans Memling,,Q3305213|Q475476|Q15727816,,
+Santo Stefano,Saint Stephen,Q3949514,0,0,2,painting by Spinello Aretino,,Q3305213,,
+Santo Stefano,Saint Stephen,Q21614182,0,0,2,painting by Maerten de Vos,,Q3305213,,
+Santo Stefano,Saint Stephen,Q20809383,0,0,2,painting by Master of Messkirch,,Q3305213,,
+Santo Stefano,Saint Stephen,Q27698573,0,0,2,painting by Luis de Morales,,Q3305213,,
+Catholicism,Catholicism,Q1841,0,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,0,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,0,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,0,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,0,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,0,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,0,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,0,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,0,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,0,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Santo Stefano Basilica,Q3635777,0,1,2,"church in Lavagna, Italy",,Q120560,,
+Shrine of Our Lady of Europe,Shrine of Our Lady of Europe,Q43318,1,0,1,Catholic church in Gibraltar,,Q200614|Q840482|Q55876909,,Shrine of Our Lady of Europe
+Shrine of Our Lady of Europe,Shrine of Our Lady of Europe,Q7504058,1,0,1,roman catholic shrine,,Q21850178|Q1088552,,Shrine of Our Lady of Europe (Italy)
+Catholicism,Catholicism,Q1841,1,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,1,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,1,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,1,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,1,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,1,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,1,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,1,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,1,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,1,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Shrine of Our Lady of Europe,Q43318,1,1,2,Catholic church in Gibraltar,,Q200614|Q840482|Q55876909,,Shrine of Our Lady of Europe
+Catholicism,Shrine of Our Lady of Europe,Q7504058,1,1,2,roman catholic shrine,,Q21850178|Q1088552,,Shrine of Our Lady of Europe (Italy)
+Catholicism,European Marian Network,Q5412798,1,1,2,,,Q337912,,European Marian Network
+European Marian Network,European Marian Network,Q5412798,1,2,1,,,Q337912,,European Marian Network
+European Marian Network,Shrine of Our Lady of Europe,Q43318,1,2,2,Catholic church in Gibraltar,,Q200614|Q840482|Q55876909,,Shrine of Our Lady of Europe
+European Marian Network,Shrine of Our Lady of Europe,Q7504058,1,2,2,roman catholic shrine,,Q21850178|Q1088552,,Shrine of Our Lady of Europe (Italy)
+St. Katharina,St. Katharina,Q57982145,2,0,1,"filial church in Katharinazell, Gammelsdorf, Germany",,Q1129743,,
+St. Katharina,St. Katharina,Q41314331,2,0,1,"church building in Holzharlanden, Germany",,Q16970,,
+St. Katharina,St. Katharina,Q41222770,2,0,1,"parish church in Pfaffing, Landkreis Rosenheim, Germany",,Q317557,,
+St. Katharina,St. Katharina,Q41226100,2,0,1,"church building in Thankirchen, Germany",,Q16970,,
+St. Katharina,St. Katharina,Q1225484,2,0,1,church,,Q16970,,
+St. Katharina,St. Katharina,Q41225142,2,0,1,"church building in Obermaiselstein, Germany",,Q16970,,
+St. Katharina,St. Katharina,Q1377188,2,0,1,"church building in Vorderbuchenbrunn, Germany",,Q16970,,
+St. Katharina,St. Katharina,Q98717249,2,0,1,"filial church in Riedis, Germany",,Q1129743,,
+St. Katharina,St. Katharina,Q41272934,2,0,1,"parish church in Rohrbach, Rennertshofen, Germany",,Q317557|Q35922124,,
+St. Katharina,St. Katharina,Q41226047,2,0,1,"filial church in Jasberg, Dietramszell, Germany",,Q1129743,,
+St. Katharina,St. Katharina Church,Q106390627,2,0,2,church in the German municipality of Gütenbach,,Q16970,,
+St. Katharina,St. Katharina churchyard wall,Q98743750,2,0,2,"churchyard wall in Katharinazell, Gammelsdorf, Germany",,Q40211238,,
+list of cultural properties in Innerthal,list of cultural properties in Innerthal,Q14913425,2,2,1,"Wikimedia list of cultural properties in Innerthal in the canton of Schwyz, Switzerland",,Q13406463,,
+list of cultural properties in Innerthal,St. Katharina,Q57982145,2,2,2,"filial church in Katharinazell, Gammelsdorf, Germany",,Q1129743,,
+list of cultural properties in Innerthal,St. Katharina,Q41314331,2,2,2,"church building in Holzharlanden, Germany",,Q16970,,
+list of cultural properties in Innerthal,St. Katharina,Q41222770,2,2,2,"parish church in Pfaffing, Landkreis Rosenheim, Germany",,Q317557,,
+list of cultural properties in Innerthal,St. Katharina,Q41226100,2,2,2,"church building in Thankirchen, Germany",,Q16970,,
+list of cultural properties in Innerthal,St. Katharina,Q1225484,2,2,2,church,,Q16970,,
+list of cultural properties in Innerthal,St. Katharina,Q41225142,2,2,2,"church building in Obermaiselstein, Germany",,Q16970,,
+list of cultural properties in Innerthal,St. Katharina,Q1377188,2,2,2,"church building in Vorderbuchenbrunn, Germany",,Q16970,,
+list of cultural properties in Innerthal,St. Katharina,Q98717249,2,2,2,"filial church in Riedis, Germany",,Q1129743,,
+list of cultural properties in Innerthal,St. Katharina,Q41272934,2,2,2,"parish church in Rohrbach, Rennertshofen, Germany",,Q317557|Q35922124,,
+list of cultural properties in Innerthal,St. Katharina,Q41226047,2,2,2,"filial church in Jasberg, Dietramszell, Germany",,Q1129743,,
+St. Elizabeth Catholic Church,St. Elizabeth Catholic Church,Q65614037,3,0,1,"Roman Catholic church in Rockville, Maryland, United States",St Elizabeth Catholic Church|Saint Elizabeth Catholic Church|Saint Elizabeths Catholic Church,Q55876909|Q17143723,,
+St. Elizabeth Catholic Church,St. Elizabeth Catholic Church,Q7587844,3,0,1,"church building in Louisiana, United States of America",,Q1088552,,"St. Elizabeth Catholic Church (Paincourtville, Louisiana)"
+St. Elizabeth Catholic Church,St. Elizabeth University Parish,Q107320816,3,0,1,"university building at 2305 Main St. Lubbock, Texas",St. Elizabeth Catholic Church,Q19844914,,
+St. Elizabeth Catholic Church,St. Elizabeth catholic church with bell tower,Q19309357,3,0,1,"church building in Kilchberg in the canton of Zurich, Switzerland",Katholische Kirche St. Elisabeth mit Glockenturm|St. Elisabeth,Q811979|Q1088552|Q72926449|Q200334,,
+St. Elizabeth Catholic Church,"St. Elizabeth Catholic Church (Greenville, Alabama)",Q138679029,3,0,1,,,Q16970,,
+St. Elizabeth Catholic Church,Catholic Church,Q9592,3,0,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+St. Elizabeth Catholic Church,Catholic church building,Q1088552,3,0,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+St. Elizabeth Catholic Church,Catholic Church,Q110209751,3,0,2,gouache - Michel Jean Cazabon,,Q21281546,,
+St. Elizabeth Catholic Church,Catholic Church in the United States,Q769585,3,0,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+St. Elizabeth Catholic Church,Catholic church,Q106842044,3,0,2,"church building in Hesse, Germany",,Q16970,,
+St. Elizabeth Catholic Church,Catholic Church,Q1487180,3,0,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+St. Elizabeth Catholic Church,Catholic Church sexual abuse cases,Q573565,3,0,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+St. Elizabeth Catholic Church,Catholic Church in the Czech Republic,Q1201779,3,0,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+St. Elizabeth Catholic Church,Catholic church,Q1537908,3,0,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+St. Elizabeth Catholic Church,political Catholicism,Q834554,3,0,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+St. Elizabeth Catholic Church,St. Elizabeth Church,Q131146962,3,0,2,"catholic church in Wainfleet, Ontario","St. Elizabeth Church, Wainfleet, Ontario",Q16970,,
+St. Elizabeth Catholic Church,St. Elizabeth Church and School,Q23302322,3,0,2,primary school,,Q9842|Q16970,,St. Elisabeth of Hungary Church and School
+Catholicism,Catholicism,Q1841,3,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,3,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,3,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,3,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,3,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,3,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,3,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,3,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,3,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,3,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,St. Elizabeth Catholic Church,Q65614037,3,1,2,"Roman Catholic church in Rockville, Maryland, United States",St Elizabeth Catholic Church|Saint Elizabeth Catholic Church|Saint Elizabeths Catholic Church,Q55876909|Q17143723,,
+Catholicism,St. Elizabeth Catholic Church,Q7587844,3,1,2,"church building in Louisiana, United States of America",,Q1088552,,"St. Elizabeth Catholic Church (Paincourtville, Louisiana)"
+Catholicism,St. Elizabeth University Parish,Q107320816,3,1,2,"university building at 2305 Main St. Lubbock, Texas",St. Elizabeth Catholic Church,Q19844914,,
+Catholicism,St. Elizabeth catholic church with bell tower,Q19309357,3,1,2,"church building in Kilchberg in the canton of Zurich, Switzerland",Katholische Kirche St. Elisabeth mit Glockenturm|St. Elisabeth,Q811979|Q1088552|Q72926449|Q200334,,
+Catholicism,"St. Elizabeth Catholic Church (Greenville, Alabama)",Q138679029,3,1,2,,,Q16970,,
+San Pietro,San Pietro,Q3671658,4,0,1,"church building in Montecatini Alto, Italy",S. Pietro Apostolo,Q16970,,"San Pietro Apostolo, Montecatini Terme"
+San Pietro,San Pietro,Q16540378,4,0,1,"church building in San Gimignano, Italy",,Q16970,,
+San Pietro,San Pietro,Q55115514,4,0,1,"building in Carpineto Romano, Italy",,Q16970,,
+San Pietro,San Pietro in Guarano,Q53980,4,0,1,Italian comune,,Q747074,,San Pietro in Guarano
+San Pietro,St. Peter's Basilica,Q12512,4,0,1,church in Vatican City,"St Peter's Basilica|Saint Peter's Basilica|Papal Basilica of Saint Peter in the Vatican|Saint Peter's, Vatican|Basilica of Saint Peter|Saint Peter's|St. Peter's|St Peter's",Q124936|Q2713379|Q2319498|Q317557|Q15487029,,St. Peter's Basilica
+San Pietro,Saint Peter,Q33923,4,0,1,apostle of Jesus Christ,"Shimon|Simeon|Simon|Petrus|Peter the Apostle|Pope Peter|Saint Peter the Apostle|Apostle Peter|Peter, the Apostle, Saint|Cephas|Shimoun Bar Younah|Kipa|St. Peter|Peter|St Peter|Saint Peter",Q5,,Saint Peter
+San Pietro,San Pietro,Q644850,4,0,1,minor basilica,,Q120560,,"San Pietro, Perugia"
+San Pietro,San Pietro,Q18506872,4,0,1,village in the municipality of Valdastico,San Pietro Valdastico,Q1134686,,
+San Pietro,Tovere,Q18437869,4,0,1,"human settlement in Province of Salerno, Italy",San Pietro,Q1134686,,
+San Pietro,San Pietro,Q3671615,4,0,1,"church building in Avigliana, Italy",,Q16970,,
+San Pietro,Saint Peter,Q3058152,4,0,2,parish of Jersey in the Channel Islands,St. Peter,Q2140214,,"St Peter, Jersey"
+San Pietro,Saint Petersburg,Q656,4,0,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+San Pietro,Saint Peter,Q4411590,4,0,2,ship of the line,,Q207452,,
+San Pietro,Saint Petersburg Mining University,Q2495829,4,0,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+San Pietro,Saint Peter Port,Q174262,4,0,2,"parish, port, and capital of Guernsey in the Channel Islands",St. Peter Port|Parish of St Peter Port|St Peter Port,Q515|Q4976993,,Saint Peter Port
+San Pietro,Saint Petersburg State University,Q27621,4,0,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+San Pietro,Saint Peter,Q140631494,4,0,2,painting by Dirck van Baburen,,Q3305213,,
+San Pietro,Saint Peter,Q932723,4,0,2,parish of Barbados,,Q1631888,,"Saint Peter, Barbados"
+San Pietro,Saint Peter,Q1952603,4,0,2,parish of Antigua and Barbuda,,Q1647142,,"Saint Peter, Antigua and Barbuda"
+Catholicism,Catholicism,Q1841,4,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,4,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,4,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,4,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,4,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,4,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,4,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,4,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,4,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,4,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,4,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,4,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,4,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,4,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,4,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,4,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,4,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,4,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,4,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,4,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic Church in France,Q795240,4,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,4,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,4,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,4,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,4,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+San Pietro,San Pietro,Q3671658,5,0,1,"church building in Montecatini Alto, Italy",S. Pietro Apostolo,Q16970,,"San Pietro Apostolo, Montecatini Terme"
+San Pietro,San Pietro,Q16540378,5,0,1,"church building in San Gimignano, Italy",,Q16970,,
+San Pietro,San Pietro,Q55115514,5,0,1,"building in Carpineto Romano, Italy",,Q16970,,
+San Pietro,San Pietro in Guarano,Q53980,5,0,1,Italian comune,,Q747074,,San Pietro in Guarano
+San Pietro,St. Peter's Basilica,Q12512,5,0,1,church in Vatican City,"St Peter's Basilica|Saint Peter's Basilica|Papal Basilica of Saint Peter in the Vatican|Saint Peter's, Vatican|Basilica of Saint Peter|Saint Peter's|St. Peter's|St Peter's",Q124936|Q2713379|Q2319498|Q317557|Q15487029,,St. Peter's Basilica
+San Pietro,Saint Peter,Q33923,5,0,1,apostle of Jesus Christ,"Shimon|Simeon|Simon|Petrus|Peter the Apostle|Pope Peter|Saint Peter the Apostle|Apostle Peter|Peter, the Apostle, Saint|Cephas|Shimoun Bar Younah|Kipa|St. Peter|Peter|St Peter|Saint Peter",Q5,,Saint Peter
+San Pietro,San Pietro,Q644850,5,0,1,minor basilica,,Q120560,,"San Pietro, Perugia"
+San Pietro,San Pietro,Q18506872,5,0,1,village in the municipality of Valdastico,San Pietro Valdastico,Q1134686,,
+San Pietro,Tovere,Q18437869,5,0,1,"human settlement in Province of Salerno, Italy",San Pietro,Q1134686,,
+San Pietro,San Pietro,Q3671615,5,0,1,"church building in Avigliana, Italy",,Q16970,,
+San Pietro,Saint Peter,Q3058152,5,0,2,parish of Jersey in the Channel Islands,St. Peter,Q2140214,,"St Peter, Jersey"
+San Pietro,Saint Petersburg,Q656,5,0,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+San Pietro,Saint Peter,Q4411590,5,0,2,ship of the line,,Q207452,,
+San Pietro,Saint Petersburg Mining University,Q2495829,5,0,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+San Pietro,Saint Peter Port,Q174262,5,0,2,"parish, port, and capital of Guernsey in the Channel Islands",St. Peter Port|Parish of St Peter Port|St Peter Port,Q515|Q4976993,,Saint Peter Port
+San Pietro,Saint Petersburg State University,Q27621,5,0,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+San Pietro,Saint Peter,Q140631494,5,0,2,painting by Dirck van Baburen,,Q3305213,,
+San Pietro,Saint Peter,Q932723,5,0,2,parish of Barbados,,Q1631888,,"Saint Peter, Barbados"
+San Pietro,Saint Peter,Q1952603,5,0,2,parish of Antigua and Barbuda,,Q1647142,,"Saint Peter, Antigua and Barbuda"
+Catholicism,Catholicism,Q1841,5,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,5,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,5,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,5,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,5,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,5,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,5,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,5,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,5,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,5,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,5,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,5,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,5,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,5,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,5,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,5,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,5,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,5,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,5,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,5,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic Church in France,Q795240,5,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,5,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,5,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,5,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,5,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+San Pietro,San Pietro,Q3671658,6,0,1,"church building in Montecatini Alto, Italy",S. Pietro Apostolo,Q16970,,"San Pietro Apostolo, Montecatini Terme"
+San Pietro,San Pietro,Q16540378,6,0,1,"church building in San Gimignano, Italy",,Q16970,,
+San Pietro,San Pietro,Q55115514,6,0,1,"building in Carpineto Romano, Italy",,Q16970,,
+San Pietro,San Pietro in Guarano,Q53980,6,0,1,Italian comune,,Q747074,,San Pietro in Guarano
+San Pietro,St. Peter's Basilica,Q12512,6,0,1,church in Vatican City,"St Peter's Basilica|Saint Peter's Basilica|Papal Basilica of Saint Peter in the Vatican|Saint Peter's, Vatican|Basilica of Saint Peter|Saint Peter's|St. Peter's|St Peter's",Q124936|Q2713379|Q2319498|Q317557|Q15487029,,St. Peter's Basilica
+San Pietro,Saint Peter,Q33923,6,0,1,apostle of Jesus Christ,"Shimon|Simeon|Simon|Petrus|Peter the Apostle|Pope Peter|Saint Peter the Apostle|Apostle Peter|Peter, the Apostle, Saint|Cephas|Shimoun Bar Younah|Kipa|St. Peter|Peter|St Peter|Saint Peter",Q5,,Saint Peter
+San Pietro,San Pietro,Q644850,6,0,1,minor basilica,,Q120560,,"San Pietro, Perugia"
+San Pietro,San Pietro,Q18506872,6,0,1,village in the municipality of Valdastico,San Pietro Valdastico,Q1134686,,
+San Pietro,Tovere,Q18437869,6,0,1,"human settlement in Province of Salerno, Italy",San Pietro,Q1134686,,
+San Pietro,San Pietro,Q3671615,6,0,1,"church building in Avigliana, Italy",,Q16970,,
+San Pietro,Saint Peter,Q3058152,6,0,2,parish of Jersey in the Channel Islands,St. Peter,Q2140214,,"St Peter, Jersey"
+San Pietro,Saint Petersburg,Q656,6,0,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+San Pietro,Saint Peter,Q4411590,6,0,2,ship of the line,,Q207452,,
+San Pietro,Saint Petersburg Mining University,Q2495829,6,0,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+San Pietro,Saint Peter Port,Q174262,6,0,2,"parish, port, and capital of Guernsey in the Channel Islands",St. Peter Port|Parish of St Peter Port|St Peter Port,Q515|Q4976993,,Saint Peter Port
+San Pietro,Saint Petersburg State University,Q27621,6,0,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+San Pietro,Saint Peter,Q140631494,6,0,2,painting by Dirck van Baburen,,Q3305213,,
+San Pietro,Saint Peter,Q932723,6,0,2,parish of Barbados,,Q1631888,,"Saint Peter, Barbados"
+San Pietro,Saint Peter,Q1952603,6,0,2,parish of Antigua and Barbuda,,Q1647142,,"Saint Peter, Antigua and Barbuda"
+Catholicism,Catholicism,Q1841,6,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,6,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,6,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,6,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,6,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,6,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,6,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,6,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,6,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,6,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,6,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,6,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,6,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,6,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,6,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,6,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,6,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,6,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,6,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,6,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic Church in France,Q795240,6,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,6,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,6,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,6,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,6,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+San Pietro,San Pietro,Q3671658,7,0,1,"church building in Montecatini Alto, Italy",S. Pietro Apostolo,Q16970,,"San Pietro Apostolo, Montecatini Terme"
+San Pietro,San Pietro,Q16540378,7,0,1,"church building in San Gimignano, Italy",,Q16970,,
+San Pietro,San Pietro,Q55115514,7,0,1,"building in Carpineto Romano, Italy",,Q16970,,
+San Pietro,San Pietro in Guarano,Q53980,7,0,1,Italian comune,,Q747074,,San Pietro in Guarano
+San Pietro,St. Peter's Basilica,Q12512,7,0,1,church in Vatican City,"St Peter's Basilica|Saint Peter's Basilica|Papal Basilica of Saint Peter in the Vatican|Saint Peter's, Vatican|Basilica of Saint Peter|Saint Peter's|St. Peter's|St Peter's",Q124936|Q2713379|Q2319498|Q317557|Q15487029,,St. Peter's Basilica
+San Pietro,Saint Peter,Q33923,7,0,1,apostle of Jesus Christ,"Shimon|Simeon|Simon|Petrus|Peter the Apostle|Pope Peter|Saint Peter the Apostle|Apostle Peter|Peter, the Apostle, Saint|Cephas|Shimoun Bar Younah|Kipa|St. Peter|Peter|St Peter|Saint Peter",Q5,,Saint Peter
+San Pietro,San Pietro,Q644850,7,0,1,minor basilica,,Q120560,,"San Pietro, Perugia"
+San Pietro,San Pietro,Q18506872,7,0,1,village in the municipality of Valdastico,San Pietro Valdastico,Q1134686,,
+San Pietro,Tovere,Q18437869,7,0,1,"human settlement in Province of Salerno, Italy",San Pietro,Q1134686,,
+San Pietro,San Pietro,Q3671615,7,0,1,"church building in Avigliana, Italy",,Q16970,,
+San Pietro,Saint Peter,Q3058152,7,0,2,parish of Jersey in the Channel Islands,St. Peter,Q2140214,,"St Peter, Jersey"
+San Pietro,Saint Petersburg,Q656,7,0,2,federal city and former capital of Russia,Petersburg|Sankt-Peterburg|St Petersburg|St.Petersburg,Q183342|Q1549591|Q4442912|Q129268952|Q51929311|Q7930989|Q43263|Q1637706|Q1637706|Q105742499|Q200250|Q134445478|Q2264924,,Saint Petersburg
+San Pietro,Saint Peter,Q4411590,7,0,2,ship of the line,,Q207452,,
+San Pietro,Saint Petersburg Mining University,Q2495829,7,0,2,technical university in Russia,Saint Petersburg Mining Institute|Gorny|National Mineral Resources University|St. Petersburg Mining Institute|Mining School|Mining Cadet Corps|Leningrad Mining Institute|Plekhanov Leningrad State Mining Institute|Mining Institute|Saint-Petersburg State Mining University|Institute of the Corps of Mining Engineers|Mining University|University of Mines|Empress Catherine the Great Saint Petersburg Mining University|St. Petersburg Mining University,Q4315006|Q45400320,,Saint Petersburg Mining University
+San Pietro,Saint Peter Port,Q174262,7,0,2,"parish, port, and capital of Guernsey in the Channel Islands",St. Peter Port|Parish of St Peter Port|St Peter Port,Q515|Q4976993,,Saint Peter Port
+San Pietro,Saint Petersburg State University,Q27621,7,0,2,Russian federal state-owned higher education institution,St. Petersburg University|St. Petersburg State University|Leningrad State University|SPbSU|Leningrad A.A. Zhdanov State University|A. A. Zhdanov Leningrad State University|SPbU|University of Petrograd|Saint Petersburg University,Q875538|Q45400320,,Saint Petersburg State University
+San Pietro,Saint Peter,Q140631494,7,0,2,painting by Dirck van Baburen,,Q3305213,,
+San Pietro,Saint Peter,Q932723,7,0,2,parish of Barbados,,Q1631888,,"Saint Peter, Barbados"
+San Pietro,Saint Peter,Q1952603,7,0,2,parish of Antigua and Barbuda,,Q1647142,,"Saint Peter, Antigua and Barbuda"
+Catholicism,Catholicism,Q1841,7,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,7,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,7,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,7,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,7,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,7,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,7,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,7,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,7,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,7,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,7,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,7,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,7,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,7,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,7,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,7,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,7,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,7,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,7,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,7,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic Church in France,Q795240,7,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,7,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,7,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,7,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,7,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+Church of the Resurrection,Church of the Holy Sepulchre,Q187702,8,0,1,"church in Jerusalem, containing the two holiest sites in Christianity",Church of the Anastasis|Church of the Resurrection,Q120560|Q15487029|Q2977|Q16970|Q29553|Q358|Q811165,,Church of the Holy Sepulchre
+Church of the Resurrection,Church of the Resurrection,Q55028003,8,0,1,"church in Blarney, County Cork, Ireland",,Q16970,,"Church of the Resurrection, Blarney"
+Church of the Resurrection,Church of the Resurrection,Q55028436,8,0,1,"church in Killarney, County Kerry, Ireland",,Q16970,,
+Church of the Resurrection,Church of the Resurrection,Q16694982,8,0,1,"church building in Chernihiv, Ukraine",Voskresenska tserkva|Resurrection Church,Q16970,,"Church of the Resurrection, Chernihiv"
+Church of the Resurrection,Church of the Resurrection,Q30785141,8,0,1,"church building in Velká Ves, Czech Republic",,Q16970,,
+Church of the Resurrection,Church of the Resurrection,Q326059,8,0,1,"church in Kursk, Russia",,Q2319498,,
+Church of the Resurrection,Church of the Resurrection,Q55055012,8,0,1,"church in Cork, County Cork, Ireland",,Q16970,,
+Church of the Resurrection,Church of the Resurrection,Q3406778,8,0,1,"church building in Kyiv, Ukraine",,Q2031836,,
+Church of the Resurrection,Church of the Resurrection,Q20250258,8,0,1,"Lutheran church building in Juankoski, Kuopio, Finland",Juankoski Church,Q16970,,
+Church of the Resurrection,Church of the Resurrection,Q16715580,8,0,1,"church building in Kozhino, Russia",,Q16970|Q2319498,,
+Church of the Resurrection,Resurrection Catholic Church Cemetery,Q117561911,8,0,2,"cemetery in Bedford County, Virginia, United States",,Q39614,,
+Catholic Church,Catholic Church,Q9592,8,1,1,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholic Church,Catholic church building,Q1088552,8,1,1,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholic Church,Catholic Church,Q110209751,8,1,1,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholic Church,Catholic Church in the United States,Q769585,8,1,1,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholic Church,Catholic church,Q106842044,8,1,1,"church building in Hesse, Germany",,Q16970,,
+Catholic Church,Catholic Church,Q1487180,8,1,1,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholic Church,Catholic Church sexual abuse cases,Q573565,8,1,1,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholic Church,Catholic Church in the Czech Republic,Q1201779,8,1,1,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholic Church,Catholic church,Q1537908,8,1,1,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholic Church,political Catholicism,Q834554,8,1,1,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Catholic Church,Church of the Holy Sepulchre,Q187702,8,1,2,"church in Jerusalem, containing the two holiest sites in Christianity",Church of the Anastasis|Church of the Resurrection,Q120560|Q15487029|Q2977|Q16970|Q29553|Q358|Q811165,,Church of the Holy Sepulchre
+Catholic Church,Church of the Resurrection,Q55028003,8,1,2,"church in Blarney, County Cork, Ireland",,Q16970,,"Church of the Resurrection, Blarney"
+Catholic Church,Church of the Resurrection,Q55028436,8,1,2,"church in Killarney, County Kerry, Ireland",,Q16970,,
+Catholic Church,Church of the Resurrection,Q16694982,8,1,2,"church building in Chernihiv, Ukraine",Voskresenska tserkva|Resurrection Church,Q16970,,"Church of the Resurrection, Chernihiv"
+Catholic Church,Church of the Resurrection,Q30785141,8,1,2,"church building in Velká Ves, Czech Republic",,Q16970,,
+Catholic Church,Church of the Resurrection,Q326059,8,1,2,"church in Kursk, Russia",,Q2319498,,
+Catholic Church,Church of the Resurrection,Q55055012,8,1,2,"church in Cork, County Cork, Ireland",,Q16970,,
+Catholic Church,Church of the Resurrection,Q3406778,8,1,2,"church building in Kyiv, Ukraine",,Q2031836,,
+Catholic Church,Church of the Resurrection,Q20250258,8,1,2,"Lutheran church building in Juankoski, Kuopio, Finland",Juankoski Church,Q16970,,
+Catholic Church,Church of the Resurrection,Q16715580,8,1,2,"church building in Kozhino, Russia",,Q16970|Q2319498,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3904432,9,0,1,"church building in Castelnuovo dell’Abate, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3668151,9,0,1,"church building in Luni, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3668153,9,0,1,"church in Ferruccia, Quarrata",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q62397914,9,0,1,"church building in Ferrara, Italy",,Q55876909,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q109758153,9,0,1,"religious building in Verzuolo, Italy",San Filippo|Philip the Apostle|Saint Philip|Saint Philip the Apostle,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q108386430,9,0,1,,,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q114790449,9,0,1,,,Q41176,,
+Santi Filippo e Giacomo,Santa Maria delle Grazie,Q3884559,9,0,1,"building in Civitella Marittima, Italy",Oratorio della Misericordia|Santi Filippo e Giacomo,Q580499,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q28026424,9,0,1,"church building in Airole, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q100926730,9,0,1,"church building in Covo, Italy",,Q16970,,
+Santi Filippo e Giacomo,Saint Philip and James Church,Q97230206,9,0,2,church in Thailand,,Q1088552,,
+Catholicism,Catholicism,Q1841,9,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,9,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,9,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,9,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,9,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,9,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,9,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,9,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,9,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,9,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,9,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,9,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,9,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,9,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,9,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,9,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,9,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,9,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,9,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,9,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Christianity,Q5043,9,1,2,Abrahamic monotheistic religion,Christian faith,Q6957341|Q47280|Q9174|Q19842652,Q47280,Christianity
+Catholicism,history of Christianity,Q235329,9,1,2,historical development of Christianity,Christian history|Christianity history,Q17524420,Q309,History of Christianity
+Catholicism,Christianity Today,Q680794,9,1,2,evangelical Christian magazine,,Q41298,,Christianity Today
+Catholicism,Christianity and Islam,Q2245260,9,1,2,interreligious relationship between two major Abrahamic religions,Qur'an on Christianity|Christian–Muslim relations|Muslim–Christian relations|Islam and Christianity,,Q5110487|Q3012633,Christianity and Islam
+Catholicism,Christianity,Q104538414,9,1,2,2011 chapter by Sam Turner,,Q21481766,,
+Catholicism,Christianity in Ghana,Q5110518,9,1,2,Religion in Ghana,,Q12833777,Q13179595|Q1749294,Christianity in Ghana
+Catholicism,Christianity of an area,Q12833777,9,1,2,Wikidata metaclass,Christianity in geographic location|Christianity in country|Christianity in region|Christianity of a country|Christianity of a region,Q19478619,Q66374263,
+Catholicism,Christianity,Q103897478,9,1,2,2018 encyclopedia article,,Q13433827,,
+Catholicism,Christianity in Karnataka,Q5110534,9,1,2,,,Q12833777,Q530005|Q7311198,Christianity in Karnataka
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3904432,10,0,1,"church building in Castelnuovo dell’Abate, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3668151,10,0,1,"church building in Luni, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q3668153,10,0,1,"church in Ferruccia, Quarrata",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q62397914,10,0,1,"church building in Ferrara, Italy",,Q55876909,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q109758153,10,0,1,"religious building in Verzuolo, Italy",San Filippo|Philip the Apostle|Saint Philip|Saint Philip the Apostle,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q108386430,10,0,1,,,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q114790449,10,0,1,,,Q41176,,
+Santi Filippo e Giacomo,Santa Maria delle Grazie,Q3884559,10,0,1,"building in Civitella Marittima, Italy",Oratorio della Misericordia|Santi Filippo e Giacomo,Q580499,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q28026424,10,0,1,"church building in Airole, Italy",,Q16970,,
+Santi Filippo e Giacomo,Santi Filippo e Giacomo,Q100926730,10,0,1,"church building in Covo, Italy",,Q16970,,
+Santi Filippo e Giacomo,Saint Philip and James Church,Q97230206,10,0,2,church in Thailand,,Q1088552,,
+Catholicism,Catholicism,Q1841,10,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,10,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,10,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,10,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,10,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,10,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,10,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,10,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,10,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,10,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,10,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,10,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,10,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,10,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,10,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,10,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,10,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,10,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,10,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,10,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Christianity,Q5043,10,1,2,Abrahamic monotheistic religion,Christian faith,Q6957341|Q47280|Q9174|Q19842652,Q47280,Christianity
+Catholicism,history of Christianity,Q235329,10,1,2,historical development of Christianity,Christian history|Christianity history,Q17524420,Q309,History of Christianity
+Catholicism,Christianity Today,Q680794,10,1,2,evangelical Christian magazine,,Q41298,,Christianity Today
+Catholicism,Christianity and Islam,Q2245260,10,1,2,interreligious relationship between two major Abrahamic religions,Qur'an on Christianity|Christian–Muslim relations|Muslim–Christian relations|Islam and Christianity,,Q5110487|Q3012633,Christianity and Islam
+Catholicism,Christianity,Q104538414,10,1,2,2011 chapter by Sam Turner,,Q21481766,,
+Catholicism,Christianity in Ghana,Q5110518,10,1,2,Religion in Ghana,,Q12833777,Q13179595|Q1749294,Christianity in Ghana
+Catholicism,Christianity of an area,Q12833777,10,1,2,Wikidata metaclass,Christianity in geographic location|Christianity in country|Christianity in region|Christianity of a country|Christianity of a region,Q19478619,Q66374263,
+Catholicism,Christianity,Q103897478,10,1,2,2018 encyclopedia article,,Q13433827,,
+Catholicism,Christianity in Karnataka,Q5110534,10,1,2,,,Q12833777,Q530005|Q7311198,Christianity in Karnataka
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q55182704,11,0,1,"church in Virle, settlement in the Italian municipality of Rezzato",,Q16970|Q1497375,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q59284119,11,0,1,"church in Rovello Porro, Italy",,Q16970|Q1497375,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo church,Q3668347,11,0,1,"church building in Brissago in the canton of Ticino, Switzerland",Chiesa parrocchiale dei SS. Pietro e Paolo,Q811979|Q1088552|Q55876909,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q55326277,11,0,1,church in the Italian municipality of Ospedaletto Lodigiano,,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q91613306,11,0,1,"church in Arese, Italy",,Q16970,,"Santi Pietro e Paolo, Arese"
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q84448390,11,0,1,"building in Cilavegna, Italy",,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q113017358,11,0,1,"church in Visone, Italy",,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo Church,Q112812381,11,0,1,"church in Dizzasco, Italy",,Q16970|Q1497375,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo church,Q85930437,11,0,1,"church building in Crealla, Valle Cannobina, Italy",,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo church,Q55178774,11,0,1,"church in Peschiera Borromeo, Italy",,Q16970,,
+Santi Pietro e Paolo church,Saints Peter and Paul,Q3949357,11,0,2,"painting by Carlo Crivelli in the National Gallery, London",Santi Pietro e Paolo,Q3305213,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q3668382,11,0,2,church in Siena,Oratorio della Chiocciola,Q16970,,"Santi Pietro e Paolo, Siena"
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q55178851,11,0,2,"building in Pescia, Italy",,Q580499|Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q54887314,11,0,2,"church building in Malesco, Italy",,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q62008198,11,0,2,"building in Acireale, Italy",,Q120560,,"Santi Pietro e Paolo, Acireale"
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q3668348,11,0,2,church in Buonconvento,"Santi Pietro e Paolo, Buonconvento",Q16970|Q1464870,,"Santi Pietro e Paolo, Buonconvento"
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q3668344,11,0,2,"church building in Boccioleto, Italy",,Q55876909,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q18416999,11,0,2,,,Q16970|Q1497375,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q3668358,11,0,2,"church building in Colognole, Italy",,Q16970,,
+Santi Pietro e Paolo church,Santi Pietro e Paolo,Q68301082,11,0,2,Parish in the diocese of Rome,,Q2638480,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q684054,11,0,2,"christ catholic church building on Rathausgasse in Bern's Old Town, Switzerland",,Q16970|Q24398318,,"Church of St. Peter and Paul, Bern"
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q2957154,11,0,2,church in Plzeň-sever District of Plzeň region,,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q38045425,11,0,2,"church building in Přelíc, Czech Republic",,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q55047716,11,0,2,"church in Knocknacran East, County Monaghan, Ireland",,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q27925942,11,0,2,church in Lovčice,,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q17154614,11,0,2,church in Tábor District of South Bohemian region,,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q27429784,11,0,2,"church building in Chlum, Czech Republic",,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q21019597,11,0,2,church in Bílina,,Q16970,,
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q1105780,11,0,2,church in Singapore,,Q16970,,"Church of Saints Peter and Paul, Singapore"
+Santi Pietro e Paolo church,Church of Saints Peter and Paul,Q3656641,11,0,2,"church in Veliko Tarnovo, Bulgaria",St. Peter and St. Paul,Q16970|Q35032,,"Church of Saints Peter and Paul, Veliko Tarnovo"
+Catholicism,Catholicism,Q1841,11,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,11,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,11,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,11,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,11,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,11,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,11,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,11,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,11,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,11,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,church building,Q16970,11,1,2,building for Christian worship,kirk|christian temple|meetinghouse|church meetinghouse|church,Q811102,Q24398318|Q44539|Q17350442,Church (building)
+Catholicism,parish church,Q317557,11,1,2,church which acts as the religious centre of a parish,"parochial church|Parish church, parochial church|church",,Q16970,Parish church
+Catholicism,Church of England,Q82708,11,1,2,Christian church in England and the Mother Church of the worldwide Anglican Communion,C of E|The Church of England,Q2325038|Q3586152|Q879146,,Church of England
+Catholicism,Christian Church,Q34651,11,1,2,ecclesiological term,the Church|church,Q121144598|Q23847174|Q17197366|Q122754124,Q94670589,Christian Church
+Catholicism,church congregation,Q2638480,11,1,2,Christian religious organization meeting at a particular location,particular church|church|local church|Christian congregation,Q121144515|Q178706,Q94670589|Q2135977,Church (congregation)
+Catholicism,Catholic parish church,Q55876909,11,1,2,church building that acts as the religious center of a Catholic parish,church|parish church|parish,Q811102,Q317557|Q1088552|Q17334923,
+Catholicism,collegiate church,Q1509716,11,1,2,church where the daily office of worship is maintained by a college of canons,church,Q811102,Q16970,Collegiate church
+Catholicism,pastor,Q152002,11,1,2,ordained leader of a Christian congregation,Christian pastor|church pastor,Q63188683|Q28640,Q4504549|Q352507|Q3315492,Pastor
+Catholicism,parish,Q102496,11,1,2,type of ecclesiastical subdivision of a diocese,church parish|ecclesiastical parish,Q15617994|Q121144515,Q20926517|Q51041800,Parish
+Catholicism,St. Jakobi,Q375042,11,1,2,church in Lübeck,Church St. Jakobi (Luebeck)|church,Q16970,,"St James' Church, Lübeck"
+Catholicism,religious,Q2566598,11,1,2,member of a Catholic order,regular,Q63188683|Q24034076,Q114836842,Religious (Western Christianity)
+Catholicism,religious art,Q2864737,11,1,2,genre of art that is religious in theme,religious heritage|sacred art|spiritual art|Liturgical Art|religious articles,Q1792379,Q735,Religious art
+Catholicism,religion,Q9174,11,1,2,social-cultural system,religious tradition|spirituality|spiritual tradition,Q110401282|Q1914636|Q11862829|Q1047113|Q11042|Q82821,Q5390013|Q49447|Q136485030,Religion
+Catholicism,altar,Q101687,11,1,2,structure upon which offerings such as sacrifices are made for religious purposes,religious altar|religious altars,Q116474095,Q14748|Q4588528|Q811979,Altar
+Catholicism,Christian minister,Q1423891,11,1,2,function of service in Christianity,minister of religion|reverend|minister|religious minister,Q63188683,Q105200223|Q3315492,Minister (Christianity)
+Catholicism,Religious Studies Review,Q7311312,11,1,2,academic journal,,Q737498|Q73364223,,Religious Studies Review
+Catholicism,nun,Q191808,11,1,2,female member of a monastic order,woman religious|sister|religious sister|female religious|female monk,Q4504549|Q138348066,Q733786,Nun
+Catholicism,religious community,Q2742167,11,1,2,group of people who practice the same religious faith,,Q121144515,Q51041800|Q177634,
+Catholicism,religious building,Q24398318,11,1,2,building intended for religious worship or other activities related to a religion; ceremonial structures that are related to or concerned with religion,sacral building,Q811102,Q12910132|Q41176|Q1370598,
+Catholicism,icon,Q132137,11,1,2,"religious work of art, generally a panel painting, in Eastern Christianity",ikon|religious icon,Q116474095,Q3305213,Icon
+Catholicism,religious facility,Q113474465,11,1,2,facility used for religious purposes,religious institution building|religious institution facility,,Q13226383,
+Catholicism,"Religious Institutions (Prevention of Misuse) Act, 1988",Q95992187,11,1,2,Act of the Parliament of India,,Q33283984,,
+Catholicism,religious institutions,Q137374760,11,1,2,,,,,
+Catholicism,"Religious Institutions, Church–State History and Muslim Mobilisation in Britain, France and Germany",Q139688568,11,1,2,,,Q13442814,,
+Catholicism,Religious institutions of Ukraine in the context of national security,Q128921274,11,1,2,scholarly article,,Q13442814,,
+Catholicism,Religious Institutions and Civic Engagement: A Test of Religion's Impact on Political Activism in Mexico,Q127537808,11,1,2,scholarly article,,Q13442814,,
+Catholicism,Religious institutions for conflict resolution in modern society: the case of Tatarstan,Q140505173,11,1,2,"scholarly article published in Historical Ethnology, vol. 9, no. 4 (2024) (DOI: 10.22378/HE.2024-9-4.592-603)",,Q13442814,,
+Catholicism,Religious institutions and issues of health care,Q115690098,11,1,2,journal article,,Q18918145,,
+Catholicism,Religious Institutions Caring for Refugees,Q127696945,11,1,2,journal article from 'Innovation: The European Journal of Social Science Research' published in 1990,,Q13442814,,
+Catholicism,Religious institutions and the prevention of mental illness,Q52097759,11,1,2,"scientific article published on September 1, 1982",,Q13442814,,
+Catholicism,religious denomination,Q13414953,11,1,2,identifiable religious subgroup with a common structure and doctrine,denomination|confession,,Q71966963|Q1530022,Religious denomination
+Catholicism,"Religious Denomination, Religious Involvement, and Modern Contraceptive Use in Southern Mozambique",Q36157698,11,1,2,"scientific article published on September 1, 2013",,Q13442814,,
+Catholicism,Religious Denominations as Ethnic Communities: A Regional Case Study,Q139707218,11,1,2,,,Q13442814,,
+Catholicism,"Religious Denomination and Party Choice in Western Europe: A Comparative Longitudinal Study from Eight Countries, 1970–97",Q140154292,11,1,2,,,Q13442814,,
+Catholicism,"Religious Denomination and Party Choice in Western Europe: A Comparative Longitudinal Study from Eight Countries, 1970–97",Q140147345,11,1,2,,,Q13442814,,
+Catholicism,Religious denomination and depression in older Dutch citizens: patterns and models,Q53550054,11,1,2,scientific article published in November 1998,,Q13442814,,
+Catholicism,Religious denomination as a symptom-formation factor of depression in older Dutch citizens,Q52168190,11,1,2,scientific article published in May 2000,,Q13442814,,
+Catholicism,"Religious denomination influencing attitudes towards brain death, organ transplantation and autopsy-a survey among people of different religions",Q92653958,11,1,2,scientific article published on 15 August 2019,,Q13442814,,
+Catholicism,Religious Denominational Policies on Sexuality,Q129441591,11,1,2,scholarly article,,Q13442814,,
+Catholicism,Christian denomination,Q879146,11,1,2,identifiable Christian body with common characteristics,Christian body|Christian branch|Christian confession|church denomination|Christian sect,,Q13414953|Q94670589,Christian denomination
+Catholicism,denominational views on the Kingdom of God,Q16852467,11,1,2,schools of thought on a theme of Jesus' preaching,Kingdom of God|Christian denominational views on the Kingdom of God,Q216545,,Kingdom of God (Christian denominational variations)
+Catholicism,Christian Denominations and the Nuclear Issue 1945-1985: A Model of Pressures and Constraints,Q111637782,11,1,2,doctoral dissertation,,Q187685,,
+Catholicism,Christian denominational family,Q123129246,11,1,2,"group of Christian denominations that share common names, historical ties, and similar doctrines and practices but maintain separate organizations and governance",branch of Christianity,Q24017414,Q879146,
+Catholicism,Christian denominations of Russia in contemporary cultural processes,Q129654530,11,1,2,scholarly article published on 15 June 2018,,Q13442814,,
+Catholicism,Template:ChristianBeliefs,Q7464728,11,1,2,Wikimedia template,,Q11266439,,
+Catholicism,Catholic Church,Q9592,11,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,11,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,11,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,11,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,11,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,11,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,11,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,11,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,11,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,11,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+list of cultural properties in Brissago,list of cultural properties in Brissago,Q14540294,11,2,1,"Wikimedia list of cultural properties in Brissago in the canton of Ticino, Switzerland",,Q13406463,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q55182704,11,2,2,"church in Virle, settlement in the Italian municipality of Rezzato",,Q16970|Q1497375,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q59284119,11,2,2,"church in Rovello Porro, Italy",,Q16970|Q1497375,,
+list of cultural properties in Brissago,Santi Pietro e Paolo church,Q3668347,11,2,2,"church building in Brissago in the canton of Ticino, Switzerland",Chiesa parrocchiale dei SS. Pietro e Paolo,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q55326277,11,2,2,church in the Italian municipality of Ospedaletto Lodigiano,,Q16970,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q91613306,11,2,2,"church in Arese, Italy",,Q16970,,"Santi Pietro e Paolo, Arese"
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q84448390,11,2,2,"building in Cilavegna, Italy",,Q16970,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q113017358,11,2,2,"church in Visone, Italy",,Q16970,,
+list of cultural properties in Brissago,Santi Pietro e Paolo Church,Q112812381,11,2,2,"church in Dizzasco, Italy",,Q16970|Q1497375,,
+list of cultural properties in Brissago,Santi Pietro e Paolo church,Q85930437,11,2,2,"church building in Crealla, Valle Cannobina, Italy",,Q16970,,
+list of cultural properties in Brissago,Santi Pietro e Paolo church,Q55178774,11,2,2,"church in Peschiera Borromeo, Italy",,Q16970,,
+list of cultural properties in Brissago,Catholicism,Q1841,11,2,2,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+list of cultural properties in Brissago,Catholicism: The Story of Catholic Christianity,Q56048148,11,2,2,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+list of cultural properties in Brissago,Catholic Church and health care,Q12193139,11,2,2,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+list of cultural properties in Brissago,Catholic Church in Canada,Q1205551,11,2,2,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+list of cultural properties in Brissago,Catholic Church in Italy,Q1201891,11,2,2,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+list of cultural properties in Brissago,Catholic Church in Japan,Q1205621,11,2,2,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+list of cultural properties in Brissago,Catholicism and Crisis in Modern France,Q140146939,11,2,2,book published by Princeton University Press (1962),,Q3331189,,
+list of cultural properties in Brissago,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,11,2,2,book published in 2000,,Q3331189,,
+list of cultural properties in Brissago,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,11,2,2,,,Q7725634,,
+list of cultural properties in Brissago,Catholic Church in Bosnia and Herzegovina,Q1572396,11,2,2,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+San Giovanni Battista,San Giovanni Battista,Q3670476,12,0,1,"church building in Vittorio Veneto, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q121142294,12,0,1,"church building in Annicco, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q118984089,12,0,1,"church building in Porano, Italy",San Giovanni Battista a Castel Rubello,Q16970,,
+San Giovanni Battista,church of S. Giovanni Battista,Q112673514,12,0,1,church in Schignano,San Giovanni Battista|John the Baptist,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120801530,12,0,1,"religious building in Monte Sabinese, Carsoli, Italy",John the Apostle,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120824454,12,0,1,church at Sant'Angelo in Theodice (FR),,Q16970,,
+San Giovanni Battista,John the Baptist,Q40662,12,0,1,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+San Giovanni Battista,San Giovanni Battista,Q1255737,12,0,1,"church building in Lecce, Italy",,Q120560|Q317557,,
+San Giovanni Battista,San Giovanni Battista,Q3716357,12,0,1,"church building in Loano, Italy","Duomo of San Giovanni Battista, Loano",Q16970,,"Duomo of San Giovanni Battista, Loano"
+San Giovanni Battista,San Giovanni Battista,Q25106085,12,0,1,"church building in Pesaro, Italy",,Q16970,,"San Giovanni Battista, Pesaro"
+San Giovanni Battista,Saint John the Baptist,Q783215,12,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q9015206,12,0,2,"painting by Caravaggio (Roma, 1610)",,Q3305213,,
+San Giovanni Battista,Saint John the Baptist as a Boy,Q3947281,12,0,2,painting by Andrea del Sarto,Saint John the Baptist|John the Baptist,Q3305213,,Saint John the Baptist as a Boy (Andrea del Sarto)
+San Giovanni Battista,Saint John the Baptist,Q3463869,12,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+San Giovanni Battista,St. John the Baptist,Q69899942,12,0,2,painting by El Greco (San Francisco),Saint John the Baptist,Q3305213,,Saint John the Baptist (El Greco)
+San Giovanni Battista,Young Saint John the Baptist with ram,Q3223625,12,0,2,"painting by Caravaggio in the Capitoline Museums, Rome",Saint John the Baptist|Saint John the Baptist (Youth with a Ram),Q3305213|Q17152495,,
+San Giovanni Battista,Saint John the Baptist,Q3463868,12,0,2,painting by Caravaggio (Toledo),,Q3305213,,
+San Giovanni Battista,Bacchus,Q798034,12,0,2,painting attributed to Francesco Melzi while at the workshop of Leonardo da Vinci,"Saint John the Baptist|Bacchus (Leonardo)|Bacchus Leonardo|Bacchus Leonardo da Vinci|Bacchus (Leonardo da Vinci)|Saint John the Baptist, known as Bacchus",Q3305213,,Bacchus (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q19943594,12,0,2,painting by Hans Memling,,Q3305213,,
+Catholicism,Catholicism,Q1841,12,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,12,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,12,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,12,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,12,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,12,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,12,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,12,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,12,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,12,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,San Giovanni Battista Church,Q3670446,12,1,2,"church in Salbertrand, Italy",,Q16970,,
+Catholicism,San Giovanni Battista church,Q27987509,12,1,2,"parish church in Acconia, hamlet of Curinga, Catanzaro",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q64026209,12,1,2,"church in Bressana Bottarone, Italy",,Q16970|Q1497375,,
+Catholicism,San Giovanni Battista Church,Q3670430,12,1,2,"church in Monterosso al Mare, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q55182932,12,1,2,"building in Penne, Italy",,Q16970,,"San Giovanni Battista, Penne"
+Catholicism,San Giovanni Battista Church,Q77650137,12,1,2,church in the Italian municipality of Telgate,San Giovanni Battista,Q16970,,"San Giovanni Battista, Telgate"
+Catholicism,San Giovanni Battista Church,Q25350047,12,1,2,"church in Olmeneta, Italy",,Q16970,,"San Giovanni Battista, Olmeneta"
+Catholicism,San Giovanni Battista Church,Q115568384,12,1,2,"church in Serravalle Sesia, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q102288901,12,1,2,"church in Mozzo, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q3670423,12,1,2,"church buildings in Mendrisio in the canton of Ticino, Switzerland",,Q811979|Q44613|Q1088552|Q580499,,
+Catholicism,Basilica of St. John the Baptist,Q5197007,12,1,2,"church in Asturias, Spain",,Q55876909|Q120560,,"San Juan el Real, Oviedo"
+Catholicism,Basilica of St. John the Baptist,Q4867384,12,1,2,"historic church in Newfoundland and Labrador, Canada",basilica cathedral of st john the baptist,Q56242215|Q120560,,Basilica of St. John the Baptist
+Catholicism,Basilica of St. John the Baptist,Q3670407,12,1,2,"church building in Foggia, Italy",,Q120560|Q317557,,
+Catholicism,"Basilica of St. John the Baptist, Berlin",Q877416,12,1,2,"parish church in Berlin, Germany",,Q2977|Q317557|Q163687,,"Basilica of St. John the Baptist, Berlin"
+Catholicism,Basilica of St. John the Baptist's Beheading in Chojnice,Q9167786,12,1,2,"church building in Chojnice, Poland",,Q16970|Q811165,,
+Catholicism,"Basilica of St. John the Baptist, Saarbrücken",Q810112,12,1,2,parish church,,Q317557,,"Basilica of St. John the Baptist, Saarbrücken"
+Catholicism,Basilica of St. John the Baptist,Q138327430,12,1,2,Wikimedia disambiguation page,,Q4167410,,Basilica of St. John the Baptist (disambiguation)
+San Giovanni Battista,San Giovanni Battista,Q3670476,13,0,1,"church building in Vittorio Veneto, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q121142294,13,0,1,"church building in Annicco, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q118984089,13,0,1,"church building in Porano, Italy",San Giovanni Battista a Castel Rubello,Q16970,,
+San Giovanni Battista,church of S. Giovanni Battista,Q112673514,13,0,1,church in Schignano,San Giovanni Battista|John the Baptist,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120801530,13,0,1,"religious building in Monte Sabinese, Carsoli, Italy",John the Apostle,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120824454,13,0,1,church at Sant'Angelo in Theodice (FR),,Q16970,,
+San Giovanni Battista,John the Baptist,Q40662,13,0,1,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+San Giovanni Battista,San Giovanni Battista,Q1255737,13,0,1,"church building in Lecce, Italy",,Q120560|Q317557,,
+San Giovanni Battista,San Giovanni Battista,Q3716357,13,0,1,"church building in Loano, Italy","Duomo of San Giovanni Battista, Loano",Q16970,,"Duomo of San Giovanni Battista, Loano"
+San Giovanni Battista,San Giovanni Battista,Q25106085,13,0,1,"church building in Pesaro, Italy",,Q16970,,"San Giovanni Battista, Pesaro"
+San Giovanni Battista,Saint John the Baptist,Q783215,13,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q9015206,13,0,2,"painting by Caravaggio (Roma, 1610)",,Q3305213,,
+San Giovanni Battista,Saint John the Baptist as a Boy,Q3947281,13,0,2,painting by Andrea del Sarto,Saint John the Baptist|John the Baptist,Q3305213,,Saint John the Baptist as a Boy (Andrea del Sarto)
+San Giovanni Battista,Saint John the Baptist,Q3463869,13,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+San Giovanni Battista,St. John the Baptist,Q69899942,13,0,2,painting by El Greco (San Francisco),Saint John the Baptist,Q3305213,,Saint John the Baptist (El Greco)
+San Giovanni Battista,Young Saint John the Baptist with ram,Q3223625,13,0,2,"painting by Caravaggio in the Capitoline Museums, Rome",Saint John the Baptist|Saint John the Baptist (Youth with a Ram),Q3305213|Q17152495,,
+San Giovanni Battista,Saint John the Baptist,Q3463868,13,0,2,painting by Caravaggio (Toledo),,Q3305213,,
+San Giovanni Battista,Bacchus,Q798034,13,0,2,painting attributed to Francesco Melzi while at the workshop of Leonardo da Vinci,"Saint John the Baptist|Bacchus (Leonardo)|Bacchus Leonardo|Bacchus Leonardo da Vinci|Bacchus (Leonardo da Vinci)|Saint John the Baptist, known as Bacchus",Q3305213,,Bacchus (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q19943594,13,0,2,painting by Hans Memling,,Q3305213,,
+Catholicism,Catholicism,Q1841,13,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,13,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,13,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,13,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,13,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,13,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,13,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,13,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,13,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,13,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,San Giovanni Battista Church,Q3670446,13,1,2,"church in Salbertrand, Italy",,Q16970,,
+Catholicism,San Giovanni Battista church,Q27987509,13,1,2,"parish church in Acconia, hamlet of Curinga, Catanzaro",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q64026209,13,1,2,"church in Bressana Bottarone, Italy",,Q16970|Q1497375,,
+Catholicism,San Giovanni Battista Church,Q3670430,13,1,2,"church in Monterosso al Mare, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q55182932,13,1,2,"building in Penne, Italy",,Q16970,,"San Giovanni Battista, Penne"
+Catholicism,San Giovanni Battista Church,Q77650137,13,1,2,church in the Italian municipality of Telgate,San Giovanni Battista,Q16970,,"San Giovanni Battista, Telgate"
+Catholicism,San Giovanni Battista Church,Q25350047,13,1,2,"church in Olmeneta, Italy",,Q16970,,"San Giovanni Battista, Olmeneta"
+Catholicism,San Giovanni Battista Church,Q115568384,13,1,2,"church in Serravalle Sesia, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q102288901,13,1,2,"church in Mozzo, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q3670423,13,1,2,"church buildings in Mendrisio in the canton of Ticino, Switzerland",,Q811979|Q44613|Q1088552|Q580499,,
+Catholicism,Basilica of St. John the Baptist,Q5197007,13,1,2,"church in Asturias, Spain",,Q55876909|Q120560,,"San Juan el Real, Oviedo"
+Catholicism,Basilica of St. John the Baptist,Q4867384,13,1,2,"historic church in Newfoundland and Labrador, Canada",basilica cathedral of st john the baptist,Q56242215|Q120560,,Basilica of St. John the Baptist
+Catholicism,Basilica of St. John the Baptist,Q3670407,13,1,2,"church building in Foggia, Italy",,Q120560|Q317557,,
+Catholicism,"Basilica of St. John the Baptist, Berlin",Q877416,13,1,2,"parish church in Berlin, Germany",,Q2977|Q317557|Q163687,,"Basilica of St. John the Baptist, Berlin"
+Catholicism,Basilica of St. John the Baptist's Beheading in Chojnice,Q9167786,13,1,2,"church building in Chojnice, Poland",,Q16970|Q811165,,
+Catholicism,"Basilica of St. John the Baptist, Saarbrücken",Q810112,13,1,2,parish church,,Q317557,,"Basilica of St. John the Baptist, Saarbrücken"
+Catholicism,Basilica of St. John the Baptist,Q138327430,13,1,2,Wikimedia disambiguation page,,Q4167410,,Basilica of St. John the Baptist (disambiguation)
+San Giovanni Battista,San Giovanni Battista,Q3670476,14,0,1,"church building in Vittorio Veneto, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q121142294,14,0,1,"church building in Annicco, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q118984089,14,0,1,"church building in Porano, Italy",San Giovanni Battista a Castel Rubello,Q16970,,
+San Giovanni Battista,church of S. Giovanni Battista,Q112673514,14,0,1,church in Schignano,San Giovanni Battista|John the Baptist,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120801530,14,0,1,"religious building in Monte Sabinese, Carsoli, Italy",John the Apostle,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120824454,14,0,1,church at Sant'Angelo in Theodice (FR),,Q16970,,
+San Giovanni Battista,John the Baptist,Q40662,14,0,1,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+San Giovanni Battista,San Giovanni Battista,Q1255737,14,0,1,"church building in Lecce, Italy",,Q120560|Q317557,,
+San Giovanni Battista,San Giovanni Battista,Q3716357,14,0,1,"church building in Loano, Italy","Duomo of San Giovanni Battista, Loano",Q16970,,"Duomo of San Giovanni Battista, Loano"
+San Giovanni Battista,San Giovanni Battista,Q25106085,14,0,1,"church building in Pesaro, Italy",,Q16970,,"San Giovanni Battista, Pesaro"
+San Giovanni Battista,Saint John the Baptist,Q783215,14,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q9015206,14,0,2,"painting by Caravaggio (Roma, 1610)",,Q3305213,,
+San Giovanni Battista,Saint John the Baptist as a Boy,Q3947281,14,0,2,painting by Andrea del Sarto,Saint John the Baptist|John the Baptist,Q3305213,,Saint John the Baptist as a Boy (Andrea del Sarto)
+San Giovanni Battista,Saint John the Baptist,Q3463869,14,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+San Giovanni Battista,St. John the Baptist,Q69899942,14,0,2,painting by El Greco (San Francisco),Saint John the Baptist,Q3305213,,Saint John the Baptist (El Greco)
+San Giovanni Battista,Young Saint John the Baptist with ram,Q3223625,14,0,2,"painting by Caravaggio in the Capitoline Museums, Rome",Saint John the Baptist|Saint John the Baptist (Youth with a Ram),Q3305213|Q17152495,,
+San Giovanni Battista,Saint John the Baptist,Q3463868,14,0,2,painting by Caravaggio (Toledo),,Q3305213,,
+San Giovanni Battista,Bacchus,Q798034,14,0,2,painting attributed to Francesco Melzi while at the workshop of Leonardo da Vinci,"Saint John the Baptist|Bacchus (Leonardo)|Bacchus Leonardo|Bacchus Leonardo da Vinci|Bacchus (Leonardo da Vinci)|Saint John the Baptist, known as Bacchus",Q3305213,,Bacchus (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q19943594,14,0,2,painting by Hans Memling,,Q3305213,,
+Catholicism,Catholicism,Q1841,14,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,14,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,14,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,14,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,14,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,14,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,14,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,14,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,14,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,14,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,San Giovanni Battista Church,Q3670446,14,1,2,"church in Salbertrand, Italy",,Q16970,,
+Catholicism,San Giovanni Battista church,Q27987509,14,1,2,"parish church in Acconia, hamlet of Curinga, Catanzaro",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q64026209,14,1,2,"church in Bressana Bottarone, Italy",,Q16970|Q1497375,,
+Catholicism,San Giovanni Battista Church,Q3670430,14,1,2,"church in Monterosso al Mare, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q55182932,14,1,2,"building in Penne, Italy",,Q16970,,"San Giovanni Battista, Penne"
+Catholicism,San Giovanni Battista Church,Q77650137,14,1,2,church in the Italian municipality of Telgate,San Giovanni Battista,Q16970,,"San Giovanni Battista, Telgate"
+Catholicism,San Giovanni Battista Church,Q25350047,14,1,2,"church in Olmeneta, Italy",,Q16970,,"San Giovanni Battista, Olmeneta"
+Catholicism,San Giovanni Battista Church,Q115568384,14,1,2,"church in Serravalle Sesia, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q102288901,14,1,2,"church in Mozzo, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q3670423,14,1,2,"church buildings in Mendrisio in the canton of Ticino, Switzerland",,Q811979|Q44613|Q1088552|Q580499,,
+Catholicism,Basilica of St. John the Baptist,Q5197007,14,1,2,"church in Asturias, Spain",,Q55876909|Q120560,,"San Juan el Real, Oviedo"
+Catholicism,Basilica of St. John the Baptist,Q4867384,14,1,2,"historic church in Newfoundland and Labrador, Canada",basilica cathedral of st john the baptist,Q56242215|Q120560,,Basilica of St. John the Baptist
+Catholicism,Basilica of St. John the Baptist,Q3670407,14,1,2,"church building in Foggia, Italy",,Q120560|Q317557,,
+Catholicism,"Basilica of St. John the Baptist, Berlin",Q877416,14,1,2,"parish church in Berlin, Germany",,Q2977|Q317557|Q163687,,"Basilica of St. John the Baptist, Berlin"
+Catholicism,Basilica of St. John the Baptist's Beheading in Chojnice,Q9167786,14,1,2,"church building in Chojnice, Poland",,Q16970|Q811165,,
+Catholicism,"Basilica of St. John the Baptist, Saarbrücken",Q810112,14,1,2,parish church,,Q317557,,"Basilica of St. John the Baptist, Saarbrücken"
+Catholicism,Basilica of St. John the Baptist,Q138327430,14,1,2,Wikimedia disambiguation page,,Q4167410,,Basilica of St. John the Baptist (disambiguation)
+San Giovanni Battista,San Giovanni Battista,Q3670476,15,0,1,"church building in Vittorio Veneto, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q121142294,15,0,1,"church building in Annicco, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q118984089,15,0,1,"church building in Porano, Italy",San Giovanni Battista a Castel Rubello,Q16970,,
+San Giovanni Battista,church of S. Giovanni Battista,Q112673514,15,0,1,church in Schignano,San Giovanni Battista|John the Baptist,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120801530,15,0,1,"religious building in Monte Sabinese, Carsoli, Italy",John the Apostle,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120824454,15,0,1,church at Sant'Angelo in Theodice (FR),,Q16970,,
+San Giovanni Battista,John the Baptist,Q40662,15,0,1,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+San Giovanni Battista,San Giovanni Battista,Q1255737,15,0,1,"church building in Lecce, Italy",,Q120560|Q317557,,
+San Giovanni Battista,San Giovanni Battista,Q3716357,15,0,1,"church building in Loano, Italy","Duomo of San Giovanni Battista, Loano",Q16970,,"Duomo of San Giovanni Battista, Loano"
+San Giovanni Battista,San Giovanni Battista,Q25106085,15,0,1,"church building in Pesaro, Italy",,Q16970,,"San Giovanni Battista, Pesaro"
+San Giovanni Battista,Saint John the Baptist,Q783215,15,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q9015206,15,0,2,"painting by Caravaggio (Roma, 1610)",,Q3305213,,
+San Giovanni Battista,Saint John the Baptist as a Boy,Q3947281,15,0,2,painting by Andrea del Sarto,Saint John the Baptist|John the Baptist,Q3305213,,Saint John the Baptist as a Boy (Andrea del Sarto)
+San Giovanni Battista,Saint John the Baptist,Q3463869,15,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+San Giovanni Battista,St. John the Baptist,Q69899942,15,0,2,painting by El Greco (San Francisco),Saint John the Baptist,Q3305213,,Saint John the Baptist (El Greco)
+San Giovanni Battista,Young Saint John the Baptist with ram,Q3223625,15,0,2,"painting by Caravaggio in the Capitoline Museums, Rome",Saint John the Baptist|Saint John the Baptist (Youth with a Ram),Q3305213|Q17152495,,
+San Giovanni Battista,Saint John the Baptist,Q3463868,15,0,2,painting by Caravaggio (Toledo),,Q3305213,,
+San Giovanni Battista,Bacchus,Q798034,15,0,2,painting attributed to Francesco Melzi while at the workshop of Leonardo da Vinci,"Saint John the Baptist|Bacchus (Leonardo)|Bacchus Leonardo|Bacchus Leonardo da Vinci|Bacchus (Leonardo da Vinci)|Saint John the Baptist, known as Bacchus",Q3305213,,Bacchus (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q19943594,15,0,2,painting by Hans Memling,,Q3305213,,
+Catholicism,Catholicism,Q1841,15,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,15,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,15,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,15,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,15,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,15,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,15,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,15,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,15,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,15,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,San Giovanni Battista Church,Q3670446,15,1,2,"church in Salbertrand, Italy",,Q16970,,
+Catholicism,San Giovanni Battista church,Q27987509,15,1,2,"parish church in Acconia, hamlet of Curinga, Catanzaro",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q64026209,15,1,2,"church in Bressana Bottarone, Italy",,Q16970|Q1497375,,
+Catholicism,San Giovanni Battista Church,Q3670430,15,1,2,"church in Monterosso al Mare, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q55182932,15,1,2,"building in Penne, Italy",,Q16970,,"San Giovanni Battista, Penne"
+Catholicism,San Giovanni Battista Church,Q77650137,15,1,2,church in the Italian municipality of Telgate,San Giovanni Battista,Q16970,,"San Giovanni Battista, Telgate"
+Catholicism,San Giovanni Battista Church,Q25350047,15,1,2,"church in Olmeneta, Italy",,Q16970,,"San Giovanni Battista, Olmeneta"
+Catholicism,San Giovanni Battista Church,Q115568384,15,1,2,"church in Serravalle Sesia, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q102288901,15,1,2,"church in Mozzo, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q3670423,15,1,2,"church buildings in Mendrisio in the canton of Ticino, Switzerland",,Q811979|Q44613|Q1088552|Q580499,,
+Catholicism,Basilica of St. John the Baptist,Q5197007,15,1,2,"church in Asturias, Spain",,Q55876909|Q120560,,"San Juan el Real, Oviedo"
+Catholicism,Basilica of St. John the Baptist,Q4867384,15,1,2,"historic church in Newfoundland and Labrador, Canada",basilica cathedral of st john the baptist,Q56242215|Q120560,,Basilica of St. John the Baptist
+Catholicism,Basilica of St. John the Baptist,Q3670407,15,1,2,"church building in Foggia, Italy",,Q120560|Q317557,,
+Catholicism,"Basilica of St. John the Baptist, Berlin",Q877416,15,1,2,"parish church in Berlin, Germany",,Q2977|Q317557|Q163687,,"Basilica of St. John the Baptist, Berlin"
+Catholicism,Basilica of St. John the Baptist's Beheading in Chojnice,Q9167786,15,1,2,"church building in Chojnice, Poland",,Q16970|Q811165,,
+Catholicism,"Basilica of St. John the Baptist, Saarbrücken",Q810112,15,1,2,parish church,,Q317557,,"Basilica of St. John the Baptist, Saarbrücken"
+Catholicism,Basilica of St. John the Baptist,Q138327430,15,1,2,Wikimedia disambiguation page,,Q4167410,,Basilica of St. John the Baptist (disambiguation)
+San Giovanni Battista,San Giovanni Battista,Q3670476,16,0,1,"church building in Vittorio Veneto, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q121142294,16,0,1,"church building in Annicco, Italy",,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q118984089,16,0,1,"church building in Porano, Italy",San Giovanni Battista a Castel Rubello,Q16970,,
+San Giovanni Battista,church of S. Giovanni Battista,Q112673514,16,0,1,church in Schignano,San Giovanni Battista|John the Baptist,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120801530,16,0,1,"religious building in Monte Sabinese, Carsoli, Italy",John the Apostle,Q16970,,
+San Giovanni Battista,San Giovanni Battista,Q120824454,16,0,1,church at Sant'Angelo in Theodice (FR),,Q16970,,
+San Giovanni Battista,John the Baptist,Q40662,16,0,1,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+San Giovanni Battista,San Giovanni Battista,Q1255737,16,0,1,"church building in Lecce, Italy",,Q120560|Q317557,,
+San Giovanni Battista,San Giovanni Battista,Q3716357,16,0,1,"church building in Loano, Italy","Duomo of San Giovanni Battista, Loano",Q16970,,"Duomo of San Giovanni Battista, Loano"
+San Giovanni Battista,San Giovanni Battista,Q25106085,16,0,1,"church building in Pesaro, Italy",,Q16970,,"San Giovanni Battista, Pesaro"
+San Giovanni Battista,Saint John the Baptist,Q783215,16,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q9015206,16,0,2,"painting by Caravaggio (Roma, 1610)",,Q3305213,,
+San Giovanni Battista,Saint John the Baptist as a Boy,Q3947281,16,0,2,painting by Andrea del Sarto,Saint John the Baptist|John the Baptist,Q3305213,,Saint John the Baptist as a Boy (Andrea del Sarto)
+San Giovanni Battista,Saint John the Baptist,Q3463869,16,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+San Giovanni Battista,St. John the Baptist,Q69899942,16,0,2,painting by El Greco (San Francisco),Saint John the Baptist,Q3305213,,Saint John the Baptist (El Greco)
+San Giovanni Battista,Young Saint John the Baptist with ram,Q3223625,16,0,2,"painting by Caravaggio in the Capitoline Museums, Rome",Saint John the Baptist|Saint John the Baptist (Youth with a Ram),Q3305213|Q17152495,,
+San Giovanni Battista,Saint John the Baptist,Q3463868,16,0,2,painting by Caravaggio (Toledo),,Q3305213,,
+San Giovanni Battista,Bacchus,Q798034,16,0,2,painting attributed to Francesco Melzi while at the workshop of Leonardo da Vinci,"Saint John the Baptist|Bacchus (Leonardo)|Bacchus Leonardo|Bacchus Leonardo da Vinci|Bacchus (Leonardo da Vinci)|Saint John the Baptist, known as Bacchus",Q3305213,,Bacchus (Leonardo)
+San Giovanni Battista,Saint John the Baptist,Q19943594,16,0,2,painting by Hans Memling,,Q3305213,,
+Catholicism,Catholicism,Q1841,16,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,16,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,16,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,16,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,16,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,16,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,16,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,16,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,16,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,16,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,San Giovanni Battista Church,Q3670446,16,1,2,"church in Salbertrand, Italy",,Q16970,,
+Catholicism,San Giovanni Battista church,Q27987509,16,1,2,"parish church in Acconia, hamlet of Curinga, Catanzaro",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q64026209,16,1,2,"church in Bressana Bottarone, Italy",,Q16970|Q1497375,,
+Catholicism,San Giovanni Battista Church,Q3670430,16,1,2,"church in Monterosso al Mare, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q55182932,16,1,2,"building in Penne, Italy",,Q16970,,"San Giovanni Battista, Penne"
+Catholicism,San Giovanni Battista Church,Q77650137,16,1,2,church in the Italian municipality of Telgate,San Giovanni Battista,Q16970,,"San Giovanni Battista, Telgate"
+Catholicism,San Giovanni Battista Church,Q25350047,16,1,2,"church in Olmeneta, Italy",,Q16970,,"San Giovanni Battista, Olmeneta"
+Catholicism,San Giovanni Battista Church,Q115568384,16,1,2,"church in Serravalle Sesia, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q102288901,16,1,2,"church in Mozzo, Italy",,Q16970,,
+Catholicism,San Giovanni Battista Church,Q3670423,16,1,2,"church buildings in Mendrisio in the canton of Ticino, Switzerland",,Q811979|Q44613|Q1088552|Q580499,,
+Catholicism,Basilica of St. John the Baptist,Q5197007,16,1,2,"church in Asturias, Spain",,Q55876909|Q120560,,"San Juan el Real, Oviedo"
+Catholicism,Basilica of St. John the Baptist,Q4867384,16,1,2,"historic church in Newfoundland and Labrador, Canada",basilica cathedral of st john the baptist,Q56242215|Q120560,,Basilica of St. John the Baptist
+Catholicism,Basilica of St. John the Baptist,Q3670407,16,1,2,"church building in Foggia, Italy",,Q120560|Q317557,,
+Catholicism,"Basilica of St. John the Baptist, Berlin",Q877416,16,1,2,"parish church in Berlin, Germany",,Q2977|Q317557|Q163687,,"Basilica of St. John the Baptist, Berlin"
+Catholicism,Basilica of St. John the Baptist's Beheading in Chojnice,Q9167786,16,1,2,"church building in Chojnice, Poland",,Q16970|Q811165,,
+Catholicism,"Basilica of St. John the Baptist, Saarbrücken",Q810112,16,1,2,parish church,,Q317557,,"Basilica of St. John the Baptist, Saarbrücken"
+Catholicism,Basilica of St. John the Baptist,Q138327430,16,1,2,Wikimedia disambiguation page,,Q4167410,,Basilica of St. John the Baptist (disambiguation)
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q107340896,17,0,1,,,Q16970,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q64062440,17,0,1,"church in Rigoroso, settlement in the Italian municipality of Arquata Scrivia",,Q16970,,
+Sant'Andrea Apostolo Church,Saint Andrew church,Q120487042,17,0,1,"church in Salvarosa, Castelfranco Veneto, Italy",Sant'Andrea Apostolo Church,Q16970,,
+Sant'Andrea Apostolo Church,Sant’Andrea Apostolo church,Q55722210,17,0,1,"church in Massalengo, Italy",,Q16970|Q1497375,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q96171583,17,0,1,"church in Basiliano, Italy",,Q317557,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q55117665,17,0,1,"church in Castelnovo di Sotto, Italy",,Q16970,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo church,Q55339361,17,0,1,"church in Gaggiano, Italy",,Q16970,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q105466037,17,0,1,"church in Pompiano, Italy",,Q16970,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q111124242,17,0,1,"church in Crespiatica, Italy",,Q55876909|Q16970,,
+Sant'Andrea Apostolo Church,Sant'Andrea Apostolo Church,Q98180578,17,0,1,"church in Zelo Buon Persico, Italy",,Q16970,,
+Sant'Andrea Apostolo Church,Catholic Church,Q9592,17,0,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Sant'Andrea Apostolo Church,Catholic church building,Q1088552,17,0,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Sant'Andrea Apostolo Church,Catholic Church,Q110209751,17,0,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Sant'Andrea Apostolo Church,Catholic Church in the United States,Q769585,17,0,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Sant'Andrea Apostolo Church,Catholic church,Q106842044,17,0,2,"church building in Hesse, Germany",,Q16970,,
+Sant'Andrea Apostolo Church,Catholic Church,Q1487180,17,0,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Sant'Andrea Apostolo Church,Catholic Church sexual abuse cases,Q573565,17,0,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Sant'Andrea Apostolo Church,Catholic Church in the Czech Republic,Q1201779,17,0,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Sant'Andrea Apostolo Church,Catholic church,Q1537908,17,0,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Sant'Andrea Apostolo Church,political Catholicism,Q834554,17,0,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Sant'Andrea Apostolo Church,Latin Church,Q597526,17,0,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Sant'Andrea Apostolo Church,Roman Catholic Church,Q104699267,17,0,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Sant'Andrea Apostolo Church,Basilica of Our Lady of Graces,Q4867358,17,0,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Sant'Andrea Apostolo Church,Ignacy Krauze,Q10303361,17,0,2,Bishop,Roman Catholic Church,Q5,,
+Sant'Andrea Apostolo Church,roman-catholic church,Q1514195,17,0,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Sant'Andrea Apostolo Church,Roman Catholic Church,Q17613419,17,0,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Sant'Andrea Apostolo Church,Roman Catholic Church in Eritrea,Q2428493,17,0,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Sant'Andrea Apostolo Church,Roman Catholic Church of St. George in Kula,Q108211801,17,0,2,"church building in Kula, Serbia",,Q16970,,
+Sant'Andrea Apostolo Church,religious building,Q24398318,17,0,2,building intended for religious worship or other activities related to a religion; ceremonial structures that are related to or concerned with religion,sacral building,Q811102,Q12910132|Q41176|Q1370598,
+Sant'Andrea Apostolo Church,Category:Destroyed religious buildings and structures,Q8373207,17,0,2,Wikimedia category,destroyed religious building|demolished religious building|former religious building|religious building,Q4167836,,Category:Destroyed religious buildings and structures
+Sant'Andrea Apostolo Church,religious building ruin,Q96352513,17,0,2,ruins of a religious building,ruins of religious building|religious building ruins|former religious building,,Q109607|Q96352496|Q19860854,
+Sant'Andrea Apostolo Church,Religious buildings in Kharkiv,Q4501224,17,0,2,Wikimedia list article,,Q13406463,,
+Sant'Andrea Apostolo Church,religious building fixture,Q111547807,17,0,2,"furniture, ornament, and other objects that are fastened in position and form part of a religious building but are not an integral part of the architecture itself",,,Q391414,
+Sant'Andrea Apostolo Church,Religious buildings in Kyiv,Q11713998,17,0,2,Wikimedia list article,,Q13406463,,
+Sant'Andrea Apostolo Church,Religious buildings in Mariupol,Q12167808,17,0,2,Wikimedia list article,,Q13406463,,
+Sant'Andrea Apostolo Church,Religious buildings in Olomouc,Q12051743,17,0,2,Wikimedia list article,,Q13406463,,
+Sant'Andrea Apostolo Church,"Religious Buildings, Sites and Structures in Vermont MPS",Q113676994,17,0,2,multiple listing in the U.S. National Register of Historic Places,"Religious Buildings, Sites and Structures in Vermont Multiple Property Submission",Q18247357,,
+Sant'Andrea Apostolo Church,Religious buildings in Hattingen,Q98704470,17,0,2,Wikimedia list article,,Q13406463,,
+Catholicism,Catholicism,Q1841,17,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,17,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,17,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,17,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,17,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,17,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,17,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,17,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,17,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,17,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,17,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,17,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,17,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,17,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,17,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,17,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,17,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,17,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,17,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,17,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Catholicism,Latin Church,Q597526,17,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,17,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,17,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,17,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,17,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,17,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,17,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,17,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in France,Q795240,17,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,17,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,17,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,17,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,17,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+Chiesa di San Martino Vescovo,chiesa di San Martino vescovo,Q18928043,18,0,1,"church in Monte San Martino, Macerata, Italy",Martin of Tours|San Martino vescovo,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q55137541,18,0,1,"building in Conselice, Italy",,Q55876909|Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q79243345,18,0,1,church in Alberlungo - Ostellato (FE),,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q106046481,18,0,1,"church building in San Martino Spino, Mirandola, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q79200891,18,0,1,church in Ruina - Ro (FE),Chiesa di San Martino Vescovo,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q77702361,18,0,1,church in Contrapò - Ferrara (FE),Chiesa di San Martino Vescovo,Q16970,,
+Chiesa di San Martino Vescovo,chiesa di San Martino Vescovo,Q57095831,18,0,1,"church building in Pravisdomini, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q106048618,18,0,1,church in San Martino in Rio (RE),,Q16970|Q317557,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q106046554,18,0,1,church in San Martino Carano - Mirandola (MO),,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino Vescovo,Q106084205,18,0,1,church in San Martino in Olza - Cortemaggiore (PC),,Q16970,,
+Chiesa di San Martino Vescovo,Martin of Tours,Q133704,18,0,2,Christian saint,Saint Martin|Sanctus Martinus Turonensis|Martinus Turonensis|St. Martin,Q5,,Martin of Tours
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q104601038,18,0,2,,,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q83962901,18,0,2,,,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q66085287,18,0,2,,,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q59560048,18,0,2,"building in Solignano, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q96344008,18,0,2,,,Q317557,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q110247002,18,0,2,,,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q118765036,18,0,2,"religious building in Macerata Campania, Italy",Martin of Tours,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Vescovo,Q100604552,18,0,2,"Catholic church building in San Salvatore Monferrato, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,Church of San Martino,Q55378773,18,0,2,"Confraternity church in Erice, Sicily",chiesa di San Martino (Erice)|Church of Saint Martin|Church of Purgatory,Q16970|Q92755865,,
+Chiesa di San Martino Vescovo,San Martino,Q27987186,18,0,2,"church in Casalecchio di Reno, Italy",Chiesa di San Martino,Q16970,,
+Chiesa di San Martino Vescovo,parish church of San  Martino,Q3904662,18,0,2,"church in Sesto Fiorentino, Italy",parish church of San Martino a Sesto|chiesa di San Martino,Q1464870,,
+Chiesa di San Martino Vescovo,San Martino,Q26273295,18,0,2,"church building in Traversetolo, Italy",Chiesa di San Martino,Q16970,,
+Chiesa di San Martino Vescovo,San Martino Church,Q3668286,18,0,2,"church building in Mendrisio in the canton of Ticino, Switzerland",Chiesa di San Martino,Q1088552,,
+Chiesa di San Martino Vescovo,San Martino,Q25714601,18,0,2,"church building in Noceto, Italy",Chiesa di San Martino,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino,Q106074445,18,0,2,church in Palanzano (PR),,Q16970,,
+Chiesa di San Martino Vescovo,Chiesa di San Martino,Q56383756,18,0,2,"building in Varano de' Melegari, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,"St. Martin's Church, Moletano",Q93449385,18,0,2,,Chiesa di San Martino|St Martin's Church,Q16970,,
+Chiesa di San Martino Vescovo,San Martino,Q28808144,18,0,2,"church building in Parma, Italy",Chiesa di San Martino,Q16970,,
+Chiesa di San Martino Vescovo,San Martino,Q3947638,18,0,2,,,Q174736,,
+Chiesa di San Martino Vescovo,San Martino,Q123586204,18,0,2,"religious building in Villa Romana, Carsoli, Italy",,Q16970|Q580499|Q6017969,,
+Chiesa di San Martino Vescovo,San Martino,Q55170204,18,0,2,"church building in Montepulciano, Italy",,Q16970,,
+Chiesa di San Martino Vescovo,San-Martino-di-Lota,Q972882,18,0,2,"commune in Haute-Corse, France",,Q484170,,San-Martino-di-Lota
+Chiesa di San Martino Vescovo,San Martin de Tor,Q494793,18,0,2,"municipality in South Tyrol, Italy",San Martino in Badia|Sankt Martin in Thurn,Q747074,,San Martin de Tor
+Chiesa di San Martino Vescovo,San Martino Buon Albergo,Q47998,18,0,2,Italian comune,,Q747074,,San Martino Buon Albergo
+Chiesa di San Martino Vescovo,Sammartino,Q25114857,18,0,2,family name,San Martino,Q101352,,Sammartino
+Chiesa di San Martino Vescovo,San Martino,Q782741,18,0,2,"church in Siena, Italy",San Martino (Siena),Q16970,,"San Martino, Siena"
+Chiesa di San Martino Vescovo,San Martino,Q3671020,18,0,2,"church building in Bologna, Italy",,Q120560|Q697295|Q16970,,"San Martino, Bologna"
+Chiesa di San Martino Vescovo,San Martino,Q18502413,18,0,2,"human settlement in Colle Umberto, Province of Treviso, Veneto, Italy",,Q1134686,,
+Catholicism,Catholicism,Q1841,18,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,18,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,18,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,18,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,18,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,18,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,18,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,18,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,18,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,18,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,18,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,18,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,18,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,18,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,18,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,18,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,18,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,18,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,18,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,18,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Catholicism,Catholic Church in France,Q795240,18,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,18,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,18,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,18,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,18,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+Catholicism,Christianity,Q5043,18,1,2,Abrahamic monotheistic religion,Christian faith,Q6957341|Q47280|Q9174|Q19842652,Q47280,Christianity
+Catholicism,history of Christianity,Q235329,18,1,2,historical development of Christianity,Christian history|Christianity history,Q17524420,Q309,History of Christianity
+Catholicism,Christianity Today,Q680794,18,1,2,evangelical Christian magazine,,Q41298,,Christianity Today
+Catholicism,Christianity and Islam,Q2245260,18,1,2,interreligious relationship between two major Abrahamic religions,Qur'an on Christianity|Christian–Muslim relations|Muslim–Christian relations|Islam and Christianity,,Q5110487|Q3012633,Christianity and Islam
+Catholicism,Christianity,Q104538414,18,1,2,2011 chapter by Sam Turner,,Q21481766,,
+Catholicism,Christianity in Ghana,Q5110518,18,1,2,Religion in Ghana,,Q12833777,Q13179595|Q1749294,Christianity in Ghana
+Catholicism,Christianity of an area,Q12833777,18,1,2,Wikidata metaclass,Christianity in geographic location|Christianity in country|Christianity in region|Christianity of a country|Christianity of a region,Q19478619,Q66374263,
+Catholicism,Christianity,Q103897478,18,1,2,2018 encyclopedia article,,Q13433827,,
+Catholicism,Christianity in Karnataka,Q5110534,18,1,2,,,Q12833777,Q530005|Q7311198,Christianity in Karnataka
+church of St. Mary Major,church of St. Mary Major,Q61982093,19,0,1,"church building in Dierico, Paularo, Italy",,Q55876909,,
+church of St. Mary Major,Church of St. Mary Major,Q5911974,19,0,1,example of Romanesque religious architecture in the south of Cantabria,Santa María La Mayor|St. Mary Major|Santa Maria La Mayor,Q16970,,
+church of St. Mary Major,Church of St. Mary Major,Q113548799,19,0,1,,,Q55876909,,
+church of St. Mary Major,Church of St. Mary Major,Q132932899,19,0,1,"church building in Calamocha, Teruel, Spain",,Q55876909,,
+church of St. Mary Major,Basilica di Santa Maria Maggiore,Q186282,19,0,2,largest Catholic Marian church in Rome,Santa Maria Maggiore|church of Santa Maria Maggiore,Q124936|Q2713379|Q1492823|Q840482,,Santa Maria Maggiore
+church of St. Mary Major,Basilica of St. Mary Major,Q19896055,19,0,2,"building in Bologna, Italy",Chiesa di Santa Maria Maggiore|Basilica di Santa Maria Maggiore,Q120560|Q317557|Q16970|Q35112127,,"Santa Maria Maggiore, Bologna"
+church of St. Mary Major,basilica di Santa Maria Maggiore,Q77245219,19,0,2,"church building in Piedimonte Matese, Italy",Virgin Mary|Santa Maria Maggiore,Q16970|Q120560,,
+church of St. Mary Major,Santa Maria Maggiore,Q2001128,19,0,2,church in Bergamo,,Q120560,,"Santa Maria Maggiore, Bergamo"
+church of St. Mary Major,Basilica Santa Maria Maggiore,Q15117526,19,0,2,painting by Hans Holbein the Elder,,Q3305213,,
+church of St. Mary Major,Basilica vetus,Q3635789,19,0,2,"church building in Milan, Italy",Basilica di Santa Maria Maggiore (Milano)|Basilica vetus (Milano)|Cattedrale di Santa Maria Maggiore (Milano)|Chiesa di Santa Maria Maggiore (Milano)|Santa Maria Maggiore (Milano),Q16970,,Basilica vetus
+church of St. Mary Major,Santa Maria Maggiore,Q1304828,19,0,2,"church in Assisi, Italy",,Q16970|Q163687,,"Santa Maria Maggiore, Assisi"
+church of St. Mary Major,Basilica of Santa María la Mayor,Q18395817,19,0,2,"gothic and renaissance basilica in Pontevedra, Spain",Basilica of St. Mary Major,Q55876909|Q4989906|Q120560,,Basilica of Saint Mary Major (Pontevedra)
+church of St. Mary Major,Santa Maria Maggiore church,Q3673483,19,0,2,"church building in Trento, Italy",,Q120560,,"Santa Maria Maggiore, Trento"
+church of St. Mary Major,Santa Maria Maggiore,Q3673474,19,0,2,"church building in Lanciano, Italy","Santa Maria Maggiore, Lanciano",Q16970,,"Santa Maria Maggiore, Lanciano"
+Catholicism,Catholicism,Q1841,19,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,19,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,19,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,19,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,19,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,19,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,19,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,19,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,19,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,19,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,church of St. Mary Major,Q61982093,19,1,2,"church building in Dierico, Paularo, Italy",,Q55876909,,
+Catholicism,Church of St. Mary Major,Q5911974,19,1,2,example of Romanesque religious architecture in the south of Cantabria,Santa María La Mayor|St. Mary Major|Santa Maria La Mayor,Q16970,,
+Catholicism,Church of St. Mary Major,Q113548799,19,1,2,,,Q55876909,,
+Catholicism,Church of St. Mary Major,Q132932899,19,1,2,"church building in Calamocha, Teruel, Spain",,Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q2082993,20,0,1,"church building in Mühlau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q1304085,20,0,1,"church building in Dietwil in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909|Q1497375,,
+roman catholic parish church,roman catholic parish church,Q15124728,20,0,1,"church building in Schupfart in the canton of Aargau, Switzerland",Römisch-katholische Pfarrkirche,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q2083158,20,0,1,"church building in Oberrüti in the canton of Aargau, Switzerland",St. Rupert parish church,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q55382584,20,0,1,"church building in Stetten in the canton of Aargau, Switzerland",Römisch–katholische Pfarrkirche,Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q12354076,20,0,1,"church building in Balatonlelle, Hungary",,Q1088552,,
+roman catholic parish church,Roman Catholic Parish Church,Q29576105,20,0,1,"church building in Gipf-Oberfrick in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic parish church,Q29576312,20,0,1,"church building in Klingnau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q29581937,20,0,1,"church building in Zufikon in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman catholic parish church,Q29580268,20,0,1,"church building in Kirchdorf in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,cultural property,Q2065736,20,0,2,structures and works designated as representing cultural heritage,,,Q210272|Q8205328,Cultural property
+roman catholic parish church,cultural property protection in Poland,Q21438156,20,0,2,Category of laws in Poland,,,Q358,Cultural property protection in Poland
+roman catholic parish church,cultural property of Norway,Q30156015,20,0,2,,,,Q2065736|Q2065736,
+roman catholic parish church,Cultural property data of Chungcheongnam-do,Q11274559,20,0,2,,,,Q83742060,
+roman catholic parish church,cultural property,Q89662210,20,0,2,,,Q2065736|Q203443,,
+roman catholic parish church,Cultural Property of Japan,Q858308,20,0,2,"nationally-, prefecturally- or municipally-designated or registered heritage assets (Japan)",,,Q2065736,Cultural Property (Japan)
+roman catholic parish church,art repatriation,Q873642,20,0,2,return of art or cultural heritage (often ancient or looted) to their country of origin or (heirs of) former owners,cultural property repatriation|restitution|Repatriation,,Q1156800|Q38127868,Repatriation (cultural property)
+roman catholic parish church,Cultural property under special protection,Q26086651,20,0,2,,,,Q2065736,
+roman catholic parish church,Cultural Property Law and Restitution,Q139959247,20,0,2,,,Q193495,,
+roman catholic parish church,Cultural Property Law and Restitution,Q139957280,20,0,2,,,Q193495,,
+list of cultural properties in Schupfart,list of cultural properties in Schupfart,Q14548204,20,2,1,"Wikimedia list of cultural properties in Schupfart in the canton of Aargau, Switzerland",,Q13406463,,
+roman catholic parish church,Roman Catholic Parish Church,Q2082993,21,0,1,"church building in Mühlau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q1304085,21,0,1,"church building in Dietwil in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909|Q1497375,,
+roman catholic parish church,roman catholic parish church,Q15124728,21,0,1,"church building in Schupfart in the canton of Aargau, Switzerland",Römisch-katholische Pfarrkirche,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q2083158,21,0,1,"church building in Oberrüti in the canton of Aargau, Switzerland",St. Rupert parish church,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q55382584,21,0,1,"church building in Stetten in the canton of Aargau, Switzerland",Römisch–katholische Pfarrkirche,Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q12354076,21,0,1,"church building in Balatonlelle, Hungary",,Q1088552,,
+roman catholic parish church,Roman Catholic Parish Church,Q29576105,21,0,1,"church building in Gipf-Oberfrick in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic parish church,Q29576312,21,0,1,"church building in Klingnau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q29581937,21,0,1,"church building in Zufikon in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman catholic parish church,Q29580268,21,0,1,"church building in Kirchdorf in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,cultural property,Q2065736,21,0,2,structures and works designated as representing cultural heritage,,,Q210272|Q8205328,Cultural property
+roman catholic parish church,cultural property protection in Poland,Q21438156,21,0,2,Category of laws in Poland,,,Q358,Cultural property protection in Poland
+roman catholic parish church,cultural property of Norway,Q30156015,21,0,2,,,,Q2065736|Q2065736,
+roman catholic parish church,Cultural property data of Chungcheongnam-do,Q11274559,21,0,2,,,,Q83742060,
+roman catholic parish church,cultural property,Q89662210,21,0,2,,,Q2065736|Q203443,,
+roman catholic parish church,Cultural Property of Japan,Q858308,21,0,2,"nationally-, prefecturally- or municipally-designated or registered heritage assets (Japan)",,,Q2065736,Cultural Property (Japan)
+roman catholic parish church,art repatriation,Q873642,21,0,2,return of art or cultural heritage (often ancient or looted) to their country of origin or (heirs of) former owners,cultural property repatriation|restitution|Repatriation,,Q1156800|Q38127868,Repatriation (cultural property)
+roman catholic parish church,Cultural property under special protection,Q26086651,21,0,2,,,,Q2065736,
+roman catholic parish church,Cultural Property Law and Restitution,Q139959247,21,0,2,,,Q193495,,
+roman catholic parish church,Cultural Property Law and Restitution,Q139957280,21,0,2,,,Q193495,,
+list of cultural properties in Oberrüti,list of cultural properties in Oberrüti,Q14546551,21,2,1,"Wikimedia list of cultural properties in Oberrüti in the canton of Aargau, Switzerland",,Q13406463,,
+list of cultural properties in Oberrüti,Oberrüti,Q64771,21,2,2,municipality in the canton of Aargau in Switzerland,Oberrüti AG|Oberruti|Oberrueti,Q70208,,Oberrüti
+list of cultural properties in Oberrüti,Oberrüti railway station,Q15964213,21,2,2,"station building in Oberrüti in the canton of Aargau, Switzerland",,Q55488|Q15513569|Q1339195,,Oberrüti railway station
+list of cultural properties in Oberrüti,Oberrüti,Q22421286,21,2,2,,,Q486972,,
+list of cultural properties in Oberrüti,Oberrüti,Q22421304,21,2,2,,,Q486972,,
+list of cultural properties in Oberrüti,Oberrüti,Q22175988,21,2,2,Wikimedia disambiguation page,,Q4167410,,
+list of cultural properties in Oberrüti,Roman Catholic Parish Church,Q2082993,21,2,2,"church building in Mühlau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,roman catholic parish church,Q1304085,21,2,2,"church building in Dietwil in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909|Q1497375,,
+list of cultural properties in Oberrüti,roman catholic parish church,Q15124728,21,2,2,"church building in Schupfart in the canton of Aargau, Switzerland",Römisch-katholische Pfarrkirche,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,roman catholic parish church,Q2083158,21,2,2,"church building in Oberrüti in the canton of Aargau, Switzerland",St. Rupert parish church,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,roman catholic parish church,Q55382584,21,2,2,"church building in Stetten in the canton of Aargau, Switzerland",Römisch–katholische Pfarrkirche,Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,Roman Catholic Parish Church,Q12354076,21,2,2,"church building in Balatonlelle, Hungary",,Q1088552,,
+list of cultural properties in Oberrüti,Roman Catholic Parish Church,Q29576105,21,2,2,"church building in Gipf-Oberfrick in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,Roman Catholic parish church,Q29576312,21,2,2,"church building in Klingnau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,Roman Catholic Parish Church,Q29581937,21,2,2,"church building in Zufikon in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,Roman catholic parish church,Q29580268,21,2,2,"church building in Kirchdorf in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Oberrüti,Cultural heritage of Belarus,Q2079150,21,2,2,in accordance with the Law on Protection of Historical and Cultural Heritage of the Republic of Belarus,Cultural Properties of Belarus,Q2352616,,Cultural heritage of Belarus
+list of cultural properties in Oberrüti,Act on Protection of Cultural Properties,Q1188502,21,2,2,,Cultural Properties Protection Law,Q820655|Q951841,,
+list of cultural properties in Oberrüti,cultural properties of Indonesia,Q4246737,21,2,2,overview of cultural properties according to Indonesian laws and regulations,,,Q2065736,Cultural properties of Indonesia
+list of cultural properties in Oberrüti,Cultural Properties of Mozambique,Q15603774,21,2,2,Wikimedia list article,,Q13406463,,Cultural Properties of Mozambique
+list of cultural properties in Oberrüti,Cultural Properties designated by Nagoya City,Q98795894,21,2,2,,,Q30634609,Q114950428,
+list of cultural properties in Oberrüti,Cultural Properties of Costa Rica,Q18349431,21,2,2,,,,,Cultural Properties of Costa Rica
+list of cultural properties in Oberrüti,Database of Cultural Properties in Fukuoka City,Q124047396,21,2,2,databese and portal site of Cultural Properties in Fukuoka City,Cultural Properties in Fukuoka,Q8513|Q186165,,
+list of cultural properties in Oberrüti,cultural property center,Q139713778,21,2,2,type of Japanese heritage facility,cultural properties center,,Q7315155|Q33506,
+list of cultural properties in Oberrüti,Cultural Properties in Fukuoka Prefecture,Q124333229,21,2,2,database and portal site regarding cultural properties in Fukuoka Prefecture,,Q8513|Q186165,,
+list of cultural properties in Oberrüti,Cultural properties and pathogenicity of certain microorganisms obtained from various proliferative and neoplastic diseases,Q28243193,21,2,2,scientific article (publication date: December 1950),,Q13442814,,
+roman catholic parish church,Roman Catholic Parish Church,Q2082993,22,0,1,"church building in Mühlau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q1304085,22,0,1,"church building in Dietwil in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909|Q1497375,,
+roman catholic parish church,roman catholic parish church,Q15124728,22,0,1,"church building in Schupfart in the canton of Aargau, Switzerland",Römisch-katholische Pfarrkirche,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q2083158,22,0,1,"church building in Oberrüti in the canton of Aargau, Switzerland",St. Rupert parish church,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q55382584,22,0,1,"church building in Stetten in the canton of Aargau, Switzerland",Römisch–katholische Pfarrkirche,Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q12354076,22,0,1,"church building in Balatonlelle, Hungary",,Q1088552,,
+roman catholic parish church,Roman Catholic Parish Church,Q29576105,22,0,1,"church building in Gipf-Oberfrick in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic parish church,Q29576312,22,0,1,"church building in Klingnau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q29581937,22,0,1,"church building in Zufikon in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman catholic parish church,Q29580268,22,0,1,"church building in Kirchdorf in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Dietwil,list of cultural properties in Dietwil,Q14913279,22,2,1,"Wikimedia list of cultural properties in Dietwil in the canton of Aargau, Switzerland",,Q13406463,,
+roman catholic parish church,Roman Catholic Parish Church,Q2082993,23,0,1,"church building in Mühlau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q1304085,23,0,1,"church building in Dietwil in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909|Q1497375,,
+roman catholic parish church,roman catholic parish church,Q15124728,23,0,1,"church building in Schupfart in the canton of Aargau, Switzerland",Römisch-katholische Pfarrkirche,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q2083158,23,0,1,"church building in Oberrüti in the canton of Aargau, Switzerland",St. Rupert parish church,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,roman catholic parish church,Q55382584,23,0,1,"church building in Stetten in the canton of Aargau, Switzerland",Römisch–katholische Pfarrkirche,Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q12354076,23,0,1,"church building in Balatonlelle, Hungary",,Q1088552,,
+roman catholic parish church,Roman Catholic Parish Church,Q29576105,23,0,1,"church building in Gipf-Oberfrick in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic parish church,Q29576312,23,0,1,"church building in Klingnau in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman Catholic Parish Church,Q29581937,23,0,1,"church building in Zufikon in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+roman catholic parish church,Roman catholic parish church,Q29580268,23,0,1,"church building in Kirchdorf in the canton of Aargau, Switzerland",,Q811979|Q1088552|Q55876909,,
+list of cultural properties in Stetten AG,list of cultural properties in Stetten AG,Q1533628,23,2,1,"Wikimedia list of cultural properties in Stetten in the canton of Aargau, Switzerland",,Q13406463,,

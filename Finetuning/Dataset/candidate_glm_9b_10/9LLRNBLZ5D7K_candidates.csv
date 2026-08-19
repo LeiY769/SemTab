@@ -1,0 +1,70 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Roman Bridge,Roman bridge,Q1223230,0,0,1,bridge built by the ancient Romans,ancient Roman bridge,Q12280,Q12280|Q14752696,Roman bridge
+Roman Bridge,Roman Bridge,Q284125,0,0,1,"ancient structure in Trier, Germany","Roman bridge, Trier|Roman bridge (Trier)",Q14276458|Q3397526|Q1223230|Q537127|Q14752696,,Roman Bridge (Trier)
+Roman Bridge,Roman Bridge of Chaves,Q1504273,0,0,1,"bridge in the river tamega in Chaves city, Portugal",Roman Bridge,Q3397526|Q158438|Q1223230|Q21752084|Q210272|Q14752696,,Roman Bridge of Chaves
+Roman Bridge,Roman Bridge,Q2179571,0,0,1,"bridge in Hérault, France",,Q3397526|Q158438|Q1223230|Q14752696,,Roman Bridge (Saint-Thibéry)
+Roman Bridge,Roman Bridge,Q25410192,0,0,1,"bridge in Fidenza, Italy",,Q1223230,,
+Roman Bridge,Roman Bridge,Q17550848,0,0,1,"bridge in the London Borough of Hounslow, England,UK",Roman Bridge (that Part In The London Borough Of Hounslow),Q1068842,,
+Roman Bridge,Roman bridge,Q3908181,0,0,1,"archaeological site in Naples, Italy",,Q839954,,
+Roman Bridge,Roman bridge,Q55831892,0,0,1,"bridge in Fermignano, Italy",,Q12280,,
+Roman Bridge,Roman Bridge,Q26535025,0,0,1,"Grade II listed bridge in Strines, Stockport, Greater Manchester, England, UK",Windy Bottom Bridge,Q7123018,,
+Roman Bridge,Roman bridge,Q28003441,0,0,1,"bridge over Metauro river, Mercatello sul Metauro, Italy",,Q1223230|Q14752696,,
+Fidenza,Fidenza,Q100811,0,1,1,Italian comune,,Q747074,,Fidenza
+Fidenza,Francesco Fidanza,Q1441027,0,1,1,Italian landscape painter,Fidenza|Fidans|Fidanza|Fidenzza|Sidenza,Q5,,Francesco Fidanza
+Fidenza,Fidenza,Q30025702,0,1,1,chief town of the homonym municipality,,Q15303838,,
+Fidenza,Fidenza railway station,Q3969603,0,1,1,railway station in Italy,,Q55488,,Fidenza railway station
+Fidenza,Fidenza,Q104011005,0,1,1,encyclopedia article,,Q13433827,,
+Fidenza,Fidenza Cathedral,Q1287865,0,1,1,cathedral in Italy,San Donnino Cathedral,Q2977,,Fidenza Cathedral
+Fidenza,Fidenza–Fornovo railway,Q16555768,0,1,1,railway line in Italy,,Q728937,,Fidenza–Fornovo railway
+Fidenza,Fidenza–Salsomaggiore Terme railway,Q3743418,0,1,1,railway line in Italy,,Q728937,,
+Fidenza,Fidenza (Samian Ware Discovery Site),Q103161937,0,1,1,Fidenza as Samian Ware discovery site,,Q102202066|Q839954,,
+Fidenza,2° Bivio/PP Fidenza Ovest,Q137645945,0,1,1,"railway junction near Fidenza, Emilia-Romagna, Italy",Fidenza Ovest second junction|2º Bivio/PP Fidenza Ovest,Q336764,,
+Fidenza,Roman bridge,Q1223230,0,1,2,bridge built by the ancient Romans,ancient Roman bridge,Q12280,Q12280|Q14752696,Roman bridge
+Fidenza,Roman Bridge,Q284125,0,1,2,"ancient structure in Trier, Germany","Roman bridge, Trier|Roman bridge (Trier)",Q14276458|Q3397526|Q1223230|Q537127|Q14752696,,Roman Bridge (Trier)
+Fidenza,Roman Bridge of Chaves,Q1504273,0,1,2,"bridge in the river tamega in Chaves city, Portugal",Roman Bridge,Q3397526|Q158438|Q1223230|Q21752084|Q210272|Q14752696,,Roman Bridge of Chaves
+Fidenza,Roman Bridge,Q2179571,0,1,2,"bridge in Hérault, France",,Q3397526|Q158438|Q1223230|Q14752696,,Roman Bridge (Saint-Thibéry)
+Fidenza,Roman Bridge,Q25410192,0,1,2,"bridge in Fidenza, Italy",,Q1223230,,
+Fidenza,Roman Bridge,Q17550848,0,1,2,"bridge in the London Borough of Hounslow, England,UK",Roman Bridge (that Part In The London Borough Of Hounslow),Q1068842,,
+Fidenza,Roman bridge,Q3908181,0,1,2,"archaeological site in Naples, Italy",,Q839954,,
+Fidenza,Roman bridge,Q55831892,0,1,2,"bridge in Fermignano, Italy",,Q12280,,
+Fidenza,Roman Bridge,Q26535025,0,1,2,"Grade II listed bridge in Strines, Stockport, Greater Manchester, England, UK",Windy Bottom Bridge,Q7123018,,
+Fidenza,Roman bridge,Q28003441,0,1,2,"bridge over Metauro river, Mercatello sul Metauro, Italy",,Q1223230|Q14752696,,
+Roman Bridge,Roman bridge,Q1223230,1,0,1,bridge built by the ancient Romans,ancient Roman bridge,Q12280,Q12280|Q14752696,Roman bridge
+Roman Bridge,Roman Bridge,Q284125,1,0,1,"ancient structure in Trier, Germany","Roman bridge, Trier|Roman bridge (Trier)",Q14276458|Q3397526|Q1223230|Q537127|Q14752696,,Roman Bridge (Trier)
+Roman Bridge,Roman Bridge of Chaves,Q1504273,1,0,1,"bridge in the river tamega in Chaves city, Portugal",Roman Bridge,Q3397526|Q158438|Q1223230|Q21752084|Q210272|Q14752696,,Roman Bridge of Chaves
+Roman Bridge,Roman Bridge,Q2179571,1,0,1,"bridge in Hérault, France",,Q3397526|Q158438|Q1223230|Q14752696,,Roman Bridge (Saint-Thibéry)
+Roman Bridge,Roman Bridge,Q25410192,1,0,1,"bridge in Fidenza, Italy",,Q1223230,,
+Roman Bridge,Roman Bridge,Q17550848,1,0,1,"bridge in the London Borough of Hounslow, England,UK",Roman Bridge (that Part In The London Borough Of Hounslow),Q1068842,,
+Roman Bridge,Roman bridge,Q3908181,1,0,1,"archaeological site in Naples, Italy",,Q839954,,
+Roman Bridge,Roman bridge,Q55831892,1,0,1,"bridge in Fermignano, Italy",,Q12280,,
+Roman Bridge,Roman Bridge,Q26535025,1,0,1,"Grade II listed bridge in Strines, Stockport, Greater Manchester, England, UK",Windy Bottom Bridge,Q7123018,,
+Roman Bridge,Roman bridge,Q28003441,1,0,1,"bridge over Metauro river, Mercatello sul Metauro, Italy",,Q1223230|Q14752696,,
+Roman Bridge,Trier bridge,Q2932407,1,0,2,bridge in Netherlands,,Q12280,,
+Roman Bridge,Pont Roman,Q16008546,1,0,2,bridge in France,,Q12280,,
+Roman Bridge,Pont roman de Beaumont-sur-Sarthe,Q22962486,1,0,2,bridge in France,,Q12280,,
+Roman Bridge,Pont roman de Barbaste,Q18736791,1,0,2,bridge in France,,Q12280,,
+Roman Bridge,Pont roman de Dole,Q22953052,1,0,2,bridge in France,,Q483453|Q12280,,
+Roman Bridge,pont roman de Chambon-sur-Voueize,Q22951290,1,0,2,bridge in France,,Q14276458,,
+Roman Bridge,Pont roman de Gourgé,Q22952663,1,0,2,bridge in France,,Q12280,,
+Roman Bridge,Pont romànic de Besalú,Q115983965,1,0,2,sardana by Estanislau Puntí i Alsina,,Q105543609,,
+Roman Bridge,Pont sur la Laye,Q2103675,1,0,2,"bridge in Alpes-de-Haute-Provence, France",,Q3397526|Q158438|Q1223230,,Pont sur la Laye
+Roman Bridge,Pont de Caldes,Q28433792,1,0,2,"bridge in Caldes de Montbui, Catalonia, Spain",,Q12280|Q132775036,,
+Trier,Trier,Q33534940,1,1,1,family name,,Q101352,,
+Trier,Trier,Q3138,1,1,1,"city in Rhineland-Palatinate, Germany",Augusta Treverorum|Triers,Q515|Q1549591|Q42744322|Q85632032|Q134626|Q15661340,,Trier
+Trier,Trier,Q2664242,1,1,1,constituency for the elections to the 19th German Bundestag 2017,constituency for the Bundestag election Trier,Q11703715,,Trier (electoral district)
+Trier,Trierweiler,Q636227,1,1,1,municipality of Germany,,Q116457956,,Trierweiler
+Trier,Trier,Q573203,1,1,1,administrative district in Rhineland-Palatinate (1815–1999),,Q22721|Q1850612,,Trier (region)
+Trier,Trier University,Q702486,1,1,1,university,,Q5028741|Q875538,,University of Trier
+Trier,Trier West railway station,Q19608520,1,1,1,"railway station in Trier, Germany",Trier West station|Trier links der Mosel railway station|Trier links der Mosel station|Trier railway station|Trier station,Q27996466,,
+Trier,Rosa 'Trier',Q16626505,1,1,1,rose cultivar,Trier,Q26817508,,
+Trier,Trier,Q1803508,1,1,1,former district of Germany,Landkreis Trier|Trier district,Q106658,,
+Trier,Trier-Saarburg,Q8579,1,1,1,"district of Rhineland-Palatinate, Germany",Landkreis Trier-Saarburg,Q85493040,,Trier-Saarburg
+Trier,Porta Nigra,Q152339,1,1,2,city gate of Trier,,Q82117,,Porta Nigra
+Trier,Rosa 'Porta Nigra',Q83669442,1,1,2,rose cultivar,Porta Nigra,Q26817508,Q279919,
+Trier,Porta-Nigra-Platz,Q15972969,1,1,2,"public square in Trier, Germany",,Q174782,,
+Trier,Porta-Nigra-Vorplatz,Q111698911,1,1,2,"public square in Trier, Germany",,Q174782,,
+Trier,Porta Nigra,Q33057360,1,1,2,poem written by Stefan George,,Q7725634,,
+Trier,Porta Nigra,Q108847137,1,1,2,,,Q3331189,,
+Trier,Porta Nigra: The Treasure of Tréves,Q59634550,1,1,2,scholarly article by T. Cato Worsfold published in June 1901,,Q13442814,,
+Trier,Porta Nigra i Trier,Q82727854,1,1,2,photo by Sigurd Curman,,Q125191,,
+Trier,Porta-Nigra-Platz 5,Q125806243,1,1,2,,,Q811979,,

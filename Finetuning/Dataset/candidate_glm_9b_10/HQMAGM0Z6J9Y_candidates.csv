@@ -1,0 +1,94 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Dart,Dart,Q406009,0,0,1,programming language,ECMA-408|Google Dart,Q899523|Q187432|Q21562092|Q28922893|Q3839507|Q12772052|Q651794,,Dart (programming language)
+Dart,Dart,Q16869420,0,0,1,family name,Dart (surname),Q101352,,Dart (surname)
+Dart,darts,Q131471,0,0,1,throwing game,,Q1368898|Q121459946,Q15855160,Darts
+Dart,Dart,Q27913575,0,0,1,badminton player,,Q5,,
+Dart,Dart,Q110580933,0,0,1,podcast,,Q24634210,,
+Dart,Dart-yin A. Soh,Q113535227,0,0,1,Taiwanese particle physicist,Daxian Su|Dart-yin Su|D.A. Soh,Q5,,
+Dart,Dartford,Q858775,0,0,1,"town in the county of Kent, England, United Kingdom","Dartford, Kent|Dartford, England",Q3957|Q7897276|Q18511725,,Dartford
+Dart,Dartmoor Forest,Q1924474,0,0,1,"civil parish in Devon, England, UK","Dartmoor Forest (civil parish), Devon|Dartmoor Forest, Devon",Q1115575,,Dartmoor Forest
+Dart,Dartmouth College,Q49116,0,0,1,"private university in Hanover, New Hampshire, US",Dartmouth|Collegium Dartmuthense,Q902104|Q15936437|Q1188663|Q23002054|Q45400320,,Dartmouth College
+Dart,Dallas Area Rapid Transit,Q380660,0,0,1,transport company,DART,Q740752,,Dallas Area Rapid Transit
+Attacker,forward,Q280658,1,0,1,association football position played near the opponent's goal,attacker|striker|FW|soccer forward|soccer attacker|soccer striker,Q4611891,Q3446915,Forward (association football)
+Attacker,attacker,Q3446915,1,0,1,type of sports player usually involved in aggressive play,,Q1781513,Q1781513,Attacker
+Attacker,threat actor,Q28402245,1,0,1,"role in cybersecurity, person or entity that exploits vulnerabilities, impacting the safety or security of another entity",malicious actor|attacker|hacker|cracker|threat group,Q4897819,Q24229398|Q86923152,Threat actor
+Attacker,attacker,Q31924059,1,0,1,entity which initiates an armed attack upon another entity,,,Q24229398,
+Attacker,Attacker,Q757867,1,0,1,American heavy metal band,,Q215380,,Attacker (band)
+Attacker,attacker,Q26736140,1,0,1,position in water polo,,Q26736161,Q3446915,
+Attacker,Supermarine Attacker,Q1069327,1,0,1,1946 fighter aircraft family by Supermarine; first jet fighter in Royal Navy service,Attacker,Q15056993,Q782885|Q18520599,Supermarine Attacker
+Attacker,Attackers,Q7783485,1,0,1,Japanese adult video production company,アタッカーズ|Atakkaazu,Q30941437,,Attackers
+Attacker,attacker,Q140404459,1,0,1,"prototypical agent (PAG) for predicate ""move.04"": attack",,,Q134480019,
+Attacker,attacker,Q140410339,1,0,1,"prototypical agent (PAG) for predicate ""savage.01"": attack violently",,,Q134480019,
+C-19,IC 5146,Q261879,2,0,1,H II region in the constellation Cygnus,C 19|Cocoon Nebula,Q11387|Q27150479|Q11282|Q41872,,IC 5146
+C-19,carbon-19,Q15132377,2,0,1,isotope of carbon,C-19|19C,Q471790,Q623,Carbon-19
+C-19,Android 19,Q3325153,2,0,1,fictional character from Dragon Ball,Jinzouningen 19-gou|Artificial Human 19|C-19,Q22074483|Q87576284|Q80447738,,
+C-19,C-19,Q90319172,2,0,1,airlifter series by Northrop,Northrop C-19,Q15056993,Q1660543,
+C-19,Washington's Southern Tour,Q111462831,2,0,1,North Carolina historic marker C-19,C-19,Q721747,,
+C-19,K1735-C19,Q123032783,2,0,1,cell line,K-1735 C-19|C-19|K-1735 clone 19,Q21014462|Q23058136,,
+C-19,C-19,Q121792575,2,0,1,Grid area C-19 according to the Standard Galactic Grid used in Star Wars,,Q108059698,,
+C-19,ANKRD1,Q18038575,2,0,1,protein-coding gene in the species Homo sapiens,ALRP|C-193|CARP|CVARP|MCARP|bA320F15.2|ankyrin repeat domain 1,Q7187,Q20747295,ANKRD1
+C-19,Stele of Chief Treasurer Sakherty-C 196,Q56193810,2,0,1,stele on display at the Louvre,C 196,Q178743|Q220659,,
+C-19,C 1933+251,Q1117737,2,0,1,astronomical object,,Q11387,,
+C-19,COVID-19,Q84263196,2,0,2,contagious disease caused by SARS-CoV-2,coronavirus disease 2019|nCOVD-19|2019-nCoV acute respiratory disease|Novel Coronavirus Pneumonia|Covid-19|Severe Acute Respiratory Syndrome Coronavirus 2|Wuhan respiratory syndrome|severe acute respiratory syndrome type 2|nCOVD 19|CD-19|SARS-CoV-2|2019 novel coronavirus pneumonia|Wuhan pneumonia|COVID|COVID 19|Coronavirus disease 2019|nCOVD19|2019 NCP|COVID19|2019 novel coronavirus respiratory syndrome|seafood market pneumonia|SARS-CoV-2 infection|COVID-2019|WuRS,Q112193867,Q2633267|Q18975243|Q2603200|Q182672|Q107295072|Q12192|Q609748,COVID-19
+C-19,COVID-19 pandemic,Q81068910,2,0,2,pandemic caused by SARS-CoV-2 (2019–2023),"nCov-2019 outbreak|2019nCov outbreak|COVID-19 epidemic|nCov2019 outbreak|coronavirus pandemic|COVID-19 outbreak|SARS-CoV-2 pandemic|COVID pandemic|outbreak of 2019-nCoV acute respiratory disease|2019–22 outbreak of COVID-19|2019–2022 outbreak of COVID-19|2019–22 outbreak of novel coronavirus (2019-nCoV)|2019–22 coronavirus outbreak|2019–22 COVID-19 pandemic|2019–2022 coronavirus pandemic|2019–22 coronavirus pandemic|2019–2022 Wuhan coronavirus outbreak|2019-2022 SARS-CoV-2 outbreak|2019–2022 COVID-19 pandemic|COVID-19 pandemic, People's Republic of China|COVID-19 pandemic, China",Q12184|Q17076801|Q3241045|Q12367307,,COVID-19 pandemic
+C-19,SARS-CoV-2,Q82069695,2,0,2,virus that causes COVID-19,nCoV2019|nCoV-2019|Wuhan seafood market pneumonia virus|Chinese coronavirus|2019nCoV|2019 nCoV|NCP|Novel coronavirus (2019-nCoV)|Severe acute respiratory syndrome coronavirus 2|SARS-CoV2|novel coronavirus|COVID-19 virus|Wuhan virus|Severe acute respiratory syndrome-related coronavirus 2|Coronavirus|Corona virus|Acute respiratory syndrome coronavirus 2|severe acute respiratory syndrome coronavirus clade 2|SARS-CoV-2 virus|Coronavirus SARS-COV2|SARS coronavirus 2|human coronavirus 2019|HCoV-19|hCoV-19|Severe Acute Respiratory Syndrome Coronavirus 2|virus that causes COVID-19|the coronavirus,Q75913269|Q808|Q16521,Q57751738,SARS-CoV-2
+C-19,COVID-19 pandemic in Nicaragua,Q87976701,2,0,2,viral outbreak in Nicaragua,Nicaragua COVID-19 pandemic|2020 Nicaragua COVID-19 pandemic|COVID pandemic in Nicaragua,Q3241045,,COVID-19 pandemic in Nicaragua
+C-19,COVID-19,Q139978471,2,0,2,,,Q193495,,
+C-19,COVID-19 pandemic in Africa,Q86694873,2,0,2,ongoing coronavirus pandemic in Africa,2020 coronavirus pandemic in Africa|2020 coronavirus outbreak in Africa|COVID-19 outbreak in Africa|Africa COVID-19 pandemic|2020 Africa COVID-19 pandemic|COVID pandemic in Africa,Q3241045|Q83741704,,COVID-19 pandemic in Africa
+C-19,Saw,Q486239,2,0,2,2004 film directed by James Wan,Covid-19|Nadlicka e,Q11424,,Saw (film)
+C-19,COVID-19 vaccine,Q87719492,2,0,2,vaccine against SARS-CoV-2 coronavirus,corona vaccine|COVID vaccine|SARS-CoV-2 vaccine|COVID-19 vaccines|coronavirus vaccine,Q105967696|Q189603,Q58624061,COVID-19 vaccine
+C-19,COVID-19 disease in pregnancy,Q88058672,2,0,2,medical consequences of COVID-19 for pregnant women and foetuses,pregnancy-associated COVID-19,Q112193867,Q84263196|Q18211561,COVID-19 in pregnancy
+C-19,transmission of COVID-19,Q98456223,2,0,2,superset of mechanisms that assist the spread of the infectious disease caused by the SARS-CoV-2 virus,COVID-19 transmission,,Q84109991,Transmission of COVID-19
+C-19,SARS-CoV-2 transmission,Q84109991,2,0,2,mechanisms by which the SARS-CoV-2 virus spreads within and between organisms,nCoV-2019 transmission|2019-nCoV transmission|2019nCoV transmission|nCoV2019 transmission|transmission of SARS-CoV-2,Q2996394,Q525512,
+C-19,spike glycoprotein [SARS-CoV-2],Q87917585,2,0,2,protein of SARS-CoV-2,S glycoprotein|E2|SARS-CoV-2 spike (S) protein|surface glycoprotein,Q8054,Q87914785|Q258658|Q952587,
+C-19,variants of SARS-CoV-2,Q104450895,2,0,2,variants of the SARS-CoV-2 virus with a different genetic sequence,SARS-CoV-2 variants|Severe acute respiratory syndrome coronavirus 2 variants|SARS-CoV-2 strain|SARS-CoV-2 variant|SARS-CoV-2 substrain|viral strain of SARS-CoV-2|Variants of SARS-CoV-2|COVID-19 variants|COVID variant,,Q18420531|Q104795308,Variants of SARS-CoV-2
+C-19,SARS-CoV-2 Omicron variant,Q109739412,2,0,2,a variant of SARS-CoV-2,B.1.1.529 lineage|Lineage B.1.1.529|B.1.1.529|Omicron variant|Omicron|Omicron (B.1.1.529)|GR/484A|Nextstrain clade 21K|Nextstrain clade 21L|COVID O|COVID-O,Q104450895|Q107143124|Q105758262,,SARS-CoV-2 Omicron variant
+C-19,COVID-19 test,Q86901049,2,0,2,diagnostic testing for the respiratory illness COVID-19 and the underlying pathogen SARS-CoV-2 coronavirus,SARS-CoV-2 detection|COVID-19 testing|COVID test|COVID testing|SARS-CoV-2 test|SARS-CoV-2 testing,Q55215251|Q16257937|Q796194,Q1762591|Q96414033|Q1875750|Q98073976,COVID-19 testing
+C-19,nucleocapsid protein [SARS-CoV-2],Q87917584,2,0,2,protein of SARS-CoV-2,Nucleoprotein|protein N|nucleocapsid phosphoprotein|SARS-CoV-2 nucleocapsid,Q8054,Q87915084|Q106464267,
+OL,Olympique Lyonnais,Q704,3,0,1,"association football club in Lyon, France",Lyon|OL|O. Lyon|O. Lyonnais|O.L.,Q476028|Q103229495,,Olympique Lyonnais
+OL,Olomouc,Q81137,3,0,1,city in Czechia,,Q515|Q15978299|Q257978|Q5153359|Q12031379|Q8452914|Q7841907|Q1549591|Q7819319,,Olomouc
+OL,olive oil,Q93165,3,0,1,liquid fat extracted by pressing olives,Olive oil,Q7048902,Q4739805|Q427457|Q7445643,Olive oil
+OL,Oliver,Q2110096,3,0,1,male given name,,Q12308941,,Oliver (given name)
+OL,Olea europaea,Q37083,3,0,1,"olive plant, species of plant used as food",olive tree|olive,Q16521,Q10884|Q11992872,Olive
+OL,Olivier,Q16280379,3,0,1,male given name,Olivier (first name)|Olivier (given name),Q12308941,,Olivier (given name)
+OL,Europe,Q46,3,0,1,terrestrial continent located in north-western Eurasia,European continent|The Old Continent|European Continent|European Peninsula|Old Continent,Q2418896|Q5107|Q82794|Q2221906,,Europe
+OL,Olsztyn,Q82765,3,0,1,"city in Warmian-Masurian Voivodeship, Poland",Dajtki|Allenstein,Q925381|Q515|Q1549591,,Olsztyn
+OL,Olšany Cemetery,Q2661974,3,0,1,"largest graveyard in Prague, Czech Republic",Olšanské hřbitovy,Q39614,,Olšany Cemetery
+OL,Olivia,Q632264,3,0,1,female given name,Olivia (first name)|Olivia (given name),Q11879590,,Olivia (name)
+OL,handball,Q8418,3,0,2,team sport played with a thrown ball and goals,borden ball|European handball|team handball|olympic handball|european team handball|european handball,Q31629|Q212434|Q11410|Q349|Q877517,Q216048|Q877517,Handball
+OL,Lausanne,Q807,3,0,2,"capital city of the canton of Vaud, Switzerland",Lausanne VD|Olympic Capital|City of Lausanne,Q70208|Q14770218|Q1187811|Q54935504|Q1549591,,Lausanne
+OL,Olympic sport,Q212434,3,0,2,type of sport with events contested at the Olympic Games,Olympic sports|◯‍◯‍◯‍◯‍◯ sport,Q12379553,Q31629,Olympic sports
+OL,Olympic National Park,Q372093,3,0,2,"national park on the Olympic Peninsula in Washington State, USA",Olympic NP|OLYM|ONP,Q34918903|Q46169,,Olympic National Park
+OL,2006 Winter Olympics,Q9672,3,0,2,"20th edition of Winter Olympics, in Turin, Italy","Turin 2006|Torino 2006|2006 Winter Olympics in Turin, Italy|2006 Winter Olympics in Turin Italy|Olympic Games in Turin|2006 Olympic Winter Games",Q137592217|Q14547231,,2006 Winter Olympics
+OL,Olympic sporting event,Q18536594,3,0,2,individual event at the Olympic Games,Olympic sport event|Olympic sports event,,Q114609228|Q44637051,
+OL,Olympic bronze medal,Q15889643,3,0,2,third-place medal awarded to Olympic Games participants,bronze medal|bronze,Q38033430|Q873364,Q873364|Q636830,
+OL,Olympic competitor,Q58825429,3,0,2,athlete participating in the Olympic Games,Olympian|Olympic competitor|Olympics athlete|Olympics competitor|Olympic athlete,Q28640|Q12737077,Q27019785|Q2066131,
+OL,Olympic gold medal,Q15243387,3,0,2,first-place medal awarded to Olympic Games participants,gold medal,Q38033430|Q406039,Q406039|Q636830,
+OL,Olympic silver medal,Q15889641,3,0,2,second-place medal awarded to Olympic Games participants,silver medal,Q38033430|Q847956,Q847956|Q636830,
+OL,Olympic Games,Q5389,3,0,2,major international multi-sport event organised by International Olympic Committee,Olympics,Q135740745,Q13406554,Olympic Games
+OL,ancient Olympic Games,Q188468,3,0,2,athletic competitions in ancient Greece,Olympic Games,Q18608583|Q375011,Q2992205|Q2992207|Q7130803,Ancient Olympic Games
+OL,1932 Summer Olympics,Q8143,3,0,2,"Games of the X Olympiad, in Los Angeles, USA","Los Angeles 1932|Games of the X Olympiad|10th Olympic Games|Olympic Games (10th : 1932 : Los Angeles, Calif.)",Q135976384|Q14547231,,1932 Summer Olympics
+OL,Olympic Games Tokyo 2020 - The Official Video Game,Q85790614,3,0,2,2019 video game,,Q7889,,Olympic Games Tokyo 2020 - The Official Video Game
+OL,2024 Summer Olympics,Q995653,3,0,2,"games of the XXXIII Olympiad, in Paris, France",The Games of the XXXIII Olympiad|2024 Olympics|Paris 2024|Paris Olympics 2024|2024 Olympic Games|Paris Olympic Games 2024|Olympic Games Paris 2024,Q135976384|Q14547231,,2024 Summer Olympics
+OL,bid for the Olympic Games,Q938381,3,0,2,bids to host the Olympic Games,Olympics bid|Summer Olympics bid|Winter Olympics bid|bidding|bid for Olympic Games|Olympic bid|Olympic Games bid|bids for Olympic Games|bids for the Olympic Games,,Q109581752|Q51081147,Bids for the Olympic Games
+OL,Olympic Games ceremony,Q3010392,3,0,2,ceremonial events of the ancient and modern Olympic Games,,,Q2627975|Q27968055,Olympic Games ceremony
+OL,Olympic Games,Q7089074,3,0,2,1927 film by Robert A. McGowan,,Q24862,,Olympic Games (film)
+OL,Olympic Games,Q131445278,3,0,2,2004 novel by Leslie What,,Q7725634,,
+OL,Olympic Committee,Q2985582,3,0,2,National Olympic Committee,Malagasy Olympic Committee,Q183288,,Malagasy Olympic Committee
+OL,Australian Olympic Committee,Q768843,3,0,2,National Olympic Committee,Olympic Committee of Australia,Q183288,,Australian Olympic Committee
+OL,Russian Olympic Committee,Q783625,3,0,2,National Olympic Committee,ОКР|ROC|National Olympic Committee of Russia|Olympic Committee of Russia,Q183288|Q43229,,Russian Olympic Committee
+OL,Olympic Committee of Serbia,Q587239,3,0,2,National Olympic Committee of Serbia,Olimpijski komitet Srbije|Олимпијски комитет Србије|OKS|Serbian Olympic Committee,Q183288,,Olympic Committee of Serbia
+OL,Olympic Committee of the Democratic People's Republic of Korea,Q1132932,3,0,2,National Olympic Committee,DPR Korea,Q183288,,Olympic Committee of the Democratic People's Republic of Korea
+OL,Olympic Committee of Israel,Q968491,3,0,2,National Olympic Committee,,Q183288,,Olympic Committee of Israel
+OL,Olympic Committee of Kosovo,Q3684481,3,0,2,National Olympic Committee,,Q183288|Q163740,,Olympic Committee of Kosovo
+OL,Olympic Committee of Portugal,Q2543365,3,0,2,Portuguese national olympic committee,,Q183288,,Olympic Committee of Portugal
+OL,Olympic Committee of Bosnia and Herzegovina,Q2577457,3,0,2,national Olympic Committee,,Q183288,,Olympic Committee of Bosnia and Herzegovina
+OL,Olympic Committee of Albania,Q1209748,3,0,2,National Olympic Committee,,Q183288,,Albanian National Olympic Committee
+SB2C-3 Helldiver,SB2C-3 Helldiver,Q21697679,4,0,1,carrier-based dive bomber sans suffixe model,SB2C3|Curtiss SB2C-3|Helldiver 3|Curtiss Scout Bomber Type 2 Series 3,Q15056995,Q21697671,
+SB2C-3 Helldiver,Curtiss SB2C-3 Helldiver,Q21697671,4,0,1,carrier-capable dive bomber aircraft series,SB2C3|Curtiss SB2C-3|Helldiver 3|Curtiss Scout Bomber Type 2 Series 3|SB2C-3 Helldiver,Q15056993,Q918312,
+SB2C-3 Helldiver,Curtiss SB2C-3 Helldiver in service,Q21705615,4,0,1,dive bomber series used by military forces worldwide,sb2c3fleet|SB2C-3 Helldiver fleet|USN SB2C-3 Helldiver|Curtiss SB2C-3 Helldiver in military service,Q1875630,Q21697775|Q21697671,
+SB2C-3 Helldiver,R-2600-20 Twin Cyclone,Q21684983,4,0,2,1900 hp piston aircraft engine,R2600-20|Wright R-2600-20|Twin Cyclone 20,Q15057021,Q1659797,
+R-2600-20 Twin Cyclone,R-2600-20 Twin Cyclone,Q21684983,4,1,1,1900 hp piston aircraft engine,R2600-20|Wright R-2600-20|Twin Cyclone 20,Q15057021,Q1659797,
+R-2600-20 Twin Cyclone,SB2C-3 Helldiver,Q21697679,4,1,2,carrier-based dive bomber sans suffixe model,SB2C3|Curtiss SB2C-3|Helldiver 3|Curtiss Scout Bomber Type 2 Series 3,Q15056995,Q21697671,
+R-2600-20 Twin Cyclone,Curtiss SB2C-3 Helldiver,Q21697671,4,1,2,carrier-capable dive bomber aircraft series,SB2C3|Curtiss SB2C-3|Helldiver 3|Curtiss Scout Bomber Type 2 Series 3|SB2C-3 Helldiver,Q15056993,Q918312,
+R-2600-20 Twin Cyclone,Curtiss SB2C-3 Helldiver in service,Q21705615,4,1,2,dive bomber series used by military forces worldwide,sb2c3fleet|SB2C-3 Helldiver fleet|USN SB2C-3 Helldiver|Curtiss SB2C-3 Helldiver in military service,Q1875630,Q21697775|Q21697671,

@@ -1,0 +1,57 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2008fl,SN 2008fl,Q9331022,0,0,1,supernova,,Q3937,,
+SN 3002ch,,,1,0,0,,,,,
+N 2005jf,,,2,0,0,,,,,
+S 1990ac,Traverse Gravimeter Experiment,Q106511909,3,0,2,experiment on Apollo 17,S199|S-199|TGE|Lunar Traverse Gravimeter|Portable Traverse Gravimeter Experiment,Q100349043|Q15890399,,Lunar Traverse Gravimeter
+S 1990ac,S-199.235 crash,Q110022347,3,0,2,,,Q3002150,,
+S 1990ac,Avia S-199,Q790766,3,0,2,aircraft,,Q15056995,Q2875704|Q135214932|Q41426|Q385642,Avia S-199
+S 1990ac,S-1990,Q2955195,3,0,2,,,Q473708,,
+SN 1999ae,SN 1999ae,Q9327745,4,0,1,supernova,,Q3937,,
+SN 1999ae,minor planet,Q1022867,4,0,2,astronomical object in direct orbit around the Sun that is neither a planet nor a comet,,Q17444909,Q3132741|Q193275,Minor planet
+SN 1999ae,Minor Planet Center database,Q106600690,4,0,2,database of minor bodies in the Solar System,MPC database|MPC catalog|Minor Planet Center catalog,Q8513,,
+SN 1999ae,Minor Planet Center,Q522039,4,0,2,organization,MPC,Q43229,,Minor Planet Center
+SN 1999ae,minor planet moon,Q657829,4,0,2,natural satellite of a minor planet,asteroid moon|minor planet satellite|satellite of a minor planet|moon of a minor planet,Q17444909,Q2537,Minor-planet moon
+SN 1999ae,Minor Planet Circulars,Q6382430,4,0,2,periodical by the Minor Planet Center,MPC|Minor Planet Circulars/Minor Planets and Comets,Q1002697,,Minor Planet Circulars
+SN 1999ae,minor planet group,Q2332332,4,0,2,population of minor planets that share broadly similar orbits,asteroid group,Q17444909,Q6999,List of minor-planet groups
+SN 1999ae,list of minor planets,Q37651,4,0,2,"numerically sorted list of near-Earth asteroids, Mars-crossers, main-belt asteroids, Jupiter trojans, and distant minor planets in the Solar System",list of asteroids|catalog of minor planets,Q80096233|Q13406463,,Lists of minor planets
+SN 1999ae,Minor planet designation,Q817125,4,0,2,number-name combination assigned to minor planets,provisional designation of asteroids,Q6961869,Q643921,Minor-planet designation
+SN 1999ae,Minor Planet Bulletin,Q6869125,4,0,2,journal,The Minor planet bulletin|Minor Planet Bull,Q5633421|Q773668,,The Minor Planet Bulletin
+SN 1999ae,Minor Planet Catalogue,Q55178248,4,0,2,catalogue of minor planet orbits,,Q605175,,
+SN 1999ae,asteroid,Q3863,4,0,2,minor planet of the inner Solar System; not a comet,planetoid|asteroids,Q17444909,Q1022867|Q193275,Asteroid
+SN 1999ae,asteroid belt,Q2179,4,0,2,the circumstellar disk (accumulation of matter) in an orbit around Sun between those of Mars and Jupiter,the asteroid belt|main asteroid belt|the main asteroid belt|main belt,Q3235978|Q109645909|Q28951811,Q2332332,Asteroid belt
+SN 1999ae,Asteroid,Q4810751,4,0,2,American Thoroughbred racehorse and sire,,Q726,,Asteroid (horse)
+SN 1999ae,Asteroid,Q113629153,4,0,2,early access video game,,Q7889,,
+SN 1999ae,starfish,Q25349,4,0,2,"class of echinoderms, marine animal",Sea star|Asteroidea|Seastars|Blood star|Sea stars|Star fish|Seastar|starfishes|Asteroidia,Q16521,,Starfish
+SN 1999ae,Asteroid,Q132852203,4,0,2,British Thoroughbred racehorse,,Q726|Q26401003,,
+SN 1999ae,Asteroideae,Q21004,4,0,2,subfamily of plants in the aster family (Asteraceae),,Q16521,,Asteroideae
+SN 1999ae,Asteroids,Q748890,4,0,2,1979 video game,,Q7889,,Asteroids (video game)
+SN 1999ae,Asteroid Terrestrial-impact Last Alert System,Q17002475,4,0,2,asteroid early warning system,ATLAS Project,Q550089|Q5326904,,Asteroid Terrestrial-impact Last Alert System
+SN 1999ae,Vesta,Q3030,4,0,2,second largest asteroid of the main asteroid belt,asteroid Vesta,Q3863,,4 Vesta
+SN 3950A,,,5,0,0,,,,,
+VN 1952F,Vietnam,Q881,6,0,2,country in Southeast Asia,Socialist Republic of Vietnam|VN|VIE|Việt Nam|SRV|VNM|Viet Nam|Socialist Republic of Viet Nam,Q3624078|Q849866|Q6256,,Vietnam
+VN 1952F,Vietnamese,Q9199,6,0,2,Austroasiatic language originating in Vietnam,tiếng Việt|Vietnamese language|vie,Q33742|Q1288568,Q2355546,Vietnamese language
+VN 1952F,Vietnamese Wikipedia,Q200180,6,0,2,Vietnamese-language edition of Wikipedia,,Q10876391,,Vietnamese Wikipedia
+VN 1952F,Vietnam War,Q8740,6,0,2,"armed conflict in Vietnam, Laos, and Cambodia between North Vietnam and South Vietnam, from 1955 to 1975",American War|Second Indochina War|American War in Vietnam,Q864113,,Vietnam War
+VN 1952F,Dai Viet,Q430309,6,0,2,Vietnamese monarchy (10th–19th century),Great Viet|Vietnam|Viet Nam|Daiviet|Annam|Annan|An Nam|An Nan|Vietnamese Empire|Vietnamese Kingdom|Empire of Vietnam|Kingdom of Vietnam,Q417175|Q3024240,,Đại Việt
+VN 1952F,State of Vietnam,Q1193879,6,0,2,1949–1955 state in Southeast Asia,Associated State of Vietnam|State of Viet-Nam|Vietnam|State of Viet Nam,Q1138279,,State of Vietnam
+VN 1952F,Vietnam men's national football team,Q270689,6,0,2,national association football men's team that represents Vietnam,Vietnam national football team,Q135408445,Q1194951,Vietnam national football team
+VN 1952F,Vietnamese people,Q216151,6,0,2,ethnic group originally from northern Vietnam,Kinh people,Q41710,Q103839813,Viet people
+VN 1952F,Vietnam Airlines,Q174386,6,0,2,flag-carrier airline of Vietnam,Vietnam Airlines Company Limited|Vietnam Airline|Vietnam Air,Q46970,,Vietnam Airlines
+VN 1952F,Dai Co Viet,Q10841085,6,0,2,historical state,Vietnam|Annam|An Nam|Annan|An Nan|Vietnamese Kingdom|Kingdom of Vietnam|Ngo Vietnam,Q2478080|Q417175|Q3024240,,
+VN 1952F,Vietnamese,Q3275151,6,0,2,citizens or residents of Vietnam,Vietnamese people|Annamese,Q33829,Q99929155|Q4058325|Q22947|Q3539909|Q22947,
+VN 1952F,Vietnam veteran,Q7928606,6,0,2,soldier who served during the Vietnam War,Vietnam War veteran|Vietnam-era veteran|Vietnam Conflict veteran|Vietnamese Conflict veteran|Vietnamese War veteran,Q16334295|Q12737077,Q193891,Vietnam veteran
+VN 1952F,Communist Party of Vietnam,Q427325,6,0,2,Vietnamese political party,Vietnamese Communist Party|CPV|VCP,Q233591,,Communist Party of Vietnam
+VN 1952F,Vietnamese alphabet,Q622712,6,0,2,modern writing system for the Vietnamese language,Chữ Quốc ngữ|Vietnamese Latin alphabet,Q29575627,,Vietnamese alphabet
+VN 1952F,Government of Vietnam,Q5589338,6,0,2,executive arm of Vietnam,Vietnamese Government|Vietnam government,Q7188|Q35798,,Government of Vietnam
+VN 1952F,Vietnamese era name,Q2420465,6,0,2,names that identify years in the Vietnamese era calendar,,,Q256408,Vietnamese era name
+VN 1952F,People's Army of Vietnam,Q3936506,6,0,2,combined military forces of Vietnam,Vietnam People's Army|PAVN|Vietnamese People's Army|Vietnamese military|military of Vietnam|mil Vietnam|NVA|North Vietnamese regular army,Q772547,,People's Army of Vietnam
+VN 1952F,visual novel,Q689445,6,0,2,interactive fiction game,visual novels|galgame|NVL game|digital novel|choose-your-own-adventure game|VN,Q659563|Q1437361|Q108317211,Q1143118|Q97957575,Visual novel
+VN 1952F,Vnitřní lékařství,Q27713817,6,0,2,journal,Vnitr Lek|Vnitrni lekarstvi,Q5633421,,
+VN 1952F,The Visual Novel Database,Q16646841,6,0,2,internet database of visual novels,VNDB|vndb.org|Visual Novel Database,Q55341040|Q171|Q168210,,The Visual Novel Database
+VN 1952F,Anthony van Dyck,Q150679,6,0,2,Flemish Baroque artist (1599–1641),"Vandech|Antoine Vandeik|Antonio Vandich|Vandeich|Deick|von Deyck|v. Dyk|Ant. van Dick|A. Vandick|A. von Deyk|Antoine Vandich|Anton van Dyk|Vandeyc|A. v. Dyke|Ant. van Dyk|Antoni Van-Deĭk|Sir Ant. Flem. Vandyck|Sir Anthony Vandyck|Vannich|A. van Dik|A. van Dijk|Vandique|A. v. Dyk|Ant v. Dyk|van Deyck|Antoine van Dyck|Antoine Vandyck|Van Dijk|Sir Anthony van Dyck|Wandih|Anthony Vandyke|A. Vandik|Vandeic|Antoin Vandyk|Ant. van Dyks|Vandisco fiamengo|Wandich|A. Vaudick|Chevaliér van Dyk|Dyke|Van Dyck School|Vandiche|anton van dyck|Wandik|Antony van Dyck|Wan Dyck|Vandaich|A. Vandych|Anton van Dijck|Anton Vandyk|Van Dyc|Ban Dycq|Antoine Vandick|Antoon Dyck|Anthonio van Dijk|Vau Dyke|Vnaydke|Anton von Deyck|Antonio von Dyk|antoon van dyck|A. Dyck|A. von Dyck|Anth. v. Dyck|Ant van Dyck|jan van dyck|Van diq|Vandik|Antoine Wandick|Van Dick|Vendeich|Van-Deyck|antonys van dyck|dyck van|Anthon van Dyck|Antoni van Deĭk|Anthonius van Dyk|baldique|Vandicca|von Deick|van dyck a.|A. Vandyke|sir A. van dyck|Bandique|A. van dyck|Van Dych|Dyck Ant. van|Vandych|Sir Antonio van Dyck|Van Dich Antonio|Ant van Dick|Badic|von Deycks|Anthonie van Dijck|Anton van Daik|Antoni v. Deick|Anton. van Dyck|bandio|Vandyke|Anthony van Dycke|Van Dycke|von Dyck|Anthonie van Dyk|Antonii van Dyck|Sir A. Vandyke|Anthony, Sir van Dyck|Antonio Vandik Fiammingo|Anthonis van Dyk|Antonio van Deyck|antonis van dyck|Wanclelfef|Vandick|A. Vandyck. en Italie|Anthony van Dyk|Van. Dyck|A. van Dyck|Sir Anthony Vandyke|Valdiq|Vandicche|Kopie naar Anthony van Dyck|Antoon Dijck|bandic|Van. Dick|Wandyck|anthonis van dyck|Anth. van Dyk|Antonio Vandicch|v. Dychs|Van Dyke|Antoni van Dyk|Anthonis, van Dyck|A.v. Dyk|A. Vandyck|Antonis van Dyck|Anton von Dyck|After van Dyck|Ant. Van-Dyck|Anthony van Dyck Sir|Antoine van Dyk|Chev. Anton van Dyk|After Vandyck|Antonio Vandyck|Vandyk|A Vandyke|Anthony van, Sir Dyck|den Ridder van Dyk|Anth. Vandyke|A. v. Dyck|Antonio Wandik|Van Deick|Ant.v. Dyck|anthony van dyck|Antoon, Sir van Dyck|Van Vandyck|Anthonie van Dyck|vandic|A. Van-Dick|Antoine van Dick|Antoni van Dyck|Wan Dick|Ant. van Dyck|Valdique|Van-Dyk|Van Dijck|An. Dyk|Antonio van Deyc|Vandino|Chévalier van Dyk|Sir Anthony van Dijck|antonie van dyck|Antoine Van-Dick|Antonio Vandichi fiamengho|Antonio van Dyk|Antoine Van-Dyck|Anthony van Dick|Van-Dick|van A. dyck|Dyk|Vandeck|Sir Ant. Vandyck|Anth. van Dyck|Anthonij van Dijck|Anthony, Sir Vandyck|Antonio Dyck|Van Dich|Vandichi|Vandicco|Antt.o van Deyck|Antoine Vandyk|Antonis van Daĭk|dyck anton van|Anton de Dück|Ant. v. Dyk|Antonie van Dyck|Anthony van Dijk|Sr. Ant. Van. Dych|Vandike|Ant. Vandyck|Anthony Vandycke|Dyck V|Vandycke|Van Dyk|Antoine Vandik|Antonie van Dijck|Antonius van Dyck|V. Dyck|Antonio Vandik|V. Dyke|Bandiq|V. Dycke|Antony van Dijck|von Dyk|Anthony Vandyck|van dyck|Anthonis van Dijck|V Dyck|anthonys van dyck|Ant. von Dyck|Anthonie Dijck|Antonio van Dyck|A. van-Dyck|Anthoni van Dyck|&c. Vandyck|van dyck sir anthony|Van-Dyck|Vandeique|&amp Vandyck|Anttonio Vandique|An. van Dyck|Bandeique|Vandec|Vannic|sir anthony van dycke|A. van Dick|Ant. v. Dyck|A van Dyck|Anthonie Dyck|A. van Dycl|Mandique|Sir Dyck|Vandiq|Vandyck|A. van Dyk|A. Vandyk|Wandick|Anthonius van Dijck|Ant. Vandeick|Sir A. Vandyck|van Dyijck|A.v. Dyck|comme de van Dyck|Ant. Vandick|Vandich|A. van Dyc|anthonius van dyck|Vand Duyke|Vandick Fiammengo|Antony van Dyk|Dyck|Dack|Ant. Vandeyck|Antonio Vandych",Q5,,Anthony van Dyck
+VN 1952F,virulent Newcastle disease,Q11903425,6,0,2,bird disease,VND|avian pneumoencephalitis|Newcastle disease|exotic Newcastle disease|Newcastle's disease|fowl pest|pseudo-fowlpest,Q112193867,Q18975230|Q12043796|Q1928978|Q25615894|Q12040649|Q18123741|Q1928978,Virulent Newcastle disease
+VN 1952F,Vnitřní Město,Q11921226,6,0,2,neighborhood of Třebíč,,Q61089180,,
+VN 1952F,Vilanova i la Geltrú,Q15553,6,0,2,"municipality of Catalonia, Spain",Vilanova|VNG,Q33146843,,Vilanova i la Geltrú
+VN 1952F,licensed practical nurse,Q11848548,6,0,2,category of nurse in some countries,LPN|practical nurse|vocational nurse|licensed vocational nurse|LVN|PN|VN,Q28640|Q3922583,Q186360,Licensed practical nurse
+SN 2004l,SN 2004L,Q9329108,7,0,1,supernova,,Q3937,,
+SN 2206iz,,,8,0,0,,,,,

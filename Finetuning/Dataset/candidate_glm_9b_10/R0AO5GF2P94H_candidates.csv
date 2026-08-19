@@ -1,0 +1,93 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Harare,Harare,Q3921,0,0,1,capital and largest city of Zimbabwe,"Salisbury, Rhodesia|Fort Salisbury|Salisbury, Zimbabwe",Q515|Q1549591,,Harare
+Harare,Harare Province,Q16928358,0,0,1,province in Zimbabwe,,Q492042,,Harare Province
+Harare,Harare,Q6753390,0,0,1,airport in Zimbabwe,,Q695850,,Manyame Air Force Base
+Harare,Robert Gabriel Mugabe International Airport,Q760897,0,0,1,"airport in Harare, Zimbabwe",HRE|FVRG|Salisbury Airport|Harare International Airport|FVHA,Q644371|Q94993988,,Robert Gabriel Mugabe International Airport
+Harare,Harare,Q122786960,0,0,1,ship built in 1977,IMO 7638246,Q11446,,
+Harare,Harare,Q132778873,0,0,1,,,Q486972,,
+Harare,Harare Polytechnic,Q16889445,0,0,1,polytechnic school in Zimbabwe,Harare Polytechnic College,Q845392,,Harare Polytechnic
+Harare,Harare City F.C.,Q16840486,0,0,1,Zimbabwean football club,,Q476028,,Harare City F.C.
+Harare,"Harare (Pioneer) Cemetery, Commonwealth Sections",Q107358772,0,0,1,"cemetery in Mbare, Zimbabwe",,Q14750991|Q56632662,,
+Harare,Harare Central Hospital,Q59536647,0,0,1,"healthcare organization in Harare, Zimbabwe",,Q4287745|Q16917,,Harare Central Hospital
+Harare,Zimbabwe,Q954,0,0,2,sovereign state in southern Africa,Republic of Zimbabwe|Southern Rhodesia|Rhodesia|Zimbabwe Rhodesia,Q7270|Q3624078|Q123480|Q6256,,Zimbabwe
+Harare,Zimbabwe,Q140447562,0,0,2,,,Q482994,,
+Harare,Zimbabwe men's national football team,Q327100,0,0,2,men's national association football team representing Zimbabwe,Zimbabwe national football team,Q135408445,Q1194951,Zimbabwe national football team
+Harare,Zimbabwe African National Union – Patriotic Front,Q1910161,0,0,2,leading political party of Zimbabwe,ZANU-PF,Q7278,,ZANU–PF
+Harare,Zimbabwe national cricket team,Q1254704,0,0,2,cricket team,,Q86255944,,Zimbabwe national cricket team
+Harare,Zimbabwe,Q16968451,0,0,2,2007 live album by Dispatch,,Q482994,,Zimbabwe (Dispatch album)
+Harare,Zimbabwe,Q106715801,0,0,2,episode of Historiepodden published on 3 December 2017 (E182),,Q61855877,,
+Harare,Zimbabwea,Q14527317,0,0,2,genus of grasshoppers,,Q16521,,
+Harare,Zimbabwe,Q31540781,0,0,2,mountain in Zimbabwe,,Q8502,,
+Harare,Zimbabwe,Q3575542,0,0,2,2008 film by Darrell Roodt,,Q11424,,
+Artieda,Artieda,Q120171284,1,0,1,"municipal capital of Artieda, Zaragoza, Aragon, Spain",,Q121289819,,
+Artieda,Artieda,Q712486,1,0,1,municipality of Aragón,,Q2074737,,Artieda
+Artieda,Artieda,Q12254217,1,0,1,"human settlement in Urraúl Bajo, Navarre, Spain",,Q2989421|Q3055118,,
+Artieda,Artieda,Q37047483,1,0,1,family name,,Q101352,,
+Artieda,Julio Artieda,Q41289531,1,0,1,researcher,Artieda J.|J. Artieda,Q5,,
+Artieda,Artieda del Nuevo Reino de Navarra,Q5707023,1,0,1,,Artieda,Q350895,,
+Artieda,Artieda Palace,Q20492000,1,0,1,"cultural property in Urraúl Bajo, Spain",,Q16560|Q4989906|Q57821,,
+Artieda,Artieda town hall,Q126818431,1,0,1,"municipal building in Artieda, Spain",town hall of Artieda,Q112793351,,
+Artieda,Artieda y Labiano,Q110746460,1,0,1,"monument in Madrid, Spain",,Q721747,,
+Artieda,Artieda,Q108804364,1,0,1,,,Q190107,,
+Beijing,Beijing,Q956,2,0,1,capital city of China,Beiping|Peiping|Yanjing|Zhongdu|Khanbaliq|BJ|Pekin|Shuntian|Shuntianfu|Shuntian Fu|Pe-king|Pei-p'ing|Pei-ping|Peip'ing|Pei-ching|Yan-ching|Yanking|Chung-tu|Chungtu|Khanbalik|Shun-t'ien|Shun-tien|Beeijing|Poh-cin|Bākgīng|Pak-kiann|Ji|Jicheng|Chi|Chi-ch'eng|Chi-cheng|Chi-ch’êng|Bei Jing Shi|Beijing Shi|Peking Shi,Q515|Q1208802|Q108178728|Q1066538|Q208511|Q174844|Q200250|Q1549591|Q129268952,,Beijing
+Beijing,2022 Winter Olympics,Q193074,2,0,1,"24th edition of Winter Olympics, in Beijing, China",Beijing 2022|Peking 2022|2022 Olympics|24th Winter Olympics|24th Olympic Winter Games|2022 Olympic Winter Games|Beijing Winter Olympics|XXIV Olympics Winter Games,Q137592217|Q14547231,,2022 Winter Olympics
+Beijing,2008 Summer Olympics,Q8567,2,0,1,"Games of the XXIX Olympiad, in Beijing, China",Beijing 2008|Games of the XXIX Olympiad|The Games of the XXIX Olympiad|2008 Olympics|The Beijing Olympics,Q135976384|Q14547231,,2008 Summer Olympics
+Beijing,Peking University,Q16952,2,0,1,"university in Beijing, China",PKU|Beida|Beijing University|University of Beijing|Imperial University of Peking,Q875538|Q98658352|Q16077796,,Peking University
+Beijing,China Standard Time,Q1143153,2,0,1,time zone,Beijing Time|Chinese Standard Time,Q12143,,China Standard Time
+Beijing,Baidu,Q14772,2,0,1,Chinese web services company,"Bǎidù|Baidu, Inc.|baidu.com|BIDU|BEIJING BAIDU NETCOM SCIENCE AND TECHNOLOGY CO., LTD. (Beijing)|Baidu Group",Q4830453|Q4182287|Q6881511|Q891723|Q6576792|Q43229,,Baidu
+Beijing,Acta Scientiarum Naturalium Universitatis Pekinensis,Q15745361,2,0,1,journal,Beijing Daxue Xuebao Ziran Kexue Ban,Q5633421,,
+Beijing,2008 Summer Paralympics,Q216864,2,0,1,"multi-parasport event in Beijing, China",Summer Paralympics 2008|Beijing 2008 Paralympic Games,Q3327913|Q167170|Q114609228|Q3327913,,2008 Summer Paralympics
+Beijing,Journal of Peking University (Health Sciences),Q15745363,2,0,1,Chinese medical journal,Beijing Da Xue Xue Bao Yi Xue Ban|Pei-ching I K'o Ta Hsueh Hsueh Pao|J. Beijing Med. Univ.|Journal of Peking University,Q5633421|Q16024164,,
+Beijing,Daming Fu,Q110977398,2,0,1,fictional location in Water Margin,Beijing|Damingfu,Q64034456,,
+Beijing,Peking,Q249918,2,0,2,historic German steel-hulled four-masted barque,IMO 1163371,Q3413443|Q105999|Q130326199,,Peking (ship)
+Beijing,HMS Mohawk,Q85765304,2,0,2,1856 Vigilant-class gunboat,Peking|Chin T'ai,Q214196,,HMS Mohawk (1856)
+Beijing,Peking University Law Journal,Q10874953,2,0,2,Chinese journal,,Q737498,,
+Beijing,pekin,Q29045268,2,0,2,silk fabric with longitudinal stripes of varying binding methods,peking,,Q1314278,
+Beijing,Peking University Education Review,Q63718195,2,0,2,Chinese journal,,Q737498,,
+Beijing,Peking Island,Q24847160,2,0,2,"island in Bulungan Regency, North Kalimantan Province, Indonesia",Pekin Island|Pekin,Q23442,,
+Beijing,Peking Express,Q679554,2,0,2,Dutch Belgian television show,,Q15416|Q5398426,,Peking Express
+Hamilton,Hamilton,Q133116,3,0,1,"city in Ontario, Canada","City of Hamilton|Hamilton, Ontario|Hamilton, ON",Q515|Q14762300|Q1549591,,"Hamilton, Ontario"
+Hamilton,Hamilton,Q21450552,3,0,1,family name,,Q101352,,Hamilton (surname)
+Hamilton,Hamilton,Q4131,3,0,1,"town in South Lanarkshire, Scotland, UK","Hamaltan|Cadȝow|Cadzow|Hamiltoun|Hamilton, Scotland|Hamilton (Scotland)|Hamilton, Lanarkshire|Hamilton, South Lanarkshire",Q3957|Q6489113,,"Hamilton, South Lanarkshire"
+Hamilton,Hamilton,Q19818110,3,0,1,male given name,Hamilton (given name)|Hamilton (first name),Q12308941,,
+Hamilton,Hamilton College,Q3113011,3,0,1,"private college in Clinton, New York",Hamilton-Oneida Academy,Q6540832|Q23002054,,Hamilton College
+Hamilton,Hamilton,Q200028,3,0,1,largest city in New Zealand's Waikato region,"Hamiltron|The Tron|The Fountain City|Kirikiriroa|H-Town|Hamilton, New Zealand|Hamilton City",Q515|Q1549591,,"Hamilton, New Zealand"
+Hamilton,Hamilton,Q79462,3,0,1,"city in Marion County, Alabama, United States","Hamilton, Alabama|Hamilton, AL",Q1093829,,"Hamilton, Alabama"
+Hamilton,Hamilton,Q5355484,3,0,1,"former state electoral district of New South Wales, Australia",Hamilton NSW|Electoral district of Hamilton (New South Wales)|Hamilton electoral district of New South Wales,Q3032154,,Electoral district of Hamilton (New South Wales)
+Hamilton,Hamilton,Q84323848,3,0,1,2020 film of the 2015 Broadway musical of the same name,Hamilfilm,Q11424,,Hamilton (2020 film)
+Hamilton,Hamilton,Q30985,3,0,1,capital of Bermuda,"Hamilton, Bermuda",Q515|Q17134625,,"Hamilton, Bermuda"
+Hamilton,Hamiltonian operator,Q660488,3,0,2,quantum operator for the energy,Hamiltonian,,Q2597952|Q11379,Hamiltonian (quantum mechanics)
+Hamilton,Hamiltonian,Q5645293,3,0,2,function used in optimal control theory,Hamiltonian function,Q11348,,Hamiltonian (control theory)
+Hamilton,Hamiltonian mechanics,Q477921,3,0,2,formulation of classical mechanics in terms of phase space and Hamiltonian function,,Q17737,,Hamiltonian mechanics
+Hamilton,Hamiltonian,Q18612415,3,0,2,230th strip of the webcomic xkcd,xkcd 230,Q838795,,
+Hamilton,Hamiltonian function,Q360356,3,0,2,function of generalized positions and momenta in Hamiltonian mechanics,Hamilton function,,Q107715|Q11379,Hamiltonian function
+Hamilton,Hamiltonian graph,Q18011235,3,0,2,graph containing a Hamiltonian cycle,,,Q128796627|Q130323481|Q4390447,Hamiltonian graph
+Hamilton,Hamiltonian path,Q273037,3,0,2,path in a graph that visits each vertex exactly once,Hamilton path|traceable path,,Q1415372,Hamiltonian path
+Hamilton,Hamiltonian,Q84711146,3,0,2,general cargo ship built in 1912,IMO 1131052,Q11446,,
+Hamilton,Hamiltonian cycle,Q9197353,3,0,2,Hamiltonian path that is a cycle,Hamiltonian circuit,,Q273037|Q245595,Hamiltonian cycle
+Hamilton,Hamiltonian system,Q2072471,3,0,2,dynamical system governed by Hamilton's equations,,Q33104303,Q638328,Hamiltonian system
+Hamilton,Hamiltonian Mechanics of Stochastic Acceleration,Q51139276,3,0,2,"scientific article published on November 5, 2013",,Q13442814,,
+Hamilton,Hamiltonian Mechanics and Geometry,Q58295649,3,0,2,,,Q13442814,,
+Athens,Athens,Q203263,4,0,1,"consolidated city-county and county seat of Clarke County, Georgia, United States","Athens, Georgia|The Classic City|Athens, GA|Cedar Shoals",Q1093829|Q76514543|Q3301053|Q1549591|Q62049,,"Athens, Georgia"
+Athens,Athens,Q1524,4,0,1,capital and largest city of Greece,Athens city|Athenae,Q1549591|Q51929311|Q200250|Q5500203,,Athens
+Athens,Athens,Q79439,4,0,1,"county seat of Limestone County, Alabama, United States","Athens, Alabama|Athens, AL",Q1093829|Q62049,,"Athens, Alabama"
+Athens,National and Kapodistrian University of Athens,Q547867,4,0,1,"university in Athens, Greece",University of Athens|NKUA|UoA|Athens University|uoa.gr|National Kapodistrian University of Athens,Q3918,,National and Kapodistrian University of Athens
+Athens,Classical Athens,Q844930,4,0,1,city-state in ancient Greece,Ancient Athens|Athens|Athens (Samian Ware Discovery Site),Q148837|Q839954|Q133442|Q102202066,,Classical Athens
+Athens,Athens,Q570807,4,0,1,"township municipality in Ontario, Canada","Athens, Ontario",Q15210668|Q55774719,,"Athens, Ontario"
+Athens,Athens,Q25412596,4,0,1,family name,,Q101352,,
+Athens,Edinburgh,Q23436,4,0,1,"capital city of Scotland, UK","Edinburgh, Scotland|City of Edinburgh|Edina|Modern Athens|Auld Reekie|Athens of the North",Q515|Q1187811|Q202435|Q104630835|Q1549591,,Edinburgh
+Athens,2004 Summer Olympics,Q8558,4,0,1,"Games of the XXVIII Olympiad, in Athens, Greece",Athens 2004|Games of the XXVIII Olympiad,Q135976384|Q14547231,,2004 Summer Olympics
+Athens,Athens,Q755420,4,0,1,"city in Athens County, Ohio, United States","Athens, Ohio|Athens, OH",Q108569710|Q1187811|Q62049,,"Athens, Ohio"
+Athens,Ancient Athens’women and its democratic politics,Q120453012,4,0,2,"scholarly article in Journal of South China Normal University (Social Science Edition), no. 3, 1996",,Q13442814,,
+Athens,"Ancient Athens. By Ernest Arthur Gardner. Pp. 579; with maps, plans, and illustrations. London: Macmillan & Co., 1902. 21s. net",Q60204689,4,0,2,,,Q13442814,,
+Athens,Ancient Athens and the values of Mediterranean society,Q57552901,4,0,2,"journal article; published in Mediterranean Historical Review, Jan 1996",,Q18918145,,
+Baku,Baku,Q9248,5,0,1,capital of Azerbaijan,Baki|City of Winds|Baky,Q56557664|Q108178728,,Baku
+Baku,Admiral Gorshkov,Q359024,5,0,1,1987 Project 1143.4 aircraft carrier of the Soviet and Russian navies,Baku|Soviet aircraft carrier Admiral Gorshkov|Admiral Flota Sovetskogo Soyuza Gorshkov,Q1430687,,Soviet aircraft carrier Baku
+Baku,Baku,Q68078772,5,0,1,sports club,,Q847017,,
+Baku,Baku,Q18592037,5,0,1,genus of crustaceans,,Q16521,,
+Baku,Bakul Gaur,Q113787365,5,0,1,particle physicist in Germany,,Q5,,
+Baku,Baku,Q139578921,5,0,1,episode of The Man in the High Castle (s3 e9),,Q21191270,,
+Baku,Baku,Q122215654,5,0,1,,,Q202444,,
+Baku,Baku,Q122215129,5,0,1,family name,,Q101352,,
+Baku,Baku State University,Q1633799,5,0,1,"state-owned technical university in Baku, Azerbaijan, founded in 1919",State University of Baku|BSU,Q3918,,Baku State University
+Baku,Tieghemella heckelii,Q1324535,5,0,1,species of plant,Baku,Q16521,Q11992872,Tieghemella heckelii

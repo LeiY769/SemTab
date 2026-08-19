@@ -1,0 +1,21 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Silla,South Korea,Q884,0,0,1,country in East Asia,Republic of Korea|Rep. Korea|S. Korea|Korea Republic|Hanguk|Daehan Minguk|Daehanminguk|Korea (South)|Choson|Silla,Q3624078|Q1520223|Q6256,,South Korea
+Silla,Silla,Q1630580,0,0,1,opera by Georg Friedrich Händel,Lucio Cornelio Silla|HWV 10|L. C. Silla,Q58483083,,Silla (Handel)
+Silla,Silla,Q37225240,0,0,1,family name,,Q101352,,
+Silla,Silla,Q16425999,0,0,1,unisex given name,,Q3409032,,
+Silla,Silla,Q28456,0,0,1,kingdom on the Korean Peninsula (c.57 BCE-935 CE),Seora|Seorabeol|Sara|Saro|Gyerim|Shilla|Silla (Kingdom)|Kingdom of Silla,Q3024240|Q1250464,,Silla
+Silla,Silla,Q10843,0,0,1,"municipality in the comarca of Horta Sud in the Valencian Community, Spain",,Q2074737|Q123754112,,"Silla, Spain"
+Silla,Silla,Q113456402,0,0,1,opera by Carl Heinrich Graun,,Q58483083,,Silla (Graun)
+Silla,Silla,Q23979342,0,0,1,"seat of Silla municipality, Spain",,Q486972|Q121289819,,
+Silla,Sillaginidae,Q133321,0,0,1,family of fishes,,Q16521,,Sillaginidae
+Silla,Sillago,Q2252483,0,0,1,genus of fishes,,Q16521,,Sillago
+Banna,Banna,Q39346,1,0,1,municipality of the Philippines in the province of Ilocos Norte,Espiritu,Q24764,,"Banna, Ilocos Norte"
+Banna,Banna,Q37301455,1,0,1,family name,,Q101352,,
+Banna,Bannalec,Q318227,1,0,1,"commune in Finistère, France",Banaleg,Q484170,,Bannalec
+Banna,Bannau Brycheiniog National Park,Q15052206,1,0,1,"national park in Wales, UK",Brecon Beacons National Park|Bannau Brycheiniog|Parc Cenedlaethol Bannau Brycheiniog,Q485098|Q1324355,,Brecon Beacons National Park
+Banna,Hamer people,Q1572644,1,0,1,ethnic group,Hamar|Banna|Bashada|Hamar tribe,Q41710,,Hamar people
+Banna,Bannans,Q806870,1,0,1,"commune in Doubs, France",,Q484170,,Bannans
+Banna,Bannay,Q945594,1,0,1,"commune in Cher, France",,Q484170,,"Bannay, Cher"
+Banna,Bannay,Q1224086,1,0,1,"commune in Marne, France",,Q484170,,"Bannay, Marne"
+Banna,Banna,Q59725237,1,0,1,"electoral district in County Kerry, Ireland",,Q2500304,,
+Banna,Bannay,Q21841,1,0,1,"commune in Moselle, France",Bénaïe,Q484170,,"Bannay, Moselle"

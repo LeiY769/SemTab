@@ -1,0 +1,911 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Basilica in Katowice Panewniki,Basilica in Katowice Panewniki,Q9167806,0,0,1,"church building in Katowice, Poland",,Q1088552|Q120560|Q1200957|Q317557|Q811165,,
+Basilica in Katowice Panewniki,Basilica of Our Lady of the Rosary,Q9167690,0,0,2,"church building in Fátima, Santarém District, Portugal",Basílica de Nossa Senhora do Rosário,Q120560|Q210272|Q16970,,Basilica of Our Lady of the Rosary (Fátima)
+Basilica in Katowice Panewniki,"Basilica of Our Lady of the Rosary, Caieiras",Q18500016,0,0,2,"church building in São Paulo, Brazil",,Q16970,,"Basilica of Our Lady of the Rosary, Caieiras"
+Basilica in Katowice Panewniki,Basilica of Our Lady of the Rosary and Saint Benedict of Palermo,Q42984168,0,0,2,cultural heritage monument of Uruguay,,Q2065736,,
+Catholicism,Catholicism,Q1841,0,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,0,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,0,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,0,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,0,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,0,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,0,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,0,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,0,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,0,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Basilica of Our Lady of Sorrows in Limanowa,Basilica of Our Lady of Sorrows in Limanowa,Q9167688,1,0,1,"church building in Limanowa, Poland",,Q16970|Q120560|Q1200957|Q10631691|Q811165,,
+Basilica of Our Lady of Sorrows in Limanowa,Basilica of Our Lady of Sorrows,Q21177802,1,0,2,"cultural property, inor basilica in Granada, Spain",,Q4989906|Q120560|Q55876909,,
+Basilica of Our Lady of Sorrows in Limanowa,Our Lady of Sorrows Basilica,Q2886917,1,0,2,Catholic church in Chicago,Basilica of Our Lady of Sorrows,Q120560|Q317557|Q200614,,Our Lady of Sorrows Basilica
+Basilica of Our Lady of Sorrows in Limanowa,Basilica of Our Lady of Sorrows and St. Philip Benizi,Q2820635,1,0,2,"building in Vaglia, Italy",,Q120560|Q697295,,Monte Senario
+Basilica of Our Lady of Sorrows in Limanowa,Our Lady of Sorrows Basilica in Jarosław,Q9333618,1,0,2,"church building in Jarosław, Poland",,Q16970,,
+Basilica of Our Lady of Sorrows in Limanowa,"Our Lady of Sorrows Basilica, Stična",Q18918123,1,0,2,"basilica in Stična, Slovenia",,Q317557|Q120560|Q16970,,
+Catholicism,Catholicism,Q1841,1,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,1,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,1,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,1,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,1,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,1,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,1,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,1,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,1,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,1,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Basilica of Our Lady of Sorrows,Q21177802,1,1,2,"cultural property, inor basilica in Granada, Spain",,Q4989906|Q120560|Q55876909,,
+Catholicism,Our Lady of Sorrows Basilica,Q2886917,1,1,2,Catholic church in Chicago,Basilica of Our Lady of Sorrows,Q120560|Q317557|Q200614,,Our Lady of Sorrows Basilica
+Catholicism,Basilica of Our Lady of Sorrows and St. Philip Benizi,Q2820635,1,1,2,"building in Vaglia, Italy",,Q120560|Q697295,,Monte Senario
+Catholicism,Basilica of Our Lady of Sorrows in Limanowa,Q9167688,1,1,2,"church building in Limanowa, Poland",,Q16970|Q120560|Q1200957|Q10631691|Q811165,,
+Catholicism,Limanowa,Q324964,1,1,2,city and urban gmina in the Lesser Poland Voivodeship in south-western Poland,Ilmenau|Liminuv,Q2616791,,Limanowa
+Catholicism,Gmina Limanowa,Q2141698,1,1,2,rural gmina of Poland,Limanowa,Q3504085,,Gmina Limanowa
+Catholicism,Limanowa County,Q1340585,1,1,2,powiat of Poland,powiat limanowski,Q247073,,Limanowa County
+Catholicism,Limanowa,Q23852832,1,1,2,article in Otto's encyclopedia,,Q13433827,,
+Catholicism,Limanowa train station,Q11756840,1,1,2,"railway station in Limanowa, Poland",,Q55488,,
+Catholicism,Limanowa,Q33690307,1,1,2,,,,,
+Catholicism,Limanowa Ghetto,Q30007317,1,1,2,,,Q2583015,,
+Catholicism,Limanowa concentration camp,Q47515618,1,1,2,,Ilmenau concentration camp,Q152081,,
+Catholicism,Limanowa,Q18981177,1,1,2,Wikimedia disambiguation page,,Q4167410,,
+Catholicism,Battle of Limanowa,Q2237589,1,1,2,1-13 December 1914,,Q178561,,Battle of Limanowa
+Catholicism,Catholic Church,Q9592,1,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,1,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,1,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,1,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,1,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,1,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,1,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,1,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,1,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,1,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Pura Goa Lawah,Pura Goa Lawah,Q4845403,2,0,1,tourist attraction in Bali,,Q35509|Q3124902|Q842402,,Pura Goa Lawah
+Balinese Hinduism,Balinese Hinduism,Q4850935,2,1,1,form of Hinduism practiced in Bali,,Q1189816,Q9089,Balinese Hinduism
+Balinese Hinduism,Balinese hinduism and the Indonesian state; Recent developments,Q64410684,2,1,1,article published in 1997,,Q13442814,,
+Balinese Hinduism,Pura Goa Lawah,Q4845403,2,1,2,tourist attraction in Bali,,Q35509|Q3124902|Q842402,,Pura Goa Lawah
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chappel in Novosibirsk,Q4507644,3,0,1,"Russian Orthodox chapel in Novosibirsk, Russia",,Q2031836|Q19860854,,"Saint Nicholas Chapel, Novosibirsk"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q19595655,3,0,2,"parish in Alaska, United States of America",,Q102496,,"St. Nicholas Chapel (Nondalton, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q7590821,3,0,2,"historic Russian Orthodox church in Seldovia, Alaska, United States",,Q2031836|Q108325,,"St. Nicholas Chapel (Seldovia, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q16900623,3,0,2,"historic church in Ekuk, Alaska, United States",Santa Claus Church,Q108325,,"St. Nicholas Chapel (Ekuk, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q19520645,3,0,2,"historic church in Alaska, United States",,Q108325,,"St. Nicholas Chapel (Igiugig, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q7590818,3,0,2,"chapel in Sand Point, United States of America",,Q108325,,"St. Nicholas Chapel (Sand Point, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q16900602,3,0,2,"chapel in Pedro Bay, Alaska",,Q108325,,"St. Nicholas Chapel (Pedro Bay, Alaska)"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q60351197,3,0,2,,,Q108325,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Chapel,Q120752669,3,0,2,"church building in Gstaad in the canton of Bern, Switzerland",St.-Niklaus-Kapelle,Q56242063|Q108325,,
+St. Nicholas Chappel in Novosibirsk,Saint Nicholas Chapel,Q123335562,3,0,2,chapel in Izmail,St. Nicholas Chapel,Q1975485,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas chapel in Lomonosov,Q122931234,3,0,2,"Orthodox chapel in Lomonosov, Russia",,Q2319498|Q1975485,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q2420392,3,0,2,church in Prague in Malá Strana neighborhood,,Q16970,,St. Nicholas Church (Malá Strana)
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q694286,3,0,2,"church in Leipzig, Germany",,Q1639354|Q16970,,"St. Nicholas Church, Leipzig"
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q72414666,3,0,2,"church building in Liadna, Sluck District, Minsk District, Belarus",,Q2031836,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q2316591,3,0,2,"church building in Hanover, Germany",St. Nicholas' Church,Q16970,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas church,Q15848652,3,0,2,"church in Eupen, Belgium",,Q317557,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q1262174,3,0,2,"church building in Loebau, Germany",,Q16970,,
+St. Nicholas Chappel in Novosibirsk,Saint Nicholas Church,Q1986216,3,0,2,"church building in IJsselstein, Netherlands",Reformed Church|St. Nicholas Church,Q16970,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q10661430,3,0,2,"church building in Sölvesborg Municipality, Blekinge, Sweden",,Q16970|Q1497375,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas church,Q2321872,3,0,2,"church building in Märkisch-Oderland district, Brandenburg state, Germany",St. Nicholas church (Bad Freienwalde),Q317557,,
+St. Nicholas Chappel in Novosibirsk,St. Nicholas Church,Q2372424,3,0,2,church in Utrecht,"St. Nicholas Church, Utrecht|Nicolaïkerk|Rijksmonument 36380",Q16970,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,3,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,3,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,3,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,3,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,3,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,3,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,3,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,3,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,3,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,3,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,3,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,3,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,3,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,3,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,3,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,3,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,3,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,3,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,3,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Orthodox Christianity and the Politics of Transition,Q139734840,3,1,2,,,Q571,,
+Eastern Orthodoxy,Orthodox Christianity: A Very Short Introduction,Q114004671,3,1,2,,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q136204913,3,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity in Imperial Russia: A Source Book on Lived Religion,Q136211828,3,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Contemporary Europe,Q136555745,3,1,2,2003 paperback edition (en),,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q139712043,3,1,2,,,Q13442814,,
+Eastern Orthodoxy,"Orthodox Christianity, Soviet Atheism and ‘Animist’ Practices in the Russianized World",Q138310227,3,1,2,journal article from 'Diogenes' published in 2005,,Q13442814,,
+Eastern Orthodoxy,Orthodox christianity in imperial Russia,Q57682420,3,1,2,scholarly article by Philip Boobbyer published 2 July 2017 in Slavonica,,Q13442814,,
+Church of St. John the Theologian (Saransk),Church of St. John the Theologian (Saransk),Q4504723,4,0,1,"church building in Saransk, Russia",,Q358|Q16970|Q2319498,,
+Church of St. John the Theologian (Saransk),Church of St. John the Theologian (Ligourio),Q56398540,4,0,2,"christian church - protected and preserved building in Argolis, Greece",Agios Ioannis Theologos (Lygourio),Q2031836,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,4,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,4,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,4,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,4,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,4,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,4,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,4,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,4,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,4,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,4,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,4,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,4,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,4,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,4,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,4,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,4,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,4,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,4,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,4,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Church of St. John the Theologian (Saransk),Q4504723,4,1,2,"church building in Saransk, Russia",,Q358|Q16970|Q2319498,,
+Eastern Orthodoxy,Church of St. John the Theologian (Ligourio),Q56398540,4,1,2,"christian church - protected and preserved building in Argolis, Greece",Agios Ioannis Theologos (Lygourio),Q2031836,,
+Eastern Orthodoxy,St. John the Theologian Church,Q16900564,4,1,2,"church building in Lake and Peninsula Borough, United States of America",,Q16970,,St. John the Theologian Church
+Kazansky Bogoroditsky Monastery,Kazansky Bogoroditsky Monastery,Q4207773,5,0,1,,,Q11784935|Q2319498,,
+Kazansky Bogoroditsky Monastery,Kazansky Monastery,Q4207799,5,0,2,"monastery in Vyshny Volochyok, Russia",,Q11784935|Q2319498,,
+Kazansky Bogoroditsky Monastery,Kazansky Monastery,Q4207801,5,0,2,"monastery in Yaroslavl, Russia",,Q11784935|Q2319498,,
+Kazansky Bogoroditsky Monastery,Kazansky cathedral,Q4207828,5,0,2,,,Q56242225,,
+Kazansky Bogoroditsky Monastery,"Kazansky Cathedral, Chita",Q118130364,5,0,2,,,Q56242225,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,5,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,5,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,5,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,5,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,5,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,5,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,5,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,5,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,5,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,5,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Kazansky Bogoroditsky Monastery,Q4207773,5,1,2,,,Q11784935|Q2319498,,
+Mount St. Sepulchre Franciscan Monastery,Mount St. Sepulchre Franciscan Monastery,Q4301480,6,0,1,"the religious community, a representative of the Custody of the Holy Land",Franciscan Monastery of the Holy Land in America|Franciscan Monastery and Memorial Church of the Holy Land,Q44613|Q11741595,,Franciscan Monastery of the Holy Land in America
+Mount St. Sepulchre Franciscan Monastery,Mount St. Sepulchre,Q22554685,6,0,2,"mountain in British Columbia, Canada",,Q8502,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan friary,Q76529788,6,0,2,"friary, convent where Franciscan friars reside or have resided",Franciscan Friary|convent|monastery|friary|friary Franciscan|Franciscan convent|Franciscan monastery|monestary Franciscan|convent Franciscan,,Q20672229|Q97579590|Q132289901|Q132296770,
+Mount St. Sepulchre Franciscan Monastery,Roman Catholic Church in Șumuleu Ciuc,Q876011,6,0,2,"heritage site in Harghita County, Romania",Franciscan monastery,Q10631691|Q44613,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan Monastery,Q12017759,6,0,2,monastery in Plzeň,,Q44613,,"Franciscan Monastery, Plzeň"
+Mount St. Sepulchre Franciscan Monastery,"Franciscan Friary of Saint Anthony of Padua, Sarajevo",Q14325582,6,0,2,franciscan monastery in Sarajevo,Franciscan Monastery|Franciscan Friary of Saint Anthony of Padua in Sarajevo|Franciscan Monastery Saint Anthony of Padua in Sarajevo|Franciscan Friary of Saint Antony of Padua on Bistrik,Q44613,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan Monastery,Q6654471,6,0,2,,Terra Santa|Convent of Terra Santa|Monastery of Terra Santa|Terra Santa Convent|Terra Santa Monastery|Convent of the Terra Santa|Monastery of the Terra Santa,Q44613,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan monastery,Q2667563,6,0,2,monastery in the city of Groningen; founded between ca. 1240-1253,,Q44613|Q2742167,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan Monastery,Q25497155,6,0,2,"Complex in Vilnius, Lithuania",,Q44613|Q1516079,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan Monastery,Q21993052,6,0,2,"former monastery; national cultural monument in the city of Nitra, district of Nitra, Slovakia",Monastery of the Franciscans,Q44613,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan monastery,Q112103492,6,0,2,,,Q44613,,
+Mount St. Sepulchre Franciscan Monastery,Franciscan monastery,Q112096276,6,0,2,"monastery and national cultural monument in the town of Nové Zámky, Nové Zámky district, Slovakia",,Q1128397,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives,Q205976,6,0,2,mountain in Jerusalem that is mentioned several times in the Bible,Olivet|Mount Olivet,Q8502|Q12404340|Q6984463,,Mount of Olives
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Jewish Cemetery,Q12404547,6,0,2,"cemetery in Jerusalem, Israel",,Q846659,,Mount of Olives Jewish Cemetery
+Mount St. Sepulchre Franciscan Monastery,Christ on the Mount of Olives,Q115482895,6,0,2,painting of Hohenfurther cycle by Master of Hohenfurth,Mount of Olives,Q3305213,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives,Q6500301,6,0,2,book by Falih Rıfkı Atay,Zeytindağı|Zeytindagi,Q7725634|Q112983,,
+Mount St. Sepulchre Franciscan Monastery,Mount Of Olives,Q21940684,6,0,2,mountain in Australia,,Q8502,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Chapel,Q16858287,6,0,2,"cemetery chapel in Altdorf in the canton of Uri, Switzerland",Ölbergkapelle,Q1088552|Q108325,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Military Cemetery,Q134987071,6,0,2,,,Q1241568|Q133040655,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Hoshana Rabbah ceremony,Q12409366,6,0,2,annual medieval Jewish gathering in Jerusalem,,Q2627975,Q7127427,Mount of Olives Hoshana Rabbah ceremony
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Chapel in Grodowiec,Q30078093,6,0,2,"chapel in Grodowiec, Lower Silesian Voivodeship, Poland",,Q108325,,
+Mount St. Sepulchre Franciscan Monastery,Mount of Olives Hotel,Q6924823,6,0,2,"hotel in Jerusalem, Israel",,Q27686,,Mount of Olives Hotel
+Mount St. Sepulchre Franciscan Monastery,Church of the Holy Sepulchre,Q187702,6,0,2,"church in Jerusalem, containing the two holiest sites in Christianity",Church of the Anastasis|Church of the Resurrection,Q120560|Q15487029|Q2977|Q16970|Q29553|Q358|Q811165,,Church of the Holy Sepulchre
+Mount St. Sepulchre Franciscan Monastery,Holy Sepulchre,Q3463426,6,0,2,the tomb of Jesus,Church of the Holy Sepulchre,Q173387,Q381885,
+Mount St. Sepulchre Franciscan Monastery,Collegiate Basilica of the Holy Sepulchre,Q27244677,6,0,2,"church in Calatayud, Spain",Church of the Holy Sepulchre,Q120560|Q55876909|Q1509716,,
+Mount St. Sepulchre Franciscan Monastery,Basilica of the Holy Sepulchre in Miechów,Q4504682,6,0,2,"church building in Miechów, Poland",Church of the Holy Sepulchre,Q16970|Q1509716,,"Church of the Holy Sepulchre, Miechów"
+Mount St. Sepulchre Franciscan Monastery,Church of the Holy Sepulchre,Q63790594,6,0,2,"Anglican church in Auckland, New Zealand",Te Mīhana Māori|Te Ana Tapu,Q16970,,"Church of the Holy Sepulchre, Auckland"
+Mount St. Sepulchre Franciscan Monastery,Church of the Holy Sepulchre,Q3585447,6,0,2,"church building in Bolzano, Italy",Chiesa del Santo Sepolcro,Q16970,,
+Mount St. Sepulchre Franciscan Monastery,Church of the Holy Sepulchre,Q133885033,6,0,2,"monastic church in Zaragoza, Spain",,Q334383,,
+Mount St. Sepulchre Franciscan Monastery,Church of the Holy Sepulchre,Q26445766,6,0,2,"church building in Ashington, Northumberland, England, UK",,Q16970,,
+Mount St. Sepulchre Franciscan Monastery,Eglise du Saint-Sépulcre de Paris,Q24342872,6,0,2,"former church located in Paris, in France",Church of the Holy Sepulchre of Paris,Q16970,,"Saint-Sépulcre, Paris"
+Mount St. Sepulchre Franciscan Monastery,"Church of the Holy Sepulchre, Angers",Q3585991,6,0,2,"church located in Maine-et-Loire, in France",,Q16970,,
+Catholicism,Catholicism,Q1841,6,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,6,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,6,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,6,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,6,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,6,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,6,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,6,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,6,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,6,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Mount St. Sepulchre,Q22554685,6,1,2,"mountain in British Columbia, Canada",,Q8502,,
+Catholicism,Mount St. Sepulchre Franciscan Monastery,Q4301480,6,1,2,"the religious community, a representative of the Custody of the Holy Land",Franciscan Monastery of the Holy Land in America|Franciscan Monastery and Memorial Church of the Holy Land,Q44613|Q11741595,,Franciscan Monastery of the Holy Land in America
+Catholicism,Franciscan friary,Q76529788,6,1,2,"friary, convent where Franciscan friars reside or have resided",Franciscan Friary|convent|monastery|friary|friary Franciscan|Franciscan convent|Franciscan monastery|monestary Franciscan|convent Franciscan,,Q20672229|Q97579590|Q132289901|Q132296770,
+Catholicism,Roman Catholic Church in Șumuleu Ciuc,Q876011,6,1,2,"heritage site in Harghita County, Romania",Franciscan monastery,Q10631691|Q44613,,
+Catholicism,Franciscan Monastery,Q12017759,6,1,2,monastery in Plzeň,,Q44613,,"Franciscan Monastery, Plzeň"
+Catholicism,"Franciscan Friary of Saint Anthony of Padua, Sarajevo",Q14325582,6,1,2,franciscan monastery in Sarajevo,Franciscan Monastery|Franciscan Friary of Saint Anthony of Padua in Sarajevo|Franciscan Monastery Saint Anthony of Padua in Sarajevo|Franciscan Friary of Saint Antony of Padua on Bistrik,Q44613,,
+Catholicism,Franciscan Monastery,Q6654471,6,1,2,,Terra Santa|Convent of Terra Santa|Monastery of Terra Santa|Terra Santa Convent|Terra Santa Monastery|Convent of the Terra Santa|Monastery of the Terra Santa,Q44613,,
+Catholicism,Franciscan monastery,Q2667563,6,1,2,monastery in the city of Groningen; founded between ca. 1240-1253,,Q44613|Q2742167,,
+Catholicism,Franciscan Monastery,Q25497155,6,1,2,"Complex in Vilnius, Lithuania",,Q44613|Q1516079,,
+Catholicism,Franciscan Monastery,Q21993052,6,1,2,"former monastery; national cultural monument in the city of Nitra, district of Nitra, Slovakia",Monastery of the Franciscans,Q44613,,
+Catholicism,Franciscan monastery,Q112103492,6,1,2,,,Q44613,,
+Catholicism,Franciscan monastery,Q112096276,6,1,2,"monastery and national cultural monument in the town of Nové Zámky, Nové Zámky district, Slovakia",,Q1128397,,
+Church of St Helen,St Helen's Bishopsgate,Q7593309,7,0,1,"church in City of London, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Bishopsgate"
+Church of St Helen,"St Helen's Church, St Helens",Q18157642,7,0,1,"grade II listed church in St Helens, Merseyside, England, UK","Church Of St Helen|St Helen's Church, St Helens, Merseyside",Q16970,,St Helens Minster
+Church of St Helen,Church of St Helen,Q17537257,7,0,1,"church in Norwich, Norfolk, England, UK","St Helen's Church, Norwich|St Helen Bishopgate|St Helen's, Bishopgate, Norwich",Q16970,,"St Helen's Church, Norwich"
+Church of St Helen,"St Helen's Church, Grove",Q7588298,7,0,1,"parish church in Grove, Nottinghamshire, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Grove"
+Church of St Helen,Church of St Helen,Q17533633,7,0,1,"church in Kirmington, Lincolnshire, England, UK","St Helen's, Kirmington",Q16970,,
+Church of St Helen,Sainte-Hélène Church,Q99095522,7,0,1,"Catholic church in Sainte-Hélène-de-Kamouraska, Quebec, Canada",église Sainte-Hélène|église de Sainte-Hélène|église de Sainte-Hélène-de-Kamouraska|Church of St. Helen|Church of St Helen,Q16970,,
+Church of St Helen,Church of St Helen,Q14912692,7,0,1,"church in Ranworth, Norfolk, England, UK","St Helen's, Ranworth|St Helens, Ranworth",Q16970|Q11499278,,"Church of St Helen, Ranworth"
+Church of St Helen,"St Helen's Church, Brant Broughton",Q7588297,7,0,1,"church in Brant Broughton, North Kesteven, Lincolnshire, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Brant Broughton"
+Church of St Helen,"St Helen's Church, Hangleton",Q7593313,7,0,1,"church in Brighton and Hove, East Sussex, England, UK",Church Of St Helen,Q16970,,"St Helen's Church, Hangleton"
+Church of St Helen,Church of St Helen,Q17525750,7,0,1,"church in Etwall, South Derbyshire, England, UK","St Helen's Church, Etwall",Q16970,,"St Helen's Church, Etwall"
+Church of St Helen,"Old Cambus, St Helen's Church",Q17567767,7,0,2,"church building in Scottish Borders, Scotland, UK","St Helen’s Church|St Helen's Church, Old Cambus",Q16970,,
+Church of St Helen,"St Helen's Church, Wheldrake",Q17530531,7,0,2,"church in Wheldrake, North Yorkshire, England, UK",St Helen's Church|Church of Saint Helen,Q16970,,"St Helen's Church, Wheldrake"
+Church of St Helen,Remains of Church of St Helen,Q17527909,7,0,2,"Grade I listed church ruin in South Wheatley, Nottinghamshire, England, UK","St Helen's Church|St Helen's Church ruins, South Wheatley",Q17485079,,
+Church of St Helen,"St Helen's Church, Sefton Village",Q7593317,7,0,2,"Grade I listed church in Sefton, Merseyside, England, UK","St Helen's Church, Sefton",Q16970,,"St Helen's Church, Sefton"
+Church of St Helen,St Helen's Chapel,Q26542965,7,0,2,"chapel in Skelton-on-Ure, Harrogate, North Yorkshire, England, UK","St Helen's Church|St Helen's Church, Skelton on Ure",Q108325,,"St Helen's Church, Skelton-on-Ure"
+Church of St Helen,St Helen's Church,Q26453793,7,0,2,"church building in Barmby on the Marsh, East Riding of Yorkshire, England, UK","St Helen's Church, Barmby on the Marsh|Church of St Helen",Q16970,,"St Helen's Church, Barmby on the Marsh"
+Church of St Helen,St Helen's Church,Q131278438,7,0,2,"church in Hastings, East Sussex, England","St Helen's Church, Ore, East Sussex",Q16970,,
+Church of St Helen,St Helen's Church,Q137834064,7,0,2,"former church building in West Burton, Bassetlaw, Nottinghamshire, England, UK",,Q16970,,
+Church of St Helen,"Church of St Helen, Gate Burton",Q26317330,7,0,2,"church building in Gate Burton, Lincolnshire, England, UK",St Helen's church,Q16970,,
+Church of St Helen,"St Helen's Church, Ashby-de-la-Zouch",Q7593310,7,0,2,"church in North West Leicestershire, England, UK",,Q16970,,"St Helen's Church, Ashby-de-la-Zouch"
+Anglicanism,Anglicanism,Q6423963,7,1,1,"Christian tradition developing out of the practices, liturgy and identity of the Church of England",Anglican Church,Q123129246,Q23540,Anglicanism
+Anglicanism,Category:Anglicanism,Q6469674,7,1,1,Wikimedia category,Anglicanism,Q4167836,,Category:Anglicanism
+Anglicanism,Church of England,Q82708,7,1,1,Christian church in England and the Mother Church of the worldwide Anglican Communion,C of E|The Church of England,Q2325038|Q3586152|Q879146,,Church of England
+Anglicanism,Anglicanism in Sichuan,Q112692694,7,1,1,history and status of the Anglican Church in Sichuan,Anglicanism in Szechwan|Anglican Church in Szechwan|Anglican Church in Sichuan|Sichuanese Anglican|Sichuanese Anglicans|Sichuanese Anglican Church|West China Anglican Mission|Church of England in Sichuan|Church of England in Szechuan|Church of England in Szechwan|history of Anglicanism in Sichuan,Q12830429|Q94670589,Q6423963|Q112692678,History of Anglicanism in Sichuan
+Anglicanism,homosexuality and the Anglican Communion,Q1065098,7,1,1,gay and lesbian sexuality and the Anglican Communion,homosexuality and Anglicanism|Anglicanism and homosexuality|Anglican Communion and homosexuality,,Q767892,Homosexuality and the Anglican Communion
+Anglicanism,Anglican Communion,Q193312,7,1,1,international association of churches,,Q879146,,Anglican Communion
+Anglicanism,Anglicanism in Spain,Q115112689,7,1,1,Spanish religious minority,,Q12830429,Q6423963|Q58040978,Anglicanism in Spain
+Anglicanism,Anglicanism in Russia,Q4065178,7,1,1,,,Q12830429,Q6423963|Q4381717,
+Anglicanism,Anglicanism: A Very Short Introduction,Q114004893,7,1,1,,,Q3331189,,
+Anglicanism,Anglicanism in Mianyang,Q123600360,7,1,1,historical Christian denomination,Anglicanism in Mienchow|Anglicanism in Miencheo,Q12830429|Q94670589,Q112692694|Q123600419,Anglicanism in Mianyang
+Anglicanism,St Helen's Bishopsgate,Q7593309,7,1,2,"church in City of London, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Bishopsgate"
+Anglicanism,"St Helen's Church, St Helens",Q18157642,7,1,2,"grade II listed church in St Helens, Merseyside, England, UK","Church Of St Helen|St Helen's Church, St Helens, Merseyside",Q16970,,St Helens Minster
+Anglicanism,Church of St Helen,Q17537257,7,1,2,"church in Norwich, Norfolk, England, UK","St Helen's Church, Norwich|St Helen Bishopgate|St Helen's, Bishopgate, Norwich",Q16970,,"St Helen's Church, Norwich"
+Anglicanism,"St Helen's Church, Grove",Q7588298,7,1,2,"parish church in Grove, Nottinghamshire, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Grove"
+Anglicanism,Church of St Helen,Q17533633,7,1,2,"church in Kirmington, Lincolnshire, England, UK","St Helen's, Kirmington",Q16970,,
+Anglicanism,Sainte-Hélène Church,Q99095522,7,1,2,"Catholic church in Sainte-Hélène-de-Kamouraska, Quebec, Canada",église Sainte-Hélène|église de Sainte-Hélène|église de Sainte-Hélène-de-Kamouraska|Church of St. Helen|Church of St Helen,Q16970,,
+Anglicanism,Church of St Helen,Q14912692,7,1,2,"church in Ranworth, Norfolk, England, UK","St Helen's, Ranworth|St Helens, Ranworth",Q16970|Q11499278,,"Church of St Helen, Ranworth"
+Anglicanism,"St Helen's Church, Brant Broughton",Q7588297,7,1,2,"church in Brant Broughton, North Kesteven, Lincolnshire, England, UK",Church of St Helen,Q16970,,"St Helen's Church, Brant Broughton"
+Anglicanism,"St Helen's Church, Hangleton",Q7593313,7,1,2,"church in Brighton and Hove, East Sussex, England, UK",Church Of St Helen,Q16970,,"St Helen's Church, Hangleton"
+Anglicanism,Church of St Helen,Q17525750,7,1,2,"church in Etwall, South Derbyshire, England, UK","St Helen's Church, Etwall",Q16970,,"St Helen's Church, Etwall"
+Rostov Kremlin. Bell Tower,Rostov Kremlin. Bell Tower,Q16653700,8,0,1,,,Q815448|Q2319498,,
+Rostov Kremlin. Bell Tower,Rostov kremlin,Q4398506,8,0,2,"historic site in Rostov, Russia",,Q263274|Q2319498|Q1497375,,Rostov Kremlin
+Rostov Kremlin. Bell Tower,Rostov Kremlin. Red Palace,Q121339290,8,0,2,,,Q2319498,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,8,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,8,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,8,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,8,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,8,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,8,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,8,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,8,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,8,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,8,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,8,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,8,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,8,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,8,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,8,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,8,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,8,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,8,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,8,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Rostov kremlin,Q4398506,8,1,2,"historic site in Rostov, Russia",,Q263274|Q2319498|Q1497375,,Rostov Kremlin
+Eastern Orthodoxy,Rostov Kremlin. Bell Tower,Q16653700,8,1,2,,,Q815448|Q2319498,,
+Eastern Orthodoxy,Rostov Kremlin. Red Palace,Q121339290,8,1,2,,,Q2319498,,
+Eastern Orthodoxy,bell tower,Q200334,8,1,2,"a tower that contains one or more bells, or that is designed to hold bells",belltower,Q811102,Q12518,Bell tower
+Eastern Orthodoxy,steeple,Q5191724,8,1,2,"tall tower, usually on a church or public building",bell tower of the church|bell tower|church bell tower|church steeple,,Q19603939|Q200334,Steeple
+Eastern Orthodoxy,Bell tower,Q37012748,8,1,2,"bell tower in Borovník, Czech Republic",,Q200334,,
+Eastern Orthodoxy,Bell Tower,Q18031584,8,1,2,"church tower in Bex in the canton of Vaud, Switzerland",,Q5191724,,
+Eastern Orthodoxy,Bell Tower,Q3995151,8,1,2,tower in the Pokémon universe,Tin Tower,Q15720793|Q32860792,,
+Eastern Orthodoxy,Bell tower,Q677405,8,1,2,structure within Thai temples,,,Q41176,Bell tower (wat)
+Eastern Orthodoxy,bell tower,Q104223744,8,1,2,"small bell tower in Kroclov, South Bohemian Region, Czechia",,Q10861631,,
+Eastern Orthodoxy,Bell Tower,Q815729,8,1,2,"building in Edmonton, Canada",,Q11303,,10104 103 Ave (Edmonton)
+Eastern Orthodoxy,Bell tower,Q38234117,8,1,2,,,Q200334,,
+Eastern Orthodoxy,Swan Bells,Q7653429,8,1,2,"bell tower in Perth, Western Australia","The Bell Tower|Swan Bell Tower|Bell Tower|Bell Tower, Perth|Bell Tower, Western Australia",Q200334,,Swan Bells
+Wooden church of Saint George in Kolomenskoye,Wooden church of Saint George in Kolomenskoye,Q13668662,9,0,1,"wooden church at the Kolomenskoe Museum Reserve in Moscow, Russia",,Q27055621|Q33506,,
+Wooden church of Saint George in Kolomenskoye,"Wooden church of Saint George in Măgura, Sălaj",Q12722394,9,0,2,"heritage site in Sălaj County, Romania",,Q744296|Q104419518,,
+Wooden church of Saint George in Kolomenskoye,"Wooden church of Saint George in Prodănești, Sălaj",Q12722471,9,0,2,"heritage site in Sălaj County, Romania",,Q744296|Q104419518,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q718266,9,0,2,"church building in Mariehamn, Åland, Finland","Saint George Church, Mariehamn|St. George Church, Mariehamn|St. George Church|Mariehamn Church|Maarianhamina Church|S:t Görans kyrka|Sankt Görans kyrka|Saint George Church in Mariehamn",Q16970,,"St. George's Church, Mariehamn"
+Wooden church of Saint George in Kolomenskoye,Geta Church,Q10504581,9,0,2,"church building in Geta, Åland, Finland",Saint George Church|Saint George Church (Geta)|St. George Church|St. George Church (Geta),Q16970,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q75018276,9,0,2,"Parish church in Bernate Ticino, Italy",Parish of Bernate,Q16970|Q55876909,,
+Wooden church of Saint George in Kolomenskoye,Saint George church,Q1206172,9,0,2,"church in Bolzano, South Tyrol",,Q16970|Q1206437,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q50881871,9,0,2,"Parish building in Cornate d'Adda, Italy",Parish of Cornate,Q16970|Q1497375|Q55876909,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q2221961,9,0,2,"church building in Vladikavkaz, Russia",,Q2977|Q2031836,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q20497696,9,0,2,church in Razlog,,Q2031836,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q2316103,9,0,2,"church building in Schwarzenberg, Saxony, Germany",,Q16970,,
+Wooden church of Saint George in Kolomenskoye,Saint George Church,Q29428063,9,0,2,"parish church in Dorio, Italy",St George Dorio,Q16970,,
+Wooden church of Saint George in Kolomenskoye,Saint George church,Q55163893,9,0,2,"building in Giovo, Italy",,Q16970,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,9,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,9,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,9,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,9,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,9,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,9,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,9,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,9,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,9,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,9,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,9,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,9,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,9,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,9,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,9,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,9,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,9,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,9,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,9,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Saint George,Q48438,9,1,2,Christian saint and martyr (died 303),Georgios|Georgius|St. George|St George|Saint Georgios|George of Lydda|George|Red Cross Knight|Saint George,Q21070568|Q5|Q113371917,,Saint George
+Eastern Orthodoxy,St. George,Q2212067,9,1,2,"town in South Carolina, United States","St. George, South Carolina|St. George, SC|Saint George",Q15127012|Q62049,,"St. George, South Carolina"
+Eastern Orthodoxy,Saint George Parish,Q576651,9,1,2,parish of Grenada,,Q531645,,"Saint George Parish, Grenada"
+Eastern Orthodoxy,St. George,Q52472,9,1,2,"city in Washington County, Utah, United States","St. George, Utah|Saint George|St. George, UT|St George, Utah",Q1093829|Q62049,,"St. George, Utah"
+Eastern Orthodoxy,Church of San Giorgio Maggiore,Q713558,9,1,2,basilica on the Island of San Giorgio Maggiore in Venice,San Giorgio Maggiore|Saint George,Q16970|Q120560,,"San Giorgio Maggiore (church), Venice"
+Eastern Orthodoxy,Saint-Georges,Q143227,9,1,2,"town in Québec, Canada","Saint-Georges, Quebec",Q27676416,,"Saint-Georges, Quebec"
+Eastern Orthodoxy,Le Mans,Q1476,9,1,2,"commune in Sarthe, France",Cenomanensium|Croix-Gazonfière|Sainte-Croix (réunie au Mans)|Saint-Georges-du-Plain (réunie au Mans)|Denis-des-Coudrais,Q484170|Q1549591,,Le Mans
+Eastern Orthodoxy,St. George's,Q41547,9,1,2,capital of Grenada,"St. George's, Grenada|St Georges, Granada|Saint Georges, Granada|Saint George's|Saint Georges|Saint George's, Grenada",Q515,,"St. George's, Grenada"
+Eastern Orthodoxy,Saint-Georges-de-Didonne,Q832057,9,1,2,commune in France,Saint-Georges de Didonne,Q484170,,Saint-Georges-de-Didonne
+Eastern Orthodoxy,Saint George,Q1770796,9,1,2,parish of Antigua and Barbuda,"Saint George, Antigua and Barbuda|St. George, Antigua and Barbuda|Saint George Parish",Q1647142,,"Saint George, Antigua and Barbuda"
+Eastern Orthodoxy,Kolomenskoye,Q652464,9,1,2,old royal estate in Moscow,The Moscow State Integrated Museum-Reservе,Q4306036|Q22698|Q12292478|Q532|Q1959314|Q2319498,,Kolomenskoye
+Eastern Orthodoxy,Kolomenskoye,Q4228343,9,1,2,"railway station in Moscow, Russia",Kolomenskoye railway station|Kolomenskoye station|Kolomenskoe|Kolomenskoe station|Kolomenskoe railway station,Q55488,,
+Eastern Orthodoxy,Kolomenskoye,Q103943182,9,1,2,encyclopedia article,,Q13433827,,
+Eastern Orthodoxy,"Kolomenskoye, Voronezh Oblast",Q13663478,9,1,2,"human settlement in Kashirsky District, Voronezh Oblast, Russia",,Q532,,"Kolomenskoye, Voronezh Oblast"
+Eastern Orthodoxy,"Kolomenskoye, The Palace, plan",Q110762867,9,1,2,drawing by Okänd,,Q93184,,
+Eastern Orthodoxy,Kolomenske,Q4228346,9,1,2,"settlement in Crimea, Ukraine",,Q532,,
+Synagogue in Yekaterinburg,Synagogue in Yekaterinburg,Q13668700,10,0,1,,,Q34627,,
+Synagogue in Yekaterinburg,synagogue,Q34627,10,0,2,"religious building at the center of a local organization where a Jewish (or rarely Samaritan) community gathers for prayer, education, social assistance or ceremonies",Jewish temple|temple|Beit Knesset|shul|esnoga|Jewish Chapel,,Q831219|Q811979|Q43229|Q24398318,Synagogue
+Synagogue in Yekaterinburg,former synagogue,Q96376027,10,0,2,"architectural structure that was destined at the time to be a synagogue that, either now is used for other purposes, has either completely disappeared or there are still the ruins that testify to its existence",synagogue|old synagogue,,Q34627|Q96352496,
+Synagogue in Yekaterinburg,main synagogue,Q109300353,10,0,2,"most important of the synagogues of a town, region or country",major synagogue|grande synagogue|central synagogue|Great Synagogue|synagogue,,Q34627|Q24398318,
+Synagogue in Yekaterinburg,esnoga,Q12714555,10,0,2,place of worship of Sephardic Jews,Sephardi Jewish synagogue|Sephardic Temple|synagogue|Sephardic synagogue,,Q34627,
+Synagogue in Yekaterinburg,Ashkenazi synagogue,Q109310261,10,0,2,Ashkenazi Jewish place of worship,synagogue|synagogue of the Ashkenazi Jews,Q1370598,Q34627,
+Synagogue in Yekaterinburg,Synagogue,Q99943253,10,0,2,"painting by Konrad Witz, Kunstmuseum Basel",,Q3305213,,
+Synagogue in Yekaterinburg,Synagogue,Q2466276,10,0,2,"religious building in Gouda, Netherlands",,Q24398318,,
+Synagogue in Yekaterinburg,synagogue,Q11721617,10,0,2,,,Q34627,,
+Synagogue in Yekaterinburg,Synagogue,Q19884535,10,0,2,painting by Hyman Bloom,,Q3305213,,
+Synagogue in Yekaterinburg,synagogue,Q2688554,10,0,2,,,Q34627,,
+Judaism,Judaism,Q9268,10,1,1,Abrahamic monotheistic ethnic religion of the Jews,Jewish religion,Q9174|Q1189816|Q32090|Q19842652,Q19842652|Q47280,Judaism
+Judaism,Judaism,Q23859759,10,1,1,article in Otto's encyclopedia,,Q13433827,,
+Judaism,Judaism adherents population present,Q111270503,10,1,1,,,Q851990,Q56229478|Q65250032,
+Judaism,Judaism,Q15767270,10,1,1,journal,,Q737498,,
+Judaism,Judaism,Q21387441,10,1,1,encyclopedic article,,Q13433827,,
+Judaism,Judaïsme Ancien - Ancient Judaism,Q91777694,10,1,1,academic journal,,Q5633421|Q737498,,
+Judaism,comparison of Judaism and Christianity,Q2297875,10,1,1,comparison of two religions,Christianity and Judaism|Judaism and Christianity|Christian-Jewish relations|Jewish-Christian relations|Jewish-Christian dialogue|Christian-Jewish dialogue,Q1720648|Q4162051,Q5110487,Christianity and Judaism
+Judaism,Second Temple Judaism,Q4205363,10,1,1,Jewish religion c. 516 BCE–70 CE,ancient Judaism|Judaism in antiquity,Q11514315|Q9174,Q9268,Second Temple Judaism
+Judaism,Judaism,Q124353465,10,1,1,"forty-eighth chapter in The Oxford Handbook of Roman Studies, 2010",,Q21481766,,
+Judaism,Textbooks > Religion & Spirituality > Judaism,Q110593819,10,1,1,iTunes Textbooks genre,Judaism|Textbooks - Religion & Spirituality - Judaism,Q110592261,,
+Judaism,synagogue,Q34627,10,1,2,"religious building at the center of a local organization where a Jewish (or rarely Samaritan) community gathers for prayer, education, social assistance or ceremonies",Jewish temple|temple|Beit Knesset|shul|esnoga|Jewish Chapel,,Q831219|Q811979|Q43229|Q24398318,Synagogue
+Judaism,former synagogue,Q96376027,10,1,2,"architectural structure that was destined at the time to be a synagogue that, either now is used for other purposes, has either completely disappeared or there are still the ruins that testify to its existence",synagogue|old synagogue,,Q34627|Q96352496,
+Judaism,main synagogue,Q109300353,10,1,2,"most important of the synagogues of a town, region or country",major synagogue|grande synagogue|central synagogue|Great Synagogue|synagogue,,Q34627|Q24398318,
+Judaism,esnoga,Q12714555,10,1,2,place of worship of Sephardic Jews,Sephardi Jewish synagogue|Sephardic Temple|synagogue|Sephardic synagogue,,Q34627,
+Judaism,Ashkenazi synagogue,Q109310261,10,1,2,Ashkenazi Jewish place of worship,synagogue|synagogue of the Ashkenazi Jews,Q1370598,Q34627,
+Judaism,Synagogue,Q99943253,10,1,2,"painting by Konrad Witz, Kunstmuseum Basel",,Q3305213,,
+Judaism,Synagogue,Q2466276,10,1,2,"religious building in Gouda, Netherlands",,Q24398318,,
+Judaism,synagogue,Q11721617,10,1,2,,,Q34627,,
+Judaism,Synagogue,Q19884535,10,1,2,painting by Hyman Bloom,,Q3305213,,
+Judaism,synagogue,Q2688554,10,1,2,,,Q34627,,
+Judaism,Yekaterinburg,Q887,10,1,2,"forth-largest city in Russia, administrative center of Ural Federal District",Ekaterinburg,Q106389302|Q51929311|Q51929311|Q1549591|Q5123997,,Yekaterinburg
+Judaism,UTC+06:00,Q6906,10,1,2,identifier for a time offset from UTC of +6,Sinkiang-Tibet Time|Yekaterinburg Time|Bangladesh Standard Time|BST,Q17272482,,UTC+06:00
+Judaism,Yekaterinburg Museum of Fine Arts,Q4174318,10,1,2,"Art museum in Yekaterinburg, Russia",Ekaterinburg Museum of Fine Arts|The Ekaterinburg Museum of Fine Arts,Q3196771|Q1081138|Q41176,,Yekaterinburg Museum of Fine Arts
+Judaism,Yekaterinburg Time,Q2332010,10,1,2,time zone,Chelyabinsk Time|Asia/Yekaterinburg,Q12143,,Yekaterinburg Time
+Judaism,Yekaterinburg-Sortirovochniy,Q4174289,10,1,2,"sorting station in Yekaterinburg, Russia",,Q55488,,
+Judaism,Yekaterinburg State Theatre Institute,Q4174313,10,1,2,theatrical Institute in Russia,YeGTI,Q38723,,
+Judaism,Yekaterinburg Eparchy,Q4174304,10,1,2,,Yekaterinburg-Verkhoturie Eparchy,Q60176300,,
+Judaism,Yekaterinburgsky Uyezd,Q4174325,10,1,2,"administrative subdivision of Yekaterinburgskaya Oblast, Perm Governorate of Russian Empire and Yekaterinburg Governorate of RSFSR",,Q18867465|Q65770082|Q18867064,,Yekaterinburgsky Uyezd
+Judaism,Yekaterinburg Metro,Q750441,10,1,2,metro system,,Q5503|Q43229,,Yekaterinburg Metro
+Judaism,Central Stadium Yekaterinburg,Q190779,10,1,2,"stadium in Yekaterinburg, Russia",Central Stadium|Yekaterinburg Arena|Yekaterinburg Central Stadium|Yekaterinburg Arena Stadium|Stadium Yekaterinburg Arena,Q1154710|Q43229|Q2319498,,Central Stadium (Yekaterinburg)
+Franciscan Monastery in Panewniki,Franciscan Monastery in Panewniki,Q11739786,11,0,1,"complex of monastic buildings in Katowice, catholic religious community",,Q44613|Q1200957|Q811165,,
+Franciscan Monastery in Panewniki,Franciscan friary,Q76529788,11,0,2,"friary, convent where Franciscan friars reside or have resided",Franciscan Friary|convent|monastery|friary|friary Franciscan|Franciscan convent|Franciscan monastery|monestary Franciscan|convent Franciscan,,Q20672229|Q97579590|Q132289901|Q132296770,
+Franciscan Monastery in Panewniki,Roman Catholic Church in Șumuleu Ciuc,Q876011,11,0,2,"heritage site in Harghita County, Romania",Franciscan monastery,Q10631691|Q44613,,
+Franciscan Monastery in Panewniki,Franciscan Monastery,Q12017759,11,0,2,monastery in Plzeň,,Q44613,,"Franciscan Monastery, Plzeň"
+Franciscan Monastery in Panewniki,"Franciscan Friary of Saint Anthony of Padua, Sarajevo",Q14325582,11,0,2,franciscan monastery in Sarajevo,Franciscan Monastery|Franciscan Friary of Saint Anthony of Padua in Sarajevo|Franciscan Monastery Saint Anthony of Padua in Sarajevo|Franciscan Friary of Saint Antony of Padua on Bistrik,Q44613,,
+Franciscan Monastery in Panewniki,Franciscan Monastery,Q6654471,11,0,2,,Terra Santa|Convent of Terra Santa|Monastery of Terra Santa|Terra Santa Convent|Terra Santa Monastery|Convent of the Terra Santa|Monastery of the Terra Santa,Q44613,,
+Franciscan Monastery in Panewniki,Franciscan monastery,Q2667563,11,0,2,monastery in the city of Groningen; founded between ca. 1240-1253,,Q44613|Q2742167,,
+Franciscan Monastery in Panewniki,Franciscan Monastery,Q25497155,11,0,2,"Complex in Vilnius, Lithuania",,Q44613|Q1516079,,
+Franciscan Monastery in Panewniki,Franciscan Monastery,Q21993052,11,0,2,"former monastery; national cultural monument in the city of Nitra, district of Nitra, Slovakia",Monastery of the Franciscans,Q44613,,
+Franciscan Monastery in Panewniki,Franciscan monastery,Q112103492,11,0,2,,,Q44613,,
+Franciscan Monastery in Panewniki,Franciscan monastery,Q112096276,11,0,2,"monastery and national cultural monument in the town of Nové Zámky, Nové Zámky district, Slovakia",,Q1128397,,
+Catholicism,Catholicism,Q1841,11,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,11,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,11,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,11,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,11,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,11,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,11,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,11,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,11,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,11,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Franciscans,Q165005,11,1,2,"from 1517, group of three religious orders within the Catholic Church",Seraphic Order|Ordo Fratrum Minorum|OFM|Minorites|Grey Friars|Franciscan|O.F.M.,Q28653|Q15893266|Q210588|Q43229|Q2061186|Q391009,,Franciscans
+Catholicism,Franciscan Order,Q103920306,11,1,2,encyclopedia article,,Q13433827,,
+Catholicism,Franciscan orders in the Anglican Communion,Q5483048,11,1,2,,,,,Franciscan orders in the Anglican Communion
+Catholicism,Franciscan orders in Lutheranism,Q5483046,11,1,2,influence of the spirituality of Catholic saint Francis in Protestant Christians,,,,Franciscan spirituality in Protestantism
+Catholicism,Catholic Church,Q9592,11,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Latin Church,Q597526,11,1,2,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Catholicism,Roman Catholic Church,Q104699267,11,1,2,subject category of the 20th Century Press Archives,d7 Sm2 Roman Catholic Church,Q92707903,,
+Catholicism,Basilica of Our Lady of Graces,Q4867358,11,1,2,Kirche in Indien,Roman Catholic Church,Q16970|Q120560,,Basilica of Our Lady of Graces
+Catholicism,Ignacy Krauze,Q10303361,11,1,2,Bishop,Roman Catholic Church,Q5,,
+Catholicism,roman-catholic church,Q1514195,11,1,2,"church building in Waltenschwil in the canton of Aargau, Switzerland",Römisch-katholische Kirche,Q811979|Q1088552,,
+Catholicism,Roman Catholic Church,Q17613419,11,1,2,"church in Loenen, Apeldoorn, Netherlands",,Q5191724,,
+Catholicism,Roman Catholic Church in Eritrea,Q2428493,11,1,2,,Roman Catholic Church in Eritrea,Q104699267,Q1077738|Q1078448,Catholic Church in Eritrea
+Catholicism,Roman Catholic Church of St. George in Kula,Q108211801,11,1,2,"church building in Kula, Serbia",,Q16970,,
+Catholicism,Catholic Church in the United States,Q769585,11,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Kalwaria Panewnicka,Panewniki Calvary,Q11733906,12,0,1,"chapel complex in Katowice, Poland",Kalwaria Panewnicka,Q11331347|Q1200957|Q811165,,Kalwaria Panewnicka
+Kalwaria Panewnicka,Kalwaria,Q9165784,12,0,2,mountain in Poland,,Q8502,,
+Kalwaria Panewnicka,Kalwaria Zebrzydowska,Q389860,12,0,2,city of Poland and UNESCO World Heritage Site,,Q515,,Kalwaria Zebrzydowska
+Kalwaria Panewnicka,Kalwaria Pacławska,Q2131857,12,0,2,"village in Subcarpathian, Poland",,Q3558970,,Kalwaria Pacławska
+Kalwaria Panewnicka,Gmina Kalwaria Zebrzydowska,Q1939583,12,0,2,urban-rural gmina of Poland,Kalwaria Zebrzydowska,Q3491915,,Gmina Kalwaria Zebrzydowska
+Kalwaria Panewnicka,calvary,Q371752,12,0,2,type of monumental public crucifix,calvary cross,,Q2293362|Q2309609|Q17172602|Q20460|Q47008262,Calvary (monument)
+Kalwaria Panewnicka,Kalwaria Piekarska,Q30064681,12,0,2,"cultural heritage monument in Piekary Śląskie, Poland",,Q1497364|Q15135589,,
+Kalwaria Panewnicka,Kalwaria Wielewska,Q30583827,12,0,2,,,Q811165,,
+Kalwaria Panewnicka,Kalwaria Zebrzydowska park,Q1280433,12,0,2,religious heritage site,,Q15135589|Q1497375|Q11331347,,Kalwaria Zebrzydowska Park
+Kalwaria Panewnicka,calvary,Q11331347,12,0,2,monumental stations of the cross built on the slopes of a hill,Sacred Mount|Sacred Mountain|calvary hill,,Q1497364|Q1370598,Calvary (sanctuary)
+Kalwaria Panewnicka,Panewnicka Street,Q9365772,12,0,2,"street in Katowice, Poland",,Q79007,,
+Kalwaria Panewnicka,Panewnicka 75,Q126898587,12,0,2,"historic building in Katowice, Poland",Former Town Hall in Panewniki,Q2663692,,
+Kalwaria Panewnicka,Crib in Panewniki,Q9352041,12,0,2,"annual Christmas installation in the basilica in Katowice Panewniki, Poland",,Q31732,,
+Catholicism,Catholicism,Q1841,12,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,12,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,12,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,12,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,12,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,12,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,12,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,12,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,12,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,12,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Panewniki Calvary,Q11733906,12,1,2,"chapel complex in Katowice, Poland",Kalwaria Panewnicka,Q11331347|Q1200957|Q811165,,Kalwaria Panewnicka
+Catholicism,Catholic Church,Q9592,12,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,12,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,12,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,12,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,12,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,12,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,12,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,12,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,12,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,12,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Catholicism,Catholic Church in France,Q795240,12,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in France|French Catholic Church,Q13073773,Q15717693|Q2965819,Catholic Church in France
+Catholicism,Catholic Church in Brazil,Q1426688,12,1,2,overview of the role of the Catholic Church in Brazil,Roman Catholicism in Brazil,Q13073773|Q1530022,Q15717693|Q9674773,Catholic Church in Brazil
+Catholicism,Catholic Church in Germany,Q570555,12,1,2,overview of the role of the Catholic Church in Germany,Roman Catholicism in Germany,Q13073773|Q23955632,Q15717693|Q12193019,Catholic Church in Germany
+Catholicism,Catholic Church in Poland,Q1152005,12,1,2,overview of the role of the Catholic Church in Poland,Roman Catholicism in Poland,Q13073773,Q15717693|Q21655815,Catholic Church in Poland
+Catholicism,Catholic Church in Hungary,Q221433,12,1,2,part of the worldwide Roman Catholic Church,Roman Catholicism in Hungary,Q13073773|Q23955632,Q15717693|Q1107527,Catholic Church in Hungary
+Orthodox church in Telšiai,Orthodox church in Telšiai,Q966643,13,0,1,"church in Telšiai, Lithuania","St. Nicholas Russian Orthodox church, Telšiai",Q16970|Q2031836,,"Church of St. Nicholas, Telšiai"
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,13,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,13,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,13,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,13,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,13,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,13,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,13,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,13,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,13,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,13,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,13,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,13,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,13,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,13,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,13,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,13,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,13,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,13,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,13,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Orthodox Christianity and the Politics of Transition,Q139734840,13,1,2,,,Q571,,
+Eastern Orthodoxy,Orthodox Christianity: A Very Short Introduction,Q114004671,13,1,2,,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q136204913,13,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity in Imperial Russia: A Source Book on Lived Religion,Q136211828,13,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Contemporary Europe,Q136555745,13,1,2,2003 paperback edition (en),,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q139712043,13,1,2,,,Q13442814,,
+Eastern Orthodoxy,"Orthodox Christianity, Soviet Atheism and ‘Animist’ Practices in the Russianized World",Q138310227,13,1,2,journal article from 'Diogenes' published in 2005,,Q13442814,,
+Eastern Orthodoxy,Orthodox christianity in imperial Russia,Q57682420,13,1,2,scholarly article by Philip Boobbyer published 2 July 2017 in Slavonica,,Q13442814,,
+Alexander Nevsky Lavra,Alexander Nevsky Lavra,Q946428,14,0,1,"monastery in Saint Petersburg, Russia",,Q824786,,Alexander Nevsky Lavra
+Alexander Nevsky Lavra,Alexander Nevsky Monastery,Q4179447,14,0,2,,,Q44613,,
+Alexander Nevsky Lavra,"Alexander Nevsky monastery, Taganrog",Q28122748,14,0,2,,"Alexander Nevsky Monastery of Jerusalem (Taganrog)|Alexander Nevsky Monastery of Jerusalem, Taganrog|Alexander Nevsky Monastery (Taganrog)",Q20672229,,
+Alexander Nevsky Lavra,"Alexander Nevsky Monastery, Akatovo",Q4463505,14,0,2,"female monastery in Akatovo, Russia",Alexander Nevsky Monastery (Akatovo),Q11784935|Q2319498|Q44613,,
+Alexander Nevsky Lavra,"Alexander Nevsky Monastery, Maklakovo",Q18396417,14,0,2,"monastery in Taldomsky District, Russia",,Q11784935|Q2319498,,
+Alexander Nevsky Lavra,"Alexander Nevsky Monastery, Kimlyai",Q21663739,14,0,2,,Kimlyayskiy Aleksandro-Nevskiy Monastyr|Alexander Nevsky Monastery (Kimlyai),Q6021560|Q20672229,,
+Alexander Nevsky Lavra,"Alexander Nevsky Monastery, St. Petersburg. Elevation",Q110735115,14,0,2,,,Q93184,,
+Alexander Nevsky Lavra,Alexander Nevsky Monastery,Q4061038,14,0,2,Wikimedia disambiguation page,Saint Alexander Nevsky Monastery,Q4167410|Q18091489,,
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q568214,14,0,2,"Orthodox church in Tallinn, Estonia",,Q56242225,,"Alexander Nevsky Cathedral, Tallinn"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q43282,14,0,2,"Bulgarian Orthodox cathedral in Sofia, Bulgaria",Snt. Alexander Nevsky Cathedral,Q2977|Q33506,,"Saint Alexander Nevsky Cathedral, Sofia"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q770458,14,0,2,cathedral in Lodz,,Q2977|Q2031836|Q811165,,"Alexander Nevsky Cathedral, Łódź"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q2091893,14,0,2,"Cathedral in Warsaw, Poland",,Q56242225|Q19860854|Q1494386,,"St. Alexander Nevsky Cathedral, Warsaw"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q2498635,14,0,2,church of the Izhevsk and Udmurt diocese,,Q16970|Q2977|Q2319498,,"Alexander Nevsky Cathedral, Izhevsk"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q1817541,14,0,2,"church in Baku Governorate, Russian Empire",,Q56242225|Q2031836|Q19860854,,"Alexander Nevsky Cathedral, Baku"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q2097127,14,0,2,"former Eastern Orthodox cathedral in Tbilisi, Georgia",,Q2977,,"Alexander Nevsky Cathedral, Tiflis"
+Alexander Nevsky Lavra,"Alexander Nevsky Cathedral, Paris",Q1493222,14,0,2,"cathedral located in Paris, in France",,Q2977,,"Alexander Nevsky Cathedral, Paris"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q2089063,14,0,2,,,Q2031836,,"Alexander Nevsky Cathedral, Moscow"
+Alexander Nevsky Lavra,Alexander Nevsky Cathedral,Q18147391,14,0,2,,,Q56242225,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,14,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,14,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,14,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,14,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,14,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,14,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,14,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,14,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,14,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,14,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,14,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,14,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,14,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,14,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,14,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,14,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,14,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,14,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,14,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Alexander Nevsky Lavra,Q946428,14,1,2,"monastery in Saint Petersburg, Russia",,Q824786,,Alexander Nevsky Lavra
+Cathedral of the Archangel,Cathedral of the Archangel,Q917830,15,0,1,"church in Moscow, Russia",,Q56242225|Q18133227|Q2319498,,Cathedral of the Archangel
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,15,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,15,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,15,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,15,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,15,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,15,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,15,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,15,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,15,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,15,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,15,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,15,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,15,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,15,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,15,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,15,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,15,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,15,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,15,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Cathedral of the Archangel,Q917830,15,1,2,"church in Moscow, Russia",,Q56242225|Q18133227|Q2319498,,Cathedral of the Archangel
+Eastern Orthodoxy,Russian Orthodox Church,Q60995,15,1,2,autocephalous Eastern Orthodox church,,Q1649443|Q44301618,,Russian Orthodox Church
+Eastern Orthodoxy,Russian Orthodox Church,Q571593,15,1,2,"church in Dresden, Germany",,Q114785346,,St. Simeon of the Wonderful Mountain Church
+Eastern Orthodoxy,Russian Orthodox Church of Geneva,Q4240411,15,1,2,"Russian Cathedral in Geneva, Switzerland","Russian Church, Geneva|Russian Orthodox Church",Q811979|Q56242225,,"Russian Church, Geneva"
+Eastern Orthodoxy,Russian Orthodox Church,Q3586061,15,1,2,"church building in Vevey in the canton of Vaud, Switzerland",église de la Sainte-Grande-Martyre-Barbara|église Sainte-Mégalomartyre-Barbara|église Sainte-Barbara,Q2031836|Q317557,,"Saint Barbara Church, Vevey"
+Eastern Orthodoxy,Russian Orthodox Church Outside of Russia,Q912932,15,1,2,semi-autonomous part of the Russian Orthodox Church,Russian Orthodox Church abroad|Russian Orthodox Church Outside Russia|ROCOR|ROCA,Q1981322,,Russian Orthodox Church Outside of Russia
+Eastern Orthodoxy,history of the Russian Orthodox Church,Q2395219,15,1,2,aspect of history,the Russian Orthodox Church history|Russian Orthodox Church history,Q17524420,,History of the Russian Orthodox Church
+Eastern Orthodoxy,Russian Orthodox Church in Azerbaijan,Q4075904,15,1,2,,,Q60176300,,Diocese of Baku and Azerbaijan
+Eastern Orthodoxy,Russian Orthodox Church Abroad (Agathangelos),Q3586066,15,1,2,,ROCOR (A),Q4316503,,
+Eastern Orthodoxy,Russian orthodox church of Biarritz,Q2041472,15,1,2,"church located in Pyrénées-Atlantiques, in France",,Q2031836,,
+Eastern Orthodoxy,Russian Orthodox Church Buildings and Sites TR,Q107085711,15,1,2,multiple listing in the U.S. National Register of Historic Places,Russian Orthodox Church Buildings and Sites Thematic Resource|Russian Orthodox Church Buildings and Sites TR (AD),Q18247357,,
+Eastern Orthodoxy,Greek Orthodoxy,Q7970362,15,1,2,Christian denominations of the Eastern Orthodox Church descended from a Greek tradition,Greek Orthodox Church,Q13414953,Q3333484,Greek Orthodox Church
+Eastern Orthodoxy,Ecumenical Patriarchate of Constantinople,Q211004,15,1,2,"Eastern Orthodox religious denomination based in İstanbul, Türkiye",Greek Orthodox Church of Constantinople|Orthodox Church of Constantinople|Church of Constantinople,Q44301618,,Ecumenical Patriarchate of Constantinople
+Eastern Orthodoxy,Greek Orthodox Church of St Nicholas,Q5601848,15,1,2,"church in Liverpool, Merseyside, England, UK","Greek Orthodox Church|Greek Orthodox Church of St Nicholas, Toxteth",Q16970,,"Greek Orthodox Church of St Nicholas, Toxteth"
+Eastern Orthodoxy,Greek Orthodox church,Q54819384,15,1,2,"church in Rotterdam, the Netherlands",St Nicholas Church,Q16970,,
+Eastern Orthodoxy,Eastern Orthodox Patriarchate of Antioch,Q323301,15,1,2,"Eastern Orthodox patriarchate currently headquartered in Damascus, Syria",Greek Orthodox Patriarchate of Antioch and All the East|Greek Orthodox Church of Antioch,Q44301618,,Greek Orthodox Patriarchate of Antioch
+Eastern Orthodoxy,Greek Orthodox Church,Q51592557,15,1,2,"church in Kingston, Canada",,Q16970,,
+Eastern Orthodoxy,Greek Orthodox Patriarchate of Alexandria,Q251268,15,1,2,Autocephalous Eastern Orthodox Church based in Africa; one of the original Churches of the Pentarchy,Greek Orthodox Patriarchate of Alexandria and All Africa|Patriarchate of Alexandria|Greek Orthodox Church of Africa|Greek Orthodox Church of Alexandria,Q44301618,,Greek Orthodox Patriarchate of Alexandria
+Eastern Orthodoxy,Greek Orthodox Patriarchate of Jerusalem,Q632602,15,1,2,Eastern Orthodox church,Greek Orthodox Church of Jerusalem,Q44301618,,Greek Orthodox Patriarchate of Jerusalem
+Eastern Orthodoxy,Greek Orthodox Church,Q17541595,15,1,2,"historic church building in Bexley, England, UK","Parish Church of TQ 47 NE 2/5 St Michael|Greek Orthodox Church of Christ the Saviour, Welling",Q16970,,
+Eastern Orthodoxy,"Greek Orthodox Church, Joubert Park",Q17003939,15,1,2,building in South Africa,Greek Orthodox church in Joubert Park,Q56242225,,Cathedral of Sts. Constantine and Helen
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q830054,16,0,1,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q303756,16,0,1,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1476251,16,0,1,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Harbin,Q1632027,16,0,1,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q649758,16,0,1,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q1635756,16,0,1,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Saint Sophia Cathedral,Saint Sophia Cathedral in Polotsk,Q2465016,16,0,1,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Saint Sophia Cathedral,Saint Sophia Cathedral,Q124806106,16,0,1,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Saint Sophia Cathedral,"Saint Sophia Cathedral, London",Q3464425,16,0,1,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Saint Sophia Cathedral,"Saint Sophia Cathedral, Zhytomyr",Q11737359,16,0,1,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Saint Sophia Cathedral,Hagia Sophia,Q12506,16,0,2,"mosque, museum, and former church in Istanbul, Turkey",Santa Sophia|St. Sophia Basilica|Church of Saint Sophia|Church of the Holy Wisdom|Hagia Sophia Mosque|Ayasofya|Great Church|Hagia Sophia Grand Mosque,Q120560|Q32815|Q33506|Q96371632|Q96440023|Q32815|Q33506|Q811979|Q35112127|Q16970|Q48356|Q97588309,,Hagia Sophia
+Saint Sophia Cathedral,Hagia Sophia,Q1568660,16,0,2,"church in Thessaloniki, Greece",Saint Sophia church (Thessaloniki)|Saint Sophia (Thessaloniki)|Saint Sophia|Ayasofya Camii,Q2977,,"Hagia Sophia, Thessaloniki"
+Saint Sophia Cathedral,Hagia Sophia,Q21529510,16,0,2,poem by Osip Mandelstam,,Q7725634,,
+Saint Sophia Cathedral,Hagia Sophia,Q112250696,16,0,2,painting by Leipold,,Q3305213,,
+Saint Sophia Cathedral,"Hagia Sophia, Trabzon",Q1568666,16,0,2,"Byzantine monument in Trabzon, Turkey","Hagia Sophia, Trabzon|Ayasofya Camii",Q16970|Q32815|Q33506,,"Hagia Sophia, Trabzon"
+Saint Sophia Cathedral,"Hagia Sophia, Iznik",Q4430013,16,0,2,"Byzantine-era church in İznik, Turkey",İznik Ayasofya Camii,Q32815|Q16970,,"Hagia Sophia, İznik"
+Saint Sophia Cathedral,Gazi Süleyman Paşa Mosque,Q52790862,16,0,2,"mosque in Kırklareli, northwestern Turkey",Hagia Sophia|Gazi Süleyman Paşa Camii,Q32815|Q2031836,,
+Saint Sophia Cathedral,Hagia Sophia History and Experience Museum,Q118955710,16,0,2,,,Q811979,,
+Saint Sophia Cathedral,Hagia Sophia VR Experience,Q122314312,16,0,2,2021 video game,,Q7889,,
+Saint Sophia Cathedral,Hagia Sophia and the Walls of Istanbul,Q68041481,16,0,2,painting by Félix Ziem,,Q3305213,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,16,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,16,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,16,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,16,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,16,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,16,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,16,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,16,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,16,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,16,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,16,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,16,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,16,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,16,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,16,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,16,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,16,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,16,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,16,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Saint Sophia Cathedral,Q830054,16,1,2,"cathedral in Kyiv, Ukraine",Saint Sophia's Cathedral|Sofiiskyi sobor|St Sophia Cathedral|St Sophia's Cathedral|St. Sophia Cathedral|St. Sophia's Cathedral,Q56242225|Q811165|Q16970,,"Saint Sophia Cathedral, Kyiv"
+Eastern Orthodoxy,Saint Sophia Cathedral,Q303756,16,1,2,Novgorod,,Q56242225|Q2319498,,"Cathedral of Saint Sophia, Novgorod"
+Eastern Orthodoxy,Saint Sophia Cathedral,Q1476251,16,1,2,Gothic-style mosque in Northern Cyprus,St Sophia Cathedral|Selimiye Mosque|Cathedral of Saint Sophia|Ayasofya Mosque,Q32815|Q2977|Q96371632,,"Selimiye Mosque, Nicosia"
+Eastern Orthodoxy,Saint Sophia Cathedral in Harbin,Q1632027,16,1,2,"church building in Harbin, China",Saint Sophia Cathedral,Q56242225,,"Saint Sophia Cathedral, Harbin"
+Eastern Orthodoxy,Saint Sophia Cathedral,Q649758,16,1,2,church,Saint Sophia Greek Orthodox Cathedral,Q56242225,,"Saint Sophia Cathedral, Los Angeles"
+Eastern Orthodoxy,Saint Sophia Cathedral,Q1635756,16,1,2,"cathedral in Vologda, Russia",,Q56242225|Q2319498,,"Saint Sophia Cathedral, Vologda"
+Eastern Orthodoxy,Saint Sophia Cathedral in Polotsk,Q2465016,16,1,2,"cathedral in Polotsk, Belarus",,Q2977|Q2031836,,"Saint Sophia Cathedral, Polotsk"
+Eastern Orthodoxy,Saint Sophia Cathedral,Q124806106,16,1,2,"Eastern Orthodox church building in Layış, Russia",,Q2031836|Q2319498,,
+Eastern Orthodoxy,"Saint Sophia Cathedral, London",Q3464425,16,1,2,Greek Orthodox cathedral in London,"St Sophia's Greek Orthodox Cathedral|St. Sophia's Greek Orthodox Cathedral|St. Sophia's Cathedral, London|St Sophia's Cathedral, London|cathedral of London",Q2977,,"Saint Sophia Cathedral, London"
+Eastern Orthodoxy,"Saint Sophia Cathedral, Zhytomyr",Q11737359,16,1,2,"church in Zhytomyr, Ukraine",,Q56242215,,"Saint Sophia Cathedral, Zhytomyr"
+Eastern Orthodoxy,Byzantine architecture,Q47591,16,1,2,architectural style,,Q32880|Q99527323,Q13152867|Q211884,Byzantine architecture
+Eastern Orthodoxy,Byzantine Architecture in East Europe,Q11527445,16,1,2,,,,,
+Eastern Orthodoxy,"BYZANTINE ARCHITECTURE AND DECORATION. By J. Arnott Hamilton. B. T. Batsford, 1933. pp. viii, 172, with 71 plates and 47 figures. 18s",Q58890726,16,1,2,,,Q637866,,
+Eastern Orthodoxy,Byzantine Architecture and Decoration in Cyprus: Metropolitan or Provincial?,Q56659077,16,1,2,scholarly article by A. H. S. Megaw published 1974 in Dumbarton Oaks Papers,,Q13442814,,
+Eastern Orthodoxy,"Byzantine Architecture and Decoration. By J. Arnott Hamilton, M.A., B.D., Ph.D. 9 × 6 ; pp. viii+172. London: Batsford. 1933. 18s.Ancient Synagogues in Palestine and Greece, The Schweich Lectures of the British Academy, 1930. By E. L. Sukenik. 9½ ?",Q59181049,16,1,2,,,Q13442814,,
+Eastern Orthodoxy,"Byzantine architecture and decoration. By J. Arnott Hamilton. With a Foreword by Professor D. Talbot Rice. 2nd Edn. 8¾ × 6. Pp. viii + 302. London: Batsford, 1956. 42s.",Q59175780,16,1,2,,,Q13442814,,
+Eastern Orthodoxy,Byzantine Architecture in Mani,Q64365030,16,1,2,,,Q13442814,,
+Eastern Orthodoxy,Orthodox Christianity and the Politics of Transition,Q139734840,16,1,2,,,Q571,,
+Eastern Orthodoxy,Orthodox Christianity: A Very Short Introduction,Q114004671,16,1,2,,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q136204913,16,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity in Imperial Russia: A Source Book on Lived Religion,Q136211828,16,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Contemporary Europe,Q136555745,16,1,2,2003 paperback edition (en),,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q139712043,16,1,2,,,Q13442814,,
+Eastern Orthodoxy,"Orthodox Christianity, Soviet Atheism and ‘Animist’ Practices in the Russianized World",Q138310227,16,1,2,journal article from 'Diogenes' published in 2005,,Q13442814,,
+Eastern Orthodoxy,Orthodox christianity in imperial Russia,Q57682420,16,1,2,scholarly article by Philip Boobbyer published 2 July 2017 in Slavonica,,Q13442814,,
+Fatih Istanbul Mosque,Fatih Istanbul Mosque,Q756189,17,0,1,"mosque in İstanbul, Turkey",Fatih Camii,Q32815|Q35112127,,"Fatih Mosque, Istanbul"
+Fatih Istanbul Mosque,Fatih Mosque,Q674125,17,0,2,"mosque in Amsterdam, Netherlands",,Q16970|Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q1398072,17,0,2,mosque,,Q32815|Q1081138,,"Fatih Mosque, Durrës"
+Fatih Istanbul Mosque,İslam Kültür Merkezleri Birliği - Fatih mosque,Q113976359,17,0,2,,Fatih mosque,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q25477410,17,0,2,"mosque in Foça, Turkey",Foça Fatih Mosque,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q6043937,17,0,2,"mosque in İzmir, western Turkey",,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q132133869,17,0,2,mosque in Amasra District,Fatih Camii,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q116771679,17,0,2,"mosque at Güzelyurt, Northern Cyprus",,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q127418241,17,0,2,"mosque in İstanbul, Turkey",,Q32815,,
+Fatih Istanbul Mosque,Fatih Mosque,Q133803232,17,0,2,mosque in Şebinkarahisar District,,Q32815,,
+Fatih Istanbul Mosque,"Fatih Mosque, Trabzon",Q5437792,17,0,2,"mosque in Trabzon, northeastern Turkey",,Q32815,,"Fatih Mosque, Trabzon"
+Fatih Istanbul Mosque,Eastern Orthodox Church,Q35032,17,0,2,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Fatih Istanbul Mosque,Eastern Orthodox church building,Q2031836,17,0,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Fatih Istanbul Mosque,Eastern Orthodox church,Q13031143,17,0,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Fatih Istanbul Mosque,history of the Eastern Orthodox Church,Q5954143,17,0,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Fatih Istanbul Mosque,Organization of the Eastern Orthodox Church,Q25084820,17,0,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Fatih Istanbul Mosque,Eastern Orthodoxy by country,Q17002390,17,0,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Fatih Istanbul Mosque,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,17,0,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Fatih Istanbul Mosque,Eastern Orthodox church in Komárno,Q777068,17,0,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Fatih Istanbul Mosque,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,17,0,2,scholarly article,,Q13442814,,
+Fatih Istanbul Mosque,Eastern Orthodox Church,Q22917982,17,0,2,Wikimedia disambiguation page,,Q4167410,,
+Fatih Istanbul Mosque,Fatih Sultan Mehmet Mosque,Q13040753,17,0,2,"church building in Shkodër, Albania",t. Stephen's Cathedral of Shkodër in Rozafa,Q32815|Q16970,,Fatih Sultan Mehmet Mosque
+Fatih Istanbul Mosque,Fatih Sultan Mehmet Mosque,Q63348784,17,0,2,"mosque in İstanbul, Turkey",,Q32815,,
+Eastern Orthodoxy,Eastern Orthodoxy,Q3333484,17,1,1,Christian denominational family,Eastern Orthodox Christianity|Eastern Orthodox faith,Q123129246|Q879146,Q245177|Q2711500,Eastern Orthodoxy
+Eastern Orthodoxy,Eastern Orthodox Church,Q35032,17,1,1,second-largest Christian church,Eastern Church|Orthodox Church|Orthodox Catholic Church|Greek Church|Eastern Orthodox communion|Church of the Seven Councils|The Holy Orthodox Catholic Apostolic Eastern Church,Q879146|Q4204511|Q34651,,Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy of an area,Q12830341,17,1,1,Wikidata metaclass,Eastern Orthodoxy in geographic location|Eastern Orthodoxy in country|Eastern Orthodoxy in region,Q19478619,Q12833777,
+Eastern Orthodoxy,Eastern Orthodoxy in Ukraine,Q264876,17,1,1,,,Q12830341,Q19269390|Q11288848,Eastern Orthodoxy in Ukraine
+Eastern Orthodoxy,Eastern Orthodoxy in France,Q1306628,17,1,1,"Eastern Orthodox adherents, communities and institutions in France",,Q12830341,Q19269390|Q2965819,Eastern Orthodoxy in France
+Eastern Orthodoxy,Eastern Orthodoxy in Azerbaijan,Q117350,17,1,1,,Orthodoxy in Azerbaijan|Orthodox Christianity in Azerbaijan,Q12830341,Q19269390|Q117137,Eastern Orthodoxy in Azerbaijan
+Eastern Orthodoxy,Eastern Orthodoxy in Russia,Q28665963,17,1,1,,,Q12830341,Q19269390|Q16958075,
+Eastern Orthodoxy,Eastern Orthodoxy in Korea,Q4376148,17,1,1,Religious minority,Orthodoxy in Korea,Q12830341,Q19269390|Q703007,Eastern Orthodoxy in Korea
+Eastern Orthodoxy,Eastern Orthodoxy in Venezuela,Q11826920,17,1,1,,,Q12830341,Q19269390|Q12193107,Eastern Orthodoxy in Venezuela
+Eastern Orthodoxy,Eastern Orthodoxy in Bulgaria,Q4376124,17,1,1,,,Q12830341,Q19269390|Q12193058,Eastern Orthodoxy in Bulgaria
+Eastern Orthodoxy,Eastern Orthodox church building,Q2031836,17,1,2,type of church building,Orthodox church,Q811102,Q16970,Eastern Orthodox church architecture
+Eastern Orthodoxy,Eastern Orthodox church,Q13031143,17,1,2,"church building in Mogilyov, Belarus",,Q2031836,,
+Eastern Orthodoxy,history of the Eastern Orthodox Church,Q5954143,17,1,2,aspect of history,the Eastern Orthodox Church history|Eastern Orthodox Church history,Q17524420|Q309,,History of the Eastern Orthodox Church
+Eastern Orthodoxy,Organization of the Eastern Orthodox Church,Q25084820,17,1,2,structure and organization of the Eastern Orthodox Church,Eastern Orthodox Church organization|Organization of Lutheranism|Lutheran Halloween,Q13406463,,Organization of the Eastern Orthodox Church
+Eastern Orthodoxy,Eastern Orthodoxy by country,Q17002390,17,1,2,Wikimedia list article,Eastern Orthodox Church by country,Q13406463,,Eastern Orthodoxy by country
+Eastern Orthodoxy,history of the Eastern Orthodox Church under the Ottoman Empire,Q5869348,17,1,2,aspect of history,the Eastern Orthodox Church under the Ottoman Empire history|Eastern Orthodox Church under the Ottoman Empire history,Q17524420,,History of the Eastern Orthodox Church under the Ottoman Empire
+Eastern Orthodoxy,Eastern Orthodox church in Komárno,Q777068,17,1,2,"church in Komárno, Slovakia",,Q2031836|Q11832720,,"Church of the Dormition of the Theotokos, Komárno"
+Eastern Orthodoxy,Eastern Orthodox Churches and Ecumenism according to the Holy Pan-Orthodox Council of Crete (2016),Q129459811,17,1,2,scholarly article,,Q13442814,,
+Eastern Orthodoxy,Eastern Orthodox Church,Q22917982,17,1,2,Wikimedia disambiguation page,,Q4167410,,
+Eastern Orthodoxy,Orthodox Christianity and the Politics of Transition,Q139734840,17,1,2,,,Q571,,
+Eastern Orthodoxy,Orthodox Christianity: A Very Short Introduction,Q114004671,17,1,2,,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q136204913,17,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity in Imperial Russia: A Source Book on Lived Religion,Q136211828,17,1,2,book 2014,,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Contemporary Europe,Q136555745,17,1,2,2003 paperback edition (en),,Q3331189,,
+Eastern Orthodoxy,Orthodox Christianity and Nationalism in Nineteenth-Century Southeastern Europe,Q139712043,17,1,2,,,Q13442814,,
+Eastern Orthodoxy,"Orthodox Christianity, Soviet Atheism and ‘Animist’ Practices in the Russianized World",Q138310227,17,1,2,journal article from 'Diogenes' published in 2005,,Q13442814,,
+Eastern Orthodoxy,Orthodox christianity in imperial Russia,Q57682420,17,1,2,scholarly article by Philip Boobbyer published 2 July 2017 in Slavonica,,Q13442814,,
+Basilica of Our Lady of the Pillar,Basilica of Our Lady of the Pillar,Q810684,18,0,1,"Co-cathedral and minor basilica of the Roman Catholic Church in Zaragoza, Spain","Holy Metropolitan Temple of Our Lady of Pilar|Zaragoza cathedral|cathedral of Zaragoza|Cathedral-Basilica of Our Lady of the Pillar of Zaragoza|Saragossa Cathedral|Cathedral of Our Lady of the Pillar|Cathedral Basilica of Our Lady of the Pillar|Blessed Virgin Mary of El Pilar, Basilica, Zaragoza|Our Lady of the Pillar|Iglesia Magistral de Nuestra Señora del Pilar",Q2577114|Q907116|Q120560|Q56242215|Q55876909|Q840482|Q10631691|Q21850178,,Cathedral-Basilica of Our Lady of the Pillar
+Basilica of Our Lady of the Pillar,Iglesia de Nuestra Señora del Pilar,Q42818600,18,0,1,"minor basilica and cultural heritage site in San Vicente, El Salvador",Church of Our Lady of the Pillar|Church of the Pillar|Basilica of Our Lady of the Pillar|Minor Basilica of Our Lady of the Pillar,Q2065736|Q1088552|Q120560,,
+Basilica of Our Lady of the Pillar,"Basilica of Our Lady of the Pillar, Buenos Aires",Q2886930,18,0,1,"church building in Recoleta, Buenos Aires, Argentina",,Q120560|Q55876909,,"Basilica of Our Lady of the Pillar, Buenos Aires"
+Latin Church,Latin Church,Q597526,18,1,1,autonomous particular church making up of most of the Western world Catholics,Latin Catholic Church|Western Catholic Church|Roman Catholic Church,Q6566418|Q879146,Q842798,Latin Church
+Latin Church,Latin Church,Q20434813,18,1,1,"church building in Žitorađa, Serbia",,Q16970,,Latin church (Žitorađa)
+Latin Church,Latin Church in Ukraine,Q56355808,18,1,1,Church in Ukraine,,Q13073773,Q1149375|Q597526,Latin Church in Ukraine
+Latin Church,Latin church in Gródek,Q16913540,18,1,1,"church building in Gródek, Białystok County, Poland",,Q16970,,
+Latin Church,Latin Church in the Middle East,Q21272312,18,1,1,Latin Catholic church of area,,Q13073773,Q597526|Q28455783,Latin Church in the Middle East
+Latin Church,Latin Church in As-Salt,Q107921264,18,1,1,"church in As-Salt, Jordan",St Mary's Catholic Church,Q16970,,
+Latin Church,Latin Church in Gornji Matejevac,Q12754468,18,1,1,"church building in Niš, Serbia",,Q16970,,
+Latin Church,Latin church in Prokuplje,Q12747833,18,1,1,"church building in Prokuplje, Serbia",,Q16970,,
+Latin Church,Latin Church of the Early Crusades,Q56430305,18,1,1,,,Q13442814,,
+Latin Church,Latin church's modern trends of development in the eastern Ukraine,Q128926659,18,1,1,scholarly article,,Q13442814,,
+Latin Church,Basilica of Our Lady of the Pillar,Q810684,18,1,2,"Co-cathedral and minor basilica of the Roman Catholic Church in Zaragoza, Spain","Holy Metropolitan Temple of Our Lady of Pilar|Zaragoza cathedral|cathedral of Zaragoza|Cathedral-Basilica of Our Lady of the Pillar of Zaragoza|Saragossa Cathedral|Cathedral of Our Lady of the Pillar|Cathedral Basilica of Our Lady of the Pillar|Blessed Virgin Mary of El Pilar, Basilica, Zaragoza|Our Lady of the Pillar|Iglesia Magistral de Nuestra Señora del Pilar",Q2577114|Q907116|Q120560|Q56242215|Q55876909|Q840482|Q10631691|Q21850178,,Cathedral-Basilica of Our Lady of the Pillar
+Latin Church,Iglesia de Nuestra Señora del Pilar,Q42818600,18,1,2,"minor basilica and cultural heritage site in San Vicente, El Salvador",Church of Our Lady of the Pillar|Church of the Pillar|Basilica of Our Lady of the Pillar|Minor Basilica of Our Lady of the Pillar,Q2065736|Q1088552|Q120560,,
+Latin Church,"Basilica of Our Lady of the Pillar, Buenos Aires",Q2886930,18,1,2,"church building in Recoleta, Buenos Aires, Argentina",,Q120560|Q55876909,,"Basilica of Our Lady of the Pillar, Buenos Aires"
+Wat Phra Kaeo,Wat Phra Kaew,Q1045876,19,0,1,"Royal temple complex in Bangkok, Thailand",Wat Phrasri Rattana Sasadaram|Temple of the Emerald Buddha|Grand Palace Bangkok Temple|Wat Phra Kaeo,Q427287,,Wat Phra Kaew
+Wat Phra Kaeo,Wat Phra Kaeo,Q842276,19,0,1,"Buddhist temple in Chiang Rai, Thailand",,Q427287,,"Wat Phra Kaew, Chiang Rai"
+Wat Phra Kaeo,Wat Phra Kaeo,Q2552325,19,0,1,"Buddhist temple in Kamphaeng Phet province, Thailand",,Q427287,,
+Wat Phra Kaeo,Wat Phra Kaeo,Q16004336,19,0,1,"Buddhist temple in Chainat province, Thailand",,Q427287,,
+Wat Phra Kaeo,Wat Phra Kaeo,Q109341365,19,0,1,"Buddhist temple in Chiang Khong, Chiang Rai province, Thailand","Wat Phra Kaeo, Chiang Kong|Wat Phra Kaew, Chiang Khong",Q427287,,
+Wat Phra Kaeo,Wat Phra Kaeo,Q111521611,19,0,1,"Buddhist temple in Kengtung, Myanmar",,Q427287,,
+Wat Phra Kaeo,Wat Phra Kaeo,Q112604678,19,0,1,"Buddhist temple in Phayao province, Thailand",,Q427287,,
+Wat Phra Kaeo,Wat Phra Kaeo Don Tao Suchadaram,Q16004337,19,0,1,"Buddhist temple in Lampang, Thailand",Wat Phra Kaeo Don Tao Sucha Da,Q427287,,Wat Phra Kaeo Don Tao
+Wat Phra Kaeo,Wat Phra Kaeo Noi,Q19241793,19,0,1,"Buddhist temple in Phetchaburi province, Thailand",,Q427287,,
+Wat Phra Kaeo,Emerald Buddha,Q1502138,19,0,1,Statue considered the Palladium of Thailand,Phra Kaew|Phra Kaeo Morakot,Q179700|Q860861|Q220659,Q1000809,Emerald Buddha
+Wat Phra Kaeo,Wat Phra Kaew,Q401112,19,0,2,Wikimedia disambiguation page,,Q4167410,,Wat Phra Kaew (disambiguation)
+Wat Phra Kaeo,Wat Phra Kaew (định hướng),Q10748497,19,0,2,Wikimedia disambiguation page,,Q4167410,,
+Theravāda,Theravāda,Q132265,19,1,1,"major branch of Buddhism following the Pāli Canon, dominant in Sri Lanka, Cambodia, Laos, Myanmar and Thailand",Theravada Buddhism|Southern Buddhism|Doctrine of the Elders|Southeast Asian Buddhism|South Asian Buddhism|South-East Asian Buddhism,Q13414953,Q748,Theravada
+Theravāda,Theravāda Buddhist Encounters with Modernity,Q139929852,19,1,1,,,Q193495,,
+Theravāda,Theravāda Buddhism,Q140214807,19,1,1,,,Q193495,,
+Theravāda,Philippine Theravada Buddhist Fellowship,Q140563200,19,1,1,Filipino lay Theravada Buddhist organization based in Metro Manila,theravada philippines,Q748,,
+Theravāda,Theravāda Buddhism,Q139709508,19,1,1,,,Q571,,
+Theravāda,Theravada Traditions,Q139929849,19,1,1,,,Q3331189,,
+Theravāda,abhidhamma,Q96409742,19,1,1,Buddhist scholastic text and studies particular to the Theravāda school,Theravāda abhidhamma,,Q612405,Theravada Abhidhamma
+Theravāda,Category:Theravada Wikipedians,Q8852068,19,1,1,Wikimedia category,Theravada Wikipedians,Q20769287,,Category:Theravada Wikipedians
+Theravāda,Sthaviravāda,Q1401216,19,1,1,early Buddhist school,,,,Sthavira Nikāya
+Theravāda,Theravāda Saṅgha of Indonesia,Q12512019,19,1,1,Indonesian Buddhist organization,Indonesian Theravāda Saṅgha,Q1530022,,Sangha Theravada Indonesia
+Theravāda,Theravada Buddhism: The View of the Elders,Q136270184,19,1,2,book 2012,,Q3331189,,
+Theravāda,Theravāda Buddhism,Q101000448,19,1,2,scholarly article on theravada buddhism,,Q13442814,,
+Theravāda,Theravada Buddhism and Political Engagement among the Thai-Lao of North East Thailand: The Bun Phra Wet Ceremony,Q139735393,19,1,2,,,Q13442814,,
+Theravāda,Theravada Buddhism: A Social History from Ancient Benares to Modern Colombo,Q139953080,19,1,2,,,Q13442814,,
+Theravāda,Theravada Buddhism and Modernization: Anagarika Dhammapala and B.R. Ambedkar,Q139702022,19,1,2,,,Q13442814,,
+Theravāda,Theravada Buddhism: A Vehicle for Technical Change,Q122538929,19,1,2,scientific article published in 1964,,Q13442814,,
+Theravāda,Theravada Buddhism and Morality,Q57308105,19,1,2,scholarly article by R. H. Jones published 1 September 1979 in Journal of the American Academy of Religion,,Q13442814,,
+Theravāda,"Theravada Traditions: Buddhist Ritual Cultures in Contemporary Southeast Asia and Sri Lanka , by John Clifford Holt",Q100873227,19,1,2,scholarly article published 19 March 2020 in Buddhist Studies Review,,Q13442814,,
+Uppsala Cathedral,Uppsala Cathedral,Q850042,20,0,1,Swedish cathedral,Uppsala domkyrka|Upsala Cathedral,Q56242235|Q2065736|Q96211395|Q117023378,,Uppsala Cathedral
+Uppsala Cathedral,Uppsala Cathedral Assembly,Q10710237,20,0,1,parish of the Church of Sweden,Uppsala domkyrkoförssamling,Q615980,,
+Uppsala Cathedral,Uppsala Cathedral Boys Choir,Q7899167,20,0,1,"choir from Uppsal, Sweden",,Q131186,,Uppsala Cathedral Boys Choir
+Uppsala Cathedral,Uppsala Cathedral Boys Choir albums in chronological order,Q135433473,20,0,1,Wikimedia albums discography,Uppsala Cathedral Boys Choir albums discography,Q59191021,,
+Uppsala Cathedral,Uppsala Cathedral Boys Choir discography,Q135433465,20,0,1,choir discography,,Q104635718,,
+Uppsala Cathedral,Uppsala domkyrka och vattenfallet,Q110788763,20,0,2,drawing by Elias Martin,,Q93184,,
+Uppsala Cathedral,Uppsala domkyrka sedd från nordost,Q110784224,20,0,2,drawing by Fredrik Wilhelm Scholander,,Q93184,,
+Uppsala Cathedral,Uppsala domkyrka med omgivning från söder,Q110784240,20,0,2,drawing by Fredrik Wilhelm Scholander,,Q93184,,
+Uppsala Cathedral,Uppsala domkyrkas skattkammare,Q26253232,20,0,2,,,Q33506,,
+Uppsala Cathedral,Uppsala Domkyrkas Flickkör,Q10710209,20,0,2,,,Q131186,,
+Uppsala Cathedral,Uppsala domkyrkas orgel,Q126876530,20,0,2,,,Q281460,,
+Uppsala Cathedral,Uppsala domkyrkas orgel,Q126876443,20,0,2,,,Q281460,,
+Uppsala Cathedral,Uppsala domkyrkas orgel,Q126814415,20,0,2,,,Q281460,,
+Lutheranism,Lutheranism,Q75809,20,1,1,form of Protestantism commonly associated with the teachings of Martin Luther,Lutheran Church|Lutherans|Lutheran Protestantism,Q123129246|Q9174|Q43229,Q23540,Lutheranism
+Lutheranism,Lutheranism,Q103953073,20,1,1,encyclopedia article,,Q13433827,,
+Lutheranism,Lutheranism and the Nordic Spirit of Social Democracy,Q139876040,20,1,1,,,Q193495,,
+Lutheranism,history of Lutheranism,Q4204862,20,1,1,aspect of history,Lutheranism history,Q17524420,Q235329,History of Lutheranism
+Lutheranism,Lutheranism in Russia,Q4272328,20,1,1,,,Q25509894,Q75809|Q4381717,
+Lutheranism,Lutheranism in Brazil,Q10321086,20,1,1,,,Q25509894,Q75809|Q7251646,
+Lutheranism,Lutheranism by region,Q6705763,20,1,1,aspect of religion,,,,Lutheranism by region
+Lutheranism,homosexuality and Lutheranism,Q2035068,20,1,1,gay and lesbian sexuality and Lutheranism,Lutheranism and homosexuality,,Q767892,Homosexuality and Lutheranism
+Lutheranism,Lutheranism in Mexico,Q19595582,20,1,1,,,Q25509894,Q75809|Q7251656,Lutheranism in Mexico
+Lutheranism,"Lutheranism in North America, 1914-1970",Q108571386,20,1,1,History of the Lutheran tradition in North America,,Q571,,
+Lutheranism,Uppsala Cathedral,Q850042,20,1,2,Swedish cathedral,Uppsala domkyrka|Upsala Cathedral,Q56242235|Q2065736|Q96211395|Q117023378,,Uppsala Cathedral
+Lutheranism,Uppsala Cathedral Assembly,Q10710237,20,1,2,parish of the Church of Sweden,Uppsala domkyrkoförssamling,Q615980,,
+Lutheranism,Uppsala Cathedral Boys Choir,Q7899167,20,1,2,"choir from Uppsal, Sweden",,Q131186,,Uppsala Cathedral Boys Choir
+Lutheranism,Uppsala Cathedral Boys Choir albums in chronological order,Q135433473,20,1,2,Wikimedia albums discography,Uppsala Cathedral Boys Choir albums discography,Q59191021,,
+Lutheranism,Uppsala Cathedral Boys Choir discography,Q135433465,20,1,2,choir discography,,Q104635718,,
+Lutheranism,Lutheran church,Q56242275,20,1,2,religious building of the Lutheran church,,,Q56242063,
+Lutheranism,Lutheran Churches,Q5415686,20,1,2,Christian denomination that emerged from Martin Luther's Reformation in the 16th century,Lutheran church,Q123129246,,Lutheran Church
+Lutheranism,Church of Denmark,Q855585,20,1,2,Evangelical-Lutheran denomination in Denmark,Evangelical Lutheran Church in Denmark|Lutheran Church--Denmark,Q2325038|Q1649443|Q1128340,,Church of Denmark
+Lutheranism,Evangelical Lutheran Church of Finland,Q1379849,20,1,2,national church of Finland,Lutheran Church of Finland|Church of Finland,Q1649443|Q2325038|Q879146,,Evangelical Lutheran Church of Finland
+Lutheranism,Evangelical Church in Austria (1781-1918),Q11985224,20,1,2,,Lutheran Church in Austria (1781-1918),Q34651,,
+Lutheranism,Lutherse Kerk,Q2678488,20,1,2,"church in Vaals, Netherlands",Lutheran Church,Q16970,,
+Lutheranism,Lutheran Church,Q2225820,20,1,2,"church in Nijmegen, the Netherlands",,Q16970,,
+Lutheranism,Lutheran Church,Q60428128,20,1,2,"meeting house located in Doubs, in France",,Q56242063,,
+Lutheranism,Lutheran Church,Q269376,20,1,2,"church building in Sopron, Hungary",,Q56242275,,
+Lutheranism,Martin Luther,Q9554,20,1,2,German priest and theologian (1483–1546),,Q5,,Martin Luther
+Lutheranism,Martin Luther University Halle-Wittenberg,Q32120,20,1,2,"university in the cities of Halle and Wittenberg, Germany",MLU|Martin-Luther-Universität Halle-Wittenberg|Martin Luther-Universität|Martin Luther-Universität Halle-Wittenberg|Martin Luther University of Halle-Wittenberg|Martin-Luther-Universitaet Halle-Wittenberg|University of Halle-Wittenberg,Q875538|Q1767829|Q3918,,Martin Luther University Halle-Wittenberg
+Lutheranism,Martin Luther,Q107302636,20,1,2,Abt 1568 -,,Q5,,
+Lutheranism,Martin Luther,Q94901053,20,1,2,(1613-1633),,Q5,,
+Lutheranism,Martin Luther King Jr.,Q8027,20,1,2,American Baptist minister and civil rights leader (1929–1968),,Q5,,Martin Luther King Jr.
+Lutheranism,Martin Luther,Q328096,20,1,2,1953 film biography directed by Irving Pichel,,Q11424,,Martin Luther (1953 film)
+Lutheranism,Martin Luther,Q342938,20,1,2,Wikimedia disambiguation page,,Q22808320,,Martin Luther (disambiguation)
+Lutheranism,Portrait of Martin Luther,Q116945619,20,1,2,"painting by Lucas Cranach der Ältere (SG18, Schloss Friedenstein, Gotha)","Martin Luther, bust-length, facing right",Q3305213,,
+Lutheranism,Martin Luther King III,Q1886607,20,1,2,American civil rights activist,MLK III,Q5,,Martin Luther King III
+Lutheranism,Martin Luther,Q107438655,20,1,2,painting by Lucas Cranach the Elder,,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska","Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Q931577,21,0,1,"Franciscan friary, Kraljeva Sutjeska, Bosnia and Herzegovina","Franciscan friary of St John the Baptist, Kraljeva Sutjeska",Q76529788|Q317557|Q166118|Q464980|Q33506|Q7075,,"Franciscan friary, Kraljeva Sutjeska"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan friary,Q76529788,21,0,2,"friary, convent where Franciscan friars reside or have resided",Franciscan Friary|convent|monastery|friary|friary Franciscan|Franciscan convent|Franciscan monastery|monestary Franciscan|convent Franciscan,,Q20672229|Q97579590|Q132289901|Q132296770,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan Friary,Q1450307,21,0,2,"monastery in Bolzano, South Tyrol",,Q20672229,,"Franciscan Friary, Bolzano"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Greyfriars,Q5608373,21,0,2,"friary in Richmond, North Yorkshire, England, UK",Franciscan friary,Q20672229,,"Greyfriars, Richmond"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan Friary,Q115770484,21,0,2,"church in Friary Street, Kilkenny",Saint Francis's Catholic Church,Q16970,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan friary,Q133065431,21,0,2,"secularized friary in Santo Domingo de Silos, Spain",,Q96376715,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan Friary,Q17743494,21,0,2,"building in Whitford, United Kingdom",,Q41176,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska","Franciscan Friary, Zaragoza",Q5483001,21,0,2,"demolished friary in Zaragoza, Spain",,Q96354572,,"Franciscan Friary, Zaragoza"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska","Franciscan Friary, Baja",Q1000460,21,0,2,monastery,,Q44613|Q1088552,,"Franciscan Friary, Baja"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska","Franciscan Friary, Copenhagen",Q5482988,21,0,2,,Greyfriars,Q76529788,,"Franciscan Friary, Copenhagen"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan friary in Wrocław-Karłowice,Q30075716,21,0,2,,,Q1497364,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q7593753,21,0,2,"church in Newton, Porthcawl, Wales","Church of St John the Baptist|St John the Baptist Church, Porthcawl|St John the Baptist Church, Newton|Eglwys Sant Ioan Fedyddiwr",Q56242063,,"St John the Baptist Church, Porthcawl"
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55029079,21,0,2,"Catholic church in Nobber, County Meath, Ireland",,Q1088552,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55027650,21,0,2,"church in Hacketstown, County Carlow, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55028364,21,0,2,"church in Eyrecourt, County Galway, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55048426,21,0,2,"church in County Westmeath, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55027975,21,0,2,"church in Midleton, County Cork, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55054996,21,0,2,"church in Kinsale, County Cork, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55055112,21,0,2,"church in Bawnatemple, County Cork, Ireland",,Q1088552,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John The Baptist Church,Q55045708,21,0,2,"church in Lisgoold East, County Cork, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist Church,Q55055092,21,0,2,"church in Rusheen, County Cork, Ireland",,Q56242063,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Kraljeva Sutjeska,Q1018672,21,0,2,human settlement in Bosnia and Herzegovina,,Q486972|Q56061,,Kraljeva Sutjeska
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Royal court in Sutjeska,Q65075158,21,0,2,medieval Bosnian royal court,"Rulers’ court in Kraljeva Sutjeska, the archaeological site|Kraljeva Sutjeska rulers palace",Q1497364|Q16085106|Q35112127|Q358|Q1081138|Q15893231|Q109607,,Royal court in Sutjeska
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholicism,Q1841,21,0,2,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholicism: The Story of Catholic Christianity,Q56048148,21,0,2,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholic Church and health care,Q12193139,21,0,2,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholic Church in Canada,Q1205551,21,0,2,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholic Church in Italy,Q1201891,21,0,2,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholic Church in Japan,Q1205621,21,0,2,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholicism and Crisis in Modern France,Q140146939,21,0,2,book published by Princeton University Press (1962),,Q3331189,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,21,0,2,book published in 2000,,Q3331189,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska","Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,21,0,2,,,Q7725634,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Catholic Church in Bosnia and Herzegovina,Q1572396,21,0,2,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscans,Q165005,21,0,2,"from 1517, group of three religious orders within the Catholic Church",Seraphic Order|Ordo Fratrum Minorum|OFM|Minorites|Grey Friars|Franciscan|O.F.M.,Q28653|Q15893266|Q210588|Q43229|Q2061186|Q391009,,Franciscans
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan Order,Q103920306,21,0,2,encyclopedia article,,Q13433827,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan orders in the Anglican Communion,Q5483048,21,0,2,,,,,Franciscan orders in the Anglican Communion
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Franciscan orders in Lutheranism,Q5483046,21,0,2,influence of the spirituality of Catholic saint Francis in Protestant Christians,,,,Franciscan spirituality in Protestantism
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",John the Baptist,Q40662,21,0,2,1st-century Jewish itinerant preacher (Bible),St John the Baptist|Ioannes Baptista|Saint John the Baptist|St. John the Baptist,Q20643955|Q5,,John the Baptist
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Saint John the Baptist Wearing the Red Tabard of the Order of Saint John,Q22945980,21,0,2,painting by Mattia Preti,St John the Baptist|St John the Baptist Wearing the Red Tabard of the Order of St John,Q3305213,,Saint John the Baptist Wearing the Red Tabard of the Order of Saint John
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Saint John the Baptist,Q783215,21,0,2,painting by Leonardo da Vinci in the Louvre,St. John the Baptist|St John the Baptist|John the Baptist|Saint John the Baptist|Saint John the Baptist (Leonardo),Q3305213,,Saint John the Baptist (Leonardo)
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Saint John the Baptist,Q3463869,21,0,2,painting by Caravaggio in the Galleria Nazionale d'Arte Antica,St John the Baptist,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist,Q73128765,21,0,2,painting by the workshop of El Greco,Saint John the Baptist|St. John the Baptist|John the Baptist,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist,Q17319935,21,0,2,painting by Matthias Stom,,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist,Q50818825,21,0,2,"painting by Benvenuti, Giovanni Battista, called l'Ortolano",,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist,Q20354350,21,0,2,painting by Sebastiano Ricci,,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",Saint John the Baptist,Q20810213,21,0,2,painting by Cosimo Tura,St. John the Baptist|St John the Baptist|John the Baptist,Q3305213,,
+"Franciscan friary and church of St John the Baptist, Kraljeva Sutjeska",St John the Baptist,Q3947242,21,0,2,painting by Francesco del Cossa,,Q3305213,,
+Catholicism,Catholicism,Q1841,21,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,21,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,21,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,21,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,21,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,21,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,21,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,21,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,21,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,21,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Catholic Church,Q9592,21,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,21,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,21,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,21,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,21,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,21,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,21,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,21,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,21,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,21,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics
+Catholicism,St. John the Baptist Church,Q7593750,21,1,2,"church building in Cardiff, Wales, United Kingdom","Eglwys Sant Ioan Fedyddiwr|St. John the Baptist's Church, Cardiff",Q56242063,,"St John the Baptist Church, Cardiff"
+Catholicism,Calumpit Church,Q18750497,21,1,2,"Roman Catholic parish church in Calumpit, Bulacan, Philippines",Saint John the Baptist Parish Church|St. John the Baptist Parish Church|Saint John the Baptist Church|St. John the Baptist Church|Diocesan Shrine and Parish of Saint John the Baptis,Q55876909|Q43291118,,Calumpit Church
+Catholicism,St. John the Baptist Church,Q15115745,21,1,2,"church in Hummelshain, Germany",,Q56242063|Q1936626,,
+Catholicism,St. John the Baptist church,Q27067676,21,1,2,"church in Ljutomer, Slovenia",,Q317557,,
+Catholicism,St. John the Baptist Church,Q22938259,21,1,2,"church located in Haute-Garonne, in France",,Q16970,,
+Catholicism,Camalig Church,Q50087275,21,1,2,"Roman Catholic parish church in Camalig, Albay, Philippines",Saint John the Baptist Parish Church|Saint John the Baptist Church|St. John the Baptist Parish Church|St. John the Baptist Church|Church of Saint John the Baptist|Church of St. John the Baptist,Q55876909,,
+Catholicism,Saint John's church,Q16399832,21,1,2,Church building dedicated to St. John the Apostle located in the Khojavend District of Azerbaijan,St. John the Baptist Church|Surb Hovhannes Church,Q16970,,
+Catholicism,The Church Brew Works,Q7722850,21,1,2,"Brewpub in Pittsbugth, Pennsylvania, U.S.",St. John the Baptist Church,Q19899465|Q3640372,,The Church Brew Works
+Catholicism,St. John the Baptist Church,Q20500921,21,1,2,"Church in Vetersko, Macedonia",,Q16970|Q44613,,
+Catholicism,St. John the Baptist Church,Q20498831,21,1,2,"Church in Kratovo, North Macedonia",,Q56242063,,
+Catholicism,Franciscans,Q165005,21,1,2,"from 1517, group of three religious orders within the Catholic Church",Seraphic Order|Ordo Fratrum Minorum|OFM|Minorites|Grey Friars|Franciscan|O.F.M.,Q28653|Q15893266|Q210588|Q43229|Q2061186|Q391009,,Franciscans
+Catholicism,Franciscan Order,Q103920306,21,1,2,encyclopedia article,,Q13433827,,
+Catholicism,Franciscan orders in the Anglican Communion,Q5483048,21,1,2,,,,,Franciscan orders in the Anglican Communion
+Catholicism,Franciscan orders in Lutheranism,Q5483046,21,1,2,influence of the spirituality of Catholic saint Francis in Protestant Christians,,,,Franciscan spirituality in Protestantism
+Varnhem Abbey,Varnhem Abbey,Q860739,22,0,1,Swedish church and cloister ruins,Varnhems kloster|Varnhem Monastery,Q44613|Q109607|Q2065736|Q96211395|Q117023378,,Varnhem Abbey
+Varnhem Abbey,Varnhem Abbey Church,Q7448766,22,0,1,Swedish abbey church,Varnhems klosterkyrka,Q16970|Q317557|Q2065736|Q96211395|Q117023378,,
+Varnhem Abbey,Catholicism,Q1841,22,0,2,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Varnhem Abbey,Catholicism: The Story of Catholic Christianity,Q56048148,22,0,2,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Varnhem Abbey,Catholic Church and health care,Q12193139,22,0,2,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Varnhem Abbey,Catholic Church in Canada,Q1205551,22,0,2,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Varnhem Abbey,Catholic Church in Italy,Q1201891,22,0,2,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Varnhem Abbey,Catholic Church in Japan,Q1205621,22,0,2,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Varnhem Abbey,Catholicism and Crisis in Modern France,Q140146939,22,0,2,book published by Princeton University Press (1962),,Q3331189,,
+Varnhem Abbey,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,22,0,2,book published in 2000,,Q3331189,,
+Varnhem Abbey,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,22,0,2,,,Q7725634,,
+Varnhem Abbey,Catholic Church in Bosnia and Herzegovina,Q1572396,22,0,2,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Varnhem Abbey,Abbey,Q4663971,22,0,2,family name,,Q101352,,Abbey (surname)
+Varnhem Abbey,Abbey,Q18199985,22,0,2,given name,Abbey (first name)|Abbey (given name),Q202444|Q1130279,,Abbey (given name)
+Varnhem Abbey,abbey,Q160742,22,0,2,"monastery or convent, under the authority of an abbot or an abbess",,,Q44613|Q98116669|Q87351459,Abbey
+Varnhem Abbey,abbey church,Q334383,22,0,2,"church of an abbey (monastery), seat of an abbot",monasterium|abbey|monastic church|friary church|convent church|monastery church,,Q16970,Abbey church
+Varnhem Abbey,Buddhist temple,Q5393308,22,0,2,place of worship for Buddhists,Buddhist monastery|Buddhist abbey|Buddhist convent|temple (Buddhism)|monastery (Buddhism)|abbey (Buddhism)|convent (Buddhism),,Q1530022|Q44539|Q1370598|Q13018311,Buddhist temple
+Varnhem Abbey,abbacy nullius,Q1778235,22,0,2,"territorially delimited particular church in Catholicism, whose attention is entrusted to a prelate or an abbot, who governs it as its own pastor, in the same way as a diocesan bishop",nullius abbey|abbey|Abbacy Nullius|Abbacy nullius|abbacy territorial|territorial abbey,Q111737478,Q3146899|Q2633744,Territorial abbey
+Varnhem Abbey,Abbey Road,Q173643,22,0,2,1969 studio album by the Beatles,,Q482994,,Abbey Road
+Varnhem Abbey,Abbey,Q138907515,22,0,2,,,Q5,,
+Varnhem Abbey,Abbey Dore,Q4663999,22,0,2,"village and civil parish in Herefordshire, England","Abbey Dore, Herefordshire",Q532|Q1115575,,Abbey Dore
+Varnhem Abbey,Abbey Wood railway station,Q2087079,22,0,2,"railway station in Abbey Wood, southeast London, England, UK",Abbey Wood Station|ABW,Q55488,,Abbey Wood railway station
+Catholicism,Catholicism,Q1841,22,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,22,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,22,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,22,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,22,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,22,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,22,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,22,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,22,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,22,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Varnhem Abbey,Q860739,22,1,2,Swedish church and cloister ruins,Varnhems kloster|Varnhem Monastery,Q44613|Q109607|Q2065736|Q96211395|Q117023378,,Varnhem Abbey
+Catholicism,Varnhem Abbey Church,Q7448766,22,1,2,Swedish abbey church,Varnhems klosterkyrka,Q16970|Q317557|Q2065736|Q96211395|Q117023378,,
+Catholicism,Christian denomination,Q879146,22,1,2,identifiable Christian body with common characteristics,Christian body|Christian branch|Christian confession|church denomination|Christian sect,,Q13414953|Q94670589,Christian denomination
+Catholicism,denominational views on the Kingdom of God,Q16852467,22,1,2,schools of thought on a theme of Jesus' preaching,Kingdom of God|Christian denominational views on the Kingdom of God,Q216545,,Kingdom of God (Christian denominational variations)
+Catholicism,Christian Denominations and the Nuclear Issue 1945-1985: A Model of Pressures and Constraints,Q111637782,22,1,2,doctoral dissertation,,Q187685,,
+Catholicism,Christian denominational family,Q123129246,22,1,2,"group of Christian denominations that share common names, historical ties, and similar doctrines and practices but maintain separate organizations and governance",branch of Christianity,Q24017414,Q879146,
+Catholicism,Christian denominations of Russia in contemporary cultural processes,Q129654530,22,1,2,scholarly article published on 15 June 2018,,Q13442814,,
+Catholicism,Template:ChristianBeliefs,Q7464728,22,1,2,Wikimedia template,,Q11266439,,
+Vreta Abbey,Vreta Abbey,Q860536,23,0,1,"was founded between 1105 and 1100, by the King Inge the Elder and Queen Helena, on the request of the Pope Paschal II, and is the oldest known in Sweden",Vreta kloster,Q44613|Q109607|Q2065736|Q96211395|Q117023378|Q160742,,Vreta Abbey
+Vreta Abbey,Catholicism,Q1841,23,0,2,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Vreta Abbey,Catholicism: The Story of Catholic Christianity,Q56048148,23,0,2,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Vreta Abbey,Catholic Church and health care,Q12193139,23,0,2,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Vreta Abbey,Catholic Church in Canada,Q1205551,23,0,2,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Vreta Abbey,Catholic Church in Italy,Q1201891,23,0,2,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Vreta Abbey,Catholic Church in Japan,Q1205621,23,0,2,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Vreta Abbey,Catholicism and Crisis in Modern France,Q140146939,23,0,2,book published by Princeton University Press (1962),,Q3331189,,
+Vreta Abbey,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,23,0,2,book published in 2000,,Q3331189,,
+Vreta Abbey,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,23,0,2,,,Q7725634,,
+Vreta Abbey,Catholic Church in Bosnia and Herzegovina,Q1572396,23,0,2,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Vreta Abbey,religious site,Q105889895,23,0,2,location significant to one or more religions,,,Q618123|Q27096235,
+Vreta Abbey,Religious Sites In Wayanad,Q25344778,23,0,2,Wikimedia list article,,Q13406463,,List of religious sites in Wayanad
+Vreta Abbey,Religious Sites: Spiritual Journeys,Q137269808,23,0,2,book by Atharva Inamdar,,Q7725634,,
+Vreta Abbey,Religious Sites,Q131928728,23,0,2,scientific article published in May 2006,,Q13442814,,
+Vreta Abbey,Religious Sites and Sacred Spaces in Lithuania and Poland: A Comparison between the Šiluva Complex and the Świebodzin Statue of Jesus,Q140943410,23,0,2,"scholarly article published in Yearbook of Balkan and Baltic Studies, vol. 1 (2018) (DOI: 10.7592/YBBS1.02)",,Q13442814,,
+Catholicism,Catholicism,Q1841,23,1,1,Christian doctrine professed by the Catholic Church,Catholic faith|Catholic religion|Roman Catholicism|Christianity,Q123129246|Q71966963,Q842798|Q2711500|Q5043,Catholicism
+Catholicism,Catholicism: The Story of Catholic Christianity,Q56048148,23,1,1,academic book by Gerald O'Collins & Mario Farrugia,Catholicism,Q47461344,,
+Catholicism,Catholic Church and health care,Q12193139,23,1,1,relationship between the Catholic Church and health care,Catholic hospitals|Catholic healthcare|Catholic health care|Roman Catholic hospitals|Catholicism and healthcare|Roman Catholicism and healthcare,Q21040055,,Catholic Church and health care
+Catholicism,Catholic Church in Canada,Q1205551,23,1,1,part of the worldwide Catholic Church in Canada,Catholicism in Canada|Roman Catholicism in Canada|Roman Catholic Church in Canada,Q13073773|Q23955632,Q15717693|Q12193115,Catholic Church in Canada
+Catholicism,Catholic Church in Italy,Q1201891,23,1,1,part of the worldwide Catholic Church,Roman Catholicism in Italy|Catholicism in Italy,Q13073773,Q15717693|Q378478,Catholic Church in Italy
+Catholicism,Catholic Church in Japan,Q1205621,23,1,1,the practice of Latin Catholicism in the eastern island nation of Japan,Latin Catholicism in Japan|Catholicism in Japan|Western Catholicism in Japan|Roman Catholicism in Japan,Q13073773,Q15717693|Q427945,Catholic Church in Japan
+Catholicism,Catholicism and Crisis in Modern France,Q140146939,23,1,1,book published by Princeton University Press (1962),,Q3331189,,
+Catholicism,Catholicism contending with modernity : Roman Catholic modernism and anti-modernism in historical context,Q139540249,23,1,1,book published in 2000,,Q3331189,,
+Catholicism,"Catholicism and the Great War: Religion and Everyday Life in Germany and Austria-Hungary, 1914–1922",Q111134191,23,1,1,,,Q7725634,,
+Catholicism,Catholic Church in Bosnia and Herzegovina,Q1572396,23,1,1,part of the worldwide Catholic Church,Catholicism in Bosnia and Herzegovina,Q13073773,Q15717693|Q12193037,Catholic Church in Bosnia and Herzegovina
+Catholicism,Vreta Abbey,Q860536,23,1,2,"was founded between 1105 and 1100, by the King Inge the Elder and Queen Helena, on the request of the Pope Paschal II, and is the oldest known in Sweden",Vreta kloster,Q44613|Q109607|Q2065736|Q96211395|Q117023378|Q160742,,Vreta Abbey
+Catholicism,Catholic Church,Q9592,23,1,2,"largest Christian Church, made up of 24 autonomous Churches in communion with the Pope, part of the Latin Church aka Latin Christianity a.k.a. western Christianity",Roman Catholic Church|Roman Apostolic Catholic Church|Roman Rite Catholic Church,Q879146|Q4204511|Q34651|Q2638480,,Catholic Church
+Catholicism,Catholic church building,Q1088552,23,1,2,church building in the Catholic Church,Catholic church|Roman Rite Catholic church|Roman Rite Catholic church building|Catholic temple,Q811102,Q140454931,Catholic church building
+Catholicism,Catholic Church,Q110209751,23,1,2,gouache - Michel Jean Cazabon,,Q21281546,,
+Catholicism,Catholic Church in the United States,Q769585,23,1,2,part of the worldwide Roman Catholic Church,Roman Catholic Church in the United States|American Catholicism,Q13073773|Q23955632,Q15717693|Q4116393,Catholic Church in the United States
+Catholicism,Catholic church,Q106842044,23,1,2,"church building in Hesse, Germany",,Q16970,,
+Catholicism,Catholic Church,Q1487180,23,1,2,"church building in Langnau im Emmental in the canton of Bern, Switzerland",Katholische Kirche|Kirche Heilig Kreuz,Q1088552,,
+Catholicism,Catholic Church sexual abuse cases,Q573565,23,1,2,sexual abuse cases by Catholic clergy,Catholic sex abuse cases,Q5801919|Q26553,,Catholic Church sexual abuse cases
+Catholicism,Catholic Church in the Czech Republic,Q1201779,23,1,2,,,Q13073773|Q23955632,Q15717693|Q12032243,Catholic Church in the Czech Republic
+Catholicism,Catholic church,Q1537908,23,1,2,"church building in Richterswil in the canton of Zurich, Switzerland",Katholische Kirche Richterswil,Q1088552,,
+Catholicism,political Catholicism,Q834554,23,1,2,"interplay of Catholicism with religious, and later secular, politics",Catholic Church and politics,Q12909644,Q1841|Q4116798,Catholic Church and politics

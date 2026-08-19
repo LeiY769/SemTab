@@ -1,0 +1,455 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Schwefelberg,Schwefelberg,Q2255377,0,0,1,,,Q54050,,
+Schwefelberg,Schwefelberg,Q97479035,0,0,1,"field name in the town of Hohenems, Vorarlberg, Austria",,Q125505344,,
+Schwefelberg,Schwefelbergweg,Q97478796,0,0,1,"street in Hohenems, Vorarlberg, Austria",,Q34442,,
+Schwefelberg,solfara,Q16607162,0,0,1,typical sulfur mine in Sicily,,Q137735409,Q820477,
+Schwefelberg,Sulfur mines in Sicily,Q2255396,0,0,1,"sulfur mining in Sicily, Italy",,,Q44497,Sulfur mining in Sicily
+Schwefelberg,Schwefelberg-Bad,Q1394735,0,0,1,human settlement,,Q486972,,
+Hohenems,Hohenems,Q698591,0,1,1,"municipality in Dornbirn District, Vorarlberg, Austria",,Q667509|Q13539802|Q11183787,,Hohenems
+Hohenems,Hohenemser,Q106117869,0,1,1,family name,,Q101352,,
+Hohenems,Hohenems,Q21881821,0,1,1,second-level administrative country subdivision of Austria,,Q15303838,,
+Hohenems,Hohenems-Münchener Handschrift A,Q1623699,0,1,1,"collection of manuscripts that contain, among others, the Nibelungenlied","Munich. Bavarian State Library, Cgm 34",Q87167|Q2217259|Q213924,,
+Hohenems,Hohenems,Q95131355,0,1,1,family name,,Q101352,,
+Hohenems,Hohenems,Q125788784,0,1,1,"cadastral community in Hohenems, Vorarlberg, Austria",,Q17376095,,
+Hohenems,Herren von Ems,Q1613971,0,1,1,noble family,Hohenems family,Q13417114,,Hohenems family
+Hohenems,Hohenems Genealogie,Q99336874,0,1,1,,hg.at,Q8513,,
+Hohenems,"Hohenems, Marx Sittich II. v.",Q27583093,0,1,1,entry in the Allgemeine Deutsche Biographie,"Hohenems, Marx Sittich II. v. (ADB)",Q19389637,,
+Hohenems,"Hohenems, Marx Sittich IV. von",Q21319119,0,1,1,encyclopedic article,"Hohenems, Marx Sittich IV. von (Verweisung) (ADB)",Q1302249,,
+Hohenems,Schwefelberg,Q2255377,0,1,2,,,Q54050,,
+Hohenems,Schwefelberg,Q97479035,0,1,2,"field name in the town of Hohenems, Vorarlberg, Austria",,Q125505344,,
+Hohenems,Schwefelbergweg,Q97478796,0,1,2,"street in Hohenems, Vorarlberg, Austria",,Q34442,,
+Hohenems,solfara,Q16607162,0,1,2,typical sulfur mine in Sicily,,Q137735409,Q820477,
+Hohenems,Sulfur mines in Sicily,Q2255396,0,1,2,"sulfur mining in Sicily, Italy",,,Q44497,Sulfur mining in Sicily
+Hohenems,Schwefelberg-Bad,Q1394735,0,1,2,human settlement,,Q486972,,
+Monastyrok,Monastyrok,Q7224331,1,0,1,"village in Rozsosha Hromada, Khmelnytskyi Raion, Khmelnytsky Oblast, Ukraine",,Q21672098,,
+Monastyrok,Monastyrok,Q4301396,1,0,1,"village in Brody Raion, Lviv Oblast, Ukraine",,Q21672098,,Monastyrok
+Monastyrok,Monastyrok,Q4301427,1,0,1,"village in Bilche Zolote Hromada, Chortkiv Raion, Ternopil Oblast, Ukraine",,Q21672098,,"Monastyrok, Ternopil Oblast"
+Monastyrok,Mala Mankivka,Q4277082,1,0,1,"village in Mankivka Raion, Cherkasy Oblast, Ukraine",Monastyrok|Mankivochka,Q21672098,,
+Monastyrok,Monastyrok,Q4301401,1,0,1,"village in Horodenka Raion, Ivano-Frankivsk Oblast, Ukraine",,Q21672098,,
+Monastyrok,Monastyrok zapovednik,Q30963568,1,0,1,"protected tract in Cherkasy Oblast, Ukraine",Monastyrok,Q473972,,
+Monastyrok,Monastyrok,Q12124367,1,0,1,,,Q15642541,,
+Monastyrok,Monastirok,Q4301399,1,0,1,"village in Zhovkva Raion, Lviv Oblast, Ukraine",,Q21672098,,
+Monastyrok,Monastirok,Q4301572,1,0,1,"village in Nemyriv Raion, Vinnytsia Oblast, Ukraine",,Q21672098,,"Monastyrok, Vinnytsia Oblast"
+Monastyrok,Monastirok,Q4301395,1,0,1,"village in Romaniv Raion, Zhytomyr Oblast, Ukraine",,Q21672098,,
+Cherkasy Raion,Cherkasy Raion,Q103796930,1,1,1,"raion in Cherkasy Oblast, Ukraine (established in 2020)",Cherkasy District|Cherkaskyi Raion|Cherkaskyi District|Cherkassky Raion|Cherkassky District,Q1267632,,Cherkasy Raion
+Cherkasy Raion,Cherkasy Raion,Q2342372,1,1,1,"former raion in Cherkasy Oblast, Ukraine",Cherkaskyi raion,Q114072597,,
+Cherkasy Raion,flag of Cherkasy Raion,Q28704710,1,1,1,,Cherkasy Raion flag,Q22807280,,
+Ilim,Ilim,Q25906918,2,0,1,"village in Lanny Jaya Regency, Highland Papua, Indonesia",,Q12488913|Q26211545,,
+Ilim,Ilim,Q133355067,2,0,1,researcher,,Q5,,
+Ilim,Ilim,Q1418910,2,0,1,"river in Irkutsk Oblast, Russia",Ilim River,Q4022,,Ilim
+Ilim,science,Q336,2,0,1,"systematic endeavor that builds and organizes knowledge, and the set of knowledge produced by this system",sciences|general science|scientific knowledge|empirical sciences,Q11862829|Q8027727,Q105948247|Q9081|Q221173|Q9471|Q42240|Q105606485,Science
+Ilim,Ilim,Q4199263,2,0,1,Russian company,,Q4830453,,
+Ilim,Ilimbav,Q753210,2,0,1,"village in Sibiu County, Romania",,Q532,,
+Ilim,Ilim,Q36222927,2,0,1,"river in Sverdlovsk Oblast, Russia",,Q4022,,
+Ilim,Ilim,Q25617193,2,0,1,"river in Ulyanovsk and Penza Oblasts, Russia",Ilem,Q4022,,
+Ilim,Ilim,Q83641214,2,0,1,ship built in 1972,IMO 7227982,Q11446,,
+Ilim,İlim Irmak,Q88742516,2,0,1,Turkish researcher,,Q5,,
+Ilim,Ilimsk,Q1988364,2,0,2,"former village in Nizhneilimsky District, Irkutsk Oblast, Russia",Ilimsk ostrog,Q532|Q22674925,,Ilimsk
+Ilim,Ilimskaya,Q96624205,2,0,2,,,Q28109487,,
+Ilim,Ilimskiy Khrebet,Q31684590,2,0,2,,,Q46831,,
+Ilim,Ilimsk Uyezd,Q130616450,2,0,2,,Ilimsky Uyezd,Q1364324,,
+Ilim,Ilimskiy Khrebet,Q31685720,2,0,2,,,Q46831,,
+Ilim,Ilimskaya Karda,Q37754523,2,0,2,river in Russia,,Q4022,,
+Sverdlovsk Oblast,Sverdlovsk Oblast,Q5462,2,1,1,"oblast and federal subject in Ural Federal District, Russia",,Q835714|Q43263,,Sverdlovsk Oblast
+Sverdlovsk Oblast,government of Sverdlovsk Oblast,Q21644335,2,1,1,regional government in Russia,the Sverdlovsk Oblast government|Sverdlovsk Oblast government,Q1802419,,
+Sverdlovsk Oblast,Court of Sverdlovsk Oblast,Q64147827,2,1,1,Russian general jurisdiction court,Sverdlovsk Oblast Court,Q4445533,,
+Sverdlovsk Oblast,flag of Sverdlovsk Oblast,Q594095,2,1,1,regional flag of Russia,Sverdlovsk Oblast flag,Q14660,,
+Sverdlovsk Oblast,2020 COVID-19 pandemic in Sverdlovsk Oblast,Q88782153,2,1,1,,"2020 coronavirus outbreak in Sverdlovsk Oblast|2020 Sverdlovsk Oblast COVID-19 pandemic|Sverdlovsk Oblast COVID-19 pandemic|2020 COVID pandemic in Sverdlovsk Oblast|2020 COVID-19 pandemic in Sverdlovsk Oblast, Russia|COVID-19 pandemic in Sverdlovsk Oblast, Russia",Q3241045,,
+Sverdlovsk Oblast,coat of arms of Sverdlovsk Oblast,Q1984579,2,1,1,regional coat of arms of Russia,Sverdlovsk Oblast coat of arms,Q14659,,
+Sverdlovsk Oblast,music of Sverdlovsk Oblast,Q106626798,2,1,1,,Sverdlovsk Oblast music|music in Sverdlovsk Oblast,Q75054287,Q2498201,
+Sverdlovsk Oblast,tourism in Sverdlovsk Oblast,Q96739754,2,1,1,,tourism of Sverdlovsk Oblast|Sverdlovsk Oblast tourism,Q98374854,,
+Sverdlovsk Oblast,Bashkir in Sverdlovsk Oblast,Q16535907,2,1,1,,,Q41710,,
+Sverdlovsk Oblast,Sverdlovsk Regional Natural History Museum,Q4410161,2,1,2,"museum in Yekaterinburg, Russia",Sverdlovsk Regional Museum of Local Lore,Q1595639|Q1970365|Q1081138,,Sverdlovsk Regional Museum of Local Lore
+Sverdlovsk Oblast,Sverdlovsk regional committee of CPSU,Q4410157,2,1,2,,,Q4329294,,
+Sverdlovsk Oblast,Sverdlovsk Regional Medical College,Q16695221,2,1,2,,,Q189004,,
+Sverdlovsk Oblast,Sverdlovsk regional universal scientific library named after V. G. Belinsky,Q4410143,2,1,2,library,Sverdlovskai︠a︡ oblastnai︠a︡ nauchnai︠a︡ biblioteka im. V.G. Belinskogo|Belinsky Library (Sverdlovsk),Q7075|Q856584|Q2319498,,
+Upkankul,Upkankul,Q1050384,3,0,1,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",,Q5084,,Upkankul
+Upkankul,Upkankulevsky selsoviet,Q4476298,3,0,1,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",Upkankul,Q634099,,
+Upkankul,Upkankul,Q4476301,3,0,1,"lake in Bashkortostan, Russia",,Q23397|Q1959314,,
+Upkankul,Upkankul,Q106112797,3,0,1,,,Q37813|Q166735|Q15642541,,
+Upkankul,Lake Upkany-Kul,Q4476302,3,0,1,lake in Russia,,Q23397|Q1959314,,
+Upkankul,Askinsky District,Q390284,3,0,2,municipal district in Russia,Askinskiy Rayon,Q2198484|Q20719675,,Askinsky District
+Upkankul,flag of Askinsky District,Q4485415,3,0,2,,Askinsky District flag,Q21850100,,
+Askinsky District,Askinsky District,Q390284,3,1,1,municipal district in Russia,Askinskiy Rayon,Q2198484|Q20719675,,Askinsky District
+Askinsky District,flag of Askinsky District,Q4485415,3,1,1,,Askinsky District flag,Q21850100,,
+Askinsky District,Askinsky selsoviet,Q4071307,3,1,2,"human settlement in Askinsky District, Republic of Bashkortostan, Russia",Askinsky selsovet|Askino,Q634099,,
+Askinsky District,Askinsky Museum of History and Local Lore,Q115001063,3,1,2,museum,,Q33506,,
+Kastenberg,Kastenberg,Q21861928,4,0,1,hill / field name in the Waldviertel in Lower Austria,,Q8502|Q125505344,,
+Kastenberg,Kastenberg,Q134542713,4,0,1,"village in the municipality of Handenberg, district of Braunau",,Q11183787,,
+Kastenberg,Kastenberg,Q121359824,4,0,1,,,Q123705|Q253019|Q5084,,
+Kastenberg,Kästenberg,Q130370052,4,0,1,,,Q8502,,
+Kastenberg,Kastenberg,Q15116369,4,0,1,human settlement in Germany,,Q486972,,
+Kastenberg,Kastenberg,Q126597195,4,0,1,,,Q1138414|Q253019,,
+Kastenberg,Kastenbergtal,Q9209015,4,0,1,"valley in Poprad District, Slovakia",,Q39816,,
+Kastenberg,Kastenberg,Q1735445,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kastenberg,Johann Kastenberger,Q86651,4,0,1,bank robber (1958-1988),,Q5,,Johann Kastenberger
+Kastenberg,Kastenberg (Erbschlö-Linde),Q15116368,4,0,1,human settlement in Germany,,Q350895,,
+Hardegg,Hardegg,Q69670533,4,1,1,cadastral municipality in Leibnitz District,,Q17376095,,
+Hardegg,Hardegg,Q92098745,4,1,1,family name,,Q101352,,
+Hardegg,Hardegg,Q524727,4,1,1,"municipality in Hollabrunn District, Lower Austria, Austria",,Q667509|Q13539802,,Hardegg
+Hardegg,Hardegg,Q593486,4,1,1,noble family,,Q13417114,,
+Hardegg,Hardegger,Q76411565,4,1,1,family name,,Q101352,,
+Hardegg,Hardegg,Q113551730,4,1,1,"locality in Hollabrunn District, Austria",,Q11183787,,
+Hardegg,Hardegg,Q23858064,4,1,1,article in Otto's encyclopedia,,Q13433827,,
+Hardegg,Hardegger,Q107536984,4,1,1,,,Q5,,
+Hardegg,Hardegg Castle,Q681948,4,1,1,rocca,Hardegg (hrad),Q23413|Q33506,,Burg Hardegg
+Hardegg,Hardegg,Q77581864,4,1,1,"locality in St. Veit an der Glan District, Austria",Hardegg (Liebenfels),Q11183787,,
+Hardegg,Kastenberg,Q21861928,4,1,2,hill / field name in the Waldviertel in Lower Austria,,Q8502|Q125505344,,
+Hardegg,Kastenberg,Q134542713,4,1,2,"village in the municipality of Handenberg, district of Braunau",,Q11183787,,
+Hardegg,Kastenberg,Q121359824,4,1,2,,,Q123705|Q253019|Q5084,,
+Hardegg,Kästenberg,Q130370052,4,1,2,,,Q8502,,
+Hardegg,Kastenberg,Q15116369,4,1,2,human settlement in Germany,,Q486972,,
+Hardegg,Kastenberg,Q126597195,4,1,2,,,Q1138414|Q253019,,
+Hardegg,Kastenbergtal,Q9209015,4,1,2,"valley in Poprad District, Slovakia",,Q39816,,
+Hardegg,Kastenberg,Q1735445,4,1,2,Wikimedia disambiguation page,,Q4167410,,
+Hardegg,Johann Kastenberger,Q86651,4,1,2,bank robber (1958-1988),,Q5,,Johann Kastenberger
+Hardegg,Kastenberg (Erbschlö-Linde),Q15116368,4,1,2,human settlement in Germany,,Q350895,,
+Am Horn,Am Horn,Q100545760,5,0,1,"street in Weimar, Thuringia, Germany",,Q79007,,
+Am Horn,Am Horn,Q21880580,5,0,1,toponym in the Zillertal Alps in Tyrol,,Q125505344,,
+Am Horn,Am Horn,Q104094902,5,0,1,"street in Schleusingen, Thuringia, Germany",,Q79007,,
+Am Horn,Nancy Horner,Q1689810,5,0,1,badminton player and author,Nancy Smith|Mrs. A. M. Horner|A. M. Horner|AM Horner|A M Horner,Q5,,Nancy Horner
+Am Horn,Am Hörn,Q109743837,5,0,1,"street in Scharbeutz, Schleswig-Holstein, Germany",,Q79007,,
+Am Horn,Am Hörn,Q106259465,5,0,1,"street in Lübeck, Schleswig-Holstein, Germany",,Q79007,,
+Am Horn,Am Hörn,Q110232639,5,0,1,"street in Ascheberg (Holstein), Schleswig-Holstein, Germany",,Q79007,,
+Am Horn,Am Hornsberg,Q72661327,5,0,1,"street in Dresden, Germany",,Q79007,,
+Am Horn,Am Hornpottweg,Q1970815,5,0,1,"nature reserve in Cologne, North Rhine-Westphalia, Germany",,Q759421|Q473972,,
+Am Horn,Am Hornbach,Q100965758,5,0,1,"street in Münster, North Rhine-Westphalia, Germany",,Q79007,,
+Am Horn,Finkenberg,Q679897,5,0,2,"municipality in Schwaz District, Tyrol, Austria",,Q1802801|Q667509,,Finkenberg
+Am Horn,Finkenberg,Q30753950,5,0,2,"Hill in Saxony, Germany",,Q54050,,
+Am Horn,Finkenberg,Q21879841,5,0,2,human settlement in Schwaz District,,Q486972,,
+Am Horn,Finkenberg,Q125978772,5,0,2,family name,,Q101352,,
+Am Horn,Finkenberg,Q652822,5,0,2,"city quarter no. 716 of Cologne, Germany",Köln-Finkenberg|Cologne-Finkenberg,Q15632166|Q2983893,,
+Am Horn,Finkenberg,Q1417435,5,0,2,"hill in Bonn, Germany",,Q8502,,
+Am Horn,Finkenberg,Q30752815,5,0,2,hill in Germany,,Q54050,,
+Am Horn,Finkenberg,Q62093885,5,0,2,"protected landscape in Ennigerloh, Germany",,Q21503788,,
+Am Horn,Finkenberg,Q1417438,5,0,2,"mountain near Hildesheim, Germany",Finkenberg (Hildesheim),Q8502,,
+Am Horn,Finkenberg,Q30753208,5,0,2,mountain in Germany,,Q8502,,
+Am Horn,Zillertal Alps,Q203151,5,0,2,mountain range,,Q3965305,,Zillertal Alps
+Finkenberg,Finkenberg,Q679897,5,1,1,"municipality in Schwaz District, Tyrol, Austria",,Q1802801|Q667509,,Finkenberg
+Finkenberg,Finkenberg,Q30753950,5,1,1,"Hill in Saxony, Germany",,Q54050,,
+Finkenberg,Finkenberg,Q21879841,5,1,1,human settlement in Schwaz District,,Q486972,,
+Finkenberg,Finkenberg,Q125978772,5,1,1,family name,,Q101352,,
+Finkenberg,Finkenberg,Q652822,5,1,1,"city quarter no. 716 of Cologne, Germany",Köln-Finkenberg|Cologne-Finkenberg,Q15632166|Q2983893,,
+Finkenberg,Finkenberg,Q1417435,5,1,1,"hill in Bonn, Germany",,Q8502,,
+Finkenberg,Finkenberg,Q30752815,5,1,1,hill in Germany,,Q54050,,
+Finkenberg,Finkenberg,Q62093885,5,1,1,"protected landscape in Ennigerloh, Germany",,Q21503788,,
+Finkenberg,Finkenberg,Q1417438,5,1,1,"mountain near Hildesheim, Germany",Finkenberg (Hildesheim),Q8502,,
+Finkenberg,Finkenberg,Q30753208,5,1,1,mountain in Germany,,Q8502,,
+Zillertal Alps,Zillertal Alps,Q203151,5,2,1,mountain range,,Q3965305,,Zillertal Alps
+Zillertal Alps,Am Horn,Q100545760,5,2,2,"street in Weimar, Thuringia, Germany",,Q79007,,
+Zillertal Alps,Am Horn,Q21880580,5,2,2,toponym in the Zillertal Alps in Tyrol,,Q125505344,,
+Zillertal Alps,Am Horn,Q104094902,5,2,2,"street in Schleusingen, Thuringia, Germany",,Q79007,,
+Zillertal Alps,Nancy Horner,Q1689810,5,2,2,badminton player and author,Nancy Smith|Mrs. A. M. Horner|A. M. Horner|AM Horner|A M Horner,Q5,,Nancy Horner
+Zillertal Alps,Am Hörn,Q109743837,5,2,2,"street in Scharbeutz, Schleswig-Holstein, Germany",,Q79007,,
+Zillertal Alps,Am Hörn,Q106259465,5,2,2,"street in Lübeck, Schleswig-Holstein, Germany",,Q79007,,
+Zillertal Alps,Am Hörn,Q110232639,5,2,2,"street in Ascheberg (Holstein), Schleswig-Holstein, Germany",,Q79007,,
+Zillertal Alps,Am Hornsberg,Q72661327,5,2,2,"street in Dresden, Germany",,Q79007,,
+Zillertal Alps,Am Hornpottweg,Q1970815,5,2,2,"nature reserve in Cologne, North Rhine-Westphalia, Germany",,Q759421|Q473972,,
+Zillertal Alps,Am Hornbach,Q100965758,5,2,2,"street in Münster, North Rhine-Westphalia, Germany",,Q79007,,
+Zillertal Alps,Finkenberg,Q679897,5,2,2,"municipality in Schwaz District, Tyrol, Austria",,Q1802801|Q667509,,Finkenberg
+Zillertal Alps,Finkenberg,Q30753950,5,2,2,"Hill in Saxony, Germany",,Q54050,,
+Zillertal Alps,Finkenberg,Q21879841,5,2,2,human settlement in Schwaz District,,Q486972,,
+Zillertal Alps,Finkenberg,Q125978772,5,2,2,family name,,Q101352,,
+Zillertal Alps,Finkenberg,Q652822,5,2,2,"city quarter no. 716 of Cologne, Germany",Köln-Finkenberg|Cologne-Finkenberg,Q15632166|Q2983893,,
+Zillertal Alps,Finkenberg,Q1417435,5,2,2,"hill in Bonn, Germany",,Q8502,,
+Zillertal Alps,Finkenberg,Q30752815,5,2,2,hill in Germany,,Q54050,,
+Zillertal Alps,Finkenberg,Q62093885,5,2,2,"protected landscape in Ennigerloh, Germany",,Q21503788,,
+Zillertal Alps,Finkenberg,Q1417438,5,2,2,"mountain near Hildesheim, Germany",Finkenberg (Hildesheim),Q8502,,
+Zillertal Alps,Finkenberg,Q30753208,5,2,2,mountain in Germany,,Q8502,,
+Brandsberg,Brandsberg,Q21875626,6,0,1,local name in Lower Austria,,Q125505344,,
+Brandsberg,Brandsberg,Q21875776,6,0,1,hill in Lower Austria,,Q8502,,
+Brandsberg,Brandsberg-Dahls Arkitekter,Q64218405,6,0,1,,,Q4387609,,
+Brandsberg,Brandsberg,Q21617970,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Hollabrunn,Hollabrunn,Q624352,6,1,1,"capital of Hollabrunn District, Lower Austria, Austria",Oberhollabrunn,Q667509|Q13539802,,Hollabrunn
+Hollabrunn,Hollabrunn,Q95994261,6,1,1,human settlement in Neunkirchen District,,Q486972,,
+Hollabrunn,Hollabrunn District,Q694349,6,1,1,district of Austria,,Q871419,,Hollabrunn District
+Hollabrunn,Hollabrunn station,Q100733684,6,1,1,railway station in Lower Austria,,Q55488,,
+Hollabrunn,Hollabrunn,Q21879680,6,1,1,"locality in Hollabrunn District, Austria",,Q11183787|Q15303838,,
+Hollabrunn,Hollabrunnella,Q89492431,6,1,1,fossil snail,,Q23038290,,
+Hollabrunn,Hollabrunn,Q136651511,6,1,1,"cadastral municipality in Hollabrunn District, Austria",,Q17376095,,
+Hollabrunn,Hollabrunnella hollabrunnensis,Q106239367,6,1,1,species of mollusc,,Q23038290,,
+Hollabrunn,Hollabrunn Armenhaus,Q37895683,6,1,1,hospital in Austria,,Q16917|Q64578911,,
+Hollabrunn,Hollabrunn Erzbischöfliches Knabenseminar,Q759506,6,1,1,gymnasium,,Q55043|Q1244442,,
+Lange Grube,Lange Grube,Q62027032,7,0,1,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Lange Grube,Lange Grube,Q21861341,7,0,1,field name in the Dachstein mountains in Upper Austria,,Q125505344,,
+Lange Grube,Dachstein Giant Ice Cave,Q23286,7,0,2,cave in Austria,Dachstein Ice Caves|Eishöhle,Q35509,,
+Obertraun,Obertraun,Q612212,7,1,1,"municipality in Gmunden District, Upper Austria, Austria",,Q1802801|Q667509,,Obertraun
+Obertraun,Obertraun,Q21879538,7,1,1,,,Q11183787,,
+Obertraun,Obertraun,Q134317275,7,1,1,"cadastral municipality in Gmunden district, Austria",,Q17376095,,
+Obertraun,Obertraun-Dachsteinhöhlen railway station,Q107020886,7,1,1,"railway station in Obertraun, Austria",,Q55488,,
+Obertraun,Obertraun Catholic Cemetery,Q128419693,7,1,1,cemetery in Upper Austria,,Q39614,,
+Obertraun,Obertraun-Koppenbrüllerhöhle railway station,Q111166817,7,1,1,railway stop in Austria,,Q55678,,
+Obertraun,Obertraun Protestant Cemetery,Q128419692,7,1,1,cemetery in Upper Austria,,Q39614,,
+Obertraun,Obertraun Municipal Office,Q134426562,7,1,1,"municipal office of Obertraun, Austria",,Q1500368,,
+Obertraun,Obertraun,Q29450564,7,1,1,Wikimedia disambiguation page,,Q4167410,,
+Obertraun,Dachstein Mountains,Q261664,7,1,2,mountain range,,Q46831,,Dachstein Mountains
+Obertraun,Lange Grube,Q62027032,7,1,2,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Obertraun,Lange Grube,Q21861341,7,1,2,field name in the Dachstein mountains in Upper Austria,,Q125505344,,
+Dachstein Mountains,Dachstein Mountains,Q261664,7,2,1,mountain range,,Q46831,,Dachstein Mountains
+Dachstein Mountains,Dachstein,Q22775,7,2,2,"commune in Bas-Rhin, France",,Q484170,,"Dachstein, Bas-Rhin"
+Dachstein Mountains,Dachstein,Q112262704,7,2,2,family name,,Q101352,,
+Dachstein Mountains,Dachstein,Q1156804,7,2,2,massif,,Q3977906,,Dachstein Massif
+Dachstein Mountains,Dachsteinlied,Q1156801,7,2,2,Styrian local anthem,,Q523896,,
+Dachstein Mountains,Dachsteinsüdwandbahn,Q14549117,7,2,2,,,Q811979,,
+Dachstein Mountains,Dachstein,Q31547622,7,2,2,"mountain in Svalbard, Norway",,Q8502,,
+Dachstein Mountains,Dachstein,Q18986504,7,2,2,"street in Amsterdam, the Netherlands",,Q79007,,
+Dachstein Mountains,Dachsteinblick,Q22004858,7,2,2,summit in the Höllengebirge in Upper Austria,,Q8502,,
+Dachstein Mountains,Dachstein and Erlaufsee,Q111648229,7,2,2,painting by Josef Zahardniczek (1813-1844),,Q3305213,,
+Dachstein Mountains,Lange Grube,Q62027032,7,2,2,"nature reserve in Baden-Württemberg, Germany",,Q759421|Q473972,,
+Dachstein Mountains,Lange Grube,Q21861341,7,2,2,field name in the Dachstein mountains in Upper Austria,,Q125505344,,
+Dachstein Mountains,Obertraun,Q612212,7,2,2,"municipality in Gmunden District, Upper Austria, Austria",,Q1802801|Q667509,,Obertraun
+Dachstein Mountains,Obertraun,Q21879538,7,2,2,,,Q11183787,,
+Dachstein Mountains,Obertraun,Q134317275,7,2,2,"cadastral municipality in Gmunden district, Austria",,Q17376095,,
+Dachstein Mountains,Obertraun-Dachsteinhöhlen railway station,Q107020886,7,2,2,"railway station in Obertraun, Austria",,Q55488,,
+Dachstein Mountains,Obertraun Catholic Cemetery,Q128419693,7,2,2,cemetery in Upper Austria,,Q39614,,
+Dachstein Mountains,Obertraun-Koppenbrüllerhöhle railway station,Q111166817,7,2,2,railway stop in Austria,,Q55678,,
+Dachstein Mountains,Obertraun Protestant Cemetery,Q128419692,7,2,2,cemetery in Upper Austria,,Q39614,,
+Dachstein Mountains,Obertraun Municipal Office,Q134426562,7,2,2,"municipal office of Obertraun, Austria",,Q1500368,,
+Dachstein Mountains,Obertraun,Q29450564,7,2,2,Wikimedia disambiguation page,,Q4167410,,
+Burg,Burg,Q1010638,8,0,1,family name,,Q101352,,Burg (surname)
+Burg,Burg,Q1092733,8,0,1,"commune in Hautes-Pyrénées, France",,Q484170,,"Burg, Hautes-Pyrénées"
+Burg,Burgos,Q9580,8,0,1,"municipality in Castile and Leon, Spain",,Q2074737,,Burgos
+Burg,deserted castle site,Q1015644,8,0,1,"site of a former castle or castle construction site, of which less remains than ruins; German-language expression",castle site|defunct castle|lost castle|former castle site|burgstall,,Q109607|Q839954|Q19860854|Q23413,Burgstall
+Burg,Burg,Q525632,8,0,1,"municipality in Saxony-Anhalt, Germany",Burg bei Magdeburg|Burg (bei Magdeburg)|Burg (b Magdeburg)|Stadt Burg,Q42744322|Q134626|Q15303838,,Burg bei Magdeburg
+Burg,Burg,Q21143286,8,0,1,given name,Burg (given name)|Burg (first name),Q202444,,
+Burg,Burgas,Q6509,8,0,1,"city in Burgas municipality, Burgas oblast, Bulgaria",Bourgas,Q1549591|Q15303838|Q15344922|Q89487741,,Burgas
+Burg,Burg,Q11910184,8,0,1,"human settlement in Farrera, Pallars Sobirà, Alt Pirineu i Aran, Spain",,Q3055118|Q121289819|Q130261443,,
+Burg,Burgess,Q16275119,8,0,1,family name,,Q101352,,Burgess (surname)
+Burg,Burglengenfeld,Q589515,8,0,1,municipality of Germany,,Q42744322,,Burglengenfeld
+Schnepfau,Schnepfau,Q267980,8,1,1,"municipality in Bregenz District, Vorarlberg, Austria",,Q667509|Q1802801,,Schnepfau
+Schnepfau,Schnepfau,Q140987119,8,1,1,"municipality seat of the municipality of Schepfau, Vorarlberg, Austria",,Q532|Q15303838,,
+Schnepfau,Schnepfau,Q125788713,8,1,1,"cadastral community in Schnepfau, Vorarlberg, Austria",,Q17376095,,
+Wachtberg,Wachtberg,Q253498,9,0,1,"municipality in Rhein-Sieg District, in North Rhine-Westphalia, Germany",,Q116457956,,Wachtberg
+Wachtberg,Wachtberg,Q21863812,9,0,1,"mountain in Lower Austria, municipality Artstetten-Pöbring",,Q8502,,
+Wachtberg,Wachtberg,Q21875667,9,0,1,"mountain in Lower Austria, municipality Ernstbrunn",,Q8502,,
+Wachtberg,Wachtberg,Q21861848,9,0,1,"mountain in Lower Austria, municipality Raabs an der Thaya",,Q8502,,
+Wachtberg,Wachtberg,Q28657288,9,0,1,mountain in the Lusatian Uplands,,Q8502|Q21573182,,
+Wachtberg,Wachtberg,Q55409803,9,0,1,human settlement in Amstetten District,,Q486972,,
+Wachtberg,Wachtberg,Q63351707,9,0,1,locality in Gmünd District,,Q11183787,,
+Wachtberg,Wachtberg,Q21881753,9,0,1,mountain in the Salzkammergut-Berge in Upper Austria,,Q8502,,
+Wachtberg,Wachtberg,Q21875051,9,0,1,"hill in Flachgau, Salzburg",,Q8502,,
+Wachtberg,Wachtberg,Q12537804,9,0,1,"locality in Melk District, Austria",,Q11183787,,
+Wachtberg,Gaweinstal,Q666556,9,0,2,"municipality in Mistelbach District, Lower Austria, Austria",,Q562061|Q667509,,Gaweinstal
+Wachtberg,Gaweinstal,Q21880313,9,0,2,"locality in Mistelbach District, Austria",,Q11183787|Q15303838,,
+Wachtberg,Gaweinstal,Q136651210,9,0,2,"cadastral community in Mistelbach District, Austria",,Q17376095,,
+Wachtberg,Bahnhof Gaweinstal,Q111703328,9,0,2,railway station in Austria,,Q55488,,
+Wachtberg,Gaweinstal,Q23645714,9,0,2,Wikimedia disambiguation page,,Q4167410,,
+Gaweinstal,Gaweinstal,Q666556,9,1,1,"municipality in Mistelbach District, Lower Austria, Austria",,Q562061|Q667509,,Gaweinstal
+Gaweinstal,Gaweinstal,Q21880313,9,1,1,"locality in Mistelbach District, Austria",,Q11183787|Q15303838,,
+Gaweinstal,Gaweinstal,Q136651210,9,1,1,"cadastral community in Mistelbach District, Austria",,Q17376095,,
+Gaweinstal,Bahnhof Gaweinstal,Q111703328,9,1,1,railway station in Austria,,Q55488,,
+Gaweinstal,Gaweinstal,Q23645714,9,1,1,Wikimedia disambiguation page,,Q4167410,,
+Lazareva,Lazareva,Q76545363,10,0,1,female family name (Lazareva),Лазарева,Q101352|Q18972207,,
+Lazareva,Lazar's Cave,Q25048156,10,0,1,longest cave in Serbia,Zlotska Cave|Lazareva Cave|Zlot Cave,Q2232001|Q35509,,Lazareva Pećina
+Lazareva,Lazarevac,Q714606,10,0,1,"municipality of Belgrade, Serbia",,Q515|Q56061|Q1267939,,Lazarevac
+Lazareva,Lazareva,Q21489760,10,0,1,,Lazareva Mountain|Kupol Lazareva,Q8502,,
+Lazareva,E.P. Lazareva,Q36547097,10,0,1,botanist,Lazareva,Q5,,
+Lazareva,Lazareva,Q105929873,10,0,1,,,Q22674925|Q15642541,,
+Lazareva,Lazarevac City Municipality,Q3471112,10,0,1,,,Q3976659|Q783930,,
+Lazareva,Mount Lazarev,Q31550207,10,0,1,mountains in Russia,Gory Lazareva|Gora Lazareva|Lazareva Mountains|Lazarev Mountains,Q8502|Q1437459,,Mount Lazarev
+Lazareva,Lazarevac railway station,Q31182303,10,0,1,railway station in Serbia,,Q55488,,
+Lazareva,sport in Lazarevac,Q7579453,10,0,1,,sports in Lazarevac|Lazarevac sports|sports of Lazarevac|sporting in Lazarevac,Q29791211,,
+Lazareva,Elena Lazareva,Q51669416,10,0,2,,Elena Aleksandrovna Lazareva,Q5,,
+Lazareva,Olga F Lazareva,Q92067519,10,0,2,researcher (ORCID 0000-0001-7360-740X),Olga Lazareva,Q5,,
+Kirensky District,Kirensky District,Q1653013,10,1,1,"municipal district in Irkutsk Oblast, Russia",,Q2198484,,Kirensky District
+Kirensky District,flag of Kirensky District,Q4486461,10,1,1,,Kirensky District flag,Q21850100,,
+Kirensky District,Kirensky Uyezd,Q16663551,10,1,2,uyezd of the Russian Empire,,Q18867465,,
+Kirensky District,Kirensky,Q16460605,10,1,2,Wikimedia disambiguation page,,Q4167410,,Kirensky
+Garmil,Garmil,Q21878355,11,0,1,"subpeak of Breithorn in the Lechquellen Mountains in Vorarlberg, Austria",Garmiel,Q3618634|Q12059057,,
+Garmil,Garmielsattel,Q139114015,11,0,1,"saddle in the Lechquellen Mountains in Vorarlberg, Austria",Garmil,Q10862618,,
+Garmil,Garmil,Q22628769,11,0,1,mountain in Switzerland,,Q8502,,
+Garmil,Garmil,Q106897899,11,0,1,,,Q3331189,,
+Garmil,Gaulden Manor,Q105774739,11,0,1,"former manorial estate in Tolland, Somerset",Garldon Manor|Gavelden Manor|Garmilden Manor,Q2116450,,
+Garmil,Garmillapalli Branch Post Office,Q71447218,11,0,1,,,Q61443690,,
+Garmil,Garmil,Q22179469,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Sonntag,Sonntag,Q700910,11,1,1,"municipality in Bludenz District, Vorarlberg, Austria",,Q667509|Q1802801,,"Sonntag, Austria"
+Sonntag,Sonntag,Q1280221,11,1,1,family name,,Q101352,,
+Sonntag,Sunday,Q132,11,1,1,day of the week,Sun|Su|U,Q41825,Q573|Q1445650,Sunday
+Sonntag,Sonntag aus Licht,Q7561983,11,1,1,opera by Karlheinz Stockhausen,Sonntag,Q58483083,,Sonntag aus Licht
+Sonntag,Sonntagberg,Q688709,11,1,1,"municipality in Amstetten District, Lower Austria, Austria",,Q562061|Q667509,,Sonntagberg
+Sonntag,Sonntag,Q7561984,11,1,1,song,,Q105543609,,Sonntag (song)
+Sonntag,Sonntag,Q21051502,11,1,1,GDR weekly newspaper,,Q2305295|Q11032,,
+Sonntag,Sonntag,Q127144561,11,1,1,Christian hymn text,,Q602446,,
+Sonntag,C.O. Sonntag,Q36531118,11,1,1,botanist,Sonntag,Q5,,
+Sonntag,Sonntag,Q125788645,11,1,1,"cadastral community in Sonntag, Vorarlberg, Austria",,Q17376095,,
+Lechquellen Mountains,Lechquellen Mountains,Q122641,11,2,1,"mountain range of the Alps in Vorarlberg, Austria",,Q46831|Q3965305,,Lechquellen Mountains
+Lechquellen Mountains,Garmil,Q21878355,11,2,2,"subpeak of Breithorn in the Lechquellen Mountains in Vorarlberg, Austria",Garmiel,Q3618634|Q12059057,,
+Lechquellen Mountains,Garmielsattel,Q139114015,11,2,2,"saddle in the Lechquellen Mountains in Vorarlberg, Austria",Garmil,Q10862618,,
+Lechquellen Mountains,Garmil,Q22628769,11,2,2,mountain in Switzerland,,Q8502,,
+Lechquellen Mountains,Garmil,Q106897899,11,2,2,,,Q3331189,,
+Lechquellen Mountains,Gaulden Manor,Q105774739,11,2,2,"former manorial estate in Tolland, Somerset",Garldon Manor|Gavelden Manor|Garmilden Manor,Q2116450,,
+Lechquellen Mountains,Garmillapalli Branch Post Office,Q71447218,11,2,2,,,Q61443690,,
+Lechquellen Mountains,Garmil,Q22179469,11,2,2,Wikimedia disambiguation page,,Q4167410,,
+Lechquellen Mountains,Sonntag,Q700910,11,2,2,"municipality in Bludenz District, Vorarlberg, Austria",,Q667509|Q1802801,,"Sonntag, Austria"
+Lechquellen Mountains,Sonntag,Q1280221,11,2,2,family name,,Q101352,,
+Lechquellen Mountains,Sunday,Q132,11,2,2,day of the week,Sun|Su|U,Q41825,Q573|Q1445650,Sunday
+Lechquellen Mountains,Sonntag aus Licht,Q7561983,11,2,2,opera by Karlheinz Stockhausen,Sonntag,Q58483083,,Sonntag aus Licht
+Lechquellen Mountains,Sonntagberg,Q688709,11,2,2,"municipality in Amstetten District, Lower Austria, Austria",,Q562061|Q667509,,Sonntagberg
+Lechquellen Mountains,Sonntag,Q7561984,11,2,2,song,,Q105543609,,Sonntag (song)
+Lechquellen Mountains,Sonntag,Q21051502,11,2,2,GDR weekly newspaper,,Q2305295|Q11032,,
+Lechquellen Mountains,Sonntag,Q127144561,11,2,2,Christian hymn text,,Q602446,,
+Lechquellen Mountains,C.O. Sonntag,Q36531118,11,2,2,botanist,Sonntag,Q5,,
+Lechquellen Mountains,Sonntag,Q125788645,11,2,2,"cadastral community in Sonntag, Vorarlberg, Austria",,Q17376095,,
+Mitterfeld,Mitterfeld,Q110888801,12,0,1,locality in Sankt Pölten District,,Q11183787,,
+Mitterfeld,Mitterfeld,Q98066968,12,0,1,locality in Urfahr-Umgebung District,,Q11183787,,
+Mitterfeld,Mitterfeld,Q64523586,12,0,1,part of Riedering,Mitterfeld (Riedering),Q253019,,
+Mitterfeld,Mitterfeld,Q119853874,12,0,1,field name in Freising (Upper Bavaria),"Mitterfeld, Freising",Q15642541,,
+Mitterfeld,Mitterfeld,Q136936544,12,0,1,cadastral community in Sankt Pölten District,,Q17376095,,
+Mitterfeld,Mitterfeldallee,Q64523537,12,0,1,"street in Unterföhring, Germany",,Q79007,,
+Mitterfeld,Mitterfeldalm,Q2132320,12,0,1,,,Q182676|Q2082774,,
+Mitterfeld,Mitterfeldstraße,Q134438084,12,0,1,street in Munich,"Mitterfeldstraße, Munich|Mitterfeldstraße (Munich)",Q79007,,
+Mitterfeld,Mitterfeldweg 2,Q41227594,12,0,1,"building in Hohenkammer, Upper Bavaria, Germany",,Q3947,,
+Mitterfeld,Mitterfeldstraße,Q116485607,12,0,1,"street in Ingolstadt, Bavaria, Germany",,Q79007,,
+Mitterfeld,Am Mitterfeld,Q119930988,12,0,2,"municipal road in Freising-Vötting (Upper Bavaria, Germany)","Am Mitterfeld, Freising|Mitterfeld, Freising",Q2032236,,
+Freising,Freising,Q6998,12,1,1,"town in Upper Bavaria, Germany",,Q85631896|Q448801|Q42744322|Q134626|Q34442,,Freising
+Freising,Freising,Q32017625,12,1,1,,,Q956214|Q253019,,
+Freising,Freising,Q106078445,12,1,1,family name,,Q101352,,
+Freising,District of Freising,Q10497,12,1,1,"district of Bavaria, Germany",Freising district,Q85482556,,Freising (district)
+Freising,Freising station,Q800785,12,1,1,railway halt in Germany,Freising,Q55488|Q22808404|Q1793804,,Freising station
+Freising,Freisinger Landstraße 3,Q80014536,12,1,1,"building in Garching bei München, Germany",,Q41176,,
+Freising,Freising Cathedral,Q262769,12,1,1,cathedral,,Q2977,,Freising Cathedral
+Freising,Freising,Q127430254,12,1,1,The mint(s) in the City of Freising (Bavaria),Mint of Freising,Q464780,,
+Freising,Freisinger Mitte,Q1454680,12,1,1,local party in Freising,FSM,Q7210356|Q9299236|Q57338471,,
+Freising,Freisinger Mitte im Stadtrat,Q107482348,12,1,1,parliamentary group in Freising,Fraktion Freisinger Mitte im Stadtrat,Q848197,,
+Freising,Am Mitterfeld,Q119930988,12,1,2,"municipal road in Freising-Vötting (Upper Bavaria, Germany)","Am Mitterfeld, Freising|Mitterfeld, Freising",Q2032236,,
+Freising,Mitterfeld,Q119853874,12,1,2,field name in Freising (Upper Bavaria),"Mitterfeld, Freising",Q15642541,,
+Schmalzgrube,Schmalzgrube,Q21865510,13,0,1,toponym in the Ankogel Group in Salzburg,,Q125505344,,
+Schmalzgrube,Schmalzgrube,Q104439571,13,0,1,"part of Solingen, Germany",,Q123705,,
+Schmalzgrube,Schmalzgrube,Q2245818,13,0,1,"human settlement in Jöhstadt, Germany",,Q253019,,
+Schmalzgrube,Schmalzgrube,Q93441359,13,0,1,"human settlement in Hartberg-Fürstenfeld District, Styria",,Q486972,,
+Schmalzgrube,Schmalzgrube railway station,Q108777083,13,0,1,"railway station in Schmalzgrube, Germany",,Q55488,,
+Schmalzgrube,Schmalzgrube,Q19308776,13,0,1,"part of Bergisch Gladbach, Germany",,Q253019,,
+Schmalzgrube,Schmalzgrube,Q125728615,13,0,1,"locality in Hermagor District, Austria",,Q11183787,,
+Schmalzgrube,Schmalzgrube,Q104160423,13,0,1,"street in Bad Berka, Thuringia, Germany",,Q79007,,
+Schmalzgrube,Schmalzgrube,Q104129036,13,0,1,"street in Kaltennordheim, Thuringia, Germany",,Q79007,,
+Schmalzgrube,Hintere Schmalzgrubenspitze,Q21865511,13,0,1,"main peak of Schmalzgrubenspitzen in the Lechtal Alps in Tyrol, Austria",Schmalzgrubenspitze,Q111177881|Q233165|Q3393392,,
+Schmalzgrube,Muhr,Q238488,13,0,2,"municipality in Tamsweg District, Salzburg, Austria",,Q1802801|Q667509,,Muhr
+Schmalzgrube,Muhr,Q35153999,13,0,2,family name,,Q101352,,
+Schmalzgrube,Muhr am See,Q267993,13,0,2,"municipality in the district of Weißenburg-Gunzenhausen, Middle Franconia, Germany",Muhr a.See,Q116457956,,Muhr am See
+Schmalzgrube,Lars-Erik Muhr,Q21339353,13,0,2,Swedish mycologist and lichenoloist,Muhr,Q5,,
+Schmalzgrube,Julius Muhr,Q127540,13,0,2,German painter (1819–1865),Muhr,Q5,,
+Schmalzgrube,Mühren,Q56539944,13,0,2,family name,Mühren (family name)|Mühren (surname),Q101352,,Mühren
+Schmalzgrube,Muhrén,Q84764594,13,0,2,family name,Muhrén (family name)|Muhrén (surname),Q101352,,
+Schmalzgrube,Mühry,Q84940783,13,0,2,family name,Mühry (family name)|Mühry (surname),Q101352,,
+Schmalzgrube,Muhren,Q84764568,13,0,2,family name,,Q101352,,
+Schmalzgrube,Muhri,Q25117518,13,0,2,"village in Fak Fak Regency, West Papua, Indonesia",,Q12488913|Q26211545,,
+Schmalzgrube,Ankogel Group,Q557440,13,0,2,mountain range,,Q46831,,Ankogel Group
+Muhr,Muhr,Q238488,13,1,1,"municipality in Tamsweg District, Salzburg, Austria",,Q1802801|Q667509,,Muhr
+Muhr,Muhr,Q35153999,13,1,1,family name,,Q101352,,
+Muhr,Muhr am See,Q267993,13,1,1,"municipality in the district of Weißenburg-Gunzenhausen, Middle Franconia, Germany",Muhr a.See,Q116457956,,Muhr am See
+Muhr,Lars-Erik Muhr,Q21339353,13,1,1,Swedish mycologist and lichenoloist,Muhr,Q5,,
+Muhr,Julius Muhr,Q127540,13,1,1,German painter (1819–1865),Muhr,Q5,,
+Muhr,Mühren,Q56539944,13,1,1,family name,Mühren (family name)|Mühren (surname),Q101352,,Mühren
+Muhr,Muhrén,Q84764594,13,1,1,family name,Muhrén (family name)|Muhrén (surname),Q101352,,
+Muhr,Mühry,Q84940783,13,1,1,family name,Mühry (family name)|Mühry (surname),Q101352,,
+Muhr,Muhren,Q84764568,13,1,1,family name,,Q101352,,
+Muhr,Muhri,Q25117518,13,1,1,"village in Fak Fak Regency, West Papua, Indonesia",,Q12488913|Q26211545,,
+Muhr,Schmalzgrube,Q21865510,13,1,2,toponym in the Ankogel Group in Salzburg,,Q125505344,,
+Muhr,Schmalzgrube,Q104439571,13,1,2,"part of Solingen, Germany",,Q123705,,
+Muhr,Schmalzgrube,Q2245818,13,1,2,"human settlement in Jöhstadt, Germany",,Q253019,,
+Muhr,Schmalzgrube,Q93441359,13,1,2,"human settlement in Hartberg-Fürstenfeld District, Styria",,Q486972,,
+Muhr,Schmalzgrube railway station,Q108777083,13,1,2,"railway station in Schmalzgrube, Germany",,Q55488,,
+Muhr,Schmalzgrube,Q19308776,13,1,2,"part of Bergisch Gladbach, Germany",,Q253019,,
+Muhr,Schmalzgrube,Q125728615,13,1,2,"locality in Hermagor District, Austria",,Q11183787,,
+Muhr,Schmalzgrube,Q104160423,13,1,2,"street in Bad Berka, Thuringia, Germany",,Q79007,,
+Muhr,Schmalzgrube,Q104129036,13,1,2,"street in Kaltennordheim, Thuringia, Germany",,Q79007,,
+Muhr,Hintere Schmalzgrubenspitze,Q21865511,13,1,2,"main peak of Schmalzgrubenspitzen in the Lechtal Alps in Tyrol, Austria",Schmalzgrubenspitze,Q111177881|Q233165|Q3393392,,
+Muhr,Ankogel Group,Q557440,13,1,2,mountain range,,Q46831,,Ankogel Group
+Ankogel Group,Ankogel Group,Q557440,13,2,1,mountain range,,Q46831,,Ankogel Group
+Ankogel Group,Ankogel,Q557416,13,2,2,mountain in the Ankogel Group at the border Carinthia / Salzburg,,Q8502,,Ankogel
+Ankogel Group,Ankogelbahn,Q557418,13,2,2,,,Q13409250,,
+Ankogel Group,Ankogelweg,Q111346342,13,2,2,"street in Tempelhof-Schöneberg district, Berlin, Germany",,Q79007,,
+Ankogel Group,Schmalzgrube,Q21865510,13,2,2,toponym in the Ankogel Group in Salzburg,,Q125505344,,
+Ankogel Group,Schmalzgrube,Q104439571,13,2,2,"part of Solingen, Germany",,Q123705,,
+Ankogel Group,Schmalzgrube,Q2245818,13,2,2,"human settlement in Jöhstadt, Germany",,Q253019,,
+Ankogel Group,Schmalzgrube,Q93441359,13,2,2,"human settlement in Hartberg-Fürstenfeld District, Styria",,Q486972,,
+Ankogel Group,Schmalzgrube railway station,Q108777083,13,2,2,"railway station in Schmalzgrube, Germany",,Q55488,,
+Ankogel Group,Schmalzgrube,Q19308776,13,2,2,"part of Bergisch Gladbach, Germany",,Q253019,,
+Ankogel Group,Schmalzgrube,Q125728615,13,2,2,"locality in Hermagor District, Austria",,Q11183787,,
+Ankogel Group,Schmalzgrube,Q104160423,13,2,2,"street in Bad Berka, Thuringia, Germany",,Q79007,,
+Ankogel Group,Schmalzgrube,Q104129036,13,2,2,"street in Kaltennordheim, Thuringia, Germany",,Q79007,,
+Ankogel Group,Hintere Schmalzgrubenspitze,Q21865511,13,2,2,"main peak of Schmalzgrubenspitzen in the Lechtal Alps in Tyrol, Austria",Schmalzgrubenspitze,Q111177881|Q233165|Q3393392,,
+Ankogel Group,Muhr,Q238488,13,2,2,"municipality in Tamsweg District, Salzburg, Austria",,Q1802801|Q667509,,Muhr
+Ankogel Group,Muhr,Q35153999,13,2,2,family name,,Q101352,,
+Ankogel Group,Muhr am See,Q267993,13,2,2,"municipality in the district of Weißenburg-Gunzenhausen, Middle Franconia, Germany",Muhr a.See,Q116457956,,Muhr am See
+Ankogel Group,Lars-Erik Muhr,Q21339353,13,2,2,Swedish mycologist and lichenoloist,Muhr,Q5,,
+Ankogel Group,Julius Muhr,Q127540,13,2,2,German painter (1819–1865),Muhr,Q5,,
+Ankogel Group,Mühren,Q56539944,13,2,2,family name,Mühren (family name)|Mühren (surname),Q101352,,Mühren
+Ankogel Group,Muhrén,Q84764594,13,2,2,family name,Muhrén (family name)|Muhrén (surname),Q101352,,
+Ankogel Group,Mühry,Q84940783,13,2,2,family name,Mühry (family name)|Mühry (surname),Q101352,,
+Ankogel Group,Muhren,Q84764568,13,2,2,family name,,Q101352,,
+Ankogel Group,Muhri,Q25117518,13,2,2,"village in Fak Fak Regency, West Papua, Indonesia",,Q12488913|Q26211545,,
+Gereut,Frassilongo,Q288314,14,0,1,Italian comune,Garait|Gereut|Fraxilongum,Q747074,,Frassilongo
+Gereut,Neubois,Q21535,14,0,1,"commune in Bas-Rhin, France",Gereuth,Q484170,,Neubois
+Gereut,Gereut,Q32029826,14,0,1,,,Q4421,,
+Gereut,Gereut,Q30691899,14,0,1,hill in Germany,,Q54050,,
+Gereut,Gereut,Q125727106,14,0,1,"street in Lahr/Schwarzwald, Germany",,Q79007,,
+Gereut,Gereut,Q119853857,14,0,1,field name in Freising (Upper Bavaria),"Gereuth|Gereut, Freising|Gereuth, Freising",Q15642541,,
+Gereut,Gereuter,Q107450708,14,0,1,family name,,Q101352,,
+Gereut,Arbesbach,Q629647,14,0,1,river in Vienna,Sieveringerbach|Erbsenbach|Gereutebach,Q4022,,Arbesbach (river)
+Gereut,Gereuth (Untermerzbach),Q52835843,14,0,1,human settlement in Germany,,Q486972|Q253019|Q378636,,
+Gereut,Gereuth,Q22692018,14,0,1,human settlement in Germany,,Q253019,,
+Freising,Freising,Q6998,14,1,1,"town in Upper Bavaria, Germany",,Q85631896|Q448801|Q42744322|Q134626|Q34442,,Freising
+Freising,Freising,Q32017625,14,1,1,,,Q956214|Q253019,,
+Freising,Freising,Q106078445,14,1,1,family name,,Q101352,,
+Freising,District of Freising,Q10497,14,1,1,"district of Bavaria, Germany",Freising district,Q85482556,,Freising (district)
+Freising,Freising station,Q800785,14,1,1,railway halt in Germany,Freising,Q55488|Q22808404|Q1793804,,Freising station
+Freising,Freisinger Landstraße 3,Q80014536,14,1,1,"building in Garching bei München, Germany",,Q41176,,
+Freising,Freising Cathedral,Q262769,14,1,1,cathedral,,Q2977,,Freising Cathedral
+Freising,Freising,Q127430254,14,1,1,The mint(s) in the City of Freising (Bavaria),Mint of Freising,Q464780,,
+Freising,Freisinger Mitte,Q1454680,14,1,1,local party in Freising,FSM,Q7210356|Q9299236|Q57338471,,
+Freising,Freisinger Mitte im Stadtrat,Q107482348,14,1,1,parliamentary group in Freising,Fraktion Freisinger Mitte im Stadtrat,Q848197,,
+Freising,Frassilongo,Q288314,14,1,2,Italian comune,Garait|Gereut|Fraxilongum,Q747074,,Frassilongo
+Freising,Neubois,Q21535,14,1,2,"commune in Bas-Rhin, France",Gereuth,Q484170,,Neubois
+Freising,Gereut,Q32029826,14,1,2,,,Q4421,,
+Freising,Gereut,Q30691899,14,1,2,hill in Germany,,Q54050,,
+Freising,Gereut,Q125727106,14,1,2,"street in Lahr/Schwarzwald, Germany",,Q79007,,
+Freising,Gereut,Q119853857,14,1,2,field name in Freising (Upper Bavaria),"Gereuth|Gereut, Freising|Gereuth, Freising",Q15642541,,
+Freising,Gereuter,Q107450708,14,1,2,family name,,Q101352,,
+Freising,Arbesbach,Q629647,14,1,2,river in Vienna,Sieveringerbach|Erbsenbach|Gereutebach,Q4022,,Arbesbach (river)
+Freising,Gereuth (Untermerzbach),Q52835843,14,1,2,human settlement in Germany,,Q486972|Q253019|Q378636,,
+Freising,Gereuth,Q22692018,14,1,2,human settlement in Germany,,Q253019,,
+Kreuzleiten,Kreuzleiten,Q21861287,15,0,1,field name in the Kemetgebirge in Styria,,Q125505344,,
+Kreuzleiten,Kreuzleiten,Q21868715,15,0,1,field name in Upper Austria,Kreitzleithen,Q125505344,,
+Kreuzleiten,Kreuzleitenkopf,Q21861326,15,0,1,mountain in the Kemetgebirge in Styria,,Q8502,,
+Kreuzleiten,Kreuzleiten,Q22147856,15,0,1,Wikimedia disambiguation page,,Q4167410,,
+Grein,Grein,Q37574912,15,1,1,family name,,Q101352,,
+Grein,Grein,Q389363,15,1,1,"municipality in Perg District, Upper Austria, Austria",,Q667509|Q13539802,,"Grein, Austria"
+Grein,Greinton,Q2871497,15,1,1,"village in Somerset, England, UK","Greinton, Somerset",Q532|Q1115575,,Greinton
+Grein,Greinert,Q37266547,15,1,1,family name,,Q101352,,
+Grein,De gouden eeuw van de Vlaamse schilderkunst,Q113831244,15,1,1,"art catalog translated into Dutch from the original French, by Edith Greindl",Greindl 1990,Q47114558,,
+Grein,Greinacher,Q107439810,15,1,1,family name,,Q101352,,
+Grein,Greinz,Q56787215,15,1,1,family name,,Q101352,,
+Grein,Greinke,Q37563959,15,1,1,family name,,Q101352,,
+Grein,Grein,Q1545530,15,1,1,"municipal district of Neckarsteinach in Kreis Bergstraße, Germany",,Q1499928|Q163301,,
+Grein,Greiner,Q133296757,15,1,1,,,Q1138414|Q253019,,
+Grein,Kreuzleiten,Q21861287,15,1,2,field name in the Kemetgebirge in Styria,,Q125505344,,
+Grein,Kreuzleiten,Q21868715,15,1,2,field name in Upper Austria,Kreitzleithen,Q125505344,,
+Grein,Kreuzleitenkopf,Q21861326,15,1,2,mountain in the Kemetgebirge in Styria,,Q8502,,
+Grein,Kreuzleiten,Q22147856,15,1,2,Wikimedia disambiguation page,,Q4167410,,
+Hammerschlag,Hammerschlag,Q5645724,16,0,1,family name,Hammerschlag (family name)|Hammerschlag (surname),Q101352,,Hammerschlag
+Hammerschlag,Hammerschlag,Q21879196,16,0,1,field name in Styria,,Q125505344,,
+Hammerschlag,Hammerschlags- und Leiterrecht,Q1527797,16,0,1,German legal concept regarding neighbor property access,,Q2135465,,
+Hammerschlag,Mill scale,Q1844333,16,0,1,chemical compound,Rolling Mill Scale,,Q4332878,Mill scale
+Hammerschlag,Hammerschlag's Commercial Court Handbook (1st edition),Q138131804,16,0,1,1st edition of this reference work,,Q3331189,,
+Hammerschlag,Hammerschlag's Commercial Court Handbook,Q138131415,16,0,1,book by David Hammerschlag,,Q7725634|Q1338914,,
+Hammerschlag,David Hammerschlag,Q138131235,16,0,1,Australian judge,Hammerschlag J|Hammerschlag CJ in Eq,Q5,,
+Hammerschlag,Fried Fox Attack,Q113800171,16,0,1,unorthodox chess opening 1. f3 e5 2. Kf2,The Fried Fox Attack|1. f3 e5 2. Kf2|Pork Chop Opening|Schmoe Attack,Q764768,Q790702,
+Hammerschlag,Hammerschlag,Q26774107,16,0,1,,,Q15893266|Q83405|Q46996497,,
+Hammerschlag,Hammerschlagová,Q106069757,16,0,1,family name,,Q18972207,,
+Hammerschlag,Sankt Radegund bei Graz,Q200916,16,0,2,"municipality in Graz-Umgebung District, Styria, Austria","Sankt Radegund, Styria|St. Radegund, Styria",Q1802801|Q667509,,Sankt Radegund bei Graz
+Sankt Radegund bei Graz,Sankt Radegund bei Graz,Q200916,16,1,1,"municipality in Graz-Umgebung District, Styria, Austria","Sankt Radegund, Styria|St. Radegund, Styria",Q1802801|Q667509,,Sankt Radegund bei Graz
+Sankt Radegund bei Graz,Sankt Radegund,Q669185,16,1,2,"municipality in Braunau District, Upper Austria, Austria",,Q1802801|Q667509,,St. Radegund (Upper Austria)
+Sankt Radegund bei Graz,Sankt Radegund,Q133447190,16,1,2,"locality in Völkermarkt District, Austria",St. Radegund,Q11183787,,
+Sankt Radegund bei Graz,Sankt Radegund,Q13433083,16,1,2,Wikimedia disambiguation page,,Q4167410,,
+Sankt Radegund bei Graz,Radegund,Q84472787,16,1,2,female given name,,Q11879590,,
+Sankt Radegund bei Graz,Radegund,Q236974,16,1,2,Frankish queen consort,Radegundis von Thüringen,Q5,,Radegund
+Sankt Radegund bei Graz,A Hidden Life,Q27555348,16,1,2,2019 film by Terrence Malick,Radegund,Q11424,,A Hidden Life (2019 film)
+Sankt Radegund bei Graz,Radegunda,Q3928611,16,1,2,female given name,,Q11879590,,
+Sankt Radegund bei Graz,Radegunda,Q2478961,16,1,2,Peerage person ID=673110,Ranicunda|Ranigunde von Thüringen,Q5,,Raicunda
+Sankt Radegund bei Graz,Radegunde von Arberg,Q110370167,16,1,2,- Abt 1526,,Q5,,
+Sankt Radegund bei Graz,Radegund Cotterrell,Q105820782,16,1,2,- Aft 1418,,Q5,,
+Sankt Radegund bei Graz,Radegundis (Pauly-Wissowa),Q104667128,16,1,2,encyclopedic article in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q13433827,,
+Sankt Radegund bei Graz,Radegundis Eggenberger,Q110561812,16,1,2,,,Q5,,
+Sankt Radegund bei Graz,Radegundis von Kling,Q110370457,16,1,2,- Aft 12 Jan 1561,,Q5,,
+Sankt Radegund bei Graz,"Saint Radegund Church (St. Radegund, Upper Austria)",Q21561357,16,1,2,"parish church with cemetery in Sankt Radegund, Austria",,Q16970|Q39614,,

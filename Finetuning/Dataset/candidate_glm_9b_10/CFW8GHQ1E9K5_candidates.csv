@@ -1,0 +1,32 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+oweus Hill Interchange,interchange,Q2376564,0,0,2,"road junction, typically using grade separation",road interchange|highway interchange|freeway interchange|motorway interchange,,Q1788454|Q2516121|Q353070,Interchange (road)
+oweus Hill Interchange,Interchange,Q17014289,0,0,2,Studio album by Pat Martino,,Q482994,,Interchange (album)
+oweus Hill Interchange,Interchange,Q136716284,0,0,2,multinational foreign exchange company,Interchange Group,Q4830453|Q6881511|Q65553774,,
+oweus Hill Interchange,Interchange,Q15755199,0,0,2,journal,,Q5633421,,
+oweus Hill Interchange,interchange,Q1924122,0,0,2,changing lines of public transport,transfer,,Q1150070|Q79782|Q122943014,Transfer (public transport)
+oweus Hill Interchange,interchange station,Q1147171,0,0,2,train station for more than one railway route,transfer station,Q11668217,Q2298537|Q55488,Interchange station
+oweus Hill Interchange,Interchange,Q22951281,0,0,2,painting by Willem de Kooning,Interchange (de Kooning)|Interchange (Willem de Kooning)|Interchange Willem de Kooning,Q3305213|Q838948,,Interchange (de Kooning)
+oweus Hill Interchange,Interchange,Q64514330,0,0,2,painting by Alexander Liberman,,Q3305213,,
+oweus Hill Interchange,Tamale Interchange,Q108101397,0,0,2,"The Interchange Located In Tamale, Northern Region",Interchange,Q2376564,,Tamale Interchange
+oweus Hill Interchange,interchange,Q16970462,0,0,2,"team position in Australian rules football, consisting of players who are part of the selected team but are not currently on the field of play",bench player,Q4825214,,Interchange (Australian rules football)
+Minaami interchange,Tanigawadake parking area,Q11632876,1,0,2,"rest area in Minakami, Tone district, Gunma prefecture, Japan",,Q785979,,
+Tanigawadake parking area,Tanigawadake parking area,Q11632876,1,1,1,"rest area in Minakami, Tone district, Gunma prefecture, Japan",,Q785979,,
+Niigat-kameda interchange,Niigata-kameda interchange,Q11083319,2,0,2,"interchange in Niigata, Niigata prefecture, Japan",,Q2376564,,
+Niigat-kameda interchange,Niigata-higashi smart interchange,Q23621323,2,0,2,"interchange in Niigata, Niigata prefecture, Japan",,Q11313284,,
+Niigata-higashi smart interchange,Niigata-higashi smart interchange,Q23621323,2,1,1,"interchange in Niigata, Niigata prefecture, Japan",,Q11313284,,
+Niigata-higashi smart interchange,Niigata-kameda interchange,Q11083319,2,1,2,"interchange in Niigata, Niigata prefecture, Japan",,Q2376564,,
+Suzuka intrchange,Suzuka interchange,Q11649468,3,0,2,"interchange in Suzuka, Mie prefecture, Japan",,Q2376564,,
+Kameyama junction,Kameyama junction,Q11181986,3,1,1,"road junction in Kameyama, Mie prefecture, Japan",,Q1788454,,
+Kameyama junction,Suzuka interchange,Q11649468,3,1,2,"interchange in Suzuka, Mie prefecture, Japan",,Q2376564,,
+Fusehata junctlon,Fusehata junction,Q11059623,4,0,2,"road junction and interchange in Kobe, Hyogo prefecture, Japan",Fusehata interchange,Q2376564|Q1788454,,
+Fusehata junctlon,Tarumi interchange,Q11425809,4,0,2,"interchange in Kobe, Hyogo prefecture, Japan",,Q2376564,,
+Tarumi interchange,Tarumi interchange,Q11425809,4,1,1,"interchange in Kobe, Hyogo prefecture, Japan",,Q2376564,,
+Tarumi interchange,Fusehata junction,Q11059623,4,1,2,"road junction and interchange in Kobe, Hyogo prefecture, Japan",Fusehata interchange,Q2376564|Q1788454,,
+Aomoi-higashi interchange,,,5,0,0,,,,,
+Mifono interchange,,,6,0,0,,,,,
+Shiojiri-kita inerchange,Shiojiri-kita interchange,Q11174898,7,0,2,"interchange in Shiojiri, Nagano prefecture, Japan",,Q2376564,,
+Shiojiri-kita inerchange,Matsumoto interchange,Q11529271,7,0,2,"interchange in Kagoshima, Kagoshima prefecture, Japan",,Q2376564,,
+Shiojiri-kita inerchange,Matsumoto interchange,Q11104486,7,0,2,"interchange in Matsumoto, Nagano prefecture, Japan",,Q2376564,,
+Matsumoto interchange,Matsumoto interchange,Q11529271,7,1,1,"interchange in Kagoshima, Kagoshima prefecture, Japan",,Q2376564,,
+Matsumoto interchange,Matsumoto interchange,Q11104486,7,1,1,"interchange in Matsumoto, Nagano prefecture, Japan",,Q2376564,,
+Matsumoto interchange,Shiojiri-kita interchange,Q11174898,7,1,2,"interchange in Shiojiri, Nagano prefecture, Japan",,Q2376564,,

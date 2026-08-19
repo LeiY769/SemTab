@@ -1,0 +1,375 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+parsimony,frugality,Q1858477,0,0,1,personality trait; avoidance of unnecessary expenditure,thrift|thriftiness|cheapness|economising|economizing|economism|stinginess|miserliness|parsimony,Q2393196|Q9332|Q157811,,Frugality
+parsimony,parsimony,Q7798136,0,0,1,compulsive or exaggerated thriftiness,stinginess|niggardliness|parsimonious|miserliness|costiveness,Q2393196|Q9332|Q1411242,,Miserliness
+parsimony,parsimony,Q3364869,0,0,1,use of the minimum set of elements required to achieve a goal,,Q211364|Q33104279,Q508291|Q1034411,
+parsimony,parsimony,Q55775486,0,0,1,painting by Gregor von Bochmann,,Q3305213,,
+parsimony,Parsimony IV,Q20782727,0,0,1,painting by Markus Heikkerö,,Q3305213,,
+parsimony,Parsimony II,Q20792348,0,0,1,painting by Markus Heikkerö,,Q3305213,,
+parsimony,Parsimony I,Q20780671,0,0,1,painting by Markus Heikkerö,,Q3305213,,
+parsimony,Parsimony III,Q20798328,0,0,1,painting by Markus Heikkerö,,Q3305213,,
+parsimony,"Parsimony, likelihood, and the role of models in molecular phylogenetics",Q52078101,0,0,1,scientific article published in June 2000,,Q13442814,,
+parsimony,Parsimony and model-based analyses of indels in avian nuclear genes reveal congruent and incongruent phylogenetic signals,Q28657971,0,0,1,scientific article (publication date: 13 March 2013),,Q13442814,,
+parsimony,Parsimony Principle and its Proper use/ Application in Computer-assisted Drug Design and QSAR,Q92623919,0,0,2,scientific article published on 01 January 2020,,Q13442814|Q871232,,
+parsimony,Parsimony principles for software components and metalanguages,Q130991241,0,0,2,scientific article published on 14 October 2007,,Q13442814,,
+parsimony,parsimonious,Q107383967,0,0,2,Python library,,Q29642950,,
+parsimony,Parsimonious reduction,Q42417405,0,0,2,notion in computational complexity theory,,,,Parsimonious reduction
+parsimony,Parsimonious Construction of Multivariate Calibration Models in Chemometrics,Q111075634,0,0,2,"doctoral dissertation by Mary Beth Seasholtz, Chemistry, University of Washington, 1992",,Q187685|Q47461344,,
+parsimony,Parsimonious inference on convolutional neural networks,Q122875027,0,0,2,US patent 11321613,,Q43305660,,
+parsimony,Parsimonious Inference of Hybridization in the Presence of Incomplete Lineage Sorting,Q37085917,0,0,2,scientific article published on 04 June 2013,,Q13442814,,
+parsimony,Parsimonious Module Inference in Large Networks,Q51237025,0,0,2,"scientific article published on April 5, 2013",,Q13442814,,
+parsimony,Parsimonious and efficient assessment of health-related quality of life in osteoarthritis research: validation of the Assessment of Quality of Life (AQoL) instrument,Q34972957,0,0,2,scientific article,,Q13442814,,
+parsimony,Parsimonious Charge Deconvolution for Native Mass Spectrometry,Q47555561,0,0,2,scientific article published on 29 January 2018,,Q13442814,,
+parsimony,"Parsimonious Graphs: A Study in Parsimony, Contextual Transformations, and Modes of Limited Transposition",Q140214141,0,0,2,"journal article from Journal of Music Theory, published in 1998",,Q13442814,,
+Beautiful Soul,Beautiful Soul,Q2346957,1,0,1,2004 debut studio album by Jesse McCartney,,Q482994,,Beautiful Soul (Jesse McCartney album)
+Beautiful Soul,Beautiful Soul,Q4877813,1,0,1,2004 debut single by Jesse McCartney,,Q134556,,Beautiful Soul (song)
+Beautiful Soul,Beautiful Soul,Q1627145,1,0,1,stock character,,Q636497|Q33104279,,
+Beautiful Soul,A Beautiful Soul,Q4655405,1,0,1,2012 film by Jeffrey W. Byrd,Beautiful Soul,Q11424,,A Beautiful Soul (film)
+Beautiful Soul,Beautiful Soul,Q109279008,1,0,1,2021 film directed by Dario Albertini,,Q11424,,
+Beautiful Soul,Beautiful Soul,Q10427554,1,0,1,album by Jesse McCartney,,Q482994,,
+Beautiful Soul,Beautiful Soul,Q16243342,1,0,1,album by Mamadee,,Q482994,,Beautiful Soul (Mamadee album)
+Beautiful Soul,Beautiful Soul,Q19059278,1,0,1,album by Cynthia Layne,,Q482994,,Beautiful Soul (Cynthia Layne album)
+Beautiful Soul,Jesse McCartney,Q191842,1,0,1,American singer and actor,Jesse Abraham Arthur McCartney,Q5,,Jesse McCartney
+Beautiful Soul,Beautiful Soul/Right Where You Want Me,Q5724298,1,0,1,album by Jesse McCartney,,Q482994,,
+absence,absence,Q19829125,2,0,1,(local) nonexistence of something (specific),lack|nonexistence,Q33104279|Q106411346,Q813912,
+absence,Absence,Q124062752,2,0,1,2016 video game,,Q7889,,
+absence,absence seizure,Q2346980,2,0,1,"generalized seizure characterized by a brief loss and return of consciousness, generally not followed by a period of lethargy","petit mal|absence epilepsy|petit mal seizure|Epilepsy, Absence|absent seizure",Q169872|Q112193867|Q112965645,Q41571|Q18553411,Absence seizure
+absence,absence,Q3625580,2,0,1,legal term,,Q2135465,Q19829125,
+absence,Absence,Q19570736,2,0,1,2014 film,,Q11424,,Absence (film)
+absence,Absence,Q4669691,2,0,1,third album by American experimental hip hop group Dälek,,Q482994,,Absence (Dälek album)
+absence,amenorrhea,Q334655,2,0,1,absence of a menstrual period in a woman of reproductive age,amenorrhœa|Amenorrhea (finding)|Amenorrhea NOS (finding)|Amenorrhoea NOS|absence of menstruation|amenia|amenorrhoea|menolipsis,Q112193867|Q8031191,Q5442760|Q1641363,Amenorrhea
+absence,L'Absence,Q3013788,2,0,1,2009 film by Mama Keïta,Absence|The Absence,Q11424,,L'Absence
+absence,childhood absence epilepsy,Q2894827,2,0,1,"childhood electroclinical syndrome characterized by the occurrence of typical absence seizures, starting between the age of four and ten years",early onset absence epilepsy|petit mal seizure|pyknolepsy|absence seizure,Q112193867|Q112965645,Q2346980|Q18553414|Q5988876|Q102187256,Childhood absence epilepsy
+absence,The Absence,Q3201388,2,0,1,1992 film by Peter Handke,Absence,Q11424,,The Absence (1992 film)
+absence,non-existence,Q3877969,2,0,2,quality or state of not existing,nonexistence|nothingness|nihility|inexistence|non-being,Q1207505,Q937228,
+absence,Non-existence of a tight association between a 444leucine to proline mutation and phenotypes of Gaucher disease: high frequency of a NciI polymorphism in the non-neuronopathic form,Q68082712,2,0,2,scientific article published on 01 January 1990,,Q13442814,,
+absence,Non-existence of sublinear diffusion for a class of torus homeomorphisms,Q114119296,2,0,2,scholarly article published in 2022,,Q13442814,,
+absence,Non-existence of shunts between afferent and efferent arterioles of juxtamedullary glomeruli in dog and rat kidneys,Q69216442,2,0,2,scientific article published on 01 January 1972,,Q13442814,,
+absence,Non-existence of caveolin-1 gene mutations in human breast cancer,Q39475677,2,0,2,scientific article published on 11 September 2011,,Q13442814,,
+absence,Non-existence of wave solutions for the class of reaction-diffusion equations given by the volterra interacting-population equations with diffusion,Q45247003,2,0,2,"scientific article published on August 1, 1975",,Q13442814,,
+absence,Non-existence of an optimum leaf area index for the production rate of white clover grown under constant conditions,Q64355821,2,0,2,article,,Q13442814,,
+absence,Non-existence of solitary water waves in three dimensions,Q52014315,2,0,2,scientific article,,Q13442814,,
+absence,Non-existence of a positive correlation between urinary levels of alpha 1-microglobulin and ulinastatin in patients with Parkinson's disease,Q53326017,2,0,2,scientific article published in August 1996,,Q13442814,,
+absence,Non-existence of toxic shock syndrome in Dutch Burns Centres,Q44779844,2,0,2,scientific article published on 18 April 2006,,Q13442814,,
+non-existence,non-existence,Q3877969,2,1,1,quality or state of not existing,nonexistence|nothingness|nihility|inexistence|non-being,Q1207505,Q937228,
+non-existence,Non-existence of a tight association between a 444leucine to proline mutation and phenotypes of Gaucher disease: high frequency of a NciI polymorphism in the non-neuronopathic form,Q68082712,2,1,1,scientific article published on 01 January 1990,,Q13442814,,
+non-existence,Non-existence of sublinear diffusion for a class of torus homeomorphisms,Q114119296,2,1,1,scholarly article published in 2022,,Q13442814,,
+non-existence,Non-existence of shunts between afferent and efferent arterioles of juxtamedullary glomeruli in dog and rat kidneys,Q69216442,2,1,1,scientific article published on 01 January 1972,,Q13442814,,
+non-existence,Non-existence of caveolin-1 gene mutations in human breast cancer,Q39475677,2,1,1,scientific article published on 11 September 2011,,Q13442814,,
+non-existence,Non-existence of wave solutions for the class of reaction-diffusion equations given by the volterra interacting-population equations with diffusion,Q45247003,2,1,1,"scientific article published on August 1, 1975",,Q13442814,,
+non-existence,Non-existence of an optimum leaf area index for the production rate of white clover grown under constant conditions,Q64355821,2,1,1,article,,Q13442814,,
+non-existence,Non-existence of solitary water waves in three dimensions,Q52014315,2,1,1,scientific article,,Q13442814,,
+non-existence,Non-existence of a positive correlation between urinary levels of alpha 1-microglobulin and ulinastatin in patients with Parkinson's disease,Q53326017,2,1,1,scientific article published in August 1996,,Q13442814,,
+non-existence,Non-existence of toxic shock syndrome in Dutch Burns Centres,Q44779844,2,1,1,scientific article published on 18 April 2006,,Q13442814,,
+non-existence,absence,Q19829125,2,1,2,(local) nonexistence of something (specific),lack|nonexistence,Q33104279|Q106411346,Q813912,
+non-existence,Absence,Q124062752,2,1,2,2016 video game,,Q7889,,
+non-existence,absence seizure,Q2346980,2,1,2,"generalized seizure characterized by a brief loss and return of consciousness, generally not followed by a period of lethargy","petit mal|absence epilepsy|petit mal seizure|Epilepsy, Absence|absent seizure",Q169872|Q112193867|Q112965645,Q41571|Q18553411,Absence seizure
+non-existence,absence,Q3625580,2,1,2,legal term,,Q2135465,Q19829125,
+non-existence,Absence,Q19570736,2,1,2,2014 film,,Q11424,,Absence (film)
+non-existence,Absence,Q4669691,2,1,2,third album by American experimental hip hop group Dälek,,Q482994,,Absence (Dälek album)
+non-existence,amenorrhea,Q334655,2,1,2,absence of a menstrual period in a woman of reproductive age,amenorrhœa|Amenorrhea (finding)|Amenorrhea NOS (finding)|Amenorrhoea NOS|absence of menstruation|amenia|amenorrhoea|menolipsis,Q112193867|Q8031191,Q5442760|Q1641363,Amenorrhea
+non-existence,L'Absence,Q3013788,2,1,2,2009 film by Mama Keïta,Absence|The Absence,Q11424,,L'Absence
+non-existence,childhood absence epilepsy,Q2894827,2,1,2,"childhood electroclinical syndrome characterized by the occurrence of typical absence seizures, starting between the age of four and ten years",early onset absence epilepsy|petit mal seizure|pyknolepsy|absence seizure,Q112193867|Q112965645,Q2346980|Q18553414|Q5988876|Q102187256,Childhood absence epilepsy
+non-existence,The Absence,Q3201388,2,1,2,1992 film by Peter Handke,Absence,Q11424,,The Absence (1992 film)
+discontinuity,discontinuity,Q541961,3,0,1,point at which a function is not continuous,classification of discontinuities|discontinuities|point of discontinuity|Classification of discontinuities,,Q379825,Classification of discontinuities
+discontinuity,discontinuity,Q966260,3,0,1,frontier between rock layers with different properties inside the planet Earth,,,Q36963847,
+discontinuity,discontinuity,Q36963847,3,0,1,"lack of continuity, regularity or sequence; a break or gap",,,Q937228,
+discontinuity,discontinuity,Q5281657,3,0,1,philosophical concept,,Q33104279,Q937228,Discontinuity (postmodernism)
+discontinuity,discontinuity,Q5281658,3,0,1,linguistic phenomenon in which a word/phrase is separated from another word/phrase that it modifies in such a way that a direct connection can’t be established between the two without crossing lines in the tree structure,,,,Discontinuity (linguistics)
+discontinuity,"Discontinuity, Nonlinearity, and Complexity",Q96324443,3,0,1,US scientific journal,"An interdisciplinary journal of discontinuity, nonlinearity, and complexity",Q5633421,,
+discontinuity,discontinuity,Q5281656,3,0,1,plane or surface that marks a change in physical or chemical characteristics in a soil or rock mass,joint,,Q23579739,Discontinuity (geotechnical engineering)
+discontinuity,Discontinuity of Cardiac Follow-Up in Young People With Congenital Heart Disease Transitioning to Adulthood: A Systematic Review and Meta-Analysis,Q112583556,3,0,1,publication published on 04 March 2021,,Q732577,,
+discontinuity,discontinuity layout optimization,Q5281661,3,0,1,,,,,Discontinuity layout optimization
+discontinuity,Discontinuity effect,Q5281659,3,0,1,Concept in group dynamics,,,,Discontinuity effect
+selection,Selection,Q18088717,4,0,1,2007 studio album by Solo,,Q482994,,
+selection,excerpt,Q1385610,4,0,1,an extract from a larger audiovisual or literary work,excerpts|selection|selections|extract,Q4263830|Q107478770,Q234460,Excerpt
+selection,Selection,Q11314614,4,0,1,supermarket chain,,Q4830453|Q18043413,,
+selection,biological selection,Q1094654,4,0,1,"differential survival and reproduction of individual organisms, from any cause",selection,Q483247,Q18054608|Q12334940,
+selection,Selection,Q3656245,4,0,1,1995 double compilation album by Scorpions,,Q482994,,
+selection,Selection,Q1257592,4,0,1,"term, classification for German quality wines",,Q5962346,,
+selection,Wen Xuan,Q1190957,4,0,1,anthology of Chinese poetry and literature,Selections of Refined Literature,Q7725634,,Wen Xuan
+selection,selection,Q7447725,4,0,1,"in relational algebra, unary operation that denotes a subset of a relation",restriction,,Q657596|Q42193353,Selection (relational algebra)
+selection,selection,Q753651,4,0,1,list of items on which user operations will take place,,,Q27948,Selection (user interface)
+selection,Selection,Q3085871,4,0,1,2007 compilation/studio album reissue by Marlango,,Q482994,,
+selection,decision making,Q1331926,4,0,2,cognitive process to choose a course of action or belief,decision-making|decisionmaking|choice behavior|choice behaviour,Q116505632|Q15910354,Q781413|Q12888920,Decision-making
+selection,shared decision-making,Q7489544,4,0,2,a process of shared decision-making between the healthcare provider and the patient,"SDM|shared decision making|Decision Making, Shared|shared decision-making in medicine",,Q905758|Q1331926,Shared decision-making in medicine
+selection,Decision-making Process: Concepts and Methods,Q54023377,4,0,2,literary work,,Q7725634|Q3331189,,
+selection,organizational decision making,Q70442251,4,0,2,process by which decisions are made in an institution or other organization,"Decision Making, Organizational",,Q1331926|Q5283295,
+selection,computer-assisted clinical decision-making,Q100938549,4,0,2,use of an interactive computer system designed to assist health professionals making clinical decisions,"Decision Making, Computer-Assisted",,,
+selection,Decision Making Applications in Management and Engineering,Q96704903,4,0,2,,Decision Making|Decision Making. Applications in Management and Engineering,Q5633421,,
+selection,decision-making body,Q84062072,4,0,2,"person, group, council, or board empowered by law, charter, or policy to make final, binding decisions on specific matters",decisionmaking body,,Q895526|Q9203135,
+selection,decision-making software,Q5249204,4,0,2,type of software that helps make decisions,DM software,Q17155032,Q7397,Decision-making software
+selection,Decision Making in Criminal Justice,Q140146075,4,0,2,,,Q3331189,,
+selection,Decision-Making in the European Union,Q139909541,4,0,2,,,Q3331189,,
+selection,Choice,Q37216495,4,0,2,family name,,Q101352,,
+selection,Choice: Current Reviews for Academic Libraries,Q1766173,4,0,2,American review magazine,,Q5633421|Q737498|Q41298,,
+selection,Choice,Q98905967,4,0,2,male given name,,Q12308941,,
+selection,Choice,Q2758612,4,0,2,album by Tangerine Dream,,Q482994,,
+selection,Choice of Games,Q39058513,4,0,2,video game developer,,Q210167|Q1137109,,Choice of Games
+selection,Choice,Q137303639,4,0,2,American publisher,,Q2085381,,Choice (publisher)
+selection,Choice,Q124064083,4,0,2,2017 video game,,Q7889,,
+selection,The Choice,Q18389443,4,0,2,2016 film by Ross Katz,Choice,Q11424,,The Choice (2016 film)
+selection,Choice,Q3675346,4,0,2,Album by Megumi Hayashibara,,Q482994,,
+decision making,decision making,Q1331926,4,1,1,cognitive process to choose a course of action or belief,decision-making|decisionmaking|choice behavior|choice behaviour,Q116505632|Q15910354,Q781413|Q12888920,Decision-making
+decision making,shared decision-making,Q7489544,4,1,1,a process of shared decision-making between the healthcare provider and the patient,"SDM|shared decision making|Decision Making, Shared|shared decision-making in medicine",,Q905758|Q1331926,Shared decision-making in medicine
+decision making,Decision-making Process: Concepts and Methods,Q54023377,4,1,1,literary work,,Q7725634|Q3331189,,
+decision making,organizational decision making,Q70442251,4,1,1,process by which decisions are made in an institution or other organization,"Decision Making, Organizational",,Q1331926|Q5283295,
+decision making,computer-assisted clinical decision-making,Q100938549,4,1,1,use of an interactive computer system designed to assist health professionals making clinical decisions,"Decision Making, Computer-Assisted",,,
+decision making,Decision Making Applications in Management and Engineering,Q96704903,4,1,1,,Decision Making|Decision Making. Applications in Management and Engineering,Q5633421,,
+decision making,decision-making body,Q84062072,4,1,1,"person, group, council, or board empowered by law, charter, or policy to make final, binding decisions on specific matters",decisionmaking body,,Q895526|Q9203135,
+decision making,decision-making software,Q5249204,4,1,1,type of software that helps make decisions,DM software,Q17155032,Q7397,Decision-making software
+decision making,Decision Making in Criminal Justice,Q140146075,4,1,1,,,Q3331189,,
+decision making,Decision-Making in the European Union,Q139909541,4,1,1,,,Q3331189,,
+decision making,concours,Q1967459,4,1,2,examination where candidates are ranked according to their grades,selection process|competitive examination|prize,,Q1656682|Q476300,
+decision making,Selection Process,Q122372808,4,1,2,2021 video game,,Q7889,,
+decision making,Selection process for a national radioactive waste management facility in South Australia,Q119461792,4,1,2,report published by Parliament of Australia on 2018-08-14,,Q10870555,,
+decision making,Selection Process,Q58829344,4,1,2,paper,,Q13442814,,
+decision making,Selection process for surgeons in the Asymptomatic Carotid Atherosclerosis Study,Q36821264,4,1,2,"scientific article published on November 1, 1991",,Q13442814,,
+decision making,Selection process generating peptide aptamers and analysis of their binding to the TiO2 surface of a surface acoustic wave sensor,Q33381944,4,1,2,scientific article,,Q13442814,,
+decision making,Selection processes in simple sequence repeats suggest a correlation with their genomic location: insights from a fungal model system,Q36417123,4,1,2,scientific article,,Q13442814,,
+decision making,Selection Processing in Noun and Verb Production in Left- and Right-Sided Parkinson's Disease Patients,Q64864141,4,1,2,scientific article published on 20 July 2018,,Q13442814,,
+decision making,Selection Processes in Prison-Based Treatment Referrals: A Street-Level Bureaucracy Perspective.,Q55383311,4,1,2,scientific article,,Q13442814,,
+decision making,Selection process in ornamental plant breeding,Q125445578,4,1,2,scientific article published in 2023,,Q13442814,,
+decision making,Decision-Making Technique in Selection Tasks on the Set of Alternatives on the Set of Indicators — the BOFem Method,Q129184544,4,1,2,scholarly article,,Q13442814,,
+decision making,Decision-making techniques for software architecture design,Q56944103,4,1,2,article by Davide Falessi et al published 1 October 2011 in ACM Computing Surveys,,Q13442814,,
+decision making,Decision making technique for analysing performance of Malaysian secondary ports,Q129466992,4,1,2,scholarly article,,Q13442814,,
+error,error,Q29485,5,0,1,"action or proposition which is inaccurate or incorrect, that could result in failure or deviation from the intended performance or behaviour",mistake|incorrect|wrong|mistaken|blunder|misstep|goof,Q27949697,Q1747121|Q86923152|Q937228,Error
+error,software bug,Q179550,5,0,1,"error, flaw, failure or fault in a computer program/system that produces an incorrect or unexpected result or causes it to behave in unintended ways",error|computer bug|software failure|software bugs|software flaw|software flaws|software failures|bug|software anomaly|software defect|programming bug|bug in software,Q110314665|Q100151658,Q124805656|Q1114582,Software bug
+error,link rot,Q1193907,5,0,1,phenomenon in which URLs gradually tend to cease functioning,deadlink|URL no longer working|URL no longer found|website 404s|error 404|link to nowhere|link decay|offline|permanently offline|dead link|linkrot|link death|link breaking|reference rot|broken link|page not exist|dangling link|non-resolving or non-working URL|abolished webpage|deadurl|HTTP 404|link disabled|dead URL|broken URL|HTTP 404 error|URL not working|URL no longer works|URL gone|page not found|website gone|website no longer found|dead|404 URL|permanent dead link|link not found|link dead,Q27949697|Q483247,Q3249551|Q124805656|Q55397116|Q107356532|Q102014|Q22087155,Link rot
+error,Error,Q111747582,5,0,1,"Star Trek comic in the Leonard McCoy, Frontier Doctor series",,Q3496994|Q1760610,,
+error,incorrect value,Q41755623,5,0,1,Wikidata reason for deprecation,wrong value|wrong information|error in information|error in value|false statement|inaccurate information|inaccurate value|fake|inaccurate statement|incorrect statement|wrong statement|incorrect information,Q27949697,Q19798642|Q29485|Q17949,
+error,Error,Q5395696,5,0,1,album by the band Error,,Q482994,,Error (Error EP)
+error,Error,Q123006931,5,0,1,2003 instrumental track by Lemon Demon,,Q55850643,,
+error,error in referenced source or sources,Q29998666,5,0,1,value for qualifier P2241,error in cited source|error in source|error in database|incorrect reference|incorrect source|wrong reference|wrong source,Q27949697|Q110314665,Q41755623|Q29485|Q65088633,
+error,measurement error,Q196372,5,0,1,difference between a measured quantity value and a reference quantity value,error of measurement|error|observational error,Q110314665|Q114345228,Q7049018|Q113143871,Observational error
+error,systematic error,Q2257880,5,0,1,component of a measurement error which stays constant or varies predictably with repeated measurements,systematic error of measurement|bias|systematic measurement error|error,Q110314665|Q114352720,Q55022242,
+error,error,Q29485,5,1,1,"action or proposition which is inaccurate or incorrect, that could result in failure or deviation from the intended performance or behaviour",mistake|incorrect|wrong|mistaken|blunder|misstep|goof,Q27949697,Q1747121|Q86923152|Q937228,Error
+error,software bug,Q179550,5,1,1,"error, flaw, failure or fault in a computer program/system that produces an incorrect or unexpected result or causes it to behave in unintended ways",error|computer bug|software failure|software bugs|software flaw|software flaws|software failures|bug|software anomaly|software defect|programming bug|bug in software,Q110314665|Q100151658,Q124805656|Q1114582,Software bug
+error,link rot,Q1193907,5,1,1,phenomenon in which URLs gradually tend to cease functioning,deadlink|URL no longer working|URL no longer found|website 404s|error 404|link to nowhere|link decay|offline|permanently offline|dead link|linkrot|link death|link breaking|reference rot|broken link|page not exist|dangling link|non-resolving or non-working URL|abolished webpage|deadurl|HTTP 404|link disabled|dead URL|broken URL|HTTP 404 error|URL not working|URL no longer works|URL gone|page not found|website gone|website no longer found|dead|404 URL|permanent dead link|link not found|link dead,Q27949697|Q483247,Q3249551|Q124805656|Q55397116|Q107356532|Q102014|Q22087155,Link rot
+error,Error,Q111747582,5,1,1,"Star Trek comic in the Leonard McCoy, Frontier Doctor series",,Q3496994|Q1760610,,
+error,incorrect value,Q41755623,5,1,1,Wikidata reason for deprecation,wrong value|wrong information|error in information|error in value|false statement|inaccurate information|inaccurate value|fake|inaccurate statement|incorrect statement|wrong statement|incorrect information,Q27949697,Q19798642|Q29485|Q17949,
+error,Error,Q5395696,5,1,1,album by the band Error,,Q482994,,Error (Error EP)
+error,Error,Q123006931,5,1,1,2003 instrumental track by Lemon Demon,,Q55850643,,
+error,error in referenced source or sources,Q29998666,5,1,1,value for qualifier P2241,error in cited source|error in source|error in database|incorrect reference|incorrect source|wrong reference|wrong source,Q27949697|Q110314665,Q41755623|Q29485|Q65088633,
+error,measurement error,Q196372,5,1,1,difference between a measured quantity value and a reference quantity value,error of measurement|error|observational error,Q110314665|Q114345228,Q7049018|Q113143871,Observational error
+error,systematic error,Q2257880,5,1,1,component of a measurement error which stays constant or varies predictably with repeated measurements,systematic error of measurement|bias|systematic measurement error|error,Q110314665|Q114352720,Q55022242,
+signature,signature,Q188675,6,0,1,handwritten mark made as a proof of identity and intent,"sign, signature",,Q7170587|Q140757678|Q1640824,Signature
+signature,signature,Q1373131,6,0,1,"mark of the creator on a work to identify themselves as such (name, initials, monogram)",signature of artist|creator's signature|artist's signature|sculpsit|pinxit|fecit|artists' signatures|creators' signatures|painter's signature|sculptor's signature|signing|signature of creator|signature of painter,Q68614425,Q2695280|Q11341687|Q230768|Q188675,
+signature,signing,Q50384157,6,0,1,"process leading to the signing of a treaty or convention, a law or decree, a legal act, a contract, an agreement or support, a testimony, an act of presence, etc. in order to validate them or certify their existence",signing (writing)|signed|signature,Q2245405,Q3249551,
+signature,Signature,Q130331824,6,0,1,2023 music album by Neuronium,,Q482994,,
+signature,"Signature (Ramsey, N.J.)",Q27714177,6,0,1,journal,Signature,Q5633421,,
+signature,signature,Q1142562,6,0,1,"number of positive, negative and zero eigenvalues of a metric tensor",matrix signature|metric signature,Q24034552|Q188211,Q20088882|Q20505917,Metric signature
+signature,section,Q1228599,6,0,1,"group of leaves, folded in the middle and bound together into a book binding",gathering|signature|quire,,Q16889133|Q63285117,Section (bookbinding)
+signature,signature,Q890478,6,0,1,starting material for making newspapers,,Q2005652|Q151885|Q47574,Q1363377,
+signature,signature,Q741810,6,0,1,notion in mathematical logic,,Q12812139,,Signature (logic)
+signature,theme music,Q1193470,6,0,1,musical composition written specifically for some other work,theme song|title song|signature tune|theme tune,Q188451,Q107736421,Theme music
+pneuma,Pneuma,Q15746481,7,0,1,journal of the Society for Pentecostal Studies,Pneuma;,Q73364223,,Pneuma (journal)
+pneuma,Pneumatopteris,Q17195727,7,0,1,genus of plants,,Q16521,,Pneumatopteris
+pneuma,pneuma,Q1048935,7,0,1,"ancient Greek word for ""breath""",,Q33104279|Q120312205,,Pneuma
+pneuma,Pneuma,Q11819837,7,0,1,Polish nu metal band,,Q215380,,
+pneuma,pneumatosis cystoides intestinalis,Q18554476,7,0,1,Human disease,Pneumatosis cystoides intestinalis (disorder)|Pneumatosis cystoides intestinalis,Q112193867,Q3055380|Q2099990,
+pneuma,Pneumatopteris pennigera,Q7205985,7,0,1,synonym of Pakau pennigera,,Q16521,,
+pneuma,Pneuma: Breath of Life,Q21427959,7,0,1,2015 video game,,Q7889,,Pneuma: Breath of Life
+pneuma,Pneuma,Q7205951,7,0,1,album by Moving Mountains,,Q482994,,Pneuma (Moving Mountains album)
+pneuma,Pneuma,Q7205952,7,0,1,Costa Rican thrash metal Band,,Q215380,,Pneuma (band)
+pneuma,Pneuma,Q7205950,7,0,1,album by Michael White,,Q482994,,Pneuma (Michael White album)
+pneuma,pneumonia,Q12192,7,0,2,inflammation of the alveoli of the lungs,acute pneumonia|lung inflammation|inflammation of lung tissue|inflammation of lungs|Pneumonia,Q112193867|Q1931388,Q3392853|Q3631290|Q1284347|Q18123741,Pneumonia
+pneuma,Pneumonia (Nathan Qld.),Q27726692,7,0,2,scientific journal,Pneumonia (Nathan)|Pneumonia,Q5633421|Q737498|Q773668|Q16024164,,
+pneuma,bacterial pneumonia,Q3776920,7,0,2,pneumonia involving inflammation of the lungs caused by bacteria,"Pneumonia due to other gram-negative bacteria|gram-negative pneumonia|Pneumonia, Bacterial",Q112193867|Q112965645,Q12192|Q727028|Q18123741,Bacterial pneumonia
+pneuma,eosinophilic pneumonia,Q32540,7,0,2,"disease in which an eosinophil, a type of white blood cell, accumulates in the lung","EP|Pneumonia, eosinophilic|pulmonary eosinophilia",Q112193867,Q12192|Q505142,Eosinophilic pneumonia
+pneuma,pneumococcal pneumonia,Q7205992,7,0,2,human disease,"Chest infection - pneumococcal pneumonia|Lobar -pneumococcal -pneumonia|Lobar pneumonia (disorder)|Pneumococcal lobar pneumonia (disorder)|Pneumococcal pneumonia (disorder)|Pneumococcal pneumonia (disorder) [Ambiguous]|Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]|Streptococcus pneumoniae pneumonia|Streptococcus pneumonia|obsolete pneumococcal pneumonia|Pneumonia, Pneumococcal",Q112193867,Q3776920|Q18966412,Pneumococcal pneumonia
+pneuma,pneumococcal infection,Q4366062,7,0,2,infections with bacteria of the species streptococcus pneumoniae,"pneumococcal infectious disease|Infection, Pneumococcal|Streptococcus pneumoniae Infection|pneumoniae Infection, Streptococcus|Infection, Streptococcus pneumoniae|pneumoniae Infections, Streptococcus|Infections, Pneumococcal|Streptococcus pneumoniae Infections|Pneumococcal Infection|Infections, Streptococcus pneumoniae|Pneumococcal Infections|obsolete pneumococcal infectious disease",Q112193867,Q5849703|Q727028|Q18123741,Pneumococcal infection
+pneuma,viral pneumonia,Q2603200,7,0,2,inflammatory illness of the lung,"pneumonía, viral",Q112193867,Q12192|Q55790495|Q1928978|Q18123741,Viral pneumonia
+pneuma,Chlamydia pneumoniae infection,Q11299062,7,0,2,Human disease,Chlamydophila pneumoniae pneumonia|Chlamydial pneumonia (disorder)|Pneumonia due to Chlamydia|obsolete Chlamydophila pneumoniae pneumonia,,Q3776920|Q2633267|Q18932779,
+pneuma,Pneumonia,Q7206001,7,0,2,album by Whiskeytown,,Q482994,,Pneumonia (album)
+pneuma,staphylococcal pneumonia,Q18967273,7,0,2,Human disease,Staphylococcus aureus pneumonia|pneumonia due to staphylococcus aureus,,Q34879|Q3776920,
+pneuma,pneumothorax,Q203601,7,0,2,abnormal collection of air in the pleural space,,Q929833|Q1441305|Q112193867,Q7204732|Q1339243,Pneumothorax
+pneuma,Pneumothorax,Q23866910,7,0,2,article in Otto's encyclopedia,,Q13433827,,
+pneuma,artificial pneumothorax,Q73217584,7,0,2,"injection of air, or a more slowly absorbed gas such as nitrogen, into the pleural cavity to collapse the lung.","Pneumothorax, Artificial",,Q2982723,
+pneuma,Pneumothorax,Q54135139,7,0,2,,,Q13442814,,
+pneuma,Pneumothorax,Q34325158,7,0,2,scientific article,,Q13442814,,
+pneuma,Pneumothorax ex vacuo,Q7206014,7,0,2,rare type of pneumothorax,,,Q203601,Pneumothorax ex vacuo
+pneuma,Pneumothorax After CT-guided Lung Biopsy: Standard vs Autologous Blood Patching,Q63584875,7,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Drainage With Vacuum Bottle,Q63597621,7,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Post CT Lung Biopsy,Q65546937,7,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Therapy: Manual Aspiration Versus Conventional Chest Tube Drainage,Q65380427,7,0,2,clinical trial,,Q30612,,
+pneuma,Pneuma,Q15746481,8,0,1,journal of the Society for Pentecostal Studies,Pneuma;,Q73364223,,Pneuma (journal)
+pneuma,Pneumatopteris,Q17195727,8,0,1,genus of plants,,Q16521,,Pneumatopteris
+pneuma,pneuma,Q1048935,8,0,1,"ancient Greek word for ""breath""",,Q33104279|Q120312205,,Pneuma
+pneuma,Pneuma,Q11819837,8,0,1,Polish nu metal band,,Q215380,,
+pneuma,pneumatosis cystoides intestinalis,Q18554476,8,0,1,Human disease,Pneumatosis cystoides intestinalis (disorder)|Pneumatosis cystoides intestinalis,Q112193867,Q3055380|Q2099990,
+pneuma,Pneumatopteris pennigera,Q7205985,8,0,1,synonym of Pakau pennigera,,Q16521,,
+pneuma,Pneuma: Breath of Life,Q21427959,8,0,1,2015 video game,,Q7889,,Pneuma: Breath of Life
+pneuma,Pneuma,Q7205951,8,0,1,album by Moving Mountains,,Q482994,,Pneuma (Moving Mountains album)
+pneuma,Pneuma,Q7205952,8,0,1,Costa Rican thrash metal Band,,Q215380,,Pneuma (band)
+pneuma,Pneuma,Q7205950,8,0,1,album by Michael White,,Q482994,,Pneuma (Michael White album)
+pneuma,pneumonia,Q12192,8,0,2,inflammation of the alveoli of the lungs,acute pneumonia|lung inflammation|inflammation of lung tissue|inflammation of lungs|Pneumonia,Q112193867|Q1931388,Q3392853|Q3631290|Q1284347|Q18123741,Pneumonia
+pneuma,Pneumonia (Nathan Qld.),Q27726692,8,0,2,scientific journal,Pneumonia (Nathan)|Pneumonia,Q5633421|Q737498|Q773668|Q16024164,,
+pneuma,bacterial pneumonia,Q3776920,8,0,2,pneumonia involving inflammation of the lungs caused by bacteria,"Pneumonia due to other gram-negative bacteria|gram-negative pneumonia|Pneumonia, Bacterial",Q112193867|Q112965645,Q12192|Q727028|Q18123741,Bacterial pneumonia
+pneuma,eosinophilic pneumonia,Q32540,8,0,2,"disease in which an eosinophil, a type of white blood cell, accumulates in the lung","EP|Pneumonia, eosinophilic|pulmonary eosinophilia",Q112193867,Q12192|Q505142,Eosinophilic pneumonia
+pneuma,pneumococcal pneumonia,Q7205992,8,0,2,human disease,"Chest infection - pneumococcal pneumonia|Lobar -pneumococcal -pneumonia|Lobar pneumonia (disorder)|Pneumococcal lobar pneumonia (disorder)|Pneumococcal pneumonia (disorder)|Pneumococcal pneumonia (disorder) [Ambiguous]|Pneumococcal pneumonia [Streptococcus pneumoniae pneumonia]|Streptococcus pneumoniae pneumonia|Streptococcus pneumonia|obsolete pneumococcal pneumonia|Pneumonia, Pneumococcal",Q112193867,Q3776920|Q18966412,Pneumococcal pneumonia
+pneuma,pneumococcal infection,Q4366062,8,0,2,infections with bacteria of the species streptococcus pneumoniae,"pneumococcal infectious disease|Infection, Pneumococcal|Streptococcus pneumoniae Infection|pneumoniae Infection, Streptococcus|Infection, Streptococcus pneumoniae|pneumoniae Infections, Streptococcus|Infections, Pneumococcal|Streptococcus pneumoniae Infections|Pneumococcal Infection|Infections, Streptococcus pneumoniae|Pneumococcal Infections|obsolete pneumococcal infectious disease",Q112193867,Q5849703|Q727028|Q18123741,Pneumococcal infection
+pneuma,viral pneumonia,Q2603200,8,0,2,inflammatory illness of the lung,"pneumonía, viral",Q112193867,Q12192|Q55790495|Q1928978|Q18123741,Viral pneumonia
+pneuma,Chlamydia pneumoniae infection,Q11299062,8,0,2,Human disease,Chlamydophila pneumoniae pneumonia|Chlamydial pneumonia (disorder)|Pneumonia due to Chlamydia|obsolete Chlamydophila pneumoniae pneumonia,,Q3776920|Q2633267|Q18932779,
+pneuma,Pneumonia,Q7206001,8,0,2,album by Whiskeytown,,Q482994,,Pneumonia (album)
+pneuma,staphylococcal pneumonia,Q18967273,8,0,2,Human disease,Staphylococcus aureus pneumonia|pneumonia due to staphylococcus aureus,,Q34879|Q3776920,
+pneuma,pneumothorax,Q203601,8,0,2,abnormal collection of air in the pleural space,,Q929833|Q1441305|Q112193867,Q7204732|Q1339243,Pneumothorax
+pneuma,Pneumothorax,Q23866910,8,0,2,article in Otto's encyclopedia,,Q13433827,,
+pneuma,artificial pneumothorax,Q73217584,8,0,2,"injection of air, or a more slowly absorbed gas such as nitrogen, into the pleural cavity to collapse the lung.","Pneumothorax, Artificial",,Q2982723,
+pneuma,Pneumothorax,Q54135139,8,0,2,,,Q13442814,,
+pneuma,Pneumothorax,Q34325158,8,0,2,scientific article,,Q13442814,,
+pneuma,Pneumothorax ex vacuo,Q7206014,8,0,2,rare type of pneumothorax,,,Q203601,Pneumothorax ex vacuo
+pneuma,Pneumothorax After CT-guided Lung Biopsy: Standard vs Autologous Blood Patching,Q63584875,8,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Drainage With Vacuum Bottle,Q63597621,8,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Post CT Lung Biopsy,Q65546937,8,0,2,clinical trial,,Q30612,,
+pneuma,Pneumothorax Therapy: Manual Aspiration Versus Conventional Chest Tube Drainage,Q65380427,8,0,2,clinical trial,,Q30612,,
+norm,Norm,Q19825036,9,0,1,male given name,Norm (given name)|Norm (first name),Q12308941,,Norm (given name)
+norm,technical standard,Q317623,9,0,1,required norm or standard established to make it easier to do something in a consistent way,standard|document standard|specification|technical norm|norm|document norm|Standards,,Q49848|Q16889133|Q367293|Q13136|Q1151067|Q1630279|Q117207263,Technical standard
+norm,Norman,Q1218555,9,0,1,male given name,Norman (given name)|Norman (first name),Q12308941,,
+norm,Norma,Q10582,9,0,1,constellation in the southern celestial hemisphere,Nor|Normae|the Carpenter's Square,Q8928,,Norma (constellation)
+norm,convention,Q367293,9,0,1,"set of agreed, stipulated, or generally accepted standards",customs|social norms|norm|norms|custom|manner|manners|standard,Q104637420,Q16889133,Convention (norm)
+norm,Norma,Q541364,9,0,1,female given name,Norma (given name)|Norma (first name),Q11879590,,Norma (given name)
+norm,standard-gauge railway,Q1999572,9,0,1,"rail track gauge – international standard gauge (1435 mm, 4 ft 8 1⁄2 in)","UIC track gauge|International gauge|normal gauge|Stephenson gauge|standard gauge|gauge in Europe|rail gauge 1435 mm|sg|1,435 mm|European gauge|uniform gauge|SGR|Eurogauge|Euro gauge|1435 mm track gauge",Q214519,,Standard-gauge railway
+norm,Marilyn Monroe,Q4616,9,0,1,American actress and model (1926–1962),Noma Jeane DiMaggio|Norma Jean Miller|Mėrilin Monro|Norma Jean Mortenson Miller|Norma Jean Mortenson Dougherty|Norma Jean Mortenson Di Maggio,Q5,,Marilyn Monroe
+norm,Normalhöhennull,Q1398875,9,0,1,vertical datum used in Germany,NHN,Q505774|Q125465|Q9364781,,Normalhöhennull
+norm,Norman I. Platnick,Q1333409,9,0,1,American arachnologist (1951–2020),Platnick|Norman Ira Platnick|Norm Platnick|N. I. Platnick,Q5,,Norman I. Platnick
+norm,average,Q202785,9,0,2,"the central tendency. middle or typical number of a list of numbers, including mean, median and mode",normal|type of average,,Q15088658|Q734219|Q47103999,Average
+norm,Normal,Q19752304,9,0,2,"village in Lembata Regency, East Nusa Tenggara, Indonesia",Desa Normal,Q26211545,,
+norm,Normal,Q575407,9,0,2,"town in McLean County, Illinois, United States","Normal, Illinois|Normal, IL",Q15127012,,"Normal, Illinois"
+norm,École Normale Supérieure,Q83259,9,0,2,"French ""grande école"" (ENS Paris)",Normale sup|ENS Paris|École normale|École préparatoire|Normale sup'|École normale supérieure|ENS - PSL|Institute of Advanced Education,Q135436|Q43229,,École normale supérieure (Paris)
+norm,Arizona State University,Q670897,9,0,2,"public university in Tempe, Arizona, US",Arizona State|ASU Tempe|Territorial Normal School|Arizona Territorial Normal School|Arizona Normal School|Normal School of Arizona|Tempe Normal School|Tempe State Teachers College|Arizona State Teachers College|Arizona State College|ASU|asu.edu,Q3918|Q23002039|Q45400320,,Arizona State University
+norm,Normal,Q19562429,9,0,2,Danish retail chain,,Q507619,,Normal Stores
+norm,Normal,Q1118238,9,0,2,album by Bligg,,Q482994,,
+norm,Normal,Q133885326,9,0,2,album release by Kiri Rakete,,Q108352648,,
+norm,standard time,Q1777301,9,0,2,synchronization of clocks within a geographical area or region,ZST|Standard Time zone|Standard Time zones,,Q849275,Standard time
+norm,Standard,Q37563661,9,0,2,family name,,Q101352,,
+norm,Standard,Q1291208,9,0,2,2008 studio album by SP,,Q482994,,
+norm,Standard Taiwanese Mandarin,Q262828,9,0,2,variety of Modern Standard Chinese serving as the official language of the Republic of China (Taiwan),Kuo-yü|Táiwān Huáyǔ|Guóyǔ|Taiwanese Mandarin|Biāozhǔn Guóyǔ|Standard Guoyu,Q23492|Q33384,Q2169652,Taiwanese Mandarin
+norm,STANDARD,Q11244442,9,0,2,1996 compilation album by Fumiya Fujii,,Q482994,,
+norm,standard language,Q399495,9,0,2,language variety used by a population in their public discourse (for public purposes); standardized language that has at least one standard variety besides its other varieties; variety that has undergone standardization,standard dialect|standardized dialect|standard variety|standardized variety|standard|linguistic standard|literary language,Q20829075,Q3329375|Q34770,Standard language
+norm,urban East Norwegian,Q6457972,9,0,2,sociolect spoken in Oslo and surrounding areas,Standard East Norwegian,Q33384|Q1367114|Q20825842,Q19399429,Urban East Norwegian
+goodness,Goodness,Q37486058,10,0,1,family name,,Q101352,,
+goodness,Goodness,Q25096013,10,0,1,album by The Hotelier,,Q482994,,Goodness (The Hotelier album)
+goodness,good,Q15290,10,0,1,"general religious, ethical, and philosophical term for something that is preferred, beneficial, or virtuous (especially when compared to an alternative that is less of one of those qualities)",goodness|Good,Q595523|Q151885|Q129510955,Q211364|Q194112,Good
+goodness,Chukwuamaka Osigwe,Q135196842,10,0,1,football player,Goodness,Q5,,
+goodness,goodness,Q3251291,10,0,1,quality of having positive subjective value; opposite of badness,value,Q33104279,Q100212002|Q878143,
+goodness,desirability,Q60617645,10,0,1,quality of being desirable or wanted,goodness|wantedness|acceptability|desired,Q100212002,Q878143,
+goodness,forgivingness,Q26195679,10,0,1,kind and benevolent attitude,goodness|kindness,,Q622645,
+goodness,Goodness,Q5583489,10,0,1,American rock band,,Q2088357|Q215380,,Goodness (band)
+goodness,Goodness Ignatius,Q109367036,10,0,1,"Wikimedian, librarian and craft tutor",Goodness Abasili,Q5,,
+goodness,Goodness,Q83628627,10,0,1,general cargo ship built in 1983,IMO 8116180,Q1752434,,
+goodness,Virtue,Q21500899,10,0,2,family name,,Q101352,,Virtue (surname)
+goodness,Virtue,Q7935212,10,0,2,American girl gospel music group,,Q641066,,Virtue (musical group)
+goodness,virtue,Q157811,10,0,2,morally positive trait or quality deemed to be morally good,moral value|virtuousness,Q151885|Q2515887|Q129510955,Q31172650,Virtue
+goodness,George Vertue,Q930477,10,0,2,British engraver (1684-1756),George Virtue|Vertue|G. Vertue|Mr. Vertue|Virtue,Q5,,George Vertue
+goodness,de,Q1179705,10,0,2,concept in Chinese philosophy,德|virtue|power,Q151885|Q82799,,De (Chinese)
+goodness,Cecile Horton,Q91465844,10,0,2,fictional character from the television series The Flash,Virtue,Q3855553|Q15773317,,
+goodness,Merit,Q1406348,10,0,2,concept considered fundamental to Buddhist ethics,meritorious action|virtue,Q11359438,,Merit (Buddhism)
+goodness,Virtue,Q18008029,10,0,2,episode of Law & Order (S5 E8),,Q21191270,,
+goodness,Virtue,Q12592837,10,0,2,South Korean television program,,Q15416,,
+goodness,Virtue,Q28028858,10,0,2,painting by Alessandro Turchi,,Q3305213,,
+goodness,benevolence,Q16509717,10,0,2,good disposition to others,benevolent|good-natured man|brave man,Q1149305|Q67518978,Q15290,
+goodness,benevolence,Q12889702,10,0,2,human character trait,docility|docile,Q2393196,,
+goodness,Chesed,Q3305411,10,0,2,4th of the 10 sephirot,Benevolence,Q660267,,Chesed
+goodness,Benevolence,Q21677794,10,0,2,"painting by Zuidelijke Nederlanden, tweede helft 16de eeuw Anonieme meester",,Q3305213,,
+goodness,Benevolence,Q13438605,10,0,2,episode of Law & Order (S3 E22),,Q21191270,,
+goodness,benevolence,Q84212338,10,0,2,,benevolence|charity,Q157811,,
+goodness,benevolence,Q70904880,10,0,2,"a forced tax exacted by certain kings of England; first enforced in 1473, led to Petition of Rights under Charles I; later declared illegal in 1689",,Q8161,Q3518136,Benevolence (tax)
+goodness,Benevolence,Q100268728,10,0,2,fictional Teenage Mutant Ninja Turtles Adventures character,Archie Benevolence,Q73502689|Q1114461|Q89050913,,
+goodness,Benevolence,Q43080632,10,0,2,human settlement in United States of America,"Benevolence, Georgia|Benevolence, GA",Q17343829,,"Benevolence, Georgia"
+goodness,benevolence,Q4887541,10,0,2,faculty in the discredited theory of phrenology,,,Q1347367,Benevolence (phrenology)
+goodness,Kindness,Q37135245,10,0,2,family name,,Q101352,,
+goodness,kindness,Q488085,10,0,2,"behavior marked by ethical characteristics, a pleasant disposition, and concern for others",empathic,Q9415|Q157811,Q60539479,Kindness
+goodness,KINDness,Q137211601,10,0,2,Micro Short Film from 2025,,Q24862,,
+goodness,Kindness,Q139578901,10,0,2,episode of The Man in the High Castle (s1 e9),,Q21191270,,
+goodness,Kindness,Q6410629,10,0,2,musician,Adam Bainbridge,Q5,,Kindness (musician)
+goodness,KINDNESS,Q11227876,10,0,2,1991 studio album by Shinji Harada,,Q482994,,
+goodness,Kindness for Weakness,Q24074905,10,0,2,album by Homeboy Sandman,,Q482994,,Kindness for Weakness
+goodness,kindness,Q100257596,10,0,2,,kindness,,,
+goodness,Kindness,Q136222194,10,0,2,2021 single by MØ,,Q105543609,,Kindness (MØ song)
+Early,Early,Q16275607,11,0,1,family name,,Q101352,,Early (name)
+Early,Early Human Development,Q5326666,11,0,1,scientific journal,,Q5633421|Q16024164,,Early Human Development
+Early,beginning of,Q40719727,11,0,1,"beginning of time period, should be used with qualifier P4241 to narrow down the period it describes",early|first years|first days,Q26907166,,
+Early,Early,Q1932611,11,0,1,"human settlement in Sac County, Iowa, United States","Early, Iowa|Early, IA",Q1093829,,"Early, Iowa"
+Early,autism,Q38404,11,0,1,neurodevelopmental condition,autistic disorder|autistic disorder of childhood onset|childhood autism|infantile autism|early infantile autism|early childhood autism|classic autism|adult autism|ASD|autism spectrum disorder,Q12131|Q140439690,Q1436063|Q12136|Q2915349|Q3450985|Q59344393|Q132757510,Autism
+Early,Early Medieval Europe,Q1277520,11,0,1,academic journal,,Q1002697,,Early Medieval Europe (journal)
+Early,Old Mandarin,Q837169,11,0,1,speech of northern China during the time of the Jin and Yuan dynasties (12th to 14th centuries),Early Mandarin,Q34770,Q7850|Q10913056|Q9192,Old Mandarin
+Early,early modern period,Q5308718,11,0,1,the era from ca. 1500 to ca. 1800,early modern age,Q6428674|Q4671286,,Early modern period
+Early,Early Science and Medicine,Q15754205,11,0,1,academic journal,,Q5633421|Q16024164,,Early Science and Medicine
+Early,Early,Q139595947,11,0,1,female given name,,Q11879590,,
+Early,early music,Q436016,11,0,2,"music from the Middle Ages, Renaissance, and Baroque",period music|pre-baroque music,Q106834231|Q188451,Q9730,Early music
+Early,Early Music,Q5326706,11,0,2,peer-reviewed academic journal specialising in the study of early music,,Q737498,,Early Music (journal)
+Early,Early Music,Q137830431,11,0,2,album series,,Q20671381,,
+Early,Early Music,Q5326705,11,0,2,album by Kronos Quartet,,Q482994,,Early Music (Lachrymæ Antiquæ)
+Early,Early Music History,Q5326709,11,0,2,journal,,Q627517,,Early Music History
+Early,Early Music Productions,Q140448076,11,0,2,American record label,,Q18127,,
+Early,Early Music Consort,Q1163547,11,0,2,"musical ensemble specialized in music of the Middle Ages, Renaissance, and Baroque",Early Music Consort of London|The Early Music Consort Of London,Q2088357,,Early Music Consort
+Early,early music ensemble,Q3054878,11,0,2,"group of musicians playing music from the Middle Ages, Renaissance, and Baroque",early music group,,Q2088357,
+Early,early music revival,Q5326886,11,0,2,19th-century revival of interest in Baroque and other pre-classical music,,Q12020884,Q115921216,Early music revival
+Early,Early music of the British Isles,Q5326885,11,0,2,aspect of history,,Q106834231|Q28820001,Q436016|Q21971297,Early music of the British Isles
+Early,Early Modern Letters Online,Q44526767,11,0,2,database of early modern correspondence,EMLO,Q7094076,,
+Early,Early Modern Low Countries,Q50817989,11,0,2,academic journal,EMLC,Q737498|Q773668,,
+Early,Early Modern French Studies,Q63871626,11,0,2,academic journal,,Q737498,,
+Early,Early Modern English,Q1472196,11,0,2,"stage of development of English, starting c. 16th century",Early New English|EModE|EMnE,Q2966838|Q3329375,Q1346342,Early Modern English
+Early,Early Modern Russian Letters : Texts and Contexts,Q60189465,11,0,2,non-fiction book,,Q3331189,,
+Early,Early Modern Spanish,Q5364419,11,0,2,variety of Spanish used in the sixteenth and seventeenth centuries,Golden Age Spanish|Classical Spanish|Middle Spanish,Q34770,Q1321,Early Modern Spanish
+Early,caveperson,Q1190089,11,0,2,common name of prehistoric human species,caveman|cavewoman|caveboy|cavegirl|cave people|early modern humans|cavemen,Q55983715,Q5054938,Caveman
+Early,English Renaissance theatre,Q1134718,11,0,2,theatre of England between 1562 and 1642,English Renaissance drama|Elizabethan theatre|Early Modern English theatre,Q7777573,Q44092605,English Renaissance theatre
+Early,Early New High German,Q1472199,11,0,2,"extinct Germanic language (1500–1650, or 1350–1650)",Early Modern High German,Q34770|Q38058796|Q3329375|Q2966838,Q52040,Early New High German
+Early,Early Christianity,Q51644,11,0,2,period of church history beginning with the ministry of Jesus (c. 27-30) and ending with the First Council of Nicaea (325),Early Church|Paleo-Christianity|Birth of Christianity,Q816829|Q11514315,Q5043,Early Christianity
+Early,Christianity in the 1st century,Q5110596,11,0,2,overview of Christianity-related events during the 1st century,Christian in the first century|first-century Christianity|1st-century Christianity|early Christianity|early Christian movement|Christian movement,Q18340514|Q17524420,,
+Early,Early Christianity,Q1277507,11,0,2,journal,,Q1002697,,
+Early,Early Christianity as Radical Religion,Q140237985,11,0,2,book chapter in Concepts of the Other in Near Eastern Religions (1994),,Q1980247,,
+Early,history of early Christianity,Q3533348,11,0,2,"period of Christianity from The Apostolic Age to the First Council of Nicaea, 0 – 325 CE",early Christianity history,Q17524420,,History of early Christianity
+Early,Early Christianity in Central and East Europe,Q104618978,11,0,2,book published in 1997,,Q1711593,,
+Early,Early Christianity outside the Roman Empire,Q64597244,11,0,2,book by Francis Crawford Burkitt,,Q7725634,,
+Early,Early Christianity in Arabia,Q19090876,11,0,2,,,Q7725634,,
+Early,Early Christianity in North Africa,Q136112656,11,0,2,book 2009,,Q3331189,,
+Early,"Early Christianity at Amheida (Egypt’s Dakhla Oasis), A Fourth-Century Church: Volume I, The Excavations (Amheida VII)",Q136179045,11,0,2,book 2024,,Q3331189,,
+quintessence,Quintessence International,Q15757413,12,0,1,journal,,Q5633421,,
+quintessence,Quintessence,Q1760636,12,0,1,2000 studio album by Borknagar,,Q482994,,Quintessence (Borknagar album)
+quintessence,Quintessence,Q3414586,12,0,1,1977 compilation album by Malicorne,,Q482994,,
+quintessence,aether,Q381913,12,0,1,classical element in philosophy and cosmology symbolising universe,æther|ether|fifth element|quintessence,Q200230|Q120999346,,Aether (classical element)
+quintessence,quintessence,Q1777391,12,0,1,dynamic scalar field hypothesized as a form of dark energy,,Q151885,Q18343,Quintessence (physics)
+quintessence,Quintessence,Q1284362,12,0,1,English rock band,,Q5741069,,Quintessence (band)
+quintessence,quintessence,Q12032053,12,0,1,"fifth element in addition to the four classical elements, used by medieval alchemists for a medium similar or identical to that thought to make up the heavenly bodies",,Q33104279,,
+quintessence,Quintessence,Q1527966,12,0,1,album by Bill Evans,,Q482994,,Quintessence (Bill Evans album)
+quintessence,Quintessence of dental technology,Q27712831,12,0,1,journal,Quintessence Dent Technol,Q5633421,,
+quintessence,Quintessence,Q7272405,12,0,1,Finnish jazz-band,,Q215380,,
+quintessence,Aether,Q508755,12,0,2,2008 video game,,Q7889,,Aether (video game)
+quintessence,essential oil,Q170885,12,0,2,hydrophobic liquid containing volatile aroma compounds from plants,"volatile oil|ethereal oil|aetherolea|oil of the plant|Oils, Volatile",,Q169336|Q4739805|Q42962,Essential oil
+quintessence,Aether,Q135452774,12,0,2,2023 video game developed by ORYgames,,Q7889,,
+quintessence,AETHER,Q139827620,12,0,2,Czech energy trading company,,Q4830453|Q6881511,,
+quintessence,Aether,Q189175,12,0,2,"primordial Greek deity, personification of the upper air",,Q878099,,Aether (mythology)
+quintessence,luminiferous aether,Q208702,12,0,2,postulated medium for the propagation of light,aether|ether|Luminiferous aether,Q120999346,Q334265|Q2500869,Luminiferous aether
+quintessence,Traveler,Q107263864,12,0,2,playable character in Genshin Impact,Traveller|Aether|Lumine,Q1569167|Q15632617,,Traveler (Genshin Impact)
+quintessence,Aether,Q4688677,12,0,2,album by The Necks,,Q482994,,Aether (album)
+quintessence,Æther Shanties,Q2825684,12,0,2,album by Abney Park,,Q482994,,Æther Shanties
+quintessence,Prime Mover,Q3403189,12,0,2,1993 video game,,Q7889,,
+quintessence,artillery tractor,Q2016578,12,0,2,specialized heavy-duty form of tractor unit used to tow artillery pieces,gun tractor|prime mover,Q124315169,Q1184840|Q176849,Artillery tractor
+quintessence,Prime Mover,Q125905679,12,0,2,vocal track by Rush; 1987 studio recording,,Q55850593,,
+quintessence,Prime Mover,Q116767390,12,0,2,2018 video game,,Q7889,,
+quintessence,tractor unit,Q59569,12,0,2,characteristically heavy-duty towing engine that provides motive power for hauling a towed or trailered load,semi tractor|prime mover|road tractor|traction unit,Q108759237,Q228390,Tractor unit
+quintessence,unmoved mover,Q2326055,12,0,2,philosophical concept described by Aristotle as the first cause of all motion in the universe,prime mover|uncaused cause|un-caused cause|first uncaused cause|first cause|causeless cause|prime mover argument,Q33104279,Q18706315,Unmoved mover
+quintessence,prime mover,Q3304552,12,0,2,main power source in a locomotive,,Q44167,,Prime mover (locomotive)
+quintessence,Prime Mover,Q7243323,12,0,2,1988 studio album by Kerry Livgren / AD,,Q482994,,Prime Mover (album)
+quintessence,Prime Mover,Q56304643,12,0,2,"original song composed by Geddy Lee and Alex Lifeson, lyrics by Neil Peart",,Q105543609,,
+quintessence,Prime Mover,Q7243324,12,0,2,2009 film by David Caesar,,Q11424,,Prime Mover (film)
+aether,Aether,Q508755,12,1,1,2008 video game,,Q7889,,Aether (video game)
+aether,essential oil,Q170885,12,1,1,hydrophobic liquid containing volatile aroma compounds from plants,"volatile oil|ethereal oil|aetherolea|oil of the plant|Oils, Volatile",,Q169336|Q4739805|Q42962,Essential oil
+aether,Aether,Q135452774,12,1,1,2023 video game developed by ORYgames,,Q7889,,
+aether,AETHER,Q139827620,12,1,1,Czech energy trading company,,Q4830453|Q6881511,,
+aether,Aether,Q189175,12,1,1,"primordial Greek deity, personification of the upper air",,Q878099,,Aether (mythology)
+aether,luminiferous aether,Q208702,12,1,1,postulated medium for the propagation of light,aether|ether|Luminiferous aether,Q120999346,Q334265|Q2500869,Luminiferous aether
+aether,aether,Q381913,12,1,1,classical element in philosophy and cosmology symbolising universe,æther|ether|fifth element|quintessence,Q200230|Q120999346,,Aether (classical element)
+aether,Traveler,Q107263864,12,1,1,playable character in Genshin Impact,Traveller|Aether|Lumine,Q1569167|Q15632617,,Traveler (Genshin Impact)
+aether,Aether,Q4688677,12,1,1,album by The Necks,,Q482994,,Aether (album)
+aether,Æther Shanties,Q2825684,12,1,1,album by Abney Park,,Q482994,,Æther Shanties
+aether,Quintessence International,Q15757413,12,1,2,journal,,Q5633421,,
+aether,Quintessence,Q1760636,12,1,2,2000 studio album by Borknagar,,Q482994,,Quintessence (Borknagar album)
+aether,Quintessence,Q3414586,12,1,2,1977 compilation album by Malicorne,,Q482994,,
+aether,quintessence,Q1777391,12,1,2,dynamic scalar field hypothesized as a form of dark energy,,Q151885,Q18343,Quintessence (physics)
+aether,Quintessence,Q1284362,12,1,2,English rock band,,Q5741069,,Quintessence (band)
+aether,quintessence,Q12032053,12,1,2,"fifth element in addition to the four classical elements, used by medieval alchemists for a medium similar or identical to that thought to make up the heavenly bodies",,Q33104279,,
+aether,Quintessence,Q1527966,12,1,2,album by Bill Evans,,Q482994,,Quintessence (Bill Evans album)
+aether,Quintessence of dental technology,Q27712831,12,1,2,journal,Quintessence Dent Technol,Q5633421,,
+aether,Quintessence,Q7272405,12,1,2,Finnish jazz-band,,Q215380,,

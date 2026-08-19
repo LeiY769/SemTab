@@ -1,0 +1,42 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+RXSC J1614-811,,,0,0,0,,,,,
+MFJG 8,MFJG 8,Q86119400,1,0,1,,,Q27521,,
+NAME RX J0910 Superclustr,RX J0910.3+6019,Q79599697,2,0,2,astrophysical X-ray source in the constellation Ursa Major,,Q2154519|Q1931185,,
+NAME RX J0910 Superclustr,RX J0910.6-1035,Q89413202,2,0,2,astrophysical X-ray source in the constellation Hydra,,Q2154519,,
+NAME RX J0910 Superclustr,RX J0910.5+5419,Q78192954,2,0,2,astrophysical X-ray source in the constellation Ursa Major,,Q2154519,,
+NAME RX J0910 Superclustr,RX J0910.2+2058,Q88006254,2,0,2,astrophysical X-ray source in the constellation Cancer,,Q2154519,,
+NAME RX J0910 Superclustr,supercluster,Q27521,2,0,2,gravitationally-unbound collection of galaxy groups and clusters,galactic supercluster,Q17444909,Q6999,Supercluster
+[B2003] 3,[B2003] 3,Q77833869,3,0,1,,,Q27521,,
+[B2003] 3,[B2003] 38,Q83810964,3,0,1,,,Q27521,,
+[B2003] 3,[B2003] 37,Q83815926,3,0,1,,,Q27521,,
+[B2003] 3,[B2003] 35,Q75079437,3,0,1,,,Q27521,,
+[B2003] 3,[B2003] 36,Q89538042,3,0,1,,,Q27521,,
+[B2003] 3,CP4-44 prophage; DUF987 domain-containing protein YeeT b2003,Q24140710,3,0,2,microbial protein found in Escherichia coli str. K-12 substr. MG1655,yeeT|DUF987 domain-containing protein YeeT|b2003|CP4-44 prophage,Q8054,Q8054,
+[B2003] 3,CP4-44 prophage; DUF987 domain-containing protein YeeT b2003,Q23089189,3,0,2,microbial gene found in Escherichia coli str. K-12 substr. MG1655,yeeT|b2003|CP4-44 prophage; uncharacterized protein|ECK1996|JW1985|CP4-44 prophage; DUF987 domain-containing protein YeeT,Q7187,Q7187|Q20747295,
+RXSCJ1857-6605,vehicle identification number,Q304948,4,0,2,"unique code including a serial number, used by the automotive industry to identify individual motor vehicles, towed vehicles, motorcycles, scooters and mopeds",chassis number|VIN number|VIN|engine number|identification number of a vehicle|vehicle body number|frame number,Q6545185|Q2004972,Q853614|Q1198578,Vehicle identification number
+RXSCJ1857-6605,Vehicle Identification Numbers (VIN codes)/Volvo/VIN Codes,Q23643874,4,0,2,,,,,
+RXSCJ1857-6605,Vinh,Q33428,4,0,2,provincial city in Vietnam,Vin,Q3249005|Q515,,Vinh
+RXSCJ1857-6605,Vincent van Gogh,Q5582,4,0,2,Dutch painter (1853–1890),,Q5,,Vincent van Gogh
+RXSCJ1857-6605,Vin,Q55670402,4,0,2,given name,,Q202444,,
+RXSCJ1857-6605,Vincent,Q4928254,4,0,2,male given name,Vincent (first name)|Vincent (given name),Q12308941|Q202444,,Vincent
+RXSCJ1857-6605,wine,Q282,4,0,2,alcoholic drink typically made from grapes through the fermentation process,vino,,Q11258817|Q56351009,Wine
+RXSCJ1857-6605,Vincenzo,Q16741113,4,0,2,male given name,Vincenzo (given name),Q12308941,,
+RXSCJ1857-6605,Vinje,Q2245,4,0,2,"municipality in Telemark county, Norway",Vinje Municipality,Q755707,,Vinje
+RXSCJ1857-6605,Drosophila melanogaster,Q130888,4,0,2,species of fly,vinegar fly|D. melanogaster|fruit fly|common fruit fly,Q16521|Q213907,,Drosophila melanogaster
+RXSCJ1857-6605,Vin,Q37530249,4,0,2,family name,,Q101352,,
+RXSCJ1857-6605,Vinohrady,Q662985,4,0,2,"city district of Prague, Czech Republic",,Q515|Q20871353|Q61089180,,Vinohrady
+AE CL0016 Supercluster,,,5,0,0,,,,,
+[B2003],[B2003] 57,Q83484647,6,0,1,,,Q27521,,
+[B2003],[B2003] 2,Q77834057,6,0,1,,,Q27521,,
+[B2003],[B2003] 40,Q86152191,6,0,1,,,Q27521,,
+[B2003],[B2003] 6,Q77830678,6,0,1,,,Q27521,,
+[B2003],[B2003] 10,Q77373656,6,0,1,,,Q27521,,
+[B2003],[B2003] 48,Q74864863,6,0,1,,,Q27521,,
+[B2003],[B2003] 38,Q83810964,6,0,1,,,Q27521,,
+[B2003],[B2003] 37,Q83815926,6,0,1,,,Q27521,,
+[B2003],[B2003] 15,Q80598446,6,0,1,,,Q27521,,
+[B2003],[B2003] 3,Q77833869,6,0,1,,,Q27521,,
+[B2003],CP4-44 prophage; DUF987 domain-containing protein YeeT b2003,Q24140710,6,0,2,microbial protein found in Escherichia coli str. K-12 substr. MG1655,yeeT|DUF987 domain-containing protein YeeT|b2003|CP4-44 prophage,Q8054,Q8054,
+[B2003],CP4-44 prophage; DUF987 domain-containing protein YeeT b2003,Q23089189,6,0,2,microbial gene found in Escherichia coli str. K-12 substr. MG1655,yeeT|b2003|CP4-44 prophage; uncharacterized protein|ECK1996|JW1985|CP4-44 prophage; DUF987 domain-containing protein YeeT,Q7187,Q7187|Q20747295,
+RXSC J0438-142<,RXSC J0438-1429,Q88419798,7,0,2,,,Q27521,,
+RXS J0335-0157,,,8,0,0,,,,,

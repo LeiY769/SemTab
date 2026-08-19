@@ -1,0 +1,67 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+FBS 2304+440,FBS 2304+440,Q74000016,0,0,1,,,Q54231557,,
+SBSS 0809+531,SBSS 0809+531,Q79599207,1,0,1,hot subdwarf star in the constellation Lynx,,Q54231557,,
+EC 20344-2055,EC 20344-2055,Q83623077,2,0,1,hot subdwarf star in the constellation Capricornus,,Q54231557,,
+USNO-B1.0 1289-00160315,USNO-B1.0 1289-00160315,Q86297526,3,0,1,hot subdwarf star in the constellation Auriga,,Q54231557|Q1457376|Q13890,,
+USNO-B1.0 1289-00160315,The USNO-B Catalog,Q55879286,3,0,2,scientific article published in 'The Astronomical Journal' in February 2003 and related astronomical catalog,The USNO-B1.0 Catalog|USNO-B1.0 Catalog|2003AJ....125..984M,Q13442814|Q605175,,
+USNO-B1.0 1289-00160315,USNO-B1.0 1338-00359203,Q77973443,3,0,2,star in the constellation Cygnus,,Q523,,
+USNO-B1.0 1289-00160315,NGC 6921,Q2084703,3,0,2,galaxy,,Q1931185|Q67206691|Q2154519|Q71965638|Q2247863,,
+USNO-B1.0 1289-00160315,USNO-B1.0 0798-00048707,Q76598331,3,0,2,star in the constellation Eridanus,KT Eridani,Q523|Q67206691|Q6458,,KT Eridani
+USNO-B1.0 1289-00160315,USNO-B1.0 0644-00098276,Q222312,3,0,2,brown dwarf,,Q101600|Q523|Q67206691|Q2154519|Q2247863,,
+USNO-B1.0 1289-00160315,USNO-B1.0 1477-00514481,Q76960927,3,0,2,star in the constellation Cepheus,,Q523|Q67206691|Q2154519,,
+USNO-B1.0 1289-00160315,USNO-B1.0 0560-00310109,Q222575,3,0,2,brown dwarf,,Q101600|Q523|Q67206691|Q2247863,,
+USNO-B1.0 1289-00160315,USNO-B1.0 0830-00245706,Q222395,3,0,2,brown dwarf,,Q101600|Q523|Q67206691|Q2247863,,
+USNO-B1.0 1289-00160315,3XMM J194755.4+274442,Q81876877,3,0,2,infrared source,,Q2154519|Q67206691|Q523,,
+USNO-B1.0 1289-00160315,3XMM J194750.1+274147,Q81874324,3,0,2,infrared source,,Q2154519|Q523|Q67206691,,
+GALEX J053656.5+395516,GALEX J053656.5+395516,Q77934136,4,0,1,hot subdwarf star in the constellation Auriga,,Q54231557,,
+GALEX J204709.6+121015,GALEX J204709.6+121015,Q87801167,5,0,1,hot subdwarf star in the constellation Delphinus,,Q54231557,,
+GALEX J213730.9+221908,GALEX J213730.9+221908,Q87800935,6,0,1,hot subdwarf star in the constellation Pegasus,,Q54231557|Q13890,,
+KUV 05008+1218,KUV 05008+1218,Q87017456,7,0,1,hot subdwarf star in the constellation Orion,,Q54231557,,
+GALEX J082556.7+130754,GALEX J082556.7+130754,Q83873308,8,0,1,hot subdwarf star in the constellation Cancer,,Q54231557|Q71798788,,
+LSE 44,LSE 44,Q83845231,9,0,1,hot subdwarf star in the constellation Centaurus,,Q54231557,,
+LSE 44,London Stock Exchange,Q171240,9,0,2,stock exchange in the City of London,"LSE|London Stock Exchange, LSE|LSE APA|XLON",Q11691,,London Stock Exchange
+LSE 44,London Stock Exchange Group,Q5573225,9,0,2,"British multinational stock exchange and financial information company located in City of London, United Kingdom",London Stock Exchange Group plc|LSEG|LSE,Q4830453|Q6881511|Q891723,,London Stock Exchange Group
+LSE 44,London Stock Exchange - AIM MTF,Q438511,9,0,2,AIMX identifying AIM Multilateral Trading Facility (MTF) driven by the London Stock Exchange (XLON).,AIM|LSE - AIM MTF|AIMX|LSE,Q11691|Q475000,,Alternative Investment Market
+LSE 44,London Stock Exchange bombing,Q55099312,9,0,2,,,Q1190554,,London Stock Exchange bombing
+LSE 44,London Stock Exchange – Curveglobal Markets,Q107190279,9,0,2,London Stock Exchange Derivatives Market (part of London Stock Exchange Regulated Market).,LSE|XLOD,Q475000,,
+LSE 44,London Stock Exchange - MTF,Q107227842,9,0,2,MIC allocated to the London Stock Exchange (operating MIC: XLON) Multilateral Trading Facility (MTF).,LSE|XLOM,Q475000,,
+LSE 44,Template:London Stock Exchange,Q5624644,9,0,2,Wikimedia template,Template:LSE,Q11266439,,Template:London Stock Exchange
+LSE 44,Royal Exchange,Q1241240,9,0,2,"building in the City of London, England, UK",,Q41176,,"Royal Exchange, London"
+LSE 44,London Stock Exchange Rejects Bid From Rival Hong Kong Exchange,Q114833485,9,0,2,"Wall Street Journal article (September 13, 2019)",,Q5707594,,
+LSE 44,London Stock Exchange War Memorial,Q121891314,9,0,2,war memorial in London,,Q575759,,
+LSE 44,London School of Economics and Political Science,Q174570,9,0,2,"public university in London, United Kingdom",LSE|London School of Economics|London School of Economics & Political Science,Q62078547|Q38723|Q5341295,,London School of Economics
+LSE 44,LSEThesisProject,Q112895606,9,0,2,project to upload metadata for LSE doctoral theses to Wikidata,LSE Thesis Project|LSE Theses Project,Q16695773,,
+LSE 44,LSE,Q140037779,9,0,2,monograph published by Oxford University Press (1995),,Q193495,,
+LSE 44,Spanish Sign Language,Q3100814,9,0,2,sign language used mainly by deaf people in Spain,SSL|LSE,Q34228|Q34770|Q1288568,Q61852157,Spanish Sign Language
+LSE 44,SIAE,Q18040992,9,0,2,protein-coding gene in the species Homo sapiens,AIS6|CSE-C|CSEC|LSE|YSG2|sialic acid acetylesterase,Q7187,Q20747295,
+LSE 44,Lithuanian Sport Encyclopedia,Q12663457,9,0,2,,LSE,Q13136,,
+LSE 44,Laboratory of Soil and Environmental Sciences,Q30262491,9,0,2,"facility in Nancy, France",LSE,Q13226383|Q31855,,
+JL 35,JL 35,Q84500483,10,0,1,hot subdwarf star in the constellation Octans,,Q54231557|Q71798532,,
+JL 35,J35,Q62186181,10,0,2,protein-coding gene found in Trypanosoma cruzi,Tc00.1047053506605.150,Q7187,Q20747295,
+JL 35,J35,Q61528277,10,0,2,,,Q7187,Q20747295,
+JL 35,J35,Q61498535,10,0,2,,LmjF14.0110,Q7187,Q20747295,
+JL 35,J35,Q62153960,10,0,2,protein-coding gene found in Trypanosoma brucei gambiense,,Q7187,Q20747295,
+JL 35,LmxM.14.0110,Q62137139,10,0,2,Leishmania mexicana protein-coding gene,LmxM14.0110|DnaJ domain-containing protein|JDP35|J35,Q7187|Q8054,Q20747295,
+JL 35,elongated triangular orthobicupola,Q3051595,10,0,2,Johnson solid,J35,Q172937,Q1059659|Q15308596|Q188758,Elongated triangular orthobicupola
+JL 35,Tahlequah,Q56143220,10,0,2,orca,J35,Q26401003,,Tahlequah (orca)
+JL 35,LDHU3_14.0140,Q105113335,10,0,2,Leishmania donovani protein-coding gene,DnaJ domain-containing protein|JDP35|J35,Q20747295|Q8054,,
+JL 35,LINF_140006000,Q65952943,10,0,2,Leishmania infantum protein-coding gene,DnaJ domain-containing protein|JDP35|J35,Q20747295|Q8054,,
+JL 35,LMJFC_140006200,Q118215412,10,0,2,Leishmania major Friedlin protein-coding gene,DnaJ domain-containing protein|JDP35|J35,Q20747295|Q8054,,
+JL 35,Japan Air Lines Flight 350,Q994581,10,0,2,"deliberate crash of a Douglas DC-8 on February 9, 1982",JAL350|JL350,Q744913|Q19689353,,Japan Air Lines Flight 350
+JL 35,GM16451,Q54848571,10,0,2,cell line,JL359,Q21014462|Q27555384,,
+JL 35,GM50172,Q54854244,10,0,2,cell line,JL351,Q21014462|Q27555384,,
+KIC 6522967,KIC 6522967,Q87927358,11,0,1,hot subdwarf star in the constellation Lyra,,Q54231557,,
+KUV 13065+2739,KUV 13065+2739,Q92787067,12,0,1,hot subdwarf star in the constellation Coma Berenices,,Q54231557,,
+EC 13555-1552,EC 13555-1552,Q82298361,13,0,1,hot subdwarf star in the constellation Virgo,,Q54231557,,
+EC 13555-1552,Enzyme Commission number,Q741108,13,0,2,"hierarchical classification ID given to enzymes, identifying their membership in families",,Q732744,,Enzyme Commission number
+EC 13555-1552,European Community number,Q201132,13,0,2,unique seven-digit identifier,EC number,Q853614,Q4392007,European Community number
+EC 13555-1552,Exotic Collection number,Q112116876,13,0,2,a national identifier number given by National Bureau of Plant Genetic Resources (NBPGR) for exotic collected accession,NBPGR EC Number|NBPGR EC No|EC number,Q853614,Q853614,
+EC 13555-1552,acadesine,Q4671562,13,0,2,chemical compound,AICA-riboside|AR-100|SCH-900395|N(1)-(beta-D-ribofuranosyl)-5-aminoimidazole-4-carboxamide|EC Number 220-097-5|5-amino-1-beta-D-ribofuranosyl-4-imidazolecarboxamide|AIC-Riboside|5-amino-1-ribofuranosylimidazole-4-carboxamide|GP-1-110|5-amino-1-beta-D-ribofuranosylimidazole-4-carboxamide|5-amino-1-beta-ribofuranosyl-imidazole-4-carboxamide|GP 1-110|5-amino-1beta-D-ribofuranosylimidazole-4-carboxyamide|AICAr|5-aminoimidazole-4-carboxamide ribonucleoside|5-amino-4-imidazolecarboxamide ribofuranoside|Acadesine,Q113145171,Q27165673,Acadesine
+EC 13555-1552,EC number,Q5322796,13,0,2,Wikimedia disambiguation page,,Q4167410,,EC number
+SDSS J213007.10+115154.6,SDSS J213007.10+115154.6,Q74918179,14,0,1,,,Q54231557,,
+EC 09376-1125,EC 09376-1125,Q93704721,15,0,1,hot subdwarf star in the constellation Hydra,,Q54231557|Q2247863,,
+EC 09376-1125,Enzyme Commission number,Q741108,15,0,2,"hierarchical classification ID given to enzymes, identifying their membership in families",,Q732744,,Enzyme Commission number
+EC 09376-1125,European Community number,Q201132,15,0,2,unique seven-digit identifier,EC number,Q853614,Q4392007,European Community number
+EC 09376-1125,Exotic Collection number,Q112116876,15,0,2,a national identifier number given by National Bureau of Plant Genetic Resources (NBPGR) for exotic collected accession,NBPGR EC Number|NBPGR EC No|EC number,Q853614,Q853614,
+EC 09376-1125,acadesine,Q4671562,15,0,2,chemical compound,AICA-riboside|AR-100|SCH-900395|N(1)-(beta-D-ribofuranosyl)-5-aminoimidazole-4-carboxamide|EC Number 220-097-5|5-amino-1-beta-D-ribofuranosyl-4-imidazolecarboxamide|AIC-Riboside|5-amino-1-ribofuranosylimidazole-4-carboxamide|GP-1-110|5-amino-1-beta-D-ribofuranosylimidazole-4-carboxamide|5-amino-1-beta-ribofuranosyl-imidazole-4-carboxamide|GP 1-110|5-amino-1beta-D-ribofuranosylimidazole-4-carboxyamide|AICAr|5-aminoimidazole-4-carboxamide ribonucleoside|5-amino-4-imidazolecarboxamide ribofuranoside|Acadesine,Q113145171,Q27165673,Acadesine
+EC 09376-1125,EC number,Q5322796,15,0,2,Wikimedia disambiguation page,,Q4167410,,EC number

@@ -1,0 +1,26 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+neptunium-229,neptunium-229,Q18845552,0,0,1,isotope of neptunium,Np-229|229Np,Q2393673,Q1105,Neptunium-229
+protactinium-225,protactinium-225,Q18845508,0,3,1,isotope of protactinium,Pa-225|225Pa,Q2498986,Q1109,Protactinium-225
+neptunium-228,neptunium-228,Q18845551,1,0,1,isotope of neptunium,Np-228|228Np,Q2393673,Q1105,Neptunium-228
+protactinium-224,protactinium-224,Q18845507,1,3,1,isotope of protactinium,Pa-224|224Pa,Q2498986,Q1109,Protactinium-224
+protactinium-224,neptunium-228,Q18845551,1,3,2,isotope of neptunium,Np-228|228Np,Q2393673,Q1105,Neptunium-228
+protactinium-224,isotope,Q25276,1,3,2,nuclides having the same atomic number but different mass numbers,chemical isotope|atomic isotope|isotopes,Q24017414,Q108149,Isotope
+protactinium-224,isotopic labeling,Q370228,1,3,2,technique to follow reactions by using atomic isotopes,isotopic labelling|isotope labeling|isotope labelling,Q2695280,,Isotopic labeling
+protactinium-224,Isotopes in Environmental and Health Studies,Q15762133,1,3,2,journal,,Q5633421,,
+protactinium-224,Isotope,Q1098200,1,3,2,British band,,Q215380,,Isotope (band)
+protactinium-224,Isotope,Q11282222,1,3,2,,,Q4830453,,
+protactinium-224,Isotope,Q104855089,1,3,2,sailboat class,,Q106179098,Q190403|Q1075310,Isotope (catamaran)
+protactinium-224,Isotope,Q20194776,1,3,2,painting by Walter Murch,,Q3305213,,
+protactinium-224,Tongweisu,Q50497567,1,3,2,"Academic journal published by Editorial Board of Journal of Isotopes, covering the subjects: Science: Physics: Nuclear and particle physics. Atomic energy. Radioactivity",Isotope,Q737498|Q773668,,
+protactinium-224,isotope of lead,Q1372384,1,3,2,isotopes of lead (Pb),lead isotope,,Q25276,Isotopes of lead
+protactinium-224,isotope of bismuth,Q1372372,1,3,2,,isotopes of bismuth,,Q25276,Isotopes of bismuth
+protactinium-224,radioactive element,Q3658631,1,3,2,element undergoing radioactive decay,radioactive elements,,Q11344,Radioactive element
+protactinium-224,"radioactive elements and isotopes and compounds; alloys, dispersions, ceramic products and mixtures containing these elements, isotopes or compounds; radioactive residues",Q115753788,1,3,2,class in the Central Product Classification Version 2.1,,Q63981612,Q115748279,
+protactinium-224,radioactive element deposit,Q130650418,1,3,2,,,,Q76504028,
+protactinium-224,Radioactive elements on Mercury's surface from MESSENGER: implications for the planet's formation and evolution,Q41979912,1,3,2,scientific article published on September 2011,,Q13442814,,
+protactinium-224,Radioactive Element 93,Q21709312,1,3,2,scientific article published on 15 June 1940,,Q13442814,,
+protactinium-224,Radioactive Element 94 from Deuterons on Uranium,Q27344293,1,3,2,scientific article,,Q13442814,,
+protactinium-224,"Radioactive element distribution in the Archean granulite terrane of Jequi� ? Bahia, Brazil",Q59787909,1,3,2,article,,Q13442814,,
+protactinium-224,Radioactive Elements in the Continental Crust,Q59094935,1,3,2,scientific article published in Nature,,Q13442814,,
+protactinium-224,Radioactive elements; fundamental principles and results of their application in general biology,Q73458398,1,3,2,scientific article published on 01 February 1954,,Q13442814,,
+protactinium-224,Radioactive Elements,Q58955098,1,3,2,scientific article published in Nature,,Q13442814,,

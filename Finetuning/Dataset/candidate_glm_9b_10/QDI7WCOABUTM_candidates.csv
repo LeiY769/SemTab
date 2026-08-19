@@ -1,0 +1,35 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Chicago Blitz,Chicago Blitz,Q5095508,0,0,1,American football team in the USFL,,Q9275911,,Chicago Blitz
+Chicago Blitz,Chicago Blitz,Q117085747,0,0,1,American women's gridiron football team,,Q17156793,,Chicago Blitz (X League)
+Chicago Blitz,Chicago Blitz,Q16961430,0,0,1,professional Indoor Football Team,,Q12973014,,Chicago Blitz (indoor football)
+Chicago Blitz,American football team,Q17156793,0,0,2,organization in which a group of players are organized to compete as a team in American football,American football club|American rules football team|football team,,Q17270000|Q12973014,
+Chicago Blitz,American football team season,Q26895936,0,0,2,season of an American football club or team,,,Q1539532,
+Chicago Blitz,Detroit American football teams,Q1201517,0,0,2,former teams of the National Football League,,,Q9275911,Detroit (1920s NFL teams)
+American football,American football,Q41323,0,2,1,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+American football,American Football,Q28451873,0,2,1,2016 album by American Football,,Q482994,,American Football (2016 album)
+American football,American Football,Q4743797,0,2,1,1999 album by American Football,,Q482994,,American Football (1999 album)
+American football,American Football,Q60761944,0,2,1,2019 album by American Football,,Q482994,,American Football (2019 album)
+American football,American football player,Q19204627,0,2,1,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+American football,American football team season,Q26895936,0,2,1,season of an American football club or team,,,Q1539532,
+American football,American Football,Q118190260,0,2,1,1998 EP by American Football,,Q169930,,American Football (EP)
+American football,American football coach,Q42331263,0,2,1,coach of American football,football coach|gridiron football coach,Q12737077|Q4164871,Q41583,Coach (American football)
+American football,American football team,Q17156793,0,2,1,organization in which a group of players are organized to compete as a team in American football,American football club|American rules football team|football team,,Q17270000|Q12973014,
+American football,American Football,Q464369,0,2,1,American indie rock band,,Q215380,,American Football (band)
+American football,Chicago Blitz,Q5095508,0,2,2,American football team in the USFL,,Q9275911,,Chicago Blitz
+American football,Chicago Blitz,Q117085747,0,2,2,American women's gridiron football team,,Q17156793,,Chicago Blitz (X League)
+American football,Chicago Blitz,Q16961430,0,2,2,professional Indoor Football Team,,Q12973014,,Chicago Blitz (indoor football)
+American football,Detroit American football teams,Q1201517,0,2,2,former teams of the National Football League,,,Q9275911,Detroit (1920s NFL teams)
+Alabama Slammers,Alabama Slammers,Q126089,1,0,1,ice hockey team,,Q4498974,,Alabama Slammers
+Alabama Slammers,Alabama Slammers,Q4705318,1,0,1,defunct Women's American Football League,,Q17156793,,Alabama Slammers (Women's American Football League)
+American football,American football,Q41323,1,2,1,form of team game played with an oval ball on a field marked out as a gridiron,gridiron football|football|American rules football,Q216048,Q1546270,American football
+American football,American Football,Q28451873,1,2,1,2016 album by American Football,,Q482994,,American Football (2016 album)
+American football,American Football,Q4743797,1,2,1,1999 album by American Football,,Q482994,,American Football (1999 album)
+American football,American Football,Q60761944,1,2,1,2019 album by American Football,,Q482994,,American Football (2019 album)
+American football,American football player,Q19204627,1,2,1,athlete who plays American football,American footballer|player of American football|footballer|football player,Q28640,Q14128148,
+American football,American football team season,Q26895936,1,2,1,season of an American football club or team,,,Q1539532,
+American football,American Football,Q118190260,1,2,1,1998 EP by American Football,,Q169930,,American Football (EP)
+American football,American football coach,Q42331263,1,2,1,coach of American football,football coach|gridiron football coach,Q12737077|Q4164871,Q41583,Coach (American football)
+American football,American football team,Q17156793,1,2,1,organization in which a group of players are organized to compete as a team in American football,American football club|American rules football team|football team,,Q17270000|Q12973014,
+American football,American Football,Q464369,1,2,1,American indie rock band,,Q215380,,American Football (band)
+American football,Alabama Slammers,Q126089,1,2,2,ice hockey team,,Q4498974,,Alabama Slammers
+American football,Alabama Slammers,Q4705318,1,2,2,defunct Women's American Football League,,Q17156793,,Alabama Slammers (Women's American Football League)

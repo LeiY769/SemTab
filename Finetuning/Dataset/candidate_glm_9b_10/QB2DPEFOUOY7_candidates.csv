@@ -1,0 +1,679 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Oude Molen,Oude Molen,Q2495990,0,0,1,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Oude Molen,Oude Molenweg,Q19401917,0,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Oude Molen,Oude Molen,Q2296808,0,0,1,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Oude Molen,Kralingerpolder,Q17606394,0,0,1,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Oude Molen,Oude Molen,Q4493549,0,0,1,"hamlet in Deventer, Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q2273198,0,0,1,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q18434539,0,0,1,"watermill in Berlingen, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q108907501,0,0,1,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Oude Molen,Oude Molen,Q20829753,0,0,1,"watermill in Geenrode, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q56188021,0,0,1,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Oude Molen,Vieille Rue du Moulin - Oude Molenstraat,Q85656456,0,0,2,"street in Uccle, Belgium",Vieille Rue du Moulin|Oude Molenstraat,Q79007,,
+Oude Molen,Rue du Vieux Moulin - Oude Molenstraat,Q3452634,0,0,2,"street in Auderghem, Belgium",Rue du Vieux Moulin|Oude Molenstraat,Q79007,,
+Oude Molen,Oude Molenstraat,Q19401904,0,0,2,"street in Simpelveld, the Netherlands",,Q79007,,
+Oude Molen,Oude Molenstraat,Q19401905,0,0,2,"street in Zeeland, the Netherlands",,Q79007,,
+Oude Molen,Oude-Molenstraat,Q19403017,0,0,2,"street in Assen, the Netherlands",,Q79007,,
+Oude Molen,Oude Molenstraat,Q19401901,0,0,2,"street in Oss, the Netherlands","Oude Molenstraat, Oss",Q79007,,
+Oude Molen,Oude Molenstraat,Q19401903,0,0,2,"street in Schoonoord, the Netherlands",,Q79007,,
+Oude Molen,"Oude Molenstraat 2, Simpelveld",Q17440633,0,0,2,"building in Simpelveld, Netherlands",,Q41176,,
+Oude Molen,Simpelveld,Q9769,0,0,2,"municipality in Limburg, the Netherlands",,Q2039348,,Simpelveld
+Oude Molen,Simpelveld,Q14339968,0,0,2,"village in Simpelveld, Netherlands",,Q532|Q1852859,,
+Oude Molen,Simpelveld railway station,Q2125635,0,0,2,railway station in the Netherlands,,Q55488,,
+Oude Molen,Simpelvelder Straße,Q140756304,0,0,2,"street in Aachen, Germany","Simpelvelder Straße, Aachen|Simpelvelder Straße (Aachen)",Q79007|Q469510,,
+Oude Molen,Simpelveld municipal council,Q106219417,0,0,2,,,Q17014622,,
+Oude Molen,Simpelveld public library service point,Q61915789,0,0,2,"Public library in Simpelveld, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Oude Molen,Simpelveld Member,Q109801586,0,0,2,,,Q2092603,,
+Oude Molen,flag of Simpelveld,Q28103014,0,0,2,"flag of municipality in Limburg, the Netherlands",Simpelveld flag,Q21850100,,
+Oude Molen,Simpelveld dialect,Q97263688,0,0,2,,,Q33384,Q102172,
+Oude Molen,Simpelveld/Parkstad 5300-5500 junction,Q131149928,0,0,2,"connection of the N281, Netherlands",,Q353070,,
+Oude Molenstraat,Vieille Rue du Moulin - Oude Molenstraat,Q85656456,0,1,1,"street in Uccle, Belgium",Vieille Rue du Moulin|Oude Molenstraat,Q79007,,
+Oude Molenstraat,Rue du Vieux Moulin - Oude Molenstraat,Q3452634,0,1,1,"street in Auderghem, Belgium",Rue du Vieux Moulin|Oude Molenstraat,Q79007,,
+Oude Molenstraat,Oude Molenstraat,Q19401904,0,1,1,"street in Simpelveld, the Netherlands",,Q79007,,
+Oude Molenstraat,Oude Molenstraat,Q19401905,0,1,1,"street in Zeeland, the Netherlands",,Q79007,,
+Oude Molenstraat,Oude-Molenstraat,Q19403017,0,1,1,"street in Assen, the Netherlands",,Q79007,,
+Oude Molenstraat,Oude Molenstraat,Q19401901,0,1,1,"street in Oss, the Netherlands","Oude Molenstraat, Oss",Q79007,,
+Oude Molenstraat,Oude Molenstraat,Q19401903,0,1,1,"street in Schoonoord, the Netherlands",,Q79007,,
+Oude Molenstraat,"Oude Molenstraat 2, Simpelveld",Q17440633,0,1,1,"building in Simpelveld, Netherlands",,Q41176,,
+Oude Molenstraat,Oude Molen,Q2495990,0,1,2,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Oude Molenstraat,Oude Molenweg,Q19401917,0,1,2,"street in Maastricht, the Netherlands",,Q79007,,
+Oude Molenstraat,Oude Molen,Q2296808,0,1,2,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Oude Molenstraat,Kralingerpolder,Q17606394,0,1,2,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Oude Molenstraat,Oude Molen,Q4493549,0,1,2,"hamlet in Deventer, Netherlands",,Q1484611,,
+Oude Molenstraat,Oude Molen,Q2273198,0,1,2,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Oude Molenstraat,Oude Molen,Q18434539,0,1,2,"watermill in Berlingen, Belgium",,Q185187,,
+Oude Molenstraat,Oude Molen,Q108907501,0,1,2,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Oude Molenstraat,Oude Molen,Q20829753,0,1,2,"watermill in Geenrode, Belgium",,Q185187,,
+Oude Molenstraat,Oude Molen,Q56188021,0,1,2,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Oude Molenstraat,Simpelveld,Q9769,0,1,2,"municipality in Limburg, the Netherlands",,Q2039348,,Simpelveld
+Oude Molenstraat,Simpelveld,Q14339968,0,1,2,"village in Simpelveld, Netherlands",,Q532|Q1852859,,
+Oude Molenstraat,Simpelveld railway station,Q2125635,0,1,2,railway station in the Netherlands,,Q55488,,
+Oude Molenstraat,Simpelvelder Straße,Q140756304,0,1,2,"street in Aachen, Germany","Simpelvelder Straße, Aachen|Simpelvelder Straße (Aachen)",Q79007|Q469510,,
+Oude Molenstraat,Simpelveld municipal council,Q106219417,0,1,2,,,Q17014622,,
+Oude Molenstraat,Simpelveld public library service point,Q61915789,0,1,2,"Public library in Simpelveld, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Oude Molenstraat,Simpelveld Member,Q109801586,0,1,2,,,Q2092603,,
+Oude Molenstraat,flag of Simpelveld,Q28103014,0,1,2,"flag of municipality in Limburg, the Netherlands",Simpelveld flag,Q21850100,,
+Oude Molenstraat,Simpelveld dialect,Q97263688,0,1,2,,,Q33384,Q102172,
+Oude Molenstraat,Simpelveld/Parkstad 5300-5500 junction,Q131149928,0,1,2,"connection of the N281, Netherlands",,Q353070,,
+Simpelveld,Simpelveld,Q9769,0,2,1,"municipality in Limburg, the Netherlands",,Q2039348,,Simpelveld
+Simpelveld,Simpelveld,Q14339968,0,2,1,"village in Simpelveld, Netherlands",,Q532|Q1852859,,
+Simpelveld,Simpelveld railway station,Q2125635,0,2,1,railway station in the Netherlands,,Q55488,,
+Simpelveld,Simpelvelder Straße,Q140756304,0,2,1,"street in Aachen, Germany","Simpelvelder Straße, Aachen|Simpelvelder Straße (Aachen)",Q79007|Q469510,,
+Simpelveld,Simpelveld municipal council,Q106219417,0,2,1,,,Q17014622,,
+Simpelveld,Simpelveld public library service point,Q61915789,0,2,1,"Public library in Simpelveld, province of Limburg, The Netherlands",,Q28564|Q11396180,,
+Simpelveld,Simpelveld Member,Q109801586,0,2,1,,,Q2092603,,
+Simpelveld,flag of Simpelveld,Q28103014,0,2,1,"flag of municipality in Limburg, the Netherlands",Simpelveld flag,Q21850100,,
+Simpelveld,Simpelveld dialect,Q97263688,0,2,1,,,Q33384,Q102172,
+Simpelveld,Simpelveld/Parkstad 5300-5500 junction,Q131149928,0,2,1,"connection of the N281, Netherlands",,Q353070,,
+Simpelveld,Oude Molen,Q2495990,0,2,2,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Simpelveld,Oude Molenweg,Q19401917,0,2,2,"street in Maastricht, the Netherlands",,Q79007,,
+Simpelveld,Oude Molen,Q2296808,0,2,2,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Simpelveld,Kralingerpolder,Q17606394,0,2,2,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Simpelveld,Oude Molen,Q4493549,0,2,2,"hamlet in Deventer, Netherlands",,Q1484611,,
+Simpelveld,Oude Molen,Q2273198,0,2,2,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Simpelveld,Oude Molen,Q18434539,0,2,2,"watermill in Berlingen, Belgium",,Q185187,,
+Simpelveld,Oude Molen,Q108907501,0,2,2,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Simpelveld,Oude Molen,Q20829753,0,2,2,"watermill in Geenrode, Belgium",,Q185187,,
+Simpelveld,Oude Molen,Q56188021,0,2,2,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Simpelveld,Vieille Rue du Moulin - Oude Molenstraat,Q85656456,0,2,2,"street in Uccle, Belgium",Vieille Rue du Moulin|Oude Molenstraat,Q79007,,
+Simpelveld,Rue du Vieux Moulin - Oude Molenstraat,Q3452634,0,2,2,"street in Auderghem, Belgium",Rue du Vieux Moulin|Oude Molenstraat,Q79007,,
+Simpelveld,Oude Molenstraat,Q19401904,0,2,2,"street in Simpelveld, the Netherlands",,Q79007,,
+Simpelveld,Oude Molenstraat,Q19401905,0,2,2,"street in Zeeland, the Netherlands",,Q79007,,
+Simpelveld,Oude-Molenstraat,Q19403017,0,2,2,"street in Assen, the Netherlands",,Q79007,,
+Simpelveld,Oude Molenstraat,Q19401901,0,2,2,"street in Oss, the Netherlands","Oude Molenstraat, Oss",Q79007,,
+Simpelveld,Oude Molenstraat,Q19401903,0,2,2,"street in Schoonoord, the Netherlands",,Q79007,,
+Simpelveld,"Oude Molenstraat 2, Simpelveld",Q17440633,0,2,2,"building in Simpelveld, Netherlands",,Q41176,,
+Oude Molen,Oude Molen,Q2495990,1,0,1,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Oude Molen,Oude Molenweg,Q19401917,1,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Oude Molen,Oude Molen,Q2296808,1,0,1,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Oude Molen,Kralingerpolder,Q17606394,1,0,1,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Oude Molen,Oude Molen,Q4493549,1,0,1,"hamlet in Deventer, Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q2273198,1,0,1,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q18434539,1,0,1,"watermill in Berlingen, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q108907501,1,0,1,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Oude Molen,Oude Molen,Q20829753,1,0,1,"watermill in Geenrode, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q56188021,1,0,1,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Sint Pieterstraat,Sint-Pieterstraat,Q117011047,1,1,1,"street in Antwerp, Belgium",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19516342,1,1,1,"street in Maastricht, the Netherlands",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19516346,1,1,1,"street in Valkenburg, the Netherlands",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19545857,1,1,1,"street in Vink (Kerkrade), the Netherlands",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19516343,1,1,1,"street in Middelburg, the Netherlands",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19516345,1,1,1,"street in Tilburg, the Netherlands",,Q79007,,
+Sint Pieterstraat,Sint Pieterstraat,Q19516344,1,1,1,"street in Nieuwvliet, the Netherlands",,Q79007,,
+Sint Pieterstraat,"Sint Pieterstraat 15, Maastricht",Q17422102,1,1,1,"building in Maastricht, Netherlands",,Q3947|Q17489143,,
+Sint Pieterstraat,"Sint Pieterstraat 46, Maastricht",Q17422128,1,1,1,"building in Maastricht, Netherlands",,Q3947,,
+Sint Pieterstraat,"Sint Pieterstraat 21, Maastricht",Q17422111,1,1,1,"building in Maastricht, Netherlands",,Q3947|Q17489143,,
+Sint Pieterstraat,Oude Molen,Q2495990,1,1,2,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Sint Pieterstraat,Oude Molenweg,Q19401917,1,1,2,"street in Maastricht, the Netherlands",,Q79007,,
+Sint Pieterstraat,Oude Molen,Q2296808,1,1,2,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Sint Pieterstraat,Kralingerpolder,Q17606394,1,1,2,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Sint Pieterstraat,Oude Molen,Q4493549,1,1,2,"hamlet in Deventer, Netherlands",,Q1484611,,
+Sint Pieterstraat,Oude Molen,Q2273198,1,1,2,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Sint Pieterstraat,Oude Molen,Q18434539,1,1,2,"watermill in Berlingen, Belgium",,Q185187,,
+Sint Pieterstraat,Oude Molen,Q108907501,1,1,2,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Sint Pieterstraat,Oude Molen,Q20829753,1,1,2,"watermill in Geenrode, Belgium",,Q185187,,
+Sint Pieterstraat,Oude Molen,Q56188021,1,1,2,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Sint Pieterstraat,Valkenburg aan de Geul,Q9771,1,1,2,"municipality in Limburg, the Netherlands",,Q2039348,,Valkenburg aan de Geul
+Sint Pieterstraat,Valkenburg aan de Geul municipal council,Q106220273,1,1,2,,,Q17014622,,
+Sint Pieterstraat,coat of arms of Valkenburg aan de Geul,Q14517601,1,1,2,"coat of arms of municipality in Limburg, the Netherlands",Valkenburg aan de Geul coat of arms,Q28147344,,
+Valkenburg aan de Geul,Valkenburg aan de Geul,Q9771,1,2,1,"municipality in Limburg, the Netherlands",,Q2039348,,Valkenburg aan de Geul
+Valkenburg aan de Geul,Valkenburg aan de Geul municipal council,Q106220273,1,2,1,,,Q17014622,,
+Valkenburg aan de Geul,coat of arms of Valkenburg aan de Geul,Q14517601,1,2,1,"coat of arms of municipality in Limburg, the Netherlands",Valkenburg aan de Geul coat of arms,Q28147344,,
+Oude Molen,Oude Molen,Q2495990,2,0,1,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Oude Molen,Oude Molenweg,Q19401917,2,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Oude Molen,Oude Molen,Q2296808,2,0,1,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Oude Molen,Kralingerpolder,Q17606394,2,0,1,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Oude Molen,Oude Molen,Q4493549,2,0,1,"hamlet in Deventer, Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q2273198,2,0,1,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q18434539,2,0,1,"watermill in Berlingen, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q108907501,2,0,1,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Oude Molen,Oude Molen,Q20829753,2,0,1,"watermill in Geenrode, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q56188021,2,0,1,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Wellen,Wellen,Q636208,2,2,1,"municipality of Landkreis Trier-Saarburg, Germany",Wellen (Mosel),Q116457956,,"Wellen, Rhineland-Palatinate"
+Wellen,Wellen,Q37268000,2,2,1,family name,,Q101352,,
+Wellen,Wellen,Q119331,2,2,1,"municipality in Limburg, Belgium",,Q493522,,Wellen
+Wellen,Wellen,Q687916,2,2,1,"human settlement in Hohe Börde, Saxony-Anhalt, Germany",Wellen (Hohe Börde),Q253019,,"Wellen, Saxony-Anhalt"
+Wellen,Wellenreuther,Q21509256,2,2,1,family name,,Q101352,,Wellenreuther
+Wellen,Wellenbrink,Q83385144,2,2,1,family name,,Q101352,,
+Wellen,Wellen,Q21760239,2,2,1,"town in Wellen municipality, Belgium",,Q532,,
+Wellen,Wellen,Q1703234,2,2,1,"settlement in the municipality Beverstedt in the district of Cuxhaven, Lower Saxony, Germany",,Q3257686,,
+Wellen,Wellenkamp,Q83385149,2,2,1,family name,,Q101352,,
+Wellen,Wellen,Q1660728,2,2,1,"human settlement in Edertal, Germany",,Q253019,,
+Wellen,Oude Molen,Q2495990,2,2,2,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Wellen,Oude Molenweg,Q19401917,2,2,2,"street in Maastricht, the Netherlands",,Q79007,,
+Wellen,Oude Molen,Q2296808,2,2,2,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Wellen,Kralingerpolder,Q17606394,2,2,2,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Wellen,Oude Molen,Q4493549,2,2,2,"hamlet in Deventer, Netherlands",,Q1484611,,
+Wellen,Oude Molen,Q2273198,2,2,2,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Wellen,Oude Molen,Q18434539,2,2,2,"watermill in Berlingen, Belgium",,Q185187,,
+Wellen,Oude Molen,Q108907501,2,2,2,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Wellen,Oude Molen,Q20829753,2,2,2,"watermill in Geenrode, Belgium",,Q185187,,
+Wellen,Oude Molen,Q56188021,2,2,2,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Wellen,windmill,Q38720,2,2,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Wellen,Windmill,Q8024279,2,2,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Wellen,Windmill,Q6167950,2,2,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Wellen,windmill,Q1954962,2,2,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Wellen,Windmill,Q8024280,2,2,2,Helloween song,,Q105543609,,Windmill (song)
+Wellen,Windmill,Q18668417,2,2,2,painting by Piet Mondrian,,Q3305213,,
+Wellen,windmill,Q244568,2,2,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Wellen,Windmill,Q20506236,2,2,2,painting by Unidentified,,Q3305213,,
+Wellen,Windmill,Q27533742,2,2,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Wellen,Windmill,Q22041308,2,2,2,drawing van James Ensor,,Q93184,,
+Wellen,watermill,Q185187,2,2,2,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Wellen,The watermill,Q20423793,2,2,2,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Wellen,Watermill,Q28061441,2,2,2,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Wellen,Watermill,Q111655320,2,2,2,painting by Meindert Hobbema,,Q3305213,,
+Wellen,Watermill,Q41366430,2,2,2,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Wellen,Watermill,Q111042963,2,2,2,painting by Petro Levchenko,,Q3305213,,
+Wellen,Watermill Sint-Gertrudis-Pede,Q2351081,2,2,2,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Wellen,Watermill,Q41249359,2,2,2,,,Q1516079|Q185187,,
+Wellen,Watermill,Q76997818,2,2,2,painting by John Kelt Edwards,,Q3305213,,
+Wellen,Watermill,Q56761054,2,2,2,painting by Jan van Goyen,,Q3305213,,
+White's Mill,White's Mill,Q16903226,3,0,1,"grist mill in Washington County, Virginia",,Q185187,,"White's Mill (Abingdon, Virginia)"
+White's Mill,White's Mill,Q131412012,3,0,1,,,,,White's Mill (Tandragee)
+White's Mill,White's Mill,Q16948365,3,0,1,,,,,"White's Mill (Casa Blanca, Arizona)"
+White's Mill,White's Mill,Q7994248,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Washington County,Washington County,Q507256,3,2,1,"county in Maine, United States","Washington County, Maine|Washington County, ME",Q13410454,,"Washington County, Maine"
+Washington County,Washington County,Q27240,3,2,1,"county in southwestern Utah, United States","Washington County, Utah|Washington County, UT",Q13415365,,"Washington County, Utah"
+Washington County,county of Washington,Q13415369,3,2,1,"subdivision of the state of Washington, United States of America",counties of Washington|Washington county|Washington counties|state of Washington county|county of the state of Washington,,Q47168,
+Washington County,Washington County,Q484538,3,2,1,"county in Oregon, United States","Washington County, Oregon|Washington County, OR",Q13414761,,"Washington County, Oregon"
+Washington County,Washington County,Q54258,3,2,1,"county in Rhode Island, United States","Washington County, Rhode Island|South County|Washington County, RI",Q13414764,,"Washington County, Rhode Island"
+Washington County,Washington County,Q61148,3,2,1,"county in Arkansas, United States","Washington County, Arkansas|Washington County, AR",Q11774062,,"Washington County, Arkansas"
+Washington County,Washington County,Q496486,3,2,1,"county in Missouri, United States","Washington County, Missouri|Washington County, MO",Q13410520,,"Washington County, Missouri"
+Washington County,Washington County,Q497200,3,2,1,"county in Pennsylvania, United States","Washington County, Pennsylvania|Washington County, PA",Q13414763,,"Washington County, Pennsylvania"
+Washington County,Washington County,Q489571,3,2,1,"county in Ohio, United States","Washington County, Ohio|Washington County, OH",Q13414759,,"Washington County, Ohio"
+Washington County,Washington County,Q56149,3,2,1,"county in New York, United States","Washington County, New York|Washington County, NY",Q13414757,,"Washington County, New York"
+Washington County,White's Mill,Q16903226,3,2,2,"grist mill in Washington County, Virginia",,Q185187,,"White's Mill (Abingdon, Virginia)"
+Washington County,White's Mill,Q131412012,3,2,2,,,,,White's Mill (Tandragee)
+Washington County,White's Mill,Q16948365,3,2,2,,,,,"White's Mill (Casa Blanca, Arizona)"
+Washington County,White's Mill,Q7994248,3,2,2,Wikimedia disambiguation page,,Q4167410,,
+Washington County,County of Washington v. Gunther,Q56273875,3,2,2,1981 United States Supreme Court case,,Q19692072,,County of Washington v. Gunther
+Washington County,County of Washington Assessment Books for the First and Second Districts (NAID 12023183),Q64315054,3,2,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Washington County,County of Washington v. Gunther: Sex-Based Wage Discrimination Extends beyond the Equal Pay Act,Q108735231,3,2,2,,,Q191067,,
+Roermolen,Roermolen,Q2161448,4,0,1,"watermill in Jabeek, Netherlands",,Q185187,,
+Roermolen,Roermolen,Q19476786,4,0,1,"street in Jabeek, the Netherlands",,Q79007,,
+Roermolen,Roermolen,Q2161448,4,1,1,"watermill in Jabeek, Netherlands",,Q185187,,
+Roermolen,Roermolen,Q19476786,4,1,1,"street in Jabeek, the Netherlands",,Q79007,,
+Beekdaelen,Beekdaelen,Q29957432,4,2,1,municipality in The Netherlands,,Q2039348,,Beekdaelen
+Beekdaelen,Beekdaelen municipal council,Q106212850,4,2,1,,,Q17014622,,
+Beekdaelen,coat of arms of Beekdaelen,Q66316610,4,2,1,"coat of arms of municipality in Limburg, the Netherlands",Beekdaelen coat of arms,Q28147344,,
+Beekdaelen,Beekdaelen Lokaal,Q110854240,4,2,1,Dutch local political party,,Q24887161,,
+Beekdaelen,Roermolen,Q2161448,4,2,2,"watermill in Jabeek, Netherlands",,Q185187,,
+Beekdaelen,Roermolen,Q19476786,4,2,2,"street in Jabeek, the Netherlands",,Q79007,,
+Mangel,Mangel,Q112108121,5,0,1,Spanish YouTuber and streamer,,Q5,,
+Mangel,Mangelia,Q3172840,5,0,1,genus of molluscs,,Q16521,,Mangelia
+Mangel,Mangeliidae,Q3525953,5,0,1,family of molluscs,,Q16521,,Mangeliidae
+Mangel,mangle,Q856679,5,0,1,mechanical laundry aid,wringer|Mangel,Q1183543,Q212920,Mangle (machine)
+Mangel,Mangel,Q16876368,5,0,1,family name,Mangel (surname),Q101352,,Mangel (surname)
+Mangel,Mangeliinae,Q21447362,5,0,1,subfamily of molluscs,,Q16521,,
+Mangel,Mangelsdorf,Q37431595,5,0,1,family name,,Q101352,,Mangelsdorf
+Mangel,Mangels,Q6748967,5,0,1,family name,,Q101352,,Mangels (surname)
+Mangel,Mangel,Q31309801,5,0,1,,,Q54050,,
+Mangel,Mängel,Q56189033,5,0,1,family name,Mängel (family name)|Mängel (surname),Q101352,,
+Mangel,Neukirch/Lausitz,Q93270,5,0,2,"municipality in the district of Bautzen, Saxony, Germany",,Q116457956,,Neukirch/Lausitz
+Mangel,"Neukirch/Lausitz, Lindenweg 9",Q49394269,5,0,2,"house in Neukirch/Lausitz, Germany",,Q3947,,
+Mangel,"Neukirch/Lausitz, Lindenweg 6",Q49394265,5,0,2,"house in Neukirch/Lausitz, Germany",,Q3947,,
+Mangel,Neukirch/Lausitz,Q24212778,5,0,2,Wikimedia disambiguation page,,Q4167410,,
+Neukirch/Lausitz,Neukirch/Lausitz,Q93270,5,2,1,"municipality in the district of Bautzen, Saxony, Germany",,Q116457956,,Neukirch/Lausitz
+Neukirch/Lausitz,"Neukirch/Lausitz, Lindenweg 9",Q49394269,5,2,1,"house in Neukirch/Lausitz, Germany",,Q3947,,
+Neukirch/Lausitz,"Neukirch/Lausitz, Lindenweg 6",Q49394265,5,2,1,"house in Neukirch/Lausitz, Germany",,Q3947,,
+Neukirch/Lausitz,Neukirch/Lausitz,Q24212778,5,2,1,Wikimedia disambiguation page,,Q4167410,,
+Neukirch/Lausitz,Neukirch,Q372036,5,2,2,"municipality in the district of Bodenseekreis, Baden-Württemberg, Germany",,Q116457956,,"Neukirch, Baden-Württemberg"
+Neukirch/Lausitz,Neukirch,Q93268,5,2,2,"municipality in the district of Bautzen, Saxony, Germany",,Q116457956,,Neukirch (bei Königsbrück)
+Neukirch/Lausitz,Neuve-Église,Q22896,5,2,2,"commune in Bas-Rhin, France",Neukirch,Q484170,,Neuve-Église
+Neukirch/Lausitz,Neukirchen/Erzgeb.,Q57804,5,2,2,"municipality of Germany in the Erzgebirgskreis, Saxony",,Q116457956,,"Neukirchen, Erzgebirgskreis"
+Neukirch/Lausitz,Neukirchen bei Lambach,Q677306,5,2,2,"municipality in Wels-Land District, Upper Austria, Austria",,Q1802801|Q667509,,Neukirchen bei Lambach
+Neukirch/Lausitz,Neukirchen am Walde,Q678808,5,2,2,"municipality in Grieskirchen District, Upper Austria, Austria",,Q562061|Q667509,,Neukirchen am Walde
+Neukirch/Lausitz,Neukirch,Q28745060,5,2,2,family name,,Q101352,,
+Neukirch/Lausitz,Neukirch an der Thur,Q7001862,5,2,2,"village and former municipality in Kradolf-Schönenberg in the canton of Thurgau, Switzerland",,Q532|Q685309,,Neukirch an der Thur
+Neukirch/Lausitz,Neukirch,Q1980768,5,2,2,"quarter of Furtwangen im Schwarzwald, Baden-Württemberg, Germany",,Q253019|Q990488,,
+Neukirch/Lausitz,Lusatia,Q32530,5,2,2,historical region in Central Europe,Łužica|Łužyca|Lausitz,Q82794|Q1620908,,Lusatia
+Neukirch/Lausitz,Lausitz,Q1808503,5,2,2,part of Bad Liebenwerda,,Q253019,,
+Neukirch/Lausitz,Lausitz - Łužica - Łužyca,Q63432180,5,2,2,weblog: lausitz.hypotheses.org/,,Q30849|Q472328,,
+Neukirch/Lausitz,LHC Cottbus,Q16740332,5,2,2,,Lausitzer Handballclub Cottbus,Q847017,,
+Neukirch/Lausitz,Lausitzer Wende,Q97825582,5,2,2,"street in the district of Kirchrode in Hanover, Germany",,Q79007,,
+Neukirch/Lausitz,Lausitzer Füchse,Q530391,5,2,2,"ice hockey club in Weisswasser, Saxony, Germany",Lausitzer Fuchse,Q4498974,,Lausitzer Füchse
+Neukirch/Lausitz,Zittau Mountains,Q206587,5,2,2,mountain range,Lusatian Ridge|Lausitzer Kamm|Žitavské hory,Q46831,,Zittau Mountains
+Neukirch/Lausitz,Lausitzer Straße,Q101421248,5,2,2,residential street in Berlin running North-South from Görlitzer Park to Landwehrkanal,Lausitzer Strasse|Lausitzerstrasse,Q79007,,
+Neukirch/Lausitz,LEAG,Q27230613,5,2,2,German company,Lausitz Energie Verwaltungs,Q4830453,,LEAG
+Neukirch/Lausitz,Lausitzer Radfahrer-Bund,Q27886907,5,2,2,"German cycling association, 1906-1933",,Q5198626|Q46100661,,
+Watermill,watermill,Q185187,6,0,1,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Watermill,The watermill,Q20423793,6,0,1,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Watermill,Watermill,Q28061441,6,0,1,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Watermill,Watermill,Q111655320,6,0,1,painting by Meindert Hobbema,,Q3305213,,
+Watermill,Watermill,Q41366430,6,0,1,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Watermill,Watermill,Q111042963,6,0,1,painting by Petro Levchenko,,Q3305213,,
+Watermill,Watermill Sint-Gertrudis-Pede,Q2351081,6,0,1,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Watermill,Watermill,Q41249359,6,0,1,,,Q1516079|Q185187,,
+Watermill,Watermill,Q76997818,6,0,1,painting by John Kelt Edwards,,Q3305213,,
+Watermill,Watermill,Q56761054,6,0,1,painting by Jan van Goyen,,Q3305213,,
+Alvingham,Alvingham,Q1970796,6,2,1,"village and civil parish in Lincolnshire, UK","Alvingham, Lincolnshire",Q532|Q1115575,,Alvingham
+Alvingham,Alvingham Priory,Q4738271,6,2,1,"priory in Lincolnshire, England, UK",,Q96353874|Q2750108,,Alvingham Priory
+Alvingham,Alvingham Lock And Inverted Syphon Tf 365909,Q26316423,6,2,1,"lock in Alvingham, East Lindsey, Lincolnshire, England, UK",,Q105731,,
+Alvingham,Baron Alvingham,Q4862101,6,2,1,British peer,,Q355567,,Baron Alvingham
+Watermill,watermill,Q185187,7,0,1,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Watermill,The watermill,Q20423793,7,0,1,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Watermill,Watermill,Q28061441,7,0,1,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Watermill,Watermill,Q111655320,7,0,1,painting by Meindert Hobbema,,Q3305213,,
+Watermill,Watermill,Q41366430,7,0,1,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Watermill,Watermill,Q111042963,7,0,1,painting by Petro Levchenko,,Q3305213,,
+Watermill,Watermill Sint-Gertrudis-Pede,Q2351081,7,0,1,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Watermill,Watermill,Q41249359,7,0,1,,,Q1516079|Q185187,,
+Watermill,Watermill,Q76997818,7,0,1,painting by John Kelt Edwards,,Q3305213,,
+Watermill,Watermill,Q56761054,7,0,1,painting by Jan van Goyen,,Q3305213,,
+Thoresway,Thoresway,Q7796207,7,2,1,"village and civil parish in Lincolnshire, United Kingdom","Thoresway, Lincolnshire",Q532|Q1115575,,Thoresway
+Thoresway,Thoresway,Q24665713,7,2,1,Wikimedia duplicated page,"Thoresway, Lincolnshire",Q17362920,,
+Thoresway,Thoresway Grange Farmhouse,Q26641968,7,2,1,"farmhouse in Thoresway, West Lindsey, Lincolnshire, England, UK",,Q489357,,
+Thoresway,Thoresway,Q29590597,7,2,1,Wikimedia disambiguation page,,Q4167410,,
+Watermill,watermill,Q185187,8,0,1,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Watermill,The watermill,Q20423793,8,0,1,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Watermill,Watermill,Q28061441,8,0,1,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Watermill,Watermill,Q111655320,8,0,1,painting by Meindert Hobbema,,Q3305213,,
+Watermill,Watermill,Q41366430,8,0,1,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Watermill,Watermill,Q111042963,8,0,1,painting by Petro Levchenko,,Q3305213,,
+Watermill,Watermill Sint-Gertrudis-Pede,Q2351081,8,0,1,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Watermill,Watermill,Q41249359,8,0,1,,,Q1516079|Q185187,,
+Watermill,Watermill,Q76997818,8,0,1,painting by John Kelt Edwards,,Q3305213,,
+Watermill,Watermill,Q56761054,8,0,1,painting by Jan van Goyen,,Q3305213,,
+Bardwell,Bardwell,Q3385780,8,2,1,"village and civil parish in Suffolk, England, UK","Bardwell, Suffolk",Q532|Q1115575,,"Bardwell, Suffolk"
+Bardwell,Bardwell,Q2451273,8,2,1,"county seat in Kentucky, United States","Bardwell, Kentucky|Bardwell, KY",Q1093829,,"Bardwell, Kentucky"
+Bardwell,Thomas Bardwell,Q7787380,8,2,1,British painter (1704-1767),Bardwell,Q5,,Thomas Bardwell
+Bardwell,Bardwell,Q28874329,8,2,1,family name,,Q101352,,Bardwell (surname)
+Bardwell,1615 Bardwell,Q141465,8,2,1,asteroid,Bardwell,Q3863,,1615 Bardwell
+Bardwell,Bardwell,Q981958,8,2,1,"city in Ellis County, Texas, United States","Bardwell, Texas|Bardwell, TX",Q1093829,,"Bardwell, Texas"
+Bardwell,Bardwell,Q24663663,8,2,1,Wikimedia duplicated page,"Bardwell, Suffolk",Q17362920,,
+Bardwell,Bardwell,Q23793556,8,2,1,"electoral ward of West Suffolk, in Suffolk, England, UK",Bardwell (ward)|Bardwell Ward,Q589282,,Bardwell Ward
+Bardwell,Bardwell,Q4860236,8,2,1,"unincorporated community in the town of Darien, Walworth County, Wisconsin",,Q17343829,,"Bardwell, Wisconsin"
+Bardwell,Bardwell L. Smith,Q113789918,8,2,1,,,Q5,,
+Bardwell,Bardwell Mill,Q48740450,8,2,2,hamlet in Oneida,"Bardwell Mill, NY",Q17343829,,"Bardwell Mill, New York"
+Watermill,watermill,Q185187,9,0,1,structure that uses a water wheel or turbine to drive a mechanical process,water mill,,Q44494|Q56822897,Watermill
+Watermill,The watermill,Q20423793,9,0,1,painting by Jacob Van Ruisdael,Watermill,Q3305213,,The Watermill (Ruisdael)
+Watermill,Watermill,Q28061441,9,0,1,"painting by A.J.H.; Ruisdael, J.I. van Heydenrijk",,Q3305213,,
+Watermill,Watermill,Q111655320,9,0,1,painting by Meindert Hobbema,,Q3305213,,
+Watermill,Watermill,Q41366430,9,0,1,"former water mill on the Kettelbach in Bürglein near Heilsbronn, Germany",,Q185187|Q811165,,
+Watermill,Watermill,Q111042963,9,0,1,painting by Petro Levchenko,,Q3305213,,
+Watermill,Watermill Sint-Gertrudis-Pede,Q2351081,9,0,1,"watermill in Sint-Gertrudis-Pede, Belgium",Watermolen Sint-Gertrudis-Pede|watermill,Q185187,,Watermill Sint-Gertrudis-Pede
+Watermill,Watermill,Q41249359,9,0,1,,,Q1516079|Q185187,,
+Watermill,Watermill,Q76997818,9,0,1,painting by John Kelt Edwards,,Q3305213,,
+Watermill,Watermill,Q56761054,9,0,1,painting by Jan van Goyen,,Q3305213,,
+Sapiston,Sapiston,Q2508832,9,2,1,"village in Suffolk, England, UK","Sapiston, Suffolk",Q532|Q1115575,,Sapiston
+Sapiston,Sapiston,Q24674662,9,2,1,Wikimedia duplicated page,"Sapiston, Suffolk",Q17362920,,
+Rooiermolen,Rooiermolen,Q4989330,10,0,1,"watermill in Opitter, Belgium",,Q185187,,
+Rooiermolen,Rooiermolen,Q15881465,10,0,1,"watermill in Diepenbeek, Belgium",,Q185187,,
+Rooiermolen,Rooiermolen,Q4839392,10,0,1,Wikimedia disambiguation page,,Q4167410,,
+Diepenbeek,Diepenbeek,Q651826,10,2,1,"municipality in Limburg, Belgium",,Q493522,,Diepenbeek
+Diepenbeek,Diepenbeek,Q66311957,10,2,1,"section of Diepenbeek, Belgium",,Q2785216,,
+Diepenbeek,Abraham van Diepenbeeck,Q330854,10,2,1,painter (1596-1675),Abraham Jansz. van Diepenbecke|Abraham Jansz. van Dehenbach|Abraham Jansz. van Diepenbeek|Abraham Jansz. van Dipembeck|Abraham Jansz. van Diepenbeeck|Abraham Jansz. van Dieppenbeck|Abraham Jansz. van Depenbech|Abraham Jansz. van Depenbeck|Abraham Jansz. van Dippenbeck|Abraham Jansz. van Diepenback|Abraham Jansz. van Dupenback|Abraham Jansz. van Diepenbach|Abraham Jansz. Van Diepenbeeck|Abraham Jansz. van Diepenbek|Abraham van Diepenbeek|Abraham Jansz. van Deepenbech|Abraham Jansz. van Dupenbeck|Abraham van Diepenbeck|Abraham Van Diepenbeeck|Abraham von Diepenbeck|Abraham Jansz van Diepenbeeck|Abraham Jansz. van Diepenbeke|Abraham van Diepenbeke|Abraham Jansz. van Dussenbeck|Abraham Jansz. van Diepenbeck|Abraham Jansz. van Depenbeke|Abraham Jansz. van Diepinbiek|Abraham Jansz. van Diepeubeck|Abraham van Diepenbecke|Abramo van Diepenbeke|Abramo van Diepenbecck|Abraham van Diepenboeck|Abr. van Diepenbeek|Dipenbeck|Dussenbeck|Abraham Diepenbek|A. Diepenbeke|abraham v. diepenbeeck|Diepembeke|Dippenback|Abraham Vandiepenbeeck|Abraham à Diepenbeke|Diepembech|Diepembeck|Dietenbeck|Abraham v. Diepenboeck|Abraham Van Diépenbeck|Dieppenbeck|A. Diepenbeck|Diepenbroek|Abraham Diepenpeck|A. van Diepenbeek|Abraham van Dieppenbeck|Abr. Diepenbeek|Dieppenbek|Abraham Dieppenbeck|Piepenbeek|Diepenback|Diepenbach|Diepeubeck|Diepenbeke|Ab. Diepenbeek|Diépenbeck|Depenbech|Depenbeck|Abr. Diöbenbeck|A. Diepenpeck|A. Diepenbeek|Dicpenbeck|Abraham Diepenbeke|Dieppenbeek|Van Diepenbeeck|Depenbeke|Dupenback|Abraham Van Diapenbeck|a. v. diepenbeeck|Abraham van Diepembeck|A. Van Diebenbeek|Abraham Diepenbeck|Diepenbeck|Dupenbeck|Deepenbech|Dibenbeck|Diépernbeke|Diepinbeek|Dicpinbekc|Diepenbeek|Abraham Diepenbeèk|Abaham Diepenbeck|Dehenbach|Diepenbeeck|Diepinbeck|scolare del Vandich Diepenbech|Diefenbeck|Deepenbeck|Abraham Van Diepenbéke|A. Dieppenbaeck|Abr. Diebenbeck|Diebenbeck|Ab. Diepenbeck|Diespinbek|A. Dipenbeck|A. Diepembek|Diepinbiek|Dippenbeck|Diebenböck|Abraham Van Diepenbeek|A. Diepenbeeck|Dipembeck|Diepenbech|Abraham Dieppenbaeck|Dicpenbeeck|a. van diepenbeeck|Diépembeck|Dipenbeek|Diepenbeék|Piepenbeck|Diepembec|Abrah. Van Diepenbeeck|Die-Pin-Bec|Diepenbek|abraham van diepenbeeke|Diepembek|Abr. Diepenbeck|Van Diepenbeek|Diepenbecke|Abraham van Diepenbek|A. Van Diepenbeke|Abrah. v. Diepenbek|abrah. v. diepenbeeck|Diepenbéke|Abraham Van Diepembeke|abraham diepenbeeck|Abraham Diepenbeeke,Q5,,Abraham van Diepenbeeck
+Diepenbeek,Diepenbeek,Q21768660,10,2,1,"town in Diepenbeek municipality, Belgium",,Q532,,
+Diepenbeek,Diepenbeek railway station,Q1947277,10,2,1,railway station in Belgium,,Q55488,,Diepenbeek railway station
+Diepenbeek,Diepenbeek,Q19016893,10,2,1,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Diepenbeek,coat of arms of Diepenbeek,Q44003871,10,2,1,Coat of arms of the Belgian municipality of Diepenbeek,Diepenbeek coat of arms,Q41505469,,
+Diepenbeek,Diepenbeek Castle,Q1959250,10,2,1,"castle in Diepenbeek, Belgium",,Q751876,,Diepenbeek Castle
+Diepenbeek,Diepenbeekplantsoen,Q19016895,10,2,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Diepenbeek,Diepenbeek wablief.,Q123929229,10,2,1,Belgian periodical,,Q1002697,,
+Diepenbeek,Rooiermolen,Q4989330,10,2,2,"watermill in Opitter, Belgium",,Q185187,,
+Diepenbeek,Rooiermolen,Q15881465,10,2,2,"watermill in Diepenbeek, Belgium",,Q185187,,
+Diepenbeek,Rooiermolen,Q4839392,10,2,2,Wikimedia disambiguation page,,Q4167410,,
+Rooiermolen,Rooiermolen,Q4989330,11,0,1,"watermill in Opitter, Belgium",,Q185187,,
+Rooiermolen,Rooiermolen,Q15881465,11,0,1,"watermill in Diepenbeek, Belgium",,Q185187,,
+Rooiermolen,Rooiermolen,Q4839392,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Bree,Bree,Q275863,11,2,1,"city in Limburg, Belgium",,Q493522|Q15273785,,"Bree, Belgium"
+Bree,Bree,Q3644172,11,2,1,female given name,,Q11879590,,
+Bree,Bree,Q16275080,11,2,1,family name,,Q101352,,Bree (surname)
+Bree,Brée,Q625486,11,2,1,"commune in Mayenne, France",,Q484170,,Brée
+Bree,Bree Olson,Q235053,11,2,1,former American pornographic actress (born 1986),Bree Olsen|Alecia Knight|Brea|Brea Nubiles|Bree|Bree Olsn|Bree XXX,Q5,,Bree Olson
+Bree,Bree Daniels,Q16533987,11,2,1,American pornographic actress,Breanne Boland|Bree Victoria|Bree Daniels|Brea of Zeng|Bree|Bree Victorie|FTV Brea,Q5,,
+Bree,Brée,Q63116575,11,2,1,family name,Brée (family name)|Brée (surname),Q101352,,
+Bree,Breen,Q21509072,11,2,1,family name,,Q101352,,Breen (surname)
+Bree,Breel Embolo,Q15956282,11,2,1,Swiss footballer,Breel Donald Embolo,Q5,,Breel Embolo
+Bree,Breedon on the Hill,Q769580,11,2,1,"village in Leicestershire, England, UK","Breedon-on-the-Hill|Breedon on the Hill, Leicestershire",Q532|Q1115575,,Breedon on the Hill
+Can Moner,Can Moner,Q28712314,12,0,1,"building in Girona Province, Spain",,Q585956,,
+Can Moner,Can Moner,Q47180558,12,0,1,"building in Sant Feliu de Buixalleu, Catalonia",,Q585956,,
+Can Moner,Can Moner,Q17614908,12,0,1,"masia in Santa Coloma de Farners (Selva, Catalonia)",,Q585956,,
+Can Moner,Can Moner,Q47180389,12,0,1,"building in La Cellera de Ter, Catalonia",,Q585956,,
+Can Moner,Can Moner,Q19257112,12,0,1,,,Q185187,,
+Can Moner,Can Moner,Q107117014,12,0,1,"masia in Aiguaviva, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Moner,Can Moner,Q107114272,12,0,1,"masia in Llagostera, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Moner,Can Moner,Q107193504,12,0,1,"masia in Corçà, Baix Empordà, Girona, Catalonia, Spain",,Q585956,,
+Can Moner,Can Moneret,Q107114275,12,0,1,"masia in Llagostera, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Moner,Can Sales Menor,Q106040178,12,0,1,building in Palma (Mallorca),,Q21092604,,
+Llagostera,Llagostera,Q13435,12,2,1,municipality in the comarca of the Gironès in Catalonia,,Q33146843,,Llagostera
+Llagostera,Llagostera,Q23995170,12,2,1,"capital town of the municipality of Llagostera, Spain",,Q3055118|Q130261443|Q121289819,,
+Llagostera,Llagostera,Q63247450,12,2,1,family name,,Q101352,,
+Llagostera,Llagostera Residencial,Q11762269,12,2,1,human settlement in Spain,,Q3055118|Q133503733,,
+Llagostera,Llagostera de Dalt,Q47181734,12,2,1,"building in Barcelona Province, Spain",,Q585956,,
+Llagostera,Llagostera,Q115996535,12,2,1,sardana by Josep Masó i Quer,,Q105543609,,
+Llagostera,history of Llagostera,Q20105742,12,2,1,,Llagostera history,Q17524420,Q1516481,
+Llagostera,Llagostera results in 2021 Catalan parliamentary election,Q105515309,12,2,1,Municipal electoral results,,Q19571328,,
+Llagostera,Llagostera results in 2017 Catalan parliamentary election,Q105482041,12,2,1,Municipal electoral results,,Q19571328,,
+Llagostera,Llagostera de Baix,Q47181702,12,2,1,"building in Barcelona Province, Spain",,Q585956,,
+Llagostera,Can Moner,Q28712314,12,2,2,"building in Girona Province, Spain",,Q585956,,
+Llagostera,Can Moner,Q47180558,12,2,2,"building in Sant Feliu de Buixalleu, Catalonia",,Q585956,,
+Llagostera,Can Moner,Q17614908,12,2,2,"masia in Santa Coloma de Farners (Selva, Catalonia)",,Q585956,,
+Llagostera,Can Moner,Q47180389,12,2,2,"building in La Cellera de Ter, Catalonia",,Q585956,,
+Llagostera,Can Moner,Q19257112,12,2,2,,,Q185187,,
+Llagostera,Can Moner,Q107117014,12,2,2,"masia in Aiguaviva, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Llagostera,Can Moner,Q107114272,12,2,2,"masia in Llagostera, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Llagostera,Can Moner,Q107193504,12,2,2,"masia in Corçà, Baix Empordà, Girona, Catalonia, Spain",,Q585956,,
+Llagostera,Can Moneret,Q107114275,12,2,2,"masia in Llagostera, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Llagostera,Can Sales Menor,Q106040178,12,2,2,building in Palma (Mallorca),,Q21092604,,
+Newnham Mill,Newnham Mill,Q26616728,13,0,1,"watermill in Cambridge, Cambridgeshire, England, UK",,Q185187,,
+Newnham Mill,Newnham Mill,Q26633300,13,0,1,"mill in Knighton on Teme, Malvern Hills, Worcestershire, England, UK",,Q44494,,
+Cambridge,Cambridge,Q49111,13,2,1,"city in Middlesex County, Massachusetts, United States of America","Cambridge, MA|Cambridge, Mass.",Q1093829|Q1549591|Q515,,"Cambridge, Massachusetts"
+Cambridge,Cambridge,Q350,13,2,1,"city in Cambridgeshire, England",,Q1187811|Q515|Q1357964|Q1549591|Q110390579|Q1115575,,Cambridge
+Cambridge,University of Cambridge,Q35794,13,2,1,"collegiate public research university in Cambridge, England, United Kingdom","Cambridge University|Cambridge|Universitas Cantabrigiensis|The Chancellor, Masters, and Scholars of the University of Cambridge|The University of Cambridge",Q3354859|Q62078547|Q5341295,,University of Cambridge
+Cambridge,Cambridgeshire,Q30612390,13,2,1,historic county of England,County of Cambridge,Q1138494,,Cambridgeshire (historic)
+Cambridge,Cambridge,Q37059326,13,2,1,family name,,Q101352,,
+Cambridge,Cambridge,Q1028267,13,2,1,"suburb of Hobart, Tasmania, Australia","Cambridge, Tasmania|Cambridge, Tasmania, Australia",Q188509|Q98433835,,"Cambridge, Tasmania"
+Cambridge,Cambridge University Press,Q912887,13,2,1,publishing business of the University of Cambridge,,Q479716|Q1320047|Q45400320|Q96888669,,Cambridge University Press
+Cambridge,Cambridge United F.C.,Q18509,13,2,1,"association football club in Cambridge, England",Cambridge United Football Club|Cambridge United FC|Cambridge United|The U's|Cambridge|CUFC|United,Q476028,,Cambridge United F.C.
+Cambridge,Cambridge,Q21713103,13,2,1,"district in Cambridgeshire, England","City of Cambridge, England|City of Cambridge|Cambridge District|Cambridge (unparished area)",Q1187580|Q1006876|Q21503295|Q7897276|Q518343|Q171441,,
+Cambridge,Cambridge,Q1028279,13,2,1,"city in the Regional Municipality of Waterloo, Ontario, Canada","Cambridge, Ontario|Cambridge, ON|City of Cambridge",Q515|Q15210668|Q1549591,,"Cambridge, Ontario"
+Cambridge,Cambridge University,Q5025572,13,2,2,"Parliamentary constituency in the United Kingdom, 1801-1950",,Q7894997|Q27971968,,Cambridge University (constituency)
+Cambridge,Cambridge University,Q60576291,13,2,2,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Cambridge,Cambridge University Cricket Club,Q949035,13,2,2,cricket team,,Q17376093,,Cambridge University Cricket Club
+Cambridge,Cambridge University RUFC,Q2934697,13,2,2,"English rugby union club, based in Cambridge",CURUFC|Cambridge University R.U.F.C.|Cambridge University Rugby Union Football Club,Q14645593,,Cambridge University R.U.F.C.
+Cambridge,Cambridge University Hospitals NHS Foundation Trust,Q5025595,13,2,2,"UK public sector healthcare provider in Cambridge, England (1992- )",Addenbrookes NHS Trust|Addenbrookes National Health Service Trust|Cambridge University Hospitals National Health Service Foundation Trust,Q6954187|Q6954197,,Cambridge University Hospitals NHS Foundation Trust
+Cambridge,Cambridge University Library,Q1028334,13,2,2,main research library of the University of Cambridge in England,,Q856234|Q2085381,,Cambridge University Library
+Cambridge,Cambridge University Boat Club,Q784593,13,2,2,British rowing club,CUBC,Q7372078,,Cambridge University Boat Club
+Cambridge,Cambridge University A.F.C.,Q5025573,13,2,2,association football club in England,,Q476028,,Cambridge University A.F.C.
+Cambridge,Trinity College,Q332342,13,2,2,constituent college of the University of Cambridge in England,"Trinity College, Cambridge|College of the Holy and Undivided Trinity|University of Cambridge Trinity College",Q1055028|Q1244442|Q19844914|Q2385804|Q2467461|Q3918|Q708676,,"Trinity College, Cambridge"
+Cambridge,King's College,Q924289,13,2,2,college of the University of Cambridge,"King's College, Cambridge|University of Cambridge King's College|King's College of Our Lady and Saint Nicholas in Cambridge",Q1055028|Q19844914,,"King's College, Cambridge"
+Cambridge,Cavendish Laboratory,Q181892,13,2,2,physics laboratory at the University of Cambridge,University of Cambridge Cavendish Laboratory,Q1664720,,Cavendish Laboratory
+Cambridge,University of Cambridge Medicine,Q86020352,13,2,2,academic department in the UK,University of Cambridge Division of Bone Research|University of Cambridge Department of Medicine,Q2467461,,
+Cambridge,University of Cambridge,Q110095020,13,2,2,engraving by Nathaniel Parr,,Q11835431|Q11060274,,
+Cambridge,Cambridge University Engineering Department,Q5025593,13,2,2,UK academic institution,"Department of Engineering, University of Cambridge|University of Cambridge Department of Engineering",Q4671277,,"Department of Engineering, University of Cambridge"
+Cambridge,University of Cambridge Department of Computer Science and Technology,Q7895212,13,2,2,computer science division at the University of Cambridge,"Computer Laboratory|Department of Computer Science and Technology, University of Cambridge|University of Cambridge Computer Laboratory",Q2467461,,"Department of Computer Science and Technology, University of Cambridge"
+Cambridge,Museum of Archaeology and Anthropology,Q1954733,13,2,2,"university museum in Cambridge, United Kingdom","MAA|Cambridge University Museum of Archaeology and Anthropology|University of Cambridge Museum of Archaeology and Anthropology|Museum of Archaeology and Anthropology, University of Cambridge",Q3329412|Q12104174|Q5473425|Q866133,,"Museum of Archaeology and Anthropology, University of Cambridge"
+Cambridge,University of Cambridge Haematology,Q86026969,13,2,2,academic department in the UK,,Q2467461,,
+Cambridge,Cambridge College,Q3695713,13,2,2,"private college in Boston, Massachusetts",,Q189004|Q23002054,,Cambridge College
+Cambridge,Cambridge College,Q106615070,13,2,2,"school in Lagos, Nigeria",,Q3914,,
+Cambridge,"Cambridge College, Bangalore",Q84800183,13,2,2,college affiliated to the Bengaluru North University,,Q189004,,
+Kleine Molen,De Kleine Molen,Q2984515,14,0,1,"windmill in Haarlem, Netherlands",De Hommel|Molen De Hommel|Kleine Molen,Q38720|Q301449,,
+Kleine Molen,Kleine of Lage Molen,Q1855262,14,0,1,"windmill in Nieuw-Lekkerland, part of windmills at Kinderdijk, Netherlands",Kleine Molen|Lage Molen,Q38720|Q301449,,
+Kleine Molen,Kleine Molen,Q20826682,14,0,1,"watermill in Schalbroek, Belgium",,Q185187,,
+Kleine Molen,Kleine Molen,Q2856070,14,0,1,"watermill in Overpelt, Belgium",,Q185187,,
+Kleine Molen,Kleine Molen,Q19303441,14,0,1,"street in Bleiswijk, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenbeek,Q2250498,14,0,1,,,Q63565252,,
+Kleine Molen,Kleine Molenstraat,Q19303446,14,0,1,"street in Groningen, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenstraat,Q19303447,14,0,1,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenstraat,Q19303444,14,0,1,"street in Elst, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenhof,Q19303442,14,0,1,"street in Elst, the Netherlands",,Q79007,,
+Pelt,Pelt,Q42878311,14,2,1,"municipality in Limburg, Belgium",,Q493522,,Pelt (municipality)
+Pelt,Pelt,Q55215635,14,2,1,family name,,Q101352,,
+Pelt,Pelt,Q102992345,14,2,1,short short by Carol Emshwiller first published in 1958,,Q7725634,,
+Pelt,Peltigera,Q2716168,14,2,1,genus of lichenized fungus,,Q16521,,Peltigera
+Pelt,Pelteobagrus fulvidraco,Q106432474,14,2,1,species of fish,,Q16521|Q1040689,,
+Pelt,Peltoschema,Q21403012,14,2,1,genus of leaf beetles,,Q16521,,Peltoschema
+Pelt,Peltidium,Q6564427,14,2,1,genus of copepods,,Q16521,,
+Pelt,Peltigera canina,Q3374554,14,2,1,species of fungus,,Q16521,,Peltigera canina
+Pelt,Peltula,Q7161784,14,2,1,genus of fungi,,Q16521,,Peltula
+Pelt,Peltogyne,Q687351,14,2,1,genus of plants,,Q16521,,Peltogyne
+Pelt,De Kleine Molen,Q2984515,14,2,2,"windmill in Haarlem, Netherlands",De Hommel|Molen De Hommel|Kleine Molen,Q38720|Q301449,,
+Pelt,Kleine of Lage Molen,Q1855262,14,2,2,"windmill in Nieuw-Lekkerland, part of windmills at Kinderdijk, Netherlands",Kleine Molen|Lage Molen,Q38720|Q301449,,
+Pelt,Kleine Molen,Q20826682,14,2,2,"watermill in Schalbroek, Belgium",,Q185187,,
+Pelt,Kleine Molen,Q2856070,14,2,2,"watermill in Overpelt, Belgium",,Q185187,,
+Pelt,Kleine Molen,Q19303441,14,2,2,"street in Bleiswijk, the Netherlands",,Q79007,,
+Pelt,Kleine Molenbeek,Q2250498,14,2,2,,,Q63565252,,
+Pelt,Kleine Molenstraat,Q19303446,14,2,2,"street in Groningen, the Netherlands",,Q79007,,
+Pelt,Kleine Molenstraat,Q19303447,14,2,2,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Pelt,Kleine Molenstraat,Q19303444,14,2,2,"street in Elst, the Netherlands",,Q79007,,
+Pelt,Kleine Molenhof,Q19303442,14,2,2,"street in Elst, the Netherlands",,Q79007,,
+Veldmolen,Veldmolen,Q4478734,15,0,1,"former watermill in Gulpen, Netherlands",,Q185187,,
+Veldmolen,Veldmolen,Q19628844,15,0,1,"street in Delden, the Netherlands",,Q79007,,
+Veldmolen,De Oude Moolen,Q63509969,15,0,1,"windmill in Horst, Netherlands",,Q38720,,
+Veldmolen,Gulpen-Wittem,Q9767,15,0,2,"municipality in Limburg, the Netherlands",Gullepe-Wittem,Q2039348,,Gulpen-Wittem
+Veldmolen,Gulpen-Wittem Public Library Foundation,Q59962066,15,0,2,"public library organization in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q26271642|Q163740,,
+Veldmolen,Gulpen-Wittem municipal council,Q106215150,15,0,2,,,Q17014622,,
+Veldmolen,Gulpen-Wittem public library,Q61764048,15,0,2,"main visitor location and administration office of the Gulpen-Wittem Public Library, the organisation for the public libraries in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q11396180|Q7540126,,
+Veldmolen,coat of arms of Gulpen-Wittem,Q15883721,15,0,2,"coat of arms of municipality in Limburg, the Netherlands",Gulpen-Wittem coat of arms,Q28147344,,
+Gulpen-Wittem,Gulpen-Wittem,Q9767,15,2,1,"municipality in Limburg, the Netherlands",Gullepe-Wittem,Q2039348,,Gulpen-Wittem
+Gulpen-Wittem,Gulpen-Wittem Public Library Foundation,Q59962066,15,2,1,"public library organization in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q26271642|Q163740,,
+Gulpen-Wittem,Gulpen-Wittem municipal council,Q106215150,15,2,1,,,Q17014622,,
+Gulpen-Wittem,Gulpen-Wittem public library,Q61764048,15,2,1,"main visitor location and administration office of the Gulpen-Wittem Public Library, the organisation for the public libraries in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q11396180|Q7540126,,
+Gulpen-Wittem,coat of arms of Gulpen-Wittem,Q15883721,15,2,1,"coat of arms of municipality in Limburg, the Netherlands",Gulpen-Wittem coat of arms,Q28147344,,
+Gulpen-Wittem,Veldmolen,Q4478734,15,2,2,"former watermill in Gulpen, Netherlands",,Q185187,,
+Gulpen-Wittem,Veldmolen,Q19628844,15,2,2,"street in Delden, the Netherlands",,Q79007,,
+Gulpen-Wittem,De Oude Moolen,Q63509969,15,2,2,"windmill in Horst, Netherlands",,Q38720,,
+Broekmolen,Broekmolen,Q1961810,16,0,1,"windmill in Streefkerk, Netherlands",,Q38720|Q652407,,
+Broekmolen,Broekmolen,Q1837939,16,0,1,"watermill in Stramproy, Netherlands",,Q185187,,
+Broekmolen,Broekmolen,Q2235973,16,0,1,"windmill in Broeksterwâld, Netherlands",,Q38720|Q301449,,"De Broekmolen, Broeksterwâld"
+Broekmolen,Broekmolen,Q1985277,16,0,1,"watermill in Slenaken, Netherlands",Broekermolen|Molen van Slenaken,Q185187,,
+Broekmolen,Broekmolen,Q18973391,16,0,1,"street in Sittard, the Netherlands",,Q79007,,
+Broekmolen,Broekmolen,Q18973385,16,0,1,"street in Bornerbroek, the Netherlands",,Q79007,,
+Broekmolen,Broekmolenweg,Q18973396,16,0,1,"street in Rijswijk, the Netherlands",,Q79007,,
+Broekmolen,De Broekmolen,Q13571201,16,0,1,"watermill in Heerlen, Netherlands",,Q185187,,
+Broekmolen,Suetendaelmolen,Q15873539,16,0,1,"watermill in Zutendaal, Belgium",,Q185187,,
+Broekmolen,Broekmolen,Q2187843,16,0,1,Wikimedia disambiguation page,,Q4167410,,
+Broekmolen,windmill,Q38720,16,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Broekmolen,Windmill,Q8024279,16,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Broekmolen,Windmill,Q6167950,16,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Broekmolen,windmill,Q1954962,16,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Broekmolen,Windmill,Q8024280,16,0,2,Helloween song,,Q105543609,,Windmill (song)
+Broekmolen,Windmill,Q18668417,16,0,2,painting by Piet Mondrian,,Q3305213,,
+Broekmolen,windmill,Q244568,16,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Broekmolen,Windmill,Q20506236,16,0,2,painting by Unidentified,,Q3305213,,
+Broekmolen,Windmill,Q27533742,16,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Broekmolen,Windmill,Q22041308,16,0,2,drawing van James Ensor,,Q93184,,
+Dorpsstraat,Dorpsstraat,Q19014443,16,1,1,"street in Bergen, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014788,16,1,1,"street in Loenen aan de Vecht, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014812,16,1,1,"street in Mheer, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014424,16,1,1,"street in Baambrugge, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014538,16,1,1,"street in Eckelrade, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014959,16,1,1,"street in Renswoude, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19015100,16,1,1,"street in Wemeldinge, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014826,16,1,1,"street in Moordrecht, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014612,16,1,1,"street in Goudswaard, the Netherlands",,Q79007,,
+Dorpsstraat,Dorpsstraat,Q19014862,16,1,1,"street in Nigtevecht, the Netherlands",,Q79007,,
+Dorpsstraat,Broekmolen,Q1961810,16,1,2,"windmill in Streefkerk, Netherlands",,Q38720|Q652407,,
+Dorpsstraat,Broekmolen,Q1837939,16,1,2,"watermill in Stramproy, Netherlands",,Q185187,,
+Dorpsstraat,Broekmolen,Q2235973,16,1,2,"windmill in Broeksterwâld, Netherlands",,Q38720|Q301449,,"De Broekmolen, Broeksterwâld"
+Dorpsstraat,Broekmolen,Q1985277,16,1,2,"watermill in Slenaken, Netherlands",Broekermolen|Molen van Slenaken,Q185187,,
+Dorpsstraat,Broekmolen,Q18973391,16,1,2,"street in Sittard, the Netherlands",,Q79007,,
+Dorpsstraat,Broekmolen,Q18973385,16,1,2,"street in Bornerbroek, the Netherlands",,Q79007,,
+Dorpsstraat,Broekmolenweg,Q18973396,16,1,2,"street in Rijswijk, the Netherlands",,Q79007,,
+Dorpsstraat,De Broekmolen,Q13571201,16,1,2,"watermill in Heerlen, Netherlands",,Q185187,,
+Dorpsstraat,Suetendaelmolen,Q15873539,16,1,2,"watermill in Zutendaal, Belgium",,Q185187,,
+Dorpsstraat,Broekmolen,Q2187843,16,1,2,Wikimedia disambiguation page,,Q4167410,,
+Dorpsstraat,Gulpen-Wittem,Q9767,16,1,2,"municipality in Limburg, the Netherlands",Gullepe-Wittem,Q2039348,,Gulpen-Wittem
+Dorpsstraat,Gulpen-Wittem Public Library Foundation,Q59962066,16,1,2,"public library organization in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q26271642|Q163740,,
+Dorpsstraat,Gulpen-Wittem municipal council,Q106215150,16,1,2,,,Q17014622,,
+Dorpsstraat,Gulpen-Wittem public library,Q61764048,16,1,2,"main visitor location and administration office of the Gulpen-Wittem Public Library, the organisation for the public libraries in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q11396180|Q7540126,,
+Dorpsstraat,coat of arms of Gulpen-Wittem,Q15883721,16,1,2,"coat of arms of municipality in Limburg, the Netherlands",Gulpen-Wittem coat of arms,Q28147344,,
+Gulpen-Wittem,Gulpen-Wittem,Q9767,16,2,1,"municipality in Limburg, the Netherlands",Gullepe-Wittem,Q2039348,,Gulpen-Wittem
+Gulpen-Wittem,Gulpen-Wittem Public Library Foundation,Q59962066,16,2,1,"public library organization in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q26271642|Q163740,,
+Gulpen-Wittem,Gulpen-Wittem municipal council,Q106215150,16,2,1,,,Q17014622,,
+Gulpen-Wittem,Gulpen-Wittem public library,Q61764048,16,2,1,"main visitor location and administration office of the Gulpen-Wittem Public Library, the organisation for the public libraries in the municipality of Gulpen-Wittem, The Netherlands",,Q28564|Q11396180|Q7540126,,
+Gulpen-Wittem,coat of arms of Gulpen-Wittem,Q15883721,16,2,1,"coat of arms of municipality in Limburg, the Netherlands",Gulpen-Wittem coat of arms,Q28147344,,
+Gulpen-Wittem,Broekmolen,Q1961810,16,2,2,"windmill in Streefkerk, Netherlands",,Q38720|Q652407,,
+Gulpen-Wittem,Broekmolen,Q1837939,16,2,2,"watermill in Stramproy, Netherlands",,Q185187,,
+Gulpen-Wittem,Broekmolen,Q2235973,16,2,2,"windmill in Broeksterwâld, Netherlands",,Q38720|Q301449,,"De Broekmolen, Broeksterwâld"
+Gulpen-Wittem,Broekmolen,Q1985277,16,2,2,"watermill in Slenaken, Netherlands",Broekermolen|Molen van Slenaken,Q185187,,
+Gulpen-Wittem,Broekmolen,Q18973391,16,2,2,"street in Sittard, the Netherlands",,Q79007,,
+Gulpen-Wittem,Broekmolen,Q18973385,16,2,2,"street in Bornerbroek, the Netherlands",,Q79007,,
+Gulpen-Wittem,Broekmolenweg,Q18973396,16,2,2,"street in Rijswijk, the Netherlands",,Q79007,,
+Gulpen-Wittem,De Broekmolen,Q13571201,16,2,2,"watermill in Heerlen, Netherlands",,Q185187,,
+Gulpen-Wittem,Suetendaelmolen,Q15873539,16,2,2,"watermill in Zutendaal, Belgium",,Q185187,,
+Gulpen-Wittem,Broekmolen,Q2187843,16,2,2,Wikimedia disambiguation page,,Q4167410,,
+Gulpen-Wittem,Dorpsstraat,Q19014443,16,2,2,"street in Bergen, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014788,16,2,2,"street in Loenen aan de Vecht, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014812,16,2,2,"street in Mheer, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014424,16,2,2,"street in Baambrugge, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014538,16,2,2,"street in Eckelrade, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014959,16,2,2,"street in Renswoude, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19015100,16,2,2,"street in Wemeldinge, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014826,16,2,2,"street in Moordrecht, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014612,16,2,2,"street in Goudswaard, the Netherlands",,Q79007,,
+Gulpen-Wittem,Dorpsstraat,Q19014862,16,2,2,"street in Nigtevecht, the Netherlands",,Q79007,,
+Broekmolen,Broekmolen,Q1961810,17,0,1,"windmill in Streefkerk, Netherlands",,Q38720|Q652407,,
+Broekmolen,Broekmolen,Q1837939,17,0,1,"watermill in Stramproy, Netherlands",,Q185187,,
+Broekmolen,Broekmolen,Q2235973,17,0,1,"windmill in Broeksterwâld, Netherlands",,Q38720|Q301449,,"De Broekmolen, Broeksterwâld"
+Broekmolen,Broekmolen,Q1985277,17,0,1,"watermill in Slenaken, Netherlands",Broekermolen|Molen van Slenaken,Q185187,,
+Broekmolen,Broekmolen,Q18973391,17,0,1,"street in Sittard, the Netherlands",,Q79007,,
+Broekmolen,Broekmolen,Q18973385,17,0,1,"street in Bornerbroek, the Netherlands",,Q79007,,
+Broekmolen,Broekmolenweg,Q18973396,17,0,1,"street in Rijswijk, the Netherlands",,Q79007,,
+Broekmolen,De Broekmolen,Q13571201,17,0,1,"watermill in Heerlen, Netherlands",,Q185187,,
+Broekmolen,Suetendaelmolen,Q15873539,17,0,1,"watermill in Zutendaal, Belgium",,Q185187,,
+Broekmolen,Broekmolen,Q2187843,17,0,1,Wikimedia disambiguation page,,Q4167410,,
+Broekmolen,windmill,Q38720,17,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Broekmolen,Windmill,Q8024279,17,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Broekmolen,Windmill,Q6167950,17,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Broekmolen,windmill,Q1954962,17,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Broekmolen,Windmill,Q8024280,17,0,2,Helloween song,,Q105543609,,Windmill (song)
+Broekmolen,Windmill,Q18668417,17,0,2,painting by Piet Mondrian,,Q3305213,,
+Broekmolen,windmill,Q244568,17,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Broekmolen,Windmill,Q20506236,17,0,2,painting by Unidentified,,Q3305213,,
+Broekmolen,Windmill,Q27533742,17,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Broekmolen,Windmill,Q22041308,17,0,2,drawing van James Ensor,,Q93184,,
+Grensweg,Grensweg,Q19205482,17,1,1,"street in Baarle, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205545,17,1,1,"street in Slenaken, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205486,17,1,1,"street in Beers, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205556,17,1,1,"street in Voorst, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205548,17,1,1,"street in Weert, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205514,17,1,1,"street in Harderwijk, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205495,17,1,1,"street in Driebergen-Rijsenburg, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205540,17,1,1,"street in Rilland, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205517,17,1,1,"street in Harlingen, the Netherlands",,Q79007,,
+Grensweg,Grensweg,Q19205552,17,1,1,"street in Valkenswaard, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205464,17,1,2,"street in Vaals, the Netherlands",,Q79007,,
+Grensweg,Rue de la Limite - Grensstraat,Q85622587,17,1,2,"street in Saint-Josse-ten-Noode, Belgium",Rue de la Limite|Grensstraat,Q79007,,
+Grensweg,Grensstraat,Q19205447,17,1,2,"street in Waubach, the Netherlands",,Q79007,,
+Grensweg,Rue de la Limite - Grensstraat,Q103447412,17,1,2,"street in Woluwe-Saint-Pierre and Kraainem, Belgium",Rue de la Limite|Grensstraat,Q79007,,
+Grensweg,Grensstraat,Q19205439,17,1,2,"street in Amsterdam, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205457,17,1,2,"street in Schijf, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205437,17,1,2,"street in Alkmaar, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205454,17,1,2,"street in Putte, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205443,17,1,2,"street in Clinge, the Netherlands",,Q79007,,
+Grensweg,Grensstraat,Q19205441,17,1,2,"street in Beverwijk, the Netherlands",,Q79007,,
+Weert,Weert,Q12344051,17,2,1,"town in Limburg, the Netherlands",,Q13539802|Q1852859,,
+Weert,Weert,Q9774,17,2,1,municipality in the Netherlands,,Q2039348,,Weert
+Weert,Weert,Q21145510,17,2,1,male given name,Weert (given name)|Weert (first name),Q12308941,,
+Weert,Weert,Q116619630,17,2,1,family name,,Q101352,,
+Weert,Weert,Q2799921,17,2,1,"hamlet in Maastricht and Meerssen, Netherlands",,Q1484611,,
+Weert,Weert,Q1904383,17,2,1,"section of Bornem, Belgium",,Q2785216|Q532,,"Weert, Antwerp"
+Weert,Weert,Q19647717,17,2,1,"street in Meerssen and Maastricht, the Netherlands",,Q79007,,
+Weert,Weerth,Q55644588,17,2,1,family name,,Q101352,,Weerth
+Weert,Weert,Q18655408,17,2,1,village in Belgium,"Weert, Limburg, Belgium",Q5084|Q532,,"Weert, Belgian Limburg"
+Weert,Weert,Q24065345,17,2,1,,,Q1475691,,
+Weert,Broekmolen,Q1961810,17,2,2,"windmill in Streefkerk, Netherlands",,Q38720|Q652407,,
+Weert,Broekmolen,Q1837939,17,2,2,"watermill in Stramproy, Netherlands",,Q185187,,
+Weert,Broekmolen,Q2235973,17,2,2,"windmill in Broeksterwâld, Netherlands",,Q38720|Q301449,,"De Broekmolen, Broeksterwâld"
+Weert,Broekmolen,Q1985277,17,2,2,"watermill in Slenaken, Netherlands",Broekermolen|Molen van Slenaken,Q185187,,
+Weert,Broekmolen,Q18973391,17,2,2,"street in Sittard, the Netherlands",,Q79007,,
+Weert,Broekmolen,Q18973385,17,2,2,"street in Bornerbroek, the Netherlands",,Q79007,,
+Weert,Broekmolenweg,Q18973396,17,2,2,"street in Rijswijk, the Netherlands",,Q79007,,
+Weert,De Broekmolen,Q13571201,17,2,2,"watermill in Heerlen, Netherlands",,Q185187,,
+Weert,Suetendaelmolen,Q15873539,17,2,2,"watermill in Zutendaal, Belgium",,Q185187,,
+Weert,Broekmolen,Q2187843,17,2,2,Wikimedia disambiguation page,,Q4167410,,
+Weert,Grensweg,Q19205482,17,2,2,"street in Baarle, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205545,17,2,2,"street in Slenaken, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205486,17,2,2,"street in Beers, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205556,17,2,2,"street in Voorst, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205548,17,2,2,"street in Weert, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205514,17,2,2,"street in Harderwijk, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205495,17,2,2,"street in Driebergen-Rijsenburg, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205540,17,2,2,"street in Rilland, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205517,17,2,2,"street in Harlingen, the Netherlands",,Q79007,,
+Weert,Grensweg,Q19205552,17,2,2,"street in Valkenswaard, the Netherlands",,Q79007,,
+Longbridge Mill,Longbridge Mill,Q6673634,18,0,1,"watermill in Sherfield on Loddon, Hampshire, England, UK",,Q185187,,Longbridge Mill
+Longbridge Mill,Longbridge Mill House,Q26460713,18,0,1,"house in Sherfield on Loddon, Basingstoke and Deane, Hampshire, England, UK",,Q3947,,
+Sherfield on Loddon,Sherfield on Loddon,Q2258424,18,2,1,"village in Hampshire, England, UK","Sherfield on Loddon, Hampshire|Sherfield–on-Loddon",Q532|Q1115575,,Sherfield on Loddon
+Sherfield on Loddon,Longbridge Mill,Q6673634,18,2,2,"watermill in Sherfield on Loddon, Hampshire, England, UK",,Q185187,,Longbridge Mill
+Sherfield on Loddon,Longbridge Mill House,Q26460713,18,2,2,"house in Sherfield on Loddon, Basingstoke and Deane, Hampshire, England, UK",,Q3947,,
+Sherfield on Loddon,Loddon River,Q1860106,18,2,2,"river in Victoria, Australia",,Q4022,,Loddon River
+Sherfield on Loddon,Loddon River,Q1315527,18,2,2,river,,Q4022,,
+Sherfield on Loddon,Loddon River,Q21960884,18,2,2,"river in Victoria, Australia - Geonames ID = 8577772",,Q4022,,
+Sherfield on Loddon,Loddon River Group,Q64424380,18,2,2,"stratigraphic layer in VIC, Australia",,Q824979,,
+Sherfield on Loddon,Loddon River Motel Kerang,Q111868945,18,2,2,"hotel in Kerang, Australia",,Q27686,,
+Sherfield on Loddon,Loddon River S.R. Natural Features Reserve,Q139743947,18,2,2,"natural features reserve in Victoria, Australia",Loddon River S.R.,Q62059246,,
+Sherfield on Loddon,Loddon River,Q22936850,18,2,2,Wikimedia disambiguation page,,Q4167410,,
+Sherfield on Loddon,Loddon,Q534335,18,2,2,Wikimedia disambiguation page,,Q4167410,,Loddon
+Sherfield on Loddon,Loddon Valley Highway,Q1395478,18,2,2,highway in Victoria,,Q34442,,Loddon Valley Highway
+Sherfield on Loddon,Loddon Valley Football League,Q6666233,18,2,2,Australian rules football league,,Q623109,,Loddon Valley Football Netball League
+Holtmeulen,Holtmeulen,Q23038894,19,0,1,"watermill in Geijsteren, Netherlands",,Q185187|Q3947,,
+Holtmeulen,Holtmeulen,Q19254013,19,0,1,"street in Oploo, the Netherlands",,Q79007,,
+Holtmeulen,Holtmeulen,Q19254011,19,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Holtmeulen,Holtmeulen,Q19254010,19,0,1,"street in Amsterdam, the Netherlands",,Q79007,,
+St Wilbertsweg,St Wilbertsweg,Q19545205,19,1,1,"street in Geijsteren, the Netherlands",,Q79007,,
+Venray,Venray,Q9775,19,2,1,municipality in the Netherlands,,Q2039348,,Venray
+Venray,Venray,Q23015555,19,2,1,"village in the municipality Venray, Netherlands",,Q1852859|Q532,,
+Venray,Venray railway station,Q2515711,19,2,1,railway station in the Netherlands,,Q55488,,Venray railway station
+Venray,Venray,Q117103789,19,2,1,chemical/oil tanker built in 2006,IMO 9568885,Q14970,,
+Venray,Venrays Museum,Q19912241,19,2,1,"museum in Venray, the Netherlands",,Q33506,,
+Venray,Venray municipal council,Q106220393,19,2,1,,,Q17014622,,
+Venray,VENRAY Lokaal,Q110860911,19,2,1,Dutch local political party,,Q24887161,,
+Venray,Venrayseweg,Q19632732,19,2,1,"street in Venlo, the Netherlands",,Q79007,,
+Venray,flag of Venray,Q53843706,19,2,1,"flag of municipality in Limburg, the Netherlands",Venray flag,Q21850100,,
+Venray,coat of arms of Venray,Q17264901,19,2,1,"coat of arms of municipality in Limburg, Netherlands",Venray coat of arms,Q28147344,,
+Grand Moulin,Grand-Moulin,Q3095515,20,0,1,metro station in Canada,Saint-Eustache-sur-le-Lac|Deux-Montagnes (CN),Q55488|Q928830|Q22808404,,Grand-Moulin station
+Grand Moulin,Grand-Moulin station,Q33512297,20,0,1,train station in Switzerland,,Q55488,,
+Grand Moulin,Grand Moulin,Q47472505,20,0,1,"watermill in Saive, Belgium",Moulin Outers,Q185187,,
+Grand Moulin,Grand Moulin,Q115451485,20,0,1,Neighborhood in Douala,Grand Moulin Deido,Q123705,,
+Grand Moulin,Grand Moulinets,Q24695799,20,0,1,,,Q631305,,
+Grand Moulin,Grand Moulin de Saint-Saturnin-sur-Loire,Q3113664,20,0,1,,,Q38720,,
+Grand Moulin,Grand moulin de Ballan,Q22996645,20,0,1,,,Q811979,,
+Grand Moulin,Grand moulin de Nogent,Q58822390,20,0,1,,,Q811979,,
+Grand Moulin,Moulin à vent de Saint-Martin-au-Laërt,Q18088287,20,0,1,,,Q38720,,
+Grand Moulin,Société générale des moulins du Togo,Q138137136,20,0,1,,,Q6881511,,
+Grand Moulin,Pigeonnier du Moulin Grand,Q3388295,20,0,2,,,Q948878,,
+Blegny,Blegny,Q681109,20,2,1,"municipality in Wallonia, Belgium",,Q493522,,Blegny
+Blegny,Blégny,Q21770345,20,2,1,"town in Blégny municipality, Belgium",,Q532,,
+Blegny,Blegny-Mine,Q2906374,20,2,1,"former coal mine in Trembleur, Belgium",,Q819426|Q820477,,Blegny-Mine
+Blegny,Blégny,Q29437489,20,2,1,Wikimedia disambiguation page,,Q4167410,,
+Blegny,Grand-Moulin,Q3095515,20,2,2,metro station in Canada,Saint-Eustache-sur-le-Lac|Deux-Montagnes (CN),Q55488|Q928830|Q22808404,,Grand-Moulin station
+Blegny,Grand-Moulin station,Q33512297,20,2,2,train station in Switzerland,,Q55488,,
+Blegny,Grand Moulin,Q47472505,20,2,2,"watermill in Saive, Belgium",Moulin Outers,Q185187,,
+Blegny,Grand Moulin,Q115451485,20,2,2,Neighborhood in Douala,Grand Moulin Deido,Q123705,,
+Blegny,Grand Moulinets,Q24695799,20,2,2,,,Q631305,,
+Blegny,Grand Moulin de Saint-Saturnin-sur-Loire,Q3113664,20,2,2,,,Q38720,,
+Blegny,Grand moulin de Ballan,Q22996645,20,2,2,,,Q811979,,
+Blegny,Grand moulin de Nogent,Q58822390,20,2,2,,,Q811979,,
+Blegny,Moulin à vent de Saint-Martin-au-Laërt,Q18088287,20,2,2,,,Q38720,,
+Blegny,Société générale des moulins du Togo,Q138137136,20,2,2,,,Q6881511,,
+Borchmolen,Borchmolen,Q2427775,21,0,1,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Borchmolen,Borchmolen,Q13442059,21,0,1,"watermill in Kessenich, Belgium",,Q185187,,
+Borchmolen,Borchmolen,Q18962515,21,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Borchmolen,Borchmolendijk,Q18962516,21,0,1,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Borchmolen,Borchmolen,Q2141689,21,0,1,Wikimedia disambiguation page,,Q4167410,,
+Borchmolen,Meierijstad,Q18655255,21,0,2,municipality in the Netherlands,,Q2039348,,Meierijstad
+Borchmolen,Meierijstad municipal council,Q106217274,21,0,2,,,Q17014622,,
+Borchmolen,coat of arms of Meierijstad,Q30241548,21,0,2,"coat of arms of municipality in North Brabant, the Netherlands",Meierijstad coat of arms,Q28147344,,
+Borchmolen,flag of Meierijstad,Q63884000,21,0,2,"flag of municipality in North Brabant, the Netherlands",Meierijstad flag,Q21850100,,
+Borchmolen,Meierijstad Helpt,Q137270986,21,0,2,nonprofit organisation from the Netherlands,,Q163740,,
+Borchmolen,windmill,Q38720,21,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Borchmolen,Windmill,Q8024279,21,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Borchmolen,Windmill,Q6167950,21,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Borchmolen,windmill,Q1954962,21,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Borchmolen,Windmill,Q8024280,21,0,2,Helloween song,,Q105543609,,Windmill (song)
+Borchmolen,Windmill,Q18668417,21,0,2,painting by Piet Mondrian,,Q3305213,,
+Borchmolen,windmill,Q244568,21,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Borchmolen,Windmill,Q20506236,21,0,2,painting by Unidentified,,Q3305213,,
+Borchmolen,Windmill,Q27533742,21,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Borchmolen,Windmill,Q22041308,21,0,2,drawing van James Ensor,,Q93184,,
+Meierijstad,Meierijstad,Q18655255,21,2,1,municipality in the Netherlands,,Q2039348,,Meierijstad
+Meierijstad,Meierijstad municipal council,Q106217274,21,2,1,,,Q17014622,,
+Meierijstad,coat of arms of Meierijstad,Q30241548,21,2,1,"coat of arms of municipality in North Brabant, the Netherlands",Meierijstad coat of arms,Q28147344,,
+Meierijstad,flag of Meierijstad,Q63884000,21,2,1,"flag of municipality in North Brabant, the Netherlands",Meierijstad flag,Q21850100,,
+Meierijstad,Meierijstad Helpt,Q137270986,21,2,1,nonprofit organisation from the Netherlands,,Q163740,,
+Meierijstad,Borchmolen,Q2427775,21,2,2,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Meierijstad,Borchmolen,Q13442059,21,2,2,"watermill in Kessenich, Belgium",,Q185187,,
+Meierijstad,Borchmolen,Q18962515,21,2,2,"street in Eindhoven, the Netherlands",,Q79007,,
+Meierijstad,Borchmolendijk,Q18962516,21,2,2,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Meierijstad,Borchmolen,Q2141689,21,2,2,Wikimedia disambiguation page,,Q4167410,,
+Borchmolen,Borchmolen,Q2427775,22,0,1,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Borchmolen,Borchmolen,Q13442059,22,0,1,"watermill in Kessenich, Belgium",,Q185187,,
+Borchmolen,Borchmolen,Q18962515,22,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Borchmolen,Borchmolendijk,Q18962516,22,0,1,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Borchmolen,Borchmolen,Q2141689,22,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kinrooi,Kinrooi,Q819133,22,2,1,"municipality in Limburg, Belgium",,Q493522,,Kinrooi
+Kinrooi,Kinrooi,Q21767215,22,2,1,"town in Kinrooi municipality, Belgium",,Q532,,
+Kinrooi,Kinrooi,Q66311967,22,2,1,"section of Kinrooi, Belgium",,Q2785216,,
+Kinrooi,Kinrooi dialect,Q25640106,22,2,1,,,Q33384,Q102172,
+Kinrooi,Kinrooi Nu en Straks,Q123932648,22,2,1,Belgian periodical,,Q1002697,,
+Kinrooi,Kinrooistraat,Q19302078,22,2,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Kinrooi,Kinrooi,Q29437001,22,2,1,Wikimedia disambiguation page,,Q4167410,,
+Kinrooi,Borchmolen,Q2427775,22,2,2,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Kinrooi,Borchmolen,Q13442059,22,2,2,"watermill in Kessenich, Belgium",,Q185187,,
+Kinrooi,Borchmolen,Q18962515,22,2,2,"street in Eindhoven, the Netherlands",,Q79007,,
+Kinrooi,Borchmolendijk,Q18962516,22,2,2,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Kinrooi,Borchmolen,Q2141689,22,2,2,Wikimedia disambiguation page,,Q4167410,,

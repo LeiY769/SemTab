@@ -1,0 +1,43 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+GEMA,Gema,Q858406,0,0,1,female given name,Gema (first name)|Gema (given name),Q11879590,,Gema (given name)
+GEMA,Gemäldegalerie Berlin,Q165631,0,0,1,"art museum in Berlin, Germany","Gemaeldegalerie|Gemäldegalerie, Berlin",Q207694,,"Gemäldegalerie, Berlin"
+GEMA,Gema,Q12388645,0,0,1,"village in Kampar Regency, Riau, Indonesia",,Q26211545,,
+GEMA,Gema,Q24016691,0,0,1,"capital of Gema Municipality, Spain",,Q486972|Q121289819,,
+GEMA,Gema,Q26209974,0,0,1,"village in Ketapang Regency, West Kalimantan, Indonesia",,Q26211545,,
+GEMA,GEMA,Q481497,0,0,1,German rights society,Gesellschaft für musikalische Aufführungs- und mechanische Vervielfältigungsrechte,Q1047437|Q1666019|Q1391517|Q43229,,GEMA (German organization)
+GEMA,جنين,Q374748,0,0,1,City in the State of Palestine,Ginai|Ginaia|Gema|Jenine|Janin|Janine,Q515|Q136721998,,Jenin
+GEMA,Gema Grahasarana,Q96100250,0,0,1,Indonesian company,Gema Grahasarana Tbk|GEMA,Q891723,,
+GEMA,Gemäldegalerie Alte Meister,Q4890,0,0,1,"art gallery in Dresden, Germany","Dresden Gallery|Gemäldegalerie|Gemaldegalerie Alte Meister|Gemaeldegalerie of Dresden|Gemäldegalerie of Dresden|Gemaeldegalerie|The Dresden Gallery|Dresden Gemaeldegalerie|Gemaldegalerie|Alte Meister Gallery|Dresden Gemäldegalerie|Gemäldegalerie Dresden|Gemaldegalerie of Dresden|Old Masters Picture Gallery|Gemaldegaelerie|Gemaeldegalerie Alte Meister|Gemaldegälerie|Gemäldegalerie Alte Meister, Dresden|Gemäldegalerie Alter Meister|Dresden Gemaldegalerie|Staatliche Kunstsammlungen Dresden|Old Masters Gallery, Dresden|Old Masters Picture Gallery Dresden",Q207694,,Gemäldegalerie Alte Meister
+GEMA,Academy of Fine Arts Vienna,Q414219,0,0,1,"art school in Vienna, Austria","Vienna Academy|Academy of Vienna|Akademie der bildenden Künste Wien|Gemäldegalerie der Akademie der bildenden Künste Wien|Akademie der bildende Künste|Vienna Academy of Fine Arts|Academy of Fine Arts, Vienna",Q2822241|Q207694|Q3918|Q875538,,Academy of Fine Arts Vienna
+German Reich,Nazi Germany,Q7318,0,1,1,Germany from 1933 to 1945 while under control of the Nazi Party,Third Reich|Greater German Reich|Hitler's Third Reich|German Reich|Thousand-Year Reich|Nazi-Germany,Q11514315|Q3024240|Q3624078|Q317,,Nazi Germany
+German Reich,German Reich,Q1206012,0,1,1,"official name for the German nation state from 1871 to 1945, and name of Germany until 1949",German Realm|German Empire|Imperial Germany|Germany,Q179671|Q960541|Q19953632|Q11514315|Q3024240,,German Reich
+German Reich,German Empire,Q43287,0,1,1,German nation-state in Central Europe from 1871 to 1918,German Reich|Imperial Germany|Second Reich|German Empire (1871-1918),Q11514315|Q3024240|Q3624078|Q48349,,German Empire
+German Reich,Weimar Republic,Q41304,0,1,1,Germany in the years 1918/1919–1933,German Reich|Weimar Germany|Germany|German Republic|Republic of Germany|German People's State,Q11514315|Q3024240|Q859563,,Weimar Republic
+German Reich,allied-occupied Germany,Q2415901,0,1,1,post-World War II Allied military occupation of Germany (1945–1949),German Reich,Q2577883|Q19953632|Q11514315,,Allied-occupied Germany
+German Reich,German Reich and Protectorate of Bohemia and Moravia September 1939–September 1941,Q104958086,0,1,1,"book, part of a series","The Persecution and Murder of the European Jews by Nazi Germany, 1933-1945, Volume 3, German Reich and Protectorate of Bohemia and Moravia September 1939 - September 1941",Q571,,
+German Reich,German Reich within the borders of 31 December 1937,Q1205915,0,1,1,historical territorial configuration of the German state serving as the basis for the definition of Germany after 1945,,Q17524420|Q15617994,,
+German Reich,Reichtangle,Q135972411,0,1,1,Polandball character,German Reich  (countryball)|The Reichtangle|German Empire (countryball),Q56371431,,
+German Reich,flag of the German Reich,Q137486653,0,1,1,flag,the German Reich flag|German Reich flag,Q186516,,
+German Reich,German Imperial Patent,Q35639987,0,1,1,,German Reich patent|German patent|Imperial patent|national patent|Deutsche Reichspatent|Deutsches Reichs-Patent,,Q253623,
+German Reich,Deutsche Reichspartei,Q495497,0,1,2,far-right political party in West Germany,German Empire Party|German Imperial Party,Q7278,,Deutsche Reichspartei
+German Reich,Reichstag,Q160208,0,1,2,parliament of Germany from 1871 to 1918,German Empire Reichstag,Q35749,Q20007287,Reichstag (German Empire)
+German Reich,German Empire of 1848/1849,Q18285930,0,1,2,German national state (in establishment) 1848/1849,,Q3024240|Q3624078,,German Empire (1848–1849)
+German Reich,German Empire field army,Q105754856,0,1,2,field army sized unit of German Empire,field army (German Empire),Q21506450,Q51977,
+German Reich,coat of arms of the German Empire,Q4136271,0,1,2,coat of arms of the German Empire in 1871–1918,the German Empire coat of arms|German Empire coat of arms|Coats of arms of the German Empire,Q645466|Q14659|Q2139378,,
+German Reich,German postal history 1919-1945,Q1203692,0,1,2,German Post during the Weimar Republic and National Socialism (the ‘Third Reich’),German Empire stamps,Q17524420,,
+German Reich,women in the German Empire,Q107343234,0,1,2,social status of women and girls in the German Empire,girls in the German Empire|women and girls in the German Empire|German Empire women|German Empire girls|German Empire women and girls,Q18340514,,
+German Reich,German Empire–United States relations,Q115804563,0,1,2,bilateral relations,,Q15221623,,German Empire–United States relations
+Patriotic Millionaires,Patriotic Millionaires,Q81329567,1,0,1,organization,,Q1666019,,Patriotic Millionaires
+Patriotic Millionaires,Patriotic Millionaires UK,Q112560849,1,0,1,UK organization,,Q43229,,
+United States of America,United States,Q30,1,1,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+United States of America,United States of America,Q105870683,1,1,1,vocal track by Kikki Danielsson; 1980 studio recording,,Q55850593,,
+United States of America,United States of America,Q99281400,1,1,1,country of the United States of America as depicted in Star Trek,USA|Star Trek USA,Q57663042|Q15796005,,
+United States of America,United States of America state-level electoral district,Q104146934,1,1,1,state-level electoral district within the United States,United States of America state-government electoral district|USA state-government electoral district|US state electoral district|state electoral district|United States state-level electoral district,,Q104146790,
+United States of America,USA (United States of America),Q20571325,1,1,1,Wikimedia permanent duplicate item,Istadus Unidus the America|United States of America,Q21286738,,
+United States of America,American Red Cross,Q470110,1,1,1,National Red Cross Society in the United States,American Red Cross Society|A.R.C.|ARC|Red Cross|The Red Cross|Red Cross of United States of America|United States of America Red Cross,Q1968122|Q43229,,American Red Cross
+United States of America,United States of America,Q105870692,1,1,1,"song written and composed by Donna Fargo, originally recorded by Donna Fargo and released in 1974",,Q105543609,,
+United States of America,United States of America,Q29045456,1,1,1,Wikimedia permanent duplicate item,United States of America,Q21286738,,
+United States of America,Canada–United States border,Q119515,1,1,1,international border between Canada and the USA,border between Canada and the USA|border between Canada and the US|border between Canada and the United States of America|border between Canada and the United States|border between the USA and Canada|border between the US and Canada|border between the United States and Canada|border between the United States of America and Canada|USA-Canada border|Canada-USA border|Canada-United States border|United States-Canada border|Canada-US border|US-Canada border|Canada-United States of America border|United States of America-Canada border|Canada–USA border|United States–Canada border|USA–Canada border|International Border of the North,Q133346|Q15104814|Q3089219|Q12413618|Q87443571|Q2221906,,Canada–United States border
+United States of America,United States of America,Q106315054,1,1,1,vocal track by Donna Fargo; 1974 studio recording,,Q55850593,,
+United States of America,Patriotic Millionaires,Q81329567,1,1,2,organization,,Q1666019,,Patriotic Millionaires
+United States of America,Patriotic Millionaires UK,Q112560849,1,1,2,UK organization,,Q43229,,

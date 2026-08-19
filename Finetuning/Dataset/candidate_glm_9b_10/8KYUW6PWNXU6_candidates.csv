@@ -1,0 +1,352 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lockheed PV-1 Ventura,Lockheed PV-1 Ventura,Q18176744,0,0,1,maritime patrol aircraft model,Lockheed PV-1|PV1|Lockheed Patrol Type 1 Series 1|Ventura GR Mk V|Ventura GR5|Ventura V|Ventura 5|Ventura|Lockheed PV-1 Ventura|PV-1|PV-1 Ventura,Q15056995,Q1867622|Q658414,
+Lockheed PV-1 Ventura,Lockheed Ventura,Q1867622,0,0,1,1941 bomber aircraft family,Ventura aircraft|Lockheed PV-1|PV-1|Lockheed B-34 Ventura|Lockheed B-34|B-34|Lockheed PV-2 Harpoon|PV-2 Harpoon|Harpoon aircraft|PV-2|Lockheed PV-1 Ventura,Q15056993,Q70180928,Lockheed Ventura
+Lockheed PV-1 Ventura,Lockheed PV-3 Ventura,Q125983760,0,0,2,maritime patrol aircraft model,Lockheed Patrol Design 1 Series 3|Lockheed PV-3 Ventura|Ventura PV-3|Lockheed Ventura PV-3|Ventura|PV-3|Lockheed Ventura|Lockheed PV-3|PV-3 Ventura,Q15056995,Q18176744,
+Lockheed PV-1 Ventura,Lockheed Ventura,Q119361104,0,0,2,"painting by John Young (1930–2015), Royal Air Force Museum",,Q3305213,,
+Lockheed PV-1 Ventura,Ventura I,Q18176615,0,0,2,bomber aircraft,Lockheed Ventura Mk I|Ventura Mk I|Ventura 1|Ventura GR Mk I|Ventura GR Mk 1|Ventura GR1,Q15056995,Q1867622,
+Lockheed PV-1 Ventura,Ventura II,Q18176732,0,0,2,bomber aircraft,Lockheed Ventura Mk II|Ventura Mk II|Ventura 2|Lockheed B-34A|B-34A|B34A|Lockheed PV-3|PV-3|PV3,Q15056995,Q1867622,
+Lockheed PV-1 Ventura,Ventura IIA,Q18176736,0,0,2,bomber aircraft,Lockheed Ventura Mk IIA|Ventura Mk IIA|Ventura 2A|Lockheed B-34|B-34|B34|Lockheed Model 137|Model 137,Q15056995,Q1867622,
+SB2C-5 Helldiver,SB2C-5 Helldiver,Q21698651,1,0,1,carrier-based dive bomber series,SB2C5|Curtiss SB2C-5|Helldiver 5|Curtiss Scout Bomber Type 2 Series 5,Q15056993,Q918312,
+SB2C-5 Helldiver,SB2C-5 Helldiver,Q20026771,1,0,1,carrier-based dive bomber model,Curtiss SB2C-5 Helldiver|SB2C5|Helldiver 5|B.J.3|BJ3|Curtiss Scout Bomber Type 2 Series 5,Q15056995,Q21698651,
+SB2C-5 Helldiver,Curtiss SB2C Helldiver,Q918312,1,0,2,1940 scout bomber aircraft family,Helldiver|Curtiss Scout Bomber Design 2|Curtiss Helldiver|Curtiss A-25 shrike|A-25 Shrike|SB2C|Curtiss SB2C|SB2C Helldiver,Q15056993,Q18552499|Q11614373|Q678321|Q78597174,Curtiss SB2C Helldiver
+SB2C-5 Helldiver,Curtiss SB2C Helldiver in service,Q21697775,1,0,2,dive bomber family used by military forces worldwide,sb2cfleet|SB2C Helldiver fleet|global SB2C Helldiver|Curtiss SB2C Helldiver in military service,Q1875630,Q918312|Q65924073,
+SB2C-5 Helldiver,Curtiss SB2C Helldiver in United States naval service,Q134473734,1,0,2,dive bomber family used by the naval aviation community of the United States,USN SB2C Helldiver|SB2C Helldiver in United States naval service,Q1875630,Q21697775,
+SB2C-5 Helldiver,Grumman F6F Hellcat,Q465903,1,0,2,1942 fighter aircraft family by the Grumman Corporation,"F6F|Grumman Fighter Type 6|Hellcat aircraft|Grumman Hellcat|Grumman Gannet|Gannet aircraft|Grumman G-50 Hellcat|Grumman G-50|G-50 Hellcat|G-50|Hellcat|Grumman Fighter Design 6|F6F Hellcat|Grumman F6F Hellcat|""Hellcat""",Q15056995,Q18491097|Q1261534,Grumman F6F Hellcat
+SB2C-5 Helldiver,Grumman F6F Hellcat in United States service,Q134617340,1,0,2,fighter family used by United States Naval Aviation,USN F6F Hellcat|F6F Hellcat in United States service,Q112859321,Q465903|Q122526546,
+SB2C-5 Helldiver,Grumman TBF Avenger,Q134482081,1,0,2,torpedo bomber aircraft family designed and manufactured by the Grumman Corporation,TBF Avenger|Grumman Torpedo Bomber Design 1|Avenger TBF|Grumman Avenger,Q15056993,Q734103,
+SB2C-5 Helldiver,Grumman Avenger,Q734103,1,0,2,1941 torpedo bomber aircraft model,General Motors Avenger|General Motors TBM Avenger|TBM Avenger|Grumman Tarpon|Grumman G-40 Avenger|G-40 Avenger|G-40|TBM|Avenger|TBF Avenger|Grumman TBF Avenger,Q15056993,Q133830342|Q133830632|Q133830576|Q1261534|Q753224,Grumman TBF Avenger
+SB2C-5 Helldiver,Grumman TBF Avenger in United States service,Q134484337,1,0,2,torpedo bomber family used by United States Naval Aviation,USN TBF Avenger|TBF Avenger in United States service,Q1875630,Q134481949|Q134457222,
+SB2C-5 Helldiver,Grumman TBF Avenger in service,Q134481949,1,0,2,torpedo bomber family used by military forces worldwide,TBF Avenger in service|global TBF Avenger|Grumman TBF Avenger in military service,Q1875630,Q134482081|Q21705635,
+Spin,Spin,Q1025912,2,0,1,American music magazine,,Q41298,,Spin (magazine)
+Spin,Spin,Q2739244,2,0,1,2002 first solo album by Darren Hayes,,Q482994,,Spin (Darren Hayes album)
+Spin,piano,Q5994,2,0,1,musical keyboard instrument,pianoforte|concert grand piano|fortepiano|spinet|spinnet,Q110295396,Q3152898|Q52954|Q4951628,Piano
+Spin,Spinacia oleracea,Q81464,2,0,1,species of plant,spinach plant|spinach,Q16521,Q190903|Q192691|Q11992872|Q138848994,Spinach
+Spin,Spin,Q87484739,2,0,1,original Tor hardcover edition,,Q3331189,,
+Spin,meningitis,Q48143,2,0,1,inflammation of the membranes around the brain and spinal cord,meninx inflammation|Meningitis|meninxitis|spinal meningitis,Q112193867|Q112965645,Q1634879|Q5062122|Q131345497,Meningitis
+Spin,Spin,Q64706695,2,0,1,Star Trek novel,,Q7725634,,
+Spin,Spin,Q87581940,2,0,1,French 2007 edition,,Q3331189,,
+Spin,Spin,Q87582836,2,0,1,Tor 2006 paperback edition,,Q3331189,,
+Spin,Spinefarm Records,Q1124153,2,0,1,Finnish record label,,Q18127|Q2608849,,Spinefarm Records
+Spin,Spinn,Q37529068,2,0,2,family name,,Q101352,,
+Spin,Spinner,Q20658260,2,0,2,family name,,Q101352,,Spinner (surname)
+Spin,Spinnaker Software,Q7577588,2,0,2,video game publisher,Spinnaker Software Corporation,Q7554349|Q1137109,,Spinnaker Software
+Spin,Spinnereistraße,Q98603472,2,0,2,"street in the city districts of Linden-Mitte and Linden-Nord in Hanover, Germany",Spinnereistraße (Hannover),Q79007,,
+Spin,hard disk,Q4439,2,0,2,data storage device,HDD|HD|hard drive|fixed disk|spinner|spinning rust|hard disk drive,Q125005976|Q193395,Q3966|Q66221|Q25399170,Hard disk drive
+Spin,silk mill,Q3973051,2,0,2,"industrial establishment where silk is reeled, spun or otherwise processed into thread",spinning mill|silk spinning mill|silk reeling mill|silk factory,,Q98128245,Silk mill
+Spin,Spinnler,Q76417651,2,0,2,family name,,Q101352,,
+Spin,Spinnin' Records,Q2310883,2,0,2,Dutch record label based in Hilversum,Spinnin' Records BV|Spinnin' Recs|Spinnin’ Records|Spinnin' Rec|Spinnin Rec,Q18127,,Spinnin' Records
+Spin,Spinnerij,Q4667520,2,0,2,"tram stop in Amstelveen, Netherlands",Spinnerij metro station,Q928830|Q3201814,,Spinnerij tram stop
+Spin,spinnaker,Q1137340,2,0,2,forward sail,,Q15688633|Q19978220,Q25999,Spinnaker
+Spin,Spinnaker,Q64534707,2,0,2,painting by John Robinson Frazier,,Q3305213,,
+Spin,SpiNNaker,Q7576855,2,0,2,"Massively parallel, manycore supercomputer modelled on the human brain",Spiking Neural Network Architecture,Q28542014,,SpiNNaker
+Spin,Spinnaker,Q65046096,2,0,2,continuous delivery software platform,,Q7397,,Spinnaker (software)
+Spin,Spinnaker,Q97177745,2,0,2,,,Q157798,,
+Spin,Spinnaker,Q121362968,2,0,2,sculpture by Manfred Sihle-Wissel in Hamburg,,Q860861,,
+Spin,Spinnaker,Q19533550,2,0,2,"street in Papendrecht, the Netherlands",,Q79007,,
+Spin,Spinnaker,Q106258675,2,0,2,"street in Kiel, Schleswig-Holstein, Germany",,Q79007,,
+Spin,Spinnaker Tower,Q541846,2,0,2,"sightseeing tower in Portsmouth, Hampshire, England",,Q1440300,,Spinnaker Tower
+Coastal,Coastal Carolina University,Q1104405,3,0,1,"public university in South Carolina, United States",Coastal|coastal.edu,Q3918|Q23002039,,Coastal Carolina University
+Coastal,salt marsh,Q29925,3,0,1,"type of coastal ecosystem, land outside the dikes that is not flooded with seawater with average high tide",saltmarsh|coastal salt marsh|tidal marsh,,Q55706997|Q170321|Q6764288,Salt marsh
+Coastal,coast,Q93352,3,0,1,area where land meets the sea or ocean,coastal zone,Q25894868|Q271669,Q468756,Coast
+Coastal,patrol vessel,Q331795,3,0,1,naval watercraft designed for monitoring sea and littoral areas,patrol ship|coastal defence vessel|patrol craft,Q16335899,Q177597,Patrol boat
+Coastal,Coastal,Q28152817,3,0,1,NLP research group at DIKU,coastalcph|CoAStaL NLP group,Q1241025,,
+Coastal,coastal wetland,Q75304241,3,0,1,land area near the shore that is frequently or permanently covered by water,coastal wetlands,,Q170321|Q75304510,
+Coastal,coastline,Q1701967,3,0,1,outline of the coast,coastal line|shoreline,,Q3241107|Q27096220,
+Coastal,coastal water body,Q16615865,3,0,1,"a surface water body extending up to one nautical mile from the territorial water baseline, extending where appropriate up to the outer limit of transitional waters",WFD Coastal water body|CW,,Q2479431|Q56061,
+Coastal,coastal groundwater,Q107479195,3,0,1,subsurface water on land near sea shores,coastal ground water,,Q161598,
+Coastal,Sequoia sempervirens,Q150129,3,0,1,species of plant in the monotypic genus Sequoia in the cypress family (Cupressaceae),coast redwood|California redwood|coastal redwood,Q16521,,Sequoia sempervirens
+Coastal,Bhimavaram,Q757853,3,0,2,"Town in West Godavari district, Andhra Pradesh, India",coastal city|lasVegas of india,Q58339518,,Bhimavaram
+Coastal,Coastal City,Q21010005,3,0,2,shopping complex in Shenzhen,,,,Coastal City
+Coastal,coastal city,Q125501758,3,0,2,city or town that is located at the coast of an administrative territory,coastal town,,Q7930989|Q30504307,
+Coastal,coastal city,Q130358646,3,0,2,city located near a coastline,,Q137015716,Q515,
+Coastal,Coastal city; Coastal parks,Q112846765,3,0,2,1989 diploma thesis by Michael Farrow at University of Canterbury,,Q30749496,,
+Coastal,Coastal Region Library,Q69953904,3,0,2,"public library in Crystal River, Florida, USA",,Q11396180|Q28564,,
+Coastal,Coastal regions of Western Australia,Q5138365,3,0,2,"separated regions along the coastline of Western Australia, Australia",Coastline regions of WA|Western Australian coastal regions,,,Coastal regions of Western Australia
+Coastal,Coastal regions,Q46963662,3,0,2,scientific article published in December 2013,,Q13442814,,
+Coastal,Coastal Regions of Ukraine: Governance Transformation amid the Russian Invasion,Q121826530,3,0,2,scientific article published in 2023,,Q13442814,,
+Coastal,"Willis Point, British Columbia",Q104868431,3,0,2,coastal community of Canada,coastal community,,,"Willis Point, British Columbia"
+Coastal,Coastal Community Foundation,Q20857871,3,0,2,"nonprofit organization in Charleston, United States",Coastal Community Foundation of South Carolina,Q163740|Q1021488,,Coastal Community Foundation
+Coastal,Coastal community resilience frameworks for disaster risk management,Q139938467,3,0,2,,,Q13442814,,
+Coastal,"Coastal Community Empowerment based on Marine Tourism Development Strategy Case Study in West Java Province, Indonesia",Q125815618,3,0,2,scientific article published in 2023,,Q13442814,,
+Coastal,"Coastal Community Perspective, Waste Density, and Spatial Area toward Sustainable Waste Management (Case Study: Ambon Bay, Indonesia)",Q126041465,3,0,2,scientific article published in 2021,,Q13442814,,
+Coastal,"Coastal community attitude toward program implementation of Marine Protected Area in Berau and Bontang, East Kalimantan",Q128203997,3,0,2,scholarly article,,Q13442814,,
+Coastal,Coastal Community Values for Marsh-Dependent Socioecological Services Revealed through a Systematic Qualitative Approach,Q125299204,3,0,2,scientific article published in 2017,,Q13442814,,
+Coastal,Coastal Community Response to the Movement of Literacy: a study on literacy culture in Demak pesantren's,Q129431059,3,0,2,scholarly article,,Q13442814,,
+Coastal,"Coastal Community Perception of Mangroves in Suli Subdistrict, Luwu",Q126225186,3,0,2,scientific article published in 2019,,Q13442814,,
+Typhoon,typhoon,Q140588,4,0,1,"mature tropical cyclone that forms in the Western North Pacific Ocean, with winds of at least 118 km/h (64 kts, 32.7 m/s)",,,Q63100732,Typhoon
+Typhoon,Typhoon,Q19721943,4,0,1,1987 video game,,Q7889,,
+Typhoon,Typhoon,Q18355530,4,0,1,coin operated media,"Typhoon ""Mad Wave"" Motion Theater Deluxe",Q19680204,,Typhoon (simulator)
+Typhoon,Eurofighter Typhoon,Q151384,4,0,1,European multi-role combat aircraft family by Eurofighter GmbH,EF2000|Typhoon aircraft|Eurofighter EF-2000|Typhoon,Q15056993,Q1188543|Q2125613|Q850403,Eurofighter Typhoon
+Typhoon,Tayfun,Q125181693,4,0,1,2024 Karakurt-class corvette,Typhoon,Q4279250,,
+Typhoon,Northwest Pacific tropical cyclone,Q63100732,4,0,1,Northwest Pacific Tropical Cyclones classifications managed by Joint Typhoon Warning Center (JTWC) and Japan Meteorological Agency (JMA),typhoon,Q118733356,Q25999041|Q8092,
+Typhoon,Typhoon,Q662123,4,0,1,British fighter-bomber,Tiffy|Typhoon IB|Hawker Typhoon|Typhoon aircraft|Typhoon fighter-bomber,Q15056993,Q18491097|Q385642,Hawker Typhoon
+Typhoon,Typhoon,Q376070,4,0,1,1940 film,,Q11424,,Typhoon (1940 film)
+Typhoon,A-Jax,Q88273,4,0,1,1987 video game,Typhoon|Ajax|A Jax,Q7889,,A-Jax (video game)
+Typhoon,Typhoon,Q2356200,4,0,1,Dutch rapper,Glenn de Randamie|Imro Glenn Lubertus Emile de Randamie|Glenn De Randamie,Q5,,Typhoon (rapper)
+Typhoon,Typhoon Haiyan,Q15136651,4,0,2,Western Pacific super typhoon in 2013,Super Typhoon Haiyan|Typhoon Yolanda|Super Typhoon Yolanda,Q140588,,Typhoon Haiyan
+Typhoon,Typhoon Haiyan (2001),Q115584892,4,0,2,,,Q140588,,
+Typhoon,Typhoon Haiyan (Yolanda): U.S. and International Response to Philippines Disaster,Q59598881,4,0,2,Congressional Research Service report,,Q6451276,,
+Typhoon,Typhoon Haiyan and the Professionalization of Disaster Response,Q39126074,4,0,2,"scientific article published on February 19, 2014",,Q13442814,,
+Typhoon,Typhoon Haiyan recovery: progress and challenges,Q50650022,4,0,2,"scientific article published on April 5, 2014",,Q13442814,,
+Typhoon,Typhoon Haiyan: Philippines faces long road to recovery,Q39124991,4,0,2,"scientific article published on November 23, 2013",,Q13442814,,
+Typhoon,Typhoon Haiyan disaster in the Philippines: paediatric field hospital perspectives,Q39128829,4,0,2,"scientific article published on September 22, 2014",,Q13442814,,
+Typhoon,Typhoon Haiyan and beyond,Q43843650,4,0,2,scientific article published on 23 November 2013,,Q13442814,,
+Typhoon,Typhoon Haiyan overwash sediments from Leyte Gulf coastlines show local spatial variations with hybrid storm and tsunami signatures,Q57775096,4,0,2,scientific article,,Q13442814,,
+Typhoon,Typhoon Haiyan: Any Role for Neurosurgery in Natural Disasters?,Q87494801,4,0,2,"scientific article published on March 20, 2014",,Q13442814,,
+Typhoon,Typhoon Bopha,Q247885,4,0,2,Pacific typhoon in 2012,Typhoon Pablo,Q140588,,Typhoon Bopha
+Typhoon,Typhoon Bopha,Q7861129,4,0,2,Wikimedia disambiguation page,,Q4167410,,List of storms named Bopha
+Caravelle,Caravelle,Q15757315,5,0,1,academic journal,,Q5633421|Q737498|Q773668,,
+Caravelle,Caravelle,Q109017869,5,0,1,2017 debut studio album by Polo & Pan,,Q482994,,
+Caravelle,Caravelle,Q113043836,5,0,1,2022 album by Furax Barbarossa,,Q482994,,
+Caravelle,Caravelle,Q27721631,5,0,1,journal 1963-1965,,Q5633421,,
+Caravelle,Caravelle,Q2937915,5,0,1,sailboat class,,Q106179098|Q1307792,Q13573011|Q22683885,
+Caravelle,Caravelle,Q122571541,5,0,1,"hamlet in Wilson County, Tennessee, United States","Caravelle, Tennessee|Caravelle, TN",Q486972|Q5084,,
+Caravelle,Caravelle,Q104035602,5,0,1,ship built in 2016,IMO 9722807,Q11446,,
+Caravelle,Caravelle Manifesto,Q10800998,5,0,1,1960 Vietnamese political document presented in that hotel,,,,Caravelle Manifesto
+Caravelle,caravel,Q169560,5,0,1,type of sailing ship,,Q2235308,Q170483,Caravel
+Caravelle,Caravelle 10B,Q90153841,5,0,1,aircraft model,Sud Aviation SE 210 Caravelle 10B|Sud SE 210 Caravelle 10B|SE 210 Caravelle 10B|Sud Aviation Caravelle 10B|Super Caravelle,Q15056995,Q6503,
+Anson,Anson,Q22062007,6,0,1,family name,,Q101352,,
+Anson,Anson,Q569952,6,0,1,"city in Jones County, Texas, United States","Anson, Texas|Anson, TX",Q1093829|Q62049,,"Anson, Texas"
+Anson,Robert A. Heinlein,Q123078,6,0,1,American author and aeronautical engineer (1907–1988),Anson MacDonald|Lyle Monroe|John Riverside|Caleb Saunders|Simon York|Robert Heinlein|Robert Anson Heinlein,Q5,,Robert A. Heinlein
+Anson,Anson County,Q497830,6,0,1,"county in North Carolina, United States","Anson County, North Carolina|Anson County, NC",Q13414758,,"Anson County, North Carolina"
+Anson,Anson W. Cheung,Q114968272,6,0,1,researcher (ORCID 0000-0003-1466-2788),Anson Cheung|Anson W Cheung|A. W. Cheung|A.W. Cheung|A W Cheung,Q5,,
+Anson,Anson,Q27179450,6,0,1,male given name,,Q12308941,,
+Anson,Anson,Q132132982,6,0,1,Chinese actor,Shi Yue An Xin,Q5,,
+Anson,Ansonia,Q570044,6,0,1,"city in New Haven County, Connecticut, United States","Ansonia, Connecticut|Ansonia, CT",Q1093829,,"Ansonia, Connecticut"
+Anson,Ansonia,Q771554,6,0,1,genus of amphibians,,Q16521,,Ansonia (frog)
+Anson,Anson,Q515041,6,0,1,"town in Somerset County, Maine, United States","Anson, Maine|Town of Anson|Anson Township|Anson, ME",Q15127012,,"Anson, Maine"
+Anson,Anson Dorrance,Q4770720,6,0,2,American soccer player-coach,Albert Anson Dorrance IV,Q5,,Anson Dorrance
+FS,Ferrovie dello Stato Italiane,Q83823,7,0,1,national rail operator of Italy,Ferrovie dello Stato|FS,Q249556|Q270791|Q4830453,,Ferrovie dello Stato Italiane
+FS,Farming Simulator,Q1804779,7,0,1,series of farming simulation video games,FS,Q7058673,,Farming Simulator
+FS,file system,Q174989,7,0,1,concrete format or program for storing files and directories on a data storage device,filesystem|FS|concrete filesystem,Q30059018,Q88864296|Q80428|Q101408242,File system
+FS,FSK 0,Q20644794,7,0,1,rating in the FSK German film-rating system: without restriction,,Q23649977,,
+FS,United States,Q30,7,0,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+FS,Federated States of Micronesia,Q702,7,0,1,island sovereign state in Oceania,"Micronesia|FSM|fm|Fed. Sts. Micronesia|Fed. Sts. of Micronesia|Federated States of Micronesia, FSM",Q3624078|Q112099|Q6256,,Federated States of Micronesia
+FS,French Sign Language,Q33302,7,0,1,sign language used predominately in France and French-speaking Switzerland,LSF|FSL,Q34228|Q34770|Q1288568,Q5501921,French Sign Language
+FS,financial services,Q837171,7,0,1,economic service provided by the finance industry,finance industry|FS industry|FinServ|financial activities|financial service,Q8187769|Q130303173,Q7406919|Q25351891|Q2424752|Q815823,Financial services
+FS,Florida State University,Q861548,7,0,1,"public university in Tallahassee, Florida, United States",Florida Institute|Tallahassee Female Academy|West Florida Seminary|The Florida Military and Collegiate Institute|The Literary College of the University of Florida|University of Florida|Florida State College|Florida Female College|Florida State College for Women,Q875538|Q23002039,,Florida State University
+FS,FSK 12,Q20644796,7,0,1,rating in the FSK German film-rating system: persons aged 12 years or older; persons aged 6 (Germany)/10 (Switzerland)-11 years allowed with an adult,,Q23649977,,
+FS,Ford Super Duty,Q3267790,7,0,2,heavy-duty line of pickup trucks by Ford,,Q21546143,,Ford Super Duty
+FS,Ford Super Duty engine,Q5467941,7,0,2,motor vehicle engine,,Q502048,Q502048,Ford Super Duty engine
+FS,Florida State Seminoles,Q944639,7,0,2,intercollegiate sports teams of Florida State University,Florida State University sports teams|Florida State University athletics,Q2367225,,Florida State Seminoles
+FS,Florida State University College of Law,Q5461640,7,0,2,law school,,Q1321960,,Florida State University College of Law
+FS,Florida State University College of Medicine,Q5461646,7,0,2,American medical school,FSU College of Medicine,Q494230|Q45400320,,Florida State University College of Medicine
+FS,Florida State University Law Review,Q5461650,7,0,2,journal,,Q746654,,Florida State University Law Review
+FS,Florida State University School,Q5461653,7,0,2,"high school in Tallahassee, Leon County, Florida",,Q9826|Q7884983,,Florida State University Schools
+FS,"Florida State University College of Motion Picture, Television and Recording Arts",Q5461641,7,0,2,Film School,Florida State University Film School,Q3918,,Florida State University College of Motion Picture Arts
+FS,Robert Manning Strozier Library,Q35188490,7,0,2,"library in Tallahassee, Florida, United States",Strozier Library|Florida State University Robert Manning Strozier Library,Q856234|Q2085381,,
+FS,Florida State University-Panama,Q5461630,7,0,2,,FSU-Panama,Q3918,,Florida State University-Panama
+FS,Florida State University College of Music,Q5461642,7,0,2,"Public college in Tallahassee, Florida, US",,Q184644,,Florida State University College of Music
+Falcon,Falcon,Q7884398,8,0,1,family name,,Q101352,,Falcon (surname)
+Falcon,Falcón,Q202071,8,0,1,state of Venezuela,Falcon|Falcon State|Falcón State,Q501094,,Falcón
+Falcon,Falcon,Q98776958,8,0,1,male given name,,Q12308941,,
+Falcon,Falcon,Q39089608,8,0,1,1987 video game,,Q7889,,Falcon (video game)
+Falcon,falcon,Q43489,8,0,1,genus of birds,,Q16521|Q55983715,Q48428,Falcon
+Falcon,Falcon 9,Q249091,8,0,1,partially reusable orbital launch vehicle by SpaceX,Falcon 9 rocket|Falcon 9 booster,Q111722634,Q3770701|Q30128|Q22906832,Falcon 9
+Falcon,Falconidae,Q21744,8,0,1,family of birds,,Q16521,,Falconidae
+Falcon,Falcon,Q124286448,8,0,1,Austrian esports player,Markus Holzer,Q5,,
+Falcon,HMS Fortune,Q25396870,8,0,1,1746 corvette,HMS Falcon|Falcon,Q170013,,
+Falcon,Falcon,Q117863202,8,0,1,,,Q5,,
+Falcon,Falcon 9 Block 5,Q28450215,8,0,2,current version of the SpaceX Falcon 9 orbital launch vehicle,F9 B5|Falcon 9 v1.2 Block 5,Q110055303,Q249091,Falcon 9 Block 5
+Falcon,Falcon Heavy,Q1093627,8,0,2,heavy-lift orbital launch vehicle made by SpaceX,FH|Falcon 9 Heavy,Q29048322,Q249091|Q23759442|Q11222716,Falcon Heavy
+Falcon,Falcon 9 Full Thrust,Q22808999,8,0,2,third major version of the SpaceX Falcon 9 orbital launch vehicle,Falcon 9 v1.2|Falcon 9 Upgrade|Falcon 9 FT|F9 FT,Q110055303,Q249091,Falcon 9 Full Thrust
+Falcon,Falcon 9 booster,Q53214907,8,0,2,first stage of a Falcon 9 rocket,,Q111722634,Q741745,Falcon 9 first-stage booster
+Falcon,Dassault Falcon 900,Q1141409,8,0,2,executive trijet aircraft family,DF900|M37|Dassault-Breguet Mystere-Falcon 900|Falcon 900,Q15056993,Q1062135|Q8142879,Dassault Falcon 900
+Falcon,Falcon 9 v1.1,Q15215794,8,0,2,second version of SpaceX's Falcon 9 orbital launch vehicle,,Q110055303,Q249091,Falcon 9 v1.1
+Falcon,Falcon 9 Block 4,Q58924629,8,0,2,fourth major version of the Falcon 9 rocket,F9 B4|Falcon 9 v1.2 Block 4,Q110055303,Q249091,
+Falcon,Falcon 9 v1.0,Q16837944,8,0,2,first member of the Falcon 9 launch vehicle family,,Q110055303,Q249091,Falcon 9 v1.0
+Falcon,Falcon 9 Flight 20,Q21738197,8,0,2,"20th launch of the Falcon 9 rocket, carrying 11 Orbcomm-OG2 satellites; first landing of an orbital rocket first stage",Orbcomm OG2 M2,Q5916,,Falcon 9 flight 20
+Falcon,Falcon Heavy Demonstration Mission,Q42710118,8,0,2,maiden flight of SpaceX's Falcon Heavy launcher,Falcon Heavy Test Flight|Falcon Heavy Maiden Flight|Falcon Heavy Flight 1,Q5916|Q1362364,,Falcon Heavy test flight
+Falcon,Falcon 1,Q648606,8,0,2,"orbital launch vehicle made by SpaceX, predecessor of Falcon 9",,Q110055303,Q3770701|Q15078724|Q22908850,Falcon 1
+Falcon,Falcon I,Q15129746,8,0,2,V-12 piston aircraft engine model by Rolls-Royce,RR Falcon I|Falcon 1|Rolls-Royce 190 hp Mk I|RR 190 hp I|Rolls-Royce Falcon I|Rolls-Royce 230 hp,Q15057021,Q1514324,
+Falcon,Falcon 10,Q1171983,8,0,2,executive aircraft family by Dassault,Falcon X|Dassault-Breguet Mystere-Falcon 10|Dassault Falcon 10,Q15056993,Q8142879,Dassault Falcon 10
+Falcon,Falcon 1 Flight 2,Q25451612,8,0,2,rocket launch by SpaceX,Falcon Demo Launch 2,Q5916,,
+Falcon,Falcon 1e,Q5431728,8,0,2,proposed space launch vehicle developed by SpaceX from the United States,,Q29048322|Q64728694,Q648606,Falcon 1e
+Falcon,Falcon 180B,Q124713322,8,0,2,"Open-source family of generative large language models developed by theTechnology Innovation Institute (TII) in Abu Dhabi, UAE, available inmultiple parameter sizes (1.3B to 180B).",Falcon | Falcon LLM | Falcon 40B | Falcon 180B | Falcon H1 | TII Falcon | Falcon language model,Q7397,,
+Falcon,Falcon 1 rocket fails during third launch attempt,Q17659372,8,0,2,Wikinews article,,Q17633526,,
+Falcon,Falcon 10MER,Q106340574,8,0,2,military utility aircraft model by Dassault,Dassault Falcon 10MER,Q15056995,Q1171983,
+Falcon,Falcon 15,Q104378824,8,0,2,ship built in 2017,IMO 9815496,Q11446,,
+Falcon,Falcon 100,Q106340573,8,0,2,executive aircraft model by Dassault,Dassault Falcon 100,Q15056995,Q1171983,
+Model 1,Model 1,Q904697,9,0,1,arcade system board by Sega,,Q631229,,
+Model 1,B & W Seaplane,Q2558622,9,0,1,floatplane by Boeing,B&W Seaplane|Boeing Model 1|Model 1|Boeing 1,Q15056995,Q3119075,Boeing Model 1
+Model 1,Model 1,Q5458410,9,0,1,light biplane family by Fleet,Fleet Model 1,Q15056993,Q68073115,Fleet Model 1
+Model 1,Model 1860 Light Cavalry Saber,Q6888173,9,0,1,U.S. Army cavalry sword,M1862,Q120637119,,Model 1860 Light Cavalry Saber
+Model 1,Beechcraft 18,Q814006,9,0,1,1937 executive aircraft family by Beechcraft,AT-7 Navigator|Twin Beech|Beechcraft C-45|18|Beech 18|JRB Expeditor|B18|Beechcraft AT-11|Beech C-45|Model 18|AT-11 Kansan,Q15056993,Q83762511|Q68072093|Q210932,Beechcraft Model 18
+Model 1,Martin B-26 Marauder,Q836438,9,0,1,"US medium bomber with 2 piston engines, 1940",B-26 (Martin Marauder)|Marauder bomber|Martin Marauder (B-26)|B-26 Marauder|Martin Model 179|Model 179,Q15056993,Q10796151|Q18518465|Q70180928,Martin B-26 Marauder
+Model 1,Boeing Vertol CH-46 Sea Knight,Q282934,9,0,1,1958 military transport helicopter family,Sea Knight|Model 107|CH-113 Labrador|Boeing-Vertol 107|Boeing-Vertol H-46 Sea Knight|UH-46|HH-46|HRB-1|Boeing Vertol HRB-1|CH-46 Sea Knight|Boeing Vertol H-46 Sea Knight|HRB|H-46,Q15056993,Q2736067|Q16533093,Boeing Vertol CH-46 Sea Knight
+Model 1,Lockheed Lodestar,Q1633021,9,0,1,1939 airliner family,Lockheed Model 18|Lockheed 18|Model 18|L-18|L18|Model 18 Lodestar|Lodestar|L Lodestar,Q15056993,Q83762511,Lockheed Model 18 Lodestar
+Model 1,Model 1,Q6888170,9,0,1,Java Web application design model,,,,JSP model 1 architecture
+Model 1,Lockheed Model 10 Electra,Q1500303,9,0,1,1934 airliner family by Lockheed,L-10 Electra|Electra aircraft|Lockheed Electra|Electra 10|Model 10 Electra,Q15056993,Q210932,Lockheed Model 10 Electra
+Aero Commander 680,Aero Commander 680,Q106401553,10,0,1,executive aircraft series by Aero Commander,Aero Commander Aero Commander 680,Q15056993,Q381283,
+Aero Commander 680,Aero Commander 680,Q10401855,10,0,1,,,Q197,,
+Aero Commander 680,Aero Commander 680 Grand Commander,Q106401590,10,0,1,executive aircraft series by Aero Commander,680 Grand Commander,Q15056993,Q106401553,
+Aero Commander 680,Aero Commander 680FL(P) Grand Commander,Q106401592,10,0,1,executive aircraft model by Aero Commander,680FL(P) Grand Commander,Q15056995,Q106401590,
+Aero Commander 680,Aero Commander 680FL Grand Commander,Q106401591,10,0,1,executive aircraft model by Aero Commander,680FL Grand Commander,Q15056995,Q106401590,
+Aero Commander 680,Aero Commander 680F,Q106401556,10,0,1,executive aircraft series by Aero Commander,Aero Commander Aero Commander 680F,Q15056993,Q106401553,
+Aero Commander 680,Aero Commander 680E,Q106401555,10,0,1,executive aircraft model by Aero Commander,Aero Commander Aero Commander 680E,Q15056995,Q106401553,
+Aero Commander 680,Aero Commander 680 Super,Q106401554,10,0,1,executive aircraft model by Aero Commander,Aero Commander Aero Commander 680 Super,Q15056995,Q106401553,
+Aero Commander 680,Aero Commander 680FP,Q106401557,10,0,1,executive aircraft model by Aero Commander,Aero Commander Aero Commander 680FP,Q15056995,Q106401553,
+CJ-6,CJ-6,Q653603,11,0,1,military training aircraft,PT-6|Nanchang CJ-6,Q15056993,Q41426,Nanchang CJ-6
+CJ-6,Nanchang CJ-6 in Albanian service,Q17448491,11,0,1,trainer aircraft model used by Albania's air force,"cj6albania|CJ-6 in Albanian Air Force service|Albanian Air Force CJ-6 fleet|Nanchang CJ-6 in Albanian Air Force service|Nanchang CJ-6 in Albanian military service, air force|Nanchang CJ-6 in air force service, Albania|trainer in Albanian service, CJ-6",Q1875630,Q20870832|Q66049292,
+CJ-6,Nanchang CJ-6 in service,Q66049292,11,0,1,trainer aircraft series used by operators worldwide,"global CJ-6 fleet|CJ-6 fleet|trainer in service, CJ-6",Q1875630,Q66049308|Q653603,
+CJ-6,agricultural cooperative,Q111191049,11,0,1,type of legal entity in France,société coopérative agricole,Q56427813|Q10541491,Q112176874,
+CJ-6,groupement d'intérêt économique,Q3118017,11,0,1,"French consortium of related businesses, companies, foundations, organisations or institutes which are formally pooling their efforts for competitive advantage",EIG|Economic Interest Grouping|Economic Interest Group|Groupement d'Intérêt Economique|GIE,Q56427813|Q10541491,Q112176871,Groupement d'intérêt économique
+CJ-6,forestry grouping,Q88963434,11,0,1,type of legal entity in France,groupement forestier,Q56427813|Q10541491,Q33134075,
+CJ-6,CJ 6599,Q112176930,11,0,1,,,Q56427813|Q10541491,Q33134075,
+CJ-6,GAEC,Q3117998,11,0,1,French agricultural civil society,groupement agricole d'exploitation en commun,Q56427813|Q10541491,Q33134075,
+CJ-6,property civil-law company,Q3487751,11,0,1,type of legal entity in France,société civile immobilière,Q56427813|Q10541491,Q33134075,
+CJ-6,CJ 6598,Q3062123,11,0,1,,,Q56427813|Q10541491,Q33134075,
+Gnat,Gnat,Q37556631,12,0,1,family name,,Q101352,,Gnat (surname)
+Gnat,Gnathia,Q3916252,12,0,1,genus of crustaceans,,Q16521,,Gnathia
+Gnat,Gnathostomata,Q26214,12,0,1,infraphylum of jawed vertebrates,gnathostome,Q16521,,Gnathostomata
+Gnat,Gnathostoma spinigerum,Q5574160,12,0,1,parasitic nematode that causes gnathostomiasis in humans,,Q16521,,Gnathostoma spinigerum
+Gnat,Gnathiidae,Q1948563,12,0,1,family of crustaceans,,Q16521,,Gnathiidae
+Gnat,GNAT domain,Q24772477,12,0,1,InterPro Domain,GNAT_dom|IPR000182,Q898273,,
+Gnat,"GNAT domain, protein family",Q83140638,12,0,1,protein family,IPR000182,Q81505329|Q67015883,Q6951442|Q2655970,
+Gnat,Gnathocera,Q5574138,12,0,1,genus of insects,,Q16521,,Gnathocera
+Gnat,Gnathophis,Q3011227,12,0,1,genus of fishes,,Q16521,,Gnathophis
+Gnat,Gnathostomatidae,Q18611623,12,0,1,family of spirurian roundworms,,Q16521,,Gnathostomatidae
+Gnat,Musca domestica,Q166111,12,0,2,"species of insect in the class ""Muscidae"", sort of fly",house fly|Fly|housefly,Q16521,,Housefly
+Gnat,Musca,Q145574,12,0,2,insect genus,housefly,Q16521,,Musca (fly)
+Gnat,Housefly control,Q51490936,12,0,2,"Washington, D.C.: U.S. Dept. of Agriculture, [1939]",,Q3331189,,
+Gnat,Housefly (Musca domestica) and Blow Fly (Protophormia terraenovae) as Vectors of Bacteria Carrying Colistin Resistance Genes,Q43168210,12,0,2,scientific article published on 13 October 2017,,Q13442814,,
+Gnat,"Housefly (Musca domestica L.) control potential of Cymbopogon citratus Stapf. (Poales: Poaceae) essential oil and monoterpenes (citral and 1,8-cineole)",Q46804569,12,0,2,"scientific article published on September 7, 2012",,Q13442814,,
+Gnat,"Housefly Population Density Correlates with Shigellosis among Children in Mirzapur, Bangladesh: A Time Series Analysis",Q30418588,12,0,2,"scientific article published on June 20, 2013",,Q13442814,,
+Gnat,Housefly Maggots (Musca domestica) Protein-enriched Fraction/ extracts (PE) Inhibit Lipopolysaccharide-induced Atherosclerosis Pro-inflammatory Responses,Q52713042,12,0,2,"scientific article published on December 10, 2010",,Q13442814,,
+Gnat,Housefly maggot-treated composting as sustainable option for pig manure management,Q43326160,12,0,2,"scientific article published on October 25, 2014",,Q13442814,,
+Gnat,"Housefly Larva Vermicomposting Efficiently Attenuates Antibiotic Resistance Genes in Swine Manure, with Concomitant Bacterial Population Changes",Q35752698,12,0,2,"scientific article published on August 21, 2015",,Q13442814,,
+Gnat,"Housefly (Musca domestica) larvae powder, preventing oxidative stress injury via regulation of UCP4 and CyclinD1 and modulation of JNK and P38 signaling in APP/PS1 mice",Q90424982,12,0,2,scientific article published on 01 January 2019,,Q13442814,,
+Gnat,Fruitfly origins,Q52542675,12,0,2,scientific article published in September 1994,,Q13442814,,
+Gnat,Fruitfly fucosylation,Q127022903,12,0,2,scholarly article,,Q13442814,,
+Gnat,Fruitfly larvae smell the light,Q59009355,12,0,2,scientific article published in Nature,,Q13442814,,
+Gnat,Fruitfly hatching time key to adaptability,Q122236990,12,0,2,scientific article published in 2012,,Q13442814,,
+Gnat,FRUITFLYRISKMANAGE: A Euphresco project for Ceratitis capitata Wiedemann (Diptera: Tephritidae) risk management applied in some European countries,Q136543755,12,0,2,scientific article published on 11 July 2023,,Q13442814,,
+Bristol Beaufighter,Bristol Beaufighter,Q831463,13,0,1,heavy fighter aircraft,Beau|Bristol Type 156|Bristol 156|Type 156|Beaufighter,Q15056993,Q135214873,Bristol Beaufighter
+Bristol Beaufighter,Bristol Beaufighter,Q917873,13,0,1,Sports saloon,,Q3231690,,
+Bristol Beaufighter,Bristol Beaufighter,Q119658089,13,0,1,"painting by Dan Brooks (d.2012), Dumfries and Galloway Aviation Museum",,Q3305213,,
+Bristol Beaufighter,Beaufighter IF,Q18542115,13,0,1,night fighter,Bristol Beaufighter Mark IF|Beaufighter Mk IF|Beaufighter 1F,Q15056995,Q831463,
+Bristol Beaufighter,Beaufighter TF Mk X,Q18542398,13,0,1,torpedo-armed fighter aircraft model by Bristol,Bristol Beaufighter TF Mark X|Beaufighter TF10|Beaufighter Mk X|Beaufighter X|Beaufighter 10|Bristol Beaufighter TF 10|Bristol Beaufighter X,Q15056995,Q831463,
+Bristol Beaufighter,Beaufighter Mk. VIF,Q18542255,13,0,1,night fighter model by Bristol,Bristol Beaufighter Mark VIF|Beaufighter 6F|Beaufighter VIF,Q15056995,Q831463,
+Bristol Beaufighter,Beaufighter Mk.VIII,Q62112786,13,0,1,attack aircraft model by Bristol,Bristol Beaufighter Mk.VIII|Beaufighter 8|Beaufighter VIII,Q15056995,Q831463,
+Bristol Beaufighter,Beaufighter VIC,Q18542352,13,0,1,torpedo bomber aircraft,Bristol Beaufighter Mark VIC|Beaufighter Mk VIC|Beaufighter 6C,Q15056995,Q831463,
+Bristol Beaufighter,Bristol Beaufighter Ic - T4759,Q103903553,13,0,1,aircraft wreck off the Scottish coast,,Q15921563,,
+Bristol Beaufighter,Beaufighter IC,Q18542174,13,0,1,coastal patrol aircraft,Bristol Beaufighter Mark IC|Beaufighter Mk IC|Beaufighter 1C,Q15056995,Q831463,
+Bristol Beaufighter,Beaufighters attacking an enemy convoy,Q50920870,13,0,2,painting by Norman Wilkinson,,Q3305213,,
+Bristol Beaufighter,Beaufighter v He111 at Night,Q119703601,13,0,2,"painting by A. E. Dungey, North Weald Airfield Museum",,Q3305213,,
+Bristol Beaufighter,Beaufighter TT10,Q18542400,13,0,2,target tug,Bristol Beaufighter TT Mk 10|Beaufighter TT Mk 10|Beaufighter 10,Q17910379,Q831463,
+Avro Lancaster,Avro Lancaster,Q203622,14,0,1,1941 bomber aircraft family,Avro 683 Lancaster|Lancaster aircraft|Lancaster bomber,Q15056993,Q3534114|Q70180928|Q119144457,Avro Lancaster
+Avro Lancaster,Avro Lancaster,Q119657674,14,0,1,"painting by Mark Bromley (b.1960), Brooklands Museum",,Q3305213,,
+Avro Lancaster,Avro Lancaster,Q119397484,14,0,1,"painting by John Young (1930–2015), Royal Air Force Museum",,Q3305213,,
+Avro Lancaster,Avro Lancaster,Q103915107,14,0,1,shipwreck off the Scottish coast,,Q11446|Q852190,,
+Avro Lancaster,"Avro Lancaster Mk.III ME453 shootdown memorial, Greven-Pentrup",Q138567396,14,0,1,War memorial in Germany commemorating the aircraft crew who died on 3 March 1945 when their bomber was shot down,,Q575759,,
+Avro Lancaster,Lancaster Mk.III,Q113380706,14,0,1,bomber aircraft series by Avro,Lancaster 3|Lancaster III|Avro Lancaster Mk.III|Avro Lancaster III|Avro Lancaster 3,Q15056993,Q203622,
+Avro Lancaster,Lancaster Mk.I,Q113380699,14,0,1,bomber aircraft series by Avro,Avro Lancaster Mk.I|Lancaster 1|Avro Lancaster 1|Lancaster I|Avro Lancaster I,Q15056993,Q203622,
+Avro Lancaster,Lancaster B Mk.II,Q74460898,14,0,1,bomber aircraft model by Avro,Lancaster 2|Avro Lancaster B Mk.II|Avro Lancaster 2|Lancaster II|Avro Lancaster II|Lancaster Mk.II|Avro Lancaster Mk.II,Q15056993,Q203622,
+Avro Lancaster,Lancaster B Mk.I,Q74460791,14,0,1,Lancaster I bomber model by Avro,Lancaster 1|Avro Lancaster B Mk.I|Lancaster Bomber 1|Avro Lancaster Bomber 1|Lancaster I|Avro Lancaster I|Lancaster Mk.I|Avro Lancaster Mk.I,Q15056993,Q203622,
+Avro Lancaster,Avro Lancaster FM213,Q105702240,14,0,1,Avro Lancaster,,,,Avro Lancaster FM213
+Avro Lancaster,Lancaster B,Q113380697,14,0,2,bomber aircraft series by Avro,Lancaster Bomber|Avro Lancaster B,Q15056993,Q203622,
+Avro Lancaster,"Lancaster Bomber HK 788 Memorial, Lyford",Q92548860,14,0,2,Wall mounted World War II memorial,,Q575759,,
+Avro Lancaster,Lancaster B Mk.I (FE),Q113380704,14,0,2,Lancaster I tropicalized bomber model by Avro,Avro Lancaster B Mk.I (FE)|Lancaster Bomber 1 Far East|Avro Lancaster Bomber 1 Far East|Lancaster I Far East|Avro Lancaster I Far East|Lancaster Mk.I Far East|Avro Lancaster Mk.I Far East,Q15056995,Q113380699,
+Avro Lancaster,"Lancaster Bomber B1, LM258, HA-Q of 218 Squadron",Q119441399,14,0,2,"painting by John Constable Reeve (1929–2020), Felixstowe Museum",,Q3305213,,
+Avro Lancaster,Lancaster Bombers,Q119791400,14,0,2,"painting by John Maxwell Nithsdale (1910–1993), Stockport Heritage Services",,Q3305213,,
+Avro Lancaster,Lancaster B Mk.III Special,Q113380713,14,0,2,Lancaster III dam-buster bomber model by Avro,Avro Lancaster B Mk.III Special|Lancaster Bomber 3 Special|Avro Lancaster Bomber 3 Special|Lancaster III Special|Avro Lancaster III Special|Lancaster Mk.III Special|Avro Lancaster Mk.III Special,Q15056995,Q113380706,
+Avro Lancaster,Lancaster Bombers,Q119270344,14,0,2,"painting by Charles Ernest Cundall (1890–1971), Salford Museum & Art Gallery",,Q3305213,,
+Avro Lancaster,Lancaster B Mk.III,Q113380709,14,0,2,Lancaster III bomber model by Avro,Avro Lancaster B Mk.III|Lancaster Bomber 3|Avro Lancaster Bomber 3|Lancaster III|Avro Lancaster III|Lancaster Mk.III|Avro Lancaster Mk.III,Q15056995,Q113380706,
+Avro Lancaster,Avro Lancaster Bombers at Woodford,Q119270232,14,0,2,"painting by Charles Ernest Cundall (1890–1971), Manchester Art Gallery",,Q3305213,,
+Avro Lancaster,Lancaster B Mk.I Special,Q113380703,14,0,2,Lancaster I super heavy bomber model by Avro,Avro Lancaster B Mk.I Special|Lancaster Bomber 1 Special|Avro Lancaster Bomber 1 Special|Lancaster I Special|Avro Lancaster I Special|Lancaster Mk.I Special|Avro Lancaster Mk.I Special,Q15056995,Q113380699,
+Aerostar,Aerostar,Q4688470,15,0,1,1991 video game,,Q7889,,Aerostar (video game)
+Aerostar,Aerostar,Q767808,15,0,1,aircraft manufacturer in Romania,,Q4830453|Q6881511,,Aerostar (Romanian company)
+Aerostar,Aerostar Airlines,Q381749,15,0,1,airline,Aerostar,Q46970,,Aerostar Airlines
+Aerostar,Aerostar Bacău,Q5014447,15,0,1,Romanian football club,CS Aerostar Bacău,Q476028,,CS Aerostar Bacău
+Aerostar,Aerostar,Q124361076,15,0,1,,,Q484000,,
+Aerostar,Aerostar Airport Holdings,Q12186358,15,0,1,company that operates and manages the Luis Muñoz Marín International Airport,,Q4830453,,Aerostar Airport Holdings
+Aerostar,Aerostar AG-6,Q48816448,15,0,1,type of aircraft,,Q11436,,Aerostar AG-6
+Aerostar,R40 Festival,Q4688468,15,0,1,light sport aircraft series by Aerostar in Romania,Aerostar R40S Festival|Festival R40,Q15056993,Q33110974|Q777459,Aerostar R40S Festival
+Aerostar,Aerostar Hotel,Q4073708,15,0,1,hotel in Moscow,Aerostar Hotel Moscow,Q27686,,
+Aerostar,MiG-21 LanceR,Q111725028,15,0,1,1995 fighter airplane model by Aerostar,Aerostar MiG-21 LanceR|LanceR|Aerostar LanceR,Q15056995,,
+Hurricane,Hawker Hurricane,Q194251,16,0,1,1935 fighter aircraft family by Hawker,Hurricane,Q15056993,Q18491097|Q69129709|Q135214932,Hawker Hurricane
+Hurricane,hurricane,Q34439356,16,0,1,tropical cyclone that occurs in the Atlantic and eastern Pacific basins,hurricanes,,Q6823473|Q8092,Hurricane
+Hurricane,Hurricane,Q2398117,16,0,1,2008 studio album by Grace Jones,,Q482994,,Hurricane (Grace Jones album)
+Hurricane,Hurricane Katrina,Q16422,16,0,1,Category 5 Atlantic hurricane in 2005,Katrina|Major Hurricane Katrina,Q34439356,,Hurricane Katrina
+Hurricane,Hurricane,Q17005615,16,0,1,2013 studio album by Natalie Grant,,Q482994,,Hurricane (Natalie Grant album)
+Hurricane,Hurricane,Q108419177,16,0,1,2021 single by Kanye West and the Weeknd,,Q134556,,Hurricane (Kanye West and the Weeknd song)
+Hurricane,Hurricane,Q3787688,16,0,1,album by Pooh,,Q482994,,
+Hurricane,Hurricane,Q124066819,16,0,1,2017 early access video game,,Q7889,,
+Hurricane,Hurricane,Q482646,16,0,1,"city in Washington County, Utah, United States","Hurricane, Utah|Hurricane, UT",Q1093829,,"Hurricane, Utah"
+Hurricane,Hurricane,Q2649771,16,0,1,"city in Putnam County, West Virginia, United States","Hurricane, West Virginia|Hurricane, WV",Q1093829,,"Hurricane, West Virginia"
+Hurricane,Hurricane Katrina,Q5488079,16,0,2,Category 1 Atlantic hurricane in 1981,Katrina,Q34439356,,Hurricane Katrina (1981)
+Hurricane,Hurricane Katrina,Q64216475,16,0,2,Category 4 hurricane in Pacific (1975),Katrina,Q34439356,,
+Hurricane,Hurricane Katrina Condolence Materials (NAID 7788626),Q59494987,16,0,2,collection in the National Archives and Records Administration's holdings,,Q2668072,,
+Hurricane,Hurricane Katrina: We Gon Bounce Back,Q5947957,16,0,2,album by 504 Boyz,,Q482994,,Hurricane Katrina: We Gon Bounce Back
+Hurricane,"HURRICANE KATRINA RELIEF EFFORTS IN NEW ORLEANS, LA. (NAID 140105873)",Q66320329,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Hurricane,HURRICANE KATRINA RELIEF OPERATIONS (NAID 140105865),Q66320321,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Hurricane,HURRICANE KATRINA RELIEF (NAID 140106649),Q66319432,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Hurricane,HURRICANE KATRINA RELIEF EFFORTS (NAID 140105880),Q66320336,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Hurricane,"HURRICANE KATRINA RELIEF OPERATIONS IN NEW ORLEANS, LA (NAID 140105870)",Q66320326,16,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Hurricane,Hurricane Sandy,Q264,16,0,2,Category 3 Atlantic hurricane in 2012,Superstorm Sandy,Q34439356,,Hurricane Sandy
+Hurricane,Hurricane Sandy Strikes,Q102393440,16,0,2,episode of Cake Boss (S06 E01),,Q21191270,,
+Hurricane,Hurricane Sandy relief bill,Q16247606,16,0,2,,,Q3331189,,Hurricane Sandy relief bill
+Hurricane,Hurricane Sandy: Coming Together,Q5948316,16,0,2,US television program,,Q15416,,Hurricane Sandy: Coming Together
+Hurricane,Hurricane Sandy New Jersey Relief Fund,Q22022713,16,0,2,,,Q43229,,Hurricane Sandy New Jersey Relief Fund
+Hurricane,Hurricane Sandy and the 2012 Election: Fact Sheet,Q59634561,16,0,2,Congressional Research Service report,,Q6451276,,
+Hurricane,Hurricane Sandy (New Jersey): Mortality Rates in the Following Month and Quarter,Q53754771,16,0,2,scientific article,,Q13442814,,
+Hurricane,"Hurricane Sandy: Lessons Learned, Again",Q44790024,16,0,2,"scientific article published on December 1, 2012",,Q13442814|Q871232,,
+Hurricane,"Hurricane Sandy: Impact on Emergency Department and Hospital Utilization by Older Adults in Lower Manhattan, New York (USA)",Q30151088,16,0,2,"scientific article published on September 15, 2015",,Q13442814,,
+Hurricane,Hurricane Sandy and the greater New York health care system,Q39122829,16,0,2,"scientific article published on June 1, 2013",,Q13442814,,
+Hurricane,Hurricane Harvey,Q37933184,16,0,2,Category 4 Atlantic hurricane in 2017,Harvey,Q34439356,,Hurricane Harvey
+Hurricane,Hurricane Harvey,Q64021842,16,0,2,Category 1 hurricane,Harvey,Q34439356,,
+Hurricane,Hurricane Harvey,Q64027158,16,0,2,Category 4 hurricane in 1981,Harvey,Q34439356,,
+Hurricane,Hurricane Harvey floods,Q41530957,16,0,2,2017 flooding in Texas,,Q8068,,
+Hurricane,Hurricane Harvey Relief,Q111842329,16,0,2,photograph by Joshua L. Demotts,,Q125191,,
+Hurricane,Hurricane Harvey and the Oil Industry,Q59595734,16,0,2,Congressional Research Service report,,Q6451276,,
+Hurricane,Hurricane Harvey Links to Ocean Heat Content and Climate Change Adaptation,Q57839545,16,0,2,scholarly article by Kevin E. Trenberth et al published May 2018 in Earth's Future,,Q13442814,,
+Hurricane,Hurricane Harvey and pharmacy's call to action,Q41925454,16,0,2,scientific article published on 13 September 2017,,Q13442814,,
+Hurricane,"Hurricane Harvey: Human barriers to remembering, environmental repercussions of forgetting",Q126162924,16,0,2,scientific article published in 2018,,Q13442814,,
+Hurricane,"Hurricane Harvey and Greater Houston households: comparing pre-event preparedness with post-event health effects, event exposures, and recovery",Q92973773,16,0,2,scientific article published on 15 October 2019,,Q13442814,,
+J-2,J-2,Q967676,17,0,1,cryogenic rocket engine by Rocketdyne,J2|Rocketdyne J-2|Rocketdyne J2,Q15057021,Q5190528,Rocketdyne J-2
+J-2,J 2,Q510669,17,0,1,prototype fighter aircraft by Junkers,Junkers J 2|J2|Junkers J2,Q15126161|Q15056995,Q135214932,Junkers J 2
+J-2,David Caldwell 1725-1824,Q111463096,17,0,1,North Carolina historic marker J-2,J-2,Q721747,,
+J-2,J-2,Q17446624,17,0,1,fighter aircraft series by Shenyang,J2|Shenyang J-2,Q15056995|Q15056993,Q4292651,
+J-2,Saab 29 Tunnan,Q694456,17,0,1,1948 Swedish fighter aircraft family,J 29|S 29|Flying Barrel|Tunnan fighter|Tunnan aircraft,Q15056993,Q782885|Q20078720|Q63973228|Q135214932,Saab 29 Tunnan
+J-2,Saab 21,Q326931,17,0,1,fighter-bomber aircraft family,J 21|J21|Saab J21|SAAB 21,Q15056993,Q18491097|Q255216|Q2700567,SAAB 21
+J-2,J-2,Q122167188,17,0,1,Grid area J-2 according to the Standard Galactic Grid used in Star Wars,,Q108059698,,
+J-2,J 22,Q1388176,17,0,1,1942 fighter aircraft family by FFVS,FFVS J 22|FFVS 22,Q15056993,Q18491097,FFVS J 22
+J-2,IAR-93/J-22 family,Q934355,17,0,1,attack aircraft series by SOKO,Soko Orao|SOKO Orao|CNIAR IAR-93 Yurom|J22|Orao|J-22/IAR-93 family,Q15056993,Q208187|Q2125613|Q385642,Soko J-22 Orao
+J-2,J-20 Kraguj,Q976853,17,0,1,attack aircraft,Soko J-20 Kraguj|Soko Kraguj|J20|Kraguj,Q15056995,Q216916|Q208187,Soko J-20 Kraguj
+Tucano,Tucana,Q10567,18,0,1,constellation in the southern celestial hemisphere,Tuc|Tucanae|The Toucan,Q8928,,Tucana
+Tucano,Tucano,Q22062855,18,0,1,"municipality of Bahia State, Brazil","Tucano, Brazil",Q3184121,,"Tucano, Bahia"
+Tucano,Embraer EMB 312 Tucano,Q842608,18,0,1,military training aircraft family by Embraer,EMB 312|Embraer Tucano|Embraer EMB-312|Tucano|EMB 312 Tucano,Q15056993,Q17816698,Embraer EMB 312 Tucano
+Tucano,Tucano,Q3541834,18,0,1,language,Tucano language|Tukano language,Q34770|Q1288568,Q5972956,Tucano language
+Tucano,Tucano,Q17816698,18,0,1,1980 trainer aircraft family by EMBRAER and Short Brothers,Embraer Tucano|Short Tucano|Tucano aircraft|Shorts S312 Tucano|EMBRAER EMB-312|EMBRAER/Short Tucano,Q15056993,Q68073115,
+Tucano,Adilson Soares Zela,Q61892783,18,0,1,Brazilian politician,Tucano,Q5,,
+Tucano,Tucanoichthys,Q20679589,18,0,1,genus of fishes,,Q310890,,Tucanoichthys
+Tucano,Tucanoichthys tucano,Q1939492,18,0,1,species of fish,,Q16521,,Tucanoichthys tucano
+Tucano,Tucano people,Q2520180,18,0,1,indigenous people of Brazil and Colombia,Tukano,Q103817|Q41710,Q1363781,Tucano people
+Tucano,Tucanogovea,Q90802892,18,0,1,genus of arachnids,,Q310890,,
+Explorer,explorer,Q11900058,19,0,1,person who by means of travel searches out new information,discoverer,Q12737077,Q12356615|Q2873500|Q30093123,Explorer
+Explorer,Explorer,Q43790821,19,0,1,1986 video game,,Q7889,,
+Explorer,Explorer,Q65784879,19,0,1,2012 Role Playing,,Q7889,,
+Explorer,Explorer,Q136541365,19,0,1,1982 video game,,Q7889,,
+Explorer,Explorer,Q126186155,19,0,1,1993 video game,,Q7889,,
+Explorer,Scramble,Q650757,19,0,1,1981 arcade video game,Explorer,Q7889,,Scramble (video game)
+Explorer,browser,Q104574429,19,0,1,type of software for searching for entries and items,explorer,,Q312466,
+Explorer,File Explorer,Q196305,19,0,1,file manager application that is included with releases of the Microsoft Windows operating system,Windows Explorer|explorer.exe|Explorer,Q7397,,File Explorer
+Explorer,MV Explorer,Q6719528,19,0,1,ship built in 2001,Explorer|IMO 9183518|MV|MV Celestyal Odyssey,Q402092|Q39804,,Blue Dream Star
+Explorer,Explorers Program,Q603526,19,0,1,United States space exploration program that provides flight opportunities for various investigations from space,Explorers program,Q21605492,,Explorers Program
+Explorer,Space Explorers: The ISS Experience,Q113114977,19,0,2,Canadian Virtual Reality Series,,Q5398426,,Space Explorers: The ISS Experience
+Explorer,Space Explorers,Q122621923,19,0,2,1942 radio serial by Max Afford,,Q3956369,,
+Explorer,Space explorer: the translation of the Concept album into an immersive and interactive virtual space,Q136379672,19,0,2,doctoral thesis,,Q187685,,
+Explorer,Ocean Explorer,Q135029345,19,0,2,video game developed by Finger tip,,Q7889,,
+Explorer,HH 350 Scombrus,Q106678183,19,0,2,fishing trawler launched in 1975,Scrombus|Cape North|Siglir|Polar Siglir|Ocean Explorer|Polyarnyy|IMO 7410204,Q326561,,
+Explorer,Ocean Explorer,Q83649698,19,0,2,ship built in 1984,IMO 8412297,Q11446,,
+Explorer,IMO 9883194,Q122531069,19,0,2,expedition cruise ship,Ocean Explorer,Q39804,,
+Explorer,Ocean Explorers Grand Slam,Q85851555,19,0,2,human-powered vessel adventurer goal,,,,Ocean Explorers Grand Slam
+Explorer,Ocean explorer,Q104111403,19,0,2,scientific article published on 01 December 2020,,Q13442814,,
+Explorer,Ocean explorers delve beneath the ice,Q114648392,19,0,2,scientific article published in 2019,,Q13442814,,
+Explorer,Ocean Explorer,Q115270213,19,0,2,Wikimedia disambiguation page,,Q4167410,,Ocean Explorer
+Explorer,polar explorer,Q13382749,19,0,2,explorer of arctic or antarctic regions,Polar Explorer|polar researcher,Q12737077|Q28640,Q11900058|Q901402,
+Explorer,Polar Explorer,Q106696214,19,0,2,amusement park ride,,Q1144661,Q2870166,Polar Explorer (Chimelong Ocean Kingdom)
+Explorer,Polar Explorer Simulator,Q135023463,19,0,2,video game developed by Envalid games,,Q7889,,
+Explorer,Polar Explorer Oy,Q139906563,19,0,2,Finnish tourism company operating icebreaker cruises in Swedish Lapland,,Q4830453,,
+Explorer,Polar explorer,Q87743779,19,0,2,scientific article published on 01 June 2016,,Q13442814,,
+Explorer,Polar explorers: membrane proteins that determine division site placement,Q34312605,19,0,2,scientific article,,Q13442814,,

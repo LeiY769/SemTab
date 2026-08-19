@@ -1,0 +1,392 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Quatuor,Quatuor ESCA,Q109042452,0,0,1,a Canadian string quartet,,Q207338,,
+Quatuor,Quatuor Ébène,Q3413743,0,0,1,French musical group; string quartet,Quatuor Ebene,Q207338,,Ébène Quartet
+Quatuor,Quatuor,Q2925380,0,0,1,television series,,Q5398426,,
+Quatuor,Quatuor,Q108528788,0,0,1,"office building in Brussels, Belgium",,Q1021645,,
+Quatuor,Quatuor Hermès,Q15841360,0,0,1,French string quartet,Hermès Quartet,Q207338,,
+Quatuor,Quatuor Arod,Q59264427,0,0,1,French string quartet,,Q207338,,
+Quatuor,Quatuor Editions,Q137919592,0,0,1,French publishing house that stopped its activity in 2023,Quatuor,Q2085381,,
+Quatuor,Quatuor,Q136778191,0,0,1,Theatrical production during the 2003-04 season in Quebec,,,,
+Quatuor,Quatuor,Q131931364,0,0,1,family name,,Q101352,,
+Quatuor,quartet,Q1135557,0,0,1,ensemble of four singers or instrumental performers,quartette|musical quartet,Q105756498,Q2088357|Q1826687|Q135268496,Quartet
+Quatuor,Befimmo,Q814204,0,0,2,company,,Q4830453,,Befimmo
+Quatuor,Jaspers-Eyers Architects,Q99761704,0,0,2,"Architectural Firm based in Brussels, Belgium.",M&Jm Jaspers - Eyers & Partners,Q4387609,,
+Befimmo,Befimmo,Q814204,0,2,1,company,,Q4830453,,Befimmo
+Befimmo,Quatuor ESCA,Q109042452,0,2,2,a Canadian string quartet,,Q207338,,
+Befimmo,Quatuor Ébène,Q3413743,0,2,2,French musical group; string quartet,Quatuor Ebene,Q207338,,Ébène Quartet
+Befimmo,Quatuor,Q2925380,0,2,2,television series,,Q5398426,,
+Befimmo,Quatuor,Q108528788,0,2,2,"office building in Brussels, Belgium",,Q1021645,,
+Befimmo,Quatuor Hermès,Q15841360,0,2,2,French string quartet,Hermès Quartet,Q207338,,
+Befimmo,Quatuor Arod,Q59264427,0,2,2,French string quartet,,Q207338,,
+Befimmo,Quatuor Editions,Q137919592,0,2,2,French publishing house that stopped its activity in 2023,Quatuor,Q2085381,,
+Befimmo,Quatuor,Q136778191,0,2,2,Theatrical production during the 2003-04 season in Quebec,,,,
+Befimmo,Quatuor,Q131931364,0,2,2,family name,,Q101352,,
+Befimmo,quartet,Q1135557,0,2,2,ensemble of four singers or instrumental performers,quartette|musical quartet,Q105756498,Q2088357|Q1826687|Q135268496,Quartet
+Befimmo,Jaspers-Eyers Architects,Q99761704,0,2,2,"Architectural Firm based in Brussels, Belgium.",M&Jm Jaspers - Eyers & Partners,Q4387609,,
+Jaspers-Eyers Architects,Jaspers-Eyers Architects,Q99761704,0,3,1,"Architectural Firm based in Brussels, Belgium.",M&Jm Jaspers - Eyers & Partners,Q4387609,,
+Jaspers-Eyers Architects,Quatuor ESCA,Q109042452,0,3,2,a Canadian string quartet,,Q207338,,
+Jaspers-Eyers Architects,Quatuor Ébène,Q3413743,0,3,2,French musical group; string quartet,Quatuor Ebene,Q207338,,Ébène Quartet
+Jaspers-Eyers Architects,Quatuor,Q2925380,0,3,2,television series,,Q5398426,,
+Jaspers-Eyers Architects,Quatuor,Q108528788,0,3,2,"office building in Brussels, Belgium",,Q1021645,,
+Jaspers-Eyers Architects,Quatuor Hermès,Q15841360,0,3,2,French string quartet,Hermès Quartet,Q207338,,
+Jaspers-Eyers Architects,Quatuor Arod,Q59264427,0,3,2,French string quartet,,Q207338,,
+Jaspers-Eyers Architects,Quatuor Editions,Q137919592,0,3,2,French publishing house that stopped its activity in 2023,Quatuor,Q2085381,,
+Jaspers-Eyers Architects,Quatuor,Q136778191,0,3,2,Theatrical production during the 2003-04 season in Quebec,,,,
+Jaspers-Eyers Architects,Quatuor,Q131931364,0,3,2,family name,,Q101352,,
+Jaspers-Eyers Architects,quartet,Q1135557,0,3,2,ensemble of four singers or instrumental performers,quartette|musical quartet,Q105756498,Q2088357|Q1826687|Q135268496,Quartet
+Jaspers-Eyers Architects,Befimmo,Q814204,0,3,2,company,,Q4830453,,Befimmo
+Turkish House,Turkish House,Q13375072,1,0,1,"building in Rijeka, Croatia",,Q41176,,
+Turkish House,Turkish House,Q6063129,1,0,1,"skyscraper in Midtown Manhattan, New York City",Turkevi Center|Turkish Center,Q11303|Q1021645,,Turkish House
+Turkish House,Turkish House in Timisoara,Q12723582,1,0,1,"heritage site in Timiș County, Romania",,Q358,,"Turkish House, Timișoara"
+Turkish House,"Turkish house, Kokkinidi 12",Q115863318,1,0,1,,,Q3947,,
+Turkish House,Turkish Households Consumption Behavior and Flexible Engel Curves,Q129283581,1,0,1,scholarly article,,Q13442814,,
+Turkish House,Turkish Household Ethics Films in Perspective of Multicultural Harmony,Q120657350,1,0,1,"scholarly article in Journal of Northwest University (Philosophy and Social Sciences Edition), no. 1, 2018",,Q13442814,,
+Turkish House,Turkish Household Electricity Consumption Structure: Electrical Appliances and Energy Efficiency,Q129748429,1,0,1,scholarly article published on 31 May 2018,,Q13442814,,
+Turkish House,Ministry of Foreign Affairs of the Republic of Turkey,Q2612487,1,0,2,ministry in charge of diplomatic relations of the Republic of Turkey with other countries,MOFA of Turkey,Q20901295,,Ministry of Foreign Affairs (Turkey)
+Turkish House,Perkins Eastman,Q7169038,1,0,2,American architectural firm,,Q4387609,,Perkins Eastman
+Ministry of Foreign Affairs of the Republic of Turkey,Ministry of Foreign Affairs of the Republic of Turkey,Q2612487,1,2,1,ministry in charge of diplomatic relations of the Republic of Turkey with other countries,MOFA of Turkey,Q20901295,,Ministry of Foreign Affairs (Turkey)
+Perkins Eastman,Perkins Eastman,Q7169038,1,3,1,American architectural firm,,Q4387609,,Perkins Eastman
+Cedar,Cedar,Q37569075,2,0,1,family name,,Q101352,,
+Cedar,Cedrus,Q128550,2,0,1,genus of plants,Cedar,Q16521,Q10884,Cedrus
+Cedar,Cedar River,Q5056880,2,0,1,"watercourse in Ontario, Canada",,Q4022,,Cedar River (Ontario)
+Cedar,Cedar Lake,Q4218899,2,0,1,"lake in Minneapolis, Minnesota",,Q23397,,Cedar Lake (Minneapolis)
+Cedar,Cedar Falls,Q582212,2,0,1,"city in Black Hawk County, Iowa, United States","Cedar Falls, Iowa|Cedar Falls, IA|City of Cedar Falls",Q1093829,,"Cedar Falls, Iowa"
+Cedar,Cedar Lake,Q113517651,2,0,1,"lake in Whatcom County, Washington, United States",,Q23397,,
+Cedar,cedar wood (generic),Q5056949,2,0,1,one of several types of wood,cedar|cedarwood,Q1493054,Q287,List of plants known as cedar
+Cedar,Cedrela fissilis,Q936202,2,0,1,species of plant,Cedar,Q16521,,Cedrela fissilis
+Cedar,Cedar Walton,Q246462,2,0,1,American jazz pianist (1934–2013),,Q5,,Cedar Walton
+Cedar,Juniperus ashei,Q309507,2,0,1,species of plant,cedar,Q16521,,Juniperus ashei
+Cedar,Pinaceae,Q101680,2,0,2,family of plants,pine family|pines|spruces|firs|cedars|larches,Q16521,Q757163,Pinaceae
+Cedar,Les Cèdres,Q3231881,2,0,2,"municipality in Quebec, Canada","Les Cedres|Les Cèdres, Quebec|Cedars",Q27676428,,"Les Cèdres, Quebec"
+Cedar,Cedars-Sinai Medical Center,Q1052562,2,0,2,"hospital in Los Angeles, California, United States",Cedars of Lebanon Hospital|Cedar-Sinai Medical Center,Q7048982|Q2385804|Q4671274|Q2473971,,Cedars-Sinai Medical Center
+Cedar,Cedars,Q5056987,2,0,2,non-profit organization in the USA,"Cedars, Dallas",Q123705|Q163740,,"Cedars, Dallas"
+Cedar,Cedars,Q5056988,2,0,2,DART light rail station,,Q2175765,,Cedars station
+Cedar,Cedars,Q5056991,2,0,2,album by Clearlake,,Q482994,,Cedars (album)
+Cedar,Cedars,Q37080561,2,0,2,family name,,Q101352,,
+Cedar,Cedars of Lebanon,Q16826053,2,0,2,2009 song by U2,,Q105543609,,Cedars of Lebanon (song)
+Cedar,Cedars,Q22083021,2,0,2,"human settlement in Montgomery County, Pennsylvania, United States of America","Cedars, Pennsylvania|Cedars, PA",Q17343829,,"Cedars, Pennsylvania"
+Cedar,Cedars,Q5056990,2,0,2,"Immigration detention facility in Crawley, West Sussex, United Kingdom",,Q40357,,Cedars (immigration detention)
+Cedar,cedar tree,Q59835134,2,0,2,coniferous tree,cedar,,Q10884,Cedar tree
+Cedar,Cedar Tree,Q77964789,2,0,2,painting by F. Bindon Burton,,Q3305213,,
+Cedar,Cedar tree,Q104213771,2,0,2,painting by James Cant,,Q3305213,,
+Cedar,Cedar Tree,Q130283875,2,0,2,"restaurant in Brampton, United Kingdom",,,,Cedar Tree (restaurant)
+Cedar,Cedar Tree,Q126183604,2,0,2,"pub in Bagshot, Windlesham, Surrey Heath, Surrey, England",,Q212198,,
+Cedar,Cedar Tree,Q119109927,2,0,2,"painting by George Frederic Watts (1817–1904), Watts Gallery – Artists' Village",,Q3305213,,
+Cedar,Cedar Tree at Hauteville,Q50950577,2,0,2,painting by Gustave Courbet,,Q3305213,,
+Cedar,Cedar Tree of Life,Q107412927,2,0,2,short documentary by Odessa Shuquaya,,Q24862,,
+Cedar,"Cedar Tree, Day Lily, and Wagtails",Q28801528,2,0,2,painting by Bada Shanren (Zhu Da),,Q3305213,,
+Cedar,Pine Tree Arch,Q62044696,2,0,2,"natural arch in Arches National Park in Grand County, Utah, United States",Cedar Tree Arch,Q954501,,
+ING Group,ING Group,Q645708,2,2,1,Dutch multinational banking and financial services corporation,ING|ING GROEP N.V.,Q4830453|Q6881511,,ING Group
+ING Group,Ing,Q10535618,2,2,2,male given name,,Q12308941|Q11879590|Q3409032,,
+ING Group,Ingolstadt,Q3004,2,2,2,"city in Bavaria, Germany",,Q1549591|Q1187811|Q253030|Q42744322|Q85631896|Q106517174,,Ingolstadt
+ING Group,Ingrid van Houten-Groeneveld,Q231642,2,2,2,Dutch astronomer (1921–2015),,Q5,,Ingrid van Houten-Groeneveld
+ING Group,Ingrid,Q903741,2,2,2,female given name,Ingrid (first name)|Ingrid (given name),Q11879590,,Ingrid (given name)
+ING Group,Ingegerd Troedsson,Q517762,2,2,2,Swedish politician (1929-2012),,Q5,,Ingegerd Troedsson
+ING Group,Ingeborg,Q656590,2,2,2,female given name,Ingeborg (given name)|Ingeborg (first name),Q11879590,,Ingeborg
+ING Group,Ingvar Carlsson,Q53740,2,2,2,Prime Minister of Sweden from 1986 to 1991 and 1994 to 1996,,Q5,,Ingvar Carlsson
+ING Group,Inga,Q290354,2,2,2,genus of plants,,Q16521,,Inga
+ING Group,Ingå,Q986331,2,2,2,municipality in the region of Uusimaa in Finland,Inkoo|Inga,Q856076,,Ingå
+ING Group,ING Türkiye,Q12811293,2,2,2,Turkish foreign capital private sector bank,ING Bank|ING Turkey|ING Bank Turkey|Oyak Bank|Oyakbank,Q22687|Q4830453,,ING (Turkey)
+ING Group,ING Bank N.V.,Q2304977,2,2,2,Dutch bank,,Q22687|Q4830453,,
+ING Group,ING Bank Śląski,Q1410383,2,2,2,banking and financial services company,ING Bank Śląski S.A.,Q22687,,ING Bank Śląski
+ING Group,ING Bank ČR,Q55873971,2,2,2,bank in the Czech Republic,"ING Bank N.V., organizační složka",Q6881511|Q2563546,,
+ING Group,ING Australia,Q22031704,2,2,2,Australian bank,ING Direct Australia|ING Bank (Australia) Limited,Q658255|Q22687|Q650241,,ING Australia
+ING Group,ING Bank (Eurasia),Q121316039,2,2,2,,ING Russia,Q22687,,
+ING Group,ING Bank Hipoteczny,Q121316156,2,2,2,,,Q1641457,,
+ING Group,ING Bank Slaski Loan for SMEs and MidCaps project,Q100338725,2,2,2,,,Q170584,,
+ING Group,ING BANK A.S. LOAN FOR MIDCAPS AND SMES project,Q100337211,2,2,2,,,Q170584,,
+Benthem Crouwel Architekten,Benthem Crouwel Architects,Q818259,2,3,1,Dutch architectural firm,,Q4387609,,Benthem Crouwel Architekten
+Benthem Crouwel Architekten,Benthem Crouwel-gebouw,Q130417363,2,3,2,,,Q1244442,,
+Day 1,Day 1,Q43148644,3,0,1,day in the Decameron by Giovanni Boccaccio,Decameron (I)|Prima giornata|Giornata prima,Q43148525,,
+Day 1,Day 1,Q43303691,3,0,1,English translation by J.M. Rigg,,Q21112633,,
+Day 1,Day 1,Q21015906,3,0,1,skyscraper in the United States,Rufus 2.0 Block 19|Amazon Tower II|The Gallery|Day One,Q11303|Q1021645,,Day 1 (building)
+Day 1,first day,Q115208325,3,0,1,first day in the Genesis creation narrative,day 1|first day of creation,Q24336466,,
+Day 1,Day 1,Q111660211,3,0,1,single by Leslie Grace,,Q134556,,Day 1 (song)
+Day 1,Day 1,Q5242797,3,0,1,album by Robbie Nevil,,Q482994,,Day 1 (album)
+Day 1,Wargaming Chicago-Baltimore,Q2076545,3,0,1,video game developer,,Q210167,,Wargaming Chicago-Baltimore
+Day 1,Day 10,Q43148700,3,0,1,day in the Decameron by Giovanni Boccaccio,Decameron (X),Q43148525,,
+Day 1,Day 10 Tale 10 of the Decameron,Q43306100,3,0,1,"novella of the Decameron by Giovanni Boccaccio (X, 10)","Novel 10, 10|Decameron (X, 10)|Tenth Day, Tenth Story of the Decameron|The Tale of Griselda|The Patient Griselda|The Story of Griselda|Giornata decima novella decima",Q43303440,,
+Day 1,Day 1 Tale 1 of the Decameron,Q43306001,3,0,1,"novella of the Decameron by Giovanni Boccaccio (I, 1)","Novel 1, 1|Decameron (I, 1)|First Day, First Story of the Decameron|Day One, Tale One of the Decameron|Day 1, Tale 1 of the Decameron|Day One, First Tale of the Decameron|The Tale of Ser Ciappelletto|Giornata prima novella prima",Q43303440,,
+Day 1,Amazon,Q3884,3,0,2,American multinational technology company,,Q6881511|Q4830453|Q891723|Q118140435|Q91615393,,Amazon (company)
+Day 1,Amazonas,Q40040,3,0,2,state in the North Region of Brazil,State of Amazonas|AM|Amazonas (Brazil)|Amazonas State,Q485258,,Amazonas (Brazilian state)
+Day 1,Amazon,Q456065,3,0,2,1984 video game,,Q7889,,Amazon (video game)
+Day 1,Amazon Kindle,Q136469,3,0,2,e-book reading device,Amazon Kindle product line|Kindle product line,Q7397|Q431289|Q241317,Q726235|Q155972,Amazon Kindle
+Day 1,Amazonas Department,Q201162,3,0,2,department of Peru,"Amazonas department|Amazonas, Peru|Amazonas region",Q861184,,Department of Amazonas (Peru)
+Day 1,Amazon Prime Video,Q4740856,3,0,2,American video streaming service,Amazon Video On Demand|Amazon Unbox|Amazon Instant Video|Amazon Video,Q59152282|Q102336293|Q841645|Q723685|Q829548,,Amazon Prime Video
+Day 1,Amazon rainforest,Q177567,3,0,2,large rainforest in South America,Amazonas|Amazonian rainforest|Amazon rain forest|Amazonian rain forest|Amazon forest|Amazonia|Brazilian Amazon|Amazons,Q199403,,Amazon rainforest
+Day 1,Amazon,Q3783,3,0,2,river in South America,Amazon River|River Amazon|Amazonian River|The Amazon|The Amazon River,Q4022,,Amazon River
+Day 1,Amazona,Q456513,3,0,2,genus of birds,the Amazon parrots,Q16521,,Amazon parrot
+Day 1,Amazon Mechanical Turk,Q733115,3,0,2,micro-work service subsidiary of Amazon,mturk.com|Mechanical Turk|Amazon’s Mechanical Turk,Q35127,,Amazon Mechanical Turk
+Day 1,Amazon Headquarters Complex,Q116175358,3,0,2,,,Q1497364,,
+Day 1,NBBJ,Q3334253,3,0,2,"global architecture, planning and design firm","Naramore, Bain, Brady & Johanson|Naramore, Bain, Brady, and Johanson",Q4830453|Q4387609,,NBBJ
+Amazon Headquarters Complex,Amazon Headquarters Complex,Q116175358,3,1,1,,,Q1497364,,
+Amazon Headquarters Complex,Amazon,Q3884,3,1,2,American multinational technology company,,Q6881511|Q4830453|Q891723|Q118140435|Q91615393,,Amazon (company)
+Amazon Headquarters Complex,Amazonas,Q40040,3,1,2,state in the North Region of Brazil,State of Amazonas|AM|Amazonas (Brazil)|Amazonas State,Q485258,,Amazonas (Brazilian state)
+Amazon Headquarters Complex,Amazon,Q456065,3,1,2,1984 video game,,Q7889,,Amazon (video game)
+Amazon Headquarters Complex,Amazon Kindle,Q136469,3,1,2,e-book reading device,Amazon Kindle product line|Kindle product line,Q7397|Q431289|Q241317,Q726235|Q155972,Amazon Kindle
+Amazon Headquarters Complex,Amazonas Department,Q201162,3,1,2,department of Peru,"Amazonas department|Amazonas, Peru|Amazonas region",Q861184,,Department of Amazonas (Peru)
+Amazon Headquarters Complex,Amazon Prime Video,Q4740856,3,1,2,American video streaming service,Amazon Video On Demand|Amazon Unbox|Amazon Instant Video|Amazon Video,Q59152282|Q102336293|Q841645|Q723685|Q829548,,Amazon Prime Video
+Amazon Headquarters Complex,Amazon rainforest,Q177567,3,1,2,large rainforest in South America,Amazonas|Amazonian rainforest|Amazon rain forest|Amazonian rain forest|Amazon forest|Amazonia|Brazilian Amazon|Amazons,Q199403,,Amazon rainforest
+Amazon Headquarters Complex,Amazon,Q3783,3,1,2,river in South America,Amazon River|River Amazon|Amazonian River|The Amazon|The Amazon River,Q4022,,Amazon River
+Amazon Headquarters Complex,Amazona,Q456513,3,1,2,genus of birds,the Amazon parrots,Q16521,,Amazon parrot
+Amazon Headquarters Complex,Amazon Mechanical Turk,Q733115,3,1,2,micro-work service subsidiary of Amazon,mturk.com|Mechanical Turk|Amazon’s Mechanical Turk,Q35127,,Amazon Mechanical Turk
+Amazon Headquarters Complex,"Amazon.com, Inc.",Q133848906,3,1,2,company incorporated in Delaware,"AMAZON.COM, INC.",Q6881511,,
+Amazon Headquarters Complex,"Amazon.com, Inc.",Q133848921,3,1,2,,"AMAZON.COM, INC.",Q334453,,
+Amazon Headquarters Complex,"Amazon.com, Inc. 2016 Annual Report",Q33600242,3,1,2,annual report,,Q699735,,
+Amazon Headquarters Complex,"Amazon.com, Inc. v. Barnesandnoble.com, Inc.",Q115518770,3,1,2,2001 U.S. Federal Court Case,,Q2334719,,"Amazon.com, Inc. v. Barnesandnoble.com, Inc."
+Amazon Headquarters Complex,"Amazon.com, Inc. 2017 Annual Report",Q56744373,3,1,2,,,Q699735,,
+Amazon,Amazon,Q3884,3,2,1,American multinational technology company,,Q6881511|Q4830453|Q891723|Q118140435|Q91615393,,Amazon (company)
+Amazon,Amazonas,Q40040,3,2,1,state in the North Region of Brazil,State of Amazonas|AM|Amazonas (Brazil)|Amazonas State,Q485258,,Amazonas (Brazilian state)
+Amazon,Amazon,Q456065,3,2,1,1984 video game,,Q7889,,Amazon (video game)
+Amazon,Amazon Kindle,Q136469,3,2,1,e-book reading device,Amazon Kindle product line|Kindle product line,Q7397|Q431289|Q241317,Q726235|Q155972,Amazon Kindle
+Amazon,Amazonas Department,Q201162,3,2,1,department of Peru,"Amazonas department|Amazonas, Peru|Amazonas region",Q861184,,Department of Amazonas (Peru)
+Amazon,Amazon Prime Video,Q4740856,3,2,1,American video streaming service,Amazon Video On Demand|Amazon Unbox|Amazon Instant Video|Amazon Video,Q59152282|Q102336293|Q841645|Q723685|Q829548,,Amazon Prime Video
+Amazon,Amazon rainforest,Q177567,3,2,1,large rainforest in South America,Amazonas|Amazonian rainforest|Amazon rain forest|Amazonian rain forest|Amazon forest|Amazonia|Brazilian Amazon|Amazons,Q199403,,Amazon rainforest
+Amazon,Amazon,Q3783,3,2,1,river in South America,Amazon River|River Amazon|Amazonian River|The Amazon|The Amazon River,Q4022,,Amazon River
+Amazon,Amazona,Q456513,3,2,1,genus of birds,the Amazon parrots,Q16521,,Amazon parrot
+Amazon,Amazon Mechanical Turk,Q733115,3,2,1,micro-work service subsidiary of Amazon,mturk.com|Mechanical Turk|Amazon’s Mechanical Turk,Q35127,,Amazon Mechanical Turk
+Amazon,"Amazon.com, Inc.",Q133848906,3,2,2,company incorporated in Delaware,"AMAZON.COM, INC.",Q6881511,,
+Amazon,"Amazon.com, Inc.",Q133848921,3,2,2,,"AMAZON.COM, INC.",Q334453,,
+Amazon,"Amazon.com, Inc. 2016 Annual Report",Q33600242,3,2,2,annual report,,Q699735,,
+Amazon,"Amazon.com, Inc. v. Barnesandnoble.com, Inc.",Q115518770,3,2,2,2001 U.S. Federal Court Case,,Q2334719,,"Amazon.com, Inc. v. Barnesandnoble.com, Inc."
+Amazon,"Amazon.com, Inc. 2017 Annual Report",Q56744373,3,2,2,,,Q699735,,
+Amazon,Amazon Headquarters Complex,Q116175358,3,2,2,,,Q1497364,,
+NBBJ,NBBJ,Q3334253,3,3,1,"global architecture, planning and design firm","Naramore, Bain, Brady & Johanson|Naramore, Bain, Brady, and Johanson",Q4830453|Q4387609,,NBBJ
+NBBJ,National Basketball Association,Q155223,3,3,2,North American professional basketball league,NBA|Basketball Association of America|National Basketball Assn.|Nat'l Basketball Assn.|BAA,Q15986354|Q18536323|Q15991290|Q7094076,,National Basketball Association
+NBBJ,National Basketball Association draft,Q622521,3,3,2,National Basketball Association annual event,NBA draft,Q15275719,Q31603,NBA draft
+NBBJ,NBA Finals,Q842375,3,3,2,"championship series of the National Basketball Association, annual from 1950; officially includes 1947 to 1949 BAA Finals; officially called the National Basketball Association World Championship Series through 1987",BAA Finals [1947–49]|BAA World Championship Series [1947-49]|National Basketball Association World Championship Series [until 1987]|NBA World Championship Series [until 1987]|Basketball Association of America World Championship Series [1947-49]|NBA title,Q18608583,Q1366722,NBA Finals
+NBBJ,NBA Playoffs,Q2265397,3,3,2,best-of-seven elimination tournament annually held after the NBA,National Basketball Association Playoffs,,Q17269186,NBA playoffs
+NBBJ,NBA Sixth Man of the Year Award,Q844517,3,3,2,award given annually to the league's best bench player,National Basketball Association's Sixth Man of the Year Award,Q618779|Q38033430,Q105763590,NBA Sixth Man of the Year
+NBBJ,NBA draft lottery,Q3259974,3,3,2,lottery process to determine the order of the NBA draft,National Basketball Association draft lottery,Q189409,,NBA draft lottery
+NBBJ,National Basketball Association Christmas games,Q26987,3,3,2,NBA matchups scheduled on Christmas Day,,,,NBA Christmas games
+NBBJ,National Basketball Association rivalries,Q6970941,3,3,2,Wikimedia list article,,Q13406463,,List of NBA rivalries
+NBBJ,National Basketball Association Cheerleading,Q6970934,3,3,2,cheerleading and dancing in the NBA,,Q623109,,NBA cheerleading
+NBBJ,National Basketball Association on television,Q6970938,3,3,2,overview about the National Basketball Association on television,National Basketball Association in television|National Basketball Association (television),,,NBA on television
+NBBJ,National Basketball Players Association,Q1627222,3,3,2,trade union,NBPA,Q178790,,National Basketball Players Association
+NBBJ,National Basketball Referees Association,Q15213691,3,3,2,,,,,National Basketball Referees Association
+Eurotower,Eurotower,Q2251720,4,0,1,Zagreb,,Q41176,,Eurotower (Zagreb)
+Eurotower,Eurotower,Q198046,4,0,1,"skyscraper in Frankfurt, Germany",,Q11303|Q1021645,,Eurotower (Frankfurt am Main)
+Eurotower,Eurotower,Q341473,4,0,1,Wikimedia disambiguation page,,Q4167410,,Eurotower
+Eurotower,European Central Bank,Q8901,4,0,2,central bank of the European Union and the eurozone,,Q66344|Q748720,,European Central Bank
+Eurotower,European Central Bank 2014 data breach,Q76161279,4,0,2,,,Q1172486,,
+Eurotower,European Central Bank,Q57916434,4,0,2,,,Q13442814,,
+Eurotower,European Central Bank leaders in the global space of central bankers: A Geometric Data Analysis approach,Q140152847,4,0,2,,,Q13442814,,
+Eurotower,European Central Bank׳s monetary policy decisions: A dataset of two decades of press conferences,Q58169479,4,0,2,article,,Q13442814,,
+Eurotower,"European Central Bank Monetary Policy Operations During the Crisis A: Open Market Operations, Collateral Expansion and Standing Facilities",Q114954168,4,0,2,scientific article published in 2015,,Q13442814,,
+Eurotower,European Central Bank total assets,Q59650366,4,0,2,,,Q13442814,,
+Eurotower,Frankfurt,Q1794,4,0,2,"most populated city of Hesse, Germany","Kreisfreie Stadt Frankfurt am Main|Frankfurt, Germany|Frankfurt am Main, Germany|Francfort|Frankfurt am Main",Q1549591|Q57318|Q1187811|Q1066984|Q1375749|Q13218276|Q515|Q42744322|Q61980648|Q745456|Q208511|Q486972,,Frankfurt
+Eurotower,Frankfurt am Main,Q833965,4,0,2,2001 Berlin-class replenishment ship,A 1412|FGS FFM|FGS Frankfurt am Main,Q162986,,German ship Frankfurt am Main
+Eurotower,Frankfurt Main Cemetery,Q881481,4,0,2,"cemetery in Frankfurt am Main, Hesse, Germany",Frankfurt am Main|Frankfurter Hauptfriedhof|Hauptfriedhof Frankfurt,Q39614,,Frankfurt Main Cemetery
+Eurotower,Städel Museum,Q163804,4,0,2,"art museum in Frankfurt, Germany",Städtische Galerie im Städelschen Kunstinstitut Frankfurt am Main|Städelsches Kunstinstitut und Städtische Galerie Frankfurt am Main|Frankfurt am Main Städtische Galerie im Städelschen Kunstinstitut|Stadelschen Kunstinstitut|Staedel|Staedel Museum,Q207694|Q163740,,Städel
+Eurotower,Frankfurt Airport,Q46033,4,0,2,"biggest airport of Germany, located in Frankfurt, Hesse",EDDF|FRA|Rhein-Main Airport|Frankfurt am Main Airport,Q21836433|Q644371,,Frankfurt Airport
+Eurotower,Frankfurt (Main) Hbf,Q165368,4,0,2,"main railway station in Frankfurt, Germany",Frankfurt am Main main station|Frankfurt Central Station|Frankfurt (Main) main station,Q1406904|Q2138274|Q55485|Q18543139,,Frankfurt (Main) Hauptbahnhof
+Eurotower,Frankfurt am Main,Q103920493,4,0,2,encyclopedia article,,Q13433827,,
+Eurotower,Frankfurt am Main I,Q1008171,4,0,2,federal electoral district of Germany,constituency for the Bundestag election Frankfurt am Main I,Q11703715,,Frankfurt am Main I
+Eurotower,Frankfurt (Main) Hbf (tief),Q871012,4,0,2,"lower level for S-Bahn trains of the main railway station in Frankfurt (Main), Germany",Frankfurt Main Station|Frankfurt Central Station,Q1793804|Q2451577|Q55491|Q19274527|Q55488|Q22808403,,Frankfurt (Main) Hauptbahnhof (low level)
+Eurotower,Frankfurt am Main II,Q1008175,4,0,2,federal electoral district of Germany,constituency for the Bundestag election Frankfurt am Main II,Q11703715,,Frankfurt am Main II
+"Fubon Financial Holding Co., Ltd","Fubon Financial Holding Co., Ltd.",Q4207171,4,2,1,financial services company,Fubon Financial Holding Co.,Q2512624|Q891723,,Fubon Financial Holding
+Johannes Krahn,Johannes Krahn,Q118361,4,3,1,German architect (1908-1974),,Q5,,Johannes Krahn
+Johannes Krahn,Johannes-Krahn-Weg,Q114070165,4,3,1,"street in Baden-Baden, Baden-Württemberg, Germany",,Q79007,,
+Albion Hotel,Albion Hotel,Q50160323,5,0,1,"hotel in Ottawa, Ontario, Canada",,Q63099748,,
+Albion Hotel,No.158  (The Albion Hotel Ph) High Street,Q29483792,5,0,1,Grade II listed building in Gwynedd. Set in the slope to S of the Cathedral; path to Castle Hill terrace at left.,"The Albion Hotel|Albion Hotel|The Albion Hotel, Bangor",Q212198,,
+Albion Hotel,Albion Hotel,Q63892585,5,0,1,"hotel in Gravenhurst, Ontario, Canada",,Q63099748,,
+Albion Hotel,Albion Hotel,Q63147688,5,0,1,"hotel in South Frontenac, Canada",,Q63099748,,
+Albion Hotel,Albion Hotel,Q4712523,5,0,1,"historic hotel in Cottesloe, Perth, Western Australia","The Albion|Albion Hotel, Cottesloe|The Albion Hotel, Cottesloe|Halfway House",Q27686|Q212198|Q358,,"Albion Hotel, Cottesloe"
+Albion Hotel,Albion Hotel,Q136529242,5,0,1,"former pub in Wirral, Merseyside, England, UK",,Q212198,,
+Albion Hotel,Albion Hotel,Q26301088,5,0,1,"hotel in Cromer, North Norfolk, England, UK",,Q27686,,
+Albion Hotel,Albion Hotel,Q116671767,5,0,1,"historic hotel in Miami Beach, Florida, U.S.A.",The Albion Hotel,Q27686|Q1021645,,
+Albion Hotel,Albion Hotel,Q4712522,5,0,1,"heritage building, Balmain",,Q212198|Q35112127,,"Albion Hotel, Balmain"
+Albion Hotel,Albion Hotel,Q111870456,5,0,1,"hotel in Auckland, New Zealand",,Q27686,,
+Miami Beach Architectural District,Miami Beach Architectural District,Q3307877,5,1,1,"U.S. historic district in Miami Beach, Florida","Art Deco Historic District (Miami Beach, Fla.)",Q1620797,,Miami Beach Architectural District
+Miami Beach Architectural District,Albion Hotel,Q50160323,5,1,2,"hotel in Ottawa, Ontario, Canada",,Q63099748,,
+Miami Beach Architectural District,No.158  (The Albion Hotel Ph) High Street,Q29483792,5,1,2,Grade II listed building in Gwynedd. Set in the slope to S of the Cathedral; path to Castle Hill terrace at left.,"The Albion Hotel|Albion Hotel|The Albion Hotel, Bangor",Q212198,,
+Miami Beach Architectural District,Albion Hotel,Q63892585,5,1,2,"hotel in Gravenhurst, Ontario, Canada",,Q63099748,,
+Miami Beach Architectural District,Albion Hotel,Q63147688,5,1,2,"hotel in South Frontenac, Canada",,Q63099748,,
+Miami Beach Architectural District,Albion Hotel,Q4712523,5,1,2,"historic hotel in Cottesloe, Perth, Western Australia","The Albion|Albion Hotel, Cottesloe|The Albion Hotel, Cottesloe|Halfway House",Q27686|Q212198|Q358,,"Albion Hotel, Cottesloe"
+Miami Beach Architectural District,Albion Hotel,Q136529242,5,1,2,"former pub in Wirral, Merseyside, England, UK",,Q212198,,
+Miami Beach Architectural District,Albion Hotel,Q26301088,5,1,2,"hotel in Cromer, North Norfolk, England, UK",,Q27686,,
+Miami Beach Architectural District,Albion Hotel,Q116671767,5,1,2,"historic hotel in Miami Beach, Florida, U.S.A.",The Albion Hotel,Q27686|Q1021645,,
+Miami Beach Architectural District,Albion Hotel,Q4712522,5,1,2,"heritage building, Balmain",,Q212198|Q35112127,,"Albion Hotel, Balmain"
+Miami Beach Architectural District,Albion Hotel,Q111870456,5,1,2,"hotel in Auckland, New Zealand",,Q27686,,
+Miami Beach Architectural District,Igor B. Polevitzky,Q5993127,5,1,2,American architect,Igor Polevitzky,Q5,,Igor B. Polevitzky
+Igor B. Polevitzky,Igor B. Polevitzky,Q5993127,5,3,1,American architect,Igor Polevitzky,Q5,,Igor B. Polevitzky
+Konrad-Adenauer-Haus,Konrad-Adenauer-Haus,Q1781884,6,0,1,former building in Bonn (headquarters of the Christian Democratic Union of Germany),,Q1021645,,
+Konrad-Adenauer-Haus,Konrad-Adenauer-Haus,Q1370675,6,0,1,office building of the CDU in Berlin,,Q1021645,,
+Konrad-Adenauer-Haus,Konrad-Adenauer-Haus,Q1781883,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Konrad-Adenauer-Haus,Konrad Adenauer Foundation,Q324555,6,0,2,German political foundation,Konrad-Adenauer-Stiftung,Q1695502|Q155271|Q163740,,Konrad Adenauer Foundation
+Konrad-Adenauer-Haus,"Konrad-Adenauer-Stiftung, Singapore",Q98560945,6,0,2,,"Konrad Adenauer Foundation, Singapore|KAS Singapore",,,
+Konrad-Adenauer-Haus,Konrad-Adenauer-Stiftung (KAS) Uganda,Q87263050,6,0,2,organisation operating both in Uganda and South Sudan,,,,
+Konrad-Adenauer-Haus,"Konrad-Adenauer-Stiftung e.V., Bibliothek",Q28739487,6,0,2,library in Germany,,Q7075,,
+Konrad-Adenauer-Haus,"Konrad-Adenauer-Stiftung, Druckschriften RW 0123",Q123634705,6,0,2,fonds of the State Archives of North Rhine-Westphalia,,Q3052382,,
+Weg der Demokratie,Weg der Demokratie,Q1292060,6,1,1,,,Q811979,,
+Weg der Demokratie,Konrad-Adenauer-Haus,Q1781884,6,1,2,former building in Bonn (headquarters of the Christian Democratic Union of Germany),,Q1021645,,
+Weg der Demokratie,Konrad-Adenauer-Haus,Q1370675,6,1,2,office building of the CDU in Berlin,,Q1021645,,
+Weg der Demokratie,Konrad-Adenauer-Haus,Q1781883,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Weg der Demokratie,Christian Democratic Union,Q49762,6,1,2,centre-right political party in Germany,CDU|Christian Democratic Union of Germany|Christlich Demokratische Union Deutschlands|Christlich Demokratische Union,Q6738353|Q2257409|Q2023214|Q7278,,Christian Democratic Union of Germany
+Weg der Demokratie,Christian Democratic Union (GDR),Q49754,6,1,2,"political party in East Germany, merged with West German CDU after reunification",Christian Democratic Union,Q7278|Q49759,,Christian Democratic Union (East Germany)
+Weg der Demokratie,Popular Democracy,Q913715,6,1,2,defunct political party in Ecuador,Christian Democratic Union|Democracia Popular-Unión Demócrata Cristiana|Democracia Popular|DP-UDCUDC,Q7278,,Christian Democratic Union (Ecuador)
+Weg der Demokratie,Christian Democratic Union,Q2174467,6,1,2,political party in the Netherlands,,Q7278,,Christian Democratic Union (Netherlands)
+Weg der Demokratie,Christian Democratic Union,Q1083976,6,1,2,political party of Ukraine,,Q7278,,Christian Democratic Union (Ukraine)
+Weg der Demokratie,Christian Democratic Union,Q763974,6,1,2,political party,,Q7278,,Christian Democratic Union (Latvia)
+Weg der Demokratie,Christian Democratic Union,Q1777648,6,1,2,Lithuanian political party,,Q7278,,Christian Democratic Union (Lithuania)
+Weg der Demokratie,Christian Democratic Union,Q5109530,6,1,2,political party in Lebanon,,Q7278,,Christian Democratic Union (Lebanon)
+Weg der Demokratie,Christian Democratic Union,Q5109529,6,1,2,political party in Namibia,,Q7278,,Christian Democratic Union (Namibia)
+Weg der Demokratie,Christian Democratic Union,Q5109526,6,1,2,defunct political party in Bolivia,Unidad Democrática Cristiana|UDC|Unidad Democratica Cristiana,Q43229,,Christian Democratic Union (Bolivia)
+Weg der Demokratie,Max Meid,Q1913019,6,1,2,German architect (1910–2009),,Q5,,
+Weg der Demokratie,Max Meidinger,Q55844834,6,1,2,,,Q5,,
+Weg der Demokratie,Max Meidinger,Q133488597,6,1,2,,,Q5,,
+Christian Democratic Union,Christian Democratic Union,Q49762,6,2,1,centre-right political party in Germany,CDU|Christian Democratic Union of Germany|Christlich Demokratische Union Deutschlands|Christlich Demokratische Union,Q6738353|Q2257409|Q2023214|Q7278,,Christian Democratic Union of Germany
+Christian Democratic Union,Christian Democratic Union (GDR),Q49754,6,2,1,"political party in East Germany, merged with West German CDU after reunification",Christian Democratic Union,Q7278|Q49759,,Christian Democratic Union (East Germany)
+Christian Democratic Union,Popular Democracy,Q913715,6,2,1,defunct political party in Ecuador,Christian Democratic Union|Democracia Popular-Unión Demócrata Cristiana|Democracia Popular|DP-UDCUDC,Q7278,,Christian Democratic Union (Ecuador)
+Christian Democratic Union,Christian Democratic Union,Q2174467,6,2,1,political party in the Netherlands,,Q7278,,Christian Democratic Union (Netherlands)
+Christian Democratic Union,Christian Democratic Union,Q1083976,6,2,1,political party of Ukraine,,Q7278,,Christian Democratic Union (Ukraine)
+Christian Democratic Union,Christian Democratic Union,Q763974,6,2,1,political party,,Q7278,,Christian Democratic Union (Latvia)
+Christian Democratic Union,Christian Democratic Union,Q1777648,6,2,1,Lithuanian political party,,Q7278,,Christian Democratic Union (Lithuania)
+Christian Democratic Union,Christian Democratic Union,Q5109530,6,2,1,political party in Lebanon,,Q7278,,Christian Democratic Union (Lebanon)
+Christian Democratic Union,Christian Democratic Union,Q5109529,6,2,1,political party in Namibia,,Q7278,,Christian Democratic Union (Namibia)
+Christian Democratic Union,Christian Democratic Union,Q5109526,6,2,1,defunct political party in Bolivia,Unidad Democrática Cristiana|UDC|Unidad Democratica Cristiana,Q43229,,Christian Democratic Union (Bolivia)
+Christian Democratic Union,Konrad-Adenauer-Haus,Q1781884,6,2,2,former building in Bonn (headquarters of the Christian Democratic Union of Germany),,Q1021645,,
+Christian Democratic Union,Konrad-Adenauer-Haus,Q1370675,6,2,2,office building of the CDU in Berlin,,Q1021645,,
+Christian Democratic Union,Konrad-Adenauer-Haus,Q1781883,6,2,2,Wikimedia disambiguation page,,Q4167410,,
+Christian Democratic Union,Weg der Demokratie,Q1292060,6,2,2,,,Q811979,,
+Christian Democratic Union,Max Meid,Q1913019,6,2,2,German architect (1910–2009),,Q5,,
+Christian Democratic Union,Max Meidinger,Q55844834,6,2,2,,,Q5,,
+Christian Democratic Union,Max Meidinger,Q133488597,6,2,2,,,Q5,,
+Max Meid,Max Meid,Q1913019,6,3,1,German architect (1910–2009),,Q5,,
+Max Meid,Max Meidinger,Q55844834,6,3,1,,,Q5,,
+Max Meid,Max Meidinger,Q133488597,6,3,1,,,Q5,,
+Max Meid,Konrad Adenauer,Q2492,6,3,2,"German politician, Chancellor of West Germany (1949–1963), Zentrum and CDU",Konrad Hermann Joseph Adenauer,Q5,,Konrad Adenauer
+Max Meid,Konrad Adenauer,Q116810847,6,3,2,German lawyer (b 1981),,Q5,,
+Max Meid,Konrad Adenauer Foundation,Q324555,6,3,2,German political foundation,Konrad-Adenauer-Stiftung,Q1695502|Q155271|Q163740,,Konrad Adenauer Foundation
+Max Meid,Konrad Adenauer,Q30104325,6,3,2,German jurist and manager,Konrad August Emil Emanuel Adenauer,Q5,,
+Max Meid,Rosa 'Konrad Adenauer',Q16472741,6,3,2,rose cultivar,Konrad Adenauer,Q26817508,Q279919,
+Max Meid,Konrad Adenauer,Q1781908,6,3,2,German official aircraft,,Q6471|Q6481|Q6484,,Konrad Adenauer (aircraft)
+Max Meid,Konrad Adenauer,Q55905338,6,3,2,German attorney (1945- ),Konrad Paul Karl Adenauer,Q5,,
+Max Meid,Konrad-Adenauer-Ufer,Q18490082,6,3,2,"street in Cologne, Germany",,Q79007|Q34442|Q561431,,
+Max Meid,Konrad Adenauer,Q136090044,6,3,2,painting by Oskar Kokoschka,,Q3305213,,
+Max Meid,Konrad Adenauer,Q133096927,6,3,2,"painting by Wolf Vostell, Museum Ludwig, Cologne",,Q3305213,,
+Salesforce Tower,Heron Tower,Q1613853,7,0,1,"skyscraper in the City of London, England",110 Bishopsgate|Salesforce Tower,Q11303,,Heron Tower
+Salesforce Tower,Salesforce Tower,Q14684154,7,0,1,office building in San Francisco,Transbay Tower,Q11303|Q1021645,,Salesforce Tower
+Salesforce Tower,Salesforce Tower,Q2734953,7,0,1,"high-rise office building in Indianapolis, IN, US",Chase Tower,Q811979,,Salesforce Tower (Indianapolis)
+Salesforce Tower,Salesforce Tower,Q85799246,7,0,1,skyscraper in Australia,,Q11303|Q1021645,,Salesforce Tower (Sydney)
+Salesforce Tower,Salesforce Tower Sydney,Q69525213,7,0,1,263-metre-tall office building development at Circular Quay in Sydney,Circular Quay Tower|182 George Street,Q811683,,
+Salesforce Tower,Wolf Point South Tower,Q17039466,7,0,1,skyscraper under construction in Chicago,,Q27686|Q11303,,Salesforce Tower Chicago
+Salesforce Tower,Salesforce Tower,Q92787696,7,0,1,Wikimedia disambiguation page,,Q4167410,,Salesforce Tower (disambiguation)
+Salesforce Tower,Boston Properties,Q4844439,7,0,2,real estate company,BXP Boston,Q4830453|Q891723,,"BXP, Inc."
+Salesforce Tower,BXP,Q127603661,7,0,2,Real-Estate-Investment-Trust,Boston properties,Q4830453,,
+Salesforce Tower,César Pelli,Q309483,7,0,2,Argentine-American architect (1926–2019),Caesar Pelli|Cesar Antonio Pelli|Cesar Pelli,Q5,,César Pelli
+Salesforce Tower,"Cesar Pelli, Designer of Iconic Buildings Around the World, Dies at 92",Q81594755,7,0,2,obituary in the New York Times,,Q309481,,
+Salesforce Tower,Cesar Pelli & Associates,Q133730802,7,0,2,architectural firm,Cesar Pelli and Associates|César Pelli & Associates,Q4387609,,
+Salesforce Tower,César Pelli. Un joven arquitecto,Q135789046,7,0,2,2018 film directed by Miguel Rodríguez Arias,,Q11424,,
+Boston Properties,Boston Properties,Q4844439,7,2,1,real estate company,BXP Boston,Q4830453|Q891723,,"BXP, Inc."
+Boston Properties,BXP,Q127603661,7,2,1,Real-Estate-Investment-Trust,Boston properties,Q4830453,,
+Boston Properties,Heron Tower,Q1613853,7,2,2,"skyscraper in the City of London, England",110 Bishopsgate|Salesforce Tower,Q11303,,Heron Tower
+Boston Properties,Salesforce Tower,Q14684154,7,2,2,office building in San Francisco,Transbay Tower,Q11303|Q1021645,,Salesforce Tower
+Boston Properties,Salesforce Tower,Q2734953,7,2,2,"high-rise office building in Indianapolis, IN, US",Chase Tower,Q811979,,Salesforce Tower (Indianapolis)
+Boston Properties,Salesforce Tower,Q85799246,7,2,2,skyscraper in Australia,,Q11303|Q1021645,,Salesforce Tower (Sydney)
+Boston Properties,Salesforce Tower Sydney,Q69525213,7,2,2,263-metre-tall office building development at Circular Quay in Sydney,Circular Quay Tower|182 George Street,Q811683,,
+Boston Properties,Wolf Point South Tower,Q17039466,7,2,2,skyscraper under construction in Chicago,,Q27686|Q11303,,Salesforce Tower Chicago
+Boston Properties,Salesforce Tower,Q92787696,7,2,2,Wikimedia disambiguation page,,Q4167410,,Salesforce Tower (disambiguation)
+Boston Properties,César Pelli,Q309483,7,2,2,Argentine-American architect (1926–2019),Caesar Pelli|Cesar Antonio Pelli|Cesar Pelli,Q5,,César Pelli
+Boston Properties,"Cesar Pelli, Designer of Iconic Buildings Around the World, Dies at 92",Q81594755,7,2,2,obituary in the New York Times,,Q309481,,
+Boston Properties,Cesar Pelli & Associates,Q133730802,7,2,2,architectural firm,Cesar Pelli and Associates|César Pelli & Associates,Q4387609,,
+Boston Properties,César Pelli. Un joven arquitecto,Q135789046,7,2,2,2018 film directed by Miguel Rodríguez Arias,,Q11424,,
+César Pelli,César Pelli,Q309483,7,3,1,Argentine-American architect (1926–2019),Caesar Pelli|Cesar Antonio Pelli|Cesar Pelli,Q5,,César Pelli
+César Pelli,"Cesar Pelli, Designer of Iconic Buildings Around the World, Dies at 92",Q81594755,7,3,1,obituary in the New York Times,,Q309481,,
+César Pelli,Cesar Pelli & Associates,Q133730802,7,3,1,architectural firm,Cesar Pelli and Associates|César Pelli & Associates,Q4387609,,
+César Pelli,César Pelli. Un joven arquitecto,Q135789046,7,3,1,2018 film directed by Miguel Rodríguez Arias,,Q11424,,
+César Pelli,architect,Q42973,7,3,2,"person trained to plan and design buildings, and oversee their construction",building architects,Q28640|Q11488158|Q12737077|Q20827480|Q111599259,Q5322166,Architect
+César Pelli,architectural firm,Q4387609,7,3,2,"company employing licensed architects, offering architecture-related services",architecture practice|architecture firm|architectural practice|architect|architectural studio|architecture office,Q268592,Q4830453|Q783794|Q17994968,Architectural firm
+César Pelli,master builder,Q1340643,7,3,2,central figure leading construction projects,builder|architect|master mason|master of the works|magister operum,Q28640|Q4164871|Q12737077,Q811122|Q2462658|Q81096|Q42973|Q76771889,
+César Pelli,architectural structure,Q811979,7,3,2,human-designed and -made structure,designed structure|architectural structures|designed structures|structure in architecture|structures in architecture|structure|structures|structural object|built structure|civil engineering structure,Q111972893,Q11908691|Q811430|Q386724|Q134301417,Architectural structure
+César Pelli,architectural heritage monument in Bavaria,Q17297633,7,3,2,architectural heritage monument according to § 1 Denkmalschutzgesetz of Bavaria,,,Q11691318,
+César Pelli,Architect,Q16242510,7,3,2,album by Wallis Bird,,Q482994,,Architect (album)
+César Pelli,architecture,Q12271,7,3,2,"process of planning, designing and construction",,Q11862829|Q268592|Q56055944|Q1047113|Q2267705,Q82604,Architecture
+César Pelli,Architectural History,Q4787029,7,3,2,academic journal,,Q627517,,Architectural History (journal)
+César Pelli,architectural landmark,Q2319498,7,3,2,"geographic feature or building, that is easily recognizable and/or well known",POI|POI: architecture|point of interest|landmark building|landmark,,Q811979|Q4895393|Q570116,
+César Pelli,architectural ensemble,Q1497375,7,3,2,"group of multiple related objects, such as buildings",ensemble of objects|ensemble of buildings|complex|complex of multiple built objects|building ensemble|item with multiple objects,Q12379553,Q18247357|Q618123,Architectural ensemble
+César Pelli,designer,Q5322166,7,3,2,person who designs,design expert,Q28640,Q4453355|Q483501,Designer
+César Pelli,design,Q82604,7,3,2,creation of a plan or convention for the construction of an object or a system; process of creation; act of creativity and innovation,styling|planning|plan,Q1047113|Q627436|Q11862829|Q116505632|Q119143679|Q8187769,Q1914636|Q104637332|Q1519454,Design
+César Pelli,Designer,Q65075012,7,3,2,2019 studio album by Aldous Harding,,Q482994,,Designer (album)
+César Pelli,Micrografx Designer,Q56612431,7,3,2,graphics software,Designer,Q868410|Q218616,,
+César Pelli,boutique,Q1068824,7,3,2,retail shop that deals in high end fashionable clothing or accessories,designer shop,,Q213441,Boutique
+César Pelli,Designer,Q85083398,7,3,2,"theatrical character in the play ""Seventh Day of Creation""",,Q3375722|Q15632617,,
+César Pelli,Designers in Nederland. Een eeuw productvormgeving,Q79463238,7,3,2,reference work about Dutch applied art and design of the 20th century,,Q3331189,,
+César Pelli,Designer Music,Q5264424,7,3,2,1981 studio album by Lipps Inc.,,Q482994,,Designer Music
+César Pelli,Designer's World,Q16960041,7,3,2,dedicated plug and play console,,Q2041444|Q7889,,Designer's World
+César Pelli,dog crossbreed,Q38547,7,3,2,dog intentionally bred from two or more specific domestic dog breeds,designer dog|dog cross-breed|crossbred dog|cross-bred dog|mixbreed dog|mix-breed dog,Q38672,Q136772311,Dog crossbreed
+The Tides,The Tides,Q77857477,8,0,1,painting by Kenneth Callahan,,Q3305213,,
+The Tides,The Tides,Q2220723,8,0,1,"tower bock in Illinois, United States",,Q18142,,
+The Tides,The Tides,Q111599624,8,0,1,office building in Warsaw,,Q1021645,,
+The Tides,The Tides,Q7769218,8,0,1,Northern Irish indie rock band,,Q281643,,The Tides (band)
+The Tides,The Tides,Q77583078,8,0,1,painting by Sasson Soffer,,Q3305213,,
+The Tides,Ecco: The Tides of Time,Q1967427,8,0,1,1994 video game,The Tides of Time|Tides of Time|Ecco: Tides of Time|Ecco the Dolphin: Tides of Time|Ecco the Dolphin: The Tides of Time,Q7889,,Ecco: The Tides of Time
+The Tides,The Tides,Q7769217,8,0,1,"former hotel in Miami Beach, Florida, U.S.A.",Tides Hotel,Q11303|Q87487749,,The Tides (Miami Beach)
+The Tides,The Tides,Q19100884,8,0,1,poem by Ella Wheeler Wilcox,,Q7725634,,
+The Tides,The Tideshell Keeper,Q140361685,8,0,1,video game,,Q7889,,
+The Tides,The Tides of Time,Q122351827,8,0,1,2020 video game,,Q7889,,
+The Tides,Tides Foundation,Q7800861,8,0,2,US-based public charity and fiscal sponsor working to advance progressive policy,Tides Network,Q163740,,Tides Foundation
+The Tides,Tides Center,Q55457857,8,0,2,American nonprofit organization,,Q163740,,
+WTW complex at Wioślarska Street in Warsaw,WTW complex at Wioślarska Street in Warsaw,Q66710479,8,1,1,,,Q1497364,,
+WTW complex at Wioślarska Street in Warsaw,Wioślarska Street in Warsaw,Q66709057,8,1,2,,,Q79007,,
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q270,8,1,2,capital and largest city of Poland,,Q925381|Q515|Q1901835|Q1549591|Q1200957|Q51929311|Q56061|Q200250|Q108178728,,Warsaw
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q106494408,8,1,2,2019 video game,,Q7889,,Warsaw (video game)
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q37500217,8,1,2,family name,,Q101352,,
+WTW complex at Wioślarska Street in Warsaw,University of Warsaw,Q144488,8,1,2,largest university in Poland,Uniwersytet Warszawski|Warsaw University,Q3918|Q5028741,,University of Warsaw
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q992560,8,1,2,"city in Indiana, United States","Warsaw, Indiana|Warsaw, IN",Q1093829,,"Warsaw, Indiana"
+WTW complex at Wioślarska Street in Warsaw,Warsaw University of Technology,Q1718656,8,1,2,"technical university in Warsaw, Poland",Warsaw Polytechnic|Politechnika Warszawska|WUT,Q845392|Q1371037|Q3918,,Warsaw University of Technology
+WTW complex at Wioślarska Street in Warsaw,Powązki Military Cemetery,Q2790054,8,1,2,military cemetery located in the Żoliborz district,Military Cemetery in Warsaw|Warsaw Military Cemetery,Q1241568,,Powązki Military Cemetery
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q7970879,8,1,2,town in New York,"Warsaw, New York|Warsaw, NY",Q15127012|Q106071004,,"Warsaw, New York"
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q576165,8,1,2,"city in Hancock County, Illinois, United States","Warsaw, Illinois|Warsaw, IL",Q1093829,,"Warsaw, Illinois"
+WTW complex at Wioślarska Street in Warsaw,Warsaw,Q1919763,8,1,2,"city and county seat of Gallatin County, Kentucky, United States","Warsaw, Kentucky|Warsaw, KY",Q1093829,,"Warsaw, Kentucky"
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q77857477,8,1,2,painting by Kenneth Callahan,,Q3305213,,
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q2220723,8,1,2,"tower bock in Illinois, United States",,Q18142,,
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q111599624,8,1,2,office building in Warsaw,,Q1021645,,
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q7769218,8,1,2,Northern Irish indie rock band,,Q281643,,The Tides (band)
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q77583078,8,1,2,painting by Sasson Soffer,,Q3305213,,
+WTW complex at Wioślarska Street in Warsaw,Ecco: The Tides of Time,Q1967427,8,1,2,1994 video game,The Tides of Time|Tides of Time|Ecco: Tides of Time|Ecco the Dolphin: Tides of Time|Ecco the Dolphin: The Tides of Time,Q7889,,Ecco: The Tides of Time
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q7769217,8,1,2,"former hotel in Miami Beach, Florida, U.S.A.",Tides Hotel,Q11303|Q87487749,,The Tides (Miami Beach)
+WTW complex at Wioślarska Street in Warsaw,The Tides,Q19100884,8,1,2,poem by Ella Wheeler Wilcox,,Q7725634,,
+WTW complex at Wioślarska Street in Warsaw,The Tideshell Keeper,Q140361685,8,1,2,video game,,Q7889,,
+WTW complex at Wioślarska Street in Warsaw,The Tides of Time,Q122351827,8,1,2,2020 video game,,Q7889,,
+WTW complex at Wioślarska Street in Warsaw,Kuryłowicz & Associates,Q30904567,8,1,2,Polish architecture studio,K&A,Q4830453|Q4387609,,
+Kuryłowicz & Associates,Kuryłowicz & Associates,Q30904567,8,3,1,Polish architecture studio,K&A,Q4830453|Q4387609,,
+Meiji Seimei Kan,Meiji Seimei Kan,Q3023897,9,0,1,"building in Tokyo, Tokyo, Japan",,Q1021645,,Meiji Seimei Kan
+Meiji Seimei Kan,Meiji Seimei Kan,Q11512380,9,0,1,,Mitsubishi Nigōkan,Q1021645|Q19860854,,
+Meiji Seimei Kan,Marunouchi My Plaza,Q11238789,9,0,2,,,Q1497364,,
+Meiji Seimei Kan,Shin'ichirō Okada,Q11261704,9,0,2,Japanese architect,Okada Shinichirō|Shin'ichiro Okada|Shin'ichirou Okada,Q5,,Okada Shinichirō
+Meiji Seimei Kan,Shin'ichirō Okada,Q11473555,9,0,2,,,Q5,,
+Meiji Seimei Kan,Shinichiro Okada,Q25252702,9,0,2,Japanese Go player,Okada Shinichiro,Q5,,
+Marunouchi My Plaza,Marunouchi My Plaza,Q11238789,9,1,1,,,Q1497364,,
+Marunouchi My Plaza,Meiji Seimei Kan,Q3023897,9,1,2,"building in Tokyo, Tokyo, Japan",,Q1021645,,Meiji Seimei Kan
+Marunouchi My Plaza,Meiji Seimei Kan,Q11512380,9,1,2,,Mitsubishi Nigōkan,Q1021645|Q19860854,,
+Marunouchi My Plaza,Shin'ichirō Okada,Q11261704,9,1,2,Japanese architect,Okada Shinichirō|Shin'ichiro Okada|Shin'ichirou Okada,Q5,,Okada Shinichirō
+Marunouchi My Plaza,Shin'ichirō Okada,Q11473555,9,1,2,,,Q5,,
+Marunouchi My Plaza,Shinichiro Okada,Q25252702,9,1,2,Japanese Go player,Okada Shinichiro,Q5,,
+Shin'ichirō Okada,Shin'ichirō Okada,Q11261704,9,3,1,Japanese architect,Okada Shinichirō|Shin'ichiro Okada|Shin'ichirou Okada,Q5,,Okada Shinichirō
+Shin'ichirō Okada,Shin'ichirō Okada,Q11473555,9,3,1,,,Q5,,
+Shin'ichirō Okada,Shinichiro Okada,Q25252702,9,3,1,Japanese Go player,Okada Shinichiro,Q5,,
+Shin'ichirō Okada,Meiji Seimei Kan,Q3023897,9,3,2,"building in Tokyo, Tokyo, Japan",,Q1021645,,Meiji Seimei Kan
+Shin'ichirō Okada,Meiji Seimei Kan,Q11512380,9,3,2,,Mitsubishi Nigōkan,Q1021645|Q19860854,,
+Shin'ichirō Okada,Marunouchi My Plaza,Q11238789,9,3,2,,,Q1497364,,
+Transportation Building,transport structure,Q2516121,10,0,1,building or construction facilitating movement of people or vehicles,traffic structure|transportation building|transport building|transport building or structure|transport building and structure|transportation structure,,Q811979|Q376799,
+Transportation Building,Transportation Building,Q131841026,10,0,1,Pavilion created by Louis Sullivan for the Columbian Exposition in Chicago in 1893.,,Q35112127,,
+Transportation Building,Transportation Building,Q21036705,10,0,1,building in Manhattan,,Q11755959,,Transportation Building (Manhattan)
+Transportation Building,Transportation Building,Q21577178,10,0,1,City: Guangzhou; Country: China,,Q41176,,
+Transportation Building,Transportation Building,Q7835161,10,0,1,office building in Ottawa,,Q1021645,,Transportation Building (Ottawa)
+Transportation Building,Transportation Building,Q136767068,10,0,1,,Southern Railway Building,Q41176,,
+Transportation Building,"Fair Park, Centennial Hall",Q107322211,10,0,1,"exhibition building at 1001 Washington St Dallas, Texas",Transportation Building,Q70732969,,
+Transportation Building,Transportation Building,Q50433638,10,0,1,Wikimedia disambiguation page,,Q4167410,,Transportation Building
+Transportation Building,Rideau Centre,Q2944877,10,0,2,shopping mall,,Q11315,,Rideau Centre
+Transportation Building,John Albert Ewart,Q6218446,10,0,2,Canadian architect,John Ewart,Q5,,John Albert Ewart
+Rideau Centre,Rideau Centre,Q2944877,10,1,1,shopping mall,,Q11315,,Rideau Centre
+John Albert Ewart,John Albert Ewart,Q6218446,10,3,1,Canadian architect,John Ewart,Q5,,John Albert Ewart
+John Albert Ewart,John Ewart,Q15524878,10,3,2,Australian actor (1928–1994),John Reford Ewart,Q5,,John Ewart
+John Albert Ewart,John Ewart,Q75755566,10,3,2,(1752-1830),,Q5,,
+John Albert Ewart,John Alexander Ewart,Q18731278,10,3,2,British army officer,Sir John Alexander Ewart|Sir John Ewart|John Ewart,Q5,,John Alexander Ewart
+John Albert Ewart,John Ewart,Q43395320,10,3,2,accused of witchcraft,,Q5,,
+John Albert Ewart,John Ewart,Q6232085,10,3,2,Canadian architect,,Q5,,John Ewart (architect)
+John Albert Ewart,Jock Ewart,Q10427466,10,3,2,Scottish footballer (1891-1943),John Ewart,Q5,,Jock Ewart
+John Albert Ewart,John Ewart,Q6232088,10,3,2,New Zealand doctor and hospital superintendent,,Q5,,John Ewart (doctor)
+John Albert Ewart,John Ewart,Q96081304,10,3,2,,,Q5,,
+John Albert Ewart,John Ewart,Q76096999,10,3,2,Peerage person ID=528437,,Q5,,

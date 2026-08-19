@@ -1,0 +1,47 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN#2110ja,,,0,0,0,,,,,
+N 201hhl,,,1,0,0,,,,,
+UN 2004gu,,,2,0,0,,,,,
+SN 2028fa,,,3,0,0,,,,,
+SN 2011y,SN 2011Y,Q9331882,4,0,1,supernova,,Q3937,,
+NAME AV 2017ijr,,,5,0,0,,,,,
+SN 2029eo,,,6,0,0,,,,,
+SN 1;71P,SN 1987A,Q584905,7,0,2,supernova,NAME SNR 1987A,Q3937|Q6243|Q67206691|Q2154519|Q71962386|Q72802977|Q207436,,SN 1987A
+SN 1;71P,S Andromedae,Q546708,7,0,2,"supernova in the Andromeda Galaxy, spotted by mankind in August 1885",Supernova 1885|S And|SN 1885A|NOVA And 1885|Nova RJC99 Sep-95|HR 182|AAVSO 0037+40|TIC 438234291,Q3937|Q6458|Q2154519|Q207436|Q67206785|Q6243|Q1059564|Q582000,,SN 1885A
+SN 1;71P,SN-1,Q54955009,7,0,2,cell line,,Q21014462|Q23058136,,
+SN 1;71P,diacylglycerol kinase activity,Q14913817,7,0,2,"Catalysis of the reaction: NTP + 1,2-diacylglycerol = NDP + 1,2-diacylglycerol-3-phosphate.","DGK activity|GO:0004143|arachidonoyl-specific diacylglycerol kinase activity|1,2-diacylglycerol kinase activity|DG kinase activity|sn-1,2-diacylglycerol kinase activity|diglyceride kinase activity|1,2-diacylglycerol kinase (phosphorylating)",Q14860489,Q14863082|Q14863083,
+SN 1;71P,SN 1961I,Q9326449,7,0,2,"supernova within the Messier 61 galaxy, discovered in 1961",,Q3937,,SN 1961I
+SN 1;71P,sn-1-glycerol-3-phosphate C16:0-DCA-CoA acyl transferase activity,Q30105576,7,0,2,"Catalysis of the reaction: hexadecanedioyl-CoA + sn-glycerol 3-phosphate = coenzyme A + 1-C16:0-alpha,omega-dicarboxyl-2-lysophosphatidate",,Q14860489,Q14912987,
+SN 1;71P,"Diacylglycerol kinase, subgroup",Q54444078,7,0,2,InterPro family,"DGK|IPR037607|arachidonoyl-specific diacylglycerol kinase|diglyceride kinase|1,2-diacylglycerol kinase (phosphorylating)|1,2-diacylglycerol kinase|sn-1,2-diacylglycerol kinase|DG kinase",Q417841|Q67015883,Q421851|Q407355|Q106951674,
+SN 1;71P,diacylglycerol cholinephosphotransferase activity,Q21106763,7,0,2,"Catalysis of the reaction: CDP-choline + 1,2-diacylglycerol = CMP + a phosphatidylcholine.","cytidine diphosphorylcholine diglyceride transferase activity|CDP-choline:1,2-diacylglycerol cholinephosphotransferase activity|GO:0004142|1-alkyl-2-acetyl-m-glycerol:CDPcholine choline phosphotransferase activity|1-alkyl-2-acetyl-sn-glycerol cholinephosphotransferase activity|alkylacylglycerol cholinephosphotransferase activity|diacylglycerol choline phosphotransferase activity|1-alkyl-2-acetylglycerol cholinephosphotransferase activity|cytidine diphosphocholine glyceride transferase activity|phosphorylcholine--glyceride transferase activity|CDP-choline diglyceride phosphotransferase activity|alkylacylglycerol choline phosphotransferase activity|sn-1,2-diacylglycerol cholinephosphotransferase activity|phosphocholine diacylglyceroltransferase activity",Q14860489,Q22321340,
+SN 1;71P,SN-1,Q27088827,7,0,2,chemical compound,,Q113145171,Q11173,
+SN 1;71P,SN12C,Q54955018,7,0,2,cell line,SN-12C|SN12 C,Q21014462|Q23058136,,
+SN 1;71P,Progress MS-10,Q26698160,7,0,2,cargo resupply mission to the International Space Station,Прогресс МC-10|Progress 71|71P,Q21804540,,Progress MS-10
+SN 1;71P,71P 1,Q74216884,7,0,2,,NVSS J212540+465757,Q1931185,,
+SN 1;71P,71P/Clark,Q4175679,7,0,2,comet,,Q11416914|Q1713740,,71P/Clark
+SN 1;71P,71P 69,Q74100134,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 77,Q74109021,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 9,Q74210657,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 20,Q74106886,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 16,Q74216574,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 23,Q74109961,7,0,2,astronomical radio source,,Q1931185,,
+SN 1;71P,71P 99,Q74113299,7,0,2,astronomical radio source,,Q1931185,,
+SCP 6C0,,,8,0,0,,,,,
+SN 2017kn,,,9,0,0,,,,,
+SN 200bu,,,10,0,0,,,,,
+SN 200cm,,,11,0,0,,,,,
+SN!1999dh,SN 1999dh,Q9327825,12,0,2,supernova,,Q3937,,
+SO 2003cp,sulfuric acid,Q4118,13,0,2,chemical compound,sulphuric acid|battery acid|hydrogen sulfate|oil of vitriol|vitriolic acid,Q113145171,Q408683|Q3775748|Q468076,Sulfuric acid
+SO 2003cp,sodium lauryl sulfate,Q422241,13,0,2,chemical compound,"Sodium dodecyl sulfate|sodium laurilsulfate|SLS|SDS|NaDS|Sodium laurilsulfate|Sodium dodecyl sulphate|Sodium lauryl sulphate|Sodium dodecylsulfate|Sulfuric acid monododecyl ester sodium salt|sodium dodecanesulfate|dodecyl alcohol hydrogen sulfate, sodium salt|akyposal SDS|Laurylsiran sodny|Natrium laurylsulfuricum|Sodium lauryl sulfate",Q113145171,Q1072576|Q72590134,Sodium dodecyl sulfate
+SO 2003cp,sodium sulfate,Q211737,13,0,2,chemical compound,"disodium sulphate|salt cake|disodium sulfate|sodium sulphate|anhydrous sodium sulfate|sodium sulfate anhydrous|sodium sulfate, anhydrous|sodium sulphate anhydrous|sodium sulphate, anhydrous|sulfuric acid disodium salt, anhydrous",Q113145171,Q64995433|Q1508568,Sodium sulfate
+SO 2003cp,ammonium sulfate,Q191831,13,0,2,chemical compound,"ammonium sulphate|(NH4)2SO4|sulfuric acid, diammonium salt|sulfuric acid ammonium salt (1:2)|ammonium sulfate (2:1)|mascagnite|diammonium sulfate",Q113145171,Q906629|Q12370,Ammonium sulfate
+SO 2003cp,aluminium sulfate,Q421857,13,0,2,chemical compound,"aluminium sulfate (2:3)|dialuminium trisulfate|aluminium sesquisulfate|papermaker's alum|aluminium sulphate|aluminium sulfate (anh.)|aluminum sulfate|aluminum sulphate anhydrous|sulfatodialuminium disulfate|aluminium(III) sulfate|alum|aluminum sulfate anhydrous|sulfuric acid, aluminium salt (3:2)|sulfuric acid, aluminum salt (3:2)|sulfatodialuminum disulfate|aluminium sulfate anhydrous|aluminum sulfate (2:3)|dialuminum sulfate|Al2(SO4)3|aluminum(III) sulfate|aluminium sulfate (anhydrous)|dialuminum trisulfate",Q113145171,Q11173,Aluminium sulfate
+SO 2003cp,sulfate ester,Q1072576,13,0,2,any ester derived from sulfuric acid,organic sulfate|organosulfate|sulfate esters|sulfates|sulfate|Sulfuric Acid Esters|Sulfuric Acid Ester,Q47154513,Q25997675|Q101487|Q56380605,Organosulfate
+SO 2003cp,dimethyl sulfate,Q413421,13,0,2,chemical compound,"Sulfuric acid dimethyl ester|Dimethyl ester of sulfuric acid|Dimethylsulfate|Methyl sulfate|DMS|Dimethoxysulfone|Dimethyl monosulfate|Dimethyl sulphate|Sulfuric acid, dimethyl ester",Q113145171,Q101487,Dimethyl sulfate
+SO 2003cp,Sulfuric Acid,Q9348003,13,0,2,Japanese rock band,,Q215380,,
+SO 2003cp,sulfuric acids,Q76850909,13,0,2,inorganic and organic derivatives of sulfuric acid (H2SO4),sulphuric acids,Q47154513,,
+SO 2003cp,2-ethylhexyl hydrogen sulfate,Q27160059,13,0,2,chemical compound,"[(2-ethylhexyl)oxy]sulfonic acid|Sulfuric acid, mono(2-ethylhexyl) ester|2-ethyl-1-hexanesulfonic acid",Q59199015,Q11173,
+UCP 06F6,,,14,0,0,,,,,
+SN 1<67D,,,15,0,0,,,,,
+SN 3003fa,,,16,0,0,,,,,
+SN1963F,SN 1963F,Q9326485,17,0,2,supernova,,Q3937,,

@@ -1,0 +1,75 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Gibraltar pound,Gibraltar pound,Q41429,0,0,1,currency,GIP,Q8142|Q66143|Q339180,,Gibraltar pound
+£,pound sterling,Q25224,0,1,1,official currency of the United Kingdom and other territories,GBP|British pound|pound|£|quid|sterling|Great British pound|pence|pounds|penny|livre sterling,Q8142|Q339180,,Pound sterling
+£,£,Q249306,0,1,1,"pound sign (U+00A3), pound sterling, Irish punt, lira, etc.; not to be confused with the unit of weight; glyph may have one or two crossbars, in distinction from ₤ (U+20A4)",U+00A3|POUND SIGN|pound sign|pound symbol|pound sterling sign|pound sterling symbol,Q29654788|Q308229,,Pound sign
+£,￡,Q87545036,0,1,1,Unicode character,£|FULLWIDTH POUND SIGN,Q29654788,,
+£,Egyptian pound,Q199462,0,1,1,official currency of Egypt,,Q8142,,Egyptian pound
+£,five pound coin,Q5456252,0,1,1,commemorative denomination of the pound sterling,£5|five pounds,Q918448|Q113813711,Q855973,Five pounds (British coin)
+£,one pound coin,Q1439830,0,1,1,"British coin, denomination of the pound sterling",£1|one pound|pound coin,Q918448|Q113813711,Q41207,One pound coin
+£,Carolingian monetary system,Q837616,0,1,1,"pre-decimal currency structure/system once common throughout Europe, said to be introduced by Charlemagne in the 8. century CE","L.s.d.|Lsd|pounds, shillings and pence|librae, solidi and denarii|librae, solidi, denarii|LSD|Carolingian system|Carolingian money system|£sd",Q1773266,Q7048891|Q1894248,Carolingian monetary system
+£,£3.8m for picture seized by Nazis,Q111890203,0,1,1,news article (Guardian),,Q5707594,,
+£,Irish pound,Q270642,0,1,1,former currency of Ireland,pound|punt|IEP,Q8142|Q28783456|Q100995,,Irish pound
+£,£10 Cymreig : er cof am Owain Glyn Dŵr,Q77193992,0,1,1,book (work),,Q47461344,,
+£,Gibraltar pound,Q41429,0,1,2,currency,GIP,Q8142|Q66143|Q339180,,Gibraltar pound
+£,Gibraltar,Q1410,0,1,2,British overseas territory on the southern end of the Iberian Peninsula,gi|Gib,Q46395|Q2264924|Q900119|Q15239622|Q902814|Q51576574|Q1200957|Q515,,Gibraltar
+£,brucellosis,Q156050,0,1,2,Human and animal disease,undulant fever|Gibraltar fever|Mediterranean fever|Malta fever|Bang's disease|Cyprus fever|Rock fever|Maltese fever,Q112193867,Q18553247|Q727028|Q182672|Q18123741,Brucellosis
+£,Gibraltar,Q3105359,0,1,2,2006 album by Abd al Malik,,Q482994,,
+£,Gibraltar,Q124098984,0,1,2,musical work composed by DJ Ritmin,,Q105543609,,
+£,Gibraltar,Q28162389,0,1,2,"lieu-dit in Lac-Saint-Joseph, Quebec, Canada",,Q181307,,
+£,Gibraltar men's national football team,Q583626,0,1,2,men's national association football team representing Gibraltar,Gibraltar national association football team|Gibraltar national football team|Gibraltar men's national association football team,Q135408445,Q1194951,Gibraltar national football team
+£,Rock of Gibraltar,Q690347,0,1,2,monolithic limestone promontory located in the British overseas territory of Gibraltar,Calpe|Jabel-al-Tariq|Calpë|Gibraltar,Q1245089|Q570116|Q1404150,,Rock of Gibraltar
+£,Gibraltar,Q105978792,0,1,2,2021 song by SCH,,Q55850593,,
+£,Gibraltar,Q1885223,0,1,2,"civil town in Door County, Wisconsin","Town of Gibraltar|Gibraltar, WI",Q15219655,,"Gibraltar, Wisconsin"
+£,Gibraltar International Airport,Q501083,0,1,2,British airport in Gibraltar,Gibraltar Airport|GIB|LXGB|Gib Airport|Joshua Hassan Gibraltar International Airport,Q644371|Q94993988|Q135232953|Q104905692,,Gibraltar International Airport
+£,Government of Gibraltar,Q128986,0,1,2,democratically elected government of the British Overseas Territory,Her Majesty's Government of Gibraltar|His Majesty's Government of Gibraltar|Gibraltar government,Q7188,,Government of Gibraltar
+Government of Gibraltar,Government of Gibraltar,Q128986,0,2,1,democratically elected government of the British Overseas Territory,Her Majesty's Government of Gibraltar|His Majesty's Government of Gibraltar|Gibraltar government,Q7188,,Government of Gibraltar
+United States dollar,United States dollar,Q4917,1,0,1,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+United States dollar,dollar coin,Q1186710,1,0,1,one-dollar coin issued by the United States,silver dollar|gold dollar|golden dollar|United States dollar coin|US dollar coin|U.S. dollar coin|US silver dollar,Q113813711,Q3253199,Dollar coin (United States)
+United States dollar,current United States dollar per gallon,Q64725760,1,0,1,repesenting the value of something per gallon in current United States dollars,United States dollar per gallon|dollar per gallon,Q47574,,
+United States dollar,United States dollar (currency unit),Q61692784,1,0,1,currency unit and unit of account of the United States Dollar (currency),,Q61196211,,
+United States dollar,history of the United States dollar,Q12808238,1,0,1,aspect of history,history of the US dollar|history of the U.S. dollar|history of the U. S. dollar|the United States dollar history|United States dollar history|USD history,Q17524420,,History of the United States dollar
+United States dollar,US Dollar (Next day),Q114778501,1,0,1,"Distinct currency with ISO 4217 code ""USN"", defined for trade purposes",US Dollar [Next day]|United States dollar (Next day)|U.S. Dollar (Next day)|USN,Q1148747|Q14083,,US dollar (Next day)
+United States dollar,Federal Reserve System,Q53536,1,0,2,central banking system of the United States,Federal Reserve|Fed|The Fed|FRS,Q66344|Q1752939,,Federal Reserve
+United States dollar,Federal Reserve System,Q104713048,1,0,2,subject category of the 20th Century Press Archives,n24 Sm502 (E15) Federal Reserve System,Q92707903,,
+United States dollar,history of the Federal Reserve System,Q16843806,1,0,2,aspect of history,the Federal Reserve System history|Federal Reserve System history,Q17524420,,History of the Federal Reserve System
+United States dollar,Federal Reserve System conspiracy theories,Q59780345,1,0,2,conspiracy theory,,Q159535,,
+United States dollar,Board of Governors of the Federal Reserve System,Q5440396,1,0,2,governing body of the U.S. Federal Reserve System,Federal Reserve Board|Federal Reserve Board of Governors|Board of Governors of the Federal Reserve System (U.S.)|FBR|US Federal Reserve Board,Q1752939|Q188628,,Federal Reserve Board of Governors
+United States dollar,"January 1, 1792",Q69192218,1,0,2,date in Gregorian calendar,1 January 1792|1792-01-01,Q2150|Q47150325,,
+dollar sign,dollar sign,Q11110,1,1,1,monetary symbol used in many national currencies,peso sign|$|cifrao sign,Q308229,,Dollar sign
+dollar sign,$,Q87495792,1,1,1,"dollar sign (U+0024), peso, milreis, escudo, or piastre : symbol used for many currencies named peso in Latin America; the glyph may have one or two vertical bars",U+0024|$|DOLLAR SIGN|dollar symbol|peso sign|milreis sign|escudo sign|piastre sign,Q29654788,Q138876000,
+dollar sign,Dollar Sign,Q27960553,1,1,1,painting by Andy Warhol,,Q3305213,,
+dollar sign,Dollar Sign,Q119396551,1,1,1,"painting by Andy Warhol (1928–1987), Tate",,Q3305213,,
+dollar sign,Dollar Sign,Q124841309,1,1,1,episode of Instant Mom (S3 E21),,Q21191270,,
+dollar sign,💲,Q87577753,1,1,1,"heavy dollar sign (U+1F4B2): currency symbol, emoji",U+1F4B2|💲|HEAVY DOLLAR SIGN|heavy dollar sign emoji|dollar sign emoji|dollar emoji|$ emoji,Q29654788,Q1049294,
+dollar sign,Dollar Signs,Q21522022,1,1,1,single,,Q134556,,Dollar Signs
+dollar sign,Dollar Signs,Q118903168,1,1,1,American rock band,,,,Dollar Signs (band)
+dollar sign,United States dollar,Q4917,1,1,2,official currency of the United States,USD|$|US$|American dollar|US $|U.S. Dollar|U. S. Dollar|US-$|dollar|dollars|US dollar|buck|greenback|$USD|USD$|US dollars|United States dollars|American dollars|USA dollar|USA dollars|American money,Q8142|Q14083|Q756202,,United States dollar
+dollar sign,dollar coin,Q1186710,1,1,2,one-dollar coin issued by the United States,silver dollar|gold dollar|golden dollar|United States dollar coin|US dollar coin|U.S. dollar coin|US silver dollar,Q113813711,Q3253199,Dollar coin (United States)
+dollar sign,current United States dollar per gallon,Q64725760,1,1,2,repesenting the value of something per gallon in current United States dollars,United States dollar per gallon|dollar per gallon,Q47574,,
+dollar sign,United States dollar (currency unit),Q61692784,1,1,2,currency unit and unit of account of the United States Dollar (currency),,Q61196211,,
+dollar sign,history of the United States dollar,Q12808238,1,1,2,aspect of history,history of the US dollar|history of the U.S. dollar|history of the U. S. dollar|the United States dollar history|United States dollar history|USD history,Q17524420,,History of the United States dollar
+dollar sign,US Dollar (Next day),Q114778501,1,1,2,"Distinct currency with ISO 4217 code ""USN"", defined for trade purposes",US Dollar [Next day]|United States dollar (Next day)|U.S. Dollar (Next day)|USN,Q1148747|Q14083,,US dollar (Next day)
+dollar sign,Federal Reserve System,Q53536,1,1,2,central banking system of the United States,Federal Reserve|Fed|The Fed|FRS,Q66344|Q1752939,,Federal Reserve
+dollar sign,Federal Reserve System,Q104713048,1,1,2,subject category of the 20th Century Press Archives,n24 Sm502 (E15) Federal Reserve System,Q92707903,,
+dollar sign,history of the Federal Reserve System,Q16843806,1,1,2,aspect of history,the Federal Reserve System history|Federal Reserve System history,Q17524420,,History of the Federal Reserve System
+dollar sign,Federal Reserve System conspiracy theories,Q59780345,1,1,2,conspiracy theory,,Q159535,,
+dollar sign,Board of Governors of the Federal Reserve System,Q5440396,1,1,2,governing body of the U.S. Federal Reserve System,Federal Reserve Board|Federal Reserve Board of Governors|Board of Governors of the Federal Reserve System (U.S.)|FBR|US Federal Reserve Board,Q1752939|Q188628,,Federal Reserve Board of Governors
+dollar sign,"January 1, 1792",Q69192218,1,1,2,date in Gregorian calendar,1 January 1792|1792-01-01,Q2150|Q47150325,,
+Federal Reserve System,Federal Reserve System,Q53536,1,2,1,central banking system of the United States,Federal Reserve|Fed|The Fed|FRS,Q66344|Q1752939,,Federal Reserve
+Federal Reserve System,Federal Reserve System,Q104713048,1,2,1,subject category of the 20th Century Press Archives,n24 Sm502 (E15) Federal Reserve System,Q92707903,,
+Federal Reserve System,history of the Federal Reserve System,Q16843806,1,2,1,aspect of history,the Federal Reserve System history|Federal Reserve System history,Q17524420,,History of the Federal Reserve System
+Federal Reserve System,Federal Reserve System conspiracy theories,Q59780345,1,2,1,conspiracy theory,,Q159535,,
+Federal Reserve System,Board of Governors of the Federal Reserve System,Q5440396,1,2,1,governing body of the U.S. Federal Reserve System,Federal Reserve Board|Federal Reserve Board of Governors|Board of Governors of the Federal Reserve System (U.S.)|FBR|US Federal Reserve Board,Q1752939|Q188628,,Federal Reserve Board of Governors
+Federal Reserve System,Federal Reserve Bank,Q4481787,1,2,2,regional bank of the U.S. Federal Reserve System,Federal Reserve District bank,Q17197366,Q22687|Q18761864|Q66344,Federal Reserve Bank
+Federal Reserve System,Chair of the Federal Reserve,Q2666591,1,2,2,head of the United States Federal Reserve System,Chair of the Board of Governors of the Federal Reserve System|Fed Chair|Chair of the Fed|Federal Reserve chair|Fed chairman|Fed chairwoman,Q4164871|Q294414|Q140686,,Chair of the Federal Reserve
+Federal Reserve System,Federal Reserve Bank of New York,Q115860,1,2,2,American bank,New York Fed|FRBNY,Q4481787,,Federal Reserve Bank of New York
+Federal Reserve System,Federal Reserve Bank of Minneapolis,Q2503528,1,2,2,member Bank of Federal Reserve,Minneapolis Fed|FRB Minneapolis|Federal Reserve Bank of Minneapolis Ninth Federal Reserve District,Q4481787|Q2085381|Q43229,,Federal Reserve Bank of Minneapolis
+Federal Reserve System,Federal Reserve Bank of Chicago,Q965251,1,2,2,"Federal Reserve Bank in Chicago, United States",Chicago Fed|FRB Chicago,Q4481787|Q43229,,Federal Reserve Bank of Chicago
+Federal Reserve System,Federal Reserve Bank of Boston,Q4384803,1,2,2,branch of the Federal Reserve covering New England,Boston Fed|FRBB,Q4481787|Q43229,,Federal Reserve Bank of Boston
+Federal Reserve System,Federal Reserve Bank of St. Louis,Q4383730,1,2,2,"Federal Reserve Bank responsible for the eighth district, headquartered in St. Louis, United States",St. Louis Fed|FRB St. Louis|Federal Reserve Bank of Saint Louis,Q4481787|Q43229,,Federal Reserve Bank of St. Louis
+Federal Reserve System,Federal Reserve Bank of Cleveland,Q4384538,1,2,2,"Federal Reserve Bank in Cleveland, United States",Cleveland Fed|FRB Cleveland,Q4481787|Q43229,,Federal Reserve Bank of Cleveland
+Federal Reserve System,Federal Reserve Police,Q1400066,1,2,2,"law enforcement unit of the Federal Reserve System, the central banking system of the United States",U.S. Federal Reserve Police|United States Federal Reserve Police,Q20858006|Q7574898|Q20821044,,Federal Reserve Police
+Federal Reserve System,United States Federal Reserve Circular No. 1248,Q19113921,1,2,2,,,Q3331189,,
+Federal Reserve System,Federal Reserve Bank,Q107322036,1,2,2,"bank building at 2200 N. Pearl St. Dallas, Texas",,Q18761864,,
+Federal Reserve System,Federal Reserve Bank of Kansas City,Q2166296,1,2,2,"Federal Reserve Bank in Kansas City, United States",Kansas City Fed|FRB Kansas City|FRBKC,Q4481787|Q43229,,Federal Reserve Bank of Kansas City
+Federal Reserve System,Federal Reserve Bank of Atlanta,Q3267952,1,2,2,"Federal Reserve Bank in Atlanta, Georgia, United States",Atlanta Fed,Q4481787|Q43229,,Federal Reserve Bank of Atlanta

@@ -1,0 +1,26 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Iidva Bog,Iidva Bog,Q12364320,0,0,1,bog in Estonia,,Q1681353,,
+Iidva Bog,Iidva Nature Reserve,Q51802452,0,0,2,protected area in Estonia,,Q473972,,Iidva Nature Reserve
+Iidva Nature Reserve,Iidva Nature Reserve,Q51802452,0,1,1,protected area in Estonia,,Q473972,,Iidva Nature Reserve
+Iidva Nature Reserve,Iidva Bog,Q12364320,0,1,2,bog in Estonia,,Q1681353,,
+Teringi Bog,Teringi Bog,Q12376764,1,0,1,bog in Estonia,,Q1681353,,
+Teringi Bog,Teringi Nature Park,Q18626375,1,0,2,protected area in Estonia,,Q473972,,Teringi Landscape Conservation Area
+Teringi Nature Park,Teringi Nature Park,Q18626375,1,1,1,protected area in Estonia,,Q473972,,Teringi Landscape Conservation Area
+Teringi Nature Park,Teringi Bog,Q12376764,1,1,2,bog in Estonia,,Q1681353,,
+Marimetsa Bog,Marimetsa Bog,Q12369799,2,0,1,bog in Estonia,,Q1681353,,
+Marimetsa Bog,Marimetsa Nature Reserve,Q16411425,2,0,2,protected area in Estonia,,Q473972,,Marimetsa Nature Reserve
+Marimetsa Nature Reserve,Marimetsa Nature Reserve,Q16411425,2,1,1,protected area in Estonia,,Q473972,,Marimetsa Nature Reserve
+Marimetsa Nature Reserve,Marimetsa Bog,Q12369799,2,1,2,bog in Estonia,,Q1681353,,
+Kesu Bog,Kesu Bog,Q12366896,3,0,1,bog in Estonia,,Q1681353,,
+Avaste Nature Reserve,Avaste Nature Reserve,Q16411108,3,1,1,nature reserve in Estonia,,Q473972,,Avaste Nature Reserve
+Avaste Nature Reserve,Kesu Bog,Q12366896,3,1,2,bog in Estonia,,Q1681353,,
+Avaste Nature Reserve,nature reserve,Q179049,3,1,2,"protected area for flora, fauna or features of geological interest",natural reserve|nature preserve|natural preserve|bioreserve|preserve|preserves|wildlife preserve,,Q473972|Q1286517|Q386426,Nature reserve
+Avaste Nature Reserve,nature area,Q10594991,3,1,2,"general name for all kinds of areas with striking features when it comes to flora, fauna, geological or landscape conditions, protected and not protected",nature reserve|national park|natural landscape|nature park|natural monument,,Q4835091|Q386426,
+Avaste Nature Reserve,nature reserve,Q28055269,3,1,2,type of protected area in Latvia‎,,Q108028209,Q16362115|Q179049,
+Avaste Nature Reserve,nature reserve,Q104804750,3,1,2,type of nature reserve in Quebec (Canada),nature reserve in Quebec,Q108028209,Q179049|Q65498881,
+Avaste Nature Reserve,nature reserve,Q45754521,3,1,2,type of protected area in Estonia,,Q108028209,Q3622110|Q179049,
+Avaste Nature Reserve,Naturschutzgebiet,Q759421,3,1,2,"nature reserve in Germany, category of protected area within German Federal Conservation Law",NSG|DE02|nature reserve (Germany),Q74817647|Q108028209,Q179049|Q20296613|Q386426,Naturschutzgebiet
+Avaste Nature Reserve,nature reserve,Q1627961,3,1,2,nature reserve designation in Austria,naturschutzgebiet,Q108028209,Q473972|Q361733,
+Avaste Nature Reserve,nature reserve in Poland,Q9309832,3,1,2,national designation of Poland for protected areas,nature reserves in Poland,Q108028209,Q179049|Q3564598,Nature reserves in Poland
+Avaste Nature Reserve,nature reserve,Q108059863,3,1,2,national designation of Norway for protected areas,,Q108028209,Q7251280|Q179049,
+Avaste Nature Reserve,nature reserve in the Czech Republic,Q21101734,3,1,2,national designation of Czech Republic for protected areas registered in the CDDA Nationally Designated Areas inventory,CZ02,Q74817647|Q108028209,Q179049,

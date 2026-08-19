@@ -1,0 +1,40 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+PFLAG,PFLAG,Q2706440,0,0,1,non-profit organisation in the USA,"Parents, Families and Friends of Lesbians and Gays|P-FLAG",Q163740|Q3117735|Q64606659,,PFLAG
+PFLAG,Pflager,Q37199394,0,0,1,family name,,Q101352,,
+PFLAG,nurse,Q186360,0,0,1,type of health care provider,nurses|nosileytis,Q3922583|Q12737077|Q192581,Q108290334,Nurse
+PFLAG,PFLAG China,Q7422566,0,0,1,organization,,Q43229,,PFLAG China
+PFLAG,PFLAG Canada,Q7119101,0,0,1,,,Q43229,,PFLAG Canada
+PFLAG,PFLAG Las Vegas,Q116525550,0,0,1,"chapter of PFLAG located in Las Vegas, Nevada",,Q163740|Q67027287,,
+PFLAG,Pfläging,Q120671672,0,0,1,family name,,Q101352,,
+PFLAG,PFLAG,Q22350321,0,0,1,Wikimedia disambiguation page,,Q4167410,,PFLAG (disambiguation)
+PFLAG,Pfläging,Q96657690,0,0,1,Wikimedia disambiguation page,,Q4167410,,
+New York City,New York City,Q60,0,1,1,most populous city in the United States,"the five boroughs|City of New York|NY City|New York City, New York|New York, NY|New York City, NY|Capital of the World|New York City (NYC)|New York (city)|city of New York|Center of the Universe|New York City, USA|New York City, United States of America|New York, New York, USA|New York (NY)|New York, N.Y.|NY, NY|New York City, United States|N. Y., N. Y.|New York City, New York, United States|Empire City",Q208511|Q2264924|Q1093829|Q515|Q1549591|Q51929311|Q15063611|Q200250|Q174844,,New York City
+New York City,New York City,Q7013143,0,1,1,1984 video game,,Q7889,,New York City (video game)
+New York City,New York City,Q116672088,0,1,1,2023 studio album by The Men,,Q482994,,
+New York City,NY City,Q135264430,0,1,1,Tony Hawk's Pro Skater 2 level,New York|New York City,Q1046315,,
+New York City,New York City Subway,Q7733,0,1,1,rapid transit system in New York City,New York Subway|NYC Subway,Q5503,,New York City Subway
+New York City,New York City Public Schools,Q408230,0,1,1,department of the government of New York City,NYCDOE|NYC DOE|New York City Department of Education|NYC Department of Education|NYC Public Schools,Q2269756|Q15726209|Q131766096,,New York City Department of Education
+New York City,New York Public Library,Q219555,0,1,1,public library system in New York City,"New York Library|The New York Public Library|New York City Public Library|New York City Library|NY Public Library|NYPL|nypl.org|The New York Public Library, Astor, Lenox and Tilden Foundations|New York Public Library, Astor, Lenox and Tilden Foundations",Q26271642|Q28564|Q163740,,New York Public Library
+New York City,New York City Transit Authority,Q1325591,0,1,1,bus and subway service operator,NYCTA|MTA New York City Transit|The New York City Transit Authority|The TA,Q7835189,,New York City Transit Authority
+New York City,New York City,Q18710663,0,1,1,"painting by Piet Mondrian at the Musée national d’Art moderne, Paris, France",New York City I|piet monderai,Q3305213,,New York City (painting)
+New York City,New York City,Q7013127,0,1,1,band,,Q215380,,New York City (band)
+Sponsor,Sponsor,Q4049955,1,0,1,genus of insects,,Q16521,,Sponsor (beetle)
+Sponsor,donor,Q1968442,1,0,1,"person who donates, usually money",founder|funder|sponsor,Q12737077,Q4887411|Q3778211|Q43667189,Donor
+Sponsor,sponsor,Q152478,1,0,1,"commercial supporter of an event, activity, or person",patron,Q12737077,Q3778211|Q24229398,Sponsor (commercial)
+Sponsor,sponsored top-level domain,Q29380,1,0,1,top-level domain that has a sponsor representing a specific community,sponsored TLD|sTLD,,Q29469,Sponsored top-level domain
+Sponsor,research sponsor,Q106909028,1,0,1,"organization or person who initiates, authorizes, and controls a research study",sponsor|study sponsor|clinical trial sponsor|trial sponsor|institutional sponsor|sponsoring organization,,Q214339|Q43229,
+Sponsor,funder,Q106905641,1,0,1,any entity providing money,sponsor|financier|bill payer|grant maker|grantmaker,Q214339,Q16334295,
+Sponsor,sponsor,Q7579032,1,0,1,person who introduces a bill in a legislature,bill sponsor|legislative sponsor,Q214339,,Sponsor (legislative)
+Sponsor,Sponsor,Q109317306,1,0,1,2022 South Korean TV series,,Q5398426,,Sponsor (TV series)
+Sponsor,SponsorBlock,Q103887994,1,0,1,browser extension to block sponsored segments on YouTube videos,Sponsor Block,Q874411|Q506883|Q5583816|Q15008061,,
+Sponsor,Sponsor purpureipennis,Q28368582,1,0,1,species of beetle,,Q16521,,
+Sponsor,sponsorship,Q10346136,1,0,2,"being a sponsor, aid or support provided by a sponsor in exchange for advertising",,,Q1914636,Sponsorship
+Sponsor,Sponsorship scandal,Q3474981,1,0,2,Canadian government scandal,,,,Sponsorship scandal
+Sponsor,Sponsorships in the domaine de Versailles,Q3332179,1,0,2,,,,,
+Sponsor,Funding bias,Q5509029,1,0,2,tendency of a scientific study to support the interests of its funder,sponsorship bias|funding outcome bias|funding publication bias|funding effect,Q742736,,Funding bias
+Sponsor,Sponsorship broker,Q7579041,1,0,2,individual or agency that secures funding for properties,,,,Sponsorship broker
+Sponsor,sponsorship in Italian football,Q3966972,1,0,2,,,,Q10346136,
+Sponsor,Sponsorship and Cosponsorship of House Bills,Q59561787,1,0,2,Congressional Research Service report,,Q6451276,,
+Sponsor,Sponsorship : a behavioural analysis,Q112850005,1,0,2,1999 master's thesis by Garry Thorpe at Massey University,,Q1907875,,
+Sponsor,sponsor chair,Q125207972,1,0,2,sponsor chair of an academic conference,sponsorship chair,,Q133754510,
+Sponsor,sports sponsorship,Q136445648,1,0,2,,sponsorship of sports,,Q10346136,

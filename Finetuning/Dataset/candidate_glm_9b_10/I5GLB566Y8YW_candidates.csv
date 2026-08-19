@@ -1,0 +1,290 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Fulda,Fulda,Q3963,0,0,1,"seat of Landkreis Fulda and city in Hesse, Germany",,Q134626|Q3678424|Q42744322,,Fulda
+Fulda,Fulda,Q28126268,0,0,1,family name,,Q101352,,
+Fulda,Fulda,Q1760233,0,0,1,genus of insects,,Q16521,,Fulda (skipper)
+Fulda,Fulda,Q7899,0,0,1,"district in Hesse, Germany",Fulda (district),Q61980413|Q106517174,,Fulda (district)
+Fulda,Fulda,Q6434,0,0,1,"head river of the Weser in Hesse, Germany",Fulda of the Weser|Fulda River,Q4022,,Fulda (river)
+Fulda,Fulda,Q112325325,0,0,1,Frankenthal-class minehunter,,Q2074370,,
+Fulda,Fulda,Q1012293,0,0,1,"city in Minnesota, United States","Fulda, Minnesota|Fulda, MN",Q1093829,,"Fulda, Minnesota"
+Fulda,Fulda,Q1008186,0,0,1,federal electoral district of Germany,constituency for the Bundestag election Fulda,Q11703715,,Fulda (electoral district)
+Fulda,Fulda monastery,Q661240,0,0,1,abbey in Germany,Princely Abbey of Fulda,Q44613|Q160742|Q2742167,,Princely Abbey of Fulda
+Fulda,Fulda railway station,Q463931,0,0,1,"railway station in Fulda, Germany",Fulda station,Q55490|Q27996466,,Fulda station
+Fulda,Fulda University of Applied Sciences,Q453821,0,0,2,German university,,Q1365560|Q23002037|Q875538,,Fulda University of Applied Sciences
+Ruhr,Ruhr,Q1664,1,0,1,river in Germany,,Q4022,,Ruhr (river)
+Ruhr,Ruhr University Bochum,Q309948,1,0,1,university in Germany,Ruhr-Universität Bochum|Ruhr-Universitat Bochum|RUB,Q875538|Q641347|Q1767829,,Ruhr University Bochum
+Ruhr,Ruhr,Q37489155,1,0,1,family name,,Q101352,,
+Ruhr,Ruhrstadion,Q373769,1,0,1,"football stadium in Bochum, Germany",rewirpowerSTADION,Q1154710,,Ruhrstadion
+Ruhr,Ruhr,Q151993,1,0,1,"urban area in North Rhine-Westphalia, Germany",Ruhr district|Ruhr region|Ruhr area|Ruhrgebiet,Q245260|Q1907114|Q3175539,,Ruhr
+Ruhr,Ruhr,Q60689985,1,0,1,"protected area in the European Union defined by the habitats directive in Nordrhein-Westfalen, Germany",,Q796174|Q60534895,,
+Ruhr,Ruhrverband,Q2175142,1,0,1,regional water board in Germany,Ruhrverband (Germany),Q13138621|Q43229,,
+Ruhr,Ruhr-Gymnasium Witten,Q2175023,1,0,1,school in Witten,,Q1542966,,
+Ruhr,RUHR.2010 – Kulturhauptstadt Europas,Q324137,1,0,1,series of cultural events in the Ruhr held in 2010,,Q15900616,,Ruhr.2010
+Ruhr,RE 16,Q429055,1,0,1,German regional express service in North Rhine-Westfalen,Ruhr-Sieg-Express,Q2138247,,Ruhr-Lenne-Express
+Ruhr,Ruhrgebiet Geopark,Q1485794,1,0,2,"geopark in North Rhine-Westphalia, Germany",Ruhr Area Geopark,Q1324355,,
+Ruhr,Ruhrdeutsch,Q151660,1,0,2,,,Q1047050|Q455374,Q188,Ruhrdeutsch
+Ruhr,association football in the Ruhr area,Q1478097,1,0,2,history and role of association football in the Ruhr area,,,,
+Ruhr,Ruhrgebiet-Gesetz,Q2175072,1,0,2,,,Q1802417,,
+Ruhr,Regionalverband Ruhr,Q49849,1,0,2,"association of some independent cities and rural districts in North Rhine-Westphalia, Germany",Ruhr Regional Association|RVR,Q231838|Q1643757,,
+Ems,Ems,Q37257441,2,0,1,family name,,Q101352,,
+Ems,Ems,Q32750803,2,0,1,river in Germany,,Q4022,,
+Ems,Ems,Q1648,2,0,1,river in northwestern Europe in Germany and the Netherlands,,Q4022,,Ems (river)
+Ems,emergency medical services,Q860447,2,0,1,type of emergency service dedicated to providing out-of-hospital acute medical care and transport to definitive care,EMS|🚑|medical rescue|paramedic service|paramedics,,Q55698119|Q814610,Emergency medical services
+Ems,Bad Ems,Q490670,2,0,1,"seat of Rhein-Lahn-Kreis and town in Rhineland-Palatinate, Germany",Ems,Q134626|Q6882870|Q3957|Q42744322,,Bad Ems
+Ems,eosinophilia-myalgia syndrome,Q3508806,2,0,1,Human disease,"Eosinophilia myalgia syndrome|EMS|L-tryptophan induced EMS|Severe muscle pain and abnormally high eosinophils|Syndrome with inflammatory and autoimmune components that affect the skin, fascia, muscle, nerve, blood vessels, lung, and heart",Q112193867,Q505142,Eosinophilia–myalgia syndrome
+Ems,EMS magazine,Q27721896,2,0,1,medical journal,EMS Mag,Q5633421,,
+Ems,European Mathematical Society,Q1376788,2,0,1,learned society,EMS,Q112667618|Q96888669,,European Mathematical Society
+Ems,Emskirchen,Q505214,2,0,1,market municipality of Germany,,Q100341898|Q116457956,,Emskirchen
+Ems,Domat/Ems,Q68266,2,0,1,municipality in Switzerland,Ems|Domat|Domat-Ems|Domat/Ems GR,Q70208,,Domat/Ems
+Ems,energy,Q11379,2,0,2,"quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light",,Q107715|Q1554231,Q181175|Q3386703,Energy
+Ems,Energy,Q15765728,2,0,2,scientific journal,Energy (Oxford),Q5633421|Q41298,,Energy (journal)
+Ems,Energy Research & Social Science,Q27727257,2,0,2,journal,Energy Res Soc Sci|Energy Research  Social Science,Q5633421|Q737498,,Energy Research & Social Science
+Ems,energy efficiency,Q192704,2,0,2,ratio between the useful energy output and the input of a machine,energy conversion efficiency,,Q1034411|Q126818,Energy conversion efficiency
+Ems,Energy,Q115819814,2,0,2,2022 song by Beyoncé featuring Beam,,Q105543609,,Energy (Beyoncé song)
+Ems,Energy,Q12482493,2,0,2,2006 studio album by The Upstairs,,Q482994,,
+Ems,Energy,Q12580966,2,0,2,2008 studio album by Mighty Mouth,,Q482994,,
+Ems,Energy,Q123785406,2,0,2,vocal track by 9ice; 2009 studio recording,,Q55850593,,
+Ems,force field,Q1341441,2,0,2,science fiction concept,force shield|forcefield|forceshield|energy shield|deflector shield|defence shield,Q1047698|Q1055307,Q15708422,Force field (fiction)
+Ems,form of energy,Q3935690,2,0,2,concept in physical sciences,energy,Q151885|Q19478619,Q112234259,Forms of energy
+Ems,electric current,Q11651,2,0,2,flow of electric charge,current|electrical current|electron current,,Q56298508|Q12725,Electric current
+Ems,electric current,Q29996,2,0,2,"base quantity of the International System of Quantities (ISQ), measured in ampere (A)",amount of electric current|quantity of electric current,Q110653654|Q30337748,Q107715|Q181175,Electric current intensity
+Ems,Electric Current,Q14901501,2,0,2,1906 film by Segundo de Chomón,Le courant électrique,Q24862,,
+Ems,electric current density,Q234072,2,0,2,electric current per area of cross section,areic electric current|current density|electrical current density,,Q107715|Q2672914|Q67598689,Current density
+Ems,current transformer,Q856535,2,0,2,current transformer,CT|electric current transformer,,Q35825432|Q11658|Q1319381|Q1924407,Current transformer
+Ems,Electric Currents in Geospace and Beyond,Q111634485,2,0,2,scientific article published on 17 April 2018,,Q3331189,,
+Ems,electric current phasor,Q78514596,2,0,2,complex representation of an oscillating electric current,current phasor,,Q107715|Q827674|Q29996|Q119285677,
+Ems,electric current of ion,Q108167057,2,0,2,electric current carried by an ion type,,,Q29996,
+Ems,"Electric Currents, 1900–1940",Q110953321,2,0,2,2012 exhibition at Museum of Modern Art,,Q667276|Q1656682,,
+Ems,ELECTRIC CURRENT (NAID 105690),Q67523545,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Ems,electric charge,Q1111,2,0,2,physical property that quantifies an object's interaction with electric fields,electrical charge|charge,,Q181175|Q107715|Q117865208|Q73792,Electric charge
+Ems,electric charge density,Q69425629,2,0,2,electric charge per volume,volumic electric charge|volume density of charge|volumic charge|charge density|volume charge density|volumetric charge density|volumetric electric charge|electric charge per volume,,Q107715|Q744771|Q67598515|Q181175,Volume charge density
+Ems,charge capacity,Q18021646,2,0,2,amount of electric charge a battery can deliver from its fully-charged state,battery capacity|electric charge capacity|capacity|battery charge capacity,,Q1111|Q11869795,
+Ems,unit of electric charge density,Q126917363,2,0,2,unit for reporting measurement of electric charge density,electric charge density unit,,Q47574,
+Ems,Electric charge management system and method for a vehicle,Q119532704,2,0,2,US patent 11192466,,Q43305660,,
+Ems,unit of electric polarization,Q139054791,2,0,2,unit for reporting electric polartization,electric polarization unit|electric charge surface density unit,,Q47574,
+Ems,Electric charge effects on phospholipid headgroups. Phosphatidylcholine in mixtures with cationic and anionic amphiphiles,Q30976803,2,0,2,scientific article published on 01 September 1989,,Q13442814,,
+Ems,Electric charge stoicheiometry of calcium translocation in rat liver mitochondria,Q39136505,2,0,2,"scientific article published on February 1, 1977",,Q13442814,,
+Ems,Electric charge stoichiometry of calcium translocation in mitochondria,Q39163568,2,0,2,"scientific article published on August 22, 1977",,Q13442814,,
+Ems,Electric charge of the neutrinos from SN1987A,Q59079760,2,0,2,scientific article published in Nature,,Q13442814,,
+Dolra,Dolra,Q24716647,3,0,1,river in Georgia,,Q4022,,
+Dolra,Dolra,Q4937099,3,0,1,glacier in Georgia,,Q35666,,Dolra
+Aksu,Aksu,Q982404,4,0,1,"village in Hasankeyf, Batman, southeastern Turkey",,Q1529096,,"Aksu, Hasankeyf"
+Aksu,Aksu,Q6096671,4,0,1,"village in Susuz, Kars, northeastern Turkey",,Q1529096,,
+Aksu,Aksu,Q6067532,4,0,1,"mahalle (administrative quarter) in Atakum, Samsun, northern Turkey",,Q17051044,,
+Aksu,Aksu,Q6945039,4,0,1,"mahalle (administrative quarter) in İspir, Erzurum, eastern Turkey",,Q17051044,,"Aksu, İspir"
+Aksu,Aksu,Q6945588,4,0,1,"village in Araç, Kastamonu, north-central Turkey",,Q1529096,,"Aksu, Araç"
+Aksu,Aksu,Q3675958,4,0,1,"mahalle (administrative quarter) in Mazıdağı, Mardin, southeastern Turkey",,Q17051044,,"Aksu, Mazıdağı"
+Aksu,Aksu,Q6921949,4,0,1,"village in central district, Hakkâri, southeastern Turkey",,Q1529096,,"Aksu, Hakkâri"
+Aksu,Aksu,Q10731389,4,0,1,"mahalle (administrative quarter) in Tortum, Erzurum, eastern Turkey",,Q17051044,,
+Aksu,Aksu,Q6945218,4,0,1,"village in Suşehri, Sivas, central Turkey",,Q1529096,,
+Aksu,Aksu,Q421648,4,0,1,county-level city of Xinjiang,"Aqsu|Aksu, Xinjiang|Aksu, China|Aksu City|City of Aksu|Akesu|A-k'e-su|Akesu Shi|A-k'e-su Shih|Ak-sou|Wên-su|Wensu|Ak-su",Q1070990,,Aksu City
+Aksu,Aksu Prefecture,Q421638,4,0,2,prefecture,,Q1045608,,Aksu Prefecture
+Aksu,COVID-19 pandemic in Aksu Prefecture,Q104719694,4,0,2,,"Aksu Prefecture COVID-19 pandemic|2020 Aksu Prefecture COVID-19 pandemic|COVID pandemic in Aksu Prefecture|COVID-19 pandemic in Aksu Prefecture, People's Republic of China|COVID-19 pandemic in Aksu Prefecture, China",Q3241045|Q83741704,,
+Aksu,Aksu City Administration,Q27430659,4,0,2,"administrative division in Pavlodar Region, Kazakhstan",,Q129730229,,Aksu City Administration
+Aksu,Aksu City First Educational Training Center,Q58111457,4,0,2,"reeducation camp in Xinjiang, China",,Q152081,,
+Aksu,Aksu City Second Vocational Skill Education Training Center,Q58112786,4,0,2,"reeducation camp in Xinjiang, China",,Q152081,,
+Sandfjordelva,Sandfjordelva,Q19369136,5,0,1,river in Norway,,Q4022,,
+Sandfjordelva,Sandfjordelva,Q65926197,5,0,1,"river in Gamvik municipality, Norway",Sáttovuonjohka,Q4022,,
+Sandfjordelva,Sandfjordelva,Q19369135,5,0,1,"river near Makkaur in Båtsjord municipality, Norway",,Q4022,,
+Sandfjordelva,Sandfjordelva,Q44914769,5,0,1,"river in Berlevåg, Norway",,Q4022,,
+Sandfjordelva,Sandfjordelva basin,Q106522616,5,0,1,,,Q166620|Q285451,,
+Sandfjordelva,Sandfjordelva,Q19387609,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Mogocha,Mogocha,Q159134,6,0,1,"human settlement in Mogochinsky District, Zabaykalsky Krai, Russia",,Q192287|Q7930989,,Mogocha
+Mogocha,Mogocha,Q14623256,6,0,1,"river in Tver Oblast, Russia",Mogocha River,Q4022,,Mogocha (river)
+Mogocha,Mogocha,Q4299247,6,0,1,railway station,,Q55488,,
+Mogocha,Mogocha,Q37746332,6,0,1,"river in Amur Oblast, Russia",,Q4022,,
+Mogocha,Mogocha,Q36354565,6,0,1,river in Russia,,Q4022,,
+Mogocha,Mogochan,Q37751872,6,0,1,river in Russia,,Q4022,,
+Mogocha,Mogocha,Q4299246,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Buja,Buja,Q37531539,7,0,1,family name,,Q101352,,
+Buja,Bujumbura,Q3854,7,0,1,former capital of Burundi,Buja|Usumbura,Q515|Q1549591,,Bujumbura
+Buja,Buja,Q96652322,7,0,1,male given name,,Q12308941,,
+Buja,Buja,Q53229,7,0,1,Italian comune,,Q747074,,Buja
+Buja,Bujaleuf,Q1019953,7,0,1,"commune in Haute-Vienne, France",Bujaleu,Q484170,,Bujaleuf
+Buja,Bujar,Q20002102,7,0,1,male given name,,Q12308941,,Bujar
+Buja,Buja Bingemer,Q97143510,7,0,1,,,Q5,,
+Buja,Bujar Nishani,Q57526,7,0,1,Albanian politician (1966–2022),Bujar Faik Nishani,Q5,,Bujar Nishani
+Buja,Bujak,Q27876559,7,0,1,family name,,Q101352,,Bujak (surname)
+Buja,Bujar Alimani,Q12881335,7,0,1,Albanian film director,Buyar Alimani,Q5,,
+Buja,Bujak,Q12477433,7,0,2,"village in Central Lombok Regency, West Nusa Tenggara, Indonesia",Desa Bujak,Q26211545,,
+Buja,Buják,Q851701,7,0,2,municipality of Hungary,Bujak,Q2590631|Q486972|Q129676371,,Buják
+Buja,Buják,Q137704906,7,0,2,family name,,Q101352,,
+Buja,Bujakowski,Q105991636,7,0,2,family name,Bujakowski (family name)|Bujakowski (surname),Q101352|Q18972245,,
+Buja,Bujakі,Q6471194,7,0,2,village in Belarus,Buyakі,Q65661087,,
+Buja,Bujaki,Q21626312,7,0,2,village in Belarus,Buyaki,Q65661087,,
+Buja,"Bujak, Masovian Voivodeship",Q4986718,7,0,2,"village in Masovian, Poland",,Q3558970,,"Bujak, Masovian Voivodeship"
+Buja,Bujak,Q21718224,7,0,2,mountain in Bosnia and Herzegovina,,Q8502,,
+Buja,M. Arcta Słownik ilustrowany języka polskiego/Bujak,Q108975768,7,0,2,entry in the Illustrated dictionary of the Polish language (1916),,Q1580166,,
+Buja,Bujakovo zastávka railway halt,Q65162018,7,0,2,railway halt in Slovakia,,Q55678,,
+Buja,Bujakovo,Q12813780,7,0,2,,,Q486972|Q2983893,,
+Buja,Buyakova,Q19677815,7,0,2,"village in Buyakovskoe rural settlement, Russia",,Q532,,
+Shuya,Shuya,Q198358,8,0,1,"town in Ivanovo Oblast, Russia",Shuia,Q7930989|Q106389302,,"Shuya, Ivanovo Oblast"
+Shuya,Shuya,Q124417713,8,0,1,Soviet corvette,,Q170013,,
+Shuya,Shuya,Q779982,8,0,1,"river in Karelia, Russia, flows into Logmozero",Shuya River,Q4022,,Shuya (Karelia)
+Shuya,Shuya,Q998866,8,0,1,"river in Kostroma Oblast, Russia",Shuya River,Q4022,,Shuya (Kostroma Oblast)
+Shuya,Shuyskoye rural settlement,Q4527427,8,0,1,"human settlement in Prionezhsky District, Republic of Karelia, Russia",Shuyskoye selskoye poseleniye|Shuya rural settlement|Shuya,Q634099,,
+Shuya,4196 Shuya,Q152961,8,0,1,asteroid,(4196) Shuya|Shuya,Q3863,,4196 Shuya
+Shuya,"Shuya, Prionezhsky District",Q19916599,8,0,1,"human settlement in Prionezhsky District, Republic of Karelia, Russia",Shuya,Q2514025|Q486972,,
+Shuya,Shūya,Q106269781,8,0,1,undifferentiated Japanese kana male given name (しゅうや),Shuuya|Shuya,Q12308941|Q88865478,,
+Shuya,Shuya,Q4528196,8,0,1,"river in Vologda Oblast, Russia",,Q4022,,
+Shuya,Shuya,Q10615211,8,0,1,"river in Karelia, Russia, flows into the White Sea",,Q4022,,
+Malad River,Big Wood River,Q4086416,9,0,1,"river in Idaho, United States",Malad River|Malade River|Wood River|Poisonous Beaver River|Sickley River,Q4022,,Big Wood River
+Malad River,Malad River,Q4276496,9,0,1,"river in Gooding County, Idaho, United States",Big Wood River|Riviere Malades|Sickly River,Q4022,,"Malad River (Gooding County, Idaho)"
+Malad River,Malad River,Q6740934,9,0,1,"river in Oneida County, Idaho and Box Elder County, Utah in the United States",Big Malad River|Little Malad River|Malade River|Red Creek|Reed Creek|Roseaux River,Q4022,,Malad River (Idaho-Utah)
+Malad River,Camas Creek,Q5024988,9,0,1,"river in Emore, Camas, and Blaine counties in Idaho, United States",Malad River|Malade River,Q47521,,Camas Creek (Big Wood River tributary)
+Malad River,Malad River,Q61913416,9,0,1,"intermittent stream in Elsnore County, Idaho, United States",,Q16465938,,
+Malad River,Malad River,Q35465414,9,0,1,"river in Palawan, Philippines",,Q47521,,
+Malad River,Malad River,Q16463648,9,0,1,Wikimedia disambiguation page,,Q4167410,,Malad River
+Yeghegis,Yeghegis,Q610325,10,0,1,village in Vayots Dzor Province of Armenia,,Q28328984,,Yeghegis
+Yeghegis,Yeghegis,Q4177583,10,0,1,river in Armenia,,Q4022,,
+Yeghegis,Yeghegis Municipality,Q48862638,10,0,1,"rural community in Vayots Dzor, Armenia",,Q3685430,,Yeghegis Community
+Yeghegis,Yeghegis mold,Q42851694,10,0,1,cultural heritage monument of Armenia,,Q2065736|Q21507948,,
+Yeghegis,Yeghegis-1,Q131401112,10,0,1,rock shelter,,Q35509|Q839954,,
+Yeghegis,Yeghegis-1 rockshelter site: new investigations into the late Chalcolithic of Armenia,Q128902655,10,0,1,scholarly article,,Q13442814,,
+Yeghegis,Yeghegis,Q16380005,10,0,1,Wikimedia disambiguation page,,Q4167410,,
+Blackstone River,Blackstone River,Q880926,11,0,1,"river in Massachusetts and Rhode Island, United States",,Q4022,,Blackstone River
+Blackstone River,Blackstone River,Q4088437,11,0,1,"right headwater of Peel River in Yukon, Canada",,Q4022,,
+Blackstone River,Blackstone River,Q4923422,11,0,1,river in Canada,,Q4022,,Blackstone River (Alberta)
+Blackstone River,Blackstone River,Q22563457,11,0,1,"watercourse in Northwest Territories, Canada",,Q355304,,
+Blackstone River,Blackstone River,Q22563467,11,0,1,"watercourse in Ontario, Canada",,Q355304,,
+Blackstone River,Blackstone River,Q22563450,11,0,1,"watercourse in Alberta, Canada",,Q355304,,
+Blackstone River,Blackstone River Valley National Historical Park,Q19867408,11,0,1,,BLRV,Q15836337,,Blackstone River Valley National Historical Park
+Blackstone River,Blackstone River Valley National Heritage Corridor,Q4923425,11,0,1,area dedicated to the history of the early American Industrial Revolution,John H. Chafee Blackstone River Valley National Heritage Corridor,Q33216710,,Blackstone River Valley National Heritage Corridor
+Blackstone River,Blackstone River and Canal Heritage State Park,Q4923426,11,0,1,"state park in Massachusetts, United States",,Q37998360,,Blackstone River and Canal Heritage State Park
+Blackstone River,Blackstone River Bikeway,Q4923424,11,0,1,,,Q2116321,,Blackstone River Greenway
+Artyomovka,Artyomovka,Q4070430,12,0,1,"river in Primorsky Krai, Russia",Artëmovka,Q4022,,
+Artyomovka,Artyomovka,Q64903138,12,0,1,,,Q22580836|Q16352482,,
+Artyomovka,Artyomovka Reservoir,Q19907165,12,0,1,"reservoir in Primorsky Krai, Russia",,Q131681,,
+Vorona River,Vorona River,Q4016460,13,0,1,river in Romania,,Q4022,,Vorona (Siret)
+Vorona River,Vorona River,Q7941834,13,0,1,Wikimedia disambiguation page,,Q4167410,,Vorona River
+Vorona River,Voronezh,Q847893,13,0,2,"river in Tambov, Lipetsk, and Voronezh Oblasts, Russia",Voronezh River,Q4022,,Voronezh (river)
+Vorona River,Voronezh,Q3426,13,0,2,capital city of Voronezh Oblast in central Russia,"Voronezh, Russia|Voronezh, Voronezh Oblast",Q1549591|Q7930989|Q97660032,,Voronezh
+Vorona River,Voronezh Oblast,Q3447,13,0,2,federal subject of Russia,Voronezhskaya Oblast',Q835714|Q43263,,Voronezh Oblast
+Vorona River,Voronezh,Q4206070,13,0,2,1988 Oscar-II-class submarine,,Q2001879,,Russian submarine Voronezh
+Vorona River,Voronizh,Q4125372,13,0,2,"village in Sumy Oblast, Ukraine",Voronezh,Q4100864|Q486972,,Voronizh
+Vorona River,Voronezh State University,Q1807470,13,0,2,university in Russia,VSU|Voronezh University,Q55658194,,Voronezh State University
+Vorona River,4519 Voronezh,Q154363,13,0,2,asteroid,Voronezh,Q3863,,4519 Voronezh
+Vorona River,Voronezh Governorate,Q956083,13,0,2,former governorate in Russia,Voronezh gubernia|Voronezh governorate|Voronezh government|Voronezh guberniia|Voronezh guberniya|Voronezka huberniia|Voronezhskaia guberniia,Q86622|Q47530375,,Voronezh Governorate
+Vorona River,Voronezh,Q24729119,13,0,2,"human settlement in Zmeinogorsky District, Altai Krai, Russia",,Q2514025,,"Voronezh, Altai Krai"
+Vorona River,Voronezh,Q83490563,13,0,2,container ship built in 2008,IMO 9322011,Q17210,,
+Vorona River,Voronezh Regional Art Museum,Q4125421,13,0,2,"museum in Voronezh, Russia",Voronezh Regional Art Museum of I. N. Kramskoy|Voronezh Oblast Art Museum|Voronezh Regional Art Museum. I. N. Kramskoy|I. N. Kramskoy Voronezh Regional Art Museum|Ivan Kramskoy Voronezh Regional Art Museum|Voronezh Regional Art Museum named after I. N. Kramskoy|Kramskoy Museum of Fine Arts in Voronezh|Ivan Kramskoy Museum of Art of the Voronezh Region|Art Museum of the Voronezh Oblast|Kramskoi Art Museum of Voronezh ProvincKramskoy Museum of Fine Arts in Voronezh|Kramskoy Regional Museum of Fine Arts|I. N. Kramskoy Regional Art Museum,Q207694,,
+Vorona River,flag of Voronezh Oblast,Q2334348,13,0,2,flag of a Russian federal subject,Voronezh Oblast flag,Q22807280,,Flag of Voronezh Oblast
+Vorona River,coat of arms of Voronezh Oblast,Q1985221,13,0,2,,Voronezh Oblast coat of arms,Q14659,,
+Vorona River,2020 COVID-19 pandemic in Voronezh Oblast,Q89188740,13,0,2,,"2020 coronavirus outbreak in Voronezh Oblast|2020 Voronezh Oblast COVID-19 pandemic|Voronezh Oblast COVID-19 pandemic|2020 COVID pandemic in Voronezh Oblast|2020 COVID-19 pandemic in Voronezh Oblast, Russia|COVID-19 pandemic in Voronezh Oblast, Russia",Q3241045,,
+Vorona River,Voronezh Oblast Duma,Q4125387,13,0,2,"Regional parliament of Voronezh Oblast, Russia",,Q4345591,,Voronezh Oblast Duma
+Vorona River,geography of Voronezh Oblast,Q4135612,13,0,2,,Voronezh Oblast geography,Q46865913,,
+Vorona River,tourism in Voronezh Oblast,Q4465924,13,0,2,,tourism of Voronezh Oblast|Voronezh Oblast tourism,Q98374854,,
+Lavagna,Lavagna,Q65108069,14,0,1,family name,,Q101352,,Lavagna (surname)
+Lavagna,Lavagna,Q266794,14,0,1,Italian comune,,Q747074,,Lavagna
+Lavagna,Lavagna,Q1808793,14,0,1,"settlement in Comazzo, Italy",,Q1134686,,
+Lavagna,Lavagna,Q3827996,14,0,1,river in Italy,,Q4022,,Lavagna (river)
+Lavagna,Lavagna,Q30026539,14,0,1,chief town of the homonym municipality,,Q15303838,,
+Lavagna,Giuseppe Lavagna,Q27506360,14,0,1,,Lavagna,Q5,,
+Lavagna,Lavagna railway stop,Q3969926,14,0,1,railway stop in Italy,,Q55488|Q55678,,
+Lavagna,Cascina Lavagna,Q63985138,14,0,1,cascina in the Italian municipality of Lodi Vecchio,Lavagna,Q1169748|Q1497375,,
+Lavagna,blackboard,Q235585,14,0,1,reusable writing surface,chalkboard|chalk board,Q63981612,Q3300034|Q1348645|Q117208386|Q115753257,Blackboard
+Lavagna,Lavagnac Castle,Q2436626,14,0,1,,Château de Lavagnac|Castle of Lavagnac|Chateau de Lavagnac,Q23413,,
+Esaro,Esaro (Crotone),Q55611025,15,0,1,river in Italy,,Q4022,,Esaro (Crotone)
+Esaro,Esaro,Q3732798,15,0,1,"river in Calabria, Italy",,Q4022,,Esaro (Cosenza)
+Esaro,Ézaro,Q11000716,15,0,1,,Ezaro|Santa Uxía do Ézaro,Q12397176,,Ézaro
+Esaro,Esaroma,Q139825259,15,0,1,family name,,Q101352,,
+Esaro,Aesar,Q12647143,15,0,1,,,Q3027575,,
+Esaro,Essarois,Q844730,15,0,1,"commune in Côte-d'Or, France",,Q484170,,Essarois
+Esaro,Æsaronenses,Q3577172,15,0,1,ancient tribe of Sardinia,,Q41710,,Æsaronenses
+Esaro,Esaro,Q3732799,15,0,1,Wikimedia disambiguation page,,Q4167410,,
+Esaro,Easar,Q22683951,15,0,2,,,Q4271324,,
+Esaro,Enki,Q189726,15,0,2,god in Sumerian mythology; god of ritual wisdom,En‐ki,Q1916821,,Enki
+Beresh,Beresh,Q37283634,16,0,1,family name,,Q101352,,
+Beresh,Beresh,Q3720222,16,0,1,"river in Krasnoyarsk Krai and Khakassia, Russia",,Q4022,,
+Beresh,Beresh,Q136092039,16,0,1,family name (Береш),,Q101352|Q2635283,,
+Beresh,Beresheet,Q61742389,16,0,1,Israeli space probe which failed to land on the Moon in 2019,Beresheet Moon Probe|Bereshit|Bereshit Moon Probe|Sparrow|B'reshit,Q6703812|Q15893266,,Beresheet
+Beresh,Genesis Rabbah,Q2897028,16,0,1,a midrash comprising a collection of ancient rabbinical homiletical interpretations of the Book of Genesis,B'reshith Rabba|Bereshit Rabbah,Q179461,,Genesis Rabbah
+Beresh,Bereshit (From the beginning),Q136457454,16,0,1,2008 song by Israeli singer-songwriter Assaf Amdursky,,Q105543609,,
+Beresh,Beresheim,Q121839983,16,0,1,family name,,Q101352,,
+Beresh,Beresheet 2,Q63137797,16,0,1,planned Israeli/UAE lunar mission,Beresheet-2|Beresheet2,Q2133344|Q64728694,,Beresheet 2
+Beresh,Biarešča,Q21580335,16,0,1,river in Belarus,Bereshcha,Q4022,,
+Beresh,Bereshino,Q25394650,16,0,1,railway station,,Q55488,,
+Beresh,Book of Genesis,Q9184,16,0,2,first book of the Bible,The Book of Genesis|Genesis|Genesis (Book of the Bible)|Gen.|Gen,Q7725634|Q29154430,,Book of Genesis
+Beresh,bereshit,Q48889275,16,0,2,the first word of Genesis,Bereishit,,,
+Beresh,Beresheet hotel,Q6690051,16,0,2,hotel in Mizpe Ramon,Bereshit hotel,Q27686,,
+Beresh,Bereishit,Q819077,16,0,2,First weekly Torah portion in the annual Jewish cycle of Torah reading,The Torah/Bereishit,Q1643870,,Bereshit (parashah)
+Beresh,Bereshit Rabbati,Q61125125,16,0,2,,Midrash Bereshit Rabbati,Q179461,,
+Beresh,Bereshit-Serie: Investor startet Projekt gegen Judenhass,Q140042320,16,0,2,"2026 video documentary on the Tannenblut Bereshit Series, broadcast by Exxpress",,Q98069877,,
+Beresh,Bereshit,Q132673810,16,0,2,painting by Roger David Servais,,Q3305213,,
+Cellina,Cellina,Q104622544,17,0,1,female given name,Cellina (given name)|Cellina (first name),Q11879590,,
+Cellina,Cellina,Q3664286,17,0,1,"watercourse of the region of Friuli-Venezia Giulia, Italy, which flows entirely within the province of Pordenone.",Cellina river|Cellina stream,Q4022,,
+Cellina,Cellina,Q16538772,17,0,1,"settlement in Leggiuno, Italy",,Q1134686,,
+Cellina,Cellina,Q136992166,17,0,1,skincare product brand,,,,Cellina
+Cellina,Cellina,Q117456107,17,0,1,lastname,,Q101352,,
+Cellina,Cellina Cohen-Saidon,Q123473984,17,0,1,researcher,,Q5,,
+Cellina,Cellina von Mannstein,Q113777878,17,0,1,German photographer,,Q5,,
+Cellina,Val Cellina,Q4007538,17,0,1,"alpine valley crossed by the Cellina stream, in the Friuli region, in Italy",,Q39816,,
+Cellina,Cellina,Q1053038,17,0,1,Wikimedia disambiguation page,,Q4167410,,
+Cellina,Cellina,Q135068017,17,0,1,Wikimedia disambiguation page,,Q4167410,,Cellina (disambiguation)
+Orongoy,Orongoy,Q3356607,18,0,1,river in Russia,,Q4022,,
+Orongoy,Orongoy,Q19691778,18,0,1,"posyolok in Orongoyskoye rural settlement, Ivolginsky District, Republic of Buryatia, Russia",,Q2514025,,Orongoy
+Orongoy,Orongoy,Q4337024,18,0,1,"ulus in Orongoyskoye rural settlement, Ivolginsky District, Republic of Buryatia, Russia",Orongoy (ulus),Q18632459|Q192287,,Orongoy (ulus)
+Orongoy,Orongoy,Q19691777,18,0,1,"human settlement in Ivolginsky District, Republic of Buryatia, Russia",,Q1782540,,
+Orongoy,Orongoy railway station,Q63170411,18,0,1,"railway station in Orongoy, Russia",,Q55488,,
+Orongoy,Rural settlement Orongoyskoye,Q20658532,18,0,1,"human settlement in Ivolginsky District, Republic of Buryatia, Russia",Selskoye poseleniye Orongoyskoye|Orongoyskoye,Q634099,,
+Uniti,Uniti,Q4005660,19,0,1,album by Povia,,Q482994,,
+Uniti,Uniti,Q3073093,19,0,1,river in Italy,,Q4022,,Fiumi Uniti
+Uniti,UNITI,Q2495466,19,0,1,,,Q15911314|Q1666019,,
+Uniti,connection,Q12819913,19,0,1,process of joining or uniting entities to create a new entity,union|joining|connecting|merging|merge|combining|combination|amalgamation|uniting|unite|amalgamate|connect|join,,Q141004607,
+Uniti,Uniting Church in Australia,Q523620,19,0,1,Christian denomination,Uniting Church of Australia,Q879146|Q1530022,,Uniting Church in Australia
+Uniti,Patriot Act,Q221689,19,0,1,2001 United States anti-terrorism law,USA PATRIOT Act|USA PATRIOT Act of 2001|Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001,Q476068,,Patriot Act
+Uniti,united and uniting churches,Q966577,19,0,1,union of protestant churches of different creeds,united church|uniting church,Q123129246,Q23540,United and uniting churches
+Uniti,unitig_166_Tb427v10,Q68332724,19,0,1,,,Q37748,,
+Uniti,United States,Q30,19,0,1,country located primarily in North America,the States|the United States of America|US of America|the US|the U.S.|the US of A|U.S. of America|the US of America|the USA|the U.S.A.|the U.S. of A|US of A|the U.S. of America|the United States|Merica|Murica|U. S.|U. S. A.|United States of America,Q3624078|Q1489259|Q6256|Q99541706|Q1520223|Q5035794,,United States
+Uniti,Unitika Phoenix,Q11345673,19,0,1,,,Q15720476|Q12973014,,
+Uniti,Uniti,Q135579976,19,0,2,telecommunications service provider,Uniti Group Inc.,Q4830453|Q891723,,
+Uniti,UNITI GROUP LIMITED,Q109625762,19,0,2,Australian public company,,Q891723,,
+Thiou,Thiou,Q2624495,20,0,1,river in France,,Q4022,,Thiou
+Thiou,Thiouville,Q1164557,20,0,1,"commune in Seine-Maritime, France",,Q484170,,Thiouville
+Thiou,Thiou Department,Q999509,20,0,1,department of Burkina Faso,,Q2566190,,Thiou Department
+Thiou,Thioune,Q105770899,20,0,1,family name,,Q101352,,
+Thiou,Thiouios (Pauly-Wissowa),Q108792156,20,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Thiou,Thioub,Q106264527,20,0,1,family name,Thioub (family name)|Thioub (surname),Q101352,,
+Thiou,Thiou of Morigny,Q678699,20,0,1,French chronicler,,Q5,,Thiou of Morigny
+Thiou,Thiou,Q57206304,20,0,1,village in Cameroon,,Q532|Q126723715,,
+Thiou,thiourea,Q528995,20,0,1,chemical compound,thiocarbonic acid diamide|2-thiourea|thiocarbamide|carbonothioic diamide|aminothioamide|aminothiocarboxamide,Q113145171,Q57265163,Thiourea
+Thiou,thiourea,Q57265163,20,0,1,any chemical compound having a general formula RR′NC(=S)NR″R‴,thioureas|thiocarbamide|thiocarbamides,Q47154513,Q422785|Q55739694,Thioureas
+Thiou,thiourea dioxide,Q7784714,20,0,2,chemical compound,"formamidine sulfinic acid|Thiourea dioxide|Thiourea S,S-dioxide|Aminoiminomethanesulfinic acid|Formamidinesulfinic acid|Formamidine sulfinate",Q113145171,Q11173,Thiourea dioxide
+Thiou,"Thiourea, N,N'-bis(phenylmethyl)-",Q81989597,20,0,2,chemical compound,,Q113145171,Q11173,
+Thiou,"Thiourea, N,N'-bis[(4-methoxyphenyl)methyl]-",Q82136404,20,0,2,chemical compound,,Q113145171,Q11173,
+Thiou,thiourea tasting,Q18928522,20,0,2,Human disease,"PHENYLTHIOCARBAMIDE TASTING, INCLUDED|PROPYLTHIOURACIL TASTING, INCLUDED|obsolete thiourea tasting",,Q720272,
+Thiou,"Thiourea, (4-methoxyphenyl)- (9CI)",Q83047799,20,0,2,chemical compound,,Q113145171,Q11173,
+Thiou,Thiourea organocatalysis,Q7784712,20,0,2,use of ureas and thioureas to accelerate and stereochemically alter organic transformations,,,,Thiourea organocatalysis
+Thiou,"Thiourea, N-[(1R,2R)-2-amino-1,2-diphenylethyl]-N′-tricyclo[3.3.1.13,7]dec-1-yl-",Q90562794,20,0,2,chemical compound,,Q113145171,Q11173,
+Thiou,"Thiourea, N'-(2,4-dimethylphenyl)-N,N-bis(phenylmethyl)-",Q82204012,20,0,2,chemical compound,,Q113145171,Q11173,
+Thiou,Thiourea compound AW00178 sensitizes human H1299 lung carcinoma cells to TRAIL-mediated apoptosis,Q39343458,20,0,2,"scientific article published on May 11, 2012",,Q13442814,,
+Thiou,Thiourea compound poses threat to zinc oxide in rubber curing,Q114653109,20,0,2,scientific article published in 1967,,Q13442814,,
+Vonga,Vonga,Q2593040,21,0,1,"river in Karelia, Russia",Von'ga River|Vonga River,Q4022,,
+Vonga,Voinga,Q4122413,21,0,1,"river in Karelia, Russia",Vonga,Q4022,,
+Vonga,Vonga,Q19676833,21,0,1,"human settlement in Arkhangelsk Oblast, Russia",,Q5084|Q486972,,
+Vonga,Vonga,Q18404872,21,0,1,"human settlement in Volkhovsky District, Leningrad Oblast, Russia",,Q2514025,,
+Vonga,Vonga,Q36561131,21,0,1,"river in Yaroslavl Oblast, Russia",,Q4022,,
+Vonga,Vonga,Q4124895,21,0,1,"river in Khanty-Mansi Autonomous Okrug, Russia",,Q4022,,
+Vonga,Vonga,Q16020583,21,0,1,"human settlement in Kemsky District, Republic of Karelia, Russia",,Q5084,,
+Vonga,Vongani Chauke,Q114782723,21,0,1,researcher,,Q5,,
+Vonga,Vonga,Q22701100,21,0,1,watercourse in Democratic Republic of the Congo,,Q355304,,
+Vonga,VonGarland Castle : Sacrilege of the Night,Q126697618,21,0,1,2023 video game,,Q7889,,
+Vonga,Huang,Q845104,21,0,2,Chinese family name (黃/黄),Vong|Wong|Ng|Oei|Wee|Hwang|Hoàng|Huỳnh|Huynh|Huáng|Uînn|Uiⁿ,Q1093580|Q101352,,Huang (surname)
+Vonga,Wang,Q10826587,21,0,2,Chinese surname Wang 汪 (pinyin: Wāng),Wong|汪|Wāng|Uang|Ong|Vong,Q1093580|Q101352,,Wāng
+Vonga,Vongnes,Q838515,21,0,2,"commune in Ain, France",,Q484170,,Vongnes
+Vonga,Bong,Q12598567,21,0,2,Korean family name (奉),Pong|Vong|Bhong|Bohng|Pohng|봉|奉|鳳,Q101352,,
+Vonga,Wang,Q108475198,21,0,2,Chinese given name (王),王|Wáng|Wong|Vong|Ong|Uang|Uong,Q202444|Q22809413,,
+Vonga,Vonges,Q4966,21,0,2,"commune in Côte-d'Or, France",,Q484170,,Vonges
+Vonga,Vong,Q36995105,21,0,2,family name,,Q101352,,
+Vonga,Vong,Q47289751,21,0,2,language style of written German,,Q2313235,,
+Vonga,Vongerichten,Q37030990,21,0,2,family name,,Q101352,,
+Ilovlya,Ilovlya,Q2557120,22,0,1,"river in Saratov and Volgograd Oblasts, Russia",,Q4022,,Ilovlya (river)
+Ilovlya,Ilovlya,Q1110788,22,0,1,"human settlement in Ilovlinsky District, Volgograd Oblast, Russia",,Q20019082,,Ilovlya
+Ilovlya,Ilovlya 2 railway station,Q4199432,22,0,1,railway station in Russia,,Q55488,,
+Ilovlya,Ilovlya urban settlement,Q17154810,22,0,1,"human settlement in Ilovlinsky District, Volgograd Oblast, Russia",,Q2661988,,
+Ilovlya,Ilovlya 1,Q4199433,22,0,1,railway station in Russia,,Q55488,,
+Ilovlya,Ilovlya,Q1659053,22,0,1,Wikimedia disambiguation page,,Q4167410,,
+Tauernbach,Tauernbach,Q2396819,23,0,1,"river along the border of Venediger / Granatspitz Group in East Tyrol, tributary of Isel",,Q4022,,
+Tauernbach,Tauernbach,Q21879404,23,0,1,watercourse in the Granatspitz Group in Salzburg,,Q355304,,
+Tauernbach,"Tauernbach (vattendrag i Österrike, Steiermark, lat 47,45, long 14,52)",Q21859527,23,0,1,watercourse in Austria,,Q355304,,
+Tauernbach,"Tauernbach (vattendrag i Österrike, Steiermark, lat 47,48, long 14,47)",Q21863429,23,0,1,watercourse in Austria,,Q355304,,
+Tauernbach,Tauernbach,Q2396807,23,0,1,Wikimedia disambiguation page,,Q4167410,,

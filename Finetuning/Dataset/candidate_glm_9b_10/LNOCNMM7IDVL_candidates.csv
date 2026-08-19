@@ -1,0 +1,396 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Helsinki,Helsinki,Q1757,0,0,1,capital and most populous city of Finland,Helsingia|Helsingin kaupunki|Stadi|Hesa,Q515|Q200250|Q856076|Q1549591|Q2264924,,Helsinki
+Helsinki,Helsinki,Q10520602,0,0,1,1980 Helsinki-class missile boat,,Q843215,,
+Helsinki,University of Helsinki,Q28695,0,0,1,"public university in Helsinki, Finland",Imperial Alexander University in Finland|Helsingin yliopisto|Helsingfors universitet|Keisarillinen Aleksanterin-Yliopisto|Kejserliga Alexander-universitetet|Helsinki University|helsinki.fi|UH|UHEL|UHelsinki|UnivHel|UoH,Q875538|Q43229|Q2668072|Q140232494,,University of Helsinki
+Helsinki,Helsinki,Q926232,0,0,1,"former municipality of Finland, now part of Raseborg and Hanko",Bromarvi|Bromarf,Q856076|Q17468533,,Bromarv
+Helsinki,1952 Summer Olympics,Q8407,0,0,1,"Games of the XV Olympiad, in Helsinki, Finland",Games of the XV Olympiad|Helsinki 1952,Q135976384|Q14547231,,1952 Summer Olympics
+Helsinki,Helsinki,Q3736245,0,0,1,electoral district of Finland,Helsinki (electoral district)|Helsingin vaalipiiri|Helsingin kaupungin vaalipiiri|Helsingfors valkrets|Helsinki constituency,Q28657263,,Helsinki (parliamentary electoral district)
+Helsinki,Helsinki,Q123947134,0,0,1,square in Sofia (Bulgaria),Helsinki Sq.,Q174782,,
+Helsinki,Helsinki Airport,Q215327,0,0,1,"international airport serving Helsinki, Finland",Helsinki-Vantaa Airport|Helsinki-Vantaan lentoasema|Helsingfors-Vanda flygplats|Helsinki Vantaa Airport|HEL|EFHK|HELSINKI-VANTAA airport,Q644371|Q1248784|Q94993988,,Helsinki Airport
+Helsinki,Vantaa,Q127623,0,0,1,city in the region of Uusimaa in Finland,Vanda|Helsingin maalaiskunta|Helsinge kommun|Helsinge|Helsingin pitäjä|Helsinki Rural Municipality|City of Vantaa,Q515|Q856076|Q10571400|Q1549591,,Vantaa
+Helsinki,1495 Helsinki,Q140003,0,0,1,main-belt asteroid,Helsinki,Q3863,,1495 Helsinki
+Helsinki,Tampere,Q40840,0,0,2,city in the region of Pirkanmaa in Finland,Tammerfors|Tampere (municipality),Q1549591|Q702492|Q856076|Q515,,Tampere
+Helsinki,Tampere,Q105697894,0,0,2,family name,,Q101352,,
+Helsinki,Tampere University,Q56403399,0,0,2,"public university in the city of Tampere, Finland",TAU|TUNI,Q875538,,Tampere University
+Helsinki,Pirkanmaa,Q5701,0,0,2,region of Finland,Tampere Region|Pirkanmaa region|Birkaland|Birkaria|Tammermaa,Q193512,,Pirkanmaa
+Helsinki,Tampere,Q10690533,0,0,2,"watercraft, built ca 1900",,Q1229765,,
+Helsinki,1497 Tampere,Q140029,0,0,2,asteroid,Tampere,Q3863,,1497 Tampere
+Helsinki,University of Tampere,Q1544881,0,0,2,"former university in the city of Tampere, Finland (1925–2018)",Tampereen yliopisto|Universitatis Tamperensis|UTA,Q875538,,University of Tampere
+Helsinki,Tampere University of Technology,Q277664,0,0,2,"former university in Tampere, Finland",Tampereen teknillinen yliopisto,Q3918|Q7894996,,Tampere University of Technology
+Helsinki,Tampere Philharmonic Orchestra,Q2064325,0,0,2,Finnish symphony orchestra,Tampereen Kaupunginorkesteri,Q215380,,Tampere Philharmonic Orchestra
+Helsinki,Tamperelainen,Q11896331,0,0,2,Finnish free newspaper published in Tampere,,Q142043,,Tamperelainen
+Helsinki,Turku,Q38511,0,0,2,"city in the region of Southwest Finland, Finland",Åbo|Aboa|Abo,Q1549591|Q856076|Q2264924|Q515,,Turku
+Helsinki,Turku,Q31930842,0,0,2,former patrol craft of the Finish Navy,,Q843215,,
+Helsinki,Turku Airport,Q1130231,0,0,2,"airport in Turku, Finland",TKU|EFTU|Turun lentoasema|Åbo flygplats,Q644371|Q1248784|Q94993988,,Turku Airport
+Helsinki,Shuwa,Q56497,0,0,2,"variety of Sudanic Arabic spoken in Chad, western Sudan, eastern Nigeria, and northern Cameroon",Shua|Suwa Arabic|Baggara Arabic|Western Sudanic Arabic|Turku|Chadian Arabic|WSA|West Sudanic Arabic,Q33384|Q33742|Q1288568,Q131427113,Chadian Arabic
+Helsinki,türkü,Q1939197,0,0,2,"Turkish folk songs, generally anonymous",,Q188451|Q107356781,Q943929|Q1810546,Türkü
+Helsinki,1496 Turku,Q140008,0,0,2,asteroid,Turku,Q3863,,1496 Turku
+Helsinki,Turku University Hospital,Q3736764,0,0,2,"university hospital consisting of 5 hospitals in Turku, Finland",Turun yliopistollinen keskussairaala|Åbo universitetscentralsjukhus|TYKS|Turun yliopisto Central Hospital|Turku University Central Hospital|University Central Hospital of Turku,Q1059324|Q12305619,,Turku University Hospital
+Helsinki,Turku University of Applied Sciences,Q7855557,0,0,2,"university of applied sciences in Turku, Finland",tuas.fi,Q19152599,,Turku University of Applied Sciences
+Helsinki,Turku Central railway station,Q765376,0,0,2,"railway station in Turku, Finland",Turku railway station,Q18543139|Q22808404|Q2451577,,Turku Central Station
+Helsinki,Türkü Turan,Q6548611,0,0,2,"Turkish actor, fashion model and singer (born 1985)",,Q5,,
+Helsinki,Oulu,Q47048,0,0,2,"city in the North Ostrobothnia region, Finland",Uleåborg|Uleaborg,Q515|Q856076|Q13539802|Q2264924|Q1549591,,Oulu
+Helsinki,Oulu,Q2224475,0,0,2,"town in Bayfield County, Wisconsin, United States","Oulu, Wisconsin|Oulu, WI",Q15219655,,"Oulu, Wisconsin"
+Helsinki,Oulu railway station,Q3270598,0,0,2,"railway station in Oulu, Finland",,Q55488|Q19563580|Q22808404|Q2451577,,Oulu railway station
+Helsinki,University of Oulu,Q1357517,0,0,2,"university in Oulu, Finland",Oulun yliopisto|Universitas Ouluensis|Oulu University|oulu.fi,Q875538|Q43229,,University of Oulu
+Helsinki,Oulu Airport,Q1131604,0,0,2,"airport in Oulu, Finland",Oulunsalo Airport|Oulu Aerodrome|OUL|EFOU|OULU airport|Oulu Airfield,Q644371|Q1248784|Q94993988,,Oulu Airport
+Helsinki,RTOP-41 Vukovar,Q421623,0,0,2,ship launched in 1985,Oulu,Q214196,,
+Helsinki,Oulujärvi,Q580019,0,0,2,"lake of Northern Ostrobothnia and Kainuu, Finland",,Q23397|Q104093746,,Oulujärvi
+Helsinki,Oulunkylä,Q2510635,0,0,2,"28th neighbourhood of Helsinki, Finland",Åggelby|Ogeli,Q15715406|Q856076|Q17468533,,Oulunkylä
+Helsinki,Oulu,Q7110478,0,0,2,12th constituency of Finland,Oulu (electoral district)|Oulu electoral district|Oulun vaalipiiri|Oulun läänin vaalipiiri|Uleåborgs valkrets,Q28657263,,Oulu (parliamentary electoral district)
+Helsinki,Oulunsalo,Q992356,0,0,2,"former municipality of Finland, now part of Oulu",Uleåsalo,Q856076|Q17468533|Q3735314,,Oulunsalo
+Tórshavn,Tórshavn,Q10704,0,1,1,capital of the Faroe Islands,Torshavn|Thorshavn,Q3957,,Tórshavn
+Tórshavn,Tórshavn Municipality,Q944273,0,1,1,municipality of the Faroe Islands,Tórshavnar|Tórshavn,Q856079,,Tórshavn Municipality
+Tórshavn,Tórshavn,Q25552248,0,1,1,,,Q486972,,
+Tórshavn,Tórshavn Cathedral,Q1072725,0,1,1,church,Torshavn Cathedral,Q56242235,,Tórshavn Cathedral
+Tórshavn,Tórshavn Theater Society,Q10975451,0,1,1,"theater association in Tórshavn, Faroe Islands",,Q43229,,Tórshavn Theater Society
+Tórshavn,Tórshavnar Kamarkór,Q20621667,0,1,1,,,Q1723154,,
+Tórshavn,Tórshavn arresthusid,Q122413659,0,1,1,,Færøerne Arrest,Q40357,,
+Tórshavn,Tórshavnar Býrað,Q119350415,0,1,1,"painting by Hans Jákup Glerfoss (b.1937), Shetland Museum and Archives",,Q3305213,,
+Tórshavn,University of the Faroe Islands,Q932353,0,1,1,university,,Q875538,,University of the Faroe Islands
+Tórshavn,Barnamentanarheiðursløn Tórshavnar býráðs,Q869109,0,1,1,award,,Q15383322,,Barnamentanarheiðursløn Tórshavnar býráðs
+Tórshavn,Faroe Islands,Q4628,0,1,2,North Atlantic archipelago organized as an autonomous constituent country of the Kingdom of Denmark,Faeroe Islands|Atlantic/Faroe|Fareo islands|Faeroyene|Far Oer|Faeroerne|Faer Oer|Faroe Isles|Faroer|Färöer|Faeroe Isles|Faroes|Faroese Islands|Foroyar|Faeroes|Faeroer|Føroyar|Faroe Island|Færøer|Færeyjar|Fær Øer|Faeroe Is|Færøyene|Færøerne|Faröe Islands|Sheep Islands|Færoes|fo|🇫🇴|the Faroe Islands|the Faeroe Islands|Farre|Farre Islands|Farre I.|Farre Is.|Farre Isl.,Q66724388|Q192611,,Faroe Islands
+Tórshavn,Faroe Islands men's national football team,Q200688,0,1,2,men's national association football team representing the Faroe Islands,Faroe Islands national football team,Q135408445,Q1194951,Faroe Islands national football team
+Tórshavn,Faroe Islands Football Association,Q268628,0,1,2,association football governing body in the Faroe Islands,,Q1478443,,Faroe Islands Football Association
+Tórshavn,Faroe Islands Premier League,Q739479,0,1,2,association football league,,Q15991303,Q3270632,Faroe Islands Premier League
+Tórshavn,Faroe Islands Cup,Q899180,0,1,2,men's national association football tournament in the Faroe Islands,,Q8463186,,Faroe Islands Cup
+Tórshavn,Faroe Islands national under-21 football team,Q579341,0,1,2,national association football team,,Q6979593,Q1194951,Faroe Islands national under-21 football team
+Tórshavn,Faroe Islands national under-19 football team,Q5436085,0,1,2,national association football team,,Q6979593,,Faroe Islands national under-19 football team
+Tórshavn,Faroese,Q223179,0,1,2,people from or residents of the Faroe Islands,Faroe Islands residents|Faroese people|Faeroes|Faeroese|Faroe Islanders,Q33829,Q164714|Q22947|Q6266,Faroe Islanders
+Tórshavn,Faroe Islands women's national football team,Q620771,0,1,2,women's national association football team representing the Faroe Islands,,Q23905105|Q6979593,,Faroe Islands women's national football team
+Tórshavn,sports in the Faroe Islands,Q22683263,0,1,2,overview of sports activities in the Faroe Islands,sport in the Faroe Islands|Faroe Islands sports|sports of the Faroe Islands|sporting in the Faroe Islands,Q29791211,,
+Dammam,Dammam,Q160320,1,0,1,"port city in the Eastern Province, Saudi Arabia",,Q2264924|Q1549591,,Dammam
+Dammam,DAMMAM,Q5959276,1,0,1,percussive instrument,,,Q133163,Dammam (drum)
+Dammam,Dammam railway station,Q30594172,1,0,1,railway station in Saudi Arabia,,Q55488|Q22808404,,Dammam railway station
+Dammam,Dammam,Q74376913,1,0,1,,,Q121117,,
+Dammam,Dammam 7,Q104904644,1,0,1,Supercomputer built in 2021,Dammam-7,Q121117,,
+Dammam,Dammam–Riyadh Line,Q5212675,1,0,1,railway line in Saudi Arabia,,Q728937,,Dammam–Riyadh railway
+Dammam,Dammam Central Hospital,Q12242606,1,0,1,"healthcare organization in Dammam, Saudi Arabia",,Q4287745|Q16917,,
+Dammam,Dammam governorate,Q97309170,1,0,1,governorate in Saudi Arabia,,Q66661665,,
+Dammam,Highway 40,Q12221737,1,0,1,Highway in Saudi Arabia,Dammam-Riyadh Highway|Dammam Road|Riyadh-Makkah Highway|Jeddah-Makkah Expressway|Makkah-Jeddah Expressway,Q46622,,Highway 40 (Saudi Arabia)
+Dammam,Dammam Metropolitan Area,Q5212670,1,0,1,"metropolitan area in Eastern Province, Saudi Arabia",,Q486972,,Dammam metropolitan area
+Kotka,Kotka,Q192155,2,0,1,city in the region of Kymenlaakso in Finland,,Q3957|Q856076|Q515|Q2264924,,Kotka
+Kotka,Kotka,Q12367516,2,0,1,family name,,Q101352,,
+Kotka,RTOP-42 Dubrovnik,Q7277376,2,0,1,ship built in 1986,Kotka,Q843215,,
+Kotka,Aquila,Q10586,2,0,1,constellation on the celestial equator,Aql|Aquilae,Q8928,,Aquila (constellation)
+Kotka,Kotka,Q104652312,2,0,1,"village or neighbourhood in Kannus, Finland",,Q103910453,,
+Kotka,2737 Kotka,Q150002,2,0,1,asteroid,Kotka,Q3863,,2737 Kotka
+Kotka,Kotkas,Q46995276,2,0,1,family name,,Q101352,,Kotkas
+Kotka,Kotkaniemi,Q41570120,2,0,1,family name,,Q101352,,Kotkaniemi
+Kotka,Kotka,Q592090,2,0,1,"village in Kuusalu Rural Municipality, Harju County, Estonia",,Q51049922,,"Kotka, Harju County"
+Kotka,Kotka,Q24065620,2,0,1,,,Q1475691,,
+Klaipėda,Klaipėda,Q776965,2,1,1,port city in Lithuania,Memel,Q515|Q2264924|Q1549591,,Klaipėda
+Klaipėda,Klaipėda train station,Q24992,2,1,1,Lithuanian railway station,,Q15855903|Q55490|Q55488,,Klaipėda railway station
+Klaipėda,Klaipėda County,Q475207,2,1,1,county of Lithuania,,Q273789,,Klaipėda County
+Klaipėda,Klaipėda District Municipality,Q141132,2,1,1,district municipality of Lithuania,,Q17301072,,Klaipėda District Municipality
+Klaipėda,IMO 9106584,Q83649444,2,1,1,cargo ship built in 1995,,Q1752434,,
+Klaipėda,Klaipėda University,Q178200,2,1,1,"university located in Klaipėda, Lithuania",Klaipėdos Universitetas,Q875538|Q45400320,,Klaipėda University
+Klaipėda,Klaipėda BK,Q68078369,2,1,1,sports club,,Q847017,,
+Klaipėda,Klaipėda Autogama,Q68078409,2,1,1,sports club,,Q847017,,
+Klaipėda,Klaipėda Kultura,Q68154714,2,1,1,sports club,,Q847017,,
+Klaipėda,Klaipēdas Street,Q97231380,2,1,1,street in Liepāja,Klaipēdas iela,Q79007,,
+Klaipėda,Klaipeda City Municipality,Q16456513,2,1,2,city municipality of Lithuania,Klaipėda City Municipality,Q17166803|Q3154693,,
+Klaipėda,Klaipėda City Stadium,Q11137217,2,1,2,Lithuanian football stadium,,Q483110,,Klaipėda Central Stadium
+Klaipėda,Klaipeda City Municipality Council,Q3685409,2,1,2,local authority for the Klaipeda City Municipality in Lithuania,Klaipeda City Council,Q701632,,
+Klaipėda,Klaipėda city passenger transport,Q3358941,2,1,2,"public transport authority in Klaipėda, Lithuania",,Q4830453,,Klaipėda city passenger transport
+Klaipėda,Klaipėda Kantas library,Q110976659,2,1,2,library,Klaipeda City Municipality Public Library,Q7075,,
+Klaipėda,Klaipėda City District Court,Q2327558,2,1,2,,,Q41487,,
+Sassnitz,Sassnitz,Q494631,3,0,1,"town in Mecklenburg-Vorpommern, Germany",Mukran|Saßnitz,Q3957|Q2264924|Q317548|Q42744322,,Sassnitz
+Sassnitz,Sassnitz,Q2225770,3,0,1,formerly German railway ferry,IMO 8705383,Q402092|Q15262|Q2055880,,
+Sassnitz,Sassnitz railway station,Q7425780,3,0,1,"railway station in Sassnitz, Germany",,Q27996466|Q55488,,Sassnitz station
+Sassnitz,Sassnitz Fährhafen railway station,Q111590035,3,0,1,"railway station in Sassnitz, Germany",Sassnitz Fährhafen station,Q27996466|Q1478755|Q114782406,,Sassnitz Fährhafen station
+Sassnitz,Sassnitz Hafen railway station,Q801399,3,0,1,"former railway station in Sassnitz, Germany",Sassnitz Hafen station|Sassnitz harbour station,Q1478755|Q4663385,,
+Sassnitz,Sassnitz,Q1780011,3,0,1,train ferry launched in 1959,IMO 5314444|Megistanas|Silver Paloma,Q402092|Q15262,,
+Sassnitz,Sassnitz,Q117068915,3,0,1,dredger built in 1955,IMO 7017052,Q5810820,,
+Sassnitz,Port of Sassnitz,Q1478785,3,0,1,"port in Sassnitz, Mecklenburg-Vorpommern, Germany",Sassnitz Port|Mukran Port,Q1478783|Q44782,,
+Sassnitz,Mukran West railway stop,Q140705563,3,0,1,former railway stop in Germany,Sassnitz-Mukran West railway stop,Q65464941,,
+Sassnitz,Saßnitzer Straße,Q98560482,3,0,1,"street in Dresden, Germany",,Q79007,,
+Klaipėda,Klaipėda,Q776965,3,1,1,port city in Lithuania,Memel,Q515|Q2264924|Q1549591,,Klaipėda
+Klaipėda,Klaipėda train station,Q24992,3,1,1,Lithuanian railway station,,Q15855903|Q55490|Q55488,,Klaipėda railway station
+Klaipėda,Klaipėda County,Q475207,3,1,1,county of Lithuania,,Q273789,,Klaipėda County
+Klaipėda,Klaipėda District Municipality,Q141132,3,1,1,district municipality of Lithuania,,Q17301072,,Klaipėda District Municipality
+Klaipėda,IMO 9106584,Q83649444,3,1,1,cargo ship built in 1995,,Q1752434,,
+Klaipėda,Klaipėda University,Q178200,3,1,1,"university located in Klaipėda, Lithuania",Klaipėdos Universitetas,Q875538|Q45400320,,Klaipėda University
+Klaipėda,Klaipėda BK,Q68078369,3,1,1,sports club,,Q847017,,
+Klaipėda,Klaipėda Autogama,Q68078409,3,1,1,sports club,,Q847017,,
+Klaipėda,Klaipėda Kultura,Q68154714,3,1,1,sports club,,Q847017,,
+Klaipėda,Klaipēdas Street,Q97231380,3,1,1,street in Liepāja,Klaipēdas iela,Q79007,,
+Klaipėda,Klaipeda City Municipality,Q16456513,3,1,2,city municipality of Lithuania,Klaipėda City Municipality,Q17166803|Q3154693,,
+Klaipėda,Klaipėda City Stadium,Q11137217,3,1,2,Lithuanian football stadium,,Q483110,,Klaipėda Central Stadium
+Klaipėda,Klaipeda City Municipality Council,Q3685409,3,1,2,local authority for the Klaipeda City Municipality in Lithuania,Klaipeda City Council,Q701632,,
+Klaipėda,Klaipėda city passenger transport,Q3358941,3,1,2,"public transport authority in Klaipėda, Lithuania",,Q4830453,,Klaipėda city passenger transport
+Klaipėda,Klaipėda Kantas library,Q110976659,3,1,2,library,Klaipeda City Municipality Public Library,Q7075,,
+Klaipėda,Klaipėda City District Court,Q2327558,3,1,2,,,Q41487,,
+Finike,Finike,Q1012894,4,0,1,"district and town in Antalya, Turkey",Phoenix,Q3957|Q15284,,Finike
+Finike,Finike,Q1417212,4,0,1,,,Q515|Q2264924,,
+Finike,Finike district,Q49103504,4,0,1,"district of Antalya, southwestern Turkey",,Q1147395,,
+Finike,FİNİKE,Q108228716,4,0,1,protected area in Turkey (05.02.0073),,Q473972,,
+Finike,Finike Plain,Q85970546,4,0,1,"plain in Finike, Antalya, Turkey",,Q160091,,
+Finike,Gulf of Finike,Q49377271,4,0,1,"bay in Antalya Province, Turkey",,Q39594,,
+Finike,Juniperus phoenicea,Q183497,4,0,1,species of plant,,Q16521,,Juniperus phoenicea
+Finike,Battle of the Masts,Q1278576,4,0,1,654 naval battle of the Arab–Byzantine wars,Battle of Phoenix,Q1261499,,Battle of the Masts
+Finike,Phoenician Sheikh Abdi Efendi Tomb,Q131391530,4,0,1,"mausoleum complex in İstanbul, Turkey",,Q838159,,
+Finike,"Finike Camii, Baf",Q138646745,4,0,1,"mosque in Paphos, Cyprus",,Q32815,,
+Finike,Budapest District II,Q1068701,4,0,2,district in Budapest,2nd district of Budapest,Q851110,,2nd district of Budapest
+Finike,Category:2nd District of Budapest,Q8976905,4,0,2,Wikimedia category,Budapest District II,Q4167836,,Category:2nd District of Budapest
+Finike,Budapest District III,Q580770,4,0,2,district in Budapest,"Obuda-Bekasmegyer|Óbuda-Békásmegyer (Budapest, Hungary)",Q851110,,Óbuda-Békásmegyer
+Finike,Category:Óbuda-Békásmegyer,Q7789334,4,0,2,Wikimedia category,Budapest District III,Q4167836,,Category:Óbuda-Békásmegyer
+Finike,coat of arms of Budapest District II,Q104984621,4,0,2,,Budapest District II coat of arms,Q480260,,
+Finike,11329,Q135499377,4,0,2,natural number,,Q16317911|Q13366129|Q49008|Q467511,,
+Finike,113295,Q135635609,4,0,2,natural number,,Q16317911|Q50707|Q13366129|Q467511,,
+Finike,113291,Q135635603,4,0,2,natural number,,Q16317911|Q13366129|Q765289|Q467511,,
+Finike,113296,Q135635611,4,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+Finike,113299,Q135635622,4,0,2,natural number,,Q16317911|Q13366129|Q765289|Q467511,,
+Finike,113293,Q135635607,4,0,2,natural number,,Q16317911|Q13366129|Q765289|Q467511,,
+Finike,113292,Q135635604,4,0,2,natural number,,Q16317911|Q50707|Q13366104|Q223722,,
+Finike,113298,Q135635619,4,0,2,natural number,,Q16317911|Q50707|Q13366104|Q223722,,
+Finike,113290,Q135635601,4,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+Finike,113294,Q135635608,4,0,2,natural number,,Q16317911|Q50707|Q13366104|Q467511,,
+Budapest District II,Budapest District II,Q1068701,4,1,1,district in Budapest,2nd district of Budapest,Q851110,,2nd district of Budapest
+Budapest District II,Category:2nd District of Budapest,Q8976905,4,1,1,Wikimedia category,Budapest District II,Q4167836,,Category:2nd District of Budapest
+Budapest District II,Budapest District III,Q580770,4,1,1,district in Budapest,"Obuda-Bekasmegyer|Óbuda-Békásmegyer (Budapest, Hungary)",Q851110,,Óbuda-Békásmegyer
+Budapest District II,Category:Óbuda-Békásmegyer,Q7789334,4,1,1,Wikimedia category,Budapest District III,Q4167836,,Category:Óbuda-Békásmegyer
+Budapest District II,coat of arms of Budapest District II,Q104984621,4,1,1,,Budapest District II coat of arms,Q480260,,
+Luanda,Luanda,Q3897,5,0,1,capital of Angola,"São Paulo da Assunção de Loanda|Luanda, Angola|Loanda|Loanda, Angola|St Paul of Loanda|St Paul of Luanda|St. Paul of Loanda|St. Paul of Luanda|Saint Paul of Loanda|Saint Paul of Luanda|São Paulo de Loanda|Sao Paulo de Loanda|São Paulo, Angola|Sao Paulo, Angola",Q515|Q2264924|Q1549591|Q108178728,,Luanda
+Luanda,Lunda Norte Province,Q214221,5,0,1,province of Angola,Lunda Norte|Lunda-Norte|Luanda Norte,Q329028,,Lunda Norte Province
+Luanda,Luanda Province,Q190066,5,0,1,Province in Angola,,Q329028,,Luanda Province
+Luanda,1431 Luanda,Q139114,5,0,1,asteroid,Luanda,Q3863,,1431 Luanda
+Luanda,Luanda,Q99613205,5,0,1,musician,,Q5,,
+Luanda,Luanda Municipality,Q14633813,5,0,1,municipality of Angola,,Q378508,,Luanda Municipality
+Luanda,Luanda Lozano,Q108756456,5,0,1,Angolan and Dominican printmaker (born 1973),,Q5,,Luanda Lozano
+Luanda,Quatro de Fevereiro Airport,Q598002,5,0,1,"international airport serving Luanda, Angola",Quatro de Fevereiro International Airport|4th of February International Airport|LAD|Luanda Airport,Q644371|Q210272|Q94993988,,Quatro de Fevereiro Airport
+Luanda,Luanda,Q6695000,5,0,1,place in Kenya,,Q486972,,"Luanda, Kenya"
+Luanda,Luanda,Q35386679,5,0,1,"stream in Kisumu, Kenia",,Q47521,,
+Porto,Porto,Q36433,5,1,1,municipality in Portugal,Porto Municipality,Q13217644|Q1549591,,Porto
+Porto,Porto,Q37482660,5,1,1,family name,,Q101352|Q17143070,,Porto (surname)
+Porto,Porto Alegre,Q40269,5,1,1,"municipality of Rio Grande do Sul state, Brazil","Porto Alegre, Brazil",Q3184121|Q2264924|Q1549591,,Porto Alegre
+Porto,Porto,Q33707919,5,1,1,city seat of Porto district and municipality,Porto city|OPorto,Q15647906|Q1549591|Q15303838,,
+Porto,FC Porto,Q128446,5,1,1,"professional association football club based in Porto, Portugal",FCP|FCPorto|Football Club of Porto|F.C.Porto|F.C.P.|F.C. Porto|Futebol Clube do Porto|Porto,Q476028|Q13580678,,FC Porto
+Porto,Puerto Rico,Q1183,5,1,1,unincorporated territory of the United States of America,Free Associated State of Puerto Rico|Porto Rico|Territory of Puerto Rico|Commonwealth of Puerto Rico|Island of Enchantment|Borikén|Borinquen|Boriquén|Isle of Enchantment|Territory of Porto Rico,Q783733|Q462778|Q1048835|Q7252696|Q3502482|Q1352230|Q609591,,Puerto Rico
+Porto,Porto-Novo,Q3799,5,1,1,capital of Benin,Hogbonu|Ajashe,Q1780506|Q515,,Porto-Novo
+Porto,Porto,Q19731056,5,1,1,"village in Central Maluku Regency, Maluku, Indonesia",,Q26211545,,
+Porto,Porto,Q322792,5,1,1,district of Portugal,,Q3032141|Q192611,,Porto District
+Porto,Porto Velho,Q172512,5,1,1,"municipality of Rondônia state, Brazil",,Q3184121|Q1549591|Q902814,,Porto Velho
+Porto,Luanda,Q3897,5,1,2,capital of Angola,"São Paulo da Assunção de Loanda|Luanda, Angola|Loanda|Loanda, Angola|St Paul of Loanda|St Paul of Luanda|St. Paul of Loanda|St. Paul of Luanda|Saint Paul of Loanda|Saint Paul of Luanda|São Paulo de Loanda|Sao Paulo de Loanda|São Paulo, Angola|Sao Paulo, Angola",Q515|Q2264924|Q1549591|Q108178728,,Luanda
+Porto,Lunda Norte Province,Q214221,5,1,2,province of Angola,Lunda Norte|Lunda-Norte|Luanda Norte,Q329028,,Lunda Norte Province
+Porto,Luanda Province,Q190066,5,1,2,Province in Angola,,Q329028,,Luanda Province
+Porto,1431 Luanda,Q139114,5,1,2,asteroid,Luanda,Q3863,,1431 Luanda
+Porto,Luanda,Q99613205,5,1,2,musician,,Q5,,
+Porto,Luanda Municipality,Q14633813,5,1,2,municipality of Angola,,Q378508,,Luanda Municipality
+Porto,Luanda Lozano,Q108756456,5,1,2,Angolan and Dominican printmaker (born 1973),,Q5,,Luanda Lozano
+Porto,Quatro de Fevereiro Airport,Q598002,5,1,2,"international airport serving Luanda, Angola",Quatro de Fevereiro International Airport|4th of February International Airport|LAD|Luanda Airport,Q644371|Q210272|Q94993988,,Quatro de Fevereiro Airport
+Porto,Luanda,Q6695000,5,1,2,place in Kenya,,Q486972,,"Luanda, Kenya"
+Porto,Luanda,Q35386679,5,1,2,"stream in Kisumu, Kenia",,Q47521,,
+Porto,Portuguese football clubs in international competitions,Q24051487,5,1,2,Wikimedia list article,,Q13406463,,Portuguese football clubs in international competitions
+Porto,Portuguese football club Porto in match-fixing probe,Q18017585,5,1,2,Wikinews article,,Q17633526,,
+Porto,Mazagan,Q555360,5,1,2,"former Portuguese possession in Africa, Moroccan cultural heritage site","Fortress of El Jadida|Portuguese City of Mazagan (El Jadida)|Mazagan, Jadida, El Jadida|magazazan españa|Mazagão|Praça de Mazagão|El Jadida",Q1128906|Q57831|Q210272|Q702492|Q3957|Q102496|Q839954|Q676050|Q2434238,,
+Trieste,Trieste,Q546,6,0,1,city and seaport in northeastern Italy,Trst,Q747074|Q2264924|Q515|Q1549591,,Trieste
+Trieste,Bathyscaphe Trieste,Q850157,6,0,1,deep sea scientific submarine,Trieste,Q208532|Q2811|Q130326199,,Trieste (bathyscaphe)
+Trieste,Trieste,Q37493443,6,0,1,family name,,Q101352,,
+Trieste,Trieste,Q25345688,6,0,1,2019 light aircraft carrier,,Q1185562,,Italian landing helicopter dock Trieste
+Trieste,Trieste,Q29855780,6,0,1,given name,,Q3409032,,
+Trieste,Trieste,Q122984884,6,0,1,male given name,,Q12308941,,
+Trieste,Trieste,Q136671289,6,0,1,,,Q2175765,,
+Trieste,Trieste,Q543584,6,0,1,"17th quarter of Rome, Italy",,Q1074955,,Trieste (Rome)
+Trieste,Province of Trieste,Q16293,6,0,1,former province in Italy,Trieste Province|provincia di Trieste,Q15089|Q3924474,,Province of Trieste
+Trieste,Trieste – Friuli Venezia Giulia Airport,Q893154,6,0,1,"international airport located 0.3 NM (0.56 km; 0.35 mi) west of Ronchi dei Legionari (Province of Gorizia), near Trieste in Friuli-Venezia Giulia, north-eastern Italy",TRS|LIPQ|Ronchi dei Legionari Airport|Trieste,Q1248784|Q94993988,,Trieste Airport
+Trieste,Library of the Museo civico di storia naturale,Q3639653,6,0,2,library,"Biblioteca del Museo civico di storia naturale|Trieste, Italy|Comune di Milano. Biblioteca del Museo civico di storia naturale, Milano (MI)|Biblioteca del Museo di Storia naturale e dell'Acquario civico di Milano",Q166118|Q385994|Q124750618,,Library of the Civic Museum of Natural History of Milan
+Trieste,"Trieste, Italy",Q119751702,6,0,2,"painting by Albert Letchford (1866–1905), Orleans House Gallery",,Q3305213,,
+Trieste,"Trieste, Italy",Q119751711,6,0,2,"painting by Albert Letchford (1866–1905), Orleans House Gallery (trieste-italy-87264)",,Q3305213,,
+Trieste,Free City of Trieste,Q57599935,6,0,2,Wikimedia disambiguation page,,Q4167410,,Free City of Trieste
+Venice,Venice,Q773853,6,1,1,"beachfront neighborhood in Los Angeles, California, USA","Venice, Los Angeles|Venice, California|Venice, CA",Q52154375,,"Venice, Los Angeles"
+Venice,Venice,Q641,6,1,1,"capital city of Veneto, Italy","Serenissima|Venexia|Venetia|Venice, Italy",Q747074|Q581830|Q2264924|Q515|Q1549591|Q4115680,,Venice
+Venice,Republic of Venice,Q4948,6,1,1,"former state (697–1797) controlling, at various times, parts of northeastern Italy, the Balkans, and Mediterranean islands",The Most Serene Republic of Venice|The Republic of Venice|Repulic of Venice|Venezia Republic|Venetian Republic|Venetian Empire|Republic of Venezia|Most Serene Republic of Venice|Republic Venice|The Serenissima|Venice Republic|Serenissima Repubblica di Venezia|Duchy of Venetia|Republic of Saint Mark|Republic of St. Mark|Venice|Serenìsima Repùblega de Venèsia,Q3624078|Q62825|Q3024240,,Republic of Venice
+Venice,Venice,Q37556754,6,1,1,family name,,Q101352,,
+Venice,Venice,Q3555518,6,1,1,1999 video game,Venice: Fortune and Glory in the City of the Doges,Q7889,,
+Venice,Venice,Q7919972,6,1,1,2007 puzzle video game,,Q7889,,Venice (video game)
+Venice,Venice,Q109853296,6,1,1,given name,,Q202444,,
+Venice,Venice,Q57325,6,1,1,"city in Sarasota County, Florida, United States","Venice, Florida|Venice, FL",Q1093829,,"Venice, Florida"
+Venice,Venice,Q137515560,6,1,1,painting by Luca Carlevarijs,,Q3305213,,
+Venice,Venice,Q135264475,6,1,1,Tony Hawk's Pro Skater 2 level,Venice Beach,Q1046315,,
+Venice,"Venice, Italy",Q106869359,6,1,2,painting by Denman Waldo Ross,,Q3305213,,
+Venice,"Venice, Italy",Q119918383,6,1,2,"painting by Amelia Mary Ann Heelas (1843–1922), Reading Museum & Town Hall",,Q3305213,,
+Venice,"Venice, Italy",Q119898075,6,1,2,"painting by Joseph Mallord William Turner (1775–1851) (circle of), Middlesbrough Institute of Modern Art, mima",,Q3305213,,
+Venice,"Venice, Italy",Q119857755,6,1,2,"painting by Evelyn Anne Woodroffe-Hicks (c.1867–1930), Herbert Art Gallery & Museum",,Q3305213,,
+Venice,"Venice, Italy 5",Q64162793,6,1,2,photograph in the National Gallery of Art (NGA 88505),,Q125191,,
+Venice,"Venice, Italy 28",Q64162814,6,1,2,photograph in the National Gallery of Art (NGA 88528),,Q125191,,
+Venice,"Venice, Italy 24",Q64162811,6,1,2,photograph in the National Gallery of Art (NGA 88524),,Q125191,,
+Venice,"Venice, Italy 7",Q64162795,6,1,2,photograph in the National Gallery of Art (NGA 88507),,Q125191,,
+Venice,"Venice, Italy 17",Q64162804,6,1,2,photograph in the National Gallery of Art (NGA 88517),,Q125191,,
+Venice,La Serenissima,Q3821186,6,1,2,1981 studio album by Rondò Veneziano,,Q482994,,La Serenissima (album)
+Venice,La Serenissima,Q56412597,6,1,2,1990 debut single by DNA,,Q134556,,
+Venice,La Serenissima,Q6465241,6,1,2,British instrument ensemble founded by Adrian Chandler,,Q215380,,La Serenissima (musical ensemble)
+Venice,La Serenissima Building,Q90042619,6,1,2,"building in Milan, Italy",,Q16560,,
+Venice,La serenissima (purple/blue),Q120060137,6,1,2,"painting by George Collier (b.1973), Grampian Hospitals Art Trust",,Q3305213,,
+Venice,La Serenissima - Theme from Venice in Peril,Q19819560,6,1,2,1983 single by Rondò veneziano,,Q134556,,
+Venice,Serenissima,Q444409,6,1,2,Wikimedia disambiguation page,La Serenissima|[La] Serenissima,Q4167410,,Serenissima
+Georgetown,Georgetown University,Q333886,7,0,1,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+Georgetown,Georgetown,Q990898,7,0,1,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+Georgetown,Georgetown,Q603389,7,0,1,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+Georgetown,Georgetown,Q695774,7,0,1,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+Georgetown,Georgetown,Q10717,7,0,1,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+Georgetown,Georgetown,Q2495209,7,0,1,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+Georgetown,Georgetown,Q182262,7,0,1,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+Georgetown,George Town,Q172996,7,0,1,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+Georgetown,Georgetown,Q1468648,7,0,1,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+Georgetown,Georgetown,Q877247,7,0,1,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Georgetown,Georgetown University Law Center,Q846101,7,0,2,law school of Georgetown University,Georgetown Law|GULC|Georgetown Law School|Georgetown University Law School|Georgetown University Law,Q1321960,,Georgetown University Law Center
+Georgetown,Georgetown University Press,Q5547060,7,0,2,university press,,Q479716|Q2085381,,Georgetown University Press
+Georgetown,Walsh School of Foreign Service,Q128047,7,0,2,school of international affairs at Georgetown University,Edmund A. Walsh School of Foreign Service|School of Foreign Service|SFS|Georgetown University's School of Foreign Service,Q189004|Q122940278,,Walsh School of Foreign Service
+Georgetown,Georgetown Hoyas,Q3141652,7,0,2,intercollegiate sports teams of Georgetown University,Georgetown Stonewalls|Georgetown Hilltoppers|Georgetown University Hoyas|Hoyas,Q2367225,,Georgetown Hoyas
+Georgetown,Georgetown University School of Medicine,Q5547065,7,0,2,medical school of Georgetown University,Georgetown University Medical School|Georgetown Medical School,Q494230,,Georgetown University School of Medicine
+Georgetown,Georgetown University Medical Center,Q5547057,7,0,2,medical campus of Georgetown University,GUMC,Q16917|Q4260475|Q4287745|Q23955632,,Georgetown University Medical Center
+Georgetown,MedStar Georgetown University Hospital,Q5547055,7,0,2,"hospital in Washington, D.C.",Georgetown University Hospital|MedStar Georgetown,Q1059324|Q7048982|Q4284971,,MedStar Georgetown University Hospital
+Georgetown,President of Georgetown University,Q6594667,7,0,2,head of Georgetown University,Georgetown University president,Q4164871,Q212071,
+Georgetown,Georgetown University Jesuit Community Cemetery,Q56724236,7,0,2,historic cemetery at Georgetown University,Georgetown Jesuit Cemetery|Jesuit Community Cemetery|Georgetown University Jesuit Cemetery,Q39614,,Georgetown University Jesuit Community Cemetery
+St. Louis,St. Louis,Q38022,7,1,1,"independent city in Missouri, United States","St. Louis, Missouri|City of St. Louis|St. Louis City|St. Louis, MO|Saint Louis, Missouri|Saint Louis, MO|STL",Q1549591|Q1266818|Q1093829,,St. Louis
+St. Louis,St. Louis,Q63430950,7,1,1,family name,St. Louis (family name)|St. Louis (surname),Q66480858,,
+St. Louis,St. Louis,Q96278264,7,1,1,vocal track by The Easybeats; 1969 studio recording,,Q55850593,,
+St. Louis,St. Louis Cardinals,Q504309,7,1,1,"Major League Baseball franchise in St. Louis, Missouri",Cardinals|St. Louis Perfectos|St. Louis Browns|St. Louis Brown Stockings|Brown Stockings|Browns|Perfectos|Saint Louis Cardinals|Cards|Red Birds,Q13027888,,St. Louis Cardinals
+St. Louis,Saint-Louis,Q273779,7,1,1,city and regional capital in Senegal,"Saint Louis|Ndar|St. Louis|Saint-Louis, Senegal",Q515|Q2989649|Q1549591|Q751030,,"Saint-Louis, Senegal"
+St. Louis,St. Louis (1922 Encyclopædia Britannica),Q123882006,7,1,1,encyclopedia article,St. Louis,Q13433827,,
+St. Louis,Saint Louis Art Museum,Q1760539,7,1,1,"art museum in St. Louis, Missouri",St. Louis Art Museum|City Art Museum of St. Louis|Saint Louis School and Museum of Fine Arts|SLAM,Q207694|Q33506,,Saint Louis Art Museum
+St. Louis,Los Angeles Rams,Q337377,7,1,1,"NFL franchise in Inglewood, California, United States",L.A. Rams|St. Louis Rams|Cleveland Rams|Los Angles Rams,Q17156793,,Los Angeles Rams
+St. Louis,St. Louis County,Q111549,7,1,1,"county in Minnesota, United States","Saint Louis County|St. Louis County, Minnesota|Saint Louis County, Minnesota|St Louis County|St. Louis County, MN",Q12262532,,"St. Louis County, Minnesota"
+St. Louis,Saint Louis University,Q734774,7,1,1,"private research university with campuses in St. Louis, Missouri, and Madrid, Spain",SLU|St. Louis University,Q3918|Q41176|Q23002054,,Saint Louis University
+St. Louis,St. Louis City SC,Q66642491,7,1,2,Major League Soccer team based in St. Louis,St. Louis MLS team|Saint Louis City SC|Saint Louis City Soccer Club|St. Louis City Soccer Club|Saint Louis MLS team|MLS4TheLou|St Louis City SC|TKFC LC,Q476028|Q15944511,,St. Louis City SC
+St. Louis,Energizer Park,Q30591730,7,1,2,"soccer-specific stadium in St. Louis, Missouri, USA",Saint Louis MLS stadium|St. Louis MLS stadium|St. Louis City SC stadium|St. Louis City stadium|Centene Stadium|CityPark,Q1154710|Q104417590,,Energizer Park
+St. Louis,St. Louis City Democrats,Q99732692,7,1,2,political organization in US state of Missouri,stlcitydems.com/,Q7210356,,
+St. Louis,St. Louis City SC 2,Q110937687,7,1,2,reserve team of St. Louis City SC,,Q476028,,St. Louis City 2
+St. Louis,St. Louis Forensic Treatment Center - South,Q124647209,7,1,2,"psychiatric hospital in St. Louis, Missouri",St. Louis Insane Asylum|St. Louis City Asylum|St. Louis Asylum|St. Louis Forensic Treatment Center|St. Louis City Insane Asylum|St. Louis County Insane Asylum|St. Louis County Lunatic Asylum|St. Louis Lunatic Asylum|St. Louis Psychiatric Rehabilitation Center,Q210999,,
+St. Louis,St. Louis City Board of Police Commissioners,Q135002851,7,1,2,civilian body overseeing the SLMPD,,Q43229,,St. Louis City Board of Police Commissioners
+St. Louis,"St. Louis City v Aston Villa, 30 July 2025",Q137274045,7,1,2,,,Q12166442,,
+St. Louis,St. Louis City Directories,Q25344920,7,1,2,,,,,St. Louis City Directories
+St. Louis,St. Louis County,Q498034,7,1,2,"county in Missouri, United States","St Louis County, Missouri|Saint Louis County|St. Louis County, Missouri|St Louis County|Saint Louis County, Missouri|St. Louis County, MO",Q13410520,,"St. Louis County, Missouri"
+St. Louis,St. Louis County Library,Q7589610,7,1,2,"public library in St. Louis County, Missouri",Saint Louis County Library,Q28564|Q26271642,,St. Louis County Library
+St. Louis,St. Louis County Police Department,Q7589612,7,1,2,"law enforcement agency in St. Louis County, Missouri, US",,Q1758690,,St. Louis County Police Department
+St. Louis,Camp Esquagama,Q56276149,7,1,2,"historic summer camp in Minnesota, USA",St. Louis County 4-H Club Camp,Q876852,,Camp Esquagama
+St. Louis,"2020 COVID-19 pandemic in St. Louis County, Missouri",Q94276796,7,1,2,"pandemic in St. Louis County, Missouri","COVID-19 pandemic in St. Louis County, Missouri|2020 coronavirus outbreak in St. Louis County, Missouri|2020 St. Louis County, Missouri COVID-19 pandemic|St. Louis County, Missouri COVID-19 pandemic|2020 COVID pandemic in St. Louis County, Missouri",Q3241045,,
+St. Louis,"2020 COVID-19 pandemic in St. Louis County, Minnesota",Q94277927,7,1,2,"pandemic in St. Louis County, Minnesota","COVID-19 pandemic in St. Louis County, Minnesota|2020 coronavirus outbreak in St. Louis County, Minnesota|2020 St. Louis County, Minnesota COVID-19 pandemic|St. Louis County, Minnesota COVID-19 pandemic|2020 COVID pandemic in St. Louis County, Minnesota",Q3241045,,
+St. Louis,St. Louis County Missouri Democrats,Q99732693,7,1,2,political organization in US state of Missouri,St. Louis County Democrats|St. Louis County MO Democrats,Q7210356,,
+St. Louis,St. Louis County District Courthouse,Q38251469,7,1,2,"Virginia, Minnesota, NRHP-listed in St. Louis County",,Q1137809,,St. Louis County District Courthouse
+Dar es Salaam,Dar es Salaam,Q1960,8,0,1,largest city in Tanzania and capital of Dar es Salaam Region,,Q515|Q2264924|Q51929311|Q108178728|Q129268952,,Dar es Salaam
+Dar es Salaam,Dar es Salaam Region,Q557539,8,0,1,region of Tanzania,,Q845820,,Dar es Salaam Region
+Dar es Salaam,Dar es Salaam,Q67841130,8,0,1,2002 album by Muslimgauze,,Q482994,,
+Dar es Salaam,Julius Nyerere International Airport,Q1411192,8,0,1,"airport in Dar es Salaam, Tanzania",Dar es Salaam International Airport|Dar es Salaam Airport|DAR|HTDA,Q644371|Q1248784|Q94993988,,Julius Nyerere International Airport
+Dar es Salaam,Dar-es-salaam,Q139182880,8,0,1,"village in Northern Region, Uganda",,Q486972,,
+Dar es Salaam,Dar es Salaam University College of Education,Q3015960,8,0,1,college in Tanzania,DUCE,Q189004,,Dar es Salaam University College of Education
+Dar es Salaam,Dar es Salaam Central Station,Q131442962,8,0,1,,Dar es Salaam Central Trainstation|Kituo kikuu cha reli Bongo,Q55488,,
+Dar es Salaam,Dar es Salaam Institute of Technology,Q5221955,8,0,1,educational institution in Tanzania,,Q1664720,,Dar es Salaam Institute of Technology
+Dar es Salaam,Pugu Train Station,Q131747516,8,0,1,,Dar es Salaam Pugu Station|Kituo cha reli Bongo Pugu,Q55488,,
+Dar es Salaam,Dar es Salaam Stock Exchange,Q490028,8,0,1,"stock exchange located in Dar es Salaam, Tanzania",DSE,Q4830453|Q11691,,Dar es Salaam Stock Exchange
+Hamburg,Hamburger SV,Q51974,8,1,1,"German sports club based in Hamburg, with its largest branch being its football department",HSV|Hamburger Sport-Verein|Hamburger|Hamburg SV|Hamburg Sport Club|Hamburg|H.S.V.|Hamburger S.V.|HamburgerSV,Q847017|Q476028,,Hamburger SV
+Hamburg,Hamburg,Q1055,8,1,1,city and state in the North of Germany,"Free and Hanseatic City of Hamburg|Hamburg, Germany|Hamburg, Freie und Hansestadt",Q1221156|Q1549591|Q707813|Q57318|Q2264924|Q200250|Q15974307|Q42744322|Q133442|Q85636199,,Hamburg
+Hamburg,Hamburg,Q16870461,8,1,1,family name,,Q101352,,Hamburg (surname)
+Hamburg,Hamburg-Mitte,Q1626,8,1,1,"district of Hamburg, Germany",,Q278976,,Hamburg-Mitte
+Hamburg,Hamburg,Q1572860,8,1,1,1960 Hamburg-class destroyer,Hamburg (D 181),Q174736,,German destroyer Hamburg
+Hamburg,Hamburg Biographies,Q1573212,8,1,1,reference work with 8 volumes,Hamburgische Biografie,Q13136,,
+Hamburg,Hamburg steak,Q16983167,8,1,1,dish consisting of a patty of ground beef,beef patty,,Q28100368|Q3200265,Hamburg steak
+Hamburg,University of Hamburg,Q156725,8,1,1,"university in Hamburg, Germany",Hamburg University|Universität Hamburg,Q875538|Q1767829|Q115427560,,University of Hamburg
+Hamburg,Hamburger,Q16870462,8,1,1,family name,,Q101352|Q3974881|Q862091,,Hamburger (surname)
+Hamburg,Hamburger Hochbahn AG,Q6442,8,1,1,"public transport company in Hamburg, Germany",HHA,Q740752|Q4830453,,Hamburger Hochbahn
+Busan,Busan,Q16520,9,0,1,metropolitan city of South Korea,Pusang|Busan Metropolitan City|Pusan Metropolitan City|Fuzan,Q2264924|Q482821|Q515|Q200250,,Busan
+Busan,Busan,Q106353854,9,0,1,family name,,Q101352,,
+Busan,Busan IPark FC,Q495027,9,0,1,"Football club in Busan, Korea",Busan IPark Football Club|Busan IPark|Saehan Motors Football Club|Daewoo Royals Football Club|Pusan Daewoo Royals FC|Pusan I.cons FC|Busan I'Cons FC|Busan I'Park FC,Q476028,,Busan IPark
+Busan,Bušan,Q45449665,9,0,1,Ming dynasty person CBDB = 123954,Yiergenjueluo Bushan,Q5,,Bušan
+Busan,2002 Asian Games,Q494906,9,0,1,14th edition of the Asian Games,14th Asian Games|Busan 2002|XIV Asiad,Q167170,,2002 Asian Games
+Busan,Busan station,Q53118,9,0,1,"Train station in Dong-gu, Busan, South Korea",Busan,Q55488|Q22808404,,Busan station
+Busan,Busanan Ongbumrungpan,Q510884,9,0,1,Thai badminton player,Busanan Ongbamrungphan|Busanan Ongbamrungpan,Q5,,Busanan Ongbamrungphan
+Busan,Pusan National University,Q53122,9,0,1,"university in Busan, South Korea",Busan National University|Busan University|PNU|Pusan University,Q3918,,Pusan National University
+Busan,Busang,Q14919618,9,0,1,"district in East Kutai Regency, East Kalimantan Province, Indonesia",Busang District,Q3700011,,
+Busan,Busano,Q9111,9,0,1,Italian comune,,Q747074,,Busano
+Busan,Busan Metropolitan City Fire Safety Headquarters,Q11648087,9,0,2,,Busan Fire Department,Q1195942,,
+Busan,Busan Metropolitan City Route 61,Q16100355,9,0,2,,,,,
+Busan,The Busan Metropolitan Simin Municipal Library,Q12598765,9,0,2,"archive organization in Busan, South Korea",Busan Metropolitan City Citizen's Library|Busan Metropolitan City Lip City Library,Q3152824,,
+Busan,Busan Metropolitan City Route 10,Q12598755,9,0,2,,,Q34442,,
+Busan,East-West Highway,Q11235652,9,0,2,,Busan Metropolitan City Road Line 22,Q46622,,
+Busan,Busan Metropolitan City Route 66,Q16099742,9,0,2,"road in Busan, South Korea",,Q34442,,
+Busan,Busan Metropolitan City Road 71,Q12598761,9,0,2,,,,,
+Busan,Busan Metropolitan City Route 40,Q12598759,9,0,2,,,Q34442,,
+Busan,Busan Metropolitan City Route 12,Q20948112,9,0,2,,,Q34442,,
+Busan,Busan Citytour Bus,Q8996891,9,0,2,,,Q18116579,,
+Busan,Busan City Gas,Q110115161,9,0,2,,,,,
+Valparaíso,Valparaíso,Q33986,9,1,1,city in Chile,"Valparaiso, Chile|Valparaiso",Q25412763|Q1549591|Q2264924|Q11204,,Valparaíso
+Valparaíso,Valparaiso University,Q186047,9,1,1,"Lutheran university in Valparaiso, Indiana, US",Valpo|VU|Valparaiso Male and Female College|Northern Indiana Normal School and Business Institute|Valparaiso College,Q902104|Q23002054|Q45400320,,Valparaiso University
+Valparaíso,Valparaíso,Q13109251,9,1,1,municipality in the state of São Paulo in Brazil,"Valparaíso, São Paulo|Valparaiso",Q3184121,,"Valparaíso, São Paulo"
+Valparaíso,Valparaíso,Q2651632,9,1,1,"town in Zacatecas, Mexico",Valparaiso,Q20202352,,"Valparaíso, Zacatecas"
+Valparaíso,Valparaiso,Q868888,9,1,1,"city in Porter County, Indiana, United States","Valparaiso, Indiana|Valparaiso, IN",Q1093829,,"Valparaiso, Indiana"
+Valparaíso,Valparaíso,Q600927,9,1,1,"municipality of the department of Antioquia, Colombia","Valparaíso, Antioquia",Q2555896,,"Valparaíso, Antioquia"
+Valparaíso,Valparaíso Region,Q219458,9,1,1,administrative region of Chile,Valparaiso Region,Q590080,,Valparaíso Region
+Valparaíso,Valparaíso Municipality,Q4103088,9,1,1,"municipality in the State of Zacatecas, Mexico",Valparaiso Municipality|Valparaíso|Valparaiso,Q1952852,,
+Valparaíso,Valparaíso,Q125627790,9,1,1,composição musical de Aurélio Cavalcanti,,Q105543609,,
+Valparaíso,Valparaíso,Q23660191,9,1,1,commune of Chile,,Q1840161,,
+Veracruz,Veracruz,Q60130,10,0,1,federal state of Mexico,Free and Sovereign State of Veracruz de Ignacio de la Llave|Veracruz de Ignacio de la Llave,Q15149663,,Veracruz
+Veracruz,Veracruz,Q173270,10,0,1,"city of Veracruz, Mexico","Veracruz, Mexico|Veracruz, Veracruz, Mexico|Vera Cruz",Q515|Q2264924|Q1549591|Q20202352,,Veracruz (city)
+Veracruz,Veracruz municipality,Q20270915,10,0,1,"municipality in the State of Veracruz, Mexico",Veracruz,Q1952852,,
+Veracruz,Veracruz,Q2344760,10,0,1,"municipality in Copán Department, Honduras","Veracruz, Copán",Q2602693,,"Veracruz, Honduras"
+Veracruz,Veracruz,Q20238958,10,0,1,"locality in Othon P. Blanco Municipality, Mexico",,Q20202352,,
+Veracruz,Veracruz,Q50029043,10,0,1,,,Q20202352,,
+Veracruz,Beranuy,Q1020564,10,0,1,"Spanish municipality, inside the province of Huesca",Veracruz,Q2074737,,Beranuy
+Veracruz,Veracruz,Q137432090,10,0,1,"farmstead in Boaco Department, Nicaragua",,Q72030539,,
+Veracruz,Veracruz,Q36886945,10,0,1,family name,,Q101352,,
+Veracruz,26857 Veracruz,Q6463937,10,0,1,asteroid,(26857) 1993 DN1|Veracruz,Q3863,,26857 Veracruz
+Veracruz,Veracruz State Art Museum,Q15299085,10,0,2,Museum of Veracruz,,Q207694,,
+Miami-Dade County,Miami-Dade County,Q468557,10,1,1,"county in Florida, United States","Dade County|Miami-Dade County, Florida|Dade County, Florida|Miami-Dade County, FL",Q13410422,,"Miami-Dade County, Florida"
+Miami-Dade County,Miami-Dade County Public Schools,Q5640011,10,1,1,"public school system of Miami-Dade County, Florida, serving Miami",M-DCPS|Dade County Public School System|DCPS|Dade County Public Schools,Q15726209,,Miami-Dade County Public Schools
+Miami-Dade County,"2020 COVID-19 pandemic in Miami-Dade County, Florida",Q94267826,10,1,1,"pandemic in Miami-Dade County, Florida","COVID-19 pandemic in Miami-Dade County, Florida|2020 coronavirus outbreak in Miami-Dade County, Florida|2020 Miami-Dade County, Florida COVID-19 pandemic|Miami-Dade County, Florida COVID-19 pandemic|2020 COVID pandemic in Miami-Dade County, Florida",Q3241045,,
+Miami-Dade County,Miami-Dade Public Library System,Q6827243,10,1,1,public library system in Florida,Miami Dade County Public Library,Q16860836|Q26271642,,Miami-Dade Public Library System
+Miami-Dade County,2012 Miami-Dade County mayoral election,Q28406861,10,1,1,,"Miami-Dade County mayoral election, 2012",Q15280243,,2012 Miami-Dade County mayoral election
+Miami-Dade County,Miami-Dade County Courthouse,Q3011775,10,1,1,,"Dade County Courthouse,",Q11303|Q64037785,,Miami-Dade County Courthouse
+Miami-Dade County,2011 Miami-Dade County mayoral election,Q28406835,10,1,1,,"Miami-Dade County mayoral election, 2011",Q15280243,,2011 Miami-Dade County mayoral special election
+Miami-Dade County,2016 Miami-Dade County mayoral election,Q28406845,10,1,1,,"Miami-Dade County mayoral election, 2016",Q15280243,,2016 Miami-Dade County mayoral election
+Miami-Dade County,government of Miami-Dade County,Q16994342,10,1,1,system of government of U.S. county,Miami-Dade County government,Q102121698,,Government of Miami-Dade County
+Miami-Dade County,Miami-Dade Democratic Party,Q99522254,10,1,1,"political organization in Florida, US",Miami-Dade County Democrats|miamidadedems.org|Miami-Dade County Florida Democrats|Miami-Dade County FL Democrats,Q7210356,,
+Dakar,Dakar,Q3718,11,0,1,capital and the largest city of Senegal,,Q2264924|Q1549591|Q15253706,,Dakar
+Dakar,Dakar,Q1157734,11,0,1,actor (1921-2004),Dakkar|Ales Dakar|Alejandro Barrera|Alejandro Barrera Dakar,Q5,,Dakar (actor)
+Dakar,Dakar Rally,Q181336,11,0,1,off-road rally raid,Paris Dakar Rally|Paris-Dakar Rally|The Dakar Rally|Dakar,Q18608583|Q14547231,Q56610307,Dakar Rally
+Dakar,Dakar,Q856268,11,0,1,region of Senegal,Dakar Region,Q847667,,Dakar region
+Dakar,CARD8,Q18036577,11,0,1,protein-coding gene in the species Homo sapiens,CARDINAL|DACAR|DAKAR|NDPP|NDPP1|TUCAN|caspase recruitment domain family member 8,Q7187,Q20747295,Caspase recruitment domain-containing protein 8
+Dakar,Dakar School,Q3577793,11,0,1,Senegalese art movement (1960–1974),Ecole de Dakar|École de Dakar,Q968159,,Dakar School
+Dakar,Dakar medical,Q27710710,11,0,1,journal,Dakar Med,Q5633421,,
+Dakar,Dakaria,Q4182096,11,0,1,genus of bryozoans,,Q16521|Q1040689,,
+Dakar,Dakar 2: The World's Ultimate Rally,Q3012229,11,0,1,2003 video game,Dakar 2,Q7889,,Dakar 2: The World's Ultimate Rally
+Dakar,Dakar-Plateau,Q2723940,11,0,1,"district of Dakar, Senegal",,Q2989468|Q2989649|Q4286337,,Dakar-Plateau
+Dakar,Senegal,Q1041,11,0,2,country on the coast of West Africa,Republic of Senegal,Q3624078|Q7270|Q4209223|Q6256,,Senegal
+Dakar,Senegal,Q37183076,11,0,2,family name,,Q101352,,
+Dakar,Senegal men's national association football team,Q207441,11,0,2,men's national association football team representing Senegal,Senegal national soccer team|Senegal national football team|Senegal|Senegal national association football team,Q135408445,Q1194951,Senegal national football team
+Dakar,Senegalia,Q3775608,11,0,2,genus of plants,,Q16521,,Senegalia
+Dakar,Senegal River,Q3569,11,0,2,river in West Africa,Senegal,Q4022,,Senegal River
+Dakar,Senegalia catechu,Q935632,11,0,2,species of plant,Acacia catechu,Q16521,,Senegalia catechu
+Dakar,Senegalia pennata,Q50870573,11,0,2,species of plant,,Q16521,,
+Dakar,Senegalia afra,Q15535848,11,0,2,species of plant,,Q16521,,Senegalia afra
+Dakar,Senegalia rugata,Q50870560,11,0,2,species of plant,,Q16521,Q11992872,Senegalia rugata
+Dakar,French Senegal,Q5502051,11,0,2,,Senegal,Q133156,,French Senegal
+Ann Arbor,Ann Arbor,Q485172,11,1,1,"county seat of Washtenaw County, Michigan, United States","Ann Arbor, Michigan|Ann Arbor, MI|City of Ann Arbor",Q1093829|Q62049|Q1549591,,"Ann Arbor, Michigan"
+Ann Arbor,Michigan Medicine,Q7895758,11,1,1,"medical center and school of the University of Michigan in Ann Arbor, MI",University of Michigan Health System|University Hospital in Ann Arbor|Ann Arbor University Hospital,Q4671274,,University of Michigan Medicine
+Ann Arbor,Ann Arbor station,Q4766212,11,1,1,"railway station in Ann Arbor, Michigan",,Q55488,,Ann Arbor station
+Ann Arbor,Pioneer High School,Q7196697,11,1,1,"high school in Ann Arbor, Washtenaw County, Michigan, United States",Ann Arbor High School,Q9826,,"Pioneer High School (Ann Arbor, Michigan)"
+Ann Arbor,Ann Arbor Convertible Car,Q4766211,11,1,1,automobile manufactured in Michigan from 1911 to 1912,,Q3231690,,Ann Arbor (automobile)
+Ann Arbor,Ann Arbor,Q110294367,11,1,1,hymn tune,,Q105543609,,
+Ann Arbor,Ann-Arbor-Bridge,Q130307083,11,1,1,Bicycle bridge in Tübingen,,Q2502622,,
+Ann Arbor,Ann Arbor's first lady: events in the life of Ann I. Allen,Q140678789,11,1,1,book published in 1998,,Q3331189,,
+Ann Arbor,Ann Arbor Argus-Democrat,Q138497668,11,1,1,"newspaper published in Ann Arbor, Michigan, US ca. 1870s-1900s",Ann Arbor Democrat|Ann Arbor Argus,Q11032,,
+Ann Arbor,Ann Arbor Potters Guild,Q133271761,11,1,1,"cooperative non-profit organization in Ann Arbor, Michigan",The Potters Guild|Potter's Guild,Q163740|Q18587891,,
+Ann Arbor,University of Michigan,Q230492,11,1,2,"public research university in Ann Arbor, Michigan","UMich|UM|U of Michigan|U of M|Univ of Michigan|U Michigan Ann Arbor|University of Michigan Ann Arbor|umich.edu|The University of Michigan|U-M|uofmichigan|umichigan|UMichigan|umich|University of Michigan-Ann Arbor|University of Michigan, Ann Arbor|University of Michigan–Ann Arbor|Univ. of Michigan",Q62078547|Q23002039,,University of Michigan
+Ann Arbor,"University of Michigan catalogue of two-dimensional spectral types for the HD stars, Volume 1: Declinations -90° to -53°.0",Q66617329,11,1,2,book edition published in 1975,,Q57933693,,
+Ann Arbor,"Michigan catalogue of two-dimensional spectral types for the HD stars, Volume 3: Declinations -40°.0 to -26°.0",Q66617465,11,1,2,book edition published in 1982,,Q57933693,,
+Ann Arbor,University of Michigan School of Public Health,Q7895778,11,1,2,School of Public Health at the University of Michigan,UM SPH|University of Michigan SPH,Q3918|Q69964246,,University of Michigan School of Public Health
+Ann Arbor,University of Michigan Law School,Q911830,11,1,2,law school,,Q1321960,,University of Michigan Law School
+Ann Arbor,"University of Michigan College of Literature, Science, and the Arts",Q7895753,11,1,2,liberal arts and sciences school in Michigan,,Q4671277,,"College of Literature, Science, and the Arts"
+Ann Arbor,University of Michigan Medical School,Q20725458,11,1,2,American medical school,University of Michigan School of Medicine,Q494230,,University of Michigan Medical School
+Ann Arbor,Michigan Wolverines,Q3174102,11,1,2,intercollegiate sports teams of the University of Michigan,University of Michigan sports teams|Wolverines,Q2367225,,Michigan Wolverines
+Ann Arbor,University of Michigan,Q20670914,11,1,2,painting by Jasper Francis Cropsey,,Q3305213,,
+Ann Arbor,University of Michigan Medical Center journal,Q27713708,11,1,2,journal,Univ Mich Med Cent J|The University of Michigan Medical Center journal,Q5633421,,
+Ann Arbor,Ann Arbor District Library,Q4766217,11,1,2,public library system in Michigan,,Q327333|Q26271642|Q163740,,Ann Arbor District Library
+Ann Arbor,Ann Arbor District Library,Q69958295,11,1,2,"public library in Ann Arbor, Michigan, USA",Downtown Ann Arbor Library|Ann Arbor District Library: Downtown Library,Q12317349|Q28564|Q7075,,
+Edenton,Edenton,Q2028258,12,0,1,"town in Chowan County, North Carolina, United States","Edenton, North Carolina|Edenton, NC|Queen Anne's Town",Q2264924|Q15127012|Q132680629,,"Edenton, North Carolina"
+Edenton,Edenton,Q37480121,12,0,1,family name,,Q101352,,
+Edenton,Edenton,Q14716408,12,0,1,"human settlement in Clermont County, Ohio, United States of America","Edenton, Ohio|Edenton, OH",Q17343829,,"Edenton, Ohio"
+Edenton,Edenton-Chowan Schools,Q5337014,12,0,1,,,Q398141,,Edenton-Chowan Schools
+Edenton,Edenton Tea Party,Q111462706,12,0,1,North Carolina historic marker A-22,A-22,Q721747,,
+Edenton,Edenton-class salvage and rescue ship,Q28097270,12,0,1,1968 class of American salvage ships,,Q559026,Q820378,Edenton-class salvage and rescue ship
+Edenton,Edenton Colonials,Q109285808,12,0,1,minor League Baseball team,,Q13027888,,Edenton Colonials
+Edenton,Edenton Steamers,Q5337017,12,0,1,Coastal Plain League baseball team,,Q13027888,,Edenton Steamers
+Edenton,Edenton-Chowan Trail System,Q67181599,12,0,1,,,Q67179750,,
+Edenton,Edenton Tea Party,Q3047405,12,0,1,political protests by American colonists,,Q273120,,Edenton Tea Party
+Edenton,Edenton Historic District,Q5337016,12,0,2,"historic district in North Carolina, United States",,Q15243209,,Edenton Historic District

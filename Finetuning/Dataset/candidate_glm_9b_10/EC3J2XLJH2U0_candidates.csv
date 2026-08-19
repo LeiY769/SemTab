@@ -1,0 +1,382 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bøkfjorden,Bøkfjorden,Q2656917,0,0,1,"fjord in Sør-Varanger Municipality, Norway",Báhčaveajvuonna,Q45776,,Bøkfjorden
+Bøkfjorden,Varangerfjord,Q384858,0,0,2,"fjord in Finnmark county, Norway",,Q45776,,Varangerfjord
+Bøkfjorden,Varangerfjord,Q27824659,0,0,2,"ship, 1990",Nico|Forward,Q11446,,
+Bøkfjorden,Varangerfjorden basin,Q140842284,0,0,2,basin in Norway and Russia,,Q82700259,,
+Varangerfjord,Varangerfjord,Q384858,0,1,1,"fjord in Finnmark county, Norway",,Q45776,,Varangerfjord
+Varangerfjord,Varangerfjord,Q27824659,0,1,1,"ship, 1990",Nico|Forward,Q11446,,
+Varangerfjord,Varangerfjorden basin,Q140842284,0,1,1,basin in Norway and Russia,,Q82700259,,
+Varangerfjord,Bøkfjorden,Q2656917,0,1,2,"fjord in Sør-Varanger Municipality, Norway",Báhčaveajvuonna,Q45776,,Bøkfjorden
+Varangerfjord,fjord,Q45776,0,1,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Varangerfjord,Fjord Municipality,Q65230514,0,1,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Varangerfjord,Fjord,Q123166572,0,1,2,family name,,Q101352,,
+Varangerfjord,lagoon,Q187223,0,1,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Varangerfjord,Fjord Line,Q1422444,0,1,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Varangerfjord,IMO 8410316,Q58411518,0,1,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Varangerfjord,Fjord,Q20635222,0,1,2,painting by John Adams Griefen,,Q3305213,,
+Varangerfjord,Fjord,Q20266504,0,1,2,painting by Mel Bochner,,Q3305213,,
+Varangerfjord,Fjord,Q52333173,0,1,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Varangerfjord,Tide Bane,Q5456496,0,1,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Vestfjorden,Vestfjorden,Q1753121,1,0,1,"sea area between Lofoten and Salten, Norway",,Q45776,,Vestfjorden
+Vestfjorden,Tønsbergfjorden,Q4583789,1,0,1,"fjord in Vestfold, Norway",Vestfjorden,Q45776,,Tønsbergfjorden
+Vestfjorden,Vestfjorden,Q3441682,1,0,1,fjord in Svalbard,West Fjord,Q45776,,Vestfjorden (Svalbard)
+Vestfjorden,Vestfjorden,Q11223754,1,0,1,"part of Tinnsjå, Telemark, Norway",,Q17018380,,
+Vestfjorden,Vestfjorden,Q11073998,1,0,1,"part of Oslofjorden, Norway",,Q45776,,
+Vestfjorden,Vestfjorden,Q12009479,1,0,1,"fjord in Vestfold, Norway",,Q45776,,
+Vestfjorden,Vestfjorden,Q11211531,1,0,1,"fjord in Nordkapp, Norway",,Q45776|Q17018380,,
+Vestfjorden,Ide Vest,Q118367574,1,0,1,,Vestfjorden Fergeselskap,Q740752,,
+Vestfjorden,Vestfjorden,Q49315007,1,0,1,,,Q15324,,
+Vestfjorden,Vestfjordens Seilforening,Q19397895,1,0,1,,,Q847017,,
+Vestfjorden,Vestfjord,Q21809578,1,0,2,fjord in Greenland,Vest Fjord|West Fjord|Västfjorden,Q45776,,Vestfjord
+Vestfjorden,Rjukan Line,Q545998,1,0,2,railway line,West Fjord Valley Line,Q728937|Q2065736|Q33506|Q420962,,Rjukan Line
+Vestfjorden,Vestfjorddalen,Q1777539,1,0,2,"valley in Tinn, Norway",,Q39816,,Vestfjorddalen
+North Atlantic Ocean,North Atlantic Ocean,Q350134,1,1,1,northern area of the Atlantic ocean,North Atlantic|Northern Atlantic|Northern Atlantic Ocean,Q165,,North Atlantic Ocean
+North Atlantic Ocean,North Atlantic Ocean,Q11992616,1,1,1,1984 studio album by Johannes Kleppevik,,Q482994,,
+North Atlantic Ocean,North Atlantic Ocean Weather and Iceberg Siting Charts (NAID 68887783),Q64204649,1,1,1,series in the National Archives and Records Administration's holdings,,Q2668072,,
+North Atlantic Ocean,"North Atlantic Ocean, Cliffs of Moher I",Q64155150,1,1,1,photograph in the National Gallery of Art (NGA 99167),,Q125191,,
+North Atlantic Ocean,North Atlantic Ocean control on surface heat flux on multidecadal timescales,Q39036352,1,1,1,scientific article published on July 2013,,Q13442814,,
+North Atlantic Ocean,NORTH ATLANTIC OCEAN,Q29039357,1,1,1,scientific article (publication date: September 1932),,Q13442814,,
+North Atlantic Ocean,NORTH ATLANTIC OCEAN,Q56905218,1,1,1,,,Q13442814,,
+North Atlantic Ocean,NORTH ATLANTIC OCEAN,Q56874963,1,1,1,,,Q13442814,,
+North Atlantic Ocean,North Atlantic ocean circulation and abrupt climate change during the last glaciation,Q31111700,1,1,1,scientific article,,Q13442814,,
+North Atlantic Ocean,North Atlantic oceanography as possible cause of Antarctic glaciation and eutrophication,Q59096335,1,1,1,scientific article published in Nature,,Q13442814,,
+North Atlantic Ocean,Atlantic Ocean,Q97,1,1,2,"ocean between Europe, Africa and the Americas",Atlantic|Atlantic Sea|Great Western Ocean|Oceanus|the Atlantic|Atlantick|Atlantick Ocean|Atlantick Sea|the Atlantick,Q9430,,Atlantic Ocean
+North Atlantic Ocean,Atlantic Ocean,Q4816504,1,1,2,Dutch trance/electronic band,,Q215380,,Atlantic Ocean (band)
+North Atlantic Ocean,Atlantic Ocean,Q121826975,1,1,2,painting by José María Velasco,,Q3305213,,
+North Atlantic Ocean,Atlantic Ocean,Q22828099,1,1,2,Wikimedia permanent duplicated item,,Q21286738,,
+North Atlantic Ocean,Atlantic Ocean,Q31956345,1,1,2,Swedish band,Quints,Q215380,,
+North Atlantic Ocean,Atlantic Ocean,Q113612232,1,1,2,ship built in 1978,IMO 7614836|Dien Danielsen|Dien|Ulla Danielsen|Natalie I|Inderbasie,Q105999,,
+North Atlantic Ocean,Atlantic Ocean drainage basin,Q44715398,1,1,2,drainage basin,Atlantic Ocean basin|Atlantic Ocean watershed,Q82700259,,
+North Atlantic Ocean,Atlantic Ocean,Q19129281,1,1,2,poem written by Vladimir Mayakovsky,,Q7725634,,
+North Atlantic Ocean,Atlantic Ocean,Q117082049,1,1,2,container ship built in 1996,IMO 9131008,Q17210,,
+North Atlantic Ocean,Atlantic Oceanographic and Meteorological Laboratory,Q4816515,1,1,2,U.S. Government research laboratory,AOML,Q327333|Q31855,,Atlantic Oceanographic and Meteorological Laboratory
+North Atlantic Ocean,Ocean,Q71267306,1,1,2,unisex given name,,Q3409032,,
+North Atlantic Ocean,Oceanus,Q161419,1,1,2,"ancient Greek god of the earth-encircling river, Oceanos",Okeanos,Q45713|Q3059255|Q207174,,Oceanus
+North Atlantic Ocean,ocean,Q9430,1,1,2,very large body of saline water,sea|oceans|oceanic,,Q35145263|Q15324|Q116126039|Q116126228,Ocean
+North Atlantic Ocean,Ocean,Q37507221,1,1,2,family name,,Q101352,,
+North Atlantic Ocean,Ocean,Q55064464,1,1,2,musical track by Martin Garrix featuring Khalid,,Q55850593,,
+North Atlantic Ocean,mountain range,Q46831,1,1,2,geographic area containing several geologically related mountains,mountain belt|mountain barrier|hill range|range|mountains|oceanic range|mountain system,,Q271669|Q82794|Q35145263|Q106589819,Mountain range
+North Atlantic Ocean,Ocean,Q22130561,1,1,2,scrapped ro/ro ferry,Ferry Lavender|Ionian King|Ocean Rose|Ocean King,Q25653,,
+North Atlantic Ocean,Ocean Software,Q1408498,1,1,2,British software company,Ocean Software Ltd|Ocean|Bandai Namco Games UK Ltd.,Q210167|Q1137109,,Ocean Software
+North Atlantic Ocean,Oceanside,Q488924,1,1,2,"city in San Diego County, California, United States","Oceanside, California|Oceanside, USA|Oceanside, CA",Q1093829|Q1549591|Q13218391,,"Oceanside, California"
+North Atlantic Ocean,Southeast Asia,Q11708,1,1,2,south-eastern region of Asia,"Southeastern Asia|South-east Asia|South East Asia|SE Asia|Asia, Southeastern|SEA",Q82794,,Southeast Asia
+North Atlantic Ocean,SeaLifeBase,Q7439813,1,1,2,global online database of information about marine life,,Q4117139|Q7094076|Q5570651|Q35127,,SeaLifeBase
+North Atlantic Ocean,Seattle–Tacoma International Airport,Q14295,1,1,2,"airport in SeaTac, Washington, USA",Sea–Tac|SeaTac|KSEA|Seattle Tacoma International Airport|Seattle-Tacoma International Airport|Sea-Tac|Sea-Tac Airport|Sea–Tac Airport|SEA|SEA Airport,Q644371|Q1248784|Q94993988,,Seattle–Tacoma International Airport
+North Atlantic Ocean,Seattle,Q5083,1,1,2,"city in and county seat of King County, State of Washington, United States","Seattle, Washington|Seattle, WA|Duwamps|New York Alki|Emerald City",Q1093829|Q62049|Q1549591,,Seattle
+North Atlantic Ocean,Sea,Q3476636,1,1,2,genus of insects,,Q16521,,
+North Atlantic Ocean,sea,Q165,1,1,2,large body of saline water,seas,,Q2507626|Q116126039|Q116126228,Sea
+North Atlantic Ocean,COVID-19,Q84263196,1,1,2,contagious disease caused by SARS-CoV-2,coronavirus disease 2019|nCOVD-19|2019-nCoV acute respiratory disease|Novel Coronavirus Pneumonia|Covid-19|Severe Acute Respiratory Syndrome Coronavirus 2|Wuhan respiratory syndrome|severe acute respiratory syndrome type 2|nCOVD 19|CD-19|SARS-CoV-2|2019 novel coronavirus pneumonia|Wuhan pneumonia|COVID|COVID 19|Coronavirus disease 2019|nCOVD19|2019 NCP|COVID19|2019 novel coronavirus respiratory syndrome|seafood market pneumonia|SARS-CoV-2 infection|COVID-2019|WuRS,Q112193867,Q2633267|Q18975243|Q2603200|Q182672|Q107295072|Q12192|Q609748,COVID-19
+North Atlantic Ocean,Sean,Q19801202,1,1,2,male given name,Sean (given name)|Sean (first name),Q12308941,,Sean
+North Atlantic Ocean,Sea of Japan,Q27092,1,1,2,"marginal sea between Japan, Russia, and Korea",East Sea|East Sea of Korea,Q204894,,Sea of Japan
+Woodfjorden,Woodfjorden,Q2541605,2,0,1,fjord in Svalbard,,Q45776,,Woodfjorden
+Woodfjorden,fjord,Q45776,2,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Woodfjorden,Fjord Municipality,Q65230514,2,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Woodfjorden,Fjord,Q123166572,2,0,2,family name,,Q101352,,
+Woodfjorden,lagoon,Q187223,2,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Woodfjorden,Fjord Line,Q1422444,2,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Woodfjorden,IMO 8410316,Q58411518,2,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Woodfjorden,Fjord,Q20635222,2,0,2,painting by John Adams Griefen,,Q3305213,,
+Woodfjorden,Fjord,Q20266504,2,0,2,painting by Mel Bochner,,Q3305213,,
+Woodfjorden,Fjord,Q52333173,2,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Woodfjorden,Tide Bane,Q5456496,2,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Woodfjorden,Aqua Fjord,Q52512359,2,0,2,ship built in 2004,,Q110966816,,
+Woodfjorden,Arctic Fjord,Q124062156,2,0,2,ship built in 1975,IMO 7391305,Q1420024,,
+Woodfjorden,Arctic fjords: a review of the oceanographic environment and dominant physical processes,Q59213827,2,0,2,article,,Q13442814,,
+Greenland Sea,Greenland Sea,Q132868,2,1,1,sea,,Q165,,Greenland Sea
+Greenland Sea,Greenland Sea Gyre increases microplastic pollution in the surface waters of the Nordic Seas,Q92601310,2,1,1,scientific article published on 07 January 2020,,Q13442814,,
+Greenland Sea,Greenland sea ice/ocean margin,Q114649781,2,1,1,scientific article published in 1983,,Q13442814,,
+Greenland Sea,Greenland Sea Odden sea ice feature: Intra-annual and interannual variability,Q114649841,2,1,1,scientific article published in 1998,,Q13442814,,
+Greenland Sea,Greenland Seal in British Waters,Q60127354,2,1,1,scientific article published in Nature,,Q13442814,,
+Greenland Sea,Greenland Seafood Europe Gmbh,Q132064162,2,1,1,,,Q43229,,
+Greenland Sea,Greenland Seafood Europe S.A.S,Q132069374,2,1,1,,,Q43229,,
+Greenland Sea,Arctic Ocean,Q788,2,1,2,"smallest, shallowest, coldest, and northernmost of the world's major oceans",Northern Ocean|Arctic Sea|Tartar Sea|Tartar Ocean|Sea of Tartary|Ocean of Tartary|Tartaric Sea|Glacial Sea|Icy Ocean|Icy Sea|Yce Sea|Ice Sea|Ice Ocean|the Northern Ocean,Q9430|Q1973404,,Arctic Ocean
+Greenland Sea,Arctic,Q25322,2,1,2,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Greenland Sea,IMO 9123805,Q83490838,2,1,2,container ship built in 1995,Arctic Ocean|Norasia Arabia|Elusive|Njord|Jord|Jordania,Q353699,,
+Greenland Sea,Arctic Ocean,Q83627614,2,1,2,ship built in 1948,,Q1504307,,
+Greenland Sea,IMO 8902450,Q83627176,2,1,2,scrapped bulk carrier,,Q15276,,
+Greenland Sea,Arctic Ocean Highway,Q1294099,2,1,2,road in Finland,,Q445741,,Arctic Ocean Highway
+Greenland Sea,Arctic Ocean,Q134880325,2,1,2,Wikimedia permanent duplicated item,,Q21286738,,
+Greenland Sea,Arctic Ocean basin,Q46525532,2,1,2,,Arctic Ocean drainage basin,Q82700259,,
+Greenland Sea,Arctic residents,Q110931482,2,1,2,inhabitants of Arctic regions,Arctic Ocean Region residents|circumpolar residents|Far North residents|Far Northerners|hyperboreans|northerners|subarctic residents|Arctic people|Arctic peoples|hyperborean|Arctic inhabitants|Arctic region inhabitants|Arctic region residents,Q33829,Q22947,
+Greenland Sea,Murmansk Front,Q47000829,2,1,2,,Arctic Ocean Front,Q842332,,
+Greenland Sea,North Atlantic Ocean,Q350134,2,1,2,northern area of the Atlantic ocean,North Atlantic|Northern Atlantic|Northern Atlantic Ocean,Q165,,North Atlantic Ocean
+Greenland Sea,North Atlantic Ocean,Q11992616,2,1,2,1984 studio album by Johannes Kleppevik,,Q482994,,
+Greenland Sea,North Atlantic Ocean Weather and Iceberg Siting Charts (NAID 68887783),Q64204649,2,1,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Greenland Sea,"North Atlantic Ocean, Cliffs of Moher I",Q64155150,2,1,2,photograph in the National Gallery of Art (NGA 99167),,Q125191,,
+Greenland Sea,North Atlantic Ocean control on surface heat flux on multidecadal timescales,Q39036352,2,1,2,scientific article published on July 2013,,Q13442814,,
+Greenland Sea,NORTH ATLANTIC OCEAN,Q29039357,2,1,2,scientific article (publication date: September 1932),,Q13442814,,
+Greenland Sea,NORTH ATLANTIC OCEAN,Q56905218,2,1,2,,,Q13442814,,
+Greenland Sea,NORTH ATLANTIC OCEAN,Q56874963,2,1,2,,,Q13442814,,
+Greenland Sea,North Atlantic ocean circulation and abrupt climate change during the last glaciation,Q31111700,2,1,2,scientific article,,Q13442814,,
+Greenland Sea,North Atlantic oceanography as possible cause of Antarctic glaciation and eutrophication,Q59096335,2,1,2,scientific article published in Nature,,Q13442814,,
+Horsens Fjord,Horsens Fjord,Q3272097,3,0,1,fjord in Denmark,,Q45776,,Horsens Fjord
+Horsens Fjord,"Horsens Fjord, havet øst for og Endelave",Q16324201,3,0,1,protected area in Denmark,,Q1191622|Q15069452,,
+Horsens Fjord,Horsens Fjord.,Q117599604,3,0,1,painting by Holger Drachmann,,Q3305213,,
+Horsens Fjord,Horsens Fjord og Endelave,Q128428927,3,0,1,protected area in Denmark,,Q15069452,,
+Horsens Fjord,Horsens Fjord,Q29397372,3,0,1,Wikimedia disambiguation page,,Q4167410,,
+Horsens Fjord,Kattegat,Q131716,3,0,2,sea area between Denmark and Sweden,Categat|Kategat|t'Schager Rack|Categate|Kattegatt|Cattegat,Q37901|Q1322134,,Kattegat
+Horsens Fjord,Kattegat,Q83606353,3,0,2,ship built in 1996,IMO 9112765,Q11446,,
+Horsens Fjord,IMO 9432866,Q84228535,3,0,2,chemical/oil products tanker,Kattegat|Sapphire-T,Q15254,,
+Horsens Fjord,Kattegat,Q19292710,3,0,2,"street in Groningen, the Netherlands",,Q79007,,
+Horsens Fjord,Kattegat,Q16801874,3,0,2,,,Q402092,,
+Horsens Fjord,Kattegat,Q31623118,3,0,2,,,Q54050,,
+Horsens Fjord,Kattegat,Q122710415,3,0,2,ship built in 1974,IMO 7361453,Q11446,,
+Horsens Fjord,Kattegat,Q19292711,3,0,2,"street in Woerden, the Netherlands",,Q79007,,
+Horsens Fjord,Kattegat,Q19292709,3,0,2,"street in Delfzijl, the Netherlands",,Q79007,,
+Horsens Fjord,Kattegat,Q105976712,3,0,2,"street in Büsum, Schleswig-Holstein, Germany",,Q79007,,
+Horsens Fjord,Horsens,Q190235,3,0,2,"city in Horsens Municipality, Denmark",,Q515,,Horsens
+Horsens Fjord,Horsens,Q50199713,3,0,2,family name,,Q101352,,
+Horsens Fjord,Horsens Municipality,Q512064,3,0,2,municipality of Denmark,,Q2177636,,Horsens Municipality
+Horsens Fjord,AC Horsens,Q289286,3,0,2,Danish football club based in Horsens,Horsens fS|Horsens FS,Q476028,,AC Horsens
+Horsens Fjord,Horsens Municipality (1970-2006),Q1628991,3,0,2,former municipality in Denmark,,Q23036513,,
+Horsens Fjord,Horsens station,Q613455,3,0,2,"railway station in Horsens Municipality, Denmark",,Q55488,,Horsens railway station
+Horsens Fjord,Horsens Parish,Q2252366,3,0,2,subdivision of the Diocese of Aalborg,,Q814648,,
+Horsens Fjord,Horsens Hospital,Q17165676,3,0,2,hospital in Denmark,Regional Hospital in Horsens,Q16917|Q4287745,,
+Horsens Fjord,HH Elite,Q2217179,3,0,2,Danish handball club,Horsens Håndboldklub|Horsens HK,Q10517054,,HH Elite
+Horsens Fjord,Horsens Statsskole,Q12317258,3,0,2,"gymnatium school in Horsens, Denmark",,Q16969697,,
+Horsens Fjord,fjord,Q45776,3,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Horsens Fjord,Fjord Municipality,Q65230514,3,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Horsens Fjord,Fjord,Q123166572,3,0,2,family name,,Q101352,,
+Horsens Fjord,lagoon,Q187223,3,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Horsens Fjord,Fjord Line,Q1422444,3,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Horsens Fjord,IMO 8410316,Q58411518,3,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Horsens Fjord,Fjord,Q20635222,3,0,2,painting by John Adams Griefen,,Q3305213,,
+Horsens Fjord,Fjord,Q20266504,3,0,2,painting by Mel Bochner,,Q3305213,,
+Horsens Fjord,Fjord,Q52333173,3,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Horsens Fjord,Tide Bane,Q5456496,3,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Kattegat,Kattegat,Q131716,3,1,1,sea area between Denmark and Sweden,Categat|Kategat|t'Schager Rack|Categate|Kattegatt|Cattegat,Q37901|Q1322134,,Kattegat
+Kattegat,Kattegat,Q83606353,3,1,1,ship built in 1996,IMO 9112765,Q11446,,
+Kattegat,IMO 9432866,Q84228535,3,1,1,chemical/oil products tanker,Kattegat|Sapphire-T,Q15254,,
+Kattegat,Kattegat,Q19292710,3,1,1,"street in Groningen, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q16801874,3,1,1,,,Q402092,,
+Kattegat,Kattegat,Q31623118,3,1,1,,,Q54050,,
+Kattegat,Kattegat,Q122710415,3,1,1,ship built in 1974,IMO 7361453,Q11446,,
+Kattegat,Kattegat,Q19292711,3,1,1,"street in Woerden, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q19292709,3,1,1,"street in Delfzijl, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q105976712,3,1,1,"street in Büsum, Schleswig-Holstein, Germany",,Q79007,,
+Kattegat,Horsens Fjord,Q3272097,3,1,2,fjord in Denmark,,Q45776,,Horsens Fjord
+Kattegat,"Horsens Fjord, havet øst for og Endelave",Q16324201,3,1,2,protected area in Denmark,,Q1191622|Q15069452,,
+Kattegat,Horsens Fjord.,Q117599604,3,1,2,painting by Holger Drachmann,,Q3305213,,
+Kattegat,Horsens Fjord og Endelave,Q128428927,3,1,2,protected area in Denmark,,Q15069452,,
+Kattegat,Horsens Fjord,Q29397372,3,1,2,Wikimedia disambiguation page,,Q4167410,,
+Vejle Fjord,Vejle Fjord,Q3243190,4,0,1,fjord in Denmark,,Q45776,,Vejle Fjord
+Vejle Fjord,Vejle Fjord,Q24819819,4,0,1,,,,,
+Vejle Fjord,Vejle Fjord Bridge,Q2096088,4,0,1,"bridge in Vejle, Denmark",,Q1429218|Q537127,,Vejle Fjord Bridge
+Vejle Fjord,Vejle Fjord,Q33579662,4,0,1,1917 film,,Q11424,,
+Vejle Fjord,Vejle Fjordsvøm,Q12340636,4,0,1,,,,,
+Vejle Fjord,Vejle Fjord,Q29067132,4,0,1,Wikimedia disambiguation page,,Q4167410,,
+Vejle Fjord,Kattegat,Q131716,4,0,2,sea area between Denmark and Sweden,Categat|Kategat|t'Schager Rack|Categate|Kattegatt|Cattegat,Q37901|Q1322134,,Kattegat
+Vejle Fjord,Kattegat,Q83606353,4,0,2,ship built in 1996,IMO 9112765,Q11446,,
+Vejle Fjord,IMO 9432866,Q84228535,4,0,2,chemical/oil products tanker,Kattegat|Sapphire-T,Q15254,,
+Vejle Fjord,Kattegat,Q19292710,4,0,2,"street in Groningen, the Netherlands",,Q79007,,
+Vejle Fjord,Kattegat,Q16801874,4,0,2,,,Q402092,,
+Vejle Fjord,Kattegat,Q31623118,4,0,2,,,Q54050,,
+Vejle Fjord,Kattegat,Q122710415,4,0,2,ship built in 1974,IMO 7361453,Q11446,,
+Vejle Fjord,Kattegat,Q19292711,4,0,2,"street in Woerden, the Netherlands",,Q79007,,
+Vejle Fjord,Kattegat,Q19292709,4,0,2,"street in Delfzijl, the Netherlands",,Q79007,,
+Vejle Fjord,Kattegat,Q105976712,4,0,2,"street in Büsum, Schleswig-Holstein, Germany",,Q79007,,
+Vejle Fjord,Vejle,Q27116,4,0,2,town in Denmark,,Q515,,Vejle
+Vejle Fjord,Vejle,Q50358556,4,0,2,family name,,Q101352,,
+Vejle Fjord,Vejle Municipality,Q28150,4,0,2,municipality of Denmark,,Q2177636,,Vejle Municipality
+Vejle Fjord,Vejle Boldklub,Q737936,4,0,2,Danish amateur football club,,Q476028,,Vejle Boldklub
+Vejle Fjord,Vejle County,Q853028,4,0,2,county of Denmark 1970-2006,,Q876730,,Vejle County
+Vejle Fjord,Vejle,Q12343757,4,0,2,,,Q3957,,
+Vejle Fjord,Vejle Idrætshøjskole,Q7918737,4,0,2,,,Q170087,,Vejle Idrætshøjskole
+Vejle Fjord,Vejle Station,Q2010673,4,0,2,"railway station in Vejle Municipality, Denmark",,Q55488,,Vejle railway station
+Vejle Fjord,Vejle River,Q12340648,4,0,2,river in Denmark,Vejle Å,Q3529419,,Vejle River
+Vejle Fjord,fjord,Q45776,4,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Vejle Fjord,Fjord Municipality,Q65230514,4,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Vejle Fjord,Fjord,Q123166572,4,0,2,family name,,Q101352,,
+Vejle Fjord,lagoon,Q187223,4,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Vejle Fjord,Fjord Line,Q1422444,4,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Vejle Fjord,IMO 8410316,Q58411518,4,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Vejle Fjord,Fjord,Q20635222,4,0,2,painting by John Adams Griefen,,Q3305213,,
+Vejle Fjord,Fjord,Q20266504,4,0,2,painting by Mel Bochner,,Q3305213,,
+Vejle Fjord,Fjord,Q52333173,4,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Vejle Fjord,Tide Bane,Q5456496,4,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Kattegat,Kattegat,Q131716,4,1,1,sea area between Denmark and Sweden,Categat|Kategat|t'Schager Rack|Categate|Kattegatt|Cattegat,Q37901|Q1322134,,Kattegat
+Kattegat,Kattegat,Q83606353,4,1,1,ship built in 1996,IMO 9112765,Q11446,,
+Kattegat,IMO 9432866,Q84228535,4,1,1,chemical/oil products tanker,Kattegat|Sapphire-T,Q15254,,
+Kattegat,Kattegat,Q19292710,4,1,1,"street in Groningen, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q16801874,4,1,1,,,Q402092,,
+Kattegat,Kattegat,Q31623118,4,1,1,,,Q54050,,
+Kattegat,Kattegat,Q122710415,4,1,1,ship built in 1974,IMO 7361453,Q11446,,
+Kattegat,Kattegat,Q19292711,4,1,1,"street in Woerden, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q19292709,4,1,1,"street in Delfzijl, the Netherlands",,Q79007,,
+Kattegat,Kattegat,Q105976712,4,1,1,"street in Büsum, Schleswig-Holstein, Germany",,Q79007,,
+Kattegat,Vejle Fjord,Q3243190,4,1,2,fjord in Denmark,,Q45776,,Vejle Fjord
+Kattegat,Vejle Fjord,Q24819819,4,1,2,,,,,
+Kattegat,Vejle Fjord Bridge,Q2096088,4,1,2,"bridge in Vejle, Denmark",,Q1429218|Q537127,,Vejle Fjord Bridge
+Kattegat,Vejle Fjord,Q33579662,4,1,2,1917 film,,Q11424,,
+Kattegat,Vejle Fjordsvøm,Q12340636,4,1,2,,,,,
+Kattegat,Vejle Fjord,Q29067132,4,1,2,Wikimedia disambiguation page,,Q4167410,,
+Storfjorden,Storfjorden,Q2097444,5,0,1,fjord in Svalbard,,Q45776,,Storfjorden (Svalbard)
+Storfjorden,Storfjorden,Q3289949,5,0,1,"fjord in Sunnmøre, Norway",Storfjord,Q45776,,Storfjorden (Sunnmøre)
+Storfjorden,Storfjorden,Q3445897,5,0,1,"inner part of the Lyngen fjord in Storfjord, Troms, Norway",Omasvuono|Stuorravuotna,Q45776,,
+Storfjorden,Storfjorden,Q3499801,5,0,1,"location in Vestvågøy, Norway",Storfjord,Q486972,,
+Storfjorden,Storfjorden,Q96931815,5,0,1,lake in Sweden,,Q23397,,
+Storfjorden,Storfjorden,Q11198688,5,0,1,"fjord in Vestvågøy, Norway",,Q45776,,
+Storfjorden,Ytre Torskefjorden,Q11215596,5,0,1,"fjord in Kvalsund, Norway",Storfjorden|Olggut Dorskavuotna,Q45776,,
+Storfjorden,Storfjorden,Q11220383,5,0,1,"lake in Veste Slidre, Oppland, Norway",Flyvatnet,Q23397,,
+Storfjorden,Storfjorden,Q3442484,5,0,1,"fjord in Ørsta, Norway",,Q45776,,
+Storfjorden,Storfjorden,Q11184915,5,0,1,"fjord in Romsdal, Norway",,Q45776,,
+Storfjorden,Norwegian Sea,Q47545,5,0,2,marginal sea in the North Atlantic Ocean,European Northern Sea|Northern Ocean,Q204894,,Norwegian Sea
+Storfjorden,Norwegian Sea,Q111822042,5,0,2,painting by Francis Danby,,Q3305213,,
+Storfjorden,SuperStar Libra,Q115502,5,0,2,cruise ship built in 1988,Seaward|Norwegian Sea|IMO 8612134,Q39804,,SuperStar Libra
+Storfjorden,Norwegian Sea basin,Q58456151,5,0,2,,,Q82700259,,
+Storfjorden,Norwegian Seamen's Church,Q2028427,5,0,2,"church building in Rotterdam, the Netherlands",Norwegian Church Abroad in Rotterdam,Q57303181|Q607241,,
+Storfjorden,Norwegian Seafarers' Union,Q4582303,5,0,2,trade union in Norway,,Q163740,,Norwegian Seafarers' Union
+Storfjorden,Norwegian Seaman's Church,Q17765644,5,0,2,,,Q57303181,,
+Storfjorden,Norwegian Seafood Federation,Q7061253,5,0,2,employer's organization in Norway,Fiskeri- og Havbruksnæringens Landsforening,Q627272,,Norwegian Seafood Federation
+Storfjorden,Norwegian Seafood Association,Q11992568,5,0,2,"organization in Trondheim, Norway",Norske Sjømatbedrifters Landsforening|NSL,Q43229,,
+Storfjorden,Norwegian Seascape,Q110835685,5,0,2,painting by Peder Balke,,Q3305213,,
+Storfjorden,fjord,Q45776,5,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Storfjorden,Fjord Municipality,Q65230514,5,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Storfjorden,Fjord,Q123166572,5,0,2,family name,,Q101352,,
+Storfjorden,lagoon,Q187223,5,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Storfjorden,Fjord Line,Q1422444,5,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Storfjorden,IMO 8410316,Q58411518,5,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Storfjorden,Fjord,Q20635222,5,0,2,painting by John Adams Griefen,,Q3305213,,
+Storfjorden,Fjord,Q20266504,5,0,2,painting by Mel Bochner,,Q3305213,,
+Storfjorden,Fjord,Q52333173,5,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Storfjorden,Tide Bane,Q5456496,5,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Storfjorden,Norway,Q20,5,0,2,country in Northern Europe,Kingdom of Norway,Q3624078|Q6256,,Norway
+Storfjorden,brown rat,Q184224,5,0,2,species of mammal,street rat|sewer rat|wharf rat|water rat|Parisian rat|Norwegian rat|Norway rat|Rattus norvegicus|🐀|rat|Hanover rat,Q16521|Q213907,,Brown rat
+Storfjorden,Norway,Q37284541,5,0,2,family name,,Q101352,,
+Storfjorden,Norway,Q98777096,5,0,2,male given name,,Q12308941,,
+Storfjorden,Picea abies,Q145992,5,0,2,species of plant,Norway spruce|European spruce,Q16521,Q11992872,Picea abies
+Storfjorden,Norway men's national association football team,Q184387,5,0,2,national association football team representing Norway,Norway national football team|Norway national soccer team|Norway national association football team|Norway men's national football team|Team Norway,Q135408445,Q1194951,Norway national football team
+Storfjorden,Kingdom of Norway,Q2196956,5,0,2,former Kingdom from 872 to 1397,Norwegian Empire|Norway,Q3024240|Q48349|Q7269,,Kingdom of Norway (872–1397)
+Storfjorden,Norway,Q2734330,5,0,2,"town in Maine, USA","Norway, ME|Norway, Maine",Q15127012,,"Norway, Maine"
+Storfjorden,Norway,Q2480177,5,0,2,"city in Dickinson County, Michigan, United States","Norway, MI|Norway, Michigan",Q1093829,,"Norway, Michigan"
+Storfjorden,Kingdom of Norway,Q2597352,5,0,2,short-lived monarchy in Northern Europe (1814),Norwegian Kingdom|Norway,Q3024240|Q3624078|Q10711424,,Kingdom of Norway (1814)
+Norwegian Sea,Norwegian Sea,Q47545,5,1,1,marginal sea in the North Atlantic Ocean,European Northern Sea|Northern Ocean,Q204894,,Norwegian Sea
+Norwegian Sea,Norwegian Sea,Q111822042,5,1,1,painting by Francis Danby,,Q3305213,,
+Norwegian Sea,SuperStar Libra,Q115502,5,1,1,cruise ship built in 1988,Seaward|Norwegian Sea|IMO 8612134,Q39804,,SuperStar Libra
+Norwegian Sea,Norwegian Sea basin,Q58456151,5,1,1,,,Q82700259,,
+Norwegian Sea,Norwegian Seamen's Church,Q2028427,5,1,1,"church building in Rotterdam, the Netherlands",Norwegian Church Abroad in Rotterdam,Q57303181|Q607241,,
+Norwegian Sea,Norwegian Seafarers' Union,Q4582303,5,1,1,trade union in Norway,,Q163740,,Norwegian Seafarers' Union
+Norwegian Sea,Norwegian Seaman's Church,Q17765644,5,1,1,,,Q57303181,,
+Norwegian Sea,Norwegian Seafood Federation,Q7061253,5,1,1,employer's organization in Norway,Fiskeri- og Havbruksnæringens Landsforening,Q627272,,Norwegian Seafood Federation
+Norwegian Sea,Norwegian Seafood Association,Q11992568,5,1,1,"organization in Trondheim, Norway",Norske Sjømatbedrifters Landsforening|NSL,Q43229,,
+Norwegian Sea,Norwegian Seascape,Q110835685,5,1,1,painting by Peder Balke,,Q3305213,,
+Norwegian Sea,Storfjorden,Q2097444,5,1,2,fjord in Svalbard,,Q45776,,Storfjorden (Svalbard)
+Norwegian Sea,Storfjorden,Q3289949,5,1,2,"fjord in Sunnmøre, Norway",Storfjord,Q45776,,Storfjorden (Sunnmøre)
+Norwegian Sea,Storfjorden,Q3445897,5,1,2,"inner part of the Lyngen fjord in Storfjord, Troms, Norway",Omasvuono|Stuorravuotna,Q45776,,
+Norwegian Sea,Storfjorden,Q3499801,5,1,2,"location in Vestvågøy, Norway",Storfjord,Q486972,,
+Norwegian Sea,Storfjorden,Q96931815,5,1,2,lake in Sweden,,Q23397,,
+Norwegian Sea,Storfjorden,Q11198688,5,1,2,"fjord in Vestvågøy, Norway",,Q45776,,
+Norwegian Sea,Ytre Torskefjorden,Q11215596,5,1,2,"fjord in Kvalsund, Norway",Storfjorden|Olggut Dorskavuotna,Q45776,,
+Norwegian Sea,Storfjorden,Q11220383,5,1,2,"lake in Veste Slidre, Oppland, Norway",Flyvatnet,Q23397,,
+Norwegian Sea,Storfjorden,Q3442484,5,1,2,"fjord in Ørsta, Norway",,Q45776,,
+Norwegian Sea,Storfjorden,Q11184915,5,1,2,"fjord in Romsdal, Norway",,Q45776,,
+Duvefjorden,Duvefjorden,Q3441662,6,0,1,fjord in Svalbard,,Q45776,,Duvefjorden
+Duvefjorden,Arctic Ocean,Q788,6,0,2,"smallest, shallowest, coldest, and northernmost of the world's major oceans",Northern Ocean|Arctic Sea|Tartar Sea|Tartar Ocean|Sea of Tartary|Ocean of Tartary|Tartaric Sea|Glacial Sea|Icy Ocean|Icy Sea|Yce Sea|Ice Sea|Ice Ocean|the Northern Ocean,Q9430|Q1973404,,Arctic Ocean
+Duvefjorden,Arctic,Q25322,6,0,2,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Duvefjorden,IMO 9123805,Q83490838,6,0,2,container ship built in 1995,Arctic Ocean|Norasia Arabia|Elusive|Njord|Jord|Jordania,Q353699,,
+Duvefjorden,Arctic Ocean,Q83627614,6,0,2,ship built in 1948,,Q1504307,,
+Duvefjorden,IMO 8902450,Q83627176,6,0,2,scrapped bulk carrier,,Q15276,,
+Duvefjorden,Arctic Ocean Highway,Q1294099,6,0,2,road in Finland,,Q445741,,Arctic Ocean Highway
+Duvefjorden,Arctic Ocean,Q134880325,6,0,2,Wikimedia permanent duplicated item,,Q21286738,,
+Duvefjorden,Arctic Ocean basin,Q46525532,6,0,2,,Arctic Ocean drainage basin,Q82700259,,
+Duvefjorden,Arctic residents,Q110931482,6,0,2,inhabitants of Arctic regions,Arctic Ocean Region residents|circumpolar residents|Far North residents|Far Northerners|hyperboreans|northerners|subarctic residents|Arctic people|Arctic peoples|hyperborean|Arctic inhabitants|Arctic region inhabitants|Arctic region residents,Q33829,Q22947,
+Duvefjorden,Murmansk Front,Q47000829,6,0,2,,Arctic Ocean Front,Q842332,,
+Duvefjorden,fjord,Q45776,6,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Duvefjorden,Fjord Municipality,Q65230514,6,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Duvefjorden,Fjord,Q123166572,6,0,2,family name,,Q101352,,
+Duvefjorden,lagoon,Q187223,6,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Duvefjorden,Fjord Line,Q1422444,6,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Duvefjorden,IMO 8410316,Q58411518,6,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Duvefjorden,Fjord,Q20635222,6,0,2,painting by John Adams Griefen,,Q3305213,,
+Duvefjorden,Fjord,Q20266504,6,0,2,painting by Mel Bochner,,Q3305213,,
+Duvefjorden,Fjord,Q52333173,6,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Duvefjorden,Tide Bane,Q5456496,6,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Arctic Ocean,Arctic Ocean,Q788,6,1,1,"smallest, shallowest, coldest, and northernmost of the world's major oceans",Northern Ocean|Arctic Sea|Tartar Sea|Tartar Ocean|Sea of Tartary|Ocean of Tartary|Tartaric Sea|Glacial Sea|Icy Ocean|Icy Sea|Yce Sea|Ice Sea|Ice Ocean|the Northern Ocean,Q9430|Q1973404,,Arctic Ocean
+Arctic Ocean,Arctic,Q25322,6,1,1,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Arctic Ocean,IMO 9123805,Q83490838,6,1,1,container ship built in 1995,Arctic Ocean|Norasia Arabia|Elusive|Njord|Jord|Jordania,Q353699,,
+Arctic Ocean,Arctic Ocean,Q83627614,6,1,1,ship built in 1948,,Q1504307,,
+Arctic Ocean,IMO 8902450,Q83627176,6,1,1,scrapped bulk carrier,,Q15276,,
+Arctic Ocean,Arctic Ocean Highway,Q1294099,6,1,1,road in Finland,,Q445741,,Arctic Ocean Highway
+Arctic Ocean,Arctic Ocean,Q134880325,6,1,1,Wikimedia permanent duplicated item,,Q21286738,,
+Arctic Ocean,Arctic Ocean basin,Q46525532,6,1,1,,Arctic Ocean drainage basin,Q82700259,,
+Arctic Ocean,Arctic residents,Q110931482,6,1,1,inhabitants of Arctic regions,Arctic Ocean Region residents|circumpolar residents|Far North residents|Far Northerners|hyperboreans|northerners|subarctic residents|Arctic people|Arctic peoples|hyperborean|Arctic inhabitants|Arctic region inhabitants|Arctic region residents,Q33829,Q22947,
+Arctic Ocean,Murmansk Front,Q47000829,6,1,1,,Arctic Ocean Front,Q842332,,
+Arctic Ocean,Arctic,Q4787488,6,1,2,journal,,Q5633421,,Arctic (journal)
+Arctic Ocean,Arctic Monkeys,Q170599,6,1,2,English musical group; rock band,The Death Ramps,Q215380,,Arctic Monkeys
+Arctic Ocean,Arctic,Q4787546,6,1,2,Romanian home appliance manufacturer,Arctic SA|Arctic d|Beko Romania,Q4830453|Q658255|Q6881511,,Arctic S.A.
+Arctic Ocean,Arctic and Alpine Research,Q26849272,6,1,2,journal 1969-1998,,Q737498,,
+Arctic Ocean,binturong,Q213141,6,1,2,"species of mammal in the family Viverridae, native to South and Southeast Asia",Arctictis binturong|Bearcat,Q16521,,Binturong
+Arctic Ocean,Arctica islandica,Q856177,6,1,2,species of mollusc,Ocean quahog,Q16521,,Arctica islandica
+Arctic Ocean,"Arctic, Antarctic, and Alpine Research",Q15716701,6,1,2,journal,AAAR,Q5633421|Q737498|Q773668,,"Arctic, Antarctic, and Alpine Research"
+Arctic Ocean,University of Tromsø – The Arctic University of Norway,Q279724,6,1,2,university in Norway,University of Tromsø - The Arctic University of Norway|University of Tromsø|UiT The Arctic University of Norway|Arctic University of Norway|The Arctic University of Norway|UiT|Norges Arktiske uUniversitet|uit.no,Q875538,,The Arctic University of Norway
+Rijpfjorden,Rijpfjorden,Q3441649,7,0,1,fjord in Svalbard,,Q45776,,Rijpfjorden
+Rijpfjorden,Arctic Ocean,Q788,7,0,2,"smallest, shallowest, coldest, and northernmost of the world's major oceans",Northern Ocean|Arctic Sea|Tartar Sea|Tartar Ocean|Sea of Tartary|Ocean of Tartary|Tartaric Sea|Glacial Sea|Icy Ocean|Icy Sea|Yce Sea|Ice Sea|Ice Ocean|the Northern Ocean,Q9430|Q1973404,,Arctic Ocean
+Rijpfjorden,Arctic,Q25322,7,0,2,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Rijpfjorden,IMO 9123805,Q83490838,7,0,2,container ship built in 1995,Arctic Ocean|Norasia Arabia|Elusive|Njord|Jord|Jordania,Q353699,,
+Rijpfjorden,Arctic Ocean,Q83627614,7,0,2,ship built in 1948,,Q1504307,,
+Rijpfjorden,IMO 8902450,Q83627176,7,0,2,scrapped bulk carrier,,Q15276,,
+Rijpfjorden,Arctic Ocean Highway,Q1294099,7,0,2,road in Finland,,Q445741,,Arctic Ocean Highway
+Rijpfjorden,Arctic Ocean,Q134880325,7,0,2,Wikimedia permanent duplicated item,,Q21286738,,
+Rijpfjorden,Arctic Ocean basin,Q46525532,7,0,2,,Arctic Ocean drainage basin,Q82700259,,
+Rijpfjorden,Arctic residents,Q110931482,7,0,2,inhabitants of Arctic regions,Arctic Ocean Region residents|circumpolar residents|Far North residents|Far Northerners|hyperboreans|northerners|subarctic residents|Arctic people|Arctic peoples|hyperborean|Arctic inhabitants|Arctic region inhabitants|Arctic region residents,Q33829,Q22947,
+Rijpfjorden,Murmansk Front,Q47000829,7,0,2,,Arctic Ocean Front,Q842332,,
+Arctic Ocean,Arctic Ocean,Q788,7,1,1,"smallest, shallowest, coldest, and northernmost of the world's major oceans",Northern Ocean|Arctic Sea|Tartar Sea|Tartar Ocean|Sea of Tartary|Ocean of Tartary|Tartaric Sea|Glacial Sea|Icy Ocean|Icy Sea|Yce Sea|Ice Sea|Ice Ocean|the Northern Ocean,Q9430|Q1973404,,Arctic Ocean
+Arctic Ocean,Arctic,Q25322,7,1,1,polar region on the Earth's northern hemisphere,Circumpolar Arctic|Arctic Region|High North|the Arctic|North Frigid Zone|Arctic Ocean Region|Far North,Q2418896,,Arctic
+Arctic Ocean,IMO 9123805,Q83490838,7,1,1,container ship built in 1995,Arctic Ocean|Norasia Arabia|Elusive|Njord|Jord|Jordania,Q353699,,
+Arctic Ocean,Arctic Ocean,Q83627614,7,1,1,ship built in 1948,,Q1504307,,
+Arctic Ocean,IMO 8902450,Q83627176,7,1,1,scrapped bulk carrier,,Q15276,,
+Arctic Ocean,Arctic Ocean Highway,Q1294099,7,1,1,road in Finland,,Q445741,,Arctic Ocean Highway
+Arctic Ocean,Arctic Ocean,Q134880325,7,1,1,Wikimedia permanent duplicated item,,Q21286738,,
+Arctic Ocean,Arctic Ocean basin,Q46525532,7,1,1,,Arctic Ocean drainage basin,Q82700259,,
+Arctic Ocean,Arctic residents,Q110931482,7,1,1,inhabitants of Arctic regions,Arctic Ocean Region residents|circumpolar residents|Far North residents|Far Northerners|hyperboreans|northerners|subarctic residents|Arctic people|Arctic peoples|hyperborean|Arctic inhabitants|Arctic region inhabitants|Arctic region residents,Q33829,Q22947,
+Arctic Ocean,Murmansk Front,Q47000829,7,1,1,,Arctic Ocean Front,Q842332,,
+Arctic Ocean,Rijpfjorden,Q3441649,7,1,2,fjord in Svalbard,,Q45776,,Rijpfjorden
+Reisafjorden,Reisafjorden,Q1529052,8,0,1,"fjord in Troms, Norway",,Q45776,,Reisafjorden (Nordreisa)
+Reisafjorden,Reisfjorden,Q11207826,8,0,1,"fjord in Sørreisa, Troms, Norway",,Q45776,,
+Reisafjorden,Reisafjorden,Q7310455,8,0,1,Wikimedia disambiguation page,,Q4167410,,Reisafjorden
+Reisafjorden,Kvænangen Municipality,Q488959,8,0,2,"municipality in Troms, Norway",Návuona gielda|Návuotna suohkan,Q755707,,Kvænangen Municipality
+Reisafjorden,Kvænangen,Q1593019,8,0,2,"fjord in Troms, Norway",Kvænangsfjorden|Návuotna|Naavuono,Q45776,,Kvænangen (fjord)
+Reisafjorden,Skorpa Church,Q1767742,8,0,2,"historic church in Kvænangen, Norway",Kvænangen kirke|Skorpa kirke,Q2065736|Q16970,,Skorpa Church
+Reisafjorden,Kvænangen språksenter,Q85966593,8,0,2,,,Q43229,,
+Reisafjorden,Kvænangen concentration camp,Q3654671,8,0,2,"building in Kvænangen, Northern Norway",,Q152081,,Kvænangen concentration camp
+Reisafjorden,MS Kvænangen,Q19380719,8,0,2,Norwegian express ship,,Q2055880,,
+Reisafjorden,Kvænangen,Q140459753,8,0,2,used for detention during WWII,,Q5996900,,
+Reisafjorden,Kvænangen prestegjeld,Q123196342,8,0,2,,,Q1478645,,
+Reisafjorden,Kvænangen kommune,Q72702904,8,0,2,2014 edition,,Q3331189,,
+Reisafjorden,Kvænangen,Q15824735,8,0,2,Wikimedia disambiguation page,,Q4167410,,Kvænangen
+Reisafjorden,fjord,Q45776,8,0,2,"long, narrow inlet of the ocean created in a valley carved by glacial activity",fiord,,Q39594|Q35116038|Q337567,Fjord
+Reisafjorden,Fjord Municipality,Q65230514,8,0,2,"municipality in Møre og Romsdal, Norway",,Q755707,,Fjord Municipality
+Reisafjorden,Fjord,Q123166572,8,0,2,family name,,Q101352,,
+Reisafjorden,lagoon,Q187223,8,0,2,shallow body of water separated from larger body of water by a barrier,haff|albufera|liman,,Q135951980,Lagoon
+Reisafjorden,Fjord Line,Q1422444,8,0,2,Norwegian ferry operator serving routes between Norway and Denmark,Fjordline|FjordLine|Fjord-Line,Q1807108|Q25653|Q155930|Q651658,,Fjord Line
+Reisafjorden,IMO 8410316,Q58411518,8,0,2,cargo ship built in 1985,Butjadingen|Anna|Anja|Molo Sun|Tifjord|Vestbris|Fjord,Q105999,,
+Reisafjorden,Fjord,Q20635222,8,0,2,painting by John Adams Griefen,,Q3305213,,
+Reisafjorden,Fjord,Q20266504,8,0,2,painting by Mel Bochner,,Q3305213,,
+Reisafjorden,Fjord,Q52333173,8,0,2,heavy lift vessel built in 2001,IMO 8636740,Q83702840,,
+Reisafjorden,Tide Bane,Q5456496,8,0,2,Norwegian bus and light rail operator,Fjord1 Partner|Keolis Norge|Tide Buss og Bane,Q4830453,,Keolis Norge
+Reisafjorden,Aqua Fjord,Q52512359,8,0,2,ship built in 2004,,Q110966816,,
+Reisafjorden,Arctic Fjord,Q124062156,8,0,2,ship built in 1975,IMO 7391305,Q1420024,,
+Reisafjorden,Arctic fjords: a review of the oceanographic environment and dominant physical processes,Q59213827,8,0,2,article,,Q13442814,,
+Kvænangen,Kvænangen Municipality,Q488959,8,1,1,"municipality in Troms, Norway",Návuona gielda|Návuotna suohkan,Q755707,,Kvænangen Municipality
+Kvænangen,Kvænangen,Q1593019,8,1,1,"fjord in Troms, Norway",Kvænangsfjorden|Návuotna|Naavuono,Q45776,,Kvænangen (fjord)
+Kvænangen,Skorpa Church,Q1767742,8,1,1,"historic church in Kvænangen, Norway",Kvænangen kirke|Skorpa kirke,Q2065736|Q16970,,Skorpa Church
+Kvænangen,Kvænangen språksenter,Q85966593,8,1,1,,,Q43229,,
+Kvænangen,Kvænangen concentration camp,Q3654671,8,1,1,"building in Kvænangen, Northern Norway",,Q152081,,Kvænangen concentration camp
+Kvænangen,MS Kvænangen,Q19380719,8,1,1,Norwegian express ship,,Q2055880,,
+Kvænangen,Kvænangen,Q140459753,8,1,1,used for detention during WWII,,Q5996900,,
+Kvænangen,Kvænangen prestegjeld,Q123196342,8,1,1,,,Q1478645,,
+Kvænangen,Kvænangen kommune,Q72702904,8,1,1,2014 edition,,Q3331189,,
+Kvænangen,Kvænangen,Q15824735,8,1,1,Wikimedia disambiguation page,,Q4167410,,Kvænangen
+Kvænangen,Reisafjorden,Q1529052,8,1,2,"fjord in Troms, Norway",,Q45776,,Reisafjorden (Nordreisa)
+Kvænangen,Reisfjorden,Q11207826,8,1,2,"fjord in Sørreisa, Troms, Norway",,Q45776,,
+Kvænangen,Reisafjorden,Q7310455,8,1,2,Wikimedia disambiguation page,,Q4167410,,Reisafjorden
+Kvænangen,Sørøya,Q3286995,8,1,2,"island in Finnmark, Norway",Soroya|Sörö,Q23442,,Sørøya
+Kvænangen,Sørøya,Q35347713,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q35347568,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q31334098,8,1,2,,,Q54050,,
+Kvænangen,Sørøya,Q35347686,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q35347674,8,1,2,islet in Norway,,Q207524,,
+Kvænangen,Sørøya,Q35347608,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q35347619,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q35347645,8,1,2,,,Q207524,,
+Kvænangen,Sørøya,Q35347581,8,1,2,,,Q207524,,

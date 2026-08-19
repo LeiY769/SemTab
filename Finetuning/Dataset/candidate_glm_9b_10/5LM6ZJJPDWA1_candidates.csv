@@ -1,0 +1,369 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Maputo,Maputo,Q3889,0,0,1,capital and chief port of Mozambique,Lourenço Marques|Cam Phumo,Q515|Q2264924|Q56036687|Q1549591,,Maputo
+Maputo,Maputo Province,Q379658,0,0,1,province of Mozambique,,Q695469,,Maputo Province
+Maputo,Maputo Bay,Q1134899,0,0,1,bay,Delagoa Bay,Q39594,,Maputo Bay
+Maputo,Maputo River,Q2452912,0,0,1,"river in South Africa, Eswatini, and Mozambique",Great Usutu River|Usutu River|Maputa River|Suthu River|Lusutfu River,Q4022,,Maputo River
+Maputo,Maputo Railway Station,Q2672929,0,0,1,railway station in Mozambique,,Q55488|Q55485|Q210272,,Maputo Central Railway Station
+Maputo,Maputo International Airport,Q1022397,0,0,1,airport in Mozambique,Maputo Airport|MPM|FQMA,Q644371|Q1248784|Q94993988,,Maputo International Airport
+Maputo,Maputo National Park,Q130019294,0,0,1,national park in Mozambique,,Q46169,,Maputo National Park
+Maputo,IMO 9450739,Q105767917,0,0,1,bulk carrier built in 2010,,Q15276,,
+Maputo,Maputo University,Q290662,0,0,1,public university in Mozambique,Pedagogical University|UniMaputo|UM|Maputo Pedagogical University|up.ac.mz,Q3918,,Maputo University
+Maputo,Maputo Post Office Building,Q10270274,0,0,1,"post Office in Maputo, Mozambique",,Q35054|Q210272,,Maputo Post Office Building
+Luanda,Luanda,Q3897,1,0,1,capital of Angola,"São Paulo da Assunção de Loanda|Luanda, Angola|Loanda|Loanda, Angola|St Paul of Loanda|St Paul of Luanda|St. Paul of Loanda|St. Paul of Luanda|Saint Paul of Loanda|Saint Paul of Luanda|São Paulo de Loanda|Sao Paulo de Loanda|São Paulo, Angola|Sao Paulo, Angola",Q515|Q2264924|Q1549591|Q108178728,,Luanda
+Luanda,Lunda Norte Province,Q214221,1,0,1,province of Angola,Lunda Norte|Lunda-Norte|Luanda Norte,Q329028,,Lunda Norte Province
+Luanda,Luanda Province,Q190066,1,0,1,Province in Angola,,Q329028,,Luanda Province
+Luanda,1431 Luanda,Q139114,1,0,1,asteroid,Luanda,Q3863,,1431 Luanda
+Luanda,Luanda,Q99613205,1,0,1,musician,,Q5,,
+Luanda,Luanda Municipality,Q14633813,1,0,1,municipality of Angola,,Q378508,,Luanda Municipality
+Luanda,Luanda Lozano,Q108756456,1,0,1,Angolan and Dominican printmaker (born 1973),,Q5,,Luanda Lozano
+Luanda,Quatro de Fevereiro Airport,Q598002,1,0,1,"international airport serving Luanda, Angola",Quatro de Fevereiro International Airport|4th of February International Airport|LAD|Luanda Airport,Q644371|Q210272|Q94993988,,Quatro de Fevereiro Airport
+Luanda,Luanda,Q6695000,1,0,1,place in Kenya,,Q486972,,"Luanda, Kenya"
+Luanda,Luanda,Q35386679,1,0,1,"stream in Kisumu, Kenia",,Q47521,,
+Monrovia,Monrovia,Q3748,2,0,1,capital city of Liberia,,Q515|Q2264924|Q1549591|Q56061,,Monrovia
+Monrovia,Monrovia,Q926988,2,0,1,"city in the San Gabriel Valley of Los Angeles County, California, United States","Monrovia, California|Monrovia, CA",Q1093829,,"Monrovia, California"
+Monrovia,Monrovia,Q2046840,2,0,1,"human settlement in Morgan County, Indiana, United States of America","Monrovia, Indiana|Monrovia, IN",Q15127012,,"Monrovia, Indiana"
+Monrovia,Monrovia,Q3886952,2,0,1,"unincorporated community in Frederick County, Maryland","Monrovia, MD",Q17343829,,"Monrovia, Maryland"
+Monrovia,Monrovia,Q6902437,2,0,1,Los Angeles Metro Rail station,,Q2175765|Q22808404,,Monrovia station
+Monrovia,Monrovia,Q14679296,2,0,1,"human settlement in Alabama, United States of America","Monrovia, Alabama|Monrovia, AL",Q17343829,,"Monrovia, Alabama"
+Monrovia,Monrovia,Q17108372,2,0,1,human settlement in United States of America,"Monrovia, Kansas|Monrovia, KS",Q17343829,,"Monrovia, Kansas"
+Monrovia,MONROVIA,Q127044646,2,0,1,hymn tune,,Q105543609,,
+Monrovia,Monrovia High School,Q6902444,2,0,1,"high school in Monrovia, Los Angeles County, California",,Q9826|Q1080794,,Monrovia High School (California)
+Monrovia,Monrovia Black Star F.C.,Q3241855,2,0,1,Liberian football club,Monrovia Black Star Football Club,Q476028,,Monrovia Black Star FC
+Belgrade,Belgrade,Q3711,3,0,1,capital and largest city of Serbia,"City of Belgrade|Belgrade, Serbia",Q515|Q1549591|Q108178728|Q5119,,Belgrade
+Belgrade,Belgrade,Q647393,3,0,1,"suburb of Namur, Wallonia, Belgium",,Q2785216,,"Belgrade, Namur"
+Belgrade,University of Belgrade,Q240631,3,0,1,"university in Belgrade, Serbia",Univerzitet u Beogradu|Belgrade University|University of Beograd|Beograd University,Q875538|Q45400320,,University of Belgrade
+Belgrade,Belgrade,Q815570,3,0,1,"city in Gallatin County, Montana, United States","Belgrade, Montana|Belgrade, MT",Q1093829,,"Belgrade, Montana"
+Belgrade,Belgrade,Q2301099,3,0,1,"town in Kennebec County, Maine, USA","Belgrade, Maine|Belgrade, ME",Q15127012,,"Belgrade, Maine"
+Belgrade,City of Belgrade,Q2074197,3,0,1,city and district of Serbia,Belgrade District,Q648681|Q37800986|Q783930,,
+Belgrade,Belgrade,Q581832,3,0,1,"city in Stearns County, Minnesota, USA","Belgrade, Minnesota|Belgrade, MN",Q1093829,,"Belgrade, Minnesota"
+Belgrade,Belgrade,Q2745909,3,0,1,"village in Nance County, Nebraska, United States","Belgrade, Nebraska|Belgrade, NE",Q751708,,"Belgrade, Nebraska"
+Belgrade,Belgrade New Cemetery,Q569556,3,0,1,"cemetery complex in Belgrade, Serbia",New cemetery in Belgrade|New cemetery Belgrade|New cemetery (Belgrade)|New cemetery,Q39614,,Belgrade New Cemetery
+Belgrade,"University Library ""Svetozar Marković""",Q683389,3,0,1,"academic library in Belgrade, Serbia","Svetozar Marković University Library|Belgrade University Library|University Library Svetozar Marković|University Library ""Svetozar Marković"" in Belgrade|University Library ""Svetozar Marković"" Belgrade|University Library ""Svetozar Marković"" (Belgrade)",Q856234|Q1622062|Q3152824,,Belgrade University Library
+Belgrade,"Belgrade, Serbia",Q119292911,3,0,2,,,Q3305213,,
+Belgrade,Belgraders,Q115706145,3,0,2,"people from or residents of Belgrade, Serbia","Belgradians|Belgrade residents|Belgrade, Serbia, residents",Q33829,Q1259835|Q22947,
+Belgrade,"Belgrade, Serbia",Q132804221,3,0,2,journal article from 'Cities' published in 2009,,Q13442814,,
+Sarajevo,Sarajevo,Q11194,4,0,1,capital city of Bosnia and Herzegovina,City of Sarajevo|Bosna-Serai,Q515|Q1549591|Q102104752|Q257391,,Sarajevo
+Sarajevo,Sarajevo,Q9333848,4,0,1,railway station in Bosnia and Herzegovina,Sarajevo main station,Q55488,,Sarajevo main railway station
+Sarajevo,Sarajevo,Q139734219,4,0,1,,,Q571,,
+Sarajevo,1984 Winter Olympics,Q9657,4,0,1,"14th edition of Winter Olympics, in Sarajevo, Yugoslavia",Sarajevo 1984|The XIV Olympic Winter Games|Sarajevo Olympic Winter Games|Sarajevo Winter Games,Q137592217|Q14547231,,1984 Winter Olympics
+Sarajevo,Sarajevo Canton,Q18276,4,0,1,canton in Bosnia and Herzegovina,Sarajevo Region,Q18279,,Sarajevo Canton
+Sarajevo,Sarajevo,Q99286356,4,0,1,the city of Sarajevo as depicted in Star Trek,Star Trek Sarajevo,Q96146366|Q15796005,,
+Sarajevo,Sarajevo Disk,Q18636343,4,0,1,Yugoslav record label,,Q18127,,Sarajevo Disk
+Sarajevo,Sarajevo,Q17030682,4,0,1,1940 Hungarian historical film directed by Ákos Ráthonyi,,Q11424,,Sarajevo (1940 Hungarian film)
+Sarajevo,Sarajevo,Q3020208,4,0,1,1940 French film by Max Ophüls,Mayerling to Sarajevo,Q11424,,Sarajevo (1940 French film)
+Sarajevo,Sarajevo,Q17997427,4,0,1,2014 film by Andreas Prochaska,,Q506240,,Sarajevo (2014 film)
+Sarajevo,Vijećnica,Q16831150,4,0,2,city hall in Sarajevo,"City Hall, the historic building|Sarajevo City Hall|Vijećnica in Sarajevo|Vijećnica Sarajevo|Vijećnica (Sarajevo)",Q25550691|Q7075|Q893745,,Vijećnica
+Sarajevo,Sarajevo City Council,Q77583752,4,0,2,,,Q3154693,,
+Sarajevo,Sarajevo City Center,Q7422981,4,0,2,"building in Sarajevo, Bosnia and Herzegovina",,Q18142|Q11315,,Sarajevo City Center
+Sarajevo,Sarajevo City Council,Q106982593,4,0,2,"elected body in Sarajevo, Bosnia",,Q140247,,Sarajevo City Council
+Sarajevo,Sarajevo Canton Representation in Brussels,Q7422978,4,0,2,"place in Federation of Bosnia and Herzegovina, Bosnia and Herzegovina",,Q486972,,Sarajevo Canton Representation in Brussels
+Campo Grande,Campo Grande,Q168929,5,0,1,"municipality of Mato Grosso do Sul state, Brazil","Cidade Morena, Campão, CG",Q3184121|Q1549591|Q486972,,Campo Grande
+Campo Grande,Campo Grande,Q963573,5,0,1,locality and former civil parish in Portugal,,Q2983893|Q56046844,,"Campo Grande, Lisbon"
+Campo Grande,Campo Grande,Q1814259,5,0,1,"municipality of Alagoas state, Brazil",,Q3184121,,"Campo Grande, Alagoas"
+Campo Grande,Campo Grande,Q1762402,5,0,1,neighborhood in municipality of Rio de Janeiro in Brazil,,Q20683285,,"Campo Grande, Rio de Janeiro"
+Campo Grande,Campo Grande,Q1802671,5,0,1,"municipality of Rio Grande do Norte state, Brazil",Augusto Severo,Q3184121,,"Campo Grande, Rio Grande do Norte"
+Campo Grande,Largo do Campo Grande,Q9685986,5,0,1,square in Salvador,Campo Grande,Q174782,,Campo Grande (square)
+Campo Grande,Campo Grande,Q588681,5,0,1,"human settlement, Misiones, Argentina",,Q15284,,"Campo Grande, Misiones"
+Campo Grande,Campo Grande,Q50134405,5,0,1,administrative region of the municipality of Rio de Janeiro in Brazil,,Q3976665,,
+Campo Grande,Campo Grande station,Q2301274,5,0,1,Lisbon Metro station,Campo Grande,Q928830|Q11670533,,Campo Grande Station
+Campo Grande,Estação Campo Grande,Q10275623,5,0,1,"railway station in Rio de Janeiro, Brazil",,Q55488,,
+Lilongwe,Lilongwe,Q3876,6,0,1,capital of Malawi,,Q515|Q1549591,,Lilongwe
+Lilongwe,Lilongwe District,Q1058453,6,0,1,district of Malawi,,Q1058387,,Lilongwe District
+Lilongwe,Lilongwe River,Q1825272,6,0,1,river in Malawi,,Q4022,,Lilongwe River
+Lilongwe,Lilongwe International Airport,Q721780,6,0,1,"airport serving Lilongwe, Malawi",Kamuzu International Airport|LLW|FWKI|Lilongwe International|Lilongwe Airport,Q644371|Q1248784|Q94993988,,Kamuzu International Airport
+Lilongwe,Lilongwe,Q32137665,6,0,1,"river in Thyolo District, Malawi",,Q4022,,
+Lilongwe,Lilongwe university of Agriculture and Natural Resources,Q30260552,6,0,1,"education organization in Lilongwe, Malawi",LUANAR|Lilongwe University of Agriculture and Natural Resources|bunda.luanar.mw,Q2385804|Q811979,,Lilongwe University of Agriculture and Natural Resources
+Lilongwe,Lilongwe City South East,Q45787694,6,0,1,electoral constituency of the Parliament of Malawi,Lilongwe City South East Constituency,Q192611|Q192611,,Lilongwe City South East Constituency
+Lilongwe,Lilongwe Msozi North,Q45787703,6,0,1,electoral constituency of the Parliament of Malawi,Lilongwe Msozi North Constituency,Q192611|Q192611,,Lilongwe Msozi North Constituency
+Lilongwe,Lilongwe Central,Q45770141,6,0,1,electoral constituency of the Parliament of Malawi,Lilongwe Central Constituency,Q192611|Q192611,,Lilongwe Central Constituency
+Lilongwe,Lilongwe North West,Q45770385,6,0,1,electoral constituency of the Parliament of Malawi,Lilongwe North West Constituency|Lilongwe North-West,Q192611|Q192611,,Lilongwe North West Constituency
+Lilongwe,Lilongwe City Central,Q45770198,6,0,2,electoral constituency of the Parliament of Malawi,Lilongwe City Central Constituency|Lilongwe City Centre,Q192611,,Lilongwe City Centre Constituency
+Lilongwe,Lilongwe City North,Q45770123,6,0,2,electoral constituency of the Parliament of Malawi,Lilongwe City North Constituency,Q192611|Q192611,,Lilongwe City North Constituency
+Lilongwe,Lilongwe City South West,Q45771546,6,0,2,electoral constituency of the Parliament of Malawi,Lilongwe City South West Constituency,Q192611|Q192611,,Lilongwe City South West Constituency
+Lilongwe,Lilongwe City West,Q45769877,6,0,2,electoral constituency of the Parliament of Malawi,Lilongwe City West Constituency,Q192611|Q192611,,Lilongwe City West Constituency
+Lilongwe,Lilongwe City Council,Q126901459,6,0,2,lawmaking body of Lilongwe City,,Q11204,,Lilongwe City Council
+Lilongwe,Lilongwe City Centre,Q134301759,6,0,2,township in Malawi,,Q486972,,Lilongwe City Centre
+Lilongwe,Lilongwe City Kamphuno constituency,Q139853055,6,0,2,"Constituency in Malawi's capital, Lilongwe",,Q192611,,
+Kathmandu,Kathmandu,Q3037,7,0,1,capital of Nepal,Kathmandu Metropolitan City|Kathmandu Valley|Khatmandu|City of Temples|Yen|Kasthamandap|Kantipur|Yambu|Katmandu|Cadmendu|Kadmendu|Catmeduour|Catmandir|Katmandou|Katmandir|Káthmándú,Q515|Q15284|Q1549591|Q51929311|Q257391,,Kathmandu
+Kathmandu,Kathmandu District,Q797472,7,0,1,district of Nepal,Kathmandu,Q2537537,,Kathmandu District
+Kathmandu,Kathmandu University Medical Journal,Q15752914,7,0,1,journal,,Q5633421,,
+Kathmandu,6340 Kathmandu,Q290280,7,0,1,asteroid,Kathmandu,Q3863,,6340 Kathmandu
+Kathmandu,Kathmandu,Q11227555,7,0,1,album by Yumi Matsutoya,,Q482994,,
+Kathmandu,Kathmandu,Q1736294,7,0,1,clothing and equipment retail company in Australia and New Zealand,KATHMANDU HOLDINGS LIMITED,Q4830453|Q507619|Q891723,,KMD Brands
+Kathmandu,Kathmandu,Q7058806,7,0,1,2012 television series by Yair Raveh and Esther Vander,,Q5398426,,Kathmandu (TV series)
+Kathmandu,Tribhuvan International Airport,Q61066,7,0,1,"airport in Kathmandu, Nepal",Kathmandu International Airport|Kathmandu Airport|Tribhuvan Airport|KTM|VNKT|Katmandu International,Q644371|Q1248784|Q94993988,,Tribhuvan International Airport
+Kathmandu,Kathmandu Valley,Q970717,7,0,1,"valley in Bagmati Province, Nepal",Nepal Valley|Nepa valley,Q39816,,Kathmandu Valley
+Kathmandu,Kathmandu University,Q6376965,7,0,1,University in Nepal,,Q3918|Q45400320,,Kathmandu University
+Kathmandu,Kathmandu Valley,Q119842050,7,0,2,"painting by Milein Cosman (1921–2017), Royal Free Hospital",,Q3305213,,
+Kathmandu,Kathmandu Valley Preservation Trust,Q16968840,7,0,2,"organization in Kathmandu, Nepal",,Q43229,,Kathmandu Valley Preservation Trust
+Kathmandu,Kathmandu Valley Water Supply Management Board,Q118954872,7,0,2,,,,,
+Minsk,Minsk,Q2280,8,0,1,capital and largest city of Belarus,Мінск|Менск|Минск|Mińsk|Minskas|Mensk|Miensk,Q14921981|Q10864048|Q7930989|Q1549591,,Minsk
+Minsk,Minsk region,Q192959,8,0,1,administrative division (voblasts) in Belarus,Minsk Oblast|Minskaya voblasts,Q209325,,Minsk region
+Minsk,Minsk,Q68035312,8,0,1,sports club,,Q847017,,
+Minsk,Minsk District,Q1636191,8,0,1,district of Belarus,,Q2043199,,Minsk district
+Minsk,Soviet destroyer Minsk,Q4295178,8,0,1,1935 Leningrad-class destroyer,Minsk,Q1430303,,Soviet destroyer Minsk
+Minsk,Minsk,Q37528721,8,0,1,family name,,Q101352,,
+Minsk,human,Q5,8,0,1,"any single member of Homo sapiens, unique extant species of the genus Homo",human being|people|nonfictional human|non-fictional human|individual Homo sapiens|modern human,Q55983715,Q2250224|Q164509|Q154954|Q5891007,Human
+Minsk,Minsk,Q288365,8,0,1,1978 Kiev-class aircraft carrier,,Q17205|Q575727|Q130326199,,Soviet aircraft carrier Minsk
+Minsk,Minsk,Q122460753,8,0,1,Ropucha-class landing ship built in 1983,"Minsk (ship, 1983)",Q841751,,Russian landing ship Minsk
+Minsk,Mińsk County,Q947536,8,0,1,powiat of Poland,powiat miński,Q247073,,Mińsk County
+Minsk,Minskites,Q122173662,8,0,2,"people native to or residents of Minsk, Belarus","Minsk residents|Minsk, Belarus, residents|Minchane",Q33829,Q110942731|Q22947,
+St. John's,St. John's,Q2082,9,0,1,"capital and largest city of the province of Newfoundland and Labrador, Canada","St John's, Newfoundland|St Johns, Newfoundland|St. John's, Newfoundland and Labrador|Saint John's|St. John's of Newfoundland|Saint John's of Newfoundland|St. Johns|St Johns|Saint Johns|St. Johns, Newfoundland",Q1549591|Q44551483,,"St. John's, Newfoundland and Labrador"
+St. John's,St. John's,Q36262,9,0,1,capital and largest city of Antigua and Barbuda,"St John's|St. John's City|Saint John's, Antigua and Barbuda",Q515,,"St. John's, Antigua and Barbuda"
+St. John's,St. John's University,Q1138374,9,0,1,"university in New York City, New York, United States",Saint John's University,Q3918|Q23002054|Q96888669,,St. John's University (New York City)
+St. John's,Prince Edward Island,Q1978,9,0,1,province of Canada,PEI|St. John's Island|Province of Prince Edward Island|Colony of Prince Edward Island|P.E.I.|CA-PE|Garden of the Gulf|Birthplace of Confederation|Epekwitk,Q11828004|Q1351282,,Prince Edward Island
+St. John's,St John's College,Q691283,9,0,1,constituent college of the University of Cambridge,"The Master, Fellows and Scholars of the College of St John the Evangelist in the University of Cambridge|St. John's College, Cambridge|St Johns College|St John's College, Cambridge|St John's College, University of Cambridge",Q1055028|Q19844914|Q708676,,"St John's College, Cambridge"
+St. John's,Hypericum perforatum,Q158289,9,0,1,species of plant,Common St. John's wort|perforate St. Johns-wort|St. John's wort,Q16521,Q11992872|Q157957,Hypericum perforatum
+St. John's,Hypericum,Q156935,9,0,1,"genus of plants, known for their medicinal properties",Hofariqun|St. John's Worts,Q16521,,Hypericum
+St. John's,St. John's Church,Q3051967,9,0,1,"church in Kolkata, India",St. John's,Q16970,,"St. John's Church, Kolkata"
+St. John's,St John's College,Q609646,9,0,1,college of the University of Oxford,"St John's College, Oxford|St. John's College|Saint John's College",Q2581649|Q708676,,"St John's College, Oxford"
+St. John's,St. Johns,Q2699576,9,0,1,"human settlement in Saba, the Caribbean Netherlands",Saint Johns|St. John's|St John's|Saint John’s,Q532|Q3957,,"St. Johns, Saba"
+St. John's,St. John's College,Q663625,9,0,2,liberal arts college with two campuses at Annapolis and Santa Fe,"SJC|Saint John's College|St. John's College (Annapolis/Santa Fe)|St. John's College, Annapolis/Santa Fe",Q6540832|Q20925702,,St. John's College (Annapolis/Santa Fe)
+St. John's,St. John's College High School,Q7588657,9,0,2,"secondary school in Washington, D.C.",Saint John's College High School|St John's College High School|St. John's College,Q9826,,St. John's College High School
+St. John's,St John's College,Q7593582,9,0,2,"religious school in Johannesburg, South Africa",St. John's College,Q1971849,,
+St. John's,Ystrad Meurig Grammar School,Q56184372,9,0,2,former grammar school,St. John's College,Q967098,,
+St. John's,St. John's College,Q7588644,9,0,2,Indian Christian college in Agra,,Q189004,,"St. John's College, Agra"
+St. John's,St. John's College,Q7588653,9,0,2,"2-year college in Winfield, Kansas from 1893 to 1986",,Q4671277,,St. John's College (Kansas)
+St. John's,St. John's College,Q7588652,9,0,2,"Independent, day school for boys aged 12-18 in Harare, Zimbabwe",Rams|SJC|St. John's,Q3238833|Q1493752|Q9826,,St. John's College (Harare)
+St. John's,"St. John's College, Santa Fe",Q20950055,9,0,2,"Santa Fe, New Mexico campus of St. John's College","Saint John's College, Santa Fe campus|St. John's College, Santa Fe campus|King William's School|St. John's College (Santa Fe, N.M.)|Saint John's College (Santa Fe, N.M.)|St. John's College",Q209465|Q6540832|Q23002054,,
+St. John's,St. John's Cathedral,Q2050553,9,0,2,church in ’s-Hertogenbosch,,Q2977|Q120560,,St. John's Cathedral ('s-Hertogenbosch)
+St. John's,St John's Cathedral,Q2942473,9,0,2,cathedral of the Hong Kong Sheng Kung Hui,"St John's Cathedral, Hong Kong|St John's Cathedral (Hong Kong)|St. John's Cathedral|St. John's Cathedral (Hong Kong)|St. John's Cathedral, Hong Kong",Q56242250,,St John's Cathedral (Hong Kong)
+St. John's,St. John's Cathedral,Q7588587,9,0,2,"Lafayette, Louisiana",La Cathédrale St-Jean|Cathedral of Saint John the Evangelist,Q2977,,"St. John's Cathedral (Lafayette, Louisiana)"
+St. John's,St John's Cathedral,Q1566208,9,0,2,Brisbane,St. John's Cathedral,Q56242250,,St John's Cathedral (Brisbane)
+St. John's,St. John's Cathedral,Q5552448,9,0,2,"cathedral near Kuala Lumpur, Malaysia",,Q2977,,St. John's Cathedral (Kuala Lumpur)
+St. John's,St. John's Cathedral,Q10924156,9,0,2,cathedral in Chiayi City,,Q2977,,St. John's Cathedral (Chiayi)
+St. John's,St. John's Cathedral,Q7588588,9,0,2,Los Angeles,,Q56242250,,St. John's Cathedral (Los Angeles)
+St. John's,Cathedral of St. John the Evangelist,Q5052402,9,0,2,"church in Washington, United States",St. John's Cathedral,Q2977,,"Cathedral of St. John the Evangelist (Spokane, Washington)"
+St. John's,St. John's Cathedral,Q6418951,9,0,2,"cathedral in İzmir, Turkey",,Q2977,,St. John's Cathedral (İzmir)
+St. John's,Cathedral of St. John,Q5052391,9,0,2,"church in Manitoba, Canada",St. John's Cathedral|Saint John's Cathedral,Q56242250,,Cathedral of St. John (Winnipeg)
+St. John's,St. John's University,Q4578297,9,0,2,defunct Anglican university in Shanghai (1879–1952),"Saint John's University|St. John's University, Shanghai|St John's University|SJU|Modern Buildings of St. John's University",Q3918,,"St. John's University, Shanghai"
+St. John's,College of Saint Benedict and Saint John's University,Q5146820,9,0,2,"private liberal arts colleges in St. Joseph and Collegeville, Minnesota",Saint Benedict|College of Saint Benedict|Saint John's University|St. John's University|College of Saint Benedict/Saint John’s University,Q6540832|Q23002054,,College of Saint Benedict and Saint John's University
+St. John's,St. John's University,Q7588852,9,0,2,"university in Tamsui District, New Taipei City, Taiwan",,Q3918,,St. John's University (Taiwan)
+St. John's,St. John's Red Storm men's basketball,Q7588820,9,0,2,"men's basketball that team represents St. John's University located in Queens, NY",St. John's Red Storm men's basketball team|St. John's Red Storm basketball team|St. John's Red Storm basketball|Saint John's Red Storm men's basketball team|Saint John's Red Storm men's basketball|Saint John's Red Storm basketball team|Saint John's Red Storm basketball|St. John's Red Storm|Saint John's Red Storm|St. John's men's basketball team|St. John's men's basketball|St. John's basketball|St. John's basketball team|Saint John's men's basketball team|Saint John's men's basketball|Saint John's basketball team|Saint John's basketball|Red Storm men's basketball team|Red Storm men's basketball|Red Storm basketball team|Red Storm basketball|St. John's University men's basketball team|St. John's University men's basketball|St. John's University basketball team|St. John's University basketball|Saint John's University men's basketball team|Saint John's University men's basketball|Saint John's University basketball team|Saint John's University basketball|SJU Red Storm men's basketball team|SJU Red Storm men's basketball|SJU Red Storm basketball team|SJU Red Storm basketball|SJU men's basketball team|SJU men's basketball|SJU basketball team|SJU basketball|SJU Red Storm|SJ Red Storm men's basketball team|SJ Red Storm men's basketball|SJ Red Storm basketball team|SJ Red Storm basketball|St. John's Redmen basketball,Q13393265|Q18558301,,St. John's Red Storm men's basketball
+St. John's,St. John's University,Q7588851,9,0,2,"university in Springfield, Louisiana","St. John's University, School of Practical Theology",Q3918,,"St. John's University (Springfield, Louisiana)"
+St. John's,St. John's University,Q111942228,9,0,2,"census-designated place in Minnesota, United States",,Q498162,,"St. John's University, Minnesota"
+St. John's,St. John's University School of Law,Q7588853,9,0,2,American law school,,Q1321960,,St. John's University School of Law
+St. John's,St. John's Red Storm,Q3422788,9,0,2,intercollegiate sports teams of St. John's University,St. John's University athletics|St. John's Redmen,Q2367225,,St. John's Red Storm
+St. John's,St. John's University of Tanzania,Q7588856,9,0,2,"Tanzanian, Anglican academic institution",,Q3918,,St. John's University of Tanzania
+Budapest,Budapest,Q1781,10,0,1,capital and largest city of Hungary,"Buda Pest|Buda-Pest|Budapešť|Budapesta|Budapeszt|Buda|Ofen|Budín|Budim|Budon|Pest|Pešť|Pešta|Alt-Ofen|Budapest, Hungary|Buda-Pesth",Q13218690|Q171441|Q51929311|Q108178728,,Budapest
+Budapest,Budapest,Q4984056,10,0,1,1984 live album by Manfred Mann's Earth Band,Budapest Live,Q482994,,Budapest Live
+Budapest,"Museum of Fine Arts, Budapest",Q840886,10,0,1,"art museum in Budapest, Hungary",Szépmüvészeti Múzeum|Museum of Fine Arts (Budapest)|Szépművészeti Múzeum|Museum of Fine Arts Budapest|Museum of Fine Arts|Budapest Museum of Fine Arts,Q207694|Q17431399,,Museum of Fine Arts (Budapest)
+Budapest,Eötvös Loránd University,Q390287,10,0,1,"public research university in Budapest, Hungary",Universitas Budapestinensis de Rolando Eötvös nominata|Royal University of Pest|University of Budapest|Royal Hungarian Pázmány Péter University|Budapest University|elte.hu|Eötvös University|Péter Pázmány University|Pázmány Péter University,Q62078547|Q45400320,,Eötvös Loránd University
+Budapest,Hungarian National Gallery,Q252071,10,0,1,national art museum in Hungary,Magyar Nemzeti Galeria|Magyar Nemzeti Galéria|National Gallery Budapest|Budapest National Gallery,Q207694|Q17431399,,Hungarian National Gallery
+Budapest,Budapest-Keleti,Q841167,10,0,1,"main international and inter-city railway terminal in Budapest, Hungary",Budapest Eastern Railway Terminal|Keleti station|Budapest-Keleti railway station,Q55488|Q55485,,Budapest Keleti station
+Budapest,Budapest University of Technology and Economics,Q1186843,10,0,1,university in Hungary,Royal Technical University of Budapest|Royal Joseph Technical University|Budapest University of Technology|Technical University of Budapest|Budapesti Muszaki Es Gazdasagtudomanyi Egyetem|TUB|BUTE|BME,Q875538|Q45400320,,Budapest University of Technology and Economics
+Budapest,Budapest Film,Q29577693,10,0,1,,,Q368290,,
+Budapest,Budapest Honvéd FC,Q275612,10,0,1,sports club in Hungary,Honvéd|Budapest Honved FC|Honved,Q476028,,Kispest Honvéd FC
+Budapest,Budapesti EAC,Q851144,10,0,1,sports club in Hungary,BEAC,Q847017,,Budapesti EAC
+Budapest,Budapesters,Q116858703,10,0,2,"natives of or residents of Budapest, Hungary","Budapestians|Budapestiek|Budapest residents|Budapest inhabitants|Budapest, Hungary, residents",Q33829,Q115771874|Q22947,
+Georgetown,Georgetown University,Q333886,11,0,1,"private university in Washington, D.C., United States",University of Georgetown|GU,Q902104|Q15936437|Q23002054|Q557206,,Georgetown University
+Georgetown,Georgetown,Q990898,11,0,1,"city in and county seat of Williamson County, Texas, United States","Georgetown, Texas|Georgetown, TX",Q1093829|Q62049,,"Georgetown, Texas"
+Georgetown,Georgetown,Q603389,11,0,1,"town in and county seat of Georgetown County, South Carolina, United States","Georgetown, South Carolina|Georgetown, SC",Q15127012|Q62049,,"Georgetown, South Carolina"
+Georgetown,Georgetown,Q695774,11,0,1,capital municipality of Ascension Island,"Georgetown, Ascension Island",Q956214|Q486972,,"Georgetown, Ascension Island"
+Georgetown,Georgetown,Q10717,11,0,1,capital city of Guyana,"Garden City of the Caribbean|Georgetown, British Guiana",Q515|Q1549591|Q2264924|Q51929311,,"Georgetown, Guyana"
+Georgetown,Georgetown,Q2495209,11,0,1,"town in Saint Vincent, Saint Vincent and the Grenadines",,Q3957,,"Georgetown, Saint Vincent and the Grenadines"
+Georgetown,Georgetown,Q182262,11,0,1,town in Queensland,"Georgetown, Queensland|Georgetown, Queensland, Australia",Q3957,,"Georgetown, Queensland"
+Georgetown,George Town,Q172996,11,0,1,capital and largest city of the Cayman Islands,"George Town, Cayman Islands|Georgetown",Q515,,"George Town, Cayman Islands"
+Georgetown,Georgetown,Q1468648,11,0,1,"neighborhood and historic district in Washington, D.C., United States","Georgetown Historic District|Georgetown, Washington, D.C.|George Town|George-Town|Town of George|West Washington",Q12063697,,"Georgetown (Washington, D.C.)"
+Georgetown,Georgetown,Q877247,11,0,1,"city in Kentucky, United States","Georgetown, KY|Georgetown, Kentucky",Q1093829|Q62049,,"Georgetown, Kentucky"
+Georgetown,Georgetown University Law Center,Q846101,11,0,2,law school of Georgetown University,Georgetown Law|GULC|Georgetown Law School|Georgetown University Law School|Georgetown University Law,Q1321960,,Georgetown University Law Center
+Georgetown,Georgetown University Press,Q5547060,11,0,2,university press,,Q479716|Q2085381,,Georgetown University Press
+Georgetown,Walsh School of Foreign Service,Q128047,11,0,2,school of international affairs at Georgetown University,Edmund A. Walsh School of Foreign Service|School of Foreign Service|SFS|Georgetown University's School of Foreign Service,Q189004|Q122940278,,Walsh School of Foreign Service
+Georgetown,Georgetown Hoyas,Q3141652,11,0,2,intercollegiate sports teams of Georgetown University,Georgetown Stonewalls|Georgetown Hilltoppers|Georgetown University Hoyas|Hoyas,Q2367225,,Georgetown Hoyas
+Georgetown,Georgetown University School of Medicine,Q5547065,11,0,2,medical school of Georgetown University,Georgetown University Medical School|Georgetown Medical School,Q494230,,Georgetown University School of Medicine
+Georgetown,Georgetown University Medical Center,Q5547057,11,0,2,medical campus of Georgetown University,GUMC,Q16917|Q4260475|Q4287745|Q23955632,,Georgetown University Medical Center
+Georgetown,MedStar Georgetown University Hospital,Q5547055,11,0,2,"hospital in Washington, D.C.",Georgetown University Hospital|MedStar Georgetown,Q1059324|Q7048982|Q4284971,,MedStar Georgetown University Hospital
+Georgetown,President of Georgetown University,Q6594667,11,0,2,head of Georgetown University,Georgetown University president,Q4164871,Q212071,
+Georgetown,Georgetown University Jesuit Community Cemetery,Q56724236,11,0,2,historic cemetery at Georgetown University,Georgetown Jesuit Cemetery|Jesuit Community Cemetery|Georgetown University Jesuit Cemetery,Q39614,,Georgetown University Jesuit Community Cemetery
+Natal,Natal,Q3183010,12,0,1,"district in Mandailing Natal Regency, North Sumatra Province, Indonesia",Kecamatan Natal|Natal District,Q3700011,,"Natal, North Sumatra"
+Natal,Natalia,Q6296301,12,0,1,female given name,Natalia (first name)|Natalia (given name),Q11879590,,Natalia (given name)
+Natal,Natal,Q131620,12,0,1,"municipality of Rio Grande do Norte state, Brazil",,Q3184121|Q1549591,,"Natal, Rio Grande do Norte"
+Natal,Natalie Heracleous,Q113019670,12,0,1,,,Q5,,
+Natal,Natalie Portman,Q37876,12,0,1,Israeli-American actress (born 1981),Neta-Lee Herschlag|Natalie Hershlag|Nat|Natalie Herschlag,Q5,,Natalie Portman
+Natal,Natalia Panikashvili,Q113977179,12,0,1,particle physicist,,Q5,,
+Natal,Natalia Goncharova,Q232391,12,0,1,Russian-French artist (1881–1962),Natalya Sergeevna Goncharova|Natalija Gončarova|Natal'ya Sergeyevna Goncharova|Natalja Goncjarowa|Natalja Gontscharowa|Natal'ya Goncharova|Natalia Gontcharova|Natalija Sergeevna Gončarova|Natalii︠a︡ Sergeevna Goncharova|N. Goncharova|Natalija Sergeevna Goncharova|Natalija Sergeevna Goncarova|Nathalie Gontcharova|Nataliia Sergeevna Goncharova|Natalia Sergeevna Goncharova|Natal'ja Goncarova|Natal'ja Sergejevna Gontsjarova|Natalja Sergejevna Gontsjarova|Nataliya Sergeevna Goncharova|Natalya Goncharova|Natalia Sergeyevna Goncharova|Nataliia Goncharova|Nathalie S. Gontcharova|Natalie Gontcharova,Q5,,Natalia Goncharova
+Natal,Natalia Kondrashova,Q113441794,12,0,1,particle physicist,,Q5,,
+Natal,Colony of Natal,Q1301901,12,0,1,British colony from 1843 to 1910,Natal Colony|Natal,Q133156,,Colony of Natal
+Natal,Natal Province,Q917867,12,0,1,former province of South Africa (1910–1994),Natal,Q191093|Q19953632,,Natal (province)
+Copenhagen,Copenhagen,Q1748,13,0,1,capital and largest city of Denmark,"CPH|Kopenhagen|Kobenhavn|Köbenhavn|Hafn|Copenhagen, Denmark|KBH|Kbh.",Q51929311|Q1392581|Q515|Q1549591|Q108178728,,Copenhagen
+Copenhagen,Copenhagen Municipality,Q504125,13,0,1,municipality in the Capital Region of Denmark,Københavns Kommune|Copenhagen,Q2177636,,Copenhagen Municipality
+Copenhagen,University of Copenhagen,Q186285,13,0,1,"public research university in Copenhagen, Denmark",Copenhagen University|Københavns Universitet|ku.dk,Q62078547|Q43229,,University of Copenhagen
+Copenhagen,Statens Museum for Kunst,Q671384,13,0,1,"art museum in Copenhagen, Denmark",National Gallery of Denmark|SMK|Royal Museum of Fine Arts|Dansk kunstmuseum|Statens museum for kunst|Denmark. Statens museum for kunst|Copenhagen. Statens museum for kunst|Kunstmuseum,Q3844310,,National Gallery of Denmark
+Copenhagen,Copenhagen,Q1164128,13,0,1,Duke of Wellington's war horse,,Q726|Q26401003,,Copenhagen (horse)
+Copenhagen,Port of Copenhagen,Q1252907,13,0,1,port in Denmark,Copenhagen Port|Copenhagen Malmö Port,Q44782,,Port of Copenhagen
+Copenhagen,Copenhagen,Q69667924,13,0,1,series in the German architecture magazine Blätter für Architektur und Kunsthandwerk,,Q17518557,,
+Copenhagen,Copenhagen Records,Q641445,13,0,1,Danish record label,,Q18127|Q7247847,,Copenhagen Records
+Copenhagen,Copenhagen,Q1561910,13,0,1,play by Michael Frayn,,Q7725634,,Copenhagen (play)
+Copenhagen,Copenhagen,Q3459904,13,0,1,"village in Lewis County, New York, United States","Copenhagen, New York|Copenhagen, NY",Q751708|Q55237813,,"Copenhagen, New York"
+Copenhagen,Capital Gains Tax Act 1981,Q115592809,13,0,2,act of the Parliament of Denmark,Danish Capital Gains Tax Act 1981,Q113627831,,
+Copenhagen,Capital Gains Tax Act 2005,Q115592699,13,0,2,act of the Parliament of Denmark,Danish Capital Gains Tax Act 2005,Q113627831,,
+Taipei,Taipei,Q1867,14,0,1,special municipality and capital city of Taiwan,The City of Azaleas|Taipei City|Taibei|City of Taipei|Tanshoui|Tai Pei|Tâi-pak|Taipak|Thòi-pet|Thoipet|Taihoku,Q515|Q2225003|Q1549591|Q10876480|Q171441|Q108178728,,Taipei
+Taipei,New Taipei City,Q244898,14,0,1,"city in Taiwan, and most populous municipality of Taiwan",Xinbei City|Taipei County|New Taipei City|NTPC,Q2225003|Q515|Q51929311|Q691960,,New Taipei City
+Taipei,Taiwan time,Q712168,14,0,1,timezone of Taiwan,Time zones of the Republic of China|Time in the Republic of China|National Standard Time|Taiwan Standard Time|Taipei Time|Formosan Time|ROC National Standard Time|Time on Taiwan|Chungyang standard time,Q22676729|Q12143,,Time in Taiwan
+Taipei,Taiwan,Q865,14,0,1,country in East Asia,"Taiwan ROC|The ROC|Republic of China (Taiwan)|Chunghwa Minkuo|TPE|Nationalist China|Chunghwa Minkwo|Chinese Taipei|Free China|Republic of China|China, Republic of|Chinese Republic",Q112099|Q5255892|Q6501447|Q3624078|Q10711424|Q1084|Q16562419|Q25449457,,Taiwan
+Taipei,Taipei,Q56283112,14,0,1,1945-1967 provincial city of Taiwan,Taibei|Taipei (provincial city),Q83020,,
+Taipei,Taipei Fine Arts Museum,Q697319,14,0,1,art museum in Taipei,TFAM,Q207694,,Taipei Fine Arts Museum
+Taipei,Taipei Medical University,Q701818,14,0,1,"university in Taipei, Taiwan",Taipei Medical College,Q902104|Q96888669,,Taipei Medical University
+Taipei,Taipei National University of the Arts,Q7676308,14,0,1,"university in Taipei, Taiwan","National Institute of the Arts, Taiwan",Q3918,,Taipei National University of the Arts
+Taipei,Taipei Main Station,Q102008606,14,0,1,"metro station served by Taipei Metro in Taipei, Taiwan",MRT Taipei Main Station|Taipei Main Station (Taipei Metro)|BL12|R10,Q928830|Q22808403,,
+Taipei,171381 Taipei,Q18369842,14,0,1,asteroid,Taipei,Q3863,,171381 Taipei
+Taipei,Member of Taipei City Council,Q49256298,14,0,2,,Taipei City Councilor|Taipei City Councillor,Q4164871,Q708492,
+Taipei,12th Taipei City Council,Q49996573,14,0,2,Legislative term of the Taipei City Council starting 2014 to 2018,Taipei City Council 2014–2018,Q15238777,,
+Taipei,Taipei City Government,Q9105560,14,0,2,"government of Taipei, Taiwan",TCG|TPCG,Q4307514|Q35798,,Taipei City Government
+Taipei,Taipei City Council,Q7676278,14,0,2,The council of Taipei,,Q701632|Q11204|Q35749,,Taipei City Council
+Taipei,Taipei City Constituency 1,Q14943831,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,Taipei City Constituency 1
+Taipei,Taipei City Constituency 2,Q16926782,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,Taipei City Constituency 2
+Taipei,Taipei City Constituency 6,Q16926792,14,0,2,Taiwan legislative election regional district,,Q19409201,,Taipei City Constituency 6
+Taipei,Taipei City Constituency 3,Q16926780,14,0,2,Taiwan legislative election regional district,,Q19409201,,Taipei City Constituency 3
+Taipei,Taipei City Constituency 4,Q15930080,14,0,2,constituency of the Legislative Yuan of Taiwan,,Q19409201,,Taipei City Constituency 4
+Taipei,Taibei High School,Q11594750,14,0,2,"private senior high school in Shilin District, Taipei",Taibei Senior High School,Q9826|Q423208,,
+Taipei,Taipei County,Q24287568,14,0,2,former county of Taiwan,T'ai-pei Hsien|Taibei County,Q706447|Q15898176,,Taipei County
+Taipei,Taipei 101,Q83101,14,0,2,"skyscraper located in Xinyi District, Taipei, Taiwan","Taipei World Financial Center|Taipei 101 Tower|TAIPEI101|Táiběi yī líng yī|臺北101|No. 7, Section 5, Xinyi Road",Q11303,,Taipei 101
+Taipei,University of Taipei,Q14415444,14,0,2,"university in Taipei, Taiwan",Táiběi Shìlì Dàxué,Q875538,,University of Taipei
+Taipei,Taibei Subdistrict,Q10914396,14,0,2,,,Q986065,,
+Taipei,Taibei Yanchang Community,Q13844439,14,0,2,,,Q50231,,
+Taipei,Taibeilu,Q13666542,14,0,2,community in Tianjin,,Q985488,,
+Taipei,Taibei Village,Q96976071,14,0,2,"village in Xinying District, Tainan City, Taiwan",,Q7930614,,
+Agartala,Agartala,Q170454,15,0,1,city in North-east India,,Q1549591,,Agartala
+Agartala,Agartala Airport,Q3498094,15,0,1,airport in Tripura,IXA|VEAT|AGARTALA,Q1248784|Q94993988,,Maharaja Bir Bikram Airport
+Agartala,Agartala postal division,Q63680511,15,0,1,,,Q63676827,,
+Agartala,Agartala railway station,Q15178297,15,0,1,"railway station in Tripura, India",,Q55488|Q22808404,,Agartala railway station
+Agartala,Agartala Municipal Council,Q4691381,15,0,1,"Municipal Council of Tripura, India",,Q6936225,,Agartala Municipal Corporation
+Agartala,Agartala Vidhan Sabha constituency,Q17011469,15,0,1,constituency of the Tripura legislative assembly in India,,Q54375518,,Agartala Assembly constituency
+Agartala,Agartala Municipal Council area,Q58954342,15,0,1,area of jurisdiction of Agartala Municipal Corporation,,Q58953536,,
+Agartala,Agartala Conspiracy Case,Q3348100,15,0,1,1968 sedicaion case in Pakistan,,Q2334719,,Agartala Conspiracy Case
+Agartala,Agartala Book Fair,Q105702117,15,0,1,,,,,Agartala Book Fair
+Agartala,Agartala Press Club,Q106935036,15,0,1,,,,,Agartala Press Club
+Agartala,Tripura State Commission For Women,Q110588973,15,0,2,"statutory body for women's rights, India",,Q327333,,Tripura State Commission For Women
+Agartala,Tripura State Pollution Control Board,Q61931948,15,0,2,"government organization in Agartala, India",,Q327333,,Tripura State Pollution Control Board
+Agartala,Tripura State Tribal Museum,Q117253896,15,0,2,"museum in Agartala, India",,Q33506,,Tripura State Tribal Museum
+Agartala,Tripura State Election Commission,Q110269525,15,0,2,Electoral agency in India,,Q327333,,Tripura State Election Commission
+Agartala,Tripura State Rifles,Q120488850,15,0,2,law enforcement agency,,,,Tripura State Rifles
+Agartala,"Tripura State Academy of Tribal Culture, Agartala",Q86355240,15,0,2,college affiliated to the Tripura University,,Q189004,,
+Agartala,Tripura,Q7843844,15,0,2,genus of insects,,Q16521,,
+Agartala,Tripura,Q1363,15,0,2,Indian state,IN-TR,Q12443800,,Tripura
+Agartala,Tripura,Q17342164,15,0,2,princely state,,Q1336152,,Tripura (princely state)
+Agartala,Tripura,Q1620265,15,0,2,realm,Twipra Kingdom,Q1250464,,Twipra Kingdom
+Agartala,Tijara Vidhan Sabha constituency,Q19807084,15,0,2,constituency of the Rajasthan legislative assembly in India,Tripura,Q54375498,,Tijara Assembly constituency
+Agartala,Tripura,Q57156531,15,0,2,constituency of the Rajya Sabha coterminous with the Indian state,,Q57156205,,
+Agartala,Tripura,Q56241890,15,0,2,female given name,,Q11879590,,
+Agartala,Tripura,Q4216317,15,0,2,group of three cities in Hindu mythology,,,,Tripura (mythology)
+Agartala,Tripura,Q22682177,15,0,2,2015 film by Rajkiran,,Q11424,,Tripura (film)
+Agartala,Tripura,Q7843843,15,0,2,Indian writer,,Q5,,Tripura (Telugu author)
+Artieda,Artieda,Q120171284,16,0,1,"municipal capital of Artieda, Zaragoza, Aragon, Spain",,Q121289819,,
+Artieda,Artieda,Q712486,16,0,1,municipality of Aragón,,Q2074737,,Artieda
+Artieda,Artieda,Q12254217,16,0,1,"human settlement in Urraúl Bajo, Navarre, Spain",,Q2989421|Q3055118,,
+Artieda,Artieda,Q37047483,16,0,1,family name,,Q101352,,
+Artieda,Julio Artieda,Q41289531,16,0,1,researcher,Artieda J.|J. Artieda,Q5,,
+Artieda,Artieda del Nuevo Reino de Navarra,Q5707023,16,0,1,,Artieda,Q350895,,
+Artieda,Artieda Palace,Q20492000,16,0,1,"cultural property in Urraúl Bajo, Spain",,Q16560|Q4989906|Q57821,,
+Artieda,Artieda town hall,Q126818431,16,0,1,"municipal building in Artieda, Spain",town hall of Artieda,Q112793351,,
+Artieda,Artieda y Labiano,Q110746460,16,0,1,"monument in Madrid, Spain",,Q721747,,
+Artieda,Artieda,Q108804364,16,0,1,,,Q190107,,
+Sofia,Sofia,Q18201520,17,0,1,female given name,Sofia (given name)|Sofia (first name),Q11879590,,Sofia (name)
+Sofia,Sofia,Q472,17,0,1,capital city of Bulgaria,Serdica|Sredets|Sredez|Sofija,Q200250|Q15303838|Q15344922|Q89487741|Q1901835|Q51929311,,Sofia
+Sofia,Sofía,Q12375180,17,0,1,female given name,Sofía (first name)|Sofía (given name),Q11879590,,
+Sofia,Sofia,Q2125800,17,0,1,genus of insects,,Q16521,,
+Sofia,Sofia,Q115301523,17,0,1,,,Q5,,
+Sofia,Sofia,Q113969720,17,0,1,,,Q5,,
+Sofia,Sofia,Q1293025,17,0,1,freighter,,Q105999,,
+Sofia,Sofia Alaoui,Q105946284,17,0,1,French-Moroccan film director,Sofia,Q5,,Sofia Alaoui
+Sofia,Sofia Maria Consonni,Q113956659,17,0,1,Italian physicist,,Q5,,
+Sofia,Infanta Sofía of Spain,Q847010,17,0,1,younger child of King Felipe VI and Queen Letizia,"Sofía de Borbón y Ortiz, infanta de España|Princess Sofia",Q5,,Infanta Sofía of Spain
+Sofia,Sofia Airport,Q127951,17,0,2,international airport in Bulgaria,SOF|LBSF|Sofia-Vrazhdebna Airport|Aeroport Sofia,Q644371|Q1248784|Q94993988,,Sofia Airport
+Sofia,Sofia Airport Metro Station,Q19700822,17,0,2,"metro station in Sofia, Bulgaria",,Q928830|Q1335652|Q11670533|Q20202072,,Sofia Airport metro station
+Panama City,Panama City,Q3306,18,0,1,capital of Panama,Panamá|Panama|Ciudad de Panamá|Ciudad de Panama,Q515|Q1907114|Q1549591,,Panama City
+Panama City,Panama City,Q852591,18,0,1,"city in and county seat of Bay County, Florida, United States","Panama City, Florida|Panama City, FL",Q1093829|Q62049,,"Panama City, Florida"
+Panama City,Panama City Beach,Q1075852,18,0,1,"city in Bay County, Florida, United States","Panama City Beach, Florida|Panama City Beach, FL|Panama City Beach (Florida)",Q1093829,,"Panama City Beach, Florida"
+Panama City,Panama City,Q114440666,18,0,1,painting by Art Rosenbaum,,Q3305213,,
+Panama City,Panama City Beach Pirates,Q7129917,18,0,1,American soccer team,,Q94579592,,Panama City Beach Pirates
+Panama City,Panama City Fliers,Q7129920,18,0,1,Minor League Baseball team,,Q13027888,,Panama City Fliers
+Panama City,Procambarus econfinae,Q1623658,18,0,1,species of crustacean,Panama City crayfish,Q16521,,Procambarus econfinae
+Panama City,Panama City–Bay County International Airport,Q1284174,18,0,1,"former airport serving Panama City, Florida",PFN|KPFN|Atkinson Field|Fannin Field,Q644371,,Panama City–Bay County International Airport
+Panama City,coat of arms of Panama City,Q96090782,18,0,1,,Coat of arms of Ciudad de Panamá|Panama City coat of arms,Q14659,,Coat of arms of Panama City
+Panama City,PANAMA CITY RADIO LIBERTAD IN SPANISH. ADDRESS BY CUBAN FOREIGN MINISTER RAUL ROA AT PANAMA NATIONAL UNIVERSITY (NAID 104630),Q67520009,18,0,1,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Panama City,Panama City metropolitan area,Q121026999,18,0,2,"metropolitan area in Florida, United States","Panama City-Panama City Beach, FL Metro Area|Panama City-Panama City Beach metropolitan area|Panama City, FL Metropolitan Statistical Area|Panama City, FL Metro Area|Panama City-Lynn Haven-Panama City Beach metro area|Panama City-Panama City Beach, FL Metropolitan Statistical Area|Panama City, Florida metropolitan area|Panama City–Panama City Beach metropolitan area",Q1768043,,"Panama City metropolitan area, Florida"
+San Juan,San Juan,Q44241,19,0,1,"capital of San Juan Province, Argentina","San Juan, Argentina|San Juan, San Juan",Q5770918|Q3243765|Q1549591,,"San Juan, Argentina"
+San Juan,San Juan Province,Q44805,19,0,1,province of Argentina,,Q44753,,"San Juan Province, Argentina"
+San Juan,San Juan,Q749283,19,0,1,city of the Philippines in Metro Manila,"San Juan, Metro Manila|City of San Juan|San Juan City",Q29946056|Q1549591,,"San Juan, Metro Manila"
+San Juan,San Juan,Q174354,19,0,1,municipality of the Philippines in the province of Siquijor,Municipality of San Juan,Q24764,,"San Juan, Siquijor"
+San Juan,San Juan,Q40517,19,0,1,municipality of the Philippines in the province of La Union,,Q24764,,"San Juan, La Union"
+San Juan,San Juan,Q41211,19,0,1,capital of Puerto Rico,"San Juan, Puerto Rico|San Juan Bautista|San Juan Municipio|San Juan de Puerto Rico|San Juan, PR|San Juan PR|San Juan Bautista de Puerto Rico",Q263639|Q1549591,,"San Juan, Puerto Rico"
+San Juan,San Juan,Q29123,19,0,1,municipality of the Philippines in the province of Abra,,Q24764,,"San Juan, Abra"
+San Juan,San Juan,Q12867,19,0,1,municipality of the Philippines in the province of Ilocos Sur,"Lapog|Municipality of San Juan|San Juan, Ilocos Sur",Q24764,,"San Juan, Ilocos Sur"
+San Juan,San Juan,Q173754,19,0,1,municipality of the Philippines in the province of Southern Leyte,,Q24764,,"San Juan, Southern Leyte"
+San Juan,San Juan,Q72986476,19,0,1,family name,,Q66480858,,
+San Juan,San Juan Island,Q1935888,19,0,2,"most populous island of the San Juan Islands in Washington state, United States",,Q23442,,San Juan Island
+San Juan,San Juan Islet,Q6084279,19,0,2,island in Puerto Rico,San Juan Island,Q23442,,San Juan Islet
+San Juan,Isla San Juan,Q49643504,19,0,2,island in Puerto Rico,San Juan Island|San Juan Islet,Q23442,,
+San Juan,San Juan Island,Q42381596,19,0,2,"island in Kenai Peninsula Borough, Alaska, United States",San Juan,Q23442,,
+San Juan,San Juan Islands,Q1196315,19,0,2,"island group in Washington State, USA",,Q1402592,,San Juan Islands
+San Juan,Pig War,Q1064335,19,0,2,confrontation in 1859 between the United States and the British Empire,Pig Episode|Pig and Potato War|San Juan Boundary Dispute|Northwestern Boundary Dispute|Pig War (1859)|San Juan Island Pig War,Q198|Q1078001,,Pig War (1859)
+San Juan,San Juan Island,Q31830058,19,0,2,island in the Philippines,San Juan Islet|San Juan,Q207524,,
+San Juan,San Juan Island,Q31830066,19,0,2,"island in Northern Samar, Philippines",,Q23442,,
+San Juan,San Juan Island National Historical Park,Q1994286,19,0,2,U.S. national park in Washington State,"American and English Camps, San Juan Island|SAJH",Q15836337,,San Juan Island National Historical Park
+San Juan,San Juan Islands National Monument,Q8774216,19,0,2,"national monument in Washington, United States",,Q893775,,San Juan Islands National Monument
+San Juan,Old San Juan Historic District,Q1136674,19,0,2,"historic district in San Juan, Puerto Rico","Viejo San Juan, Puerto Rico|San Juan Historic District|Old San Juan|Old San Juan, Puerto Rico|Old San Juan, San Juan|Old San Juan (Puerto Rico)|Old San Juan (San Juan)|Viejo San Juan, San Juan|San Juan, San Juan|Downtown San Juan|San Juan, Puerto Rico",Q676050|Q15243209|Q677678|Q123705,,Old San Juan
+San Juan,San Juan Antiguo,Q5413104,19,0,2,"barrio in San Juan, Puerto Rico","Old San Juan|San Juan Antiguo Barrio|San Juan Antiguo, San Juan|San Juan Antiguo, Puerto Rico|Old San Juan, Puerto Rico|Old San Juan, San Juan|Viejo San Juan, San Juan|Viejo San Juan, Puerto Rico|Old San Juan (Puerto Rico)|Old San Juan (San Juan)|San Juan, San Juan|Downtown San Juan|San Juan, Puerto Rico",Q3677932,,San Juan Antiguo
+San Juan,San Juan,Q107552281,19,0,2,subbarrio in Humacao barrio-pueblo,"San Juan Subbarrio|San Juan, Humacao|San Juan, Puerto Rico",Q18654693,,
+San Juan,San Juan,Q125766533,19,0,2,"zona urbana in San Juan, Puerto Rico","San Juan zona urbana|San Juan zona urbana, Puerto Rico|San Juan urban zone|San Juan, Puerto Rico|San Juan Zona Urbana",Q125767932,,
+San Juan,"Mayor of San Juan, Puerto Rico",Q28342409,19,0,2,"Principal executive office of the municipality of San Juan, Puerto Rico",Mayor of San Juan (Puerto Rico)|Mayor of San Juan,Q294414,Q109317364,
+Bern,Bern,Q70,20,0,1,"city in Switzerland, capital of the canton of Bern and de facto capital of Switzerland",Berne|city of Bern|Berna,Q70208|Q14770218|Q537250|Q1187811|Q54935504|Q56061|Q1549591|Q515|Q257391,,Bern
+Bern,Kościerzyna,Q935784,20,0,1,city and urban gmina of Poland,Berent|Bern,Q2616791|Q13416557|Q3957,,Kościerzyna
+Bern,Canton of Berne,Q11911,20,0,1,canton of Switzerland,BE|Berne|Bern|the Canton of Berne,Q23058,,Canton of Bern
+Bern,Bernard,Q14649171,20,0,1,male given name,Bernard (given name)|Bernard (first name),Q12308941,,
+Bern,Bern,Q37477115,20,0,1,family name,,Q101352,,Bern (surname)
+Bern,Bernhard,Q221978,20,0,1,male given name,Bernhard (given name)|Bernhard (first name),Q12308941,,Bernhard
+Bern,Bern,Q30112970,20,0,1,male given name,,Q12308941,,
+Bern,Bernd,Q823205,20,0,1,male given name,Bernd (given name)|Bernd (first name),Q12308941,,Bernd
+Bern,Bernardo,Q11687769,20,0,1,male given name,Bernardo (given name)|Bernardo (first name),Q12308941,,Bernardo
+Bern,Bernard,Q11134722,20,0,1,family name,,Q101352|Q98775491,,Bernard (surname)
+Aden,Adenoviridae,Q193447,21,0,1,family of medium-sized nonenveloped viruses with double-stranded DNA genome,adenoviruses,Q16521,,Adenoviridae
+Aden,Aden,Q27116634,21,0,1,male given name,,Q12308941,,
+Aden,adenocarcinoma,Q356033,21,0,1,"carcinoma that has material basis in abnormally proliferating cells, derives from epithelial cells, which originate in glandular tissue","CIE-O-C-18.2M8140/32|adenocarcinoma NOS (morphologic abnormality)|adenocarcinoma, no subtype (morphologic abnormality)|adenocarcinomas|adenocarcinoma, nos",Q112193867,Q33525|Q12078,Adenocarcinoma
+Aden,Aden,Q131694,21,0,1,port city and temporary capital of Yemen,,Q486972|Q515|Q1549591|Q27554677,,Aden
+Aden,renal cell carcinoma,Q1164529,21,0,1,renal carcinoma that has material basis in the lining of the proximal convoluted renal tubule of the kidney,"RCC|adenocarcinoma of kidney|hypernephroma (disorder)|hypernephroma|Adenocarcinoma of the Kidney|Kidney Adenocarcinoma|Renal cell carcinoma, NOS|Renal Cell Cancer|Renal Cell Carcinoma|Renal Cell Carcinoma, Stage Unspecified|Renal Cell Adenocarcinoma|CARCINOMA, RENAL CELL, MALIGNANT|carcinoma, renal cell|Peritoneal cavity",Q112193867,Q18556333,Renal cell carcinoma
+Aden,prostatic hypertrophy,Q506659,21,0,1,noncancerous increase in size of the prostate,"prostatic adenoma|adenoma - prostate|adenoma of prostate|benign adenoma of prostate|benign adenoma of prostate (disorder)|prostate adenoma|benign prostatic hyperplasia|benign enlargement of the prostate|benign prostate enlargement|BPH|BEP|BPE|prostatic hyperplasia|Benign Hyperplasia of Prostate|Benign Hyperplasia of the Prostate|Benign Prostatic Hypertrophy|Benign Prostate Hyperplasia|PROSTATIC HYPERPLASIA, BENIGN|Benign Prostatic Hyperplasia - BPH|PROSTATIC HYPERPLASIA, BENIGN; BPH",Q112193867,Q18556445|Q56014511|Q11996371,Benign prostatic hyperplasia
+Aden,Aden Governorate,Q275729,21,0,1,governorate of Yemen,I|First Governorate|Aden Municipality|Muḩāfaz̧at ‘Adan|‘Adan|Baladīyat ‘Adan|Al Muḩāfaz̧ah al Ūlá|Governorate Number One|Aden|'Adan Governorate,Q331130,,Aden Governorate
+Aden,adenosine triphosphate,Q80863,21,0,1,the energy-carrying molecule in living cells,"5'-ATP|adenosine 5' triphosphate|H4atp|[[[(2R,3R,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxyphosphonic acid|[[[(2R,3R,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxyphosphonic acid|Adenylpyrophosphorate|Adenosine 5'-triphosphorate|Adetol|Phosphobion|Triphosphoric acid adenosine ester|Triphosphaden|Adynol|Adenosine 5'-triphosphoric acid|Atriphos|Triadenyl|Myotriphos|Striadyne|({[({[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}(hydroxy)phosphoryl)oxy](hydroxy)phosphoryl}oxy)phosphonic acid|Fosfobion|Cardenosine|Adephos|Adenylpyrophosphoric acid|Glucobasin|5'-(Tetrahydrogen triphosphate) Adenosine|Atipi|Adenosine 5'-triphosphate|Adenosine-5'-triphosphate|ATP|Adenosine triphosphata|molecular unit of currency",Q113145171,Q72148863,Adenosine triphosphate
+Aden,Adenia,Q138287,21,0,1,genus of plants,,Q16521,,Adenia
+Aden,Adenophora,Q2452808,21,0,1,genus of plants,,Q16521,,Adenophora
+Lausanne,Lausanne,Q807,22,0,1,"capital city of the canton of Vaud, Switzerland",Lausanne VD|Olympic Capital|City of Lausanne,Q70208|Q14770218|Q1187811|Q54935504|Q1549591,,Lausanne
+Lausanne,Lausanne District,Q660628,22,0,1,"district of the canton of Vaud, Switzerland",Lausanne|District de Lausanne,Q3032132,,Lausanne District
+Lausanne,University of Lausanne,Q658975,22,0,1,"university located in Lausanne, Switzerland",Université de Lausanne|UNIL|Universite de Lausanne|Schola Lausannensis|Lausanne University,Q875538|Q1767829,,University of Lausanne
+Lausanne,2020 Winter Youth Olympics,Q1053559,22,0,1,"3rd Winter Youth Olympic Games, held in Lausanne, Switzerland",III Winter Youth Olympic Games|Lausanne Winter Youth Olympic Games|Lausanne 2020|YOG 2020,Q138029040|Q14547231,,2020 Winter Youth Olympics
+Lausanne,Lausanne railway station,Q669678,22,0,1,"Railway station in Lausanne, Switzerland",,Q811979|Q18543139|Q2451577|Q22808404,,Lausanne railway station
+Lausanne,FC Lausanne-Sport,Q309456,22,0,1,sports club in Switzerland,F.C. Lausanne-Sport|Lausanne-Sport,Q476028|Q847017,,FC Lausanne-Sport
+Lausanne,Lausanne University Hospital,Q2945783,22,0,1,"hospital in Lausanne, Switzerland",CHUV|Centre hospitalier universitaire vaudois|University of Lausanne Hospitals|Lausanne Hospital University,Q16917|Q2065736,,Lausanne University Hospital
+Lausanne,Lausanne,Q109985849,22,0,1,watercolour - attributed to John Ruskin,,Q18761202,,
+Lausanne,Lausanne,Q20190599,22,0,1,painting by Jim Dine,,Q3305213,,
+Lausanne,Lausanne HC,Q675245,22,0,1,"ice hockey team in Lausanne, Switzerland",,Q4498974|Q4830453,,Lausanne HC
+Lausanne,Lake Geneva,Q6403,22,0,2,lake in Switzerland and France,Lake Léman|Geneva Lake|Lake of Geneva|Lake Leman|Léman,Q211302,,Lake Geneva
+Lausanne,Lake Geneva,Q82230,22,0,2,"city in Walworth County, Wisconsin, United States","City of Lake Geneva|Lake Geneva, Wisconsin|Lake Geneva, WI",Q15221373,,"Lake Geneva, Wisconsin"
+Lausanne,Geneva Lake,Q14714439,22,0,2,"lake in Walworth County, Wisconsin, USA","Geneva Lake, Wisconsin|Lake Geneva",Q23397,,Geneva Lake
+Lausanne,Lake Geneva,Q18178203,22,0,2,painting by Jean-Baptiste Camille Corot,,Q3305213,,
+Lausanne,Lake Geneva,Q110245854,22,0,2,"former train station in Wisconsin, United States",Lake Geneva station,Q4663385,,Lake Geneva station
+Lausanne,Lake Geneva,Q64514899,22,0,2,painting by Sanford Robinson Gifford,,Q3305213,,
+Lausanne,Lake Geneva,Q6475928,22,0,2,unincorporated community in Florida,"Lake Geneva, Florida|Lake Geneva, FL",Q17343829,,"Lake Geneva, Florida"
+Lausanne,Lake Geneva,Q34898694,22,0,2,,,Q131681,,
+Lausanne,Lake Geneva,Q52380896,22,0,2,vehicles carrier built in 2015,IMO 9713882,Q11446,,
+Lausanne,Lake Geneva,Q35731340,22,0,2,"lake in Clay County, Florida, United States of America",,Q23397,,
+Lausanne,Canton of Vaud,Q12771,22,0,2,canton of Switzerland,VD|Vaud|Canton Vaud|the Canton of Vaud,Q23058,,Vaud
+Pretoria,Pretoria,Q3926,23,0,1,administrative capital of South Africa located in the Gauteng province,"Pretoria, S. Africa|Pretoria, S Africa|Pretoria, Gauteng, South Africa|Pretoria, Gauteng|Pretoria, South Africa",Q1549591|Q56061|Q1306755|Q129267212|Q105742483,,Pretoria
+Pretoria,University of Pretoria,Q604444,23,0,1,university in South Africa,Universiteit van Pretoria|UP|Pretoria University|up.ac.za|Tuks|Pret|Pretoria,Q875538|Q3918,,University of Pretoria
+Pretoria,Pretoria,Q14867231,23,0,1,genus of insects,,Q16521,,
+Pretoria,Pretoria,Q7242166,23,0,1,wooden ship,,Q204577|Q839954|Q852190,,Pretoria (schooner barge)
+Pretoria,Gauteng,Q133083,23,0,1,province in South Africa,Gauteng Province|Province of Gauteng|Pretoria-Witwatersrand-Vereeniging|PWV,Q191093,,Gauteng
+Pretoria,790 Pretoria,Q388719,23,0,1,outer main-belt asteroid,(790) Pretoria|Pretoria,Q3863,,790 Pretoria
+Pretoria,City of Tshwane Metropolitan Municipality,Q1094207,23,0,1,"metropolitan municipality in Gauteng, South Africa",City of Tshwane Metro|City of Tshwane|City of Tshwane Municipality|Tshwane Metropolitan Municipality|Tshwane Metro|Tshwane Municipality|Pretoria Metropolitan Municipality|Pretoria Metro|Pretoria Municipality|Tshwane,Q1530824,,City of Tshwane Metropolitan Municipality
+Pretoria,Pretoriamyia,Q14164398,23,0,1,genus of insects,,Q16521,,Pretoriamyia
+Pretoria,Pretoriana,Q15551162,23,0,1,genus of insects,,Q16521,,
+Pretoria,Praetoria,Q16322928,23,0,1,"village in Herakleion, Greece",Pretoria|Praitoria,Q532,,
+Pretoria,Tshwane University of Technology,Q1147874,23,0,2,multi-campus university in South Africa,TUT|tut.ac.za,Q875538|Q3918,,Tshwane University of Technology
+Pretoria,Tshwane,Q21858912,23,0,2,,,Q486972,,
+Pretoria,Tshwane,Q35382226,23,0,2,"stream in North West, South Africa",,Q47521,,
+Pretoria,Tshwanelo Aabobe,Q112845392,23,0,2,Botswanan athletics competitor (born 1993),,Q5,,
+Pretoria,Tshwanelo Aabone,Q137169499,23,0,2,Botswana Athlete,,Q5,,
+Pretoria,Tshwane Events Centre,Q79564588,23,0,2,sports venue,Thabe Tswane Events Centre|Tswane Show Grounds|Tswane Events Centre,Q1076486,,
+Pretoria,Tshwane University of Technology Faculty of Science,Q100948485,23,0,2,faculty,,Q180958,,
+Pretoria,Tshwane University of Technology - Arcadia Campus,Q99286060,23,0,2,campus,,Q209465,,

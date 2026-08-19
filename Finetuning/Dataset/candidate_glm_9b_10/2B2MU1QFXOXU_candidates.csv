@@ -1,0 +1,51 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Pin Barrens,,,0,0,0,,,,,
+Kbrkoolbos,,,1,0,0,,,,,
+runexald,,,2,0,0,,,,,
+E Pinar,Pınar Eser Ocak,Q87910946,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pinar Erincin,Q1273627,3,0,2,German Turkish actress,,Q5,,
+E Pinar,Pınar Erkekoğlu,Q87385159,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Ergün,Q89056747,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Elpen,Q90760632,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Erbay Dündar,Q90119036,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Eronat,Q91319562,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Ergen,Q90022207,3,0,2,Turkish researcher,,Q5,,
+E Pinar,Pınar Eren,Q6051177,3,0,2,Turkish volleyball player (born 1986),,Q5,,
+E Pinar,Pınar Ergüner,Q6043548,3,0,2,Turkish television personality (born 1975),,Q5,,
+Big Yoods,,,4,0,0,,,,,
+teigerwald,Cape May Warbler,Q27075908,5,0,2,species of bird,Setophaga tigrina,Q16521,,Cape May warbler
+teigerwald,Dendroica tigrina,Q1586243,5,0,2,species of bird,Cape May Warbler,Q16521,,
+teigerwald,10244 Thüringer Wald,Q1062413,5,0,2,asteroid,Thüringer Wald|(10244) Thüringer Wald,Q3863,,10244 Thüringer Wald
+teigerwald,Thüringer Wald,Q29857084,5,0,2,protected area in Germany,,Q21503788,,
+teigerwald,Thüringer Waldbahn und Straßenbahn Gotha,Q132128047,5,0,2,"transport company from Gotha, Germany",,Q740752,,
+teigerwald,Thuringian Forest,Q4210,5,0,2,"mountain range in Thuringia, Germany",,Q674541|Q1970725,,Thuringian Forest
+teigerwald,Thüringer Waldesel,Q1313361,5,0,2,donkey breed,Thuringian forest donkey,Q61901018,,Thüringer Waldesel
+teigerwald,Thüringerwaldbahn,Q2430929,5,0,2,"interurban line of the Gotha tramway to Walterhausen and Tabarz in Thuringia, Germany",Thüringer Waldbahn,Q1664428,,
+teigerwald,Thüringer Wald Biosphere Reserve,Q864772,5,0,2,"biosphere reserve in Thuringia, Germany",Vessertal-Thüringer Wald Biosphere Reserve,Q158454|Q61453609,,Vessertal-Thüringen Forest
+teigerwald,Thüringer Waldquell Mineralbrunnen,Q2430922,5,0,2,,,Q4830453,,
+teigerwald,Thüringer Wald von Ruhla bis Großer Inselsberg,Q60603498,5,0,2,"protected area in the European Union defined by the habitats directive in Thüringen, Germany",,Q1191622,,
+teigerwald,Thüringer Wald östlich Suhl mit Vessertal,Q60603497,5,0,2,"protected area in the European Union defined by the habitats directive in Thüringen, Germany",,Q1191622,,
+Het Lgen,Uncharacterized protein Dmel_CG3253,Q29818458,6,0,2,protein found in Drosophila melanogaster,uncharacterized protein|CG3253-PB|CG3253 gene product from transcript CG3253-RB|CG3253-PA|CG3253|L-gene,Q8054,,
+Het Lgen,Luigi Generali,Q53225028,6,0,2,researcher,,Q5,,
+Het Lgen,Gennari Luigi,Q88884782,6,0,2,researcher,,Q5,,
+Kaise-Wilhelm-Han,,,7,0,0,,,,,
+oswijk,Osijek,Q1640,8,0,2,"city and settlement in Osijek-Baranja County, Croatia",Esseg,Q15105893|Q515,,Osijek
+oswijk,Osijek-Baranja County,Q58159,8,0,2,county in eastern Croatia,County of Osijek-Baranja,Q57053,,Osijek-Baranja County
+oswijk,Osijek,Q97990880,8,0,2,ship built in 1955,IMO 5266154,Q11446,,
+oswijk,University of Osijek,Q1708709,8,0,2,Croatian university,Osijek University|Josip Juraj Strossmayer University of Osijek|Sveučilište J.J. Strossmayera,Q3918|Q45400320,,University of Osijek
+oswijk,Osijek railway station,Q7106792,8,0,2,"railway station in Osijek, Croatia",,Q55488,,Osijek railway station
+oswijk,Osijek,Q27568210,8,0,2,mountain in Montenegro,,Q8502,,
+oswijk,Osijek,Q31232107,8,0,2,,,Q740445,,
+oswijk,Osijek Clinical Hospital,Q12634016,8,0,2,"hospital in Osijek, Croatia",KBO|Klinička bolnica Osijek,Q16917,,
+oswijk,Osijek Airport,Q1423278,8,0,2,airport,OSI|LDOS|OSIJEK/KLISA airport,Q1248784|Q94993988,,Osijek Airport
+oswijk,Osijek Co-cathedral,Q3442727,8,0,2,"co-cathedral in Osijek, Croatia",Church of St Peter and St Paul,Q2577114|Q358,,Osijek Co-cathedral
+oswijk,Oświęcim,Q7342,8,0,2,"town in the Lesser Poland province, Poland",Auschwitz|Oshpitsin|אָשפּיצין|Osvětim|Osvienčim|Освенцим|Aušvica|Oshpetzin|Oshvitsin|Oshvyentsim|Osvyenchim|Aushvits|Aushvitsa|Ushpitzin|אושויץ (פולין)‏,Q2616791,,Oświęcim
+oswijk,Auschwitz,Q7341,8,0,2,German network of concentration and extermination camps in occupied Poland during World War II,KZ Auschwitz|Birkenau|Auschwitz death camp|Auschwitz concentration camp|Auschwitz-Birkenau|Au.|Auschwitz Birkenau Concentration and Extermination Camp|Oświęcim,Q328468|Q33506|Q153813|Q1497375,,Auschwitz concentration camp
+oswijk,Gmina Oświęcim,Q1532946,8,0,2,rural gmina of Poland,Oświęcim,Q3504085,,Gmina Oświęcim
+oswijk,Oświęcim County,Q1147618,8,0,2,powiat of Poland,powiat oświęcimski,Q247073,,Oświęcim County
+oswijk,Oświęcim,Q2735909,8,0,2,"railway station in Oświęcim, Poland",Oświęcim train station|Oświęcim railway station,Q55488,,
+oswijk,"Oświęcim, Greater Poland Voivodeship",Q7116816,8,0,2,"village in Greater Poland, Poland",,Q3558970,,"Oświęcim, Greater Poland Voivodeship"
+oswijk,Oświęcim,Q133801052,8,0,2,,,Q11424,,Oświęcim (1945 film)
+oswijk,Oświęcimska,Q130492210,8,0,2,family name,,Q101352,,
+oswijk,Oświecimski,Q124485641,8,0,2,family name,,Q101352,,
+oswijk,Oświęcimka,Q124938510,8,0,2,family name,,Q101352,,

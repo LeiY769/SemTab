@@ -1,0 +1,59 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Cavalry,cavalry,Q47315,0,0,1,soldiers or warriors fighting from horseback,"horsemen|cavalry, trooper|The Cavalry",Q690109|Q12737077|Q15627509,Q690109,Cavalry
+Cavalry,cavalry master,Q640375,0,0,1,former military rank of a commissioned cavalry officer in some armies,cavalry captain|rotmistrz,Q56019|Q12737077,Q1156796,Rittmaster
+Cavalry,United States Cavalry,Q861477,0,0,1,branch of the United States Army,US cavalry|Cavalry of the United States|Cavalry|U.S. cavalry,Q781132,Q47315,United States Cavalry
+Cavalry,Cavalry,Q3663909,0,0,1,1936 film by Goffredo Alessandrini,Cavalleria,Q11424,,Cavalry (1936 Italian film)
+Cavalry,Cavalry,Q64520858,0,0,1,painting by Jacques Courtois,,Q3305213,,
+Cavalry,Cavalry,Q24050498,0,0,1,painting by George Hendrik Breitner,,Q3305213,,
+Cavalry,cavalry of Second Polish Republic,Q11737524,0,0,1,,,Q47315,,
+Cavalry,Cavalry,Q59925054,0,0,1,painting by Tuan Wen-Chieh,,Q3305213|Q18761202,,
+Cavalry,cavalry squadron,Q252280,0,0,1,cavalry unit size designation,Sqn.|squadron of cavalry|squadron (cavalry)|squadron (army)|company of cavalry|cavalry company|squadron,Q23905071,Q102538|Q14825551,Squadron (army)
+Cavalry,Rider,Q27954721,0,0,1,painting by Ferdinand Roybet,Cavalry,Q3305213,,
+Cavalry,cavalry unit,Q14825551,0,0,2,military formation built around elements of the cavalry branch,,Q23905069,Q176799,
+Cavalry,horse cavalry unit,Q47512214,0,0,2,military unit type charged with direct combat operations using horses,cavalry unit (horse)|hippomobile cavalry unit|hippomobile unit,Q23905069,Q14825551,
+Cavalry,air cavalry unit,Q47512326,0,0,2,military unit type,cavalry unit (air),Q23905069,Q14825551,
+Cavalry,mounted infantry unit,Q106011004,0,0,2,military unit type designation,"cavalry unit, infantry|infantry unit, mounted",Q23905069,Q23905052|Q14825551,
+Cavalry,light cavalry unit,Q106008036,0,0,2,military unit type designation,"cavalry unit, light",Q23905069,Q14825551,
+Cavalry,Polish cavalry unit,Q66737821,0,0,2,Polish Army unit type designation,cavalry unit (Poland),Q62933848,Q66737828|Q14825551,
+Cavalry,Soviet cavalry unit,Q62959327,0,0,2,Soviet Army unit classification,cavalry unit (soviet),Q62933848,Q5470049|Q14825551,
+Cavalry,Cavalry United Methodist Church,Q91163727,0,0,2,"church building in Nashville, Tennessee",,Q56242063,,
+Cavalry,Cavalry Unit Records (NAID 1254472),Q64178115,0,0,2,series in the National Archives and Records Administration's holdings,,Q2668072,,
+Cavalry,cavalry charge,Q59911500,0,0,2,military tactic involving rapid advance toward the enemy using horse-mounted personnel,charge,Q2911787,Q543461,Cavalry charge
+Cavalry,Cavalry Charge,Q59771241,0,0,2,painting by Pieter Meulener,,Q3305213,,
+Cavalry,Cavalry Charge,Q20540372,0,0,2,painting by Jean Baptiste Edouard Detaille,,Q3305213,,
+Cavalry,Cavalry Charge,Q969551,0,0,2,1964 film by Ramón Torrado,,Q11424,,Cavalry Charge (film)
+Cavalry,Cavalry charge,Q5054823,0,0,2,rugby team,,,,Cavalry charge (football)
+Cavalry,Cavalry Charge,Q79997760,0,0,2,"drawing by Auguste Raffet (French, 1804-1860) (2009.139)",,Q93184,,
+Cavalry,Cavalry charge,Q123856028,0,0,2,painting by Giovanni Fattori,,Q3305213,,
+Cavalry,Cavalry Charge,Q136505062,0,0,2,painting by Guilherme Litran,,Q3305213,,
+Cavalry,Cavalry charge,Q138413735,0,0,2,painting by Peter Tillemans,,Q3305213,,
+Cavalry,cavalry charge of Taxdirt,Q61173287,0,0,2,,,Q59911500,,
+Plowing,Plowing,Q135034349,1,0,1,video game developed by Nikita Antipov,,Q7889,,
+Plowing,ploughing,Q11218006,1,0,1,tillage by the use of a plough/plow,plowing,,Q878333,
+Plowing,Plowing,Q20479282,1,0,1,painting by Leo Breslau,,Q3305213,,
+Plowing,tillage,Q878333,1,0,1,preparation of soil by mechanical agitation,tilling|cultivation|ploughing (agriculture)|plowing (agriculture),,Q3198719|Q10843872|Q117048972,Tillage
+Plowing,Plowing Into the Field of Love,Q18389048,1,0,1,album by Iceage,,Q482994,,Plowing Into the Field of Love
+Plowing,Plowing the Dark,Q60379473,1,0,1,2000 edition,,Q3331189,,
+Plowing,Plowing,Q56527148,1,0,1,From the works of Hakob Kojoyan (Machine Graphics),,Q1027879,,
+Plowing,Plowing,Q125423146,1,0,1,painting by Grandma Moses (1959),,Q3305213,,
+Plowing,Plowing,Q130484974,1,0,1,painting by Grandma Moses (1957),,Q3305213,,
+Plowing,Plowing,Q135735793,1,0,1,painting by Anton Mauve (1838–1888),,Q3305213,,
+Plowing,agricultural practice,Q104214643,1,0,2,principles and behaviors for farming,agricultural practices,,Q119822504|Q11451,
+Plowing,"Agricultural practices altered soybean seed protein, oil, fatty acids, sugars, and minerals in the Midsouth USA.",Q38901230,1,0,2,scientific article,,Q13442814,,
+Plowing,Agricultural practices indirectly influence plant productivity and ecosystem services through effects on soil biota,Q46953938,1,0,2,scientific article published in January 2014,,Q13442814,,
+Plowing,Agricultural Practice in Greek Prehistory,Q64366737,1,0,2,,,Q13442814,,
+Plowing,Agricultural practices to improve nitrogen use efficiency through the use of arbuscular mycorrhizae: Basic and agronomic aspects,Q46296859,1,0,2,scientific article,,Q13442814,,
+Plowing,Agricultural practices influence flow regimes of headwater streams in western Iowa,Q39528442,1,0,2,scientific article published on 9 August 2005,,Q13442814,,
+Plowing,Agricultural practices for food safety threaten pest control services for fresh produce,Q60463434,1,0,2,article,,Q13442814,,
+Plowing,Agricultural practices in grasslands detected by spatial remote sensing,Q43855150,1,0,2,"scientific article published on September 3, 2014",,Q13442814,,
+Plowing,Agricultural Practices Influence Contamination and Survival in Pre-harvest Tomato Production,Q58553886,1,0,2,scientific article published on 16 October 2018,,Q13442814,,
+Plowing,Agricultural Practices Affect Arthritis,Q46607729,1,0,2,"scientific article published on January 1, 1991",,Q13442814,,
+Plowing,Tillage,Q37458178,1,0,2,family name,,Q101352,,
+Plowing,tillage machine,Q15306431,1,0,2,agricultural machinery,tillage tool|tiller,,Q16000047,
+Plowing,tillage instrument,Q21028040,1,0,2,,,,Q16000047,
+Plowing,Tillage erosion,Q106611320,1,0,2,form of soil erosion,,,,Tillage erosion
+Plowing,Tillage.,Q25714763,1,0,2,painting by Witold Wojtkiewicz,,Q3305213,,
+Plowing,Tillage Act 1597,Q55635859,1,0,2,Act of the Parliament of England,,,,Tillage Act 1597
+Plowing,agriculture in Islam,Q127162935,1,0,2,agriculture and farming in Islam,agriculture (Islam)|farming in Islam|farming (Islam)|filāḥa|tillage in Islam|tillage (Islam)|cultivation in Islam|cultivation (Islam),Q23384401|Q12189625,Q11451,
+Plowing,Tillage Live,Q7802234,1,0,2,British annual agricultural show,,,,Tillage Live
+Plowing,Tillage and no-tillage effects on physical characteristics of a silt loam under 5 years of continuous oats-maize crop rotation,Q112902881,1,0,2,2000 master's thesis by Edmundo da Silva Soares Viegas at Massey University,,Q1907875,,

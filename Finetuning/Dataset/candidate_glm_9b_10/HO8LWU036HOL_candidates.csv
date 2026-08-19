@@ -1,0 +1,264 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Can Verdera,Can Verdera,Q43123355,0,0,1,"cultural property in Palol de Revardit, Spain",,Q585956|Q1408475,,
+Can Verdera,Can Verdera,Q28711470,0,0,1,"masia in Celrà, Gironès, Catalonia",,Q585956,,
+Can Verdera,Can Verdera,Q60166467,0,0,1,"building in Girona Province, Spain",,Q185187,,
+Can Verdera,Can Verdera,Q107127356,0,0,1,"masia in Bescanó, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Verdera,Can Verdera,Q107212925,0,0,1,"masia in Viladamat, Alt Empordà, Girona, Catalonia, Spain",,Q585956,,
+Palafrugell,Palafrugell,Q23994223,0,1,1,capital city of the municipality of Palafrugell,,Q3055118|Q130261443|Q121289819,,
+Palafrugell,Palafrugell,Q13490,0,1,1,"municipality in the comarca of Baix Empordà, in the province of Girona, Catalonia, Spain",,Q33146843,,Palafrugell
+Palafrugell,Palafrugell,Q116014767,0,1,1,sardana by Pere Masats i Vilata,,Q105543609,,
+Palafrugell,Palafrugell,Q116018629,0,1,1,sardana by Ricard Viladesau i Caner,,Q105543609,,
+Palafrugell,"Palafrugell municipal election, 2015",Q45313778,0,1,1,,2015 Palafrugell Town Council election|2015 Palafrugell municipal election,Q152450,,
+Palafrugell,Palafrugellenc de l'année,Q28122739,0,1,1,award,,Q5257307,,
+Palafrugell,Palafrugell Town Hall,Q11904557,0,1,1,building and municipality council in Spain,,Q112793351,,
+Palafrugell,Palafrugell Medal of Honor,Q43237520,0,1,1,,,Q131647,,
+Palafrugell,Palafrugell city council,Q28004656,0,1,1,city council of Palafrugell in Spain,,Q3507268,,
+Palafrugell,Palafrugell's en Comú Podem,Q64143090,0,1,1,,Palafrugell's en Comú Podem - En Comú Guanyem,Q355844,,
+Palafrugell,Can Verdera,Q43123355,0,1,2,"cultural property in Palol de Revardit, Spain",,Q585956|Q1408475,,
+Palafrugell,Can Verdera,Q28711470,0,1,2,"masia in Celrà, Gironès, Catalonia",,Q585956,,
+Palafrugell,Can Verdera,Q60166467,0,1,2,"building in Girona Province, Spain",,Q185187,,
+Palafrugell,Can Verdera,Q107127356,0,1,2,"masia in Bescanó, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Palafrugell,Can Verdera,Q107212925,0,1,2,"masia in Viladamat, Alt Empordà, Girona, Catalonia, Spain",,Q585956,,
+Nedermolen,Nedermolen,Q115282741,1,0,1,"former watermill in Meldert, Belgium",,Q185187,,
+Nedermolen,Nedermolen,Q59799260,1,0,1,"watermill in Melden, Belgium",,Q185187,,
+Nedermolen,Nedermolen,Q124842268,1,0,1,"former watermill in Linkebeek, Belgium",,Q185187,,
+Nedermolen,Nedermolen,Q19353310,1,0,1,"street in Steensel, the Netherlands",,Q79007,,
+Nedermolen,Nedermolen,Q115266939,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Oudenaarde,Oudenaarde,Q12992,1,1,1,"city in East Flanders, Belgium",Oudenarde,Q493522|Q15273785,,Oudenaarde
+Oudenaarde,Oudenaarde,Q31824126,1,1,1,"town in Oudenaarde municipality, Belgium",,Q3957,,
+Oudenaarde,Oudenaarde railway station,Q2507498,1,1,1,railway station in Belgium,,Q55488,,
+Oudenaarde,Oudenaarde,Q65044014,1,1,1,Belgian political subdivision,,,,Oudenaarde (Chamber of Representatives constituency)
+Oudenaarde,Oudenaarde,Q103960612,1,1,1,encyclopedia article,,Q13433827,,
+Oudenaarde,M477 Oudenaarde,Q105889471,1,1,1,,,Q3337309,,
+Oudenaarde,Tram stop Oudenaardeplantsoen,Q111292829,1,1,1,"tram stop in Amsterdam, Netherlands",Nieuw Sloten,Q2175765,,
+Oudenaarde,electoral district of Oudenaarde-Aalst,Q65042963,1,1,1,constituency of the Chamber of Representatives of Belgium (1995-1999),Oudenaarde-Aalst|electoral arrondissement of Oudenaarde-Aalst,Q140399646,,Aalst-Oudenaarde (Chamber of Representatives constituency)
+Oudenaarde,Oudenaarde Town Hall,Q2752664,1,1,1,"town hall in East Flanders, Belgium",,Q815448|Q139251033,,Oudenaarde Town Hall
+Oudenaarde,Oudenaarden,Q68729910,1,1,1,family name,,Q101352,,
+Oudenaarde,Nedermolen,Q115282741,1,1,2,"former watermill in Meldert, Belgium",,Q185187,,
+Oudenaarde,Nedermolen,Q59799260,1,1,2,"watermill in Melden, Belgium",,Q185187,,
+Oudenaarde,Nedermolen,Q124842268,1,1,2,"former watermill in Linkebeek, Belgium",,Q185187,,
+Oudenaarde,Nedermolen,Q19353310,1,1,2,"street in Steensel, the Netherlands",,Q79007,,
+Oudenaarde,Nedermolen,Q115266939,1,1,2,Wikimedia disambiguation page,,Q4167410,,
+Grevensmolen,Grevensmolen,Q2579771,2,0,1,"windmill in Vegelinsoord, Netherlands",,Q38720|Q301449,,"De Deels, Vegelinsoord"
+Grevensmolen,Grevensmolen,Q21609034,2,0,1,"watermill in Gorsem, Belgium",,Q185187,,
+Grevensmolen,Grevensmolen,Q21605409,2,0,1,Wikimedia disambiguation page,,Q4167410,,
+Sint-Truiden,Sint-Truiden,Q37792,2,1,1,municipality in Belgium,Saint Trond,Q493522|Q15273785,,Sint-Truiden
+Sint-Truiden,Sint-Truidense V.V.,Q138248,2,1,1,association football club in Belgium,K. Sint-Truidense V.V.|K Sint-Truidense VV|Sint-Truidense VV,Q476028,,Sint-Truidense VV
+Sint-Truiden,Sint-Truiden,Q15281225,2,1,1,"town in Sint-Truiden municipality, Belgium",,Q3957,,
+Sint-Truiden,Sint-Truiden,Q107474471,2,1,1,,,Q2031121,,
+Sint-Truiden,Sint-Truiden Abbey,Q2694141,2,1,1,former Benedictine monastery in Sint-Truiden (named after Saint Trudo) in the province of Limburg Belgium,Abdij van Sint-Truiden|abbaye de Saint-Trond,Q160742|Q2742167,,Sint-Truiden Abbey
+Sint-Truiden,Sint-Truiden Air Base,Q240119,2,1,1,airport,St Truiden Airbase|EBST,Q62447|Q695850,,Sint-Truiden / Brustem Airfield
+Sint-Truiden,Sint-Truiden railway station,Q2055506,2,1,1,railway station in Belgium,,Q55488,,Sint-Truiden railway station
+Sint-Truiden,flag of Sint-Truiden,Q2395575,2,1,1,,Sint-Truiden flag,Q21850100,,
+Sint-Truiden,coat of arms of Sint-Truiden,Q4000274,2,1,1,,Sint-Truiden coat of arms,Q41505469,,
+Sint-Truiden,Sint-Truidenstraat,Q19516543,2,1,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Oude Molen,Oude Molen,Q2495990,3,0,1,"watermill in Valkenburg, Netherlands","Oude of Banmolen, Valkenburg|Banmolen",Q185187,,
+Oude Molen,Oude Molenweg,Q19401917,3,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Oude Molen,Oude Molen,Q2296808,3,0,1,"former watermill in Simpelveld, Netherland",,Q185187,,"Oude Molen, Simpelveld"
+Oude Molen,Kralingerpolder,Q17606394,3,0,1,"windmill in Maasland, Netherlands",Grote Molen|Oude Molen,Q38720,,
+Oude Molen,Oude Molen,Q4493549,3,0,1,"hamlet in Deventer, Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q2273198,3,0,1,"hamlet in Bergen op Zoom, the Netherlands",,Q1484611,,
+Oude Molen,Oude Molen,Q18434539,3,0,1,"watermill in Berlingen, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q108907501,3,0,1,"former windmill in Wuustwezel, Belgium",,Q38720|Q819774,,
+Oude Molen,Oude Molen,Q20829753,3,0,1,"watermill in Geenrode, Belgium",,Q185187,,
+Oude Molen,Oude Molen,Q56188021,3,0,1,"windmill in Oostkerke (Damme), Belgium",Molen Mengé,Q38720,,
+Sint-Truiden,Sint-Truiden,Q37792,3,1,1,municipality in Belgium,Saint Trond,Q493522|Q15273785,,Sint-Truiden
+Sint-Truiden,Sint-Truidense V.V.,Q138248,3,1,1,association football club in Belgium,K. Sint-Truidense V.V.|K Sint-Truidense VV|Sint-Truidense VV,Q476028,,Sint-Truidense VV
+Sint-Truiden,Sint-Truiden,Q15281225,3,1,1,"town in Sint-Truiden municipality, Belgium",,Q3957,,
+Sint-Truiden,Sint-Truiden,Q107474471,3,1,1,,,Q2031121,,
+Sint-Truiden,Sint-Truiden Abbey,Q2694141,3,1,1,former Benedictine monastery in Sint-Truiden (named after Saint Trudo) in the province of Limburg Belgium,Abdij van Sint-Truiden|abbaye de Saint-Trond,Q160742|Q2742167,,Sint-Truiden Abbey
+Sint-Truiden,Sint-Truiden Air Base,Q240119,3,1,1,airport,St Truiden Airbase|EBST,Q62447|Q695850,,Sint-Truiden / Brustem Airfield
+Sint-Truiden,Sint-Truiden railway station,Q2055506,3,1,1,railway station in Belgium,,Q55488,,Sint-Truiden railway station
+Sint-Truiden,flag of Sint-Truiden,Q2395575,3,1,1,,Sint-Truiden flag,Q21850100,,
+Sint-Truiden,coat of arms of Sint-Truiden,Q4000274,3,1,1,,Sint-Truiden coat of arms,Q41505469,,
+Sint-Truiden,Sint-Truidenstraat,Q19516543,3,1,1,"street in Amsterdam, the Netherlands",,Q79007,,
+Kleine Molen,De Kleine Molen,Q2984515,4,0,1,"windmill in Haarlem, Netherlands",De Hommel|Molen De Hommel|Kleine Molen,Q38720|Q301449,,
+Kleine Molen,Kleine of Lage Molen,Q1855262,4,0,1,"windmill in Nieuw-Lekkerland, part of windmills at Kinderdijk, Netherlands",Kleine Molen|Lage Molen,Q38720|Q301449,,
+Kleine Molen,Kleine Molen,Q20826682,4,0,1,"watermill in Schalbroek, Belgium",,Q185187,,
+Kleine Molen,Kleine Molen,Q2856070,4,0,1,"watermill in Overpelt, Belgium",,Q185187,,
+Kleine Molen,Kleine Molen,Q19303441,4,0,1,"street in Bleiswijk, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenbeek,Q2250498,4,0,1,,,Q63565252,,
+Kleine Molen,Kleine Molenstraat,Q19303446,4,0,1,"street in Groningen, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenstraat,Q19303447,4,0,1,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenstraat,Q19303444,4,0,1,"street in Elst, the Netherlands",,Q79007,,
+Kleine Molen,Kleine Molenhof,Q19303442,4,0,1,"street in Elst, the Netherlands",,Q79007,,
+Pelt,Pelt,Q42878311,4,1,1,"municipality in Limburg, Belgium",,Q493522,,Pelt (municipality)
+Pelt,Pelt,Q55215635,4,1,1,family name,,Q101352,,
+Pelt,Pelt,Q102992345,4,1,1,short short by Carol Emshwiller first published in 1958,,Q7725634,,
+Pelt,Peltigera,Q2716168,4,1,1,genus of lichenized fungus,,Q16521,,Peltigera
+Pelt,Pelteobagrus fulvidraco,Q106432474,4,1,1,species of fish,,Q16521|Q1040689,,
+Pelt,Peltoschema,Q21403012,4,1,1,genus of leaf beetles,,Q16521,,Peltoschema
+Pelt,Peltidium,Q6564427,4,1,1,genus of copepods,,Q16521,,
+Pelt,Peltigera canina,Q3374554,4,1,1,species of fungus,,Q16521,,Peltigera canina
+Pelt,Peltula,Q7161784,4,1,1,genus of fungi,,Q16521,,Peltula
+Pelt,Peltogyne,Q687351,4,1,1,genus of plants,,Q16521,,Peltogyne
+Pelt,De Kleine Molen,Q2984515,4,1,2,"windmill in Haarlem, Netherlands",De Hommel|Molen De Hommel|Kleine Molen,Q38720|Q301449,,
+Pelt,Kleine of Lage Molen,Q1855262,4,1,2,"windmill in Nieuw-Lekkerland, part of windmills at Kinderdijk, Netherlands",Kleine Molen|Lage Molen,Q38720|Q301449,,
+Pelt,Kleine Molen,Q20826682,4,1,2,"watermill in Schalbroek, Belgium",,Q185187,,
+Pelt,Kleine Molen,Q2856070,4,1,2,"watermill in Overpelt, Belgium",,Q185187,,
+Pelt,Kleine Molen,Q19303441,4,1,2,"street in Bleiswijk, the Netherlands",,Q79007,,
+Pelt,Kleine Molenbeek,Q2250498,4,1,2,,,Q63565252,,
+Pelt,Kleine Molenstraat,Q19303446,4,1,2,"street in Groningen, the Netherlands",,Q79007,,
+Pelt,Kleine Molenstraat,Q19303447,4,1,2,"street in Sint-Michielsgestel, the Netherlands",,Q79007,,
+Pelt,Kleine Molenstraat,Q19303444,4,1,2,"street in Elst, the Netherlands",,Q79007,,
+Pelt,Kleine Molenhof,Q19303442,4,1,2,"street in Elst, the Netherlands",,Q79007,,
+Hoogmolen,Hoogmolen,Q2700741,5,0,1,"watermill in Ellikom, Belgium",,Q185187,,
+Hoogmolen,Hoogmolen (Venlo),Q2286527,5,0,1,"watermill in Venlo, Netherlands","Laaghuismolen|Hoogmolen, Venlo",Q185187,,
+Hoogmolen,Hoogmolen,Q100699595,5,0,1,"windmill in Aalbeke, Belgium",Hoogmolen (Aalbeke),Q38720|Q301449,,
+Hoogmolen,Hoogmolen bridge,Q2665574,5,0,1,"bridge in Schoten, crossing the Albert canal",,Q12280,,
+Hoogmolen,Hoogmolenbeek,Q126091136,5,0,1,"former stream in Venlo, Netherlands",,Q47521,,
+Hoogmolen,Hoogmolenweg,Q19257492,5,0,1,"street in Venlo, the Netherlands",,Q79007,,
+Hoogmolen,Hoogmolenveld,Q19257486,5,0,1,"street in Herpen, the Netherlands",,Q79007,,
+Hoogmolen,Hoogmolen,Q2206444,5,0,1,Wikimedia disambiguation page,,Q4167410,,
+Oudsbergen,Oudsbergen,Q41795471,5,1,1,"municipality in Limburg, Belgium",,Q493522,,Oudsbergen
+Berenschot,Berenschot,Q2570459,6,0,1,"watermill in Woold, Netherlands",,Q185187,,
+Berenschot,Berenschot,Q65947559,6,0,1,family name,,Q101352,,
+Berenschot,Berenschot,Q2091912,6,0,1,,,Q167037,,
+Berenschot,Berenschotweg,Q18946974,6,0,1,"street in Ruurlo, the Netherlands",,Q79007,,
+Berenschot,Berenschot,Q2031004,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Winterswijk,Winterswijk,Q72974,6,1,1,"municipality in Gelderland, the Netherlands",,Q2039348,,Winterswijk
+Winterswijk,Winterswijk,Q15910469,6,1,1,"village in Winterswijk, Netherlands",,Q532|Q1852859,,
+Winterswijk,Winterswijk railway station,Q173829,6,1,1,railway station in the Netherlands,,Q55488,,Winterswijk railway station
+Winterswijk,Winterswijk–Zevenaar railway,Q2673790,6,1,1,railway line in Netherlands,Zevenaar–Winterswijk railway,Q728937,,Winterswijk–Zevenaar railway
+Winterswijk,Zutphen–Winterswijk railway,Q20220294,6,1,1,railway line in Netherlands,Winterswijk–Zutphen railway,Q728937,,
+Winterswijk,Winterswijk GOLS railway station,Q2703889,6,1,1,museum in the former train station in the Netherlands,,Q4663385|Q33506,,
+Winterswijk,Winterswijk West railway station,Q2107527,6,1,1,railway station in the Netherlands,,Q55488,,Winterswijk West railway station
+Winterswijk,Winterswijk municipal council,Q106221250,6,1,1,,,Q17014622,,
+Winterswijk,Winterswijk - Neede railway,Q14378260,6,1,1,former railway in the Netherlands,Neede - Winterswijk railway,Q728937,,
+Winterswijk,Winterswijk - Borken railway line,Q2182194,6,1,1,"former railway line between the Netherlands and Germany, now a nature reserve",,Q728937|Q23790,,
+Winterswijk,Berenschot,Q2570459,6,1,2,"watermill in Woold, Netherlands",,Q185187,,
+Winterswijk,Berenschot,Q65947559,6,1,2,family name,,Q101352,,
+Winterswijk,Berenschot,Q2091912,6,1,2,,,Q167037,,
+Winterswijk,Berenschotweg,Q18946974,6,1,2,"street in Ruurlo, the Netherlands",,Q79007,,
+Winterswijk,Berenschot,Q2031004,6,1,2,Wikimedia disambiguation page,,Q4167410,,
+Noordmolen,Noordmolen,Q2584423,7,0,1,"watermill in Ambt Delden (Hof van Twente), The Netherlands","Noordmolen, Hof van Twente",Q185187,,
+Noordmolen,Noordmolen,Q2673398,7,0,1,"windmill in Enschede, Netherlands",,Q38720,,
+Noordmolen,Noordmolen,Q19377723,7,0,1,"street in Delden, the Netherlands",,Q79007,,
+Noordmolen,Blommersdijksemolen,Q140586636,7,0,1,"former windmill in Rotterdam, the Netherlands",Noordmolen,Q38720,,
+Noordmolen,Noordmolenwerf,Q19377731,7,0,1,"street in Rotterdam, the Netherlands",,Q79007,,
+Noordmolen,Noordmolenstraat,Q19377725,7,0,1,"street in Rotterdam, the Netherlands","Noordmolenstraat, Rotterdam",Q79007,,
+Noordmolen,Delftseveerbrug,Q105962391,7,0,1,bridge in Rotterdam,Noordmolenwerfbrug,Q12280|Q23383|Q1068842,,
+Noordmolen,Noordmolenstraat,Q19377726,7,0,1,"street in Schiedam, the Netherlands",,Q79007,,
+Noordmolen,Noordmolendwarsstraat,Q19377724,7,0,1,"street in Rotterdam, the Netherlands","Noordmolendwarsstraat, Rotterdam",Q79007,,
+Noordmolen,Noordmolen,Q2447357,7,0,1,Wikimedia disambiguation page,,Q4167410,,
+Noordmolen,Hof van Twente,Q9996,7,0,2,municipality in the Netherlands,,Q2039348,,Hof van Twente
+Noordmolen,Hof van Twente municipal council,Q106215872,7,0,2,,,Q17014622,,
+Noordmolen,flag of Hof van Twente,Q65718193,7,0,2,"flag of municipality in Overijssel, the Netherlands",Hof van Twente flag,Q21850100,,
+Noordmolen,coat of arms of Hof van Twente,Q2152425,7,0,2,"coat of arms of municipality in Overijssel, the Netherlands",Hof van Twente coat of arms,Q28147344,,
+Noordmolen,Hof van Twente Public Library Foundation,Q59962060,7,0,2,"public library organization in the municipality of Hof van Twente, The Netherlands",,Q28564|Q26271642|Q163740,,
+Hof van Twente,Hof van Twente,Q9996,7,1,1,municipality in the Netherlands,,Q2039348,,Hof van Twente
+Hof van Twente,Hof van Twente municipal council,Q106215872,7,1,1,,,Q17014622,,
+Hof van Twente,flag of Hof van Twente,Q65718193,7,1,1,"flag of municipality in Overijssel, the Netherlands",Hof van Twente flag,Q21850100,,
+Hof van Twente,coat of arms of Hof van Twente,Q2152425,7,1,1,"coat of arms of municipality in Overijssel, the Netherlands",Hof van Twente coat of arms,Q28147344,,
+Hof van Twente,Hof van Twente Public Library Foundation,Q59962060,7,1,1,"public library organization in the municipality of Hof van Twente, The Netherlands",,Q28564|Q26271642|Q163740,,
+Hof van Twente,Noordmolen,Q2584423,7,1,2,"watermill in Ambt Delden (Hof van Twente), The Netherlands","Noordmolen, Hof van Twente",Q185187,,
+Hof van Twente,Noordmolen,Q2673398,7,1,2,"windmill in Enschede, Netherlands",,Q38720,,
+Hof van Twente,Noordmolen,Q19377723,7,1,2,"street in Delden, the Netherlands",,Q79007,,
+Hof van Twente,Blommersdijksemolen,Q140586636,7,1,2,"former windmill in Rotterdam, the Netherlands",Noordmolen,Q38720,,
+Hof van Twente,Noordmolenwerf,Q19377731,7,1,2,"street in Rotterdam, the Netherlands",,Q79007,,
+Hof van Twente,Noordmolenstraat,Q19377725,7,1,2,"street in Rotterdam, the Netherlands","Noordmolenstraat, Rotterdam",Q79007,,
+Hof van Twente,Delftseveerbrug,Q105962391,7,1,2,bridge in Rotterdam,Noordmolenwerfbrug,Q12280|Q23383|Q1068842,,
+Hof van Twente,Noordmolenstraat,Q19377726,7,1,2,"street in Schiedam, the Netherlands",,Q79007,,
+Hof van Twente,Noordmolendwarsstraat,Q19377724,7,1,2,"street in Rotterdam, the Netherlands","Noordmolendwarsstraat, Rotterdam",Q79007,,
+Hof van Twente,Noordmolen,Q2447357,7,1,2,Wikimedia disambiguation page,,Q4167410,,
+Lo Molinot,Lo Molinot,Q17617928,8,0,1,"masia in Conca de Dalt (Pallars Jussà, Catalonia)",,Q185187,,
+Lo Molinot,Lo Molinot,Q20901266,8,0,1,building in Spain,,Q185187,,
+Lo Molinot,Lo Molinot,Q107424033,8,0,1,"building in Vilanova de Segrià, Spain",,Q185187,,
+Lo Molinot,Borda de l'Aparici,Q11909742,8,0,1,"masia in Conca de Dalt (Pallars Jussà, Catalonia)",,Q2910662,,
+Lo Molinot,Conca de Dalt,Q18259,8,0,2,"municipality in Catalonia, Spain",,Q33146843,,Conca de Dalt
+Lo Molinot,Conca de Dalt,Q11915142,8,0,2,,,Q618123,,
+Lo Molinot,Conca de Dalt results in 2017 Catalan parliamentary election,Q105482255,8,0,2,Municipal electoral results,,Q19571328,,
+Lo Molinot,Conca de Dalt results in 2021 Catalan parliamentary election,Q105516214,8,0,2,Municipal electoral results,,Q19571328,,
+Lo Molinot,Conca de Dalt city council,Q126483066,8,0,2,,,Q22996476,,
+Lo Molinot,Conca de Dalt town hall,Q126827096,8,0,2,"municipal building in Conca de Dalt, Spain",,Q112793351,,
+Lo Molinot,Molinot,Q16307,8,0,2,"commune in Côte-d'Or, France",,Q484170,,Molinot
+Lo Molinot,Torre dels Moros,Q43122218,8,0,2,"cultural property in Vallirana, Spain",Molinots de la Llibra,Q185187,,
+Lo Molinot,Molinot de Ferran,Q96654416,8,0,2,"building in Passanant i Belltall, Spain",,Q185187,,
+Lo Molinot,Molinot de Civit,Q65205781,8,0,2,,,Q185187,,
+Lo Molinot,Molinot de Palou,Q131566397,8,0,2,masia in Granollers (Catalonia),,Q585956,,
+Lo Molinot,Molinot de Puigdot,Q106940260,8,0,2,masia in Viladrau (Catalonia),,Q185187,,
+Lo Molinot,dalton,Q483261,8,0,2,unit of mass defined as ¹⁄₁₂ of the mass of a carbon-12 atom,unified atomic mass unit|Da|amu|atomic mass unit|u,Q3647172|Q106839753|Q3268848,,Dalton (unit)
+Lo Molinot,Dalton Transactions,Q282900,8,0,2,chemistry journal,"Journal of the Chemical Society, Dalton Transactions",Q5633421|Q5953270,,Dalton Transactions
+Lo Molinot,Dalton,Q1618104,8,0,2,family name,Dalton (family name)|Thomas Dalton 1875-1959|alice Dalton dasiy bell 1877-1970|cal Dalton James stalling 1901-1974|Joshua Dalton 1907-1999|ace derwer temmie Dalton 1916-1998|szidonaw Dalton 1935-presta|ceadmee Dalton 1942-presta|albert amrirwin Dalton 1966-presta|albert jr. 1998-presta|rowan Dalton in pocoyo 2013-presta|dicilon Dalton 2015-presta,Q101352,,Dalton (surname)
+Lo Molinot,Dalton Trumbo,Q350666,8,0,2,American screenwriter (1905–1976),James Dalton Trumbo|Robert Rich,Q5,,Dalton Trumbo
+Lo Molinot,Dalton,Q13634227,8,0,2,male given name,,Q12308941,,Dalton (given name)
+Lo Molinot,Dalton Town with Newton,Q2392589,8,0,2,"civil parish in Barrow-in-Furness, Cumbria, England","Dalton Town with Newton (civil parish), Cumbria|Dalton Town with Newton, Cumbria",Q1115575,,Dalton Town with Newton
+Lo Molinot,Daltonia,Q17282715,8,0,2,genus of plants,,Q16521,,
+Lo Molinot,Dalton,Q2318577,8,0,2,"town in Berkshire County, Massachusetts, United States","Dalton, Massachusetts|Dalton, MA",Q15127012,,"Dalton, Massachusetts"
+Lo Molinot,Dalton transactions RSC,Q29043668,8,0,2,journal,Journal of the Chemical Society. Dalton transactions,Q5633421,,
+Lo Molinot,Dalton McGuinty,Q568204,8,0,2,Canadian politician,,Q5,,Dalton McGuinty
+Conca de Dalt,Conca de Dalt,Q18259,8,1,1,"municipality in Catalonia, Spain",,Q33146843,,Conca de Dalt
+Conca de Dalt,Conca de Dalt,Q11915142,8,1,1,,,Q618123,,
+Conca de Dalt,Conca de Dalt results in 2017 Catalan parliamentary election,Q105482255,8,1,1,Municipal electoral results,,Q19571328,,
+Conca de Dalt,Conca de Dalt results in 2021 Catalan parliamentary election,Q105516214,8,1,1,Municipal electoral results,,Q19571328,,
+Conca de Dalt,Conca de Dalt city council,Q126483066,8,1,1,,,Q22996476,,
+Conca de Dalt,Conca de Dalt town hall,Q126827096,8,1,1,"municipal building in Conca de Dalt, Spain",,Q112793351,,
+Volmolen,Volmolen,Q17613257,9,0,1,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Volmolen,Volmolen,Q19637843,9,0,1,"street in Delft, the Netherlands","Volmolen, Delft",Q79007,,
+Volmolen,Volmolen,Q1838713,9,0,1,"watermill in Waalre, Netherlands",,Q185187,,
+Volmolen,Volmolen,Q108853993,9,0,1,,,Q493694,,
+Volmolen,Volmolen,Q14516295,9,0,1,"watermill in Opoeteren, Belgium",Beelenmolen,Q185187,,
+Volmolen,Volmolen,Q19637846,9,0,1,"street in Maastricht, the Netherlands",,Q79007,,
+Volmolen,Volmolen,Q21045580,9,0,1,"watermill in Leuven, Belgium",,Q185187|Q2323517,,
+Volmolen,Volmolen,Q2167345,9,0,1,"watermill in Neerpelt, Belgium",,Q185187,,
+Volmolen,Volmolen,Q15883546,9,0,1,"watermill in Hoeselt, Belgium",,Q185187,,
+Volmolen,"Volmolen, Epen",Q1899804,9,0,1,"watermill in Plaat near Epen, Netherlands",,Q185187,,
+Amersfoort,Amersfoort,Q992,9,1,1,"municipality in the province of Utrecht, the Netherlands",,Q2039348,,Amersfoort
+Amersfoort,Amersfoort,Q33421377,9,1,1,"city in the municipality Amersfoort in the province of Utrecht, the Netherlands",,Q515|Q13539802|Q1852859,,
+Amersfoort,Kamp Amersfoort,Q119517,9,1,1,Nazi police and transit camp in the Netherlands,Durchgangslager Amersfoort|Amersfoort concentration camp,Q328468,,Kamp Amersfoort
+Amersfoort,Amersfoort,Q2553018,9,1,1,"place in Mpumalanga, South Africa",,Q3957,,"Amersfoort, Mpumalanga"
+Amersfoort,Amersfoort Central railway station,Q49854,9,1,1,railway station in the Dutch city of Amersfoort,Amersfoort railway station,Q55488,,Amersfoort Centraal railway station
+Amersfoort,Amersfoortsestraat,Q18934324,9,1,1,"street in Amersfoort, the Netherlands",,Q79007,,
+Amersfoort,Amersfoort,Q31870781,9,1,1,"airport in Mpumalanga, South Africa",,Q3631092,,
+Amersfoort,Amersfoort,Q103889982,9,1,1,encyclopedia article,,Q13433827,,
+Amersfoort,electoral district Amersfoort,Q134542820,9,1,1,electoral district in the Netherlands (1848-1918),,Q130377399,,
+Amersfoort,Kesteren - Amersfoort railway,Q2419552,9,1,1,former railway line in the Netherlands,Amersfoort - Kesteren railway,Q728937,,
+Amersfoort,Volmolen,Q17613257,9,1,2,"watermill in Amersfoort, Netherlands","Volmolen, Amersfoort",Q185187,,
+Can Menna,Can Menna,Q28711251,10,0,1,"building in Girona Province, Spain",,Q185187,,
+Can Menna,Can Menna,Q107127645,10,0,1,"masia in Canet d'Adri, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Can Menna,Can Menna,Q139675954,10,0,1,house in Lliçà de Vall (Catalonia),,Q3947,,
+Can Menna,Canet d'Adri,Q13422,10,0,2,"village in the province of Girona and autonomous community of Catalonia, Spain",,Q33146843,,Canet d'Adri
+Can Menna,Canet d'Adri,Q126453412,10,0,2,"innhabited place in Canet de Adri, Spain",,Q3055118|Q130261443|Q121289819,,
+Can Menna,Canet d'Adri results in 2017 Catalan parliamentary election,Q105482030,10,0,2,Municipal electoral results,,Q19571328,,
+Can Menna,Canet d'Adri results in 2021 Catalan parliamentary election,Q105515248,10,0,2,Municipal electoral results,,Q19571328,,
+Can Menna,flag of Canet d'Adri,Q11907847,10,0,2,,Canet d'Adri flag,Q21850100,,
+Can Menna,Canet d'Adri city council,Q126482851,10,0,2,,,Q22996476,,
+Canet d'Adri,Canet d'Adri,Q13422,10,1,1,"village in the province of Girona and autonomous community of Catalonia, Spain",,Q33146843,,Canet d'Adri
+Canet d'Adri,Canet d'Adri,Q126453412,10,1,1,"innhabited place in Canet de Adri, Spain",,Q3055118|Q130261443|Q121289819,,
+Canet d'Adri,Canet d'Adri results in 2017 Catalan parliamentary election,Q105482030,10,1,1,Municipal electoral results,,Q19571328,,
+Canet d'Adri,Canet d'Adri results in 2021 Catalan parliamentary election,Q105515248,10,1,1,Municipal electoral results,,Q19571328,,
+Canet d'Adri,flag of Canet d'Adri,Q11907847,10,1,1,,Canet d'Adri flag,Q21850100,,
+Canet d'Adri,Canet d'Adri city council,Q126482851,10,1,1,,,Q22996476,,
+Canet d'Adri,Can Menna,Q28711251,10,1,2,"building in Girona Province, Spain",,Q185187,,
+Canet d'Adri,Can Menna,Q107127645,10,1,2,"masia in Canet d'Adri, Gironès, Girona, Catalonia, Spain",,Q585956,,
+Canet d'Adri,Can Menna,Q139675954,10,1,2,house in Lliçà de Vall (Catalonia),,Q3947,,
+Borchmolen,Borchmolen,Q2427775,11,0,1,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Borchmolen,Borchmolen,Q13442059,11,0,1,"watermill in Kessenich, Belgium",,Q185187,,
+Borchmolen,Borchmolen,Q18962515,11,0,1,"street in Eindhoven, the Netherlands",,Q79007,,
+Borchmolen,Borchmolendijk,Q18962516,11,0,1,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Borchmolen,Borchmolen,Q2141689,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Borchmolen,Meierijstad,Q18655255,11,0,2,municipality in the Netherlands,,Q2039348,,Meierijstad
+Borchmolen,Meierijstad municipal council,Q106217274,11,0,2,,,Q17014622,,
+Borchmolen,coat of arms of Meierijstad,Q30241548,11,0,2,"coat of arms of municipality in North Brabant, the Netherlands",Meierijstad coat of arms,Q28147344,,
+Borchmolen,flag of Meierijstad,Q63884000,11,0,2,"flag of municipality in North Brabant, the Netherlands",Meierijstad flag,Q21850100,,
+Borchmolen,Meierijstad Helpt,Q137270986,11,0,2,nonprofit organisation from the Netherlands,,Q163740,,
+Borchmolen,windmill,Q38720,11,0,2,machine that converts the energy of wind into rotational energy by means of adjustable sails,wind mill|windmills,,Q44494|Q2111778|Q56822897|Q2221906|Q35825432|Q811979,Windmill
+Borchmolen,Windmill,Q8024279,11,0,2,Japanese video game developing company,Windmill Oasis|ARES,Q210167,,
+Borchmolen,Windmill,Q6167950,11,0,2,place in New Mexico,,Q498162,,"Windmill, New Mexico"
+Borchmolen,windmill,Q1954962,11,0,2,breakdance move,,Q108137596,,Windmill (breakdancing move)
+Borchmolen,Windmill,Q8024280,11,0,2,Helloween song,,Q105543609,,Windmill (song)
+Borchmolen,Windmill,Q18668417,11,0,2,painting by Piet Mondrian,,Q3305213,,
+Borchmolen,windmill,Q244568,11,0,2,"chess tactic in which a combination of discovered checks and regular checks, usually by a rook and a bishop, often forcing the opposing king to move back and forth between two squares, can win massive amounts of material",see-saw,,Q1055911,Windmill (chess)
+Borchmolen,Windmill,Q20506236,11,0,2,painting by Unidentified,,Q3305213,,
+Borchmolen,Windmill,Q27533742,11,0,2,painting by Karl Schmidt-Rottluff,Marsh Landscape With Red Windmill,Q3305213,,
+Borchmolen,Windmill,Q22041308,11,0,2,drawing van James Ensor,,Q93184,,
+Meierijstad,Meierijstad,Q18655255,11,1,1,municipality in the Netherlands,,Q2039348,,Meierijstad
+Meierijstad,Meierijstad municipal council,Q106217274,11,1,1,,,Q17014622,,
+Meierijstad,coat of arms of Meierijstad,Q30241548,11,1,1,"coat of arms of municipality in North Brabant, the Netherlands",Meierijstad coat of arms,Q28147344,,
+Meierijstad,flag of Meierijstad,Q63884000,11,1,1,"flag of municipality in North Brabant, the Netherlands",Meierijstad flag,Q21850100,,
+Meierijstad,Meierijstad Helpt,Q137270986,11,1,1,nonprofit organisation from the Netherlands,,Q163740,,
+Meierijstad,Borchmolen,Q2427775,11,1,2,"watermill in Sint-Oedenrode, Netherlands",,Q185187,,
+Meierijstad,Borchmolen,Q13442059,11,1,2,"watermill in Kessenich, Belgium",,Q185187,,
+Meierijstad,Borchmolen,Q18962515,11,1,2,"street in Eindhoven, the Netherlands",,Q79007,,
+Meierijstad,Borchmolendijk,Q18962516,11,1,2,"street in Sint-Oedenrode, the Netherlands",,Q79007,,
+Meierijstad,Borchmolen,Q2141689,11,1,2,Wikimedia disambiguation page,,Q4167410,,

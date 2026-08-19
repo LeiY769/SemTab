@@ -1,0 +1,69 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bilharz,Bilharz,Q37570500,0,0,1,family name,,Q101352,,
+Bilharz,schistosomiasis,Q221159,0,0,1,human disease,bilharzia|snail fever|schistosome infection|schistosoma infection|bilharziasis|Katayama fever,Q112193867,Q3030745|Q578994|Q929451|Q1601794,Schistosomiasis
+Bilharz,Bilharz,Q861776,0,0,1,lunar crater,,Q1348589,,Bilharz (crater)
+Bilharz,Bilharziella polonica,Q5016843,0,0,1,species of worm,,Q16521,,
+Bilharz,Bilharziella,Q18520303,0,0,1,genus of worms,,Q16521,,
+Bilharz,Bilharz,Q106874307,0,0,1,NASA Lunar topographic orthophotomap,LTO 80A3,Q4006,,
+Bilharz,Bilharz,Q23856346,0,0,1,article in Otto's encyclopedia,,Q13433827,,
+Bilharz,Bilharziellinae,Q119137832,0,0,1,,,Q16521,,
+Bilharz,Bilharzial cor pulmonale,Q28058359,0,0,1,medical condition,,Q112193867,Q1131786|Q221159,Bilharzial cor pulmonale
+Bilharz,"Bilharz, Theodor",Q27563025,0,0,1,entry in the Allgemeine Deutsche Biographie,"Bilharz, Theodor (ADB)",Q19389637,,
+Bilharz,Schistosoma,Q1457418,0,0,2,genus of worms,,Q16521,,Schistosoma
+Bilharz,Bilharzia haematobia,Q23856347,0,0,2,article in Otto's encyclopedia,,Q13433827,,
+Bilharz,BILHARZIAL HEART DISEASE IN EGYPT: COR PULMONALE DUE TO BILHARZIAL PULMONARY ENDARTERITIS.,Q41298148,0,0,2,scientific article,,Q13442814,,
+Bilharz,Bilharzia,Q70767978,0,0,2,scientific article published on 01 February 1967,,Q13442814,,
+Bilharz,Bilharzia,Q70778413,0,0,2,scientific article published on 01 December 1967,,Q13442814,,
+Bilharz,Bilharziasis and bladder cancer: a time trend analysis of 9843 patients.,Q39030048,0,0,2,scientific article published on June 2007,,Q13442814,,
+Bilharz,Bilharziasis of the genitourinary tract,Q34551300,0,0,2,scientific article,,Q13442814,,
+Bilharz,"Bilharzia in the Philippines: past, present, and future.",Q38161217,0,0,2,scientific article published on 26 October 2013,,Q13442814,,
+Bilharz,schistosomiasis mansoni,Q66057173,0,0,2,schistosomiasis caused by Schistosoma mansoni,schistosoma mansoni infection,,Q221159,
+Bilharz,urinary schistosomiasis,Q18554637,0,0,2,"schistosomiasis that involves parasitic infection of the urinary tract caused by a digenetic trematode Schistosoma haematobium causing cystitis, ureteritis, fibrosis of the bladder and haematuria, which can progress to bladder cancer",Schistosoma Hematobium Infection|Schistosoma haematobium (& vesical schistosomiasis)|Schistosoma hematobium infection (disorder)|Schistosoma hematobium infectious disease|Schistosomiasis due to schistosoma haematobium|Schistosomiasis of bladder [Ambiguous]|Vesical schistosomiasis NOS|bladder Schistosomiasis|cystitis with bilharziasis (disorder)|urinary schistosomiasis (disorder)|Schistosomiasis of bladder|Vesical schistosomiasis|Schistosoma haematobium infection|Schistosoma haematobium|cystitis with bilharziasis|urinary bladder schistosomiasis|Schistosomiasis haematobia,Q112193867,Q221159|Q6066379|Q18123741,
+Bilharz,Schistosomiasis,Q28215200,0,0,2,scientific article (publication date: 18 April 2002),,Q13442814,,
+Bilharz,Schistosomiasis vaccine,Q2903025,0,0,2,vaccine against Schistosomiasis,,Q105967696,Q134808,Schistosomiasis vaccine
+Bilharz,Unlimit Health,Q7431536,0,0,2,non-profit initiative against parasitic worm infections,SCI Foundation|SCI|Schistosomiasis Control Initiative,Q163740,,Unlimit Health
+Bilharz,Schistosomiasis Drug Discovery in the Era of Automation and Artificial Intelligence,Q112563710,0,0,2,publication published on 31 May 2021,,Q732577,,
+Bilharz,Schistosomiasis,Q56639209,0,0,2,,,Q13442814,,
+Bilharz,Schistosomiasis,Q79806845,0,0,2,scientific article published on 01 January 2004,,Q13442814,,
+Bilharz,Schistosomiasis skin symptoms,Q7431534,0,0,2,,,,,Schistosomiasis (skin symptoms)
+Bilharz,Schistosoma mansoni,Q2324689,0,0,2,species of worm,,Q16521,,Schistosoma mansoni
+Bilharz,Schistosoma japonicum,Q1256989,0,0,2,species of worm,,Q16521,,Schistosoma japonicum
+Bilharz,Schistosoma haematobium,Q134582,0,0,2,species of worm,,Q16521,,Schistosoma haematobium
+Bilharz,Schistosoma mansoni reference genome,Q61484574,0,0,2,,,,Q7307127,
+Bilharz,Schistosomatidae,Q2095142,0,0,2,family of worms,avian schistosome|bird schistosome,Q16521|Q140427225,Q12040649,Schistosomatidae
+Bilharz,Schistosoma bovis,Q28431216,0,0,2,species of worm,,Q16521,,Schistosoma bovis
+Bilharz,Schistosoma intercalatum,Q1409072,0,0,2,species of worm,,Q16521,,Schistosoma intercalatum
+Bilharz,Schistosoma mekongi,Q2304365,0,0,2,species of worm,,Q16521,,Schistosoma mekongi
+Bilharz,"Schistosomum japonicum,ein neuer menschlicher Parasit,durch welchen eine endemische Krankheit in verschiedenen Gegenden Japans verursacht wird.",Q107397893,0,0,2,scientific article,,Q13442814,,
+Hipparchus,Hipparchus,Q159905,1,0,1,"2nd century Greek astronomer, geographer and mathematician",Hipparchus of Nicaea|Hipparchus of Rhodes,Q5,,Hipparchus
+Hipparchus,Hipparchus,Q435531,1,0,1,tyrant of Athens from c. 528 BC to 514 BC,,Q5,,Hipparchus (brother of Hippias)
+Hipparchus,hipparchus,Q1971328,1,0,1,cavalry officer in ancient Greece,,,Q189290,Hipparchus (cavalry officer)
+Hipparchus,4000 Hipparchus,Q598925,1,0,1,asteroid,(4000) Hipparchus|Hipparchus,Q3863,,4000 Hipparchus
+Hipparchus,Hipparchus,Q1337561,1,0,1,lunar impact crater,,Q55818,,Hipparchus (lunar crater)
+Hipparchus,Hipparchus,Q1619950,1,0,1,dialogue attributed to Plato,Plat. Hipparch.,Q47461344|Q3026037,,Hipparchus (dialogue)
+Hipparchus,Hipparchus,Q1619936,1,0,1,Pythagorean philosopher,,Q5,,
+Hipparchus,Hipparchus,Q3801668,1,0,1,Classical Athens politician,,Q5,,
+Hipparchus,Hipparchus,Q11925670,1,0,1,Athenian poet of New Comedy,,Q5,,
+Hipparchus,Hipparchus,Q5898395,1,0,1,crater on Mars,,Q55818|Q1475691,,Hipparchus (Martian crater)
+Hipparchus,Hipparchus of Nicaea,Q103851365,1,0,2,encyclopedic article,,Q13433827,,
+Hipparchus,Hipparchus,Q159905,2,0,1,"2nd century Greek astronomer, geographer and mathematician",Hipparchus of Nicaea|Hipparchus of Rhodes,Q5,,Hipparchus
+Hipparchus,Hipparchus,Q435531,2,0,1,tyrant of Athens from c. 528 BC to 514 BC,,Q5,,Hipparchus (brother of Hippias)
+Hipparchus,hipparchus,Q1971328,2,0,1,cavalry officer in ancient Greece,,,Q189290,Hipparchus (cavalry officer)
+Hipparchus,4000 Hipparchus,Q598925,2,0,1,asteroid,(4000) Hipparchus|Hipparchus,Q3863,,4000 Hipparchus
+Hipparchus,Hipparchus,Q1337561,2,0,1,lunar impact crater,,Q55818,,Hipparchus (lunar crater)
+Hipparchus,Hipparchus,Q1619950,2,0,1,dialogue attributed to Plato,Plat. Hipparch.,Q47461344|Q3026037,,Hipparchus (dialogue)
+Hipparchus,Hipparchus,Q1619936,2,0,1,Pythagorean philosopher,,Q5,,
+Hipparchus,Hipparchus,Q3801668,2,0,1,Classical Athens politician,,Q5,,
+Hipparchus,Hipparchus,Q11925670,2,0,1,Athenian poet of New Comedy,,Q5,,
+Hipparchus,Hipparchus,Q5898395,2,0,1,crater on Mars,,Q55818|Q1475691,,Hipparchus (Martian crater)
+Hipparchus,astronomer,Q11063,2,0,2,scientist who studies celestial bodies,,Q28640,Q901,Astronomer
+Hipparchus,Astronomer's Telegram,Q18205341,2,0,2,internet-based publication service for astronomical observations,ATel,Q35127,,The Astronomer's Telegram
+Hipparchus,The Astronomer,Q27277655,2,0,2,"painting by Gerrit Dou, Museum De Lakenhal",Astronomer,Q3305213,,
+Hipparchus,Portrait of a scholar (Archimedes?),Q50323550,2,0,2,painting by Domenico Fetti,Astronomer,Q3305213,,
+Hipparchus,Astronomer,Q21722877,2,0,2,painting by Gerrit Dou,,Q3305213,,
+Hipparchus,Astronomer,Q61743774,2,0,2,painting by Dutch painter,,Q3305213,,
+Hipparchus,Astronomer,Q2399434,2,0,2,ancient alien appearing in the Marvel Comics universe,,Q1114461,,Astronomer (comics)
+Hipparchus,Astronomer,Q18339645,2,0,2,woodcut by Albrecht Dürer,,Q18219090,,
+Hipparchus,Astronomer Royal,Q369877,2,0,2,position in the Royal Households of the United Kingdom,,Q4164871,Q1162163|Q11063,Astronomer Royal
+Hipparchus,Astronomer,Q135418354,2,0,2,American data operations technology company,,Q4830453,,
+Hipparchus,Hipparchus of Nicaea,Q103851365,2,0,2,encyclopedic article,,Q13433827,,

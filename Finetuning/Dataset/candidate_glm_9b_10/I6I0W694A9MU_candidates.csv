@@ -1,0 +1,4 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+barium-129m,barium-129m,Q18881717,0,0,1,isotope of barium,Ba-129m|129mBa,Q846110|Q2555200,Q1112,
+barium-122,barium-122,Q18881704,1,0,1,isotope of barium,Ba-122|122Ba,Q2555200,Q1112,Barium-122
+barium-122,isotope of barium,Q2555200,1,0,2,,,,Q25276,Isotopes of barium

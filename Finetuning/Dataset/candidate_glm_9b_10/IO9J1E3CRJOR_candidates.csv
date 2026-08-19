@@ -1,0 +1,40 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Uppsala University,Uppsala University,Q185246,0,0,1,"research university in Uppsala, Sweden",Uppsala universitet|uu.se|University of Uppsala,Q3918|Q68295960,,Uppsala University
+Uppsala University,Uppsala University Hospital,Q430594,0,0,1,teaching hospital,Akademiska Sjukhuset|Ackis|Akademiska,Q1059324,,Uppsala University Hospital
+Uppsala University,Uppsala University Faculty of Medicine,Q7899174,0,0,1,Swedish medical school,,Q180958,,Uppsala University Faculty of Medicine
+Uppsala University,Uppsala University Library,Q2901382,0,0,1,"academic library at Uppsala University in Uppsala, Sweden",,Q7075,,Uppsala University Library
+Uppsala University,Uppsala University Coin Cabinet,Q1247075,0,0,1,museum,,Q1232974,,Uppsala University Coin Cabinet
+Uppsala University,Uppsala University Department of Archaeology,Q16442342,0,0,1,,,,,
+Uppsala University,Uppsala University Choir,Q7899173,0,0,1,student choir at Uppsala University,,Q215380,,Uppsala University Choir
+Uppsala University,Book of Hours of Johannete Ravenelle,Q60649976,0,0,1,illuminated manuscript book of hours,Johannete Ravenelle's Book of Hours|UU MS C 517e|Uppsala University MS C 517e,Q48498|Q727715,,
+Uppsala University,Uppsala university 500 years,Q59188182,0,0,1,,,Q3331189,,
+Uppsala University,"Uppsala University Library, e-books on demand",Q61754307,0,0,1,,,Q856234|Q300870,,
+Sun Yat-sen University,Sun Yat-sen University,Q178972,1,0,1,"university in Guangdong, China",Zhongshan University|SYSU|SYSBM,Q875538|Q98658352|Q16077796|Q38723,,Sun Yat-sen University
+Sun Yat-sen University,Sun Yat-sen University Cancer Center,Q32160242,1,0,1,hospital in China,SYSUCC,Q16917|Q4287745,,Sun Yat-sen University Cancer Center
+Sun Yat-sen University,Sun Yat-sen University of Medical Sciences,Q7638628,1,0,1,"university in Guangzhou, China",,Q494230,,"Zhongshan School of Medicine, Sun Yat-sen University"
+Sun Yat-sen University,Sun Yat-sen University No.5 Hospital,Q10875267,1,0,1,hospital in China,Fifth Affiliated Hospital of Sun Yat-sen University,Q16917|Q4287745,,
+Sun Yat-sen University,SO-Rb50,Q54955344,1,0,1,cell line,SO-RB50|SO-Rb 50|Sun Yat-sen university Ophtalmic center-Retinoblastoma 50,Q21014462|Q23058136,,
+Sun Yat-sen University,Sun Yat-sen University School of Life Science,Q101010064,1,0,1,academic department,,Q2467461,,
+Sun Yat-sen University,Sun Yat-sen University station,Q5975342,1,0,1,station of Line 8 of the Guangzhou Metro,Zhongda Station,Q928830|Q22808403,,Sun Yat-sen University station (Guangzhou Metro)
+Sun Yat-sen University,SO-Rb70,Q54955346,1,0,1,cell line,Sun Yat-sen university Ophtalmic center-Retinoblastoma 70,Q21014462|Q23058136,,
+Sun Yat-sen University,Sun Yat-sen University station,Q115039431,1,0,1,station of Shenzhen Metro,,Q928830|Q22808403,,Sun Yat-sen University station (Shenzhen Metro)
+Sun Yat-sen University,Sun Yat-sen University Library,Q109748381,1,0,1,academic library,,Q856234,,
+Sun Yat-sen University,Guangzhou University,Q5613747,1,0,2,"Guangzhou Municipal Comprehensive University in Guangdong Province, China",,Q3918,,Guangzhou University
+Sun Yat-sen University,Guangzhou University of Chinese Medicine,Q4251253,1,0,2,"public university in Canton, Kwangtung",Guangzhou Zhong yi yao da xue,Q3918,,Guangzhou University of Chinese Medicine
+Sun Yat-sen University,Guangdong Hospital of Traditional Chinese Medicine,Q11061744,1,0,2,hospital in China,"Guangdong Provincial Hospital of Traditional Chinese Medicine|Guangzhou University of Traditional Chinese Medicine, Second Affiliated Hospital|Guangzhou Hospital of Traditional Chinese Medicine|Guangdong Provincial Hospital",Q16917|Q4287745,,Guangdong Provincial Hospital of Chinese Medicine
+Sun Yat-sen University,Guangzhou Higher Education Mega Center Central Stadium,Q402019,1,0,2,"stadium in Panyu, Guangzhou",Guangzhou University Town Stadium,Q483110,,Guangzhou Higher Education Mega Center Stadium
+Sun Yat-sen University,Guangzhou University of Chinese Medicine - Shenzhen Hospital,Q17164176,1,0,2,hospital in China,,Q16917,,Shenzhen Hospital of Guangzhou University of Chinese Medicine
+Sun Yat-sen University,Guangzhou University of Software,Q11062059,1,0,2,"A private undergraduate higher education institution in Guangdong Province, China",South-China Institute of Software Engineering|Software Engineering Institute of Guangzhou,Q38723,,
+Sun Yat-sen University,Guangzhou University of Chinese Medicine station,Q119255336,1,0,2,"metro station in Guangzhou, China",Guangyuan Xincun station,Q928830|Q22808403,,Guangzhou University of Chinese Medicine station
+Sun Yat-sen University,Guangzhou University Library,Q123334274,1,0,2,,,Q856234,,
+Sun Yat-sen University,South China University of Technology,Q835366,1,0,2,"University in Guangdong, China",SCUT|Huánán Lǐgōng Dàxué,Q875538|Q15936437|Q98658352,,South China University of Technology
+Sun Yat-sen University,Wushan Campus of South China University of Technology,Q60995464,1,0,2,university in China,"North Campus|Wushan Campus, South China University of Technology|Wushan Campus|South China University of Technology Wushan Campus",Q3918,,
+Sun Yat-sen University,South China University of Technology University Town Campus,Q62006064,1,0,2,,"HEMC Campus|South Campus|University Town Campus|University Town Campus, South China University of Technology",Q209465,,
+Sun Yat-sen University,Guangzhou International Campus of South China University of Technology,Q70201183,1,0,2,,GZIC|Guangzhou International Campus of SCUT|South China University of Technology Guangzhou International Campus,Q209465,,
+Sun Yat-sen University,South China University of Technology School of Bioscience and Bioengineering,Q101010053,1,0,2,academic department,,Q2467461,,
+Sun Yat-sen University,South China University of Technology Library,Q97349059,1,0,2,,,Q856234,,
+Sun Yat-sen University,South China University of Technology Press,Q97348517,1,0,2,Chinese publisher,,Q2085381|Q97174998,,
+Sun Yat-sen University,South China University of Technology Law School,Q99298180,1,0,2,law school,,Q1321960,,
+Sun Yat-sen University,South China University of Technology School of Economics and Commerce,Q101010058,1,0,2,academic department,,Q2467461,,
+Sun Yat-sen University,South China University of Technology School of Architecture,Q101010051,1,0,2,academic department,,Q2467461,,
+Sun Yat-sen University,"Sun Yat-sen Memorial Hospital, Sun Yat-sen University",Q10875265,1,0,2,"hospital in Guangzhou, China",The Canton Hospital|Sun Yat-sen Memorial Hospital|Second Affiliated Hospital of Sun Yat-sen,Q16917|Q4287745,,Sun Yat-Sen Memorial Hospital

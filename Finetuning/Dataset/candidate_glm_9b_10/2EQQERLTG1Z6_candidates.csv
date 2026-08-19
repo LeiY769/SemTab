@@ -1,0 +1,115 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Zlatina,Zlatina Naydenova,Q111977461,0,0,1,,,Q5,,
+Zlatina,Chrysi,Q3405803,0,0,1,"village in Pella, Greece",Zlatina,Q532,,"Chrysi, Pella"
+Zlatina,Zlatina,Q4192370,0,0,1,"village in Provadia municipality, Varna oblast, Bulgaria",,Q15630849|Q4224624,,
+Zlatina,Zlatina Balabanova,Q102442800,0,0,1,Dr. rer. pol. Universität Konstanz 2013,,Q5,,
+Zlatina,Zlatina Jekova,Q104423411,0,0,1,blogger,,Q5,,
+Zlatina,Zlatina River,Q8072983,0,0,1,river in Romania,,Q4022,,Zlotina
+Zlatina,Zlatina,Q96153916,0,0,1,"pond in Milevsko, Czech Republic",,Q3253281,,
+Zlatina,Zlatina Todeva,Q12280526,0,0,1,Bulgarian actress,,Q5,,
+Zlatina,Zlatina Lavcheva,Q130823587,0,0,1,,,Q5,,
+Zlatina,Zlatina Kostadinova,Q124539182,0,0,1,Bulgarian sculptor,,Q5,,
+Struma,Struma,Q204127,1,0,1,river in Bulgaria and Greece,Strymon|Strymonas,Q4022,,Struma (river)
+Struma,Strumaria,Q147715,1,0,1,genus of plants,,Q16521,,Strumaria
+Struma,chronic thyroiditis,Q11094,1,0,1,autoimmune disease,chronic lymphocytic thyroiditis|Hashimoto's disease|Hashimoto's thyroiditis|Hashimoto disease|struma lymphomatosa|autoimmune thyroiditis,Q8084905,Q187842,Hashimoto's thyroiditis
+Struma,Struma,Q2462874,1,0,1,"village in Sandanski municipality, Blagoevgrad oblast, Bulgaria",,Q15630849|Q4224624,,Struma (village)
+Struma,struma ovarii,Q2357409,1,0,1,"rare form of monodermal teratoma that contains mostly thyroid tissue, which may cause hyperthyroidism",Struma ovarii (morphologic abnormality)|Struma ovarii NOS (morphologic abnormality)|Struma ovarii,Q112193867,Q18556678|Q18555142,Struma ovarii
+Struma,Strumariinae,Q10917709,1,0,1,subtribe of plants,,Q16521,,Strumariinae
+Struma,Strumaria tenella,Q15505379,1,0,1,species of plant,,Q16521,,Strumaria tenella
+Struma,Strumatophyma,Q2465077,1,0,1,genus of leaf beetles,,Q16521,,
+Struma,Strumaria gemmata,Q15505141,1,0,1,species of plant,,Q16521,,Strumaria gemmata
+Struma,Strumaria chaplinii,Q15505074,1,0,1,species of plant,,Q16521,,Strumaria chaplinii
+Struma,thyroid gland,Q16399,1,0,2,endocrine gland in the neck; secretes hormones that influence metabolism,thyroid,Q103812529|Q112826905,Q28846466|Q112826975,Thyroid
+Struma,thyroid cancer,Q826522,1,0,2,endocrine gland cancer located in the thryoid gland located in the neck below the thyroid cartilage,thyroid gland cancer|malignant tumour of t Елизаветаhyroid gland|malignant neoplasm of thyroid gland,Q112193867,Q18554878|Q13632630|Q6673122,Thyroid cancer
+Struma,papillary thyroid cancer,Q2292945,1,0,2,thyroid carcinoma that is characterized by the small mushroom shape of the tumor which has a stem attached to the epithelial layer,papillary thyroid carcinoma|Papillary carcinoma of the Thyroid gland|Thyroid Gland Papillary Carcinoma|Papillary Cancer of the Thyroid|Papillary Carcinoma of the Thyroid|Papillary Thyroid Cancer|Papillary Cancer of Thyroid Gland|Papillary Cancer of the Thyroid Gland|Papillary Carcinoma of Thyroid Gland|Thyroid Gland Papillary Cancer|Papillary Carcinoma of Thyroid|Thyroid Papillary Carcinoma|Papillary Thyroid Gland Carcinoma|Papillary Cancer of Thyroid,Q112193867,Q18556131|Q18555294|Q56013722,Papillary thyroid cancer
+Struma,thyroid carcinoma,Q18556131,1,0,2,thyroid cancer that has material basis in epithelial cells,"head and neck cancer, Thyroid|Thyroid carcinoma|Thyroid cancer, NOS|Cancer of Thyroid|carcinoma of thyroid gland|Carcinoma of the Thyroid Gland|Carcinoma of Thyroid|thyroid cancer|Thyroid Gland Carcinoma|Thyroid Gland Cancer|Cancer of the Thyroid|Carcinoma of the Thyroid",Q112193867,Q826522|Q33525,
+Struma,differentiated thyroid carcinoma,Q56013722,1,0,2,"Differentiated thyroid carcinoma (DTC), also known as papillary or follicular thyroid carcinoma, is a slow-growing malignancy usually presenting in adults as an asymptomatic thyroid mass",Well Differentiated Thyroid Carcinoma|Differentiated Thyroid Gland Cancer|Well-differentiated thyroid carcinoma|Well-Differentiated Thyroid Cancer|Differentiated Thyroid Gland Carcinoma|Thyroid Gland Differentiated Carcinoma|Thyroid Gland Well Differentiated Carcinoma|Differentiated Thyroid Carcinoma|Papillary or follicular thyroid carcinoma|Differentiated Thyroid Cancer|Well Differentiated Thyroid Gland Carcinoma|differentiated thyroid gland carcinoma,Q112193867,Q18556131|Q55790719,
+Struma,follicular thyroid cancer,Q5464665,1,0,2,thyroid carcinoma that has material basis in follicular cells,"follicular thyroid carcinoma|Follicular adenocarcinoma (morphologic abnormality)|Follicular adenocarcinoma, well differentiated (morphologic abnormality)|Follicular carcinoma|Follicular carcinoma of the Thyroid gland|Follicular thyroid carcinoma (disorder)|thyroid adenocarcinoma|thyroid gland follicular carcinoma|Follicular adenocarcinoma|Follicular adenocarcinoma, well differentiated|THYROID CANCER, NONMEDULLARY, 2; NMTC2|THYROID CANCER, NONMEDULLARY, 2|Thyroid Cancer, Nonmedullary, type 2|NMTC2|Adenocarcinoma, Follicular",Q112193867,Q18556131|Q356033,Follicular thyroid cancer
+Struma,anaplastic thyroid cancer,Q3658382,1,0,2,form of thyroid cancer,Undifferentiated thyroid carcinoma|Anaplastic Thyroid Gland Carcinoma|Undifferentiated Carcinoma of the Thyroid Gland|Anaplastic Carcinoma of the Thyroid Gland|Anaplastic Thyroid Cancer|Undifferentiated Thyroid Tumor|Anaplastic Thyroid Carcinoma|Sarcomatoid Thyroid Gland Carcinoma|thyroid gland undifferentiated carcinoma|Undifferentiated Carcinoma of Thyroid|Undifferentiated (Anaplastic) Thyroid Gland Carcinoma|Undifferentiated Carcinoma of Thyroid Gland|Undifferentiated Thyroid Gland Carcinoma|Thyroid Gland Undifferentiated (Anaplastic) Carcinoma|Metaplastic Thyroid Gland Carcinoma|Anaplastic Carcinoma of Thyroid|Dedifferentiated Thyroid Gland Carcinoma|Pleomorphic Thyroid Gland Carcinoma|Undifferentiated (Anaplastic) Thyroid Gland Cancer|Anaplastic Carcinoma of Thyroid Gland|Anaplastic Carcinoma of the Thyroid|Undifferentiated Carcinoma of the Thyroid|Thyroid Gland Carcinosarcoma|thyroid gland anaplastic carcinoma|anaplastic thyroid carcinoma,Q112193867,Q826522|Q18556381|Q3658394|Q18556131,Anaplastic thyroid cancer
+Struma,anaplastic thyroid carcinoma,Q19000862,1,0,2,Human disease,anaplastic thyroid carcinoma (disorder)|sarcomatoid thyroid carcinoma|thyroid gland undifferentiated (anaplastic) carcinoma|sarcomatoid Thyroid carcinoma|obsolete anaplastic thyroid carcinoma,Q112193867,Q3658382,
+Struma,thyroid adenoma,Q2465347,1,0,2,Human disease,adenoma of thyroid gland|thyroid gland adenoma,Q112193867,Q18553650|Q6673122|Q272741,Thyroid adenoma
+Struma,thyroid neoplasm,Q13632630,1,0,2,tumors or cancer of the thyroid gland,thyroid neoplasms|Thyroid Gland Neoplasm,Q112193867,Q6673122|Q3542030,Thyroid neoplasm
+Struma,malignant struma ovarii,Q18556679,1,0,2,Human disease,"Struma ovarii, malignant (morphologic abnormality)|Struma ovarii, malignant",Q112193867,Q2357409|Q18557219,
+Struma,benign struma ovarii,Q18556680,1,0,2,Human disease,"struma ovarii, benign",Q112193867,Q2357409|Q18553671,
+Struma,Struma ovarii,Q40618181,1,0,2,scientific article published on August 1993,,Q13442814,,
+Struma,STRUMA OVARII,Q76758673,1,0,2,scientific article published on 01 January 1964,,Q13442814,,
+Struma,Struma Ovarii,Q42960347,1,0,2,scientific article published on September 1933,,Q13442814,,
+Struma,Struma Ovarii with a focus of papillary thyroid cancer: a case report and review of the literature,Q35879267,1,0,2,scientific article published in September 2004,,Q13442814,,
+Struma,Struma ovarii,Q44493940,1,0,2,scientific article published in January 1977,,Q13442814,,
+Struma,Struma ovarii,Q76077952,1,0,2,scientific article published on 01 April 1952,,Q13442814,,
+Struma,Struma ovarii,Q71936914,1,0,2,scientific article published on 01 January 1967,,Q13442814,,
+Dren,Dren,Q3039334,2,0,1,"village in Demir Kapija Municipality, North Macedonia",,Q532,,"Dren, Demir Kapija"
+Dren,Dren,Q3039336,2,0,1,village in North Macedonia,,Q532,,"Dren, Prilep"
+Dren,Drenthe,Q772,2,0,1,province of the Netherlands,,Q134390,,Drenthe
+Dren,Drena De Niro,Q541821,2,0,1,American actress (born 1970),,Q5,,Drena De Niro
+Dren,Dren,Q1074204,2,0,1,"village in Radomir municipality, Pernik oblast, Bulgaria",,Q15630849|Q4224624,,
+Dren,Drenth,Q37489482,2,0,1,family name,,Q101352,,Drenth
+Dren,Drents Museum,Q1258370,2,0,1,history museum in the Netherlands,,Q33506,,Drents Museum
+Dren,Dren,Q2677659,2,0,1,unisex given name,,Q3409032,,Dren (name)
+Dren,Dren,Q3402693,2,0,1,mountain in North Macedonia,,Q8502,,Dren (mountain)
+Dren,Dren,Q2402430,2,0,1,"place in Lower Carniola, Slovenia",,Q486972,,"Dren, Kostel"
+Dren,Drenthe,Q64623434,2,0,2,family name,,Q101352,,
+Dren,Veiligheidsregio Drenthe,Q2224217,2,0,2,safety region in the Netherlands,Drenthe|VRD,Q2035651,,
+Dren,Drenthe,Q115087814,2,0,2,Dutch ship-of-the-line,,Q207452,,
+Dren,Drenthe,Q18056036,2,0,2,unincorporated community in Michigan,"Drenthe, MI",Q17343829,,
+Dren,Drenthe,Q136378365,2,0,2,constituency of the Senate of the Netherlands (1849–1923),,Q192611,,
+Dren,Drenthe Archive,Q1978308,2,0,2,repository of the historical records of the Dutch province of Drenthe,,Q1882512|Q100994575,,
+Dren,Drenthe College,Q2076808,2,0,2,"school in Drenthe, the Netherlands",,Q3914|Q2138204,,
+Dren,flag of Drenthe,Q2265085,2,0,2,flag of the Dutch province of Drenthe,Drenthe flag,Q22807280,,Flag of Drenthe
+Dren,2020 COVID-19 pandemic in Drenthe,Q89285878,2,0,2,viral outbreak in the province of Drenthe in the Netherlands,2020 coronavirus outbreak in Drenthe|2020 Drenthe COVID-19 pandemic|Drenthe COVID-19 pandemic|2020 COVID pandemic in Drenthe,Q3241045,,
+Botevo,Botevo,Q1075146,3,0,1,"village in Aksakovo municipality, Varna oblast, Bulgaria",,Q15630849,,"Botevo, Varna Province"
+Botevo,Botevo,Q1086201,3,0,1,"village in Tundzha municipality, Yambol oblast, Bulgaria",,Q15630849|Q4224624,,"Botevo, Yambol Province"
+Botevo,Botevo,Q1079685,3,0,1,"village in Hayredin municipality, Vratsa oblast, Bulgaria",,Q15630849,,
+Botevo,Botevova,Q24459718,3,0,1,street in Prague,,Q79007,,
+Botevo,Botevo,Q2455373,3,0,1,"village in Valchedram municipality, Montana oblast, Bulgaria",,Q15630849,,"Botevo, Montana Province"
+Botevo,Botevo,Q1078568,3,0,1,"village in Vidin municipality, Vidin oblast, Bulgaria",,Q15630849,,
+Botevo,Botevo,Q97325735,3,0,1,railway station in Bulgaria,,Q55488,,
+Botevo,Botev Peak,Q894703,3,0,1,peak in Bulgaria,,Q207326,,Botev Peak
+Botevo,Botevo,Q1170897,3,0,1,Wikimedia disambiguation page,,Q4167410,,Botevo
+Botevo,Botevova,Q24459708,3,0,1,"street in Bratislava Region, Slovakia",,Q79007,,
+Botevo,Botevgrad,Q405426,3,0,2,"city in Botevgrad municipality, Sofia oblast, Bulgaria",Orhanje|Samundzhievo,Q15303838|Q89487741,,Botevgrad
+Botevo,Botevgrad,Q1750337,3,0,2,"municipality in Sofia oblast, Bulgaria",Botevgrad|Botevgrad municipality,Q1906268,,Botevgrad Municipality
+Botevo,Botevgrad,Q123950875,3,0,2,street in Krasna Polyana dist. Sofia (Bulgaria),,Q79007,,
+Botevo,History Museum (Botevgrad),Q42252098,3,0,2,"museum in Botevgrad, Bulgaria",Botevgrad History Museum,Q16735822,,Botevgrad History Museum
+Botevo,Clock Tower of Botevgrad,Q667696,3,0,2,the tallest clock tower in Bulgaria,Botevgrad Clock tower,Q853854,,Botevgrad Clock Tower
+Botevo,Botevgrad dialect,Q4948584,3,0,2,dialect of Bulgarian,,Q8217193|Q33384,Q7918,Botevgrad dialect
+Botevo,Botevgrad Depression,Q12273829,3,0,2,depression in Bulgaria,,Q749565,,
+Botevo,Botevgrad spiritual district,Q20497016,3,0,2,,,Q125350820,,
+Botevo,Botevgradsko Shose blvd.,Q93448458,3,0,2,boulevard in Sofia (Bulgaria),,Q54114,,
+Botevo,Vidin - Montana motorway,Q16827967,3,0,2,planned motorway between Vidin and Montana in Bulgaria,,Q46622,,Vidin–Botevgrad expressway
+Botevo,Botevo,Q1075146,4,0,1,"village in Aksakovo municipality, Varna oblast, Bulgaria",,Q15630849,,"Botevo, Varna Province"
+Botevo,Botevo,Q1086201,4,0,1,"village in Tundzha municipality, Yambol oblast, Bulgaria",,Q15630849|Q4224624,,"Botevo, Yambol Province"
+Botevo,Botevo,Q1079685,4,0,1,"village in Hayredin municipality, Vratsa oblast, Bulgaria",,Q15630849,,
+Botevo,Botevova,Q24459718,4,0,1,street in Prague,,Q79007,,
+Botevo,Botevo,Q2455373,4,0,1,"village in Valchedram municipality, Montana oblast, Bulgaria",,Q15630849,,"Botevo, Montana Province"
+Botevo,Botevo,Q1078568,4,0,1,"village in Vidin municipality, Vidin oblast, Bulgaria",,Q15630849,,
+Botevo,Botevo,Q97325735,4,0,1,railway station in Bulgaria,,Q55488,,
+Botevo,Botev Peak,Q894703,4,0,1,peak in Bulgaria,,Q207326,,Botev Peak
+Botevo,Botevo,Q1170897,4,0,1,Wikimedia disambiguation page,,Q4167410,,Botevo
+Botevo,Botevova,Q24459708,4,0,1,"street in Bratislava Region, Slovakia",,Q79007,,
+Botevo,Botevgrad,Q405426,4,0,2,"city in Botevgrad municipality, Sofia oblast, Bulgaria",Orhanje|Samundzhievo,Q15303838|Q89487741,,Botevgrad
+Botevo,Botevgrad,Q1750337,4,0,2,"municipality in Sofia oblast, Bulgaria",Botevgrad|Botevgrad municipality,Q1906268,,Botevgrad Municipality
+Botevo,Botevgrad,Q123950875,4,0,2,street in Krasna Polyana dist. Sofia (Bulgaria),,Q79007,,
+Botevo,History Museum (Botevgrad),Q42252098,4,0,2,"museum in Botevgrad, Bulgaria",Botevgrad History Museum,Q16735822,,Botevgrad History Museum
+Botevo,Clock Tower of Botevgrad,Q667696,4,0,2,the tallest clock tower in Bulgaria,Botevgrad Clock tower,Q853854,,Botevgrad Clock Tower
+Botevo,Botevgrad dialect,Q4948584,4,0,2,dialect of Bulgarian,,Q8217193|Q33384,Q7918,Botevgrad dialect
+Botevo,Botevgrad Depression,Q12273829,4,0,2,depression in Bulgaria,,Q749565,,
+Botevo,Botevgrad spiritual district,Q20497016,4,0,2,,,Q125350820,,
+Botevo,Botevgradsko Shose blvd.,Q93448458,4,0,2,boulevard in Sofia (Bulgaria),,Q54114,,
+Botevo,Vidin - Montana motorway,Q16827967,4,0,2,planned motorway between Vidin and Montana in Bulgaria,,Q46622,,Vidin–Botevgrad expressway
+Piperovo,Piperovo,Q312261,5,0,1,village in Macedonia,,Q532|Q56061,,"Piperovo, North Macedonia"
+Piperovo,Piperovo,Q312193,5,0,1,village in North Macedonia,,Q532,,
+Piperovo,Piperevo,Q1088094,5,0,1,"village in Dupnitsa municipality, Kyustendil oblast, Bulgaria",,Q15630849|Q4224624,,"Piperovo, Kyustendil Province"
+Piperovo,Piperovo,Q109782684,5,0,1,Wikimedia disambiguation page,,Q4167410,,Piperovo
+Piperovo,village in Russia,Q60913568,5,0,2,type of populated place,,Q28872924,Q532|Q192287|Q2578772,
+Piperovo,Village in Russia,Q119294938,5,0,2,"painting by Thomas Swimmer (1932–1983), Manchester Art Gallery",,Q3305213,,
+Karantsi,Karantsi,Q1077104,6,0,1,"village in Polski Trambesh municipality, Veliko Tarnovo oblast, Bulgaria",,Q15630849|Q4224624,,
+Karantsi,Karantsi,Q33061954,6,0,1,hydrometric station in Bulgaria,,Q25502859,,
+Rakitna,Rakitna,Q988422,7,0,1,human settlement,,Q486972,,"Rakitna, Brezovica"
+Rakitna,Rakitna,Q1075281,7,0,1,"village in Simitli municipality, Blagoevgrad oblast, Bulgaria",,Q15630849,,"Rakitna, Blagoevgrad Province"
+Rakitna,Rakitna,Q28380628,7,0,1,railway stop in Belarus,,Q55678,,
+Rakitna,Rakitna,Q21658427,7,0,1,village in Belarus,,Q65661087,,
+Rakitna,Rakitna,Q21615679,7,0,1,,,Q65661087,,
+Rakitna,Rakitnaja railway station,Q21644169,7,0,1,railway station in Russia,,Q55488,,
+Rakitna,Rakitna Youth Climatic Health Resort,Q12796914,7,0,1,a mid-altitude climatic health resort in central Slovenia providing care for children and adolescents with respiratory disorders,Mladinsko klimatsko zdravilišče Rakitna,Q1595408,,
+Rakitna,Rakitna,Q20818580,7,0,1,Wikimedia disambiguation page,,Q4167410,,Rakitna

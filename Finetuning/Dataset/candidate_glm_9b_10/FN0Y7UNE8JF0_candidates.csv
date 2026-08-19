@@ -1,0 +1,322 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Phillis Wheatley,Phillis Wheatley,Q257911,0,0,1,first African-American poet (1753–1784),Phillis Wheatley Peters|Phillis Peters|Philis Wheatley,Q5,,Phillis Wheatley
+Phillis Wheatley,Phillis Wheatley,Q28731158,0,0,1,1773 portrait of Phillis Wheatley,"Portrait of Phillis Wheatley|Phillis Wheatley, Negro servant to Mr. John Wheatley, of Boston",Q11835431,,Portrait of Phillis Wheatley
+Phillis Wheatley,Phillis Wheatley,Q96384174,0,0,1,"print by anonymous, after (?) Scipio Moorhead, 18th century (MET, 49.40.24)","Phillis Wheatley, Negro Servant to Mr. John Wheatley of Boston",Q11060274,,
+Phillis Wheatley,Wheatley High School,Q7991929,0,0,1,"high school in Houston, Texas, United States",Phillis Wheatley High School,Q9826,,Wheatley High School (Houston)
+Phillis Wheatley,Phyllis Wheatley YWCA,Q7185976,0,0,1,"historic YWCA building in Washington, DC","Wheatley, Phillis, YWCA|Phillis Wheatley YWCA|Phyllis Wheatley Young Women Christian Association|Phyliss Wheatley YMCA|Wheatley YWCA",Q41176,,"Phyllis Wheatley YWCA (Washington, D.C)"
+Phillis Wheatley,Phillis Wheatley: The Girl Who Wrote Her Way To Freedom Volume 2,Q111288130,0,0,1,book by Bunmi Oyinsan,,Q47461344,,
+Phillis Wheatley,Phyllis Wheatley Heritage Center,Q8046066,0,0,1,"YWCA building in St. Louis, Missouri","YWCA, Phillis Wheatley Branch|YWCA, Phyllis Wheatley Branch|Phyllis Wheatley Branch YWCA|YWCA Phyllis Wheatley Branch|Phyllis Wheatley Branch YWCA of St. Louis/Women's Christian Home|Phillis Wheatley YWCA",Q41176,,"Phyllis Wheatley YWCA (St. Louis, Missouri)"
+Phillis Wheatley,Phillis Wheatley Landing Site,Q108475946,0,0,1,historic marker in Boston,,Q721747,,
+Phillis Wheatley,Phillis Wheatley Waters,Q110868988,0,0,1,American educator and basketball player (1895–1973),,Q5,,Phillis Wheatley Waters
+Phillis Wheatley,"Phillis Wheatley Elementary School, New Orleans",Q7185975,0,0,1,primary school in United States of America,,Q9842,,"Phillis Wheatley Elementary School, New Orleans"
+Phillis Wheatley,poet,Q49757,0,0,2,person who writes poetry,poetess|bard|poetry writer|poetry author,Q28640|Q12737077,Q36180,Poet
+Phillis Wheatley,poetry,Q482,0,0,2,literary style characterized by a strong expressiveness of words,poetic art|poem|waxing poetic|poesie|poesy|art of poetry|wordsmithing|singing|rhyming|rhymes|balladry|versification|metrical composition|verse|verses|rhythmical composition|composition|rhyme|poesies|poems|chanting|chant|chants|song,Q4263830|Q11862829,Q7725634,Poetry
+Phillis Wheatley,poem,Q5185279,0,0,2,"form of literature, work of poetry, often composed of verses",poems|poetry|ode|lay|song|verse|lyric|hymn|metre|ballad|psalm|epic|metrical work|work in metre|work in meter|chant,Q4263830|Q89522629,Q7725634|Q482,Poem
+Phillis Wheatley,Poet,Q37293345,0,0,2,family name,,Q101352,,
+Phillis Wheatley,drama,Q25372,0,0,2,"formal type of literature intended for performance, where the text is written in the form of character lines and the author's remarks and is usually divided into acts and scenes",poetic drama|drama after Aristotele|dramatic form,Q621993|Q4263830|Q11862829|Q1047113,Q1318295,Drama
+Phillis Wheatley,poetry collection,Q12106333,0,0,2,collection of poems by a single author published together. See also poetry anthology (Q19357149),collection of poetry|collection of poems|group of poems|book of poems|poetry book|poetry compilation|anthology of poetry|compilation of poetry|poem compilation|volume of poems|volume of poetry|poem collection,Q124423387|Q4263830,Q108329788|Q732577|Q108329152,Poetry collection
+Phillis Wheatley,poet lawyer,Q1209498,0,0,2,poet with legal training,,Q28640,Q185351|Q49757,
+Phillis Wheatley,poets.org,Q24635963,0,0,2,Academy of American Poets website,,Q35127,,
+Phillis Wheatley,literary movement,Q3326717,0,0,2,art movement in literature,literary movements|poetry movement|movement in literature|literature movement,Q49773,Q968159,Literary movement
+Phillis Wheatley,Le Poët-Laval,Q468602,0,0,2,"commune in Drôme, France",Lo Poet Laval|Poët-Laval,Q484170,,Le Poët-Laval
+Phillis Wheatley,African Americans,Q49085,0,0,2,Americans with sub-Saharan African ancestry,African American people|African American|African-American|Afro-Americans|Black Americans|Black or African American|Black Americans and Afro-Americans,Q108788952|Q25380035|Q41710,Q846570|Q817393|Q16242628,African Americans
+Phillis Wheatley,African American literature,Q388170,0,0,2,body of literature by Americans of African descent,Afro-American literature|Black literature|Negro literature|African-American literature,Q223393,Q233762,African-American literature
+Phillis Wheatley,African American Visual Artists Database,Q106890822,0,0,2,an archived online database documenting the historical and ongoing contribution of artists of African descent to the visual arts,AAVAD|African American Visual Arts Database,Q8513,,
+Phillis Wheatley,slavery in the United States,Q118382,0,0,2,form of slave labor which existed as a legal institution from the early years of the United States,slavery in the United States of America|African American slavery|American slavery,Q13418847,Q8463|Q7584266,Slavery in the United States
+Phillis Wheatley,civil rights movement,Q48537,0,0,2,1954–1968 U.S. nonviolent social movement,1960s civil rights movement|Civil Rights Revolution|Black Revolution|Black civil rights movement|U.S. civil rights movement|Negro Revolution|Negro American Revolution|African American civil rights movement|Negro Revolt|Southern Freedom Movement|Black rights movement|United States civil rights movement|American Freedom Movemen|Negro Freedom Movement|Afro-American civil rights movement|American freedom movement|Negro movement|African-American civil rights movement|Civil Rights Movement|Second Reconstruction,Q13406660|Q123531451,Q2738074,Civil rights movement
+Phillis Wheatley,African-American museum,Q54934129,0,0,2,type of museum that documents the history and culture of African Americans,Afro-American museum,Q63982911,Q33506,
+Phillis Wheatley,spirituals,Q212024,0,0,2,music genre created by generations of African-Americans,African-American spirituals|spiritual|Negro spirituals|spiritual music,Q188451,Q388207|Q1541229|Q6452410,Spirituals
+Phillis Wheatley,"African American Architects: A Biographical Dictionary, 1865-1945",Q42060015,0,0,2,book by Dreck Spurlock Wilson,African American Architects,Q7725634|Q3331189,,"African American Architects: A Biographical Dictionary, 1865–1945"
+Phillis Wheatley,African American Policy Forum,Q4689672,0,0,2,,,Q163740,,African American Policy Forum
+Phillis Wheatley,African American studies,Q383968,0,0,2,academic field focusing on peoples of the African diaspora and Africa,African-American/Black studies|Black studies|African-American studies|African American and Diaspora Studies|African-Americanology,Q11862829,Q1143546,Black studies
+Phillis Wheatley,American Poet,Q2361421,0,0,2,1972 live album by Lou Reed,,Q482994,,American Poet (album)
+Phillis Wheatley,American Poet: A Novel,Q111738758,0,0,2,novel by Jeff Vande Zande,American Poet,Q7725634,,
+Phillis Wheatley,American poetry,Q3099146,0,0,2,poetry from the United States of America,,Q131851244,Q482|Q233762,American poetry
+Phillis Wheatley,American Poetry,Q140217926,0,0,2,monograph published by Yale University Press (1987),,Q193495,,
+Phillis Wheatley,The American Poetry Review,Q7713534,0,0,2,American monthly poetry magazine,American Poetry Review,Q41298,,The American Poetry Review
+Phillis Wheatley,American Poetry Center,Q4744691,0,0,2,,,Q33506,,American Poetry Center
+Phillis Wheatley,AMERICAN POETRY: BARBARA HOWES: A VIEW OF POETRY (NAID 107344),Q67531332,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Phillis Wheatley,AMERICAN POETRY: GILBERT (NAID 107347),Q67531354,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Phillis Wheatley,AMERICAN POETRY: ATTENTIVENESS AND OBEDIENCE (NAID 107357),Q67531421,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Phillis Wheatley,AMERICAN POETRY: A FRAME FOR POETRY (NAID 107353),Q67531394,0,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Mensura,Mensura,Q3306062,1,0,1,village in Eritrea,,,,
+Mensura,unit,Q2198779,1,0,1,"entity regarded or used as an elementary structural or functional constituent to measure, analyse or describe another entity",,,Q7048977|Q1786828|Q47574,
+Mensura,Mensura,Q108548493,1,0,1,female given name,,Q11879590,,
+Mensura,Mensura,Q98208930,1,0,1,"print by Philip Galle, S.IV 2898, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Mensura,Mensura,Q98210093,1,0,1,"print by Philip Galle, S.I 1732, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Mensura,measurement,Q12453,1,0,1,process of assigning quantities to objects or events,physical measurement,Q4671286,Q21004260,Measurement
+Mensura,Mensura Subregion,Q3306066,1,0,1,subregion of Eritrea,,Q3729800,,Mensura subregion
+Mensura,mensural notation,Q1920919,1,0,1,musical notation system used for European vocal polyphonic music,,Q115211517,Q233861,Mensural notation
+Mensura,Mensura (Pauly-Wissowa),Q108657995,1,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Mensura,Mensura Catovic,Q115960882,1,0,1,author,,Q5,,
+Mensura,measure,Q3240892,1,0,2,time unit in rhythmic musical notation,measure|bar line|double bar,Q116748678,Q186081,Bar (music)
+Mensura,measure,Q192276,1,0,2,"function assigning numbers to some subsets of a set, which could be seen as a generalization of length, area, volume and integral",,Q3924032,Q5165061|Q95744479|Q11348,Measure (mathematics)
+Mensura,measure,Q39875001,1,0,2,standard against which something can be judged,criterion,,Q1207505,
+Mensura,unit of measurement,Q47574,1,0,2,"real scalar quantity, defined and adopted by convention, with which any other quantity of the same kind can be compared to express the ratio of the two quantities as a number (VIM)",unit|measurement unit|unit of measure|physical unit,,Q39875001|Q181175|Q71550118,Unit of measurement
+Mensura,metric,Q17004438,1,0,2,"measure for quantitatively assessing an attribute of a person, process, event, institution or system",measure,Q96253971,Q937228,Metric (unit)
+Mensura,measuring instrument,Q2041172,1,0,2,device for measuring a physical quantity,measurement instrument|measurement device|meter|measurement tool|measuring tool|instrument|gauge|measuring device|measurement apparatus,Q123035442,Q1047213|Q220659|Q39546,Measuring instrument
+Mensura,jigger,Q1361107,1,0,2,bartending tool,Measure,Q7621105|Q1302471,Q1521410,Jigger (bartending)
+Mensura,Measurement Science and Technology,Q949792,1,0,2,journal,Measurement science & technology,Q5633421,,Measurement Science and Technology
+Mensura,Measurement,Q15751313,1,0,2,scientific journal,,Q5633421,,
+Mensura,Measurement: interdisciplinary research and perspectives,Q15755906,1,0,2,journal,Measurement,Q5633421,,
+Mensura,measurement in quantum mechanics,Q907385,1,0,2,interaction of a quantum system with a classical observer,quantum measurement theory|quantum measurement|measurement|Quantum theory of observation,,Q12453,Measurement in quantum mechanics
+Mensura,measurement,Q25394210,1,0,2,,,,,
+Mensura,size,Q322481,1,0,2,magnitude or dimension of a thing; concept abstracted from the process of measuring by comparing a longer to a shorter or vice versa,dimensions|bigness|measurements|largeness,,Q2091629,Size
+Mensura,system of units,Q932268,1,0,2,collection of units of measurement and rules relating them to each other,measurement system|system of weights and measures|system of measurement|unit system,Q96116695,Q3622126,System of units of measurement
+Mensura,Mensura,Q3306062,2,0,1,village in Eritrea,,,,
+Mensura,unit,Q2198779,2,0,1,"entity regarded or used as an elementary structural or functional constituent to measure, analyse or describe another entity",,,Q7048977|Q1786828|Q47574,
+Mensura,Mensura,Q108548493,2,0,1,female given name,,Q11879590,,
+Mensura,Mensura,Q98208930,2,0,1,"print by Philip Galle, S.IV 2898, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Mensura,Mensura,Q98210093,2,0,1,"print by Philip Galle, S.I 1732, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Mensura,measurement,Q12453,2,0,1,process of assigning quantities to objects or events,physical measurement,Q4671286,Q21004260,Measurement
+Mensura,Mensura Subregion,Q3306066,2,0,1,subregion of Eritrea,,Q3729800,,Mensura subregion
+Mensura,mensural notation,Q1920919,2,0,1,musical notation system used for European vocal polyphonic music,,Q115211517,Q233861,Mensural notation
+Mensura,Mensura (Pauly-Wissowa),Q108657995,2,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Mensura,Mensura Catovic,Q115960882,2,0,1,author,,Q5,,
+Mensura,measure,Q3240892,2,0,2,time unit in rhythmic musical notation,measure|bar line|double bar,Q116748678,Q186081,Bar (music)
+Mensura,measure,Q192276,2,0,2,"function assigning numbers to some subsets of a set, which could be seen as a generalization of length, area, volume and integral",,Q3924032,Q5165061|Q95744479|Q11348,Measure (mathematics)
+Mensura,measure,Q39875001,2,0,2,standard against which something can be judged,criterion,,Q1207505,
+Mensura,unit of measurement,Q47574,2,0,2,"real scalar quantity, defined and adopted by convention, with which any other quantity of the same kind can be compared to express the ratio of the two quantities as a number (VIM)",unit|measurement unit|unit of measure|physical unit,,Q39875001|Q181175|Q71550118,Unit of measurement
+Mensura,metric,Q17004438,2,0,2,"measure for quantitatively assessing an attribute of a person, process, event, institution or system",measure,Q96253971,Q937228,Metric (unit)
+Mensura,measuring instrument,Q2041172,2,0,2,device for measuring a physical quantity,measurement instrument|measurement device|meter|measurement tool|measuring tool|instrument|gauge|measuring device|measurement apparatus,Q123035442,Q1047213|Q220659|Q39546,Measuring instrument
+Mensura,jigger,Q1361107,2,0,2,bartending tool,Measure,Q7621105|Q1302471,Q1521410,Jigger (bartending)
+Mensura,Measurement Science and Technology,Q949792,2,0,2,journal,Measurement science & technology,Q5633421,,Measurement Science and Technology
+Mensura,Measurement,Q15751313,2,0,2,scientific journal,,Q5633421,,
+Mensura,Measurement: interdisciplinary research and perspectives,Q15755906,2,0,2,journal,Measurement,Q5633421,,
+Mensura,measurement in quantum mechanics,Q907385,2,0,2,interaction of a quantum system with a classical observer,quantum measurement theory|quantum measurement|measurement|Quantum theory of observation,,Q12453,Measurement in quantum mechanics
+Mensura,measurement,Q25394210,2,0,2,,,,,
+Mensura,size,Q322481,2,0,2,magnitude or dimension of a thing; concept abstracted from the process of measuring by comparing a longer to a shorter or vice versa,dimensions|bigness|measurements|largeness,,Q2091629,Size
+Mensura,system of units,Q932268,2,0,2,collection of units of measurement and rules relating them to each other,measurement system|system of weights and measures|system of measurement|unit system,Q96116695,Q3622126,System of units of measurement
+Cheapside Cross,Cheapside Cross,Q110070683,3,0,1,engraving by anonymous artist or maker (YCBA B1977.14.15663),,Q11835431|Q11060274,,
+Cheapside Cross,Cheapside Cross,Q110070676,3,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Cheapside Cross,"Cheapside Cross, Alone",Q110070681,3,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Cheapside Cross,Cheapside Cross (as it apperared in the Year 1547),Q110070687,3,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Cheapside Cross,Cheapside Cross,Q110070683,4,0,1,engraving by anonymous artist or maker (YCBA B1977.14.15663),,Q11835431|Q11060274,,
+Cheapside Cross,Cheapside Cross,Q110070676,4,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Cheapside Cross,"Cheapside Cross, Alone",Q110070681,4,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Cheapside Cross,Cheapside Cross (as it apperared in the Year 1547),Q110070687,4,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+"Crosby Hall, London",Crosby Hall,Q5188033,5,0,1,medieval London building,"Crosby Hall, London",Q41176,,"Crosby Hall, London"
+"Crosby Hall, London","Crosby Hall, London",Q110070952,5,0,1,engraving by John Roffe,,Q11835431|Q11060274,,
+"Crosby Hall, London","CROSBY HALL, LONDON",Q60277352,5,0,1,scientific article published in Nature,,Q13442814,,
+"Crosby Hall, London","Crosby Hall, Merseyside",Q5188031,5,0,2,"country house in Merseyside, United Kingdom",Crosby Hall,Q1343246,,"Crosby Hall, Merseyside"
+"Crosby Hall, London",Crosby Hall,Q100268522,5,0,2,"house in Richmond Hill, Ontario, Canada",,Q3947,,
+"Crosby Hall, London",Crosby Hall,Q110070916,5,0,2,engraving - James S. Storer,,Q11835431|Q11060274,,
+"Crosby Hall, London",Crosby Hall,Q108862878,5,0,2,"academic building at Dartmouth College in Hanover, New Hampshire",Blunt Alumni Center,Q19844914,,
+"Crosby Hall, London",Crosby Hall,Q119351622,5,0,2,"painting by Josephine de Vidaud (active 1966–1971), Chelsea Library",,Q3305213,,
+"Crosby Hall, London","Crosby Hall, Bishopsgate Street",Q110070920,5,0,2,engraving by James Tingle,,Q11835431|Q11060274,,
+"Crosby Hall, London",Crosby Hall Educational Trust,Q26549071,5,0,2,"architectural structure in Sefton, Merseyside, England, UK",,Q811979,,
+"Crosby Hall, London",Crosby Hall : International Residence for University Women,Q60250900,5,0,2,scientific article published in Nature,,Q13442814,,
+"Crosby Hall, London",London,Q84,5,0,2,capital and largest city of England and the United Kingdom,"London, UK|London, United Kingdom|London, England|London UK|London U.K.|Londinium|Loñ|Lundenwic|Londinio|Londini|Londiniensium|Augusta|Trinovantum|Kaerlud|Karelundein|Lunden|Big Smoke|the Big Smoke|Lundenburh|Lundenburgh|Llyn Dain|Llan Dian|Londinion|Loniniensi|Lon.|Loñ.|Lond.|LDN",Q200250|Q1066984|Q515|Q208511|Q174844|Q51929311|Q108178728|Q1048835,,London
+"Crosby Hall, London",London,Q92561,5,0,2,"city in Southwestern Ontario, Canada","London, ON|London, Ontario|City of London",Q6593035|Q14762300|Q515|Q1549591,,"London, Ontario"
+"Crosby Hall, London",The London Gazette,Q1137581,5,0,2,journal of record of the British government,London Gazette|The Gazette|Oxford Gazette,Q1110794|Q2065227,,The London Gazette
+"Crosby Hall, London",London Records,Q935090,5,0,2,UK multi-national record label,London Recordings|London,Q18127,,London Recordings
+"Crosby Hall, London",London,Q1001456,5,0,2,"city in Madison County, Ohio, United States","London, Ohio|London, OH",Q1093829|Q62049,,"London, Ohio"
+"Crosby Hall, London",London,Q23939248,5,0,2,region of England containing the City of London and the rest of Greater London,Greater London,Q48091|Q6955655,,
+"Crosby Hall, London",London,Q20003780,5,0,2,unisex given name,London (first name)|London (given name),Q3409032,,
+"Crosby Hall, London",London Borough of Enfield,Q210531,5,0,2,borough in the London Region in England,Enfield|Borough of Enfield|Enfield (unparished area),Q211690|Q7897276,,London Borough of Enfield
+"Crosby Hall, London",London School of Hygiene and Tropical Medicine,Q1126189,5,0,2,"public research university in Bloomsbury, Camden, UK; constituent college of the University of London",LSHTM|London School of Tropical Medicine|London School of Hygiene & Tropical Medicine,Q62078547|Q38723|Q811979|Q62079009|Q5341295,,London School of Hygiene and Tropical Medicine
+"Crosby Hall, London",London,Q111529462,5,0,2,1960 Eastercon,London (Eastercon),Q5329928,,
+Confession,Confession,Q5159980,6,0,1,Australian metalcore band,,Q215380,,Confession (band)
+Confession,religious denomination,Q13414953,6,0,1,identifiable religious subgroup with a common structure and doctrine,denomination|confession,,Q71966963|Q1530022,Religious denomination
+Confession,confession,Q847337,6,0,1,statement made by a person or a group of persons acknowledging some sensitive personal fact,admission|acknowledgement|self-disclosure|truth disclosure,,Q628523|Q67123584,Confession
+Confession,confession,Q183959,6,0,1,religious ritual acknowledgment of one's sins,penance,Q628455,Q847337,Confession (religion)
+Confession,Confession,Q138753067,6,0,1,track #56 in the Undertale Soundtrack,Undertale Soundtrack 56|Undertale Soundtrack #56|Undertale Official Soundtrack 56|Undertale Official Soundtrack #56|Undertale OST 56|UT OST 56,Q7302866,,
+Confession,Confession,Q134535240,6,0,1,audio track,,Q7302866,,
+Confession,Sacrament of Penance (Reconciliation),Q14955083,6,0,1,sacrament of the Catholic Church and the Eastern Orthodox churches,Sacrament of Penance and Reconciliation|Confession|Sacrament of Reconciliation|Sacrament of Confession,Q3233636,Q183959,Penance in the Catholic Church
+Confession,Confessions on a Dance Floor,Q151880,6,0,1,2005 studio album by Madonna,The Best Madonna Album,Q482994,,Confessions on a Dance Floor
+Confession,confessional,Q814658,6,0,1,"small, enclosed booth used for confession",,,Q13099631,Confessional
+Confession,Confession,Q2153065,6,0,1,album by Ill Niño,,Q482994,,Confession (Ill Niño album)
+Confession,confession of sins,Q117309593,6,0,2,acknowledgment of one's sins,,,Q1190554,
+Confession,confession of sins,Q126877017,6,0,2,narrative motif documented in Thompson's Motif-Index of Folk-Literature,V20.,Q1697305|Q2995443,,
+Confession,confession of sins of a pilgrim calms a great storm at sea,Q126877531,6,0,2,narrative motif documented in Thompson's Motif-Index of Folk-Literature,V24.1.,Q1697305|Q2995443,,
+Confession,Confession of Sins and the Classics,Q139867489,6,0,2,,,Q13442814,,
+Confession,Confession of sins and the classics,Q104929272,6,0,2,scholarly article,,Q13442814,,
+Confession,Confession of sins,Q53812881,6,0,2,scientific article,,Q13442814,,
+Confession,creed,Q247179,6,0,2,personal declaration of faith,professio fidei|confession of faith,,Q815005,Creed
+Confession,Belgic Confession,Q1377480,6,0,2,doctrinal standard document of Reformed churches,Confession of Faith,Q2992463,,Belgic Confession
+Confession,confession of faith,Q1140925,6,0,2,statement of the shared beliefs of a religious community,symbol|statement of faith,,Q815005|Q47461344,Profession of faith
+Confession,declaration of faith,Q5249453,6,0,2,formal statement of one's religious beliefs,confession of faith,Q62662439,,Declaration of faith
+Confession,Confession of Faith,Q42188154,6,0,2,1629 written work by Cyril Lucaris,,Q17537576|Q247179,,
+Confession,Confession of Faith of The Evangelical United Brethren Church,Q5159988,6,0,2,1946 American Christian creed,Confession of Faith (United Methodist)|Confession of Faith from The Evangelical United Brethren Church|The Confession of Faith of the Evangelical United Brethren Church|EUB Confession of Faith,Q1140925,,Confession of Faith (United Methodist)
+Confession,Confession of Faith of Croatian Catholics,Q134389399,6,0,2,Croatian Catholic prayer,,Q5053303,,
+Confession,Confession of Faith Ratification Act 1690,Q19051985,6,0,2,,,Q3331189,,
+Confession,Confession of Faith Ratification Act 1560,Q19051977,6,0,2,,,Q3331189,,
+Confession,Confession of Faith Ratification Act,Q134445578,6,0,2,Scottish law on Christianity,,Q18009569,,Confession of Faith Ratification Act (1690)
+Crosby Hall,Crosby Hall,Q5188033,7,0,1,medieval London building,"Crosby Hall, London",Q41176,,"Crosby Hall, London"
+Crosby Hall,"Crosby Hall, Merseyside",Q5188031,7,0,1,"country house in Merseyside, United Kingdom",Crosby Hall,Q1343246,,"Crosby Hall, Merseyside"
+Crosby Hall,Crosby Hall,Q100268522,7,0,1,"house in Richmond Hill, Ontario, Canada",,Q3947,,
+Crosby Hall,Crosby Hall,Q110070916,7,0,1,engraving - James S. Storer,,Q11835431|Q11060274,,
+Crosby Hall,Crosby Hall,Q108862878,7,0,1,"academic building at Dartmouth College in Hanover, New Hampshire",Blunt Alumni Center,Q19844914,,
+Crosby Hall,Crosby Hall,Q119351622,7,0,1,"painting by Josephine de Vidaud (active 1966–1971), Chelsea Library",,Q3305213,,
+Crosby Hall,"Crosby Hall, Bishopsgate Street",Q110070920,7,0,1,engraving by James Tingle,,Q11835431|Q11060274,,
+Crosby Hall,"Crosby Hall, London",Q110070952,7,0,1,engraving by John Roffe,,Q11835431|Q11060274,,
+Crosby Hall,Crosby Hall Educational Trust,Q26549071,7,0,1,"architectural structure in Sefton, Merseyside, England, UK",,Q811979,,
+Crosby Hall,Crosby Hall : International Residence for University Women,Q60250900,7,0,1,scientific article published in Nature,,Q13442814,,
+Saint Mark,Mark the Evangelist,Q31966,8,0,1,credited author of the Gospel of Mark and Christian saint; traditionally identified with John Mark (20-68),Saint Mark|Mark|Marcus|Markus,Q5,,Mark the Evangelist
+Saint Mark,John Mark,Q1992340,8,0,1,Biblical saint,,Q5,,John Mark
+Saint Mark,Saint Mark,Q526195,8,0,1,Wikimedia disambiguation page,,Q22808320,,Saint Mark (disambiguation)
+Saint Mark,Saint Mark,Q534108,8,0,1,"painting by Andrea Mantegna at the Städel Museum, Frankfurt, Germany",,Q3305213,,Saint Mark (Mantegna)
+Saint Mark,Saint Mark,Q3947580,8,0,1,painting by Cima da Conegliano,Saint Mark (?),Q3305213,,
+Saint Mark,Saint Mark,Q3947582,8,0,1,painting by Fra Bartolommeo,,Q3305213,,
+Saint Mark,Saint Mark,Q20176750,8,0,1,painting by Giorgio Vasari,,Q3305213,,
+Saint Mark,Saint Mark,Q64826811,8,0,1,"painting by Fra Angelico, Musée Condé",,Q3305213,,
+Saint Mark,Saint Mark,Q20809277,8,0,1,painting by Lucas van Leyden,,Q3305213,,
+Saint Mark,St Mark,Q50820592,8,0,1,painting by Carlo Innocenzo Carlone,Saint Mark,Q3305213,,
+Saint Mark,San Marco Evangelista,Q25112961,8,0,2,"church building in Osimo, Italy",Mark the Evangelist|San Marco,Q16970,,"San Marco Evangelista, Osimo"
+Saint Mark,Mark the Evangelist,Q50324116,8,0,2,painting by Guercino,,Q3305213,,
+Saint Mark,Mark the Evangelist,Q61930362,8,0,2,painting by Gortzius Geldorp,,Q3305213,,
+Saint Mark,San Marchetto,Q123586188,8,0,2,"religious building in Milan, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco,Q122158084,8,0,2,"religious building in Camposampiero, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco Evangelista old church,Q123586195,8,0,2,"religious building in Francolino, Ferrara, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco Evangelista,Q121815513,8,0,2,"religious building in San Marco d'Urri, Neirone, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco,Q120662072,8,0,2,"church building in Maresana, Ponteranica, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,John Mark,Q110931034,8,0,2,Mayor of Manchester 1889-1891,,Q5,,
+Saint Mark,John Mark Butler,Q67483035,8,0,2,physicist,,Q5,,
+Saint Mark,John Markham,Q6246771,8,0,2,British Royal Navy admiral (1761-1827),,Q5,,John Markham (Royal Navy officer)
+Saint Mark,John Mark Gannon,Q6246747,8,0,2,American Roman Catholic archbishop (1877–1968),,Q5,,John Mark Gannon
+Saint Mark,John Mark Inienger,Q11026399,8,0,2,Nigerian politician,,Q5,,John Mark Inienger
+Saint Mark,John Markoff,Q1700964,8,0,2,American journalist,"Markoff, John|John Gregory Markoff",Q5,,John Markoff
+Saint Mark,John Markham,Q101458229,8,0,2,researcher ORCID 0000-0003-1060-496X,,Q5,,
+Saint Mark,John Mark Stratton,Q110400326,8,0,2,(1931 - ),,Q5,,
+Saint Mark,John Markus Bjørndalen,Q102352604,8,0,2,Dr. Scient. (Ph.D.) Universitetet i Tromsø 2003,,Q5,,
+Saint Mark,Mark the Evangelist,Q31966,9,0,1,credited author of the Gospel of Mark and Christian saint; traditionally identified with John Mark (20-68),Saint Mark|Mark|Marcus|Markus,Q5,,Mark the Evangelist
+Saint Mark,John Mark,Q1992340,9,0,1,Biblical saint,,Q5,,John Mark
+Saint Mark,Saint Mark,Q526195,9,0,1,Wikimedia disambiguation page,,Q22808320,,Saint Mark (disambiguation)
+Saint Mark,Saint Mark,Q534108,9,0,1,"painting by Andrea Mantegna at the Städel Museum, Frankfurt, Germany",,Q3305213,,Saint Mark (Mantegna)
+Saint Mark,Saint Mark,Q3947580,9,0,1,painting by Cima da Conegliano,Saint Mark (?),Q3305213,,
+Saint Mark,Saint Mark,Q3947582,9,0,1,painting by Fra Bartolommeo,,Q3305213,,
+Saint Mark,Saint Mark,Q20176750,9,0,1,painting by Giorgio Vasari,,Q3305213,,
+Saint Mark,Saint Mark,Q64826811,9,0,1,"painting by Fra Angelico, Musée Condé",,Q3305213,,
+Saint Mark,Saint Mark,Q20809277,9,0,1,painting by Lucas van Leyden,,Q3305213,,
+Saint Mark,St Mark,Q50820592,9,0,1,painting by Carlo Innocenzo Carlone,Saint Mark,Q3305213,,
+Saint Mark,San Marco Evangelista,Q25112961,9,0,2,"church building in Osimo, Italy",Mark the Evangelist|San Marco,Q16970,,"San Marco Evangelista, Osimo"
+Saint Mark,Mark the Evangelist,Q50324116,9,0,2,painting by Guercino,,Q3305213,,
+Saint Mark,Mark the Evangelist,Q61930362,9,0,2,painting by Gortzius Geldorp,,Q3305213,,
+Saint Mark,San Marchetto,Q123586188,9,0,2,"religious building in Milan, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco,Q122158084,9,0,2,"religious building in Camposampiero, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco Evangelista old church,Q123586195,9,0,2,"religious building in Francolino, Ferrara, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco Evangelista,Q121815513,9,0,2,"religious building in San Marco d'Urri, Neirone, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,San Marco,Q120662072,9,0,2,"church building in Maresana, Ponteranica, Italy",Mark the Evangelist,Q16970,,
+Saint Mark,John Mark,Q110931034,9,0,2,Mayor of Manchester 1889-1891,,Q5,,
+Saint Mark,John Mark Butler,Q67483035,9,0,2,physicist,,Q5,,
+Saint Mark,John Markham,Q6246771,9,0,2,British Royal Navy admiral (1761-1827),,Q5,,John Markham (Royal Navy officer)
+Saint Mark,John Mark Gannon,Q6246747,9,0,2,American Roman Catholic archbishop (1877–1968),,Q5,,John Mark Gannon
+Saint Mark,John Mark Inienger,Q11026399,9,0,2,Nigerian politician,,Q5,,John Mark Inienger
+Saint Mark,John Markoff,Q1700964,9,0,2,American journalist,"Markoff, John|John Gregory Markoff",Q5,,John Markoff
+Saint Mark,John Markham,Q101458229,9,0,2,researcher ORCID 0000-0003-1060-496X,,Q5,,
+Saint Mark,John Mark Stratton,Q110400326,9,0,2,(1931 - ),,Q5,,
+Saint Mark,John Markus Bjørndalen,Q102352604,9,0,2,Dr. Scient. (Ph.D.) Universitetet i Tromsø 2003,,Q5,,
+Job Receiving The ill- News of His Misfortunes,Job Receiving The ill- News of His Misfortunes,Q98209112,10,0,1,"1563 print by Maarten van Heemskerck, S.I 55705, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Job Receiving The ill- News of His Misfortunes,Job Receiving The ill- News of His Misfortunes,Q98209114,10,0,1,"1563 print by Maarten van Heemskerck, S.I 55706, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Job Receiving The ill- News of His Misfortunes,Job Receiving The ill- News of His Misfortunes,Q98209112,11,0,1,"1563 print by Maarten van Heemskerck, S.I 55705, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+Job Receiving The ill- News of His Misfortunes,Job Receiving The ill- News of His Misfortunes,Q98209114,11,0,1,"1563 print by Maarten van Heemskerck, S.I 55706, Prints Department, Royal Library of Belgium",,Q838948|Q11060274|Q11835431,,
+The Baptism of Christ,The Baptism of Christ,Q19859148,12,0,1,painting by José Ferraz de Almeida Júnior,Baptism of Christ,Q3305213,,
+The Baptism of Christ,The Baptism of Christ,Q134436450,12,0,1,painting by Paris Bordone (Brera),,Q3305213,,
+The Baptism of Christ,The Baptism of Christ,Q1059211,12,0,1,"painting by Andrea del Verrocchio and Leonardo da Vinci, Uffizi",Baptism of Christ,Q3305213,,The Baptism of Christ (Verrocchio and Leonardo)
+The Baptism of Christ,The Baptism of Christ,Q5824027,12,0,1,painting by El Greco,,Q3305213,,
+The Baptism of Christ,The Baptism of Christ,Q2632688,12,0,1,painting by Piero della Francesca,Baptism of Christ,Q3305213,,The Baptism of Christ (Piero della Francesca)
+The Baptism of Christ,The baptism of Christ,Q21615081,12,0,1,painting by Peter Paul Rubens,The Baptism of Christ,Q3305213,,The Baptism of Christ (Rubens)
+The Baptism of Christ,The Baptism of Christ,Q18686599,12,0,1,painting by Joachim Patinir,Baptism of Christ,Q3305213,,The Baptism of Christ (Patinir)
+The Baptism of Christ,The Baptism of Christ,Q20177193,12,0,1,painting by Nicolas Poussin in the National Gallery of Art,Baptism of Christ,Q3305213,,
+The Baptism of Christ,The Baptism of Christ,Q63494892,12,0,1,painting by Jacopo Tintoretto in Venice,,Q3305213,,
+The Baptism of Christ,The Baptism of Christ,Q27698635,12,0,1,painting by Domenico Tintoretto,,Q3305213,,
+The Baptism of Christ,Baptism of Jesus,Q217048,12,0,2,event in the life of Jesus,Baptism of Christ|Baptism of Jesus Christ,Q856663|Q1406161|Q35856,,Baptism of Jesus
+The Baptism of Christ,Baptism of Jesus,Q110561836,12,0,2,fresco by Castera Bazile,,Q22669139,,
+The Baptism of Christ,Baptism of Jesus,Q96195261,12,0,2,painting by Garcia Fernandes,,Q3305213,,
+The Baptism of Christ,Baptism of Jesus,Q20528416,12,0,2,painting by Lorenzo Scott,,Q3305213,,
+The Baptism of Christ,"Sacro Monte, Chapel 12 - Baptism of Christ",Q124100495,12,0,2,"chapel in sacro monte di Varallo, Varallo Sesia, Italy",Sacro Monte (Varallo Sesia) - Cappella 12 - Battesimo di Cristo|Baptism of Jesus,Q108325,,
+The Baptism of Christ,Baptism of Jesus,Q25999112,12,0,2,fresco by Biagio Bellotti,,Q22669139,,
+The Baptism of Christ,Baptism of Jesus,Q121409632,12,0,2,,,Q3305213,,
+The Baptism of Christ,Baptism of Jesus,Q117535997,12,0,2,painting by Giovanni Gaddi,,Q3305213,,
+The Baptism of Christ,Baptism of Jesus Christ,Q83178018,12,0,2,"painting by El Greco (Palazzo Barberini, Rome)",,Q3305213,,"Baptism of Christ (El Greco, Rome)"
+The Baptism of Christ,Baptism of Jesus by Sébastien Bourdon,Q29277882,12,0,2,painting by Sébastien Bourdon,,Q3305213,,
+Christ Carrying the Cross,Christ carrying the cross,Q3399226,13,0,1,"Christ on the road to Golgotha, artistic theme",Carrying the Cross|Christ Carries his Cross,Q1406161|Q856663,,Christ Carrying the Cross
+Christ Carrying the Cross,Christ Carrying the Cross,Q680128,13,0,1,"painting by Hieronymus Bosch, Ghent",,Q3305213,,"Christ Carrying the Cross (Bosch, Ghent)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q140814757,13,0,1,painting by Domenico Panetti,,Q3305213,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q8464346,13,0,1,painting by El Greco,,Q3305213,,"Christ Carrying the Cross (El Greco, New York)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q2567058,13,0,1,"painting by Hieronymus Bosch in the Kunsthistorisches Museum, Vienna",,Q3305213,,"Christ Carrying the Cross (Bosch, Vienna)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q28061016,13,0,1,"painting by the workshop of Pieter Brueghel the Younger, Bonnefantenmuseum",The Road to Calvary,Q3305213,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q27697316,13,0,1,painting by Sebastiano del Piombo in the Museo del Prado,Jesus carrying the Cross,Q3305213,,
+Christ Carrying the Cross,The Great Passion:  Christ Bearing the Cross,Q18338554,13,0,1,woodcut by Albrecht Dürer from the series Great Passion,Christ Carrying the Cross,Q18219090,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q28061691,13,0,1,painting by B. van onbekend;; Orley,,Q3305213,,
+Christ Carrying the Cross,Christ Holding the Cross,Q136497894,13,0,1,painting by Giovanni Cariani,Christ the Redeemer Holding the Cross|Christ Carrying the Cross,Q3305213,,
+Christ Carrying the Cross,crucifixion of Jesus,Q51636,13,0,2,Jesus' crucifixion as described in the four canonical gospels,Crucifixion|Crucifixion of Christ|The Crucifixion|Christ on the Cross,Q106355253|Q1406161|Q3235597|Q1855439,,Crucifixion of Jesus
+Christ Carrying the Cross,Crucifixion of Christ,Q132171352,13,0,2,painting by Jacob Jordaens,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3221342,13,0,2,painting by Francisco de Zurbarán,The Crucifixion|Crucifixion|Christ on the Cross,Q3305213,,Christ on the Cross (Zurbarán)
+Christ Carrying the Cross,Crucifixion of Christ with saints,Q3207989,13,0,2,painting by Pietro Perugino and Luca Signorelli in the Uffizi,Crucifixion of Christ,Q3305213,,Crucifixion (Perugino and Signorelli)
+Christ Carrying the Cross,Crucifixion of Christ,Q3697614,13,0,2,painting by Lucas van Leyden,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698233,13,0,2,painting by Filippino Lippi probably destroyed 1945,"Christ on the cross, adored by Mary and Saint Francis",Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698263,13,0,2,painting by Diego Velázquez,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698193,13,0,2,painting by Hans von Kulmbach,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3428044,13,0,2,painting by Pietro Perugino,,Q3305213,,Monteripido Altarpiece
+Christ Carrying the Cross,Crucifixion of Christ,Q3973082,13,0,2,"painting by Luca Signorelli, Museo Civico di Sansepolcro",,Q3305213,,Crucifixion Standard
+Christ Carrying the Cross,Christ carrying the cross,Q3399226,14,0,1,"Christ on the road to Golgotha, artistic theme",Carrying the Cross|Christ Carries his Cross,Q1406161|Q856663,,Christ Carrying the Cross
+Christ Carrying the Cross,Christ Carrying the Cross,Q680128,14,0,1,"painting by Hieronymus Bosch, Ghent",,Q3305213,,"Christ Carrying the Cross (Bosch, Ghent)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q140814757,14,0,1,painting by Domenico Panetti,,Q3305213,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q8464346,14,0,1,painting by El Greco,,Q3305213,,"Christ Carrying the Cross (El Greco, New York)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q2567058,14,0,1,"painting by Hieronymus Bosch in the Kunsthistorisches Museum, Vienna",,Q3305213,,"Christ Carrying the Cross (Bosch, Vienna)"
+Christ Carrying the Cross,Christ Carrying the Cross,Q28061016,14,0,1,"painting by the workshop of Pieter Brueghel the Younger, Bonnefantenmuseum",The Road to Calvary,Q3305213,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q27697316,14,0,1,painting by Sebastiano del Piombo in the Museo del Prado,Jesus carrying the Cross,Q3305213,,
+Christ Carrying the Cross,The Great Passion:  Christ Bearing the Cross,Q18338554,14,0,1,woodcut by Albrecht Dürer from the series Great Passion,Christ Carrying the Cross,Q18219090,,
+Christ Carrying the Cross,Christ Carrying the Cross,Q28061691,14,0,1,painting by B. van onbekend;; Orley,,Q3305213,,
+Christ Carrying the Cross,Christ Holding the Cross,Q136497894,14,0,1,painting by Giovanni Cariani,Christ the Redeemer Holding the Cross|Christ Carrying the Cross,Q3305213,,
+Christ Carrying the Cross,crucifixion of Jesus,Q51636,14,0,2,Jesus' crucifixion as described in the four canonical gospels,Crucifixion|Crucifixion of Christ|The Crucifixion|Christ on the Cross,Q106355253|Q1406161|Q3235597|Q1855439,,Crucifixion of Jesus
+Christ Carrying the Cross,Crucifixion of Christ,Q132171352,14,0,2,painting by Jacob Jordaens,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3221342,14,0,2,painting by Francisco de Zurbarán,The Crucifixion|Crucifixion|Christ on the Cross,Q3305213,,Christ on the Cross (Zurbarán)
+Christ Carrying the Cross,Crucifixion of Christ with saints,Q3207989,14,0,2,painting by Pietro Perugino and Luca Signorelli in the Uffizi,Crucifixion of Christ,Q3305213,,Crucifixion (Perugino and Signorelli)
+Christ Carrying the Cross,Crucifixion of Christ,Q3697614,14,0,2,painting by Lucas van Leyden,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698233,14,0,2,painting by Filippino Lippi probably destroyed 1945,"Christ on the cross, adored by Mary and Saint Francis",Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698263,14,0,2,painting by Diego Velázquez,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3698193,14,0,2,painting by Hans von Kulmbach,,Q3305213,,
+Christ Carrying the Cross,Crucifixion of Christ,Q3428044,14,0,2,painting by Pietro Perugino,,Q3305213,,Monteripido Altarpiece
+Christ Carrying the Cross,Crucifixion of Christ,Q3973082,14,0,2,"painting by Luca Signorelli, Museo Civico di Sansepolcro",,Q3305213,,Crucifixion Standard
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Q106830474,15,0,1,engraving by anonymous artist or maker (YCBA B1974.12.1438),,Q11835431|Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Q106830467,15,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Sant'Angelo Castle,Q111475000,15,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Sant'Angelo Castle,Q125689040,15,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Castello di Sant'Angelo Lomellina,Q112140866,15,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Castello di Sant'Angelo,Q15105592,15,0,2,Wikimedia disambiguation page,,Q4167410,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Castel Sant'Angelo,Q486382,15,0,2,"castle and museum in Rome, formerly the imperial mausoleum of the emperor Hadrian and subsequent Roman emperors",mausolée d'Hadrien|Mausoleum of Hadrian|Castel Sant'Angelo in Rome|Castel Sant'Angelo Rome,Q33506|Q92107|Q3822604|Q162875,,Castel Sant'Angelo
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Mausoleum of Hadrian,Q3301838,15,0,2,mausoleum in Italy,,Q162875,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Mausoleum of Hadrian,Q75431845,15,0,2,print in the National Gallery of Art (NGA 112746),,Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Mausoleum of Hadrianus in Castel Sant'Angelo,Q125996634,15,0,2,"mausoleum in Castel Sant'Angelo, Rome, Italy",Mausoleo di Adriano a Castel Sant'Angelo,Q162875,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Mausoleum of Hadrian (Castello Sant'Angelo),Q75431849,15,0,2,print in the National Gallery of Art (NGA 112747),,Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Mausoleum of Hadrian (Castello Sant'Angelo),Q75431853,15,0,2,print in the National Gallery of Art (NGA 112748),,Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Q106830474,16,0,1,engraving by anonymous artist or maker (YCBA B1974.12.1438),,Q11835431|Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Q106830467,16,0,1,engraving by anonymous artist or maker,,Q11835431|Q11060274,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Castello di Sant'Angelo Lomellina,Q112140866,16,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Sant'Angelo Castle,Q111475000,16,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Sant'Angelo Castle,Q125689040,16,0,2,,,Q23413,,
+Il Castello che al Presente si Dice Sant'Angelo Anticamente Fu il Sepolcro de Adriano,Castello di Sant'Angelo,Q15105592,16,0,2,Wikimedia disambiguation page,,Q4167410,,
+The Fall of the Rebel Angels,The Fall of the Damned,Q203259,17,0,1,"painting by Peter Paul Rubens, Alte Pinakothek",The Fall of the Rebel Angels,Q3305213,,The Fall of the Damned
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q21614229,17,0,1,painting by Frans Floris I,,Q3305213,,The Fall of the Rebel Angels (Floris)
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q594406,17,0,1,painting by Pieter Bruegel the Elder,,Q3305213,,The Fall of the Rebel Angels
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q23929208,17,0,1,painting by Sebastiano Ricci,,Q3305213,,
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q3947694,17,0,1,painting by Luca Giordano,,Q3305213,,The Fall of the Rebel Angels (Giordano)
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q18938828,17,0,1,"painting by Gustave Doré, Musée d’Art moderne et contemporain de Strasbourg",,Q3305213,,
+The Fall of the Rebel Angels,The fall of the rebel angels,Q112176673,17,0,1,painting by Jacob de Wit / Rubens (Plantin-Moretus),,Q3305213,,
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q18573080,17,0,1,painting by the Master of the Rebel Angels,,Q3305213,,
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q50989360,17,0,1,"painting by Jan Boeckhorst, Szépművészeti Múzeum",,Q3305213,,
+The Fall of the Rebel Angels,The Fall of the Rebel Angels,Q16600034,17,0,1,painting by Domenico di Pace Beccafumi,,Q3305213,,Saint Michael Defeats the Rebel Angels (Beccafumi)
+Brinkburn Priory,Brinkburn Priory,Q4968406,18,0,1,"priory in Brinkburn, Northumberland, England, UK","Brinkburn Priory Augustinian priory, mill, gateway and post-Dissolution house",Q2750108,,Brinkburn Priory
+Brinkburn Priory,Brinkburn Priory,Q106832665,18,0,1,engraving - J. C. Varrall,,Q11835431|Q11060274,,
+Brinkburn Priory,"Brinkburn Priory, Northumberland",Q110092631,18,0,1,engraving - J. C. Varrall (YCBA B1977.14.7037),,Q11835431|Q11060274,,
+Brinkburn Priory,"Brinkburn Priory, Northumberland",Q110125610,18,0,1,etching - J. C. Varrall,,Q18218093|Q11060274,,
+Brinkburn Priory,"Brinkburn Priory, Northumberland",Q110092628,18,0,1,engraving - J. C. Varrall,,Q11835431|Q11060274,,
+Brinkburn Priory,Brinklaw,Q31110819,18,0,1,hillfort in Northumberland,Brinkburn Priory Promontory Fort,Q92086,,
+Brinkburn Priory,"Brinkburn Priory, Northumberland",Q110125617,18,0,1,etching - J. C. Varrall (YCBA B1977.14.7035),,Q18218093|Q11060274,,
+Europa,Europa,Q165170,19,0,1,"Phoenician character in Greek mythology, daughter of Agenor",Europe|Evropa,Q22988604|Q15632617,,Europa (consort of Zeus)
+Europa,Europa,Q3734793,19,0,1,"32nd quarter of Rome, Italy",,Q1074955,,
+Europa,Europe PubMed Central,Q5412157,19,0,1,database of biomedical research,HielohitooEurope PMC|UKPMhC|Arsingoli,Q1789476|Q1916557|Q4117139|Q7096323,,Europe PubMed Central
+Europa,Europa,Q104554890,19,0,1,female given name,Europa (given name)|Europa (first name),Q11879590,,
+Europa,Europa,Q3734794,19,0,1,seaplane carrier of the Italian Regia Marina,Italian seaplane carrier Europa|Manila,Q12859788|Q525365,,Italian seaplane carrier Europa
+Europa,Europa,Q37135786,19,0,1,family name,,Q101352,,
+Europa,Europa,Q3143,19,0,1,Galilean moon of Jupiter,Jupiter II|Europa (moon),Q61702557|Q1086783,,Europa (moon)
+Europa,Europa,Q5412020,19,0,1,cargo ship,MV William Lester,Q105999,,Europa (AK-81)
+Europa,Member of the European Parliament,Q27169,19,0,1,person who has been elected to serve as a popular representative in the European Parliament,MEP|europarliamentarian|eurodeputy,,Q1055894|Q486839,Member of the European Parliament
+Europa,EP Europace,Q2596718,19,0,1,journal,"European Pacing, Arrhythmias, and Cardiac Electrophysiology : Journal  of the Working Groups on Cardiac Pacing, Arrhythmias, and Cardiac Cellular Electrophysiology of the European Society of Cardiology|Europace : Journal  of the Working Groups on Cardiac Pacing, Arrhythmias, and Cardiac Cellular Electrophysiology of the European Society of Cardiology|Europace (London, England)|Europace",Q5633421|Q16024164,,EP Europace
+Europa,Jupiter's Moon,Q29383400,19,0,2,2017 film by Kornél Mundruczó,,Q11424,,Jupiter's Moon
+Europa,Jupiter's moons in fiction,Q3840674,19,0,2,depictions of Jupiter's natural satellites in fictional stories,,,,Jupiter's moons in fiction
+Europa,list of moons of Jupiter,Q1946,19,0,2,Wikimedia list article,list of Jupiter's moons|moons of Jupiter,Q13406463,,Moons of Jupiter
+Europa,Jupiter's moonopoly,Q58965595,19,0,2,"scientific article published on May 15, 2003",,Q13442814,,
+Europa,Jupiter's moons got a kick-start from Saturn,Q129929424,19,0,2,scholarly article published in April 2018,,Q13442814,,

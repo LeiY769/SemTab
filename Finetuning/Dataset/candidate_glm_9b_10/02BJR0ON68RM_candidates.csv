@@ -1,0 +1,172 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Peuredin,,,0,0,0,,,,,
+Eulo,Eulophidae,Q675905,1,0,1,family of insects,,Q16521,,Eulophidae
+Eulo,Eulo,Q37274151,1,0,1,family name,,Q101352,,
+Eulo,Eulophia,Q281862,1,0,1,genus of plants,,Q16521,,Eulophia
+Eulo,Eulophus,Q5409506,1,0,1,genus of insects,,Q16521,,Eulophus
+Eulo,Eulocastra,Q1361671,1,0,1,genus of insects,,Q16521,,Eulocastra
+Eulo,euro,Q4916,1,0,1,currency of most countries in the European Union,,Q8142|Q25401445,,Euro
+Eulo,Eulomalus,Q14892909,1,0,1,genus of insects,,Q16521,,
+Eulo,Eulophidium,Q87151663,1,0,1,genus of plants,,Q16521,,
+Eulo,Eulophinusia,Q5409488,1,0,1,genus of insects,,Q16521,,Eulophinusia
+Eulo,Eulophia nuda,Q13111972,1,0,1,species of orchid,,Q16521,,Eulophia nuda
+Arnistoq,Arctic fox,Q82738,2,0,2,species of mammal,blue fox|polar fox|snow fox|Alopex|Alopex lagopus|Canis lagopus|Vulpes lagopus,Q16521,,Arctic fox
+Arnistoq,Alopex lagopus,Q23729171,2,0,2,species of mammal,Arctic fox,Q16521,,
+Arnistoq,Canis lagopus,Q23729182,2,0,2,species of mammal,Arctic fox,Q16521,,
+Arnistoq,Perseus,Q83487911,2,0,2,ship built in 1996,Electra|IMO 9129469|Atlantic Coast|Arctic Fox,Q353699,,
+Arnistoq,Arctic Fox,Q83649810,2,0,2,ship built in 2006,IMO 9069528,Q11446,,
+Arnistoq,Arctic fox fur,Q1377893,2,0,2,white fur of the Arctic fox (Vulpes lagopus),polar  fox|snow fox|polar fox fur|Arctic fox fur|white fox|white fox fur,Q197204,Q29559758,Arctic fox fur
+Arnistoq,Arctic fox decision,Q25431306,2,0,2,Norwegian Supreme Court decision,,Q118119509,,
+Arnistoq,Arctic Fox Centre,Q16245152,2,0,2,,,,,Arctic Fox Centre
+Arnistoq,Arctic fox versus red fox in the warming Arctic: four decades of den surveys in north Yukon,Q57235646,2,0,2,article,,Q13442814,,
+Arnistoq,Arctic fox removal improves nest success of black brant,Q140245614,2,0,2,,,Q13442814,,
+Paclean,Pâcleanu,Q107243928,3,0,1,family name,,Q101352,,
+averto,Averton,Q675537,4,0,1,"commune in Mayenne, France",,Q484170,,Averton
+averto,warning,Q23817739,4,0,1,supplemental warning that may come with any CNC film rating,CNC warning|advisory,Q23817731,,
+averto,Averto,Q104428552,4,0,1,legal entity in Latvia,,Q3778211|Q4830453,,
+averto,warning,Q1759104,4,0,1,signal used to warn of danger,alarm|alert|warning signal|warning message|danger signal,,Q2150504|Q7551287,
+averto,Avertoxin A,Q77501916,4,0,1,bioactive natural product,,Q113145171,Q104201272,
+averto,Avertoxin B,Q77371049,4,0,1,bioactive natural product,,Q113145171,Q104197689|Q110170217,
+averto,Avertoxin D,Q77421918,4,0,1,bioactive natural product,,Q113145171,Q104200911,
+averto,"Avertoxins A–D, Prenyl Asteltoxin Derivatives from Aspergillus versicolor Y10, an Endophytic Fungus of Huperzia serrata",Q51625133,4,0,1,"scientific article published on November 30, 2015",,Q13442814,,
+averto,warning system,Q1427940,4,0,1,system of biological or technical nature deployed by an individual or group to inform of a future danger,,Q96116695,Q58778|Q1457629,Warning system
+averto,ground proximity warning system,Q1138034,4,0,1,aircraft system which detects when there is a danger of flying into terrain features and warns crew,GPWS,Q132129073,Q17423076|Q1427940|Q16693356|Q3040074,Ground proximity warning system
+Mareba,Mareba,Q10576988,5,0,1,genus of insects,,Q16521,,
+Mareba,Mareba,Q21405772,5,0,1,village and sector in Rwanda,,Q3058029,,Mareba
+Mareba,Mareba eresia,Q10576990,5,0,1,species of insect,,Q16521,,
+Mareba,Mareba curuna,Q10576989,5,0,1,species of insect,,Q16521,,
+Mareba,Mareba panamensis,Q10576992,5,0,1,species of insect,,Q16521,,
+Mareba,Mareba guerini,Q10576991,5,0,1,species of insect,,Q16521,,
+Mareba,Mareba guerinii,Q118737111,5,0,1,species of insect,,Q16521,,
+Mareba,Marebama,Q6758744,5,0,1,"place in Cascades Region, Burkina Faso",,Q23012917,,Marebama
+Mareba,Marébama,Q134003400,5,0,1,village in burkina faso,Marebama,Q135139180,,
+Mareba,Mareba,Q22426765,5,0,1,river in the Central African Republic,,Q4022,,
+Mareba,Grey Parrot,Q220328,5,0,2,species of parrot,Psittacus erithacus|African grey parrot|African gray parrot,Q16521,,Grey parrot
+Mareba,African grey parrots ( Psittacus erithacus ) use inference by exclusion to find hidden food,Q30459736,5,0,2,"scientific article published on June 22, 2011",,Q13442814,,
+Mareba,Grey Parrot (Psittacus erithacus) numerical abilities: addition and further experiments on a zero-like concept,Q51945384,5,0,2,scientific article published in February 2006,,Q13442814,,
+Mareba,Grey parrot numerical competence: a review,Q36565832,5,0,2,scientific article published on 15 August 2006,,Q13442814,,
+Mareba,Grey parrots use inferential reasoning based on acoustic cues alone.,Q55056557,5,0,2,scientific article,,Q13442814,,
+Mareba,Grey parrot number acquisition: the inference of cardinal value from ordinal position on the numeral list,Q24606902,5,0,2,scientific article,,Q13442814,,
+Mareba,Grey parrots do not always ‘parrot’: the roles of imitation and phonological awareness in the creation of new labels from existing vocalizations,Q125388896,5,0,2,scientific article published in 2007,,Q13442814,,
+Mareba,Grey parrot,Q5608221,5,0,2,Wikimedia disambiguation page,,Q4167410,,Grey parrot (disambiguation)
+Eveton,,,6,0,0,,,,,
+etherston,,,7,0,0,,,,,
+Queenborovgh,Queenborough,Q587299,8,0,2,"town and civil parish on the Isle of Sheppey in the Swale borough of Kent, England","Queenborough, Kent",Q3957|Q1115575|Q18511725,,Queenborough
+Queenborovgh,Queenborough,Q7270693,8,0,2,"Parliamentary constituency in the United Kingdom, 1801-1832",,Q27971968,,Queenborough (constituency)
+Queenborovgh,Queenborough,Q60576275,8,0,2,Constituency of the Parliament of England (to 1707),,Q27990982,,
+Queenborovgh,Queenborough,Q17028369,8,0,2,Tasmanian Legislative Council electoral division,Electoral division of Queenborough,Q7687464,,Electoral division of Queenborough
+Queenborovgh,Queenborough,Q24664510,8,0,2,,,,,
+Queenborovgh,Queenborough railway station,Q2323119,8,0,2,"railway station in Queenborough, Swale, Kent, England, UK",Queenborough Station|QBR,Q55488,,Queenborough railway station
+Queenborovgh,QUEENBOROUGH,Q127038873,8,0,2,hymn tune,,Q105543609,,
+Queenborovgh,Queenborough Castle,Q17643879,8,0,2,"concentric castle in Queenborough, Swale, England, UK",Sheppey Castle|Queensborough Castle,Q1064905,,Queenborough Castle
+Queenborovgh,Queenborough Oval,Q7270694,8,0,2,"sports ground in Hobart, Tasmania",,Q1076486,,Queenborough Oval
+Queenborovgh,Queenborough Town Council,Q104395795,8,0,2,"UK local authority for the town of Queenborough, Kent, England",,Q7137435,,
+Nhw Glasgow,,,9,0,0,,,,,
+Kothcgudem,Kothagudem,Q2238988,10,0,2,"town in Kothagudem mandal of Bhadradri Kottagudem district, Telangana, India",,Q3957,,Kothagudem
+Kothcgudem,Kothagudem,Q12919930,10,0,2,"village in Chatrai mandal, Eluru district, Andhra Pradesh, India",K Kothagudem,Q56436498,,K Kothagudem
+Kothcgudem,Kothagudem,Q30623998,10,0,2,"village in Denduluru mandal, Eluru district, Andhra Pradesh, India",,Q56436498,,"Kothagudem, Eluru district"
+Kothcgudem,Kothagudem,Q12994333,10,0,2,"village in Narayanapur mandal, Yadadri Bhuvanagiri district of Telangana, India",,Q56436498,,
+Kothcgudem,Kothagudem,Q12994334,10,0,2,"human settlement in Etapaka mandal, Polavaram district, Andhra Pradesh, India",,Q56436498,,
+Kothcgudem,Kothagudem,Q12994328,10,0,2,"village in Devipatnam mandal, Polavaram district, Andhra Pradesh, India",,Q56436498,,
+Kothcgudem,Kothagudem,Q12994329,10,0,2,"village in Gudem Kotha Veedhi mandal, Alluri Sitharama Raju district, Andhra Pradesh, India",,Q56436498,,
+Kothcgudem,Kothagudem Assembly constituency,Q6433974,10,0,2,constituency of the Telangana legislative assembly in India,Kothagudem constituency|Kothagudem Vidhan Sabha constituency,Q54375514,,Kothagudem Assembly constituency
+Kothcgudem,Kothagudem mandal,Q59082299,10,0,2,"mandalam in Bhadradri Kottagudem district of Telangana, India",,Q122987738,,
+Kothcgudem,National Highway 930P,Q106705735,10,0,2,national highway in India,"Kothagudem-Yelandu-Mahabubabad-Nellikuduru-Thorrur-Peddavangara-Tirumalagiri-Duppelli-Valigonda route has been synchronised with Gourelli junction, Outer Ring Road of Hyderabad and it has been declared as NH 930P.",Q34442,,
+Soris,Soris,Q18519402,11,0,1,genus of annelids,,Q23038290,,
+Soris,Sneferu,Q189371,11,0,1,pharaoh and founder of the 4th dynasty of Ancient Egypt,Snefru|Snofru|Soris,Q5,,Sneferu
+Soris,Soriso,Q22631,11,0,1,Italian comune,,Q747074,,Soriso
+Soris,Sorisole,Q101612,11,0,1,Italian comune,,Q747074,,Sorisole
+Soris,Soris labiosus,Q5159360,11,0,1,species of annelid (fossil),,Q23038290,,
+Soris,Sorisole,Q30030828,11,0,1,chief town of the homonym municipality,,Q15303838,,
+Soris,Sorishabahal,Q60295086,11,0,1,"village in Purulia district, West Bengal, India",,Q56436498,,
+Soris,Sori Sakolo,Q14657015,11,0,1,"village in Dompu Regency, West Nusa Tenggara, Indonesia",,Q26211545,,
+Soris,Soriso,Q30030827,11,0,1,chief town of the homonym municipality,,Q15303838,,
+Soris,Soriso,Q52798627,11,0,1,"primary school in Soriso, Novara, Piedmont, Italy",,Q9842,,
+Boggailla,,,12,0,0,,,,,
+Farnhcm,Farnham,Q643160,13,0,2,"town in Surrey, England, UK","Farnham, Surrey",Q3957|Q1115575|Q18511725,,Farnham
+Farnhcm,Farnham,Q141743,13,0,2,"town in Estrie, Quebec, Canada","Farnham, Quebec|Farnham, QC",Q27676416|Q486972|Q27676420|Q27676414|Q27676416,,"Farnham, Quebec"
+Farnhcm,Farnham,Q2197432,13,0,2,"village and civil parish in Essex, UK","Farnham, Essex",Q532|Q1115575,,"Farnham, Essex"
+Farnhcm,Farnham,Q16869901,13,0,2,family name,,Q101352,,Farnham (surname)
+Farnhcm,Farnham,Q2002790,13,0,2,"village and civil parish in Dorset, UK","Farnham, Dorset",Q532|Q1115575,,"Farnham, Dorset"
+Farnhcm,Farnham,Q2165754,13,0,2,"village and civil parish in Suffolk, UK","Farnham, Suffolk",Q532|Q1115575,,"Farnham, Suffolk"
+Farnhcm,Farnham,Q1859166,13,0,2,"village and civil parish in North Yorkshire, UK","Farnham, North Yorkshire",Q532|Q1115575,,"Farnham, North Yorkshire"
+Farnhcm,Farnham,Q63520892,13,0,2,"parish of St Vincent County, New South Wales, Australia",Parish of Farnham|Farnham Parish,Q28931760,,
+Farnhcm,Farnham,Q5436015,13,0,2,"Parliamentary constituency in the United Kingdom, 1918-1983",,Q27971968,,Farnham (constituency)
+Farnhcm,Farnham,Q14712313,13,0,2,"human settlement in Virginia, United States of America","Farnham, Virginia|Farnham, VA",Q17343829,,"Farnham, Virginia"
+Farnhcm,Farnham Castle,Q5436016,13,0,2,"Grade I listed historic house museum in Farnham, Surrey, England, UK",Farnham Castle (comprising Castle Buildings To The South Only),Q2087181|Q23413,,Farnham Castle
+Farnhcm,Farnham Castle Measure 1935,Q110254510,13,0,2,Church of England measure,25 & 26 Geo. 5. No. 2|25&26 Geo 5 No 2,Q110251539,,
+Farnhcm,Farnham Castle Measure 1961,Q110254582,13,0,2,Church of England measure,9 & 10 Eliz. 2. No. 1|9&10 Eliz 2 No 1,Q110251539,,
+Farnhcm,"Farnham Castle, Surrey",Q119823200,13,0,2,"painting by W. Turk, Museum of Farnham",,Q3305213,,
+Farnhcm,Farnham Castle,Q58890874,13,0,2,article published in 1959,,Q13442814,,
+Little Rver,Little River,Q2050543,14,0,2,"city in Rice County, Kansas, United States","Little River, Kansas|Little River, KS",Q1093829,,"Little River, Kansas"
+Little Rver,Little River,Q6651574,14,0,2,"town in Victoria, Australia","Little River, Victoria|Little River, Victoria, Australia",Q3957|Q45242174,,"Little River, Victoria"
+Little Rver,Little River,Q2843146,14,0,2,town on Banks Peninsula in the Canterbury Region of New Zealand,"Little River, New Zealand",Q3257686,,"Little River, New Zealand"
+Little Rver,Little River,Q3459103,14,0,2,"census-designated place in Mendocino County, California, United States","Little River, CA|Little River, California",Q498162,,"Little River, California"
+Little Rver,Little River,Q14709045,14,0,2,"tributary of the North Umpqua River in Oregon, United States",,Q4022,,Little River (North Umpqua River tributary)
+Little Rver,Little River,Q1865777,14,0,2,"tributary of Nive River in Tasmania, Australia",,Q4022,,
+Little Rver,Little River,Q6651668,14,0,2,river in Oklahoma and Arkansas in United States,,Q4022,,Little River (Red River tributary)
+Little Rver,Little River,Q115729828,14,0,2,"stream in Highland, Scotland, UK, tributary of River Thurso",,Q47521,,
+Little Rver,Little River,Q2157385,14,0,2,"census-designated place in Horry County, South Carolina, United States","Little River, South Carolina|Little River, SC",Q498162,,"Little River, South Carolina"
+Little Rver,Little River,Q6651674,14,0,2,"river in Knox, Blount, and Sevier counties in Tennessee, United States",East Prong of Little River|Middle Prong,Q4022,,Little River (Tennessee)
+Haye,Haye,Q37487527,15,0,1,family name,,Q101352,,Haye
+Haye,Haye,Q101427654,15,0,1,given name,,Q202444,,
+Haye,Armenian,Q8785,15,0,1,Indo-European language,Armenian language|Hayeren,Q1288568|Q33742,Q19860,Armenian language
+Haye,Hayes Merritt,Q113957928,15,0,1,American physicist,,Q5,,
+Haye,Hayes & Yeading United F.C.,Q1591915,15,0,1,"association football club in Hayes, England",Hayes & Yeading United Football Club|Hayes & Yeading United FC|Hayes & Yeading United|Hayes|United|Hayes & Yeading|HYUFC|The SkyEx Community Stadium,Q476028,,Hayes & Yeading United F.C.
+Haye,Hayek,Q12656402,15,0,1,family name,,Q101352,,Hayek
+Haye,Hayes,Q21871,15,0,1,"commune in Moselle, France",,Q484170,,"Hayes, Moselle"
+Haye,Hayes,Q1591888,15,0,1,family name,,Q101352,,Hayes (surname)
+Haye,Hayes,Q56189781,15,0,1,male given name,,Q202444|Q12308941,,Hayes (given name)
+Haye,Hayes,Q2690370,15,0,1,"area in the London Borough of Bromley, England, UK","Hayes, Bromley",Q532|Q2755753|Q27096213|Q56061,,"Hayes, Bromley"
+Haye,Haya,Q1655422,15,0,2,genus of reptiles (fossil),,Q310890|Q23038290,,Haya griva
+Haye,Armenia,Q399,15,0,2,sovereign state in the South Caucasus region of Eurasia,Hayastan|Republic of Armenia|Hayastani Hanrapetut’yun|Հայաստան,Q3624078|Q123480|Q6256|Q140892892,,Armenia
+Haye,Haya,Q15946232,15,0,2,genus of plants,,Q16521,,
+Haye,Haya,Q96654372,15,0,2,family name,,Q101352,,
+Haye,Haya,Q104127450,15,0,2,female given name,,Q11879590,,
+Haye,Haya,Q24342684,15,0,2,"village in Central Maluku Regency, Maluku, Indonesia",,Q26211545,,
+Haye,modesty in Islam,Q12209731,15,0,2,"modesty, humility and shyness concepts in Islam",decency in Islam|shyness in Islam|scrupule in Islam|haya|haya'|hayaa|humility in Islam|bashfulness in Islam,Q23384401|Q12189625|Q126810953,Q913668|Q11199149|Q1186677,Haya (Islam)
+Haye,Haya,Q25906120,15,0,2,"village in Mamberamo Raya Regency, Papua, Indonesia",,Q12488913,,
+Haye,Hayao Miyazaki,Q55400,15,0,2,"Japanese animator, film director, and mangaka (born 1941)",Miyazaki Hayao|Tsutomu Teruki,Q5,,Hayao Miyazaki
+Haye,Haya River,Q3128804,15,0,2,"river in Kanagawa prefecture, Japan",,Q4022,,Haya River (Kanagawa)
+dley,Dley,Q86868755,16,0,1,family name,,Q101352,,
+dley,Dale,Q3701009,16,0,2,unisex given name,Dale (first name)|Dale (given name),Q3409032,,
+dley,valley,Q39816,16,0,2,"low area between hills, often with a river running through it",dale|river valley,Q12046615,Q190429|Q82794|Q35145263|Q618123,Valley
+dley,Dale,Q13582244,16,0,2,family name,,Q101352,,Dale (surname)
+dley,Dale,Q2608913,16,0,2,"Dale, a city of Middle Earth",,Q20671864,,
+dley,Dale,Q19867000,16,0,2,2015 studio album by Pitbull,,Q482994,,Dale (album)
+dley,DALE,Q11195432,16,0,2,,Hideo Ishibashi,Q5,,
+dley,Dalea,Q2716243,16,0,2,genus of plants,,Q16521,,Dalea
+dley,Dalem,Q22682,16,0,2,"commune in Moselle, France",,Q484170,,"Dalem, Moselle"
+dley,Dale Kloppenburg,Q13377801,16,0,2,American botanist (1921–2022),Kloppenb.|Robert Dale Kloppenburg|R. Dale Kloppenburg,Q5,,
+dley,Dale Gribble,Q5210461,16,0,2,fictional character in the animated series King of the Hill,Dale Alvin Gribble,Q15632617|Q15711870,,Dale Gribble
+dley,Dales,Q37491626,16,0,2,family name,,Q101352,,
+dley,Dalès,Q105394352,16,0,2,family name,Dalès (family name)|Dalès (surname),Q101352,,
+dley,Dales,Q56648587,16,0,2,electoral ward of the unitary authority of Nottingham,Dales Ward,Q589282,,
+dley,Dalesandro,Q37322597,16,0,2,family name,,Q101352,,Dalesandro
+dley,Dalestryj,Q9200923,16,0,2,male given name,,Q12308941,,
+dley,Dalessandri,Q100698453,16,0,2,family name,,Q101352,,
+dley,Dalešice,Q2691176,16,0,2,"městys in Vysočina, Czech Republic",Daleschitz|Dalleschütz,Q5153359|Q16155707,,Dalešice (Třebíč District)
+dley,Dalessio,Q37207031,16,0,2,family name,,Q101352,,
+dley,Dalesme,Q114991953,16,0,2,family name,,Q101352,,
+dley,Dales pony,Q901301,16,0,2,horse breed,,Q1160573,Q188828,Dales Pony
+Skegnss,Skegness,Q977991,17,0,2,"seaside town and civil parish in the East Lindsey district of Lincolnshire, England","Skegness, Lincolnshire",Q3957|Q1115575,,Skegness
+Skegnss,Skegness,Q24666421,17,0,2,Wikimedia duplicated page,"Skegness, Lincolnshire",Q17362920,,
+Skegnss,Skegness railway station,Q2186387,17,0,2,"railway station in Lincolnshire, England, UK",Skegness Station|SKG,Q55488|Q55485,,Skegness railway station
+Skegnss,Skegness,Q22633556,17,0,2,"peninsula in British Columbia, Canada",,Q24529780,,
+Skegnss,Skegness Town A.F.C.,Q8992805,17,0,2,association football club in England,,Q476028,,Skegness Town A.F.C.
+Skegnss,Skegness Grammar School,Q7534319,17,0,2,"school in Lincolnshire, UK",,Q967098|Q4671329|Q159334|Q269770,,Skegness Grammar School
+Skegnss,Skegness and District General Hospital,Q30292862,17,0,2,"healthcare organization in Skegness, United Kingdom",,Q4287745|Q16917,,
+Skegnss,Skegness Standard,Q66382587,17,0,2,former weekly newspaper published in Skegness,,Q11032,,
+Skegnss,Skegness Lifeboat Station,Q15278040,17,0,2,"lifeboat station in Lincolnshire, England, UK",Gibraltar Point Lifeboat Station,Q11997323,,Skegness Lifeboat Station
+Skegnss,Skegness Clay,Q17510410,17,0,2,"geologial formation in England, UK",,Q736917,,Skegness Clay
+Ksupina,,,18,0,0,,,,,
+Glenbroo,Glenbrook station,Q1100211,19,0,1,"railway station in Stamford, Connecticut, United States",Glenbrook,Q55488,,Glenbrook station (Metro-North)
+Glenbroo,Glenbrook North High School,Q5568198,19,0,1,"public high school in Northbrook, Illinois",GBN,Q9826,,Glenbrook North High School
+Glenbroo,Glenbrook South High School,Q5568201,19,0,1,"high school in Illinois, United States",,Q9826,,Glenbrook South High School
+Glenbroo,Glenbrook,Q5568187,19,0,1,"town in New South Wales, Australia","Glenbrook, New South Wales|Glenbrook, New South Wales, Australia",Q3957|Q188509,,"Glenbrook, New South Wales"
+Glenbroo,Glenbrook Hospital,Q30280548,19,0,1,"healthcare organization in Glenview, United States",NorthShore Glenbrook Hospital,Q4287745|Q16917,,
+Glenbroo,Glenbrook,Q3470894,19,0,1,"human settlement in Douglas County, Nevada, United States of America","Glenbrook, NV|Glenbrook, Nevada",Q498162|Q17343829,,"Glenbrook, Nevada"
+Glenbroo,Glenbrook,Q1530898,19,0,1,"locality in Auckland Region, New Zealand","Glenbrook, New Zealand",Q3257686,,"Glenbrook, New Zealand"
+Glenbroo,Northfield Township High School District 225,Q7059402,19,0,1,"high school district in Cook County, Illinois","Glenbrook High School District 225|Glenbrook High Schools|Township High School District 225, Cook County, Illinois",Q398141,,Northfield Township High School District 225
+Glenbroo,Glenbrook railway station,Q5568209,19,0,1,"railway station in Penrith LGA, New South Wales, Australia",Glenbrook Railway Station,Q55488|Q22808404,,"Glenbrook railway station, New South Wales"
+Glenbroo,Glenbrook School,Q106236367,19,0,1,"state full primary school in Waiuku, New Zealand",Brookside School,Q1080794|Q9842,,

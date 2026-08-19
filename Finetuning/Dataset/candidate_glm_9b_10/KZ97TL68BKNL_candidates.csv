@@ -1,0 +1,49 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+SN 2006ps,SN 2006ps,Q9330156,0,0,1,supernova,,Q3937,,
+SN 2006pq,SN 2006pq,Q9330155,1,0,1,supernova,,Q3937,,
+SN 2006pp,SN 2006pp,Q9330153,2,0,1,supernova,,Q3937,,
+SN 2006pp,SN 2006gy,Q644956,2,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006pp,SN 2006X,Q2659966,2,0,2,supernova,,Q3937,,SN 2006X
+SN 2006pp,SN 2005cs,Q597168,2,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006pp,SN 2006jc,Q1747732,2,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006pp,SN 2002cx,Q7391949,2,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006pp,SN 2004et,Q9329248,2,0,2,supernova,,Q3937,,SN 2004et
+SN 2006pp,SN 2006rs,Q9330210,2,0,2,supernova,,Q3937,,
+SN 2006pp,SN 2008cs,Q9330949,2,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006pp,SN 2002dj,Q9328532,2,0,2,supernova,,Q3937,,
+SN 2006pp,SN 2006td,Q9330246,2,0,2,supernova,,Q3937,,
+SN 2006pn,SN 2006pn,Q9330152,3,0,1,supernova,,Q3937,,
+SN 2006po,SN 2006po,Q9330151,4,0,1,supernova,,Q3937|Q67206691,,
+SN 2006pm,SN 2006pm,Q9330150,5,0,1,supernova,,Q3937|Q67206691,,
+SN 2006pl,SN 2006pl,Q9330149,6,0,1,supernova,,Q3937,,
+SN 2006pl,2006 PLFA season,Q4606783,6,0,2,sports season,,Q27020041,,2006 PLFA season
+SN 2006pl,2006 Players Championship,Q4606813,6,0,2,Golf tournament,,Q1971029,,2006 Players Championship
+SN 2006pl,2006 Plzeň municipal election,Q19602835,6,0,2,2006 Czech municipal elections,"Plzeň municipal election, 2006",Q40231,,2006 Plzeň municipal election
+SN 2006pl,2006 Plymouth City Council election,Q65083053,6,0,2,2006 UK local government election,,Q7205780,,2006 Plymouth City Council election
+SN 2006pl,2006 PlaceMakers V8 International,Q28181041,6,0,2,,,Q27020041,,2006 PlaceMakers V8 International
+SN 2006pl,2006 Players' Championships,Q4606811,6,0,2,Grand Slam of Curling event,,Q27020041,,2006 Players' Championship
+SN 2006pl,(161717) 2006 PL23,Q8221836,6,0,2,asteroid,,Q3863,,
+SN 2006pk,SN 2006pk,Q9330148,7,0,1,supernova,,Q3937,,
+SN 2006pj,SN 2006pj,Q9330147,8,0,1,supernova,,Q3937,,
+SN 2006pi,SN 2006pi,Q9330146,9,0,1,supernova,,Q3937,,
+SN 2006ph,SN 2006ph,Q9330145,10,0,1,supernova,,Q3937,,
+SN 2006pg,SN 2006pg,Q9330144,11,0,1,supernova,,Q3937,,
+SN 2006pg,SN 2006gy,Q644956,11,0,2,hypernova,,Q4188,,SN 2006gy
+SN 2006pg,SN 2006X,Q2659966,11,0,2,supernova,,Q3937,,SN 2006X
+SN 2006pg,SN 2005cs,Q597168,11,0,2,supernova,,Q1049029,,SN 2005cs
+SN 2006pg,SN 2006jc,Q1747732,11,0,2,supernova,,Q3937,,SN 2006jc
+SN 2006pg,SN 2002cx,Q7391949,11,0,2,Type Ia supernova,,Q3937,,SN 2002cx
+SN 2006pg,SN 2004et,Q9329248,11,0,2,supernova,,Q3937,,SN 2004et
+SN 2006pg,SN 2006rs,Q9330210,11,0,2,supernova,,Q3937,,
+SN 2006pg,SN 2008cs,Q9330949,11,0,2,supernova,,Q3937|Q1931185|Q67206691,,
+SN 2006pg,SN 2002dj,Q9328532,11,0,2,supernova,,Q3937,,
+SN 2006pg,SN 2006td,Q9330246,11,0,2,supernova,,Q3937,,
+SN 2006pf,SN 2006pf,Q9330143,12,0,1,supernova,,Q3937,,
+SN 2007nq,SN 2007nq,Q9330661,13,0,1,supernova,,Q3937,,
+SN 2007nl,SN 2007nl,Q9330656,14,0,1,supernova,,Q3937,,
+SN 2007nk,SN 2007nk,Q9330655,15,0,1,supernova,,Q3937,,
+SN 2007nj,SN 2007nj,Q9330654,16,0,1,supernova,,Q3937,,
+SN 2007ni,SN 2007ni,Q9330653,17,0,1,supernova,,Q3937,,
+SN 2007nh,SN 2007nh,Q9330652,18,0,1,supernova,,Q3937,,
+SN 2007nf,SN 2007nf,Q9330650,19,0,1,supernova,,Q3937|Q67206691,,
+SN 2007ne,SN 2007ne,Q9330649,20,0,1,supernova,,Q3937,,

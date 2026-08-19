@@ -1,0 +1,386 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Dodoma,Dodoma,Q3866,0,0,1,city and capital of Tanzania,Dodoma City,Q1549591|Q129319315,,Dodoma
+Dodoma,Dodoma Region,Q213268,0,0,1,Region in Tanzania,,Q845820,,Dodoma Region
+Dodoma,Dodoma,Q114787063,0,0,1,Japanese manga series,Doudouma|Dōdōma|Doodooma,Q21198342,,
+Dodoma,Dodoma Urban,Q46947788,0,0,1,Electoral constituency of the National Assembly Tanzania,Dodoma Mjini,Q192611,,
+Dodoma,Dodoma,Q35395983,0,0,1,,,Q187971,,
+Dodoma,Dodoma SGR Terminal,Q131395298,0,0,1,,,Q55488,,
+Dodoma,Dodoma Central Bus Terminal,Q131242015,0,0,1,,Nane Nane Bus Terminal,Q494829|Q2920759,,
+Dodoma,Dodoma Station,Q33878973,0,0,1,Local authority in former German East Africa,Nebestelle Dodoma | Bezirksamt Dodoma,Q327333,,
+Dodoma,Dodoma Rural District,Q3710536,0,0,1,,,Q2409750|Q19953632,,Dodoma Rural District
+Dodoma,Dodoma City District,Q3710545,0,0,1,"district in Dodoma Region, Tanzania",Dodoma Urban District,Q2409750,,Dodoma Municipal Council
+Jaipur,Jaipur,Q66485,1,0,1,"capital of Rajasthan, India",Pink City,Q1549591|Q702492|Q11271835|Q58339518,,Jaipur
+Jaipur,Jaipur district,Q1134781,1,0,1,"district of Rajasthan, India",,Q1149652,,Jaipur district
+Jaipur,Jaipur Moffusil postal division,Q63680610,1,0,1,,,Q63676827,,
+Jaipur,Jaipur International Airport,Q572387,1,0,1,airport,JAI|VIJP,Q1248784|Q94993988,,Jaipur International Airport
+Jaipur,Jaipur Lok Sabha constituency,Q6124117,1,0,1,Lok Sabha Constituency in Rajasthan,,Q47481352,,Jaipur Lok Sabha constituency
+Jaipur,Jaipur,Q6124118,1,0,1,race horse,,Q726,,Jaipur (horse)
+Jaipur,Jaipur,Q1678774,1,0,1,2009 card game,,Q142714,,Jaipur (card game)
+Jaipur,Jaipur division,Q1134770,1,0,1,"administrative division of Rajasthan, India",,Q125907350,,Jaipur division
+Jaipur,Jaipur State,Q6124144,1,0,1,Princely state in India,Jaipur (Princely State)|Jeypore|Kingdom of Amber|Kingdom of Dhoondar,Q1336152|Q417175|Q3024240,,Kingdom of Amber
+Jaipur,Jaipur Junction railway station,Q6124154,1,0,1,"railway junction station in Rajasthan, India",Jaipur railway station,Q55488,,Jaipur Junction railway station
+Jaipur,Rajasthan,Q1437,1,0,2,state in north-western India,Rajputana|IN-RJ,Q12443800,,Rajasthan
+Jaipur,Rajasthan,Q57156509,1,0,2,constituency of the Rajya Sabha coterminous with the Indian state,,Q57156205,,
+Jaipur,University of Rajasthan,Q7896201,1,0,2,"state public university in Jaipur, Rajasthan, India",Rajasthan University,Q3918|Q7603893,,University of Rajasthan
+Jaipur,Rajasthan Marudhara Gramin Bank,Q75790075,1,0,2,bank in India,,Q43015|Q22687,,
+Jaipur,Rajasthan Marudhara Gramin Bank branch,Q75793280,1,0,2,branch of Rajasthan Marudhara Gramin Bank,,,Q21073937,
+Jaipur,Rajasthani,Q13196,1,0,2,Indo-Aryan dialect cluster of northwest India,Rajasthani language,Q1208366|Q33742|Q152559|Q1288568,Q33577|Q10979187,Rajasthani languages
+Jaipur,Rajasthan University of Health Sciences,Q7285851,1,0,2,"state public university in Jaipur, Rajasthan, India","Rajasthan University of Health Sciences, Jaipur",Q3918|Q7603893,,Rajasthan University of Health Sciences
+Jaipur,Rajasthan,Q7285814,1,0,2,1999 Tamil film directed by R.K. Selvamani,,Q11424,,Rajasthan (film)
+Jaipur,constituency of the Rajasthan Legislative Assembly,Q54375498,1,0,2,electoral district for a seat in the unicameral legislature of Rajasthan,Rajasthan Assembly constituency,,Q11774263,
+Jaipur,Rajasthan Royals,Q1209990,1,0,2,Indian Premier League cricket team,RR,Q17376093,,Rajasthan Royals
+Jaipur,Los Angeles,Q65,1,0,2,"seat of Los Angeles County, and largest city in California, United States","Pink City|The town of Our Lady the Queen of the Angels of the Little Portion|La La Land|Tinsel Town|City of Angels|City of Los Angeles|LA, California|Double Dubuque|Los Angeles, CA",Q13218391|Q515|Q200250|Q131338872|Q1093829,,Los Angeles
+Jaipur,Toulouse,Q7880,1,0,2,"French commune and city in Haute-Garonne, Occitania","Tolosa|Toulouse, France|Toulouse, Occitania|Pink City",Q484170|Q1549591|Q1187811,,Toulouse
+Jaipur,OYO 77276 Pink City,Q111070790,1,0,2,"hotel in Jaipur, India",Pink City,Q27686,,
+Jaipur,Pink City International Short Film Festival,Q125611009,1,0,2,,,Q220505,,
+Jaipur,Pink City International Short Film Festival,Q125736522,1,0,2,,,Q220505,,
+Jaipur,"Pink City Engineering College And Research Center, Jaipur",Q91180135,1,0,2,college affiliated to the Rajasthan Technical University,,Q189004,,
+Jaipur,Jaipur City postal division,Q63680608,1,0,2,,,Q63676827,,
+Jaipur,Jaipur City Transport Services Limited,Q6124121,1,0,2,"City bus service for Jaipur, India",,Q10438042,,Jaipur City Transport Services Limited
+Jaipur,Jaipur City Sub Post Office,Q69714031,1,0,2,,,Q61443650,,
+Paris,Paris,Q90,2,0,1,capital and most populous city in France,City of Light|City of Love|Lutetia,Q484170|Q22923920|Q200250|Q1200957|Q208511|Q174844|Q51929311|Q1187811|Q1549591|Q1422929|Q108178728|Q1066984|Q11418818|Q134445478|Q2240381,,Paris
+Paris,Paris Saint-Germain FC,Q483020,2,0,1,"association football club in Paris, France having two UCL",PSGFC|Paris,Q476028,,Paris Saint-Germain FC
+Paris,Paris,Q830149,2,0,1,"city in and county seat of Lamar County, Texas, United States","Paris, Texas|Paris, TX",Q1093829|Q62049,,"Paris, Texas"
+Paris,Paris,Q18331346,2,0,1,family name,Paris (family name),Q101352|Q17143070,,Paris (surname)
+Paris,Paris,Q162121,2,0,1,genus of plants,,Q16521,,Paris (plant)
+Paris,Paris,Q3181341,2,0,1,"county seat of Bourbon County, Kentucky, United States","Paris, Kentucky|Paris, KY",Q1093829|Q62049,,"Paris, Kentucky"
+Paris,Paris,Q1158980,2,0,1,unisex given name,Paris (first name)|Paris (given name),Q3409032,,Paris (given name)
+Paris,parish,Q102496,2,0,1,type of ecclesiastical subdivision of a diocese,church parish|ecclesiastical parish,Q15617994|Q121144515,Q20926517|Q51041800,Parish
+Paris,1924 Summer Olympics,Q8132,2,0,1,"Games of the VIII Olympiad, in Paris, France",Paris 1924|Games of the VIII Olympiad,Q135976384|Q14547231,,1924 Summer Olympics
+Paris,brown rat,Q184224,2,0,1,species of mammal,street rat|sewer rat|wharf rat|water rat|Parisian rat|Norwegian rat|Norway rat|Rattus norvegicus|🐀|rat|Hanover rat,Q16521|Q213907,,Brown rat
+Paris,"Paris, France",Q3365093,2,0,2,1980 studio album by France Gall,,Q482994,,"Paris, France (album)"
+Paris,"Paris, France",Q7137159,2,0,2,1994 film directed by Jerry Ciccoritti,,Q11424,,"Paris, France (film)"
+Paris,"Paris, France",Q119123475,2,0,2,"painting by M. J., Russell-Cotes Art Gallery & Museum",,Q3305213,,
+Paris,"Paris, France",Q79993892,2,0,2,"photograph by Larry Fink (American, b. 1941) (2007.190.34)",,Q4364339|Q125191,,
+Paris,"Paris, France",Q80079913,2,0,2,"photograph by Joel Meyerowitz (American, b. 1938) (2013.281)",,Q4364339|Q125191,,
+Paris,"Paris, France",Q79993824,2,0,2,"photograph by Larry Fink (American, b. 1941) (2007.190.11)",,Q4364339|Q125191,,
+Paris,"Paris, France",Q120058430,2,0,2,"painting by Terry McGlynn (1903–1973), Derbyshire & Derby School Library Service",,Q3305213,,
+Paris,"PARIS, FRANCE (NAID 16042)",Q67691421,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Paris,"PARIS, FRANCE (NAID 16026)",Q67691315,2,0,2,item in the National Archives and Records Administration's holdings,,Q18593264,,
+Libreville,Libreville,Q3825,3,0,1,capital city of Gabon,"Libreville, Gabon",Q515,,Libreville
+Libreville,Charleville-Mézières,Q47383,3,0,1,"commune in Ardennes, France",Libreville|Charleville (réunie à Charleville-Mézières)|Charleville,Q484170,,Charleville-Mézières
+Libreville,Libreville International Airport,Q420847,3,0,1,airport,Leon M'ba Airport|LBV|FOOL,Q644371|Q1248784|Q94993988,,Léon-Mba International Airport
+Libreville,Libreville,Q16655654,3,0,1,,,,,
+Libreville,Librevillea,Q6542751,3,0,1,genus of plants,,Q16521,,Librevillea
+Libreville,Libreville,Q23859838,3,0,1,article in Otto's encyclopedia,,Q13433827,,
+Libreville,Librevillea klainei,Q15529652,3,0,1,species of plant,,Q16521,,
+Libreville,SS Robert J. Banks,Q43445588,3,0,1,Warship,Vadsø|Libreville,Q593485,,SS Robert J. Banks
+Libreville,Libreville,Q111387645,3,0,1,port in Gabon,,Q44782,,
+Libreville,Libreville Hospital,Q6542750,3,0,1,hospital in Gabon,,Q16917,,Libreville Hospital
+Libreville,Gabon,Q1000,3,0,2,country on the Atlantic coast of Central Africa,Gabonese Republic|République Gabonaise|ga|Republique Gabonaise|GAB,Q6256|Q3624078|Q179023,,Gabon
+Libreville,Gabon,Q37551598,3,0,2,family name,,Q101352,,
+Libreville,Gabon men's national football team,Q235416,3,0,2,national association football team,Gabon national football team,Q135408445,Q1194951,Gabon national football team
+Libreville,Komo River,Q2602162,3,0,2,river in Gabon and Equatorial Guinea,Como|Gabon|Komo,Q4022|Q47521,,Komo River
+Libreville,Gabonia,Q3087608,3,0,2,genus of flea beetles,,Q16521,,
+Libreville,Gaboń,Q5515486,3,0,2,"village in Stary Sącz, Poland",Gabon,Q3558970,,Gaboń
+Libreville,Gabonia,Q36997968,3,0,2,genus of bacteria,,Q16521,,
+Libreville,Gabon,Q28554091,3,0,2,painting by Fred Wilson,,Q3305213,,
+Libreville,Bitis gabonica,Q371183,3,0,2,species of snake,gabon viper|Gaboon Adder|Gaboon viper|Gabonese snake,Q16521,,Gaboon viper
+Libreville,Gabonella,Q14628209,3,0,2,genus of insects,,Q16521,,
+Victoria,Victoria,Q590893,4,0,1,female given name,,Q11879590,,
+Victoria,Victoria,Q9439,4,0,1,Queen of the United Kingdom from 1837 to 1901 (1819-1901),"Victoria, Queen of Great Britain|Alexandrina Hanover|Queen Victoria, Queen of the United Kingdom|Queen of Great Britain Victoria|Victoria Alexandrina|Princess Victoria of Kent|Alexandrina Victoria von Hannover|Victoria Hanover|Queen Victoria",Q5,,Queen Victoria
+Victoria,Victoria,Q784496,4,0,1,"seat of Victoria County, Texas, United States","Victoria, Texas|Victoria, TX",Q1093829|Q62049,,"Victoria, Texas"
+Victoria,Victoria,Q36687,4,0,1,state of Australia,"VIC|Victoria, Australia|State of Victoria|State of VIC|Vic.|AU-VIC",Q5852411|Q1351282,,Victoria (state)
+Victoria,Victoria,Q308902,4,0,1,Roman goddess of victory,Winged Victory|Victory|Diva Victoria|Winged Nike,Q11688446|Q205985|Q122966226,,Victoria (mythology)
+Victoria,Victoria,Q7926540,4,0,1,genus of insects,,Q16521,,Victoria (moth)
+Victoria,Victoria,Q312194,4,0,1,genus of plants in the family Nymphaeaceae,,Q16521,,Victoria (plant)
+Victoria,Victoria,Q23831647,4,0,1,family name,,Q101352,,Victoria (surname)
+Victoria,Victoria,Q2132,4,0,1,"capital city of the province of British Columbia, Canada","Victoria, British Columbia|Victoria, BC|Victoria BC|Victoria, Canada|Victoria, B.C.|UN/LOCODE:CAVIC|Victoria (British Columbia)|Victoria Canada|Capital of British Columbia|Victoria, British Columbia, Canada|Victoria, BC, Canada",Q60458065|Q1549591,,"Victoria, British Columbia"
+Victoria,Victoria,Q2485287,4,0,1,"city in Buenos Aires, Argentina","Victoria, Buenos Aires",Q5770918,,"Victoria, Buenos Aires"
+Victoria,Queen Victoria,Q20169527,4,0,2,painting by Thomas Sully,,Q3305213,,
+Victoria,Victoria Memorial,Q1333411,4,0,2,"memorial to Queen Victoria in London, England, UK",Queen Victoria Memorial,Q5003624|Q4989906,,"Victoria Memorial, London"
+Victoria,Queen Victoria Museum and Art Gallery,Q7270538,4,0,2,"museum and art gallery in Launceston, Tasmania",QVMAG,Q33506|Q207694,,Queen Victoria Museum & Art Gallery
+Victoria,Queen Victoria,Q28027883,4,0,2,painting by Franz Xaver Winterhalter (Royal Collection RCIN 406010),Queen Victoria (Winterhalter),Q3305213,,Queen Victoria (Winterhalter)
+Victoria,Queen Victoria,Q20173952,4,0,2,"painting by Thomas Sully (MET, L.1993.45)",Portrait of Queen Victoria,Q3305213,,Portrait of Queen Victoria (Sully)
+Victoria,Statue of Queen Victoria,Q20614583,4,0,2,"statue in Cape Town, South Africa","Queen Victoria|Statue of Queen Victoria, Cape Town",Q179700,,
+Victoria,Queen Victoria,Q28049497,4,0,2,painting replica by Sir George Hayter,,Q3305213|Q1784021,,
+Victoria,Queen Victoria,Q106772616,4,0,2,painting by Thomas Sully (1783–1872),,Q3305213,,
+Victoria,Queen Victoria,Q28050806,4,0,2,painting by Bertha Müller after Heinrich von Angeli,,Q3305213,,
+Victoria,"Victoria, Australia - fuel theft on the increase",Q17653451,4,0,2,Wikinews article,,Q17633526,,
+Victoria,"Victoria, Australia Police investigate suspicious fire near rural town",Q17653467,4,0,2,Wikinews article,,Q17633526,,
+Victoria,Victoria station,Q3097975,4,0,2,"railway station in Victoria, Canada","Victoria, British Columbia railway station|Victoria railway station",Q55488,,Victoria station (British Columbia)
+Victoria,Victoria,Q7926508,4,0,2,"suburb of Gisborne, New Zealand","Victoria, New Zealand",Q188509,,"Victoria, Gisborne"
+Lucknow,Lucknow,Q47916,5,0,1,"capital of Uttar Pradesh, India",Shiraz-i-Hind|Lucnow|Lakhnau|City of Nawabs|Golden City of India|Constantinople of the East,Q1549591|Q51929311|Q11271835,,Lucknow
+Lucknow,Lucknow district,Q1773416,5,0,1,"district of Uttar Pradesh, India",,Q1149652,,Lucknow district
+Lucknow,Chaudhary Charan Singh Airport,Q2672666,5,0,1,airport in India,Lucknow Airport|LKO|VILK|LUCKNOW,Q1248784|Q94993988,,Chaudhary Charan Singh International Airport
+Lucknow,University of Lucknow,Q4253367,5,0,1,"state public university in Lucknow, Uttar Pradesh, India",Lucknow University,Q7603893,,University of Lucknow
+Lucknow,Lucknow Lok Sabha constituency,Q6697765,5,0,1,Lok Sabha Constituency in Uttar Pradesh,,Q47481352,,Lucknow Lok Sabha constituency
+Lucknow,Lucknow,Q6697760,5,0,1,"human settlement in Ontario, Canada","Lucknow, Ontario",Q486972,,"Lucknow, Ontario"
+Lucknow,Lucknow,Q30973024,5,0,1,"locality in Victoria, Australia and suburb of Bairnsdale","Lucknow, Victoria|Lucknow, Bairnsdale|Lucknow, Victoria, Australia",Q3257686|Q188509,,"Lucknow, Victoria"
+Lucknow,Lucknow,Q21907913,5,0,1,"locality in New South Wales, Australia, suburb of Orange","Lucknow, New South Wales|Lucknow, New South Wales, Australia",Q82794|Q3257686|Q188509|Q188509,,"Lucknow, New South Wales"
+Lucknow,Lucknow division,Q2483390,5,0,1,division of Uttar Pradesh state of India,,Q125907346,,Lucknow division
+Lucknow,Lucknow postal division,Q63680811,5,0,1,,,Q63676827,,
+Lucknow,Lucknow University metro station,Q17070265,5,0,2,lucknow Metro's Red Line metro station,,Q928830|Q11670533,,Vishwavidyalaya metro station (Lucknow)
+Lucknow,Lucknow University Faculty of Commerce,Q99287039,5,0,2,campus,,Q1143635,,
+Lucknow,Lucknow University Department of Applied Economics,Q101003843,5,0,2,academic department,,Q2467461,,
+Lucknow,Lucknow Metro,Q6697779,5,0,2,Metro rail system in Lucknow,,Q5503,,Lucknow Metro
+Lucknow,Uttar Pradesh Metro Rail Corporation,Q17070250,5,0,2,"company that operates metro systems in Uttar Pradesh, India",Lucknow Metro Rail Corporation,Q4830453,,Uttar Pradesh Metro Rail Corporation
+Lucknow,LUCKNOW METRO RAIL PROJECT project,Q100336047,5,0,2,,,Q170584,,
+Alcochete,Alcochete,Q605319,6,0,1,municipality of Portugal,,Q13217644,,Alcochete
+Alcochete,Alcochete,Q1004052,6,0,1,civil parish in Alcochete,,Q1131296,,
+Alcochete,Alcochete,Q131541272,6,0,1,,,Q19833170,,
+Alcochete,coat of arms of Alcochete,Q57194150,6,0,1,,Alcochete coat of arms,Q14659,,
+Alcochete,Alcochete bullring,Q25439319,6,0,1,,,Q1193438,,
+Alcochete,Alcochete,Q47068439,6,0,1,Wikimedia disambiguation page,,Q4167410,,
+Seoul,Seoul,Q8684,7,0,1,capital and largest city of South Korea,Seoul Special City|Sŏul T'ŭkpyŏlsi|Wiryeseong|Namgyeong|Hanseong|Hanyang|Keijō|Keijou|Gyeongseong,Q7574799|Q515|Q174844|Q200250|Q51929311|Q108178728|Q129268952,,Seoul
+Seoul,1988 Summer Olympics,Q8470,7,0,1,"Games of the XXIV Olympiad, in Seoul, South Korea",Seoul 1988|Seoul Olympics|1988 Olympics|Games of the XXIV Olympiad|Seoul '88|Seoul 1988 Olympics,Q135976384|Q14547231,,1988 Summer Olympics
+Seoul,Seoul National University,Q39913,7,0,1,"national research university in Seoul, Republic of Korea",SNU|Seoul-dae|Seoul Daehakgyo|Seoul University|Sŏul Taehakkyo,Q265662|Q15936437,,Seoul National University
+Seoul,Seoul National University Hospital,Q4403855,7,0,1,"hospital in Seoul, South Korea",,Q16917|Q125852944,,Seoul National University Hospital
+Seoul,Asan Medical Center,Q4803501,7,0,1,hospital in South Korea,Seoul Asan Hospital,Q16917,,Asan Medical Center
+Seoul,Seoul Broadcasting System,Q928831,7,0,1,South Korean television and radio network,SBS|Eseubieseu,Q1254874|Q1061197|Q891723,,Seoul Broadcasting System
+Seoul,Seoul Metropolitan Subway,Q16950,7,0,1,Seoul metropolitan railway system,Seoul Subway|Seoul Metro|Sudogwon Metro,Q15141321|Q624140|Q5503,,Seoul Metropolitan Subway
+Seoul,Seoul Station,Q20415,7,0,1,"railway station in Seoul, South Korea",,Q18543139|Q22808404|Q22808403,,Seoul Station
+Seoul,Seoul National University Bundang Hospital,Q7451677,7,0,1,hospital in South Korea,,Q16917|Q125852944,,Seoul National University Bundang Hospital
+Seoul,1986 Asian Games,Q495611,7,0,1,10th edition of the Asian Games,10th Asian Games|Seoul 1986,Q167170,,1986 Asian Games
+Seoul,South Korea,Q884,7,0,2,country in East Asia,Republic of Korea|Rep. Korea|S. Korea|Korea Republic|Hanguk|Daehan Minguk|Daehanminguk|Korea (South)|Choson|Silla,Q3624078|Q1520223|Q6256,,South Korea
+Seoul,South Korea men's national football team,Q543842,7,0,2,men's national association football team representing South Korea,Korea Republic national football team|Korea national football team|Korea national soccer team|Korea national team|South Korea national soccer team|South Korea national team|South Korean national football team|South Korea national football team,Q135408445,Q1194951,South Korea national football team
+Seoul,South Korea national under-20 football team,Q495929,7,0,2,national association football team,,Q6979593,Q1194951,South Korea national under-20 football team
+Seoul,South Korea national under-23 football team,Q488454,7,0,2,national association football team,,Q6979593,,South Korea national under-23 football team
+Seoul,Republic of Korea Navy,Q488756,7,0,2,naval warfare branch of South Korea's military,RoKN|South Korean Navy|navy of South Korea|na South Korea|ROK Navy,Q4508,,Republic of Korea Navy
+Seoul,won,Q202040,7,0,2,official currency of the Republic of Korea,KRW|￦|south korea won|the won,Q8142|Q93636179,,South Korean won
+Seoul,President of South Korea,Q6296418,7,0,2,head of state and of government of the Republic of Korea,POTROK|South Korean president|President of the Republic of Korea,Q294414|Q4164871,Q248577|Q2285706,President of South Korea
+Seoul,Blackpink,Q25056945,7,0,2,South Korean girl group,BLΛƆKPIИK|Black Pink|South Korean singer,Q641066,,Blackpink
+Seoul,2020 South Korean legislative election,Q24000518,7,0,2,15 April 2020 legislative election in South Korea,"South Korean legislative election, 2020",Q5518656,,2020 South Korean legislative election
+Seoul,2004 South Korean legislative election,Q487489,7,0,2,legislative election in South Korea,"South Korean legislative election, 2004",Q5518656,,2004 South Korean legislative election
+Rabat,Rabat,Q3551,8,0,1,capital city of Morocco,Rabbat,Q515|Q1549591|Q108178728,,Rabat
+Rabat,Rabat,Q64425480,8,0,1,article in Otto's encyclopedia,,Q13433827,,
+Rabat,Rabat,Q44381,8,0,1,"town near Mdina, Malta",Ir-Rabat,Q3957,,"Rabat, Malta"
+Rabat,Rabat,Q752348,8,0,1,"capital of Gozo, an island of the Maltese archipelago",Victoria|Ir-Rabat,Q515,,"Victoria, Malta"
+Rabat,Rabat-les-Trois-Seigneurs,Q639968,8,0,1,"commune in Ariège, France",,Q484170,,Rabat-les-Trois-Seigneurs
+Rabat,bands,Q814196,8,0,1,"formal neckwear consisting of two oblong pieces of cloth tied at the neck, worn with some forms of clerical, judicial, and academic dress",band|rabat|tabs|preaching bands|barrister's bands|Geneva bands,,Q6985603,Bands (neckwear)
+Rabat,Rabat Prefecture,Q966104,8,0,1,prefecture of Morocco,,Q15623950,,
+Rabat,Bob Marley,Q409,8,0,1,Jamaican reggae musician (1945–1981),"Donald Marley|Nesta Robert Marley|Tuff Gong|Bab Maali|Rabat Nesta Maali|Robert Nesta ""Bob"" Marley|Robert Marley",Q5,,Bob Marley
+Rabat,Rabat,Q65112665,8,0,1,family name,,Q101352,,
+Rabat,Rabaté,Q104591701,8,0,1,family name,Rabaté (family name)|Rabaté (surname),Q101352,,
+Rabat,Rabat-City train station,Q3097378,8,0,2,Moroccan cultural heritage site,,Q55488,,
+Rabat,"Rabat, Morocco",Q119711557,8,0,2,"painting by Roger Eliot Fry (1866–1934), Museums Sheffield",,Q3305213,,
+Aden,Adenoviridae,Q193447,9,0,1,family of medium-sized nonenveloped viruses with double-stranded DNA genome,adenoviruses,Q16521,,Adenoviridae
+Aden,Aden,Q27116634,9,0,1,male given name,,Q12308941,,
+Aden,adenocarcinoma,Q356033,9,0,1,"carcinoma that has material basis in abnormally proliferating cells, derives from epithelial cells, which originate in glandular tissue","CIE-O-C-18.2M8140/32|adenocarcinoma NOS (morphologic abnormality)|adenocarcinoma, no subtype (morphologic abnormality)|adenocarcinomas|adenocarcinoma, nos",Q112193867,Q33525|Q12078,Adenocarcinoma
+Aden,Aden,Q131694,9,0,1,port city and temporary capital of Yemen,,Q486972|Q515|Q1549591|Q27554677,,Aden
+Aden,renal cell carcinoma,Q1164529,9,0,1,renal carcinoma that has material basis in the lining of the proximal convoluted renal tubule of the kidney,"RCC|adenocarcinoma of kidney|hypernephroma (disorder)|hypernephroma|Adenocarcinoma of the Kidney|Kidney Adenocarcinoma|Renal cell carcinoma, NOS|Renal Cell Cancer|Renal Cell Carcinoma|Renal Cell Carcinoma, Stage Unspecified|Renal Cell Adenocarcinoma|CARCINOMA, RENAL CELL, MALIGNANT|carcinoma, renal cell|Peritoneal cavity",Q112193867,Q18556333,Renal cell carcinoma
+Aden,prostatic hypertrophy,Q506659,9,0,1,noncancerous increase in size of the prostate,"prostatic adenoma|adenoma - prostate|adenoma of prostate|benign adenoma of prostate|benign adenoma of prostate (disorder)|prostate adenoma|benign prostatic hyperplasia|benign enlargement of the prostate|benign prostate enlargement|BPH|BEP|BPE|prostatic hyperplasia|Benign Hyperplasia of Prostate|Benign Hyperplasia of the Prostate|Benign Prostatic Hypertrophy|Benign Prostate Hyperplasia|PROSTATIC HYPERPLASIA, BENIGN|Benign Prostatic Hyperplasia - BPH|PROSTATIC HYPERPLASIA, BENIGN; BPH",Q112193867,Q18556445|Q56014511|Q11996371,Benign prostatic hyperplasia
+Aden,Aden Governorate,Q275729,9,0,1,governorate of Yemen,I|First Governorate|Aden Municipality|Muḩāfaz̧at ‘Adan|‘Adan|Baladīyat ‘Adan|Al Muḩāfaz̧ah al Ūlá|Governorate Number One|Aden|'Adan Governorate,Q331130,,Aden Governorate
+Aden,adenosine triphosphate,Q80863,9,0,1,the energy-carrying molecule in living cells,"5'-ATP|adenosine 5' triphosphate|H4atp|[[[(2R,3R,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-tetrahydrofuran-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxyphosphonic acid|[[[(2R,3R,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxy-oxolan-2-yl]methoxy-hydroxy-phosphoryl]oxy-hydroxy-phosphoryl]oxyphosphonic acid|Adenylpyrophosphorate|Adenosine 5'-triphosphorate|Adetol|Phosphobion|Triphosphoric acid adenosine ester|Triphosphaden|Adynol|Adenosine 5'-triphosphoric acid|Atriphos|Triadenyl|Myotriphos|Striadyne|({[({[(2R,3S,4R,5R)-5-(6-amino-9H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy}(hydroxy)phosphoryl)oxy](hydroxy)phosphoryl}oxy)phosphonic acid|Fosfobion|Cardenosine|Adephos|Adenylpyrophosphoric acid|Glucobasin|5'-(Tetrahydrogen triphosphate) Adenosine|Atipi|Adenosine 5'-triphosphate|Adenosine-5'-triphosphate|ATP|Adenosine triphosphata|molecular unit of currency",Q113145171,Q72148863,Adenosine triphosphate
+Aden,Adenia,Q138287,9,0,1,genus of plants,,Q16521,,Adenia
+Aden,Adenophora,Q2452808,9,0,1,genus of plants,,Q16521,,Adenophora
+Edessa,Edessa,Q1190403,10,0,1,"ancient city in upper Mesopotamia, modern day Urfa, Southeast Turkey",Antiochia on the Callirhoe|Callirrhoe|Justinopolis|Mint of Edessa,Q15661340|Q839954|Q148837,,Edessa
+Edessa,Edessa,Q10479886,10,0,1,genus of insects,,Q16521,,Edessa (bug)
+Edessa,Şanlıurfa,Q133118,10,0,1,city in Turkey,Edessa|Sanliurfa|Orrhoe|Urfa,Q2716259|Q1549591|Q515,,Urfa
+Edessa,Edessa,Q209978,10,0,1,"city in Macedonia, Greece","Edessa, Greece|Edessa (Greece)|Vodena|Vodina",Q515,,"Edessa, Greece"
+Edessa,Edessa Municipality,Q12275550,10,0,1,"municipality of Macedonia, Greece",Municipality of Edessa,Q1349648,,
+Edessa,Edessa,Q38281331,10,0,1,ancient city of Macedonia,Mint of Edessa,Q839954|Q148837,,
+Edessa,Edessa,Q111781261,10,0,1,cemetery Edessa Greece,,Q39614,,
+Edessa,Edessa meditabunda,Q49629399,10,0,1,species of hemipterans,brown-winged stink bug|green and brown stink bug,Q16521,,
+Edessa,Edessa rufomarginata,Q1257013,10,0,1,species of insect,,Q16521,,Edessa rufomarginata
+Edessa,Edessa 3 (Pauly-Wissowa),Q19995383,10,0,1,cross-reference in Paulys Realencyclopädie der classischen Altertumswissenschaft (RE),,Q1302249,,
+Marinha Grande,Marinha Grande,Q289852,11,0,1,municipality in Portugal,Marinha Grande Municipality,Q13217644,,Marinha Grande
+Marinha Grande,Marinha Grande,Q2359720,11,0,1,"civil parish in the Marinha Grande municipality, Portugal",,Q1131296,,
+Marinha Grande,Marinha Grande,Q49286541,11,0,1,"capital city of the Marinha Grande municipality, Portugal",,Q15647906|Q15303838,,
+Marinha Grande,Marinha Grande station,Q8841025,11,0,1,railway station in Portugal,,Q55488|Q210272,,
+Marinha Grande,Marinha Grande,Q18431047,11,0,1,"vicariate of the Leiria-Fátima diocese, Portugal",,Q12778511,,
+Marinha Grande,Marinha Grande,Q12771043,11,0,1,Wikimedia disambiguation page,,Q4167410,,
+Ufa,Ufa,Q911,12,0,1,"capital city of the Republic of Bashkortostan, Russia",City of Three Screws,Q1549591|Q5123997|Q7930989|Q129676344,,Ufa
+Ufa,Ufa,Q14867552,12,0,1,genus of insects,,Q16521,,Ufa (moth)
+Ufa,UFA,Q41468,12,0,1,German film company,Universum Film AG|Universum Film,Q1762059,,UFA GmbH
+Ufa,unsaturated fatty acid,Q2250497,12,0,1,fatty acid having at least one double or triple bond within the carbon chain,"Fatty Acids, Unsaturated|UFA|unsaturated fatty acids",Q47154513,Q61476|Q899851,Unsaturated fatty acid
+Ufa,Ufa,Q210870,12,0,1,"river in Bashkiria, Chelyabinsk and Sverdlovsk Oblasts, Russia",Ufa River,Q4022,,Ufa (river)
+Ufa,Franco-German University,Q1201755,12,0,1,organization,DFH|FGU|UFA|Deutsch Französische Hochschule|Universite franco-allemande,Q3457065,,Franco-German University
+Ufa,United Farmers of Alberta,Q1809831,12,0,1,association of Alberta farmers,UFA,Q2996615|Q7278,,United Farmers of Alberta
+Ufa,B-588 Ufa,Q10001676,12,0,1,Russian Project 636.3 attack submarine,Ufa,Q4818021,,Russian submarine Ufa
+Ufa,Ufa,Q117082256,12,0,1,general cargo vessel built in 1997,IMO 9143611|CAFFA,Q105999,,
+Ufa,Ufa,Q118083425,12,0,1,family name,,Q101352,,
+Ufa,Bashkortostan,Q5710,12,0,2,federal subject of Russia,Bashkiria|Bashkiriya|Republic of Bashkortostan|Bashkortostan Republic,Q41162|Q43263,,Bashkortostan
+Ufa,Bashkiria,Q4080196,12,0,2,Bashkir national and territorial autonomy in 1917-1919,Bashkurdistan|Bashkortostan|Lesser Bashkiria|Autonomous Bashkiria,Q99541706|Q3024240,,Bashkiria (1917–1919)
+Ufa,Bashkortostan,Q4080200,12,0,2,Bashkir-language newspaper published in Ufa,,Q11032,,Bashkortostan (newspaper)
+Ufa,Bashkortostan,Q16535915,12,0,2,"State TV and radio company in Bashkortostan, Russia","State TV and radio company ""Bashkortostan""",Q2001305,,
+Ufa,Bashkortostan,Q1051637,12,0,2,"village in Askinsky District, Russia","Bashkortostan, Askinsky District, Bashkortostan",Q532|Q192287,,"Bashkortostan, Askinsky District, Republic of Bashkortostan"
+Ufa,WikiProject Virtual front/Bashkortostan,Q135216363,12,0,2,sub-project of WikiProject Virtual front,WikiProject Bashkortostan|Bashkortostan,Q110059964,,
+Ufa,National Museum of the Republic of Bashkortostan,Q4315030,12,0,2,"museum in Ufa, Russia",Bashkortostan National Museum,Q33506,,
+Ufa,Bashkortostan Academy of Sciences,Q4059242,12,0,2,"nonprofit organization in Ufa, Russia",Academy of Sciences of the Republic of Bashkortostan,Q4671277|Q163740,,
+Ufa,Russian corvette Bashkortostan,Q4273546,12,0,2,1988 Parchim-class corvette,,Q18926983,,Russian corvette Bashkortostan
+Ufa,Bashkortostan Republic Writers Union,Q4430545,12,0,2,,,Q79913,,
+Hanoi,Hanoi,Q1858,13,0,1,capital of Vietnam,Thang Long|Dong Do|Tonkin|Hà Nội|Ha Noi|Đại La,Q1381899|Q1549591,,Hanoi
+Hanoi,Hanoi railway station,Q1207323,13,0,1,railway station in Vietnam,,Q55488,,Hanoi railway station
+Hanoi,7816 Hanoi,Q1156705,13,0,1,asteroid,Hanoi,Q3863,,7816 Hanoi
+Hanoi,Jane Fonda,Q41142,13,0,1,American actress and activist,,Q5,,Jane Fonda
+Hanoi,Hanoisiella exilicosta,Q5649338,13,0,1,species of insect,,Q16521,,Hanoisiella exilicosta
+Hanoi,Hanoi Stock Exchange,Q2227403,13,0,1,formerly Hanoi Securities Trading Centre,Hanoi Securities Trading Center|Hanoi STC|HNX|HSTC,Q4830453|Q11691|Q43229,,Hanoi Stock Exchange
+Hanoi,Hanoi,Q83651584,13,0,1,multi-purpose vessel launched in 2011,IMO 9463865,Q1917626,,
+Hanoi,Hanoi,Q115573928,13,0,1,container ship built in 1997,IMO 9134634,Q17210,,
+Hanoi,Hanoisiella,Q18523676,13,0,1,genus of insects,,Q16521,,Hanoisiella
+Hanoi,Vietnam National University,Q1076729,13,0,1,"university in Hanoi, Vietnam",VNU|VNU-Hanoi|Hanoi National University,Q875538|Q43229,,"Vietnam National University, Hanoi"
+Laayoune,Laayoune,Q47837,14,0,1,largest city in Western Sahara,Laâyoune|El Aiún|El Aaiún|El Aaiun|El Aiun,Q1549591|Q56061|Q3327862,,Laayoune
+Laayoune,Laayoune,Q3219984,14,0,1,"municipality in Tissemsilt Province, Algeria","Layoune, Algeria",Q2989398,,"Laayoune, Algeria"
+Laayoune,Laâyoune Province,Q631610,14,0,1,Province of Morocco,Laayoune Province,Q15629582,,Laâyoune Province
+Laayoune,Laâyoune-Sakia El Hamra,Q19951088,14,0,1,region of Western Sahara,,Q845643,,Laâyoune-Sakia El Hamra
+Laayoune,Laayoune,Q111386458,14,0,1,"port, Western Sahara",,Q44782,,
+Laayoune,El Marsa,Q3544425,14,0,1,port city in Western Sahara,Laayoune Plage,Q2264924|Q3327862,,"El Marsa, Western Sahara"
+Laayoune,Laâyoune-Boujdour-Sakia El Hamra,Q818739,14,0,1,region of Morocco,Laayoune-Boujdour-Sakia El Hamra,Q28716292,,Laâyoune-Boujdour-Sakia El Hamra
+Laayoune,El Aioun Sidi Mellouk,Q3049730,14,0,1,City in Morocco,Laayoune Sidi Mellouk|El Aioun Sidi Mellou,Q515|Q3327862,,El Aioun Sidi Mellouk
+Laayoune,Laâyoune - El Marsa motorway,Q3562206,14,0,1,road in Morocco,,Q34442,,
+Laayoune,Laâyoune constituency,Q96758394,14,0,1,,,Q192611|Q27962440,,
+Laayoune,Western Sahara,Q6250,14,0,2,territory in North and West Africa,West Sahara|Spanish Sahara|Southern Provinces,Q15239622|Q900119|Q2577883,,Western Sahara
+Laayoune,Southern Provinces,Q1418613,14,0,2,term used by the Moroccan government for the part of Western Sahara that it controls,Western Sahara|West Sahara|Moroccan Sahara,Q130533870,,Moroccan-occupied Western Sahara
+Laayoune,Western Sahara War,Q1093550,14,0,2,conflict between rebels in Sahara and Morocco between 1975 and 1991. It began again in 2020,,Q198,,Western Sahara War
+Laayoune,Sahrawi Arab Democratic Republic,Q40362,14,0,2,partially recognised state in the western Maghreb,SADR|🇪🇭|Saharawi Arab Democratic Republic,Q10711424|Q6256,,Sahrawi Arab Democratic Republic
+Laayoune,Western Sahara conflict,Q15731384,14,0,2,military conflict,,Q350604,,Western Sahara conflict
+Laayoune,Western Sahara,Q59598395,14,0,2,Congressional Research Service report,,Q6451276,,
+Laayoune,Western Sahara,Q103973622,14,0,2,encyclopedia article,,Q13433827,,
+Laayoune,Algeria–Western Sahara border,Q3088690,14,0,2,international border,Western Sahara–Algeria border|Algeria-Western Sahara border|Western Sahara-Algeria border|border between Algeria and Western Sahara|border between Western Sahara and Algeria,Q133346|Q15104814|Q12413618,,Algeria–Western Sahara border
+Laayoune,Western Sahara Resource Watch,Q2223446,14,0,2,organization aiming to protect the natural resources in Western Sahara,,Q163740,,Western Sahara Resource Watch
+Laayoune,Mauritania–Western Sahara border,Q3088959,14,0,2,international border,Western Sahara–Mauritania border|Mauritania-Western Sahara border|Western Sahara-Mauritania border|border between Mauritania and Western Sahara|border between Western Sahara and Mauritania,Q133346|Q15104814|Q3089219|Q12413618,,Mauritania–Western Sahara border
+Laayoune,El Aaiun egdat,Q5350688,14,0,2,album by Mariem Hassan,,Q482994,,El Aaiun egdat
+Laayoune,El Aaiun refugee camp,Q123532292,14,0,2,"refugee Camp in Tindouf, Algeria",,Q622499,,El Aaiun refugee camp
+Laayoune,El Aaiún flyktningleir,Q11966982,14,0,2,,,,,
+St. George's,St. George's,Q41547,15,0,1,capital of Grenada,"St. George's, Grenada|St Georges, Granada|Saint Georges, Granada|Saint George's|Saint Georges|Saint George's, Grenada",Q515,,"St. George's, Grenada"
+St. George's,St. George's,Q28063,15,0,1,"town in Bermuda, United Kingdom",St. George,Q532|Q17134625,,"St. George's, Bermuda"
+St. George's,St. George's Parish,Q1521745,15,0,1,parish of Bermuda,Saint George's Parish,Q41806250,,"St. George's Parish, Bermuda"
+St. George's,St. George's,Q7588084,15,0,1,town in Newfoundland and Labrador,"St. George's, Newfoundland and Labrador",Q44529188,,"St. George's, Newfoundland and Labrador"
+St. George's,St. George's Grammar School,Q7588139,15,0,1,High School in South Africa,,Q3914|Q9826|Q159334|Q423208|Q1238718,,St. George's Grammar School (Cape Town)
+St. George's,St. George's,Q56296084,15,0,1,electoral ward in the London borough of Southwark,St. George's Ward,Q589282,,St George's (Southwark ward)
+St. George's,St. George's,Q56295931,15,0,1,electoral ward in the London borough of Islington,St. George's Ward,Q589282,,
+St. George's,"St George's Chapel, Windsor",Q2449634,15,0,1,"place of worship at Windsor Castle in England, United Kingdom","St George's Chapel, Windsor Castle|The Queen's Free Chapel of the College of St George, Windsor Castle|St. George's Chapel|St. George’s Chapel, Windsor Castle",Q1015103,,"St George's Chapel, Windsor Castle"
+St. George's,St. George's Sound,Q49112658,15,0,1,"sound in Florida, US",St George's Sound|St. Georges Sound|Saint George Sound,Q491713,,
+St. George's,St George's Hospital,Q3495316,15,0,1,hospital in Tooting in the London Borough of Wandsworth,"St. George's Hospital, London",Q16917|Q1813474,,St George's Hospital
+St. George's,St. George's Cathedral,Q1062101,15,0,2,"heritage site in Timiș County, Romania",,Q56242215,,"St. George Cathedral, Timișoara"
+St. George's,St. George's Cathedral,Q4256302,15,0,2,"Anglican cathedral in Georgetown, Guyana",,Q56242250,,"St. George's Cathedral, Georgetown"
+St. George's,St. George's Cathedral,Q199785,15,0,2,"cathedral in Chennai, India","St. George's Cathedral, Chennai|CSI St. George's Cathedral, Chennai",Q56242250,,"St. George's Cathedral, Chennai"
+St. George's,St. George's Cathedral,Q2301947,15,0,2,Anglican cathedral in Jerusalem,,Q56242250,,"St. George's Cathedral, Jerusalem"
+St. George's,St. George's Cathedral,Q2499579,15,0,2,"Anglican cathedral in Cape Town, South Africa",Cathedral Church of St George the Martyr,Q56242250,,"St. George's Cathedral, Cape Town"
+St. George's,St. George's Cathedral,Q7588098,15,0,2,"church in Ontario, Canada",,Q56242250,,"St. George's Cathedral (Kingston, Ontario)"
+St. George's,St George's Cathedral,Q1026917,15,0,2,"church in Albany Street, St Pancras, in the London Borough of Camden","Christ Church|St. George's Cathedral|Saint George's Cathedral|St George's Antiochian Orthodox Cathedral, London",Q56242225|Q25416095,,"Christ Church, Albany Street"
+St. George's,St. George's Cathedral,Q25414038,15,0,2,"church in Caracas, Venezuela",,Q2977,,"St. George's Cathedral, Caracas"
+St. George's,St. George's Cathedral,Q641447,15,0,2,"cathedral in Addis Ababa, Ethiopia",Mannāgašā Qǝddus Giyorgis|St George Cathedral,Q2977,,"St. George's Cathedral, Addis Ababa"
+St. George's,St. George's Cathedral,Q96153038,15,0,2,"Greek Orthodox cathedral in As-Suwayda, Syria",,Q16970,,
+St. George's,St. George's Church,Q3581604,15,0,2,"church in Vesoul, Haute-Saône, France","Saint-Georges church|St. George's Church, Vesoul",Q16970,,"St. George's Church, Vesoul"
+St. George's,"St George's, Bloomsbury",Q7588083,15,0,2,"church in London Borough of Camden, England","St. George's, Bloomsbury|St George's Church|St. George's Church|St George's Church, Bloomsbury",Q16970,,"St George's, Bloomsbury"
+St. George's,St. George's Church,Q1992190,15,0,2,"church in Drohobych, Ukraine",,Q744296|Q2031836,,"St. George's Church, Drohobych"
+St. George's,St. George's Church,Q316362,15,0,2,"one of twelve Romanesque churches in the city of Cologne, Germany","Sankt Georg, Köln|Sankt Georg, Cologne",Q120560,,"St. George's Church, Cologne"
+St. George's,St. George's Church,Q93294075,15,0,2,"church building in Wichmannsburg, Lower Saxony","St. George's Church, Wichmannsburg",Q16970,,
+St. George's,St. George's Church,Q28859072,15,0,2,"church building in Sandata, Russia",,Q16970,,St. George's Church (Sandata)
+St. George's,St. George's Church,Q24008080,15,0,2,"church in Gorni Lipovikj, North Macedonia",,Q16970,,
+St. George's,St. George's Church,Q29970609,15,0,2,"church in Mlado Nagoričane, North Macedonia",,Q16970,,
+St. George's,St. George's Church,Q24010955,15,0,2,"church in Konče Municipality, North Macedonia",,Q16970,,
+St. George's,St. George's Church,Q28807545,15,0,2,"church in Sultan-Saly, Russia",,Q44539|Q2319498,,St. George's Church (Sultan-Saly)
+St. George's,St. George's University,Q7588178,15,0,2,"independent international university in Grenada, British West Indies",,Q3918,,St. George's University
+St. George's,St. George's University School of Medicine,Q25112675,15,0,2,"medical school in St. George's, Grenada",,Q4671277,,St. George's University School of Medicine
+St. George's,"St. George's University School of Medicine, Grenada: benefit or liability?",Q71613761,15,0,2,scientific article published on 01 August 1982,,Q13442814,,
+St. George's,St. George's University: an anatomist's experiences during Grenada's revolution and intervention,Q79364321,15,0,2,scientific article published on 01 May 2007,,Q13442814,,
+St. George's,St. George's Hospital,Q110072356,15,0,2,engraving by William Henry Toms,,Q11835431|Q11060274,,
+St. George's,St. George's Hospital in Elbląg,Q43293661,15,0,2,hospital in Poland,,Q16917|Q1406569,,
+St. George's,St. George's Hospital Medical School RFC,Q7588145,15,0,2,"English rugby union club, based in London",,Q14645593,,St. George's Hospital Medical School RFC
+St. George's,St. George's Hospital,Q58737361,15,0,2,,,Q13442814,,
+St. George's,"St George's, University of London",Q772421,15,0,2,"London's medical school, United Kingdom",SGUL|St George's Hospital Medical School|St George's University of London|University of London Saint George's|Saint George's Hospital Medical School,Q494230|Q2467461|Q5341295,,"St George's, University of London"
+St. George's,St. George's Hospital,Q58742846,15,0,2,scientific article published on 01 May 1857,,Q13442814,,
+St. George's,St. George's Hospital,Q58743086,15,0,2,article published in 1857,,Q13442814,,
+St. George's,St. George's Hospital,Q58732876,15,0,2,scientific article published on 01 December 1858,,Q13442814,,
+St. George's,St. George's Hospital,Q58728915,15,0,2,article published in 1830,,Q13442814,,
+Sofia,Sofia,Q18201520,16,0,1,female given name,Sofia (given name)|Sofia (first name),Q11879590,,Sofia (name)
+Sofia,Sofia,Q472,16,0,1,capital city of Bulgaria,Serdica|Sredets|Sredez|Sofija,Q200250|Q15303838|Q15344922|Q89487741|Q1901835|Q51929311,,Sofia
+Sofia,Sofía,Q12375180,16,0,1,female given name,Sofía (first name)|Sofía (given name),Q11879590,,
+Sofia,Sofia,Q2125800,16,0,1,genus of insects,,Q16521,,
+Sofia,Sofia,Q115301523,16,0,1,,,Q5,,
+Sofia,Sofia,Q113969720,16,0,1,,,Q5,,
+Sofia,Sofia,Q1293025,16,0,1,freighter,,Q105999,,
+Sofia,Sofia Alaoui,Q105946284,16,0,1,French-Moroccan film director,Sofia,Q5,,Sofia Alaoui
+Sofia,Sofia Maria Consonni,Q113956659,16,0,1,Italian physicist,,Q5,,
+Sofia,Infanta Sofía of Spain,Q847010,16,0,1,younger child of King Felipe VI and Queen Letizia,"Sofía de Borbón y Ortiz, infanta de España|Princess Sofia",Q5,,Infanta Sofía of Spain
+Sofia,Sofia Airport,Q127951,16,0,2,international airport in Bulgaria,SOF|LBSF|Sofia-Vrazhdebna Airport|Aeroport Sofia,Q644371|Q1248784|Q94993988,,Sofia Airport
+Sofia,Sofia Airport Metro Station,Q19700822,16,0,2,"metro station in Sofia, Bulgaria",,Q928830|Q1335652|Q11670533|Q20202072,,Sofia Airport metro station
+Almeirim,Almeirim,Q841235,17,0,1,municipality in Portugal,,Q13217644,,Almeirim
+Almeirim,Almeirim,Q1998305,17,0,1,civil parish in Almeirim,,Q1131296,,
+Almeirim,Almeirim,Q22067014,17,0,1,"municipality of the state of Pará, Brazil",,Q3184121|Q902814,,"Almeirim, Pará"
+Almeirim,Almeirim,Q31879456,17,0,1,human settlement in Portugal,,Q486972|Q15647906,,
+Almeirim,Almeirim Airport,Q12691501,17,0,1,airport in Brazil,SNYA,Q1248784|Q94993988,,Almeirim Airport
+Almeirim,Almeirim,Q22026763,17,0,1,human settlement in Brazil,,Q486972,,
+Almeirim,"Almeirim, São Tomé and Principe",Q4733758,17,0,1,"place in São Tomé, São Tomé and Príncipe",,Q486972,,"Almeirim, São Tomé and Principe"
+Almeirim,Alijó,Q1998437,17,0,1,civil parish in Alijó,,Q1131296,,
+Almeirim,Almeirim bullring,Q25419523,17,0,1,,,Q1193438|Q210272|Q130313562,,
+Almeirim,coat of arms of Almeirim,Q57196588,17,0,1,,Almeirim coat of arms,Q14659,,
+Dublin,Dublin,Q1761,18,0,1,capital and largest city of Ireland,"Dublin city|City of Dublin|Dublin, Ireland",Q1549591|Q51929311|Q2264924|Q15284,,Dublin
+Dublin,County Dublin,Q173500,18,0,1,county of Ireland,Dublin|Region Dublin|co. Dublin|co Dublin,Q179872|Q19953632|Q67770276,,County Dublin
+Dublin,Dublin,Q16865980,18,0,1,family name,Dublin (surname),Q101352,,Dublin (surname)
+Dublin,Dublin,Q2073605,18,0,1,village in Belarus,,Q65661087,,"Dublin, Belarus"
+Dublin,Dublin City University,Q1202897,18,0,1,university in Ireland,"National Institute for Higher Education, Dublin|DCU",Q875538,,Dublin City University
+Dublin,Dublin,Q988937,18,0,1,"city in Ohio, United States","Dublin, Ohio|Dublin, OH",Q1093829,,"Dublin, Ohio"
+Dublin,Dublin,Q2430201,18,0,1,town in New Hampshire,"Dublin N.H.|Dublin NH|Dublin, NH",Q15127012,,"Dublin, New Hampshire"
+Dublin,Dublin,Q2671021,18,0,1,"city in and the county seat of Laurens County, Georgia, United States","Dublin, Georgia|Dublin, GA",Q1093829|Q62049|Q76514543,,"Dublin, Georgia"
+Dublin,Dublin,Q837109,18,0,1,"city in Alameda County, California, United States","Dublin, California|Dublin, CA",Q13218357,,"Dublin, California"
+Dublin,Irish Journal of Medical Science,Q6070885,18,0,1,journal,Dublin Journal of Medical and Chemical Science|Dublin Journal of Medical Science|Dublin Quarterly Journal of Medical Science,Q5633421|Q16024164,,Irish Journal of Medical Science
+Dublin,Dublin City,Q5310848,18,0,2,"Parliamentary constituency in the United Kingdom, 1801-1885",,Q27971968,,Dublin City (UK Parliament constituency)
+Dublin,Dublin City F.C.,Q1263095,18,0,2,association football club,,Q476028,,Dublin City F.C.
+Dublin,Dublin City,Q4169280,18,0,2,administrative area comprising the former county borough of Dublin,,Q13455645|Q179872,,
+Dublin,Dublin City,Q5310847,18,0,2,constituency before 1801,,Q21815201,,Dublin City (Parliament of Ireland constituency)
+Dublin,Dublin City Council,Q4810766,18,0,2,local government authority for Dublin City in Ireland,Comhairle Cathrach Bhaile Átha Cliath,Q837766|Q55095494,,Dublin City Council
+Dublin,Dublin City,Q112133983,18,0,2,barony in County Dublin,,Q853565,,
+Dublin,Dublin City Council 2014-2019,Q55096378,18,0,2,Legislative term of Dublin City Council,,Q15238777,,
+Dublin,Dublin City University Business School,Q99286976,18,0,2,campus,,Q1143635,,
+Dublin,Dubliners,Q115721589,18,0,2,"people from or residents of Dublin, Ireland","Dublin residents|Dublin, Ireland, residents|Dublin natives|Dublin inhabitants|Dubs",Q33829,Q101094861|Q22947,
+Ashgabat,Ashgabat,Q23438,19,0,1,capital city of Turkmenistan,Poltoratsk|Ashqabad|Aschchabad|Ašgabat|Ashkabat|Ishqabad|'Ishqabad|Asgabat|Askhabad|Ashgabad|Ashabad|`Ishqabad|Ak-Gaudan|Askabad|Ashkhabad|`Ishqábád|Ishqabat|Ashkabad|Aşgabat|Konjikala,Q842412|Q828658|Q10864048|Q1549591,,Ashgabat
+Ashgabat,Ashgabati,Q13037198,19,0,1,demonym,,Q217438,,
+Ashgabat,Ashgabat,Q104008784,19,0,1,encyclopedia article,,Q13433827,,
+Ashgabat,Ashgabat Oblast,Q4073598,19,0,1,,,Q18285142,,
+Ashgabat,Ashgabat railway station,Q4073594,19,0,1,"a railway station in Ashgabat, Turkmenistan",,Q55488,,Ashgabat railway station
+Ashgabat,Ashgabat International Airport,Q1148527,19,0,1,"International airport in Ashgabat, Turkmenistan",Ashgabat Airport|ASB|UTAA,Q644371|Q94993988,,Ashgabat International Airport
+Ashgabat,Ashgabat Stock Exchange,Q137398950,19,0,1,,,Q6881511|Q11691,,
+Ashgabat,Olympic Stadium,Q2343636,19,0,1,"multi-purpose stadium in Ashgabat, Turkmenistan",Saparmurat Turkmenbashi Olympic Stadium|Ashgabat Olympic Stadium,Q483110,,Saparmurat Turkmenbashy Olympic Stadium
+Ashgabat,Ashgabat Complex of game sports,Q23043434,19,0,1,Turkmenistani Olympic stadium,,Q17350442,,Ashgabat Main Indoor Arena
+Ashgabat,Ashgabat Stadium,Q725281,19,0,1,"stadium in Ashgabat, Turkmenistan",,Q483110,,Ashgabat Stadium
+Ashgabat,Turkmenistan,Q874,19,0,2,country in Central Asia,Turkmenia|tm|TKM,Q3624078|Q123480|Q6256,,Turkmenistan
+Ashgabat,Turkmenistan,Q135896319,19,0,2,"human settlement in Daşoguz Region, Turkmenistan (2)",,Q486972,,
+Ashgabat,Turkmenistan,Q135731718,19,0,2,"human settlement in Daşoguz Region, Turkmenistan",,Q486972,,
+Ashgabat,Turkmenistan men's national football team,Q486628,19,0,2,men's national association football team representing Turkmenistan,Turkmenistan national football team,Q135408445,Q1194951,Turkmenistan national football team
+Ashgabat,Turkmenistan,Q4466121,19,0,2,TV channel,,Q2001305,,Turkmenistan (TV channel)
+Ashgabat,Turkmenistan,Q27650318,19,0,2,publishing house in Turkmenistan,,Q2085381,,
+Ashgabat,Democratic Party of Turkmenistan,Q1152752,19,0,2,political party in Turkmenistan that has ruled Turkmenistan since its foundation in 1991,,Q7278,,Democratic Party of Turkmenistan
+Ashgabat,Turkmenistan–Uzbekistan border,Q3088807,19,0,2,separates the territories of Uzbekistan and Turkmenistan,border between Turkmenistan and Ubekistan|border between Ubekistan and Turkmenistan|Turkmenistan-Ubekistan border|Turkmenistan–Ubekistan border|Ubekistan-Turkmenistan border|Ubekistan–Turkmenistan border|Turkmenistan–Uzbekistan barrier,Q133346|Q15104814|Q12413618,,Turkmenistan–Uzbekistan border
+Ashgabat,Turkmenistan new manat,Q486637,19,0,2,currency of Turkmenistan,Turkmenistani new manat|TMT,Q8142|Q12826616,,Turkmen manat
+Ashgabat,Turkmenistan Airlines,Q796158,19,0,2,flag carrier of Turkmenistan,Türkmenhowaýollary|Туркменские авиалинии|T5|TUA,Q46970,,Turkmenistan Airlines
+Kirkuk,Kirkuk,Q173310,20,0,1,city in Iraq,Karkuk|Kerkûk,Q515|Q1549591,,Kirkuk
+Kirkuk,Kirkuk Governorate,Q193268,20,0,1,governorate of Iraq,Kirkuk Province,Q841753,,Kirkuk Governorate
+Kirkuk,Kirkuk District,Q6415857,20,0,1,district in Iraq,,Q4117798,,Kirkuk District
+Kirkuk,Kirkuk Field,Q2517775,20,0,1,oil field,محافظه كركوك العراقيه,Q211748,,Kirkuk Field
+Kirkuk,Kirkuk,Q25552606,20,0,1,,,Q486972,,
+Kirkuk,Kirkuk,Q122698707,20,0,1,ship built in 1972,IMO 7208560,Q11446,,
+Kirkuk,KIRKUK,Q54942016,20,0,1,company in the Czech Republic,,Q4830453|Q6881511,,
+Kirkuk,Kirkuk FC,Q1373282,20,0,1,association football club,,Q476028,,Kirkuk SC
+Kirkuk,Kirkuk University Journal-Scientific Studies,Q96721553,20,0,1,,,Q5633421,,
+Kirkuk,Kirkuk Citadel,Q1144137,20,0,1,"castle in Kirkuk, Iraq",,Q4989906|Q1785071,,Kirkuk Citadel
+Kirkuk,Kirkuk international Airport,Q6415856,20,0,2,airport in Iraq,KIK|ORKK|Kirkuk International Airport,Q1248784|Q94993988,,Kirkuk International Airport
+Belfast,Belfast,Q10686,21,0,1,capital city of Northern Ireland,"Béal Feirste|Beal Feirste|Belfast, Northern Ireland",Q515|Q1549591|Q51929311,,Belfast
+Belfast,Belfast,Q2075675,21,0,1,"city in Waldo County, Maine, United States","Belfast, Maine|Belfast, ME",Q1093829,,"Belfast, Maine"
+Belfast,Belfast,Q100736066,21,0,1,2021 film directed by Kenneth Branagh,,Q11424,,Belfast (film)
+Belfast,Belfast,Q4882228,21,0,1,"unincorporated community in Marshall County, Tennessee, United States","Belfast, Tennessee|Belfast, TN",Q17343829,,"Belfast, Tennessee"
+Belfast,Belfast,Q4882232,21,0,1,single by Boney M.,,Q134556,,Belfast (Boney M. song)
+Belfast,Belfast,Q2894321,21,0,1,2004 studio album by Mägo de Oz,,Q482994,,Belfast (album)
+Belfast,Belfast,Q5725057,21,0,1,ship,,Q11446,,
+Belfast,Belfast,Q1140130,21,0,1,administrative territorial entity of the United Kingdom,Comhairle Cathrach Bhéal Feirste,Q1049540|Q21497886|Q21503295|Q1137272,,
+Belfast,Belfast,Q2894317,21,0,1,"municipality in Prince Edward Island, Canada","Belfast, Prince Edward Island",Q3788231|Q3257686,,"Belfast, Prince Edward Island"
+Belfast,Belfast,Q4882236,21,0,1,"Parliamentary constituency in the United Kingdom, 1832-1885",,Q27971968,,Belfast (UK Parliament constituency)
+Belfast,Belfast City Council,Q55934837,21,0,2,local government body for the city in Northern Ireland,Bilfawst Citie Cooncil|Comhairle Cathrach Bhéal Feirste,Q837766,,Belfast City Council
+Belfast,2011 Belfast City Council election,Q16243687,21,0,2,2011 Northern Irish local government election,"Belfast City Council election, 2011",Q40231,,2011 Belfast City Council election
+Belfast,Belfast City Council election,Q56023992,21,0,2,,,Q107359024,Q152450,
+Belfast,2005 Belfast City Council election,Q24884095,21,0,2,local election in Northern Ireland,"Belfast City Council election, 2005",Q40231,,2005 Belfast City Council election
+Belfast,1973 Belfast City Council election,Q24890604,21,0,2,,"Belfast City Council election, 1973",Q40231,,1973 Belfast City Council election
+Belfast,George Best Belfast City Airport,Q8987,21,0,2,"airport in Belfast, County Antrim, Northern Ireland",Belfast City Airport|BHD|EGAC|Belfast City (George Best),Q644371|Q1248784|Q94993988,,Belfast City Airport
+Belfast,Belfast Harbour Commissioners,Q104780922,21,0,2,http://www.belfast-harbour.co.uk,,Q105453377,,
+Tehran,Tehran,Q3616,22,0,1,capital city of Iran,Ṭihrán,Q56557504|Q174844|Q208511|Q108178728,,Tehran
+Tehran,Tehran Province,Q590866,22,0,1,province of Iran,,Q1344695,,Tehran province
+Tehran,University of Tehran,Q737835,22,0,1,"university in Tehran, Iranian national heritage site",Tehran University|UT|University of Teheran|Teheran University,Q875538|Q209465|Q2065736,,University of Tehran
+Tehran,Tehran University of Medical Sciences,Q7694901,22,0,1,"university in Tehran, Iranian national heritage site",TUMS,Q1916585|Q209465|Q2065736,,Tehran University of Medical Sciences
+Tehran,Tehran,Q90389788,22,0,1,Israeli spy drama television series,,Q5398426,,Tehran (TV series)
+Tehran,Behesht-e Zahra,Q814479,22,0,1,"cemetery in metropolitan Tehran, Iran",Tehran General Cemetery|General Cemetery of Tehran|Bihisht-i Zahra|Behesht-e Zahra Cemetery,Q39614,,Behesht-e Zahra
+Tehran,Tehran,Q17361623,22,0,1,British Thoroughbred racehorse and sire,,Q726,,Tehran (horse)
+Tehran,Amirkabir University of Technology,Q4746780,22,0,1,"public, research university located in Tehran, Iran",Tehran Polytechnic|Tehran Polytechnic University,Q62078547,,Amirkabir University of Technology
+Tehran,Tiran,Q2633350,22,0,1,"city in Isfahan Province, Iran",Tīrān|Tehrān|Tihrān|Tirūn,Q56557504,,"Tiran, Iran"
+Tehran,Tehran,Q111905449,22,0,1,episode of Veep,,Q21191270,,
+Tehran,Islamic City Council of Tehran,Q5123141,22,0,2,"local authority of Tehran, Iran",Tehran City Council,Q3154693,,Islamic City Council of Tehran
+Tehran,City Theater of Tehran,Q2276437,22,0,2,"theater in Tehran, Iranian national heritage site",Tehran City Theater,Q24354|Q42898444|Q2065736,,City Theater of Tehran
+Tehran,Tehran City Council,Q39074584,22,0,2,Tehran City Council during the Pahlavi period,,Q3154693,,Tehran City Council (1968–1979)
+Tehran,2006 Tehran City Council election,Q39060031,22,0,2,,"Tehran City Council election, 2006",Q40231,,2006 Tehran City Council election
+Tehran,2013 Tehran City Council election,Q39060030,22,0,2,Iranian local election,"Tehran City Council election, 2013",Q40231,,2013 Tehran City Council election
+Tehran,2003 Tehran City Council election,Q39060034,22,0,2,,"Tehran City Council election, 2003",Q40231,,2003 Tehran City Council election
+Tehran,1999 Tehran City Council election,Q39060039,22,0,2,Iranian local election,"Tehran City Council election, 1999",Q40231,,1999 Tehran City Council election
+Tehran,2017 Tehran City Council election,Q39060027,22,0,2,,"Tehran City Council election, 2017",Q40231,,2017 Tehran City Council election
+Tehran,Tehranis,Q132776078,22,0,2,"people from or residents of Tehran, Iran","Tehrani|Tehran residents|Tehran, Iran, residents",Q33829,Q397297|Q22947,

@@ -1,0 +1,29 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Black Loch,Black Loch,Q4921202,0,0,1,"lake in New Cumnock, East Ayrshire, Scotland, UK, outflows south va a watercourse to Loch Creoch",,Q23397,,Black Loch (New Cumnock)
+Black Loch,Black Loch,Q880374,0,0,1,"lake dammed as reservoir in Falkirk, Scotland, UK, outflows south to North Calder Water",,Q23397|Q131681,,Black Loch
+Black Loch,Black Loch,Q24656849,0,0,1,"lake in Dumfries and Galloway, Scotland, UK, outflows north to Messan Burn",Loch Crindil,Q23397,,
+Black Loch,Black Loch,Q24680046,0,0,1,"lake in Kincardineshire, Aberdeenshire, Scotland, UK",,Q23397,,
+Black Loch,Black Loch,Q112877628,0,0,1,"lake on Kintyre, Argyll and Bute, Scotland, UK, outflows east via a watercourse to Smerby Burn",,Q23397,,
+Black Loch,Black Loch,Q111840712,0,0,1,"lake in Dumfries and Galloway, Scotland, UK, outflows via a minor watercourse to Loch Hempton",,Q23397,,
+Black Loch,Black Loch,Q64759325,0,0,1,"lake south of Blairgowrie in Perth and Kinross, Scotland, UK",,Q23397,,Black Loch (Perth and Kinross)
+Black Loch,Black Loch,Q24656850,0,0,1,"lake in East Renfrewshire, Scotland, UK",,Q23397,,
+Black Loch,Black Loch,Q24656851,0,0,1,"lake in Fife, Scotland, UK",,Q23397,,
+Black Loch,Black Loch,Q124748281,0,0,1,"lake in West Dunbartonshire, Scotland, UK",,Q23397,,
+Griesweiher,Griesweiher,Q1546531,1,0,1,reservoir,,Q131681,,
+Griesweiher,Griesweiher Niederschönenfeld,Q113649301,1,0,1,,,Q337567|Q358976,,
+Griesweiher,Griesweiher,Q30531376,1,0,1,Wikimedia disambiguation page,,Q4167410,,
+Kent Lake,Kent Lake,Q25238480,2,0,1,"reservoir lake in Oakland County, Michigan, USA",,Q131681,,Kent Lake (Michigan)
+Kent Lake,Kent Lake,Q6391810,2,0,1,"reservoir in Marin County, California",,Q131681,,Kent Lake
+Kent Lake,Kent Lake,Q22384207,2,0,1,"lake in Thompson-Nicola Regional District, British Columbia, Canada (lat 50.36, lon -120.62)",,Q23397,,
+Kent Lake,Kent Lake,Q20706870,2,0,1,lake of the United States of America,,Q23397,,Kent Lake (Minnesota)
+Kent Lake,Kent Lake,Q22384332,2,0,1,"lake in Ontario, Canada",,Q23397,,
+Kent Lake,Kent Lake,Q22384187,2,0,1,"lake in Thompson-Nicola Regional District, British Columbia, Canada (lat 50.28, lon -121.93)",,Q23397,,
+Kent Lake,Kent Lake,Q22384289,2,0,1,,,Q23397,,
+Kent Lake,Kent Lake,Q35718141,2,0,1,"lake in Burnett County, Wisconsin, United States of America",,Q23397,,
+Kent Lake,Kent Lake,Q22384227,2,0,1,"lake in Manitoba, Canada",,Q23397,,
+Kent Lake,Kent Lake,Q49303382,2,0,1,"lake in Boundary County, Idaho, United States of America",,Q23397,,
+Kent Lake,Lake Kentsi,Q25508852,2,0,2,reservoir in Estonia,,Q131681|Q23397,,
+Alamo Lake,Alamo Lake,Q4705968,3,0,1,"lake in Arizona, United States",,Q131681,,
+Alamo Lake,Alamo Lake,Q4705962,3,0,1,"census-designated place in La Paz County, Arizona","Alamo Lake, Arizona|Alamo Lake, AZ",Q498162,,"Alamo Lake, Arizona"
+Alamo Lake,Alamo Lake State Park,Q23902089,3,0,1,"State park in Arizona, United States",,Q37944886,,Alamo Lake State Park
+Alamo Lake,Alamo Dam,Q48978452,3,0,1,"dam in Arizona, United States",,Q12323,,

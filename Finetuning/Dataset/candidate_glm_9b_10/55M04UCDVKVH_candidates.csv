@@ -1,0 +1,7 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Venusaur,Venusaur,Q2283930,0,0,1,Pokémon species,Fushigibana,Q25930653|Q25930717|Q386208,Q1569167,Venusaur
+Venusaur,evolutionary line of Bulbasaur,Q12015638,0,0,1,evolution of a Pokémon species,"Bulbasaur|Ivysaur|Venusaur|Bulbasaur, Ivysaur and Venusaur",Q15795637,,
+Venusaur,Venusaurite,Q56676353,0,0,1,Mega Stone,Fushigibanite,Q56676211,,
+Dipplin,Dipplin,Q121303237,1,0,1,Pokémon species,Kamicchu,Q25930653|Q25930759,Q1569167,Dipplin
+Dipplin,Dipplinger,Q131858946,1,0,1,family name,,Q101352,,
+Dipplin,Dipplingane,Q49183537,1,0,1,,,Q1681353,,

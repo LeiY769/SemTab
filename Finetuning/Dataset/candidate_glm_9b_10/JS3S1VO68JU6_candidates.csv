@@ -1,0 +1,121 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Bau,Bautzen,Q14835,0,0,1,"town in Bautzen District, Saxony, Germany",Budissin|Budyšin,Q448801|Q42744322|Q134626,,Bautzen
+Bau,Bauer,Q1965022,0,0,1,family name,,Q101352|Q829026,,Bauer (surname)
+Bau,Bau,Q12475386,0,0,1,"village in North Morowali Regency, Central Sulawesi, Indonesia",,Q26211545,,
+Bau,Bauhinia,Q287313,0,0,1,genus of plants,,Q16521,,Bauhinia
+Bau,Bau,Q17999145,0,0,1,"village in Bittuang District, Tana Toraja Regency, South Sulawesi, Indonesia",,Q12494403,,
+Bau,Bau,Q37096798,0,0,1,family name,Bau (family name)|Bau (last name)|Bau (surname),Q101352,,Bau (surname)
+Bau,Bau,Q25932339,0,0,1,"village in Bonggakaradeng District, Tana Toraja Regency, South Sulawesi, Indonesia",,Q12494403,,
+Bau,Buddhism,Q748,0,0,1,Indian religion,Buddha Dhamma|Buddha Dharma|Buddhist religion|Bauddha Dharma|Dhamma|Dharma|Bauddha Dhamma|Dharmavinaya|Fojiao|Fo-Kiao|Fo-chiao,Q9174|Q6957341|Q2915955|Q49447|Q32090,Q1651597|Q53001749,Buddhism
+Bau,Bauru,Q241645,0,0,1,"municipality of São Paulo state, Brazil",,Q3184121|Q1549591,,Bauru
+Bau,Baum,Q811486,0,0,1,family name,,Q101352|Q1714800,,Baum
+area,Area,Q18522412,0,1,1,genus of insects,,Q16521,,Area (moth)
+area,Area,Q2703857,0,1,1,Italian musical group,,Q215380,,Area (Italian band)
+area,area,Q11500,0,1,1,measure of the extent of a two-dimensional region on a curved surface or flat plane,surface area,,Q107715|Q30337763|Q181175|Q123410660|Q3386703|Q123410660|Q1991596,Area
+area,territory,Q4835091,0,1,1,geographic region belonging to or controlled by a person or entity,territorial region|area|territorial entity|geographic area,Q137022846,Q82794,
+area,area,Q1414991,0,1,1,country subdivision,,Q104098715,Q4835091,Area (country subdivision)
+area,Area,Q25906975,0,1,1,"village in Nduga Regency, Highland Papua, Indonesia",,Q12488913,,
+area,level,Q1046315,0,1,1,"in a video game, space available to the player in completing an objective",map|stage|area|world|zone|rack|board|mission|video game level|course|game level,Q110915008,Q7048977|Q617332|Q65308157|Q386724,Level (video games)
+area,Area,Q4788511,0,1,1,journal,,Q5633421|Q737498|Q73364223,,Area (journal)
+area,zone,Q219858,0,1,1,part of a larger area or volume with some distinguishing characteristic,area|belt|district|region|section|sector|sphere|territory|subdivision,Q151885,Q13196193|Q3622002|Q140466150,
+area,National Landscape,Q174945,0,1,1,designated area of countryside in England and Wales,AONB|UK85|AHNE (Wales)|National Landscape (England and Wales)|Area of Outstanding Natural Beauty|Area of Outstanding Natural Beauty (England and Wales),Q5162954|Q108028209,Q473972|Q386426,National Landscape
+area,Bautzen,Q14835,0,1,2,"town in Bautzen District, Saxony, Germany",Budissin|Budyšin,Q448801|Q42744322|Q134626,,Bautzen
+area,Bauer,Q1965022,0,1,2,family name,,Q101352|Q829026,,Bauer (surname)
+area,Bau,Q12475386,0,1,2,"village in North Morowali Regency, Central Sulawesi, Indonesia",,Q26211545,,
+area,Bauhinia,Q287313,0,1,2,genus of plants,,Q16521,,Bauhinia
+area,Bau,Q17999145,0,1,2,"village in Bittuang District, Tana Toraja Regency, South Sulawesi, Indonesia",,Q12494403,,
+area,Bau,Q37096798,0,1,2,family name,Bau (family name)|Bau (last name)|Bau (surname),Q101352,,Bau (surname)
+area,Bau,Q25932339,0,1,2,"village in Bonggakaradeng District, Tana Toraja Regency, South Sulawesi, Indonesia",,Q12494403,,
+area,Buddhism,Q748,0,1,2,Indian religion,Buddha Dhamma|Buddha Dharma|Buddhist religion|Bauddha Dharma|Dhamma|Dharma|Bauddha Dhamma|Dharmavinaya|Fojiao|Fo-Kiao|Fo-chiao,Q9174|Q6957341|Q2915955|Q49447|Q32090,Q1651597|Q53001749,Buddhism
+area,Bauru,Q241645,0,1,2,"municipality of São Paulo state, Brazil",,Q3184121|Q1549591,,Bauru
+area,Baum,Q811486,0,1,2,family name,,Q101352|Q1714800,,Baum
+area,Square,Q739552,0,1,2,Japanese video game company,"Square Co., Ltd.|Square Company, Limited|Square Co.",Q210167,,Square (video game company)
+area,square,Q174782,0,1,2,"open public spaces in cities or towns, usually rectilinear, surrounded by buildings, and often located at the junction of two or more thoroughfares",public square|city square|town square|plaza|piazza|urban square|maydon|pedestrian plaza,,Q811979|Q111415237|Q2015628|Q83620|Q2221906,Town square
+area,Square Enix,Q207784,0,1,2,"Japanese video game developer, publisher, and distribution company","Square Enix Holdings Co., Ltd.|SQUARE ENIX CO., LTD.|Square Enix Holdings|Square-Enix|SQEX|SE",Q210167|Q1320047|Q1137109|Q59284933|Q891723,,Square Enix
+area,square kilometre,Q712226,0,1,2,decimal multiple of the SI unit of surface area,square kilometer|km²|km2|sqkm|sq km|km^2|square kilometers|square kilometres|square km,Q1371562|Q208469,,Square kilometre
+area,square,Q164,0,1,2,regular quadrilateral,2-orthoplex|bicross|2-cube|2-cross-polytope|regular quadrilateral,Q815741,Q209|Q41159|Q97150652|Q7333618|Q213723|Q1187914|Q268132|Q97292781|Q97292589|Q97321271|Q97321363,Square
+area,Square,Q37549483,0,1,2,family name,,Q101352,,
+area,"Block, Inc.",Q110778747,0,1,2,American financial services company,"Block|SQUARE INC.|Square|SQ|SQ2|Block, Inc. (San Francisco, CA)|XYZ",Q4830453|Q6881511|Q891723|Q1194970,,"Block, Inc."
+area,square metre,Q25343,0,1,2,SI unit of area,㎡|square meter|m²|m2|m^2|sq m|square meters|square metres,Q1371562|Q69197847,,Square metre
+area,Square,Q111418788,0,1,2,2022 video game,,Q7889,,
+area,square mile,Q232291,0,1,2,unit of area,mi²|mi2|square miles|sq mi|sqmi|sq. mi.|s. m.|sq. m.|sqr. m.,Q1371562|Q82047057,,Square mile
+area,universe,Q1,0,1,2,"totality consisting of space, time, matter and energy",macrocosm|the universe|the cosmos|our universe|cosmos|yin and yang|world|space|outer space|metagalaxy|heaven and earth|existence|everything|all|system|creation,Q36906466,,Universe
+area,space,Q380933,0,1,2,"blank area that separates words, sentences, syllables, or other written or printed glyphs; precise typographical rules differ according to language and context",blank,Q32483,Q591615|Q2026327,Space (punctuation)
+area,Spacewatch,Q213563,0,1,2,University of Arizona project for study of minor planets and comets,,Q550089,,Spacewatch
+area,outer space,Q4169,0,1,2,void between celestial bodies,space|deep space|exosphere|extra-atmospheric space,Q82794,Q11475|Q107,Outer space
+area,Space,Q61977583,0,1,2,2014 video game,,Q7889,,
+area,Space,Q2515788,0,1,2,album by Steve Jolliffe,,Q482994,,
+area,SPACE,Q63968426,0,1,2,"hackspace in Ilmenau, Germany",S P A C E,Q1032372|Q45820240|Q163740,,
+area,SpaceX,Q193701,0,1,2,American spaceflight and AI company,,Q936518|Q11753232|Q4830453|Q891723,,SpaceX
+area,space,Q107,0,1,2,three-dimensional extent in which objects exist and events occur,physical space|Space (physics),,Q53617489|Q5196078,Space
+area,Houston,Q16555,0,1,2,"seat of Harris County, and largest city in State of Texas, United States","Space City|H-Town|City of Houston|USHOU|Houston, TX|Houston TX|Petro metro",Q1093829|Q1549591|Q62049|Q2264924,,Houston
+cuerda,Cuerda,Q90581862,1,0,1,family name,Cuerda (family name)|Cuerda (surname),Q101352,,
+cuerda,Cuerdale,Q2374221,1,0,1,"civil parish in Lancashire, UK","Cuerdale (civil parish), Lancashire|Cuerdale, Lancashire",Q1115575,,Cuerdale
+cuerda,cuerda,Q23931245,1,0,1,unit of area,Spanish acre,Q1371562,,
+cuerda,cuerda,Q17087835,1,0,1,various units of measurement in Spanish-speaking regions,,,Q47574,Cuerda
+cuerda,rope,Q31029,1,0,1,"long, flexible, and strong object, usually round in shape, made of threads, strands, or filaments twisted or braided together",,,Q111726451|Q17144541|Q28823|Q320809|Q2424752,Rope
+cuerda,Cuerda,Q115502533,1,0,1,"triangulation station in Boniches, Spain",,Q131862,,
+cuerda,Cuerda,Q115502532,1,0,1,"triangulation station in Toledo, Spain",,Q131862,,
+cuerda,Cuerdale Hoard,Q2622849,1,0,1,Lancashire Viking silver hoard,,Q164099,,Cuerdale Hoard
+cuerda,Cuerda del Pozo Reservoir,Q8775316,1,0,1,,,Q131681,,
+cuerda,Cuerda de presos,Q29022776,1,0,1,1955 film by Pedro Lazaga,,Q11424,,
+cuerda,Cord,Q1132073,1,0,2,male given name,Cord (given name)|Cord (first name),Q12308941,,
+cuerda,Córdoba Province,Q44759,1,0,2,province of Argentina,Cordoba Province|Provincia de Cordoba,Q44753,,"Córdoba Province, Argentina"
+cuerda,Córdoba,Q5818,1,0,2,"municipality in the province of Córdoba, Spain",Cordova|Cordoba|Cordova municipality|Municipality of Cordova,Q2074737,,"Córdoba, Spain"
+cuerda,Córdoba,Q44210,1,0,2,"city in Argentina, capital of its province","Córdoba, Argentina|Cordoba, Argentina|Córdoba capital",Q5770918,,"Córdoba, Argentina"
+cuerda,Cord,Q37239032,1,0,2,family name,,Q101352,,
+cuerda,Cordyceps militaris,Q2118699,1,0,2,species of fungus,,Q16521,,Cordyceps militaris
+cuerda,Cordia,Q716132,1,0,2,genus of plants,,Q16521,,Cordia
+cuerda,Cordyceps,Q312238,1,0,2,genus of fungi,,Q16521,,Cordyceps
+cuerda,Corduliidae,Q504497,1,0,2,family of dragonflies,Emerald dragonflies|Green-eyed skimmers,Q16521,,Corduliidae
+cuerda,Cordelia,Q831123,1,0,2,female given name,Cordelia (given name)|Cordelia (first name),Q11879590,,Cordelia
+cuerda,String,Q37484380,1,0,2,family name,,Q101352,,
+cuerda,string,Q184754,1,0,2,data type representing a finite sequence of encoded characters,character string,Q827335,Q133250|Q173285|Q190087,String (computer science)
+cuerda,Phaseolus vulgaris,Q42339,1,0,2,species of plant,string bean|snap bean|common bean,Q16521,Q192691|Q11992872,Phaseolus vulgaris
+cuerda,string,Q11064354,1,0,2,"long, flexible structure made from fibers or plies twisted together",line|thread,,Q2424752|Q517596|Q111726451,String
+cuerda,double bass,Q80019,1,0,2,acoustic stringed instrument of the violin family,string bass|upright bass|doghouse bass|contrabass|stand-up bass|bull fiddle|jazz bass|bass viol|bass (stringed instrument),Q110295396|Q810447,Q40125,Double bass
+cuerda,string,Q326426,1,0,2,string or wire that vibrates in a string instrument to produce a musical tone,instrument string|instrument wire|musical string|musical wire,Q2424752,Q11064354|Q19659292|Q349669|Q34379,String (music)
+cuerda,Stringer,Q16883926,1,0,2,family name,,Q101352,,Stringer (surname)
+cuerda,word,Q2594083,1,0,2,"finite formal sequence of symbols in theorical mathematics of formal languages, applied to information science, computer science, and telecommunications",string of formal language|string|string of symbols|word in a formal language,Q151885,Q184754|Q133250,String (formal languages)
+cuerda,string quartet,Q207338,1,0,2,musical ensemble of four string players,string quartet ensemble,Q105756498,Q1135557|Q11072804,String quartet
+cuerda,string theory,Q33198,1,0,2,"physical theory of quantized one-dimensional objects with conformal symmetry, which can describe gravitation, gauge theory and other phenomena",,Q4162444,Q18362|Q3239681,String theory
+area,Area,Q18522412,1,1,1,genus of insects,,Q16521,,Area (moth)
+area,Area,Q2703857,1,1,1,Italian musical group,,Q215380,,Area (Italian band)
+area,area,Q11500,1,1,1,measure of the extent of a two-dimensional region on a curved surface or flat plane,surface area,,Q107715|Q30337763|Q181175|Q123410660|Q3386703|Q123410660|Q1991596,Area
+area,territory,Q4835091,1,1,1,geographic region belonging to or controlled by a person or entity,territorial region|area|territorial entity|geographic area,Q137022846,Q82794,
+area,area,Q1414991,1,1,1,country subdivision,,Q104098715,Q4835091,Area (country subdivision)
+area,Area,Q25906975,1,1,1,"village in Nduga Regency, Highland Papua, Indonesia",,Q12488913,,
+area,level,Q1046315,1,1,1,"in a video game, space available to the player in completing an objective",map|stage|area|world|zone|rack|board|mission|video game level|course|game level,Q110915008,Q7048977|Q617332|Q65308157|Q386724,Level (video games)
+area,Area,Q4788511,1,1,1,journal,,Q5633421|Q737498|Q73364223,,Area (journal)
+area,zone,Q219858,1,1,1,part of a larger area or volume with some distinguishing characteristic,area|belt|district|region|section|sector|sphere|territory|subdivision,Q151885,Q13196193|Q3622002|Q140466150,
+area,National Landscape,Q174945,1,1,1,designated area of countryside in England and Wales,AONB|UK85|AHNE (Wales)|National Landscape (England and Wales)|Area of Outstanding Natural Beauty|Area of Outstanding Natural Beauty (England and Wales),Q5162954|Q108028209,Q473972|Q386426,National Landscape
+cuerda,Cuerda,Q90581862,1,2,1,family name,Cuerda (family name)|Cuerda (surname),Q101352,,
+cuerda,Cuerdale,Q2374221,1,2,1,"civil parish in Lancashire, UK","Cuerdale (civil parish), Lancashire|Cuerdale, Lancashire",Q1115575,,Cuerdale
+cuerda,cuerda,Q23931245,1,2,1,unit of area,Spanish acre,Q1371562,,
+cuerda,cuerda,Q17087835,1,2,1,various units of measurement in Spanish-speaking regions,,,Q47574,Cuerda
+cuerda,rope,Q31029,1,2,1,"long, flexible, and strong object, usually round in shape, made of threads, strands, or filaments twisted or braided together",,,Q111726451|Q17144541|Q28823|Q320809|Q2424752,Rope
+cuerda,Cuerda,Q115502533,1,2,1,"triangulation station in Boniches, Spain",,Q131862,,
+cuerda,Cuerda,Q115502532,1,2,1,"triangulation station in Toledo, Spain",,Q131862,,
+cuerda,Cuerdale Hoard,Q2622849,1,2,1,Lancashire Viking silver hoard,,Q164099,,Cuerdale Hoard
+cuerda,Cuerda del Pozo Reservoir,Q8775316,1,2,1,,,Q131681,,
+cuerda,Cuerda de presos,Q29022776,1,2,1,1955 film by Pedro Lazaga,,Q11424,,
+cuerda,Cord,Q1132073,1,2,2,male given name,Cord (given name)|Cord (first name),Q12308941,,
+cuerda,Córdoba Province,Q44759,1,2,2,province of Argentina,Cordoba Province|Provincia de Cordoba,Q44753,,"Córdoba Province, Argentina"
+cuerda,Córdoba,Q5818,1,2,2,"municipality in the province of Córdoba, Spain",Cordova|Cordoba|Cordova municipality|Municipality of Cordova,Q2074737,,"Córdoba, Spain"
+cuerda,Córdoba,Q44210,1,2,2,"city in Argentina, capital of its province","Córdoba, Argentina|Cordoba, Argentina|Córdoba capital",Q5770918,,"Córdoba, Argentina"
+cuerda,Cord,Q37239032,1,2,2,family name,,Q101352,,
+cuerda,Cordyceps militaris,Q2118699,1,2,2,species of fungus,,Q16521,,Cordyceps militaris
+cuerda,Cordia,Q716132,1,2,2,genus of plants,,Q16521,,Cordia
+cuerda,Cordyceps,Q312238,1,2,2,genus of fungi,,Q16521,,Cordyceps
+cuerda,Corduliidae,Q504497,1,2,2,family of dragonflies,Emerald dragonflies|Green-eyed skimmers,Q16521,,Corduliidae
+cuerda,Cordelia,Q831123,1,2,2,female given name,Cordelia (given name)|Cordelia (first name),Q11879590,,Cordelia
+cuerda,String,Q37484380,1,2,2,family name,,Q101352,,
+cuerda,string,Q184754,1,2,2,data type representing a finite sequence of encoded characters,character string,Q827335,Q133250|Q173285|Q190087,String (computer science)
+cuerda,Phaseolus vulgaris,Q42339,1,2,2,species of plant,string bean|snap bean|common bean,Q16521,Q192691|Q11992872,Phaseolus vulgaris
+cuerda,string,Q11064354,1,2,2,"long, flexible structure made from fibers or plies twisted together",line|thread,,Q2424752|Q517596|Q111726451,String
+cuerda,double bass,Q80019,1,2,2,acoustic stringed instrument of the violin family,string bass|upright bass|doghouse bass|contrabass|stand-up bass|bull fiddle|jazz bass|bass viol|bass (stringed instrument),Q110295396|Q810447,Q40125,Double bass
+cuerda,string,Q326426,1,2,2,string or wire that vibrates in a string instrument to produce a musical tone,instrument string|instrument wire|musical string|musical wire,Q2424752,Q11064354|Q19659292|Q349669|Q34379,String (music)
+cuerda,Stringer,Q16883926,1,2,2,family name,,Q101352,,Stringer (surname)
+cuerda,word,Q2594083,1,2,2,"finite formal sequence of symbols in theorical mathematics of formal languages, applied to information science, computer science, and telecommunications",string of formal language|string|string of symbols|word in a formal language,Q151885,Q184754|Q133250,String (formal languages)
+cuerda,string quartet,Q207338,1,2,2,musical ensemble of four string players,string quartet ensemble,Q105756498,Q1135557|Q11072804,String quartet
+cuerda,string theory,Q33198,1,2,2,"physical theory of quantized one-dimensional objects with conformal symmetry, which can describe gravitation, gauge theory and other phenomena",,Q4162444,Q18362|Q3239681,String theory

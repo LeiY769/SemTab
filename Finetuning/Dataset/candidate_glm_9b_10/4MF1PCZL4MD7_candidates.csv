@@ -1,0 +1,109 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+T3,triiodothyronine,Q327362,0,0,1,thyroid hormone,"3,5,3'-triodo-L-thyronine|Cytomel®|liothyronine sodium|T3|3,3',5-triiodo-L-thyronine|O-(4-hydroxy-3-iodophenyl)-3,5-diiodo-L-tyrosine|Tresitope|3,5,3'-Triiodo-L-thyronine|4-(4-Hydroxy-3-iodophenoxy)-3,5-diiodo-L-phenylalanine|Triiodothyronine|Liothyronine|L-T3|3,5,3'TRIIODOTHYRONINE|L-3,5,3'-Triiodothyronine|Tertroxin|3,5,3'-Triiodothyronine|liothyronine",Q113145171,Q27163652,Triiodothyronine
+T3,Terminator 3: Rise of the Machines,Q29054009,0,0,1,2003 film directed by Jonathan Mostow,T3|Terminator 3,Q11424,,Terminator 3: Rise of the Machines
+T3,Bankstown Line,Q2407219,0,0,1,"former rail service in Sydney, New South Wales, Australia",T3,Q1067164|Q15141321,,Bankstown Line
+T3,SLC25A5,Q17826561,0,0,1,protein-coding gene in the species Homo sapiens,2F1|AAC2|ANT2|T2|T3|solute carrier family 25 member 5,Q7187,Q20747295,ADP/ATP translocase 2
+T3,T3,Q56221678,0,0,1,Istanbul Nostalgic Tram line,T3 (Istanbul Tram)|T3 (Kadıköy – Moda) Nostalgic Ring Tram Line|Kadıköy – Moda Nostalgic Ring Tram Line,Q27997185|Q15145593|Q420962,,
+T3,Île-de-France tramway Line 3,Q1032765,0,0,1,lines 3a and 3b,Paris tramway Line 3|Ile-de-France tramway Line 3|T3|T3a|T3b,Q15145593,,Île-de-France tramway lines 3a and 3b
+T3,Marseille tramway line 3,Q3238910,0,0,1,"tram line in Marseille, France",T3,Q15145593,,
+T3,T-3,Q1473127,0,0,1,trainer aircraft model by Fuji,Fuji T-3|T3,Q15056995,Q1473106,Fuji T-3
+T3,T^3,Q122483537,0,0,1,Tetris-like 3D puzzle game,T^3 (3D puzzle game|T^3 (game)|3D Tetris|T3 Tetris|3-Dimensional Tetris,Q7889,,
+T3,T3 spinal nerve,Q7796125,0,0,1,human spinal anatomy,thoracic spinal nerve 3|T3 nerve|third thoracic nerve|T3|third thoracic spinal nerve,,Q7796116|Q937076,Thoracic spinal nerve 3
+Salmon Creek Railroad,Salmon Creek Railroad,Q55753213,1,0,1,"narrow-gauge railway in Fallon, Nevada, US",,Q420962,,Salmon Creek Railroad
+Stradbally Woodland Railway,Stradbally Woodland Railway,Q24360130,2,0,1,heritage railway in Ireland,,Q420962,,Stradbally Woodland Railway
+Waterford and Suir Valley Railway,Waterford and Suir Valley Railway,Q24250041,3,0,1,"Heritage railway, County Waterford, Ireland",Waterford & Suir Valley Railway,Q728937|Q420962,,Waterford Suir Valley Railway
+Torfbahn Himmelmoor,Torfbahn Himmelmoor,Q22694326,4,0,1,,,Q728937|Q1402344|Q420962,,
+Colebrookdale Railroad,Colebrookdale Railroad,Q19865467,5,0,1,"tourist railroad in Pennsylvania, United States",Secret Valley Line,Q420962,,Colebrookdale Railroad
+Colebrookdale Railroad,Colebrookdale Railroad,Q112904256,5,0,1,former railway company in Pennsylvania,,Q249556,,
+Colebrookdale Railroad,Pennsylvania Railroad,Q1197895,5,0,2,American Class I railroad (1846-1968),PRR|Pennsy,Q249556|Q4830453,,Pennsylvania Railroad
+Colebrookdale Railroad,Pennsylvania Railroad GG1,Q197861,5,0,2,class of American electric locomotives,PRR GG1,Q19832486,Q625151,Pennsylvania Railroad class GG1
+Colebrookdale Railroad,Pennsylvania Railroad K4s,Q7120495,5,0,2,class of 425 American 4-6-2 locomotives,PRR K4s,Q19832486,Q20650761,Pennsylvania Railroad class K4
+Colebrookdale Railroad,Pennsylvania Railroad G5,Q7120486,5,0,2,class of 121 American 4-6-0 locomotives,PRR G5|LI G5|Long Island Rail Road G5,Q19832486,Q20650761,Pennsylvania Railroad class G5
+Colebrookdale Railroad,Pennsylvania Railroad H6,Q7120487,5,0,2,"class of 1,707 American 2-8-0 locomotives",PRR H6|'''Pennsylvania Railroad's class H6''',Q19832486,Q20650761,Pennsylvania Railroad class H6
+Colebrookdale Railroad,Pennsylvania Railroad M1,Q3918329,5,0,2,class of 301 American 4-8-2 locomotives,PRR M1,Q19832486,Q20650761,Pennsylvania Railroad class M1
+Colebrookdale Railroad,Pennsylvania Railroad DD1,Q7120476,5,0,2,class of 66 (33 pairs) of American 2′B+B2′ electric locomotives,PRR DD1,Q19832486,Q625151,Pennsylvania Railroad class DD1
+Colebrookdale Railroad,Pennsylvania Railroad E44,Q2044601,5,0,2,class of 66 American electric locomotives,PRR E44|PRR E44a,Q19832486,Q625151,Pennsylvania Railroad class E44
+Colebrookdale Railroad,Pennsylvania Railroad T1,Q2044607,5,0,2,class of 52 American four-cylinder duplex 4-4-4-4 locomotives,PRR T1,Q19832486,Q20650761,Pennsylvania Railroad class T1
+Colebrookdale Railroad,PRR Port Perry Bridge,Q7120506,5,0,2,railroad bridge in Pennsylvania,NS Port Perry Bridge|Conrail Port Perry Bridge|Pennsylvania Railroad Port Perry Bridge,Q158218|Q1210334,,Port Perry Bridge (Pennsylvania Railroad)
+Colebrookdale Railroad,Reading Company,Q837860,5,0,2,transport company,Reading Railroad,Q740752|Q4830453,,Reading Company
+Colebrookdale Railroad,Reading Company T-1,Q23023032,5,0,2,class of 30 American 4-8-4 locomotives,Reading T-1|RDG T-1,Q19832486,Q20650761,Reading Class T-1
+Colebrookdale Railroad,Reading Company 1251,Q79839754,5,0,2,preserved American 0-6-0T locomotive,RDG 1251,Q785745,,Reading 1251
+Colebrookdale Railroad,Reading Company 2124,Q16984020,5,0,2,preserved Reading Company T-1 class 4-8-4 locomotive,RDG 2124,Q20650761,,Reading 2124
+Colebrookdale Railroad,Reading Company C1a class,Q7300496,5,0,2,class of 4 American 4-4-4 locomotives,RDG C1a class,Q19832486,Q20650761,Reading Company C1a Class
+Colebrookdale Railroad,Reading Company 2102,Q104836735,5,0,2,preserved American 4-8-4 locomotive (RDG class T-1),RDG 2102,Q20650761,,Reading Blue Mountain and Northern 2102
+Colebrookdale Railroad,Reading Company 1187,Q79755776,5,0,2,preserved American 0-4-0 locomotive,RDG 1187|Reading 1187|Philadelphia and Reading Railway 1187,Q20650761,,Reading 1187
+Colebrookdale Railroad,Reading Company 2101,Q7300460,5,0,2,preserved Reading Company T-1 class 4-8-4 locomotive,RDG 2101,Q20650761,,Reading 2101
+Colebrookdale Railroad,Reading Company 2100,Q79842074,5,0,2,preserved American 4-8-4 locomotive,RDG 2100,Q20650761,,Reading 2100
+Colebrookdale Railroad,Reading Company 902,Q7300461,5,0,2,preserved EMD FP7 locomotive,Reading 902|RDG 902,Q19842071,,Reading 902 and 903
+Colebrookdale Railroad,Lehigh Valley Railroad,Q490228,5,0,2,American Class I railroad,,Q249556,,Lehigh Valley Railroad
+Colebrookdale Railroad,Lehigh Valley Railroad Barge No. 79,Q23091870,5,0,2,"historic barge located at The Waterfront Museum in the Red Hook neighborhood of Brooklyn, Kings County, New York",Lehigh Valley Railroad Barge #79|Lehigh Valley Railroad Barge 79,Q16518|Q130326199,,Lehigh Valley Railroad Barge No. 79
+Colebrookdale Railroad,Lehigh Valley Railroad Bridge,Q56559719,5,0,2,"abandoned railway bridge over the Delaware River between Easton, Pennsylvania and Phillipsburg, New Jersey",Delaware River Bridge,Q1210334,,Delaware River Bridge (Lehigh Valley Railroad)
+Colebrookdale Railroad,Green's Bridge,Q72955486,5,0,2,"railway bridge in the Green's Bridge neighborhood of Phillipsburg, New Jersey",Lehigh Valley Railroad - Green's Bridge|LV - Green's Bridge,Q1210334,,
+Colebrookdale Railroad,Lehigh Valley Railroad Station,Q14706782,5,0,2,"train station in Rochester, New York",,Q55488,,"Lehigh Valley Railroad Station (Rochester, New York)"
+Colebrookdale Railroad,Lehigh Valley Railroad Station,Q6518860,5,0,2,"former railway station in Ithaca, New York, U.S.A.",,Q4663385,,Ithaca station (Lehigh Valley Railroad)
+Colebrookdale Railroad,Lehigh Valley Railroad Bridge,Q6518856,5,0,2,"bridge in Newark and Bayonne, New Jersey",,Q1210334|Q1898246,,Upper Bay Bridge
+Colebrookdale Railroad,"Lehigh Valley Railroad Engine House, White Haven",Q17182199,5,0,2,,,,,"Lehigh Valley Railroad Engine House, White Haven"
+Colebrookdale Railroad,Lehigh Valley Railroad 40,Q116998419,5,0,2,preserved Budd RDC-1 car,LV 40,Q10915943,,
+Colebrookdale Railroad,Lehigh Valley Railroad Headquarters Building,Q15242212,5,0,2,,,Q655686,,Lehigh Valley Railroad Headquarters Building
+West Coast Historical and Mechanical Society,West Coast Historical and Mechanical Society,Q18167164,6,0,1,heritage railway in New Zealand,,Q420962,,West Coast Historical and Mechanical Society
+West Coast Historical and Mechanical Society,West Coast Historical and Mechanical Society Incorporated,Q136754750,6,0,1,charity from New Zealand,,Q163740,,
+Lea Bailey Light Railway,Lea Bailey Light Railway,Q16894049,7,0,1,Heritage light railway in England,,Q420962,,Lea Bailey Light Railway
+Jokioinen Museum Railway,Jokioinen Museum Railway,Q6269792,8,0,1,"heritage railway line in Tavastia Proper region, Finland",Humppila–Jokioinen railway,Q420962|Q1112477,,Jokioinen Museum Railway
+T2,T2,Q6027425,9,0,1,Istanbul Nostalgic Tram line,T2 (Istanbul Tram)|T2 (Taksim – Tünel) Nostalgic Tram Line|Taksim – Tünel Nostalgic Tram Line,Q27997185|Q15145593|Q135921752,,
+T2,type 2 diabetes,Q3025883,9,0,1,type of diabetes mellitus with high blood sugar and insulin resistance,"NIDDM|non-insulin-dependent diabetes mellitus|type II diabetes mellitus|type 2 diabetes mellitus|diabetes (type 2)|adult-onset diabetes|diabetes mellitus type 2|rare insulin-independent diabetes mellitus|diabetes Mellitus, Type 2|T2D",Q112193867,Q12206|Q2661443,Type 2 diabetes
+T2,North American T-2 Buckeye,Q966462,9,0,1,1958 military trainer aircraft family by North American Aviation,T2|Rockwell T-2 Buckeye|T2 Buckeye|Buckeye|T-2|North American T-2 Buckeye|North American Aviation Buckeye|North American Aviation T-2|T2J Buckeye|T2J|North American Aviation T2J|T-2 Buckeye,Q15056993,Q1261534|Q104531786,North American T-2 Buckeye
+T2,Take-Two Interactive,Q94933,9,0,1,"American publisher, developer and distributor of video games","Take-Two|Take2|T2|Take-Two Interactive Software|Take-Two Interactive Software, Inc.",Q210167|Q891723,,Take-Two Interactive
+T2,Terminator 2: Judgment Day,Q170564,9,0,1,1991 film directed by James Cameron,Terminator 2 – Judgement Day|Terminator 2,Q11424,,Terminator 2: Judgment Day
+T2,Shanghai Pudong International Airport Terminal 2,Q139592614,9,0,1,airport terminal of Shanghai Pudong International Airport,Pudong Terminal 2|Pudong T2|T2,Q849706,,
+T2,Shanghai Hongqiao International Airport Terminal 2,Q139592184,9,0,1,airport terminal of Shanghai Hongqiao International Airport,Hongqiao Terminal 2|Hongqiao T2|T2,Q849706,,
+T2,Shanghai Hongqiao International Airport Terminal 1,Q139592500,9,0,1,airport terminal of Shanghai Hongqiao International Airport,Hongqiao Terminal 2|Hongqiao T2|T2,Q849706,,
+T2,Île-de-France tramway Line 2,Q1771110,9,0,1,Île-de-France tramway Line 2 (T2; French: Ligne 2 du tramway d'Île-de-France) is part of the modern tram network of the Île-de-France region of France,Paris tramway Line 2|Ile-de-France tramway Line 2|T2|Paris Tramway Line 2,Q15145593,,Île-de-France tramway Line 2
+T2,Leppington & Inner West Line,Q44131634,9,0,1,"rail service in Sydney, New South Wales, Australia",T2|Inner West & Leppington Line,Q1067164|Q15141321,,Leppington & Inner West Line
+Giant's Causeway and Bushmills Railway,Giant's Causeway and Bushmills Railway,Q5558325,10,0,1,Heritage Railway in Northern Ireland,,Q420962,,Giant's Causeway and Bushmills Railway
+Giant's Causeway and Bushmills Railway,Giant's Causeway,Q106187,10,0,2,rock formation on the Antrim coast of Northern Ireland,Giants' Causeway|Giants Causeway|Gyants Cawsway|Gyants Causey,Q271669|Q6633995,,Giant's Causeway
+Giant's Causeway and Bushmills Railway,Giant's Causeway,Q3105301,10,0,2,horse,,Q726,,Giant's Causeway (horse)
+Giant's Causeway and Bushmills Railway,Giant's Causeway,Q52199550,10,0,2,painting by Maurice Orr,,Q3305213,,
+Giant's Causeway and Bushmills Railway,Giant's Causeway,Q120973016,10,0,2,"district electoral areas in Moyle, Northern Ireland",,Q192611,,Giant's Causeway (District Electoral Area)
+Giant's Causeway and Bushmills Railway,Giant's Causeway Tramway,Q5558322,10,0,2,Irish electric railway,,Q110009982,,Giant's Causeway Tramway
+Giant's Causeway and Bushmills Railway,Giant's Causeway Stakes,Q124785408,10,0,2,grade III Thoroughbred horse race,,,,Giant's Causeway Stakes
+Giant's Causeway and Bushmills Railway,Giant's Causeway Schoolhouse And Gatescreen,Q126698383,10,0,2,"school building in Bushmills, County Antrim, Northern Ireland",,Q1244442,,
+Giant's Causeway and Bushmills Railway,"Giant's Causeway, Northern Ireland (poster artwork)",Q119715382,10,0,2,"painting by John Greene (active 1957–c.1965), National Railway Museum",,Q3305213,,
+Giant's Causeway and Bushmills Railway,Giant's Causeway: Frederick Douglass's Irish Odyssey and the Making of an American Visionary,Q136205790,10,0,2,book 2014,,Q3331189,,
+Foyle Valley Railway,Foyle Valley Railway Museum,Q5477386,11,0,1,Railway Museum in Northern Ireland,,Q18704634,,Foyle Valley Railway Museum
+Foyle Valley Railway,NI Railways,Q1937120,11,0,2,state-owned railway company in Northern Ireland,Northern Ireland Railways|NIR,Q249556,,NI Railways
+Foyle Valley Railway,NIR Class 111,Q134589231,11,0,2,class of American-built diesel-electric locomotives used in Northern Ireland,NIR 111 Class|Northern Ireland Railways 111 Class|NIR 110 Class,Q19832486,Q137341200,
+Foyle Valley Railway,Northern Ireland Railways Taskforce,Q105546208,11,0,2,UK government task force,,Q1637368,,
+Foyle Valley Railway,Derry City and Strabane District Council,Q16988669,11,0,2,local authority in Northern Ireland,,Q11204|Q837766,,Derry City and Strabane District Council
+Engelsberg-Norberg Railway,Engelsberg-Norberg Railway,Q5377573,12,0,1,"working life museum in Norberg Municipality, Sweden",,Q420962|Q10416961,,Engelsberg–Norberg Railway
+Cripple Creek and Victor Narrow Gauge Railroad,Cripple Creek and Victor Narrow Gauge Railroad,Q5185837,13,0,1,"heritage narrow-gauge railway in Cripple Creek, Colorado, United States",CC&VNG RR,Q420962|Q1112477,,Cripple Creek and Victor Narrow Gauge Railroad
+Chinnor and Princes Risborough Railway,Chinnor and Princes Risborough Railway,Q5101196,14,0,1,English standard gauge heritage railway,PRC,Q420962|Q113990375,,Chinnor and Princes Risborough Railway
+Cavan and Leitrim Railway,Cavan and Leitrim Railway,Q5054858,15,0,1,defunct 3-foot gauge railway in Ireland,,Q420962|Q728937,,Cavan and Leitrim Railway
+Cavan and Leitrim Railway,Cavan and Leitrim Railway 1 to 8,Q5012792,15,0,1,class of 8 Irish 3-foot gauge 4-4-0T locomotives,CLR 1 to 8,Q19832486,Q785745,CLR 1 to 8
+Caledonian Railway (Brechin),Caledonian Railway (Brechin),Q5019434,16,0,1,"heritage railway in Brechin, Angus, Scotland, UK",Caledonian Railway|BDG|Brechin Steam Railway|Brechin to Bridge of Dun line,Q420962|Q113990375,,Caledonian Railway (Brechin)
+Caledonian Railway (Brechin),Caledonian Railway,Q3997890,16,0,2,British pre-grouping railway company,,Q249556,,Caledonian Railway
+Caledonian Railway (Brechin),Caledonian Railway,Q106501546,16,0,2,Vanity Fair caricature of Mr James Thompson by Spy,Mr James Thompson,Q11060274|Q28886448,,
+Caledonian Railway (Brechin),Caledonian Railway Bridge,Q5019450,16,0,2,"bridge in Glasgow, Scotland, UK, carries all rail lines serving Glasgow Central Stations, across River Clyde",,Q1210334,,Caledonian Railway Bridge
+Caledonian Railway (Brechin),Highland Railway River Class,Q5759076,16,0,2,class of 6 British 4-6-0 locomotives sold to the Caledonian Railway during construction,HR River class|Caledonian Railway 938 class|CR 938 class,Q19832486,Q20650761,Highland Railway River class
+Caledonian Railway (Brechin),Caledonian Railway 944 Class,Q24088453,16,0,2,class of 12 British 4-6-2T locomotives,,Q19832486,Q785745,Caledonian Railway 944 Class
+Caledonian Railway (Brechin),Caledonian Railway 812 and 652 Classes,Q5019447,16,0,2,class of 96 British 0-6-0 locomotives,,Q19832486,Q20650761,Caledonian Railway 812 and 652 Classes
+Caledonian Railway (Brechin),Caledonian Railway 123,Q5019451,16,0,2,"class of 1 British 4-2-2 locomotive, built as an exhibition locomotive",Caledonian Railway Single|CR 123,Q20650761,,Caledonian Railway Single
+Caledonian Railway (Brechin),Caledonian Railway 439 Class,Q5019440,16,0,2,class of British 0-4-4T locomotives,19 Class,Q19832486,Q785745,Caledonian Railway 439 Class
+Caledonian Railway (Brechin),Caledonian Railway 72 class,Q5019445,16,0,2,class of 32 British 4-4-0 locomotives,CR 72 class|CR 113 class|Caledonian Railway 113 class,Q19832486,Q20650761,Caledonian Railway 72 Class
+Caledonian Railway (Brechin),Brechin,Q45848,16,0,2,"city and former royal burgh in Angus, Scotland, UK",,Q3957|Q7543008,,Brechin
+Caledonian Railway (Brechin),Brechin,Q37285991,16,0,2,family name,,Q101352,,
+Caledonian Railway (Brechin),Brechin,Q68815036,16,0,2,"Scottish parish in Angus, Scotland, UK",,Q5124673,,
+Caledonian Railway (Brechin),Brechin City F.C.,Q904186,16,0,2,association football club,Brechin City Football Club,Q476028,,Brechin City F.C.
+Caledonian Railway (Brechin),Brechin,Q28018190,16,0,2,painting by Gilbert Sprague,,Q3305213,,
+Caledonian Railway (Brechin),Brechin City railway station,Q4960007,16,0,2,"railway station in Angus, Scotland, UK","Brechin, Park Road, Railway Station",Q55488,,Brechin railway station
+Caledonian Railway (Brechin),Brechin,Q17984405,16,0,2,Constituency of the Old Parliament of Scotland,,Q27990952,,Brechin (Parliament of Scotland constituency)
+Caledonian Railway (Brechin),Brechin,Q115174111,16,0,2,"compact rural community in Ramara, Ontario","Brechin, Ontario",Q56885310,,
+Caledonian Railway (Brechin),Brechin High School,Q15204368,16,0,2,"secondary school in Angus, Scotland, UK",,Q159334,,Brechin High School
+Caledonian Railway (Brechin),Brechin Cathedral,Q2307632,16,0,2,cathedral church in Brechin,,Q2977,,Brechin Cathedral
+Bure Valley Railway,Bure Valley Railway,Q4998335,17,0,1,"15 inch gauge railway in Norfolk, England",,Q6865459|Q420962,,Bure Valley Railway
+Bure Valley Railway,Bure Valley Railway No. 9 “Mark Timothy”,Q116960911,17,0,1,British 15-inch gauge 2-6-4T locomotive,2-6-4T No. 9 Mark Timothy,Q785745,,
+Bure Valley Railway,Bure Valley Railway No. 7 “Spitfire”,Q116960905,17,0,1,British 15-inch gauge 2-6-2 locomotive,2-6-2 No. 7 Spitfire,Q20650761,,
+Bure Valley Railway,Bure Valley Railway No. 6 “Blickling Hall”,Q116960894,17,0,1,British 15-inch gauge 2-6-2 locomotive,2-6-2 No. 6 Blickling Hall,Q20650761,,
+Bure Valley Railway,Bure Valley Railway No. 1 “Wroxham Broad”,Q116960910,17,0,1,British 15-inch gauge 2-6-4T locomotive,2-6-4T No. 1 Wroxham Broad,Q785745,,
+Bure Valley Railway,Bure Valley Railway No. 8 “John of Gaunt”,Q116960909,17,0,1,British 15-inch gauge 2-6-2T locomotive,2-6-2T No. 8 John of Gaunt,Q785745,,
+Bredgar and Wormshill Light Railway,Bredgar and Wormshill Light Railway,Q4960132,18,0,1,"heritage railway in Kent, England",,Q1112477|Q420962,,Bredgar and Wormshill Light Railway
+Bo'ness and Kinneil Railway,Bo'ness and Kinneil Railway,Q4931028,19,0,1,"heritage railway in Falkirk, Scotland, UK",Bo'ness & Kinneil Railway,Q420962,,Bo'ness and Kinneil Railway

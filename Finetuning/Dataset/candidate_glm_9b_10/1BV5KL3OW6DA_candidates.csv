@@ -1,0 +1,58 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+PMMR 118,PMMR 118,Q90346157,0,0,1,,,Q5898,,
+IRAS 23043+6036,IRAS 23043+6036,Q91420143,1,0,1,,,Q5898|Q523,,
+[S90] 10,[S90] 10,Q78186856,2,0,1,,,Q193599|Q5898,,
+[S90] 10,Volvo 900 Series,Q2065397,2,0,2,car models made by Volvo Car Corporation,940|960|S90|V90,Q3231690,Q1357619,Volvo 900 Series
+[S90] 10,Volvo S90,Q20916608,2,0,2,sedan model introduced in 2016,Volvo S90 (SPA)|S90,Q3231690,,Volvo S90
+[S90] 10,S90,Q108075807,2,0,2,line of the Ticino rapid transit network (Giubiasco-Lugano-Mendrisio),,Q50331459,,S90 (TILO)
+[S90] 10,S90 Hunan Expressway,Q10882490,2,0,2,"expressway in Hunan, China",S90,Q46622,,
+[S90] 10,Elk City Airport,Q49746099,2,0,2,airport in Idaho,S90,Q62447,,
+[S90] 10,S90 Jiangsu Expressway,Q131191352,2,0,2,expressway in Jiangsu Province,S90,Q135898379,,
+[S90] 10,IBM System 9000,Q5969055,2,0,2,early 1980s laboratory computer from IBM,CS9000|S9000,Q68,,IBM System 9000
+[S90] 10,S90-class torpedo boat,Q16334280,2,0,2,German Imperial Navy boat,,Q559026,Q324233|Q11446,S90-class torpedo boat
+[S90] 10,S9031-9333-0106-0112-A Study of Biomarkers in Samples From Patients With Acute Myeloid Leukemia Treated With Standard Chemotherapy With or Without Gemtuzumab Ozogamicin,Q61957399,2,0,2,clinical trial,,Q30612,,
+[S90] 10,S9005 Mifepristone in Meningioma,Q66075768,2,0,2,clinical trial,,Q30612,,
+[W60] A15,[W60] A15,Q94917355,3,0,1,,,Q5898|Q1153690,,
+[W60] A15,A15 motorway,Q589064,3,0,2,motorway in the Netherlands,N15|A15|A18|N18,Q46622|Q2056881|Q14875255,,A15 motorway (Netherlands)
+[W60] A15,A15 motorway,Q785081,3,0,2,"motorway in Wallonia, Belgium",A15,Q26792858,,
+[W60] A15,A15 motorway,Q362511,3,0,2,road in Switzerland,A15 (Switzerland)|A15|designated A53 until 2019,Q34442|Q693906,,
+[W60] A15,A15 autoroute,Q788666,3,0,2,controlled-access highway from Gennevilliers to Cergy-Pontoise,A15|A15 motorway,Q46622,,A15 autoroute
+[W60] A15,A15 motorway,Q786485,3,0,2,road in Portugal,A15,Q46622,,A15 motorway (Portugal)
+[W60] A15,A15 road,Q16247068,3,0,2,road in England,A15,Q18019452,,A15 road (England)
+[W60] A15,Apple A15 Bionic,Q108545731,3,0,2,system on a chip (SoC) designed by Apple Inc.,Apple A15|A15|A15 Bionic,Q122901167,Q406283,Apple A15
+[W60] A15,TSPAN7,Q18032014,3,0,2,protein-coding gene in the species Homo sapiens,A15|CCG-B7|CD231|DXS1692E|MRX58|MXS1|TALLA-1|TM4SF2|TM4SF2b|tetraspanin 7|XLID58,Q7187,Q20747295,TSPAN7
+[W60] A15,Tspan7,Q18255033,3,0,2,protein-coding gene in the species Mus musculus,1200014P11Rik|A15|AI323365|Cd231|Mxs1|PE31|R74651|TALLA|Tm4sf2|tetraspanin 7,Q7187,Q20747295,
+[W60] A15,A15,Q54606388,3,0,2,cell line (Human melanoma),A15-BEP|A15M2,Q21014462|Q23058136,,
+[W60] A15,Volvo Ocean 60,Q5730024,3,0,2,class of ocean racing yacht,Whitbread 60|W60|VO60,Q121289722,Q1075310,Volvo Ocean 60
+[W60] A15,Rx,Q29733748,3,0,2,protein-coding gene in the species Drosophila melanogaster,Retinal Homeobox|Dmel_CG10052|Drx|CG10052|bk50|E97|Dmel\CG10052|wom|W60|PPH17|rx,Q7187,,
+[W60] A15,W60,Q7946233,3,0,2,,,,,W60 (nuclear warhead)
+[W60] A15,W60 at the 2014 European Masters Athletics Championships,Q25221587,3,0,2,,,Q16510064,,W60 at the 2014 European Masters Athletics Championships
+[W60] A15,2019 W60 Changsha,Q123564579,3,0,2,,,Q47345468,,
+[W60] A15,[W60] A18,Q94917000,3,0,2,,,Q5898,,
+[W60] A15,W60 Naples 2023,Q118369003,3,0,2,,,Q47345468,,
+[W60] A15,W60 Rome 2 2023,Q122932420,3,0,2,,,Q47345468,,
+[W60] A15,2023 W60 Istanbul,Q118186160,3,0,2,,,Q47345468,,
+[W60] A15,W60,Q122420357,3,0,2,Wikimedia disambiguation page,,Q4167410,,W60
+2MASS J01344305+3101259,2MASS J01344305+3101259,Q83735190,4,0,1,,,Q5898|Q67206691,,
+BD+62 281,BD+62 281,Q93506612,5,0,1,,,Q5898,,
+LGGS J013320.33+304018.0,LGGS J013320.33+304018.0,Q93955156,6,0,1,,,Q5898,,
+LGGS J013320.33+304018.0,quasar,Q83373,6,0,2,extremely luminous active galactic nuclei containing a massive black hole,Quasi-Stellar Radio Source|Quasi-Stellar Object|QSO,Q17444909,Q46587|Q139253897,Quasar
+LGGS J013320.33+304018.0,Quasar,Q7269419,6,0,2,1983 video game,,Q7889,,Quasar (video game)
+LGGS J013320.33+304018.0,Quasar,Q132860775,6,0,2,1980 video game,,Q7889,,
+LGGS J013320.33+304018.0,Quasar,Q124286559,6,0,2,Dutch Unreal Tournament player,Pete Light,Q5,,
+LGGS J013320.33+304018.0,Quasar,Q126185584,6,0,2,1989 video game,,Q7889,,
+LGGS J013320.33+304018.0,Quasar,Q1992429,6,0,2,superhero in Marvel Comics,,Q1114461|Q65967030,,Quasar (character)
+LGGS J013320.33+304018.0,Quasar,Q7269417,6,0,2,British progressive rock band,,Q215380,,Quasar (band)
+LGGS J013320.33+304018.0,Neutron,Q5142064,6,0,2,fictional character in Marvel Comics,Quasar,Q89050960|Q1114461,,Neutron (Marvel Comics)
+LGGS J013320.33+304018.0,Quasar,Q7269418,6,0,2,"US brand of electronics, first used by Motorola in 1967",,Q783794,,Quasar (brand)
+LGGS J013320.33+304018.0,Quasar,Q12738887,6,0,2,Romanian business company,,Q4830453,,
+LGGS J013320.33+304018.0,Quasar candidate selection and photometric redshift estimation based on SDSS and UKIDSS data,Q68992111,6,0,2,scientific article,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar Candidates in the Hubble Deep Field,Q59505740,6,0,2,scientific article published in Astronomical Journal,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates from grens plates,Q68691201,6,0,2,scholarly article,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates in two extended CFHT fields : 1338+27 and 1639+40,Q68691257,6,0,2,article published in 1988,,Q13442814,,
+LGGS J013320.33+304018.0,"Quasar candidates in the field of SA 94 (2h53m,+0 20')",Q68968491,6,0,2,scientific article published in January 1986,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates in the field of SA 94. II. Objective-prism classification of the US objects,Q68194429,6,0,2,scientific article published in January 1987,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates near 1057+01,Q68754505,6,0,2,scientific article published in January 1991,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates selection in the Virtual Observatory era,Q68725859,6,0,2,scientific article published in January 2009,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar Candidates behind the Milky Way Disk and M31,Q128688369,6,0,2,scholarly article,,Q13442814,,
+LGGS J013320.33+304018.0,Quasar candidates near 3C 345,Q68642455,6,0,2,scholarly article,,Q13442814,,

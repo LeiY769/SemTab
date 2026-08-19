@@ -1,0 +1,51 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Imo State Universlty Library,Imo State University Library,Q86345438,0,0,2,Academic Library,IMSUL,Q856234,,
+Moris Library,Morris Library,Q25212137,1,0,2,main academic library on the campus of Southern Illinois University Carbondale,,Q856234|Q2085381,,Morris Library (SIUC)
+Moris Library,Morris Library,Q69485608,1,0,2,"public library system in New York, USA",,Q26271642,,
+Association of Research Libraries,Association of Research Libraries,Q4810036,1,2,1,organization,arl.org,Q163740|Q856564,,Association of Research Libraries
+Carnegie Lbrary,Carnegie library,Q1043939,2,0,2,"library built with money donated by Scottish-American businessman and philanthropist Andrew Carnegie: 2,509 Carnegie libraries were built between 1883 and 1929",Carnegie Public Library,Q25397890,Q28564|Q856584,Carnegie library
+Carnegie Lbrary,Carnegie Library,Q126897871,2,0,2,"former Carnegie Library at Converse College, Spartanburg, South Carolina",Carnegie Building,Q1043939,,
+Carnegie Lbrary,Carnegie Library of Pittsburgh,Q5043945,2,0,2,"public library system in Pittsburgh, Pennsylvania",CLP|The Carnegie|Carnegie Library,Q1043939|Q26271642|Q28564,,Carnegie Library of Pittsburgh
+Carnegie Lbrary,Carnegie Library,Q108871419,2,0,2,"Historic building in Anderson, South Carolina",Anderson County Arts Center,Q1043939,,
+Carnegie Lbrary,Tacoma Public Library Main Branch,Q69764676,2,0,2,"main branch of public library system in Tacoma, Washington, USA","Main Branch, Tacoma Public Library|Tacoma Public Library Main Library|Main Library, Tacoma Public Library|Carnegie Library|Carnegie Building",Q12317349|Q28564,,
+Carnegie Lbrary,Johnstown Flood Museum,Q5025267,2,0,2,"Historic building in Johnstown, Pennsylvania",Cambria Public Library|Carnegie Library,Q7075|Q33506,,Johnstown Flood Museum
+Carnegie Lbrary,Niagara Falls Public Library,Q7023679,2,0,2,"Carnegie library in Niagara Falls, New York, United States",Carnegie Library,Q1043939,,"Carnegie Library (Niagara Falls, New York)"
+Carnegie Lbrary,Carnegie Library,Q5043933,2,0,2,"historic building in Parkersburg, West Virginia, United States",Parkersburg Carnegie Library,Q7075|Q1043939,,"Carnegie Library (Parkersburg, West Virginia)"
+Carnegie Lbrary,Carnegie Library,Q5043931,2,0,2,"historic building in Newton, Kansas, United States",Harvey County Historical Society,Q1043939,,"Carnegie Library (Newton, Kansas)"
+Carnegie Lbrary,Carnegie Library,Q114447854,2,0,2,"Carnegie library in Thorold, Ontario, Canada",,Q1043939,,
+Carnegie Lbrary,South Side Branch of the Carnegie Library of Pittsburgh,Q7568469,2,0,2,"public library in Pittsburgh, Pennsylvania, United States",South Side Library|South Side Branch Carnegie Free Library of Pittsburgh|Carnegie Library of Pittsburgh - South Side|CLP - South Side|South Side Branch Library|Carnegie Library of Pittsburgh – South Side,Q11396180|Q1043939,,Carnegie Library of Pittsburgh – South Side
+Carnegie Lbrary,Lawrenceville Branch of the Carnegie Library of Pittsburgh,Q6504820,2,0,2,"public library in Pittsburgh, Pennsylvania, United States",Lawrenceville Library|CLP – Lawrenceville|Lawrenceville Branch Library|Carnegie Library of Pittsburgh - Lawrenceville|Lawrenceville Branch Carnegie Free Library of Pittsburgh,Q11396180|Q1043939,,Lawrenceville Branch of the Carnegie Library of Pittsburgh
+Carnegie Lbrary,Mount Washington Library,Q6924505,2,0,2,"public library in Pittsburgh, Pennsylvania, United States",Mount Washington Branch of the Carnegie Library of Pittsburgh|CLP – Mt. Washington|Mt. Washington Library|Mt Washington Library|CLP Mount Washington|Carnegie Library of Pittsburgh Mount Washington Library,Q1043939|Q11396180,,Mount Washington Branch of the Carnegie Library of Pittsburgh
+Tsinghua University ibrary,Tsinghua University Library,Q15921816,3,0,2,Library of Tsinghua University,Qing hua da xue tu shu guan,Q43229|Q856234|Q31855,,Tsinghua University Library
+Tsinghua University ibrary,TSINGHUA UNIVERSITY LIBRARY,Q66488593,3,0,2,article published in 2016,,Q13442814,,
+"ORCID, Inc","ORCID, Inc.",Q19861084,3,2,1,non-profit organization that issues ORCID Identifiers,"Open Researcher and Contributor ID|ORCID, Inc|Orcid Inc.",Q163740|Q8513,,
+"ORCID, Inc",ORCID iD,Q51044,3,2,2,nonproprietary alphanumeric code to uniquely identify scientific and other academic authors,,Q36524,Q423048,ORCID
+"ORCID, Inc",ORCID Public Data File 2020,Q104707600,3,2,2,2020 release of public data of ORCID data base,,Q3331189,,
+"ORCID, Inc",ORCID Public Data File 2021,Q110411020,3,2,2,2021 release of public data of ORCID data base,,Q3331189,,
+"ORCID, Inc",ORCID Registry,Q123508757,3,2,2,open database of unique identifiers for researchers,,Q7094076|Q35127|Q1172284,,
+"ORCID, Inc",ORCID Public Data File 2023,Q123508386,3,2,2,data dump release for the ORCID Registry,,Q3331189,,
+"ORCID, Inc",ORCID EU,Q27050209,3,2,2,European organization promoting ORCID,ORCID Europe,Q43229,,
+"ORCID, Inc",ORCID.js,Q30081573,3,2,2,Zotero translator script for the ORCID website,,Q30077597,,
+"ORCID, Inc",ORCIDator,Q56034987,3,2,2,tool which brings data from ORCID database to Wikidata,orcidator,Q20726407,,
+"ORCID, Inc",Ya-Yong Wu,Q91784788,3,2,2,researcher (zoology); the author of some new taxa described in the 21st century,"Yayong Wu|Wu, Y.-Y.|ORCID: 0000-0003-2752-4085",Q5,,
+Aalcorg University Library,,,4,0,0,,,,,
+"ORCID, Inc","ORCID, Inc.",Q19861084,4,2,1,non-profit organization that issues ORCID Identifiers,"Open Researcher and Contributor ID|ORCID, Inc|Orcid Inc.",Q163740|Q8513,,
+"ORCID, Inc",ORCID iD,Q51044,4,2,2,nonproprietary alphanumeric code to uniquely identify scientific and other academic authors,,Q36524,Q423048,ORCID
+"ORCID, Inc",ORCID Public Data File 2020,Q104707600,4,2,2,2020 release of public data of ORCID data base,,Q3331189,,
+"ORCID, Inc",ORCID Public Data File 2021,Q110411020,4,2,2,2021 release of public data of ORCID data base,,Q3331189,,
+"ORCID, Inc",ORCID Registry,Q123508757,4,2,2,open database of unique identifiers for researchers,,Q7094076|Q35127|Q1172284,,
+"ORCID, Inc",ORCID Public Data File 2023,Q123508386,4,2,2,data dump release for the ORCID Registry,,Q3331189,,
+"ORCID, Inc",ORCID EU,Q27050209,4,2,2,European organization promoting ORCID,ORCID Europe,Q43229,,
+"ORCID, Inc",ORCID.js,Q30081573,4,2,2,Zotero translator script for the ORCID website,,Q30077597,,
+"ORCID, Inc",ORCIDator,Q56034987,4,2,2,tool which brings data from ORCID database to Wikidata,orcidator,Q20726407,,
+"ORCID, Inc",Ya-Yong Wu,Q91784788,4,2,2,researcher (zoology); the author of some new taxa described in the 21st century,"Yayong Wu|Wu, Y.-Y.|ORCID: 0000-0003-2752-4085",Q5,,
+Hospital Rel,Hospital-related cost of sepsis: A systematic review.,Q30240716,5,0,1,scientific article,,Q13442814,,
+Hospital Rel,"Hospital-related morbidity among childhood cancer survivors in British Columbia, Canada: report of the childhood, adolescent, young adult cancer survivors (CAYACS) program",Q83328193,5,0,1,scientific article published on 29 December 2010,,Q13442814,,
+Hospital Rel,Hospital-related outbreak of infection with multidrug-resistant Streptococcus pneumoniae in the Netherlands,Q40802359,5,0,1,scientific article published on 01 July 1999,,Q13442814,,
+Hospital Rel,Hospital-related determinants for surgical-site infection following hip arthroplasty,Q50763119,5,0,1,scientific article published in May 2005,,Q13442814,,
+Hospital Rel,Hospital-related incidents; causes and its impact on disaster preparedness and prehospital organisations,Q30227905,5,0,1,scientific article,,Q13442814,,
+Hospital Rel,Hospital-related outbreaks due to rare fungal pathogens: a review of the literature from 1990 to June 2011,Q38015750,5,0,1,scientific article published on 03 June 2012,,Q13442814,,
+Hospital Rel,Hospital-related undernutrition in children: still an often unrecognized and undertreated problem.,Q43577576,5,0,1,scientific article published on 9 August 2013,,Q13442814,,
+Hospital Rel,"Hospital-related morbidity in people notified with hepatitis C: a population-based record linkage study in New South Wales, Australia",Q43071659,5,0,1,scientific article published on 10 April 2010,,Q13442814,,
+Hospital Rel,Hospital related morbidity from chronic hepatitis C virus (HCV) infection in Australia and mortality from HCV infection in a population cohort in Denmark: two complementary studies relevant to counseling patients,Q45375983,5,0,1,scientific article published on 14 April 2010,,Q13442814,,
+Hospital Rel,Hospital-related differences in breast cancer management. Analysis of an unselected population-based series of 1353 radically operated patients,Q41470146,5,0,1,scientific article published on May 1997,,Q13442814,,

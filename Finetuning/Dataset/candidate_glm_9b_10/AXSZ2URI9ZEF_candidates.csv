@@ -1,0 +1,30 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Probstwald,Probstwald,Q66819510,0,0,1,cadastral municipality in St. Pölten District,,Q17376095,,
+Probstwald,Probstwald,Q21876836,0,0,1,forest in the Karawanks in Carinthia,,Q4421,,
+Probstwald,Probstwald,Q115166799,0,0,1,"forest in the municipality Pyhra, Lower Austria, Austria",Probstforest,Q4421,,
+La Rourera,La Rourera,Q20108312,1,0,1,,,Q4421,,
+La Rourera,La Rourera,Q11930765,1,0,1,,,Q4897108,,
+La Rourera,oak forest,Q2972109,1,0,2,forest where oak predominates,oak grove|oak stand|oakwood,,Q18397999|Q830373|Q1211122,Oak forest
+La Rourera,Rourera de Marranó,Q11946355,1,0,2,,,Q2972109,,
+La Rourera,Rourera de Jaumot,Q11946358,1,0,2,,,Q4421,,
+La Rourera,Rourera de Mascarell,Q11946360,1,0,2,,,Q2972109,,
+Fort Atkinson,Fort Atkinson,Q1570350,2,0,1,"city in Jefferson County, Wisconsin, United States of America","Fort Atkinson, Wisconsin|Fort Atkinson, WI",Q15221373,,"Fort Atkinson, Wisconsin"
+Fort Atkinson,Fort Atkinson,Q1000175,2,0,1,"city in Winneshiek County, Iowa, United States","Fort Atkinson, Iowa|Fort Atkinson, IA",Q1093829,,"Fort Atkinson, Iowa"
+Fort Atkinson,Fort Atkinson,Q3748471,2,0,1,fort in Nebraska,,Q1785071,,Fort Atkinson (Nebraska)
+Fort Atkinson,Fort Atkinson,Q5470759,2,0,1,"1840s U.S. Army post in Fort Atkinson, Iowa",Fort Atkinson State Preserve,Q179049|Q1785071|Q4421,,Fort Atkinson State Preserve
+Fort Atkinson,Fort Atkinson,Q23054911,2,0,1,actor,,Q5,,
+Fort Atkinson,Fort Atkinson,Q28231586,2,0,1,1850s U.S. Army post,,Q1785071,,Fort Atkinson (Kansas)
+Fort Atkinson,Fort Atkinson Limestone,Q18150986,2,0,1,geologic formation in Illinois,,Q736917,,Fort Atkinson Limestone
+Fort Atkinson,Fort Atkinson State Historical Park,Q34877459,2,0,1,park in the United States of America,,Q37999985,,
+Fort Atkinson,Fort Atkinson High School,Q48838335,2,0,1,"high school in Wisconsin, United States",,Q9826,,Fort Atkinson High School
+Fort Atkinson,Fort Atkinson Formation,Q18150981,2,0,1,,,Q736917,,Fort Atkinson Formation
+Rude Skov,Rude Skov,Q11998568,3,0,1,,,Q4421,,
+Rude Skov,Rude Skov,Q23739841,3,0,1,,,Q4421,,
+Rude Skov,"Rude Skov School, Sjælsø branch",Q12335462,3,0,1,"public primary school in Rudersdal Municipality, Denmark",,Q65032826,,
+Rude Skov,Rude Skov School,Q122932888,3,0,1,"public primary school in Rudersdal Municipality, Denmark",,Q65032826,,
+Rude Skov,"Rude Skov School, Høsterkøb branch",Q122932893,3,0,1,"public primary school in Rudersdal Municipality, Denmark",,Q65032826,,
+Rude Skov,Rude Skov,Q30147089,3,0,1,ancient monument in Rudersdal Municipality (93924),,Q34023,,
+Rude Skov,Rude Skov,Q30147111,3,0,1,ancient monument in Rudersdal Municipality (93959),,Q34023,,
+Rude Skov,Rude Skov,Q30147093,3,0,1,ancient monument in Rudersdal Municipality (93926),,Q34023,,
+Rude Skov,Rude Skov,Q30147113,3,0,1,ancient monument in Rudersdal Municipality (93961),,Q34023,,
+Rude Skov,"Rude Skov, Afd. 480",Q30147114,3,0,1,ancient monument in Rudersdal Municipality (93963),,Q3395377,,

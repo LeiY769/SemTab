@@ -1,0 +1,34 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+USS Connecticut,USS Connecticut,Q2116640,0,0,1,1904 Connecticut-class battleship,BB-18,Q1051067,,USS Connecticut (BB-18)
+USS Connecticut,USS Connecticut,Q1363423,0,0,1,1997 Seawolf-class submarine,SSN-22,Q757587,,USS Connecticut (SSN-22)
+USS Connecticut,USS Connecticut,Q778722,0,0,1,ship,,Q11446,,USS Connecticut (1799)
+USS Connecticut,USS Connecticut,Q7868526,0,0,1,gunboat of the United States Navy,,Q11446,,USS Connecticut (1861)
+USS Connecticut,USS Nevada,Q6130145,0,0,1,,,Q11446,,USS Nevada (BM-8)
+USS Connecticut,USS Connecticut,Q2469005,0,0,1,Wikimedia disambiguation page,,Q4167410,,USS Connecticut
+HMS London,HMS London,Q2553660,1,0,1,1927 County-class heavy cruiser,,Q898771,,HMS London (69)
+HMS London,HMS London,Q689783,1,0,1,1899 London-class pre-dreadnought battleship,,Q1051067,,HMS London (1899)
+HMS London,HMS London,Q4040143,1,0,1,1766 London-class second-rate ship of the line,,Q892368,,HMS London (1766)
+HMS London,HMS London,Q5633181,1,0,1,1656 second-rate ship of the line,,Q892368|Q852190,,English ship London (1656)
+HMS London,HMS London,Q5633185,1,0,1,1961 County-class guided missile destroyer,PNS Babur,Q2607934,,HMS London (D16)
+HMS London,HMS London,Q4040144,1,0,1,1840 Rodney-class second-rate ship of the line,,Q892368,,HMS London (1840)
+HMS London,HMS London,Q1637905,1,0,1,1984 Type 22 frigate,,Q161705,,Romanian frigate Regina Maria (F222)
+HMS London,HMS London,Q4347111,1,0,1,1670 first-rate ship of the line,,Q892367,,HMS London (1670)
+HMS London,HMS London,Q107304793,1,0,1,future Type 26 frigate,,Q161705,,HMS London (Type 26 frigate)
+HMS London,HMS Londonderry,Q5633184,1,0,1,1958 Rothesay-class frigate,,Q161705,,HMS Londonderry (F108)
+HMS Royal Sovereign,HMS Sovereign of the Seas,Q1032099,2,0,1,1637 first-rate ship of the line,Sovereign of the Seas|HMS Sovereign|Sovereign|HMS Royal Sovereign|Royal Sovereign,Q892367,,English ship Sovereign of the Seas
+HMS Royal Sovereign,HMS Royal Sovereign,Q4351910,2,0,1,1891 Royal Sovereign-class pre-dreadnought battleship,,Q1051067,,HMS Royal Sovereign (1891)
+HMS Royal Sovereign,HMS Royal Sovereign,Q2092314,2,0,1,1857 Duke of Wellington-class first-rate ship of the line,,Q892367,,HMS Royal Sovereign (1857)
+HMS Royal Sovereign,HMS Royal Sovereign,Q1565293,2,0,1,1915 Revenge-class super-dreadnought battleship,,Q11636247|Q852190,,HMS Royal Sovereign (05)
+HMS Royal Sovereign,HMS Royal Sovereign,Q4040223,2,0,1,1701 first-rate ship of the line,,Q892367,,HMS Royal Sovereign (1701)
+HMS Royal Sovereign,HMS Royal Sovereign,Q1565299,2,0,1,1786 first-rate ship of the line,,Q892367,,HMS Royal Sovereign (1786)
+HMS Royal Sovereign,HMS Royal Sovereign,Q11713006,2,0,1,1804 royal yacht,,Q2601071,,HMS Royal Sovereign (1804)
+HMS Royal Sovereign,HMS Royal Sovereign,Q50868938,2,0,1,painting by Bernard Finegan Gribble,,Q3305213,,
+HMS Royal Sovereign,HMS Royal Sovereign and other vessels,Q50853528,2,0,1,"painting by Willem van de Velde, the Younger",,Q3305213,,
+HMS Royal Sovereign,HMS Royal Sovereign Memorial,Q26666909,2,0,1,"memorial in Portsmouth, Hampshire, England, UK",,Q575759,,
+HMS Royal Sovereign,HMS Sovereign,Q4352531,2,0,2,1973 Swiftsure-class submarine,,Q757587,,HMS Sovereign (S108)
+HMS Royal Sovereign,HMS Sovereign of the Seas,Q50910715,2,0,2,oil painting by Peter Monamy,Royal Sovereign,Q3305213,,
+HMS Royal Sovereign,HMS Sovereign,Q5634379,2,0,2,Wikimedia disambiguation page,,Q4167410,,HMS Sovereign
+HMS Caesar,HMS Caesar,Q5631738,3,0,1,1896 Majestic-class pre-dreadnought battleship,,Q1051067,,HMS Caesar (1896)
+HMS Caesar,HMS Caesar,Q5631739,3,0,1,1793 third-rate ship of the line,,Q892492,,HMS Caesar (1793)
+HMS Caesar,HMS Caesar,Q11860939,3,0,1,1944 C-class destroyer,,Q174736,,HMS Caesar (R07)
+HMS Caesar,HMS Caesar,Q3124993,3,0,1,Wikimedia disambiguation page,,Q4167410,,HMS Caesar

@@ -1,0 +1,77 @@
+data,candidates,QID,row,columns,quality,description,aliases,P31,P279,sitelink
+Lake Solina,Lake Solina,Q1760896,0,0,1,lake in Poland,,Q131681|Q23397|Q618123,,Lake Solina
+San,Sanskrit,Q11059,0,2,1,ancient Indo-Aryan language of South Asia,Sunscrit|skt|Samskrta|Samskrtam|Sanſcrit|Sanskrit language,Q34770|Q436240|Q152559|Q33742,Q118976896,Sanskrit
+San,San Francisco,Q62,0,2,1,"consolidated city and county in California, United States","San Francisco, California|The City by the Bay|SF|SFO|The Golden City|Paris of the West|Baghdad by the Bay|San Francisco County|San Francisco County, California|San Fran|Frisco|City and County of San Francisco|San Francisco, CA|San Francisco, Calif.",Q13218382|Q1093829|Q1549591|Q3559093|Q3301053|Q515|Q13218391,,San Francisco
+San,San,Q216488,0,2,1,river in Poland and Ukraine,,Q4022,,San (river)
+San,Santiago,Q2887,0,2,1,capital city of Chile,"Santiago, Chile|Greater Santiago",Q25412763|Q1549591|Q51929311|Q208511,,Santiago
+San,Bogotá,Q2841,0,2,1,capital city of Colombia,"Santafé de Bogotá|Bogota, Colombia|Bogotá, D.C.",Q2555896|Q10864048|Q395994|Q1549591|Q499073|Q486972|Q51929311,,Bogotá
+San,San Diego,Q16552,0,2,1,"seat of San Diego County, California, United States; second-largest city in California","San Diego, California|SD|America's Finest City|Sandi|the birthplace of California|San Diego, CA|San Diego, Calif.",Q1093829|Q902814|Q1549591|Q13218391|Q62049,,San Diego
+San,San Sebastián,Q10313,0,2,1,"municipality in Basque Country, Spain",San Sebastian,Q2074737,,San Sebastián
+San,San Antonio,Q975,0,2,1,"city in Bexar, Comal, and Medina counties in Texas, United States; seat of Bexar County","Alamo City|San Antonio, Texas|San Antonio, USA|City of San Antonio|Military City, USA|River City|San Antonio, TX|San Antón|San Antone",Q1093829|Q1549591|Q62049,,San Antonio
+San,Sandra,Q1474819,0,2,1,female given name,Sandra (given name)|Sandra (first name),Q11879590|Q1130279,,Sandra (given name)
+San,Santiago de Compostela,Q14314,0,2,1,"municipality of Galicia, Spain",Santiago de Compostella,Q2276925,,Santiago de Compostela
+San,San Francisco,Q949535,0,2,2,city in Argentina,"San Francisco, Córdoba",Q515|Q15284|Q486972,,"San Francisco, Argentina"
+San,San Francisco,Q316332,0,2,2,municipality of the Philippines in the province of Cebu,,Q24764,,"San Francisco, Cebu"
+San,San Francisco,Q104063,0,2,2,municipality of the Philippines in the province of Quezon,"Municipality of San Francisco|San Francisco, Quezon",Q24764,,"San Francisco, Quezon"
+San,San Francisco,Q627190,0,2,2,municipality of the Philippines in the province of Agusan del Sur,,Q24764,,"San Francisco, Agusan del Sur"
+San,San Francisco,Q173745,0,2,2,municipality of the Philippines in the province of Southern Leyte,,Q24764,,"San Francisco, Southern Leyte"
+San,San Francisco,Q155864,0,2,2,municipality of the Philippines in the province of Surigao del Norte,,Q24764,,"San Francisco, Surigao del Norte"
+San,San Francisco,Q2061686,0,2,2,Madrid Metro station,,Q928830|Q22808403,,San Francisco (Madrid Metro)
+San,San Francisco,Q975641,0,2,2,Colombian municipality of the department of Antioquia,,Q2555896,,"San Francisco, Antioquia"
+San,San Francisco,Q2434062,0,2,2,Colombian municipality of the department of Putumayo,,Q2555896,,"San Francisco, Putumayo"
+Kyiv Reservoir,Kyiv Reservoir,Q1425651,1,0,1,reservoir in Ukraine,Kyiv Sea,Q131681|Q618123,,Kyiv Reservoir
+Kyiv Reservoir,Dnieper Reservoir,Q2381584,1,0,2,water reservoir on the Dnieper River in Ukraine,Dnipro Reservoir,Q131681,,Dnieper Reservoir
+Dnieper,Dnieper,Q40855,1,2,1,river in Eastern Europe,Dnipro River|Dnieper River|Dnepr|Dnipro,Q4022|Q4366834,,Dnieper
+Dnieper,Dnieper basin,Q2887540,1,2,1,drainage basin,Dnipro basin|Dnieper River Watershed,Q166620,,Dnieper basin
+Dnieper,Dnieper River Line,Q29877603,1,2,1,1982 video game,,Q7889,,Dnieper River Line
+Dnieper,Dnieper–Carpathian Offensive,Q701719,1,2,1,1943 World War II military offensive,liberation of right-bank Ukraine|Dnipro-Carpathian operation,Q2001676,,Dnieper–Carpathian offensive
+Dnieper,Dnieper-Bug Estuary,Q2618618,1,2,1,body of water,Dnipro-Buh Estuary,Q39594|Q156030|Q47053,,Dnieper–Bug estuary
+Dnieper,Dnieper Ukraine,Q1322328,1,2,1,"historical, geographic area of Ukraine",Dnipro Ukraine|Naddniprianshchyna,Q368716,,Dnieper Ukraine
+Dnieper,Dnieper–Bug Canal,Q1232916,1,2,1,canal in Belarus,Dnepr-Bug Canal|Royal canal,Q12284,,Dnieper–Bug Canal
+Dnieper,DNIEPER,Q123621573,1,2,1,"weather station in Northern Territory, Australia from 1967 to 1971",015504,Q190107,,
+Dnieper,Dnieper Estuary,Q2621029,1,2,1,body of water,Dnipro Estuary|Dniprovs’kyy Lyman|Dneprovskiy Liman|Dniprovs'ka Gulf|Dniepr Bay|Kherson Bay,Q47053,,Dnieper estuary
+Dnieper,Dnieper Reservoir,Q2381584,1,2,1,water reservoir on the Dnieper River in Ukraine,Dnipro Reservoir,Q131681,,Dnieper Reservoir
+Dnieper,Dnieper River,Q137440001,1,2,2,painting by Włodzimierz Nałęcz,,Q56676227,,
+Dnieper,Dnieper River system of dams,Q2559310,1,2,2,river reservoirs in Ukraine,thread of the Dnieper reservoirs|Dnipro River system of dams|Dnieper HES cascade|Dnipro HES cascade|Dnieper cascade|Dnipro cascade,Q4216603,,Dnieper reservoir cascade
+Dnieper,Dnieper Delta,Q4157282,1,2,2,river delta of the Dnieper River,Dnipro Delta|Dnieper River Delta,Q43197,,
+"Old City Wall, Nan","Old City Wall, Nan",Q113685991,2,0,1,,,Q16748868|Q618123,,
+"Old City Wall, Nan",Nakhon Si Thammarat city wall,Q109653543,2,0,2,"old city wall of Nakhon Si Thammarat, Thailand",Old City Wall,Q16748868,,
+"Old City Wall, Nan",walls of Bologna,Q3867249,2,0,2,"ancient city walls in Bologna, Italy",civic walls of Bologna|city walls of Bologna|ancient walls of Bologna|old city walls of Bologna,Q16748868,,
+"Old City Wall, Nan",city wall of Berlin,Q821769,2,0,2,former city wall,Old City Wall of Berlin,Q16748868,,
+"Old City Wall, Nan",old city wall Venlo behind Dominicanenklooster,Q17445591,2,0,2,"monument in Venlo, Netherlands",,Q16748868,,
+"Old City Wall, Nan",Old City Wall Inn,Q112005069,2,0,2,"hotel in Chiang Mai, Thailand",,Q27686,,
+"Old City Wall, Nan",Nan,Q21143366,2,0,2,unisex given name,Nan (given name)|Nan (first name),Q3409032,,
+"Old City Wall, Nan",Nantes,Q12191,2,0,2,"city in Loire-Atlantique, Pays de la Loire, France",Naoned|Naunnt,Q484170,,Nantes
+"Old City Wall, Nan",Nancy,Q40898,2,0,2,"city and commune in Meurthe-et-Moselle, Grand Est, France",Nanzig,Q484170|Q1549591,,"Nancy, France"
+"Old City Wall, Nan",Nancy,Q2102316,2,0,2,female given name,Nancy (given name)|Nancy (first name),Q11879590,,Nancy (given name)
+"Old City Wall, Nan",Nanjing,Q16666,2,0,2,"capital city of Jiangsu Province, China, former capital of the Republic of China and China's Ming dynasty",Nankin|Nan Jing|Jiangning|Kiangning|Kiang-ning|Nan-king,Q1549591|Q515|Q1208802|Q250811|Q748149|Q27554677|Q137640468,,Nanjing
+"Old City Wall, Nan",Nan-sous-Thil,Q863919,2,0,2,"commune in Côte-d'Or, France",Nan,Q484170,,Nan-sous-Thil
+"Old City Wall, Nan",Southern Min,Q36495,2,0,2,branch of the Min Chinese language,Min Nan Chinese|Min Nan|Minnan|Banlam|Banlamgu|Banlamue|Bân-lâm-gú|Banlam language,Q33742|Q1288568,Q20667215,Southern Min
+"Old City Wall, Nan",Nanterre,Q170507,2,0,2,"commune in Hauts-de-Seine, France",,Q484170|Q515,,Nanterre
+"Old City Wall, Nan",nanoparticle,Q61231,2,0,2,particle with size less than 100 nm,nanoparticles,,Q967847|Q1621273,Nanoparticle
+"Old City Wall, Nan",Nan,Q244698,2,0,2,province in northern Thailand,,Q50198,,Nan province
+Śniardwy,Śniardwy,Q387256,3,0,1,lake in Poland,Jezioro Śniardwy,Q23397|Q1200957,,Śniardwy
+Śniardwy,Śniardwy,Q117882610,3,0,1,,,Q79007,,
+Śniardwy,Śniardwy Orzysz,Q9395688,3,0,1,,,Q847017,,
+Jeglin Canal,Jeglin Canal,Q11734779,3,2,1,Polish channel,,Q12284,,
+Dzierżno Małe Lake,Dzierżno Małe Lake,Q2334347,4,0,1,"post-exploitation reservoir in southern Poland, in the western part of the Silesian Voivodeship",,Q9388503|Q23397|Q35145743|Q618123,,
+Dzierżno Małe Lake,Kłodnica,Q1774837,4,0,2,"river in Poland, a right tributary of the Oder",,Q4022,,Kłodnica
+Dzierżno Małe Lake,Kłodnica,Q1797557,4,0,2,"part of the city of Kędzierzyn-Koźle in the Opolskie Voivodeship, Poland",,Q2983893,,"Kłodnica, Kędzierzyn-Koźle"
+Dzierżno Małe Lake,Kłodnica,Q65161625,4,0,2,"part of the Halemba district in Ruda Śląska, Poland",,Q4286337|Q46162742,,
+Dzierżno Małe Lake,"Kłodnica, Lubusz Voivodeship",Q6454938,4,0,2,village in west Poland,,Q3558970,,"Kłodnica, Lubusz Voivodeship"
+Dzierżno Małe Lake,Kłodnica Dolna,Q117718,4,0,2,village of Poland,,Q3558970,,Kłodnica Dolna
+Dzierżno Małe Lake,"Kłodnica, Lublin Voivodeship",Q6454936,4,0,2,"village in Lublin, Poland",,Q3558970,,"Kłodnica, Lublin Voivodeship"
+Dzierżno Małe Lake,Kłodnica Canal,Q357323,4,0,2,canal in Poland (1812–1936),Kanał Kłodnicki|Klodnitz-Kanal,Q12284|Q811165,,Kłodnica Canal
+Dzierżno Małe Lake,Kłodnica station,Q2008126,4,0,2,railway station in Poland,,Q55488,,
+Dzierżno Małe Lake,Kłodnica Górna,Q6454940,4,0,2,"village in Lublin Voivodeship, Poland",,Q3558970,,Kłodnica Górna
+Dzierżno Małe Lake,Kolodnitsia,Q4228209,4,0,2,"village in Stryi Raion, Lviv Oblast, Ukraine",,Q21672098,,
+Kłodnica,Kłodnica,Q1774837,4,2,1,"river in Poland, a right tributary of the Oder",,Q4022,,Kłodnica
+Kłodnica,Kłodnica,Q1797557,4,2,1,"part of the city of Kędzierzyn-Koźle in the Opolskie Voivodeship, Poland",,Q2983893,,"Kłodnica, Kędzierzyn-Koźle"
+Kłodnica,Kłodnica,Q65161625,4,2,1,"part of the Halemba district in Ruda Śląska, Poland",,Q4286337|Q46162742,,
+Kłodnica,"Kłodnica, Lubusz Voivodeship",Q6454938,4,2,1,village in west Poland,,Q3558970,,"Kłodnica, Lubusz Voivodeship"
+Kłodnica,Kłodnica Dolna,Q117718,4,2,1,village of Poland,,Q3558970,,Kłodnica Dolna
+Kłodnica,"Kłodnica, Lublin Voivodeship",Q6454936,4,2,1,"village in Lublin, Poland",,Q3558970,,"Kłodnica, Lublin Voivodeship"
+Kłodnica,Kłodnica Canal,Q357323,4,2,1,canal in Poland (1812–1936),Kanał Kłodnicki|Klodnitz-Kanal,Q12284|Q811165,,Kłodnica Canal
+Kłodnica,Kłodnica station,Q2008126,4,2,1,railway station in Poland,,Q55488,,
+Kłodnica,Kłodnica Górna,Q6454940,4,2,1,"village in Lublin Voivodeship, Poland",,Q3558970,,Kłodnica Górna
+Kłodnica,Kolodnitsia,Q4228209,4,2,1,"village in Stryi Raion, Lviv Oblast, Ukraine",,Q21672098,,
