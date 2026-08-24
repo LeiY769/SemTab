@@ -1,5 +1,5 @@
-INPUT_FOLDER:WikidataTables2024R1/DataSets/Training/candidate_lora_fp16_32
-PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/Training/preprocessing_nollm
+INPUT_FOLDER:WikidataTables2024R1/DataSets/other_dataset/candidate_lora_fp16_32
+PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/other_dataset/preprocessing_nollm
 OUTPUT_FOLDER:results/methods/no_slm
 
 # Method: limited_slm (rules + SLM tie-break) | full_slm (debate + verify) | slm_context (gated, table context)

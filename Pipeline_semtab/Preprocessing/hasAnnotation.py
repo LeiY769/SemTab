@@ -10,6 +10,13 @@ def get_csv_files(input_folder):
         file_list.append(file_name)
     return file_list
     
+def read_targets(target_folder, name, n_cols):
+    path = os.path.join(target_folder, name)
+    if not os.path.exists(path) or os.path.getsize(path) == 0:
+        print(f"No {name} in {target_folder}, the matching annotations stay empty.")
+        return pd.DataFrame(columns=list(range(n_cols)))
+    return pd.read_csv(path, header=None)
+
 def hasAnnotation(config):
     input_folder = config["INPUT_FOLDER"]
     output_folder = config["OUTPUT_FOLDER"]
@@ -25,10 +32,10 @@ def hasAnnotation(config):
             print("Take care to know ,You overwrite original files.")
         elif not os.path.exists(output_folder):
             os.makedirs(output_folder)
-
+    # 2 for the cta file and 3 for the cpa file
     cea_file = pd.read_csv(os.path.join(target_folder, "cea_targets.csv"),header=None)
-    cta_file = pd.read_csv(os.path.join(target_folder, "cta_targets.csv"),header=None)
-    cpa_file = pd.read_csv(os.path.join(target_folder, "cpa_targets.csv"),header=None)
+    cta_file = read_targets(target_folder, "cta_targets.csv", 2)
+    cpa_file = read_targets(target_folder, "cpa_targets.csv", 3)
 
     for file in input_files:
         file_path = file 

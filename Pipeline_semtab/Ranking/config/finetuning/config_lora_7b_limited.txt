@@ -1,11 +1,11 @@
-INPUT_FOLDER:WikidataTables2024R1/DataSets/other_dataset/candidate_lora_fp16_32
-PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/other_dataset/preprocessing_nollm
-OUTPUT_FOLDER:results/methods/finetuning_context_7b
+INPUT_FOLDER:WikidataTables2024R1/DataSets/Valid/candidate_lora_fp16
+PREPROCESS_FOLDER:WikidataTables2024R1/DataSets/Valid/preprocessing_nollm
+OUTPUT_FOLDER:results/finetuning/lora_7b_limited
 
 # Method: limited_slm (rules + SLM tie-break) | full_slm (debate + verify) | slm_context (gated, table context)
-METHOD:slm_context
+METHOD:limited_slm
 MODEL_NAME:Qwen/Qwen2.5-7B-Instruct
-ADAPTER_PATH:lora-fp16-adapter-ranking7b_context
+ADAPTER_PATH:lora-fp16-adapter-ranking7b_limited
 
 # Which tasks to produce (comma-separated): cea,cta,cpa
 TASKS:cea,cta,cpa

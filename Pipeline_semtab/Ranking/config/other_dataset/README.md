@@ -11,8 +11,10 @@ Shared setting for the whole group: `INPUT_FOLDER:Training/candidate_lora_fp16_3
 | `config_slm_context.txt` | `slm_context`, Qwen2.5-3B, margin 0.10 | `results/methods/slm_context` |
 | `config_finetuning.txt` | `slm_context`, Qwen2.5-3B + `lora-fp16-adapter-ranking3b_context` | `results/methods/finetuning_context` |
 | `config_finetuning_bigger_model.txt` | `slm_context`, Qwen2.5-7B + `lora-fp16-adapter-ranking7b_context` | `results/methods/finetuning_context_7b` |
+| `config_finetuning_limited.txt` | `limited_slm`, Qwen2.5-3B + `lora-fp16-adapter-ranking3b_limited` | `results/methods/finetuning_limited` |
+| `config_finetuning_limited_bigger_model.txt` | `limited_slm`, Qwen2.5-7B + `lora-fp16-adapter-ranking7b_limited` | `results/methods/finetuning_limited_7b` |
 
-Jobs: `Job/job_ranking_test.sh` runs the two finetuning configs, `Job/job_ranking_test_noslm.sh` runs `config_noslm.txt`; the two plain method configs are launched individually.
+Jobs: `Job/job_ranking_test.sh` runs the two `slm_context` finetuning configs, `Job/job_ranking_test_noslm.sh` runs `config_noslm.txt`; the two `limited_slm` finetuning configs are run by `Job/job_ranking_finetuning_limited.sh` together with their Valid counterparts; the two plain method configs are launched individually.
 
 > The `OUTPUT_FOLDER` values collide with those of the Valid `methods/` group (`results/methods/...`). Move or rename the previous results before running this group, otherwise the Valid outputs are overwritten. The collected results are kept apart in `Evaluator/Testing_data/Ranking/ranking_other_dataset/`.
 

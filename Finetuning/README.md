@@ -9,13 +9,14 @@ Two components are finetuned:
 
 ## Main files
 
-- `lora_finetuning.py` — LoRA finetuning, config-driven: it reads a `config.txt` next to it with `model_name`, `train_file`, `valid_file`, `max_len`, `output_dir`, `adapter_r`, `lora_alpha`. Same script for both components — only the dataset and the output folder change. LoRA on `q/k/v/o_proj`, dropout 0.05, bf16, 5 epochs, lr 2e-4, `paged_adamw_8bit`, cosine schedule, gradient checkpointing, `completion_only_loss=True`, and early stopping on `eval_loss` when a validation file exists.
+- `lora_finetuning.py` — LoRA finetuning, config-driven: it takes the config file as its first argument (`python -u lora_finetuning.py config/config_limited_3b.txt`, defaulting to `config_finetune.txt`) with `model_name`, `train_file`, `valid_file`, `max_len`, `output_dir`, `adapter_r`, `lora_alpha`. Same script for both components — only the dataset and the output folder change. LoRA on `q/k/v/o_proj`, dropout 0.05, bf16, 5 epochs, lr 2e-4, `paged_adamw_8bit`, cosine schedule, gradient checkpointing, `completion_only_loss=True`, and early stopping on `eval_loss` when a validation file exists.
 - `q_lora_finetuning.py` — QLoRA (4-bit NF4, double quant, bf16 compute) variant of the candidate-generator training, for the memory-constrained comparison. Its parameters are hard-coded, not config-driven; outputs to `./qlora-output`.
 - `count_examples.ipynb` — counts the examples of every JSON dataset and prints the train/valid split ratios reported in the thesis.
 - `Dataset/` — the tables, ground truth and JSON datasets the training runs on. See its README.
-- `Job/` — SLURM submission scripts, one per training run: `lora_finetuning.sh`, `finetuning_32.sh` (larger-rank adapter), `q_lorafinetuning.sh`, `finetuning_ranking.sh` and `finetuning_ranking2.sh` (the two ranking adapters). The jobs are identical apart from the script they call — they differ only through the parameters that used to be hard-coded in those scripts.
+- `config/` — configs for the ranking-LLM runs on the `limited_slm` dataset: `config_limited_3b.txt` (Qwen2.5-3B-Instruct) and `config_limited_7b.txt` (Qwen2.5-7B-Instruct), producing `lora-fp16-adapter-ranking3b_limited` / `lora-fp16-adapter-ranking7b_limited`.
+- `Job/` — SLURM submission scripts, one per training run: `lora_finetuning.sh`, `finetuning_32.sh` (larger-rank adapter), `q_lorafinetuning.sh`, `finetuning_ranking.sh` and `finetuning_ranking2.sh` (the two ranking adapters), `finetuning_limited.sh` (the 3B then the 7B `limited_slm` adapter, in one job). The jobs are identical apart from the script they call — they differ only through the parameters that used to be hard-coded in those scripts.
 
-> The `Job/*.sh` scripts still call the per-experiment script names of the earlier layout (`lora_finetuning_32.py`, `lora_finetuning_ranking.py`, `lora_finetuning_ranking2.py`). Those files were merged into the config-driven `lora_finetuning.py`; to rerun a variant, point the job at `lora_finetuning.py` and write the matching `config.txt` instead.
+> The `Job/*.sh` scripts still call the per-experiment script names of the earlier layout (`lora_finetuning_32.py`, `lora_finetuning_ranking.py`, `lora_finetuning_ranking2.py`). Those files were merged into the config-driven `lora_finetuning.py`; to rerun a variant, point the job at `lora_finetuning.py <config.txt>` instead.
 
 ## Adapters produced
 
@@ -23,6 +24,7 @@ Two components are finetuned:
 |---|---|---|
 | `lora-fp16-adapter`, `lora-fp16-adapter-32`, `lora-fp16-adapter-all` | candidate generator | `Candidate_Retrieval/config/config_test_finetuning/` |
 | `qlora-adapter` | candidate generator (4-bit) | `Candidate_Retrieval/config/config_test_finetuning/config_qlora.txt` |
-| `lora-fp16-adapter-ranking3b_context`, `lora-fp16-adapter-ranking7b_context` | ranking LLM | `Ranking/config/finetuning/`, `Ranking/config/other_dataset/` |
+| `lora-fp16-adapter-ranking3b_context`, `lora-fp16-adapter-ranking7b_context` | ranking LLM (`slm_context`) | `Ranking/config/finetuning/`, `Ranking/config/other_dataset/` |
+| `lora-fp16-adapter-ranking3b_limited`, `lora-fp16-adapter-ranking7b_limited` | ranking LLM (`limited_slm`) | `Finetuning/config/config_limited_{3b,7b}.txt` |
 
 The adapter weights themselves are not committed; retrain them with the jobs above, or point `ADAPTER_PATH` at your own copies.

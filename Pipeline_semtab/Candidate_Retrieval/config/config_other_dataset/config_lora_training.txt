@@ -1,6 +1,6 @@
 # Folder
-INPUT_FOLDER:WikidataTables2024R1/DataSets/Training/preprocessing_nollm
-OUTPUT_FOLDER:WikidataTables2024R1/DataSets/Training/candidate_lora_fp16_32
+INPUT_FOLDER:WikidataTables2024R1/DataSets/other_dataset/preprocessing_nollm
+OUTPUT_FOLDER:WikidataTables2024R1/DataSets/other_dataset/candidate_lora_fp16_32
 
 # Query
 GENERATOR_ORDER:direct,llm

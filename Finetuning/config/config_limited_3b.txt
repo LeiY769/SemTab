@@ -1,0 +1,8 @@
+model_name:Qwen/Qwen2.5-3B-Instruct
+train_file:finetune_datasets/ft_slm_limited_train.json
+valid_file:finetune_datasets/ft_slm_limited_valid.json
+max_len:4096
+
+output_dir:./lora-fp16-adapter-ranking3b_limited
+adapter_r:16
+lora_alpha:32

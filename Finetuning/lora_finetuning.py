@@ -1,6 +1,7 @@
 import os
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
+import sys
 import torch
 from datasets import load_dataset
 from transformers import (AutoTokenizer, AutoModelForCausalLM, EarlyStoppingCallback)
@@ -20,7 +21,7 @@ def load_config(path):
             config[key.strip()] = value.strip().replace("\\n", "\n")
     return config
 
-config = load_config("config.txt")
+config = load_config(sys.argv[1] if len(sys.argv) > 1 else "config_finetune.txt")
 
 model_name = config.get("model_name", "Qwen/Qwen2.5-7B-Instruct")
 train_file = config.get("train_file", "finetune_datasets/ft_slm_context_train.json")

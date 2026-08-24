@@ -9,7 +9,7 @@ Experiment configurations for the ranking stage. Each subfolder is one experimen
 - `models/` — compares base LLMs (Qwen2.5, Llama 3.x, Gemma, GLM-4).
 - `prompts/` — compares prompting strategies (one-shot, few-shot, CoT, self-consistency).
 - `inputs/` — same ranking on candidate sets from different retrieval variants.
-- `finetuning/` — LoRA-finetuned ranking models (3B and 7B) vs. the base model (baseline = `methods/config_slm_context.txt`).
+- `finetuning/` — LoRA-finetuned ranking models (3B and 7B, for both `slm_context` and `limited_slm`) vs. the base model (baselines = `methods/config_slm_context.txt` and `methods/config_limited_slm.txt`).
 - `cta_nosel/` — same three methods with `CTA_FROM_SELECTION:False` (CTA from the full candidate set instead of the CEA selection), on both the base Valid split and the Training split (`cta_nosel/other_dataset/`).
 - `cta_cpa_noslm/` — same three methods with the SLM disabled on CTA and CPA (`CTA_USE_SLM:False`, `CPA_USE_SLM:False`), CEA unchanged; `nosel/` repeats it with `CTA_FROM_SELECTION:False`.
 - `cta_margin/` — sweep of the CTA tie-break parameters `CTA_MARGIN` and `CTA_TOPK`, method fixed to slm_context.
