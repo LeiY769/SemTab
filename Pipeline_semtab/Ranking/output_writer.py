@@ -5,11 +5,13 @@ ENTITY_URI = "http://www.wikidata.org/entity/"
 PROP_URI = "http://www.wikidata.org/prop/direct/"
 
 class OutputWriter:
-    def __init__(self, output_folder, as_uri=True, write_header=False, row_offset=1):
+    def __init__(self, output_folder, as_uri=True, write_header=False, row_offset=1,
+                 nil_label=None):
         self.output_folder = output_folder
         self.as_uri = as_uri
         self.write_header = write_header
         self.row_offset = row_offset
+        self.nil_label = nil_label
         os.makedirs(output_folder, exist_ok=True)
         self.cea = []
         self.cta = []
@@ -18,6 +20,8 @@ class OutputWriter:
     def fmt(self, ident, prefix=ENTITY_URI):
         if not ident:
             return ""
+        if self.nil_label and ident == self.nil_label:
+            return ident
         return prefix + ident if self.as_uri else ident
     def add_cea(self, tab_id, row_id, col_id, qid):
         if not qid:

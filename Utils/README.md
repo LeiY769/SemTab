@@ -15,6 +15,8 @@ Helper scripts and notebooks that support the pipeline but are not part of it: d
 - `finetune/config_finetune.txt` its config: which split to read, `FT_METHOD` (which of the two datasets to build), output folder, validation ratio and seed, plus the gate keys mirroring the ranking inference config so the training distribution matches inference.
 - `job_create.sh` : SLURM job running `dataset_build_ranking.py` over the configs listed in it.
 
+> `dataset_build_ranking.py` also builds the MammoTab 2025 sets, with `ALLOW_NIL` on so a mention with no entity becomes a NIL training target. Its config and job live in `Mammotab/`, outside the thesis material.
+
 Both outputs land in `Finetuning/Dataset/finetune_datasets/`.
 
 ## Analyses that feed the pipeline

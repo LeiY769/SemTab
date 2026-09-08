@@ -24,10 +24,29 @@ On the SLURM cluster, each `Job/job_ranking_<experiment>.sh` script runs all con
 - `data_loader.py` — reads candidate CSVs and preprocessing files (incl. the CTA/CPA metadata header).
 - `output_writer.py` — writes `cea.csv`, `cta.csv`, `cpa.csv` in the SemTab submission format (URIs, row offset).
 - `wikidata_api_ranking.py` — rate-limited Wikidata API client (same client as the retrieval stage): labels, descriptions and claims are fetched live in batches, with no persistent cache.
-- `vram_logger_ranking.py` — GPU memory logging per table.
+- `logger_ranking.py` — cost logging for the SLM calls: per-table GPU memory and prompt/generated token counts. Both files are written to the `log_ranking/` folder, created on the first write, and are named after the run's `OUTPUT_FOLDER` (`vram_log_ranking_<output folder>.csv`, `token_log_ranking_<output folder>.csv`), so successive variants do not mix into one file; setting `LOG_DIR` moves the folder, and `VRAM_LOG_FILE` / `TOKEN_LOG_FILE` override the full path. Token rows carry the per-table delta and the running total, over every task (CEA, CTA, CPA) and every extra call of the method (debate, verify, self-consistency samples). Nothing is logged for a run without SLM.
 - `wikidata_cache.json` — leftover label cache from an earlier run; no code in this folder reads it (the API client is cacheless), it is kept only to avoid re-querying the API from the analysis notebooks.
 - `config/` — the experiment groups, one subfolder each. See its README.
 - `Job/` — one SLURM script per group, plus `job_relaunch_fail.sh`, a one-config scratch script kept to re-run a config that failed mid-sweep.
+
+## NIL answers (`ALLOW_NIL`)
+
+Off by default, so every experiment of the thesis behaves exactly as before. It
+exists for datasets whose ground truth contains mentions with no Wikidata entity
+(MammoTab 2025 — see `Mammotab/`), where a pipeline that always answers is wrong
+on every one of them.
+
+With `ALLOW_NIL:True`, the CEA prompts of `llm_code_ranking.py` gain a
+`- NIL: none of the above` option and an instruction saying a NIL answer is
+correct for such a cell; the parsers read `NIL`, `none of these`, `no match`,
+`idk` and `I don't know` (a QID still wins, and in CoT mode an explicit
+`Answer: NIL` overrides any QID weighed earlier); a cell with no candidate at all
+is written as NIL instead of being skipped; `NIL_REVIEW_SCORE` adds a second gate
+that sends weakly-scored cells to the LLM whatever their margin, without which a
+NIL cell with one confident-looking wrong candidate would never reach it;
+`NIL_SCORE_THRESHOLD` is the rules-only fallback for runs with no LLM. A NIL
+choice is written out but does not vote in `CTA_FROM_SELECTION`, and the writer
+emits the label with no entity URI prefix.
 
 ## Determinism
 

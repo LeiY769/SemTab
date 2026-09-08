@@ -9,7 +9,7 @@ Two components are finetuned:
 
 ## Main files
 
-- `lora_finetuning.py` — LoRA finetuning, config-driven: it takes the config file as its first argument (`python -u lora_finetuning.py config/config_limited_3b.txt`, defaulting to `config_finetune.txt`) with `model_name`, `train_file`, `valid_file`, `max_len`, `output_dir`, `adapter_r`, `lora_alpha`. Same script for both components — only the dataset and the output folder change. LoRA on `q/k/v/o_proj`, dropout 0.05, bf16, 5 epochs, lr 2e-4, `paged_adamw_8bit`, cosine schedule, gradient checkpointing, `completion_only_loss=True`, and early stopping on `eval_loss` when a validation file exists.
+- `lora_finetuning.py` — LoRA finetuning, config-driven: it takes the config file as its first argument (`python -u lora_finetuning.py config/config_limited_3b.txt`, defaulting to `config_finetune.txt`) with `model_name`, `train_file`, `valid_file`, `max_len`, `output_dir`, `adapter_r`, `lora_alpha`. Same script for both components — only the dataset and the output folder change. It accepts the two dataset schemas: the ranking sets and `candidate_gen_mammotab_*.json` carry the rendered `user` / `completion`, while the older `candidate_gen_*.json` carry `cell_value` / `context` / `candidates`, rendered into the same prompt on the fly (identical to what `q_lora_finetuning.py` does). LoRA on `q/k/v/o_proj`, dropout 0.05, bf16, 5 epochs, lr 2e-4, `paged_adamw_8bit`, cosine schedule, gradient checkpointing, `completion_only_loss=True`, and early stopping on `eval_loss` when a validation file exists.
 - `q_lora_finetuning.py` — QLoRA (4-bit NF4, double quant, bf16 compute) variant of the candidate-generator training, for the memory-constrained comparison. Its parameters are hard-coded, not config-driven; outputs to `./qlora-output`.
 - `count_examples.ipynb` — counts the examples of every JSON dataset and prints the train/valid split ratios reported in the thesis.
 - `Dataset/` — the tables, ground truth and JSON datasets the training runs on. See its README.
@@ -28,3 +28,5 @@ Two components are finetuned:
 | `lora-fp16-adapter-ranking3b_limited`, `lora-fp16-adapter-ranking7b_limited` | ranking LLM (`limited_slm`) | `Finetuning/config/config_limited_{3b,7b}.txt` |
 
 The adapter weights themselves are not committed; retrain them with the jobs above, or point `ADAPTER_PATH` at your own copies.
+
+> Three more adapters, trained on a second dataset after the thesis, live outside this folder: see `Mammotab/`. They reuse `lora_finetuning.py` unchanged.

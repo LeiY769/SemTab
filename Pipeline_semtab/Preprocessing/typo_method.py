@@ -6,7 +6,7 @@ import pandas as pd
 import multiprocessing
 import queue
 
-from vram_logger_preprocessing import log_vram, reset_peaks
+from logger_preprocessing import log_vram, reset_peaks, add_tokens, log_tokens, reset_tokens, set_run_name
 
 def load_model(model_name, device_id=0):
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -78,8 +78,16 @@ def correct_typo_with_llm(text, tokenizer, model, SYSTEM_PROMPT,max_new_tokens=6
  
         with torch.no_grad():
             gen = model.generate(**inputs,max_new_tokens=max_new_tokens,do_sample=False,pad_token_id=tokenizer.pad_token_id)
- 
+
         new_tokens = gen[:, inputs["input_ids"].shape[1]:]
+
+        if "attention_mask" in inputs:
+            in_tokens = int(inputs["attention_mask"].sum().item())
+        else:
+            in_tokens = int(inputs["input_ids"].numel())
+        out_tokens = int((new_tokens != tokenizer.pad_token_id).sum().item())
+        add_tokens(in_tokens, out_tokens)
+
         decoded = tokenizer.batch_decode(new_tokens, skip_special_tokens=True)
  
         for corr, orig in zip(decoded, chunk):
@@ -118,16 +126,19 @@ def process_file_df(df, tokenizer, model, system_prompt, batch_size=32, max_new_
 
     return df
 
-def process_single_file(input_folder, output_folder, file_name, tokenizer, model, system_prompt, use_fewshot=True, fewshot_examples=None):
+def process_single_file(input_folder, output_folder, file_name, tokenizer, model, system_prompt, use_fewshot=True, fewshot_examples=None, device_id=None):
     in_path = os.path.join(input_folder, file_name)
     out_path = os.path.join(output_folder, file_name)
 
     df = pd.read_csv(in_path)
     df = process_file_df(df, tokenizer, model, system_prompt, batch_size=32, max_new_tokens=64, use_fewshot=use_fewshot, fewshot_examples=fewshot_examples)
     df.to_csv(out_path, index=False)
+    log_tokens(file_name, device_id=device_id)
 
 def worker_process(file_queue, input_folder, model_name, system_prompt, output_folder, device_id, use_fewshot=True, fewshot_examples=None):
+    set_run_name(output_folder)
     reset_peaks(device_id)
+    reset_tokens()
     tokenizer, model = load_model(model_name, device_id=device_id)
     print(f"[GPU {device_id}] model loaded on", next(model.parameters()).device)
     log_vram("model_loaded", device_id=device_id)
@@ -138,10 +149,11 @@ def worker_process(file_queue, input_folder, model_name, system_prompt, output_f
         except queue.Empty:
             break
         try:
-            process_single_file(input_folder, output_folder, file_name, tokenizer, model, system_prompt, use_fewshot=use_fewshot, fewshot_examples=fewshot_examples)
+            process_single_file(input_folder, output_folder, file_name, tokenizer, model, system_prompt, use_fewshot=use_fewshot, fewshot_examples=fewshot_examples, device_id=device_id)
         except Exception as e:
             print(f"[GPU {device_id}] ERROR on {file_name}: {e}")
     log_vram("typo_correction_done", device_id=device_id)
+    log_tokens("typo_correction_done", device_id=device_id)
 
 def process_folder(config):
     need_correctypo = config.get("NEED_CORRECTTYPO", "True").lower() == "true"
@@ -159,6 +171,7 @@ def process_folder(config):
     if output_folder is None:
         output_folder = input_folder + "_typo_corrected"
     os.makedirs(output_folder, exist_ok=True)
+    set_run_name(output_folder)
 
     if torch.cuda.is_available():
         available_gpus = torch.cuda.device_count()
@@ -171,6 +184,7 @@ def process_folder(config):
     
     if num_gpus == 1 or not torch.cuda.is_available():
         reset_peaks()
+        reset_tokens()
         tokenizer, model = load_model(model_name, device_id=0)
         print("model device:", next(model.parameters()).device)
         log_vram("model_loaded")
@@ -182,7 +196,9 @@ def process_folder(config):
             df = pd.read_csv(in_path)
             df = process_file_df(df, tokenizer, model, system_prompt, batch_size=32, max_new_tokens=64, use_fewshot=use_fewshot, fewshot_examples=fewshot_examples)
             df.to_csv(out_path, index=False)
+            log_tokens(file_name)
         log_vram("typo_correction_done")
+        log_tokens("typo_correction_done")
     else:
         multiprocessing.set_start_method('spawn', force=True)
 

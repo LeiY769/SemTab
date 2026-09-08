@@ -38,21 +38,29 @@ def context_tiebreak(scored, row_terms, context_margin):
             return best_c["qid"]
     return None
     #Value for context_margin is set higher than the LLM margin because of the cost to call the first 
-def choose_cea(cands, type_pct, llm=None, use_slm=True, margin=0.05,row_context="", col_header="", weights=DEFAULT_WEIGHTS,row_terms=None, context_margin=0.1, llm_topk=5):
+def choose_cea(cands, type_pct, llm=None, use_slm=True, margin=0.05,row_context="", col_header="", weights=DEFAULT_WEIGHTS,row_terms=None, context_margin=0.1, llm_topk=5,allow_nil=False, nil_label="NIL", nil_threshold=0.0, nil_review=0.0):
     scored = rank_cell(cands, type_pct, weights)
     if not scored:
-        return None
+        return nil_label if allow_nil else None
+    top_score = scored[0][0]
     if len(scored) == 1:
+        if allow_nil and top_score < nil_threshold:
+            return nil_label
         return scored[0][1]["qid"]
     if context_margin > 0 and row_terms:
         choice = context_tiebreak(scored, row_terms, context_margin)
         if choice:
             return choice
     if not (use_slm and llm):
+        if allow_nil and top_score < nil_threshold:
+            return nil_label
         return scored[0][1]["qid"]
-    if scored[0][0] - scored[1][0] < margin:
+    needs_nil_review = allow_nil and nil_review > 0 and top_score < nil_review
+    if scored[0][0] - scored[1][0] < margin or needs_nil_review:
         top_cands = [c for _, c in scored[:llm_topk]]
         choice = llm.select_best_entity(top_cands[0]["mention"], top_cands, row_context, col_header)
         if choice:
             return choice
+    if allow_nil and top_score < nil_threshold:
+        return nil_label
     return scored[0][1]["qid"]

@@ -2,6 +2,8 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM,BitsAndBytesConfig
 from peft import PeftModel
 
+from logger_candidate_retrieval import add_tokens
+
 class LLMEngine:
     def __init__(self, model_name, device_id=0, max_ctx=2048,adapter_path=None, load_in_4bit=False):
         self.model_name = model_name
@@ -68,6 +70,15 @@ class LLMEngine:
             with torch.no_grad():
                 gen = self.model.generate(**inputs, **gen_kwargs)
             new_tokens = gen[:, inputs["input_ids"].shape[1]:]
+
+            if "attention_mask" in inputs:
+                in_tokens = int(inputs["attention_mask"].sum().item())
+            else:
+                in_tokens = int(inputs["input_ids"].numel())
+            in_tokens *= max(1, int(num_return_sequences))
+            out_tokens = int((new_tokens != self.tokenizer.pad_token_id).sum().item())
+            add_tokens(in_tokens, out_tokens)
+
             decoded = self.tokenizer.batch_decode(new_tokens, skip_special_tokens=True)
             outputs.extend(d.strip() for d in decoded)
         return outputs

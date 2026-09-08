@@ -10,6 +10,7 @@ Code for a SemTab-style table annotation system over Wikidata (WikidataTables202
 - `EDA/` : exploratory analysis of the dataset (table sizes, NaN ratios, token statistics).
 - `Setup/` : environment snapshot and extraction of a reduced Wikidata subset from a full N-Triples dump.
 - `Utils/` : dataset splitting, finetuning-dataset construction, config generation and misc helper notebooks.
+- `Mammotab/` : work done **after** the thesis, kept apart from it: rerunning the whole pipeline on a second dataset, MammoTab 2025. Self-contained (scripts, configs, jobs, datasets, scoring). See its README.
 
 ## Conventions used everywhere
 

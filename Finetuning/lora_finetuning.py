@@ -32,15 +32,31 @@ output_dir = config.get("output_dir", "./lora-bf16")
 adapter_r = int(config.get("adapter_r", 16))
 lora_alpha = int(config.get("lora_alpha", 32))
 
+train_bs = int(config.get("per_device_train_batch_size", 2))
+eval_bs = int(config.get("per_device_eval_batch_size", train_bs))
+grad_accum = int(config.get("gradient_accumulation_steps", 4))
+epochs = float(config.get("num_train_epochs", 5))
+eval_steps = int(config.get("eval_steps", 500))
+group_by_length = config.get("group_by_length", "false").strip().lower() == "true"
+
 tokenizer = AutoTokenizer.from_pretrained(model_name)
 if tokenizer.pad_token is None:
     tokenizer.pad_token = tokenizer.eos_token
 def format_example(example):
+    user = example.get("user")
+    completion = example.get("completion")
+    if not user:
+        user = f"Cell value: {example['cell_value']}"
+        if example.get("context"):
+            user += f"\nContext: {example['context']}"
+        user += "\nCandidates:"
+    if not completion:
+        completion = example["candidates"]
     prompt = []
     if example.get("system"):
         prompt.append({"role": "system", "content": example["system"]})
-    prompt.append({"role": "user", "content": example["user"]})
-    return {"prompt": prompt,"completion": [{"role": "assistant", "content": example["completion"]}]}
+    prompt.append({"role": "user", "content": user})
+    return {"prompt": prompt,"completion": [{"role": "assistant", "content": completion}]}
 
 model = AutoModelForCausalLM.from_pretrained(model_name,dtype=torch.bfloat16,device_map={"": 0})
 model.config.use_cache = False
@@ -59,15 +75,17 @@ ds = ds.map(format_example, remove_columns=ds["train"].column_names)
 has_val = "validation" in ds
 training_args = SFTConfig(
     output_dir=output_dir,
-    per_device_train_batch_size=2,
-    gradient_accumulation_steps=4,
+    per_device_train_batch_size=train_bs,
+    per_device_eval_batch_size=eval_bs,
+    gradient_accumulation_steps=grad_accum,
+    group_by_length=group_by_length,
     learning_rate=2e-4,
-    num_train_epochs=5,
+    num_train_epochs=epochs,
     logging_steps=10,
-    save_steps=500,
+    save_steps=eval_steps,
     save_total_limit=2,
     eval_strategy="steps" if has_val else "no",
-    eval_steps=500 if has_val else None,
+    eval_steps=eval_steps if has_val else None,
     optim="paged_adamw_8bit",    
     lr_scheduler_type="cosine",
     warmup_ratio=0.03,

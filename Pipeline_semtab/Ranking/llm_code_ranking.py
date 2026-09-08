@@ -6,6 +6,8 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from peft import PeftModel
 
+from logger_ranking import add_tokens
+
 DEFAULT_PROMPTS = {
     "CEA_PROMPT": (
         "Cell value: ${mention}\n${row_block}\n"
@@ -37,6 +39,16 @@ DEFAULT_PROMPTS = {
         "label, description and type. Briefly say why the close alternatives "
         "are eliminated, then finish with one single final line, exactly in "
         "the form:\nAnswer: <QID>"
+    ),
+    "NIL_CANDIDATE_LINE": (
+        "- NIL: none of the above, the cell does not refer to any of these entities"
+    ),
+    "NIL_INSTRUCTION": (
+        "Some cells refer to no Wikidata entity at all, and the retrieved "
+        "candidates are then all wrong. Answer NIL when that is the case: an "
+        "answer of NIL is correct for such a cell, and picking a plausible but "
+        "wrong entity is not. Only give a QID when the candidate really is the "
+        "entity the cell names."
     ),
     "CTA_PROMPT": (
         "${values_block}\n"
@@ -73,6 +85,8 @@ DEFAULT_SIZES = {
     "MAX_NEW_TOKENS_DEBATE": 256,
     "MAX_NEW_TOKENS_VERIFY": 256,
 }
+NIL_RE = re.compile(r"\bNIL\b|\bnone of (?:the|these|them)\b|\bno match\b"r"|\bnot (?:in|among) the candidates\b|\bidk\b|\bI don'?t know\b", re.I)
+
 def render(template, values):
     return string.Template(template).safe_substitute(values)
 def opt_line(label, value):
@@ -116,6 +130,9 @@ class LLMEngine:
         self.adapter_path = (config.get("ADAPTER_PATH", "") or "").strip() or None
         self.load_in_4bit = str(config.get("LOAD_IN_4BIT", "false")).strip().lower() == "true"
         token_source = self.adapter_path or self.model_name
+
+        self.allow_nil = str(config.get("ALLOW_NIL", "false")).strip().lower() == "true"
+        self.nil_label = config.get("NIL_LABEL", "NIL").strip() or "NIL"
 
         self.context_cot = str(config.get("CONTEXT_COT", "false")).strip().lower() == "true"
         self.sc_enabled = str(config.get("CONTEXT_SELF_CONSISTENCY", "false")).strip().lower() == "true"
@@ -191,21 +208,50 @@ class LLMEngine:
             with torch.no_grad():
                 gen = self.model.generate(**inputs, **gen_kwargs)
             new_tokens = gen[:, inputs["input_ids"].shape[1]:]
+
+            if "attention_mask" in inputs:
+                in_tokens = int(inputs["attention_mask"].sum().item())
+            else:
+                in_tokens = int(inputs["input_ids"].numel())
+            in_tokens *= max(1, int(num_return_sequences))
+            out_tokens = int((new_tokens != self.tokenizer.pad_token_id).sum().item())
+            add_tokens(in_tokens, out_tokens)
+
             decoded = self.tokenizer.batch_decode(new_tokens, skip_special_tokens=True)
             outputs.extend(d.strip() for d in decoded)
         return outputs
+    def said_nil(self, response):
+        return bool(self.allow_nil and NIL_RE.search(response or ""))
     def match_id(self, response, candidate_ids):
         for candidate_id in candidate_ids:
             if candidate_id and candidate_id in response:
                 return candidate_id
+        if self.said_nil(response):
+            return self.nil_label
         return None
     def final_id(self, response, candidate_ids):
         ids = {c for c in candidate_ids if c}
-        m = re.search(r"(?:answer|final|winning\s*qid|qid)\s*[:\-]?\s*(Q\d+)", response, re.I)
-        if m and m.group(1) in ids:
-            return m.group(1)
+        m = re.search(r"(?:answer|final|winning\s*qid|qid)\s*[:\-]?\s*(Q\d+|NIL)", response, re.I)
+        if m:
+            answer = m.group(1)
+            if answer.upper() == "NIL":
+                return self.nil_label if self.allow_nil else None
+            if answer in ids:
+                return answer
         found = [x for x in re.findall(r"Q\d+", response) if x in ids]
-        return found[-1] if found else None
+        if found:
+            return found[-1]
+        if self.said_nil(response):
+            return self.nil_label
+        return None
+    def nil_candidates(self, block):
+        if not self.allow_nil:
+            return block
+        return block + "\n" + self.prompts["NIL_CANDIDATE_LINE"]
+    def with_nil_instruction(self, prompt):
+        if not self.allow_nil:
+            return prompt
+        return prompt + "\n\n" + self.prompts["NIL_INSTRUCTION"]
     def vote(self, prompt, candidate_ids, max_new_tokens):
         responses = self.generate([prompt], system_prompt=self.system_prompt,max_new_tokens=max_new_tokens, do_sample=True,temperature=self.sc_temperature, top_p=self.sc_top_p,num_return_sequences=self.sc_samples)
         votes = [v for v in (self.final_id(r, candidate_ids) for r in responses) if v]
@@ -213,8 +259,8 @@ class LLMEngine:
             return None
         return Counter(votes).most_common(1)[0][0]
     def select_best_entity(self, mention, candidates, row_context="", col_header=""):
-        values = {"mention": mention,"col_header": col_header,"row_context": row_context,"header_block": opt_line("Column header: ", col_header),"row_block": opt_line("Row context: ", row_context),"candidates": entity_lines(candidates)}
-        prompt = render(self.prompts["CEA_PROMPT"], values)
+        values = {"mention": mention,"col_header": col_header,"row_context": row_context,"header_block": opt_line("Column header: ", col_header),"row_block": opt_line("Row context: ", row_context),"candidates": self.nil_candidates(entity_lines(candidates))}
+        prompt = self.with_nil_instruction(render(self.prompts["CEA_PROMPT"], values))
         response = self.generate([prompt], system_prompt=self.system_prompt,max_new_tokens=self.sizes["MAX_NEW_TOKENS_CEA"])[0]
         return self.match_id(response, [c["qid"] for c in candidates])
     def select_with_context(self, mention, candidates, table_text="",col_header="", col_type="", target_row=None,target_col=None, max_new_tokens=None,type_labels=None, enrich=False):
@@ -229,8 +275,8 @@ class LLMEngine:
             instruction = self.prompts["CONTEXT_INSTRUCTION_ENRICH"]
         else:
             instruction = self.prompts["CONTEXT_INSTRUCTION_PLAIN"]
-        values = {"mention": mention,"table_text": table_text,"table_block": f"Table:\n{table_text}\n\n" if table_text else "", "location": ", ".join(loc),"col_header": col_header,"header_block": opt_line("Column header: ", col_header),"col_type": col_type,"coltype_block": opt_line("Likely column type: ", col_type),"candidates": "\n".join( "- " + candidate_line(c, type_labels, enrich) for c in candidates),"instruction": instruction}
-        prompt = render(self.prompts["CONTEXT_PROMPT"], values)
+        values = {"mention": mention,"table_text": table_text,"table_block": f"Table:\n{table_text}\n\n" if table_text else "", "location": ", ".join(loc),"col_header": col_header,"header_block": opt_line("Column header: ", col_header),"col_type": col_type,"coltype_block": opt_line("Likely column type: ", col_type),"candidates": self.nil_candidates("\n".join( "- " + candidate_line(c, type_labels, enrich) for c in candidates)),"instruction": instruction}
+        prompt = self.with_nil_instruction(render(self.prompts["CONTEXT_PROMPT"], values))
         if max_new_tokens is None:
             key = "MAX_NEW_TOKENS_CONTEXT_COT" if self.context_cot else "MAX_NEW_TOKENS_CONTEXT"
             max_new_tokens = self.sizes[key]

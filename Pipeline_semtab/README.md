@@ -29,6 +29,29 @@ Fast end-to-end check (minutes, not hours) with the exact same settings as the f
 - `config/smoke/` : same three configs as `config/` but pointing to the subset; outputs to `results/smoke_run`.
 - `job_smoke_pipeline.sh` : 2h SLURM job; builds the subset if missing, then runs `main_pipeline.py` on it. Locally: `python make_smoke_subset.py && python main_pipeline.py config/smoke/config_preprocessing.txt config/smoke/config_candidate.txt config/smoke/config_ranking.txt`.
 
+## Running a subset of the stages
+
+`run_stages.py` is a sibling of `main_pipeline.py` that runs any subset of the
+three stages, in pipeline order, from the same launchers and the same configs:
+
+```
+python run_stages.py ranking=config/methods/config_slm_context.txt
+python run_stages.py preprocessing=cfg1.txt candidate=cfg2.txt
+```
+
+Useful when only the ranking stage has to be rerun on candidates that already
+exist, or when a run needs preprocessing and retrieval but no ranking.
+
+## Retrieval variants and their cost
+
+`job_retrieval_cost_valid.sh` — SLURM job, submitted from this folder like `job_full_pipeline.sh` (same requirements: `WikidataTables2024R1/`, `lora-fp16-adapter/` and an existing `logs/` folder). It runs the no-LLM preprocessing of the Valid split once, then six retrieval variants on that same preprocessed folder, through `run_stages.py`, so a single working directory holds the dataset and every log:
+
+- `config_prompting/` — `zeroshot` (reference), `fewshot`, `cot`, `sc`: the prompt is the only thing that changes.
+- `config_size/config_glm_9b.txt` — same prompt as `zeroshot`, larger model.
+- `config_test_finetuning/config_lora.txt` — the LoRA-finetuned generator of the full run.
+
+They are ordered cheapest first, self-consistency last, since it samples `SC_SAMPLES` times per cell. Unlike the per-group jobs in each stage's `Job/`, this one records the cost of each variant: `log_preprocessing/` and `log_candidate_retrieval/` collect one VRAM CSV and one token CSV per `OUTPUT_FOLDER`, and the job ends by printing the total tokens of each variant side by side. Resubmitting with `sbatch --export=ALL,RESUME=1 job_retrieval_cost_valid.sh` skips the variants whose output folder already exists, which is how to finish the run if it hits the 48h wall clock.
+
 ## Experiments vs. full run
 
 The `config/` folder here is only the chained *best* setting. The ablations and comparisons reported in the thesis live in each stage's own `config/` subfolders (`Preprocessing/config/`, `Candidate_Retrieval/config/`, `Ranking/config/`), each with its own README; their outputs are collected in `Evaluator/Testing_data/`.

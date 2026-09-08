@@ -1,7 +1,7 @@
 import os
 
 from output_writer import OutputWriter
-from vram_logger_ranking import log_vram, reset_peaks
+from logger_ranking import log_vram, reset_peaks, log_tokens, reset_tokens, set_run_name
 from wikidata_api_ranking import set_rate_limit
 from method_base import TableContext
 import method_limited_slm as m_limited_slm
@@ -21,13 +21,16 @@ def rank_folder(config):
     if not preprocess_folder or not os.path.exists(preprocess_folder):
         raise ValueError("PREPROCESS_FOLDER must be specified and exist in the config.")
     output_folder = config.get("OUTPUT_FOLDER") or (input_folder + "_ranked")
+    set_run_name(output_folder)
 
     method = config.get("METHOD", "limited_slm").lower()
     as_uri = config.get("ENTITY_AS_URI", "True").lower() == "true"
     write_header = config.get("WRITE_HEADER", "False").lower() == "true"
     row_offset = int(config.get("ROW_OFFSET", "1"))
+    allow_nil = config.get("ALLOW_NIL", "False").lower() == "true"
+    nil_label = (config.get("NIL_LABEL", "NIL").strip() or "NIL") if allow_nil else None
 
-    writer = OutputWriter(output_folder, as_uri=as_uri, write_header=write_header,row_offset=row_offset)
+    writer = OutputWriter(output_folder, as_uri=as_uri, write_header=write_header,row_offset=row_offset, nil_label=nil_label)
     set_rate_limit(config.get("API_SLEEP", "0.1"))
 
     llm = None
@@ -35,6 +38,7 @@ def rank_folder(config):
     if needs_llm(config, method):
         from llm_code_ranking import LLMEngine
         reset_peaks()
+        reset_tokens()
         llm = LLMEngine(config)
         log_vram("model_loaded")
 
@@ -52,9 +56,12 @@ def rank_folder(config):
         print(f"Ranking {filename}")
         ctx = TableContext(input_path, preprocess_path, config, llm, writer)
         llm_calls += annotate(ctx) or 0
+        if llm is not None:
+            log_tokens(filename)
 
     if llm_calls:
         print(f"LLM disambiguation calls: {llm_calls}")
     if llm is not None:
         log_vram("ranking_done")
+        log_tokens("ranking_done")
     writer.flush()

@@ -39,6 +39,10 @@ def annotate(ctx):
     weights = get_weights(cfg)
     cta_margin = float(cfg.get("CTA_MARGIN", "0.3"))
     cta_topk = int(cfg.get("CTA_TOPK", "5"))
+    allow_nil = flag(cfg, "ALLOW_NIL", "False")
+    nil_label = cfg.get("NIL_LABEL", "NIL").strip() or "NIL"
+    nil_threshold = float(cfg.get("NIL_SCORE_THRESHOLD", "0.0"))
+    nil_review = float(cfg.get("NIL_REVIEW_SCORE", "0.0"))
     calls = 0
 
     if "cea" in ctx.tasks or "cpa" in ctx.tasks:
@@ -46,6 +50,8 @@ def annotate(ctx):
             # Try to resolve with context tiebreak first, then LLM if needed
             scored = cea_mod.rank_cell(cands, ctx.type_pct.get(c, {}), weights)
             if not scored:
+                if allow_nil and "cea" in ctx.tasks:
+                    ctx.writer.add_cea(ctx.tab_id, r, c, nil_label)
                 continue
             qid = scored[0][1]["qid"]
             resolved = False
@@ -55,18 +61,20 @@ def annotate(ctx):
                 if choice:
                     qid = choice
                     resolved = True
-            # If not resolved, check if LLM should be used based on gate and margin
-            if not resolved and ctx.llm is not None and use_llm(gate, scored, margin):
+            needs_nil_review = allow_nil and nil_review > 0 and scored[0][0] < nil_review
+            if not resolved and ctx.llm is not None and (use_llm(gate, scored, margin) or needs_nil_review):
                 shortlist = [cc for _, cc in scored[:topk]]
                 type_labels = get_type_labels(ctx, shortlist) if enrich else None
                 choice = ctx.llm.select_with_context(shortlist[0]["mention"], shortlist,table_text=ctx.table_text(r, c, max_rows),col_header=ctx.col_header(c),col_type=ctx.column_type_label(c),target_row=r, target_col=c,type_labels=type_labels, enrich=enrich)
                 calls += 1
                 if choice:
                     qid = choice
-                    ctx.cea_choice[(r, c)] = qid
-            # Write the final choice to the output
+                    resolved = True
+            if allow_nil and not resolved and scored[0][0] < nil_threshold:
+                qid = nil_label
             if qid:
-                ctx.cea_choice[(r, c)] = qid
+                if qid != nil_label:
+                    ctx.cea_choice[(r, c)] = qid
                 if "cea" in ctx.tasks:
                     ctx.writer.add_cea(ctx.tab_id, r, c, qid)
      # Handle CTA

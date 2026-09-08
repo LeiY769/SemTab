@@ -6,7 +6,7 @@ import pandas as pd
 from enrichment import enrich_rows, ENRICHMENT_COLUMNS
 from generators import build_generators
 from llm_code import LLMEngine
-from vram_logger_candidate_retrieval import log_vram, reset_peaks
+from logger_candidate_retrieval import log_vram, reset_peaks, log_tokens, reset_tokens, set_run_name
 import wikidata_api
 
 def read_which_to_process(input_file):
@@ -60,13 +60,15 @@ def retrieve_for_cell(query, context_str, idx, col_idx, generators, max_candidat
     if not rows:
         rows.append({"data": query, "candidates": "", "QID": "","row": idx, "columns": col_idx, "quality": 0})
     return rows
-def candidate_retrieval_file(input_file, generators, max_candidates=0, output_folder=None,enrich=True, language="en"):
+def candidate_retrieval_file(input_file, generators, max_candidates=0, output_folder=None,enrich=True, language="en", emit_empty=False):
     df, process = read_which_to_process(input_file)
     rows = []
 
     for idx, col_idx in process:
         raw_query = df.iloc[idx, col_idx]
         if pd.isna(raw_query) or str(raw_query).strip() == "":
+            if emit_empty:
+                rows.append({"data": "", "candidates": "", "QID": "","row": idx, "columns": col_idx, "quality": 0})
             continue
         query = clean_query(raw_query)
         context_str = build_context_string(df, idx, col_idx)
@@ -87,9 +89,11 @@ def candidate_retrieval_folder(folder, config):
     wikidata_api.set_rate_limit(config.get("API_SLEEP", "0.05"))
     max_candidates = int(config.get("MAX_CANDIDATES_PER_CELL", "0"))
     output_folder = config.get("OUTPUT_FOLDER") or None
+    set_run_name(output_folder or folder)
 
     enrich = str(config.get("ENRICH_CANDIDATES", "true")).strip().lower() == "true"
     language = config.get("LANGUAGE", "en")
+    emit_empty = str(config.get("EMIT_EMPTY_CELLS", "false")).strip().lower() == "true"
 
     engine = None
     use_llm = str(config.get("USE_LLM", "true")).strip().lower() == "true"
@@ -99,6 +103,7 @@ def candidate_retrieval_folder(folder, config):
 
     if use_llm and model_name and model_name != "?":
         reset_peaks()
+        reset_tokens()
         engine = LLMEngine(model_name, adapter_path=adapter_path, load_in_4bit=load_in_4bit)
         log_vram("model_loaded")
     generators = build_generators(config, engine)
@@ -107,8 +112,11 @@ def candidate_retrieval_folder(folder, config):
     total = len(files)
     start_time = time.time()
     for i, f in enumerate(files, 1):
-       candidate_retrieval_file(os.path.join(folder, f), generators,max_candidates, output_folder,enrich=enrich, language=language)
+       candidate_retrieval_file(os.path.join(folder, f), generators,max_candidates, output_folder,enrich=enrich, language=language,emit_empty=emit_empty)
+       if engine is not None:
+           log_tokens(f)
 
     if engine is not None:
         log_vram("retrieval_done")
+        log_tokens("retrieval_done")
     print(f"Finished folder {folder}: {total} files in {time.time() - start_time:.2f}s")

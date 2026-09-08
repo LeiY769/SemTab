@@ -19,6 +19,9 @@ def annotate(ctx):
     cea_llm_topk = int(cfg.get("CEA_LLM_TOPK", "5"))
     cta_margin = float(cfg.get("CTA_MARGIN", "0.3"))
     cta_topk = int(cfg.get("CTA_TOPK", "5"))
+    allow_nil = flag(cfg, "ALLOW_NIL", "False")
+    nil_label = cfg.get("NIL_LABEL", "NIL").strip() or "NIL"
+    nil_threshold = float(cfg.get("NIL_SCORE_THRESHOLD", "0.0"))
 
     if "cea" in ctx.tasks or "cpa" in ctx.tasks:
         for (r, c), cands in ctx.cells.items():
@@ -28,9 +31,12 @@ def annotate(ctx):
                 margin=margin, row_context=ctx.row_context(r),
                 col_header=ctx.col_header(c), weights=weights,
                 row_terms=row_terms, context_margin=ctx_margin,
-                llm_topk=cea_llm_topk)
+                llm_topk=cea_llm_topk, allow_nil=allow_nil,
+                nil_label=nil_label, nil_threshold=nil_threshold,
+                nil_review=float(cfg.get("NIL_REVIEW_SCORE", "0.0")))
             if qid:
-                ctx.cea_choice[(r, c)] = qid
+                if qid != nil_label:
+                    ctx.cea_choice[(r, c)] = qid
                 if "cea" in ctx.tasks:
                     ctx.writer.add_cea(ctx.tab_id, r, c, qid)
     if "cta" in ctx.tasks:

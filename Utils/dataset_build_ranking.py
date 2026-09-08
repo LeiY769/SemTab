@@ -325,6 +325,16 @@ DEFAULT_PROMPTS = {
         "Using the whole table as context (the other columns and rows "
         "describe the same kind of thing), return only the QID of the "
         "entity that best matches the target cell."
+    ),
+    "NIL_CANDIDATE_LINE": (
+        "- NIL: none of the above, the cell does not refer to any of these entities"
+    ),
+    "NIL_INSTRUCTION": (
+        "Some cells refer to no Wikidata entity at all, and the retrieved "
+        "candidates are then all wrong. Answer NIL when that is the case: an "
+        "answer of NIL is correct for such a cell, and picking a plausible but "
+        "wrong entity is not. Only give a QID when the candidate really is the "
+        "entity the cell names."
     )
 }
 def render(template, values):
@@ -451,7 +461,7 @@ def load_config(path):
     return config
 def flag(cfg, key, default="True"):
     return cfg.get(key, default).lower() == "true"
-def load_cea_gold(path, row_offset=1):
+def load_cea_gold(path, row_offset=1, allow_nil=False, nil_label="NIL"):
     gold = {}
     with open(path, "r", encoding="utf-8", newline="") as f:
         for parts in csv.reader(f):
@@ -465,6 +475,9 @@ def load_cea_gold(path, row_offset=1):
             qid = str(url).strip().rstrip("/").split("/")[-1]
             if qid.startswith("Q"):
                 gold[(tab, row - row_offset, col)] = qid
+            elif allow_nil:
+                # A mention with no entity is a training target of its own
+                gold[(tab, row - row_offset, col)] = nil_label
     return gold
 
 def gold_rank(scored, gold):
@@ -472,19 +485,41 @@ def gold_rank(scored, gold):
         if c["qid"] == gold:
             return i + 1
     return 0
+def nil_settings(cfg):
+    allow = flag(cfg, "ALLOW_NIL", "False")
+    return (allow, cfg.get("NIL_LABEL", "NIL").strip() or "NIL",
+            float(cfg.get("NIL_REVIEW_SCORE", "0.0")) if allow else 0.0)
+
+
+def nil_candidates(block, prompts, allow_nil):
+    if not allow_nil:
+        return block
+    return block + "\n" + prompts["NIL_CANDIDATE_LINE"]
+
+
+def with_nil_instruction(prompt, prompts, allow_nil):
+    if not allow_nil:
+        return prompt
+    return prompt + "\n\n" + prompts["NIL_INSTRUCTION"]
+
+
 def build_limited_slm_example(ctx, r, c, scored, gold, prompts, cfg):
     margin = float(cfg.get("CEA_TIEBREAK_MARGIN", "0.05"))
     ctx_tiebreak = flag(cfg, "CEA_CONTEXT_TIEBREAK", "False")
     ctx_margin = float(cfg.get("CEA_CONTEXT_MARGIN", "0.10")) if ctx_tiebreak else 0.0
+    allow_nil, nil_label, nil_review = nil_settings(cfg)
+    is_nil = allow_nil and gold == nil_label
     if len(scored) <= 1:
         return None, "not_ambiguous"
     if ctx_margin > 0:
         if context_tiebreak(scored, ctx.row_terms(r, exclude_col=c), ctx_margin):
             return None, "resolved_by_tiebreak"
-    if scored[0][0] - scored[1][0] >= margin:
+    gated = scored[0][0] - scored[1][0] < margin
+    reviewed = nil_review > 0 and scored[0][0] < nil_review
+    if not (gated or reviewed):
         return None, "not_gated"
     top = [cc for _, cc in scored[:5]]
-    if gold not in {t["qid"] for t in top}:
+    if not is_nil and gold not in {t["qid"] for t in top}:
         return None, "gold_absent"
     if len({t["qid"] for t in top}) < 2:
         return None, "trivial"
@@ -494,11 +529,12 @@ def build_limited_slm_example(ctx, r, c, scored, gold, prompts, cfg):
     values = {"mention": mention, "col_header": col_header, "row_context": row_context,
               "header_block": opt_line("Column header: ", col_header),
               "row_block": opt_line("Row context: ", row_context),
-              "candidates": entity_lines(top)}
-    user = render(prompts["CEA_PROMPT"], values)
+              "candidates": nil_candidates(entity_lines(top), prompts, allow_nil)}
+    user = with_nil_instruction(render(prompts["CEA_PROMPT"], values), prompts, allow_nil)
     return {"user": user, "n_candidates": len(top),
-            "gold_rank": gold_rank(scored, gold),
-            "margin": round(scored[0][0] - scored[1][0], 4)}, "kept"
+            "gold_rank": 0 if is_nil else gold_rank(scored, gold),
+            "is_nil": is_nil,
+            "margin": round(scored[0][0] - scored[1][0], 4)}, "kept_nil" if is_nil else "kept"
 def build_context_example(ctx, r, c, scored, gold, prompts, cfg):
     gate = cfg.get("LLM_GATE", "uncertain").lower()
     margin = float(cfg.get("LLM_CONTEXT_MARGIN", "0.10"))
@@ -507,15 +543,18 @@ def build_context_example(ctx, r, c, scored, gold, prompts, cfg):
     enrich = flag(cfg, "LLM_ENRICH", "False")
     ctx_tiebreak = flag(cfg, "CEA_CONTEXT_TIEBREAK", "False")
     ctx_margin = float(cfg.get("CEA_CONTEXT_MARGIN", "0.10")) if ctx_tiebreak else 0.0
+    allow_nil, nil_label, nil_review = nil_settings(cfg)
+    is_nil = allow_nil and gold == nil_label
     if not scored:
         return None, "no_candidates"
     if ctx_margin > 0 and len(scored) > 1:
         if context_tiebreak(scored, ctx.row_terms(r, exclude_col=c), ctx_margin):
             return None, "resolved_by_tiebreak"
-    if not use_llm(gate, scored, margin):
+    reviewed = nil_review > 0 and scored[0][0] < nil_review
+    if not (use_llm(gate, scored, margin) or reviewed):
         return None, "not_gated"
     shortlist = [cc for _, cc in scored[:topk]]
-    if gold not in {s["qid"] for s in shortlist}:
+    if not is_nil and gold not in {s["qid"] for s in shortlist}:
         return None, "gold_absent"
     if len({s["qid"] for s in shortlist}) < 2:
         return None, "trivial"
@@ -525,11 +564,12 @@ def build_context_example(ctx, r, c, scored, gold, prompts, cfg):
     table_txt = ctx.table_text(r, c, max_rows)
     col_header = ctx.col_header(c)
     col_type = ctx.column_type_label(c)
-    values = {"mention": mention, "table_text": table_txt,"table_block": f"Table:\n{table_txt}\n\n" if table_txt else "","location": f"row {r}, column {c}","col_header": col_header,"header_block": opt_line("Column header: ", col_header),"col_type": col_type,"coltype_block": opt_line("Likely column type: ", col_type),"candidates": "\n".join("- " + candidate_line(cc, type_labels, enrich) for cc in shortlist), "instruction": instruction}
-    user = render(prompts["CONTEXT_PROMPT"], values)
+    values = {"mention": mention, "table_text": table_txt,"table_block": f"Table:\n{table_txt}\n\n" if table_txt else "","location": f"row {r}, column {c}","col_header": col_header,"header_block": opt_line("Column header: ", col_header),"col_type": col_type,"coltype_block": opt_line("Likely column type: ", col_type),"candidates": nil_candidates("\n".join("- " + candidate_line(cc, type_labels, enrich) for cc in shortlist), prompts, allow_nil), "instruction": instruction}
+    user = with_nil_instruction(render(prompts["CONTEXT_PROMPT"], values), prompts, allow_nil)
     return {"user": user, "n_candidates": len(shortlist),
-            "gold_rank": gold_rank(scored, gold),
-            "margin": round(scored[0][0] - scored[1][0], 4) if len(scored) > 1 else 1.0}, "kept"
+            "gold_rank": 0 if is_nil else gold_rank(scored, gold),
+            "is_nil": is_nil,
+            "margin": round(scored[0][0] - scored[1][0], 4) if len(scored) > 1 else 1.0}, "kept_nil" if is_nil else "kept"
 
 BUILDERS = {"slm_limited": build_limited_slm_example, "slm_context": build_context_example}
 
@@ -551,8 +591,12 @@ def build_datasets(config_path):
     prompts = {k: cfg.get(k, v) for k, v in DEFAULT_PROMPTS.items()}
     language = cfg.get("LANGUAGE", "en")
 
-    gold = load_cea_gold(gt_file, row_offset)
-    print(f"Read {len(gold)} CEA gold cells from {gt_file}")
+    allow_nil, nil_label, _ = nil_settings(cfg)
+    nil_max_share = float(cfg.get("NIL_MAX_SHARE", "0.35"))
+    gold = load_cea_gold(gt_file, row_offset, allow_nil, nil_label)
+    n_nil = sum(1 for v in gold.values() if v == nil_label) if allow_nil else 0
+    print(f"Read {len(gold)} CEA gold cells from {gt_file}"
+          + (f" ({n_nil} of them NIL)" if allow_nil else ""))
 
     examples = {m: [] for m in methods}
     stats = {m: Counter() for m in methods}
@@ -589,6 +633,18 @@ def build_datasets(config_path):
         if not exs:
             print(f"[{m}] no examples, nothing written")
             continue
+        if allow_nil and 0 < nil_max_share < 1:
+            nils = [e for e in exs if e.get("is_nil")]
+            rest = [e for e in exs if not e.get("is_nil")]
+            cap = int(len(rest) * nil_max_share / (1 - nil_max_share))
+            if len(nils) > cap:
+                nils = rng.sample(nils, cap)
+                print(f"[{m}] NIL examples capped at {nil_max_share:.0%} of the set: "f"{cap} kept")
+            exs = sorted(rest + nils, key=lambda e: (e["table"], e["row"], e["col"]))
+            examples[m] = exs
+        n_nil_ex = sum(1 for e in exs if e.get("is_nil"))
+        if allow_nil:
+            print(f"[{m}] {n_nil_ex} NIL examples ({n_nil_ex / len(exs):.0%} of the set)")
         hard = sum(1 for e in exs if e["gold_rank"] != 1)
         print(f"[{m}] {len(exs)} examples, gold not rank-1: {hard} ({hard / len(exs):.0%})")
         tables = sorted({e["table"] for e in exs})
